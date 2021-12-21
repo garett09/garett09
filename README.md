@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 21: $1400 267-inch iMac, $300 off 1TB microSD card, more!](https://appleinsider.com/articles/21/12/21/best-deals-dec-21-1400-267-inch-imac-300-off-1tb-microsd-card-more?utm_medium=rss)
- - [Apple begins trial production of iPhone 13 in India](https://appleinsider.com/articles/21/12/21/apple-begins-trial-production-of-iphone-13-in-india?utm_medium=rss)
- - [The biggest smartphone fails of 2021](https://www.androidauthority.com/smartphone-fails-2021-3075568/)<!-- TECH:END -->
+ - [Bose’s noise-canceling QC35 II are back down to their lowest price](https://www.theverge.com/good-deals/2021/12/21/22846762/bose-qc-35-ii-headphones-logitech-gaming-mouse-fujifilm-instax-deal-sale)
+ - [PlainID, which offers enterprise identity and access management tools, raises a $75M Series C led by Insight Ventures, bringing its total funding to $100M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/211221/p13#a211221p13)
+ - [11 great shows from 2021 to stream on Netflix](https://www.theverge.com/22839468/netflix-best-shows-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
