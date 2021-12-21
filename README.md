@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey causes controversy by criticizing Web3, tweeting: &quot;You don&#39;t own &#39;web3.&#39; The VCs and their LPs do. It will never escape their incentives&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/211221/p6#a211221p6)
- - [A look at navigational apps for the blind and low vision people, which have features with mainstream potential like indoor and personalized navigation &lpar;Amanda Morris/New York Times&rpar;](http://www.techmeme.com/211221/p5#a211221p5)
- - [Earlier than expected: OnePlus says OnePlus 10 Pro is coming in January](https://www.androidauthority.com/oneplus-10-pro-january-3078256/)<!-- TECH:END -->
+ - [A framework for fixing social media: apply lessons from physical cities, prevent fake accounts, improve corporate behavior, and listen to integrity workers &lpar;Sahar Massachi/MIT Technology Review&rpar;](http://www.techmeme.com/211221/p7#a211221p7)
+ - [Xiaomi’s next flagship phone will launch on December 28](https://www.theverge.com/2021/12/21/22847884/xiaomi-12-launch-event-december-28-china)
+ - [Jack Dorsey causes controversy by criticizing Web3, tweeting: &quot;You don&#39;t own &#39;web3.&#39; The VCs and their LPs do. It will never escape their incentives&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/211221/p6#a211221p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
