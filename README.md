@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Epic Games Store Is Giving Away Loop Hero And Other Great Games For Free](https://kotaku.com/the-epic-games-store-is-giving-away-loop-hero-and-other-1848248757)
- - [So Many Ubisoft Employees Have Quit That They&#39;re Calling It &#39;The Great Exodus&#39;](https://kotaku.com/so-many-ubisoft-employees-have-quit-that-theyre-calling-1848248999)
- - [Krampus Is Destroying Call Of Duty Players And They Aren’t Happy About It](https://kotaku.com/krampus-is-destroying-call-of-duty-players-and-they-are-1848248331)<!-- GAME:END -->
+ - [The Witcher TV Series Needs A Map](https://kotaku.com/the-witcher-tv-series-needs-a-map-1848243209)
+ - [Give the gift of gaming this holiday season with Razer](https://www.pcgamer.com/give-the-gift-of-gaming-this-holiday-season-with-razer)
+ - [The Epic Games Store Is Giving Away Loop Hero And Other Great Games For Free](https://kotaku.com/the-epic-games-store-is-giving-away-loop-hero-and-other-1848248757)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
