@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [[old language]](http://9gag.com/gag/aegbG1O)
- - 🚯 [Seriously wtf??](http://9gag.com/gag/apgpLp8)
- - 🚯 [Priorities](http://9gag.com/gag/awzn7Pr)<!-- MEMES:END -->
+ - 🚖 [The Finnish Way of Drinking &lpar;0:55&rpar;](http://9gag.com/gag/aM489Kx)
+ - 🚯 [Quarantine in Finland haha](http://9gag.com/gag/aDDWop9)
+ - 🚯 [Wtf is up with sound in movies nowadays](http://9gag.com/gag/avAGnLq)<!-- MEMES:END -->
 
 --- 
 
