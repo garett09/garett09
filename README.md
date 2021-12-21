@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MapmyIndia, which provides mapping data to Apple, Amazon, and others, rises 53% on market debut, opening at $20.88 per share after listing at $13.64 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/211221/p3#a211221p3)
  - [A veteran leaker may have just revealed the Galaxy S21 FE launch date](https://www.androidauthority.com/galaxy-s21-fe-launch-date-2022-3078243/)
- - [Indian e-commerce company Snapdeal files for IPO seeking to raise $165M; Snapdeal targets the non-English speaking and non-affluent bulk of India&#39;s population &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/211221/p2#a211221p2)
- - [A look at US satellite internet speeds, with Starlink median download/upload speeds of 87.3 Mbps and 13.5 Mbps, followed by HughesNet at 19.3 Mbps and 2.5 Mbps &lpar;Isla McKetta/Speedtest Stories &amp; Analysis&rpar;](http://www.techmeme.com/211221/p1#a211221p1)<!-- TECH:END -->
+ - [Indian e-commerce startup Snapdeal files for an IPO seeking to raise $165M; Snapdeal focuses on India&#39;s non-English speaking, non-affluent, and non-urban people &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/211221/p2#a211221p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
