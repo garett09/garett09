@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MapmyIndia, which provides mapping data to Apple, Amazon, and others, rises 53% on market debut, opening at $20.88 per share after listing at $13.64 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/211221/p3#a211221p3)
- - [A veteran leaker may have just revealed the Galaxy S21 FE launch date](https://www.androidauthority.com/galaxy-s21-fe-launch-date-2022-3078243/)
- - [Indian e-commerce startup Snapdeal files for an IPO seeking to raise $165M; Snapdeal focuses on India&#39;s non-English speaking, non-affluent, and non-urban people &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/211221/p2#a211221p2)<!-- TECH:END -->
+ - [A look at navigational apps for the blind and low vision people, which have features with mainstream potential like indoor and personalized navigation &lpar;Amanda Morris/New York Times&rpar;](http://www.techmeme.com/211221/p5#a211221p5)
+ - [Earlier than expected: OnePlus says OnePlus 10 Pro is coming in January](https://www.androidauthority.com/oneplus-10-pro-january-3078256/)
+ - [A deep dive into Yuri Milner&#39;s DST Global, which has a proven ability to correctly call internet trends and has successfully caught multiple technological waves &lpar;Mario Gabriele/The Generalist&rpar;](http://www.techmeme.com/211221/p4#a211221p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
