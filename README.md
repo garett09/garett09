@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is up with sound in movies nowadays](http://9gag.com/gag/avAGnLq)
- - 🚯 [Quarantine in Finland haha](http://9gag.com/gag/aDDWop9)
- - 🚯 [[old language]](http://9gag.com/gag/aegbG1O)<!-- MEMES:END -->
+ - 🚖 [[old language]](http://9gag.com/gag/aegbG1O)
+ - 🚯 [Seriously wtf??](http://9gag.com/gag/apgpLp8)
+ - 🚯 [Priorities](http://9gag.com/gag/awzn7Pr)<!-- MEMES:END -->
 
 --- 
 
