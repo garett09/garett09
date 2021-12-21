@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Log4j software bug: What you need to know     - CNET](https://www.cnet.com/tech/services-and-software/log4j-software-bug-cisa-issues-emergency-directive-to-federal-agencies/#ftag=CAD590a51e)
- - [Nintendo Switch &#39;year in review&#39; site shows your most played games and other stats     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-year-in-review-site-shows-your-most-played-games-and-other-stats/#ftag=CAD590a51e)
- - [On Good Authority: Our favorite video games of 2021](https://www.androidauthority.com/best-games-2021-3074692/)<!-- TECH:END -->
+ - [AirTag anti-stalking feature prevents theft of Dodge Charger](https://appleinsider.com/articles/21/12/21/airtag-anti-stalking-feature-prevents-theft-of-dodge-charger?utm_medium=rss)
+ - [The first LG gaming laptop packs quite a punch, but it’s likely very pricey](https://www.androidauthority.com/lg-gaming-laptop-3078483/)
+ - [McDonald&#39;s is selling Dynamic Yield, a startup it acquired for $300M in 2019 that helps retailers offer personalized digital promotions, to Mastercard &lpar;Kimberly Chin/Wall Street Journal&rpar;](http://www.techmeme.com/211221/p21#a211221p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
