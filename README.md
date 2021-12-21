@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14: Endwalker is a triumphant conclusion to gaming&#39;s biggest comeback story](https://www.pcgamer.com/final-fantasy-14-endwalker-is-a-triumphant-conclusion-to-gamings-biggest-comeback-story)
  - [A Live-Action Nausicaä Movie Could Look Great](https://kotaku.com/a-live-action-nausicaa-movie-could-look-great-1848250751)
- - [Best Horror Game 2021: Resident Evil Village](https://www.pcgamer.com/best-horror-game-2021-resident-evil-village)
- - [The Razer Iskur gaming chair is ready for deployment](https://www.pcgamer.com/the-razer-iskur-gaming-chair-is-ready-for-deployment)<!-- GAME:END -->
+ - [Best Horror Game 2021: Resident Evil Village](https://www.pcgamer.com/best-horror-game-2021-resident-evil-village)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
