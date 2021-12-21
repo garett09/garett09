@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🚀 Launch season again!](https://www.androidauthority.com/newsletters/da-december-21-2021/)
- - [Multichain, which offers interoperability tools for blockchains including Ethereum, Binance Smart Chain, and Avalanche, raises a $60M seed led by Binance Labs &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/211221/p9#a211221p9)
- - [How Y Combinator Changed the World](https://www.wired.com/story/how-y-combinator-changed-the-world)<!-- TECH:END -->
+ - [Best deals Dec. 21: $1400 267-inch iMac, $300 off 1TB microSD card, more!](https://appleinsider.com/articles/21/12/21/best-deals-dec-21-1400-267-inch-imac-300-off-1tb-microsd-card-more?utm_medium=rss)
+ - [Apple begins trial production of iPhone 13 in India](https://appleinsider.com/articles/21/12/21/apple-begins-trial-production-of-iphone-13-in-india?utm_medium=rss)
+ - [The biggest smartphone fails of 2021](https://www.androidauthority.com/smartphone-fails-2021-3075568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
