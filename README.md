@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Random &amp;ldquo;movie&amp;rdquo; behind the scene&amp;hellip;](http://9gag.com/gag/aE8Y71K)
- - 🚯 [Those eyes tho. Black cats are best cats :D](http://9gag.com/gag/aQX9n87)
- - 🚯 [I&amp;#039;ll just make my delivery right Here!](http://9gag.com/gag/aE8YzGp)<!-- MEMES:END -->
+ - 🚖 [Those eyes tho. Black cats are best cats :D](http://9gag.com/gag/aQX9n87)
+ - 🚯 [Drink that Beer!!](http://9gag.com/gag/a51bKmV)
+ - 🚯 [Who are you?!](http://9gag.com/gag/aGz1Rqn)<!-- MEMES:END -->
 
 --- 
 
