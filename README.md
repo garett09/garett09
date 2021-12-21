@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s noise-canceling QC35 II are back down to their lowest price](https://www.theverge.com/good-deals/2021/12/21/22846762/bose-qc-35-ii-headphones-logitech-gaming-mouse-fujifilm-instax-deal-sale)
- - [PlainID, which offers enterprise identity and access management tools, raises a $75M Series C led by Insight Ventures, bringing its total funding to $100M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/211221/p13#a211221p13)
- - [11 great shows from 2021 to stream on Netflix](https://www.theverge.com/22839468/netflix-best-shows-2021)<!-- TECH:END -->
+ - [Biden plan will send out 500 million coronavirus tests to try to tackle the omicron surge](https://www.theverge.com/2021/12/21/22848070/biden-plan-coronavirus-tests-omicron-variant-testing-vaccine)
+ - [Sources detail Amazon&#39;s increasingly close relationship with the DOJ and FBI, as it tips off the agencies about employees and third-party sellers &lpar;Politico&rpar;](http://www.techmeme.com/211221/p18#a211221p18)
+ - [2021 smartphone mega shootout: This year’s best camera phones tested](https://www.androidauthority.com/best-camera-phone-2021-3072813/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
