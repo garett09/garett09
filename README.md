@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I bought the cheapest laptop I could afford and started playing Doom on ultra low settings at 1366x768 resolution for the first time. What a game! I&amp;#039;m glad I upgraded from YouTube.](http://9gag.com/gag/aAGdR59)
- - 🚯 [Best friend forever...](http://9gag.com/gag/aRrmQmB)
- - 🚯 [See this too often on dating apps](http://9gag.com/gag/arnbe9y)<!-- MEMES:END -->
+ - 🚖 [Best friend forever...](http://9gag.com/gag/aRrmQmB)
+ - 🚯 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
+ - 🚯 [Teaching a lesson to a bunch of assholes](http://9gag.com/gag/aQX9qO8)<!-- MEMES:END -->
 
 --- 
 
