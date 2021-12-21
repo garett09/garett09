@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 great Spider-Man games to play after No Way Home](https://www.polygon.com/gaming/22846886/spider-man-games-no-way-home-marvel-movie-best-games-miles-morales)
- - [£330 for a 32-inch 1440p gaming monitor with 144Hz refresh is a true Christmas miracle](https://www.pcgamer.com/pound330-for-a-32-inch-1440p-gaming-monitor-with-144hz-refresh-is-a-true-christmas-miracle)
- - [Final Fantasy 14: Endwalker &#39;fixes&#39; its beautifully low-poly grapes](https://www.pcgamer.com/final-fantasy-14-endwalker-fixes-its-beautifully-low-poly-grapes)<!-- GAME:END -->
+ - [The astonishing, angry Matrix Resurrections deals with what’s real in a world where nothing is](https://www.polygon.com/reviews/22847211/the-matrix-resurrections-review)
+ - [The Biggest Gaming Disappointments Of 2021](https://kotaku.com/the-biggest-gaming-disappointments-of-2021-1848249172)
+ - [The monoliths in The Witcher Season 2, explained](https://www.pcgamer.com/the-witcher-monoliths-meaning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
