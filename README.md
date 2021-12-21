@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle: What is it and why is everyone tweeting about it?     - CNET](https://www.cnet.com/news/what-is-wordle-and-why-is-everyone-tweeting-about-it/#ftag=CAD590a51e)
- - [WWE Day 1 2021: How to watch, start times, full card and Peacock     - CNET](https://www.cnet.com/news/wwe-day-1-2021-how-to-watch-start-times-full-card-and-peacock/#ftag=CAD590a51e)
- - [Crypto and blockchain startups raised $28B+ in 2021, up 4x YoY, according to PitchBook, as large tech companies lose execs and engineers to crypto companies &lpar;New York Times&rpar;](http://www.techmeme.com/211220/p36#a211220p36)<!-- TECH:END -->
+ - [A veteran leaker may have just revealed the Galaxy S21 FE launch date](https://www.androidauthority.com/galaxy-s21-fe-launch-date-2022-3078243/)
+ - [Indian e-commerce company Snapdeal files for IPO seeking to raise $165M; Snapdeal targets the non-English speaking and non-affluent bulk of India&#39;s population &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/211221/p2#a211221p2)
+ - [A look at US satellite internet speeds, with Starlink median download/upload speeds of 87.3 Mbps and 13.5 Mbps, followed by HughesNet at 19.3 Mbps and 2.5 Mbps &lpar;Isla McKetta/Speedtest Stories &amp; Analysis&rpar;](http://www.techmeme.com/211221/p1#a211221p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
