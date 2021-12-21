@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [7 great Spider-Man games to play after No Way Home](https://www.polygon.com/gaming/22846886/spider-man-games-no-way-home-marvel-movie-best-games-miles-morales)
  - [£330 for a 32-inch 1440p gaming monitor with 144Hz refresh is a true Christmas miracle](https://www.pcgamer.com/pound330-for-a-32-inch-1440p-gaming-monitor-with-144hz-refresh-is-a-true-christmas-miracle)
- - [Final Fantasy 14: Endwalker &#39;fixes&#39; its beautifully low-poly grapes](https://www.pcgamer.com/final-fantasy-14-endwalker-fixes-its-beautifully-low-poly-grapes)
- - [Henry Cavill wants to star in a Red Dead Redemption movie now](https://www.pcgamer.com/henry-cavill-wants-to-star-in-a-red-dead-redemption-movie-now)<!-- GAME:END -->
+ - [Final Fantasy 14: Endwalker &#39;fixes&#39; its beautifully low-poly grapes](https://www.pcgamer.com/final-fantasy-14-endwalker-fixes-its-beautifully-low-poly-grapes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
