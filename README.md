@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 6 Pixel Remaster set to launch February 2022](https://www.pcgamer.com/final-fantasy-6-pixel-remaster-set-to-launch-february-2022)
- - [Xbox and Adidas Unveil Third and Final Sneaker in 20th Anniversary Collaboration](https://news.xbox.com/en-us/2021/12/21/xbox-series-x-adidas-sneaker/)
- - [Call Of Duty Fans Exasperated As Games See Big Problems For Days](https://kotaku.com/call-of-duty-fans-exasperated-as-games-see-big-problems-1848252568)<!-- GAME:END -->
+ - [Bring Cheer to Tamriel During The Elder Scrolls Online’s New Life Festival Event](https://news.xbox.com/en-us/2021/12/21/bring-cheer-to-tamriel-new-life-festival-event/)
+ - [Fahey’s Top Ten Games Of 2021](https://kotaku.com/fahey-s-top-ten-games-of-2021-1848252555)
+ - [Final Fantasy 6 Pixel Remaster set to launch February 2022](https://www.pcgamer.com/final-fantasy-6-pixel-remaster-set-to-launch-february-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
