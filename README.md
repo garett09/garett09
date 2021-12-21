@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best friend forever...](http://9gag.com/gag/aRrmQmB)
- - 🚯 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
+ - 🚖 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
+ - 🚯 [It&amp;rsquo;s 91.21$](http://9gag.com/gag/aLvDPDV)
  - 🚯 [Teaching a lesson to a bunch of assholes](http://9gag.com/gag/aQX9qO8)<!-- MEMES:END -->
 
 --- 
