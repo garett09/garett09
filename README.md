@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deep Thoughts...](http://9gag.com/gag/aRrmVN5)
- - 🚯 [Yes it is true](http://9gag.com/gag/aGz1RK7)
- - 🚯 [Forgiveness stops.](http://9gag.com/gag/aLvDB8M)<!-- MEMES:END -->
+ - 🚖 [Good old Trump jokes](http://9gag.com/gag/a61bLR8)
+ - 🚯 [Big sports fan](http://9gag.com/gag/arnbRmK)
+ - 🚯 [Why isn&amp;rsquo;t this standard?](http://9gag.com/gag/aM48QNX)<!-- MEMES:END -->
 
 --- 
 
