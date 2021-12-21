@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Miles can do it?](http://9gag.com/gag/a0ZbLOd)
- - 🚯 [Teaching a lesson to a bunch of assholes](http://9gag.com/gag/aQX9qO8)
- - 🚯 [Best gift](http://9gag.com/gag/a11bZYD)<!-- MEMES:END -->
+ - 🚖 [A Japanese ice cream maker released a 60 second advert to apologize for increasing the price of its popsicle, going up from Y60 to Y70 &lpar;$0.62&rpar;, a hike of 9 cents for the first time in 25 years](http://9gag.com/gag/apgp0pM)
+ - 🚯 [Best gift](http://9gag.com/gag/a11bZYD)
+ - 🚯 [Nothing lasts forever, enjoy your youth.](http://9gag.com/gag/aAGdVQg)<!-- MEMES:END -->
 
 --- 
 
