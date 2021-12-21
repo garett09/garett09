@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those eyes tho. Black cats are best cats :D](http://9gag.com/gag/aQX9n87)
- - 🚯 [Drink that Beer!!](http://9gag.com/gag/a51bKmV)
- - 🚯 [Who are you?!](http://9gag.com/gag/aGz1Rqn)<!-- MEMES:END -->
+ - 🚖 [Drink that Beer!!](http://9gag.com/gag/a51bKmV)
+ - 🚯 [[old language]](http://9gag.com/gag/aegbG1O)
+ - 🚯 [Cat says meow](http://9gag.com/gag/angbBRo)<!-- MEMES:END -->
 
 --- 
 
