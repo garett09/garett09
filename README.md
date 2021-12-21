@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [£330 for a 32-inch 1440p gaming monitor with 144Hz refresh is a true Christmas miracle](https://www.pcgamer.com/pound330-for-a-32-inch-1440p-gaming-monitor-with-144hz-refresh-is-a-true-christmas-miracle)
  - [Final Fantasy 14: Endwalker &#39;fixes&#39; its beautifully low-poly grapes](https://www.pcgamer.com/final-fantasy-14-endwalker-fixes-its-beautifully-low-poly-grapes)
- - [Henry Cavill wants to star in a Red Dead Redemption movie now](https://www.pcgamer.com/henry-cavill-wants-to-star-in-a-red-dead-redemption-movie-now)
- - [Book of Travels convinced me I can still love MMOs as long as they&#39;re tiny](https://www.pcgamer.com/book-of-travels-convinced-me-i-can-still-love-mmos-as-long-as-theyre-tiny)<!-- GAME:END -->
+ - [Henry Cavill wants to star in a Red Dead Redemption movie now](https://www.pcgamer.com/henry-cavill-wants-to-star-in-a-red-dead-redemption-movie-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
