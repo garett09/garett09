@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Birb](http://9gag.com/gag/arnb466)
- - 🚯 [The floor tiles at our local post office](http://9gag.com/gag/aAGdpx9)
- - 🚯 [Webb telescope will be launched on Wednesday my dudes !!! It&amp;rsquo;ll be 7 times more powerful than the hubble if it works. Knock on the wood fingers crossed!](http://9gag.com/gag/amgYLDo)<!-- MEMES:END -->
+ - 🚯 [Big sports fan](http://9gag.com/gag/arnbRmK)
+ - 🚯 [The floor tiles at our local post office](http://9gag.com/gag/aAGdpx9)<!-- MEMES:END -->
 
 --- 
 
