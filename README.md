@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Razer Iskur gaming chair is ready for deployment](https://www.pcgamer.com/the-razer-iskur-gaming-chair-is-ready-for-deployment)
- - [AMD&#39;s Threadripper PRO 5000 series to launch in March?](https://www.pcgamer.com/amds-threadripper-pro-5000-series-to-launch-in-march)
- - [LG&#39;s first official gaming laptop boasts an RTX 3080 and 11th Gen Intel CPU](https://www.pcgamer.com/lgs-first-official-gaming-laptop-boasts-an-rtx-3080-and-11th-gen-intel-cpu)<!-- GAME:END -->
+ - [A Live-Action Nausicaä Movie Could Look Great](https://kotaku.com/a-live-action-nausicaa-movie-could-look-great-1848250751)
+ - [Best Horror Game 2021: Resident Evil Village](https://www.pcgamer.com/best-horror-game-2021-resident-evil-village)
+ - [The Razer Iskur gaming chair is ready for deployment](https://www.pcgamer.com/the-razer-iskur-gaming-chair-is-ready-for-deployment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
