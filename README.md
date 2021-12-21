@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Japanese ice cream maker released a 60 second advert to apologize for increasing the price of its popsicle, going up from Y60 to Y70 &lpar;$0.62&rpar;, a hike of 9 cents for the first time in 25 years](http://9gag.com/gag/apgp0pM)
- - 🚯 [Best gift](http://9gag.com/gag/a11bZYD)
+ - 🚖 [And probably overcharge for home brew beer](http://9gag.com/gag/ay9D0mb)
+ - 🚯 [It&amp;#039;s peaceful](http://9gag.com/gag/axBVZWD)
  - 🚯 [Nothing lasts forever, enjoy your youth.](http://9gag.com/gag/aAGdVQg)<!-- MEMES:END -->
 
 --- 
