@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch Streamer Drops Bars, Kicks Ass In Destiny 2](https://kotaku.com/twitch-streamer-drops-bars-kicks-ass-in-destiny-2-1848254272)
  - [Polygon’s Best of 2021](https://www.polygon.com/22822200/polygons-best-of-2021-video-games-tv-movies-tabletop)
- - [The Batman cast and director found inspiration in Kurt Cobain, cat videos](https://www.polygon.com/22848317/the-batman-cast-robert-pattinson-bruce-wayne-zoe-kravitz-catwoman-inspiration)
- - [Halo Infinite’s Winter Event Unfortunately Demands A Big Time Commitment](https://kotaku.com/halo-infinite-s-winter-event-unfortunately-demands-a-bi-1848254025)<!-- GAME:END -->
+ - [The Batman cast and director found inspiration in Kurt Cobain, cat videos](https://www.polygon.com/22848317/the-batman-cast-robert-pattinson-bruce-wayne-zoe-kravitz-catwoman-inspiration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
