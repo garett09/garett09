@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The astonishing, angry Matrix Resurrections deals with what’s real in a world where nothing is](https://www.polygon.com/reviews/22847211/the-matrix-resurrections-review)
- - [The Biggest Gaming Disappointments Of 2021](https://kotaku.com/the-biggest-gaming-disappointments-of-2021-1848249172)
- - [The monoliths in The Witcher Season 2, explained](https://www.pcgamer.com/the-witcher-monoliths-meaning)<!-- GAME:END -->
+ - [Final Fantasy 6 Pixel Remaster set to launch February 2022](https://www.pcgamer.com/final-fantasy-6-pixel-remaster-set-to-launch-february-2022)
+ - [Xbox and Adidas Unveil Third and Final Sneaker in 20th Anniversary Collaboration](https://news.xbox.com/en-us/2021/12/21/xbox-series-x-adidas-sneaker/)
+ - [Call Of Duty Fans Exasperated As Games See Big Problems For Days](https://kotaku.com/call-of-duty-fans-exasperated-as-games-see-big-problems-1848252568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
