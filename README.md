@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Endwalker is a triumphant conclusion to gaming&#39;s biggest comeback story](https://www.pcgamer.com/final-fantasy-14-endwalker-is-a-triumphant-conclusion-to-gamings-biggest-comeback-story)
- - [A Live-Action Nausicaä Movie Could Look Great](https://kotaku.com/a-live-action-nausicaa-movie-could-look-great-1848250751)
- - [Best Horror Game 2021: Resident Evil Village](https://www.pcgamer.com/best-horror-game-2021-resident-evil-village)<!-- GAME:END -->
+ - [Final Fantasy 14: Endwalker &#39;fixes&#39; its beautifully low-poly grapes](https://www.pcgamer.com/final-fantasy-14-endwalker-fixes-its-beautifully-low-poly-grapes)
+ - [Henry Cavill wants to star in a Red Dead Redemption movie now](https://www.pcgamer.com/henry-cavill-wants-to-star-in-a-red-dead-redemption-movie-now)
+ - [Book of Travels convinced me I can still love MMOs as long as they&#39;re tiny](https://www.pcgamer.com/book-of-travels-convinced-me-i-can-still-love-mmos-as-long-as-theyre-tiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
