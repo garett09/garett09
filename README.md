@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag anti-stalking feature prevents theft of Dodge Charger](https://appleinsider.com/articles/21/12/21/airtag-anti-stalking-feature-prevents-theft-of-dodge-charger?utm_medium=rss)
- - [The first LG gaming laptop packs quite a punch, but it’s likely very pricey](https://www.androidauthority.com/lg-gaming-laptop-3078483/)
- - [McDonald&#39;s is selling Dynamic Yield, a startup it acquired for $300M in 2019 that helps retailers offer personalized digital promotions, to Mastercard &lpar;Kimberly Chin/Wall Street Journal&rpar;](http://www.techmeme.com/211221/p21#a211221p21)<!-- TECH:END -->
+ - [Jack Dorsey says VCs really own Web3 &lpar;and Web3 boosters are pretty mad about it&rpar;](https://www.theverge.com/2021/12/21/22848162/jack-dorsey-web3-criticism-a16z-ownership-venture-capital-twitter)
+ - [New analysis further links Pegasus spyware to Jamal Khashoggi murder](https://www.theverge.com/2021/12/21/22848485/pegasus-spyware-jamal-khashoggi-murder-nso-hanan-elatr-new-analysis)
+ - [TikTok.com was the most popular domain globally between August and December 2021, after surpassing Google, Facebook, Microsoft, Apple, and Amazon during 2021 &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/211221/p22#a211221p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
