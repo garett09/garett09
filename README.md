@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 63 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)
- - [Deal alert: Apple&#39;s Mac mini with 16GB RAM is discounted to $799, in stock](https://appleinsider.com/articles/21/12/21/deal-alert-apples-mac-mini-with-16gb-ram-is-discounted-to-799-in-stock?utm_medium=rss)
- - [72 Last-Minute Christmas Gifts on Sale Now](https://www.wired.com/story/last-minute-deals-and-christmas-gifts-2021)<!-- TECH:END -->
+ - [DuckDuckGo working on a standalone web browser for Mac &amp; Windows](https://appleinsider.com/articles/21/12/21/duckduckgo-working-on-a-standalone-web-browser-for-mac-windows?utm_medium=rss)
+ - [After Build Back Better, here’s how the US can still clean up its power grid](https://www.theverge.com/2021/12/21/22848603/democrats-build-back-better-bill-clean-energy-power-grid-manchin)
+ - [The best travel apps you need on your iPhone](https://appleinsider.com/articles/21/12/21/the-best-travel-apps-you-need-on-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
