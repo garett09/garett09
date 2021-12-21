@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo working on a standalone web browser for Mac &amp; Windows](https://appleinsider.com/articles/21/12/21/duckduckgo-working-on-a-standalone-web-browser-for-mac-windows?utm_medium=rss)
- - [After Build Back Better, here’s how the US can still clean up its power grid](https://www.theverge.com/2021/12/21/22848603/democrats-build-back-better-bill-clean-energy-power-grid-manchin)
- - [The best travel apps you need on your iPhone](https://appleinsider.com/articles/21/12/21/the-best-travel-apps-you-need-on-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Ad board tells Mint Mobile it should stop abusing the word ‘unlimited’](https://www.theverge.com/2021/12/21/22848536/mint-mobile-prepaid-unlimited-ad)
+ - [Scammers steal $150K worth of crypto from NFT project with Discord hack](https://www.theverge.com/2021/12/21/22848840/scammers-steal-crypto-nft-project-fractal-discord-hack-solana)
+ - [TSA checkpoints will start supporting Apple Wallet IDs in February](https://www.theverge.com/2021/12/21/22848300/apple-wallet-tsa-id-check-airport-security-support-mid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
