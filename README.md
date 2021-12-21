@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EKWB covers an ITX mobo with a water block and it looks awesome](https://www.pcgamer.com/ekwb-covers-an-itx-mobo-with-a-water-block-and-it-looks-awesome)
- - [This audiophile optimised SSD is designed to make your audio sound better](https://www.pcgamer.com/this-audiophile-optimised-ssd-is-designed-to-make-your-audio-sound-better)
- - [The Witcher TV Series Needs A Map](https://kotaku.com/the-witcher-tv-series-needs-a-map-1848243209)<!-- GAME:END -->
+ - [The Razer Iskur gaming chair is ready for deployment](https://www.pcgamer.com/the-razer-iskur-gaming-chair-is-ready-for-deployment)
+ - [AMD&#39;s Threadripper PRO 5000 series to launch in March?](https://www.pcgamer.com/amds-threadripper-pro-5000-series-to-launch-in-march)
+ - [LG&#39;s first official gaming laptop boasts an RTX 3080 and 11th Gen Intel CPU](https://www.pcgamer.com/lgs-first-official-gaming-laptop-boasts-an-rtx-3080-and-11th-gen-intel-cpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
