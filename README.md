@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get More Game Every Month with EA Play and Game Pass Ultimate](https://news.xbox.com/en-us/2021/12/21/get-more-game-every-month-with-ea-play-and-game-pass-ultimate/)
- - [When and where you can watch The Matrix Resurrections](https://www.polygon.com/22848358/matrix-4-resurrections-hbo-max-where-to-watch-release-date-free-trial)
- - [Corsair HS80 RGB Wireless gaming headset review](https://www.pcgamer.com/corsair-hs80-rgb-wireless-gaming-headset-review)<!-- GAME:END -->
+ - [Polygon’s Best of 2021](https://www.polygon.com/22822200/polygons-best-of-2021-video-games-tv-movies-tabletop)
+ - [The Batman cast and director found inspiration in Kurt Cobain, cat videos](https://www.polygon.com/22848317/the-batman-cast-robert-pattinson-bruce-wayne-zoe-kravitz-catwoman-inspiration)
+ - [Halo Infinite’s Winter Event Unfortunately Demands A Big Time Commitment](https://kotaku.com/halo-infinite-s-winter-event-unfortunately-demands-a-bi-1848254025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
