@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old Trump jokes](http://9gag.com/gag/a61bLR8)
- - 🚯 [Big sports fan](http://9gag.com/gag/arnbRmK)
- - 🚯 [Why isn&amp;rsquo;t this standard?](http://9gag.com/gag/aM48QNX)<!-- MEMES:END -->
+ - 🚖 [Random &amp;ldquo;movie&amp;rdquo; behind the scene&amp;hellip;](http://9gag.com/gag/aE8Y71K)
+ - 🚯 [Those eyes tho. Black cats are best cats :D](http://9gag.com/gag/aQX9n87)
+ - 🚯 [I&amp;#039;ll just make my delivery right Here!](http://9gag.com/gag/aE8YzGp)<!-- MEMES:END -->
 
 --- 
 
