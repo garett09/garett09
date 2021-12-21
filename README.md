@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here are some of my favs. Recommend me some animation?](http://9gag.com/gag/aKmVqL6)
- - 🚯 [Any day](http://9gag.com/gag/aAGdPjR)
- - 🚯 [How men respond to attractive vs unattractive females](http://9gag.com/gag/aDDWoex)<!-- MEMES:END -->
+ - 🚖 [Years worth of dryer lint](http://9gag.com/gag/amgYrNd)
+ - 🚯 [The story in wicher base on europa Netflix :](http://9gag.com/gag/aRrmAyA)
+ - 🚯 [Who remembers this gem?](http://9gag.com/gag/aAGdwqp)<!-- MEMES:END -->
 
 --- 
 
