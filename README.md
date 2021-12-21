@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
- - 🚯 [It&amp;rsquo;s 91.21$](http://9gag.com/gag/aLvDPDV)
- - 🚯 [Teaching a lesson to a bunch of assholes](http://9gag.com/gag/aQX9qO8)<!-- MEMES:END -->
+ - 🚖 [How Miles can do it?](http://9gag.com/gag/a0ZbLOd)
+ - 🚯 [Teaching a lesson to a bunch of assholes](http://9gag.com/gag/aQX9qO8)
+ - 🚯 [Best gift](http://9gag.com/gag/a11bZYD)<!-- MEMES:END -->
 
 --- 
 
