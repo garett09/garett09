@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok faces allegations that it copied code from broadcast app OBS Studio and other open source projects for Live Studio without adhering to licensing terms &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/211220/p31#a211220p31)
- - [Google is turning off the controls for OnHub routers at the end of 2022](https://www.theverge.com/2021/12/20/22847277/google-onhub-router-shutdown-2022-nest-wifi-replacement)
- - [Before dinosaurs, millipedes larger than you crawled the Earth     - CNET](https://www.cnet.com/news/before-dinosaurs-millipedes-larger-than-you-crawled-the-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best home COVID-19 tests     - CNET](https://www.cnet.com/health/medical/the-best-home-covid-19-tests/#ftag=CAD590a51e)
+ - [Today I learned double-pressing Ctrl can become a powerful Windows 11 shortcut for finding your mouse](https://www.theverge.com/2021/12/20/22847428/how-to-find-my-mouse-cursor-pointer-windows-11-powertoys-til)
+ - [Saudi Arabia-based Sary, a B2B e-commerce marketplace that connects small retailers with a network of wholesalers and manufacturers, raises a $75M Series C &lpar;Wamda&rpar;](http://www.techmeme.com/211220/p32#a211220p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
