@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bring Cheer to Tamriel During The Elder Scrolls Online’s New Life Festival Event](https://news.xbox.com/en-us/2021/12/21/bring-cheer-to-tamriel-new-life-festival-event/)
- - [Fahey’s Top Ten Games Of 2021](https://kotaku.com/fahey-s-top-ten-games-of-2021-1848252555)
- - [Final Fantasy 6 Pixel Remaster set to launch February 2022](https://www.pcgamer.com/final-fantasy-6-pixel-remaster-set-to-launch-february-2022)<!-- GAME:END -->
+ - [Get More Game Every Month with EA Play and Game Pass Ultimate](https://news.xbox.com/en-us/2021/12/21/get-more-game-every-month-with-ea-play-and-game-pass-ultimate/)
+ - [When and where you can watch The Matrix Resurrections](https://www.polygon.com/22848358/matrix-4-resurrections-hbo-max-where-to-watch-release-date-free-trial)
+ - [Corsair HS80 RGB Wireless gaming headset review](https://www.pcgamer.com/corsair-hs80-rgb-wireless-gaming-headset-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
