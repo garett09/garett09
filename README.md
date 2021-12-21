@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What in the name of all demons is that?](http://9gag.com/gag/aZrmxmz)
- - 🚯 [See this too often on dating apps](http://9gag.com/gag/arnbe9y)
- - 🚯 [And probably overcharge for home brew beer](http://9gag.com/gag/ay9D0mb)<!-- MEMES:END -->
+ - 🚖 [Birb](http://9gag.com/gag/arnb466)
+ - 🚯 [The floor tiles at our local post office](http://9gag.com/gag/aAGdpx9)
+ - 🚯 [Webb telescope will be launched on Wednesday my dudes !!! It&amp;rsquo;ll be 7 times more powerful than the hubble if it works. Knock on the wood fingers crossed!](http://9gag.com/gag/amgYLDo)<!-- MEMES:END -->
 
 --- 
 
