@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birb](http://9gag.com/gag/arnb466)
- - 🚯 [Big sports fan](http://9gag.com/gag/arnbRmK)
- - 🚯 [The floor tiles at our local post office](http://9gag.com/gag/aAGdpx9)<!-- MEMES:END -->
+ - 🚖 [Deep Thoughts...](http://9gag.com/gag/aRrmVN5)
+ - 🚯 [Yes it is true](http://9gag.com/gag/aGz1RK7)
+ - 🚯 [Forgiveness stops.](http://9gag.com/gag/aLvDB8M)<!-- MEMES:END -->
 
 --- 
 
