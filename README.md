@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Mubi? Everything you need to know about the cinephile-centric streamer](https://www.androidauthority.com/what-is-mubi-3076839/)
- - [Welcome to Miami, Where All Your Memes Come True!](https://www.wired.com/story/miami-tech-boom-where-memes-come-true)
- - [We asked, you told us: Most of you plan to buy a new phone next year](https://www.androidauthority.com/buy-new-phone-next-year-poll-results-3078292/)<!-- TECH:END -->
+ - [Daily Authority: 🚀 Launch season again!](https://www.androidauthority.com/newsletters/da-december-21-2021/)
+ - [Multichain, which offers interoperability tools for blockchains including Ethereum, Binance Smart Chain, and Avalanche, raises a $60M seed led by Binance Labs &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/211221/p9#a211221p9)
+ - [How Y Combinator Changed the World](https://www.wired.com/story/how-y-combinator-changed-the-world)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
