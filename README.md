@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A framework for fixing social media: apply lessons from physical cities, prevent fake accounts, improve corporate behavior, and listen to integrity workers &lpar;Sahar Massachi/MIT Technology Review&rpar;](http://www.techmeme.com/211221/p7#a211221p7)
- - [Xiaomi’s next flagship phone will launch on December 28](https://www.theverge.com/2021/12/21/22847884/xiaomi-12-launch-event-december-28-china)
- - [Jack Dorsey causes controversy by criticizing Web3, tweeting: &quot;You don&#39;t own &#39;web3.&#39; The VCs and their LPs do. It will never escape their incentives&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/211221/p6#a211221p6)<!-- TECH:END -->
+ - [What is Mubi? Everything you need to know about the cinephile-centric streamer](https://www.androidauthority.com/what-is-mubi-3076839/)
+ - [Welcome to Miami, Where All Your Memes Come True!](https://www.wired.com/story/miami-tech-boom-where-memes-come-true)
+ - [We asked, you told us: Most of you plan to buy a new phone next year](https://www.androidauthority.com/buy-new-phone-next-year-poll-results-3078292/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
