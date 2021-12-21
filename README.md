@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad board tells Mint Mobile it should stop abusing the word ‘unlimited’](https://www.theverge.com/2021/12/21/22848536/mint-mobile-prepaid-unlimited-ad)
- - [Scammers steal $150K worth of crypto from NFT project with Discord hack](https://www.theverge.com/2021/12/21/22848840/scammers-steal-crypto-nft-project-fractal-discord-hack-solana)
- - [TSA checkpoints will start supporting Apple Wallet IDs in February](https://www.theverge.com/2021/12/21/22848300/apple-wallet-tsa-id-check-airport-security-support-mid)<!-- TECH:END -->
+ - [White House says it will set up a website to distribute 500 million free COVID tests](https://www.theverge.com/2021/12/21/22848887/joe-biden-google-free-covid-test-near-me)
+ - [You can now browse Zillow real estate listings with FaceTime &amp; SharePlay](https://appleinsider.com/articles/21/12/21/you-can-now-browse-zillow-real-estate-listings-with-facetime-shareplay?utm_medium=rss)
+ - [Meta says over half of its Bulletin newsletter platform&#39;s 115 creators have over 1,000 free subscribers, &quot;with many having more than 5,000 or 10,000&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/211221/p24#a211221p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
