@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile says it blocked 21B scam, spam, and unwanted robocalls in 2021 via its Scam Shield service, as scam call traffic rose 116%+ YoY to 425M calls per week &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211220/p33#a211220p33)
- - [Spider-Man: No Way Home ending explained and all your questions answered     - CNET](https://www.cnet.com/news/spider-man-no-way-home-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [What is Wordle and why is everyone tweeting about it?     - CNET](https://www.cnet.com/news/what-is-wordle-and-why-is-everyone-tweeting-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vietnam-based MoMo, an e-wallet and payments app, raises a ~$200M Series E led by Mizuho Bank at a $2B+ valuation &lpar;Nguyen Xuan Quynh/Bloomberg&rpar;](http://www.techmeme.com/211220/p34#a211220p34)
+ - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-ending-explained/#ftag=CAD590a51e)
+ - [T-Mobile says it blocked 21B scam, spam, and unwanted robocalls in 2021 via its Scam Shield service, as scam call traffic rose 116%+ YoY to 425M calls per week &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211220/p33#a211220p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
