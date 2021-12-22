@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Cooper Carbine loadouts for Warzone](https://www.pcgamer.com/best-cooper-carbine-warzone-loadout)
  - [The Pathless is the game of exploration and escape that I needed in 2021](https://www.pcgamer.com/the-pathless-is-the-game-of-exploration-and-escape-that-i-needed-in-2021)
- - [Overwatch is free-to-play over the festive period](https://www.pcgamer.com/overwatch-is-free-to-play-over-the-festive-period)
- - [Unpacking is a relaxing puzzler that takes all the stress out of moving home](https://www.pcgamer.com/unpacking-is-a-relaxing-puzzler-that-takes-all-the-stress-out-of-moving-home)<!-- GAME:END -->
+ - [Overwatch is free-to-play over the festive period](https://www.pcgamer.com/overwatch-is-free-to-play-over-the-festive-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
