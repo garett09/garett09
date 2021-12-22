@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Years worth of dryer lint](http://9gag.com/gag/amgYrNd)
- - 🚯 [The story in wicher base on europa Netflix :](http://9gag.com/gag/aRrmAyA)
- - 🚯 [Who remembers this gem?](http://9gag.com/gag/aAGdwqp)<!-- MEMES:END -->
+ - 🚖 [Who remembers this gem?](http://9gag.com/gag/aAGdwqp)
+ - 🚯 [Props to indie developers who aren&amp;#039;t a part of this trend](http://9gag.com/gag/amgYY6V)
+ - 🚯 [Normal day in Australia](http://9gag.com/gag/avAGGzE)<!-- MEMES:END -->
 
 --- 
 
