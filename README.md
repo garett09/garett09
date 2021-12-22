@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Project Zomboid Is Still Going Strong Ten Years Later](https://kotaku.com/project-zomboid-is-still-going-strong-ten-years-later-1848255543)
  - [Twitch Co-Founder Gets Discord Hacked, $150,000 Stolen From Users In NFT Scam](https://kotaku.com/twitch-co-founder-gets-discord-hacked-150-000-stolen-1848255976)
- - [I have mixed feelings about HeroQuest&#39;s deluxe revival](https://www.pcgamer.com/i-have-mixed-feelings-about-heroquests-deluxe-revival)
- - [Luke Plunkett&#39;s Top Ten Games Of 2021](https://kotaku.com/luke-plunketts-top-10-games-of-2021-1848231602)<!-- GAME:END -->
+ - [I have mixed feelings about HeroQuest&#39;s deluxe revival](https://www.pcgamer.com/i-have-mixed-feelings-about-heroquests-deluxe-revival)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
