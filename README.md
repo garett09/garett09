@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Way back guys, when we had our first spider](http://9gag.com/gag/aGz1ev0)
- - 🚯 [Wood Works](http://9gag.com/gag/aVxq37n)
- - 🚯 [Thanks dude for letting us cross](http://9gag.com/gag/ajgXEQw)<!-- MEMES:END -->
+ - 🚖 [Just figured out I have an IQ of +9000.](http://9gag.com/gag/aE8Y2Vp)
+ - 🚯 [GRAVITY, what gravity?](http://9gag.com/gag/aOQzrW3)
+ - 🚯 [I started blasting](http://9gag.com/gag/a41bQYA)<!-- MEMES:END -->
 
 --- 
 
