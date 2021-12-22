@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop will have PlayStation 5 and Xbox Series X bundles in-store on December 23rd](https://www.theverge.com/2021/12/22/22850166/gamestop-playstation-5-xbox-series-x-bundles-in-store-console-restock)
- - [Own goal for Arsenal FC as regulator bans crypto fan token ads](https://www.theverge.com/2021/12/22/22850429/uk-regulator-bans-arsenal-football-club-crypto-token-socios)
- - [Level’s planning a very visible keypad for its very invisible smart locks](https://www.theverge.com/2021/12/22/22849966/level-invisible-smart-locks-new-keypad)<!-- TECH:END -->
+ - [How to get the most out of your Pixel’s Now Playing feature](https://www.theverge.com/22849833/pixel-music-now-playing-android)
+ - [Zombie brand RadioShack is launching a crypto market for ‘the older generation’](https://www.theverge.com/2021/12/22/22849943/radioshack-defi-cryptocurrency-radio-token-launch)
+ - [HyperScience, which uses AI to extract data from business forms, raises a $100M Series E led by Global Founders, Tiger, Stripes, and Bessemer &lpar;FinSMEs&rpar;](http://www.techmeme.com/211222/p21#a211222p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
