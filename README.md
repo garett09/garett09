@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Google and Meta executive launches at-home COVID-19 test](https://www.theverge.com/2021/12/22/22849030/covid-test-detect-startup-meta-google)
- - [How to Use SharePlay to Virtually Connect With Loved Ones](https://www.wired.com/story/how-to-use-shareplay-apple-iphone-ipad-mac)
- - [The Best Mouse &lpar;and Mousepads&rpar; for Every Kind of Gamer](https://www.wired.com/gallery/best-gaming-mouse)<!-- TECH:END -->
+ - [LG’s new nearly square monitor might help reduce your neck pain](https://www.androidauthority.com/lg-dualup-monitor-3078817/)
+ - [Hawkeye’s first season is a welcome holiday surprise](https://www.theverge.com/2021/12/22/22849870/hawkeye-season-1-review-disney-plus)
+ - [Fight climate change by eating your leftovers this holiday season](https://www.theverge.com/22846816/food-waste-holidays-climate-change-christmas-dinner)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
