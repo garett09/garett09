@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Caramelldansen&#39; Owners Really Don&#39;t Want You To Know Where The Song Originated](https://kotaku.com/caramelldansen-owners-really-dont-want-you-to-know-wher-1848255354)
- - [Tiny MMO Book of Travels developer lays off staff but promises development will continue](https://www.pcgamer.com/tiny-mmo-book-of-travels-developer-lays-off-staff-but-promises-development-will-continue)
- - [Ubisoft is reportedly suffering an &#39;exodus&#39; of employees over abuse allegations and creative discontent](https://www.pcgamer.com/ubisoft-is-reportedly-suffering-an-exodus-of-employees-over-abuse-allegations-and-creative-discontent)<!-- GAME:END -->
+ - [Ubisoft Says &#39;We Understand&#39; Where NFT Hate Comes From, Does Not Actually Understand](https://kotaku.com/ubisoft-says-we-understand-where-nft-hate-comes-from-d-1848255293)
+ - [Gearbox&#39;s parent company Embracer acquires Dark Horse Comics](https://www.pcgamer.com/gearboxs-parent-company-embracer-acquires-dark-horse-comics)
+ - [&#39;Caramelldansen&#39; Owners Really Don&#39;t Want You To Know Where The Song Originated](https://kotaku.com/caramelldansen-owners-really-dont-want-you-to-know-wher-1848255354)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
