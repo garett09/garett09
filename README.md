@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monke](http://9gag.com/gag/aegbM8B)
- - 🚯 [Sed](http://9gag.com/gag/aAGdxDE)
- - 🚯 [I started blasting](http://9gag.com/gag/a41bQYA)<!-- MEMES:END -->
+ - 🚖 [Motivations to learn English](http://9gag.com/gag/aggLnDW)
+ - 🚯 [I started blasting](http://9gag.com/gag/a41bQYA)
+ - 🚯 [I&amp;#039;m a good person](http://9gag.com/gag/a91rpZj)<!-- MEMES:END -->
 
 --- 
 
