@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finding people is my specialty!](http://9gag.com/gag/aE8YRoO)
+ - 🚖 [Thanks netflix](http://9gag.com/gag/aYrxKxN)
  - 🚯 [He who controls the spice controls the universe.](http://9gag.com/gag/a91rrDL)
- - 🚯 [Thanks netflix](http://9gag.com/gag/aYrxKxN)<!-- MEMES:END -->
+ - 🚯 [This is the day you will always remember as the day you almost caught captain Jack Sparrow](http://9gag.com/gag/a31q7LN)<!-- MEMES:END -->
 
 --- 
 
