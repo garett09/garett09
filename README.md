@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor Magic V confirmed: Honor’s first foldable is coming soon](https://www.androidauthority.com/honor-magic-v-3077779/)
- - [An announcement bot for Justin Kan&#39;s NFT platform Fractal was hacked by a scammer who made off with about $150K, before the startup even launched its platform &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/211222/p2#a211222p2)
- - [Australian startup Vivi, whose wireless tech enables tutors to display teaching material on students&#39; own devices in classrooms, raises $20M from Quad Partners &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/211222/p1#a211222p1)<!-- TECH:END -->
+ - [Interview with Automattic&#39;s Matt Mullenweg on working from his always-connected RV, making &quot;the Berkshire Hathaway of the internet&quot;, and betting on open systems &lpar;David Pierce/Protocol&rpar;](http://www.techmeme.com/211222/p3#a211222p3)
+ - [Xiaomi 11i HyperCharge will soon launch in India with 120W charging](https://www.androidauthority.com/xiaomi-11i-india-3078661/)
+ - [Honor Magic V confirmed: Honor’s first foldable is coming soon](https://www.androidauthority.com/honor-magic-v-3077779/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
