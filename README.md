@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)
- - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)
- - [Popular pocket-sized card game Love Letter gets the Star Wars treatment](https://www.polygon.com/tabletop-games/22848307/star-wars-love-letter-jabbas-palace-pre-order-release-date-price)<!-- GAME:END -->
+ - [Small but mighty: Independent TTRPG presses work toward equity in game design](https://www.polygon.com/tabletop-games/22847187/indie-ttrpg-publishers-gauntlet-possum-creek-exalted-funeral)
+ - [Third AWS outage in two weeks takes down multiple games and services](https://www.pcgamer.com/third-aws-outage-in-two-weeks-takes-down-multiple-games-and-services)
+ - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
