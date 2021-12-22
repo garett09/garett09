@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s upgraded 14-inch MacBook Pro is on sale today, plus save $60 on AppleCare](https://appleinsider.com/articles/21/12/06/apples-upgraded-14-inch-macbook-pro-is-on-sale-today-plus-save-60-on-applecare?utm_medium=rss)
- - [Luxshare building massive new iPhone factory to challenge Foxconn](https://appleinsider.com/articles/21/12/22/luxshare-building-massive-new-iphone-factory-to-challenge-foxconn?utm_medium=rss)
- - [2-Day Flash Sale: Save up to $40 on iPad 9th Gen, iPad mini 6](https://appleinsider.com/articles/21/12/22/2-day-flash-sale-save-up-to-40-on-ipad-9th-gen-ipad-mini-6?utm_medium=rss)<!-- TECH:END -->
+ - [GameStop will have PlayStation 5 and Xbox Series X bundles in-store on December 23rd](https://www.theverge.com/2021/12/22/22850166/gamestop-playstation-5-xbox-series-x-bundles-in-store-console-restock)
+ - [Own goal for Arsenal FC as regulator bans crypto fan token ads](https://www.theverge.com/2021/12/22/22850429/uk-regulator-bans-arsenal-football-club-crypto-token-socios)
+ - [Level’s planning a very visible keypad for its very invisible smart locks](https://www.theverge.com/2021/12/22/22849966/level-invisible-smart-locks-new-keypad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
