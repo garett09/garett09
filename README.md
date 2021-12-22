@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s funny cuz they actually chasing it](http://9gag.com/gag/aVxqMZy)
- - 🚯 [They don&amp;#039;t make music like this nowdays](http://9gag.com/gag/aDDWzvx)
+ - 🚖 [It is like that, isn&amp;#039;t it?](http://9gag.com/gag/awznXKy)
+ - 🚯 [Uhh... maybe?](http://9gag.com/gag/ajgXN7w)
  - 🚯 [My grandparents used to yell at me about saying &amp;quot;oh my god&amp;quot;](http://9gag.com/gag/aqGb16Z)<!-- MEMES:END -->
 
 --- 
