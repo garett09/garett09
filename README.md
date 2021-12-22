@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The King’s Man buttons up a franchise bent on mayhem](https://www.polygon.com/reviews/22847361/the-kings-man-review)
- - [The best deals from the 2021 Steam Winter sale](https://www.pcgamer.com/best-steam-winter-sale-deals-2021)
- - [This is a safe space to talk Matrix Resurrections spoilers](https://www.polygon.com/22850590/matrix-resurrections-spoilers-talk)<!-- GAME:END -->
+ - [She solved the puzzle, but Wheel of Fortune didn’t give her the car](https://www.polygon.com/2021/12/22/22850375/wheel-of-fortune-contestant-loses-audi-rules)
+ - [The Joker Admitting He Plays An RPG Might Be The Best Video Game Ad Of 2021](https://kotaku.com/the-joker-admitting-he-plays-an-rpg-might-be-the-best-v-1848261092)
+ - [The King’s Man buttons up a franchise bent on mayhem](https://www.polygon.com/reviews/22847361/the-kings-man-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
