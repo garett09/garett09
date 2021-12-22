@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [View from 3rd deck during a storm](http://9gag.com/gag/a81y8vd)
- - 🚯 [It&amp;#039;s funny cuz they actually chasing it](http://9gag.com/gag/aVxqMZy)
- - 🚯 [My Dudes](http://9gag.com/gag/aAGdDe2)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s funny cuz they actually chasing it](http://9gag.com/gag/aVxqMZy)
+ - 🚯 [They don&amp;#039;t make music like this nowdays](http://9gag.com/gag/aDDWzvx)
+ - 🚯 [My grandparents used to yell at me about saying &amp;quot;oh my god&amp;quot;](http://9gag.com/gag/aqGb16Z)<!-- MEMES:END -->
 
 --- 
 
