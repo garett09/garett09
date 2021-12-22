@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Winter Sale is live](https://www.pcgamer.com/steam-winter-sale-2021-live)
- - [Game Loses Publisher Days After Devs Remind Fans About Apparent School Shooting Level](https://kotaku.com/game-loses-publisher-days-after-devs-remind-fans-about-1848258819)
- - [Morpheus isn’t in Matrix Resurrections, and 2005’s The Matrix Online may explain why](https://www.polygon.com/22664640/morpheus-matrix-4-resurrections-trailer-cast-matrix-online-game)<!-- GAME:END -->
+ - [Weird West is delayed until March](https://www.pcgamer.com/weird-west-is-delayed-until-march)
+ - [Meme Stock GameStop Now Accepts Meme Cryptos Like Doge](https://kotaku.com/meme-stock-gamestop-now-accepts-meme-cryptos-like-doge-1848259292)
+ - [The Steam Winter Sale is live](https://www.pcgamer.com/steam-winter-sale-2021-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
