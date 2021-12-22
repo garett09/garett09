@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the day you will always remember as the day you almost caught captain Jack Sparrow](http://9gag.com/gag/a31q7LN)
- - 🚯 [That was fast](http://9gag.com/gag/awznn41)
- - 🚯 [He who controls the spice controls the universe.](http://9gag.com/gag/a91rrDL)<!-- MEMES:END -->
+ - 🚖 [LF Married women in my area](http://9gag.com/gag/aZrmg3Q)
+ - 🚯 [Best option](http://9gag.com/gag/aog12dg)
+ - 🚯 [That was fast](http://9gag.com/gag/awznn41)<!-- MEMES:END -->
 
 --- 
 
