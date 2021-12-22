@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange in the Multiverse of Madness trailer picks up where Spider-Man left off](https://www.polygon.com/22838385/doctor-strange-in-the-multiverse-of-madness-trailer-release)
- - [GTA Trilogy owners can grab another game for free](https://www.pcgamer.com/gta-trilogy-owners-can-grab-another-game-for-free)
- - [The Dark Souls of tabletop role-playing games is on the way](https://www.polygon.com/tabletop-games/22848850/dark-souls-tabletop-rpg-steamforged-teaser-trailer)<!-- GAME:END -->
+ - [7 questions we have after Hawkeye season 1, and the comics that answer them](https://www.polygon.com/22849907/hawkeye-episode-6-kingpin-superpowers-kate-bishop-superhero-name-watch-explained)
+ - [Who is the Deathless Mother in The Witcher Season 2?](https://www.pcgamer.com/the-witcher-deathless-mother-voleth-meir)
+ - [John Walker&#39;s Top 10 Games Of 2021](https://kotaku.com/john-walkers-top-10-games-of-2021-1848258549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
