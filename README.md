@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ian Walker&#39;s Top Ten Games Of 2021](https://kotaku.com/ian-walkers-top-ten-games-of-2021-1848259755)
  - [Weird West is delayed until March](https://www.pcgamer.com/weird-west-is-delayed-until-march)
- - [Meme Stock GameStop Now Accepts Meme Cryptos Like Doge](https://kotaku.com/meme-stock-gamestop-now-accepts-meme-cryptos-like-doge-1848259292)
- - [The Steam Winter Sale is live](https://www.pcgamer.com/steam-winter-sale-2021-live)<!-- GAME:END -->
+ - [Meme Stock GameStop Now Accepts Meme Cryptos Like Doge](https://kotaku.com/meme-stock-gamestop-now-accepts-meme-cryptos-like-doge-1848259292)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
