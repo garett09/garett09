@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set up dual monitors on your desktop PC](https://www.androidauthority.com/how-to-set-up-dual-monitors-3071935/)
  - [Honor teases its first foldable, the Magic V](https://www.theverge.com/2021/12/22/22849677/honor-magic-v-foldable-china-launch)
- - [Overjet, which offers AI-powered software for identifying dental disease, raises a $42.5M Series B led by General Catalyst and Insight at a $425M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211222/p5#a211222p5)
- - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)<!-- TECH:END -->
+ - [Overjet, which offers AI-powered software for identifying dental disease, raises a $42.5M Series B led by General Catalyst and Insight at a $425M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211222/p5#a211222p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
