@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really cool lifehack... keep this one handy](http://9gag.com/gag/aze8mEK)
- - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)
- - 🚯 [I like Rey, but Star Wars sequels suck...](http://9gag.com/gag/a51bMXo)<!-- MEMES:END -->
+ - 🚖 [End of school parties used to be fun](http://9gag.com/gag/aze8mPB)
+ - 🚯 [I like Rey, but Star Wars sequels suck...](http://9gag.com/gag/a51bMXo)
+ - 🚯 [When your enemy gives you land as a punishment](http://9gag.com/gag/aegb5rO)<!-- MEMES:END -->
 
 --- 
 
