@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 1,058 US internet users: 72% distrust Facebook, 63% TikTok, 60% Instagram, 53% WhatsApp, and 53% YouTube; 53% trust Amazon, 48% Google, and 44% Apple &lpar;Washington Post&rpar;](http://www.techmeme.com/211222/p14#a211222p14)
- - [US NHTSA opens an investigation into Tesla&#39;s &quot;Passenger Play&quot; in-car gaming feature covering 580,000 vehicles from 2017 to 2022 &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/211222/p13#a211222p13)
- - [See the Galaxy S22 Ultra pretend to be a Note in leaked poster](https://www.androidauthority.com/samsung-galaxy-s22-ultra-poster-3078736/)<!-- TECH:END -->
+ - [Amazon’s AWS logs third outage this month, affecting Slack, Epic Games Store, Asana and more](https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic)
+ - [Shareholders doubt Apple&#39;s civil rights stance, call for investigation](https://appleinsider.com/articles/21/12/22/shareholders-doubt-apples-civil-rights-stance-call-for-investigation?utm_medium=rss)
+ - [The Future of Reality Is Multiple Choice](https://www.wired.com/story/the-future-of-reality-is-multiple-choice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
