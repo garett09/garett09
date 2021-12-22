@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bustin Jieber](http://9gag.com/gag/ay9DxdX)
- - 🚯 [Workers had more energy and better morale and were able to do the same amount of work in less time](http://9gag.com/gag/aze8rwN)
- - 🚯 [That was fast](http://9gag.com/gag/awznn41)<!-- MEMES:END -->
+ - 🚖 [Normal day in Australia](http://9gag.com/gag/avAGGzE)
+ - 🚯 [Bustin Jieber](http://9gag.com/gag/ay9DxdX)
+ - 🚯 [Props to indie developers who aren&amp;#039;t a part of this trend](http://9gag.com/gag/amgYY6V)<!-- MEMES:END -->
 
 --- 
 
