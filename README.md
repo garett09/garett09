@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Motivations to learn English](http://9gag.com/gag/aggLnDW)
- - 🚯 [I started blasting](http://9gag.com/gag/a41bQYA)
- - 🚯 [I&amp;#039;m a good person](http://9gag.com/gag/a91rpZj)<!-- MEMES:END -->
+ - 🚖 [When your enemy gives you land as a punishment](http://9gag.com/gag/aegb5rO)
+ - 🚯 [True...](http://9gag.com/gag/aAGd3B2)
+ - 🚯 [Motivations to learn English](http://9gag.com/gag/aggLnDW)<!-- MEMES:END -->
 
 --- 
 
