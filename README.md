@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Small but mighty: Independent TTRPG presses work toward equity in game design](https://www.polygon.com/tabletop-games/22847187/indie-ttrpg-publishers-gauntlet-possum-creek-exalted-funeral)
- - [Third AWS outage in two weeks takes down multiple games and services](https://www.pcgamer.com/third-aws-outage-in-two-weeks-takes-down-multiple-games-and-services)
- - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)<!-- GAME:END -->
+ - [Doctor Strange in the Multiverse of Madness trailer picks up where Spider-Man left off](https://www.polygon.com/22838385/doctor-strange-in-the-multiverse-of-madness-trailer-release)
+ - [GTA Trilogy owners can grab another game for free](https://www.pcgamer.com/gta-trilogy-owners-can-grab-another-game-for-free)
+ - [The Dark Souls of tabletop role-playing games is on the way](https://www.polygon.com/tabletop-games/22848850/dark-souls-tabletop-rpg-steamforged-teaser-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
