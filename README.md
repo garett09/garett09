@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zillow adds support for iOS 15’s SharePlay, so you can look at homes together from your studio apartments](https://www.theverge.com/2021/12/22/22848783/zillow-ios-15-shareplay-app-update-facetime-sharing-houses-browsing)
- - [Custom CPU cores versus Arm Cortex cores: Everything you need to know](https://www.androidauthority.com/custom-cpu-cores-vs-arm-cortex-3040885/)
- - [A prominent orange dot in macOS Monterey is causing problems for artists](https://appleinsider.com/articles/21/12/22/a-prominent-orange-dot-in-macos-monterey-is-causing-problems-for-artists?utm_medium=rss)<!-- TECH:END -->
+ - [You can still get AirPods Pro with MagSafe by Christmas &lpar;and save $70&rpar;](https://appleinsider.com/articles/21/12/22/you-can-still-get-airpods-pro-with-magsafe-by-christmas-and-save-70?utm_medium=rss)
+ - [Amazon warehouse workers in Oregon say they saw a spike in COVID-19 cases this fall after the company started rolling back pandemic safety protocols &lpar;The Markup&rpar;](http://www.techmeme.com/211222/p19#a211222p19)
+ - [Poll: Do you think your smartphone takes great photos?](https://www.androidauthority.com/smartphone-photos-poll-3078744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
