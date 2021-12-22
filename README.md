@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenbook 14X OLED review: a cool but impractical laptop](https://www.theverge.com/22850027/asus-zenbook-14x-oled-laptop-review-specs-price)
- - [Save 33% on the Beats Studio Buds, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Year in review: The best new streaming shows of 2021](https://www.androidauthority.com/best-new-shows-2021-3070494/)<!-- TECH:END -->
+ - [Apple&#39;s upgraded 14-inch MacBook Pro is on sale today, plus save $60 on AppleCare](https://appleinsider.com/articles/21/12/06/apples-upgraded-14-inch-macbook-pro-is-on-sale-today-plus-save-60-on-applecare?utm_medium=rss)
+ - [Luxshare building massive new iPhone factory to challenge Foxconn](https://appleinsider.com/articles/21/12/22/luxshare-building-massive-new-iphone-factory-to-challenge-foxconn?utm_medium=rss)
+ - [2-Day Flash Sale: Save up to $40 on iPad 9th Gen, iPad mini 6](https://appleinsider.com/articles/21/12/22/2-day-flash-sale-save-up-to-40-on-ipad-9th-gen-ipad-mini-6?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
