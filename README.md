@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up dual monitors on your desktop PC](https://www.androidauthority.com/how-to-set-up-dual-monitors-3071935/)
- - [Honor teases its first foldable, the Magic V](https://www.theverge.com/2021/12/22/22849677/honor-magic-v-foldable-china-launch)
- - [Overjet, which offers AI-powered software for identifying dental disease, raises a $42.5M Series B led by General Catalyst and Insight at a $425M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211222/p5#a211222p5)<!-- TECH:END -->
+ - [Survey of 1,058 US internet users: 72% distrust Facebook, 63% TikTok, 60% Instagram, 53% WhatsApp, and 53% YouTube; 53% trust Amazon, 48% Google, and 44% Apple &lpar;Washington Post&rpar;](http://www.techmeme.com/211222/p14#a211222p14)
+ - [US NHTSA opens an investigation into Tesla&#39;s &quot;Passenger Play&quot; in-car gaming feature covering 580,000 vehicles from 2017 to 2022 &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/211222/p13#a211222p13)
+ - [See the Galaxy S22 Ultra pretend to be a Note in leaked poster](https://www.androidauthority.com/samsung-galaxy-s22-ultra-poster-3078736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
