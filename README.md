@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is like that, isn&amp;#039;t it?](http://9gag.com/gag/awznXKy)
- - 🚯 [Uhh... maybe?](http://9gag.com/gag/ajgXN7w)
- - 🚯 [My grandparents used to yell at me about saying &amp;quot;oh my god&amp;quot;](http://9gag.com/gag/aqGb16Z)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;You see, I&amp;#039;ve always been very passionate about not starving to death!&amp;quot;](http://9gag.com/gag/ajgXEdg)
+ - 🚯 [Why?](http://9gag.com/gag/a71rMox)
+ - 🚯 [Boots up.Diablo 2 *pleasantly surpsied*](http://9gag.com/gag/angbjL0)<!-- MEMES:END -->
 
 --- 
 
