@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She solved the puzzle, but Wheel of Fortune didn’t give her the car](https://www.polygon.com/2021/12/22/22850375/wheel-of-fortune-contestant-loses-audi-rules)
- - [The Joker Admitting He Plays An RPG Might Be The Best Video Game Ad Of 2021](https://kotaku.com/the-joker-admitting-he-plays-an-rpg-might-be-the-best-v-1848261092)
- - [The King’s Man buttons up a franchise bent on mayhem](https://www.polygon.com/reviews/22847361/the-kings-man-review)<!-- GAME:END -->
+ - [Halo Infinite&#39;s new Spartan cat ears are making players go purrrrr](https://www.pcgamer.com/halo-infinites-new-spartan-cat-ears-are-making-players-go-purrrrr)
+ - [The Best Games To Check Out During Steam’s Massive Winter Sale](https://kotaku.com/the-best-games-to-check-out-during-steam-s-massive-wint-1848261345)
+ - [Court denies DFEH objection to Activision Blizzard lawsuit settlement](https://www.pcgamer.com/court-denies-dfeh-objection-to-activision-blizzard-lawsuit-settlement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
