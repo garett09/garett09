@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True...](http://9gag.com/gag/aAGd3B2)
- - 🚯 [Crowd during Hong Kong protest parts, allowing emergency vehicle to pass and providing an example to the world of how a protest should look.](http://9gag.com/gag/apgp50n)
- - 🚯 [Motivations to learn English](http://9gag.com/gag/aggLnDW)<!-- MEMES:END -->
+ - 🚖 [Motivations to learn English](http://9gag.com/gag/aggLnDW)
+ - 🚯 [It&amp;#039;s Wednesday my female drivers.](http://9gag.com/gag/a71r3rz)
+ - 🚯 [W\u2095\u2090\u209c \u1d62f \u2091\u2099g\u2097\u1d62\u209b\u2095 W\u2091\u1d63\u2091 \u209a\u2095\u2092\u2099\u2091\u209c\u1d62c\u2090\u2097\u2097y C\u2092\u2099\u209b\u1d62\u209b\u209c\u2091\u2099\u209c?](http://9gag.com/gag/a31qQjm)<!-- MEMES:END -->
 
 --- 
 
