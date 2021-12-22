@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV Endwalker Players Mourn Blocky Grapes](https://kotaku.com/final-fantasy-xiv-endwalker-players-mourn-blocky-grapes-1848257025)
- - [Best Strategy 2021: Old World](https://www.pcgamer.com/best-strategy-game-2021-old-world)
- - [Bestbuy lists the prices of Intel&#39;s upcoming 65W 12th Gen CPUs](https://www.pcgamer.com/bestbuy-lists-the-prices-of-intels-upcoming-65w-12th-gen-cpus)<!-- GAME:END -->
+ - [The Pathless is the game of exploration and escape that I needed in 2021](https://www.pcgamer.com/the-pathless-is-the-game-of-exploration-and-escape-that-i-needed-in-2021)
+ - [Overwatch is free-to-play over the festive period](https://www.pcgamer.com/overwatch-is-free-to-play-over-the-festive-period)
+ - [Unpacking is a relaxing puzzler that takes all the stress out of moving home](https://www.pcgamer.com/unpacking-is-a-relaxing-puzzler-that-takes-all-the-stress-out-of-moving-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
