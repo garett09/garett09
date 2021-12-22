@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just figured out I have an IQ of +9000.](http://9gag.com/gag/aE8Y2Vp)
- - 🚯 [GRAVITY, what gravity?](http://9gag.com/gag/aOQzrW3)
+ - 🚖 [Monke](http://9gag.com/gag/aegbM8B)
+ - 🚯 [Sed](http://9gag.com/gag/aAGdxDE)
  - 🚯 [I started blasting](http://9gag.com/gag/a41bQYA)<!-- MEMES:END -->
 
 --- 
