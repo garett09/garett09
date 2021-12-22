@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House says it will set up a website to distribute 500 million free COVID tests](https://www.theverge.com/2021/12/21/22848887/joe-biden-google-free-covid-test-near-me)
- - [You can now browse Zillow real estate listings with FaceTime &amp; SharePlay](https://appleinsider.com/articles/21/12/21/you-can-now-browse-zillow-real-estate-listings-with-facetime-shareplay?utm_medium=rss)
- - [Meta says over half of its Bulletin newsletter platform&#39;s 115 creators have over 1,000 free subscribers, &quot;with many having more than 5,000 or 10,000&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/211221/p24#a211221p24)<!-- TECH:END -->
+ - [CES 2022 starts to fall apart as T-Mobile and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [Intel will put unvaccinated employees on unpaid leave](https://www.theverge.com/2021/12/21/22849074/intel-unvaccinated-employees-unpaid-leave)
+ - [T-Mobile pulls out of CES 2022     - CNET](https://www.cnet.com/tech/t-mobile-pulls-out-of-ces-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
