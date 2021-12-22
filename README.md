@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still get AirPods Pro with MagSafe by Christmas &lpar;and save $70&rpar;](https://appleinsider.com/articles/21/12/22/you-can-still-get-airpods-pro-with-magsafe-by-christmas-and-save-70?utm_medium=rss)
- - [Amazon warehouse workers in Oregon say they saw a spike in COVID-19 cases this fall after the company started rolling back pandemic safety protocols &lpar;The Markup&rpar;](http://www.techmeme.com/211222/p19#a211222p19)
- - [Poll: Do you think your smartphone takes great photos?](https://www.androidauthority.com/smartphone-photos-poll-3078744/)<!-- TECH:END -->
+ - [Asus Zenbook 14X OLED review: a cool but impractical laptop](https://www.theverge.com/22850027/asus-zenbook-14x-oled-laptop-review-specs-price)
+ - [Save 33% on the Beats Studio Buds, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Year in review: The best new streaming shows of 2021](https://www.androidauthority.com/best-new-shows-2021-3070494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
