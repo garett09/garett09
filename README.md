@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bestbuy lists the prices of Intel&#39;s upcoming 65W 12th Gen CPUs](https://www.pcgamer.com/bestbuy-lists-the-prices-of-intels-upcoming-65w-12th-gen-cpus)
  - [Project Zomboid Is Still Going Strong Ten Years Later](https://kotaku.com/project-zomboid-is-still-going-strong-ten-years-later-1848255543)
- - [Twitch Co-Founder Gets Discord Hacked, $150,000 Stolen From Users In NFT Scam](https://kotaku.com/twitch-co-founder-gets-discord-hacked-150-000-stolen-1848255976)
- - [I have mixed feelings about HeroQuest&#39;s deluxe revival](https://www.pcgamer.com/i-have-mixed-feelings-about-heroquests-deluxe-revival)<!-- GAME:END -->
+ - [Twitch Co-Founder Gets Discord Hacked, $150,000 Stolen From Users In NFT Scam](https://kotaku.com/twitch-co-founder-gets-discord-hacked-150-000-stolen-1848255976)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
