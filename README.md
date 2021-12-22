@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple execs explain why you should use Apple Maps over competitors](https://appleinsider.com/articles/21/12/22/apple-execs-explain-why-you-should-use-apple-maps-over-competitors?utm_medium=rss)
- - [Movies coming in 2022 from Marvel, Netflix, DC and more     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)
- - [The best RTX 3060 laptops you can buy right now](https://www.androidauthority.com/best-rtx-3060-laptops-3060189/)<!-- TECH:END -->
+ - [HBO Max 2022 trailer offers a peek at Westworld and its new Game of Thrones spinoff](https://www.theverge.com/2021/12/22/22850666/hbo-max-2022-trailer-westworld-game-of-thrones)
+ - [Pixel 6 and 6 Pro owners won’t be able to use two calling features for a while](https://www.androidauthority.com/google-pixel-hold-for-me-call-screening-3079065/)
+ - [OfflineTV VR, a virtual version of an LA pop-up built by a group of Twitch streamers and McDonald&#39;s, shows the limits of brand-constructed VR spaces &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/211222/p22#a211222p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
