@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apella, which collects data via sensors in hospital operating rooms and analyzes the information using AI to improve surgical quality, raises a $21M Series A &lpar;Janice Bitters Turi/Crunchbase News&rpar;](http://www.techmeme.com/211221/p32#a211221p32)
  - [CEO of OSOM, a privacy-centric smartphone company founded by ex-Essential employees, teases OV1, the company&#39;s first handset slated for launch in summer 2022 &lpar;Ryne Hager/Android Police&rpar;](http://www.techmeme.com/211221/p31#a211221p31)
- - [TCL resumes selling its Google TVs after recently pulling the entire lineup from Best Buy and rolling out software updates fixing performance issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/211221/p30#a211221p30)
- - [CES 2022 starts to fall apart as T-Mobile, Amazon, and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)<!-- TECH:END -->
+ - [TCL resumes selling its Google TVs after recently pulling the entire lineup from Best Buy and rolling out software updates to fix performance issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/211221/p30#a211221p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
