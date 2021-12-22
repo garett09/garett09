@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy XIV Endwalker Players Mourn Blocky Grapes](https://kotaku.com/final-fantasy-xiv-endwalker-players-mourn-blocky-grapes-1848257025)
  - [Best Strategy 2021: Old World](https://www.pcgamer.com/best-strategy-game-2021-old-world)
- - [Bestbuy lists the prices of Intel&#39;s upcoming 65W 12th Gen CPUs](https://www.pcgamer.com/bestbuy-lists-the-prices-of-intels-upcoming-65w-12th-gen-cpus)
- - [Project Zomboid Is Still Going Strong Ten Years Later](https://kotaku.com/project-zomboid-is-still-going-strong-ten-years-later-1848255543)<!-- GAME:END -->
+ - [Bestbuy lists the prices of Intel&#39;s upcoming 65W 12th Gen CPUs](https://www.pcgamer.com/bestbuy-lists-the-prices-of-intels-upcoming-65w-12th-gen-cpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
