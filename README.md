@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Cooper Carbine loadouts for Warzone](https://www.pcgamer.com/best-cooper-carbine-warzone-loadout)
- - [The Pathless is the game of exploration and escape that I needed in 2021](https://www.pcgamer.com/the-pathless-is-the-game-of-exploration-and-escape-that-i-needed-in-2021)
- - [Overwatch is free-to-play over the festive period](https://www.pcgamer.com/overwatch-is-free-to-play-over-the-festive-period)<!-- GAME:END -->
+ - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)
+ - [How The Little Mermaid chapter was created for NieR Replicant](https://blog.playstation.com/2021/12/22/how-the-little-mermaid-chapter-was-created-for-nier-replicant/)
+ - [Popular pocket-sized card game Love Letter gets the Star Wars treatment](https://www.polygon.com/tabletop-games/22848307/star-wars-love-letter-jabbas-palace-pre-order-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
