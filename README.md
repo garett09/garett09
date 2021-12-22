@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Automattic&#39;s Matt Mullenweg on working from his always-connected RV, making &quot;the Berkshire Hathaway of the internet&quot;, and betting on open systems &lpar;David Pierce/Protocol&rpar;](http://www.techmeme.com/211222/p3#a211222p3)
- - [Xiaomi 11i HyperCharge will soon launch in India with 120W charging](https://www.androidauthority.com/xiaomi-11i-india-3078661/)
- - [Honor Magic V confirmed: Honor’s first foldable is coming soon](https://www.androidauthority.com/honor-magic-v-3077779/)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
+ - [Delivery Hero says it will exit its food delivery business in Germany after seven months and divest its Japanese operations &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211222/p4#a211222p4)
+ - [Interview with Automattic&#39;s Matt Mullenweg on working from his always-connected RV, making &quot;the Berkshire Hathaway of the internet&quot;, and betting on open systems &lpar;David Pierce/Protocol&rpar;](http://www.techmeme.com/211222/p3#a211222p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
