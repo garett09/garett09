@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 starts to fall apart as T-Mobile and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
- - [Intel will put unvaccinated employees on unpaid leave](https://www.theverge.com/2021/12/21/22849074/intel-unvaccinated-employees-unpaid-leave)
- - [T-Mobile pulls out of CES 2022     - CNET](https://www.cnet.com/tech/t-mobile-pulls-out-of-ces-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid COVID-19 concerns, Meta, Pinterest, and Twitter cancel in-person CES plans, while T-Mobile and AMD plan a limited presence, as others monitor conditions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211221/p29#a211221p29)
+ - [Last surviving dog from Michael Vick&#39;s dogfighting ring dies at 15     - CNET](https://www.cnet.com/news/last-surviving-dog-from-michael-vicks-dogfighting-ring-dies-at-15/#ftag=CAD590a51e)
+ - [LG’s new 16:18 monitor looks like a multitasking powerhouse](https://www.theverge.com/2021/12/21/22848957/lg-dualup-32-inch-4k-ultra-fine-monitors-announced-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
