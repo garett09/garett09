@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian startup Vivi, whose wireless tech enables tutors to display teaching material on students&#39; own devices in classrooms, raises $20M from Quad Partners &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/211222/p1#a211222p1)
- - [Why more people need to watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)
- - [Apella, which collects data via sensors in hospital operating rooms and analyzes the information using AI to improve surgical quality, raises a $21M Series A &lpar;Janice Bitters Turi/Crunchbase News&rpar;](http://www.techmeme.com/211221/p32#a211221p32)<!-- TECH:END -->
+ - [Honor Magic V confirmed: Honor’s first foldable is coming soon](https://www.androidauthority.com/honor-magic-v-3077779/)
+ - [An announcement bot for Justin Kan&#39;s NFT platform Fractal was hacked by a scammer who made off with about $150K, before the startup even launched its platform &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/211222/p2#a211222p2)
+ - [Australian startup Vivi, whose wireless tech enables tutors to display teaching material on students&#39; own devices in classrooms, raises $20M from Quad Partners &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/211222/p1#a211222p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
