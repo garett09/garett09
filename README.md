@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Motivations to learn English](http://9gag.com/gag/aggLnDW)
- - 🚯 [It&amp;#039;s Wednesday my female drivers.](http://9gag.com/gag/a71r3rz)
- - 🚯 [W\u2095\u2090\u209c \u1d62f \u2091\u2099g\u2097\u1d62\u209b\u2095 W\u2091\u1d63\u2091 \u209a\u2095\u2092\u2099\u2091\u209c\u1d62c\u2090\u2097\u2097y C\u2092\u2099\u209b\u1d62\u209b\u209c\u2091\u2099\u209c?](http://9gag.com/gag/a31qQjm)<!-- MEMES:END -->
+ - 🚖 [Lets provide a short summary of university life](http://9gag.com/gag/aDDWgL9)
+ - 🚯 [I dont get the hate. I was entertained all the way](http://9gag.com/gag/a41b3Qm)
+ - 🚯 [Just figured out I have an IQ of +9000.](http://9gag.com/gag/aE8Y2Vp)<!-- MEMES:END -->
 
 --- 
 
