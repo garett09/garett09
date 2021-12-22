@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;You see, I&amp;#039;ve always been very passionate about not starving to death!&amp;quot;](http://9gag.com/gag/ajgXEdg)
- - 🚯 [Why?](http://9gag.com/gag/a71rMox)
- - 🚯 [Boots up.Diablo 2 *pleasantly surpsied*](http://9gag.com/gag/angbjL0)<!-- MEMES:END -->
+ - 🚖 [Why?](http://9gag.com/gag/a71rMox)
+ - 🚯 [GRAVITY, what gravity?](http://9gag.com/gag/aOQzrW3)
+ - 🚯 [Way back guys, when we had our first spider](http://9gag.com/gag/aGz1ev0)<!-- MEMES:END -->
 
 --- 
 
