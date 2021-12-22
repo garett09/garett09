@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apella, which collects data via sensors in hospital operating rooms and analyzes the information using AI to improve surgical quality, raises a $21M Series A &lpar;Janice Bitters Turi/Crunchbase News&rpar;](http://www.techmeme.com/211221/p32#a211221p32)
- - [CEO of OSOM, a privacy-centric smartphone company founded by ex-Essential employees, teases OV1, the company&#39;s first handset slated for launch in summer 2022 &lpar;Ryne Hager/Android Police&rpar;](http://www.techmeme.com/211221/p31#a211221p31)
- - [TCL resumes selling its Google TVs after recently pulling the entire lineup from Best Buy and rolling out software updates to fix performance issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/211221/p30#a211221p30)<!-- TECH:END -->
+ - [Australian startup Vivi, whose wireless tech enables tutors to display teaching material on students&#39; own devices in classrooms, raises $20M from Quad Partners &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/211222/p1#a211222p1)
+ - [Why more people need to watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)
+ - [Apella, which collects data via sensors in hospital operating rooms and analyzes the information using AI to improve surgical quality, raises a $21M Series A &lpar;Janice Bitters Turi/Crunchbase News&rpar;](http://www.techmeme.com/211221/p32#a211221p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
