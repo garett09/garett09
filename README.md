@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ian Walker&#39;s Top Ten Games Of 2021](https://kotaku.com/ian-walkers-top-ten-games-of-2021-1848259755)
- - [Weird West is delayed until March](https://www.pcgamer.com/weird-west-is-delayed-until-march)
- - [Meme Stock GameStop Now Accepts Meme Cryptos Like Doge](https://kotaku.com/meme-stock-gamestop-now-accepts-meme-cryptos-like-doge-1848259292)<!-- GAME:END -->
+ - [The King’s Man buttons up a franchise bent on mayhem](https://www.polygon.com/reviews/22847361/the-kings-man-review)
+ - [The best deals from the 2021 Steam Winter sale](https://www.pcgamer.com/best-steam-winter-sale-deals-2021)
+ - [This is a safe space to talk Matrix Resurrections spoilers](https://www.polygon.com/22850590/matrix-resurrections-spoilers-talk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
