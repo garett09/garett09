@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets provide a short summary of university life](http://9gag.com/gag/aDDWgL9)
- - 🚯 [I dont get the hate. I was entertained all the way](http://9gag.com/gag/a41b3Qm)
- - 🚯 [Just figured out I have an IQ of +9000.](http://9gag.com/gag/aE8Y2Vp)<!-- MEMES:END -->
+ - 🚖 [Really cool lifehack... keep this one handy](http://9gag.com/gag/aze8mEK)
+ - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)
+ - 🚯 [I like Rey, but Star Wars sequels suck...](http://9gag.com/gag/a51bMXo)<!-- MEMES:END -->
 
 --- 
 
