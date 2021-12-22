@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your enemy gives you land as a punishment](http://9gag.com/gag/aegb5rO)
- - 🚯 [True...](http://9gag.com/gag/aAGd3B2)
+ - 🚖 [True...](http://9gag.com/gag/aAGd3B2)
+ - 🚯 [Crowd during Hong Kong protest parts, allowing emergency vehicle to pass and providing an example to the world of how a protest should look.](http://9gag.com/gag/apgp50n)
  - 🚯 [Motivations to learn English](http://9gag.com/gag/aggLnDW)<!-- MEMES:END -->
 
 --- 
