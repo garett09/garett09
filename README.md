@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
- - [Delivery Hero says it will exit its food delivery business in Germany after seven months and divest its Japanese operations &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211222/p4#a211222p4)
- - [Interview with Automattic&#39;s Matt Mullenweg on working from his always-connected RV, making &quot;the Berkshire Hathaway of the internet&quot;, and betting on open systems &lpar;David Pierce/Protocol&rpar;](http://www.techmeme.com/211222/p3#a211222p3)<!-- TECH:END -->
+ - [Honor teases its first foldable, the Magic V](https://www.theverge.com/2021/12/22/22849677/honor-magic-v-foldable-china-launch)
+ - [Overjet, which offers AI-powered software for identifying dental disease, raises a $42.5M Series B led by General Catalyst and Insight at a $425M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211222/p5#a211222p5)
+ - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
