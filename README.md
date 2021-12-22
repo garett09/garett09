@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 questions we have after Hawkeye season 1, and the comics that answer them](https://www.polygon.com/22849907/hawkeye-episode-6-kingpin-superpowers-kate-bishop-superhero-name-watch-explained)
- - [Who is the Deathless Mother in The Witcher Season 2?](https://www.pcgamer.com/the-witcher-deathless-mother-voleth-meir)
- - [John Walker&#39;s Top 10 Games Of 2021](https://kotaku.com/john-walkers-top-10-games-of-2021-1848258549)<!-- GAME:END -->
+ - [The Steam Winter Sale is live](https://www.pcgamer.com/steam-winter-sale-2021-live)
+ - [Game Loses Publisher Days After Devs Remind Fans About Apparent School Shooting Level](https://kotaku.com/game-loses-publisher-days-after-devs-remind-fans-about-1848258819)
+ - [Morpheus isn’t in Matrix Resurrections, and 2005’s The Matrix Online may explain why](https://www.polygon.com/22664640/morpheus-matrix-4-resurrections-trailer-cast-matrix-online-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
