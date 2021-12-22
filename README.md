@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid COVID-19 concerns, Meta, Pinterest, and Twitter cancel in-person CES plans, while T-Mobile and AMD plan a limited presence, as others monitor conditions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211221/p29#a211221p29)
- - [Last surviving dog from Michael Vick&#39;s dogfighting ring dies at 15     - CNET](https://www.cnet.com/news/last-surviving-dog-from-michael-vicks-dogfighting-ring-dies-at-15/#ftag=CAD590a51e)
- - [LG’s new 16:18 monitor looks like a multitasking powerhouse](https://www.theverge.com/2021/12/21/22848957/lg-dualup-32-inch-4k-ultra-fine-monitors-announced-specs)<!-- TECH:END -->
+ - [CES 2022 starts to fall apart as T-Mobile, Amazon, and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [TCL resumes selling its Google TVs after rolling out software fixes](https://www.theverge.com/2021/12/21/22849334/tcl-google-tv-6-5-series-available-again-bug-fixes)
+ - [Amid COVID-19 concerns, Meta, Pinterest, and Twitter cancel in-person CES plans, while T-Mobile and AMD plan a limited presence, as others monitor conditions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211221/p29#a211221p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
