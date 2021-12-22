@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s AWS logs third outage this month, affecting Slack, Epic Games Store, Asana and more](https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic)
- - [Shareholders doubt Apple&#39;s civil rights stance, call for investigation](https://appleinsider.com/articles/21/12/22/shareholders-doubt-apples-civil-rights-stance-call-for-investigation?utm_medium=rss)
- - [The Future of Reality Is Multiple Choice](https://www.wired.com/story/the-future-of-reality-is-multiple-choice)<!-- TECH:END -->
+ - [Former Google and Meta executive launches at-home COVID-19 test](https://www.theverge.com/2021/12/22/22849030/covid-test-detect-startup-meta-google)
+ - [How to Use SharePlay to Virtually Connect With Loved Ones](https://www.wired.com/story/how-to-use-shareplay-apple-iphone-ipad-mac)
+ - [The Best Mouse &lpar;and Mousepads&rpar; for Every Kind of Gamer](https://www.wired.com/gallery/best-gaming-mouse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
