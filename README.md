@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/a71rMox)
- - 🚯 [GRAVITY, what gravity?](http://9gag.com/gag/aOQzrW3)
- - 🚯 [Way back guys, when we had our first spider](http://9gag.com/gag/aGz1ev0)<!-- MEMES:END -->
+ - 🚖 [Way back guys, when we had our first spider](http://9gag.com/gag/aGz1ev0)
+ - 🚯 [Wood Works](http://9gag.com/gag/aVxq37n)
+ - 🚯 [Thanks dude for letting us cross](http://9gag.com/gag/ajgXEQw)<!-- MEMES:END -->
 
 --- 
 
