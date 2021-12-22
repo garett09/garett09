@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new nearly square monitor might help reduce your neck pain](https://www.androidauthority.com/lg-dualup-monitor-3078817/)
- - [Hawkeye’s first season is a welcome holiday surprise](https://www.theverge.com/2021/12/22/22849870/hawkeye-season-1-review-disney-plus)
- - [Fight climate change by eating your leftovers this holiday season](https://www.theverge.com/22846816/food-waste-holidays-climate-change-christmas-dinner)<!-- TECH:END -->
+ - [Zillow adds support for iOS 15’s SharePlay, so you can look at homes together from your studio apartments](https://www.theverge.com/2021/12/22/22848783/zillow-ios-15-shareplay-app-update-facetime-sharing-houses-browsing)
+ - [Custom CPU cores versus Arm Cortex cores: Everything you need to know](https://www.androidauthority.com/custom-cpu-cores-vs-arm-cortex-3040885/)
+ - [A prominent orange dot in macOS Monterey is causing problems for artists](https://appleinsider.com/articles/21/12/22/a-prominent-orange-dot-in-macos-monterey-is-causing-problems-for-artists?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
