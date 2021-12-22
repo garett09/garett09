@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get the most out of your Pixel’s Now Playing feature](https://www.theverge.com/22849833/pixel-music-now-playing-android)
- - [Zombie brand RadioShack is launching a crypto market for ‘the older generation’](https://www.theverge.com/2021/12/22/22849943/radioshack-defi-cryptocurrency-radio-token-launch)
- - [HyperScience, which uses AI to extract data from business forms, raises a $100M Series E led by Global Founders, Tiger, Stripes, and Bessemer &lpar;FinSMEs&rpar;](http://www.techmeme.com/211222/p21#a211222p21)<!-- TECH:END -->
+ - [Apple execs explain why you should use Apple Maps over competitors](https://appleinsider.com/articles/21/12/22/apple-execs-explain-why-you-should-use-apple-maps-over-competitors?utm_medium=rss)
+ - [Movies coming in 2022 from Marvel, Netflix, DC and more     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)
+ - [The best RTX 3060 laptops you can buy right now](https://www.androidauthority.com/best-rtx-3060-laptops-3060189/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
