@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Says &#39;We Understand&#39; Where NFT Hate Comes From, Does Not Actually Understand](https://kotaku.com/ubisoft-says-we-understand-where-nft-hate-comes-from-d-1848255293)
- - [Gearbox&#39;s parent company Embracer acquires Dark Horse Comics](https://www.pcgamer.com/gearboxs-parent-company-embracer-acquires-dark-horse-comics)
- - [&#39;Caramelldansen&#39; Owners Really Don&#39;t Want You To Know Where The Song Originated](https://kotaku.com/caramelldansen-owners-really-dont-want-you-to-know-wher-1848255354)<!-- GAME:END -->
+ - [Twitch Co-Founder Gets Discord Hacked, $150,000 Stolen From Users In NFT Scam](https://kotaku.com/twitch-co-founder-gets-discord-hacked-150-000-stolen-1848255976)
+ - [I have mixed feelings about HeroQuest&#39;s deluxe revival](https://www.pcgamer.com/i-have-mixed-feelings-about-heroquests-deluxe-revival)
+ - [Luke Plunkett&#39;s Top Ten Games Of 2021](https://kotaku.com/luke-plunketts-top-10-games-of-2021-1848231602)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
