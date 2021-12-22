@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 starts to fall apart as T-Mobile, Amazon, and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
- - [TCL resumes selling its Google TVs after rolling out software fixes](https://www.theverge.com/2021/12/21/22849334/tcl-google-tv-6-5-series-available-again-bug-fixes)
- - [Amid COVID-19 concerns, Meta, Pinterest, and Twitter cancel in-person CES plans, while T-Mobile and AMD plan a limited presence, as others monitor conditions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211221/p29#a211221p29)<!-- TECH:END -->
+ - [CEO of OSOM, a privacy-centric smartphone company founded by ex-Essential employees, teases OV1, the company&#39;s first handset slated for launch in summer 2022 &lpar;Ryne Hager/Android Police&rpar;](http://www.techmeme.com/211221/p31#a211221p31)
+ - [TCL resumes selling its Google TVs after recently pulling the entire lineup from Best Buy and rolling out software updates fixing performance issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/211221/p30#a211221p30)
+ - [CES 2022 starts to fall apart as T-Mobile, Amazon, and others bail on in-person conference](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
