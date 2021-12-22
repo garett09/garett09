@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LF Married women in my area](http://9gag.com/gag/aZrmg3Q)
- - 🚯 [Best option](http://9gag.com/gag/aog12dg)
+ - 🚖 [Bustin Jieber](http://9gag.com/gag/ay9DxdX)
+ - 🚯 [Workers had more energy and better morale and were able to do the same amount of work in less time](http://9gag.com/gag/aze8rwN)
  - 🚯 [That was fast](http://9gag.com/gag/awznn41)<!-- MEMES:END -->
 
 --- 
