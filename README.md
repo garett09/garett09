@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s funny cuz they actually chasing it](http://9gag.com/gag/aVxqMZy)
- - 🚯 [I&amp;#039;ve been wishing to have a PlayStation console for more than 10 years. Today I finally bought it. Today is a nice day &lpar;I&amp;#039;m 38 by the way&rpar;](http://9gag.com/gag/aWgmmR4)
- - 🚯 [I&amp;rsquo;m still waiting](http://9gag.com/gag/aDDWWW9)<!-- MEMES:END -->
+ - 🚖 [View from 3rd deck during a storm](http://9gag.com/gag/a81y8vd)
+ - 🚯 [It&amp;#039;s funny cuz they actually chasing it](http://9gag.com/gag/aVxqMZy)
+ - 🚯 [My Dudes](http://9gag.com/gag/aAGdDe2)<!-- MEMES:END -->
 
 --- 
 
