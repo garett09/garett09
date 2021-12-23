@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Characters 2021: Marvel&#39;s Guardians of the Galaxy](https://www.pcgamer.com/best-characters-2021-marvels-guardians-of-the-galaxy)
  - [Early benchmarks of Intel&#39;s Arc Alchemist GPUs look promising, if speculative](https://www.pcgamer.com/early-benchmarks-of-intels-arc-alchemist-gpus-look-promising-if-speculative)
- - [DDR5 shortages are expected to continue well into 2022](https://www.pcgamer.com/ddr5-shortages-are-expected-to-continue-well-into-2022)
- - [Budget Gaming PCs may be back with these Alder Lake MSI B660 Motherboard price leaks](https://www.pcgamer.com/budget-gaming-pcs-may-be-back-with-these-alder-lake-msi-b660-motherboard-price-leaks)<!-- GAME:END -->
+ - [DDR5 shortages are expected to continue well into 2022](https://www.pcgamer.com/ddr5-shortages-are-expected-to-continue-well-into-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
