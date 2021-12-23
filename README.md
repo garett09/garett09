@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Twitch Streamer Stunned At Hitting Shiny Monster Jackpot](https://kotaku.com/pokemon-twitch-streamer-stunned-at-hitting-shiny-monste-1848264837)
- - [Exclusive: Lying Cat returns on the cover of Saga #57](https://www.polygon.com/22851654/saga-brian-k-vaughan-fiona-staples-57-lying-cat-cover)
- - [The annual Steam Winter Sale is back](https://www.polygon.com/deals/22851702/steam-winter-sale-2021-dates-deals-discounts)<!-- GAME:END -->
+ - [Black Mirror is the perfect 2021 Christmas watch](https://www.polygon.com/22847353/black-mirror-christmas)
+ - [How to complete the Grasp of Avarice dungeon in Destiny 2](https://www.pcgamer.com/destiny-2-grasp-of-avarice-loot-table-solo-guide)
+ - [She solved the puzzle, but Wheel of Fortune didn’t give her the car — now Audi will](https://www.polygon.com/2021/12/22/22850375/wheel-of-fortune-contestant-loses-audi-rules)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
