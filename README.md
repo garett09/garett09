@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6000 C36 Review](https://www.pcgamer.com/gskill-trident-z5-ddr5-memory-review-benchmarks)
- - [Farming Simulator 22: I never thought I&#39;d say this, but beets are exciting](https://www.pcgamer.com/farming-simulator-22-i-never-thought-id-say-this-but-beets-are-exciting)
- - [Esports High School Opening In Japan Next Spring](https://kotaku.com/esports-high-school-opening-in-japan-next-spring-1848263433)<!-- GAME:END -->
+ - [Horror games made living in 2021 more bearable](https://www.polygon.com/22848981/best-horror-games-2021-windows-pc-playstation-5-nintendo-switch-xbox-series-x)
+ - [The best weapons in Final Fantasy 7 Remake](https://www.pcgamer.com/final-fantasy-7-remake-best-weapons-all-locations)
+ - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6000 C36 Review](https://www.pcgamer.com/gskill-trident-z5-ddr5-memory-review-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
