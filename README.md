@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite&#39;s new Spartan cat ears are making players go purrrrr](https://www.pcgamer.com/halo-infinites-new-spartan-cat-ears-are-making-players-go-purrrrr)
- - [The Best Games To Check Out During Steam’s Massive Winter Sale](https://kotaku.com/the-best-games-to-check-out-during-steam-s-massive-wint-1848261345)
- - [Court denies DFEH objection to Activision Blizzard lawsuit settlement](https://www.pcgamer.com/court-denies-dfeh-objection-to-activision-blizzard-lawsuit-settlement)<!-- GAME:END -->
+ - [Decoding Sati’s role in the larger Matrix universe](https://www.polygon.com/22842568/sati-matrix-resurrections-explained)
+ - [Peter Jackson’s Lord of the Rings: Return of the King needed one more ending](https://www.polygon.com/lord-of-the-rings/22848239/lord-of-the-ring-return-of-the-king-endings-explained-scouring-of-the-shire)
+ - [The Witcher season 3 details we already know](https://www.polygon.com/22850824/witcher-season-3-release-cast-what-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
