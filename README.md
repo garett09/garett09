@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest trailer for the Uncharted movie displays a borderline contempt for the laws of physics](https://www.theverge.com/2021/12/23/22851876/uncharted-new-movie-trailer-tom-holland-mark-wahlberg-playstation)
- - [Google Pixel Watch: Everything we know so far](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [Apple&#39;s VR headset: What to expect and what it will look like](https://appleinsider.com/articles/21/12/22/apples-vr-headset-what-to-expect-and-what-it-will-look-like?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2022 seemingly falling apart: Intel, Lenovo, Waymo, and Hisense join T-Mobile and others in opting-out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [The Matrix Resurrections has an incredibly smart take on showing video games in movies](https://www.theverge.com/2021/12/23/22850518/matrix-resurrections-video-game-movie-simulation-reality)
+ - [Android 13 leaks reveal Bluetooth LE Audio support, major notification changes](https://www.androidauthority.com/android-13-leaks-3079502/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
