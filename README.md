@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ALL THE TIME](http://9gag.com/gag/aXrqrng)
- - 🚯 [Matrix 4. I just left the movie theater. It was not that bad as i expected, but i will remember nothing from it. Just dont give your money. Keanu is still the best, he saved the show from total disaster](http://9gag.com/gag/a71rW2e)
- - 🚯 [Please God, Let the pen choose the correct answer](http://9gag.com/gag/aXrqoP9)<!-- MEMES:END -->
+ - 🚖 [What just happened here?](http://9gag.com/gag/a21r11Z)
+ - 🚯 [He&amp;#039;s right](http://9gag.com/gag/aDDWdn9)
+ - 🚯 [Matrix 4. I just left the movie theater. It was not that bad as i expected, but i will remember nothing from it. Just dont give your money. Keanu is still the best, he saved the show from total disaster](http://9gag.com/gag/a71rW2e)<!-- MEMES:END -->
 
 --- 
 
