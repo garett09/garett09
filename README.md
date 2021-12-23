@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 great shows and movies from 2021 to stream on HBO Max](https://www.theverge.com/22819936/hbo-max-best-shows-movies-2021)
- - [What to expect from NASA’s James Webb Space Telescope launch](https://www.theverge.com/22826899/james-webb-space-telescope-jwst-launch-mission-what-to-expect)
- - [Analysis: since 2018, Amazon has opened 153 US facilities in &quot;opportunity zones&quot;, created by a 2017 law, to access tax breaks whose impact is hard to measure &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/211223/p11#a211223p11)<!-- TECH:END -->
+ - [FDA authorizes second COVID-19 antiviral pill](https://www.theverge.com/2021/12/23/22851632/fda-covid-antiviral-authorization-merck-pfizer)
+ - [Our favorite apps, games, and entertainment from 2021 for all of your new tech](https://www.theverge.com/22841202/best-apps-games-entertainment-2021-streaming-movies-tv)
+ - [First Thread-enabled HomeKit blinds now available to order ahead of official launch](https://appleinsider.com/articles/21/12/23/first-thread-enabled-homekit-blinds-now-available-to-order-ahead-of-official-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
