@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a Sh*tty movie](http://9gag.com/gag/a11bPp6)
- - 🚯 [Thats why my lips are dry when i wake up](http://9gag.com/gag/aQX9zZz)
- - 🚯 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)<!-- MEMES:END -->
+ - 🚖 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)
+ - 🚯 [Getting mauled by your cat](http://9gag.com/gag/abgpvDO)
+ - 🚯 [Thats why my lips are dry when i wake up](http://9gag.com/gag/aQX9zZz)<!-- MEMES:END -->
 
 --- 
 
