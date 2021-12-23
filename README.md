@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 seemingly falling apart: Intel, Lenovo, Waymo, and Hisense join T-Mobile and others in opting-out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
- - [The Matrix Resurrections has an incredibly smart take on showing video games in movies](https://www.theverge.com/2021/12/23/22850518/matrix-resurrections-video-game-movie-simulation-reality)
- - [Android 13 leaks reveal Bluetooth LE Audio support, major notification changes](https://www.androidauthority.com/android-13-leaks-3079502/)<!-- TECH:END -->
+ - [Despite huge leaps in 2021, the crypto industry remained plagued by long-term problems: trading glitches, infrastructure snafus, hacks, and other weirdness &lpar;Bloomberg&rpar;](http://www.techmeme.com/211223/p17#a211223p17)
+ - [Coros Vertix 2 review: A fine Fenix alternative](https://www.androidauthority.com/coros-vertix-2-review-3071667/)
+ - [How to manage notifications in macOS Monterey](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-macos-monterey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
