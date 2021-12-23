@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Google could bring per-app language settings to Android 13](https://www.androidauthority.com/android-13-panlingual-per-app-language-3078652/)
  - [Samsung Galaxy S20 FE gains December security update with loads of patches](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Marc Andreessen blocks Jack Dorsey on Twitter following his tweets that were critical of a16z and Web3, Dorsey then tweets &quot;I&#39;m officially banned from web3&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211222/p29#a211222p29)<!-- TECH:END -->
+ - [Marc Andreessen blocked Jack Dorsey on Twitter following his tweets that were critical of a16z and Web3; Dorsey then tweeted &quot;I&#39;m officially banned from web3&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211222/p29#a211222p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
