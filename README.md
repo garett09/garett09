@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mother Watch Promoted With Appropriately Offbeat Commercial](https://kotaku.com/mother-watch-promoted-with-appropriately-offbeat-commer-1848265794)
  - [Thinking way too hard about whether tie-in Yule Log videos are canon](https://www.polygon.com/2019/12/19/21028539/franchise-yule-log-canon-doctor-who-marvel-disney-minecraft)
- - [That Time Spider-Man Was Surprisingly Edgy And Violent In A Marvel Video Game](https://kotaku.com/that-time-spider-man-was-surprisingly-edgy-and-violent-1848265240)
- - [How to complete the Grasp of Avarice dungeon in Destiny 2](https://www.pcgamer.com/destiny-2-grasp-of-avarice-loot-table-solo-guide)<!-- GAME:END -->
+ - [That Time Spider-Man Was Surprisingly Edgy And Violent In A Marvel Video Game](https://kotaku.com/that-time-spider-man-was-surprisingly-edgy-and-violent-1848265240)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
