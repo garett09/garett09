@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shows like The Witcher: The best shows to watch once you’ve binged season 2](https://www.androidauthority.com/shows-like-witcher-3077026/)
- - [The Wave-Conquering, Metaverse-Crashing Life of Kai Lenny](https://www.wired.com/story/wave-conquering-metaverse-crashing-life-kai-lenny)
- - [Huawei’s foldable P50 Pocket has a circular external screen that’s perfect for notifications](https://www.theverge.com/2021/12/23/22851418/huawei-pocket-p50-foldable-clamshell-phone-specs-features)<!-- TECH:END -->
+ - [Daily Authority: 📁 Huawei’s $1,400 Flip 3 rival](https://www.androidauthority.com/newsletters/da-december-23-2021/)
+ - [Purrble is an excitable toy that wants to help kids manage anxiety, emotions     - CNET](https://www.cnet.com/tech/mobile/purrble-is-an-excitable-toy-that-wants-to-help-kids-manage-anxiety-emotions/#ftag=CAD590a51e)
+ - [Turtle Beach VelocityOne Flight yoke soars with MS Flight Simulator     - CNET](https://www.cnet.com/tech/gaming/turtle-beach-velocityone-flight-yoke-soars-with-ms-flight-simulator/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
