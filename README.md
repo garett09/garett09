@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent plans to issue nearly all of its shares in JD.com worth $16.37B to shareholders as a dividend, reducing its stake from 17% to about 2.3% &lpar;Reuters&rpar;](http://www.techmeme.com/211222/p28#a211222p28)
  - [Lowest prices of the year: Save up to $280 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
- - [CES 2022 seemingly falling apart: Lenovo joins T-Mobile, Amazon, AT&amp;T and others in bailing out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
- - [Nikola delivers its first battery electric trucks to a SoCal drayage company     - Roadshow](https://www.cnet.com/roadshow/news/nikola-tre-pickup-first-deliveries-socal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC blocks Apple&#39;s bid to stop shareholders from addressing forced labor](https://appleinsider.com/articles/21/12/23/sec-blocks-apples-bid-to-stop-shareholders-from-addressing-forced-labor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
