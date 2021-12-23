@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei P50 Pocket launched: This foldable can check your face for sunscreen](https://www.androidauthority.com/huawei-p50-pocket-3075177/)
  - [Bengaluru-based Jumbotail, a B2B e-commerce company that supplies groceries to mom-and-pop stores, raises an $85M Series C led by Artal Asia &lpar;The Economic Times&rpar;](http://www.techmeme.com/211223/p1#a211223p1)
- - [Google could bring per-app language settings to Android 13](https://www.androidauthority.com/android-13-panlingual-per-app-language-3078652/)
- - [Samsung Galaxy S20 FE gains December security update with loads of patches](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)<!-- TECH:END -->
+ - [Google could bring per-app language settings to Android 13](https://www.androidauthority.com/android-13-panlingual-per-app-language-3078652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
