@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best life ever](http://9gag.com/gag/aAGdGER)
+ - 🚖 [This is Davyon Johnson. At school, he saw a friend choking and performed the Heimlich maneuver. Then on his way home, he saw a house fire and pulled someone to safety. He&amp;rsquo;s 11.](http://9gag.com/gag/a41bo1d)
  - 🚯 [How did you sleep?](http://9gag.com/gag/aLvD1jV)
  - 🚯 [It&amp;#039;s hammer time](http://9gag.com/gag/aKmVmXW)<!-- MEMES:END -->
 
