@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher showrunner Lauren Schmidt Hissrich explains season 2&#39;s most controversial change](https://www.pcgamer.com/witcher-showrunner-lauren-schmidt-hissrich-explains-season-2s-most-controversial-change)
- - [What Agent Smith really wanted in The Matrix movies](https://www.polygon.com/22842967/agent-smith-matrix-resurrections-trilogy-sequels-casting-mission)
- - [Former director says a Harry Potter MMO was &#39;killed&#39; by EA](https://www.pcgamer.com/former-director-says-a-harry-potter-mmo-was-killed-by-ea)<!-- GAME:END -->
+ - [LG unveils 16:18 ratio 2560x2880 resolution monitor](https://www.pcgamer.com/lg-unveils-1618-ratio-2560x2880-resolution-monitor)
+ - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)
+ - [Witcher showrunner Lauren Schmidt Hissrich explains season 2&#39;s most controversial change](https://www.pcgamer.com/witcher-showrunner-lauren-schmidt-hissrich-explains-season-2s-most-controversial-change)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
