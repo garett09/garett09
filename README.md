@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Facts](http://9gag.com/gag/a51bEoG)
- - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)
- - 🚯 [Duh!](http://9gag.com/gag/axBVME2)<!-- MEMES:END -->
+ - 🚯 [Duh!](http://9gag.com/gag/axBVME2)
+ - 🚯 [I dont get the hate. I was entertained all the way](http://9gag.com/gag/a41b3Qm)<!-- MEMES:END -->
 
 --- 
 
