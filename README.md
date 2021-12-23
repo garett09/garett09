@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max 2022 trailer offers a peek at Westworld and its new Game of Thrones spinoff](https://www.theverge.com/2021/12/22/22850666/hbo-max-2022-trailer-westworld-game-of-thrones)
- - [Pixel 6 and 6 Pro owners won’t be able to use two calling features for a while](https://www.androidauthority.com/google-pixel-hold-for-me-call-screening-3079065/)
- - [OfflineTV VR, a virtual version of an LA pop-up built by a group of Twitch streamers and McDonald&#39;s, shows the limits of brand-constructed VR spaces &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/211222/p22#a211222p22)<!-- TECH:END -->
+ - [7 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)
+ - [In a letter, 13 Democratic senators ask Zuckerberg why Facebook removed misinformation safeguards ahead of Jan. 6, citing documents leaked by Frances Haugen &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/211222/p24#a211222p24)
+ - [Amazon workers in Staten Island refile union petition](https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
