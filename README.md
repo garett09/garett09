@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I summon thee](http://9gag.com/gag/a11brDw)
- - 🚯 [Everything for a nugget](http://9gag.com/gag/avAGzR5)
- - 🚯 [Morning in Switzerland.](http://9gag.com/gag/aDDWdQK)<!-- MEMES:END -->
+ - 🚖 [M O N K E](http://9gag.com/gag/axBVMp1)
+ - 🚯 [I summon thee](http://9gag.com/gag/a11brDw)
+ - 🚯 [Please God, Let the pen choose the correct answer](http://9gag.com/gag/aXrqoP9)<!-- MEMES:END -->
 
 --- 
 
