@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is Davyon Johnson. At school, he saw a friend choking and performed the Heimlich maneuver. Then on his way home, he saw a house fire and pulled someone to safety. He&amp;rsquo;s 11.](http://9gag.com/gag/a41bo1d)
- - 🚯 [How did you sleep?](http://9gag.com/gag/aLvD1jV)
- - 🚯 [It&amp;#039;s hammer time](http://9gag.com/gag/aKmVmXW)<!-- MEMES:END -->
+ - 🚖 [Oh keanu](http://9gag.com/gag/aWgmgeZ)
+ - 🚯 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)
+ - 🚯 [This is an amazing idea!](http://9gag.com/gag/aWgmgV6)<!-- MEMES:END -->
 
 --- 
 
