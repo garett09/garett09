@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikola delivers its first battery electric trucks to a SoCal drayage company     - Roadshow](https://www.cnet.com/roadshow/news/nikola-tre-pickup-first-deliveries-socal/#ftag=CAD590a51e)
- - [In a note to employees, Bosworth envisions Meta&#39;s deep compatibility with blockchain, says it could have &quot;profound impacts on our industry over the next decade&quot; &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/211222/p26#a211222p26)
- - [Apple closes several stores due to COVID-19 outbreaks, encourages online shopping](https://www.theverge.com/2021/12/22/22850946/apple-store-covid-two-hour-free-shipping-option)<!-- TECH:END -->
+ - [Lowest prices of the year: Save up to $280 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
+ - [CES 2022 seemingly falling apart: Lenovo joins T-Mobile, Amazon, AT&amp;T and others in bailing out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [Nikola delivers its first battery electric trucks to a SoCal drayage company     - Roadshow](https://www.cnet.com/roadshow/news/nikola-tre-pickup-first-deliveries-socal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
