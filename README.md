@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Ghostbusters box set omits the 2016 reboot, and director Paul Feig isn’t happy](https://www.polygon.com/22851724/paul-feig-ghostbusters-box-set-afterlife-answer-the-call)
- - [Don’t Look Up is a hellishly unfunny ride through The Discourse](https://www.polygon.com/reviews/22850873/dont-look-up-netflix-review)
- - [Nintendo Switch Indie World sale offers savings on Hades, Boyfriend Dungeon, and more](https://www.polygon.com/22851977/nintendo-switch-indie-world-sale-dates-games)<!-- GAME:END -->
+ - [Thinking way too hard about whether tie-in Yule Log videos are canon](https://www.polygon.com/2019/12/19/21028539/franchise-yule-log-canon-doctor-who-marvel-disney-minecraft)
+ - [That Time Spider-Man Was Surprisingly Edgy And Violent In A Marvel Video Game](https://kotaku.com/that-time-spider-man-was-surprisingly-edgy-and-violent-1848265240)
+ - [How to complete the Grasp of Avarice dungeon in Destiny 2](https://www.pcgamer.com/destiny-2-grasp-of-avarice-loot-table-solo-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
