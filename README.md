@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/a51bEoG)
+ - 🚖 [I summon thee](http://9gag.com/gag/a11brDw)
  - 🚯 [Duh!](http://9gag.com/gag/axBVME2)
- - 🚯 [I dont get the hate. I was entertained all the way](http://9gag.com/gag/a41b3Qm)<!-- MEMES:END -->
+ - 🚯 [Facts](http://9gag.com/gag/a51bEoG)<!-- MEMES:END -->
 
 --- 
 
