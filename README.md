@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Facts](http://9gag.com/gag/a51bEoG)
- - 🚯 [Dad teaching his daughter how to make a snow angel.](http://9gag.com/gag/aWgmEKx)
+ - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)
  - 🚯 [Duh!](http://9gag.com/gag/axBVME2)<!-- MEMES:END -->
 
 --- 
