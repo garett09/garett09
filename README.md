@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
- - 🚯 [Lit situation](http://9gag.com/gag/angb790)
- - 🚯 [Four best sounds men wants to hear](http://9gag.com/gag/adg7vgj)<!-- MEMES:END -->
+ - 🚖 [Four best sounds men wants to hear](http://9gag.com/gag/adg7vgj)
+ - 🚯 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
+ - 🚯 [Somewhere in Germany today](http://9gag.com/gag/aze85xp)<!-- MEMES:END -->
 
 --- 
 
