@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA authorizes second COVID-19 antiviral pill](https://www.theverge.com/2021/12/23/22851632/fda-covid-antiviral-authorization-merck-pfizer)
- - [Our favorite apps, games, and entertainment from 2021 for all of your new tech](https://www.theverge.com/22841202/best-apps-games-entertainment-2021-streaming-movies-tv)
- - [First Thread-enabled HomeKit blinds now available to order ahead of official launch](https://appleinsider.com/articles/21/12/23/first-thread-enabled-homekit-blinds-now-available-to-order-ahead-of-official-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Robocalls are still out of control -- and aren&#39;t likely to stop in 2022     - CNET](https://www.cnet.com/tech/mobile/robocalls-are-out-of-control-heres-why-they-arent-likely-to-stop-in-2022/#ftag=CAD590a51e)
+ - [Back to the Mac: how the 14-inch MacBook Pro won over a longtime iPad Pro user](https://appleinsider.com/articles/21/12/23/back-to-the-mac-how-the-14-inch-macbook-pro-won-over-a-longtime-ipad-pro-user?utm_medium=rss)
+ - [FDA authorizes Merck pill molnupiravir to treat COVID-19     - CNET](https://www.cnet.com/health/medical/fda-authorizes-merck-pill-molnupiravir-to-treat-covid-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
