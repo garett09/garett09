@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mother Watch Promoted With Appropriately Offbeat Commercial](https://kotaku.com/mother-watch-promoted-with-appropriately-offbeat-commer-1848265794)
- - [Thinking way too hard about whether tie-in Yule Log videos are canon](https://www.polygon.com/2019/12/19/21028539/franchise-yule-log-canon-doctor-who-marvel-disney-minecraft)
- - [That Time Spider-Man Was Surprisingly Edgy And Violent In A Marvel Video Game](https://kotaku.com/that-time-spider-man-was-surprisingly-edgy-and-violent-1848265240)<!-- GAME:END -->
+ - [Myth of Empires developer files a lawsuit to get it back on Steam](https://www.pcgamer.com/myth-of-empires-developer-files-a-lawsuit-to-get-it-back-on-steam)
+ - [Renata Price’s Top Ten Games Of 2021](https://kotaku.com/renata-price-s-top-ten-games-of-2021-1848266260)
+ - [Animal Crossing: New Horizons Toy Day event guide, walkthrough and rewards](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22195698/toy-day-items-gifts-recipes-diy-stockings-presents-christmas-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
