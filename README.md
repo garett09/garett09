@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What Agent Smith really wanted in The Matrix movies](https://www.polygon.com/22842967/agent-smith-matrix-resurrections-trilogy-sequels-casting-mission)
  - [Former director says a Harry Potter MMO was &#39;killed&#39; by EA](https://www.pcgamer.com/former-director-says-a-harry-potter-mmo-was-killed-by-ea)
- - [Every Warhammer Fantasy game, ranked](https://www.pcgamer.com/best-warhammer-games-every-warhammer-game-ranked)
- - [Decoding Sati’s role in the larger Matrix universe](https://www.polygon.com/22842568/sati-matrix-resurrections-explained)<!-- GAME:END -->
+ - [Every Warhammer Fantasy game, ranked](https://www.pcgamer.com/best-warhammer-games-every-warhammer-game-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
