@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Adata to show PCIe 5.0 M.2 SSDs at CES](https://www.pcgamer.com/adata-to-show-pcie-50-m2-ssds-at-ces)
  - [LG unveils 16:18 ratio 2560x2880 resolution monitor](https://www.pcgamer.com/lg-unveils-1618-ratio-2560x2880-resolution-monitor)
- - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)
- - [Witcher showrunner Lauren Schmidt Hissrich explains season 2&#39;s most controversial change](https://www.pcgamer.com/witcher-showrunner-lauren-schmidt-hissrich-explains-season-2s-most-controversial-change)<!-- GAME:END -->
+ - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
