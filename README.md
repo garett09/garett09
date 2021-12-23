@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [End of school parties used to be fun](http://9gag.com/gag/aze8mPB)
- - 🚯 [Exactly like that](http://9gag.com/gag/a71rw9L)
- - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)<!-- MEMES:END -->
+ - 🚖 [Exactly like that](http://9gag.com/gag/a71rw9L)
+ - 🚯 [Duh!](http://9gag.com/gag/axBVME2)
+ - 🚯 [Dad teaching his daughter how to make a snow angel.](http://9gag.com/gag/aWgmEKx)<!-- MEMES:END -->
 
 --- 
 
