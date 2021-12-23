@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite huge leaps in 2021, the crypto industry remained plagued by long-term problems: trading glitches, infrastructure snafus, hacks, and other weirdness &lpar;Bloomberg&rpar;](http://www.techmeme.com/211223/p17#a211223p17)
- - [Coros Vertix 2 review: A fine Fenix alternative](https://www.androidauthority.com/coros-vertix-2-review-3071667/)
- - [How to manage notifications in macOS Monterey](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-macos-monterey?utm_medium=rss)<!-- TECH:END -->
+ - [Kevin Martin, the Republican who was Meta&#39;s head of US public policy, will resume the position, as Meta drops plans to hire a Democrat to lead its lobbying team &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/211223/p18#a211223p18)
+ - [Amazon UK has had Xbox Series X consoles in stock all day](https://www.theverge.com/2021/12/23/22852161/xbox-series-x-amazon-uk-twelve-hours-microsoft)
+ - [Xiaomi 12 series: Everything we know so far &lpar;Updated: Dec. 23&rpar;](https://www.androidauthority.com/xiaomi-12-2737874/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
