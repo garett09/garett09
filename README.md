@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This vast 120Hz 4K OLED gaming TV is $800 off right now](https://www.pcgamer.com/this-vast-120hz-4k-oled-gaming-tv-is-dollar800-off-right-now)
- - [New Games with Gold for January 2022](https://news.xbox.com/en-us/2021/12/23/new-games-with-gold-for-january-2022/)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [Pokémon Twitch Streamer Stunned At Hitting Shiny Monster Jackpot](https://kotaku.com/pokemon-twitch-streamer-stunned-at-hitting-shiny-monste-1848264837)
+ - [Exclusive: Lying Cat returns on the cover of Saga #57](https://www.polygon.com/22851654/saga-brian-k-vaughan-fiona-staples-57-lying-cat-cover)
+ - [The annual Steam Winter Sale is back](https://www.polygon.com/deals/22851702/steam-winter-sale-2021-dates-deals-discounts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
