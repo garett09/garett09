@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Characters 2021: Marvel&#39;s Guardians of the Galaxy](https://www.pcgamer.com/best-characters-2021-marvels-guardians-of-the-galaxy)
- - [Early benchmarks of Intel&#39;s Arc Alchemist GPUs look promising, if speculative](https://www.pcgamer.com/early-benchmarks-of-intels-arc-alchemist-gpus-look-promising-if-speculative)
- - [DDR5 shortages are expected to continue well into 2022](https://www.pcgamer.com/ddr5-shortages-are-expected-to-continue-well-into-2022)<!-- GAME:END -->
+ - [Assassin&#39;s Creed: Valhalla&#39;s DLC takes Eivor to fight beasts of a different nature](https://www.pcgamer.com/assassins-creed-valhalla-dlc-takes-eivor-to-fight-beasts-of-a-different-nature)
+ - [Deploy into Halo Infinite with these Razer gaming accessories](https://www.pcgamer.com/deploy-into-halo-infinite-with-these-razer-gaming-accessories)
+ - [Thank Goodness, Japan Built Another Giant Gundam](https://kotaku.com/thank-goodness-japan-built-another-giant-gundam-1848263351)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
