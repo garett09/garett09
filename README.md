@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed: Valhalla&#39;s DLC takes Eivor to fight beasts of a different nature](https://www.pcgamer.com/assassins-creed-valhalla-dlc-takes-eivor-to-fight-beasts-of-a-different-nature)
- - [Deploy into Halo Infinite with these Razer gaming accessories](https://www.pcgamer.com/deploy-into-halo-infinite-with-these-razer-gaming-accessories)
- - [Thank Goodness, Japan Built Another Giant Gundam](https://kotaku.com/thank-goodness-japan-built-another-giant-gundam-1848263351)<!-- GAME:END -->
+ - [Farming Simulator 22: I never thought I&#39;d say this, but beets are exciting](https://www.pcgamer.com/farming-simulator-22-i-never-thought-id-say-this-but-beets-are-exciting)
+ - [Esports High School Opening In Japan Next Spring](https://kotaku.com/esports-high-school-opening-in-japan-next-spring-1848263433)
+ - [Assassin&#39;s Creed: Valhalla&#39;s DLC takes Eivor to fight beasts of a different nature](https://www.pcgamer.com/assassins-creed-valhalla-dlc-takes-eivor-to-fight-beasts-of-a-different-nature)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
