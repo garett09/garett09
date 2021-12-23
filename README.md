@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Martin, the Republican who was Meta&#39;s head of US public policy, will resume the position, as Meta drops plans to hire a Democrat to lead its lobbying team &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/211223/p18#a211223p18)
- - [Amazon UK has had Xbox Series X consoles in stock all day](https://www.theverge.com/2021/12/23/22852161/xbox-series-x-amazon-uk-twelve-hours-microsoft)
- - [Xiaomi 12 series: Everything we know so far &lpar;Updated: Dec. 23&rpar;](https://www.androidauthority.com/xiaomi-12-2737874/)<!-- TECH:END -->
+ - [Government budget works could delay DOJ lawsuit against Apple](https://appleinsider.com/articles/21/12/23/government-budget-works-could-delay-doj-lawsuit-against-apple?utm_medium=rss)
+ - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
+ - [CES 2022 seemingly falling apart: Google and GM join T-Mobile and others in opting-out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
