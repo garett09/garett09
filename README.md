@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)
- - 🚯 [Getting mauled by your cat](http://9gag.com/gag/abgpvDO)
- - 🚯 [Thats why my lips are dry when i wake up](http://9gag.com/gag/aQX9zZz)<!-- MEMES:END -->
+ - 🚖 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
+ - 🚯 [Lit situation](http://9gag.com/gag/angb790)
+ - 🚯 [Four best sounds men wants to hear](http://9gag.com/gag/adg7vgj)<!-- MEMES:END -->
 
 --- 
 
