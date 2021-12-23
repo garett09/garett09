@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📁 Huawei’s $1,400 Flip 3 rival](https://www.androidauthority.com/newsletters/da-december-23-2021/)
- - [Purrble is an excitable toy that wants to help kids manage anxiety, emotions     - CNET](https://www.cnet.com/tech/mobile/purrble-is-an-excitable-toy-that-wants-to-help-kids-manage-anxiety-emotions/#ftag=CAD590a51e)
- - [Turtle Beach VelocityOne Flight yoke soars with MS Flight Simulator     - CNET](https://www.cnet.com/tech/gaming/turtle-beach-velocityone-flight-yoke-soars-with-ms-flight-simulator/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
+ - [Sources: Intel plans an R&amp;D center in France, test and assembly factory in Italy, and major wafer production fab in Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/211223/p10#a211223p10)
+ - [How long does it really take to fully charge your phone?](https://www.androidauthority.com/how-long-phone-charge-3064602/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
