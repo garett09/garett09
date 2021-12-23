@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which streaming service had the best year in 2021?](https://www.androidauthority.com/best-streaming-service-2021-3073675/)
- - [Where is Spotify HiFi?](https://www.theverge.com/2021/12/23/22851667/spotify-hifi-lossless-hi-fi-streaming)
- - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [The latest trailer for the Uncharted movie displays a borderline contempt for the laws of physics](https://www.theverge.com/2021/12/23/22851876/uncharted-new-movie-trailer-tom-holland-mark-wahlberg-playstation)
+ - [Google Pixel Watch: Everything we know so far](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [Apple&#39;s VR headset: What to expect and what it will look like](https://appleinsider.com/articles/21/12/22/apples-vr-headset-what-to-expect-and-what-it-will-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
