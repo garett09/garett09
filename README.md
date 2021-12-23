@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Merry christmas](http://9gag.com/gag/a31q158)
- - 🚯 [Morning in Switzerland.](http://9gag.com/gag/aDDWdQK)
- - 🚯 [German finds out U.S. taxes](http://9gag.com/gag/aegbAZb)<!-- MEMES:END -->
+ - 🚯 [ALL THE TIME](http://9gag.com/gag/aXrqrng)
+ - 🚯 [Their teacher promised them hot chocolate if she made the shot](http://9gag.com/gag/aBnWn1Z)<!-- MEMES:END -->
 
 --- 
 
