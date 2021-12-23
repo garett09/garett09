@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [End of school parties used to be fun](http://9gag.com/gag/aze8mPB)
- - 🚯 [I like Rey, but Star Wars sequels suck...](http://9gag.com/gag/a51bMXo)
- - 🚯 [When your enemy gives you land as a punishment](http://9gag.com/gag/aegb5rO)<!-- MEMES:END -->
+ - 🚯 [Exactly like that](http://9gag.com/gag/a71rw9L)
+ - 🚯 [Man of science](http://9gag.com/gag/a31qwMr)<!-- MEMES:END -->
 
 --- 
 
