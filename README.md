@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell&amp;rsquo;em big shaq](http://9gag.com/gag/aWgmGjZ)
- - 🚯 [Well done..](http://9gag.com/gag/aVxqbKd)
+ - 🚖 [Well done..](http://9gag.com/gag/aVxqbKd)
+ - 🚯 [What a Sh*tty movie](http://9gag.com/gag/a11bPp6)
  - 🚯 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)<!-- MEMES:END -->
 
 --- 
