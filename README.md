@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror is the perfect 2021 Christmas watch](https://www.polygon.com/22847353/black-mirror-christmas)
- - [How to complete the Grasp of Avarice dungeon in Destiny 2](https://www.pcgamer.com/destiny-2-grasp-of-avarice-loot-table-solo-guide)
- - [She solved the puzzle, but Wheel of Fortune didn’t give her the car — now Audi will](https://www.polygon.com/2021/12/22/22850375/wheel-of-fortune-contestant-loses-audi-rules)<!-- GAME:END -->
+ - [New Ghostbusters box set omits the 2016 reboot, and director Paul Feig isn’t happy](https://www.polygon.com/22851724/paul-feig-ghostbusters-box-set-afterlife-answer-the-call)
+ - [Don’t Look Up is a hellishly unfunny ride through The Discourse](https://www.polygon.com/reviews/22850873/dont-look-up-netflix-review)
+ - [Nintendo Switch Indie World sale offers savings on Hades, Boyfriend Dungeon, and more](https://www.polygon.com/22851977/nintendo-switch-indie-world-sale-dates-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
