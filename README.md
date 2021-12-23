@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Witcher showrunner Lauren Schmidt Hissrich explains season 2&#39;s most controversial change](https://www.pcgamer.com/witcher-showrunner-lauren-schmidt-hissrich-explains-season-2s-most-controversial-change)
  - [What Agent Smith really wanted in The Matrix movies](https://www.polygon.com/22842967/agent-smith-matrix-resurrections-trilogy-sequels-casting-mission)
- - [Former director says a Harry Potter MMO was &#39;killed&#39; by EA](https://www.pcgamer.com/former-director-says-a-harry-potter-mmo-was-killed-by-ea)
- - [Every Warhammer Fantasy game, ranked](https://www.pcgamer.com/best-warhammer-games-every-warhammer-game-ranked)<!-- GAME:END -->
+ - [Former director says a Harry Potter MMO was &#39;killed&#39; by EA](https://www.pcgamer.com/former-director-says-a-harry-potter-mmo-was-killed-by-ea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
