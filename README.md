@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh keanu](http://9gag.com/gag/aWgmgeZ)
- - 🚯 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)
- - 🚯 [This is an amazing idea!](http://9gag.com/gag/aWgmgV6)<!-- MEMES:END -->
+ - 🚖 [Lit situation](http://9gag.com/gag/angb790)
+ - 🚯 [Tell&amp;rsquo;em big shaq](http://9gag.com/gag/aWgmGjZ)
+ - 🚯 [Annoyed by loud music, man uses drone to hit neighbours with fireworks](http://9gag.com/gag/awznZEy)<!-- MEMES:END -->
 
 --- 
 
