@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I summon thee](http://9gag.com/gag/a11brDw)
- - 🚯 [Duh!](http://9gag.com/gag/axBVME2)
- - 🚯 [Facts](http://9gag.com/gag/a51bEoG)<!-- MEMES:END -->
+ - 🚯 [Everything for a nugget](http://9gag.com/gag/avAGzR5)
+ - 🚯 [Morning in Switzerland.](http://9gag.com/gag/aDDWdQK)<!-- MEMES:END -->
 
 --- 
 
