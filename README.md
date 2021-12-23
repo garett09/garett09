@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Exactly like that](http://9gag.com/gag/a71rw9L)
- - 🚯 [Duh!](http://9gag.com/gag/axBVME2)
- - 🚯 [Dad teaching his daughter how to make a snow angel.](http://9gag.com/gag/aWgmEKx)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/a51bEoG)
+ - 🚯 [Dad teaching his daughter how to make a snow angel.](http://9gag.com/gag/aWgmEKx)
+ - 🚯 [Duh!](http://9gag.com/gag/axBVME2)<!-- MEMES:END -->
 
 --- 
 
