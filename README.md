@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Andressen blocks Jack Dorsey on Twitter following his tweets that were critical of a16z and Web3, Dorsey then tweets &quot;I&#39;m officially banned from web3&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211222/p29#a211222p29)
  - [Tencent plans to issue nearly all of its shares in JD.com worth $16.37B to shareholders as a dividend, reducing its stake from 17% to about 2.3% &lpar;Reuters&rpar;](http://www.techmeme.com/211222/p28#a211222p28)
- - [Lowest prices of the year: Save up to $280 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
- - [SEC blocks Apple&#39;s bid to stop shareholders from addressing forced labor](https://appleinsider.com/articles/21/12/23/sec-blocks-apples-bid-to-stop-shareholders-from-addressing-forced-labor?utm_medium=rss)<!-- TECH:END -->
+ - [Review: Station Eleven&#39;s HBO adaptation came at a weird, but good, time     - CNET](https://www.cnet.com/news/review-station-eleven-hbo-adaptation-came-at-weird-but-good-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
