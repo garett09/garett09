@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
- - [Sources: Intel plans an R&amp;D center in France, test and assembly factory in Italy, and major wafer production fab in Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/211223/p10#a211223p10)
- - [How long does it really take to fully charge your phone?](https://www.androidauthority.com/how-long-phone-charge-3064602/)<!-- TECH:END -->
+ - [11 great shows and movies from 2021 to stream on HBO Max](https://www.theverge.com/22819936/hbo-max-best-shows-movies-2021)
+ - [What to expect from NASA’s James Webb Space Telescope launch](https://www.theverge.com/22826899/james-webb-space-telescope-jwst-launch-mission-what-to-expect)
+ - [Analysis: since 2018, Amazon has opened 153 US facilities in &quot;opportunity zones&quot;, created by a 2017 law, to access tax breaks whose impact is hard to measure &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/211223/p11#a211223p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
