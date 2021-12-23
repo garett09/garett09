@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First super fast PCIe 5.0 SSDs teased ahead of CES](https://www.theverge.com/2021/12/23/22851422/samsung-adata-pcie-5-0-ssd-ces-speed-date)
- - [Beijing-based autonomous driving startup Haomo.AI raises a $157M Series A at a $1B+ valuation from GL Ventures, Meituan, Qualcomm Ventures, and others &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/211223/p2#a211223p2)
- - [Huawei P50 Pocket launched: This foldable can check your face for sunscreen](https://www.androidauthority.com/huawei-p50-pocket-3075177/)<!-- TECH:END -->
+ - [Shows like The Witcher: The best shows to watch once you’ve binged season 2](https://www.androidauthority.com/shows-like-witcher-3077026/)
+ - [The Wave-Conquering, Metaverse-Crashing Life of Kai Lenny](https://www.wired.com/story/wave-conquering-metaverse-crashing-life-kai-lenny)
+ - [Huawei’s foldable P50 Pocket has a circular external screen that’s perfect for notifications](https://www.theverge.com/2021/12/23/22851418/huawei-pocket-p50-foldable-clamshell-phone-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
