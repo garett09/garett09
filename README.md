@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Government budget works could delay DOJ lawsuit against Apple](https://appleinsider.com/articles/21/12/23/government-budget-works-could-delay-doj-lawsuit-against-apple?utm_medium=rss)
- - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini -- even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
- - [CES 2022 seemingly falling apart: Google and GM join T-Mobile and others in opting-out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)<!-- TECH:END -->
+ - [The best RTX 3080 laptops you can get](https://www.androidauthority.com/best-rtx-3080-laptops-3059585/)
+ - [Rolling Square&#39;s AirCard fits in your wallet, works just like an AirTag](https://appleinsider.com/articles/21/12/23/rolling-squares-aircard-fits-in-your-wallet-works-just-like-an-airtag?utm_medium=rss)
+ - [Amid COVID-19 concerns, Google, GM, and Waymo cancel in-person plans for CES, following Meta, Amazon, Twitter, and others, while Intel scales back its presence &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/211223/p21#a211223p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
