@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horror games made living in 2021 more bearable](https://www.polygon.com/22848981/best-horror-games-2021-windows-pc-playstation-5-nintendo-switch-xbox-series-x)
- - [The best weapons in Final Fantasy 7 Remake](https://www.pcgamer.com/final-fantasy-7-remake-best-weapons-all-locations)
- - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6000 C36 Review](https://www.pcgamer.com/gskill-trident-z5-ddr5-memory-review-benchmarks)<!-- GAME:END -->
+ - [This vast 120Hz 4K OLED gaming TV is $800 off right now](https://www.pcgamer.com/this-vast-120hz-4k-oled-gaming-tv-is-dollar800-off-right-now)
+ - [New Games with Gold for January 2022](https://news.xbox.com/en-us/2021/12/23/new-games-with-gold-for-january-2022/)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
