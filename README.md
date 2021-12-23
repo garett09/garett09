@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Their teacher promised them hot chocolate if she made the shot](http://9gag.com/gag/aBnWn1Z)
- - 🚯 [Inner Peace](http://9gag.com/gag/a81yq8Y)
- - 🚯 [Best life ever](http://9gag.com/gag/aAGdGER)<!-- MEMES:END -->
+ - 🚖 [Best life ever](http://9gag.com/gag/aAGdGER)
+ - 🚯 [How did you sleep?](http://9gag.com/gag/aLvD1jV)
+ - 🚯 [It&amp;#039;s hammer time](http://9gag.com/gag/aKmVmXW)<!-- MEMES:END -->
 
 --- 
 
