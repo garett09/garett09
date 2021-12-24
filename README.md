@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She was hot AF, incredibly professional, and in less than an hour helped me get rid of my insecurity about my size, performance, and anxiety in general. I truly had the time of my life](http://9gag.com/gag/aGz1ngz)
- - 🚯 [No hand contact, two persons head to head climb 100 stairs in 53 seconds](http://9gag.com/gag/avAG1NM)
+ - 🚖 [Incredibly enough i never noticed that as a kid](http://9gag.com/gag/aE8YVZ9)
+ - 🚯 [Christians taking the fun out of holidays for over 2000 years now](http://9gag.com/gag/aE8YVBN)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
