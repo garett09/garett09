@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: This is our first look at Android 13 &quot;Tiramisu&quot; and some of its upcoming features &lpar;Aamir Siddiqui/XDA Developers&rpar;](http://www.techmeme.com/211224/p6#a211224p6)
- - [The Royal Treatment, Return to Hogwarts and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Privoro, which makes security devices for smartphones, including a case with intelligent audio masking and camera blocking, raises a $30M Series B &lpar;FinSMEs&rpar;](http://www.techmeme.com/211224/p5#a211224p5)<!-- TECH:END -->
+ - [Deals: Save $200 on Apple&#39;s iMac 24-inch with M1, plus $30 off AppleCare](https://appleinsider.com/articles/21/12/24/deals-save-200-on-apples-imac-24-inch-with-m1-plus-30-off-applecare?utm_medium=rss)
+ - [A button mapper is the first app I install on any Android TV](https://www.androidauthority.com/remote-button-mapper-android-tv-3076063/)
+ - [Dutch regulators rule Apple must make App Store changes before Jan. 15](https://appleinsider.com/articles/21/12/24/dutch-regulators-rule-apple-must-make-app-store-changes-before-jan-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
