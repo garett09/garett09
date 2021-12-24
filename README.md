@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2022 organizers insist in-person events will go on even as more exhibitors pull back](https://www.theverge.com/2021/12/23/22852534/ces-2022-is-not-canceled-will-go-on-without-intel-google-gm)
  - [Sources: cybersecurity startup Snyk is preparing for an IPO as soon as mid-2022, with a target to exceed its $8.6B valuation from September &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211223/p25#a211223p25)
- - [The Matrix Resurrections post-credits scene, explained     - CNET](https://www.cnet.com/news/the-matrix-resurrections-post-credits-scene-broken-down/#ftag=CAD590a51e)
- - [Government budget works could delay DOJ lawsuit against Apple](https://appleinsider.com/articles/21/12/23/government-budget-works-could-delay-doj-lawsuit-against-apple?utm_medium=rss)<!-- TECH:END -->
+ - [The Matrix Resurrections post-credits scene, explained     - CNET](https://www.cnet.com/news/the-matrix-resurrections-post-credits-scene-broken-down/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
