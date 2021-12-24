@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best app to convert videos to MP4 in high quality on Mac](https://appleinsider.com/articles/21/12/24/the-best-app-to-convert-videos-to-mp4-in-high-quality-on-mac?utm_medium=rss)
- - [Apple&#39;s &#39;For All Mankind&#39; tops USA Today&#39;s best TV of 2021](https://appleinsider.com/articles/21/12/24/apples-for-all-mankind-tops-usa-todays-best-tv-of-2021?utm_medium=rss)
- - [Why the Red Hydrogen One phone shows up in movies like Netflix&#39;s Don&#39;t Look Up, F9     - CNET](https://www.cnet.com/tech/mobile/why-the-red-hydrogen-one-phone-shows-up-in-movies-like-netflixs-dont-look-up-f9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple VR headset, 27-inch iMac update rumors, and more on the AppleInsider podcast](https://appleinsider.com/articles/21/12/24/apple-vr-headset-27-inch-imac-update-rumors-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [2021 in computing: The top developments of the year](https://www.androidauthority.com/year-2021-in-computing-3077035/)
+ - [The Best Nintendo Switch Games for Every Kind of Player](https://www.wired.com/gallery/best-nintendo-switch-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
