@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relatable](http://9gag.com/gag/a91r8PK)
- - 🚯 [Merry Christmas You Filthy Animal](http://9gag.com/gag/apgpPzW)
+ - 🚖 [My wife received a corporate gift for Christmas. It has been in the fridge since. When I went to open the bottle, I found out it was a candle.](http://9gag.com/gag/aKmV8W1)
+ - 🚯 [Feeling old yet?](http://9gag.com/gag/avAGE4d)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
