@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: One phone takes the best pictures in our shootout](https://www.androidauthority.com/2021-smartphone-camera-shootout-poll-results-3079707/)
  - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini, iMac &amp; even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
- - [10 best mood tracker apps for Android](https://www.androidauthority.com/best-mood-tracker-apps-3074473/)
- - [Premature Galaxy S21 FE unboxing video tells us almost everything](https://www.androidauthority.com/samsung-galaxy-s21-fe-unboxing-3079127/)<!-- TECH:END -->
+ - [10 best mood tracker apps for Android](https://www.androidauthority.com/best-mood-tracker-apps-3074473/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
