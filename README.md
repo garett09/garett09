@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch antitrust regulator orders Apple to let dating apps in the App Store offer alternative payment systems by January 15 or face up to a &amp;euro;50M fine &lpar;Reuters&rpar;](http://www.techmeme.com/211224/p8#a211224p8)
- - [CES 2022 loses Microsoft in Las Vegas over COVID fears](https://www.theverge.com/2021/12/24/22853157/ces-microsoft-canceled-omicron-covid)
- - [Apple worker walkout organizers issue demands, size of strike unclear](https://appleinsider.com/articles/21/12/24/apple-worker-walkout-organizers-issue-demands-size-of-strike-unclear?utm_medium=rss)<!-- TECH:END -->
+ - [The sexiest &lpar;and least sexy&rpar; smartphone designs of 2021](https://www.androidauthority.com/best-smartphone-designs-2021-3078005/)
+ - [Microsoft cancels in-person plans for CES, joining Google, Meta, Amazon, Twitter, and others, amid ongoing concerns over COVID-19 &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/211224/p9#a211224p9)
+ - [Merry Christmas from all of us at AppleInsider](https://appleinsider.com/articles/21/12/24/merry-christmas-from-all-of-us-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
