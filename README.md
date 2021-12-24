@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple VR headset, 27-inch iMac update rumors, and more on the AppleInsider podcast](https://appleinsider.com/articles/21/12/24/apple-vr-headset-27-inch-imac-update-rumors-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [2021 in computing: The top developments of the year](https://www.androidauthority.com/year-2021-in-computing-3077035/)
- - [The Best Nintendo Switch Games for Every Kind of Player](https://www.wired.com/gallery/best-nintendo-switch-games)<!-- TECH:END -->
+ - [The World Is Messy. Idealizations Make the Physics Simple](https://www.wired.com/story/the-world-is-messy-idealizations-make-the-physics-simple)
+ - [8 great TikTok accounts from 2021 to follow](https://www.theverge.com/22840187/tiktok-creators-best-accounts-follow-fyp-2021)
+ - [The gadgets we broke](https://www.theverge.com/22848431/verge-broken-gadget-phone-camera-car-pda-stories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
