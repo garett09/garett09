@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Four best sounds men wants to hear](http://9gag.com/gag/adg7vgj)
- - 🚯 [Somewhere in Germany today](http://9gag.com/gag/aze85xp)
- - 🚯 [The matrix resurrections](http://9gag.com/gag/a41bPp1)<!-- MEMES:END -->
+ - 🚖 [The matrix resurrections](http://9gag.com/gag/a41bPp1)
+ - 🚯 [Would you press?](http://9gag.com/gag/adg710d)
+ - 🚯 [Always check mirrors before getting out of your car](http://9gag.com/gag/a81yA13)<!-- MEMES:END -->
 
 --- 
 
