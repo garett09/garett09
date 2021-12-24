@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google faces nearly $100 million fine in Russia over failure to delete banned content](https://www.theverge.com/2021/12/24/22852827/google-100-million-fine-russia-banned-content-big-tech-regulation)
- - [The biggest Android stories of 2021: Here’s what you were most interested in](https://www.androidauthority.com/android-2021-3075498/)
- - [PSA: You’ll miss 25 minutes of The Expanse’s final season if you don’t pause it](https://www.theverge.com/2021/12/24/22851119/the-expanse-season-6-final-amazon-x-ray)<!-- TECH:END -->
+ - [Exclusive: This is our first look at Android 13 &quot;Tiramisu&quot; and some of its upcoming features &lpar;Aamir Siddiqui/XDA Developers&rpar;](http://www.techmeme.com/211224/p6#a211224p6)
+ - [The Royal Treatment, Return to Hogwarts and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Privoro, which makes security devices for smartphones, including a case with intelligent audio masking and camera blocking, raises a $30M Series B &lpar;FinSMEs&rpar;](http://www.techmeme.com/211224/p5#a211224p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
