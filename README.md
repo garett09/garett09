@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My wife received a corporate gift for Christmas. It has been in the fridge since. When I went to open the bottle, I found out it was a candle.](http://9gag.com/gag/aKmV8W1)
- - 🚯 [For all my brothers, sisters and helicopters in emergency services and armed forces who are working on xmas, i wish you a very boring shift and maybe some cookies](http://9gag.com/gag/apgpb6p)
+ - 🚖 [The gift i want on Christmas](http://9gag.com/gag/aNPA424)
+ - 🚯 [Arnold Schwarzenegger donated $250,000 to built 25 tiny homes intended for homeless vets in West LA, which were turned over a few days before Christmas.](http://9gag.com/gag/aegbV8Q)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
