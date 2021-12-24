@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The gift i want on Christmas](http://9gag.com/gag/aNPA424)
- - 🚯 [Arnold Schwarzenegger donated $250,000 to built 25 tiny homes intended for homeless vets in West LA, which were turned over a few days before Christmas.](http://9gag.com/gag/aegbV8Q)
- - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
+ - 🚯 [Christmas](http://9gag.com/gag/avAGvPW)
+ - 🚯 [Merry Christmas to everyone who has to work tonight. Quick coffee break to keep me going.](http://9gag.com/gag/a81yw26)<!-- MEMES:END -->
 
 --- 
 
