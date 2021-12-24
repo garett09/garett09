@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would you press?](http://9gag.com/gag/adg710d)
- - 🚯 [That was quick](http://9gag.com/gag/a0ZboqZ)
+ - 🚖 [Improvised dance contest champions &lpar;dancers were randomly chosen to dance together and music was random too&rpar; - John Lindo &amp;amp; Stephanie Batista](http://9gag.com/gag/aNPA9eb)
+ - 🚯 [Incredibly enough i never noticed that as a kid](http://9gag.com/gag/aE8YVZ9)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
