@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best RPG 2021: Wildermyth](https://www.pcgamer.com/best-rpg-2021-wildermyth)
  - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)
- - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)
- - [Ready or Not studio says planned &#39;school shooting&#39; level did not cause split with publisher](https://www.pcgamer.com/ready-or-not-studio-says-planned-school-shooting-level-did-not-cause-split-with-publisher)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
