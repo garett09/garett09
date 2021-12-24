@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 8 coziest video game firesides](https://www.polygon.com/essentials/22848089/best-video-game-firesides-yule-logs-campfire)
- - [Gog Sale Includes Some Of The Top Games Of 2021](https://kotaku.com/gog-sale-includes-some-of-the-top-games-of-2021-1848268766)
- - [10 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)<!-- GAME:END -->
+ - [PlayStation Store Has A Ton Of Games On Sale Right Now](https://kotaku.com/playstation-store-has-a-ton-of-games-on-sale-right-now-1848268907)
+ - [9 super merry superhero TV Christmas specials you can stream right now](https://www.polygon.com/tv/22166066/christmas-episodes-batman-superman-x-men-justice-league)
+ - [Makers of Controversial Upcoming School Shooting Game Level Remind Team To Have Some Tact](https://kotaku.com/makers-of-controversial-upcoming-school-shooting-video-1848268857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
