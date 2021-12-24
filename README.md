@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tricks and ...](http://9gag.com/gag/a61bXpq)
- - 🚯 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
- - 🚯 [Luxembourg introduces nationwide free public transport to reduce congestion. It&amp;rsquo;s the first and only country in the world to completely abolish fares for trains, trams and buses nationwide.](http://9gag.com/gag/aE8YMve)<!-- MEMES:END -->
+ - 🚖 [After watching Matrix Resurrections](http://9gag.com/gag/a41bPb6)
+ - 🚯 [Would you press?](http://9gag.com/gag/adg710d)
+ - 🚯 [That was quick](http://9gag.com/gag/a0ZboqZ)<!-- MEMES:END -->
 
 --- 
 
