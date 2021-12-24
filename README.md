@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini, iMac &amp; even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)
  - [10 best mood tracker apps for Android](https://www.androidauthority.com/best-mood-tracker-apps-3074473/)
- - [Premature Galaxy S21 FE unboxing video tells us almost everything](https://www.androidauthority.com/samsung-galaxy-s21-fe-unboxing-3079127/)
- - [At least 14 senior Meta executives, including from its Workplace and Novi divisions, left in 2021 or announced plans to depart in the coming months &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/211224/p1#a211224p1)<!-- TECH:END -->
+ - [Premature Galaxy S21 FE unboxing video tells us almost everything](https://www.androidauthority.com/samsung-galaxy-s21-fe-unboxing-3079127/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
