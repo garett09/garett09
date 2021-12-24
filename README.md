@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [The sexiest &lpar;and least sexy&rpar; smartphone designs of 2021](https://www.androidauthority.com/best-smartphone-designs-2021-3078005/)
- - [Microsoft cancels in-person plans for CES, joining Google, Meta, Amazon, Twitter, and others, amid ongoing concerns over COVID-19 &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/211224/p9#a211224p9)
- - [Merry Christmas from all of us at AppleInsider](https://appleinsider.com/articles/21/12/24/merry-christmas-from-all-of-us-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple workers plan a walkout on Christmas Eve     - CNET](https://www.cnet.com/tech/apple-workers-to-stage-a-walkout-on-christmas-eve/#ftag=CAD590a51e)
+ - [Microsoft cancels in-person plans for CES, joining Google, Meta, Amazon, Twitter, and others, amid ongoing concerns over COVID-19 &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/211224/p9#a211224p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
