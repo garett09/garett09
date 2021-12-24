@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers is the comfort food of battle royales](https://www.pcgamer.com/scavengers-is-the-comfort-food-of-battle-royales)
- - [2021 is the first year I unsubbed from WoW since 2014, and I&#39;m feeling lost](https://www.pcgamer.com/2021-is-the-first-year-i-unsubbed-from-wow-since-2014-and-im-feeling-lost)
- - [There aren&#39;t enough games about history, but at least there&#39;s The Forgotten City](https://www.pcgamer.com/there-arent-enough-games-about-history-but-at-least-theres-the-forgotten-city)<!-- GAME:END -->
+ - [Xbox Games with Gold 2021 or, How I Stopped Worrying and Learned to Love the Bargain Bin](https://www.polygon.com/22846049/xbox-games-with-gold-free-games-2021-list-cost-analysis)
+ - [PlayStation Plus’ free games in 2021: A bargain at any suggested retail price](https://www.polygon.com/22846053/playstation-plus-free-games-2021-list-cost-analysis)
+ - [You Died of Dysentery: 50 Years of Traveling The Oregon Trail](https://kotaku.com/you-died-of-dysentery-50-years-of-traveling-the-oregon-1848267543)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
