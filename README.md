@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The World Is Messy. Idealizations Make the Physics Simple](https://www.wired.com/story/the-world-is-messy-idealizations-make-the-physics-simple)
- - [8 great TikTok accounts from 2021 to follow](https://www.theverge.com/22840187/tiktok-creators-best-accounts-follow-fyp-2021)
- - [The gadgets we broke](https://www.theverge.com/22848431/verge-broken-gadget-phone-camera-car-pda-stories)<!-- TECH:END -->
+ - [Google faces nearly $100 million fine in Russia over failure to delete banned content](https://www.theverge.com/2021/12/24/22852827/google-100-million-fine-russia-banned-content-big-tech-regulation)
+ - [The biggest Android stories of 2021: Here’s what you were most interested in](https://www.androidauthority.com/android-2021-3075498/)
+ - [PSA: You’ll miss 25 minutes of The Expanse’s final season if you don’t pause it](https://www.theverge.com/2021/12/24/22851119/the-expanse-season-6-final-amazon-x-ray)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
