@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel apologizes to China for following US sanctions targeting Xinjiang ‘genocide’](https://www.theverge.com/2021/12/24/22852773/intel-apology-china-xinjiang-labor-goods)
- - [We asked, you told us: One phone takes the best pictures in our shootout](https://www.androidauthority.com/2021-smartphone-camera-shootout-poll-results-3079707/)
- - [Lowest prices of the year: Save up to $300 on MacBook Pro, MacBook Air, Mac mini, iMac &amp; even AppleCare](https://appleinsider.com/articles/21/12/23/lowest-prices-of-the-year-save-up-to-280-on-macbook-pro-macbook-air-mac-mini----even-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [The best app to convert videos to MP4 in high quality on Mac](https://appleinsider.com/articles/21/12/24/the-best-app-to-convert-videos-to-mp4-in-high-quality-on-mac?utm_medium=rss)
+ - [Apple&#39;s &#39;For All Mankind&#39; tops USA Today&#39;s best TV of 2021](https://appleinsider.com/articles/21/12/24/apples-for-all-mankind-tops-usa-todays-best-tv-of-2021?utm_medium=rss)
+ - [Why the Red Hydrogen One phone shows up in movies like Netflix&#39;s Don&#39;t Look Up, F9     - CNET](https://www.cnet.com/tech/mobile/why-the-red-hydrogen-one-phone-shows-up-in-movies-like-netflixs-dont-look-up-f9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
