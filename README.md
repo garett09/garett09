@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After watching Matrix Resurrections](http://9gag.com/gag/a41bPb6)
- - 🚯 [Would you press?](http://9gag.com/gag/adg710d)
- - 🚯 [That was quick](http://9gag.com/gag/a0ZboqZ)<!-- MEMES:END -->
+ - 🚖 [Would you press?](http://9gag.com/gag/adg710d)
+ - 🚯 [That was quick](http://9gag.com/gag/a0ZboqZ)
+ - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
 
