@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry Christmas](http://9gag.com/gag/aM48z8A)
- - 🚯 [Don&amp;#039;t simp](http://9gag.com/gag/axBVbO2)
+ - 🚖 [Don&amp;#039;t simp](http://9gag.com/gag/axBVbO2)
+ - 🚯 [It Ain&amp;rsquo;t Christmas til Hans Gruber falls off Nakatomi Plaza](http://9gag.com/gag/arnbx0y)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
