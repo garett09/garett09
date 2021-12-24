@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games with Gold 2021 or, How I Stopped Worrying and Learned to Love the Bargain Bin](https://www.polygon.com/22846049/xbox-games-with-gold-free-games-2021-list-cost-analysis)
- - [PlayStation Plus’ free games in 2021: A bargain at any suggested retail price](https://www.polygon.com/22846053/playstation-plus-free-games-2021-list-cost-analysis)
- - [You Died of Dysentery: 50 Years of Traveling The Oregon Trail](https://kotaku.com/you-died-of-dysentery-50-years-of-traveling-the-oregon-1848267543)<!-- GAME:END -->
+ - [10 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)
+ - [Matrix Resurrections, Encanto, and every new movie you can watch at home this weekend](https://www.polygon.com/2021/12/24/22851736/new-movies-watch-netflix-matrix-hbo-max-encanto-disney-plus)
+ - [What&#39;s Worth Picking Up From Nintendo’s End-Of-Year Hidden Gems Switch Sale](https://kotaku.com/whats-worth-picking-up-from-nintendo-s-end-of-year-indi-1848267548)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
