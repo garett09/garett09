@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best RTX 3080 laptops you can get](https://www.androidauthority.com/best-rtx-3080-laptops-3059585/)
- - [Rolling Square&#39;s AirCard fits in your wallet, works just like an AirTag](https://appleinsider.com/articles/21/12/23/rolling-squares-aircard-fits-in-your-wallet-works-just-like-an-airtag?utm_medium=rss)
- - [Amid COVID-19 concerns, Google, GM, and Waymo cancel in-person plans for CES, following Meta, Amazon, Twitter, and others, while Intel scales back its presence &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/211223/p21#a211223p21)<!-- TECH:END -->
+ - [Samsung is launching its first HDR10+ gaming displays](https://www.theverge.com/2021/12/23/22851652/samsung-hdr10-plus-gaming-displays-monitors-qled-tvs)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [The Coalition for App Fairness loses its best advocate as Horacio Gutierrez, Spotify&#39;s Chief Legal Officer, leaves for The Walt Disney Company &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/211223/p23#a211223p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
