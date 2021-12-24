@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple worker walkout organizers issue demands, size of strike unclear](https://appleinsider.com/articles/21/12/24/apple-worker-walkout-organizers-issue-demands-size-of-strike-unclear?utm_medium=rss)
- - [Apple must let dating apps offer alternate in-app payment options, says Dutch regulator](https://www.theverge.com/2021/12/24/22852966/apple-netherlands-dating-apps-match-tinder-app-store-competition)
- - [6 new streaming movies and shows to watch this weekend: Encanto and more](https://www.androidauthority.com/new-streaming-movies-and-shows-to-watch-3079361/)<!-- TECH:END -->
+ - [Dutch antitrust regulator orders Apple to let dating apps in the App Store offer alternative payment systems by January 15 or face up to a &amp;euro;50M fine &lpar;Reuters&rpar;](http://www.techmeme.com/211224/p8#a211224p8)
+ - [CES 2022 loses Microsoft in Las Vegas over COVID fears](https://www.theverge.com/2021/12/24/22853157/ces-microsoft-canceled-omicron-covid)
+ - [Apple worker walkout organizers issue demands, size of strike unclear](https://appleinsider.com/articles/21/12/24/apple-worker-walkout-organizers-issue-demands-size-of-strike-unclear?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
