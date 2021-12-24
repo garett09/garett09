@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ready or Not studio says planned &#39;school shooting&#39; level did not cause split with publisher](https://www.pcgamer.com/ready-or-not-studio-says-planned-school-shooting-level-did-not-cause-split-with-publisher)
- - [What happened between The Matrix Revolutions and The Matrix Resurrections?](https://www.polygon.com/22842942/matrix-movie-order-timeline-resurrections)
- - [Uncharted Movie&#39;s Sully Already Looked Off, But The Mustache Makes It Even Worse](https://kotaku.com/uncharted-movies-sully-already-looked-off-but-the-must-1848266809)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)
+ - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)
+ - [Ready or Not studio says planned &#39;school shooting&#39; level did not cause split with publisher](https://www.pcgamer.com/ready-or-not-studio-says-planned-school-shooting-level-did-not-cause-split-with-publisher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
