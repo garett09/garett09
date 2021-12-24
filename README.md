@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are petty creatures.](http://9gag.com/gag/aVxqK1n)
- - 🚯 [Freestyler! Gwacawacamole!](http://9gag.com/gag/aLvD4vV)
+ - 🚖 [Average NFT seller](http://9gag.com/gag/a61b9ve)
+ - 🚯 [\u1e9e&amp;szlig;&amp;szlig;&amp;szlig;](http://9gag.com/gag/aWgmvZx)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
