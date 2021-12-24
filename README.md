@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Save $200 on Apple&#39;s iMac 24-inch with M1, plus $30 off AppleCare](https://appleinsider.com/articles/21/12/24/deals-save-200-on-apples-imac-24-inch-with-m1-plus-30-off-applecare?utm_medium=rss)
- - [A button mapper is the first app I install on any Android TV](https://www.androidauthority.com/remote-button-mapper-android-tv-3076063/)
- - [Dutch regulators rule Apple must make App Store changes before Jan. 15](https://appleinsider.com/articles/21/12/24/dutch-regulators-rule-apple-must-make-app-store-changes-before-jan-15?utm_medium=rss)<!-- TECH:END -->
+ - [6 new streaming movies and shows to watch this weekend: Encanto and more](https://www.androidauthority.com/new-streaming-movies-and-shows-to-watch-3079361/)
+ - [The Samsung Galaxy S21 Ultra is our Readers’ Choice best phone of 2021](https://www.androidauthority.com/best-smartphone-2021-readers-choice-3079795/)
+ - [Research: centralized crypto exchanges reported more than $14T in 2021 trading volume, up 689% YoY; Binance facilitated 67% of the total volume &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/211224/p7#a211224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
