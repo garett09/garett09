@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There aren&#39;t enough games about history, but at least there&#39;s The Forgotten City](https://www.pcgamer.com/there-arent-enough-games-about-history-but-at-least-theres-the-forgotten-city)
- - [Best RPG 2021: Wildermyth](https://www.pcgamer.com/best-rpg-2021-wildermyth)
- - [&lpar;For Southeast Asia&rpar; Post-launch Update for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles added Demons as playable characters for Versus Mode!](https://blog.playstation.com/2021/12/23/20211223-demonslayer/)<!-- GAME:END -->
+ - [Scavengers is the comfort food of battle royales](https://www.pcgamer.com/scavengers-is-the-comfort-food-of-battle-royales)
+ - [2021 is the first year I unsubbed from WoW since 2014, and I&#39;m feeling lost](https://www.pcgamer.com/2021-is-the-first-year-i-unsubbed-from-wow-since-2014-and-im-feeling-lost)
+ - [There aren&#39;t enough games about history, but at least there&#39;s The Forgotten City](https://www.pcgamer.com/there-arent-enough-games-about-history-but-at-least-theres-the-forgotten-city)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
