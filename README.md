@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 new streaming movies and shows to watch this weekend: Encanto and more](https://www.androidauthority.com/new-streaming-movies-and-shows-to-watch-3079361/)
- - [The Samsung Galaxy S21 Ultra is our Readers’ Choice best phone of 2021](https://www.androidauthority.com/best-smartphone-2021-readers-choice-3079795/)
- - [Research: centralized crypto exchanges reported more than $14T in 2021 trading volume, up 689% YoY; Binance facilitated 67% of the total volume &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/211224/p7#a211224p7)<!-- TECH:END -->
+ - [Apple worker walkout organizers issue demands, size of strike unclear](https://appleinsider.com/articles/21/12/24/apple-worker-walkout-organizers-issue-demands-size-of-strike-unclear?utm_medium=rss)
+ - [Apple must let dating apps offer alternate in-app payment options, says Dutch regulator](https://www.theverge.com/2021/12/24/22852966/apple-netherlands-dating-apps-match-tinder-app-store-competition)
+ - [6 new streaming movies and shows to watch this weekend: Encanto and more](https://www.androidauthority.com/new-streaming-movies-and-shows-to-watch-3079361/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
