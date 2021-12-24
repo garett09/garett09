@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 organizers insist in-person events will go on even as more exhibitors pull back](https://www.theverge.com/2021/12/23/22852534/ces-2022-is-not-canceled-will-go-on-without-intel-google-gm)
- - [Sources: cybersecurity startup Snyk is preparing for an IPO as soon as mid-2022, with a target to exceed its $8.6B valuation from September &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211223/p25#a211223p25)
- - [The Matrix Resurrections post-credits scene, explained     - CNET](https://www.cnet.com/news/the-matrix-resurrections-post-credits-scene-broken-down/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premature Galaxy S21 FE unboxing video tells us almost everything](https://www.androidauthority.com/samsung-galaxy-s21-fe-unboxing-3079127/)
+ - [At least 14 senior Meta executives, including from its Workplace and Novi divisions, left in 2021 or announced plans to depart in the coming months &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/211224/p1#a211224p1)
+ - [CES 2022 organizers insist in-person events will go on even as more exhibitors pull back](https://www.theverge.com/2021/12/23/22852534/ces-2022-is-not-canceled-will-go-on-without-intel-google-gm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
