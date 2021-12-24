@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Expectation VS Reality](http://9gag.com/gag/aE8YAjO)
- - 🚯 [Don&amp;rsquo;t mess with Jimmy Carr](http://9gag.com/gag/avAG6yq)
+ - 🚖 [Men are petty creatures.](http://9gag.com/gag/aVxqK1n)
+ - 🚯 [Freestyler! Gwacawacamole!](http://9gag.com/gag/aLvD4vV)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
