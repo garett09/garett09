@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t simp](http://9gag.com/gag/axBVbO2)
- - 🚯 [It Ain&amp;rsquo;t Christmas til Hans Gruber falls off Nakatomi Plaza](http://9gag.com/gag/arnbx0y)
+ - 🚖 [My wife received a corporate gift for Christmas. It has been in the fridge since. When I went to open the bottle, I found out it was a candle.](http://9gag.com/gag/aKmV8W1)
+ - 🚯 [For all my brothers, sisters and helicopters in emergency services and armed forces who are working on xmas, i wish you a very boring shift and maybe some cookies](http://9gag.com/gag/apgpb6p)
  - 🚯 [2 More Days To Go! Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
