@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is launching its first HDR10+ gaming displays](https://www.theverge.com/2021/12/23/22851652/samsung-hdr10-plus-gaming-displays-monitors-qled-tvs)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [The Coalition for App Fairness loses its best advocate as Horacio Gutierrez, Spotify&#39;s Chief Legal Officer, leaves for The Walt Disney Company &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/211223/p23#a211223p23)<!-- TECH:END -->
+ - [Sources: cybersecurity startup Snyk is preparing for an IPO as soon as mid-2022, with a target to exceed its $8.6B valuation from September &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211223/p25#a211223p25)
+ - [The Matrix Resurrections post-credits scene, explained     - CNET](https://www.cnet.com/news/the-matrix-resurrections-post-credits-scene-broken-down/#ftag=CAD590a51e)
+ - [Government budget works could delay DOJ lawsuit against Apple](https://appleinsider.com/articles/21/12/23/government-budget-works-could-delay-doj-lawsuit-against-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
