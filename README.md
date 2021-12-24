@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No hand contact, two persons head to head climb 100 stairs in 53 seconds](http://9gag.com/gag/avAG1NM)
- - 🚯 [Always check mirrors before getting out of your car](http://9gag.com/gag/a81yA13)
- - 🚯 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)<!-- MEMES:END -->
+ - 🚖 [Always check mirrors before getting out of your car](http://9gag.com/gag/a81yA13)
+ - 🚯 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
+ - 🚯 [No hand contact, two persons head to head climb 100 stairs in 53 seconds](http://9gag.com/gag/avAG1NM)<!-- MEMES:END -->
 
 --- 
 
