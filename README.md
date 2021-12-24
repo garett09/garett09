@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always check mirrors before getting out of your car](http://9gag.com/gag/a81yA13)
+ - 🚖 [Tricks and ...](http://9gag.com/gag/a61bXpq)
  - 🚯 [Just starting to walk without somebody guarding me!](http://9gag.com/gag/aNPALMv)
- - 🚯 [No hand contact, two persons head to head climb 100 stairs in 53 seconds](http://9gag.com/gag/avAG1NM)<!-- MEMES:END -->
+ - 🚯 [Luxembourg introduces nationwide free public transport to reduce congestion. It&amp;rsquo;s the first and only country in the world to completely abolish fares for trains, trams and buses nationwide.](http://9gag.com/gag/aE8YMve)<!-- MEMES:END -->
 
 --- 
 
