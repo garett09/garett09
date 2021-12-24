@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Review: A Charlie Brown Christmas](https://www.polygon.com/reviews/22852205/charlie-brown-christmas-review)
  - [The Matrix Resurrections is one of the best critiques of videogame culture ever](https://www.pcgamer.com/the-matrix-resurrections-is-one-of-the-best-critiques-of-videogame-culture-ever)
- - [Titanfall 2 gets fan-made custom servers on PC](https://www.pcgamer.com/titanfall-2-gets-fan-made-custom-servers-on-pc)
- - [PlayStation Store Has A Ton Of Games On Sale Right Now](https://kotaku.com/playstation-store-has-a-ton-of-games-on-sale-right-now-1848268907)<!-- GAME:END -->
+ - [Titanfall 2 gets fan-made custom servers on PC](https://www.pcgamer.com/titanfall-2-gets-fan-made-custom-servers-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
