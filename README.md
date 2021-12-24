@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)
- - [Matrix Resurrections, Encanto, and every new movie you can watch at home this weekend](https://www.polygon.com/2021/12/24/22851736/new-movies-watch-netflix-matrix-hbo-max-encanto-disney-plus)
- - [What&#39;s Worth Picking Up From Nintendo’s End-Of-Year Hidden Gems Switch Sale](https://kotaku.com/whats-worth-picking-up-from-nintendo-s-end-of-year-indi-1848267548)<!-- GAME:END -->
+ - [The 8 coziest video game firesides](https://www.polygon.com/essentials/22848089/best-video-game-firesides-yule-logs-campfire)
+ - [Gog Sale Includes Some Of The Top Games Of 2021](https://kotaku.com/gog-sale-includes-some-of-the-top-games-of-2021-1848268766)
+ - [10 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
