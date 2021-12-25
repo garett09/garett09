@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Life is Strange: True Colors was the game I related to most in 2021](https://www.pcgamer.com/life-is-strange-true-colors-was-the-game-i-related-to-most-in-2021)
  - [Best FPS 2021: Halo Infinite](https://www.pcgamer.com/best-fps-2021-halo-infinite)
- - [Mad Dog McCree was just one of many woeful FMV shooters of the &#39;90s](https://www.pcgamer.com/saturday-video-crapshoot-american-laser-games)
- - [The Analyst is The Matrix Resurrections’ most fascinating addition](https://www.polygon.com/22842862/analyst-matrix-resurrections-architect-explained)<!-- GAME:END -->
+ - [Mad Dog McCree was just one of many woeful FMV shooters of the &#39;90s](https://www.pcgamer.com/saturday-video-crapshoot-american-laser-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
