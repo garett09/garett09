@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The gift i want on Christmas](http://9gag.com/gag/aNPA424)
- - 🚯 [Christmas](http://9gag.com/gag/avAGvPW)
- - 🚯 [Merry Christmas to everyone who has to work tonight. Quick coffee break to keep me going.](http://9gag.com/gag/a81yw26)<!-- MEMES:END -->
+ - 🚖 [The War On Christmas](http://9gag.com/gag/aqGbxvR)
+ - 🚯 [Merry Christmas!](http://9gag.com/gag/aGz1260)
+ - 🚯 [Not all heroes wear capes](http://9gag.com/gag/a51bjRO)<!-- MEMES:END -->
 
 --- 
 
