@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Man: No Way Home ending explained and all your questions answered     - CNET](https://www.cnet.com/news/spider-man-no-way-home-ending-explained-and-every-question-answered/#ftag=CAD590a51e)
- - [Ozark season 4: Everything you need to know about the final season on Netflix](https://www.androidauthority.com/ozark-season-4-netflix-3077620/)
- - [All the Spider-Man movies ranked, from No Way Home to Into the Spider-Verse     - CNET](https://www.cnet.com/news/every-spider-man-movie-ranked-from-no-way-home-to-into-the-spider-verse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First things to do with your new Android phone](https://www.androidauthority.com/first-things-new-android-phone-setup-631133/)
+ - [Q&amp;A with Clubhouse CEO Paul Davison: copycat features from big rivals have not impacted the company &quot;in any real way&quot; and making money is not a pressing concern &lpar;Financial Times&rpar;](http://www.techmeme.com/211225/p3#a211225p3)
+ - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
