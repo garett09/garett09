@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finally got a new PS5? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [Today I learned that the Death Star is the size of the Olympic Peninsula](https://www.theverge.com/2021/12/25/22850344/park-my-spaceship-google-maps)
- - [Best apps for audio and video editing on the iPhone and iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-audio-and-video-editing-on-the-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Ozark season 4: Everything you need to know about the final season on Netflix](https://www.androidauthority.com/ozark-season-4-netflix-3077620/)
+ - [NASA&#39;s James Webb Space Telescope just launched: What&#39;s next?     - CNET](https://www.cnet.com/news/nasa-james-webb-space-telescope-just-launched-whats-next/#ftag=CAD590a51e)
+ - [Finally got a new PS5? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
