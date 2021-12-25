@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;Any sufficiently advanced technology is indistinguishable from magic&amp;quot; ARTHUR C. CLARKE](http://9gag.com/gag/adg7RrM)
- - 🚯 [Some subways allow dogs to sleep in during the colder months](http://9gag.com/gag/aQX9yO2)
- - 🚯 [Merry Christmas, everybody!](http://9gag.com/gag/a91rDB6)<!-- MEMES:END -->
+ - 🚖 [Some subways allow dogs to sleep in during the colder months](http://9gag.com/gag/aQX9yO2)
+ - 🚯 [Merry Christmas, everybody!](http://9gag.com/gag/a91rDB6)
+ - 🚯 [Figure it out!](http://9gag.com/gag/a11bOd8)<!-- MEMES:END -->
 
 --- 
 
