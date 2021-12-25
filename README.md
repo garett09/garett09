@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember Nakatomi 1988](http://9gag.com/gag/avAGdoW)
+ - 🚖 [Let the adventure begin, Merry Christmas!](http://9gag.com/gag/abgp2AX)
  - 🚯 [Just Watched Die Hard #1 after all the Yes it Is and No its not Memes... IT IS A CHRISTMAS MOVIE.](http://9gag.com/gag/amgYVqV)
- - 🚯 [Let the adventure begin, Merry Christmas!](http://9gag.com/gag/abgp2AX)<!-- MEMES:END -->
+ - 🚯 [Merry Christmas my dudes! Rate my setup.](http://9gag.com/gag/avAGv7b)<!-- MEMES:END -->
 
 --- 
 
