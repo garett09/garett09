@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Take a Slick, Professional Headshot With Your Phone](https://www.wired.com/story/how-to-professional-headshot-smartphone-camera)
- - [Can You Solve Climate Change Better Than World Leaders?](https://www.wired.com/story/can-you-solve-climate-change-role-play)
- - [Watch live: NASA&#39;s James Webb Space Telescope launch     - CNET](https://www.cnet.com/news/watch-live-nasas-james-webb-space-telescope-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to pick the right charger: A practical guide](https://www.androidauthority.com/how-to-choose-phone-charger-3060598/)
+ - [9 great reads from CNET this week: 2022 games, streaming movies, Rec Room and more     - CNET](https://www.cnet.com/tech/gaming/9-great-reads-from-cnet-this-week-122521-2022-games-streaming-movies-rec-room-and-more/#ftag=CAD590a51e)
+ - [5G home internet might be the solution to your broadband needs     - CNET](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
