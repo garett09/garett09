@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spider-Man: No Way Home ending explained and all your questions answered     - CNET](https://www.cnet.com/news/spider-man-no-way-home-ending-explained-and-every-question-answered/#ftag=CAD590a51e)
  - [Ozark season 4: Everything you need to know about the final season on Netflix](https://www.androidauthority.com/ozark-season-4-netflix-3077620/)
- - [NASA&#39;s James Webb Space Telescope just launched: What&#39;s next?     - CNET](https://www.cnet.com/news/nasa-james-webb-space-telescope-just-launched-whats-next/#ftag=CAD590a51e)
- - [Finally got a new PS5? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)<!-- TECH:END -->
+ - [All the Spider-Man movies ranked, from No Way Home to Into the Spider-Verse     - CNET](https://www.cnet.com/news/every-spider-man-movie-ranked-from-no-way-home-to-into-the-spider-verse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
