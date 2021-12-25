@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch eShop is down for some on Christmas Day](https://www.theverge.com/2021/12/25/22853759/nintendo-eshop-down-christmas-day)
  - [First things to do with your new Android phone](https://www.androidauthority.com/first-things-new-android-phone-setup-631133/)
- - [Q&amp;A with Clubhouse CEO Paul Davison: copycat features from big rivals have not impacted the company &quot;in any real way&quot; and making money is not a pressing concern &lpar;Financial Times&rpar;](http://www.techmeme.com/211225/p3#a211225p3)
- - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best women&#39;s running shoes for 2022: Asics, Brooks and more     - CNET](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
