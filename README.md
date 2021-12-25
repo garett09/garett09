@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You should play the sci-fi video game living in my head rent free     - CNET](https://www.cnet.com/tech/gaming/you-should-play-the-sci-fi-video-game-living-in-my-head-rent-free/#ftag=CAD590a51e)
  - [Merry Christmas from all of us at AppleInsider](https://appleinsider.com/articles/21/12/24/merry-christmas-from-all-of-us-at-appleinsider?utm_medium=rss)
- - [In January, DoorDash is reinstating its WeDash policy that has all employees, including the CEO, make deliveries or shadow customer service workers once a month &lpar;Levi Sumagaysay/MarketWatch&rpar;](http://www.techmeme.com/211224/p10#a211224p10)
- - [The incredible Netflix anime that has me obsessed     - CNET](https://www.cnet.com/news/the-incredible-netflix-anime-that-has-me-obsessed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In January, DoorDash is reinstating its WeDash policy that has all employees, including the CEO, make deliveries or shadow customer service workers once a month &lpar;Levi Sumagaysay/MarketWatch&rpar;](http://www.techmeme.com/211224/p10#a211224p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
