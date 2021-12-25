@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yup](http://9gag.com/gag/a61b3QN)
- - 🚯 [The James Webb telescope has successfully launched.](http://9gag.com/gag/ajgXyd8)
+ - 🚖 [What dreams are made of](http://9gag.com/gag/aLvDNr5)
+ - 🚯 [Christmas 96 - best I&amp;rsquo;ve ever had.](http://9gag.com/gag/a0ZbWmz)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
