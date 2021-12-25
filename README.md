@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 great games for your new 2021 PlayStation 5](https://www.theverge.com/22825859/ps5-best-games-playstation-5-sony-2021)
- - [The global version of Steam appears to be banned in China](https://www.theverge.com/2021/12/25/22853520/steam-global-china-banned)
- - [The best notes apps for iPhone and iPad](https://appleinsider.com/articles/21/12/08/the-best-notes-apps-for-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)
+ - [[Thread] For media and advertising, Web3&#39;s focus on decentralization and tokenization solves few, if any, problems and is the last thing ad tech needs &lpar;Ari Paparo Dot Eth/@aripap&rpar;](http://www.techmeme.com/211225/p2#a211225p2)
+ - [Best rewards credit cards for January 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
