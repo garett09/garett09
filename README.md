@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry Brismas!](http://9gag.com/gag/a41bwM6)
- - 🚯 [&amp;quot;Any sufficiently advanced technology is indistinguishable from magic&amp;quot; ARTHUR C. CLARKE](http://9gag.com/gag/adg7RrM)
- - 🚯 [Wish you all a Merry Christmas.](http://9gag.com/gag/apgpVNp)<!-- MEMES:END -->
+ - 🚖 [Wish you all a Merry Christmas.](http://9gag.com/gag/apgpVNp)
+ - 🚯 [Merry Christmas frens, from Australia](http://9gag.com/gag/aZrmz49)
+ - 🚯 [Merry Christmas to everyone who works today. Cheers guys!](http://9gag.com/gag/a0ZbOOv)<!-- MEMES:END -->
 
 --- 
 
