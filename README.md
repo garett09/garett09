@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wish you all a Merry Christmas.](http://9gag.com/gag/apgpVNp)
- - 🚯 [Merry Christmas frens, from Australia](http://9gag.com/gag/aZrmz49)
- - 🚯 [Merry Christmas to everyone who works today. Cheers guys!](http://9gag.com/gag/a0ZbOOv)<!-- MEMES:END -->
+ - 🚖 [Merry Christmas to everyone who works today. Cheers guys!](http://9gag.com/gag/a0ZbOOv)
+ - 🚯 [This is very interesting](http://9gag.com/gag/aDDWMnN)
+ - 🚯 [Bon voyage!](http://9gag.com/gag/aAGdZqp)<!-- MEMES:END -->
 
 --- 
 
