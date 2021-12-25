@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is very interesting](http://9gag.com/gag/aDDWMnN)
- - 🚯 [Spending xmas outside the delivery room waiting for my daughter to be born. So exciting&amp;hellip; merry xmas everyone!](http://9gag.com/gag/aOQzjOv)
+ - 🚖 [Listen and repeat](http://9gag.com/gag/apgpddn)
+ - 🚯 [Bon voyage!](http://9gag.com/gag/aAGdZqp)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
