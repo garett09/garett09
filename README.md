@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Analyst is The Matrix Resurrections’ most fascinating addition](https://www.polygon.com/22842862/analyst-matrix-resurrections-architect-explained)
  - [Review: A Charlie Brown Christmas](https://www.polygon.com/reviews/22852205/charlie-brown-christmas-review)
- - [The Matrix Resurrections is one of the best critiques of videogame culture ever](https://www.pcgamer.com/the-matrix-resurrections-is-one-of-the-best-critiques-of-videogame-culture-ever)
- - [Titanfall 2 gets fan-made custom servers on PC](https://www.pcgamer.com/titanfall-2-gets-fan-made-custom-servers-on-pc)<!-- GAME:END -->
+ - [The Matrix Resurrections is one of the best critiques of videogame culture ever](https://www.pcgamer.com/the-matrix-resurrections-is-one-of-the-best-critiques-of-videogame-culture-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
