@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Listen and repeat](http://9gag.com/gag/apgpddn)
- - 🚯 [Bon voyage!](http://9gag.com/gag/aAGdZqp)
+ - 🚖 [Merry Christmas everyone.](http://9gag.com/gag/aM48ynx)
+ - 🚯 [Let&amp;#039;s play &amp;#039;Guess the Country&amp;#039;](http://9gag.com/gag/aBnWNYz)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
