@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The War On Christmas](http://9gag.com/gag/aqGbxvR)
- - 🚯 [Merry Christmas!](http://9gag.com/gag/aGz1260)
- - 🚯 [Not all heroes wear capes](http://9gag.com/gag/a51bjRO)<!-- MEMES:END -->
+ - 🚖 [In 1914 during WWI, 100,000 British and German troops called a ceasefire; soldiers decorated their trenches and No- Man&amp;rsquo;s-Land, sang Christmas carols, and exchanged gifts, food, tobacco, alcohol and souvenirs in what became known as The Christmas Truce.](http://9gag.com/gag/aGz1G5w)
+ - 🚯 [This &lpar;Trading Places&rpar; is the classic Christmas movie in Italy. On TV every December 24 since 1997.](http://9gag.com/gag/aXrq239)
+ - 🚯 [It&amp;#039;s the same with women...](http://9gag.com/gag/a0ZbEEL)<!-- MEMES:END -->
 
 --- 
 
