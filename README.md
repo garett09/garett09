@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throws bricks at dogs and gets mauled](http://9gag.com/gag/aDDWOZO)
- - 🚯 [It&amp;#039;s the same with women...](http://9gag.com/gag/a0ZbEEL)
- - 🚯 [I own a small company, and one of my biggest supplier tried to f^^k me real hard. I sued them in 2018, had very hard times in business with covid. Just had the judgement. I won. They ow my company 500.000 euros. David and Goliath. Never surrender. Whatever they do. Fight to win.](http://9gag.com/gag/aog18LA)<!-- MEMES:END -->
+ - 🚖 [On my face](http://9gag.com/gag/awzne3r)
+ - 🚯 [Merry Christmas to everyone who works today. Cheers guys!](http://9gag.com/gag/a0ZbOOv)
+ - 🚯 [Merry Christmas to everyone who has to work tonight. Quick coffee break to keep me going.](http://9gag.com/gag/a81yw26)<!-- MEMES:END -->
 
 --- 
 
