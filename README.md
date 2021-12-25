@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-412-3079864/)
- - [Windows 11: What you should know before upgrading &lpar;or not&rpar;](https://www.androidauthority.com/windows-11-should-you-upgrade-3038631/)
- - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Finally got a new PS5? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
+ - [Today I learned that the Death Star is the size of the Olympic Peninsula](https://www.theverge.com/2021/12/25/22850344/park-my-spaceship-google-maps)
+ - [Best apps for audio and video editing on the iPhone and iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-audio-and-video-editing-on-the-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
