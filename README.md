@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Boxing Day 2021 sales in Australia: here are the best PC gaming bargains](https://www.pcgamer.com/boxing-day-2021-sales-in-australia-here-are-the-best-pc-gaming-bargains)
  - [11 Things Every New Nintendo Switch Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-nintendo-switch-owner-should-try-or-1848266762)
- - [Nintendo Switch eShop Sees Big Server Issues Christmas Morning](https://kotaku.com/nintendo-eshop-sees-big-issues-christmas-morning-under-1848270547)
- - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)<!-- GAME:END -->
+ - [Nintendo Switch eShop Sees Big Server Issues Christmas Morning](https://kotaku.com/nintendo-eshop-sees-big-issues-christmas-morning-under-1848270547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
