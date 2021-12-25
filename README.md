@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2021 is the year I learned to love gaming with friends](https://www.pcgamer.com/2021-is-the-year-i-learned-to-love-gaming-with-friends)
  - [Life is Strange: True Colors was the game I related to most in 2021](https://www.pcgamer.com/life-is-strange-true-colors-was-the-game-i-related-to-most-in-2021)
- - [Best FPS 2021: Halo Infinite](https://www.pcgamer.com/best-fps-2021-halo-infinite)
- - [Mad Dog McCree was just one of many woeful FMV shooters of the &#39;90s](https://www.pcgamer.com/saturday-video-crapshoot-american-laser-games)<!-- GAME:END -->
+ - [Best FPS 2021: Halo Infinite](https://www.pcgamer.com/best-fps-2021-halo-infinite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
