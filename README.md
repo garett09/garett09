@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)
- - [How I spent $1.3 million trying to bake a cake in Farming Simulator 22, Part 2](https://www.pcgamer.com/farming-simulator-22-cake-2)
- - [16 Things Every New PS5 Owner Should Try Or Consider](https://kotaku.com/16-things-every-new-ps5-owner-should-try-or-consider-1848267129)<!-- GAME:END -->
+ - [11 Things Every New Nintendo Switch Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-nintendo-switch-owner-should-try-or-1848266762)
+ - [Nintendo Switch eShop Sees Big Server Issues Christmas Morning](https://kotaku.com/nintendo-eshop-sees-big-issues-christmas-morning-under-1848270547)
+ - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
