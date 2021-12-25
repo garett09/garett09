@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best notes apps for iPhone and iPad](https://appleinsider.com/articles/21/12/08/the-best-notes-apps-for-iphone-and-ipad?utm_medium=rss)
- - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)
- - [19 Surprising Things Your Nintendo Switch Can Do](https://www.wired.com/story/10-surprising-things-you-can-do-with-your-nintendo-switch)<!-- TECH:END -->
+ - [8 great games for your new 2021 PlayStation 5](https://www.theverge.com/22825859/ps5-best-games-playstation-5-sony-2021)
+ - [The global version of Steam appears to be banned in China](https://www.theverge.com/2021/12/25/22853520/steam-global-china-banned)
+ - [The best notes apps for iPhone and iPad](https://appleinsider.com/articles/21/12/08/the-best-notes-apps-for-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
