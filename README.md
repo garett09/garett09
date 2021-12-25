@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That feeling](http://9gag.com/gag/a91rVYD)
- - 🚯 [Last View on the James Webb telescope after it&amp;#039;s successful launch](http://9gag.com/gag/aDDWM9d)
+ - 🚖 [This is very interesting](http://9gag.com/gag/aDDWMnN)
+ - 🚯 [Spending xmas outside the delivery room waiting for my daughter to be born. So exciting&amp;hellip; merry xmas everyone!](http://9gag.com/gag/aOQzjOv)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
