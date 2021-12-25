@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Listen and repeat](http://9gag.com/gag/apgpddn)
- - 🚯 [Merry Christmas from Germany](http://9gag.com/gag/aVxqBY2)
+ - 🚖 [Yup](http://9gag.com/gag/a61b3QN)
+ - 🚯 [The James Webb telescope has successfully launched.](http://9gag.com/gag/ajgXyd8)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
