@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you were a good boy the whole year and Santa brings you your presents](http://9gag.com/gag/aggLKzq)
+ - 🚖 [That feeling](http://9gag.com/gag/a91rVYD)
  - 🚯 [Last View on the James Webb telescope after it&amp;#039;s successful launch](http://9gag.com/gag/aDDWM9d)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
