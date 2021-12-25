@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)
- - [[Thread] For media and advertising, Web3&#39;s focus on decentralization and tokenization solves few, if any, problems and is the last thing ad tech needs &lpar;Ari Paparo Dot Eth/@aripap&rpar;](http://www.techmeme.com/211225/p2#a211225p2)
- - [Best rewards credit cards for January 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-412-3079864/)
+ - [Windows 11: What you should know before upgrading &lpar;or not&rpar;](https://www.androidauthority.com/windows-11-should-you-upgrade-3038631/)
+ - [US airlines delay, cancel flights on Christmas weekend as omicron spikes     - CNET](https://www.cnet.com/news/us-airlines-delay-cancel-flights-as-omicron-spikes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
