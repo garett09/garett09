@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Analysis: Terra becomes the 2nd largest blockchain for DeFi protocols by total value locked at $18B+, up 42,000% from Dec. 2020, surpassing Binance Smart Chain &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/211225/p1#a211225p1)
- - [Apple&#39;s 14-inch MacBook Pro is discounted to $1,899, plus $60 off AppleCare](https://appleinsider.com/articles/21/10/29/apples-14-inch-macbook-pro-is-discounted-to-1899-plus-60-off-applecare?utm_medium=rss)
- - [Last-minute gift idea: Babbel Lifetime Subscription for $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/21/11/15/babbels-lifetime-subscription-returns-to-199-300-off-for-the-holidays?utm_medium=rss)<!-- TECH:END -->
+ - [9 best beer apps for Android for the hops fans](https://www.androidauthority.com/best-beer-apps-android-3074547/)
+ - [Apple&#39;s 14-inch MacBook Pro is discounted to $1,899, plus $60 off AppleCare](https://appleinsider.com/articles/21/10/29/apples-14-inch-macbook-pro-is-discounted-to-1899-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
