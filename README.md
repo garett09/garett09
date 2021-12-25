@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pick the right charger: A practical guide](https://www.androidauthority.com/how-to-choose-phone-charger-3060598/)
- - [9 great reads from CNET this week: 2022 games, streaming movies, Rec Room and more     - CNET](https://www.cnet.com/tech/gaming/9-great-reads-from-cnet-this-week-122521-2022-games-streaming-movies-rec-room-and-more/#ftag=CAD590a51e)
- - [5G home internet might be the solution to your broadband needs     - CNET](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best notes apps for iPhone and iPad](https://appleinsider.com/articles/21/12/08/the-best-notes-apps-for-iphone-and-ipad?utm_medium=rss)
+ - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)
+ - [19 Surprising Things Your Nintendo Switch Can Do](https://www.wired.com/story/10-surprising-things-you-can-do-with-your-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
