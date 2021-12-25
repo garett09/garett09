@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating the annual tradition that is Christmas Nights](https://www.polygon.com/22847434/christmas-nights-25th-anniversary-sega-sonic-team)
- - [The Unique Artist Behind Bomberman&#39;s Catchy Beats](https://kotaku.com/the-unique-artist-behind-bombermans-catchy-beats-1848268051)
- - [Cruelty Squad was the only game that made me feel sick this year, which just made me like it more](https://www.pcgamer.com/cruelty-squad-was-the-only-game-that-made-me-feel-sick-this-year-which-just-made-me-like-it-more)<!-- GAME:END -->
+ - [How I spent $1.3 million trying to bake a cake in Farming Simulator 22, Part 2](https://www.pcgamer.com/farming-simulator-22-cake-2)
+ - [16 Things Every New PS5 Owner Should Try Or Consider](https://kotaku.com/16-things-every-new-ps5-owner-should-try-or-consider-1848267129)
+ - [Celebrating the annual tradition that is Christmas Nights](https://www.polygon.com/22847434/christmas-nights-25th-anniversary-sega-sonic-team)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
