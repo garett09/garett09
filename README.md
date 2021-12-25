@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Remember Nakatomi 1988](http://9gag.com/gag/avAGdoW)
- - 🚯 [Not all heroes wear capes](http://9gag.com/gag/a51bjRO)
- - 🚯 [This &lpar;Trading Places&rpar; is the classic Christmas movie in Italy. On TV every December 24 since 1997.](http://9gag.com/gag/aXrq239)<!-- MEMES:END -->
+ - 🚯 [Just Watched Die Hard #1 after all the Yes it Is and No its not Memes... IT IS A CHRISTMAS MOVIE.](http://9gag.com/gag/amgYVqV)
+ - 🚯 [8 years clean from heroin today](http://9gag.com/gag/aegb7d5)<!-- MEMES:END -->
 
 --- 
 
