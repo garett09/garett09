@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 is the year I learned to love gaming with friends](https://www.pcgamer.com/2021-is-the-year-i-learned-to-love-gaming-with-friends)
- - [Life is Strange: True Colors was the game I related to most in 2021](https://www.pcgamer.com/life-is-strange-true-colors-was-the-game-i-related-to-most-in-2021)
- - [Best FPS 2021: Halo Infinite](https://www.pcgamer.com/best-fps-2021-halo-infinite)<!-- GAME:END -->
+ - [Celebrating the annual tradition that is Christmas Nights](https://www.polygon.com/22847434/christmas-nights-25th-anniversary-sega-sonic-team)
+ - [The Unique Artist Behind Bomberman&#39;s Catchy Beats](https://kotaku.com/the-unique-artist-behind-bombermans-catchy-beats-1848268051)
+ - [Cruelty Squad was the only game that made me feel sick this year, which just made me like it more](https://www.pcgamer.com/cruelty-squad-was-the-only-game-that-made-me-feel-sick-this-year-which-just-made-me-like-it-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
