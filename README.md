@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pregnancy app What to Expect says it invested significantly in content moderation, as vaccine misinformation rises in the community sections of pregnancy apps &lpar;Washington Post&rpar;](http://www.techmeme.com/211224/p11#a211224p11)
- - [Best bitcoin and crypto wallets for January 2022     - CNET](https://www.cnet.com/news/the-best-bitcoin-and-crypto-wallets/#ftag=CAD590a51e)
- - [You should play the sci-fi video game living in my head rent free     - CNET](https://www.cnet.com/tech/gaming/you-should-play-the-sci-fi-video-game-living-in-my-head-rent-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Terra becomes the 2nd largest blockchain for DeFi protocols by total value locked at $18B+, up 42,000% from Dec. 2020, surpassing Binance Smart Chain &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/211225/p1#a211225p1)
+ - [Apple&#39;s 14-inch MacBook Pro is discounted to $1,899, plus $60 off AppleCare](https://appleinsider.com/articles/21/10/29/apples-14-inch-macbook-pro-is-discounted-to-1899-plus-60-off-applecare?utm_medium=rss)
+ - [Last-minute gift idea: Babbel Lifetime Subscription for $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/21/11/15/babbels-lifetime-subscription-returns-to-199-300-off-for-the-holidays?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
