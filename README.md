@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You should play the sci-fi video game living in my head rent free     - CNET](https://www.cnet.com/tech/gaming/you-should-play-the-sci-fi-video-game-living-in-my-head-rent-free/#ftag=CAD590a51e)
- - [Merry Christmas from all of us at AppleInsider](https://appleinsider.com/articles/21/12/24/merry-christmas-from-all-of-us-at-appleinsider?utm_medium=rss)
- - [In January, DoorDash is reinstating its WeDash policy that has all employees, including the CEO, make deliveries or shadow customer service workers once a month &lpar;Levi Sumagaysay/MarketWatch&rpar;](http://www.techmeme.com/211224/p10#a211224p10)<!-- TECH:END -->
+ - [Pregnancy app What to Expect says it invested significantly in content moderation, as vaccine misinformation rises in the community sections of pregnancy apps &lpar;Washington Post&rpar;](http://www.techmeme.com/211224/p11#a211224p11)
+ - [Best bitcoin and crypto wallets for January 2022     - CNET](https://www.cnet.com/news/the-best-bitcoin-and-crypto-wallets/#ftag=CAD590a51e)
+ - [You should play the sci-fi video game living in my head rent free     - CNET](https://www.cnet.com/tech/gaming/you-should-play-the-sci-fi-video-game-living-in-my-head-rent-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
