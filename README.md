@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let the adventure begin, Merry Christmas!](http://9gag.com/gag/abgp2AX)
- - 🚯 [Just Watched Die Hard #1 after all the Yes it Is and No its not Memes... IT IS A CHRISTMAS MOVIE.](http://9gag.com/gag/amgYVqV)
- - 🚯 [Merry Christmas my dudes! Rate my setup.](http://9gag.com/gag/avAGv7b)<!-- MEMES:END -->
+ - 🚖 [Merry Christmas my dudes! Rate my setup.](http://9gag.com/gag/avAGv7b)
+ - 🚯 [It&amp;#039;s the same with women...](http://9gag.com/gag/a0ZbEEL)
+ - 🚯 [I own a small company, and one of my biggest supplier tried to f^^k me real hard. I sued them in 2018, had very hard times in business with covid. Just had the judgement. I won. They ow my company 500.000 euros. David and Goliath. Never surrender. Whatever they do. Fight to win.](http://9gag.com/gag/aog18LA)<!-- MEMES:END -->
 
 --- 
 
