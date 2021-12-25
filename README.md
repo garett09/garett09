@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the launch of NASA’s James Webb Space Telescope](https://www.theverge.com/2021/12/25/22850520/james-webb-space-telescope-launch-watch-live-stream-start-time-nasa)
- - [Ending soon: Save up to $3,500 on Samsung The Frame, 8K TVs](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
- - [Analysis: Terra becomes the 2nd largest blockchain for DeFi protocols by total value locked at $18B+, up 42,000% from Dec. 2020, surpassing Binance Smart Chain &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/211225/p1#a211225p1)<!-- TECH:END -->
+ - [How to Take a Slick, Professional Headshot With Your Phone](https://www.wired.com/story/how-to-professional-headshot-smartphone-camera)
+ - [Can You Solve Climate Change Better Than World Leaders?](https://www.wired.com/story/can-you-solve-climate-change-role-play)
+ - [Watch live: NASA&#39;s James Webb Space Telescope launch     - CNET](https://www.cnet.com/news/watch-live-nasas-james-webb-space-telescope-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
