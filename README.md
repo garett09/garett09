@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Return and Exchange Your Unwanted Gifts or Purchases](https://www.wired.com/story/how-to-return-or-exchange-gifts)
- - [The Morbid War Over Online Obituaries](https://www.wired.com/story/morbid-war-online-obituaries)
- - [The Best Indie Games You May Have Missed in 2021](https://www.wired.com/story/best-indie-games-2021)<!-- TECH:END -->
+ - [The best budget devices for building a starter smart home](https://www.androidauthority.com/budget-smart-home-3076323/)
+ - [The Algorithm That Lets Particle Physicists Count Higher Than 2](https://www.wired.com/story/the-algorithm-that-lets-particle-physicists-count-higher-than-2)
+ - [How to Stop Those Annoying Siri Notifications on AirPods](https://www.wired.com/story/how-to-control-and-turn-off-announce-notifications-with-siri-on-airpods)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
