@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MMOs exploded this year, but not in the ways you&#39;d expect](https://www.pcgamer.com/mmos-exploded-this-year-but-not-in-the-ways-youd-expect)
- - [Zack Zwiezen&#39;s Top 10 Games Of 2021](https://kotaku.com/zack-zwiezens-top-10-games-of-2021-1848267109)
- - [7 games that pushed accessibility forward in 2021](https://www.polygon.com/22852260/2021-most-accessible-video-games-windows-pc-nintendo-switch-playstation-5-xbox-series-x)<!-- GAME:END -->
+ - [I suspect 2021&#39;s gaming laptops might be a little too technologically advanced](https://www.pcgamer.com/i-suspect-2021s-gaming-laptops-might-be-a-little-too-technologically-advanced)
+ - [Everything That Has Happened Since The Activision Blizzard Lawsuit Was Filed](https://kotaku.com/everything-that-has-happened-since-the-activision-blizz-1847401161)
+ - [MMOs exploded this year, but not in the ways you&#39;d expect](https://www.pcgamer.com/mmos-exploded-this-year-but-not-in-the-ways-youd-expect)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
