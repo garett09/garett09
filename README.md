@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solar batteries: How renewable battery backups work     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-batteries-how-renewable-battery-backups-work/#ftag=CAD590a51e)
- - [Apple hires Meta AR comms chief for headset launch](https://appleinsider.com/articles/21/12/26/apple-supposedly-hires-meta-ar-comms-chief-for-own-headset-launch?utm_medium=rss)
- - [Tesla owner blows up Model S instead of footing $22,600 repair bill](https://www.theverge.com/2021/12/26/22853573/tesla-model-s-explosion-repair-bill)<!-- TECH:END -->
+ - [A look at autonomous sidewalk delivery robots serving students across US college campuses, which are an ideal proving ground for the sidewalk delivery concept &lpar;Kyle Stock/Bloomberg&rpar;](http://www.techmeme.com/211226/p4#a211226p4)
+ - [Streaming services are a mess, but JustWatch keeps me sane](https://www.androidauthority.com/streaming-services-justwatch-tv-3078519/)
+ - [How to set up your new iPhone](https://appleinsider.com/articles/21/12/26/how-to-set-up-your-new-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
