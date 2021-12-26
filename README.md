@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is literally how is talking with somebody in favor of affirmative action. Absurd....](http://9gag.com/gag/aog1w1A)
- - 🚯 [Computer room on a Airbus](http://9gag.com/gag/apgp7VW)
- - 🚯 [Oi! You don&amp;#039;t have a license for that! Off you go.](http://9gag.com/gag/aegbELO)<!-- MEMES:END -->
+ - 🚖 [Actor playing as a dwarf is taller than the actor playing as an elf](http://9gag.com/gag/aPZB2gP)
+ - 🚯 [And then your mom gives you the look and says &amp;quot;you could learn a thing or two from him&amp;quot;](http://9gag.com/gag/aE8Y5no)
+ - 🚯 [Mister Wic...eeh Anderson welcome back](http://9gag.com/gag/a91r0oL)<!-- MEMES:END -->
 
 --- 
 
