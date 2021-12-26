@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 Years Ago, Nintendo Had Plans To Bring Email, Internet Searching, And Live Streams To The Game Boy Color](https://kotaku.com/20-years-ago-nintendo-had-plans-to-bring-email-intern-1848272140)
- - [I suspect 2021&#39;s gaming laptops might be a little too technologically advanced](https://www.pcgamer.com/i-suspect-2021s-gaming-laptops-might-be-a-little-too-technologically-advanced)
- - [Everything That Has Happened Since The Activision Blizzard Lawsuit Was Filed](https://kotaku.com/everything-that-has-happened-since-the-activision-blizz-1847401161)<!-- GAME:END -->
+ - [Spider-Man: No Way Home may become one of the 10 biggest movies of all time](https://www.polygon.com/2021/12/26/22854364/spider-man-no-way-box-office-10-biggest-movies-all-time)
+ - [The Week In Games: The Last Week Of 2021](https://kotaku.com/the-week-in-games-the-last-week-of-2021-1848272224)
+ - [20 Years Ago, Nintendo Had Plans To Bring Email, Internet Searching, And Live Streams To The Game Boy Color](https://kotaku.com/20-years-ago-nintendo-had-plans-to-bring-email-intern-1848272140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
