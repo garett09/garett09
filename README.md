@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What dreams are made of](http://9gag.com/gag/aLvDNr5)
- - 🚯 [Christmas 96 - best I&amp;rsquo;ve ever had.](http://9gag.com/gag/a0ZbWmz)
+ - 🚖 [More like all Slavic people](http://9gag.com/gag/aBnWjrD)
+ - 🚯 [F**K YEAAAAH](http://9gag.com/gag/aNPAq3G)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
