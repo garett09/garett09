@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/aBnWMjO)
- - 🚯 [Nowadays boarding a flight seems like you are entering an ICU](http://9gag.com/gag/aog1o3n)
- - 🚯 [That&amp;#039;s some national geographic sh!t](http://9gag.com/gag/aDDW9PN)<!-- MEMES:END -->
+ - 🚖 [This is literally how is talking with somebody in favor of affirmative action. Absurd....](http://9gag.com/gag/aog1w1A)
+ - 🚯 [Computer room on a Airbus](http://9gag.com/gag/apgp7VW)
+ - 🚯 [Oi! You don&amp;#039;t have a license for that! Off you go.](http://9gag.com/gag/aegbELO)<!-- MEMES:END -->
 
 --- 
 
