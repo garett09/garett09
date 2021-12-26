@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More like all Slavic people](http://9gag.com/gag/aBnWjrD)
- - 🚯 [F**K YEAAAAH](http://9gag.com/gag/aNPAq3G)
+ - 🚖 [James Webb Telescope successfully detached the rocket! Now on its way to L2 &lpar;~1 million miles away from Earth&rpar;! Godspeed!](http://9gag.com/gag/angbVwE)
+ - 🚯 [Just me and son this year for Christmas after the wife decided to bail. Mery Christmas you cheeky as*holes. Thanks for the laughs.](http://9gag.com/gag/aqGbBrY)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
