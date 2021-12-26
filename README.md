@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously](http://9gag.com/gag/aGz167Z)
- - 🚯 [Let&amp;#039;s play &amp;#039;Guess the Country&amp;#039;](http://9gag.com/gag/aBnWNYz)
+ - 🚖 [When you marry into a musically talented family \ud83d\ude33](http://9gag.com/gag/aWgmPz4)
+ - 🚯 [Bobby just wanted to live a happy life](http://9gag.com/gag/ay9DmX8)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
