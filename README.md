@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 games that pushed accessibility forward in 2021](https://www.polygon.com/22852260/2021-most-accessible-video-games-windows-pc-nintendo-switch-playstation-5-xbox-series-x)
- - [Great moments in PC gaming: Making your base look nice in Age of Empires](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-base-look-nice-in-age-of-empires)
- - [PC Gamer Hardware Awards: What is the best gaming monitor of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-gaming-monitor-nominees)<!-- GAME:END -->
+ - [MMOs exploded this year, but not in the ways you&#39;d expect](https://www.pcgamer.com/mmos-exploded-this-year-but-not-in-the-ways-youd-expect)
+ - [Zack Zwiezen&#39;s Top 10 Games Of 2021](https://kotaku.com/zack-zwiezens-top-10-games-of-2021-1848267109)
+ - [7 games that pushed accessibility forward in 2021](https://www.polygon.com/22852260/2021-most-accessible-video-games-windows-pc-nintendo-switch-playstation-5-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
