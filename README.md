@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So yeah, I guess we are now. Cheers for that](http://9gag.com/gag/a81y9Kd)
- - 🚯 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)
- - 🚯 [Cause i am from Australia](http://9gag.com/gag/axBV8Zp)<!-- MEMES:END -->
+ - 🚖 [Time to put Mariah in the chamber until next year](http://9gag.com/gag/aGz1q35)
+ - 🚯 [Cause i am from Australia](http://9gag.com/gag/axBV8Zp)
+ - 🚯 [Dance battle in Slavic style](http://9gag.com/gag/aWgmApx)<!-- MEMES:END -->
 
 --- 
 
