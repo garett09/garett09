@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proxymity, a UK-based digital investor communications service for real-time virtual proxy voting and automated shareholder disclosure, raises a &amp;euro;27.5M Series B &lpar;Silicon Canals&rpar;](http://www.techmeme.com/211226/p3#a211226p3)
- - [9 great Android apps for your new 2021 Android device](https://www.theverge.com/22819283/android-best-apps-2021)
- - [Nintendo Switch eShop is back online after experiencing outages on Christmas Day](https://www.theverge.com/2021/12/25/22853759/nintendo-eshop-down-christmas-day)<!-- TECH:END -->
+ - [Tesla owner blows up Model S instead of footing $22,600 repair bill](https://www.theverge.com/2021/12/26/22853573/tesla-model-s-explosion-repair-bill)
+ - [The perfect smartphone does not exist](https://www.androidauthority.com/perfect-phone-3074177/)
+ - [10 great apps for your new 2021 iPhone](https://www.theverge.com/22824153/iphone-best-apps-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
