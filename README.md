@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&amp;rsquo;s the name of this throw right here? - only wrong answers -](http://9gag.com/gag/aDDWqqd)
- - 🚯 [Oi! You don&amp;#039;t have a license for that! Off you go.](http://9gag.com/gag/aegbELO)
- - 🚯 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)<!-- MEMES:END -->
+ - 🚖 [So yeah, I guess we are now. Cheers for that](http://9gag.com/gag/a81y9Kd)
+ - 🚯 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)
+ - 🚯 [Cause i am from Australia](http://9gag.com/gag/axBV8Zp)<!-- MEMES:END -->
 
 --- 
 
