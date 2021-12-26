@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Weekly Authority: 📱 Huawei’s Foldable](https://www.androidauthority.com/newsletters/the-weekly-authority-%f0%9f%93%b1-huaweis-foldable/)
  - [Bridgerton season 2: What you need to know about the steamy Netflix series](https://www.androidauthority.com/bridgerton-season-2-netflix-3078233/)
- - [The best reef-safe sunscreens for 2022     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
- - [Research: Indian startups have raised a record ~$36B in 2021, up from ~$11B in 2020; SoftBank invested $3B+ and Tiger Global was among the most active investors &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/211226/p2#a211226p2)<!-- TECH:END -->
+ - [The best reef-safe sunscreens for 2022     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
