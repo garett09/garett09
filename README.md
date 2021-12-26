@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was chosen for something](http://9gag.com/gag/aAGdLGE)
- - 🚯 [Once you start the force will be with you, always.](http://9gag.com/gag/a51b92N)
+ - 🚖 [Holy shit this was good...](http://9gag.com/gag/ay9DmOy)
+ - 🚯 [The Elevator](http://9gag.com/gag/a21rAdd)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
