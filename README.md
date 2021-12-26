@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And then your mom gives you the look and says &amp;quot;you could learn a thing or two from him&amp;quot;](http://9gag.com/gag/aE8Y5no)
+ - 🚖 [Moo](http://9gag.com/gag/ay9DKeV)
  - 🚯 [After how many hours do you become a Pro?](http://9gag.com/gag/adg7wYQ)
  - 🚯 [This is literally how is talking with somebody in favor of affirmative action. Absurd....](http://9gag.com/gag/aog1w1A)<!-- MEMES:END -->
 
