@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you marry into a musically talented family \ud83d\ude33](http://9gag.com/gag/aWgmPz4)
- - 🚯 [Bobby just wanted to live a happy life](http://9gag.com/gag/ay9DmX8)
+ - 🚖 [Christmas 96 - best I&amp;rsquo;ve ever had.](http://9gag.com/gag/a0ZbWmz)
+ - 🚯 [I want to see it too](http://9gag.com/gag/arnb927)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
