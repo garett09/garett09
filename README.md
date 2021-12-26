@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Garry&#39;s Mod 2 is here, and it&#39;s called Teardown](https://www.pcgamer.com/garrys-mod-2-is-here-and-its-called-teardown)
- - [The modern Metroidvania had a vintage year, but the simplest one is the best](https://www.pcgamer.com/the-modern-metroidvania-had-a-vintage-year-but-the-simplest-one-is-the-best)
- - [PC Gamer Hardware Awards: What is the best gaming laptop of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-gaming-laptop-nominees)<!-- GAME:END -->
+ - [Genshin Impact version 2.4 brings grand celebrations and a mysterious new area to Teyvat](https://blog.playstation.com/2021/12/26/genshin-impact-version-2-4-brings-grand-celebrations-and-a-mysterious-new-area-to-teyvat/)
+ - [It’s the perfect time to catch up on Netflix’s must-watch animated show Hilda](https://www.polygon.com/22839982/hilda-netflix-perfect-time-to-catch-up-animation-mountain-king-must-watch)
+ - [Genshin Impact version 2.4 brings grand celebrations and a mysterious new area to Teyvat](https://blog.playstation.com/2021/12/26/genshin-impact-version-2-4-brings-grand-celebrations-and-a-mysterious-new-area-to-teyvat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
