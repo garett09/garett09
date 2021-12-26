@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)
- - 🚯 [Strobe light at G1C malfunctioned, and made this guy look like he got a star from a Mario level.](http://9gag.com/gag/a31qDPQ)
- - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
+ - 🚖 [Me dying from the flu in January vs me today. Only one lung and leg lost in the journey!](http://9gag.com/gag/aog1GgA)
+ - 🚯 [Holy shit this was good...](http://9gag.com/gag/ay9DmOy)
+ - 🚯 [Something lucid about the sound and the atmosphere](http://9gag.com/gag/a51bAZE)<!-- MEMES:END -->
 
 --- 
 
