@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Design 2021: Loop Hero](https://www.pcgamer.com/best-design-2021-loop-hero)
- - [Innistrad: Crimson Vow has renewed my thirst for turning cards sideways](https://www.pcgamer.com/innistrad-crimson-vow-has-renewed-my-thirst-for-turning-cards-sideways)
- - [Boxing Day 2021 sales in Australia: here are the best PC gaming bargains](https://www.pcgamer.com/boxing-day-2021-sales-in-australia-here-are-the-best-pc-gaming-bargains)<!-- GAME:END -->
+ - [Garry&#39;s Mod 2 is here, and it&#39;s called Teardown](https://www.pcgamer.com/garrys-mod-2-is-here-and-its-called-teardown)
+ - [The modern Metroidvania had a vintage year, but the simplest one is the best](https://www.pcgamer.com/the-modern-metroidvania-had-a-vintage-year-but-the-simplest-one-is-the-best)
+ - [PC Gamer Hardware Awards: What is the best gaming laptop of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-gaming-laptop-nominees)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
