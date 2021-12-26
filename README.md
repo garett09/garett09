@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly hires away Meta’s AR public relations head](https://www.theverge.com/2021/12/26/22854541/apple-hires-meta-ar-communications-headset)
- - [An overview of the efforts by Google, Apple, and Amazon to offer their technology and services for connected cars &lpar;Leah Nylen/Politico&rpar;](http://www.techmeme.com/211226/p5#a211226p5)
- - [Best deals Dec. 26: Camera discounts, $99 WD Black 5TB drive, $15 Netgear Wi-Fi extender, more!](https://appleinsider.com/articles/21/12/26/best-deals-dec-26-camera-discounts-99-wd-black-5tb-drive-15-netgear-wi-fi-extender-more?utm_medium=rss)<!-- TECH:END -->
+ - [Control is free for one day on the Epic Games Store](https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store)
+ - [Best after-Christmas sales from Walmart, Amazon, Best Buy and more     - CNET](https://www.cnet.com/tech/best-after-christmas-sales/#ftag=CAD590a51e)
+ - [Apple reportedly hires away Meta’s AR public relations head](https://www.theverge.com/2021/12/26/22854541/apple-hires-meta-ar-communications-headset)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
