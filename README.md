@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [An oral history of The Matrix video games and their bonkers alternate ending](https://www.polygon.com/features/22849946/enter-the-matrix-video-game-path-of-neo-oral-history-lana-lilly-wachowski)
  - [Genshin Impact version 2.4 brings grand celebrations and a mysterious new area to Teyvat](https://blog.playstation.com/2021/12/26/genshin-impact-version-2-4-brings-grand-celebrations-and-a-mysterious-new-area-to-teyvat/)
- - [It’s the perfect time to catch up on Netflix’s must-watch animated show Hilda](https://www.polygon.com/22839982/hilda-netflix-perfect-time-to-catch-up-animation-mountain-king-must-watch)
- - [Genshin Impact version 2.4 brings grand celebrations and a mysterious new area to Teyvat](https://blog.playstation.com/2021/12/26/genshin-impact-version-2-4-brings-grand-celebrations-and-a-mysterious-new-area-to-teyvat/)<!-- GAME:END -->
+ - [It’s the perfect time to catch up on Netflix’s must-watch animated show Hilda](https://www.polygon.com/22839982/hilda-netflix-perfect-time-to-catch-up-animation-mountain-king-must-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
