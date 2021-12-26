@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to put Mariah in the chamber until next year](http://9gag.com/gag/aGz1q35)
- - 🚯 [Cause i am from Australia](http://9gag.com/gag/axBV8Zp)
- - 🚯 [Dance battle in Slavic style](http://9gag.com/gag/aWgmApx)<!-- MEMES:END -->
+ - 🚖 [F*ck](http://9gag.com/gag/aBnWz1z)
+ - 🚯 [Dance battle in Slavic style](http://9gag.com/gag/aWgmApx)
+ - 🚯 [Time to put Mariah in the chamber until next year](http://9gag.com/gag/aGz1q35)<!-- MEMES:END -->
 
 --- 
 
