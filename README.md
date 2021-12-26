@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy shit this was good...](http://9gag.com/gag/ay9DmOy)
- - 🚯 [The Elevator](http://9gag.com/gag/a21rAdd)
+ - 🚖 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)
+ - 🚯 [Strobe light at G1C malfunctioned, and made this guy look like he got a star from a Mario level.](http://9gag.com/gag/a31qDPQ)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
