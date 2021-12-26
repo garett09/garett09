@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F*ck](http://9gag.com/gag/aBnWz1z)
- - 🚯 [Dance battle in Slavic style](http://9gag.com/gag/aWgmApx)
- - 🚯 [Time to put Mariah in the chamber until next year](http://9gag.com/gag/aGz1q35)<!-- MEMES:END -->
+ - 🚖 [Sorry](http://9gag.com/gag/aM487YM)
+ - 🚯 [F*ck](http://9gag.com/gag/aBnWz1z)
+ - 🚯 [Stephen Fry on God&amp;hellip;](http://9gag.com/gag/ay9DAPr)<!-- MEMES:END -->
 
 --- 
 
