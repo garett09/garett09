@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sorry](http://9gag.com/gag/aM487YM)
- - 🚯 [F*ck](http://9gag.com/gag/aBnWz1z)
- - 🚯 [Stephen Fry on God&amp;hellip;](http://9gag.com/gag/ay9DAPr)<!-- MEMES:END -->
+ - 🚖 [Computer room on a Airbus](http://9gag.com/gag/apgp7VW)
+ - 🚯 [Stephen Fry on God&amp;hellip;](http://9gag.com/gag/ay9DAPr)
+ - 🚯 [Nowadays boarding a flight seems like you are entering an ICU](http://9gag.com/gag/aog1o3n)<!-- MEMES:END -->
 
 --- 
 
