@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m proud of this community](http://9gag.com/gag/amgYOqo)
- - 🚯 [What dreams are made of](http://9gag.com/gag/aLvDNr5)
+ - 🚖 [Seriously](http://9gag.com/gag/aGz167Z)
+ - 🚯 [Let&amp;#039;s play &amp;#039;Guess the Country&amp;#039;](http://9gag.com/gag/aBnWNYz)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
