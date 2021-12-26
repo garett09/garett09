@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [The Weekly Authority: 📱 Huawei’s Foldable](https://www.androidauthority.com/newsletters/the-weekly-authority-%f0%9f%93%b1-huaweis-foldable/)
- - [Bridgerton season 2: What you need to know about the steamy Netflix series](https://www.androidauthority.com/bridgerton-season-2-netflix-3078233/)
- - [The best reef-safe sunscreens for 2022     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best sports drinks for 2022     - CNET](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
+ - [Bridgerton season 2: What you need to know about the steamy Netflix series](https://www.androidauthority.com/bridgerton-season-2-netflix-3078233/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
