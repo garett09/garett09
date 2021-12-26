@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget devices for building a starter smart home](https://www.androidauthority.com/budget-smart-home-3076323/)
- - [The Algorithm That Lets Particle Physicists Count Higher Than 2](https://www.wired.com/story/the-algorithm-that-lets-particle-physicists-count-higher-than-2)
- - [How to Stop Those Annoying Siri Notifications on AirPods](https://www.wired.com/story/how-to-control-and-turn-off-announce-notifications-with-siri-on-airpods)<!-- TECH:END -->
+ - [Proxymity, a UK-based digital investor communications service for real-time virtual proxy voting and automated shareholder disclosure, raises a &amp;euro;27.5M Series B &lpar;Silicon Canals&rpar;](http://www.techmeme.com/211226/p3#a211226p3)
+ - [9 great Android apps for your new 2021 Android device](https://www.theverge.com/22819283/android-best-apps-2021)
+ - [Nintendo Switch eShop is back online after experiencing outages on Christmas Day](https://www.theverge.com/2021/12/25/22853759/nintendo-eshop-down-christmas-day)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
