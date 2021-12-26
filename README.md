@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me dying from the flu in January vs me today. Only one lung and leg lost in the journey!](http://9gag.com/gag/aog1GgA)
- - 🚯 [Holy shit this was good...](http://9gag.com/gag/ay9DmOy)
- - 🚯 [Something lucid about the sound and the atmosphere](http://9gag.com/gag/a51bAZE)<!-- MEMES:END -->
+ - 🚖 [What&amp;rsquo;s the name of this throw right here? - only wrong answers -](http://9gag.com/gag/aDDWqqd)
+ - 🚯 [Oi! You don&amp;#039;t have a license for that! Off you go.](http://9gag.com/gag/aegbELO)
+ - 🚯 [To all the Europeans on 9gag, is this true?](http://9gag.com/gag/aM486xW)<!-- MEMES:END -->
 
 --- 
 
