@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [James Webb Telescope successfully detached the rocket! Now on its way to L2 &lpar;~1 million miles away from Earth&rpar;! Godspeed!](http://9gag.com/gag/angbVwE)
- - 🚯 [Just me and son this year for Christmas after the wife decided to bail. Mery Christmas you cheeky as*holes. Thanks for the laughs.](http://9gag.com/gag/aqGbBrY)
+ - 🚖 [I&amp;#039;m proud of this community](http://9gag.com/gag/amgYOqo)
+ - 🚯 [What dreams are made of](http://9gag.com/gag/aLvDNr5)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
