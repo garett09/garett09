@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 📱 Huawei’s Foldable](https://www.androidauthority.com/newsletters/the-weekly-authority-%f0%9f%93%b1-huaweis-foldable/)
- - [Best sports drinks for 2022     - CNET](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [Bridgerton season 2: What you need to know about the steamy Netflix series](https://www.androidauthority.com/bridgerton-season-2-netflix-3078233/)<!-- TECH:END -->
+ - [How to Return and Exchange Your Unwanted Gifts or Purchases](https://www.wired.com/story/how-to-return-or-exchange-gifts)
+ - [The Morbid War Over Online Obituaries](https://www.wired.com/story/morbid-war-online-obituaries)
+ - [The Best Indie Games You May Have Missed in 2021](https://www.wired.com/story/best-indie-games-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
