@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Control is free for one day on the Epic Games Store](https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store)
- - [Best after-Christmas sales from Walmart, Amazon, Best Buy and more     - CNET](https://www.cnet.com/tech/best-after-christmas-sales/#ftag=CAD590a51e)
- - [Apple reportedly hires away Meta’s AR public relations head](https://www.theverge.com/2021/12/26/22854541/apple-hires-meta-ar-communications-headset)<!-- TECH:END -->
+ - [Amazon&#39;s best year-end Apple deals: $299 iPad, AirPods sale, $339 Apple Watch 7](https://appleinsider.com/articles/21/12/26/amazons-best-year-end-apple-deals-299-ipad-airpods-sale-339-apple-watch-7?utm_medium=rss)
+ - [The best silk pillowcases for 2022     - CNET](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)
+ - [Control is free for one day on the Epic Games Store](https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
