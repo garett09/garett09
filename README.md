@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas 96 - best I&amp;rsquo;ve ever had.](http://9gag.com/gag/a0ZbWmz)
- - 🚯 [I want to see it too](http://9gag.com/gag/arnb927)
+ - 🚖 [He was chosen for something](http://9gag.com/gag/aAGdLGE)
+ - 🚯 [Once you start the force will be with you, always.](http://9gag.com/gag/a51b92N)
  - 🚯 [Smart kids know the game.](http://9gag.com/gag/aze8K7q)<!-- MEMES:END -->
 
 --- 
