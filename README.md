@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese app stores had 2.78M total apps by October, down from 4.52M at the end of 2018, a 38.5% drop amid the government&#39;s new data laws and clean-up campaigns &lpar;Jane Zhang/South China Morning Post&rpar;](http://www.techmeme.com/211225/p4#a211225p4)
  - [Year-end Apple deals: 2021 MacBook Pro sale, MacBook Air $200 off, Mac mini $150 off, more](https://appleinsider.com/articles/21/12/25/year-end-apple-deals-2021-macbook-pro-sale-macbook-air-200-off-mac-mini-150-off-more?utm_medium=rss)
- - [Nintendo Switch eShop is down for some on Christmas Day](https://www.theverge.com/2021/12/25/22853759/nintendo-eshop-down-christmas-day)
- - [First things to do with your new Android phone](https://www.androidauthority.com/first-things-new-android-phone-setup-631133/)<!-- TECH:END -->
+ - [Nintendo Switch eShop is down for some on Christmas Day](https://www.theverge.com/2021/12/25/22853759/nintendo-eshop-down-christmas-day)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
