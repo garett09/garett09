@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a new phone? Here’s how to switch like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
- - [Best direct-to-consumer cookware for 2022: Made In, Caraway, Field Company and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-direct-to-consumer-cookware/#ftag=CAD590a51e)
- - [New trailers: The Northman, Super Pumped: The Battle for Uber, The Silent Sea, and more](https://www.theverge.com/2021/12/26/22849892/new-trailers-northman-super-pumped-silent-sea-doctor-strange-marvel-disney-netflix)<!-- TECH:END -->
+ - [An overview of the efforts by Google, Apple, and Amazon to offer their technology and services for connected cars &lpar;Leah Nylen/Politico&rpar;](http://www.techmeme.com/211226/p5#a211226p5)
+ - [Best deals Dec. 26: Camera discounts, $99 WD Black 5TB drive, $15 Netgear Wi-Fi extender, more!](https://appleinsider.com/articles/21/12/26/best-deals-dec-26-camera-discounts-99-wd-black-5tb-drive-15-netgear-wi-fi-extender-more?utm_medium=rss)
+ - [Year in review: The best podcasts launched in 2021](https://www.androidauthority.com/best-new-podcasts-3079258/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
