@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: Indian startups have raised a record ~$36B in 2021, up from ~$11B in 2020; SoftBank invested $3B+ and Tiger Global was among the most active investors &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/211226/p2#a211226p2)
  - [Berlin-based Pliant, which offers digital corporate credit card management and accounting software, raises a &amp;euro;18M seed led by Alstin Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/211226/p1#a211226p1)
- - [Chinese app stores had 2.78M total apps by October, down from 4.52M at the end of 2018, a 38.5% drop amid the government&#39;s new data laws and clean-up campaigns &lpar;Jane Zhang/South China Morning Post&rpar;](http://www.techmeme.com/211225/p4#a211225p4)
- - [Year-end Apple deals: 2021 MacBook Pro sale, MacBook Air $200 off, Mac mini $150 off, more](https://appleinsider.com/articles/21/12/25/year-end-apple-deals-2021-macbook-pro-sale-macbook-air-200-off-mac-mini-150-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese app stores had 2.78M total apps by October, down from 4.52M at the end of 2018, a 38.5% drop amid the government&#39;s new data laws and clean-up campaigns &lpar;Jane Zhang/South China Morning Post&rpar;](http://www.techmeme.com/211225/p4#a211225p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
