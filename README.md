@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best year-end Apple deals: $299 iPad, AirPods sale, $339 Apple Watch 7](https://appleinsider.com/articles/21/12/26/amazons-best-year-end-apple-deals-299-ipad-airpods-sale-339-apple-watch-7?utm_medium=rss)
- - [The best silk pillowcases for 2022     - CNET](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)
- - [Control is free for one day on the Epic Games Store](https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store)<!-- TECH:END -->
+ - [OpenDAO airdrops SOS token for users of OpenSea&#39;s NFT marketplace; the token, unaffiliated with OpenSea, is up ~10x in two days as watchers debate its prospects &lpar;Robert Stevens/Decrypt&rpar;](http://www.techmeme.com/211226/p6#a211226p6)
+ - [8 garden box subscriptions and seed delivery services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
+ - [Best gaming TV: Low input lag and high picture quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
