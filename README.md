@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: nearly 340 startups have privately raised money at $1B+ valuations this year, more than 3x the total from last year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211227/p6#a211227p6)
- - [What Are Aspect Ratios and Why Do They Matter?](https://www.wired.com/story/aspect-ratios-explainer)
- - [In 2021, Gaming Was Crucial and Also a Privilege](https://www.wired.com/story/video-games-mental-health-disparity)<!-- TECH:END -->
+ - [PenPad Review: The perfect accessory for iPad artists who use Procreate](https://appleinsider.com/articles/21/12/27/penpad-review-the-perfect-accessory-for-ipad-artists-who-use-procreate?utm_medium=rss)
+ - [5 things we want to see from smartphones in 2022](https://www.androidauthority.com/smartphones-2022-3077172/)
+ - [Best deals Dec. 27: $169 Beats Powerbeats Pro, $60 4TB hard drive, Lego Boba Fett Helmet, more!](https://appleinsider.com/articles/21/12/27/best-deals-dec-27-169-beats-powerbeats-pro-60-4tb-hard-drive-lego-boba-fett-helmet-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
