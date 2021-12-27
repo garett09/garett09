@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A 1995 Interview with Princess Diana on her opinion on being Queen](http://9gag.com/gag/aNPANn6)
- - 🚯 [How much we accomplished in just 66 years](http://9gag.com/gag/aDDWEzK)
- - 🚯 [Ha Ha - Loser](http://9gag.com/gag/aNPA7xb)<!-- MEMES:END -->
+ - 🚖 [H is for Hammer](http://9gag.com/gag/aqGb0vv)
+ - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)
+ - 🚯 [Netflix adaptation](http://9gag.com/gag/aDDWE7B)<!-- MEMES:END -->
 
 --- 
 
