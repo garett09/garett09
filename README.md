@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Delayed By Almost Six Months Due To Covid-19](https://kotaku.com/final-fantasy-xvi-delayed-by-almost-six-months-due-to-c-1848272903)
- - [Cobra Kai season 4 review: A spectacular bad guy brings a surprising rebirth](https://www.polygon.com/reviews/22852071/cobra-kai-season-4-review-karate-kid-netflix-thomas-ian-griffith)
- - [Spider-Man: No Way Home may become one of the 10 biggest movies of all time](https://www.polygon.com/2021/12/26/22854364/spider-man-no-way-box-office-10-biggest-movies-all-time)<!-- GAME:END -->
+ - [2021 showed there&#39;s a fine line between remaster and disaster](https://www.pcgamer.com/2021-showed-theres-a-fine-line-between-remaster-and-disaster)
+ - [Despite all the rage, I still managed to enjoy Battlefield 2042 this year](https://www.pcgamer.com/despite-all-the-rage-i-still-managed-to-enjoy-battlefield-2042-this-year)
+ - [PC gaming in 2021: The hardware highlights and lowlights](https://www.pcgamer.com/hardware-highlights-and-lowlights-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
