@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better than medicine](http://9gag.com/gag/angbLe0)
- - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)
- - 🚯 [After watching the New Matrix, i remembered the scene from Jay and Silent Bob which sums it up perfectly](http://9gag.com/gag/angbmrB)<!-- MEMES:END -->
+ - 🚖 [A 1995 Interview with Princess Diana on her opinion on being Queen](http://9gag.com/gag/aNPANn6)
+ - 🚯 [How much we accomplished in just 66 years](http://9gag.com/gag/aDDWEzK)
+ - 🚯 [Ha Ha - Loser](http://9gag.com/gag/aNPA7xb)<!-- MEMES:END -->
 
 --- 
 
