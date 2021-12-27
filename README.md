@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cobra Kai season 4 review: A spectacular bad guy brings a surprising rebirth](https://www.polygon.com/reviews/22852071/cobra-kai-season-4-review-karate-kid-netflix-thomas-ian-griffith)
  - [Spider-Man: No Way Home may become one of the 10 biggest movies of all time](https://www.polygon.com/2021/12/26/22854364/spider-man-no-way-box-office-10-biggest-movies-all-time)
- - [The Week In Games: The Last Week Of 2021](https://kotaku.com/the-week-in-games-the-last-week-of-2021-1848272224)
- - [20 Years Ago, Nintendo Had Plans To Bring Email, Internet Searching, And Live Streams To The Game Boy Color](https://kotaku.com/20-years-ago-nintendo-had-plans-to-bring-email-intern-1848272140)<!-- GAME:END -->
+ - [The Week In Games: The Last Week Of 2021](https://kotaku.com/the-week-in-games-the-last-week-of-2021-1848272224)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
