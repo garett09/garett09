@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Choose your path](http://9gag.com/gag/aAGdo4g)
- - 🚯 [The biggest lie: under capitalism your talent and hard work can make you become anything](http://9gag.com/gag/a71rze2)
- - 🚯 [Always protect your Cat](http://9gag.com/gag/aGz13xn)<!-- MEMES:END -->
+ - 🚖 [Better than medicine](http://9gag.com/gag/angbLe0)
+ - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
+ - 🚯 [Clip from original Witcher Polish series, 2002](http://9gag.com/gag/aDDWyQO)<!-- MEMES:END -->
 
 --- 
 
