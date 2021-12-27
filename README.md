@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California is suing Walmart over alleged improper disposal of e-waste and other hazardous materials](https://www.theverge.com/2021/12/27/22852544/walmart-lawsuit-hazardous-ewaste-california)
+ - [Most VC-backed startups who merged with SPACs to IPO in 2021 have seen their stock slump, with Metromile, View, Owlet, Clover Health among the worst performers &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/211227/p10#a211227p10)
  - [Annke C800 IP Camera Review: Simple 4K security with alerts on your iPhone](https://appleinsider.com/articles/21/12/27/annke-c800-ip-camera-review-simple-4k-security-with-alerts-on-your-iphone?utm_medium=rss)
- - [Save $12 on comfy pair of Baby Yoda slippers     - CNET](https://www.cnet.com/news/save-12-on-comfy-pair-of-baby-yoda-slippers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up your new Apple Watch](https://appleinsider.com/articles/21/12/27/how-to-set-up-your-new-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
