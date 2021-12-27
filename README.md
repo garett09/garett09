@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Didi bans current and former employees from selling shares indefinitely; Didi has lost ~60%, or ~$38B, in market value since its New York IPO in June &lpar;Financial Times&rpar;](http://www.techmeme.com/211227/p3#a211227p3)
- - [True wireless earbuds are everywhere, but I’m not convinced yet](https://www.androidauthority.com/true-wireless-earbuds-charging-3069650/)
- - [How to Set Up Your New Android Phone](https://www.wired.com/story/how-to-set-up-your-new-android-phone)<!-- TECH:END -->
+ - [PitchBook: nearly 340 startups have privately raised money at $1B+ valuations this year, more than 3x the total from last year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211227/p6#a211227p6)
+ - [What Are Aspect Ratios and Why Do They Matter?](https://www.wired.com/story/aspect-ratios-explainer)
+ - [In 2021, Gaming Was Crucial and Also a Privilege](https://www.wired.com/story/video-games-mental-health-disparity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
