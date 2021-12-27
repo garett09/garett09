@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Violated like Jeffrey Epstein](http://9gag.com/gag/aKmVMr6)
- - 🚯 [The difference between how a Shepherd approaches a situation compared to how a Mal approaches a situation.](http://9gag.com/gag/aegb83Q)
- - 🚯 [Not gonna lie, that&amp;#039;s cool AF](http://9gag.com/gag/a91rgyj)<!-- MEMES:END -->
+ - 🚖 [Not gonna lie, that&amp;#039;s cool AF](http://9gag.com/gag/a91rgyj)
+ - 🚯 [When you try to be tough.](http://9gag.com/gag/aGz1Q37)
+ - 🚯 [Be different :&rpar;](http://9gag.com/gag/aqGboej)<!-- MEMES:END -->
 
 --- 
 
