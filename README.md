@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubious &#39;iPhone 15&#39; SIM tray removal rumor given weight by leakers](https://appleinsider.com/articles/21/12/27/dubious-iphone-15-sim-tray-removal-rumor-given-weight-by-leakers?utm_medium=rss)
- - [How to set up your new Apple Watch](https://appleinsider.com/articles/21/12/27/how-to-set-up-your-new-apple-watch?utm_medium=rss)
- - [Last call for these stellar TV deals: Save up to $3,500 on Samsung The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)<!-- TECH:END -->
+ - [Annke C800 IP Camera Review: Simple 4K security with alerts on your iPhone](https://appleinsider.com/articles/21/12/27/annke-c800-ip-camera-review-simple-4k-security-with-alerts-on-your-iphone?utm_medium=rss)
+ - [A look at increasing competition in the call center tools market between Genesys, AWS, Salesforce, Microsoft, and others, often focused on AI-driven automation &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/211227/p11#a211227p11)
+ - [Last chance: Chewy&#39;s Disney BOGO deal has toys and accessories from Star Wars, Marvel and more     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-forget-your-pet-chewys-disney-bogo-deal-has-toys-and-accessories-from-star-wars-marvel-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
