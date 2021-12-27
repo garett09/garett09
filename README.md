@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This week Ms. Marvel got stranded in the Bollywood dimension](https://www.polygon.com/2021/12/27/22852222/ms-marvel-comics-multiverse)
- - [Here are the best selling Steam games of 2021](https://www.polygon.com/22855533/best-steam-games-2021-pc-top-selling-most-played)
- - [Atlanta season 3’s new trailer sends the gang to Europe](https://www.polygon.com/22855579/atlanta-show-season-3-release-date-trailer)<!-- GAME:END -->
+ - [Disney’s Encanto isn’t just about representation — it’s an act of defiance](https://www.polygon.com/22851932/encanto-disney-latine-colombia-in-movies)
+ - [Catwoman and the Riddler are the stars of The Batman’s newest trailer](https://www.polygon.com/22855696/the-batman-trailer-release-date-riddler-catwoman)
+ - [This week Ms. Marvel got stranded in the Bollywood dimension](https://www.polygon.com/2021/12/27/22852222/ms-marvel-comics-multiverse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
