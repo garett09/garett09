@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s true tho](http://9gag.com/gag/aog1wrx)
- - 🚯 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)
- - 🚯 [Moo](http://9gag.com/gag/ay9DKeV)<!-- MEMES:END -->
+ - 🚖 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)
+ - 🚯 [Mister Wic...eeh Anderson welcome back](http://9gag.com/gag/a91r0oL)
+ - 🚯 [The difference between how a Shepherd approaches a situation compared to how a Mal approaches a situation.](http://9gag.com/gag/aegb83Q)<!-- MEMES:END -->
 
 --- 
 
