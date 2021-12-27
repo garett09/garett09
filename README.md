@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s March 2021 in review: HomePod dropped, iMac Pro ditched, and OS X celebrated](https://appleinsider.com/articles/21/04/03/homepod-dropped-imac-pro-ditched-and-os-x-celebrated----march-2021-in-review?utm_medium=rss)
- - [What is Decentralized Finance &lpar;DeFi&rpar;? Here’s everything you need to know](https://www.androidauthority.com/what-is-defi-2738626/)
- - [The best cars we drove in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-cars-trucks-suvs-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If AI Is Predicting Your Future, Are You Still Free?](https://www.wired.com/story/algorithmic-prophecies-undermine-free-will)
+ - [The Year Everyone Remembered That Chips Matter](https://www.wired.com/story/year-everyone-remembered-chips-matter)
+ - [How to Set Up Your New iPhone](https://www.wired.com/story/how-to-set-up-a-new-iphone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
