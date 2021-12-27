@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PenPad Review: The perfect accessory for iPad artists who use Procreate](https://appleinsider.com/articles/21/12/27/penpad-review-the-perfect-accessory-for-ipad-artists-who-use-procreate?utm_medium=rss)
- - [5 things we want to see from smartphones in 2022](https://www.androidauthority.com/smartphones-2022-3077172/)
- - [Best deals Dec. 27: $169 Beats Powerbeats Pro, $60 4TB hard drive, Lego Boba Fett Helmet, more!](https://appleinsider.com/articles/21/12/27/best-deals-dec-27-169-beats-powerbeats-pro-60-4tb-hard-drive-lego-boba-fett-helmet-more?utm_medium=rss)<!-- TECH:END -->
+ - [XPG imagines a gaming mouse that can also store 1TB of games](https://www.theverge.com/2021/12/27/22855409/xpg-the-vault-gaming-mouse-1-tb-ssd-portable-games-libray-lan-party)
+ - [Profile of Gloo, which compiles profiles on Americans and is used by 30K+ US churches, or 10% of all in the US, to target ad campaigns at people facing a crisis &lpar;Khadeeja Safdar/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p8#a211227p8)
+ - [Spyware scandal rocks Polish government](https://www.theverge.com/2021/12/27/22855390/poland-pegasus-spyware-opposition-brejza-nso)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
