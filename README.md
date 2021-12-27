@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s Encanto isn’t just about representation — it’s an act of defiance](https://www.polygon.com/22851932/encanto-disney-latine-colombia-in-movies)
- - [Catwoman and the Riddler are the stars of The Batman’s newest trailer](https://www.polygon.com/22855696/the-batman-trailer-release-date-riddler-catwoman)
- - [This week Ms. Marvel got stranded in the Bollywood dimension](https://www.polygon.com/2021/12/27/22852222/ms-marvel-comics-multiverse)<!-- GAME:END -->
+ - [Despite Everything, Cyberpunk 2077 Was A Steam Top Seller &amp; Most-Played Title In 2021](https://kotaku.com/despite-everything-cyberpunk-2077-was-a-steam-top-sell-1848274351)
+ - [How Aardman Animation fought a pandemic to make Shaun the Sheep’s Christmas special fly](https://www.polygon.com/22855733/shaun-the-sheep-christmas-special-netflix)
+ - [PC Gamer Hardware Awards: What is the best CPU of 2021?](https://www.pcgamer.com/pcgamer-hardware-awards-best-cpu-2021-nominees)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
