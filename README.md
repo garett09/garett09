@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ilon Mask&amp;#039;s first &lpar;unsuccesful&rpar; attempt to launch his car to the space. Circa 2018, colorized](http://9gag.com/gag/a41bX1Q)
- - 🚯 [Johnna Deder and Winny Rypp](http://9gag.com/gag/aAGd8ZL)
- - 🚯 [I imagine that I would react in the same way](http://9gag.com/gag/a81yRdp)<!-- MEMES:END -->
+ - 🚖 [Johnna Deder and Winny Rypp](http://9gag.com/gag/aAGd8ZL)
+ - 🚯 [Pizza Bender](http://9gag.com/gag/a91rxP0)
+ - 🚯 [Quality content](http://9gag.com/gag/aggLD2W)<!-- MEMES:END -->
 
 --- 
 
