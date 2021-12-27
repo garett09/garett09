@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact update 2.4 goes underwater next week](https://www.polygon.com/22855434/genshin-impact-update-2-4-release-date-new-characters)
- - [The Witcher aired its best ever episode in season 2](https://www.polygon.com/22850907/the-witcher-best-episode)
- - [The games you forgot released in 2021](https://www.pcgamer.com/the-games-you-forgot-released-in-2021)<!-- GAME:END -->
+ - [Hitman 3 brought out the worst in me this year, and I love it](https://www.pcgamer.com/hitman-3-brought-out-the-worst-in-me-this-year-and-i-love-it)
+ - [PC Gamer Hardware Awards: What is the best graphics card of 2021?](https://www.pcgamer.com/pcgamer-hardware-awards-2021-graphics-card-nominees)
+ - [Genshin Impact update 2.4 goes underwater next week](https://www.polygon.com/22855434/genshin-impact-update-2-4-release-date-new-characters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
