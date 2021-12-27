@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [XPG imagines a gaming mouse that can also store 1TB of games](https://www.theverge.com/2021/12/27/22855409/xpg-the-vault-gaming-mouse-1-tb-ssd-portable-games-libray-lan-party)
- - [Profile of Gloo, which compiles profiles on Americans and is used by 30K+ US churches, or 10% of all in the US, to target ad campaigns at people facing a crisis &lpar;Khadeeja Safdar/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p8#a211227p8)
- - [Spyware scandal rocks Polish government](https://www.theverge.com/2021/12/27/22855390/poland-pegasus-spyware-opposition-brejza-nso)<!-- TECH:END -->
+ - [California is suing Walmart over alleged improper disposal of e-waste and other hazardous materials](https://www.theverge.com/2021/12/27/22852544/walmart-lawsuit-hazardous-ewaste-california)
+ - [Annke C800 IP Camera Review: Simple 4K security with alerts on your iPhone](https://appleinsider.com/articles/21/12/27/annke-c800-ip-camera-review-simple-4k-security-with-alerts-on-your-iphone?utm_medium=rss)
+ - [Save $12 on comfy pair of Baby Yoda slippers     - CNET](https://www.cnet.com/news/save-12-on-comfy-pair-of-baby-yoda-slippers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
