@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 16 development delayed ‘almost half a year’ due to COVID-19](https://www.polygon.com/22855417/final-fantasy-xvi-release-date-ff16-update-delayed-naoki-yoshida)
- - [2021&#39;s biggest game launches and why people were mad about them](https://www.pcgamer.com/2021-game-launch-complaints)
- - [Our favorite memes of 2021](https://www.polygon.com/22837589/best-memes-2021)<!-- GAME:END -->
+ - [Genshin Impact update 2.4 goes underwater next week](https://www.polygon.com/22855434/genshin-impact-update-2-4-release-date-new-characters)
+ - [The Witcher aired its best ever episode in season 2](https://www.polygon.com/22850907/the-witcher-best-episode)
+ - [The games you forgot released in 2021](https://www.pcgamer.com/the-games-you-forgot-released-in-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
