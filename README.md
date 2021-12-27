@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
- - 🚯 [The nature of our work makes it very difficult to trace back who made a mistake, so I make these little sacrifices to ensure I will stay afloat when I truly mess up](http://9gag.com/gag/arnbj3X)
- - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)<!-- MEMES:END -->
+ - 🚖 [Choose your path](http://9gag.com/gag/aAGdo4g)
+ - 🚯 [Polish women dressed like the winged hussars in a national festival](http://9gag.com/gag/a0ZbBzq)
+ - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)<!-- MEMES:END -->
 
 --- 
 
