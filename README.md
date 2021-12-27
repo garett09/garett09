@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you have 2 eye surgeries in one day, and your best friend is a bird, you have to take a pirate](http://9gag.com/gag/aOQzMGy)
- - 🚯 [Program for the new year evening](http://9gag.com/gag/aggLWX1)
- - 🚯 [Quality content](http://9gag.com/gag/aggLD2W)<!-- MEMES:END -->
+ - 🚖 [Better than medicine](http://9gag.com/gag/angbLe0)
+ - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)
+ - 🚯 [After watching the New Matrix, i remembered the scene from Jay and Silent Bob which sums it up perfectly](http://9gag.com/gag/angbmrB)<!-- MEMES:END -->
 
 --- 
 
