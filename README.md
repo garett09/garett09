@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If The Matrix was really GOTY in 1999, here’s what it beat](https://www.polygon.com/22855572/the-matrix-resurrections-video-game-awards-statue-scene-keanu-reeves)
  - [Despite Everything, Cyberpunk 2077 Was A Steam Top Seller &amp; Most-Played Title In 2021](https://kotaku.com/despite-everything-cyberpunk-2077-was-a-steam-top-sell-1848274351)
- - [How Aardman Animation fought a pandemic to make Shaun the Sheep’s Christmas special fly](https://www.polygon.com/22855733/shaun-the-sheep-christmas-special-netflix)
- - [PC Gamer Hardware Awards: What is the best CPU of 2021?](https://www.pcgamer.com/pcgamer-hardware-awards-best-cpu-2021-nominees)<!-- GAME:END -->
+ - [How Aardman Animation fought a pandemic to make Shaun the Sheep’s Christmas special fly](https://www.polygon.com/22855733/shaun-the-sheep-christmas-special-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
