@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s double-folding phone design detailed yet again in new patent](https://www.androidauthority.com/samsung-double-folding-phone-design-3080020/)
  - [Best prepared meal delivery services for 2022     - CNET](https://www.cnet.com/health/nutrition/best-prepared-meal-delivery-service/#ftag=CAD590a51e)
- - [While unable to meet analog chip demand, Texas Instruments hesitates to expand production capacity because of the industry&#39;s history of boom and bust cycles &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/211226/p7#a211226p7)
- - [Best travel credit cards for January 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [While unable to meet analog chip demand, Texas Instruments hesitates to expand production capacity because of the industry&#39;s history of boom and bust cycles &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/211226/p7#a211226p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
