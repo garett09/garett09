@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not gonna lie, that&amp;#039;s cool AF](http://9gag.com/gag/a91rgyj)
- - 🚯 [When you try to be tough.](http://9gag.com/gag/aGz1Q37)
- - 🚯 [Be different :&rpar;](http://9gag.com/gag/aqGboej)<!-- MEMES:END -->
+ - 🚖 [In Istanbul because of the strict winter, street dogs were allowed to enter the malls, cover, and put food for them. This shows that humanity is still good.](http://9gag.com/gag/arnb7OV)
+ - 🚯 [Being pulled over](http://9gag.com/gag/ajgXzL0)
+ - 🚯 [Ilon Mask&amp;#039;s first &lpar;unsuccesful&rpar; attempt to launch his car to the space. Circa 2018, colorized](http://9gag.com/gag/a41bX1Q)<!-- MEMES:END -->
 
 --- 
 
