@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite memes of 2021](https://www.polygon.com/22837589/best-memes-2021)
- - [2021 showed there&#39;s a fine line between remaster and disaster](https://www.pcgamer.com/2021-showed-theres-a-fine-line-between-remaster-and-disaster)
- - [Despite all the rage, I still managed to enjoy Battlefield 2042 this year](https://www.pcgamer.com/despite-all-the-rage-i-still-managed-to-enjoy-battlefield-2042-this-year)<!-- GAME:END -->
+ - [Final Fantasy 16 development delayed ‘almost half a year’ due to COVID-19](https://www.polygon.com/22855417/final-fantasy-xvi-release-date-ff16-update-delayed-naoki-yoshida)
+ - [2021&#39;s biggest game launches and why people were mad about them](https://www.pcgamer.com/2021-game-launch-complaints)
+ - [Our favorite memes of 2021](https://www.polygon.com/22837589/best-memes-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
