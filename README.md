@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&amp;rsquo;s a life achievement](http://9gag.com/gag/a41bXb6)
+ - 🚖 [Now we know why zeus had a lot of love affairs down on earth](http://9gag.com/gag/aGz14M7)
  - 🚯 [What&amp;#039;s the name of this fruit...](http://9gag.com/gag/a21r31e)
- - 🚯 [Now we know why zeus had a lot of love affairs down on earth](http://9gag.com/gag/aGz14M7)<!-- MEMES:END -->
+ - 🚯 [Ilon Mask&amp;#039;s first &lpar;unsuccesful&rpar; attempt to launch his car to the space. Circa 2018, colorized](http://9gag.com/gag/a41bX1Q)<!-- MEMES:END -->
 
 --- 
 
