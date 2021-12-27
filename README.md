@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenDAO airdrops SOS token for users of OpenSea&#39;s NFT marketplace; the token, unaffiliated with OpenSea, is up ~10x in two days as watchers debate its prospects &lpar;Robert Stevens/Decrypt&rpar;](http://www.techmeme.com/211226/p6#a211226p6)
- - [8 garden box subscriptions and seed delivery services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
- - [Best gaming TV: Low input lag and high picture quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG Display shows off a versatile lineup of transparent OLED screens at CES 2022](https://www.theverge.com/2021/12/26/22854293/lg-display-oled-shelf-show-smart-window-transparent)
+ - [Best car plastic restorer: Chemical Guys, Meguiar&#39;s and more compared     - Roadshow](https://www.cnet.com/roadshow/news/best-car-plastic-restorer-chemical-guys-meguiars-compared/#ftag=CAD590a51e)
+ - [Best car drying towel for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-car-drying-towel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
