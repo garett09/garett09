@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favorite memes of 2021](https://www.polygon.com/22837589/best-memes-2021)
  - [2021 showed there&#39;s a fine line between remaster and disaster](https://www.pcgamer.com/2021-showed-theres-a-fine-line-between-remaster-and-disaster)
- - [Despite all the rage, I still managed to enjoy Battlefield 2042 this year](https://www.pcgamer.com/despite-all-the-rage-i-still-managed-to-enjoy-battlefield-2042-this-year)
- - [PC gaming in 2021: The hardware highlights and lowlights](https://www.pcgamer.com/hardware-highlights-and-lowlights-2021)<!-- GAME:END -->
+ - [Despite all the rage, I still managed to enjoy Battlefield 2042 this year](https://www.pcgamer.com/despite-all-the-rage-i-still-managed-to-enjoy-battlefield-2042-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
