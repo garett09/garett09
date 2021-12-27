@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Johnna Deder and Winny Rypp](http://9gag.com/gag/aAGd8ZL)
- - 🚯 [Pizza Bender](http://9gag.com/gag/a91rxP0)
- - 🚯 [Quality content](http://9gag.com/gag/aggLD2W)<!-- MEMES:END -->
+ - 🚯 [Quality content](http://9gag.com/gag/aggLD2W)
+ - 🚯 [When you have 2 eye surgeries in one day, and your best friend is a bird, you have to take a pirate](http://9gag.com/gag/aOQzMGy)<!-- MEMES:END -->
 
 --- 
 
