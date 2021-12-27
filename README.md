@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Inside China&#39;s Logink, an expansive digital network for tracking global sea cargo that experts fear could give Beijing a commercial or strategic advantage &lpar;Daniel Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p1#a211227p1)
- - [You told us: Truly terrible camera phones are tough to find nowadays](https://www.androidauthority.com/smartphone-photos-poll-results-3080036/)
- - [Samsung’s double-folding phone design detailed yet again in new patent](https://www.androidauthority.com/samsung-double-folding-phone-design-3080020/)<!-- TECH:END -->
+ - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [You told us: Truly terrible camera phones are tough to find nowadays](https://www.androidauthority.com/smartphone-photos-poll-results-3080036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
