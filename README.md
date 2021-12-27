@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better than medicine](http://9gag.com/gag/angbLe0)
- - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
- - 🚯 [Clip from original Witcher Polish series, 2002](http://9gag.com/gag/aDDWyQO)<!-- MEMES:END -->
+ - 🚖 [Clip from original Witcher Polish series, 2002](http://9gag.com/gag/aDDWyQO)
+ - 🚯 [Even smaug got to start in Marvel](http://9gag.com/gag/a11bG42)
+ - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)<!-- MEMES:END -->
 
 --- 
 
