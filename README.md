@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside China&#39;s Logink, an expansive digital network for tracking global sea cargo that experts fear could give Beijing a commercial or strategic advantage &lpar;Daniel Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p1#a211227p1)
- - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [You told us: Truly terrible camera phones are tough to find nowadays](https://www.androidauthority.com/smartphone-photos-poll-results-3080036/)<!-- TECH:END -->
+ - [Apple&#39;s March 2021 in review: HomePod dropped, iMac Pro ditched, and OS X celebrated](https://appleinsider.com/articles/21/04/03/homepod-dropped-imac-pro-ditched-and-os-x-celebrated----march-2021-in-review?utm_medium=rss)
+ - [What is Decentralized Finance &lpar;DeFi&rpar;? Here’s everything you need to know](https://www.androidauthority.com/what-is-defi-2738626/)
+ - [The best cars we drove in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-cars-trucks-suvs-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
