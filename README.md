@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [H is for Hammer](http://9gag.com/gag/aqGb0vv)
- - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)
- - 🚯 [Netflix adaptation](http://9gag.com/gag/aDDWE7B)<!-- MEMES:END -->
+ - 🚖 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
+ - 🚯 [The nature of our work makes it very difficult to trace back who made a mistake, so I make these little sacrifices to ensure I will stay afloat when I truly mess up](http://9gag.com/gag/arnbj3X)
+ - 🚯 [Parkour](http://9gag.com/gag/avAGNMn)<!-- MEMES:END -->
 
 --- 
 
