@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/a81yg16)
- - 🚯 [CCTV footage in Jakarta, Indonesia has captured a security guard who luckily survived a direct hit by lightning, according to local media.](http://9gag.com/gag/aDDWvw9)
- - 🚯 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)<!-- MEMES:END -->
+ - 🚖 [Be different :&rpar;](http://9gag.com/gag/aqGboej)
+ - 🚯 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)
+ - 🚯 [It&amp;#039;s true tho](http://9gag.com/gag/aog1wrx)<!-- MEMES:END -->
 
 --- 
 
