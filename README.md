@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)
- - 🚯 [Mister Wic...eeh Anderson welcome back](http://9gag.com/gag/a91r0oL)
- - 🚯 [The difference between how a Shepherd approaches a situation compared to how a Mal approaches a situation.](http://9gag.com/gag/aegb83Q)<!-- MEMES:END -->
+ - 🚖 [Violated like Jeffrey Epstein](http://9gag.com/gag/aKmVMr6)
+ - 🚯 [The difference between how a Shepherd approaches a situation compared to how a Mal approaches a situation.](http://9gag.com/gag/aegb83Q)
+ - 🚯 [Not gonna lie, that&amp;#039;s cool AF](http://9gag.com/gag/a91rgyj)<!-- MEMES:END -->
 
 --- 
 
