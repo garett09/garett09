@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Istanbul because of the strict winter, street dogs were allowed to enter the malls, cover, and put food for them. This shows that humanity is still good.](http://9gag.com/gag/arnb7OV)
- - 🚯 [Being pulled over](http://9gag.com/gag/ajgXzL0)
- - 🚯 [Ilon Mask&amp;#039;s first &lpar;unsuccesful&rpar; attempt to launch his car to the space. Circa 2018, colorized](http://9gag.com/gag/a41bX1Q)<!-- MEMES:END -->
+ - 🚖 [That&amp;rsquo;s a life achievement](http://9gag.com/gag/a41bXb6)
+ - 🚯 [What&amp;#039;s the name of this fruit...](http://9gag.com/gag/a21r31e)
+ - 🚯 [Now we know why zeus had a lot of love affairs down on earth](http://9gag.com/gag/aGz14M7)<!-- MEMES:END -->
 
 --- 
 
