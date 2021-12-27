@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 brought out the worst in me this year, and I love it](https://www.pcgamer.com/hitman-3-brought-out-the-worst-in-me-this-year-and-i-love-it)
- - [PC Gamer Hardware Awards: What is the best graphics card of 2021?](https://www.pcgamer.com/pcgamer-hardware-awards-2021-graphics-card-nominees)
- - [Genshin Impact update 2.4 goes underwater next week](https://www.polygon.com/22855434/genshin-impact-update-2-4-release-date-new-characters)<!-- GAME:END -->
+ - [This week Ms. Marvel got stranded in the Bollywood dimension](https://www.polygon.com/2021/12/27/22852222/ms-marvel-comics-multiverse)
+ - [Here are the best selling Steam games of 2021](https://www.polygon.com/22855533/best-steam-games-2021-pc-top-selling-most-played)
+ - [Atlanta season 3’s new trailer sends the gang to Europe](https://www.polygon.com/22855579/atlanta-show-season-3-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
