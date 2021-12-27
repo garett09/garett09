@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CCTV footage in Jakarta, Indonesia has captured a security guard who luckily survived a direct hit by lightning, according to local media.](http://9gag.com/gag/aDDWvw9)
- - 🚯 [000000](http://9gag.com/gag/aegbwb5)
- - 🚯 [The first picture taken by the Webb telescope was just released](http://9gag.com/gag/aggLwA6)<!-- MEMES:END -->
+ - 🚖 [Just a reminder #14](http://9gag.com/gag/aBnWeOA)
+ - 🚯 [These little spawns of Evil](http://9gag.com/gag/aPZB2Pw)
+ - 🚯 [True](http://9gag.com/gag/a81yg16)<!-- MEMES:END -->
 
 --- 
 
