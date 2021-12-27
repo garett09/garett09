@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores across NYC are only open if you’re picking up an online order](https://www.theverge.com/2021/12/27/22856059/apple-store-new-york-city-online-order-only)
- - [The Best After-Christmas Sales to Burn That Holiday Cash](https://www.wired.com/story/best-after-christmas-sales-and-deals-2021)
- - [Democrats, eager to rein in social media and other internet platforms, urge Biden to focus on tech regulation, before Republicans can retake the House or Senate &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p12#a211227p12)<!-- TECH:END -->
+ - [COVID-19 patients only need to isolate for five days as long as symptoms are gone, CDC says](https://www.theverge.com/2021/12/27/22856114/cdc-covid-isolation-guidelines-shortened-omicron)
+ - [All of Apple&#39;s retail stores in New York City have closed to foot traffic](https://appleinsider.com/articles/21/12/27/all-of-apples-retail-stores-in-new-york-city-have-closed-to-foot-traffic?utm_medium=rss)
+ - [The best home exercise equipment to buy in 2022     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
