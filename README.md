@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Annke C800 IP Camera Review: Simple 4K security with alerts on your iPhone](https://appleinsider.com/articles/21/12/27/annke-c800-ip-camera-review-simple-4k-security-with-alerts-on-your-iphone?utm_medium=rss)
- - [A look at increasing competition in the call center tools market between Genesys, AWS, Salesforce, Microsoft, and others, often focused on AI-driven automation &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/211227/p11#a211227p11)
- - [Last chance: Chewy&#39;s Disney BOGO deal has toys and accessories from Star Wars, Marvel and more     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-forget-your-pet-chewys-disney-bogo-deal-has-toys-and-accessories-from-star-wars-marvel-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Stores across NYC are only open if you’re picking up an online order](https://www.theverge.com/2021/12/27/22856059/apple-store-new-york-city-online-order-only)
+ - [The Best After-Christmas Sales to Burn That Holiday Cash](https://www.wired.com/story/best-after-christmas-sales-and-deals-2021)
+ - [Democrats, eager to rein in social media and other internet platforms, urge Biden to focus on tech regulation, before Republicans can retake the House or Senate &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/211227/p12#a211227p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
