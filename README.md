@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be different :&rpar;](http://9gag.com/gag/aqGboej)
+ - 🚖 [It&amp;#039;s true tho](http://9gag.com/gag/aog1wrx)
  - 🚯 [-Me: thinking of watching Matrix resurrections. -Keanu in the poster:](http://9gag.com/gag/aAGd90L)
- - 🚯 [It&amp;#039;s true tho](http://9gag.com/gag/aog1wrx)<!-- MEMES:END -->
+ - 🚯 [Moo](http://9gag.com/gag/ay9DKeV)<!-- MEMES:END -->
 
 --- 
 
