@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Choose your path](http://9gag.com/gag/aAGdo4g)
- - 🚯 [Polish women dressed like the winged hussars in a national festival](http://9gag.com/gag/a0ZbBzq)
- - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)<!-- MEMES:END -->
+ - 🚯 [The biggest lie: under capitalism your talent and hard work can make you become anything](http://9gag.com/gag/a71rze2)
+ - 🚯 [Always protect your Cat](http://9gag.com/gag/aGz13xn)<!-- MEMES:END -->
 
 --- 
 
