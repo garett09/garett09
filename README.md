@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Display shows off a versatile lineup of transparent OLED screens at CES 2022](https://www.theverge.com/2021/12/26/22854293/lg-display-oled-shelf-show-smart-window-transparent)
- - [Best car plastic restorer: Chemical Guys, Meguiar&#39;s and more compared     - Roadshow](https://www.cnet.com/roadshow/news/best-car-plastic-restorer-chemical-guys-meguiars-compared/#ftag=CAD590a51e)
- - [Best car drying towel for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-car-drying-towel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [While unable to meet analog chip demand, Texas Instruments hesitates to expand production capacity because of the industry&#39;s history of boom and bust cycles &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/211226/p7#a211226p7)
+ - [Best travel credit cards for January 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)
+ - [LG Display shows off a versatile lineup of transparent OLED screens at CES 2022](https://www.theverge.com/2021/12/26/22854293/lg-display-oled-shelf-show-smart-window-transparent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
