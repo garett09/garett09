@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most VC-backed startups who merged with SPACs to IPO in 2021 have seen their stock slump, with Metromile, View, Owlet, Clover Health among the worst performers &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/211227/p10#a211227p10)
- - [Annke C800 IP Camera Review: Simple 4K security with alerts on your iPhone](https://appleinsider.com/articles/21/12/27/annke-c800-ip-camera-review-simple-4k-security-with-alerts-on-your-iphone?utm_medium=rss)
- - [How to set up your new Apple Watch](https://appleinsider.com/articles/21/12/27/how-to-set-up-your-new-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Motorola will try foldable phones again with a third-generation Razr](https://www.theverge.com/2021/12/27/22855629/motorola-razr-folding-phone-third-generation-processor-interface-appearance)
+ - [Meowza! New The Batman trailer features Batman-Catwoman fight     - CNET](https://www.cnet.com/news/meowza-new-the-batman-trailer-features-batman-catwoman-fight/#ftag=CAD590a51e)
+ - [Zoom bets bigger on virtual events with latest acquisition     - CNET](https://www.cnet.com/tech/services-and-software/zoom-bets-bigger-on-virtual-events-with-latest-acquisition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
