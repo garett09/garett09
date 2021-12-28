@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sexually assaulting this girl in public](http://9gag.com/gag/aegbXK5)
+ - 🚖 [Always protect your Cat](http://9gag.com/gag/aGz13xn)
  - 🚯 [I loved this time!](http://9gag.com/gag/aegboBO)
- - 🚯 [Always protect your Cat](http://9gag.com/gag/aGz13xn)<!-- MEMES:END -->
+ - 🚯 [What&amp;#039;s your dog name...?](http://9gag.com/gag/axBVpvM)<!-- MEMES:END -->
 
 --- 
 
