@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s 400-mile electric vehicles delayed to 2023](https://www.theverge.com/2021/12/28/22857344/rivian-r1t-max-battery-pack-delay-2023-electric-truck-manufacturing-amazon)
- - [Alexa told a child to do potentially lethal ‘challenge’](https://www.theverge.com/2021/12/28/22856832/amazon-alexa-challenge-child-dangerous-electricity-algorithm)
- - [Get the LG 65-inch 4K UHD Smart 80 TV for just $697, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
+ - [Get the Galaxy Watch 4 Classic for just $299.99, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [CES 2022 in-person exhibitor list continues to shrink as AMD and MSI drop out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [B&amp;H&#39;s year-end Mega Deal Zone ends soon: Save up to 69% on monitors, storage, drones, more](https://appleinsider.com/articles/21/12/28/bhs-year-end-mega-deal-zone-ends-soon-save-up-to-69-on-monitors-storage-drones-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
