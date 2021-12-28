@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: What is the best motherboard of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-gaming-motherboard-nominees)
- - [The best TV shows of 2021](https://www.polygon.com/22816269/best-shows-2021)
- - [With the best mods of 2021, who needs a new game?](https://www.polygon.com/22857004/best-pc-mods-2021-moddb-half-life-doom)<!-- GAME:END -->
+ - [Genshin Impact&#39;s first 2022 update brings back Lantern Festival, adds abyssal Enkanomiya](https://www.pcgamer.com/genshin-impacts-first-2022-update-brings-back-lantern-festival-adds-abyssal-enkanomiya)
+ - [Pokémon Go Spotlight Hour: Is Cubchoo shiny?](https://www.polygon.com/pokemon-go/22857306/pokemon-go-spotlight-hour-cubchoo-shiny)
+ - [How Halo Infinite Used A Semi-Open World To Deliver On The Promise Of Halo](https://kotaku.com/how-halo-infinite-used-a-kinda-open-world-to-deliver-on-1848277571)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
