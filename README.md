@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xbox Series X is available at Best Buy right now &lpar;update: sold out&rpar;](https://www.theverge.com/2021/12/28/22857179/microsoft-xbox-series-x-console-restock-availability-check)
- - [Sources: Apple issued rare bonuses of restricted stock worth $50K-$180K to select engineers, after Meta poached ~100 Apple engineers over the past few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211228/p10#a211228p10)
- - [Oppo Find X4 Pro &lpar;or X5 Pro, maybe&rpar; renders leak with weird camera bump](https://www.androidauthority.com/oppo-find-x5-pro-3080648/)<!-- TECH:END -->
+ - [How to set up your new Apple Watch](https://appleinsider.com/articles/21/12/27/how-to-set-up-your-new-apple-watch?utm_medium=rss)
+ - [Best apps for reading PDF files on your iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-reading-pdf-files-on-your-ipad?utm_medium=rss)
+ - [Apple offering engineers $180,000 bonuses to prevent poaching](https://appleinsider.com/articles/21/12/28/apple-offering-180000-bonuses-to-engineers-to-prevent-poaching?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
