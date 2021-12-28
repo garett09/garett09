@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He brought a new friend home with him](http://9gag.com/gag/aqG142Y)
- - 🚯 [This hidden corner shelf](http://9gag.com/gag/ajgX2jG)
+ - 🚖 [Great anime](http://9gag.com/gag/aDDzRj7)
+ - 🚯 [Looney Tunes is a gem](http://9gag.com/gag/aPZ96nG)
  - 🚯 [Julius Caesar was black!](http://9gag.com/gag/aAGdnn0)<!-- MEMES:END -->
 
 --- 
