@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-Tumblr iOS engineer details the company&#39;s difficulties with App Store adult content policies, as communication among reviewers, devs, and Apple is discordant &lpar;sreegs&rpar;](http://www.techmeme.com/211227/p15#a211227p15)
  - [Year-end price drop: AirPods Max dip to $445 &lpar;$105 off&rpar;](https://appleinsider.com/articles/21/12/28/year-end-price-drop-airpods-max-dip-to-445-105-off?utm_medium=rss)
- - [A TikTok moderator sues the company for an unsafe workplace that gave her PTSD; her lawyer says TikTok stopped her from working a day after the suit was filed &lpar;Kieran Press-Reynolds/Insider&rpar;](http://www.techmeme.com/211227/p14#a211227p14)
- - [Exploring the concept of mirrortables, where a company&#39;s cap table is mirrored on-chain with Ethereum and ENS or other Web3 tools, to streamline angel investing &lpar;Balaji Srinivasan&rpar;](http://www.techmeme.com/211227/p13#a211227p13)<!-- TECH:END -->
+ - [Electric bike holiday gift guide     - Roadshow](https://www.cnet.com/roadshow/news/electric-bike-holiday-gift-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
