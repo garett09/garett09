@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clip from original Witcher Polish series, 2002](http://9gag.com/gag/aDDWyQO)
- - 🚯 [Even smaug got to start in Marvel](http://9gag.com/gag/a11bG42)
- - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)<!-- MEMES:END -->
+ - 🚖 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
+ - 🚯 [The nature of our work makes it very difficult to trace back who made a mistake, so I make these little sacrifices to ensure I will stay afloat when I truly mess up](http://9gag.com/gag/arnbj3X)
+ - 🚯 [I loved this time!](http://9gag.com/gag/aegboBO)<!-- MEMES:END -->
 
 --- 
 
