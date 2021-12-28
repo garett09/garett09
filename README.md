@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LastPass master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)
- - [The PS5 is available right now at Best Buy](https://www.theverge.com/2021/12/28/22848656/ps5-holiday-restock-best-buy-playstation-5-console)
- - [Apple Maps team gifted posters &amp; pins for new Maps experience](https://appleinsider.com/articles/21/12/28/apple-maps-team-gifted-posters-pins-for-new-maps-experience?utm_medium=rss)<!-- TECH:END -->
+ - [What to do first with your new Mac](https://appleinsider.com/articles/21/12/28/what-to-do-first-with-your-new-mac?utm_medium=rss)
+ - [130-year-old time capsule found in base of statue of Confederate general](https://techncruncher.blogspot.com/2021/12/130-year-old-time-capsule-found-in-base.html)
+ - [5 things we want to see from wearables in 2022](https://www.androidauthority.com/smartwatches-fitness-trackers-wearables-2022-3075486/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
