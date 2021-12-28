@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung One UI 4 rollout paused to fix Google Play bugs &lpar;Update: Resumed&rpar;](https://www.androidauthority.com/samsung-one-ui-4-android-12-rollout-paused-3079377/)
- - [Mummy of pharaoh gets digitally &#39;unwrapped&#39; after 3,000 years     - CNET](https://www.cnet.com/news/mummy-of-pharaoh-gets-digitally-unwrapped-after-3000-years/#ftag=CAD590a51e)
- - [Riot Games agrees to pay $100M to settle a 2018 class-action gender discrimination lawsuit with current and former women employees and California state agencies &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211227/p18#a211227p18)<!-- TECH:END -->
+ - [Microsoft could add more hinges, screens to its future foldables](https://www.androidauthority.com/microsoft-double-folding-device-3080259/)
+ - [Year-end Apple deals: 2021 MacBook Pro sale, MacBook Air $200 off, Mac mini $150 off, more](https://appleinsider.com/articles/21/12/25/year-end-apple-deals-2021-macbook-pro-sale-macbook-air-200-off-mac-mini-150-off-more?utm_medium=rss)
+ - [Mummy of beloved pharaoh digitally &#39;unwrapped&#39; after 3,000 years     - CNET](https://www.cnet.com/news/mummy-of-beloved-pharaoh-digitally-unwrapped-after-3000-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
