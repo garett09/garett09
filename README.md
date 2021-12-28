@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Squid Game Creator In Talks With Netflix For Season 3](https://kotaku.com/squid-game-creator-in-talks-with-netflix-for-season-3-1848275381)
  - [Best Open World 2021: Forza Horizon 5](https://www.pcgamer.com/best-open-world-game-forza-horizon-5)
- - [Welcome to your new PC gaming obsession: artisan keycaps](https://www.pcgamer.com/artisan-keycaps-obsession)
- - [Development on Final Fantasy 16 is almost six months behind](https://www.pcgamer.com/development-on-final-fantasy-16-is-almost-six-months-behind)<!-- GAME:END -->
+ - [Welcome to your new PC gaming obsession: artisan keycaps](https://www.pcgamer.com/artisan-keycaps-obsession)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
