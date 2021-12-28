@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Desklab Ultralight Portable 4K Monitor review: Bright and convenient display for Mac &amp; iPad](https://appleinsider.com/articles/21/12/28/desklab-ultralight-portable-4k-monitor-review-bright-and-convenient-second-screen?utm_medium=rss)
- - [The App Store&#39;s most popular iOS app on Christmas was Oculus, a promising sign for Meta, which does not disclose how many VR headsets it sells &lpar;Steve Kovach/CNBC&rpar;](http://www.techmeme.com/211228/p8#a211228p8)
- - [Riot Games will pay $100 million to settle discrimination lawsuit](https://www.theverge.com/2021/12/28/22856743/riot-games-settlement-gender-discrimination-lawsuit-dfeh)<!-- TECH:END -->
+ - [LastPass master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)
+ - [The PS5 is available right now at Best Buy](https://www.theverge.com/2021/12/28/22848656/ps5-holiday-restock-best-buy-playstation-5-console)
+ - [Apple Maps team gifted posters &amp; pins for new Maps experience](https://appleinsider.com/articles/21/12/28/apple-maps-team-gifted-posters-pins-for-new-maps-experience?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
