@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up your new Apple Watch](https://appleinsider.com/articles/21/12/27/how-to-set-up-your-new-apple-watch?utm_medium=rss)
- - [Best apps for reading PDF files on your iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-reading-pdf-files-on-your-ipad?utm_medium=rss)
- - [Apple offering engineers $180,000 bonuses to prevent poaching](https://appleinsider.com/articles/21/12/28/apple-offering-180000-bonuses-to-engineers-to-prevent-poaching?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian’s 400-mile electric vehicles delayed to 2023](https://www.theverge.com/2021/12/28/22857344/rivian-r1t-max-battery-pack-delay-2023-electric-truck-manufacturing-amazon)
+ - [Alexa told a child to do potentially lethal ‘challenge’](https://www.theverge.com/2021/12/28/22856832/amazon-alexa-challenge-child-dangerous-electricity-algorithm)
+ - [Get the LG 65-inch 4K UHD Smart 80 TV for just $697, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
