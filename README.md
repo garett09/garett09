@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have a nice day!](http://9gag.com/gag/aXrq85d)
- - 🚯 [&amp;quot;On April 1, a traditional festive match &amp;quot;Blondes against Brunettes&amp;quot; took place in the Carlson restaurant in Moscow. As a result - the blond chess players won with a score of 48.5-32.5&amp;quot;](http://9gag.com/gag/adg9yWV)
+ - 🚖 [What&amp;#039;s your dog name...?](http://9gag.com/gag/axBVpvM)
+ - 🚯 [Advise for bath mental health](http://9gag.com/gag/aVxMjG8)
  - 🚯 [Romania bad #2](http://9gag.com/gag/amg2qnX)<!-- MEMES:END -->
 
 --- 
