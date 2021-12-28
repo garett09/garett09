@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riot Games agrees to pay $100M to settle a 2018 class-action gender discrimination lawsuit with current and former women employees and California state agencies &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211227/p18#a211227p18)
- - [Indian neobank Jupiter raises a $86M Series C at a $711M valuation, up from ~$300M in August, as it prepares to launch lending and wealth management services &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211227/p17#a211227p17)
- - [Paradox, which makes Olivia, a conversational AI assistant for recruiting tasks like candidate screening, raises a $200M Series C at a $1.5B valuation &lpar;Andy Blye/Phoenix Business Journal&rpar;](http://www.techmeme.com/211227/p16#a211227p16)<!-- TECH:END -->
+ - [Samsung One UI 4 rollout paused to fix Google Play bugs &lpar;Update: Resumed&rpar;](https://www.androidauthority.com/samsung-one-ui-4-android-12-rollout-paused-3079377/)
+ - [Mummy of pharaoh gets digitally &#39;unwrapped&#39; after 3,000 years     - CNET](https://www.cnet.com/news/mummy-of-pharaoh-gets-digitally-unwrapped-after-3000-years/#ftag=CAD590a51e)
+ - [Riot Games agrees to pay $100M to settle a 2018 class-action gender discrimination lawsuit with current and former women employees and California state agencies &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211227/p18#a211227p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
