@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks A LOT of joy](http://9gag.com/gag/a31qV83)
- - 🚯 [The nature of our work makes it very difficult to trace back who made a mistake, so I make these little sacrifices to ensure I will stay afloat when I truly mess up](http://9gag.com/gag/arnbj3X)
- - 🚯 [I loved this time!](http://9gag.com/gag/aegboBO)<!-- MEMES:END -->
+ - 🚖 [Sexually assaulting this girl in public](http://9gag.com/gag/aegbXK5)
+ - 🚯 [I loved this time!](http://9gag.com/gag/aegboBO)
+ - 🚯 [Always protect your Cat](http://9gag.com/gag/aGz13xn)<!-- MEMES:END -->
 
 --- 
 
