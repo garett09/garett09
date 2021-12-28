@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great anime](http://9gag.com/gag/aDDzRj7)
- - 🚯 [Looney Tunes is a gem](http://9gag.com/gag/aPZ96nG)
- - 🚯 [Julius Caesar was black!](http://9gag.com/gag/aAGdnn0)<!-- MEMES:END -->
+ - 🚖 [Have a nice day!](http://9gag.com/gag/aXrq85d)
+ - 🚯 [&amp;quot;On April 1, a traditional festive match &amp;quot;Blondes against Brunettes&amp;quot; took place in the Carlson restaurant in Moscow. As a result - the blond chess players won with a score of 48.5-32.5&amp;quot;](http://9gag.com/gag/adg9yWV)
+ - 🚯 [Romania bad #2](http://9gag.com/gag/amg2qnX)<!-- MEMES:END -->
 
 --- 
 
