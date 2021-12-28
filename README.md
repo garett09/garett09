@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always protect your Cat](http://9gag.com/gag/aGz13xn)
- - 🚯 [I loved this time!](http://9gag.com/gag/aegboBO)
- - 🚯 [What&amp;#039;s your dog name...?](http://9gag.com/gag/axBVpvM)<!-- MEMES:END -->
+ - 🚖 [I loved this time!](http://9gag.com/gag/aegboBO)
+ - 🚯 [DEALING WITH AN IMPATIENT PHONE SCAMMER](http://9gag.com/gag/a91rQZo)
+ - 🚯 [&amp;quot;Drifters convension, is it here?&amp;quot;](http://9gag.com/gag/a81yPqZ)<!-- MEMES:END -->
 
 --- 
 
