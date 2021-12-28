@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Development on Final Fantasy 16 is almost six months behind](https://www.pcgamer.com/development-on-final-fantasy-16-is-almost-six-months-behind)
  - [Best of Steam 2021 shows off a few surprise top sellers and most played](https://www.pcgamer.com/best-of-steam-2021-shows-off-a-few-surprise-top-sellers-and-most-played)
- - [If The Matrix was really GOTY in 1999, here’s what it beat](https://www.polygon.com/22855572/the-matrix-resurrections-video-game-awards-statue-scene-keanu-reeves)
- - [Despite Everything, Cyberpunk 2077 Was A Steam Top Seller &amp; Most-Played Title In 2021](https://kotaku.com/despite-everything-cyberpunk-2077-was-a-steam-top-sell-1848274351)<!-- GAME:END -->
+ - [If The Matrix was really GOTY in 1999, here’s what it beat](https://www.polygon.com/22855572/the-matrix-resurrections-video-game-awards-statue-scene-keanu-reeves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
