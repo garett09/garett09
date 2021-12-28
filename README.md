@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hope he has a loicense.](http://9gag.com/gag/aBn89zz)
- - 🚯 [Romania bad #2](http://9gag.com/gag/amg2qnX)
- - 🚯 [Never slap a c0ck to hard](http://9gag.com/gag/ajgNQOx)<!-- MEMES:END -->
+ - 🚖 [Never slap a c0ck to hard](http://9gag.com/gag/ajgNQOx)
+ - 🚯 [Looney Tunes is a gem](http://9gag.com/gag/aPZ96nG)
+ - 🚯 [9GAG NFT Giveaway: The architect of your own world\ud83e\uddd1\ud83c\udffd\ud83d\udd27\ud83c\udf0d - Sponsored by Asus](http://9gag.com/gag/aM4A2qV)<!-- MEMES:END -->
 
 --- 
 
