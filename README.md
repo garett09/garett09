@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin in 2021: a mainstream breakout, crossing $67,000 in November, large price fluctuations, over 75% of its supply held by illiquid addresses, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/211228/p7#a211228p7)
- - [LastPass master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)
- - [What does last seen mean on WhatsApp and how to hide it](https://www.androidauthority.com/last-seen-whatsapp-3078865/)<!-- TECH:END -->
+ - [Desklab Ultralight Portable 4K Monitor review: Bright and convenient display for Mac &amp; iPad](https://appleinsider.com/articles/21/12/28/desklab-ultralight-portable-4k-monitor-review-bright-and-convenient-second-screen?utm_medium=rss)
+ - [The App Store&#39;s most popular iOS app on Christmas was Oculus, a promising sign for Meta, which does not disclose how many VR headsets it sells &lpar;Steve Kovach/CNBC&rpar;](http://www.techmeme.com/211228/p8#a211228p8)
+ - [Riot Games will pay $100 million to settle discrimination lawsuit](https://www.theverge.com/2021/12/28/22856743/riot-games-settlement-gender-discrimination-lawsuit-dfeh)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
