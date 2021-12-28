@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to activate and use Google Chat](https://www.theverge.com/22533079/google-chat-rooms-gmail-how-to)
- - [China complains to UN after maneuvering its space station away from SpaceX Starlink satellites](https://www.theverge.com/2021/12/28/22857035/china-spacex-starlink-tianhe-space-station-satellites-collisions)
- - [Apple reopens some NYC stores to ‘limited’ walk-in services](https://www.theverge.com/2021/12/27/22856059/apple-store-new-york-city-online-order-only)<!-- TECH:END -->
+ - [The Xbox Series X is available at Best Buy right now &lpar;update: sold out&rpar;](https://www.theverge.com/2021/12/28/22857179/microsoft-xbox-series-x-console-restock-availability-check)
+ - [Sources: Apple issued rare bonuses of restricted stock worth $50K-$180K to select engineers, after Meta poached ~100 Apple engineers over the past few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211228/p10#a211228p10)
+ - [Oppo Find X4 Pro &lpar;or X5 Pro, maybe&rpar; renders leak with weird camera bump](https://www.androidauthority.com/oppo-find-x5-pro-3080648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
