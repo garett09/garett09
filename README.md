@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Riot Games agrees to pay $100M to settle a 2018 class-action gender discrimination lawsuit with current and former women employees and California state agencies &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211227/p18#a211227p18)
  - [Indian neobank Jupiter raises a $86M Series C at a $711M valuation, up from ~$300M in August, as it prepares to launch lending and wealth management services &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211227/p17#a211227p17)
- - [Paradox, which makes Olivia, a conversational AI assistant for recruiting tasks like candidate screening, raises a $200M Series C at a $1.5B valuation &lpar;Andy Blye/Phoenix Business Journal&rpar;](http://www.techmeme.com/211227/p16#a211227p16)
- - [Apple celebrating Year of the Tiger in Japan with special edition AirTag &amp; Beats Studio Buds](https://appleinsider.com/articles/21/12/28/apple-celebrating-year-of-the-tiger-in-japan-with-special-edition-airtag-beats-studio-buds-in-japan?utm_medium=rss)<!-- TECH:END -->
+ - [Paradox, which makes Olivia, a conversational AI assistant for recruiting tasks like candidate screening, raises a $200M Series C at a $1.5B valuation &lpar;Andy Blye/Phoenix Business Journal&rpar;](http://www.techmeme.com/211227/p16#a211227p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
