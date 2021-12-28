@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop AirPods automatically switching between devices](https://appleinsider.com/articles/20/12/03/how-to-stop-airpods-automatically-switching-between-devices?utm_medium=rss)
- - [Surprise! The Pandemic Has Made People More Science Literate](https://www.wired.com/story/surprise-the-pandemic-has-made-people-more-science-literate)
- - [Predicting Death Could Change the Value of a Life](https://www.wired.com/story/predicting-death-value-life)<!-- TECH:END -->
+ - [Elon Musk criticised on Chinese social media over risk of &#39;collision&#39; between Starlink satellites and space station](https://techncruncher.blogspot.com/2021/12/elon-musk-criticised-on-chinese-social.html)
+ - [Where are the 2TB microSD cards?](https://www.androidauthority.com/where-are-2tb-microsd-cards-3077526/)
+ - [4 Online Resources to Help LGBTQ Youth Find Support](https://www.wired.com/story/4-online-resources-lgbtq-youth-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
