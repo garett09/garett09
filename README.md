@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrating Year of the Tiger in Japan with special edition AirTag &amp; Beats Studio Buds](https://appleinsider.com/articles/21/12/28/apple-celebrating-year-of-the-tiger-in-japan-with-special-edition-airtag-beats-studio-buds-in-japan?utm_medium=rss)
- - [Ex-Tumblr iOS engineer details the company&#39;s difficulties with App Store adult content policies, as communication among reviewers, devs, and Apple is discordant &lpar;sreegs&rpar;](http://www.techmeme.com/211227/p15#a211227p15)
- - [Year-end price drop: AirPods Max dip to $445 &lpar;$105 off&rpar;](https://appleinsider.com/articles/21/12/28/year-end-price-drop-airpods-max-dip-to-445-105-off?utm_medium=rss)<!-- TECH:END -->
+ - [Indian neobank Jupiter raises a $86M Series C at a $711M valuation, up from ~$300M in August, as it prepares to launch lending and wealth management services &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211227/p17#a211227p17)
+ - [Paradox, which makes Olivia, a conversational AI assistant for recruiting tasks like candidate screening, raises a $200M Series C at a $1.5B valuation &lpar;Andy Blye/Phoenix Business Journal&rpar;](http://www.techmeme.com/211227/p16#a211227p16)
+ - [Apple celebrating Year of the Tiger in Japan with special edition AirTag &amp; Beats Studio Buds](https://appleinsider.com/articles/21/12/28/apple-celebrating-year-of-the-tiger-in-japan-with-special-edition-airtag-beats-studio-buds-in-japan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
