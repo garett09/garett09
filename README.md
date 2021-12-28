@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do first with your new Mac](https://appleinsider.com/articles/21/12/28/what-to-do-first-with-your-new-mac?utm_medium=rss)
- - [130-year-old time capsule found in base of statue of Confederate general](https://techncruncher.blogspot.com/2021/12/130-year-old-time-capsule-found-in-base.html)
- - [5 things we want to see from wearables in 2022](https://www.androidauthority.com/smartwatches-fitness-trackers-wearables-2022-3075486/)<!-- TECH:END -->
+ - [How to activate and use Google Chat](https://www.theverge.com/22533079/google-chat-rooms-gmail-how-to)
+ - [China complains to UN after maneuvering its space station away from SpaceX Starlink satellites](https://www.theverge.com/2021/12/28/22857035/china-spacex-starlink-tianhe-space-station-satellites-collisions)
+ - [Apple reopens some NYC stores to ‘limited’ walk-in services](https://www.theverge.com/2021/12/27/22856059/apple-store-new-york-city-online-order-only)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
