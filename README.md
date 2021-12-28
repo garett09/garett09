@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Nord 2 finally gains December patch with camera, Bluetooth fixes](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
  - [Analysis: Tiger Global, SoftBank, and Insight Partners led or co-led rounds totaling $73B in 2021, representing 12% of all venture and PE invested in startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/211228/p1#a211228p1)
- - [Microsoft could add more hinges, screens to its future foldables](https://www.androidauthority.com/microsoft-double-folding-device-3080259/)
- - [Year-end Apple deals: 2021 MacBook Pro sale, MacBook Air $200 off, Mac mini $150 off, more](https://appleinsider.com/articles/21/12/25/year-end-apple-deals-2021-macbook-pro-sale-macbook-air-200-off-mac-mini-150-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft could add more hinges, screens to its future foldables](https://www.androidauthority.com/microsoft-double-folding-device-3080259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
