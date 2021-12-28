@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game Creator In Talks With Netflix For Season 3](https://kotaku.com/squid-game-creator-in-talks-with-netflix-for-season-3-1848275381)
- - [Best Open World 2021: Forza Horizon 5](https://www.pcgamer.com/best-open-world-game-forza-horizon-5)
- - [Welcome to your new PC gaming obsession: artisan keycaps](https://www.pcgamer.com/artisan-keycaps-obsession)<!-- GAME:END -->
+ - [Metro Exodus Enhanced Edition brings new light to old darkness](https://www.pcgamer.com/metro-exodus-enhanced-edition-personal-pick-game-of-the-year)
+ - [This is what happened in PC gaming hardware in 2021](https://www.pcgamer.com/what-happened-in-pc-gaming-hardware-2021)
+ - [Poll: Here Are Japan&#39;s Top 100 Video Games Of All Time](https://kotaku.com/poll-here-are-japans-top-100-video-games-of-all-time-1848275437)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
