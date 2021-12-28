@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [COVID-19 patients only need to isolate for five days as long as symptoms are gone, CDC says](https://www.theverge.com/2021/12/27/22856114/cdc-covid-isolation-guidelines-shortened-omicron)
- - [All of Apple&#39;s retail stores in New York City have closed to foot traffic](https://appleinsider.com/articles/21/12/27/all-of-apples-retail-stores-in-new-york-city-have-closed-to-foot-traffic?utm_medium=rss)
- - [The best home exercise equipment to buy in 2022     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Year-end price drop: AirPods Max dip to $445 &lpar;$105 off&rpar;](https://appleinsider.com/articles/21/12/28/year-end-price-drop-airpods-max-dip-to-445-105-off?utm_medium=rss)
+ - [A TikTok moderator sues the company for an unsafe workplace that gave her PTSD; her lawyer says TikTok stopped her from working a day after the suit was filed &lpar;Kieran Press-Reynolds/Insider&rpar;](http://www.techmeme.com/211227/p14#a211227p14)
+ - [Exploring the concept of mirrortables, where a company&#39;s cap table is mirrored on-chain with Ethereum and ENS or other Web3 tools, to streamline angel investing &lpar;Balaji Srinivasan&rpar;](http://www.techmeme.com/211227/p13#a211227p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
