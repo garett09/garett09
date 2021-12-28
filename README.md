@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find N vs Samsung Galaxy Z Fold 3: Which foldable is for you?](https://www.androidauthority.com/oppo-find-n-vs-samsung-galaxy-z-fold-3-3078839/)
- - [The Quest to Trap Carbon in Stone—and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change)
- - [129 VC-backed cybersecurity companies were acquired in 2021, shattering 2020&#39;s record of 79 deals, while $20B+ funding poured into cybersecurity startups &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/211228/p2#a211228p2)<!-- TECH:END -->
+ - [How to stop AirPods automatically switching between devices](https://appleinsider.com/articles/20/12/03/how-to-stop-airpods-automatically-switching-between-devices?utm_medium=rss)
+ - [Surprise! The Pandemic Has Made People More Science Literate](https://www.wired.com/story/surprise-the-pandemic-has-made-people-more-science-literate)
+ - [Predicting Death Could Change the Value of a Life](https://www.wired.com/story/predicting-death-value-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
