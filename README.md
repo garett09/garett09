@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metro Exodus Enhanced Edition brings new light to old darkness](https://www.pcgamer.com/metro-exodus-enhanced-edition-personal-pick-game-of-the-year)
- - [This is what happened in PC gaming hardware in 2021](https://www.pcgamer.com/what-happened-in-pc-gaming-hardware-2021)
- - [Poll: Here Are Japan&#39;s Top 100 Video Games Of All Time](https://kotaku.com/poll-here-are-japans-top-100-video-games-of-all-time-1848275437)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: What is the best motherboard of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-gaming-motherboard-nominees)
+ - [The best TV shows of 2021](https://www.polygon.com/22816269/best-shows-2021)
+ - [With the best mods of 2021, who needs a new game?](https://www.polygon.com/22857004/best-pc-mods-2021-moddb-half-life-doom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
