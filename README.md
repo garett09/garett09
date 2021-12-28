@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Winnie the Pooh, Franz Kafka, and more are coming to the public domain in 2022](https://www.polygon.com/22857224/winnie-the-pooh-public-domain-2022)
- - [Genshin Impact&#39;s first 2022 update brings back Lantern Festival, adds abyssal Enkanomiya](https://www.pcgamer.com/genshin-impacts-first-2022-update-brings-back-lantern-festival-adds-abyssal-enkanomiya)
- - [Pokémon Go Spotlight Hour: Is Cubchoo shiny?](https://www.polygon.com/pokemon-go/22857306/pokemon-go-spotlight-hour-cubchoo-shiny)<!-- GAME:END -->
+ - [Logan Paul Encased 15 Game Boy Colors In Resin To Make A Pokémon Tabletop And People Are Mad](https://kotaku.com/logan-paul-encased-15-game-boy-colors-in-resin-to-make-1848278789)
+ - [Ari&#39;s Top Ten Games Of 2021](https://kotaku.com/aris-top-ten-games-of-2021-1848278506)
+ - [Winnie the Pooh, Franz Kafka, and more are coming to the public domain in 2022](https://www.polygon.com/22857224/winnie-the-pooh-public-domain-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
