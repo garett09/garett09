@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 2 finally gains December patch with camera, Bluetooth fixes](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [Analysis: Tiger Global, SoftBank, and Insight Partners led or co-led rounds totaling $73B in 2021, representing 12% of all venture and PE invested in startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/211228/p1#a211228p1)
- - [Microsoft could add more hinges, screens to its future foldables](https://www.androidauthority.com/microsoft-double-folding-device-3080259/)<!-- TECH:END -->
+ - [Oppo Find N vs Samsung Galaxy Z Fold 3: Which foldable is for you?](https://www.androidauthority.com/oppo-find-n-vs-samsung-galaxy-z-fold-3-3078839/)
+ - [The Quest to Trap Carbon in Stone—and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change)
+ - [129 VC-backed cybersecurity companies were acquired in 2021, shattering 2020&#39;s record of 79 deals, while $20B+ funding poured into cybersecurity startups &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/211228/p2#a211228p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
