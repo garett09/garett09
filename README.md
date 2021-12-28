@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk criticised on Chinese social media over risk of &#39;collision&#39; between Starlink satellites and space station](https://techncruncher.blogspot.com/2021/12/elon-musk-criticised-on-chinese-social.html)
- - [Where are the 2TB microSD cards?](https://www.androidauthority.com/where-are-2tb-microsd-cards-3077526/)
- - [4 Online Resources to Help LGBTQ Youth Find Support](https://www.wired.com/story/4-online-resources-lgbtq-youth-support)<!-- TECH:END -->
+ - [Desklab Ultralight Portable 4K Monitor review: Bright and convenient display for Mac &amp; iPad](https://appleinsider.com/articles/21/12/28/desklab-ultralight-portable-4k-monitor-review-bright-and-convenient-second-screen?utm_medium=rss)
+ - [Amazon Echo devices are still enjoying Black Friday prices](https://www.theverge.com/good-deals/2021/12/28/22855507/amazon-echo-sony-earbuds-corsair-gaming-keyboard-samsung-tablet-deal-sale)
+ - [Amazon says it has updated Alexa after the assistant &quot;challenged&quot; a girl to touch a coin to the prongs of a half-inserted plug &lpar;BBC&rpar;](http://www.techmeme.com/211228/p5#a211228p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
