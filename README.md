@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple celebrating Year of the Tiger in Japan with special edition AirTag &amp; Beats Studio Buds](https://appleinsider.com/articles/21/12/28/apple-celebrating-year-of-the-tiger-in-japan-with-special-edition-airtag-beats-studio-buds-in-japan?utm_medium=rss)
  - [Ex-Tumblr iOS engineer details the company&#39;s difficulties with App Store adult content policies, as communication among reviewers, devs, and Apple is discordant &lpar;sreegs&rpar;](http://www.techmeme.com/211227/p15#a211227p15)
- - [Year-end price drop: AirPods Max dip to $445 &lpar;$105 off&rpar;](https://appleinsider.com/articles/21/12/28/year-end-price-drop-airpods-max-dip-to-445-105-off?utm_medium=rss)
- - [Electric bike holiday gift guide     - Roadshow](https://www.cnet.com/roadshow/news/electric-bike-holiday-gift-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Year-end price drop: AirPods Max dip to $445 &lpar;$105 off&rpar;](https://appleinsider.com/articles/21/12/28/year-end-price-drop-airpods-max-dip-to-445-105-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
