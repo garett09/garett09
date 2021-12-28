@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have a nice day!](http://9gag.com/gag/aXrq85d)
+ - 🚖 [Julius Caesar was black!](http://9gag.com/gag/aAGdnn0)
  - 🚯 [Welcome to the age of apartments](http://9gag.com/gag/aNPAyOA)
- - 🚯 [DEALING WITH AN IMPATIENT PHONE SCAMMER](http://9gag.com/gag/a91rQZo)<!-- MEMES:END -->
+ - 🚯 [This hidden corner shelf](http://9gag.com/gag/ajgX2jG)<!-- MEMES:END -->
 
 --- 
 
