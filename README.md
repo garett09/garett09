@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&amp;#039;s your dog name...?](http://9gag.com/gag/axBVpvM)
- - 🚯 [Advise for bath mental health](http://9gag.com/gag/aVxMjG8)
- - 🚯 [Romania bad #2](http://9gag.com/gag/amg2qnX)<!-- MEMES:END -->
+ - 🚖 [I hope he has a loicense.](http://9gag.com/gag/aBn89zz)
+ - 🚯 [Romania bad #2](http://9gag.com/gag/amg2qnX)
+ - 🚯 [Never slap a c0ck to hard](http://9gag.com/gag/ajgNQOx)<!-- MEMES:END -->
 
 --- 
 
