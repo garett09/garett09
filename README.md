@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sexually assaulting this girl in public](http://9gag.com/gag/aegbXK5)
- - 🚯 [DEALING WITH AN IMPATIENT PHONE SCAMMER](http://9gag.com/gag/a91rQZo)
- - 🚯 [&amp;quot;Drifters convension, is it here?&amp;quot;](http://9gag.com/gag/a81yPqZ)<!-- MEMES:END -->
+ - 🚖 [Have a nice day!](http://9gag.com/gag/aXrq85d)
+ - 🚯 [Welcome to the age of apartments](http://9gag.com/gag/aNPAyOA)
+ - 🚯 [DEALING WITH AN IMPATIENT PHONE SCAMMER](http://9gag.com/gag/a91rQZo)<!-- MEMES:END -->
 
 --- 
 
