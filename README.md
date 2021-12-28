@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Development on Final Fantasy 16 is almost six months behind](https://www.pcgamer.com/development-on-final-fantasy-16-is-almost-six-months-behind)
- - [Best of Steam 2021 shows off a few surprise top sellers and most played](https://www.pcgamer.com/best-of-steam-2021-shows-off-a-few-surprise-top-sellers-and-most-played)
- - [If The Matrix was really GOTY in 1999, here’s what it beat](https://www.polygon.com/22855572/the-matrix-resurrections-video-game-awards-statue-scene-keanu-reeves)<!-- GAME:END -->
+ - [Best Open World 2021: Forza Horizon 5](https://www.pcgamer.com/best-open-world-game-forza-horizon-5)
+ - [Welcome to your new PC gaming obsession: artisan keycaps](https://www.pcgamer.com/artisan-keycaps-obsession)
+ - [Development on Final Fantasy 16 is almost six months behind](https://www.pcgamer.com/development-on-final-fantasy-16-is-almost-six-months-behind)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
