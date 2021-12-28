@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Desklab Ultralight Portable 4K Monitor review: Bright and convenient display for Mac &amp; iPad](https://appleinsider.com/articles/21/12/28/desklab-ultralight-portable-4k-monitor-review-bright-and-convenient-second-screen?utm_medium=rss)
- - [Amazon Echo devices are still enjoying Black Friday prices](https://www.theverge.com/good-deals/2021/12/28/22855507/amazon-echo-sony-earbuds-corsair-gaming-keyboard-samsung-tablet-deal-sale)
- - [Amazon says it has updated Alexa after the assistant &quot;challenged&quot; a girl to touch a coin to the prongs of a half-inserted plug &lpar;BBC&rpar;](http://www.techmeme.com/211228/p5#a211228p5)<!-- TECH:END -->
+ - [Bitcoin in 2021: a mainstream breakout, crossing $67,000 in November, large price fluctuations, over 75% of its supply held by illiquid addresses, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/211228/p7#a211228p7)
+ - [LastPass master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)
+ - [What does last seen mean on WhatsApp and how to hide it](https://www.androidauthority.com/last-seen-whatsapp-3078865/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
