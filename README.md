@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Julius Caesar was black!](http://9gag.com/gag/aAGdnn0)
- - 🚯 [Welcome to the age of apartments](http://9gag.com/gag/aNPAyOA)
- - 🚯 [This hidden corner shelf](http://9gag.com/gag/ajgX2jG)<!-- MEMES:END -->
+ - 🚖 [He brought a new friend home with him](http://9gag.com/gag/aqG142Y)
+ - 🚯 [This hidden corner shelf](http://9gag.com/gag/ajgX2jG)
+ - 🚯 [Julius Caesar was black!](http://9gag.com/gag/aAGdnn0)<!-- MEMES:END -->
 
 --- 
 
