@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
- - [Elon Musk sells another $1 billion in Tesla shares, nearing 10% target](https://techncruncher.blogspot.com/2021/12/elon-musk-sells-another-1-billion-in.html)
- - [Alexa tells 10-year-old girl to touch live electrical socket with penny](https://appleinsider.com/articles/21/12/29/alexa-tells-10-year-old-girl-to-touch-live-electrical-socket-with-penny?utm_medium=rss)<!-- TECH:END -->
+ - [HDMI Forum will introduce HDMI 2.1a, the new standard, at CES 2022, offering minor updates that will further complicate a system with haphazard device support &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/211229/p17#a211229p17)
+ - [The best after-Christmas deals from Amazon, Best Buy, Walmart, and more](https://www.theverge.com/good-deals/2021/12/29/22857133/best-tech-deals-post-christmas-holiday)
+ - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
