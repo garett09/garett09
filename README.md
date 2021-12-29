@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude what?](http://9gag.com/gag/aogO9nw)
- - 🚯 [Goodverdamt](http://9gag.com/gag/axB0g62)
- - 🚯 [2022 incoming](http://9gag.com/gag/azeqrAK)<!-- MEMES:END -->
+ - 🚖 [Goodverdamt](http://9gag.com/gag/axB0g62)
+ - 🚯 [2022 incoming](http://9gag.com/gag/azeqrAK)
+ - 🚯 [How the turn tables](http://9gag.com/gag/a41GZgZ)<!-- MEMES:END -->
 
 --- 
 
