@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goodverdamt](http://9gag.com/gag/axB0g62)
- - 🚯 [2022 incoming](http://9gag.com/gag/azeqrAK)
- - 🚯 [How the turn tables](http://9gag.com/gag/a41GZgZ)<!-- MEMES:END -->
+ - 🚖 [How to turn a group of civilians into the enemy 101](http://9gag.com/gag/aPZ9WXK)
+ - 🚯 [Don&amp;#039;t stand in the way...](http://9gag.com/gag/aogO9Ag)
+ - 🚯 [I have downloaded the wrong Supergirl show](http://9gag.com/gag/aKmDVBW)<!-- MEMES:END -->
 
 --- 
 
