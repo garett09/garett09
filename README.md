@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI Forum will introduce HDMI 2.1a, the new standard, at CES 2022, offering minor updates that will further complicate a system with haphazard device support &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/211229/p17#a211229p17)
- - [The best after-Christmas deals from Amazon, Best Buy, Walmart, and more](https://www.theverge.com/good-deals/2021/12/29/22857133/best-tech-deals-post-christmas-holiday)
- - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite told players they ‘don’t have permission to play’ just before the servers went offline](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)
+ - [30 of the best offers on games, and more of the latest Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)
+ - [Google, Microsoft, and Oracle invest in potential cloud clients to beat AWS; Google claims 6% cloud market share, behind AWS at 41% and Microsoft at 20% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211229/p18#a211229p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
