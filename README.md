@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we want to see from Apple in 2022](https://www.androidauthority.com/apple-2022-3075922/)
- - [Scientists find unexpected trove of life forms beneath Antarctic ice shelf](https://www.theverge.com/2021/12/29/22857125/discovery-antarctic-ice-biolife-ice-shelf)
- - [The Book of Boba Fett’s first chapter has a lot of blank pages](https://www.theverge.com/2021/12/29/22858259/the-book-of-boba-fett-episode-one-recap-star-wars-mandalorian)<!-- TECH:END -->
+ - [What to do first with your new iPad or iPad Pro](https://appleinsider.com/articles/21/12/29/what-to-do-first-with-your-new-ipad-or-ipad-pro?utm_medium=rss)
+ - [Autonomous trucking company TuSimple says a semitruck completed an 80-mile route in Arizona with no human on board and no human intervention &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/211229/p11#a211229p11)
+ - [This Apple Watch Series 7 sale arrived just in time for New Year’s resolutions](https://www.theverge.com/good-deals/2021/12/29/22856873/apple-watch-series-7-samsung-galaxy-buds-pro-lenovo-thinkpad-x12-detachable-gamestop-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
