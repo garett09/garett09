@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes sense, right?](http://9gag.com/gag/a0Z5jLO)
- - 🚯 [Grand theft auto](http://9gag.com/gag/ay9xnwV)
- - 🚯 [This city living on the edge of the river.](http://9gag.com/gag/aLv82wg)<!-- MEMES:END -->
+ - 🚖 [This city living on the edge of the river.](http://9gag.com/gag/aLv82wg)
+ - 🚯 [1991 back when you could tell people theyre not being healthy. Was just looking at this episode and saw this.](http://9gag.com/gag/aNPzn73)
+ - 🚯 [Good time](http://9gag.com/gag/aPZ9DBQ)<!-- MEMES:END -->
 
 --- 
 
