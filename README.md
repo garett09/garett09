@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [#nohate](http://9gag.com/gag/aqG150j)
- - 🚯 [Bars in Japan sure know how to immerse their guests](http://9gag.com/gag/amg29By)
- - 🚯 [Grand theft auto](http://9gag.com/gag/ay9xnwV)<!-- MEMES:END -->
+ - 🚖 [Makes sense, right?](http://9gag.com/gag/a0Z5jLO)
+ - 🚯 [Grand theft auto](http://9gag.com/gag/ay9xnwV)
+ - 🚯 [This city living on the edge of the river.](http://9gag.com/gag/aLv82wg)<!-- MEMES:END -->
 
 --- 
 
