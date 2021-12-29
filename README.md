@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get $900 off this RTX 2070 Razer Blade 15 Gaming Laptop](https://www.pcgamer.com/get-dollar900-off-this-rtx-2070-razer-blade-15-gaming-laptop)
- - [Nvidia&#39;s RTX 3080 Ti for laptops is almost here](https://www.pcgamer.com/nvidias-rtx-3080-ti-for-laptops-is-almost-here)
- - [John Madden Dies At Age 85](https://kotaku.com/john-madden-dies-at-age-85-1848280303)<!-- GAME:END -->
+ - [Grab Logitech&#39;s excellent G502 Hero SE gaming mouse for only $35](https://www.pcgamer.com/grab-logitechs-excellent-g502-hero-se-gaming-mouse-for-only-dollar35)
+ - [AMD&#39;s FidelityFX Super Resolution is getting a lot of support](https://www.pcgamer.com/amds-fidelityfx-super-resolution-is-getting-a-lot-of-support)
+ - [Get $900 off this RTX 2070 Razer Blade 15 Gaming Laptop](https://www.pcgamer.com/get-dollar900-off-this-rtx-2070-razer-blade-15-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
