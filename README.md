@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sisi Jiang’s Top Ten Games of 2021](https://kotaku.com/sisi-jiang-s-top-ten-games-of-2021-1848283089)
- - [What if The Lord of the Rings movies never happened?](https://www.polygon.com/lord-of-the-rings/22858403/lord-of-the-rings-movie-history-what-if)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Here are the most popular indie games on the Nintendo Switch in 2021](https://www.polygon.com/nintendo-switch/22858909/best-selling-indie-games-nintendo-switch-2021)
+ - [Halo Infinite Dev Dishes About The Game’s Most Shocking Moment](https://kotaku.com/halo-infinite-dev-dishes-about-the-game-s-most-shocking-1848283685)
+ - [The Best-Selling Indie Games On Switch In 2021, According To Nintendo](https://kotaku.com/the-best-selling-indie-games-on-switch-in-2021-accordi-1848283596)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
