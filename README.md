@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This city living on the edge of the river.](http://9gag.com/gag/aLv82wg)
- - 🚯 [1991 back when you could tell people theyre not being healthy. Was just looking at this episode and saw this.](http://9gag.com/gag/aNPzn73)
- - 🚯 [Good time](http://9gag.com/gag/aPZ9DBQ)<!-- MEMES:END -->
+ - 🚖 [Mag dump](http://9gag.com/gag/ay9x8dr)
+ - 🚯 [Happy wife, happy life](http://9gag.com/gag/amg2zNV)
+ - 🚯 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)<!-- MEMES:END -->
 
 --- 
 
