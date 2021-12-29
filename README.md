@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)
- - 🚯 [#nohate](http://9gag.com/gag/aqG150j)
- - 🚯 [The man who saved people from a burning bus has received free medical treatment.](http://9gag.com/gag/aqG15xR)<!-- MEMES:END -->
+ - 🚖 [Dude what?](http://9gag.com/gag/aogO9nw)
+ - 🚯 [Goodverdamt](http://9gag.com/gag/axB0g62)
+ - 🚯 [2022 incoming](http://9gag.com/gag/azeqrAK)<!-- MEMES:END -->
 
 --- 
 
