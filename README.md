@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logan Paul Encased 15 Game Boy Colors In Resin To Make A Pokémon Tabletop And People Are Mad](https://kotaku.com/logan-paul-encased-15-game-boy-colors-in-resin-to-make-1848278789)
- - [Ari&#39;s Top Ten Games Of 2021](https://kotaku.com/aris-top-ten-games-of-2021-1848278506)
- - [Winnie the Pooh, Franz Kafka, and more are coming to the public domain in 2022](https://www.polygon.com/22857224/winnie-the-pooh-public-domain-2022)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 3080 Ti for laptops is almost here](https://www.pcgamer.com/nvidias-rtx-3080-ti-for-laptops-is-almost-here)
+ - [India&#39;s $10B USD investment in chip manufacturing has Intel&#39;s attention](https://www.pcgamer.com/indias-dollar10b-usd-investment-in-chip-manufacturing-has-intels-attention)
+ - [Logan Paul Encased 15 Game Boy Colors In Resin To Make A Pokémon Tabletop And People Are Mad](https://kotaku.com/logan-paul-encased-15-game-boy-colors-in-resin-to-make-1848278789)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
