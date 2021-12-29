@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the Galaxy Watch 4 Classic for just $299.99, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [CES 2022 in-person exhibitor list continues to shrink as AMD and MSI drop out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
- - [B&amp;H&#39;s year-end Mega Deal Zone ends soon: Save up to 69% on monitors, storage, drones, more](https://appleinsider.com/articles/21/12/28/bhs-year-end-mega-deal-zone-ends-soon-save-up-to-69-on-monitors-storage-drones-more?utm_medium=rss)<!-- TECH:END -->
+ - [Another T-Mobile cyberattack reportedly exposed customer info and SIMs](https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap)
+ - [Adam Mosseri says in 2022 Instagram will &quot;double down&quot; on video, consolidate its video products around Reels, and focus on creators, transparency, and messaging &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/211228/p12#a211228p12)
+ - [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
