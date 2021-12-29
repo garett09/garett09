@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is changing music as we know it     - CNET](https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/#ftag=CAD590a51e)
- - [James Webb Space Telescope&#39;s smooth launch extended its life expectancy, NASA says     - CNET](https://www.cnet.com/news/james-webb-space-telescopes-smooth-launch-extended-its-life-expectancy-nasa-says/#ftag=CAD590a51e)
- - [Your Pixel has an awesome shortcut — don’t forget to use it](https://www.androidauthority.com/pixel-shortcut-quick-tap-3076667/)<!-- TECH:END -->
+ - [T-Mobile confirms reports of a data breach caused by SIM swap attacks on a &quot;very small number of customers&quot;, following five other data breaches since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211229/p14#a211229p14)
+ - [2021 was the year clean energy finally faced its mining problem](https://www.theverge.com/22858437/2021-mining-critical-minerals-clean-energy-renewables-climate-change)
+ - [Save $430 on the Surface Pro X, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
