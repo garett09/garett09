@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do first with your new iPad or iPad Pro](https://appleinsider.com/articles/21/12/29/what-to-do-first-with-your-new-ipad-or-ipad-pro?utm_medium=rss)
- - [Autonomous trucking company TuSimple says a semitruck completed an 80-mile route in Arizona with no human on board and no human intervention &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/211229/p11#a211229p11)
- - [This Apple Watch Series 7 sale arrived just in time for New Year’s resolutions](https://www.theverge.com/good-deals/2021/12/29/22856873/apple-watch-series-7-samsung-galaxy-buds-pro-lenovo-thinkpad-x12-detachable-gamestop-deal-sale)<!-- TECH:END -->
+ - [How AI is changing music as we know it     - CNET](https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/#ftag=CAD590a51e)
+ - [James Webb Space Telescope&#39;s smooth launch extended its life expectancy, NASA says     - CNET](https://www.cnet.com/news/james-webb-space-telescopes-smooth-launch-extended-its-life-expectancy-nasa-says/#ftag=CAD590a51e)
+ - [Your Pixel has an awesome shortcut — don’t forget to use it](https://www.androidauthority.com/pixel-shortcut-quick-tap-3076667/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
