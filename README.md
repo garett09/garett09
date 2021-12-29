@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 2021, I became the Apex Legend](https://www.pcgamer.com/in-2021-i-became-the-apex-legend)
- - [Mini Motorways is the most thrilling traffic manager you&#39;ll play this year](https://www.pcgamer.com/mini-motorways-is-the-most-thrilling-traffic-manager-youll-play-this-year)
- - [2021: The year PC gaming left the desktop PC](https://www.pcgamer.com/2021-the-year-pc-gaming-left-the-desktop-pc)<!-- GAME:END -->
+ - [John Madden, the namesake of video game football, dies at 85](https://www.polygon.com/22857879/john-madden-obituary-nfl-video-games-ea-sports-sales-legacy)
+ - [The biggest gaming controversies of 2021](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2021)
+ - [In 2021, I became the Apex Legend](https://www.pcgamer.com/in-2021-i-became-the-apex-legend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
