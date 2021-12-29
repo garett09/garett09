@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Base Layers to Keep You Warm](https://www.wired.com/gallery/best-base-layers-winter)
- - [10 Apple Arcade games for your new iPhone or iPad](https://www.theverge.com/22815442/iphone-ipad-best-games-apple-arcade-2021)
- - [You’ll see even more Roku TV Ready soundbars in 2022](https://www.theverge.com/2021/12/29/22857104/roku-tv-ready-program-expansion)<!-- TECH:END -->
+ - [5 things we want to see from Apple in 2022](https://www.androidauthority.com/apple-2022-3075922/)
+ - [Scientists find unexpected trove of life forms beneath Antarctic ice shelf](https://www.theverge.com/2021/12/29/22857125/discovery-antarctic-ice-biolife-ice-shelf)
+ - [The Book of Boba Fett’s first chapter has a lot of blank pages](https://www.theverge.com/2021/12/29/22858259/the-book-of-boba-fett-episode-one-recap-star-wars-mandalorian)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
