@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stable Android 12 rolling out to Samsung’s new foldables &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-3-z-flip-3-android-12-3071460/)
  - [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare)
- - [OnePlus 8T gets its final Oxygen OS update of the year](https://www.androidauthority.com/oneplus-8t-update-1173244/)
- - [FCC win clears the way for a massive Wi-Fi 6E upgrade](https://www.theverge.com/2021/12/28/22857852/6ghz-wifi-win-fcc-wi-fi-6e-7-att-spectrum)<!-- TECH:END -->
+ - [OnePlus 8T gets its final Oxygen OS update of the year](https://www.androidauthority.com/oneplus-8t-update-1173244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
