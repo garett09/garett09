@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setting up audio systems with your Roku is about to get very easy](https://www.androidauthority.com/roku-tv-ready-program-3081420/)
- - [James Webb Space Telescope’s fuel expected to last more than 10 years](https://www.theverge.com/2021/12/29/22858406/nasa-james-webb-space-telescope-mission)
- - [Six of the 10 best-performing South Korean stocks in 2021 are linked to the metaverse or NFTs, including Wemade Max, up 1,500%, and Giantstep, up 1,200% &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/211229/p15#a211229p15)<!-- TECH:END -->
+ - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
+ - [Elon Musk sells another $1 billion in Tesla shares, nearing 10% target](https://techncruncher.blogspot.com/2021/12/elon-musk-sells-another-1-billion-in.html)
+ - [Alexa tells 10-year-old girl to touch live electrical socket with penny](https://appleinsider.com/articles/21/12/29/alexa-tells-10-year-old-girl-to-touch-live-electrical-socket-with-penny?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
