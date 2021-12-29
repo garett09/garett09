@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In 2021, I became the Apex Legend](https://www.pcgamer.com/in-2021-i-became-the-apex-legend)
  - [Mini Motorways is the most thrilling traffic manager you&#39;ll play this year](https://www.pcgamer.com/mini-motorways-is-the-most-thrilling-traffic-manager-youll-play-this-year)
- - [2021: The year PC gaming left the desktop PC](https://www.pcgamer.com/2021-the-year-pc-gaming-left-the-desktop-pc)
- - [The Ascent&#39;s big guns and bigger explosions were the perfect cure for a stressful year](https://www.pcgamer.com/the-ascents-big-guns-and-bigger-explosions-were-the-perfect-cure-for-a-stressful-year)<!-- GAME:END -->
+ - [2021: The year PC gaming left the desktop PC](https://www.pcgamer.com/2021-the-year-pc-gaming-left-the-desktop-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
