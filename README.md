@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Timeless teases a surprising new addition to the Marvel Universe](https://www.polygon.com/22857488/marvel-timeless-kang-miracleman-marvelman-alan-moore-neil-gaiman)
- - [PC Gamer Hardware Awards: What is the best SSD of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-ssd-nominees)
- - [The GTA Trilogy remaster is flawed, but so much more accessible](https://www.polygon.com/22858290/grand-theft-auto-trilogy-definitive-edition-remasters-accessibility)<!-- GAME:END -->
+ - [Jujutsu Kaisen’s first film takes number one spot at Japanese box office](https://www.polygon.com/22858395/jujutsu-kaisen-film-zero-box-office-record-japan-anime)
+ - [Halo Infinite&#39;s Bots Are Currently Creating Unfair Teams](https://kotaku.com/halo-infinites-bots-are-currently-creating-unfair-teams-1848281592)
+ - [PlayStation Plus offers Persona 5 Strikers, Dirt 5 in January](https://www.polygon.com/22849860/playstation-plus-january-2022-free-games-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
