@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several LastPass users receive security email scare, but no breach detected](https://www.androidauthority.com/lastpass-security-emails-3080888/)
- - [Surprise Android 12 update lands on the Samsung Galaxy S10 series](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
- - [Sources: Iranian hackers were behind the ransomware attack that took down some live streams for Cox radio and TV stations in early June &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211229/p2#a211229p2)<!-- TECH:END -->
+ - [A California federal judge rules that Sundar Pichai can be questioned for up to two hours in a privacy lawsuit over Chrome&#39;s Incognito mode &lpar;Reuters&rpar;](http://www.techmeme.com/211229/p5#a211229p5)
+ - [LG says next-generation OLED EX technology delivers improved brightness and accuracy](https://www.theverge.com/2021/12/29/22858131/lg-oled-ex-technology-improved-brightness-accuracy-ces-2022)
+ - [Apple places Foxconn&#39;s southern India factory on probation following worker protests and an investigation that revealed substandard living conditions &lpar;Bloomberg&rpar;](http://www.techmeme.com/211229/p4#a211229p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
