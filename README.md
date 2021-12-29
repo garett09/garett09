@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes sense, right?](http://9gag.com/gag/a0Z5jLO)
- - 🚯 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)
- - 🚯 [Coke+oil vs mentos](http://9gag.com/gag/a818Med)<!-- MEMES:END -->
+ - 🚖 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)
+ - 🚯 [#nohate](http://9gag.com/gag/aqG150j)
+ - 🚯 [The man who saved people from a burning bus has received free medical treatment.](http://9gag.com/gag/aqG15xR)<!-- MEMES:END -->
 
 --- 
 
