@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guillermo del Toro’s dark fable Nightmare Alley shouldn’t go overlooked](https://www.polygon.com/reviews/22851859/nightmare-alley-review-guillermo-del-toro)
  - [Jujutsu Kaisen’s first film takes number one spot at Japanese box office](https://www.polygon.com/22858395/jujutsu-kaisen-film-zero-box-office-record-japan-anime)
- - [Halo Infinite&#39;s Bots Are Currently Creating Unfair Teams](https://kotaku.com/halo-infinites-bots-are-currently-creating-unfair-teams-1848281592)
- - [PlayStation Plus offers Persona 5 Strikers, Dirt 5 in January](https://www.polygon.com/22849860/playstation-plus-january-2022-free-games-list)<!-- GAME:END -->
+ - [Halo Infinite&#39;s Bots Are Currently Creating Unfair Teams](https://kotaku.com/halo-infinites-bots-are-currently-creating-unfair-teams-1848281592)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
