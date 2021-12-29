@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms reports of a data breach caused by SIM swap attacks on a &quot;very small number of customers&quot;, following five other data breaches since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211229/p14#a211229p14)
- - [2021 was the year clean energy finally faced its mining problem](https://www.theverge.com/22858437/2021-mining-critical-minerals-clean-energy-renewables-climate-change)
- - [Save $430 on the Surface Pro X, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
+ - [Save 45% on a Canon wireless laser printer, and more printer deals](https://www.androidauthority.com/best-printer-deals-1113022/)
+ - [Fortnite told players they ‘don’t have permission to play’ just before the servers went offline](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
