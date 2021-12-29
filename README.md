@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another T-Mobile cyberattack reportedly exposed customer info and SIMs](https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap)
- - [Adam Mosseri says in 2022 Instagram will &quot;double down&quot; on video, consolidate its video products around Reels, and focus on creators, transparency, and messaging &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/211228/p12#a211228p12)
- - [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare)<!-- TECH:END -->
+ - [MetaMap, formerly Mati, which builds digital trust and reputation tools and APIs to help online services vet consumers, raises a $70M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/211228/p14#a211228p14)
+ - [Apple&#39;s May 2021 in review - Lossless Apple Music, Apple Silicon iMac, and new Apple TV 4K](https://appleinsider.com/articles/21/05/31/lossless-apple-music-and-no-winner-in-epic-trial---apples-may-2021-in-review?utm_medium=rss)
+ - [Waymo partners with Chinese automotive company Geely to bring a &quot;rider-first&quot; EV with no steering wheel to its US robotaxi Waymo One fleet in the coming years &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/211228/p13#a211228p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
