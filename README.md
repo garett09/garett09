@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sheep vs Human](http://9gag.com/gag/a818jb1)
- - 🚯 [When you chased the wrong crab](http://9gag.com/gag/aWgqW63)
+ - 🚖 [When you chased the wrong crab](http://9gag.com/gag/aWgqW63)
+ - 🚯 [Abandoned psychiatric clinic somewhere in Hungary.](http://9gag.com/gag/amg2L1y)
  - 🚯 [9GAG NFT Giveaway: The architect of your own world\ud83e\uddd1\ud83c\udffd\ud83d\udd27\ud83c\udf0d - Sponsored by ASUS](http://9gag.com/gag/aM4A2qV)<!-- MEMES:END -->
 
 --- 
