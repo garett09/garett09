@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get $900 off this RTX 2070 Razer Blade 15 Gaming Laptop](https://www.pcgamer.com/get-dollar900-off-this-rtx-2070-razer-blade-15-gaming-laptop)
  - [Nvidia&#39;s RTX 3080 Ti for laptops is almost here](https://www.pcgamer.com/nvidias-rtx-3080-ti-for-laptops-is-almost-here)
- - [India&#39;s $10B USD investment in chip manufacturing has Intel&#39;s attention](https://www.pcgamer.com/indias-dollar10b-usd-investment-in-chip-manufacturing-has-intels-attention)
- - [Logan Paul Encased 15 Game Boy Colors In Resin To Make A Pokémon Tabletop And People Are Mad](https://kotaku.com/logan-paul-encased-15-game-boy-colors-in-resin-to-make-1848278789)<!-- GAME:END -->
+ - [John Madden Dies At Age 85](https://kotaku.com/john-madden-dies-at-age-85-1848280303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
