@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best breast pumps in 2022     - CNET](https://www.cnet.com/health/parenting/best-breast-pumps-in-2022/#ftag=CAD590a51e)
  - [MetaMap, formerly Mati, which builds digital trust and reputation tools and APIs to help online services vet consumers, raises a $70M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/211228/p14#a211228p14)
- - [Apple&#39;s May 2021 in review - Lossless Apple Music, Apple Silicon iMac, and new Apple TV 4K](https://appleinsider.com/articles/21/05/31/lossless-apple-music-and-no-winner-in-epic-trial---apples-may-2021-in-review?utm_medium=rss)
- - [Waymo partners with Chinese automotive company Geely to bring a &quot;rider-first&quot; EV with no steering wheel to its US robotaxi Waymo One fleet in the coming years &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/211228/p13#a211228p13)<!-- TECH:END -->
+ - [John Madden, legendary football coach and video game namesake, has died at 85     - CNET](https://www.cnet.com/news/john-madden-legendary-football-coach-and-video-game-namesake-has-died-at-85/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
