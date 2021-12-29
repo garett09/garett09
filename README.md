@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California federal judge rules that Sundar Pichai can be questioned for up to two hours in a privacy lawsuit over Chrome&#39;s Incognito mode &lpar;Reuters&rpar;](http://www.techmeme.com/211229/p5#a211229p5)
- - [LG says next-generation OLED EX technology delivers improved brightness and accuracy](https://www.theverge.com/2021/12/29/22858131/lg-oled-ex-technology-improved-brightness-accuracy-ces-2022)
- - [Apple places Foxconn&#39;s southern India factory on probation following worker protests and an investigation that revealed substandard living conditions &lpar;Bloomberg&rpar;](http://www.techmeme.com/211229/p4#a211229p4)<!-- TECH:END -->
+ - [Apple&#39;s June 2021 in review: WWDC, legal battles, and no 14-inch MacBook Pro - yet](https://appleinsider.com/articles/21/07/01/wwdc-legal-battles-and-no-14-inch-macbook-pro----june-2021-in-review?utm_medium=rss)
+ - [How to use the emoji keyboard on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-use-the-emoji-keyboard-on-ios-15-and-ipados-15?utm_medium=rss)
+ - [Indian B2B manufacturing services marketplace Zetwerk raises a $210M Series F led by Greenoaks at a $2.5B valuation, four months after raising $150M &lpar;Debarghya Sil/Inc42&rpar;](http://www.techmeme.com/211229/p7#a211229p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
