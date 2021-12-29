@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeBank, which lets users track and analyze their DeFi investments, raises $25M led by Sequoia China at a $200M valuation &lpar;Tanzeel Akhtar/CoinDesk&rpar;](http://www.techmeme.com/211229/p1#a211229p1)
- - [Samsung Galaxy Z Flip updates: December update finally lands in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
- - [Stable Android 12 rolling out to Samsung’s new foldables &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-3-z-flip-3-android-12-3071460/)<!-- TECH:END -->
+ - [Sources: Iranian hackers were behind the ransomware attack that took down some live streams for Cox radio and TV stations in early June &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211229/p2#a211229p2)
+ - [LG’s new recipe service uses Walmart and Amazon Fresh to deliver ingredients](https://www.theverge.com/2021/12/29/22858099/lg-recipe-delivery-service-walmart-amazon-fresh-2022)
+ - [The Book of Boba Fett release schedule: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-release-schedule-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
