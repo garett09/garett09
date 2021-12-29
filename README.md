@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden signs the annual defense bill codifying voluntary cybersecurity frameworks for the private sector, which operates the bulk of US&#39;s critical infrastructure &lpar;Mariam Baksh/Nextgov&rpar;](http://www.techmeme.com/211228/p15#a211228p15)
  - [Best breast pumps in 2022     - CNET](https://www.cnet.com/health/parenting/best-breast-pumps-in-2022/#ftag=CAD590a51e)
- - [MetaMap, formerly Mati, which builds digital trust and reputation tools and APIs to help online services vet consumers, raises a $70M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/211228/p14#a211228p14)
- - [John Madden, legendary football coach and video game namesake, has died at 85     - CNET](https://www.cnet.com/news/john-madden-legendary-football-coach-and-video-game-namesake-has-died-at-85/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MetaMap, formerly Mati, which builds digital trust and reputation tools and APIs to help online services vet consumers, raises a $70M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/211228/p14#a211228p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
