@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Iranian hackers were behind the ransomware attack that took down some live streams for Cox radio and TV stations in early June &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211229/p2#a211229p2)
- - [LG’s new recipe service uses Walmart and Amazon Fresh to deliver ingredients](https://www.theverge.com/2021/12/29/22858099/lg-recipe-delivery-service-walmart-amazon-fresh-2022)
- - [The Book of Boba Fett release schedule: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-release-schedule-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Several LastPass users receive security email scare, but no breach detected](https://www.androidauthority.com/lastpass-security-emails-3080888/)
+ - [Surprise Android 12 update lands on the Samsung Galaxy S10 series](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
+ - [Sources: Iranian hackers were behind the ransomware attack that took down some live streams for Cox radio and TV stations in early June &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211229/p2#a211229p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
