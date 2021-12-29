@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: What is the best gaming mouse of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-gaming-mouse-nominees)
- - [Roblox CEO Outed For Using Completely Legal, Completely Ridiculous Tax Dodge](https://kotaku.com/roblox-ceo-outed-for-using-completely-legal-completely-1848282727)
- - [Book of Boba Fett makes the bounty hunter’s Sarlacc pit-escape canon](https://www.polygon.com/star-wars/22858572/boba-fett-sarlacc-pit-escape-book-legends)<!-- GAME:END -->
+ - [Sisi Jiang’s Top Ten Games of 2021](https://kotaku.com/sisi-jiang-s-top-ten-games-of-2021-1848283089)
+ - [What if The Lord of the Rings movies never happened?](https://www.polygon.com/lord-of-the-rings/22858403/lord-of-the-rings-movie-history-what-if)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
