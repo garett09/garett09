@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s June 2021 in review: WWDC, legal battles, and no 14-inch MacBook Pro - yet](https://appleinsider.com/articles/21/07/01/wwdc-legal-battles-and-no-14-inch-macbook-pro----june-2021-in-review?utm_medium=rss)
- - [How to use the emoji keyboard on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-use-the-emoji-keyboard-on-ios-15-and-ipados-15?utm_medium=rss)
- - [Indian B2B manufacturing services marketplace Zetwerk raises a $210M Series F led by Greenoaks at a $2.5B valuation, four months after raising $150M &lpar;Debarghya Sil/Inc42&rpar;](http://www.techmeme.com/211229/p7#a211229p7)<!-- TECH:END -->
+ - [A Weird Paper Tests The Limits of Science by Claiming Octopuses Came From Space](https://techncruncher.blogspot.com/2021/12/a-weird-paper-tests-limits-of-science.html)
+ - [How to use iCloud Keychain, Apple&#39;s built-in and free password manager](https://appleinsider.com/articles/21/12/29/how-to-use-icloud-keychain-apples-built-in-and-free-password-manager?utm_medium=rss)
+ - [You must never press the original Razr’s forbidden internet button](https://www.theverge.com/2021/12/29/22857413/motorola-razr-internet-button-flip-phone-data-cellular-charges)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
