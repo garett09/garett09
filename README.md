@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Madden, the namesake of video game football, dies at 85](https://www.polygon.com/22857879/john-madden-obituary-nfl-video-games-ea-sports-sales-legacy)
- - [The biggest gaming controversies of 2021](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2021)
- - [In 2021, I became the Apex Legend](https://www.pcgamer.com/in-2021-i-became-the-apex-legend)<!-- GAME:END -->
+ - [Marvel’s Timeless teases a surprising new addition to the Marvel Universe](https://www.polygon.com/22857488/marvel-timeless-kang-miracleman-marvelman-alan-moore-neil-gaiman)
+ - [PC Gamer Hardware Awards: What is the best SSD of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-ssd-nominees)
+ - [The GTA Trilogy remaster is flawed, but so much more accessible](https://www.polygon.com/22858290/grand-theft-auto-trilogy-definitive-edition-remasters-accessibility)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
