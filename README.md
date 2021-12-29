@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
- - [Save 45% on a Canon wireless laser printer, and more printer deals](https://www.androidauthority.com/best-printer-deals-1113022/)
- - [Fortnite told players they ‘don’t have permission to play’ just before the servers went offline](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)<!-- TECH:END -->
+ - [Setting up audio systems with your Roku is about to get very easy](https://www.androidauthority.com/roku-tv-ready-program-3081420/)
+ - [James Webb Space Telescope’s fuel expected to last more than 10 years](https://www.theverge.com/2021/12/29/22858406/nasa-james-webb-space-telescope-mission)
+ - [Six of the 10 best-performing South Korean stocks in 2021 are linked to the metaverse or NFTs, including Wemade Max, up 1,500%, and Giantstep, up 1,200% &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/211229/p15#a211229p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
