@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is it ?](http://9gag.com/gag/aggYN1r)
- - 🚯 [Sheep vs Human](http://9gag.com/gag/a818jb1)
+ - 🚖 [Just watched this movie. Who else watched it? Did u love it like i did?](http://9gag.com/gag/adg9pDV)
+ - 🚯 [Have you ever seen your twin?](http://9gag.com/gag/a11KYjv)
  - 🚯 [9GAG NFT Giveaway: The architect of your own world\ud83e\uddd1\ud83c\udffd\ud83d\udd27\ud83c\udf0d - Sponsored by ASUS](http://9gag.com/gag/aM4A2qV)<!-- MEMES:END -->
 
 --- 
