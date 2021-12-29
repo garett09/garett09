@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Weird Paper Tests The Limits of Science by Claiming Octopuses Came From Space](https://techncruncher.blogspot.com/2021/12/a-weird-paper-tests-limits-of-science.html)
- - [How to use iCloud Keychain, Apple&#39;s built-in and free password manager](https://appleinsider.com/articles/21/12/29/how-to-use-icloud-keychain-apples-built-in-and-free-password-manager?utm_medium=rss)
- - [You must never press the original Razr’s forbidden internet button](https://www.theverge.com/2021/12/29/22857413/motorola-razr-internet-button-flip-phone-data-cellular-charges)<!-- TECH:END -->
+ - [The Best Base Layers to Keep You Warm](https://www.wired.com/gallery/best-base-layers-winter)
+ - [10 Apple Arcade games for your new iPhone or iPad](https://www.theverge.com/22815442/iphone-ipad-best-games-apple-arcade-2021)
+ - [You’ll see even more Roku TV Ready soundbars in 2022](https://www.theverge.com/2021/12/29/22857104/roku-tv-ready-program-expansion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
