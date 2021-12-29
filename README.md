@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best video essays of 2021](https://www.polygon.com/22856443/best-video-essays-2021)
  - [Guillermo del Toro’s dark fable Nightmare Alley shouldn’t go overlooked](https://www.polygon.com/reviews/22851859/nightmare-alley-review-guillermo-del-toro)
- - [Jujutsu Kaisen’s first film takes number one spot at Japanese box office](https://www.polygon.com/22858395/jujutsu-kaisen-film-zero-box-office-record-japan-anime)
- - [Halo Infinite&#39;s Bots Are Currently Creating Unfair Teams](https://kotaku.com/halo-infinites-bots-are-currently-creating-unfair-teams-1848281592)<!-- GAME:END -->
+ - [Jujutsu Kaisen’s first film takes number one spot at Japanese box office](https://www.polygon.com/22858395/jujutsu-kaisen-film-zero-box-office-record-japan-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
