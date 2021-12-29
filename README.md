@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mag dump](http://9gag.com/gag/ay9x8dr)
- - 🚯 [Happy wife, happy life](http://9gag.com/gag/amg2zNV)
- - 🚯 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)<!-- MEMES:END -->
+ - 🚖 [Makes sense, right?](http://9gag.com/gag/a0Z5jLO)
+ - 🚯 [Truck driver helps police to stop the car they were chasing and then is on its way](http://9gag.com/gag/aqG1Lbv)
+ - 🚯 [Coke+oil vs mentos](http://9gag.com/gag/a818Med)<!-- MEMES:END -->
 
 --- 
 
