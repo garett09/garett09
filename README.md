@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab Logitech&#39;s excellent G502 Hero SE gaming mouse for only $35](https://www.pcgamer.com/grab-logitechs-excellent-g502-hero-se-gaming-mouse-for-only-dollar35)
- - [AMD&#39;s FidelityFX Super Resolution is getting a lot of support](https://www.pcgamer.com/amds-fidelityfx-super-resolution-is-getting-a-lot-of-support)
- - [Get $900 off this RTX 2070 Razer Blade 15 Gaming Laptop](https://www.pcgamer.com/get-dollar900-off-this-rtx-2070-razer-blade-15-gaming-laptop)<!-- GAME:END -->
+ - [Best Action 2021: Deathloop](https://www.pcgamer.com/best-action-2021-deathloop)
+ - [The next big leap in PC gaming performance isn&#39;t just about bigger, faster graphics cards](https://www.pcgamer.com/pc-performance-upscale-dlss-fsr-tsr-ai)
+ - [Grab Logitech&#39;s excellent G502 Hero SE gaming mouse for only $35](https://www.pcgamer.com/grab-logitechs-excellent-g502-hero-se-gaming-mouse-for-only-dollar35)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
