@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the past 4 centuries, tracking of magnetic North Pole wrt the geographic North Pole...](http://9gag.com/gag/abgzyWL)
+ - 🚖 [Signs all man can read](http://9gag.com/gag/aqG1N6M)
  - 🚯 [I have two daughters and I can tell you I always have glitter on me at any given moment :-&rpar;](http://9gag.com/gag/aDDz3NG)
  - 🚯 [9GAG NFT Giveaway: The architect of your own world\ud83e\uddd1\ud83c\udffd\ud83d\udd27\ud83c\udf0d - Sponsored by ASUS](http://9gag.com/gag/aM4A2qV)<!-- MEMES:END -->
 
