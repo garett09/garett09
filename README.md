@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to break up](http://9gag.com/gag/a214r81)
- - 🚯 [David Icke is God](http://9gag.com/gag/adg9XR2)
- - 🚯 [Luke! I am your mother!](http://9gag.com/gag/avA7G75)<!-- MEMES:END -->
+ - 🚖 [How the turn tables](http://9gag.com/gag/a41GZgZ)
+ - 🚯 [Crazy drunk woman does not like this restaurant](http://9gag.com/gag/aXrvqV9)
+ - 🚯 [Is cucumber house interesting?](http://9gag.com/gag/aogO2xX)<!-- MEMES:END -->
 
 --- 
 
