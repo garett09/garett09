@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True that](http://9gag.com/gag/aE8BGXK)
- - 🚯 [Kevin Hart roasts Lil pump and Lil Xan](http://9gag.com/gag/aGzeVg6)
+ - 🚖 [I have two daughters and I can tell you I always have glitter on me at any given moment :-&rpar;](http://9gag.com/gag/aDDz3NG)
+ - 🚯 [For the past 4 centuries, tracking of magnetic North Pole wrt the geographic North Pole...](http://9gag.com/gag/abgzyWL)
  - 🚯 [9GAG NFT Giveaway: The architect of your own world\ud83e\uddd1\ud83c\udffd\ud83d\udd27\ud83c\udf0d - Sponsored by Asus](http://9gag.com/gag/aM4A2qV)<!-- MEMES:END -->
 
 --- 
