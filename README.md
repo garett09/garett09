@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable Android 12 rolling out to Samsung’s new foldables &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-3-z-flip-3-android-12-3071460/)
- - [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare)
- - [OnePlus 8T gets its final Oxygen OS update of the year](https://www.androidauthority.com/oneplus-8t-update-1173244/)<!-- TECH:END -->
+ - [DeBank, which lets users track and analyze their DeFi investments, raises $25M led by Sequoia China at a $200M valuation &lpar;Tanzeel Akhtar/CoinDesk&rpar;](http://www.techmeme.com/211229/p1#a211229p1)
+ - [Samsung Galaxy Z Flip updates: December update finally lands in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Stable Android 12 rolling out to Samsung’s new foldables &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-3-z-flip-3-android-12-3071460/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
