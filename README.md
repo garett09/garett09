@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 best Android games released in 2021](https://www.androidauthority.com/best-android-games-2021-3079983/)
- - [Foxconn India workers beset by worms in food, no running water](https://appleinsider.com/articles/21/12/30/foxconn-india-workers-beset-by-worms-in-food-no-running-water?utm_medium=rss)
- - [China plans to become a global innovation hub for robotics by 2025; its manufacturing robot density in 2020 was 246 per 10,000 people, double the global average &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211230/p5#a211230p5)<!-- TECH:END -->
+ - [Sony’s photo-focused Xperia 1 III is down to its best price yet](https://www.theverge.com/good-deals/2021/12/30/22858521/sony-xperia-1-iii-smartphone-apple-airpods-max-ecobee-smart-thermostat-samsung-980-pro-ssd-deal-sale)
+ - [Best deals Dec. 30: $479 AirPods Max, $197 AirPods Pro, $250 off Bowflex dumbells, more!](https://appleinsider.com/articles/21/12/30/best-deals-dec-30-479-airpods-max-197-airpods-pro-250-off-bowflex-dumbells-more?utm_medium=rss)
+ - [11 great apps for your new Windows 11 PC](https://www.theverge.com/22837232/windows-11-pc-best-apps-microsoft-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
