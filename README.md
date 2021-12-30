@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus announces a recall program for its Z690 Maximus Hero motherboards](https://www.pcgamer.com/asus-announces-a-recall-program-for-its-z690-maximus-hero-motherboards)
- - [TikTok usurps Google as top website](https://www.pcgamer.com/tiktok-usurps-google-as-top-website)
- - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)<!-- GAME:END -->
+ - [Intel&#39;s upcoming Alder Lake stock cooler gets tested](https://www.pcgamer.com/intels-upcoming-alder-lake-stock-cooler-gets-tested)
+ - [A lickable screen that can imitate flavours is in development](https://www.pcgamer.com/a-lickable-screen-that-can-imitate-flavours-is-in-development)
+ - [Asus announces a recall program for its Z690 Maximus Hero motherboards](https://www.pcgamer.com/asus-announces-a-recall-program-for-its-z690-maximus-hero-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
