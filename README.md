@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rock Rejects Vin Diesel&#39;s Plea For Him To Join Fast &amp; Furious 10](https://techncruncher.blogspot.com/2021/12/the-rock-rejects-vin-diesels-plea-for.html)
- - [Apple MacBook Pro buying guide: Which MacBook Pro should you buy?](https://www.androidauthority.com/macbook-pro-buying-guide-3075370/)
- - [Elon Musk says SpaceX will land humans on Mars in 10 years in the worst-case scenario](https://techncruncher.blogspot.com/2021/12/elon-musk-says-spacex-will-land-humans.html)<!-- TECH:END -->
+ - [A Year In, Biden’s China Policy Looks a Lot Like Trump’s](https://www.wired.com/story/biden-china-policy-looks-like-trumps)
+ - [In Celebration of the Internet’s True Angels](https://www.wired.com/story/2021-internet-angels)
+ - [The Excruciating Evolution of Luxury Watches](https://www.wired.com/story/luxury-watch-r-and-d)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
