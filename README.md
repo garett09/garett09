@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the turn tables](http://9gag.com/gag/a41GZgZ)
- - 🚯 [Crazy drunk woman does not like this restaurant](http://9gag.com/gag/aXrvqV9)
- - 🚯 [Is cucumber house interesting?](http://9gag.com/gag/aogO2xX)<!-- MEMES:END -->
+ - 🚖 [Crack](http://9gag.com/gag/a41Gb1Z)
+ - 🚯 [Is cucumber house interesting?](http://9gag.com/gag/aogO2xX)
+ - 🚯 [Luke! I am your mother!](http://9gag.com/gag/avA7G75)<!-- MEMES:END -->
 
 --- 
 
