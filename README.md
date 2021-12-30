@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprised Pikachu face](http://9gag.com/gag/a8183o3)
- - 🚯 [Why buy WinRAR?](http://9gag.com/gag/aVxM3r8)
+ - 🚖 [Father of the year goes to Prince Andrew for the time he invited three sex offenders to his daughter&amp;#039;s 18th birthday party](http://9gag.com/gag/aAGD32o)
+ - 🚯 [Birdie](http://9gag.com/gag/adg9Lgd)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
