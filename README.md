@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Surprised Pikachu face](http://9gag.com/gag/a8183o3)
- - 🚯 [Helper](http://9gag.com/gag/a0Z5QVv)
+ - 🚯 [Why buy WinRAR?](http://9gag.com/gag/aVxM3r8)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
