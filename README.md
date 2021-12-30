@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn write had](http://9gag.com/gag/aegeM4j)
- - 🚯 [34, married with kids. This keeps my anxiety low and my imposter syndrome away](http://9gag.com/gag/aOQBYyE)
+ - 🚖 [Surprised Pikachu face](http://9gag.com/gag/a8183o3)
+ - 🚯 [Helper](http://9gag.com/gag/a0Z5QVv)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
