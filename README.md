@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Year In, Biden’s China Policy Looks a Lot Like Trump’s](https://www.wired.com/story/biden-china-policy-looks-like-trumps)
- - [In Celebration of the Internet’s True Angels](https://www.wired.com/story/2021-internet-angels)
- - [The Excruciating Evolution of Luxury Watches](https://www.wired.com/story/luxury-watch-r-and-d)<!-- TECH:END -->
+ - [The 15 best Android games released in 2021](https://www.androidauthority.com/best-android-games-2021-3079983/)
+ - [Foxconn India workers beset by worms in food, no running water](https://appleinsider.com/articles/21/12/30/foxconn-india-workers-beset-by-worms-in-food-no-running-water?utm_medium=rss)
+ - [China plans to become a global innovation hub for robotics by 2025; its manufacturing robot density in 2020 was 246 per 10,000 people, double the global average &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211230/p5#a211230p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
