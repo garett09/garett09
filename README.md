@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pulls back the Pixel 6 and 6 Pro December update to fix dropped calls](https://www.theverge.com/2021/12/30/22860191/pixel-6-pro-google-december-feature-update-paused)
- - [Wondercise Studio wants to replace Zoom for connected fitness classes](https://www.theverge.com/2021/12/30/22859827/wondercise-studio-connected-fitness-social-media)
- - [Google paused the December Pixel 6 update, but is just admitting to it now](https://www.androidauthority.com/google-pixel-6-december-paused-3081810/)<!-- TECH:END -->
+ - [The Mission: Impossible movies ranked: Which one is the best?](https://www.androidauthority.com/mission-impossible-movies-ranked-3079470/)
+ - [Apple&#39;s September 2021 in review: New iPhones, iPads, and more legal woes](https://appleinsider.com/articles/21/10/02/new-iphones-new-ipads-and-new-legal-woes----september-2021-in-review?utm_medium=rss)
+ - [Plans to capture CO2 from coal plants wasted federal dollars, watchdog says](https://www.theverge.com/2021/12/30/22860207/carbon-capture-coal-plants-wasted-federal-dollars-watchdog-gao)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
