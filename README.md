@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crack](http://9gag.com/gag/a41Gb1Z)
- - 🚯 [Is cucumber house interesting?](http://9gag.com/gag/aogO2xX)
- - 🚯 [Luke! I am your mother!](http://9gag.com/gag/avA7G75)<!-- MEMES:END -->
+ - 🚖 [Luke! I am your mother!](http://9gag.com/gag/avA7G75)
+ - 🚯 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
+ - 🚯 [I have downloaded the wrong Supergirl show](http://9gag.com/gag/aKmDVBW)<!-- MEMES:END -->
 
 --- 
 
