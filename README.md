@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
- - [Apple shifted orders from Foxconn to Luxshare to assist $275B China deal](https://appleinsider.com/articles/21/12/30/apple-shifted-orders-from-foxconn-to-luxshare-to-assist-275b-china-deal?utm_medium=rss)
- - [LastPass denies claims that master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)<!-- TECH:END -->
+ - [I refuse to care about the quality of my webcam](https://www.theverge.com/2021/12/30/22858876/built-in-laptop-webcam-zoom-video-conferencing)
+ - [CES 2022 in-person exhibitor list continues to shrink: BMW cancels media events and Mercedes is out](https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart)
+ - [OneCard, which offers an app-based card to help users in India build credit, raises a $75M Series C at a $722M post-money valuation, following a $35M Series B &lpar;Entrackr&rpar;](http://www.techmeme.com/211230/p7#a211230p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
