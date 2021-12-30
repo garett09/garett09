@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
- - 🚯 [Time to break up](http://9gag.com/gag/a214r81)
+ - 🚖 [His voice is enough.](http://9gag.com/gag/aWgqqj2)
+ - 🚯 [The King has spoken!!!!](http://9gag.com/gag/aWgqm4d)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
