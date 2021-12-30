@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got a confession to make](http://9gag.com/gag/aDDzg1N)
- - 🚯 [Solo leveling finished](http://9gag.com/gag/aogO523)
+ - 🚖 [Asking Richard Dawkins &amp;quot;What if you&amp;#039;re wrong?&amp;quot;](http://9gag.com/gag/aZrgLAW)
+ - 🚯 [&amp;ldquo;a lot of wishes&amp;rdquo;&amp;nbsp;](http://9gag.com/gag/a51nR0G)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
