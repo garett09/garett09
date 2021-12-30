@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valheim is my new Minecraft](https://www.pcgamer.com/valheim-is-my-new-minecraft)
  - [The PC hardware that was actually abundant in 2021](https://www.pcgamer.com/hardware-that-was-abundant-in-2021)
- - [PC gaming is becoming way harder to get into, and that sucks](https://www.pcgamer.com/rip-cheap-graphics-cards)
- - [This year, Blaseball became a massively co-operative tactical strategy game](https://www.pcgamer.com/this-year-blaseball-became-a-massively-co-operative-tactical-strategy-game)<!-- GAME:END -->
+ - [PC gaming is becoming way harder to get into, and that sucks](https://www.pcgamer.com/rip-cheap-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
