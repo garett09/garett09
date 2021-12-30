@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim is my new Minecraft](https://www.pcgamer.com/valheim-is-my-new-minecraft)
- - [The PC hardware that was actually abundant in 2021](https://www.pcgamer.com/hardware-that-was-abundant-in-2021)
- - [PC gaming is becoming way harder to get into, and that sucks](https://www.pcgamer.com/rip-cheap-graphics-cards)<!-- GAME:END -->
+ - [Shuhei Yoshida’s favorite PlayStation indie games of 2021](https://blog.playstation.com/2021/12/30/shuhei-yoshidas-favorite-playstation-indie-games-of-2021/)
+ - [Placement games were 2021’s most calming trend](https://www.polygon.com/22858564/placement-games-unpacking-dorfromantik-xbox-game-pass-pc-series-x)
+ - [Shuhei Yoshida’s favorite PlayStation indie games of 2021](https://blog.playstation.com/2021/12/30/shuhei-yoshidas-favorite-playstation-indie-games-of-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
