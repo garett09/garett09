@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Stealth 2021: Hitman 3](https://www.pcgamer.com/best-stealth-game-hitman-3)
- - [Intel&#39;s upcoming Alder Lake stock cooler gets tested](https://www.pcgamer.com/intels-upcoming-alder-lake-stock-cooler-gets-tested)
- - [A lickable screen that can imitate flavours is in development](https://www.pcgamer.com/a-lickable-screen-that-can-imitate-flavours-is-in-development)<!-- GAME:END -->
+ - [The PC hardware that was actually abundant in 2021](https://www.pcgamer.com/hardware-that-was-abundant-in-2021)
+ - [PC gaming is becoming way harder to get into, and that sucks](https://www.pcgamer.com/rip-cheap-graphics-cards)
+ - [This year, Blaseball became a massively co-operative tactical strategy game](https://www.pcgamer.com/this-year-blaseball-became-a-massively-co-operative-tactical-strategy-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
