@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The John Madden Video Game Concussion Drama, Explained](https://kotaku.com/the-john-madden-video-game-concussion-drama-explained-1848287891)
- - [Dwayne Johnson was ‘very surprised’ by Vin Diesel’s demanding Instagram post](https://www.polygon.com/22860000/dwayne-johnson-vin-diesel-instagram-post-fast-and-furious)
- - [Watch a man win 100 straight Halo Infinite free-for-alls](https://www.pcgamer.com/watch-a-man-win-100-straight-halo-infinite-free-for-alls)<!-- GAME:END -->
+ - [Why are New Year’s Eve movies such a thing?](https://www.polygon.com/22858506/new-years-eve-movies)
+ - [Wordle Is That Square Grid Game You’ve Been Seeing All Over Social Media](https://kotaku.com/wordle-is-that-square-grid-game-you-ve-been-seeing-all-1848288370)
+ - [Bitburner is an idle game about hacking that teaches real JavaScript](https://www.pcgamer.com/bitburner-is-an-idle-game-about-hacking-that-teaches-real-javascript)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
