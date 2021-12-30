@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
- - 🚯 [Crazy drunk woman does not like this restaurant](http://9gag.com/gag/aXrvqV9)
- - 🚯 [His voice is enough.](http://9gag.com/gag/aWgqqj2)<!-- MEMES:END -->
+ - 🚖 [SnoopDog 504](http://9gag.com/gag/a8188AQ)
+ - 🚯 [Two and a half men](http://9gag.com/gag/aggYYyn)
+ - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
 
