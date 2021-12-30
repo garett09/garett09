@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why are New Year’s Eve movies such a thing?](https://www.polygon.com/22858506/new-years-eve-movies)
- - [Wordle Is That Square Grid Game You’ve Been Seeing All Over Social Media](https://kotaku.com/wordle-is-that-square-grid-game-you-ve-been-seeing-all-1848288370)
- - [Bitburner is an idle game about hacking that teaches real JavaScript](https://www.pcgamer.com/bitburner-is-an-idle-game-about-hacking-that-teaches-real-javascript)<!-- GAME:END -->
+ - [12 Recent Games To Play When You Want A Great Story Or Characters](https://kotaku.com/12-recent-games-to-play-when-you-want-a-great-story-or-1848288614)
+ - [Superheroes and soccer will collide in Super Buckyball Tournament — but when?](https://www.polygon.com/22860468/super-buckyball-tournament-preview-steam-early-access-release-date)
+ - [Bully 2 got canned in 2009, say ex-devs](https://www.pcgamer.com/bully-2-got-canned-in-2009-say-ex-devs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
