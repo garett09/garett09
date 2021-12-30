@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider trilogy is free on Epic Games Store](https://www.polygon.com/22860124/tomb-raider-rise-shadow-free-epic-games-store-dates)
- - [Trans Jeopardy! Champ Breaks Records, Becomes Highest-Earning Woman In Show History](https://kotaku.com/trans-jeopardy-champ-breaks-records-becomes-highest-e-1848287251)
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)<!-- GAME:END -->
+ - [The John Madden Video Game Concussion Drama, Explained](https://kotaku.com/the-john-madden-video-game-concussion-drama-explained-1848287891)
+ - [Dwayne Johnson was ‘very surprised’ by Vin Diesel’s demanding Instagram post](https://www.polygon.com/22860000/dwayne-johnson-vin-diesel-instagram-post-fast-and-furious)
+ - [Watch a man win 100 straight Halo Infinite free-for-alls](https://www.pcgamer.com/watch-a-man-win-100-straight-halo-infinite-free-for-alls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
