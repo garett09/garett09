@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 supply meeting demand, customers opting for higher-end models](https://appleinsider.com/articles/21/12/30/iphone-13-supply-meeting-demand-customers-opting-for-higher-end-models?utm_medium=rss)
- - [Intel and Samsung’s new demo shows how blisteringly fast a PCIe 5.0 SSD setup will be](https://www.theverge.com/2021/12/30/22860374/intel-samsung-ces-2022-demo-pcie-5-0-ssd-setup-speed-test)
- - [OpenSea bans PHAYC and Phunky Ape Yacht Club, two NFT projects that are dueling over which is the authentic Bored Ape Yacht Club ripoff &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211230/p11#a211230p11)<!-- TECH:END -->
+ - [Ends Dec. 31: Apple&#39;s Mac mini with 16GB RAM is discounted to $749, in stock](https://appleinsider.com/articles/21/12/21/deal-alert-apples-mac-mini-with-16gb-ram-is-discounted-to-799-in-stock?utm_medium=rss)
+ - [Samsung’s leaked Galaxy S22 Ultra is just straight up a Galaxy Note now](https://www.theverge.com/2021/12/30/22860479/samsung-galaxy-s22-ultra-leak-official-image-note-design)
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Dec. 30&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
