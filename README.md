@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quite the tower!](http://9gag.com/gag/a91AnpZ)
- - 🚯 [&amp;ldquo;a lot of wishes&amp;rdquo;&amp;nbsp;](http://9gag.com/gag/a51nR0G)
+ - 🚖 [Got a confession to make](http://9gag.com/gag/aDDzg1N)
+ - 🚯 [Solo leveling finished](http://9gag.com/gag/aogO523)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
