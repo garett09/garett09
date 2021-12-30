@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two and a half men](http://9gag.com/gag/aggYYyn)
+ - 🚖 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
  - 🚯 [Time to break up](http://9gag.com/gag/a214r81)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
