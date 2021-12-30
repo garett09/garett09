@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Luke! I am your mother!](http://9gag.com/gag/avA7G75)
- - 🚯 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
+ - 🚖 [SnoopDog 504](http://9gag.com/gag/a8188AQ)
+ - 🚯 [The puddle at the gas station](http://9gag.com/gag/aWgqqg2)
  - 🚯 [I have downloaded the wrong Supergirl show](http://9gag.com/gag/aKmDVBW)<!-- MEMES:END -->
 
 --- 
