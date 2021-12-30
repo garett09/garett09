@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: What is the best gaming keyboard of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-gaming-keyboard-nominees)
- - [After years of crappy Hollywood adaptations, videogames finally found their home on Netflix](https://www.pcgamer.com/after-years-of-crappy-hollywood-adaptations-videogames-finally-found-their-home-on-netflix)
- - [Shuhei Yoshida’s favorite PlayStation indie games of 2021](https://blog.playstation.com/2021/12/30/shuhei-yoshidas-favorite-playstation-indie-games-of-2021/)<!-- GAME:END -->
+ - [The Tomb Raider Reboot Trilogy Is Currently Free On PC](https://kotaku.com/the-tomb-raider-reboot-trilogy-is-currently-free-on-pc-1848286866)
+ - [Halo Infinite Player Wins 100 Free-For-All Matches In A Row](https://kotaku.com/halo-infinite-player-wins-100-free-for-all-matches-in-a-1848286878)
+ - [The 10 best action scenes of 2021](https://www.polygon.com/22859125/best-action-movie-scenes-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
