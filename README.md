@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SnoopDog 504](http://9gag.com/gag/a8188AQ)
- - 🚯 [The puddle at the gas station](http://9gag.com/gag/aWgqqg2)
- - 🚯 [I have downloaded the wrong Supergirl show](http://9gag.com/gag/aKmDVBW)<!-- MEMES:END -->
+ - 🚖 [How do you name this illusion?](http://9gag.com/gag/aVxMMY2)
+ - 🚯 [Crazy drunk woman does not like this restaurant](http://9gag.com/gag/aXrvqV9)
+ - 🚯 [His voice is enough.](http://9gag.com/gag/aWgqqj2)<!-- MEMES:END -->
 
 --- 
 
