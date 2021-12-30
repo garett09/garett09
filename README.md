@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hood](http://9gag.com/gag/aegerzp)
- - 🚯 [&amp;ldquo;a lot of wishes&amp;rdquo;&amp;nbsp;](http://9gag.com/gag/a51nR0G)
+ - 🚖 [Bromance](http://9gag.com/gag/a91AEWo)
+ - 🚯 [Just a friendly reminder about not to underestimate fireworks, from 5y old me, to you.](http://9gag.com/gag/aBn8gND)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
