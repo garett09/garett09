@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six women who work at Foxconn&#39;s Indian iPhone plant describe crowded dorms and food crawling with worms, which sickened 250+ workers, leading to protests &lpar;Reuters&rpar;](http://www.techmeme.com/211230/p4#a211230p4)
- - [TikTok replaces Google as world&#39;s most popular website](https://techncruncher.blogspot.com/2021/12/tiktok-replaces-google-as-worlds-most.html)
- - [Apptopia: Amazon ranked #4 in global shopping app installs in 2021, down from first in 2020, as e-commerce apps Shopee and Shein rose to #1 and #2, respectively &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/211230/p3#a211230p3)<!-- TECH:END -->
+ - [The Rock Rejects Vin Diesel&#39;s Plea For Him To Join Fast &amp; Furious 10](https://techncruncher.blogspot.com/2021/12/the-rock-rejects-vin-diesels-plea-for.html)
+ - [Apple MacBook Pro buying guide: Which MacBook Pro should you buy?](https://www.androidauthority.com/macbook-pro-buying-guide-3075370/)
+ - [Elon Musk says SpaceX will land humans on Mars in 10 years in the worst-case scenario](https://techncruncher.blogspot.com/2021/12/elon-musk-says-spacex-will-land-humans.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
