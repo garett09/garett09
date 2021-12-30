@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ends Dec. 31: Apple&#39;s Mac mini with 16GB RAM is discounted to $749, in stock](https://appleinsider.com/articles/21/12/21/deal-alert-apples-mac-mini-with-16gb-ram-is-discounted-to-799-in-stock?utm_medium=rss)
- - [Samsung’s leaked Galaxy S22 Ultra is just straight up a Galaxy Note now](https://www.theverge.com/2021/12/30/22860479/samsung-galaxy-s22-ultra-leak-official-image-note-design)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Dec. 30&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
+ - [Samsung teases Exynos 2200 with AMD’s RDNA 2 graphics coming January 11th](https://www.theverge.com/2021/12/30/22860530/samsung-exynos-2200-amd-rdna-2-graphics-gpu-january-11th-teaser-chip)
+ - [Metaverse products from Meta, Microsoft, and others are just 3D virtual social spaces, and lack key features of the metaverse concept, chiefly interoperability &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/211230/p13#a211230p13)
+ - [Best action cameras of 2022     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
