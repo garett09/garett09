@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
- - [SenseTime closes up 7.3% in its Hong Kong trading debut after rising as much as 23%; the company raised $740M in its IPO at a $16.4B valuation &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/211230/p9#a211230p9)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Google pulls back the Pixel 6 and 6 Pro December update to fix dropped calls](https://www.theverge.com/2021/12/30/22860191/pixel-6-pro-google-december-feature-update-paused)
+ - [Wondercise Studio wants to replace Zoom for connected fitness classes](https://www.theverge.com/2021/12/30/22859827/wondercise-studio-connected-fitness-social-media)
+ - [Google paused the December Pixel 6 update, but is just admitting to it now](https://www.androidauthority.com/google-pixel-6-december-paused-3081810/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
