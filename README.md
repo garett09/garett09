@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)
- - [Jujutsu Kaisen 0 is gory, action-packed, and surprisingly welcoming to newcomers](https://www.polygon.com/reviews/22858251/jujutsu-kaisen-0-review)
- - [Here&#39;s a free visual novel about Communist Poland](https://www.pcgamer.com/heres-a-free-visual-novel-about-communist-poland)<!-- GAME:END -->
+ - [Asus announces a recall program for its Z690 Maximus Hero motherboards](https://www.pcgamer.com/asus-announces-a-recall-program-for-its-z690-maximus-hero-motherboards)
+ - [TikTok usurps Google as top website](https://www.pcgamer.com/tiktok-usurps-google-as-top-website)
+ - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
