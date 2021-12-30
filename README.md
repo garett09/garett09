@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A vehicle burned at Canoo’s headquarters after a battery test](https://www.theverge.com/2021/12/29/22846610/canoo-fire-california-august-startup-battery-lithium-ion)
- - [Fortnite servers are back online after a major outage that lasted over five hours prevented players from logging on, among other issues &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211229/p20#a211229p20)
- - [Fortnite servers were down for five hours, but now the game is back online](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)<!-- TECH:END -->
+ - [Didi Global reports Q3 revenues of $6.6B, down 11.5% QoQ, and a net loss of $4.7B, as China&#39;s cybersecurity probe forced many of its apps to be taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/211229/p21#a211229p21)
+ - [Tom Brady says the next sideline Surface he yeets will cost him](https://www.theverge.com/2021/12/29/22858818/microsoft-surface-nfl-tom-brady-fine-broken-tablet-football)
+ - [A vehicle burned at Canoo’s headquarters after a battery test](https://www.theverge.com/2021/12/29/22846610/canoo-fire-california-august-startup-battery-lithium-ion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
