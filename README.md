@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)
- - [Here are the most popular indie games on the Nintendo Switch in 2021](https://www.polygon.com/nintendo-switch/22858909/best-selling-indie-games-nintendo-switch-2021)
- - [Halo Infinite Dev Dishes About The Game’s Most Shocking Moment](https://kotaku.com/halo-infinite-dev-dishes-about-the-game-s-most-shocking-1848283685)<!-- GAME:END -->
+ - [Here&#39;s a free visual novel about Communist Poland](https://www.pcgamer.com/heres-a-free-visual-novel-about-communist-poland)
+ - [Try out the Cold War tactics of Regiments in its free playtest](https://www.pcgamer.com/try-out-the-cold-war-tactics-of-regiments-in-its-free-playtest)
+ - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
