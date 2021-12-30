@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Tomb Raider Reboot Trilogy Is Currently Free On PC](https://kotaku.com/the-tomb-raider-reboot-trilogy-is-currently-free-on-pc-1848286866)
- - [Halo Infinite Player Wins 100 Free-For-All Matches In A Row](https://kotaku.com/halo-infinite-player-wins-100-free-for-all-matches-in-a-1848286878)
- - [The 10 best action scenes of 2021](https://www.polygon.com/22859125/best-action-movie-scenes-2021)<!-- GAME:END -->
+ - [Trans Jeopardy! Champ Breaks Records, Becomes Highest Earning Woman In Show History](https://kotaku.com/trans-jeopardy-champ-breaks-records-becomes-highest-e-1848287251)
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
+ - [The Tomb Raider Reboot Trilogy Is Currently Free On PC](https://kotaku.com/the-tomb-raider-reboot-trilogy-is-currently-free-on-pc-1848286866)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
