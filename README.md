@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi Global reports Q3 revenues of $6.6B, down 11.5% QoQ, and a net loss of $4.7B, as China&#39;s cybersecurity probe forced many of its apps to be taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/211229/p21#a211229p21)
- - [Tom Brady says the next sideline Surface he yeets will cost him](https://www.theverge.com/2021/12/29/22858818/microsoft-surface-nfl-tom-brady-fine-broken-tablet-football)
- - [A vehicle burned at Canoo’s headquarters after a battery test](https://www.theverge.com/2021/12/29/22846610/canoo-fire-california-august-startup-battery-lithium-ion)<!-- TECH:END -->
+ - [Samsung sold more foldables in Galaxy Z Fold 3&#39;s launch month than in all of 2020     - CNET](https://www.cnet.com/tech/mobile/samsung-sold-more-foldables-in-galaxy-z-fold-3s-launch-month-than-in-all-of-2020/#ftag=CAD590a51e)
+ - [SpaceX Starship&#39;s first trip to space pushed back by FAA     - CNET](https://www.cnet.com/news/spacex-starships-first-trip-to-space-pushed-back-by-faa/#ftag=CAD590a51e)
+ - [Fortnite back up after hours-long outage     - CNET](https://www.cnet.com/tech/gaming/fortnite-back-up-after-hours-long-outage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
