@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor Magic V specs leak: A Snapdragon 8 Gen 1 foldable with swift screens?](https://www.androidauthority.com/honor-magic-v-specs-3081548/)
- - [Best Windows laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
- - [Samsung cuts output at its two fabs in Xi&#39;an, China, which account for 42.5% of its NAND production volume, amid COVID-19 lockdown; Micron output also affected &lpar;Reuters&rpar;](http://www.techmeme.com/211230/p2#a211230p2)<!-- TECH:END -->
+ - [Six women who work at Foxconn&#39;s Indian iPhone plant describe crowded dorms and food crawling with worms, which sickened 250+ workers, leading to protests &lpar;Reuters&rpar;](http://www.techmeme.com/211230/p4#a211230p4)
+ - [TikTok replaces Google as world&#39;s most popular website](https://techncruncher.blogspot.com/2021/12/tiktok-replaces-google-as-worlds-most.html)
+ - [Apptopia: Amazon ranked #4 in global shopping app installs in 2021, down from first in 2020, as e-commerce apps Shopee and Shein rose to #1 and #2, respectively &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/211230/p3#a211230p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
