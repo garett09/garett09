@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mission: Impossible movies ranked: Which one is the best?](https://www.androidauthority.com/mission-impossible-movies-ranked-3079470/)
- - [Apple&#39;s September 2021 in review: New iPhones, iPads, and more legal woes](https://appleinsider.com/articles/21/10/02/new-iphones-new-ipads-and-new-legal-woes----september-2021-in-review?utm_medium=rss)
- - [Plans to capture CO2 from coal plants wasted federal dollars, watchdog says](https://www.theverge.com/2021/12/30/22860207/carbon-capture-coal-plants-wasted-federal-dollars-watchdog-gao)<!-- TECH:END -->
+ - [iPhone 13 supply meeting demand, customers opting for higher-end models](https://appleinsider.com/articles/21/12/30/iphone-13-supply-meeting-demand-customers-opting-for-higher-end-models?utm_medium=rss)
+ - [Intel and Samsung’s new demo shows how blisteringly fast a PCIe 5.0 SSD setup will be](https://www.theverge.com/2021/12/30/22860374/intel-samsung-ces-2022-demo-pcie-5-0-ssd-setup-speed-test)
+ - [OpenSea bans PHAYC and Phunky Ape Yacht Club, two NFT projects that are dueling over which is the authentic Bored Ape Yacht Club ripoff &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211230/p11#a211230p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
