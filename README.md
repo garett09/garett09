@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your asian friend flexing his spices collection](http://9gag.com/gag/aLv8gYM)
- - 🚯 [Please](http://9gag.com/gag/adg9LPd)
+ - 🚖 [Might have to double check](http://9gag.com/gag/aGzeZBZ)
+ - 🚯 [Highways have these runaway ramp for vehicles without brakes](http://9gag.com/gag/a41GR7w)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
