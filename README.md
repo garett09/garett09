@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His voice is enough.](http://9gag.com/gag/aWgqqj2)
- - 🚯 [The King has spoken!!!!](http://9gag.com/gag/aWgqm4d)
+ - 🚖 [Trees look prettier tho, I&amp;rsquo;ll give them that. But we&amp;rsquo;re wasting resources.](http://9gag.com/gag/abgzM2b)
+ - 🚯 [My life was a lie.](http://9gag.com/gag/avA7Oyq)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
