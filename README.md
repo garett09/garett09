@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s photo-focused Xperia 1 III is down to its best price yet](https://www.theverge.com/good-deals/2021/12/30/22858521/sony-xperia-1-iii-smartphone-apple-airpods-max-ecobee-smart-thermostat-samsung-980-pro-ssd-deal-sale)
- - [Best deals Dec. 30: $479 AirPods Max, $197 AirPods Pro, $250 off Bowflex dumbells, more!](https://appleinsider.com/articles/21/12/30/best-deals-dec-30-479-airpods-max-197-airpods-pro-250-off-bowflex-dumbells-more?utm_medium=rss)
- - [11 great apps for your new Windows 11 PC](https://www.theverge.com/22837232/windows-11-pc-best-apps-microsoft-2021)<!-- TECH:END -->
+ - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
+ - [Apple shifted orders from Foxconn to Luxshare to assist $275B China deal](https://appleinsider.com/articles/21/12/30/apple-shifted-orders-from-foxconn-to-luxshare-to-assist-275b-china-deal?utm_medium=rss)
+ - [LastPass denies claims that master passwords may have been compromised](https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
