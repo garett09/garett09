@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father of the year goes to Prince Andrew for the time he invited three sex offenders to his daughter&amp;#039;s 18th birthday party](http://9gag.com/gag/aAGD32o)
- - 🚯 [Birdie](http://9gag.com/gag/adg9Lgd)
+ - 🚖 [When your asian friend flexing his spices collection](http://9gag.com/gag/aLv8gYM)
+ - 🚯 [Please](http://9gag.com/gag/adg9LPd)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
