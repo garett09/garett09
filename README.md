@@ -179,8 +179,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shuhei Yoshida’s favorite PlayStation indie games of 2021](https://blog.playstation.com/2021/12/30/shuhei-yoshidas-favorite-playstation-indie-games-of-2021/)
- - [Placement games were 2021’s most calming trend](https://www.polygon.com/22858564/placement-games-unpacking-dorfromantik-xbox-game-pass-pc-series-x)
+ - [PC Gamer Hardware Awards: What is the best gaming keyboard of 2021?](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-gaming-keyboard-nominees)
+ - [After years of crappy Hollywood adaptations, videogames finally found their home on Netflix](https://www.pcgamer.com/after-years-of-crappy-hollywood-adaptations-videogames-finally-found-their-home-on-netflix)
  - [Shuhei Yoshida’s favorite PlayStation indie games of 2021](https://blog.playstation.com/2021/12/30/shuhei-yoshidas-favorite-playstation-indie-games-of-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
