@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite told players they ‘don’t have permission to play’ just before the servers went offline](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)
- - [30 of the best offers on games, and more of the latest Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)
- - [Google, Microsoft, and Oracle invest in potential cloud clients to beat AWS; Google claims 6% cloud market share, behind AWS at 41% and Microsoft at 20% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211229/p18#a211229p18)<!-- TECH:END -->
+ - [A vehicle burned at Canoo’s headquarters after a battery test](https://www.theverge.com/2021/12/29/22846610/canoo-fire-california-august-startup-battery-lithium-ion)
+ - [Fortnite servers are back online after a major outage that lasted over five hours prevented players from logging on, among other issues &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211229/p20#a211229p20)
+ - [Fortnite servers were down for five hours, but now the game is back online](https://www.theverge.com/2021/12/29/22858478/fortnite-down-servers-offline-banned-epic-games-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
