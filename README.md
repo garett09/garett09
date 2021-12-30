@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung cuts output at its two fabs in Xi&#39;an, China, which account for 42.5% of its NAND production volume, amid COVID-19 lockdown; Micron output also affected &lpar;Reuters&rpar;](http://www.techmeme.com/211230/p2#a211230p2)
  - [Samsung Galaxy S21 FE case options spill in yet another leak](https://www.androidauthority.com/samsung-galaxy-s21-fe-cases-3081537/)
- - [South Korea tells Apple and Google to remove play-to-earn games, which require in-app purchases before playing, from their app stores &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/211230/p1#a211230p1)
- - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see &lpar;Updated: Dec. 30&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
+ - [South Korea tells Apple and Google to remove play-to-earn games, which require in-app purchases before playing, from their app stores &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/211230/p1#a211230p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
