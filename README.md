@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My life was a lie.](http://9gag.com/gag/avA7Oyq)
- - 🚯 [Actually, you look like a sack or butts](http://9gag.com/gag/a71DMxq)
+ - 🚖 [Trees look prettier tho, I&amp;rsquo;ll give them that. But we&amp;rsquo;re wasting resources.](http://9gag.com/gag/abgzM2b)
+ - 🚯 [I wonder what&amp;#039;s the next big deal in a couple of years](http://9gag.com/gag/a11KQev)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
