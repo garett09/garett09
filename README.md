@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 best Android apps released in 2021](https://www.androidauthority.com/best-android-apps-2021-3079963/)
- - [Amazon has PS5 consoles in stock again &lpar;update: sold out&rpar;](https://www.theverge.com/2021/12/30/22856985/sony-playstation-5-amazon-disc-edition-console-restock-availability)
- - [Best Fitbit deals: $100 off Sense Advanced, $50 off Versa 2 and more     - CNET](https://www.cnet.com/health/fitness/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last call: $749 Mac mini 16GB, $979 iMac, $200 off MacBook Air, $300 off MacBook Pro, more](https://appleinsider.com/articles/21/12/29/last-call-749-mac-mini-16gb-979-imac-200-off-macbook-air-300-off-macbook-pro-more?utm_medium=rss)
+ - [SenseTime closes up 7.3% in its Hong Kong trading debut after rising as much as 23%; the company raised $740M in its IPO at a $16.4B valuation &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/211230/p9#a211230p9)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
