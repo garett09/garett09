@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trans Jeopardy! Champ Breaks Records, Becomes Highest Earning Woman In Show History](https://kotaku.com/trans-jeopardy-champ-breaks-records-becomes-highest-e-1848287251)
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
- - [The Tomb Raider Reboot Trilogy Is Currently Free On PC](https://kotaku.com/the-tomb-raider-reboot-trilogy-is-currently-free-on-pc-1848286866)<!-- GAME:END -->
+ - [Tomb Raider trilogy is free on Epic Games Store](https://www.polygon.com/22860124/tomb-raider-rise-shadow-free-epic-games-store-dates)
+ - [Trans Jeopardy! Champ Breaks Records, Becomes Highest-Earning Woman In Show History](https://kotaku.com/trans-jeopardy-champ-breaks-records-becomes-highest-e-1848287251)
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
