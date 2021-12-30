@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite is offline, but Epic says it’s working on it](https://www.polygon.com/fortnite/22859116/fortnite-servers-down-offline-epic-games-back-up)
  - [Jujutsu Kaisen 0 is gory, action-packed, and surprisingly welcoming to newcomers](https://www.polygon.com/reviews/22858251/jujutsu-kaisen-0-review)
- - [Here&#39;s a free visual novel about Communist Poland](https://www.pcgamer.com/heres-a-free-visual-novel-about-communist-poland)
- - [Try out the Cold War tactics of Regiments in its free playtest](https://www.pcgamer.com/try-out-the-cold-war-tactics-of-regiments-in-its-free-playtest)<!-- GAME:END -->
+ - [Here&#39;s a free visual novel about Communist Poland](https://www.pcgamer.com/heres-a-free-visual-novel-about-communist-poland)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
