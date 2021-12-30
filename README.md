@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see &lpar;Updated: Dec. 30&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)
  - [Intel closes the first phase of the sale of its SSD and NAND businesses to SK hynix and says SK hynix&#39;s Solidigm subsidiary will operate the Dalian fab in China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211229/p23#a211229p23)
- - [Shares of SenseTime, China&#39;s most valuable AI startup, rose 23% in early trading, after the company raised $740M in its Hong Kong IPO at a $16.4B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/211229/p22#a211229p22)
- - [Samsung says it sold more foldables in Galaxy Z Fold 3&#39;s launch month than in all of 2020     - CNET](https://www.cnet.com/tech/mobile/samsung-sold-more-foldables-in-galaxy-z-fold-3s-launch-month-than-in-all-of-2020/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shares of SenseTime, China&#39;s most valuable AI startup, rose 23% in early trading, after the company raised $740M in its Hong Kong IPO at a $16.4B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/211229/p22#a211229p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
