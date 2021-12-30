@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SnoopDog 504](http://9gag.com/gag/a8188AQ)
- - 🚯 [Two and a half men](http://9gag.com/gag/aggYYyn)
+ - 🚖 [Two and a half men](http://9gag.com/gag/aggYYyn)
+ - 🚯 [Time to break up](http://9gag.com/gag/a214r81)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
