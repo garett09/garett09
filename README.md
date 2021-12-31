@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&amp;#039;s always a provoker](http://9gag.com/gag/aLv8vqz)
- - 🚯 [Murica](http://9gag.com/gag/aOQBQ32)
- - 🚯 [Life hack](http://9gag.com/gag/aWgqgEK)<!-- MEMES:END -->
+ - 🚖 [Life hack](http://9gag.com/gag/aWgqgEK)
+ - 🚯 [And people say Norway has the nicest prison.](http://9gag.com/gag/a11K1Db)
+ - 🚯 [She didn&amp;#039;t kill herself](http://9gag.com/gag/aZrgyYp)<!-- MEMES:END -->
 
 --- 
 
