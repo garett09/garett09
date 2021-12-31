@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A very brave man](http://9gag.com/gag/aLv8p2x)
- - 🚯 [And people say Norway has the nicest prison.](http://9gag.com/gag/a11K1Db)
- - 🚯 [Murica](http://9gag.com/gag/aOQBQ32)<!-- MEMES:END -->
+ - 🚖 [Murica](http://9gag.com/gag/aOQBQ32)
+ - 🚯 [Thank goodness.](http://9gag.com/gag/aLv8poM)
+ - 🚯 [Hmm...](http://9gag.com/gag/arn5njV)<!-- MEMES:END -->
 
 --- 
 
