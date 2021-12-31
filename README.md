@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kill bizarre demons and use their blood as paint in mad roguelike Brutal Orchestra](https://www.pcgamer.com/kill-bizarre-demons-and-use-their-blood-as-paint-in-mad-roguelike-brutal-orchestra)
  - [29 Games Coming Out In 2022 That We&#39;re Excited To Play](https://kotaku.com/29-games-coming-out-in-2022-that-were-excited-to-play-1848291988)
- - [Crash on, survive, and terraform an alien world in The Planet Crafter&#39;s free demo](https://www.pcgamer.com/crash-on-survive-and-terraform-an-alien-world-in-the-planet-crafters-free-demo)
- - [The Paris Hilton Roblox DJ set and every other thing you can watch to ring in New Year’s Eve](https://www.polygon.com/2021/12/31/22861395/new-years-eve-2021-watch-ball-drop-live-tv-specials-concerts)<!-- GAME:END -->
+ - [Crash on, survive, and terraform an alien world in The Planet Crafter&#39;s free demo](https://www.pcgamer.com/crash-on-survive-and-terraform-an-alien-world-in-the-planet-crafters-free-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
