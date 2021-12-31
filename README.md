@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Murica](http://9gag.com/gag/aOQBQ32)
- - 🚯 [Thank goodness.](http://9gag.com/gag/aLv8poM)
- - 🚯 [Hmm...](http://9gag.com/gag/arn5njV)<!-- MEMES:END -->
+ - 🚖 [There&amp;#039;s always a provoker](http://9gag.com/gag/aLv8vqz)
+ - 🚯 [Murica](http://9gag.com/gag/aOQBQ32)
+ - 🚯 [Life hack](http://9gag.com/gag/aWgqgEK)<!-- MEMES:END -->
 
 --- 
 
