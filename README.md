@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung teases Exynos 2200 with AMD’s RDNA 2 graphics coming January 11th](https://www.theverge.com/2021/12/30/22860530/samsung-exynos-2200-amd-rdna-2-graphics-gpu-january-11th-teaser-chip)
- - [Metaverse products from Meta, Microsoft, and others are just 3D virtual social spaces, and lack key features of the metaverse concept, chiefly interoperability &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/211230/p13#a211230p13)
- - [Best action cameras of 2022     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Canon’s flagship DSLR line will end with the EOS-1D X Mark III, eventually](https://www.theverge.com/2021/12/30/22860537/canon-dslr-mirrorless-eos-1d-x-mark-iii-development-production-end)
+ - [Umee, which is building a &quot;cross chain DeFi hub&quot; with interoperable tools that work across blockchains, raises $32M by selling its UMEE tokens &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/211230/p14#a211230p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
