@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to watch all the Spider-Man movies: Far From Home, Into the Spider-Verse and more     - CNET](https://www.cnet.com/news/where-to-watch-all-the-spider-man-movies-far-from-home-into-the-spider-verse-and-more/#ftag=CAD590a51e)
  - [Devices running BlackBerry 10 or OS 7.1 and earlier will lose key services like calling, texting, data usage, and 911 access starting January 4 &lpar;Brad Linder/Liliputing&rpar;](http://www.techmeme.com/211230/p16#a211230p16)
- - [Best gaming laptops for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Best wheel cleaner for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-wheel-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best gaming laptops for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
