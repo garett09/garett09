@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Next year i will get my life together...](http://9gag.com/gag/aLv8zK5)
- - 🚯 [I wonder where,Hmm?](http://9gag.com/gag/aBn8ZwA)
- - 🚯 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)<!-- MEMES:END -->
+ - 🚖 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)
+ - 🚯 [After years of saving up, getting a loan from the bank and suffering several drawbacks, I could afford this house](http://9gag.com/gag/aPZ9m8G)
+ - 🚯 [I pay the internet to laugh, bastard](http://9gag.com/gag/a8187OZ)<!-- MEMES:END -->
 
 --- 
 
