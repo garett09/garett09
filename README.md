@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat moon jumping to the 4th dimension](http://9gag.com/gag/axB0oOK)
- - 🚯 [Hmm...](http://9gag.com/gag/arn5njV)
- - 🚯 [Not thicc, fat](http://9gag.com/gag/abgzvEX)<!-- MEMES:END -->
+ - 🚖 [The Council of Men](http://9gag.com/gag/aegeQOv)
+ - 🚯 [Spoiler alert for all natural disaster themed movies](http://9gag.com/gag/aVxMvwP)
+ - 🚯 [O yeah, it&amp;#039;s that time of the year - to my Slav brothers and all sarma loverrs, u slast i dobar Vam tek!](http://9gag.com/gag/aGzeyRK)<!-- MEMES:END -->
 
 --- 
 
