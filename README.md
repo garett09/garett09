@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram ends off 2021 with a bumper feature update](https://www.androidauthority.com/telegram-spoiler-reaction-update-3082029/)
- - [Tesla&#39;s software engineering expertise let it navigate the global chip shortage by rewriting software to use alternative chips in its cars &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/211231/p1#a211231p1)
- - [Pluto should be reclassified as a planet, Scientists reclaimed](https://techncruncher.blogspot.com/2021/12/pluto-should-be-reclassified-as-planet.html)<!-- TECH:END -->
+ - [Gamers! Protect your precious tendons with this tabletop hand massager](https://www.theverge.com/2021/12/31/22861124/tabletop-hand-massager-for-gamers-bauhutte)
+ - [Missing iPhone texts and notifications are frustrating: These fixes could help     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-texts-and-notifications-are-frustrating-these-fixes-could-help/#ftag=CAD590a51e)
+ - [Telegram ends off 2021 with a bumper feature update](https://www.androidauthority.com/telegram-spoiler-reaction-update-3082029/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
