@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JAPAN AIMS TO PUT A PERSON ON THE MOON BY LATE 2020S](https://techncruncher.blogspot.com/2021/12/japan-aims-to-put-person-on-moon-by.html)
- - [Apple&#39;s 2021 in review with Jason Aten on the AppleInsider podcast](https://appleinsider.com/articles/21/12/31/apples-2021-in-review-with-jason-aten-on-the-appleinsider-podcast?utm_medium=rss)
- - [What to expect from next-gen mobile processors in 2022](https://www.androidauthority.com/mobile-processors-2022-2741344/)<!-- TECH:END -->
+ - [Apple’s latest iPad is back down to its best price at Amazon](https://www.theverge.com/good-deals/2021/12/31/22859709/apple-ipad-air-tablet-nanoleaf-lighting-elements-shapes-sennheiser-momentum-headphones-deal-sale)
+ - [2021: A year in art on The Verge](https://www.theverge.com/c/22829680/2021-art-illustrations-photography-verge-roundup)
+ - [10 great games to play on your new VR headset](https://www.theverge.com/22822271/vr-virtual-reality-best-games-2021-vive-rift-quest-oculus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
