@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [None of my so-called friend came, so happy pre new year \u270a\u270a](http://9gag.com/gag/amg2oZX)
- - 🚯 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)
- - 🚯 [I wonder where,Hmm?](http://9gag.com/gag/aBn8ZwA)<!-- MEMES:END -->
+ - 🚖 [Next year i will get my life together...](http://9gag.com/gag/aLv8zK5)
+ - 🚯 [I wonder where,Hmm?](http://9gag.com/gag/aBn8ZwA)
+ - 🚯 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)<!-- MEMES:END -->
 
 --- 
 
