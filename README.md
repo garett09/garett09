@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of the Year 2021: Valheim](https://www.pcgamer.com/game-of-the-year-2021-valheim)
- - [2021 is the year I fell in love with Genshin—and the year it lost its impact](https://www.pcgamer.com/2021-is-the-year-i-fell-in-love-with-genshinand-the-year-it-lost-its-impact)
- - [Here&#39;s a game about selling maple syrup to soup up your trashy car for street racing](https://www.pcgamer.com/heres-a-game-about-selling-maple-syrup-to-soup-up-your-trashy-car-for-street-racing)<!-- GAME:END -->
+ - [Manga Piracy Has Increased During The Pandemic](https://kotaku.com/manga-piracy-has-increased-during-the-pandemic-1848290343)
+ - [The biggest games by install size, real mighty storage hogs](https://www.pcgamer.com/biggest-game-install-sizes)
+ - [Game of the Year 2021: Valheim](https://www.pcgamer.com/game-of-the-year-2021-valheim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
