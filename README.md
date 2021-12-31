@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Council of Men](http://9gag.com/gag/aegeQOv)
- - 🚯 [Spoiler alert for all natural disaster themed movies](http://9gag.com/gag/aVxMvwP)
+ - 🚖 [%100](http://9gag.com/gag/arn5yqp)
+ - 🚯 [Happy new year anyway.](http://9gag.com/gag/a214v8p)
  - 🚯 [O yeah, it&amp;#039;s that time of the year - to my Slav brothers and all sarma loverrs, u slast i dobar Vam tek!](http://9gag.com/gag/aGzeyRK)<!-- MEMES:END -->
 
 --- 
