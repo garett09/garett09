@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram ends off 2021 with a bumper feature update](https://www.androidauthority.com/telegram-spoiler-reaction-update-3082029/)
  - [Tesla&#39;s software engineering expertise let it navigate the global chip shortage by rewriting software to use alternative chips in its cars &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/211231/p1#a211231p1)
- - [Pluto should be reclassified as a planet, Scientists reclaimed](https://techncruncher.blogspot.com/2021/12/pluto-should-be-reclassified-as-planet.html)
- - [F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters](https://techncruncher.blogspot.com/2021/12/fda-plans-to-allow-12-to-15-year-olds.html)<!-- TECH:END -->
+ - [Pluto should be reclassified as a planet, Scientists reclaimed](https://techncruncher.blogspot.com/2021/12/pluto-should-be-reclassified-as-planet.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
