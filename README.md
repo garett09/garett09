@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s hard party time !!](http://9gag.com/gag/aAGD6z9)
- - 🚯 [Rest in peace, she lived a long life and was a few weeks from turning 100. Rip betty white.](http://9gag.com/gag/a2148Y9)
- - 🚯 [Dogs and their owners on New Year&amp;#039;s Eve](http://9gag.com/gag/aRrj4gA)<!-- MEMES:END -->
+ - 🚖 [This is what 26 seconds of brrrrtttt sounds like](http://9gag.com/gag/aYr4E10)
+ - 🚯 [It&amp;#039;s hard party time !!](http://9gag.com/gag/aAGD6z9)
+ - 🚯 [Just a short reminder of how the irresponsible use of firecrackers and petards can end... Stay safe and happy new year to Everybody!](http://9gag.com/gag/aQXevOr)<!-- MEMES:END -->
 
 --- 
 
