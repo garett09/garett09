@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [None of my so-called friend came, so happy pre new year \u270a\u270a](http://9gag.com/gag/amg2oZX)
- - 🚯 [I used to Netflix and chill, but now I flex with my PLEX](http://9gag.com/gag/aOQB87E)
- - 🚯 [Orangutan drives a golf car](http://9gag.com/gag/aM4AVOG)<!-- MEMES:END -->
+ - 🚯 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)
+ - 🚯 [I wonder where,Hmm?](http://9gag.com/gag/aBn8ZwA)<!-- MEMES:END -->
 
 --- 
 
