@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A program for cheaper internet for low-income Americans launches today](https://www.theverge.com/2021/12/31/22861200/application-now-open-discounted-internet-bills-fcc-affordable-connectivity-program)
- - [A number of women who believe they were tracked with AirTags say Apple&#39;s safeguards against stalking are insufficient &lpar;New York Times&rpar;](http://www.techmeme.com/211231/p3#a211231p3)
- - [The governor of Missouri still doesn’t know how websites work](https://www.theverge.com/2021/12/31/22861188/missouri-governor-mike-parson-hack-website-source-code)<!-- TECH:END -->
+ - [5 smartphone features and design trends I don’t miss at all](https://www.androidauthority.com/old-smartphone-features-3074049/)
+ - [The best HP laptop deals of January 2022](https://www.androidauthority.com/hp-laptop-deals-1123504/)
+ - [Best price ever on Apple&#39;s Mac mini with 16GB RAM ends today](https://appleinsider.com/articles/21/12/31/best-price-ever-on-apples-mac-mini-with-16gb-ram-ends-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
