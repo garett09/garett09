@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES will end a day earlier, on January 7, as an &quot;additional&quot; COVID-19 safety measure, after Google, Microsoft, and other big companies canceled in-person plans &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/211231/p7#a211231p7)
- - [‘Serious’ talk between Joe Biden, Putin sets stage for diplomacy](https://techncruncher.blogspot.com/2022/01/serious-talk-between-joe-biden-putin.html)
- - [Truck driver’s 110-year sentence reduced after US outcry](https://techncruncher.blogspot.com/2022/01/truck-drivers-110-year-sentence-reduced.html)<!-- TECH:END -->
+ - [Zombie BlackBerry phones will finally die off in early 2022](https://appleinsider.com/articles/21/12/31/zombie-blackberry-phones-will-finally-die-off-in-early-2022?utm_medium=rss)
+ - [What’s new on Hulu in January 2022: How I Met Your Father and more](https://www.androidauthority.com/new-on-hulu-939207/)
+ - [Your orange cat isn&#39;t any dumber than its feline friends: Busting cat-color myths     - CNET](https://www.cnet.com/news/your-orange-cat-isnt-any-dumber-than-its-feline-friends-busting-cat-color-myths/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
