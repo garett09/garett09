@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPad is back down to its best price at Amazon](https://www.theverge.com/good-deals/2021/12/31/22859709/apple-ipad-air-tablet-nanoleaf-lighting-elements-shapes-sennheiser-momentum-headphones-deal-sale)
- - [2021: A year in art on The Verge](https://www.theverge.com/c/22829680/2021-art-illustrations-photography-verge-roundup)
- - [10 great games to play on your new VR headset](https://www.theverge.com/22822271/vr-virtual-reality-best-games-2021-vive-rift-quest-oculus)<!-- TECH:END -->
+ - [5 things we want to see from Samsung in 2022](https://www.androidauthority.com/samsung-2022-3072246/)
+ - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)
+ - [India antitrust regulator launches probe into Apple App Store payments](https://appleinsider.com/articles/21/12/31/india-antitrust-regulator-launches-probe-into-apple-app-store-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
