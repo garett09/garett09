@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evolution](http://9gag.com/gag/a818GB6)
- - 🚯 [British beans with warm beer](http://9gag.com/gag/a61VEgq)
+ - 🚖 [British beans with warm beer](http://9gag.com/gag/a61VEgq)
+ - 🚯 [We wish you a Merry Christmas!](http://9gag.com/gag/aZrgyV0)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
