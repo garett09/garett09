@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Canon’s flagship DSLR line will end with the EOS-1D X Mark III, eventually](https://www.theverge.com/2021/12/30/22860537/canon-dslr-mirrorless-eos-1d-x-mark-iii-development-production-end)
- - [Umee, which is building a &quot;cross chain DeFi hub&quot; with interoperable tools that work across blockchains, raises $32M by selling its UMEE tokens &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/211230/p14#a211230p14)<!-- TECH:END -->
+ - [Epic Games Store closes out 15 days of free games by giving away the Tomb Raider trilogy](https://www.theverge.com/2021/12/30/22860657/tomb-raider-reboot-trilogy-free-epic-games-store-pc)
+ - [African tech startups raised a record $4B+ in 2021, more than 2019 and 2020 combined, with more $100M+ rounds than ever before &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211230/p15#a211230p15)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
