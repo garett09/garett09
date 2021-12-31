@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Matrix Resurrections is not a sequel — it’s a video game remake](https://www.polygon.com/22860430/matrix-resurrections-final-fantasy-7-remake-reboot-sequel-video-game)
  - [PC Gamer Hardware Awards 2021: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-winners)
- - [Before Your Eyes tells a brilliant story about regret, our legacies, and the afterlife](https://www.polygon.com/22860260/before-your-eyes-windows-pc-mac-webcam-best-games-of-2021)
- - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)<!-- GAME:END -->
+ - [Before Your Eyes tells a brilliant story about regret, our legacies, and the afterlife](https://www.polygon.com/22860260/before-your-eyes-windows-pc-mac-webcam-best-games-of-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
