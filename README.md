@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we want to see from Samsung in 2022](https://www.androidauthority.com/samsung-2022-3072246/)
- - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)
- - [India antitrust regulator launches probe into Apple App Store payments](https://appleinsider.com/articles/21/12/31/india-antitrust-regulator-launches-probe-into-apple-app-store-payments?utm_medium=rss)<!-- TECH:END -->
+ - [A program for cheaper internet for low-income Americans launches today](https://www.theverge.com/2021/12/31/22861200/application-now-open-discounted-internet-bills-fcc-affordable-connectivity-program)
+ - [A number of women who believe they were tracked with AirTags say Apple&#39;s safeguards against stalking are insufficient &lpar;New York Times&rpar;](http://www.techmeme.com/211231/p3#a211231p3)
+ - [The governor of Missouri still doesn’t know how websites work](https://www.theverge.com/2021/12/31/22861188/missouri-governor-mike-parson-hack-website-source-code)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
