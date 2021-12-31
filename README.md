@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a game about selling maple syrup to soup up your trashy car for street racing](https://www.pcgamer.com/heres-a-game-about-selling-maple-syrup-to-soup-up-your-trashy-car-for-street-racing)
- - [12 Recent Games To Play When You Want A Great Story Or Characters](https://kotaku.com/12-recent-games-to-play-when-you-want-a-great-story-or-1848288614)
- - [Superheroes and soccer will collide in Super Buckyball Tournament — but when?](https://www.polygon.com/22860468/super-buckyball-tournament-preview-steam-early-access-release-date)<!-- GAME:END -->
+ - [Game of the Year 2021: Valheim](https://www.pcgamer.com/game-of-the-year-2021-valheim)
+ - [2021 is the year I fell in love with Genshin—and the year it lost its impact](https://www.pcgamer.com/2021-is-the-year-i-fell-in-love-with-genshinand-the-year-it-lost-its-impact)
+ - [Here&#39;s a game about selling maple syrup to soup up your trashy car for street racing](https://www.pcgamer.com/heres-a-game-about-selling-maple-syrup-to-soup-up-your-trashy-car-for-street-racing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
