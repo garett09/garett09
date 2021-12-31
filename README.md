@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCIENTISTS TO TEST HIGH DEXAMETHASONE DOSES IN COVID-19 PATIENTS](https://techncruncher.blogspot.com/2021/12/scientists-to-test-high-dexamethasone.html)
- - [Save Money on Subscriptions Thanks to This iOS Loophole](https://www.wired.com/story/iphone-subscriptions-save-money)
- - [Covid Will Become Endemic. The World Must Decide What That Means](https://www.wired.com/story/covid-will-become-endemic-the-world-must-decide-what-that-means)<!-- TECH:END -->
+ - [JAPAN AIMS TO PUT A PERSON ON THE MOON BY LATE 2020S](https://techncruncher.blogspot.com/2021/12/japan-aims-to-put-person-on-moon-by.html)
+ - [Apple&#39;s 2021 in review with Jason Aten on the AppleInsider podcast](https://appleinsider.com/articles/21/12/31/apples-2021-in-review-with-jason-aten-on-the-appleinsider-podcast?utm_medium=rss)
+ - [What to expect from next-gen mobile processors in 2022](https://www.androidauthority.com/mobile-processors-2022-2741344/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
