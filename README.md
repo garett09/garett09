@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British beans with warm beer](http://9gag.com/gag/a61VEgq)
- - 🚯 [A very brave man](http://9gag.com/gag/aLv8p2x)
+ - 🚖 [A very brave man](http://9gag.com/gag/aLv8p2x)
+ - 🚯 [And people say Norway has the nicest prison.](http://9gag.com/gag/a11K1Db)
  - 🚯 [Murica](http://9gag.com/gag/aOQBQ32)<!-- MEMES:END -->
 
 --- 
