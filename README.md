@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [British beans with warm beer](http://9gag.com/gag/a61VEgq)
- - 🚯 [We wish you a Merry Christmas!](http://9gag.com/gag/aZrgyV0)
- - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
+ - 🚯 [A very brave man](http://9gag.com/gag/aLv8p2x)
+ - 🚯 [Murica](http://9gag.com/gag/aOQBQ32)<!-- MEMES:END -->
 
 --- 
 
