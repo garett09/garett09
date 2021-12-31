@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Fold updates: The original foldable gains One UI 4](https://www.androidauthority.com/samsung-galaxy-fold-update-1098568/)
  - [Mexico&#39;s central bank plans to issue its own digital currency by 2024, joining Brazil and Peru as Latin American countries working on developing CBDCs &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/211230/p17#a211230p17)
- - [Where to watch all the Spider-Man movies: Far From Home, Into the Spider-Verse and more     - CNET](https://www.cnet.com/news/where-to-watch-all-the-spider-man-movies-far-from-home-into-the-spider-verse-and-more/#ftag=CAD590a51e)
- - [Devices running BlackBerry 10 or OS 7.1 and earlier will lose key services like calling, texting, data usage, and 911 access starting January 4 &lpar;Brad Linder/Liliputing&rpar;](http://www.techmeme.com/211230/p16#a211230p16)<!-- TECH:END -->
+ - [Where to watch all the Spider-Man movies: Far From Home, Into the Spider-Verse and more     - CNET](https://www.cnet.com/news/where-to-watch-all-the-spider-man-movies-far-from-home-into-the-spider-verse-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
