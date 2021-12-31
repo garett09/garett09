@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla&#39;s software engineering expertise let it navigate the global chip shortage by rewriting software to use alternative chips in its cars &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/211231/p1#a211231p1)
  - [Pluto should be reclassified as a planet, Scientists reclaimed](https://techncruncher.blogspot.com/2021/12/pluto-should-be-reclassified-as-planet.html)
- - [F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters](https://techncruncher.blogspot.com/2021/12/fda-plans-to-allow-12-to-15-year-olds.html)
- - [Samsung Galaxy Fold updates: The original foldable gains One UI 4](https://www.androidauthority.com/samsung-galaxy-fold-update-1098568/)<!-- TECH:END -->
+ - [F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters](https://techncruncher.blogspot.com/2021/12/fda-plans-to-allow-12-to-15-year-olds.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
