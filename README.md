@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Videogames were an explosion of colour in an otherwise grey year](https://www.pcgamer.com/videogames-were-an-explosion-of-colour-in-an-otherwise-grey-year)
  - [Twitch 2021: A year in controversies](https://www.pcgamer.com/twitch-2021-a-year-in-controversies)
- - [SaGa Creator Is Working On A Remaster, A Remake, And A New Game](https://kotaku.com/saga-creator-is-working-on-a-remaster-a-remake-and-a-1848290451)
- - [Manga Piracy Has Increased During The Pandemic](https://kotaku.com/manga-piracy-has-increased-during-the-pandemic-1848290343)<!-- GAME:END -->
+ - [SaGa Creator Is Working On A Remaster, A Remake, And A New Game](https://kotaku.com/saga-creator-is-working-on-a-remaster-a-remake-and-a-1848290451)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
