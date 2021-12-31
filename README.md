@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Red Snow and every new movie you can watch at home this weekend](https://www.polygon.com/2021/12/31/22857279/new-movies-watch-netflix-the-lost-daughter-hbo-max-disney-plus)
  - [The Matrix Resurrections is not a sequel — it’s a video game remake](https://www.polygon.com/22860430/matrix-resurrections-final-fantasy-7-remake-reboot-sequel-video-game)
- - [PC Gamer Hardware Awards 2021: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-winners)
- - [Before Your Eyes tells a brilliant story about regret, our legacies, and the afterlife](https://www.polygon.com/22860260/before-your-eyes-windows-pc-mac-webcam-best-games-of-2021)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards 2021: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-winners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
