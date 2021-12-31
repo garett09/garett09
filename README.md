@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Bromance](http://9gag.com/gag/a91AEWo)
- - 🚯 [Just a friendly reminder about not to underestimate fireworks, from 5y old me, to you.](http://9gag.com/gag/aBn8gND)
+ - 🚯 [Evolution](http://9gag.com/gag/a818GB6)
  - 🚯 [Win a 2 bitcoin budget to live your dreams right now.](http://9gag.com/gag/aZrg33W)<!-- MEMES:END -->
 
 --- 
