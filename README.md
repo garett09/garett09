@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life hack](http://9gag.com/gag/aWgqgEK)
- - 🚯 [And people say Norway has the nicest prison.](http://9gag.com/gag/a11K1Db)
- - 🚯 [She didn&amp;#039;t kill herself](http://9gag.com/gag/aZrgyYp)<!-- MEMES:END -->
+ - 🚖 [Ocean Doggo First swimming](http://9gag.com/gag/angjz20)
+ - 🚯 [When you bully someone and they fight back. What a sweet chin hit](http://9gag.com/gag/aOQBx16)
+ - 🚯 [The Council of Men](http://9gag.com/gag/aegeQOv)<!-- MEMES:END -->
 
 --- 
 
