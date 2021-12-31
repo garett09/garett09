@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirTag stalking problem is only partially Apple&#39;s problem, it&#39;s mostly law enforcement&#39;s](https://appleinsider.com/articles/21/12/31/the-airtag-stalking-problem-is-only-partially-apples-problem-its-mostly-law-enforcements?utm_medium=rss)
- - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
- - [5 new shows and movies to stream this weekend: The Book of Boba Fett and more](https://www.androidauthority.com/new-shows-movies-stream-december-31-2021-3079746/)<!-- TECH:END -->
+ - [CES will end a day earlier, on January 7, as an &quot;additional&quot; COVID-19 safety measure, after Google, Microsoft, and other big companies canceled in-person plans &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/211231/p7#a211231p7)
+ - [‘Serious’ talk between Joe Biden, Putin sets stage for diplomacy](https://techncruncher.blogspot.com/2022/01/serious-talk-between-joe-biden-putin.html)
+ - [Truck driver’s 110-year sentence reduced after US outcry](https://techncruncher.blogspot.com/2022/01/truck-drivers-110-year-sentence-reduced.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
