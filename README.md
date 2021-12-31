@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you bully someone and they fight back. What a sweet chin hit](http://9gag.com/gag/aOQBx16)
+ - 🚖 [Heyyy....HEY! HEYyyyy....](http://9gag.com/gag/avA7QAW)
  - 🚯 [Never forget how china tried to silence this doctor about the Wuhan Virus &lpar;COVID 19&rpar; which eventually led to his death &amp;amp; the start of the pandemic](http://9gag.com/gag/avA7Q6b)
- - 🚯 [For the first time ever, this incredibly rare species of Box Jellyfish was recorded on video- Chirodectes Maculatus](http://9gag.com/gag/adg9P9V)<!-- MEMES:END -->
+ - 🚯 [Cat moon jumping to the 4th dimension](http://9gag.com/gag/axB0oOK)<!-- MEMES:END -->
 
 --- 
 
