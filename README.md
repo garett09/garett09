@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 was the year I fell in love with Hunt: Showdown](https://www.pcgamer.com/2021-was-the-year-i-fell-in-love-with-hunt-showdown)
- - [The Lost Daughter might be Netflix’s final film of 2021, but it’s spectacular](https://www.polygon.com/reviews/22861170/the-lost-daughter-review-netflix)
- - [Red Snow and every new movie you can watch at home this weekend](https://www.polygon.com/2021/12/31/22857279/new-movies-watch-netflix-the-lost-daughter-hbo-max-disney-plus)<!-- GAME:END -->
+ - [What Are Your Video Game Resolutions For 2022?](https://kotaku.com/what-are-your-video-game-resolutions-for-2022-1848290884)
+ - [Final Fantasy 7 Remake PC review](https://www.pcgamer.com/final-fantasy-7-remake-pc-review)
+ - [2021 was the year I fell in love with Hunt: Showdown](https://www.pcgamer.com/2021-was-the-year-i-fell-in-love-with-hunt-showdown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
