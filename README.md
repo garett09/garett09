@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Videogames were an explosion of colour in an otherwise grey year](https://www.pcgamer.com/videogames-were-an-explosion-of-colour-in-an-otherwise-grey-year)
- - [Twitch 2021: A year in controversies](https://www.pcgamer.com/twitch-2021-a-year-in-controversies)
- - [SaGa Creator Is Working On A Remaster, A Remake, And A New Game](https://kotaku.com/saga-creator-is-working-on-a-remaster-a-remake-and-a-1848290451)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards 2021: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2021-winners)
+ - [Before Your Eyes tells a brilliant story about regret, our legacies, and the afterlife](https://www.polygon.com/22860260/before-your-eyes-windows-pc-mac-webcam-best-games-of-2021)
+ - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
