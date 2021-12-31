@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 smartphone features and design trends I don’t miss at all](https://www.androidauthority.com/old-smartphone-features-3074049/)
- - [The best HP laptop deals of January 2022](https://www.androidauthority.com/hp-laptop-deals-1123504/)
- - [Best price ever on Apple&#39;s Mac mini with 16GB RAM ends today](https://appleinsider.com/articles/21/12/31/best-price-ever-on-apples-mac-mini-with-16gb-ram-ends-today?utm_medium=rss)<!-- TECH:END -->
+ - [More Galaxy S22 renders leak, showing off colorways of all variants](https://www.androidauthority.com/samsung-galaxy-s22-colors-3082176/)
+ - [What’s new on Paramount Plus in January 2022](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
+ - [Investigation: how China identifies, tracks, and pressures its critics on Facebook and Twitter, including Chinese living abroad and citizens of other nations &lpar;New York Times&rpar;](http://www.techmeme.com/211231/p4#a211231p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
