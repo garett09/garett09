@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a game about selling maple syrup to soup up your trashy car for street racing](https://www.pcgamer.com/heres-a-game-about-selling-maple-syrup-to-soup-up-your-trashy-car-for-street-racing)
  - [12 Recent Games To Play When You Want A Great Story Or Characters](https://kotaku.com/12-recent-games-to-play-when-you-want-a-great-story-or-1848288614)
- - [Superheroes and soccer will collide in Super Buckyball Tournament — but when?](https://www.polygon.com/22860468/super-buckyball-tournament-preview-steam-early-access-release-date)
- - [Bully 2 got canned in 2009, say ex-devs](https://www.pcgamer.com/bully-2-got-canned-in-2009-say-ex-devs)<!-- GAME:END -->
+ - [Superheroes and soccer will collide in Super Buckyball Tournament — but when?](https://www.polygon.com/22860468/super-buckyball-tournament-preview-steam-early-access-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
