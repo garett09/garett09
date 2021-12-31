@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Fold updates: The original foldable gains One UI 4](https://www.androidauthority.com/samsung-galaxy-fold-update-1098568/)
- - [Mexico&#39;s central bank plans to issue its own digital currency by 2024, joining Brazil and Peru as Latin American countries working on developing CBDCs &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/211230/p17#a211230p17)
- - [Where to watch all the Spider-Man movies: Far From Home, Into the Spider-Verse and more     - CNET](https://www.cnet.com/news/where-to-watch-all-the-spider-man-movies-far-from-home-into-the-spider-verse-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pluto should be reclassified as a planet, Scientists reclaimed](https://techncruncher.blogspot.com/2021/12/pluto-should-be-reclassified-as-planet.html)
+ - [F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters](https://techncruncher.blogspot.com/2021/12/fda-plans-to-allow-12-to-15-year-olds.html)
+ - [Samsung Galaxy Fold updates: The original foldable gains One UI 4](https://www.androidauthority.com/samsung-galaxy-fold-update-1098568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
