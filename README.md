@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gamers! Protect your precious tendons with this tabletop hand massager](https://www.theverge.com/2021/12/31/22861124/tabletop-hand-massager-for-gamers-bauhutte)
- - [Missing iPhone texts and notifications are frustrating: These fixes could help     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-texts-and-notifications-are-frustrating-these-fixes-could-help/#ftag=CAD590a51e)
- - [Telegram ends off 2021 with a bumper feature update](https://www.androidauthority.com/telegram-spoiler-reaction-update-3082029/)<!-- TECH:END -->
+ - [SCIENTISTS TO TEST HIGH DEXAMETHASONE DOSES IN COVID-19 PATIENTS](https://techncruncher.blogspot.com/2021/12/scientists-to-test-high-dexamethasone.html)
+ - [Save Money on Subscriptions Thanks to This iOS Loophole](https://www.wired.com/story/iphone-subscriptions-save-money)
+ - [Covid Will Become Endemic. The World Must Decide What That Means](https://www.wired.com/story/covid-will-become-endemic-the-world-must-decide-what-that-means)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
