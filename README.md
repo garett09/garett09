@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games Store closes out 15 days of free games by giving away the Tomb Raider trilogy](https://www.theverge.com/2021/12/30/22860657/tomb-raider-reboot-trilogy-free-epic-games-store-pc)
- - [African tech startups raised a record $4B+ in 2021, more than 2019 and 2020 combined, with more $100M+ rounds than ever before &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211230/p15#a211230p15)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Devices running BlackBerry 10 or OS 7.1 and earlier will lose key services like calling, texting, data usage, and 911 access starting January 4 &lpar;Brad Linder/Liliputing&rpar;](http://www.techmeme.com/211230/p16#a211230p16)
+ - [Best gaming laptops for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
+ - [Best wheel cleaner for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-wheel-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
