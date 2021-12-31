@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zombie BlackBerry phones will finally die off in early 2022](https://appleinsider.com/articles/21/12/31/zombie-blackberry-phones-will-finally-die-off-in-early-2022?utm_medium=rss)
- - [What’s new on Hulu in January 2022: How I Met Your Father and more](https://www.androidauthority.com/new-on-hulu-939207/)
- - [Your orange cat isn&#39;t any dumber than its feline friends: Busting cat-color myths     - CNET](https://www.cnet.com/news/your-orange-cat-isnt-any-dumber-than-its-feline-friends-busting-cat-color-myths/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia&#39;s media regulator adds Netflix to its &quot;audio-visual services&quot; register, requiring it to offer 20 major Russian federal TV channels starting in March 2022 &lpar;The Moscow Times&rpar;](http://www.techmeme.com/211231/p8#a211231p8)
+ - [How to make your Apple Watch battery last longer](https://appleinsider.com/articles/21/11/13/how-to-make-your-apple-watch-battery-last-longer?utm_medium=rss)
+ - [Interest in the metaverse to propel both Apple and Meta in 2022, analyst says](https://appleinsider.com/articles/21/12/31/interest-in-the-metaverse-to-propel-apple-meta-in-2022-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
