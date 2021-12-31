@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s media regulator adds Netflix to its &quot;audio-visual services&quot; register, requiring it to offer 20 major Russian federal TV channels starting in March 2022 &lpar;The Moscow Times&rpar;](http://www.techmeme.com/211231/p8#a211231p8)
- - [How to make your Apple Watch battery last longer](https://appleinsider.com/articles/21/11/13/how-to-make-your-apple-watch-battery-last-longer?utm_medium=rss)
- - [Interest in the metaverse to propel both Apple and Meta in 2022, analyst says](https://appleinsider.com/articles/21/12/31/interest-in-the-metaverse-to-propel-apple-meta-in-2022-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [Merry Christmas! Santander Claus made a $176 million payment mistake](https://www.theverge.com/2021/12/31/22861939/santander-uk-mistake-payment-account)
+ - [Happy New Year from the staff of AppleInsider](https://appleinsider.com/articles/21/12/31/happy-new-year-from-the-staff-of-appleinsider?utm_medium=rss)
+ - [Low income US residents can get discounts up to $75 on internet service. How to sign up     - CNET](https://www.cnet.com/news/low-income-us-residents-can-get-discounts-up-to-75-on-internet-service-how-to-sign-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
