@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy New Year&amp;#039;s Eve!](http://9gag.com/gag/avA7WQZ)
- - 🚯 [After years of saving up, getting a loan from the bank and suffering several drawbacks, I could afford this house](http://9gag.com/gag/aPZ9m8G)
- - 🚯 [I pay the internet to laugh, bastard](http://9gag.com/gag/a8187OZ)<!-- MEMES:END -->
+ - 🚖 [HAPPY NEW YEAR!!](http://9gag.com/gag/avA716q)
+ - 🚯 [I pay the internet to laugh, bastard](http://9gag.com/gag/a8187OZ)
+ - 🚯 [Happy New year from the land down under \ud83c\udf7b](http://9gag.com/gag/aVxMgYw)<!-- MEMES:END -->
 
 --- 
 
