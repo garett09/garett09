@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Galaxy S22 renders leak, showing off colorways of all variants](https://www.androidauthority.com/samsung-galaxy-s22-colors-3082176/)
- - [What’s new on Paramount Plus in January 2022](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
- - [Investigation: how China identifies, tracks, and pressures its critics on Facebook and Twitter, including Chinese living abroad and citizens of other nations &lpar;New York Times&rpar;](http://www.techmeme.com/211231/p4#a211231p4)<!-- TECH:END -->
+ - [The AirTag stalking problem is only partially Apple&#39;s problem, it&#39;s mostly law enforcement&#39;s](https://appleinsider.com/articles/21/12/31/the-airtag-stalking-problem-is-only-partially-apples-problem-its-mostly-law-enforcements?utm_medium=rss)
+ - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
+ - [5 new shows and movies to stream this weekend: The Book of Boba Fett and more](https://www.androidauthority.com/new-shows-movies-stream-december-31-2021-3079746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
