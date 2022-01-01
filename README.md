@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No one likes Amber](http://9gag.com/gag/aQXe2ow)
- - 🚯 [&amp;quot;Eat less food, do more exercise&amp;quot;](http://9gag.com/gag/aBn8Gxz)
+ - 🚖 [An Mi-8 crashing over the core of the reactor on October 2, 1986](http://9gag.com/gag/a0Z5EoO)
+ - 🚯 [No one likes Amber](http://9gag.com/gag/aQXe2ow)
  - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
 
 --- 
