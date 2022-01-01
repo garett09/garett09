@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&amp;#039;s a peaceful life.](http://9gag.com/gag/arn5Zrp)
- - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)
- - 🚯 [Happy new year to everyone who is working !](http://9gag.com/gag/aGze875)<!-- MEMES:END -->
+ - 🚯 [Late advice...](http://9gag.com/gag/avA76qZ)
+ - 🚯 [My girlfriend just broke up with me minutes before our new years dinner apparently because she fell in love with another man. Now I have nobody to celebrate with, press F pls](http://9gag.com/gag/aqG18bP)<!-- MEMES:END -->
 
 --- 
 
