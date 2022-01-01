@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Send Messages That Automatically Disappear](https://www.wired.com/story/how-to-send-messages-that-automatically-disappear)
- - [Simultaneous capture should be 2022’s must-have camera feature](https://www.androidauthority.com/simultaneous-camera-capture-smartphones-3070237/)
- - [9 great reads from CNET this week: Great resignation, music AI, gaming culture and more     - CNET](https://www.cnet.com/news/9-great-reads-from-cnet-this-week-010122-great-resignation-music-ai-gaming-culture-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Washington state to require internet service disclosure when selling house in new year](https://techncruncher.blogspot.com/2022/01/washington-state-to-require-internet.html)
+ - [5 things we want to see from OnePlus in 2022](https://www.androidauthority.com/oneplus-2022-3075654/)
+ - [PitchBook: supply-chain tech startups raised $24.3B in venture funding in the first three quarters of 2021, 58% more than all of 2020 &lpar;Jennifer Smith/Wall Street Journal&rpar;](http://www.techmeme.com/220101/p2#a220101p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
