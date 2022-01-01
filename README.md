@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aquaman casting](http://9gag.com/gag/aDDzVDZ)
- - 🚯 [This. Every damn year. Clean up your shit after celebrating](http://9gag.com/gag/azeqOwZ)
- - 🚯 [Most accurate safety training video](http://9gag.com/gag/adg9egj)<!-- MEMES:END -->
+ - 🚖 [That&amp;#039;s right](http://9gag.com/gag/aNPz4XA)
+ - 🚯 [Most accurate safety training video](http://9gag.com/gag/adg9egj)
+ - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
 
 --- 
 
