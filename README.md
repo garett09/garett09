@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This community is full of assholes and lm so proud being part of it. Happy New Year Fellas!](http://9gag.com/gag/abgz4yO)
- - 🚯 [Late advice...](http://9gag.com/gag/avA76qZ)
- - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)<!-- MEMES:END -->
+ - 🚖 [Waiting for the new year, saludos desde Uruguay!](http://9gag.com/gag/aBn8P3O)
+ - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)
+ - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)<!-- MEMES:END -->
 
 --- 
 
