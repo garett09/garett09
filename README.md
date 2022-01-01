@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit)
- - [The 18 Best EVs Coming in 2022](https://www.wired.com/story/18-best-evs-coming-in-2022)
- - [Where Parents Can Get Help with Climate Anxiety](https://www.wired.com/story/parents-get-help-climate-anxiety)<!-- TECH:END -->
+ - [Simultaneous capture should be 2022’s must-have camera feature](https://www.androidauthority.com/simultaneous-camera-capture-smartphones-3070237/)
+ - [Why Paleontologists Are Getting Into Florida’s Oyster Business](https://www.wired.com/story/why-paleontologists-are-getting-into-floridas-oyster-business)
+ - [Apple&#39;s December 2021 in Review: Cartoon &#39;Ted Lasso,&#39; and worms in Foxconn workers&#39; meals](https://appleinsider.com/articles/22/01/01/apples-december-2021-in-review-cartoon-ted-lasso-and-worms-in-foxconn-workers-meals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
