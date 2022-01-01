@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bank accidentally deposits $176 million into people’s accounts on Christmas Day](https://techncruncher.blogspot.com/2022/01/bank-accidentally-deposits-176-million.html)
- - [The world welcomes 2022 with muted celebrations as COVID-19 cases surge](https://techncruncher.blogspot.com/2022/01/the-world-welcomes-2022-with-muted.html)
- - [BlackBerry will die on January 4th — for real this time](https://techncruncher.blogspot.com/2022/01/blackberry-will-die-on-january-4th-for.html)<!-- TECH:END -->
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit)
+ - [The 18 Best EVs Coming in 2022](https://www.wired.com/story/18-best-evs-coming-in-2022)
+ - [Where Parents Can Get Help with Climate Anxiety](https://www.wired.com/story/parents-get-help-climate-anxiety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
