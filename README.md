@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Washington state to require internet service disclosure when selling house in new year](https://techncruncher.blogspot.com/2022/01/washington-state-to-require-internet.html)
- - [5 things we want to see from OnePlus in 2022](https://www.androidauthority.com/oneplus-2022-3075654/)
- - [PitchBook: supply-chain tech startups raised $24.3B in venture funding in the first three quarters of 2021, 58% more than all of 2020 &lpar;Jennifer Smith/Wall Street Journal&rpar;](http://www.techmeme.com/220101/p2#a220101p2)<!-- TECH:END -->
+ - [Urgent Apple warning issued to 1.65BILLION iPad and iPhone users as privacy concerns mount – see if you are at risk](https://techncruncher.blogspot.com/2022/01/urgent-apple-warning-issued-to.html)
+ - [Google accidentally teases more powerful Tasks sidebar](https://techncruncher.blogspot.com/2022/01/google-accidentally-teases-more.html)
+ - [Matrix Resurrections: Why Hugo Weaving Didn&#39;t Return As Agent Smith](https://techncruncher.blogspot.com/2022/01/matrix-resurrections-why-hugo-weaving.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
