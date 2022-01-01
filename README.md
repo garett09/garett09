@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&amp;#039;s right](http://9gag.com/gag/aNPz4XA)
- - 🚯 [Most accurate safety training video](http://9gag.com/gag/adg9egj)
- - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
+ - 🚖 [Most accurate safety training video](http://9gag.com/gag/adg9egj)
+ - 🚯 [Rough start in 2022](http://9gag.com/gag/aGzeGpK)
+ - 🚯 [&amp;quot;Eat less food, do more exercise&amp;quot;](http://9gag.com/gag/aBn8Gxz)<!-- MEMES:END -->
 
 --- 
 
