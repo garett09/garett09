@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
- - 🚯 [It&amp;#039;s a peaceful life.](http://9gag.com/gag/arn5Zrp)
- - 🚯 [Uno Reverse](http://9gag.com/gag/aBn8EgA)<!-- MEMES:END -->
+ - 🚖 [Empty bottle being dragged along a car by aerodynamic drag](http://9gag.com/gag/arn5Z9V)
+ - 🚯 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
+ - 🚯 [Happy newyear from the Netherlands!](http://9gag.com/gag/aegeZnm)<!-- MEMES:END -->
 
 --- 
 
