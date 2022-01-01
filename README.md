@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the burgeoning drone software and AI industry, a focus for an estimated 65 US startups, often for military uses &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220101/p1#a220101p1)
- - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
- - [Experts say the Apple Watch has yet to change patient management as Apple&#39;s efforts in getting FDA approvals and broader acceptance among doctors are lacking &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/211231/p11#a211231p11)<!-- TECH:END -->
+ - [New York City ushers in 2022 with ball drop in Times Square](https://techncruncher.blogspot.com/2022/01/new-york-city-ushers-in-2022-with-ball.html)
+ - [WWE Day 1 2021: Start times, full card, how to watch and Peacock     - CNET](https://www.cnet.com/news/wwe-day-1-2021-start-times-full-card-how-to-watch-and-peacock/#ftag=CAD590a51e)
+ - [A look at the burgeoning drone software and AI industry, a focus for an estimated 65 US startups, often for military uses &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220101/p1#a220101p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
