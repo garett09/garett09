@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 7 ad focuses on calling 911 in an emergency](https://appleinsider.com/articles/22/01/01/apple-watch-series-7-ad-focuses-on-calling-911-in-an-emergency?utm_medium=rss)
- - [AT&amp;T and Verizon may have to delay 5G deployments another two weeks over airline safety fears](https://www.theverge.com/2022/1/1/22862481/buttigieg-faa-request-two-week-5g-delay-aircraft-safety)
- - [A Y2K22 bug in Microsoft&#39;s FIP-FS anti-malware scanning engine appears to be stopping Exchange on-premise servers around the world from delivering email &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220101/p4#a220101p4)<!-- TECH:END -->
+ - [Apple’s new ad invites you to imagine dying alone without a Watch on your wrist](https://www.theverge.com/2022/1/1/22862543/apple-watch-911-ad-fear-rescue-save-lives-accident)
+ - [Square Enix President Yosuke Matsuda issues a New Year&#39;s Letter indicating the company will pursue blockchain games and NFTs in 2022 &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/220101/p5#a220101p5)
+ - [Streaming trends in the new year: 5 things we hope to see in 2022](https://www.androidauthority.com/streaming-trends-2022-3075852/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
