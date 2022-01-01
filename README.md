@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s December 2021 in Review: Cartoon &#39;Ted Lasso,&#39; and worms in Foxconn workers&#39; meals](https://appleinsider.com/articles/22/01/01/apples-december-2021-in-review-cartoon-ted-lasso-and-worms-in-foxconn-workers-meals?utm_medium=rss)
- - [Sources: tax authorities conducted searches at some of India&#39;s biggest cryptocurrency exchanges after detecting tax evasion of around $7M at Binance&#39;s WazirX &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220101/p3#a220101p3)
- - [Which MacBook Air or MacBook Pro to buy at any price point](https://appleinsider.com/articles/21/11/07/which-macbook-air-or-macbook-pro-to-buy-at-any-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Series 7 ad focuses on calling 911 in an emergency](https://appleinsider.com/articles/22/01/01/apple-watch-series-7-ad-focuses-on-calling-911-in-an-emergency?utm_medium=rss)
+ - [AT&amp;T and Verizon may have to delay 5G deployments another two weeks over airline safety fears](https://www.theverge.com/2022/1/1/22862481/buttigieg-faa-request-two-week-5g-delay-aircraft-safety)
+ - [A Y2K22 bug in Microsoft&#39;s FIP-FS anti-malware scanning engine appears to be stopping Exchange on-premise servers around the world from delivering email &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220101/p4#a220101p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
