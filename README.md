@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most accurate safety training video](http://9gag.com/gag/adg9egj)
- - 🚯 [Rough start in 2022](http://9gag.com/gag/aGzeGpK)
- - 🚯 [&amp;quot;Eat less food, do more exercise&amp;quot;](http://9gag.com/gag/aBn8Gxz)<!-- MEMES:END -->
+ - 🚖 [No one likes Amber](http://9gag.com/gag/aQXe2ow)
+ - 🚯 [&amp;quot;Eat less food, do more exercise&amp;quot;](http://9gag.com/gag/aBn8Gxz)
+ - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
 
 --- 
 
