@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what 26 seconds of brrrrtttt sounds like](http://9gag.com/gag/aYr4E10)
- - 🚯 [It&amp;#039;s hard party time !!](http://9gag.com/gag/aAGD6z9)
- - 🚯 [Just a short reminder of how the irresponsible use of firecrackers and petards can end... Stay safe and happy new year to Everybody!](http://9gag.com/gag/aQXevOr)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s hard party time !!](http://9gag.com/gag/aAGD6z9)
+ - 🚯 [Ah, Yes. The Girls!](http://9gag.com/gag/avA7WxM)
+ - 🚯 [After years of saving up, getting a loan from the bank and suffering several drawbacks, I could afford this house](http://9gag.com/gag/aPZ9m8G)<!-- MEMES:END -->
 
 --- 
 
