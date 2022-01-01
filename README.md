@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Waiting for the new year, saludos desde Uruguay!](http://9gag.com/gag/aBn8P3O)
- - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)
- - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)<!-- MEMES:END -->
+ - 🚯 [Japan is amazing as ever.](http://9gag.com/gag/aegeVZB)
+ - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)<!-- MEMES:END -->
 
 --- 
 
