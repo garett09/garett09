@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look at me iam the predator now](http://9gag.com/gag/apgQx69)
- - 🚯 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
- - 🚯 [A small cracker](http://9gag.com/gag/aWgqoAd)<!-- MEMES:END -->
+ - 🚖 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
+ - 🚯 [Look at me iam the predator now](http://9gag.com/gag/apgQx69)
+ - 🚯 [100 years ago today, never forget \ud83e\ude93](http://9gag.com/gag/aPZ9e6g)<!-- MEMES:END -->
 
 --- 
 
