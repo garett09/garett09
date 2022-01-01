@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last call for these Samsung TV deals: Save up to $3,500 on The Frame, 8K models](https://appleinsider.com/articles/21/12/20/samsung-tv-deals-are-back-save-up-to-3500-on-the-frame-8k-neo-qled-models?utm_medium=rss)
  - [Experts say the Apple Watch has yet to change patient management as Apple&#39;s efforts in getting FDA approvals and broader acceptance among doctors are lacking &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/211231/p11#a211231p11)
- - [Delivery Hero will acquire a ~39.4% majority stake in Spanish delivery app Glovo, valuing Glovo at &amp;euro;2.3B &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/211231/p10#a211231p10)
- - [Forecasts for tech&#39;s near future: AI-driven recommendations kill favorites, users opt into personalized ads, top talent will have Polygamous Careers, and more &lpar;Scott Belsky/Positive Slope&rpar;](http://www.techmeme.com/211231/p9#a211231p9)<!-- TECH:END -->
+ - [Delivery Hero will acquire a ~39.4% majority stake in Spanish delivery app Glovo, valuing Glovo at &amp;euro;2.3B &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/211231/p10#a211231p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
