@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Took this photo an hour ago with my iphone 11. Happy new year from finland!](http://9gag.com/gag/aegeZRb)
- - 🚯 [Waiting for the new year, saludos desde Uruguay!](http://9gag.com/gag/aBn8P3O)
- - 🚯 [Going up to the cabin for New Years. Deer wanted to party. First car payment is tomorrow](http://9gag.com/gag/avA7E6M)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s a peaceful life.](http://9gag.com/gag/arn5Zrp)
+ - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)
+ - 🚯 [Happy new year to everyone who is working !](http://9gag.com/gag/aGze875)<!-- MEMES:END -->
 
 --- 
 
