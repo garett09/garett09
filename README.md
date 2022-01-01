@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Video Game Gear: Eight Things We Got In 2021 That We Now Can&#39;t Live Without](https://kotaku.com/video-game-gear-eight-things-we-got-in-2021-that-we-no-1848291672)
  - [Kill bizarre demons and use their blood as paint in mad roguelike Brutal Orchestra](https://www.pcgamer.com/kill-bizarre-demons-and-use-their-blood-as-paint-in-mad-roguelike-brutal-orchestra)
- - [29 Games Coming Out In 2022 That We&#39;re Excited To Play](https://kotaku.com/29-games-coming-out-in-2022-that-were-excited-to-play-1848291988)
- - [Crash on, survive, and terraform an alien world in The Planet Crafter&#39;s free demo](https://www.pcgamer.com/crash-on-survive-and-terraform-an-alien-world-in-the-planet-crafters-free-demo)<!-- GAME:END -->
+ - [29 Games Coming Out In 2022 That We&#39;re Excited To Play](https://kotaku.com/29-games-coming-out-in-2022-that-were-excited-to-play-1848291988)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
