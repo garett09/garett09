@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen gets it!](http://9gag.com/gag/amg2Moj)
- - 🚯 [Understandable, have a good day!](http://9gag.com/gag/a11K2LD)
- - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
+ - 🚖 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)
+ - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)
+ - 🚯 [Why change a winning formula](http://9gag.com/gag/a818Kje)<!-- MEMES:END -->
 
 --- 
 
