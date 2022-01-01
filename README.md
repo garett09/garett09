@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s hard party time !!](http://9gag.com/gag/aAGD6z9)
- - 🚯 [Ah, Yes. The Girls!](http://9gag.com/gag/avA7WxM)
- - 🚯 [After years of saving up, getting a loan from the bank and suffering several drawbacks, I could afford this house](http://9gag.com/gag/aPZ9m8G)<!-- MEMES:END -->
+ - 🚖 [What the actual f@&amp;pound;k](http://9gag.com/gag/a41Gzem)
+ - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)
+ - 🚯 [So it begins](http://9gag.com/gag/aegeZ6O)<!-- MEMES:END -->
 
 --- 
 
