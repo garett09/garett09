@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Square Enix president knows people who &#39;play to have fun&#39; dislike NFTs, but he wants them anyway](https://www.pcgamer.com/square-enix-president-knows-people-who-play-to-have-fun-dislike-nfts-but-he-wants-them-anyway)
  - [Here&#39;s an atmospheric look at gameplay in first-person horror shooter ILL](https://www.pcgamer.com/heres-an-atmospheric-look-at-gameplay-in-first-person-horror-shooter-ill)
- - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/disney-plus/22846593/disney-plus-new-movies-tv-watch-january-2022)
- - [Polygon’s 50 most anticipated games of 2022](https://www.polygon.com/22850317/video-games-2022-releases-best-upcoming-most-anticipated-release-dates)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/disney-plus/22846593/disney-plus-new-movies-tv-watch-january-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
