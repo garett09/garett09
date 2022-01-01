@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Urgent Apple warning issued to 1.65BILLION iPad and iPhone users as privacy concerns mount – see if you are at risk](https://techncruncher.blogspot.com/2022/01/urgent-apple-warning-issued-to.html)
- - [Google accidentally teases more powerful Tasks sidebar](https://techncruncher.blogspot.com/2022/01/google-accidentally-teases-more.html)
- - [Matrix Resurrections: Why Hugo Weaving Didn&#39;t Return As Agent Smith](https://techncruncher.blogspot.com/2022/01/matrix-resurrections-why-hugo-weaving.html)<!-- TECH:END -->
+ - [Sources: tax authorities conducted searches at some of India&#39;s biggest cryptocurrency exchanges after detecting tax evasion of around $7M at Binance&#39;s WazirX &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220101/p3#a220101p3)
+ - [Which MacBook Air or MacBook Pro to buy at any price point](https://appleinsider.com/articles/21/11/07/which-macbook-air-or-macbook-pro-to-buy-at-any-price-point?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-413-3081993/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
