@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Mi-8 crashing over the core of the reactor on October 2, 1986](http://9gag.com/gag/a0Z5EoO)
- - 🚯 [No one likes Amber](http://9gag.com/gag/aQXe2ow)
+ - 🚖 [Karen gets it!](http://9gag.com/gag/amg2Moj)
+ - 🚯 [Understandable, have a good day!](http://9gag.com/gag/a11K2LD)
  - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)<!-- MEMES:END -->
 
 --- 
