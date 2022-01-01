@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So it begins](http://9gag.com/gag/aegeZ6O)
- - 🚯 [Just a short reminder of how the irresponsible use of firecrackers and petards can end... Stay safe and happy new year to Everybody!](http://9gag.com/gag/aQXevOr)
- - 🚯 [Rest in peace, she lived a long life and was a few weeks from turning 100. Rip betty white.](http://9gag.com/gag/a2148Y9)<!-- MEMES:END -->
+ - 🚖 [This community is full of assholes and lm so proud being part of it. Happy New Year Fellas!](http://9gag.com/gag/abgz4yO)
+ - 🚯 [Late advice...](http://9gag.com/gag/avA76qZ)
+ - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)<!-- MEMES:END -->
 
 --- 
 
