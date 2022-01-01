@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chief Justice Roberts says Judiciary Conference will review rules that led to a concentration of patent cases in a Texas court criticized by Apple and Google &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/220101/p7#a220101p7)
- - [Shows like Titans: What to watch between seasons of the HBO Max series](https://www.androidauthority.com/shows-like-titans-hbo-max-series-3074345/)
- - [Yellowstone&#39;s finale won&#39;t stream on Paramount Plus, sorry     - CNET](https://www.cnet.com/tech/services-and-software/yellowstones-finale-wont-stream-on-paramount-plus-sorry/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s 2022, and the Surface Duo still doesn’t have Android 11](https://www.theverge.com/2022/1/1/22862649/microsoft-surface-duo-android-11-missed-update)
+ - [Square Enix promises ‘decentralized games’ in 2022](https://www.theverge.com/2022/1/1/22862646/square-enix-2022-new-years-letter-metaverse-nfts-decentralized-gaming)
+ - [Chief Justice Roberts says Judiciary Conference will review rules that led to a concentration of patent cases in a Texas court criticized by Apple and Google &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/220101/p7#a220101p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
