@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Send Messages That Automatically Disappear](https://www.wired.com/story/how-to-send-messages-that-automatically-disappear)
  - [Simultaneous capture should be 2022’s must-have camera feature](https://www.androidauthority.com/simultaneous-camera-capture-smartphones-3070237/)
- - [Why Paleontologists Are Getting Into Florida’s Oyster Business](https://www.wired.com/story/why-paleontologists-are-getting-into-floridas-oyster-business)
- - [Apple&#39;s December 2021 in Review: Cartoon &#39;Ted Lasso,&#39; and worms in Foxconn workers&#39; meals](https://appleinsider.com/articles/22/01/01/apples-december-2021-in-review-cartoon-ted-lasso-and-worms-in-foxconn-workers-meals?utm_medium=rss)<!-- TECH:END -->
+ - [9 great reads from CNET this week: Great resignation, music AI, gaming culture and more     - CNET](https://www.cnet.com/news/9-great-reads-from-cnet-this-week-010122-great-resignation-music-ai-gaming-culture-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
