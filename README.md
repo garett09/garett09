@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I wish Microsoft had been brave enough not to release Windows 11](https://www.pcgamer.com/wish-microsoft-had-been-brave-enough-not-to-release-windows-11)
  - [Tomb Raider: The Angel of Darkness, the game that almost killed the series](https://www.pcgamer.com/saturday-crapshoot-tomb-raider-the-angel-of-darkness)
- - [The 22 most anticipated PC games of 2022](https://www.pcgamer.com/the-22-most-anticipated-pc-games-of-2022)
- - [Video Game Gear: Eight Things We Got In 2021 That We Now Can&#39;t Live Without](https://kotaku.com/video-game-gear-eight-things-we-got-in-2021-that-we-no-1848291672)<!-- GAME:END -->
+ - [The 22 most anticipated PC games of 2022](https://www.pcgamer.com/the-22-most-anticipated-pc-games-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
