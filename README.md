@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chief Justice Roberts says Judiciary Conference will review rules that led to a concentration of patent cases in a Texas court criticized by Apple and Google &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/220101/p7#a220101p7)
  - [Shows like Titans: What to watch between seasons of the HBO Max series](https://www.androidauthority.com/shows-like-titans-hbo-max-series-3074345/)
- - [Deal: Apple AirPods Pro with MagSafe dip to $179 &lpar;28% off&rpar; for the start of 2022](https://appleinsider.com/articles/22/01/01/deal-apple-airpods-pro-with-magsafe-dip-to-179-28-off-for-the-start-of-2022?utm_medium=rss)
- - [Airbnb will hide guests’ names to fight discrimination &lpar;but only in Oregon&rpar;](https://www.theverge.com/2022/1/1/22862541/airbnb-oregon-hosts-guests-initials-discrimination-lawsuit-settlement-update)<!-- TECH:END -->
+ - [Yellowstone&#39;s finale won&#39;t stream on Paramount Plus, sorry     - CNET](https://www.cnet.com/tech/services-and-software/yellowstones-finale-wont-stream-on-paramount-plus-sorry/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
