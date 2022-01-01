@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/disney-plus/22846593/disney-plus-new-movies-tv-watch-january-2022)
  - [Polygon’s 50 most anticipated games of 2022](https://www.polygon.com/22850317/video-games-2022-releases-best-upcoming-most-anticipated-release-dates)
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/22846488/new-netflix-movies-tv-shows-watch-january-2022)
- - [Accessibility was more visible than ever in 2021, but not always in a way that&#39;s helpful](https://www.pcgamer.com/accessibility-was-more-visible-than-ever-in-2021-but-not-always-in-a-way-thats-helpful)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/22846488/new-netflix-movies-tv-shows-watch-january-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
