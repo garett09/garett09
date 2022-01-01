@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Empty bottle being dragged along a car by aerodynamic drag](http://9gag.com/gag/arn5Z9V)
- - 🚯 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
- - 🚯 [Happy newyear from the Netherlands!](http://9gag.com/gag/aegeZnm)<!-- MEMES:END -->
+ - 🚖 [Look at me iam the predator now](http://9gag.com/gag/apgQx69)
+ - 🚯 [Idiot](http://9gag.com/gag/aggYxmv)
+ - 🚯 [Going up to the cabin for New Years. Deer wanted to party. First car payment is tomorrow](http://9gag.com/gag/avA7E6M)<!-- MEMES:END -->
 
 --- 
 
