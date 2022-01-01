@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City ushers in 2022 with ball drop in Times Square](https://techncruncher.blogspot.com/2022/01/new-york-city-ushers-in-2022-with-ball.html)
- - [WWE Day 1 2021: Start times, full card, how to watch and Peacock     - CNET](https://www.cnet.com/news/wwe-day-1-2021-start-times-full-card-how-to-watch-and-peacock/#ftag=CAD590a51e)
- - [A look at the burgeoning drone software and AI industry, a focus for an estimated 65 US startups, often for military uses &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220101/p1#a220101p1)<!-- TECH:END -->
+ - [Bank accidentally deposits $176 million into people’s accounts on Christmas Day](https://techncruncher.blogspot.com/2022/01/bank-accidentally-deposits-176-million.html)
+ - [The world welcomes 2022 with muted celebrations as COVID-19 cases surge](https://techncruncher.blogspot.com/2022/01/the-world-welcomes-2022-with-muted.html)
+ - [BlackBerry will die on January 4th — for real this time](https://techncruncher.blogspot.com/2022/01/blackberry-will-die-on-january-4th-for.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
