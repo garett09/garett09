@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Look at me iam the predator now](http://9gag.com/gag/apgQx69)
- - 🚯 [Idiot](http://9gag.com/gag/aggYxmv)
- - 🚯 [Going up to the cabin for New Years. Deer wanted to party. First car payment is tomorrow](http://9gag.com/gag/avA7E6M)<!-- MEMES:END -->
+ - 🚯 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
+ - 🚯 [A small cracker](http://9gag.com/gag/aWgqoAd)<!-- MEMES:END -->
 
 --- 
 
