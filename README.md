@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
- - 🚯 [Look at me iam the predator now](http://9gag.com/gag/apgQx69)
- - 🚯 [100 years ago today, never forget \ud83e\ude93](http://9gag.com/gag/aPZ9e6g)<!-- MEMES:END -->
+ - 🚖 [Disaster Bingo - 2022](http://9gag.com/gag/aogOxow)
+ - 🚯 [How to get rid of pollution.](http://9gag.com/gag/aKmD8Rb)
+ - 🚯 [You can&amp;rsquo;t reach me](http://9gag.com/gag/azeqOrb)<!-- MEMES:END -->
 
 --- 
 
