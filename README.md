@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merry Christmas! Santander Claus made a $176 million payment mistake](https://www.theverge.com/2021/12/31/22861939/santander-uk-mistake-payment-account)
- - [Happy New Year from the staff of AppleInsider](https://appleinsider.com/articles/21/12/31/happy-new-year-from-the-staff-of-appleinsider?utm_medium=rss)
- - [Low income US residents can get discounts up to $75 on internet service. How to sign up     - CNET](https://www.cnet.com/news/low-income-us-residents-can-get-discounts-up-to-75-on-internet-service-how-to-sign-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Delivery Hero will acquire a ~39.4% majority stake in Spanish delivery app Glovo, valuing Glovo at &amp;euro;2.3B &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/211231/p10#a211231p10)
+ - [Forecasts for tech&#39;s near future: AI-driven recommendations kill favorites, users opt into personalized ads, top talent will have Polygamous Careers, and more &lpar;Scott Belsky/Positive Slope&rpar;](http://www.techmeme.com/211231/p9#a211231p9)
+ - [Merry Christmas! Santander Claus made a $176 million payment mistake](https://www.theverge.com/2021/12/31/22861939/santander-uk-mistake-payment-account)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
