@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/22846488/new-netflix-movies-tv-shows-watch-january-2022)
  - [Accessibility was more visible than ever in 2021, but not always in a way that&#39;s helpful](https://www.pcgamer.com/accessibility-was-more-visible-than-ever-in-2021-but-not-always-in-a-way-thats-helpful)
- - [Why 2021 was the worst year for PC gaming](https://www.pcgamer.com/2021-worst-year-for-pc-gaming)
- - [I wish Microsoft had been brave enough not to release Windows 11](https://www.pcgamer.com/wish-microsoft-had-been-brave-enough-not-to-release-windows-11)<!-- GAME:END -->
+ - [Why 2021 was the worst year for PC gaming](https://www.pcgamer.com/2021-worst-year-for-pc-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
