@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disaster Bingo - 2022](http://9gag.com/gag/aogOxow)
- - 🚯 [How to get rid of pollution.](http://9gag.com/gag/aKmD8Rb)
- - 🚯 [You can&amp;rsquo;t reach me](http://9gag.com/gag/azeqOrb)<!-- MEMES:END -->
+ - 🚖 [Most accurate safety training video](http://9gag.com/gag/adg9egj)
+ - 🚯 [Uno Reverse](http://9gag.com/gag/aBn8EgA)
+ - 🚯 [Karen gets it!](http://9gag.com/gag/amg2Moj)<!-- MEMES:END -->
 
 --- 
 
