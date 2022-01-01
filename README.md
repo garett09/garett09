@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s a peaceful life.](http://9gag.com/gag/arn5Zrp)
- - 🚯 [Late advice...](http://9gag.com/gag/avA76qZ)
- - 🚯 [My girlfriend just broke up with me minutes before our new years dinner apparently because she fell in love with another man. Now I have nobody to celebrate with, press F pls](http://9gag.com/gag/aqG18bP)<!-- MEMES:END -->
+ - 🚖 [Practicing on a friend](http://9gag.com/gag/aogOxOw)
+ - 🚯 [It&amp;#039;s a peaceful life.](http://9gag.com/gag/arn5Zrp)
+ - 🚯 [Uno Reverse](http://9gag.com/gag/aBn8EgA)<!-- MEMES:END -->
 
 --- 
 
