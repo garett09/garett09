@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiting for the new year, saludos desde Uruguay!](http://9gag.com/gag/aBn8P3O)
- - 🚯 [Japan is amazing as ever.](http://9gag.com/gag/aegeVZB)
- - 🚯 [With break up with GF two day ago, this was the way. Happy new year from Czech Republic](http://9gag.com/gag/avA767Z)<!-- MEMES:END -->
+ - 🚖 [Took this photo an hour ago with my iphone 11. Happy new year from finland!](http://9gag.com/gag/aegeZRb)
+ - 🚯 [Waiting for the new year, saludos desde Uruguay!](http://9gag.com/gag/aBn8P3O)
+ - 🚯 [Going up to the cabin for New Years. Deer wanted to party. First car payment is tomorrow](http://9gag.com/gag/avA7E6M)<!-- MEMES:END -->
 
 --- 
 
