@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new ad invites you to imagine dying alone without a Watch on your wrist](https://www.theverge.com/2022/1/1/22862543/apple-watch-911-ad-fear-rescue-save-lives-accident)
- - [Square Enix President Yosuke Matsuda issues a New Year&#39;s Letter indicating the company will pursue blockchain games and NFTs in 2022 &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/220101/p5#a220101p5)
- - [Streaming trends in the new year: 5 things we hope to see in 2022](https://www.androidauthority.com/streaming-trends-2022-3075852/)<!-- TECH:END -->
+ - [Shows like Titans: What to watch between seasons of the HBO Max series](https://www.androidauthority.com/shows-like-titans-hbo-max-series-3074345/)
+ - [Deal: Apple AirPods Pro with MagSafe dip to $179 &lpar;28% off&rpar; for the start of 2022](https://appleinsider.com/articles/22/01/01/deal-apple-airpods-pro-with-magsafe-dip-to-179-28-off-for-the-start-of-2022?utm_medium=rss)
+ - [Airbnb will hide guests’ names to fight discrimination &lpar;but only in Oregon&rpar;](https://www.theverge.com/2022/1/1/22862541/airbnb-oregon-hosts-guests-initials-discrimination-lawsuit-settlement-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
