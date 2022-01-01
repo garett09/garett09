@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the actual f@&amp;pound;k](http://9gag.com/gag/a41Gzem)
- - 🚯 [This isn&amp;#039;t a new year&amp;#039;s post, just hopefully everyone laughs more in 2022! Happy new year guys ^^](http://9gag.com/gag/aGzeBGn)
- - 🚯 [So it begins](http://9gag.com/gag/aegeZ6O)<!-- MEMES:END -->
+ - 🚖 [So it begins](http://9gag.com/gag/aegeZ6O)
+ - 🚯 [Just a short reminder of how the irresponsible use of firecrackers and petards can end... Stay safe and happy new year to Everybody!](http://9gag.com/gag/aQXevOr)
+ - 🚯 [Rest in peace, she lived a long life and was a few weeks from turning 100. Rip betty white.](http://9gag.com/gag/a2148Y9)<!-- MEMES:END -->
 
 --- 
 
