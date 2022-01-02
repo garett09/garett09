@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 charging case trackable like AirTag, may come with health sensors](https://appleinsider.com/articles/22/01/02/airpods-pro-2-charging-case-trackable-like-airtag-may-come-with-health-sensors?utm_medium=rss)
- - [Yup, CES Is Happening. Here’s What to Expect](https://www.wired.com/story/ces-2022-what-to-expect)
- - [Crime Prediction Keeps Society Stuck in the Past](https://www.wired.com/story/crime-prediction-racist-history)<!-- TECH:END -->
+ - [What to expect from smartphone cameras in 2022](https://www.androidauthority.com/camera-phones-2022-3032540/)
+ - [Report: Chinese regulators have not approved any new video games since July, resulting in about 140K gaming-related companies shutting down in the country &lpar;Josh Ye/South China Morning Post&rpar;](http://www.techmeme.com/220102/p1#a220102p1)
+ - [AirPods Pro 2 charging case trackable like AirTag, may come with health sensors](https://appleinsider.com/articles/22/01/02/airpods-pro-2-charging-case-trackable-like-airtag-may-come-with-health-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
