@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC estimates global desktop shipments rose 7% YoY in 2021 after dropping sharply in 2020, as some remote workers who started on laptops switched to desktops &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220101/p8#a220101p8)
  - [WWE Day 1 2021: Roman Reigns pulled, start times, how to watch and Peacock     - CNET](https://www.cnet.com/news/wwe-day-1-2021-roman-reigns-pulled-start-times-how-to-watch-and-peacock/#ftag=CAD590a51e)
- - [WWE Day 1 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-day-1-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)<!-- TECH:END -->
+ - [WWE Day 1 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-day-1-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
