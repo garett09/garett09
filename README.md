@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from smartphone cameras in 2022](https://www.androidauthority.com/camera-phones-2022-3032540/)
- - [Report: Chinese regulators have not approved any new video games since July, resulting in about 140K gaming-related companies shutting down in the country &lpar;Josh Ye/South China Morning Post&rpar;](http://www.techmeme.com/220102/p1#a220102p1)
+ - [How Body Farms and Human Composting Can Help Communities](https://www.wired.com/story/body-farms-human-composting-climate-change)
+ - [Our Favorite Paper Planners for Crossing Tasks off Your List](https://www.wired.com/gallery/our-favorite-paper-planners)
  - [AirPods Pro 2 charging case trackable like AirTag, may come with health sensors](https://appleinsider.com/articles/22/01/02/airpods-pro-2-charging-case-trackable-like-airtag-may-come-with-health-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
