@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Destroyer of nuggies](http://9gag.com/gag/angjVeE)
- - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)
- - 🚯 [How many &amp;quot;friends&amp;quot; do you have? &lpar;they must know your birthday&rpar;](http://9gag.com/gag/aNPzOOr)<!-- MEMES:END -->
+ - 🚖 [For legal purposes, this is a joke](http://9gag.com/gag/amg2pKj)
+ - 🚯 [&amp;quot;I purrpurred for this exam.&amp;quot;](http://9gag.com/gag/amg2nAd)
+ - 🚯 [Dogs man... We don&amp;#039;t deserve them](http://9gag.com/gag/aBn8oVZ)<!-- MEMES:END -->
 
 --- 
 
