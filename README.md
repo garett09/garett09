@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you lose the especial combo.](http://9gag.com/gag/aggYdo6)
- - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)
- - 🚯 [Japan strikes again](http://9gag.com/gag/a51nDbG)<!-- MEMES:END -->
+ - 🚖 [Dogs man... We don&amp;#039;t deserve them](http://9gag.com/gag/aBn8oVZ)
+ - 🚯 [I work as a maintenance engineer in a steel factory. And I have weird tastes. So the rising sun over our junk yard this morning looked pretty. And I&amp;#039;m feeling blessed that I have a job I love, despite having to work on Sunday 2.January.](http://9gag.com/gag/aQXeVKw)
+ - 🚯 [Lmao khaleesi](http://9gag.com/gag/aRrjyQG)<!-- MEMES:END -->
 
 --- 
 
