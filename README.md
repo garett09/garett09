@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2022 monitor rumored to be half the price of the Pro Display XDR](https://appleinsider.com/articles/22/01/02/apples-2022-monitor-expected-to-ship-at-half-the-price-of-the-pro-display-xdr?utm_medium=rss)
- - [AirPods Pro 2 may come with lossless audio support and a charging case that makes sound](https://www.theverge.com/2022/1/2/22863442/airpods-pro-2-lossless-audio-charging-case-sound)
- - [Smaller Mac Pro with Apple Silicon to join Mac mini refresh in 2022](https://appleinsider.com/articles/22/01/02/smaller-mac-pro-with-apple-silicon-to-join-mac-mini-refresh-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Save on the Apple Watch Series 7, including Product &lpar;RED&rpar; models](https://appleinsider.com/articles/22/01/02/deal-save-on-the-apple-watch-series-7-including-product-red-models?utm_medium=rss)
+ - [10 most controversial apps and games from 2021](https://www.androidauthority.com/most-controversial-apps-games-2021-3079961/)
+ - [Twitter permanently suspends one of Georgia GOP Rep. Marjorie Taylor Greene&#39;s accounts for repeated violations of its COVID-19 misinformation policy &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/220102/p2#a220102p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
