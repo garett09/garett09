@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Check out the &amp;quot;Capture of the Dutch fleet at Den Helder&amp;quot;, great story](http://9gag.com/gag/a31Mx75)
- - 🚯 [Take that, you shit](http://9gag.com/gag/aqG1dDM)
- - 🚯 [Lmao khaleesi](http://9gag.com/gag/aRrjyQG)<!-- MEMES:END -->
+ - 🚖 [Take that, you shit](http://9gag.com/gag/aqG1dDM)
+ - 🚯 [Amazon warehouses](http://9gag.com/gag/arn5dpB)
+ - 🚯 [See how both men look up....](http://9gag.com/gag/awzQG74)<!-- MEMES:END -->
 
 --- 
 
