@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US officials ask AT&amp;T, Verizon to delay 5G wireless](https://techncruncher.blogspot.com/2022/01/us-officials-ask-at-verizon-to-delay-5g.html)
- - [Japan to help build Bill Gates’ high-tech nuclear reactor in Wyoming: report](https://techncruncher.blogspot.com/2022/01/japan-to-help-build-bill-gates-high.html)
- - [Spider-Man: No Way Home&#39;s Amazing Co-Stars Nearly Had a Much Different Introduction](https://techncruncher.blogspot.com/2022/01/spider-man-no-way-homes-amazing-co.html)<!-- TECH:END -->
+ - [5 things we want to see from Xiaomi in 2022](https://www.androidauthority.com/xiaomi-2022-3072575/)
+ - [The Weekly Authority: Xiaomi 12 launch](https://www.androidauthority.com/newsletters/the-weekly-authority-xiaomi-12-and-ces-2022/)
+ - [US officials ask AT&amp;T, Verizon to delay 5G wireless](https://techncruncher.blogspot.com/2022/01/us-officials-ask-at-verizon-to-delay-5g.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
