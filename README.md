@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram now has reactions, hidden text, translation and QR codes](https://techncruncher.blogspot.com/2022/01/telegram-now-has-reactions-hidden-text.html)
  - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)
- - [Biggest Harry Potter reunion surprises: Emma Watson &#39;fell in love&#39; with who?     - CNET](https://www.cnet.com/news/biggest-harry-potter-reunion-surprises-emma-watson-fell-in-love-with-who/#ftag=CAD590a51e)
- - [IDC estimates global desktop shipments rose 7% YoY in 2021 after dropping sharply in 2020, as some remote workers who started on laptops switched to desktops &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220101/p8#a220101p8)<!-- TECH:END -->
+ - [Biggest Harry Potter reunion surprises: Emma Watson &#39;fell in love&#39; with who?     - CNET](https://www.cnet.com/news/biggest-harry-potter-reunion-surprises-emma-watson-fell-in-love-with-who/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
