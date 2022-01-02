@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New MacBook Air predicted to have &#39;marginally faster&#39; Apple Silicon M2 processor](https://appleinsider.com/articles/22/01/02/new-macbook-air-predicted-to-have-marginally-faster-apple-silicon-m2-processor?utm_medium=rss)
- - [2022 &#39;iPhone 14&#39; rumored to ditch screen notch, new iPhone SE will have 5G](https://appleinsider.com/articles/22/01/02/updated-iphone-14-forecast-to-lose-the-notch-from-the-screen?utm_medium=rss)
- - [5 things we want to see from Google in 2022](https://www.androidauthority.com/google-2022-3072250/)<!-- TECH:END -->
+ - [Apple&#39;s 2022 monitor rumored to be half the price of the Pro Display XDR](https://appleinsider.com/articles/22/01/02/apples-2022-monitor-expected-to-ship-at-half-the-price-of-the-pro-display-xdr?utm_medium=rss)
+ - [AirPods Pro 2 may come with lossless audio support and a charging case that makes sound](https://www.theverge.com/2022/1/2/22863442/airpods-pro-2-lossless-audio-charging-case-sound)
+ - [Smaller Mac Pro with Apple Silicon to join Mac mini refresh in 2022](https://appleinsider.com/articles/22/01/02/smaller-mac-pro-with-apple-silicon-to-join-mac-mini-refresh-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
