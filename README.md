@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save on the Apple Watch Series 7, including Product &lpar;RED&rpar; models](https://appleinsider.com/articles/22/01/02/deal-save-on-the-apple-watch-series-7-including-product-red-models?utm_medium=rss)
- - [10 most controversial apps and games from 2021](https://www.androidauthority.com/most-controversial-apps-games-2021-3079961/)
- - [Twitter permanently suspends one of Georgia GOP Rep. Marjorie Taylor Greene&#39;s accounts for repeated violations of its COVID-19 misinformation policy &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/220102/p2#a220102p2)<!-- TECH:END -->
+ - [Over 140,000 gaming firms close as China continues new license freeze](https://appleinsider.com/articles/22/01/02/over-140000-gaming-firms-close-as-china-continues-new-license-freeze?utm_medium=rss)
+ - [Kuo: second-generation AirPods Pro will have lossless audio support and a charging case that can emit a sound for location tracking purposes &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220102/p3#a220102p3)
+ - [Twitter permanently suspends Marjorie Taylor Greene’s personal account over COVID-19 misinformation](https://www.theverge.com/2022/1/2/22863583/twitter-marjorie-taylor-greene-banned-covid-19-misinformation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
