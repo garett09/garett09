@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marjorie Taylor Greene&#39;s Personal Twitter Account Permanently Suspended](https://techncruncher.blogspot.com/2022/01/marjorie-taylor-greenes-personal.html)
  - [EU drafts plan to label gas and nuclear investments as green](https://techncruncher.blogspot.com/2022/01/eu-drafts-plan-to-label-gas-and-nuclear.html)
- - [Deal: Save on the Apple Watch Series 7, including Product &lpar;RED&rpar; models](https://appleinsider.com/articles/22/01/02/deal-save-on-the-apple-watch-series-7-including-product-red-models?utm_medium=rss)
- - [Microsoft has released an emergency fix for a year 2022 bug that is breaking email delivery on on-premise Microsoft Exchange servers &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220102/p5#a220102p5)<!-- TECH:END -->
+ - [2021’s biggest cryptocurrencies: Here’s how much money you could have made](https://www.androidauthority.com/best-cryptocurrencies-2021-3078983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
