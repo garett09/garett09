@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s 2022, and the Surface Duo still doesn’t have Android 11](https://www.theverge.com/2022/1/1/22862649/microsoft-surface-duo-android-11-missed-update)
- - [Square Enix promises ‘decentralized games’ in 2022](https://www.theverge.com/2022/1/1/22862646/square-enix-2022-new-years-letter-metaverse-nfts-decentralized-gaming)
- - [Chief Justice Roberts says Judiciary Conference will review rules that led to a concentration of patent cases in a Texas court criticized by Apple and Google &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/220101/p7#a220101p7)<!-- TECH:END -->
+ - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)
+ - [Buttigieg, FAA ask AT&amp;T, Verizon to delay their 5G launches     - CNET](https://www.cnet.com/tech/services-and-software/buttigieg-faa-ask-at-t-verizon-to-delay-their-5g-launches/#ftag=CAD590a51e)
+ - [It’s 2022, and the Surface Duo still doesn’t have Android 11](https://www.theverge.com/2022/1/1/22862649/microsoft-surface-duo-android-11-missed-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
