@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finland, some badass cashier&amp;rsquo;s no need for security.](http://9gag.com/gag/aGzeOEw)
+ - 🚖 [Destroyer of nuggies](http://9gag.com/gag/angjVeE)
  - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)
- - 🚯 [Multiverse goes brrr](http://9gag.com/gag/arn58Xy)<!-- MEMES:END -->
+ - 🚯 [How many &amp;quot;friends&amp;quot; do you have? &lpar;they must know your birthday&rpar;](http://9gag.com/gag/aNPzOOr)<!-- MEMES:END -->
 
 --- 
 
