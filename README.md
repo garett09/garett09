@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doomsday](http://9gag.com/gag/aGzeOGX)
- - 🚯 [For such a distance between the seats, the entire top management of the airline should be executed.](http://9gag.com/gag/abgz2r8)
+ - 🚖 [Mustard race](http://9gag.com/gag/a91ADbm)
+ - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)
  - 🚯 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)<!-- MEMES:END -->
 
 --- 
