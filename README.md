@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2021 delivered some big twists to the familiar survival game formula](https://www.pcgamer.com/2021-delivered-some-big-twists-to-the-familiar-survival-game-formula)
  - [Surreal visual novel &#39;milk inside a bag of milk&#39; has a sequel now: &#39;milk outside a bag of milk&#39;](https://www.pcgamer.com/surreal-visual-novel-milk-inside-a-bag-of-milk-has-a-sequel-now-milk-outside-a-bag-of-milk)
- - [Square Enix president knows people who &#39;play to have fun&#39; dislike NFTs, but he wants them anyway](https://www.pcgamer.com/square-enix-president-knows-people-who-play-to-have-fun-dislike-nfts-but-he-wants-them-anyway)
- - [Here&#39;s an atmospheric look at gameplay in first-person horror shooter ILL](https://www.pcgamer.com/heres-an-atmospheric-look-at-gameplay-in-first-person-horror-shooter-ill)<!-- GAME:END -->
+ - [Square Enix president knows people who &#39;play to have fun&#39; dislike NFTs, but he wants them anyway](https://www.pcgamer.com/square-enix-president-knows-people-who-play-to-have-fun-dislike-nfts-but-he-wants-them-anyway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
