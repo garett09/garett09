@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;I purrpurred for this exam.&amp;quot;](http://9gag.com/gag/amg2nAd)
- - 🚯 [To free the sheep from a ditch](http://9gag.com/gag/avA7mWb)
- - 🚯 [Happy new year](http://9gag.com/gag/a51nDnG)<!-- MEMES:END -->
+ - 🚖 [To free the sheep from a ditch](http://9gag.com/gag/avA7mWb)
+ - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)
+ - 🚯 [And I&amp;#039;m not winning......](http://9gag.com/gag/aOQBG22)<!-- MEMES:END -->
 
 --- 
 
