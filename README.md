@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Newborn Kangaroos are about the size of a knuckle. After birth, joeys travel, unassisted, through their mom&amp;#039;s thick fur to the comfort and safety of the pouch.](http://9gag.com/gag/azeqQDq)
- - 🚯 [Amazon warehouses](http://9gag.com/gag/arn5dpB)
+ - 🚖 [Lmao khaleesi](http://9gag.com/gag/aRrjyQG)
+ - 🚯 [Police officer intentionally damages car with a door while performing a search](http://9gag.com/gag/a41GV36)
  - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)<!-- MEMES:END -->
 
 --- 
