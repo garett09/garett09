@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take that, you shit](http://9gag.com/gag/aqG1dDM)
- - 🚯 [Amazon warehouses](http://9gag.com/gag/arn5dpB)
- - 🚯 [See how both men look up....](http://9gag.com/gag/awzQG74)<!-- MEMES:END -->
+ - 🚖 [It hurt itself in its confusion](http://9gag.com/gag/ajgNMmg)
+ - 🚯 [Mr Bean 2077](http://9gag.com/gag/a61V38L)
+ - 🚯 [Shoot your shot, Dan](http://9gag.com/gag/a0Z5woX)<!-- MEMES:END -->
 
 --- 
 
