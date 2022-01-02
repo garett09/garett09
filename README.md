@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mustard race](http://9gag.com/gag/a91ADbm)
- - 🚯 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)
- - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)<!-- MEMES:END -->
+ - 🚖 [Finland, some badass cashier&amp;rsquo;s no need for security.](http://9gag.com/gag/aGzeOEw)
+ - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)
+ - 🚯 [Multiverse goes brrr](http://9gag.com/gag/arn58Xy)<!-- MEMES:END -->
 
 --- 
 
