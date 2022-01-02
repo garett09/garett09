@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The USDA’s new labeling for genetically modified foods goes into effect Jan. 1. Here’s what you need to know.](https://techncruncher.blogspot.com/2022/01/the-usdas-new-labeling-for-genetically.html)
- - [RedLine Malware alert! Your accounts and passwords saved on Chrome or Edge might be hacked. Know how to check](https://techncruncher.blogspot.com/2022/01/redline-malware-alert-your-accounts-and.html)
- - [Telegram now has reactions, hidden text, translation and QR codes](https://techncruncher.blogspot.com/2022/01/telegram-now-has-reactions-hidden-text.html)<!-- TECH:END -->
+ - [Spider-Man: No Way Home&#39;s Amazing Co-Stars Nearly Had a Much Different Introduction](https://techncruncher.blogspot.com/2022/01/spider-man-no-way-homes-amazing-co.html)
+ - [She-Hulk: Jameela Jamil suits up as Titania in jaw-dropping first look set photo?](https://techncruncher.blogspot.com/2022/01/she-hulk-jameela-jamil-suits-up-as.html)
+ - [The USDA’s new labeling for genetically modified foods goes into effect Jan. 1. Here’s what you need to know.](https://techncruncher.blogspot.com/2022/01/the-usdas-new-labeling-for-genetically.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
