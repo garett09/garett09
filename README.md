@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kuma Is The Best Character In The Tekken Series](https://kotaku.com/kuma-is-the-best-character-in-the-tekken-series-1844729011)
  - [Sunday Comics: 2022](https://kotaku.com/sunday-comics-2022-1848294824)
- - [George R.R. Martin thinks Elden Ring &#39;looks incredible&#39;](https://www.pcgamer.com/george-rr-martin-thinks-elden-ring-looks-incredible)
- - [Square Enix President Hopes NFTs, Blockchain Games Become &#39;Major Trend In Gaming Going Forward&#39;](https://kotaku.com/square-enix-president-hopes-nfts-blockchain-games-beco-1848294675)<!-- GAME:END -->
+ - [George R.R. Martin thinks Elden Ring &#39;looks incredible&#39;](https://www.pcgamer.com/george-rr-martin-thinks-elden-ring-looks-incredible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
