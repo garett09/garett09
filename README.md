@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingston explains why DDR5 costs so much, and when it will be the dominant memory tech for PCs](https://www.pcgamer.com/kingston-explains-why-ddr5-costs-so-much-and-when-it-will-be-the-dominant-memory-tech-for-pcs)
- - [12 best movies new to streaming to watch in January 2022](https://www.polygon.com/2022/1/2/22857377/best-new-movies-netflix-amazon-hbo-january-2021)
- - [Great moments in PC gaming: Screwing around with physics objects while you wait for a match to start](https://www.pcgamer.com/great-moments-in-pc-gaming-screwing-around-with-physics-objects-while-you-wait-for-a-match-to-start)<!-- GAME:END -->
+ - [Sunday Comics: 2022](https://kotaku.com/sunday-comics-2022-1848294824)
+ - [George R.R. Martin thinks Elden Ring &#39;looks incredible&#39;](https://www.pcgamer.com/george-rr-martin-thinks-elden-ring-looks-incredible)
+ - [Square Enix President Hopes NFTs, Blockchain Games Become &#39;Major Trend In Gaming Going Forward&#39;](https://kotaku.com/square-enix-president-hopes-nfts-blockchain-games-beco-1848294675)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
