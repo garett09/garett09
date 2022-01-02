@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)
- - [Buttigieg, FAA ask AT&amp;T, Verizon to delay their 5G launches     - CNET](https://www.cnet.com/tech/services-and-software/buttigieg-faa-ask-at-t-verizon-to-delay-their-5g-launches/#ftag=CAD590a51e)
- - [It’s 2022, and the Surface Duo still doesn’t have Android 11](https://www.theverge.com/2022/1/1/22862649/microsoft-surface-duo-android-11-missed-update)<!-- TECH:END -->
+ - [WWE Day 1 2021: Roman Reigns pulled, start times, how to watch and Peacock     - CNET](https://www.cnet.com/news/wwe-day-1-2021-roman-reigns-pulled-start-times-how-to-watch-and-peacock/#ftag=CAD590a51e)
+ - [WWE Day 1 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-day-1-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
