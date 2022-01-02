@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moon-landing-denier gets sucker-punched by Buzz Aldrin.](http://9gag.com/gag/a71DN5q)
- - 🚯 [Doomsday](http://9gag.com/gag/aGzeOGX)
- - 🚯 [Why change a winning formula](http://9gag.com/gag/a818Kje)<!-- MEMES:END -->
+ - 🚖 [Why change a winning formula](http://9gag.com/gag/a818Kje)
+ - 🚯 [Mustard race](http://9gag.com/gag/a91ADbm)
+ - 🚯 [Doomsday](http://9gag.com/gag/aGzeOGX)<!-- MEMES:END -->
 
 --- 
 
