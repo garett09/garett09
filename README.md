@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Man: No Way Home&#39;s Amazing Co-Stars Nearly Had a Much Different Introduction](https://techncruncher.blogspot.com/2022/01/spider-man-no-way-homes-amazing-co.html)
- - [She-Hulk: Jameela Jamil suits up as Titania in jaw-dropping first look set photo?](https://techncruncher.blogspot.com/2022/01/she-hulk-jameela-jamil-suits-up-as.html)
- - [The USDA’s new labeling for genetically modified foods goes into effect Jan. 1. Here’s what you need to know.](https://techncruncher.blogspot.com/2022/01/the-usdas-new-labeling-for-genetically.html)<!-- TECH:END -->
+ - [US officials ask AT&amp;T, Verizon to delay 5G wireless](https://techncruncher.blogspot.com/2022/01/us-officials-ask-at-verizon-to-delay-5g.html)
+ - [Japan to help build Bill Gates’ high-tech nuclear reactor in Wyoming: report](https://techncruncher.blogspot.com/2022/01/japan-to-help-build-bill-gates-high.html)
+ - [Spider-Man: No Way Home&#39;s Amazing Co-Stars Nearly Had a Much Different Introduction](https://techncruncher.blogspot.com/2022/01/spider-man-no-way-homes-amazing-co.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
