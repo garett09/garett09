@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)
- - 🚯 [Is this fair?](http://9gag.com/gag/aBn8GAQ)
+ - 🚖 [Doomsday](http://9gag.com/gag/aGzeOGX)
+ - 🚯 [Moon-landing-denier gets sucker-punched by Buzz Aldrin.](http://9gag.com/gag/a71DN5q)
  - 🚯 [Why change a winning formula](http://9gag.com/gag/a818Kje)<!-- MEMES:END -->
 
 --- 
