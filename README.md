@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [She made it](http://9gag.com/gag/aqG1pDv)
- - 🚯 [Guy recording himself taking a walk outside at -50&amp;deg;C in the coldest city in the world, Yakutzk.](http://9gag.com/gag/avA74rW)
- - 🚯 [Oyster shuckers in South Carolina, 1912. Josie &lpar;6 years old&rpar;, Bertha &lpar;6 years old&rpar; and Sophie &lpar;10 years old&rpar; started work at 4am at the Maggioni Canning Co. Photo by Lewis Wickes Hine.](http://9gag.com/gag/a61V348)<!-- MEMES:END -->
+ - 🚯 [Oyster shuckers in South Carolina, 1912. Josie &lpar;6 years old&rpar;, Bertha &lpar;6 years old&rpar; and Sophie &lpar;10 years old&rpar; started work at 4am at the Maggioni Canning Co. Photo by Lewis Wickes Hine.](http://9gag.com/gag/a61V348)
+ - 🚯 [Mr Bean 2077](http://9gag.com/gag/a61V38L)<!-- MEMES:END -->
 
 --- 
 
