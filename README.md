@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 140,000 gaming firms close as China continues new license freeze](https://appleinsider.com/articles/22/01/02/over-140000-gaming-firms-close-as-china-continues-new-license-freeze?utm_medium=rss)
- - [Kuo: second-generation AirPods Pro will have lossless audio support and a charging case that can emit a sound for location tracking purposes &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220102/p3#a220102p3)
- - [Twitter permanently suspends Marjorie Taylor Greene’s personal account over COVID-19 misinformation](https://www.theverge.com/2022/1/2/22863583/twitter-marjorie-taylor-greene-banned-covid-19-misinformation)<!-- TECH:END -->
+ - [Upcoming streaming shows and movies we’re excited for in 2022](https://www.androidauthority.com/upcoming-shows-movies-2022-streaming-3075067/)
+ - [AT&amp;T and Verizon reject the US Transportation Secretary&#39;s and FAA&#39;s request to delay rolling out new 5G services near airports, but may pause some deployments &lpar;Bloomberg&rpar;](http://www.techmeme.com/220102/p4#a220102p4)
+ - [GERMAN FINANCE MINISTER PLEDGES TAX RELIEF FROM 2023](https://techncruncher.blogspot.com/2022/01/german-finance-minister-pledges-tax.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
