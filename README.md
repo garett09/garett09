@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 delivered some big twists to the familiar survival game formula](https://www.pcgamer.com/2021-delivered-some-big-twists-to-the-familiar-survival-game-formula)
- - [Surreal visual novel &#39;milk inside a bag of milk&#39; has a sequel now: &#39;milk outside a bag of milk&#39;](https://www.pcgamer.com/surreal-visual-novel-milk-inside-a-bag-of-milk-has-a-sequel-now-milk-outside-a-bag-of-milk)
- - [Square Enix president knows people who &#39;play to have fun&#39; dislike NFTs, but he wants them anyway](https://www.pcgamer.com/square-enix-president-knows-people-who-play-to-have-fun-dislike-nfts-but-he-wants-them-anyway)<!-- GAME:END -->
+ - [Kingston explains why DDR5 costs so much, and when it will be the dominant memory tech for PCs](https://www.pcgamer.com/kingston-explains-why-ddr5-costs-so-much-and-when-it-will-be-the-dominant-memory-tech-for-pcs)
+ - [12 best movies new to streaming to watch in January 2022](https://www.polygon.com/2022/1/2/22857377/best-new-movies-netflix-amazon-hbo-january-2021)
+ - [Great moments in PC gaming: Screwing around with physics objects while you wait for a match to start](https://www.pcgamer.com/great-moments-in-pc-gaming-screwing-around-with-physics-objects-while-you-wait-for-a-match-to-start)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
