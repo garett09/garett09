@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming streaming shows and movies we’re excited for in 2022](https://www.androidauthority.com/upcoming-shows-movies-2022-streaming-3075067/)
- - [AT&amp;T and Verizon reject the US Transportation Secretary&#39;s and FAA&#39;s request to delay rolling out new 5G services near airports, but may pause some deployments &lpar;Bloomberg&rpar;](http://www.techmeme.com/220102/p4#a220102p4)
- - [GERMAN FINANCE MINISTER PLEDGES TAX RELIEF FROM 2023](https://techncruncher.blogspot.com/2022/01/german-finance-minister-pledges-tax.html)<!-- TECH:END -->
+ - [Over 140,000 gaming firms close as China continues new license freeze](https://appleinsider.com/articles/22/01/02/over-140000-gaming-firms-close-as-china-continues-new-license-freeze?utm_medium=rss)
+ - [China to cut new energy vehicle subsidies by 30% in 2022](https://techncruncher.blogspot.com/2022/01/china-to-cut-new-energy-vehicle.html)
+ - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
