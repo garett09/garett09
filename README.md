@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram now has reactions, hidden text, translation and QR codes](https://techncruncher.blogspot.com/2022/01/telegram-now-has-reactions-hidden-text.html)
- - [HomeKit bug affecting iOS disclosed by security researcher](https://appleinsider.com/articles/22/01/01/homekit-bug-affecting-ios-disclosed-by-security-researcher?utm_medium=rss)
- - [Biggest Harry Potter reunion surprises: Emma Watson &#39;fell in love&#39; with who?     - CNET](https://www.cnet.com/news/biggest-harry-potter-reunion-surprises-emma-watson-fell-in-love-with-who/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The USDA’s new labeling for genetically modified foods goes into effect Jan. 1. Here’s what you need to know.](https://techncruncher.blogspot.com/2022/01/the-usdas-new-labeling-for-genetically.html)
+ - [RedLine Malware alert! Your accounts and passwords saved on Chrome or Edge might be hacked. Know how to check](https://techncruncher.blogspot.com/2022/01/redline-malware-alert-your-accounts-and.html)
+ - [Telegram now has reactions, hidden text, translation and QR codes](https://techncruncher.blogspot.com/2022/01/telegram-now-has-reactions-hidden-text.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
