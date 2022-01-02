@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao khaleesi](http://9gag.com/gag/aRrjyQG)
- - 🚯 [Police officer intentionally damages car with a door while performing a search](http://9gag.com/gag/a41GV36)
- - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)<!-- MEMES:END -->
+ - 🚖 [When you lose the especial combo.](http://9gag.com/gag/aggYdo6)
+ - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)
+ - 🚯 [Japan strikes again](http://9gag.com/gag/a51nDbG)<!-- MEMES:END -->
 
 --- 
 
