@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Mustard race](http://9gag.com/gag/a91ADbm)
- - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)
- - 🚯 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)<!-- MEMES:END -->
+ - 🚯 [Today i got my Engagement Ring Back... Cheers to 2022](http://9gag.com/gag/aQXeOMd)
+ - 🚯 [Yearly rewatch #2](http://9gag.com/gag/a214OWe)<!-- MEMES:END -->
 
 --- 
 
