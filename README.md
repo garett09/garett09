@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Body Farms and Human Composting Can Help Communities](https://www.wired.com/story/body-farms-human-composting-climate-change)
- - [Our Favorite Paper Planners for Crossing Tasks off Your List](https://www.wired.com/gallery/our-favorite-paper-planners)
- - [AirPods Pro 2 charging case trackable like AirTag, may come with health sensors](https://appleinsider.com/articles/22/01/02/airpods-pro-2-charging-case-trackable-like-airtag-may-come-with-health-sensors?utm_medium=rss)<!-- TECH:END -->
+ - [New MacBook Air predicted to have &#39;marginally faster&#39; Apple Silicon M2 processor](https://appleinsider.com/articles/22/01/02/new-macbook-air-predicted-to-have-marginally-faster-apple-silicon-m2-processor?utm_medium=rss)
+ - [2022 &#39;iPhone 14&#39; rumored to ditch screen notch, new iPhone SE will have 5G](https://appleinsider.com/articles/22/01/02/updated-iphone-14-forecast-to-lose-the-notch-from-the-screen?utm_medium=rss)
+ - [5 things we want to see from Google in 2022](https://www.androidauthority.com/google-2022-3072250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
