@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For legal purposes, this is a joke](http://9gag.com/gag/amg2pKj)
- - 🚯 [&amp;quot;I purrpurred for this exam.&amp;quot;](http://9gag.com/gag/amg2nAd)
- - 🚯 [Dogs man... We don&amp;#039;t deserve them](http://9gag.com/gag/aBn8oVZ)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;I purrpurred for this exam.&amp;quot;](http://9gag.com/gag/amg2nAd)
+ - 🚯 [To free the sheep from a ditch](http://9gag.com/gag/avA7mWb)
+ - 🚯 [Happy new year](http://9gag.com/gag/a51nDnG)<!-- MEMES:END -->
 
 --- 
 
