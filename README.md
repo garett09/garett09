@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we want to see from Xiaomi in 2022](https://www.androidauthority.com/xiaomi-2022-3072575/)
- - [The Weekly Authority: Xiaomi 12 launch](https://www.androidauthority.com/newsletters/the-weekly-authority-xiaomi-12-and-ces-2022/)
- - [US officials ask AT&amp;T, Verizon to delay 5G wireless](https://techncruncher.blogspot.com/2022/01/us-officials-ask-at-verizon-to-delay-5g.html)<!-- TECH:END -->
+ - [AirPods Pro 2 charging case trackable like AirTag, may come with health sensors](https://appleinsider.com/articles/22/01/02/airpods-pro-2-charging-case-trackable-like-airtag-may-come-with-health-sensors?utm_medium=rss)
+ - [Yup, CES Is Happening. Here’s What to Expect](https://www.wired.com/story/ces-2022-what-to-expect)
+ - [Crime Prediction Keeps Society Stuck in the Past](https://www.wired.com/story/crime-prediction-racist-history)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
