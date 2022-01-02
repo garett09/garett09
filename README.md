@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It hurt itself in its confusion](http://9gag.com/gag/ajgNMmg)
- - 🚯 [Mr Bean 2077](http://9gag.com/gag/a61V38L)
- - 🚯 [Shoot your shot, Dan](http://9gag.com/gag/a0Z5woX)<!-- MEMES:END -->
+ - 🚖 [I dont remember ROBOCOP to be this extreme](http://9gag.com/gag/amg2bO2)
+ - 🚯 [Currently posted all over my town](http://9gag.com/gag/amg2dW9)
+ - 🚯 [When you lose the especial combo.](http://9gag.com/gag/aggYdo6)<!-- MEMES:END -->
 
 --- 
 
