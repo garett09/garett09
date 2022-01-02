@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 140,000 gaming firms close as China continues new license freeze](https://appleinsider.com/articles/22/01/02/over-140000-gaming-firms-close-as-china-continues-new-license-freeze?utm_medium=rss)
- - [China to cut new energy vehicle subsidies by 30% in 2022](https://techncruncher.blogspot.com/2022/01/china-to-cut-new-energy-vehicle.html)
- - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [EU drafts plan to label gas and nuclear investments as green](https://techncruncher.blogspot.com/2022/01/eu-drafts-plan-to-label-gas-and-nuclear.html)
+ - [Deal: Save on the Apple Watch Series 7, including Product &lpar;RED&rpar; models](https://appleinsider.com/articles/22/01/02/deal-save-on-the-apple-watch-series-7-including-product-red-models?utm_medium=rss)
+ - [Microsoft has released an emergency fix for a year 2022 bug that is breaking email delivery on on-premise Microsoft Exchange servers &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220102/p5#a220102p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
