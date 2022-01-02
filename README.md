@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marjorie Taylor Greene&#39;s Personal Twitter Account Permanently Suspended](https://techncruncher.blogspot.com/2022/01/marjorie-taylor-greenes-personal.html)
- - [EU drafts plan to label gas and nuclear investments as green](https://techncruncher.blogspot.com/2022/01/eu-drafts-plan-to-label-gas-and-nuclear.html)
- - [2021’s biggest cryptocurrencies: Here’s how much money you could have made](https://www.androidauthority.com/best-cryptocurrencies-2021-3078983/)<!-- TECH:END -->
+ - [AT&amp;T, Verizon CEOs reject FAA request to delay 5G expansions scheduled to start January 5th](https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected)
+ - [Best Deals January 2: half off Wacom Intuos drawing tablet, TurboTax on sale, more!](https://appleinsider.com/articles/22/01/02/best-deals-january-2-half-off-wacom-intuos-drawing-tablet-turbotax-on-sale-more?utm_medium=rss)
+ - [Microsoft issues a fix for Exchange Y2K22 bug that shut down company emails](https://www.theverge.com/2022/1/2/22863950/microsoft-exchange-y2k22-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
