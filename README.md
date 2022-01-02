@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Peacemaker trailer revs up DC’s very un-Marvel-like year of movies and shows](https://www.polygon.com/22863695/peacemaker-trailer-dc-movie-tv-release-dates-2022)
  - [Kuma Is The Best Character In The Tekken Series](https://kotaku.com/kuma-is-the-best-character-in-the-tekken-series-1844729011)
- - [Sunday Comics: 2022](https://kotaku.com/sunday-comics-2022-1848294824)
- - [George R.R. Martin thinks Elden Ring &#39;looks incredible&#39;](https://www.pcgamer.com/george-rr-martin-thinks-elden-ring-looks-incredible)<!-- GAME:END -->
+ - [Sunday Comics: 2022](https://kotaku.com/sunday-comics-2022-1848294824)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
