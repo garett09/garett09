@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So wholesome to see those two together again](http://9gag.com/gag/adg9dd9)
- - 🚯 [See how both men look up....](http://9gag.com/gag/awzQG74)
+ - 🚖 [She made it](http://9gag.com/gag/aqG1pDv)
+ - 🚯 [Guy recording himself taking a walk outside at -50&amp;deg;C in the coldest city in the world, Yakutzk.](http://9gag.com/gag/avA74rW)
  - 🚯 [Oyster shuckers in South Carolina, 1912. Josie &lpar;6 years old&rpar;, Bertha &lpar;6 years old&rpar; and Sophie &lpar;10 years old&rpar; started work at 4am at the Maggioni Canning Co. Photo by Lewis Wickes Hine.](http://9gag.com/gag/a61V348)<!-- MEMES:END -->
 
 --- 
