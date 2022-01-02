@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To free the sheep from a ditch](http://9gag.com/gag/avA7mWb)
- - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)
- - 🚯 [And I&amp;#039;m not winning......](http://9gag.com/gag/aOQBG22)<!-- MEMES:END -->
+ - 🚖 [Newborn Kangaroos are about the size of a knuckle. After birth, joeys travel, unassisted, through their mom&amp;#039;s thick fur to the comfort and safety of the pouch.](http://9gag.com/gag/azeqQDq)
+ - 🚯 [Amazon warehouses](http://9gag.com/gag/arn5dpB)
+ - 🚯 [Perfection.](http://9gag.com/gag/aogOD6m)<!-- MEMES:END -->
 
 --- 
 
