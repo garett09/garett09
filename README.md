@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MOM, there&amp;#039;s a weird cat outside](http://9gag.com/gag/axB0eB1)
- - 🚯 [Specialized fire blanket can isolate a car fire in less than 20 second and avoid the risk of heavy smoke or fire spread](http://9gag.com/gag/aPZ90Lg)
- - 🚯 [Too much....](http://9gag.com/gag/a51n9ON)<!-- MEMES:END -->
+ - 🚖 [Specialized fire blanket can isolate a car fire in less than 20 second and avoid the risk of heavy smoke or fire spread](http://9gag.com/gag/aPZ90Lg)
+ - 🚯 [This is a nice post](http://9gag.com/gag/aGzeqbZ)
+ - 🚯 [Life of Students ...](http://9gag.com/gag/azeqyEp)<!-- MEMES:END -->
 
 --- 
 
