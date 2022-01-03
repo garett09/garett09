@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Last day of work &lpar;new year shift&rpar;, Cooper mine, &amp;quot;La Escondida&amp;quot;, Chile](http://9gag.com/gag/aOQB52D)
- - 🚯 [Suspicious](http://9gag.com/gag/aM4A7zX)
- - 🚯 [After 33 years of living I bought a house with my girlfriend. Feels good to own land](http://9gag.com/gag/a818Omp)<!-- MEMES:END -->
+ - 🚖 [Fixed it for you](http://9gag.com/gag/aAGD5d9)
+ - 🚯 [Won&amp;#039;t be a home owner](http://9gag.com/gag/aLv8oXx)
+ - 🚯 [The audacity of the b*tch... I mean, I specifically went for her because of how much emphasis she put about staying loyal when we were getting to know each other...](http://9gag.com/gag/azeqygZ)<!-- MEMES:END -->
 
 --- 
 
