@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung promises ‘groundbreaking’ new TV feature: NFT support](https://www.theverge.com/2022/1/2/22858698/samsung-2022-tvs-nft-support-announced-cryptocurrency)
- - [Samsung’s new TV remote uses radio waves from your router to stay charged](https://www.theverge.com/2022/1/2/22860390/samsung-eco-remote-2022-solar-rf-harvesting-charging)
- - [Samsung’s new 2022 TVs bring Nvidia GeForce Now and Google Stadia gaming](https://www.theverge.com/22862814/samsung-2022-tv-geforce-now-stadia-nvidia-google-utomik-cloud-gaming)<!-- TECH:END -->
+ - [Samsung unveils Samsung Gaming Hub, coming to select 2022 Samsung TVs, to add built-in support for Google Stadia, Nvidia&#39;s GeForce Now, and Utomik cloud gaming &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220102/p9#a220102p9)
+ - [Samsung gaming hub adds Google Stadia, Nvidia GeForce Now to TVs at CES 2022     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-gaming-hub-adds-google-stadia-nvidia-geforce-now-games-at-ces-2022/#ftag=CAD590a51e)
+ - [CES 2022: Samsung&#39;s new Eco Remotes draw power from radio waves     - CNET](https://www.cnet.com/tech/home-entertainment/samsungs-new-eco-remotes-draw-power-from-radio-waves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
