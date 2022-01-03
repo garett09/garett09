@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple becomes the world&#39;s first company with a $3 trillion market cap](https://appleinsider.com/articles/22/01/03/apple-becomes-the-worlds-first-company-with-a-3-trillion-market-cap?utm_medium=rss)
- - [Apple becomes the first US company to reach a $3T market cap, tripling its valuation in under four years &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220103/p10#a220103p10)
- - [Apple&#39;s $3 trillion valuation is the least interesting news about the company](https://appleinsider.com/articles/22/01/03/apples-3-trillion-valuation-is-the-least-interesting-news-about-the-company?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the accessories you’ll need for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)
+ - [Ken Levine’s ambitious new game is reportedly in development hell](https://www.theverge.com/2022/1/3/22865129/ken-levine-ghost-story-games-development-direction-problems)
+ - [AirPods Pro 2 rumors: Everything we&#39;ve heard about Apple&#39;s next earbuds     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-rumors-everything-weve-heard-about-apples-next-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
