@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam starts 2022 with a new concurrent user record of 27.9M](https://www.pcgamer.com/steam-starts-2022-with-a-new-concurrent-user-record-of-279m)
- - [Report: Ken Levine&#39;s Ghost Story Studio Is Nowhere Near Releasing A Game](https://kotaku.com/report-ken-levines-ghost-story-studio-is-nowhere-near-1848297126)
- - [Luke Cage must defeat the Kingpin ... in an election for mayor of New York City](https://www.polygon.com/2022/1/3/22860253/kingpin-marvel-comics-luke-cage-devils-reign)<!-- GAME:END -->
+ - [The Weeknd teams with Jim Carrey for ‘new sonic universe’ album dropping Jan. 7](https://www.polygon.com/22865026/the-weeknd-dawn-fm-release-new-album)
+ - [Where is the last present in Fortnite Winterfest?](https://www.pcgamer.com/fortnite-where-is-the-last-present-winterfest)
+ - [Steam starts 2022 with a new concurrent user record of 27.9M](https://www.pcgamer.com/steam-starts-2022-with-a-new-concurrent-user-record-of-279m)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
