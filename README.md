@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Luke Cage must defeat the Kingpin ... in an election for mayor of New York City](https://www.polygon.com/2022/1/3/22860253/kingpin-marvel-comics-luke-cage-devils-reign)
- - [Henry Cavill cherished The Witcher season 2’s sense of brotherhood](https://www.polygon.com/22864492/henry-cavill-witcher-season-2-interview-ciri-vesemir-kaer-morhen)
- - [Steam sets another user record, right on schedule](https://www.polygon.com/22865009/steam-concurrent-users-record-chart-steamdb)<!-- GAME:END -->
+ - [Steam starts 2022 with a new concurrent user record of 27.9M](https://www.pcgamer.com/steam-starts-2022-with-a-new-concurrent-user-record-of-279m)
+ - [Report: Ken Levine&#39;s Ghost Story Studio Is Nowhere Near Releasing A Game](https://kotaku.com/report-ken-levines-ghost-story-studio-is-nowhere-near-1848297126)
+ - [Luke Cage must defeat the Kingpin ... in an election for mayor of New York City](https://www.polygon.com/2022/1/3/22860253/kingpin-marvel-comics-luke-cage-devils-reign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
