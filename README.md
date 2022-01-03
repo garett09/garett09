@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend](http://9gag.com/gag/azeqyZZ)
- - 🚯 [Monday mood](http://9gag.com/gag/aYr46Dm)
+ - 🚖 [Good people still exist. A humble man washing milk before selling it](http://9gag.com/gag/arn5EQy)
+ - 🚯 [Life of Students ...](http://9gag.com/gag/azeqyEp)
  - 🚯 [My boss told me to be creative with the fish cans... What you think?](http://9gag.com/gag/aXrv3mD)<!-- MEMES:END -->
 
 --- 
