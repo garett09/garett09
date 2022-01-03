@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T &amp; Verizon won&#39;t delay 5G rollout over aviation safety concerns](https://appleinsider.com/articles/22/01/03/att-verizon-wont-delay-5g-rollout-over-aviation-safety-concerns?utm_medium=rss)
- - [These 14-inch, 16-inch MacBook Pros are $150 off &amp; in stock &lpar;AppleCare is on sale too&rpar;](https://appleinsider.com/articles/22/01/03/these-14-inch-16-inch-macbook-pros-are-150-off-in-stock-applecare-is-on-sale-too?utm_medium=rss)
- - [You can order an Xbox Series X bundle from GameStop right now](https://www.theverge.com/2022/1/3/22864924/microsoft-xbox-series-x-restock-gamestop-console-bundle-availability)<!-- TECH:END -->
+ - [Sengled unveils new HomeKit Video-Sync light strips, smart outdoor string lights](https://appleinsider.com/articles/22/01/03/sengled-unveils-new-homekit-video-sync-light-strips-smart-outdoor-string-lights?utm_medium=rss)
+ - [Apple&#39;s folding iPhone - What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)
+ - [Acer’s new Chromebook Spin has a bigger screen but shorter battery life](https://www.theverge.com/2022/1/3/22864952/acer-chromebook-spin-chrome-os-ces-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
