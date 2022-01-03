@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal rights, equal lefts.](http://9gag.com/gag/a61VgXN)
- - 🚯 [Queen&amp;#039;s Guard Makes Little Boy&amp;#039;s Birthday Wish Come True](http://9gag.com/gag/a41GgLp)
- - 🚯 [Mama mia](http://9gag.com/gag/aAGD7jL)<!-- MEMES:END -->
+ - 🚖 [Can&amp;rsquo;t decide if this was the best or worst way to advertise this](http://9gag.com/gag/aRrjGzM)
+ - 🚯 [I&amp;#039;ll take your entire stock](http://9gag.com/gag/axB0KzM)
+ - 🚯 [Iam this old..](http://9gag.com/gag/aZrgKYV)<!-- MEMES:END -->
 
 --- 
 
