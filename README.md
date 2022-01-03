@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eve introduces new outdoor HomeKit cam &amp; MotionBlinds availability at CES 2022](https://appleinsider.com/articles/22/01/03/eve-introduces-new-outdoor-homekit-cam-motionblinds-availability-at-ces-2022?utm_medium=rss)
- - [The Best Posture Correctors to Put a Stop to Your Slouch](https://www.wired.com/gallery/posture-correctors)
- - [Eve adds a smart floodlight cam and smart shades to its HomeKit portfolio](https://www.theverge.com/2022/1/3/22858260/eve-ces2022-homekit-floodlight-camera-matter-smart-shades)<!-- TECH:END -->
+ - [PitchBook: seed and early stage startups in the US raised $93B in 2021 through December 15, up from $52B in 2020 and $30B in 2016 &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/220103/p8#a220103p8)
+ - [Apple had record iPhone holiday season with strong demand ahead, analyst says](https://appleinsider.com/articles/22/01/03/apple-had-record-iphone-holiday-season-with-strong-demand-ahead-analyst-says?utm_medium=rss)
+ - [Ring Fit Adventure for Nintendo Switch is back down to its lowest price](https://www.theverge.com/good-deals/2022/1/3/22864758/ring-fit-adventure-nintendo-switch-apple-airtag-amazon-music-ps5-ssd-samsung-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
