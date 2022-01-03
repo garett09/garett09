@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody didn&amp;#039;t miss arm day!](http://9gag.com/gag/aDDzr99)
- - 🚯 [Branch integrity](http://9gag.com/gag/aggY6OK)
- - 🚯 [Kovacic goal vs Liverpool](http://9gag.com/gag/avA7X4O)<!-- MEMES:END -->
+ - 🚖 [Branch integrity](http://9gag.com/gag/aggY6OK)
+ - 🚯 [&amp;ldquo; dumps clutch and floors the pedal &amp;ldquo;](http://9gag.com/gag/avA7B9Z)
+ - 🚯 [Too much....](http://9gag.com/gag/a51n9ON)<!-- MEMES:END -->
 
 --- 
 
