@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alienware’s Concept Nyx aims to let you cast your PC games to any screen you own](https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone)
  - [Samsung unveils Samsung Gaming Hub, coming to select 2022 Samsung TVs, to add built-in support for Google Stadia, Nvidia&#39;s GeForce Now, and Utomik cloud gaming &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220102/p9#a220102p9)
- - [Samsung gaming hub adds Google Stadia, Nvidia GeForce Now to TVs at CES 2022     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-gaming-hub-adds-google-stadia-nvidia-geforce-now-games-at-ces-2022/#ftag=CAD590a51e)
  - [CES 2022: Samsung&#39;s new Eco Remotes draw power from radio waves     - CNET](https://www.cnet.com/tech/home-entertainment/samsungs-new-eco-remotes-draw-power-from-radio-waves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
