@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Eternals originally had a very different ending](https://www.polygon.com/22865329/marvels-eternals-original-ending-chloe-zhao)
- - [Veronica, Rose, and other New Vegas followers modded into Fallout 4](https://www.pcgamer.com/veronica-rose-and-other-new-vegas-followers-modded-into-fallout-4)
- - [January&#39;s PS Now And PS Plus Games Have Been Announced, Including Persona 5 Strikers](https://kotaku.com/januarys-ps-now-and-ps-plus-games-have-been-announced-1848298070)<!-- GAME:END -->
+ - [Black Book and Tunche Now Available in Myths and Legends Bundle](https://news.xbox.com/en-us/2022/01/03/black-book-and-tunche-now-available-in-myths-and-legends-bundle/)
+ - [Warhammer 40K’s Eldar to get new models in 2022](https://www.polygon.com/22865417/warhammer-40k-new-eldar-models)
+ - [Marvel’s Eternals originally had a very different ending](https://www.polygon.com/22865329/marvels-eternals-original-ending-chloe-zhao)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
