@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice to know.. Good for you.. Congratulation..](http://9gag.com/gag/aPZ92rB)
- - 🚯 [The level of precaution they have taken.](http://9gag.com/gag/avA7jQb)
- - 🚯 [Chekhov&amp;#039;s gun](http://9gag.com/gag/aggYeNq)<!-- MEMES:END -->
+ - 🚖 [Only men can relate](http://9gag.com/gag/a61V6O8)
+ - 🚯 [My salary vs. my bills.](http://9gag.com/gag/a71DXDb)
+ - 🚯 [When the planet is coming at you](http://9gag.com/gag/aWgqX7A)<!-- MEMES:END -->
 
 --- 
 
