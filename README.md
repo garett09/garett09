@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You might have to wait a while for Xiaomi 12 to come to global markets](https://www.androidauthority.com/xiaomi-12-global-release-3082486/)
  - [Alienware’s Concept Nyx aims to let you cast your PC games to any screen you own](https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone)
- - [Samsung unveils Samsung Gaming Hub, coming to select 2022 Samsung TVs, to add built-in support for Google Stadia, Nvidia&#39;s GeForce Now, and Utomik cloud gaming &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220102/p9#a220102p9)
- - [CES 2022: Samsung&#39;s new Eco Remotes draw power from radio waves     - CNET](https://www.cnet.com/tech/home-entertainment/samsungs-new-eco-remotes-draw-power-from-radio-waves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alienware Concept Nyx offers a holistic view of gaming at home     - CNET](https://www.cnet.com/tech/gaming/alienware-concept-nyx-offers-a-holistic-view-of-gaming-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
