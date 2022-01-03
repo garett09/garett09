@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis: Users spent nearly $41B on NFTs in 2021, with small transactions of under $10K accounting for more than 75% of the market &lpar;Financial Times&rpar;](http://www.techmeme.com/220103/p1#a220103p1)
  - [You might have to wait a while for Xiaomi 12 to come to global markets](https://www.androidauthority.com/xiaomi-12-global-release-3082486/)
- - [Alienware’s Concept Nyx aims to let you cast your PC games to any screen you own](https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone)
- - [Alienware Concept Nyx offers a holistic view of gaming at home     - CNET](https://www.cnet.com/tech/gaming/alienware-concept-nyx-offers-a-holistic-view-of-gaming-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alienware’s Concept Nyx aims to let you cast your PC games to any screen you own](https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
