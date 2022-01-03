@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Specialized fire blanket can isolate a car fire in less than 20 second and avoid the risk of heavy smoke or fire spread](http://9gag.com/gag/aPZ90Lg)
- - 🚯 [This is a nice post](http://9gag.com/gag/aGzeqbZ)
- - 🚯 [Life of Students ...](http://9gag.com/gag/azeqyEp)<!-- MEMES:END -->
+ - 🚖 [This is a nice post](http://9gag.com/gag/aGzeqbZ)
+ - 🚯 [Queen&amp;#039;s Guard Makes Little Boy&amp;#039;s Birthday Wish Come True](http://9gag.com/gag/a41GgLp)
+ - 🚯 [This is why you should never use TikTok feat. Ben Shapiro](http://9gag.com/gag/aogOGGm)<!-- MEMES:END -->
 
 --- 
 
