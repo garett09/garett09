@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: seed and early stage startups in the US raised $93B in 2021 through December 15, up from $52B in 2020 and $30B in 2016 &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/220103/p8#a220103p8)
- - [Apple had record iPhone holiday season with strong demand ahead, analyst says](https://appleinsider.com/articles/22/01/03/apple-had-record-iphone-holiday-season-with-strong-demand-ahead-analyst-says?utm_medium=rss)
- - [Ring Fit Adventure for Nintendo Switch is back down to its lowest price](https://www.theverge.com/good-deals/2022/1/3/22864758/ring-fit-adventure-nintendo-switch-apple-airtag-amazon-music-ps5-ssd-samsung-deal-sale)<!-- TECH:END -->
+ - [AT&amp;T &amp; Verizon won&#39;t delay 5G rollout over aviation safety concerns](https://appleinsider.com/articles/22/01/03/att-verizon-wont-delay-5g-rollout-over-aviation-safety-concerns?utm_medium=rss)
+ - [These 14-inch, 16-inch MacBook Pros are $150 off &amp; in stock &lpar;AppleCare is on sale too&rpar;](https://appleinsider.com/articles/22/01/03/these-14-inch-16-inch-macbook-pros-are-150-off-in-stock-applecare-is-on-sale-too?utm_medium=rss)
+ - [You can order an Xbox Series X bundle from GameStop right now](https://www.theverge.com/2022/1/3/22864924/microsoft-xbox-series-x-restock-gamestop-console-bundle-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
