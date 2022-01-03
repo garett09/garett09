@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla opens showroom in region of China associated with genocide allegations](https://www.theverge.com/2022/1/3/22864951/tesla-china-xinjiang-uyghur-ev-showroom)
- - [An Apple HomeKit bug can send iOS devices into a death spiral](https://www.theverge.com/2022/1/3/22865145/apple-ios-vulnerability-homekit-devices-bug-crash)
- - [Apple selling new AirPods Pro coinciding with the Year of the Tiger in certain markets](https://www.theverge.com/2022/1/3/22864887/apple-new-airpods-pro-year-of-the-tiger)<!-- TECH:END -->
+ - [Apple becomes the world&#39;s first company with a $3 trillion market cap](https://appleinsider.com/articles/22/01/03/apple-becomes-the-worlds-first-company-with-a-3-trillion-market-cap?utm_medium=rss)
+ - [Apple becomes the first US company to reach a $3T market cap, tripling its valuation in under four years &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220103/p10#a220103p10)
+ - [Apple&#39;s $3 trillion valuation is the least interesting news about the company](https://appleinsider.com/articles/22/01/03/apples-3-trillion-valuation-is-the-least-interesting-news-about-the-company?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
