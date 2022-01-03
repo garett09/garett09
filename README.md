@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung shows world&#39;s first 4k 240HZ gaming monitor before CES](https://www.pcgamer.com/samsung-shows-worlds-first-4k-240hz-gaming-monitor-before-ces)
- - [Asus develops a DDR4 to DDR5 adapter card](https://www.pcgamer.com/asus-develops-a-ddr4-to-ddr5-adapter-card)
- - [The Week In Games: A New Year, But Not Many New Games](https://kotaku.com/the-week-in-games-a-new-year-but-not-many-new-games-1848295405)<!-- GAME:END -->
+ - [The EVGA Kingpin RTX 3090 Ti may feature 1275W of power inputs](https://www.pcgamer.com/the-evga-kingpin-rtx-3090-ti-may-feature-1275w-of-power-inputs)
+ - [Company behind gamer bed releases desktop hand massager](https://www.pcgamer.com/company-behind-gamer-bed-releases-desktop-hand-massager)
+ - [Alienware&#39;s Concept Nyx aims to be four gaming PCs in one](https://www.pcgamer.com/alienwares-concept-nyx-aims-to-be-four-gaming-pcs-in-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
