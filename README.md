@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/a61VRqq)
- - 🚯 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)
- - 🚯 [Karen is pissed off that she is not allowed in without a mask, and calls 911...](http://9gag.com/gag/a11Kgzv)<!-- MEMES:END -->
+ - 🚖 [After 33 years of living I bought a house with my girlfriend. Feels good to own land](http://9gag.com/gag/a818Omp)
+ - 🚯 [Can relate 100%](http://9gag.com/gag/aXrv6N9)
+ - 🚯 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)<!-- MEMES:END -->
 
 --- 
 
