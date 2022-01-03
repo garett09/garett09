@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Book and Tunche Now Available in Myths and Legends Bundle](https://news.xbox.com/en-us/2022/01/03/black-book-and-tunche-now-available-in-myths-and-legends-bundle/)
- - [Warhammer 40K’s Eldar to get new models in 2022](https://www.polygon.com/22865417/warhammer-40k-new-eldar-models)
- - [Marvel’s Eternals originally had a very different ending](https://www.polygon.com/22865329/marvels-eternals-original-ending-chloe-zhao)<!-- GAME:END -->
+ - [If Gordon Ramsay didn’t know what Twitch was, he sure does now](https://www.polygon.com/22865469/gordon-ramsay-chef-twitch-masterchef-xqc)
+ - [Be-the-bad-guy Darkest Dungeon-alike Iratus: Lord of the Dead is free on GOG](https://www.pcgamer.com/be-the-bad-guy-darkest-dungeon-alike-iratus-lord-of-the-dead-is-free-on-gog)
+ - [The best things we caught up with before 2022](https://www.polygon.com/22864735/great-movies-shows-2022-catch-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
