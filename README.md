@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the accessories you’ll need for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)
- - [Ken Levine’s ambitious new game is reportedly in development hell](https://www.theverge.com/2022/1/3/22865129/ken-levine-ghost-story-games-development-direction-problems)
- - [AirPods Pro 2 rumors: Everything we&#39;ve heard about Apple&#39;s next earbuds     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-rumors-everything-weve-heard-about-apples-next-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elizabeth Holmes jury deadlocked on 3 charges](https://techncruncher.blogspot.com/2022/01/elizabeth-holmes-jury-deadlocked-on-3.html)
+ - [Eldest Trump children won&#39;t comply with subpoenas from New York attorney general](https://techncruncher.blogspot.com/2022/01/eldest-trump-children-wont-comply-with.html)
+ - [R&amp;B singer Omarion is tired of getting confused for Omicron variant     - CNET](https://www.cnet.com/news/r-b-artist-omarion-is-tired-of-getting-confused-for-omicron-variant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
