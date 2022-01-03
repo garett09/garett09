@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sengled unveils new HomeKit Video-Sync light strips, smart outdoor string lights](https://appleinsider.com/articles/22/01/03/sengled-unveils-new-homekit-video-sync-light-strips-smart-outdoor-string-lights?utm_medium=rss)
- - [Apple&#39;s folding iPhone - What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)
- - [Acer’s new Chromebook Spin has a bigger screen but shorter battery life](https://www.theverge.com/2022/1/3/22864952/acer-chromebook-spin-chrome-os-ces-2022)<!-- TECH:END -->
+ - [Tesla opens showroom in region of China associated with genocide allegations](https://www.theverge.com/2022/1/3/22864951/tesla-china-xinjiang-uyghur-ev-showroom)
+ - [An Apple HomeKit bug can send iOS devices into a death spiral](https://www.theverge.com/2022/1/3/22865145/apple-ios-vulnerability-homekit-devices-bug-crash)
+ - [Apple selling new AirPods Pro coinciding with the Year of the Tiger in certain markets](https://www.theverge.com/2022/1/3/22864887/apple-new-airpods-pro-year-of-the-tiger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
