@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of efforts by Apple, Amazon, Google, Meta, Microsoft, and Twitter to improve the accessibility of their products and services in 2021 &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/220103/p3#a220103p3)
- - [Daily Authority: 🤝 CES 2022 and Samsung TVs](https://www.androidauthority.com/newsletters/da-january-3-2022/)
- - [Samsung&#39;s 2022 monitors boast USB-C, mini LED backlight, smart TV apps](https://appleinsider.com/articles/22/01/03/samsungs-2022-monitors-boast-usb-c-mini-led-backlight-smart-tv-apps?utm_medium=rss)<!-- TECH:END -->
+ - [How to switch from PC to Mac, and what you need to know](https://appleinsider.com/articles/21/01/12/how-to-switch-from-pc-to-mac-and-what-you-need-to-know?utm_medium=rss)
+ - [The US takes Vladislav Klyushin, a Kremlin insider, into custody; sources say he has documents related to Russia&#39;s DNC hack during the 2016 election &lpar;Bloomberg&rpar;](http://www.techmeme.com/220103/p6#a220103p6)
+ - [OpenSea freezes 16 Ape NFTs, worth ~$2.3M, after they were reportedly stolen, leading some to point out the lack of decentralization in the NFT space &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220103/p5#a220103p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
