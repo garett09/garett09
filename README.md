@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Holmes jury deadlocked on 3 charges](https://techncruncher.blogspot.com/2022/01/elizabeth-holmes-jury-deadlocked-on-3.html)
- - [Eldest Trump children won&#39;t comply with subpoenas from New York attorney general](https://techncruncher.blogspot.com/2022/01/eldest-trump-children-wont-comply-with.html)
- - [R&amp;B singer Omarion is tired of getting confused for Omicron variant     - CNET](https://www.cnet.com/news/r-b-artist-omarion-is-tired-of-getting-confused-for-omicron-variant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sleep Number wants you to grow old in its smart beds](https://www.theverge.com/2022/1/3/22858664/sleep-number-360-smart-bed-ces-2022)
+ - [Hands off: Moen’s new smart faucet doesn’t even need a handle](https://www.theverge.com/2022/1/3/22858262/moen-smart-faucet-motion-control-smart-water-network-ces2022)
+ - [Oral-B debuts three new iPhone-connected iO smart toothbrushes](https://appleinsider.com/articles/22/01/03/oral-b-debuts-three-new-iphone-connected-io-smart-toothbrushes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
