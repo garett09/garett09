@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s lavish 2022 TVs debut with baked-in game streaming, NFT support](https://www.androidauthority.com/samsung-2022-tvs-3082487/)
- - [Chainalysis: Users spent nearly $41B on NFTs in 2021, with small transactions of under $10K accounting for more than 75% of the market &lpar;Financial Times&rpar;](http://www.techmeme.com/220103/p1#a220103p1)
- - [You might have to wait a while for Xiaomi 12 to come to global markets](https://www.androidauthority.com/xiaomi-12-global-release-3082486/)<!-- TECH:END -->
+ - [IDC: Oculus device sales in 2021 are estimated to be between 5.3M and 6.8M units, up from ~3.5M units in 2020 &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/220103/p2#a220103p2)
+ - [From a rugged Watch to VR headset: Here’s what Apple could launch in 2022](https://www.androidauthority.com/apple-devices-2022-3082517/)
+ - [Google Pixel patent hints at under-display selfie camera future](https://www.androidauthority.com/google-pixel-under-display-camera-patent-3082503/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
