@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In love with this community](http://9gag.com/gag/a41GB5y)
- - 🚯 [The armor of a French soldier wounded by a cannonball at the Battle of Waterloo &lpar;which marked the end of Napoleon.&rpar;](http://9gag.com/gag/adg9r3Q)
- - 🚯 [BBC reporter randomly asking people if they remember 1976 FA Cup match, ends up asking the Liverpool goalkeeper who played in it. Such a wholesome moment! He face just lit up when he talks about the match.](http://9gag.com/gag/aNPzG8A)<!-- MEMES:END -->
+ - 🚖 [Somebody didn&amp;#039;t miss arm day!](http://9gag.com/gag/aDDzr99)
+ - 🚯 [Branch integrity](http://9gag.com/gag/aggY6OK)
+ - 🚯 [Kovacic goal vs Liverpool](http://9gag.com/gag/avA7X4O)<!-- MEMES:END -->
 
 --- 
 
