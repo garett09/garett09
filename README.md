@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&amp;rsquo;t decide if this was the best or worst way to advertise this](http://9gag.com/gag/aRrjGzM)
- - 🚯 [I&amp;#039;ll take your entire stock](http://9gag.com/gag/axB0KzM)
- - 🚯 [Iam this old..](http://9gag.com/gag/aZrgKYV)<!-- MEMES:END -->
+ - 🚖 [Legend](http://9gag.com/gag/azeqyZZ)
+ - 🚯 [Monday mood](http://9gag.com/gag/aYr46Dm)
+ - 🚯 [My boss told me to be creative with the fish cans... What you think?](http://9gag.com/gag/aXrv3mD)<!-- MEMES:END -->
 
 --- 
 
