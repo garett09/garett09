@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep Number wants you to grow old in its smart beds](https://www.theverge.com/2022/1/3/22858664/sleep-number-360-smart-bed-ces-2022)
- - [Hands off: Moen’s new smart faucet doesn’t even need a handle](https://www.theverge.com/2022/1/3/22858262/moen-smart-faucet-motion-control-smart-water-network-ces2022)
- - [Oral-B debuts three new iPhone-connected iO smart toothbrushes](https://appleinsider.com/articles/22/01/03/oral-b-debuts-three-new-iphone-connected-io-smart-toothbrushes?utm_medium=rss)<!-- TECH:END -->
+ - [The solar roof could finally become a reality thanks to GAF’s nailable solar shingles](https://www.theverge.com/22865603/gaf-energy-timberline-solar-shingle-panel-roof-ul-tesla)
+ - [Canada’s Cineplex closes more theaters as omicron spreads](https://www.theverge.com/2022/1/3/22865701/canada-cineplex-theater-closures-omicron-boba-fett-peacemaker)
+ - [Samsung’s C-Lab program brings dehumidifier earbuds to CES 2022](https://www.theverge.com/2022/1/3/22865185/samsung-c-lab-ces-2022-dearbuds-prinker-startup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
