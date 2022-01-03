@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T, Verizon CEOs reject FAA request to delay 5G expansions scheduled to start January 5th](https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected)
- - [Best Deals January 2: half off Wacom Intuos drawing tablet, TurboTax on sale, more!](https://appleinsider.com/articles/22/01/02/best-deals-january-2-half-off-wacom-intuos-drawing-tablet-turbotax-on-sale-more?utm_medium=rss)
- - [Microsoft issues a fix for Exchange Y2K22 bug that shut down company emails](https://www.theverge.com/2022/1/2/22863950/microsoft-exchange-y2k22-bug)<!-- TECH:END -->
+ - [YouTuber figured out Asus Z690 Hero motherboards melted down due to backward capacitor](https://www.theverge.com/2022/1/2/22864072/asus-z690-hero-motherboards-meltdown-backward-capacitors)
+ - [The best iPhone widget apps for customizing your iPhone home screen](https://appleinsider.com/articles/22/01/02/the-best-iphone-widget-apps-for-customizing-your-iphone-home-screen?utm_medium=rss)
+ - [AT&amp;T, Verizon CEOs reject FAA request to delay 5G expansions scheduled to start January 5th](https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
