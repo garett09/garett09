@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fixed it for you](http://9gag.com/gag/aAGD5d9)
- - 🚯 [Won&amp;#039;t be a home owner](http://9gag.com/gag/aLv8oXx)
- - 🚯 [The audacity of the b*tch... I mean, I specifically went for her because of how much emphasis she put about staying loyal when we were getting to know each other...](http://9gag.com/gag/azeqygZ)<!-- MEMES:END -->
+ - 🚖 [Equal rights, equal lefts.](http://9gag.com/gag/a61VgXN)
+ - 🚯 [Fixed it for you](http://9gag.com/gag/aAGD5d9)
+ - 🚯 [Won&amp;#039;t be a home owner](http://9gag.com/gag/aLv8oXx)<!-- MEMES:END -->
 
 --- 
 
