@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The armor of a French soldier wounded by a cannonball at the Battle of Waterloo &lpar;which marked the end of Napoleon.&rpar;](http://9gag.com/gag/adg9r3Q)
- - 🚯 [The old switcharoo](http://9gag.com/gag/aBn8bDA)
+ - 🚖 [She knows the loop holes](http://9gag.com/gag/avA7V6X)
+ - 🚯 [Just sad](http://9gag.com/gag/a31MzP5)
  - 🚯 [&amp;ldquo; dumps clutch and floors the pedal &amp;ldquo;](http://9gag.com/gag/avA7B9Z)<!-- MEMES:END -->
 
 --- 
