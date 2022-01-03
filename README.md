@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Branch integrity](http://9gag.com/gag/aggY6OK)
- - 🚯 [&amp;ldquo; dumps clutch and floors the pedal &amp;ldquo;](http://9gag.com/gag/avA7B9Z)
- - 🚯 [Too much....](http://9gag.com/gag/a51n9ON)<!-- MEMES:END -->
+ - 🚖 [The old switcharoo](http://9gag.com/gag/aBn8bDA)
+ - 🚯 [The armor of a French soldier wounded by a cannonball at the Battle of Waterloo &lpar;which marked the end of Napoleon.&rpar;](http://9gag.com/gag/adg9r3Q)
+ - 🚯 [&amp;ldquo; dumps clutch and floors the pedal &amp;ldquo;](http://9gag.com/gag/avA7B9Z)<!-- MEMES:END -->
 
 --- 
 
