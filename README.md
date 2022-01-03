@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She knows the loop holes](http://9gag.com/gag/avA7V6X)
- - 🚯 [Just sad](http://9gag.com/gag/a31MzP5)
- - 🚯 [&amp;ldquo; dumps clutch and floors the pedal &amp;ldquo;](http://9gag.com/gag/avA7B9Z)<!-- MEMES:END -->
+ - 🚖 [MOM, there&amp;#039;s a weird cat outside](http://9gag.com/gag/axB0eB1)
+ - 🚯 [Specialized fire blanket can isolate a car fire in less than 20 second and avoid the risk of heavy smoke or fire spread](http://9gag.com/gag/aPZ90Lg)
+ - 🚯 [Too much....](http://9gag.com/gag/a51n9ON)<!-- MEMES:END -->
 
 --- 
 
