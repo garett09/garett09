@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for December 2021’s best new game](https://blog.playstation.com/2022/01/03/players-choice-vote-for-december-2021s-best-new-game/)
- - [Players’ Choice: Vote for December 2021’s best new game](https://blog.playstation.com/2022/01/03/players-choice-vote-for-december-2021s-best-new-game/)
- - [Every pair of sunglasses in The Matrix movies, ranked](https://www.polygon.com/22860824/matrix-movies-sunglasses-ranked)<!-- GAME:END -->
+ - [PlayStation Now games for January 2022: Mortal Kombat 11, Final Fantasy XII: The Zodiac Age, Fury Unleashed](https://blog.playstation.com/2022/01/03/playstation-now-games-for-january-2022-mortal-kombat-11-final-fantasy-xii-the-zodiac-age-fury-unleashed/)
+ - [PlayStation Now games for January 2022: Mortal Kombat 11, Final Fantasy XII: The Zodiac Age, Fury Unleashed](https://blog.playstation.com/2022/01/03/playstation-now-games-for-january-2022-mortal-kombat-11-final-fantasy-xii-the-zodiac-age-fury-unleashed/)
+ - [These Pokémon Keycaps Have Won My Heart](https://kotaku.com/these-pokemon-keycaps-have-won-my-heart-1848296809)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
