@@ -167,10 +167,10 @@ Windows                  3 hrs 9 mins        ███████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
-2. 💪 Opened PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
-3. ❗️ Closed issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
-4. ❗️ Opened issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
+1. 🎉 Merged PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
+2. 💪 Opened PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
+3. 🎉 Merged PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
+4. 💪 Opened PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
 5. 💪 Opened PR [#1](https://github.com/nikkapiel/practicelab2/pull/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
 <!--END_SECTION:activity-->
 
