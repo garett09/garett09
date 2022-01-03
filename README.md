@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung shows world&#39;s first 4k 240HZ gaming monitor before CES](https://www.pcgamer.com/samsung-shows-worlds-first-4k-240hz-gaming-monitor-before-ces)
  - [Asus develops a DDR4 to DDR5 adapter card](https://www.pcgamer.com/asus-develops-a-ddr4-to-ddr5-adapter-card)
- - [The Week In Games: A New Year, But Not Many New Games](https://kotaku.com/the-week-in-games-a-new-year-but-not-many-new-games-1848295405)
- - [New Resident Evil 2 VR Mod Looks Great &lpar;And Terrifying&rpar;](https://kotaku.com/new-resident-evil-2-vr-mod-looks-great-and-terrifying-1848295220)<!-- GAME:END -->
+ - [The Week In Games: A New Year, But Not Many New Games](https://kotaku.com/the-week-in-games-a-new-year-but-not-many-new-games-1848295405)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
