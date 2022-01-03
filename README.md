@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to switch from PC to Mac, and what you need to know](https://appleinsider.com/articles/21/01/12/how-to-switch-from-pc-to-mac-and-what-you-need-to-know?utm_medium=rss)
- - [The US takes Vladislav Klyushin, a Kremlin insider, into custody; sources say he has documents related to Russia&#39;s DNC hack during the 2016 election &lpar;Bloomberg&rpar;](http://www.techmeme.com/220103/p6#a220103p6)
- - [OpenSea freezes 16 Ape NFTs, worth ~$2.3M, after they were reportedly stolen, leading some to point out the lack of decentralization in the NFT space &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220103/p5#a220103p5)<!-- TECH:END -->
+ - [Eve introduces new outdoor HomeKit cam &amp; MotionBlinds availability at CES 2022](https://appleinsider.com/articles/22/01/03/eve-introduces-new-outdoor-homekit-cam-motionblinds-availability-at-ces-2022?utm_medium=rss)
+ - [The Best Posture Correctors to Put a Stop to Your Slouch](https://www.wired.com/gallery/posture-correctors)
+ - [Eve adds a smart floodlight cam and smart shades to its HomeKit portfolio](https://www.theverge.com/2022/1/3/22858260/eve-ces2022-homekit-floodlight-camera-matter-smart-shades)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
