@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a nice post](http://9gag.com/gag/aGzeqbZ)
+ - 🚖 [Equal rights, equal lefts.](http://9gag.com/gag/a61VgXN)
  - 🚯 [Queen&amp;#039;s Guard Makes Little Boy&amp;#039;s Birthday Wish Come True](http://9gag.com/gag/a41GgLp)
- - 🚯 [This is why you should never use TikTok feat. Ben Shapiro](http://9gag.com/gag/aogOGGm)<!-- MEMES:END -->
+ - 🚯 [Mama mia](http://9gag.com/gag/aAGD7jL)<!-- MEMES:END -->
 
 --- 
 
