@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: Oculus device sales in 2021 are estimated to be between 5.3M and 6.8M units, up from ~3.5M units in 2020 &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/220103/p2#a220103p2)
- - [From a rugged Watch to VR headset: Here’s what Apple could launch in 2022](https://www.androidauthority.com/apple-devices-2022-3082517/)
- - [Google Pixel patent hints at under-display selfie camera future](https://www.androidauthority.com/google-pixel-under-display-camera-patent-3082503/)<!-- TECH:END -->
+ - [An overview of efforts by Apple, Amazon, Google, Meta, Microsoft, and Twitter to improve the accessibility of their products and services in 2021 &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/220103/p3#a220103p3)
+ - [Daily Authority: 🤝 CES 2022 and Samsung TVs](https://www.androidauthority.com/newsletters/da-january-3-2022/)
+ - [Samsung&#39;s 2022 monitors boast USB-C, mini LED backlight, smart TV apps](https://appleinsider.com/articles/22/01/03/samsungs-2022-monitors-boast-usb-c-mini-led-backlight-smart-tv-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
