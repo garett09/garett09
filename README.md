@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good people still exist. A humble man washing milk before selling it](http://9gag.com/gag/arn5EQy)
- - 🚯 [Life of Students ...](http://9gag.com/gag/azeqyEp)
- - 🚯 [My boss told me to be creative with the fish cans... What you think?](http://9gag.com/gag/aXrv3mD)<!-- MEMES:END -->
+ - 🚖 [Last day of work &lpar;new year shift&rpar;, Cooper mine, &amp;quot;La Escondida&amp;quot;, Chile](http://9gag.com/gag/aOQB52D)
+ - 🚯 [Suspicious](http://9gag.com/gag/aM4A7zX)
+ - 🚯 [After 33 years of living I bought a house with my girlfriend. Feels good to own land](http://9gag.com/gag/a818Omp)<!-- MEMES:END -->
 
 --- 
 
