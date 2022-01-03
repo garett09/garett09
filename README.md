@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She made it](http://9gag.com/gag/aqG1pDv)
- - 🚯 [Oyster shuckers in South Carolina, 1912. Josie &lpar;6 years old&rpar;, Bertha &lpar;6 years old&rpar; and Sophie &lpar;10 years old&rpar; started work at 4am at the Maggioni Canning Co. Photo by Lewis Wickes Hine.](http://9gag.com/gag/a61V348)
- - 🚯 [Mr Bean 2077](http://9gag.com/gag/a61V38L)<!-- MEMES:END -->
+ - 🚖 [Somebody didn&amp;#039;t miss arm day!](http://9gag.com/gag/aDDzr99)
+ - 🚯 [A while back I wrote a ship. Today I wrote a stadium](http://9gag.com/gag/aPZ9z2w)
+ - 🚯 [Save this for the new year change and never look at it again](http://9gag.com/gag/a91ANOD)<!-- MEMES:END -->
 
 --- 
 
