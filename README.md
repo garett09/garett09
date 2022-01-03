@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only men can relate](http://9gag.com/gag/a61V6O8)
- - 🚯 [My salary vs. my bills.](http://9gag.com/gag/a71DXDb)
- - 🚯 [When the planet is coming at you](http://9gag.com/gag/aWgqX7A)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/a61VRqq)
+ - 🚯 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)
+ - 🚯 [Karen is pissed off that she is not allowed in without a mask, and calls 911...](http://9gag.com/gag/a11Kgzv)<!-- MEMES:END -->
 
 --- 
 
