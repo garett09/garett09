@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Now games for January 2022: Mortal Kombat 11, Final Fantasy XII: The Zodiac Age, Fury Unleashed](https://blog.playstation.com/2022/01/03/playstation-now-games-for-january-2022-mortal-kombat-11-final-fantasy-xii-the-zodiac-age-fury-unleashed/)
- - [PlayStation Now games for January 2022: Mortal Kombat 11, Final Fantasy XII: The Zodiac Age, Fury Unleashed](https://blog.playstation.com/2022/01/03/playstation-now-games-for-january-2022-mortal-kombat-11-final-fantasy-xii-the-zodiac-age-fury-unleashed/)
- - [These Pokémon Keycaps Have Won My Heart](https://kotaku.com/these-pokemon-keycaps-have-won-my-heart-1848296809)<!-- GAME:END -->
+ - [Luke Cage must defeat the Kingpin ... in an election for mayor of New York City](https://www.polygon.com/2022/1/3/22860253/kingpin-marvel-comics-luke-cage-devils-reign)
+ - [Henry Cavill cherished The Witcher season 2’s sense of brotherhood](https://www.polygon.com/22864492/henry-cavill-witcher-season-2-interview-ciri-vesemir-kaer-morhen)
+ - [Steam sets another user record, right on schedule](https://www.polygon.com/22865009/steam-concurrent-users-record-chart-steamdb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
