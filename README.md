@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What to expect from CES 2022](https://www.pcgamer.com/ces-2022-preview)
- - [The Japanese Internet Reacts To Square Enix&#39;s Crypto Plans](https://kotaku.com/the-japanese-internet-reacts-to-square-enixs-crypto-pla-1848296136)
- - [The EVGA Kingpin RTX 3090 Ti may feature 1275W of power inputs](https://www.pcgamer.com/the-evga-kingpin-rtx-3090-ti-may-feature-1275w-of-power-inputs)<!-- GAME:END -->
+ - [Players’ Choice: Vote for December 2021’s best new game](https://blog.playstation.com/2022/01/03/players-choice-vote-for-december-2021s-best-new-game/)
+ - [Players’ Choice: Vote for December 2021’s best new game](https://blog.playstation.com/2022/01/03/players-choice-vote-for-december-2021s-best-new-game/)
+ - [Every pair of sunglasses in The Matrix movies, ranked](https://www.polygon.com/22860824/matrix-movies-sunglasses-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
