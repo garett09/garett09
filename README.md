@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal rights, equal lefts.](http://9gag.com/gag/a61VgXN)
- - 🚯 [Fixed it for you](http://9gag.com/gag/aAGD5d9)
- - 🚯 [Won&amp;#039;t be a home owner](http://9gag.com/gag/aLv8oXx)<!-- MEMES:END -->
+ - 🚖 [Nice to know.. Good for you.. Congratulation..](http://9gag.com/gag/aPZ92rB)
+ - 🚯 [The level of precaution they have taken.](http://9gag.com/gag/avA7jQb)
+ - 🚯 [Chekhov&amp;#039;s gun](http://9gag.com/gag/aggYeNq)<!-- MEMES:END -->
 
 --- 
 
