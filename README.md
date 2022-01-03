@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody didn&amp;#039;t miss arm day!](http://9gag.com/gag/aDDzr99)
- - 🚯 [A while back I wrote a ship. Today I wrote a stadium](http://9gag.com/gag/aPZ9z2w)
- - 🚯 [Save this for the new year change and never look at it again](http://9gag.com/gag/a91ANOD)<!-- MEMES:END -->
+ - 🚖 [That cheese pour ..](http://9gag.com/gag/arn5rQy)
+ - 🚯 [Somebody didn&amp;#039;t miss arm day!](http://9gag.com/gag/aDDzr99)
+ - 🚯 [A while back I wrote a ship. Today I wrote a stadium](http://9gag.com/gag/aPZ9z2w)<!-- MEMES:END -->
 
 --- 
 
