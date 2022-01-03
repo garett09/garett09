@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTuber figured out Asus Z690 Hero motherboards melted down due to backward capacitor](https://www.theverge.com/2022/1/2/22864072/asus-z690-hero-motherboards-meltdown-backward-capacitors)
- - [The best iPhone widget apps for customizing your iPhone home screen](https://appleinsider.com/articles/22/01/02/the-best-iphone-widget-apps-for-customizing-your-iphone-home-screen?utm_medium=rss)
- - [AT&amp;T, Verizon CEOs reject FAA request to delay 5G expansions scheduled to start January 5th](https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected)<!-- TECH:END -->
+ - [Samsung promises ‘groundbreaking’ new TV feature: NFT support](https://www.theverge.com/2022/1/2/22858698/samsung-2022-tvs-nft-support-announced-cryptocurrency)
+ - [Samsung’s new TV remote uses radio waves from your router to stay charged](https://www.theverge.com/2022/1/2/22860390/samsung-eco-remote-2022-solar-rf-harvesting-charging)
+ - [Samsung’s new 2022 TVs bring Nvidia GeForce Now and Google Stadia gaming](https://www.theverge.com/22862814/samsung-2022-tv-geforce-now-stadia-nvidia-google-utomik-cloud-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
