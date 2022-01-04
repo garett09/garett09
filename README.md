@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The pinnacle of swordcraft](http://9gag.com/gag/ajgEQr1)
- - 🚯 [Lol](http://9gag.com/gag/a61Vvee)
- - 🚯 [And another &amp;quot;funny because it&amp;#039;s fat&amp;quot; post](http://9gag.com/gag/a61VvqR)<!-- MEMES:END -->
+ - 🚖 [This has never been posted before](http://9gag.com/gag/avA7bXO)
+ - 🚯 [Neat](http://9gag.com/gag/a0Z5A0X)
+ - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aYr48r2)<!-- MEMES:END -->
 
 --- 
 
