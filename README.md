@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👀 Galaxy S21 FE, OnePlus 10 Pro](https://www.androidauthority.com/newsletters/da-january-4-2022/)
- - [Garmin Venu 2 Plus review: The first real Garmin smartwatch](https://www.androidauthority.com/garmin-venu-2-plus-review-3078581/)
- - [The Global Economy Ignores Developing Nations at Its Own Peril](https://www.wired.com/story/developing-world-economic-growth)<!-- TECH:END -->
+ - [Realme GT 2 Pro launched: This phone takes wider and closer shots than others](https://www.androidauthority.com/realme-gt-2-series-3082655/)
+ - [The Best Apps for Sticking to Your New Year’s Resolutions](https://www.wired.com/story/best-apps-sticking-to-new-years-resolutions)
+ - [To Study the Next Earth, NASA May Need to Throw Some Shade](https://www.wired.com/story/to-study-the-next-earth-nasa-may-need-to-throw-some-shade)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
