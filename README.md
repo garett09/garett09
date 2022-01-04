@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Or anything, really, even the T virus from Umbrella Corporation](http://9gag.com/gag/a61VvRN)
- - 🚯 [She duped billions of dollars, then to save herself from jail, she had a strategic pregnancy, later a child and then put the blame for the fraud on her boyfriend saying &amp;quot;he manipulated her to do everything &lpar;the fraud&rpar;&amp;quot; One of the best snake oil salesman and manipulator](http://9gag.com/gag/a41GD76)
- - 🚯 [Lol](http://9gag.com/gag/a61Vvee)<!-- MEMES:END -->
+ - 🚖 [The pinnacle of swordcraft](http://9gag.com/gag/ajgEQr1)
+ - 🚯 [Lol](http://9gag.com/gag/a61Vvee)
+ - 🚯 [And another &amp;quot;funny because it&amp;#039;s fat&amp;quot; post](http://9gag.com/gag/a61VvqR)<!-- MEMES:END -->
 
 --- 
 
