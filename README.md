@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackbaud, a cloud software provider to nonprofits, acquires Everfi, which offers organizations cloud-based learning services, for $750M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220103/p16#a220103p16)
  - [Verizon, AT&amp;T reverse course and will delay 5G expansions for two weeks as the FAA requested](https://www.theverge.com/2022/1/3/22866098/faa-dot-verizon-fcc-att-5g-c-band-delay-airplane-safety)
- - [AT&amp;T and Verizon agree to delay the launch of their upgraded 5G networks for two weeks over aviation safety concerns from the FAA and the airline industry &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/220103/p15#a220103p15)
- - [Samsung unveils Galaxy S21 FE, with a 6.4-inch display, Snapdragon 888, 120Hz refresh rate, triple-lens rear camera, and a 32MP selfie camera, starting at $699 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220103/p14#a220103p14)<!-- TECH:END -->
+ - [AT&amp;T and Verizon agree to delay the launch of their upgraded 5G networks for two weeks over aviation safety concerns from the FAA and the airline industry &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/220103/p15#a220103p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
