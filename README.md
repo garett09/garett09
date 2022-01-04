@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm is working with Microsoft on custom chips for next-gen AR glasses](https://www.theverge.com/2022/1/4/22867172/qualcomm-microsoft-custom-chips-next-gen-ar-glasses-ces-2022)
- - [OPI announces Xbox-inspired nail polish that unlocks in-game content](https://www.theverge.com/2022/1/4/22866727/xbox-opi-halo-infinite-forza-horizon-5-nail-polish-dlc-news-announcement)
- - [Asus’ ROG Flow Z13 is a powerful gaming tablet that can connect to an RTX 3080](https://www.theverge.com/2022/1/4/22865259/asus-rog-flow-z13-detachable-tablet-rtx-graphics-intel-12th-gen-gaming-specs)<!-- TECH:END -->
+ - [CES 2022 Liveblog: Tech’s Big Show Heads Back to Las Vegas](https://www.wired.com/story/ces-2022-liveblog)
+ - [MSI launches new laptops for gaming and content creation at CES 2022](https://www.androidauthority.com/msi-laptop-launches-ces-2022-3082815/)
+ - [NXP’s new tri-radio chip makes it easy to add Wi-Fi 6, Bluetooth 5.2, and Thread to smart home gadgets](https://www.theverge.com/2022/1/4/22865815/nxp-tri-radio-chip-wi-fi-6-bluetooth-5-2-thread-smart-home-gadgets-ces-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
