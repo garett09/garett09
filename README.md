@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A corrupt politican getting arrested. Rare fenomenom, take a look!](http://9gag.com/gag/abgz8Dv)
- - 🚯 [When the planet is coming at you](http://9gag.com/gag/aWgqX7A)
+ - 🚖 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)
+ - 🚯 [Wink Wink](http://9gag.com/gag/a11KyN2)
  - 🚯 [Made This for a friend who just started working for the Police](http://9gag.com/gag/azeqp4x)<!-- MEMES:END -->
 
 --- 
