@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor Magic V: Get a peek at Honor’s first foldable &lpar;Update: Launch date&rpar;](https://www.androidauthority.com/honor-magic-v-3077779/)
- - [Poll: Is the Samsung Galaxy S21 FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s21-fe-poll-3079182/)
- - [Wordle: The wildly popular word game explained     - CNET](https://www.cnet.com/news/wordle-the-wildly-popular-word-game-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung plans to stalk Apple with so-called Tiger strategy](https://www.androidauthority.com/samsung-apple-tiger-strategy-3082484/)
+ - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see &lpar;Updated: Jan. 4&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)
+ - [Honor Magic V: Get a peek at Honor’s first foldable &lpar;Update: Launch date&rpar;](https://www.androidauthority.com/honor-magic-v-3077779/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
