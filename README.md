@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is machine learning and how does it work?](https://www.androidauthority.com/machine-learning-explained-3074635/)
- - [Tweets by 8VC&#39;s Joe Lonsdale about &quot;woke&quot; tech diversity prompt swift criticism from tech investors as he attempts to recontextualize his earlier statements &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220104/p2#a220104p2)
- - [We asked, you told us: Here’s what you want most from a Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-survey-results-3083268/)<!-- TECH:END -->
+ - [Ford says it will double production of electric F-150 Lightning to 150,000 trucks per year](https://www.theverge.com/2022/1/4/22865664/ford-f150-lightning-double-production-150000-annual)
+ - [Apple TV+ expected to sign Brad Pitt for Formula 1 movie](https://appleinsider.com/articles/22/01/04/apple-tv-expected-to-sign-brad-pitt-for-formula-1-movie?utm_medium=rss)
+ - [Galaxy Z Flip 3 Olympic Edition announced: It’s snow upgrade, really](https://www.androidauthority.com/samsung-galaxy-z-flip-3-olympic-edition-3083320/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
