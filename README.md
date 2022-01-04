@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The solar roof could finally become a reality thanks to GAF’s nailable solar shingles](https://www.theverge.com/22865603/gaf-energy-timberline-solar-shingle-panel-roof-ul-tesla)
- - [Canada’s Cineplex closes more theaters as omicron spreads](https://www.theverge.com/2022/1/3/22865701/canada-cineplex-theater-closures-omicron-boba-fett-peacemaker)
- - [Samsung’s C-Lab program brings dehumidifier earbuds to CES 2022](https://www.theverge.com/2022/1/3/22865185/samsung-c-lab-ces-2022-dearbuds-prinker-startup)<!-- TECH:END -->
+ - [Twitter completes its $1.05B sale of MoPub to AppLovin, which expects its unified platform with MoPub to process $15B+ of annualized advertiser spend by 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220103/p12#a220103p12)
+ - [Elizabeth Holmes found guilty of defrauding investors](https://www.theverge.com/2022/1/3/22865362/theranos-elizabeth-holmes-wire-fraud-verdict-guilty)
+ - [LG Display shows off a bunch of fun OLED concepts](https://www.androidauthority.com/lg-display-concepts-ces-2022-3081595/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
