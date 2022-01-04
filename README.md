@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jack is back](http://9gag.com/gag/avA73d5)
- - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)
- - 🚯 [Skagefl&amp;aring;, Geiranger, Norway](http://9gag.com/gag/a214n1O)<!-- MEMES:END -->
+ - 🚖 [Never nuke a country twice.](http://9gag.com/gag/aDDzEE9)
+ - 🚯 [Men will be men](http://9gag.com/gag/angjLxo)
+ - 🚯 [Reasons why I am polite to waiters](http://9gag.com/gag/aegevpB)<!-- MEMES:END -->
 
 --- 
 
