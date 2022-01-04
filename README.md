@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme GT 2 Pro launched: This phone takes wider and closer shots than others](https://www.androidauthority.com/realme-gt-2-series-3082655/)
- - [The Best Apps for Sticking to Your New Year’s Resolutions](https://www.wired.com/story/best-apps-sticking-to-new-years-resolutions)
- - [To Study the Next Earth, NASA May Need to Throw Some Shade](https://www.wired.com/story/to-study-the-next-earth-nasa-may-need-to-throw-some-shade)<!-- TECH:END -->
+ - [Withings announces new Body Scan smart scale with integrated ECG](https://appleinsider.com/articles/22/01/03/withings-announces-new-body-scan-smart-scale-with-integrated-ecg?utm_medium=rss)
+ - [Targus&#39; CES 2022 lineup includes &#39;Find my&#39; backpack &amp; USB-C dock featuring fingerprint ID](https://appleinsider.com/articles/22/01/03/targus-ces-2022-lineup-includes-find-my-backpack-usb-c-dock-featuring-fingerprint-id?utm_medium=rss)
+ - [Best deals Jan 4: Half-price Amazon Halo Band, $11 USB-C dock, more!](https://appleinsider.com/articles/22/01/04/best-deals-jan-4-half-price-amazon-halo-band-11-usb-c-dock-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
