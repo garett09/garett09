@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings announces new Body Scan smart scale with integrated ECG](https://appleinsider.com/articles/22/01/03/withings-announces-new-body-scan-smart-scale-with-integrated-ecg?utm_medium=rss)
- - [Targus&#39; CES 2022 lineup includes &#39;Find my&#39; backpack &amp; USB-C dock featuring fingerprint ID](https://appleinsider.com/articles/22/01/03/targus-ces-2022-lineup-includes-find-my-backpack-usb-c-dock-featuring-fingerprint-id?utm_medium=rss)
- - [Best deals Jan 4: Half-price Amazon Halo Band, $11 USB-C dock, more!](https://appleinsider.com/articles/22/01/04/best-deals-jan-4-half-price-amazon-halo-band-11-usb-c-dock-more?utm_medium=rss)<!-- TECH:END -->
+ - [Schlage unveils first WiFi deadblock smart lock with Apple Home Key support](https://appleinsider.com/articles/22/01/04/schlage-unveils-first-wifi-deadblock-smart-lock-with-apple-home-key-support?utm_medium=rss)
+ - [Sony announces the world’s first QD-OLED 4K TV, coming later this year](https://www.theverge.com/2022/1/4/22865220/sony-a95k-qd-oled-qdoled-4k-tv-announced-features-explainer)
+ - [Sony made a camera for its TVs that can scold you for sitting too close](https://www.theverge.com/2022/1/4/22865486/sony-bravia-tv-cam-announced-features-gestures)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
