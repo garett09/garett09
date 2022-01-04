@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&amp;#039;s always that one guy who spends too much time on facebook who&amp;#039;s like: &amp;quot;Did you know what you&amp;#039;re eating right now isn&amp;#039;t actually chicken?&amp;quot;. Yes kyle, yes it is. It just isn&amp;#039;t good chicken.](http://9gag.com/gag/aRrj54j)
- - 🚯 [Fingers giving Zendaya flashbacks](http://9gag.com/gag/ay9xOAW)
- - 🚯 [Police in Mexico had no chill with robbers](http://9gag.com/gag/amg2jx2)<!-- MEMES:END -->
+ - 🚖 [Or anything, really, even the T virus from Umbrella Corporation](http://9gag.com/gag/a61VvRN)
+ - 🚯 [Police in Mexico had no chill with robbers](http://9gag.com/gag/amg2jx2)
+ - 🚯 [Non refillable salt / pepper grinders need to be banned and scrubbed from history. It&amp;#039;s sneaky &amp;amp; wasteful.](http://9gag.com/gag/a71Dj8L)<!-- MEMES:END -->
 
 --- 
 
