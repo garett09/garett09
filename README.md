@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pew](http://9gag.com/gag/aDDzyNx)
- - 🚯 [How to train your dragon](http://9gag.com/gag/apgQOzE)
- - 🚯 [Prius what a ugly car](http://9gag.com/gag/aPZ95pP)<!-- MEMES:END -->
+ - 🚖 [Horse smackdown](http://9gag.com/gag/a31MVv5)
+ - 🚯 [Chinese centimeters](http://9gag.com/gag/arn5Qj6)
+ - 🚯 [How to train your dragon](http://9gag.com/gag/apgQOzE)<!-- MEMES:END -->
 
 --- 
 
