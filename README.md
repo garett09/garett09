@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play the Palette with the Xbox-inspired Spring 2022 Collection from OPI](https://news.xbox.com/en-us/2022/01/04/xbox-opi-nail-polish-collection-spring-2022/)
- - [Coming Soon to Xbox Game Pass: Mass Effect Legendary Edition, The Anacrusis &lpar;Game Preview&rpar;, Spelunky 2, and More](https://news.xbox.com/en-us/2022/01/04/coming-soon-to-xbox-game-pass-january-2022/)
- - [Death Stranding Director&#39;s Cut on PC extremely likely after Intel CES leak](https://www.pcgamer.com/death-stranding-directors-cut-on-pc-extremely-likely-after-intel-ces-leak)<!-- GAME:END -->
+ - [22 indie games to look forward to in 2022](https://www.polygon.com/gaming/22846501/22-indie-games-to-look-forward-to-in-2022)
+ - [Xbox Game Pass gets Spelunky 2, Outer Wilds, and Mass Effect in January](https://www.polygon.com/22866571/xbox-game-pass-january-2022-games-list-pc-cloud-android-ios)
+ - [How to watch AMD&#39;s CES 2022 live stream: the latest on team red&#39;s Ryzen CPUs and more](https://www.pcgamer.com/how-to-watch-amd-ces-2022-live-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
