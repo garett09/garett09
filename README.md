@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can relate 100%](http://9gag.com/gag/aXrv6N9)
- - 🚯 [Kitty, wait!!!](http://9gag.com/gag/adg9GmN)
+ - 🚖 [The Covid Saga](http://9gag.com/gag/awzQEdr)
+ - 🚯 [New Years in Eastern Europe](http://9gag.com/gag/aKmDorQ)
  - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)<!-- MEMES:END -->
 
 --- 
