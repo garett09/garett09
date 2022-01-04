@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [World&#39;s richest man gets $32BILLION richer: Elon Musk&#39;s worth climbs to $304billion as Tesla stock soars after car maker rolled out nearly a million vehicles in 2021](https://techncruncher.blogspot.com/2022/01/worlds-richest-man-gets-32billion.html)
- - [AMD’s new Radeon Super Resolution software promises to bring AI super-sampling to almost any game](https://www.theverge.com/2022/1/4/22866673/amd-radeon-super-resolution-software-ai-super-sampling-ces-2022)
- - [AMD debuts Ryzen 7 5800X3D chips, coming this spring, that use 3D V-Cache chiplet stacking tech for a 15% gaming performance boost; Zen 4 5nm chips coming in H2 &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220104/p12#a220104p12)<!-- TECH:END -->
+ - [Back in stock: Apple&#39;s 14-inch MacBook Pro $150 off, $60 off AppleCare](https://appleinsider.com/articles/22/01/04/back-in-stock-apples-14-inch-macbook-pro-150-off-60-off-applecare?utm_medium=rss)
+ - [A record 4.5 Mi&rpar;ion Americans quit their Jobs in November,](https://techncruncher.blogspot.com/2022/01/a-record-45-miion-americans-quit-their.html)
+ - [Linksys launches Wi-Fi 6 router, Hydra Pro 6, available now](https://appleinsider.com/articles/22/01/04/linksys-launches-wi-fi-6-router-hydra-pro-6-available-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
