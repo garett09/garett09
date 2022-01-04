@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What women want](http://9gag.com/gag/a91AoBL)
- - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)
- - 🚯 [Wink Wink](http://9gag.com/gag/a11KyN2)<!-- MEMES:END -->
+ - 🚖 [Wink Wink](http://9gag.com/gag/a11KyN2)
+ - 🚯 [Do not, under any circumstances give/ lend money to family...I&amp;#039;m down &amp;euro;6,000 and when I asked for my money back, or even to set up monthly instalments I&amp;#039;m conveniently blocked by them... lesson learned... please take heed of this and don&amp;#039;t fall pray to sob stories](http://9gag.com/gag/aggYDqv)
+ - 🚯 [Who is this guy?](http://9gag.com/gag/a11K91D)<!-- MEMES:END -->
 
 --- 
 
