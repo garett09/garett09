@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Exotel, which offers customer engagement tools like contact center, APIs, and chat bots, raises a $40M Series D led by Steadview Capital &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220103/p17#a220103p17)
- - [R&amp;B singer Omarion tired of getting confused with Omicron variant     - CNET](https://www.cnet.com/news/r-b-singer-omarion-tired-of-getting-confused-for-omicron-variant/#ftag=CAD590a51e)
- - [Mars looks like a delicious dessert in stunning spacecraft image     - CNET](https://www.cnet.com/news/mars-looks-like-a-delicious-dessert-in-stunning-spacecraft-image/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor Magic V: Get a peek at Honor’s first foldable &lpar;Update: Launch date&rpar;](https://www.androidauthority.com/honor-magic-v-3077779/)
+ - [Poll: Is the Samsung Galaxy S21 FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s21-fe-poll-3079182/)
+ - [Wordle: The wildly popular word game explained     - CNET](https://www.cnet.com/news/wordle-the-wildly-popular-word-game-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
