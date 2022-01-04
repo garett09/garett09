@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If Gordon Ramsay didn’t know what Twitch was, he sure does now](https://www.polygon.com/22865469/gordon-ramsay-chef-twitch-masterchef-xqc)
- - [Be-the-bad-guy Darkest Dungeon-alike Iratus: Lord of the Dead is free on GOG](https://www.pcgamer.com/be-the-bad-guy-darkest-dungeon-alike-iratus-lord-of-the-dead-is-free-on-gog)
- - [The best things we caught up with before 2022](https://www.polygon.com/22864735/great-movies-shows-2022-catch-up)<!-- GAME:END -->
+ - [Intel teases a highly binned 12900K](https://www.pcgamer.com/intel-teases-a-highly-binned-12900k)
+ - [LG announces biggest and smallest OLED gaming TVs yet](https://www.pcgamer.com/lg-announces-biggest-and-smallest-oled-gaming-tvs-yet)
+ - [If Gordon Ramsay didn’t know what Twitch was, he sure does now](https://www.polygon.com/22865469/gordon-ramsay-chef-twitch-masterchef-xqc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
