@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends tells the story of Bangalore’s brother in the new Stories from the Outlands](https://www.polygon.com/22864969/apex-legends-cinematic-stories-outlands-trailer-jackson-williams-bangalore)
- - [Destiny 2 Players Are Rescuing One Another From Impossible Mission](https://kotaku.com/destiny-2-players-are-rescuing-one-another-from-impossi-1848301152)
- - [Nvidia&#39;s new RTX 3080 Ti gaming laptops are launching Feb 1 and faster than a desktop Titan RTX](https://www.pcgamer.com/nvidia-rtx-3080-ti-3070-ti-gaming-laptops)<!-- GAME:END -->
+ - [League of Legends’ new champion is Zeri a flashy marksman from Zaun](https://www.polygon.com/22867060/league-of-legends-new-champion-zeri-marksman-zaun)
+ - [Star Wars’ High Republic story is going into the past for its next phase](https://www.polygon.com/star-wars/22867009/star-wars-high-republic-books-phase-2-announcement)
+ - [Unlock a sparkly Master Chief with this new line of nail polish](https://www.polygon.com/22866857/xbox-halo-infinite-forza-opi-nail-polish-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
