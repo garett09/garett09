@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackbaud, a cloud software provider to nonprofits, acquires Everfi, which offers organizations cloud-based learning services, for $750M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220103/p16#a220103p16)
- - [Verizon, AT&amp;T reverse course and will delay 5G expansions for two weeks as the FAA requested](https://www.theverge.com/2022/1/3/22866098/faa-dot-verizon-fcc-att-5g-c-band-delay-airplane-safety)
- - [AT&amp;T and Verizon agree to delay the launch of their upgraded 5G networks for two weeks over aviation safety concerns from the FAA and the airline industry &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/220103/p15#a220103p15)<!-- TECH:END -->
+ - [Bengaluru-based Exotel, which offers customer engagement tools like contact center, APIs, and chat bots, raises a $40M Series D led by Steadview Capital &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220103/p17#a220103p17)
+ - [R&amp;B singer Omarion tired of getting confused with Omicron variant     - CNET](https://www.cnet.com/news/r-b-singer-omarion-tired-of-getting-confused-for-omicron-variant/#ftag=CAD590a51e)
+ - [Mars looks like a delicious dessert in stunning spacecraft image     - CNET](https://www.cnet.com/news/mars-looks-like-a-delicious-dessert-in-stunning-spacecraft-image/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
