@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter completes its $1.05B sale of MoPub to AppLovin, which expects its unified platform with MoPub to process $15B+ of annualized advertiser spend by 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220103/p12#a220103p12)
- - [Elizabeth Holmes found guilty of defrauding investors](https://www.theverge.com/2022/1/3/22865362/theranos-elizabeth-holmes-wire-fraud-verdict-guilty)
- - [LG Display shows off a bunch of fun OLED concepts](https://www.androidauthority.com/lg-display-concepts-ces-2022-3081595/)<!-- TECH:END -->
+ - [The Galaxy S21 FE officially joins Samsung’s crowded midrange lineup](https://www.theverge.com/2022/1/3/22860324/samsung-galaxy-s21-fe-screen-camera-specs-price)
+ - [LG announces its largest and smallest OLED TVs ever as part of 2022 lineup](https://www.theverge.com/2022/1/3/22856102/lg-97-42-inch-oled-4k-8k-qned-tvs-announced-features)
+ - [Withings announces new Body Scan smart scale with integrated ECG](https://appleinsider.com/articles/22/01/03/withings-announces-new-body-scan-smart-scale-with-integrated-ecg?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
