@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What women want](http://9gag.com/gag/a91AoBL)
+ - 🚖 [Pew](http://9gag.com/gag/aDDzyNx)
  - 🚯 [How to train your dragon](http://9gag.com/gag/apgQOzE)
- - 🚯 [Who is this guy?](http://9gag.com/gag/a11K91D)<!-- MEMES:END -->
+ - 🚯 [Prius what a ugly car](http://9gag.com/gag/aPZ95pP)<!-- MEMES:END -->
 
 --- 
 
