@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Artist be like at least i will get paid](http://9gag.com/gag/angj6nB)
- - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)
- - 🚯 [Trying to slash the tires of someone who is a bigger psychopath than you are](http://9gag.com/gag/aDDzyYO)<!-- MEMES:END -->
+ - 🚖 [But my name is Beth](http://9gag.com/gag/aWgqwN6)
+ - 🚯 [Men will be men](http://9gag.com/gag/angjLxo)
+ - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)<!-- MEMES:END -->
 
 --- 
 
