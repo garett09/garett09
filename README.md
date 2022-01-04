@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After 33 years of living I bought a house with my girlfriend. Feels good to own land](http://9gag.com/gag/a818Omp)
- - 🚯 [Can relate 100%](http://9gag.com/gag/aXrv6N9)
- - 🚯 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)<!-- MEMES:END -->
+ - 🚖 [You can&amp;#039;t escape CCP even abroad. Watch this before 9GAG hides it.](http://9gag.com/gag/awzQ2eD)
+ - 🚯 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)
+ - 🚯 [Chekhov&amp;#039;s gun](http://9gag.com/gag/aggYeNq)<!-- MEMES:END -->
 
 --- 
 
