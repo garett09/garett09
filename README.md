@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has just announced the $199 RX 6500 XT graphics card coming January 19](https://www.pcgamer.com/amd-rx-6500-xt-announcement)
- - [AMD launches Radeon Super Resolution upscaling that&#39;ll work across &#39;nearly every game you own&#39;](https://www.pcgamer.com/amd-radeon-super-resolution-rsr-fsr)
- - [Ian Livingstone, creator of countless fantasy worlds, becomes a proper knight](https://www.pcgamer.com/ian-livingstone-creator-of-countless-fantasy-worlds-becomes-a-proper-knight)<!-- GAME:END -->
+ - [Nvidia&#39;s new RTX 3080 Ti gaming laptops are launching Feb 1 and faster than a desktop Titan RTX](https://www.pcgamer.com/nvidia-rtx-3080-ti-3070-ti-gaming-laptops)
+ - [The Yakuza series reaches 2.8 million sales on PC](https://www.pcgamer.com/the-yakuza-series-reaches-28-million-sales-on-pc)
+ - [New HDMI 2.1 monitors from Asus offer the latest 4K capabilities for gamers and creators alike](https://www.pcgamer.com/new-hdmi-21-monitors-from-asus-offer-the-latest-4k-capabilities-for-gamers-and-creators-alike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
