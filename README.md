@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)
- - 🚯 [Wink Wink](http://9gag.com/gag/a11KyN2)
- - 🚯 [Made This for a friend who just started working for the Police](http://9gag.com/gag/azeqp4x)<!-- MEMES:END -->
+ - 🚖 [The level of precaution they have taken.](http://9gag.com/gag/avA7jQb)
+ - 🚯 [Made This for a friend who just started working for the Police](http://9gag.com/gag/azeqp4x)
+ - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)<!-- MEMES:END -->
 
 --- 
 
