@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the reasons you shouldn&amp;#039;t ride your motorbike in places where it is illegal to do so](http://9gag.com/gag/abgzn3O)
- - 🚯 [A corrupt politican getting arrested. Rare fenomenom, take a look!](http://9gag.com/gag/abgz8Dv)
+ - 🚖 [A corrupt politican getting arrested. Rare fenomenom, take a look!](http://9gag.com/gag/abgz8Dv)
+ - 🚯 [When the planet is coming at you](http://9gag.com/gag/aWgqX7A)
  - 🚯 [Made This for a friend who just started working for the Police](http://9gag.com/gag/azeqp4x)<!-- MEMES:END -->
 
 --- 
