@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Arc A380 entry level GPU performance gets leaked](https://www.pcgamer.com/intels-arc-a380-entry-level-gpu-performance-gets-leaked)
  - [Netgear&#39;s new Wi-Fi 6E Nighthawk router is $200 cheaper than last years&#39;](https://www.pcgamer.com/netgears-new-wi-fi-6e-nighthawk-router-is-dollar200-cheaper-than-last-years)
- - [Intel teases a highly binned 12900K](https://www.pcgamer.com/intel-teases-a-highly-binned-12900k)
- - [LG announces biggest and smallest OLED gaming TVs yet](https://www.pcgamer.com/lg-announces-biggest-and-smallest-oled-gaming-tvs-yet)<!-- GAME:END -->
+ - [Intel teases a highly binned 12900K](https://www.pcgamer.com/intel-teases-a-highly-binned-12900k)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
