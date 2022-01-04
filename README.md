@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Covid Saga](http://9gag.com/gag/awzQEdr)
- - 🚯 [New Years in Eastern Europe](http://9gag.com/gag/aKmDorQ)
- - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)<!-- MEMES:END -->
+ - 🚖 [What women want](http://9gag.com/gag/a91AoBL)
+ - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)
+ - 🚯 [Wink Wink](http://9gag.com/gag/a11KyN2)<!-- MEMES:END -->
 
 --- 
 
