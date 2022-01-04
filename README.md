@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please stop taking the Morbius movie away from me](https://www.polygon.com/22867135/morbius-movie-delayed-why)
- - [Rainbow Six Extraction system requirements probably won&#39;t force you to upgrade your PC](https://www.pcgamer.com/rainbow-six-extraction-pc-system-requirements)
- - [Final Fantasy 7 Remake modders put clown makeup on Sephiroth, let Cloud wear a dress for the whole game](https://www.pcgamer.com/final-fantasy-7-remake-modders-put-clown-makeup-on-sephiroth-let-cloud-wear-a-dress-for-the-whole-game)<!-- GAME:END -->
+ - [Kotaku&#39;s 2021 Games Of The Year](https://kotaku.com/kotakus-2021-games-of-the-year-1848303306)
+ - [Where to find a shield keg in Fortnite](https://www.pcgamer.com/shield-keg-fortnite)
+ - [Peacemaker threads the needle with its edgelord humor](https://www.polygon.com/reviews/22867078/peacemaker-review-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
