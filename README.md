@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ new champion is Zeri a flashy marksman from Zaun](https://www.polygon.com/22867060/league-of-legends-new-champion-zeri-marksman-zaun)
- - [Star Wars’ High Republic story is going into the past for its next phase](https://www.polygon.com/star-wars/22867009/star-wars-high-republic-books-phase-2-announcement)
- - [Unlock a sparkly Master Chief with this new line of nail polish](https://www.polygon.com/22866857/xbox-halo-infinite-forza-opi-nail-polish-xbox)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake modder reimagines Sephiroth as Ronald McDonald](https://www.polygon.com/22867081/final-fantasy-7-remake-modder-mods-square-enix-mcdonalds)
+ - [Halo Infinite’s Samurai Event Is Back, And It’s Actually Good This Time](https://kotaku.com/halo-infinite-s-samurai-event-is-back-and-it-s-actuall-1848302455)
+ - [Turkish police arrest 40 in Twitch money laundering scandal](https://www.pcgamer.com/turkish-police-arrest-40-in-twitch-money-laundering-scandal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
