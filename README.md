@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 Liveblog: Tech’s Big Show Heads Back to Las Vegas](https://www.wired.com/story/ces-2022-liveblog)
- - [MSI launches new laptops for gaming and content creation at CES 2022](https://www.androidauthority.com/msi-laptop-launches-ces-2022-3082815/)
- - [NXP’s new tri-radio chip makes it easy to add Wi-Fi 6, Bluetooth 5.2, and Thread to smart home gadgets](https://www.theverge.com/2022/1/4/22865815/nxp-tri-radio-chip-wi-fi-6-bluetooth-5-2-thread-smart-home-gadgets-ces-2022)<!-- TECH:END -->
+ - [Nvidia still has no idea how to pronounce the name of its best gaming GPU](https://www.theverge.com/tldr/2022/1/4/22867318/nvidia-rtx-3090-ti-tie-tee-eye-pronunciation-gpu)
+ - [TikTok is testing a Twitter-like Repost button for sharing videos](https://www.theverge.com/2022/1/4/22867456/tiktok-share-repost-retweet)
+ - [Sources: OpenSea is in talks to acquire Dharma Labs, whose Ethereum wallet can transfer money between banks and exchanges, for $110M-$130M in an all-stock deal &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/220104/p19#a220104p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
