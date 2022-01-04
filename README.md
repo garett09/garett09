@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The complete guide to mechanical keyboard switches for gaming](https://www.pcgamer.com/best-mechanical-switches-for-gaming)
  - [Intel&#39;s Arc A380 entry level GPU performance gets leaked](https://www.pcgamer.com/intels-arc-a380-entry-level-gpu-performance-gets-leaked)
- - [Netgear&#39;s new Wi-Fi 6E Nighthawk router is $200 cheaper than last years&#39;](https://www.pcgamer.com/netgears-new-wi-fi-6e-nighthawk-router-is-dollar200-cheaper-than-last-years)
- - [Intel teases a highly binned Core i9 12900K CPU](https://www.pcgamer.com/intel-teases-a-highly-binned-12900k)<!-- GAME:END -->
+ - [Netgear&#39;s new Wi-Fi 6E Nighthawk router is $200 cheaper than last years&#39;](https://www.pcgamer.com/netgears-new-wi-fi-6e-nighthawk-router-is-dollar200-cheaper-than-last-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
