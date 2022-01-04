@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Or anything, really, even the T virus from Umbrella Corporation](http://9gag.com/gag/a61VvRN)
- - 🚯 [Police in Mexico had no chill with robbers](http://9gag.com/gag/amg2jx2)
- - 🚯 [Non refillable salt / pepper grinders need to be banned and scrubbed from history. It&amp;#039;s sneaky &amp;amp; wasteful.](http://9gag.com/gag/a71Dj8L)<!-- MEMES:END -->
+ - 🚯 [She duped billions of dollars, then to save herself from jail, she had a strategic pregnancy, later a child and then put the blame for the fraud on her boyfriend saying &amp;quot;he manipulated her to do everything &lpar;the fraud&rpar;&amp;quot; One of the best snake oil salesman and manipulator](http://9gag.com/gag/a41GD76)
+ - 🚯 [Lol](http://9gag.com/gag/a61Vvee)<!-- MEMES:END -->
 
 --- 
 
