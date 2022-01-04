@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 2022, Justin Wong Gets To Relive Evo Moment 37](https://kotaku.com/in-2022-justin-wong-gets-to-relive-evo-moment-37-1848299607)
- - [The complete guide to mechanical keyboard switches for gaming](https://www.pcgamer.com/best-mechanical-switches-for-gaming)
- - [Intel&#39;s Arc A380 entry level GPU performance gets leaked](https://www.pcgamer.com/intels-arc-a380-entry-level-gpu-performance-gets-leaked)<!-- GAME:END -->
+ - [Death Stranding Director&#39;s Cut on PC extremely likely after Intel CES leak](https://www.pcgamer.com/death-stranding-directors-cut-on-pc-extremely-likely-after-intel-ces-leak)
+ - [14,000 Chinese Game Companies Have Gone Out Of Business Due To Regulation Freeze](https://kotaku.com/14-000-chinese-game-companies-have-gone-out-of-business-1848299632)
+ - [In 2022, Justin Wong Gets To Relive Evo Moment 37](https://kotaku.com/in-2022-justin-wong-gets-to-relive-evo-moment-37-1848299607)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
