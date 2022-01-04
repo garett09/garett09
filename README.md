@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s new RTX 3080 Ti gaming laptops are launching Feb 1 and faster than a desktop Titan RTX](https://www.pcgamer.com/nvidia-rtx-3080-ti-3070-ti-gaming-laptops)
- - [The Yakuza series reaches 2.8 million sales on PC](https://www.pcgamer.com/the-yakuza-series-reaches-28-million-sales-on-pc)
- - [New HDMI 2.1 monitors from Asus offer the latest 4K capabilities for gamers and creators alike](https://www.pcgamer.com/new-hdmi-21-monitors-from-asus-offer-the-latest-4k-capabilities-for-gamers-and-creators-alike)<!-- GAME:END -->
+ - [Apex Legends tells the story of Bangalore’s brother in the new Stories from the Outlands](https://www.polygon.com/22864969/apex-legends-cinematic-stories-outlands-trailer-jackson-williams-bangalore)
+ - [Destiny 2 Players Are Rescuing One Another From Impossible Mission](https://kotaku.com/destiny-2-players-are-rescuing-one-another-from-impossi-1848301152)
+ - [Nvidia&#39;s new RTX 3080 Ti gaming laptops are launching Feb 1 and faster than a desktop Titan RTX](https://www.pcgamer.com/nvidia-rtx-3080-ti-3070-ti-gaming-laptops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
