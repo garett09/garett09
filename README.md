@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nightingale Open Science, a free-to-use 40TB medical imagery data set, could help train AI to predict medical conditions earlier, triage better, and save lives &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220104/p1#a220104p1)
  - [Samsung plans to stalk Apple with so-called Tiger strategy](https://www.androidauthority.com/samsung-apple-tiger-strategy-3082484/)
- - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see &lpar;Updated: Jan. 4&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)
- - [Honor Magic V: Get a peek at Honor’s first foldable &lpar;Update: Launch date&rpar;](https://www.androidauthority.com/honor-magic-v-3077779/)<!-- TECH:END -->
+ - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see &lpar;Updated: Jan. 4&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
