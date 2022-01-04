@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [22 indie games to look forward to in 2022](https://www.polygon.com/gaming/22846501/22-indie-games-to-look-forward-to-in-2022)
- - [Xbox Game Pass gets Spelunky 2, Outer Wilds, and Mass Effect in January](https://www.polygon.com/22866571/xbox-game-pass-january-2022-games-list-pc-cloud-android-ios)
- - [How to watch AMD&#39;s CES 2022 live stream: the latest on team red&#39;s Ryzen CPUs and more](https://www.pcgamer.com/how-to-watch-amd-ces-2022-live-stream)<!-- GAME:END -->
+ - [AMD has just announced the $199 RX 6500 XT graphics card coming January 19](https://www.pcgamer.com/amd-rx-6500-xt-announcement)
+ - [AMD launches Radeon Super Resolution upscaling that&#39;ll work across &#39;nearly every game you own&#39;](https://www.pcgamer.com/amd-radeon-super-resolution-rsr-fsr)
+ - [Ian Livingstone, creator of countless fantasy worlds, becomes a proper knight](https://www.pcgamer.com/ian-livingstone-creator-of-countless-fantasy-worlds-becomes-a-proper-knight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
