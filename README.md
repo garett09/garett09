@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The level of precaution they have taken.](http://9gag.com/gag/avA7jQb)
- - 🚯 [Made This for a friend who just started working for the Police](http://9gag.com/gag/azeqp4x)
+ - 🚖 [Can relate 100%](http://9gag.com/gag/aXrv6N9)
+ - 🚯 [Kitty, wait!!!](http://9gag.com/gag/adg9GmN)
  - 🚯 [Owner 1st reaction is outstanding move](http://9gag.com/gag/a51nOoV)<!-- MEMES:END -->
 
 --- 
