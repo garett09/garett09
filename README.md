@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s what you want most from a Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-survey-results-3083268/)
- - [Nightingale Open Science, a free-to-use 40TB medical imagery data set, could help train AI to predict medical conditions earlier, triage better, and save lives &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220104/p1#a220104p1)
- - [#BettyWhiteChallenge urges fans to donate to animals in late star&#39;s honor     - CNET](https://www.cnet.com/news/betty-white-challenge-urges-fans-to-donate-to-animal-shelters-in-late-stars-honor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is machine learning and how does it work?](https://www.androidauthority.com/machine-learning-explained-3074635/)
+ - [Tweets by 8VC&#39;s Joe Lonsdale about &quot;woke&quot; tech diversity prompt swift criticism from tech investors as he attempts to recontextualize his earlier statements &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220104/p2#a220104p2)
+ - [We asked, you told us: Here’s what you want most from a Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-survey-results-3083268/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
