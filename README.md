@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Never nuke a country twice.](http://9gag.com/gag/aDDzEE9)
- - 🚯 [Men will be men](http://9gag.com/gag/angjLxo)
- - 🚯 [Reasons why I am polite to waiters](http://9gag.com/gag/aegevpB)<!-- MEMES:END -->
+ - 🚯 [And another &amp;quot;funny because it&amp;#039;s fat&amp;quot; post](http://9gag.com/gag/a61VvqR)
+ - 🚯 [Focking tots](http://9gag.com/gag/awzQ6d8)<!-- MEMES:END -->
 
 --- 
 
