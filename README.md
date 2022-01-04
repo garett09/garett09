@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Horse smackdown](http://9gag.com/gag/a31MVv5)
- - 🚯 [Chinese centimeters](http://9gag.com/gag/arn5Qj6)
- - 🚯 [How to train your dragon](http://9gag.com/gag/apgQOzE)<!-- MEMES:END -->
+ - 🚖 [Artist be like at least i will get paid](http://9gag.com/gag/angj6nB)
+ - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)
+ - 🚯 [Trying to slash the tires of someone who is a bigger psychopath than you are](http://9gag.com/gag/aDDzyYO)<!-- MEMES:END -->
 
 --- 
 
