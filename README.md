@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Remake modder reimagines Sephiroth as Ronald McDonald](https://www.polygon.com/22867081/final-fantasy-7-remake-modder-mods-square-enix-mcdonalds)
- - [Halo Infinite’s Samurai Event Is Back, And It’s Actually Good This Time](https://kotaku.com/halo-infinite-s-samurai-event-is-back-and-it-s-actuall-1848302455)
- - [Turkish police arrest 40 in Twitch money laundering scandal](https://www.pcgamer.com/turkish-police-arrest-40-in-twitch-money-laundering-scandal)<!-- GAME:END -->
+ - [Please stop taking the Morbius movie away from me](https://www.polygon.com/22867135/morbius-movie-delayed-why)
+ - [Rainbow Six Extraction system requirements probably won&#39;t force you to upgrade your PC](https://www.pcgamer.com/rainbow-six-extraction-pc-system-requirements)
+ - [Final Fantasy 7 Remake modders put clown makeup on Sephiroth, let Cloud wear a dress for the whole game](https://www.pcgamer.com/final-fantasy-7-remake-modders-put-clown-makeup-on-sephiroth-let-cloud-wear-a-dress-for-the-whole-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
