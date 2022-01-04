@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding Director&#39;s Cut on PC extremely likely after Intel CES leak](https://www.pcgamer.com/death-stranding-directors-cut-on-pc-extremely-likely-after-intel-ces-leak)
- - [14,000 Chinese Game Companies Have Gone Out Of Business Due To Regulation Freeze](https://kotaku.com/14-000-chinese-game-companies-have-gone-out-of-business-1848299632)
- - [In 2022, Justin Wong Gets To Relive Evo Moment 37](https://kotaku.com/in-2022-justin-wong-gets-to-relive-evo-moment-37-1848299607)<!-- GAME:END -->
+ - [Play the Palette with the Xbox-inspired Spring 2022 Collection from OPI](https://news.xbox.com/en-us/2022/01/04/xbox-opi-nail-polish-collection-spring-2022/)
+ - [Coming Soon to Xbox Game Pass: Mass Effect Legendary Edition, The Anacrusis &lpar;Game Preview&rpar;, Spelunky 2, and More](https://news.xbox.com/en-us/2022/01/04/coming-soon-to-xbox-game-pass-january-2022/)
+ - [Death Stranding Director&#39;s Cut on PC extremely likely after Intel CES leak](https://www.pcgamer.com/death-stranding-directors-cut-on-pc-extremely-likely-after-intel-ces-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
