@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple VR headset with hybrid three-display combo will debut in late 2022, analysts claim](https://appleinsider.com/articles/22/01/04/apple-arvr-headset-with-three-displays-to-debut-in-2022-analysts-claim?utm_medium=rss)
- - [Sketchy rumor claims Apple will launch audiobook subscription service in 2022](https://appleinsider.com/articles/22/01/04/sketchy-rumor-claims-apple-will-launch-audiobook-service-in-2022?utm_medium=rss)
- - [AnkerWork shows Cosmos Laser projectors, AnkerWork B600 webcam at CES](https://appleinsider.com/articles/22/01/04/ankerwork-shows-cosmos-laser-projectors-ankerwork-b600-webcam-at-ces?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm is working with Microsoft on custom chips for next-gen AR glasses](https://www.theverge.com/2022/1/4/22867172/qualcomm-microsoft-custom-chips-next-gen-ar-glasses-ces-2022)
+ - [OPI announces Xbox-inspired nail polish that unlocks in-game content](https://www.theverge.com/2022/1/4/22866727/xbox-opi-halo-infinite-forza-horizon-5-nail-polish-dlc-news-announcement)
+ - [Asus’ ROG Flow Z13 is a powerful gaming tablet that can connect to an RTX 3080](https://www.theverge.com/2022/1/4/22865259/asus-rog-flow-z13-detachable-tablet-rtx-graphics-intel-12th-gen-gaming-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
