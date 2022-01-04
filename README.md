@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [There&amp;#039;s always that one guy who spends too much time on facebook who&amp;#039;s like: &amp;quot;Did you know what you&amp;#039;re eating right now isn&amp;#039;t actually chicken?&amp;quot;. Yes kyle, yes it is. It just isn&amp;#039;t good chicken.](http://9gag.com/gag/aRrj54j)
- - 🚯 [Police in Mexico had no chill with robbers](http://9gag.com/gag/amg2jx2)
- - 🚯 [But my name is Beth](http://9gag.com/gag/aWgqwN6)<!-- MEMES:END -->
+ - 🚯 [Fingers giving Zendaya flashbacks](http://9gag.com/gag/ay9xOAW)
+ - 🚯 [Police in Mexico had no chill with robbers](http://9gag.com/gag/amg2jx2)<!-- MEMES:END -->
 
 --- 
 
