@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia still has no idea how to pronounce the name of its best gaming GPU](https://www.theverge.com/tldr/2022/1/4/22867318/nvidia-rtx-3090-ti-tie-tee-eye-pronunciation-gpu)
- - [TikTok is testing a Twitter-like Repost button for sharing videos](https://www.theverge.com/2022/1/4/22867456/tiktok-share-repost-retweet)
- - [Sources: OpenSea is in talks to acquire Dharma Labs, whose Ethereum wallet can transfer money between banks and exchanges, for $110M-$130M in an all-stock deal &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/220104/p19#a220104p19)<!-- TECH:END -->
+ - [In the fall, John Deere will start selling its fully autonomous 8R tractor, which can gather data about the soil to improve its algorithms as it operates &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/220104/p20#a220104p20)
+ - [CES 2022 Liveblog: The Latest News From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
+ - [Apple to announce first quarter earnings on Jan. 27](https://appleinsider.com/articles/22/01/04/apple-to-announce-first-quarter-earnings-call-on-jan-27?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
