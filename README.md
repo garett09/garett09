@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku&#39;s 2021 Games Of The Year](https://kotaku.com/kotakus-2021-games-of-the-year-1848303306)
- - [Where to find a shield keg in Fortnite](https://www.pcgamer.com/shield-keg-fortnite)
- - [Peacemaker threads the needle with its edgelord humor](https://www.polygon.com/reviews/22867078/peacemaker-review-hbo-max)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake Mod Turns Sephiroth Into Ronald McDonald](https://kotaku.com/final-fantasy-7-remake-mod-turns-sephiroth-into-ronald-1848304070)
+ - [What’s next for Cobra Kai after season 4?](https://www.polygon.com/22867245/cobra-kai-season-4-spoilers-recap-season-5-preview-hilary-swank)
+ - [Halo Infinite lead narrative designer leaves 343 Industries for Riot Games](https://www.pcgamer.com/halo-infinite-lead-narrative-designer-leaves-343-industries-for-riot-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
