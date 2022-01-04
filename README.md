@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford says it will double production of electric F-150 Lightning to 150,000 trucks per year](https://www.theverge.com/2022/1/4/22865664/ford-f150-lightning-double-production-150000-annual)
- - [Apple TV+ expected to sign Brad Pitt for Formula 1 movie](https://appleinsider.com/articles/22/01/04/apple-tv-expected-to-sign-brad-pitt-for-formula-1-movie?utm_medium=rss)
- - [Galaxy Z Flip 3 Olympic Edition announced: It’s snow upgrade, really](https://www.androidauthority.com/samsung-galaxy-z-flip-3-olympic-edition-3083320/)<!-- TECH:END -->
+ - [Daily Authority: 👀 Galaxy S21 FE, OnePlus 10 Pro](https://www.androidauthority.com/newsletters/da-january-4-2022/)
+ - [Garmin Venu 2 Plus review: The first real Garmin smartwatch](https://www.androidauthority.com/garmin-venu-2-plus-review-3078581/)
+ - [The Global Economy Ignores Developing Nations at Its Own Peril](https://www.wired.com/story/developing-world-economic-growth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
