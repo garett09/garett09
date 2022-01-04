@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP adds two new Dragonfly models to its business lineup](https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops)
- - [Death Stranding Director’s Cut is coming to PC this spring](https://www.theverge.com/2022/1/4/22866918/death-stranding-directors-cut-pc-epic-games-store-steam-kojima-productions)
- - [Intel announces 22 more 12th Gen CPUs for mainstream consumer desktops](https://www.theverge.com/2022/1/4/22866533/intel-12th-gen-cpu-alder-lake-mainstream-consumer-desktops-ces-2022)<!-- TECH:END -->
+ - [Apple VR headset with hybrid three-display combo will debut in late 2022, analysts claim](https://appleinsider.com/articles/22/01/04/apple-arvr-headset-with-three-displays-to-debut-in-2022-analysts-claim?utm_medium=rss)
+ - [Sketchy rumor claims Apple will launch audiobook subscription service in 2022](https://appleinsider.com/articles/22/01/04/sketchy-rumor-claims-apple-will-launch-audiobook-service-in-2022?utm_medium=rss)
+ - [AnkerWork shows Cosmos Laser projectors, AnkerWork B600 webcam at CES](https://appleinsider.com/articles/22/01/04/ankerwork-shows-cosmos-laser-projectors-ankerwork-b600-webcam-at-ces?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
