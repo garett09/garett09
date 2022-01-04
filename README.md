@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Back in stock: Apple&#39;s 14-inch MacBook Pro $150 off, $60 off AppleCare](https://appleinsider.com/articles/22/01/04/back-in-stock-apples-14-inch-macbook-pro-150-off-60-off-applecare?utm_medium=rss)
- - [A record 4.5 Mi&rpar;ion Americans quit their Jobs in November,](https://techncruncher.blogspot.com/2022/01/a-record-45-miion-americans-quit-their.html)
- - [Linksys launches Wi-Fi 6 router, Hydra Pro 6, available now](https://appleinsider.com/articles/22/01/04/linksys-launches-wi-fi-6-router-hydra-pro-6-available-now?utm_medium=rss)<!-- TECH:END -->
+ - [HP adds two new Dragonfly models to its business lineup](https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops)
+ - [Death Stranding Director’s Cut is coming to PC this spring](https://www.theverge.com/2022/1/4/22866918/death-stranding-directors-cut-pc-epic-games-store-steam-kojima-productions)
+ - [Intel announces 22 more 12th Gen CPUs for mainstream consumer desktops](https://www.theverge.com/2022/1/4/22866533/intel-12th-gen-cpu-alder-lake-mainstream-consumer-desktops-ces-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
