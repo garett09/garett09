@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But my name is Beth](http://9gag.com/gag/aWgqwN6)
- - 🚯 [Men will be men](http://9gag.com/gag/angjLxo)
- - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)<!-- MEMES:END -->
+ - 🚖 [Jack is back](http://9gag.com/gag/avA73d5)
+ - 🚯 [This is Uuno, he works in game dev. When you pat the good boy in game, you could be patting Uuno.](http://9gag.com/gag/a71Dz9r)
+ - 🚯 [Skagefl&amp;aring;, Geiranger, Norway](http://9gag.com/gag/a214n1O)<!-- MEMES:END -->
 
 --- 
 
