@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Schlage unveils first WiFi deadblock smart lock with Apple Home Key support](https://appleinsider.com/articles/22/01/04/schlage-unveils-first-wifi-deadblock-smart-lock-with-apple-home-key-support?utm_medium=rss)
- - [Sony announces the world’s first QD-OLED 4K TV, coming later this year](https://www.theverge.com/2022/1/4/22865220/sony-a95k-qd-oled-qdoled-4k-tv-announced-features-explainer)
- - [Sony made a camera for its TVs that can scold you for sitting too close](https://www.theverge.com/2022/1/4/22865486/sony-bravia-tv-cam-announced-features-gestures)<!-- TECH:END -->
+ - [World&#39;s richest man gets $32BILLION richer: Elon Musk&#39;s worth climbs to $304billion as Tesla stock soars after car maker rolled out nearly a million vehicles in 2021](https://techncruncher.blogspot.com/2022/01/worlds-richest-man-gets-32billion.html)
+ - [AMD’s new Radeon Super Resolution software promises to bring AI super-sampling to almost any game](https://www.theverge.com/2022/1/4/22866673/amd-radeon-super-resolution-software-ai-super-sampling-ces-2022)
+ - [AMD debuts Ryzen 7 5800X3D chips, coming this spring, that use 3D V-Cache chiplet stacking tech for a 15% gaming performance boost; Zen 4 5nm chips coming in H2 &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220104/p12#a220104p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
