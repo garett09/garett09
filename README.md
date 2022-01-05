@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drinkbox’s wacky RPG Nobody Saves the World coming to Xbox Game Pass](https://www.polygon.com/22869314/nobody-saves-the-world-drinkbox-studios-release-date-xbox-game-pass)
- - [Black swords have deep meaning in Demon Slayer and anime beyond](https://www.polygon.com/22857430/anime-black-swords-demon-slayer-berserk-one-piece)
- - [Matrix Resurrections, Black Widow piracy shows the limit of the straight-to-streaming blockbuster](https://www.polygon.com/22868589/matrix-resurrections-black-widow-torrent-streaming-release)<!-- GAME:END -->
+ - [Netflix’s movie Hilda and the Mountain King answers the series’ biggest mysteries](https://www.polygon.com/22869272/hilda-and-the-mountain-king-review-netflix)
+ - [Activision Blizzard shows no sign of giving in as Raven QA strike enters third week](https://www.pcgamer.com/activision-blizzard-shows-no-sign-of-giving-in-as-raven-qa-strike-enters-third-week)
+ - [PSVR2’s best feature might be the pressure it puts on Sony to fund more VR games](https://www.polygon.com/22869253/psvr2-best-feature-sony-funding-more-vr-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
