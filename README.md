@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The HP Omen 27u could be a great PC and console gaming monitor](https://www.pcgamer.com/the-hp-omen-27u-could-be-a-great-pc-and-console-gaming-monitor)
- - [Corsair launches its ONE i300 mini PC with a Core i9 12900K and up to an RTX 3080 Ti](https://www.pcgamer.com/corsair-launches-its-one-i300-mini-pc-with-a-12900k-and-up-to-a-3080-ti)
- - [HyperX&#39;s new Cloud Alpha Wireless gaming headset battery lasts up to 300 hours](https://www.pcgamer.com/hyperxs-new-cloud-alpha-wireless-gaming-headset-battery-lasts-up-to-300-hours)<!-- GAME:END -->
+ - [Somehow Razer is jamming an RTX 3080 Ti into the ickle new Blade 14](https://www.pcgamer.com/somehow-razer-is-jamming-an-rtx-3080-ti-into-the-ickle-new-blade-14)
+ - [40 People Arrested For Alleged Twitch Money Laundering Scheme](https://kotaku.com/40-people-arrested-for-alleged-twitch-money-laundering-1848305635)
+ - [The HP Omen 27u could be a great PC and console gaming monitor](https://www.pcgamer.com/the-hp-omen-27u-could-be-a-great-pc-and-console-gaming-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
