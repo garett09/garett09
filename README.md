@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Human Security, a bot mitigation and fraud detection company that was acquired by Goldman Sachs in 2020, raises $100M in growth funding led by WestCap &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220105/p1#a220105p1)
- - [Samsung&#39;s CES 2022 keynote leans into sustainability, customization and device concepts     - CNET](https://www.cnet.com/news/samsungs-ces-2022-keynote-leans-into-sustainability-customization-and-device-concepts/#ftag=CAD590a51e)
- - [Chrysler announces at CES 2022 it&#39;s going all-electric by 2028     - Roadshow](https://www.cnet.com/roadshow/news/chrysler-all-electric-2028-ces-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at London-based electronic money institutions, with 200+ approved by regulators since 2018, as some face allegations of money laundering and fraud &lpar;Donal Griffin/Bloomberg&rpar;](http://www.techmeme.com/220105/p2#a220105p2)
+ - [Here’s everything we know about the upcoming PSVR 2 &lpar;Updated: Jan 5&rpar;](https://www.androidauthority.com/ps5-psvr-2-1148314/)
+ - [OnePlus 10 and 10 Pro: All the rumors &lpar;Updated: Jan. 5&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
