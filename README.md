@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The glass is half full if it was filled to half and the glass is half empty if it was filled first and half got drained.](http://9gag.com/gag/aDDx3gd)
- - 🚯 [It&amp;#039;s -3&amp;deg; C and this bad boy hits in the face. Bonus: it&amp;#039;s wet.](http://9gag.com/gag/aOQrbBN)
- - 🚯 [God damit Carl, this is sport not some entertainment funny show. Please pay for some respect \ud83d\ude02](http://9gag.com/gag/aegM3gm)<!-- MEMES:END -->
+ - 🚯 [Dude starts flipping on his gf or someone, and then tried to fight a worker, gets dropped](http://9gag.com/gag/aYrgWQ0)
+ - 🚯 [Just hoping for some air support](http://9gag.com/gag/aGzjVbK)<!-- MEMES:END -->
 
 --- 
 
