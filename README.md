@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD tosses a ton of cheap Nokia smartphones at the US](https://www.androidauthority.com/nokia-smartphones-us-ces-2022-3079144/)
- - [HMD admits it screwed up Android 11 rollout for Nokia phones](https://www.androidauthority.com/hmd-android-11-nokia-phones-mess-up-3079198/)
- - [The Best TV Shows You Missed in 2021—and How to Watch Them](https://www.wired.com/story/best-tv-you-missed-2021-streaming-guide)<!-- TECH:END -->
+ - [M1 Max MacBook Pro supply more constrained than M1 Pro, analyst says](https://appleinsider.com/articles/22/01/05/m1-max-macbook-pro-supply-more-constrained-than-m1-pro-analyst-says?utm_medium=rss)
+ - [Xage, which helps secure critical physical infrastructure using a zero trust system, raises a $30M Series B led by Piva, bringing its total funding to $54M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220105/p18#a220105p18)
+ - [15 best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
