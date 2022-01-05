@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s newest Agent is Neon, an electricity-fueled speed demon](https://www.polygon.com/22868772/valorant-new-agent-neon-abilities-trailer)
- - [World of Tanks: New Tanks, New Challenges, New Year](https://news.xbox.com/en-us/2022/01/05/world-of-tanks-new-tanks-new-challenges-new-year/)
- - [New PC Case With Automatic Air Vents Is Freaking Me Out](https://kotaku.com/new-pc-case-with-automatic-air-vents-is-freaking-me-out-1848307565)<!-- GAME:END -->
+ - [Nobody Saves the World Launching January 18 with Xbox Game Pass](https://news.xbox.com/en-us/2022/01/05/nobody-saves-the-world-launching-january-18-with-xbox-game-pass/)
+ - [Dead by Daylight drops Leatherface masks over blackface complaints](https://www.pcgamer.com/dead-by-daylight-drops-leatherface-masks-over-blackface-complaints)
+ - [Rainbow Six Extraction Is Coming To Xbox Game Pass Day One](https://kotaku.com/rainbow-six-extraction-is-coming-to-xbox-game-pass-day-1848308114)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
