@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Call of the Mountain Revealed for PlayStation VR2](https://blog.playstation.com/2022/01/04/horizon-call-of-the-mountain-revealed-for-playstation-vr2/)
- - [PlayStation VR2 and PlayStation VR2 Sense controller: the next generation of VR gaming on PS5](https://blog.playstation.com/2022/01/04/playstation-vr2-and-playstation-vr2-sense-controller-the-next-generation-of-vr-gaming-on-ps5/)
- - [This PC case features vents that open and close as its internal temperature changes](https://www.pcgamer.com/cyberpowerpc-kinetic-series)<!-- GAME:END -->
+ - [Horizon Zero Dawn Spin-Off Coming To PlayStation VR2](https://kotaku.com/horizon-zero-dawn-spin-off-coming-to-playstation-vr2-1848304842)
+ - [Samsung&#39;s new curved gaming monitor has some tricks up its screen](https://www.pcgamer.com/samsungs-new-curved-gaming-monitor-has-some-tricks-up-its-screen)
+ - [Horizon Call of the Mountain Revealed for PlayStation VR2](https://blog.playstation.com/2022/01/04/horizon-call-of-the-mountain-revealed-for-playstation-vr2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
