@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The HP Omen 27u could be a great PC and console gaming monitor](https://www.pcgamer.com/the-hp-omen-27u-could-be-a-great-pc-and-console-gaming-monitor)
  - [Corsair launches its ONE i300 mini PC with a 12900K and up to a 3080 Ti.](https://www.pcgamer.com/corsair-launches-its-one-i300-mini-pc-with-a-12900k-and-up-to-a-3080-ti)
- - [HyperX&#39;s new Cloud Alpha Wireless gaming headset battery lasts up to 300 hours](https://www.pcgamer.com/hyperxs-new-cloud-alpha-wireless-gaming-headset-battery-lasts-up-to-300-hours)
- - [Foldable laptop screens are coming in 2022](https://www.pcgamer.com/foldable-laptop-screens-are-coming-in-2022)<!-- GAME:END -->
+ - [HyperX&#39;s new Cloud Alpha Wireless gaming headset battery lasts up to 300 hours](https://www.pcgamer.com/hyperxs-new-cloud-alpha-wireless-gaming-headset-battery-lasts-up-to-300-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
