@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s -3&amp;deg; C and this bad boy hits in the face. Bonus: it&amp;#039;s wet.](http://9gag.com/gag/aOQrbBN)
- - 🚯 [Steven Seagal running](http://9gag.com/gag/avAOLwX)
- - 🚯 [A deep look into Rattlesnake&amp;rsquo;s rattle](http://9gag.com/gag/aAGxp52)<!-- MEMES:END -->
+ - 🚖 [Book adaptations](http://9gag.com/gag/aZr3MWp)
+ - 🚯 [A deep look into Rattlesnake&amp;rsquo;s rattle](http://9gag.com/gag/aAGxp52)
+ - 🚯 [Speaking real Irish](http://9gag.com/gag/aqG722L)<!-- MEMES:END -->
 
 --- 
 
