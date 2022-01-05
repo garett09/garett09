@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trilogy done right](http://9gag.com/gag/amg2DXj)
- - 🚯 [The pinnacle of swordcraft](http://9gag.com/gag/ajgEQr1)
- - 🚯 [It&amp;#039;s the first Dude of the year. Treat him gently!](http://9gag.com/gag/axB1E3L)<!-- MEMES:END -->
+ - 🚖 [The double slit experiment shows that reality seems to behave differently when we observe it](http://9gag.com/gag/apg2KvE)
+ - 🚯 [That cat has seen some shit](http://9gag.com/gag/arngvR5)
+ - 🚯 [She want peace](http://9gag.com/gag/aegMj6p)<!-- MEMES:END -->
 
 --- 
 
