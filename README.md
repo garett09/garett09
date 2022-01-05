@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Foldable laptop screens are coming in 2022](https://www.pcgamer.com/foldable-laptop-screens-are-coming-in-2022)
- - [Horizon Zero Dawn Spin-Off Coming To PlayStation VR2](https://kotaku.com/horizon-zero-dawn-spin-off-coming-to-playstation-vr2-1848304842)
- - [Activision has filed a lawsuit against cheat site EngineOwning](https://www.pcgamer.com/activision-has-filed-a-lawsuit-against-cheat-site-engineowning)<!-- GAME:END -->
+ - [Corsair launches its ONE i300 mini PC with a 12900K and up to a 3080 Ti.](https://www.pcgamer.com/corsair-launches-its-one-i300-mini-pc-with-a-12900k-and-up-to-a-3080-ti)
+ - [HyperX&#39;s new Cloud Alpha Wireless gaming headset battery lasts up to 300 hours](https://www.pcgamer.com/hyperxs-new-cloud-alpha-wireless-gaming-headset-battery-lasts-up-to-300-hours)
+ - [Foldable laptop screens are coming in 2022](https://www.pcgamer.com/foldable-laptop-screens-are-coming-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
