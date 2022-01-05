@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus unveils the Zenbook 17 Fold OLED with a 17.3&quot; foldable screen, Intel&#39;s 12th-gen CPUs, up to 16GB RAM and 1TB SSD, and more, coming in Q2, pricing TBC &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220105/p21#a220105p21)
- - [HTC is launching a VR wrist tracker for its Vive Focus 3 headset](https://www.theverge.com/2022/1/5/22868507/htc-wrist-tracker-vive-focus-3-ces)
- - [The PS5 Digital Edition is available right now at Best Buy &lpar;update: sold out&rpar;](https://www.theverge.com/2022/1/5/22859968/sony-playstation-5-restock-best-buy-ps5-console)<!-- TECH:END -->
+ - [Satechi announces new Pro Hub Max and USB-4 Multiport Adapter with 8K HDMI](https://appleinsider.com/articles/22/01/05/satechi-announces-new-pro-hub-max-and-usb-4-multiport-adapter-with-8k-hdmi?utm_medium=rss)
+ - [Google is bringing Fast Pair to all the things, from smart TVs to Chromebooks](https://www.androidauthority.com/google-fast-pair-ces-2022-3083302/)
+ - [Razer has a crazy new modular gaming desk PC concept, and a haptic gaming chair](https://www.androidauthority.com/razer-gaming-desk-pc-project-sophia-3084287/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
