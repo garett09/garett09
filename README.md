@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Target Real estate websites with skimmer in latest supply chain attack](https://techncruncher.blogspot.com/2022/01/hackers-target-real-estate-websites.html)
- - [As companies race to find practical applications for quantum computers, the short term focus is on boosting machine learning &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220105/p14#a220105p14)
- - [In Praise of Unglamorous American Invention](https://www.wired.com/story/unglamorous-american-inventions)<!-- TECH:END -->
+ - [HMD tosses a ton of cheap Nokia smartphones at the US](https://www.androidauthority.com/nokia-smartphones-us-ces-2022-3079144/)
+ - [HMD admits it screwed up Android 11 rollout for Nokia phones](https://www.androidauthority.com/hmd-android-11-nokia-phones-mess-up-3079198/)
+ - [The Best TV Shows You Missed in 2021—and How to Watch Them](https://www.wired.com/story/best-tv-you-missed-2021-streaming-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
