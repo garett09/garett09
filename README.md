@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the fall, John Deere will start selling its fully autonomous 8R tractor, which can gather data about the soil to improve its algorithms as it operates &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/220104/p20#a220104p20)
- - [CES 2022 Liveblog: The Latest News From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [Apple to announce first quarter earnings on Jan. 27](https://appleinsider.com/articles/22/01/04/apple-to-announce-first-quarter-earnings-call-on-jan-27?utm_medium=rss)<!-- TECH:END -->
+ - [Chip shortages cost GM the US vehicle sales crown it’s held since 1931](https://www.theverge.com/2022/1/4/22867285/gm-toyota-us-top-selling-automaker-chip-shortage)
+ - [BMW’s iX M60 is a dual-motor performance EV with 280 miles of range](https://www.theverge.com/2022/1/4/22866219/bmw-ix-m60-electric-vehicle-range-specs-date)
+ - [Fanatics acquires trading card company Topps&#39; name and its sports and entertainment divisions, sources say for ~$500M, as Fanatics builds out its NFT offerings &lpar;Jabari Young/CNBC&rpar;](http://www.techmeme.com/220104/p22#a220104p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
