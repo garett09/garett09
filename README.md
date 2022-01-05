@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Different experiences](http://9gag.com/gag/awzXrxR)
- - 🚯 [130kg weight loss by exercise and surgery](http://9gag.com/gag/a81obdO)
- - 🚯 [One ticket straight to hell please](http://9gag.com/gag/aDDx0Yx)<!-- MEMES:END -->
+ - 🚖 [One ticket straight to hell please](http://9gag.com/gag/aDDx0Yx)
+ - 🚯 [God damit Carl, this is sport not some entertainment funny show. Please pay for some respect \ud83d\ude02](http://9gag.com/gag/aegM3gm)
+ - 🚯 [130kg weight loss by exercise and surgery](http://9gag.com/gag/a81obdO)<!-- MEMES:END -->
 
 --- 
 
