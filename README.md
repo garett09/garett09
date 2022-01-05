@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Polish railbus driver tells passengers to get down just before collision with truck](http://9gag.com/gag/aVx3Wy2)
- - 🚯 [In a world of heroes, know these names: Peter Hotez and Maria Bottazzi. They developed a Covid vaccine in Texas that&amp;#039;s been approved for widespread use in India. The best part? They&amp;#039;re sharing it for free, with no royalties or patents attached. Know their names.](http://9gag.com/gag/apg2oXB)
- - 🚯 [Dude starts flipping on his gf or someone, and then tried to fight a worker, gets dropped](http://9gag.com/gag/aYrgWQ0)<!-- MEMES:END -->
+ - 🚯 [Dude starts flipping on his gf or someone, and then tried to fight a worker, gets dropped](http://9gag.com/gag/aYrgWQ0)
+ - 🚯 [You&amp;#039;ll never hear this - Sex Trafficking Victim Escapes Moving Vehicle in Lexington, Kentucky. No media coverage.](http://9gag.com/gag/aAGxpXE)<!-- MEMES:END -->
 
 --- 
 
