@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi announces new Pro Hub Max and USB-4 Multiport Adapter with 8K HDMI](https://appleinsider.com/articles/22/01/05/satechi-announces-new-pro-hub-max-and-usb-4-multiport-adapter-with-8k-hdmi?utm_medium=rss)
- - [Google is bringing Fast Pair to all the things, from smart TVs to Chromebooks](https://www.androidauthority.com/google-fast-pair-ces-2022-3083302/)
- - [Razer has a crazy new modular gaming desk PC concept, and a haptic gaming chair](https://www.androidauthority.com/razer-gaming-desk-pc-project-sophia-3084287/)<!-- TECH:END -->
+ - [Garmin unveils Venu 2 Plus smartwatch that&#39;s compatible with Siri](https://appleinsider.com/articles/22/01/04/garmin-unveils-venu-2-plus-smartwatch-thats-compatible-with-siri?utm_medium=rss)
+ - [Intel&#39;s Alder Lake chips are very powerful, and that&#39;s good for the entire industry](https://appleinsider.com/articles/22/01/05/intels-alder-lake-chips-are-very-powerful-and-thats-good-for-the-entire-industry?utm_medium=rss)
+ - [BMW debuts its new color-changing paint technology at CES: E Ink](https://www.theverge.com/2022/1/5/22867090/bmw-color-changing-paint-electric-car-ces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
