@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Powerful Free Steam Game Captures The Consequences Of Housing Inequality For People Of Color](https://kotaku.com/powerful-free-steam-game-captures-the-consequences-of-h-1848309096)
- - [Genshin Impact adds four alternate costumes that are more conservative](https://www.polygon.com/22868828/genshin-impact-new-skin-chinese-law-regulations)
- - [The 12 most anticipated new board games of 2022](https://www.polygon.com/tabletop-games/22866736/most-anticipated-board-games-2022-best-tabletop-releases)<!-- GAME:END -->
+ - [Dead By Daylight devs remove Leatherface mask due to harassment](https://www.polygon.com/22869094/dead-by-daylight-leatherface-mask-harassment-dlc)
+ - [How to get the Crescent Shroom pickaxe in Fortnite](https://www.pcgamer.com/crescent-shroom-pickaxe)
+ - [China’s gaming crackdown puts 14,000 companies out of business](https://www.polygon.com/22869159/china-video-games-crackdown-restrictions-super-buckyball-tournament)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
