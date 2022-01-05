@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The glass is half full if it was filled to half and the glass is half empty if it was filled first and half got drained.](http://9gag.com/gag/aDDx3gd)
- - 🚯 [Dude starts flipping on his gf or someone, and then tried to fight a worker, gets dropped](http://9gag.com/gag/aYrgWQ0)
- - 🚯 [Just hoping for some air support](http://9gag.com/gag/aGzjVbK)<!-- MEMES:END -->
+ - 🚯 [This is what is happening in my motherland Kazakhstan. This is happening because citizens are tired from corrupted government and the patient has elapsed. The 2022 has started from Kazakhstan.](http://9gag.com/gag/a91pdVj)
+ - 🚯 [The only 2 movies I watched as a kid. This and the Terminator.](http://9gag.com/gag/adgK6EV)<!-- MEMES:END -->
 
 --- 
 
