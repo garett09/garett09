@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrysler previews its all-electric future with Airflow concept SUV](https://www.theverge.com/2022/1/5/22862387/chrysler-electric-only-2028-airflow-concept-ces-2022)
- - [Belkin introduces new HomeKit Secure Video doorbell, new Matter-ready devices at CES 2022](https://appleinsider.com/articles/22/01/05/belkin-introduces-new-homekit-secure-video-doorbell-new-matter-ready-devices-at-ces-2022?utm_medium=rss)
- - [Sony says its upcoming VR headset PS VR2 for PS5 will have a 4K HDR OLED display, 2000&amp;times;2040 pixels per eye resolution, 110-degree FoV, haptic feedback, and more &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220104/p27#a220104p27)<!-- TECH:END -->
+ - [Human Security, a bot mitigation and fraud detection company that was acquired by Goldman Sachs in 2020, raises $100M in growth funding led by WestCap &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220105/p1#a220105p1)
+ - [Samsung&#39;s CES 2022 keynote leans into sustainability, customization and device concepts     - CNET](https://www.cnet.com/news/samsungs-ces-2022-keynote-leans-into-sustainability-customization-and-device-concepts/#ftag=CAD590a51e)
+ - [Chrysler announces at CES 2022 it&#39;s going all-electric by 2028     - Roadshow](https://www.cnet.com/roadshow/news/chrysler-all-electric-2028-ces-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
