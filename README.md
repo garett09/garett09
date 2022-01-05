@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf products will soon act as Thread border routers for HomeKit devices](https://appleinsider.com/articles/22/01/05/nanoleaf-products-will-soon-act-as-thread-border-routers-for-homekit-devices?utm_medium=rss)
- - [Online whiteboard tool Miro raises a $400M Series C led by Iconiq Growth at a $17.5B valuation, up from $725M in April 2020, and says it has 30M users &lpar;Lizzy Lawrence/Protocol&rpar;](http://www.techmeme.com/220105/p12#a220105p12)
- - [Daily Authority: 🔥 Everything CES 2022!](https://www.androidauthority.com/newsletters/da-january-5-2022/)<!-- TECH:END -->
+ - [Hackers Target Real estate websites with skimmer in latest supply chain attack](https://techncruncher.blogspot.com/2022/01/hackers-target-real-estate-websites.html)
+ - [As companies race to find practical applications for quantum computers, the short term focus is on boosting machine learning &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220105/p14#a220105p14)
+ - [In Praise of Unglamorous American Invention](https://www.wired.com/story/unglamorous-american-inventions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
