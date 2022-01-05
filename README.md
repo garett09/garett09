@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight devs remove Leatherface mask due to harassment](https://www.polygon.com/22869094/dead-by-daylight-leatherface-mask-harassment-dlc)
- - [How to get the Crescent Shroom pickaxe in Fortnite](https://www.pcgamer.com/crescent-shroom-pickaxe)
- - [China’s gaming crackdown puts 14,000 companies out of business](https://www.polygon.com/22869159/china-video-games-crackdown-restrictions-super-buckyball-tournament)<!-- GAME:END -->
+ - [Drinkbox’s wacky RPG Nobody Saves the World coming to Xbox Game Pass](https://www.polygon.com/22869314/nobody-saves-the-world-drinkbox-studios-release-date-xbox-game-pass)
+ - [Black swords have deep meaning in Demon Slayer and anime beyond](https://www.polygon.com/22857430/anime-black-swords-demon-slayer-berserk-one-piece)
+ - [Matrix Resurrections, Black Widow piracy shows the limit of the straight-to-streaming blockbuster](https://www.polygon.com/22868589/matrix-resurrections-black-widow-torrent-streaming-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
