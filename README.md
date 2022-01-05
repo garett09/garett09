@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin unveils Venu 2 Plus smartwatch that&#39;s compatible with Siri](https://appleinsider.com/articles/22/01/04/garmin-unveils-venu-2-plus-smartwatch-thats-compatible-with-siri?utm_medium=rss)
- - [Intel&#39;s Alder Lake chips are very powerful, and that&#39;s good for the entire industry](https://appleinsider.com/articles/22/01/05/intels-alder-lake-chips-are-very-powerful-and-thats-good-for-the-entire-industry?utm_medium=rss)
- - [BMW debuts its new color-changing paint technology at CES: E Ink](https://www.theverge.com/2022/1/5/22867090/bmw-color-changing-paint-electric-car-ces)<!-- TECH:END -->
+ - [Instagram is testing the ability to switch between three feeds, including one that displays posts in chronological order, rolling out to all users in H1 2022 &lpar;Jos&amp;eacute; Adorno/9to5Mac&rpar;](http://www.techmeme.com/220105/p25#a220105p25)
+ - [CES 2022 Liveblog: The Gadgets Keep Coming at Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
+ - [Walmart is expanding its direct-to-your-refrigerator deliveries](https://www.theverge.com/2022/1/5/22868709/walmart-inhome-deliveries-expanding)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
