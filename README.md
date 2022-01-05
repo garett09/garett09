@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrysler previews its all-electric future with Airflow concept SUV](https://www.theverge.com/2022/1/5/22862387/chrysler-electric-only-2028-airflow-concept-ces-2022)
  - [Belkin introduces new HomeKit Secure Video doorbell, new Matter-ready devices at CES 2022](https://appleinsider.com/articles/22/01/05/belkin-introduces-new-homekit-secure-video-doorbell-new-matter-ready-devices-at-ces-2022?utm_medium=rss)
- - [Sony says its upcoming VR headset PS VR2 for PS5 will have a 4K HDR OLED display, 2000&amp;times;2040 pixels per eye resolution, 110-degree FoV, haptic feedback, and more &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220104/p27#a220104p27)
- - [Samsung unveils Home Hub, a SmartThings controller with a docked tablet, launching in South Korea in H1 2022, and says it joined the Home Connectivity Alliance &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/220104/p26#a220104p26)<!-- TECH:END -->
+ - [Sony says its upcoming VR headset PS VR2 for PS5 will have a 4K HDR OLED display, 2000&amp;times;2040 pixels per eye resolution, 110-degree FoV, haptic feedback, and more &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220104/p27#a220104p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
