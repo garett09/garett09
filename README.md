@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Foldable laptop screens are coming in 2022](https://www.pcgamer.com/foldable-laptop-screens-are-coming-in-2022)
  - [Horizon Zero Dawn Spin-Off Coming To PlayStation VR2](https://kotaku.com/horizon-zero-dawn-spin-off-coming-to-playstation-vr2-1848304842)
- - [Activision has filed a lawsuit against cheat site EngineOwning](https://www.pcgamer.com/activision-has-filed-a-lawsuit-against-cheat-site-engineowning)
- - [Samsung&#39;s new curved gaming monitor has some tricks up its screen](https://www.pcgamer.com/samsungs-new-curved-gaming-monitor-has-some-tricks-up-its-screen)<!-- GAME:END -->
+ - [Activision has filed a lawsuit against cheat site EngineOwning](https://www.pcgamer.com/activision-has-filed-a-lawsuit-against-cheat-site-engineowning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
