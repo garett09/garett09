@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One ticket straight to hell please](http://9gag.com/gag/aDDx0Yx)
- - 🚯 [God damit Carl, this is sport not some entertainment funny show. Please pay for some respect \ud83d\ude02](http://9gag.com/gag/aegM3gm)
- - 🚯 [130kg weight loss by exercise and surgery](http://9gag.com/gag/a81obdO)<!-- MEMES:END -->
+ - 🚖 [&amp;ldquo;Don&amp;rsquo;t you dare skate your ass around here again&amp;rdquo;](http://9gag.com/gag/arngeX0)
+ - 🚯 [This is Manchester](http://9gag.com/gag/a31KYee)
+ - 🚯 [Get Ready, steady ~~](http://9gag.com/gag/a21oNXD)<!-- MEMES:END -->
 
 --- 
 
