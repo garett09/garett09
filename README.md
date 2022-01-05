@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save plastics](http://9gag.com/gag/aE8xwzx)
- - 🚯 [Get Ready, steady ~~](http://9gag.com/gag/a21oNXD)
+ - 🚖 [The Mcdonalorian&amp;rsquo;s](http://9gag.com/gag/a81ob41)
+ - 🚯 [First time a customer asked me to do this kind of design with 2 different tiles.](http://9gag.com/gag/a51odpr)
  - 🚯 [This is how one should spend their money, not on multi-million dollar yachts](http://9gag.com/gag/amg7X62)<!-- MEMES:END -->
 
 --- 
