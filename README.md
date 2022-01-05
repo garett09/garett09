@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony pivots into cars with Sony Mobility and a Vision-S SUV prototype at CES 2022](https://www.theverge.com/2022/1/4/22867818/sony-mobility-cars-vision-prototype-ces-2022)
- - [Shure’s new Aonic 40 are a slightly cheaper pair of noise-canceling wireless headphones](https://www.theverge.com/2022/1/4/22841858/shure-aonic-40-noise-canceling-wireless-headphones-ces-2022)
- - [Sony confirms PlayStation VR2 name and Horizon game](https://www.theverge.com/2022/1/4/22867813/playstation-vr2-name-confirmed-horizon-call-of-the-mountain)<!-- TECH:END -->
+ - [Belkin introduces new HomeKit Secure Video doorbell, new Matter-ready devices at CES 2022](https://appleinsider.com/articles/22/01/05/belkin-introduces-new-homekit-secure-video-doorbell-new-matter-ready-devices-at-ces-2022?utm_medium=rss)
+ - [You can buy Wemo’s new HomeKit video doorbell right now](https://www.theverge.com/2022/1/4/22865546/wemo-homekit-video-doorbell-price-specs)
+ - [Belkin’s Soundform Immerse noise-canceling earbuds are designed with music lovers in mind](https://www.theverge.com/2022/1/4/22866535/belkin-soundform-immerse-noise-canceling-earbuds-ces-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
