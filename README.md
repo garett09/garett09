@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip shortages cost GM the US vehicle sales crown it’s held since 1931](https://www.theverge.com/2022/1/4/22867285/gm-toyota-us-top-selling-automaker-chip-shortage)
- - [BMW’s iX M60 is a dual-motor performance EV with 280 miles of range](https://www.theverge.com/2022/1/4/22866219/bmw-ix-m60-electric-vehicle-range-specs-date)
- - [Fanatics acquires trading card company Topps&#39; name and its sports and entertainment divisions, sources say for ~$500M, as Fanatics builds out its NFT offerings &lpar;Jabari Young/CNBC&rpar;](http://www.techmeme.com/220104/p22#a220104p22)<!-- TECH:END -->
+ - [Sony pivots into cars with Sony Mobility and a Vision-S SUV prototype at CES 2022](https://www.theverge.com/2022/1/4/22867818/sony-mobility-cars-vision-prototype-ces-2022)
+ - [Shure’s new Aonic 40 are a slightly cheaper pair of noise-canceling wireless headphones](https://www.theverge.com/2022/1/4/22841858/shure-aonic-40-noise-canceling-wireless-headphones-ces-2022)
+ - [Sony confirms PlayStation VR2 name and Horizon game](https://www.theverge.com/2022/1/4/22867813/playstation-vr2-name-confirmed-horizon-call-of-the-mountain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
