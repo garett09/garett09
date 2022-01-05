@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Horizon Zero Dawn Spin-Off Coming To PlayStation VR2](https://kotaku.com/horizon-zero-dawn-spin-off-coming-to-playstation-vr2-1848304842)
- - [Samsung&#39;s new curved gaming monitor has some tricks up its screen](https://www.pcgamer.com/samsungs-new-curved-gaming-monitor-has-some-tricks-up-its-screen)
- - [Horizon Call of the Mountain Revealed for PlayStation VR2](https://blog.playstation.com/2022/01/04/horizon-call-of-the-mountain-revealed-for-playstation-vr2/)<!-- GAME:END -->
+ - [Activision has filed a lawsuit against cheat site EngineOwning](https://www.pcgamer.com/activision-has-filed-a-lawsuit-against-cheat-site-engineowning)
+ - [Samsung&#39;s new curved gaming monitor has some tricks up its screen](https://www.pcgamer.com/samsungs-new-curved-gaming-monitor-has-some-tricks-up-its-screen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
