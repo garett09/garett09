@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
- - 🚯 [I came here to laugh, not to pity you](http://9gag.com/gag/aggXyX1)
- - 🚯 [A tiny fraction](http://9gag.com/gag/axB1dMb)<!-- MEMES:END -->
+ - 🚖 [I came here to laugh, not to pity you](http://9gag.com/gag/aggXyX1)
+ - 🚯 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
+ - 🚯 [It&amp;rsquo;s time to go back &amp;hellip;&amp;hellip; for a few seconds atleast](http://9gag.com/gag/a31KPpQ)<!-- MEMES:END -->
 
 --- 
 
