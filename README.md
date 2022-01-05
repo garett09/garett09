@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Remake Mod Turns Sephiroth Into Ronald McDonald](https://kotaku.com/final-fantasy-7-remake-mod-turns-sephiroth-into-ronald-1848304070)
- - [What’s next for Cobra Kai after season 4?](https://www.polygon.com/22867245/cobra-kai-season-4-spoilers-recap-season-5-preview-hilary-swank)
- - [Halo Infinite lead narrative designer leaves 343 Industries for Riot Games](https://www.pcgamer.com/halo-infinite-lead-narrative-designer-leaves-343-industries-for-riot-games)<!-- GAME:END -->
+ - [Elmo is right about Rocco and it’s time we acknowledge that](https://www.polygon.com/22867582/sesame-street-rocco-elmo-meme-twitter)
+ - [A broken Call of Duty: Warzone skin is turning players invisible &lpar;again&rpar;](https://www.pcgamer.com/a-broken-call-of-duty-warzone-skin-is-turning-players-invisible-again)
+ - [Final Fantasy 7 Remake Mod Turns Sephiroth Into Ronald McDonald](https://kotaku.com/final-fantasy-7-remake-mod-turns-sephiroth-into-ronald-1848304070)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
