@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CES 2022: everything from the tech show that PC gamers should care about](https://www.pcgamer.com/ces-2022-announcements-new-products-intel-nvidia-amd)
- - [Playground Games co-founder and studio director steps down](https://www.pcgamer.com/playground-games-co-founder-and-studio-director-steps-down)
- - [Welcome to the high-end VR party, PS5 console owners](https://www.pcgamer.com/playstation-vr2-virtual-reality-headset-announcement)<!-- GAME:END -->
+ - [Activision suing Call of Duty cheat maker](https://www.polygon.com/22868456/activision-call-of-duty-cheat-lawsuit)
+ - [Final Fantasy X and X-2 producer reflects on the innovative PS2 titles](https://blog.playstation.com/2022/01/05/final-fantasy-x-and-x-2-producer-reflects-on-the-innovative-ps2-titles/)
+ - [Final Fantasy X and X-2 producer reflects on the innovative PS2 titles](https://blog.playstation.com/2022/01/05/final-fantasy-x-and-x-2-producer-reflects-on-the-innovative-ps2-titles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
