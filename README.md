@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dexter’s Laboratory: Ego Trip is a lost TV masterpiece](https://www.polygon.com/2022/1/5/22866685/dexters-laboratory-ego-trip-tv-streaming-hbo-max)
- - [Dead By Daylight Devs Remove Leatherface ‘Blackface’ Mask](https://kotaku.com/dead-by-daylight-devs-remove-leatherface-blackface-ma-1848307371)
- - [Rainbow Six Extraction Coming on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2022/01/05/rainbow-six-extraction-day-one-with-xbox-game-pass/)<!-- GAME:END -->
+ - [Valorant’s newest Agent is Neon, an electricity-fueled speed demon](https://www.polygon.com/22868772/valorant-new-agent-neon-abilities-trailer)
+ - [World of Tanks: New Tanks, New Challenges, New Year](https://news.xbox.com/en-us/2022/01/05/world-of-tanks-new-tanks-new-challenges-new-year/)
+ - [New PC Case With Automatic Air Vents Is Freaking Me Out](https://kotaku.com/new-pc-case-with-automatic-air-vents-is-freaking-me-out-1848307565)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
