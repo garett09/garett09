@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Mcdonalorian&amp;rsquo;s](http://9gag.com/gag/a81ob41)
- - 🚯 [First time a customer asked me to do this kind of design with 2 different tiles.](http://9gag.com/gag/a51odpr)
- - 🚯 [This is how one should spend their money, not on multi-million dollar yachts](http://9gag.com/gag/amg7X62)<!-- MEMES:END -->
+ - 🚖 [Different experiences](http://9gag.com/gag/awzXrxR)
+ - 🚯 [130kg weight loss by exercise and surgery](http://9gag.com/gag/a81obdO)
+ - 🚯 [One ticket straight to hell please](http://9gag.com/gag/aDDx0Yx)<!-- MEMES:END -->
 
 --- 
 
