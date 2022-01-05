@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;ldquo;Don&amp;rsquo;t you dare skate your ass around here again&amp;rdquo;](http://9gag.com/gag/arngeX0)
- - 🚯 [The only 2 movies I watched as a kid. This and the Terminator.](http://9gag.com/gag/adgK6EV)
- - 🚯 [The Mcdonalorian&amp;rsquo;s](http://9gag.com/gag/a81ob41)<!-- MEMES:END -->
+ - 🚖 [The glass is half full if it was filled to half and the glass is half empty if it was filled first and half got drained.](http://9gag.com/gag/aDDx3gd)
+ - 🚯 [It&amp;#039;s -3&amp;deg; C and this bad boy hits in the face. Bonus: it&amp;#039;s wet.](http://9gag.com/gag/aOQrbBN)
+ - 🚯 [God damit Carl, this is sport not some entertainment funny show. Please pay for some respect \ud83d\ude02](http://9gag.com/gag/aegM3gm)<!-- MEMES:END -->
 
 --- 
 
