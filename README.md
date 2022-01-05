@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M1 Max MacBook Pro supply more constrained than M1 Pro, analyst says](https://appleinsider.com/articles/22/01/05/m1-max-macbook-pro-supply-more-constrained-than-m1-pro-analyst-says?utm_medium=rss)
- - [Xage, which helps secure critical physical infrastructure using a zero trust system, raises a $30M Series B led by Piva, bringing its total funding to $54M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220105/p18#a220105p18)
- - [15 best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)<!-- TECH:END -->
+ - [Profile of LumaFusion, a $30 video editing app for iOS and iPadOS that claims 930,000 users, amid speculation that Apple could bring Final Cut Pro to iPad &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220105/p19#a220105p19)
+ - [The PS5 is available right now at Best Buy](https://www.theverge.com/2022/1/5/22859968/sony-playstation-5-restock-best-buy-ps5-console)
+ - [The 2022 Lenovo Yoga laptops mix power with sustainability](https://www.androidauthority.com/2022-lenovo-yoga-laptops-3084010/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
