@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Polish railbus driver tells passengers to get down just before collision with truck](http://9gag.com/gag/aVx3Wy2)
- - 🚯 [Dude starts flipping on his gf or someone, and then tried to fight a worker, gets dropped](http://9gag.com/gag/aYrgWQ0)
- - 🚯 [You&amp;#039;ll never hear this - Sex Trafficking Victim Escapes Moving Vehicle in Lexington, Kentucky. No media coverage.](http://9gag.com/gag/aAGxpXE)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s -3&amp;deg; C and this bad boy hits in the face. Bonus: it&amp;#039;s wet.](http://9gag.com/gag/aOQrbBN)
+ - 🚯 [Steven Seagal running](http://9gag.com/gag/avAOLwX)
+ - 🚯 [A deep look into Rattlesnake&amp;rsquo;s rattle](http://9gag.com/gag/aAGxp52)<!-- MEMES:END -->
 
 --- 
 
