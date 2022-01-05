@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I came here to laugh, not to pity you](http://9gag.com/gag/aggXyX1)
- - 🚯 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
- - 🚯 [It&amp;rsquo;s time to go back &amp;hellip;&amp;hellip; for a few seconds atleast](http://9gag.com/gag/a31KPpQ)<!-- MEMES:END -->
+ - 🚖 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
+ - 🚯 [This is Manchester](http://9gag.com/gag/a31KYee)
+ - 🚯 [This is how one should spend their money, not on multi-million dollar yachts](http://9gag.com/gag/amg7X62)<!-- MEMES:END -->
 
 --- 
 
