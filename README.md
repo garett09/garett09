@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elmo is right about Rocco and it’s time we acknowledge that](https://www.polygon.com/22867582/sesame-street-rocco-elmo-meme-twitter)
- - [A broken Call of Duty: Warzone skin is turning players invisible &lpar;again&rpar;](https://www.pcgamer.com/a-broken-call-of-duty-warzone-skin-is-turning-players-invisible-again)
- - [Final Fantasy 7 Remake Mod Turns Sephiroth Into Ronald McDonald](https://kotaku.com/final-fantasy-7-remake-mod-turns-sephiroth-into-ronald-1848304070)<!-- GAME:END -->
+ - [Horizon Call of the Mountain Revealed for PlayStation VR2](https://blog.playstation.com/2022/01/04/horizon-call-of-the-mountain-revealed-for-playstation-vr2/)
+ - [PlayStation VR2 and PlayStation VR2 Sense controller: the next generation of VR gaming on PS5](https://blog.playstation.com/2022/01/04/playstation-vr2-and-playstation-vr2-sense-controller-the-next-generation-of-vr-gaming-on-ps5/)
+ - [This PC case features vents that open and close as its internal temperature changes](https://www.pcgamer.com/cyberpowerpc-kinetic-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
