@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow Razer is jamming an RTX 3080 Ti into the ickle new Blade 14](https://www.pcgamer.com/somehow-razer-is-jamming-an-rtx-3080-ti-into-the-ickle-new-blade-14)
- - [40 People Arrested For Alleged Twitch Money Laundering Scheme](https://kotaku.com/40-people-arrested-for-alleged-twitch-money-laundering-1848305635)
- - [The HP Omen 27u could be a great PC and console gaming monitor](https://www.pcgamer.com/the-hp-omen-27u-could-be-a-great-pc-and-console-gaming-monitor)<!-- GAME:END -->
+ - [Playground Games co-founder and studio director steps down](https://www.pcgamer.com/playground-games-co-founder-and-studio-director-steps-down)
+ - [Welcome to the high-end VR party, PS5 console owners](https://www.pcgamer.com/playstation-vr2-virtual-reality-headset-announcement)
+ - [Where to find the key sigils in Genshin Impact](https://www.pcgamer.com/genshin-impact-key-sigils-enkanomiya-unlock-still-waters-flow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
