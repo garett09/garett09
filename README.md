@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin falls to ~$43.7K after an all-time high of ~$68K in November 2021, after the Federal Reserve confirmed plans to increase interest rates in March 2022 &lpar;Jordan Finneseth/Cointelegraph&rpar;](http://www.techmeme.com/220105/p29#a220105p29)
- - [Flurona: what we know so far about the rare new double infection](https://techncruncher.blogspot.com/2022/01/flurona-what-we-know-so-far-about-rare.html)
- - [Sundance Film Festival goes virtual, Grammys postponed over omicron concerns](https://www.theverge.com/2022/1/5/22869140/grammys-sundance-film-festival-postponed-virtual-omicron-coronavirus)<!-- TECH:END -->
+ - [Petal, which offers credit cards based on a potential borrower&#39;s cash flow rather than credit score, raises a $140M Series D, source says at an $800M valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220105/p30#a220105p30)
+ - [CES 2022 Liveblog: The Gadgets Keep Coming at Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
+ - [Price drop on the Galaxy Chromebook Go, and more great Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
