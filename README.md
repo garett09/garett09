@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This has never been posted before](http://9gag.com/gag/avA7bXO)
- - 🚯 [Neat](http://9gag.com/gag/a0Z5A0X)
- - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aYr48r2)<!-- MEMES:END -->
+ - 🚖 [Neat](http://9gag.com/gag/a0Z5A0X)
+ - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aYr48r2)
+ - 🚯 [It&amp;#039;s the first Dude of the year. Treat him gently!](http://9gag.com/gag/axB1E3L)<!-- MEMES:END -->
 
 --- 
 
