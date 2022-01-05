@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If the metaverse takes off, it will take cues from today&#39;s privatized, centralized, financialized tech ecosystem and echo the development of play-to-earn games &lpar;Anna Wiener/New Yorker&rpar;](http://www.techmeme.com/220105/p4#a220105p4)
- - [Apple AR supplier to make lenses for Oculus Quest 3, says Kuo](https://appleinsider.com/articles/22/01/05/apple-ar-supplier-to-make-lenses-for-oculus-quest-3-says-kuo?utm_medium=rss)
- - [Samsung’s Freestyle projector crams a smart TV into a cute, portable package](https://www.androidauthority.com/samsung-freestyle-projector-3084116/)<!-- TECH:END -->
+ - [NOAA research shows meteorologists continue to outperform algorithms when forecasting the weather, particularly in adverse conditions &lpar;Meghan Herbst/Wired&rpar;](http://www.techmeme.com/220105/p7#a220105p7)
+ - [Internal email: India&#39;s Udaan, which operates a B2B marketplace, raises a $200M convertible note and $50M debt, bringing its total raised to $1.4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220105/p6#a220105p6)
+ - [Intel claims its 12th-gen 14-core Intel i9 outperforms Apple&#39;s M1 Max and is the fastest CPU ever, although the i9 uses significantly more power than M1 Max &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220105/p5#a220105p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
