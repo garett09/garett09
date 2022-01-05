@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [&amp;ldquo;Don&amp;rsquo;t you dare skate your ass around here again&amp;rdquo;](http://9gag.com/gag/arngeX0)
- - 🚯 [This is Manchester](http://9gag.com/gag/a31KYee)
- - 🚯 [Get Ready, steady ~~](http://9gag.com/gag/a21oNXD)<!-- MEMES:END -->
+ - 🚯 [The only 2 movies I watched as a kid. This and the Terminator.](http://9gag.com/gag/adgK6EV)
+ - 🚯 [The Mcdonalorian&amp;rsquo;s](http://9gag.com/gag/a81ob41)<!-- MEMES:END -->
 
 --- 
 
