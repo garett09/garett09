@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is testing the ability to switch between three feeds, including one that displays posts in chronological order, rolling out to all users in H1 2022 &lpar;Jos&amp;eacute; Adorno/9to5Mac&rpar;](http://www.techmeme.com/220105/p25#a220105p25)
+ - [This Tablo ATSC 3.0 tuner is a DVR for the 4K over-the-air TV future](https://www.theverge.com/2022/1/5/22867033/tablo-atsc-3-quad-hdmi-dvr-next-gen-broadcast-tv-ad-skipping)
  - [CES 2022 Liveblog: The Gadgets Keep Coming at Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [Walmart is expanding its direct-to-your-refrigerator deliveries](https://www.theverge.com/2022/1/5/22868709/walmart-inhome-deliveries-expanding)<!-- TECH:END -->
+ - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; debuts Jan. 21](https://appleinsider.com/articles/22/01/05/apple-tv-fraggle-rock-back-to-the-rock-debuts-jan-21?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
