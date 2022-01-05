@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision suing Call of Duty cheat maker](https://www.polygon.com/22868456/activision-call-of-duty-cheat-lawsuit)
- - [Final Fantasy X and X-2 producer reflects on the innovative PS2 titles](https://blog.playstation.com/2022/01/05/final-fantasy-x-and-x-2-producer-reflects-on-the-innovative-ps2-titles/)
- - [Final Fantasy X and X-2 producer reflects on the innovative PS2 titles](https://blog.playstation.com/2022/01/05/final-fantasy-x-and-x-2-producer-reflects-on-the-innovative-ps2-titles/)<!-- GAME:END -->
+ - [Dexter’s Laboratory: Ego Trip is a lost TV masterpiece](https://www.polygon.com/2022/1/5/22866685/dexters-laboratory-ego-trip-tv-streaming-hbo-max)
+ - [Dead By Daylight Devs Remove Leatherface ‘Blackface’ Mask](https://kotaku.com/dead-by-daylight-devs-remove-leatherface-blackface-ma-1848307371)
+ - [Rainbow Six Extraction Coming on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2022/01/05/rainbow-six-extraction-day-one-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
