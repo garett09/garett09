@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NOAA research shows meteorologists continue to outperform algorithms when forecasting the weather, particularly in adverse conditions &lpar;Meghan Herbst/Wired&rpar;](http://www.techmeme.com/220105/p7#a220105p7)
- - [Internal email: India&#39;s Udaan, which operates a B2B marketplace, raises a $200M convertible note and $50M debt, bringing its total raised to $1.4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220105/p6#a220105p6)
- - [Intel claims its 12th-gen 14-core Intel i9 outperforms Apple&#39;s M1 Max and is the fastest CPU ever, although the i9 uses significantly more power than M1 Max &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220105/p5#a220105p5)<!-- TECH:END -->
+ - [Popcorn Time, an open source streaming service for pirated content launched in 2014, has shut down; in 2015, Netflix warned investors about Popcorn Time &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/220105/p9#a220105p9)
+ - [Apple&#39;s plan to add more mini LED suppliers delayed](https://appleinsider.com/articles/22/01/05/apples-plan-to-add-more-mini-led-suppliers-delayed?utm_medium=rss)
+ - [Google Pixel 6 vs. Pixel 6 Pro: Which camera is better?     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-vs-pixel-6-pro-which-camera-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
