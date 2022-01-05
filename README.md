@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Non refillable salt / pepper grinders need to be banned and scrubbed from history. It&amp;#039;s sneaky &amp;amp; wasteful.](http://9gag.com/gag/a71Dj8L)
- - 🚯 [That cat has seen some shit](http://9gag.com/gag/arngvR5)
- - 🚯 [Trilogy done right](http://9gag.com/gag/amg2DXj)<!-- MEMES:END -->
+ - 🚯 [Trilogy done right](http://9gag.com/gag/amg2DXj)
+ - 🚯 [The pinnacle of swordcraft](http://9gag.com/gag/ajgEQr1)<!-- MEMES:END -->
 
 --- 
 
