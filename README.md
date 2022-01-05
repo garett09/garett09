@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Tablo ATSC 3.0 tuner is a DVR for the 4K over-the-air TV future](https://www.theverge.com/2022/1/5/22867033/tablo-atsc-3-quad-hdmi-dvr-next-gen-broadcast-tv-ad-skipping)
- - [CES 2022 Liveblog: The Gadgets Keep Coming at Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; debuts Jan. 21](https://appleinsider.com/articles/22/01/05/apple-tv-fraggle-rock-back-to-the-rock-debuts-jan-21?utm_medium=rss)<!-- TECH:END -->
+ - [Bitcoin falls to ~$43.7K after an all-time high of ~$68K in November 2021, after the Federal Reserve confirmed plans to increase interest rates in March 2022 &lpar;Jordan Finneseth/Cointelegraph&rpar;](http://www.techmeme.com/220105/p29#a220105p29)
+ - [Flurona: what we know so far about the rare new double infection](https://techncruncher.blogspot.com/2022/01/flurona-what-we-know-so-far-about-rare.html)
+ - [Sundance Film Festival goes virtual, Grammys postponed over omicron concerns](https://www.theverge.com/2022/1/5/22869140/grammys-sundance-film-festival-postponed-virtual-omicron-coronavirus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
