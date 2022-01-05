@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of LumaFusion, a $30 video editing app for iOS and iPadOS that claims 930,000 users, amid speculation that Apple could bring Final Cut Pro to iPad &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220105/p19#a220105p19)
- - [The PS5 is available right now at Best Buy](https://www.theverge.com/2022/1/5/22859968/sony-playstation-5-restock-best-buy-ps5-console)
- - [The 2022 Lenovo Yoga laptops mix power with sustainability](https://www.androidauthority.com/2022-lenovo-yoga-laptops-3084010/)<!-- TECH:END -->
+ - [Asus unveils the Zenbook 17 Fold OLED with a 17.3&quot; foldable screen, Intel&#39;s 12th-gen CPUs, up to 16GB RAM and 1TB SSD, and more, coming in Q2, pricing TBC &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220105/p21#a220105p21)
+ - [HTC is launching a VR wrist tracker for its Vive Focus 3 headset](https://www.theverge.com/2022/1/5/22868507/htc-wrist-tracker-vive-focus-3-ces)
+ - [The PS5 Digital Edition is available right now at Best Buy &lpar;update: sold out&rpar;](https://www.theverge.com/2022/1/5/22859968/sony-playstation-5-restock-best-buy-ps5-console)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
