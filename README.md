@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Popcorn Time, an open source streaming service for pirated content launched in 2014, has shut down; in 2015, Netflix warned investors about Popcorn Time &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/220105/p9#a220105p9)
- - [Apple&#39;s plan to add more mini LED suppliers delayed](https://appleinsider.com/articles/22/01/05/apples-plan-to-add-more-mini-led-suppliers-delayed?utm_medium=rss)
- - [Google Pixel 6 vs. Pixel 6 Pro: Which camera is better?     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-vs-pixel-6-pro-which-camera-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nanoleaf products will soon act as Thread border routers for HomeKit devices](https://appleinsider.com/articles/22/01/05/nanoleaf-products-will-soon-act-as-thread-border-routers-for-homekit-devices?utm_medium=rss)
+ - [Online whiteboard tool Miro raises a $400M Series C led by Iconiq Growth at a $17.5B valuation, up from $725M in April 2020, and says it has 30M users &lpar;Lizzy Lawrence/Protocol&rpar;](http://www.techmeme.com/220105/p12#a220105p12)
+ - [Daily Authority: 🔥 Everything CES 2022!](https://www.androidauthority.com/newsletters/da-january-5-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
