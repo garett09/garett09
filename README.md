@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
- - 🚯 [This is Manchester](http://9gag.com/gag/a31KYee)
+ - 🚖 [Save plastics](http://9gag.com/gag/aE8xwzx)
+ - 🚯 [Get Ready, steady ~~](http://9gag.com/gag/a21oNXD)
  - 🚯 [This is how one should spend their money, not on multi-million dollar yachts](http://9gag.com/gag/amg7X62)<!-- MEMES:END -->
 
 --- 
