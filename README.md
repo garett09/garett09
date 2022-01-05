@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taxes in a nutshell](http://9gag.com/gag/aggX39r)
- - 🚯 [There a new one apparently. Woke up to make this then back to sleep](http://9gag.com/gag/awzQqRQ)
- - 🚯 [Save plastics](http://9gag.com/gag/aE8xwzx)<!-- MEMES:END -->
+ - 🚖 [When everyone is special, no one is](http://9gag.com/gag/aBnxRBA)
+ - 🚯 [I came here to laugh, not to pity you](http://9gag.com/gag/aggXyX1)
+ - 🚯 [A tiny fraction](http://9gag.com/gag/axB1dMb)<!-- MEMES:END -->
 
 --- 
 
