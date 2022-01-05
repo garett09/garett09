@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at London-based electronic money institutions, with 200+ approved by regulators since 2018, as some face allegations of money laundering and fraud &lpar;Donal Griffin/Bloomberg&rpar;](http://www.techmeme.com/220105/p2#a220105p2)
- - [Here’s everything we know about the upcoming PSVR 2 &lpar;Updated: Jan 5&rpar;](https://www.androidauthority.com/ps5-psvr-2-1148314/)
- - [OnePlus 10 and 10 Pro: All the rumors &lpar;Updated: Jan. 5&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
+ - [If the metaverse takes off, it will take cues from today&#39;s privatized, centralized, financialized tech ecosystem and echo the development of play-to-earn games &lpar;Anna Wiener/New Yorker&rpar;](http://www.techmeme.com/220105/p4#a220105p4)
+ - [Apple AR supplier to make lenses for Oculus Quest 3, says Kuo](https://appleinsider.com/articles/22/01/05/apple-ar-supplier-to-make-lenses-for-oculus-quest-3-says-kuo?utm_medium=rss)
+ - [Samsung’s Freestyle projector crams a smart TV into a cute, portable package](https://www.androidauthority.com/samsung-freestyle-projector-3084116/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
