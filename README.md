@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The double slit experiment shows that reality seems to behave differently when we observe it](http://9gag.com/gag/apg2KvE)
- - 🚯 [That cat has seen some shit](http://9gag.com/gag/arngvR5)
- - 🚯 [She want peace](http://9gag.com/gag/aegMj6p)<!-- MEMES:END -->
+ - 🚖 [Taxes in a nutshell](http://9gag.com/gag/aggX39r)
+ - 🚯 [There a new one apparently. Woke up to make this then back to sleep](http://9gag.com/gag/awzQqRQ)
+ - 🚯 [Save plastics](http://9gag.com/gag/aE8xwzx)<!-- MEMES:END -->
 
 --- 
 
