@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan 6: $60 off iPad Air 4, up to $100 off 24-inch iMacs, $399 AirPods Max, more!](https://appleinsider.com/articles/22/01/06/best-deals-jan-6-60-off-ipad-air-4-up-to-100-off-24-inch-imacs-399-airpods-max-more?utm_medium=rss)
- - [A chatbot could help prevent eating disorders, new study finds](https://www.theverge.com/2022/1/6/22868662/chatbot-eating-disorder-risk-prevention)
- - [OWC miniStack STX review: External storage and a Thunderbolt hub under your Mac mini](https://appleinsider.com/articles/22/01/06/owc-ministack-stx-review-external-storage-and-a-thunderbolt-hub-under-your-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2022 Liveblog: Even More Gadgets From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
+ - [Leaker corroborates hole-punch camera for &#39;iPhone 14 Pro&#39; models](https://appleinsider.com/articles/22/01/06/leaker-corroborates-hole-punch-camera-for-iphone-14-pro-models?utm_medium=rss)
+ - [Rupifi, which works with Flipkart and other e-commerce companies in India to offer a buy now, pay later service for mom and pop shops, raises $25M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220106/p15#a220106p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
