@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Novak Djokovic](http://9gag.com/gag/apg2pbW)
+ - 🚖 [Thoughts?](http://9gag.com/gag/amg72x6)
  - 🚯 [Wait for it](http://9gag.com/gag/aggXLwn)
  - 🚯 [Right?](http://9gag.com/gag/apg2p7E)<!-- MEMES:END -->
 
