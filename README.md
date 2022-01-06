@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kosovo bans crypto mining in an attempt to curb energy consumption as the country faces its worst power crisis in a decade &lpar;Fatos Bytyci/Reuters&rpar;](http://www.techmeme.com/220105/p35#a220105p35)
- - [Apple will donate 50% of &lpar;PRODUCT&rpar;RED proceeds to fight COVID in sub-Saharan Africa](https://appleinsider.com/articles/22/01/06/apple-will-donate-50-of-productred-proceeds-to-fight-covid-in-sub-saharan-africa?utm_medium=rss)
- - [Sony surprises with Vision-S 02 SUV at CES 2022     - Roadshow](https://www.cnet.com/roadshow/pictures/sony-vision-s-02-suv-ces-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 6&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Chrysler Airflow concept: What&#39;s old is new again     - Roadshow](https://www.cnet.com/roadshow/pictures/chrysler-airflow-concept-design/#ftag=CAD590a51e)
+ - [Kosovo bans crypto mining in an attempt to curb energy consumption as the country faces its worst power crisis in a decade &lpar;Fatos Bytyci/Reuters&rpar;](http://www.techmeme.com/220105/p35#a220105p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
