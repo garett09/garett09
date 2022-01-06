@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [AMC Networks’ Sentai acquisition is the latest sign that anime is big business](https://www.theverge.com/2022/1/5/22869513/amc-networks-sentai-acquisition-hidive-anime)
- - [The best new audio products from CES 2022](https://www.androidauthority.com/best-new-audio-products-ces-2022-3084659/)<!-- TECH:END -->
+ - [Apple will donate 50% of &lpar;PRODUCT&rpar;RED proceeds to fight COVID in sub-Saharan Africa](https://appleinsider.com/articles/22/01/06/apple-will-donate-50-of-productred-proceeds-to-fight-covid-in-sub-saharan-africa?utm_medium=rss)
+ - [Black + Decker’s $300 Bev vacuums up a Keurig-shaped hole in the robot bartender space](https://www.theverge.com/2022/1/5/22869668/black-decker-bev-keurig-cocktails-alcohol-robot-bartender)
+ - [Kazakhstan faces internet disruptions and a subsequent nationwide shutdown since Tuesday evening, amid protests against energy price increases &lpar;NetBlocks&rpar;](http://www.techmeme.com/220105/p34#a220105p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
