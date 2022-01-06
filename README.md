@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW shows off huge 31-inch in-car screen to keep backseat passengers entertained](https://www.theverge.com/2022/1/6/22870092/bmw-screen-theatre-mode-backseat-fire-tv-os-cinema-lounge)
- - [On the January 6 riot anniversary, data scientists say AI models can help forecast similar events, as some question their accuracy and potential for misuse &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220106/p9#a220106p9)
- - [The Build Back Better Bill Needs to Do Better for Bikes](https://www.wired.com/story/build-back-better-ebikes)<!-- TECH:END -->
+ - [Vietnam-based Timo Bank raises $20M led by Square Peg, its first outside funding since its 2015 founding, as it aims to acquire a digital banking license &lpar;Deepti Sri/Tech in Asia&rpar;](http://www.techmeme.com/220106/p12#a220106p12)
+ - [OnePlus Buds Z2 review: A great value companion for OnePlus phones](https://www.androidauthority.com/oneplus-buds-z2-review-3080212/)
+ - [Indie City-Building Games Finally Reckon With Climate Change](https://www.wired.com/story/city-builder-games-climate-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
