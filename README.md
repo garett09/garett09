@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro finance tip: have money](http://9gag.com/gag/amg7rRd)
- - 🚯 [You don&amp;rsquo;t even need to understand Japanese to understand what she is talking about](http://9gag.com/gag/aZr3pz0)
- - 🚯 [A butcher leaving leftovers so stray dogs can have some... such polite animals...](http://9gag.com/gag/aZr3mBQ)<!-- MEMES:END -->
+ - 🚖 [Antique bear automaton whose fur was destroyed by an infestation of moths.](http://9gag.com/gag/apg2pvD)
+ - 🚯 [WELCOME tO tHE iNVERSE](http://9gag.com/gag/aBnxwNA)
+ - 🚯 [It took forever](http://9gag.com/gag/aM4jw0V)<!-- MEMES:END -->
 
 --- 
 
