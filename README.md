@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Konami Celebrates Castlevania&#39;s 35th Anniversary With... NFTs](https://kotaku.com/konami-celebrates-castlevanias-35th-anniversary-with-1848312488)
  - [HP&#39;s new cases have a separate &#39;Cryo Chamber&#39; for cooling](https://www.pcgamer.com/hps-new-cases-have-a-separate-cryo-chamber-for-cooling)
- - [AyaNeo Next handheld gaming PC to compete with Steam Deck](https://www.pcgamer.com/ayaneo-next-handheld-gaming-pc-to-compete-with-steam-deck)
- - [AMD details its next gen AM5 socket](https://www.pcgamer.com/amd-details-its-next-gen-am5-socket)<!-- GAME:END -->
+ - [AyaNeo Next handheld gaming PC to compete with Steam Deck](https://www.pcgamer.com/ayaneo-next-handheld-gaming-pc-to-compete-with-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
