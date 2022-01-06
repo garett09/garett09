@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami Celebrates Castlevania&#39;s 35th Anniversary With... NFTs](https://kotaku.com/konami-celebrates-castlevanias-35th-anniversary-with-1848312488)
- - [HP&#39;s new cases have a separate &#39;Cryo Chamber&#39; for cooling](https://www.pcgamer.com/hps-new-cases-have-a-separate-cryo-chamber-for-cooling)
- - [AyaNeo Next handheld gaming PC to compete with Steam Deck](https://www.pcgamer.com/ayaneo-next-handheld-gaming-pc-to-compete-with-steam-deck)<!-- GAME:END -->
+ - [AMC Gets Serious About Anime By Acquiring Sentai Filmworks And Hidive](https://kotaku.com/amc-gets-serious-about-anime-by-acquiring-sentai-filmwo-1848312571)
+ - [These are the gaming laptops I&#39;m looking out for after CES 2022](https://www.pcgamer.com/ces-2022-gaming-laptops)
+ - [Razer&#39;s new haptic gaming chair will kick your ass](https://www.pcgamer.com/razer-enki-pro-hypersense-gaming-chair-haptics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
