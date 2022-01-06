@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stewart Gilray, a veteran game developer behind the Oddworld remasters, has died](https://www.pcgamer.com/stewart-gilray-a-veteran-game-developer-behind-the-oddworld-remasters-has-died)
- - [Everyone’s breaking bad in the trailer for Ozark’s final season](https://www.polygon.com/22870445/ozark-season-4-trailer-release-date)
- - [The Elden Ring Community Is Now Arguing Over Horse Crotches](https://kotaku.com/the-elden-ring-community-is-now-arguing-over-horse-crot-1848315650)<!-- GAME:END -->
+ - [10 most anticipated new tabletop RPGs coming out in 2022](https://www.polygon.com/tabletop-games/22870852/most-anticipated-tabletop-rpg-2022-best-ttrpg-releases)
+ - [E3 2022 Goes Online-Only Amid Pandemic Fueled By Omicron Variant](https://kotaku.com/e3-2022-goes-online-only-amid-pandemic-fueled-by-omicro-1848316900)
+ - [E3 2022 will be online-only, again](https://www.polygon.com/22870905/e3-2022-date-online-only)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
