@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn plans to launch interactive, audio-only live events this month in beta for some creators and a video version in the spring &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220106/p18#a220106p18)
- - [Apple loses lead Apple Silicon designer Jeff Wilcox to Intel](https://appleinsider.com/articles/22/01/06/apple-loses-lead-apple-silicon-designer-jeff-wilcox-to-intel?utm_medium=rss)
- - [Self-Driving Vehicles Are Here—If You Know Where to Look](https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look)<!-- TECH:END -->
+ - [Eargo’s new hearing aids can automatically adjust to your environment](https://www.theverge.com/2022/1/6/22867566/eargo-hearing-aids-fda-wearables-hearables)
+ - [GM says Qualcomm’s computer chips will power its next-gen ‘hands-free’ driving mode](https://www.theverge.com/2022/1/6/22870416/gm-ultra-cruise-qualcomm-snapdragon-compute-adas)
+ - [NPR’s losing top talent — everyone has a theory why](https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
