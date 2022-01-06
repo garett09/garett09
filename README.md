@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France-based PayFit, which offers a payroll and HR SaaS service for SMBs, raises $289M Series E led by General Atlantic at a post money valuation of $2.1B &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220106/p1#a220106p1)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 6&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Chrysler Airflow concept: What&#39;s old is new again     - Roadshow](https://www.cnet.com/roadshow/pictures/chrysler-airflow-concept-design/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raises $90M led by Sun Hung Kai &amp; Co. at an $800M valuation &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220106/p2#a220106p2)
+ - [Poll: You only want more under-display camera phones if image quality is good](https://www.androidauthority.com/under-display-selfie-camera-phones-2022-poll-results-3084786/)
+ - [France-based PayFit, which offers a payroll and HR SaaS service for SMBs, raises $289M Series E led by General Atlantic at a post money valuation of $2.1B &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220106/p1#a220106p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
