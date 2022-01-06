@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Other brands should copy Iqoo’s new flagship base storage stance](https://www.androidauthority.com/iqoo-9-3084815/)
- - [Xiaomi 11i HyperCharge launches in India: 120W charging for under 30,000 rupees](https://www.androidauthority.com/xiaomi-11i-hypercharge-3084816/)
- - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raises $90M led by Sun Hung Kai &amp; Co. at an $800M valuation &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220106/p2#a220106p2)<!-- TECH:END -->
+ - [Samsung Galaxy S21 series now receiving January 2022 security update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [PlayStation VR 2: We still have a lot of questions for Sony after CES 2022     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-we-still-have-a-lot-of-questions-sony-ces-2022/#ftag=CAD590a51e)
+ - [Other brands should copy Iqoo’s new flagship base storage stance](https://www.androidauthority.com/iqoo-9-3084815/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
