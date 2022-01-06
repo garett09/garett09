@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stewart Gilray, a veteran game developer behind the Oddworld remasters, has died](https://www.pcgamer.com/stewart-gilray-a-veteran-game-developer-behind-the-oddworld-remasters-has-died)
  - [Everyone’s breaking bad in the trailer for Ozark’s final season](https://www.polygon.com/22870445/ozark-season-4-trailer-release-date)
- - [The Elden Ring Community Is Now Arguing Over Horse Crotches](https://kotaku.com/the-elden-ring-community-is-now-arguing-over-horse-crot-1848315650)
- - [Where to knock down Timber Pines in Fortnite](https://www.pcgamer.com/knock-down-timber-pines-locations-fortnite)<!-- GAME:END -->
+ - [The Elden Ring Community Is Now Arguing Over Horse Crotches](https://kotaku.com/the-elden-ring-community-is-now-arguing-over-horse-crot-1848315650)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
