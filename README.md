@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 most anticipated new tabletop RPGs coming out in 2022](https://www.polygon.com/tabletop-games/22870852/most-anticipated-tabletop-rpg-2022-best-ttrpg-releases)
- - [E3 2022 Goes Online-Only Amid Pandemic Fueled By Omicron Variant](https://kotaku.com/e3-2022-goes-online-only-amid-pandemic-fueled-by-omicro-1848316900)
- - [E3 2022 will be online-only, again](https://www.polygon.com/22870905/e3-2022-date-online-only)<!-- GAME:END -->
+ - [Controversial Steam Best Seller Ready Or Not Is An Unsettling SWAT Fantasy](https://kotaku.com/controversial-steam-best-seller-ready-or-not-is-an-unse-1848317351)
+ - [The 355 continues the hot new streak of lousy lady action movies](https://www.polygon.com/reviews/22870873/the-355-review-jessica-chastain)
+ - [E3 is online-only again in 2022](https://www.pcgamer.com/e3-is-online-only-again-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
