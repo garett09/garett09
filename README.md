@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right on the feelings](http://9gag.com/gag/axB1DDM)
- - 🚯 [Breaking: Novak Djokovic&amp;#039;s visa has been cancelled.](http://9gag.com/gag/aYrgeo2)
+ - 🚖 [Pregnant Chicken](http://9gag.com/gag/avAOr8E)
+ - 🚯 [This are Uruk-hai, their armor is thick. Their shields are broad...](http://9gag.com/gag/aM4jw9G)
  - 🚯 [Then there is Chyna](http://9gag.com/gag/a91pYV6)<!-- MEMES:END -->
 
 --- 
