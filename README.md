@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holland ist die sch&amp;ouml;nste Stadt der Welt](http://9gag.com/gag/aXrxqd2)
- - 🚯 [Was today years old when I learnt Sony has digital camera that uses floppy discs](http://9gag.com/gag/ay9XDZr)
- - 🚯 [Spitting web and truth](http://9gag.com/gag/ajgEq3x)<!-- MEMES:END -->
+ - 🚖 [Novak Djokovic](http://9gag.com/gag/apg2pbW)
+ - 🚯 [Wait for it](http://9gag.com/gag/aggXLwn)
+ - 🚯 [Right?](http://9gag.com/gag/apg2p7E)<!-- MEMES:END -->
 
 --- 
 
