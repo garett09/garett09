@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pregnant Chicken](http://9gag.com/gag/avAOr8E)
- - 🚯 [This are Uruk-hai, their armor is thick. Their shields are broad...](http://9gag.com/gag/aM4jw9G)
- - 🚯 [Level up](http://9gag.com/gag/azeXr7b)<!-- MEMES:END -->
+ - 🚖 [Pro finance tip: have money](http://9gag.com/gag/amg7rRd)
+ - 🚯 [You don&amp;rsquo;t even need to understand Japanese to understand what she is talking about](http://9gag.com/gag/aZr3pz0)
+ - 🚯 [A butcher leaving leftovers so stray dogs can have some... such polite animals...](http://9gag.com/gag/aZr3mBQ)<!-- MEMES:END -->
 
 --- 
 
