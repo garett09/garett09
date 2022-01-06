@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Googling climate change? You might see fossil fuel ads](https://www.theverge.com/2022/1/6/22870197/big-oil-gas-google-ads-climate-change-search-results)
- - [Get the Fitbit Charge 5 for just $110, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Spotify introduces Call-to-Action Cards, a visual ad format for podcasts that puts clickable cards inside show and episode pages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220106/p16#a220106p16)<!-- TECH:END -->
+ - [LinkedIn plans to launch interactive, audio-only live events this month in beta for some creators and a video version in the spring &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220106/p18#a220106p18)
+ - [Apple loses lead Apple Silicon designer Jeff Wilcox to Intel](https://appleinsider.com/articles/22/01/06/apple-loses-lead-apple-silicon-designer-jeff-wilcox-to-intel?utm_medium=rss)
+ - [Self-Driving Vehicles Are Here—If You Know Where to Look](https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
