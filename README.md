@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s movie Hilda and the Mountain King answers the series’ biggest mysteries](https://www.polygon.com/22869272/hilda-and-the-mountain-king-review-netflix)
- - [Activision Blizzard shows no sign of giving in as Raven QA strike enters third week](https://www.pcgamer.com/activision-blizzard-shows-no-sign-of-giving-in-as-raven-qa-strike-enters-third-week)
- - [PSVR2’s best feature might be the pressure it puts on Sony to fund more VR games](https://www.polygon.com/22869253/psvr2-best-feature-sony-funding-more-vr-games)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Trans Jeopardy! Winner Amy Schneider Reveals She Is Fine Following Robbery](https://kotaku.com/trans-jeopardy-winner-amy-schneider-reveals-she-is-fin-1848311030)
+ - [The Elder Scrolls Online is going to a &#39;never-before-seen world&#39; in 2022](https://www.pcgamer.com/the-elder-scrolls-online-is-going-to-a-never-before-seen-world-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
