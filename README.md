@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pope listening to Undertale’s ‘Megalovania’ is already 2022’s weirdest video](https://www.polygon.com/22870441/pope-undertale-toby-fox-megalovania)
- - [How Star Trek: Prodigy creators pulled off the ‘Trekkiest Trek that ever Trekked’](https://www.polygon.com/features/22870436/star-trek-prodigy-cameos-spock-uhura-kobayashi-episode)
- - [The Nintendo Switch Outsold Every Other Console Combined In Japan Last Year](https://kotaku.com/the-nintendo-switch-outsold-every-other-console-combine-1848314676)<!-- GAME:END -->
+ - [Everyone’s breaking bad in the trailer for Ozark’s final season](https://www.polygon.com/22870445/ozark-season-4-trailer-release-date)
+ - [The Elden Ring Community Is Now Arguing Over Horse Crotches](https://kotaku.com/the-elden-ring-community-is-now-arguing-over-horse-crot-1848315650)
+ - [Where to knock down Timber Pines in Fortnite](https://www.pcgamer.com/knock-down-timber-pines-locations-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
