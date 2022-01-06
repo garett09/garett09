@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Level up](http://9gag.com/gag/azeXr7b)
- - 🚯 [A bunch of &amp;laquo; influencers &amp;raquo; from Qu&amp;eacute;bec board a private plane to Tullum and party real hard and breaking every rule in th&amp;eacute; book. Now they&amp;rsquo;re stuck in Tullum since 3 major Airlines in Canada have rejected them.](http://9gag.com/gag/a81o4dO)
- - 🚯 [Right on the feelings](http://9gag.com/gag/axB1DDM)<!-- MEMES:END -->
+ - 🚖 [Right on the feelings](http://9gag.com/gag/axB1DDM)
+ - 🚯 [Breaking: Novak Djokovic&amp;#039;s visa has been cancelled.](http://9gag.com/gag/aYrgeo2)
+ - 🚯 [Then there is Chyna](http://9gag.com/gag/a91pYV6)<!-- MEMES:END -->
 
 --- 
 
