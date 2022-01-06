@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Pregnant Chicken](http://9gag.com/gag/avAOr8E)
- - 🚯 [Unmarked vehicles delivering weapons to the totally spontaneous rioters in Kazakhstan](http://9gag.com/gag/aRr3An5)
- - 🚯 [This are Uruk-hai, their armor is thick. Their shields are broad...](http://9gag.com/gag/aM4jw9G)<!-- MEMES:END -->
+ - 🚯 [This are Uruk-hai, their armor is thick. Their shields are broad...](http://9gag.com/gag/aM4jw9G)
+ - 🚯 [Level up](http://9gag.com/gag/azeXr7b)<!-- MEMES:END -->
 
 --- 
 
