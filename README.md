@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Book adaptations](http://9gag.com/gag/aZr3MWp)
- - 🚯 [A deep look into Rattlesnake&amp;rsquo;s rattle](http://9gag.com/gag/aAGxp52)
- - 🚯 [Steven Seagal running](http://9gag.com/gag/avAOLwX)<!-- MEMES:END -->
+ - 🚖 [A deep look into Rattlesnake&amp;rsquo;s rattle](http://9gag.com/gag/aAGxp52)
+ - 🚯 [Steven Seagal running](http://9gag.com/gag/avAOLwX)
+ - 🚯 [Atleast you rank number 1 for a few things :&rpar;](http://9gag.com/gag/aXrxX4V)<!-- MEMES:END -->
 
 --- 
 
