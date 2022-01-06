@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fun idea for kids!](http://9gag.com/gag/aWg1mjn)
- - 🚯 [Cults](http://9gag.com/gag/aGzj0x6)
- - 🚯 [Nuclear power goes brrr](http://9gag.com/gag/aZr3m2V)<!-- MEMES:END -->
+ - 🚖 [Right?](http://9gag.com/gag/apg2p7E)
+ - 🚯 [Hello, who are yo .....](http://9gag.com/gag/aNP1AGr)
+ - 🚯 [It took a year but now I am free and it feels great. Stay strong better times are coming..](http://9gag.com/gag/angMyGn)<!-- MEMES:END -->
 
 --- 
 
