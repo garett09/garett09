@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thoughts?](http://9gag.com/gag/amg72x6)
- - 🚯 [Wait for it](http://9gag.com/gag/aggXLwn)
- - 🚯 [Right?](http://9gag.com/gag/apg2p7E)<!-- MEMES:END -->
+ - 🚖 [Hello, who are yo .....](http://9gag.com/gag/aNP1AGr)
+ - 🚯 [Thoughts?](http://9gag.com/gag/amg72x6)
+ - 🚯 [Krakozhia](http://9gag.com/gag/a61oMve)<!-- MEMES:END -->
 
 --- 
 
