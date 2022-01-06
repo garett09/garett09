@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A big failed Russian rocket just came crashing back to Earth out of control     - CNET](https://www.cnet.com/news/a-big-failed-russian-rocket-just-came-crashing-back-to-earth-out-of-control/#ftag=CAD590a51e)
- - [Protect yourself against identity theft and save big with 60% off Identity Guard plans     - CNET](https://www.cnet.com/tech/services-and-software/protect-yourself-against-identity-theft-and-save-big-with-60-off-identity-guard-plans/#ftag=CAD590a51e)
- - [Ameca the robot is more human &lpar;and haunting&rpar; than I ever imagined     - CNET](https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [AMC Networks’ Sentai acquisition is the latest sign that anime is big business](https://www.theverge.com/2022/1/5/22869513/amc-networks-sentai-acquisition-hidive-anime)
+ - [The best new audio products from CES 2022](https://www.androidauthority.com/best-new-audio-products-ces-2022-3084659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
