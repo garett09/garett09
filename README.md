@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello, who are yo .....](http://9gag.com/gag/aNP1AGr)
- - 🚯 [Thoughts?](http://9gag.com/gag/amg72x6)
- - 🚯 [Krakozhia](http://9gag.com/gag/a61oMve)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;m playing hard mode](http://9gag.com/gag/a11oor2)
+ - 🚯 [Krakozhia](http://9gag.com/gag/a61oMve)
+ - 🚯 [Nuclear power goes brrr](http://9gag.com/gag/aZr3m2V)<!-- MEMES:END -->
 
 --- 
 
