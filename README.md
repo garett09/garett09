@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right?](http://9gag.com/gag/apg2p7E)
- - 🚯 [Hello, who are yo .....](http://9gag.com/gag/aNP1AGr)
- - 🚯 [It took a year but now I am free and it feels great. Stay strong better times are coming..](http://9gag.com/gag/angMyGn)<!-- MEMES:END -->
+ - 🚖 [Holland ist die sch&amp;ouml;nste Stadt der Welt](http://9gag.com/gag/aXrxqd2)
+ - 🚯 [Was today years old when I learnt Sony has digital camera that uses floppy discs](http://9gag.com/gag/ay9XDZr)
+ - 🚯 [Spitting web and truth](http://9gag.com/gag/ajgEq3x)<!-- MEMES:END -->
 
 --- 
 
