@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$315M Powerball winning ticket sold at a Sacramento 7-Eleven](https://techncruncher.blogspot.com/2022/01/315m-powerball-winning-ticket-sold-at.html)
- - [Apple gets Cydia app store lawsuit dismissed, for now](https://appleinsider.com/articles/22/01/06/apple-gets-cydia-app-store-lawsuit-dismissed-for-now?utm_medium=rss)
- - [TP-Link launches four HomeKit cameras at CES, plus smart lighting and outlets](https://appleinsider.com/articles/22/01/04/tp-link-launches-four-homekit-cameras-at-ces?utm_medium=rss)<!-- TECH:END -->
+ - [Tencent says WeChat mini programs grew to 450M DAUs in 2021, up 12.5% on 2020, and WeChat&#39;s search feature gained 200M MAUs in 2021, despite China&#39;s crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/220106/p7#a220106p7)
+ - [Apple TV+ orders &#39;Manhunt&#39; mini-series about John Wilkes Booth](https://appleinsider.com/articles/22/01/06/apple-tv-orders-manhunt-mini-series-about-john-wilkes-booth?utm_medium=rss)
+ - [HYUNDAI SAYS ‘METAMOBILITY’ WILL LINK REAL AND VIRTUAL WORLDS](https://techncruncher.blogspot.com/2022/01/hyundai-says-metamobility-will-link.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
