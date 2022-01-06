@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam-based Timo Bank raises $20M led by Square Peg, its first outside funding since its 2015 founding, as it aims to acquire a digital banking license &lpar;Deepti Sri/Tech in Asia&rpar;](http://www.techmeme.com/220106/p12#a220106p12)
- - [OnePlus Buds Z2 review: A great value companion for OnePlus phones](https://www.androidauthority.com/oneplus-buds-z2-review-3080212/)
- - [Indie City-Building Games Finally Reckon With Climate Change](https://www.wired.com/story/city-builder-games-climate-change)<!-- TECH:END -->
+ - [Best deals Jan 6: $60 off iPad Air 4, up to $100 off 24-inch iMacs, $399 AirPods Max, more!](https://appleinsider.com/articles/22/01/06/best-deals-jan-6-60-off-ipad-air-4-up-to-100-off-24-inch-imacs-399-airpods-max-more?utm_medium=rss)
+ - [A chatbot could help prevent eating disorders, new study finds](https://www.theverge.com/2022/1/6/22868662/chatbot-eating-disorder-risk-prevention)
+ - [OWC miniStack STX review: External storage and a Thunderbolt hub under your Mac mini](https://appleinsider.com/articles/22/01/06/owc-ministack-stx-review-external-storage-and-a-thunderbolt-hub-under-your-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
