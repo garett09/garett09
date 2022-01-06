@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2022 Liveblog: Even More Gadgets From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [Leaker corroborates hole-punch camera for &#39;iPhone 14 Pro&#39; models](https://appleinsider.com/articles/22/01/06/leaker-corroborates-hole-punch-camera-for-iphone-14-pro-models?utm_medium=rss)
- - [Rupifi, which works with Flipkart and other e-commerce companies in India to offer a buy now, pay later service for mom and pop shops, raises $25M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220106/p15#a220106p15)<!-- TECH:END -->
+ - [Googling climate change? You might see fossil fuel ads](https://www.theverge.com/2022/1/6/22870197/big-oil-gas-google-ads-climate-change-search-results)
+ - [Get the Fitbit Charge 5 for just $110, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Spotify introduces Call-to-Action Cards, a visual ad format for podcasts that puts clickable cards inside show and episode pages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220106/p16#a220106p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
