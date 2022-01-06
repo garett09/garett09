@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to hold annual shareholder meeting virtually on March 4](https://appleinsider.com/articles/22/01/06/apple-to-hold-annual-shareholder-meeting-virtually-on-march-4?utm_medium=rss)
- - [The iPhone 14 Pro could have a hole-punch camera and hide Face ID under the screen](https://www.theverge.com/2022/1/6/22870473/iphone-14-pro-hole-punch-camera-hide-face-id-under-the-screen)
- - [Natural Cycles’ data shows limited menstrual changes after COVID-19 vaccination](https://www.theverge.com/2022/1/6/22869300/covid-vaccine-menstrual-changes-natural-cycles)<!-- TECH:END -->
+ - [The ITC issues a final ruling declaring Google infringed on audio tech patents held by Sonos and is banned from importing products that violate Sonos&#39;s IP &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/220106/p26#a220106p26)
+ - [The best new TVs and monitors we saw at CES 2022](https://www.androidauthority.com/best-new-tvs-monitors-ces-2022-3085015/)
+ - [Twitter joins Instagram in copying TikTok’s reaction videos](https://www.theverge.com/2022/1/6/22870872/twitter-quote-tweet-with-reaction-tiktok-video-photo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
