@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Antique bear automaton whose fur was destroyed by an infestation of moths.](http://9gag.com/gag/apg2pvD)
- - 🚯 [WELCOME tO tHE iNVERSE](http://9gag.com/gag/aBnxwNA)
- - 🚯 [It took forever](http://9gag.com/gag/aM4jw0V)<!-- MEMES:END -->
+ - 🚖 [Fun idea for kids!](http://9gag.com/gag/aWg1mjn)
+ - 🚯 [Cults](http://9gag.com/gag/aGzj0x6)
+ - 🚯 [Nuclear power goes brrr](http://9gag.com/gag/aZr3m2V)<!-- MEMES:END -->
 
 --- 
 
