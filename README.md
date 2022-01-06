@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to stream in January 2022 on Hulu, Netflix, HBO Max, Apple TV, and more](https://www.androidauthority.com/what-to-stream-1161293/)
- - [CES 2022 Liveblog: Even More Gadgets From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [iRacing buys Monster Games, teases racing games for the ‘broader market’ like consoles](https://www.theverge.com/2022/1/6/22870743/iracing-pc-racing-sim-nascar-f1-ps5-xbox-monster-games)<!-- TECH:END -->
+ - [Apple to hold annual shareholder meeting virtually on March 4](https://appleinsider.com/articles/22/01/06/apple-to-hold-annual-shareholder-meeting-virtually-on-march-4?utm_medium=rss)
+ - [The iPhone 14 Pro could have a hole-punch camera and hide Face ID under the screen](https://www.theverge.com/2022/1/6/22870473/iphone-14-pro-hole-punch-camera-hide-face-id-under-the-screen)
+ - [Natural Cycles’ data shows limited menstrual changes after COVID-19 vaccination](https://www.theverge.com/2022/1/6/22869300/covid-vaccine-menstrual-changes-natural-cycles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
