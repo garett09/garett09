@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kosovo bans crypto mining in an attempt to curb energy consumption as the country faces its worst power crisis in a decade &lpar;Fatos Bytyci/Reuters&rpar;](http://www.techmeme.com/220105/p35#a220105p35)
  - [Apple will donate 50% of &lpar;PRODUCT&rpar;RED proceeds to fight COVID in sub-Saharan Africa](https://appleinsider.com/articles/22/01/06/apple-will-donate-50-of-productred-proceeds-to-fight-covid-in-sub-saharan-africa?utm_medium=rss)
- - [Black + Decker’s $300 Bev vacuums up a Keurig-shaped hole in the robot bartender space](https://www.theverge.com/2022/1/5/22869668/black-decker-bev-keurig-cocktails-alcohol-robot-bartender)
- - [Kazakhstan faces internet disruptions and a subsequent nationwide shutdown since Tuesday evening, amid protests against energy price increases &lpar;NetBlocks&rpar;](http://www.techmeme.com/220105/p34#a220105p34)<!-- TECH:END -->
+ - [Black + Decker’s $300 Bev vacuums up a Keurig-shaped hole in the robot bartender space](https://www.theverge.com/2022/1/5/22869668/black-decker-bev-keurig-cocktails-alcohol-robot-bartender)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
