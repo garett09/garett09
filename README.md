@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Days Gone Was A &#39;Disappointment&#39; To Sony Despite Selling Millions, Director Says](https://kotaku.com/days-gone-was-a-disappointment-to-sony-despite-selling-1848313659)
  - [Razer&#39;s modular desk concept looks like a massive gaming laptop with legs. And I&#39;ve got to have it](https://www.pcgamer.com/razer-project-sophia-gaming-desk)
- - [Rainbow Six Extraction getting a day-one release on PC Game Pass](https://www.pcgamer.com/rainbow-six-extraction-getting-a-day-one-release-on-pc-game-pass)
- - [Take a closer look at the tribes of Horizon Forbidden West, including the Utaru and Tenakth](https://blog.playstation.com/2022/01/06/take-a-closer-look-at-the-tribes-of-horizon-forbidden-west-including-the-utaru-and-tenakth/)<!-- GAME:END -->
+ - [Rainbow Six Extraction getting a day-one release on PC Game Pass](https://www.pcgamer.com/rainbow-six-extraction-getting-a-day-one-release-on-pc-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
