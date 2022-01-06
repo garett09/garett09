@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s upgraded AI art tool turned my obscure squiggles into a masterpiece](https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece)
  - [AMC Gets Serious About Anime By Acquiring Sentai Filmworks And Hidive](https://kotaku.com/amc-gets-serious-about-anime-by-acquiring-sentai-filmwo-1848312571)
- - [These are the gaming laptops I&#39;m looking out for after CES 2022](https://www.pcgamer.com/ces-2022-gaming-laptops)
- - [Razer&#39;s new haptic gaming chair will kick your ass](https://www.pcgamer.com/razer-enki-pro-hypersense-gaming-chair-haptics)<!-- GAME:END -->
+ - [These are the gaming laptops I&#39;m looking out for after CES 2022](https://www.pcgamer.com/ces-2022-gaming-laptops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
