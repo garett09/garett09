@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m playing hard mode](http://9gag.com/gag/a11oor2)
- - 🚯 [Krakozhia](http://9gag.com/gag/a61oMve)
- - 🚯 [Nuclear power goes brrr](http://9gag.com/gag/aZr3m2V)<!-- MEMES:END -->
+ - 🚖 [Thoughts?](http://9gag.com/gag/amg72x6)
+ - 🚯 [I&amp;#039;m a 45 yo single dad, unemployed, sexy beer belly, I have 3 beautiful kids, they&amp;#039;re my world. I&amp;#039;m looking for a woman to step in and woman up, must be less than 25 yo, fit, make 6 figures a year, own a big house and cars. Line up ladies, NO HOOKUPS, I wanna settle.](http://9gag.com/gag/aQX33rW)
+ - 🚯 [I&amp;#039;m playing hard mode](http://9gag.com/gag/a11oor2)<!-- MEMES:END -->
 
 --- 
 
