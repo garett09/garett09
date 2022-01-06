@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel confirms the i9 12900KS CPU](https://www.pcgamer.com/intel-confirms-the-i9-12900ks-cpu)
- - [2021 was such a bad year for budget hardware, even the LowSpec Gamer gave up on it](https://www.pcgamer.com/2021-was-such-a-bad-year-for-budget-hardware-even-the-lowspec-gamer-gave-up-on-it)
- - [&lpar;For Southeast Asia&rpar; “Gran Turismo® 7” Physical Editions Pre-Order starts from 7th January 2022](https://blog.playstation.com/2022/01/05/20220105-gt7/)<!-- GAME:END -->
+ - [AyaNeo Next handheld gaming PC to compete with Steam Deck](https://www.pcgamer.com/ayaneo-next-handheld-gaming-pc-to-compete-with-steam-deck)
+ - [AMD details its next gen AM5 socket](https://www.pcgamer.com/amd-details-its-next-gen-am5-socket)
+ - [Intel confirms the i9 12900KS CPU](https://www.pcgamer.com/intel-confirms-the-i9-12900ks-cpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
