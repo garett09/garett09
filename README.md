@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s upgraded AI art tool turned my obscure squiggles into a masterpiece](https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece)
- - [AMC Gets Serious About Anime By Acquiring Sentai Filmworks And Hidive](https://kotaku.com/amc-gets-serious-about-anime-by-acquiring-sentai-filmwo-1848312571)
- - [These are the gaming laptops I&#39;m looking out for after CES 2022](https://www.pcgamer.com/ces-2022-gaming-laptops)<!-- GAME:END -->
+ - [Take a closer look at the tribes of Horizon Forbidden West, including the Utaru and Tenakth](https://blog.playstation.com/2022/01/06/take-a-closer-look-at-the-tribes-of-horizon-forbidden-west-including-the-utaru-and-tenakth/)
+ - [Take a closer look at the tribes of Horizon Forbidden West, including the Utaru and Tenakth](https://blog.playstation.com/2022/01/06/take-a-closer-look-at-the-tribes-of-horizon-forbidden-west-including-the-utaru-and-tenakth/)
+ - [Indie store Game Jolt&#39;s porn ban has hit games with no sexual content](https://www.pcgamer.com/indie-store-game-jolts-porn-ban-has-hit-games-with-no-sexual-content)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
