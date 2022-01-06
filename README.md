@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Modi&#39;s BJP uses an app called Tek Fog, with ShareChat integration, to spread propaganda, target critics on WhatsApp, and hijack Facebook and Twitter trends &lpar;The Wire&rpar;](http://www.techmeme.com/220106/p20#a220106p20)
- - [Apple working on multiple folding iPhone prototypes, but launch isn&#39;t soon](https://appleinsider.com/articles/22/01/06/apple-working-on-multiple-folding-iphone-prototypes-but-launch-isnt-soon?utm_medium=rss)
- - [Faking an iPhone shutdown could allow malware to survive a reboot](https://appleinsider.com/articles/22/01/06/faking-an-iphone-shutdown-could-allow-malware-to-survive-a-reboot?utm_medium=rss)<!-- TECH:END -->
+ - [What to stream in January 2022 on Hulu, Netflix, HBO Max, Apple TV, and more](https://www.androidauthority.com/what-to-stream-1161293/)
+ - [CES 2022 Liveblog: Even More Gadgets From Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
+ - [iRacing buys Monster Games, teases racing games for the ‘broader market’ like consoles](https://www.theverge.com/2022/1/6/22870743/iracing-pc-racing-sim-nascar-f1-ps5-xbox-monster-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
