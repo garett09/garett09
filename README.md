@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent says WeChat mini programs grew to 450M DAUs in 2021, up 12.5% on 2020, and WeChat&#39;s search feature gained 200M MAUs in 2021, despite China&#39;s crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/220106/p7#a220106p7)
- - [Apple TV+ orders &#39;Manhunt&#39; mini-series about John Wilkes Booth](https://appleinsider.com/articles/22/01/06/apple-tv-orders-manhunt-mini-series-about-john-wilkes-booth?utm_medium=rss)
- - [HYUNDAI SAYS ‘METAMOBILITY’ WILL LINK REAL AND VIRTUAL WORLDS](https://techncruncher.blogspot.com/2022/01/hyundai-says-metamobility-will-link.html)<!-- TECH:END -->
+ - [BMW shows off huge 31-inch in-car screen to keep backseat passengers entertained](https://www.theverge.com/2022/1/6/22870092/bmw-screen-theatre-mode-backseat-fire-tv-os-cinema-lounge)
+ - [On the January 6 riot anniversary, data scientists say AI models can help forecast similar events, as some question their accuracy and potential for misuse &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220106/p9#a220106p9)
+ - [The Build Back Better Bill Needs to Do Better for Bikes](https://www.wired.com/story/build-back-better-ebikes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
