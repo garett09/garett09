@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 series now receiving January 2022 security update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [PlayStation VR 2: We still have a lot of questions for Sony after CES 2022     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-we-still-have-a-lot-of-questions-sony-ces-2022/#ftag=CAD590a51e)
- - [Other brands should copy Iqoo’s new flagship base storage stance](https://www.androidauthority.com/iqoo-9-3084815/)<!-- TECH:END -->
+ - [$315M Powerball winning ticket sold at a Sacramento 7-Eleven](https://techncruncher.blogspot.com/2022/01/315m-powerball-winning-ticket-sold-at.html)
+ - [Apple gets Cydia app store lawsuit dismissed, for now](https://appleinsider.com/articles/22/01/06/apple-gets-cydia-app-store-lawsuit-dismissed-for-now?utm_medium=rss)
+ - [TP-Link launches four HomeKit cameras at CES, plus smart lighting and outlets](https://appleinsider.com/articles/22/01/04/tp-link-launches-four-homekit-cameras-at-ces?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
