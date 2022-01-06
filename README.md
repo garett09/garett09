@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mitchells vs. the Machines’ protagonist wants you to watch great films](https://www.polygon.com/22870393/the-mitchells-vs-the-machines-letterboxd-netflix)
- - [Far Cry 6’s Pagan Min crossover DLC launches next week](https://www.polygon.com/22870389/far-cry-6-dlc-pagan-min-release-date-price)
- - [Harry Potter’s Return to Hogwarts special isn’t about nostalgia — it’s about rebranding](https://www.polygon.com/22870314/harry-potter-return-to-hogwarts-jk-rowling)<!-- GAME:END -->
+ - [The Pope listening to Undertale’s ‘Megalovania’ is already 2022’s weirdest video](https://www.polygon.com/22870441/pope-undertale-toby-fox-megalovania)
+ - [How Star Trek: Prodigy creators pulled off the ‘Trekkiest Trek that ever Trekked’](https://www.polygon.com/features/22870436/star-trek-prodigy-cameos-spock-uhura-kobayashi-episode)
+ - [The Nintendo Switch Outsold Every Other Console Combined In Japan Last Year](https://kotaku.com/the-nintendo-switch-outsold-every-other-console-combine-1848314676)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
