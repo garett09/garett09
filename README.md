@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Petal, which offers credit cards based on a potential borrower&#39;s cash flow rather than credit score, raises a $140M Series D, source says at an $800M valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220105/p30#a220105p30)
- - [CES 2022 Liveblog: The Gadgets Keep Coming at Tech’s Big Show](https://www.wired.com/story/ces-2022-liveblog)
- - [Price drop on the Galaxy Chromebook Go, and more great Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [A big failed Russian rocket just came crashing back to Earth out of control     - CNET](https://www.cnet.com/news/a-big-failed-russian-rocket-just-came-crashing-back-to-earth-out-of-control/#ftag=CAD590a51e)
+ - [Protect yourself against identity theft and save big with 60% off Identity Guard plans     - CNET](https://www.cnet.com/tech/services-and-software/protect-yourself-against-identity-theft-and-save-big-with-60-off-identity-guard-plans/#ftag=CAD590a51e)
+ - [Ameca the robot is more human &lpar;and haunting&rpar; than I ever imagined     - CNET](https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
