@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Trans Jeopardy! Winner Amy Schneider Reveals She Is Fine Following Robbery](https://kotaku.com/trans-jeopardy-winner-amy-schneider-reveals-she-is-fin-1848311030)
- - [The Elder Scrolls Online is going to a &#39;never-before-seen world&#39; in 2022](https://www.pcgamer.com/the-elder-scrolls-online-is-going-to-a-never-before-seen-world-in-2022)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; “Gran Turismo® 7” Physical Editions Pre-Order starts from 7th January 2022](https://blog.playstation.com/2022/01/05/20220105-gt7/)
+ - [Mass Effect&#39;s &#39;Happy Ending&#39; mod is now available for the Legendary Edition](https://www.pcgamer.com/mass-effects-happy-ending-mod-is-now-available-for-the-legendary-edition)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
