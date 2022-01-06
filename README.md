@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days Gone Was A &#39;Disappointment&#39; To Sony Despite Selling Millions, Director Says](https://kotaku.com/days-gone-was-a-disappointment-to-sony-despite-selling-1848313659)
- - [Razer&#39;s modular desk concept looks like a massive gaming laptop with legs. And I&#39;ve got to have it](https://www.pcgamer.com/razer-project-sophia-gaming-desk)
- - [Rainbow Six Extraction getting a day-one release on PC Game Pass](https://www.pcgamer.com/rainbow-six-extraction-getting-a-day-one-release-on-pc-game-pass)<!-- GAME:END -->
+ - [The Mitchells vs. the Machines’ protagonist wants you to watch great films](https://www.polygon.com/22870393/the-mitchells-vs-the-machines-letterboxd-netflix)
+ - [Far Cry 6’s Pagan Min crossover DLC launches next week](https://www.polygon.com/22870389/far-cry-6-dlc-pagan-min-release-date-price)
+ - [Harry Potter’s Return to Hogwarts special isn’t about nostalgia — it’s about rebranding](https://www.polygon.com/22870314/harry-potter-return-to-hogwarts-jk-rowling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
