@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Steven Seagal running](http://9gag.com/gag/avAOLwX)
- - 🚯 [Atleast you rank number 1 for a few things :&rpar;](http://9gag.com/gag/aXrxX4V)
- - 🚯 [Right on the feelings](http://9gag.com/gag/axB1DDM)<!-- MEMES:END -->
+ - 🚖 [Atleast you rank number 1 for a few things :&rpar;](http://9gag.com/gag/aXrxX4V)
+ - 🚯 [A bunch of &amp;laquo; influencers &amp;raquo; from Qu&amp;eacute;bec board a private plane to Tullum and party real hard and breaking every rule in th&amp;eacute; book. Now they&amp;rsquo;re stuck in Tullum since 3 major Airlines in Canada have rejected them.](http://9gag.com/gag/a81o4dO)
+ - 🚯 [You&amp;#039;ll never hear this - Sex Trafficking Victim Escapes Moving Vehicle in Lexington, Kentucky. No media coverage.](http://9gag.com/gag/aAGxpXE)<!-- MEMES:END -->
 
 --- 
 
