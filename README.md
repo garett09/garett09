@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eargo’s new hearing aids can automatically adjust to your environment](https://www.theverge.com/2022/1/6/22867566/eargo-hearing-aids-fda-wearables-hearables)
- - [GM says Qualcomm’s computer chips will power its next-gen ‘hands-free’ driving mode](https://www.theverge.com/2022/1/6/22870416/gm-ultra-cruise-qualcomm-snapdragon-compute-adas)
- - [NPR’s losing top talent — everyone has a theory why](https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures)<!-- TECH:END -->
+ - [How Modi&#39;s BJP uses an app called Tek Fog, with ShareChat integration, to spread propaganda, target critics on WhatsApp, and hijack Facebook and Twitter trends &lpar;The Wire&rpar;](http://www.techmeme.com/220106/p20#a220106p20)
+ - [Apple working on multiple folding iPhone prototypes, but launch isn&#39;t soon](https://appleinsider.com/articles/22/01/06/apple-working-on-multiple-folding-iphone-prototypes-but-launch-isnt-soon?utm_medium=rss)
+ - [Faking an iPhone shutdown could allow malware to survive a reboot](https://appleinsider.com/articles/22/01/06/faking-an-iphone-shutdown-could-allow-malware-to-survive-a-reboot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
