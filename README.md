@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video game stream to watch this weekend](https://www.polygon.com/22870285/agdq-2022-online-speedrun-event-charity)
- - [Bioware GM looks back on 2021 and &#39;rebuilding our reputation&#39; with the next Dragon Age and Mass Effect games](https://www.pcgamer.com/bioware-gm-looks-back-on-2021-and-rebuilding-our-reputation-with-the-next-dragon-age-and-mass-effect-games)
- - [Intel gut-punches Apple by hiring engineer that &#39;led transition&#39; from Intel-based Macs to Apple Silicon](https://www.pcgamer.com/intel-gut-punches-apple-by-hiring-engineer-that-led-transition-from-intel-based-macs-to-apple-silicon)<!-- GAME:END -->
+ - [Next Week on Xbox: January 10 to 14](https://news.xbox.com/en-us/2022/01/07/next-week-on-xbox-january-10-to-14/)
+ - [Obsessed with Wordle? Here are 6 games to kill time between rounds](https://www.polygon.com/essentials/22870790/games-like-wordle-puzzle-scrabble-games)
+ - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
