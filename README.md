@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal confirms it is exploring the launch of its own stablecoin, after code in its iOS app shows it is working on a &quot;PayPal Coin&quot; backed by USD &lpar;Bloomberg&rpar;](http://www.techmeme.com/220107/p24#a220107p24)
- - [Sports Illustrated swimsuit model says she was tracked for hours with AirTag](https://appleinsider.com/articles/22/01/07/sports-illustrated-swimsuit-model-says-she-was-tracked-for-hours-with-airtag?utm_medium=rss)
- - [Draftea, a fantasy sports app focused on Latin America, raises $13.2M led by Kaszek with participation from Sequoia, Bullpen, and FanDuel founder Nigel Eccles &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220107/p23#a220107p23)<!-- TECH:END -->
+ - [Ford’s e-scooter company is pulling out of any city that doesn’t limit competition](https://www.theverge.com/2022/1/7/22872768/ford-e-scooter-company-spin-pulling-out-cities-limit-competition-open-vendor)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Signal employees worry anonymous transactions could appeal to criminals, which would attract regulatory scrutiny and aid lawmakers who want to end encryption &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220107/p26#a220107p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
