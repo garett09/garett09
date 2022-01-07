@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So so much](http://9gag.com/gag/aggXBg6)
- - 🚯 [How can you tell?](http://9gag.com/gag/a91pEYj)
- - 🚯 [No No What?](http://9gag.com/gag/amg7P7V)<!-- MEMES:END -->
+ - 🚖 [I get anxiety](http://9gag.com/gag/axB19ob)
+ - 🚯 [Have a nice weekend.](http://9gag.com/gag/aE8xpDM)
+ - 🚯 [How can you tell?](http://9gag.com/gag/a91pEYj)<!-- MEMES:END -->
 
 --- 
 
