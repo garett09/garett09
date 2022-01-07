@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 21 Best Games On Xbox Game Pass](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)
- - [Uno All Wild Is Uno Without All Those Pesky Numbers And Colors](https://kotaku.com/uno-all-wild-is-uno-without-all-those-pesky-numbers-and-1848323573)
- - [That Time You Killed Me is a wacky murder mystery that mixes chess with time travel](https://www.polygon.com/reviews/22872083/that-time-you-killed-me-board-game-review)<!-- GAME:END -->
+ - [The Tender Bar and every new movie you can watch at home this weekend](https://www.polygon.com/2022/1/7/22864099/new-movies-watch-netflix-tender-bar-amazon-prime-video-shudder)
+ - [See For Me updates an all-time classic horror movie for the gamer age](https://www.polygon.com/reviews/22872661/see-for-me-review-horror)
+ - [Awesome Games Done Quick kicks off this weekend](https://www.pcgamer.com/awesome-games-done-quick-2022-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
