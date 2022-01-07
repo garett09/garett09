@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cats heart must be very sad](http://9gag.com/gag/aDDxgQN)
- - 🚯 [What a ridiculous cartoon](http://9gag.com/gag/a51oWPL)
- - 🚯 [When it is your time to rebel against your b*tch boss](http://9gag.com/gag/aDDxgqx)<!-- MEMES:END -->
+ - 🚖 [What a ridiculous cartoon](http://9gag.com/gag/a51oWPL)
+ - 🚯 [When it is your time to rebel against your b*tch boss](http://9gag.com/gag/aDDxgqx)
+ - 🚯 [Just Want A Girlfriend](http://9gag.com/gag/ay9XeDX)<!-- MEMES:END -->
 
 --- 
 
