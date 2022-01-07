@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France fines Google and Facebook for pushing tracking cookies on users with dark patterns](https://www.theverge.com/2022/1/7/22871719/france-fines-google-facebook-cookies-tracking-dark-patterns-eprivacy)
- - [Google’s Stephen Hawking Doodle includes narration in the physicist’s voice](https://www.theverge.com/2022/1/7/22871739/google-stephen-hawking-80th-birthday-doodle)
- - [Apple increases orders for AirPod chips ahead of &#39;AirPods Pro 2&#39; launch](https://appleinsider.com/articles/22/01/07/apple-increases-orders-for-airpod-chips-ahead-of-airpods-pro-2-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung expects Q4 operating profit of $11.4B, up 52% YoY, on revenue of $63B, up ~24% YoY, thanks to improved returns from its contract chip-making business &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220107/p4#a220107p4)
+ - [Rooney Mara to star as Audrey Hepburn in Apple TV+ biopic](https://appleinsider.com/articles/22/01/07/rooney-mara-to-star-as-audrey-hepburn-in-apple-tv-biopic?utm_medium=rss)
+ - [The 19 Best Gadgets From CES 2022 You Can Buy Right Now](https://www.wired.com/story/ces-2022-best-gadgets-you-can-buy-now)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
