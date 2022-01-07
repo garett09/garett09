@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s newest Agent can sprint, slide, and shoot electricity to take down enemies](https://www.polygon.com/22872050/valorant-new-agent-neon-ability-kit-ultimate)
- - [It looks like a new Serious Sam game is coming later this month](https://www.pcgamer.com/it-looks-like-a-new-serious-sam-game-is-coming-later-this-month)
- - [Battlefield 2042 Subreddit Might Get Closed Due To Toxicity](https://kotaku.com/battlefield-2042-subreddit-might-get-closed-due-to-toxi-1848321601)<!-- GAME:END -->
+ - [Andrew Garfield is finally game for another Spider-Man movie](https://www.polygon.com/22872065/no-way-home-andrew-garfield-amazing-spider-man-3)
+ - [Stardew Valley’s real endgame: redecorating all of Pelican Town](https://www.polygon.com/22872046/stardew-valley-endgame-redecorating-pelican-town-furniture-outside)
+ - [It Happened To Me: I Got Owned By Halo Infinite’s Most Annoying Boss Fight](https://kotaku.com/it-happened-to-me-i-got-owned-by-halo-infinite-s-most-1848322512)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
