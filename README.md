@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Valorant’s newest Agent can sprint, slide, and shoot electricity to take down enemies](https://www.polygon.com/22872050/valorant-new-agent-neon-ability-kit-ultimate)
- - [Battlefield 2042 Subreddit Might Get Closed Due To Toxicity](https://kotaku.com/battlefield-2042-subreddit-might-get-closed-due-to-toxi-1848321601)
- - [After Sony Passed On Days Gone 2, Devs Pitched Open-World Resistance Reboot](https://kotaku.com/after-sony-passed-on-days-gone-2-devs-pitched-open-wor-1848321452)<!-- GAME:END -->
+ - [It looks like a new Serious Sam game is coming later this month](https://www.pcgamer.com/it-looks-like-a-new-serious-sam-game-is-coming-later-this-month)
+ - [Battlefield 2042 Subreddit Might Get Closed Due To Toxicity](https://kotaku.com/battlefield-2042-subreddit-might-get-closed-due-to-toxi-1848321601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
