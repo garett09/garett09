@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least..](http://9gag.com/gag/a0ZKNnQ)
- - 🚯 [They hit that](http://9gag.com/gag/a61oK9A)
- - 🚯 [No surprises there](http://9gag.com/gag/aYrg70O)<!-- MEMES:END -->
+ - 🚖 [Finally got a house. Been building my own private cinema on the attic. Its slowly coming together quite nicely! Thoughts/ideas anyone?](http://9gag.com/gag/ajgE9eG)
+ - 🚯 [I would join too](http://9gag.com/gag/a31KwXr)
+ - 🚯 [Can we get this to the top in WTF. Because, I definitely think it deserves to be.](http://9gag.com/gag/aE8xgOG)<!-- MEMES:END -->
 
 --- 
 
