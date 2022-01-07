@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon introduces Sidewalk Bridge Pro by Ring, a dedicated bridge device for farms and other nonresidential settings, capable of relaying data up to five miles &lpar;Ry Crist/CNET&rpar;](http://www.techmeme.com/220106/p30#a220106p30)
- - [Official OnePlus 10 Pro camera details are here, including 150-degree ultrawide](https://www.androidauthority.com/oneplus-10-pro-camera-details-3084651/)
- - [Here’s when and where the OnePlus 10 Pro will launch](https://www.androidauthority.com/oneplus-10-pro-release-date-2-3084705/)<!-- TECH:END -->
+ - [Trade court sides with Sonos, rules that Google infringed on Sonos patents](https://appleinsider.com/articles/22/01/07/trade-court-sides-with-sonos-rules-that-google-infringed-on-sonos-patents?utm_medium=rss)
+ - [Sources: GameStop has hired more than 20 people to run a new division developing an NFT marketplace and establishing cryptocurrency partnerships &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/220106/p31#a220106p31)
+ - [Amazon introduces Sidewalk Bridge Pro by Ring, a dedicated bridge device for farms and other nonresidential settings, capable of relaying data up to five miles &lpar;Ry Crist/CNET&rpar;](http://www.techmeme.com/220106/p30#a220106p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
