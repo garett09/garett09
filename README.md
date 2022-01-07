@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: January 10 to 14](https://news.xbox.com/en-us/2022/01/07/next-week-on-xbox-january-10-to-14/)
- - [Obsessed with Wordle? Here are 6 games to kill time between rounds](https://www.polygon.com/essentials/22870790/games-like-wordle-puzzle-scrabble-games)
- - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
+ - [Riot teased 3 new League of Legends champions during Season 2022 livestream](https://www.polygon.com/22871981/league-of-legends-new-champions-teaser-releases-2022-support-jungler)
+ - [Polygon’s 2022 Entertainment Guide](https://www.polygon.com/22868617/movies-tv-anime-most-anticipated-2022-new-upcoming)
+ - [Our most anticipated movies of 2022](https://www.polygon.com/22870489/most-anticipated-movies-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
