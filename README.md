@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus’ ROG Flow Z13 is a Surface Pro for gamers](https://www.theverge.com/2022/1/7/22869168/asus-rog-flow-z13-gaming-tablet-convertible-hands-on)
- - [&#39;iPhone 14&#39; hole-punch camera, redesigned MacBook Air, and more on the AppleInsider Podcast](https://appleinsider.com/articles/22/01/07/iphone-14-hole-punch-camera-redesigned-macbook-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Satechi announces new 165W USB-C 4-Port PD GaN Charger](https://appleinsider.com/articles/22/01/07/satechi-announces-new-165w-usb-c-4-port-pd-gan-charger?utm_medium=rss)<!-- TECH:END -->
+ - [These 14-inch, 16-inch MacBook Pros are $150 off &amp; in stock &lpar;AppleCare is on sale too&rpar;](https://appleinsider.com/articles/22/01/03/these-14-inch-16-inch-macbook-pros-are-150-off-in-stock-applecare-is-on-sale-too?utm_medium=rss)
+ - [Uber to shut down Uber Eats in Brazil on March 7; report: the move is part of a global repositioning strategy wherein the company closes unprofitable operations &lpar;Gabriel Araujo/Reuters&rpar;](http://www.techmeme.com/220107/p16#a220107p16)
+ - [The Verge Awards at CES 2022](https://www.theverge.com/22870203/ces-2022-best-of-gadgets-concepts-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
