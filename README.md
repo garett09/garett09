@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ITC issues a final ruling declaring Google infringed on audio tech patents held by Sonos and is banned from importing products that violate Sonos&#39;s IP &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/220106/p26#a220106p26)
- - [The best new TVs and monitors we saw at CES 2022](https://www.androidauthority.com/best-new-tvs-monitors-ces-2022-3085015/)
- - [Twitter joins Instagram in copying TikTok’s reaction videos](https://www.theverge.com/2022/1/6/22870872/twitter-quote-tweet-with-reaction-tiktok-video-photo)<!-- TECH:END -->
+ - [DeFi credit protocol Goldfinch raises a $25M Series A extension led by a16z, which also led its $11M Series A last year, and announces the Goldfinch Foundation &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220106/p28#a220106p28)
+ - [Trump’s Truth Social app will apparently launch in February](https://www.theverge.com/2022/1/6/22871167/trump-truth-social-app-network-launch-february-tmtg)
+ - [An economist details working in VR using an Oculus headset: few distractions and little motion sickness, but typing is hard and forehead gets numb &lpar;Ben Klemens/Wired&rpar;](http://www.techmeme.com/220106/p27#a220106p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
