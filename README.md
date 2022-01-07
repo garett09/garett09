@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop reportedly has a whole unit working on NFTs and cryptocurrency](https://www.theverge.com/2022/1/7/22871714/gamestop-nfts-cryptocurrency-blockchain-marketplace-hub)
- - [Online appointment scheduling service FlexBooker discloses a breach that saw info stolen from 3.7M accounts, including partial credit card info, on December 23 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220107/p2#a220107p2)
- - [CES 2022&#39;s biggest revelations and the trends we&#39;ll be talking about all year     - CNET](https://www.cnet.com/tech/ces-2022-biggest-revelations-trends-well-be-talking-about-all-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [France fines Google and Facebook for pushing tracking cookies on users with dark patterns](https://www.theverge.com/2022/1/7/22871719/france-fines-google-facebook-cookies-tracking-dark-patterns-eprivacy)
+ - [Google’s Stephen Hawking Doodle includes narration in the physicist’s voice](https://www.theverge.com/2022/1/7/22871739/google-stephen-hawking-80th-birthday-doodle)
+ - [Apple increases orders for AirPod chips ahead of &#39;AirPods Pro 2&#39; launch](https://appleinsider.com/articles/22/01/07/apple-increases-orders-for-airpod-chips-ahead-of-airpods-pro-2-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
