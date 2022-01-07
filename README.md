@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The video almost looks sped up during some of the close-ups of her hands. &lpar;Valentina Lisitsa, one of the first classical musicians to have a popular channel on YouTube.&rpar;](http://9gag.com/gag/apg2G5n)
- - 🚯 [Made my son a cake for his 1st birthday. It&amp;#039;s not perfect but it was my first time.](http://9gag.com/gag/aqG7nEp)
- - 🚯 [At least..](http://9gag.com/gag/a0ZKNnQ)<!-- MEMES:END -->
+ - 🚖 [At least..](http://9gag.com/gag/a0ZKNnQ)
+ - 🚯 [They hit that](http://9gag.com/gag/a61oK9A)
+ - 🚯 [No surprises there](http://9gag.com/gag/aYrg70O)<!-- MEMES:END -->
 
 --- 
 
