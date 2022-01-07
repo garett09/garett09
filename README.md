@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeFi credit protocol Goldfinch raises a $25M Series A extension led by a16z, which also led its $11M Series A last year, and announces the Goldfinch Foundation &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220106/p28#a220106p28)
- - [Trump’s Truth Social app will apparently launch in February](https://www.theverge.com/2022/1/6/22871167/trump-truth-social-app-network-launch-february-tmtg)
- - [An economist details working in VR using an Oculus headset: few distractions and little motion sickness, but typing is hard and forehead gets numb &lpar;Ben Klemens/Wired&rpar;](http://www.techmeme.com/220106/p27#a220106p27)<!-- TECH:END -->
+ - [Amazon introduces Sidewalk Bridge Pro by Ring, a dedicated bridge device for farms and other nonresidential settings, capable of relaying data up to five miles &lpar;Ry Crist/CNET&rpar;](http://www.techmeme.com/220106/p30#a220106p30)
+ - [Official OnePlus 10 Pro camera details are here, including 150-degree ultrawide](https://www.androidauthority.com/oneplus-10-pro-camera-details-3084651/)
+ - [Here’s when and where the OnePlus 10 Pro will launch](https://www.androidauthority.com/oneplus-10-pro-release-date-2-3084705/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
