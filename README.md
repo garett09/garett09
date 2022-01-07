@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Reddit learns you can shoot down Skyrim&#39;s beehives to get honey](https://www.pcgamer.com/reddit-learns-you-can-shoot-down-skyrims-beehives-to-get-honey)
  - [Our boldest predictions for PC gaming in 2022](https://www.pcgamer.com/2022-pc-gaming-predictions)
- - [Following developer harassment, Battlefield 2042&#39;s toxic subreddit may go on lockdown](https://www.pcgamer.com/following-developer-harassment-battlefield-2042s-toxic-subreddit-may-go-on-lockdown)
- - [Westworld creator Jonathan Nolan to direct Fallout TV show at Amazon](https://www.polygon.com/22871229/fallout-tv-show-amazon-jonathan-nolan-showrunners)<!-- GAME:END -->
+ - [Following developer harassment, Battlefield 2042&#39;s toxic subreddit may go on lockdown](https://www.pcgamer.com/following-developer-harassment-battlefield-2042s-toxic-subreddit-may-go-on-lockdown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
