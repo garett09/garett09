@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World aims to improve its endgame with quests and rewards that change every week](https://www.pcgamer.com/new-world-aims-to-improve-its-endgame-with-quests-and-rewards-that-change-every-week)
- - [Pixar’s next movie Turning Red headed straight to Disney Plus](https://www.polygon.com/22872577/turning-red-disney-plus-release-pixar)
- - [Mario Kart 9 reportedly on the way, this time with a ‘new twist’](https://www.polygon.com/22872479/mario-kart-9-nintendo-switch)<!-- GAME:END -->
+ - [The 21 Best Games On Xbox Game Pass](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)
+ - [Uno All Wild Is Uno Without All Those Pesky Numbers And Colors](https://kotaku.com/uno-all-wild-is-uno-without-all-those-pesky-numbers-and-1848323573)
+ - [That Time You Killed Me is a wacky murder mystery that mixes chess with time travel](https://www.polygon.com/reviews/22872083/that-time-you-killed-me-board-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
