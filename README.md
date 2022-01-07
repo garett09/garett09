@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best video playback apps for Mac](https://appleinsider.com/articles/22/01/07/the-best-video-playback-apps-for-mac?utm_medium=rss)
- - [a16z raises $9B across three funds: a $1.5B Bio fund, a $5B Growth fund, and a $2.5B Venture fund &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/220107/p11#a220107p11)
- - [How to copy a playlist on Spotify](https://www.androidauthority.com/how-to-copy-playlist-spotify-3084058/)<!-- TECH:END -->
+ - [Incentive Ecosystem Foundation, a community-led foundation of Solana-based exchange Project Serum, raises $75M in a token sale from Tiger Global and others &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220107/p13#a220107p13)
+ - [5 best auction apps for Android](https://www.androidauthority.com/best-auction-apps-android-3083914/)
+ - [How to set Spotify music as an alarm](https://www.androidauthority.com/how-to-set-spotify-as-alarm-3083859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
