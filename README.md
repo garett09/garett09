@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I had to rebuild my PC for Asus &amp; Noctua&#39;s beautifully brown RTX 3070 and I love it for that](https://www.pcgamer.com/asus-geforce-rtx-3070-noctua-oc-edition-performance-impressions)
- - [Reddit learns you can shoot down Skyrim&#39;s beehives to get honey](https://www.pcgamer.com/reddit-learns-you-can-shoot-down-skyrims-beehives-to-get-honey)
- - [Our boldest predictions for PC gaming in 2022](https://www.pcgamer.com/2022-pc-gaming-predictions)<!-- GAME:END -->
+ - [Usborne&#39;s 1980s range of childrens&#39; coding books released as free PDFs](https://www.pcgamer.com/usbornes-1980s-range-of-childrens-coding-books-released-as-free-pdfs)
+ - [CES 2022 attendee photographs every weird use of &#39;metaverse&#39;](https://www.pcgamer.com/ces-2022-attendee-photographs-every-weird-use-of-metaverse)
+ - [Report: GameStop Is Going Big Into Crypto And NFTs](https://kotaku.com/report-gamestop-is-going-into-crypto-and-nfts-1848319383)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
