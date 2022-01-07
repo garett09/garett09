@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung expects Q4 operating profit of $11.4B, up 52% YoY, on revenue of $63B, up ~24% YoY, thanks to improved returns from its contract chip-making business &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220107/p4#a220107p4)
- - [Rooney Mara to star as Audrey Hepburn in Apple TV+ biopic](https://appleinsider.com/articles/22/01/07/rooney-mara-to-star-as-audrey-hepburn-in-apple-tv-biopic?utm_medium=rss)
- - [The 19 Best Gadgets From CES 2022 You Can Buy Right Now](https://www.wired.com/story/ces-2022-best-gadgets-you-can-buy-now)<!-- TECH:END -->
+ - [Apple loses lead Apple Silicon designer Jeff Wilcox to Intel](https://techncruncher.blogspot.com/2022/01/apple-loses-lead-apple-silicon-designer.html)
+ - [SEC denies third Apple bid to block shareholder proposals](https://appleinsider.com/articles/22/01/07/sec-denies-third-apple-bid-to-block-shareholder-proposals?utm_medium=rss)
+ - [India tells Xiaomi to pay $87.8M in import taxes after an investigation; Xiaomi says it has yet to agree on the past-due amount and communications are ongoing &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220107/p6#a220107p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
