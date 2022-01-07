@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix](http://9gag.com/gag/a61o1K9)
- - 🚯 [The game arcade of the 90s](http://9gag.com/gag/adgK8yZ)
- - 🚯 [Get on your knees](http://9gag.com/gag/a0ZK48Z)<!-- MEMES:END -->
+ - 🚖 [The Perfect Sandwich](http://9gag.com/gag/aqG7GA7)
+ - 🚯 [Sure collapsed due to the overwhelming amount of downvotes. Absolutely no other reason.](http://9gag.com/gag/angMgWq)
+ - 🚯 [Have a nice weekend.](http://9gag.com/gag/aE8xpDM)<!-- MEMES:END -->
 
 --- 
 
