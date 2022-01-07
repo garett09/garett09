@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing find.](http://9gag.com/gag/amg75X4)
- - 🚯 [Robbery Gone Wrong](http://9gag.com/gag/aLvj0rv)
- - 🚯 [When it is your time to rebel against your b*tch boss](http://9gag.com/gag/aDDxgqx)<!-- MEMES:END -->
+ - 🚖 [Covid Ninja](http://9gag.com/gag/avAO8Lb)
+ - 🚯 [Aaa](http://9gag.com/gag/aPZjYVR)
+ - 🚯 [Tilly Lockey from Newcastle, England pairs a bold red lip with her bionic arms. At 15 months old, she lost both her arms to meningitis but she didn&amp;rsquo;t let it hold her back](http://9gag.com/gag/apg2m7M)<!-- MEMES:END -->
 
 --- 
 
