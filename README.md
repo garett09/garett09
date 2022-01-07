@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple loses lead Apple Silicon designer Jeff Wilcox to Intel](https://techncruncher.blogspot.com/2022/01/apple-loses-lead-apple-silicon-designer.html)
- - [SEC denies third Apple bid to block shareholder proposals](https://appleinsider.com/articles/22/01/07/sec-denies-third-apple-bid-to-block-shareholder-proposals?utm_medium=rss)
- - [India tells Xiaomi to pay $87.8M in import taxes after an investigation; Xiaomi says it has yet to agree on the past-due amount and communications are ongoing &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220107/p6#a220107p6)<!-- TECH:END -->
+ - [SpaceX’s Starlink internet service has more than 145,000 users so far](https://techncruncher.blogspot.com/2022/01/spacexs-starlink-internet-service-has.html)
+ - [Put the System That Enabled Theranos&#39; Elizabeth Holmes on Trial](https://www.wired.com/story/plaintext-theranos-elizabeth-holmes-trial)
+ - [Spider-Man: No Way Home, Piracy, and the End of the Box Office](https://www.wired.com/story/spider-man-matrix-box-office)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
