@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Perfect Sandwich](http://9gag.com/gag/aqG7GA7)
- - 🚯 [Sure collapsed due to the overwhelming amount of downvotes. Absolutely no other reason.](http://9gag.com/gag/angMgWq)
- - 🚯 [Have a nice weekend.](http://9gag.com/gag/aE8xpDM)<!-- MEMES:END -->
+ - 🚖 [Don&amp;#039;t worry, the cabbie is a professional](http://9gag.com/gag/ajgEVXQ)
+ - 🚯 [Have a nice weekend.](http://9gag.com/gag/aE8xpDM)
+ - 🚯 [No internet is the perfect censorship](http://9gag.com/gag/avAO50E)<!-- MEMES:END -->
 
 --- 
 
