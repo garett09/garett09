@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Andrew Garfield is finally game for another Spider-Man movie](https://www.polygon.com/22872065/no-way-home-andrew-garfield-amazing-spider-man-3)
- - [Stardew Valley’s real endgame: redecorating all of Pelican Town](https://www.polygon.com/22872046/stardew-valley-endgame-redecorating-pelican-town-furniture-outside)
- - [It Happened To Me: I Got Owned By Halo Infinite’s Most Annoying Boss Fight](https://kotaku.com/it-happened-to-me-i-got-owned-by-halo-infinite-s-most-1848322512)<!-- GAME:END -->
+ - [New World aims to improve its endgame with quests and rewards that change every week](https://www.pcgamer.com/new-world-aims-to-improve-its-endgame-with-quests-and-rewards-that-change-every-week)
+ - [Pixar’s next movie Turning Red headed straight to Disney Plus](https://www.polygon.com/22872577/turning-red-disney-plus-release-pixar)
+ - [Mario Kart 9 reportedly on the way, this time with a ‘new twist’](https://www.polygon.com/22872479/mario-kart-9-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
