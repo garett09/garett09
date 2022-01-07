@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [COVID-19 tests are so hard to find that console trackers are stepping in](https://www.polygon.com/22872150/covid-19-testing-ps5-xbox-console-tracker-help)
- - [Share of the Year 2021](https://blog.playstation.com/2022/01/07/share-of-the-year-2021/)
- - [Share of the Year 2021](https://blog.playstation.com/2022/01/07/share-of-the-year-2021/)<!-- GAME:END -->
+ - [Valorant’s newest Agent can sprint, slide, and shoot electricity to take down enemies](https://www.polygon.com/22872050/valorant-new-agent-neon-ability-kit-ultimate)
+ - [Battlefield 2042 Subreddit Might Get Closed Due To Toxicity](https://kotaku.com/battlefield-2042-subreddit-might-get-closed-due-to-toxi-1848321601)
+ - [After Sony Passed On Days Gone 2, Devs Pitched Open-World Resistance Reboot](https://kotaku.com/after-sony-passed-on-days-gone-2-devs-pitched-open-wor-1848321452)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
