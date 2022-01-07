@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Trade court sides with Sonos, rules that Google infringed on Sonos patents](https://appleinsider.com/articles/22/01/07/trade-court-sides-with-sonos-rules-that-google-infringed-on-sonos-patents?utm_medium=rss)
  - [Sources: GameStop has hired more than 20 people to run a new division developing an NFT marketplace and establishing cryptocurrency partnerships &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/220106/p31#a220106p31)
- - [Amazon introduces Sidewalk Bridge Pro by Ring, a dedicated bridge device for farms and other nonresidential settings, capable of relaying data up to five miles &lpar;Ry Crist/CNET&rpar;](http://www.techmeme.com/220106/p30#a220106p30)<!-- TECH:END -->
+ - [Worldle explained: Tips, tricks and what you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
