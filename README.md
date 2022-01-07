@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Deere breaks new ground with self-driving tractors you can control from a phone     - CNET](https://www.cnet.com/tech/mobile/john-deere-breaks-new-ground-with-self-driving-tractors-you-can-control-from-a-phone/#ftag=CAD590a51e)
- - [PlayStation VR 2 is getting at least one cool game. Here&#39;s everything else we know     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-getting-at-least-one-cool-game-heres-everything-else-we-know-ces-2022/#ftag=CAD590a51e)
- - [Trade court sides with Sonos, rules that Google infringed on Sonos patents](https://appleinsider.com/articles/22/01/07/trade-court-sides-with-sonos-rules-that-google-infringed-on-sonos-patents?utm_medium=rss)<!-- TECH:END -->
+ - [Best of CES 2022 Awards: The very best of the best products](https://www.androidauthority.com/best-of-ces-2022-awards-3085312/)
+ - [Get a 1-year Sam&#39;s Club membership for just $19.99 + free gift card](https://appleinsider.com/articles/21/09/22/deal-alert-1-year-sams-club-membership-discounted-to-1999-free-food?utm_medium=rss)
+ - [Apple was quietly everywhere at CES 2022… again     - CNET](https://www.cnet.com/tech/mobile/apple-was-quietly-everywhere-at-ces-2022-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
