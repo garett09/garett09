@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a ridiculous cartoon](http://9gag.com/gag/a51oWPL)
- - 🚯 [Some parents in Barcelona organized a bike ride to school for just five kids. Now entire neighborhoods are joining. They call it Bicib&amp;uacute;s &amp;ndash; or Bike Bus.](http://9gag.com/gag/aYrg7yv)
- - 🚯 [Robbery Gone Wrong](http://9gag.com/gag/aLvj0rv)<!-- MEMES:END -->
+ - 🚖 [The video almost looks sped up during some of the close-ups of her hands. &lpar;Valentina Lisitsa, one of the first classical musicians to have a popular channel on YouTube.&rpar;](http://9gag.com/gag/apg2G5n)
+ - 🚯 [Made my son a cake for his 1st birthday. It&amp;#039;s not perfect but it was my first time.](http://9gag.com/gag/aqG7nEp)
+ - 🚯 [At least..](http://9gag.com/gag/a0ZKNnQ)<!-- MEMES:END -->
 
 --- 
 
