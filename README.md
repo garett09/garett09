@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [That looks awesome](http://9gag.com/gag/aXrxYVg)
- - 🚯 [Elves lives matter](http://9gag.com/gag/aogNNEg)
- - 🚯 [She&amp;#039;s wearing transparent socks](http://9gag.com/gag/aKmjxBN)<!-- MEMES:END -->
+ - 🚯 [She&amp;#039;s wearing transparent socks](http://9gag.com/gag/aKmjxBN)
+ - 🚯 [I&amp;#039;m a 45 yo single dad, unemployed, sexy beer belly, I have 3 beautiful kids, they&amp;#039;re my world. I&amp;#039;m looking for a woman to step in and woman up, must be less than 25 yo, fit, make 6 figures a year, own a big house and cars. Line up ladies, NO HOOKUPS, I wanna settle.](http://9gag.com/gag/aQX33rW)<!-- MEMES:END -->
 
 --- 
 
