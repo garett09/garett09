@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GameStop reportedly has a whole unit working on NFTs and cryptocurrency](https://www.theverge.com/2022/1/7/22871714/gamestop-nfts-cryptocurrency-blockchain-marketplace-hub)
  - [Online appointment scheduling service FlexBooker discloses a breach that saw info stolen from 3.7M accounts, including partial credit card info, on December 23 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220107/p2#a220107p2)
- - [Honor Magic V renders, specs leak: A bigger, beefier Galaxy Z Fold 3 rival](https://www.androidauthority.com/honor-magic-v-renders-specs-3085442/)
- - [Bitcoin price falls below $42,000 as Fed hints at interest hike     - CNET](https://www.cnet.com/news/bitcoin-price-falls-below-42000-as-fed-hints-at-interest-hike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CES 2022&#39;s biggest revelations and the trends we&#39;ll be talking about all year     - CNET](https://www.cnet.com/tech/ces-2022-biggest-revelations-trends-well-be-talking-about-all-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
