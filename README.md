@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit could go public as soon as March at a valuation of as much as $15B; the company was last valued at $10B in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220107/p21#a220107p21)
- - [Pixar’s Turning Red is ditching theaters to premiere on Disney Plus](https://www.theverge.com/2022/1/7/22872585/disney-plus-turning-red-pixar-premiere-streaming)
- - [Meta rolls out Privacy Center to some people using Facebook on desktop in the US, putting the onus on the users to learn about security and privacy controls &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220107/p20#a220107p20)<!-- TECH:END -->
+ - [PayPal confirms it is exploring the launch of its own stablecoin, after code in its iOS app shows it is working on a &quot;PayPal Coin&quot; backed by USD &lpar;Bloomberg&rpar;](http://www.techmeme.com/220107/p24#a220107p24)
+ - [Sports Illustrated swimsuit model says she was tracked for hours with AirTag](https://appleinsider.com/articles/22/01/07/sports-illustrated-swimsuit-model-says-she-was-tracked-for-hours-with-airtag?utm_medium=rss)
+ - [Draftea, a fantasy sports app focused on Latin America, raises $13.2M led by Kaszek with participation from Sequoia, Bullpen, and FanDuel founder Nigel Eccles &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220107/p23#a220107p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
