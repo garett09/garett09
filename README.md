@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Westworld creator Jonathan Nolan to direct Fallout TV show at Amazon](https://www.polygon.com/22871229/fallout-tv-show-amazon-jonathan-nolan-showrunners)
- - [League of Legends’ new champion, Zeri, gets an electric new trailer](https://www.polygon.com/22871162/league-of-legends-new-champion-zeri-abilities-trailer)
- - [The Pope started 2022 by blasting a song from hit RPG Undertale](https://www.pcgamer.com/the-pope-started-2022-by-blasting-a-song-from-hit-rpg-undertale)<!-- GAME:END -->
+ - [Our boldest predictions for PC gaming in 2022](https://www.pcgamer.com/2022-pc-gaming-predictions)
+ - [Following developer harassment, Battlefield 2042&#39;s toxic subreddit may go on lockdown](https://www.pcgamer.com/following-developer-harassment-battlefield-2042s-toxic-subreddit-may-go-on-lockdown)
+ - [Westworld creator Jonathan Nolan to direct Fallout TV show at Amazon](https://www.polygon.com/22871229/fallout-tv-show-amazon-jonathan-nolan-showrunners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
