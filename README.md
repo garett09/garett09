@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Usborne&#39;s 1980s range of childrens&#39; coding books released as free PDFs](https://www.pcgamer.com/usbornes-1980s-range-of-childrens-coding-books-released-as-free-pdfs)
- - [CES 2022 attendee photographs every weird use of &#39;metaverse&#39;](https://www.pcgamer.com/ces-2022-attendee-photographs-every-weird-use-of-metaverse)
- - [Report: GameStop Is Going Big Into Crypto And NFTs](https://kotaku.com/report-gamestop-is-going-into-crypto-and-nfts-1848319383)<!-- GAME:END -->
+ - [Phison&#39;s next-gen PCIe 5 SSD controller is nearly twice as fast as the best PCIe 4 drives at 13.5 GB/s](https://www.pcgamer.com/phisons-next-gen-pcie-5-ssd-controller-is-nearly-twice-as-fast-as-the-best-pcie-4-drives-at-135-gbs)
+ - [Apex Legends emerges from the deep with a nautical new Arenas map next week](https://www.pcgamer.com/apex-legends-emerges-from-the-deep-with-a-nautical-new-arenas-map-next-week)
+ - [Usborne&#39;s 1980s range of childrens&#39; coding books released as free PDFs](https://www.pcgamer.com/usbornes-1980s-range-of-childrens-coding-books-released-as-free-pdfs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
