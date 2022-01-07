@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [What a ridiculous cartoon](http://9gag.com/gag/a51oWPL)
- - 🚯 [When it is your time to rebel against your b*tch boss](http://9gag.com/gag/aDDxgqx)
- - 🚯 [Just Want A Girlfriend](http://9gag.com/gag/ay9XeDX)<!-- MEMES:END -->
+ - 🚯 [Some parents in Barcelona organized a bike ride to school for just five kids. Now entire neighborhoods are joining. They call it Bicib&amp;uacute;s &amp;ndash; or Bike Bus.](http://9gag.com/gag/aYrg7yv)
+ - 🚯 [Robbery Gone Wrong](http://9gag.com/gag/aLvj0rv)<!-- MEMES:END -->
 
 --- 
 
