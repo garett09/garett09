@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Incentive Ecosystem Foundation, a community-led foundation of Solana-based exchange Project Serum, raises $75M in a token sale from Tiger Global and others &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220107/p13#a220107p13)
- - [5 best auction apps for Android](https://www.androidauthority.com/best-auction-apps-android-3083914/)
- - [How to set Spotify music as an alarm](https://www.androidauthority.com/how-to-set-spotify-as-alarm-3083859/)<!-- TECH:END -->
+ - [Asus’ ROG Flow Z13 is a Surface Pro for gamers](https://www.theverge.com/2022/1/7/22869168/asus-rog-flow-z13-gaming-tablet-convertible-hands-on)
+ - [&#39;iPhone 14&#39; hole-punch camera, redesigned MacBook Air, and more on the AppleInsider Podcast](https://appleinsider.com/articles/22/01/07/iphone-14-hole-punch-camera-redesigned-macbook-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Satechi announces new 165W USB-C 4-Port PD GaN Charger](https://appleinsider.com/articles/22/01/07/satechi-announces-new-165w-usb-c-4-port-pd-gan-charger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
