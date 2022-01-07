@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fallout TV series goes into production this year](https://www.theverge.com/2022/1/7/22871637/amazon-fallout-tv-show-prime-video-series-production)
- - [Little Otter, a digital mental health company offering tools and treatment for both children and their families, raises $22M Series A led by CRV &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220107/p1#a220107p1)
- - [We asked, you told us: The Samsung Galaxy S21 FE just isn’t the one](https://www.androidauthority.com/samsung-galaxy-s21-fe-poll-results-3085392/)<!-- TECH:END -->
+ - [Bitcoin price falls below $42,000 as Fed hints at interest hike     - CNET](https://www.cnet.com/news/bitcoin-price-falls-below-42000-as-fed-hints-at-interest-hike/#ftag=CAD590a51e)
+ - [OnePlus 10 and 10 Pro: All the rumors &lpar;Updated: Jan. 7&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)
+ - [Amazon’s Fallout TV series goes into production this year](https://www.theverge.com/2022/1/7/22871637/amazon-fallout-tv-show-prime-video-series-production)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
