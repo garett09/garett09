@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s antitrust watchdog orders an investigation into Google after complaints from news publishers that the company is abusing its news aggregation dominance &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220107/p19#a220107p19)
- - [Facebook is giving you homework to learn about its privacy settings](https://www.theverge.com/2022/1/7/22872351/meta-facebook-privacy-center-defaults-education-controls)
- - [The Future of Tech Is Here. Congress Isn&#39;t Ready for It](https://www.wired.com/story/will-hurd-tech-regulation-american-reboot)<!-- TECH:END -->
+ - [Sources: Reddit could go public as soon as March at a valuation of as much as $15B; the company was last valued at $10B in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220107/p21#a220107p21)
+ - [Pixar’s Turning Red is ditching theaters to premiere on Disney Plus](https://www.theverge.com/2022/1/7/22872585/disney-plus-turning-red-pixar-premiere-streaming)
+ - [Meta rolls out Privacy Center to some people using Facebook on desktop in the US, putting the onus on the users to learn about security and privacy controls &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220107/p20#a220107p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
