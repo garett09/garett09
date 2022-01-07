@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How can you tell?](http://9gag.com/gag/a91pEYj)
- - 🚯 [No No What?](http://9gag.com/gag/amg7P7V)
+ - 🚖 [No No What?](http://9gag.com/gag/amg7P7V)
+ - 🚯 [Me: i won&amp;rsquo;t talk about history and politics Also me after 20 beers](http://9gag.com/gag/aZr3069)
  - 🚯 [Made my son a cake for his 1st birthday. It&amp;#039;s not perfect but it was my first time.](http://9gag.com/gag/aqG7nEp)<!-- MEMES:END -->
 
 --- 
