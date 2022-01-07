@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phison&#39;s next-gen PCIe 5 SSD controller is nearly twice as fast as the best PCIe 4 drives at 13.5 GB/s](https://www.pcgamer.com/phisons-next-gen-pcie-5-ssd-controller-is-nearly-twice-as-fast-as-the-best-pcie-4-drives-at-135-gbs)
- - [Apex Legends emerges from the deep with a nautical new Arenas map next week](https://www.pcgamer.com/apex-legends-emerges-from-the-deep-with-a-nautical-new-arenas-map-next-week)
- - [Usborne&#39;s 1980s range of childrens&#39; coding books released as free PDFs](https://www.pcgamer.com/usbornes-1980s-range-of-childrens-coding-books-released-as-free-pdfs)<!-- GAME:END -->
+ - [The best video game stream to watch this weekend](https://www.polygon.com/22870285/agdq-2022-online-speedrun-event-charity)
+ - [Bioware GM looks back on 2021 and &#39;rebuilding our reputation&#39; with the next Dragon Age and Mass Effect games](https://www.pcgamer.com/bioware-gm-looks-back-on-2021-and-rebuilding-our-reputation-with-the-next-dragon-age-and-mass-effect-games)
+ - [Intel gut-punches Apple by hiring engineer that &#39;led transition&#39; from Intel-based Macs to Apple Silicon](https://www.pcgamer.com/intel-gut-punches-apple-by-hiring-engineer-that-led-transition-from-intel-based-macs-to-apple-silicon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
