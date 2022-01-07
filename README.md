@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I had to rebuild my PC for Asus &amp; Noctua&#39;s beautifully brown RTX 3070 and I love it for that](https://www.pcgamer.com/asus-geforce-rtx-3070-noctua-oc-edition-performance-impressions)
  - [Reddit learns you can shoot down Skyrim&#39;s beehives to get honey](https://www.pcgamer.com/reddit-learns-you-can-shoot-down-skyrims-beehives-to-get-honey)
- - [Our boldest predictions for PC gaming in 2022](https://www.pcgamer.com/2022-pc-gaming-predictions)
- - [Following developer harassment, Battlefield 2042&#39;s toxic subreddit may go on lockdown](https://www.pcgamer.com/following-developer-harassment-battlefield-2042s-toxic-subreddit-may-go-on-lockdown)<!-- GAME:END -->
+ - [Our boldest predictions for PC gaming in 2022](https://www.pcgamer.com/2022-pc-gaming-predictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
