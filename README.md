@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin price falls below $42,000 as Fed hints at interest hike     - CNET](https://www.cnet.com/news/bitcoin-price-falls-below-42000-as-fed-hints-at-interest-hike/#ftag=CAD590a51e)
- - [OnePlus 10 and 10 Pro: All the rumors &lpar;Updated: Jan. 7&rpar;](https://www.androidauthority.com/oneplus-10-3055636/)
- - [Amazon’s Fallout TV series goes into production this year](https://www.theverge.com/2022/1/7/22871637/amazon-fallout-tv-show-prime-video-series-production)<!-- TECH:END -->
+ - [Online appointment scheduling service FlexBooker discloses a breach that saw info stolen from 3.7M accounts, including partial credit card info, on December 23 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220107/p2#a220107p2)
+ - [Honor Magic V renders, specs leak: A bigger, beefier Galaxy Z Fold 3 rival](https://www.androidauthority.com/honor-magic-v-renders-specs-3085442/)
+ - [Bitcoin price falls below $42,000 as Fed hints at interest hike     - CNET](https://www.cnet.com/news/bitcoin-price-falls-below-42000-as-fed-hints-at-interest-hike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
