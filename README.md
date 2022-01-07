@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Starlink internet service has more than 145,000 users so far](https://techncruncher.blogspot.com/2022/01/spacexs-starlink-internet-service-has.html)
- - [Put the System That Enabled Theranos&#39; Elizabeth Holmes on Trial](https://www.wired.com/story/plaintext-theranos-elizabeth-holmes-trial)
- - [Spider-Man: No Way Home, Piracy, and the End of the Box Office](https://www.wired.com/story/spider-man-matrix-box-office)<!-- TECH:END -->
+ - [The best video playback apps for Mac](https://appleinsider.com/articles/22/01/07/the-best-video-playback-apps-for-mac?utm_medium=rss)
+ - [a16z raises $9B across three funds: a $1.5B Bio fund, a $5B Growth fund, and a $2.5B Venture fund &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/220107/p11#a220107p11)
+ - [How to copy a playlist on Spotify](https://www.androidauthority.com/how-to-copy-playlist-spotify-3084058/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
