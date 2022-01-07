@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Controversial Steam Best Seller Ready Or Not Is An Unsettling SWAT Fantasy](https://kotaku.com/controversial-steam-best-seller-ready-or-not-is-an-unse-1848317351)
- - [The 355 continues the hot new streak of lousy lady action movies](https://www.polygon.com/reviews/22870873/the-355-review-jessica-chastain)
- - [E3 is online-only again in 2022](https://www.pcgamer.com/e3-is-online-only-again-in-2022)<!-- GAME:END -->
+ - [Westworld creator Jonathan Nolan to direct Fallout TV show at Amazon](https://www.polygon.com/22871229/fallout-tv-show-amazon-jonathan-nolan-showrunners)
+ - [League of Legends’ new champion, Zeri, gets an electric new trailer](https://www.polygon.com/22871162/league-of-legends-new-champion-zeri-abilities-trailer)
+ - [The Pope started 2022 by blasting a song from hit RPG Undertale](https://www.pcgamer.com/the-pope-started-2022-by-blasting-a-song-from-hit-rpg-undertale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
