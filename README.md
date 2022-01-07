@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot teased 3 new League of Legends champions during Season 2022 livestream](https://www.polygon.com/22871981/league-of-legends-new-champions-teaser-releases-2022-support-jungler)
- - [Polygon’s 2022 Entertainment Guide](https://www.polygon.com/22868617/movies-tv-anime-most-anticipated-2022-new-upcoming)
- - [Our most anticipated movies of 2022](https://www.polygon.com/22870489/most-anticipated-movies-of-2022)<!-- GAME:END -->
+ - [COVID-19 tests are so hard to find that console trackers are stepping in](https://www.polygon.com/22872150/covid-19-testing-ps5-xbox-console-tracker-help)
+ - [Share of the Year 2021](https://blog.playstation.com/2022/01/07/share-of-the-year-2021/)
+ - [Share of the Year 2021](https://blog.playstation.com/2022/01/07/share-of-the-year-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
