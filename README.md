@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RoadRunner, which uses AI to help enterprises manage and recycle waste across multiple locations, raises a $70M Series D from General Atlantic&#39;s BeyondNetZero &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220107/p18#a220107p18)
- - [Is Elizabeth Holmes’ guilty verdict a wake-up call for startups?](https://www.theverge.com/2022/1/7/22872063/elizabeth-holmes-theranos-guilty-startups)
- - [Roblox says it will rebuild its platform in China after taking down LuoBuLeSi in December, just five months after launching the app in partnership with Tencent &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/220107/p17#a220107p17)<!-- TECH:END -->
+ - [India&#39;s antitrust watchdog orders an investigation into Google after complaints from news publishers that the company is abusing its news aggregation dominance &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220107/p19#a220107p19)
+ - [Facebook is giving you homework to learn about its privacy settings](https://www.theverge.com/2022/1/7/22872351/meta-facebook-privacy-center-defaults-education-controls)
+ - [The Future of Tech Is Here. Congress Isn&#39;t Ready for It](https://www.wired.com/story/will-hurd-tech-regulation-american-reboot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
