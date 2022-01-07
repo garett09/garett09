@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No No What?](http://9gag.com/gag/amg7P7V)
- - 🚯 [Finally got a house. Been building my own private cinema on the attic. Its slowly coming together quite nicely! Thoughts/ideas anyone?](http://9gag.com/gag/ajgE9eG)
- - 🚯 [I would join too](http://9gag.com/gag/a31KwXr)<!-- MEMES:END -->
+ - 🚖 [So so much](http://9gag.com/gag/aggXBg6)
+ - 🚯 [How can you tell?](http://9gag.com/gag/a91pEYj)
+ - 🚯 [No No What?](http://9gag.com/gag/amg7P7V)<!-- MEMES:END -->
 
 --- 
 
