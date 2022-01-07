@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trade court sides with Sonos, rules that Google infringed on Sonos patents](https://appleinsider.com/articles/22/01/07/trade-court-sides-with-sonos-rules-that-google-infringed-on-sonos-patents?utm_medium=rss)
- - [Sources: GameStop has hired more than 20 people to run a new division developing an NFT marketplace and establishing cryptocurrency partnerships &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/220106/p31#a220106p31)
- - [Worldle explained: Tips, tricks and what you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [John Deere breaks new ground with self-driving tractors you can control from a phone     - CNET](https://www.cnet.com/tech/mobile/john-deere-breaks-new-ground-with-self-driving-tractors-you-can-control-from-a-phone/#ftag=CAD590a51e)
+ - [PlayStation VR 2 is getting at least one cool game. Here&#39;s everything else we know     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-getting-at-least-one-cool-game-heres-everything-else-we-know-ces-2022/#ftag=CAD590a51e)
+ - [Trade court sides with Sonos, rules that Google infringed on Sonos patents](https://appleinsider.com/articles/22/01/07/trade-court-sides-with-sonos-rules-that-google-infringed-on-sonos-patents?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
