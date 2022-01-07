@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of CES 2022 Awards: The very best of the best products](https://www.androidauthority.com/best-of-ces-2022-awards-3085312/)
- - [Get a 1-year Sam&#39;s Club membership for just $19.99 + free gift card](https://appleinsider.com/articles/21/09/22/deal-alert-1-year-sams-club-membership-discounted-to-1999-free-food?utm_medium=rss)
- - [Apple was quietly everywhere at CES 2022… again     - CNET](https://www.cnet.com/tech/mobile/apple-was-quietly-everywhere-at-ces-2022-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s Fallout TV series goes into production this year](https://www.theverge.com/2022/1/7/22871637/amazon-fallout-tv-show-prime-video-series-production)
+ - [Little Otter, a digital mental health company offering tools and treatment for both children and their families, raises $22M Series A led by CRV &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220107/p1#a220107p1)
+ - [We asked, you told us: The Samsung Galaxy S21 FE just isn’t the one](https://www.androidauthority.com/samsung-galaxy-s21-fe-poll-results-3085392/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
