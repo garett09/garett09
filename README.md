@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 14-inch, 16-inch MacBook Pros are $150 off &amp; in stock &lpar;AppleCare is on sale too&rpar;](https://appleinsider.com/articles/22/01/03/these-14-inch-16-inch-macbook-pros-are-150-off-in-stock-applecare-is-on-sale-too?utm_medium=rss)
- - [Uber to shut down Uber Eats in Brazil on March 7; report: the move is part of a global repositioning strategy wherein the company closes unprofitable operations &lpar;Gabriel Araujo/Reuters&rpar;](http://www.techmeme.com/220107/p16#a220107p16)
- - [The Verge Awards at CES 2022](https://www.theverge.com/22870203/ces-2022-best-of-gadgets-concepts-tech)<!-- TECH:END -->
+ - [RoadRunner, which uses AI to help enterprises manage and recycle waste across multiple locations, raises a $70M Series D from General Atlantic&#39;s BeyondNetZero &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220107/p18#a220107p18)
+ - [Is Elizabeth Holmes’ guilty verdict a wake-up call for startups?](https://www.theverge.com/2022/1/7/22872063/elizabeth-holmes-theranos-guilty-startups)
+ - [Roblox says it will rebuild its platform in China after taking down LuoBuLeSi in December, just five months after launching the app in partnership with Tencent &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/220107/p17#a220107p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
