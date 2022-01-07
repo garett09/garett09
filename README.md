@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing find.](http://9gag.com/gag/amg75X4)
- - 🚯 [That looks awesome](http://9gag.com/gag/aXrxYVg)
- - 🚯 [Mike don&amp;#039;t even know how big He is](http://9gag.com/gag/a51ooyV)<!-- MEMES:END -->
+ - 🚖 [The real employment Jelly](http://9gag.com/gag/aYrggg0)
+ - 🚯 [Army opened fire on protesters in Almaty, Kazakhstan. Dozens were killed and hundreds injured. Government turned off the Internet. Russia is sending their military.](http://9gag.com/gag/a71MDob)
+ - 🚯 [A few years as an adult by myself, life is tough, but the government is savage...](http://9gag.com/gag/a81o5ye)<!-- MEMES:END -->
 
 --- 
 
