@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy S21 FE cases you can get](https://www.androidauthority.com/best-samsung-galaxy-s21-fe-cases-3084034/)
- - [John Pinette, Meta&#39;s VP of Global Communications, leaves the company; he had overseen the company&#39;s public relations teams since 2019 &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220108/p1#a220108p1)
- - [NASA Perseverance Mars rover has crud obstructing its rock sample system     - CNET](https://www.cnet.com/news/nasa-perseverance-mars-rover-has-crud-obstructing-its-rock-sample-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ottawa-based Assent Compliance, a SaaS provider that helps companies with product compliance, trade compliance, and ESG, raises $350M at a $1B+ valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220108/p2#a220108p2)
+ - [You May Be Able to Own a Self-Driving Car After All](https://www.wired.com/story/you-own-self-driving-car)
+ - [Audi&#39;s EV Dakar Rally Car Is Resurrecting the Range Extender](https://www.wired.com/story/audi-ev-dakar-rally-car)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
