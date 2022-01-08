@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Web3 apps and wallets inevitably depend on centralized services like OpenSea, Infura, and Alchemy, which don&#39;t even provide authenticated responses &lpar;Moxie Marlinspike&rpar;](http://www.techmeme.com/220107/p29#a220107p29)
  - [A Scott Pilgrim anime adaptation is reportedly in development for Netflix](https://www.theverge.com/2022/1/7/22872921/scott-pilgrim-anime-adaptation-in-development-netflix)
- - [Amazon workers will now get only a week of COVID PTO](https://www.theverge.com/2022/1/7/22872866/amazon-coronavirus-changed-pto-policy-cdc-guidance-update)
- - [Deliveroo plans to open a restaurant in London, its first, to better understand restaurateurs; the company currently operates ~300 &quot;dark&quot; kitchens globally &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220107/p28#a220107p28)<!-- TECH:END -->
+ - [Amazon workers will now get only a week of COVID PTO](https://www.theverge.com/2022/1/7/22872866/amazon-coronavirus-changed-pto-policy-cdc-guidance-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
