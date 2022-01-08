@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birthday party](http://9gag.com/gag/a51owRE)
- - 🚯 [That didn&amp;rsquo;t age well.](http://9gag.com/gag/aBnxLmZ)
- - 🚯 [On that demon time](http://9gag.com/gag/a71MeLL)<!-- MEMES:END -->
+ - 🚖 [I swear they understand you](http://9gag.com/gag/arngXnV)
+ - 🚯 [Arcs](http://9gag.com/gag/aVx3Kp8)
+ - 🚯 [Choose your fighter](http://9gag.com/gag/angMnP5)<!-- MEMES:END -->
 
 --- 
 
