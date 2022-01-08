@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weighing in at approximately 8000 kg, this elephant from Tanzania is believed to be the largest in the world!](http://9gag.com/gag/arng3Qd)
- - 🚯 [Miau](http://9gag.com/gag/ay9X4ob)
- - 🚯 [Back then vs now](http://9gag.com/gag/aqG788Y)<!-- MEMES:END -->
+ - 🚖 [India testing it&amp;#039;s first underground nukes codename smiling Buddha 1974](http://9gag.com/gag/aKmjAb6)
+ - 🚯 [When the boss doesn&amp;#039;t want to wet his feet](http://9gag.com/gag/aPZjPyB)
+ - 🚯 [The injustice!](http://9gag.com/gag/aKmj9Mb)<!-- MEMES:END -->
 
 --- 
 
