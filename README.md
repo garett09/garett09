@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s e-scooter company is pulling out of any city that doesn’t limit competition](https://www.theverge.com/2022/1/7/22872768/ford-e-scooter-company-spin-pulling-out-cities-limit-competition-open-vendor)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Signal employees worry anonymous transactions could appeal to criminals, which would attract regulatory scrutiny and aid lawmakers who want to end encryption &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220107/p26#a220107p26)<!-- TECH:END -->
+ - [Deliveroo plans to open a restaurant in London, its first, to better understand restaurateurs; the company currently operates ~300 &quot;dark&quot; kitchens globally &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220107/p28#a220107p28)
+ - [A look at Meta&#39;s covert push to build a data center in the Netherlands, including codenaming the project, in an attempt to minimize public scrutiny and backlash &lpar;Aman Sethi/BuzzFeed News&rpar;](http://www.techmeme.com/220107/p27#a220107p27)
+ - [Elon Musk says Tesla is raising the price of its ‘full self driving’ software to $12k](https://www.theverge.com/2022/1/7/22872865/elon-musk-tesla-raise-price-full-self-driving-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
