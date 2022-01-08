@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not like I don&amp;#039;t love her, but all that stress and drama... I feel like it&amp;#039;s not worth it.](http://9gag.com/gag/aLvjzbz)
- - 🚯 [There is a reason why they put barriers there!](http://9gag.com/gag/aegM4oQ)
- - 🚯 [Surprise mu@#erf#&amp;ccedil;&amp;lt;r...](http://9gag.com/gag/a21owDY)<!-- MEMES:END -->
+ - 🚖 [India testing it&amp;#039;s first underground nukes codename smiling Buddha 1974](http://9gag.com/gag/aKmjAb6)
+ - 🚯 [Not like I don&amp;#039;t love her, but all that stress and drama... I feel like it&amp;#039;s not worth it.](http://9gag.com/gag/aLvjzbz)
+ - 🚯 [Ski lift stuck over burst pipe](http://9gag.com/gag/aE8x6v9)<!-- MEMES:END -->
 
 --- 
 
