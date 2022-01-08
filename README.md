@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA names airports protected by C-Band 5G rollout buffer](https://appleinsider.com/articles/22/01/08/faa-names-airports-protected-by-c-band-5g-rollout-buffer?utm_medium=rss)
- - [Older Honda and Acura models hit by Y2K22 bug that resets clocks 20 years in the past](https://www.theverge.com/2022/1/8/22873403/honda-acuras-y2k22-bug-clocks-reset-2002)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-414-3085906/)<!-- TECH:END -->
+ - [Keep your home spotless with the Hoover CleanSlate Plus, now just $99     - CNET](https://www.cnet.com/home/kitchen-and-household/keep-your-home-spotless-with-the-hoover-cleanslate-plus-now-just-99/#ftag=CAD590a51e)
+ - [Facebook parent Meta&#39;s head of communications exits company     - CNET](https://www.cnet.com/tech/facebook-parent-metas-head-of-communications-exits-company/#ftag=CAD590a51e)
+ - [FAA names airports protected by C-Band 5G rollout buffer](https://appleinsider.com/articles/22/01/08/faa-names-airports-protected-by-c-band-5g-rollout-buffer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
