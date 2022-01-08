@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)
- - 🚯 [Wake up..](http://9gag.com/gag/aXrxPAg)
- - 🚯 [Navigation systems for drunk people](http://9gag.com/gag/a31KGm8)<!-- MEMES:END -->
+ - 🚯 [Grow up dad..](http://9gag.com/gag/aQX3gZd)
+ - 🚯 [Kazakh woman in traditional dress](http://9gag.com/gag/axB1WLW)<!-- MEMES:END -->
 
 --- 
 
