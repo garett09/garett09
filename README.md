@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For over a decade, Sierra published its own quirky games magazine called InterAction](https://www.pcgamer.com/saturday-crapshoot-interaction)
- - [Pokimane banned on Twitch after streaming Avatar: The Last Airbender](https://www.polygon.com/22873041/pokimane-twitch-ban-tv-meta-avatar-last-airbender-dmca)
- - [Lost Ark gameplay video delivers a crash course in the hit Korean ARPG](https://www.pcgamer.com/lost-ark-gameplay-video-delivers-a-crash-course-in-the-hit-korean-arpg)<!-- GAME:END -->
+ - [The unstoppable rise of the Attack on Titan Hange dance](https://www.polygon.com/22870349/attack-titan-hange-dance-talk-dirty-me-jason-derulo)
+ - [8 satirical horror comedies to put you in the mood for the new Scream](https://www.polygon.com/22866614/best-horror-movies-like-scream)
+ - [10 major anime airing in the 2022 winter season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
