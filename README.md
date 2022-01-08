@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life can change. Never give up. I almost gave up believing in happiness. Sometimes changing places makes you realize you fit in somewhere else.](http://9gag.com/gag/a21oKjY)
- - 🚯 [Get on your knees](http://9gag.com/gag/a0ZK48Z)
- - 🚯 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)<!-- MEMES:END -->
+ - 🚖 [Alpha of the alpha](http://9gag.com/gag/angM7ob)
+ - 🚯 [Mom i asked for ketchup not dn\u0265\u0254\u0287\u01dd\u029e](http://9gag.com/gag/a91py5Z)
+ - 🚯 [Steven Seagal knows how to hold a rifle](http://9gag.com/gag/azeX2wp)<!-- MEMES:END -->
 
 --- 
 
