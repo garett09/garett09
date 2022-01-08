@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)
- - 🚯 [Grow up dad..](http://9gag.com/gag/aQX3gZd)
- - 🚯 [Kazakh woman in traditional dress](http://9gag.com/gag/axB1WLW)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s their fate](http://9gag.com/gag/a0ZKX9d)
+ - 🚯 [The witch hadn&amp;#039;t heard such a banging tune since 1764 and decided to bust out the old moves](http://9gag.com/gag/a21owqe)
+ - 🚯 [Kazakh woman in traditional dress](http://9gag.com/gag/amg71Y6)<!-- MEMES:END -->
 
 --- 
 
