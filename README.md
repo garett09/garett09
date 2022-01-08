@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise mu@#erf#&amp;ccedil;&amp;lt;r...](http://9gag.com/gag/a21owDY)
- - 🚯 [First World Problems?](http://9gag.com/gag/aVx3g0d)
- - 🚯 [The last moments of a lion&amp;#039;s life. He held his head up until his final breath. What a boss.](http://9gag.com/gag/aegM1D5)<!-- MEMES:END -->
+ - 🚖 [Not like I don&amp;#039;t love her, but all that stress and drama... I feel like it&amp;#039;s not worth it.](http://9gag.com/gag/aLvjzbz)
+ - 🚯 [There is a reason why they put barriers there!](http://9gag.com/gag/aegM4oQ)
+ - 🚯 [Surprise mu@#erf#&amp;ccedil;&amp;lt;r...](http://9gag.com/gag/a21owDY)<!-- MEMES:END -->
 
 --- 
 
