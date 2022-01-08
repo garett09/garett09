@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back then vs now](http://9gag.com/gag/aqG788Y)
- - 🚯 [Hello World. My name is Lucy](http://9gag.com/gag/a11o00D)
- - 🚯 [Choose your fighter](http://9gag.com/gag/angMnP5)<!-- MEMES:END -->
+ - 🚖 [Birthday party](http://9gag.com/gag/a51owRE)
+ - 🚯 [That didn&amp;rsquo;t age well.](http://9gag.com/gag/aBnxLmZ)
+ - 🚯 [On that demon time](http://9gag.com/gag/a71MeLL)<!-- MEMES:END -->
 
 --- 
 
