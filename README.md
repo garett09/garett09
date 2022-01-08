@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Web3 apps and wallets inevitably depend on centralized services like OpenSea, Infura, and Alchemy, which don&#39;t even provide authenticated responses &lpar;Moxie Marlinspike&rpar;](http://www.techmeme.com/220107/p29#a220107p29)
- - [A Scott Pilgrim anime adaptation is reportedly in development for Netflix](https://www.theverge.com/2022/1/7/22872921/scott-pilgrim-anime-adaptation-in-development-netflix)
- - [Amazon workers will now get only a week of COVID PTO](https://www.theverge.com/2022/1/7/22872866/amazon-coronavirus-changed-pto-policy-cdc-guidance-update)<!-- TECH:END -->
+ - [The Book of Boba Fett episode 2 recap: Star Wars gets weird as bounty hunter joins tribe     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-episode-2-recap-star-wars-gets-weird-as-bounty-hunter-joins-tribe/#ftag=CAD590a51e)
+ - [Google launches Ripple, an open standard that could bring tiny radars to Ford cars and more](https://www.theverge.com/2022/1/7/22872972/google-ripple-radar-standard-api-soli-ford)
+ - [How Web3 apps and wallets inevitably depend on centralized services like OpenSea, Infura, and Alchemy, which don&#39;t even provide authenticated responses &lpar;Moxie Marlinspike&rpar;](http://www.techmeme.com/220107/p29#a220107p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
