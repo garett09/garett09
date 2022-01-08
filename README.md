@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokimane Receives First Twitch Ban, But It&#39;s Only Temporary](https://kotaku.com/pokimane-temporarily-banned-on-twitch-after-streaming-a-1848326406)
  - [The unstoppable rise of the Attack on Titan Hange dance](https://www.polygon.com/22870349/attack-titan-hange-dance-talk-dirty-me-jason-derulo)
- - [Netflix Is Planning On Making A Scott Pilgrim Anime](https://kotaku.com/netflix-is-planning-on-making-a-scott-pilgrim-anime-1848324961)
- - [8 satirical horror comedies to put you in the mood for the new Scream](https://www.polygon.com/22866614/best-horror-movies-like-scream)<!-- GAME:END -->
+ - [Netflix Is Planning On Making A Scott Pilgrim Anime](https://kotaku.com/netflix-is-planning-on-making-a-scott-pilgrim-anime-1848324961)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
