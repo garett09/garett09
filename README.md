@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gone in 60 seconds.](http://9gag.com/gag/awzXzo8)
- - 🚯 [Wake up..](http://9gag.com/gag/aXrxPAg)
- - 🚯 [Lone Wolf kills an Elk with just one bite.](http://9gag.com/gag/aXrxngD)<!-- MEMES:END -->
+ - 🚖 [Mom i asked for ketchup not dn\u0265\u0254\u0287\u01dd\u029e](http://9gag.com/gag/a91py5Z)
+ - 🚯 [Simpers gonna simp](http://9gag.com/gag/aQX3EMK)
+ - 🚯 [Choose your style](http://9gag.com/gag/aPZjgQK)<!-- MEMES:END -->
 
 --- 
 
