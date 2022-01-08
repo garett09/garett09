@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Did you get any gaming presents last year?](https://www.pcgamer.com/did-you-get-any-gaming-presents-last-year)
- - [New Minecraft Mod Turns The Game Into Doom &lpar;2016&rpar;](https://kotaku.com/new-minecraft-mod-turns-the-game-into-doom-2016-1848327025)
- - [Dying Light 2 will take 500 hours to &quot;fully complete&quot; says Techland](https://www.pcgamer.com/dying-light-2-will-take-500-hours-to-fully-complete-says-techland)<!-- GAME:END -->
+ - [Netflix is developing a Scott Pilgrim anime](https://www.pcgamer.com/netflix-is-developing-a-scott-pilgrim-anime)
+ - [Here&#39;s gameplay of a dude fighting a cyber-dragon in soulslike Bleak Faith: Forsaken](https://www.pcgamer.com/heres-gameplay-of-a-dude-fighting-a-cyber-dragon-in-soulslike-bleak-faith-forsaken)
+ - [Did you get any gaming presents last year?](https://www.pcgamer.com/did-you-get-any-gaming-presents-last-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
