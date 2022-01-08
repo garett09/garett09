@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I swear they understand you](http://9gag.com/gag/arngXnV)
- - 🚯 [Arcs](http://9gag.com/gag/aVx3Kp8)
- - 🚯 [Choose your fighter](http://9gag.com/gag/angMnP5)<!-- MEMES:END -->
+ - 🚖 [Choose your fighter](http://9gag.com/gag/angMnP5)
+ - 🚯 [The injustice!](http://9gag.com/gag/aKmj9Mb)
+ - 🚯 [Birthday party](http://9gag.com/gag/a51owRE)<!-- MEMES:END -->
 
 --- 
 
