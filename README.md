@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [John Pinette, Meta&#39;s VP of Global Communications, leaves the company; he had overseen the company&#39;s public relations teams since 2019 &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220108/p1#a220108p1)
  - [NASA Perseverance Mars rover has crud obstructing its rock sample system     - CNET](https://www.cnet.com/news/nasa-perseverance-mars-rover-has-crud-obstructing-its-rock-sample-system/#ftag=CAD590a51e)
- - [The Book of Boba Fett episode 2 recap: Star Wars gets weird as bounty hunter joins tribe     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-episode-2-recap-star-wars-gets-weird-as-bounty-hunter-joins-tribe/#ftag=CAD590a51e)
- - [Google launches Ripple, an open standard that could bring tiny radars to Ford cars and more](https://www.theverge.com/2022/1/7/22872972/google-ripple-radar-standard-api-soli-ford)<!-- TECH:END -->
+ - [The Book of Boba Fett episode 2 recap: Star Wars gets weird as bounty hunter joins tribe     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-episode-2-recap-star-wars-gets-weird-as-bounty-hunter-joins-tribe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
