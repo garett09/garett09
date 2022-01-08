@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Did you get any gaming presents last year?](https://www.pcgamer.com/did-you-get-any-gaming-presents-last-year)
  - [New Minecraft Mod Turns The Game Into Doom &lpar;2016&rpar;](https://kotaku.com/new-minecraft-mod-turns-the-game-into-doom-2016-1848327025)
- - [Dying Light 2 will take 500 hours to &quot;fully complete&quot; says Techland](https://www.pcgamer.com/dying-light-2-will-take-500-hours-to-fully-complete-says-techland)
- - [Dying Light 2 Will Take 500 Hours To Fully Complete And I&#39;m Already So Tired](https://kotaku.com/dying-light-2-will-take-500-hours-to-fully-complete-and-1848326833)<!-- GAME:END -->
+ - [Dying Light 2 will take 500 hours to &quot;fully complete&quot; says Techland](https://www.pcgamer.com/dying-light-2-will-take-500-hours-to-fully-complete-says-techland)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
