@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sucker](http://9gag.com/gag/aOQrxoy)
- - 🚯 [Lone Wolf kills an Elk with just one bite.](http://9gag.com/gag/aXrxngD)
- - 🚯 [Don&amp;#039;t worry, the cabbie is a professional](http://9gag.com/gag/ajgEVXQ)<!-- MEMES:END -->
+ - 🚖 [Gone in 60 seconds.](http://9gag.com/gag/awzXzo8)
+ - 🚯 [Wake up..](http://9gag.com/gag/aXrxPAg)
+ - 🚯 [Lone Wolf kills an Elk with just one bite.](http://9gag.com/gag/aXrxngD)<!-- MEMES:END -->
 
 --- 
 
