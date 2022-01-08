@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [For over a decade, Sierra published its own quirky games magazine called InterAction](https://www.pcgamer.com/saturday-crapshoot-interaction)
  - [Pokimane banned on Twitch after streaming Avatar: The Last Airbender](https://www.polygon.com/22873041/pokimane-twitch-ban-tv-meta-avatar-last-airbender-dmca)
- - [Lost Ark gameplay video delivers a crash course in the hit Korean ARPG](https://www.pcgamer.com/lost-ark-gameplay-video-delivers-a-crash-course-in-the-hit-korean-arpg)
- - [Thanks to Final Fantasy 7 Remake I finally appreciate Final Fantasy 7](https://www.pcgamer.com/thanks-to-final-fantasy-7-remake-i-finally-appreciate-final-fantasy-7)<!-- GAME:END -->
+ - [Lost Ark gameplay video delivers a crash course in the hit Korean ARPG](https://www.pcgamer.com/lost-ark-gameplay-video-delivers-a-crash-course-in-the-hit-korean-arpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
