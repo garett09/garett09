@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [The unstoppable rise of the Attack on Titan Hange dance](https://www.polygon.com/22870349/attack-titan-hange-dance-talk-dirty-me-jason-derulo)
- - [8 satirical horror comedies to put you in the mood for the new Scream](https://www.polygon.com/22866614/best-horror-movies-like-scream)
- - [10 major anime airing in the 2022 winter season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
+ - [Netflix Is Planning On Making A Scott Pilgrim Anime](https://kotaku.com/netflix-is-planning-on-making-a-scott-pilgrim-anime-1848324961)
+ - [8 satirical horror comedies to put you in the mood for the new Scream](https://www.polygon.com/22866614/best-horror-movies-like-scream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
