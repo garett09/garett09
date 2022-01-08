@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MODERNA CEO SAYS PEOPLE MAY NEED ANOTHER BOOSTER IN FALL OF 2022](https://techncruncher.blogspot.com/2022/01/moderna-ceo-says-people-may-need.html)
- - [Pixel art video games have experienced a renaissance over the past decade, led by indie developers, countering an industry obsessed with horsepower and realism &lpar;Aidan Moher/Wired&rpar;](http://www.techmeme.com/220108/p3#a220108p3)
- - [Sonos wins Google import ban ruling in U.S. patent fight](https://techncruncher.blogspot.com/2022/01/sonos-wins-google-import-ban-ruling-in.html)<!-- TECH:END -->
+ - [FAA names airports protected by C-Band 5G rollout buffer](https://appleinsider.com/articles/22/01/08/faa-names-airports-protected-by-c-band-5g-rollout-buffer?utm_medium=rss)
+ - [Older Honda and Acura models hit by Y2K22 bug that resets clocks 20 years in the past](https://www.theverge.com/2022/1/8/22873403/honda-acuras-y2k22-bug-clocks-reset-2002)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-414-3085906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
