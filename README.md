@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPod Shuffle, cabled EarPods drafted in retro tech revival](https://appleinsider.com/articles/22/01/08/ipod-shuffle-white-earpods-drafted-in-retro-tech-revival?utm_medium=rss)
- - [The James Webb Space Telescope finishes unfolding its primary mirror, concluding major deployments](https://www.theverge.com/2022/1/8/22873592/james-webb-telescope-final-mirror-deployment-conclusion)
- - [Ethereum co-founder responds: &quot;the properly authenticated decentralized blockchain world is coming&quot;, but is slowed by &quot;limited technical resources and funding&quot; &lpar;Vitalik Buterin/r/ethereum on Reddit&rpar;](http://www.techmeme.com/220108/p4#a220108p4)<!-- TECH:END -->
+ - [Best deals Jan 8: $299 iPad, $35 Razer Basilisk mouse, $9 Sony headphones, more!](https://appleinsider.com/articles/22/01/08/best-deals-jan-8-299-ipad-35-razer-basilisk-mouse-9-sony-headphones-more?utm_medium=rss)
+ - [Google Doodle celebrates Stephen Hawking&#39;s 80th birthday     - CNET](https://www.cnet.com/news/google-doodle-celebrates-stephen-hawkings-80th-birthday/#ftag=CAD590a51e)
+ - [iPod Shuffle, cabled EarPods drafted in retro tech revival](https://appleinsider.com/articles/22/01/08/ipod-shuffle-white-earpods-drafted-in-retro-tech-revival?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
