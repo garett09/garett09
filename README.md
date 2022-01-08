@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Alpha of the alpha](http://9gag.com/gag/angM7ob)
- - 🚯 [Mom i asked for ketchup not dn\u0265\u0254\u0287\u01dd\u029e](http://9gag.com/gag/a91py5Z)
- - 🚯 [Steven Seagal knows how to hold a rifle](http://9gag.com/gag/azeX2wp)<!-- MEMES:END -->
+ - 🚯 [The resemblance is uncanny](http://9gag.com/gag/a0ZKo1z)
+ - 🚯 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)<!-- MEMES:END -->
 
 --- 
 
