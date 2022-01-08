@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alpha of the alpha](http://9gag.com/gag/angM7ob)
- - 🚯 [The resemblance is uncanny](http://9gag.com/gag/a0ZKo1z)
- - 🚯 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)<!-- MEMES:END -->
+ - 🚖 [The only thing you can wet is your underpants](http://9gag.com/gag/aYrgQ2O)
+ - 🚯 [Wake up..](http://9gag.com/gag/aXrxPAg)
+ - 🚯 [Navigation systems for drunk people](http://9gag.com/gag/a31KGm8)<!-- MEMES:END -->
 
 --- 
 
