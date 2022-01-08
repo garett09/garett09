@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [India testing it&amp;#039;s first underground nukes codename smiling Buddha 1974](http://9gag.com/gag/aKmjAb6)
- - 🚯 [When the boss doesn&amp;#039;t want to wet his feet](http://9gag.com/gag/aPZjPyB)
- - 🚯 [The injustice!](http://9gag.com/gag/aKmj9Mb)<!-- MEMES:END -->
+ - 🚖 [Back then vs now](http://9gag.com/gag/aqG788Y)
+ - 🚯 [Hello World. My name is Lucy](http://9gag.com/gag/a11o00D)
+ - 🚯 [Choose your fighter](http://9gag.com/gag/angMnP5)<!-- MEMES:END -->
 
 --- 
 
