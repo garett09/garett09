@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Money doesn&amp;#039;t buy happiness, but it buys everything that makes us happy.](http://9gag.com/gag/aDDx8LB)
- - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)
- - 🚯 [Birthday party](http://9gag.com/gag/a51owRE)<!-- MEMES:END -->
+ - 🚖 [Smooth.](http://9gag.com/gag/angMvEq)
+ - 🚯 [Birthday party](http://9gag.com/gag/a51owRE)
+ - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)<!-- MEMES:END -->
 
 --- 
 
