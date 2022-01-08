@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [India testing it&amp;#039;s first underground nukes codename smiling Buddha 1974](http://9gag.com/gag/aKmjAb6)
- - 🚯 [Not like I don&amp;#039;t love her, but all that stress and drama... I feel like it&amp;#039;s not worth it.](http://9gag.com/gag/aLvjzbz)
- - 🚯 [Ski lift stuck over burst pipe](http://9gag.com/gag/aE8x6v9)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;ve always wondered how long it would take to make all the food and then the dishes which you never see](http://9gag.com/gag/angMRzz)
+ - 🚯 [The last moments of a lion&amp;#039;s life. He held his head up until his final breath. What a boss.](http://9gag.com/gag/aegM1D5)
+ - 🚯 [Weighing in at approximately 8000 kg, this elephant from Tanzania is believed to be the largest in the world!](http://9gag.com/gag/arng3Qd)<!-- MEMES:END -->
 
 --- 
 
