@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom i asked for ketchup not dn\u0265\u0254\u0287\u01dd\u029e](http://9gag.com/gag/a91py5Z)
- - 🚯 [Simpers gonna simp](http://9gag.com/gag/aQX3EMK)
- - 🚯 [Choose your style](http://9gag.com/gag/aPZjgQK)<!-- MEMES:END -->
+ - 🚖 [Practicing with her big brother](http://9gag.com/gag/aVx3voO)
+ - 🚯 [Choose your style](http://9gag.com/gag/aPZjgQK)
+ - 🚯 [Mom i asked for ketchup not dn\u0265\u0254\u0287\u01dd\u029e](http://9gag.com/gag/a91py5Z)<!-- MEMES:END -->
 
 --- 
 
