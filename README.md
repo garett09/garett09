@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the peer pressure to be a part of the blue bubble iMessage text groups keeps US teens locked into Apple&#39;s ecosystem &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/220108/p5#a220108p5)
- - [Babbel Lifetime Subscription is discounted to $199 &lpar;$300 off&rpar; for a limited time](https://appleinsider.com/articles/21/11/15/babbels-lifetime-subscription-returns-to-199-300-off-for-the-holidays?utm_medium=rss)
- - [Best deals Jan 8: $299 iPad, $35 Razer Basilisk mouse, $9 Sony headphones, more!](https://appleinsider.com/articles/22/01/08/best-deals-jan-8-299-ipad-35-razer-basilisk-mouse-9-sony-headphones-more?utm_medium=rss)<!-- TECH:END -->
+ - [Canon ink cartridges become an unexpected chip shortage victim](https://appleinsider.com/articles/22/01/08/canon-ink-cartridges-become-an-unexpected-chip-shortage-victim?utm_medium=rss)
+ - [FAA lists 50 airports that will have 5G buffer zones ahead of C-band expansion](https://www.theverge.com/2022/1/8/22873765/faa-verizon-att-airport-5g-carriers-buffer-zone)
+ - [Samsung Health vs Apple Health: The best platform for you](https://www.androidauthority.com/samsung-health-vs-apple-health-3075929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
