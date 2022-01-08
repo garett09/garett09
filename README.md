@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Tender Bar and every new movie you can watch at home this weekend](https://www.polygon.com/2022/1/7/22864099/new-movies-watch-netflix-tender-bar-amazon-prime-video-shudder)
- - [See For Me updates an all-time classic horror movie for the gamer age](https://www.polygon.com/reviews/22872661/see-for-me-review-horror)
- - [Awesome Games Done Quick kicks off this weekend](https://www.pcgamer.com/awesome-games-done-quick-2022-this-weekend)<!-- GAME:END -->
+ - [Thanks to Final Fantasy 7 Remake I finally appreciate Final Fantasy 7](https://www.pcgamer.com/thanks-to-final-fantasy-7-remake-i-finally-appreciate-final-fantasy-7)
+ - [Scott Pilgrim anime series is in development at Netflix](https://www.polygon.com/entertainment/22872848/scott-pilgrim-anime-netflix)
+ - [Cloud Looks So Fantastic In A Dress In These Final Fantasy VII Remake Mods](https://kotaku.com/cloud-looks-so-fantastic-in-a-dress-in-these-final-fant-1848324168)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
