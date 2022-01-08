@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter was a major star at CES 2022, but can it maintain its shine?](https://www.theverge.com/2022/1/8/22872311/matter-smart-home-ces-2022)
- - [Andrew Garfield says Tom Holland was &#39;jealous&#39; of his Spider-Man suit because Holland &#39;had to use his nose&#39; to work his phone](https://techncruncher.blogspot.com/2022/01/andrew-garfield-says-tom-holland-was.html)
- - [E-bikes buyer’s guide: What to know about electric bicycles, plus our top picks](https://www.androidauthority.com/e-bikes-buyers-guide-3050087/)<!-- TECH:END -->
+ - [India&#39;s antitrust body orders Google inquiry after news publishers complain](https://techncruncher.blogspot.com/2022/01/indias-antitrust-body-orders-google.html)
+ - [Computer monitors were inventive and interesting at CES 2022](https://www.theverge.com/22871890/computer-monitors-ces-2022-lg-samsung-asus-alienware-oled-qd-mini-led-ark)
+ - [Reddit taps Morgan Stanley, Goldman Sachs for IPO - source](https://techncruncher.blogspot.com/2022/01/reddit-taps-morgan-stanley-goldman.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
