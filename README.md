@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s antitrust body orders Google inquiry after news publishers complain](https://techncruncher.blogspot.com/2022/01/indias-antitrust-body-orders-google.html)
- - [Computer monitors were inventive and interesting at CES 2022](https://www.theverge.com/22871890/computer-monitors-ces-2022-lg-samsung-asus-alienware-oled-qd-mini-led-ark)
- - [Reddit taps Morgan Stanley, Goldman Sachs for IPO - source](https://techncruncher.blogspot.com/2022/01/reddit-taps-morgan-stanley-goldman.html)<!-- TECH:END -->
+ - [MODERNA CEO SAYS PEOPLE MAY NEED ANOTHER BOOSTER IN FALL OF 2022](https://techncruncher.blogspot.com/2022/01/moderna-ceo-says-people-may-need.html)
+ - [Pixel art video games have experienced a renaissance over the past decade, led by indie developers, countering an industry obsessed with horsepower and realism &lpar;Aidan Moher/Wired&rpar;](http://www.techmeme.com/220108/p3#a220108p3)
+ - [Sonos wins Google import ban ruling in U.S. patent fight](https://techncruncher.blogspot.com/2022/01/sonos-wins-google-import-ban-ruling-in.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
