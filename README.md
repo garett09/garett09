@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ottawa-based Assent Compliance, a SaaS provider that helps companies with product compliance, trade compliance, and ESG, raises $350M at a $1B+ valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220108/p2#a220108p2)
- - [You May Be Able to Own a Self-Driving Car After All](https://www.wired.com/story/you-own-self-driving-car)
- - [Audi&#39;s EV Dakar Rally Car Is Resurrecting the Range Extender](https://www.wired.com/story/audi-ev-dakar-rally-car)<!-- TECH:END -->
+ - [E-bikes buyer’s guide: What to know about electric bicycles, plus our top picks](https://www.androidauthority.com/e-bikes-buyers-guide-3050087/)
+ - [10 Good N95, KN95, and Surgical Face Masks to Buy Right Now](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical)
+ - [Can Synthetic Palm Oil Help Save the World’s Tropical Forests?](https://www.wired.com/story/can-synthetic-palm-oil-help-save-the-worlds-tropical-forests)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
