@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s their fate](http://9gag.com/gag/a0ZKX9d)
- - 🚯 [The witch hadn&amp;#039;t heard such a banging tune since 1764 and decided to bust out the old moves](http://9gag.com/gag/a21owqe)
- - 🚯 [Kazakh woman in traditional dress](http://9gag.com/gag/amg71Y6)<!-- MEMES:END -->
+ - 🚖 [The last moments of a lion&amp;#039;s life. He held his head up until his final breath. What a boss.](http://9gag.com/gag/aegM1D5)
+ - 🚯 [The resemblance is uncanny](http://9gag.com/gag/a0ZKo1z)
+ - 🚯 [Poor Leo](http://9gag.com/gag/ajgE7Kw)<!-- MEMES:END -->
 
 --- 
 
