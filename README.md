@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not like I don&amp;#039;t love her, but all that stress and drama... I feel like it&amp;#039;s not worth it.](http://9gag.com/gag/aLvjzbz)
- - 🚯 [Weighing in at approximately 8000 kg, this elephant from Tanzania is believed to be the largest in the world!](http://9gag.com/gag/arng3Qd)
- - 🚯 [WE SuPporT blAcK coMmuNitY](http://9gag.com/gag/aAGx6DZ)<!-- MEMES:END -->
+ - 🚖 [Weighing in at approximately 8000 kg, this elephant from Tanzania is believed to be the largest in the world!](http://9gag.com/gag/arng3Qd)
+ - 🚯 [Miau](http://9gag.com/gag/ay9X4ob)
+ - 🚯 [Back then vs now](http://9gag.com/gag/aqG788Y)<!-- MEMES:END -->
 
 --- 
 
