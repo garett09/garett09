@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep your home spotless with the Hoover CleanSlate Plus, now just $99     - CNET](https://www.cnet.com/home/kitchen-and-household/keep-your-home-spotless-with-the-hoover-cleanslate-plus-now-just-99/#ftag=CAD590a51e)
- - [Facebook parent Meta&#39;s head of communications exits company     - CNET](https://www.cnet.com/tech/facebook-parent-metas-head-of-communications-exits-company/#ftag=CAD590a51e)
- - [FAA names airports protected by C-Band 5G rollout buffer](https://appleinsider.com/articles/22/01/08/faa-names-airports-protected-by-c-band-5g-rollout-buffer?utm_medium=rss)<!-- TECH:END -->
+ - [iPod Shuffle, cabled EarPods drafted in retro tech revival](https://appleinsider.com/articles/22/01/08/ipod-shuffle-white-earpods-drafted-in-retro-tech-revival?utm_medium=rss)
+ - [The James Webb Space Telescope finishes unfolding its primary mirror, concluding major deployments](https://www.theverge.com/2022/1/8/22873592/james-webb-telescope-final-mirror-deployment-conclusion)
+ - [Ethereum co-founder responds: &quot;the properly authenticated decentralized blockchain world is coming&quot;, but is slowed by &quot;limited technical resources and funding&quot; &lpar;Vitalik Buterin/r/ethereum on Reddit&rpar;](http://www.techmeme.com/220108/p4#a220108p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
