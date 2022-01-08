@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 Will Take 500 Hours To Fully Complete And I&#39;m Already So Tired](https://kotaku.com/dying-light-2-will-take-500-hours-to-fully-complete-and-1848326833)
- - [Pokimane Receives First Twitch Ban, But It&#39;s Only Temporary](https://kotaku.com/pokimane-temporarily-banned-on-twitch-after-streaming-a-1848326406)
- - [The unstoppable rise of the Attack on Titan Hange dance](https://www.polygon.com/22870349/attack-titan-hange-dance-talk-dirty-me-jason-derulo)<!-- GAME:END -->
+ - [New Minecraft Mod Turns The Game Into Doom &lpar;2016&rpar;](https://kotaku.com/new-minecraft-mod-turns-the-game-into-doom-2016-1848327025)
+ - [Dying Light 2 will take 500 hours to &quot;fully complete&quot; says Techland](https://www.pcgamer.com/dying-light-2-will-take-500-hours-to-fully-complete-says-techland)
+ - [Dying Light 2 Will Take 500 Hours To Fully Complete And I&#39;m Already So Tired](https://kotaku.com/dying-light-2-will-take-500-hours-to-fully-complete-and-1848326833)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
