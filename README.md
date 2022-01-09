@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Smooth.](http://9gag.com/gag/angMvEq)
- - 🚯 [Birthday party](http://9gag.com/gag/a51owRE)
+ - 🚯 [Hello World. My name is Lucy](http://9gag.com/gag/a11o00D)
  - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)<!-- MEMES:END -->
 
 --- 
