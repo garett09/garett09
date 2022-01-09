@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [See Final Fantasy 7 Remake with the original&#39;s fixed camera](https://www.pcgamer.com/see-final-fantasy-7-remake-with-the-originals-fixed-camera)
  - [Netflix is developing a Scott Pilgrim anime](https://www.pcgamer.com/netflix-is-developing-a-scott-pilgrim-anime)
- - [Here&#39;s gameplay of a dude fighting a cyber-dragon in soulslike Bleak Faith: Forsaken](https://www.pcgamer.com/heres-gameplay-of-a-dude-fighting-a-cyber-dragon-in-soulslike-bleak-faith-forsaken)
- - [Did you get any gaming presents last year?](https://www.pcgamer.com/did-you-get-any-gaming-presents-last-year)<!-- GAME:END -->
+ - [Here&#39;s gameplay of a dude fighting a cyber-dragon in soulslike Bleak Faith: Forsaken](https://www.pcgamer.com/heres-gameplay-of-a-dude-fighting-a-cyber-dragon-in-soulslike-bleak-faith-forsaken)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
