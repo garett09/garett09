@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sunday Comics: I Did It!](https://kotaku.com/sunday-comics-i-did-it-1848328753)
  - [The Witcher’s Geralt has ascended to the TV dad pantheon](https://www.polygon.com/22872231/the-witcher-henry-cavill-fatherhood)
- - [The science fiction and fantasy books we’re excited for in 2022](https://www.polygon.com/22870462/new-books-science-fiction-fantasy-2022)
- - [Sega will not proceed with NFT plan &#39;if it is perceived as simple money-making&#39;](https://www.pcgamer.com/sega-will-not-proceed-with-nft-plan-if-it-is-perceived-as-simple-money-making)<!-- GAME:END -->
+ - [The science fiction and fantasy books we’re excited for in 2022](https://www.polygon.com/22870462/new-books-science-fiction-fantasy-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
