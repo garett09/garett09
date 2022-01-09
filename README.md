@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Anne Neuberger, the NSC deputy advisor at the center of increasing tension over control between US agencies handling cybersecurity &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/220109/p3#a220109p3)
- - [The best Samsung Galaxy S21 FE alternatives: 5 phones to consider buying](https://www.androidauthority.com/samsung-galaxy-s21-fe-alternatives-3078743/)
- - [The iPhone at 15: Steve Jobs revealed his greatest product 15 years ago     - CNET](https://www.cnet.com/tech/mobile/the-iphone-at-15-steve-jobs-revealed-his-great-product-15-years-ago/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The metaverse is &#39;off limits&#39; on Apple&#39;s VR headset, claims report](https://appleinsider.com/articles/22/01/09/apple-doesnt-want-headset-to-become-an-all-day-device-for-users?utm_medium=rss)
+ - [The iPhone turns 15 today, but what else was new in 2007’s world of tech?](https://www.androidauthority.com/iphone-turns-15-3085759/)
+ - [Green texts in iMessages nudge teens to use iPhones](https://appleinsider.com/articles/22/01/08/green-texts-in-imessages-nudges-teens-to-use-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
