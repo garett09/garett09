@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Shoes](http://9gag.com/gag/a21oyrE)
- - 🚯 [Giant rock formation falls on boats in Capitolio, state of Minas Gerais, Brazil. At least 6 people severe injuried, no deaths until now](http://9gag.com/gag/a91p5Dm)
- - 🚯 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)<!-- MEMES:END -->
+ - 🚖 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)
+ - 🚯 [Addicted to rocks](http://9gag.com/gag/angMxWq)
+ - 🚯 [Doggo pulls Mission Impossible infiltration of cat&amp;#039;s turf](http://9gag.com/gag/azeXRKK)<!-- MEMES:END -->
 
 --- 
 
