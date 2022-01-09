@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)
- - 🚯 [You didn&amp;#039;t know you needed a Peppa scimitar until now.](http://9gag.com/gag/aXrx7GD)
- - 🚯 [Addicted to rocks](http://9gag.com/gag/angMxWq)<!-- MEMES:END -->
+ - 🚖 [New Shoes](http://9gag.com/gag/a21oyrE)
+ - 🚯 [Giant rock formation falls on boats in Capitolio, state of Minas Gerais, Brazil. At least 6 people severe injuried, no deaths until now](http://9gag.com/gag/a91p5Dm)
+ - 🚯 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)<!-- MEMES:END -->
 
 --- 
 
