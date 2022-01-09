@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caught speeding](http://9gag.com/gag/aWg1DZZ)
- - 🚯 [That&amp;#039;s a good one!](http://9gag.com/gag/aPZjr3n)
+ - 🚖 [Coach was 0.12 seconds from getting fired](http://9gag.com/gag/aVx3R92)
+ - 🚯 [Just because you got good grades at school, doesn&amp;#039;t mean you&amp;#039;re smart in every aspect of life.](http://9gag.com/gag/aOQrR7R)
  - 🚯 [She loves that post](http://9gag.com/gag/aVx3Vrd)<!-- MEMES:END -->
 
 --- 
