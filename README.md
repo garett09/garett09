@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back when comedy wasn&amp;#039;t a PC hellscape](http://9gag.com/gag/aWg1oV6)
- - 🚯 [Doggo pulls Mission Impossible infiltration of cat&amp;#039;s turf](http://9gag.com/gag/azeXRKK)
+ - 🚖 [How ironic](http://9gag.com/gag/aM4jX16)
+ - 🚯 [Heart - &amp;quot;Barracuda&amp;quot;&lpar;1977&rpar;](http://9gag.com/gag/aOQrPO2)
  - 🚯 [A Wild Orca&amp;#039;s Teeth vs a Captive Orca who&amp;#039;s been chewing the sides of its pool due to stress.](http://9gag.com/gag/aM4jvgR)<!-- MEMES:END -->
 
 --- 
