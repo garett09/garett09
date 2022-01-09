@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just because you got good grades at school, doesn&amp;#039;t mean you&amp;#039;re smart in every aspect of life.](http://9gag.com/gag/aOQrR7R)
- - 🚯 [She loves that post](http://9gag.com/gag/aVx3Vrd)
- - 🚯 [How an Astronaut can get Stuck in Space if they have nothing to grab on to](http://9gag.com/gag/a61ojWL)<!-- MEMES:END -->
+ - 🚖 [How an Astronaut can get Stuck in Space if they have nothing to grab on to](http://9gag.com/gag/a61ojWL)
+ - 🚯 [That&amp;#039;s a good one!](http://9gag.com/gag/aPZjr3n)
+ - 🚯 [Who Remembers?](http://9gag.com/gag/aVx3RKM)<!-- MEMES:END -->
 
 --- 
 
