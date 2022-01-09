@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the opportunities and challenges of ultra-wideband, as UWB beacons see widespread adoption in smartphones, smartwatches, and other devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220109/p2#a220109p2)
- - [Strava CEO Michael Horvath says the app&#39;s revenue increased 68% YoY in 2021, suggesting a revenue of approximately $170M and a paid subscriber base of 2M to 3M &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220109/p1#a220109p1)
- - [How Ryan&#39;s World, launched in 2015 with a then three-year-old Ryan Kaji, grew into a content behemoth with 10 YouTube channels and deals with Amazon and others &lpar;Jay Caspian Kang/New York Times&rpar;](http://www.techmeme.com/220108/p6#a220108p6)<!-- TECH:END -->
+ - [Tropical Futurism Envisions the Climate of Our Fate](https://www.wired.com/story/futurism-climate-change-tropics-art)
+ - [How to Read Your iOS 15 App Privacy Report](https://www.wired.com/story/ios-15-app-privacy-report)
+ - [How to Watch Movies in Virtual Reality](https://www.wired.com/story/how-to-stream-movies-in-vr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
