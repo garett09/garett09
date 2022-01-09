@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swedish Siri tests point to upcoming HomePod mini release in Sweden](https://appleinsider.com/articles/22/01/09/swedish-siri-tests-point-to-upcoming-homepod-mini-release-in-sweden?utm_medium=rss)
- - [Shows like Ozark: What to watch while you wait for season 4](https://www.androidauthority.com/shows-like-ozark-3083711/)
- - [Tackle your fitness resolutions with up to 66% off home gym essentials     - CNET](https://www.cnet.com/health/fitness/tackle-your-fitness-resolutions-with-up-to-66-off-home-gym-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Open source developer corrupts widely-used libraries, affecting tons of projects](https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected)
+ - [Gurman: Apple&#39;s upcoming mixed reality headset will not be an all-day device and will be used for bursts of gaming, communication, and content consumption &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220109/p6#a220109p6)
+ - [Swedish Siri tests point to upcoming HomePod mini release in Sweden](https://appleinsider.com/articles/22/01/09/swedish-siri-tests-point-to-upcoming-homepod-mini-release-in-sweden?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
