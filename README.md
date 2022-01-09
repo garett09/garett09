@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smooth.](http://9gag.com/gag/angMvEq)
- - 🚯 [Hello World. My name is Lucy](http://9gag.com/gag/a11o00D)
- - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)<!-- MEMES:END -->
+ - 🚖 [That sound](http://9gag.com/gag/angMv5L)
+ - 🚯 [Arcs](http://9gag.com/gag/aVx3Kp8)
+ - 🚯 [And yet... People still believe the earth is flat.](http://9gag.com/gag/arngxy5)<!-- MEMES:END -->
 
 --- 
 
