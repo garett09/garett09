@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was the first video game villain that scared the crap out of you as a child?](http://9gag.com/gag/aAGx4qd)
- - 🚯 [Arcs](http://9gag.com/gag/aVx3Kp8)
- - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)<!-- MEMES:END -->
+ - 🚖 [You didn&amp;#039;t know you needed a Peppa scimitar until now.](http://9gag.com/gag/aXrx7GD)
+ - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)
+ - 🚯 [Welp, grandpa has a new family to care for](http://9gag.com/gag/a21oyGw)<!-- MEMES:END -->
 
 --- 
 
