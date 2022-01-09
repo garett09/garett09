@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tropical Futurism Envisions the Climate of Our Fate](https://www.wired.com/story/futurism-climate-change-tropics-art)
- - [How to Read Your iOS 15 App Privacy Report](https://www.wired.com/story/ios-15-app-privacy-report)
- - [How to Watch Movies in Virtual Reality](https://www.wired.com/story/how-to-stream-movies-in-vr)<!-- TECH:END -->
+ - [Profile of Anne Neuberger, the NSC deputy advisor at the center of increasing tension over control between US agencies handling cybersecurity &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/220109/p3#a220109p3)
+ - [The best Samsung Galaxy S21 FE alternatives: 5 phones to consider buying](https://www.androidauthority.com/samsung-galaxy-s21-fe-alternatives-3078743/)
+ - [Detailed Footage Finally Reveals What Triggers Lightning](https://www.wired.com/story/detailed-footage-finally-reveals-what-triggers-lightning)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
