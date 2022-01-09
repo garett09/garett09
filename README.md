@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sega will not proceed with NFT plan &#39;if it is perceived as simple money-making&#39;](https://www.pcgamer.com/sega-will-not-proceed-with-nft-plan-if-it-is-perceived-as-simple-money-making)
  - [See Final Fantasy 7 Remake with the original&#39;s fixed camera](https://www.pcgamer.com/see-final-fantasy-7-remake-with-the-originals-fixed-camera)
- - [Netflix is developing a Scott Pilgrim anime](https://www.pcgamer.com/netflix-is-developing-a-scott-pilgrim-anime)
- - [Here&#39;s gameplay of a dude fighting a cyber-dragon in soulslike Bleak Faith: Forsaken](https://www.pcgamer.com/heres-gameplay-of-a-dude-fighting-a-cyber-dragon-in-soulslike-bleak-faith-forsaken)<!-- GAME:END -->
+ - [Netflix is developing a Scott Pilgrim anime](https://www.pcgamer.com/netflix-is-developing-a-scott-pilgrim-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
