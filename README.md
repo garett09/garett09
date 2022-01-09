@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The science fiction and fantasy books we’re excited for in 2022](https://www.polygon.com/22870462/new-books-science-fiction-fantasy-2022)
  - [Sega will not proceed with NFT plan &#39;if it is perceived as simple money-making&#39;](https://www.pcgamer.com/sega-will-not-proceed-with-nft-plan-if-it-is-perceived-as-simple-money-making)
- - [See Final Fantasy 7 Remake with the original&#39;s fixed camera](https://www.pcgamer.com/see-final-fantasy-7-remake-with-the-originals-fixed-camera)
- - [Netflix is developing a Scott Pilgrim anime](https://www.pcgamer.com/netflix-is-developing-a-scott-pilgrim-anime)<!-- GAME:END -->
+ - [See Final Fantasy 7 Remake with the original&#39;s fixed camera](https://www.pcgamer.com/see-final-fantasy-7-remake-with-the-originals-fixed-camera)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
