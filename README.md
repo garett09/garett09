@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [She loves that post](http://9gag.com/gag/aVx3Vrd)
- - 🚯 [Idiot cut off lane in Sunny Scottsdale, AZ](http://9gag.com/gag/awzX4G1)
- - 🚯 [From early archives](http://9gag.com/gag/aGzj2LZ)<!-- MEMES:END -->
+ - 🚯 [From 682 pounds to 385 pounds in one year](http://9gag.com/gag/aPZjrRg)
+ - 🚯 [Emilia Clarke without makeup](http://9gag.com/gag/azeXZ1p)<!-- MEMES:END -->
 
 --- 
 
