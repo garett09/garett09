@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oprah Winfrey executive produces Sidney Poitier documentary for Apple](https://appleinsider.com/articles/22/01/09/oprah-winfrey-executive-produces-sidney-poitier-documentary-for-apple?utm_medium=rss)
- - [Victims of $200 million hack of BitMart crypto exchange still waiting to get their money back](https://www.theverge.com/2022/1/9/22874734/bitmart-crypto-hack-victims-200-million)
- - [The metaverse is &#39;off limits&#39; on Apple&#39;s VR headset, claims report](https://appleinsider.com/articles/22/01/09/apple-doesnt-want-headset-to-become-an-all-day-device-for-users?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals Jan 9: $229 Apple Watch SE, $370 16TB NAS drive, more!](https://appleinsider.com/articles/22/01/09/best-deals-jan-9-229-apple-watch-se-370-16tb-nas-drive-more?utm_medium=rss)
+ - [What is Moonlight and why should every PC gamer be using it?](https://www.androidauthority.com/moonlight-gaming-3075026/)
+ - [The Boys Season 3 teaser goes viral](https://techncruncher.blogspot.com/2022/01/the-boys-season-3-teaser-goes-viral.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
