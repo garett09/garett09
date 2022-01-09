@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ryan&#39;s World, launched in 2015 with a then three-year-old Ryan Kaji, grew into a content behemoth with 10 YouTube channels and deals with Amazon and others &lpar;Jay Caspian Kang/New York Times&rpar;](http://www.techmeme.com/220108/p6#a220108p6)
  - [Roblox shuts down Chinese mobile app to work on a new version](https://www.theverge.com/2022/1/8/22873891/roblox-china-shut-down-new-version)
- - [YouTube TV vs Hulu: Which live TV streamer is your best bet?](https://www.androidauthority.com/youtube-tv-vs-hulu-3074947/)
- - [Canon ink cartridges become an unexpected chip shortage victim](https://appleinsider.com/articles/22/01/08/canon-ink-cartridges-become-an-unexpected-chip-shortage-victim?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube TV vs Hulu: Which live TV streamer is your best bet?](https://www.androidauthority.com/youtube-tv-vs-hulu-3074947/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
