@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open source developer corrupts widely-used libraries, affecting tons of projects](https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected)
- - [Gurman: Apple&#39;s upcoming mixed reality headset will not be an all-day device and will be used for bursts of gaming, communication, and content consumption &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220109/p6#a220109p6)
- - [Swedish Siri tests point to upcoming HomePod mini release in Sweden](https://appleinsider.com/articles/22/01/09/swedish-siri-tests-point-to-upcoming-homepod-mini-release-in-sweden?utm_medium=rss)<!-- TECH:END -->
+ - [Worldle explained: Tips, tricks and everything you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [More people need to watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/more-people-need-to-watch-the-best-tv-show-on-netflix-dark/#ftag=CAD590a51e)
+ - [Amazon Smart Plug review: Plug-and-play for Alexa diehards](https://www.androidauthority.com/amazon-smart-plug-review-3075797/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
