@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She loves that post](http://9gag.com/gag/aVx3Vrd)
- - 🚯 [From 682 pounds to 385 pounds in one year](http://9gag.com/gag/aPZjrRg)
- - 🚯 [Emilia Clarke without makeup](http://9gag.com/gag/azeXZ1p)<!-- MEMES:END -->
+ - 🚖 [Caught speeding](http://9gag.com/gag/aWg1DZZ)
+ - 🚯 [That&amp;#039;s a good one!](http://9gag.com/gag/aPZjr3n)
+ - 🚯 [She loves that post](http://9gag.com/gag/aVx3Vrd)<!-- MEMES:END -->
 
 --- 
 
