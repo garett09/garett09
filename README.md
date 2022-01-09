@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heart - &amp;quot;Barracuda&amp;quot;&lpar;1977&rpar;](http://9gag.com/gag/aOQrPO2)
- - 🚯 [A Wild Orca&amp;#039;s Teeth vs a Captive Orca who&amp;#039;s been chewing the sides of its pool due to stress.](http://9gag.com/gag/aM4jvgR)
- - 🚯 [It&amp;#039;s a trap!](http://9gag.com/gag/aDDxVq9)<!-- MEMES:END -->
+ - 🚖 [Labor of love......](http://9gag.com/gag/aPZjXeG)
+ - 🚯 [Brazilian police have the best approaches.](http://9gag.com/gag/aQX32b7)
+ - 🚯 [Idiot cut off lane in Sunny Scottsdale, AZ](http://9gag.com/gag/awzX4G1)<!-- MEMES:END -->
 
 --- 
 
