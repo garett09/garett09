@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Top Gear in skyrim](http://9gag.com/gag/adgK2Kj)
- - 🚯 [The toe !!!!!](http://9gag.com/gag/a71MNdw)
- - 🚯 [A cruise ship diesel engine with 109,000 horsepowers weighing 23,000 tons](http://9gag.com/gag/a51ojXO)<!-- MEMES:END -->
+ - 🚖 [The toe !!!!!](http://9gag.com/gag/a71MNdw)
+ - 🚯 [A cruise ship diesel engine with 109,000 horsepowers weighing 23,000 tons](http://9gag.com/gag/a51ojXO)
+ - 🚯 [Idiot cut off lane in Sunny Scottsdale, AZ](http://9gag.com/gag/awzX4G1)<!-- MEMES:END -->
 
 --- 
 
