@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunday Comics: I Did It!](https://kotaku.com/sunday-comics-i-did-it-1848328753)
- - [The Witcher’s Geralt has ascended to the TV dad pantheon](https://www.polygon.com/22872231/the-witcher-henry-cavill-fatherhood)
- - [The science fiction and fantasy books we’re excited for in 2022](https://www.polygon.com/22870462/new-books-science-fiction-fantasy-2022)<!-- GAME:END -->
+ - [Red Notice might be last year’s biggest visual effects triumph?](https://www.polygon.com/22874911/red-notice-the-rock-ryan-reynolds-visual-effects)
+ - [Awesome Games Done Quick 2022 Starts Today, Here’s How To Watch](https://kotaku.com/awesome-games-done-quick-2022-starts-today-here-s-how-1848328843)
+ - [Sunday Comics: I Did It!](https://kotaku.com/sunday-comics-i-did-it-1848328753)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
