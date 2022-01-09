@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Labor of love......](http://9gag.com/gag/aPZjXeG)
- - 🚯 [Brazilian police have the best approaches.](http://9gag.com/gag/aQX32b7)
- - 🚯 [Idiot cut off lane in Sunny Scottsdale, AZ](http://9gag.com/gag/awzX4G1)<!-- MEMES:END -->
+ - 🚖 [One of few things that keeps me going through life. Any feedback is appreciated.](http://9gag.com/gag/aWg12zq)
+ - 🚯 [Top Gear in skyrim](http://9gag.com/gag/adgK2Kj)
+ - 🚯 [Brazilian police have the best approaches.](http://9gag.com/gag/aQX32b7)<!-- MEMES:END -->
 
 --- 
 
