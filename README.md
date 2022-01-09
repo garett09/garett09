@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)
- - 🚯 [Addicted to rocks](http://9gag.com/gag/angMxWq)
- - 🚯 [Doggo pulls Mission Impossible infiltration of cat&amp;#039;s turf](http://9gag.com/gag/azeXRKK)<!-- MEMES:END -->
+ - 🚖 [Smart TV, Dumb PPL](http://9gag.com/gag/apg2x29)
+ - 🚯 [If you&amp;rsquo;re going to offend a group of people, make sure you offend everybody, or no one at all](http://9gag.com/gag/aggX47q)
+ - 🚯 [She deserved that](http://9gag.com/gag/amg7mEo)<!-- MEMES:END -->
 
 --- 
 
