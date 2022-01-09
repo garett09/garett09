@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The metaverse is &#39;off limits&#39; on Apple&#39;s VR headset, claims report](https://appleinsider.com/articles/22/01/09/apple-doesnt-want-headset-to-become-an-all-day-device-for-users?utm_medium=rss)
- - [The iPhone turns 15 today, but what else was new in 2007’s world of tech?](https://www.androidauthority.com/iphone-turns-15-3085759/)
- - [Green texts in iMessages nudge teens to use iPhones](https://appleinsider.com/articles/22/01/08/green-texts-in-imessages-nudges-teens-to-use-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Oprah Winfrey executive produces Sidney Poitier documentary for Apple](https://appleinsider.com/articles/22/01/09/oprah-winfrey-executive-produces-sidney-poitier-documentary-for-apple?utm_medium=rss)
+ - [Victims of $200 million hack of BitMart crypto exchange still waiting to get their money back](https://www.theverge.com/2022/1/9/22874734/bitmart-crypto-hack-victims-200-million)
+ - [The metaverse is &#39;off limits&#39; on Apple&#39;s VR headset, claims report](https://appleinsider.com/articles/22/01/09/apple-doesnt-want-headset-to-become-an-all-day-device-for-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
