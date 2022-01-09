@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify blows through 2021 HiFi streaming deadline, with no release in sight](https://appleinsider.com/articles/22/01/09/spotify-blows-through-2021-hifi-streaming-deadline-with-no-release-in-sight?utm_medium=rss)
- - [A look at the turmoil inside Pudgy Penguins, one of the most successful NFT projects, as community members clash with founders over the future of the project &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220109/p5#a220109p5)
- - [Best deals Jan 9: $229 Apple Watch SE, $370 16TB NAS drive, more!](https://appleinsider.com/articles/22/01/09/best-deals-jan-9-229-apple-watch-se-370-16tb-nas-drive-more?utm_medium=rss)<!-- TECH:END -->
+ - [Shows like Ozark: What to watch while you wait for season 4](https://www.androidauthority.com/shows-like-ozark-3083711/)
+ - [Tackle your fitness resolutions with up to 66% off home gym essentials     - CNET](https://www.cnet.com/health/fitness/tackle-your-fitness-resolutions-with-up-to-66-off-home-gym-essentials/#ftag=CAD590a51e)
+ - [Every vehicle you own should have one of these discounted emergency kits in it     - CNET](https://www.cnet.com/news/every-vehicle-you-own-should-have-one-of-these-discounted-emergency-kits-in-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
