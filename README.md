@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worldle explained: Tips, tricks and everything you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-everything-you-need-to-know/#ftag=CAD590a51e)
- - [More people need to watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/more-people-need-to-watch-the-best-tv-show-on-netflix-dark/#ftag=CAD590a51e)
- - [Amazon Smart Plug review: Plug-and-play for Alexa diehards](https://www.androidauthority.com/amazon-smart-plug-review-3075797/)<!-- TECH:END -->
+ - [Matter, the smart home standard backed by Apple, Amazon, Google, Samsung, and others, gained significant momentum at CES, with ~30 companies showcasing support &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/220109/p7#a220109p7)
+ - [YouTube TV vs Sling TV: Which live TV streaming service is right for you?](https://www.androidauthority.com/youtube-tv-vs-sling-tv-3085182/)
+ - [Worldle explained: Tips, tricks and everything you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
