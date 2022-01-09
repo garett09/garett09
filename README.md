@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s Half-Life with ray tracing](https://www.pcgamer.com/heres-half-life-with-ray-tracing)
  - [Paul Dano’s ‘DIY’ Riddler from The Batman hopes to give the villain a clearer identity](https://www.polygon.com/22874908/the-batman-riddler-costume-actor-paul-dano-2022)
- - [Red Dead Online Players Are Frustrated After Months Without A Major Update](https://kotaku.com/red-dead-online-players-are-frustrated-after-months-wit-1848329178)
- - [Red Notice might be last year’s biggest visual effects triumph?](https://www.polygon.com/22874911/red-notice-the-rock-ryan-reynolds-visual-effects)<!-- GAME:END -->
+ - [Red Dead Online Players Are Frustrated After Months Without A Major Update](https://kotaku.com/red-dead-online-players-are-frustrated-after-months-wit-1848329178)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
