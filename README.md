@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That sound](http://9gag.com/gag/angMv5L)
+ - 🚖 [Who was the first video game villain that scared the crap out of you as a child?](http://9gag.com/gag/aAGx4qd)
  - 🚯 [Arcs](http://9gag.com/gag/aVx3Kp8)
- - 🚯 [And yet... People still believe the earth is flat.](http://9gag.com/gag/arngxy5)<!-- MEMES:END -->
+ - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)<!-- MEMES:END -->
 
 --- 
 
