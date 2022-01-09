@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You didn&amp;#039;t know you needed a Peppa scimitar until now.](http://9gag.com/gag/aXrx7GD)
- - 🚯 [Yes but](http://9gag.com/gag/aVx3mwn)
- - 🚯 [Welp, grandpa has a new family to care for](http://9gag.com/gag/a21oyGw)<!-- MEMES:END -->
+ - 🚖 [These car headlight popping up](http://9gag.com/gag/aVx3ZyP)
+ - 🚯 [You didn&amp;#039;t know you needed a Peppa scimitar until now.](http://9gag.com/gag/aXrx7GD)
+ - 🚯 [Addicted to rocks](http://9gag.com/gag/angMxWq)<!-- MEMES:END -->
 
 --- 
 
