@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coach was 0.12 seconds from getting fired](http://9gag.com/gag/aVx3R92)
- - 🚯 [Just because you got good grades at school, doesn&amp;#039;t mean you&amp;#039;re smart in every aspect of life.](http://9gag.com/gag/aOQrR7R)
- - 🚯 [She loves that post](http://9gag.com/gag/aVx3Vrd)<!-- MEMES:END -->
+ - 🚖 [Just because you got good grades at school, doesn&amp;#039;t mean you&amp;#039;re smart in every aspect of life.](http://9gag.com/gag/aOQrR7R)
+ - 🚯 [She loves that post](http://9gag.com/gag/aVx3Vrd)
+ - 🚯 [How an Astronaut can get Stuck in Space if they have nothing to grab on to](http://9gag.com/gag/a61ojWL)<!-- MEMES:END -->
 
 --- 
 
