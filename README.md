@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan 9: $229 Apple Watch SE, $370 16TB NAS drive, more!](https://appleinsider.com/articles/22/01/09/best-deals-jan-9-229-apple-watch-se-370-16tb-nas-drive-more?utm_medium=rss)
- - [What is Moonlight and why should every PC gamer be using it?](https://www.androidauthority.com/moonlight-gaming-3075026/)
- - [The Boys Season 3 teaser goes viral](https://techncruncher.blogspot.com/2022/01/the-boys-season-3-teaser-goes-viral.html)<!-- TECH:END -->
+ - [Spotify blows through 2021 HiFi streaming deadline, with no release in sight](https://appleinsider.com/articles/22/01/09/spotify-blows-through-2021-hifi-streaming-deadline-with-no-release-in-sight?utm_medium=rss)
+ - [A look at the turmoil inside Pudgy Penguins, one of the most successful NFT projects, as community members clash with founders over the future of the project &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220109/p5#a220109p5)
+ - [Best deals Jan 9: $229 Apple Watch SE, $370 16TB NAS drive, more!](https://appleinsider.com/articles/22/01/09/best-deals-jan-9-229-apple-watch-se-370-16tb-nas-drive-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
