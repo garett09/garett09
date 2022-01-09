@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of few things that keeps me going through life. Any feedback is appreciated.](http://9gag.com/gag/aWg12zq)
- - 🚯 [Top Gear in skyrim](http://9gag.com/gag/adgK2Kj)
- - 🚯 [Brazilian police have the best approaches.](http://9gag.com/gag/aQX32b7)<!-- MEMES:END -->
+ - 🚖 [Top Gear in skyrim](http://9gag.com/gag/adgK2Kj)
+ - 🚯 [The toe !!!!!](http://9gag.com/gag/a71MNdw)
+ - 🚯 [A cruise ship diesel engine with 109,000 horsepowers weighing 23,000 tons](http://9gag.com/gag/a51ojXO)<!-- MEMES:END -->
 
 --- 
 
