@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How an Astronaut can get Stuck in Space if they have nothing to grab on to](http://9gag.com/gag/a61ojWL)
- - 🚯 [That&amp;#039;s a good one!](http://9gag.com/gag/aPZjr3n)
- - 🚯 [Who Remembers?](http://9gag.com/gag/aVx3RKM)<!-- MEMES:END -->
+ - 🚖 [We and the pandemic&amp;hellip;](http://9gag.com/gag/aPZjngG)
+ - 🚯 [Inflation in Venezuela is so high, to make 1 dollar you need 4000 of these bills, money is worth nothing](http://9gag.com/gag/abgMQ1p)
+ - 🚯 [From 682 pounds to 385 pounds in one year](http://9gag.com/gag/aPZjrRg)<!-- MEMES:END -->
 
 --- 
 
