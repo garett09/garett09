@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ryan&#39;s World, launched in 2015 with a then three-year-old Ryan Kaji, grew into a content behemoth with 10 YouTube channels and deals with Amazon and others &lpar;Jay Caspian Kang/New York Times&rpar;](http://www.techmeme.com/220108/p6#a220108p6)
- - [Roblox shuts down Chinese mobile app to work on a new version](https://www.theverge.com/2022/1/8/22873891/roblox-china-shut-down-new-version)
- - [YouTube TV vs Hulu: Which live TV streamer is your best bet?](https://www.androidauthority.com/youtube-tv-vs-hulu-3074947/)<!-- TECH:END -->
+ - [A look at the opportunities and challenges of ultra-wideband, as UWB beacons see widespread adoption in smartphones, smartwatches, and other devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220109/p2#a220109p2)
+ - [Strava CEO Michael Horvath says the app&#39;s revenue increased 68% YoY in 2021, suggesting a revenue of approximately $170M and a paid subscriber base of 2M to 3M &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220109/p1#a220109p1)
+ - [How Ryan&#39;s World, launched in 2015 with a then three-year-old Ryan Kaji, grew into a content behemoth with 10 YouTube channels and deals with Amazon and others &lpar;Jay Caspian Kang/New York Times&rpar;](http://www.techmeme.com/220108/p6#a220108p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
