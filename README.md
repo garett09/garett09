@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox shuts down Chinese mobile app to work on a new version](https://www.theverge.com/2022/1/8/22873891/roblox-china-shut-down-new-version)
  - [YouTube TV vs Hulu: Which live TV streamer is your best bet?](https://www.androidauthority.com/youtube-tv-vs-hulu-3074947/)
- - [Canon ink cartridges become an unexpected chip shortage victim](https://appleinsider.com/articles/22/01/08/canon-ink-cartridges-become-an-unexpected-chip-shortage-victim?utm_medium=rss)
- - [FAA lists 50 airports that will have 5G buffer zones ahead of C-band expansion](https://www.theverge.com/2022/1/8/22873765/faa-verizon-att-airport-5g-carriers-buffer-zone)<!-- TECH:END -->
+ - [Canon ink cartridges become an unexpected chip shortage victim](https://appleinsider.com/articles/22/01/08/canon-ink-cartridges-become-an-unexpected-chip-shortage-victim?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
