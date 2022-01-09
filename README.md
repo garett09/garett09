@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Profile of Anne Neuberger, the NSC deputy advisor at the center of increasing tension over control between US agencies handling cybersecurity &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/220109/p3#a220109p3)
  - [The best Samsung Galaxy S21 FE alternatives: 5 phones to consider buying](https://www.androidauthority.com/samsung-galaxy-s21-fe-alternatives-3078743/)
- - [Detailed Footage Finally Reveals What Triggers Lightning](https://www.wired.com/story/detailed-footage-finally-reveals-what-triggers-lightning)<!-- TECH:END -->
+ - [The iPhone at 15: Steve Jobs revealed his greatest product 15 years ago     - CNET](https://www.cnet.com/tech/mobile/the-iphone-at-15-steve-jobs-revealed-his-great-product-15-years-ago/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
