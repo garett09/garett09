@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quarantine zone in China?](http://9gag.com/gag/ajgE3Z1)
- - 🚯 [How would you react?](http://9gag.com/gag/a4178rZ)
- - 🚯 [Journalism](http://9gag.com/gag/aAGx7Gp)<!-- MEMES:END -->
+ - 🚖 [Chinese Food Cooking Oil 2021 ... She says She&amp;#039;s even officially approved ... No way I&amp;#039;m eating any Chinese street food in my China tour.](http://9gag.com/gag/aXrx3Y2)
+ - 🚯 [Dads are always more fun](http://9gag.com/gag/angMZO0)
+ - 🚯 [Having a mistress, Japan](http://9gag.com/gag/aWg1ejx)<!-- MEMES:END -->
 
 --- 
 
