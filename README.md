@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Or too much masturbation](http://9gag.com/gag/aegMPMB)
- - 🚯 [Whole hour of labour finally paid off](http://9gag.com/gag/adgK43B)
+ - 🚖 [Its the law](http://9gag.com/gag/aGzj6E7)
+ - 🚯 [Boss: The task is not that hard. The task:](http://9gag.com/gag/a0ZKxyX)
  - 🚯 [My turn now..](http://9gag.com/gag/aNP125v)<!-- MEMES:END -->
 
 --- 
