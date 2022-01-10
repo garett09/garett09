@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Am i a joke to you??](http://9gag.com/gag/aVx3d3K)
- - 🚯 [Fix it](http://9gag.com/gag/aQX3rgW)
- - 🚯 [Traps that were used in the Vietnam War.](http://9gag.com/gag/a31Kxr3)<!-- MEMES:END -->
+ - 🚖 [Guy, it&amp;rsquo;s 04:00 am, i&amp;rsquo;m waiting my first daughter.. New start !](http://9gag.com/gag/a91pN7K)
+ - 🚯 [Cholesterol goes brrrr](http://9gag.com/gag/aVx31ev)
+ - 🚯 [Is it me or are black tiled pools terrifying?](http://9gag.com/gag/a71MGRb)<!-- MEMES:END -->
 
 --- 
 
