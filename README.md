@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 MacBook Air, M1 iMac models with 16GB RAM are up to $150 off, in stock](https://appleinsider.com/articles/22/01/10/5-macbook-air-m1-imac-models-with-16gb-ram-are-up-to-150-off-in-stock?utm_medium=rss)
- - [You can&#39;t hail an Uber from your Apple Watch anymore](https://appleinsider.com/articles/22/01/10/you-cant-hail-an-uber-from-your-apple-watch-anymore?utm_medium=rss)
- - [Sources: Tiger Global Management&#39;s hedge fund tumbled 7% last year, its first annual loss since 2016 when it declined 15% &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/220110/p29#a220110p29)<!-- TECH:END -->
+ - [T-Mobile blocking Apple&#39;s iCloud Private Relay for some - but it&#39;s complicated](https://appleinsider.com/articles/22/01/10/t-mobile-may-have-started-apples-icloud-private-relay-in-the-us?utm_medium=rss)
+ - [A look at China&#39;s HSMC and QXIC, now-defunct chipmakers that received hundreds of millions of dollars from the Chinese government yet failed to make any chips &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p30#a220110p30)
+ - [Why Take-Two wants to pay nearly $13 billion for the maker of FarmVille](https://www.theverge.com/2022/1/10/22877117/take-two-zynga-acquisition-13-billion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
