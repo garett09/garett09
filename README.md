@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prototype, Dying Light, Wolfenstein... It&amp;#039;s just stupid](http://9gag.com/gag/aXrxQM6)
- - 🚯 [Uh, i can explain.. mathematically](http://9gag.com/gag/a21o9XE)
- - 🚯 [He&amp;rsquo;s there for you Jessica.](http://9gag.com/gag/aggX6Gg)<!-- MEMES:END -->
+ - 🚖 [The remains of an Ichthyosaur have been uncovered in Rutland, England. Ichthyosaur lived between 250-90 million years ago, and could grow to be 13 metres &lpar;43 feet&rpar; long. The specimen discovered in this photo was 10 metres long, and is the largest discovery of its kind in the U.K.](http://9gag.com/gag/angM86z)
+ - 🚯 [That would be crazy](http://9gag.com/gag/aM4j0bM)
+ - 🚯 [Whole hour of labour finally paid off](http://9gag.com/gag/adgK43B)<!-- MEMES:END -->
 
 --- 
 
