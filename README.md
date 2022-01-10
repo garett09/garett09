@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bob Saget, star of Full House, dies aged 65     - CNET](https://www.cnet.com/news/bob-saget-star-of-full-house-dies-aged-65/#ftag=CAD590a51e)
- - [Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-series-to-binge-this-week/#ftag=CAD590a51e)
- - [How Apple could radically improve its money management services: expand Apple Card beyond US, add checking and savings accounts, ambitiously expand Wallet, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220109/p9#a220109p9)<!-- TECH:END -->
+ - [A roundup of Samsung Galaxy S22 series leaks, including specs, an unboxing video of dummy units, and an alleged image of the S22 Ultra&#39;s 45W fast charger &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220109/p10#a220109p10)
+ - [Golden Globes 2022: All the winners, updated live     - CNET](https://www.cnet.com/news/golden-globes-2022-all-the-winners-updated-live/#ftag=CAD590a51e)
+ - [NASA Perseverance Mars rover has crud obstructing its rock sample system     - CNET](https://www.cnet.com/news/nasa-perseverance-mars-rover-has-decris-obstructing-its-rock-sample-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
