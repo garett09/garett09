@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We and the pandemic&amp;hellip;](http://9gag.com/gag/aPZjngG)
- - 🚯 [Coach was 0.12 seconds from getting fired](http://9gag.com/gag/aVx3R92)
- - 🚯 [On today&amp;#039;s episode of keeping up with China, China made a fake propaganda video on their last year clash with Indian army. Now China arrests 15 Weibo users for revealing identity of film actors who were acting as real Chinese soldiers.](http://9gag.com/gag/a11ow8w)<!-- MEMES:END -->
+ - 🚖 [Weird thing I&amp;#039;ve seen in the US. They have rear control stoves! Thanks but I&amp;#039;ll pass on the 3rd degree burns on my arms.](http://9gag.com/gag/a81oKZ3)
+ - 🚯 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
+ - 🚯 [Worst feel](http://9gag.com/gag/aZr3v66)<!-- MEMES:END -->
 
 --- 
 
