@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU data watchdog orders Europol to delete a vast trove of personal data it obtained unlawfully; internal documents show Europol has around 4PB of data &lpar;The Guardian&rpar;](http://www.techmeme.com/220110/p11#a220110p11)
- - [Peru&#39;s Interbank briefly announces Apple Pay support, then pulls it](https://appleinsider.com/articles/22/01/10/perus-interbank-briefly-announces-apple-pay-support-then-pulls-it?utm_medium=rss)
- - [When Mind Melds With Machine, Who’s in Control?](https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface)<!-- TECH:END -->
+ - [You told us: It’s time for flagships to ditch the 128GB base storage option](https://www.androidauthority.com/smartphone-storage-poll-results-3086455/)
+ - [A New Document Reveals More of Google&#39;s Anti-Union Strategy](https://www.wired.com/story/document-reveals-more-google-anti-union-strategy)
+ - [Snag a Sonos Beam 2 refurbished for almost $50 off](https://www.theverge.com/good-deals/2022/1/10/22876165/sonos-beam-2-soundbar-amazon-echo-show-5-ps5-game-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
