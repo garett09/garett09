@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Display’s new QD-OLED panel can hit 1,000 nits brightness for improved HDR](https://www.theverge.com/2022/1/10/22876061/samsung-qd-oled-quantum-dot-tv-panels-sgs-certification-brightness-color-viewing-angles)
- - [Samsung Galaxy S21 FE lands in India for Rs 50,000](https://www.androidauthority.com/samsung-galaxy-s21-fe-india-3086549/)
- - [French startup Ankorstore, an online wholesale marketplace for independent retailers across Europe, raises a &amp;euro;250M Series C at a &amp;euro;1.75B post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220110/p3#a220110p3)<!-- TECH:END -->
+ - [Google says Apple ‘should not benefit from bullying’ created by iMessage lock-in](https://www.theverge.com/2022/1/10/22876067/google-apple-ios-android-imessages-bullying-lockheimer)
+ - [Despite China&#39;s sweeping crackdown on the tech industry over the summer, VC investments in China reached an estimated $130.6B in 2021, up from $86.7B in 2020 &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220110/p4#a220110p4)
+ - [EU carriers want Apple&#39;s Private Relay blocked](https://appleinsider.com/articles/22/01/10/eu-carriers-want-apples-private-relay-blocked?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
