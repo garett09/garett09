@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [We and the pandemic&amp;hellip;](http://9gag.com/gag/aPZjngG)
- - 🚯 [Inflation in Venezuela is so high, to make 1 dollar you need 4000 of these bills, money is worth nothing](http://9gag.com/gag/abgMQ1p)
- - 🚯 [From 682 pounds to 385 pounds in one year](http://9gag.com/gag/aPZjrRg)<!-- MEMES:END -->
+ - 🚯 [Coach was 0.12 seconds from getting fired](http://9gag.com/gag/aVx3R92)
+ - 🚯 [On today&amp;#039;s episode of keeping up with China, China made a fake propaganda video on their last year clash with Indian army. Now China arrests 15 Weibo users for revealing identity of film actors who were acting as real Chinese soldiers.](http://9gag.com/gag/a11ow8w)<!-- MEMES:END -->
 
 --- 
 
