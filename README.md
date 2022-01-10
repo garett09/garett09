@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird thing I&amp;#039;ve seen in the US. They have rear control stoves! Thanks but I&amp;#039;ll pass on the 3rd degree burns on my arms.](http://9gag.com/gag/a81oKZ3)
- - 🚯 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
- - 🚯 [Worst feel](http://9gag.com/gag/aZr3v66)<!-- MEMES:END -->
+ - 🚖 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
+ - 🚯 [Am i a joke to you??](http://9gag.com/gag/aVx3d3K)
+ - 🚯 [Vehicles vs gaurd rails simulation](http://9gag.com/gag/aAGxZ30)<!-- MEMES:END -->
 
 --- 
 
