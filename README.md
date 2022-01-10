@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy, it&amp;rsquo;s 04:00 am, i&amp;rsquo;m waiting my first daughter.. New start !](http://9gag.com/gag/a91pN7K)
- - 🚯 [Traps that were used in the Vietnam War.](http://9gag.com/gag/a31Kxr3)
- - 🚯 [Im kinda done with adulthood.](http://9gag.com/gag/a81ozvO)<!-- MEMES:END -->
+ - 🚖 [Man jumps of a burning motorcycle](http://9gag.com/gag/a21ojG9)
+ - 🚯 [I dream of a life far away from my real life. Greetings from Romania!](http://9gag.com/gag/aNP12w0)
+ - 🚯 [My turn now..](http://9gag.com/gag/aNP125v)<!-- MEMES:END -->
 
 --- 
 
