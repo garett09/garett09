@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GPU shipments are expected to rise 10% in 2022](https://www.pcgamer.com/gpu-shipments-are-expected-to-rise-10-in-2022)
  - [HP&#39;s new Victus 15L Desktop courts gamers on a budget](https://www.pcgamer.com/hps-new-victus-15l-desktop-courts-gamers-on-a-budget)
- - [Alienware&#39;s Concept Nyx game server box software to aggregate and stream from all stores](https://www.pcgamer.com/alienwares-concept-nyx-game-server-box-software-to-aggregate-and-stream-from-all-stores)
- - [Norton installs an Ethereum crypto miner with its 360 security suite](https://www.pcgamer.com/norton-installs-an-ethereum-crypto-miner-with-its-360-security-suite)<!-- GAME:END -->
+ - [Alienware&#39;s Concept Nyx game server box software to aggregate and stream from all stores](https://www.pcgamer.com/alienwares-concept-nyx-game-server-box-software-to-aggregate-and-stream-from-all-stores)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
