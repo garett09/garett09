@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 14-inch MacBook Pros with 32GB RAM are $150 off, in stock](https://appleinsider.com/articles/22/01/10/these-14-inch-macbook-pros-with-32gb-ram-are-150-off-in-stock?utm_medium=rss)
- - [Golden Globes 2022: The full list of winners     - CNET](https://www.cnet.com/news/golden-globes-2022-the-full-list-of-winners/#ftag=CAD590a51e)
- - [Roblox&#39;s aim of encouraging children to make games has been its key to success but is fraught with dangers, as some face stress, burnout, and exploitation &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/220109/p11#a220109p11)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Here’s when the Galaxy S22 series could launch, go on sale](https://www.androidauthority.com/galaxy-s22-series-launch-details-3083248/)
+ - [Frustration with Covid-19 policies and crime have recently led many tech workers in San Francisco to engage in local politics for the first time &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220110/p1#a220110p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
