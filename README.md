@@ -196,8 +196,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Russia](http://9gag.com/gag/aegME6Q)
- - 🚯 [Learn to ride a bike with cgi](http://9gag.com/gag/ay9XmRW)
- - 🚯 [These cats know exactly what the dog is up to](http://9gag.com/gag/azeXvqj)<!-- MEMES:END -->
+ - 🚯 [That would be crazy](http://9gag.com/gag/aM4j0bM)
+ - 🚯 [Top 10 anime battles.](http://9gag.com/gag/ajgEjBR)<!-- MEMES:END -->
 
 --- 
 
