@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: God of War and Monster Hunter Arrive On PC](https://kotaku.com/the-week-in-games-god-of-war-and-monster-hunter-arrive-1848329607)
- - [Elden Ring character creation leaks](https://www.pcgamer.com/elden-ring-character-creation-leaks)
- - [Here&#39;s a big update on Gloomwood, that neo-Victorian stealth horror game](https://www.pcgamer.com/heres-a-big-update-on-gloomwood-that-neo-victorian-stealth-horror-game)<!-- GAME:END -->
+ - [The Troop is a promising new small-scale World War 2 wargame](https://www.pcgamer.com/the-troop-is-a-promising-new-small-scale-world-war-2-wargame)
+ - [Rust has now sold over 12 million copies](https://www.pcgamer.com/rust-has-now-sold-over-12-million-copies)
+ - [The Week In Games: God of War and Monster Hunter Arrive On PC](https://kotaku.com/the-week-in-games-god-of-war-and-monster-hunter-arrive-1848329607)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
