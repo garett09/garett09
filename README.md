@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3D-printed bendable OLEDs could one day mean cheaper OLED gaming monitors](https://www.pcgamer.com/3d-printed-bendable-oleds-could-one-day-mean-cheaper-oled-gaming-monitors)
- - [I can&#39;t get excited for an RTX 3080 12GB, even if Nvidia announces one tomorrow](https://www.pcgamer.com/i-cant-get-excited-for-an-rtx-3080-12gb-even-if-nvidia-announces-one-tomorrow)
- - [The state of Apex Legends in 2022: Brilliant, but sometimes broken](https://www.pcgamer.com/the-state-of-apex-legends-in-2022-brilliant-but-sometimes-broken)<!-- GAME:END -->
+ - [Superman &amp; Lois made the Man of Steel’s messiest story beautiful](https://www.polygon.com/22872814/superman-lois-season-1-episodes-recap-review)
+ - [Golden Globe winners announced, despite a complete Hollywood boycott](https://www.polygon.com/22875427/golden-globes-winners-2021)
+ - [3D-printed bendable OLEDs could one day mean cheaper OLED gaming monitors](https://www.pcgamer.com/3d-printed-bendable-oleds-could-one-day-mean-cheaper-oled-gaming-monitors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
