@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter, the smart home standard backed by Apple, Amazon, Google, Samsung, and others, gained significant momentum at CES, with ~30 companies showcasing support &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/220109/p7#a220109p7)
- - [YouTube TV vs Sling TV: Which live TV streaming service is right for you?](https://www.androidauthority.com/youtube-tv-vs-sling-tv-3085182/)
- - [Worldle explained: Tips, tricks and everything you need to know     - CNET](https://www.cnet.com/news/worldle-explained-tips-tricks-and-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Mandalorian Could Use a Watson](https://www.wired.com/2020/01/geeks-guide-the-mandalorian)
+ - [Tesla’s ‘Full Self-Driving’ beta has an ‘assertive’ driving mode that ‘may perform rolling stops’](https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile)
+ - [An open-source developer, who expressed regret for supporting &quot;Fortune 500s&quot;, breaks ~19K projects by corrupting NPM libraries with millions of weekly downloads &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/220109/p8#a220109p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
