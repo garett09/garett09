@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Betty White tribute is coming to Twitch in the form of a Golden Girls role-playing game](https://www.polygon.com/tabletop-games/22877033/betty-white-twitch-tribute-actual-play-ttrpg)
- - [Top Twitch Streamer Amouranth Buys Inflatable Pool Company](https://kotaku.com/top-twitch-streamer-amouranth-buys-inflatable-pool-comp-1848334807)
- - [Encanto soundtrack reaches the top of the Billboard 100](https://www.polygon.com/22877110/encanto-billboard-100-soundtrack)<!-- GAME:END -->
+ - [The Metaverse Is Already Here For Cows And It’s Very Sad](https://kotaku.com/the-metaverse-is-already-here-for-cows-and-it-s-very-sa-1848335331)
+ - [Spectacular Vid Showcases Evolution Of Godzilla&#39;s Iconic Atomic Breath](https://kotaku.com/spectacular-vid-showcases-evolution-of-godzillas-iconic-1848335213)
+ - [Launch hot dogs across the sea in this throwback to Flash-era games](https://www.polygon.com/22876387/flash-games-catapult-games-berserk-studio-ghibli)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
