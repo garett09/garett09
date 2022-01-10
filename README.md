@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Guy, it&amp;rsquo;s 04:00 am, i&amp;rsquo;m waiting my first daughter.. New start !](http://9gag.com/gag/a91pN7K)
- - 🚯 [Cholesterol goes brrrr](http://9gag.com/gag/aVx31ev)
- - 🚯 [Is it me or are black tiled pools terrifying?](http://9gag.com/gag/a71MGRb)<!-- MEMES:END -->
+ - 🚯 [Traps that were used in the Vietnam War.](http://9gag.com/gag/a31Kxr3)
+ - 🚯 [Im kinda done with adulthood.](http://9gag.com/gag/a81ozvO)<!-- MEMES:END -->
 
 --- 
 
