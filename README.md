@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crossword puzzles, and their intended audience, are evolving](https://www.polygon.com/22876508/crosswords-ny-times-diverse-crossword-constructor-fellowship)
- - [Days Gone developer talks about all the things Sony wasn’t interested in](https://www.polygon.com/22877005/days-gone-2-sequel-pitched-sony-bend-resistance-reboot)
- - [Xbox Boss Not Interested In &#39;Virtue Shaming&#39; Activision](https://kotaku.com/xbox-boss-not-interested-in-virtue-shaming-activision-1848334067)<!-- GAME:END -->
+ - [A Betty White tribute is coming to Twitch in the form of a Golden Girls role-playing game](https://www.polygon.com/tabletop-games/22877033/betty-white-twitch-tribute-actual-play-ttrpg)
+ - [Top Twitch Streamer Amouranth Buys Inflatable Pool Company](https://kotaku.com/top-twitch-streamer-amouranth-buys-inflatable-pool-comp-1848334807)
+ - [Encanto soundtrack reaches the top of the Billboard 100](https://www.polygon.com/22877110/encanto-billboard-100-soundtrack)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
