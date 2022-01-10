@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First details on FromSoftware’s rumored new Armored Core leak](https://www.polygon.com/22876297/armored-core-6-leak-images-from-software)
- - [Is Bloodborne coming to PC?](https://www.pcgamer.com/bloodborne-pc-rumor-remastered)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [Fan-Made Adapter Lets You Play PlayStation 5 With One Hand](https://kotaku.com/fan-made-adapter-lets-you-play-playstation-5-with-one-h-1848332596)
+ - [YouTuber’s new PS5 controller adapter allows for one-armed play](https://www.polygon.com/22876413/ps5-dualsense-adaptive-accessibility-controller-addition-3d-print-one-armed-play)
+ - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
