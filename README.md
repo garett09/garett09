@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 won’t really take 500 hours to finish, unless that’s what you want](https://www.polygon.com/22876294/dying-light-2-500-hour-completion-time-tweet-blowback)
- - [Take-Two Interactive is buying Zynga for $12.7 billion](https://www.pcgamer.com/take-two-interactive-is-buying-zynga-for-dollar127-billion)
- - [Scream’s directors on how the sequel connects Wes Craven to Jordan Peele](https://www.polygon.com/22870483/scream-2022-preview-radio-silence-interview-stab)<!-- GAME:END -->
+ - [First details on FromSoftware’s rumored new Armored Core leak](https://www.polygon.com/22876297/armored-core-6-leak-images-from-software)
+ - [Is Bloodborne coming to PC?](https://www.pcgamer.com/bloodborne-pc-rumor-remastered)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
