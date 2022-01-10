@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VR IS AWESOME](http://9gag.com/gag/a0ZKD9B)
- - 🚯 [The king reads](http://9gag.com/gag/ay9XZ1p)
- - 🚯 [The remains of an Ichthyosaur have been uncovered in Rutland, England. Ichthyosaur lived between 250-90 million years ago, and could grow to be 13 metres &lpar;43 feet&rpar; long. The specimen discovered in this photo was 10 metres long, and is the largest discovery of its kind in the U.K.](http://9gag.com/gag/angM86z)<!-- MEMES:END -->
+ - 🚖 [Learn to ride a bike with cgi](http://9gag.com/gag/ay9XmRW)
+ - 🚯 [Quarantine zone in China?](http://9gag.com/gag/ajgE3Z1)
+ - 🚯 [Uh, i can explain.. mathematically](http://9gag.com/gag/a21o9XE)<!-- MEMES:END -->
 
 --- 
 
