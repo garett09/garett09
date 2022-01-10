@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Binance CEO Changpeng Zhao, worth an estimated $96B, as the company generated an estimated $20B+ in revenue in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220110/p26#a220110p26)
- - [Best VPN service for Amazon Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
- - [Microsoft details macOS vulnerability that allowed protected data access](https://appleinsider.com/articles/22/01/10/microsoft-details-macos-vulnerability-that-allowed-protected-data-access?utm_medium=rss)<!-- TECH:END -->
+ - [Apple discontinues the Beats Pill+ speaker, Beddit Sleep Monitor](https://appleinsider.com/articles/22/01/10/apple-discontinues-the-beats-pill-speaker-beddit-sleep-monitor?utm_medium=rss)
+ - [Razer no longer claims its Zephyr mask uses ‘N95-grade’ filters](https://www.theverge.com/2022/1/10/22876303/razer-zephyr-mask-n95-grade-air-purifier-change-marketing)
+ - [Apple says App Store developers have earned more than $260 billion](https://www.theverge.com/2022/1/10/22876791/apple-app-store-developers-earnings-launch-services-subscriptions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
