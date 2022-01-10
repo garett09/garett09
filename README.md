@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Learn to ride a bike with cgi](http://9gag.com/gag/ay9XmRW)
- - 🚯 [Quarantine zone in China?](http://9gag.com/gag/ajgE3Z1)
- - 🚯 [Uh, i can explain.. mathematically](http://9gag.com/gag/a21o9XE)<!-- MEMES:END -->
+ - 🚖 [Giant red ball from an art installation broke free in Toledo](http://9gag.com/gag/angM0nz)
+ - 🚯 [Learn to ride a bike with cgi](http://9gag.com/gag/ay9XmRW)
+ - 🚯 [These cats know exactly what the dog is up to](http://9gag.com/gag/azeXvqj)<!-- MEMES:END -->
 
 --- 
 
