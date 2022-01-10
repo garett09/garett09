@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan-Made Adapter Lets You Play PlayStation 5 With One Hand](https://kotaku.com/fan-made-adapter-lets-you-play-playstation-5-with-one-h-1848332596)
- - [YouTuber’s new PS5 controller adapter allows for one-armed play](https://www.polygon.com/22876413/ps5-dualsense-adaptive-accessibility-controller-addition-3d-print-one-armed-play)
- - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
+ - [Speedrunning Refs: Rapid Fire OK In Metroid Dread](https://kotaku.com/speedrunner-refs-rapid-fire-ok-in-metroid-dread-1848333074)
+ - [Red Dead Online fans are demanding answers from Rockstar](https://www.polygon.com/22876656/save-red-dead-online-hashtag-fan-frustration-update-schedule)
+ - [Halo Infinite Players To 343: Ignore The Pros, Don’t Nerf The Best Gun](https://kotaku.com/halo-infinite-players-to-343-ignore-the-pros-don-t-ne-1848332565)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
