@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mandalorian Could Use a Watson](https://www.wired.com/2020/01/geeks-guide-the-mandalorian)
- - [Tesla’s ‘Full Self-Driving’ beta has an ‘assertive’ driving mode that ‘may perform rolling stops’](https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile)
- - [An open-source developer, who expressed regret for supporting &quot;Fortune 500s&quot;, breaks ~19K projects by corrupting NPM libraries with millions of weekly downloads &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/220109/p8#a220109p8)<!-- TECH:END -->
+ - [Bob Saget, star of Full House, dies aged 65     - CNET](https://www.cnet.com/news/bob-saget-star-of-full-house-dies-aged-65/#ftag=CAD590a51e)
+ - [Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-series-to-binge-this-week/#ftag=CAD590a51e)
+ - [How Apple could radically improve its money management services: expand Apple Card beyond US, add checking and savings accounts, ambitiously expand Wallet, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220109/p9#a220109p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
