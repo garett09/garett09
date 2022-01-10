@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: It’s time for flagships to ditch the 128GB base storage option](https://www.androidauthority.com/smartphone-storage-poll-results-3086455/)
- - [A New Document Reveals More of Google&#39;s Anti-Union Strategy](https://www.wired.com/story/document-reveals-more-google-anti-union-strategy)
- - [Snag a Sonos Beam 2 refurbished for almost $50 off](https://www.theverge.com/good-deals/2022/1/10/22876165/sonos-beam-2-soundbar-amazon-echo-show-5-ps5-game-deal-sale)<!-- TECH:END -->
+ - [Earth’s Oceanography Helps Demystify Jupiter’s Flowing Cyclones](https://www.wired.com/story/earths-oceanography-helps-demystify-jupiters-flowing-cyclones)
+ - [Accounting firm Prager Metis International purchases a ~$35K property in Decentraland, after PwC&#39;s Hong Kong unit bought property in Sandbox in December &lpar;Mark Maurer/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p19#a220110p19)
+ - [Sources: UK financial regulators plan an investigation into AWS, Microsoft, and Google, citing concerns over UK banks&#39; reliance on cloud services &lpar;Financial Times&rpar;](http://www.techmeme.com/220110/p18#a220110p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
