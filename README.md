@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seoul-based Qraft Technologies, which uses AI to find promising stocks, raises $146M from SoftBank Group &lpar;Justin Baer/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p8#a220110p8)
- - [The Best Speakers for Kids](https://www.wired.com/gallery/best-kids-speakers)
- - [How to customize the Windows 11 Start menu](https://www.androidauthority.com/customize-windows-11-start-menu-3085918/)<!-- TECH:END -->
+ - [EU data watchdog orders Europol to delete a vast trove of personal data it obtained unlawfully; internal documents show Europol has around 4PB of data &lpar;The Guardian&rpar;](http://www.techmeme.com/220110/p11#a220110p11)
+ - [Peru&#39;s Interbank briefly announces Apple Pay support, then pulls it](https://appleinsider.com/articles/22/01/10/perus-interbank-briefly-announces-apple-pay-support-then-pulls-it?utm_medium=rss)
+ - [When Mind Melds With Machine, Who’s in Control?](https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
