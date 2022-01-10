@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple discontinues the Beats Pill+ speaker, Beddit Sleep Monitor](https://appleinsider.com/articles/22/01/10/apple-discontinues-the-beats-pill-speaker-beddit-sleep-monitor?utm_medium=rss)
- - [Razer no longer claims its Zephyr mask uses ‘N95-grade’ filters](https://www.theverge.com/2022/1/10/22876303/razer-zephyr-mask-n95-grade-air-purifier-change-marketing)
- - [Apple says App Store developers have earned more than $260 billion](https://www.theverge.com/2022/1/10/22876791/apple-app-store-developers-earnings-launch-services-subscriptions)<!-- TECH:END -->
+ - [5 MacBook Air, M1 iMac models with 16GB RAM are up to $150 off, in stock](https://appleinsider.com/articles/22/01/10/5-macbook-air-m1-imac-models-with-16gb-ram-are-up-to-150-off-in-stock?utm_medium=rss)
+ - [You can&#39;t hail an Uber from your Apple Watch anymore](https://appleinsider.com/articles/22/01/10/you-cant-hail-an-uber-from-your-apple-watch-anymore?utm_medium=rss)
+ - [Sources: Tiger Global Management&#39;s hedge fund tumbled 7% last year, its first annual loss since 2016 when it declined 15% &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/220110/p29#a220110p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
