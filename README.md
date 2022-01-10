@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox&#39;s aim of encouraging children to make games has been its key to success but is fraught with dangers, as some face stress, burnout, and exploitation &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/220109/p11#a220109p11)
- - [A roundup of Samsung Galaxy S22 series leaks, including specs, an unboxing video of dummy units, and an alleged image of the S22 Ultra&#39;s 45W fast charger &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220109/p10#a220109p10)
- - [Golden Globes 2022: All the winners, updated live     - CNET](https://www.cnet.com/news/golden-globes-2022-all-the-winners-updated-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 14-inch MacBook Pros with 32GB RAM are $150 off, in stock](https://appleinsider.com/articles/22/01/10/these-14-inch-macbook-pros-with-32gb-ram-are-150-off-in-stock?utm_medium=rss)
+ - [Golden Globes 2022: The full list of winners     - CNET](https://www.cnet.com/news/golden-globes-2022-the-full-list-of-winners/#ftag=CAD590a51e)
+ - [Roblox&#39;s aim of encouraging children to make games has been its key to success but is fraught with dangers, as some face stress, burnout, and exploitation &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/220109/p11#a220109p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
