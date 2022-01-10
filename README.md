@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Battlefront II Bug Is Making Players Unkillable](https://kotaku.com/star-wars-battlefront-ii-bug-is-making-players-unkillab-1848333702)
- - [You can check out the art book for The Mitchells vs. the Machines for free](https://www.polygon.com/22876903/the-mitchells-vs-the-machines-free-art-book-netflix)
- - [New Game Collects Dozens Of Lockpicking Minigames, From Skyrim To Mass Effect](https://kotaku.com/new-game-collects-dozens-of-lockpicking-minigames-from-1848333396)<!-- GAME:END -->
+ - [Crossword puzzles, and their intended audience, are evolving](https://www.polygon.com/22876508/crosswords-ny-times-diverse-crossword-constructor-fellowship)
+ - [Days Gone developer talks about all the things Sony wasn’t interested in](https://www.polygon.com/22877005/days-gone-2-sequel-pitched-sony-bend-resistance-reboot)
+ - [Xbox Boss Not Interested In &#39;Virtue Shaming&#39; Activision](https://kotaku.com/xbox-boss-not-interested-in-virtue-shaming-activision-1848334067)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
