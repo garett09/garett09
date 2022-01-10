@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moto G71 launched in India: A Snapdragon 695 phone for under Rs 20,000](https://www.androidauthority.com/moto-g71-india-3086485/)
- - [Sources: Pine Labs, which provides payments services in Asia, filed confidentially for a US IPO, seeking to raise about $500M at a $5.5B to $7B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220110/p2#a220110p2)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
+ - [French startup Ankorstore, an online wholesale marketplace for independent retailers across Europe, raises a &amp;euro;250M Series C at a &amp;euro;1.75B post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220110/p3#a220110p3)
+ - [Apple will reportedly unveil an iPhone SE with 5G this spring](https://techncruncher.blogspot.com/2022/01/apple-will-reportedly-unveil-iphone-se.html)
+ - [Google calls out Apple for benefiting from iMessage green bubble bullying](https://www.androidauthority.com/google-apple-imessage-bullying-3086475/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
