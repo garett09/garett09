@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These cats know exactly what the dog is up to](http://9gag.com/gag/azeXvqj)
- - 🚯 [Its the law](http://9gag.com/gag/aGzj6E7)
- - 🚯 [VR IS AWESOME](http://9gag.com/gag/a0ZKD9B)<!-- MEMES:END -->
+ - 🚖 [VR IS AWESOME](http://9gag.com/gag/a0ZKD9B)
+ - 🚯 [The king reads](http://9gag.com/gag/ay9XZ1p)
+ - 🚯 [The remains of an Ichthyosaur have been uncovered in Rutland, England. Ichthyosaur lived between 250-90 million years ago, and could grow to be 13 metres &lpar;43 feet&rpar; long. The specimen discovered in this photo was 10 metres long, and is the largest discovery of its kind in the U.K.](http://9gag.com/gag/angM86z)<!-- MEMES:END -->
 
 --- 
 
