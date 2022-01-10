@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take-Two will acquire Zynga for $12.7B, or $9.86 per share, a 64% premium on Zynga&#39;s January 7 closing price; Take-Two develops GTA, Read Dead, and other titles &lpar;Business Wire&rpar;](http://www.techmeme.com/220110/p6#a220110p6)
- - [How to archive or unarchive a chat in WhatsApp](https://www.androidauthority.com/archive-unarchive-chat-whatsapp-3085027/)
- - [Daily Authority: 📈 Realme’s ambitions](https://www.androidauthority.com/da-january-10-2022-3086674/)<!-- TECH:END -->
+ - [Seoul-based Qraft Technologies, which uses AI to find promising stocks, raises $146M from SoftBank Group &lpar;Justin Baer/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p8#a220110p8)
+ - [The Best Speakers for Kids](https://www.wired.com/gallery/best-kids-speakers)
+ - [How to customize the Windows 11 Start menu](https://www.androidauthority.com/customize-windows-11-start-menu-3085918/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
