@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life Mod Ditches Gordon For Spyro The Dragon](https://kotaku.com/half-life-mod-ditches-gordon-for-spyro-the-dragon-1848329428)
- - [Here&#39;s Half-Life with ray tracing](https://www.pcgamer.com/heres-half-life-with-ray-tracing)
- - [Paul Dano’s ‘DIY’ Riddler from The Batman hopes to give the villain a clearer identity](https://www.polygon.com/22874908/the-batman-riddler-costume-actor-paul-dano-2022)<!-- GAME:END -->
+ - [The Week In Games: God of War and Monster Hunter Arrive On PC](https://kotaku.com/the-week-in-games-god-of-war-and-monster-hunter-arrive-1848329607)
+ - [Elden Ring character creation leaks](https://www.pcgamer.com/elden-ring-character-creation-leaks)
+ - [Here&#39;s a big update on Gloomwood, that neo-Victorian stealth horror game](https://www.pcgamer.com/heres-a-big-update-on-gloomwood-that-neo-victorian-stealth-horror-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
