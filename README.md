@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
- - 🚯 [Am i a joke to you??](http://9gag.com/gag/aVx3d3K)
- - 🚯 [Vehicles vs gaurd rails simulation](http://9gag.com/gag/aAGxZ30)<!-- MEMES:END -->
+ - 🚖 [I can haz salamee?](http://9gag.com/gag/aGzjoEK)
+ - 🚯 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
+ - 🚯 [Am i a joke to you??](http://9gag.com/gag/aVx3d3K)<!-- MEMES:END -->
 
 --- 
 
