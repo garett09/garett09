@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox&#39;s aim of encouraging children to make games has been its key to success but is fraught with dangers, as some face stress, burnout, and exploitation &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/220109/p11#a220109p11)
  - [A roundup of Samsung Galaxy S22 series leaks, including specs, an unboxing video of dummy units, and an alleged image of the S22 Ultra&#39;s 45W fast charger &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220109/p10#a220109p10)
- - [Golden Globes 2022: All the winners, updated live     - CNET](https://www.cnet.com/news/golden-globes-2022-all-the-winners-updated-live/#ftag=CAD590a51e)
- - [NASA Perseverance Mars rover has crud obstructing its rock sample system     - CNET](https://www.cnet.com/news/nasa-perseverance-mars-rover-has-decris-obstructing-its-rock-sample-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Golden Globes 2022: All the winners, updated live     - CNET](https://www.cnet.com/news/golden-globes-2022-all-the-winners-updated-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
