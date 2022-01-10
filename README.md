@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: December 2021’s top downloads](https://blog.playstation.com/2022/01/10/playstation-store-december-2021s-top-downloads/)
- - [PlayStation Store: December 2021’s top downloads](https://blog.playstation.com/2022/01/10/playstation-store-december-2021s-top-downloads/)
- - [GTA Publisher To Buy Farmville Maker Zynga For $12.7 Billion](https://kotaku.com/gta-publisher-to-buy-farmville-maker-zynga-for-12-7-bi-1848331055)<!-- GAME:END -->
+ - [Dying Light 2 won’t really take 500 hours to finish, unless that’s what you want](https://www.polygon.com/22876294/dying-light-2-500-hour-completion-time-tweet-blowback)
+ - [Take-Two Interactive is buying Zynga for $12.7 billion](https://www.pcgamer.com/take-two-interactive-is-buying-zynga-for-dollar127-billion)
+ - [Scream’s directors on how the sequel connects Wes Craven to Jordan Peele](https://www.polygon.com/22870483/scream-2022-preview-radio-silence-interview-stab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
