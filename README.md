@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Professional Graphic Artist](http://9gag.com/gag/azeXv1B)
- - 🚯 [Helicopter helicopter...](http://9gag.com/gag/amg7yMv)
- - 🚯 [Quarantine zone in China?](http://9gag.com/gag/ajgE3Z1)<!-- MEMES:END -->
+ - 🚖 [Quarantine zone in China?](http://9gag.com/gag/ajgE3Z1)
+ - 🚯 [How would you react?](http://9gag.com/gag/a4178rZ)
+ - 🚯 [Journalism](http://9gag.com/gag/aAGx7Gp)<!-- MEMES:END -->
 
 --- 
 
