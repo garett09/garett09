@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can haz salamee?](http://9gag.com/gag/aGzjoEK)
- - 🚯 [Bless Boney M for this catchy history lesson](http://9gag.com/gag/a21oxYD)
+ - 🚖 [Is it me or are black tiled pools terrifying?](http://9gag.com/gag/a71MGRb)
+ - 🚯 [On today&amp;#039;s episode of keeping up with China, China made a fake propaganda video on their last year clash with Indian army. Now China arrests 15 Weibo users for revealing identity of film actors who were acting as real Chinese soldiers.](http://9gag.com/gag/a11ow8w)
  - 🚯 [Am i a joke to you??](http://9gag.com/gag/aVx3d3K)<!-- MEMES:END -->
 
 --- 
