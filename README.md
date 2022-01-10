@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Speedrunning Refs: Rapid Fire OK In Metroid Dread](https://kotaku.com/speedrunner-refs-rapid-fire-ok-in-metroid-dread-1848333074)
- - [Red Dead Online fans are demanding answers from Rockstar](https://www.polygon.com/22876656/save-red-dead-online-hashtag-fan-frustration-update-schedule)
- - [Halo Infinite Players To 343: Ignore The Pros, Don’t Nerf The Best Gun](https://kotaku.com/halo-infinite-players-to-343-ignore-the-pros-don-t-ne-1848332565)<!-- GAME:END -->
+ - [Star Wars Battlefront II Bug Is Making Players Unkillable](https://kotaku.com/star-wars-battlefront-ii-bug-is-making-players-unkillab-1848333702)
+ - [You can check out the art book for The Mitchells vs. the Machines for free](https://www.polygon.com/22876903/the-mitchells-vs-the-machines-free-art-book-netflix)
+ - [New Game Collects Dozens Of Lockpicking Minigames, From Skyrim To Mass Effect](https://kotaku.com/new-game-collects-dozens-of-lockpicking-minigames-from-1848333396)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
