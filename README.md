@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French startup Ankorstore, an online wholesale marketplace for independent retailers across Europe, raises a &amp;euro;250M Series C at a &amp;euro;1.75B post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220110/p3#a220110p3)
- - [Apple will reportedly unveil an iPhone SE with 5G this spring](https://techncruncher.blogspot.com/2022/01/apple-will-reportedly-unveil-iphone-se.html)
- - [Google calls out Apple for benefiting from iMessage green bubble bullying](https://www.androidauthority.com/google-apple-imessage-bullying-3086475/)<!-- TECH:END -->
+ - [Samsung Display’s new QD-OLED panel can hit 1,000 nits brightness for improved HDR](https://www.theverge.com/2022/1/10/22876061/samsung-qd-oled-quantum-dot-tv-panels-sgs-certification-brightness-color-viewing-angles)
+ - [Samsung Galaxy S21 FE lands in India for Rs 50,000](https://www.androidauthority.com/samsung-galaxy-s21-fe-india-3086549/)
+ - [French startup Ankorstore, an online wholesale marketplace for independent retailers across Europe, raises a &amp;euro;250M Series C at a &amp;euro;1.75B post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220110/p3#a220110p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
