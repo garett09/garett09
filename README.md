@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Norton installs an Ethereum crypto miner with its 360 security suite](https://www.pcgamer.com/norton-installs-an-ethereum-crypto-miner-with-its-360-security-suite)
- - [The Troop is a promising new small-scale World War 2 wargame](https://www.pcgamer.com/the-troop-is-a-promising-new-small-scale-world-war-2-wargame)
- - [Rust has now sold over 12 million copies](https://www.pcgamer.com/rust-has-now-sold-over-12-million-copies)<!-- GAME:END -->
+ - [HP&#39;s new Victus 15L Desktop courts gamers on a budget](https://www.pcgamer.com/hps-new-victus-15l-desktop-courts-gamers-on-a-budget)
+ - [Alienware&#39;s Concept Nyx game server box software to aggregate and stream from all stores](https://www.pcgamer.com/alienwares-concept-nyx-game-server-box-software-to-aggregate-and-stream-from-all-stores)
+ - [Norton installs an Ethereum crypto miner with its 360 security suite](https://www.pcgamer.com/norton-installs-an-ethereum-crypto-miner-with-its-360-security-suite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
