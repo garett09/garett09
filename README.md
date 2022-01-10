@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The king reads](http://9gag.com/gag/ay9XZ1p)
- - 🚯 [VTOL is a myth](http://9gag.com/gag/a91pZjo)
+ - 🚖 [Prototype, Dying Light, Wolfenstein... It&amp;#039;s just stupid](http://9gag.com/gag/aXrxQM6)
+ - 🚯 [Uh, i can explain.. mathematically](http://9gag.com/gag/a21o9XE)
  - 🚯 [He&amp;rsquo;s there for you Jessica.](http://9gag.com/gag/aggX6Gg)<!-- MEMES:END -->
 
 --- 
