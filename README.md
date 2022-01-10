@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man jumps of a burning motorcycle](http://9gag.com/gag/a21ojG9)
- - 🚯 [I dream of a life far away from my real life. Greetings from Romania!](http://9gag.com/gag/aNP12w0)
+ - 🚖 [Or too much masturbation](http://9gag.com/gag/aegMPMB)
+ - 🚯 [Whole hour of labour finally paid off](http://9gag.com/gag/adgK43B)
  - 🚯 [My turn now..](http://9gag.com/gag/aNP125v)<!-- MEMES:END -->
 
 --- 
