@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earth’s Oceanography Helps Demystify Jupiter’s Flowing Cyclones](https://www.wired.com/story/earths-oceanography-helps-demystify-jupiters-flowing-cyclones)
- - [Accounting firm Prager Metis International purchases a ~$35K property in Decentraland, after PwC&#39;s Hong Kong unit bought property in Sandbox in December &lpar;Mark Maurer/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p19#a220110p19)
- - [Sources: UK financial regulators plan an investigation into AWS, Microsoft, and Google, citing concerns over UK banks&#39; reliance on cloud services &lpar;Financial Times&rpar;](http://www.techmeme.com/220110/p18#a220110p18)<!-- TECH:END -->
+ - [Court documents show Google ran a campaign from 2018 to 2020 to &quot;convince&quot; staff &quot;unions suck&quot;; Google pushes back on a judge&#39;s order to produce more documents &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220110/p21#a220110p21)
+ - [The best Fitbit Inspire 2 bands you can buy](https://www.androidauthority.com/best-fitbit-inspire-2-bands-3086521/)
+ - [A roundup of computer monitors launched at CES 2022, with some featuring &quot;smart&quot; functions, mini-LED displays, higher refresh rates, new form factors, and more &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/220110/p20#a220110p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
