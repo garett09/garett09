@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its the law](http://9gag.com/gag/aGzj6E7)
- - 🚯 [Boss: The task is not that hard. The task:](http://9gag.com/gag/a0ZKxyX)
- - 🚯 [My turn now..](http://9gag.com/gag/aNP125v)<!-- MEMES:END -->
+ - 🚖 [The king reads](http://9gag.com/gag/ay9XZ1p)
+ - 🚯 [VTOL is a myth](http://9gag.com/gag/a91pZjo)
+ - 🚯 [He&amp;rsquo;s there for you Jessica.](http://9gag.com/gag/aggX6Gg)<!-- MEMES:END -->
 
 --- 
 
