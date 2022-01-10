@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Apple ‘should not benefit from bullying’ created by iMessage lock-in](https://www.theverge.com/2022/1/10/22876067/google-apple-ios-android-imessages-bullying-lockheimer)
- - [Despite China&#39;s sweeping crackdown on the tech industry over the summer, VC investments in China reached an estimated $130.6B in 2021, up from $86.7B in 2020 &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220110/p4#a220110p4)
- - [EU carriers want Apple&#39;s Private Relay blocked](https://appleinsider.com/articles/22/01/10/eu-carriers-want-apples-private-relay-blocked?utm_medium=rss)<!-- TECH:END -->
+ - [Take-Two will acquire Zynga for $12.7B, or $9.86 per share, a 64% premium on Zynga&#39;s January 7 closing price; Take-Two develops GTA, Read Dead, and other titles &lpar;Business Wire&rpar;](http://www.techmeme.com/220110/p6#a220110p6)
+ - [How to archive or unarchive a chat in WhatsApp](https://www.androidauthority.com/archive-unarchive-chat-whatsapp-3085027/)
+ - [Daily Authority: 📈 Realme’s ambitions](https://www.androidauthority.com/da-january-10-2022-3086674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
