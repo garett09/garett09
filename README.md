@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Here’s when the Galaxy S22 series could launch, go on sale](https://www.androidauthority.com/galaxy-s22-series-launch-details-3083248/)
- - [Frustration with Covid-19 policies and crime have recently led many tech workers in San Francisco to engage in local politics for the first time &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220110/p1#a220110p1)<!-- TECH:END -->
+ - [Moto G71 launched in India: A Snapdragon 695 phone for under Rs 20,000](https://www.androidauthority.com/moto-g71-india-3086485/)
+ - [Sources: Pine Labs, which provides payments services in Asia, filed confidentially for a US IPO, seeking to raise about $500M at a $5.5B to $7B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220110/p2#a220110p2)
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
