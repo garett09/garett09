@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court documents show Google ran a campaign from 2018 to 2020 to &quot;convince&quot; staff &quot;unions suck&quot;; Google pushes back on a judge&#39;s order to produce more documents &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220110/p21#a220110p21)
- - [The best Fitbit Inspire 2 bands you can buy](https://www.androidauthority.com/best-fitbit-inspire-2-bands-3086521/)
- - [A roundup of computer monitors launched at CES 2022, with some featuring &quot;smart&quot; functions, mini-LED displays, higher refresh rates, new form factors, and more &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/220110/p20#a220110p20)<!-- TECH:END -->
+ - [Apple highlights how its services enrich the lives of its users](https://appleinsider.com/articles/22/01/10/apple-highlights-how-its-services-enrich-the-lives-of-its-users?utm_medium=rss)
+ - [Apple Watch Series 8 may not have a body temperature sensor after all](https://www.theverge.com/2022/1/10/22876324/apple-watch-series-8-body-temperature-smartwatch)
+ - [YC announces a new standard deal: a $125K investment for 7% and a further $375K at terms founders can negotiate with future investors &lpar;Geoff Ralston/Y Combinator&rpar;](http://www.techmeme.com/220110/p24#a220110p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
