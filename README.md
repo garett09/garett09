@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile blocking Apple&#39;s iCloud Private Relay for some - but it&#39;s complicated](https://appleinsider.com/articles/22/01/10/t-mobile-may-have-started-apples-icloud-private-relay-in-the-us?utm_medium=rss)
- - [A look at China&#39;s HSMC and QXIC, now-defunct chipmakers that received hundreds of millions of dollars from the Chinese government yet failed to make any chips &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/220110/p30#a220110p30)
- - [Why Take-Two wants to pay nearly $13 billion for the maker of FarmVille](https://www.theverge.com/2022/1/10/22877117/take-two-zynga-acquisition-13-billion)<!-- TECH:END -->
+ - [Apple uses Messages colors to bully Android users, says Google](https://appleinsider.com/articles/22/01/10/apple-uses-messages-colors-to-bully-android-users-says-google?utm_medium=rss)
+ - [Intel names Micron&#39;s David Zinsner as CFO, replacing George Davis on January 17, and announces the exit of Gregory Bryant as GM of its Client Computing Group &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220110/p31#a220110p31)
+ - [Apple in talks to broadcast MLB games next season](https://appleinsider.com/articles/22/01/10/apple-in-talks-to-broadcast-mlb-games-next-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
