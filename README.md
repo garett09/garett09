@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights how its services enrich the lives of its users](https://appleinsider.com/articles/22/01/10/apple-highlights-how-its-services-enrich-the-lives-of-its-users?utm_medium=rss)
- - [Apple Watch Series 8 may not have a body temperature sensor after all](https://www.theverge.com/2022/1/10/22876324/apple-watch-series-8-body-temperature-smartwatch)
- - [YC announces a new standard deal: a $125K investment for 7% and a further $375K at terms founders can negotiate with future investors &lpar;Geoff Ralston/Y Combinator&rpar;](http://www.techmeme.com/220110/p24#a220110p24)<!-- TECH:END -->
+ - [Profile of Binance CEO Changpeng Zhao, worth an estimated $96B, as the company generated an estimated $20B+ in revenue in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220110/p26#a220110p26)
+ - [Best VPN service for Amazon Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
+ - [Microsoft details macOS vulnerability that allowed protected data access](https://appleinsider.com/articles/22/01/10/microsoft-details-macos-vulnerability-that-allowed-protected-data-access?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
