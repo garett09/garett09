@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman &amp; Lois made the Man of Steel’s messiest story beautiful](https://www.polygon.com/22872814/superman-lois-season-1-episodes-recap-review)
- - [Golden Globe winners announced, despite a complete Hollywood boycott](https://www.polygon.com/22875427/golden-globes-winners-2021)
- - [3D-printed bendable OLEDs could one day mean cheaper OLED gaming monitors](https://www.pcgamer.com/3d-printed-bendable-oleds-could-one-day-mean-cheaper-oled-gaming-monitors)<!-- GAME:END -->
+ - [PlayStation Store: December 2021’s top downloads](https://blog.playstation.com/2022/01/10/playstation-store-december-2021s-top-downloads/)
+ - [PlayStation Store: December 2021’s top downloads](https://blog.playstation.com/2022/01/10/playstation-store-december-2021s-top-downloads/)
+ - [GTA Publisher To Buy Farmville Maker Zynga For $12.7 Billion](https://kotaku.com/gta-publisher-to-buy-farmville-maker-zynga-for-12-7-bi-1848331055)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
