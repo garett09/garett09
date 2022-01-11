@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Microsoft&#39;s Phil Spencer on why he thinks the metaverse is an extension of gaming, sexual misconduct allegations at Activision Blizzard, and more &lpar;Kara Swisher/New York Times&rpar;](http://www.techmeme.com/220111/p3#a220111p3)
- - [Qonto, a French challenger bank focused on business accounts for SMBs and freelancers, raises a $552M Series D led by Tiger Global and CSV at a $5B valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220111/p2#a220111p2)
- - [Motorola Razr 3 specs leak: Could it be a formidable flagship foldable?](https://www.androidauthority.com/motorola-razr-3-specs-3087402/)<!-- TECH:END -->
+ - [Ride hailing and food delivery app Bolt raises &amp;euro;628M at a &amp;euro;7.4B valuation co-led by Sequoia Capital and Fidelity Management &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220111/p4#a220111p4)
+ - [Apple AR headset will need same 96W charger as MacBook Pro](https://appleinsider.com/articles/22/01/11/apple-ar-headset-will-need-same-96w-charger-as-macbook-pro?utm_medium=rss)
+ - [Google says it doesn’t want iMessage on Android. Here’s what it wants.](https://www.androidauthority.com/google-imessage-android-rcs-3086454/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
