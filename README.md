@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple uses Messages colors to bully Android users, says Google](https://appleinsider.com/articles/22/01/10/apple-uses-messages-colors-to-bully-android-users-says-google?utm_medium=rss)
- - [Intel names Micron&#39;s David Zinsner as CFO, replacing George Davis on January 17, and announces the exit of Gregory Bryant as GM of its Client Computing Group &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220110/p31#a220110p31)
- - [Apple in talks to broadcast MLB games next season](https://appleinsider.com/articles/22/01/10/apple-in-talks-to-broadcast-mlb-games-next-season?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with the new HomeKit devices from CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-new-homekit-devices-from-ces-2022?utm_medium=rss)
+ - [Meta delays return to office again amid COVID spike     - CNET](https://www.cnet.com/tech/meta-delays-return-to-office-again-amid-covid-spike/#ftag=CAD590a51e)
+ - [Google exec says Apple is ‘holding back’ customers who text](https://www.theverge.com/2022/1/10/22877304/google-lockheimer-accuse-apple-imessage-holding-back-rcs-text-sms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
