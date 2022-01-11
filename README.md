@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Players Are Using Science To Decode Latest Witch Queen Trailer](https://kotaku.com/destiny-2-players-are-using-science-to-decode-latest-wi-1848340776)
- - [Tech Experts: Razer Lied About Its Fancy Zephyr Mask](https://kotaku.com/tech-experts-razer-lied-about-its-fancy-zephyr-mask-1848340447)
- - [How Blizzard failed the women who worked for it, according to three who left](https://www.pcgamer.com/activision-blizzard-women-interviews)<!-- GAME:END -->
+ - [Wordle ripoffs are running amok](https://www.polygon.com/22878860/wordle-copycats-why)
+ - [Gifts and Gear for DC Universe Online’s Anniversary](https://news.xbox.com/en-us/2022/01/11/gifts-and-gear-for-dc-universe-onlines-anniversary/)
+ - [Pokémon Go Spotlight Hour: Is Diglett shiny?](https://www.polygon.com/pokemon-go/22878964/pokemon-go-spotlight-hour-diglett-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
