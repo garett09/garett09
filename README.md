@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do if you see &#39;Item Detected Near You&#39; on your iPhone](https://appleinsider.com/articles/22/01/11/what-to-do-if-you-see-item-detected-near-you-on-your-iphone?utm_medium=rss)
- - [How to find someone on WhatsApp to start a new chat](https://www.androidauthority.com/find-someone-whatsapp-3087738/)
- - [GameStop and Best Buy have Xbox Series X consoles for order right now &lpar;update: sold out at Best Buy&rpar;](https://www.theverge.com/2022/1/11/22878198/xbox-series-x-console-restock-microsoft-gamestop-games-controller-bundle)<!-- TECH:END -->
+ - [Apple&#39;s 2019 Mac Pro is now three PCIe revisions behind](https://appleinsider.com/articles/22/01/11/apples-2019-mac-pro-is-now-three-pcie-revisions-behind?utm_medium=rss)
+ - [Apple iCloud Mail, Photos, were &#39;slow or unavailable&#39; for two hours](https://appleinsider.com/articles/22/01/11/apple-icloud-mail-photos-and-more-are-again-slow-or-unavailable?utm_medium=rss)
+ - [Xbox players are frustrated with PC forced crossplay, arguing PC users are cheating; Phil Spencer rejected crossplay in 2016, saying a mouse/keyboard are faster &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220111/p24#a220111p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
