@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just cats](http://9gag.com/gag/a417g5A)
- - 🚯 [One day...Maybe...Let&amp;#039;s hope...](http://9gag.com/gag/aE8xK0n)
- - 🚯 [Sea urchins](http://9gag.com/gag/aLvjopx)<!-- MEMES:END -->
+ - 🚖 [Its f**king raw!](http://9gag.com/gag/a31Kg7v)
+ - 🚯 [Clouds on the sun. &lpar;By Astrobiscuit on YT.&rpar;](http://9gag.com/gag/a21opmw)
+ - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
 
