@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Norton subsidiary Avira will introduce a crypto mining app that will take a big chunk of your profits](https://www.pcgamer.com/norton-subsidiary-avira-will-introduce-a-crypto-mining-app-that-will-take-a-big-chunk-of-your-profits)
- - [Disguised Toast has been banned from Twitch after streaming Death Note anime](https://www.polygon.com/22877653/disguised-toast-twitch-ban-channel-tv-meta-death-note)
- - [Duncan Jones wants to make a Full Throttle movie, and he needs your help](https://www.pcgamer.com/duncan-jones-wants-to-make-a-full-throttle-movie-and-he-needs-your-help)<!-- GAME:END -->
+ - [AMD&#39;s upcoming Ryzen 7 5800X3D may end up as a limited edition](https://www.pcgamer.com/amds-upcoming-ryzen-7-5800x3d-may-end-up-as-a-limited-edition)
+ - [Apple&#39;s upcoming AR headset may limit users to short bursts](https://www.pcgamer.com/apples-upcoming-ar-headset-may-limit-users-to-short-bursts)
+ - [Google to downgrade existing smart speakers after losing Sonos patent case](https://www.pcgamer.com/google-to-downgrade-existing-smart-speakers-after-losing-sonos-patent-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
