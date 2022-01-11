@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge says the FTC’s Meta monopoly lawsuit can go forward](https://www.theverge.com/2022/1/11/22878808/ftc-meta-facebook-lawsuit-ruling-revised-complaint-discovery)
- - [Phoenix-based Mangata, which is building a satellite constellation for connectivity and edge computing for 2024, raises a $33M Series A led by Playground Global &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/220111/p26#a220111p26)
- - [Federal judge rules FTC&#39;s amended suit alleging Meta has a monopoly can move forward, after a ruling last year threw out FTC&#39;s complaint over lack of evidence &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220111/p25#a220111p25)<!-- TECH:END -->
+ - [T-Mobile says it has &quot;not broadly blocked&quot; iCloud Private Relay, blaming a bug in iOS 15.2, but says customers with content filtering plans won&#39;t have access &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220111/p28#a220111p28)
+ - [&#39;Wordle&#39; clones further illustrate the curation problem in the App Store](https://appleinsider.com/articles/22/01/11/wordle-clones-further-illustrate-the-curation-problem-in-the-app-store?utm_medium=rss)
+ - [FTC&#39;s lawsuit trying to break up Meta will go on](https://appleinsider.com/articles/22/01/11/ftcs-lawsuit-trying-to-break-up-meta-will-go-on?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
