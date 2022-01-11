@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla&#39;s data sharing project Rally and The Markup launch Facebook Pixel Hunt, a study to investigate Meta&#39;s data collection and tracking practices &lpar;David Cohen/Adweek&rpar;](http://www.techmeme.com/220111/p9#a220111p9)
- - [Apple iOS 15.2: Everything to know, from how to download to new features     - CNET](https://www.cnet.com/tech/services-and-software/apple-ios-15-2-everything-to-know-from-how-to-download-to-new-features/#ftag=CAD590a51e)
- - [Xiaomi 12 Ultra might not get much of a camera upgrade](https://www.androidauthority.com/xiaomi-12-ultra-cameras-3087448/)<!-- TECH:END -->
+ - [Intel’s funding threatened by Marco Rubio after ‘humiliating apologies’ to China](https://www.theverge.com/2022/1/11/22877916/intel-xinjiang-apology-marco-rubio-threatens-funding-chips-act)
+ - [Supply chain visibility company Project44 raises $240M led by TPG, Thoma Bravo, and Goldman Sachs at a $2.4B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220111/p12#a220111p12)
+ - [Brex, which offers online financial tools for SMBs, raises a $300M Series D-2 at a $12.3B valuation, bringing its total funding to $1.2B &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220111/p11#a220111p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
