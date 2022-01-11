@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s funding threatened by Marco Rubio after ‘humiliating apologies’ to China](https://www.theverge.com/2022/1/11/22877916/intel-xinjiang-apology-marco-rubio-threatens-funding-chips-act)
- - [Supply chain visibility company Project44 raises $240M led by TPG, Thoma Bravo, and Goldman Sachs at a $2.4B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220111/p12#a220111p12)
- - [Brex, which offers online financial tools for SMBs, raises a $300M Series D-2 at a $12.3B valuation, bringing its total funding to $1.2B &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220111/p11#a220111p11)<!-- TECH:END -->
+ - [Apple will allow alternative payment systems in South Korea App Store](https://appleinsider.com/articles/22/01/11/apple-to-allow-alternative-payment-systems-in-south-korea-app-stor?utm_medium=rss)
+ - [Foxconn India &#39;gradually&#39; reopening plant after food poisoning protests](https://appleinsider.com/articles/22/01/11/foxconn-india-gradually-reopening-plant-after-food-poisoning-protests?utm_medium=rss)
+ - [Google &#39;waking up&#39; to EU Big Tech proposals, begins intensive lobbying](https://appleinsider.com/articles/22/01/11/google-waking-up-to-eu-big-tech-proposals-begins-intensive-lobbying?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
