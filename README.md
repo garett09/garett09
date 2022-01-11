@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huge level of Skill](http://9gag.com/gag/aYrg0vv)
- - 🚯 [Nano Racing](http://9gag.com/gag/arngLy6)
+ - 🚖 [A high school football star had a rape charge against him dropped after sixteen-year-old girl confessed that the rape never happened. He spent six years falsely imprisoned and broke down when the case was moved to be dismissed.](http://9gag.com/gag/aDDxv9d)
+ - 🚯 [Huge level of Skill](http://9gag.com/gag/aYrg0vv)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
