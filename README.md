@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ride hailing and food delivery app Bolt raises &amp;euro;628M at a &amp;euro;7.4B valuation co-led by Sequoia Capital and Fidelity Management &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220111/p4#a220111p4)
- - [Apple AR headset will need same 96W charger as MacBook Pro](https://appleinsider.com/articles/22/01/11/apple-ar-headset-will-need-same-96w-charger-as-macbook-pro?utm_medium=rss)
- - [Google says it doesn’t want iMessage on Android. Here’s what it wants.](https://www.androidauthority.com/google-imessage-android-rcs-3086454/)<!-- TECH:END -->
+ - [Vienna-based GoStudent, which connects K-12 students with online tutors, raises &amp;euro;300M led by Prosus NV at a &amp;euro;3B valuation &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220111/p8#a220111p8)
+ - [As EU finalizes the Digital Markets Act, Google is making a last-ditch lobbying effort with ads, emails, and social media posts targeted at politicians &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220111/p7#a220111p7)
+ - [Apple to allow alternative payment systems in South Korea, complying with a new law banning app store operators from forcing their own in-app payment systems &lpar;Yonhap/The Korea Herald&rpar;](http://www.techmeme.com/220111/p6#a220111p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
