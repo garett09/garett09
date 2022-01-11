@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phastos has his ‘a-ha!’ moment in exclusive Eternals deleted scene](https://www.polygon.com/22877170/eternals-deleted-scene-phastos)
- - [If one Wordle a day isn&#39;t enough, try the infinite Wheeldle](https://www.pcgamer.com/if-one-wordle-a-day-isnt-enough-try-the-infinite-wheeldle)
- - [The queen of hot tub streams has bought an inflatable pool toy company](https://www.pcgamer.com/the-queen-of-hot-tub-streams-has-bought-an-inflatable-pool-toy-company)<!-- GAME:END -->
+ - [EA confirms FIFA accounts were hijacked because of &#39;human error&#39;](https://www.pcgamer.com/ea-confirms-fifa-accounts-were-hijacked-because-of-human-error)
+ - [7 tips to get you started in Monster Hunter Rise](https://www.pcgamer.com/monster-hunter-rise-tips)
+ - [Escape the Mind of a Dictator in Far Cry 6’s Pagan: Control DLC Episode](https://news.xbox.com/en-us/2022/01/11/far-cry-6-pagan-control-dlc-episode-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
