@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where Japan&#39;s Most Famous Cosplayer Keeps Her Costumes](https://kotaku.com/where-japans-most-famous-cosplayer-keeps-her-costumes-1848337026)
- - [AMD&#39;s upcoming Ryzen 7 5800X3D may end up as a limited edition](https://www.pcgamer.com/amds-upcoming-ryzen-7-5800x3d-may-end-up-as-a-limited-edition)
- - [Apple&#39;s upcoming AR headset may limit users to short bursts](https://www.pcgamer.com/apples-upcoming-ar-headset-may-limit-users-to-short-bursts)<!-- GAME:END -->
+ - [Elden Ring overtakes Dying Light 2 as Steam&#39;s most wishlisted game](https://www.pcgamer.com/elden-ring-overtakes-dying-light-2-as-steams-most-wishlisted-game)
+ - [Phil Spencer on dealing with harassment and bad actors: &#39;We’re not a free speech platform&#39;](https://www.pcgamer.com/phil-spencer-on-dealing-with-harassment-and-bad-actors-were-not-a-free-speech-platform)
+ - [Where Japan&#39;s Most Famous Cosplayer Keeps Her Costumes](https://kotaku.com/where-japans-most-famous-cosplayer-keeps-her-costumes-1848337026)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
