@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese Food Cooking Oil 2021 ... She says She&amp;#039;s even officially approved ... No way I&amp;#039;m eating any Chinese street food in my China tour.](http://9gag.com/gag/aXrx3Y2)
- - 🚯 [Dads are always more fun](http://9gag.com/gag/angMZO0)
- - 🚯 [Having a mistress, Japan](http://9gag.com/gag/aWg1ejx)<!-- MEMES:END -->
+ - 🚖 [Helicopter helicopter...](http://9gag.com/gag/amg7yMv)
+ - 🚯 [Sea urchins](http://9gag.com/gag/aLvjopx)
+ - 🚯 [One day...Maybe...Let&amp;#039;s hope...](http://9gag.com/gag/aE8xK0n)<!-- MEMES:END -->
 
 --- 
 
