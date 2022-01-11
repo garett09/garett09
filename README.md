@@ -196,7 +196,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A high school football star had a rape charge against him dropped after sixteen-year-old girl confessed that the rape never happened. He spent six years falsely imprisoned and broke down when the case was moved to be dismissed.](http://9gag.com/gag/aDDxv9d)
- - 🚯 [Huge level of Skill](http://9gag.com/gag/aYrg0vv)
+ - 🚯 [Ranger uses a shotgun to separate &lpar;and save&rpar; entangled fighting bucks](http://9gag.com/gag/aPZjq7G)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
