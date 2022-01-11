@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple implies it generated record revenue from the App Store during 2021](https://techncruncher.blogspot.com/2022/01/apple-implies-it-generated-record.html)
- - [How to hide and unhide songs on Spotify](https://www.androidauthority.com/how-to-hide-unhide-songs-spotify-3086106/)
- - [Skábma: Snowfall Is a Huge Win for Indigenous Game Makers](https://www.wired.com/story/skabma-snowfall-indigenous-game-makers)<!-- TECH:END -->
+ - [Miami-based Novo, a neobank for SMBs, raises a $90M Series B led by Stripes at a $700M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220111/p19#a220111p19)
+ - [Apple AR headset will need same 96W charger as MacBook Pro](https://appleinsider.com/articles/22/01/11/apple-ar-headset-will-need-same-96w-charger-as-macbook-pro?utm_medium=rss)
+ - [Samsung appears set to launch the Galaxy S22 on February 8](https://techncruncher.blogspot.com/2022/01/samsung-appears-set-to-launch-galaxy.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
