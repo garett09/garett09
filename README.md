@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FAR: Changing Tides sets sail for PS4 and PS5 March 1](https://blog.playstation.com/2022/01/11/far-changing-tides-sets-sail-for-ps4-and-ps5-march-1/)
- - [FAR: Changing Tides sets sail for PS4 and PS5 March 1](https://blog.playstation.com/2022/01/11/far-changing-tides-sets-sail-for-ps4-and-ps5-march-1/)
- - [Corsair One i300 gaming PC review](https://www.pcgamer.com/corsair-one-i300-gaming-pc-review)<!-- GAME:END -->
+ - [The Belchers have a quest to save the restaurant in the first trailer for The Bob’s Burgers Movie](https://www.polygon.com/22878090/bobs-burgers-movie-trailer-release-date)
+ - [Creating Infernax, the retro game of Berzerk Studio’s childhood dreams](https://blog.playstation.com/2022/01/11/creating-infernax-the-retro-game-of-berzerk-studios-childhood-dreams/)
+ - [Creating Infernax, the retro game of Berzerk Studio’s childhood dreams](https://blog.playstation.com/2022/01/11/creating-infernax-the-retro-game-of-berzerk-studios-childhood-dreams/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
