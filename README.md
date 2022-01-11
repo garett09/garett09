@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What To Expect From Xbox In 2022](https://kotaku.com/what-to-expect-from-xbox-in-2022-1848340335)
- - [Attack on Titan comes to Call of Duty: Warzone and Vanguard](https://www.polygon.com/22878594/attack-on-titan-call-of-duty-warzone-vanguard-midseason-update)
- - [Leap is a 60-player FPS that looks like Tribes with hoverboards and a robo-moose](https://www.pcgamer.com/leap-is-a-60-player-fps-that-looks-like-tribes-with-hoverboards-and-a-robo-moose)<!-- GAME:END -->
+ - [Destiny 2 Players Are Using Science To Decode Latest Witch Queen Trailer](https://kotaku.com/destiny-2-players-are-using-science-to-decode-latest-wi-1848340776)
+ - [Tech Experts: Razer Lied About Its Fancy Zephyr Mask](https://kotaku.com/tech-experts-razer-lied-about-its-fancy-zephyr-mask-1848340447)
+ - [How Blizzard failed the women who worked for it, according to three who left](https://www.pcgamer.com/activision-blizzard-women-interviews)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
