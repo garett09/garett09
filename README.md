@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Disguised Toast has been banned from Twitch after streaming Death Note anime](https://www.polygon.com/22877653/disguised-toast-twitch-ban-channel-tv-meta-death-note)
  - [Duncan Jones wants to make a Full Throttle movie, and he needs your help](https://www.pcgamer.com/duncan-jones-wants-to-make-a-full-throttle-movie-and-he-needs-your-help)
- - [Microsoft doesn&#39;t see Game Pass as a replacement for game purchasing](https://www.pcgamer.com/microsoft-doesnt-see-game-pass-as-a-replacement-for-game-purchasing)
- - [Rainbow Six Siege creative director departs for &#39;other opportunities&#39; at Ubisoft](https://www.pcgamer.com/rainbow-six-siege-creative-director-departs-for-other-opportunities-at-ubisoft)<!-- GAME:END -->
+ - [Microsoft doesn&#39;t see Game Pass as a replacement for game purchasing](https://www.pcgamer.com/microsoft-doesnt-see-game-pass-as-a-replacement-for-game-purchasing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
