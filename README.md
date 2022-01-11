@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its f**king raw!](http://9gag.com/gag/a31Kg7v)
+ - 🚖 [Luxurious](http://9gag.com/gag/aZr3Ke0)
  - 🚯 [Clouds on the sun. &lpar;By Astrobiscuit on YT.&rpar;](http://9gag.com/gag/a21opmw)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
