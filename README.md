@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what Encanto’s breakout hit We Don’t Talk About Bruno sounds like in 21 languages](https://www.polygon.com/22877376/we-dont-talk-about-bruno-encanto-21-languages)
- - [LAPD Officers Fired For Ignoring Robbery To Play Pokémon Go](https://kotaku.com/lapd-officers-fired-for-ignoring-robbery-to-play-pokemo-1848335699)
- - [The Metaverse Is Already Here For Cows And It’s Very Sad](https://kotaku.com/the-metaverse-is-already-here-for-cows-and-it-s-very-sa-1848335331)<!-- GAME:END -->
+ - [Duncan Jones wants to make a Full Throttle movie, and he needs your help](https://www.pcgamer.com/duncan-jones-wants-to-make-a-full-throttle-movie-and-he-needs-your-help)
+ - [Microsoft doesn&#39;t see Game Pass as a replacement for game purchasing](https://www.pcgamer.com/microsoft-doesnt-see-game-pass-as-a-replacement-for-game-purchasing)
+ - [Rainbow Six Siege creative director departs for &#39;other opportunities&#39; at Ubisoft](https://www.pcgamer.com/rainbow-six-siege-creative-director-departs-for-other-opportunities-at-ubisoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
