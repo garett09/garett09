@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring overtakes Dying Light 2 as Steam&#39;s most wishlisted game](https://www.pcgamer.com/elden-ring-overtakes-dying-light-2-as-steams-most-wishlisted-game)
- - [Phil Spencer on dealing with harassment and bad actors: &#39;We’re not a free speech platform&#39;](https://www.pcgamer.com/phil-spencer-on-dealing-with-harassment-and-bad-actors-were-not-a-free-speech-platform)
- - [Where Japan&#39;s Most Famous Cosplayer Keeps Her Costumes](https://kotaku.com/where-japans-most-famous-cosplayer-keeps-her-costumes-1848337026)<!-- GAME:END -->
+ - [Razer rows back after Zephyr face mask safety rating confusion](https://www.pcgamer.com/razer-rows-back-after-zephyr-face-mask-safety-rating-confusion)
+ - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
+ - [Halo Infinite&#39;s busted Big Team Battles getting a hotfix &#39;soon&#39;](https://www.pcgamer.com/halo-infinites-busted-big-team-battles-getting-a-hotfix-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
