@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to format SD and microSD memory cards in macOS](https://appleinsider.com/articles/22/01/11/how-to-format-sd-and-microsd-memory-cards-in-macos?utm_medium=rss)
- - [Apple’s $19 polishing cloth is back in stock online](https://www.theverge.com/2022/1/11/22878673/apple-polishing-cloth-in-stock-online)
- - [White House says that insurers are required to reimburse or pay for at-home COVID tests](https://www.theverge.com/2022/1/11/22878196/covid-at-home-insurance-white-house-testing)<!-- TECH:END -->
+ - [Judge says the FTC’s Meta monopoly lawsuit can go forward](https://www.theverge.com/2022/1/11/22878808/ftc-meta-facebook-lawsuit-ruling-revised-complaint-discovery)
+ - [Phoenix-based Mangata, which is building a satellite constellation for connectivity and edge computing for 2024, raises a $33M Series A led by Playground Global &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/220111/p26#a220111p26)
+ - [Federal judge rules FTC&#39;s amended suit alleging Meta has a monopoly can move forward, after a ruling last year threw out FTC&#39;s complaint over lack of evidence &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220111/p25#a220111p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
