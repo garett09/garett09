@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based Novo, a neobank for SMBs, raises a $90M Series B led by Stripes at a $700M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220111/p19#a220111p19)
- - [Apple AR headset will need same 96W charger as MacBook Pro](https://appleinsider.com/articles/22/01/11/apple-ar-headset-will-need-same-96w-charger-as-macbook-pro?utm_medium=rss)
- - [Samsung appears set to launch the Galaxy S22 on February 8](https://techncruncher.blogspot.com/2022/01/samsung-appears-set-to-launch-galaxy.html)<!-- TECH:END -->
+ - [Nvidia announces new RTX 3080 with 12GB of memory](https://www.theverge.com/22878021/nvidia-rtx-3080-12gb-model-release-date-specs-price)
+ - [A Staple of Sci-Fi Space Travel Will Likely Remain a Fantasy](https://www.wired.com/story/sci-fi-space-travel-bussard-ramjet)
+ - [A Grand Unified Theory of Buying Stuff](https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
