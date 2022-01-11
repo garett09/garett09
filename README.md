@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Assassin’s Creed Ezio trilogy is coming to Switch](https://www.polygon.com/22878480/assassins-creed-ezio-collection-trilogy-nintendo-switch-release-date-price)
- - [Fortnite update finally adds crazy tornadoes and lightning](https://www.pcgamer.com/fortnite-update-tornado-lightning-flare-gun)
- - [Lego halts Overwatch 2 set while it re-evaluates partnership with Activision Blizzard](https://www.pcgamer.com/lego-halts-overwatch-2-set-while-it-re-evaluates-partnership-with-activision-blizzard)<!-- GAME:END -->
+ - [Our most anticipated comics of 2022](https://www.polygon.com/22877302/new-comics-2022)
+ - [Attack on Titan arrives in Call of Duty: Vanguard and Warzone Pacific’s first 2022 update](https://blog.playstation.com/2022/01/11/attack-on-titan-arrives-in-call-of-duty-vanguard-and-warzone-pacifics-first-2022-update/)
+ - [Attack on Titan arrives in Call of Duty: Vanguard and Warzone Pacific’s first 2022 update](https://blog.playstation.com/2022/01/11/attack-on-titan-arrives-in-call-of-duty-vanguard-and-warzone-pacifics-first-2022-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
