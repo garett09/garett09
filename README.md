@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the new HomeKit devices from CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-new-homekit-devices-from-ces-2022?utm_medium=rss)
- - [Super Pumped gets a new, longer teaser with more Uber shenanigans](https://www.theverge.com/2022/1/10/22877447/super-pumped-season-one-teaser-trailer-uber-travis-kalanick-showtime)
- - [Halo Infinite is getting a hotfix for the game’s epic but frustrating 12-player matchmaking](https://www.theverge.com/2022/1/10/22877515/microsoft-halo-infinite-big-team-battle-matchmaking-fix-343)<!-- TECH:END -->
+ - [Apple may release iPad with Samsung-produced OLED in 2024](https://appleinsider.com/articles/22/01/11/apple-may-release-ipad-with-samsung-produced-oled-in-2024?utm_medium=rss)
+ - [WWE Royal Rumble 2022: How to watch, start times, match card and Peacock     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
+ - [Best TV shows 2021: Station Eleven, Arcane and Yellowjackets     - CNET](https://www.cnet.com/news/best-tv-shows-2021-station-eleven-arcane-and-yellowjackets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
