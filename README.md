@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dads are always more fun](http://9gag.com/gag/angMZO0)
+ - 🚖 [Chinese Food Cooking Oil 2021 ... She says She&amp;#039;s even officially approved ... No way I&amp;#039;m eating any Chinese street food in my China tour.](http://9gag.com/gag/aXrx3Y2)
  - 🚯 [Damn!](http://9gag.com/gag/a31Kr03)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
