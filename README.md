@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An endless story...](http://9gag.com/gag/a21o6Re)
- - 🚯 [Oh yes society](http://9gag.com/gag/azeXW2p)
+ - 🚖 [EWWW... water.](http://9gag.com/gag/adgKDpD)
+ - 🚯 [Independent Media](http://9gag.com/gag/aBnxAL1)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
