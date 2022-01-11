@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women moment](http://9gag.com/gag/aLvj7Zz)
- - 🚯 [Sweet Dreams](http://9gag.com/gag/awzXwZD)
+ - 🚖 [Straight to jail](http://9gag.com/gag/arngQK6)
+ - 🚯 [Independent Media](http://9gag.com/gag/aBnxAL1)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
