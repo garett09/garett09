@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belle director Mamoru Hosoda on creating a metaverse fairy tale](https://www.theverge.com/22866629/belle-mamoru-hosoda-director-interview)
- - [Everything you need to know about 2022’s biggest chips from CES &lpar;and elsewhere&rpar;](https://www.theverge.com/2022/1/11/22878059/chips-processors-cpu-gpu-2022-intel-amd-nvidia-qualcomm-apple-arm-x86)
- - [Report: the number of cyber attacks per week on corporate networks globally grew 50% YoY in 2021, peaking towards the end of Q4, largely due to the Log4j flaw &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220111/p21#a220111p21)<!-- TECH:END -->
+ - [Automotive supplier Aptiv to buy Wind River, a software maker for embedded and edge computing that had ~$400M in 2021 revenue, from TPG in a $4.3B cash deal &lpar;Niloofer Shaikh/Seeking Alpha&rpar;](http://www.techmeme.com/220111/p22#a220111p22)
+ - [Wordle is the perfect game for a non-gamer like me](https://www.androidauthority.com/wordle-game-3087675/)
+ - [How to move the Start Menu in Windows 11](https://www.androidauthority.com/move-start-menu-windows-11-3087711/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
