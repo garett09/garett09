@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Metaverse Is Already Here For Cows And It’s Very Sad](https://kotaku.com/the-metaverse-is-already-here-for-cows-and-it-s-very-sa-1848335331)
- - [Spectacular Vid Showcases Evolution Of Godzilla&#39;s Iconic Atomic Breath](https://kotaku.com/spectacular-vid-showcases-evolution-of-godzillas-iconic-1848335213)
- - [Launch hot dogs across the sea in this throwback to Flash-era games](https://www.polygon.com/22876387/flash-games-catapult-games-berserk-studio-ghibli)<!-- GAME:END -->
+ - [Here’s what Encanto’s breakout hit We Don’t Talk About Bruno sounds like in 21 languages](https://www.polygon.com/22877376/we-dont-talk-about-bruno-encanto-21-languages)
+ - [LAPD Officers Fired For Ignoring Robbery To Play Pokémon Go](https://kotaku.com/lapd-officers-fired-for-ignoring-robbery-to-play-pokemo-1848335699)
+ - [The Metaverse Is Already Here For Cows And It’s Very Sad](https://kotaku.com/the-metaverse-is-already-here-for-cows-and-it-s-very-sa-1848335331)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
