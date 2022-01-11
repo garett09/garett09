@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to allow alternative payment systems in South Korea App Store](https://appleinsider.com/articles/22/01/11/apple-to-allow-alternative-payment-systems-in-south-korea-app-stor?utm_medium=rss)
- - [Indonesia-based eFishery, which offers financing and software for shrimp and fish farmers to monitor their operations, raises a $90M Series C &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220110/p36#a220110p36)
- - [Hands on with the new HomeKit devices from CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-new-homekit-devices-from-ces-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Interview with Microsoft&#39;s Phil Spencer on why he thinks the metaverse is an extension of gaming, sexual misconduct allegations at Activision Blizzard, and more &lpar;Kara Swisher/New York Times&rpar;](http://www.techmeme.com/220111/p3#a220111p3)
+ - [Qonto, a French challenger bank focused on business accounts for SMBs and freelancers, raises a $552M Series D led by Tiger Global and CSV at a $5B valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220111/p2#a220111p2)
+ - [Motorola Razr 3 specs leak: Could it be a formidable flagship foldable?](https://www.androidauthority.com/motorola-razr-3-specs-3087402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
