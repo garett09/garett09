@@ -189,8 +189,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Hands on with the new HomeKit devices from CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-new-homekit-devices-from-ces-2022?utm_medium=rss)
- - [Meta delays return to office again amid COVID spike     - CNET](https://www.cnet.com/tech/meta-delays-return-to-office-again-amid-covid-spike/#ftag=CAD590a51e)
- - [Google exec says Apple is ‘holding back’ customers who text](https://www.theverge.com/2022/1/10/22877304/google-lockheimer-accuse-apple-imessage-holding-back-rcs-text-sms)<!-- TECH:END -->
+ - [Super Pumped gets a new, longer teaser with more Uber shenanigans](https://www.theverge.com/2022/1/10/22877447/super-pumped-season-one-teaser-trailer-uber-travis-kalanick-showtime)
+ - [Halo Infinite is getting a hotfix for the game’s epic but frustrating 12-player matchmaking](https://www.theverge.com/2022/1/10/22877515/microsoft-halo-infinite-big-team-battle-matchmaking-fix-343)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
