@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will allow alternative payment systems in South Korea App Store](https://appleinsider.com/articles/22/01/11/apple-to-allow-alternative-payment-systems-in-south-korea-app-stor?utm_medium=rss)
- - [Foxconn India &#39;gradually&#39; reopening plant after food poisoning protests](https://appleinsider.com/articles/22/01/11/foxconn-india-gradually-reopening-plant-after-food-poisoning-protests?utm_medium=rss)
- - [Google &#39;waking up&#39; to EU Big Tech proposals, begins intensive lobbying](https://appleinsider.com/articles/22/01/11/google-waking-up-to-eu-big-tech-proposals-begins-intensive-lobbying?utm_medium=rss)<!-- TECH:END -->
+ - [Apple implies it generated record revenue from the App Store during 2021](https://techncruncher.blogspot.com/2022/01/apple-implies-it-generated-record.html)
+ - [How to hide and unhide songs on Spotify](https://www.androidauthority.com/how-to-hide-unhide-songs-spotify-3086106/)
+ - [Skábma: Snowfall Is a Huge Win for Indigenous Game Makers](https://www.wired.com/story/skabma-snowfall-indigenous-game-makers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
