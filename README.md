@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Husband](http://9gag.com/gag/aM4jLV6)
- - 🚯 [Driver attempts to take on 45 degree slope](http://9gag.com/gag/aYrg0V0)
+ - 🚖 [Modern movies be like](http://9gag.com/gag/awzXWY1)
+ - 🚯 [Honestly, how do poeple get to this point?](http://9gag.com/gag/avAOjy5)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
