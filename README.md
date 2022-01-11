@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our most anticipated comics of 2022](https://www.polygon.com/22877302/new-comics-2022)
- - [Attack on Titan arrives in Call of Duty: Vanguard and Warzone Pacific’s first 2022 update](https://blog.playstation.com/2022/01/11/attack-on-titan-arrives-in-call-of-duty-vanguard-and-warzone-pacifics-first-2022-update/)
- - [Attack on Titan arrives in Call of Duty: Vanguard and Warzone Pacific’s first 2022 update](https://blog.playstation.com/2022/01/11/attack-on-titan-arrives-in-call-of-duty-vanguard-and-warzone-pacifics-first-2022-update/)<!-- GAME:END -->
+ - [What To Expect From Xbox In 2022](https://kotaku.com/what-to-expect-from-xbox-in-2022-1848340335)
+ - [Attack on Titan comes to Call of Duty: Warzone and Vanguard](https://www.polygon.com/22878594/attack-on-titan-call-of-duty-warzone-vanguard-midseason-update)
+ - [Leap is a 60-player FPS that looks like Tribes with hoverboards and a robo-moose](https://www.pcgamer.com/leap-is-a-60-player-fps-that-looks-like-tribes-with-hoverboards-and-a-robo-moose)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
