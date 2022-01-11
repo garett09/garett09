@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automotive supplier Aptiv to buy Wind River, a software maker for embedded and edge computing that had ~$400M in 2021 revenue, from TPG in a $4.3B cash deal &lpar;Niloofer Shaikh/Seeking Alpha&rpar;](http://www.techmeme.com/220111/p22#a220111p22)
- - [Wordle is the perfect game for a non-gamer like me](https://www.androidauthority.com/wordle-game-3087675/)
- - [How to move the Start Menu in Windows 11](https://www.androidauthority.com/move-start-menu-windows-11-3087711/)<!-- TECH:END -->
+ - [What qualifies as a hit podcast?](https://www.theverge.com/2022/1/11/22878374/hot-pod-podcast-audio-newsletter-spotify)
+ - [Citadel Securities, an electronic trading firm that works with Robinhood and others, raises $1.15B from Sequoia Capital and Paradigm, valuing it at ~$22B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220111/p23#a220111p23)
+ - [Facebook contractors threaten to stop work over missing paychecks](https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
