@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle ripoffs are running amok](https://www.polygon.com/22878860/wordle-copycats-why)
- - [Gifts and Gear for DC Universe Online’s Anniversary](https://news.xbox.com/en-us/2022/01/11/gifts-and-gear-for-dc-universe-onlines-anniversary/)
- - [Pokémon Go Spotlight Hour: Is Diglett shiny?](https://www.polygon.com/pokemon-go/22878964/pokemon-go-spotlight-hour-diglett-shiny)<!-- GAME:END -->
+ - [What did Phil Spencer mean by ‘Xbox is not a free speech platform’?](https://www.polygon.com/22879076/phil-spencer-new-york-times-interview-free-speech-finger-wagging-activision)
+ - [Halo Infinite Players Discover Automatic Weapon Is Automatic](https://kotaku.com/halo-infinite-players-discover-automatic-weapon-is-auto-1848341649)
+ - [Covid Simulator Is So Well Made It’s A Little Depressing](https://kotaku.com/covid-simulator-is-so-well-made-it-s-a-little-depressin-1848341801)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
