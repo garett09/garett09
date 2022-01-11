@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA confirms FIFA accounts were hijacked because of &#39;human error&#39;](https://www.pcgamer.com/ea-confirms-fifa-accounts-were-hijacked-because-of-human-error)
- - [7 tips to get you started in Monster Hunter Rise](https://www.pcgamer.com/monster-hunter-rise-tips)
- - [Escape the Mind of a Dictator in Far Cry 6’s Pagan: Control DLC Episode](https://news.xbox.com/en-us/2022/01/11/far-cry-6-pagan-control-dlc-episode-out-now/)<!-- GAME:END -->
+ - [The Assassin’s Creed Ezio trilogy is coming to Switch](https://www.polygon.com/22878480/assassins-creed-ezio-collection-trilogy-nintendo-switch-release-date-price)
+ - [Fortnite update finally adds crazy tornadoes and lightning](https://www.pcgamer.com/fortnite-update-tornado-lightning-flare-gun)
+ - [Lego halts Overwatch 2 set while it re-evaluates partnership with Activision Blizzard](https://www.pcgamer.com/lego-halts-overwatch-2-set-while-it-re-evaluates-partnership-with-activision-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
