@@ -196,7 +196,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [EWWW... water.](http://9gag.com/gag/adgKDpD)
- - 🚯 [Independent Media](http://9gag.com/gag/aBnxAL1)
+ - 🚯 [Woke adaptions](http://9gag.com/gag/aE8x97K)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
