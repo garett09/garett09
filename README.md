@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What qualifies as a hit podcast?](https://www.theverge.com/2022/1/11/22878374/hot-pod-podcast-audio-newsletter-spotify)
- - [Citadel Securities, an electronic trading firm that works with Robinhood and others, raises $1.15B from Sequoia Capital and Paradigm, valuing it at ~$22B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220111/p23#a220111p23)
- - [Facebook contractors threaten to stop work over missing paychecks](https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck)<!-- TECH:END -->
+ - [What to do if you see &#39;Item Detected Near You&#39; on your iPhone](https://appleinsider.com/articles/22/01/11/what-to-do-if-you-see-item-detected-near-you-on-your-iphone?utm_medium=rss)
+ - [How to find someone on WhatsApp to start a new chat](https://www.androidauthority.com/find-someone-whatsapp-3087738/)
+ - [GameStop and Best Buy have Xbox Series X consoles for order right now &lpar;update: sold out at Best Buy&rpar;](https://www.theverge.com/2022/1/11/22878198/xbox-series-x-console-restock-microsoft-gamestop-games-controller-bundle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
