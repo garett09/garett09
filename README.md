@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A high school football star had a rape charge against him dropped after sixteen-year-old girl confessed that the rape never happened. He spent six years falsely imprisoned and broke down when the case was moved to be dismissed.](http://9gag.com/gag/aDDxv9d)
- - 🚯 [Ranger uses a shotgun to separate &lpar;and save&rpar; entangled fighting bucks](http://9gag.com/gag/aPZjq7G)
+ - 🚖 [Good Husband](http://9gag.com/gag/aM4jLV6)
+ - 🚯 [Driver attempts to take on 45 degree slope](http://9gag.com/gag/aYrg0V0)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
