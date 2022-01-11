@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight to jail](http://9gag.com/gag/arngQK6)
- - 🚯 [Since i can&amp;#039;t do shit cause Rona might as well stay here.](http://9gag.com/gag/aGzj41n)
+ - 🚖 [An endless story...](http://9gag.com/gag/a21o6Re)
+ - 🚯 [Oh yes society](http://9gag.com/gag/azeXW2p)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
