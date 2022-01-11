@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Norton subsidiary Avira will introduce a crypto mining app that will take a big chunk of your profits](https://www.pcgamer.com/norton-subsidiary-avira-will-introduce-a-crypto-mining-app-that-will-take-a-big-chunk-of-your-profits)
  - [Disguised Toast has been banned from Twitch after streaming Death Note anime](https://www.polygon.com/22877653/disguised-toast-twitch-ban-channel-tv-meta-death-note)
- - [Duncan Jones wants to make a Full Throttle movie, and he needs your help](https://www.pcgamer.com/duncan-jones-wants-to-make-a-full-throttle-movie-and-he-needs-your-help)
- - [Microsoft doesn&#39;t see Game Pass as a replacement for game purchasing](https://www.pcgamer.com/microsoft-doesnt-see-game-pass-as-a-replacement-for-game-purchasing)<!-- GAME:END -->
+ - [Duncan Jones wants to make a Full Throttle movie, and he needs your help](https://www.pcgamer.com/duncan-jones-wants-to-make-a-full-throttle-movie-and-he-needs-your-help)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
