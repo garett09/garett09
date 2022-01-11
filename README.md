@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Explain this flat earthers!](http://9gag.com/gag/a71Mx5x)
- - 🚯 [Good Husband](http://9gag.com/gag/aM4jLV6)
+ - 🚖 [Huge level of Skill](http://9gag.com/gag/aYrg0vv)
+ - 🚯 [Nano Racing](http://9gag.com/gag/arngLy6)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
