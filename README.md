@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Belchers have a quest to save the restaurant in the first trailer for The Bob’s Burgers Movie](https://www.polygon.com/22878090/bobs-burgers-movie-trailer-release-date)
- - [Creating Infernax, the retro game of Berzerk Studio’s childhood dreams](https://blog.playstation.com/2022/01/11/creating-infernax-the-retro-game-of-berzerk-studios-childhood-dreams/)
- - [Creating Infernax, the retro game of Berzerk Studio’s childhood dreams](https://blog.playstation.com/2022/01/11/creating-infernax-the-retro-game-of-berzerk-studios-childhood-dreams/)<!-- GAME:END -->
+ - [Phastos has his ‘a-ha!’ moment in exclusive Eternals deleted scene](https://www.polygon.com/22877170/eternals-deleted-scene-phastos)
+ - [If one Wordle a day isn&#39;t enough, try the infinite Wheeldle](https://www.pcgamer.com/if-one-wordle-a-day-isnt-enough-try-the-infinite-wheeldle)
+ - [The queen of hot tub streams has bought an inflatable pool toy company](https://www.pcgamer.com/the-queen-of-hot-tub-streams-has-bought-an-inflatable-pool-toy-company)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
