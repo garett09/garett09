@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helicopter helicopter...](http://9gag.com/gag/amg7yMv)
- - 🚯 [Sea urchins](http://9gag.com/gag/aLvjopx)
- - 🚯 [One day...Maybe...Let&amp;#039;s hope...](http://9gag.com/gag/aE8xK0n)<!-- MEMES:END -->
+ - 🚖 [Just cats](http://9gag.com/gag/a417g5A)
+ - 🚯 [One day...Maybe...Let&amp;#039;s hope...](http://9gag.com/gag/aE8xK0n)
+ - 🚯 [Sea urchins](http://9gag.com/gag/aLvjopx)<!-- MEMES:END -->
 
 --- 
 
