@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese Food Cooking Oil 2021 ... She says She&amp;#039;s even officially approved ... No way I&amp;#039;m eating any Chinese street food in my China tour.](http://9gag.com/gag/aXrx3Y2)
- - 🚯 [Damn!](http://9gag.com/gag/a31Kr03)
+ - 🚖 [David Bowie in 1999 about the impact of the Internet on society](http://9gag.com/gag/azeXwez)
+ - 🚯 [Explain this flat earthers!](http://9gag.com/gag/a71Mx5x)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
