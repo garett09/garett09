@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile says it has &quot;not broadly blocked&quot; iCloud Private Relay, blaming a bug in iOS 15.2, but says customers with content filtering plans won&#39;t have access &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220111/p28#a220111p28)
- - [&#39;Wordle&#39; clones further illustrate the curation problem in the App Store](https://appleinsider.com/articles/22/01/11/wordle-clones-further-illustrate-the-curation-problem-in-the-app-store?utm_medium=rss)
- - [FTC&#39;s lawsuit trying to break up Meta will go on](https://appleinsider.com/articles/22/01/11/ftcs-lawsuit-trying-to-break-up-meta-will-go-on?utm_medium=rss)<!-- TECH:END -->
+ - [It fills me with glee that Canon printers now think Canon’s own toner is fake](https://www.theverge.com/tldr/2022/1/11/22878850/canon-printer-ink-toner-break-drm-chip-shortage-fake)
+ - [Clones of one-a-day word guessing web game Wordle have sprung up on the App Store, many with ads or subscriptions, capitalizing on Wordle&#39;s popularity &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/220111/p30#a220111p30)
+ - [California budget aims to clear up port congestion and pollution](https://www.theverge.com/2022/1/11/22878758/california-budget-proposal-port-congestion-pollution-climate)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
