@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces new RTX 3080 with 12GB of memory](https://www.theverge.com/22878021/nvidia-rtx-3080-12gb-model-release-date-specs-price)
- - [A Staple of Sci-Fi Space Travel Will Likely Remain a Fantasy](https://www.wired.com/story/sci-fi-space-travel-bussard-ramjet)
- - [A Grand Unified Theory of Buying Stuff](https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff)<!-- TECH:END -->
+ - [Belle director Mamoru Hosoda on creating a metaverse fairy tale](https://www.theverge.com/22866629/belle-mamoru-hosoda-director-interview)
+ - [Everything you need to know about 2022’s biggest chips from CES &lpar;and elsewhere&rpar;](https://www.theverge.com/2022/1/11/22878059/chips-processors-cpu-gpu-2022-intel-amd-nvidia-qualcomm-apple-arm-x86)
+ - [Report: the number of cyber attacks per week on corporate networks globally grew 50% YoY in 2021, peaking towards the end of Q4, largely due to the Log4j flaw &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220111/p21#a220111p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
