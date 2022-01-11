@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer rows back after Zephyr face mask safety rating confusion](https://www.pcgamer.com/razer-rows-back-after-zephyr-face-mask-safety-rating-confusion)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Halo Infinite&#39;s busted Big Team Battles getting a hotfix &#39;soon&#39;](https://www.pcgamer.com/halo-infinites-busted-big-team-battles-getting-a-hotfix-soon)<!-- GAME:END -->
+ - [FAR: Changing Tides sets sail for PS4 and PS5 March 1](https://blog.playstation.com/2022/01/11/far-changing-tides-sets-sail-for-ps4-and-ps5-march-1/)
+ - [FAR: Changing Tides sets sail for PS4 and PS5 March 1](https://blog.playstation.com/2022/01/11/far-changing-tides-sets-sail-for-ps4-and-ps5-march-1/)
+ - [Corsair One i300 gaming PC review](https://www.pcgamer.com/corsair-one-i300-gaming-pc-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
