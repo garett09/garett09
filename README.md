@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woke adaptions](http://9gag.com/gag/aE8x97K)
- - 🚯 [The herro we needed](http://9gag.com/gag/aZr3ePz)
+ - 🚖 [Women moment](http://9gag.com/gag/aLvj7Zz)
+ - 🚯 [Sweet Dreams](http://9gag.com/gag/awzXwZD)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
