@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based GoStudent, which connects K-12 students with online tutors, raises &amp;euro;300M led by Prosus NV at a &amp;euro;3B valuation &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220111/p8#a220111p8)
- - [As EU finalizes the Digital Markets Act, Google is making a last-ditch lobbying effort with ads, emails, and social media posts targeted at politicians &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220111/p7#a220111p7)
- - [Apple to allow alternative payment systems in South Korea, complying with a new law banning app store operators from forcing their own in-app payment systems &lpar;Yonhap/The Korea Herald&rpar;](http://www.techmeme.com/220111/p6#a220111p6)<!-- TECH:END -->
+ - [Mozilla&#39;s data sharing project Rally and The Markup launch Facebook Pixel Hunt, a study to investigate Meta&#39;s data collection and tracking practices &lpar;David Cohen/Adweek&rpar;](http://www.techmeme.com/220111/p9#a220111p9)
+ - [Apple iOS 15.2: Everything to know, from how to download to new features     - CNET](https://www.cnet.com/tech/services-and-software/apple-ios-15-2-everything-to-know-from-how-to-download-to-new-features/#ftag=CAD590a51e)
+ - [Xiaomi 12 Ultra might not get much of a camera upgrade](https://www.androidauthority.com/xiaomi-12-ultra-cameras-3087448/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
