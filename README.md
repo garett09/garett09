@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern movies be like](http://9gag.com/gag/awzXWY1)
- - 🚯 [Honestly, how do poeple get to this point?](http://9gag.com/gag/avAOjy5)
+ - 🚖 [Women moment](http://9gag.com/gag/aLvj7Zz)
+ - 🚯 [Modern movies be like](http://9gag.com/gag/awzXWY1)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
