@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave guys save a can from a bear cub](http://9gag.com/gag/adgLNKZ)
- - 🚯 [It feels like yesterday](http://9gag.com/gag/aqGK92Q)
- - 🚯 [Police save dog from hot car.](http://9gag.com/gag/abgYX7B)<!-- MEMES:END -->
+ - 🚖 [Courtney Love warning about Harvey Weinstein in 2005](http://9gag.com/gag/aegrjGb)
+ - 🚯 [Legends](http://9gag.com/gag/aZrLPZp)
+ - 🚯 [When the store clerk can identify a fake gun](http://9gag.com/gag/ang9q8q)<!-- MEMES:END -->
 
 --- 
 
