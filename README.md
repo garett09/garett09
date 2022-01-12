@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony confirms PlayStation 4 production will continue in 2022, which sources claim will help the company offset some PlayStation 5 production pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/220112/p1#a220112p1)
- - [Arkansas-based AcreTrader, an online farmland investment portal, raises a $40M Series B led by Anthemis Group, bringing its total funding to $58M &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/220111/p40#a220111p40)
- - [Germany-based Alasco, which offers cloud-based financial management tools for real estate projects, raises a $40M Series B led by Insight Partners and Lightrock &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220111/p39#a220111p39)<!-- TECH:END -->
+ - [A look at BigScience, a global effort of 900+ researchers backed by NLP startup Hugging Face, that&#39;s working to make large language models more accessible &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220112/p3#a220112p3)
+ - [Bengaluru-based Refyne, which works with employers to let workers access their earned salaries in real-time, raises an $82M Series B led by Tiger Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p2#a220112p2)
+ - [It’s only taken 7 years, but Wear OS will finally cater to lefties](https://www.androidauthority.com/wear-os-left-handed-use-3087418/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
