@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t think this Russian man likes to wear a mask](http://9gag.com/gag/angM6pL)
- - 🚯 [Effect of pregnancy on the body](http://9gag.com/gag/a81oPn3)
- - 🚯 [How it started... how it&amp;#039;s going](http://9gag.com/gag/aE8xr1p)<!-- MEMES:END -->
+ - 🚖 [How it started... how it&amp;#039;s going](http://9gag.com/gag/aE8xr1p)
+ - 🚯 [If you used this you&amp;#039;re officially old!!](http://9gag.com/gag/aGzj3bX)
+ - 🚯 [Effect of pregnancy on the body](http://9gag.com/gag/a81oPn3)<!-- MEMES:END -->
 
 --- 
 
