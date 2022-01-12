@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony keeps PS4 factories churning to relieve pressure from PS5 demand](https://www.polygon.com/22880166/ps5-demand-sales-ps4-supported-production-sony)
- - [PUBG: Battlegrounds is Now Free to Play](https://news.xbox.com/en-us/2022/01/12/pubg-battlegrounds-is-now-free-to-play/)
- - [God of War’s load times are instant on PC, but you might not notice](https://www.polygon.com/gaming/22879054/god-of-war-pc-loading-times-fast-travel-ragnarok)<!-- GAME:END -->
+ - [Five New Ways to Keep Your Fish Happy in Megaquarium’s New Freshwater Frenzy DLC](https://news.xbox.com/en-us/2022/01/12/five-new-ways-to-keep-your-fish-happy-in-megaquariums-new-freshwater-frenzy-dlc/)
+ - [No Way Home Memes make Doc Ock look scarier without the arms](https://www.polygon.com/22880209/spider-man-no-way-home-floating-doc-ock-twitter-memes)
+ - [Sonic 4: Episode II Speedrun Record Broken By Player In Cursed Sonic Outfit](https://kotaku.com/sonic-4-episode-ii-speedrun-record-broken-by-player-in-1848345366)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
