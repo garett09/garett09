@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sport I love](http://9gag.com/gag/aGzZK1w)
- - 🚯 [Playground?](http://9gag.com/gag/ay9BE5b)
- - 🚯 [Not like what I thought, seriously](http://9gag.com/gag/aogNBQw)<!-- MEMES:END -->
+ - 🚖 [Big brain time..](http://9gag.com/gag/arnG1XV)
+ - 🚯 [Sad](http://9gag.com/gag/a21oQ29)
+ - 🚯 [Playground?](http://9gag.com/gag/ay9BE5b)<!-- MEMES:END -->
 
 --- 
 
