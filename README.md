@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congressional watchdog calls for stronger regulation of crypto ATMs](https://www.theverge.com/2022/1/12/22880282/gao-irs-fincen-crypto-kiosk-atm-address-submission-report-crime)
- - [Hands on with the best gear for Apple users at CES 2022](https://appleinsider.com/articles/22/01/12/hands-on-with-the-best-gear-for-apple-users-at-ces-2022?utm_medium=rss)
- - [Apple loses second key chip engineer, this time to Microsoft](https://appleinsider.com/articles/22/01/12/apple-loses-second-key-chip-engineer-this-time-to-microsoft?utm_medium=rss)<!-- TECH:END -->
+ - [GM is creating an online used car marketplace](https://www.theverge.com/2022/1/12/22880695/gm-general-motors-carbravo-online-used-car-marketplace-website)
+ - [Sources: Microsoft has hired a veteran semiconductor designer from Apple, as it seeks to develop its own chips for Azure servers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220112/p28#a220112p28)
+ - [The Antitrust Case Against Facebook Draws Blood](https://www.wired.com/story/facebook-ftc-antitrust-non-price-theory)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
