@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)
  - [Riot will pay employees 25% of their salary to quit if they aren&#39;t convinced by its new direction](https://www.pcgamer.com/riot-five-year-plan)
- - [Netflix’s bleak sci-fi film The Colony mashes up Children of Men and Aliens](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)
- - [Twitter Reacts To Call Of Duty&#39;s Weird Attack On Titan Crossover](https://kotaku.com/twitter-reacts-to-call-of-dutys-weird-attack-on-titan-c-1848342440)<!-- GAME:END -->
+ - [Netflix’s bleak sci-fi film The Colony mashes up Children of Men and Aliens](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
