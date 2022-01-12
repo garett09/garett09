@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Euphoria returns to do the most, every time, all the time](https://www.polygon.com/22879178/euphoria-season-2-premiere)
- - [Guy brags about ripping off Wordle and charging for it, gets blasted off Twitter](https://www.pcgamer.com/guy-brags-about-ripping-off-wordle-and-charging-for-it-gets-blasted-off-twitter)
- - [What did Phil Spencer mean by ‘Xbox is not a free speech platform’?](https://www.polygon.com/22879076/phil-spencer-new-york-times-interview-free-speech-finger-wagging-activision)<!-- GAME:END -->
+ - [Riot will pay employees 25% of their salary to quit if they aren&#39;t convinced by its new direction](https://www.pcgamer.com/riot-five-year-plan)
+ - [Netflix’s bleak sci-fi film The Colony mashes up Children of Men and Aliens](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)
+ - [Twitter Reacts To Call Of Duty&#39;s Weird Attack On Titan Crossover](https://kotaku.com/twitter-reacts-to-call-of-dutys-weird-attack-on-titan-c-1848342440)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
