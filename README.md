@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The herro we needed](http://9gag.com/gag/aZr3ePz)
- - 🚯 [Oosh](http://9gag.com/gag/a0ZK26O)
- - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
+ - 🚖 [Drain goodies](http://9gag.com/gag/a21on2Y)
+ - 🚯 [Man this was one hell of a rollercoaster](http://9gag.com/gag/a81oB91)
+ - 🚯 [I was there when the discs were burning...](http://9gag.com/gag/adgKm79)<!-- MEMES:END -->
 
 --- 
 
