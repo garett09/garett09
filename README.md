@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at BigScience, a global effort of 900+ researchers backed by NLP startup Hugging Face, that&#39;s working to make large language models more accessible &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220112/p3#a220112p3)
- - [Bengaluru-based Refyne, which works with employers to let workers access their earned salaries in real-time, raises an $82M Series B led by Tiger Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p2#a220112p2)
- - [It’s only taken 7 years, but Wear OS will finally cater to lefties](https://www.androidauthority.com/wear-os-left-handed-use-3087418/)<!-- TECH:END -->
+ - [Crypto firms flood DC with money ahead of a federal push for new crypto rules, as donations from crypto execs become a key source of cash for some lawmakers &lpar;Joe Light/Bloomberg&rpar;](http://www.techmeme.com/220112/p4#a220112p4)
+ - [Google brings second-gen Nest Hub to India, but key features are missing](https://www.androidauthority.com/second-gen-google-nest-hub-india-3088181/)
+ - [A look at BigScience, a global effort of 900+ researchers backed by NLP startup Hugging Face, that&#39;s working to make large language models more accessible &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220112/p3#a220112p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
