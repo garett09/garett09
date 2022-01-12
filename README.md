@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big brain time..](http://9gag.com/gag/arnG1XV)
- - 🚯 [Sad](http://9gag.com/gag/a21oQ29)
+ - 🚖 [The sport I love](http://9gag.com/gag/aGzZK1w)
+ - 🚯 [Since some people tend to forget. The Nothing Box](http://9gag.com/gag/a0ZKmrd)
  - 🚯 [Playground?](http://9gag.com/gag/ay9BE5b)<!-- MEMES:END -->
 
 --- 
