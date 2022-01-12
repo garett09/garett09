@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Half-Life mod replaces Gordon Freeman with Spyro the Dragon](https://www.pcgamer.com/this-half-life-mod-replaces-gordon-freeman-with-spyro-the-dragon)
- - [PUBG: Battlegrounds is now free-to-play](https://www.pcgamer.com/pubg-battlegrounds-is-now-free-to-play)
- - [All the fearsome beasts you&#39;ll be fighting in Monster Hunter Rise](https://www.pcgamer.com/monster-hunter-rise-monster-list)<!-- GAME:END -->
+ - [Belle is the virtual world anime that Mamoru Hosoda always wanted to make](https://www.polygon.com/22870380/belle-mamoru-hosoda-interview)
+ - [Japanese Firefighter Gets In Trouble For YouTube Gaming Side Hustle](https://kotaku.com/japanese-firefighter-gets-in-trouble-for-youtube-gaming-1848343839)
+ - [This Half-Life mod replaces Gordon Freeman with Spyro the Dragon](https://www.pcgamer.com/this-half-life-mod-replaces-gordon-freeman-with-spyro-the-dragon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
