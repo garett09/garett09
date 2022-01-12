@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What did Phil Spencer mean by ‘Xbox is not a free speech platform’?](https://www.polygon.com/22879076/phil-spencer-new-york-times-interview-free-speech-finger-wagging-activision)
- - [Halo Infinite Players Discover Automatic Weapon Is Automatic](https://kotaku.com/halo-infinite-players-discover-automatic-weapon-is-auto-1848341649)
- - [Covid Simulator Is So Well Made It’s A Little Depressing](https://kotaku.com/covid-simulator-is-so-well-made-it-s-a-little-depressin-1848341801)<!-- GAME:END -->
+ - [Euphoria returns to do the most, every time, all the time](https://www.polygon.com/22879178/euphoria-season-2-premiere)
+ - [Guy brags about ripping off Wordle and charging for it, gets blasted off Twitter](https://www.pcgamer.com/guy-brags-about-ripping-off-wordle-and-charging-for-it-gets-blasted-off-twitter)
+ - [What did Phil Spencer mean by ‘Xbox is not a free speech platform’?](https://www.polygon.com/22879076/phil-spencer-new-york-times-interview-free-speech-finger-wagging-activision)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
