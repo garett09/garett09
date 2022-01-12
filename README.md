@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [U-Boot creators’ new tabletop game will explore Vietnam War combat scenarios](https://www.polygon.com/tabletop-games/22880596/purple-haze-board-game-vietnam-war-crowdfunding-campaign-launch-date-price)
  - [The Most Anticipated Games of 2022 &lpar;According to Team Xbox&rpar;](https://news.xbox.com/en-us/2022/01/12/most-anticipated-games-2022/)
- - [God Of War Is Getting Rave Reviews On PC](https://kotaku.com/god-of-war-is-getting-rave-reviews-on-pc-1848348366)
- - [God of War&#39;s no-cut camera made adding ultrawide support surprisingly challenging](https://www.pcgamer.com/god-of-wars-no-cut-camera-made-adding-ultrawide-support-surprisingly-challenging)<!-- GAME:END -->
+ - [God Of War Is Getting Rave Reviews On PC](https://kotaku.com/god-of-war-is-getting-rave-reviews-on-pc-1848348366)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
