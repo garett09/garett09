@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkansas-based AcreTrader, an online farmland investment portal, raises a $40M Series B led by Anthemis Group, bringing its total funding to $58M &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/220111/p40#a220111p40)
  - [Germany-based Alasco, which offers cloud-based financial management tools for real estate projects, raises a $40M Series B led by Insight Partners and Lightrock &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220111/p39#a220111p39)
- - [Samsung, which had previously announced a January 11 event for Exynos 2200, was a no-show at the product launch event without any explanation or a new date &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220111/p38#a220111p38)
- - [Envoy raises a $111M Series C at a $1.4B valuation, after pivoting from office visitor sign-in systems to creating tools for hybrid workplace management &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220111/p37#a220111p37)<!-- TECH:END -->
+ - [Samsung, which had announced a January 11 event for the Exynos 2200, didn&#39;t show up to its own product launch and has yet to provide an explanation &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220111/p38#a220111p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
