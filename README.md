@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss digital asset banking service Seba Bank raises a ~$118.6M Series C led by Alameda Research and DeFi Technologies &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220112/p18#a220112p18)
- - [How to choose the right printer for your home office](https://www.theverge.com/21279634/best-printer-recommendations-laser-multifunction-inkjet-canon-epson-brother-hp-home-office)
- - [2015 Nvidia Shield TV getting Android 11 now, which is just nuts](https://www.androidauthority.com/nvidia-shield-tv-android-11-3087989/)<!-- TECH:END -->
+ - [Becca’s ‘buds’ beat out other words](https://www.theverge.com/20961163/becca-farsace-buds-youtube-data-language-video-host)
+ - [Over 80 fact-checking organizations tell YouTube CEO Susan Wojcicki that its measures to combat misinformation are &quot;proving insufficient&quot; and propose solutions &lpar;Poynter&rpar;](http://www.techmeme.com/220112/p21#a220112p21)
+ - [iPhone 13 supply largely meets demand, MacBook Pro still constrained](https://appleinsider.com/articles/22/01/12/iphone-13-supply-largely-meets-demand-macbook-pro-still-constrained?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
