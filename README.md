@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It fills me with glee that Canon printers now think Canon’s own toner is fake](https://www.theverge.com/tldr/2022/1/11/22878850/canon-printer-ink-toner-break-drm-chip-shortage-fake)
- - [Clones of one-a-day word guessing web game Wordle have sprung up on the App Store, many with ads or subscriptions, capitalizing on Wordle&#39;s popularity &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/220111/p30#a220111p30)
- - [California budget aims to clear up port congestion and pollution](https://www.theverge.com/2022/1/11/22878758/california-budget-proposal-port-congestion-pollution-climate)<!-- TECH:END -->
+ - [Sources: Didi begins informal talks with the Hong Kong stock exchange about a public listing, as it courts state-backed groups to placate the Chinese government &lpar;Financial Times&rpar;](http://www.techmeme.com/220111/p32#a220111p32)
+ - [Verizon, AT&amp;T, and T-Mobile say they’re not blocking Apple’s iCloud Private Relay](https://www.theverge.com/22878885/verizon-att-t-mobile-apple-icloud-private-relay-feature-supported)
+ - [The App Store clones are here to profit off Wordle’s success](https://www.theverge.com/2022/1/11/22878752/wordle-app-store-review-copies-advertisements-in-app-purchase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
