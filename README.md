@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m 40... it was yesterday and I&amp;#039;m still smiling...](http://9gag.com/gag/adgK32M)
- - 🚯 [Future boy](http://9gag.com/gag/a91Kbqm)
- - 🚯 [A truth](http://9gag.com/gag/aBnxD5Q)<!-- MEMES:END -->
+ - 🚖 [When the store clerk can identify a fake gun](http://9gag.com/gag/ang9q8q)
+ - 🚯 [Cholesterol go brrrr](http://9gag.com/gag/aGzZKez)
+ - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aggn311)<!-- MEMES:END -->
 
 --- 
 
