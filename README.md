@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Allright, allright, allright](http://9gag.com/gag/aQXRqpe)
- - 🚯 [Professor football](http://9gag.com/gag/aQXR6B8)
- - 🚯 [Future boy](http://9gag.com/gag/a91Kbqm)<!-- MEMES:END -->
+ - 🚖 [Brave guys save a can from a bear cub](http://9gag.com/gag/adgLNKZ)
+ - 🚯 [It feels like yesterday](http://9gag.com/gag/aqGK92Q)
+ - 🚯 [Police save dog from hot car.](http://9gag.com/gag/abgYX7B)<!-- MEMES:END -->
 
 --- 
 
