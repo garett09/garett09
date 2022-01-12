@@ -196,8 +196,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How Captains Steer Cruise Ships](http://9gag.com/gag/aVx3GWP)
- - 🚯 [To try and hit a person on a bike with a car door....](http://9gag.com/gag/ay9XgjY)
- - 🚯 [Satisfying](http://9gag.com/gag/arng6mK)<!-- MEMES:END -->
+ - 🚯 [I dont even know his name](http://9gag.com/gag/aDDxpPx)
+ - 🚯 [The saxophone player.](http://9gag.com/gag/aWg1K7x)<!-- MEMES:END -->
 
 --- 
 
