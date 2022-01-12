@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oosh](http://9gag.com/gag/a0ZK26O)
- - 🚯 [A cow consumes 30 to 60 liters of water per day! Thats a thirsty one!](http://9gag.com/gag/azeX0jj)
- - 🚯 [The saxophone player.](http://9gag.com/gag/aWg1K7x)<!-- MEMES:END -->
+ - 🚖 [Job well done](http://9gag.com/gag/amg7j6v)
+ - 🚯 [Behold, the sweet burger!](http://9gag.com/gag/a31K9PQ)
+ - 🚯 [Bug fix](http://9gag.com/gag/aXrx5Gd)<!-- MEMES:END -->
 
 --- 
 
