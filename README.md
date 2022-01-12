@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Belle is the virtual world anime that Mamoru Hosoda always wanted to make](https://www.polygon.com/22870380/belle-mamoru-hosoda-interview)
- - [Japanese Firefighter Gets In Trouble For YouTube Gaming Side Hustle](https://kotaku.com/japanese-firefighter-gets-in-trouble-for-youtube-gaming-1848343839)
- - [This Half-Life mod replaces Gordon Freeman with Spyro the Dragon](https://www.pcgamer.com/this-half-life-mod-replaces-gordon-freeman-with-spyro-the-dragon)<!-- GAME:END -->
+ - [Wordle copycats have vanished from Apple’s App Store](https://www.polygon.com/22879940/wordle-copycats-app-store-removal-clones-apple)
+ - [Tabletop Simulator removes global chat, developers say moderation ‘has failed’ its customers](https://www.polygon.com/tabletop-games/22879963/tabletop-simulator-moderation-homophobic-transphobic-global-chat)
+ - [PlayStation Store’s top downloads of 2021](https://blog.playstation.com/2022/01/12/playstation-stores-top-downloads-of-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
