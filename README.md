@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle copycats have vanished from Apple’s App Store](https://www.polygon.com/22879940/wordle-copycats-app-store-removal-clones-apple)
- - [Tabletop Simulator removes global chat, developers say moderation ‘has failed’ its customers](https://www.polygon.com/tabletop-games/22879963/tabletop-simulator-moderation-homophobic-transphobic-global-chat)
- - [PlayStation Store’s top downloads of 2021](https://blog.playstation.com/2022/01/12/playstation-stores-top-downloads-of-2021/)<!-- GAME:END -->
+ - [RPGolf Legends swings to PS4 and PS5 January 20](https://blog.playstation.com/2022/01/12/rpgolf-legends-swings-to-ps4-and-ps5-january-20/)
+ - [RPGolf Legends swings to PS4 and PS5 January 20](https://blog.playstation.com/2022/01/12/rpgolf-legends-swings-to-ps4-and-ps5-january-20/)
+ - [Critical Role’s The Legend of Vox Machina trailer gives fantasy tropes the finger](https://www.polygon.com/22880063/critical-role-legend-of-vox-machina-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
