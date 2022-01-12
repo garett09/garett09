@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: The Exynos 2200 launch is delayed, but everything is fine](https://www.androidauthority.com/report-exynos-2200-release-3088232/)
- - [Samsung’s big battery budget tablet is heading to India](https://www.androidauthority.com/samsung-galaxy-tab-a8-india-3088230/)
- - [Logitech Litra Glow review: A brilliant, affordable LED light for streaming or working from home     - CNET](https://www.cnet.com/tech/computing/logitech-litra-glow-review-a-brilliant-affordable-led-light-for-streaming-or-working-from-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tumblr backtracks on blocking sensitive content on iOS, makes it optional](https://appleinsider.com/articles/22/01/12/tumblr-backtracks-on-blocking-sensitive-content-on-ios-makes-it-optional?utm_medium=rss)
+ - [Wyze’s security camera pay-what-you-want subscription accepts $0](https://www.theverge.com/2022/1/12/22879759/wyze-cam-plus-lite-pay-what-you-want-subscription-person-detection-cloud-recordings-12-seconds)
+ - [PCIe 6.0 is coming for the speedy SSDs and GPUs of the future](https://www.theverge.com/2022/1/12/22879732/pcie-6-0-final-specification-bandwidth-speeds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
