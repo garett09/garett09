@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Checkout.com, which offers payment processing tools, raises $1B in a share sale, sources say at a $40B valuation &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/220112/p14#a220112p14)
- - [Jakarta-based investment app Pluang adds $55M to its Series B, bringing the round to $110M, led by Accel to expand in Southeast Asia &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220112/p13#a220112p13)
- - [BigPanda, an IT management company that uses AI to detect and resolve outages, raises $190M led by Advent and Insight at a $1.2B valuation &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220112/p12#a220112p12)<!-- TECH:END -->
+ - [Swiss digital asset banking service Seba Bank raises a ~$118.6M Series C led by Alameda Research and DeFi Technologies &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220112/p18#a220112p18)
+ - [How to choose the right printer for your home office](https://www.theverge.com/21279634/best-printer-recommendations-laser-multifunction-inkjet-canon-epson-brother-hp-home-office)
+ - [2015 Nvidia Shield TV getting Android 11 now, which is just nuts](https://www.androidauthority.com/nvidia-shield-tv-android-11-3087989/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
