@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Easy Anti-Cheat implementation on Steam Deck may not be as easy as first thought](https://www.pcgamer.com/easy-anti-cheat-implementation-on-steam-deck-may-not-be-as-easy-as-first-thought)
- - [12th Gen DRM issues are a thing of the past](https://www.pcgamer.com/12th-gen-drm-issues-are-a-thing-of-the-past)
- - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)<!-- GAME:END -->
+ - [Michelle Johnston Holthaus to replace Gregory Bryant as Client Computing GM at Intel](https://www.pcgamer.com/michelle-johnston-holthaus-to-replace-gregory-bryant-as-client-computing-gm-at-intel)
+ - [Nvidia Announces AI-Powered Dynamic Super Resolution image scaling technology](https://www.pcgamer.com/nvidia-announces-ai-powered-dynamic-super-resolution-image-scaling-technology)
+ - [Easy Anti-Cheat implementation on Steam Deck may not be as easy as first thought](https://www.pcgamer.com/easy-anti-cheat-implementation-on-steam-deck-may-not-be-as-easy-as-first-thought)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
