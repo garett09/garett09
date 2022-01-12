@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michelle Johnston Holthaus to replace Gregory Bryant as Client Computing GM at Intel](https://www.pcgamer.com/michelle-johnston-holthaus-to-replace-gregory-bryant-as-client-computing-gm-at-intel)
- - [Nvidia Announces AI-Powered Dynamic Super Resolution image scaling technology](https://www.pcgamer.com/nvidia-announces-ai-powered-dynamic-super-resolution-image-scaling-technology)
- - [Easy Anti-Cheat implementation on Steam Deck may not be as easy as first thought](https://www.pcgamer.com/easy-anti-cheat-implementation-on-steam-deck-may-not-be-as-easy-as-first-thought)<!-- GAME:END -->
+ - [Semiconductor supplier ASML suffers a factory fire in Berlin](https://www.pcgamer.com/semiconductor-supplier-asml-suffers-a-factory-fire-in-berlin)
+ - [BMW shows off colour shifting car at CES](https://www.pcgamer.com/bmw-shows-off-colour-shifting-car-at-ces)
+ - [Michelle Johnston Holthaus to replace Gregory Bryant as Client Computing GM at Intel](https://www.pcgamer.com/michelle-johnston-holthaus-to-replace-gregory-bryant-as-client-computing-gm-at-intel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
