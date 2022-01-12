@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very precise German engineering](http://9gag.com/gag/a0ZKBOv)
- - 🚯 [Satisfying](http://9gag.com/gag/arng6mK)
- - 🚯 [Man this was one hell of a rollercoaster](http://9gag.com/gag/a81oB91)<!-- MEMES:END -->
+ - 🚖 [Oosh](http://9gag.com/gag/a0ZK26O)
+ - 🚯 [A cow consumes 30 to 60 liters of water per day! Thats a thirsty one!](http://9gag.com/gag/azeX0jj)
+ - 🚯 [The saxophone player.](http://9gag.com/gag/aWg1K7x)<!-- MEMES:END -->
 
 --- 
 
