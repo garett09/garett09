@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve cancels Dota 2 Winter Major and pisses off pretty much every pro in the scene](https://www.pcgamer.com/valve-cancels-dota-2-winter-major-and-pisses-off-pretty-much-every-pro-in-the-scene)
- - [We Can All Finally Learn How To Make Big Macs On Nintendo DS](https://kotaku.com/we-can-all-finally-learn-how-to-make-big-macs-on-ninten-1848347540)
- - [Ranking the high and low notes of every modern movie musical](https://www.polygon.com/movies/22535614/movie-musicals-best-and-worst)<!-- GAME:END -->
+ - [The Most Anticipated Games of 2022 &lpar;According to Team Xbox&rpar;](https://news.xbox.com/en-us/2022/01/12/most-anticipated-games-2022/)
+ - [God Of War Is Getting Rave Reviews On PC](https://kotaku.com/god-of-war-is-getting-rave-reviews-on-pc-1848348366)
+ - [God of War&#39;s no-cut camera made adding ultrawide support surprisingly challenging](https://www.pcgamer.com/god-of-wars-no-cut-camera-made-adding-ultrawide-support-surprisingly-challenging)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
