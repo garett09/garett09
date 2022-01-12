@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Semiconductor supplier ASML suffers a factory fire in Berlin](https://www.pcgamer.com/semiconductor-supplier-asml-suffers-a-factory-fire-in-berlin)
- - [BMW shows off colour shifting car at CES](https://www.pcgamer.com/bmw-shows-off-colour-shifting-car-at-ces)
- - [Michelle Johnston Holthaus to replace Gregory Bryant as Client Computing GM at Intel](https://www.pcgamer.com/michelle-johnston-holthaus-to-replace-gregory-bryant-as-client-computing-gm-at-intel)<!-- GAME:END -->
+ - [Belle Is A Spiritual Sequel To Summer Wars And A Modern Beauty And The Beast](https://kotaku.com/belle-is-a-spiritual-sequel-to-summer-wars-and-a-modern-1848343572)
+ - [Up to 256GB/s bandwidth is possible for PCIe 6.0 devices, including GPUs and SSDs](https://www.pcgamer.com/up-to-256gbs-bandwidth-is-possible-for-pcie-60-devices-including-gpus-and-ssds)
+ - [Semiconductor supplier ASML suffers a factory fire in Berlin](https://www.pcgamer.com/semiconductor-supplier-asml-suffers-a-factory-fire-in-berlin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
