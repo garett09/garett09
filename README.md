@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium’s Aerostatic Pilot Jacket: The Kotaku Fashion Review](https://kotaku.com/disco-elysium-s-aerostatic-pilot-jacket-the-kotaku-fas-1848347076)
- - [Squid Game is disrupting Hollywood’s safe awards season](https://www.polygon.com/22880103/sag-award-nominations-squid-game-netflix)
- - [A digital museum for lockpicking minigames is coming to Steam](https://www.polygon.com/22880409/lock-picking-minigames-anthology-steam-games)<!-- GAME:END -->
+ - [Valve cancels Dota 2 Winter Major and pisses off pretty much every pro in the scene](https://www.pcgamer.com/valve-cancels-dota-2-winter-major-and-pisses-off-pretty-much-every-pro-in-the-scene)
+ - [We Can All Finally Learn How To Make Big Macs On Nintendo DS](https://kotaku.com/we-can-all-finally-learn-how-to-make-big-macs-on-ninten-1848347540)
+ - [Ranking the high and low notes of every modern movie musical](https://www.polygon.com/movies/22535614/movie-musicals-best-and-worst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
