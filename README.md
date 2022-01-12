@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it started... how it&amp;#039;s going](http://9gag.com/gag/aE8xr1p)
- - 🚯 [If you used this you&amp;#039;re officially old!!](http://9gag.com/gag/aGzj3bX)
- - 🚯 [Effect of pregnancy on the body](http://9gag.com/gag/a81oPn3)<!-- MEMES:END -->
+ - 🚖 [How Captains Steer Cruise Ships](http://9gag.com/gag/aVx3GWP)
+ - 🚯 [To try and hit a person on a bike with a car door....](http://9gag.com/gag/ay9XgjY)
+ - 🚯 [Satisfying](http://9gag.com/gag/arng6mK)<!-- MEMES:END -->
 
 --- 
 
