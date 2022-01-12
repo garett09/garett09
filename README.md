@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle copycat creator apologizes for ripping off the popular free word game](https://www.theverge.com/2022/1/12/22880353/wordle-copycat-creator-apology-word-game-app-store-apple)
- - [Canalys: worldwide PC shipments grew 15% YoY in 2021 to 341M, the highest annual shipments since 2012; Apple&#39;s market share grew by 28.3%, Acer&#39;s by 21.8% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220112/p24#a220112p24)
- - [10 Great Deals for Bundling Up Indoors This Winter](https://www.wired.com/story/deals-january-12-2022)<!-- TECH:END -->
+ - [Apple TV+ limited series &#39;The Last Days of Ptolemy Grey&#39; coming March 11](https://appleinsider.com/articles/22/01/12/apple-tv-limited-series-the-last-days-of-ptolemy-grey-coming-march-11?utm_medium=rss)
+ - [Mu-So 2 wood &amp; Bentley editions review: Two twists on this high-end AirPlay 2 speaker](https://appleinsider.com/articles/22/01/12/mu-so-2-wood-bentley-editions-review-two-twists-on-this-high-end-airplay-2-speaker?utm_medium=rss)
+ - [Wear OS will work better for lefties... eventually](https://www.theverge.com/2022/1/12/22879994/wear-os-lefties-smartwatches-fossil-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
