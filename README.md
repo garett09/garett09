@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Becca’s ‘buds’ beat out other words](https://www.theverge.com/20961163/becca-farsace-buds-youtube-data-language-video-host)
- - [Over 80 fact-checking organizations tell YouTube CEO Susan Wojcicki that its measures to combat misinformation are &quot;proving insufficient&quot; and propose solutions &lpar;Poynter&rpar;](http://www.techmeme.com/220112/p21#a220112p21)
- - [iPhone 13 supply largely meets demand, MacBook Pro still constrained](https://appleinsider.com/articles/22/01/12/iphone-13-supply-largely-meets-demand-macbook-pro-still-constrained?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 supply largely meets demand, MacBook Pro still constrained](https://appleinsider.com/articles/22/01/12/iphone-13-supply-largely-meets-demand-macbook-pro-still-constrained?utm_medium=rss)
+ - [Singapore&#39;s crypto strategy has welcomed and then disillusioned many companies, including Binance, as the city-state tries to protect its citizens against risks &lpar;Chanyaporn Chanjaroen/Bloomberg&rpar;](http://www.techmeme.com/220112/p22#a220112p22)
+ - [Apple grew Mac shipments &amp; marketshare in strong fourth quarter for PCs](https://appleinsider.com/articles/22/01/12/apple-grew-mac-shipments-marketshare-in-strong-fourth-quarter-for-pcs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
