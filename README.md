@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Realme Pad is less than 6 months old, but won’t be getting OS updates](https://www.androidauthority.com/realme-pad-os-updates-3088305/)
- - [Daily Authority: 🤷‍♂️ Exynos no show?](https://www.androidauthority.com/da-january-12-2022-3088387/)
- - [As Omicron Surges, Parents of the Youngest Kids Wait for Vaccines](https://www.wired.com/story/as-omicron-surges-parents-of-the-youngest-kids-endure-an-agonizing-wait)<!-- TECH:END -->
+ - [London-based Checkout.com, which offers payment processing tools, raises $1B in a share sale, sources say at a $40B valuation &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/220112/p14#a220112p14)
+ - [Jakarta-based investment app Pluang adds $55M to its Series B, bringing the round to $110M, led by Accel to expand in Southeast Asia &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220112/p13#a220112p13)
+ - [BigPanda, an IT management company that uses AI to detect and resolve outages, raises $190M led by Advent and Insight at a $1.2B valuation &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220112/p12#a220112p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
