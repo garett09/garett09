@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playground?](http://9gag.com/gag/ay9BE5b)
- - 🚯 [Since some people tend to forget. The Nothing Box](http://9gag.com/gag/a0ZKmrd)
- - 🚯 [Germany what you doing?](http://9gag.com/gag/adgK3X2)<!-- MEMES:END -->
+ - 🚖 [The sport I love](http://9gag.com/gag/aGzZK1w)
+ - 🚯 [Playground?](http://9gag.com/gag/ay9BE5b)
+ - 🚯 [Not like what I thought, seriously](http://9gag.com/gag/aogNBQw)<!-- MEMES:END -->
 
 --- 
 
