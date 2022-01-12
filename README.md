@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle clones are starting to disappear from the App Store, after reports surfaced about many capitalizing on Wordle&#39;s popularity &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220111/p35#a220111p35)
- - [FAA lists 50 airports getting temporary buffer zones blocking new 5G signals     - CNET](https://www.cnet.com/tech/mobile/faa-lists-50-airports-getting-temporary-buffer-zones-blocking-new-5g-signals/#ftag=CAD590a51e)
- - [Celebrities including Kim Kardashian sued in a proposed class action suit for allegedly leading investors into an EthereumMax cryptocurrency pump-and-dump scam &lpar;Talal Ansari/Wall Street Journal&rpar;](http://www.techmeme.com/220111/p34#a220111p34)<!-- TECH:END -->
+ - [Germany-based Alasco, which offers cloud-based financial management tools for real estate projects, raises a $40M Series B led by Insight Partners and Lightrock &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220111/p39#a220111p39)
+ - [Samsung, which had previously announced a January 11 event for Exynos 2200, was a no-show at the product launch event without any explanation or a new date &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220111/p38#a220111p38)
+ - [Envoy raises a $111M Series C at a $1.4B valuation, after pivoting from office visitor sign-in systems to creating tools for hybrid workplace management &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220111/p37#a220111p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
