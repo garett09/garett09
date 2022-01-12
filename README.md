@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Job well done](http://9gag.com/gag/amg7j6v)
- - 🚯 [Behold, the sweet burger!](http://9gag.com/gag/a31K9PQ)
- - 🚯 [Bug fix](http://9gag.com/gag/aXrx5Gd)<!-- MEMES:END -->
+ - 🚖 [Don&amp;#039;t think this Russian man likes to wear a mask](http://9gag.com/gag/angM6pL)
+ - 🚯 [Effect of pregnancy on the body](http://9gag.com/gag/a81oPn3)
+ - 🚯 [How it started... how it&amp;#039;s going](http://9gag.com/gag/aE8xr1p)<!-- MEMES:END -->
 
 --- 
 
