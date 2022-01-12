@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Didi begins informal talks with the Hong Kong stock exchange about a public listing, as it courts state-backed groups to placate the Chinese government &lpar;Financial Times&rpar;](http://www.techmeme.com/220111/p32#a220111p32)
- - [Verizon, AT&amp;T, and T-Mobile say they’re not blocking Apple’s iCloud Private Relay](https://www.theverge.com/22878885/verizon-att-t-mobile-apple-icloud-private-relay-feature-supported)
- - [The App Store clones are here to profit off Wordle’s success](https://www.theverge.com/2022/1/11/22878752/wordle-app-store-review-copies-advertisements-in-app-purchase)<!-- TECH:END -->
+ - [Wordle clones are starting to disappear from the App Store, after reports surfaced about many capitalizing on Wordle&#39;s popularity &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220111/p35#a220111p35)
+ - [FAA lists 50 airports getting temporary buffer zones blocking new 5G signals     - CNET](https://www.cnet.com/tech/mobile/faa-lists-50-airports-getting-temporary-buffer-zones-blocking-new-5g-signals/#ftag=CAD590a51e)
+ - [Celebrities including Kim Kardashian sued in a proposed class action suit for allegedly leading investors into an EthereumMax cryptocurrency pump-and-dump scam &lpar;Talal Ansari/Wall Street Journal&rpar;](http://www.techmeme.com/220111/p34#a220111p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
