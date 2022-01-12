@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;iPhone 14 Pro&#39; could feature both hole-punch and pill-shape display design](https://appleinsider.com/articles/22/01/12/iphone-14-pro-could-feature-both-hole-punch-and-pill-shape-display-design?utm_medium=rss)
- - [New 16-inch MacBook Pro 32GB models are up to $200 off, back in stock](https://appleinsider.com/articles/22/01/12/new-16-inch-macbook-pro-32gb-models-are-up-to-200-off-back-in-stock?utm_medium=rss)
- - [How to listen to music offline on Spotify](https://www.androidauthority.com/how-to-listen-offline-spotify-3088096/)<!-- TECH:END -->
+ - [Apple seeds second developer betas of iOS 15.3, iPadOS 15.3, tvOS 15.3, watchOS 8.4](https://appleinsider.com/articles/22/01/12/apple-seeds-second-developer-betas-of-ios-153-ipados-153-tvos-153-watchos-84?utm_medium=rss)
+ - [Magic Leap’s new AR headset is rolling out to healthcare companies](https://www.theverge.com/2022/1/12/22880090/magic-leap-2-ar-headset-rollout-healthcare-companies)
+ - [The PS5 and Xbox Series X will restock on Thursday for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
