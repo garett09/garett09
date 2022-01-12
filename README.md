@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Litra Glow review: A brilliant, affordable LED light for streaming or working from home     - CNET](https://www.cnet.com/tech/computing/logitech-litra-glow-review-a-brilliant-affordable-led-light-for-streaming-or-working-from-home/#ftag=CAD590a51e)
- - [Crypto firms flood DC with money ahead of a federal push for new crypto rules, as donations from crypto execs become a key source of cash for some lawmakers &lpar;Joe Light/Bloomberg&rpar;](http://www.techmeme.com/220112/p4#a220112p4)
- - [Google brings second-gen Nest Hub to India, but key features are missing](https://www.androidauthority.com/second-gen-google-nest-hub-india-3088181/)<!-- TECH:END -->
+ - [Report: The Exynos 2200 launch is delayed, but everything is fine](https://www.androidauthority.com/report-exynos-2200-release-3088232/)
+ - [Samsung’s big battery budget tablet is heading to India](https://www.androidauthority.com/samsung-galaxy-tab-a8-india-3088230/)
+ - [Logitech Litra Glow review: A brilliant, affordable LED light for streaming or working from home     - CNET](https://www.cnet.com/tech/computing/logitech-litra-glow-review-a-brilliant-affordable-led-light-for-streaming-or-working-from-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
