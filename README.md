@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr backtracks on blocking sensitive content on iOS, makes it optional](https://appleinsider.com/articles/22/01/12/tumblr-backtracks-on-blocking-sensitive-content-on-ios-makes-it-optional?utm_medium=rss)
- - [Wyze’s security camera pay-what-you-want subscription accepts $0](https://www.theverge.com/2022/1/12/22879759/wyze-cam-plus-lite-pay-what-you-want-subscription-person-detection-cloud-recordings-12-seconds)
- - [PCIe 6.0 is coming for the speedy SSDs and GPUs of the future](https://www.theverge.com/2022/1/12/22879732/pcie-6-0-final-specification-bandwidth-speeds)<!-- TECH:END -->
+ - [The Realme Pad is less than 6 months old, but won’t be getting OS updates](https://www.androidauthority.com/realme-pad-os-updates-3088305/)
+ - [Daily Authority: 🤷‍♂️ Exynos no show?](https://www.androidauthority.com/da-january-12-2022-3088387/)
+ - [As Omicron Surges, Parents of the Youngest Kids Wait for Vaccines](https://www.wired.com/story/as-omicron-surges-parents-of-the-youngest-kids-endure-an-agonizing-wait)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
