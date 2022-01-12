@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Belle Is A Spiritual Sequel To Summer Wars And A Modern Beauty And The Beast](https://kotaku.com/belle-is-a-spiritual-sequel-to-summer-wars-and-a-modern-1848343572)
- - [Up to 256GB/s bandwidth is possible for PCIe 6.0 devices, including GPUs and SSDs](https://www.pcgamer.com/up-to-256gbs-bandwidth-is-possible-for-pcie-60-devices-including-gpus-and-ssds)
- - [Semiconductor supplier ASML suffers a factory fire in Berlin](https://www.pcgamer.com/semiconductor-supplier-asml-suffers-a-factory-fire-in-berlin)<!-- GAME:END -->
+ - [This Half-Life mod replaces Gordon Freeman with Spyro the Dragon](https://www.pcgamer.com/this-half-life-mod-replaces-gordon-freeman-with-spyro-the-dragon)
+ - [PUBG: Battlegrounds is now free-to-play](https://www.pcgamer.com/pubg-battlegrounds-is-now-free-to-play)
+ - [All the fearsome beasts you&#39;ll be fighting in Monster Hunter Rise](https://www.pcgamer.com/monster-hunter-rise-monster-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
