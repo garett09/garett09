@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ limited series &#39;The Last Days of Ptolemy Grey&#39; coming March 11](https://appleinsider.com/articles/22/01/12/apple-tv-limited-series-the-last-days-of-ptolemy-grey-coming-march-11?utm_medium=rss)
- - [Mu-So 2 wood &amp; Bentley editions review: Two twists on this high-end AirPlay 2 speaker](https://appleinsider.com/articles/22/01/12/mu-so-2-wood-bentley-editions-review-two-twists-on-this-high-end-airplay-2-speaker?utm_medium=rss)
- - [Wear OS will work better for lefties... eventually](https://www.theverge.com/2022/1/12/22879994/wear-os-lefties-smartwatches-fossil-google)<!-- TECH:END -->
+ - [Congressional watchdog calls for stronger regulation of crypto ATMs](https://www.theverge.com/2022/1/12/22880282/gao-irs-fincen-crypto-kiosk-atm-address-submission-report-crime)
+ - [Hands on with the best gear for Apple users at CES 2022](https://appleinsider.com/articles/22/01/12/hands-on-with-the-best-gear-for-apple-users-at-ces-2022?utm_medium=rss)
+ - [Apple loses second key chip engineer, this time to Microsoft](https://appleinsider.com/articles/22/01/12/apple-loses-second-key-chip-engineer-this-time-to-microsoft?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
