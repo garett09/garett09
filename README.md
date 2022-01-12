@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sport I love](http://9gag.com/gag/aGzZK1w)
- - 🚯 [Since some people tend to forget. The Nothing Box](http://9gag.com/gag/a0ZKmrd)
- - 🚯 [Playground?](http://9gag.com/gag/ay9BE5b)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;m 40... it was yesterday and I&amp;#039;m still smiling...](http://9gag.com/gag/adgK32M)
+ - 🚯 [Future boy](http://9gag.com/gag/a91Kbqm)
+ - 🚯 [A truth](http://9gag.com/gag/aBnxD5Q)<!-- MEMES:END -->
 
 --- 
 
