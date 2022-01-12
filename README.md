@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech Litra Glow review: A brilliant, affordable LED light for streaming or working from home     - CNET](https://www.cnet.com/tech/computing/logitech-litra-glow-review-a-brilliant-affordable-led-light-for-streaming-or-working-from-home/#ftag=CAD590a51e)
  - [Crypto firms flood DC with money ahead of a federal push for new crypto rules, as donations from crypto execs become a key source of cash for some lawmakers &lpar;Joe Light/Bloomberg&rpar;](http://www.techmeme.com/220112/p4#a220112p4)
- - [Google brings second-gen Nest Hub to India, but key features are missing](https://www.androidauthority.com/second-gen-google-nest-hub-india-3088181/)
- - [A look at BigScience, a global effort of 900+ researchers backed by NLP startup Hugging Face, that&#39;s working to make large language models more accessible &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220112/p3#a220112p3)<!-- TECH:END -->
+ - [Google brings second-gen Nest Hub to India, but key features are missing](https://www.androidauthority.com/second-gen-google-nest-hub-india-3088181/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
