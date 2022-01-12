@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Courtney Love warning about Harvey Weinstein in 2005](http://9gag.com/gag/aegrjGb)
- - 🚯 [Legends](http://9gag.com/gag/aZrLPZp)
- - 🚯 [When the store clerk can identify a fake gun](http://9gag.com/gag/ang9q8q)<!-- MEMES:END -->
+ - 🚖 [How to peel potatoes faster than any housewife](http://9gag.com/gag/aLvgKrW)
+ - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aggn311)
+ - 🚯 [Reminder that this gem exists.](http://9gag.com/gag/aQXRPA7)<!-- MEMES:END -->
 
 --- 
 
