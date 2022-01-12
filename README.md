@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Independent Media](http://9gag.com/gag/aBnxAL1)
- - 🚯 [A normal day at canada](http://9gag.com/gag/angM6Rb)
+ - 🚖 [The herro we needed](http://9gag.com/gag/aZr3ePz)
+ - 🚯 [Oosh](http://9gag.com/gag/a0ZK26O)
  - 🚯 [A cosmopolitan city, Hong Kong blends Western and Asian elements into a world-class paradise of culture.](http://9gag.com/gag/a11XDZw)<!-- MEMES:END -->
 
 --- 
