@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s been nearly a month and you still can&#39;t buy Final Fantasy 14](https://www.pcgamer.com/its-been-nearly-a-month-and-you-still-cant-buy-final-fantasy-14)
- - [Uh oh, Superman &amp; Lois is going there](https://www.polygon.com/22880235/superman-and-lois-season-2-premiere)
- - [Speedrunner Beats Halo Infinite On The Highest Difficulty Without Firing A Single Bullet](https://kotaku.com/speedrunner-beats-halo-infinite-on-the-highest-difficul-1848346245)<!-- GAME:END -->
+ - [Disco Elysium’s Aerostatic Pilot Jacket: The Kotaku Fashion Review](https://kotaku.com/disco-elysium-s-aerostatic-pilot-jacket-the-kotaku-fas-1848347076)
+ - [Squid Game is disrupting Hollywood’s safe awards season](https://www.polygon.com/22880103/sag-award-nominations-squid-game-netflix)
+ - [A digital museum for lockpicking minigames is coming to Steam](https://www.polygon.com/22880409/lock-picking-minigames-anthology-steam-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
