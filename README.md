@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even if it means sucking dicks](http://9gag.com/gag/apg2eA9)
- - 🚯 [If you ever wondered what concentrated luck looks like, this guy was frickin shot with a load of it.](http://9gag.com/gag/aPZjNQK)
+ - 🚖 [Since some people tend to forget. The Nothing Box](http://9gag.com/gag/a0ZKmrd)
+ - 🚯 [So beautiful](http://9gag.com/gag/aWg1VxK)
  - 🚯 [You give your dog a bath. 5 minutes later:](http://9gag.com/gag/a71MjAm)<!-- MEMES:END -->
 
 --- 
