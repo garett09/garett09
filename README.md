@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM is creating an online used car marketplace](https://www.theverge.com/2022/1/12/22880695/gm-general-motors-carbravo-online-used-car-marketplace-website)
- - [Sources: Microsoft has hired a veteran semiconductor designer from Apple, as it seeks to develop its own chips for Azure servers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220112/p28#a220112p28)
- - [The Antitrust Case Against Facebook Draws Blood](https://www.wired.com/story/facebook-ftc-antitrust-non-price-theory)<!-- TECH:END -->
+ - [T-Mobile backs down on claim that iOS 15.2 changed iCloud Private Relay settings](https://appleinsider.com/articles/22/01/12/t-mobile-backs-down-on-claim-that-ios-152-changed-icloud-private-relay-settings?utm_medium=rss)
+ - [Apple will clarify iCloud Private Relay error messages in iOS 15.3 to not blame cell carriers as much](https://www.theverge.com/2022/1/12/22880835/apple-clarify-icloud-private-relay-error-messages-ios-15-3-cell-carriers)
+ - [Nigeria will lift its ban on Twitter after suspending it on June 4 last year; Twitter has agreed to open an office in Nigeria, among other agreements &lpar;Felix Onuah/Reuters&rpar;](http://www.techmeme.com/220112/p30#a220112p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
