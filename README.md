@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony confirms PlayStation 4 production will continue in 2022, which sources claim will help the company offset some PlayStation 5 production pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/220112/p1#a220112p1)
  - [Arkansas-based AcreTrader, an online farmland investment portal, raises a $40M Series B led by Anthemis Group, bringing its total funding to $58M &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/220111/p40#a220111p40)
- - [Germany-based Alasco, which offers cloud-based financial management tools for real estate projects, raises a $40M Series B led by Insight Partners and Lightrock &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220111/p39#a220111p39)
- - [Samsung, which had announced a January 11 event for the Exynos 2200, didn&#39;t show up to its own product launch and has yet to provide an explanation &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220111/p38#a220111p38)<!-- TECH:END -->
+ - [Germany-based Alasco, which offers cloud-based financial management tools for real estate projects, raises a $40M Series B led by Insight Partners and Lightrock &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220111/p39#a220111p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
