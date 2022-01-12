@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Captains Steer Cruise Ships](http://9gag.com/gag/aVx3GWP)
- - 🚯 [I dont even know his name](http://9gag.com/gag/aDDxpPx)
- - 🚯 [The saxophone player.](http://9gag.com/gag/aWg1K7x)<!-- MEMES:END -->
+ - 🚖 [Even if it means sucking dicks](http://9gag.com/gag/apg2eA9)
+ - 🚯 [If you ever wondered what concentrated luck looks like, this guy was frickin shot with a load of it.](http://9gag.com/gag/aPZjNQK)
+ - 🚯 [You give your dog a bath. 5 minutes later:](http://9gag.com/gag/a71MjAm)<!-- MEMES:END -->
 
 --- 
 
