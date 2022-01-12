@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RPGolf Legends swings to PS4 and PS5 January 20](https://blog.playstation.com/2022/01/12/rpgolf-legends-swings-to-ps4-and-ps5-january-20/)
- - [RPGolf Legends swings to PS4 and PS5 January 20](https://blog.playstation.com/2022/01/12/rpgolf-legends-swings-to-ps4-and-ps5-january-20/)
- - [Critical Role’s The Legend of Vox Machina trailer gives fantasy tropes the finger](https://www.polygon.com/22880063/critical-role-legend-of-vox-machina-trailer)<!-- GAME:END -->
+ - [Sony keeps PS4 factories churning to relieve pressure from PS5 demand](https://www.polygon.com/22880166/ps5-demand-sales-ps4-supported-production-sony)
+ - [PUBG: Battlegrounds is Now Free to Play](https://news.xbox.com/en-us/2022/01/12/pubg-battlegrounds-is-now-free-to-play/)
+ - [God of War’s load times are instant on PC, but you might not notice](https://www.polygon.com/gaming/22879054/god-of-war-pc-loading-times-fast-travel-ragnarok)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
