@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)
- - [Riot will pay employees 25% of their salary to quit if they aren&#39;t convinced by its new direction](https://www.pcgamer.com/riot-five-year-plan)
- - [Netflix’s bleak sci-fi film The Colony mashes up Children of Men and Aliens](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)<!-- GAME:END -->
+ - [Easy Anti-Cheat implementation on Steam Deck may not be as easy as first thought](https://www.pcgamer.com/easy-anti-cheat-implementation-on-steam-deck-may-not-be-as-easy-as-first-thought)
+ - [12th Gen DRM issues are a thing of the past](https://www.pcgamer.com/12th-gen-drm-issues-are-a-thing-of-the-past)
+ - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
