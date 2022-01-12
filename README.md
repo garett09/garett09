@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 supply largely meets demand, MacBook Pro still constrained](https://appleinsider.com/articles/22/01/12/iphone-13-supply-largely-meets-demand-macbook-pro-still-constrained?utm_medium=rss)
- - [Singapore&#39;s crypto strategy has welcomed and then disillusioned many companies, including Binance, as the city-state tries to protect its citizens against risks &lpar;Chanyaporn Chanjaroen/Bloomberg&rpar;](http://www.techmeme.com/220112/p22#a220112p22)
- - [Apple grew Mac shipments &amp; marketshare in strong fourth quarter for PCs](https://appleinsider.com/articles/22/01/12/apple-grew-mac-shipments-marketshare-in-strong-fourth-quarter-for-pcs?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;iPhone 14 Pro&#39; could feature both hole-punch and pill-shape display design](https://appleinsider.com/articles/22/01/12/iphone-14-pro-could-feature-both-hole-punch-and-pill-shape-display-design?utm_medium=rss)
+ - [New 16-inch MacBook Pro 32GB models are up to $200 off, back in stock](https://appleinsider.com/articles/22/01/12/new-16-inch-macbook-pro-32gb-models-are-up-to-200-off-back-in-stock?utm_medium=rss)
+ - [How to listen to music offline on Spotify](https://www.androidauthority.com/how-to-listen-offline-spotify-3088096/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
