@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second developer betas of iOS 15.3, iPadOS 15.3, tvOS 15.3, watchOS 8.4](https://appleinsider.com/articles/22/01/12/apple-seeds-second-developer-betas-of-ios-153-ipados-153-tvos-153-watchos-84?utm_medium=rss)
- - [Magic Leap’s new AR headset is rolling out to healthcare companies](https://www.theverge.com/2022/1/12/22880090/magic-leap-2-ar-headset-rollout-healthcare-companies)
- - [The PS5 and Xbox Series X will restock on Thursday for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)<!-- TECH:END -->
+ - [Wordle copycat creator apologizes for ripping off the popular free word game](https://www.theverge.com/2022/1/12/22880353/wordle-copycat-creator-apology-word-game-app-store-apple)
+ - [Canalys: worldwide PC shipments grew 15% YoY in 2021 to 341M, the highest annual shipments since 2012; Apple&#39;s market share grew by 28.3%, Acer&#39;s by 21.8% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220112/p24#a220112p24)
+ - [10 Great Deals for Bundling Up Indoors This Winter](https://www.wired.com/story/deals-january-12-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
