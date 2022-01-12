@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the store clerk can identify a fake gun](http://9gag.com/gag/ang9q8q)
- - 🚯 [Cholesterol go brrrr](http://9gag.com/gag/aGzZKez)
- - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aggn311)<!-- MEMES:END -->
+ - 🚖 [Allright, allright, allright](http://9gag.com/gag/aQXRqpe)
+ - 🚯 [Professor football](http://9gag.com/gag/aQXR6B8)
+ - 🚯 [Future boy](http://9gag.com/gag/a91Kbqm)<!-- MEMES:END -->
 
 --- 
 
