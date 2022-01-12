@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to peel potatoes faster than any housewife](http://9gag.com/gag/aLvgKrW)
- - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aggn311)
- - 🚯 [Reminder that this gem exists.](http://9gag.com/gag/aQXRPA7)<!-- MEMES:END -->
+ - 🚖 [Reminder that this gem exists.](http://9gag.com/gag/aQXRPA7)
+ - 🚯 [Police save dog from hot car.](http://9gag.com/gag/abgYX7B)
+ - 🚯 [How to peel potatoes faster than any housewife](http://9gag.com/gag/aLvgKrW)<!-- MEMES:END -->
 
 --- 
 
