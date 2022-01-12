@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five New Ways to Keep Your Fish Happy in Megaquarium’s New Freshwater Frenzy DLC](https://news.xbox.com/en-us/2022/01/12/five-new-ways-to-keep-your-fish-happy-in-megaquariums-new-freshwater-frenzy-dlc/)
- - [No Way Home Memes make Doc Ock look scarier without the arms](https://www.polygon.com/22880209/spider-man-no-way-home-floating-doc-ock-twitter-memes)
- - [Sonic 4: Episode II Speedrun Record Broken By Player In Cursed Sonic Outfit](https://kotaku.com/sonic-4-episode-ii-speedrun-record-broken-by-player-in-1848345366)<!-- GAME:END -->
+ - [It&#39;s been nearly a month and you still can&#39;t buy Final Fantasy 14](https://www.pcgamer.com/its-been-nearly-a-month-and-you-still-cant-buy-final-fantasy-14)
+ - [Uh oh, Superman &amp; Lois is going there](https://www.polygon.com/22880235/superman-and-lois-season-2-premiere)
+ - [Speedrunner Beats Halo Infinite On The Highest Difficulty Without Firing A Single Bullet](https://kotaku.com/speedrunner-beats-halo-infinite-on-the-highest-difficul-1848346245)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
