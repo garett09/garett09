@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merit, which lets governments issue digital credentials that link back to a government license database, raises a $50M Series B led by Rose Park Advisors &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220113/p2#a220113p2)
- - [Google’s Pixel Fold could adopt a stubbier design than its main competition](https://www.androidauthority.com/google-pixel-fold-design-3088933/)
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on the global chip shortage, competing with Apple&#39;s A-series and M-series chips, Snapdragon&#39;s new naming scheme, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220113/p1#a220113p1)<!-- TECH:END -->
+ - [A look at the Buy Nothing Project, which grew via Facebook Groups of neighbors gifting unwanted items and which now has 7K communities across 44 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220113/p3#a220113p3)
+ - [Samsung Galaxy S20 series gains January 2022 update in the US](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [Merit, which lets governments issue digital credentials that link back to a government license database, raises a $50M Series B led by Rose Park Advisors &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220113/p2#a220113p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
