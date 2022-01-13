@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave guys save a can from a bear cub](http://9gag.com/gag/adgLNKZ)
- - 🚯 [Allright, allright, allright](http://9gag.com/gag/aQXRqpe)
- - 🚯 [This is what the internet was made for](http://9gag.com/gag/aM4ZbXP)<!-- MEMES:END -->
+ - 🚖 [This is what the internet was made for](http://9gag.com/gag/aM4ZbXP)
+ - 🚯 [M&amp;#039;lady](http://9gag.com/gag/aGzZ935)
+ - 🚯 [GRANDMAAAA!!!](http://9gag.com/gag/aze9E7x)<!-- MEMES:END -->
 
 --- 
 
