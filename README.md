@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Influencers](http://9gag.com/gag/awzA5ry)
- - 🚯 [Aaaaall you can eat!](http://9gag.com/gag/aOQYVW6)
+ - 🚖 [Sacrifice to protect](http://9gag.com/gag/abgY6v9)
+ - 🚯 [Influencers](http://9gag.com/gag/awzA5ry)
  - 🚯 [Are we still allowed to joke?](http://9gag.com/gag/aZrLBmV)<!-- MEMES:END -->
 
 --- 
