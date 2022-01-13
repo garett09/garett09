@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thanos and the Eternals actually go way back](https://www.polygon.com/22765220/thanos-eternals-deviants-marvel)
- - [Shadow and Bone casts some fan favorites for season 2](https://www.polygon.com/22881723/shadow-and-bone-season-2-cast-wylan-nikolai)
- - [God of War on PC: Gameplay tips for tomorrow’s launch](https://blog.playstation.com/2022/01/13/god-of-war-on-pc-gameplay-tips-for-tomorrows-launch/)<!-- GAME:END -->
+ - [Hitman 3 is getting a new roguelike game mode](https://www.pcgamer.com/hitman-3-is-getting-a-new-roguelike-game-mode)
+ - [Fortnite Sneaks Back Onto iPhone By Way Of GeForce Now](https://kotaku.com/fortnite-sneaks-back-onto-iphone-by-way-of-geforce-now-1848352947)
+ - [Halo Infinite is great, but I can&#39;t stand playing it](https://www.pcgamer.com/halo-infinite-is-great-but-i-cant-stand-playing-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
