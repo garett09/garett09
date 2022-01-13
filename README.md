@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Studio Ghibli Teams Up With Luxury Brand For Some Expensive Merch](https://kotaku.com/studio-ghibli-teams-up-with-luxury-brand-for-some-expen-1848350929)
  - [Astroneer’s Switch port is great for exploration, less so for base-building](https://www.polygon.com/22880805/astroneer-nintendo-switch-port-review-impressions)
- - [The baby of the 12th Gen range, the Celeron G6900 can match the i9 10900K in single threaded performance](https://www.pcgamer.com/the-baby-of-the-12th-gen-range-the-celeron-g6900-can-match-the-i9-10900k-in-single-threaded-performance)
- - [Nvidia Shield Android 11 update brings improved 4k streaming and gaming](https://www.pcgamer.com/nvidia-shield-android-11-update-brings-improved-4k-streaming-and-gaming)<!-- GAME:END -->
+ - [The baby of the 12th Gen range, the Celeron G6900 can match the i9 10900K in single threaded performance](https://www.pcgamer.com/the-baby-of-the-12th-gen-range-the-celeron-g6900-can-match-the-i9-10900k-in-single-threaded-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
