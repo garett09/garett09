@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung&#39;s Exynos 2200 reveal mysteriously delayed](https://www.pcgamer.com/samsungs-exynos-2200-reveal-mysteriously-delayed)
- - [The best Mass Effect Legendary Edition mods](https://www.pcgamer.com/the-best-mass-effect-legendary-edition-mods)
- - [The best Wordle starting words and other winning strategies from expert nerds](https://www.pcgamer.com/the-best-wordle-starting-words-and-other-winning-strategies-from-expert-nerds)<!-- GAME:END -->
+ - [Astroneer’s Switch port is great for exploration, less so for base-building](https://www.polygon.com/22880805/astroneer-nintendo-switch-port-review-impressions)
+ - [The baby of the 12th Gen range, the Celeron G6900 can match the i9 10900K in single threaded performance](https://www.pcgamer.com/the-baby-of-the-12th-gen-range-the-celeron-g6900-can-match-the-i9-10900k-in-single-threaded-performance)
+ - [Nvidia Shield Android 11 update brings improved 4k streaming and gaming](https://www.pcgamer.com/nvidia-shield-android-11-update-brings-improved-4k-streaming-and-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
