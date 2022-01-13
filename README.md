@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These MacBook Air, M1 iMac models with 16GB RAM are up to $150 off, free expedited shipping](https://appleinsider.com/articles/22/01/10/5-macbook-air-m1-imac-models-with-16gb-ram-are-up-to-150-off-in-stock?utm_medium=rss)
- - [Best deals Jan. 13: 50% off Netgear Orbi mesh routers, Nintendo Switch OLED is in stock, more!](https://appleinsider.com/articles/22/01/13/best-deals-jan-13-50-off-netgear-orbi-mesh-routers-nintendo-switch-oled-is-in-stock-more?utm_medium=rss)
- - [Baby Shark becomes the first YouTube video to cross 10B views &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220113/p26#a220113p26)<!-- TECH:END -->
+ - [Apple AirPods 3 dip to $139.99 at Amazon in latest price war](https://appleinsider.com/articles/22/01/13/apple-airpods-3-dip-to-13999-at-amazon-in-latest-price-war?utm_medium=rss)
+ - [Apple seeds second developer betas of iOS 15.3, iPadOS 15.3, tvOS 15.3, watchOS 8.4](https://appleinsider.com/articles/22/01/12/apple-seeds-second-developer-betas-of-ios-153-ipados-153-tvos-153-watchos-84?utm_medium=rss)
+ - [Apple releases iOS 15.3 and iPadOS 15.3 public beta 2](https://appleinsider.com/articles/22/01/13/apple-releases-ios-153-and-ipados-153-public-beta-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
