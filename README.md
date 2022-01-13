@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2015’s Nvidia Shield TV has received more OS updates than the Pixel 6 ever will](https://www.androidauthority.com/nvidia-shield-tv-updates-best-3089027/)
- - [Chicago- and Bengaluru-based TheMathCompany, which offers data analytics tools, raises $50M led by Brighton Park Capital &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/220113/p21#a220113p21)
- - [Observable, which offers cloud-based tools to visualize and analyze data, raises a $35.6M Series B led by Menlo Ventures, bringing its total funding to $46.1M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220113/p20#a220113p20)<!-- TECH:END -->
+ - [Trending hashtag &#39;iPhone shower&#39; turns a silly accident into ongoing meme](https://appleinsider.com/articles/22/01/13/trending-hashtag-iphone-shower-turns-a-silly-accident-into-ongoing-meme?utm_medium=rss)
+ - [Users regard Apple Watch, fitness devices as medical tools and worry about results](https://appleinsider.com/articles/22/01/13/users-regard-apple-watch-fitness-devices-as-medical-tools-and-worry-about-results?utm_medium=rss)
+ - [Astrophysicists Release the Biggest Map of the Universe Yet](https://www.wired.com/story/astrophysicists-release-the-biggest-map-of-the-universe-yet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
