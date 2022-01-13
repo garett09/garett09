@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop is selling PlayStation 5 bundles in-store to Pro members on January 14th](https://www.theverge.com/2022/1/13/22882037/gamestop-playstation-5-bundles-in-store-to-pro-members-on-january-14th)
- - [The PS5 and Xbox Series X are available right now for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)
- - [A new Degrassi show is coming to HBO Max](https://www.theverge.com/2022/1/13/22882237/degrassi-hbo-max-the-next-generation)<!-- TECH:END -->
+ - [Meta will shut down its video speed dating service Sparked on January 20, after launching it last April and testing it in select markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220113/p30#a220113p30)
+ - [Twitter will now let all iOS and Android users record Spaces](https://www.theverge.com/2022/1/13/22882479/twitter-spaces-recordings-ios-android)
+ - [Activity data from wearables could help monitor blood sugar levels, study indicates](https://www.theverge.com/2022/1/13/22882382/activity-data-prediabetes-prediction-fitbit-wearable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
