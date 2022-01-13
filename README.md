@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got affiliate last week. And made a few cents already.](http://9gag.com/gag/aGzZx6n)
- - 🚯 [Some day it&amp;#039;ll be payback time.](http://9gag.com/gag/aBn01VN)
- - 🚯 [Burn them](http://9gag.com/gag/aE827Rn)<!-- MEMES:END -->
+ - 🚖 [Influencers](http://9gag.com/gag/awzA5ry)
+ - 🚯 [Aaaaall you can eat!](http://9gag.com/gag/aOQYVW6)
+ - 🚯 [Are we still allowed to joke?](http://9gag.com/gag/aZrLBmV)<!-- MEMES:END -->
 
 --- 
 
