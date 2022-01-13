@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 Is Going Rogue&lpar;like&rpar;](https://kotaku.com/hitman-3-is-going-rogue-like-1848351423)
- - [Archie Comics’ superdad returns in 2022 with The Fox: Family Values](https://www.polygon.com/22879087/archie-comics-the-fox-family-values-daniel-haspiel-vito-delsante)
- - [The Godfather returns to theaters for a 50th anniversary celebration](https://www.polygon.com/22881761/the-godfather-release-theaters-50th-anniversary-4k-box-set)<!-- GAME:END -->
+ - [Thanos and the Eternals actually go way back](https://www.polygon.com/22765220/thanos-eternals-deviants-marvel)
+ - [Shadow and Bone casts some fan favorites for season 2](https://www.polygon.com/22881723/shadow-and-bone-season-2-cast-wylan-nikolai)
+ - [God of War on PC: Gameplay tips for tomorrow’s launch](https://blog.playstation.com/2022/01/13/god-of-war-on-pc-gameplay-tips-for-tomorrows-launch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
