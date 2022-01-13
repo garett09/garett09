@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will shut down its video speed dating service Sparked on January 20, after launching it last April and testing it in select markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220113/p30#a220113p30)
- - [Twitter will now let all iOS and Android users record Spaces](https://www.theverge.com/2022/1/13/22882479/twitter-spaces-recordings-ios-android)
- - [Activity data from wearables could help monitor blood sugar levels, study indicates](https://www.theverge.com/2022/1/13/22882382/activity-data-prediabetes-prediction-fitbit-wearable)<!-- TECH:END -->
+ - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)
+ - [Apple announces &#39;Lincoln&#39;s Dilemma&#39; documentary exploring the journey to end slavery](https://appleinsider.com/articles/22/01/13/apple-announces-lincolns-dilemma-documentary-exploring-the-journey-to-end-slavery?utm_medium=rss)
+ - [Woman gets 18 months behind bars for stealing $1M in iPods meant for Native American students](https://appleinsider.com/articles/22/01/13/woman-gets-18-months-behind-bars-for-stealing-1m-in-ipods-meant-for-native-american-students?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
