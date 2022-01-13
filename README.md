@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q4 revenue rose 24.1% YoY to $15.74B as net profit reached $6.01B; capex will reach $40B to $44B in 2022, up from $30B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220113/p4#a220113p4)
- - [You told us: Here’s what Apple should do for Android users in iMessage](https://www.androidauthority.com/apple-android-imessage-poll-results-3088153/)
- - [Windows 11 doesn&#39;t have all the features we wanted     - CNET](https://www.cnet.com/tech/computing/windows-11-doesnt-have-all-the-features-we-wanted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft has discontinued all Xbox One consoles](https://www.theverge.com/2022/1/13/22881211/microsoft-discontinues-xbox-one-consoles-2020)
+ - [Nigeria lifts Twitter ban, says the company has agreed to government demands](https://www.theverge.com/2022/1/13/22881580/nigeria-twitter-ban-agreed-government-demands-local-office-tax)
+ - [Krafton, which makes PlayerUnknown&#39;s Battlegrounds, sues Apple and Google, arguing that neither company removed a game that allegedly copies PUBG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220113/p7#a220113p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
