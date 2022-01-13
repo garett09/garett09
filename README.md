@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile backs down on claim that iOS 15.2 changed iCloud Private Relay settings](https://appleinsider.com/articles/22/01/12/t-mobile-backs-down-on-claim-that-ios-152-changed-icloud-private-relay-settings?utm_medium=rss)
- - [Apple will clarify iCloud Private Relay error messages in iOS 15.3 to not blame cell carriers as much](https://www.theverge.com/2022/1/12/22880835/apple-clarify-icloud-private-relay-error-messages-ios-15-3-cell-carriers)
- - [Nigeria will lift its ban on Twitter after suspending it on June 4 last year; Twitter has agreed to open an office in Nigeria, among other agreements &lpar;Felix Onuah/Reuters&rpar;](http://www.techmeme.com/220112/p30#a220112p30)<!-- TECH:END -->
+ - [Hands on with the weirdest stuff we saw at CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-weirdest-stuff-we-saw-at-ces-2022?utm_medium=rss)
+ - [Apple confirms it removed several Wordle clones from the App Store, after reports surfaced about many clones capitalizing on the guessing game&#39;s popularity &lpar;Martine Paris/Bloomberg&rpar;](http://www.techmeme.com/220112/p33#a220112p33)
+ - [Coinbase says it is acquiring FairX, a CFTC-regulated derivatives exchange, and plans to bring crypto derivatives and futures products to US customers &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220112/p32#a220112p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
