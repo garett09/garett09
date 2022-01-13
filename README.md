@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on the global chip shortage, competing with Apple&#39;s A-series and M-series chips, Snapdragon&#39;s new naming scheme, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220113/p1#a220113p1)
  - [Dublin-based Flipdish, which provides tech for creating food ordering apps to ~7K restaurants in 25 countries, raises $96M led by Tencent at a $1.25B valuation &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/220112/p37#a220112p37)
- - [Apple and T-Mobile say iOS 15.2 didn’t switch off iCloud Private Relay](https://www.theverge.com/2022/1/12/22881337/apple-t-mobile-icloud-private-relay-bug-ios-15-2)
- - [India-based LEAD School, which is helping digitize affordable private schools, raises a $100M Series E at a $1.1B valuation, bringing its total funding to $170M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p36#a220112p36)<!-- TECH:END -->
+ - [See an awesome 3D map of the massive cosmic bubble surrounding Earth     - CNET](https://www.cnet.com/news/see-an-awesome-3d-map-of-the-massive-cosmic-bubble-surrounding-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
