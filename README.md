@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft has discontinued all Xbox One consoles](https://www.theverge.com/2022/1/13/22881211/microsoft-discontinues-xbox-one-consoles-2020)
- - [Nigeria lifts Twitter ban, says the company has agreed to government demands](https://www.theverge.com/2022/1/13/22881580/nigeria-twitter-ban-agreed-government-demands-local-office-tax)
- - [Krafton, which makes PlayerUnknown&#39;s Battlegrounds, sues Apple and Google, arguing that neither company removed a game that allegedly copies PUBG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220113/p7#a220113p7)<!-- TECH:END -->
+ - [Apple &amp; Google sued by &#39;PUBG: Battlegrounds&#39; developer over clones](https://appleinsider.com/articles/22/01/13/apple-google-sued-by-pubg-battlegrounds-developer-over-clones?utm_medium=rss)
+ - [Who Do Young Entrepreneurs Look Up To? Elon Musk](https://www.wired.com/story/young-entrepreneurs-elon-musk)
+ - [Game Studios Are Turning Play Into Work](https://www.wired.com/story/game-studios-turning-play-into-work-crypto-nfts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
