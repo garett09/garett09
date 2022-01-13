@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminder that this gem exists.](http://9gag.com/gag/aQXRPA7)
- - 🚯 [Police save dog from hot car.](http://9gag.com/gag/abgYX7B)
- - 🚯 [How to peel potatoes faster than any housewife](http://9gag.com/gag/aLvgKrW)<!-- MEMES:END -->
+ - 🚖 [Police save dog from hot car.](http://9gag.com/gag/abgYX7B)
+ - 🚯 [M&amp;#039;lady](http://9gag.com/gag/aGzZ935)
+ - 🚯 [Legends](http://9gag.com/gag/aZrLPZp)<!-- MEMES:END -->
 
 --- 
 
