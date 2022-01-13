@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NSO Group Spyware Targeted Dozens of Reporters in El Salvador](https://www.wired.com/story/nso-group-pegasus-el-salvador)
- - [Geico made the Portal ad we never asked for](https://www.theverge.com/tldr/2022/1/12/22881121/geico-portal-ad-never-asked-for-gecko-glados)
- - [Apple updates tax and prices for App Store in Ukraine, Zimbabwe, others](https://appleinsider.com/articles/22/01/13/apple-updates-tax-and-prices-for-app-store-in-ukraine-zimbabwe-others?utm_medium=rss)<!-- TECH:END -->
+ - [Boosted.ai, which offers machine learning tools for investment portfolio managers, raises a $35M Series B led by Spark Capital and Ten Coves Capital &lpar;Derek Decloet/Bloomberg&rpar;](http://www.techmeme.com/220112/p35#a220112p35)
+ - [Apple racks up SAG nominations for &#39;Ted Lasso,&#39; &#39;CODA,&#39; and others](https://appleinsider.com/articles/22/01/13/apple-racks-up-sag-nominations-for-ted-lasso-coda-and-others?utm_medium=rss)
+ - [Alleged Apple App Store scammer AmpMe says it’ll lower prices and investigate its ‘consultants’](https://www.theverge.com/2022/1/12/22881053/ampme-apple-app-store-scams-recurring-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
