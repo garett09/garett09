@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Keychron K2 Version 2 review](https://www.pcgamer.com/keychron-k2-review)
  - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
- - [Cooler Master MM731 review](https://www.pcgamer.com/cooler-master-mm731-review)
- - [Final Fantasy XIV Producer To Players: Harsh Remarks Can Impact Developers&#39; Mental Health](https://kotaku.com/final-fantasy-xiv-producer-to-players-harsh-remarks-ca-1848351220)<!-- GAME:END -->
+ - [Cooler Master MM731 review](https://www.pcgamer.com/cooler-master-mm731-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
