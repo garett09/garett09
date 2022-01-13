@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Survival Tips to Keep You Alive in The Anacrusis &lpar;Game Preview&rpar;](https://news.xbox.com/en-us/2022/01/13/10-survival-tips-the-anacrusis-game-preview/)
- - [Valve and Geico team up for a Portal-themed insurance ad](https://www.pcgamer.com/valve-and-geico-team-up-for-a-portal-themed-insurance-ad)
- - [Hitman Trilogy coming to Xbox Game Pass, PC Game Pass next week](https://www.polygon.com/22881790/hitman-3-trilogy-xbox-pc-game-pass-steam-vr-release-date)<!-- GAME:END -->
+ - [Guntech 2 is a New Retro-Style Space Shooter with Four-Player Couch Co-op](https://news.xbox.com/en-us/2022/01/13/guntech-2-is-a-new-retro-style-space-shooter-with-a-four-player-couch-co-op/)
+ - [Who’s behind Peacemaker’s Butterflies?](https://www.polygon.com/22880741/peacemaker-butterflies-comics)
+ - [PUBG developers sue mobile clone maker — plus Apple and Google](https://www.polygon.com/22882099/pubg-developers-lawsuit-apple-google-garena-clones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
