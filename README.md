@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guntech 2 is a New Retro-Style Space Shooter with Four-Player Couch Co-op](https://news.xbox.com/en-us/2022/01/13/guntech-2-is-a-new-retro-style-space-shooter-with-a-four-player-couch-co-op/)
- - [Who’s behind Peacemaker’s Butterflies?](https://www.polygon.com/22880741/peacemaker-butterflies-comics)
- - [PUBG developers sue mobile clone maker — plus Apple and Google](https://www.polygon.com/22882099/pubg-developers-lawsuit-apple-google-garena-clones)<!-- GAME:END -->
+ - [Avatar: Reckoning brings battle on Pandora to mobile devices](https://www.polygon.com/22882442/avatar-reckoning-mobile-game-announcement-details)
+ - [Halo Infinite Actually Lets You Fly The Pelican](https://kotaku.com/halo-infinite-actually-lets-you-fly-the-pelican-1848355165)
+ - [Huge changes coming to Destiny 2&#39;s masterwork armor and weapons](https://www.pcgamer.com/huge-changes-coming-to-destiny-2s-masterwork-armor-and-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
