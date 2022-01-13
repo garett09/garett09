@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: Reckoning brings battle on Pandora to mobile devices](https://www.polygon.com/22882442/avatar-reckoning-mobile-game-announcement-details)
- - [Halo Infinite Actually Lets You Fly The Pelican](https://kotaku.com/halo-infinite-actually-lets-you-fly-the-pelican-1848355165)
- - [Huge changes coming to Destiny 2&#39;s masterwork armor and weapons](https://www.pcgamer.com/huge-changes-coming-to-destiny-2s-masterwork-armor-and-weapons)<!-- GAME:END -->
+ - [Destiny Players Are Currently Locked In A Heated Debate About Orbs](https://kotaku.com/destiny-players-are-currently-locked-in-a-heated-debate-1848356020)
+ - [MAGFest Discloses Dozens Of Covid Exposures](https://kotaku.com/magfest-discloses-dozens-of-covid-exposures-including-1848355840)
+ - [The Critical Role animated series is right around the corner, here’s how to prepare](https://www.polygon.com/22882510/critical-role-legend-of-vox-machina-where-to-start-first-episode-youtube-podcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
