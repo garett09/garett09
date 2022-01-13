@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s &quot;work from anywhere&quot; policy helped increase Black employees in the US to 9.4% in 2021, up from 6.9% in 2020; women are 44.7% of its global workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/220113/p12#a220113p12)
- - [White House will meet execs from Apple, Amazon, IBM to discuss software security](https://techncruncher.blogspot.com/2022/01/white-house-will-meet-execs-from-apple.html)
- - [Tesla removes 2022 production date from Cybertruck website](https://www.theverge.com/2022/1/13/22881646/tesla-cybertruck-production-date-2022-removed-website)<!-- TECH:END -->
+ - [Cologne-based SoSafe, a cybersecurity startup aiming to reduce human error, raises a $73M Series B led by Highland Europe and says it has over 1,500 customers &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220113/p17#a220113p17)
+ - [HBO Max monthly plans are 20 percent off for a limited time](https://www.theverge.com/good-deals/2022/1/13/22880047/hbo-max-samsung-galaxy-s21-lenovo-smart-clock-2-amazon-omni-fire-tv-deal-sale)
+ - [Privacy advocates criticize German police in Mainz for commandeering data from the Luca contact-tracing app for an investigation &lpar;Rachel Pannett/Washington Post&rpar;](http://www.techmeme.com/220113/p16#a220113p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
