@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police arrest Russian organised crime gang in Ealing, west London.](http://9gag.com/gag/a61O7QL)
- - 🚯 [A stranger found a wallet and returned it](http://9gag.com/gag/aPZYWzB)
- - 🚯 [Some day it&amp;#039;ll be payback time.](http://9gag.com/gag/aBn01VN)<!-- MEMES:END -->
+ - 🚖 [Got affiliate last week. And made a few cents already.](http://9gag.com/gag/aGzZx6n)
+ - 🚯 [Some day it&amp;#039;ll be payback time.](http://9gag.com/gag/aBn01VN)
+ - 🚯 [Burn them](http://9gag.com/gag/aE827Rn)<!-- MEMES:END -->
 
 --- 
 
