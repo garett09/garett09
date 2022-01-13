@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [M&amp;#039;lady](http://9gag.com/gag/aGzZ935)
- - 🚯 [Italian singer Adriano Celentano released a song in the 70s with nonsense lyrics meant to sound like American English, apparently to prove Italians would like any English song. It was a huge hit](http://9gag.com/gag/aVxYWbM)
- - 🚯 [Guys i did it, i achieved the epitome of education and knowlegde... I am now forklift certified](http://9gag.com/gag/a91KdWD)<!-- MEMES:END -->
+ - 🚖 [To fit in the parking space](http://9gag.com/gag/aWgYWm3)
+ - 🚯 [Its evolving just backwards](http://9gag.com/gag/ajg801Q)
+ - 🚯 [Nordic logic](http://9gag.com/gag/aOQYqO2)<!-- MEMES:END -->
 
 --- 
 
