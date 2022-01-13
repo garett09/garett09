@@ -195,8 +195,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know who you are](http://9gag.com/gag/abgYbYr)
- - 🚯 [Asian logic.. sad truth](http://9gag.com/gag/arnGK15)
+ - 🚖 [Got affiliate last week. And made a few cents already.](http://9gag.com/gag/aGzZx6n)
+ - 🚯 [Online gaming in a nutshell](http://9gag.com/gag/a91K7Wo)
  - 🚯 [Michelangelo&amp;#039;s David in 4 steps](http://9gag.com/gag/aVxYPjd)<!-- MEMES:END -->
 
 --- 
