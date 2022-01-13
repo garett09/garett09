@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To fit in the parking space](http://9gag.com/gag/aWgYWm3)
- - 🚯 [Its evolving just backwards](http://9gag.com/gag/ajg801Q)
- - 🚯 [Nordic logic](http://9gag.com/gag/aOQYqO2)<!-- MEMES:END -->
+ - 🚖 [Intel SRR3 in Bengaluru, India built using the innovative top down construction method.](http://9gag.com/gag/aoge0q2)
+ - 🚯 [Nnnnnnnnice bag](http://9gag.com/gag/aM4Zr1R)
+ - 🚯 [Wizard Style](http://9gag.com/gag/apgm0d9)<!-- MEMES:END -->
 
 --- 
 
