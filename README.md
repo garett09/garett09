@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keychron K2 Version 2 review](https://www.pcgamer.com/keychron-k2-review)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
- - [Cooler Master MM731 review](https://www.pcgamer.com/cooler-master-mm731-review)<!-- GAME:END -->
+ - [Hitman 3 Is Going Rogue&lpar;like&rpar;](https://kotaku.com/hitman-3-is-going-rogue-like-1848351423)
+ - [Archie Comics’ superdad returns in 2022 with The Fox: Family Values](https://www.polygon.com/22879087/archie-comics-the-fox-family-values-daniel-haspiel-vito-delsante)
+ - [The Godfather returns to theaters for a 50th anniversary celebration](https://www.polygon.com/22881761/the-godfather-release-theaters-50th-anniversary-4k-box-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
