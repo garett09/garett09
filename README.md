@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)
- - [Cloud Imperium starts referencing Star Citizen spinoff sequels](https://www.pcgamer.com/cloud-imperium-starts-referencing-star-citizen-spinoff-sequels)
- - [Gigabyte M28U review](https://www.pcgamer.com/gigabyte-m28u-review)<!-- GAME:END -->
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
+ - [Cooler Master MM731 review](https://www.pcgamer.com/cooler-master-mm731-review)
+ - [Final Fantasy XIV Producer To Players: Harsh Remarks Can Impact Developers&#39; Mental Health](https://kotaku.com/final-fantasy-xiv-producer-to-players-harsh-remarks-ca-1848351220)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
