@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Michelangelo&amp;#039;s David in 4 steps](http://9gag.com/gag/aVxYPjd)
- - 🚯 [Video games causing violence? Think again!](http://9gag.com/gag/a91KPjD)
- - 🚯 [A 6&amp;rdquo; tall priestess just sounds scary](http://9gag.com/gag/aRr1VZy)<!-- MEMES:END -->
+ - 🚖 [Pyrite in nature](http://9gag.com/gag/a21Zqgw)
+ - 🚯 [Asian logic.. sad truth](http://9gag.com/gag/arnGK15)
+ - 🚯 [You know who you are](http://9gag.com/gag/abgYbYr)<!-- MEMES:END -->
 
 --- 
 
