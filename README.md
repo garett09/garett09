@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what the internet was made for](http://9gag.com/gag/aM4ZbXP)
- - 🚯 [M&amp;#039;lady](http://9gag.com/gag/aGzZ935)
- - 🚯 [GRANDMAAAA!!!](http://9gag.com/gag/aze9E7x)<!-- MEMES:END -->
+ - 🚖 [M&amp;#039;lady](http://9gag.com/gag/aGzZ935)
+ - 🚯 [Italian singer Adriano Celentano released a song in the 70s with nonsense lyrics meant to sound like American English, apparently to prove Italians would like any English song. It was a huge hit](http://9gag.com/gag/aVxYWbM)
+ - 🚯 [Guys i did it, i achieved the epitome of education and knowlegde... I am now forklift certified](http://9gag.com/gag/a91KdWD)<!-- MEMES:END -->
 
 --- 
 
