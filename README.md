@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trending hashtag &#39;iPhone shower&#39; turns a silly accident into ongoing meme](https://appleinsider.com/articles/22/01/13/trending-hashtag-iphone-shower-turns-a-silly-accident-into-ongoing-meme?utm_medium=rss)
- - [Users regard Apple Watch, fitness devices as medical tools and worry about results](https://appleinsider.com/articles/22/01/13/users-regard-apple-watch-fitness-devices-as-medical-tools-and-worry-about-results?utm_medium=rss)
- - [Astrophysicists Release the Biggest Map of the Universe Yet](https://www.wired.com/story/astrophysicists-release-the-biggest-map-of-the-universe-yet)<!-- TECH:END -->
+ - [Eternals’ awful sex scene is kind of clever the second time around](https://www.theverge.com/22880740/eternals-sex-scene-disney-plus)
+ - [The PS5 and Xbox Series X will be available at 3PM ET today for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)
+ - [Firefox stopped loading websites for some users](https://appleinsider.com/articles/22/01/13/firefox-has-stopped-loading-websites-for-some-users-heres-how-to-fix-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
