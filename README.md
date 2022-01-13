@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eternals’ awful sex scene is kind of clever the second time around](https://www.theverge.com/22880740/eternals-sex-scene-disney-plus)
- - [The PS5 and Xbox Series X will be available at 3PM ET today for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)
- - [Firefox stopped loading websites for some users](https://appleinsider.com/articles/22/01/13/firefox-has-stopped-loading-websites-for-some-users-heres-how-to-fix-it?utm_medium=rss)<!-- TECH:END -->
+ - [These MacBook Air, M1 iMac models with 16GB RAM are up to $150 off, free expedited shipping](https://appleinsider.com/articles/22/01/10/5-macbook-air-m1-imac-models-with-16gb-ram-are-up-to-150-off-in-stock?utm_medium=rss)
+ - [Best deals Jan. 13: 50% off Netgear Orbi mesh routers, Nintendo Switch OLED is in stock, more!](https://appleinsider.com/articles/22/01/13/best-deals-jan-13-50-off-netgear-orbi-mesh-routers-nintendo-switch-oled-is-in-stock-more?utm_medium=rss)
+ - [Baby Shark becomes the first YouTube video to cross 10B views &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220113/p26#a220113p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
