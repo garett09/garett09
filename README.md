@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Altercations](http://9gag.com/gag/aBn03LA)
- - 🚯 [A 6&amp;rdquo; tall priestess just sounds scary](http://9gag.com/gag/aRr1VZy)
- - 🚯 [Video games causing violence? Think again!](http://9gag.com/gag/a91KPjD)<!-- MEMES:END -->
+ - 🚖 [Michelangelo&amp;#039;s David in 4 steps](http://9gag.com/gag/aVxYPjd)
+ - 🚯 [Video games causing violence? Think again!](http://9gag.com/gag/a91KPjD)
+ - 🚯 [A 6&amp;rdquo; tall priestess just sounds scary](http://9gag.com/gag/aRr1VZy)<!-- MEMES:END -->
 
 --- 
 
