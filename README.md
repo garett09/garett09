@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sacrifice to protect](http://9gag.com/gag/abgY6v9)
- - 🚯 [Influencers](http://9gag.com/gag/awzA5ry)
- - 🚯 [Are we still allowed to joke?](http://9gag.com/gag/aZrLBmV)<!-- MEMES:END -->
+ - 🚖 [Influencers](http://9gag.com/gag/awzA5ry)
+ - 🚯 [A scourge upon humanity](http://9gag.com/gag/a0ZQdWq)
+ - 🚯 [A stranger found a wallet and returned it](http://9gag.com/gag/aPZYWzB)<!-- MEMES:END -->
 
 --- 
 
