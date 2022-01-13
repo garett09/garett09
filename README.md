@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cologne-based SoSafe, a cybersecurity startup aiming to reduce human error, raises a $73M Series B led by Highland Europe and says it has over 1,500 customers &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220113/p17#a220113p17)
- - [HBO Max monthly plans are 20 percent off for a limited time](https://www.theverge.com/good-deals/2022/1/13/22880047/hbo-max-samsung-galaxy-s21-lenovo-smart-clock-2-amazon-omni-fire-tv-deal-sale)
- - [Privacy advocates criticize German police in Mainz for commandeering data from the Luca contact-tracing app for an investigation &lpar;Rachel Pannett/Washington Post&rpar;](http://www.techmeme.com/220113/p16#a220113p16)<!-- TECH:END -->
+ - [2015’s Nvidia Shield TV has received more OS updates than the Pixel 6 ever will](https://www.androidauthority.com/nvidia-shield-tv-updates-best-3089027/)
+ - [Chicago- and Bengaluru-based TheMathCompany, which offers data analytics tools, raises $50M led by Brighton Park Capital &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/220113/p21#a220113p21)
+ - [Observable, which offers cloud-based tools to visualize and analyze data, raises a $35.6M Series B led by Menlo Ventures, bringing its total funding to $46.1M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220113/p20#a220113p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
