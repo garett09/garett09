@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sh&amp;iexcl;t Happens](http://9gag.com/gag/aKmxqQj)
- - 🚯 [Asian logic.. sad truth](http://9gag.com/gag/arnGK15)
- - 🚯 [Difference between a typical Karen and a normal human being.](http://9gag.com/gag/avA8L8Z)<!-- MEMES:END -->
+ - 🚖 [Buy him another beer](http://9gag.com/gag/aLvg9LV)
+ - 🚯 [Sh&amp;iexcl;t Happens](http://9gag.com/gag/aKmxqQj)
+ - 🚯 [Respect](http://9gag.com/gag/a31QB3r)<!-- MEMES:END -->
 
 --- 
 
