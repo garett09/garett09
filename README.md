@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pyrite in nature](http://9gag.com/gag/a21Zqgw)
+ - 🚖 [You know who you are](http://9gag.com/gag/abgYbYr)
  - 🚯 [Asian logic.. sad truth](http://9gag.com/gag/arnGK15)
- - 🚯 [You know who you are](http://9gag.com/gag/abgYbYr)<!-- MEMES:END -->
+ - 🚯 [Michelangelo&amp;#039;s David in 4 steps](http://9gag.com/gag/aVxYPjd)<!-- MEMES:END -->
 
 --- 
 
