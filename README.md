@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s 15 minutes of 4K God of War PC gameplay](https://www.pcgamer.com/heres-15-minutes-of-4k-god-of-war-pc-gameplay)
- - [Watch these guys speedrun planet earth](https://www.pcgamer.com/watch-these-guys-speedrun-planet-earth)
- - [A wave of folk horror movies hits Shudder, inspired by an epic new documentary](https://www.polygon.com/22876758/best-folk-horror-movies-shudder-woodland-dark-days-bewitched)<!-- GAME:END -->
+ - [The best Mass Effect Legendary Edition mods](https://www.pcgamer.com/the-best-mass-effect-legendary-edition-mods)
+ - [The best Wordle starting words and other winning strategies from expert nerds](https://www.pcgamer.com/the-best-wordle-starting-words-and-other-winning-strategies-from-expert-nerds)
+ - [Here&#39;s 15 minutes of 4K God of War PC gameplay](https://www.pcgamer.com/heres-15-minutes-of-4k-god-of-war-pc-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
