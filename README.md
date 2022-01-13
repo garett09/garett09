@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based Flipdish, which provides tech for creating food ordering apps to ~7K restaurants in 25 countries, raises $96M led by Tencent at a $1.25B valuation &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/220112/p37#a220112p37)
  - [Apple and T-Mobile say iOS 15.2 didn’t switch off iCloud Private Relay](https://www.theverge.com/2022/1/12/22881337/apple-t-mobile-icloud-private-relay-bug-ios-15-2)
- - [India-based LEAD School, which is helping digitize affordable private schools, raises a $100M Series E at a $1.1B valuation, bringing its total funding to $170M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p36#a220112p36)
- - [Boosted.ai, which offers machine learning tools for investment portfolio managers, raises a $35M Series B led by Spark Capital and Ten Coves Capital &lpar;Derek Decloet/Bloomberg&rpar;](http://www.techmeme.com/220112/p35#a220112p35)<!-- TECH:END -->
+ - [India-based LEAD School, which is helping digitize affordable private schools, raises a $100M Series E at a $1.1B valuation, bringing its total funding to $170M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p36#a220112p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
