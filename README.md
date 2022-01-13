@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods 3 dip to $139.99 at Amazon in latest price war](https://appleinsider.com/articles/22/01/13/apple-airpods-3-dip-to-13999-at-amazon-in-latest-price-war?utm_medium=rss)
- - [Apple seeds second developer betas of iOS 15.3, iPadOS 15.3, tvOS 15.3, watchOS 8.4](https://appleinsider.com/articles/22/01/12/apple-seeds-second-developer-betas-of-ios-153-ipados-153-tvos-153-watchos-84?utm_medium=rss)
- - [Apple releases iOS 15.3 and iPadOS 15.3 public beta 2](https://appleinsider.com/articles/22/01/13/apple-releases-ios-153-and-ipados-153-public-beta-2?utm_medium=rss)<!-- TECH:END -->
+ - [GameStop is selling PlayStation 5 bundles in-store to Pro members on January 14th](https://www.theverge.com/2022/1/13/22882037/gamestop-playstation-5-bundles-in-store-to-pro-members-on-january-14th)
+ - [The PS5 and Xbox Series X are available right now for Walmart Plus subscribers](https://www.theverge.com/2022/1/12/22879881/ps5-xbox-series-x-digital-disc-console-restock-walmart-plus-early-access-subscriber)
+ - [A new Degrassi show is coming to HBO Max](https://www.theverge.com/2022/1/13/22882237/degrassi-hbo-max-the-next-generation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
