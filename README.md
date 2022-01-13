@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Buy Nothing Project, which grew via Facebook Groups of neighbors gifting unwanted items and which now has 7K communities across 44 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220113/p3#a220113p3)
- - [Samsung Galaxy S20 series gains January 2022 update in the US](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [Merit, which lets governments issue digital credentials that link back to a government license database, raises a $50M Series B led by Rose Park Advisors &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220113/p2#a220113p2)<!-- TECH:END -->
+ - [Dropbox finally supports M1 Macs natively with new beta](https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos)
+ - [Google rolls out Android 12L’s second beta to supported devices &lpar;Update&rpar;](https://www.androidauthority.com/android-12l-beta-3072490/)
+ - [A look at the Buy Nothing Project, which grew via Facebook Groups of neighbors gifting unwanted items and which now has 7K communities across 44 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220113/p3#a220113p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
