@@ -181,9 +181,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 is getting a new roguelike game mode](https://www.pcgamer.com/hitman-3-is-getting-a-new-roguelike-game-mode)
- - [Fortnite Sneaks Back Onto iPhone By Way Of GeForce Now](https://kotaku.com/fortnite-sneaks-back-onto-iphone-by-way-of-geforce-now-1848352947)
- - [Halo Infinite is great, but I can&#39;t stand playing it](https://www.pcgamer.com/halo-infinite-is-great-but-i-cant-stand-playing-it)<!-- GAME:END -->
+ - [Glimpse Appears in the Newest Rogue Company Update](https://news.xbox.com/en-us/2022/01/13/glimpse-appears-in-the-newest-rogue-company-update/)
+ - [God of War has 10 different motion blur settings and you shouldn&#39;t use any of them](https://www.pcgamer.com/motion-blur-is-a-mistake)
+ - [How video games help you play better](https://www.polygon.com/videos/22882064/psychonauts-2-player-nudges-hints)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
