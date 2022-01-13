@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the weirdest stuff we saw at CES 2022](https://appleinsider.com/articles/22/01/11/hands-on-with-the-weirdest-stuff-we-saw-at-ces-2022?utm_medium=rss)
- - [Apple confirms it removed several Wordle clones from the App Store, after reports surfaced about many clones capitalizing on the guessing game&#39;s popularity &lpar;Martine Paris/Bloomberg&rpar;](http://www.techmeme.com/220112/p33#a220112p33)
- - [Coinbase says it is acquiring FairX, a CFTC-regulated derivatives exchange, and plans to bring crypto derivatives and futures products to US customers &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220112/p32#a220112p32)<!-- TECH:END -->
+ - [NSO Group Spyware Targeted Dozens of Reporters in El Salvador](https://www.wired.com/story/nso-group-pegasus-el-salvador)
+ - [Geico made the Portal ad we never asked for](https://www.theverge.com/tldr/2022/1/12/22881121/geico-portal-ad-never-asked-for-gecko-glados)
+ - [Apple updates tax and prices for App Store in Ukraine, Zimbabwe, others](https://appleinsider.com/articles/22/01/13/apple-updates-tax-and-prices-for-app-store-in-ukraine-zimbabwe-others?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
