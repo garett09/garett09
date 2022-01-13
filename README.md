@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boosted.ai, which offers machine learning tools for investment portfolio managers, raises a $35M Series B led by Spark Capital and Ten Coves Capital &lpar;Derek Decloet/Bloomberg&rpar;](http://www.techmeme.com/220112/p35#a220112p35)
- - [Apple racks up SAG nominations for &#39;Ted Lasso,&#39; &#39;CODA,&#39; and others](https://appleinsider.com/articles/22/01/13/apple-racks-up-sag-nominations-for-ted-lasso-coda-and-others?utm_medium=rss)
- - [Alleged Apple App Store scammer AmpMe says it’ll lower prices and investigate its ‘consultants’](https://www.theverge.com/2022/1/12/22881053/ampme-apple-app-store-scams-recurring-subscription)<!-- TECH:END -->
+ - [Apple and T-Mobile say iOS 15.2 didn’t switch off iCloud Private Relay](https://www.theverge.com/2022/1/12/22881337/apple-t-mobile-icloud-private-relay-bug-ios-15-2)
+ - [India-based LEAD School, which is helping digitize affordable private schools, raises a $100M Series E at a $1.1B valuation, bringing its total funding to $170M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220112/p36#a220112p36)
+ - [Boosted.ai, which offers machine learning tools for investment portfolio managers, raises a $35M Series B led by Spark Capital and Ten Coves Capital &lpar;Derek Decloet/Bloomberg&rpar;](http://www.techmeme.com/220112/p35#a220112p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
