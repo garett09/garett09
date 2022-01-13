@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Google sued by &#39;PUBG: Battlegrounds&#39; developer over clones](https://appleinsider.com/articles/22/01/13/apple-google-sued-by-pubg-battlegrounds-developer-over-clones?utm_medium=rss)
- - [Who Do Young Entrepreneurs Look Up To? Elon Musk](https://www.wired.com/story/young-entrepreneurs-elon-musk)
- - [Game Studios Are Turning Play Into Work](https://www.wired.com/story/game-studios-turning-play-into-work-crypto-nfts)<!-- TECH:END -->
+ - [Twitter&#39;s &quot;work from anywhere&quot; policy helped increase Black employees in the US to 9.4% in 2021, up from 6.9% in 2020; women are 44.7% of its global workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/220113/p12#a220113p12)
+ - [White House will meet execs from Apple, Amazon, IBM to discuss software security](https://techncruncher.blogspot.com/2022/01/white-house-will-meet-execs-from-apple.html)
+ - [Tesla removes 2022 production date from Cybertruck website](https://www.theverge.com/2022/1/13/22881646/tesla-cybertruck-production-date-2022-removed-website)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
