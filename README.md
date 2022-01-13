@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sound up](http://9gag.com/gag/a41QdWy)
- - 🚯 [Space intrests me in many ways](http://9gag.com/gag/a813jEp)
- - 🚯 [Intel SRR3 in Bengaluru, India built using the innovative top down construction method.](http://9gag.com/gag/aoge0q2)<!-- MEMES:END -->
+ - 🚖 [Altercations](http://9gag.com/gag/aBn03LA)
+ - 🚯 [A 6&amp;rdquo; tall priestess just sounds scary](http://9gag.com/gag/aRr1VZy)
+ - 🚯 [Video games causing violence? Think again!](http://9gag.com/gag/a91KPjD)<!-- MEMES:END -->
 
 --- 
 
