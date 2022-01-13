@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)
- - [Apple announces &#39;Lincoln&#39;s Dilemma&#39; documentary exploring the journey to end slavery](https://appleinsider.com/articles/22/01/13/apple-announces-lincolns-dilemma-documentary-exploring-the-journey-to-end-slavery?utm_medium=rss)
- - [Woman gets 18 months behind bars for stealing $1M in iPods meant for Native American students](https://appleinsider.com/articles/22/01/13/woman-gets-18-months-behind-bars-for-stealing-1m-in-ipods-meant-for-native-american-students?utm_medium=rss)<!-- TECH:END -->
+ - [As newcomers flood to Puerto Rico seeking to build a crypto paradise, attracted by low taxes, locals are skeptical and house prices across San Juan are rising &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220113/p34#a220113p34)
+ - [Valve says the Steam Deck is on track to ship by the end of February](https://www.theverge.com/2022/1/13/22882686/steam-deck-delays-valve-pc-gaming-handheld)
+ - [Congress subpoenas Meta, Alphabet, Twitter, and Reddit over January 6th Capitol attack](https://www.theverge.com/2022/1/13/22882665/congress-subpoena-meta-alphabet-twitter-reddit-january-6-capitol-attack-committee)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
