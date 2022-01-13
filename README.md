@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Buy him another beer](http://9gag.com/gag/aLvg9LV)
+ - 🚖 [Show your best &amp;ldquo;what tf happened there&amp;rdquo; picture](http://9gag.com/gag/a813jnY)
  - 🚯 [Sh&amp;iexcl;t Happens](http://9gag.com/gag/aKmxqQj)
- - 🚯 [Respect](http://9gag.com/gag/a31QB3r)<!-- MEMES:END -->
+ - 🚯 [Police arrest Russian organised crime gang in Ealing, west London.](http://9gag.com/gag/a61O7QL)<!-- MEMES:END -->
 
 --- 
 
