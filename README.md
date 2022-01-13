@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on the global chip shortage, competing with Apple&#39;s A-series and M-series chips, Snapdragon&#39;s new naming scheme, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220113/p1#a220113p1)
- - [Dublin-based Flipdish, which provides tech for creating food ordering apps to ~7K restaurants in 25 countries, raises $96M led by Tencent at a $1.25B valuation &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/220112/p37#a220112p37)
- - [See an awesome 3D map of the massive cosmic bubble surrounding Earth     - CNET](https://www.cnet.com/news/see-an-awesome-3d-map-of-the-massive-cosmic-bubble-surrounding-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Merit, which lets governments issue digital credentials that link back to a government license database, raises a $50M Series B led by Rose Park Advisors &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220113/p2#a220113p2)
+ - [Google’s Pixel Fold could adopt a stubbier design than its main competition](https://www.androidauthority.com/google-pixel-fold-design-3088933/)
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on the global chip shortage, competing with Apple&#39;s A-series and M-series chips, Snapdragon&#39;s new naming scheme, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220113/p1#a220113p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
