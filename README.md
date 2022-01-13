@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Intel SRR3 in Bengaluru, India built using the innovative top down construction method.](http://9gag.com/gag/aoge0q2)
- - 🚯 [Nnnnnnnnice bag](http://9gag.com/gag/aM4Zr1R)
- - 🚯 [Wizard Style](http://9gag.com/gag/apgm0d9)<!-- MEMES:END -->
+ - 🚖 [Video games causing violence? Think again!](http://9gag.com/gag/a91KPjD)
+ - 🚯 [Italian singer Adriano Celentano released a song in the 70s with nonsense lyrics meant to sound like American English, apparently to prove Italians would like any English song. It was a huge hit](http://9gag.com/gag/aVxYWbM)
+ - 🚯 [Intel SRR3 in Bengaluru, India built using the innovative top down construction method.](http://9gag.com/gag/aoge0q2)<!-- MEMES:END -->
 
 --- 
 
