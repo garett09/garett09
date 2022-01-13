@@ -188,9 +188,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropbox finally supports M1 Macs natively with new beta](https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos)
- - [Google rolls out Android 12L’s second beta to supported devices &lpar;Update&rpar;](https://www.androidauthority.com/android-12l-beta-3072490/)
- - [A look at the Buy Nothing Project, which grew via Facebook Groups of neighbors gifting unwanted items and which now has 7K communities across 44 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220113/p3#a220113p3)<!-- TECH:END -->
+ - [TSMC reports Q4 revenue rose 24.1% YoY to $15.74B as net profit reached $6.01B; capex will reach $40B to $44B in 2022, up from $30B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220113/p4#a220113p4)
+ - [You told us: Here’s what Apple should do for Android users in iMessage](https://www.androidauthority.com/apple-android-imessage-poll-results-3088153/)
+ - [Windows 11 doesn&#39;t have all the features we wanted     - CNET](https://www.cnet.com/tech/computing/windows-11-doesnt-have-all-the-features-we-wanted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
