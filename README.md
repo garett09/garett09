@@ -195,9 +195,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show your best &amp;ldquo;what tf happened there&amp;rdquo; picture](http://9gag.com/gag/a813jnY)
- - 🚯 [Sh&amp;iexcl;t Happens](http://9gag.com/gag/aKmxqQj)
- - 🚯 [Police arrest Russian organised crime gang in Ealing, west London.](http://9gag.com/gag/a61O7QL)<!-- MEMES:END -->
+ - 🚖 [Police arrest Russian organised crime gang in Ealing, west London.](http://9gag.com/gag/a61O7QL)
+ - 🚯 [A stranger found a wallet and returned it](http://9gag.com/gag/aPZYWzB)
+ - 🚯 [Some day it&amp;#039;ll be payback time.](http://9gag.com/gag/aBn01VN)<!-- MEMES:END -->
 
 --- 
 
