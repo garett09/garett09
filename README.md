@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even BlackBerry’s best Android apps are reaching end-of-life this year](https://www.androidauthority.com/blackberry-android-apps-end-of-life-3088931/)
  - [Spider-Man: No Way Home -- Our 10 biggest WTF questions     - CNET](https://www.cnet.com/news/spider-man-no-way-home-our-10-biggest-wtf-questions/#ftag=CAD590a51e)
- - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)
- - [Yellowjackets: Our biggest burning questions and working theories     - CNET](https://www.cnet.com/news/yellowjackets-our-biggest-burning-questions-and-working-theories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
