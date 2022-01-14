@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether says it froze three Ethereum blockchain addresses containing $160M on a law enforcement request; Bloxy data shows Tether froze 563 addresses since 2017 &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/220114/p1#a220114p1)
- - [Even BlackBerry’s best Android apps are reaching end-of-life this year](https://www.androidauthority.com/blackberry-android-apps-end-of-life-3088931/)
- - [Spider-Man: No Way Home -- Our 10 biggest WTF questions     - CNET](https://www.cnet.com/news/spider-man-no-way-home-our-10-biggest-wtf-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We asked, you told us: Most of you have RCS messaging and use it](https://www.androidauthority.com/rcs-messaging-poll-results-3089668/)
+ - [Tesla now lets you buy some merch in Dogecoin](https://www.theverge.com/2022/1/14/22849725/tesla-dogecoin-cryptocurrency-merchandise-sales)
+ - [Tesla delays Cybertruck to early 2023, says report](https://www.theverge.com/2022/1/13/22881646/tesla-cybertruck-production-date-2022-removed-website)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
