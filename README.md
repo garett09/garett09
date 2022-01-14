@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta faces a $3.1B UK class action suit alleging it abused Facebook&#39;s market dominance and set an &quot;unfair price&quot; for 44M UK users&#39; data from 2015 to 2019 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220113/p38#a220113p38)
- - [Q&amp;A with Wordle creator Josh Wardle on the game&#39;s origin story, reasons for keeping it simple, app clones, and handling the traffic from its newfound popularity &lpar;TechCrunch&rpar;](http://www.techmeme.com/220113/p37#a220113p37)
- - [Go read this story about Amazon workers fighting the company’s robotic HR response to COVID](https://www.theverge.com/2022/1/13/22882707/go-read-this-amazon-workers-covid-hr-system-testing-helpline)<!-- TECH:END -->
+ - [Virtana, which provides AI-driven monitoring software to help manage multiple cloud environments, raises $73M from Atalaya Capital Management and others &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220113/p39#a220113p39)
+ - [Nvidia&#39;s GeForce Now service can stream Fortnite on iPhone and Android     - CNET](https://www.cnet.com/tech/gaming/nvidias-geforce-now-service-can-stream-fortnite-on-iphone-and-android/#ftag=CAD590a51e)
+ - [Visible deals: Get the Samsung Galaxy S20 FE and $100 credit for just $408](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
