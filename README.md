@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s critical Pixel 6 January update is here for some](https://www.theverge.com/2022/1/14/22884219/google-january-2022-pixel-6-pro-update)
- - [Netflix raising prices on all plans in the US and Canada](https://appleinsider.com/articles/22/01/14/netflix-raising-prices-on-all-plans-in-the-us-and-canada?utm_medium=rss)
- - [White House: COVIDTests.gov will distribute free rapid tests starting January 19th](https://www.theverge.com/2022/1/14/22884217/free-covid-19-test-biden-500-million-january-19-usps)<!-- TECH:END -->
+ - [A group of 46 state AGs, Guam, and DC asks a US federal appeals court to reinstate the antitrust lawsuit against Facebook that was dismissed in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220114/p16#a220114p16)
+ - [Google&#39;s Alleged Scheme to Corner the Online Ad Market](https://www.wired.com/story/google-antitrust-ad-market-lawsuit)
+ - [Google’s critical Pixel 6 January update is here](https://www.theverge.com/2022/1/14/22884219/google-january-2022-pixel-6-pro-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
