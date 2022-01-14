@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all know who will win this duel...](http://9gag.com/gag/aLvgjvz)
- - 🚯 [Heavyweight Boxing](http://9gag.com/gag/ang9Myb)
- - 🚯 [I &amp;#039;member...](http://9gag.com/gag/aqGK7xY)<!-- MEMES:END -->
+ - 🚖 [The U.S Military C-Ram System, Recently Used To Defend The U.S Embassy In Baghdad.](http://9gag.com/gag/ajg8NZ1)
+ - 🚯 [Every women sports these days](http://9gag.com/gag/aVxYMAy)
+ - 🚯 [Heavyweight Boxing](http://9gag.com/gag/ang9Myb)<!-- MEMES:END -->
 
 --- 
 
