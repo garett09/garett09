@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A solar flare at least 8-10 Earths tall.](http://9gag.com/gag/apgmQg9)
- - 🚯 [Mother with dementia recognizes son and bursts into song](http://9gag.com/gag/aze9rNm)
- - 🚯 [It&amp;#039;s worth the risk...](http://9gag.com/gag/aLvgDdM)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s worth the risk...](http://9gag.com/gag/aLvgDdM)
+ - 🚯 [Wonder what he&amp;#039;s so happy about](http://9gag.com/gag/a713rjL)
+ - 🚯 [Two nerve cells forming connection](http://9gag.com/gag/aQXR9yd)<!-- MEMES:END -->
 
 --- 
 
