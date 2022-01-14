@@ -183,9 +183,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [But When Will Sony Kill Off The PS4? Let&#39;s Guess!](https://kotaku.com/but-when-will-sony-kill-off-the-ps4-lets-guess-1848358757)
- - [Tweak these God of War settings for divine performance and visuals](https://www.pcgamer.com/god-of-war-best-settings)
- - [Analysts think GTA 6 likely to launch in the fiscal year 2024](https://www.pcgamer.com/analysts-think-gta-6-likely-to-launch-in-the-fiscal-year-2024)<!-- GAME:END -->
+ - [How to get to Veithurgard in God of War](https://www.pcgamer.com/god-of-war-veithurgard-gate-open-unlock)
+ - [Final Fantasy XIV Goes Back On Sale From January 25](https://kotaku.com/final-fantasy-xiv-goes-back-on-sale-from-january-25-1848358846)
+ - [Final Fantasy 14 will return to sale soon as director Yoshida chides abusive fans](https://www.pcgamer.com/final-fantasy-14-will-return-to-sale-soon-as-director-yoshida-chides-abusive-fans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
