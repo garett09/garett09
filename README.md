@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Church Of Scientology tried to take down this video Where Tom Cruise salutes to a portrait of it&amp;#039;s Dead Founder.](http://9gag.com/gag/awzAnoR)
- - 🚯 [Getting into the seat of a Boeing 787](http://9gag.com/gag/aPZY9LR)
- - 🚯 [In 1949, Japanese school children have written to then Prime Minister of India asking for an elephant because Japan has lost its only two elephants during the war. Nehru granted the request.](http://9gag.com/gag/aNPYzx3)<!-- MEMES:END -->
+ - 🚖 [Girls be like](http://9gag.com/gag/aNPYzXb)
+ - 🚯 [Young employee sick with new disease](http://9gag.com/gag/ay9BX5y)
+ - 🚯 [Zhuge Liang &amp;quot;come at be bruh&amp;quot;](http://9gag.com/gag/abgYz6p)<!-- MEMES:END -->
 
 --- 
 
