@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s worth the risk...](http://9gag.com/gag/aLvgDdM)
- - 🚯 [Wonder what he&amp;#039;s so happy about](http://9gag.com/gag/a713rjL)
- - 🚯 [Two nerve cells forming connection](http://9gag.com/gag/aQXR9yd)<!-- MEMES:END -->
+ - 🚖 [British intelligence has issued a rare warning that alleged Chinese agent Christine Ching Kui Lee had &amp;ldquo;established links&amp;rdquo; for the Chinese Communist Party and had infiltrated the UK Parliament to interfere in UK politics](http://9gag.com/gag/aNPYAZb)
+ - 🚯 [As the woke...](http://9gag.com/gag/aKmx2Wb)
+ - 🚯 [Church Of Scientology tried to take down this video Where Tom Cruise salutes to a portrait of it&amp;#039;s Dead Founder.](http://9gag.com/gag/awzAnoR)<!-- MEMES:END -->
 
 --- 
 
