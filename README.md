@@ -183,9 +183,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcade Previously Attacked By Axe-Wielding Man Now Crashed Into By SUV](https://kotaku.com/arcade-previously-attacked-by-axe-wielding-man-now-cras-1848356315)
- - [Fortnite returns to Apple devices via GeForce backdoor](https://www.pcgamer.com/fortnite-returns-to-apple-devices-via-geforce-backdoor)
- - [Dungeon Encounters finds depth in stripping the JRPG down to its essentials](https://www.pcgamer.com/dungeon-encounters-finds-depth-in-stripping-the-jrpg-down-to-its-essentials)<!-- GAME:END -->
+ - [Ridley Scott doesn’t sound too high on the future of the Disney-Fox deal](https://www.polygon.com/22882108/disney-20th-century-studios-fox-movies-ridley-scott-comments)
+ - [Oh No: Logan Paul&#39;s $3.5 Million Box Of &#39;Pokémon&#39; Cards Was Just Old G.I. Joe Junk](https://kotaku.com/oh-no-logan-pauls-3-5-million-box-of-pokemon-cards-wa-1848356807)
+ - [Crytek forces Patreon-supported Crysis Remastered photo mode mod offline](https://www.pcgamer.com/crytek-forces-patreon-supported-crysis-remastered-photo-mode-mod-offline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
