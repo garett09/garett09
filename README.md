@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Buy him another beer](http://9gag.com/gag/aLvg9LV)
- - 🚯 [A scourge upon humanity](http://9gag.com/gag/a0ZQdWq)
- - 🚯 [Church Of Scientology tried to take down this video Where Tom Cruise salutes to a portrait of it&amp;#039;s Dead Founder.](http://9gag.com/gag/awzAnoR)<!-- MEMES:END -->
+ - 🚖 [A year ago my relationship ended so I have the weekends to myself now. For the last 6 months I have been rebuilding an old &lpar;1989&rpar; BMW into my dream bike. It&amp;rsquo;s alsmost ready. Just needs a finishing toch here and there. Felt a little proud of mysels finally.](http://9gag.com/gag/ang9bE0)
+ - 🚯 [Sharing this for your pet&amp;rsquo;s sake. be there when they need you](http://9gag.com/gag/aE82n8M)
+ - 🚯 [And do not lie that you did not dream of doing this](http://9gag.com/gag/aE82RRK)<!-- MEMES:END -->
 
 --- 
 
