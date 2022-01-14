@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virtana, which provides AI-driven monitoring software to help manage multiple cloud environments, raises $73M from Atalaya Capital Management and others &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220113/p39#a220113p39)
- - [Nvidia&#39;s GeForce Now service can stream Fortnite on iPhone and Android     - CNET](https://www.cnet.com/tech/gaming/nvidias-geforce-now-service-can-stream-fortnite-on-iphone-and-android/#ftag=CAD590a51e)
- - [Visible deals: Get the Samsung Galaxy S20 FE and $100 credit for just $408](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
+ - [Spider-Man: No Way Home -- Our 10 biggest WTF questions     - CNET](https://www.cnet.com/news/spider-man-no-way-home-our-10-biggest-wtf-questions/#ftag=CAD590a51e)
+ - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)
+ - [Yellowjackets: Our biggest burning questions and working theories     - CNET](https://www.cnet.com/news/yellowjackets-our-biggest-burning-questions-and-working-theories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
