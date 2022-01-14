@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Massive cyber attack’ hits Ukraine government websites as tensions with Russia escalate](https://www.theverge.com/2022/1/14/22883400/ukraine-government-websites-cyber-attack-russia)
- - [Google will buy London&#39;s Central Saint Giles development, which includes 408K sq. ft. of office space and space for 10,000 employees, for $1B &lpar;Joanna Partridge/The Guardian&rpar;](http://www.techmeme.com/220114/p2#a220114p2)
- - [Realme 9 Pro renders, specs leak: Two steps forward, one step back?](https://www.androidauthority.com/realme-9-pro-3089697/)<!-- TECH:END -->
+ - [Trending hashtag &#39;iPhone shower&#39; turns a silly accident into ongoing meme](https://appleinsider.com/articles/22/01/13/trending-hashtag-iphone-shower-turns-a-silly-accident-into-ongoing-meme?utm_medium=rss)
+ - [Microsoft commissions third-party review of its harassment and discrimination policies](https://www.theverge.com/2022/1/14/22883416/microsoft-board-harassment-discrimination-report)
+ - [Google TV exploring fitness, smart home control, and other new features for 2022](https://www.theverge.com/2022/1/14/22883412/google-tv-2022-new-features-smart-home-fitness-video-conferencing-free-live-channels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
