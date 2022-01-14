@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether says it froze three Ethereum blockchain addresses containing $160M on a law enforcement request; Bloxy data shows Tether froze 563 addresses since 2017 &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/220114/p1#a220114p1)
  - [Even BlackBerry’s best Android apps are reaching end-of-life this year](https://www.androidauthority.com/blackberry-android-apps-end-of-life-3088931/)
- - [Spider-Man: No Way Home -- Our 10 biggest WTF questions     - CNET](https://www.cnet.com/news/spider-man-no-way-home-our-10-biggest-wtf-questions/#ftag=CAD590a51e)
- - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spider-Man: No Way Home -- Our 10 biggest WTF questions     - CNET](https://www.cnet.com/news/spider-man-no-way-home-our-10-biggest-wtf-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
