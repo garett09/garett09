@@ -183,9 +183,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to Veithurgard in God of War](https://www.pcgamer.com/god-of-war-veithurgard-gate-open-unlock)
- - [Final Fantasy XIV Goes Back On Sale From January 25](https://kotaku.com/final-fantasy-xiv-goes-back-on-sale-from-january-25-1848358846)
- - [Final Fantasy 14 will return to sale soon as director Yoshida chides abusive fans](https://www.pcgamer.com/final-fantasy-14-will-return-to-sale-soon-as-director-yoshida-chides-abusive-fans)<!-- GAME:END -->
+ - [Inside Atari’s plan to reinvent itself, again](https://www.polygon.com/features/22880558/atari-50th-anniversary-plans)
+ - [Robots are getting stronger muscles and explosion-proofing](https://www.pcgamer.com/robots-are-getting-stronger-muscles-and-explosion-proofing)
+ - [How to get to Veithurgard in God of War](https://www.pcgamer.com/god-of-war-veithurgard-gate-open-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
