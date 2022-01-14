@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A scourge upon humanity](http://9gag.com/gag/a0ZQdWq)
- - 🚯 [A year ago my relationship ended so I have the weekends to myself now. For the last 6 months I have been rebuilding an old &lpar;1989&rpar; BMW into my dream bike. It&amp;rsquo;s alsmost ready. Just needs a finishing toch here and there. Felt a little proud of mysels finally.](http://9gag.com/gag/ang9bE0)
- - 🚯 [Two nerve cells forming connection](http://9gag.com/gag/aQXR9yd)<!-- MEMES:END -->
+ - 🚖 [A year ago my relationship ended so I have the weekends to myself now. For the last 6 months I have been rebuilding an old &lpar;1989&rpar; BMW into my dream bike. It&amp;rsquo;s alsmost ready. Just needs a finishing toch here and there. Felt a little proud of mysels finally.](http://9gag.com/gag/ang9bE0)
+ - 🚯 [Zhuge Liang &amp;quot;come at be bruh&amp;quot;](http://9gag.com/gag/abgYz6p)
+ - 🚯 [It&amp;#039;s worth the risk...](http://9gag.com/gag/aLvgDdM)<!-- MEMES:END -->
 
 --- 
 
