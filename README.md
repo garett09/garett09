@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An accident](http://9gag.com/gag/apgm2AW)
- - 🚯 [Heavyweight Boxing](http://9gag.com/gag/ang9Myb)
- - 🚯 [My energy provider just declared bankruptcy here in Germany](http://9gag.com/gag/adgL9GQ)<!-- MEMES:END -->
+ - 🚖 [Wear those medal proudly lads](http://9gag.com/gag/arnGG4y)
+ - 🚯 [60% of the time, it works every time](http://9gag.com/gag/aM4ZZeR)
+ - 🚯 [Why you come and eat my food???](http://9gag.com/gag/a21Zo1e)<!-- MEMES:END -->
 
 --- 
 
