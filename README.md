@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9RT hits India: You should probably wait for OnePlus 10 series](https://www.androidauthority.com/oneplus-9rt-india-3089781/)
- - [The Gritty, Underground Network Bringing Japan’s Arcades to the US](https://www.wired.com/story/gritty-underground-network-bringing-japan-arcades-to-us)
- - [Ultra-Long Battery Life Is Coming … Eventually](https://www.wired.com/story/ultra-long-battery-life-coming-eventually)<!-- TECH:END -->
+ - [Bolt, which offers a one-click checkout service, raises a $355M Series E led by BlackRock, sources say at an $11B valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220114/p4#a220114p4)
+ - [Garmin Vivomove Sport review: the right mix of form and function](https://www.theverge.com/22882401/garmin-vivomove-sport-review-fitness-tracker-smartwatch-wearables)
+ - [A Pandemic Historian Warns Us All to Stop Looking at the Past](https://www.wired.com/story/a-pandemic-historian-warns-us-all-to-stop-looking-at-the-past)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
