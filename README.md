@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this story about Amazon workers fighting the company’s robotic HR response to COVID](https://www.theverge.com/2022/1/13/22882707/go-read-this-amazon-workers-covid-hr-system-testing-helpline)
- - [School employee stole 3,000 Apple iPods earmarked for Native American kids](https://www.theverge.com/22882758/ipod-theft-kristy-stock-native-american-students-new-mexico-school-district)
- - [Virgin Orbit launches first satellite mission after SPAC merger](https://www.theverge.com/2022/1/13/22880143/virgin-orbit-launcherone-747-cosmic-girl-air-launch-small-satellites)<!-- TECH:END -->
+ - [Meta faces a $3.1B UK class action suit alleging it abused Facebook&#39;s market dominance and set an &quot;unfair price&quot; for 44M UK users&#39; data from 2015 to 2019 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220113/p38#a220113p38)
+ - [Q&amp;A with Wordle creator Josh Wardle on the game&#39;s origin story, reasons for keeping it simple, app clones, and handling the traffic from its newfound popularity &lpar;TechCrunch&rpar;](http://www.techmeme.com/220113/p37#a220113p37)
+ - [Go read this story about Amazon workers fighting the company’s robotic HR response to COVID](https://www.theverge.com/2022/1/13/22882707/go-read-this-amazon-workers-covid-hr-system-testing-helpline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
