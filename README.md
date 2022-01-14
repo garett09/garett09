@@ -183,9 +183,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ridley Scott doesn’t sound too high on the future of the Disney-Fox deal](https://www.polygon.com/22882108/disney-20th-century-studios-fox-movies-ridley-scott-comments)
- - [Oh No: Logan Paul&#39;s $3.5 Million Box Of &#39;Pokémon&#39; Cards Was Just Old G.I. Joe Junk](https://kotaku.com/oh-no-logan-pauls-3-5-million-box-of-pokemon-cards-wa-1848356807)
- - [Crytek forces Patreon-supported Crysis Remastered photo mode mod offline](https://www.pcgamer.com/crytek-forces-patreon-supported-crysis-remastered-photo-mode-mod-offline)<!-- GAME:END -->
+ - [Why Peacemaker sticks to a ‘mirrorball helmet,’ according to James Gunn](https://www.polygon.com/22880354/peacemaker-helmet-comics-explained)
+ - [Final claim in CS:GO skin gambling lawsuit dismissed because plaintiffs never actually used Steam](https://www.pcgamer.com/final-claim-in-csgo-skin-gambling-lawsuit-dismissed-because-plaintiffs-never-actually-used-steam)
+ - [Ridley Scott doesn’t sound too high on what the Disney-Fox deal has wrought](https://www.polygon.com/22882108/disney-20th-century-studios-fox-movies-ridley-scott-comments)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
