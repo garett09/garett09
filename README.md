@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Matrix Resurrections Is a Movie for Grown-Ups](https://www.wired.com/2022/01/geeks-guide-matrix-resurrections)
- - [Crypto exchange FTX launches a $2B venture fund to invest in crypto startups, to be led by former Lightspeed partner Amy Wu &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220114/p10#a220114p10)
- - [15th Annual iPhone Photography Awards now accepting entries](https://appleinsider.com/articles/22/01/14/15th-annual-iphone-photography-awards-now-accepting-entries?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Android users more likely to be happy with phone updates than iOS users](https://www.androidauthority.com/android-updates-poll-router-network-3090193/)
+ - [Bethesda will follow up Fallout 4’s real-life Pip-Boy with this Starfield smartwatch](https://www.theverge.com/2022/1/14/22882988/starfield-smartwatch-collectors-item-manual-leak-bethesda-the-wand-company)
+ - [Peacemaker actually knows how to exist in a cinematic universe](https://www.theverge.com/22882051/peacemaker-hbo-max-the-suicide-squad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
