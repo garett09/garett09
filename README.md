@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lukka, a crypto asset data and enterprise software provider, raises a $110M Series E led by Marshall Wace at a $1.3B valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220114/p12#a220114p12)
- - [In Belle, the Internet Unlocks Our Best Selves](https://www.wired.com/story/belle-anime-essay)
- - [Google’s Sonos lawsuit dodge might let other phone makers do what Pixel cannot](https://www.theverge.com/2022/1/14/22883982/google-sonos-ban-workaround-speaker-groups-aosp-volume-control)<!-- TECH:END -->
+ - [Sources: the FTC and multiple states led by New York are investigating Meta&#39;s Oculus VR unit over potential anti-competitive practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/220114/p13#a220114p13)
+ - [Arc Pulse case review: The best case for those who prefer naked iPhones](https://appleinsider.com/articles/22/01/14/arc-pulse-case-review-the-best-case-for-those-who-prefer-naked-iphones?utm_medium=rss)
+ - [January 2022 security patch here for Pixels &lpar;Update: Pixel 6 series, finally&rpar;](https://www.androidauthority.com/january-2022-android-security-patch-3083788/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
