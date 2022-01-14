@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FTC and multiple states led by New York are investigating Meta&#39;s Oculus VR unit over potential anti-competitive practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/220114/p13#a220114p13)
- - [Arc Pulse case review: The best case for those who prefer naked iPhones](https://appleinsider.com/articles/22/01/14/arc-pulse-case-review-the-best-case-for-those-who-prefer-naked-iphones?utm_medium=rss)
- - [January 2022 security patch here for Pixels &lpar;Update: Pixel 6 series, finally&rpar;](https://www.androidauthority.com/january-2022-android-security-patch-3083788/)<!-- TECH:END -->
+ - [Google’s critical Pixel 6 January update is here for some](https://www.theverge.com/2022/1/14/22884219/google-january-2022-pixel-6-pro-update)
+ - [Netflix raising prices on all plans in the US and Canada](https://appleinsider.com/articles/22/01/14/netflix-raising-prices-on-all-plans-in-the-us-and-canada?utm_medium=rss)
+ - [White House: COVIDTests.gov will distribute free rapid tests starting January 19th](https://www.theverge.com/2022/1/14/22884217/free-covid-19-test-biden-500-million-january-19-usps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
