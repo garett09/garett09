@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As newcomers flood to Puerto Rico seeking to build a crypto paradise, attracted by low taxes, locals are skeptical and house prices across San Juan are rising &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220113/p34#a220113p34)
- - [Valve says the Steam Deck is on track to ship by the end of February](https://www.theverge.com/2022/1/13/22882686/steam-deck-delays-valve-pc-gaming-handheld)
- - [Congress subpoenas Meta, Alphabet, Twitter, and Reddit over January 6th Capitol attack](https://www.theverge.com/2022/1/13/22882665/congress-subpoena-meta-alphabet-twitter-reddit-january-6-capitol-attack-committee)<!-- TECH:END -->
+ - [Go read this story about Amazon workers fighting the company’s robotic HR response to COVID](https://www.theverge.com/2022/1/13/22882707/go-read-this-amazon-workers-covid-hr-system-testing-helpline)
+ - [School employee stole 3,000 Apple iPods earmarked for Native American kids](https://www.theverge.com/22882758/ipod-theft-kristy-stock-native-american-students-new-mexico-school-district)
+ - [Virgin Orbit launches first satellite mission after SPAC merger](https://www.theverge.com/2022/1/13/22880143/virgin-orbit-launcherone-747-cosmic-girl-air-launch-small-satellites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
