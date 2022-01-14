@@ -183,9 +183,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Analysts think GTA 6 likely to launch in the fiscal year 2024](https://www.pcgamer.com/analysts-think-gta-6-likely-to-launch-in-the-fiscal-year-2024)
- - [Why Peacemaker sticks to a ‘mirrorball helmet,’ according to James Gunn](https://www.polygon.com/22880354/peacemaker-helmet-comics-explained)
- - [Final claim in CS:GO skin gambling lawsuit dismissed because plaintiffs never actually used Steam](https://www.pcgamer.com/final-claim-in-csgo-skin-gambling-lawsuit-dismissed-because-plaintiffs-never-actually-used-steam)<!-- GAME:END -->
+ - [But When Will Sony Kill Off The PS4? Let&#39;s Guess!](https://kotaku.com/but-when-will-sony-kill-off-the-ps4-lets-guess-1848358757)
+ - [Tweak these God of War settings for divine performance and visuals](https://www.pcgamer.com/god-of-war-best-settings)
+ - [Analysts think GTA 6 likely to launch in the fiscal year 2024](https://www.pcgamer.com/analysts-think-gta-6-likely-to-launch-in-the-fiscal-year-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
