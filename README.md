@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Most of you have RCS messaging and use it](https://www.androidauthority.com/rcs-messaging-poll-results-3089668/)
- - [Tesla now lets you buy some merch in Dogecoin](https://www.theverge.com/2022/1/14/22849725/tesla-dogecoin-cryptocurrency-merchandise-sales)
- - [Tesla delays Cybertruck to early 2023, says report](https://www.theverge.com/2022/1/13/22881646/tesla-cybertruck-production-date-2022-removed-website)<!-- TECH:END -->
+ - [‘Massive cyber attack’ hits Ukraine government websites as tensions with Russia escalate](https://www.theverge.com/2022/1/14/22883400/ukraine-government-websites-cyber-attack-russia)
+ - [Google will buy London&#39;s Central Saint Giles development, which includes 408K sq. ft. of office space and space for 10,000 employees, for $1B &lpar;Joanna Partridge/The Guardian&rpar;](http://www.techmeme.com/220114/p2#a220114p2)
+ - [Realme 9 Pro renders, specs leak: Two steps forward, one step back?](https://www.androidauthority.com/realme-9-pro-3089697/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
