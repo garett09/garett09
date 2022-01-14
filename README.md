@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Android users more likely to be happy with phone updates than iOS users](https://www.androidauthority.com/android-updates-poll-router-network-3090193/)
- - [Bethesda will follow up Fallout 4’s real-life Pip-Boy with this Starfield smartwatch](https://www.theverge.com/2022/1/14/22882988/starfield-smartwatch-collectors-item-manual-leak-bethesda-the-wand-company)
- - [Peacemaker actually knows how to exist in a cinematic universe](https://www.theverge.com/22882051/peacemaker-hbo-max-the-suicide-squad)<!-- TECH:END -->
+ - [Lukka, a crypto asset data and enterprise software provider, raises a $110M Series E led by Marshall Wace at a $1.3B valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220114/p12#a220114p12)
+ - [In Belle, the Internet Unlocks Our Best Selves](https://www.wired.com/story/belle-anime-essay)
+ - [Google’s Sonos lawsuit dodge might let other phone makers do what Pixel cannot](https://www.theverge.com/2022/1/14/22883982/google-sonos-ban-workaround-speaker-groups-aosp-volume-control)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
