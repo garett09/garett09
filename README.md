@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to share your Apple Music or Apple One family plan](https://appleinsider.com/articles/21/11/26/how-to-share-your-apple-music-or-apple-one-family-plan?utm_medium=rss)
- - [Apple Booted the Wordle Copycat Apps, But More Will Come](https://www.wired.com/story/apple-booted-wordle-copycat-apps-but-more-will-come)
- - [Put In a Dollar, Get $100 Back: A True Bitcoin Story](https://www.wired.com/story/plaintext-true-bitcoin-story)<!-- TECH:END -->
+ - [How to Reboot Your Gadgets and How Often to Do It](https://www.wired.com/story/how-to-reboot-your-gadgets)
+ - [EV startup Bollinger ‘indefinitely’ delays its rugged electric trucks to focus on delivery vans](https://www.theverge.com/2022/1/14/22881883/bollinger-electric-truck-postpone-delivery-van)
+ - [Report suggests lack of Galaxy Note 21 didn’t help Galaxy S21 sales](https://www.androidauthority.com/galaxy-s21-sales-galaxy-note-3089985/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
