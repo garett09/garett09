@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Reboot Your Gadgets and How Often to Do It](https://www.wired.com/story/how-to-reboot-your-gadgets)
- - [EV startup Bollinger ‘indefinitely’ delays its rugged electric trucks to focus on delivery vans](https://www.theverge.com/2022/1/14/22881883/bollinger-electric-truck-postpone-delivery-van)
- - [Report suggests lack of Galaxy Note 21 didn’t help Galaxy S21 sales](https://www.androidauthority.com/galaxy-s21-sales-galaxy-note-3089985/)<!-- TECH:END -->
+ - [In court docs, state AGs allege that Zuckerberg and Sundar Pichai personally approved a secret 2018 deal that gave Facebook advantages in Google&#39;s ad auctions &lpar;Leah Nylen/Politico&rpar;](http://www.techmeme.com/220114/p8#a220114p8)
+ - [Sources: Apple is considering delaying the debut of its mixed-reality headset from WWDC due to development challenges related to overheating, cameras, software &lpar;Bloomberg&rpar;](http://www.techmeme.com/220114/p7#a220114p7)
+ - [Deals: Amazon issues 14-inch MacBook Pro discount, Apple Watch Series 7 at lowest price in 30 days](https://appleinsider.com/articles/22/01/14/deals-amazon-issues-14-inch-macbook-pro-discount-apple-watch-series-7-at-lowest-price-in-30-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
