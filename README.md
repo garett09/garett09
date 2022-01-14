@@ -197,8 +197,8 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A year ago my relationship ended so I have the weekends to myself now. For the last 6 months I have been rebuilding an old &lpar;1989&rpar; BMW into my dream bike. It&amp;rsquo;s alsmost ready. Just needs a finishing toch here and there. Felt a little proud of mysels finally.](http://9gag.com/gag/ang9bE0)
- - 🚯 [Zhuge Liang &amp;quot;come at be bruh&amp;quot;](http://9gag.com/gag/abgYz6p)
+ - 🚖 [A solar flare at least 8-10 Earths tall.](http://9gag.com/gag/apgmQg9)
+ - 🚯 [Mother with dementia recognizes son and bursts into song](http://9gag.com/gag/aze9rNm)
  - 🚯 [It&amp;#039;s worth the risk...](http://9gag.com/gag/aLvgDdM)<!-- MEMES:END -->
 
 --- 
