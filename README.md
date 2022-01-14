@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Influencers](http://9gag.com/gag/awzA5ry)
+ - 🚖 [Buy him another beer](http://9gag.com/gag/aLvg9LV)
  - 🚯 [A scourge upon humanity](http://9gag.com/gag/a0ZQdWq)
- - 🚯 [A stranger found a wallet and returned it](http://9gag.com/gag/aPZYWzB)<!-- MEMES:END -->
+ - 🚯 [Church Of Scientology tried to take down this video Where Tom Cruise salutes to a portrait of it&amp;#039;s Dead Founder.](http://9gag.com/gag/awzAnoR)<!-- MEMES:END -->
 
 --- 
 
