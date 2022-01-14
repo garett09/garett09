@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bolt, which offers a one-click checkout service, raises a $355M Series E led by BlackRock, sources say at an $11B valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220114/p4#a220114p4)
- - [Garmin Vivomove Sport review: the right mix of form and function](https://www.theverge.com/22882401/garmin-vivomove-sport-review-fitness-tracker-smartwatch-wearables)
- - [A Pandemic Historian Warns Us All to Stop Looking at the Past](https://www.wired.com/story/a-pandemic-historian-warns-us-all-to-stop-looking-at-the-past)<!-- TECH:END -->
+ - [How to share your Apple Music or Apple One family plan](https://appleinsider.com/articles/21/11/26/how-to-share-your-apple-music-or-apple-one-family-plan?utm_medium=rss)
+ - [Apple Booted the Wordle Copycat Apps, But More Will Come](https://www.wired.com/story/apple-booted-wordle-copycat-apps-but-more-will-come)
+ - [Put In a Dollar, Get $100 Back: A True Bitcoin Story](https://www.wired.com/story/plaintext-true-bitcoin-story)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
