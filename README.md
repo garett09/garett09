@@ -197,9 +197,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls be like](http://9gag.com/gag/aNPYzXb)
- - 🚯 [Young employee sick with new disease](http://9gag.com/gag/ay9BX5y)
- - 🚯 [Zhuge Liang &amp;quot;come at be bruh&amp;quot;](http://9gag.com/gag/abgYz6p)<!-- MEMES:END -->
+ - 🚖 [She&amp;#039;s got a point](http://9gag.com/gag/a21ZoMd)
+ - 🚯 [We all know who will win this duel...](http://9gag.com/gag/aLvgjvz)
+ - 🚯 [Heavyweight Boxing](http://9gag.com/gag/ang9Myb)<!-- MEMES:END -->
 
 --- 
 
