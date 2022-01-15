@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will let dating apps offer third-party payment options in the Netherlands](https://www.theverge.com/2022/1/15/22885065/apple-netherlands-dating-apps-third-party-payment-options)
  - [Best deals Jan. 15: $250 off iRobot Roombas, $98 Adata 1TB NVMe, $60 Razer Kiyo, more!](https://appleinsider.com/articles/22/01/15/best-deals-jan-15-250-off-irobot-roombas-98-adata-1tb-nvme-60-razer-kiyo-more?utm_medium=rss)
- - [RCS is too little too late, and Google is having a tantrum over a lost battle](https://www.androidauthority.com/rcs-google-3090142/)
- - [Our Favorite Period Products](https://www.wired.com/story/best-menstrual-products)<!-- TECH:END -->
+ - [RCS is too little too late, and Google is having a tantrum over a lost battle](https://www.androidauthority.com/rcs-google-3090142/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
