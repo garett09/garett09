@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elliott Investment Management and Vista Equity Partners are in advanced talks to buy Citrix Systems; a deal could be announced within a few weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/220115/p2#a220115p2)
- - [London-based Twig, which offers users an e-money account that provides instant cash-outs for selling fashion and electronic goods, raises a $35M Series A &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220115/p1#a220115p1)
- - [Zero Hash, which lets fintechs, payment processors, and retail brokers integrate crypto and NFT services into their product offerings, raises a $105M Series D &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220114/p19#a220114p19)<!-- TECH:END -->
+ - [Analysis: Coinbase influences cryptocurrency returns, most coins underperform BTC and ETH over time, and VC-backed coins give the worst returns of all &lpar;Fais Khan/startups and econ&rpar;](http://www.techmeme.com/220115/p5#a220115p5)
+ - [New Delhi-based Rooter, a game streaming and e-sports service with 8.5M MAUs, raises a $25M Series A led by Lightbox, March Gaming, and Duane Park Ventures &lpar;Gaurav Laghate/The Economic Times&rpar;](http://www.techmeme.com/220115/p4#a220115p4)
+ - [A California superior court judge rules that the confidentiality agreements Google requires its employees to sign are too broad and break the state&#39;s labor laws &lpar;Washington Post&rpar;](http://www.techmeme.com/220115/p3#a220115p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
