@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
- - [Eternals post-credits scenes explained, and how they hold the keys to the MCU&#39;s future     - CNET](https://www.cnet.com/news/eternals-post-credits-scenes-explained-how-they-hold-keys-to-mcu-future/#ftag=CAD590a51e)
- - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)<!-- TECH:END -->
+ - [Tumblr&#39;s internet relic status, exemplified by its chronological feed, has given it new life, with Gen Z now 48% of active users and revenue up 55% since July &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/220114/p18#a220114p18)
+ - [These potato chips can thank NFL stadiums for their existence     - CNET](https://www.cnet.com/news/these-potato-chips-can-thank-nfl-stadiums-for-their-existence/#ftag=CAD590a51e)
+ - [Team USA reportedly tells athletes not to take their phones to Winter Olympics     - CNET](https://www.cnet.com/news/team-usa-reportedly-tells-athletes-not-to-take-their-phones-to-winter-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
