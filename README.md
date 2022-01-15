@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old Climate Clues Shed New Light on History](https://www.wired.com/story/old-climate-clues-shed-new-light-on-history)
- - [Our Favorite Period Products](https://www.wired.com/story/best-menstrual-products)
- - [Dutch App Store change allows dating apps to take third-party payments](https://appleinsider.com/articles/22/01/15/dutch-app-store-change-allows-dating-apps-to-take-third-party-payments?utm_medium=rss)<!-- TECH:END -->
+ - [How much RAM does your Android phone really need in 2022?](https://www.androidauthority.com/how-much-ram-do-i-need-phone-3086661/)
+ - [Razer’s excellent Basilisk V3 mouse is selling for its best price ever](https://www.theverge.com/good-deals/2022/1/15/22883789/razers-basilisk-v3-jabra-elite-3-75t-blue-yeti-mic-xbox-series-s-dji-mavic-mini-drone-deal-sale)
+ - [Why you might want a secure file-sharing service now that you’re working from home](https://www.theverge.com/22867623/file-share-secure-work-from-home-how-to-cloud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
