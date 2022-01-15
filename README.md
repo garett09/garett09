@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: Chicago has 26 unicorns, 13 of which reached the status in 2021; 17 VC funds in Chicago raised $7.42B in 2021, up from three raising $977M in 2016 &lpar;Kiel Porter/Bloomberg&rpar;](http://www.techmeme.com/220115/p9#a220115p9)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-415-3090391/)
- - [Missing iPhone 13 Phone Noise Cancelation may not return](https://appleinsider.com/articles/22/01/15/missing-iphone-13-phone-noise-cancelation-may-not-return?utm_medium=rss)<!-- TECH:END -->
+ - [Apple wants proof of employee COVID-19 booster shots](https://appleinsider.com/articles/22/01/15/apple-wants-proof-of-employee-covid-19-booster-shots?utm_medium=rss)
+ - [Missing iPhone 13 Phone Noise Cancellation may not return](https://appleinsider.com/articles/22/01/15/missing-iphone-13-phone-noise-cancelation-may-not-return?utm_medium=rss)
+ - [Apple will now require employees to submit proof of COVID-19 booster shot](https://www.theverge.com/2022/1/15/22885181/apple-vaccine-covid-19-booster-shot-employees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
