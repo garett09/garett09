@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emby vs Plex: Which media server is right for you?](https://www.androidauthority.com/emby-vs-plex-3085907/)
  - [Apple wants proof of employee COVID-19 booster shots](https://appleinsider.com/articles/22/01/15/apple-wants-proof-of-employee-covid-19-booster-shots?utm_medium=rss)
- - [Missing iPhone 13 Phone Noise Cancellation may not return](https://appleinsider.com/articles/22/01/15/missing-iphone-13-phone-noise-cancelation-may-not-return?utm_medium=rss)
- - [Apple will now require employees to submit proof of COVID-19 booster shot](https://www.theverge.com/2022/1/15/22885181/apple-vaccine-covid-19-booster-shot-employees)<!-- TECH:END -->
+ - [Missing iPhone 13 Phone Noise Cancellation may not return](https://appleinsider.com/articles/22/01/15/missing-iphone-13-phone-noise-cancelation-may-not-return?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
