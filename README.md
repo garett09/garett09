@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Great Deals on Laptops, Cameras, and Video Games](https://www.wired.com/story/weekend-deals-january-15-2022)
- - [Galloping Ghost Gives Arcade Gaming an Extra Life](https://www.wired.com/story/galloping-ghost-arcade-gaming)
- - [15 Great Chinese Dramas to Binge](https://www.wired.com/story/great-chinese-dramas-stream)<!-- TECH:END -->
+ - [Old Climate Clues Shed New Light on History](https://www.wired.com/story/old-climate-clues-shed-new-light-on-history)
+ - [Our Favorite Period Products](https://www.wired.com/story/best-menstrual-products)
+ - [Dutch App Store change allows dating apps to take third-party payments](https://appleinsider.com/articles/22/01/15/dutch-app-store-change-allows-dating-apps-to-take-third-party-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
