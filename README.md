@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Alphabet, Amazon, Meta, and Microsoft laying undersea fiber-optic cables helped increase data transmission capacity by 41% in 2020 while reducing costs &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220115/p10#a220115p10)
- - [Emby vs Plex: Which media server is right for you?](https://www.androidauthority.com/emby-vs-plex-3085907/)
- - [NFL Super Wild Card Weekend: Schedule, How to watch Raiders vs. Bengals, Patriots vs. Bills today     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-super-wild-card-weekend-schedule-how-to-watch-raiders-vs-bengals-patriots-vs-bills-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AT&amp;T, Dish, and T-Mobile spend billions on more 5G spectrum](https://www.theverge.com/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction)
+ - [Toyota&#39;s new GRMN Yaris is an even hotter hatch     - Roadshow](https://www.cnet.com/roadshow/pictures/toyota-grmn-yaris/#ftag=CAD590a51e)
+ - [Report: Alphabet, Amazon, Meta, and Microsoft laying undersea fiber-optic cables helped increase data transmission capacity by 41% in 2020 while reducing costs &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220115/p10#a220115p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
