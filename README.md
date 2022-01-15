@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austria-based Mostly AI, which simulates synthetic data for AI training, data analytics, and software testing, raises a $25M Series B from Molten Ventures &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220115/p6#a220115p6)
  - [Xiaomi 11i HyperCharge review: 120W charging on the cheap](https://www.androidauthority.com/xiaomi-mi11i-hypercharge-review-3086501/)
- - [Analysis: Coinbase influences cryptocurrency returns, most coins underperform BTC and ETH over time, and VC-backed coins give the worst returns of all &lpar;Fais Khan/startups and econ&rpar;](http://www.techmeme.com/220115/p5#a220115p5)
- - [New Delhi-based Rooter, a game streaming and e-sports service with 8.5M MAUs, raises a $25M Series A led by Lightbox, March Gaming, and Duane Park Ventures &lpar;Gaurav Laghate/The Economic Times&rpar;](http://www.techmeme.com/220115/p4#a220115p4)<!-- TECH:END -->
+ - [Analysis: Coinbase influences cryptocurrency returns, most coins underperform BTC and ETH over time, and VC-backed coins give the worst returns of all &lpar;Fais Khan/startups and econ&rpar;](http://www.techmeme.com/220115/p5#a220115p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
