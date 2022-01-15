@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)
- - [Microsoft Teams’ Walkie Talkie feature is now widely available](https://www.theverge.com/2022/1/12/22879777/microsoft-teams-walkie-talkie-launch-ios-app)
- - [Google is now requiring office workers to get weekly molecular COVID-19 tests](https://www.theverge.com/2022/1/14/22884539/google-require-negative-molecular-test-covid-19-offices)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [Eternals post-credits scenes explained, and how they hold the keys to the MCU&#39;s future     - CNET](https://www.cnet.com/news/eternals-post-credits-scenes-explained-how-they-hold-keys-to-mcu-future/#ftag=CAD590a51e)
+ - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
