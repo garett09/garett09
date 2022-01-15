@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MagSafe accessories you can buy for your iPhone or Android phone](https://www.androidauthority.com/best-magsafe-accessories-3082635/)
- - [Austria-based Mostly AI, which simulates synthetic data for AI training, data analytics, and software testing, raises a $25M Series B from Molten Ventures &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220115/p6#a220115p6)
- - [Xiaomi 11i HyperCharge review: 120W charging on the cheap](https://www.androidauthority.com/xiaomi-mi11i-hypercharge-review-3086501/)<!-- TECH:END -->
+ - [16 Great Deals on Laptops, Cameras, and Video Games](https://www.wired.com/story/weekend-deals-january-15-2022)
+ - [Galloping Ghost Gives Arcade Gaming an Extra Life](https://www.wired.com/story/galloping-ghost-arcade-gaming)
+ - [15 Great Chinese Dramas to Binge](https://www.wired.com/story/great-chinese-dramas-stream)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
