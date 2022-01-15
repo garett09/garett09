@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T, Dish, and T-Mobile spend billions on more 5G spectrum](https://www.theverge.com/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction)
- - [Toyota&#39;s new GRMN Yaris is an even hotter hatch     - Roadshow](https://www.cnet.com/roadshow/pictures/toyota-grmn-yaris/#ftag=CAD590a51e)
- - [Report: Alphabet, Amazon, Meta, and Microsoft laying undersea fiber-optic cables helped increase data transmission capacity by 41% in 2020 while reducing costs &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220115/p10#a220115p10)<!-- TECH:END -->
+ - [AT&amp;T spent $9.1B, Dish $7.3B, and T-Mobile $2.9B in FCC&#39;s 5G auction for the 3.45GHz to 3.55GHz band previously reserved for military use; Verizon was absent &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/220115/p11#a220115p11)
+ - [Developer hack puts CarPlay on Tesla using a Raspberry Pi](https://appleinsider.com/articles/22/01/15/developer-hack-puts-carplay-on-tesla-using-a-raspberry-pi?utm_medium=rss)
+ - [Best car insurance companies for 2022     - CNET](https://www.cnet.com/news/best-car-insurance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
