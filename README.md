@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much RAM does your Android phone really need in 2022?](https://www.androidauthority.com/how-much-ram-do-i-need-phone-3086661/)
- - [Razer’s excellent Basilisk V3 mouse is selling for its best price ever](https://www.theverge.com/good-deals/2022/1/15/22883789/razers-basilisk-v3-jabra-elite-3-75t-blue-yeti-mic-xbox-series-s-dji-mavic-mini-drone-deal-sale)
- - [Why you might want a secure file-sharing service now that you’re working from home](https://www.theverge.com/22867623/file-share-secure-work-from-home-how-to-cloud)<!-- TECH:END -->
+ - [Best deals Jan. 15: $250 off iRobot Roombas, $98 Adata 1TB NVMe, $60 Razer Kiyo, more!](https://appleinsider.com/articles/22/01/15/best-deals-jan-15-250-off-irobot-roombas-98-adata-1tb-nvme-60-razer-kiyo-more?utm_medium=rss)
+ - [RCS is too little too late, and Google is having a tantrum over a lost battle](https://www.androidauthority.com/rcs-google-3090142/)
+ - [Our Favorite Period Products](https://www.wired.com/story/best-menstrual-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
