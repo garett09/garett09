@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zero Hash, which lets fintechs, payment processors, and retail brokers integrate crypto and NFT services into their product offerings, raises a $105M Series D &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220114/p19#a220114p19)
- - [Tumblr&#39;s internet relic status, exemplified by its chronological feed, has given it new life, with Gen Z now 48% of active users and revenue up 55% since July &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/220114/p18#a220114p18)
- - [These potato chips can thank NFL stadiums for their existence     - CNET](https://www.cnet.com/news/these-potato-chips-can-thank-nfl-stadiums-for-their-existence/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elliott Investment Management and Vista Equity Partners are in advanced talks to buy Citrix Systems; a deal could be announced within a few weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/220115/p2#a220115p2)
+ - [London-based Twig, which offers users an e-money account that provides instant cash-outs for selling fashion and electronic goods, raises a $35M Series A &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220115/p1#a220115p1)
+ - [Zero Hash, which lets fintechs, payment processors, and retail brokers integrate crypto and NFT services into their product offerings, raises a $105M Series D &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220114/p19#a220114p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
