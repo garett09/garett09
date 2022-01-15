@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let dating apps offer third-party payment options in the Netherlands](https://www.theverge.com/2022/1/15/22885065/apple-netherlands-dating-apps-third-party-payment-options)
- - [Best deals Jan. 15: $250 off iRobot Roombas, $98 Adata 1TB NVMe, $60 Razer Kiyo, more!](https://appleinsider.com/articles/22/01/15/best-deals-jan-15-250-off-irobot-roombas-98-adata-1tb-nvme-60-razer-kiyo-more?utm_medium=rss)
- - [RCS is too little too late, and Google is having a tantrum over a lost battle](https://www.androidauthority.com/rcs-google-3090142/)<!-- TECH:END -->
+ - [PitchBook: Chicago has 26 unicorns, 13 of which reached the status in 2021; 17 VC funds in Chicago raised $7.42B in 2021, up from three raising $977M in 2016 &lpar;Kiel Porter/Bloomberg&rpar;](http://www.techmeme.com/220115/p9#a220115p9)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-415-3090391/)
+ - [Missing iPhone 13 Phone Noise Cancelation may not return](https://appleinsider.com/articles/22/01/15/missing-iphone-13-phone-noise-cancelation-may-not-return?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
