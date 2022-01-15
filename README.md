@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 best library apps for Android to read for free](https://www.androidauthority.com/best-library-apps-android-3083977/)
- - [Best keyboard for 2022     - CNET](https://www.cnet.com/tech/computing/best-keyboard/#ftag=CAD590a51e)
- - [Best mattress for heavy people for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wemo Smart Video Doorbell review: The new HomeKit doorbell of choice](https://appleinsider.com/articles/22/01/13/wemo-smart-video-doorbell-review-the-new-homekit-doorbell-of-choice?utm_medium=rss)
+ - [Microsoft Teams’ Walkie Talkie feature is now widely available](https://www.theverge.com/2022/1/12/22879777/microsoft-teams-walkie-talkie-launch-ios-app)
+ - [Google is now requiring office workers to get weekly molecular COVID-19 tests](https://www.theverge.com/2022/1/14/22884539/google-require-negative-molecular-test-covid-19-offices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
