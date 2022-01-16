@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Only the &#39;iPhone 14&#39; Pro models will have ProMotion displays](https://appleinsider.com/articles/22/01/16/non-pro-iphone-14-models-wont-have-promotion-displays?utm_medium=rss)
  - [Best deals Jan. 16: $447 Panasonic Lumix FZ300, $50 Kindle, Razer discounts, more!](https://appleinsider.com/articles/22/01/16/best-deals-jan-16-447-panasonic-lumix-fz300-50-kindle-razer-discounts-more?utm_medium=rss)
- - [Gurman: Apple&#39;s headset will likely cost $2,000+ and have two CPUs, one on par with the M1 Pro, two 8K displays, and an interchangeable prescription lens option &lpar;Jos&amp;eacute; Adorno/9to5Mac&rpar;](http://www.techmeme.com/220116/p7#a220116p7)
- - [NFL Super Wild Card Weekend: How to watch Eagles vs. Buccaneers on Fox, 49ers vs. Cowboys on CBS and the rest of Sunday&#39;s action     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-super-wild-card-weekend-how-to-watch-eagles-vs-buccaneers-on-fox-49ers-vs-cowboys-on-cbs-and-the-rest-of-sundays-action/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today only: Amazon&#39;s Kindle is on sale for the all-time low price of $70     - CNET](https://www.cnet.com/tech/mobile/today-only-amazons-kindle-is-on-sale-for-the-all-time-low-price-of-70/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
