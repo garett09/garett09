@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)
- - [Google might’ve accidentally approved an ad for a Target gift card scam](https://www.theverge.com/2022/1/15/22885562/google-search-target-gift-card-scam)
- - [Eternals post-credits scenes explained, and how they hold the keys to the MCU&#39;s future     - CNET](https://www.cnet.com/news/eternals-post-credits-scenes-explained-how-they-hold-keys-to-mcu-future/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the SMART Health Card, a minimal verification system that uses QR codes to check COVID-19 vaccine status, available to ~200M people in the US &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220115/p12#a220115p12)
+ - [Eternals ending explained as movie hits Disney Plus: Marvel links, sequel hints     - CNET](https://www.cnet.com/news/eternals-ending-explained-as-movie-hits-disney-plus-marvel-links-and-sequel-hints/#ftag=CAD590a51e)
+ - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
