@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only the &#39;iPhone 14&#39; Pro models will have ProMotion displays](https://appleinsider.com/articles/22/01/16/non-pro-iphone-14-models-wont-have-promotion-displays?utm_medium=rss)
- - [Best deals Jan. 16: $447 Panasonic Lumix FZ300, $50 Kindle, Razer discounts, more!](https://appleinsider.com/articles/22/01/16/best-deals-jan-16-447-panasonic-lumix-fz300-50-kindle-razer-discounts-more?utm_medium=rss)
- - [Today only: Amazon&#39;s Kindle is on sale for the all-time low price of $70     - CNET](https://www.cnet.com/tech/mobile/today-only-amazons-kindle-is-on-sale-for-the-all-time-low-price-of-70/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple once prototyped HomePod with battery power](https://appleinsider.com/articles/22/01/16/apple-once-prototyped-homepod-with-battery-power?utm_medium=rss)
+ - [Safari 15 bug can leak your recent browsing activity and personal identifiers](https://www.theverge.com/2022/1/16/22886809/safari-15-bug-leak-browsing-history-personal-information)
+ - [Sources: Apple will expand CarKey availability beyond BMW by this summer, starting with Hyundai&#39;s Genesis line; a look at potential Apple headset names &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220116/p8#a220116p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
