@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Cambodia&#39;s embrace of China&#39;s authoritarian internet surveillance model, as the country is set to launch a National Internet Gateway on February 16 &lpar;Charles McDermid/New York Times&rpar;](http://www.techmeme.com/220116/p5#a220116p5)
- - [How Apple&#39;s iCloud Private Relay Can Keep You Safe](https://www.wired.com/story/how-apple-icloud-private-relay-works)
- - [An Injection of Chaos Solves a Decades-Old Fluid Mystery](https://www.wired.com/story/an-injection-of-chaos-solves-a-decades-old-fluid-mystery)<!-- TECH:END -->
+ - [Who handles your death better? Google, Facebook, and Apple compared](https://www.androidauthority.com/data-after-death-google-facebook-apple-3088700/)
+ - [How to Prepare for Climate Change&#39;s Most Immediate Impacts](https://www.wired.com/story/how-to-prepare-climate-change-now)
+ - [Our 4 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
