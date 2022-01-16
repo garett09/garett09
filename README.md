@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who handles your death better? Google, Facebook, and Apple compared](https://www.androidauthority.com/data-after-death-google-facebook-apple-3088700/)
- - [How to Prepare for Climate Change&#39;s Most Immediate Impacts](https://www.wired.com/story/how-to-prepare-climate-change-now)
- - [Our 4 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)<!-- TECH:END -->
+ - [Wordle! and Wardle team up to donate proceeds from an unrelated app’s popularity spike](https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike)
+ - [Destructive Hacks Against Ukraine Echo Its Last Cyberwar](https://www.wired.com/story/russia-ukraine-destructive-cyberattacks-ransomware-data-wiper)
+ - [CarKey support may spread to Hyundai, Genesis by the summer](https://appleinsider.com/articles/22/01/16/carkey-support-may-spread-to-hyundai-genesis-by-the-summer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
