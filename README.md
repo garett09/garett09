@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK government hires M&amp;C Saatchi ad agency to run a publicity campaign criticizing Meta&#39;s plans to make Messenger e2e encrypted by default &lpar;James Ball/Rolling Stone&rpar;](http://www.techmeme.com/220116/p6#a220116p6)
- - [Apple AR headset could cost consumers over $2,000](https://appleinsider.com/articles/22/01/16/apple-ar-headset-could-cost-consumers-over-2000?utm_medium=rss)
- - [Wordle! and Wardle team up to donate proceeds from an unrelated app’s popularity spike](https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike)<!-- TECH:END -->
+ - [Crime blotter: Gangs suspected in Apple Store robberies in Spain and U.K.](https://appleinsider.com/articles/22/01/16/crime-blotter-gangs-suspected-in-apple-store-robberies-in-spain-and-uk?utm_medium=rss)
+ - [Samsung’s next tablet lineup could include a 14.6-inch ‘Ultra’ model with a notch](https://www.theverge.com/2022/1/16/22886595/samsung-tablet-lineup-ultra-notch-rumor)
+ - [Asus ROG Phone 6: What we want to see from the next-gen gaming phone](https://www.androidauthority.com/asus-rog-phone-6-3084975/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
