@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you consider investing in Xiaomi smart home tech?](https://www.androidauthority.com/xiaomi-mi-home-smart-home-3087137/)
- - [Best live TV streaming service for cord cutters     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [Apple&#39;s iMessage issue is much bigger than the color of the bubbles     - CNET](https://www.cnet.com/tech/mobile/apples-imessage-issue-is-much-bigger-than-the-color-of-the-bubbles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Echo Dot vs Nest Mini vs HomePod mini: Battle of the small smart speakers](https://www.androidauthority.com/echo-dot-vs-nest-mini-vs-homepod-mini-3069354/)
+ - [Home Cooks, You Should Be Pre-Salting Your Vegetables](https://www.wired.com/story/salt-your-vegetables)
+ - [When It Comes to Health Care, AI Has a Long Way to Go](https://www.wired.com/story/health-care-ai-long-way-to-go)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
