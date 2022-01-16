@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the SMART Health Card, a minimal verification system that uses QR codes to check COVID-19 vaccine status, available to ~200M people in the US &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220115/p12#a220115p12)
- - [Eternals ending explained as movie hits Disney Plus: Marvel links, sequel hints     - CNET](https://www.cnet.com/news/eternals-ending-explained-as-movie-hits-disney-plus-marvel-links-and-sequel-hints/#ftag=CAD590a51e)
- - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DexCare, whose software helps health systems manage capacity and patient appointment booking, raises a $50M Series B, after a $20M round in March 2021 &lpar;Charlotte Schubert/GeekWire&rpar;](http://www.techmeme.com/220115/p13#a220115p13)
+ - [Apple&#39;s 14-inch MacBook Pro with 1TB SSD is $164 off, in stock now](https://appleinsider.com/articles/22/01/16/apples-14-inch-macbook-pro-with-1tb-ssd-is-164-off-in-stock-now?utm_medium=rss)
+ - [A look at the SMART Health Card, a minimal verification system that uses QR codes to check COVID-19 vaccine status, available to ~200M people in the US &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220115/p12#a220115p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
