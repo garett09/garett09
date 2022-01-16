@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple once prototyped HomePod with battery power](https://appleinsider.com/articles/22/01/16/apple-once-prototyped-homepod-with-battery-power?utm_medium=rss)
- - [Safari 15 bug can leak your recent browsing activity and personal identifiers](https://www.theverge.com/2022/1/16/22886809/safari-15-bug-leak-browsing-history-personal-information)
- - [Sources: Apple will expand CarKey availability beyond BMW by this summer, starting with Hyundai&#39;s Genesis line; a look at potential Apple headset names &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220116/p8#a220116p8)<!-- TECH:END -->
+ - [A flaw in Safari 15&#39;s IndexedDB API can leak browser activity and user identifiers, like Google ID, to other sites; Apple was alerted of the flaw on November 28 &lpar;FingerprintJS Blog&rpar;](http://www.techmeme.com/220116/p10#a220116p10)
+ - [Safari 15 bug can leak your recent browsing activity and personal identifiers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220116/p9#a220116p9)
+ - [Eternals post-credits scenes explained, and how they hold the keys to the MCU&#39;s future     - CNET](https://www.cnet.com/news/eternals-post-credits-scenes-explained-how-they-hold-keys-to-mcu-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
