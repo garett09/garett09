@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Gangs suspected in Apple Store robberies in Spain and U.K.](https://appleinsider.com/articles/22/01/16/crime-blotter-gangs-suspected-in-apple-store-robberies-in-spain-and-uk?utm_medium=rss)
- - [Samsung’s next tablet lineup could include a 14.6-inch ‘Ultra’ model with a notch](https://www.theverge.com/2022/1/16/22886595/samsung-tablet-lineup-ultra-notch-rumor)
- - [Asus ROG Phone 6: What we want to see from the next-gen gaming phone](https://www.androidauthority.com/asus-rog-phone-6-3084975/)<!-- TECH:END -->
+ - [Best deals Jan. 16: $447 Panasonic Lumix FZ300, $50 Kindle, Razer discounts, more!](https://appleinsider.com/articles/22/01/16/best-deals-jan-16-447-panasonic-lumix-fz300-50-kindle-razer-discounts-more?utm_medium=rss)
+ - [Gurman: Apple&#39;s headset will likely cost $2,000+ and have two CPUs, one on par with the M1 Pro, two 8K displays, and an interchangeable prescription lens option &lpar;Jos&amp;eacute; Adorno/9to5Mac&rpar;](http://www.techmeme.com/220116/p7#a220116p7)
+ - [NFL Super Wild Card Weekend: How to watch Eagles vs. Buccaneers on Fox, 49ers vs. Cowboys on CBS and the rest of Sunday&#39;s action     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-super-wild-card-weekend-how-to-watch-eagles-vs-buccaneers-on-fox-49ers-vs-cowboys-on-cbs-and-the-rest-of-sundays-action/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
