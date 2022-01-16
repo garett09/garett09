@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should you consider investing in Xiaomi smart home tech?](https://www.androidauthority.com/xiaomi-mi-home-smart-home-3087137/)
  - [Yellowjackets finale recap: Hello, Antler Queen     - CNET](https://www.cnet.com/news/yellowjackets-finale-recap-hello-antler-queen/#ftag=CAD590a51e)
- - [A ransomware attack on Kronos workforce management software has disrupted the payroll of ~8M US employees; the health care sector has been hit especially hard &lpar;Becky Sullivan/NPR&rpar;](http://www.techmeme.com/220116/p4#a220116p4)
- - [Researchers detail SysJoker, a backdoor targeting Windows, macOS, and Linux from H2 2021 that remained undetected by virtually all malware scanning engines &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220116/p3#a220116p3)<!-- TECH:END -->
+ - [A ransomware attack on Kronos workforce management software has disrupted the payroll of ~8M US employees; the health care sector has been hit especially hard &lpar;Becky Sullivan/NPR&rpar;](http://www.techmeme.com/220116/p4#a220116p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
