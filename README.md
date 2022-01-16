@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft identifies a destructive malware operation targeting multiple Ukrainian orgs; the malware looks like ransomware but lacks a ransom recovery mechanism &lpar;Microsoft Security Blog&rpar;](http://www.techmeme.com/220116/p1#a220116p1)
- - [DexCare, whose software helps health systems manage capacity and patient appointment booking, raises a $50M Series B, after a $20M round in March 2021 &lpar;Charlotte Schubert/GeekWire&rpar;](http://www.techmeme.com/220115/p13#a220115p13)
- - [Apple&#39;s 14-inch MacBook Pro with 1TB SSD is $164 off, in stock now](https://appleinsider.com/articles/22/01/16/apples-14-inch-macbook-pro-with-1tb-ssd-is-164-off-in-stock-now?utm_medium=rss)<!-- TECH:END -->
+ - [Verana Health, which offers an AI-powered data analytics engine for medical research, raises a $150M Series E co-led by J&amp;J Innovation and Novo Growth &lpar;Andrea Park/FierceBiotech&rpar;](http://www.techmeme.com/220116/p2#a220116p2)
+ - [These Lay&#39;s chips are made from potatoes grown in soil from NFL stadiums     - CNET](https://www.cnet.com/news/these-lays-chips-are-made-from-potatoes-grown-in-soil-from-nfl-stadiums/#ftag=CAD590a51e)
+ - [Microsoft identifies a destructive malware operation targeting multiple Ukrainian orgs; the malware looks like ransomware but lacks a ransom recovery mechanism &lpar;Microsoft Security Blog&rpar;](http://www.techmeme.com/220116/p1#a220116p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
