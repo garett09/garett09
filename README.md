@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Class action suit targets Powerbeats Pro over reduced battery life](https://appleinsider.com/articles/22/01/15/class-action-suit-targets-powerbeats-pro-over-reduced-battery-life?utm_medium=rss)
- - [macOS, Windows, Linux all targeted by new cross-platform exploit](https://appleinsider.com/articles/22/01/15/multi-platform-backdoor-discovered-targeting-macos-windows-linux?utm_medium=rss)
- - [AT&amp;T spent $9.1B, Dish $7.3B, and T-Mobile $2.9B in FCC&#39;s 5G auction for the 3.45GHz to 3.55GHz band previously reserved for military use; Verizon was absent &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/220115/p11#a220115p11)<!-- TECH:END -->
+ - [Google might’ve accidentally approved an ad for a Target gift card scam](https://www.theverge.com/2022/1/15/22885562/google-search-target-gift-card-scam)
+ - [DirecTV to drop One America News, a far-right channel popular with Trump     - CNET](https://www.cnet.com/news/directv-to-drop-one-america-news-a-far-right-channel-popular-with-trump/#ftag=CAD590a51e)
+ - [Class action suit targets Powerbeats Pro over reduced battery life](https://appleinsider.com/articles/22/01/15/class-action-suit-targets-powerbeats-pro-over-reduced-battery-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
