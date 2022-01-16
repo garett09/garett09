@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle! and Wardle team up to donate proceeds from an unrelated app’s popularity spike](https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike)
- - [Destructive Hacks Against Ukraine Echo Its Last Cyberwar](https://www.wired.com/story/russia-ukraine-destructive-cyberattacks-ransomware-data-wiper)
- - [CarKey support may spread to Hyundai, Genesis by the summer](https://appleinsider.com/articles/22/01/16/carkey-support-may-spread-to-hyundai-genesis-by-the-summer?utm_medium=rss)<!-- TECH:END -->
+ - [UK government hires M&amp;C Saatchi ad agency to run a publicity campaign criticizing Meta&#39;s plans to make Messenger e2e encrypted by default &lpar;James Ball/Rolling Stone&rpar;](http://www.techmeme.com/220116/p6#a220116p6)
+ - [Apple AR headset could cost consumers over $2,000](https://appleinsider.com/articles/22/01/16/apple-ar-headset-could-cost-consumers-over-2000?utm_medium=rss)
+ - [Wordle! and Wardle team up to donate proceeds from an unrelated app’s popularity spike](https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
