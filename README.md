@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spider-Man: No Way Home post-credits scenes, explained     - CNET](https://www.cnet.com/news/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)
  - [Google might’ve accidentally approved an ad for a Target gift card scam](https://www.theverge.com/2022/1/15/22885562/google-search-target-gift-card-scam)
- - [DirecTV to drop One America News, a far-right channel popular with Trump     - CNET](https://www.cnet.com/news/directv-to-drop-one-america-news-a-far-right-channel-popular-with-trump/#ftag=CAD590a51e)
- - [Class action suit targets Powerbeats Pro over reduced battery life](https://appleinsider.com/articles/22/01/15/class-action-suit-targets-powerbeats-pro-over-reduced-battery-life?utm_medium=rss)<!-- TECH:END -->
+ - [Eternals post-credits scenes explained, and how they hold the keys to the MCU&#39;s future     - CNET](https://www.cnet.com/news/eternals-post-credits-scenes-explained-how-they-hold-keys-to-mcu-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
