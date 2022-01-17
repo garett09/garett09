@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan. 15: $250 off iRobot Roombas, $98 Adata 1TB NVMe, $60 Razer Kiyo, more!](https://appleinsider.com/articles/22/01/15/best-deals-jan-15-250-off-irobot-roombas-98-adata-1tb-nvme-60-razer-kiyo-more?utm_medium=rss)
- - [Daily Authority: 🌳 OnePlus going back to its roots?](https://www.androidauthority.com/da-january-17-2022-3092100/)
- - [Apple honors Dr. Martin Luther King, Jr. with homepage redesign](https://appleinsider.com/articles/22/01/17/apple-once-more-honors-dr-martin-luther-king-jr-with-homepage-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Ridley Scott says script for &#39;1984&#39; ad was &#39;devastatingly effective&#39;](https://appleinsider.com/articles/22/01/17/ridley-scott-says-script-for-1984-ad-was-devastatingly-effective?utm_medium=rss)
+ - [Best deals Jan. 17: $100 Soundcore ANC earbuds, $45 SteelSeries iOS controller, $29 Philips soundbar, more!](https://appleinsider.com/articles/22/01/17/best-deals-jan-17-100-soundcore-anc-earbuds-45-steelseries-ios-controller-29-philips-soundbar-more?utm_medium=rss)
+ - [Chinese startup Axera, which makes AI chips for computer vision in smart cities and smart homes, raises ~$126M from Meituan and others &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220117/p7#a220117p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
