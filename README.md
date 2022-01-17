@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Alexa Guard: Turn your Echo speakers into a security system](https://www.androidauthority.com/how-to-use-alexa-guard-3089255/)
- - [Jared Kushner floated the idea of a federal cryptocurrency, documents reveal](https://www.theverge.com/2022/1/17/22888225/jared-kushner-us-treasury-mnuchin-government-federal-cryptocurrency-trump-white-house)
- - [Deals: Save $100 to $150 on MacBook Air, 24-inch iMac models with M1](https://appleinsider.com/articles/22/01/17/deals-save-100-to-150-on-macbook-air-24-inch-imac-models-with-m1?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 17&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Google changed the Assistant’s white noise sound, and many aren’t happy about it](https://www.theverge.com/2022/1/17/22888423/google-assistant-white-noise-sound-changed)
+ - [You can download all the Samsung Galaxy S22 wallpapers right here &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-wallpapers-3069239/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
