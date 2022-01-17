@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ridley Scott says script for &#39;1984&#39; ad was &#39;devastatingly effective&#39;](https://appleinsider.com/articles/22/01/17/ridley-scott-says-script-for-1984-ad-was-devastatingly-effective?utm_medium=rss)
- - [Best deals Jan. 17: $100 Soundcore ANC earbuds, $45 SteelSeries iOS controller, $29 Philips soundbar, more!](https://appleinsider.com/articles/22/01/17/best-deals-jan-17-100-soundcore-anc-earbuds-45-steelseries-ios-controller-29-philips-soundbar-more?utm_medium=rss)
- - [Chinese startup Axera, which makes AI chips for computer vision in smart cities and smart homes, raises ~$126M from Meituan and others &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220117/p7#a220117p7)<!-- TECH:END -->
+ - [Global Ship Traffic Could Imperil the Antarctic&#39;s Biosecurity](https://www.wired.com/story/global-ship-traffic-could-imperil-antarctica-biosecurity)
+ - [Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?](https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test)
+ - [The Verge’s favorite tools to stay organized](https://www.theverge.com/22882328/organization-tools-todo-notes-journals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
