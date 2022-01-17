@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Doodle highlights the course of civil rights movement for MLK Day     - CNET](https://www.cnet.com/news/google-doodle-highlights-the-course-of-civil-rights-movement-for-mlk-day/#ftag=CAD590a51e)
- - [Yellowjackets Is the Internet&#39;s Favorite Anti-Internet Show](https://www.wired.com/story/yellowjackets-90s-nostalgia-internet)
- - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE’s first update now available in the US](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
+ - [French startup Exotec, which builds autonomous industrial warehouse robots, raises a $335M Series D led by Goldman Sachs Asset Management at a $2B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220117/p1#a220117p1)
+ - [Google Doodle highlights the course of civil rights movement for MLK Day     - CNET](https://www.cnet.com/news/google-doodle-highlights-the-course-of-civil-rights-movement-for-mlk-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
