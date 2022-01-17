@@ -190,8 +190,8 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tips and tricks I learned setting up my home Wi-Fi mesh network](https://www.androidauthority.com/home-wi-fi-tips-and-tricks-3089834/)
- - [How to unlink Spotify from PS4 or PS5](https://www.androidauthority.com/how-to-unlink-spotify-from-ps4-or-ps5-3088624/)
+ - [Game publishers&#39; plans to add NFTs to games have sparked a fierce backlash from gamers, who have long resented the growing number of micro transactions in games &lpar;New York Times&rpar;](http://www.techmeme.com/220117/p14#a220117p14)
+ - [OLED iPad panel production could start on Wednesday](https://appleinsider.com/articles/22/01/17/oled-ipad-panel-production-could-start-on-wednesday?utm_medium=rss)
  - [New Mac Pro in Q4 2022 expected to cap off Apple Silicon transition](https://appleinsider.com/articles/22/01/17/apple-silicon-transition-rumored-to-end-in-q4-2022-with-new-mac-pro-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
