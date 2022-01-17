@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you plan to cancel Netflix after North American price increase?](https://www.androidauthority.com/netflix-cancel-price-increase-poll-3091426/)
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 17&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [Leak: Motorola Frontier could have Snapdragon 8 Gen 1 Plus, 200MP camera](https://www.androidauthority.com/motorola-frontier-3089655/)<!-- TECH:END -->
+ - [Oppo’s next flagship leaks with OnePlus-esque Hasselblad branding](https://www.theverge.com/2022/1/17/22887588/oppo-find-x5-leak-specs-photos-renders)
+ - [A look at preserving video games for research, including the legal challenges mounted by game companies and the technical challenges of playing old games &lpar;Noah Smith/Washington Post&rpar;](http://www.techmeme.com/220117/p2#a220117p2)
+ - [Oppo Find X5 Pro apparently spotted in the wild with Hasselblad branding](https://www.androidauthority.com/oppo-find-x5-pro-real-world-images-3092007/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
