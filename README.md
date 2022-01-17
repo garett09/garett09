@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global Ship Traffic Could Imperil the Antarctic&#39;s Biosecurity](https://www.wired.com/story/global-ship-traffic-could-imperil-antarctica-biosecurity)
- - [Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?](https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test)
- - [The Verge’s favorite tools to stay organized](https://www.theverge.com/22882328/organization-tools-todo-notes-journals)<!-- TECH:END -->
+ - [Sources: Activision Blizzard has fired or pushed out over 36+ and disciplined ~40 others since July, after allegations of sexual harassment and other misconduct &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220117/p10#a220117p10)
+ - [Spain will regulate influencers promoting cryptocurrency](https://www.theverge.com/2022/1/17/22887752/spain-cnmv-crypto-asset-advertising-influencer-rules)
+ - [Apple may launch &#39;iPhone SE+ 5G&#39; in 2023, with 5.7-inch screen](https://appleinsider.com/articles/22/01/17/apple-may-launch-iphone-se-5g-in-2023-with-57-inch-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
