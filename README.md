@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE’s first update now available in the US](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
- - [French startup Exotec, which builds autonomous industrial warehouse robots, raises a $335M Series D led by Goldman Sachs Asset Management at a $2B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220117/p1#a220117p1)
- - [Google Doodle highlights the course of civil rights movement for MLK Day     - CNET](https://www.cnet.com/news/google-doodle-highlights-the-course-of-civil-rights-movement-for-mlk-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 17&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
+ - [Leak: Motorola Frontier could have Snapdragon 8 Gen 1 Plus, 200MP camera](https://www.androidauthority.com/motorola-frontier-3089655/)
+ - [Samsung Galaxy S21 FE’s first update now available in the US](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
