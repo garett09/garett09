@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Doodle highlights the course of civil rights movement for MLK Day     - CNET](https://www.cnet.com/news/google-doodle-highlights-the-course-of-civil-rights-movement-for-mlk-day/#ftag=CAD590a51e)
  - [Yellowjackets Is the Internet&#39;s Favorite Anti-Internet Show](https://www.wired.com/story/yellowjackets-90s-nostalgia-internet)
- - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-watch-this-week/#ftag=CAD590a51e)
- - [Analysis: malware targeting Linux operating systems, commonly deployed in IoT devices, rose 35% in 2021 YoY; three malware families made up 22%+ of the total &lpar;Mihai Maganu/CrowdStrike Blog&rpar;](http://www.techmeme.com/220116/p13#a220116p13)<!-- TECH:END -->
+ - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
