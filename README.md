@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple digital keys reportedly coming to some Hyundai cars this summer](https://www.theverge.com/2022/1/17/22887601/apple-digital-carkey-support-hyundai-and-genesis-cars-report)
- - [What is Nest Aware, and is it worth the cost?](https://www.androidauthority.com/nest-aware-3087778/)
- - [Samsung Galaxy S10 series gains January 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
+ - [An overview of China&#39;s robotaxi services offered by AutoX, Baidu, Deeproute.ai, Didi, Momenta, Pony.ai, and WeRide, and the progress they made in 2021 &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220117/p3#a220117p3)
+ - [OnePlus could be readying affordable phones with flagship chips](https://www.androidauthority.com/oneplus-affordable-gaming-phones-flagship-3092039/)
+ - [Microsoft lets you follow YouTube creators in Edge browser test](https://www.theverge.com/2022/1/17/22887626/microsoft-edge-youtube-intergration-following-feature-canary-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
