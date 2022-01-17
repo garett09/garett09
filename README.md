@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo’s next flagship leaks with OnePlus-esque Hasselblad branding](https://www.theverge.com/2022/1/17/22887588/oppo-find-x5-leak-specs-photos-renders)
- - [A look at preserving video games for research, including the legal challenges mounted by game companies and the technical challenges of playing old games &lpar;Noah Smith/Washington Post&rpar;](http://www.techmeme.com/220117/p2#a220117p2)
- - [Oppo Find X5 Pro apparently spotted in the wild with Hasselblad branding](https://www.androidauthority.com/oppo-find-x5-pro-real-world-images-3092007/)<!-- TECH:END -->
+ - [Apple digital keys reportedly coming to some Hyundai cars this summer](https://www.theverge.com/2022/1/17/22887601/apple-digital-carkey-support-hyundai-and-genesis-cars-report)
+ - [What is Nest Aware, and is it worth the cost?](https://www.androidauthority.com/nest-aware-3087778/)
+ - [Samsung Galaxy S10 series gains January 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
