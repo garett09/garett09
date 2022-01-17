@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of China&#39;s robotaxi services offered by AutoX, Baidu, Deeproute.ai, Didi, Momenta, Pony.ai, and WeRide, and the progress they made in 2021 &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220117/p3#a220117p3)
- - [OnePlus could be readying affordable phones with flagship chips](https://www.androidauthority.com/oneplus-affordable-gaming-phones-flagship-3092039/)
- - [Microsoft lets you follow YouTube creators in Edge browser test](https://www.theverge.com/2022/1/17/22887626/microsoft-edge-youtube-intergration-following-feature-canary-test)<!-- TECH:END -->
+ - [Best deals Jan. 15: $250 off iRobot Roombas, $98 Adata 1TB NVMe, $60 Razer Kiyo, more!](https://appleinsider.com/articles/22/01/15/best-deals-jan-15-250-off-irobot-roombas-98-adata-1tb-nvme-60-razer-kiyo-more?utm_medium=rss)
+ - [Daily Authority: 🌳 OnePlus going back to its roots?](https://www.androidauthority.com/da-january-17-2022-3092100/)
+ - [Apple honors Dr. Martin Luther King, Jr. with homepage redesign](https://appleinsider.com/articles/22/01/17/apple-once-more-honors-dr-martin-luther-king-jr-with-homepage-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
