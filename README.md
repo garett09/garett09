@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Activision Blizzard has fired or pushed out over 36+ and disciplined ~40 others since July, after allegations of sexual harassment and other misconduct &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220117/p10#a220117p10)
- - [Spain will regulate influencers promoting cryptocurrency](https://www.theverge.com/2022/1/17/22887752/spain-cnmv-crypto-asset-advertising-influencer-rules)
- - [Apple may launch &#39;iPhone SE+ 5G&#39; in 2023, with 5.7-inch screen](https://appleinsider.com/articles/22/01/17/apple-may-launch-iphone-se-5g-in-2023-with-57-inch-screen?utm_medium=rss)<!-- TECH:END -->
+ - [How to Restore Reverse Image Search with Right-Click in Chrome](https://www.androidauthority.com/restore-reverse-image-search-chrome-3092151/)
+ - [The best video converter apps for Mac](https://appleinsider.com/articles/22/01/17/the-best-video-converter-apps-for-mac?utm_medium=rss)
+ - [BitPay: Bitcoin use by BitPay merchants dropped to ~65% of crypto payments, down from 92% in 2020, as Ether purchases rose to 15% and stablecoins to 13% &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220117/p12#a220117p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
