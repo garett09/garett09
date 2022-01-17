@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Do you plan to cancel Netflix after North American price increase?](https://www.androidauthority.com/netflix-cancel-price-increase-poll-3091426/)
  - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 17&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [Leak: Motorola Frontier could have Snapdragon 8 Gen 1 Plus, 200MP camera](https://www.androidauthority.com/motorola-frontier-3089655/)
- - [Samsung Galaxy S21 FE’s first update now available in the US](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)<!-- TECH:END -->
+ - [Leak: Motorola Frontier could have Snapdragon 8 Gen 1 Plus, 200MP camera](https://www.androidauthority.com/motorola-frontier-3089655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
