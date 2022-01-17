@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game publishers&#39; plans to add NFTs to games have sparked a fierce backlash from gamers, who have long resented the growing number of micro transactions in games &lpar;New York Times&rpar;](http://www.techmeme.com/220117/p14#a220117p14)
- - [OLED iPad panel production could start on Wednesday](https://appleinsider.com/articles/22/01/17/oled-ipad-panel-production-could-start-on-wednesday?utm_medium=rss)
- - [New Mac Pro in Q4 2022 expected to cap off Apple Silicon transition](https://appleinsider.com/articles/22/01/17/apple-silicon-transition-rumored-to-end-in-q4-2022-with-new-mac-pro-release?utm_medium=rss)<!-- TECH:END -->
+ - [Do you get Hulu with Spotify?](https://www.androidauthority.com/hulu-spotify-3089561/)
+ - [Dutch regulator will examine Apple&#39;s App Store dating app payment proposal](https://appleinsider.com/articles/22/01/17/dutch-regulator-will-examine-apples-app-store-dating-app-payment-proposal?utm_medium=rss)
+ - [How much is Spotify Premium?](https://www.androidauthority.com/how-much-is-spotify-premium-3088090/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
