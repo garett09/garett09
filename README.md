@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What exactly is the Jodorowsky’s Dune crypto collective trying to make, anyway?](https://www.theverge.com/2022/1/17/22887948/jodorowsky-dune-bible-spice-dao-derivative-script)
- - [Everything we know about the &#39;Apple Watch Series 8&#39; and what it may look like](https://appleinsider.com/articles/22/01/17/everything-we-know-about-the-apple-watch-series-8-and-what-it-may-look-like?utm_medium=rss)
- - [Best noise-canceling headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Alexa Guard: Turn your Echo speakers into a security system](https://www.androidauthority.com/how-to-use-alexa-guard-3089255/)
+ - [Jared Kushner floated the idea of a federal cryptocurrency, documents reveal](https://www.theverge.com/2022/1/17/22888225/jared-kushner-us-treasury-mnuchin-government-federal-cryptocurrency-trump-white-house)
+ - [Deals: Save $100 to $150 on MacBook Air, 24-inch iMac models with M1](https://appleinsider.com/articles/22/01/17/deals-save-100-to-150-on-macbook-air-24-inch-imac-models-with-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
