@@ -190,9 +190,9 @@ Windows                  2 hrs 5 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-binge-watch-tonight/#ftag=CAD590a51e)
- - [Recent filings from Walmart, including seven US trademark applications, indicate a possible plan to develop and offer virtual goods, NFTs, and a cryptocurrency &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/220116/p12#a220116p12)
- - [Google celebrates Betty White&#39;s birthday with search Easter egg     - CNET](https://www.cnet.com/news/google-celebrates-betty-whites-birthday-with-search-easter-egg/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: malware targeting Linux operating systems, commonly deployed in IoT devices, rose 35% in 2021 YoY; three malware families made up 22%+ of the total &lpar;Mihai Maganu/CrowdStrike Blog&rpar;](http://www.techmeme.com/220116/p13#a220116p13)
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-see/#ftag=CAD590a51e)
+ - [Prime Video: The 30 best movies to watch     - CNET](https://www.cnet.com/news/prime-video-the-30-best-movies-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
