@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Netflix succeeded in South Korea, including by developing ideas considered too risky for broadcasters and licensing local content overseas &lpar;Bloomberg&rpar;](http://www.techmeme.com/220117/p19#a220117p19)
  - [Autonomous driving startup Wayve, which relies on machine learning to teach a car how to drive instead of hardware like lidar sensors, raises a $200M Series B &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220117/p18#a220117p18)
- - [Paris-based Spendesk, which offers spend management software to SMBs, raises $114M at a $1.5B valuation, after raising the same amount in July 2021 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/220117/p17#a220117p17)
- - [Save $220 on the Gardena Sileno, and more of the best lawn mower deals](https://www.androidauthority.com/best-lawn-mower-deals-1124848/)<!-- TECH:END -->
+ - [Yellowjackets finale ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-finale-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
