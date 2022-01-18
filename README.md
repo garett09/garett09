@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ericsson sues Apple for 5G patent infringement](https://appleinsider.com/articles/22/01/18/ericsson-sues-apple-for-5g-patent-infringement?utm_medium=rss)
- - [Fortnite’s next update adds adorable monsters and brings back Tilted Towers](https://www.theverge.com/2022/1/18/22888226/fortnite-update-tilted-towers-monsters-kaws)
- - [African startup Finclusion Group, which uses AI to provide credit-based financial services, raises a $20M pre-Series A in debt and equity &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220118/p7#a220118p7)<!-- TECH:END -->
+ - [A Project to Count Climate Crisis Deaths Has Surprising Results](https://www.wired.com/story/uk-climate-change-deaths)
+ - [Foxconn again offering cash bonuses to incentivize workers to return](https://appleinsider.com/articles/22/01/18/foxconn-again-offering-cash-bonuses-to-incentivize-workers-to-return?utm_medium=rss)
+ - [Spotify Blend: How to use it to blend your music with friends](https://www.androidauthority.com/how-to-spotify-blend-3090425/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
