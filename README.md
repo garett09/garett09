@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases firmware update for just AirPods 3](https://appleinsider.com/articles/22/01/18/apple-releases-firmware-update-for-just-airpods-3?utm_medium=rss)
- - [Democrats unveil bill to ban online ‘surveillance advertising’](https://www.theverge.com/2022/1/18/22889903/democrats-targeted-advertising-facebook-google-surveillance)
- - [YouTube will stop making most original shows](https://www.theverge.com/2022/1/18/22889889/youtube-originals-series-ending-susanne-daniels)<!-- TECH:END -->
+ - [The US Inches Toward Building EV Batteries at Home](https://www.wired.com/story/the-us-inches-toward-building-ev-batteries-at-home)
+ - [Following several game studio acquisitions, Microsoft&#39;s Activision Blizzard deal faces a big regulatory hurdle with Lina Khan&#39;s antitrust-focused FTC &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/220118/p31#a220118p31)
+ - [White House warns ‘small percentage’ of people can’t order its rapid COVID-19 tests](https://www.theverge.com/2022/1/18/22890031/white-house-rapid-covid-tests-apartment-bug-usps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
