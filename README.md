@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Activision acquisition would instantly make it a force in mobile gaming](https://www.theverge.com/2022/1/18/22889457/microsoft-activision-blizzard-acquisition-mobile-gaming-candy-crush)
- - [The FTC and DOJ are seeking public comment on rewriting merger guidelines, signaling a potentially tougher stance toward Big Tech deals &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220118/p28#a220118p28)
- - [YouTube says it&#39;s winding down YouTube Originals after six years and will only fund programs that are part of its Black Voices and YouTube Kids Funds &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220118/p27#a220118p27)<!-- TECH:END -->
+ - [Apple releases firmware update for just AirPods 3](https://appleinsider.com/articles/22/01/18/apple-releases-firmware-update-for-just-airpods-3?utm_medium=rss)
+ - [Democrats unveil bill to ban online ‘surveillance advertising’](https://www.theverge.com/2022/1/18/22889903/democrats-targeted-advertising-facebook-google-surveillance)
+ - [YouTube will stop making most original shows](https://www.theverge.com/2022/1/18/22889889/youtube-originals-series-ending-susanne-daniels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
