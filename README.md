@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Project to Count Climate Crisis Deaths Has Surprising Results](https://www.wired.com/story/uk-climate-change-deaths)
- - [Foxconn again offering cash bonuses to incentivize workers to return](https://appleinsider.com/articles/22/01/18/foxconn-again-offering-cash-bonuses-to-incentivize-workers-to-return?utm_medium=rss)
- - [Spotify Blend: How to use it to blend your music with friends](https://www.androidauthority.com/how-to-spotify-blend-3090425/)<!-- TECH:END -->
+ - [Pinwheel, which offers APIs to fintechs for payroll, income, and other data, raises a $50M Series B at a $500M valuation, following a $20M Series A in June 2021 &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220118/p15#a220118p15)
+ - [Animoca Brands, an NFT and metaverse service, raises $359M led by Liberty City at a $5B valuation, up from $2.2B in October 2021 &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220118/p14#a220118p14)
+ - [Shopify partners with JD.com to help US merchants sell goods in China; merchants can set up shops in 3-4 weeks, well below the current 12-month process &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220118/p13#a220118p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
