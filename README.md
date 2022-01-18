@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Meta has filed dozens of patents to monetize its metaverse, including a virtual store with sponsored items, eye and face tracking in headsets, more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220118/p5#a220118p5)
- - [Can you change your Spotify username?](https://www.androidauthority.com/change-spotify-username-3090401/)
- - [Logitech’s Pen is a durable stylus made for Chromebooks in the classroom](https://www.theverge.com/2022/1/18/22879874/logitech-pen-usi-made-for-chromebook-stylus-education)<!-- TECH:END -->
+ - [OnePlus product timeline tipped: Here’s when to expect OnePlus 10 Pro, more](https://www.androidauthority.com/oneplus-launch-timeline-2022-3092683/)
+ - [What to expect from Vikings: Valhalla on Netflix](https://www.androidauthority.com/vikings-valhalla-netflix-series-3090351/)
+ - [Analysis: Meta has filed dozens of patents to monetize its metaverse, including a virtual store with sponsored items, eye and face tracking in headsets, more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220118/p5#a220118p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
