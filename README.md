@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Netflix succeeded in South Korea, including by developing ideas considered too risky for broadcasters and licensing local content overseas &lpar;Bloomberg&rpar;](http://www.techmeme.com/220117/p19#a220117p19)
- - [Autonomous driving startup Wayve, which relies on machine learning to teach a car how to drive instead of hardware like lidar sensors, raises a $200M Series B &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220117/p18#a220117p18)
- - [Yellowjackets finale ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-finale-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tech Oversight Project, mainly funded by Pierre Omidyar and Chris Hughes&#39;s organizations, launches Tuesday to push for Big Tech antitrust regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220117/p21#a220117p21)
+ - [Samsung announces first smartphone chip with AMD ray tracing GPU](https://www.theverge.com/2022/1/17/22888966/samsung-exynos-2200-soc-chip-announced-amd-gpu-rdna-2)
+ - [Samsung unveils 4nm Exynos 2200, its new SoC with Xclipse GPU based on AMD&#39;s RDNA 2 architecture, offering features such as hardware-accelerated ray tracing &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/220117/p20#a220117p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
