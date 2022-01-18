@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ garners multiple visual effects award nominations for &#39;Finch,&#39; &#39;Foundation,&#39; and more](https://appleinsider.com/articles/22/01/18/apple-tv-garners-multiple-visual-effects-award-nominations-for-finch-foundation-and-more?utm_medium=rss)
- - [The Metaplex Foundation, developer of an NFT protocol behind 5.7M+ minted Solana NFTs, raises $46M with Michael Jordan and Allen Iverson among 90+ investors &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220118/p34#a220118p34)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 18&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
+ - [10 best credit score apps for Android to check your credit now](https://www.androidauthority.com/best-credit-score-apps-android-3087020/)
+ - [Banyan Security, which offers a zero trust remote access client and saw a 300% increase in users in 2021, raises a $30M Series B led by Third Point Ventures &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220118/p36#a220118p36)
+ - [Emirates, Air India, and others cancel flights due to AT&amp;T and Verizon’s 5G rollout](https://www.theverge.com/2022/1/18/22890080/5g-flight-cancel-att-verizon-c-band-emirates-air-india-ana-japan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
