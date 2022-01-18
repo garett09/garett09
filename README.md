@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $220 on the Gardena Sileno, and more of the best lawn mower deals](https://www.androidauthority.com/best-lawn-mower-deals-1124848/)
- - [India-based agritech startup Arya, which helps farmers in South Asia store and sell their produce and secure credit, raises a $46M Series C and $14M as debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220117/p16#a220117p16)
- - [Deals: Save $100 to $200 on MacBook Air, 24-inch iMac models with M1](https://appleinsider.com/articles/22/01/17/deals-save-100-to-150-on-macbook-air-24-inch-imac-models-with-m1?utm_medium=rss)<!-- TECH:END -->
+ - [Autonomous driving startup Wayve, which relies on machine learning to teach a car how to drive instead of hardware like lidar sensors, raises a $200M Series B &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220117/p18#a220117p18)
+ - [Paris-based Spendesk, which offers spend management software to SMBs, raises $114M at a $1.5B valuation, after raising the same amount in July 2021 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/220117/p17#a220117p17)
+ - [Save $220 on the Gardena Sileno, and more of the best lawn mower deals](https://www.androidauthority.com/best-lawn-mower-deals-1124848/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
