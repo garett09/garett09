@@ -167,11 +167,11 @@ No Activity Tracked This Week
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
-2. 💪 Opened PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
-3. 🎉 Merged PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
-4. 💪 Opened PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
-5. 💪 Opened PR [#1](https://github.com/nikkapiel/practicelab2/pull/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
+1. 🎉 Merged PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
+2. 💪 Opened PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
+3. 🎉 Merged PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
+4. 💪 Opened PR [#3](https://github.com/9810-S/manifest/pull/3) in [9810-S/manifest](https://github.com/9810-S/manifest)
+5. 🎉 Merged PR [#2](https://github.com/9810-S/manifest/pull/2) in [9810-S/manifest](https://github.com/9810-S/manifest)
 <!--END_SECTION:activity-->
 
 ---
