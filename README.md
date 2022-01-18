@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft acquiring Activision Blizzard in $68.7B gaming deal](https://appleinsider.com/articles/22/01/18/microsoft-acquiring-activision-blizzard-in-687b-gaming-deal?utm_medium=rss)
- - [Microsoft’s Xbox Game Pass service grows to 25 million subscribers](https://www.theverge.com/2022/1/18/22406059/xbox-game-pass-subscribers-25-million-microsoft-activision)
- - [Mirrorscape Wants to Conjure Your Favorite Tabletop Game in AR](https://www.wired.com/story/mirrorscape-tabletop-games-augmented-reality)<!-- TECH:END -->
+ - [New iPhone SE and iPad Air surface in regulatory database](https://appleinsider.com/articles/22/01/18/new-iphone-se-and-ipad-air-surface-in-regulatory-database?utm_medium=rss)
+ - [Apple accounted for 22% of global smartphone shipments in Q4 2021, down from 23% in 2020, followed by Samsung &lpar;20%&rpar;, Xiaomi &lpar;12%&rpar;, Oppo &lpar;9%&rpar;, and Vivo &lpar;8%&rpar; &lpar;Canalys&rpar;](http://www.techmeme.com/220118/p21#a220118p21)
+ - [A new use for AI: summarizing scientific research for seven-year-olds](https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
