@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus product timeline tipped: Here’s when to expect OnePlus 10 Pro, more](https://www.androidauthority.com/oneplus-launch-timeline-2022-3092683/)
- - [What to expect from Vikings: Valhalla on Netflix](https://www.androidauthority.com/vikings-valhalla-netflix-series-3090351/)
- - [Analysis: Meta has filed dozens of patents to monetize its metaverse, including a virtual store with sponsored items, eye and face tracking in headsets, more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220118/p5#a220118p5)<!-- TECH:END -->
+ - [Ericsson sues Apple for 5G patent infringement](https://appleinsider.com/articles/22/01/18/ericsson-sues-apple-for-5g-patent-infringement?utm_medium=rss)
+ - [Fortnite’s next update adds adorable monsters and brings back Tilted Towers](https://www.theverge.com/2022/1/18/22888226/fortnite-update-tilted-towers-monsters-kaws)
+ - [African startup Finclusion Group, which uses AI to provide credit-based financial services, raises a $20M pre-Series A in debt and equity &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220118/p7#a220118p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
