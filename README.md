@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone SE and iPad Air surface in regulatory database](https://appleinsider.com/articles/22/01/18/new-iphone-se-and-ipad-air-surface-in-regulatory-database?utm_medium=rss)
- - [Apple accounted for 22% of global smartphone shipments in Q4 2021, down from 23% in 2020, followed by Samsung &lpar;20%&rpar;, Xiaomi &lpar;12%&rpar;, Oppo &lpar;9%&rpar;, and Vivo &lpar;8%&rpar; &lpar;Canalys&rpar;](http://www.techmeme.com/220118/p21#a220118p21)
- - [A new use for AI: summarizing scientific research for seven-year-olds](https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers)<!-- TECH:END -->
+ - [Source: Israeli police used NSO&#39;s Pegasus to monitor citizens, mayors, political protesters, and former government employees without warrants or court oversight &lpar;Tomer Ganon/CTech&rpar;](http://www.techmeme.com/220118/p23#a220118p23)
+ - [Belkin now has its own official MagSafe charging puck, for $20 more than Apple&#39;s](https://appleinsider.com/articles/22/01/18/belkin-now-has-its-own-official-magsafe-charging-puck-for-20-more-than-apples?utm_medium=rss)
+ - [Appcues, which offers analytics and no-code tools to fix user onboarding, raises a $32.1M Series B led by NewSpring, says it has ~1,500 customers including Lyft &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220118/p22#a220118p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
