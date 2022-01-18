@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 17&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Google changed the Assistant’s white noise sound, and many aren’t happy about it](https://www.theverge.com/2022/1/17/22888423/google-assistant-white-noise-sound-changed)
- - [You can download all the Samsung Galaxy S22 wallpapers right here &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-wallpapers-3069239/)<!-- TECH:END -->
+ - [Save $220 on the Gardena Sileno, and more of the best lawn mower deals](https://www.androidauthority.com/best-lawn-mower-deals-1124848/)
+ - [India-based agritech startup Arya, which helps farmers in South Asia store and sell their produce and secure credit, raises a $46M Series C and $14M as debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220117/p16#a220117p16)
+ - [Deals: Save $100 to $200 on MacBook Air, 24-inch iMac models with M1](https://appleinsider.com/articles/22/01/17/deals-save-100-to-150-on-macbook-air-24-inch-imac-models-with-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
