@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Inches Toward Building EV Batteries at Home](https://www.wired.com/story/the-us-inches-toward-building-ev-batteries-at-home)
- - [Following several game studio acquisitions, Microsoft&#39;s Activision Blizzard deal faces a big regulatory hurdle with Lina Khan&#39;s antitrust-focused FTC &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/220118/p31#a220118p31)
- - [White House warns ‘small percentage’ of people can’t order its rapid COVID-19 tests](https://www.theverge.com/2022/1/18/22890031/white-house-rapid-covid-tests-apartment-bug-usps)<!-- TECH:END -->
+ - [Apple TV+ garners multiple visual effects award nominations for &#39;Finch,&#39; &#39;Foundation,&#39; and more](https://appleinsider.com/articles/22/01/18/apple-tv-garners-multiple-visual-effects-award-nominations-for-finch-foundation-and-more?utm_medium=rss)
+ - [The Metaplex Foundation, developer of an NFT protocol behind 5.7M+ minted Solana NFTs, raises $46M with Michael Jordan and Allen Iverson among 90+ investors &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220118/p34#a220118p34)
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 18&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
