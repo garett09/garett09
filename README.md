@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 18&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [Despite &quot;cringe content&quot;, LinkedIn&#39;s ad-free business model and a willingness to stunt virality for healthier engagement make it the only good social network &lpar;Trung Phan/SatPost&rpar;](http://www.techmeme.com/220118/p3#a220118p3)
- - [Oppo Find X5 Pro camera specs leak: Bye-bye micro-lens?](https://www.androidauthority.com/oppo-find-x5-pro-cameras-3092617/)<!-- TECH:END -->
+ - [Logitech’s Pen is a durable stylus made for Chromebooks in the classroom](https://www.theverge.com/2022/1/18/22879874/logitech-pen-usi-made-for-chromebook-stylus-education)
+ - [Just Eat outsources 6,000 of its riders and drivers working across six UK cities to Dutch staffing agency Randstad, to comply with stricter UK employment rules &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220118/p4#a220118p4)
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 18&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
