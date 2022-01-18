@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bahrain-based cryptocurrency exchange Rain Financial raises a $110M Series B co-led by Paradigm and Kleiner Perkins &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220118/p2#a220118p2)
- - [Samsung Exynos 2200 launched: What to know about this AMD-powered chipset](https://www.androidauthority.com/exynos-2200-3090928/)
- - [Despite high hopes, AI in health care hasn&#39;t been effective because medical data is more complex and scarce than web data, resulting in misleading results &lpar;Tom Simonite/Wired&rpar;](http://www.techmeme.com/220118/p1#a220118p1)<!-- TECH:END -->
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 18&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
+ - [Despite &quot;cringe content&quot;, LinkedIn&#39;s ad-free business model and a willingness to stunt virality for healthier engagement make it the only good social network &lpar;Trung Phan/SatPost&rpar;](http://www.techmeme.com/220118/p3#a220118p3)
+ - [Oppo Find X5 Pro camera specs leak: Bye-bye micro-lens?](https://www.androidauthority.com/oppo-find-x5-pro-cameras-3092617/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
