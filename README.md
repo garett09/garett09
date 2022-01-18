@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinwheel, which offers APIs to fintechs for payroll, income, and other data, raises a $50M Series B at a $500M valuation, following a $20M Series A in June 2021 &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220118/p15#a220118p15)
- - [Animoca Brands, an NFT and metaverse service, raises $359M led by Liberty City at a $5B valuation, up from $2.2B in October 2021 &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220118/p14#a220118p14)
- - [Shopify partners with JD.com to help US merchants sell goods in China; merchants can set up shops in 3-4 weeks, well below the current 12-month process &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220118/p13#a220118p13)<!-- TECH:END -->
+ - [Microsoft acquiring Activision Blizzard in $68.7B gaming deal](https://appleinsider.com/articles/22/01/18/microsoft-acquiring-activision-blizzard-in-687b-gaming-deal?utm_medium=rss)
+ - [Microsoft’s Xbox Game Pass service grows to 25 million subscribers](https://www.theverge.com/2022/1/18/22406059/xbox-game-pass-subscribers-25-million-microsoft-activision)
+ - [Mirrorscape Wants to Conjure Your Favorite Tabletop Game in AR](https://www.wired.com/story/mirrorscape-tabletop-games-augmented-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
