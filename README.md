@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might’ve accidentally approved an ad for a Target gift card scam](https://www.theverge.com/2022/1/15/22885562/google-search-target-gift-card-scam)
- - [Clockwise, which offers enterprise time tracking and scheduling tools, raises $45M Series C led by Coatue and says teams at 10K orgs are paying subscribers &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220118/p25#a220118p25)
- - [Apple&#39;s popular 16-inch MacBook Pro &lpar;32GB RAM, 512GB&rpar; is back in stock, $150 off](https://appleinsider.com/articles/22/01/18/apples-popular-16-inch-macbook-pro-32gb-ram-512gb-is-back-in-stock-150-off?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s Activision acquisition would instantly make it a force in mobile gaming](https://www.theverge.com/2022/1/18/22889457/microsoft-activision-blizzard-acquisition-mobile-gaming-candy-crush)
+ - [The FTC and DOJ are seeking public comment on rewriting merger guidelines, signaling a potentially tougher stance toward Big Tech deals &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220118/p28#a220118p28)
+ - [YouTube says it&#39;s winding down YouTube Originals after six years and will only fund programs that are part of its Black Voices and YouTube Kids Funds &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220118/p27#a220118p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
