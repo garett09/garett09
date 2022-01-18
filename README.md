@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Israeli police used NSO&#39;s Pegasus to monitor citizens, mayors, political protesters, and former government employees without warrants or court oversight &lpar;Tomer Ganon/CTech&rpar;](http://www.techmeme.com/220118/p23#a220118p23)
- - [Belkin now has its own official MagSafe charging puck, for $20 more than Apple&#39;s](https://appleinsider.com/articles/22/01/18/belkin-now-has-its-own-official-magsafe-charging-puck-for-20-more-than-apples?utm_medium=rss)
- - [Appcues, which offers analytics and no-code tools to fix user onboarding, raises a $32.1M Series B led by NewSpring, says it has ~1,500 customers including Lyft &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220118/p22#a220118p22)<!-- TECH:END -->
+ - [COVIDTests.gov is live now, letting you order four free rapid tests](https://www.theverge.com/2022/1/18/22889571/free-covid-19-tests-usps-website)
+ - [How to fine-tune notifications on your Apple Watch](https://appleinsider.com/articles/22/01/18/how-to-fine-tune-notifications-on-your-apple-watch?utm_medium=rss)
+ - [White House says COVIDTests website will distribute free rapid tests starting January 19th](https://www.theverge.com/2022/1/14/22884217/free-covid-19-test-biden-500-million-january-19-usps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
