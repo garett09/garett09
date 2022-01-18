@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s Pen is a durable stylus made for Chromebooks in the classroom](https://www.theverge.com/2022/1/18/22879874/logitech-pen-usi-made-for-chromebook-stylus-education)
- - [Just Eat outsources 6,000 of its riders and drivers working across six UK cities to Dutch staffing agency Randstad, to comply with stricter UK employment rules &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220118/p4#a220118p4)
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 18&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)<!-- TECH:END -->
+ - [Analysis: Meta has filed dozens of patents to monetize its metaverse, including a virtual store with sponsored items, eye and face tracking in headsets, more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220118/p5#a220118p5)
+ - [Can you change your Spotify username?](https://www.androidauthority.com/change-spotify-username-3090401/)
+ - [Logitech’s Pen is a durable stylus made for Chromebooks in the classroom](https://www.theverge.com/2022/1/18/22879874/logitech-pen-usi-made-for-chromebook-stylus-education)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
