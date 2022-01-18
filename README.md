@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean startup flex, which makes tools for automating HR processes and workflows, raises a $32M Series B led by Greenoaks at a $287M valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220117/p22#a220117p22)
- - [Tech Oversight Project, mainly funded by Pierre Omidyar and Chris Hughes&#39;s organizations, launches Tuesday to push for Big Tech antitrust regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220117/p21#a220117p21)
- - [Samsung announces first smartphone chip with AMD ray tracing GPU](https://www.theverge.com/2022/1/17/22888966/samsung-exynos-2200-soc-chip-announced-amd-gpu-rdna-2)<!-- TECH:END -->
+ - [Bahrain-based cryptocurrency exchange Rain Financial raises a $110M Series B co-led by Paradigm and Kleiner Perkins &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220118/p2#a220118p2)
+ - [Samsung Exynos 2200 launched: What to know about this AMD-powered chipset](https://www.androidauthority.com/exynos-2200-3090928/)
+ - [Despite high hopes, AI in health care hasn&#39;t been effective because medical data is more complex and scarce than web data, resulting in misleading results &lpar;Tom Simonite/Wired&rpar;](http://www.techmeme.com/220118/p1#a220118p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
