@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banjo-Kazooie returns to Nintendo hardware this week](https://www.theverge.com/2022/1/19/22890905/banjo-kazooie-nintendo-switch-online-release-date)
- - [Survey finds that 76% of Chinese citizens and 68% of Indians say they trust AI companies compared to only 35% in France, the UK, and the US &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220119/p4#a220119p4)
- - [Realme 9 Pro, Pro Plus are both coming to India soon](https://www.androidauthority.com/realme-9-pro-pro-plus-india-3093335/)<!-- TECH:END -->
+ - [Kenya-based Copia Global, which uses proprietary logistics for a mobile-first e-commerce service aimed at unbanked customers in Africa, raises a $50M Series C &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220119/p7#a220119p7)
+ - [BukuKas, an e-commerce enabler for SMBs that also makes a bookkeeping app, raises a $80M Series C led by Tiger Global and Sequoia India, rebrands as Lummo &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220119/p6#a220119p6)
+ - [Pyxis One, which offers no-code AI models to companies for targeted marketing, raises a $100M Series C led by SoftBank Vision Fund 2 and renames itself to Pixis &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220119/p5#a220119p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
