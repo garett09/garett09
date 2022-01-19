@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wemo Stage with Thread review: Finally a reliable HomeKit button](https://appleinsider.com/articles/22/01/19/wemo-stage-with-thread-review-finally-a-reliable-homekit-button?utm_medium=rss)
- - [Halo Infinite gets a hotfix to address Big Team Battle problems, but it hasn’t helped](https://www.theverge.com/2022/1/19/22891256/halo-infinite-multiplayer-big-team-battle-patch-update-problems)
- - [Half of internet-connected devices in hospitals are vulnerable to hacks, report finds](https://www.theverge.com/2022/1/19/22891440/internet-connected-medical-devices-vulnerable)<!-- TECH:END -->
+ - [Google says organizations using G Suite legacy free edition will need to upgrade to a paid subscription for Google Workspace, starting July 1 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220119/p34#a220119p34)
+ - [Microsoft’s Activision Blizzard Deal and the Post-Console World](https://www.wired.com/story/microsoft-activision-blizzard-post-console-world)
+ - [The 15 tastiest subscriptions to gift for Valentine&#39;s Day this year     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-subscriptions-for-valentines-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
