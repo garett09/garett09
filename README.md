@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reliance buys majority stake in Indian robotics startup Addverb, which uses robots to make e-commerce warehouses and energy production more efficient, for $132M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220118/p40#a220118p40)
  - [Proton.ai, which offers AI-powered tools for wholesale distributors to help sales reps and customers manage products across channels, raises a $20M Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220118/p39#a220118p39)
- - [Internal memo: Better.com CEO Vishal Garg resumes full-time duties over a month after taking time off following his controversial firing of ~900 staff on Zoom &lpar;Noah Kirsch/The Daily Beast&rpar;](http://www.techmeme.com/220118/p38#a220118p38)
- - [Looks like FedEx won’t be adding lasers to its airplanes](https://www.theverge.com/2022/1/18/22890463/fedex-laser-missile-defense-infrared-airplane-faa)<!-- TECH:END -->
+ - [Better.com founder reportedly returns to CEO duties after mass Zoom layoff     - CNET](https://www.cnet.com/tech/services-and-software/better-com-founder-reportedly-returns-to-ceo-duties-after-mass-zoom-layoff/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
