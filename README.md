@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reliance buys majority stake in Indian robotics startup Addverb, which uses robots to make e-commerce warehouses and energy production more efficient, for $132M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220118/p40#a220118p40)
- - [Proton.ai, which offers AI-powered tools for wholesale distributors to help sales reps and customers manage products across channels, raises a $20M Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220118/p39#a220118p39)
- - [Better.com founder reportedly returns to CEO duties after mass Zoom layoff     - CNET](https://www.cnet.com/tech/services-and-software/better-com-founder-reportedly-returns-to-ceo-duties-after-mass-zoom-layoff/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia&#39;s Moladin, which pivoted to a used-vehicle marketplace in mid-2021, raises a $42M Series A co-led by Northstar Group and Sequoia Capital India &lpar;Aastha Maheshwari/DealStreetAsia&rpar;](http://www.techmeme.com/220118/p43#a220118p43)
+ - [Sources: Activision Blizzard tried to find other interested buyers, including Meta, as it weighed a potential Microsoft takeover after WSJ&#39;s expos&amp;eacute; in November &lpar;Bloomberg&rpar;](http://www.techmeme.com/220118/p42#a220118p42)
+ - [Financial data and analytics firm Canalyst raises a $70M Series C led by Dragoneer Investment Group, bringing its total funding to over $100M &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/220118/p41#a220118p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
