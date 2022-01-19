@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Save $100 to $200 on MacBook Air, 24-inch iMac models with M1](https://appleinsider.com/articles/22/01/17/deals-save-100-to-150-on-macbook-air-24-inch-imac-models-with-m1?utm_medium=rss)
- - [Ericsson sues Apple over 5G and other patents, following the expiration of the cross-license agreement between the two companies and no renewal deal &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/220119/p3#a220119p3)
- - [Apple and Google warn of harmful consequences to user privacy and security from two proposed Senate antitrust bills scheduled to be considered this week &lpar;CNBC&rpar;](http://www.techmeme.com/220119/p2#a220119p2)<!-- TECH:END -->
+ - [Banjo-Kazooie returns to Nintendo hardware this week](https://www.theverge.com/2022/1/19/22890905/banjo-kazooie-nintendo-switch-online-release-date)
+ - [Survey finds that 76% of Chinese citizens and 68% of Indians say they trust AI companies compared to only 35% in France, the UK, and the US &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220119/p4#a220119p4)
+ - [Realme 9 Pro, Pro Plus are both coming to India soon](https://www.androidauthority.com/realme-9-pro-pro-plus-india-3093335/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
