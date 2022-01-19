@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lattice, which builds workforce people management tools including for performance reviews and tracking career goals, raises a $175M Series F at a $3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220119/p13#a220119p13)
- - [Daily Authority: 💰 Microsoft owns Candy Crush now](https://www.androidauthority.com/da-january-19-2022-3093504/)
- - [He Made a Covid-Zapping Video Game. Then He Fought Covid for Real](https://www.wired.com/story/guntech-2-covid-video-game)<!-- TECH:END -->
+ - [How to send WhatsApp Disappearing Messages](https://www.androidauthority.com/send-whatsapp-disappearing-messages-3092772/)
+ - [Israeli startup Personetics, which helps incumbent banks compete with neobanks by personalizing their customer offerings, raises $85M led by Thoma Bravo &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220119/p15#a220119p15)
+ - [The Trouble With &#39;Encanto&#39;? It Twerks Too Hard to Be Popular](https://www.wired.com/story/disney-encanto-twerks-too-hard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
