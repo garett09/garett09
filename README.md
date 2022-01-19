@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Password management service 1Password raises a $620M Series C led by Iconiq Growth at a $6.8B valuation and says it now has a paying customer base of 100K+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220119/p17#a220119p17)
- - [The Best Webcams for Looking Brighter and Better](https://www.wired.com/gallery/best-webcams)
- - [What the Black TV Viewer Is Owed](https://www.wired.com/story/black-tv-beyond-representattion)<!-- TECH:END -->
+ - [New iPhone SE production starts in late January with May launch, claims leaker](https://appleinsider.com/articles/22/01/19/new-iphone-se-production-starts-in-late-january-with-may-launch-claims-leaker?utm_medium=rss)
+ - [Yellowjackets’ first season is a collective fever dream](https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime)
+ - [Ambient.ai, which uses AI to process live video footage from security cameras and alert users about any breaches, raises $52M led by a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220119/p23#a220119p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
