@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone SE production starts in late January with May launch, claims leaker](https://appleinsider.com/articles/22/01/19/new-iphone-se-production-starts-in-late-january-with-may-launch-claims-leaker?utm_medium=rss)
- - [Yellowjackets’ first season is a collective fever dream](https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime)
- - [Ambient.ai, which uses AI to process live video footage from security cameras and alert users about any breaches, raises $52M led by a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220119/p23#a220119p23)<!-- TECH:END -->
+ - [With Activision, Microsoft is one gigantic step closer to game subscription dominance](https://www.theverge.com/2022/1/19/22890553/microsoft-activision-xbox-game-pass-competition-subscription)
+ - [We asked, you told us: RCS doesn’t stand a chance in the messaging game](https://www.androidauthority.com/rcs-messaging-game-poll-results-3093348/)
+ - [Amazon’s Lord of the Rings series finally has a name](https://www.theverge.com/2022/1/19/22891258/lord-of-the-rings-of-power-amazon-prime-video-lotr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
