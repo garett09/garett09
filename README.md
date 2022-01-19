@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emirates, Air India, and others cancel flights due to AT&amp;T and Verizon’s 5G rollout](https://www.theverge.com/2022/1/18/22890080/5g-flight-cancel-att-verizon-c-band-emirates-air-india-ana-japan)
- - [Biden signs a memorandum expanding the NSA&#39;s role in protecting sensitive government networks, and mandating cybersecurity practices at DoD and spy agencies &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220119/p28#a220119p28)
- - [Handshake, a diversity-focused recruitment network aimed at college students, raises a $200M Series F at a $3.5B valuation, up from $1.5B in May 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220119/p27#a220119p27)<!-- TECH:END -->
+ - [Army wife uses AirTags to track shady movers](https://appleinsider.com/articles/22/01/19/army-wife-uses-airtag-to-track-late-moving-truck-driver-during-a-relocation?utm_medium=rss)
+ - [Fortnite’s latest virtual event is a simple — yet important — art gallery](https://www.theverge.com/2022/1/19/22891305/fortnite-kaws-art-gallery)
+ - [Continued iOS 14 security updates were meant to be temporary, report claims](https://appleinsider.com/articles/22/01/19/continued-ios-14-security-updates-were-meant-to-be-temporary-report-claims?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
