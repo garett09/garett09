@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to send WhatsApp Disappearing Messages](https://www.androidauthority.com/send-whatsapp-disappearing-messages-3092772/)
- - [Israeli startup Personetics, which helps incumbent banks compete with neobanks by personalizing their customer offerings, raises $85M led by Thoma Bravo &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220119/p15#a220119p15)
- - [The Trouble With &#39;Encanto&#39;? It Twerks Too Hard to Be Popular](https://www.wired.com/story/disney-encanto-twerks-too-hard)<!-- TECH:END -->
+ - [Password management service 1Password raises a $620M Series C led by Iconiq Growth at a $6.8B valuation and says it now has a paying customer base of 100K+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220119/p17#a220119p17)
+ - [The Best Webcams for Looking Brighter and Better](https://www.wired.com/gallery/best-webcams)
+ - [What the Black TV Viewer Is Owed](https://www.wired.com/story/black-tv-beyond-representattion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
