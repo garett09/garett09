@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia&#39;s Moladin, which pivoted to a used-vehicle marketplace in mid-2021, raises a $42M Series A co-led by Northstar Group and Sequoia Capital India &lpar;Aastha Maheshwari/DealStreetAsia&rpar;](http://www.techmeme.com/220118/p43#a220118p43)
- - [Sources: Activision Blizzard tried to find other interested buyers, including Meta, as it weighed a potential Microsoft takeover after WSJ&#39;s expos&amp;eacute; in November &lpar;Bloomberg&rpar;](http://www.techmeme.com/220118/p42#a220118p42)
- - [Financial data and analytics firm Canalyst raises a $70M Series C led by Dragoneer Investment Group, bringing its total funding to over $100M &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/220118/p41#a220118p41)<!-- TECH:END -->
+ - [Apple fixing known Safari fingerprinting bug that allows websites to track your browsing history](https://appleinsider.com/articles/22/01/19/apple-fixing-known-safari-fingerprinting-bug-that-allows-websites-to-track-your-browsing-history?utm_medium=rss)
+ - [A look at Tonga&#39;s internet blackout following the volcano blast, which initial investigations suggest destroyed the country&#39;s single undersea internet cable &lpar;Chris Stokel-Walker/MIT Technology Review&rpar;](http://www.techmeme.com/220118/p44#a220118p44)
+ - [Indonesia&#39;s Moladin, which pivoted to a used-vehicle marketplace in mid-2021, raises a $42M Series A co-led by Northstar Group and Sequoia Capital India &lpar;Aastha Maheshwari/DealStreetAsia&rpar;](http://www.techmeme.com/220118/p43#a220118p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
