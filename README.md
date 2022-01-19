@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best credit score apps for Android to check your credit now](https://www.androidauthority.com/best-credit-score-apps-android-3087020/)
- - [Banyan Security, which offers a zero trust remote access client and saw a 300% increase in users in 2021, raises a $30M Series B led by Third Point Ventures &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220118/p36#a220118p36)
- - [Emirates, Air India, and others cancel flights due to AT&amp;T and Verizon’s 5G rollout](https://www.theverge.com/2022/1/18/22890080/5g-flight-cancel-att-verizon-c-band-emirates-air-india-ana-japan)<!-- TECH:END -->
+ - [Google fixes issue with the Assistant’s white noise sound that had sparked user outcry](https://www.theverge.com/2022/1/17/22888423/google-assistant-white-noise-sound-changed)
+ - [Apple and Google split with startups over antitrust bill](https://www.theverge.com/2022/1/18/22890100/antitrust-bill-apple-google-big-tech-senate)
+ - [The best 55-inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
