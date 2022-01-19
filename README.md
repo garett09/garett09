@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung leaks new notched tablet on its own website](https://www.theverge.com/2022/1/19/22890937/samsung-galaxy-tab-s8-ultra-tablet-android-leak)
- - [AI tools can generate an optimal poker strategy, balancing bluffing and playing it straight, which some professional players are using to augment their play &lpar;Keith Romer/New York Times&rpar;](http://www.techmeme.com/220119/p8#a220119p8)
- - [Samsung leaks Galaxy Tab S8 Ultra on support page, notch in full view](https://www.androidauthority.com/samsung-galaxy-tab-s8-ultra-notch-3093389/)<!-- TECH:END -->
+ - [Netflix’s newest game is a Hearthstone-style card battler](https://www.theverge.com/2022/1/19/22890994/netflixs-newest-game-is-a-hearthstone-style-card-battler)
+ - [Carriers agree to another 5G delay around US airports](https://appleinsider.com/articles/22/01/19/carriers-agree-to-another-5g-delay-around-us-airports?utm_medium=rss)
+ - [A look at crowdsourced juries in China, like Meituan&#39;s &quot;kangaroo jury&quot; made up of volunteers who adjudicate disputes between buyers and sellers on its platform &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/220119/p9#a220119p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
