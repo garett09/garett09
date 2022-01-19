@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Book of Boba Fett release schedule: When does episode 4 hit Disney Plus?     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-release-schedule-when-does-episode-4-arrive-on-disney-plus/#ftag=CAD590a51e)
- - [Kenya-based Copia Global, which uses proprietary logistics for a mobile-first e-commerce service aimed at unbanked customers in Africa, raises a $50M Series C &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220119/p7#a220119p7)
- - [BukuKas, an e-commerce enabler for SMBs that also makes a bookkeeping app, raises a $80M Series C led by Tiger Global and Sequoia India, rebrands as Lummo &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220119/p6#a220119p6)<!-- TECH:END -->
+ - [Samsung leaks new notched tablet on its own website](https://www.theverge.com/2022/1/19/22890937/samsung-galaxy-tab-s8-ultra-tablet-android-leak)
+ - [AI tools can generate an optimal poker strategy, balancing bluffing and playing it straight, which some professional players are using to augment their play &lpar;Keith Romer/New York Times&rpar;](http://www.techmeme.com/220119/p8#a220119p8)
+ - [Samsung leaks Galaxy Tab S8 Ultra on support page, notch in full view](https://www.androidauthority.com/samsung-galaxy-tab-s8-ultra-notch-3093389/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
