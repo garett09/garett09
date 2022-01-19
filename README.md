@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Book of Boba Fett release schedule: When does episode 4 hit Disney Plus?     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-release-schedule-when-does-episode-4-arrive-on-disney-plus/#ftag=CAD590a51e)
  - [Kenya-based Copia Global, which uses proprietary logistics for a mobile-first e-commerce service aimed at unbanked customers in Africa, raises a $50M Series C &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220119/p7#a220119p7)
- - [BukuKas, an e-commerce enabler for SMBs that also makes a bookkeeping app, raises a $80M Series C led by Tiger Global and Sequoia India, rebrands as Lummo &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220119/p6#a220119p6)
- - [Pyxis One, which offers no-code AI models to companies for targeted marketing, raises a $100M Series C led by SoftBank Vision Fund 2 and renames itself to Pixis &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220119/p5#a220119p5)<!-- TECH:END -->
+ - [BukuKas, an e-commerce enabler for SMBs that also makes a bookkeeping app, raises a $80M Series C led by Tiger Global and Sequoia India, rebrands as Lummo &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220119/p6#a220119p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
