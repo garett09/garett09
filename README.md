@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe’s Move Against Google Analytics Is Just the Beginning](https://www.wired.com/story/google-analytics-europe-austria-privacy-shield)
- - [Filmhub, which lets filmmakers distribute their work to over 100 streaming channels, including Amazon Prime Video and Apple TV, raises a $6.8M seed led by a16z &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220119/p26#a220119p26)
- - [How to make a playlist on Spotify](https://www.androidauthority.com/how-to-make-playlists-spotify-3092593/)<!-- TECH:END -->
+ - [Emirates, Air India, and others cancel flights due to AT&amp;T and Verizon’s 5G rollout](https://www.theverge.com/2022/1/18/22890080/5g-flight-cancel-att-verizon-c-band-emirates-air-india-ana-japan)
+ - [Biden signs a memorandum expanding the NSA&#39;s role in protecting sensitive government networks, and mandating cybersecurity practices at DoD and spy agencies &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220119/p28#a220119p28)
+ - [Handshake, a diversity-focused recruitment network aimed at college students, raises a $200M Series F at a $3.5B valuation, up from $1.5B in May 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220119/p27#a220119p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
