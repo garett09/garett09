@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Activision, Microsoft is one gigantic step closer to game subscription dominance](https://www.theverge.com/2022/1/19/22890553/microsoft-activision-xbox-game-pass-competition-subscription)
- - [We asked, you told us: RCS doesn’t stand a chance in the messaging game](https://www.androidauthority.com/rcs-messaging-game-poll-results-3093348/)
- - [Amazon’s Lord of the Rings series finally has a name](https://www.theverge.com/2022/1/19/22891258/lord-of-the-rings-of-power-amazon-prime-video-lotr)<!-- TECH:END -->
+ - [Europe’s Move Against Google Analytics Is Just the Beginning](https://www.wired.com/story/google-analytics-europe-austria-privacy-shield)
+ - [Filmhub, which lets filmmakers distribute their work to over 100 streaming channels, including Amazon Prime Video and Apple TV, raises a $6.8M seed led by a16z &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220119/p26#a220119p26)
+ - [How to make a playlist on Spotify](https://www.androidauthority.com/how-to-make-playlists-spotify-3092593/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
