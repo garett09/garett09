@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s newest game is a Hearthstone-style card battler](https://www.theverge.com/2022/1/19/22890994/netflixs-newest-game-is-a-hearthstone-style-card-battler)
- - [Carriers agree to another 5G delay around US airports](https://appleinsider.com/articles/22/01/19/carriers-agree-to-another-5g-delay-around-us-airports?utm_medium=rss)
- - [A look at crowdsourced juries in China, like Meituan&#39;s &quot;kangaroo jury&quot; made up of volunteers who adjudicate disputes between buyers and sellers on its platform &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/220119/p9#a220119p9)<!-- TECH:END -->
+ - [Lattice, which builds workforce people management tools including for performance reviews and tracking career goals, raises a $175M Series F at a $3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220119/p13#a220119p13)
+ - [Daily Authority: 💰 Microsoft owns Candy Crush now](https://www.androidauthority.com/da-january-19-2022-3093504/)
+ - [He Made a Covid-Zapping Video Game. Then He Fought Covid for Real](https://www.wired.com/story/guntech-2-covid-video-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
