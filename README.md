@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Army wife uses AirTags to track shady movers](https://appleinsider.com/articles/22/01/19/army-wife-uses-airtag-to-track-late-moving-truck-driver-during-a-relocation?utm_medium=rss)
- - [Fortnite’s latest virtual event is a simple — yet important — art gallery](https://www.theverge.com/2022/1/19/22891305/fortnite-kaws-art-gallery)
- - [Continued iOS 14 security updates were meant to be temporary, report claims](https://appleinsider.com/articles/22/01/19/continued-ios-14-security-updates-were-meant-to-be-temporary-report-claims?utm_medium=rss)<!-- TECH:END -->
+ - [The FAA says some 777s are cleared to fly to airports with 5G C-band](https://www.theverge.com/2022/1/19/22891725/faa-radar-new-altimeter-clearance-5g-c-band-rollout-airlines-boeing-777)
+ - [Moon Knight’s Gaspard Ulliel has died following skiing accident in the French Alps](https://www.theverge.com/2022/1/19/22891235/moon-knights-gaspard-ulliel-has-died-following-skiing-accident-in-the-alps)
+ - [Strava can help you avoid the runs on those long runs](https://www.theverge.com/2022/1/19/22891366/strava-routes-maps-points-of-interest-running)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
