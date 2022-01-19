@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FAA says some 777s are cleared to fly to airports with 5G C-band](https://www.theverge.com/2022/1/19/22891725/faa-radar-new-altimeter-clearance-5g-c-band-rollout-airlines-boeing-777)
- - [Moon Knight’s Gaspard Ulliel has died following skiing accident in the French Alps](https://www.theverge.com/2022/1/19/22891235/moon-knights-gaspard-ulliel-has-died-following-skiing-accident-in-the-alps)
- - [Strava can help you avoid the runs on those long runs](https://www.theverge.com/2022/1/19/22891366/strava-routes-maps-points-of-interest-running)<!-- TECH:END -->
+ - [Wemo Stage with Thread review: Finally a reliable HomeKit button](https://appleinsider.com/articles/22/01/19/wemo-stage-with-thread-review-finally-a-reliable-homekit-button?utm_medium=rss)
+ - [Halo Infinite gets a hotfix to address Big Team Battle problems, but it hasn’t helped](https://www.theverge.com/2022/1/19/22891256/halo-infinite-multiplayer-big-team-battle-patch-update-problems)
+ - [Half of internet-connected devices in hospitals are vulnerable to hacks, report finds](https://www.theverge.com/2022/1/19/22891440/internet-connected-medical-devices-vulnerable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
