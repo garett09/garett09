@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google fixes issue with the Assistant’s white noise sound that had sparked user outcry](https://www.theverge.com/2022/1/17/22888423/google-assistant-white-noise-sound-changed)
- - [Apple and Google split with startups over antitrust bill](https://www.theverge.com/2022/1/18/22890100/antitrust-bill-apple-google-big-tech-senate)
- - [The best 55-inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo: Better.com CEO Vishal Garg resumes full-time duties over a month after taking time off following his controversial firing of ~900 staff on Zoom &lpar;Noah Kirsch/The Daily Beast&rpar;](http://www.techmeme.com/220118/p38#a220118p38)
+ - [Looks like FedEx won’t be adding lasers to its airplanes](https://www.theverge.com/2022/1/18/22890463/fedex-laser-missile-defense-infrared-airplane-faa)
+ - [US OCC and Federal Reserve grant SoFi a conditional banking license via its acquisition of Golden Pacific Bancorp community bank; SoFi stock up 16%+ after hours &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/220118/p37#a220118p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
