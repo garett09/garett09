@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google&#39;s AR headset will be powered by a custom processor, resemble ski goggles, and won&#39;t require a tethered connection to an external power source &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220120/p28#a220120p28)
- - [Smartphone Cameras Might Soon Capture Polarization Data](https://www.wired.com/story/metalenz-polareyes-polarization-camera)
- - [Many game developers hate NFTs, too](https://www.theverge.com/2022/1/20/22893216/gdc-annual-survey-2022-game-developers-nfts)<!-- TECH:END -->
+ - [Peloton halts production of fitness bikes, cites &#39;significant&#39; loss of demand](https://appleinsider.com/articles/22/01/20/peloton-halts-production-of-fitness-bikes-cites-significant-loss-of-demand?utm_medium=rss)
+ - [10 Great Deals on Robot Vacuums, Mattresses, and Air Purifiers](https://www.wired.com/story/deals-january-20-2022)
+ - [The best cameras for every type of user](https://www.androidauthority.com/best-cameras-3089045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
