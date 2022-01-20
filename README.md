@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabia-based Lean Technologies, which enables companies to access bank data and make payments, raises $33M led by Sequoia Capital &lpar;Farah Elbahrawy/Bloomberg&rpar;](http://www.techmeme.com/220120/p2#a220120p2)
  - [Big Health, which makes cognitive behavioral therapy apps Sleepio and Daylight to help users improve sleep, raises a $75M Series C led by SoftBank Vision Fund 2 &lpar;Dave Muoio/FierceHealthcare&rpar;](http://www.techmeme.com/220120/p1#a220120p1)
- - [Mantra Health, which provides virtual mental health care services to college and university students in the US, raises a $22M Series A led by VMG Partners &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220119/p43#a220119p43)
- - [Spekit, which helps companies train remote employees by adapting and integrating their training manuals within apps that employees use, raises a $45M Series B &lpar;Alexandra Wilson/Forbes&rpar;](http://www.techmeme.com/220119/p42#a220119p42)<!-- TECH:END -->
+ - [iPhone SE 3 rumors: Everything to expect, from release date to design changes     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-se-3-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
