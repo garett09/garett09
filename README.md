@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia-based Lean Technologies, which enables companies to access bank data and make payments, raises $33M led by Sequoia Capital &lpar;Farah Elbahrawy/Bloomberg&rpar;](http://www.techmeme.com/220120/p2#a220120p2)
- - [Big Health, which makes cognitive behavioral therapy apps Sleepio and Daylight to help users improve sleep, raises a $75M Series C led by SoftBank Vision Fund 2 &lpar;Dave Muoio/FierceHealthcare&rpar;](http://www.techmeme.com/220120/p1#a220120p1)
- - [iPhone SE 3 rumors: Everything to expect, from release date to design changes     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-se-3-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 20&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
+ - [SaaS Labs, which offers business automation tools for sales and support teams at SMBs, raises a $42M Series B, and acquires CallPage and Atolia &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220120/p3#a220120p3)
+ - [Canon’s EOS R5C is a 2-in-1 stills and cinema camera](https://www.theverge.com/2022/1/20/22892766/canon-eos-r5c-announced-specs-release-date-cost)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
