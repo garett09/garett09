@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ to remake &#39;Women on the Verge of a Nervous Breakdown&#39;](https://appleinsider.com/articles/22/01/20/apple-tv-to-remake-women-on-the-verge-of-a-nervous-breakdown?utm_medium=rss)
- - [Swiss startup Terra Quantum, which offers cloud-based quantum computing as a service, raises a $60M Series A led by Lakestar &lpar;Maija Palmer/Sifted&rpar;](http://www.techmeme.com/220120/p15#a220120p15)
- - [Apple countersues Ericsson, seeks a US import ban on mobile base stations and proposes that both parties withdraw all patent infringement actions &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/220120/p14#a220120p14)<!-- TECH:END -->
+ - [Craig of the Creek’s getting a spinoff, a new movie, and a fifth season](https://www.theverge.com/2022/1/20/22892102/craig-of-the-creek-season-5-the-movie)
+ - [Suunto’s new fitness watch is lighter than ever, boasts 100-hour battery life](https://www.androidauthority.com/suunto-5-peak-3093857/)
+ - [Are Rhythm Games Ready for a Comeback?](https://www.wired.com/story/rhythm-games-indie-comeback)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
