@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s head of comms is leaving after less than a year](https://www.theverge.com/2022/1/20/22893650/apple-comms-pr-head-low-leaving-quayle-replacement)
  - [Epic claims App Store antitrust trial judge made too many legal mistakes in her ruling](https://appleinsider.com/articles/22/01/20/epic-claims-app-store-antitrust-trial-judge-made-too-many-legal-mistakes-in-her-ruling?utm_medium=rss)
- - [Elon Musk’s Neuralink is hiring a clinical trial director](https://www.theverge.com/2022/1/20/22893444/neuralink-human-clinical-trials-musk)
- - [The Senate Judiciary votes 16-6 to advance the American Innovation and Choice Online Act, which would stop platforms from favoring their products over rivals&#39; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220120/p34#a220120p34)<!-- TECH:END -->
+ - [The US Federal Reserve releases its long-awaited report on a digital dollar but doesn&#39;t take a position on issuing one, and seeks public feedback for 120 days &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/220120/p37#a220120p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
