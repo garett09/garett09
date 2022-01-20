@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investing app Acorns cancels its proposed $2.2B SPAC merger announced in May 2021, and says it will instead pivot to a private capital raise &lpar;Reuters&rpar;](http://www.techmeme.com/220120/p4#a220120p4)
- - [Everything Android 12 can do that Android 11 just can&#39;t     - CNET](https://www.cnet.com/tech/services-and-software/android-12-vs-android-11/#ftag=CAD590a51e)
- - [Oppo outlines battery-free future powered by cellular, Bluetooth, Wi-Fi signals](https://www.androidauthority.com/oppo-battery-free-zero-power-3093960/)<!-- TECH:END -->
+ - [Tim Cook and Sundar Pichai are personally lobbying senators against antitrust legislation: report](https://www.theverge.com/2022/1/20/22892855/apple-google-antitrust-legislation-tim-cook-sundar-pichai-lobbying)
+ - [How Bloghouse’s Sweaty, Neon Reign United the Internet](https://www.wired.com/story/how-bloghouse-music-united-the-internet)
+ - [Sony expects Microsoft to ‘continue to ensure’ Activision games stay multiplatform](https://www.theverge.com/2022/1/20/22892860/sony-microsoft-activision-blizzard-acquisition-comment-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
