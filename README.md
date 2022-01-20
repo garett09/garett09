@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saturn’s ‘Death Star’ moon might be hiding an underground ocean](https://www.theverge.com/2022/1/20/22893041/saturn-death-star-underground-ocean-nasa-moon)
- - [Paramount Plus Fatal Attraction reboot will see Lizzy Caplan down bad for Joshua Jackson](https://www.theverge.com/2022/1/20/22893645/fatal-attraction-paramount-plus-reboot-caplan-jackson)
- - [Epic claims App Store antitrust trial judge made too many legal mistakes in her ruling](https://appleinsider.com/articles/22/01/20/epic-claims-app-store-antitrust-trial-judge-made-too-many-legal-mistakes-in-her-ruling?utm_medium=rss)<!-- TECH:END -->
+ - [DeepMind co-founder Mustafa Suleyman is leaving Google to join Greylock Partners; Suleyman was stripped of some duties in 2019 for allegedly bullying staff &lpar;New York Times&rpar;](http://www.techmeme.com/220120/p39#a220120p39)
+ - [New iPhone SE production starts in late January with May launch, claims leaker](https://appleinsider.com/articles/22/01/19/new-iphone-se-production-starts-in-late-january-with-may-launch-claims-leaker?utm_medium=rss)
+ - [GameStop will have PlayStation 5 bundles in stock tomorrow at 11AM ET](https://www.theverge.com/2022/1/20/22820507/ps5-playstation-5-restock-gamestop-where-to-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
