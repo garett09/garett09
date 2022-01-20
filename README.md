@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music is the second most used music streaming service globally, Spotify remains in top spot](https://appleinsider.com/articles/22/01/20/apple-music-is-the-second-most-used-music-streaming-service-globally-spotify-remains-in-top-spot?utm_medium=rss)
- - [Disney is putting a Disney Plus exec in charge of Hulu](https://www.theverge.com/2022/1/19/22892271/disney-plus-hulu-reorganization-joe-earley-michael-paull-rebecca-campbell)
- - [Red Cross says a cyberattack on a vendor for over 60 Red Cross and Red Crescent societies compromised the personal data of 515,000+ &quot;highly vulnerable people&quot; &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220119/p37#a220119p37)<!-- TECH:END -->
+ - [You can now save $20-$36 a year on YouTube Premium and Music Premium with new annual plans](https://www.theverge.com/2022/1/19/22892132/youtube-premium-music-premium-annual-plans-discount)
+ - [AMD Radeon RX 6500 XT meta-review: even desperate gamers should think twice](https://www.theverge.com/22892273/amd-radeon-rx-6500-xt-meta-review-gpu-graphics-card)
+ - [Here’s how to clean your $19 Apple cleaning cloth](https://www.theverge.com/tldr/2022/1/19/22892259/how-to-clean-apple-polishing-cloth-official-instructions-and-also-sarcasm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
