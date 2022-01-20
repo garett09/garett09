@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo outlines battery-free future powered by cellular, Bluetooth, Wi-Fi signals](https://www.androidauthority.com/oppo-battery-free-zero-power-3093960/)
- - [Nova Launcher guide: Everything you need to know](https://www.androidauthority.com/nova-launcher-885296/)
- - [You told us: You plan to cancel Netflix after North America price hike](https://www.androidauthority.com/netflix-north-america-price-hike-poll-results-3092926/)<!-- TECH:END -->
+ - [Investing app Acorns cancels its proposed $2.2B SPAC merger announced in May 2021, and says it will instead pivot to a private capital raise &lpar;Reuters&rpar;](http://www.techmeme.com/220120/p4#a220120p4)
+ - [Everything Android 12 can do that Android 11 just can&#39;t     - CNET](https://www.cnet.com/tech/services-and-software/android-12-vs-android-11/#ftag=CAD590a51e)
+ - [Oppo outlines battery-free future powered by cellular, Bluetooth, Wi-Fi signals](https://www.androidauthority.com/oppo-battery-free-zero-power-3093960/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
