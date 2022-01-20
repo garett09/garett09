@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook and Sundar Pichai are personally lobbying senators against antitrust legislation: report](https://www.theverge.com/2022/1/20/22892855/apple-google-antitrust-legislation-tim-cook-sundar-pichai-lobbying)
- - [How Bloghouse’s Sweaty, Neon Reign United the Internet](https://www.wired.com/story/how-bloghouse-music-united-the-internet)
- - [Sony expects Microsoft to ‘continue to ensure’ Activision games stay multiplatform](https://www.theverge.com/2022/1/20/22892860/sony-microsoft-activision-blizzard-acquisition-comment-response)<!-- TECH:END -->
+ - [Grab a Snack—and Combat Food Waste—With This App](https://www.wired.com/story/too-good-to-go-app-food-waste)
+ - [Simulation Tech Can Help Predict the Biggest Threats](https://www.wired.com/story/simulation-tech-global-threats-prediction)
+ - [This 22-Year-Old Builds Chips in His Parents’ Garage](https://www.wired.com/story/22-year-old-builds-chips-parents-garage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
