@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind co-founder Mustafa Suleyman is leaving Google to join Greylock Partners; Suleyman was stripped of some duties in 2019 for allegedly bullying staff &lpar;New York Times&rpar;](http://www.techmeme.com/220120/p39#a220120p39)
- - [New iPhone SE production starts in late January with May launch, claims leaker](https://appleinsider.com/articles/22/01/19/new-iphone-se-production-starts-in-late-january-with-may-launch-claims-leaker?utm_medium=rss)
- - [GameStop will have PlayStation 5 bundles in stock tomorrow at 11AM ET](https://www.theverge.com/2022/1/20/22820507/ps5-playstation-5-restock-gamestop-where-to-buy)<!-- TECH:END -->
+ - [Netflix stock plunges as company misses growth forecast](https://www.theverge.com/2022/1/20/22893950/netflix-stock-falls-q4-2021-earnings-2022)
+ - [Want to preorder Samsung’s next Galaxy phone sight unseen? You can](https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders)
+ - [Samsung confirms February Unpacked, hints at the end of the Note line](https://www.theverge.com/2022/1/20/22893640/samsung-unpacked-february-2022-galaxy-s22-ultra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
