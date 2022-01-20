@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab a Snack—and Combat Food Waste—With This App](https://www.wired.com/story/too-good-to-go-app-food-waste)
- - [Simulation Tech Can Help Predict the Biggest Threats](https://www.wired.com/story/simulation-tech-global-threats-prediction)
- - [This 22-Year-Old Builds Chips in His Parents’ Garage](https://www.wired.com/story/22-year-old-builds-chips-parents-garage)<!-- TECH:END -->
+ - [Apple TV+ to remake &#39;Women on the Verge of a Nervous Breakdown&#39;](https://appleinsider.com/articles/22/01/20/apple-tv-to-remake-women-on-the-verge-of-a-nervous-breakdown?utm_medium=rss)
+ - [Swiss startup Terra Quantum, which offers cloud-based quantum computing as a service, raises a $60M Series A led by Lakestar &lpar;Maija Palmer/Sifted&rpar;](http://www.techmeme.com/220120/p15#a220120p15)
+ - [Apple countersues Ericsson, seeks a US import ban on mobile base stations and proposes that both parties withdraw all patent infringement actions &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/220120/p14#a220120p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
