@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 20&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [SaaS Labs, which offers business automation tools for sales and support teams at SMBs, raises a $42M Series B, and acquires CallPage and Atolia &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220120/p3#a220120p3)
- - [Canon’s EOS R5C is a 2-in-1 stills and cinema camera](https://www.theverge.com/2022/1/20/22892766/canon-eos-r5c-announced-specs-release-date-cost)<!-- TECH:END -->
+ - [Nova Launcher guide: Everything you need to know](https://www.androidauthority.com/nova-launcher-885296/)
+ - [You told us: You plan to cancel Netflix after North America price hike](https://www.androidauthority.com/netflix-north-america-price-hike-poll-results-3092926/)
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Update: Jan. 20&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
