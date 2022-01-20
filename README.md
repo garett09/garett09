@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon debuts EOS R5 C 8K cinema camera with active cooling system](https://appleinsider.com/articles/22/01/20/canon-debuts-eos-r5-c-8k-cinema-camera-with-active-cooling-system?utm_medium=rss)
- - [Boost Celero 5G review: budget phone with budget battery life](https://www.theverge.com/22837805/celero-5g-review-phone)
- - [Best deals Jan. 20: $100 off M1 Mac Mini, 47% off Samsung Galaxy Buds Live, $45 Fire 8 HD tablet, more!](https://appleinsider.com/articles/22/01/20/best-deals-jan-20-100-off-m1-mac-mini-47-off-samsung-galaxy-buds-live-45-fire-8-hd-tablet-more?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of Hemant Taneja, who became the sole managing partner of General Catalyst in 2021, as the firm raises a seed, venture, and growth fund totaling $4.6B &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/220120/p25#a220120p25)
+ - [UK company behind Tom Cruise space film unveils plans to launch space movie studio](https://www.theverge.com/2022/1/20/22893066/see-1-tom-cruise-space-movie-studio-axiom-iss-spacex)
+ - [Crypto.com says its breach affected 483 users, resulting in unauthorized withdrawals of ~$33.84M in cryptocurrencies and cash but says users were reimbursed &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/220120/p24#a220120p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
