@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now save $20-$36 a year on YouTube Premium and Music Premium with new annual plans](https://www.theverge.com/2022/1/19/22892132/youtube-premium-music-premium-annual-plans-discount)
- - [AMD Radeon RX 6500 XT meta-review: even desperate gamers should think twice](https://www.theverge.com/22892273/amd-radeon-rx-6500-xt-meta-review-gpu-graphics-card)
- - [Here’s how to clean your $19 Apple cleaning cloth](https://www.theverge.com/tldr/2022/1/19/22892259/how-to-clean-apple-polishing-cloth-official-instructions-and-also-sarcasm)<!-- TECH:END -->
+ - [IRS will soon demand video selfies for online user identification](https://appleinsider.com/articles/22/01/20/irs-will-soon-demand-video-selfies-for-online-user-identification?utm_medium=rss)
+ - [Google launches a limited beta of Google Play Games, which brings Android games to Windows 10 and Windows 11, in Hong Kong, South Korea, and Taiwan &lpar;Ryne Hager/Android Police&rpar;](http://www.techmeme.com/220119/p40#a220119p40)
+ - [Roku outage leads to frozen TVs and unresponsive devices](https://www.theverge.com/2022/1/19/22892590/roku-service-outage-frozen-tv-streaming-sticks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
