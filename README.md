@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig of the Creek’s getting a spinoff, a new movie, and a fifth season](https://www.theverge.com/2022/1/20/22892102/craig-of-the-creek-season-5-the-movie)
- - [Suunto’s new fitness watch is lighter than ever, boasts 100-hour battery life](https://www.androidauthority.com/suunto-5-peak-3093857/)
- - [Are Rhythm Games Ready for a Comeback?](https://www.wired.com/story/rhythm-games-indie-comeback)<!-- TECH:END -->
+ - [Canon debuts EOS R5 C 8K cinema camera with active cooling system](https://appleinsider.com/articles/22/01/20/canon-debuts-eos-r5-c-8k-cinema-camera-with-active-cooling-system?utm_medium=rss)
+ - [Boost Celero 5G review: budget phone with budget battery life](https://www.theverge.com/22837805/celero-5g-review-phone)
+ - [Best deals Jan. 20: $100 off M1 Mac Mini, 47% off Samsung Galaxy Buds Live, $45 Fire 8 HD tablet, more!](https://appleinsider.com/articles/22/01/20/best-deals-jan-20-100-off-m1-mac-mini-47-off-samsung-galaxy-buds-live-45-fire-8-hd-tablet-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
