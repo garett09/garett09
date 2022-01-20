@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus teases its WeWork series with Jared Leto](https://www.theverge.com/2022/1/19/22891975/apple-tv-plus-wework-jared-leto)
- - [AirPods crucial to summoning medical help after serious head injury](https://appleinsider.com/articles/22/01/19/airpods-crucial-to-summoning-medical-help-after-serious-head-injury?utm_medium=rss)
- - [AT&amp;T begins its 5G rollout in Austin, Dallas-Fort Worth, Houston, Chicago, Detroit, Jacksonville, Orlando, and South Florida, after delaying it near airports &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220119/p35#a220119p35)<!-- TECH:END -->
+ - [Apple Music is the second most used music streaming service globally, Spotify remains in top spot](https://appleinsider.com/articles/22/01/20/apple-music-is-the-second-most-used-music-streaming-service-globally-spotify-remains-in-top-spot?utm_medium=rss)
+ - [Disney is putting a Disney Plus exec in charge of Hulu](https://www.theverge.com/2022/1/19/22892271/disney-plus-hulu-reorganization-joe-earley-michael-paull-rebecca-campbell)
+ - [Red Cross says a cyberattack on a vendor for over 60 Red Cross and Red Crescent societies compromised the personal data of 515,000+ &quot;highly vulnerable people&quot; &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220119/p37#a220119p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
