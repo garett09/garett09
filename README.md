@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IRS will soon demand video selfies for online user identification](https://appleinsider.com/articles/22/01/20/irs-will-soon-demand-video-selfies-for-online-user-identification?utm_medium=rss)
- - [Google launches a limited beta of Google Play Games, which brings Android games to Windows 10 and Windows 11, in Hong Kong, South Korea, and Taiwan &lpar;Ryne Hager/Android Police&rpar;](http://www.techmeme.com/220119/p40#a220119p40)
- - [Roku outage leads to frozen TVs and unresponsive devices](https://www.theverge.com/2022/1/19/22892590/roku-service-outage-frozen-tv-streaming-sticks)<!-- TECH:END -->
+ - [Big Health, which makes cognitive behavioral therapy apps Sleepio and Daylight to help users improve sleep, raises a $75M Series C led by SoftBank Vision Fund 2 &lpar;Dave Muoio/FierceHealthcare&rpar;](http://www.techmeme.com/220120/p1#a220120p1)
+ - [Mantra Health, which provides virtual mental health care services to college and university students in the US, raises a $22M Series A led by VMG Partners &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220119/p43#a220119p43)
+ - [Spekit, which helps companies train remote employees by adapting and integrating their training manuals within apps that employees use, raises a $45M Series B &lpar;Alexandra Wilson/Forbes&rpar;](http://www.techmeme.com/220119/p42#a220119p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
