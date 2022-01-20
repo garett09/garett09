@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s head of comms is leaving after less than a year](https://www.theverge.com/2022/1/20/22893650/apple-comms-pr-head-low-leaving-quayle-replacement)
- - [Epic claims App Store antitrust trial judge made too many legal mistakes in her ruling](https://appleinsider.com/articles/22/01/20/epic-claims-app-store-antitrust-trial-judge-made-too-many-legal-mistakes-in-her-ruling?utm_medium=rss)
- - [The US Federal Reserve releases its long-awaited report on a digital dollar but doesn&#39;t take a position on issuing one, and seeks public feedback for 120 days &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/220120/p37#a220120p37)<!-- TECH:END -->
+ - [Saturn’s ‘Death Star’ moon might be hiding an underground ocean](https://www.theverge.com/2022/1/20/22893041/saturn-death-star-underground-ocean-nasa-moon)
+ - [Paramount Plus Fatal Attraction reboot will see Lizzy Caplan down bad for Joshua Jackson](https://www.theverge.com/2022/1/20/22893645/fatal-attraction-paramount-plus-reboot-caplan-jackson)
+ - [Epic claims App Store antitrust trial judge made too many legal mistakes in her ruling](https://appleinsider.com/articles/22/01/20/epic-claims-app-store-antitrust-trial-judge-made-too-many-legal-mistakes-in-her-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
