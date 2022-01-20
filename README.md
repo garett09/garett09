@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Hemant Taneja, who became the sole managing partner of General Catalyst in 2021, as the firm raises a seed, venture, and growth fund totaling $4.6B &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/220120/p25#a220120p25)
- - [UK company behind Tom Cruise space film unveils plans to launch space movie studio](https://www.theverge.com/2022/1/20/22893066/see-1-tom-cruise-space-movie-studio-axiom-iss-spacex)
- - [Crypto.com says its breach affected 483 users, resulting in unauthorized withdrawals of ~$33.84M in cryptocurrencies and cash but says users were reimbursed &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/220120/p24#a220120p24)<!-- TECH:END -->
+ - [Sources: Google&#39;s AR headset will be powered by a custom processor, resemble ski goggles, and won&#39;t require a tethered connection to an external power source &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220120/p28#a220120p28)
+ - [Smartphone Cameras Might Soon Capture Polarization Data](https://www.wired.com/story/metalenz-polareyes-polarization-camera)
+ - [Many game developers hate NFTs, too](https://www.theverge.com/2022/1/20/22893216/gdc-annual-survey-2022-game-developers-nfts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
