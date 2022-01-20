@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton halts production of fitness bikes, cites &#39;significant&#39; loss of demand](https://appleinsider.com/articles/22/01/20/peloton-halts-production-of-fitness-bikes-cites-significant-loss-of-demand?utm_medium=rss)
- - [10 Great Deals on Robot Vacuums, Mattresses, and Air Purifiers](https://www.wired.com/story/deals-january-20-2022)
- - [The best cameras for every type of user](https://www.androidauthority.com/best-cameras-3089045/)<!-- TECH:END -->
+ - [Epic claims App Store antitrust trial judge made too many legal mistakes in her ruling](https://appleinsider.com/articles/22/01/20/epic-claims-app-store-antitrust-trial-judge-made-too-many-legal-mistakes-in-her-ruling?utm_medium=rss)
+ - [Elon Musk’s Neuralink is hiring a clinical trial director](https://www.theverge.com/2022/1/20/22893444/neuralink-human-clinical-trials-musk)
+ - [The Senate Judiciary votes 16-6 to advance the American Innovation and Choice Online Act, which would stop platforms from favoring their products over rivals&#39; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220120/p34#a220120p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
