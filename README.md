@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix stock plunges as company misses growth forecast](https://www.theverge.com/2022/1/20/22893950/netflix-stock-falls-q4-2021-earnings-2022)
- - [Want to preorder Samsung’s next Galaxy phone sight unseen? You can](https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders)
- - [Samsung confirms February Unpacked, hints at the end of the Note line](https://www.theverge.com/2022/1/20/22893640/samsung-unpacked-february-2022-galaxy-s22-ultra)<!-- TECH:END -->
+ - [Meta details Data2vec, a self-supervised algorithm that unifies the process of training a neural network to learn the same across speech, images, and text &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220120/p43#a220120p43)
+ - [TikTok is thinking about letting its creators charge subscription fees](https://www.theverge.com/2022/1/20/22893954/tiktok-testing-paid-subscriptions-creators)
+ - [Netflix co-CEO says there will ‘absolutely’ be a second season of Squid Game](https://www.theverge.com/2022/1/20/22894073/squid-game-season-two-netflix-ted-sarandos-confirmed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
