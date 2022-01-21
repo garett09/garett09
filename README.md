@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health monitoring startup Casana raises a $30M Series B as it gets ready to debut a smart toilet seat that measures heart rate and other vitals &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220121/p12#a220121p12)
- - [&#39;Central Park&#39; season two restarts on Apple TV+ on March 4](https://appleinsider.com/articles/22/01/21/central-park-season-two-restarts-on-apple-tv-on-march-4?utm_medium=rss)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
+ - [How to protect your PC from ransomware using Windows’ built-in protection](https://www.theverge.com/22889631/windows-10-11-ransomware-defense-security-how-to)
+ - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)
+ - [Nike’s accessible ACG Gaiadome FlyEase Boot will be for athletes only](https://www.theverge.com/2022/1/21/22894903/nike-olympics-paralympics-flyease-gaiadome)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
