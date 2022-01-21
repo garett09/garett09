@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta details Data2vec, a self-supervised algorithm that unifies the process of training a neural network to learn the same across speech, images, and text &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220120/p43#a220120p43)
- - [TikTok is thinking about letting its creators charge subscription fees](https://www.theverge.com/2022/1/20/22893954/tiktok-testing-paid-subscriptions-creators)
- - [Netflix co-CEO says there will ‘absolutely’ be a second season of Squid Game](https://www.theverge.com/2022/1/20/22894073/squid-game-season-two-netflix-ted-sarandos-confirmed)<!-- TECH:END -->
+ - [New Apple ads highlight battery life, durability of the iPhone 13](https://appleinsider.com/articles/22/01/21/new-apple-ads-highlight-battery-life-durability-of-the-iphone-13?utm_medium=rss)
+ - [Inside DARPA&#39;s Air Combat Evolution program, which aims to design AI that can fly a plane and engage in aerial combat without a human pilot &lpar;Sue Halpern/New Yorker&rpar;](http://www.techmeme.com/220120/p44#a220120p44)
+ - [Leesa Legend mattress review: A hybrid mattress built to be extra-supportive     - CNET](https://www.cnet.com/health/sleep/leesa-legend-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
