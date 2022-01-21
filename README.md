@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: Microsoft to acquire Activision,  Google building a headset, and the 5G battle with airlines](https://www.theverge.com/2022/1/21/22894856/vergecast-podcast-482-microsoft-activision-deal-google-ar-headset-5g-airlines)
- - [Investigation finds that Binance withheld info from regulators and maintained weak checks on customers even as it publicly welcomed regulatory oversight &lpar;Reuters&rpar;](http://www.techmeme.com/220121/p6#a220121p6)
- - [Edit and share PDFs with ease on your Mac, iPhone or iPad for 62% less today     - CNET](https://www.cnet.com/tech/services-and-software/edit-and-share-pdfs-with-ease-on-your-mac-iphone-or-ipad-for-62-less-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix COO says it&#39;s &quot;open to licensing large game IP&quot;; job listings suggest it may launch Fortnite-like live service games that are regularly updated &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220121/p9#a220121p9)
+ - [Don&#39;t Look Up Takes Aim at the Media](https://www.wired.com/2022/01/geeks-guide-dont-look-up)
+ - [How to order free rapid COVID tests from the US government](https://www.theverge.com/22889745/rapid-covid-tests-free-website-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
