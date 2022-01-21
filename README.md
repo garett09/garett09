@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Facebook became indispensable in Africa with its ease of access, importance to small businesses, its facilitating of community organizing, and more &lpar;Nesrine Malik/The Guardian&rpar;](http://www.techmeme.com/220120/p45#a220120p45)
  - [New Apple ads highlight battery life, durability of the iPhone 13](https://appleinsider.com/articles/22/01/21/new-apple-ads-highlight-battery-life-durability-of-the-iphone-13?utm_medium=rss)
- - [Inside DARPA&#39;s Air Combat Evolution program, which aims to design AI that can fly a plane and engage in aerial combat without a human pilot &lpar;Sue Halpern/New Yorker&rpar;](http://www.techmeme.com/220120/p44#a220120p44)
- - [Leesa Legend mattress review: A hybrid mattress built to be extra-supportive     - CNET](https://www.cnet.com/health/sleep/leesa-legend-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside DARPA&#39;s Air Combat Evolution program, which aims to design AI that can fly a plane and engage in aerial combat without a human pilot &lpar;Sue Halpern/New Yorker&rpar;](http://www.techmeme.com/220120/p44#a220120p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
