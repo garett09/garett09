@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI Creator Z16 review: thin isn’t everything](https://www.theverge.com/22893308/msi-creator-z16-2021-review)
- - [How Twitter could take NFTs mainstream](https://www.theverge.com/2022/1/21/22894142/twitter-nft-profile-picture-hexagon-circle-mainstream)
- - [What is WhatsApp Business? How does it differ from regular WhatsApp?](https://www.androidauthority.com/whatsapp-business-3093665/)<!-- TECH:END -->
+ - [Reserve your Samsung Galaxy S22 or Galaxy Tab S8 now, earn $50 credit](https://www.androidauthority.com/reserve-galaxy-s22-3094809/)
+ - [Want to preorder Samsung’s next Galaxy phone sight unseen? You can](https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders)
+ - [Best deals Jan. 21: 2020 1TB 11-inch iPad Pro for $860, Xbox Series X for $280, more!](https://appleinsider.com/articles/22/01/21/best-deals-jan-21-2020-1tb-11-inch-ipad-pro-for-860-xbox-series-x-for-280-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
