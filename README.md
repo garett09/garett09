@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter terminated its head of security Peiter &quot;Mudge&quot; Zatko this week; its Chief Information Security Officer Rinki Sethi will depart in the coming weeks &lpar;New York Times&rpar;](http://www.techmeme.com/220121/p1#a220121p1)
- - [Samsung says the ‘most Note-worthy’ S series phone will launch next month](https://www.androidauthority.com/samsung-february-2022-unpacked-noteworthy-3093962/)
- - [Galaxy S22 vs. Galaxy S21 FE: All the difference you could expect     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-fe-all-the-difference-you-could-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You told us: You like what you see from the Exynos 2200 on paper](https://www.androidauthority.com/exynos-2200-poll-results-3094631/)
+ - [Twitter terminated its head of security Peiter &quot;Mudge&quot; Zatko this week, and CISO Rinki Sethi will depart in the coming weeks; both execs joined Twitter in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/220121/p1#a220121p1)
+ - [Samsung says the ‘most Note-worthy’ S series phone will launch next month](https://www.androidauthority.com/samsung-february-2022-unpacked-noteworthy-3093962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
