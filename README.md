@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re happy to inform you that Apple’s isn’t requiring verification for education discounts anymore](https://www.theverge.com/2022/1/21/22894665/apple-education-discount-unidays-verification)
- - [Apple removes Unidays verification requirement for educational purchases](https://appleinsider.com/articles/22/01/21/apple-removes-unidays-verification-requirement-for-educational-purchases?utm_medium=rss)
- - [Amazon, Meta set lobbying spending records in 2021 as Apple&#39;s decreased](https://appleinsider.com/articles/22/01/21/amazon-meta-set-lobbying-spending-records-in-2021-as-apples-decreased?utm_medium=rss)<!-- TECH:END -->
+ - [American Airlines suing The Points Guy over app that syncs frequent flyer data](https://www.theverge.com/2022/1/21/22895317/american-airlines-the-points-guy-app-frequent-flyer-copyright)
+ - [CoinGecko: the cryptocurrency industry&#39;s total market cap fell to ~$1.8T amidst a selloff; Bitcoin fell to ~$36K, down 10+%, Ethereum fell to ~$2.6K, down 15+% &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220121/p17#a220121p17)
+ - [HBO Max: It&#39;s your last chance to stream Matrix Resurrections     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-movies-shows-premieres-watch-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
