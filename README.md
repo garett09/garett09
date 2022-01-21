@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PlayStation 5 is in stock at Target &lpar;update: sold out&rpar;](https://www.theverge.com/2022/1/21/22878518/sony-ps5-x-target-console-restock-availability-where-to-buy)
- - [The Cero One Is a Modern, Customizable Cargo Ebike](https://www.wired.com/review/cero-one)
- - [10 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)<!-- TECH:END -->
+ - [MSI Creator Z16 review: thin isn’t everything](https://www.theverge.com/22893308/msi-creator-z16-2021-review)
+ - [How Twitter could take NFTs mainstream](https://www.theverge.com/2022/1/21/22894142/twitter-nft-profile-picture-hexagon-circle-mainstream)
+ - [What is WhatsApp Business? How does it differ from regular WhatsApp?](https://www.androidauthority.com/whatsapp-business-3093665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
