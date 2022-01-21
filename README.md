@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phew. Highway patrol&#39;s Batman-themed emergency alert was only test     - CNET](https://www.cnet.com/news/phew-missouri-highway-patrol-batman-themed-emergency-alert-was-only-test/#ftag=CAD590a51e)
- - [Intel commits $20B to build at least two semiconductor fabrication plants on a 1,000-acre site by 2025, employing at least 3,000 people in New Albany, Ohio &lpar;Alana Semuels/TIME&rpar;](http://www.techmeme.com/220120/p46#a220120p46)
- - [The 33 best documentaries to watch on Netflix     - CNET](https://www.cnet.com/news/the-33-best-documentaries-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung says the ‘most Note-worthy’ S series phone will launch next month](https://www.androidauthority.com/samsung-february-2022-unpacked-noteworthy-3093962/)
+ - [Galaxy S22 vs. Galaxy S21 FE: All the difference you could expect     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-fe-all-the-difference-you-could-expect/#ftag=CAD590a51e)
+ - [Phew. Highway patrol&#39;s Batman-themed emergency alert was only test     - CNET](https://www.cnet.com/news/phew-missouri-highway-patrol-batman-themed-emergency-alert-was-only-test/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
