@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter terminated its head of security Peiter &quot;Mudge&quot; Zatko this week; its Chief Information Security Officer Rinki Sethi will depart in the coming weeks &lpar;New York Times&rpar;](http://www.techmeme.com/220121/p1#a220121p1)
  - [Samsung says the ‘most Note-worthy’ S series phone will launch next month](https://www.androidauthority.com/samsung-february-2022-unpacked-noteworthy-3093962/)
- - [Galaxy S22 vs. Galaxy S21 FE: All the difference you could expect     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-fe-all-the-difference-you-could-expect/#ftag=CAD590a51e)
- - [Phew. Highway patrol&#39;s Batman-themed emergency alert was only test     - CNET](https://www.cnet.com/news/phew-missouri-highway-patrol-batman-themed-emergency-alert-was-only-test/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S22 vs. Galaxy S21 FE: All the difference you could expect     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-fe-all-the-difference-you-could-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
