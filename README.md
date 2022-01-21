@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, at $20.3M, and Meta, at $20.1M, spent record sums on federal lobbying in 2021, both up ~7% YoY; Google spent $9.6M, up 27%; Apple spending fell to $6.5M &lpar;Karl Evers-Hillstrom/The Hill&rpar;](http://www.techmeme.com/220121/p15#a220121p15)
- - [Ozzy Osbourne’s NFT project shared a scam link, and followers lost thousands of dollars](https://www.theverge.com/2022/1/21/22895126/ozzy-osbourne-nft-scam-cryptobatz-hack-ethereum)
- - [GhostBed Flex Hybrid mattress review: Responsive memory foam for all body types     - CNET](https://www.cnet.com/health/sleep/ghostbed-flex-hybrid-mattress-review-responsive-memory-foam-for-all-body-types/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We’re happy to inform you that Apple’s isn’t requiring verification for education discounts anymore](https://www.theverge.com/2022/1/21/22894665/apple-education-discount-unidays-verification)
+ - [Apple removes Unidays verification requirement for educational purchases](https://appleinsider.com/articles/22/01/21/apple-removes-unidays-verification-requirement-for-educational-purchases?utm_medium=rss)
+ - [Amazon, Meta set lobbying spending records in 2021 as Apple&#39;s decreased](https://appleinsider.com/articles/22/01/21/amazon-meta-set-lobbying-spending-records-in-2021-as-apples-decreased?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
