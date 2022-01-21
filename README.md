@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel commits $20B to build two semiconductor fabrication plants on a 1,000 acre site, employing ~3,000 people, on outskirts of Columbus, Ohio &lpar;Alana Semuels/TIME&rpar;](http://www.techmeme.com/220120/p46#a220120p46)
- - [The 33 best documentaries to watch on Netflix     - CNET](https://www.cnet.com/news/the-33-best-documentaries-to-watch-on-netflix/#ftag=CAD590a51e)
- - [The best Nintendo Switch games to play right now     - CNET](https://www.cnet.com/pictures/nintendo-switch-the-best-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phew. Highway patrol&#39;s Batman-themed emergency alert was only test     - CNET](https://www.cnet.com/news/phew-missouri-highway-patrol-batman-themed-emergency-alert-was-only-test/#ftag=CAD590a51e)
+ - [Intel commits $20B to build at least two semiconductor fabrication plants on a 1,000-acre site by 2025, employing at least 3,000 people in New Albany, Ohio &lpar;Alana Semuels/TIME&rpar;](http://www.techmeme.com/220120/p46#a220120p46)
+ - [The 33 best documentaries to watch on Netflix     - CNET](https://www.cnet.com/news/the-33-best-documentaries-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
