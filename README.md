@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 16-inch MacBook Pro with 1TB SSD gets new $200 discount, in stock today](https://appleinsider.com/articles/22/01/21/apples-16-inch-macbook-pro-with-1tb-ssd-gets-new-200-discount-in-stock-today?utm_medium=rss)
- - [The Graph Foundation, which operates a protocol for indexing and querying blockchain data, raises $50M led by Tiger Global via a sale of its The Graph tokens &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220121/p2#a220121p2)
- - [WhatsApp readying ability to import chats from Android to iOS](https://www.androidauthority.com/whatsapp-import-chats-android-to-ios-3094645/)<!-- TECH:END -->
+ - [Intel to build $20 billion chip factory in Ohio](https://appleinsider.com/articles/22/01/21/intel-to-build-20-billion-chip-factory-in-ohio?utm_medium=rss)
+ - [This controller turns your Android phone into a portable Xbox](https://www.theverge.com/2022/1/21/22894588/nacon-rig-mg-x-review-xbox-mobile-controller)
+ - [Peloton halts production of fitness bikes, cites &#39;significant&#39; loss of demand](https://appleinsider.com/articles/22/01/20/peloton-halts-production-of-fitness-bikes-cites-significant-loss-of-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
