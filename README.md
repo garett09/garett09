@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crowdbotics, which lets users launch React Native and Django apps without having to learn code, raises a $22M combined seed and Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220121/p3#a220121p3)
- - [How to see your Spotify stats and what they show](https://www.androidauthority.com/how-to-see-spotify-stats-3094514/)
- - [10 Good N95, KN95, and Surgical Face Masks to Buy Right Now](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical)<!-- TECH:END -->
+ - [The PlayStation 5 is in stock at Target &lpar;update: sold out&rpar;](https://www.theverge.com/2022/1/21/22878518/sony-ps5-x-target-console-restock-availability-where-to-buy)
+ - [The Cero One Is a Modern, Customizable Cargo Ebike](https://www.wired.com/review/cero-one)
+ - [10 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
