@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix COO says it&#39;s &quot;open to licensing large game IP&quot;; job listings suggest it may launch Fortnite-like live service games that are regularly updated &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220121/p9#a220121p9)
- - [Don&#39;t Look Up Takes Aim at the Media](https://www.wired.com/2022/01/geeks-guide-dont-look-up)
- - [How to order free rapid COVID tests from the US government](https://www.theverge.com/22889745/rapid-covid-tests-free-website-how-to)<!-- TECH:END -->
+ - [Health monitoring startup Casana raises a $30M Series B as it gets ready to debut a smart toilet seat that measures heart rate and other vitals &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220121/p12#a220121p12)
+ - [&#39;Central Park&#39; season two restarts on Apple TV+ on March 4](https://appleinsider.com/articles/22/01/21/central-park-season-two-restarts-on-apple-tv-on-march-4?utm_medium=rss)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
