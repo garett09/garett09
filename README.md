@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You like what you see from the Exynos 2200 on paper](https://www.androidauthority.com/exynos-2200-poll-results-3094631/)
- - [Twitter terminated its head of security Peiter &quot;Mudge&quot; Zatko this week, and CISO Rinki Sethi will depart in the coming weeks; both execs joined Twitter in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/220121/p1#a220121p1)
- - [Samsung says the ‘most Note-worthy’ S series phone will launch next month](https://www.androidauthority.com/samsung-february-2022-unpacked-noteworthy-3093962/)<!-- TECH:END -->
+ - [Apple&#39;s 16-inch MacBook Pro with 1TB SSD gets new $200 discount, in stock today](https://appleinsider.com/articles/22/01/21/apples-16-inch-macbook-pro-with-1tb-ssd-gets-new-200-discount-in-stock-today?utm_medium=rss)
+ - [The Graph Foundation, which operates a protocol for indexing and querying blockchain data, raises $50M led by Tiger Global via a sale of its The Graph tokens &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220121/p2#a220121p2)
+ - [WhatsApp readying ability to import chats from Android to iOS](https://www.androidauthority.com/whatsapp-import-chats-android-to-ios-3094645/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
