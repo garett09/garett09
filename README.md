@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reserve your Samsung Galaxy S22 or Galaxy Tab S8 now, earn $50 credit](https://www.androidauthority.com/reserve-galaxy-s22-3094809/)
- - [Want to preorder Samsung’s next Galaxy phone sight unseen? You can](https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders)
- - [Best deals Jan. 21: 2020 1TB 11-inch iPad Pro for $860, Xbox Series X for $280, more!](https://appleinsider.com/articles/22/01/21/best-deals-jan-21-2020-1tb-11-inch-ipad-pro-for-860-xbox-series-x-for-280-more?utm_medium=rss)<!-- TECH:END -->
+ - [Vergecast: Microsoft to acquire Activision,  Google building a headset, and the 5G battle with airlines](https://www.theverge.com/2022/1/21/22894856/vergecast-podcast-482-microsoft-activision-deal-google-ar-headset-5g-airlines)
+ - [Investigation finds that Binance withheld info from regulators and maintained weak checks on customers even as it publicly welcomed regulatory oversight &lpar;Reuters&rpar;](http://www.techmeme.com/220121/p6#a220121p6)
+ - [Edit and share PDFs with ease on your Mac, iPhone or iPad for 62% less today     - CNET](https://www.cnet.com/tech/services-and-software/edit-and-share-pdfs-with-ease-on-your-mac-iphone-or-ipad-for-62-less-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
