@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Facebook became indispensable in Africa with its ease of access, importance to small businesses, its facilitating of community organizing, and more &lpar;Nesrine Malik/The Guardian&rpar;](http://www.techmeme.com/220120/p45#a220120p45)
- - [New Apple ads highlight battery life, durability of the iPhone 13](https://appleinsider.com/articles/22/01/21/new-apple-ads-highlight-battery-life-durability-of-the-iphone-13?utm_medium=rss)
- - [Inside DARPA&#39;s Air Combat Evolution program, which aims to design AI that can fly a plane and engage in aerial combat without a human pilot &lpar;Sue Halpern/New Yorker&rpar;](http://www.techmeme.com/220120/p44#a220120p44)<!-- TECH:END -->
+ - [Intel commits $20B to build two semiconductor fabrication plants on a 1,000 acre site, employing ~3,000 people, on outskirts of Columbus, Ohio &lpar;Alana Semuels/TIME&rpar;](http://www.techmeme.com/220120/p46#a220120p46)
+ - [The 33 best documentaries to watch on Netflix     - CNET](https://www.cnet.com/news/the-33-best-documentaries-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [The best Nintendo Switch games to play right now     - CNET](https://www.cnet.com/pictures/nintendo-switch-the-best-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
