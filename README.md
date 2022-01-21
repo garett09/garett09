@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to protect your PC from ransomware using Windows’ built-in protection](https://www.theverge.com/22889631/windows-10-11-ransomware-defense-security-how-to)
- - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)
- - [Nike’s accessible ACG Gaiadome FlyEase Boot will be for athletes only](https://www.theverge.com/2022/1/21/22894903/nike-olympics-paralympics-flyease-gaiadome)<!-- TECH:END -->
+ - [Google sued for allegedly forcing DJs to lie about how great the Pixel 4 was](https://www.androidauthority.com/google-pixel-4-ads-3094978/)
+ - [Picard’s first season 2 trailer has Guinan going for it](https://www.theverge.com/2022/1/21/22895213/star-trek-picard-season-2-guinan)
+ - [Army wife uses AirTags to track shady movers](https://appleinsider.com/articles/22/01/19/army-wife-uses-airtag-to-track-late-moving-truck-driver-during-a-relocation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
