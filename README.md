@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel to build $20 billion chip factory in Ohio](https://appleinsider.com/articles/22/01/21/intel-to-build-20-billion-chip-factory-in-ohio?utm_medium=rss)
- - [This controller turns your Android phone into a portable Xbox](https://www.theverge.com/2022/1/21/22894588/nacon-rig-mg-x-review-xbox-mobile-controller)
- - [Peloton halts production of fitness bikes, cites &#39;significant&#39; loss of demand](https://appleinsider.com/articles/22/01/20/peloton-halts-production-of-fitness-bikes-cites-significant-loss-of-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Crowdbotics, which lets users launch React Native and Django apps without having to learn code, raises a $22M combined seed and Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220121/p3#a220121p3)
+ - [How to see your Spotify stats and what they show](https://www.androidauthority.com/how-to-see-spotify-stats-3094514/)
+ - [10 Good N95, KN95, and Surgical Face Masks to Buy Right Now](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
