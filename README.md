@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [OnePlus 9RT review: A lackluster return to value flagships](https://www.androidauthority.com/oneplus-9rt-review-3089014/)
- - [How Ohio attracted Intel to build semiconductor plants, including pursuing execs for eight months, financial incentives, sustainability commitments, and more &lpar;Mark Williams/The Columbus Dispatch&rpar;](http://www.techmeme.com/220122/p2#a220122p2)
- - [Shopify confirms it canceled contracts with warehouse and fulfillment partners, but says its capacity to handle orders won&#39;t be affected; stock closed down 14% &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220122/p1#a220122p1)<!-- TECH:END -->
+ - [Coming in February: Samsung&#39;s next Unpacked event will feature the Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-samsung-event/#ftag=CAD590a51e)
+ - [How Ohio attracted Intel to build semiconductor plants, including pursuing execs for eight months, financial incentives, sustainability commitments, and more &lpar;Mark Williams/The Columbus Dispatch&rpar;](http://www.techmeme.com/220122/p2#a220122p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
