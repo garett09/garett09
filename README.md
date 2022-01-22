@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US athletes told to use burner phones at Beijing Winter Olympics](https://www.theverge.com/2022/1/22/22896398/winter-olympics-2022-beijing-us-athletes-burner-phones)
- - [NFL Playoffs: How to watch Bengals vs. Titans, 49ers vs. Packers without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-playoffs-how-to-watch-bengals-vs-titans-49ers-vs-packers-without-cable/#ftag=CAD590a51e)
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)<!-- TECH:END -->
+ - [The best Thunderbolt docking stations for laptops](https://www.androidauthority.com/best-docking-stations-3088119/)
+ - [How advances in semiconductor fabrication equipment are being applied to the production of nano-scale microelectromechanical systems, or MEMS &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220122/p6#a220122p6)
+ - [App Store virtual event, account deletion rule changes delayed until June](https://appleinsider.com/articles/22/01/22/app-store-virtual-event-account-deletion-rule-changes-delayed-until-june?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
