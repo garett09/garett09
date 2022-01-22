@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anitian, which offers enterprise cloud security and compliance software, raises a $55M Series B led by Sageview Capital, bringing its total funding to $71M &lpar;Malia Spencer/Portland Business Journal&rpar;](http://www.techmeme.com/220121/p22#a220121p22)
- - [A look at ID.me, which will soon be used to verify IRS.gov logins and claims to have uncovered a $400B theft of US pandemic unemployment payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/220121/p21#a220121p21)
- - [Apple reportedly removes education discount verification     - CNET](https://www.cnet.com/tech/computing/apple-reportedly-removes-education-discount-verification/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shopify confirms it canceled contracts with warehouse and fulfillment partners, but says its capacity to handle orders won&#39;t be affected; stock closed down 14% &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220122/p1#a220122p1)
+ - [iPhone Flip rumors: Everything we know about Apple&#39;s foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/iphone-flip-rumors-everything-we-know-about-apples-foldable-iphone/#ftag=CAD590a51e)
+ - [Anitian, which offers enterprise cloud security and compliance software, raises a $55M Series B led by Sageview Capital, bringing its total funding to $71M &lpar;Malia Spencer/Portland Business Journal&rpar;](http://www.techmeme.com/220121/p22#a220121p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
