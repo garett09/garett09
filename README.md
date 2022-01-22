@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Ebook Subscription Services for Your Literary Needs](https://www.wired.com/gallery/best-ebook-subscription-services)
- - [TikTok Has Created a West Elm Caleb Cinematic Universe](https://www.wired.com/story/tiktok-west-elm-caleb-cinematic-universe)
- - [Becoming a photography gear minimalist: What do you actually need?](https://www.androidauthority.com/photography-gear-minimalist-3081992/)<!-- TECH:END -->
+ - [Don’t be shy, Android skins. Flaunt your best features.](https://www.androidauthority.com/android-skins-commentary-3093771/)
+ - [Got an Invasive Army of Crayfish Clones? Try Eating Them](https://www.wired.com/story/got-an-invasive-army-of-crayfish-clones-try-eating-them)
+ - [Should You Get a Mac With Apple’s New Chips—or Stick With Intel?](https://www.wired.com/story/apple-mac-intel-switch-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
