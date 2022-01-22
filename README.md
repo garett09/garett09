@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nowsta, which runs an on-demand labor marketplace and develops tools to help companies manage their hourly, gig, and flex workers, raises a $41M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220122/p3#a220122p3)
- - [OnePlus 9RT review: A lackluster return to value flagships](https://www.androidauthority.com/oneplus-9rt-review-3089014/)
- - [Coming in February: Samsung&#39;s next Unpacked event will feature the Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-samsung-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Ebook Subscription Services for Your Literary Needs](https://www.wired.com/gallery/best-ebook-subscription-services)
+ - [TikTok Has Created a West Elm Caleb Cinematic Universe](https://www.wired.com/story/tiktok-west-elm-caleb-cinematic-universe)
+ - [Becoming a photography gear minimalist: What do you actually need?](https://www.androidauthority.com/photography-gear-minimalist-3081992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
