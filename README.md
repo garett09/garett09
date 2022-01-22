@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital cash gets a look from the Fed](https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency)
- - [NASA captures violent flash from sun&#39;s mini eruption     - CNET](https://www.cnet.com/news/nasa-captures-violent-flash-from-suns-mini-eruption/#ftag=CAD590a51e)
- - [Sleep soundly this winter when you shop these bedding and mattress sales     - CNET](https://www.cnet.com/health/sleep/sleep-soundly-this-winter-when-you-shop-these-beddings-and-mattress-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [US tech firms&#39; &quot;nearshoring&quot; of talent from Latin America, driven by cheaper costs and similar time zones, is leading to staffing shortages for LatAm tech firms &lpar;Vittoria Elliott/Rest of World&rpar;](http://www.techmeme.com/220121/p20#a220121p20)
+ - [Digital cash gets a look from the Fed](https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
