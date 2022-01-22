@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
- - [Have you considered what happens to your online life when you die?](https://www.androidauthority.com/online-life-after-you-die-3089519/)
- - [iPhone 13 &#39;pink screen&#39; issue affects small number of users](https://appleinsider.com/articles/22/01/22/iphone-13-pink-screen-issue-affects-small-number-of-users?utm_medium=rss)<!-- TECH:END -->
+ - [US athletes told to use burner phones at Beijing Winter Olympics](https://www.theverge.com/2022/1/22/22896398/winter-olympics-2022-beijing-us-athletes-burner-phones)
+ - [NFL Playoffs: How to watch Bengals vs. Titans, 49ers vs. Packers without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-playoffs-how-to-watch-bengals-vs-titans-49ers-vs-packers-without-cable/#ftag=CAD590a51e)
+ - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
