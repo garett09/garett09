@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [American Airlines suing The Points Guy over app that syncs frequent flyer data](https://www.theverge.com/2022/1/21/22895317/american-airlines-the-points-guy-app-frequent-flyer-copyright)
- - [CoinGecko: the cryptocurrency industry&#39;s total market cap fell to ~$1.8T amidst a selloff; Bitcoin fell to ~$36K, down 10+%, Ethereum fell to ~$2.6K, down 15+% &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220121/p17#a220121p17)
- - [HBO Max: It&#39;s your last chance to stream Matrix Resurrections     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-movies-shows-premieres-watch-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based Moss, which offers a spend management service with credit cards to SMBs, raises a &amp;euro;75M Series B led by Tiger Global at a &amp;euro;500M valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220121/p19#a220121p19)
+ - [Amazon facing formal complaint from labor board over worker firing](https://www.theverge.com/2022/1/21/22895668/amazon-facing-formal-complaint-from-labor-board-over-worker-firing)
+ - [Researchers: 93 themes and plugins for WordPress downloaded from AccessPress had backdoors dating back to September, allowing attackers full admin control &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220121/p18#a220121p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
