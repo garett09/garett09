@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-416-3094526/)
- - [Best deals Jan. 22: $850 12.9-inch iPad Pro, $425 off Roomba combo, more!](https://appleinsider.com/articles/22/01/22/best-deals-jan-22-850-129-inch-ipad-pro-425-off-roomba-combo-more?utm_medium=rss)
- - [NYC Mayor takes pay cut as cryptocurrency market plunges](https://www.theverge.com/2022/1/22/22896232/nyc-mayor-bitcoin-crypto-market-eric-adams)<!-- TECH:END -->
+ - [iPhone 13 &#39;pink screen&#39; issue affects small number of users](https://appleinsider.com/articles/22/01/22/iphone-13-pink-screen-issue-affects-small-number-of-users?utm_medium=rss)
+ - [Plaid acquires Cognito, which offers ID verification and compliance services to financial firms, source says for ~$250M in cash and stock &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220122/p5#a220122p5)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-416-3094526/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
