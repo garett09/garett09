@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What we know about Intel’s $20 billion bet on Ohio — and US manufacturing](https://www.theverge.com/2022/1/22/22895447/intel-ohio-chip-fab-manufacturing-cpu-processor-explained)
- - [Bengaluru-based StockGro, a social investment startup with a gamified app for learning about and participating in stock markets, raises a $32M Series A &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/220122/p4#a220122p4)
- - [2022 Bentley Flying Spur Hybrid, Cadillac Escalade V and more: Roadshow&#39;s week in review     - Roadshow](https://www.cnet.com/roadshow/news/2022-bentley-flying-spur-hybrid-cadillac-escalade-v-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s mismanaged Exynos 2200 launch is an ominous sign for the Galaxy S22](https://www.androidauthority.com/samsung-mismanaged-exynos-2200-3093464/)
+ - [Grab this $10 Play and Charge Kit for Xbox and never have to stop a session again     - CNET](https://www.cnet.com/tech/gaming/grab-this-10-play-and-charge-kit-for-xbox-and-never-have-to-stop-a-session-again/#ftag=CAD590a51e)
+ - [Best deals Jan. 22: $850 12.9-inch iPad Pro, $425 off Roomba combo, more!](https://appleinsider.com/articles/22/01/22/best-deals-jan-22-850-129-inch-ipad-pro-425-off-roomba-combo-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
