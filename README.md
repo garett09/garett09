@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s mismanaged Exynos 2200 launch is an ominous sign for the Galaxy S22](https://www.androidauthority.com/samsung-mismanaged-exynos-2200-3093464/)
- - [Grab this $10 Play and Charge Kit for Xbox and never have to stop a session again     - CNET](https://www.cnet.com/tech/gaming/grab-this-10-play-and-charge-kit-for-xbox-and-never-have-to-stop-a-session-again/#ftag=CAD590a51e)
- - [Best deals Jan. 22: $850 12.9-inch iPad Pro, $425 off Roomba combo, more!](https://appleinsider.com/articles/22/01/22/best-deals-jan-22-850-129-inch-ipad-pro-425-off-roomba-combo-more?utm_medium=rss)<!-- TECH:END -->
+ - [6 Activision Blizzard franchises perfect for an Xbox revival after $68bn deal](https://www.androidauthority.com/activision-blizzard-franchises-microsoft-xbox-revive-3092616/)
+ - [Apple signs multi-year live-action film deal with Skydance Media](https://appleinsider.com/articles/22/01/22/apple-signs-multi-year-live-action-film-deal-with-skydance-media?utm_medium=rss)
+ - [YouTube TV is $10 off for your first three months](https://www.theverge.com/good-deals/2022/1/22/22894955/youtube-tv-apple-airpods-xbox-headset-amazon-fire-tablet-ravpower-myq-chamberlain-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
