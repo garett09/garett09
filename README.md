@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK Apple Stores start to accept walk-in customers again](https://appleinsider.com/articles/22/01/22/uk-apple-stores-start-to-accept-walk-in-customers-again?utm_medium=rss)
  - [WhatsApp may soon let you transfer your chats from Android to iOS](https://www.theverge.com/2022/1/22/22896666/whatsapp-android-to-ios-transfer-feature-rumor)
- - [The best Thunderbolt docking stations for laptops](https://www.androidauthority.com/best-docking-stations-3088119/)
- - [How advances in semiconductor fabrication equipment are being applied to the production of nano-scale microelectromechanical systems, or MEMS &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220122/p6#a220122p6)<!-- TECH:END -->
+ - [The best Thunderbolt docking stations for laptops](https://www.androidauthority.com/best-docking-stations-3088119/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
