@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t be shy, Android skins. Flaunt your best features.](https://www.androidauthority.com/android-skins-commentary-3093771/)
- - [Got an Invasive Army of Crayfish Clones? Try Eating Them](https://www.wired.com/story/got-an-invasive-army-of-crayfish-clones-try-eating-them)
- - [Should You Get a Mac With Apple’s New Chips—or Stick With Intel?](https://www.wired.com/story/apple-mac-intel-switch-guide)<!-- TECH:END -->
+ - [What we know about Intel’s $20 billion bet on Ohio — and US manufacturing](https://www.theverge.com/2022/1/22/22895447/intel-ohio-chip-fab-manufacturing-cpu-processor-explained)
+ - [Bengaluru-based StockGro, a social investment startup with a gamified app for learning about and participating in stock markets, raises a $32M Series A &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/220122/p4#a220122p4)
+ - [2022 Bentley Flying Spur Hybrid, Cadillac Escalade V and more: Roadshow&#39;s week in review     - Roadshow](https://www.cnet.com/roadshow/news/2022-bentley-flying-spur-hybrid-cadillac-escalade-v-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
