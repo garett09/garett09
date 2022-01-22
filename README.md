@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at ID.me, which will soon be used to verify IRS.gov logins and claims to have uncovered a $400B theft of US pandemic unemployment payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/220121/p21#a220121p21)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [US tech firms&#39; &quot;nearshoring&quot; of talent from Latin America, driven by cheaper costs and similar time zones, is leading to staffing shortages for LatAm tech firms &lpar;Vittoria Elliott/Rest of World&rpar;](http://www.techmeme.com/220121/p20#a220121p20)
- - [Digital cash gets a look from the Fed](https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency)<!-- TECH:END -->
+ - [US tech firms&#39; &quot;nearshoring&quot; of talent from Latin America, driven by cheaper costs and similar time zones, is leading to staffing shortages for LatAm tech firms &lpar;Vittoria Elliott/Rest of World&rpar;](http://www.techmeme.com/220121/p20#a220121p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
