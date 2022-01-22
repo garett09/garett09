@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ohio attracted Intel to build semiconductor plants, including pursuing execs for eight months, financial incentives, sustainability commitments, and more &lpar;Mark Williams/The Columbus Dispatch&rpar;](http://www.techmeme.com/220122/p2#a220122p2)
  - [Shopify confirms it canceled contracts with warehouse and fulfillment partners, but says its capacity to handle orders won&#39;t be affected; stock closed down 14% &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220122/p1#a220122p1)
- - [iPhone Flip rumors: Everything we know about Apple&#39;s foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/iphone-flip-rumors-everything-we-know-about-apples-foldable-iphone/#ftag=CAD590a51e)
- - [Anitian, which offers enterprise cloud security and compliance software, raises a $55M Series B led by Sageview Capital, bringing its total funding to $71M &lpar;Malia Spencer/Portland Business Journal&rpar;](http://www.techmeme.com/220121/p22#a220121p22)<!-- TECH:END -->
+ - [iPhone Flip rumors: Everything we know about Apple&#39;s foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/iphone-flip-rumors-everything-we-know-about-apples-foldable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
