@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anitian, which offers enterprise cloud security and compliance software, raises a $55M Series B led by Sageview Capital, bringing its total funding to $71M &lpar;Malia Spencer/Portland Business Journal&rpar;](http://www.techmeme.com/220121/p22#a220121p22)
  - [A look at ID.me, which will soon be used to verify IRS.gov logins and claims to have uncovered a $400B theft of US pandemic unemployment payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/220121/p21#a220121p21)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [US tech firms&#39; &quot;nearshoring&quot; of talent from Latin America, driven by cheaper costs and similar time zones, is leading to staffing shortages for LatAm tech firms &lpar;Vittoria Elliott/Rest of World&rpar;](http://www.techmeme.com/220121/p20#a220121p20)<!-- TECH:END -->
+ - [Apple reportedly removes education discount verification     - CNET](https://www.cnet.com/tech/computing/apple-reportedly-removes-education-discount-verification/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
