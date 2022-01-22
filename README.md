@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Moss, which offers a spend management service with credit cards to SMBs, raises a &amp;euro;75M Series B led by Tiger Global at a &amp;euro;500M valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220121/p19#a220121p19)
- - [Amazon facing formal complaint from labor board over worker firing](https://www.theverge.com/2022/1/21/22895668/amazon-facing-formal-complaint-from-labor-board-over-worker-firing)
- - [Researchers: 93 themes and plugins for WordPress downloaded from AccessPress had backdoors dating back to September, allowing attackers full admin control &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220121/p18#a220121p18)<!-- TECH:END -->
+ - [Digital cash gets a look from the Fed](https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency)
+ - [NASA captures violent flash from sun&#39;s mini eruption     - CNET](https://www.cnet.com/news/nasa-captures-violent-flash-from-suns-mini-eruption/#ftag=CAD590a51e)
+ - [Sleep soundly this winter when you shop these bedding and mattress sales     - CNET](https://www.cnet.com/health/sleep/sleep-soundly-this-winter-when-you-shop-these-beddings-and-mattress-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
