@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 &#39;pink screen&#39; issue affects small number of users](https://appleinsider.com/articles/22/01/22/iphone-13-pink-screen-issue-affects-small-number-of-users?utm_medium=rss)
- - [Plaid acquires Cognito, which offers ID verification and compliance services to financial firms, source says for ~$250M in cash and stock &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220122/p5#a220122p5)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-416-3094526/)<!-- TECH:END -->
+ - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
+ - [Have you considered what happens to your online life when you die?](https://www.androidauthority.com/online-life-after-you-die-3089519/)
+ - [iPhone 13 &#39;pink screen&#39; issue affects small number of users](https://appleinsider.com/articles/22/01/22/iphone-13-pink-screen-issue-affects-small-number-of-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
