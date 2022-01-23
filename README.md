@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [People with this certain gene version less likely to develop severe COVID-19](https://techncruncher.blogspot.com/2022/01/people-with-this-certain-gene-version.html)
- - [Now Is a Good Time to Update Your Recovery Email Addresses](https://www.wired.com/story/update-recovery-email-addresses)
- - [Scientists scrutinise characteristics of new Omicron sub-variant](https://techncruncher.blogspot.com/2022/01/scientists-scrutinise-characteristics.html)<!-- TECH:END -->
+ - [Berlin-based Lendis, which helps companies set up and manage employees&#39; equipment and software for hybrid work, raises an &amp;euro;80M Series A in equity and debt &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/220123/p2#a220123p2)
+ - [40+ really cool Android gestures you need to know](https://www.androidauthority.com/android-gestures-3077957/)
+ - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.wired.com/story/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
