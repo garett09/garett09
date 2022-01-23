@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU Parliament passed Digital Services Act, including provisions banning targeted ads based on highly sensitive personal data, limiting dark patterns, and more &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/220122/p8#a220122p8)
  - [Dark Souls 3 exploit could let hackers take control of your entire computer](https://www.theverge.com/2022/1/22/22896785/dark-souls-3-remote-execution-exploit-rce-exploit-online-hack)
- - [How UK theater companies are using AR and VR to broadcast productions to viewers at home, as the pandemic pushes companies to experiment with new art forms &lpar;Andrew Dickson/New York Times&rpar;](http://www.techmeme.com/220122/p7#a220122p7)
- - [UK Apple Stores start to accept walk-in customers again](https://appleinsider.com/articles/22/01/22/uk-apple-stores-start-to-accept-walk-in-customers-again?utm_medium=rss)<!-- TECH:END -->
+ - [How UK theater companies are using AR and VR to broadcast productions to viewers at home, as the pandemic pushes companies to experiment with new art forms &lpar;Andrew Dickson/New York Times&rpar;](http://www.techmeme.com/220122/p7#a220122p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
