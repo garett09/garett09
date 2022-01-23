@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brussels today.](http://9gag.com/gag/ang5RW0)
- - 🚯 [Karen wanted the smoke. Gets clapped.](http://9gag.com/gag/ay9oqRM)
- - 🚯 [Do we need any words?](http://9gag.com/gag/aGzgL37)<!-- MEMES:END -->
+ - 🚖 [Senior dogs](http://9gag.com/gag/axB7vZW)
+ - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
+ - 🚯 [This is what 300 feet under water would do to you](http://9gag.com/gag/a61NXb8)<!-- MEMES:END -->
 
 --- 
 
