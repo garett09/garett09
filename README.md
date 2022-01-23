@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Senior dogs](http://9gag.com/gag/axB7vZW)
- - 🚯 [Friendly reminder](http://9gag.com/gag/apg534B)
- - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)<!-- MEMES:END -->
+ - 🚖 [Enough said!](http://9gag.com/gag/axB76ZL)
+ - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
+ - 🚯 [Quality stufff](http://9gag.com/gag/a91RvxW)<!-- MEMES:END -->
 
 --- 
 
