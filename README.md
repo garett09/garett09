@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Me playing wow 16 years ago today.](http://9gag.com/gag/ajg57gq)
- - 🚯 [Deer gets revenge on hunter](http://9gag.com/gag/a31RGAr)
+ - 🚯 [Man was stunned](http://9gag.com/gag/arnoyBK)
  - 🚯 [UFC fighter jumps into Joe Rogan&amp;#039;s arms](http://9gag.com/gag/ang5O5B)<!-- MEMES:END -->
 
 --- 
