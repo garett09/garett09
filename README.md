@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the features we’d like to see in the Nest Audio 2](https://www.androidauthority.com/nest-audio-2-features-3093749/)
- - [Analysis: AR and VR startups raised ~$1.9B in Q4 2021, more than any quarter ever, making 2021 the second-best year for AR/VR investments with ~$3.9B raised &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220123/p3#a220123p3)
- - [Dark Souls 3 exploit could let hackers take control of your entire computer](https://www.theverge.com/2022/1/22/22896785/dark-souls-3-remote-execution-exploit-rce-exploit-online-hack)<!-- TECH:END -->
+ - [Speck Presidio Folio for MagSafe review: Portable charging convenience](https://appleinsider.com/articles/22/01/23/speck-presidio-folio-for-magsafe-review-portable-charging-convenience?utm_medium=rss)
+ - [Apple extends in-app purchase exemption for online group and event apps yet again](https://www.theverge.com/2022/1/23/22896736/apple-in-app-purchase-exemption-deadline-online-group-services-extended)
+ - [These are the features we’d like to see in the Nest Audio 2](https://www.androidauthority.com/nest-audio-2-features-3093749/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
