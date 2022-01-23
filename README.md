@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deer gets revenge on hunter](http://9gag.com/gag/a31RGAr)
- - 🚯 [Something there, hooman](http://9gag.com/gag/aPZRxjg)
- - 🚯 [When your friend stays over and you have to inflate the airbed](http://9gag.com/gag/a41RnMZ)<!-- MEMES:END -->
+ - 🚖 [When your friend stays over and you have to inflate the airbed](http://9gag.com/gag/a41RnMZ)
+ - 🚯 [Nobody reads this](http://9gag.com/gag/aKmdAXb)
+ - 🚯 [Do we need any words?](http://9gag.com/gag/aGzgL37)<!-- MEMES:END -->
 
 --- 
 
