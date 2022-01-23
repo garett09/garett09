@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hard-Core Home Bakers, This Is the Mixer of Your Dreams](https://www.wired.com/review/ankarsrum-assistent-original)
- - [Berlin-based Lendis, which helps companies set up and manage employees&#39; equipment and software for hybrid work, raises an &amp;euro;80M Series A in equity and debt &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/220123/p2#a220123p2)
- - [40+ really cool Android gestures you need to know](https://www.androidauthority.com/android-gestures-3077957/)<!-- TECH:END -->
+ - [Will movie theaters ever make a full comeback in the age of streaming?](https://www.androidauthority.com/movie-theaters-vs-streaming-services-3093835/)
+ - [Yet another TV show features a character having a heart attack on a Peloton](https://www.theverge.com/2022/1/23/22895860/peloton-billions-heart-attack-mr-big-showtime-tv)
+ - [Fall of 2022 will be Apple&#39;s biggest ever, if rumors are correct](https://appleinsider.com/articles/22/01/23/fall-of-2022-will-be-apples-biggest-ever-if-rumors-are-correct?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
