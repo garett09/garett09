@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ozark might be about how getting a promotion in America can suck](https://www.polygon.com/22897875/ozark-season-4-part-1-episode-1-2-recap)
- - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)
- - [Halo Infinite Devs Can&#39;t Replace XP Boosts Wasted During Server Outages](https://kotaku.com/halo-infinite-343-xp-boosts-servers-xbox-1848407689)<!-- GAME:END -->
+ - [Raven QA strike ends, at least for now](https://www.pcgamer.com/raven-qa-strike-ends-at-least-for-now)
+ - [The Week In Games: Arceus, I Choose You!](https://kotaku.com/the-week-in-games-arceus-i-choose-you-1848407880)
+ - [Dark Souls PvP servers are down as security vulnerability is investigated](https://www.pcgamer.com/psa-dont-play-dark-souls-3-until-a-new-remote-code-execution-vulnerability-is-patched)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
