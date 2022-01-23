@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Innocent mind](http://9gag.com/gag/apg5Rwp)
- - 🚯 [Why](http://9gag.com/gag/aDDg2LN)
- - 🚯 [Alfa male](http://9gag.com/gag/aVx0vv8)<!-- MEMES:END -->
+ - 🚖 [Me playing wow 16 years ago today.](http://9gag.com/gag/ajg57gq)
+ - 🚯 [Deer gets revenge on hunter](http://9gag.com/gag/a31RGAr)
+ - 🚯 [UFC fighter jumps into Joe Rogan&amp;#039;s arms](http://9gag.com/gag/ang5O5B)<!-- MEMES:END -->
 
 --- 
 
