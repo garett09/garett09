@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your friend stays over and you have to inflate the airbed](http://9gag.com/gag/a41RnMZ)
- - 🚯 [Nobody reads this](http://9gag.com/gag/aKmdAXb)
- - 🚯 [Do we need any words?](http://9gag.com/gag/aGzgL37)<!-- MEMES:END -->
+ - 🚖 [Ever wondered what a happy Koala sounds like when you pet it?](http://9gag.com/gag/amg514y)
+ - 🚯 [Welcome to Poland. Polish church is defending confirmed pedophile priest by claiming to the court that sexual relations were source of pleasure for the kid. Victim at that time was a 12 years boy.](http://9gag.com/gag/aQX1gr2)
+ - 🚯 [This is what 300 feet under water would do to you](http://9gag.com/gag/a61NXb8)<!-- MEMES:END -->
 
 --- 
 
