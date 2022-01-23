@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane embraces queer aesthetics, but settles for a maybeship](https://www.polygon.com/22893769/arcane-vi-caitlyn-lgbtq-characters-queer-netflix)
- - [You&#39;ll be able to earn Halo Infinite&#39;s premium currency in-game starting Season 2](https://www.pcgamer.com/youll-be-able-to-earn-halo-infinites-premium-currency-in-game-starting-season-2)
- - [PSA: Don&#39;t play Dark Souls 3 until a new remote code execution vulnerability is patched](https://www.pcgamer.com/psa-dont-play-dark-souls-3-until-a-new-remote-code-execution-vulnerability-is-patched)<!-- GAME:END -->
+ - [Breaking down ’70s classics influencing Matt Reeves’ The Batman](https://www.polygon.com/22895128/the-batman-2022-movies-to-watch-before-release)
+ - [Sunday Comics: There!](https://kotaku.com/sunday-comics-there-1848407204)
+ - [Arcane embraces queer aesthetics, but settles for a maybeship](https://www.polygon.com/22893769/arcane-vi-caitlyn-lgbtq-characters-queer-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
