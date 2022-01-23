@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me playing wow 16 years ago today.](http://9gag.com/gag/ajg57gq)
- - 🚯 [Man was stunned](http://9gag.com/gag/arnoyBK)
+ - 🚖 [When your friend stays over and you have to inflate the airbed](http://9gag.com/gag/a41RnMZ)
+ - 🚯 [On standby](http://9gag.com/gag/agg5mPr)
  - 🚯 [UFC fighter jumps into Joe Rogan&amp;#039;s arms](http://9gag.com/gag/ang5O5B)<!-- MEMES:END -->
 
 --- 
