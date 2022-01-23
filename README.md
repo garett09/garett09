@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is readying the widest array of new hardware products in its history this fall; Joe Bass, head of software engineering for Apple&#39;s car team left &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220123/p5#a220123p5)
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
- - [New iPad Pro in the fall could have Apple Silicon M2 chip, maybe not MagSafe](https://appleinsider.com/articles/22/01/23/fall-ipad-pro-refresh-could-gain-m2-chip-but-maybe-not-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S22 European price leak suggests a base Ultra model with less RAM](https://www.theverge.com/2022/1/23/22897808/samsung-galaxy-s22-european-price-leaks-rumors)
+ - [Save up to $100 on AirPods, AirPods Pro, AirPods Max at Amazon](https://appleinsider.com/articles/22/01/23/save-up-to-100-on-airpods-airpods-pro-airpods-max-at-amazon?utm_medium=rss)
+ - [Fourth M1 chip with 12-core CPU may arrive in updated iMac Pro](https://appleinsider.com/articles/22/01/23/fourth-m1-chip-with-12-core-cpu-may-arrive-in-updated-imac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
