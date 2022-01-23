@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Senior dogs](http://9gag.com/gag/axB7vZW)
- - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
- - 🚯 [This is what 300 feet under water would do to you](http://9gag.com/gag/a61NXb8)<!-- MEMES:END -->
+ - 🚯 [Friendly reminder](http://9gag.com/gag/apg534B)
+ - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)<!-- MEMES:END -->
 
 --- 
 
