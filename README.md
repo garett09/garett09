@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi 11 revisited: Is it worth buying one year later?](https://www.androidauthority.com/xiaomi-mi-11-review-revisited-3080762/)
- - [How longstanding disagreements between the FCC and FAA over potential risks to aircraft remained unresolved in the lead up to the 5G C-band rollout in the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220123/p1#a220123p1)
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)<!-- TECH:END -->
+ - [People with this certain gene version less likely to develop severe COVID-19](https://techncruncher.blogspot.com/2022/01/people-with-this-certain-gene-version.html)
+ - [Now Is a Good Time to Update Your Recovery Email Addresses](https://www.wired.com/story/update-recovery-email-addresses)
+ - [Scientists scrutinise characteristics of new Omicron sub-variant](https://techncruncher.blogspot.com/2022/01/scientists-scrutinise-characteristics.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
