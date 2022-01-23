@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enough said!](http://9gag.com/gag/axB76ZL)
- - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
- - 🚯 [Quality stufff](http://9gag.com/gag/a91RvxW)<!-- MEMES:END -->
+ - 🚖 [What is love?](http://9gag.com/gag/aQX1QX2)
+ - 🚯 [Grew up with not much in a 3rd world country, now at 24 with a good job was finally able to buy me nice things](http://9gag.com/gag/a815631)
+ - 🚯 [Ever wondered what a happy Koala sounds like when you pet it?](http://9gag.com/gag/amg514y)<!-- MEMES:END -->
 
 --- 
 
