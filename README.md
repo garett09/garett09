@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will movie theaters ever make a full comeback in the age of streaming?](https://www.androidauthority.com/movie-theaters-vs-streaming-services-3093835/)
- - [Yet another TV show features a character having a heart attack on a Peloton](https://www.theverge.com/2022/1/23/22895860/peloton-billions-heart-attack-mr-big-showtime-tv)
- - [Fall of 2022 will be Apple&#39;s biggest ever, if rumors are correct](https://appleinsider.com/articles/22/01/23/fall-of-2022-will-be-apples-biggest-ever-if-rumors-are-correct?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: AR and VR startups raised ~$1.9B in Q4 2021, more than any quarter ever, making 2021 the second-best year for AR/VR investments with ~$3.9B raised &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220123/p3#a220123p3)
+ - [Dark Souls 3 exploit could let hackers take control of your entire computer](https://www.theverge.com/2022/1/22/22896785/dark-souls-3-remote-execution-exploit-rce-exploit-online-hack)
+ - [Best deals Jan. 23: $20 Audio-Technica earphones, $12 SanDisk USB-C Flash Drive, more!](https://appleinsider.com/articles/22/01/23/best-deals-jan-23-20-audio-technica-earphones-12-sandisk-usb-c-flash-drive-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
