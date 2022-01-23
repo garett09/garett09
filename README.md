@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wi-Fi 7 speeds are almost as fast as Thunderbolt 3](https://appleinsider.com/articles/22/01/23/wi-fi-7-speeds-are-almost-as-fast-as-thunderbolt-3?utm_medium=rss)
  - [Samsung Galaxy S22 European price leak suggests a base Ultra model with less RAM](https://www.theverge.com/2022/1/23/22897808/samsung-galaxy-s22-european-price-leaks-rumors)
- - [Save up to $100 on AirPods, AirPods Pro, AirPods Max at Amazon](https://appleinsider.com/articles/22/01/23/save-up-to-100-on-airpods-airpods-pro-airpods-max-at-amazon?utm_medium=rss)
- - [Fourth M1 chip with 12-core CPU may arrive in updated iMac Pro](https://appleinsider.com/articles/22/01/23/fourth-m1-chip-with-12-core-cpu-may-arrive-in-updated-imac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to $100 on AirPods, AirPods Pro, AirPods Max at Amazon](https://appleinsider.com/articles/22/01/23/save-up-to-100-on-airpods-airpods-pro-airpods-max-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
