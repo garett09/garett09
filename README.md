@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speck Presidio Folio for MagSafe review: Portable charging convenience](https://appleinsider.com/articles/22/01/23/speck-presidio-folio-for-magsafe-review-portable-charging-convenience?utm_medium=rss)
- - [Apple extends in-app purchase exemption for online group and event apps yet again](https://www.theverge.com/2022/1/23/22896736/apple-in-app-purchase-exemption-deadline-online-group-services-extended)
- - [These are the features we’d like to see in the Nest Audio 2](https://www.androidauthority.com/nest-audio-2-features-3093749/)<!-- TECH:END -->
+ - [AetherSX2: What you need to know about the best PS2 emulator for Android](https://www.androidauthority.com/aethersx2-ps2-emulator-3088419/)
+ - [New iPad Pro in the fall could have Apple Silicon M2 chip, maybe not MagSafe](https://appleinsider.com/articles/22/01/23/fall-ipad-pro-refresh-could-gain-m2-chip-but-maybe-not-magsafe?utm_medium=rss)
+ - [Dealogic: Microsoft, Amazon, and Alphabet announced more acquisitions in 2021 than in any other year in the past decade &lpar;CNBC&rpar;](http://www.techmeme.com/220123/p4#a220123p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
