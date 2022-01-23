@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Atari’s plan to reinvent itself, again](https://www.polygon.com/features/22880558/atari-50th-anniversary-plans)
- - [Robots are getting stronger muscles and explosion-proofing](https://www.pcgamer.com/robots-are-getting-stronger-muscles-and-explosion-proofing)
- - [How to get to Veithurgard in God of War](https://www.pcgamer.com/god-of-war-veithurgard-gate-open-unlock)<!-- GAME:END -->
+ - [You&#39;ll be able to earn Halo Infinite&#39;s premium currency in-game starting Season 2](https://www.pcgamer.com/youll-be-able-to-earn-halo-infinites-premium-currency-in-game-starting-season-2)
+ - [PSA: Don&#39;t play Dark Souls 3 until a new remote code execution vulnerability is patched](https://www.pcgamer.com/psa-dont-play-dark-souls-3-until-a-new-remote-code-execution-vulnerability-is-patched)
+ - [Half-Life: Alyx Is Even Better With A Weird, Talking Gnome](https://kotaku.com/half-life-vr-ai-gnome-wayneradiotv-funny-machinma-1848405436)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
