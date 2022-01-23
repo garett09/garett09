@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dark Souls Servers Down Due To Exploit That Could Give Someone Control Of Your PC](https://kotaku.com/dark-souls-servers-down-due-to-exploit-that-could-give-1848407285)
  - [Breaking down ’70s classics influencing Matt Reeves’ The Batman](https://www.polygon.com/22895128/the-batman-2022-movies-to-watch-before-release)
- - [Sunday Comics: There!](https://kotaku.com/sunday-comics-there-1848407204)
- - [Arcane embraces queer aesthetics, but settles for a maybeship](https://www.polygon.com/22893769/arcane-vi-caitlyn-lgbtq-characters-queer-netflix)<!-- GAME:END -->
+ - [Sunday Comics: There!](https://kotaku.com/sunday-comics-there-1848407204)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
