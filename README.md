@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Devs Can&#39;t Replace XP Boosts Wasted During Server Outages](https://kotaku.com/halo-infinite-343-xp-boosts-servers-xbox-1848407689)
- - [Dark Souls Servers Down Due To Exploit That Could Give Someone Control Of Your PC](https://kotaku.com/dark-souls-servers-down-due-to-exploit-that-could-give-1848407285)
- - [Breaking down ’70s classics influencing Matt Reeves’ The Batman](https://www.polygon.com/22895128/the-batman-2022-movies-to-watch-before-release)<!-- GAME:END -->
+ - [Ozark might be about how getting a promotion in America can suck](https://www.polygon.com/22897875/ozark-season-4-part-1-episode-1-2-recap)
+ - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)
+ - [Halo Infinite Devs Can&#39;t Replace XP Boosts Wasted During Server Outages](https://kotaku.com/halo-infinite-343-xp-boosts-servers-xbox-1848407689)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
