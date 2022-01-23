@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wear those medal proudly lads](http://9gag.com/gag/arnGG4y)
- - 🚯 [60% of the time, it works every time](http://9gag.com/gag/aM4ZZeR)
- - 🚯 [Why you come and eat my food???](http://9gag.com/gag/a21Zo1e)<!-- MEMES:END -->
+ - 🚖 [Innocent mind](http://9gag.com/gag/apg5Rwp)
+ - 🚯 [Why](http://9gag.com/gag/aDDg2LN)
+ - 🚯 [Alfa male](http://9gag.com/gag/aVx0vv8)<!-- MEMES:END -->
 
 --- 
 
