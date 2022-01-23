@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite Devs Can&#39;t Replace XP Boosts Wasted During Server Outages](https://kotaku.com/halo-infinite-343-xp-boosts-servers-xbox-1848407689)
  - [Dark Souls Servers Down Due To Exploit That Could Give Someone Control Of Your PC](https://kotaku.com/dark-souls-servers-down-due-to-exploit-that-could-give-1848407285)
- - [Breaking down ’70s classics influencing Matt Reeves’ The Batman](https://www.polygon.com/22895128/the-batman-2022-movies-to-watch-before-release)
- - [Sunday Comics: There!](https://kotaku.com/sunday-comics-there-1848407204)<!-- GAME:END -->
+ - [Breaking down ’70s classics influencing Matt Reeves’ The Batman](https://www.polygon.com/22895128/the-batman-2022-movies-to-watch-before-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
