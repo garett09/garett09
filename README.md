@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU Parliament passed Digital Services Act, including provisions banning targeted ads based on highly sensitive personal data, limiting dark patterns, and more &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/220122/p8#a220122p8)
- - [Dark Souls 3 exploit could let hackers take control of your entire computer](https://www.theverge.com/2022/1/22/22896785/dark-souls-3-remote-execution-exploit-rce-exploit-online-hack)
- - [How UK theater companies are using AR and VR to broadcast productions to viewers at home, as the pandemic pushes companies to experiment with new art forms &lpar;Andrew Dickson/New York Times&rpar;](http://www.techmeme.com/220122/p7#a220122p7)<!-- TECH:END -->
+ - [How longstanding disagreements between the FCC and FAA over potential risks to aircraft remained unresolved in the lead up to the 5G C-band rollout in the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220123/p1#a220123p1)
+ - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
+ - [Deals: Save up to $150 on these MacBook Pro 13-inch, MacBook Air configs with 16GB RAM](https://appleinsider.com/articles/22/01/23/deals-save-up-to-150-on-these-macbook-pro-13-inch-macbook-air-configs-with-16gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
