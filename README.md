@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best mechanical keyboards in 2022](https://www.pcgamer.com/best-mechanical-keyboard)
  - [Guillermo del Toro’s Pinocchio movie has a new teaser with Ewan McGregor’s talking cricket](https://www.polygon.com/22898795/del-toro-pinocchio-netflix-trailer-ewan-mcgregor)
- - [Confirmed: Tom Holland pummeled for Uncharted movie](https://www.polygon.com/22898802/tom-holland-uncharted-filming-behind-the-scenes)
- - [Yu-Gi-Oh! Master Duel Is Some Damn Fine &lpar;And Free&rpar; Card Fighting](https://kotaku.com/yugioh-master-duel-free-tgc-konami-card-game-deck-1848409742)<!-- GAME:END -->
+ - [Confirmed: Tom Holland pummeled for Uncharted movie](https://www.polygon.com/22898802/tom-holland-uncharted-filming-behind-the-scenes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
