@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud sync errors that Apple isn&#39;t addressing are infuriating developers](https://appleinsider.com/articles/22/01/24/icloud-sync-errors-that-apple-isnt-addressing-are-infuriating-developers?utm_medium=rss)
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
- - [Deliverect, which integrates online orders from various food delivery services into restaurants&#39; POS systems, raises a $150M Series D at a $1.4B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220124/p22#a220124p22)<!-- TECH:END -->
+ - [TikTok is feeling emotional damage over the market crash](https://www.theverge.com/2022/1/24/22899098/tiktok-market-crash-social-media-investing)
+ - [New version of Chromecast with Google TV leaks &lpar;Update: 1080p model?&rpar;](https://www.androidauthority.com/chromecast-with-google-tv-2022-3095882/)
+ - [Apple&#39;s 14-inch MacBook Pro is back in stock, on sale for $1,849](https://appleinsider.com/articles/22/01/24/apples-14-inch-macbook-pro-is-back-in-stock-on-sale-for-1849?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
