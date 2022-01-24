@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)
- - 🚯 [Holy moly](http://9gag.com/gag/aQX1mzr)
- - 🚯 [I didn&#39;t do anything...](http://9gag.com/gag/a41RAAZ)<!-- MEMES:END -->
+ - 🚖 [Oh the feels](http://9gag.com/gag/axB7RB2)
+ - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)
+ - 🚯 [Kind man offers a drink and gets a hug.](http://9gag.com/gag/aVx0Z4O)<!-- MEMES:END -->
 
 --- 
 
