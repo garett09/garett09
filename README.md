@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Troll Bot Is Ruining Wordle By Forcing Innocent Players To See The Next Day&#39;s Answer](https://kotaku.com/wordle-wordlinator-puzzle-twitter-spoiler-bot-1848411228)
- - [Halo Infinite’s battle pass including premium credits next season](https://www.polygon.com/22899139/halo-infinite-battle-pass-credits-changes)
- - [The best RGB lighting kit](https://www.pcgamer.com/best-rgb-led-lighting-kit)<!-- GAME:END -->
+ - [How To Pick The Best Four-Star Character In Genshin Impact&#39;s Lantern Rite Event](https://kotaku.com/genshin-impact-lantern-rite-event-free-4-star-liyue-1848411954)
+ - [RuneScape is getting two tabletop games this year](https://www.polygon.com/tabletop-games/22899249/runescape-tabletop-games-2022)
+ - [Battlefield 2042&#39;s &#39;Zombie Survival&#39; mode pulled after it immediately turns into an XP farm](https://www.pcgamer.com/battlefield-2042s-zombie-survival-mode-pulled-after-it-immediately-turns-into-an-xp-farm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
