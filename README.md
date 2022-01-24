@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Caesars dared to make a Batman-shaped calzony](https://www.polygon.com/22899453/batman-calzony-robert-pattinson-little-caesars)
- - [The Halo Infinite Players Who Look Amazing Without Spending A Penny](https://kotaku.com/halo-infinite-free-fashion-cyber-showdown-fracture-tenr-1848412147)
- - [DC has so many queer superheroes right now it’s almost not a big deal](https://www.polygon.com/2022/1/24/22898853/bi-superman-gay-aquaman-dc-comics-team-up)<!-- GAME:END -->
+ - [Palworld Is What Happens When You Mix Pokémon And Capitalism](https://kotaku.com/palworld-is-what-happens-when-you-mix-pokemon-and-capit-1848412903)
+ - [Watch Dogs: Legion’s most recent update is its last](https://www.polygon.com/22899566/watch-dogs-legion-no-more-updates-last-tu-5-6)
+ - [A turbulent timeline of Idris Elba being rumored to play James Bond](https://www.polygon.com/22899196/idris-elba-james-bond-casting-timeline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
