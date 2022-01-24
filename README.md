@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best mechanical keyboards in 2022](https://www.pcgamer.com/best-mechanical-keyboard)
- - [Guillermo del Toro’s Pinocchio movie has a new teaser with Ewan McGregor’s talking cricket](https://www.polygon.com/22898795/del-toro-pinocchio-netflix-trailer-ewan-mcgregor)
- - [Confirmed: Tom Holland pummeled for Uncharted movie](https://www.polygon.com/22898802/tom-holland-uncharted-filming-behind-the-scenes)<!-- GAME:END -->
+ - [Apex Legends kicks off season 12 with new hero Mad Maggie](https://www.polygon.com/22899089/apex-legends-season-12-release-date-new-legend-mad-maggie-trailer)
+ - [Ex-Yakuza developers form new studio](https://www.polygon.com/22895038/sega-yakuza-nagoshi-studio-netease-games)
+ - [Apex Legends&#39; next hero is tooth-spitting freedom fighter Mad Maggie](https://www.pcgamer.com/apex-legends-next-hero-is-tooth-spitting-freedom-fighter-mad-maggie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
