@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Times are changing\u2026](http://9gag.com/gag/aLv0mKP)
- - 🚯 [When you get a doggo on wish](http://9gag.com/gag/a41RA6v)
- - 🚯 [Holy moly](http://9gag.com/gag/aQX1mzr)<!-- MEMES:END -->
+ - 🚖 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)
+ - 🚯 [Holy moly](http://9gag.com/gag/aQX1mzr)
+ - 🚯 [I didn&#39;t do anything...](http://9gag.com/gag/a41RAAZ)<!-- MEMES:END -->
 
 --- 
 
