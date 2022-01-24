@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)
- - 🚯 [You can understand the aliens now](http://9gag.com/gag/aXrj40d)
- - 🚯 [Some freedom needed](http://9gag.com/gag/aVx0K7M)<!-- MEMES:END -->
+ - 🚖 [Some freedom needed](http://9gag.com/gag/aVx0K7M)
+ - 🚯 [Quality stufff](http://9gag.com/gag/a91RvxW)
+ - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&amp;#039;t run into the officials](http://9gag.com/gag/a61N5zN)<!-- MEMES:END -->
 
 --- 
 
