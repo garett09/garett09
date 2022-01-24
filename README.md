@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is bs](http://9gag.com/gag/a41RW9A)
- - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)
- - 🚯 [Japanese Quality](http://9gag.com/gag/awzo4r8)<!-- MEMES:END -->
+ - 🚖 [Do a cavity search](http://9gag.com/gag/abgr2qB)
+ - 🚯 [Japanese Quality](http://9gag.com/gag/awzo4r8)
+ - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)<!-- MEMES:END -->
 
 --- 
 
