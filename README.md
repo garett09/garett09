@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the tables turn...](http://9gag.com/gag/apg5P1n)
- - 🚯 [You can understand the aliens now](http://9gag.com/gag/aXrj40d)
- - 🚯 [This is the way](http://9gag.com/gag/aPZReWR)<!-- MEMES:END -->
+ - 🚖 [Kind man offers a drink and gets a hug.](http://9gag.com/gag/aVx0Z4O)
+ - 🚯 [This is the way](http://9gag.com/gag/aPZReWR)
+ - 🚯 [What&amp;#039;s hot on meta rn?](http://9gag.com/gag/aYr7P9V)<!-- MEMES:END -->
 
 --- 
 
