@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is love?](http://9gag.com/gag/aQX1QX2)
- - 🚯 [Grew up with not much in a 3rd world country, now at 24 with a good job was finally able to buy me nice things](http://9gag.com/gag/a815631)
- - 🚯 [Ever wondered what a happy Koala sounds like when you pet it?](http://9gag.com/gag/amg514y)<!-- MEMES:END -->
+ - 🚖 [Ever wondered what a happy Koala sounds like when you pet it?](http://9gag.com/gag/amg514y)
+ - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
+ - 🚯 [Nobody reads this](http://9gag.com/gag/aKmdAXb)<!-- MEMES:END -->
 
 --- 
 
