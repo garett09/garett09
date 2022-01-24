@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plaid, the service used by Venmo, Acorns, Robinhood, and more, may owe you some money](https://www.theverge.com/2022/1/23/22898009/plaid-financial-venmo-acorns-robinhood-class-action-lawsuit)
- - [Hands on with the updated Kensington StudioDock for iPad Pro](https://appleinsider.com/articles/22/01/23/hands-on-with-the-updated-kensington-studiodock-for-ipad-pro?utm_medium=rss)
- - [SmartMike+ review: A tiny, excellent wireless microphone, but with problems](https://appleinsider.com/articles/22/01/23/smartmike-review-a-tiny-excellent-wireless-microphone-but-with-problems?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)
+ - [There will be no bursting bubble, just a deflating balloon of high growth tech stock valuations returning to normal as factors that inflated them go away &lpar;M.G. Siegler/500ish&rpar;](http://www.techmeme.com/220123/p6#a220123p6)
+ - [Best VPN service for Amazon Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
