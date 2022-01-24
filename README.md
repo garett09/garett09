@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Animation Student Showcase](http://9gag.com/gag/ang52Xo)
- - 🚯 [Some freedom needed](http://9gag.com/gag/aVx0K7M)
- - 🚯 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)<!-- MEMES:END -->
+ - 🚖 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)
+ - 🚯 [A Hate Crime](http://9gag.com/gag/a31Ryj7)
+ - 🚯 [Woman holding soldering iron after watching a tutorial video in YouTube without the dislike count](http://9gag.com/gag/arnoZ30)<!-- MEMES:END -->
 
 --- 
 
