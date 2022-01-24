@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman holding soldering iron after watching a tutorial video in YouTube without the dislike count](http://9gag.com/gag/arnoZ30)
- - 🚯 [This is the way](http://9gag.com/gag/aPZReWR)
- - 🚯 [Emotional DAMAGE . . .](http://9gag.com/gag/a71w0Y2)<!-- MEMES:END -->
+ - 🚖 [How the tables turn...](http://9gag.com/gag/apg5P1n)
+ - 🚯 [You can understand the aliens now](http://9gag.com/gag/aXrj40d)
+ - 🚯 [This is the way](http://9gag.com/gag/aPZReWR)<!-- MEMES:END -->
 
 --- 
 
