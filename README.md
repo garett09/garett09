@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider.](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)
- - [Intel Arc Alchemist GPU compared to the RTX 3070 Ti in new benchmark](https://www.pcgamer.com/intel-arc-alchemist-gpu-compared-to-the-rtx-3070-ti-in-new-benchmark)
- - [Battlefield 2042 Launches Zombie Mode, Immediately Pulls It After It Breaks XP](https://kotaku.com/battlefield-2042-bf2042-battlefield-zombie-survival-zom-1848407840)<!-- GAME:END -->
+ - [Intel begins outfitting its state of the art Irish production facility](https://www.pcgamer.com/intel-begins-outfitting-its-state-of-the-art-irish-production-facility)
+ - [Musk&#39;s brain chips heading for human trials](https://www.pcgamer.com/musks-brain-chips-heading-for-human-trials)
+ - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider.](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
