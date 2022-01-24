@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data centers used an estimated ~17% of the power generated in Ireland in 2021, leaving the country&#39;s ambitious climate goals in question &lpar;Kara Fox/CNN&rpar;](http://www.techmeme.com/220124/p4#a220124p4)
- - [It’s official: The Redmi Note 11S is coming to India next month](https://www.androidauthority.com/redmi-note-11s-india-3095405/)
- - [Yakuza director announces new studio after leaving Sega](https://www.theverge.com/2022/1/24/22898579/toshihiro-nagoshi-studio-yakuza-series-netease-announced)<!-- TECH:END -->
+ - [Recreational drones banned in United Arab Emirates after oil facility attack](https://www.theverge.com/2022/1/24/22898614/united-arab-emirates-uae-ban-recreational-drone-attack)
+ - [We asked, you told us: Buying smartphones with cash is still king](https://www.androidauthority.com/how-buy-smartphone-poll-results-3095468/)
+ - [Data centers used an estimated ~17% of the power generated in Ireland in 2021, leaving the country&#39;s ambitious climate goals in question &lpar;Kara Fox/CNN&rpar;](http://www.techmeme.com/220124/p4#a220124p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
