@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs: Facebook&#39;s low-data service for developing countries, advertised as being free, has regularly led to unexpected charges for users for months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220124/p20#a220124p20)
- - [Meet the auto repair professor pivoting to EVs](https://www.theverge.com/22883604/auto-repair-course-electric-vehicles-interview)
- - [Coinbase makes it easier to report cryptocurrency taxes](https://www.theverge.com/2022/1/24/22898610/coinbase-tax-center-capital-gains-losses-irs-taxes)<!-- TECH:END -->
+ - [iCloud sync errors that Apple isn&#39;t addressing are infuriating developers](https://appleinsider.com/articles/22/01/24/icloud-sync-errors-that-apple-isnt-addressing-are-infuriating-developers?utm_medium=rss)
+ - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
+ - [Deliverect, which integrates online orders from various food delivery services into restaurants&#39; POS systems, raises a $150M Series D at a $1.4B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220124/p22#a220124p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
