@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some freedom needed](http://9gag.com/gag/aVx0K7M)
- - 🚯 [Animation Student Showcase](http://9gag.com/gag/ang52Xo)
- - 🚯 [Enough said!](http://9gag.com/gag/axB76ZL)<!-- MEMES:END -->
+ - 🚖 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)
+ - 🚯 [Enough said!](http://9gag.com/gag/axB76ZL)
+ - 🚯 [Some freedom needed](http://9gag.com/gag/aVx0K7M)<!-- MEMES:END -->
 
 --- 
 
