@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 24&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Australian PM Scott Morrison lost control of his official WeChat account months ago, while the still-active account now promotes Chinese life in Australia &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/220124/p2#a220124p2)
- - [Leaked Galaxy S22 Ultra EU pricing suggests less RAM for the same price](https://www.androidauthority.com/samsung-galaxy-s22-ultra-eu-pricing-ram-3094724/)<!-- TECH:END -->
+ - [Sydney-based Milkrun, which aims to deliver groceries in 10 minutes or less, raises a A$75M Series A led by Tiger Global, following an A$11M seed in June 2021 &lpar;Bianca Healey/Business Insider Australia&rpar;](http://www.techmeme.com/220124/p3#a220124p3)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Jan 24&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Jan. 24&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
