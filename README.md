@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m calling shenanigans](http://9gag.com/gag/adg52jV)
- - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)
- - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)<!-- MEMES:END -->
+ - 🚖 [This is bs](http://9gag.com/gag/a41RW9A)
+ - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)
+ - 🚯 [Japanese Quality](http://9gag.com/gag/awzo4r8)<!-- MEMES:END -->
 
 --- 
 
