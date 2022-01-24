@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Steam feature allows you to play games more easily across multiple PCs](https://www.polygon.com/22899728/steam-deck-valve-dynamic-cloud-sync-announcement)
- - [Elden Ring has officially gone gold](https://www.pcgamer.com/elden-ring-has-officially-gone-gold)
- - [Mario Odyssey Speedrunner Completes Absurd, Nearly Unplayable ‘HUD Challenge’](https://kotaku.com/super-mario-odyssey-speedrun-hud-challenge-dougdoug-str-1848412859)<!-- GAME:END -->
+ - [Stranger of Paradise Final Fantasy Origin’s new trailer is brave enough to feature Frank Sinatra](https://www.polygon.com/22899669/stranger-of-paradise-final-fantasy-origin-trailer-frank-sinatra-my-way)
+ - [Saudi-Backed Company Buys ESL For $1 Billion](https://kotaku.com/esl-faceit-esports-public-investment-fund-saudi-arabia-1848413393)
+ - [This spooky subway game gives Sunday Scaries a whole new meaning](https://www.polygon.com/22898995/platformer-horror-turn-based-rpg-climbing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
