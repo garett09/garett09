@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of German publishers, including Axel Springer, say Google is breaking EU law with its move to phase out third-party cookies from Chrome by next year &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220124/p8#a220124p8)
- - [Panasonic will reportedly start mass producing next-gen Tesla batteries in 2023](https://www.theverge.com/2022/1/24/22898666/panasonic-4680-tesla-battery-mass-production-2023)
- - [The Best Mirrorless Cameras to Level Up Your Photos](https://www.wired.com/gallery/best-mirrorless-cameras)<!-- TECH:END -->
+ - [Research: an OpenSea bug is being exploited to purchase NFTs at below-market rates before flipping them, netting $1M+ across at least eight NFTs in 12 hours &lpar;Elliptic Blog&rpar;](http://www.techmeme.com/220124/p11#a220124p11)
+ - [Best deals Jan. 24: $99 AirPods, $850 M1 MacBook Air, $160 RoboVac, more!](https://appleinsider.com/articles/22/01/24/best-deals-jan-24-99-airpods-850-m1-macbook-air-160-robovac-more?utm_medium=rss)
+ - [UK&#39;s DCMS committee says the Online Safety Bill falls short on protecting free speech, tackling illegal and harmful content in online services, and more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220124/p10#a220124p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
