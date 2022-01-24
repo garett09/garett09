@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
- - [Good news everybody: Nvidia&#39;s RTX 3050 appears to be rubbish at mining](https://www.pcgamer.com/good-news-everybody-nvidias-rtx-3050-appears-to-be-rubbish-at-mining)
- - [Heck Deck asks: what if Superhot was a deck-building shmup?](https://www.pcgamer.com/heck-deck-asks-what-if-superhot-was-a-deck-building-shmup)<!-- GAME:END -->
+ - [Vikings: Valhalla creator’s priorities for the Netflix spinoff: nostalgia and ‘more action’](https://www.polygon.com/22895412/vikings-valhalla-preview)
+ - [Corsair Dominator Platinum RGB DDR5-5200 memory Review](https://www.pcgamer.com/corsair-dominator-ddr5-5200-memory-review)
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
