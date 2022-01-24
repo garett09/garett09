@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They bailed out some other inmate too. He stars tomorrow](http://9gag.com/gag/aBngXnA)
- - 🚯 [I&#39;m calling shenanigans](http://9gag.com/gag/adg52jV)
- - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)<!-- MEMES:END -->
+ - 🚖 [I&#39;m calling shenanigans](http://9gag.com/gag/adg52jV)
+ - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)
+ - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)<!-- MEMES:END -->
 
 --- 
 
