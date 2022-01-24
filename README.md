@@ -181,7 +181,7 @@ No Activity Tracked This Week
 <!-- GAME:START -->
  - [Intel begins outfitting its state of the art Irish production facility](https://www.pcgamer.com/intel-begins-outfitting-its-state-of-the-art-irish-production-facility)
  - [Musk&#39;s brain chips heading for human trials](https://www.pcgamer.com/musks-brain-chips-heading-for-human-trials)
- - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider.](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)<!-- GAME:END -->
+ - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
