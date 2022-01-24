@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)
- - [There will be no bursting bubble, just a deflating balloon of high growth tech stock valuations returning to normal as factors that inflated them go away &lpar;M.G. Siegler/500ish&rpar;](http://www.techmeme.com/220123/p6#a220123p6)
- - [Best VPN service for Amazon Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeFi traders complain about network instability that hit Solana this weekend, four months after its last outage; Solana pushes update to fix &quot;the worst effects&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220123/p7#a220123p7)
+ - [Yellowjackets: That ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-episode-10-finale-that-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)
+ - [Prime Video: The 33 best TV shows to watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
