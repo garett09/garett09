@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends kicks off season 12 with new hero Mad Maggie](https://www.polygon.com/22899089/apex-legends-season-12-release-date-new-legend-mad-maggie-trailer)
- - [Ex-Yakuza developers form new studio](https://www.polygon.com/22895038/sega-yakuza-nagoshi-studio-netease-games)
- - [Apex Legends&#39; next hero is tooth-spitting freedom fighter Mad Maggie](https://www.pcgamer.com/apex-legends-next-hero-is-tooth-spitting-freedom-fighter-mad-maggie)<!-- GAME:END -->
+ - [A Troll Bot Is Ruining Wordle By Forcing Innocent Players To See The Next Day&#39;s Answer](https://kotaku.com/wordle-wordlinator-puzzle-twitter-spoiler-bot-1848411228)
+ - [Halo Infinite’s battle pass including premium credits next season](https://www.polygon.com/22899139/halo-infinite-battle-pass-credits-changes)
+ - [The best RGB lighting kit](https://www.pcgamer.com/best-rgb-led-lighting-kit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
