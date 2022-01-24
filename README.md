@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Pick The Best Four-Star Character In Genshin Impact&#39;s Lantern Rite Event](https://kotaku.com/genshin-impact-lantern-rite-event-free-4-star-liyue-1848411954)
- - [RuneScape is getting two tabletop games this year](https://www.polygon.com/tabletop-games/22899249/runescape-tabletop-games-2022)
- - [Battlefield 2042&#39;s &#39;Zombie Survival&#39; mode pulled after it immediately turns into an XP farm](https://www.pcgamer.com/battlefield-2042s-zombie-survival-mode-pulled-after-it-immediately-turns-into-an-xp-farm)<!-- GAME:END -->
+ - [Little Caesars dared to make a Batman-shaped calzony](https://www.polygon.com/22899453/batman-calzony-robert-pattinson-little-caesars)
+ - [The Halo Infinite Players Who Look Amazing Without Spending A Penny](https://kotaku.com/halo-infinite-free-fashion-cyber-showdown-fracture-tenr-1848412147)
+ - [DC has so many queer superheroes right now it’s almost not a big deal](https://www.polygon.com/2022/1/24/22898853/bi-superman-gay-aquaman-dc-comics-team-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
