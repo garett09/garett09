@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh the feels](http://9gag.com/gag/axB7RB2)
- - 🚯 [B O N K](http://9gag.com/gag/aPZRQnB)
- - 🚯 [Kind man offers a drink and gets a hug.](http://9gag.com/gag/aVx0Z4O)<!-- MEMES:END -->
+ - 🚖 [Times are changing\u2026](http://9gag.com/gag/aLv0mKP)
+ - 🚯 [Atleast throw some in the volcano...](http://9gag.com/gag/aog5L2w)
+ - 🚯 [Another ruined franchise](http://9gag.com/gag/a91Rm2L)<!-- MEMES:END -->
 
 --- 
 
