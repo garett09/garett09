@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Raven QA strike ends, at least for now](https://www.pcgamer.com/raven-qa-strike-ends-at-least-for-now)
- - [The Week In Games: Arceus, I Choose You!](https://kotaku.com/the-week-in-games-arceus-i-choose-you-1848407880)
- - [Dark Souls PvP servers are down as security vulnerability is investigated](https://www.pcgamer.com/psa-dont-play-dark-souls-3-until-a-new-remote-code-execution-vulnerability-is-patched)<!-- GAME:END -->
+ - [Nintendo Hunts Down Videos Of Fan-Made Pokémon FPS](https://kotaku.com/pokemon-fps-pikachu-unreal-engine-pc-mods-nintendo-lawy-1848408209)
+ - [Watch Dogs: Legion will not receive any more updates](https://www.pcgamer.com/watch-dogs-legion-will-not-receive-any-more-updates)
+ - [Raven QA strike ends, at least for now](https://www.pcgamer.com/raven-qa-strike-ends-at-least-for-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
