@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iconic silver bullet Airstream camping trailer has returned as a remote-controlled EV](https://www.theverge.com/2022/1/24/22899010/thor-vision-airstream-estream-battery-powered-motorhome-rv)
- - [PG&amp;E’s criminal probation is ending, but the company remains a ‘menace to California’](https://www.theverge.com/2022/1/24/22899095/pge-menace-california-wildfires-probation-lifts)
- - [A look at Amazon&#39;s impact on Darlington in northern England, where the company&#39;s warehouse employs 1,300 full-time, as locals rue e-commerce but love new jobs &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/220124/p24#a220124p24)<!-- TECH:END -->
+ - [Hackers say they hit a Belarusian rail system with ransomware to stop Russia&#39;s military buildup against Ukraine; many Belarus Railway services appear offline &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220124/p27#a220124p27)
+ - [Stranger of Paradise Final Fantasy Origin goes its own way](https://www.theverge.com/2022/1/24/22898351/stranger-of-paradise-final-fantasy-origin-developer-interview)
+ - [Twitter’s ‘close friends’ feature could share tweets with up to 150 select users](https://www.theverge.com/2022/1/24/22899387/twitter-flock-tweet-privacy-trusted-friends)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
