@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel begins outfitting its state of the art Irish production facility](https://www.pcgamer.com/intel-begins-outfitting-its-state-of-the-art-irish-production-facility)
- - [Musk&#39;s brain chips heading for human trials](https://www.pcgamer.com/musks-brain-chips-heading-for-human-trials)
- - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)<!-- GAME:END -->
+ - [Stardew Valley mod adds farming bots](https://www.pcgamer.com/stardew-valley-mod-adds-farming-bots)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)
+ - [Intel begins outfitting its state of the art Irish production facility](https://www.pcgamer.com/intel-begins-outfitting-its-state-of-the-art-irish-production-facility)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
