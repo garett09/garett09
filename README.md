@@ -180,8 +180,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Battlefield 2042 Launches Zombie Mode, Immediately Pulls It After It Breaks XP](https://kotaku.com/battlefield-2042-bf2042-battlefield-zombie-survival-zom-1848407840)
- - [Survey Says Developers Are Definitely Not Interested In Crypto Or NFTs](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
- - [Nintendo Hunts Down Videos Of Fan-Made Pokémon FPS](https://kotaku.com/pokemon-fps-pikachu-unreal-engine-pc-mods-nintendo-lawy-1848408209)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [Survey Says Developers Are Definitely Not Interested In Crypto Or NFTs](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
