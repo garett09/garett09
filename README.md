@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Some freedom needed](http://9gag.com/gag/aVx0K7M)
- - 🚯 [Quality stufff](http://9gag.com/gag/a91RvxW)
- - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&amp;#039;t run into the officials](http://9gag.com/gag/a61N5zN)<!-- MEMES:END -->
+ - 🚯 [Animation Student Showcase](http://9gag.com/gag/ang52Xo)
+ - 🚯 [Enough said!](http://9gag.com/gag/axB76ZL)<!-- MEMES:END -->
 
 --- 
 
