@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Times are changing\u2026](http://9gag.com/gag/aLv0mKP)
- - 🚯 [Atleast throw some in the volcano...](http://9gag.com/gag/aog5L2w)
- - 🚯 [Another ruined franchise](http://9gag.com/gag/a91Rm2L)<!-- MEMES:END -->
+ - 🚖 [Hadoukennn!!](http://9gag.com/gag/awzodBW)
+ - 🚯 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)
+ - 🚯 [Audi roof leaks in the middle of a car wash](http://9gag.com/gag/axB7O41)<!-- MEMES:END -->
 
 --- 
 
