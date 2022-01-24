@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do a cavity search](http://9gag.com/gag/abgr2qB)
- - 🚯 [Japanese Quality](http://9gag.com/gag/awzo4r8)
- - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)<!-- MEMES:END -->
+ - 🚖 [Optional..](http://9gag.com/gag/a91RXbj)
+ - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)
+ - 🚯 [There&#39;s cities, there&#39;s metropolises and then there&#39;s Tokyo.](http://9gag.com/gag/ajg5Zex)<!-- MEMES:END -->
 
 --- 
 
