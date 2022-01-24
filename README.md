@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [DeFi traders complain about network instability that hit Solana this weekend, four months after its last outage; Solana pushes update to fix &quot;the worst effects&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220123/p7#a220123p7)
- - [Yellowjackets: That ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-episode-10-finale-that-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)
- - [Prime Video: The 33 best TV shows to watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 0% APR credit cards for January 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-0-apr-credit-cards/#ftag=CAD590a51e)
+ - [Yellowjackets: That ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-episode-10-finale-that-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
