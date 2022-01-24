@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)
- - 🚯 [A Hate Crime](http://9gag.com/gag/a31Ryj7)
+ - 🚖 [A Hate Crime](http://9gag.com/gag/a31Ryj7)
+ - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&amp;#039;t run into the officials](http://9gag.com/gag/a61N5zN)
  - 🚯 [Woman holding soldering iron after watching a tutorial video in YouTube without the dislike count](http://9gag.com/gag/arnoZ30)<!-- MEMES:END -->
 
 --- 
