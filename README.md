@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India Q4 2021: Realme hits number three for the first time](https://www.androidauthority.com/india-q4-2021-realme-3095455/)
- - [Sydney-based Milkrun, which aims to deliver groceries in 10 minutes or less, raises a A$75M Series A led by Tiger Global, following an A$11M seed in June 2021 &lpar;Bianca Healey/Business Insider Australia&rpar;](http://www.techmeme.com/220124/p3#a220124p3)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: Jan 24&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [Data centers used an estimated ~17% of the power generated in Ireland in 2021, leaving the country&#39;s ambitious climate goals in question &lpar;Kara Fox/CNN&rpar;](http://www.techmeme.com/220124/p4#a220124p4)
+ - [It’s official: The Redmi Note 11S is coming to India next month](https://www.androidauthority.com/redmi-note-11s-india-3095405/)
+ - [Yakuza director announces new studio after leaving Sega](https://www.theverge.com/2022/1/24/22898579/toshihiro-nagoshi-studio-yakuza-series-netease-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
