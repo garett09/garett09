@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recreational drones banned in United Arab Emirates after oil facility attack](https://www.theverge.com/2022/1/24/22898614/united-arab-emirates-uae-ban-recreational-drone-attack)
- - [We asked, you told us: Buying smartphones with cash is still king](https://www.androidauthority.com/how-buy-smartphone-poll-results-3095468/)
- - [Data centers used an estimated ~17% of the power generated in Ireland in 2021, leaving the country&#39;s ambitious climate goals in question &lpar;Kara Fox/CNN&rpar;](http://www.techmeme.com/220124/p4#a220124p4)<!-- TECH:END -->
+ - [Daily Authority: 🔨 Intel’s $20B for new fabs](https://www.androidauthority.com/da-january-24-2022-3095575/)
+ - [German firms claim Google Chrome blocking cookies is illegal](https://appleinsider.com/articles/22/01/24/german-firms-claim-google-chrome-blocking-cookies-is-illegal?utm_medium=rss)
+ - [Top 9 Free AI Tools That Make Your Life Easier](https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
