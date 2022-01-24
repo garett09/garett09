@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ever wondered what a happy Koala sounds like when you pet it?](http://9gag.com/gag/amg514y)
- - 🚯 [What is love?](http://9gag.com/gag/aQX1QX2)
- - 🚯 [Nobody reads this](http://9gag.com/gag/aKmdAXb)<!-- MEMES:END -->
+ - 🚖 [Nice Mods my dudes](http://9gag.com/gag/aWgEnpq)
+ - 🚯 [You can understand the aliens now](http://9gag.com/gag/aXrj40d)
+ - 🚯 [Some freedom needed](http://9gag.com/gag/aVx0K7M)<!-- MEMES:END -->
 
 --- 
 
