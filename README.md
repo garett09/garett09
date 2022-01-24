@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is feeling emotional damage over the market crash](https://www.theverge.com/2022/1/24/22899098/tiktok-market-crash-social-media-investing)
- - [New version of Chromecast with Google TV leaks &lpar;Update: 1080p model?&rpar;](https://www.androidauthority.com/chromecast-with-google-tv-2022-3095882/)
- - [Apple&#39;s 14-inch MacBook Pro is back in stock, on sale for $1,849](https://appleinsider.com/articles/22/01/24/apples-14-inch-macbook-pro-is-back-in-stock-on-sale-for-1849?utm_medium=rss)<!-- TECH:END -->
+ - [The iconic silver bullet Airstream camping trailer has returned as a remote-controlled EV](https://www.theverge.com/2022/1/24/22899010/thor-vision-airstream-estream-battery-powered-motorhome-rv)
+ - [PG&amp;E’s criminal probation is ending, but the company remains a ‘menace to California’](https://www.theverge.com/2022/1/24/22899095/pge-menace-california-wildfires-probation-lifts)
+ - [A look at Amazon&#39;s impact on Darlington in northern England, where the company&#39;s warehouse employs 1,300 full-time, as locals rue e-commerce but love new jobs &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/220124/p24#a220124p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
