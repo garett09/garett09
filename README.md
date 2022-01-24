@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers say they hit a Belarusian rail system with ransomware to stop Russia&#39;s military buildup against Ukraine; many Belarus Railway services appear offline &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220124/p27#a220124p27)
- - [Stranger of Paradise Final Fantasy Origin goes its own way](https://www.theverge.com/2022/1/24/22898351/stranger-of-paradise-final-fantasy-origin-developer-interview)
- - [Twitter’s ‘close friends’ feature could share tweets with up to 150 select users](https://www.theverge.com/2022/1/24/22899387/twitter-flock-tweet-privacy-trusted-friends)<!-- TECH:END -->
+ - [Giant iceberg releases 152 billion tons of fresh water around remote Atlantic island](https://www.theverge.com/2022/1/24/22895124/iceberg-south-georgia-melt-fresh-water-climate)
+ - [Sources: Savvy Gaming Group, backed by the Saudi Arabian government&#39;s Public Investment Fund, acquires esports companies ESL and FACEIT for a combined $1.5B &lpar;Kevin Hitt/Sports Business Journal&rpar;](http://www.techmeme.com/220124/p28#a220124p28)
+ - [At long last, Nvidia and AMD GPU street prices are beginning to drop](https://www.theverge.com/2022/1/24/22899527/nvidia-amd-gpu-rtx-3080-radeon-price-drop-ebay-ps5-xbox-series-x-playstation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
