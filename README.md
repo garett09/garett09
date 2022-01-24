@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Survey Says Developers Are Definitely Not Interested In Crypto Or NFTs](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
  - [Nintendo Hunts Down Videos Of Fan-Made Pokémon FPS](https://kotaku.com/pokemon-fps-pikachu-unreal-engine-pc-mods-nintendo-lawy-1848408209)
- - [Watch Dogs: Legion will not receive any more updates](https://www.pcgamer.com/watch-dogs-legion-will-not-receive-any-more-updates)
- - [Raven QA strike ends, at least for now](https://www.pcgamer.com/raven-qa-strike-ends-at-least-for-now)<!-- GAME:END -->
+ - [Watch Dogs: Legion will not receive any more updates](https://www.pcgamer.com/watch-dogs-legion-will-not-receive-any-more-updates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
