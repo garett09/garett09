@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hadoukennn!!](http://9gag.com/gag/awzodBW)
- - 🚯 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)
- - 🚯 [Audi roof leaks in the middle of a car wash](http://9gag.com/gag/axB7O41)<!-- MEMES:END -->
+ - 🚖 [discord.gg/rmemes - The official r/Memes Discord Server](https://www.reddit.com/r/memes/comments/sbr31o/discordggrmemes_the_official_rmemes_discord_server/)
+ - 🚯 [Audi roof leaks in the middle of a car wash](http://9gag.com/gag/axB7O41)
+ - 🚯 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)<!-- MEMES:END -->
 
 --- 
 
