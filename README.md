@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Guillermo del Toro’s Pinocchio is finally a real wooden boy in first teaser](https://www.theverge.com/2022/1/24/22898792/guillermo-del-toto-pinocchio-trailer)
- - [Google sued by DC and three states for ‘deceptive’ Android location tracking](https://www.theverge.com/2022/1/24/22898760/google-dc-washington-texas-indiana-attorneys-general-lawsuit-location-data-tracking)
- - [Report: VC investment into Latin America reached $15.3B in 2021 across 650+ deals, up from a record $4.9B in 2019; fintech was 39% of all investments &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/220124/p18#a220124p18)<!-- TECH:END -->
+ - [Apple TV+ &#39;Ted Lasso,&#39; &#39;Schmigadoon!&#39; up for Art Directors Guild Awards](https://appleinsider.com/articles/22/01/24/apple-tv-ted-lasso-schmigadoon-up-for-art-directors-guild-awards?utm_medium=rss)
+ - [Amazon Halo View review: Costly conundrum](https://www.androidauthority.com/amazon-halo-view-review-3085884/)
+ - [Meta has built an AI supercomputer it says will be world’s fastest by end of 2022](https://www.theverge.com/2022/1/24/22898651/meta-artificial-intelligence-ai-supercomputer-rsc-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
