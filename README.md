@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never thought a game from this category would get my feelings so devoted in it\u2019s gameplay. All the details and choices are just so compelling and complex! 5/5 recommend Frost Punk!](http://9gag.com/gag/aeg5xDj)
- - 🚯 [Construction worker sweeping the floor after watching a tutorial without the dislike bar](http://9gag.com/gag/amg5xbj)
- - 🚯 [I\u2019m pretty dumb for a smart person.](http://9gag.com/gag/aGzgGd5)<!-- MEMES:END -->
+ - 🚖 [Times are changing\u2026](http://9gag.com/gag/aLv0mKP)
+ - 🚯 [When you get a doggo on wish](http://9gag.com/gag/a41RA6v)
+ - 🚯 [Holy moly](http://9gag.com/gag/aQX1mzr)<!-- MEMES:END -->
 
 --- 
 
