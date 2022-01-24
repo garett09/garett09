@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔨 Intel’s $20B for new fabs](https://www.androidauthority.com/da-january-24-2022-3095575/)
- - [German firms claim Google Chrome blocking cookies is illegal](https://appleinsider.com/articles/22/01/24/german-firms-claim-google-chrome-blocking-cookies-is-illegal?utm_medium=rss)
- - [Top 9 Free AI Tools That Make Your Life Easier](https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html)<!-- TECH:END -->
+ - [Hundreds of German publishers, including Axel Springer, say Google is breaking EU law with its move to phase out third-party cookies from Chrome by next year &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220124/p8#a220124p8)
+ - [Panasonic will reportedly start mass producing next-gen Tesla batteries in 2023](https://www.theverge.com/2022/1/24/22898666/panasonic-4680-tesla-battery-mass-production-2023)
+ - [The Best Mirrorless Cameras to Level Up Your Photos](https://www.wired.com/gallery/best-mirrorless-cameras)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
