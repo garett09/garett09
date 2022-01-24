@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld Is What Happens When You Mix Pokémon And Capitalism](https://kotaku.com/palworld-is-what-happens-when-you-mix-pokemon-and-capit-1848412903)
- - [Watch Dogs: Legion’s most recent update is its last](https://www.polygon.com/22899566/watch-dogs-legion-no-more-updates-last-tu-5-6)
- - [A turbulent timeline of Idris Elba being rumored to play James Bond](https://www.polygon.com/22899196/idris-elba-james-bond-casting-timeline)<!-- GAME:END -->
+ - [A new Steam feature allows you to play games more easily across multiple PCs](https://www.polygon.com/22899728/steam-deck-valve-dynamic-cloud-sync-announcement)
+ - [Elden Ring has officially gone gold](https://www.pcgamer.com/elden-ring-has-officially-gone-gold)
+ - [Mario Odyssey Speedrunner Completes Absurd, Nearly Unplayable ‘HUD Challenge’](https://kotaku.com/super-mario-odyssey-speedrun-hud-challenge-dougdoug-str-1848412859)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
