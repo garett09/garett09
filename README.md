@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sayata, which offers an automated online insurance marketplace for SMBs, adds $35M to its $17M Series A from August 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220124/p14#a220124p14)
- - [Win a mystery bag from The Verge chock-full of free tech](https://www.theverge.com/2022/1/24/22881792/tech-bag-sweepstakes-mystery-gear-entry-rules-january-2022)
- - [Netherlands fines Apple &amp;euro;5M, saying Apple&#39;s changes to IAP payments &quot;failed to satisfy the requirements&quot;; the fine rises &amp;euro;5M/week to &amp;euro;50M until Apple complies &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220124/p13#a220124p13)<!-- TECH:END -->
+ - [Guillermo del Toro’s Pinocchio is finally a real wooden boy in first teaser](https://www.theverge.com/2022/1/24/22898792/guillermo-del-toto-pinocchio-trailer)
+ - [Google sued by DC and three states for ‘deceptive’ Android location tracking](https://www.theverge.com/2022/1/24/22898760/google-dc-washington-texas-indiana-attorneys-general-lawsuit-location-data-tracking)
+ - [Report: VC investment into Latin America reached $15.3B in 2021 across 650+ deals, up from a record $4.9B in 2019; fintech was 39% of all investments &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/220124/p18#a220124p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
