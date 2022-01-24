@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley mod adds farming bots](https://www.pcgamer.com/stardew-valley-mod-adds-farming-bots)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)
- - [Intel begins outfitting its state of the art Irish production facility](https://www.pcgamer.com/intel-begins-outfitting-its-state-of-the-art-irish-production-facility)<!-- GAME:END -->
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
+ - [Good news everybody: Nvidia&#39;s RTX 3050 appears to be rubbish at mining](https://www.pcgamer.com/good-news-everybody-nvidias-rtx-3050-appears-to-be-rubbish-at-mining)
+ - [Heck Deck asks: what if Superhot was a deck-building shmup?](https://www.pcgamer.com/heck-deck-asks-what-if-superhot-was-a-deck-building-shmup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
