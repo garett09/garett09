@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Ted Lasso,&#39; &#39;Schmigadoon!&#39; up for Art Directors Guild Awards](https://appleinsider.com/articles/22/01/24/apple-tv-ted-lasso-schmigadoon-up-for-art-directors-guild-awards?utm_medium=rss)
- - [Amazon Halo View review: Costly conundrum](https://www.androidauthority.com/amazon-halo-view-review-3085884/)
- - [Meta has built an AI supercomputer it says will be world’s fastest by end of 2022](https://www.theverge.com/2022/1/24/22898651/meta-artificial-intelligence-ai-supercomputer-rsc-2022)<!-- TECH:END -->
+ - [Internal docs: Facebook&#39;s low-data service for developing countries, advertised as being free, has regularly led to unexpected charges for users for months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220124/p20#a220124p20)
+ - [Meet the auto repair professor pivoting to EVs](https://www.theverge.com/22883604/auto-repair-course-electric-vehicles-interview)
+ - [Coinbase makes it easier to report cryptocurrency taxes](https://www.theverge.com/2022/1/24/22898610/coinbase-tax-center-capital-gains-losses-irs-taxes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
