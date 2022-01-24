@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid a shift in malware targeting UEFI firmware, Kaspersky details new MoonBounce UEFI bootkit that can survive even after swapping the infected PC&#39;s hard drive &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220123/p8#a220123p8)
- - [Yellowjackets finale recap: Hello, Antler Queen     - CNET](https://www.cnet.com/news/yellowjackets-season-1-finale-episode-10-recap-hello-antler-queen/#ftag=CAD590a51e)
- - [Tiktok&#39;s latest bizarre trend: Why everyone is peeling raw eggs     - CNET](https://www.cnet.com/news/tiktoks-latest-bizarre-trend-why-everyone-is-peeling-raw-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OfficeSpace Software, which lets companies manage hybrid workspaces, desk and room booking, raises $150M from Vista Equity Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220124/p1#a220124p1)
+ - [Should you still buy an iPhone SE? The iPhone SE 3 could be coming soon     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-se-the-iphone-se-3-could-be-coming-soon/#ftag=CAD590a51e)
+ - [Amid a shift in malware targeting UEFI firmware, Kaspersky details new MoonBounce UEFI bootkit that can survive even after swapping the infected PC&#39;s hard drive &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220123/p8#a220123p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
