@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [discord.gg/rmemes - The official r/Memes Discord Server](https://www.reddit.com/r/memes/comments/sbr31o/discordggrmemes_the_official_rmemes_discord_server/)
- - 🚯 [Audi roof leaks in the middle of a car wash](http://9gag.com/gag/axB7O41)
- - 🚯 [Perfect husband candidate.](http://9gag.com/gag/aeg5mAO)<!-- MEMES:END -->
+ - 🚖 [They bailed out some other inmate too. He stars tomorrow](http://9gag.com/gag/aBngXnA)
+ - 🚯 [I&#39;m calling shenanigans](http://9gag.com/gag/adg52jV)
+ - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)<!-- MEMES:END -->
 
 --- 
 
