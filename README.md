@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kind man offers a drink and gets a hug.](http://9gag.com/gag/aVx0Z4O)
- - 🚯 [This is the way](http://9gag.com/gag/aPZReWR)
- - 🚯 [What&amp;#039;s hot on meta rn?](http://9gag.com/gag/aYr7P9V)<!-- MEMES:END -->
+ - 🚖 [Never thought a game from this category would get my feelings so devoted in it\u2019s gameplay. All the details and choices are just so compelling and complex! 5/5 recommend Frost Punk!](http://9gag.com/gag/aeg5xDj)
+ - 🚯 [Construction worker sweeping the floor after watching a tutorial without the dislike bar](http://9gag.com/gag/amg5xbj)
+ - 🚯 [I\u2019m pretty dumb for a smart person.](http://9gag.com/gag/aGzgGd5)<!-- MEMES:END -->
 
 --- 
 
