@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Launches Zombie Mode, Immediately Pulls It After It Breaks XP](https://kotaku.com/battlefield-2042-bf2042-battlefield-zombie-survival-zom-1848407840)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Survey Says Developers Are Definitely Not Interested In Crypto Or NFTs](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)<!-- GAME:END -->
+ - [Won&#39;t somebody think of the poor scalpers? Argues scalper service provider.](https://www.pcgamer.com/wont-somebody-think-of-the-poor-scalpers-argues-scalper-service-provider)
+ - [Intel Arc Alchemist GPU compared to the RTX 3070 Ti in new benchmark](https://www.pcgamer.com/intel-arc-alchemist-gpu-compared-to-the-rtx-3070-ti-in-new-benchmark)
+ - [Battlefield 2042 Launches Zombie Mode, Immediately Pulls It After It Breaks XP](https://kotaku.com/battlefield-2042-bf2042-battlefield-zombie-survival-zom-1848407840)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
