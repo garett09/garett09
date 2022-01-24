@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Optional..](http://9gag.com/gag/a91RXbj)
- - 🚯 [This is not going to end well](http://9gag.com/gag/a11RL7G)
- - 🚯 [There&#39;s cities, there&#39;s metropolises and then there&#39;s Tokyo.](http://9gag.com/gag/ajg5Zex)<!-- MEMES:END -->
+ - 🚖 [This is not going to end well](http://9gag.com/gag/a11RL7G)
+ - 🚯 [There&#39;s cities, there&#39;s metropolises and then there&#39;s Tokyo.](http://9gag.com/gag/ajg5Zex)
+ - 🚯 [Say what you want about prequels, but this is still one of the best lightsaber fight sequences](http://9gag.com/gag/a71wnrA)<!-- MEMES:END -->
 
 --- 
 
