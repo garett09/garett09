@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amid a shift in malware targeting UEFI firmware, Kaspersky details new MoonBounce UEFI bootkit that can survive even after swapping the infected PC&#39;s hard drive &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220123/p8#a220123p8)
  - [Yellowjackets finale recap: Hello, Antler Queen     - CNET](https://www.cnet.com/news/yellowjackets-season-1-finale-episode-10-recap-hello-antler-queen/#ftag=CAD590a51e)
- - [Tiktok&#39;s latest bizarre trend: Why everyone is peeling raw eggs     - CNET](https://www.cnet.com/news/tiktoks-latest-bizarre-trend-why-everyone-is-peeling-raw-eggs/#ftag=CAD590a51e)
- - [DeFi traders complain about network instability that hit Solana this weekend, four months after its last outage; Solana pushes update to fix &quot;the worst effects&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220123/p7#a220123p7)<!-- TECH:END -->
+ - [Tiktok&#39;s latest bizarre trend: Why everyone is peeling raw eggs     - CNET](https://www.cnet.com/news/tiktoks-latest-bizarre-trend-why-everyone-is-peeling-raw-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
