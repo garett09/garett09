@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: an OpenSea bug is being exploited to purchase NFTs at below-market rates before flipping them, netting $1M+ across at least eight NFTs in 12 hours &lpar;Elliptic Blog&rpar;](http://www.techmeme.com/220124/p11#a220124p11)
- - [Best deals Jan. 24: $99 AirPods, $850 M1 MacBook Air, $160 RoboVac, more!](https://appleinsider.com/articles/22/01/24/best-deals-jan-24-99-airpods-850-m1-macbook-air-160-robovac-more?utm_medium=rss)
- - [UK&#39;s DCMS committee says the Online Safety Bill falls short on protecting free speech, tackling illegal and harmful content in online services, and more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220124/p10#a220124p10)<!-- TECH:END -->
+ - [Sayata, which offers an automated online insurance marketplace for SMBs, adds $35M to its $17M Series A from August 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220124/p14#a220124p14)
+ - [Win a mystery bag from The Verge chock-full of free tech](https://www.theverge.com/2022/1/24/22881792/tech-bag-sweepstakes-mystery-gear-entry-rules-january-2022)
+ - [Netherlands fines Apple &amp;euro;5M, saying Apple&#39;s changes to IAP payments &quot;failed to satisfy the requirements&quot;; the fine rises &amp;euro;5M/week to &amp;euro;50M until Apple complies &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220124/p13#a220124p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
