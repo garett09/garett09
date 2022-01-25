@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Department says the global chip shortage will stretch into at least H2 2022, based on information from 150+ companies in the supply chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/220125/p16#a220125p16)
- - [How to share a Google Doc privately](https://www.theverge.com/22898818/google-doc-share-how-to)
- - [Dim future for Chevy Bolt EV, EUV as evidence mounts GM plans to end production     - Roadshow](https://www.cnet.com/roadshow/news/chevy-bolt-ev-euv-gm-end-production/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chip shortages could last until the second half of 2022, White House says](https://appleinsider.com/articles/22/01/25/chip-shortages-could-last-until-the-second-half-of-2022-white-house-says?utm_medium=rss)
+ - [Review of Intel&#39;s 12th Gen Alder Lake-H Core i9-12900HK, tested in a 17-inch MSI Raider GE76 laptop: excellent outright performance with poor energy efficiency &lpar;Brett Howse/AnandTech&rpar;](http://www.techmeme.com/220125/p17#a220125p17)
+ - [&#39;White Lotus&#39; star Murray Bartlett joins Apple TV+ &#39;Physical&#39;](https://appleinsider.com/articles/22/01/25/white-lotus-star-murray-bartlett-joins-apple-tv-physical?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
