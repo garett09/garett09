@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Personal User Safety Guide attempts to ease AirTag concerns](https://appleinsider.com/articles/22/01/25/apples-personal-user-safety-guide-attempts-to-ease-airtag-concerns?utm_medium=rss)
- - [UK-based Sylvera, which uses ML to analyze visual data like satellite imagery to boost accountability for carbon offsetting projects, raises a $32M Series A &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220125/p19#a220125p19)
- - [Apple Wallet digital key use at Hyatt hotels shown off in new video](https://appleinsider.com/articles/22/01/25/apple-wallet-digital-key-use-at-hyatt-hotels-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports](https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj)
+ - [If Apple replaced your iPhone or Mac, expect an email about a class action settlement](https://appleinsider.com/articles/22/01/25/if-apple-replaced-your-iphone-or-mac-expect-an-email-about-a-class-action-settlement?utm_medium=rss)
+ - [Google&#39;s three years of security updates for its older phones like 2018&#39;s Pixel 3 is planned obsolescence; new Pixels get 5 years of support vs. iPhones&#39; ~6 &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220125/p20#a220125p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
