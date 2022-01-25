@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today, Webb entered its orbit around Lagrange point 2, or L2. That\u2019s about a million miles &lpar;1.6m. km.&rpar; away, For the next 20 years, it&#39;ll `stay` there and take photos of stuff created up to 13.4 billions year ago. I really can&#39;t wait for the first photos...](http://9gag.com/gag/aqGgDQR)
- - 🚯 [Official White House Transcript](http://9gag.com/gag/aWgE9qq)
+ - 🚖 [Don\u2019t look down\u2026. Don\u2019t look down\u2026.](http://9gag.com/gag/aKmdpe6)
+ - 🚯 [Say what you want about prequels, but this is still one of the best lightsaber fight sequences](http://9gag.com/gag/a71wnrA)
  - 🚯 [Kendra Harrison the moment she realized she just ran 12.20 seconds in the 100 meter hurdles, destroying a 28 year old world record](http://9gag.com/gag/aZr7vyz)<!-- MEMES:END -->
 
 --- 
