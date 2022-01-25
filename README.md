@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office, cloud services, and Windows boost revenue in Q2](https://www.theverge.com/22901252/microsoft-q2-2022-earnings-revenue-cloud-services-surface-gaming-xbox)
- - [Microsoft Cloud Strength Fuels Second Quarter Results &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/220125/p23#a220125p23)
- - [Verizon says a third of its wireless customers now use 5G phones, following aggressive deals and discounts to push new devices &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/220125/p22#a220125p22)<!-- TECH:END -->
+ - [Dropbox won&#39;t be fully functional when macOS 12.3 arrives](https://appleinsider.com/articles/22/01/25/dropbox-wont-be-fully-functional-when-macos-123-arrives?utm_medium=rss)
+ - [Apple launched Macintosh on January 24, 1984 and changed the world -- eventually](https://appleinsider.com/articles/19/01/24/apple-launched-macintosh-on-january-24-1984-and-changed-the-world----eventually?utm_medium=rss)
+ - [See Apple Wallet digital key in action at Hyatt hotels](https://appleinsider.com/articles/22/01/25/apple-wallet-digital-key-use-at-hyatt-hotels-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
