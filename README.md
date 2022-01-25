@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art and Design of Reverie Knights Tactics](https://news.xbox.com/en-us/2022/01/25/the-art-and-design-of-reverie-knights-tactics/)
- - [Life-Sized Final Fantasy Bust Has Realistic Sephiroth Nipples, And They&#39;re Excited To See You](https://kotaku.com/final-fantasy-vii-ff7-sephiroth-bust-realistic-nipples-1848418768)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
+ - [Overwatch’s Lunar New Year 2022 event goes live, but is light on skins](https://www.polygon.com/22900997/overwatch-lunar-new-year-2022-dates-skins)
+ - [Legendary Halo Infinite Player Beats Game On The Highest Difficulty Without Taking Damage](https://kotaku.com/halo-infinite-legendary-no-damage-run-xbox-pc-simply-sl-1848419361)
+ - [Percy Jackson and the Olympians Disney Plus show is officially a go](https://www.polygon.com/22901036/percy-jackson-and-the-olympians-disney-plus-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
