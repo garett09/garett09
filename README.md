@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Due To The Low Temperature, Lake Michigan Shattered Into Countless Pieces Of Ice](http://9gag.com/gag/aeg5R5j)
- - 🚯 [I&#39;m running on pure misanthropy apparently](http://9gag.com/gag/axB7Pwn)
- - 🚯 [Tonga eruption with Portugal and Spain for scale.](http://9gag.com/gag/aDDgQ1K)<!-- MEMES:END -->
+ - 🚖 [This guy is a constant source of content](http://9gag.com/gag/aBngo9z)
+ - 🚯 [Tonga eruption with Portugal and Spain for scale.](http://9gag.com/gag/aDDgQ1K)
+ - 🚯 [Gladiator](http://9gag.com/gag/aNP0ONv)<!-- MEMES:END -->
 
 --- 
 
