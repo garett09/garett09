@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ditto](http://9gag.com/gag/a91RVpL)
+ - 🚖 [Not all but the majority, what yall think?](http://9gag.com/gag/aAGgN0g)
  - 🚯 [Bro waka up! it&#39;s 2005!!!](http://9gag.com/gag/aqGgdBL)
- - 🚯 [Nice little workout](http://9gag.com/gag/aZr7dPn)<!-- MEMES:END -->
+ - 🚯 [Recently met this person with a large private collection of minerals and fossils and this is a dinosaur egg nest](http://9gag.com/gag/a0ZRxqB)<!-- MEMES:END -->
 
 --- 
 
