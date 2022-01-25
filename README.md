@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not all but the majority, what yall think?](http://9gag.com/gag/aAGgN0g)
- - 🚯 [Bro waka up! it&#39;s 2005!!!](http://9gag.com/gag/aqGgdBL)
- - 🚯 [Recently met this person with a large private collection of minerals and fossils and this is a dinosaur egg nest](http://9gag.com/gag/a0ZRxqB)<!-- MEMES:END -->
+ - 🚖 [They put more effort in this parody than the entire Matrix 4 movie](http://9gag.com/gag/aYr7n7V)
+ - 🚯 [Intensive interrogation](http://9gag.com/gag/aE8gQMM)
+ - 🚯 [`Our grandparents lives were so much easier` -3 year old chimney sweep in 1933](http://9gag.com/gag/aKmdNpW)<!-- MEMES:END -->
 
 --- 
 
