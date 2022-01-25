@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Stranger of Paradise: Final Fantasy Origin trailer combines fantasy violence with Frank Sinatra](https://www.pcgamer.com/new-stranger-of-paradise-final-fantasy-origin-trailer-combines-fantasy-violence-with-frank-sinatra)
  - [Pokémon Legends: Arceus Has Giant Pokémon And Of Course Everyone Wants To Be Stepped On](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-alpha-giant-1848414689)
- - [Here&#39;s everything that&#39;s happened since Microsoft acquired Activision Blizzard](https://www.pcgamer.com/heres-everything-thats-happened-since-microsoft-acquired-activision-blizzard)
- - [Shameless Unpacking Clone Is The App Store&#39;s Top Download](https://kotaku.com/unpacking-master-ios-play-store-clone-mobile-gaming-wit-1848414416)<!-- GAME:END -->
+ - [Here&#39;s everything that&#39;s happened since Microsoft acquired Activision Blizzard](https://www.pcgamer.com/heres-everything-thats-happened-since-microsoft-acquired-activision-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
