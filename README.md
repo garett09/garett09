@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fight, Cook, Serve, Survive in Cannibal Cuisine with 1-4 Players](https://news.xbox.com/en-us/2022/01/25/fight-cook-serve-survive-in-cannibal-cuisine-with-1-4-players/)
- - [Apex Legends is giving away Legends in February](https://www.polygon.com/22901212/apex-legends-free-legends)
- - [High-End PC Graphics Cards Get A Little Cheaper As Crypto Tanks](https://kotaku.com/nvidia-rtx-pc-gpu-prices-lower-crypto-bitcoin-dogecoin-1848419792)<!-- GAME:END -->
+ - [Overwatch&#39;s Lunar New Year 2022 event is light on skins this year](https://www.pcgamer.com/overwatchs-lunar-new-year-2022-event-is-light-on-skins-this-year)
+ - [Grid Legends gets back on track with an intriguing story mode](https://www.polygon.com/22901021/grid-legends-preview-story-mode-driven-to-glory-cutscenes)
+ - [Professional archer says Link’s bow skills suck](https://www.polygon.com/22901244/the-legend-of-zelda-breath-of-the-wild-link-bow-and-arrow-archery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
