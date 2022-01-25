@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carrot in a Box](http://9gag.com/gag/aQX1Byq)
- - 🚯 [Not all but the majority, what yall think?](http://9gag.com/gag/aAGgN0g)
- - 🚯 [Meanwhile in Japan...](http://9gag.com/gag/aNP08p6)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in Japan...](http://9gag.com/gag/aNP08p6)
+ - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)
+ - 🚯 [Going str8 ta Nummer 1](http://9gag.com/gag/aNP0Gd0)<!-- MEMES:END -->
 
 --- 
 
