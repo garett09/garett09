@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ethereum Foundation renames Eth1 as &quot;execution layer&quot; and Eth2 as &quot;consensus layer&quot; to &quot;save all future users from navigating this confusing mental model&quot; &lpar;Ethereum Blog&rpar;](http://www.techmeme.com/220124/p31#a220124p31)
- - [The biggest video games of 2022: Starfield, Elden Ring, Gran Turismo 7 and more     - CNET](https://www.cnet.com/tech/gaming/the-biggest-video-games-of-2022-starfield-elden-ring-gran-turismo-7-and-more/#ftag=CAD590a51e)
- - [NASA&#39;s James Webb Space Telescope reaches its final cosmic destination     - CNET](https://www.cnet.com/news/nasas-james-webb-space-telescope-reaches-its-final-cosmic-destination/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercado Libre warns vendors against selling counterfeit Apple products](https://appleinsider.com/articles/22/01/25/mercado-libre-warns-vendors-against-selling-counterfeit-apple-products?utm_medium=rss)
+ - [China is supporting thousands of &quot;little giants&quot;, startups taking on Silicon Valley in robotics, quantum computing, semiconductors, and other strategic sectors &lpar;Bloomberg&rpar;](http://www.techmeme.com/220124/p33#a220124p33)
+ - [Is The Matrix Resurrections on HBO Max? What to know     - CNET](https://www.cnet.com/news/is-the-matrix-resurrections-on-hbo-max-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
