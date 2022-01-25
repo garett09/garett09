@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good?](http://9gag.com/gag/a31Rx5m)
- - 🚯 [Didn&#39;t see that coming](http://9gag.com/gag/aNP03M4)
- - 🚯 [Intensive interrogation](http://9gag.com/gag/aE8gQMM)<!-- MEMES:END -->
+ - 🚖 [Just like how they cast the Rock for generic blockbuster action movies](http://9gag.com/gag/a11Rx0b)
+ - 🚯 [Stonks!](http://9gag.com/gag/agg5Kwg)
+ - 🚯 [How not to howitzer](http://9gag.com/gag/aQX1Vv8)<!-- MEMES:END -->
 
 --- 
 
