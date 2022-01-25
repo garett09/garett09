@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kendra Harrison the moment she realized she just ran 12.20 seconds in the 100 meter hurdles, destroying a 28 year old world record](http://9gag.com/gag/aZr7vyz)
- - 🚯 [Don\u2019t look down\u2026. Don\u2019t look down\u2026.](http://9gag.com/gag/aKmdpe6)
+ - 🚖 [US President Biden to the reporter who asked a question about inflation: \u201cWhat a stupid son of a b*tch,\u201d he said.](http://9gag.com/gag/a11ROOP)
+ - 🚯 [When there is a bard in the group and he gives buff to everyone around him...](http://9gag.com/gag/aRr0Dx7)
  - 🚯 [Awww\u2026](http://9gag.com/gag/arnozmK)<!-- MEMES:END -->
 
 --- 
