@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf was that?](http://9gag.com/gag/aLv0VOV)
- - 🚯 [Carrot in a Box](http://9gag.com/gag/aQX1Byq)
- - 🚯 [Correct](http://9gag.com/gag/amg5K4X)<!-- MEMES:END -->
+ - 🚖 [Carrot in a Box](http://9gag.com/gag/aQX1Byq)
+ - 🚯 [Not all but the majority, what yall think?](http://9gag.com/gag/aAGgN0g)
+ - 🚯 [Meanwhile in Japan...](http://9gag.com/gag/aNP08p6)<!-- MEMES:END -->
 
 --- 
 
