@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you haven’t even touched reverse wireless charging](https://www.androidauthority.com/reverse-wireless-charging-poll-results-3096269/)
- - [Turned location tracking off? US lawsuit says Google tracked you anyway.](https://www.androidauthority.com/google-deceptive-location-tracking-lawsuit-3096286/)
- - [As Microsoft acquires Activision, a look at the state of the gaming industry, which generated $180B in 2021 revenue, double that of the movie industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220125/p1#a220125p1)<!-- TECH:END -->
+ - [Apple hit with weekly €5M fines in Dutch dating app dispute](https://www.theverge.com/2022/1/25/22900434/apple-netherlands-antitrust-competition-regulator-acm-5-million-euro-fine-in-app-payments)
+ - [Poll: Have you used Nearby Share before?](https://www.androidauthority.com/use-nearby-share-poll-3096367/)
+ - [You told us: Most of you haven’t even touched reverse wireless charging](https://www.androidauthority.com/reverse-wireless-charging-poll-results-3096269/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
