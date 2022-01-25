@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [They put more effort in this parody than the entire Matrix 4 movie](http://9gag.com/gag/aYr7n7V)
- - 🚯 [Intensive interrogation](http://9gag.com/gag/aE8gQMM)
- - 🚯 [`Our grandparents lives were so much easier` -3 year old chimney sweep in 1933](http://9gag.com/gag/aKmdNpW)<!-- MEMES:END -->
+ - 🚯 [10/10 would watch](http://9gag.com/gag/abgrdRB)
+ - 🚯 [This is it](http://9gag.com/gag/a11Rqr6)<!-- MEMES:END -->
 
 --- 
 
