@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Big Adventure is being rebooted for the series&#39; 30th anniversary](https://www.pcgamer.com/little-big-adventure-is-being-rebooted-for-the-series-30th-anniversary)
- - [Hitler Sex Game Riles Up Steam Users Over Extra Testicle](https://kotaku.com/hitler-sex-game-riles-up-steam-users-over-extra-testicl-1848417922)
- - [Elden Ring will take about 30 hours to finish](https://www.pcgamer.com/elden-ring-will-take-about-30-hours-to-finish)<!-- GAME:END -->
+ - [The Art and Design of Reverie Knights Tactics](https://news.xbox.com/en-us/2022/01/25/the-art-and-design-of-reverie-knights-tactics/)
+ - [Life-Sized Final Fantasy Bust Has Realistic Sephiroth Nipples, And They&#39;re Excited To See You](https://kotaku.com/final-fantasy-vii-ff7-sephiroth-bust-realistic-nipples-1848418768)
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
