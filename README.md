@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: Most of you haven’t even touched reverse wireless charging](https://www.androidauthority.com/reverse-wireless-charging-poll-results-3096269/)
  - [Turned location tracking off? US lawsuit says Google tracked you anyway.](https://www.androidauthority.com/google-deceptive-location-tracking-lawsuit-3096286/)
- - [As Microsoft acquires Activision, a look at the state of the gaming industry, which generated $180B in 2021 revenue, double that of the movie industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220125/p1#a220125p1)
- - [Lenovo Halo leaks: One of the first Snapdragon 8 Gen 1 Plus phones?](https://www.androidauthority.com/lenovo-halo-3096245/)<!-- TECH:END -->
+ - [As Microsoft acquires Activision, a look at the state of the gaming industry, which generated $180B in 2021 revenue, double that of the movie industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220125/p1#a220125p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
