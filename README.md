@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superiority](http://9gag.com/gag/ay9oZpM)
- - 🚯 [The future of Japan&#39;s combat forces...](http://9gag.com/gag/ajg5dZg)
+ - 🚖 [This is true fear](http://9gag.com/gag/aAGgNWg)
+ - 🚯 [Superiority](http://9gag.com/gag/ay9oZpM)
  - 🚯 [This is it](http://9gag.com/gag/a11Rqr6)<!-- MEMES:END -->
 
 --- 
