@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blizzard in Istanbul today.](http://9gag.com/gag/aM4YOx1)
- - 🚯 [Ah yes the klas](http://9gag.com/gag/aBngO62)
- - 🚯 [Today, Webb entered its orbit around Lagrange point 2, or L2. That\u2019s about a million miles &lpar;1.6m. km.&rpar; away, For the next 20 years, it&#39;ll `stay` there and take photos of stuff created up to 13.4 billions year ago. I really can&#39;t wait for the first photos...](http://9gag.com/gag/aqGgDQR)<!-- MEMES:END -->
+ - 🚖 [Ah yes the klas](http://9gag.com/gag/aBngO62)
+ - 🚯 [Today, Webb entered its orbit around Lagrange point 2, or L2. That\u2019s about a million miles &lpar;1.6m. km.&rpar; away, For the next 20 years, it&#39;ll `stay` there and take photos of stuff created up to 13.4 billions year ago. I really can&#39;t wait for the first photos...](http://9gag.com/gag/aqGgDQR)
+ - 🚯 [I&#39;m running on pure misanthropy apparently](http://9gag.com/gag/axB7Pwn)<!-- MEMES:END -->
 
 --- 
 
