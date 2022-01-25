@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropbox won&#39;t be fully functional when macOS 12.3 arrives](https://appleinsider.com/articles/22/01/25/dropbox-wont-be-fully-functional-when-macos-123-arrives?utm_medium=rss)
- - [Apple launched Macintosh on January 24, 1984 and changed the world -- eventually](https://appleinsider.com/articles/19/01/24/apple-launched-macintosh-on-january-24-1984-and-changed-the-world----eventually?utm_medium=rss)
- - [See Apple Wallet digital key in action at Hyatt hotels](https://appleinsider.com/articles/22/01/25/apple-wallet-digital-key-use-at-hyatt-hotels-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
+ - [Ethos and Icon microphone review: Approachable, high-end audio perfect for podcast creators](https://appleinsider.com/articles/22/01/25/ethos-and-icon-microphone-review-approachable-high-end-audio-perfect-for-podcast-creators?utm_medium=rss)
+ - [Confirmed: Samsung Galaxy Unpacked date revealed for the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-unpacked-2022-3096763/)
+ - [Samsung’s next Unpacked event is set for February 9th](https://www.theverge.com/2022/1/25/22900900/samsung-galaxy-unpacked-february-date-time-s22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
