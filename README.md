@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [A look at the piracy issues plaguing blockchain-based music streamer Audius, as users easily find unlicensed albums from Kanye West, Drake, Nas, and others &lpar;Micah Singleton/Billboard&rpar;](http://www.techmeme.com/220124/p30#a220124p30)
- - [Mission: Impossible release dates have been pushed back again](https://www.theverge.com/2022/1/24/22899256/mission-impossible-7-8-delayed-movie-tom-cruise-paramount)
- - [How to rearrange and delete your home screen pages in iOS 15 and iPadOS 15](https://appleinsider.com/articles/22/01/25/how-to-rearrange-and-delete-your-home-screen-pages-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
+ - [Mission: Impossible release dates have been pushed back again](https://www.theverge.com/2022/1/24/22899256/mission-impossible-7-8-delayed-movie-tom-cruise-paramount)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
