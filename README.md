@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia and Facebook&#39;s Meta to build AI research supercomputer](https://www.pcgamer.com/nvidia-and-facebooks-meta-to-build-ai-research-supercomputer)
  - [Intel&#39;s Arc Alchemist mobile GPU specs detailed in leaked slide](https://www.pcgamer.com/intels-arc-alchemist-mobile-gpu-specs-detailed-in-leaked-slide)
- - [eBay Australia has a huge discount on this Alienware RTX 3080 prebuilt](https://www.pcgamer.com/ebay-australia-has-a-huge-discount-on-this-alienware-rtx-3080-prebuilt)
- - [GPUs are already getting cheaper in 2022](https://www.pcgamer.com/gpus-are-already-getting-cheaper-in-2022)<!-- GAME:END -->
+ - [eBay Australia has a huge discount on this Alienware RTX 3080 prebuilt](https://www.pcgamer.com/ebay-australia-has-a-huge-discount-on-this-alienware-rtx-3080-prebuilt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
