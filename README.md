@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy is a constant source of content](http://9gag.com/gag/aBngo9z)
- - 🚯 [Tonga eruption with Portugal and Spain for scale.](http://9gag.com/gag/aDDgQ1K)
- - 🚯 [Gladiator](http://9gag.com/gag/aNP0ONv)<!-- MEMES:END -->
+ - 🚖 [Gladiator](http://9gag.com/gag/aNP0ONv)
+ - 🚯 [Official White House Transcript](http://9gag.com/gag/aWgE9qq)
+ - 🚯 [Kurwa!!! That&#39;s why Germany is so quiet!](http://9gag.com/gag/aAGgO6g)<!-- MEMES:END -->
 
 --- 
 
