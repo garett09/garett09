@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GPUs are already getting cheaper in 2022](https://www.pcgamer.com/gpus-are-already-getting-cheaper-in-2022)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Raven&#39;s New &#39;Organizational Change&#39; Conveniently Breaks Up Union Members](https://kotaku.com/raven-qa-call-of-duty-quality-assurance-unions-activisi-1848415154)<!-- GAME:END -->
+ - [Intel&#39;s Arc Alchemist mobile GPU specs detailed in leaked slide](https://www.pcgamer.com/intels-arc-alchemist-mobile-gpu-specs-detailed-in-leaked-slide)
+ - [eBay Australia has a huge discount on this Alienware RTX 3080 prebuilt](https://www.pcgamer.com/ebay-australia-has-a-huge-discount-on-this-alienware-rtx-3080-prebuilt)
+ - [GPUs are already getting cheaper in 2022](https://www.pcgamer.com/gpus-are-already-getting-cheaper-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
