@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This is true fear](http://9gag.com/gag/aAGgNWg)
- - 🚯 [Superiority](http://9gag.com/gag/ay9oZpM)
- - 🚯 [This is it](http://9gag.com/gag/a11Rqr6)<!-- MEMES:END -->
+ - 🚯 [How Long Does It Take to Charge an Electric Car](http://9gag.com/gag/aGzgo67)
+ - 🚯 [This is what I call incentive bonus](http://9gag.com/gag/ang5WNo)<!-- MEMES:END -->
 
 --- 
 
