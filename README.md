@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Wordle Variants Show Just How Finely Crafted The Original Is](https://kotaku.com/wordle-clones-twitter-word-game-absurdle-lewdle-dordle-1848414806)
- - [More Star Wars Games Are Being Developed By Jedi: Fallen Order Studio Respawn](https://kotaku.com/star-wars-announcement-2022-jedi-fallen-order-apex-lege-1848416767)
- - [Peter Dinklage takes aim at Disney’s live-action Snow White remake](https://www.polygon.com/22900624/peter-dinklage-disney-snow-white-movie-remake-dwarfism)<!-- GAME:END -->
+ - [There Are Many Wordle Clones And Variants And That’s Good, Actually](https://kotaku.com/wordle-games-like-clones-twitter-word-absurdle-lewdle-d-1848414806)
+ - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
+ - [Andrew Garfield says lying about Spider-Man: No Way Home for two years ‘felt great’](https://www.polygon.com/22900623/andrew-garfield-spider-man-no-way-home-emma-stone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
