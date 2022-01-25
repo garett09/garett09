@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Legends: Arceus Has Giant Pokémon And Of Course Everyone Wants To Be Stepped On](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-alpha-giant-1848414689)
  - [Here&#39;s everything that&#39;s happened since Microsoft acquired Activision Blizzard](https://www.pcgamer.com/heres-everything-thats-happened-since-microsoft-acquired-activision-blizzard)
- - [Shameless Unpacking Clone Is The App Store&#39;s Top Download](https://kotaku.com/unpacking-master-ios-play-store-clone-mobile-gaming-wit-1848414416)
- - [A &#39;90% complete&#39; fan-made PC port of Zelda: Ocarina of Time could be ready by April](https://www.pcgamer.com/a-90-complete-fan-made-pc-port-of-zelda-ocarina-of-time-could-be-ready-by-april)<!-- GAME:END -->
+ - [Shameless Unpacking Clone Is The App Store&#39;s Top Download](https://kotaku.com/unpacking-master-ios-play-store-clone-mobile-gaming-wit-1848414416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
