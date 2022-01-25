@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger of Paradise Final Fantasy Origin’s new trailer is brave enough to feature Frank Sinatra](https://www.polygon.com/22899669/stranger-of-paradise-final-fantasy-origin-trailer-frank-sinatra-my-way)
- - [Saudi-Backed Company Buys ESL For $1 Billion](https://kotaku.com/esl-faceit-esports-public-investment-fund-saudi-arabia-1848413393)
- - [This spooky subway game gives Sunday Scaries a whole new meaning](https://www.polygon.com/22898995/platformer-horror-turn-based-rpg-climbing)<!-- GAME:END -->
+ - [Here&#39;s everything that&#39;s happened since Microsoft acquired Activision Blizzard](https://www.pcgamer.com/heres-everything-thats-happened-since-microsoft-acquired-activision-blizzard)
+ - [Shameless Unpacking Clone Is The App Store&#39;s Top Download](https://kotaku.com/unpacking-master-ios-play-store-clone-mobile-gaming-wit-1848414416)
+ - [A &#39;90% complete&#39; fan-made PC port of Zelda: Ocarina of Time could be ready by April](https://www.pcgamer.com/a-90-complete-fan-made-pc-port-of-zelda-ocarina-of-time-could-be-ready-by-april)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
