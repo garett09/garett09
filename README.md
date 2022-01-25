@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 director says he wants to work on the game for the next 10 years](https://www.pcgamer.com/final-fantasy-14-director-says-he-wants-to-work-on-the-game-for-the-next-10-years)
- - [The best starter deck to choose in Yu-Gi-Oh Master Duel](https://www.pcgamer.com/best-yu-gi-oh-master-duel-deck-starter)
- - [Steam Deck will let you suspend play and continue on another device](https://www.pcgamer.com/steam-deck-will-let-you-suspend-play-and-continue-on-another-device)<!-- GAME:END -->
+ - [The Vulkan 1.3 roadmap could change the very silicon it runs on](https://www.pcgamer.com/the-vulkan-13-roadmap-could-change-the-very-silicon-it-runs-on)
+ - [Jujutsu Kaisen 0 officially hits American theaters this March](https://www.polygon.com/22900225/jujutsu-kaisen-0-release-date-us-america)
+ - [Final Fantasy 14 is back on sale after 6 weeks](https://www.pcgamer.com/final-fantasy-14-is-back-on-sale-after-6-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
