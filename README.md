@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just like how they cast the Rock for generic blockbuster action movies](http://9gag.com/gag/a11Rx0b)
- - 🚯 [Stonks!](http://9gag.com/gag/agg5Kwg)
- - 🚯 [How not to howitzer](http://9gag.com/gag/aQX1Vv8)<!-- MEMES:END -->
+ - 🚖 [Ditto](http://9gag.com/gag/a91RVpL)
+ - 🚯 [Bro waka up! it&#39;s 2005!!!](http://9gag.com/gag/aqGgdBL)
+ - 🚯 [Nice little workout](http://9gag.com/gag/aZr7dPn)<!-- MEMES:END -->
 
 --- 
 
