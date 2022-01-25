@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Vulkan 1.3 roadmap could change the very silicon it runs on](https://www.pcgamer.com/the-vulkan-13-roadmap-could-change-the-very-silicon-it-runs-on)
- - [Jujutsu Kaisen 0 officially hits American theaters this March](https://www.polygon.com/22900225/jujutsu-kaisen-0-release-date-us-america)
- - [Final Fantasy 14 is back on sale after 6 weeks](https://www.pcgamer.com/final-fantasy-14-is-back-on-sale-after-6-weeks)<!-- GAME:END -->
+ - [Strange Wordle Variants Show Just How Finely Crafted The Original Is](https://kotaku.com/wordle-clones-twitter-word-game-absurdle-lewdle-dordle-1848414806)
+ - [More Star Wars Games Are Being Developed By Jedi: Fallen Order Studio Respawn](https://kotaku.com/star-wars-announcement-2022-jedi-fallen-order-apex-lege-1848416767)
+ - [Peter Dinklage takes aim at Disney’s live-action Snow White remake](https://www.polygon.com/22900624/peter-dinklage-disney-snow-white-movie-remake-dwarfism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
