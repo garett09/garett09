@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck will let you suspend play and continue on another device](https://www.pcgamer.com/steam-deck-will-let-you-suspend-play-and-continue-on-another-device)
- - [There&#39;s hope that GPU shipments will soon increase as ABF substrate shortages ease](https://www.pcgamer.com/theres-hope-that-gpu-shipments-will-soon-increase-as-abf-substrate-shortages-ease)
- - [Nvidia and Facebook&#39;s Meta to build AI research supercomputer](https://www.pcgamer.com/nvidia-and-facebooks-meta-to-build-ai-research-supercomputer)<!-- GAME:END -->
+ - [Final Fantasy 14 director says he wants to work on the game for the next 10 years](https://www.pcgamer.com/final-fantasy-14-director-says-he-wants-to-work-on-the-game-for-the-next-10-years)
+ - [The best starter deck to choose in Yu-Gi-Oh Master Duel](https://www.pcgamer.com/best-yu-gi-oh-master-duel-deck-starter)
+ - [Steam Deck will let you suspend play and continue on another device](https://www.pcgamer.com/steam-deck-will-let-you-suspend-play-and-continue-on-another-device)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
