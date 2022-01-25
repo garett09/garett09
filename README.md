@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [The Ethereum Foundation renames Eth1 as &quot;execution layer&quot; and Eth2 as &quot;consensus layer&quot; to &quot;save all future users from navigating this confusing mental model&quot; &lpar;Ethereum Blog&rpar;](http://www.techmeme.com/220124/p31#a220124p31)
- - [NASA&#39;s James Webb Space Telescope reaches its final cosmic destination     - CNET](https://www.cnet.com/news/nasas-james-webb-space-telescope-reaches-its-final-cosmic-destination/#ftag=CAD590a51e)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [The biggest video games of 2022: Starfield, Elden Ring, Gran Turismo 7 and more     - CNET](https://www.cnet.com/tech/gaming/the-biggest-video-games-of-2022-starfield-elden-ring-gran-turismo-7-and-more/#ftag=CAD590a51e)
+ - [NASA&#39;s James Webb Space Telescope reaches its final cosmic destination     - CNET](https://www.cnet.com/news/nasas-james-webb-space-telescope-reaches-its-final-cosmic-destination/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
