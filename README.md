@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Giant iceberg releases 152 billion tons of fresh water around remote Atlantic island](https://www.theverge.com/2022/1/24/22895124/iceberg-south-georgia-melt-fresh-water-climate)
- - [Sources: Savvy Gaming Group, backed by the Saudi Arabian government&#39;s Public Investment Fund, acquires esports companies ESL and FACEIT for a combined $1.5B &lpar;Kevin Hitt/Sports Business Journal&rpar;](http://www.techmeme.com/220124/p28#a220124p28)
- - [At long last, Nvidia and AMD GPU street prices are beginning to drop](https://www.theverge.com/2022/1/24/22899527/nvidia-amd-gpu-rtx-3080-radeon-price-drop-ebay-ps5-xbox-series-x-playstation)<!-- TECH:END -->
+ - [A look at the piracy issues plaguing blockchain-based music streamer Audius, as users easily find unlicensed albums from Kanye West, Drake, Nas, and others &lpar;Micah Singleton/Billboard&rpar;](http://www.techmeme.com/220124/p30#a220124p30)
+ - [Mission: Impossible release dates have been pushed back again](https://www.theverge.com/2022/1/24/22899256/mission-impossible-7-8-delayed-movie-tom-cruise-paramount)
+ - [How to rearrange and delete your home screen pages in iOS 15 and iPadOS 15](https://appleinsider.com/articles/22/01/25/how-to-rearrange-and-delete-your-home-screen-pages-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
