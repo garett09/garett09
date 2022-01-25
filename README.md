@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous sidewalk delivery robot company Starship Technologies raises &amp;euro;50M from the European Investment Bank, following a $40M Series A in 2019 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220125/p6#a220125p6)
- - [Nvidia close to giving up on $40B Arm acquisition](https://appleinsider.com/articles/22/01/25/nvidia-close-to-giving-up-on-40b-arm-acquisition?utm_medium=rss)
- - [John Lennon&#39;s son Julian plans to auction off memorabilia as NFTs, including handwritten notes from Hey Jude; Lennon will retain the physical counterparts &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220125/p5#a220125p5)<!-- TECH:END -->
+ - [Google shutters FLoC, its controversial replacement for cookies, and details Topics, which organizes browsing into 300+ topics &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220125/p10#a220125p10)
+ - [Brazil-based Creditas, which offers insurance, loans, and runs a used-car marketplace, raises $260M at a $4.8B valuation, after raising $255M in December 2020 &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/220125/p9#a220125p9)
+ - [C-Band 5G: What is it and where is it available?](https://www.androidauthority.com/what-is-c-band-5g-3094315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
