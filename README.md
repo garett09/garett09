@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US President Biden to the reporter who asked a question about inflation: \u201cWhat a stupid son of a b*tch,\u201d he said.](http://9gag.com/gag/a11ROOP)
- - 🚯 [When there is a bard in the group and he gives buff to everyone around him...](http://9gag.com/gag/aRr0Dx7)
- - 🚯 [Awww\u2026](http://9gag.com/gag/arnozmK)<!-- MEMES:END -->
+ - 🚖 [Good?](http://9gag.com/gag/a31Rx5m)
+ - 🚯 [Didn&#39;t see that coming](http://9gag.com/gag/aNP03M4)
+ - 🚯 [Intensive interrogation](http://9gag.com/gag/aE8gQMM)<!-- MEMES:END -->
 
 --- 
 
