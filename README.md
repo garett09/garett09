@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [A look at the piracy issues plaguing blockchain-based music streamer Audius, as users easily find unlicensed albums from Kanye West, Drake, Nas, and others &lpar;Micah Singleton/Billboard&rpar;](http://www.techmeme.com/220124/p30#a220124p30)
- - [Mission: Impossible release dates have been pushed back again](https://www.theverge.com/2022/1/24/22899256/mission-impossible-7-8-delayed-movie-tom-cruise-paramount)<!-- TECH:END -->
+ - [The Ethereum Foundation renames Eth1 as &quot;execution layer&quot; and Eth2 as &quot;consensus layer&quot; to &quot;save all future users from navigating this confusing mental model&quot; &lpar;Ethereum Blog&rpar;](http://www.techmeme.com/220124/p31#a220124p31)
+ - [NASA&#39;s James Webb Space Telescope reaches its final cosmic destination     - CNET](https://www.cnet.com/news/nasas-james-webb-space-telescope-reaches-its-final-cosmic-destination/#ftag=CAD590a51e)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
