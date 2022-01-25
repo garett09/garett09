@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes the klas](http://9gag.com/gag/aBngO62)
- - 🚯 [Today, Webb entered its orbit around Lagrange point 2, or L2. That\u2019s about a million miles &lpar;1.6m. km.&rpar; away, For the next 20 years, it&#39;ll `stay` there and take photos of stuff created up to 13.4 billions year ago. I really can&#39;t wait for the first photos...](http://9gag.com/gag/aqGgDQR)
- - 🚯 [I&#39;m running on pure misanthropy apparently](http://9gag.com/gag/axB7Pwn)<!-- MEMES:END -->
+ - 🚖 [Due To The Low Temperature, Lake Michigan Shattered Into Countless Pieces Of Ice](http://9gag.com/gag/aeg5R5j)
+ - 🚯 [I&#39;m running on pure misanthropy apparently](http://9gag.com/gag/axB7Pwn)
+ - 🚯 [Tonga eruption with Portugal and Spain for scale.](http://9gag.com/gag/aDDgQ1K)<!-- MEMES:END -->
 
 --- 
 
