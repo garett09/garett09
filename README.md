@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in Japan...](http://9gag.com/gag/aNP08p6)
- - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)
- - 🚯 [Going str8 ta Nummer 1](http://9gag.com/gag/aNP0Gd0)<!-- MEMES:END -->
+ - 🚖 [Girl cheats on guy and keeps him inside her house](http://9gag.com/gag/amg5Op9)
+ - 🚯 [All that bullshit pissed me off since Day 1](http://9gag.com/gag/a0ZRWwQ)
+ - 🚯 [`Our grandparents lives were so much easier` -3 year old chimney sweep in 1933](http://9gag.com/gag/aKmdNpW)<!-- MEMES:END -->
 
 --- 
 
