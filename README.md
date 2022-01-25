@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GPUs are already getting cheaper in 2022](https://www.pcgamer.com/gpus-are-already-getting-cheaper-in-2022)
  - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Raven&#39;s New &#39;Organizational Change&#39; Conveniently Breaks Up Union Members](https://kotaku.com/raven-qa-call-of-duty-quality-assurance-unions-activisi-1848415154)
- - [ESL and Dreamhack are now owned by Saudi Arabia](https://www.pcgamer.com/esl-and-dreamhack-are-now-owned-by-saudi-arabia)<!-- GAME:END -->
+ - [Raven&#39;s New &#39;Organizational Change&#39; Conveniently Breaks Up Union Members](https://kotaku.com/raven-qa-call-of-duty-quality-assurance-unions-activisi-1848415154)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
