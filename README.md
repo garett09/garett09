@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft channels Internet Explorer meme, brings Android 11 to Surface Duo](https://www.androidauthority.com/microsoft-surface-duo-android-11-3095489/)
- - [A look at Orange DAO, a crypto collective made up of 1,000+ YC founders backing Web3 startups, which has closed an initial fund and invested in ~30 startups &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220124/p34#a220124p34)
- - [Mercado Libre warns vendors against selling counterfeit Apple products](https://appleinsider.com/articles/22/01/25/mercado-libre-warns-vendors-against-selling-counterfeit-apple-products?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo Halo leaks: One of the first Snapdragon 8 Gen 1 Plus phones?](https://www.androidauthority.com/lenovo-halo-3096245/)
+ - [Google’s Pixel foldable could be much cheaper than the Galaxy Z Fold 3](https://www.androidauthority.com/google-pixel-foldable-price-3096203/)
+ - [Microsoft channels Internet Explorer meme, brings Android 11 to Surface Duo](https://www.androidauthority.com/microsoft-surface-duo-android-11-3095489/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
