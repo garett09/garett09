@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There Are Many Wordle Clones And Variants And That’s Good, Actually](https://kotaku.com/wordle-games-like-clones-twitter-word-absurdle-lewdle-d-1848414806)
- - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
- - [Andrew Garfield says lying about Spider-Man: No Way Home for two years ‘felt great’](https://www.polygon.com/22900623/andrew-garfield-spider-man-no-way-home-emma-stone)<!-- GAME:END -->
+ - [Little Big Adventure is being rebooted for the series&#39; 30th anniversary](https://www.pcgamer.com/little-big-adventure-is-being-rebooted-for-the-series-30th-anniversary)
+ - [Hitler Sex Game Riles Up Steam Users Over Extra Testicle](https://kotaku.com/hitler-sex-game-riles-up-steam-users-over-extra-testicl-1848417922)
+ - [Elden Ring will take about 30 hours to finish](https://www.pcgamer.com/elden-ring-will-take-about-30-hours-to-finish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
