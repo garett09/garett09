@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard to reorganize Raven QA workers amid union efforts](https://www.polygon.com/22901414/activision-blizzard-raven-software-qa-union-reorg)
- - [Paris Hilton and Jimmy Fallon showing off their NFTs is the longest 77 seconds ever](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-showing-off-their-nfts-is-the-longest-77-seconds-ever)
- - [The best order to watch all of Star Wars based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)<!-- GAME:END -->
+ - [Hearthstone&#39;s Battleground Buddies have arrived](https://www.pcgamer.com/hearthstones-battleground-buddies-have-arrived)
+ - [Wordle has a sneaky hard mode you might not know about](https://www.polygon.com/guides/22901472/wordle-hard-mode-word-game)
+ - [Activision Blizzard to reorganize Raven QA workers amid union efforts](https://www.polygon.com/22901414/activision-blizzard-raven-software-qa-union-reorg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
