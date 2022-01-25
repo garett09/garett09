@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan. 25: $280 Nintendo Switch, $175 Beats Studio3 Headphones, more!](https://appleinsider.com/articles/22/01/25/best-deals-jan-25-280-nintendo-switch-175-beats-studio3-headphones-more?utm_medium=rss)
- - [Apple pays record $100,500 to student who found Mac webcam hack](https://appleinsider.com/articles/22/01/25/apple-pays-record-100500-to-student-who-found-mac-webcam-hack?utm_medium=rss)
- - [Cityrow launches Apple Watch integration on its at-home rowing equipment](https://appleinsider.com/articles/22/01/25/cityrow-launches-apple-watch-integration-on-its-at-home-rowing-equipment?utm_medium=rss)<!-- TECH:END -->
+ - [TP-Link Kasa Smart Bulb &lpar;KL125&rpar; review: Millions of colors, no hub in sight](https://www.androidauthority.com/tp-link-kasa-smart-bulb-kl125-review-3031924/)
+ - [Sick Pet? These Are the Best Virtual Vet Services](https://www.wired.com/story/best-veterinary-telemedicine-services)
+ - [Tesla adds Apple Wallet support for insurance policy cards on iOS](https://appleinsider.com/articles/22/01/25/tesla-adds-apple-wallet-support-for-insurance-policy-cards-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
