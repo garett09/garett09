@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch’s Lunar New Year 2022 event goes live, but is light on skins](https://www.polygon.com/22900997/overwatch-lunar-new-year-2022-dates-skins)
- - [Legendary Halo Infinite Player Beats Game On The Highest Difficulty Without Taking Damage](https://kotaku.com/halo-infinite-legendary-no-damage-run-xbox-pc-simply-sl-1848419361)
- - [Percy Jackson and the Olympians Disney Plus show is officially a go](https://www.polygon.com/22901036/percy-jackson-and-the-olympians-disney-plus-show)<!-- GAME:END -->
+ - [Fight, Cook, Serve, Survive in Cannibal Cuisine with 1-4 Players](https://news.xbox.com/en-us/2022/01/25/fight-cook-serve-survive-in-cannibal-cuisine-with-1-4-players/)
+ - [Apex Legends is giving away Legends in February](https://www.polygon.com/22901212/apex-legends-free-legends)
+ - [High-End PC Graphics Cards Get A Little Cheaper As Crypto Tanks](https://kotaku.com/nvidia-rtx-pc-gpu-prices-lower-crypto-bitcoin-dogecoin-1848419792)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
