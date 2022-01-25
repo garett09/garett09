@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google shutters FLoC, its controversial replacement for cookies, and details Topics, which organizes browsing into 300+ topics &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220125/p10#a220125p10)
- - [Brazil-based Creditas, which offers insurance, loans, and runs a used-car marketplace, raises $260M at a $4.8B valuation, after raising $255M in December 2020 &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/220125/p9#a220125p9)
- - [C-Band 5G: What is it and where is it available?](https://www.androidauthority.com/what-is-c-band-5g-3094315/)<!-- TECH:END -->
+ - [Best deals Jan. 25: $280 Nintendo Switch, $175 Beats Studio3 Headphones, more!](https://appleinsider.com/articles/22/01/25/best-deals-jan-25-280-nintendo-switch-175-beats-studio3-headphones-more?utm_medium=rss)
+ - [Apple pays record $100,500 to student who found Mac webcam hack](https://appleinsider.com/articles/22/01/25/apple-pays-record-100500-to-student-who-found-mac-webcam-hack?utm_medium=rss)
+ - [Cityrow launches Apple Watch integration on its at-home rowing equipment](https://appleinsider.com/articles/22/01/25/cityrow-launches-apple-watch-integration-on-its-at-home-rowing-equipment?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
