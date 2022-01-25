@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is not going to end well](http://9gag.com/gag/a11RL7G)
- - 🚯 [There&#39;s cities, there&#39;s metropolises and then there&#39;s Tokyo.](http://9gag.com/gag/ajg5Zex)
- - 🚯 [Say what you want about prequels, but this is still one of the best lightsaber fight sequences](http://9gag.com/gag/a71wnrA)<!-- MEMES:END -->
+ - 🚖 [Blizzard in Istanbul today.](http://9gag.com/gag/aM4YOx1)
+ - 🚯 [Ah yes the klas](http://9gag.com/gag/aBngO62)
+ - 🚯 [Today, Webb entered its orbit around Lagrange point 2, or L2. That\u2019s about a million miles &lpar;1.6m. km.&rpar; away, For the next 20 years, it&#39;ll `stay` there and take photos of stuff created up to 13.4 billions year ago. I really can&#39;t wait for the first photos...](http://9gag.com/gag/aqGgDQR)<!-- MEMES:END -->
 
 --- 
 
