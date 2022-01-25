@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ESL and Dreamhack are now owned by Saudi Arabia](https://www.pcgamer.com/esl-and-dreamhack-are-now-owned-by-saudi-arabia)
- - [New Stranger of Paradise: Final Fantasy Origin trailer combines fantasy violence with Frank Sinatra](https://www.pcgamer.com/new-stranger-of-paradise-final-fantasy-origin-trailer-combines-fantasy-violence-with-frank-sinatra)
- - [Pokémon Legends: Arceus Has Giant Pokémon And Of Course Everyone Wants To Be Stepped On](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-alpha-giant-1848414689)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [Raven&#39;s New &#39;Organizational Change&#39; Conveniently Breaks Up Union Members](https://kotaku.com/raven-qa-call-of-duty-quality-assurance-unions-activisi-1848415154)
+ - [ESL and Dreamhack are now owned by Saudi Arabia](https://www.pcgamer.com/esl-and-dreamhack-are-now-owned-by-saudi-arabia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
