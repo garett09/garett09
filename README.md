@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TP-Link Kasa Smart Bulb &lpar;KL125&rpar; review: Millions of colors, no hub in sight](https://www.androidauthority.com/tp-link-kasa-smart-bulb-kl125-review-3031924/)
- - [Sick Pet? These Are the Best Virtual Vet Services](https://www.wired.com/story/best-veterinary-telemedicine-services)
- - [Tesla adds Apple Wallet support for insurance policy cards on iOS](https://appleinsider.com/articles/22/01/25/tesla-adds-apple-wallet-support-for-insurance-policy-cards-on-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Original &#39;iBeer&#39; iPhone app made creators $20,000 a day](https://appleinsider.com/articles/22/01/25/original-ibeer-iphone-app-made-creators-20000-a-day?utm_medium=rss)
+ - [Amazon Music will offer My Favorite Murder episodes a week early](https://www.theverge.com/2022/1/25/22900145/amazon-music-my-favorite-murder-podcast-deal-hot-pod)
+ - [Indian smartphone shipments reached a record 162M in 2021, up 12% YoY, led by Xiaomi with 40.5M, Samsung with 30.1M, Vivo with 25.7M, and Realme with 24.2M &lpar;Canalys&rpar;](http://www.techmeme.com/220125/p15#a220125p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
