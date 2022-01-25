@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is true fear](http://9gag.com/gag/aAGgNWg)
- - 🚯 [How Long Does It Take to Charge an Electric Car](http://9gag.com/gag/aGzgo67)
- - 🚯 [This is what I call incentive bonus](http://9gag.com/gag/ang5WNo)<!-- MEMES:END -->
+ - 🚖 [Wtf was that?](http://9gag.com/gag/aLv0VOV)
+ - 🚯 [Carrot in a Box](http://9gag.com/gag/aQX1Byq)
+ - 🚯 [Correct](http://9gag.com/gag/amg5K4X)<!-- MEMES:END -->
 
 --- 
 
