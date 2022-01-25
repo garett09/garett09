@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hit with weekly €5M fines in Dutch dating app dispute](https://www.theverge.com/2022/1/25/22900434/apple-netherlands-antitrust-competition-regulator-acm-5-million-euro-fine-in-app-payments)
- - [Poll: Have you used Nearby Share before?](https://www.androidauthority.com/use-nearby-share-poll-3096367/)
- - [You told us: Most of you haven’t even touched reverse wireless charging](https://www.androidauthority.com/reverse-wireless-charging-poll-results-3096269/)<!-- TECH:END -->
+ - [Autonomous sidewalk delivery robot company Starship Technologies raises &amp;euro;50M from the European Investment Bank, following a $40M Series A in 2019 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220125/p6#a220125p6)
+ - [Nvidia close to giving up on $40B Arm acquisition](https://appleinsider.com/articles/22/01/25/nvidia-close-to-giving-up-on-40b-arm-acquisition?utm_medium=rss)
+ - [John Lennon&#39;s son Julian plans to auction off memorabilia as NFTs, including handwritten notes from Hey Jude; Lennon will retain the physical counterparts &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220125/p5#a220125p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
