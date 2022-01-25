@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They put more effort in this parody than the entire Matrix 4 movie](http://9gag.com/gag/aYr7n7V)
- - 🚯 [10/10 would watch](http://9gag.com/gag/abgrdRB)
+ - 🚖 [Superiority](http://9gag.com/gag/ay9oZpM)
+ - 🚯 [The future of Japan&#39;s combat forces...](http://9gag.com/gag/ajg5dZg)
  - 🚯 [This is it](http://9gag.com/gag/a11Rqr6)<!-- MEMES:END -->
 
 --- 
