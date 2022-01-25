@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original &#39;iBeer&#39; iPhone app made creators $20,000 a day](https://appleinsider.com/articles/22/01/25/original-ibeer-iphone-app-made-creators-20000-a-day?utm_medium=rss)
- - [Amazon Music will offer My Favorite Murder episodes a week early](https://www.theverge.com/2022/1/25/22900145/amazon-music-my-favorite-murder-podcast-deal-hot-pod)
- - [Indian smartphone shipments reached a record 162M in 2021, up 12% YoY, led by Xiaomi with 40.5M, Samsung with 30.1M, Vivo with 25.7M, and Realme with 24.2M &lpar;Canalys&rpar;](http://www.techmeme.com/220125/p15#a220125p15)<!-- TECH:END -->
+ - [US Commerce Department says the global chip shortage will stretch into at least H2 2022, based on information from 150+ companies in the supply chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/220125/p16#a220125p16)
+ - [How to share a Google Doc privately](https://www.theverge.com/22898818/google-doc-share-how-to)
+ - [Dim future for Chevy Bolt EV, EUV as evidence mounts GM plans to end production     - Roadshow](https://www.cnet.com/roadshow/news/chevy-bolt-ev-euv-gm-end-production/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
