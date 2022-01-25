@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip shortages could last until the second half of 2022, White House says](https://appleinsider.com/articles/22/01/25/chip-shortages-could-last-until-the-second-half-of-2022-white-house-says?utm_medium=rss)
- - [Review of Intel&#39;s 12th Gen Alder Lake-H Core i9-12900HK, tested in a 17-inch MSI Raider GE76 laptop: excellent outright performance with poor energy efficiency &lpar;Brett Howse/AnandTech&rpar;](http://www.techmeme.com/220125/p17#a220125p17)
- - [&#39;White Lotus&#39; star Murray Bartlett joins Apple TV+ &#39;Physical&#39;](https://appleinsider.com/articles/22/01/25/white-lotus-star-murray-bartlett-joins-apple-tv-physical?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Personal User Safety Guide attempts to ease AirTag concerns](https://appleinsider.com/articles/22/01/25/apples-personal-user-safety-guide-attempts-to-ease-airtag-concerns?utm_medium=rss)
+ - [UK-based Sylvera, which uses ML to analyze visual data like satellite imagery to boost accountability for carbon offsetting projects, raises a $32M Series A &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220125/p19#a220125p19)
+ - [Apple Wallet digital key use at Hyatt hotels shown off in new video](https://appleinsider.com/articles/22/01/25/apple-wallet-digital-key-use-at-hyatt-hotels-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
