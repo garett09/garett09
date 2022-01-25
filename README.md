@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch&#39;s Lunar New Year 2022 event is light on skins this year](https://www.pcgamer.com/overwatchs-lunar-new-year-2022-event-is-light-on-skins-this-year)
- - [Grid Legends gets back on track with an intriguing story mode](https://www.polygon.com/22901021/grid-legends-preview-story-mode-driven-to-glory-cutscenes)
- - [Professional archer says Link’s bow skills suck](https://www.polygon.com/22901244/the-legend-of-zelda-breath-of-the-wild-link-bow-and-arrow-archery)<!-- GAME:END -->
+ - [Activision Blizzard to reorganize Raven QA workers amid union efforts](https://www.polygon.com/22901414/activision-blizzard-raven-software-qa-union-reorg)
+ - [Paris Hilton and Jimmy Fallon showing off their NFTs is the longest 77 seconds ever](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-showing-off-their-nfts-is-the-longest-77-seconds-ever)
+ - [The best order to watch all of Star Wars based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
