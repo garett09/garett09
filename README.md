@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop has an Xbox Series X bundle available right now](https://www.theverge.com/2022/1/26/22822300/microsoft-xbox-series-x-bundle-console-restock-gamestop-availability)
- - [Apple says it still hasn&#39;t fixed iCloud outages that started on Tuesday](https://appleinsider.com/articles/22/01/26/apple-says-it-still-hasnt-fixed-icloud-outages-that-started-on-tuesday?utm_medium=rss)
- - [Woolnut Coated Sleeves review: New protective &amp; waterproof iPad covers](https://appleinsider.com/articles/22/01/26/woolnut-coated-sleeves-review-new-protective-waterproof-ipad-covers?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds macOS 12.2 to public with rebuilt Apple Music, minor updates](https://appleinsider.com/articles/22/01/26/apple-seeds-macos-122-to-public-with-rebuilt-apple-music-minor-updates?utm_medium=rss)
+ - [Apple releases iOS 15.3 &amp; iPadOS 15.3 with bug fixes](https://appleinsider.com/articles/22/01/26/apple-releases-ios-153-ipados-153-with-bug-fixes?utm_medium=rss)
+ - [iOS 15.3 is out now, and it fixes a nasty Safari bug](https://www.theverge.com/2022/1/26/22898766/ios-15-3-release-download-fixes-safari-security-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
