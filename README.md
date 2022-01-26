@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Season 5 Kicks Off in the Latest Paladins Update](https://news.xbox.com/en-us/2022/01/26/season-5-kicks-off-paladins/)
- - [The New Yu-Gi-Oh! Card Game Is Taking Over The Steam Charts](https://kotaku.com/yugioh-master-duel-steam-konami-cards-deck-popular-free-1848426115)
- - [Valve’s Steam Deck to launch on Feb. 25](https://www.polygon.com/22902936/steam-deck-release-date-order-reservation-valve)<!-- GAME:END -->
+ - [Kick off 2022 with Smite Season 9](https://news.xbox.com/en-us/2022/01/26/kick-off-2022-with-smite-season-9/)
+ - [Halo Infinite Removes Its Worst Map From Ranked Play, Pros Rejoice](https://kotaku.com/halo-infinite-behemoth-map-ranked-pulled-playlist-1848427306)
+ - [It’s Not Just You: Miyamoto Hated Navi In Ocarina Of Time, Too](https://kotaku.com/zelda-ocarina-of-time-nintendo-shigeru-miyamoto-intervi-1848427176)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
