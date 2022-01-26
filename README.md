@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)
- - 🚯 [BREAKING: Trudeau takes hardline approach against Russia, warns Putin not to invade Ukraine unless soldiers can show vaccine passport at the border.](http://9gag.com/gag/aE8gmpn)
+ - 🚖 [Its time for this video to appear again..](http://9gag.com/gag/avAojjE)
+ - 🚯 [Especially in our thirld world country where most drivers and pedestrians don&#39;t obey traffic rules.](http://9gag.com/gag/aOQ0LoE)
  - 🚯 [Beautiful times of childhood](http://9gag.com/gag/aE8gmOK)<!-- MEMES:END -->
 
 --- 
