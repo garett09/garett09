@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethos and Icon microphone review: Approachable, high-end audio perfect for podcast creators](https://appleinsider.com/articles/22/01/25/ethos-and-icon-microphone-review-approachable-high-end-audio-perfect-for-podcast-creators?utm_medium=rss)
- - [Confirmed: Samsung Galaxy Unpacked date revealed for the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-unpacked-2022-3096763/)
- - [Samsung’s next Unpacked event is set for February 9th](https://www.theverge.com/2022/1/25/22900900/samsung-galaxy-unpacked-february-date-time-s22)<!-- TECH:END -->
+ - [Sources: Meta-backed Diem Association is in talks with investment bankers about selling its assets as a way of returning capital to its investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/220125/p28#a220125p28)
+ - [Call of Duty’s next three games will hit PlayStation despite Microsoft’s Activision deal](https://www.theverge.com/2022/1/25/22901676/call-of-duty-sony-playstation-microsoft-xbox-activision-acquisition-deal)
+ - [Samsung&#39;s Galaxy S22 Unpacked event is on February 9](https://appleinsider.com/articles/22/01/26/samsungs-galaxy-s22-unpacked-event-is-on-february-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
