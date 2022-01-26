@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s $64 Pentium G7400T Alder Lake CPU overclocked to 5.8GHz](https://www.pcgamer.com/intels-dollar64-pentium-g7400t-alder-lake-cpu-overclocked-to-58ghz)
  - [G.Skill hits DDR5-8888 with its Trident Z5 memory](https://www.pcgamer.com/gskill-hits-ddr5-8888-with-its-trident-z5-memory)
- - [Call Of Duty Maker Reveals Plan To Squash Union Effort](https://kotaku.com/call-of-duty-warzone-activision-blizzard-raven-qa-union-1848422566)
- - [Mysterious! Guilty Gear Character’s Boobs Keep Growing With Every Sequel](https://kotaku.com/guilty-gear-strive-baiken-arc-system-works-boobs-1848422282)<!-- GAME:END -->
+ - [Call Of Duty Maker Reveals Plan To Squash Union Effort](https://kotaku.com/call-of-duty-warzone-activision-blizzard-raven-qa-union-1848422566)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
