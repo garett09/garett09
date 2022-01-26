@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CaptivateIQ, a no-code service for creating sales commission plans, raises a $100M Series C at a $1.25B valuation, after raising a $46M Series B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220126/p20#a220126p20)
- - [Redmi Note 11 series launches globally: What does $179 buy you?](https://www.androidauthority.com/redmi-note-11-series-3047381/)
- - [18 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)<!-- TECH:END -->
+ - [Ranked: The worst phone processor fails of all time](https://www.androidauthority.com/worst-phone-processors-3095545/)
+ - [Physicists Created Bubbles That Can Last For Over a Year](https://www.wired.com/story/physicists-created-bubbles-that-last-over-a-year)
+ - [How to Travel Solo During the Pandemic](https://www.wired.com/story/covid-solo-travel-tips)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
