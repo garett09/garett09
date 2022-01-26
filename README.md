@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft got a whole lot of people to play Halo and Forza](https://www.theverge.com/2022/1/25/22901755/halo-infinite-forza-horizon-5-player-numbers-microsoft-xbox-game-pass-free-to-play)
- - [Domain Money, a stock and crypto investing app which offers actively managed strategies, launches with $33M from Bessemer Ventures, Marc Benioff, and others &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220125/p31#a220125p31)
- - [2023 Toyota Sequoia debuts with 437-hp turbocharged hybrid V6     - Roadshow](https://www.cnet.com/roadshow/news/2023-toyota-sequoia-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Self-driving shuttle startup May Mobility, which operates 25 vehicles in nine cities including Arlington, Texas, and Hiroshima, Japan, raises a $83M Series C &lpar;Gabrielle Coppola/Bloomberg&rpar;](http://www.techmeme.com/220125/p33#a220125p33)
+ - [Twitter: governments made 43,387 content removal demands from a record 196,878 accounts in H1 2021; Japan, Russia, Turkey, India, S. Korea made 95% of demands &lpar;Elizabeth Culliford/Reuters&rpar;](http://www.techmeme.com/220125/p32#a220125p32)
+ - [Microsoft got a whole lot of people to play Halo and Forza](https://www.theverge.com/2022/1/25/22901755/halo-infinite-forza-horizon-5-player-numbers-microsoft-xbox-game-pass-free-to-play)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
