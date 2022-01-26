@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Racing\u2026](http://9gag.com/gag/a91R4P1)
- - 🚯 [Take know your enemy to a whole new level](http://9gag.com/gag/aBngjv1)
- - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)<!-- MEMES:END -->
+ - 🚯 [Pro tip](http://9gag.com/gag/a91Re5Z)
+ - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)<!-- MEMES:END -->
 
 --- 
 
