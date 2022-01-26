@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow, it still bothers me they did this AND will do it again in the future](http://9gag.com/gag/ang5w2b)
- - 🚯 [Cake](http://9gag.com/gag/a91RwyD)
- - 🚯 [Whales do not eat people, but consume small aquatic lifeforms like fish, squid and krill.](http://9gag.com/gag/aGzg51G)<!-- MEMES:END -->
+ - 🚖 [Specially historical films](http://9gag.com/gag/aRr0d0q)
+ - 🚯 [Or learn to forge one](http://9gag.com/gag/ang5ZAb)
+ - 🚯 [What\u2019s yours?](http://9gag.com/gag/aXrj129)<!-- MEMES:END -->
 
 --- 
 
