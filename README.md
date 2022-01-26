@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Racing\u2026](http://9gag.com/gag/a91R4P1)
- - 🚯 [Pro tip](http://9gag.com/gag/a91Re5Z)
- - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)<!-- MEMES:END -->
+ - 🚖 [Never mess with family](http://9gag.com/gag/adg5Mmd)
+ - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)
+ - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)<!-- MEMES:END -->
 
 --- 
 
