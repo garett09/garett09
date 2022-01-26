@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ongoing Fury Around Halo Infinite&#39;s Store And Its Prices, Explained](https://kotaku.com/halo-infinite-store-prices-firefall-helmet-perfect-asce-1848427844)
- - [Publisher apologizes for &#39;lack of research&#39; after releasing an obvious Unpacking clone](https://www.pcgamer.com/publisher-apologizes-for-lack-of-research-after-releasing-an-obvious-unpacking-clone)
- - [The horror movie Hatching puts the most hideous face on a familiar nightmare](https://www.polygon.com/reviews/22902734/hatching-review-2022)<!-- GAME:END -->
+ - [Brian K. Vaughan’s Saga hasn’t changed during hiatus, and that’s good](https://www.polygon.com/22903330/saga-55-review)
+ - [A major Discord outage is gradually being resolved](https://www.pcgamer.com/discord-outage-login-jan-2022)
+ - [Call of Duty Warzone 2 rumors: Will the battle royale get a sequel in 2023?](https://www.pcgamer.com/call-of-duty-warzone-2-rumors-will-the-battle-royale-get-a-sequel-in-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
