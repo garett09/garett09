@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan. 26: 30% off Parallels Desktop 17 Pro, refurbished Apple Watch discounts, more!](https://appleinsider.com/articles/22/01/26/best-deals-jan-26-30-off-parallels-desktop-17-pro-refurbished-apple-watch-discounts-more?utm_medium=rss)
- - [Thousands of TracFone users saw their numbers ported to other carriers without their consent](https://www.theverge.com/2022/1/26/22902853/tracfone-users-phone-numbers-ported-without-consent-verizon-straight-talk)
- - [$50 off the Garmin Venu 2, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
+ - [Disney+ says it will launch in 53 new countries and territories this summer, including South Africa, Turkey, Poland, Egypt, Iraq, Saudi Arabia, and the UAE &lpar;Abid Rahman/Hollywood Reporter&rpar;](http://www.techmeme.com/220126/p31#a220126p31)
+ - [Twitter received fewer information requests from government agencies in the first half of 2021 — but complied with more](https://www.theverge.com/2022/1/26/22902960/twitter-information-requests-2021-subpoena)
+ - [Fanhouse adds a 30 percent surcharge to in-app purchases to cover Apple tax](https://www.theverge.com/2022/1/26/22903052/fanhouse-app-ios-apple-fees-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
