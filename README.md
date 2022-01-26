@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never mess with family](http://9gag.com/gag/adg5Mmd)
- - 🚯 [Rebuilding life after divorce](http://9gag.com/gag/a91R4qZ)
+ - 🚖 [Weirdest Dance of All Time?](http://9gag.com/gag/axB781p)
+ - 🚯 [Good guy Keanu](http://9gag.com/gag/aRr0WXy)
  - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)<!-- MEMES:END -->
 
 --- 
