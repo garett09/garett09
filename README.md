@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon has abandoned its much-maligned campaign of paying warehouse employees to share positive messages on social media after embarrassing backfires &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220126/p9#a220126p9)
- - [Live events service Fever raises $227M led by Goldman Sachs at a $1B+ valuation as it plans an IPO &lpar;Sarah Rappaport/Bloomberg&rpar;](http://www.techmeme.com/220126/p8#a220126p8)
- - [Huawei’s new runner-focused smartwatch has 2-week-long battery life](https://www.androidauthority.com/huawei-watch-gt-runner-3095675/)<!-- TECH:END -->
+ - [Apple iCloud causing some services to be slow or unavailable for four hours on Tuesday](https://appleinsider.com/articles/22/01/26/apple-icloud-outage-causing-some-services-to-be-slow-or-unavailable?utm_medium=rss)
+ - [UK-based quantum cryptography startup PQShield, spun out from Oxford&#39;s research labs, raises a $20M Series A led by Addition &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220126/p16#a220126p16)
+ - [Huawei launches its foldable P50 Pocket and flagship P50 Pro in the UK and Europe, but not the US, running Android without Google services and 5G &lpar;Andrew Hoyle/CNET&rpar;](http://www.techmeme.com/220126/p15#a220126p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
