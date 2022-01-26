@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He likes the ear rubbiss.](http://9gag.com/gag/aBng5zD)
- - 🚯 [Vocation: delivery guy. Avocation: suicide intervention.](http://9gag.com/gag/ang5wy5)
+ - 🚖 [Vocation: delivery guy. Avocation: suicide intervention.](http://9gag.com/gag/ang5wy5)
+ - 🚯 [He likes the ear rubbiss.](http://9gag.com/gag/aBng5zD)
  - 🚯 [Do I know you?](http://9gag.com/gag/aBng5WN)<!-- MEMES:END -->
 
 --- 
