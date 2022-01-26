@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook’s embattled cryptocurrency project is likely coming to an end](https://www.theverge.com/2022/1/25/22901830/facebook-meta-libra-diem-crypto-project-explores-sale)
- - [It just got a lot easier to get PS5 screenshots on your phone](https://www.theverge.com/2022/1/25/22901829/how-to-get-ps5-screenshots-videos-captures-auto-upload-phone-playstation-app)
- - [Activision Blizzard declines to voluntarily recognize a union formed by QA testers at Raven Software, after failing to reach an agreement with the CWA &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220125/p29#a220125p29)<!-- TECH:END -->
+ - [Microsoft got a whole lot of people to play Halo and Forza](https://www.theverge.com/2022/1/25/22901755/halo-infinite-forza-horizon-5-player-numbers-microsoft-xbox-game-pass-free-to-play)
+ - [Domain Money, a stock and crypto investing app which offers actively managed strategies, launches with $33M from Bessemer Ventures, Marc Benioff, and others &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220125/p31#a220125p31)
+ - [2023 Toyota Sequoia debuts with 437-hp turbocharged hybrid V6     - Roadshow](https://www.cnet.com/roadshow/news/2023-toyota-sequoia-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
