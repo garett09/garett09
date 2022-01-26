@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iCloud causing some services to be slow or unavailable for four hours on Tuesday](https://appleinsider.com/articles/22/01/26/apple-icloud-outage-causing-some-services-to-be-slow-or-unavailable?utm_medium=rss)
- - [UK-based quantum cryptography startup PQShield, spun out from Oxford&#39;s research labs, raises a $20M Series A led by Addition &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220126/p16#a220126p16)
- - [Huawei launches its foldable P50 Pocket and flagship P50 Pro in the UK and Europe, but not the US, running Android without Google services and 5G &lpar;Andrew Hoyle/CNET&rpar;](http://www.techmeme.com/220126/p15#a220126p15)<!-- TECH:END -->
+ - [Daily Authority: 😅 Huawei is stil trying](https://www.androidauthority.com/daily-authority-%f0%9f%98%85-huawei-is-stil-trying-3097105/)
+ - [Apple remains world&#39;s most valuable brand, but Amazon is hot on its heels](https://appleinsider.com/articles/22/01/26/apple-remains-worlds-most-valuable-brand-but-amazon-is-hot-on-its-heels?utm_medium=rss)
+ - [How hacker Joe Grand used a fault-injection attack to crack a Trezor One hardware wallet to recover $2M in cryptocurrency for two friends who forgot the PIN &lpar;Kim Zetter/The Verge&rpar;](http://www.techmeme.com/220126/p18#a220126p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
