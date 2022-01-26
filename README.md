@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iCloud outage causing some services to be slow or unavailable](https://appleinsider.com/articles/22/01/26/apple-icloud-outage-causing-some-services-to-be-slow-or-unavailable?utm_medium=rss)
- - [Satya Nadella says Microsoft Teams topped 270M MAUs in the December quarter, up from 250M MAUs in July 2021 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220125/p36#a220125p36)
- - [SparkCognition, which uses AI to help companies predict outcomes, optimize processes, and prevent cyberattacks, raises a $123M Series D at a $1.4B+ valuation &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220125/p35#a220125p35)<!-- TECH:END -->
+ - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, offer bill payments, launch e-commerce stores, and more, raises a $45M Series C led by KKR &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220126/p2#a220126p2)
+ - [Realme backtracks, will now bring Android 12 to Realme Pad after all](https://www.androidauthority.com/realme-android-12-realme-pad-3096928/)
+ - [Researchers discover a 12-year-old vulnerability in Polkit, which could be used by local attackers to gain root privileges on all major Linux distributions &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220126/p1#a220126p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
