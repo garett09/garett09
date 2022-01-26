@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 😅 Huawei is stil trying](https://www.androidauthority.com/daily-authority-%f0%9f%98%85-huawei-is-stil-trying-3097105/)
- - [Apple remains world&#39;s most valuable brand, but Amazon is hot on its heels](https://appleinsider.com/articles/22/01/26/apple-remains-worlds-most-valuable-brand-but-amazon-is-hot-on-its-heels?utm_medium=rss)
- - [How hacker Joe Grand used a fault-injection attack to crack a Trezor One hardware wallet to recover $2M in cryptocurrency for two friends who forgot the PIN &lpar;Kim Zetter/The Verge&rpar;](http://www.techmeme.com/220126/p18#a220126p18)<!-- TECH:END -->
+ - [CaptivateIQ, a no-code service for creating sales commission plans, raises a $100M Series C at a $1.25B valuation, after raising a $46M Series B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220126/p20#a220126p20)
+ - [Redmi Note 11 series launches globally: What does $179 buy you?](https://www.androidauthority.com/redmi-note-11-series-3047381/)
+ - [18 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
