@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds macOS 12.2 to public with rebuilt Apple Music, minor updates](https://appleinsider.com/articles/22/01/26/apple-seeds-macos-122-to-public-with-rebuilt-apple-music-minor-updates?utm_medium=rss)
- - [Apple releases iOS 15.3 &amp; iPadOS 15.3 with bug fixes](https://appleinsider.com/articles/22/01/26/apple-releases-ios-153-ipados-153-with-bug-fixes?utm_medium=rss)
- - [iOS 15.3 is out now, and it fixes a nasty Safari bug](https://www.theverge.com/2022/1/26/22898766/ios-15-3-release-download-fixes-safari-security-bug)<!-- TECH:END -->
+ - [Best deals Jan. 26: 30% off Parallels Desktop 17 Pro, refurbished Apple Watch discounts, more!](https://appleinsider.com/articles/22/01/26/best-deals-jan-26-30-off-parallels-desktop-17-pro-refurbished-apple-watch-discounts-more?utm_medium=rss)
+ - [Thousands of TracFone users saw their numbers ported to other carriers without their consent](https://www.theverge.com/2022/1/26/22902853/tracfone-users-phone-numbers-ported-without-consent-verizon-straight-talk)
+ - [$50 off the Garmin Venu 2, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
