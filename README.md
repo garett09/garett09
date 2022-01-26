@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney+ says it will launch in 53 new countries and territories this summer, including South Africa, Turkey, Poland, Egypt, Iraq, Saudi Arabia, and the UAE &lpar;Abid Rahman/Hollywood Reporter&rpar;](http://www.techmeme.com/220126/p31#a220126p31)
- - [Twitter received fewer information requests from government agencies in the first half of 2021 — but complied with more](https://www.theverge.com/2022/1/26/22902960/twitter-information-requests-2021-subpoena)
- - [Fanhouse adds a 30 percent surcharge to in-app purchases to cover Apple tax](https://www.theverge.com/2022/1/26/22903052/fanhouse-app-ios-apple-fees-update)<!-- TECH:END -->
+ - [Discord is experiencing a widespread API outage, preventing many users from joining calls or chatting; the company found the issue and is working on a fix &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220126/p33#a220126p33)
+ - [First law proposed that specifically targets misuse of AirTag by stalkers](https://appleinsider.com/articles/22/01/26/pennsylvania-legislation-to-make-stalking-with-airtag-illegal?utm_medium=rss)
+ - [You no longer have to say ‘Hey Google’ to get the Assistant to shut up](https://www.theverge.com/2022/1/26/22902901/google-assistant-stop-command-no-hey-google-alarms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
