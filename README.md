@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MinIO, which offers popular open source tools for multi-cloud storage, raises a $103M Series B at a $1B valuation &lpar;George Anadiotis/ZDNet&rpar;](http://www.techmeme.com/220126/p23#a220126p23)
- - [How to take better night photos with the Pixel 6 Pro, iPhone 13 Pro, or digital camera](https://www.theverge.com/22895478/astrophotography-iphone-13-pro-pixel-6-pro-dslr)
- - [Apple Watch gets new Unity Lights watch face](https://appleinsider.com/articles/22/01/26/apple-watch-gets-new-unity-lights-watch-face?utm_medium=rss)<!-- TECH:END -->
+ - [Substack’s rolling out a video feature, but it’s not available to everyone yet](https://www.theverge.com/2022/1/26/22902447/substack-video-private-beta)
+ - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
+ - [Searching for Susy Thunder](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
