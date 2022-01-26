@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A week after launch the Radeon RX 6500 XT is still in stock, but nowhere near launch price](https://www.pcgamer.com/amd-radeon-rx-6500-xt-stock-check)
- - [Elgato releases the Stream Deck Pedal](https://www.pcgamer.com/elgato-releases-the-stream-deck-pedal)
- - [Intel&#39;s $64 Pentium G7400T Alder Lake CPU overclocked to 5.8GHz](https://www.pcgamer.com/intels-dollar64-pentium-g7400t-alder-lake-cpu-overclocked-to-58ghz)<!-- GAME:END -->
+ - [Tips and tricks to slay the Dynasty Warriors 9 Empires demo](https://blog.playstation.com/2022/01/26/tips-and-tricks-to-slay-the-dynasty-warriors-9-empires-demo/)
+ - [Tips and tricks to slay the Dynasty Warriors 9 Empires demo](https://blog.playstation.com/2022/01/26/tips-and-tricks-to-slay-the-dynasty-warriors-9-empires-demo/)
+ - [Besiege Console &lpar;Game Preview&rpar; Launches February 10 with Xbox Game Pass](https://news.xbox.com/en-us/2022/01/26/besiege-console-game-preview-launches-february-10-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
