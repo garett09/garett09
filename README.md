@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is experiencing a widespread API outage, preventing many users from joining calls or chatting; the company found the issue and is working on a fix &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220126/p33#a220126p33)
- - [First law proposed that specifically targets misuse of AirTag by stalkers](https://appleinsider.com/articles/22/01/26/pennsylvania-legislation-to-make-stalking-with-airtag-illegal?utm_medium=rss)
- - [You no longer have to say ‘Hey Google’ to get the Assistant to shut up](https://www.theverge.com/2022/1/26/22902901/google-assistant-stop-command-no-hey-google-alarms)<!-- TECH:END -->
+ - [Qualtrics reports Q4 revenue of $316M, up 48% YoY vs. est. $298M, subscription revenue of $259M, up 61% YoY, and saw its first fiscal year with revenue over $1B &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220126/p36#a220126p36)
+ - [Tesla hails its second profitable year as a ‘breakthrough’](https://www.theverge.com/2022/1/26/22903136/tesla-q4-earnings-profit-chip-shortage-cybertruck-elon-musk)
+ - [New iOS, iPadOS and macOS updates fix many security issues, including Safari bug](https://appleinsider.com/articles/22/01/26/new-ios-ipados-and-macos-updates-fix-many-security-issues-including-safari-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
