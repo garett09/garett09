@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss the part where that&#39;s my problem](http://9gag.com/gag/aGzgvbG)
- - 🚯 [Maybe not fast, but definitely Furios](http://9gag.com/gag/aeg5zRq)
- - 🚯 [Deer full enjoyment](http://9gag.com/gag/a71wgRL)<!-- MEMES:END -->
+ - 🚖 [Deer full enjoyment](http://9gag.com/gag/a71wgRL)
+ - 🚯 [He&#39;s right](http://9gag.com/gag/ang53L0)
+ - 🚯 [Officer finishes DoorDash delivery in Tea, South Dakota after delivery driver was arrested for warrants](http://9gag.com/gag/a21RgDe)<!-- MEMES:END -->
 
 --- 
 
