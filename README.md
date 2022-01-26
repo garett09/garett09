@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beautiful times of childhood](http://9gag.com/gag/aE8gmOK)
- - 🚯 [Woman moment](http://9gag.com/gag/agg5zV1)
- - 🚯 [Dracarys](http://9gag.com/gag/axB7qMb)<!-- MEMES:END -->
+ - 🚖 [Need more car ads like this.](http://9gag.com/gag/awzoENx)
+ - 🚯 [Dracarys](http://9gag.com/gag/axB7qMb)
+ - 🚯 [Let&#39;s get high](http://9gag.com/gag/aLv07Mv)<!-- MEMES:END -->
 
 --- 
 
