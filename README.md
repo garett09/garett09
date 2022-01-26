@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call Of Duty Maker Reveals Plan To Squash Union Effort](https://kotaku.com/call-of-duty-warzone-activision-blizzard-raven-qa-union-1848422566)
  - [Mysterious! Guilty Gear Character’s Boobs Keep Growing With Every Sequel](https://kotaku.com/guilty-gear-strive-baiken-arc-system-works-boobs-1848422282)
- - [Activision Blizzard chooses not to voluntarily recognize Call of Duty QA union](https://www.pcgamer.com/activision-blizzard-chooses-not-to-voluntarily-recognize-call-of-duty-qa-union)
- - [YouTube CEO says NFTs and crypto present a &#39;previously unimaginable opportunity&#39;](https://www.pcgamer.com/youtube-cryptocurrency-nfts)<!-- GAME:END -->
+ - [Activision Blizzard chooses not to voluntarily recognize Call of Duty QA union](https://www.pcgamer.com/activision-blizzard-chooses-not-to-voluntarily-recognize-call-of-duty-qa-union)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
