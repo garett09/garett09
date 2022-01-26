@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ranked: The worst phone processor fails of all time](https://www.androidauthority.com/worst-phone-processors-3095545/)
- - [Physicists Created Bubbles That Can Last For Over a Year](https://www.wired.com/story/physicists-created-bubbles-that-last-over-a-year)
- - [How to Travel Solo During the Pandemic](https://www.wired.com/story/covid-solo-travel-tips)<!-- TECH:END -->
+ - [MinIO, which offers popular open source tools for multi-cloud storage, raises a $103M Series B at a $1B valuation &lpar;George Anadiotis/ZDNet&rpar;](http://www.techmeme.com/220126/p23#a220126p23)
+ - [How to take better night photos with the Pixel 6 Pro, iPhone 13 Pro, or digital camera](https://www.theverge.com/22895478/astrophotography-iphone-13-pro-pixel-6-pro-dslr)
+ - [Apple Watch gets new Unity Lights watch face](https://appleinsider.com/articles/22/01/26/apple-watch-gets-new-unity-lights-watch-face?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
