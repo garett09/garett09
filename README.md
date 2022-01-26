@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vocation: delivery guy. Avocation: suicide intervention.](http://9gag.com/gag/ang5wy5)
- - 🚯 [He likes the ear rubbiss.](http://9gag.com/gag/aBng5zD)
- - 🚯 [Do I know you?](http://9gag.com/gag/aBng5WN)<!-- MEMES:END -->
+ - 🚖 [He likes the ear rubbiss.](http://9gag.com/gag/aBng5zD)
+ - 🚯 [Some things just never get old](http://9gag.com/gag/axB7wd1)
+ - 🚯 [Fail or win?](http://9gag.com/gag/ay9owbV)<!-- MEMES:END -->
 
 --- 
 
