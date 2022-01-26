@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings III heads to PS5 on March 29](https://blog.playstation.com/2022/01/26/crusader-kings-iii-heads-to-ps5-on-march-29/)
- - [Crusader Kings III heads to PS5 on March 29](https://blog.playstation.com/2022/01/26/crusader-kings-iii-heads-to-ps5-on-march-29/)
- - [Crusader Kings 3, coming to PS5 and Xbox in March, plays surprisingly well on console](https://www.polygon.com/22901556/crusader-kings-3-console-release-date-ps5-xbox-series-x)<!-- GAME:END -->
+ - [Blizzard Teases First New Game Universe Since Overwatch Amid Developer Exodus](https://kotaku.com/blizzard-survival-game-new-ip-activision-lawsuit-overwa-1848425560)
+ - [PlayStation Plus offers Tiny Tina’s Assault on Dragon Keep, UFC 4 in February](https://www.polygon.com/22902733/playstation-plus-february-2022-free-games-ps4-ps5)
+ - [The future arrives when Wanderer, a time-traveling PS VR adventure, launches tomorrow](https://blog.playstation.com/2022/01/26/the-future-arrives-when-wanderer-a-time-traveling-ps-vr-adventure-launches-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
