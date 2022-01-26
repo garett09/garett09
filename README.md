@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta-backed Diem Association is in talks with investment bankers about selling its assets as a way of returning capital to its investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/220125/p28#a220125p28)
- - [Call of Duty’s next three games will hit PlayStation despite Microsoft’s Activision deal](https://www.theverge.com/2022/1/25/22901676/call-of-duty-sony-playstation-microsoft-xbox-activision-acquisition-deal)
- - [Samsung&#39;s Galaxy S22 Unpacked event is on February 9](https://appleinsider.com/articles/22/01/26/samsungs-galaxy-s22-unpacked-event-is-on-february-9?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook’s embattled cryptocurrency project is likely coming to an end](https://www.theverge.com/2022/1/25/22901830/facebook-meta-libra-diem-crypto-project-explores-sale)
+ - [It just got a lot easier to get PS5 screenshots on your phone](https://www.theverge.com/2022/1/25/22901829/how-to-get-ps5-screenshots-videos-captures-auto-upload-phone-playstation-app)
+ - [Activision Blizzard declines to voluntarily recognize a union formed by QA testers at Raven Software, after failing to reach an agreement with the CWA &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220125/p29#a220125p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
