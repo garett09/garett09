@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, offer bill payments, launch e-commerce stores, and more, raises a $45M Series C led by KKR &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220126/p2#a220126p2)
- - [Realme backtracks, will now bring Android 12 to Realme Pad after all](https://www.androidauthority.com/realme-android-12-realme-pad-3096928/)
- - [Researchers discover a 12-year-old vulnerability in Polkit, which could be used by local attackers to gain root privileges on all major Linux distributions &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220126/p1#a220126p1)<!-- TECH:END -->
+ - [Poland-based Infermedica, whose AI tools offer symptom analysis and patient triage, raises a $30M Series B led by One Peak, bringing its total funding to $45M &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220126/p4#a220126p4)
+ - [President Biden backs consumers&#39; right to repair and acknowledges the anticompetitive practices of electronics manufacturers &lpar;Jason Koebler/VICE&rpar;](http://www.techmeme.com/220126/p3#a220126p3)
+ - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, offer bill payments, launch e-commerce stores, and more, raises $45M from KKR &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220126/p2#a220126p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
