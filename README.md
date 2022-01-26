@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scary stuff!!](http://9gag.com/gag/aDDgv1d)
- - 🚯 [Beautiful times of childhood](http://9gag.com/gag/aE8gmOK)
- - 🚯 [Russia plays their real anthem before invading Ukraine](http://9gag.com/gag/a21Rpp9)<!-- MEMES:END -->
+ - 🚖 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)
+ - 🚯 [BREAKING: Trudeau takes hardline approach against Russia, warns Putin not to invade Ukraine unless soldiers can show vaccine passport at the border.](http://9gag.com/gag/aE8gmpn)
+ - 🚯 [Beautiful times of childhood](http://9gag.com/gag/aE8gmOK)<!-- MEMES:END -->
 
 --- 
 
