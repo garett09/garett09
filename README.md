@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weirdest Dance of All Time?](http://9gag.com/gag/axB781p)
- - 🚯 [Good guy Keanu](http://9gag.com/gag/aRr0WXy)
- - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)<!-- MEMES:END -->
+ - 🚖 [I present you the mirror fluid](http://9gag.com/gag/a91Rwp0)
+ - 🚯 [Deer full enjoyment](http://9gag.com/gag/a71wgRL)
+ - 🚯 [Good guy Keanu](http://9gag.com/gag/aRr0WXy)<!-- MEMES:END -->
 
 --- 
 
