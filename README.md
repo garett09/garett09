@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brian K. Vaughan’s Saga hasn’t changed during hiatus, and that’s good](https://www.polygon.com/22903330/saga-55-review)
- - [A major Discord outage is gradually being resolved](https://www.pcgamer.com/discord-outage-login-jan-2022)
- - [Call of Duty Warzone 2 rumors: Will the battle royale get a sequel in 2023?](https://www.pcgamer.com/call-of-duty-warzone-2-rumors-will-the-battle-royale-get-a-sequel-in-2023)<!-- GAME:END -->
+ - [The best mid-tower cases in 2021](https://www.pcgamer.com/best-mid-tower-case)
+ - [Call of Duty: Warzone’s new patch has a ton of bug fixes](https://www.polygon.com/call-of-duty/22903283/call-of-duty-warzone-servers-bug-fixes-new-season)
+ - [Exploding Kittens gets a 2-player adaptation for faster, smaller games](https://www.polygon.com/22903296/exploding-kittens-two-player-edition-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
