@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poland-based Infermedica, whose AI tools offer symptom analysis and patient triage, raises a $30M Series B led by One Peak, bringing its total funding to $45M &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220126/p4#a220126p4)
- - [President Biden backs consumers&#39; right to repair and acknowledges the anticompetitive practices of electronics manufacturers &lpar;Jason Koebler/VICE&rpar;](http://www.techmeme.com/220126/p3#a220126p3)
- - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, offer bill payments, launch e-commerce stores, and more, raises $45M from KKR &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220126/p2#a220126p2)<!-- TECH:END -->
+ - [A survey of 100 IT firms with 5,000+ employees: 65% say that they or their employees were approached to help ransomware hackers establish insider access &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220126/p6#a220126p6)
+ - [First battery-powered Bentley set to launch in 3 years     - Roadshow](https://www.cnet.com/roadshow/news/all-electric-bentley-2025/#ftag=CAD590a51e)
+ - [The immediate threat of attackers mass exploiting Log4Shell was averted because the severity of the bug galvanized digital and security communities into action &lpar;Chester Wisniewski/Sophos News&rpar;](http://www.techmeme.com/220126/p5#a220126p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
