@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s OK to poke at the paintings in this chill puzzle game about abstract art](https://www.polygon.com/22900920/please-touch-the-artwork-game-mobile-windows)
- - [Uncharted: Legacy of Thieves Collection is a revelation on PS5](https://www.polygon.com/reviews/22902100/uncharted-collection-review-ps5-lost-legacy-thieves)
- - [Uncharted: Legacy Of Thieves Doesn’t Need To Exist, But It’s Still Great](https://kotaku.com/uncharted-ps5-review-uncharted-4-uncharted-lost-legacy-1848421258)<!-- GAME:END -->
+ - [Crusader Kings III heads to PS5 on March 29](https://blog.playstation.com/2022/01/26/crusader-kings-iii-heads-to-ps5-on-march-29/)
+ - [Crusader Kings III heads to PS5 on March 29](https://blog.playstation.com/2022/01/26/crusader-kings-iii-heads-to-ps5-on-march-29/)
+ - [Crusader Kings 3, coming to PS5 and Xbox in March, plays surprisingly well on console](https://www.polygon.com/22901556/crusader-kings-3-console-release-date-ps5-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
