@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kick off 2022 with Smite Season 9](https://news.xbox.com/en-us/2022/01/26/kick-off-2022-with-smite-season-9/)
- - [Halo Infinite Removes Its Worst Map From Ranked Play, Pros Rejoice](https://kotaku.com/halo-infinite-behemoth-map-ranked-pulled-playlist-1848427306)
- - [It’s Not Just You: Miyamoto Hated Navi In Ocarina Of Time, Too](https://kotaku.com/zelda-ocarina-of-time-nintendo-shigeru-miyamoto-intervi-1848427176)<!-- GAME:END -->
+ - [The Ongoing Fury Around Halo Infinite&#39;s Store And Its Prices, Explained](https://kotaku.com/halo-infinite-store-prices-firefall-helmet-perfect-asce-1848427844)
+ - [Publisher apologizes for &#39;lack of research&#39; after releasing an obvious Unpacking clone](https://www.pcgamer.com/publisher-apologizes-for-lack-of-research-after-releasing-an-obvious-unpacking-clone)
+ - [The horror movie Hatching puts the most hideous face on a familiar nightmare](https://www.polygon.com/reviews/22902734/hatching-review-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
