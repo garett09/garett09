@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He likes the ear rubbiss.](http://9gag.com/gag/aBng5zD)
- - 🚯 [Some things just never get old](http://9gag.com/gag/axB7wd1)
- - 🚯 [Fail or win?](http://9gag.com/gag/ay9owbV)<!-- MEMES:END -->
+ - 🚖 [Story time](http://9gag.com/gag/axB7rPn)
+ - 🚯 [Fail or win?](http://9gag.com/gag/ay9owbV)
+ - 🚯 [There should have been a weight limit](http://9gag.com/gag/aVx06ww)<!-- MEMES:END -->
 
 --- 
 
