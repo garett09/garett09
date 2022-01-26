@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Especially in our thirld world country where most drivers and pedestrians don&#39;t obey traffic rules.](http://9gag.com/gag/aOQ0LoE)
- - 🚯 [What\u2019s yours?](http://9gag.com/gag/aXrj129)
- - 🚯 [Let&#39;s get high](http://9gag.com/gag/aLv07Mv)<!-- MEMES:END -->
+ - 🚖 [Future gadgets predicted in 1950...and southern hospitality](http://9gag.com/gag/aDDg5VZ)
+ - 🚯 [This was peak innovation in phones](http://9gag.com/gag/ang5oZq)
+ - 🚯 [BREAKING: Trudeau takes hardline approach against Russia, warns Putin not to invade Ukraine unless soldiers can show vaccine passport at the border.](http://9gag.com/gag/aE8gmpn)<!-- MEMES:END -->
 
 --- 
 
