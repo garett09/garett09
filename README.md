@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Correct](http://9gag.com/gag/amg5K4X)
- - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)
- - 🚯 [Racing\u2026](http://9gag.com/gag/a91R4P1)<!-- MEMES:END -->
+ - 🚖 [Racing\u2026](http://9gag.com/gag/a91R4P1)
+ - 🚯 [Take know your enemy to a whole new level](http://9gag.com/gag/aBngjv1)
+ - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)<!-- MEMES:END -->
 
 --- 
 
