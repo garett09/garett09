@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Teases First New Game Universe Since Overwatch Amid Developer Exodus](https://kotaku.com/blizzard-survival-game-new-ip-activision-lawsuit-overwa-1848425560)
- - [PlayStation Plus offers Tiny Tina’s Assault on Dragon Keep, UFC 4 in February](https://www.polygon.com/22902733/playstation-plus-february-2022-free-games-ps4-ps5)
- - [The future arrives when Wanderer, a time-traveling PS VR adventure, launches tomorrow](https://blog.playstation.com/2022/01/26/the-future-arrives-when-wanderer-a-time-traveling-ps-vr-adventure-launches-tomorrow/)<!-- GAME:END -->
+ - [All 54 issues of Saga, recapped as Saga #55 arrives](https://www.polygon.com/22900748/saga-recap-ending-what-happened-before-issue-55)
+ - [How Ramen VR built Zenith: The Last City, an epic VRMMO, out tomorrow](https://blog.playstation.com/2022/01/26/how-ramen-vr-built-zenith-the-last-city-an-epic-vrmmo-out-tomorrow/)
+ - [How Ramen VR built Zenith: The Last City, an epic VRMMO, out tomorrow](https://blog.playstation.com/2022/01/26/how-ramen-vr-built-zenith-the-last-city-an-epic-vrmmo-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
