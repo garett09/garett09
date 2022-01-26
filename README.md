@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Floor defense vs blocking](http://9gag.com/gag/aAGg9oZ)
- - 🚯 [Story time](http://9gag.com/gag/axB7rPn)
- - 🚯 [There should have been a weight limit](http://9gag.com/gag/aVx06ww)<!-- MEMES:END -->
+ - 🚖 [Especially in our thirld world country where most drivers and pedestrians don&#39;t obey traffic rules.](http://9gag.com/gag/aOQ0LoE)
+ - 🚯 [What\u2019s yours?](http://9gag.com/gag/aXrj129)
+ - 🚯 [Let&#39;s get high](http://9gag.com/gag/aLv07Mv)<!-- MEMES:END -->
 
 --- 
 
