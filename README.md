@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 100 IT firms with 5,000+ employees: 65% say that they or their employees were approached to help ransomware hackers establish insider access &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220126/p6#a220126p6)
- - [First battery-powered Bentley set to launch in 3 years     - Roadshow](https://www.cnet.com/roadshow/news/all-electric-bentley-2025/#ftag=CAD590a51e)
- - [The immediate threat of attackers mass exploiting Log4Shell was averted because the severity of the bug galvanized digital and security communities into action &lpar;Chester Wisniewski/Sophos News&rpar;](http://www.techmeme.com/220126/p5#a220126p5)<!-- TECH:END -->
+ - [What is two-factor authentication and why should you use it?](https://www.androidauthority.com/what-is-two-factor-authentication-3092042/)
+ - [Disney Plus is planning a huge market expansion in 2022](https://www.androidauthority.com/disney-plus-new-markets-2022-3096970/)
+ - [The Indian government wants to make its own rival to Android, iOS](https://www.androidauthority.com/india-homegrown-os-rival-android-ios-3096944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
