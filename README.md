@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips and tricks to slay the Dynasty Warriors 9 Empires demo](https://blog.playstation.com/2022/01/26/tips-and-tricks-to-slay-the-dynasty-warriors-9-empires-demo/)
- - [Tips and tricks to slay the Dynasty Warriors 9 Empires demo](https://blog.playstation.com/2022/01/26/tips-and-tricks-to-slay-the-dynasty-warriors-9-empires-demo/)
- - [Besiege Console &lpar;Game Preview&rpar; Launches February 10 with Xbox Game Pass](https://news.xbox.com/en-us/2022/01/26/besiege-console-game-preview-launches-february-10-with-xbox-game-pass/)<!-- GAME:END -->
+ - [It’s OK to poke at the paintings in this chill puzzle game about abstract art](https://www.polygon.com/22900920/please-touch-the-artwork-game-mobile-windows)
+ - [Uncharted: Legacy of Thieves Collection is a revelation on PS5](https://www.polygon.com/reviews/22902100/uncharted-collection-review-ps5-lost-legacy-thieves)
+ - [Uncharted: Legacy Of Thieves Doesn’t Need To Exist, But It’s Still Great](https://kotaku.com/uncharted-ps5-review-uncharted-4-uncharted-lost-legacy-1848421258)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
