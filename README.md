@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deer full enjoyment](http://9gag.com/gag/a71wgRL)
- - 🚯 [He&#39;s right](http://9gag.com/gag/ang53L0)
- - 🚯 [Officer finishes DoorDash delivery in Tea, South Dakota after delivery driver was arrested for warrants](http://9gag.com/gag/a21RgDe)<!-- MEMES:END -->
+ - 🚖 [Wow, it still bothers me they did this AND will do it again in the future](http://9gag.com/gag/ang5w2b)
+ - 🚯 [Cake](http://9gag.com/gag/a91RwyD)
+ - 🚯 [Whales do not eat people, but consume small aquatic lifeforms like fish, squid and krill.](http://9gag.com/gag/aGzg51G)<!-- MEMES:END -->
 
 --- 
 
