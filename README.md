@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Story time](http://9gag.com/gag/axB7rPn)
- - 🚯 [Fail or win?](http://9gag.com/gag/ay9owbV)
+ - 🚖 [Floor defense vs blocking](http://9gag.com/gag/aAGg9oZ)
+ - 🚯 [Story time](http://9gag.com/gag/axB7rPn)
  - 🚯 [There should have been a weight limit](http://9gag.com/gag/aVx06ww)<!-- MEMES:END -->
 
 --- 
