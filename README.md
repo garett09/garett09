@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All that bullshit pissed me off since Day 1](http://9gag.com/gag/a0ZRWwQ)
- - 🚯 [`Our grandparents lives were so much easier` -3 year old chimney sweep in 1933](http://9gag.com/gag/aKmdNpW)
+ - 🚖 [Weirdest Dance of All Time?](http://9gag.com/gag/axB781p)
+ - 🚯 [When you actually trust your own product](http://9gag.com/gag/ay9oZWr)
  - 🚯 [Going str8 ta Nummer 1](http://9gag.com/gag/aNP0Gd0)<!-- MEMES:END -->
 
 --- 
