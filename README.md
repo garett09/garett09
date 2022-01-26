@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Next few Call of Duty games, including Warzone follow-up, coming to PlayStation](https://www.polygon.com/22901667/call-of-duty-warzone-2-playstation-xbox-microsoft-2023-modern-warfare)
- - [PlayStation Fans Reeling From Xbox Call Of Duty Deal Swear Something Is Afoot](https://kotaku.com/ps5-ps4-ps3-backward-compatibility-xbox-call-of-duty-1848421791)
- - [YouTube gaming head who swiped Twitch stars like DrLupo is leaving for a crypto company](https://www.pcgamer.com/youtube-gaming-head-who-swiped-twitch-stars-like-drlupo-is-leaving-for-a-crypto-company)<!-- GAME:END -->
+ - [Mysterious! Guilty Gear Character’s Boobs Keep Growing With Every Sequel](https://kotaku.com/guilty-gear-strive-baiken-arc-system-works-boobs-1848422282)
+ - [Activision Blizzard chooses not to voluntarily recognize Call of Duty QA union](https://www.pcgamer.com/activision-blizzard-chooses-not-to-voluntarily-recognize-call-of-duty-qa-union)
+ - [YouTube CEO says NFTs and crypto present a &#39;previously unimaginable opportunity&#39;](https://www.pcgamer.com/youtube-cryptocurrency-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
