@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack’s rolling out a video feature, but it’s not available to everyone yet](https://www.theverge.com/2022/1/26/22902447/substack-video-private-beta)
- - [Deal: Lifetime Microsoft Office Home &amp; Business for Mac license dips to $49.99](https://appleinsider.com/articles/22/01/19/deal-lifetime-microsoft-office-home-business-for-mac-license-dips-to-4999?utm_medium=rss)
- - [Searching for Susy Thunder](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)<!-- TECH:END -->
+ - [GameStop has an Xbox Series X bundle available right now](https://www.theverge.com/2022/1/26/22822300/microsoft-xbox-series-x-bundle-console-restock-gamestop-availability)
+ - [Apple says it still hasn&#39;t fixed iCloud outages that started on Tuesday](https://appleinsider.com/articles/22/01/26/apple-says-it-still-hasnt-fixed-icloud-outages-that-started-on-tuesday?utm_medium=rss)
+ - [Woolnut Coated Sleeves review: New protective &amp; waterproof iPad covers](https://appleinsider.com/articles/22/01/26/woolnut-coated-sleeves-review-new-protective-waterproof-ipad-covers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
