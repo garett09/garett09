@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All 54 issues of Saga, recapped as Saga #55 arrives](https://www.polygon.com/22900748/saga-recap-ending-what-happened-before-issue-55)
- - [How Ramen VR built Zenith: The Last City, an epic VRMMO, out tomorrow](https://blog.playstation.com/2022/01/26/how-ramen-vr-built-zenith-the-last-city-an-epic-vrmmo-out-tomorrow/)
- - [How Ramen VR built Zenith: The Last City, an epic VRMMO, out tomorrow](https://blog.playstation.com/2022/01/26/how-ramen-vr-built-zenith-the-last-city-an-epic-vrmmo-out-tomorrow/)<!-- GAME:END -->
+ - [Season 5 Kicks Off in the Latest Paladins Update](https://news.xbox.com/en-us/2022/01/26/season-5-kicks-off-paladins/)
+ - [The New Yu-Gi-Oh! Card Game Is Taking Over The Steam Charts](https://kotaku.com/yugioh-master-duel-steam-konami-cards-deck-popular-free-1848426115)
+ - [Valve’s Steam Deck to launch on Feb. 25](https://www.polygon.com/22902936/steam-deck-release-date-order-reservation-valve)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
