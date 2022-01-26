@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hearthstone&#39;s Battleground Buddies have arrived](https://www.pcgamer.com/hearthstones-battleground-buddies-have-arrived)
- - [Wordle has a sneaky hard mode you might not know about](https://www.polygon.com/guides/22901472/wordle-hard-mode-word-game)
- - [Activision Blizzard to reorganize Raven QA workers amid union efforts](https://www.polygon.com/22901414/activision-blizzard-raven-software-qa-union-reorg)<!-- GAME:END -->
+ - [Report: Next few Call of Duty games, including Warzone follow-up, coming to PlayStation](https://www.polygon.com/22901667/call-of-duty-warzone-2-playstation-xbox-microsoft-2023-modern-warfare)
+ - [PlayStation Fans Reeling From Xbox Call Of Duty Deal Swear Something Is Afoot](https://kotaku.com/ps5-ps4-ps3-backward-compatibility-xbox-call-of-duty-1848421791)
+ - [YouTube gaming head who swiped Twitch stars like DrLupo is leaving for a crypto company](https://www.pcgamer.com/youtube-gaming-head-who-swiped-twitch-stars-like-drlupo-is-leaving-for-a-crypto-company)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
