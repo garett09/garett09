@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weirdest Dance of All Time?](http://9gag.com/gag/axB781p)
- - 🚯 [When you actually trust your own product](http://9gag.com/gag/ay9oZWr)
- - 🚯 [Going str8 ta Nummer 1](http://9gag.com/gag/aNP0Gd0)<!-- MEMES:END -->
+ - 🚖 [Correct](http://9gag.com/gag/amg5K4X)
+ - 🚯 [What in hell is she doing?](http://9gag.com/gag/aRr0Gj5)
+ - 🚯 [Racing\u2026](http://9gag.com/gag/a91R4P1)<!-- MEMES:END -->
 
 --- 
 
