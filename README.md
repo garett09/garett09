@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is two-factor authentication and why should you use it?](https://www.androidauthority.com/what-is-two-factor-authentication-3092042/)
- - [Disney Plus is planning a huge market expansion in 2022](https://www.androidauthority.com/disney-plus-new-markets-2022-3096970/)
- - [The Indian government wants to make its own rival to Android, iOS](https://www.androidauthority.com/india-homegrown-os-rival-android-ios-3096944/)<!-- TECH:END -->
+ - [Sources: Amazon has abandoned its much-maligned campaign of paying warehouse employees to share positive messages on social media after embarrassing backfires &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220126/p9#a220126p9)
+ - [Live events service Fever raises $227M led by Goldman Sachs at a $1B+ valuation as it plans an IPO &lpar;Sarah Rappaport/Bloomberg&rpar;](http://www.techmeme.com/220126/p8#a220126p8)
+ - [Huawei’s new runner-focused smartwatch has 2-week-long battery life](https://www.androidauthority.com/huawei-watch-gt-runner-3095675/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
