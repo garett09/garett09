@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yu-Gi-Oh Master Duel is kicking ass on Steam](https://www.pcgamer.com/yu-gi-oh-master-duel-is-kicking-ass-on-steam)
- - [Marvel&#39;s next game should be about Jessica Jones](https://www.pcgamer.com/marvels-next-game-should-be-about-jessica-jones)
- - [Has the crypto crash had any effect on GPU availability?](https://www.pcgamer.com/has-the-crypto-crash-had-any-effect-on-gpu-availability)<!-- GAME:END -->
+ - [A glimpse at Horizon Forbidden West PS4 gameplay](https://blog.playstation.com/2022/01/27/a-glimpse-at-horizon-forbidden-west-ps4-gameplay/)
+ - [A glimpse at Horizon Forbidden West PS4 gameplay](https://blog.playstation.com/2022/01/27/a-glimpse-at-horizon-forbidden-west-ps4-gameplay/)
+ - [Is liquid-cooling your PC safe?](https://www.pcgamer.com/is-liquid-cooling-your-pc-safe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
