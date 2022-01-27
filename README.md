@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)
- - 🚯 [Varna-Sofia train &lpar;Bulgaria&rpar;. Bit chilly! Thanks, government!](http://9gag.com/gag/aBngqwQ)
- - 🚯 [Dog smells durian fruit](http://9gag.com/gag/ay9oypq)<!-- MEMES:END -->
+ - 🚖 [WTF?](http://9gag.com/gag/a11R4AD)
+ - 🚯 [I guess we can all be a bit hypocritical when we&#39;re at least amused by one of them. Give them bread and circuses and all that](http://9gag.com/gag/aze1NVz)
+ - 🚯 [Heaven on earth](http://9gag.com/gag/abgrPOX)<!-- MEMES:END -->
 
 --- 
 
