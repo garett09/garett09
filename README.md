@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oslo-based PortalOne, which is building a &quot;hybrid&quot; gaming platform, raises a $60M Series A led by Tiger Global, following a $15M seed in April 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220127/p10#a220127p10)
- - [Apple TV+ buys &#39;Cha Cha Real Smooth&#39; for $15 million at Sundance](https://appleinsider.com/articles/22/01/27/apple-tv-buys-cha-cha-real-smooth-for-15-million-at-sundance?utm_medium=rss)
- - [Studio Ghibli’s theme park to open in Japan on November 1st](https://www.theverge.com/2022/1/27/22904174/studio-ghibli-theme-park-japan-opening-date-november-1)<!-- TECH:END -->
+ - [Fireblocks, which lets users store, transfer, and issue digital assets, raises a $550M Series E at an $8B valuation, after raising $310M in July 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220127/p14#a220127p14)
+ - [Fanhouse rolls out 50% surcharge on in-app purchases, to offset 30% App Store fees](https://appleinsider.com/articles/22/01/26/fanhouse-rolls-out-50-surcharge-on-in-app-purchases-to-offset-30-app-store-fees?utm_medium=rss)
+ - [Domestika, an online learning community that offers video tutorials and courses, raises a $110M Series D led by Zeev Ventures at a $1.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220127/p13#a220127p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
