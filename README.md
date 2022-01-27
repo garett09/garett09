@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
- - 🚯 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)
+ - 🚖 [That warm, squishy feeling](http://9gag.com/gag/axB75eM)
+ - 🚯 [Trying to look cute while riding a motorcycle and crashing it](http://9gag.com/gag/aXrjBEd)
  - 🚯 [Mike is brilliant](http://9gag.com/gag/aZr760Q)<!-- MEMES:END -->
 
 --- 
