@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A glimpse at Horizon Forbidden West PS4 gameplay](https://blog.playstation.com/2022/01/27/a-glimpse-at-horizon-forbidden-west-ps4-gameplay/)
- - [A glimpse at Horizon Forbidden West PS4 gameplay](https://blog.playstation.com/2022/01/27/a-glimpse-at-horizon-forbidden-west-ps4-gameplay/)
- - [Is liquid-cooling your PC safe?](https://www.pcgamer.com/is-liquid-cooling-your-pc-safe)<!-- GAME:END -->
+ - [Character spotlight on Atelier Sophie 2, out February 25](https://blog.playstation.com/2022/01/27/character-spotlight-on-atelier-sophie-2-out-february-25/)
+ - [Character spotlight on Atelier Sophie 2, out February 25](https://blog.playstation.com/2022/01/27/character-spotlight-on-atelier-sophie-2-out-february-25/)
+ - [Who Knew A Game Boy&#39;s Insides Could Be So Beautiful?](https://kotaku.com/game-boy-psp-ds-art-artwork-grid-studio-framed-1848431471)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
