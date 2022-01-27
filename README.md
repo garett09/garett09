@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notes of interest from Apple&#39;s blockbuster holiday quarter earnings report](https://appleinsider.com/articles/22/01/27/notes-of-interest-from-apples-blockbuster-holiday-quarter-earnings-report?utm_medium=rss)
- - [Apple&#39;s Q1 sales in Greater China rose 21% to $25.8B, Americas grew 11% to $51.5B, Europe grew 9% to $29.7B, and paid subscriptions grew to 785M, up 165M YoY &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220127/p40#a220127p40)
- - [Apple reports Q1 Mac revenue of $10.85B, up 25% YoY, iPad revenue of $7.25B, down 14% YoY, and other products revenue, including Watch, of $14.70B, up 13% YoY &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220127/p39#a220127p39)<!-- TECH:END -->
+ - [Apple&#39;s Services add 165 million subscribers in last 12 months](https://appleinsider.com/articles/22/01/27/apples-services-add-165-million-subscribers-in-last-12-months?utm_medium=rss)
+ - [iPhone, Mac, Services, and more set all-time revenue records in Q1 2022](https://appleinsider.com/articles/22/01/27/iphone-mac-services-and-more-set-all-time-revenue-records-in-q1-2022?utm_medium=rss)
+ - [Notes of interest from Apple&#39;s blockbuster holiday quarter earnings report](https://appleinsider.com/articles/22/01/27/notes-of-interest-from-apples-blockbuster-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
