@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A SpaceX rocket slamming into the Moon is a reminder to clean up our deep space junk](https://www.theverge.com/2022/1/27/22904427/spacex-falcon-9-rocket-second-stage-moon-collision-deep-space-junk)
- - [Meta rebrands Oculus Quest as Meta Quest, leading to criticism on social media; the rebrand was originally announced in October &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/220127/p30#a220127p30)
- - [Best cheap TV deals: Save over $150 on a TCL 4-series, $100 on 65-inch Vizio and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-cheap-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 15.4 beta 1 adds Face ID use while wearing a mask, without needing an Apple Watch for authentication, by recognizing &quot;the unique features around the eye&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220127/p33#a220127p33)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [TCL’s 30 V 5G is the cheapest way to get on Verizon’s new C-band 5G network right now](https://www.theverge.com/2022/1/27/22904664/tcl-30-v-5g-verizon-price-screen-specs-c-band)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
