@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 great movies from the 2022 Sundance Film Festival](https://www.theverge.com/2022/1/27/22902494/sundance-film-festival-2022-best-movies)
- - [Google is adding an Offers tab to Google Play to help you find deals on games and apps](https://www.theverge.com/2022/1/27/22905061/google-play-offers-tab-games-apps-deals)
- - [Wyze discontinues its original WyzeCam](https://www.theverge.com/2022/1/27/22904844/wyze-discontinues-smart-security-camera-wyzecam-v1)<!-- TECH:END -->
+ - [Notes of interest from Apple&#39;s blockbuster holiday quarter earnings report](https://appleinsider.com/articles/22/01/27/notes-of-interest-from-apples-blockbuster-holiday-quarter-earnings-report?utm_medium=rss)
+ - [Apple&#39;s Q1 sales in Greater China rose 21% to $25.8B, Americas grew 11% to $51.5B, Europe grew 9% to $29.7B, and paid subscriptions grew to 785M, up 165M YoY &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220127/p40#a220127p40)
+ - [Apple reports Q1 Mac revenue of $10.85B, up 25% YoY, iPad revenue of $7.25B, down 14% YoY, and other products revenue, including Watch, of $14.70B, up 13% YoY &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220127/p39#a220127p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
