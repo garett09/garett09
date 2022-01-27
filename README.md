@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil 4 HD Project releases next week after 8 years of work](https://www.pcgamer.com/resident-evil-4-hd-project-releases-next-week-after-8-years-of-work)
  - [G.Skill announces a low latency DDR5-6400 CL32 memory kit](https://www.pcgamer.com/gskill-announces-a-low-latency-ddr5-6400-cl32-memory-kit)
- - [Intel made more money than ever last year](https://www.pcgamer.com/intel-made-more-money-than-ever-last-year)
- - [Future Nvidia GPUs could be 20% better at Ray Tracing](https://www.pcgamer.com/future-nvidia-gpus-could-be-20-better-at-ray-tracing)<!-- GAME:END -->
+ - [Intel made more money than ever last year](https://www.pcgamer.com/intel-made-more-money-than-ever-last-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
