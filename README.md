@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you find out who&#39;s who in this riddle?](http://9gag.com/gag/aM4Y37V)
- - 🚯 [How does she do it??](http://9gag.com/gag/a21Rnew)
- - 🚯 [Flippity floppity! Running away is not an option.](http://9gag.com/gag/aRr0YpQ)<!-- MEMES:END -->
+ - 🚖 [And she IS the coolest](http://9gag.com/gag/a41ReYZ)
+ - 🚯 [You think dinner is for free?](http://9gag.com/gag/a51R80r)
+ - 🚯 [When you agree to babysit your friends kids](http://9gag.com/gag/a31RVe1)<!-- MEMES:END -->
 
 --- 
 
