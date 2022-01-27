@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guerrilla Games shows off PS4 Pro Horizon Forbidden West gameplay](https://www.polygon.com/22904506/horizon-forbidden-west-playstation-4-pro-gameplay-clips)
- - [YouTuber Hit With Ungodly Number Of Anime Copyright Strikes Gets A Win For Everyone](https://kotaku.com/anime-youtube-toei-copyright-strike-fair-use-totally-no-1848432919)
- - [What is micro stutter and how do I fix it?](https://www.pcgamer.com/what-is-microstutter-and-how-do-i-fix-it)<!-- GAME:END -->
+ - [Zombie Atari Celebrates 50-Year Legacy With NFT Loot Boxes](https://kotaku.com/atari-nft-loot-box-crypto-ethereum-blockchain-metaverse-1848433762)
+ - [Mortal Kombat writer tapped to write and direct System Shock TV series](https://www.polygon.com/22904763/mortal-kombat-system-shock-tv-streaming-series)
+ - [Vagante Comes to Xbox. The Evolution of a Roguelite Five Years in the Making](https://news.xbox.com/en-us/2022/01/27/vagante-comes-to-xbox-the-evolution-of-a-roguelite-five-years-in-the-making/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
