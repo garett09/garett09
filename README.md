@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a service that will let businesses accept payments directly on their iPhones without any extra hardware, based on Mobeewave&#39;s tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220126/p42#a220126p42)
- - [A union election is moving forward at Amazon’s JFK8 warehouse](https://www.theverge.com/2022/1/26/22903584/amazon-jfk8-warehouse-union-election-labor-nlrb)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Apple working on tech to allow iPhones to directly process credit cards](https://appleinsider.com/articles/22/01/27/apple-working-on-tech-to-allow-iphones-to-directly-process-credit-cards?utm_medium=rss)
+ - [Source: Meta-backed Diem Association is selling its technology to California bank Silvergate Capital, which serves crypto companies, for ~$200M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220126/p43#a220126p43)
+ - [Sources: Apple is working on a service that will let businesses accept payments directly on their iPhones without any extra hardware, based on Mobeewave&#39;s tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220126/p42#a220126p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
