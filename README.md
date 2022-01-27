@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That warm, squishy feeling](http://9gag.com/gag/axB75eM)
- - 🚯 [Trying to look cute while riding a motorcycle and crashing it](http://9gag.com/gag/aXrjBEd)
- - 🚯 [Mike is brilliant](http://9gag.com/gag/aZr760Q)<!-- MEMES:END -->
+ - 🚖 [Who was really pranked lol](http://9gag.com/gag/aze10MB)
+ - 🚯 [The old cartoons had serious teachings](http://9gag.com/gag/aVx0AGn)
+ - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)<!-- MEMES:END -->
 
 --- 
 
