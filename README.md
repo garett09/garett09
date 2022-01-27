@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is removing Neil Young&#39;s music after he gave the company an ultimatum between his music and Joe Rogan&#39;s podcast with COVID-19 vaccine misinformation &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/220127/p9#a220127p9)
- - [Ipsos: Apple News was the most widely used UK news app in December 2021 with 13.2M users and 1.2B minutes spent; BBC News had 12.5M users and 2.2B minutes spent &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/220127/p8#a220127p8)
- - [We asked, you told us: Most of you don’t use a ton of widgets](https://www.androidauthority.com/widgets-android-poll-results-3096206/)<!-- TECH:END -->
+ - [Oslo-based PortalOne, which is building a &quot;hybrid&quot; gaming platform, raises a $60M Series A led by Tiger Global, following a $15M seed in April 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220127/p10#a220127p10)
+ - [Apple TV+ buys &#39;Cha Cha Real Smooth&#39; for $15 million at Sundance](https://appleinsider.com/articles/22/01/27/apple-tv-buys-cha-cha-real-smooth-for-15-million-at-sundance?utm_medium=rss)
+ - [Studio Ghibli’s theme park to open in Japan on November 1st](https://www.theverge.com/2022/1/27/22904174/studio-ghibli-theme-park-japan-opening-date-november-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
