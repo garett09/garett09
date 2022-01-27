@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer and Cariuma release sustainably made Sneki Snek sneakers](https://www.pcgamer.com/razer-and-cariuma-release-sustainably-made-sneki-snek-sneakers)
  - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)
- - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)
- - [4000-Year-Old Board Game Uncovered By Archaeologists](https://kotaku.com/archaeology-board-game-royal-ur-oman-archaeologist-anci-1848429292)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
