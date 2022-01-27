@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weight loss of apx 90 lbs &lpar;270&gt;180&rpar; from men\u2019s shirts XL to M . Success !](http://9gag.com/gag/aZr791W)
- - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)
- - 🚯 [Love this movie](http://9gag.com/gag/ay9eEyW)<!-- MEMES:END -->
+ - 🚖 [What a little girl she is](http://9gag.com/gag/aVxwjxd)
+ - 🚯 [My pronouns are f**k/you](http://9gag.com/gag/a61KrxA)
+ - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)<!-- MEMES:END -->
 
 --- 
 
