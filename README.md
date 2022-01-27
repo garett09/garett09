@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breeo X Series 24 vs. Solo Stove Yukon: 2 premium smokeless fire pits compared     - CNET](https://www.cnet.com/home/yard-and-outdoors/breeo-x-series-24-vs-solo-stove-yukon-2-premium-smokeless-fire-pits-compared/#ftag=CAD590a51e)
- - [Samsung reports Q4 operating profit of ~$11.6B, up 53% YoY, on revenue of ~$63.8B, up 24% YoY, but misses on net income of ~$8.9B vs. ~$9.2B expected &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220126/p41#a220126p41)
- - [BMW teases its latest art car collaboration with Jeff Koons     - Roadshow](https://www.cnet.com/roadshow/pictures/bmw-8-jeff-koons-teasers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is working on a service that will let businesses accept payments directly on their iPhones without any extra hardware, based on Mobeewave&#39;s tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220126/p42#a220126p42)
+ - [A union election is moving forward at Amazon’s JFK8 warehouse](https://www.theverge.com/2022/1/26/22903584/amazon-jfk8-warehouse-union-election-labor-nlrb)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
