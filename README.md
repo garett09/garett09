@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Need more car ads like this.](http://9gag.com/gag/awzoENx)
- - 🚯 [Dracarys](http://9gag.com/gag/axB7qMb)
- - 🚯 [Let&#39;s get high](http://9gag.com/gag/aLv07Mv)<!-- MEMES:END -->
+ - 🚖 [Wholesome](http://9gag.com/gag/abgr7rB)
+ - 🚯 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
+ - 🚯 [Chairs are for noobs](http://9gag.com/gag/aOQ0MjD)<!-- MEMES:END -->
 
 --- 
 
