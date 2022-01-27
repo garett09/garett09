@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: 85% off Microsoft Office Professional Plus 2021](https://www.androidauthority.com/microsoft-office-professional-plus-2021-deal-3097418/)
- - [Tesla Cybertruck delayed until at least next year, Elon Musk confirms](https://www.theverge.com/2022/1/26/22903314/q4-2021-tesla-cybertruck-delayed-until-2023-elon-musk-earnings-call)
- - [ID.me does use facial recognition to match against databases, CEO admits](https://www.theverge.com/2022/1/26/22903437/id-me-facial-recognition-databases-irs-match)<!-- TECH:END -->
+ - [Amazon is ending its third-party &quot;Sold by Amazon&quot; program after Washington&#39;s AG found the company engaged in price fixing and the program was anticompetitive &lpar;Lauren Rosenblatt/The Seattle Times&rpar;](http://www.techmeme.com/220126/p39#a220126p39)
+ - [E-bike maker Cowboy joins the exclusive $100 million club](https://www.theverge.com/2022/1/26/22900462/cowboy-e-bikes-investment-expansion-plans)
+ - [David Bowie’s The Man Who Fell to Earth is becoming a new graphic novel](https://www.theverge.com/2022/1/26/22903436/david-bowie-man-fell-earth-graphic-novel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
