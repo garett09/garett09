@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Physical Jobs Are Going Remote, Too](https://www.wired.com/story/now-physical-jobs-going-remote)
- - [6 Apps for Saving and Budgeting Your Money](https://www.wired.com/story/finance-budget-investment-apps)
- - [A lawsuit could accelerate research on tear gas and menstrual changes](https://www.theverge.com/2022/1/27/22903099/lawsuit-tear-gas-menstrual-cycle-portland-research)<!-- TECH:END -->
+ - [The Verge’s 2022 Valentine’s Day gift guide](https://www.theverge.com/22890136/valentines-day-2022-gift-ideas-couples-boyfriend-girlfriend-partner-friend)
+ - [Master &amp; Dynamic MG20 review: pricey doesn’t mean good](https://www.theverge.com/22900752/master-dynamic-mg20-review-gaming-headset-specs-performance)
+ - [Amy Klobuchar leads her final assault on Big Tech’s power](https://www.theverge.com/2022/1/27/22904320/amy-klobuchar-amazon-apple-facebook-google-antitrust-competition-bill)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
