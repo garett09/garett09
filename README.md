@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polar Grit X Pro review: a fitness watch that matches your fit](https://www.theverge.com/22904291/polar-grit-x-pro-review-gps-smartwatch-fitness-tracker)
- - [Warner Music Group is launching a metaverse concert hall where you can pay to be its neighbor](https://www.theverge.com/2022/1/27/22904382/warner-music-group-the-sandbox-virtual-real-estate-sale-concert-venue)
- - [Indian social commerce startup DealShare raises a Series E of around $130M led by Tiger Global at an estimated $1.62B post-money valuation &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220127/p26#a220127p26)<!-- TECH:END -->
+ - [Sonnet unveils new adapters for connecting two displays to an M1 Mac](https://appleinsider.com/articles/22/01/27/sonnet-unveils-new-adapters-for-connecting-two-displays-to-an-m1-mac?utm_medium=rss)
+ - [Sources: SoftBank COO Marcelo Claure is leaving as soon as today; reports said Claure wanted $2B in compensation and clashed with Son over his responsibilities &lpar;CNBC&rpar;](http://www.techmeme.com/220127/p27#a220127p27)
+ - [Why Spotify can’t afford to lose Joe Rogan](https://www.theverge.com/2022/1/27/22904463/joe-rogan-spotify-neil-young-decision-moderation-podcasts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
