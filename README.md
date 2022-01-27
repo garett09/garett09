@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF?](http://9gag.com/gag/a11R4AD)
- - 🚯 [I guess we can all be a bit hypocritical when we&#39;re at least amused by one of them. Give them bread and circuses and all that](http://9gag.com/gag/aze1NVz)
- - 🚯 [Heaven on earth](http://9gag.com/gag/abgrPOX)<!-- MEMES:END -->
+ - 🚖 [The ultimate hack to achieve piece](http://9gag.com/gag/aKmdbr3)
+ - 🚯 [F*#k cyclists!](http://9gag.com/gag/arnoPvK)
+ - 🚯 [WTF?](http://9gag.com/gag/a11R4AD)<!-- MEMES:END -->
 
 --- 
 
