@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPadOS and macOS betas finally add Universal Control](https://www.theverge.com/2022/1/27/22904957/apple-universal-control-ipados-15-4-macos-monterey-12-3-betas)
- - [Face ID works while wearing a mask in the iOS 15.4 beta](https://appleinsider.com/articles/22/01/27/face-id-works-while-wearing-a-mask-in-the-ios-154-beta?utm_medium=rss)
- - [iPadOS 15.4 and macOS Monterey 12.3 betas add the long-delayed Universal Control, which lets users control nearby Macs and iPads with a single mouse or keyboard &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220127/p35#a220127p35)<!-- TECH:END -->
+ - [7 great movies from the 2022 Sundance Film Festival](https://www.theverge.com/2022/1/27/22902494/sundance-film-festival-2022-best-movies)
+ - [Google is adding an Offers tab to Google Play to help you find deals on games and apps](https://www.theverge.com/2022/1/27/22905061/google-play-offers-tab-games-apps-deals)
+ - [Wyze discontinues its original WyzeCam](https://www.theverge.com/2022/1/27/22904844/wyze-discontinues-smart-security-camera-wyzecam-v1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
