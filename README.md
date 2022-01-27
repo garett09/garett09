@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it is rolling out a fix for a bug in CloudKit backend that has intermittently prevented third-party apps from syncing with iCloud for months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220127/p1#a220127p1)
- - [iPhones will soon accept contactless payments directly, says report](https://www.theverge.com/2022/1/26/22903971/iphone-apple-mobeewave-contactless-payments-ios-update)
- - [Dallas-based o9 Solutions, which offers AI analytics tools to let companies manage their supply chains, sales, and marketing, raises $295M at a $2.7B valuation &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220126/p47#a220126p47)<!-- TECH:END -->
+ - [Singapore-based Cialfo, which helps international students apply to hundreds of colleges in one form, raises a $40M Series B, bringing its total funding to $55M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220127/p2#a220127p2)
+ - [Apple says it is rolling out a fix for a bug in CloudKit&#39;s backend that for months intermittently prevented third-party apps from syncing with iCloud &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220127/p1#a220127p1)
+ - [iPhones will soon accept contactless payments directly, says report](https://www.theverge.com/2022/1/26/22903971/iphone-apple-mobeewave-contactless-payments-ios-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
