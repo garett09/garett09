@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.4 beta 1 adds Face ID use while wearing a mask, without needing an Apple Watch for authentication, by recognizing &quot;the unique features around the eye&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220127/p33#a220127p33)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [TCL’s 30 V 5G is the cheapest way to get on Verizon’s new C-band 5G network right now](https://www.theverge.com/2022/1/27/22904664/tcl-30-v-5g-verizon-price-screen-specs-c-band)<!-- TECH:END -->
+ - [Apple’s latest iPadOS and macOS betas finally add Universal Control](https://www.theverge.com/2022/1/27/22904957/apple-universal-control-ipados-15-4-macos-monterey-12-3-betas)
+ - [Face ID works while wearing a mask in the iOS 15.4 beta](https://appleinsider.com/articles/22/01/27/face-id-works-while-wearing-a-mask-in-the-ios-154-beta?utm_medium=rss)
+ - [iPadOS 15.4 and macOS Monterey 12.3 betas add the long-delayed Universal Control, which lets users control nearby Macs and iPads with a single mouse or keyboard &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220127/p35#a220127p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
