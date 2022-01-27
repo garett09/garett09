@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
- - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)
- - 🚯 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)<!-- MEMES:END -->
+ - 🚯 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)
+ - 🚯 [Mike is brilliant](http://9gag.com/gag/aZr760Q)<!-- MEMES:END -->
 
 --- 
 
