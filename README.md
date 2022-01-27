@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Character spotlight on Atelier Sophie 2, out February 25](https://blog.playstation.com/2022/01/27/character-spotlight-on-atelier-sophie-2-out-february-25/)
- - [Character spotlight on Atelier Sophie 2, out February 25](https://blog.playstation.com/2022/01/27/character-spotlight-on-atelier-sophie-2-out-february-25/)
- - [Who Knew A Game Boy&#39;s Insides Could Be So Beautiful?](https://kotaku.com/game-boy-psp-ds-art-artwork-grid-studio-framed-1848431471)<!-- GAME:END -->
+ - [The Dark Souls tabletop role-playing game will be based on 5th edition D&amp;D rules](https://www.polygon.com/tabletop-games/22848850/dark-souls-tabletop-rpg-steamforged-teaser-trailer-5e)
+ - [Join Rocket League’s Celebration of Music Featuring Grimes](https://news.xbox.com/en-us/2022/01/27/join-rocket-leagues-celebration-of-music-featuring-grimes/)
+ - [Two Point Campus coming to console and PC in May](https://www.polygon.com/22900796/sega-two-point-campus-release-date-xbox-game-pass-switch-ps4-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
