@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best mid-tower cases in 2021](https://www.pcgamer.com/best-mid-tower-case)
- - [Call of Duty: Warzone’s new patch has a ton of bug fixes](https://www.polygon.com/call-of-duty/22903283/call-of-duty-warzone-servers-bug-fixes-new-season)
- - [Exploding Kittens gets a 2-player adaptation for faster, smaller games](https://www.polygon.com/22903296/exploding-kittens-two-player-edition-release)<!-- GAME:END -->
+ - [The Book of Boba Fett’s halo isn’t a Halo reference — it’s bigger than that](https://www.polygon.com/22903093/book-of-boba-fett-halo-ringworld-space-station)
+ - [The state of Overwatch in 2022: Waiting for more](https://www.pcgamer.com/the-state-of-overwatch-in-2022-waiting-for-more)
+ - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
