@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Has PC Games – PC Builder Series: Minecraft](https://news.xbox.com/en-us/2022/01/27/game-pass-has-pc-games-pc-builder-series-minecraft/)
- - [3D Platformer Kao The Kangaroo Jumps onto Xbox This Summer](https://news.xbox.com/en-us/2022/01/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer/)
- - [The new Office video game shows why the show will never die](https://www.polygon.com/22904518/the-office-game-ios-android-release)<!-- GAME:END -->
+ - [Path of Exile’s Endgame Expansion: Siege of the Atlas – Play Free February 9](https://news.xbox.com/en-us/2022/01/27/path-of-exiles-endgame-expansion-siege-of-the-atlas-play-free-february-9/)
+ - [Kao the Kangaroo gets a reboot, two decades after the original](https://www.polygon.com/22904951/kao-the-kangaroo-platformer-reboot-announced)
+ - [The Epic Games Store will keep giving away games in 2022](https://www.polygon.com/22905076/epic-games-store-free-games-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
