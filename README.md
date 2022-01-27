@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer and Cariuma release sustainably made Sneki Snek sneakers](https://www.pcgamer.com/razer-and-cariuma-release-sustainably-made-sneki-snek-sneakers)
- - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)
- - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)<!-- GAME:END -->
+ - [Future Nvidia GPUs could be 20% better at Ray Tracing](https://www.pcgamer.com/future-nvidia-gpus-could-be-20-better-at-ray-tracing)
+ - [Windows 11 update is bringing support for Android apps](https://www.pcgamer.com/windows-11-update-is-bringing-support-for-android-apps)
+ - [New AMD Radeon RX 550s are selling for $155 USD in Japan](https://www.pcgamer.com/new-amd-radeon-rx-550s-are-selling-for-dollar155-usd-in-japan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
