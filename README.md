@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [4000-Year-Old Board Game Uncovered By Archaeologists](https://kotaku.com/archaeology-board-game-royal-ur-oman-archaeologist-anci-1848429292)
  - [The Book of Boba Fett’s halo isn’t a Halo reference — it’s bigger than that](https://www.polygon.com/22903093/book-of-boba-fett-halo-ringworld-space-station)
- - [The state of Overwatch in 2022: Waiting for more](https://www.pcgamer.com/the-state-of-overwatch-in-2022-waiting-for-more)
- - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)<!-- GAME:END -->
+ - [The state of Overwatch in 2022: Waiting for more](https://www.pcgamer.com/the-state-of-overwatch-in-2022-waiting-for-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
