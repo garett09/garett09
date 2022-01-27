@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is ending its third-party &quot;Sold by Amazon&quot; program after Washington&#39;s AG found the company engaged in price fixing and the program was anticompetitive &lpar;Lauren Rosenblatt/The Seattle Times&rpar;](http://www.techmeme.com/220126/p39#a220126p39)
- - [E-bike maker Cowboy joins the exclusive $100 million club](https://www.theverge.com/2022/1/26/22900462/cowboy-e-bikes-investment-expansion-plans)
- - [David Bowie’s The Man Who Fell to Earth is becoming a new graphic novel](https://www.theverge.com/2022/1/26/22903436/david-bowie-man-fell-earth-graphic-novel)<!-- TECH:END -->
+ - [Breeo X Series 24 vs. Solo Stove Yukon: 2 premium smokeless fire pits compared     - CNET](https://www.cnet.com/home/yard-and-outdoors/breeo-x-series-24-vs-solo-stove-yukon-2-premium-smokeless-fire-pits-compared/#ftag=CAD590a51e)
+ - [Samsung reports Q4 operating profit of ~$11.6B, up 53% YoY, on revenue of ~$63.8B, up 24% YoY, but misses on net income of ~$8.9B vs. ~$9.2B expected &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220126/p41#a220126p41)
+ - [BMW teases its latest art car collaboration with Jeff Koons     - Roadshow](https://www.cnet.com/roadshow/pictures/bmw-8-jeff-koons-teasers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
