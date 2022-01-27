@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 Valentine’s Day gift guide](https://www.theverge.com/22890136/valentines-day-2022-gift-ideas-couples-boyfriend-girlfriend-partner-friend)
- - [Master &amp; Dynamic MG20 review: pricey doesn’t mean good](https://www.theverge.com/22900752/master-dynamic-mg20-review-gaming-headset-specs-performance)
- - [Amy Klobuchar leads her final assault on Big Tech’s power](https://www.theverge.com/2022/1/27/22904320/amy-klobuchar-amazon-apple-facebook-google-antitrust-competition-bill)<!-- TECH:END -->
+ - [Polar Grit X Pro review: a fitness watch that matches your fit](https://www.theverge.com/22904291/polar-grit-x-pro-review-gps-smartwatch-fitness-tracker)
+ - [Warner Music Group is launching a metaverse concert hall where you can pay to be its neighbor](https://www.theverge.com/2022/1/27/22904382/warner-music-group-the-sandbox-virtual-real-estate-sale-concert-venue)
+ - [Indian social commerce startup DealShare raises a Series E of around $130M led by Tiger Global at an estimated $1.62B post-money valuation &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220127/p26#a220127p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
