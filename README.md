@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
- - 🚯 [Somebody stabilized the Bigfoot vid from way back when](http://9gag.com/gag/amg53n2)
- - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)<!-- MEMES:END -->
+ - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)
+ - 🚯 [Just another post about different genders,worth the watch if you got time &lpar;3,30mins&rpar;](http://9gag.com/gag/aDDgK3K)<!-- MEMES:END -->
 
 --- 
 
