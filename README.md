@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zombie Atari Celebrates 50-Year Legacy With NFT Loot Boxes](https://kotaku.com/atari-nft-loot-box-crypto-ethereum-blockchain-metaverse-1848433762)
- - [Mortal Kombat writer tapped to write and direct System Shock TV series](https://www.polygon.com/22904763/mortal-kombat-system-shock-tv-streaming-series)
- - [Vagante Comes to Xbox. The Evolution of a Roguelite Five Years in the Making](https://news.xbox.com/en-us/2022/01/27/vagante-comes-to-xbox-the-evolution-of-a-roguelite-five-years-in-the-making/)<!-- GAME:END -->
+ - [Play in a Song in The Longest Road on Earth](https://news.xbox.com/en-us/2022/01/27/play-in-a-song-in-the-longest-road-on-earth/)
+ - [Halo Infinite&#39;s Ranked Capture The Flag Matches Are Too Long](https://kotaku.com/halo-infinite-ctf-capture-ranked-playlist-behemoth-1848434469)
+ - [Death Stranding Director&#39;s Cut arrives on PC March 30](https://www.pcgamer.com/death-stranding-directors-cut-arrives-on-pc-march-30)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
