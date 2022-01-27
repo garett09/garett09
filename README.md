@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [4000-Year-Old Board Game Uncovered By Archaeologists](https://kotaku.com/archaeology-board-game-royal-ur-oman-archaeologist-anci-1848429292)
- - [The Book of Boba Fett’s halo isn’t a Halo reference — it’s bigger than that](https://www.polygon.com/22903093/book-of-boba-fett-halo-ringworld-space-station)
- - [The state of Overwatch in 2022: Waiting for more](https://www.pcgamer.com/the-state-of-overwatch-in-2022-waiting-for-more)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2022/01/26/20220127-psstore/)
+ - [4000-Year-Old Board Game Uncovered By Archaeologists](https://kotaku.com/archaeology-board-game-royal-ur-oman-archaeologist-anci-1848429292)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
