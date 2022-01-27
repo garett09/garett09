@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on tech to allow iPhones to directly process credit cards](https://appleinsider.com/articles/22/01/27/apple-working-on-tech-to-allow-iphones-to-directly-process-credit-cards?utm_medium=rss)
- - [Source: Meta-backed Diem Association is selling its technology to California bank Silvergate Capital, which serves crypto companies, for ~$200M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220126/p43#a220126p43)
- - [Sources: Apple is working on a service that will let businesses accept payments directly on their iPhones without any extra hardware, based on Mobeewave&#39;s tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220126/p42#a220126p42)<!-- TECH:END -->
+ - [Substack plans to launch a native video player in beta next week that will let creators upload or record a video and embed it directly in a Substack post &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220126/p46#a220126p46)
+ - [Samsung sets revenue records with stronger product sales](https://www.theverge.com/2022/1/26/22902283/samsung-earnings-q4-2021-record-revenue-galaxy-s22)
+ - [Slim.AI, which simplifies container security for developers, raises a $31M Series A co-led by Insight Partners and StepStone Group &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220126/p45#a220126p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
