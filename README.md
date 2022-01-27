@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy descends observation tube at McMurdo Antarctic research station to peer under the ice.](http://9gag.com/gag/a91R9xZ)
- - 🚯 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)
- - 🚯 [How does she do it??](http://9gag.com/gag/a21Rnew)<!-- MEMES:END -->
+ - 🚖 [We will be living in coffins one day](http://9gag.com/gag/aOQ0g5v)
+ - 🚯 [And she IS the coolest](http://9gag.com/gag/a41ReYZ)
+ - 🚯 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)<!-- MEMES:END -->
 
 --- 
 
