@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome](http://9gag.com/gag/abgr7rB)
- - 🚯 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
- - 🚯 [Chairs are for noobs](http://9gag.com/gag/aOQ0MjD)<!-- MEMES:END -->
+ - 🚖 [Chills, literally chills](http://9gag.com/gag/aQX1GPq)
+ - 🚯 [Somebody stabilized the Bigfoot vid from way back when](http://9gag.com/gag/amg53n2)
+ - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)<!-- MEMES:END -->
 
 --- 
 
