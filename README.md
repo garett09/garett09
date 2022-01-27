@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And I thought I suck at geography](http://9gag.com/gag/aXrjDA6)
- - 🚯 [Offended in 3..2..1](http://9gag.com/gag/aDDgpYd)
- - 🚯 [Well done folks](http://9gag.com/gag/a41RDmp)<!-- MEMES:END -->
+ - 🚖 [Subtle way to tell them to shower](http://9gag.com/gag/ajg5bmx)
+ - 🚯 [Flippity floppity! Running away is not an option.](http://9gag.com/gag/aRr0YpQ)
+ - 🚯 [Guy descends observation tube at McMurdo Antarctic research station to peer under the ice.](http://9gag.com/gag/a91R9xZ)<!-- MEMES:END -->
 
 --- 
 
