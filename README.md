@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WeRock, which runs WeTransfer, pauses its Amsterdam IPO, slated for January 28 and seeking to raise &amp;euro;629M-&amp;euro;716M, citing market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/220127/p19#a220127p19)
- - [Berlin-based Mayd, which offers rapid pharmacy deliveries, raises a &amp;euro;30M Series A led by Lightspeed, following a &amp;euro;13M seed in October 2021 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220127/p18#a220127p18)
- - [How to save locations on Google Maps](https://www.androidauthority.com/save-location-google-maps-3096620/)<!-- TECH:END -->
+ - [Now Physical Jobs Are Going Remote, Too](https://www.wired.com/story/now-physical-jobs-going-remote)
+ - [6 Apps for Saving and Budgeting Your Money](https://www.wired.com/story/finance-budget-investment-apps)
+ - [A lawsuit could accelerate research on tear gas and menstrual changes](https://www.theverge.com/2022/1/27/22903099/lawsuit-tear-gas-menstrual-cycle-portland-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
