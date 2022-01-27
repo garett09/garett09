@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dark Souls tabletop role-playing game will be based on 5th edition D&amp;D rules](https://www.polygon.com/tabletop-games/22848850/dark-souls-tabletop-rpg-steamforged-teaser-trailer-5e)
- - [Join Rocket League’s Celebration of Music Featuring Grimes](https://news.xbox.com/en-us/2022/01/27/join-rocket-leagues-celebration-of-music-featuring-grimes/)
- - [Two Point Campus coming to console and PC in May](https://www.polygon.com/22900796/sega-two-point-campus-release-date-xbox-game-pass-switch-ps4-pc)<!-- GAME:END -->
+ - [Mod makes Kratos the God of dad jokes](https://www.pcgamer.com/mod-makes-kratos-the-god-of-dad-jokes)
+ - [Apex Legends&#39; flying city is getting a violent relocation next season](https://www.pcgamer.com/apex-legends-flying-city-is-getting-a-violent-relocation-next-season)
+ - [Mad Maggie brings down Olympus to kick off Apex Legends season 12](https://www.polygon.com/22904104/apex-legends-season-12-launch-trailer-mad-maggie-olympus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
