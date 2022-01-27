@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lamborghini releases its first NFT, which is the most Lamborghini thing ever](https://www.theverge.com/2022/1/27/22901181/lamborghini-nft-crypto-blockchain-winkelmann-interview)
- - [YouTube announces 135 creators in its 2022 Black Voices Fund](https://www.theverge.com/2022/1/27/22903385/youtube-black-voices-fund-2022-grantees)
- - [TikTok says it wants to educate users about the Holocaust and antisemitism     - CNET](https://www.cnet.com/tech/mobile/tiktok-wants-to-educate-users-about-the-holocaust-and-antisemitism/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify is removing Neil Young&#39;s music after he gave the company an ultimatum between his music and Joe Rogan&#39;s podcast with COVID-19 vaccine misinformation &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/220127/p9#a220127p9)
+ - [Ipsos: Apple News was the most widely used UK news app in December 2021 with 13.2M users and 1.2B minutes spent; BBC News had 12.5M users and 2.2B minutes spent &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/220127/p8#a220127p8)
+ - [We asked, you told us: Most of you don’t use a ton of widgets](https://www.androidauthority.com/widgets-android-poll-results-3096206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
