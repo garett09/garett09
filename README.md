@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adrien Fourmaux crashing @2022 Monte Carlo](http://9gag.com/gag/aQX1Y0K)
- - 🚯 [Thanks Rups..., but no thanks...](http://9gag.com/gag/azem7DB)
- - 🚯 [Russian gitl cheering up her boyfriend who works in metro security](http://9gag.com/gag/aE8ge9O)<!-- MEMES:END -->
+ - 🚖 [This too shall pass..](http://9gag.com/gag/aM4Yp96)
+ - 🚯 [&#39;her male genitals&#39;](http://9gag.com/gag/a81GLb3)
+ - 🚯 [Weight loss of apx 90 lbs &lpar;270&gt;180&rpar; from men\u2019s shirts XL to M . Success !](http://9gag.com/gag/aZr791W)<!-- MEMES:END -->
 
 --- 
 
