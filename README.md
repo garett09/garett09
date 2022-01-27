@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play in a Song in The Longest Road on Earth](https://news.xbox.com/en-us/2022/01/27/play-in-a-song-in-the-longest-road-on-earth/)
- - [Halo Infinite&#39;s Ranked Capture The Flag Matches Are Too Long](https://kotaku.com/halo-infinite-ctf-capture-ranked-playlist-behemoth-1848434469)
- - [Death Stranding Director&#39;s Cut arrives on PC March 30](https://www.pcgamer.com/death-stranding-directors-cut-arrives-on-pc-march-30)<!-- GAME:END -->
+ - [Canceled Star Wars Game Footage Teases Boba Fett Bounty Hunting Action](https://kotaku.com/star-wars-1313-boba-fett-lucasarts-lucasfilm-gameplay-f-1848434419)
+ - [When does The Mandalorian season 3 come out?](https://www.polygon.com/22193147/when-the-mandalorian-season-3-comes-out)
+ - [How High We Go in the Dark pairs Station 11 vibes with a euthanasia theme park for kids](https://www.polygon.com/22903640/how-high-we-go-in-the-dark-free-excerpt-sequoia-nagamatsu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
