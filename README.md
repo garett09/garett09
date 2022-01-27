@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack plans to launch a native video player in beta next week that will let creators upload or record a video and embed it directly in a Substack post &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220126/p46#a220126p46)
- - [Samsung sets revenue records with stronger product sales](https://www.theverge.com/2022/1/26/22902283/samsung-earnings-q4-2021-record-revenue-galaxy-s22)
- - [Slim.AI, which simplifies container security for developers, raises a $31M Series A co-led by Insight Partners and StepStone Group &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220126/p45#a220126p45)<!-- TECH:END -->
+ - [Apple says it is rolling out a fix for a bug in CloudKit backend that has intermittently prevented third-party apps from syncing with iCloud for months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220127/p1#a220127p1)
+ - [iPhones will soon accept contactless payments directly, says report](https://www.theverge.com/2022/1/26/22903971/iphone-apple-mobeewave-contactless-payments-ios-update)
+ - [Dallas-based o9 Solutions, which offers AI analytics tools to let companies manage their supply chains, sales, and marketing, raises $295M at a $2.7B valuation &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220126/p47#a220126p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
