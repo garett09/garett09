@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireblocks, which lets users store, transfer, and issue digital assets, raises a $550M Series E at an $8B valuation, after raising $310M in July 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220127/p14#a220127p14)
- - [Fanhouse rolls out 50% surcharge on in-app purchases, to offset 30% App Store fees](https://appleinsider.com/articles/22/01/26/fanhouse-rolls-out-50-surcharge-on-in-app-purchases-to-offset-30-app-store-fees?utm_medium=rss)
- - [Domestika, an online learning community that offers video tutorials and courses, raises a $110M Series D led by Zeev Ventures at a $1.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220127/p13#a220127p13)<!-- TECH:END -->
+ - [WeRock, which runs WeTransfer, pauses its Amsterdam IPO, slated for January 28 and seeking to raise &amp;euro;629M-&amp;euro;716M, citing market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/220127/p19#a220127p19)
+ - [Berlin-based Mayd, which offers rapid pharmacy deliveries, raises a &amp;euro;30M Series A led by Lightspeed, following a &amp;euro;13M seed in October 2021 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220127/p18#a220127p18)
+ - [How to save locations on Google Maps](https://www.androidauthority.com/save-location-google-maps-3096620/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
