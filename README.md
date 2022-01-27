@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Canceled Star Wars Game Footage Teases Boba Fett Bounty Hunting Action](https://kotaku.com/star-wars-1313-boba-fett-lucasarts-lucasfilm-gameplay-f-1848434419)
- - [When does The Mandalorian season 3 come out?](https://www.polygon.com/22193147/when-the-mandalorian-season-3-comes-out)
- - [How High We Go in the Dark pairs Station 11 vibes with a euthanasia theme park for kids](https://www.polygon.com/22903640/how-high-we-go-in-the-dark-free-excerpt-sequoia-nagamatsu)<!-- GAME:END -->
+ - [Game Pass Has PC Games – PC Builder Series: Minecraft](https://news.xbox.com/en-us/2022/01/27/game-pass-has-pc-games-pc-builder-series-minecraft/)
+ - [3D Platformer Kao The Kangaroo Jumps onto Xbox This Summer](https://news.xbox.com/en-us/2022/01/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer/)
+ - [The new Office video game shows why the show will never die](https://www.polygon.com/22904518/the-office-game-ios-android-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
