@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We will be living in coffins one day](http://9gag.com/gag/aOQ0g5v)
- - 🚯 [And she IS the coolest](http://9gag.com/gag/a41ReYZ)
- - 🚯 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)<!-- MEMES:END -->
+ - 🚖 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)
+ - 🚯 [Varna-Sofia train &lpar;Bulgaria&rpar;. Bit chilly! Thanks, government!](http://9gag.com/gag/aBngqwQ)
+ - 🚯 [Dog smells durian fruit](http://9gag.com/gag/ay9oypq)<!-- MEMES:END -->
 
 --- 
 
