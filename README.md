@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a little girl she is](http://9gag.com/gag/aVxwjxd)
- - 🚯 [My pronouns are f**k/you](http://9gag.com/gag/a61KrxA)
- - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)<!-- MEMES:END -->
+ - 🚖 [My pronouns are f**k/you](http://9gag.com/gag/a61KrxA)
+ - 🚯 [The ultimate hack to achieve piece](http://9gag.com/gag/aKmdbr3)
+ - 🚯 [I live in a town in Germany. Nobody knows where it comes from, but randomly we\u2019ve got a kangaroo in our neighborhood. It did not escape from any nearby zoo or anything. It has to come from Austria](http://9gag.com/gag/aegDK4p)<!-- MEMES:END -->
 
 --- 
 
