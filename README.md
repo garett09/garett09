@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonnet unveils new adapters for connecting two displays to an M1 Mac](https://appleinsider.com/articles/22/01/27/sonnet-unveils-new-adapters-for-connecting-two-displays-to-an-m1-mac?utm_medium=rss)
- - [Sources: SoftBank COO Marcelo Claure is leaving as soon as today; reports said Claure wanted $2B in compensation and clashed with Son over his responsibilities &lpar;CNBC&rpar;](http://www.techmeme.com/220127/p27#a220127p27)
- - [Why Spotify can’t afford to lose Joe Rogan](https://www.theverge.com/2022/1/27/22904463/joe-rogan-spotify-neil-young-decision-moderation-podcasts)<!-- TECH:END -->
+ - [A SpaceX rocket slamming into the Moon is a reminder to clean up our deep space junk](https://www.theverge.com/2022/1/27/22904427/spacex-falcon-9-rocket-second-stage-moon-collision-deep-space-junk)
+ - [Meta rebrands Oculus Quest as Meta Quest, leading to criticism on social media; the rebrand was originally announced in October &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/220127/p30#a220127p30)
+ - [Best cheap TV deals: Save over $150 on a TCL 4-series, $100 on 65-inch Vizio and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-cheap-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
