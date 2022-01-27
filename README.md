@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile’s Endgame Expansion: Siege of the Atlas – Play Free February 9](https://news.xbox.com/en-us/2022/01/27/path-of-exiles-endgame-expansion-siege-of-the-atlas-play-free-february-9/)
- - [Kao the Kangaroo gets a reboot, two decades after the original](https://www.polygon.com/22904951/kao-the-kangaroo-platformer-reboot-announced)
- - [The Epic Games Store will keep giving away games in 2022](https://www.polygon.com/22905076/epic-games-store-free-games-2022)<!-- GAME:END -->
+ - [I Traveled To Facebook&#39;s Soulless &lpar;But Popular&rpar; Metaverse So You Don&#39;t Have To](https://kotaku.com/facebook-metaverse-horizon-worlds-vr-oculus-quest-2-cha-1848436740)
+ - [Riot Forced To Explain A Valorant Character Is Not Into NFTs](https://kotaku.com/valorant-killjoy-nft-nfts-crypto-blockchain-riot-games-1848436442)
+ - [Why everyone is playing Yu-Gi-Oh! out of nowhere](https://www.polygon.com/22904969/yu-gi-oh-master-duel-free-to-play-steam-switch-playstation-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
