@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 HD Project releases next week after 8 years of work](https://www.pcgamer.com/resident-evil-4-hd-project-releases-next-week-after-8-years-of-work)
- - [G.Skill announces a low latency DDR5-6400 CL32 memory kit](https://www.pcgamer.com/gskill-announces-a-low-latency-ddr5-6400-cl32-memory-kit)
- - [Intel made more money than ever last year](https://www.pcgamer.com/intel-made-more-money-than-ever-last-year)<!-- GAME:END -->
+ - [Yu-Gi-Oh Master Duel is kicking ass on Steam](https://www.pcgamer.com/yu-gi-oh-master-duel-is-kicking-ass-on-steam)
+ - [Marvel&#39;s next game should be about Jessica Jones](https://www.pcgamer.com/marvels-next-game-should-be-about-jessica-jones)
+ - [Has the crypto crash had any effect on GPU availability?](https://www.pcgamer.com/has-the-crypto-crash-had-any-effect-on-gpu-availability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
