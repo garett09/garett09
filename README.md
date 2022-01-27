@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was really pranked lol](http://9gag.com/gag/aze10MB)
- - 🚯 [The old cartoons had serious teachings](http://9gag.com/gag/aVx0AGn)
- - 🚯 [Wholesome](http://9gag.com/gag/abgr7rB)<!-- MEMES:END -->
+ - 🚖 [She knows what she&#39;s doing](http://9gag.com/gag/a91R91j)
+ - 🚯 [Please spare some ladies for the rest of us Sir.](http://9gag.com/gag/axB7LR2)
+ - 🚯 [Take advantage of what you have](http://9gag.com/gag/aAGgoP9)<!-- MEMES:END -->
 
 --- 
 
