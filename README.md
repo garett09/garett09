@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate hack to achieve piece](http://9gag.com/gag/aKmdbr3)
- - 🚯 [F*#k cyclists!](http://9gag.com/gag/arnoPvK)
- - 🚯 [WTF?](http://9gag.com/gag/a11R4AD)<!-- MEMES:END -->
+ - 🚖 [Russian gitl cheering up her boyfriend who works in metro security](http://9gag.com/gag/aE8ge9O)
+ - 🚯 [WTF?](http://9gag.com/gag/a11R4AD)
+ - 🚯 [That&#39;s a lot of damage](http://9gag.com/gag/aqGg3pR)<!-- MEMES:END -->
 
 --- 
 
