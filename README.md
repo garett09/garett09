@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She knows what she&#39;s doing](http://9gag.com/gag/a91R91j)
- - 🚯 [Please spare some ladies for the rest of us Sir.](http://9gag.com/gag/axB7LR2)
- - 🚯 [Take advantage of what you have](http://9gag.com/gag/aAGgoP9)<!-- MEMES:END -->
+ - 🚖 [Damn it, Uther!](http://9gag.com/gag/aGzgmb5)
+ - 🚯 [Hehe](http://9gag.com/gag/aqGgPPR)
+ - 🚯 [When you agree to babysit your friends kids](http://9gag.com/gag/a31RVe1)<!-- MEMES:END -->
 
 --- 
 
