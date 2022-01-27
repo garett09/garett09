@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Cialfo, which helps international students apply to hundreds of colleges in one form, raises a $40M Series B, bringing its total funding to $55M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220127/p2#a220127p2)
- - [Apple says it is rolling out a fix for a bug in CloudKit&#39;s backend that for months intermittently prevented third-party apps from syncing with iCloud &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220127/p1#a220127p1)
- - [iPhones will soon accept contactless payments directly, says report](https://www.theverge.com/2022/1/26/22903971/iphone-apple-mobeewave-contactless-payments-ios-update)<!-- TECH:END -->
+ - [Fanhouse, an OnlyFans-like platform, introduces a 50% surcharge for iOS IAP&#39;s, after pushing back in 2021 on Apple&#39;s 30% commission on creator earnings &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220127/p4#a220127p4)
+ - [DigitalOwl, which uses NLP tech to analyze medical records to let insurers combat fraud, underwrite health plans, and execute claims, raises a $20M Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220127/p3#a220127p3)
+ - [MIUI 13 global rollout confirmed: These phones will get the update soon](https://www.androidauthority.com/miui-13-global-rollout-3097500/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
