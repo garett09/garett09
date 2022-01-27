@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This too shall pass..](http://9gag.com/gag/aM4Yp96)
- - 🚯 [&#39;her male genitals&#39;](http://9gag.com/gag/a81GLb3)
- - 🚯 [Weight loss of apx 90 lbs &lpar;270&gt;180&rpar; from men\u2019s shirts XL to M . Success !](http://9gag.com/gag/aZr791W)<!-- MEMES:END -->
+ - 🚖 [Weight loss of apx 90 lbs &lpar;270&gt;180&rpar; from men\u2019s shirts XL to M . Success !](http://9gag.com/gag/aZr791W)
+ - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)
+ - 🚯 [Love this movie](http://9gag.com/gag/ay9eEyW)<!-- MEMES:END -->
 
 --- 
 
