@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lamborghini releases its first NFT, which is the most Lamborghini thing ever](https://www.theverge.com/2022/1/27/22901181/lamborghini-nft-crypto-blockchain-winkelmann-interview)
  - [YouTube announces 135 creators in its 2022 Black Voices Fund](https://www.theverge.com/2022/1/27/22903385/youtube-black-voices-fund-2022-grantees)
- - [This could be our first look at Lenovo’s new Legion gaming phone](https://www.androidauthority.com/lenovo-legion-phone-3-3097526/)
- - [Adobe-led tech coalition finalizes standard for digital content provenance, identifying the source and edits of photos and videos, to help catch deepfakes &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220127/p7#a220127p7)<!-- TECH:END -->
+ - [TikTok says it wants to educate users about the Holocaust and antisemitism     - CNET](https://www.cnet.com/tech/mobile/tiktok-wants-to-educate-users-about-the-holocaust-and-antisemitism/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
