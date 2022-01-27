@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And she IS the coolest](http://9gag.com/gag/a41ReYZ)
- - 🚯 [You think dinner is for free?](http://9gag.com/gag/a51R80r)
- - 🚯 [When you agree to babysit your friends kids](http://9gag.com/gag/a31RVe1)<!-- MEMES:END -->
+ - 🚖 [And I thought I suck at geography](http://9gag.com/gag/aXrjDA6)
+ - 🚯 [Offended in 3..2..1](http://9gag.com/gag/aDDgpYd)
+ - 🚯 [Well done folks](http://9gag.com/gag/a41RDmp)<!-- MEMES:END -->
 
 --- 
 
