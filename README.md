@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Future Nvidia GPUs could be 20% better at Ray Tracing](https://www.pcgamer.com/future-nvidia-gpus-could-be-20-better-at-ray-tracing)
- - [Windows 11 update is bringing support for Android apps](https://www.pcgamer.com/windows-11-update-is-bringing-support-for-android-apps)
- - [New AMD Radeon RX 550s are selling for $155 USD in Japan](https://www.pcgamer.com/new-amd-radeon-rx-550s-are-selling-for-dollar155-usd-in-japan)<!-- GAME:END -->
+ - [G.Skill announces a low latency DDR5-6400 CL32 memory kit](https://www.pcgamer.com/gskill-announces-a-low-latency-ddr5-6400-cl32-memory-kit)
+ - [Intel made more money than ever last year](https://www.pcgamer.com/intel-made-more-money-than-ever-last-year)
+ - [Future Nvidia GPUs could be 20% better at Ray Tracing](https://www.pcgamer.com/future-nvidia-gpus-could-be-20-better-at-ray-tracing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
