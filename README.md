@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Subtle way to tell them to shower](http://9gag.com/gag/ajg5bmx)
- - 🚯 [Flippity floppity! Running away is not an option.](http://9gag.com/gag/aRr0YpQ)
- - 🚯 [Guy descends observation tube at McMurdo Antarctic research station to peer under the ice.](http://9gag.com/gag/a91R9xZ)<!-- MEMES:END -->
+ - 🚖 [Guy descends observation tube at McMurdo Antarctic research station to peer under the ice.](http://9gag.com/gag/a91R9xZ)
+ - 🚯 [The Potter Boy again](http://9gag.com/gag/ajg5bxR)
+ - 🚯 [How does she do it??](http://9gag.com/gag/a21Rnew)<!-- MEMES:END -->
 
 --- 
 
