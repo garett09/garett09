@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mod makes Kratos the God of dad jokes](https://www.pcgamer.com/mod-makes-kratos-the-god-of-dad-jokes)
- - [Apex Legends&#39; flying city is getting a violent relocation next season](https://www.pcgamer.com/apex-legends-flying-city-is-getting-a-violent-relocation-next-season)
- - [Mad Maggie brings down Olympus to kick off Apex Legends season 12](https://www.polygon.com/22904104/apex-legends-season-12-launch-trailer-mad-maggie-olympus)<!-- GAME:END -->
+ - [Guerrilla Games shows off PS4 Pro Horizon Forbidden West gameplay](https://www.polygon.com/22904506/horizon-forbidden-west-playstation-4-pro-gameplay-clips)
+ - [YouTuber Hit With Ungodly Number Of Anime Copyright Strikes Gets A Win For Everyone](https://kotaku.com/anime-youtube-toei-copyright-strike-fair-use-totally-no-1848432919)
+ - [What is micro stutter and how do I fix it?](https://www.pcgamer.com/what-is-microstutter-and-how-do-i-fix-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
