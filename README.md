@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian gitl cheering up her boyfriend who works in metro security](http://9gag.com/gag/aE8ge9O)
- - 🚯 [WTF?](http://9gag.com/gag/a11R4AD)
- - 🚯 [That&#39;s a lot of damage](http://9gag.com/gag/aqGg3pR)<!-- MEMES:END -->
+ - 🚖 [Nature is beautiful](http://9gag.com/gag/aqGgvrP)
+ - 🚯 [Dog smells durian fruit](http://9gag.com/gag/ay9oypq)
+ - 🚯 [Adrien Fourmaux crashing @2022 Monte Carlo](http://9gag.com/gag/aQX1Y0K)<!-- MEMES:END -->
 
 --- 
 
