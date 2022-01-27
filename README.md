@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fanhouse, an OnlyFans-like platform, introduces a 50% surcharge for iOS IAP&#39;s, after pushing back in 2021 on Apple&#39;s 30% commission on creator earnings &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220127/p4#a220127p4)
- - [DigitalOwl, which uses NLP tech to analyze medical records to let insurers combat fraud, underwrite health plans, and execute claims, raises a $20M Series A &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220127/p3#a220127p3)
- - [MIUI 13 global rollout confirmed: These phones will get the update soon](https://www.androidauthority.com/miui-13-global-rollout-3097500/)<!-- TECH:END -->
+ - [YouTube announces 135 creators in its 2022 Black Voices Fund](https://www.theverge.com/2022/1/27/22903385/youtube-black-voices-fund-2022-grantees)
+ - [This could be our first look at Lenovo’s new Legion gaming phone](https://www.androidauthority.com/lenovo-legion-phone-3-3097526/)
+ - [Adobe-led tech coalition finalizes standard for digital content provenance, identifying the source and edits of photos and videos, to help catch deepfakes &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220127/p7#a220127p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
