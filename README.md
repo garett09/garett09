@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cheetah, which offers a wholesale food marketplace, raises a $60M Series C, after shifting focus back to restaurants from a pivot to regular consumers in 2020 &lpar;Alex Barreira/Silicon Valley ...&rpar;](http://www.techmeme.com/220127/p48#a220127p48)
- - [OtterBox&#39;s colorful new MagSafe iPhone cases repurpose scrap plastic](https://appleinsider.com/articles/22/01/27/otterboxs-colorful-new-magsafe-iphone-cases-repurpose-scrap-plastic?utm_medium=rss)
- - [Center for Countering Digital Hate: Substack makes at least $2.5M/year via anti-vaccine posts; Substack defends hosting &quot;writers with whom we strongly disagree&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/220127/p47#a220127p47)<!-- TECH:END -->
+ - [Censys, an IoT search engine aimed at helping organizations find poorly protected assets, raises a $35M Series B; hires former OneLogin CEO to be its new CEO &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220128/p1#a220128p1)
+ - [Google to invest $700M in Bharti Airtel, India&#39;s second largest telecom operator, for a 1.28% stake; an additional $300M will go to multiyear agreements &lpar;P R Sanjai/Bloomberg&rpar;](http://www.techmeme.com/220127/p49#a220127p49)
+ - [Cheetah, which offers a wholesale food marketplace, raises a $60M Series C, after shifting focus back to restaurants from a pivot to regular consumers in 2020 &lpar;Alex Barreira/Silicon Valley ...&rpar;](http://www.techmeme.com/220127/p48#a220127p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
