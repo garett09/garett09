@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s what I call `Fun Size`!](http://9gag.com/gag/aegDGdp)
- - 🚯 [Just arranging the f15&#39;s for a photograph](http://9gag.com/gag/amgv8gv)
- - 🚯 [Helmet robber](http://9gag.com/gag/aKm7qn3)<!-- MEMES:END -->
+ - 🚖 [Who&#39;s your hardest boss](http://9gag.com/gag/adgVj2V)
+ - 🚯 [Gallic rooster](http://9gag.com/gag/amgv0ZV)
+ - 🚯 [It\u2019s not as long but it stays around](http://9gag.com/gag/aAGepd0)<!-- MEMES:END -->
 
 --- 
 
