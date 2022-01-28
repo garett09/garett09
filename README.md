@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My pronouns are f**k/you](http://9gag.com/gag/a61KrxA)
- - 🚯 [The ultimate hack to achieve piece](http://9gag.com/gag/aKmdbr3)
- - 🚯 [I live in a town in Germany. Nobody knows where it comes from, but randomly we\u2019ve got a kangaroo in our neighborhood. It did not escape from any nearby zoo or anything. It has to come from Austria](http://9gag.com/gag/aegDK4p)<!-- MEMES:END -->
+ - 🚖 [I live in a town in Germany. Nobody knows where it comes from, but randomly we\u2019ve got a kangaroo in our neighborhood. It did not escape from any nearby zoo or anything. It has to come from Austria](http://9gag.com/gag/aegDK4p)
+ - 🚯 [Hmmm](http://9gag.com/gag/aE8PvZ9)
+ - 🚯 [How motorcyclists think people react when they go by.](http://9gag.com/gag/a71WLXA)<!-- MEMES:END -->
 
 --- 
 
