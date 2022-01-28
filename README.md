@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam your own hams, LucasArts style in this fan-made Simpsons adventure game](https://www.pcgamer.com/steam-your-own-hams-lucasarts-style-in-this-fan-made-simpsons-adventure-game)
  - [Pokémon Legends: Arceus walkthrough and guides](https://www.polygon.com/guides/22894976/pokemon-legends-arceus-walkthrough-tips-pokedex-beginners-starter-faq-noble-boss)
- - [Pokémon Legends Arceus guide: Special evolution requirements](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22899194/special-evolution-methods-kleavor-basculegion-wyrdeer-ursaluna-sneasler-overquil)
- - [My, Link, How You&#39;ve Grown](https://kotaku.com/zelda-link-art-street-fighter-invincible-dan-eder-conce-1848429891)<!-- GAME:END -->
+ - [Pokémon Legends Arceus guide: Special evolution requirements](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22899194/special-evolution-methods-kleavor-basculegion-wyrdeer-ursaluna-sneasler-overquil)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
