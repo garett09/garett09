@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FAA says it has reached a deal with Verizon and AT&amp;T to let them expand their networks near airports while allowing aircraft to land safely &lpar;Niraj Chokshi/New York Times&rpar;](http://www.techmeme.com/220128/p22#a220128p22)
- - [OpenSea says over 80% of NFTs minted for free on its service are plagiarized works, fake collections, and spam, but reverses decision to limit free NFT creation &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/220128/p21#a220128p21)
- - [Morgan Stanley bumps Apple price target to $210 on record-breaking Q1 2022](https://appleinsider.com/articles/22/01/28/morgan-stanley-bumps-apple-price-target-to-210-on-record-breaking-q1-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Which analysts were right -- or wrong -- about Apple&#39;s holiday quarter earnings?](https://appleinsider.com/articles/22/01/28/which-analysts-were-right----or-wrong----about-apples-holiday-quarter-earnings?utm_medium=rss)
+ - [US lawmakers probe into crypto mining companies’ energy use](https://www.theverge.com/2022/1/28/22906334/us-lawmakers-letter-cryptocurrency-mining-bitcoin-energy)
+ - [Apple adds unlisted app distribution to the App Store, letting developers publish an app that can only be installed via a direct link and not found via search &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220128/p24#a220128p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
