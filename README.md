@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Censys, an IoT search engine aimed at helping organizations find poorly protected assets, raises a $35M Series B; hires former OneLogin CEO to be its new CEO &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220128/p1#a220128p1)
- - [Google to invest $700M in Bharti Airtel, India&#39;s second largest telecom operator, for a 1.28% stake; an additional $300M will go to multiyear agreements &lpar;P R Sanjai/Bloomberg&rpar;](http://www.techmeme.com/220127/p49#a220127p49)
- - [Cheetah, which offers a wholesale food marketplace, raises a $60M Series C, after shifting focus back to restaurants from a pivot to regular consumers in 2020 &lpar;Alex Barreira/Silicon Valley ...&rpar;](http://www.techmeme.com/220127/p48#a220127p48)<!-- TECH:END -->
+ - [Vesta, which provides mortgage loan origination software to automate and simplify the lending process, raises a $30M Series A led by a16z &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220128/p3#a220128p3)
+ - [Alphabet&#39;s Google Cloud division has formed a group to build business around blockchain applications and plans to hire a slew of blockchain experts &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220128/p2#a220128p2)
+ - [Censys, an IoT search engine aimed at helping organizations find poorly protected assets, raises a $35M Series B; hires former OneLogin CEO to be its new CEO &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220128/p1#a220128p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
