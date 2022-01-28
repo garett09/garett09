@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech’s latest mechanical keyboards are affordable and understated](https://www.theverge.com/2022/1/28/22906058/logitech-g413-se-tkl-wired-mechanical-keyboards)
  - [Apple&#39;s Services add 165 million subscribers in last 12 months](https://appleinsider.com/articles/22/01/27/apples-services-add-165-million-subscribers-in-last-12-months?utm_medium=rss)
- - [OnePlus stopped chasing enthusiasts, and it seems to be paying off](https://www.androidauthority.com/q4-2021-usa-3098184/)
- - [Google leaks Pixel 6A name in, of all things, a coloring book](https://www.theverge.com/2022/1/28/22906019/pixel-6a-coloring-book-leak)<!-- TECH:END -->
+ - [2022 GMC Sierra 2500: Brash and blocky     - Roadshow](https://www.cnet.com/roadshow/pictures/2022-gmc-sierra-2500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
