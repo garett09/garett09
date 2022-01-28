@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just found out this](http://9gag.com/gag/aGzdVMZ)
- - 🚯 [It&#39;s the original party worm!](http://9gag.com/gag/adgV672)
- - 🚯 [They robbed jewelry store in Debrecen, Hungary](http://9gag.com/gag/ajg9rOg)<!-- MEMES:END -->
+ - 🚖 [Ooooh boy sure sounds like a nice plumbus](http://9gag.com/gag/aegD3wp)
+ - 🚯 [I just found out this](http://9gag.com/gag/aGzdVMZ)
+ - 🚯 [Chipotle now serving knuckle sandwiches to rude customers.](http://9gag.com/gag/a81GbMp)<!-- MEMES:END -->
 
 --- 
 
