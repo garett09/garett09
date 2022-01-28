@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three things Web3 should fix in 2022: make crypto transactions safe and reliable, make blockchains efficient, develop tech for mitigating harassment and abuse &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220128/p6#a220128p6)
- - [Ascend, which automates insurance payments and offers a buy now, pay later service, raises a $30M Series A led by Index Ventures and $250M in debt &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220128/p5#a220128p5)
- - [We asked, you told us: Plenty of you haven’t used Nearby Share before](https://www.androidauthority.com/nearby-share-poll-results-3097502/)<!-- TECH:END -->
+ - [TCL 30V launches in US: One of the cheapest mmWave phones](https://www.androidauthority.com/tcl-30-v-5g-3098149/)
+ - [Porsche is going back to Le Mans with a twin-turbo V8 hybrid prototype     - Roadshow](https://www.cnet.com/roadshow/pictures/porsche-lmdh-race-car/#ftag=CAD590a51e)
+ - [Three things Web3 should fix in 2022: make crypto transactions safe and reliable, make blockchains efficient, develop tech for mitigating harassment and abuse &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220128/p6#a220128p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
