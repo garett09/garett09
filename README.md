@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple removes Python 2.7 from macOS 12.3, asks developers to use alternative languages like Python 3; Python 2 has not been supported since January 1, 2020 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220128/p19#a220128p19)
- - [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer)
- - [33% off the Fitbit Charge 5, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
+ - [The FAA says it has reached a deal with Verizon and AT&amp;T to let them expand their networks near airports while allowing aircraft to land safely &lpar;Niraj Chokshi/New York Times&rpar;](http://www.techmeme.com/220128/p22#a220128p22)
+ - [OpenSea says over 80% of NFTs minted for free on its service are plagiarized works, fake collections, and spam, but reverses decision to limit free NFT creation &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/220128/p21#a220128p21)
+ - [Morgan Stanley bumps Apple price target to $210 on record-breaking Q1 2022](https://appleinsider.com/articles/22/01/28/morgan-stanley-bumps-apple-price-target-to-210-on-record-breaking-q1-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
