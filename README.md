@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks Rups..., but no thanks...](http://9gag.com/gag/azem7DB)
- - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)
- - 🚯 [Battlefield](http://9gag.com/gag/aM4xeOV)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the original party worm!](http://9gag.com/gag/adgV672)
+ - 🚯 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)
+ - 🚯 [How motorcyclists think people react when they go by.](http://9gag.com/gag/a71WLXA)<!-- MEMES:END -->
 
 --- 
 
