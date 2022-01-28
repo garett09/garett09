@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Scrum for the First Time on Xbox Series X|S in Rugby 22](https://news.xbox.com/en-us/2022/01/28/join-the-scrum-in-rugby-22/)
- - [Amazon’s horror movie Master pairs a smart racial-politics story with relentless scares](https://www.polygon.com/reviews/22906214/master-review-amazon-prime-video-regina-hall)
- - [The best builds for Ganyu in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-ganyu-build-best)<!-- GAME:END -->
+ - [NBA 2K22: How to Up Your Game with VC](https://news.xbox.com/en-us/2022/01/28/nba-2k22-how-to-up-your-game-with-vc/)
+ - [A Gummy’s Life Brings the Sweetest Online Multiplayer Update to Xbox](https://news.xbox.com/en-us/2022/01/28/a-gummys-life-brings-the-sweetest-online-multiplayer-update-to-xbox/)
+ - [Six Months At Kotaku: The Renata Price Review](https://kotaku.com/six-months-at-kotaku-the-renata-price-review-1848441934)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
