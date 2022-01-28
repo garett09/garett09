@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC: US consumers lost $770M to social media scams in 2021, about 25% of all fraud losses for the year and up 18x from the $42M in losses reported in 2017 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220127/p45#a220127p45)
- - [Mandatory Olympics iOS and Android apps are spying on athletes for China](https://appleinsider.com/articles/22/01/28/mandatory-olympics-ios-and-android-apps-are-spying-on-athletes-for-china?utm_medium=rss)
- - [Apple had 785M paying subs globally across all services in Q1, up 27% YoY; Cook says Apple doesn&#39;t make &quot;purely financial decisions&quot; about Apple TV+ content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220127/p44#a220127p44)<!-- TECH:END -->
+ - [Power tool companies have discovered USB-C — and DeWalt’s two-way charger sounds awesome](https://www.theverge.com/2022/1/27/22905482/dewalt-ryobi-milwaukee-usb-c-power-tool-batteries)
+ - [Life360 to stop selling precise location data of users](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users?utm_medium=rss)
+ - [Samsung led smartphone shipments for 2021, beating out Apple, research says     - CNET](https://www.cnet.com/tech/mobile/samsung-led-smartphone-shipments-for-2021-beating-out-apple-research-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
