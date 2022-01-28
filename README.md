@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He never did.](http://9gag.com/gag/arnV487)
- - 🚯 [Apparently I been parallel parking wrong my whoole life](http://9gag.com/gag/a51WPBN)
- - 🚯 [Have you ever been this bored?](http://9gag.com/gag/a71Wy82)<!-- MEMES:END -->
+ - 🚖 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)
+ - 🚯 [Have you ever been this bored?](http://9gag.com/gag/a71Wy82)
+ - 🚯 [It\u2019s not as long but it stays around](http://9gag.com/gag/aAGepd0)<!-- MEMES:END -->
 
 --- 
 
