@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Mystery](https://blog.playstation.com/2022/01/28/share-of-the-week-mystery/)
- - [Share of the Week: Mystery](https://blog.playstation.com/2022/01/28/share-of-the-week-mystery/)
- - [Xbox Game Club – 2021 in Review](https://news.xbox.com/en-us/2022/01/28/xbox-game-club-2021-in-review/)<!-- GAME:END -->
+ - [Join the Scrum for the First Time on Xbox Series X|S in Rugby 22](https://news.xbox.com/en-us/2022/01/28/join-the-scrum-in-rugby-22/)
+ - [Amazon’s horror movie Master pairs a smart racial-politics story with relentless scares](https://www.polygon.com/reviews/22906214/master-review-amazon-prime-video-regina-hall)
+ - [The best builds for Ganyu in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-ganyu-build-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
