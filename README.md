@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Its worse is europe apparently.](http://9gag.com/gag/aogPjq0)
- - 🚯 [They never do...](http://9gag.com/gag/avAzL1M)
- - 🚯 [We sure do](http://9gag.com/gag/a91nP6m)<!-- MEMES:END -->
+ - 🚯 [We sure do](http://9gag.com/gag/a91nP6m)
+ - 🚯 [If you were there 3000 years ago, you know this sound](http://9gag.com/gag/aYryeYO)<!-- MEMES:END -->
 
 --- 
 
