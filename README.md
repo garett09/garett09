@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)
- - 🚯 [Some teachers enjoy failing students](http://9gag.com/gag/aXrgbx9)
- - 🚯 [Dragon](http://9gag.com/gag/a51WNZo)<!-- MEMES:END -->
+ - 🚖 [I just found out this](http://9gag.com/gag/aGzdVMZ)
+ - 🚯 [It&#39;s the original party worm!](http://9gag.com/gag/adgV672)
+ - 🚯 [They robbed jewelry store in Debrecen, Hungary](http://9gag.com/gag/ajg9rOg)<!-- MEMES:END -->
 
 --- 
 
