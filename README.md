@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus players already perfecting the art of shiny hunting](https://www.polygon.com/pokemon/22906298/pokemon-legends-arceus-shiny-hunting-mass-outbreak)
- - [Don’t Be Afraid Is Now Available on Xbox One](https://news.xbox.com/en-us/2022/01/28/dont-be-afraid-is-now-available-on-xbox-one/)
- - [The Surprisingly Messy Culture Wars Within The New York Times Crossword Puzzle](https://kotaku.com/new-york-times-crossword-puzzle-making-history-will-sho-1848440135)<!-- GAME:END -->
+ - [Share of the Week: Mystery](https://blog.playstation.com/2022/01/28/share-of-the-week-mystery/)
+ - [Share of the Week: Mystery](https://blog.playstation.com/2022/01/28/share-of-the-week-mystery/)
+ - [Xbox Game Club – 2021 in Review](https://news.xbox.com/en-us/2022/01/28/xbox-game-club-2021-in-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
