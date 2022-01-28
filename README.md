@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Tragedy of Macbeth&#39; is a horror story, says filmmaker Joel Coen](https://appleinsider.com/articles/22/01/28/the-tragedy-of-macbeth-is-a-horror-story-says-filmmaker-joel-coen?utm_medium=rss)
- - [Hackers have stolen $80 million in cryptocurrency from the Qubit DeFi platform](https://www.theverge.com/2022/1/28/22906366/cryptocurrency-hackers-steal-qubit-binance-ethereum)
- - [How the FAA went to war against 5G     - CNET](https://www.cnet.com/tech/mobile/how-the-faa-went-to-war-against-5g/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple removes Python 2.7 from macOS 12.3, asks developers to use alternative languages like Python 3; Python 2 has not been supported since January 1, 2020 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220128/p19#a220128p19)
+ - [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer)
+ - [33% off the Fitbit Charge 5, and more top fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
