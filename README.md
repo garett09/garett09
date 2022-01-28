@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes\u2026](http://9gag.com/gag/arnV41V)
- - 🚯 [Even &lpar;surface pressure&rpar; song is better than &lpar;we don&#39;t talk about bruno&rpar;](http://9gag.com/gag/a0ZNPGZ)
- - 🚯 [A guy in overalls and his gf](http://9gag.com/gag/aKm7gE1)<!-- MEMES:END -->
+ - 🚖 [Apparently I been parallel parking wrong my whoole life](http://9gag.com/gag/a51WPBN)
+ - 🚯 [He understood the assignment](http://9gag.com/gag/aE8PGZx)
+ - 🚯 [Javelin thrower training](http://9gag.com/gag/amgvLbv)<!-- MEMES:END -->
 
 --- 
 
