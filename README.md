@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL 30V launches in US: One of the cheapest mmWave phones](https://www.androidauthority.com/tcl-30-v-5g-3098149/)
- - [Porsche is going back to Le Mans with a twin-turbo V8 hybrid prototype     - Roadshow](https://www.cnet.com/roadshow/pictures/porsche-lmdh-race-car/#ftag=CAD590a51e)
- - [Three things Web3 should fix in 2022: make crypto transactions safe and reliable, make blockchains efficient, develop tech for mitigating harassment and abuse &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220128/p6#a220128p6)<!-- TECH:END -->
+ - [Apple&#39;s Services add 165 million subscribers in last 12 months](https://appleinsider.com/articles/22/01/27/apples-services-add-165-million-subscribers-in-last-12-months?utm_medium=rss)
+ - [OnePlus stopped chasing enthusiasts, and it seems to be paying off](https://www.androidauthority.com/q4-2021-usa-3098184/)
+ - [Google leaks Pixel 6A name in, of all things, a coloring book](https://www.theverge.com/2022/1/28/22906019/pixel-6a-coloring-book-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
