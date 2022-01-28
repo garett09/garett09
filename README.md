@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the original party worm!](http://9gag.com/gag/adgV672)
- - 🚯 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)
- - 🚯 [How motorcyclists think people react when they go by.](http://9gag.com/gag/a71WLXA)<!-- MEMES:END -->
+ - 🚖 [Video I\u2019ll never delete #1](http://9gag.com/gag/a91nM7m)
+ - 🚯 [Dragon](http://9gag.com/gag/a51WNZo)
+ - 🚯 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)<!-- MEMES:END -->
 
 --- 
 
