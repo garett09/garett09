@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra rolls out multipoint Bluetooth support for Elite 7 Pro and Active earbuds](https://www.theverge.com/2022/1/28/22906964/jabra-elite-7-pro-active-multipoint-available)
- - [Interview with two Ubisoft executives, who say NFTs are a paradigm shift in gaming and gamers &quot;don&#39;t get what a digital secondary market can bring to them&quot; &lpar;Chris Stead/Finder&rpar;](http://www.techmeme.com/220128/p27#a220128p27)
- - [Best over-ear headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokémon’s next Daniel Arsham art collaboration reaches across time and space](https://www.theverge.com/2022/1/28/22906873/pokemon-daniel-arsham-a-ripple-in-time)
+ - [FAA announces agreement with AT&amp;T, Verizon on 5G expansion](https://appleinsider.com/articles/22/01/28/faa-announces-agreement-with-att-verizon-on-5g-expansion?utm_medium=rss)
+ - [An old SpaceX Falcon 9 rocket is about to crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-is-about-to-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
