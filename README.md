@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Traveled To Facebook&#39;s Soulless &lpar;But Popular&rpar; Metaverse So You Don&#39;t Have To](https://kotaku.com/facebook-metaverse-horizon-worlds-vr-oculus-quest-2-cha-1848436740)
- - [Riot Forced To Explain A Valorant Character Is Not Into NFTs](https://kotaku.com/valorant-killjoy-nft-nfts-crypto-blockchain-riot-games-1848436442)
- - [Why everyone is playing Yu-Gi-Oh! out of nowhere](https://www.polygon.com/22904969/yu-gi-oh-master-duel-free-to-play-steam-switch-playstation-xbox)<!-- GAME:END -->
+ - [This Dark Souls mod puts everything into a blender and it works](https://www.pcgamer.com/this-dark-souls-mod-puts-everything-into-a-blender-and-it-works)
+ - [How to get Green Goblin in Fortnite](https://www.pcgamer.com/green-goblin-fortnite)
+ - [Holocaust education program examines the portrayal of Jews and the Holocaust in videogames](https://www.pcgamer.com/holocaust-education-program-examines-the-portrayal-of-jews-and-the-holocaust-in-videogames)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
