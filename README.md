@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Face ID works while wearing a mask in the iOS 15.4 beta](https://appleinsider.com/articles/22/01/27/face-id-works-while-wearing-a-mask-in-the-ios-154-beta?utm_medium=rss)
- - [London-based instant grocery delivery startup Zapp raises a $200M Series B, bringing its total funding to $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220128/p11#a220128p11)
- - [The Physics of the N95 Face Mask](https://www.wired.com/story/the-physics-of-the-n95-face-mask)<!-- TECH:END -->
+ - [The 9 Best TVs We&#39;ve Tested &lpar;and Helpful Buying Tips&rpar;](https://www.wired.com/gallery/best-tvs)
+ - [What Should Be Considered a Crime in the Metaverse?](https://www.wired.com/story/crime-metaverse-virtual-reality)
+ - [We Met in Virtual Reality Is the Best Film From the Metaverse](https://www.wired.com/story/we-met-in-virtual-reality-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
