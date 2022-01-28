@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sand Meets Snow in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/01/28/sand-meets-snow-in-phantasy-star-online-2-new-genesis/)
- - [Check out the behind-the-scenes choreography of We Don’t Talk About Bruno](https://www.polygon.com/22906694/we-dont-talk-about-bruno-choreography-encanto)
- - [Five Nights at Freddy’s is behind your favorite TikTok trend](https://www.polygon.com/22905391/five-nights-at-freddys-tiktok-sound-vanessa-material-gworl)<!-- GAME:END -->
+ - [Two Point Campus Coming to Xbox Game Pass on Day One, Available for Pre-Order Today](https://news.xbox.com/en-us/2022/01/28/two-point-campus-coming-to-xbox-game-pass-on-day-one/)
+ - [Elden Ring has multiple poison swamps because &#39;I can&#39;t help myself,&#39; Miyazaki says](https://www.pcgamer.com/elden-ring-has-multiple-poison-swamps-because-i-cant-help-myself-miyazaki-says)
+ - [Official PlayStation Podcast Episode 421: Pick a Card](https://blog.playstation.com/2022/01/28/playstation-podcast-421-pick-a-card/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
