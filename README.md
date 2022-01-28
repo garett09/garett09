@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s latest mechanical keyboards are affordable and understated](https://www.theverge.com/2022/1/28/22906058/logitech-g413-se-tkl-wired-mechanical-keyboards)
- - [Apple&#39;s Services add 165 million subscribers in last 12 months](https://appleinsider.com/articles/22/01/27/apples-services-add-165-million-subscribers-in-last-12-months?utm_medium=rss)
- - [2022 GMC Sierra 2500: Brash and blocky     - Roadshow](https://www.cnet.com/roadshow/pictures/2022-gmc-sierra-2500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indian industrial B2B marketplace Moglix raises a $250M Series F at a $2.6B valuation, bringing its total funding to ~$470M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220128/p8#a220128p8)
+ - [FBI considered using Pegasus spyware for US domestic surveillance](https://appleinsider.com/articles/22/01/28/fbi-considered-using-pegasus-spyware-for-us-domestic-surveillance?utm_medium=rss)
+ - [Politicians Say It’s Time to Live With Covid. Are You Ready?](https://www.wired.com/story/living-with-covid-new-normal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
