@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which analysts were right -- or wrong -- about Apple&#39;s holiday quarter earnings?](https://appleinsider.com/articles/22/01/28/which-analysts-were-right----or-wrong----about-apples-holiday-quarter-earnings?utm_medium=rss)
- - [US lawmakers probe into crypto mining companies’ energy use](https://www.theverge.com/2022/1/28/22906334/us-lawmakers-letter-cryptocurrency-mining-bitcoin-energy)
- - [Apple adds unlisted app distribution to the App Store, letting developers publish an app that can only be installed via a direct link and not found via search &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220128/p24#a220128p24)<!-- TECH:END -->
+ - [How to install the iOS 15.4 public beta](https://www.theverge.com/22906798/ios-iphone-15-4-face-id-mask-test-beta)
+ - [France&#39;s top administrative court sides with privacy watchdog against Google, in an appeal over a &amp;euro;100M fine for placing cookies before getting user&#39;s consent &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/220128/p25#a220128p25)
+ - [The best new movies to stream this week on Hulu, Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
