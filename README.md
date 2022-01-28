@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)
- - 🚯 [Have you ever been this bored?](http://9gag.com/gag/a71Wy82)
- - 🚯 [It\u2019s not as long but it stays around](http://9gag.com/gag/aAGepd0)<!-- MEMES:END -->
+ - 🚖 [Because every life is precious!](http://9gag.com/gag/adgVp5Q)
+ - 🚯 [Milla Jovovich and her daughter, Evan](http://9gag.com/gag/aGzdwwZ)
+ - 🚯 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)<!-- MEMES:END -->
 
 --- 
 
