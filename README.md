@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NBA 2K22: How to Up Your Game with VC](https://news.xbox.com/en-us/2022/01/28/nba-2k22-how-to-up-your-game-with-vc/)
- - [A Gummy’s Life Brings the Sweetest Online Multiplayer Update to Xbox](https://news.xbox.com/en-us/2022/01/28/a-gummys-life-brings-the-sweetest-online-multiplayer-update-to-xbox/)
- - [Six Months At Kotaku: The Renata Price Review](https://kotaku.com/six-months-at-kotaku-the-renata-price-review-1848441934)<!-- GAME:END -->
+ - [League of Legends’ next champion would like to sell you some lovely perfume](https://www.polygon.com/22906840/league-of-legends-new-champion-teaser-renata-glasc-zaun-shimmer-support)
+ - [THQ Nordic and Handy Games Publisher Sale is Packed with Deals](https://news.xbox.com/en-us/2022/01/28/thq-nordic-and-handy-games-publisher-sale-is-packed-with-deals/)
+ - [Elden Ring Director On Game&#39;s Difficulty: &#39;More Players Will Finish It&#39;](https://kotaku.com/elden-rings-difficulty-dark-souls-hidetaka-miyazaki-1848442415)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
