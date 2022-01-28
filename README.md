@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Acting like a tough guy with a gun](http://9gag.com/gag/axB9jx2)
- - 🚯 [Mah hart mah sole](http://9gag.com/gag/a21WmYp)
- - 🚯 [Happens all the time...](http://9gag.com/gag/aRr7eAA)<!-- MEMES:END -->
+ - 🚖 [That&#39;s what I call `Fun Size`!](http://9gag.com/gag/aegDGdp)
+ - 🚯 [Fitness level: infinity](http://9gag.com/gag/aegD6zp)
+ - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/axB9DmL)<!-- MEMES:END -->
 
 --- 
 
