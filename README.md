@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)
- - 🚯 [We sure do](http://9gag.com/gag/a91nP6m)
- - 🚯 [She played the gold plated uno reverse card against&#39;em](http://9gag.com/gag/ang4KBE)<!-- MEMES:END -->
+ - 🚖 [Its worse is europe apparently.](http://9gag.com/gag/aogPjq0)
+ - 🚯 [They never do...](http://9gag.com/gag/avAzL1M)
+ - 🚯 [We sure do](http://9gag.com/gag/a91nP6m)<!-- MEMES:END -->
 
 --- 
 
