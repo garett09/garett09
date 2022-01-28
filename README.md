@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple had 785M paying subs globally across all services in Q1, up 27% YoY; Cook says Apple doesn&#39;t make &quot;purely financial decisions&quot; about Apple TV+ content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220127/p44#a220127p44)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Life360 says it will stop selling users&#39; precise location data, after a report alleged it is one of the top sources for the location data broker industry &lpar;The Markup&rpar;](http://www.techmeme.com/220127/p43#a220127p43)<!-- TECH:END -->
+ - [FTC: US consumers lost $770M to social media scams in 2021, about 25% of all fraud losses for the year and up 18x from the $42M in losses reported in 2017 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220127/p45#a220127p45)
+ - [Mandatory Olympics iOS and Android apps are spying on athletes for China](https://appleinsider.com/articles/22/01/28/mandatory-olympics-ios-and-android-apps-are-spying-on-athletes-for-china?utm_medium=rss)
+ - [Apple had 785M paying subs globally across all services in Q1, up 27% YoY; Cook says Apple doesn&#39;t make &quot;purely financial decisions&quot; about Apple TV+ content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220127/p44#a220127p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
