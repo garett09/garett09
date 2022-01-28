@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install the iOS 15.4 public beta](https://www.theverge.com/22906798/ios-iphone-15-4-face-id-mask-test-beta)
- - [France&#39;s top administrative court sides with privacy watchdog against Google, in an appeal over a &amp;euro;100M fine for placing cookies before getting user&#39;s consent &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/220128/p25#a220128p25)
- - [The best new movies to stream this week on Hulu, Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Jabra rolls out multipoint Bluetooth support for Elite 7 Pro and Active earbuds](https://www.theverge.com/2022/1/28/22906964/jabra-elite-7-pro-active-multipoint-available)
+ - [Interview with two Ubisoft executives, who say NFTs are a paradigm shift in gaming and gamers &quot;don&#39;t get what a digital secondary market can bring to them&quot; &lpar;Chris Stead/Finder&rpar;](http://www.techmeme.com/220128/p27#a220128p27)
+ - [Best over-ear headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
