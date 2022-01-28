@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Video I\u2019ll never delete #1](http://9gag.com/gag/a91nM7m)
- - 🚯 [Dragon](http://9gag.com/gag/a51WNZo)
- - 🚯 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)<!-- MEMES:END -->
+ - 🚖 [It&#39;s not fair](http://9gag.com/gag/aegDNx5)
+ - 🚯 [Some teachers enjoy failing students](http://9gag.com/gag/aXrgbx9)
+ - 🚯 [Dragon](http://9gag.com/gag/a51WNZo)<!-- MEMES:END -->
 
 --- 
 
