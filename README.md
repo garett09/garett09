@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because every life is precious!](http://9gag.com/gag/adgVp5Q)
- - 🚯 [Milla Jovovich and her daughter, Evan](http://9gag.com/gag/aGzdwwZ)
- - 🚯 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)<!-- MEMES:END -->
+ - 🚖 [\ud80c\udcba\ud80c\udcba\ud80c\udcba](http://9gag.com/gag/aBnm3pz)
+ - 🚯 [We sure do](http://9gag.com/gag/a91nP6m)
+ - 🚯 [She played the gold plated uno reverse card against&#39;em](http://9gag.com/gag/ang4KBE)<!-- MEMES:END -->
 
 --- 
 
