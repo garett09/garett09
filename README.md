@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They robbed jewelry store in Debrecen, Hungary](http://9gag.com/gag/ajg9rOg)
- - 🚯 [Love this movie](http://9gag.com/gag/ay9eEyW)
- - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)<!-- MEMES:END -->
+ - 🚖 [Love this movie](http://9gag.com/gag/ay9eEyW)
+ - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)
+ - 🚯 [Thanks Rups..., but no thanks...](http://9gag.com/gag/azem7DB)<!-- MEMES:END -->
 
 --- 
 
