@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ooooh boy sure sounds like a nice plumbus](http://9gag.com/gag/aegD3wp)
- - 🚯 [I just found out this](http://9gag.com/gag/aGzdVMZ)
- - 🚯 [Chipotle now serving knuckle sandwiches to rude customers.](http://9gag.com/gag/a81GbMp)<!-- MEMES:END -->
+ - 🚖 [I just found out this](http://9gag.com/gag/aGzdVMZ)
+ - 🚯 [Ah yes\u2026](http://9gag.com/gag/arnV41V)
+ - 🚯 [Even &lpar;surface pressure&rpar; song is better than &lpar;we don&#39;t talk about bruno&rpar;](http://9gag.com/gag/a0ZNPGZ)<!-- MEMES:END -->
 
 --- 
 
