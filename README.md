@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: White House is readying an executive action to task federal agencies with regulating Bitcoin and other cryptocurrencies as a matter of national security &lpar;Daren Fonda/Barron&#39;s Online&rpar;](http://www.techmeme.com/220127/p46#a220127p46)
  - [Power tool companies have discovered USB-C — and DeWalt’s two-way charger sounds awesome](https://www.theverge.com/2022/1/27/22905482/dewalt-ryobi-milwaukee-usb-c-power-tool-batteries)
- - [Life360 to stop selling precise location data of users](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users?utm_medium=rss)
- - [Samsung led smartphone shipments for 2021, beating out Apple, research says     - CNET](https://www.cnet.com/tech/mobile/samsung-led-smartphone-shipments-for-2021-beating-out-apple-research-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Life360 to stop selling precise location data of users](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
