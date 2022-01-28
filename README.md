@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft Executive Says Users &#39;Don&#39;t Get It&#39; In Extraordinary NFT Interview](https://kotaku.com/ubisoft-nft-quartz-digits-ghost-recon-assassins-creed-p-1848437476)
  - [This Dark Souls mod puts everything into a blender and it works](https://www.pcgamer.com/this-dark-souls-mod-puts-everything-into-a-blender-and-it-works)
- - [How to get Green Goblin in Fortnite](https://www.pcgamer.com/green-goblin-fortnite)
- - [Holocaust education program examines the portrayal of Jews and the Holocaust in videogames](https://www.pcgamer.com/holocaust-education-program-examines-the-portrayal-of-jews-and-the-holocaust-in-videogames)<!-- GAME:END -->
+ - [How to get Green Goblin in Fortnite](https://www.pcgamer.com/green-goblin-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
