@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vesta, which provides mortgage loan origination software to automate and simplify the lending process, raises a $30M Series A led by a16z &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220128/p3#a220128p3)
- - [Alphabet&#39;s Google Cloud division has formed a group to build business around blockchain applications and plans to hire a slew of blockchain experts &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220128/p2#a220128p2)
- - [Censys, an IoT search engine aimed at helping organizations find poorly protected assets, raises a $35M Series B; hires former OneLogin CEO to be its new CEO &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220128/p1#a220128p1)<!-- TECH:END -->
+ - [We asked, you told us: Plenty of you haven’t used Nearby Share before](https://www.androidauthority.com/nearby-share-poll-results-3097502/)
+ - [Microsoft and 35 US states led by Utah support Epic Games against Apple through amicus curiae briefs filed with the Ninth Circuit appeals court &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/220128/p4#a220128p4)
+ - [Vesta, which provides mortgage loan origination software to automate and simplify the lending process, raises a $30M Series A led by a16z &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220128/p3#a220128p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
