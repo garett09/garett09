@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#39;s your hardest boss](http://9gag.com/gag/adgVj2V)
- - 🚯 [Gallic rooster](http://9gag.com/gag/amgv0ZV)
- - 🚯 [It\u2019s not as long but it stays around](http://9gag.com/gag/aAGepd0)<!-- MEMES:END -->
+ - 🚖 [Acting like a tough guy with a gun](http://9gag.com/gag/axB9jx2)
+ - 🚯 [Mah hart mah sole](http://9gag.com/gag/a21WmYp)
+ - 🚯 [Happens all the time...](http://9gag.com/gag/aRr7eAA)<!-- MEMES:END -->
 
 --- 
 
