@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apparently I been parallel parking wrong my whoole life](http://9gag.com/gag/a51WPBN)
- - 🚯 [He understood the assignment](http://9gag.com/gag/aE8PGZx)
- - 🚯 [Javelin thrower training](http://9gag.com/gag/amgvLbv)<!-- MEMES:END -->
+ - 🚖 [He never did.](http://9gag.com/gag/arnV487)
+ - 🚯 [Apparently I been parallel parking wrong my whoole life](http://9gag.com/gag/a51WPBN)
+ - 🚯 [Have you ever been this bored?](http://9gag.com/gag/a71Wy82)<!-- MEMES:END -->
 
 --- 
 
