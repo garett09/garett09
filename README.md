@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CausaLens, which is developing a no-code tool for data scientists to introduce causal inference into AI models, raises $45M, sources say at a ~$250M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220128/p16#a220128p16)
- - [Cowen raises Apple price target to $200 after blockbuster earnings results](https://appleinsider.com/articles/22/01/28/cowen-raises-apple-price-target-to-200-after-blockbuster-earnings-results?utm_medium=rss)
- - [Microsoft mitigated a 3.47 Tbps DDoS attack on an Azure customer in Asia in Nov. 2021; DDoS attacks in India rose from 2% of all attacks in H1 2021 to 23% in H2 &lpar;Microsoft Azure Blog&rpar;](http://www.techmeme.com/220128/p15#a220128p15)<!-- TECH:END -->
+ - [&#39;The Tragedy of Macbeth&#39; is a horror story, says filmmaker Joel Coen](https://appleinsider.com/articles/22/01/28/the-tragedy-of-macbeth-is-a-horror-story-says-filmmaker-joel-coen?utm_medium=rss)
+ - [Hackers have stolen $80 million in cryptocurrency from the Qubit DeFi platform](https://www.theverge.com/2022/1/28/22906366/cryptocurrency-hackers-steal-qubit-binance-ethereum)
+ - [How the FAA went to war against 5G     - CNET](https://www.cnet.com/tech/mobile/how-the-faa-went-to-war-against-5g/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
