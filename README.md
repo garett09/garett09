@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [My, Link, How You&#39;ve Grown](https://kotaku.com/zelda-link-art-street-fighter-invincible-dan-eder-conce-1848429891)
  - [Two Point Campus pencils in May launch](https://www.pcgamer.com/two-point-campus-pencils-in-may-launch)
- - [Ubisoft Executive Says Users &#39;Don&#39;t Get It&#39; In Extraordinary NFT Interview](https://kotaku.com/ubisoft-nft-quartz-digits-ghost-recon-assassins-creed-p-1848437476)
- - [This Dark Souls mod puts everything into a blender and it works](https://www.pcgamer.com/this-dark-souls-mod-puts-everything-into-a-blender-and-it-works)<!-- GAME:END -->
+ - [Ubisoft Executive Says Users &#39;Don&#39;t Get It&#39; In Extraordinary NFT Interview](https://kotaku.com/ubisoft-nft-quartz-digits-ghost-recon-assassins-creed-p-1848437476)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
