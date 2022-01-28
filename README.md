@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My, Link, How You&#39;ve Grown](https://kotaku.com/zelda-link-art-street-fighter-invincible-dan-eder-conce-1848429891)
- - [Two Point Campus pencils in May launch](https://www.pcgamer.com/two-point-campus-pencils-in-may-launch)
- - [Ubisoft Executive Says Users &#39;Don&#39;t Get It&#39; In Extraordinary NFT Interview](https://kotaku.com/ubisoft-nft-quartz-digits-ghost-recon-assassins-creed-p-1848437476)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus walkthrough and guides](https://www.polygon.com/guides/22894976/pokemon-legends-arceus-walkthrough-tips-pokedex-beginners-starter-faq-noble-boss)
+ - [Pokémon Legends Arceus guide: Special evolution requirements](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22899194/special-evolution-methods-kleavor-basculegion-wyrdeer-ursaluna-sneasler-overquil)
+ - [My, Link, How You&#39;ve Grown](https://kotaku.com/zelda-link-art-street-fighter-invincible-dan-eder-conce-1848429891)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
