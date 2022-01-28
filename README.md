@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon’s next Daniel Arsham art collaboration reaches across time and space](https://www.theverge.com/2022/1/28/22906873/pokemon-daniel-arsham-a-ripple-in-time)
- - [FAA announces agreement with AT&amp;T, Verizon on 5G expansion](https://appleinsider.com/articles/22/01/28/faa-announces-agreement-with-att-verizon-on-5g-expansion?utm_medium=rss)
- - [An old SpaceX Falcon 9 rocket is about to crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-is-about-to-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK approves the extradition of Mike Lynch to the US to face criminal fraud charges, hours after he lost a court battle with HP; Lynch can appeal &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/220128/p29#a220128p29)
+ - [Here is the Spotify COVID content policy that lets Joe Rogan slide](https://www.theverge.com/2022/1/28/22907069/spotify-joe-rogan-neil-young-covid-19-moderation-policies)
+ - [Jason Momoa cast in next Fast and Furious movie     - CNET](https://www.cnet.com/news/jason-momoa-cast-in-next-fast-and-furious-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
