@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just found out this](http://9gag.com/gag/aGzdVMZ)
- - 🚯 [Ah yes\u2026](http://9gag.com/gag/arnV41V)
- - 🚯 [Even &lpar;surface pressure&rpar; song is better than &lpar;we don&#39;t talk about bruno&rpar;](http://9gag.com/gag/a0ZNPGZ)<!-- MEMES:END -->
+ - 🚖 [Ah yes\u2026](http://9gag.com/gag/arnV41V)
+ - 🚯 [Even &lpar;surface pressure&rpar; song is better than &lpar;we don&#39;t talk about bruno&rpar;](http://9gag.com/gag/a0ZNPGZ)
+ - 🚯 [A guy in overalls and his gf](http://9gag.com/gag/aKm7gE1)<!-- MEMES:END -->
 
 --- 
 
