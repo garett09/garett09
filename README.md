@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I live in a town in Germany. Nobody knows where it comes from, but randomly we\u2019ve got a kangaroo in our neighborhood. It did not escape from any nearby zoo or anything. It has to come from Austria](http://9gag.com/gag/aegDK4p)
- - 🚯 [Hmmm](http://9gag.com/gag/aE8PvZ9)
- - 🚯 [How motorcyclists think people react when they go by.](http://9gag.com/gag/a71WLXA)<!-- MEMES:END -->
+ - 🚖 [They robbed jewelry store in Debrecen, Hungary](http://9gag.com/gag/ajg9rOg)
+ - 🚯 [Love this movie](http://9gag.com/gag/ay9eEyW)
+ - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)<!-- MEMES:END -->
 
 --- 
 
