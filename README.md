@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Point Campus pencils in May launch](https://www.pcgamer.com/two-point-campus-pencils-in-may-launch)
  - [Ubisoft Executive Says Users &#39;Don&#39;t Get It&#39; In Extraordinary NFT Interview](https://kotaku.com/ubisoft-nft-quartz-digits-ghost-recon-assassins-creed-p-1848437476)
- - [This Dark Souls mod puts everything into a blender and it works](https://www.pcgamer.com/this-dark-souls-mod-puts-everything-into-a-blender-and-it-works)
- - [How to get Green Goblin in Fortnite](https://www.pcgamer.com/green-goblin-fortnite)<!-- GAME:END -->
+ - [This Dark Souls mod puts everything into a blender and it works](https://www.pcgamer.com/this-dark-souls-mod-puts-everything-into-a-blender-and-it-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
