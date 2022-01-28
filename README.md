@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Plenty of you haven’t used Nearby Share before](https://www.androidauthority.com/nearby-share-poll-results-3097502/)
- - [Microsoft and 35 US states led by Utah support Epic Games against Apple through amicus curiae briefs filed with the Ninth Circuit appeals court &lpar;Florian Mueller/FOSS Patents&rpar;](http://www.techmeme.com/220128/p4#a220128p4)
- - [Vesta, which provides mortgage loan origination software to automate and simplify the lending process, raises a $30M Series A led by a16z &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220128/p3#a220128p3)<!-- TECH:END -->
+ - [Three things Web3 should fix in 2022: make crypto transactions safe and reliable, make blockchains efficient, develop tech for mitigating harassment and abuse &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220128/p6#a220128p6)
+ - [Ascend, which automates insurance payments and offers a buy now, pay later service, raises a $30M Series A led by Index Ventures and $250M in debt &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220128/p5#a220128p5)
+ - [We asked, you told us: Plenty of you haven’t used Nearby Share before](https://www.androidauthority.com/nearby-share-poll-results-3097502/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
