@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [TeamGroup unveils the first blisteringly fast PCIe 5.0 SSD ready for our gaming PCs](https://www.pcgamer.com/teamgroup-unveils-the-first-blisteringly-fast-pcie-50-ssd-ready-for-our-gaming-pcs)
  - [Steam your own hams, LucasArts style in this fan-made Simpsons adventure game](https://www.pcgamer.com/steam-your-own-hams-lucasarts-style-in-this-fan-made-simpsons-adventure-game)
- - [Pokémon Legends: Arceus walkthrough and guides](https://www.polygon.com/guides/22894976/pokemon-legends-arceus-walkthrough-tips-pokedex-beginners-starter-faq-noble-boss)
- - [Pokémon Legends Arceus guide: Special evolution requirements](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22899194/special-evolution-methods-kleavor-basculegion-wyrdeer-ursaluna-sneasler-overquil)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus walkthrough and guides](https://www.polygon.com/guides/22894976/pokemon-legends-arceus-walkthrough-tips-pokedex-beginners-starter-faq-noble-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
