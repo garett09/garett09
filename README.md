@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no, not again...](http://9gag.com/gag/ang4YvB)
- - 🚯 [Thanks Rups..., but no thanks...](http://9gag.com/gag/azem7DB)
- - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)<!-- MEMES:END -->
+ - 🚖 [Thanks Rups..., but no thanks...](http://9gag.com/gag/azem7DB)
+ - 🚯 [I\u2019m in this post and I don\u2019t like it.](http://9gag.com/gag/aAGeRYg)
+ - 🚯 [Battlefield](http://9gag.com/gag/aM4xeOV)<!-- MEMES:END -->
 
 --- 
 
