@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We sure do](http://9gag.com/gag/a91nP6m)
- - 🚯 [Karen yells and slaps the employee for making her food wrong!](http://9gag.com/gag/aE8P1jx)
- - 🚯 [Because every life is precious!](http://9gag.com/gag/adgVp5Q)<!-- MEMES:END -->
+ - 🚖 [That&#39;s what I call `Fun Size`!](http://9gag.com/gag/aegDGdp)
+ - 🚯 [Just arranging the f15&#39;s for a photograph](http://9gag.com/gag/amgv8gv)
+ - 🚯 [Helmet robber](http://9gag.com/gag/aKm7qn3)<!-- MEMES:END -->
 
 --- 
 
