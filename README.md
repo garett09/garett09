@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian industrial B2B marketplace Moglix raises a $250M Series F at a $2.6B valuation, bringing its total funding to ~$470M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220128/p8#a220128p8)
- - [FBI considered using Pegasus spyware for US domestic surveillance](https://appleinsider.com/articles/22/01/28/fbi-considered-using-pegasus-spyware-for-us-domestic-surveillance?utm_medium=rss)
- - [Politicians Say It’s Time to Live With Covid. Are You Ready?](https://www.wired.com/story/living-with-covid-new-normal)<!-- TECH:END -->
+ - [Face ID works while wearing a mask in the iOS 15.4 beta](https://appleinsider.com/articles/22/01/27/face-id-works-while-wearing-a-mask-in-the-ios-154-beta?utm_medium=rss)
+ - [London-based instant grocery delivery startup Zapp raises a $200M Series B, bringing its total funding to $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220128/p11#a220128p11)
+ - [The Physics of the N95 Face Mask](https://www.wired.com/story/the-physics-of-the-n95-face-mask)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
