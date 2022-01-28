@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: White House is readying an executive action to task federal agencies with regulating Bitcoin and other cryptocurrencies as a matter of national security &lpar;Daren Fonda/Barron&#39;s Online&rpar;](http://www.techmeme.com/220127/p46#a220127p46)
- - [Power tool companies have discovered USB-C — and DeWalt’s two-way charger sounds awesome](https://www.theverge.com/2022/1/27/22905482/dewalt-ryobi-milwaukee-usb-c-power-tool-batteries)
- - [Life360 to stop selling precise location data of users](https://appleinsider.com/articles/22/01/28/life360-to-stop-selling-precise-location-data-of-users?utm_medium=rss)<!-- TECH:END -->
+ - [Cheetah, which offers a wholesale food marketplace, raises a $60M Series C, after shifting focus back to restaurants from a pivot to regular consumers in 2020 &lpar;Alex Barreira/Silicon Valley ...&rpar;](http://www.techmeme.com/220127/p48#a220127p48)
+ - [OtterBox&#39;s colorful new MagSafe iPhone cases repurpose scrap plastic](https://appleinsider.com/articles/22/01/27/otterboxs-colorful-new-magsafe-iphone-cases-repurpose-scrap-plastic?utm_medium=rss)
+ - [Center for Countering Digital Hate: Substack makes at least $2.5M/year via anti-vaccine posts; Substack defends hosting &quot;writers with whom we strongly disagree&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/220127/p47#a220127p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
