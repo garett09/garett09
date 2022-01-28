@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Services add 165 million subscribers in last 12 months](https://appleinsider.com/articles/22/01/27/apples-services-add-165-million-subscribers-in-last-12-months?utm_medium=rss)
- - [iPhone, Mac, Services, and more set all-time revenue records in Q1 2022](https://appleinsider.com/articles/22/01/27/iphone-mac-services-and-more-set-all-time-revenue-records-in-q1-2022?utm_medium=rss)
- - [Notes of interest from Apple&#39;s blockbuster holiday quarter earnings report](https://appleinsider.com/articles/22/01/27/notes-of-interest-from-apples-blockbuster-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [Apple had 785M paying subs globally across all services in Q1, up 27% YoY; Cook says Apple doesn&#39;t make &quot;purely financial decisions&quot; about Apple TV+ content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220127/p44#a220127p44)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [Life360 says it will stop selling users&#39; precise location data, after a report alleged it is one of the top sources for the location data broker industry &lpar;The Markup&rpar;](http://www.techmeme.com/220127/p43#a220127p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
