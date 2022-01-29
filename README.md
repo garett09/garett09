@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why you should always trust your pet\u2019s instincts](http://9gag.com/gag/a0ZNdAO)
- - 🚯 [Gotta buy some watermelon](http://9gag.com/gag/abgGpYX)
- - 🚯 [You could hear kitty say \u201cno!\u201d](http://9gag.com/gag/amgvY2y)<!-- MEMES:END -->
+ - 🚖 [Snorlax didn&#39;t f**k around.](http://9gag.com/gag/apgGrx5)
+ - 🚯 [Mesmerizing](http://9gag.com/gag/a91nYe0)
+ - 🚯 [What is his ultimate goal tho?](http://9gag.com/gag/arnVbGK)<!-- MEMES:END -->
 
 --- 
 
