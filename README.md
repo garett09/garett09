@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Its still increasing...](http://9gag.com/gag/axB9Dxb)
- - 🚯 [Moss](http://9gag.com/gag/apgGrGp)
- - 🚯 [German music box](http://9gag.com/gag/axB9D4L)<!-- MEMES:END -->
+ - 🚯 [Mistakes were made](http://9gag.com/gag/arnVK0p)
+ - 🚯 [This is what beat friends do!](http://9gag.com/gag/a61KMRm)<!-- MEMES:END -->
 
 --- 
 
