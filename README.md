@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Wallet sync issues found following watchOS 8.4, iOS 15.3 update](https://appleinsider.com/articles/22/01/29/apple-watch-wallet-sync-issues-found-following-watchos-84-ios-153-update?utm_medium=rss)
- - [10 best Android apps to add text to photos](https://www.androidauthority.com/android-apps-add-text-to-photos-3090703/)
- - [T-Mobile will reportedly fire corporate employees who aren’t fully vaccinated by April 2nd](https://www.theverge.com/2022/1/29/22908070/t-mobile-fire-unvaccinated-corporate-employees-covid-19-vaccine)<!-- TECH:END -->
+ - [Sundance&#39;s big winner Nanny is a taut horror film with a heart-piercing twist     - CNET](https://www.cnet.com/news/sundance-film-festival-big-winner-nanny-is-a-taut-horror-film-with-a-heart-piercing-twist/#ftag=CAD590a51e)
+ - [FCC announces $1.2 billion fund for broadband deployment in rural areas](https://www.theverge.com/2022/1/29/22908024/fcc-rural-broadband-deployment-funding)
+ - [Arculus review: A crypto cold storage wallet with promise](https://appleinsider.com/articles/22/01/29/arculus-review-a-crypto-cold-storage-wallet-with-promise?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
