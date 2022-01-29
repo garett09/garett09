@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta buy some watermelon](http://9gag.com/gag/abgGpYX)
- - 🚯 [Like him or hate him. Growing up watching Jackie Chan movies was one of the best](http://9gag.com/gag/aBnm1A2)
- - 🚯 [Why you should always trust your pet\u2019s instincts](http://9gag.com/gag/a0ZNdAO)<!-- MEMES:END -->
+ - 🚖 [Why you should always trust your pet\u2019s instincts](http://9gag.com/gag/a0ZNdAO)
+ - 🚯 [Gotta buy some watermelon](http://9gag.com/gag/abgGpYX)
+ - 🚯 [You could hear kitty say \u201cno!\u201d](http://9gag.com/gag/amgvY2y)<!-- MEMES:END -->
 
 --- 
 
