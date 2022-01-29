@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple warns macOS Monterey beta testers of FileVault issue](https://appleinsider.com/articles/22/01/29/apple-warns-macos-monterey-beta-testers-of-filevault-issue?utm_medium=rss)
- - [Logitech’s outstanding StreamCam is on sale for nearly its best price to date](https://www.theverge.com/good-deals/2022/1/29/22906216/logitech-streamcam-webcam-beats-fit-pro-roborock-s6-vacuum-pc-games-steam-epic-airpods-deal-sale)
- - [Examining Apple&#39;s record-shattering $123.9B first quarter by the numbers](https://appleinsider.com/articles/22/01/29/examining-apples-record-shattering-1239b-first-quarter-by-the-numbers?utm_medium=rss)<!-- TECH:END -->
+ - [The IRS is reportedly looking for ID.me alternatives amid privacy concerns](https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns)
+ - [Visa says customers made $2.5B in payments with its crypto-linked cards in its fiscal Q1 of 2022, which was 70% of its crypto volume for all of FY 2021 &lpar;Frank Holland/CNBC&rpar;](http://www.techmeme.com/220129/p8#a220129p8)
+ - [Apple warns macOS Monterey beta testers of FileVault issue](https://appleinsider.com/articles/22/01/29/apple-warns-macos-monterey-beta-testers-of-filevault-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
