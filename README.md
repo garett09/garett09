@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at the ongoing patent battle over warehouse automation between Norwegian robotics company AutoStore and UK supermarket giant Ocado &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/220129/p5#a220129p5)
  - [What It&#39;s Like to Give Up Air Travel to Curb Climate Change](https://www.wired.com/story/stop-flying-climate-change)
- - [Inside the International Effort to Save One Tiny Mexican Fish](https://www.wired.com/story/inside-the-international-effort-to-save-one-tiny-mexican-fish)
- - [Most Frequently Asked Questions About  Email Marketing](https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html)<!-- TECH:END -->
+ - [Inside the International Effort to Save One Tiny Mexican Fish](https://www.wired.com/story/inside-the-international-effort-to-save-one-tiny-mexican-fish)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
