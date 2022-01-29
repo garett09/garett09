@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snorlax didn&#39;t f**k around.](http://9gag.com/gag/apgGrx5)
- - 🚯 [Mesmerizing](http://9gag.com/gag/a91nYe0)
- - 🚯 [What is his ultimate goal tho?](http://9gag.com/gag/arnVbGK)<!-- MEMES:END -->
+ - 🚖 [Stoinks](http://9gag.com/gag/aE8PYEn)
+ - 🚯 [This is what beat friends do!](http://9gag.com/gag/a61KMRm)
+ - 🚯 [Running fast to record yourself](http://9gag.com/gag/aZrymn9)<!-- MEMES:END -->
 
 --- 
 
