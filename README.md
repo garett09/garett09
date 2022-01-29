@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Wallet sync issues found following watchOS 8.4, iOS 15.3 update](https://appleinsider.com/articles/22/01/29/apple-watch-wallet-sync-issues-found-following-watchos-84-ios-153-update?utm_medium=rss)
  - [10 best Android apps to add text to photos](https://www.androidauthority.com/android-apps-add-text-to-photos-3090703/)
- - [T-Mobile will reportedly fire corporate employees who aren’t fully vaccinated by April 2nd](https://www.theverge.com/2022/1/29/22908070/t-mobile-fire-unvaccinated-corporate-employees-covid-19-vaccine)
- - [COVID misinformation prompts Joni Mitchell to leave Spotify, after Neil Young did same     - CNET](https://www.cnet.com/tech/services-and-software/covid-misinformation-prompts-joni-mitchell-to-leave-spotify-after-neil-young-did-same/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile will reportedly fire corporate employees who aren’t fully vaccinated by April 2nd](https://www.theverge.com/2022/1/29/22908070/t-mobile-fire-unvaccinated-corporate-employees-covid-19-vaccine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
