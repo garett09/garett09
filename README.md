@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s what I call `Fun Size`!](http://9gag.com/gag/aegDGdp)
- - 🚯 [Fitness level: infinity](http://9gag.com/gag/aegD6zp)
- - 🚯 [This one sparks A LOT of joy](http://9gag.com/gag/axB9DmL)<!-- MEMES:END -->
+ - 🚖 [Acting like a tough guy with a gun](http://9gag.com/gag/axB9jx2)
+ - 🚯 [If you were there 3000 years ago, you know this sound](http://9gag.com/gag/aYryeYO)
+ - 🚯 [Friday!](http://9gag.com/gag/aQXd8v8)<!-- MEMES:END -->
 
 --- 
 
