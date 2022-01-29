@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The best men a man could ask for.](http://9gag.com/gag/aBnmxbz)
- - 🚯 [Please be this kind of parent!](http://9gag.com/gag/aDD4z59)
- - 🚯 [Equality!!!](http://9gag.com/gag/awzBA5R)<!-- MEMES:END -->
+ - 🚯 [Throttle](http://9gag.com/gag/a71W3q2)
+ - 🚯 [Reality is harsh .](http://9gag.com/gag/a61KVWb)<!-- MEMES:END -->
 
 --- 
 
