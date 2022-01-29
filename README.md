@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I fixed it](http://9gag.com/gag/a21Wr69)
- - 🚯 [Ayo khloe forgets to add makeup to her hands lol](http://9gag.com/gag/aM4x85R)
- - 🚯 [Cool drone test.. wait wtf](http://9gag.com/gag/aZryg5W)<!-- MEMES:END -->
+ - 🚖 [A single noise that can change the mood in the room.](http://9gag.com/gag/a81G83Y)
+ - 🚯 [Please be this kind of parent!](http://9gag.com/gag/aDD4z59)
+ - 🚯 [A motorist is charged with having his stereo too loud but Chief Judge Frank Caprio had different plans!](http://9gag.com/gag/aggALPW)<!-- MEMES:END -->
 
 --- 
 
