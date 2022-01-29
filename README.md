@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter stopped enforcing its &quot;civic integrity policy&quot; in March 2021 regarding lies about the 2020 US election &lpar;Daniel Dale/CNN&rpar;](http://www.techmeme.com/220129/p1#a220129p1)
- - [Crypto-rich buyers are shifting the luxury home market, as real-estate builders jump through hoops to accept crypto and sellers advertise accepting it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220128/p34#a220128p34)
- - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)<!-- TECH:END -->
+ - [Sources: Diem Association was shuttered due to internal dispute, leaders&#39; departure, and regulatory pushback, but a team of ~50 remains to run a pilot overseas &lpar;Washington Post&rpar;](http://www.techmeme.com/220129/p2#a220129p2)
+ - [OnePlus 9 and 9 Pro problems and how to fix them](https://www.androidauthority.com/oneplus-9-pro-problems-fixes-3098130/)
+ - [Twitter stopped enforcing its &quot;civic integrity policy&quot; in March 2021 regarding lies about the 2020 US election &lpar;Daniel Dale/CNN&rpar;](http://www.techmeme.com/220129/p1#a220129p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
