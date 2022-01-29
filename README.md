@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto-rich buyers are shifting the luxury home market, as real-estate builders jump through hoops to accept crypto and sellers advertise accepting it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220128/p34#a220128p34)
  - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)
- - [Jason Momoa joining Vin Diesel in Fast and Furious 10 cast     - CNET](https://www.cnet.com/news/jason-momoa-joining-vin-diesel-in-fast-and-furious-10-cast/#ftag=CAD590a51e)
- - [An old SpaceX Falcon 9 rocket is about to crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jason Momoa joining Vin Diesel in Fast and Furious 10 cast     - CNET](https://www.cnet.com/news/jason-momoa-joining-vin-diesel-in-fast-and-furious-10-cast/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
