@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Will Soon Stop Taking Money From Inactive Accounts](https://kotaku.com/xbox-series-x-game-pass-microsoft-pc-subscription-1848444299)
- - [The insta-doc Rise of the Players embraces the heroes of the GameStop stock story](https://www.polygon.com/reviews/22907139/gamestop-rise-of-the-players-review-documentary)
- - [Poison swamp-loving sicko at it again with Elden Ring](https://www.polygon.com/22907130/elden-ring-difficulty-poison-swamps-hidetaka-miyazaki)<!-- GAME:END -->
+ - [Unofficial Minecraft NFT game &#39;Blockverse&#39; disappears with more than $1M](https://www.pcgamer.com/unofficial-minecraft-nft-game-blockverse-disappears-with-more-than-dollar1m)
+ - [Blizzard&#39;s survival game has been in development for almost 5 years](https://www.pcgamer.com/blizzards-survival-game-has-been-in-development-for-almost-5-years)
+ - [Xbox Game Pass Will Soon Stop Taking Money From Inactive Accounts](https://kotaku.com/xbox-series-x-game-pass-microsoft-pc-subscription-1848444299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
