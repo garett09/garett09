@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mental health](http://9gag.com/gag/aGzdZ9Z)
- - 🚯 [Two guys saved a girl from fire](http://9gag.com/gag/aOQ7Y9N)
- - 🚯 [Looks like the Austrians are having another war with Emus.](http://9gag.com/gag/a71WMNr)<!-- MEMES:END -->
+ - 🚖 [Looks like the Austrians are having another war with Emus.](http://9gag.com/gag/a71WMNr)
+ - 🚯 [Almond Milk Karen sets paper towel aisle on fire because Walmart was out of Almond Milk](http://9gag.com/gag/aOQ7r46)
+ - 🚯 [Different hairstyles can make a difference to appeal...](http://9gag.com/gag/azemXpm)<!-- MEMES:END -->
 
 --- 
 
