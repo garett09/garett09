@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma though...](http://9gag.com/gag/arnVb66)
- - 🚯 [But go...where](http://9gag.com/gag/a0ZN5Qz)
- - 🚯 [Same same but different](http://9gag.com/gag/aDD4WzO)<!-- MEMES:END -->
+ - 🚖 [R is for rock ...](http://9gag.com/gag/adgV7A9)
+ - 🚯 [I fixed it](http://9gag.com/gag/a21Wr69)
+ - 🚯 [I must say comedians nowadays talk about nothing other than equality related topics but I&#39;ll admit that this was nose-exhale worthy](http://9gag.com/gag/abgGzW8)<!-- MEMES:END -->
 
 --- 
 
