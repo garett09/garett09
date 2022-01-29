@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at the ongoing patent battle over warehouse automation between Norwegian robotics company AutoStore and UK supermarket giant Ocado &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/220129/p5#a220129p5)
- - [What It&#39;s Like to Give Up Air Travel to Curb Climate Change](https://www.wired.com/story/stop-flying-climate-change)
- - [Inside the International Effort to Save One Tiny Mexican Fish](https://www.wired.com/story/inside-the-international-effort-to-save-one-tiny-mexican-fish)<!-- TECH:END -->
+ - [Bengaluru-based Vyapar, which offers accounting, invoicing, and inventory management software to SMBs, raises a $30M Series B led by WestBridge Capital &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/220129/p6#a220129p6)
+ - [Best deals Jan. 29: Refurbished Intel 27-inch iMacs, $99 AirPods, $90 Linksys Wi-Fi Extender, more!](https://appleinsider.com/articles/22/01/29/best-deals-jan-29-refurbished-intel-27-inch-imacs-99-airpods-90-linksys-wi-fi-extender-more?utm_medium=rss)
+ - [Kombucha Cultures Could Be the Key to Better Water Filters](https://www.wired.com/story/kombucha-cultures-could-make-better-water-filters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
