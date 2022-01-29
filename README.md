@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU is crafting a Chips Act, similar in size to the US&#39; $52B chip fund proposal, to attract investment for mega fabs; a proposal will be published on Feb. 8 &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220128/p33#a220128p33)
- - [Life360 is getting out of the business of selling precise user location data](https://www.theverge.com/2022/1/28/22906392/life360-tile-location-data-precise-aggregated-privacy)
- - [Shopify denies copyright infringement claims from publishers and says court is the wrong venue to force changes in copyright laws that shield tech companies &lpar;Vipal Monga/Wall Street Journal&rpar;](http://www.techmeme.com/220128/p32#a220128p32)<!-- TECH:END -->
+ - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)
+ - [Epic largely lost to Apple, but 35 states are now backing its fight in a higher court](https://www.theverge.com/2022/1/28/22907106/epic-games-v-apple-amicus-briefs-states-eff-microsoft-appeal)
+ - [The EU is crafting a Chips Act, similar in size to the US&#39; $52B fund proposal, to attract investment for mega fabs; a proposal will be published on February 8 &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220128/p33#a220128p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
