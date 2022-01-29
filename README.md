@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Games on Sale, New Releases, and Updates](https://news.xbox.com/en-us/2022/01/28/this-week-on-xbox-games-on-sale-new-releases-and-updates/)
- - [DisplayPort vs HDMI](https://www.pcgamer.com/displayport-vs-hdmi-which-display-cable-should-i-use-for-my-monitor)
- - [Animal Crossing New Horizons design illusions to inspire your build](https://www.polygon.com/22906555/animal-crossing-new-horizons-design-ideas-item-illusions)<!-- GAME:END -->
+ - [Xbox Game Pass Will Soon Stop Taking Money From Inactive Accounts](https://kotaku.com/xbox-series-x-game-pass-microsoft-pc-subscription-1848444299)
+ - [The insta-doc Rise of the Players embraces the heroes of the GameStop stock story](https://www.polygon.com/reviews/22907139/gamestop-rise-of-the-players-review-documentary)
+ - [Poison swamp-loving sicko at it again with Elden Ring](https://www.polygon.com/22907130/elden-ring-difficulty-poison-swamps-hidetaka-miyazaki)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
