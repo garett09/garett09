@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A single noise that can change the mood in the room.](http://9gag.com/gag/a81G83Y)
- - 🚯 [Please be this kind of parent!](http://9gag.com/gag/aDD4z59)
- - 🚯 [A motorist is charged with having his stereo too loud but Chief Judge Frank Caprio had different plans!](http://9gag.com/gag/aggALPW)<!-- MEMES:END -->
+ - 🚖 [But go...where](http://9gag.com/gag/a0ZN5Qz)
+ - 🚯 [Smooth Af](http://9gag.com/gag/aogPNNx)
+ - 🚯 [Best possible ending to a gender reveal party](http://9gag.com/gag/a0ZN53z)<!-- MEMES:END -->
 
 --- 
 
