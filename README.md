@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Examining Apple&#39;s record-shattering $123.9B first quarter by the numbers](https://appleinsider.com/articles/22/01/29/examining-apples-record-shattering-1239b-first-quarter-by-the-numbers?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-417-3097999/)
- - [Galaxy S22: What to expect from Samsung’s February Unpacked](https://www.theverge.com/2022/1/26/22902649/samsung-galaxy-s22-unpacked-event-tab-s8-home-mini-2-date)<!-- TECH:END -->
+ - [Apple warns macOS Monterey beta testers of FileVault issue](https://appleinsider.com/articles/22/01/29/apple-warns-macos-monterey-beta-testers-of-filevault-issue?utm_medium=rss)
+ - [Logitech’s outstanding StreamCam is on sale for nearly its best price to date](https://www.theverge.com/good-deals/2022/1/29/22906216/logitech-streamcam-webcam-beats-fit-pro-roborock-s6-vacuum-pc-games-steam-epic-airpods-deal-sale)
+ - [Examining Apple&#39;s record-shattering $123.9B first quarter by the numbers](https://appleinsider.com/articles/22/01/29/examining-apples-record-shattering-1239b-first-quarter-by-the-numbers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
