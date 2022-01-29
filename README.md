@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Different hairstyles can make a difference to appeal...](http://9gag.com/gag/azemXpm)
- - 🚯 [Looks like the Austrians are having another war with Emus.](http://9gag.com/gag/a71WMNr)
- - 🚯 [Smooth Af](http://9gag.com/gag/aogPNNx)<!-- MEMES:END -->
+ - 🚖 [The best men a man could ask for.](http://9gag.com/gag/aBnmxbz)
+ - 🚯 [Please be this kind of parent!](http://9gag.com/gag/aDD4z59)
+ - 🚯 [Equality!!!](http://9gag.com/gag/awzBA5R)<!-- MEMES:END -->
 
 --- 
 
