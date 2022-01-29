@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Science Has Figured Out The Worst Starting Word In Wordle](https://kotaku.com/wordle-best-worst-starting-word-help-tips-guide-1848446433)
- - [Michael Mann’s Heat 2 is a crime novel, but was almost a video game](https://www.polygon.com/22906474/michael-mann-heat-2-novel-video-game-gearbox-software)
- - [You Won’t Be Alone is the most beautiful movie about witches ever made](https://www.polygon.com/reviews/22907369/you-wont-be-alone-review)<!-- GAME:END -->
+ - [New God of War mod lets you mess up Kratos in every way imaginable](https://www.pcgamer.com/new-god-of-war-mod-lets-you-mess-up-kratos-in-every-way-imaginable)
+ - [Check out the next project from the creator of Cruelty Squad](https://www.pcgamer.com/check-out-the-next-project-from-the-creator-of-cruelty-squad)
+ - [Science Has Figured Out The Worst Starting Word In Wordle](https://kotaku.com/wordle-best-worst-starting-word-help-tips-guide-1848446433)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
