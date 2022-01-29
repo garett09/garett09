@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Science Has Figured Out The Worst Starting Word In Wordle](https://kotaku.com/wordle-best-worst-starting-word-help-tips-guide-1848446433)
  - [Michael Mann’s Heat 2 is a crime novel, but was almost a video game](https://www.polygon.com/22906474/michael-mann-heat-2-novel-video-game-gearbox-software)
- - [You Won’t Be Alone is the most beautiful movie about witches ever made](https://www.polygon.com/reviews/22907369/you-wont-be-alone-review)
- - [Steamed Hams Is Now A Playable Point-And-Click Adventure Game](https://kotaku.com/steamed-hams-simpsons-free-pc-game-adventure-playable-1848446163)<!-- GAME:END -->
+ - [You Won’t Be Alone is the most beautiful movie about witches ever made](https://www.polygon.com/reviews/22907369/you-wont-be-alone-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
