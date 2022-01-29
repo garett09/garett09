@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Vyapar, which offers accounting, invoicing, and inventory management software to SMBs, raises a $30M Series B led by WestBridge Capital &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/220129/p6#a220129p6)
- - [Best deals Jan. 29: Refurbished Intel 27-inch iMacs, $99 AirPods, $90 Linksys Wi-Fi Extender, more!](https://appleinsider.com/articles/22/01/29/best-deals-jan-29-refurbished-intel-27-inch-imacs-99-airpods-90-linksys-wi-fi-extender-more?utm_medium=rss)
- - [Kombucha Cultures Could Be the Key to Better Water Filters](https://www.wired.com/story/kombucha-cultures-could-make-better-water-filters)<!-- TECH:END -->
+ - [Meta says it has paused new users from joining its social media tracking tool CrowdTangle as it works &quot;through some staffing constraints&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220129/p7#a220129p7)
+ - [Joni Mitchell removes music from Spotify in protest of Joe Rogan’s podcast](https://www.theverge.com/2022/1/29/22907696/joni-mitchell-spotify-joe-rogan-podcast-misinformation-covid-19)
+ - [Samsung Galaxy S21 Ultra one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-long-term-review-3096468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
