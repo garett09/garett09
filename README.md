@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stoinks](http://9gag.com/gag/aE8PYEn)
- - 🚯 [This is what beat friends do!](http://9gag.com/gag/a61KMRm)
- - 🚯 [Running fast to record yourself](http://9gag.com/gag/aZrymn9)<!-- MEMES:END -->
+ - 🚖 [You could hear kitty say \u201cno!\u201d](http://9gag.com/gag/amgvY2y)
+ - 🚯 [*warranty end* table 1s after:](http://9gag.com/gag/amgvrj9)
+ - 🚯 [I mean, why else would we go to wine tastings?!](http://9gag.com/gag/a21WrXw)<!-- MEMES:END -->
 
 --- 
 
