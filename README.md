@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scan, edit and share documents for less with iScanner for iPhone and iPad     - CNET](https://www.cnet.com/tech/services-and-software/scan-edit-and-share-documents-for-less-with-iscanner-for-iphone-and-ipad/#ftag=CAD590a51e)
  - [The IRS is reportedly looking for ID.me alternatives amid privacy concerns](https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns)
- - [Visa says customers made $2.5B in payments with its crypto-linked cards in its fiscal Q1 of 2022, which was 70% of its crypto volume for all of FY 2021 &lpar;Frank Holland/CNBC&rpar;](http://www.techmeme.com/220129/p8#a220129p8)
- - [Apple warns macOS Monterey beta testers of FileVault issue](https://appleinsider.com/articles/22/01/29/apple-warns-macos-monterey-beta-testers-of-filevault-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Visa says customers made $2.5B in payments with its crypto-linked cards in its fiscal Q1 of 2022, which was 70% of its crypto volume for all of FY 2021 &lpar;Frank Holland/CNBC&rpar;](http://www.techmeme.com/220129/p8#a220129p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
