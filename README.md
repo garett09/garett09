@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But go...where](http://9gag.com/gag/a0ZN5Qz)
- - 🚯 [Smooth Af](http://9gag.com/gag/aogPNNx)
- - 🚯 [Best possible ending to a gender reveal party](http://9gag.com/gag/a0ZN53z)<!-- MEMES:END -->
+ - 🚖 [Closed-circuit TV of a Brazilian pet shop](http://9gag.com/gag/aLvwj8v)
+ - 🚯 [Just wait for the back elbow](http://9gag.com/gag/apgGQ19)
+ - 🚯 [Smooth Af](http://9gag.com/gag/aogPNNx)<!-- MEMES:END -->
 
 --- 
 
