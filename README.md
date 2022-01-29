@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter stopped enforcing its &quot;civic integrity policy&quot; in March 2021 regarding lies about the 2020 US election &lpar;Daniel Dale/CNN&rpar;](http://www.techmeme.com/220129/p1#a220129p1)
  - [Crypto-rich buyers are shifting the luxury home market, as real-estate builders jump through hoops to accept crypto and sellers advertise accepting it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220128/p34#a220128p34)
- - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)
- - [Jason Momoa joining Vin Diesel in Fast and Furious 10 cast     - CNET](https://www.cnet.com/news/jason-momoa-joining-vin-diesel-in-fast-and-furious-10-cast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
