@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The enduring appeal of Furby’s cursed DIY cousin, the LongFurby](https://www.polygon.com/22905138/longfurby-tiktok-cursed-diy-furby-tumblr)
  - [Unofficial Minecraft NFT game &#39;Blockverse&#39; disappears with more than $1M](https://www.pcgamer.com/unofficial-minecraft-nft-game-blockverse-disappears-with-more-than-dollar1m)
- - [Blizzard&#39;s survival game has been in development for almost 5 years](https://www.pcgamer.com/blizzards-survival-game-has-been-in-development-for-almost-5-years)
- - [Xbox Game Pass Will Soon Stop Taking Money From Inactive Accounts](https://kotaku.com/xbox-series-x-game-pass-microsoft-pc-subscription-1848444299)<!-- GAME:END -->
+ - [Blizzard&#39;s survival game has been in development for almost 5 years](https://www.pcgamer.com/blizzards-survival-game-has-been-in-development-for-almost-5-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
