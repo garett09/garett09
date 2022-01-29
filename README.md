@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Karma though...](http://9gag.com/gag/arnVb66)
- - 🚯 [I mean, why else would we go to wine tastings?!](http://9gag.com/gag/a21WrXw)
- - 🚯 [R is for rock ...](http://9gag.com/gag/adgV7A9)<!-- MEMES:END -->
+ - 🚯 [But go...where](http://9gag.com/gag/a0ZN5Qz)
+ - 🚯 [Same same but different](http://9gag.com/gag/aDD4WzO)<!-- MEMES:END -->
 
 --- 
 
