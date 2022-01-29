@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it has paused new users from joining its social media tracking tool CrowdTangle as it works &quot;through some staffing constraints&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220129/p7#a220129p7)
- - [Joni Mitchell removes music from Spotify in protest of Joe Rogan’s podcast](https://www.theverge.com/2022/1/29/22907696/joni-mitchell-spotify-joe-rogan-podcast-misinformation-covid-19)
- - [Samsung Galaxy S21 Ultra one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s21-ultra-long-term-review-3096468/)<!-- TECH:END -->
+ - [Examining Apple&#39;s record-shattering $123.9B first quarter by the numbers](https://appleinsider.com/articles/22/01/29/examining-apples-record-shattering-1239b-first-quarter-by-the-numbers?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-417-3097999/)
+ - [Galaxy S22: What to expect from Samsung’s February Unpacked](https://www.theverge.com/2022/1/26/22902649/samsung-galaxy-s22-unpacked-event-tab-s8-home-mini-2-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
