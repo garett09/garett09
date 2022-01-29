@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scan, edit and share documents for less with iScanner for iPhone and iPad     - CNET](https://www.cnet.com/tech/services-and-software/scan-edit-and-share-documents-for-less-with-iscanner-for-iphone-and-ipad/#ftag=CAD590a51e)
- - [The IRS is reportedly looking for ID.me alternatives amid privacy concerns](https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns)
- - [Visa says customers made $2.5B in payments with its crypto-linked cards in its fiscal Q1 of 2022, which was 70% of its crypto volume for all of FY 2021 &lpar;Frank Holland/CNBC&rpar;](http://www.techmeme.com/220129/p8#a220129p8)<!-- TECH:END -->
+ - [10 best Android apps to add text to photos](https://www.androidauthority.com/android-apps-add-text-to-photos-3090703/)
+ - [T-Mobile will reportedly fire corporate employees who aren’t fully vaccinated by April 2nd](https://www.theverge.com/2022/1/29/22908070/t-mobile-fire-unvaccinated-corporate-employees-covid-19-vaccine)
+ - [COVID misinformation prompts Joni Mitchell to leave Spotify, after Neil Young did same     - CNET](https://www.cnet.com/tech/services-and-software/covid-misinformation-prompts-joni-mitchell-to-leave-spotify-after-neil-young-did-same/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
