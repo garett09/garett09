@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Closed-circuit TV of a Brazilian pet shop](http://9gag.com/gag/aLvwj8v)
- - 🚯 [Just wait for the back elbow](http://9gag.com/gag/apgGQ19)
+ - 🚖 [Different hairstyles can make a difference to appeal...](http://9gag.com/gag/azemXpm)
+ - 🚯 [Looks like the Austrians are having another war with Emus.](http://9gag.com/gag/a71WMNr)
  - 🚯 [Smooth Af](http://9gag.com/gag/aogPNNx)<!-- MEMES:END -->
 
 --- 
