@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best men a man could ask for.](http://9gag.com/gag/aBnmxbz)
- - 🚯 [Throttle](http://9gag.com/gag/a71W3q2)
- - 🚯 [Reality is harsh .](http://9gag.com/gag/a61KVWb)<!-- MEMES:END -->
+ - 🚖 [Mental health](http://9gag.com/gag/aGzdZ9Z)
+ - 🚯 [Two guys saved a girl from fire](http://9gag.com/gag/aOQ7Y9N)
+ - 🚯 [Looks like the Austrians are having another war with Emus.](http://9gag.com/gag/a71WMNr)<!-- MEMES:END -->
 
 --- 
 
