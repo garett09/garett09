@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Its still increasing...](http://9gag.com/gag/axB9Dxb)
- - 🚯 [Friday!](http://9gag.com/gag/aQXd8v8)
+ - 🚯 [Snorlax didn&#39;t f**k around.](http://9gag.com/gag/apgGrx5)
  - 🚯 [German music box](http://9gag.com/gag/axB9D4L)<!-- MEMES:END -->
 
 --- 
