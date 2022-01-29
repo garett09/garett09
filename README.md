@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of Susan Headley, an influential hacker of the 1980s, who specialized in social engineering and now leads a quiet life in a large US Midwestern city &lpar;Claire L. Evans/The Verge&rpar;](http://www.techmeme.com/220129/p4#a220129p4)
  - [Is Godzilla really king of the monsters? All 4 MonsterVerse movies ranked](https://www.androidauthority.com/best-monsterverse-movies-ranked-3095056/)
- - [Should you buy an iPhone 11 in 2022? It&#39;s actually a fair question     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-11-in-2022-its-actually-a-fair-question/#ftag=CAD590a51e)
- - [A look at Google&#39;s history with tablets; Android co-founder Rich Miner&#39;s LinkedIn page says he has been working as Google&#39;s Android tablets CTO since March 2021 &lpar;JR Raphael/Computerworld&rpar;](http://www.techmeme.com/220129/p3#a220129p3)<!-- TECH:END -->
+ - [Should you buy an iPhone 11 in 2022? It&#39;s actually a fair question     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-11-in-2022-its-actually-a-fair-question/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
