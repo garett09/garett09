@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [R is for rock ...](http://9gag.com/gag/adgV7A9)
- - 🚯 [I fixed it](http://9gag.com/gag/a21Wr69)
- - 🚯 [I must say comedians nowadays talk about nothing other than equality related topics but I&#39;ll admit that this was nose-exhale worthy](http://9gag.com/gag/abgGzW8)<!-- MEMES:END -->
+ - 🚖 [I fixed it](http://9gag.com/gag/a21Wr69)
+ - 🚯 [Ayo khloe forgets to add makeup to her hands lol](http://9gag.com/gag/aM4x85R)
+ - 🚯 [Cool drone test.. wait wtf](http://9gag.com/gag/aZryg5W)<!-- MEMES:END -->
 
 --- 
 
