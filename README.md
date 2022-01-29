@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You could hear kitty say \u201cno!\u201d](http://9gag.com/gag/amgvY2y)
- - 🚯 [*warranty end* table 1s after:](http://9gag.com/gag/amgvrj9)
- - 🚯 [I mean, why else would we go to wine tastings?!](http://9gag.com/gag/a21WrXw)<!-- MEMES:END -->
+ - 🚖 [Karma though...](http://9gag.com/gag/arnVb66)
+ - 🚯 [I mean, why else would we go to wine tastings?!](http://9gag.com/gag/a21WrXw)
+ - 🚯 [R is for rock ...](http://9gag.com/gag/adgV7A9)<!-- MEMES:END -->
 
 --- 
 
