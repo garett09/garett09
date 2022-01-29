@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A criminally overlooked Chris Evans superhero vehicle, and every other good movie leaving streaming this month](https://www.polygon.com/2022/1/29/22898781/best-movies-netflix-amazon-hulu-leaving-january-2022)
- - [League of Legends’ multiverse has made its canon more confusing](https://www.polygon.com/22906655/league-of-legends-arcane-lore-history-explainer-ruined-king-riot-games)
- - [The enduring appeal of Furby’s cursed DIY cousin, the LongFurby](https://www.polygon.com/22905138/longfurby-tiktok-cursed-diy-furby-tumblr)<!-- GAME:END -->
+ - [Michael Mann’s Heat 2 is a crime novel, but was almost a video game](https://www.polygon.com/22906474/michael-mann-heat-2-novel-video-game-gearbox-software)
+ - [You Won’t Be Alone is the most beautiful movie about witches ever made](https://www.polygon.com/reviews/22907369/you-wont-be-alone-review)
+ - [Steamed Hams Is Now A Playable Point-And-Click Adventure Game](https://kotaku.com/steamed-hams-simpsons-free-pc-game-adventure-playable-1848446163)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
