@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [My new toy is a USB-C cable with a built-in power meter](https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery)
- - [Epic largely lost to Apple, but 35 states are now backing its fight in a higher court](https://www.theverge.com/2022/1/28/22907106/epic-games-v-apple-amicus-briefs-states-eff-microsoft-appeal)
- - [The EU is crafting a Chips Act, similar in size to the US&#39; $52B fund proposal, to attract investment for mega fabs; a proposal will be published on February 8 &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220128/p33#a220128p33)<!-- TECH:END -->
+ - [Jason Momoa joining Vin Diesel in Fast and Furious 10 cast     - CNET](https://www.cnet.com/news/jason-momoa-joining-vin-diesel-in-fast-and-furious-10-cast/#ftag=CAD590a51e)
+ - [An old SpaceX Falcon 9 rocket is about to crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
