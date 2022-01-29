@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK approves the extradition of Mike Lynch to the US to face criminal fraud charges, hours after he lost a court battle with HP; Lynch can appeal &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/220128/p29#a220128p29)
- - [Here is the Spotify COVID content policy that lets Joe Rogan slide](https://www.theverge.com/2022/1/28/22907069/spotify-joe-rogan-neil-young-covid-19-moderation-policies)
- - [Jason Momoa cast in next Fast and Furious movie     - CNET](https://www.cnet.com/news/jason-momoa-cast-in-next-fast-and-furious-movie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU is crafting a Chips Act, similar in size to the US&#39; $52B chip fund proposal, to attract investment for mega fabs; a proposal will be published on Feb. 8 &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220128/p33#a220128p33)
+ - [Life360 is getting out of the business of selling precise user location data](https://www.theverge.com/2022/1/28/22906392/life360-tile-location-data-precise-aggregated-privacy)
+ - [Shopify denies copyright infringement claims from publishers and says court is the wrong venue to force changes in copyright laws that shield tech companies &lpar;Vipal Monga/Wall Street Journal&rpar;](http://www.techmeme.com/220128/p32#a220128p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
