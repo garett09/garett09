@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Players in The Anacrusis have killed about a billion aliens already](https://www.pcgamer.com/players-in-the-anacrusis-have-killed-about-a-billion-aliens-already)
  - [Open-world snowboarding in Shredders hits pretty soon](https://www.pcgamer.com/open-world-snowboarding-in-shredders-hits-pretty-soon)
- - [NFT Minecraft Project Sells $1.2 Million In Tokens, Deletes Everything A Few Days Later](https://kotaku.com/nft-minecraft-blockchain-scam-blockverse-crypto-1848446906)
- - [New God of War mod lets you mess up Kratos in every way imaginable](https://www.pcgamer.com/new-god-of-war-mod-lets-you-mess-up-kratos-in-every-way-imaginable)<!-- GAME:END -->
+ - [NFT Minecraft Project Sells $1.2 Million In Tokens, Deletes Everything A Few Days Later](https://kotaku.com/nft-minecraft-blockchain-scam-blockverse-crypto-1848446906)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
