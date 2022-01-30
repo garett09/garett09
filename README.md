@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I m your hero bb](http://9gag.com/gag/avAzA5n)
- - 🚯 [Nothing really matters. We are all gonna die.](http://9gag.com/gag/a4131xd)
+ - 🚖 [Open Australia Final resume](http://9gag.com/gag/awzBzPR)
+ - 🚯 [Japanese swords women](http://9gag.com/gag/avAzAOM)
  - 🚯 [No SIMP](http://9gag.com/gag/amgvgg9)<!-- MEMES:END -->
 
 --- 
