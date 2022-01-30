@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sometimes people just need a chance to express themselves. Sometimes it&#39;s good to listen.](http://9gag.com/gag/a71Ww8L)
- - 🚯 [Well, well, well... if it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aBnmxVZ)
- - 🚯 [Literally useless...](http://9gag.com/gag/ang45mB)<!-- MEMES:END -->
+ - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)
+ - 🚯 [Guys will understand](http://9gag.com/gag/amgvBQV)<!-- MEMES:END -->
 
 --- 
 
