@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo TV series trailer teases a new take on Master Chief’s story](https://www.polygon.com/22906859/halo-tv-series-trailer-release-date-master-chief-cortana-covenant)
- - [A Star Wars Galaxies revival celebrates 7 months of success](https://www.pcgamer.com/a-star-wars-galaxies-revival-celebrates-7-months-of-success)
- - [Microsoft Flight Simulator devs outline plans for helicopters, historic planes, and Australia](https://www.pcgamer.com/microsoft-flight-simulator-devs-outline-plans-for-helicopters-historic-planes-and-australia)<!-- GAME:END -->
+ - [Spotify responds over Joe Rogan uproar, and a growing trend in controversial content](https://www.polygon.com/22909222/spotify-joe-rogan-neil-young-covid-statement)
+ - [NES Zelda Map Recreated By One Person Using 25,000 Lego Bricks](https://kotaku.com/the-legend-zelda-lego-fan-massive-large-nes-nintendo-1848449305)
+ - [George R.R. Martin may be &quot;shocked&quot; by how his Elden Ring lore has been twisted](https://www.pcgamer.com/george-rr-martin-may-be-shocked-by-how-his-elden-ring-lore-has-been-twisted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
