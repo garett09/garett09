@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan. 30: Up to $400 off 13-inch MacBook Pro, $780 Echelon Smart Fitness Bike, more!](https://appleinsider.com/articles/22/01/30/best-deals-jan-30-up-to-400-off-13-inch-macbook-pro-780-echelon-smart-fitness-bike-more?utm_medium=rss)
- - [AT&amp;T adds $45 / month unlimited prepaid plan with 5G that you can only get at Walmart](https://www.theverge.com/2022/1/30/22909063/att-5g-unlimited-prepaid-plan-walmart)
- - [Profile of Ann Lai, who settled a harassment lawsuit against Justin Caldbeck&#39;s Binary Capital in 2020, as she talks about her ordeal publicly for the first time &lpar;Stephanie Clifford/Elle&rpar;](http://www.techmeme.com/220130/p4#a220130p4)<!-- TECH:END -->
+ - [A look at the fight between six rapid grocery delivery startups in NYC, which raised $5.5B+ since 2020; sources: some are averaging a loss of $20+ per order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p6#a220130p6)
+ - [7 ways smartphone brands cheap out on us](https://www.androidauthority.com/ways-smartphone-brands-cheap-out-3096435/)
+ - [China launches a pilot in 15 cities and 164 organizations to test the use of blockchain in manufacturing, government data sharing, law enforcement, and more &lpar;Arijit Sarkar/Cointelegraph&rpar;](http://www.techmeme.com/220130/p5#a220130p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
