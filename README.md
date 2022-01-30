@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Profile of artist Seneca, who says she is the lead designer behind the original Bored Ape Yacht Club NFT collection and has seen relatively little compensation &lpar;Samantha Hissong/Rolling Stone&rpar;](http://www.techmeme.com/220130/p2#a220130p2)
- - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)
- - [Blockdaemon, which provides blockchain infrastructure for node management and staking, raises a $207M Series C at a $3.25B post-money valuation &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220130/p1#a220130p1)<!-- TECH:END -->
+ - [Best webcams from 1080p to 4K for 2022     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)
+ - [WWE Royal Rumble 2022: Results, Ronda Rousey returns, full recap and analysis     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-ronda-rousey-returns-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
