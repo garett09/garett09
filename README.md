@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brené Brown says she won’t release new episodes of her Spotify-exclusive podcasts ‘until further notice’](https://www.theverge.com/2022/1/30/22909140/brene-brown-spotify-podcast-joe-rogan-controversy)
- - [Looking to leave Spotify? New subscribers can get 3 free months of Amazon Music Unlimited     - CNET](https://www.cnet.com/tech/services-and-software/looking-to-leave-spotify-new-subscribers-can-get-3-free-months-of-amazon-music-unlimited/#ftag=CAD590a51e)
- - [A look at the fight between six rapid grocery delivery startups in NYC, which raised $5.5B+ since 2020; sources: some are averaging a loss of $20+ per order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p6#a220130p6)<!-- TECH:END -->
+ - [Live-action Halo TV show release date revealed in new teaser](https://www.theverge.com/2022/1/30/22909041/halo-trailer-paramount-plus-live-action-showtime)
+ - [NFT marketplace LooksRare, which launched on Jan. 10, had $9.5B+ in trading volume, $8.3B+ of which seems to be users &quot;wash trading&quot; between their own wallets &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220130/p7#a220130p7)
+ - [Brené Brown says she won’t release new episodes of her Spotify-exclusive podcasts ‘until further notice’](https://www.theverge.com/2022/1/30/22909140/brene-brown-spotify-podcast-joe-rogan-controversy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
