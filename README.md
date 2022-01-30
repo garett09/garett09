@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I may be the only one left](http://9gag.com/gag/a81GqwO)
- - 🚯 [Most useless things ever](http://9gag.com/gag/aBnmd31)
- - 🚯 [Dolomites, Italy](http://9gag.com/gag/amgvAMd)<!-- MEMES:END -->
+ - 🚖 [Onward and upward for the church](http://9gag.com/gag/aYryQW2)
+ - 🚯 [Sometimes that magic eraser is needed](http://9gag.com/gag/a91n111)
+ - 🚯 [Someone broke up with their girlfriend today](http://9gag.com/gag/aPZ7ARQ)<!-- MEMES:END -->
 
 --- 
 
