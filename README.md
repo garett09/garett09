@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes people just need a chance to express themselves. Sometimes it&#39;s good to listen.](http://9gag.com/gag/a71Ww8L)
- - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)
- - 🚯 [Guys will understand](http://9gag.com/gag/amgvBQV)<!-- MEMES:END -->
+ - 🚖 [Equality!!!](http://9gag.com/gag/awzBA5R)
+ - 🚯 [Follow your passion is the biggest bullshit successful billionaires tell young people](http://9gag.com/gag/azemm1j)
+ - 🚯 [Two guys saved a girl from fire](http://9gag.com/gag/aOQ7Y9N)<!-- MEMES:END -->
 
 --- 
 
