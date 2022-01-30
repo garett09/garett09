@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throttle](http://9gag.com/gag/a71W3q2)
- - 🚯 [Real fans of Country Music don&#39;t listen to new songs anyway, so not much to lose there unless great songs could be made again](http://9gag.com/gag/aqGngLM)
- - 🚯 [How do you even pronounce Szymankowszczyzna](http://9gag.com/gag/aQXd3LK)<!-- MEMES:END -->
+ - 🚖 [How do you even pronounce Szymankowszczyzna](http://9gag.com/gag/aQXd3LK)
+ - 🚯 [Friendly fire](http://9gag.com/gag/aQXd1A7)
+ - 🚯 [Real fans of Country Music don&#39;t listen to new songs anyway, so not much to lose there unless great songs could be made again](http://9gag.com/gag/aqGngLM)<!-- MEMES:END -->
 
 --- 
 
