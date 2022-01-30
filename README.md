@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: Life is Strange Remastered, The Hundred Year Kingdom and Dying Light 2 Stay Human](https://www.pcgamer.com/this-week-in-pc-gaming-life-is-strange-remastered-the-hundred-year-kingdom-dying-light-2-stay-human)
  - [The horror tradition hiding behind Muzan’s hat on Demon Slayer](https://www.polygon.com/22904658/demon-slayer-muzan-hat-costume-explained-horror)
- - [Sunday Comics: Wow!](https://kotaku.com/sunday-comics-wow-1848448633)
- - [Which movie is the 2022 Oscar frontrunner based solely on nominations?](https://www.polygon.com/2022/1/30/22906458/academy-awards-2022-frontrunner-nominees)<!-- GAME:END -->
+ - [Sunday Comics: Wow!](https://kotaku.com/sunday-comics-wow-1848448633)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
