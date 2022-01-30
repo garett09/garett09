@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One Georgia school system will hand MacBook Air or iPad to every student](https://appleinsider.com/articles/22/01/30/dougherty-county-school-system-to-hand-macbook-air-ipads-to-students?utm_medium=rss)
  - [Many China-based sellers who were kicked off Amazon for rule violations have turned to Walmart&#39;s online marketplace to reach US consumers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220130/p3#a220130p3)
- - [Crime blotter: Teen arrested over $42,000 Australian Apple Store thefts](https://appleinsider.com/articles/22/01/30/crime-blotter-teen-arrested-over-42000-australian-apple-store-thefts?utm_medium=rss)
- - [What&#39;s the Deal With Anti-Cheat Software in Online Games?](https://www.wired.com/story/kernel-anti-cheat-online-gaming-vulnerabilities)<!-- TECH:END -->
+ - [Crime blotter: Teen arrested over $42,000 Australian Apple Store thefts](https://appleinsider.com/articles/22/01/30/crime-blotter-teen-arrested-over-42000-australian-apple-store-thefts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
