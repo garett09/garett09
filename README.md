@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Hits YouTube Soundtrack Channel With Over 1300 Copyright Blocks](https://kotaku.com/nintendo-dmca-copyright-strike-youtube-music-mario-soun-1848449021)
  - [This week in PC Gaming: Life is Strange Remastered, The Hundred Year Kingdom and Dying Light 2 Stay Human](https://www.pcgamer.com/this-week-in-pc-gaming-life-is-strange-remastered-the-hundred-year-kingdom-dying-light-2-stay-human)
- - [The horror tradition hiding behind Muzan’s hat on Demon Slayer](https://www.polygon.com/22904658/demon-slayer-muzan-hat-costume-explained-horror)
- - [Sunday Comics: Wow!](https://kotaku.com/sunday-comics-wow-1848448633)<!-- GAME:END -->
+ - [The horror tradition hiding behind Muzan’s hat on Demon Slayer](https://www.polygon.com/22904658/demon-slayer-muzan-hat-costume-explained-horror)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
