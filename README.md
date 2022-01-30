@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Onward and upward for the church](http://9gag.com/gag/aYryQW2)
- - 🚯 [Sometimes that magic eraser is needed](http://9gag.com/gag/a91n111)
- - 🚯 [Someone broke up with their girlfriend today](http://9gag.com/gag/aPZ7ARQ)<!-- MEMES:END -->
+ - 🚖 [First time in Amsterdam. First time ever.](http://9gag.com/gag/a61K1Vm)
+ - 🚯 [We are evolving just backwards](http://9gag.com/gag/a11Wmbw)
+ - 🚯 [You are welcome](http://9gag.com/gag/aLvwnRv)<!-- MEMES:END -->
 
 --- 
 
