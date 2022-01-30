@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live-action Halo TV show release date revealed in new teaser](https://www.theverge.com/2022/1/30/22909041/halo-trailer-paramount-plus-live-action-showtime)
- - [NFT marketplace LooksRare, which launched on Jan. 10, had $9.5B+ in trading volume, $8.3B+ of which seems to be users &quot;wash trading&quot; between their own wallets &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220130/p7#a220130p7)
- - [Brené Brown says she won’t release new episodes of her Spotify-exclusive podcasts ‘until further notice’](https://www.theverge.com/2022/1/30/22909140/brene-brown-spotify-podcast-joe-rogan-controversy)<!-- TECH:END -->
+ - [These are the 5 features we’d like to see in the 5th gen Amazon Echo](https://www.androidauthority.com/amazon-echo-5th-gen-3095027/)
+ - [Apple TV+ &#39;Bad Monkey&#39; adds Alex Moffat to the cast](https://appleinsider.com/articles/22/01/30/apple-tv-bad-monkey-adds-alex-moffat-to-the-cast?utm_medium=rss)
+ - [Live-action Halo TV show release date revealed in new teaser](https://www.theverge.com/2022/1/30/22909041/halo-trailer-paramount-plus-live-action-showtime)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
