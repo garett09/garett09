@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players in The Anacrusis have killed about a billion aliens already](https://www.pcgamer.com/players-in-the-anacrusis-have-killed-about-a-billion-aliens-already)
- - [Open-world snowboarding in Shredders hits pretty soon](https://www.pcgamer.com/open-world-snowboarding-in-shredders-hits-pretty-soon)
- - [NFT Minecraft Project Sells $1.2 Million In Tokens, Deletes Everything A Few Days Later](https://kotaku.com/nft-minecraft-blockchain-scam-blockverse-crypto-1848446906)<!-- GAME:END -->
+ - [The horror tradition hiding behind Muzan’s hat on Demon Slayer](https://www.polygon.com/22904658/demon-slayer-muzan-hat-costume-explained-horror)
+ - [Which movie is the 2022 Oscar frontrunner based solely on nominations?](https://www.polygon.com/2022/1/30/22906458/academy-awards-2022-frontrunner-nominees)
+ - [Players in The Anacrusis have killed about a billion aliens already](https://www.pcgamer.com/players-in-the-anacrusis-have-killed-about-a-billion-aliens-already)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
