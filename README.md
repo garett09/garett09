@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundance&#39;s big winner Nanny is a taut horror film with a heart-piercing twist     - CNET](https://www.cnet.com/news/sundance-film-festival-big-winner-nanny-is-a-taut-horror-film-with-a-heart-piercing-twist/#ftag=CAD590a51e)
- - [FCC announces $1.2 billion fund for broadband deployment in rural areas](https://www.theverge.com/2022/1/29/22908024/fcc-rural-broadband-deployment-funding)
- - [Arculus review: A crypto cold storage wallet with promise](https://appleinsider.com/articles/22/01/29/arculus-review-a-crypto-cold-storage-wallet-with-promise?utm_medium=rss)<!-- TECH:END -->
+ - [Test for COVID using your phone camera? A university lab is trying it out     - CNET](https://www.cnet.com/news/test-for-covid-using-your-phone-camera-a-university-lab-is-trying-it-out/#ftag=CAD590a51e)
+ - [FCC announces $1.2B in funding through the Rural Digital Opportunity Fund to expand broadband services across 32 states, provided by 23 telecom companies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220129/p10#a220129p10)
+ - [Best airline credit cards for February 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
