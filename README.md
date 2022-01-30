@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Open Australia Final resume](http://9gag.com/gag/awzBzPR)
- - 🚯 [That was stupid indeed.](http://9gag.com/gag/awzBMvQ)
- - 🚯 [My crypto portfolio in a nutshell.](http://9gag.com/gag/a31w1G3)<!-- MEMES:END -->
+ - 🚖 [Triple big tasty](http://9gag.com/gag/aXrgnyz)
+ - 🚯 [No SIMP](http://9gag.com/gag/amgvgg9)
+ - 🚯 [A remote restraint device used to stop criminals from running](http://9gag.com/gag/a51W1no)<!-- MEMES:END -->
 
 --- 
 
