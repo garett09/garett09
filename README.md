@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Open-world snowboarding in Shredders hits pretty soon](https://www.pcgamer.com/open-world-snowboarding-in-shredders-hits-pretty-soon)
  - [NFT Minecraft Project Sells $1.2 Million In Tokens, Deletes Everything A Few Days Later](https://kotaku.com/nft-minecraft-blockchain-scam-blockverse-crypto-1848446906)
- - [New God of War mod lets you mess up Kratos in every way imaginable](https://www.pcgamer.com/new-god-of-war-mod-lets-you-mess-up-kratos-in-every-way-imaginable)
- - [Check out the next project from the creator of Cruelty Squad](https://www.pcgamer.com/check-out-the-next-project-from-the-creator-of-cruelty-squad)<!-- GAME:END -->
+ - [New God of War mod lets you mess up Kratos in every way imaginable](https://www.pcgamer.com/new-god-of-war-mod-lets-you-mess-up-kratos-in-every-way-imaginable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
