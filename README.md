@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is best when it’s affordable, so why does it chase the premium market?](https://www.androidauthority.com/google-pixel-budget-3096459/)
- - [New iMac Pro &amp; AirPods Pro included in 2022 refresh, report reiterates](https://appleinsider.com/articles/22/01/30/apples-2022-launches-to-include-imac-pro-airpods-pro-refresh?utm_medium=rss)
- - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals Jan. 30: Up to $400 off 13-inch MacBook Pro, $780 Echelon Smart Fitness Bike, more!](https://appleinsider.com/articles/22/01/30/best-deals-jan-30-up-to-400-off-13-inch-macbook-pro-780-echelon-smart-fitness-bike-more?utm_medium=rss)
+ - [AT&amp;T adds $45 / month unlimited prepaid plan with 5G that you can only get at Walmart](https://www.theverge.com/2022/1/30/22909063/att-5g-unlimited-prepaid-plan-walmart)
+ - [Profile of Ann Lai, who settled a harassment lawsuit against Justin Caldbeck&#39;s Binary Capital in 2020, as she talks about her ordeal publicly for the first time &lpar;Stephanie Clifford/Elle&rpar;](http://www.techmeme.com/220130/p4#a220130p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
