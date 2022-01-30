@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the 5 features we’d like to see in the 5th gen Amazon Echo](https://www.androidauthority.com/amazon-echo-5th-gen-3095027/)
- - [Apple TV+ &#39;Bad Monkey&#39; adds Alex Moffat to the cast](https://appleinsider.com/articles/22/01/30/apple-tv-bad-monkey-adds-alex-moffat-to-the-cast?utm_medium=rss)
- - [Live-action Halo TV show release date revealed in new teaser](https://www.theverge.com/2022/1/30/22909041/halo-trailer-paramount-plus-live-action-showtime)<!-- TECH:END -->
+ - [Here is the Spotify COVID content policy that lets Joe Rogan slide](https://www.theverge.com/2022/1/28/22907069/spotify-joe-rogan-neil-young-covid-19-moderation-policies)
+ - [Spotify finally responds to Joe Rogan controversy with a plan to label podcasts that discuss COVID-19](https://www.theverge.com/2022/1/30/22909432/spotify-covid-19-moderation-joe-rogan-vaccine-misinformation)
+ - [Don&#39;t have cable? Stream your favorite TV channels live instead     - CNET](https://www.cnet.com/tech/services-and-software/dont-have-cable-stream-your-favorite-tv-channels-live-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
