@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Open Australia Final resume](http://9gag.com/gag/awzBzPR)
- - 🚯 [Japanese swords women](http://9gag.com/gag/avAzAOM)
- - 🚯 [No SIMP](http://9gag.com/gag/amgvgg9)<!-- MEMES:END -->
+ - 🚯 [That was stupid indeed.](http://9gag.com/gag/awzBMvQ)
+ - 🚯 [My crypto portfolio in a nutshell.](http://9gag.com/gag/a31w1G3)<!-- MEMES:END -->
 
 --- 
 
