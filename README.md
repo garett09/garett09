@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World\u2019s fastest kick out from UBER](http://9gag.com/gag/aPZ77jR)
- - 🚯 [Follow your passion is the biggest bullshit successful billionaires tell young people](http://9gag.com/gag/azemm1j)
- - 🚯 [Duck fact](http://9gag.com/gag/adgVVAd)<!-- MEMES:END -->
+ - 🚖 [Religion ftw! Right?](http://9gag.com/gag/a91nEMm)
+ - 🚯 [Duck fact](http://9gag.com/gag/adgVVAd)
+ - 🚯 [Holy](http://9gag.com/gag/ajg99ew)<!-- MEMES:END -->
 
 --- 
 
