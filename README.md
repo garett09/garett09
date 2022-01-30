@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of artist Seneca, who says she is the lead designer behind the original Bored Ape Yacht Club NFT collection and has seen relatively little compensation &lpar;Samantha Hissong/Rolling Stone&rpar;](http://www.techmeme.com/220130/p2#a220130p2)
  - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)
- - [Blockdaemon, which provides blockchain infrastructure for node management and staking, raises a $207M Series C at a $3.25B post-money valuation &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220130/p1#a220130p1)
- - [Filings and interviews with decision makers and legal experts reveal bureaucracy with competing mandates at the FAA and FCC caused the 5G launch blowup &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220129/p11#a220129p11)<!-- TECH:END -->
+ - [Blockdaemon, which provides blockchain infrastructure for node management and staking, raises a $207M Series C at a $3.25B post-money valuation &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220130/p1#a220130p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
