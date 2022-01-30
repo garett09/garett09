@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They keep ruining their products for the majority and wonder why they fail](http://9gag.com/gag/avAzA0E)
- - 🚯 [A mural promoting Dying Light 2, established in warsaw. Nice piece of art!](http://9gag.com/gag/a11WryP)
- - 🚯 [Black and white](http://9gag.com/gag/awzBMLy)<!-- MEMES:END -->
+ - 🚖 [Black and white](http://9gag.com/gag/awzBMLy)
+ - 🚯 [They keep ruining their products for the majority and wonder why they fail](http://9gag.com/gag/avAzA0E)
+ - 🚯 [Old but gold](http://9gag.com/gag/avAz5yO)<!-- MEMES:END -->
 
 --- 
 
