@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They keep ruining their products for the majority and wonder why they fail](http://9gag.com/gag/avAzA0E)
- - 🚯 [A mural promoting Dying Light 2, established in warsaw. Nice piece of art!](http://9gag.com/gag/a11WryP)
- - 🚯 [My crypto portfolio in a nutshell.](http://9gag.com/gag/a31w1G3)<!-- MEMES:END -->
+ - 🚖 [I m your hero bb](http://9gag.com/gag/avAzA5n)
+ - 🚯 [Nothing really matters. We are all gonna die.](http://9gag.com/gag/a4131xd)
+ - 🚯 [No SIMP](http://9gag.com/gag/amgvgg9)<!-- MEMES:END -->
 
 --- 
 
