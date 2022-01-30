@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you even pronounce Szymankowszczyzna](http://9gag.com/gag/aQXd3LK)
- - 🚯 [Friendly fire](http://9gag.com/gag/aQXd1A7)
- - 🚯 [Real fans of Country Music don&#39;t listen to new songs anyway, so not much to lose there unless great songs could be made again](http://9gag.com/gag/aqGngLM)<!-- MEMES:END -->
+ - 🚖 [Sometimes people just need a chance to express themselves. Sometimes it&#39;s good to listen.](http://9gag.com/gag/a71Ww8L)
+ - 🚯 [Well, well, well... if it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aBnmxVZ)
+ - 🚯 [Literally useless...](http://9gag.com/gag/ang45mB)<!-- MEMES:END -->
 
 --- 
 
