@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here is the Spotify COVID content policy that lets Joe Rogan slide](https://www.theverge.com/2022/1/28/22907069/spotify-joe-rogan-neil-young-covid-19-moderation-policies)
- - [Spotify finally responds to Joe Rogan controversy with a plan to label podcasts that discuss COVID-19](https://www.theverge.com/2022/1/30/22909432/spotify-covid-19-moderation-joe-rogan-vaccine-misinformation)
- - [Don&#39;t have cable? Stream your favorite TV channels live instead     - CNET](https://www.cnet.com/tech/services-and-software/dont-have-cable-stream-your-favorite-tv-channels-live-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Live-action Halo TV show release date revealed in new trailers](https://www.theverge.com/2022/1/30/22909041/halo-trailer-paramount-plus-live-action-showtime)
+ - [One Georgia school system will hand MacBook Air or iPad to every student](https://appleinsider.com/articles/22/01/30/dougherty-county-school-system-to-hand-macbook-air-ipads-to-students?utm_medium=rss)
+ - [Here is the Spotify COVID content policy that lets Joe Rogan slide](https://www.theverge.com/2022/1/28/22907069/spotify-joe-rogan-neil-young-covid-19-moderation-policies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
