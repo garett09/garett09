@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings and interviews with decision makers and legal experts reveal bureaucracy with competing mandates at the FAA and FCC caused the 5G launch blowup &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220129/p11#a220129p11)
- - [WWE Royal Rumble 2022: Results, Ronda Rousey returns, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-ronda-rousey-returns-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [Joni Mitchell joins Neil Young in ditching Spotify over COVID misinformation     - CNET](https://www.cnet.com/tech/services-and-software/covid-misinformation-prompts-joni-mitchell-to-leave-spotify-after-neil-young-did-same/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)
+ - [Blockdaemon, which provides blockchain infrastructure for node management and staking, raises a $207M Series C at a $3.25B post-money valuation &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220130/p1#a220130p1)
+ - [Filings and interviews with decision makers and legal experts reveal bureaucracy with competing mandates at the FAA and FCC caused the 5G launch blowup &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220129/p11#a220129p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
