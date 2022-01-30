@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First time in Amsterdam. First time ever.](http://9gag.com/gag/a61K1Vm)
- - 🚯 [We are evolving just backwards](http://9gag.com/gag/a11Wmbw)
+ - 🚖 [Dolomites, Italy](http://9gag.com/gag/amgvAMd)
+ - 🚯 [Wish me luck guys!!!](http://9gag.com/gag/azemxYb)
  - 🚯 [You are welcome](http://9gag.com/gag/aLvwnRv)<!-- MEMES:END -->
 
 --- 
