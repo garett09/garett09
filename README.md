@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evolution](http://9gag.com/gag/aPZ73mQ)
- - 🚯 [Oil pipeline breaks and spills into river in Amazon Rainforest](http://9gag.com/gag/aqGnnXY)
+ - 🚖 [They keep ruining their products for the majority and wonder why they fail](http://9gag.com/gag/avAzA0E)
+ - 🚯 [A mural promoting Dying Light 2, established in warsaw. Nice piece of art!](http://9gag.com/gag/a11WryP)
  - 🚯 [Black and white](http://9gag.com/gag/awzBMLy)<!-- MEMES:END -->
 
 --- 
