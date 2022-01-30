@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nasty](http://9gag.com/gag/aBnmgDP)
- - 🚯 [Friendly fire](http://9gag.com/gag/aQXd1A7)
- - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)<!-- MEMES:END -->
+ - 🚖 [Friendly fire](http://9gag.com/gag/aQXd1A7)
+ - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)
+ - 🚯 [Oil pipeline breaks and spills into river in Amazon Rainforest](http://9gag.com/gag/aqGnnXY)<!-- MEMES:END -->
 
 --- 
 
