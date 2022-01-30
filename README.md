@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Triple big tasty](http://9gag.com/gag/aXrgnyz)
- - 🚯 [No SIMP](http://9gag.com/gag/amgvgg9)
- - 🚯 [A remote restraint device used to stop criminals from running](http://9gag.com/gag/a51W1no)<!-- MEMES:END -->
+ - 🚖 [I may be the only one left](http://9gag.com/gag/a81GqwO)
+ - 🚯 [Most useless things ever](http://9gag.com/gag/aBnmd31)
+ - 🚯 [Dolomites, Italy](http://9gag.com/gag/amgvAMd)<!-- MEMES:END -->
 
 --- 
 
