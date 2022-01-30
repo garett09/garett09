@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friendly fire](http://9gag.com/gag/aQXd1A7)
+ - 🚖 [Dad Jokes](http://9gag.com/gag/aOQ774E)
  - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)
- - 🚯 [Oil pipeline breaks and spills into river in Amazon Rainforest](http://9gag.com/gag/aqGnnXY)<!-- MEMES:END -->
+ - 🚯 [This could be us but you playin around](http://9gag.com/gag/aM4xY8R)<!-- MEMES:END -->
 
 --- 
 
