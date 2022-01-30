@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uh..Miss Hoover, i don\u2019t think i agree with your opinion.](http://9gag.com/gag/abgGG2b)
- - 🚯 [\u201cHi tiny hooman, here is tiny gatto\u201d](http://9gag.com/gag/a51WRLo)
- - 🚯 [And they pay a lot for it. Bet some Indian guy would do it better for far less.](http://9gag.com/gag/a413RA6)<!-- MEMES:END -->
+ - 🚖 [Literally useless...](http://9gag.com/gag/ang45mB)
+ - 🚯 [Duck fact](http://9gag.com/gag/adgVVAd)
+ - 🚯 [Holy](http://9gag.com/gag/ajg99ew)<!-- MEMES:END -->
 
 --- 
 
