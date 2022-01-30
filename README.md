@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Religion ftw! Right?](http://9gag.com/gag/a91nEMm)
- - 🚯 [Duck fact](http://9gag.com/gag/adgVVAd)
- - 🚯 [Holy](http://9gag.com/gag/ajg99ew)<!-- MEMES:END -->
+ - 🚖 [Evolution](http://9gag.com/gag/aPZ73mQ)
+ - 🚯 [Oil pipeline breaks and spills into river in Amazon Rainforest](http://9gag.com/gag/aqGnnXY)
+ - 🚯 [Black and white](http://9gag.com/gag/awzBMLy)<!-- MEMES:END -->
 
 --- 
 
