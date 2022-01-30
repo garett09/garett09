@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the fight between six rapid grocery delivery startups in NYC, which raised $5.5B+ since 2020; sources: some are averaging a loss of $20+ per order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p6#a220130p6)
- - [7 ways smartphone brands cheap out on us](https://www.androidauthority.com/ways-smartphone-brands-cheap-out-3096435/)
- - [China launches a pilot in 15 cities and 164 organizations to test the use of blockchain in manufacturing, government data sharing, law enforcement, and more &lpar;Arijit Sarkar/Cointelegraph&rpar;](http://www.techmeme.com/220130/p5#a220130p5)<!-- TECH:END -->
+ - [Brené Brown says she won’t release new episodes of her Spotify-exclusive podcasts ‘until further notice’](https://www.theverge.com/2022/1/30/22909140/brene-brown-spotify-podcast-joe-rogan-controversy)
+ - [Looking to leave Spotify? New subscribers can get 3 free months of Amazon Music Unlimited     - CNET](https://www.cnet.com/tech/services-and-software/looking-to-leave-spotify-new-subscribers-can-get-3-free-months-of-amazon-music-unlimited/#ftag=CAD590a51e)
+ - [A look at the fight between six rapid grocery delivery startups in NYC, which raised $5.5B+ since 2020; sources: some are averaging a loss of $20+ per order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p6#a220130p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
