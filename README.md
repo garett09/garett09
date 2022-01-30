@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Web3? Is it the next-generation of the internet or just vaporware?](https://www.androidauthority.com/what-is-web3-3095627/)
- - [The Internet Gave Rise to &#39;Cancel Culture OCD&#39;](https://www.wired.com/story/cancel-culture-ocd-politics-mental-health-activism)
- - [How to Navigate International Travel Now—and in the Near Future](https://www.wired.com/story/international-travel-covid-19-tips)<!-- TECH:END -->
+ - [Many China-based sellers who were kicked off Amazon for rule violations have turned to Walmart&#39;s online marketplace to reach US consumers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220130/p3#a220130p3)
+ - [Crime blotter: Teen arrested over $42,000 Australian Apple Store thefts](https://appleinsider.com/articles/22/01/30/crime-blotter-teen-arrested-over-42000-australian-apple-store-thefts?utm_medium=rss)
+ - [What&#39;s the Deal With Anti-Cheat Software in Online Games?](https://www.wired.com/story/kernel-anti-cheat-online-gaming-vulnerabilities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
