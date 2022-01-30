@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to block ads across your entire home Wi-Fi network with a Raspberry Pi](https://www.androidauthority.com/pi-hole-install-guide-3096246/)
  - [Profile of artist Seneca, who says she is the lead designer behind the original Bored Ape Yacht Club NFT collection and has seen relatively little compensation &lpar;Samantha Hissong/Rolling Stone&rpar;](http://www.techmeme.com/220130/p2#a220130p2)
- - [Best webcams from 1080p to 4K for 2022     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)
- - [WWE Royal Rumble 2022: Results, Ronda Rousey returns, full recap and analysis     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-ronda-rousey-returns-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best webcams from 1080p to 4K for 2022     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
