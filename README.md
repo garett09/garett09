@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings and interviews with decision makers and legal experts reveal bureaucracy with competing mandates at the FAA and FCC caused the 5G launch blowup &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220129/p11#a220129p11)
  - [Joni Mitchell joins Neil Young in ditching Spotify over COVID misinformation     - CNET](https://www.cnet.com/tech/services-and-software/covid-misinformation-prompts-joni-mitchell-to-leave-spotify-after-neil-young-did-same/#ftag=CAD590a51e)
- - [WWE Royal Rumble 2022: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [Test for COVID using your phone camera? A university lab is trying it out     - CNET](https://www.cnet.com/news/test-for-covid-using-your-phone-camera-a-university-lab-is-trying-it-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WWE Royal Rumble 2022: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
