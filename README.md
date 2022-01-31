@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s21-problems-fixes-3098737/)
- - [Yellowjackets: That ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-episode-10-finale-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)
+ - [Gartner: global chip sales rose 25% YoY in 2021 to a record $583.5B and are projected to grow by 9% this year; capital expenditures grew to at least $146B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p9#a220130p9)
+ - [WWE Royal Rumble 2022: Results, Ronda Rousey&#39;s return, full recap     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-ronda-rouseys-return-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
