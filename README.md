@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take a moment, close your eyes, listen and feel the good old times.](http://9gag.com/gag/aZryZAp)
- - 🚯 [Wish me luck guys!!!](http://9gag.com/gag/azemxYb)
- - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)<!-- MEMES:END -->
+ - 🚖 [Dogs reacting to their name being called.](http://9gag.com/gag/a61KDpe)
+ - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)
+ - 🚯 [Arbeit Arbeit](http://9gag.com/gag/azem24p)<!-- MEMES:END -->
 
 --- 
 
