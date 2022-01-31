@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which is the reason why I changed workplaces so many times &lpar;I didn&#39;t want to be a part of that&rpar;. I even reported it as auto repair fraud more times than I can remember - no one seems to care. Welcome to Lithuania... Or the whole Eastern Europe, most likely. Or maybe everywhere](http://9gag.com/gag/aKm793j)
- - 🚯 [Playing with yourself](http://9gag.com/gag/aLvweog)
- - 🚯 [Every little is helping](http://9gag.com/gag/ang4nD0)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a feature](http://9gag.com/gag/aqGn86p)
+ - 🚯 [Nobody reads this](http://9gag.com/gag/a71WeXr)
+ - 🚯 [Never a joy](http://9gag.com/gag/aXrgNV6)<!-- MEMES:END -->
 
 --- 
 
