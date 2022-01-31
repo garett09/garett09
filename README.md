@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Viral word game Wordle purchased by NYT for ‘low-7 figures’](https://www.polygon.com/22911285/wordle-purchased-new-york-times-viral-word-game)
- - [Limited Run Games is opening an ’80s-themed physical game store](https://www.polygon.com/22911060/limited-run-games-retail-store-north-carolina)
- - [PC Gamer is hiring an Associate Editor in the US](https://www.pcgamer.com/pc-gamer-is-hiring-an-associate-editor-in-the-us)<!-- GAME:END -->
+ - [Wordle sells to the New York Times for a seven figure sum](https://www.pcgamer.com/wordle-sells-to-the-new-york-times-for-a-seven-figure-sum)
+ - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
+ - [Horde &amp; Alliance Players Will Soon Be Able To Raid Together In World Of Warcraft](https://kotaku.com/wow-world-of-warcraft-horde-alliance-cross-faction-bliz-1848455603)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
