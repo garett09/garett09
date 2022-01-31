@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Roblox&#39;s VP of Product Bjorn Book-Larsson about the evolution of the game&#39;s avatars, having more contractors than staff for moderation, and more &lpar;Harrison Abbott/Newsweek&rpar;](http://www.techmeme.com/220131/p4#a220131p4)
- - [Samsung Galaxy Z Fold 3 ends January with a hefty new update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [We asked, you told us: Factory resets remain the exception, not the norm](https://www.androidauthority.com/factory-reset-current-phone-poll-results-3098949/)<!-- TECH:END -->
+ - [Report: VC funding in China for e-commerce, edtech, and social startups fell in 2021, but jumped for semiconductors, robotics, and other hard tech &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/220131/p5#a220131p5)
+ - [Poll: Do you plan to buy a tablet in 2022?](https://www.androidauthority.com/buy-tablet-2022-poll-3098995/)
+ - [Grindr reportedly disappears from app stores in China](https://www.theverge.com/2022/1/31/22910129/grindr-china-app-store-removal-ios-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
