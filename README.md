@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happens when you have heated tile flooring](http://9gag.com/gag/ang4O40)
+ - 🚖 [What hypocrisy](http://9gag.com/gag/a21WMMd)
  - 🚯 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)
- - 🚯 [Love this community](http://9gag.com/gag/aZryZvQ)<!-- MEMES:END -->
+ - 🚯 [The Hollywood Walk of Fame is not as it is portrayed in the movies or TV](http://9gag.com/gag/a81G78Y)<!-- MEMES:END -->
 
 --- 
 
