@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Factory resets remain the exception, not the norm](https://www.androidauthority.com/factory-reset-current-phone-poll-results-3098949/)
- - [Egyptian startup Brimore, which connects SMB suppliers with a network of sellers, raises a $25M Series A led by IFC and Endure Capital &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220131/p3#a220131p3)
- - [In an Instagram video, Joe Rogan defends his decision to book contentious guests, apologizes to Spotify for the backlash, and details how the podcast may change &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220131/p2#a220131p2)<!-- TECH:END -->
+ - [Interview with Roblox&#39;s VP of Product Bjorn Book-Larsson about the evolution of the game&#39;s avatars, having more contractors than staff for moderation, and more &lpar;Harrison Abbott/Newsweek&rpar;](http://www.techmeme.com/220131/p4#a220131p4)
+ - [Samsung Galaxy Z Fold 3 ends January with a hefty new update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [We asked, you told us: Factory resets remain the exception, not the norm](https://www.androidauthority.com/factory-reset-current-phone-poll-results-3098949/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
