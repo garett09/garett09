@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Make Shopping Online Better With The Wii Shop Channel Song](https://kotaku.com/wii-shop-channel-dsi-nintendo-browser-extension-chrome-1848454481)
- - [MLB The Show plays ball on Nintendo Switch this April](https://www.polygon.com/22910967/mlb-the-show-21-lockout-delay-release-dates-nintendo-switch-shohei-ohtani-cover)
- - [X-Men writer and Solid Snake voice actor to write American McGee’s Alice for TV](https://www.polygon.com/22910826/david-hayter-american-mcgees-alice-tv-adaptation)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Introduces World Update VII: Australia](https://news.xbox.com/en-us/2022/01/31/microsoft-flight-simulator-introduces-world-update-australia/)
+ - [Bloodborne’s PS1 demake is out, so you can time travel back to 1995](https://www.polygon.com/22911073/bloodborne-psx-release-free-download-lilith-walther)
+ - [The Best NES Game Turns 30 Years Old Today](https://kotaku.com/gimmick-best-nes-famicom-nintendo-sunsoft-anniversary-1848454555)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
