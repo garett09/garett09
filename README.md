@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pachinko Is Not Doing Well In Japan](https://kotaku.com/pachinko-parlors-covid-19-pandemic-close-japan-business-1848450687)
  - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)
- - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
