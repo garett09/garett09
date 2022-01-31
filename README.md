@@ -179,7 +179,7 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot apologises for DMCA takedown on artist for use of the word &#39;arcane&#39;](https://www.pcgamer.com/riot-apologises-for-dmca-takedown-on-artist-for-use-of-the-word-arcane)
+ - [Anime clothing and merch is everywhere — here’s what we like wearing](https://www.polygon.com/22901481/best-anime-clothing-shirts-merch-to-buy-wear)
  - [Man Makes Power Bank Able To Charge 5,000 Smartphones](https://kotaku.com/diy-power-bank-battery-smartphones-charge-china-do-it-y-1848450770)
  - [343 reckons it&#39;s fixed Halo Infinite&#39;s Big Team Battle matchmaking problem &lpar;again&rpar;](https://www.pcgamer.com/343-reckons-its-fixed-halo-infinites-big-team-battle-matchmaking-problem-again)<!-- GAME:END -->
 
