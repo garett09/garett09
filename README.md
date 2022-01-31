@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Haha](http://9gag.com/gag/apgGDrB)
+ - 🚖 [From archieve](http://9gag.com/gag/a21W07w)
  - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)
- - 🚯 [Why you do tis India](http://9gag.com/gag/aOQ74m6)<!-- MEMES:END -->
+ - 🚯 [New Year&#39;s costume](http://9gag.com/gag/awzB1Wx)<!-- MEMES:END -->
 
 --- 
 
