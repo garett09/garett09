@@ -195,7 +195,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Take a moment, close your eyes, listen and feel the good old times.](http://9gag.com/gag/aZryZAp)
  - 🚯 [Wish me luck guys!!!](http://9gag.com/gag/azemxYb)
- - 🚯 [What hypocrisy](http://9gag.com/gag/a21WMMd)<!-- MEMES:END -->
+ - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)<!-- MEMES:END -->
 
 --- 
 
