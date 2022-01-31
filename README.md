@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like the OnePlus Nord 2T won’t launch anytime soon](https://www.androidauthority.com/oneplus-nord-2t-launch-date-nord-2-ce-price-3098932/)
- - [Netflix: All the TV shows and movies coming in February 2022     - CNET](https://www.cnet.com/news/netflix-all-the-tv-shows-and-movies-coming-in-february-2022/#ftag=CAD590a51e)
- - [Ozark season 4: What to remember before watching     - CNET](https://www.cnet.com/news/ozark-season-4-recap-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Joe Rogan defends podcast and apologizes to Spotify for backlash](https://www.theverge.com/2022/1/31/22910039/joe-rogan-response-neil-young-joni-mitchell-spotify)
+ - [February 2022 security patch hits Samsung Galaxy Note 20 series](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [A profile of Celsius Network, which has been valued at $3B+ and promises up to 18% annual interest on cryptocurrency deposits, as it attracts SEC scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/220131/p1#a220131p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
