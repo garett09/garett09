@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Texas Chainsaw Massacre sequel looks like a gruesome return for Leatherface](https://www.polygon.com/22910650/netflix-texas-chainsaw-massacre-trailer-release-date)
- - [Sony Buys Bungie, Makers of Destiny 2 For $3.6B](https://kotaku.com/sony-ps5-destiny-2-bungie-playstation-microsoft-xbox-ex-1848453326)
- - [First clip from The Batman sets The Riddler’s terrifying tone](https://www.polygon.com/22910727/the-batman-footage-robert-pattinson-the-riddler)<!-- GAME:END -->
+ - [World of Warships: Legends First Update of 2022 is Now Live](https://news.xbox.com/en-us/2022/01/31/world-of-warships-legends-first-update-of-2022-is-now-live/)
+ - [The Chess World Is Losing Its Mind Over One Grandmaster Potentially Trolling Another](https://kotaku.com/pro-chess-sergey-karjakin-magnus-carlsen-2900-tata-stee-1848453065)
+ - [Bungie is Joining PlayStation](https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
