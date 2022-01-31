@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pachinko Is Not Doing Well In Japan](https://kotaku.com/pachinko-parlors-covid-19-pandemic-close-japan-business-1848450687)
- - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)
- - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)<!-- GAME:END -->
+ - [Riot apologises for DMCA takedown on artist for use of the word &#39;arcane&#39;](https://www.pcgamer.com/riot-apologises-for-dmca-takedown-on-artist-for-use-of-the-word-arcane)
+ - [Man Makes Power Bank Able To Charge 5,000 Smartphones](https://kotaku.com/diy-power-bank-battery-smartphones-charge-china-do-it-y-1848450770)
+ - [343 reckons it&#39;s fixed Halo Infinite&#39;s Big Team Battle matchmaking problem &lpar;again&rpar;](https://www.pcgamer.com/343-reckons-its-fixed-halo-infinites-big-team-battle-matchmaking-problem-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
