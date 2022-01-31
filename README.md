@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your friend slipped](http://9gag.com/gag/aXrgMdV)
- - 🚯 [When 2 toddlers meet in traffic](http://9gag.com/gag/a71WOE2)
- - 🚯 [Nothing that goes IN the ass is ever an accident.](http://9gag.com/gag/ay9eqKp)<!-- MEMES:END -->
+ - 🚖 [Clown world is the new normal, for someone](http://9gag.com/gag/azemdDq)
+ - 🚯 [The best experience ever](http://9gag.com/gag/a51W6vL)
+ - 🚯 [Haha](http://9gag.com/gag/apgGDrB)<!-- MEMES:END -->
 
 --- 
 
