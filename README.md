@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an Instagram video, Joe Rogan defends his decision to book contentious guests, apologizes to Spotify for the backlash, and details how the podcast may change &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220131/p2#a220131p2)
- - [WhatsApp could make unlimited Google Drive backups a thing of the past](https://www.androidauthority.com/whatsapp-unlimited-google-drive-backups-3098944/)
- - [Samsung Galaxy Z Flip 5G gains Android 12 in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)<!-- TECH:END -->
+ - [We asked, you told us: Factory resets remain the exception, not the norm](https://www.androidauthority.com/factory-reset-current-phone-poll-results-3098949/)
+ - [Egyptian startup Brimore, which connects SMB suppliers with a network of sellers, raises a $25M Series A led by IFC and Endure Capital &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220131/p3#a220131p3)
+ - [In an Instagram video, Joe Rogan defends his decision to book contentious guests, apologizes to Spotify for the backlash, and details how the podcast may change &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220131/p2#a220131p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
