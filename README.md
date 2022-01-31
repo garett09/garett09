@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Rogan defends podcast and apologizes to Spotify for backlash](https://www.theverge.com/2022/1/31/22910039/joe-rogan-response-neil-young-joni-mitchell-spotify)
- - [February 2022 security patch hits Samsung Galaxy Note 20 series](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [A profile of Celsius Network, which has been valued at $3B+ and promises up to 18% annual interest on cryptocurrency deposits, as it attracts SEC scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/220131/p1#a220131p1)<!-- TECH:END -->
+ - [In an Instagram video, Joe Rogan defends his decision to book contentious guests, apologizes to Spotify for the backlash, and details how the podcast may change &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220131/p2#a220131p2)
+ - [WhatsApp could make unlimited Google Drive backups a thing of the past](https://www.androidauthority.com/whatsapp-unlimited-google-drive-backups-3098944/)
+ - [Samsung Galaxy Z Flip 5G gains Android 12 in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
