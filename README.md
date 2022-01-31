@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Year&#39;s costume](http://9gag.com/gag/awzB1Wx)
- - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)
- - 🚯 [5 hours left for EU citizens to support the stopfinningEU initiative and help end the shark fin trade.](http://9gag.com/gag/ang4vGV)<!-- MEMES:END -->
+ - 🚖 [Stunning work](http://9gag.com/gag/a61K519)
+ - 🚯 [5 hours left for EU citizens to support the stopfinningEU initiative and help end the shark fin trade.](http://9gag.com/gag/ang4vGV)
+ - 🚯 [I understood that reference](http://9gag.com/gag/aqGnxgR)<!-- MEMES:END -->
 
 --- 
 
