@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chord’s Mojo 2 is a pricey gadget aimed at improving the sound of wired headphones](https://www.theverge.com/2022/1/31/22906141/chord-mojo-2-dac-digital-analogue-converter-wired-headphones-audio)
- - [10 Best Chrome Extensions That Are Perfect for Everyone](https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html)
- - [Report: VC funding in China for e-commerce, edtech, and social startups fell in 2021, but jumped for semiconductors, robotics, and other hard tech &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/220131/p5#a220131p5)<!-- TECH:END -->
+ - [Autel Robotics Evo Lite Plus review: 6K camera drone](https://www.androidauthority.com/autel-robotics-evo-lite-review-3094557/)
+ - [French startup Pennylane, which helps automate accounting tasks, raises a $57M Series B led by Sequoia Capital and says it has 300 accounting firms as clients &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220131/p7#a220131p7)
+ - [How to &lpar;Ethically&rpar; Get Rid of Your Unwanted Stuff](https://www.wired.com/story/how-to-ethically-sell-donate-stuff)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
