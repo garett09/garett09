@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend](http://9gag.com/gag/aPZ7m7B)
+ - 🚖 [When your friend slipped](http://9gag.com/gag/aXrgMdV)
  - 🚯 [When 2 toddlers meet in traffic](http://9gag.com/gag/a71WOE2)
- - 🚯 [CHhinese New Year](http://9gag.com/gag/aOQ729D)<!-- MEMES:END -->
+ - 🚯 [Nothing that goes IN the ass is ever an accident.](http://9gag.com/gag/ay9eqKp)<!-- MEMES:END -->
 
 --- 
 
