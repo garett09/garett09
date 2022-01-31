@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every little is helping](http://9gag.com/gag/ang4nD0)
- - 🚯 [This is the difference between an AMATEUR and a MASTER.](http://9gag.com/gag/ang4RrE)
- - 🚯 [Watch before it\u2019s wiped from internet.](http://9gag.com/gag/aNPg90G)<!-- MEMES:END -->
+ - 🚖 [Bruce Lee&#39;s brothers.](http://9gag.com/gag/a51WBwN)
+ - 🚯 [Nobody reads this](http://9gag.com/gag/a71WeXr)
+ - 🚯 [The best way to avoid conflict. Tongue-Fu.](http://9gag.com/gag/aegDOKv)<!-- MEMES:END -->
 
 --- 
 
