@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Jan. 31: $599 5G iPad mini, $160 Elgato Capture Card, more!](https://appleinsider.com/articles/22/01/31/best-deals-jan-31-599-5g-ipad-mini-160-elgato-capture-card-more?utm_medium=rss)
- - [Multiplayer Families Deserve Better Gaming Plans](https://www.wired.com/story/we-need-family-gaming-plans-rant)
- - [Maybe Green Energy Needs ‘Information Batteries&#39; Too](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too)<!-- TECH:END -->
+ - [How to download photos from Google Photos](https://www.androidauthority.com/download-google-photos-3097412/)
+ - [Bluetooth bug wiping out battery life for some macOS Monterey 12.2 users](https://appleinsider.com/articles/22/01/31/bluetooth-bug-wiping-out-battery-life-for-some-macos-monterey-122-users?utm_medium=rss)
+ - [What Is Wi-Fi 6E and Do I Need It?](https://www.wired.com/story/what-is-wi-fi-6e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
