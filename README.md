@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If I have a coin...](http://9gag.com/gag/aXrg492)
- - 🚯 [Wonder what\u00b4s behind those pixels...](http://9gag.com/gag/aggA781)
- - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)<!-- MEMES:END -->
+ - 🚖 [India Vignettes](http://9gag.com/gag/aBnmP82)
+ - 🚯 [If I have a coin...](http://9gag.com/gag/aXrg492)
+ - 🚯 [Wonder what\u00b4s behind those pixels...](http://9gag.com/gag/aggA781)<!-- MEMES:END -->
 
 --- 
 
