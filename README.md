@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds unlisted apps to its App Store](https://www.theverge.com/2022/1/30/22909367/apple-unlisted-apps-app-store)
- - [Spotify responds to controversy with COVID-19 podcast warnings](https://appleinsider.com/articles/22/01/30/spotify-responds-to-controversy-with-covid-19-podcast-warnings?utm_medium=rss)
- - [Halo live-action TV series gets explosive first trailer: See it here     - CNET](https://www.cnet.com/news/halo-live-action-tv-series-gets-explosive-first-trailer-see-it-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S21 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s21-problems-fixes-3098737/)
+ - [Yellowjackets: That ending explained and all our WTF questions     - CNET](https://www.cnet.com/news/yellowjackets-episode-10-finale-ending-explained-and-all-our-wtf-questions/#ftag=CAD590a51e)
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
