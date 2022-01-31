@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix: All the TV shows and movies coming in February 2022     - CNET](https://www.cnet.com/news/netflix-all-the-tv-shows-and-movies-coming-in-february-2022/#ftag=CAD590a51e)
  - [Ozark season 4: What to remember before watching     - CNET](https://www.cnet.com/news/ozark-season-4-recap-what-to-remember-before-watching/#ftag=CAD590a51e)
- - [No Time to Die: That ending explained and all your questions answered     - CNET](https://www.cnet.com/news/no-time-to-die-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [Missed No Time To Die in theaters? Rent it now for $6     - CNET](https://www.cnet.com/news/missed-james-bond-no-time-to-die-in-theaters-rent-it-now-for-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No Time to Die: That ending explained and all your questions answered     - CNET](https://www.cnet.com/news/no-time-to-die-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
