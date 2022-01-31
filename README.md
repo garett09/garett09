@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a feature](http://9gag.com/gag/aqGn86p)
- - 🚯 [Nobody reads this](http://9gag.com/gag/a71WeXr)
- - 🚯 [Never a joy](http://9gag.com/gag/aXrgNV6)<!-- MEMES:END -->
+ - 🚖 [Haha](http://9gag.com/gag/apgGDrB)
+ - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)
+ - 🚯 [Why you do tis India](http://9gag.com/gag/aOQ74m6)<!-- MEMES:END -->
 
 --- 
 
