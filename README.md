@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad 9th Gen, 24-inch iMac up to $100 off, in stock](https://appleinsider.com/articles/22/01/30/apples-ipad-9th-gen-24-inch-imac-up-to-100-off-in-stock?utm_medium=rss)
- - [Gartner: global chip sales rose 25% YoY in 2021 to a record $583.5B and are projected to grow by 9% this year; capital expenditures grew to at least $146B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220130/p9#a220130p9)
- - [WWE Royal Rumble 2022: Results, Ronda Rousey&#39;s return, full recap     - CNET](https://www.cnet.com/news/wwe-royal-rumble-2022-results-ronda-rouseys-return-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ozark season 4: What to remember before watching     - CNET](https://www.cnet.com/news/ozark-season-4-recap-what-to-remember-before-watching/#ftag=CAD590a51e)
+ - [No Time to Die: That ending explained and all your questions answered     - CNET](https://www.cnet.com/news/no-time-to-die-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Missed No Time To Die in theaters? Rent it now for $6     - CNET](https://www.cnet.com/news/missed-james-bond-no-time-to-die-in-theaters-rent-it-now-for-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
