@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world is the new normal, for someone](http://9gag.com/gag/azemdDq)
- - 🚯 [The best experience ever](http://9gag.com/gag/a51W6vL)
- - 🚯 [Haha](http://9gag.com/gag/apgGDrB)<!-- MEMES:END -->
+ - 🚖 [Which is the reason why I changed workplaces so many times &lpar;I didn&#39;t want to be a part of that&rpar;. I even reported it as auto repair fraud more times than I can remember - no one seems to care. Welcome to Lithuania... Or the whole Eastern Europe, most likely. Or maybe everywhere](http://9gag.com/gag/aKm793j)
+ - 🚯 [Europe is cool](http://9gag.com/gag/aM4xmbV)
+ - 🚯 [Artist Uses AI To Illustrate Cartoon Characters In Real Life](http://9gag.com/gag/aPZ7m6Q)<!-- MEMES:END -->
 
 --- 
 
