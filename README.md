@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eggs and ramen](http://9gag.com/gag/aDD46n9)
- - 🚯 [Legend](http://9gag.com/gag/aPZ7m7B)
- - 🚯 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)<!-- MEMES:END -->
+ - 🚖 [Legend](http://9gag.com/gag/aPZ7m7B)
+ - 🚯 [When 2 toddlers meet in traffic](http://9gag.com/gag/a71WOE2)
+ - 🚯 [CHhinese New Year](http://9gag.com/gag/aOQ729D)<!-- MEMES:END -->
 
 --- 
 
