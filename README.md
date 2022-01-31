@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel takes a bite out of Apple](https://www.theverge.com/2022/1/31/22906891/intel-12th-gen-alder-lake-mobile-laptop-chips-msi-ge76-raider-video)
- - [Apple iPhone hits highest European market share during &#39;rollercoaster&#39; year in 2021](https://appleinsider.com/articles/22/01/31/apple-iphone-hits-highest-european-market-share-during-rollercoaster-year-in-2021?utm_medium=rss)
- - [European smartphone sales rose 8% YoY in 2021; Samsung led with a 32% share, Apple had 26%, Xiaomi had 20%, and Oppo had 8%; Huawei dropped from 4th to 8th &lpar;Jan Stryjak/Counterpoint Research&rpar;](http://www.techmeme.com/220131/p18#a220131p18)<!-- TECH:END -->
+ - [Amazon warehouse manager pleads guilty to stealing $273K of computer parts](https://www.theverge.com/2022/1/31/22910289/amazon-warehouse-manager-pleads-guilty-mail-fraud)
+ - [Deal alert: Apple&#39;s 16-inch MacBook Pro is $200 off, in stock right now](https://appleinsider.com/articles/22/01/20/deal-alert-apples-16-inch-macbook-pro-is-200-off-in-stock-right-now?utm_medium=rss)
+ - [BlackBerry sells mobile patents to patent troll for $600M](https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
