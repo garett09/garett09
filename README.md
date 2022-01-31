@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: VC funding in China for e-commerce, edtech, and social startups fell in 2021, but jumped for semiconductors, robotics, and other hard tech &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/220131/p5#a220131p5)
- - [Poll: Do you plan to buy a tablet in 2022?](https://www.androidauthority.com/buy-tablet-2022-poll-3098995/)
- - [Grindr reportedly disappears from app stores in China](https://www.theverge.com/2022/1/31/22910129/grindr-china-app-store-removal-ios-android)<!-- TECH:END -->
+ - [Chord’s Mojo 2 is a pricey gadget aimed at improving the sound of wired headphones](https://www.theverge.com/2022/1/31/22906141/chord-mojo-2-dac-digital-analogue-converter-wired-headphones-audio)
+ - [10 Best Chrome Extensions That Are Perfect for Everyone](https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html)
+ - [Report: VC funding in China for e-commerce, edtech, and social startups fell in 2021, but jumped for semiconductors, robotics, and other hard tech &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/220131/p5#a220131p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
