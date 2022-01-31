@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is finally starting to let users link their PlayStation Network accounts](https://www.theverge.com/2022/1/31/22911101/discord-playstation-network-account-connect-switching-experiments-rollout-partnership)
- - [Wordle will initially remain free, after million-dollar New York Times buy](https://appleinsider.com/articles/22/01/31/wordle-will-initially-remain-free-after-million-dollar-new-york-times-buy?utm_medium=rss)
- - [Echelon persuades USPTO that Peloton’s streaming tech is unpatentable](https://www.theverge.com/2022/1/31/22910520/peloton-echelon-connected-fitness-streaming-patents)<!-- TECH:END -->
+ - [Big video game companies just can’t stop buying studios](https://www.theverge.com/2022/1/31/22911408/sony-bungie-deal-zynga-microsoft-blizzard-gaming-acquisition)
+ - [iMessage reaction support in Google Messages rolling out now](https://www.androidauthority.com/imessage-android-reactions-3099612/)
+ - [Silvergate Bank confirms it&#39;s purchasing the Diem Association&#39;s IP and other assets, issuing $132M in stock and paying an additional $50M in cash for the deal &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220131/p27#a220131p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
