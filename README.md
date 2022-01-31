@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A prototype 500Hz gaming monitor has broken cover](https://www.theverge.com/2022/1/31/22911067/boe-500-hz-gaming-monitor-high-refresh-rate)
- - [It’s the last day for Pixel 3 ‘Original’ quality photo uploads. Make it count.](https://www.androidauthority.com/pixel-3-google-photos-uploads-end-3099473/)
- - [Antenna: Apple TV+, Disney+, HBO Max, and others struggle to retain US subscribers who joined to watch a hit show; some subscribers only stay for a few months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220131/p25#a220131p25)<!-- TECH:END -->
+ - [Discord is finally starting to let users link their PlayStation Network accounts](https://www.theverge.com/2022/1/31/22911101/discord-playstation-network-account-connect-switching-experiments-rollout-partnership)
+ - [Wordle will initially remain free, after million-dollar New York Times buy](https://appleinsider.com/articles/22/01/31/wordle-will-initially-remain-free-after-million-dollar-new-york-times-buy?utm_medium=rss)
+ - [Echelon persuades USPTO that Peloton’s streaming tech is unpatentable](https://www.theverge.com/2022/1/31/22910520/peloton-echelon-connected-fitness-streaming-patents)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
