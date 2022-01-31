@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What hypocrisy](http://9gag.com/gag/a21WMMd)
- - 🚯 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)
- - 🚯 [The Hollywood Walk of Fame is not as it is portrayed in the movies or TV](http://9gag.com/gag/a81G78Y)<!-- MEMES:END -->
+ - 🚖 [Eggs and ramen](http://9gag.com/gag/aDD46n9)
+ - 🚯 [Legend](http://9gag.com/gag/aPZ7m7B)
+ - 🚯 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)<!-- MEMES:END -->
 
 --- 
 
