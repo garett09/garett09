@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ new season introduces 9v9 ‘Control’ mode](https://www.polygon.com/22910545/apex-legends-season-12-defiance-release-date-gameplay-trailer)
- - [PlayStation Now games for February 2022: Grand Theft Auto: Vice City – The Definitive Edition, Death Squared](https://blog.playstation.com/2022/01/31/playstation-now-games-for-february-2022-grand-theft-auto-vice-city-the-definitive-edition-death-squared/)
- - [PlayStation Now games for February 2022: Grand Theft Auto: Vice City – The Definitive Edition, Death Squared](https://blog.playstation.com/2022/01/31/playstation-now-games-for-february-2022-grand-theft-auto-vice-city-the-definitive-edition-death-squared/)<!-- GAME:END -->
+ - [Worms Developer The Latest To Sell Out Over NFTs](https://kotaku.com/worms-team17-nfts-metaworms-scam-blockchain-1848452059)
+ - [Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/01/31/shohei-ohtani-unanimous-al-mvp-is-your-mlb-the-show-22-cover-athlete/)
+ - [Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/01/31/shohei-ohtani-unanimous-al-mvp-is-your-mlb-the-show-22-cover-athlete/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
