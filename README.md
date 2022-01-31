@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warships: Legends First Update of 2022 is Now Live](https://news.xbox.com/en-us/2022/01/31/world-of-warships-legends-first-update-of-2022-is-now-live/)
- - [The Chess World Is Losing Its Mind Over One Grandmaster Potentially Trolling Another](https://kotaku.com/pro-chess-sergey-karjakin-magnus-carlsen-2900-tata-stee-1848453065)
- - [Bungie is Joining PlayStation](https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/)<!-- GAME:END -->
+ - [Make Shopping Online Better With The Wii Shop Channel Song](https://kotaku.com/wii-shop-channel-dsi-nintendo-browser-extension-chrome-1848454481)
+ - [MLB The Show plays ball on Nintendo Switch this April](https://www.polygon.com/22910967/mlb-the-show-21-lockout-delay-release-dates-nintendo-switch-shohei-ohtani-cover)
+ - [X-Men writer and Solid Snake voice actor to write American McGee’s Alice for TV](https://www.polygon.com/22910826/david-hayter-american-mcgees-alice-tv-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
