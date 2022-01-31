@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From archieve](http://9gag.com/gag/a21W07w)
- - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)
- - 🚯 [New Year&#39;s costume](http://9gag.com/gag/awzB1Wx)<!-- MEMES:END -->
+ - 🚖 [India Vignettes](http://9gag.com/gag/aBnmP82)
+ - 🚯 [If I have a coin...](http://9gag.com/gag/aXrg492)
+ - 🚯 [Peace was never an option](http://9gag.com/gag/aqGn6zR)<!-- MEMES:END -->
 
 --- 
 
