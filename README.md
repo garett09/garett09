@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China releases video of spacecraft orbiting Mars for Lunar New Year](https://www.theverge.com/2022/1/31/22910712/china-tianwen-1-spacecraft-mars-orbiter-selfie-video)
- - [For Black History Month, stream these impactful, uplifting movies and TV shows     - CNET](https://www.cnet.com/news/mark-black-history-month-2022-with-these-impactful-uplifting-movies-and-tv-shows/#ftag=CAD590a51e)
- - [Sony acquires &#39;Destiny&#39; game studio Bungie in $3.6B deal](https://appleinsider.com/articles/22/01/31/sony-acquires-destiny-game-studio-bungie-in-36b-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch saves man&#39;s life after fall in freezing temperatures](https://appleinsider.com/articles/22/01/31/apple-watch-credited-for-saving-mans-life-after-fall-in-freezing-temperatures?utm_medium=rss)
+ - [Apple heart study shows older adults outpacing younger adults     - CNET](https://www.cnet.com/health/fitness/apple-heart-study-shows-older-adults-outpacing-younger-adults/#ftag=CAD590a51e)
+ - [Best internet promos of February 2022     - CNET](https://www.cnet.com/home/internet/best-internet-promotions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
