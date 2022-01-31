@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)
- - 🚯 [CHhinese New Year](http://9gag.com/gag/aOQ729D)
- - 🚯 [What happens when you have heated tile flooring](http://9gag.com/gag/ang4O40)<!-- MEMES:END -->
+ - 🚖 [What happens when you have heated tile flooring](http://9gag.com/gag/ang4O40)
+ - 🚯 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)
+ - 🚯 [Love this community](http://9gag.com/gag/aZryZvQ)<!-- MEMES:END -->
 
 --- 
 
