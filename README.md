@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autel Robotics Evo Lite Plus review: 6K camera drone](https://www.androidauthority.com/autel-robotics-evo-lite-review-3094557/)
- - [French startup Pennylane, which helps automate accounting tasks, raises a $57M Series B led by Sequoia Capital and says it has 300 accounting firms as clients &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220131/p7#a220131p7)
- - [How to &lpar;Ethically&rpar; Get Rid of Your Unwanted Stuff](https://www.wired.com/story/how-to-ethically-sell-donate-stuff)<!-- TECH:END -->
+ - [Best deals Jan. 31: $599 5G iPad mini, $160 Elgato Capture Card, more!](https://appleinsider.com/articles/22/01/31/best-deals-jan-31-599-5g-ipad-mini-160-elgato-capture-card-more?utm_medium=rss)
+ - [Multiplayer Families Deserve Better Gaming Plans](https://www.wired.com/story/we-need-family-gaming-plans-rant)
+ - [Maybe Green Energy Needs ‘Information Batteries&#39; Too](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
