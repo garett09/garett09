@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime clothing and merch is everywhere — here’s what we like wearing](https://www.polygon.com/22901481/best-anime-clothing-shirts-merch-to-buy-wear)
- - [Man Makes Power Bank Able To Charge 5,000 Smartphones](https://kotaku.com/diy-power-bank-battery-smartphones-charge-china-do-it-y-1848450770)
- - [343 reckons it&#39;s fixed Halo Infinite&#39;s Big Team Battle matchmaking problem &lpar;again&rpar;](https://www.pcgamer.com/343-reckons-its-fixed-halo-infinites-big-team-battle-matchmaking-problem-again)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake Part 2 should get a reveal later this year](https://www.polygon.com/22910351/final-fantasy-7-remake-part-2-reveal)
+ - [Voice actor Troy Baker cancels voice NFTs partnership after backlash](https://www.pcgamer.com/voice-actor-troy-baker-cancels-voice-nfts-partnership-after-backlash)
+ - [Sony’s next State of Play livestream is all about Gran Turismo 7](https://www.polygon.com/22910334/gran-turismo-7-ps5-state-of-play-stream-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
