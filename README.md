@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch saves man&#39;s life after fall in freezing temperatures](https://appleinsider.com/articles/22/01/31/apple-watch-credited-for-saving-mans-life-after-fall-in-freezing-temperatures?utm_medium=rss)
- - [Apple heart study shows older adults outpacing younger adults     - CNET](https://www.cnet.com/health/fitness/apple-heart-study-shows-older-adults-outpacing-younger-adults/#ftag=CAD590a51e)
- - [Best internet promos of February 2022     - CNET](https://www.cnet.com/home/internet/best-internet-promotions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A prototype 500Hz gaming monitor has broken cover](https://www.theverge.com/2022/1/31/22911067/boe-500-hz-gaming-monitor-high-refresh-rate)
+ - [It’s the last day for Pixel 3 ‘Original’ quality photo uploads. Make it count.](https://www.androidauthority.com/pixel-3-google-photos-uploads-end-3099473/)
+ - [Antenna: Apple TV+, Disney+, HBO Max, and others struggle to retain US subscribers who joined to watch a hit show; some subscribers only stay for a few months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220131/p25#a220131p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
