@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Interactive Entertainment announces it is buying Bungie, which makes Destiny and other games, for $3.6B; Bungie will become an independent subsidiary &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/220131/p21#a220131p21)
- - [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
- - [Meta adds 3D avatars to Instagram Stories, with updates for Messenger and Facebook](https://www.theverge.com/2022/1/31/22910271/meta-3d-avatars-instagram-stories-messenger-facebook)<!-- TECH:END -->
+ - [China releases video of spacecraft orbiting Mars for Lunar New Year](https://www.theverge.com/2022/1/31/22910712/china-tianwen-1-spacecraft-mars-orbiter-selfie-video)
+ - [For Black History Month, stream these impactful, uplifting movies and TV shows     - CNET](https://www.cnet.com/news/mark-black-history-month-2022-with-these-impactful-uplifting-movies-and-tv-shows/#ftag=CAD590a51e)
+ - [Sony acquires &#39;Destiny&#39; game studio Bungie in $3.6B deal](https://appleinsider.com/articles/22/01/31/sony-acquires-destiny-game-studio-bungie-in-36b-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
