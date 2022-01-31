@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [XCKD’s Randall Munroe announces What If? 2, with more scientific answers to life’s most absurd hypothetical questions](https://www.theverge.com/2022/1/31/22910603/xckd-randall-munroe-what-if-2-book-annoucement-release-date)
- - [Apple TV+ animation &#39;Pretzel and the Puppies&#39; premieres Feb. 11](https://appleinsider.com/articles/22/01/31/apple-tv-animation-pretzel-and-the-puppies-premieres-feb-11?utm_medium=rss)
- - [I’ve tried every Kindle and I keep coming back to this one](https://www.androidauthority.com/kindle-oasis-vs-paperwhite-3085150/)<!-- TECH:END -->
+ - [Sony Interactive Entertainment announces it is buying Bungie, which makes Destiny and other games, for $3.6B; Bungie will become an independent subsidiary &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/220131/p21#a220131p21)
+ - [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
+ - [Meta adds 3D avatars to Instagram Stories, with updates for Messenger and Facebook](https://www.theverge.com/2022/1/31/22910271/meta-3d-avatars-instagram-stories-messenger-facebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
