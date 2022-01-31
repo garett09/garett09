@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
- - [Elden Ring isn&#39;t the first time a series has pivoted to open world](https://www.pcgamer.com/elden-ring-isnt-the-first-time-a-series-has-pivoted-to-open-world)
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)<!-- GAME:END -->
+ - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)
+ - [A special Gran Turismo 7 edition of State of Play arrives this Wednesday](https://blog.playstation.com/2022/01/31/359997/)
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
