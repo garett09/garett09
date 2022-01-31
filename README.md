@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Remake Part 2 should get a reveal later this year](https://www.polygon.com/22910351/final-fantasy-7-remake-part-2-reveal)
- - [Voice actor Troy Baker cancels voice NFTs partnership after backlash](https://www.pcgamer.com/voice-actor-troy-baker-cancels-voice-nfts-partnership-after-backlash)
- - [Sony’s next State of Play livestream is all about Gran Turismo 7](https://www.polygon.com/22910334/gran-turismo-7-ps5-state-of-play-stream-date)<!-- GAME:END -->
+ - [Apex Legends’ new season introduces 9v9 ‘Control’ mode](https://www.polygon.com/22910545/apex-legends-season-12-defiance-release-date-gameplay-trailer)
+ - [PlayStation Now games for February 2022: Grand Theft Auto: Vice City – The Definitive Edition, Death Squared](https://blog.playstation.com/2022/01/31/playstation-now-games-for-february-2022-grand-theft-auto-vice-city-the-definitive-edition-death-squared/)
+ - [PlayStation Now games for February 2022: Grand Theft Auto: Vice City – The Definitive Edition, Death Squared](https://blog.playstation.com/2022/01/31/playstation-now-games-for-february-2022-grand-theft-auto-vice-city-the-definitive-edition-death-squared/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
