@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
  - [Former Valve economist calls Facebook&#39;s metaverse &#39;a Steam-like digital economy&#39; with Zuckerberg as its &#39;techno-lord&#39;](https://www.pcgamer.com/former-valve-economist-calls-facebooks-metaverse-a-steam-like-digital-economy-with-zuckerberg-as-its-techno-lord)
- - [Let&#39;s Check Out Ocarina Of Time&#39;s PC &#39;Port&#39;](https://kotaku.com/ocarina-of-time-pc-port-reverse-engineered-zelda-ninten-1848449738)
- - [Warframe&#39;s next expansion is Angels of the Zariman](https://www.pcgamer.com/warframes-next-expansion-is-angels-of-the-zariman)<!-- GAME:END -->
+ - [Let&#39;s Check Out Ocarina Of Time&#39;s PC &#39;Port&#39;](https://kotaku.com/ocarina-of-time-pc-port-reverse-engineered-zelda-ninten-1848449738)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
