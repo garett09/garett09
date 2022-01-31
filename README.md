@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Worms Developer The Latest To Sell Out Over NFTs](https://kotaku.com/worms-team17-nfts-metaworms-scam-blockchain-1848452059)
- - [Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/01/31/shohei-ohtani-unanimous-al-mvp-is-your-mlb-the-show-22-cover-athlete/)
- - [Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/01/31/shohei-ohtani-unanimous-al-mvp-is-your-mlb-the-show-22-cover-athlete/)<!-- GAME:END -->
+ - [Netflix’s Texas Chainsaw Massacre sequel looks like a gruesome return for Leatherface](https://www.polygon.com/22910650/netflix-texas-chainsaw-massacre-trailer-release-date)
+ - [Sony Buys Bungie, Makers of Destiny 2 For $3.6B](https://kotaku.com/sony-ps5-destiny-2-bungie-playstation-microsoft-xbox-ex-1848453326)
+ - [First clip from The Batman sets The Riddler’s terrifying tone](https://www.polygon.com/22910727/the-batman-footage-robert-pattinson-the-riddler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
