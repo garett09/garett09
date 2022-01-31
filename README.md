@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dogs reacting to their name being called.](http://9gag.com/gag/a61KDpe)
- - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)
- - 🚯 [Arbeit Arbeit](http://9gag.com/gag/azem24p)<!-- MEMES:END -->
+ - 🚖 [It aint much but it&#39;s honest work](http://9gag.com/gag/a21WM3O)
+ - 🚯 [CHhinese New Year](http://9gag.com/gag/aOQ729D)
+ - 🚯 [What happens when you have heated tile flooring](http://9gag.com/gag/ang4O40)<!-- MEMES:END -->
 
 --- 
 
