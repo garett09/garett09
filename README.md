@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dolomites, Italy](http://9gag.com/gag/amgvAMd)
- - 🚯 [Wish me luck guys!!!](http://9gag.com/gag/azemxYb)
- - 🚯 [You are welcome](http://9gag.com/gag/aLvwnRv)<!-- MEMES:END -->
+ - 🚖 [You are welcome](http://9gag.com/gag/aLvwnRv)
+ - 🚯 [Onward and upward for the church](http://9gag.com/gag/aYryQW2)
+ - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)<!-- MEMES:END -->
 
 --- 
 
