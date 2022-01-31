@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are welcome](http://9gag.com/gag/aLvwnRv)
- - 🚯 [Onward and upward for the church](http://9gag.com/gag/aYryQW2)
- - 🚯 [This cat can smell wasted weekends](http://9gag.com/gag/apgGR7b)<!-- MEMES:END -->
+ - 🚖 [Take a moment, close your eyes, listen and feel the good old times.](http://9gag.com/gag/aZryZAp)
+ - 🚯 [Wish me luck guys!!!](http://9gag.com/gag/azemxYb)
+ - 🚯 [What hypocrisy](http://9gag.com/gag/a21WMMd)<!-- MEMES:END -->
 
 --- 
 
