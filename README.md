@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon warehouse manager pleads guilty to stealing $273K of computer parts](https://www.theverge.com/2022/1/31/22910289/amazon-warehouse-manager-pleads-guilty-mail-fraud)
- - [Deal alert: Apple&#39;s 16-inch MacBook Pro is $200 off, in stock right now](https://appleinsider.com/articles/22/01/20/deal-alert-apples-16-inch-macbook-pro-is-200-off-in-stock-right-now?utm_medium=rss)
- - [BlackBerry sells mobile patents to patent troll for $600M](https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m?utm_medium=rss)<!-- TECH:END -->
+ - [XCKD’s Randall Munroe announces What If? 2, with more scientific answers to life’s most absurd hypothetical questions](https://www.theverge.com/2022/1/31/22910603/xckd-randall-munroe-what-if-2-book-annoucement-release-date)
+ - [Apple TV+ animation &#39;Pretzel and the Puppies&#39; premieres Feb. 11](https://appleinsider.com/articles/22/01/31/apple-tv-animation-pretzel-and-the-puppies-premieres-feb-11?utm_medium=rss)
+ - [I’ve tried every Kindle and I keep coming back to this one](https://www.androidauthority.com/kindle-oasis-vs-paperwhite-3085150/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
