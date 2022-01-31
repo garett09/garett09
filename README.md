@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a feature](http://9gag.com/gag/aqGn86p)
- - 🚯 [The Birth of Antinatalism &lpar;2006&rpar;](http://9gag.com/gag/a4136OZ)
- - 🚯 [Which is the reason why I changed workplaces so many times &lpar;I didn&#39;t want to be a part of that&rpar;. I even reported it as auto repair fraud more times than I can remember - no one seems to care. Welcome to Lithuania... Or the whole Eastern Europe, most likely. Or maybe everywhere](http://9gag.com/gag/aKm793j)<!-- MEMES:END -->
+ - 🚖 [Every little is helping](http://9gag.com/gag/ang4nD0)
+ - 🚯 [This is the difference between an AMATEUR and a MASTER.](http://9gag.com/gag/ang4RrE)
+ - 🚯 [Watch before it\u2019s wiped from internet.](http://9gag.com/gag/aNPg90G)<!-- MEMES:END -->
 
 --- 
 
