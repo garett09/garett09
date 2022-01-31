@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spotify responds over Joe Rogan uproar, and a growing trend in controversial content](https://www.polygon.com/22909222/spotify-joe-rogan-neil-young-covid-statement)
- - [NES Zelda Map Recreated By One Person Using 25,000 Lego Bricks](https://kotaku.com/the-legend-zelda-lego-fan-massive-large-nes-nintendo-1848449305)
- - [George R.R. Martin may be &quot;shocked&quot; by how his Elden Ring lore has been twisted](https://www.pcgamer.com/george-rr-martin-may-be-shocked-by-how-his-elden-ring-lore-has-been-twisted)<!-- GAME:END -->
+ - [Let&#39;s Check Out Ocarina Of Time&#39;s PC &#39;Port&#39;](https://kotaku.com/ocarina-of-time-pc-port-reverse-engineered-zelda-ninten-1848449738)
+ - [Warframe&#39;s next expansion is Angels of the Zariman](https://www.pcgamer.com/warframes-next-expansion-is-angels-of-the-zariman)
+ - [Five new Steam games you probably missed &lpar;January 31, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-31-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
