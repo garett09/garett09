@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Introduces World Update VII: Australia](https://news.xbox.com/en-us/2022/01/31/microsoft-flight-simulator-introduces-world-update-australia/)
- - [Bloodborne’s PS1 demake is out, so you can time travel back to 1995](https://www.polygon.com/22911073/bloodborne-psx-release-free-download-lilith-walther)
- - [The Best NES Game Turns 30 Years Old Today](https://kotaku.com/gimmick-best-nes-famicom-nintendo-sunsoft-anniversary-1848454555)<!-- GAME:END -->
+ - [Viral word game Wordle purchased by NYT for ‘low-7 figures’](https://www.polygon.com/22911285/wordle-purchased-new-york-times-viral-word-game)
+ - [Limited Run Games is opening an ’80s-themed physical game store](https://www.polygon.com/22911060/limited-run-games-retail-store-north-carolina)
+ - [PC Gamer is hiring an Associate Editor in the US](https://www.pcgamer.com/pc-gamer-is-hiring-an-associate-editor-in-the-us)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
