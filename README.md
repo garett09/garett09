@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download photos from Google Photos](https://www.androidauthority.com/download-google-photos-3097412/)
- - [Bluetooth bug wiping out battery life for some macOS Monterey 12.2 users](https://appleinsider.com/articles/22/01/31/bluetooth-bug-wiping-out-battery-life-for-some-macos-monterey-122-users?utm_medium=rss)
- - [What Is Wi-Fi 6E and Do I Need It?](https://www.wired.com/story/what-is-wi-fi-6e)<!-- TECH:END -->
+ - [Intel takes a bite out of Apple](https://www.theverge.com/2022/1/31/22906891/intel-12th-gen-alder-lake-mobile-laptop-chips-msi-ge76-raider-video)
+ - [Apple iPhone hits highest European market share during &#39;rollercoaster&#39; year in 2021](https://appleinsider.com/articles/22/01/31/apple-iphone-hits-highest-european-market-share-during-rollercoaster-year-in-2021?utm_medium=rss)
+ - [European smartphone sales rose 8% YoY in 2021; Samsung led with a 32% share, Apple had 26%, Xiaomi had 20%, and Oppo had 8%; Huawei dropped from 4th to 8th &lpar;Jan Stryjak/Counterpoint Research&rpar;](http://www.techmeme.com/220131/p18#a220131p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
