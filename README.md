@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SiriusXM rolls out AudioID to track its audience across its apps Pandora and Stitcher and its satellite radio service, offering first-party ad targeting &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220201/p33#a220201p33)
- - [The Google One VPN is now available on iPhones](https://www.theverge.com/2022/2/1/22912595/google-one-vpn-ios-iphone-new-features-safe-disconnect)
- - [Wordle’s acquisition is proof we can’t have nice things anymore](https://www.androidauthority.com/wordle-acquisition-3100257/)<!-- TECH:END -->
+ - [Ericsson attacks Brazilian Apple distributor in 5G patent legal battle](https://appleinsider.com/articles/22/02/01/ericsson-attacks-brazilian-apple-distributor-in-5g-patent-legal-battle?utm_medium=rss)
+ - [Android Auto is looking more like CarPlay in new leaked images](https://www.theverge.com/2022/2/1/22912496/android-auto-coolwalk-ui-carplay-leaked-images)
+ - [The Google One VPN service, which has been available to Android users, comes to iOS for users paying for the 2TB $9.99/month plan &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p34#a220201p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
