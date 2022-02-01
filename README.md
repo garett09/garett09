@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big video game companies just can’t stop buying studios](https://www.theverge.com/2022/1/31/22911408/sony-bungie-deal-zynga-microsoft-blizzard-gaming-acquisition)
- - [iMessage reaction support in Google Messages rolling out now](https://www.androidauthority.com/imessage-android-reactions-3099612/)
- - [Silvergate Bank confirms it&#39;s purchasing the Diem Association&#39;s IP and other assets, issuing $132M in stock and paying an additional $50M in cash for the deal &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220131/p27#a220131p27)<!-- TECH:END -->
+ - [Meta will wind down Express Wi-Fi later this year, its program, launched in 2016, to extend public Wi-Fi access by partnering with ISPs, MNOs in 30+ countries &lpar;Monica Alleven/Fierce Wireless&rpar;](http://www.techmeme.com/220131/p29#a220131p29)
+ - [Doc: the US is pressing EU officials to revise the Digital Markets Act to focus less on tech giants and ensure that the act covers tech firms outside of the US &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220131/p28#a220131p28)
+ - [Sony acquires &#39;Destiny&#39; game studio Bungie in $3.6 billion deal](https://appleinsider.com/articles/22/01/31/sony-acquires-destiny-game-studio-bungie-in-36b-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
