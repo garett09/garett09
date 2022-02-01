@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Is Getting New Guns That Are Bonkers, Like The Exploding Worms Grenade Launcher](https://kotaku.com/destiny-2-bungie-witch-queen-exotics-parasite-grand-ove-1848460464)
- - [Dreams: Check out the nominees for the 3rd Annual Impy Awards](https://blog.playstation.com/2022/02/01/dreams-check-out-the-nominees-for-the-3rd-annual-impy-awards/)
- - [Dreams: Check out the nominees for the 3rd Annual Impy Awards](https://blog.playstation.com/2022/02/01/dreams-check-out-the-nominees-for-the-3rd-annual-impy-awards/)<!-- GAME:END -->
+ - [The After Yang trailer sends Colin Farrell on a spiritual sequel to Steven Spielberg’s A.I.](https://www.polygon.com/22912614/after-yang-trailer-movie)
+ - [Celebrate Anime the Entire Month of February on Xbox and with Xbox Game Pass](https://news.xbox.com/en-us/2022/02/01/celebrate-anime-the-entire-month-of-february/)
+ - [Microsoft’s acquisition of Activision Blizzard will be reviewed by the FTC](https://www.polygon.com/22912444/microsoft-acquisition-activision-blizzard-ftc-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
