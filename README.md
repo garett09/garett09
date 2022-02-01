@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, well, well. How the turntables.](http://9gag.com/gag/azemO4N)
- - 🚯 [I understood that reference](http://9gag.com/gag/aqGnxgR)
- - 🚯 [We are the Solution](http://9gag.com/gag/avAzEWq)<!-- MEMES:END -->
+ - 🚖 [I understood that reference](http://9gag.com/gag/aqGnxgR)
+ - 🚯 [We are the Solution](http://9gag.com/gag/avAzEWq)
+ - 🚯 [I&#39;ll accept that](http://9gag.com/gag/aRr7vVq)<!-- MEMES:END -->
 
 --- 
 
