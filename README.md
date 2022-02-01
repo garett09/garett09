@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The After Yang trailer sends Colin Farrell on a spiritual sequel to Steven Spielberg’s A.I.](https://www.polygon.com/22912614/after-yang-trailer-movie)
- - [Celebrate Anime the Entire Month of February on Xbox and with Xbox Game Pass](https://news.xbox.com/en-us/2022/02/01/celebrate-anime-the-entire-month-of-february/)
- - [Microsoft’s acquisition of Activision Blizzard will be reviewed by the FTC](https://www.polygon.com/22912444/microsoft-acquisition-activision-blizzard-ftc-review)<!-- GAME:END -->
+ - [Shadow Warrior 3 is Launching March 1 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/01/shadow-warrior-3-is-launching-march-1-for-xbox-one-and-xbox-series-xs/)
+ - [Tips For Playing Pokémon Legends: Arceus](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-tips-1848461498)
+ - [Worms publisher Team17 announces NFTs, gets pushback from its developers](https://www.polygon.com/22912714/team17-nfts-aggro-crab-games-playtonic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
