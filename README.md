@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your expensive fishing equipment is crying seeing this ..](http://9gag.com/gag/aXrgKVV)
- - 🚯 [Au Fromage - eat my \u00e0s](http://9gag.com/gag/a81GK8e)
- - 🚯 [Fun fact: Harald Bluetooth never used Bluetooth in his life](http://9gag.com/gag/aqGnY4P)<!-- MEMES:END -->
+ - 🚖 [This dude demonstrates how he breaks a lock.](http://9gag.com/gag/a61KGQm)
+ - 🚯 [Equal Rights](http://9gag.com/gag/a11WOvD)
+ - 🚯 [This man got insane arm strength for sure.](http://9gag.com/gag/aYryAZ2)<!-- MEMES:END -->
 
 --- 
 
