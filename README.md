@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apps and Gadgets to Help You Cope With Tinnitus](https://www.wired.com/story/how-tech-can-help-you-cope-with-tinnitus)
- - [Sony’s Bungie acquisition is all about Fortnite](https://www.theverge.com/2022/2/1/22912075/sony-bungie-acquisition-fortnite-playstation-destiny-live-service-games)
- - [Corsair’s PS5-ready M.2 SSD is fast and relatively inexpensive](https://www.theverge.com/2022/2/1/22900857/corsair-ps5-m-2-pcie-4-ssd-speed-price-features)<!-- TECH:END -->
+ - [Arculus review: A crypto cold storage wallet with promise](https://appleinsider.com/articles/22/01/29/arculus-review-a-crypto-cold-storage-wallet-with-promise?utm_medium=rss)
+ - [Solana Labs launches Solana Pay, a payments protocol to let merchants accept payments directly from customers in USDC, SOL, or other Solana-based tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220201/p28#a220201p28)
+ - [Indian politician Rahul Gandhi writes to Twitter&#39;s CEO alleging it has been unwittingly complicit in a government campaign to limit new followers to his account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220201/p27#a220201p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
