@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arculus review: A crypto cold storage wallet with promise](https://appleinsider.com/articles/22/01/29/arculus-review-a-crypto-cold-storage-wallet-with-promise?utm_medium=rss)
- - [Solana Labs launches Solana Pay, a payments protocol to let merchants accept payments directly from customers in USDC, SOL, or other Solana-based tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220201/p28#a220201p28)
- - [Indian politician Rahul Gandhi writes to Twitter&#39;s CEO alleging it has been unwittingly complicit in a government campaign to limit new followers to his account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220201/p27#a220201p27)<!-- TECH:END -->
+ - [Get your Valentine&#39;s Day gift ready with an extra 15% off at eBay](https://appleinsider.com/articles/22/02/01/get-your-valentines-day-gift-ready-with-an-extra-15-off-at-ebay?utm_medium=rss)
+ - [Crisis Text Line stops sharing conversation data with AI company](https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health)
+ - [Finnish startup MariaDB raises a $104M Series D and plans for an IPO on the NYSE via a SPAC merger &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220201/p29#a220201p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
