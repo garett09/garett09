@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Byju&#39;s is in talks with at least three SPACs for its IPO with plans to finalize in three to four weeks, and might raise a pre-IPO funding of $750M-$1B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220131/p35#a220131p35)
- - [Best PC speakers for 2022     - CNET](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CAD590a51e)
- - [Nonprofit suicide chat service Crisis Text Line ends its data sharing relationship with for-profit spinoff Loris.ai and asks the company to delete existing data &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220131/p34#a220131p34)<!-- TECH:END -->
+ - [Motor Trend reimagines the &#39;Apple Car,&#39; sees autonomous rideshare in Apple&#39;s future](https://appleinsider.com/articles/22/02/01/motor-trend-reimagines-the-apple-car-sees-autonomous-rideshare-in-apples-future?utm_medium=rss)
+ - [Expecting a charging bump on the Samsung Galaxy S22? You’d be disappointed.](https://www.androidauthority.com/samsung-galaxy-s22-charging-3099730/)
+ - [Deepnote, which offers a collaborative data science platform on top of Jupyter-based notebooks, raises a $20M Series A co-led by Index Ventures and Accel &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220131/p36#a220131p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
