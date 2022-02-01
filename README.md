@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you for the sacrifice!](http://9gag.com/gag/abgG2mp)
- - 🚯 [BLM in a nutshell](http://9gag.com/gag/ay9eQxb)
- - 🚯 [Imagine having to deal with this as a parent](http://9gag.com/gag/a21Wbq1)<!-- MEMES:END -->
+ - 🚖 [That is really some interesting engineering](http://9gag.com/gag/a71Wp6w)
+ - 🚯 [Your expensive fishing equipment is crying seeing this ..](http://9gag.com/gag/aXrgKVV)
+ - 🚯 [Rallying in the 1980s was mental. Driver: Walter R\u00f6hrl](http://9gag.com/gag/a11WLjb)<!-- MEMES:END -->
 
 --- 
 
