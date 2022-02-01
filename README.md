@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She got surprised that her Action&#39;s brought consequences](http://9gag.com/gag/aegDZYv)
- - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)
- - 🚯 [Me: Mortal Kombat 11, Aight imma head out](http://9gag.com/gag/aAGeKP9)<!-- MEMES:END -->
+ - 🚖 [Well, well, well. How the turntables.](http://9gag.com/gag/azemO4N)
+ - 🚯 [I understood that reference](http://9gag.com/gag/aqGnxgR)
+ - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)<!-- MEMES:END -->
 
 --- 
 
