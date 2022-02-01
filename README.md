@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Island, a secure web browser for businesses, emerges from stealth with ~$100M from Sequoia, Insight, and others; sources say it was recently valued at ~$500M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220201/p19#a220201p19)
- - [Docs: Tesla will issue an OTA update to its FSD software that let vehicles roll through stop signs without coming to a halt, affecting around 54,000 vehicles &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/220201/p18#a220201p18)
- - [Chilean startup Betterfly, a digital insurance service for employers, raises a $125M Series C at a $1B valuation led by Glade Brook Capital &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/220201/p17#a220201p17)<!-- TECH:END -->
+ - [Apps and Gadgets to Help You Cope With Tinnitus](https://www.wired.com/story/how-tech-can-help-you-cope-with-tinnitus)
+ - [Sony’s Bungie acquisition is all about Fortnite](https://www.theverge.com/2022/2/1/22912075/sony-bungie-acquisition-fortnite-playstation-destiny-live-service-games)
+ - [Corsair’s PS5-ready M.2 SSD is fast and relatively inexpensive](https://www.theverge.com/2022/2/1/22900857/corsair-ps5-m-2-pcie-4-ssd-speed-price-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
