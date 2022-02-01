@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pok\u00e9mon Logic](http://9gag.com/gag/aVxwL7v)
- - 🚯 [Every goddam time](http://9gag.com/gag/a81G2ee)
- - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)<!-- MEMES:END -->
+ - 🚖 [Every goddam time](http://9gag.com/gag/a81G2ee)
+ - 🚯 [I considering a job in Helsinki &lpar;from Canada&rpar;. Anything I should know?](http://9gag.com/gag/ajg9Z4R)
+ - 🚯 [Best $5 watch](http://9gag.com/gag/aVxwZ22)<!-- MEMES:END -->
 
 --- 
 
