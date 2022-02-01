@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder says Elden Ring may be vulnerable to the same security flaws as Dark Souls](https://www.pcgamer.com/modder-says-elden-ring-may-be-vulnerable-to-the-same-security-flaws-as-dark-souls)
- - [Halo Infinite’s Samurai Event Is Back, And It’s Actually Good This Time](https://kotaku.com/halo-infinite-s-samurai-event-is-back-and-it-s-actuall-1848302455)
- - [Yeehaw! Pokémon Unite update puts Zeraora in a studded cowboy hat](https://www.polygon.com/22912791/pokemon-unite-update-battle-pass-zeraora-cowboy)<!-- GAME:END -->
+ - [True Fear: A Dream to Reality](https://news.xbox.com/en-us/2022/02/01/true-fear-a-dream-to-reality/)
+ - [Upset by Kickstarter’s decisions, some indie game creators are going their own way](https://www.polygon.com/tabletop-games/22912969/kickstarter-alienating-creators-zine-quest-zine-month)
+ - [Shadow Warrior 3 confirmed for March 1 with a new voice for Lo Wang](https://www.pcgamer.com/shadow-warrior-3-confirmed-for-march-1-with-a-new-voice-for-lo-wang)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
