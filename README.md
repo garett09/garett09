@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: Contrast, CrossfireX, Ark: Ultimate Survivor Edition, and More](https://news.xbox.com/en-us/2022/02/01/xbox-game-pass-update-february-2022/)
- - [Discord integration for PlayStation is out which is great for our cross-play pals](https://www.pcgamer.com/discord-integration-for-playstation-is-out-which-is-great-for-our-cross-play-pals)
- - [Roots of Pacha looks to be everything I wanted from Stardew Valley and more](https://www.pcgamer.com/roots-of-pacha-preview)<!-- GAME:END -->
+ - [Pokémon Go’s Lunar New Year event kicks off with Shiny Litleo](https://www.polygon.com/22912248/pokemon-go-chinese-lunar-new-year-dates-shiny-litleo-espurr)
+ - [Players’ Choice: Vote for January 2022’s best new game](https://blog.playstation.com/2022/02/01/players-choice-vote-for-january-2022s-best-new-game/)
+ - [Players’ Choice: Vote for January 2022’s best new game](https://blog.playstation.com/2022/02/01/players-choice-vote-for-january-2022s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
