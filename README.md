@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is really some interesting engineering](http://9gag.com/gag/a71Wp6w)
- - 🚯 [Your expensive fishing equipment is crying seeing this ..](http://9gag.com/gag/aXrgKVV)
- - 🚯 [Rallying in the 1980s was mental. Driver: Walter R\u00f6hrl](http://9gag.com/gag/a11WLjb)<!-- MEMES:END -->
+ - 🚖 [Your expensive fishing equipment is crying seeing this ..](http://9gag.com/gag/aXrgKVV)
+ - 🚯 [Au Fromage - eat my \u00e0s](http://9gag.com/gag/a81GK8e)
+ - 🚯 [Fun fact: Harald Bluetooth never used Bluetooth in his life](http://9gag.com/gag/aqGnY4P)<!-- MEMES:END -->
 
 --- 
 
