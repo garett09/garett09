@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [True Fear: A Dream to Reality](https://news.xbox.com/en-us/2022/02/01/true-fear-a-dream-to-reality/)
- - [Upset by Kickstarter’s decisions, some indie game creators are going their own way](https://www.polygon.com/tabletop-games/22912969/kickstarter-alienating-creators-zine-quest-zine-month)
- - [Shadow Warrior 3 confirmed for March 1 with a new voice for Lo Wang](https://www.pcgamer.com/shadow-warrior-3-confirmed-for-march-1-with-a-new-voice-for-lo-wang)<!-- GAME:END -->
+ - [Ready to Enter the Zone? Chernobylite Comes to Xbox Series X|S April 21](https://news.xbox.com/en-us/2022/02/01/ready-to-enter-the-zone-chernobylite-comes-to-xbox-series-xs-april-21/)
+ - [Summer Wars Creator&#39;s New Anime Is Visually Stunning, But Misses The Mark](https://kotaku.com/belle-review-anime-hosoda-mamoru-animated-film-summer-w-1848463353)
+ - [Notorious YouTube Streamer Stole $500,000 From Fans In Crypto Scheme &lpar;And Won&#39;t Give It Back&rpar;](https://kotaku.com/youtube-twitch-streamer-ice-poseidon-stole-money-crypto-1848463229)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
