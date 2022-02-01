@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get your Valentine&#39;s Day gift ready with an extra 15% off at eBay](https://appleinsider.com/articles/22/02/01/get-your-valentines-day-gift-ready-with-an-extra-15-off-at-ebay?utm_medium=rss)
- - [Crisis Text Line stops sharing conversation data with AI company](https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health)
- - [Finnish startup MariaDB raises a $104M Series D and plans for an IPO on the NYSE via a SPAC merger &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220201/p29#a220201p29)<!-- TECH:END -->
+ - [Apple&#39;s got $3 trillion, Intel says it&#39;s got an M1 killer, and Spotify has problems - January 2022 in review](https://appleinsider.com/articles/22/02/01/apples-got-3-trillion-intel-says-its-got-an-m1-killer-and-spotify-has-problems---january-2022-in-review?utm_medium=rss)
+ - [Apple&#39;s M1 Max 16-inch MacBook Pro with 64GB RAM is $200 off, in stock right now](https://appleinsider.com/articles/22/02/01/apples-m1-max-16-inch-macbook-pro-with-64gb-ram-is-200-off-in-stock-right-now?utm_medium=rss)
+ - [Research: blockchain-based virtual real estate sales hit $501M in 2021 across Sandbox, Decentraland, Cryptovoxels, and Somnium; sales in January 2022 were $85M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/220201/p30#a220201p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
