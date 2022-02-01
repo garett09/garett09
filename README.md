@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inspectorio, a SaaS provider that helps companies with supply chain quality control, compliance, and tracking, raises a $50M Series B led by Insight Partners &lpar;Rebecca Szkutak/Forbes&rpar;](http://www.techmeme.com/220201/p3#a220201p3)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Feb. 1&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Edtech startup Scaler, which offers upskilling courses like data science and ML to working professionals in India, raises a $55M Series B at a $710M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220201/p2#a220201p2)<!-- TECH:END -->
+ - [Riyadh-based Retailo, which aims to digitize mom-and-pop stores in Saudi Arabia, Pakistan, and the UAE, raises a $36M Series A led by Graphene Ventures &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220201/p5#a220201p5)
+ - [Yahoo Japan is going dark in Europe](https://www.theverge.com/2022/2/1/22911965/yahoo-japan-europe-offline-regulations-compliance-gdpr)
+ - [You heard of port-free phones before, but how about a port-free laptop?](https://www.androidauthority.com/port-free-laptop-3099796/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
