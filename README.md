@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
- - [The elusive GeForce GT 1010 graphics card has been tortured by 3DMark&#39;s 4K benchmark](https://www.pcgamer.com/the-elusive-geforce-gt-1010-graphics-card-has-been-tortured-by-3dmarks-4k-benchmark)
- - [Fate/Grand Order Director Is Going Independent](https://kotaku.com/fate-grand-order-aniplex-sony-yousuke-shiokawa-independ-1848458328)<!-- GAME:END -->
+ - [Sony boss says to &#39;expect more&#39; studio scoop-ups in the future](https://www.pcgamer.com/sony-boss-says-to-expect-more-studio-scoop-ups-in-the-future)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
+ - [Microsoft&#39;s acquisition of Activision Blizzard to be investigated by the Federal Trade Commission](https://www.pcgamer.com/microsofts-acquisition-of-activision-blizzard-to-be-investigated-by-the-federal-trade-commission)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
