@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal reports Q4 revenue of $6.92B, up 13% YoY, net income of $801M, down from $1.57B; stock down 16% after hours on weak Q1 guidance &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220201/p39#a220201p39)
- - [Riot’s latest League of Legends spinoff hits Netflix Games as a mobile exclusive](https://www.theverge.com/2022/2/1/22912706/riot-games-hextech-mayhem-netflix-mobile-exclusive)
- - [Amid tech stocks&#39; poor performance, especially IPOs, some venture firms are cutting back investments and startup valuations, as they renegotiate funding deals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220201/p38#a220201p38)<!-- TECH:END -->
+ - [The best wired or wireless gaming mouse you can buy](https://www.theverge.com/21252193/best-gaming-mouse)
+ - [Sundar Pichai says Pixel sales hit an all-time quarterly high despite supply issues; Pixel sales are lumped in Alphabet&#39;s &quot;Other&quot; category, which jumped 22% YoY &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/220201/p41#a220201p41)
+ - [Apple Watch saves man&#39;s life after hard fall from an electric bike](https://appleinsider.com/articles/22/02/01/apple-watch-saves-mans-life-after-hard-fall-from-an-electric-bike?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
