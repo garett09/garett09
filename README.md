@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)
- - 🚯 [Germany f**k yeah.](http://9gag.com/gag/ang4r6q)
- - 🚯 [Hurting a poor girl to rob her stuff? Here, have the `good landing` price!](http://9gag.com/gag/apgGVEB)<!-- MEMES:END -->
+ - 🚖 [I&#39;m officially old. Got real excited about this 2nd hand pot.](http://9gag.com/gag/aZryv5n)
+ - 🚯 [This sparks joy](http://9gag.com/gag/axB9meD)
+ - 🚯 [Happy](http://9gag.com/gag/aXrge3z)<!-- MEMES:END -->
 
 --- 
 
