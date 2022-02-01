@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s Lunar New Year event kicks off with Shiny Litleo](https://www.polygon.com/22912248/pokemon-go-chinese-lunar-new-year-dates-shiny-litleo-espurr)
- - [Players’ Choice: Vote for January 2022’s best new game](https://blog.playstation.com/2022/02/01/players-choice-vote-for-january-2022s-best-new-game/)
- - [Players’ Choice: Vote for January 2022’s best new game](https://blog.playstation.com/2022/02/01/players-choice-vote-for-january-2022s-best-new-game/)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus basically gives you a shiny Ponyta](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22911069/shiny-ponyta-yota-horsehoe-plains)
+ - [Xbox Celebrates Black History Month with Support of Black Creators, Players, and a Culture of Inclusion](https://news.xbox.com/en-us/2022/02/01/xbox-celebrates-black-history-month-2022/)
+ - [Deep Rock Galactic is becoming a frantic co-op adventure board game](https://www.polygon.com/tabletop-games/22912132/deep-rock-galactic-board-game-preview-interview-release-date-price-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
