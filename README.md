@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s got $3 trillion, Intel says it&#39;s got an M1 killer, and Spotify has problems - January 2022 in review](https://appleinsider.com/articles/22/02/01/apples-got-3-trillion-intel-says-its-got-an-m1-killer-and-spotify-has-problems---january-2022-in-review?utm_medium=rss)
- - [Apple&#39;s M1 Max 16-inch MacBook Pro with 64GB RAM is $200 off, in stock right now](https://appleinsider.com/articles/22/02/01/apples-m1-max-16-inch-macbook-pro-with-64gb-ram-is-200-off-in-stock-right-now?utm_medium=rss)
- - [Research: blockchain-based virtual real estate sales hit $501M in 2021 across Sandbox, Decentraland, Cryptovoxels, and Somnium; sales in January 2022 were $85M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/220201/p30#a220201p30)<!-- TECH:END -->
+ - [Google One VPN is now compatible with the iPhone and iPad](https://appleinsider.com/articles/22/02/01/google-one-vpn-is-now-compatible-with-the-iphone-and-ipad?utm_medium=rss)
+ - [iPhone SE 3, new iPads allegedly being tested in India](https://appleinsider.com/articles/22/02/01/iphone-se-3-new-ipads-allegedly-being-tested-in-india?utm_medium=rss)
+ - [Internal messages from the Trickbot ransomware gang during 2020 detail its structure, target choices, plans to open St. Petersburg offices, and more &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220201/p32#a220201p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
