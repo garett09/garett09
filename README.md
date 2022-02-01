@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to say goodbye to Google’s best budget phone in years](https://www.androidauthority.com/google-pixel-4a-delisted-3098133/)
- - [Taiwan-based GlobalWafers&#39; proposed &amp;euro;4.35B takeover of German chip supplier Siltronic falls apart as Germany&#39;s government misses the approval deadline &lpar;Reuters&rpar;](http://www.techmeme.com/220201/p1#a220201p1)
- - [Motor Trend reimagines the &#39;Apple Car,&#39; sees autonomous rideshare in Apple&#39;s future](https://appleinsider.com/articles/22/02/01/motor-trend-reimagines-the-apple-car-sees-autonomous-rideshare-in-apples-future?utm_medium=rss)<!-- TECH:END -->
+ - [Inspectorio, a SaaS provider that helps companies with supply chain quality control, compliance, and tracking, raises a $50M Series B led by Insight Partners &lpar;Rebecca Szkutak/Forbes&rpar;](http://www.techmeme.com/220201/p3#a220201p3)
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Feb. 1&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Edtech startup Scaler, which offers upskilling courses like data science and ML to working professionals in India, raises a $55M Series B at a $710M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220201/p2#a220201p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
