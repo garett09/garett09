@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [League of Legends’ new champion can save allies from death, for a price](https://www.polygon.com/22911588/league-of-legends-new-champion-renata-glasc-ability-kit-ultimate-passive-lol)
  - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Bloodborne comes to the PC in the form of a fan demake](https://www.pcgamer.com/bloodborne-comes-to-the-pc-in-the-form-of-a-fan-demake)
- - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)<!-- GAME:END -->
+ - [Bloodborne comes to the PC in the form of a fan demake](https://www.pcgamer.com/bloodborne-comes-to-the-pc-in-the-form-of-a-fan-demake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
