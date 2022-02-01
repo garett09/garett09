@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony boss says to &#39;expect more&#39; studio scoop-ups in the future](https://www.pcgamer.com/sony-boss-says-to-expect-more-studio-scoop-ups-in-the-future)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
- - [Microsoft&#39;s acquisition of Activision Blizzard to be investigated by the Federal Trade Commission](https://www.pcgamer.com/microsofts-acquisition-of-activision-blizzard-to-be-investigated-by-the-federal-trade-commission)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: Contrast, CrossfireX, Ark: Ultimate Survivor Edition, and More](https://news.xbox.com/en-us/2022/02/01/xbox-game-pass-update-february-2022/)
+ - [Discord integration for PlayStation is out which is great for our cross-play pals](https://www.pcgamer.com/discord-integration-for-playstation-is-out-which-is-great-for-our-cross-play-pals)
+ - [Roots of Pacha looks to be everything I wanted from Stardew Valley and more](https://www.pcgamer.com/roots-of-pacha-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
