@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rallying in the 1980s was mental. Driver: Walter R\u00f6hrl](http://9gag.com/gag/a11WLjb)
- - 🚯 [Older Clip That Made Me Smile Big](http://9gag.com/gag/a91n2om)
- - 🚯 [Gma helps to stop pos shoplifter](http://9gag.com/gag/avAzRXE)<!-- MEMES:END -->
+ - 🚖 [Thank God he made these things slow af... Imagine if they could crawl 2-3 times faster](http://9gag.com/gag/aKm7Y3N)
+ - 🚯 [Fun fact: Harald Bluetooth never used Bluetooth in his life](http://9gag.com/gag/aqGnY4P)
+ - 🚯 [Die](http://9gag.com/gag/aPZ7Xzw)<!-- MEMES:END -->
 
 --- 
 
