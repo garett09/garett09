@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ new champion can save allies from death, for a price](https://www.polygon.com/22911588/league-of-legends-new-champion-renata-glasc-ability-kit-ultimate-passive-lol)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Bloodborne comes to the PC in the form of a fan demake](https://www.pcgamer.com/bloodborne-comes-to-the-pc-in-the-form-of-a-fan-demake)<!-- GAME:END -->
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
+ - [The elusive GeForce GT 1010 graphics card has been tortured by 3DMark&#39;s 4K benchmark](https://www.pcgamer.com/the-elusive-geforce-gt-1010-graphics-card-has-been-tortured-by-3dmarks-4k-benchmark)
+ - [The world&#39;s fastest gaming monitor sports a 500Hz refresh rate](https://www.pcgamer.com/the-worlds-fastest-gaming-monitor-sports-a-500hz-refresh-rate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
