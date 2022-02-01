@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [I&#39;m officially old. Got real excited about this 2nd hand pot.](http://9gag.com/gag/aZryv5n)
- - 🚯 [This sparks joy](http://9gag.com/gag/axB9meD)
- - 🚯 [Happy](http://9gag.com/gag/aXrge3z)<!-- MEMES:END -->
+ - 🚯 [True](http://9gag.com/gag/a21WxKE)
+ - 🚯 [Gay friends: what&#39;s stopping you from being gay? Me:](http://9gag.com/gag/a81GzDe)<!-- MEMES:END -->
 
 --- 
 
