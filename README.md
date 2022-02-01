@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every goddam time](http://9gag.com/gag/a81G2ee)
- - 🚯 [I considering a job in Helsinki &lpar;from Canada&rpar;. Anything I should know?](http://9gag.com/gag/ajg9Z4R)
- - 🚯 [Best $5 watch](http://9gag.com/gag/aVxwZ22)<!-- MEMES:END -->
+ - 🚖 [German wild Lynx](http://9gag.com/gag/aogPLo2)
+ - 🚯 [Around the world](http://9gag.com/gag/aNPgBNr)
+ - 🚯 [Kitty knew his person was on her way](http://9gag.com/gag/amgvM1o)<!-- MEMES:END -->
 
 --- 
 
