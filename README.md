@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mr Nobody. That bus scene.](http://9gag.com/gag/aM4xXYR)
- - 🚯 [Big scams](http://9gag.com/gag/aogP8g2)
- - 🚯 [Thank you for the sacrifice!](http://9gag.com/gag/abgG2mp)<!-- MEMES:END -->
+ - 🚖 [Thank you for the sacrifice!](http://9gag.com/gag/abgG2mp)
+ - 🚯 [BLM in a nutshell](http://9gag.com/gag/ay9eQxb)
+ - 🚯 [Imagine having to deal with this as a parent](http://9gag.com/gag/a21Wbq1)<!-- MEMES:END -->
 
 --- 
 
