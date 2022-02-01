@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seven years of pole vaulting](http://9gag.com/gag/aM4xvE1)
- - 🚯 [Mr Nobody. That bus scene.](http://9gag.com/gag/aM4xXYR)
- - 🚯 [Older Clip That Made Me Smile Big](http://9gag.com/gag/a91n2om)<!-- MEMES:END -->
+ - 🚖 [Rallying in the 1980s was mental. Driver: Walter R\u00f6hrl](http://9gag.com/gag/a11WLjb)
+ - 🚯 [Older Clip That Made Me Smile Big](http://9gag.com/gag/a91n2om)
+ - 🚯 [Gma helps to stop pos shoplifter](http://9gag.com/gag/avAzRXE)<!-- MEMES:END -->
 
 --- 
 
