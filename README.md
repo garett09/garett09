@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle sells to the New York Times for a seven figure sum](https://www.pcgamer.com/wordle-sells-to-the-new-york-times-for-a-seven-figure-sum)
- - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
- - [Horde &amp; Alliance Players Will Soon Be Able To Raid Together In World Of Warcraft](https://kotaku.com/wow-world-of-warcraft-horde-alliance-cross-faction-bliz-1848455603)<!-- GAME:END -->
+ - [Oscar-hating director of It Takes Two is helping make it into a movie](https://www.pcgamer.com/oscar-hating-director-of-it-takes-two-is-helping-make-it-into-a-movie)
+ - [RIP moon: an ode to the big rock videogames love to blow up](https://www.pcgamer.com/rip-moon-an-ode-to-the-big-rock-videogames-love-to-blow-up)
+ - [Activision VP Posts Anti-Union Message In Company Slack](https://kotaku.com/activision-blizzard-union-unions-raven-qa-chris-amends-1848456312)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
