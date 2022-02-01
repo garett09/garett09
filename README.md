@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank God he made these things slow af... Imagine if they could crawl 2-3 times faster](http://9gag.com/gag/aKm7Y3N)
- - 🚯 [Fun fact: Harald Bluetooth never used Bluetooth in his life](http://9gag.com/gag/aqGnY4P)
- - 🚯 [Die](http://9gag.com/gag/aPZ7Xzw)<!-- MEMES:END -->
+ - 🚖 [Mr Nobody. That bus scene.](http://9gag.com/gag/aM4xXYR)
+ - 🚯 [Big scams](http://9gag.com/gag/aogP8g2)
+ - 🚯 [Thank you for the sacrifice!](http://9gag.com/gag/abgG2mp)<!-- MEMES:END -->
 
 --- 
 
