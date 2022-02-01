@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will wind down Express Wi-Fi later this year, its program, launched in 2016, to extend public Wi-Fi access by partnering with ISPs, MNOs in 30+ countries &lpar;Monica Alleven/Fierce Wireless&rpar;](http://www.techmeme.com/220131/p29#a220131p29)
- - [Doc: the US is pressing EU officials to revise the Digital Markets Act to focus less on tech giants and ensure that the act covers tech firms outside of the US &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220131/p28#a220131p28)
- - [Sony acquires &#39;Destiny&#39; game studio Bungie in $3.6 billion deal](https://appleinsider.com/articles/22/01/31/sony-acquires-destiny-game-studio-bungie-in-36b-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Discord rolls out the ability for US PlayStation 5 and PlayStation 4 owners to link their PSN accounts with Discord; support for more countries is coming soon &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/220131/p31#a220131p31)
+ - [Apple files a lawsuit to stop upcoming indie &#39;Apple Man&#39; film](https://appleinsider.com/articles/22/02/01/apple-files-a-lawsuit-against-upcoming-indie-apple-man-film?utm_medium=rss)
+ - [Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’](https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
