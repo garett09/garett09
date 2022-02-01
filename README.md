@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian startup RenoRun, an e-commerce service for construction and building materials, raises a $142M Series B led by Tiger Global and Sozo &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/220201/p13#a220201p13)
- - [What It’ll Take to Get Electric Planes off the Ground](https://www.wired.com/story/what-itll-take-to-get-electric-planes-off-the-ground)
- - [Can a Digital Ski Coach Refine Your Runs? Amazingly, Yes](https://www.wired.com/review/carv-digital-ski-coach)<!-- TECH:END -->
+ - [Island, a secure web browser for businesses, emerges from stealth with ~$100M from Sequoia, Insight, and others; sources say it was recently valued at ~$500M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220201/p19#a220201p19)
+ - [Docs: Tesla will issue an OTA update to its FSD software that let vehicles roll through stop signs without coming to a halt, affecting around 54,000 vehicles &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/220201/p18#a220201p18)
+ - [Chilean startup Betterfly, a digital insurance service for employers, raises a $125M Series C at a $1B valuation led by Glade Brook Capital &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/220201/p17#a220201p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
