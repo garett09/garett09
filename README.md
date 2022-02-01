@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man got insane arm strength for sure.](http://9gag.com/gag/aYryAZ2)
- - 🚯 [It is a malfunction in the brain](http://9gag.com/gag/a81GKDp)
- - 🚯 [Numerous huge empty ghost towns in China speak volumes of the real estate bubble that could bring the chinese economy to its knees.](http://9gag.com/gag/arnV2O0)<!-- MEMES:END -->
+ - 🚖 [Nothing is holding me to my past anymore, it hurts but I&#39;m actually free](http://9gag.com/gag/aegDR4v)
+ - 🚯 [Then vs. now](http://9gag.com/gag/ay9evrX)
+ - 🚯 [Equal Rights](http://9gag.com/gag/a11WOvD)<!-- MEMES:END -->
 
 --- 
 
