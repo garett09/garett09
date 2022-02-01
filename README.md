@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Suicide chat service Crisis Text Line says it has ended its data sharing relationship with Loris.ai and has asked Loris to delete existing data &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220131/p34#a220131p34)
  - [Sources: Cybereason, which offers endpoint detection and response services, has confidentially filed for a US IPO that could value it at more than $5B &lpar;Reuters&rpar;](http://www.techmeme.com/220131/p33#a220131p33)
- - [Education publisher Pearson acquires Credly, which helps businesses issue digital credentials to certify workers&#39; skills, for $140M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220131/p32#a220131p32)
- - [Your work Gmail is about to look different](https://www.theverge.com/2022/1/31/22911287/gmail-redesign-workspace-rollout-april-q2-chat-meet-spaces)<!-- TECH:END -->
+ - [Education publisher Pearson acquires Credly, which helps businesses issue digital credentials to certify workers&#39; skills, for $140M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220131/p32#a220131p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
