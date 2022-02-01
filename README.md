@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go home mop, you are drunk](http://9gag.com/gag/aRr7DEy)
- - 🚯 [Then vs. now](http://9gag.com/gag/ay9evrX)
- - 🚯 [Gay friends: what&#39;s stopping you from being gay? Me:](http://9gag.com/gag/a81GzDe)<!-- MEMES:END -->
+ - 🚖 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)
+ - 🚯 [Germany f**k yeah.](http://9gag.com/gag/ang4r6q)
+ - 🚯 [Hurting a poor girl to rob her stuff? Here, have the `good landing` price!](http://9gag.com/gag/apgGVEB)<!-- MEMES:END -->
 
 --- 
 
