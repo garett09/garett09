@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ericsson attacks Brazilian Apple distributor in 5G patent legal battle](https://appleinsider.com/articles/22/02/01/ericsson-attacks-brazilian-apple-distributor-in-5g-patent-legal-battle?utm_medium=rss)
- - [Android Auto is looking more like CarPlay in new leaked images](https://www.theverge.com/2022/2/1/22912496/android-auto-coolwalk-ui-carplay-leaked-images)
- - [The Google One VPN service, which has been available to Android users, comes to iOS for users paying for the 2TB $9.99/month plan &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p34#a220201p34)<!-- TECH:END -->
+ - [Apple News distributes its first daily local newsletter](https://appleinsider.com/articles/22/02/01/apple-news-distributes-its-first-daily-local-newsletter?utm_medium=rss)
+ - [Cruise raises $1.35B more from SoftBank Vision Fund and launches a waitlist for a driverless robotaxi service in San Francisco that will run from 11pm to 5am &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220201/p35#a220201p35)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
