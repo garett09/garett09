@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motor Trend reimagines the &#39;Apple Car,&#39; sees autonomous rideshare in Apple&#39;s future](https://appleinsider.com/articles/22/02/01/motor-trend-reimagines-the-apple-car-sees-autonomous-rideshare-in-apples-future?utm_medium=rss)
- - [Expecting a charging bump on the Samsung Galaxy S22? You’d be disappointed.](https://www.androidauthority.com/samsung-galaxy-s22-charging-3099730/)
- - [Deepnote, which offers a collaborative data science platform on top of Jupyter-based notebooks, raises a $20M Series A co-led by Index Ventures and Accel &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220131/p36#a220131p36)<!-- TECH:END -->
+ - [It’s time to say goodbye to Google’s best budget phone in years](https://www.androidauthority.com/google-pixel-4a-delisted-3098133/)
+ - [Taiwan-based GlobalWafers&#39; proposed &amp;euro;4.35B takeover of German chip supplier Siltronic falls apart as Germany&#39;s government misses the approval deadline &lpar;Reuters&rpar;](http://www.techmeme.com/220201/p1#a220201p1)
+ - [Motor Trend reimagines the &#39;Apple Car,&#39; sees autonomous rideshare in Apple&#39;s future](https://appleinsider.com/articles/22/02/01/motor-trend-reimagines-the-apple-car-sees-autonomous-rideshare-in-apples-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
