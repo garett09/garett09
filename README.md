@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chargebee, which helps businesses manage billing, subscriptions, revenue, and compliance, raises $250M at a $3.5B valuation led by Tiger Global and Sequoia &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220201/p11#a220201p11)
- - [Here Come the Underdogs of the Robot Olympics](https://www.wired.com/story/darpa-challenge-robot-olympics-underdog)
- - [New on Amazon Prime Video in February: The Marvelous Mrs. Maisel and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)<!-- TECH:END -->
+ - [Canadian startup RenoRun, an e-commerce service for construction and building materials, raises a $142M Series B led by Tiger Global and Sozo &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/220201/p13#a220201p13)
+ - [What It’ll Take to Get Electric Planes off the Ground](https://www.wired.com/story/what-itll-take-to-get-electric-planes-off-the-ground)
+ - [Can a Digital Ski Coach Refine Your Runs? Amazingly, Yes](https://www.wired.com/review/carv-digital-ski-coach)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
