@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Neverwinter: Dragonbone Vale is Now Live on Xbox](https://news.xbox.com/en-us/2022/02/01/neverwinter-dragonbone-vale-is-now-live-on-xbox/)
- - [Techland asks Dying Light 2 fans not to play the game early, please](https://www.pcgamer.com/techland-asks-dying-light-2-fans-not-to-play-the-game-early-please)
- - [Mason Greenwood removed from FIFA 22 following arrest over rape allegation](https://www.pcgamer.com/mason-greenwood-removed-from-fifa-22-following-arrest-over-rape-allegation)<!-- GAME:END -->
+ - [Modder says Elden Ring may be vulnerable to the same security flaws as Dark Souls](https://www.pcgamer.com/modder-says-elden-ring-may-be-vulnerable-to-the-same-security-flaws-as-dark-souls)
+ - [Halo Infinite’s Samurai Event Is Back, And It’s Actually Good This Time](https://kotaku.com/halo-infinite-s-samurai-event-is-back-and-it-s-actuall-1848302455)
+ - [Yeehaw! Pokémon Unite update puts Zeraora in a studded cowboy hat](https://www.polygon.com/22912791/pokemon-unite-update-battle-pass-zeraora-cowboy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
