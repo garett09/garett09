@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stunning work](http://9gag.com/gag/a61K519)
- - 🚯 [5 hours left for EU citizens to support the stopfinningEU initiative and help end the shark fin trade.](http://9gag.com/gag/ang4vGV)
- - 🚯 [I understood that reference](http://9gag.com/gag/aqGnxgR)<!-- MEMES:END -->
+ - 🚖 [She got surprised that her Action&#39;s brought consequences](http://9gag.com/gag/aegDZYv)
+ - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)
+ - 🚯 [Me: Mortal Kombat 11, Aight imma head out](http://9gag.com/gag/aAGeKP9)<!-- MEMES:END -->
 
 --- 
 
