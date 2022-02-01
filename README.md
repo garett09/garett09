@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord rolls out the ability for US PlayStation 5 and PlayStation 4 owners to link their PSN accounts with Discord; support for more countries is coming soon &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/220131/p31#a220131p31)
- - [Apple files a lawsuit to stop upcoming indie &#39;Apple Man&#39; film](https://appleinsider.com/articles/22/02/01/apple-files-a-lawsuit-against-upcoming-indie-apple-man-film?utm_medium=rss)
- - [Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’](https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health)<!-- TECH:END -->
+ - [Sources: Cybereason, which offers endpoint detection and response services, has confidentially filed for a US IPO that could value it at more than $5B &lpar;Reuters&rpar;](http://www.techmeme.com/220131/p33#a220131p33)
+ - [Education publisher Pearson acquires Credly, which helps businesses issue digital credentials to certify workers&#39; skills, for $140M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220131/p32#a220131p32)
+ - [Your work Gmail is about to look different](https://www.theverge.com/2022/1/31/22911287/gmail-redesign-workspace-rollout-april-q2-chat-meet-spaces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
