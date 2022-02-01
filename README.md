@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News distributes its first daily local newsletter](https://appleinsider.com/articles/22/02/01/apple-news-distributes-its-first-daily-local-newsletter?utm_medium=rss)
- - [Cruise raises $1.35B more from SoftBank Vision Fund and launches a waitlist for a driverless robotaxi service in San Francisco that will run from 11pm to 5am &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220201/p35#a220201p35)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi)<!-- TECH:END -->
+ - [PayPal reports Q4 revenue of $6.92B, up 13% YoY, net income of $801M, down from $1.57B; stock down 16% after hours on weak Q1 guidance &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220201/p39#a220201p39)
+ - [Riot’s latest League of Legends spinoff hits Netflix Games as a mobile exclusive](https://www.theverge.com/2022/2/1/22912706/riot-games-hextech-mayhem-netflix-mobile-exclusive)
+ - [Amid tech stocks&#39; poor performance, especially IPOs, some venture firms are cutting back investments and startup valuations, as they renegotiate funding deals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220201/p38#a220201p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
