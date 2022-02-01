@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I understood that reference](http://9gag.com/gag/aqGnxgR)
- - 🚯 [We are the Solution](http://9gag.com/gag/avAzEWq)
- - 🚯 [I&#39;ll accept that](http://9gag.com/gag/aRr7vVq)<!-- MEMES:END -->
+ - 🚖 [Pok\u00e9mon Logic](http://9gag.com/gag/aVxwL7v)
+ - 🚯 [I&#39;ll accept that](http://9gag.com/gag/aRr7vVq)
+ - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)<!-- MEMES:END -->
 
 --- 
 
