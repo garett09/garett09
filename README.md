@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus basically gives you a shiny Ponyta](https://www.polygon.com/pokemon-legends-arceus-guide-pla/22911069/shiny-ponyta-yota-horsehoe-plains)
- - [Xbox Celebrates Black History Month with Support of Black Creators, Players, and a Culture of Inclusion](https://news.xbox.com/en-us/2022/02/01/xbox-celebrates-black-history-month-2022/)
- - [Deep Rock Galactic is becoming a frantic co-op adventure board game](https://www.polygon.com/tabletop-games/22912132/deep-rock-galactic-board-game-preview-interview-release-date-price-kickstarter)<!-- GAME:END -->
+ - [Destiny 2 Is Getting New Guns That Are Bonkers, Like The Exploding Worms Grenade Launcher](https://kotaku.com/destiny-2-bungie-witch-queen-exotics-parasite-grand-ove-1848460464)
+ - [Dreams: Check out the nominees for the 3rd Annual Impy Awards](https://blog.playstation.com/2022/02/01/dreams-check-out-the-nominees-for-the-3rd-annual-impy-awards/)
+ - [Dreams: Check out the nominees for the 3rd Annual Impy Awards](https://blog.playstation.com/2022/02/01/dreams-check-out-the-nominees-for-the-3rd-annual-impy-awards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
