@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the friends](http://9gag.com/gag/adgV2L9)
- - 🚯 [I considering a job in Helsinki &lpar;from Canada&rpar;. Anything I should know?](http://9gag.com/gag/ajg9Z4R)
- - 🚯 [Big scams](http://9gag.com/gag/aogP8g2)<!-- MEMES:END -->
+ - 🚖 [Seven years of pole vaulting](http://9gag.com/gag/aM4xvE1)
+ - 🚯 [Mr Nobody. That bus scene.](http://9gag.com/gag/aM4xXYR)
+ - 🚯 [Older Clip That Made Me Smile Big](http://9gag.com/gag/a91n2om)<!-- MEMES:END -->
 
 --- 
 
