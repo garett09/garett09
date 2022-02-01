@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German wild Lynx](http://9gag.com/gag/aogPLo2)
- - 🚯 [Around the world](http://9gag.com/gag/aNPgBNr)
- - 🚯 [Kitty knew his person was on her way](http://9gag.com/gag/amgvM1o)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the friends](http://9gag.com/gag/adgV2L9)
+ - 🚯 [I considering a job in Helsinki &lpar;from Canada&rpar;. Anything I should know?](http://9gag.com/gag/ajg9Z4R)
+ - 🚯 [Big scams](http://9gag.com/gag/aogP8g2)<!-- MEMES:END -->
 
 --- 
 
