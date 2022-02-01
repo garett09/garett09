@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow Warrior 3 is Launching March 1 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/01/shadow-warrior-3-is-launching-march-1-for-xbox-one-and-xbox-series-xs/)
- - [Tips For Playing Pokémon Legends: Arceus](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-tips-1848461498)
- - [Worms publisher Team17 announces NFTs, gets pushback from its developers](https://www.polygon.com/22912714/team17-nfts-aggro-crab-games-playtonic)<!-- GAME:END -->
+ - [Neverwinter: Dragonbone Vale is Now Live on Xbox](https://news.xbox.com/en-us/2022/02/01/neverwinter-dragonbone-vale-is-now-live-on-xbox/)
+ - [Techland asks Dying Light 2 fans not to play the game early, please](https://www.pcgamer.com/techland-asks-dying-light-2-fans-not-to-play-the-game-early-please)
+ - [Mason Greenwood removed from FIFA 22 following arrest over rape allegation](https://www.pcgamer.com/mason-greenwood-removed-from-fifa-22-following-arrest-over-rape-allegation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
