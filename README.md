@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is holding me to my past anymore, it hurts but I&#39;m actually free](http://9gag.com/gag/aegDR4v)
- - 🚯 [Equal Rights](http://9gag.com/gag/a11WOvD)
- - 🚯 [I would&#39;ve done the same if somebody trespassed my property.](http://9gag.com/gag/adgVo5d)<!-- MEMES:END -->
+ - 🚖 [Go home mop, you are drunk](http://9gag.com/gag/aRr7DEy)
+ - 🚯 [Then vs. now](http://9gag.com/gag/ay9evrX)
+ - 🚯 [Gay friends: what&#39;s stopping you from being gay? Me:](http://9gag.com/gag/a81GzDe)<!-- MEMES:END -->
 
 --- 
 
