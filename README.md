@@ -181,7 +181,7 @@ No Activity Tracked This Week
 <!-- GAME:START -->
  - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
  - [The elusive GeForce GT 1010 graphics card has been tortured by 3DMark&#39;s 4K benchmark](https://www.pcgamer.com/the-elusive-geforce-gt-1010-graphics-card-has-been-tortured-by-3dmarks-4k-benchmark)
- - [The world&#39;s fastest gaming monitor sports a 500Hz refresh rate](https://www.pcgamer.com/the-worlds-fastest-gaming-monitor-sports-a-500hz-refresh-rate)<!-- GAME:END -->
+ - [Fate/Grand Order Director Is Going Independent](https://kotaku.com/fate-grand-order-aniplex-sony-yousuke-shiokawa-independ-1848458328)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
