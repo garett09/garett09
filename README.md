@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riyadh-based Retailo, which aims to digitize mom-and-pop stores in Saudi Arabia, Pakistan, and the UAE, raises a $36M Series A led by Graphene Ventures &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220201/p5#a220201p5)
- - [Yahoo Japan is going dark in Europe](https://www.theverge.com/2022/2/1/22911965/yahoo-japan-europe-offline-regulations-compliance-gdpr)
- - [You heard of port-free phones before, but how about a port-free laptop?](https://www.androidauthority.com/port-free-laptop-3099796/)<!-- TECH:END -->
+ - [Source: the FTC, not the DOJ, is reviewing Microsoft&#39;s Activision Blizzard acquisition and will focus on potential harm to rivals &lpar;David McLaughlin/Bloomberg&rpar;](http://www.techmeme.com/220201/p7#a220201p7)
+ - [Google details February 2022 system update. Here’s what’s coming.](https://www.androidauthority.com/google-february-2022-system-update-3099876/)
+ - [Telegam now lets you make animated stickers from videos](https://www.androidauthority.com/telegam-animated-stickers-videos-3099855/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
