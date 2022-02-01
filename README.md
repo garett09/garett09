@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suicide chat service Crisis Text Line says it has ended its data sharing relationship with Loris.ai and has asked Loris to delete existing data &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220131/p34#a220131p34)
- - [Sources: Cybereason, which offers endpoint detection and response services, has confidentially filed for a US IPO that could value it at more than $5B &lpar;Reuters&rpar;](http://www.techmeme.com/220131/p33#a220131p33)
- - [Education publisher Pearson acquires Credly, which helps businesses issue digital credentials to certify workers&#39; skills, for $140M &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220131/p32#a220131p32)<!-- TECH:END -->
+ - [Sources: Byju&#39;s is in talks with at least three SPACs for its IPO with plans to finalize in three to four weeks, and might raise a pre-IPO funding of $750M-$1B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220131/p35#a220131p35)
+ - [Best PC speakers for 2022     - CNET](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CAD590a51e)
+ - [Nonprofit suicide chat service Crisis Text Line ends its data sharing relationship with for-profit spinoff Loris.ai and asks the company to delete existing data &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220131/p34#a220131p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
