@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the FTC, not the DOJ, is reviewing Microsoft&#39;s Activision Blizzard acquisition and will focus on potential harm to rivals &lpar;David McLaughlin/Bloomberg&rpar;](http://www.techmeme.com/220201/p7#a220201p7)
- - [Google details February 2022 system update. Here’s what’s coming.](https://www.androidauthority.com/google-february-2022-system-update-3099876/)
- - [Telegam now lets you make animated stickers from videos](https://www.androidauthority.com/telegam-animated-stickers-videos-3099855/)<!-- TECH:END -->
+ - [Chargebee, which helps businesses manage billing, subscriptions, revenue, and compliance, raises $250M at a $3.5B valuation led by Tiger Global and Sequoia &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220201/p11#a220201p11)
+ - [Here Come the Underdogs of the Robot Olympics](https://www.wired.com/story/darpa-challenge-robot-olympics-underdog)
+ - [New on Amazon Prime Video in February: The Marvelous Mrs. Maisel and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
