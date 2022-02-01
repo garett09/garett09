@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Nothing is holding me to my past anymore, it hurts but I&#39;m actually free](http://9gag.com/gag/aegDR4v)
- - 🚯 [Then vs. now](http://9gag.com/gag/ay9evrX)
- - 🚯 [Equal Rights](http://9gag.com/gag/a11WOvD)<!-- MEMES:END -->
+ - 🚯 [Equal Rights](http://9gag.com/gag/a11WOvD)
+ - 🚯 [I would&#39;ve done the same if somebody trespassed my property.](http://9gag.com/gag/adgVo5d)<!-- MEMES:END -->
 
 --- 
 
