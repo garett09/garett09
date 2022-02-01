@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google One VPN is now compatible with the iPhone and iPad](https://appleinsider.com/articles/22/02/01/google-one-vpn-is-now-compatible-with-the-iphone-and-ipad?utm_medium=rss)
- - [iPhone SE 3, new iPads allegedly being tested in India](https://appleinsider.com/articles/22/02/01/iphone-se-3-new-ipads-allegedly-being-tested-in-india?utm_medium=rss)
- - [Internal messages from the Trickbot ransomware gang during 2020 detail its structure, target choices, plans to open St. Petersburg offices, and more &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220201/p32#a220201p32)<!-- TECH:END -->
+ - [SiriusXM rolls out AudioID to track its audience across its apps Pandora and Stitcher and its satellite radio service, offering first-party ad targeting &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220201/p33#a220201p33)
+ - [The Google One VPN is now available on iPhones](https://www.theverge.com/2022/2/1/22912595/google-one-vpn-ios-iphone-new-features-safe-disconnect)
+ - [Wordle’s acquisition is proof we can’t have nice things anymore](https://www.androidauthority.com/wordle-acquisition-3100257/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
