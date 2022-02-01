@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oscar-hating director of It Takes Two is helping make it into a movie](https://www.pcgamer.com/oscar-hating-director-of-it-takes-two-is-helping-make-it-into-a-movie)
- - [RIP moon: an ode to the big rock videogames love to blow up](https://www.pcgamer.com/rip-moon-an-ode-to-the-big-rock-videogames-love-to-blow-up)
- - [Activision VP Posts Anti-Union Message In Company Slack](https://kotaku.com/activision-blizzard-union-unions-raven-qa-chris-amends-1848456312)<!-- GAME:END -->
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [Bloodborne comes to the PC in the form of a fan demake](https://www.pcgamer.com/bloodborne-comes-to-the-pc-in-the-form-of-a-fan-demake)
+ - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
