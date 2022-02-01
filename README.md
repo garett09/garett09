@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Pok\u00e9mon Logic](http://9gag.com/gag/aVxwL7v)
- - 🚯 [I&#39;ll accept that](http://9gag.com/gag/aRr7vVq)
+ - 🚯 [Every goddam time](http://9gag.com/gag/a81G2ee)
  - 🚯 [Like a baws!](http://9gag.com/gag/ang4xGo)<!-- MEMES:END -->
 
 --- 
