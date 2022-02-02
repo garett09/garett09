@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 22 celebrates Shohei Ohtani with a manga-themed cover](https://www.polygon.com/22914448/mlb-the-show-22-shohei-ohtani-manga-cover-afro-samurai-takashi-okazaki)
- - [Hermen Hulst talks Bungie, what’s next for PlayStation Studios](https://blog.playstation.com/2022/02/02/hermen-hulst-talks-bungie-whats-next-for-playstation-studios/)
- - [Being quite good at climbing is still gaming&#39;s greatest superpower](https://www.pcgamer.com/being-quite-good-at-climbing-is-still-gamings-greatest-superpower)<!-- GAME:END -->
+ - [Book of Boba Fett is replicating the same formula that turned Anakin into Vader](https://www.polygon.com/star-wars/22914152/book-of-boba-fett-luke-skywalker-actor-voice-grogu-lightsaber-training-yoda)
+ - [Halo Infinite Spartans Fly Around Like Titanfall Players With This Grappling Hook Technique](https://kotaku.com/halo-infinite-343-grappling-hook-slide-titanfall-shyway-1848467766)
+ - [How to start a dedicated server for Project Zomboid](https://www.pcgamer.com/project-zomboid-dedicated-server-hosting-memory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
