@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Famous illustrator Takashi Okazaki creates MLB The Show 22’s Collector’s Edition cover art featuring Shohei Ohtani](https://blog.playstation.com/2022/02/02/famous-illustrator-takashi-okazaki-creates-mlb-the-show-22s-collectors-edition-cover-art-featuring-shohei-ohtani/)
- - [Famous illustrator Takashi Okazaki creates MLB The Show 22’s Collector’s Edition cover art featuring Shohei Ohtani](https://blog.playstation.com/2022/02/02/famous-illustrator-takashi-okazaki-creates-mlb-the-show-22s-collectors-edition-cover-art-featuring-shohei-ohtani/)
- - [Wordle review](https://www.pcgamer.com/wordle-review)<!-- GAME:END -->
+ - [Dying Light 2: Stay Human review](https://www.pcgamer.com/dying-light-2-stay-human-review)
+ - [Dying Light 2 review: Story or gameplay, which would you save?](https://www.polygon.com/reviews/22913452/dying-light-2-review-techland)
+ - [Dying Light 2: The Kotaku Review](https://kotaku.com/dying-light-2-kotaku-review-zombie-techland-open-world-1848456376)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
