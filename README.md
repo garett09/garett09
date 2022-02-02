@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony planning more than 10 live service games before March 2026](https://www.theverge.com/2022/2/2/22914016/sony-playstation-live-service-games-launch-march-2026)
- - [Samsung Galaxy A13 5G review: functional, no-frills 5G](https://www.theverge.com/22907086/samsung-galaxy-a13-5g-review-price-screen-specs)
- - [Apple tops &#39;most admired companies&#39; list for 15th year in a row](https://appleinsider.com/articles/22/02/02/apple-tops-most-admired-companies-list-for-15th-year-in-a-row?utm_medium=rss)<!-- TECH:END -->
+ - [Shopping for a Router Sucks. Here’s What You Need to Know](https://www.wired.com/story/how-to-buy-a-router)
+ - [How an App Can Help Fight Homelessness](https://www.wired.com/story/app-fight-homelessness-community-service)
+ - [LogMeIn rebrands as GoTo, still plans to spin off LastPass](https://www.theverge.com/2022/2/2/22912367/logmein-rebranding-as-goto-like-gotomeeting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
