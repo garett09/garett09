@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resident Evil 4’s fan-built HD remaster is finally complete](https://www.theverge.com/2022/2/1/22911418/resident-evil-4-hd-project-remaster-release-date-install-download)
  - [Farewell, Tom Brady, and thanks for all the memes     - CNET](https://www.cnet.com/news/farewell-tom-brady-and-thanks-for-all-the-memes/#ftag=CAD590a51e)
- - [It’s pronounced “neft”](https://www.theverge.com/2022/2/1/22913317/nft-pronunciation-neft-okay)
- - [YouTube rolls out a new interface for its full-screen player on Android and iOS, making it easier to like or dislike a video, view comments, and share &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p44#a220201p44)<!-- TECH:END -->
+ - [It’s pronounced “neft”](https://www.theverge.com/2022/2/1/22913317/nft-pronunciation-neft-okay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
