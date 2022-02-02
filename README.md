@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Titweasel](http://9gag.com/gag/a21W9n1)
- - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)
- - 🚯 [If you have backproblems, try this](http://9gag.com/gag/a91n4M6)<!-- MEMES:END -->
+ - 🚖 [Yeaah the next gen](http://9gag.com/gag/apgGnyD)
+ - 🚯 [News of today. The EU Commission, after some controversy, has given Nuclear Energy and Gas the green label today](http://9gag.com/gag/adgVW4Q)
+ - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)<!-- MEMES:END -->
 
 --- 
 
