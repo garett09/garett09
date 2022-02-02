@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [League, which makes a health care platform on which payers, providers, and others build their apps, raises a $95M Series C, bringing its total funding to $205M &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220201/p47#a220201p47)
- - [Jellyfish, which provides software to help manage engineering teams, raises a $71M Series C led by Accel, Insight Partners, and Tiger Global &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220201/p46#a220201p46)
- - [February is too-too much if you love numerical palindromes in your months     - CNET](https://www.cnet.com/news/february-is-too-too-much-if-you-love-numerical-palindromes-in-your-months/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black game developers say the video game industry continues to struggle with diversity, as a report shows 4% of devs were Black in 2021, up from 2% in 2005 &lpar;Jamal Michel/Washington Post&rpar;](http://www.techmeme.com/220202/p2#a220202p2)
+ - [Superpedestrian, which makes e-scooters that detect and correct unsafe riding behavior in real-time, raises a $125M Series C after a $60M round in December 2020 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220202/p1#a220202p1)
+ - [League, which makes a health care platform on which payers, providers, and others build their apps, raises a $95M Series C, bringing its total funding to $205M &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220201/p47#a220201p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
