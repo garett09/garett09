@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite multiplayer ultimate challenge guide](https://www.pcgamer.com/halo-infinite-ultimate-challenge-guide)
- - [Electronic Arts is having second thoughts about NFTs](https://www.pcgamer.com/electronic-arts-is-having-second-thoughts-about-nfts)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
+ - [AMD confirms RDNA 3 GPUs this year and is spending big to &#39;to satisfy the demand out there&#39;](https://www.pcgamer.com/amd-rdna-3-2022-increased-supply)
+ - [The best CPU for gaming in 2022](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
