@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Feb. 2: $100 off every AirPods Max color, $400 off Vizio 65-inch 4K 120Hz AirPlay TV, more!](https://appleinsider.com/articles/22/02/02/best-deals-feb-2-100-off-every-airpods-max-color-400-off-vizio-65-inch-4k-120hz-airplay-tv-more?utm_medium=rss)
- - [Suicide Squad: Kill the Justice League reportedly won’t come out until 2023](https://www.theverge.com/2022/2/2/22914689/suicide-squad-kill-the-justice-league-video-game-rocksteady-delay)
- - [GitHub, which owns the npm JavaScript package manager, announces it&#39;s enrolling the 100 most popular libraries hosted on npm into two-factor authentication &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220202/p28#a220202p28)<!-- TECH:END -->
+ - [Gee, I wonder how Apple Podcasts suddenly became a five-star app](https://www.theverge.com/2022/2/2/22914612/apple-podcasts-app-rating-user-reviews-problem)
+ - [Apple Watch Series 7 has a fast charging problem](https://appleinsider.com/articles/22/02/02/apple-watch-series-7-has-a-fast-charging-problem?utm_medium=rss)
+ - [Welcome to the Burner Phone Olympics](https://www.wired.com/story/winter-olympics-2022-phones-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
