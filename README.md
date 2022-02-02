@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hate when that happens](http://9gag.com/gag/aegDPLb)
- - 🚯 [What&#39;s the commotion about?](http://9gag.com/gag/aegDPLO)
- - 🚯 [Saving the planet](http://9gag.com/gag/aQXdBMw)<!-- MEMES:END -->
+ - 🚖 [You&#39;d be surprised.](http://9gag.com/gag/a71W6Bx)
+ - 🚯 [Saving the planet](http://9gag.com/gag/aQXdBMw)
+ - 🚯 [This is the last photo of Nicholas Mevoli. He attempted to dive 236ft deep and succeeded. He surfaced and gave the `O.K.` sign, attempted to speak and passed out. He never recovered and died from pulmonary edema.](http://9gag.com/gag/aRr7NN5)<!-- MEMES:END -->
 
 --- 
 
