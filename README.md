@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smart guy](http://9gag.com/gag/aVxw8RK)
- - 🚯 [Leave the soy, is not good for you](http://9gag.com/gag/aZry479)
- - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)<!-- MEMES:END -->
+ - 🚖 [How dare you?!](http://9gag.com/gag/azemvAN)
+ - 🚯 [News of today. The EU Commission, after some controversy, has given Nuclear Energy and Gas the green label today](http://9gag.com/gag/adgVW4Q)
+ - 🚯 [Eyes tracking nice](http://9gag.com/gag/aGzdrL0)<!-- MEMES:END -->
 
 --- 
 
