@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh boy that\u2019s so true, show us your box](http://9gag.com/gag/a91nZED)
- - 🚯 [Children without internet](http://9gag.com/gag/aggA6Zq)
+ - 🚖 [High standards](http://9gag.com/gag/aDD4rP7)
+ - 🚯 [Leave the soy, is not good for you](http://9gag.com/gag/aZry479)
  - 🚯 [Titweasel](http://9gag.com/gag/a21W9n1)<!-- MEMES:END -->
 
 --- 
