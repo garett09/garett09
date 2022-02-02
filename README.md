@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zagg Protect is the case maker’s version of phone insurance](https://www.theverge.com/2022/2/2/22913522/zagg-protect-phone-insurance-repair-applecare-asurion-squaretrade)
- - [What’s new on Paramount Plus in February: The In Between and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
- - [Firefox’s anti-tracking feature adds per-account VPN for more privacy](https://www.theverge.com/2022/2/2/22914078/mozilla-vpn-multi-account-containers-add-on)<!-- TECH:END -->
+ - [Apple TV+ has a TikTok and its first challenge promotes &#39;The Afterparty&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-has-a-tiktok-and-its-first-challenge-promotes-the-afterparty?utm_medium=rss)
+ - [50% off the Razer Kraken Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)
+ - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
