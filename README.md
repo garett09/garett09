@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Schulz on the dumbf**kness of tiktok](http://9gag.com/gag/amgvKK4)
- - 🚯 [Can we agree on this?](http://9gag.com/gag/aGzdrwZ)
+ - 🚖 [Smart guy](http://9gag.com/gag/aVxw8RK)
+ - 🚯 [Leave the soy, is not good for you](http://9gag.com/gag/aZry479)
  - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)<!-- MEMES:END -->
 
 --- 
