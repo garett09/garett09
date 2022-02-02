@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Farewell, Tom Brady, and thanks for all the memes     - CNET](https://www.cnet.com/news/farewell-tom-brady-and-thanks-for-all-the-memes/#ftag=CAD590a51e)
  - [It’s pronounced “neft”](https://www.theverge.com/2022/2/1/22913317/nft-pronunciation-neft-okay)
- - [YouTube is rolling out a new interface for its Android and iOS app&#39;s full-screen player, making it easier to like or dislike a video, view comments, and share &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p44#a220201p44)
- - [EA&#39;s CEO says NFTs are not something the company is currently &quot;driving on&quot;, just three months after calling NFTs and blockchain &quot;the future of our industry&quot; &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/220201/p43#a220201p43)<!-- TECH:END -->
+ - [YouTube rolls out a new interface for its full-screen player on Android and iOS, making it easier to like or dislike a video, view comments, and share &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p44#a220201p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
