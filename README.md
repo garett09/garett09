@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)
- - [PlexTrac, which aims to automate mundane cybersecurity tasks, raises a $70M Series B led by Insight Partners, bringing its total funding to $82M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220202/p18#a220202p18)
- - [Poll: With no more unlimited photo backups, have you bought a Google One plan?](https://www.androidauthority.com/google-one-storage-unlimited-backups-poll-3100677/)<!-- TECH:END -->
+ - [The European Commission publishes a plan to bolster its influence in creating global tech standards, seeking to challenge China and its companies &lpar;Laurens Cerulus/Politico&rpar;](http://www.techmeme.com/220202/p24#a220202p24)
+ - [Apple’s Face ID with a Mask works so well, it might end password purgatory](https://www.theverge.com/2022/2/2/22912677/apple-face-id-mask-update-ios-15-4-beta-hands-on-impressions)
+ - [Connecticut man caught placing an AirTag for stalking](https://appleinsider.com/articles/22/02/02/connecticut-man-caught-placing-an-airtag-for-stalking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
