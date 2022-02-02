@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A working Intel Larrabee graphics card prototype just sold for $5,000](https://www.pcgamer.com/a-working-intel-larrabee-graphics-card-prototype-just-sold-for-dollar5000)
- - [JRPG-Style Prayer Altar For Your Dead, Gaming-Loving Relatives](https://kotaku.com/jrpg-japanese-role-playing-games-butsudan-buddhism-reli-1848465407)
- - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)<!-- GAME:END -->
+ - [Famous illustrator Takashi Okazaki creates MLB The Show 22’s Collector’s Edition cover art featuring Shohei Ohtani](https://blog.playstation.com/2022/02/02/famous-illustrator-takashi-okazaki-creates-mlb-the-show-22s-collectors-edition-cover-art-featuring-shohei-ohtani/)
+ - [Famous illustrator Takashi Okazaki creates MLB The Show 22’s Collector’s Edition cover art featuring Shohei Ohtani](https://blog.playstation.com/2022/02/02/famous-illustrator-takashi-okazaki-creates-mlb-the-show-22s-collectors-edition-cover-art-featuring-shohei-ohtani/)
+ - [Wordle review](https://www.pcgamer.com/wordle-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
