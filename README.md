@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black game developers say the video game industry continues to struggle with diversity, as a report shows 4% of devs were Black in 2021, up from 2% in 2005 &lpar;Jamal Michel/Washington Post&rpar;](http://www.techmeme.com/220202/p2#a220202p2)
- - [Superpedestrian, which makes e-scooters that detect and correct unsafe riding behavior in real-time, raises a $125M Series C after a $60M round in December 2020 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220202/p1#a220202p1)
- - [League, which makes a health care platform on which payers, providers, and others build their apps, raises a $95M Series C, bringing its total funding to $205M &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220201/p47#a220201p47)<!-- TECH:END -->
+ - [The Google One VPN for Android just got a little safer](https://www.androidauthority.com/google-one-vpn-android-features-3100630/)
+ - [Sony is still struggling with PS5 supply](https://www.theverge.com/2022/2/2/22913870/sony-earnings-q3-2021-ps5-sales-vs-ps4)
+ - [Black game developers say the video game industry continues to struggle with diversity, as a report shows 4% of devs were Black in 2021, up from 2% in 2005 &lpar;Jamal Michel/Washington Post&rpar;](http://www.techmeme.com/220202/p2#a220202p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
