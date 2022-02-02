@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The BFG-10000 gaming PC can run Doom because it is Doom](https://www.pcgamer.com/the-bfg-10000-gaming-pc-can-run-doom-because-it-is-doom)
- - [Electronic Arts CEO doesn’t commit to NFTs on latest investor call](https://www.polygon.com/22914579/electronic-arts-ceo-andrew-wilson-nfts-investors-call-discussion)
- - [Suicide Squad: Kill the Justice League reportedly delayed until 2023](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-reportedly-delayed-until-2023)<!-- GAME:END -->
+ - [Channing Tatum is salty about his Gambit movie dying in the Disney/Fox merger](https://www.polygon.com/22914878/gambit-marvel-channing-tatum-movie-fox-disney)
+ - [Watch Gran Turismo 7’s new State of Play livestream here](https://www.polygon.com/22914907/gran-turismo-7-ps5-state-of-play-stream-watch-start-time)
+ - [Microsoft, Sony acquisitions are just the start of massive video game industry consolidation](https://www.polygon.com/22914859/microsoft-activision-blizzard-sony-acquisitions-consolidation-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
