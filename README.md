@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [League, which makes a health care platform on which payers, providers, and others build their apps, raises a $95M Series C, bringing its total funding to $205M &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220201/p47#a220201p47)
  - [Jellyfish, which provides software to help manage engineering teams, raises a $71M Series C led by Accel, Insight Partners, and Tiger Global &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220201/p46#a220201p46)
- - [February is too-too much if you love numerical palindromes in your months     - CNET](https://www.cnet.com/news/february-is-too-too-much-if-you-love-numerical-palindromes-in-your-months/#ftag=CAD590a51e)
- - [Match Group reports Q4 revenue of $806.1M, up 24% YoY, vs. est. $818.6M, with 16.2M paying users, up 15% YoY, forecasts weaker Q1 growth due to Omicron effects &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220201/p45#a220201p45)<!-- TECH:END -->
+ - [February is too-too much if you love numerical palindromes in your months     - CNET](https://www.cnet.com/news/february-is-too-too-much-if-you-love-numerical-palindromes-in-your-months/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
