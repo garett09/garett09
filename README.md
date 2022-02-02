@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best days are yet to come](http://9gag.com/gag/a81GQG3)
- - 🚯 [Good night MF!](http://9gag.com/gag/aXrgQLd)
+ - 🚖 [Oh boy that\u2019s so true, show us your box](http://9gag.com/gag/a91nZED)
+ - 🚯 [Children without internet](http://9gag.com/gag/aggA6Zq)
  - 🚯 [Titweasel](http://9gag.com/gag/a21W9n1)<!-- MEMES:END -->
 
 --- 
