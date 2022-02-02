@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeaah the next gen](http://9gag.com/gag/apgGnyD)
- - 🚯 [News of today. The EU Commission, after some controversy, has given Nuclear Energy and Gas the green label today](http://9gag.com/gag/adgVW4Q)
+ - 🚖 [Andrew Schulz on the dumbf**kness of tiktok](http://9gag.com/gag/amgvKK4)
+ - 🚯 [Can we agree on this?](http://9gag.com/gag/aGzdrwZ)
  - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)<!-- MEMES:END -->
 
 --- 
