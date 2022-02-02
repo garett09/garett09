@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Hate when that happens](http://9gag.com/gag/aegDPLb)
- - 🚯 [Directly into the small spoon&#39;s spot](http://9gag.com/gag/aE8Py1o)
- - 🚯 [Pretty sure I&#39;m not the only one](http://9gag.com/gag/amgvdK2)<!-- MEMES:END -->
+ - 🚯 [What&#39;s the commotion about?](http://9gag.com/gag/aegDPLO)
+ - 🚯 [Saving the planet](http://9gag.com/gag/aQXdBMw)<!-- MEMES:END -->
 
 --- 
 
