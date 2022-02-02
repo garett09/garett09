@@ -179,8 +179,8 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s One, Set For Stun](https://kotaku.com/yannick-stahl-concept-art-star-wars-destiny-freelance-a-1848464349)
  - [Resident Evil 4 HD Mod, Out Now After 8 Years In Development, Looks Amazing](https://kotaku.com/resident-evil-4-capcom-gamecube-steam-pc-mod-hd-remake-1848464090)
- - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/01/critics-choice-promotion-comes-to-playstation-store-2/)
  - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/01/critics-choice-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
