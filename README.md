@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group reports Q4 revenue of $806.1M, up 24% YoY, vs. est. $818.6M, with 16.2M paying users, up 15% YoY, forecasts weaker Q1 growth due to Omicron effects &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220201/p45#a220201p45)
  - [Resident Evil 4’s fan-built HD remaster is finally complete](https://www.theverge.com/2022/2/1/22911418/resident-evil-4-hd-project-remaster-release-date-install-download)
- - [Farewell, Tom Brady, and thanks for all the memes     - CNET](https://www.cnet.com/news/farewell-tom-brady-and-thanks-for-all-the-memes/#ftag=CAD590a51e)
- - [It’s pronounced “neft”](https://www.theverge.com/2022/2/1/22913317/nft-pronunciation-neft-okay)<!-- TECH:END -->
+ - [Farewell, Tom Brady, and thanks for all the memes     - CNET](https://www.cnet.com/news/farewell-tom-brady-and-thanks-for-all-the-memes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
