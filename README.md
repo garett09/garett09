@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopping for a Router Sucks. Here’s What You Need to Know](https://www.wired.com/story/how-to-buy-a-router)
- - [How an App Can Help Fight Homelessness](https://www.wired.com/story/app-fight-homelessness-community-service)
- - [LogMeIn rebrands as GoTo, still plans to spin off LastPass](https://www.theverge.com/2022/2/2/22912367/logmein-rebranding-as-goto-like-gotomeeting)<!-- TECH:END -->
+ - [The Best Posture Correctors to Put a Stop to Your Slouch](https://www.wired.com/gallery/posture-correctors)
+ - [Dell XPS 17 review: big screen dream](https://www.theverge.com/22913150/dell-xps-17-9710-review-price-specs-features)
+ - [NFT money laundering is a small but growing sector, says Chainalysis report](https://www.theverge.com/2022/2/2/22914056/nft-money-laundering-chainalysis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
