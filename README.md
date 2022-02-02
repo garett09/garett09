@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I will remove my son&#39;s toothbrush since he doesn&#39;t really know how to use it](http://9gag.com/gag/abgGKRB)
- - 🚯 [Children without internet](http://9gag.com/gag/aggA6Zq)
- - 🚯 [Good night MF!](http://9gag.com/gag/aXrgQLd)<!-- MEMES:END -->
+ - 🚖 [Best days are yet to come](http://9gag.com/gag/a81GQG3)
+ - 🚯 [Good night MF!](http://9gag.com/gag/aXrgQLd)
+ - 🚯 [Titweasel](http://9gag.com/gag/a21W9n1)<!-- MEMES:END -->
 
 --- 
 
