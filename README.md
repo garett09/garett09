@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ has a TikTok and its first challenge promotes &#39;The Afterparty&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-has-a-tiktok-and-its-first-challenge-promotes-the-afterparty?utm_medium=rss)
- - [50% off the Razer Kraken Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)
- - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals Feb. 2: $100 off every AirPods Max color, $400 off Vizio 65-inch 4K 120Hz AirPlay TV, more!](https://appleinsider.com/articles/22/02/02/best-deals-feb-2-100-off-every-airpods-max-color-400-off-vizio-65-inch-4k-120hz-airplay-tv-more?utm_medium=rss)
+ - [Suicide Squad: Kill the Justice League reportedly won’t come out until 2023](https://www.theverge.com/2022/2/2/22914689/suicide-squad-kill-the-justice-league-video-game-rocksteady-delay)
+ - [GitHub, which owns the npm JavaScript package manager, announces it&#39;s enrolling the 100 most popular libraries hosted on npm into two-factor authentication &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220202/p28#a220202p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
