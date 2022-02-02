@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How dare you?!](http://9gag.com/gag/azemvAN)
+ - 🚖 [Apples on a scale from most tart to most sweet](http://9gag.com/gag/a81G9nO)
  - 🚯 [News of today. The EU Commission, after some controversy, has given Nuclear Energy and Gas the green label today](http://9gag.com/gag/adgVW4Q)
- - 🚯 [Eyes tracking nice](http://9gag.com/gag/aGzdrL0)<!-- MEMES:END -->
+ - 🚯 [Just keeping my chances open;&rpar;](http://9gag.com/gag/axB98WD)<!-- MEMES:END -->
 
 --- 
 
