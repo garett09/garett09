@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google One VPN for Android just got a little safer](https://www.androidauthority.com/google-one-vpn-android-features-3100630/)
- - [Sony is still struggling with PS5 supply](https://www.theverge.com/2022/2/2/22913870/sony-earnings-q3-2021-ps5-sales-vs-ps4)
- - [Black game developers say the video game industry continues to struggle with diversity, as a report shows 4% of devs were Black in 2021, up from 2% in 2005 &lpar;Jamal Michel/Washington Post&rpar;](http://www.techmeme.com/220202/p2#a220202p2)<!-- TECH:END -->
+ - [Polestar’s ‘Arctic Circle’ performance EV can shred a snowy track](https://www.theverge.com/2022/2/2/22913533/polestar-arctic-circle-electric-fastback-one-off-snow-test)
+ - [Report claims Apple is already testing the iPhone SE 3 at least in one market](https://www.androidauthority.com/apple-iphone-se-3-launch-3100673/)
+ - [The Google One VPN for Android just got a little safer](https://www.androidauthority.com/google-one-vpn-android-features-3100630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
