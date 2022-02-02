@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Who did it better?](http://9gag.com/gag/apgGX49)
- - 🚯 [Apples on a scale from most tart to most sweet](http://9gag.com/gag/a81G9nO)
- - 🚯 [Anyone that isnt from north america europe china or india please comment its your time to be noticed here and tell a cool fact or story about your country!](http://9gag.com/gag/aYryvvq)<!-- MEMES:END -->
+ - 🚯 [Anyone that isnt from north america europe china or india please comment its your time to be noticed here and tell a cool fact or story about your country!](http://9gag.com/gag/aYryvvq)
+ - 🚯 [Just keeping my chances open;&rpar;](http://9gag.com/gag/axB98WD)<!-- MEMES:END -->
 
 --- 
 
