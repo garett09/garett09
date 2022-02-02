@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m officially old. Got real excited about this 2nd hand pot.](http://9gag.com/gag/aZryv5n)
- - 🚯 [True](http://9gag.com/gag/a21WxKE)
- - 🚯 [Gay friends: what&#39;s stopping you from being gay? Me:](http://9gag.com/gag/a81GzDe)<!-- MEMES:END -->
+ - 🚖 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
+ - 🚯 [A guy from Sweden, Dolph Lundgren earned a masters degree in chemical engineering, won a Fulbright Scholarship to MIT and holds the 4th rank black belt in Kyokushin karate, all before putting Stallone in the ICU trying to make Rocky look more realistic](http://9gag.com/gag/aDD4M0w)
+ - 🚯 [Happy](http://9gag.com/gag/aXrge3z)<!-- MEMES:END -->
 
 --- 
 
