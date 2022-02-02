@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Happy](http://9gag.com/gag/aXrge3z)
- - 🚯 [Identity Politics](http://9gag.com/gag/avAzD3Z)
- - 🚯 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)<!-- MEMES:END -->
+ - 🚯 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
+ - 🚯 [True](http://9gag.com/gag/a21WxKE)<!-- MEMES:END -->
 
 --- 
 
