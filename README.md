@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen trailer shows off weapon crafting and worm-launching Exotics](https://www.polygon.com/22914620/destiny-2-witch-queen-trailer-exotic-weapon-crafting)
- - [Ghostwire: Tokyo launch date, preview showcase announced](https://www.polygon.com/22914664/ghostwire-tokyo-release-date-ps5-timed-exclusive)
- - [Suicide Squad: Kill the Justice League reportedly delayed to 2023](https://www.polygon.com/22914587/suicide-squad-kill-the-justice-league-game-delayed-2023-warner-media-rocksteady)<!-- GAME:END -->
+ - [The BFG-10000 gaming PC can run Doom because it is Doom](https://www.pcgamer.com/the-bfg-10000-gaming-pc-can-run-doom-because-it-is-doom)
+ - [Electronic Arts CEO doesn’t commit to NFTs on latest investor call](https://www.polygon.com/22914579/electronic-arts-ceo-andrew-wilson-nfts-investors-call-discussion)
+ - [Suicide Squad: Kill the Justice League reportedly delayed until 2023](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-reportedly-delayed-until-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
