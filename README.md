@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission publishes a plan to bolster its influence in creating global tech standards, seeking to challenge China and its companies &lpar;Laurens Cerulus/Politico&rpar;](http://www.techmeme.com/220202/p24#a220202p24)
- - [Apple’s Face ID with a Mask works so well, it might end password purgatory](https://www.theverge.com/2022/2/2/22912677/apple-face-id-mask-update-ios-15-4-beta-hands-on-impressions)
- - [Connecticut man caught placing an AirTag for stalking](https://appleinsider.com/articles/22/02/02/connecticut-man-caught-placing-an-airtag-for-stalking?utm_medium=rss)<!-- TECH:END -->
+ - [Zagg Protect is the case maker’s version of phone insurance](https://www.theverge.com/2022/2/2/22913522/zagg-protect-phone-insurance-repair-applecare-asurion-squaretrade)
+ - [What’s new on Paramount Plus in February: The In Between and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
+ - [Firefox’s anti-tracking feature adds per-account VPN for more privacy](https://www.theverge.com/2022/2/2/22914078/mozilla-vpn-multi-account-containers-add-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
