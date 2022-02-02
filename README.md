@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
- - 🚯 [A guy from Sweden, Dolph Lundgren earned a masters degree in chemical engineering, won a Fulbright Scholarship to MIT and holds the 4th rank black belt in Kyokushin karate, all before putting Stallone in the ICU trying to make Rocky look more realistic](http://9gag.com/gag/aDD4M0w)
- - 🚯 [Happy](http://9gag.com/gag/aXrge3z)<!-- MEMES:END -->
+ - 🚖 [Happy](http://9gag.com/gag/aXrge3z)
+ - 🚯 [Identity Politics](http://9gag.com/gag/avAzD3Z)
+ - 🚯 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)<!-- MEMES:END -->
 
 --- 
 
