@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2: Stay Human review](https://www.pcgamer.com/dying-light-2-stay-human-review)
- - [Dying Light 2 review: Story or gameplay, which would you save?](https://www.polygon.com/reviews/22913452/dying-light-2-review-techland)
- - [Dying Light 2: The Kotaku Review](https://kotaku.com/dying-light-2-kotaku-review-zombie-techland-open-world-1848456376)<!-- GAME:END -->
+ - [Transcend your humanity with the best settings in Dying Light 2](https://www.pcgamer.com/dying-light-2-best-settings)
+ - [Dungeons &amp; Dragons TV series from the director of Red Notice adds to movie plans, says Wizards of the Coast](https://www.polygon.com/22914242/dungeons-dragons-tv-series-movie-releases)
+ - [Valheim is one year old, and here&#39;s a big bug to celebrate](https://www.pcgamer.com/valheim-is-one-year-old-and-heres-a-big-bug-to-celebrate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
