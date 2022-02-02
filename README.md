@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Transcend your humanity with the best settings in Dying Light 2](https://www.pcgamer.com/dying-light-2-best-settings)
- - [Dungeons &amp; Dragons TV series from the director of Red Notice adds to movie plans, says Wizards of the Coast](https://www.polygon.com/22914242/dungeons-dragons-tv-series-movie-releases)
- - [Valheim is one year old, and here&#39;s a big bug to celebrate](https://www.pcgamer.com/valheim-is-one-year-old-and-heres-a-big-bug-to-celebrate)<!-- GAME:END -->
+ - [MLB The Show 22 celebrates Shohei Ohtani with a manga-themed cover](https://www.polygon.com/22914448/mlb-the-show-22-shohei-ohtani-manga-cover-afro-samurai-takashi-okazaki)
+ - [Hermen Hulst talks Bungie, what’s next for PlayStation Studios](https://blog.playstation.com/2022/02/02/hermen-hulst-talks-bungie-whats-next-for-playstation-studios/)
+ - [Being quite good at climbing is still gaming&#39;s greatest superpower](https://www.pcgamer.com/being-quite-good-at-climbing-is-still-gamings-greatest-superpower)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
