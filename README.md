@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the acquisitions of Zynga by Take-Two, Activision Blizzard by Microsoft, and Bungie by Sony reveal an industry evolution that extends far beyond gaming &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220202/p6#a220202p6)
- - [Hurry! Grab this $100 off Samsung Galaxy S21 FE deal before it disappears](https://www.androidauthority.com/samsung-galaxy-s21-fe-amazon-deal-3100751/)
- - [10 best chemistry apps for Android](https://www.androidauthority.com/best-chemistry-apps-android-3090721/)<!-- TECH:END -->
+ - [Google&#39;s parent company Alphabet announces 20-for-1 stock split](https://appleinsider.com/articles/22/02/02/googles-parent-company-alphabet-announces-20-for-1-stock-split?utm_medium=rss)
+ - [Elon Musk announces Starlink Premium, a $500/month tier with claimed 150Mbps to 500Mbps download speeds, up from 50Mbps to 250Mbps on the standard tier &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220202/p11#a220202p11)
+ - [Sources: Meta is quietly introducing its metaverse vision to conservative think tanks and nonprofits, seeking to blunt expected criticism in DC from lawmakers &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/220202/p10#a220202p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
