@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ready to Enter the Zone? Chernobylite Comes to Xbox Series X|S April 21](https://news.xbox.com/en-us/2022/02/01/ready-to-enter-the-zone-chernobylite-comes-to-xbox-series-xs-april-21/)
- - [Summer Wars Creator&#39;s New Anime Is Visually Stunning, But Misses The Mark](https://kotaku.com/belle-review-anime-hosoda-mamoru-animated-film-summer-w-1848463353)
- - [Notorious YouTube Streamer Stole $500,000 From Fans In Crypto Scheme &lpar;And Won&#39;t Give It Back&rpar;](https://kotaku.com/youtube-twitch-streamer-ice-poseidon-stole-money-crypto-1848463229)<!-- GAME:END -->
+ - [Shovel Knight developers’ next game is a Zelda-like you play as a mouse](https://www.polygon.com/22913177/shovel-knight-yacht-club-new-game-mina-the-hollower)
+ - [What can Blizzard bring to the survival genre?](https://www.pcgamer.com/what-can-blizzard-bring-to-the-survival-genre)
+ - [Manchester United Striker Pulled From FIFA After Rape Allegations](https://kotaku.com/mason-greenwood-manchester-united-rape-fifa-22-football-1848463625)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
