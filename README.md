@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Warning, this post contains stereotype based humour.](http://9gag.com/gag/arnVrx6)
+ - 🚖 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)
  - 🚯 [True](http://9gag.com/gag/a21WxKE)
- - 🚯 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)<!-- MEMES:END -->
+ - 🚯 [You know, i am something of a LEGEND myself](http://9gag.com/gag/a81GzQV)<!-- MEMES:END -->
 
 --- 
 
