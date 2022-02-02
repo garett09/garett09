@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy](http://9gag.com/gag/aXrge3z)
- - 🚯 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
- - 🚯 [True](http://9gag.com/gag/a21WxKE)<!-- MEMES:END -->
+ - 🚖 [Warning, this post contains stereotype based humour.](http://9gag.com/gag/arnVrx6)
+ - 🚯 [True](http://9gag.com/gag/a21WxKE)
+ - 🚯 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)<!-- MEMES:END -->
 
 --- 
 
