@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s parent company Alphabet announces 20-for-1 stock split](https://appleinsider.com/articles/22/02/02/googles-parent-company-alphabet-announces-20-for-1-stock-split?utm_medium=rss)
- - [Elon Musk announces Starlink Premium, a $500/month tier with claimed 150Mbps to 500Mbps download speeds, up from 50Mbps to 250Mbps on the standard tier &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220202/p11#a220202p11)
- - [Sources: Meta is quietly introducing its metaverse vision to conservative think tanks and nonprofits, seeking to blunt expected criticism in DC from lawmakers &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/220202/p10#a220202p10)<!-- TECH:END -->
+ - [Sony planning more than 10 live service games before March 2026](https://www.theverge.com/2022/2/2/22914016/sony-playstation-live-service-games-launch-march-2026)
+ - [Samsung Galaxy A13 5G review: functional, no-frills 5G](https://www.theverge.com/22907086/samsung-galaxy-a13-5g-review-price-screen-specs)
+ - [Apple tops &#39;most admired companies&#39; list for 15th year in a row](https://appleinsider.com/articles/22/02/02/apple-tops-most-admired-companies-list-for-15th-year-in-a-row?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
