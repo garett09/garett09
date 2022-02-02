@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apples on a scale from most tart to most sweet](http://9gag.com/gag/a81G9nO)
- - 🚯 [News of today. The EU Commission, after some controversy, has given Nuclear Energy and Gas the green label today](http://9gag.com/gag/adgVW4Q)
- - 🚯 [Just keeping my chances open;&rpar;](http://9gag.com/gag/axB98WD)<!-- MEMES:END -->
+ - 🚖 [Who did it better?](http://9gag.com/gag/apgGX49)
+ - 🚯 [Apples on a scale from most tart to most sweet](http://9gag.com/gag/a81G9nO)
+ - 🚯 [Anyone that isnt from north america europe china or india please comment its your time to be noticed here and tell a cool fact or story about your country!](http://9gag.com/gag/aYryvvq)<!-- MEMES:END -->
 
 --- 
 
