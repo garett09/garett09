@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High standards](http://9gag.com/gag/aDD4rP7)
- - 🚯 [Leave the soy, is not good for you](http://9gag.com/gag/aZry479)
- - 🚯 [Titweasel](http://9gag.com/gag/a21W9n1)<!-- MEMES:END -->
+ - 🚖 [Titweasel](http://9gag.com/gag/a21W9n1)
+ - 🚯 [Dwarf &lpar;JenEricLive&rpar; takes a break](http://9gag.com/gag/avAzBmE)
+ - 🚯 [If you have backproblems, try this](http://9gag.com/gag/a91n4M6)<!-- MEMES:END -->
 
 --- 
 
