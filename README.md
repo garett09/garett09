@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the difference between 5G, 5G Plus, 5G UW, and 5G UC?](https://www.theverge.com/22914668/5g-uw-uc-icon-meaning-verizon-att-t-mobile)
- - [Meta reports Family of Apps revenue of $32.8B and will change its ticker symbol from FB to META in H1 2022; Reality Labs lost $10.2B in 2021 on $877M revenue &lpar;Facebook&rpar;](http://www.techmeme.com/220202/p33#a220202p33)
- - [Qualcomm beats with Q1 revenue of $10.7B vs $10.42B est., up 30% YoY, net income of $3.7B, up 47% YoY, and chip segment revenue of $8.8B, up 35% YoY &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220202/p32#a220202p32)<!-- TECH:END -->
+ - [Two members of Google’s Ethical AI group leave to join Timnit Gebru’s nonprofit](https://www.theverge.com/2022/2/2/22915079/google-ethical-ai-group-departure-timnit-gebru)
+ - [Meta reports its first-ever sequential decline in global Facebook daily users, with DAUs falling from 1.930B to 1.929B QoQ &lpar;Washington Post&rpar;](http://www.techmeme.com/220202/p35#a220202p35)
+ - [History made: Facebook daily use declined for first time ever last quarter](https://www.androidauthority.com/facebook-decline-2022-3101225/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
