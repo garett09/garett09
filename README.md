@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Channing Tatum is salty about his Gambit movie dying in the Disney/Fox merger](https://www.polygon.com/22914878/gambit-marvel-channing-tatum-movie-fox-disney)
- - [Watch Gran Turismo 7’s new State of Play livestream here](https://www.polygon.com/22914907/gran-turismo-7-ps5-state-of-play-stream-watch-start-time)
- - [Microsoft, Sony acquisitions are just the start of massive video game industry consolidation](https://www.polygon.com/22914859/microsoft-activision-blizzard-sony-acquisitions-consolidation-2022)<!-- GAME:END -->
+ - [Pretty much everyone you’ve ever heard of is doing a voice in The Boys’ animated spinoff](https://www.polygon.com/22915016/the-boys-presents-diabolical-trailer-voice-cast-release-date)
+ - [Destiny 2 Players Are Arguing Over Worm Babies](https://kotaku.com/destiny-2-witch-queen-bungie-sony-ps5-hive-baby-1848470390)
+ - [Ghostwire: Tokyo release date leaks on YouTube](https://www.pcgamer.com/ghostwire-tokyo-release-date-leaks-on-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
