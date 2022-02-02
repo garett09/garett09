@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar’s ‘Arctic Circle’ performance EV can shred a snowy track](https://www.theverge.com/2022/2/2/22913533/polestar-arctic-circle-electric-fastback-one-off-snow-test)
- - [Report claims Apple is already testing the iPhone SE 3 at least in one market](https://www.androidauthority.com/apple-iphone-se-3-launch-3100673/)
- - [The Google One VPN for Android just got a little safer](https://www.androidauthority.com/google-one-vpn-android-features-3100630/)<!-- TECH:END -->
+ - [Sony reports Q3 gaming revenue dropped by 8% YoY to ~$7.09B, operating profit rose 12.1% YoY to ~$810M; Sony shipped 3.9M PlayStation 5 consoles for 17.3M total &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220202/p4#a220202p4)
+ - [Alphabet says its board has approved a 20-for-1 stock split, slated for July 1 with shareholder approval; Google last split its stock in 2014 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220202/p3#a220202p3)
+ - [You told us: You’re split about plans for an Indian-made Android, iOS rival](https://www.androidauthority.com/india-homegrown-os-rival-poll-results-3100629/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
