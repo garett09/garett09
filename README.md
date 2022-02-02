@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Book of Boba Fett is replicating the same formula that turned Anakin into Vader](https://www.polygon.com/star-wars/22914152/book-of-boba-fett-luke-skywalker-actor-voice-grogu-lightsaber-training-yoda)
- - [Halo Infinite Spartans Fly Around Like Titanfall Players With This Grappling Hook Technique](https://kotaku.com/halo-infinite-343-grappling-hook-slide-titanfall-shyway-1848467766)
- - [How to start a dedicated server for Project Zomboid](https://www.pcgamer.com/project-zomboid-dedicated-server-hosting-memory)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen trailer shows off weapon crafting and worm-launching Exotics](https://www.polygon.com/22914620/destiny-2-witch-queen-trailer-exotic-weapon-crafting)
+ - [Ghostwire: Tokyo launch date, preview showcase announced](https://www.polygon.com/22914664/ghostwire-tokyo-release-date-ps5-timed-exclusive)
+ - [Suicide Squad: Kill the Justice League reportedly delayed to 2023](https://www.polygon.com/22914587/suicide-squad-kill-the-justice-league-game-delayed-2023-warner-media-rocksteady)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
