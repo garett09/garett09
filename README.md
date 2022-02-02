@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shovel Knight developers’ next game is a Zelda-like you play as a mouse](https://www.polygon.com/22913177/shovel-knight-yacht-club-new-game-mina-the-hollower)
- - [What can Blizzard bring to the survival genre?](https://www.pcgamer.com/what-can-blizzard-bring-to-the-survival-genre)
- - [Manchester United Striker Pulled From FIFA After Rape Allegations](https://kotaku.com/mason-greenwood-manchester-united-rape-fifa-22-football-1848463625)<!-- GAME:END -->
+ - [Resident Evil 4 HD Mod, Out Now After 8 Years In Development, Looks Amazing](https://kotaku.com/resident-evil-4-capcom-gamecube-steam-pc-mod-hd-remake-1848464090)
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/01/critics-choice-promotion-comes-to-playstation-store-2/)
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/01/critics-choice-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
