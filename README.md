@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quarter of chemo done! 6th Day streak is over and 18 More to go!](http://9gag.com/gag/aDD4MBB)
- - 🚯 [True](http://9gag.com/gag/a21WxKE)
- - 🚯 [You know, i am something of a LEGEND myself](http://9gag.com/gag/a81GzQV)<!-- MEMES:END -->
+ - 🚖 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
+ - 🚯 [What&#39;s the commotion about?](http://9gag.com/gag/aegDPLO)
+ - 🚯 [This is the last photo of Nicholas Mevoli. He attempted to dive 236ft deep and succeeded. He surfaced and gave the `O.K.` sign, attempted to speak and passed out. He never recovered and died from pulmonary edema.](http://9gag.com/gag/aRr7NN5)<!-- MEMES:END -->
 
 --- 
 
