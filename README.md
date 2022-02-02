@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pretty much everyone you’ve ever heard of is doing a voice in The Boys’ animated spinoff](https://www.polygon.com/22915016/the-boys-presents-diabolical-trailer-voice-cast-release-date)
- - [Destiny 2 Players Are Arguing Over Worm Babies](https://kotaku.com/destiny-2-witch-queen-bungie-sony-ps5-hive-baby-1848470390)
- - [Ghostwire: Tokyo release date leaks on YouTube](https://www.pcgamer.com/ghostwire-tokyo-release-date-leaks-on-youtube)<!-- GAME:END -->
+ - [Red Notice director takes on Dungeon &amp; Dragons TV show](https://www.pcgamer.com/red-notice-director-takes-on-dungeon-and-dragons-tv-show)
+ - [Gran Turismo 7: State of Play recap and your first few hours with the game](https://blog.playstation.com/2022/02/02/gran-turismo-7-state-of-play-recap-and-your-first-few-hours-with-the-game/)
+ - [Gran Turismo 7: State of Play recap and your first few hours with the game](https://blog.playstation.com/2022/02/02/gran-turismo-7-state-of-play-recap-and-your-first-few-hours-with-the-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
