@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
- - 🚯 [I was also there 3,000 years ago](http://9gag.com/gag/aQXdb2w)
- - 🚯 [Apples on a scale from most tart to most sweet](http://9gag.com/gag/a81G9nO)<!-- MEMES:END -->
+ - 🚖 [It\u2019s Engineering Wednesday](http://9gag.com/gag/aPZ70QP)
+ - 🚯 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
+ - 🚯 [Freedom or Loneliness ??!!](http://9gag.com/gag/aogPw82)<!-- MEMES:END -->
 
 --- 
 
