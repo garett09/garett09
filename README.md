@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wired or wireless gaming mouse you can buy](https://www.theverge.com/21252193/best-gaming-mouse)
- - [Sundar Pichai says Pixel sales hit an all-time quarterly high despite supply issues; Pixel sales are lumped in Alphabet&#39;s &quot;Other&quot; category, which jumped 22% YoY &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/220201/p41#a220201p41)
- - [Apple Watch saves man&#39;s life after hard fall from an electric bike](https://appleinsider.com/articles/22/02/01/apple-watch-saves-mans-life-after-hard-fall-from-an-electric-bike?utm_medium=rss)<!-- TECH:END -->
+ - [It’s pronounced “neft”](https://www.theverge.com/2022/2/1/22913317/nft-pronunciation-neft-okay)
+ - [YouTube is rolling out a new interface for its Android and iOS app&#39;s full-screen player, making it easier to like or dislike a video, view comments, and share &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220201/p44#a220201p44)
+ - [EA&#39;s CEO says NFTs are not something the company is currently &quot;driving on&quot;, just three months after calling NFTs and blockchain &quot;the future of our industry&quot; &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/220201/p43#a220201p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
