@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
- - [AMD confirms RDNA 3 GPUs this year and is spending big to &#39;to satisfy the demand out there&#39;](https://www.pcgamer.com/amd-rdna-3-2022-increased-supply)
- - [The best CPU for gaming in 2022](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
+ - [A working Intel Larrabee graphics card prototype just sold for $5,000](https://www.pcgamer.com/a-working-intel-larrabee-graphics-card-prototype-just-sold-for-dollar5000)
+ - [JRPG-Style Prayer Altar For Your Dead, Gaming-Loving Relatives](https://kotaku.com/jrpg-japanese-role-playing-games-butsudan-buddhism-reli-1848465407)
+ - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
