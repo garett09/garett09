@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite multiplayer ultimate challenge guide](https://www.pcgamer.com/halo-infinite-ultimate-challenge-guide)
  - [Electronic Arts is having second thoughts about NFTs](https://www.pcgamer.com/electronic-arts-is-having-second-thoughts-about-nfts)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Tiny Tina&#39;s Wonderlands details the Graveborn and Spore Warden classes](https://www.pcgamer.com/tiny-tinas-wonderlands-details-the-graveborn-and-spore-warden-classes)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
