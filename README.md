@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas saying her own name](http://9gag.com/gag/aqGndjj)
- - 🚯 [What&#39;s the commotion about?](http://9gag.com/gag/aegDPLO)
- - 🚯 [This is the last photo of Nicholas Mevoli. He attempted to dive 236ft deep and succeeded. He surfaced and gave the `O.K.` sign, attempted to speak and passed out. He never recovered and died from pulmonary edema.](http://9gag.com/gag/aRr7NN5)<!-- MEMES:END -->
+ - 🚖 [Hate when that happens](http://9gag.com/gag/aegDPLb)
+ - 🚯 [Directly into the small spoon&#39;s spot](http://9gag.com/gag/aE8Py1o)
+ - 🚯 [Pretty sure I&#39;m not the only one](http://9gag.com/gag/amgvdK2)<!-- MEMES:END -->
 
 --- 
 
