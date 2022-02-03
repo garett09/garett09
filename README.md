@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
+ - 🚖 [Who said you can&#39;t print a gif?](http://9gag.com/gag/a51W3vG)
  - 🚯 [Look at it/those/them](http://9gag.com/gag/aKm7561)
  - 🚯 [So sad but true](http://9gag.com/gag/apgG7XE)<!-- MEMES:END -->
 
