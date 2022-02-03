@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Destiny 2: The Witch Queen](https://www.pcgamer.com/destiny-2-the-witch-queen)
- - [Nintendo Sounds Leery Of Acquisitions](https://kotaku.com/nintendo-acqusition-merger-takeover-sony-microsoft-busi-1848472981)
- - [Puzzle Quest 3 arrives next month to steal all your free time](https://www.pcgamer.com/puzzle-quest-3-arrives-next-month)<!-- GAME:END -->
+ - [Get a sneak peek at the massive variety of amazing things to do in the Forbidden West](https://blog.playstation.com/2022/02/03/get-a-sneak-peek-at-the-massive-variety-of-amazing-things-to-do-in-the-forbidden-west/)
+ - [OlliOlli World is a challenging but joyous celebration of skateboarding](https://www.polygon.com/reviews/22912540/olliolli-world-skateboarding-review-playstation-xbox-switch-pc)
+ - [Miners say Nvidia&#39;s cryptocurrency limiter hasn&#39;t deterred them from buying GPUs: &#39;LHR was pointless&#39;](https://www.pcgamer.com/miners-say-nvidias-cryptocurrency-limiter-hasnt-deterred-them-from-buying-gpus-lhr-was-pointless)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
