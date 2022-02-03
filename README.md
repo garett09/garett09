@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate Judiciary Committee approves the Open App Markets Act, which would allow app sideloading and let developers use their own in-app payment systems &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220203/p29#a220203p29)
- - [iPad delivery estimates remained extended as Apple prioritizes iPhone 13](https://appleinsider.com/articles/22/02/03/ipad-delivery-estimates-remained-extended-as-apple-prioritizes-iphone-13?utm_medium=rss)
- - [Senate Judiciary advances bill that would force Apple to allow iOS side-loading](https://appleinsider.com/articles/22/02/03/senate-judiciary-advances-bill-that-would-force-apple-to-allow-ios-side-loading?utm_medium=rss)<!-- TECH:END -->
+ - [Moonfall is a hollow, galaxy-brained spectacle](https://www.theverge.com/22915761/moonfall-review-roland-emmerich)
+ - [Mos, a challenger bank for students, raises a $40M Series B led by Tiger Global at a $400M valuation, up from $50M in May 2020 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220203/p32#a220203p32)
+ - [Samsung Galaxy A13 review: Cheap 5G comes at a cost](https://www.androidauthority.com/samsung-galaxy-a13-review-3094286/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
