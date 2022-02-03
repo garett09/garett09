@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just my two cents](http://9gag.com/gag/arnVQv5)
- - 🚯 [Ever third post](http://9gag.com/gag/a61KYyq)
- - 🚯 [After Vietnam beat the shit out of China](http://9gag.com/gag/aDD4emw)<!-- MEMES:END -->
+ - 🚖 [The 4 Horsemen](http://9gag.com/gag/aRr7bV5)
+ - 🚯 [Strength of a lioness](http://9gag.com/gag/aVxwyon)
+ - 🚯 [Willem Dapost](http://9gag.com/gag/ay9ejr8)<!-- MEMES:END -->
 
 --- 
 
