@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stupid rule](http://9gag.com/gag/azemyqp)
+ - 🚖 [What are you doing, step-plane?](http://9gag.com/gag/arnVLzK)
  - 🚯 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
- - 🚯 [This is irrefutable](http://9gag.com/gag/aE8P5dx)<!-- MEMES:END -->
+ - 🚯 [It&#39;s sad...](http://9gag.com/gag/adgVweM)<!-- MEMES:END -->
 
 --- 
 
