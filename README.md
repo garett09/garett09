@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When did Anakin get his scar?](http://9gag.com/gag/aegDnYW)
- - 🚯 [Every movie Killer be like](http://9gag.com/gag/aLvwxnz)
- - 🚯 [Sheesh.](http://9gag.com/gag/aZry6QV)<!-- MEMES:END -->
+ - 🚖 [Some-](http://9gag.com/gag/aGzdX0X)
+ - 🚯 [Sheesh.](http://9gag.com/gag/aZry6QV)
+ - 🚯 [Flat-Earther accidentally proves the earth is round in his own experiment](http://9gag.com/gag/aE8P9AK)<!-- MEMES:END -->
 
 --- 
 
