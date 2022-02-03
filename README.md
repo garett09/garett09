@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in a Spotify staff meeting, CEO Daniel Ek said the company sees itself as a platform, not a publisher, of Joe Rogan&#39;s podcast &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/220202/p40#a220202p40)
- - [Apple Watch Series 7 has a fast charging problem](https://appleinsider.com/articles/22/02/02/apple-watch-series-7-has-a-fast-charging-problem?utm_medium=rss)
- - [Headout, an online travel experiences marketplace, adds a $30M extension to its $12M Series B from September 2021 led by Glade Brook Capital &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/220202/p39#a220202p39)<!-- TECH:END -->
+ - [Build-A-Bear just launched an &#39;After Dark&#39; series of horny teddy bears     - CNET](https://www.cnet.com/news/build-a-bear-just-launched-an-after-dark-series-of-horny-teddy-bears/#ftag=CAD590a51e)
+ - [Battle of the super yachts: Jeff Bezos&#39; Y721 versus Steve Jobs&#39; &#39;Venus&#39;](https://appleinsider.com/articles/22/02/03/battle-of-the-super-yachts-jeff-bezos-y721-versus-steve-jobs-venus?utm_medium=rss)
+ - [Over $320M stolen in hack of blockchain platform Wormhole     - CNET](https://www.cnet.com/personal-finance/crypto/over-320m-stolen-in-hack-of-blockchain-platform-wormhole/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
