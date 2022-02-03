@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paper GIFs](http://9gag.com/gag/aXrg69d)
- - 🚯 [They will baptise a demon.](http://9gag.com/gag/aGzdQ7G)
- - 🚯 [Strength of a lioness](http://9gag.com/gag/aVxwyon)<!-- MEMES:END -->
+ - 🚖 [Willem Dapost](http://9gag.com/gag/ay9ejr8)
+ - 🚯 [Gg well played](http://9gag.com/gag/awzBWo8)
+ - 🚯 [It\u2019s been 5 years and I still don\u2019t know wtf was happening with Winona](http://9gag.com/gag/amgvZGj)<!-- MEMES:END -->
 
 --- 
 
