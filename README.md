@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
- - 🚯 [This is me](http://9gag.com/gag/ajg9jeg)
- - 🚯 [Smart guy](http://9gag.com/gag/aVxw8RK)<!-- MEMES:END -->
+ - 🚯 [Look at it/those/them](http://9gag.com/gag/aKm7561)
+ - 🚯 [So sad but true](http://9gag.com/gag/apgG7XE)<!-- MEMES:END -->
 
 --- 
 
