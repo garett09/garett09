@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Willem Dapost](http://9gag.com/gag/ay9ejr8)
- - 🚯 [Gg well played](http://9gag.com/gag/awzBWo8)
- - 🚯 [It\u2019s been 5 years and I still don\u2019t know wtf was happening with Winona](http://9gag.com/gag/amgvZGj)<!-- MEMES:END -->
+ - 🚖 [Just my two cents](http://9gag.com/gag/arnVQv5)
+ - 🚯 [Ever third post](http://9gag.com/gag/a61KYyq)
+ - 🚯 [After Vietnam beat the shit out of China](http://9gag.com/gag/aDD4emw)<!-- MEMES:END -->
 
 --- 
 
