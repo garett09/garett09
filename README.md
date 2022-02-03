@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Engineering Wednesday](http://9gag.com/gag/aPZ70QP)
- - 🚯 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
- - 🚯 [Freedom or Loneliness ??!!](http://9gag.com/gag/aogPw82)<!-- MEMES:END -->
+ - 🚖 [What level of yeehaw is this](http://9gag.com/gag/aPZ72wG)
+ - 🚯 [This is me](http://9gag.com/gag/ajg9jeg)
+ - 🚯 [Smart guy](http://9gag.com/gag/aVxw8RK)<!-- MEMES:END -->
 
 --- 
 
