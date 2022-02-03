@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I feel bad catching Pokémon in Legends: Arceus](https://www.polygon.com/22912632/pokemon-legends-arceus-pokedex)
- - [Meta Quest store revenue quadrupled in the last three years](https://www.pcgamer.com/meta-quest-store-revenue-quadrupled-in-the-last-three-years)
- - [Double Fine head Tim Schafer says its next game won&#39;t be a sequel or adaptation](https://www.pcgamer.com/double-fine-head-tim-schafer-says-its-next-game-wont-be-a-sequel-or-adaptation)<!-- GAME:END -->
+ - [When the 2022 Winter Olympics start and how to watch them](https://www.polygon.com/22916375/how-to-watch-winter-olympics-2022-channel-stream-figure-skating-schedule-curling)
+ - [How long is Dying Light 2?](https://www.pcgamer.com/how-long-is-dying-light-2)
+ - [The six baffled guest stars of Netflix’s improvised mystery show Murderville, ranked](https://www.polygon.com/22911148/netflix-murderville-guests-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
