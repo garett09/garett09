@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GhostWire: Tokyo: everything we know about the spooky action thriller](https://www.pcgamer.com/ghostwire-tokyo-everything-we-know)
- - [Report: Suicide Squad Game Delayed All The Way Into 2023](https://kotaku.com/suicide-squad-kill-the-justice-league-delayed-2023-warn-1848471378)
- - [The cheapest copies of Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)<!-- GAME:END -->
+ - [AMD rakes in the cash in its latest earnings report](https://www.pcgamer.com/amd-rakes-in-the-cash-in-its-latest-earnings-report)
+ - [Experts are warning of a &#39;quantum apocalypse&#39;](https://www.pcgamer.com/experts-are-warning-of-a-quantum-apocalypse)
+ - [These EVGA GeForce RTX 30 bundles are great value](https://www.pcgamer.com/these-evga-geforce-rtx-30-bundles-are-great-value)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
