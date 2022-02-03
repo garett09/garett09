@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moonfall is a hollow, galaxy-brained spectacle](https://www.theverge.com/22915761/moonfall-review-roland-emmerich)
- - [Mos, a challenger bank for students, raises a $40M Series B led by Tiger Global at a $400M valuation, up from $50M in May 2020 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220203/p32#a220203p32)
- - [Samsung Galaxy A13 review: Cheap 5G comes at a cost](https://www.androidauthority.com/samsung-galaxy-a13-review-3094286/)<!-- TECH:END -->
+ - [Google releases Flutter 2.10 with support for developing Windows apps out of beta; macOS and Linux support remains in beta &lpar;Corbin Davenport/XDA Developers&rpar;](http://www.techmeme.com/220203/p33#a220203p33)
+ - [Microsoft to test new experimental Windows 11 features](https://www.theverge.com/2022/2/3/22916118/microsoft-new-windows-11-features-experiment-test)
+ - [Apple releases trailer for &#39;Lincoln&#39;s Dilemma,&#39; coming to Apple TV+ on Feb. 18](https://appleinsider.com/articles/22/02/03/apple-releases-trailer-for-lincolns-dilemma-coming-to-apple-tv-on-feb-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
