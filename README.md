@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Build-A-Bear just launched an &#39;After Dark&#39; series of horny teddy bears     - CNET](https://www.cnet.com/news/build-a-bear-just-launched-an-after-dark-series-of-horny-teddy-bears/#ftag=CAD590a51e)
- - [Battle of the super yachts: Jeff Bezos&#39; Y721 versus Steve Jobs&#39; &#39;Venus&#39;](https://appleinsider.com/articles/22/02/03/battle-of-the-super-yachts-jeff-bezos-y721-versus-steve-jobs-venus?utm_medium=rss)
- - [Over $320M stolen in hack of blockchain platform Wormhole     - CNET](https://www.cnet.com/personal-finance/crypto/over-320m-stolen-in-hack-of-blockchain-platform-wormhole/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 best name generator apps for Android](https://www.androidauthority.com/best-name-generator-apps-android-3092366/)
+ - [Report: Microsoft scrapped plans for a HoloLens 3 in 2021, shifting instead to a mixed reality device with Samsung and leaving the HoloLens team &quot;inflamed&quot; &lpar;Arif Bacchus/OnMSFT.com&rpar;](http://www.techmeme.com/220202/p41#a220202p41)
+ - [Build-A-Bear just launched an &#39;After Dark&#39; series of horny teddy bears     - CNET](https://www.cnet.com/news/build-a-bear-just-launched-an-after-dark-series-of-horny-teddy-bears/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
