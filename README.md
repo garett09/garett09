@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RX 6900 XT pushed to an immense 3.3GHz, steals my heart and top spot in Fire Strike hall of fame](https://www.pcgamer.com/rx-6900-xt-pushed-to-an-immense-33ghz-steals-my-heart-and-top-spot-in-fire-strike-hall-of-fame)
- - [Free Play Days – Naruto to Boruto: Shinobi Striker, Bad North:​ Jotunn Edition, and Greak: Memories of Azur](https://news.xbox.com/en-us/2022/02/03/free-play-days-naruto-to-boruto-shinobi-striker-bad-north-and-greak-memories-of-azur/)
- - [Sony Is Spending 1.2 Billion To Keep Destiny 2 Devs From Leaving](https://kotaku.com/sony-ps5-destiny-2-bungie-devs-playstation-retention-bi-1848474125)<!-- GAME:END -->
+ - [Nintendo crushes fan-favorite game music YouTube channel with thousands of copyright claims](https://www.polygon.com/22916040/nintendo-video-game-music-osts-youtube-gilvasunner-copyright-takedown)
+ - [The best skills in Dying Light 2](https://www.pcgamer.com/best-dying-light-2-skills-list-combat-parkour)
+ - [The Scorpion King predicted everything about modern blockbusters](https://www.polygon.com/22914765/scorpion-king-dwayne-johnson-at-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
