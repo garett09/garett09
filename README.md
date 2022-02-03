@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good](http://9gag.com/gag/a61KPLm)
- - 🚯 [For my Germans](http://9gag.com/gag/aYry2ym)
- - 🚯 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)<!-- MEMES:END -->
+ - 🚖 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)
+ - 🚯 [Snow leopard + his meal + gravity =](http://9gag.com/gag/aVxwN5v)
+ - 🚯 [For some reason, I get scared knowing that people this smart are just walking out there](http://9gag.com/gag/aLvwy4M)<!-- MEMES:END -->
 
 --- 
 
