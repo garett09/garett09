@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look at it/those/them](http://9gag.com/gag/aKm7561)
+ - 🚖 [Stupid rule](http://9gag.com/gag/azemyqp)
  - 🚯 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
- - 🚯 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)<!-- MEMES:END -->
+ - 🚯 [This is irrefutable](http://9gag.com/gag/aE8P5dx)<!-- MEMES:END -->
 
 --- 
 
