@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Vault, a decentralized entertainment startup focused on an NFT collection of superheroes, raises $100M from 01 Advisors and Velvet Sea Ventures &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220202/p38#a220202p38)
- - [Apple urges lawmakers to reject bill that would force it to allow side-loading](https://appleinsider.com/articles/22/02/03/apple-urges-lawmakers-to-reject-bill-that-would-force-it-to-allow-side-loading?utm_medium=rss)
- - [Fly your drone at the Super Bowl, get fined $30,000, FAA says     - CNET](https://www.cnet.com/tech/computing/fly-your-drone-at-the-super-bowl-get-fined-30000-faa-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 7 has a fast charging problem](https://appleinsider.com/articles/22/02/02/apple-watch-series-7-has-a-fast-charging-problem?utm_medium=rss)
+ - [Headout, an online travel experiences marketplace, adds a $30M extension to its $12M Series B from September 2021 led by Glade Brook Capital &lpar;Sneha Shah/The Economic Times&rpar;](http://www.techmeme.com/220202/p39#a220202p39)
+ - [T-Mobile keeps adding phone, home internet subscribers as it continues 5G lead     - CNET](https://www.cnet.com/tech/mobile/t-mobile-keeps-adding-phone-home-internet-subscribers-as-it-continues-5g-lead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
