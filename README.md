@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Not Your Fault You&#39;re a Jerk on Twitter](https://www.wired.com/story/social-media-harassment-platforms)
- - [The Best Smart Bulbs to Light Up Your Room](https://www.wired.com/gallery/best-smart-bulbs)
- - [A New York bill could bring more climate accountability to the fashion industry](https://www.theverge.com/2022/2/3/22891874/new-york-fashion-climate-change-environment)<!-- TECH:END -->
+ - [Bruno Mars and Anderson .Paak are coming to Fortnite](https://www.theverge.com/2022/2/3/22915003/fortnite-bruno-mars-anderson-paak)
+ - [The Best Barefoot Shoes for Walking or Running](https://www.wired.com/gallery/best-barefoot-shoes)
+ - [New company run by former NASA leader aims to build robotic outpost near the Moon](https://www.theverge.com/2022/2/3/22914873/quantum-space-lunar-robotic-outpost-nasa-artemis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
