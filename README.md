@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Flutter 2.10 with support for developing Windows apps out of beta; macOS and Linux support remains in beta &lpar;Corbin Davenport/XDA Developers&rpar;](http://www.techmeme.com/220203/p33#a220203p33)
- - [Microsoft to test new experimental Windows 11 features](https://www.theverge.com/2022/2/3/22916118/microsoft-new-windows-11-features-experiment-test)
- - [Apple releases trailer for &#39;Lincoln&#39;s Dilemma,&#39; coming to Apple TV+ on Feb. 18](https://appleinsider.com/articles/22/02/03/apple-releases-trailer-for-lincolns-dilemma-coming-to-apple-tv-on-feb-18?utm_medium=rss)<!-- TECH:END -->
+ - [Trust Machines, which wants to build DeFi apps, DAOs, and NFTs on Blockstack, now called Stacks, raises $150M via Breyer Capital, Union Square Ventures, others &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/220203/p34#a220203p34)
+ - [Congress is still spinning its wheels on autonomous vehicle regulation](https://www.theverge.com/2022/2/3/22916045/congress-autonomous-vehicle-hearing-av-start-legislation)
+ - [Amazon workers at a second warehouse in NYC say they have filed a petition to unionize](https://www.theverge.com/2022/2/2/22914807/amazon-workers-warehouse-nyc-petition-nlrb-union-organize)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
