@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)
- - 🚯 [If\u00a0Cryptocurrency Was Honest](http://9gag.com/gag/ajg9zBp)
- - 🚯 [High-Speed chase gets ended by angry mom](http://9gag.com/gag/aKm7rKW)<!-- MEMES:END -->
+ - 🚖 [Good](http://9gag.com/gag/a61KPLm)
+ - 🚯 [For my Germans](http://9gag.com/gag/aYry2ym)
+ - 🚯 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)<!-- MEMES:END -->
 
 --- 
 
