@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Pecan AI, which offers a predictive analytics service for enterprises, raises a $66M Series C, bringing its total funding to $117.5M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220203/p1#a220203p1)
- - [5 best name generator apps for Android](https://www.androidauthority.com/best-name-generator-apps-android-3092366/)
- - [Report: Microsoft scrapped plans for a HoloLens 3 in 2021, shifting instead to a mixed reality device with Samsung and leaving the HoloLens team &quot;inflamed&quot; &lpar;Arif Bacchus/OnMSFT.com&rpar;](http://www.techmeme.com/220202/p41#a220202p41)<!-- TECH:END -->
+ - [Counterpoint: iPhone sales in India rose 34% YoY to 2.3M units in Q4, with ~$2.09B in revenue; Xiaomi sold 9.3M units and Samsung sold 7.2M with ~$2B revenue &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220203/p2#a220203p2)
+ - [Google might bring back an old-school feature to Messages and it looks good?](https://www.androidauthority.com/google-messages-navigation-drawer-3101357/)
+ - [Tel Aviv-based Pecan AI, which offers a predictive analytics service for enterprises, raises a $66M Series C, bringing its total funding to $117.5M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220203/p1#a220203p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
