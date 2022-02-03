@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)
- - 🚯 [Do it.](http://9gag.com/gag/ang46Aq)
- - 🚯 [Every movie Killer be like](http://9gag.com/gag/aLvwxnz)<!-- MEMES:END -->
+ - 🚯 [If\u00a0Cryptocurrency Was Honest](http://9gag.com/gag/ajg9zBp)
+ - 🚯 [High-Speed chase gets ended by angry mom](http://9gag.com/gag/aKm7rKW)<!-- MEMES:END -->
 
 --- 
 
