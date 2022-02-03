@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today I learned a handy trick to zoom in and out of Google Maps](https://www.theverge.com/2022/2/3/22915748/google-maps-zooming-one-handed-shortcut-double-tap-apple-citymapper)
  - [Leak: These might be your official Samsung Galaxy S22 case options](https://www.androidauthority.com/samsung-galaxy-s22-cases-leak-3101417/)
- - [The Nintendo Switch has now outsold the Wii](https://www.theverge.com/2022/2/3/22915715/nintendo-earnings-q3-2021-switch-sales-forecast)
- - [Counterpoint: iPhone sales in India rose 34% YoY to 2.3M units in Q4, with ~$2.09B in revenue; Xiaomi sold 9.3M units and Samsung sold 7.2M with ~$2B revenue &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220203/p2#a220203p2)<!-- TECH:END -->
+ - [The Nintendo Switch has now outsold the Wii](https://www.theverge.com/2022/2/3/22915715/nintendo-earnings-q3-2021-switch-sales-forecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
