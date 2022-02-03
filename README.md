@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two members of Google’s Ethical AI group leave to join Timnit Gebru’s nonprofit](https://www.theverge.com/2022/2/2/22915079/google-ethical-ai-group-departure-timnit-gebru)
- - [Meta reports its first-ever sequential decline in global Facebook daily users, with DAUs falling from 1.930B to 1.929B QoQ &lpar;Washington Post&rpar;](http://www.techmeme.com/220202/p35#a220202p35)
- - [History made: Facebook daily use declined for first time ever last quarter](https://www.androidauthority.com/facebook-decline-2022-3101225/)<!-- TECH:END -->
+ - [Facebook rebuilding ad platform due to App Tracking Transparency, data laws](https://appleinsider.com/articles/22/02/03/facebook-rebuilding-ad-platform-due-to-app-tracking-transparency-data-laws?utm_medium=rss)
+ - [Blockchain bridge Wormhole confirms it has been exploited for 120k wETH, worth roughly $322M, and has moved its site into maintenance mode &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220202/p37#a220202p37)
+ - [11 Great TV and Soundbar Deals for Super Bowl Weekend](https://www.wired.com/story/super-bowl-2022-tv-soundbar-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
