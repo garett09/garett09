@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exclusive: Jurassic League is a comic where the Justice League are all freakin’ dinosaurs](https://www.polygon.com/22916145/jurassic-league-batman-superman-dinosaurs-dc-comics)
- - [Halo Mod Makes TV Show Canon By Adding Chevy Tahoe](https://kotaku.com/halo-3-tv-show-mod-suv-chevy-tahoe-1848474956)
- - [Describing Roland Emmerich’s goofy movie Moonfall makes it sound better than it is](https://www.polygon.com/22916249/moonfall-review-roland-emmerich)<!-- GAME:END -->
+ - [In Pokémon Legends: Arceus, Pokémon are finally mysterious again](https://www.polygon.com/22916203/pokemon-legends-arceus-dangerous-mystery)
+ - [James Gunn made sure Peacemaker’s White Dragon was a true ‘racist piece of shit’](https://www.polygon.com/22915073/peacemaker-white-dragon-explained-james-gunn)
+ - [Exclusive: Jurassic League is a comic where the Justice League are all freakin’ dinosaurs](https://www.polygon.com/22916145/jurassic-league-batman-superman-dinosaurs-dc-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
