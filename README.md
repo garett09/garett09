@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France-based Snapshift, a service for managing frontline workers, raises a $45M Series A led by Highland Europe and says it has over 6,000 customers &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220203/p10#a220203p10)
- - [They Were &#39;Calling to Help.&#39; Then They Stole Thousands](https://www.wired.com/story/phone-scam-phishing-finance-apps)
- - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Yuga Labs, the startup behind Bored Ape Yacht Club NFTs, is in talks to raise funds from a16z at a $4B-$5B valuation, its first outside funding &lpar;Financial Times&rpar;](http://www.techmeme.com/220203/p13#a220203p13)
+ - [Apple opens &#39;reimagined&#39; new Abu Dhabi retail store](https://appleinsider.com/articles/22/02/03/apple-opens-reimagined-new-abu-dhabi-retail-store?utm_medium=rss)
+ - [Sources: Israeli surveillance company QuaDream used the zero-click ForcedEntry exploit to access iPhones in 2021; ForcedEntry was also used by NSO Group &lpar;Reuters&rpar;](http://www.techmeme.com/220203/p12#a220203p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
