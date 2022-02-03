@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Sounds Leery Of Acquisitions, But Isn&#39;t Against Them](https://kotaku.com/nintendo-acqusition-merger-takeover-sony-microsoft-busi-1848472981)
- - [Puzzle Quest 3 arrives next month to steal all your free time](https://www.pcgamer.com/puzzle-quest-3-arrives-next-month)
- - [Hacker magics $300M worth of crypto out of thin air in fourth largest blockchain heist ever](https://www.pcgamer.com/wormhole-cryptocurrency-heist)<!-- GAME:END -->
+ - [Everything we know about Destiny 2: The Witch Queen](https://www.pcgamer.com/destiny-2-the-witch-queen)
+ - [Nintendo Sounds Leery Of Acquisitions](https://kotaku.com/nintendo-acqusition-merger-takeover-sony-microsoft-busi-1848472981)
+ - [Puzzle Quest 3 arrives next month to steal all your free time](https://www.pcgamer.com/puzzle-quest-3-arrives-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
