@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who said you can&#39;t print a gif?](http://9gag.com/gag/a51W3vG)
- - 🚯 [So sad but true](http://9gag.com/gag/apgG7XE)
- - 🚯 [Look at it/those/them](http://9gag.com/gag/aKm7561)<!-- MEMES:END -->
+ - 🚖 [Look at it/those/them](http://9gag.com/gag/aKm7561)
+ - 🚯 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
+ - 🚯 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)<!-- MEMES:END -->
 
 --- 
 
