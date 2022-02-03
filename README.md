@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s first Lord of the Rings: The Rings of Power character posters are a guessing game](https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters)
- - [Netflix announces every new movie coming to the service in 2022](https://www.polygon.com/22910496/new-netflix-movies-2022-releases)
- - [Nintendo Switch outsells the Wii, Nintendo’s previously bestselling console](https://www.polygon.com/22915925/nintendo-switch-sales-figures-100-million-outsells-wii)<!-- GAME:END -->
+ - [RX 6900 XT pushed to an immense 3.3GHz, steals my heart and top spot in Fire Strike hall of fame](https://www.pcgamer.com/rx-6900-xt-pushed-to-an-immense-33ghz-steals-my-heart-and-top-spot-in-fire-strike-hall-of-fame)
+ - [Free Play Days – Naruto to Boruto: Shinobi Striker, Bad North:​ Jotunn Edition, and Greak: Memories of Azur](https://news.xbox.com/en-us/2022/02/03/free-play-days-naruto-to-boruto-shinobi-striker-bad-north-and-greak-memories-of-azur/)
+ - [Sony Is Spending 1.2 Billion To Keep Destiny 2 Devs From Leaving](https://kotaku.com/sony-ps5-destiny-2-bungie-devs-playstation-retention-bi-1848474125)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
