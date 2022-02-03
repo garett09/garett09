@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Yuga Labs, the startup behind Bored Ape Yacht Club NFTs, is in talks to raise funds from a16z at a $4B-$5B valuation, its first outside funding &lpar;Financial Times&rpar;](http://www.techmeme.com/220203/p13#a220203p13)
- - [Apple opens &#39;reimagined&#39; new Abu Dhabi retail store](https://appleinsider.com/articles/22/02/03/apple-opens-reimagined-new-abu-dhabi-retail-store?utm_medium=rss)
- - [Sources: Israeli surveillance company QuaDream used the zero-click ForcedEntry exploit to access iPhones in 2021; ForcedEntry was also used by NSO Group &lpar;Reuters&rpar;](http://www.techmeme.com/220203/p12#a220203p12)<!-- TECH:END -->
+ - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)
+ - [Ahead of expected icy weather, Riot Blockchain, the largest Bitcoin mining company in Texas, reduces power consumption by 98% at its Whinstone facility &lpar;Michael Smith/Bloomberg&rpar;](http://www.techmeme.com/220203/p16#a220203p16)
+ - [New to YouTube Music? Here’s What You Need to Start](https://www.wired.com/story/youtube-music-tips-new-users)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
