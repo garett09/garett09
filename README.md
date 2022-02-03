@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a sneak peek at the massive variety of amazing things to do in the Forbidden West](https://blog.playstation.com/2022/02/03/get-a-sneak-peek-at-the-massive-variety-of-amazing-things-to-do-in-the-forbidden-west/)
- - [OlliOlli World is a challenging but joyous celebration of skateboarding](https://www.polygon.com/reviews/22912540/olliolli-world-skateboarding-review-playstation-xbox-switch-pc)
- - [Miners say Nvidia&#39;s cryptocurrency limiter hasn&#39;t deterred them from buying GPUs: &#39;LHR was pointless&#39;](https://www.pcgamer.com/miners-say-nvidias-cryptocurrency-limiter-hasnt-deterred-them-from-buying-gpus-lhr-was-pointless)<!-- GAME:END -->
+ - [Amazon’s first Lord of the Rings: The Rings of Power character posters are a guessing game](https://www.polygon.com/22915948/lord-of-the-rings-of-power-characters-posters)
+ - [Netflix announces every new movie coming to the service in 2022](https://www.polygon.com/22910496/new-netflix-movies-2022-releases)
+ - [Nintendo Switch outsells the Wii, Nintendo’s previously bestselling console](https://www.polygon.com/22915925/nintendo-switch-sales-figures-100-million-outsells-wii)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
