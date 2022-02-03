@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s 2022 movie slate looks absolutely stacked](https://www.theverge.com/2022/2/3/22914120/netflix-2022-movie-slate)
- - [Meta’s stock price plunges 25 percent overnight](https://www.theverge.com/2022/2/3/22916007/facebook-meta-stock-drop-history-invest)
- - [Apple&#39;s 16-inch MacBook Pro with 1TB SSD gets $200 discount, in stock today](https://appleinsider.com/articles/22/01/21/apples-16-inch-macbook-pro-with-1tb-ssd-gets-new-200-discount-in-stock-today?utm_medium=rss)<!-- TECH:END -->
+ - [The US Senate Judiciary Committee approves the Open App Markets Act, which would allow app sideloading and let developers use their own in-app payment systems &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220203/p29#a220203p29)
+ - [iPad delivery estimates remained extended as Apple prioritizes iPhone 13](https://appleinsider.com/articles/22/02/03/ipad-delivery-estimates-remained-extended-as-apple-prioritizes-iphone-13?utm_medium=rss)
+ - [Senate Judiciary advances bill that would force Apple to allow iOS side-loading](https://appleinsider.com/articles/22/02/03/senate-judiciary-advances-bill-that-would-force-apple-to-allow-ios-side-loading?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
