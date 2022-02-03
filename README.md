@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Pokémon Legends: Arceus, Pokémon are finally mysterious again](https://www.polygon.com/22916203/pokemon-legends-arceus-dangerous-mystery)
- - [James Gunn made sure Peacemaker’s White Dragon was a true ‘racist piece of shit’](https://www.polygon.com/22915073/peacemaker-white-dragon-explained-james-gunn)
- - [Exclusive: Jurassic League is a comic where the Justice League are all freakin’ dinosaurs](https://www.polygon.com/22916145/jurassic-league-batman-superman-dinosaurs-dc-comics)<!-- GAME:END -->
+ - [Why power creep is a good thing in Vampire Survivors](https://www.polygon.com/videos/22916201/vampire-survivors-power-creep-hades-risk-of-rain-2)
+ - [Mitsuo Iso’s new anime The Orbital Children dares you to believe in a better future](https://www.polygon.com/reviews/22916144/the-orbital-children-anime-review-netflix)
+ - [We’re hiring a social video producer!](https://www.polygon.com/2022/2/3/22916047/were-hiring-a-social-video-producer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
