@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why power creep is a good thing in Vampire Survivors](https://www.polygon.com/videos/22916201/vampire-survivors-power-creep-hades-risk-of-rain-2)
- - [Mitsuo Iso’s new anime The Orbital Children dares you to believe in a better future](https://www.polygon.com/reviews/22916144/the-orbital-children-anime-review-netflix)
- - [We’re hiring a social video producer!](https://www.polygon.com/2022/2/3/22916047/were-hiring-a-social-video-producer)<!-- GAME:END -->
+ - [I feel bad catching Pokémon in Legends: Arceus](https://www.polygon.com/22912632/pokemon-legends-arceus-pokedex)
+ - [Meta Quest store revenue quadrupled in the last three years](https://www.pcgamer.com/meta-quest-store-revenue-quadrupled-in-the-last-three-years)
+ - [Double Fine head Tim Schafer says its next game won&#39;t be a sequel or adaptation](https://www.pcgamer.com/double-fine-head-tim-schafer-says-its-next-game-wont-be-a-sequel-or-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
