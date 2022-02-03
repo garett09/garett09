@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint: iPhone sales in India rose 34% YoY to 2.3M units in Q4, with ~$2.09B in revenue; Xiaomi sold 9.3M units and Samsung sold 7.2M with ~$2B revenue &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220203/p2#a220203p2)
- - [Google might bring back an old-school feature to Messages and it looks good?](https://www.androidauthority.com/google-messages-navigation-drawer-3101357/)
- - [Tel Aviv-based Pecan AI, which offers a predictive analytics service for enterprises, raises a $66M Series C, bringing its total funding to $117.5M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220203/p1#a220203p1)<!-- TECH:END -->
+ - [Leak: These might be your official Samsung Galaxy S22 case options](https://www.androidauthority.com/samsung-galaxy-s22-cases-leak-3101417/)
+ - [The Nintendo Switch has now outsold the Wii](https://www.theverge.com/2022/2/3/22915715/nintendo-earnings-q3-2021-switch-sales-forecast)
+ - [Counterpoint: iPhone sales in India rose 34% YoY to 2.3M units in Q4, with ~$2.09B in revenue; Xiaomi sold 9.3M units and Samsung sold 7.2M with ~$2B revenue &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220203/p2#a220203p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
