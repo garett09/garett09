@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some-](http://9gag.com/gag/aGzdX0X)
- - 🚯 [Sheesh.](http://9gag.com/gag/aZry6QV)
- - 🚯 [Flat-Earther accidentally proves the earth is round in his own experiment](http://9gag.com/gag/aE8P9AK)<!-- MEMES:END -->
+ - 🚖 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)
+ - 🚯 [Do it.](http://9gag.com/gag/ang46Aq)
+ - 🚯 [Every movie Killer be like](http://9gag.com/gag/aLvwxnz)<!-- MEMES:END -->
 
 --- 
 
