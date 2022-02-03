@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD rakes in the cash in its latest earnings report](https://www.pcgamer.com/amd-rakes-in-the-cash-in-its-latest-earnings-report)
- - [Experts are warning of a &#39;quantum apocalypse&#39;](https://www.pcgamer.com/experts-are-warning-of-a-quantum-apocalypse)
- - [These EVGA GeForce RTX 30 bundles are great value](https://www.pcgamer.com/these-evga-geforce-rtx-30-bundles-are-great-value)<!-- GAME:END -->
+ - [Nintendo Sounds Leery Of Acquisitions, But Isn&#39;t Against Them](https://kotaku.com/nintendo-acqusition-merger-takeover-sony-microsoft-busi-1848472981)
+ - [Puzzle Quest 3 arrives next month to steal all your free time](https://www.pcgamer.com/puzzle-quest-3-arrives-next-month)
+ - [Hacker magics $300M worth of crypto out of thin air in fourth largest blockchain heist ever](https://www.pcgamer.com/wormhole-cryptocurrency-heist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
