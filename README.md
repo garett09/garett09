@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trust Machines, which wants to build DeFi apps, DAOs, and NFTs on Blockstack, now called Stacks, raises $150M via Breyer Capital, Union Square Ventures, others &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/220203/p34#a220203p34)
- - [Congress is still spinning its wheels on autonomous vehicle regulation](https://www.theverge.com/2022/2/3/22916045/congress-autonomous-vehicle-hearing-av-start-legislation)
- - [Amazon workers at a second warehouse in NYC say they have filed a petition to unionize](https://www.theverge.com/2022/2/2/22914807/amazon-workers-warehouse-nyc-petition-nlrb-union-organize)<!-- TECH:END -->
+ - [Amazon.com Announces Fourth Quarter Results &lpar;Business Wire&rpar;](http://www.techmeme.com/220203/p36#a220203p36)
+ - [Microsoft tracking increasingly sophisticated Mac trojan that delivers adware](https://appleinsider.com/articles/22/02/03/microsoft-tracking-increasingly-sophisticated-mac-trojan-that-delivers-adware?utm_medium=rss)
+ - [iPad delivery estimates remained extended as Apple prioritizes iPhone 13](https://appleinsider.com/articles/22/02/03/ipad-delivery-estimates-remained-extended-as-apple-prioritizes-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
