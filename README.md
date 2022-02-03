@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opening a dam\u2019s gate in Kerala, South India](http://9gag.com/gag/aVxwNeP)
- - 🚯 [Snow leopard + his meal + gravity =](http://9gag.com/gag/aVxwN5v)
- - 🚯 [For some reason, I get scared knowing that people this smart are just walking out there](http://9gag.com/gag/aLvwy4M)<!-- MEMES:END -->
+ - 🚖 [Damnit toyota](http://9gag.com/gag/aE8Pr2x)
+ - 🚯 [For some reason, I get scared knowing that people this smart are just walking out there](http://9gag.com/gag/aLvwy4M)
+ - 🚯 [Snow leopard + his meal + gravity =](http://9gag.com/gag/aVxwN5v)<!-- MEMES:END -->
 
 --- 
 
