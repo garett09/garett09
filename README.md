@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bruno Mars and Anderson .Paak are coming to Fortnite](https://www.theverge.com/2022/2/3/22915003/fortnite-bruno-mars-anderson-paak)
- - [The Best Barefoot Shoes for Walking or Running](https://www.wired.com/gallery/best-barefoot-shoes)
- - [New company run by former NASA leader aims to build robotic outpost near the Moon](https://www.theverge.com/2022/2/3/22914873/quantum-space-lunar-robotic-outpost-nasa-artemis)<!-- TECH:END -->
+ - [Netflix’s 2022 movie slate looks absolutely stacked](https://www.theverge.com/2022/2/3/22914120/netflix-2022-movie-slate)
+ - [Meta’s stock price plunges 25 percent overnight](https://www.theverge.com/2022/2/3/22916007/facebook-meta-stock-drop-history-invest)
+ - [Apple&#39;s 16-inch MacBook Pro with 1TB SSD gets $200 discount, in stock today](https://appleinsider.com/articles/22/01/21/apples-16-inch-macbook-pro-with-1tb-ssd-gets-new-200-discount-in-stock-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
