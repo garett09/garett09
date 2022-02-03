@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Notice director takes on Dungeon &amp; Dragons TV show](https://www.pcgamer.com/red-notice-director-takes-on-dungeon-and-dragons-tv-show)
- - [Gran Turismo 7: State of Play recap and your first few hours with the game](https://blog.playstation.com/2022/02/02/gran-turismo-7-state-of-play-recap-and-your-first-few-hours-with-the-game/)
- - [Gran Turismo 7: State of Play recap and your first few hours with the game](https://blog.playstation.com/2022/02/02/gran-turismo-7-state-of-play-recap-and-your-first-few-hours-with-the-game/)<!-- GAME:END -->
+ - [Report: Suicide Squad Game Delayed All The Way Into 2023](https://kotaku.com/suicide-squad-kill-the-justice-league-delayed-2023-warn-1848471378)
+ - [The cheapest copies of Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
+ - [There’s more to Hulu’s Pam &amp; Tommy than sex and scandal](https://www.polygon.com/reviews/22915181/pam-and-tommy-review-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
