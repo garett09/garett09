@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Veed, a web-based tool for video creators to create and publish work, raises $35M from Sequoia and says it has 1M users and $7M+ ARR &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220203/p8#a220203p8)
- - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)
- - [Nintendo reports 10.67M Switch sales in Q3, down 8% YoY, bringing lifetime Switch sales to 103.54M, ahead of the Wii&#39;s 101.63M &lpar;Sam Byford/The Verge&rpar;](http://www.techmeme.com/220203/p7#a220203p7)<!-- TECH:END -->
+ - [France-based Snapshift, a service for managing frontline workers, raises a $45M Series A led by Highland Europe and says it has over 6,000 customers &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220203/p10#a220203p10)
+ - [They Were &#39;Calling to Help.&#39; Then They Stole Thousands](https://www.wired.com/story/phone-scam-phishing-finance-apps)
+ - [Apple TV+ announces &#39;Dear Edward&#39; drama from creator of &#39;Friday Night Lights&#39;](https://appleinsider.com/articles/22/02/02/apple-tv-announces-dear-edward-drama-from-creator-of-friday-night-lights?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
