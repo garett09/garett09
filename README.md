@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports advertising services revenue of $31.2B in 2021, with $9.7B in Q4, up 32% YoY; subscription services grew 15% to $8.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220203/p41#a220203p41)
- - [UK woman orders iPhone 13 Pro Max, gets a $1 bottle of hand soap instead](https://appleinsider.com/articles/22/02/03/uk-woman-orders-iphone-13-pro-max-gets-a-1-bottle-of-hand-soap-instead?utm_medium=rss)
- - [Pinterest reports Q4 revenue of $847M, up 20%, and 431M global MAUs, down 6% YoY, and says revenue grew 52% YoY in FY 2021 to surpass $2B; stock up 28%+ &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220203/p40#a220203p40)<!-- TECH:END -->
+ - [Google’s making a free Workspace tier for businesses that don’t need its email](https://www.theverge.com/2022/2/3/22916599/google-workspace-essentials-starter-business-email-collaboration)
+ - [Snapchat and Facebook agree that the future of social media looks like TikTok](https://www.theverge.com/creators/2022/2/3/22916642/snapchat-and-facebook-future-of-social-media-tiktok)
+ - [New PC and PS5 action game Ghostwire: Tokyo mixes Japanese horror with slick combat     - CNET](https://www.cnet.com/tech/gaming/new-pc-and-ps5-action-game-ghostwire-tokyo-mixes-japanese-horror-with-slick-combat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
