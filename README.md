@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When the 2022 Winter Olympics start and how to watch them](https://www.polygon.com/22916375/how-to-watch-winter-olympics-2022-channel-stream-figure-skating-schedule-curling)
- - [How long is Dying Light 2?](https://www.pcgamer.com/how-long-is-dying-light-2)
- - [The six baffled guest stars of Netflix’s improvised mystery show Murderville, ranked](https://www.polygon.com/22911148/netflix-murderville-guests-best)<!-- GAME:END -->
+ - [Warcraft is coming to mobile devices, Blizzard says](https://www.polygon.com/22916850/warcraft-mobile-version-announced-blizzard)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [GhostWire: Tokyo: everything we know about the spooky action thriller](https://www.pcgamer.com/ghostwire-tokyo-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
