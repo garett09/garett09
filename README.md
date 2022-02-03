@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Who said you can&#39;t print a gif?](http://9gag.com/gag/a51W3vG)
- - 🚯 [Look at it/those/them](http://9gag.com/gag/aKm7561)
- - 🚯 [So sad but true](http://9gag.com/gag/apgG7XE)<!-- MEMES:END -->
+ - 🚯 [So sad but true](http://9gag.com/gag/apgG7XE)
+ - 🚯 [Look at it/those/them](http://9gag.com/gag/aKm7561)<!-- MEMES:END -->
 
 --- 
 
