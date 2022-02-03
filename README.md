@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GhostWire: Tokyo: everything we know about the spooky action thriller](https://www.pcgamer.com/ghostwire-tokyo-everything-we-know)
  - [Report: Suicide Squad Game Delayed All The Way Into 2023](https://kotaku.com/suicide-squad-kill-the-justice-league-delayed-2023-warn-1848471378)
- - [The cheapest copies of Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
- - [There’s more to Hulu’s Pam &amp; Tommy than sex and scandal](https://www.polygon.com/reviews/22915181/pam-and-tommy-review-hulu)<!-- GAME:END -->
+ - [The cheapest copies of Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
