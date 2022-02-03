@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
- - 🚯 [Hands up if you know a girl like this irl](http://9gag.com/gag/a21Wp0d)
- - 🚯 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)<!-- MEMES:END -->
+ - 🚖 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)
+ - 🚯 [Let me show you an exercise](http://9gag.com/gag/aYryX1x)
+ - 🚯 [Freedom or Loneliness ??!!](http://9gag.com/gag/aogPw82)<!-- MEMES:END -->
 
 --- 
 
