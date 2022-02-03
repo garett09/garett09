@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are you doing, step-plane?](http://9gag.com/gag/arnVLzK)
- - 🚯 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
- - 🚯 [It&#39;s sad...](http://9gag.com/gag/adgVweM)<!-- MEMES:END -->
+ - 🚖 [Argentina, gramps really loves his first PC](http://9gag.com/gag/azem3mz)
+ - 🚯 [Hands up if you know a girl like this irl](http://9gag.com/gag/a21Wp0d)
+ - 🚯 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)<!-- MEMES:END -->
 
 --- 
 
