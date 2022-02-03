@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold](http://9gag.com/gag/ajg9z2g)
- - 🚯 [Yep!](http://9gag.com/gag/ajg9z4x)
- - 🚯 [When did Anakin get his scar?](http://9gag.com/gag/aegDnYW)<!-- MEMES:END -->
+ - 🚖 [When did Anakin get his scar?](http://9gag.com/gag/aegDnYW)
+ - 🚯 [Every movie Killer be like](http://9gag.com/gag/aLvwxnz)
+ - 🚯 [Sheesh.](http://9gag.com/gag/aZry6QV)<!-- MEMES:END -->
 
 --- 
 
