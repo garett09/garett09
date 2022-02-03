@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s funny because her body is beautiful](http://9gag.com/gag/awzBpXQ)
- - 🚯 [Let me show you an exercise](http://9gag.com/gag/aYryX1x)
- - 🚯 [Freedom or Loneliness ??!!](http://9gag.com/gag/aogPw82)<!-- MEMES:END -->
+ - 🚖 [Paper GIFs](http://9gag.com/gag/aXrg69d)
+ - 🚯 [They will baptise a demon.](http://9gag.com/gag/aGzdQ7G)
+ - 🚯 [Strength of a lioness](http://9gag.com/gag/aVxwyon)<!-- MEMES:END -->
 
 --- 
 
