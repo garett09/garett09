@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook rebuilding ad platform due to App Tracking Transparency, data laws](https://appleinsider.com/articles/22/02/03/facebook-rebuilding-ad-platform-due-to-app-tracking-transparency-data-laws?utm_medium=rss)
- - [Blockchain bridge Wormhole confirms it has been exploited for 120k wETH, worth roughly $322M, and has moved its site into maintenance mode &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220202/p37#a220202p37)
- - [11 Great TV and Soundbar Deals for Super Bowl Weekend](https://www.wired.com/story/super-bowl-2022-tv-soundbar-deals)<!-- TECH:END -->
+ - [Pixel Vault, a decentralized entertainment startup focused on an NFT collection of superheroes, raises $100M from 01 Advisors and Velvet Sea Ventures &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220202/p38#a220202p38)
+ - [Apple urges lawmakers to reject bill that would force it to allow side-loading](https://appleinsider.com/articles/22/02/03/apple-urges-lawmakers-to-reject-bill-that-would-force-it-to-allow-side-loading?utm_medium=rss)
+ - [Fly your drone at the Super Bowl, get fined $30,000, FAA says     - CNET](https://www.cnet.com/tech/computing/fly-your-drone-at-the-super-bowl-get-fined-30000-faa-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
