@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Return to monke](http://9gag.com/gag/azemWYb)
- - 🚯 [Let me show you an exercise](http://9gag.com/gag/aYryX1x)
- - 🚯 [Are u happy?](http://9gag.com/gag/arnVQ40)<!-- MEMES:END -->
+ - 🚖 [Old but gold](http://9gag.com/gag/ajg9z2g)
+ - 🚯 [Yep!](http://9gag.com/gag/ajg9z4x)
+ - 🚯 [When did Anakin get his scar?](http://9gag.com/gag/aegDnYW)<!-- MEMES:END -->
 
 --- 
 
