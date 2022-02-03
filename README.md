@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Recently finished playing this masterpiece &lpar;around 300h for the main game + 2 dlcs&rpar; - couldn&#39;t help myself, so I made a fan art. hope you&#39;ll like it!](http://9gag.com/gag/aLvw7xA)
- - 🚯 [Nigerian movie producers must be arrested.](http://9gag.com/gag/aNPgER0)
- - 🚯 [True story bruh](http://9gag.com/gag/apgGZ1p)<!-- MEMES:END -->
+ - 🚯 [Sheesh.](http://9gag.com/gag/aZry6QV)
+ - 🚯 [Are u happy?](http://9gag.com/gag/arnVQ40)<!-- MEMES:END -->
 
 --- 
 
