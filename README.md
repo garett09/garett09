@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warcraft is coming to mobile devices, Blizzard says](https://www.polygon.com/22916850/warcraft-mobile-version-announced-blizzard)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [GhostWire: Tokyo: everything we know about the spooky action thriller](https://www.pcgamer.com/ghostwire-tokyo-everything-we-know)<!-- GAME:END -->
+ - [Blizzard is working on a Warcraft mobile game](https://www.pcgamer.com/blizzard-is-working-on-a-warcraft-mobile-game)
+ - [Dying Light 2 co-op: How to kill zombies with your friends](https://www.pcgamer.com/dying-light-2-co-op-how-to-kill-zombies-with-your-friends)
+ - [Looks like the next Baldur&#39;s Gate 3 update is coming this month](https://www.pcgamer.com/looks-like-the-next-baldurs-gate-3-update-is-coming-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
