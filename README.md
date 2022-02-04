@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)
- - [Share of the Week – Uncharted: Legacy of Thieves Collection](https://blog.playstation.com/2022/02/04/share-of-the-week-uncharted-legacy-of-thieves-collection/)
- - [Share of the Week – Uncharted: Legacy of Thieves Collection](https://blog.playstation.com/2022/02/04/share-of-the-week-uncharted-legacy-of-thieves-collection/)<!-- GAME:END -->
+ - [HBO renews Euphoria for a third season](https://www.polygon.com/22917978/euphoria-season-3-renewal-hbo)
+ - [Don&#39;t miss any loot with these Dying Light 2 safe code solutions](https://www.pcgamer.com/dying-light-2-safe-codes)
+ - [Jackass Forever defies age, physics, and the limits of men’s genitals](https://www.polygon.com/reviews/22917918/jackass-forever-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
