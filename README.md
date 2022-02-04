@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMac Pro, AirPods Pro 2, and hands-on with Universal Control on the AppleInsider podcast](https://appleinsider.com/articles/22/02/04/imac-pro-airpods-pro-2-and-hands-on-with-universal-control-on-the-appleinsider-podcast?utm_medium=rss)
- - [Cooking in a Tiny Kitchen? This Gear Will Help You Stay Sane](https://www.wired.com/story/tips-for-the-tiny-kitchen)
- - [After 3 Hours of Joe Rogan, I Have Thoughts](https://www.wired.com/story/plaintext-joe-rogan-spotify-thoughts)<!-- TECH:END -->
+ - [Creative TiKTok user converts an iBook G3 into iPad case](https://appleinsider.com/articles/22/02/04/creative-tiktok-user-converts-an-ibook-g3-into-ipad-case?utm_medium=rss)
+ - [Wyze Video Doorbell Pro review: a lot to like, except for the look](https://www.theverge.com/22915876/wyze-video-doorbell-pro-review-budget-doorbell-camera)
+ - [Michigan toddler dials 911 on Apple Watch](https://appleinsider.com/articles/22/02/04/michigan-toddler-dials-911-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
