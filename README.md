@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s tiny, bus powered RTX A2000 pro card delivers RTX 3050 level gaming performance](https://www.pcgamer.com/nvidias-tiny-bus-powered-rtx-a2000-pro-card-delivers-rtx-3050-level-gaming-performance)
  - [Microsoft reportedly cans Hololens 3 in direction kerfuffle](https://www.pcgamer.com/microsoft-reportedly-cans-hololens-3-in-direction-kerfuffle)
- - [Chrome extension cuts the browser&#39;s greedy RAM demands](https://www.pcgamer.com/chrome-extension-cuts-the-browsers-greedy-ram-demands)
- - [The Nvidia RTX 3090 Ti is still missing in action](https://www.pcgamer.com/the-nvidia-rtx-3090-ti-is-still-missing-in-action)<!-- GAME:END -->
+ - [Chrome extension cuts the browser&#39;s greedy RAM demands](https://www.pcgamer.com/chrome-extension-cuts-the-browsers-greedy-ram-demands)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
