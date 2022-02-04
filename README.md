@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
- - [Japanese Fast Food Chain Giving Away Half-Assed &quot;Chocolate Burgers&quot; For Valentine&#39;s Day](https://kotaku.com/japan-valentines-day-chocolate-hamburger-chocolate-fast-1848479821)
- - [Microsoft&#39;s Phil Spencer gets a lifetime achievement award, to be presented by Microsoft&#39;s Todd Howard](https://www.pcgamer.com/microsofts-phil-spencer-gets-a-lifetime-achievement-award-to-be-presented-by-microsofts-todd-howard)<!-- GAME:END -->
+ - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)
+ - [PC Gamer UK March Issue: Welcome to the PC&#39;s new golden age](https://www.pcgamer.com/pc-gamer-uk-march-issue-welcome-to-the-pcs-new-golden-age)
+ - [One Piece Manga&#39;s Hiatus Leads To Fan Complaints In Japan](https://kotaku.com/one-piece-manga-eiichiro-oda-hiatsu-anime-fan-reader-co-1848479933)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
