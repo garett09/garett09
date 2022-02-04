@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second class action suit targets Powerbeats Pro battery life, charging issues](https://appleinsider.com/articles/22/02/04/second-class-action-suit-targets-powerbeats-pro-battery-life-charging-issues?utm_medium=rss)
- - [Twitter begins expanding testing downvoting replies globally on web and mobile; downvotes are not public and will be used to tweak which replies Twitter shows &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220204/p4#a220204p4)
- - [A New Database Reveals How Much Humans Are Messing With Evolution](https://www.wired.com/story/database-humans-messing-with-evolution)<!-- TECH:END -->
+ - [The biggest Oppo Find X5 Pro leak yet gives us all of the renders and specs](https://www.androidauthority.com/oppo-find-x5-pro-renders-specs-3102225/)
+ - [Should You Ditch Spotify Too?](https://www.wired.com/story/gadget-lab-podcast-537)
+ - [Meta&#39;s underwhelming results are evidence of the challenging competitive landscape, especially from TikTok, adding ammunition against the FTC&#39;s antitrust suit &lpar;David McLaughlin/Bloomberg&rpar;](http://www.techmeme.com/220204/p7#a220204p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
