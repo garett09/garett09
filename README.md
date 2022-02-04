@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick, the Americans are asleep. Upvote for real genders](http://9gag.com/gag/aKm64XQ)
- - 🚯 [This abandoned hospital had a visitor last night](http://9gag.com/gag/aBn293P)
- - 🚯 [Nice jump, 5/7!](http://9gag.com/gag/a81GrgY)<!-- MEMES:END -->
+ - 🚖 [Send gifs](http://9gag.com/gag/a217E61)
+ - 🚯 [GW is real and this is the only alternative](http://9gag.com/gag/a11rvbR)
+ - 🚯 [Made my boyfriend a birthday cake](http://9gag.com/gag/ajgmQeQ)<!-- MEMES:END -->
 
 --- 
 
