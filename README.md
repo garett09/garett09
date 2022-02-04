@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s tiny, bus powered RTX A2000 pro card delivers RTX 3050 level gaming performance](https://www.pcgamer.com/nvidias-tiny-bus-powered-rtx-a2000-pro-card-delivers-rtx-3050-level-gaming-performance)
- - [Microsoft reportedly cans Hololens 3 in direction kerfuffle](https://www.pcgamer.com/microsoft-reportedly-cans-hololens-3-in-direction-kerfuffle)
- - [Chrome extension cuts the browser&#39;s greedy RAM demands](https://www.pcgamer.com/chrome-extension-cuts-the-browsers-greedy-ram-demands)<!-- GAME:END -->
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
+ - [Japanese Fast Food Chain Giving Away Half-Assed &quot;Chocolate Burgers&quot; For Valentine&#39;s Day](https://kotaku.com/japan-valentines-day-chocolate-hamburger-chocolate-fast-1848479821)
+ - [Microsoft&#39;s Phil Spencer gets a lifetime achievement award, to be presented by Microsoft&#39;s Todd Howard](https://www.pcgamer.com/microsofts-phil-spencer-gets-a-lifetime-achievement-award-to-be-presented-by-microsofts-todd-howard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
