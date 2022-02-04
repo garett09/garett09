@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music cuts free trial period from three months to one month](https://appleinsider.com/articles/22/02/04/apple-music-cuts-free-trial-period-from-three-months-to-one-month?utm_medium=rss)
- - [Texas power outages hit counties where people need electricity for medical devices](https://www.theverge.com/2022/2/4/22917651/texas-power-outage-medical-devices)
- - [Belkin reveals new 12-port Connect Pro Thunderbolt 4 Dock](https://appleinsider.com/articles/22/02/04/belkin-reveals-new-12-port-connect-pro-thunderbolt-4-dock?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft claims HoloLens is ‘doing great’ after reports version 3 was canceled](https://www.theverge.com/2022/2/4/22918025/microsoft-hololens-3-canceled-reports-comment-rumors)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Report details future of Stadia as a white-label game streaming service called Google Stream, including talks with Capcom, Bungie, and Peloton &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220204/p16#a220204p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
