@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are chosen \u2026](http://9gag.com/gag/aLvpQgV)
- - 🚯 [Ship breaking under the pressure of the tides](http://9gag.com/gag/aBn2QmN)
- - 🚯 [Yasss](http://9gag.com/gag/aAGbYY9)<!-- MEMES:END -->
+ - 🚖 [Boy here I go being fatphobic again](http://9gag.com/gag/angQKYz)
+ - 🚯 [`There&#39;s No Agenda. You&#39;re Just Sexist.`](http://9gag.com/gag/a31EYz7)
+ - 🚯 [My Spirit Animal](http://9gag.com/gag/arnMee0)<!-- MEMES:END -->
 
 --- 
 
