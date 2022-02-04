@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest Oppo Find X5 Pro leak yet gives us all of the renders and specs](https://www.androidauthority.com/oppo-find-x5-pro-renders-specs-3102225/)
- - [Should You Ditch Spotify Too?](https://www.wired.com/story/gadget-lab-podcast-537)
- - [Meta&#39;s underwhelming results are evidence of the challenging competitive landscape, especially from TikTok, adding ammunition against the FTC&#39;s antitrust suit &lpar;David McLaughlin/Bloomberg&rpar;](http://www.techmeme.com/220204/p7#a220204p7)<!-- TECH:END -->
+ - [iMac Pro, AirPods Pro 2, and hands-on with Universal Control on the AppleInsider podcast](https://appleinsider.com/articles/22/02/04/imac-pro-airpods-pro-2-and-hands-on-with-universal-control-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Cooking in a Tiny Kitchen? This Gear Will Help You Stay Sane](https://www.wired.com/story/tips-for-the-tiny-kitchen)
+ - [After 3 Hours of Joe Rogan, I Have Thoughts](https://www.wired.com/story/plaintext-joe-rogan-spotify-thoughts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
