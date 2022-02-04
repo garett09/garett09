@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO renews Euphoria for a third season](https://www.polygon.com/22917978/euphoria-season-3-renewal-hbo)
- - [Don&#39;t miss any loot with these Dying Light 2 safe code solutions](https://www.pcgamer.com/dying-light-2-safe-codes)
- - [Jackass Forever defies age, physics, and the limits of men’s genitals](https://www.polygon.com/reviews/22917918/jackass-forever-review)<!-- GAME:END -->
+ - [11 things we want from Grand Theft Auto 6](https://www.pcgamer.com/11-things-we-want-from-grand-theft-auto-6)
+ - [Behold ‘Africa’ by Toto played on Majora’s Mask instruments](https://www.polygon.com/22917810/africa-toto-zelda-majoras-mask-instruments-deku-pipes)
+ - [Pokemon Legends: Arceus Players Are Spending Forever In Just The First Area](https://kotaku.com/pokemon-legends-arceus-obsidian-fields-pokedex-nintendo-1848482072)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
