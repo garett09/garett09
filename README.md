@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cone snail enveloping a fish](http://9gag.com/gag/apgGWQW)
- - 🚯 [That&#39;s a nice kebab with extra toppings...](http://9gag.com/gag/a91nQ46)
- - 🚯 [Whom did it belong to in the first place.](http://9gag.com/gag/aqGn007)<!-- MEMES:END -->
+ - 🚖 [Only Veterans might remember](http://9gag.com/gag/a81GP2e)
+ - 🚯 [Whom did it belong to in the first place.](http://9gag.com/gag/aqGn007)
+ - 🚯 [Do it.](http://9gag.com/gag/ang46Aq)<!-- MEMES:END -->
 
 --- 
 
