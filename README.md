@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made my boyfriend a birthday cake](http://9gag.com/gag/ajgmQeQ)
- - 🚯 [Biodiversity](http://9gag.com/gag/aNPprAA)
- - 🚯 [I&#39;m experiencing this right now.. i&#39;m 32](http://9gag.com/gag/angQezq)<!-- MEMES:END -->
+ - 🚖 [Gotta love the Netherlands](http://9gag.com/gag/a41EKVd)
+ - 🚯 [Jumping into the Panda Bear exhibit to get a closer look](http://9gag.com/gag/angQeKz)
+ - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)<!-- MEMES:END -->
 
 --- 
 
