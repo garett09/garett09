@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Nvidia RTX 3090 Ti is still missing in action](https://www.pcgamer.com/the-nvidia-rtx-3090-ti-is-still-missing-in-action)
  - [It&#39;s Ok To Start Dying Light 2 On Easy](https://kotaku.com/dying-light-2-easy-difficulty-techland-open-world-zombi-1848476670)
- - [Dying Light 2 beginner’s guide, tips, and tricks](https://www.polygon.com/dying-light-2-guide-walkthrough/22910707/beginners-tips-tricks-level-stealth-stamina-inhibitors-class-gear-survivor-sense-stats-metro)
- - [If Dying Light 2 is crashing when you start a new game, here&#39;s a fix](https://www.pcgamer.com/if-dying-light-2-is-crashing-when-you-start-a-new-game-heres-a-fix)<!-- GAME:END -->
+ - [Dying Light 2 beginner’s guide, tips, and tricks](https://www.polygon.com/dying-light-2-guide-walkthrough/22910707/beginners-tips-tricks-level-stealth-stamina-inhibitors-class-gear-survivor-sense-stats-metro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
