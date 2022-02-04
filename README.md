@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I found a sad fact about this, when the bird flew away, the man replayed the sound of its call to listen to it again and the bird came back thinking there was another bird](http://9gag.com/gag/aDDdR37)
- - 🚯 [Tibetans protesting against China Olympics in front of the Chinese Embassy in New Delhi.](http://9gag.com/gag/a81EdV6)
- - 🚯 [It&#39;s just not...](http://9gag.com/gag/axB9pBM)<!-- MEMES:END -->
+ - 🚖 [Quick, the Americans are asleep. Upvote for real genders](http://9gag.com/gag/aKm64XQ)
+ - 🚯 [This abandoned hospital had a visitor last night](http://9gag.com/gag/aBn293P)
+ - 🚯 [Nice jump, 5/7!](http://9gag.com/gag/a81GrgY)<!-- MEMES:END -->
 
 --- 
 
