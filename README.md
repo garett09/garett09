@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)
- - [PC Gamer UK March Issue: Welcome to the PC&#39;s new golden age](https://www.pcgamer.com/pc-gamer-uk-march-issue-welcome-to-the-pcs-new-golden-age)
- - [One Piece Manga&#39;s Hiatus Leads To Fan Complaints In Japan](https://kotaku.com/one-piece-manga-eiichiro-oda-hiatsu-anime-fan-reader-co-1848479933)<!-- GAME:END -->
+ - [Genshin Impact version 2.5: Join Yae Miko and the Raiden Shogun when the sakura bloom](https://blog.playstation.com/2022/02/04/genshin-impact-version-2-5-join-yae-miko-and-the-raiden-shogun-when-the-sakura-bloom/)
+ - [Genshin Impact version 2.5: Join Yae Miko and the Raiden Shogun when the sakura bloom](https://blog.playstation.com/2022/02/04/genshin-impact-version-2-5-join-yae-miko-and-the-raiden-shogun-when-the-sakura-bloom/)
+ - [Dying Light 2 Stay Human Available Now](https://news.xbox.com/en-us/2022/02/04/dying-light-2-stay-human-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
