@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doggo is pleased](http://9gag.com/gag/ay9M7Rb)
- - 🚯 [GW is real and this is the only alternative](http://9gag.com/gag/a11rvbR)
- - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)<!-- MEMES:END -->
+ - 🚖 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)
+ - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)
+ - 🚯 [China gives zero f**k to your live streaming](http://9gag.com/gag/a71E502)<!-- MEMES:END -->
 
 --- 
 
