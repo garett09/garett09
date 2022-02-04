@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Send gifs](http://9gag.com/gag/a217E61)
- - 🚯 [GW is real and this is the only alternative](http://9gag.com/gag/a11rvbR)
- - 🚯 [Made my boyfriend a birthday cake](http://9gag.com/gag/ajgmQeQ)<!-- MEMES:END -->
+ - 🚖 [Made my boyfriend a birthday cake](http://9gag.com/gag/ajgmQeQ)
+ - 🚯 [Biodiversity](http://9gag.com/gag/aNPprAA)
+ - 🚯 [I&#39;m experiencing this right now.. i&#39;m 32](http://9gag.com/gag/angQezq)<!-- MEMES:END -->
 
 --- 
 
