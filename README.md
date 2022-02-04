@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 2.5: Join Yae Miko and the Raiden Shogun when the sakura bloom](https://blog.playstation.com/2022/02/04/genshin-impact-version-2-5-join-yae-miko-and-the-raiden-shogun-when-the-sakura-bloom/)
- - [Genshin Impact version 2.5: Join Yae Miko and the Raiden Shogun when the sakura bloom](https://blog.playstation.com/2022/02/04/genshin-impact-version-2-5-join-yae-miko-and-the-raiden-shogun-when-the-sakura-bloom/)
- - [Dying Light 2 Stay Human Available Now](https://news.xbox.com/en-us/2022/02/04/dying-light-2-stay-human-available-now/)<!-- GAME:END -->
+ - [Microsoft CEO argues that buying Activision Blizzard will help him build the metaverse](https://www.polygon.com/22917625/microsoft-activision-blizzard-metaverse-satya-nadella)
+ - [The best FromSoftware bosses, as picked by PlayStation Studio devs](https://blog.playstation.com/2022/02/04/the-best-fromsoftware-bosses-as-picked-by-playstation-studio-devs/)
+ - [The best FromSoftware bosses, as picked by PlayStation Studio devs](https://blog.playstation.com/2022/02/04/the-best-fromsoftware-bosses-as-picked-by-playstation-studio-devs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
