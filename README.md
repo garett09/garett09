@@ -186,7 +186,7 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At least these many Google Pixel phones might be in use right now](https://www.androidauthority.com/google-pixel-10-miilion-3101998/)
+ - [Wondering how many Pixel phones are in use out there? Here’s an estimate.](https://www.androidauthority.com/google-pixel-10-miilion-3101998/)
  - [5 best subtitle apps for Android to closed caption everything](https://www.androidauthority.com/best-subtitle-apps-android-3092411/)
  - [TTTech Auto, a Vienna-based automotive safety software provider, raises $228M from Aptiv and $57M from Audi at a $1B valuation &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/220203/p48#a220203p48)<!-- TECH:END -->
 
