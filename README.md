@@ -187,7 +187,7 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Google highlights repairable Chromebooks for education as it battles cheap Windows laptops](https://www.theverge.com/2022/2/3/22916352/google-chromebook-repair-program-for-education-vs-windows)
- - [A bipartisan group of US representatives reintroduces the Virtual Currency Tax Fairness Act, which would exempt users from taxes on crypto payments under $200 &lpar;James Rubin/CoinDesk&rpar;](http://www.techmeme.com/220203/p44#a220203p44)
+ - [A bipartisan group of US representatives reintroduces the Virtual Currency Tax Fairness Act, which would exempt taxes on realized crypto gains under $200 &lpar;James Rubin/CoinDesk&rpar;](http://www.techmeme.com/220203/p44#a220203p44)
  - [Mozilla is shuttering its Firefox Reality VR browser     - CNET](https://www.cnet.com/tech/computing/mozilla-is-shuttering-its-firefox-reality-vr-browser/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
