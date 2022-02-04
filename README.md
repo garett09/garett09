@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [And Just Like That finale proves it: The reboot has a major sex problem     - CNET](https://www.cnet.com/news/and-just-like-that-finale-proves-it-the-reboot-has-a-major-sex-problem/#ftag=CAD590a51e)
- - [A profile of Seznam, a leading search engine in the Czech Republic before Android&#39;s rise that is helping to inspire laws to limit Big Tech&#39;s power &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/220204/p1#a220204p1)
- - [Wondering how many Pixel phones are in use out there? Here’s an estimate.](https://www.androidauthority.com/google-pixel-10-miilion-3101998/)<!-- TECH:END -->
+ - [Apple TV+ picks up five Bafta film nominations](https://appleinsider.com/articles/22/02/03/apple-tv-picks-up-four-bafta-film-nominations?utm_medium=rss)
+ - [Twitter expands downvote test worldwide](https://www.theverge.com/2022/2/4/22917511/twitter-downvotes-test-experiment-feature-relevant-replies)
+ - [You’ll now have to sign a 3-year contract with Verizon. Here’s what it means.](https://www.androidauthority.com/verizon-three-year-contracts-3102045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
