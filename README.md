@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scalpers are the scum of the earth](http://9gag.com/gag/azem0Kp)
- - 🚯 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
- - 🚯 [High-Speed chase gets ended by angry mom](http://9gag.com/gag/aKm7rKW)<!-- MEMES:END -->
+ - 🚖 [That&#39;s a nice kebab with extra toppings...](http://9gag.com/gag/a91nQ46)
+ - 🚯 [This abandoned hospital had a visitor last night](http://9gag.com/gag/aBn293P)
+ - 🚯 [I found a sad fact about this, when the bird flew away, the man replayed the sound of its call to listen to it again and the bird came back thinking there was another bird](http://9gag.com/gag/aDDdR37)<!-- MEMES:END -->
 
 --- 
 
