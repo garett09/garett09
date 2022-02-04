@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Between two ferns bloopers. I felt it was much more funnier than the scripted interview.](http://9gag.com/gag/a21WQbp)
- - 🚯 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
- - 🚯 [#HenryCavillIsOurSuperman](http://9gag.com/gag/aPZ7NeV)<!-- MEMES:END -->
+ - 🚖 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
+ - 🚯 [Damnit toyota](http://9gag.com/gag/aE8Pr2x)
+ - 🚯 [Scalpers are the scum of the earth](http://9gag.com/gag/azem0Kp)<!-- MEMES:END -->
 
 --- 
 
