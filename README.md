@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TTTech Auto, a Vienna-based automotive safety software provider, raises $228M from Aptiv and $57M from Audi at a $1B+ valuation &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/220203/p48#a220203p48)
- - [This is the successor to one of Samsung’s best-selling mid-range phones](https://www.androidauthority.com/samsung-galaxy-a53-5g-3101979/)
- - [Source: Tiger Global has raised over $11B for its latest venture capital fund as of January and expects to close the fund at $12B in March &lpar;The Information&rpar;](http://www.techmeme.com/220203/p47#a220203p47)<!-- TECH:END -->
+ - [At least these many Google Pixel phones might be in use right now](https://www.androidauthority.com/google-pixel-10-miilion-3101998/)
+ - [5 best subtitle apps for Android to closed caption everything](https://www.androidauthority.com/best-subtitle-apps-android-3092411/)
+ - [TTTech Auto, a Vienna-based automotive safety software provider, raises $228M from Aptiv and $57M from Audi at a $1B valuation &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/220203/p48#a220203p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
