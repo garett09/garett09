@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)
+ - 🚖 [You are chosen \u2026](http://9gag.com/gag/aLvpQgV)
  - 🚯 [Send a postcard ladies](http://9gag.com/gag/azeMLVZ)
- - 🚯 [Stellballs](http://9gag.com/gag/a61EmRN)<!-- MEMES:END -->
+ - 🚯 [Do you wanna know how I got these scars?](http://9gag.com/gag/azeMgvK)<!-- MEMES:END -->
 
 --- 
 
