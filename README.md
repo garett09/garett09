@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta love the Netherlands](http://9gag.com/gag/a41EKVd)
- - 🚯 [Jumping into the Panda Bear exhibit to get a closer look](http://9gag.com/gag/angQeKz)
+ - 🚖 [The walkman was cool too, I guess.](http://9gag.com/gag/aWgjQoA)
+ - 🚯 [Biodiversity](http://9gag.com/gag/aNPprAA)
  - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)<!-- MEMES:END -->
 
 --- 
