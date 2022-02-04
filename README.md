@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard Allegedly Wouldn’t Let Call Of Duty Twitch Streamer Run A Team Due To ‘Oversexual’ Posts](https://kotaku.com/twitch-faze-kalei-renay-call-duty-warzone-activision-bl-1848483346)
- - [Encanto’s final song is getting overlooked](https://www.polygon.com/22918156/encanto-ending-song-all-of-you-disney-musicals)
- - [11 things we want from Grand Theft Auto 6](https://www.pcgamer.com/11-things-we-want-from-grand-theft-auto-6)<!-- GAME:END -->
+ - [Netflix’s Kanye West documentary trailer teases a grainy, intimate look at the rapper’s life](https://www.polygon.com/22918208/kanye-documentary-trailer-netflix-jeen-yuhs)
+ - [The Sims 4 is having a free weekend to celebrate the series&#39; 22nd anniversary](https://www.pcgamer.com/the-sims-4-is-having-a-free-weekend-to-celebrate-the-series-22nd-anniversary)
+ - [Activision Blizzard Allegedly Wouldn’t Let Call Of Duty Twitch Streamer Run A Team Due To ‘Oversexual’ Posts](https://kotaku.com/twitch-faze-kalei-renay-call-duty-warzone-activision-bl-1848483346)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
