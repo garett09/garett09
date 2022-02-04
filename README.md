@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best story ever!](http://9gag.com/gag/axBMdW1)
- - 🚯 [LAN port? no problem.](http://9gag.com/gag/adg80vB)
- - 🚯 [`There&#39;s No Agenda. You&#39;re Just Sexist.`](http://9gag.com/gag/a31EYz7)<!-- MEMES:END -->
+ - 🚖 [How jazz became rock](http://9gag.com/gag/aAGbY29)
+ - 🚯 [My Spirit Animal](http://9gag.com/gag/arnMee0)
+ - 🚯 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)<!-- MEMES:END -->
 
 --- 
 
