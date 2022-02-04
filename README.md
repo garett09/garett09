@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)
- - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)
- - 🚯 [China gives zero f**k to your live streaming](http://9gag.com/gag/a71E502)<!-- MEMES:END -->
+ - 🚖 [Best story ever!](http://9gag.com/gag/axBMdW1)
+ - 🚯 [LAN port? no problem.](http://9gag.com/gag/adg80vB)
+ - 🚯 [`There&#39;s No Agenda. You&#39;re Just Sexist.`](http://9gag.com/gag/a31EYz7)<!-- MEMES:END -->
 
 --- 
 
