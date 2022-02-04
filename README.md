@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeFi infrastructure startup Qredo raises an $80M Series A led by 10T Holdings at a $460M valuation, bringing its total funding to $120M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220204/p23#a220204p23)
- - [Hear me out: browser tabs in music player apps](https://www.theverge.com/2022/2/4/22918410/browser-tabs-music-player-apps)
- - [Amazon challenged by lawmakers over listings for preservative tied to suicides     - CNET](https://www.cnet.com/tech/services-and-software/amazon-challenged-by-lawmakers-over-listings-for-preservative-tied-to-suicides/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK updates its Online Safety Bill proposal to outlaw content featuring revenge porn, drug and weapons dealing, suicide promotion, people smuggling, and more &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220204/p27#a220204p27)
+ - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
+ - [Apple shares first look at &#39;Shining Girls,&#39; series to premiere April 29](https://appleinsider.com/articles/22/02/04/apple-shares-first-look-at-shining-girls-series-to-premiere-april-29?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
