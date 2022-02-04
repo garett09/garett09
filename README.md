@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If Dying Light 2 is crashing when you start a new game, here&#39;s a fix](https://www.pcgamer.com/if-dying-light-2-is-crashing-when-you-start-a-new-game-heres-a-fix)
- - [Warzone devs revert unpopular change, streamer gets Raven logo tattooed on his butt](https://www.pcgamer.com/warzone-devs-revert-unpopular-change-streamer-gets-raven-logo-tattooed-on-his-butt)
- - [The Future Is Also The Past](https://kotaku.com/the-invincible-stanislaw-lem-concept-art-wojtek-ostrych-1848478680)<!-- GAME:END -->
+ - [It&#39;s Ok To Start Dying Light 2 On Easy](https://kotaku.com/dying-light-2-easy-difficulty-techland-open-world-zombi-1848476670)
+ - [Dying Light 2 beginner’s guide, tips, and tricks](https://www.polygon.com/dying-light-2-guide-walkthrough/22910707/beginners-tips-tricks-level-stealth-stamina-inhibitors-class-gear-survivor-sense-stats-metro)
+ - [If Dying Light 2 is crashing when you start a new game, here&#39;s a fix](https://www.pcgamer.com/if-dying-light-2-is-crashing-when-you-start-a-new-game-heres-a-fix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
