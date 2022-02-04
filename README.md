@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damnit toyota](http://9gag.com/gag/aE8Pr2x)
- - 🚯 [For some reason, I get scared knowing that people this smart are just walking out there](http://9gag.com/gag/aLvwy4M)
- - 🚯 [Snow leopard + his meal + gravity =](http://9gag.com/gag/aVxwN5v)<!-- MEMES:END -->
+ - 🚖 [Cone snail enveloping a fish](http://9gag.com/gag/apgGWQW)
+ - 🚯 [That&#39;s a nice kebab with extra toppings...](http://9gag.com/gag/a91nQ46)
+ - 🚯 [Whom did it belong to in the first place.](http://9gag.com/gag/aqGn007)<!-- MEMES:END -->
 
 --- 
 
