@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Stadia has reportedly been demoted, but it might show up in your Peloton](https://www.theverge.com/2022/2/4/22917999/google-stadia-white-label-peloton-bungie-capcom)
- - [How to see Street View on Google Maps](https://www.androidauthority.com/google-maps-street-view-3101067/)
- - [Apple TV+ debuts trailer for &#39;The Last Days of Ptolemy Grey,&#39; coming March 11](https://appleinsider.com/articles/22/02/04/apple-tv-debuts-trailer-for-the-last-days-of-ptolemy-grey-coming-march-11?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple plans to unveil the 5G iPhone SE and a new iPad Air in an online presentation on or near March 8 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220204/p19#a220204p19)
+ - [Apple TV+ announces &#39;They Call Me Magic&#39; debuting April 22](https://appleinsider.com/articles/22/02/04/apple-tv-announces-they-call-me-magic-debuting-april-22?utm_medium=rss)
+ - [NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem](https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
