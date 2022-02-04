@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google highlights repairable Chromebooks for education as it battles cheap Windows laptops](https://www.theverge.com/2022/2/3/22916352/google-chromebook-repair-program-for-education-vs-windows)
- - [A bipartisan group of US representatives reintroduces the Virtual Currency Tax Fairness Act, which would exempt taxes on realized crypto gains under $200 &lpar;James Rubin/CoinDesk&rpar;](http://www.techmeme.com/220203/p44#a220203p44)
- - [Mozilla is shuttering its Firefox Reality VR browser     - CNET](https://www.cnet.com/tech/computing/mozilla-is-shuttering-its-firefox-reality-vr-browser/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Tiger Global has raised over $11B for its latest venture capital fund as of January and expects to close the fund at $12B in March &lpar;The Information&rpar;](http://www.techmeme.com/220203/p47#a220203p47)
+ - [Wormhole&#39;s parent restores $322M worth of ETH stolen by a hacker on Wednesday, and the bridge&#39;s operations are back up after the attack vector had been patched &lpar;Andrew Thurman/CoinDesk&rpar;](http://www.techmeme.com/220203/p46#a220203p46)
+ - [Nike sues online sneaker reseller StockX for selling unauthorized NFTs of Nike shoes, and says it will release &quot;a number of virtual products&quot; later this month &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220203/p45#a220203p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
