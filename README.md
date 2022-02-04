@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awesome details for a old anime](http://9gag.com/gag/aAGenGo)
- - 🚯 [Adios](http://9gag.com/gag/aOQ765N)
+ - 🚖 [I&#39;m experiencing this right now.. i&#39;m 32](http://9gag.com/gag/angQezq)
+ - 🚯 [Between two ferns bloopers. I felt it was much more funnier than the scripted interview.](http://9gag.com/gag/a21WQbp)
  - 🚯 [I found a sad fact about this, when the bird flew away, the man replayed the sound of its call to listen to it again and the bird came back thinking there was another bird](http://9gag.com/gag/aDDdR37)<!-- MEMES:END -->
 
 --- 
