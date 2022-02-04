@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Creative TiKTok user converts an iBook G3 into iPad case](https://appleinsider.com/articles/22/02/04/creative-tiktok-user-converts-an-ibook-g3-into-ipad-case?utm_medium=rss)
- - [Wyze Video Doorbell Pro review: a lot to like, except for the look](https://www.theverge.com/22915876/wyze-video-doorbell-pro-review-budget-doorbell-camera)
- - [Michigan toddler dials 911 on Apple Watch](https://appleinsider.com/articles/22/02/04/michigan-toddler-dials-911-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is adding a ‘personal boundary’ to VR avatars to stop harassment](https://www.theverge.com/2022/2/4/22917722/meta-horizon-worlds-venues-metaverse-harassment-groping-personal-boundary-feature)
+ - [Apple TV+ announces &#39;Slow Horses&#39; spy drama to stream in April](https://appleinsider.com/articles/22/02/04/apple-tv-announces-slow-horses-spy-drama-to-stream-in-april?utm_medium=rss)
+ - [Don’t try to use Magic Eraser on your Pixel 6, as it’s currently borked](https://www.androidauthority.com/magic-eraser-pixel-6-crash-3102336/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
