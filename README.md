@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Even Battlefield 2042&#39;s Smaller Updates Are Being Delayed](https://kotaku.com/battlefield-2042-dice-ea-scoreboard-hotfix-delayed-pc-p-1848478260)
  - [Blizzard is working on a Warcraft mobile game](https://www.pcgamer.com/blizzard-is-working-on-a-warcraft-mobile-game)
- - [Dying Light 2 co-op: How to kill zombies with your friends](https://www.pcgamer.com/dying-light-2-co-op-how-to-kill-zombies-with-your-friends)
- - [Looks like the next Baldur&#39;s Gate 3 update is coming this month](https://www.pcgamer.com/looks-like-the-next-baldurs-gate-3-update-is-coming-this-month)<!-- GAME:END -->
+ - [Dying Light 2 co-op: How to kill zombies with your friends](https://www.pcgamer.com/dying-light-2-co-op-how-to-kill-zombies-with-your-friends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
