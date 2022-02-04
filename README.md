@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even Battlefield 2042&#39;s Smaller Updates Are Being Delayed](https://kotaku.com/battlefield-2042-dice-ea-scoreboard-hotfix-delayed-pc-p-1848478260)
- - [Blizzard is working on a Warcraft mobile game](https://www.pcgamer.com/blizzard-is-working-on-a-warcraft-mobile-game)
- - [Dying Light 2 co-op: How to kill zombies with your friends](https://www.pcgamer.com/dying-light-2-co-op-how-to-kill-zombies-with-your-friends)<!-- GAME:END -->
+ - [If Dying Light 2 is crashing when you start a new game, here&#39;s a fix](https://www.pcgamer.com/if-dying-light-2-is-crashing-when-you-start-a-new-game-heres-a-fix)
+ - [Warzone devs revert unpopular change, streamer gets Raven logo tattooed on his butt](https://www.pcgamer.com/warzone-devs-revert-unpopular-change-streamer-gets-raven-logo-tattooed-on-his-butt)
+ - [The Future Is Also The Past](https://kotaku.com/the-invincible-stanislaw-lem-concept-art-wojtek-ostrych-1848478680)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
