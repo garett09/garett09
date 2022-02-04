@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft claims HoloLens is ‘doing great’ after reports version 3 was canceled](https://www.theverge.com/2022/2/4/22918025/microsoft-hololens-3-canceled-reports-comment-rumors)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Report details future of Stadia as a white-label game streaming service called Google Stream, including talks with Capcom, Bungie, and Peloton &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220204/p16#a220204p16)<!-- TECH:END -->
+ - [Google Stadia has reportedly been demoted, but it might show up in your Peloton](https://www.theverge.com/2022/2/4/22917999/google-stadia-white-label-peloton-bungie-capcom)
+ - [How to see Street View on Google Maps](https://www.androidauthority.com/google-maps-street-view-3101067/)
+ - [Apple TV+ debuts trailer for &#39;The Last Days of Ptolemy Grey,&#39; coming March 11](https://appleinsider.com/articles/22/02/04/apple-tv-debuts-trailer-for-the-last-days-of-ptolemy-grey-coming-march-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
