@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Kanye West documentary trailer teases a grainy, intimate look at the rapper’s life](https://www.polygon.com/22918208/kanye-documentary-trailer-netflix-jeen-yuhs)
- - [The Sims 4 is having a free weekend to celebrate the series&#39; 22nd anniversary](https://www.pcgamer.com/the-sims-4-is-having-a-free-weekend-to-celebrate-the-series-22nd-anniversary)
- - [Activision Blizzard Allegedly Wouldn’t Let Call Of Duty Twitch Streamer Run A Team Due To ‘Oversexual’ Posts](https://kotaku.com/twitch-faze-kalei-renay-call-duty-warzone-activision-bl-1848483346)<!-- GAME:END -->
+ - [Racist Xbox Commenters Duped By Popular Impersonator Just In Time For Black History Month](https://kotaku.com/xbox-facebook-racist-comments-ben-palmer-tiktok-troll-1848484187)
+ - [Google&#39;s next move to keep Stadia alive: license it to anyone with cash](https://www.pcgamer.com/googles-next-move-to-keep-stadia-alive-license-it-to-anyone-with-cash)
+ - [Ubisoft’s Latest Galaxy-Brain Move Is To Gift Scammy NFTs To Employees](https://kotaku.com/ubisoft-nft-crypto-scam-tom-clancy-ghost-recon-breakpoi-1848484228)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
