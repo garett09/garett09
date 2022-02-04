@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ picks up five Bafta film nominations](https://appleinsider.com/articles/22/02/03/apple-tv-picks-up-four-bafta-film-nominations?utm_medium=rss)
- - [Twitter expands downvote test worldwide](https://www.theverge.com/2022/2/4/22917511/twitter-downvotes-test-experiment-feature-relevant-replies)
- - [You’ll now have to sign a 3-year contract with Verizon. Here’s what it means.](https://www.androidauthority.com/verizon-three-year-contracts-3102045/)<!-- TECH:END -->
+ - [Apple says it will charge a 27% commission for in-app purchases made using alternative payment systems in The Netherlands, following a Dutch legal decision &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220204/p2#a220204p2)
+ - [How to Watch the 2022 Winter Olympics](https://www.wired.com/story/how-to-watch-2022-winter-olympics-bejing)
+ - [Apple cuts commission by 3% for Dutch apps using third-party payments](https://appleinsider.com/articles/22/02/04/apple-cuts-commission-by-3-for-dutch-apps-using-third-party-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
