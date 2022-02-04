@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only Veterans might remember](http://9gag.com/gag/a81GP2e)
- - 🚯 [Bullies decide to jump the quiet kid\u2026does not go well for them](http://9gag.com/gag/awzBwmx)
- - 🚯 [Snow leopard + his meal + gravity =](http://9gag.com/gag/aVxwN5v)<!-- MEMES:END -->
+ - 🚖 [Between two ferns bloopers. I felt it was much more funnier than the scripted interview.](http://9gag.com/gag/a21WQbp)
+ - 🚯 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
+ - 🚯 [#HenryCavillIsOurSuperman](http://9gag.com/gag/aPZ7NeV)<!-- MEMES:END -->
 
 --- 
 
