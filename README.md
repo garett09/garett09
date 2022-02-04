@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only Veterans might remember](http://9gag.com/gag/a81GP2e)
- - 🚯 [Whom did it belong to in the first place.](http://9gag.com/gag/aqGn007)
- - 🚯 [Do it.](http://9gag.com/gag/ang46Aq)<!-- MEMES:END -->
+ - 🚖 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
+ - 🚯 [Only Veterans might remember](http://9gag.com/gag/a81GP2e)
+ - 🚯 [#HenryCavillIsOurSuperman](http://9gag.com/gag/aPZ7NeV)<!-- MEMES:END -->
 
 --- 
 
