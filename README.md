@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [You are chosen \u2026](http://9gag.com/gag/aLvpQgV)
- - 🚯 [Send a postcard ladies](http://9gag.com/gag/azeMLVZ)
- - 🚯 [Do you wanna know how I got these scars?](http://9gag.com/gag/azeMgvK)<!-- MEMES:END -->
+ - 🚯 [Ship breaking under the pressure of the tides](http://9gag.com/gag/aBn2QmN)
+ - 🚯 [Yasss](http://9gag.com/gag/aAGbYY9)<!-- MEMES:END -->
 
 --- 
 
