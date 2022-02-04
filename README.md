@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch punishes Minecraft streamer for reporting a fraudulent donation](https://www.pcgamer.com/twitch-punishes-minecraft-streamer-for-reporting-a-fraudulent-donation)
- - [Tracklist for Find Your Line &lpar;Official Music from Gran Turismo 7&rpar; announced](https://blog.playstation.com/2022/02/04/tracklist-for-find-your-line-official-music-from-gran-turismo-7-announced/)
- - [Tracklist for Find Your Line &lpar;Official Music from Gran Turismo 7&rpar; announced](https://blog.playstation.com/2022/02/04/tracklist-for-find-your-line-official-music-from-gran-turismo-7-announced/)<!-- GAME:END -->
+ - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)
+ - [Share of the Week – Uncharted: Legacy of Thieves Collection](https://blog.playstation.com/2022/02/04/share-of-the-week-uncharted-legacy-of-thieves-collection/)
+ - [Share of the Week – Uncharted: Legacy of Thieves Collection](https://blog.playstation.com/2022/02/04/share-of-the-week-uncharted-legacy-of-thieves-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
