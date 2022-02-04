@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked docs show how reputation laundering companies use fake DMCA and legal notices to scare news outlets into taking down unflattering articles about clients &lpar;Peter Guest/Rest of World&rpar;](http://www.techmeme.com/220204/p21#a220204p21)
- - [Lenovo IdeaPad Duet 5 Chromebook review: A compelling option in a me-too market](https://www.androidauthority.com/lenovo-ideapad-duet-5-chromebook-review-3092453/)
- - [OpenSea launches new contract-clearing system to protect against recent bug](https://www.theverge.com/2022/2/4/22917814/opensea-contract-clearing-system-nft-marketplace-bug)<!-- TECH:END -->
+ - [DeFi infrastructure startup Qredo raises an $80M Series A led by 10T Holdings at a $460M valuation, bringing its total funding to $120M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220204/p23#a220204p23)
+ - [Hear me out: browser tabs in music player apps](https://www.theverge.com/2022/2/4/22918410/browser-tabs-music-player-apps)
+ - [Amazon challenged by lawmakers over listings for preservative tied to suicides     - CNET](https://www.cnet.com/tech/services-and-software/amazon-challenged-by-lawmakers-over-listings-for-preservative-tied-to-suicides/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
