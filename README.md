@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to unveil the 5G iPhone SE and a new iPad Air in an online presentation on or near March 8 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220204/p19#a220204p19)
- - [Apple TV+ announces &#39;They Call Me Magic&#39; debuting April 22](https://appleinsider.com/articles/22/02/04/apple-tv-announces-they-call-me-magic-debuting-april-22?utm_medium=rss)
- - [NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem](https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing)<!-- TECH:END -->
+ - [Leaked docs show how reputation laundering companies use fake DMCA and legal notices to scare news outlets into taking down unflattering articles about clients &lpar;Peter Guest/Rest of World&rpar;](http://www.techmeme.com/220204/p21#a220204p21)
+ - [Lenovo IdeaPad Duet 5 Chromebook review: A compelling option in a me-too market](https://www.androidauthority.com/lenovo-ideapad-duet-5-chromebook-review-3092453/)
+ - [OpenSea launches new contract-clearing system to protect against recent bug](https://www.theverge.com/2022/2/4/22917814/opensea-contract-clearing-system-nft-marketplace-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
