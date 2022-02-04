@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The walkman was cool too, I guess.](http://9gag.com/gag/aWgjQoA)
- - 🚯 [Biodiversity](http://9gag.com/gag/aNPprAA)
+ - 🚖 [Doggo is pleased](http://9gag.com/gag/ay9M7Rb)
+ - 🚯 [GW is real and this is the only alternative](http://9gag.com/gag/a11rvbR)
  - 🚯 [When your 6 years old gtx 1060 can run Dying Light 2 on release](http://9gag.com/gag/aRrXwmA)<!-- MEMES:END -->
 
 --- 
