@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Racist Xbox Commenters Duped By Popular Impersonator Just In Time For Black History Month](https://kotaku.com/xbox-facebook-racist-comments-ben-palmer-tiktok-troll-1848484187)
- - [Google&#39;s next move to keep Stadia alive: license it to anyone with cash](https://www.pcgamer.com/googles-next-move-to-keep-stadia-alive-license-it-to-anyone-with-cash)
- - [Ubisoft’s Latest Galaxy-Brain Move Is To Gift Scammy NFTs To Employees](https://kotaku.com/ubisoft-nft-crypto-scam-tom-clancy-ghost-recon-breakpoi-1848484228)<!-- GAME:END -->
+ - [Wordle Tips To Help You Nail It In Fewer Guesses](https://kotaku.com/wordle-tips-first-word-strategy-puzzle-game-fewer-guess-1848460533)
+ - [Confused Halo Infinite Fans Buy Nail Polish For Skins, Get Forza Stuff Instead](https://kotaku.com/halo-infinite-forza-horizon-5-xbox-opi-ulta-amazon-nail-1848484750)
+ - [Joker and Harley Quinn made it to the Olympics thanks to German ice dancing duo](https://www.polygon.com/22918508/joker-and-harley-quinn-olympics-figure-skating-ice-dancing-rhythm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
