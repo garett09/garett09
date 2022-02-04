@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Tiger Global has raised over $11B for its latest venture capital fund as of January and expects to close the fund at $12B in March &lpar;The Information&rpar;](http://www.techmeme.com/220203/p47#a220203p47)
- - [Wormhole&#39;s parent restores $322M worth of ETH stolen by a hacker on Wednesday, and the bridge&#39;s operations are back up after the attack vector had been patched &lpar;Andrew Thurman/CoinDesk&rpar;](http://www.techmeme.com/220203/p46#a220203p46)
- - [Nike sues online sneaker reseller StockX for selling unauthorized NFTs of Nike shoes, and says it will release &quot;a number of virtual products&quot; later this month &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220203/p45#a220203p45)<!-- TECH:END -->
+ - [TTTech Auto, a Vienna-based automotive safety software provider, raises $228M from Aptiv and $57M from Audi at a $1B+ valuation &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/220203/p48#a220203p48)
+ - [This is the successor to one of Samsung’s best-selling mid-range phones](https://www.androidauthority.com/samsung-galaxy-a53-5g-3101979/)
+ - [Source: Tiger Global has raised over $11B for its latest venture capital fund as of January and expects to close the fund at $12B in March &lpar;The Information&rpar;](http://www.techmeme.com/220203/p47#a220203p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
