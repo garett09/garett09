@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 things we want from Grand Theft Auto 6](https://www.pcgamer.com/11-things-we-want-from-grand-theft-auto-6)
- - [Behold ‘Africa’ by Toto played on Majora’s Mask instruments](https://www.polygon.com/22917810/africa-toto-zelda-majoras-mask-instruments-deku-pipes)
- - [Pokemon Legends: Arceus Players Are Spending Forever In Just The First Area](https://kotaku.com/pokemon-legends-arceus-obsidian-fields-pokedex-nintendo-1848482072)<!-- GAME:END -->
+ - [Activision Blizzard Allegedly Wouldn’t Let Call Of Duty Twitch Streamer Run A Team Due To ‘Oversexual’ Posts](https://kotaku.com/twitch-faze-kalei-renay-call-duty-warzone-activision-bl-1848483346)
+ - [Encanto’s final song is getting overlooked](https://www.polygon.com/22918156/encanto-ending-song-all-of-you-disney-musicals)
+ - [11 things we want from Grand Theft Auto 6](https://www.pcgamer.com/11-things-we-want-from-grand-theft-auto-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
