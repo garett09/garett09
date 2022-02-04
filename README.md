@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How jazz became rock](http://9gag.com/gag/aAGbY29)
- - 🚯 [My Spirit Animal](http://9gag.com/gag/arnMee0)
- - 🚯 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)<!-- MEMES:END -->
+ - 🚖 [The most New York moment ever](http://9gag.com/gag/adg8N7Q)
+ - 🚯 [Send a postcard ladies](http://9gag.com/gag/azeMLVZ)
+ - 🚯 [Stellballs](http://9gag.com/gag/a61EmRN)<!-- MEMES:END -->
 
 --- 
 
