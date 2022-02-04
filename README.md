@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it will charge a 27% commission for in-app purchases made using alternative payment systems in The Netherlands, following a Dutch legal decision &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220204/p2#a220204p2)
- - [How to Watch the 2022 Winter Olympics](https://www.wired.com/story/how-to-watch-2022-winter-olympics-bejing)
- - [Apple cuts commission by 3% for Dutch apps using third-party payments](https://appleinsider.com/articles/22/02/04/apple-cuts-commission-by-3-for-dutch-apps-using-third-party-payments?utm_medium=rss)<!-- TECH:END -->
+ - [Second class action suit targets Powerbeats Pro battery life, charging issues](https://appleinsider.com/articles/22/02/04/second-class-action-suit-targets-powerbeats-pro-battery-life-charging-issues?utm_medium=rss)
+ - [Twitter begins expanding testing downvoting replies globally on web and mobile; downvotes are not public and will be used to tweak which replies Twitter shows &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220204/p4#a220204p4)
+ - [A New Database Reveals How Much Humans Are Messing With Evolution](https://www.wired.com/story/database-humans-messing-with-evolution)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
