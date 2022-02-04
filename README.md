@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
- - 🚯 [Damnit toyota](http://9gag.com/gag/aE8Pr2x)
- - 🚯 [Scalpers are the scum of the earth](http://9gag.com/gag/azem0Kp)<!-- MEMES:END -->
+ - 🚖 [Scalpers are the scum of the earth](http://9gag.com/gag/azem0Kp)
+ - 🚯 [You don&#39;t really need much to have fun with the boys](http://9gag.com/gag/awzBRjy)
+ - 🚯 [High-Speed chase gets ended by angry mom](http://9gag.com/gag/aKm7rKW)<!-- MEMES:END -->
 
 --- 
 
