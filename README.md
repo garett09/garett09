@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft CEO argues that buying Activision Blizzard will help him build the metaverse](https://www.polygon.com/22917625/microsoft-activision-blizzard-metaverse-satya-nadella)
- - [The best FromSoftware bosses, as picked by PlayStation Studio devs](https://blog.playstation.com/2022/02/04/the-best-fromsoftware-bosses-as-picked-by-playstation-studio-devs/)
- - [The best FromSoftware bosses, as picked by PlayStation Studio devs](https://blog.playstation.com/2022/02/04/the-best-fromsoftware-bosses-as-picked-by-playstation-studio-devs/)<!-- GAME:END -->
+ - [Twitch punishes Minecraft streamer for reporting a fraudulent donation](https://www.pcgamer.com/twitch-punishes-minecraft-streamer-for-reporting-a-fraudulent-donation)
+ - [Tracklist for Find Your Line &lpar;Official Music from Gran Turismo 7&rpar; announced](https://blog.playstation.com/2022/02/04/tracklist-for-find-your-line-official-music-from-gran-turismo-7-announced/)
+ - [Tracklist for Find Your Line &lpar;Official Music from Gran Turismo 7&rpar; announced](https://blog.playstation.com/2022/02/04/tracklist-for-find-your-line-official-music-from-gran-turismo-7-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
