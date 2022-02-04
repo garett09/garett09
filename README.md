@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is adding a ‘personal boundary’ to VR avatars to stop harassment](https://www.theverge.com/2022/2/4/22917722/meta-horizon-worlds-venues-metaverse-harassment-groping-personal-boundary-feature)
- - [Apple TV+ announces &#39;Slow Horses&#39; spy drama to stream in April](https://appleinsider.com/articles/22/02/04/apple-tv-announces-slow-horses-spy-drama-to-stream-in-april?utm_medium=rss)
- - [Don’t try to use Magic Eraser on your Pixel 6, as it’s currently borked](https://www.androidauthority.com/magic-eraser-pixel-6-crash-3102336/)<!-- TECH:END -->
+ - [Apple Music cuts free trial period from three months to one month](https://appleinsider.com/articles/22/02/04/apple-music-cuts-free-trial-period-from-three-months-to-one-month?utm_medium=rss)
+ - [Texas power outages hit counties where people need electricity for medical devices](https://www.theverge.com/2022/2/4/22917651/texas-power-outage-medical-devices)
+ - [Belkin reveals new 12-port Connect Pro Thunderbolt 4 Dock](https://appleinsider.com/articles/22/02/04/belkin-reveals-new-12-port-connect-pro-thunderbolt-4-dock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
