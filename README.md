@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Sundance Film Festival&#39;s foray into the metaverse, which included Q&amp;As with filmmakers&#39; avatars, networking parties, and &quot;virtual cinemas&quot; &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220204/p29#a220204p29)
- - [Amazon in talks to purchase fitness equipment producer Peloton](https://appleinsider.com/articles/22/02/05/amazon-in-talks-to-purchase-fitness-equipment-producer-peloton?utm_medium=rss)
- - [Amazon named as possible Peloton buyer in a suspiciously well-timed rumor](https://www.theverge.com/2022/2/4/22918596/peloton-amazon-acquisition-rumor-fitness-bike-wearables)<!-- TECH:END -->
+ - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)
+ - [Spotify appears to remove more than 70 episodes of Joe Rogan&#39;s podcast     - CNET](https://www.cnet.com/tech/services-and-software/spotify-appears-to-remove-more-than-70-episodes-of-joe-rogans-podcast/#ftag=CAD590a51e)
+ - [Amazon reportedly interested in buying Peloton     - CNET](https://www.cnet.com/health/amazon-reportedly-interested-in-buying-peloton/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
