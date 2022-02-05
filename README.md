@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you order beef steak and credit card declined](http://9gag.com/gag/aRrXP3j)
+ - 🚖 [Injured? Good](http://9gag.com/gag/arnM41d)
  - 🚯 [Boy here I go being fatphobic again](http://9gag.com/gag/angQKYz)
- - 🚯 [Injured? Good](http://9gag.com/gag/arnM41d)<!-- MEMES:END -->
+ - 🚯 [Is this the real life?](http://9gag.com/gag/aRrXPQA)<!-- MEMES:END -->
 
 --- 
 
