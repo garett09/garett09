@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Report: Google Quietly Ditching Stadia](https://kotaku.com/google-stadia-streaming-failing-shutdown-report-stream-1848487185)
  - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)
- - [How To Level Up Faster in Dying Light 2](https://kotaku.com/dying-light-2-tips-level-up-xp-faster-combat-parkour-te-1848485146)
- - [An underrated Denzel thriller and 9 more great movies streaming in February](https://www.polygon.com/what-to-watch/2022/2/5/22912503/best-new-movies-netflix-amazon-hbo-february-2021)<!-- GAME:END -->
+ - [How To Level Up Faster in Dying Light 2](https://kotaku.com/dying-light-2-tips-level-up-xp-faster-combat-parkour-te-1848485146)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
