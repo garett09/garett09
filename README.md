@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to ditch our fascination with the yearly upgrade cycle](https://www.androidauthority.com/yearly-smartphone-model-obsolete-3097285/)
- - [Torii, which lets businesses automate the management of SaaS tools, raises a $50M Series B led by Tiger Global, bringing its total funding to $65M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220205/p5#a220205p5)
- - [SanDisk’s 400GB microSD card for Switch is just $40](https://www.theverge.com/good-deals/2022/2/5/22918378/sandisk-400gb-microsd-card-nintendo-switch-xbox-series-s-sonos-beam-samsung-galaxy-deal-sale)<!-- TECH:END -->
+ - [All-female Apple Developer Academy in Saudi Arabia opens to students](https://appleinsider.com/articles/22/02/05/all-female-apple-developer-academy-in-saudi-arabia-opens-to-students?utm_medium=rss)
+ - [Dog walking startup Wag will go public via a SPAC merger at a $350M valuation; SoftBank, which invested $300M, sold its stake back to Wag in 2019 at a loss &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/220205/p6#a220205p6)
+ - [Best deals Feb. 5: $398 50-inch Vizio 4K TV, $55 Monty Python, more!](https://appleinsider.com/articles/22/02/05/best-deals-feb-5-398-5-inch-vizio-4k-tv-55-monty-python-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
