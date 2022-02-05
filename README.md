@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay Loyal to her](http://9gag.com/gag/a11rY8R)
- - 🚯 [Gives me chills everytime](http://9gag.com/gag/aWgjWN4)
- - 🚯 [Life tip: Be ready when the opportunity arises.](http://9gag.com/gag/aAGbp1d)<!-- MEMES:END -->
+ - 🚖 [Here we go boys](http://9gag.com/gag/a11rYmP)
+ - 🚯 [Life tip: Be ready when the opportunity arises.](http://9gag.com/gag/aAGbp1d)
+ - 🚯 [Watch that show](http://9gag.com/gag/aAGbrOE)<!-- MEMES:END -->
 
 --- 
 
