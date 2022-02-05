@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3D printed crystal dragon](http://9gag.com/gag/a51Er7q)
- - 🚯 [To catch a raccoon you need to think like a raccoon](http://9gag.com/gag/aggBVxn)
- - 🚯 [Hi you&#39;re a pretty female](http://9gag.com/gag/angQNQV)<!-- MEMES:END -->
+ - 🚖 [Hi you&#39;re a pretty female](http://9gag.com/gag/angQNQV)
+ - 🚯 [They said get old wine, they said it&#39;s good](http://9gag.com/gag/aAGbPQE)
+ - 🚯 [3D printed crystal dragon](http://9gag.com/gag/a51Er7q)<!-- MEMES:END -->
 
 --- 
 
