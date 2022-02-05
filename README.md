@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, which ignored creators for years, has only &quot;shameless&quot; creators and their awful content to fall back on in its pivot to video and eventual irrelevance &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220205/p8#a220205p8)
- - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)
- - [Joe Rogan releases apology video after clips of N-word use and a racist story go viral](https://www.theverge.com/2022/2/5/22919271/spotify-joe-rogan-experience-slur-planet-of-the-apes)<!-- TECH:END -->
+ - [Samsung Galaxy Tab A8 review: Budget streaming star](https://www.androidauthority.com/samsung-galaxy-tab-a8-review-3095771/)
+ - [Fujifilm works on camera firmware to fix bug affecting macOS users](https://appleinsider.com/articles/22/02/05/fujifilm-works-on-camera-firmware-to-fix-bug-affecting-macos-users?utm_medium=rss)
+ - [Meta, which ignored creators for years, has only &quot;shameless&quot; creators and their awful content to fall back on in its pivot to video and eventual irrelevance &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220205/p8#a220205p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
