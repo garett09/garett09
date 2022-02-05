@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-female Apple Developer Academy in Saudi Arabia opens to students](https://appleinsider.com/articles/22/02/05/all-female-apple-developer-academy-in-saudi-arabia-opens-to-students?utm_medium=rss)
- - [Dog walking startup Wag will go public via a SPAC merger at a $350M valuation; SoftBank, which invested $300M, sold its stake back to Wag in 2019 at a loss &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/220205/p6#a220205p6)
- - [Best deals Feb. 5: $398 50-inch Vizio 4K TV, $55 Monty Python, more!](https://appleinsider.com/articles/22/02/05/best-deals-feb-5-398-5-inch-vizio-4k-tv-55-monty-python-more?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-418-3102616/)
+ - [Joe Rogan apologizes for past use of N-word after a compilation video of him using the slur went viral; Spotify seems to have quietly removed ~70 JRE episodes &lpar;Ben Sisario/New York Times&rpar;](http://www.techmeme.com/220205/p7#a220205p7)
+ - [Feed everyone and save over 50% on this one-day air fryer deal     - CNET](https://www.cnet.com/home/kitchen-and-household/feed-everyone-and-save-over-50-on-this-one-day-air-fryer-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
