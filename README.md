@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat prefers team effort grooming](http://9gag.com/gag/aogM0zA)
- - 🚯 [Well, he did ask...](http://9gag.com/gag/a61EddR)
+ - 🚖 [Gives me chills everytime](http://9gag.com/gag/aWgjWN4)
+ - 🚯 [China gives zero f**k to your live streaming](http://9gag.com/gag/a71E502)
  - 🚯 [When you order beef steak and credit card declined](http://9gag.com/gag/aRrXP3j)<!-- MEMES:END -->
 
 --- 
