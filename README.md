@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the digital age is challenging US intelligence agencies, including empowering new enemies, and why agencies must engage and collaborate with private firms &lpar;Amy B. Zegart/Wired&rpar;](http://www.techmeme.com/220205/p3#a220205p3)
- - [More than 70 episodes of Joe Rogan&#39;s podcast are no longer on Spotify     - CNET](https://www.cnet.com/tech/services-and-software/more-than-70-episodes-of-joe-rogans-podcast-are-no-longer-on-spotify/#ftag=CAD590a51e)
- - [A close look at the EARN IT Act, which is modeled after FOSTA and was recently reintroduced in Congress, and why it risks exacerbating the online CSAM problem &lpar;Riana Pfefferkorn/The Center for Internet and Society&rpar;](http://www.techmeme.com/220205/p2#a220205p2)<!-- TECH:END -->
+ - [The 16 Best Deals on Sex Tech Before Valentines Day](https://www.wired.com/story/deals-february-05-2022)
+ - [I&#39;m done binge-watching: Why I&#39;m all in on the slow-watch     - CNET](https://www.cnet.com/tech/services-and-software/im-done-binge-watching-why-im-all-in-on-the-slow-watch/#ftag=CAD590a51e)
+ - [Best 32-inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-32-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
