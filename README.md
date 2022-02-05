@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cuddles kick ass](http://9gag.com/gag/aM4Kwv6)
- - 🚯 [Extra thick sub floor](http://9gag.com/gag/aggBLrg)
- - 🚯 [Plastic caught in low pressure area behind a moving car](http://9gag.com/gag/a81Epnd)<!-- MEMES:END -->
+ - 🚖 [Enought space for my testicels. &lpar;I know, adios balls&rpar;](http://9gag.com/gag/ajgmX1x)
+ - 🚯 [Plastic caught in low pressure area behind a moving car](http://9gag.com/gag/a81Epnd)
+ - 🚯 [Extra thick sub floor](http://9gag.com/gag/aggBLrg)<!-- MEMES:END -->
 
 --- 
 
