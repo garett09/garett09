@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy Snow Removal](http://9gag.com/gag/aDDdjWx)
- - 🚯 [They said get old wine, they said it&#39;s good](http://9gag.com/gag/aAGbPQE)
- - 🚯 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)<!-- MEMES:END -->
+ - 🚖 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)
+ - 🚯 [Long ago](http://9gag.com/gag/aKm627b)
+ - 🚯 [Thousands of people are petitioning for Jimmy Carr&#39;s latest standup to be removed from Netflix because of this joke.](http://9gag.com/gag/a81E4jO)<!-- MEMES:END -->
 
 --- 
 
