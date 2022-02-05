@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Venus Hostage, the porn game set in what sure looks like a recycled City 17 from Half-Life 2](https://www.pcgamer.com/saturday-crapshoot-venus-hostage)
  - [Dying Light 2&#39;s map: How big is it, really?](https://www.pcgamer.com/dying-light-2s-map-how-big-is-it-really)
- - [What type of liquid should I use for cooling when I overclock?](https://www.pcgamer.com/what-type-of-liquid-should-i-use-for-cooling-when-i-overclock)
- - [Humble&#39;s newest bundle pays tribute to Starbreeze CEO who died of cancer](https://www.pcgamer.com/humbles-newest-bundle-pays-tribute-to-starbreeze-ceo-who-died-of-cancer)<!-- GAME:END -->
+ - [What type of liquid should I use for cooling when I overclock?](https://www.pcgamer.com/what-type-of-liquid-should-i-use-for-cooling-when-i-overclock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
