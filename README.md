@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember these games](http://9gag.com/gag/abgV0Pb)
- - 🚯 [META leaving EU](http://9gag.com/gag/arnMKj5)
- - 🚯 [Confused or stupid](http://9gag.com/gag/aggBV9K)<!-- MEMES:END -->
+ - 🚖 [Easy Snow Removal](http://9gag.com/gag/aDDdjWx)
+ - 🚯 [They said get old wine, they said it&#39;s good](http://9gag.com/gag/aAGbPQE)
+ - 🚯 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)<!-- MEMES:END -->
 
 --- 
 
