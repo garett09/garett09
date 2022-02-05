@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you choose?](http://9gag.com/gag/aBn21eN)
- - 🚯 [Do we need it?](http://9gag.com/gag/aGzpDO0)
- - 🚯 [3D printed crystal dragon](http://9gag.com/gag/a51Er7q)<!-- MEMES:END -->
+ - 🚖 [Do we need it?](http://9gag.com/gag/aGzpDO0)
+ - 🚯 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)
+ - 🚯 [Remember these games](http://9gag.com/gag/abgV0Pb)<!-- MEMES:END -->
 
 --- 
 
