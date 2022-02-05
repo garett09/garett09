@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)
- - 🚯 [Long ago](http://9gag.com/gag/aKm627b)
- - 🚯 [Thousands of people are petitioning for Jimmy Carr&#39;s latest standup to be removed from Netflix because of this joke.](http://9gag.com/gag/a81E4jO)<!-- MEMES:END -->
+ - 🚖 [Cuddles kick ass](http://9gag.com/gag/aM4Kwv6)
+ - 🚯 [Extra thick sub floor](http://9gag.com/gag/aggBLrg)
+ - 🚯 [Plastic caught in low pressure area behind a moving car](http://9gag.com/gag/a81Epnd)<!-- MEMES:END -->
 
 --- 
 
