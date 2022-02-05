@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dying Light 2&#39;s map: How big is it, really?](https://www.pcgamer.com/dying-light-2s-map-how-big-is-it-really)
  - [What type of liquid should I use for cooling when I overclock?](https://www.pcgamer.com/what-type-of-liquid-should-i-use-for-cooling-when-i-overclock)
- - [Humble&#39;s newest bundle pays tribute to Starbreeze CEO who died of cancer](https://www.pcgamer.com/humbles-newest-bundle-pays-tribute-to-starbreeze-ceo-who-died-of-cancer)
- - [Hideo Kojima has a new podcast, but you may have a hard time listening to it](https://www.pcgamer.com/hideo-kojima-has-a-new-podcast-but-you-may-have-a-hard-time-listening-to-it)<!-- GAME:END -->
+ - [Humble&#39;s newest bundle pays tribute to Starbreeze CEO who died of cancer](https://www.pcgamer.com/humbles-newest-bundle-pays-tribute-to-starbreeze-ceo-who-died-of-cancer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
