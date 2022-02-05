@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Injured? Good](http://9gag.com/gag/arnM41d)
- - 🚯 [Boy here I go being fatphobic again](http://9gag.com/gag/angQKYz)
- - 🚯 [Is this the real life?](http://9gag.com/gag/aRrXPQA)<!-- MEMES:END -->
+ - 🚖 [My name is MAXIMUS DECIMUS MERIDIUS, why don\u2019t they make movies like this anymore, it\u2019s been 22 years and still I see this movie as I watch it as it\u2019s the first time\u2026\u2026\u2026](http://9gag.com/gag/aVx7WVv)
+ - 🚯 [Is this the real life?](http://9gag.com/gag/aRrXPQA)
+ - 🚯 [Life tip: Be ready when the opportunity arises.](http://9gag.com/gag/aAGbp1d)<!-- MEMES:END -->
 
 --- 
 
