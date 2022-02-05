@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A close look at the EARN IT Act, which is modeled after FOSTA and was recently reintroduced in Congress, and why it risks exacerbating the online CSAM problem &lpar;Riana Pfefferkorn/The Center for Internet and Society&rpar;](http://www.techmeme.com/220205/p2#a220205p2)
  - [10 best habit tracker apps for Android](https://www.androidauthority.com/best-habit-tracker-apps-android-3093249/)
- - [Investigation reveals the identities of two main founders of the Bored Ape Yacht Club NFT collection: Greg Solano, aka &quot;Gargamel&quot;, and Wylie Aronow &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/220205/p1#a220205p1)
- - [Spotify won&#39;t ax Joe Rogan till Bad Bunny or The Weeknd protests too     - CNET](https://www.cnet.com/news/spotify-wont-ax-joe-rogan-till-bad-bunny-or-the-weeknd-protests-too/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investigation reveals the identities of two main founders of the Bored Ape Yacht Club NFT collection: Greg Solano, aka &quot;Gargamel&quot;, and Wylie Aronow &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/220205/p1#a220205p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
