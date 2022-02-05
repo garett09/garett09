@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab A8 review: Budget streaming star](https://www.androidauthority.com/samsung-galaxy-tab-a8-review-3095771/)
- - [Fujifilm works on camera firmware to fix bug affecting macOS users](https://appleinsider.com/articles/22/02/05/fujifilm-works-on-camera-firmware-to-fix-bug-affecting-macos-users?utm_medium=rss)
- - [Meta, which ignored creators for years, has only &quot;shameless&quot; creators and their awful content to fall back on in its pivot to video and eventual irrelevance &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220205/p8#a220205p8)<!-- TECH:END -->
+ - [Deals: get 1 year of Microsoft 365 Personal or a Luminar AI photo editing software bundle for Mac for $39](https://appleinsider.com/articles/22/02/04/deals-get-1-year-of-microsoft-365-personal-or-a-luminar-ai-photo-editing-software-bundle-for-mac-for-39?utm_medium=rss)
+ - [Brazil-based Gupy, which uses AI to help around 1,500 companies select, hire, and train employees, raises ~$93M led by SoftBank Latin America Fund and Riverwood &lpar;Aluisio Alves/Reuters&rpar;](http://www.techmeme.com/220205/p9#a220205p9)
+ - [Samsung Galaxy Tab A8 review: Budget streaming star](https://www.androidauthority.com/samsung-galaxy-tab-a8-review-3095771/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
