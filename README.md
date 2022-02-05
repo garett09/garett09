@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro is just up there chillin in his shorts](http://9gag.com/gag/a81EM5p)
- - 🚯 [Bacon is good for me](http://9gag.com/gag/aOQ3Vx3)
- - 🚯 [The Flintstones intro](http://9gag.com/gag/a41EYGd)<!-- MEMES:END -->
+ - 🚖 [Bacon is good for me](http://9gag.com/gag/aOQ3Vx3)
+ - 🚯 [When you own a puppy cam](http://9gag.com/gag/aGzpxNG)
+ - 🚯 [Buckle up kids](http://9gag.com/gag/aBn2rAQ)<!-- MEMES:END -->
 
 --- 
 
