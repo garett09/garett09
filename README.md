@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fire truck responding to an emergency drifts around a bend](http://9gag.com/gag/a41ELDm)
- - 🚯 [He&#39;s brave, I wouldn&#39;t touch whatever in my keyboard.](http://9gag.com/gag/aE8pznK)
- - 🚯 [The Flintstones intro](http://9gag.com/gag/a41EYGd)<!-- MEMES:END -->
+ - 🚖 [Once upon a time... Life intro](http://9gag.com/gag/avA5PO5)
+ - 🚯 [To catch a raccoon you need to think like a raccoon](http://9gag.com/gag/aggBVxn)
+ - 🚯 [Seriously though](http://9gag.com/gag/aXroXxg)<!-- MEMES:END -->
 
 --- 
 
