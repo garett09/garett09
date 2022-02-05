@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you own a puppy cam](http://9gag.com/gag/aGzpxNG)
- - 🚯 [Once upon a time... Life intro](http://9gag.com/gag/avA5PO5)
- - 🚯 [Remember these games](http://9gag.com/gag/abgV0Pb)<!-- MEMES:END -->
+ - 🚖 [3D printed crystal dragon](http://9gag.com/gag/a51Er7q)
+ - 🚯 [To catch a raccoon you need to think like a raccoon](http://9gag.com/gag/aggBVxn)
+ - 🚯 [Hi you&#39;re a pretty female](http://9gag.com/gag/angQNQV)<!-- MEMES:END -->
 
 --- 
 
