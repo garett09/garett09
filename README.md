@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the first setting I change on any Google smart speaker](https://www.androidauthority.com/best-setting-google-smart-speaker-display-3101706/)
- - [The Weekly Authority: Sony buys Bungie](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-180/)
- - [The 16 Best Deals on Sex Tech Before Valentines Day](https://www.wired.com/story/deals-february-05-2022)<!-- TECH:END -->
+ - [Rewilding Asks: What Will You Do After the Climate Apocalypse?](https://www.wired.com/story/rewilding-climate-change-gig-work)
+ - [A $320 Million Crypto Hack Sends the DeFi World Reeling](https://www.wired.com/story/wormhole-defi-hack-ransomware-security-news)
+ - [Just Got a Meta Quest 2? These Are Our Favorite Games](https://www.wired.com/gallery/best-oculus-meta-quest-2-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
