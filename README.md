@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More than 70 episodes of Joe Rogan&#39;s podcast are no longer on Spotify     - CNET](https://www.cnet.com/tech/services-and-software/more-than-70-episodes-of-joe-rogans-podcast-are-no-longer-on-spotify/#ftag=CAD590a51e)
  - [A close look at the EARN IT Act, which is modeled after FOSTA and was recently reintroduced in Congress, and why it risks exacerbating the online CSAM problem &lpar;Riana Pfefferkorn/The Center for Internet and Society&rpar;](http://www.techmeme.com/220205/p2#a220205p2)
- - [10 best habit tracker apps for Android](https://www.androidauthority.com/best-habit-tracker-apps-android-3093249/)
- - [Investigation reveals the identities of two main founders of the Bored Ape Yacht Club NFT collection: Greg Solano, aka &quot;Gargamel&quot;, and Wylie Aronow &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/220205/p1#a220205p1)<!-- TECH:END -->
+ - [10 best habit tracker apps for Android](https://www.androidauthority.com/best-habit-tracker-apps-android-3093249/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
