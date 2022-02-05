@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Golden boy best anime ever](http://9gag.com/gag/apgNBzW)
- - 🚯 [Watch that show](http://9gag.com/gag/aAGbrOE)
- - 🚯 [Hope you succeed...Dutchees](http://9gag.com/gag/abgV0bL)<!-- MEMES:END -->
+ - 🚖 [Fire truck responding to an emergency drifts around a bend](http://9gag.com/gag/a41ELDm)
+ - 🚯 [He&#39;s brave, I wouldn&#39;t touch whatever in my keyboard.](http://9gag.com/gag/aE8pznK)
+ - 🚯 [The Flintstones intro](http://9gag.com/gag/a41EYGd)<!-- MEMES:END -->
 
 --- 
 
