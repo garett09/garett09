@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle Tips To Help You Nail It In Fewer Guesses](https://kotaku.com/wordle-tips-first-word-strategy-puzzle-game-fewer-guess-1848460533)
- - [Confused Halo Infinite Fans Buy Nail Polish For Skins, Get Forza Stuff Instead](https://kotaku.com/halo-infinite-forza-horizon-5-xbox-opi-ulta-amazon-nail-1848484750)
- - [Joker and Harley Quinn made it to the Olympics thanks to German ice dancing duo](https://www.polygon.com/22918508/joker-and-harley-quinn-olympics-figure-skating-ice-dancing-rhythm)<!-- GAME:END -->
+ - [What type of liquid should I use for cooling when I overclock?](https://www.pcgamer.com/what-type-of-liquid-should-i-use-for-cooling-when-i-overclock)
+ - [Humble&#39;s newest bundle pays tribute to Starbreeze CEO who died of cancer](https://www.pcgamer.com/humbles-newest-bundle-pays-tribute-to-starbreeze-ceo-who-died-of-cancer)
+ - [Hideo Kojima has a new podcast, but you may have a hard time listening to it](https://www.pcgamer.com/hideo-kojima-has-a-new-podcast-but-you-may-have-a-hard-time-listening-to-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
