@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-418-3102616/)
- - [Joe Rogan apologizes for past use of N-word after a compilation video of him using the slur went viral; Spotify seems to have quietly removed ~70 JRE episodes &lpar;Ben Sisario/New York Times&rpar;](http://www.techmeme.com/220205/p7#a220205p7)
- - [Feed everyone and save over 50% on this one-day air fryer deal     - CNET](https://www.cnet.com/home/kitchen-and-household/feed-everyone-and-save-over-50-on-this-one-day-air-fryer-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta, which ignored creators for years, has only &quot;shameless&quot; creators and their awful content to fall back on in its pivot to video and eventual irrelevance &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220205/p8#a220205p8)
+ - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)
+ - [Joe Rogan releases apology video after clips of N-word use and a racist story go viral](https://www.theverge.com/2022/2/5/22919271/spotify-joe-rogan-experience-slur-planet-of-the-apes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
