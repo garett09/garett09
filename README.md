@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK updates its Online Safety Bill proposal to outlaw content featuring revenge porn, drug and weapons dealing, suicide promotion, people smuggling, and more &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220204/p27#a220204p27)
- - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
- - [Apple shares first look at &#39;Shining Girls,&#39; series to premiere April 29](https://appleinsider.com/articles/22/02/04/apple-shares-first-look-at-shining-girls-series-to-premiere-april-29?utm_medium=rss)<!-- TECH:END -->
+ - [Digital assets like NFTs give us a glimpse into a future where every aspect of human life that can be digitally recorded will be collateralized and securitized &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/220204/p28#a220204p28)
+ - [Airstream debuts eStream trailer concept with 80-kWh battery and driven axles     - Roadshow](https://www.cnet.com/roadshow/news/airstream-estream-trailer-concept-lithium-ion-battery-driven-axles/#ftag=CAD590a51e)
+ - [Amazon reportedly interested in buying Peloton     - CNET](https://www.cnet.com/health/amazon-reportedly-interested-in-buying-peloton/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
