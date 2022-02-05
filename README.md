@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boy here I go being fatphobic again](http://9gag.com/gag/angQKYz)
- - 🚯 [`There&#39;s No Agenda. You&#39;re Just Sexist.`](http://9gag.com/gag/a31EYz7)
- - 🚯 [My Spirit Animal](http://9gag.com/gag/arnMee0)<!-- MEMES:END -->
+ - 🚖 [Cat prefers team effort grooming](http://9gag.com/gag/aogM0zA)
+ - 🚯 [When you order beef steak and credit card declined](http://9gag.com/gag/aRrXP3j)
+ - 🚯 [Well, he did ask...](http://9gag.com/gag/a61EddR)<!-- MEMES:END -->
 
 --- 
 
