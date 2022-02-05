@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the GoCube 2x2: a fun twist on a classic puzzle](https://appleinsider.com/articles/22/02/05/hands-on-with-the-gocube-2x2-a-fun-twist-on-a-classic-puzzle?utm_medium=rss)
- - [Beijing Olympics opening ceremonies: There&#39;s a new shirtless flagbearer     - CNET](https://www.cnet.com/news/beijing-olympics-opening-ceremonies-theres-a-new-shirtless-flagbearer/#ftag=CAD590a51e)
- - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)<!-- TECH:END -->
+ - [10 best habit tracker apps for Android](https://www.androidauthority.com/best-habit-tracker-apps-android-3093249/)
+ - [Investigation reveals the identities of two main founders of the Bored Ape Yacht Club NFT collection: Greg Solano, aka &quot;Gargamel&quot;, and Wylie Aronow &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/220205/p1#a220205p1)
+ - [Spotify won&#39;t ax Joe Rogan till Bad Bunny or The Weeknd protests too     - CNET](https://www.cnet.com/news/spotify-wont-ax-joe-rogan-till-bad-bunny-or-the-weeknd-protests-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
