@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bacon is good for me](http://9gag.com/gag/aOQ3Vx3)
- - 🚯 [When you own a puppy cam](http://9gag.com/gag/aGzpxNG)
- - 🚯 [Buckle up kids](http://9gag.com/gag/aBn2rAQ)<!-- MEMES:END -->
+ - 🚖 [When you own a puppy cam](http://9gag.com/gag/aGzpxNG)
+ - 🚯 [Once upon a time... Life intro](http://9gag.com/gag/avA5PO5)
+ - 🚯 [Remember these games](http://9gag.com/gag/abgV0Pb)<!-- MEMES:END -->
 
 --- 
 
