@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remembering Why The Jackass Video Game Was Terrible](https://kotaku.com/jackass-forever-the-game-ps2-review-psp-mtv-knoxville-1848487592)
- - [Report: Google Quietly Ditching Stadia](https://kotaku.com/google-stadia-streaming-failing-shutdown-report-stream-1848487185)
- - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)<!-- GAME:END -->
+ - [Ultima Online is still receiving updates as it celebrates its 25th anniversary](https://www.pcgamer.com/ultima-online-is-still-receiving-updates-as-it-celebrates-its-25th-anniversary)
+ - [Dying Light 2 has a hidden fully rideable bicycle](https://www.pcgamer.com/dying-light-2-has-a-hidden-fully-rideable-bicycle)
+ - [Remembering Why The Jackass Video Game Was Terrible](https://kotaku.com/jackass-forever-the-game-ps2-review-psp-mtv-knoxville-1848487592)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
