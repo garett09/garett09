@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16 Best Deals on Sex Tech Before Valentines Day](https://www.wired.com/story/deals-february-05-2022)
- - [I&#39;m done binge-watching: Why I&#39;m all in on the slow-watch     - CNET](https://www.cnet.com/tech/services-and-software/im-done-binge-watching-why-im-all-in-on-the-slow-watch/#ftag=CAD590a51e)
- - [Best 32-inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-32-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is the first setting I change on any Google smart speaker](https://www.androidauthority.com/best-setting-google-smart-speaker-display-3101706/)
+ - [The Weekly Authority: Sony buys Bungie](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-180/)
+ - [The 16 Best Deals on Sex Tech Before Valentines Day](https://www.wired.com/story/deals-february-05-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
