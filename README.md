@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hi you&#39;re a pretty female](http://9gag.com/gag/angQNQV)
- - 🚯 [They said get old wine, they said it&#39;s good](http://9gag.com/gag/aAGbPQE)
+ - 🚖 [What do you choose?](http://9gag.com/gag/aBn21eN)
+ - 🚯 [Do we need it?](http://9gag.com/gag/aGzpDO0)
  - 🚯 [3D printed crystal dragon](http://9gag.com/gag/a51Er7q)<!-- MEMES:END -->
 
 --- 
