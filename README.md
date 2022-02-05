@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do we need it?](http://9gag.com/gag/aGzpDO0)
- - 🚯 [Island boys the new generation of rappers](http://9gag.com/gag/aNPpW5K)
- - 🚯 [Remember these games](http://9gag.com/gag/abgV0Pb)<!-- MEMES:END -->
+ - 🚖 [Remember these games](http://9gag.com/gag/abgV0Pb)
+ - 🚯 [META leaving EU](http://9gag.com/gag/arnMKj5)
+ - 🚯 [Confused or stupid](http://9gag.com/gag/aggBV9K)<!-- MEMES:END -->
 
 --- 
 
