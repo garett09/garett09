@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Legends: Arceus is full of tiny details that make the world sing](https://www.polygon.com/22918533/pokemon-arceus-best-details-game-nintendo-switch)
  - [Venus Hostage, the porn game set in what sure looks like a recycled City 17 from Half-Life 2](https://www.pcgamer.com/saturday-crapshoot-venus-hostage)
- - [Dying Light 2&#39;s map: How big is it, really?](https://www.pcgamer.com/dying-light-2s-map-how-big-is-it-really)
- - [What type of liquid should I use for cooling when I overclock?](https://www.pcgamer.com/what-type-of-liquid-should-i-use-for-cooling-when-i-overclock)<!-- GAME:END -->
+ - [Dying Light 2&#39;s map: How big is it, really?](https://www.pcgamer.com/dying-light-2s-map-how-big-is-it-really)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
