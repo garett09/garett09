@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus is full of tiny details that make the world sing](https://www.polygon.com/22918533/pokemon-arceus-best-details-game-nintendo-switch)
- - [Venus Hostage, the porn game set in what sure looks like a recycled City 17 from Half-Life 2](https://www.pcgamer.com/saturday-crapshoot-venus-hostage)
- - [Dying Light 2&#39;s map: How big is it, really?](https://www.pcgamer.com/dying-light-2s-map-how-big-is-it-really)<!-- GAME:END -->
+ - [How To Level Up Faster in Dying Light 2](https://kotaku.com/dying-light-2-tips-level-up-xp-faster-combat-parkour-te-1848485146)
+ - [An underrated Denzel thriller and 9 more great movies streaming in February](https://www.polygon.com/what-to-watch/2022/2/5/22912503/best-new-movies-netflix-amazon-hbo-february-2021)
+ - [Pokémon Legends: Arceus is full of tiny details that make the world sing](https://www.polygon.com/22918533/pokemon-arceus-best-details-game-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
