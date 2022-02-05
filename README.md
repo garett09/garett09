@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rewilding Asks: What Will You Do After the Climate Apocalypse?](https://www.wired.com/story/rewilding-climate-change-gig-work)
- - [A $320 Million Crypto Hack Sends the DeFi World Reeling](https://www.wired.com/story/wormhole-defi-hack-ransomware-security-news)
- - [Just Got a Meta Quest 2? These Are Our Favorite Games](https://www.wired.com/gallery/best-oculus-meta-quest-2-games)<!-- TECH:END -->
+ - [It’s time to ditch our fascination with the yearly upgrade cycle](https://www.androidauthority.com/yearly-smartphone-model-obsolete-3097285/)
+ - [Torii, which lets businesses automate the management of SaaS tools, raises a $50M Series B led by Tiger Global, bringing its total funding to $65M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220205/p5#a220205p5)
+ - [SanDisk’s 400GB microSD card for Switch is just $40](https://www.theverge.com/good-deals/2022/2/5/22918378/sandisk-400gb-microsd-card-nintendo-switch-xbox-series-s-sonos-beam-samsung-galaxy-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
