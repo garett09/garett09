@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Cat prefers team effort grooming](http://9gag.com/gag/aogM0zA)
- - 🚯 [When you order beef steak and credit card declined](http://9gag.com/gag/aRrXP3j)
- - 🚯 [Well, he did ask...](http://9gag.com/gag/a61EddR)<!-- MEMES:END -->
+ - 🚯 [Well, he did ask...](http://9gag.com/gag/a61EddR)
+ - 🚯 [When you order beef steak and credit card declined](http://9gag.com/gag/aRrXP3j)<!-- MEMES:END -->
 
 --- 
 
