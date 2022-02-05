@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome is changing its logo for the first time in eight years](https://www.theverge.com/2022/2/5/22919398/chrome-logo-change-eight-years)
  - [Deals: get 1 year of Microsoft 365 Personal or a Luminar AI photo editing software bundle for Mac for $39](https://appleinsider.com/articles/22/02/04/deals-get-1-year-of-microsoft-365-personal-or-a-luminar-ai-photo-editing-software-bundle-for-mac-for-39?utm_medium=rss)
- - [Brazil-based Gupy, which uses AI to help around 1,500 companies select, hire, and train employees, raises ~$93M led by SoftBank Latin America Fund and Riverwood &lpar;Aluisio Alves/Reuters&rpar;](http://www.techmeme.com/220205/p9#a220205p9)
- - [Samsung Galaxy Tab A8 review: Budget streaming star](https://www.androidauthority.com/samsung-galaxy-tab-a8-review-3095771/)<!-- TECH:END -->
+ - [Brazil-based Gupy, which uses AI to help around 1,500 companies select, hire, and train employees, raises ~$93M led by SoftBank Latin America Fund and Riverwood &lpar;Aluisio Alves/Reuters&rpar;](http://www.techmeme.com/220205/p9#a220205p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
