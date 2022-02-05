@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [News Corp expands Apple News licensing deal](https://appleinsider.com/articles/22/02/05/news-corp-expands-apple-news-licensing-deal?utm_medium=rss)
- - [Source: Spotify took down episodes of the Joe Rogan Experience at Rogan&#39;s request; all the removed episodes were recorded before he signed a deal with Spotify &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220205/p10#a220205p10)
- - [Alexa vs Google Assistant: What’s different, and what’s better?](https://www.androidauthority.com/alexa-vs-google-assistant-3099501/)<!-- TECH:END -->
+ - [Epic Games vs Apple trial, verdict, and aftermath - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
+ - [Spotify won&#39;t ax Joe Rogan till Bad Bunny or The Weeknd protests too     - CNET](https://www.cnet.com/news/spotify-wont-ax-joe-rogan-till-bad-bunny-or-the-weeknd-protests-too/#ftag=CAD590a51e)
+ - [Netflix: 40 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-40-of-the-absolute-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
