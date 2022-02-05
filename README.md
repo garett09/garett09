@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital assets like NFTs give us a glimpse into a future where every aspect of human life that can be digitally recorded will be collateralized and securitized &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/220204/p28#a220204p28)
- - [Airstream debuts eStream trailer concept with 80-kWh battery and driven axles     - Roadshow](https://www.cnet.com/roadshow/news/airstream-estream-trailer-concept-lithium-ion-battery-driven-axles/#ftag=CAD590a51e)
- - [Amazon reportedly interested in buying Peloton     - CNET](https://www.cnet.com/health/amazon-reportedly-interested-in-buying-peloton/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Sundance Film Festival&#39;s foray into the metaverse, which included Q&amp;As with filmmakers&#39; avatars, networking parties, and &quot;virtual cinemas&quot; &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220204/p29#a220204p29)
+ - [Amazon in talks to purchase fitness equipment producer Peloton](https://appleinsider.com/articles/22/02/05/amazon-in-talks-to-purchase-fitness-equipment-producer-peloton?utm_medium=rss)
+ - [Amazon named as possible Peloton buyer in a suspiciously well-timed rumor](https://www.theverge.com/2022/2/4/22918596/peloton-amazon-acquisition-rumor-fitness-bike-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
