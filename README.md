@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)
- - [Spotify appears to remove more than 70 episodes of Joe Rogan&#39;s podcast     - CNET](https://www.cnet.com/tech/services-and-software/spotify-appears-to-remove-more-than-70-episodes-of-joe-rogans-podcast/#ftag=CAD590a51e)
- - [Amazon reportedly interested in buying Peloton     - CNET](https://www.cnet.com/health/amazon-reportedly-interested-in-buying-peloton/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands on with the GoCube 2x2: a fun twist on a classic puzzle](https://appleinsider.com/articles/22/02/05/hands-on-with-the-gocube-2x2-a-fun-twist-on-a-classic-puzzle?utm_medium=rss)
+ - [Beijing Olympics opening ceremonies: There&#39;s a new shirtless flagbearer     - CNET](https://www.cnet.com/news/beijing-olympics-opening-ceremonies-theres-a-new-shirtless-flagbearer/#ftag=CAD590a51e)
+ - [Episodes of Joe Rogan’s show are disappearing from Spotify](https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
