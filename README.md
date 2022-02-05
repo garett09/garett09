@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once upon a time... Life intro](http://9gag.com/gag/avA5PO5)
- - 🚯 [To catch a raccoon you need to think like a raccoon](http://9gag.com/gag/aggBVxn)
- - 🚯 [Seriously though](http://9gag.com/gag/aXroXxg)<!-- MEMES:END -->
+ - 🚖 [Bro is just up there chillin in his shorts](http://9gag.com/gag/a81EM5p)
+ - 🚯 [Bacon is good for me](http://9gag.com/gag/aOQ3Vx3)
+ - 🚯 [The Flintstones intro](http://9gag.com/gag/a41EYGd)<!-- MEMES:END -->
 
 --- 
 
