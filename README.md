@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome is changing its logo for the first time in eight years](https://www.theverge.com/2022/2/5/22919398/chrome-logo-change-eight-years)
- - [Deals: get 1 year of Microsoft 365 Personal or a Luminar AI photo editing software bundle for Mac for $39](https://appleinsider.com/articles/22/02/04/deals-get-1-year-of-microsoft-365-personal-or-a-luminar-ai-photo-editing-software-bundle-for-mac-for-39?utm_medium=rss)
- - [Brazil-based Gupy, which uses AI to help around 1,500 companies select, hire, and train employees, raises ~$93M led by SoftBank Latin America Fund and Riverwood &lpar;Aluisio Alves/Reuters&rpar;](http://www.techmeme.com/220205/p9#a220205p9)<!-- TECH:END -->
+ - [News Corp expands Apple News licensing deal](https://appleinsider.com/articles/22/02/05/news-corp-expands-apple-news-licensing-deal?utm_medium=rss)
+ - [Source: Spotify took down episodes of the Joe Rogan Experience at Rogan&#39;s request; all the removed episodes were recorded before he signed a deal with Spotify &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220205/p10#a220205p10)
+ - [Alexa vs Google Assistant: What’s different, and what’s better?](https://www.androidauthority.com/alexa-vs-google-assistant-3099501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
