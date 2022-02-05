@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My name is MAXIMUS DECIMUS MERIDIUS, why don\u2019t they make movies like this anymore, it\u2019s been 22 years and still I see this movie as I watch it as it\u2019s the first time\u2026\u2026\u2026](http://9gag.com/gag/aVx7WVv)
- - 🚯 [Is this the real life?](http://9gag.com/gag/aRrXPQA)
+ - 🚖 [Stay Loyal to her](http://9gag.com/gag/a11rY8R)
+ - 🚯 [Gives me chills everytime](http://9gag.com/gag/aWgjWN4)
  - 🚯 [Life tip: Be ready when the opportunity arises.](http://9gag.com/gag/aAGbp1d)<!-- MEMES:END -->
 
 --- 
