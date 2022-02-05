@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go boys](http://9gag.com/gag/a11rYmP)
- - 🚯 [Life tip: Be ready when the opportunity arises.](http://9gag.com/gag/aAGbp1d)
- - 🚯 [Watch that show](http://9gag.com/gag/aAGbrOE)<!-- MEMES:END -->
+ - 🚖 [Golden boy best anime ever](http://9gag.com/gag/apgNBzW)
+ - 🚯 [Watch that show](http://9gag.com/gag/aAGbrOE)
+ - 🚯 [Hope you succeed...Dutchees](http://9gag.com/gag/abgV0bL)<!-- MEMES:END -->
 
 --- 
 
