@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s phone contracts are all three years now](https://www.theverge.com/2022/2/6/22920445/verizon-phone-contracts-three-years-36-months-payments)
- - [Keep an eye on your home from anywhere with up to 39% off Blink security cameras     - CNET](https://www.cnet.com/home/security/keep-an-eye-on-your-home-from-anywhere-with-up-to-39-off-blink-security-cameras/#ftag=CAD590a51e)
- - [Apple considered adding Face ID to 24-inch iMac](https://appleinsider.com/articles/22/02/06/apple-considered-adding-face-id-to-24-inch-imac?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin Fenix 7 review: Greatness comes at a price](https://www.androidauthority.com/garmin-fenix-7-review-3093064/)
+ - [With the iPhone SE 3 on the way, should you buy Apple&#39;s 2020 iPhone SE?     - CNET](https://www.cnet.com/tech/mobile/with-the-iphone-se-3-on-the-way-should-you-buy-apples-2020-iphone-se/#ftag=CAD590a51e)
+ - [Gear up for game day with $900 off this huge 75-inch Samsung 4K smart TV     - CNET](https://www.cnet.com/tech/home-entertainment/save-over-1000-huge-75-inch-samsung-4k-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
