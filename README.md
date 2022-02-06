@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Windows media player](http://9gag.com/gag/a71EMrA)
- - 🚯 [That was the time](http://9gag.com/gag/adg8KBN)
- - 🚯 [Have you?](http://9gag.com/gag/aggBYAq)<!-- MEMES:END -->
+ - 🚖 [That was the time](http://9gag.com/gag/adg8KBN)
+ - 🚯 [Here we go again](http://9gag.com/gag/ay9MXqy)
+ - 🚯 [It did be like that](http://9gag.com/gag/awzMXB8)<!-- MEMES:END -->
 
 --- 
 
