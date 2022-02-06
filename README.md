@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best 2-in-1 laptops you can buy](https://www.androidauthority.com/best-2-in-1-laptops-3100820/)
  - [The FCC notifies Congress that service providers requested ~$5.6B to replace Huawei and ZTE equipment in US networks, up from the FCC&#39;s $1.8B estimate in 2020 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220206/p6#a220206p6)
- - [Peloton could be bought by Apple to boost healthcare initiatives](https://appleinsider.com/articles/22/02/06/peloton-could-be-bought-by-apple-to-boost-healthcare-initiatives?utm_medium=rss)
- - [Best Android phones you can buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Peloton could be bought by Apple to boost healthcare initiatives](https://appleinsider.com/articles/22/02/06/peloton-could-be-bought-by-apple-to-boost-healthcare-initiatives?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
