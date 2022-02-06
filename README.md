@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)
  - [The Most Unbelievable Part Of Dying Light 2? Everyone Getting Vaccinated](https://kotaku.com/dying-light-2-anti-vaxxers-covid-19-unrealistic-zombies-1848489014)
- - [Attack on Titan’s Bryce Papenbrook weighs in on whether Eren Jaeger is a monster](https://www.polygon.com/interviews/22918404/attack-on-titan-bryce-papenbrook-interview-eren-jaeger)
- - [The Dark Knight was the last superhero movie saga with an actual ending](https://www.polygon.com/22917838/the-dark-knight-rises-ending-christopher-nolan)<!-- GAME:END -->
+ - [Attack on Titan’s Bryce Papenbrook weighs in on whether Eren Jaeger is a monster](https://www.polygon.com/interviews/22918404/attack-on-titan-bryce-papenbrook-interview-eren-jaeger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
