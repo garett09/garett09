@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Fenix 7 review: Greatness comes at a price](https://www.androidauthority.com/garmin-fenix-7-review-3093064/)
- - [With the iPhone SE 3 on the way, should you buy Apple&#39;s 2020 iPhone SE?     - CNET](https://www.cnet.com/tech/mobile/with-the-iphone-se-3-on-the-way-should-you-buy-apples-2020-iphone-se/#ftag=CAD590a51e)
- - [Gear up for game day with $900 off this huge 75-inch Samsung 4K smart TV     - CNET](https://www.cnet.com/tech/home-entertainment/save-over-1000-huge-75-inch-samsung-4k-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FCC notifies Congress that service providers requested ~$5.6B to replace Huawei and ZTE equipment in US networks, up from the FCC&#39;s $1.8B estimate in 2020 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220206/p6#a220206p6)
+ - [Peloton could be bought by Apple to boost healthcare initiatives](https://appleinsider.com/articles/22/02/06/peloton-could-be-bought-by-apple-to-boost-healthcare-initiatives?utm_medium=rss)
+ - [Best Android phones you can buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
