@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This country attempts to convince everyone that they have internet access](http://9gag.com/gag/aRrX3w5)
- - 🚯 [Idiot fighting a bucket](http://9gag.com/gag/aQXoR1d)
- - 🚯 [Please stop](http://9gag.com/gag/aE8pBZN)<!-- MEMES:END -->
+ - 🚖 [Stop the racism](http://9gag.com/gag/ajgm8rq)
+ - 🚯 [Bless their little hearts](http://9gag.com/gag/amgP7gv)
+ - 🚯 [Grand Tour](http://9gag.com/gag/awzMXLD)<!-- MEMES:END -->
 
 --- 
 
