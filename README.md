@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC chair notified Congress that US service providers have requested ~$5.6B for removing and replacing network equipment and services provided by Huawei and ZTE &lpar;Light Reading&rpar;](http://www.techmeme.com/220206/p3#a220206p3)
- - [These five advancements promise to “fix” the smart home in 2022](https://www.androidauthority.com/fix-smart-home-in-2022-3101124/)
- - [How the Physics of Resonance Shapes Reality](https://www.wired.com/story/how-the-physics-of-resonance-shapes-reality)<!-- TECH:END -->
+ - [Best deals Feb. 6: $28 AirTag Leather Loop, $40 Blink Video Doorbell, more!](https://appleinsider.com/articles/22/02/06/best-deals-feb-6-28-airtag-leather-loop-40-blink-video-doorbell-more?utm_medium=rss)
+ - [Joe Rogan releases apology video after clips of N-word use and a racist story go viral](https://www.theverge.com/2022/2/5/22919271/spotify-joe-rogan-experience-slur-planet-of-the-apes)
+ - [FCC chair notified Congress that US service providers have requested ~$5.6B for removing and replacing network equipment and services provided by Huawei and ZTE &lpar;Light Reading&rpar;](http://www.techmeme.com/220206/p3#a220206p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
