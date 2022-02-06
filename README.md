@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [The Washington State Department of Licensing says over 250,000 licensed professionals may have had personal data exposed, including SSNs, in a database breach &lpar;The Seattle Times&rpar;](http://www.techmeme.com/220205/p11#a220205p11)
- - [Florida men revealed to be behind Bored Apes](https://www.theverge.com/2022/2/5/22919612/bored-apes-yacht-club-florida-men-identities-revealed)
- - [Epic Games vs Apple trial, verdict, and aftermath - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
+ - [The upcoming iPhone SE 3 needs these 6 upgrades     - CNET](https://www.cnet.com/tech/mobile/the-upcoming-iphone-se-3-needs-these-6-upgrades/#ftag=CAD590a51e)
+ - [Florida men revealed to be behind Bored Apes](https://www.theverge.com/2022/2/5/22919612/bored-apes-yacht-club-florida-men-identities-revealed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
