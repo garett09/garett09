@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian volleyball players](http://9gag.com/gag/apgNrx8)
- - 🚯 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
- - 🚯 [After all this time? Always](http://9gag.com/gag/aGzpeL0)<!-- MEMES:END -->
+ - 🚖 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
+ - 🚯 [After all this time? Always](http://9gag.com/gag/aGzpeL0)
+ - 🚯 [In Finland, speeding tickets are calculated based on your income - causing some Finnish millionaires to pay fines of over $100,000. The more you earn the bigger the fine.](http://9gag.com/gag/amgPYjd)<!-- MEMES:END -->
 
 --- 
 
