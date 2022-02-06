@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of Charlie Bell, who leads Microsoft&#39;s new 10,000 person security engineering org, as the company&#39;s annual revenue from security products surpasses $15B &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220206/p2#a220206p2)
  - [GoFundMe will automatically refund all donations to a campaign protesting vaccine mandates in Canada that it says sparked violence; the campaign had raised $7M+ &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/220206/p1#a220206p1)
- - [An old SpaceX Falcon 9 rocket will soon crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)
- - [Koho, a challenger bank that lets Canadian users access up to 50% of their paycheck every day, raises a CAD$210M Series D in equity and debt led by Eldridge &lpar;Douglas Soltys/BetaKit&rpar;](http://www.techmeme.com/220205/p12#a220205p12)<!-- TECH:END -->
+ - [An old SpaceX Falcon 9 rocket will soon crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
