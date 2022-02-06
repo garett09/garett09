@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Influencer.](http://9gag.com/gag/avA5rRd)
- - 🚯 [Jimmy Carr\u2019s most offensive joke](http://9gag.com/gag/aKm6VVO)
- - 🚯 [Look, there is a word for my condition. And I think that the stats are wrong. should be 20% or something.](http://9gag.com/gag/a91EWNL)<!-- MEMES:END -->
+ - 🚖 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
+ - 🚯 [Look, there is a word for my condition. And I think that the stats are wrong. should be 20% or something.](http://9gag.com/gag/a91EWNL)
+ - 🚯 [Ukrainian volleyball players](http://9gag.com/gag/apgNrx8)<!-- MEMES:END -->
 
 --- 
 
