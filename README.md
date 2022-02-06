@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ghostwire: Tokyo system requirements say you&#39;ll only need 20GB free](https://www.pcgamer.com/ghostwire-tokyo-system-requirements)
  - [The Factorio expansion will be as large as the main game](https://www.pcgamer.com/the-factorio-expansion-will-be-as-large-as-the-main-game)
- - [Chaos Gate: Daemonhunters has eight classes of tactically murderous space marines](https://www.pcgamer.com/chaos-gate-daemonhunters-has-eight-classes-of-tactically-murderous-space-marines)
- - [What compromises have you made to run a game?](https://www.pcgamer.com/what-compromises-have-you-made-to-run-a-game)<!-- GAME:END -->
+ - [Chaos Gate: Daemonhunters has eight classes of tactically murderous space marines](https://www.pcgamer.com/chaos-gate-daemonhunters-has-eight-classes-of-tactically-murderous-space-marines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
