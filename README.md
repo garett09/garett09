@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The second hand embarrassment.](http://9gag.com/gag/aAGb3XE)
- - 🚯 [What it is it is](http://9gag.com/gag/aE8pxeK)
- - 🚯 [The AWP](http://9gag.com/gag/aKm6xpQ)<!-- MEMES:END -->
+ - 🚖 [The hero](http://9gag.com/gag/aVx7YZP)
+ - 🚯 [The second hand embarrassment.](http://9gag.com/gag/aAGb3XE)
+ - 🚯 [Always gotta be careful around here](http://9gag.com/gag/aKm6j0g)<!-- MEMES:END -->
 
 --- 
 
