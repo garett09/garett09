@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Charlie Bell, who leads Microsoft&#39;s new 10,000 person security engineering org, as the company&#39;s annual revenue from security products surpasses $15B &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220206/p2#a220206p2)
- - [GoFundMe will automatically refund all donations to a campaign protesting vaccine mandates in Canada that it says sparked violence; the campaign had raised $7M+ &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/220206/p1#a220206p1)
- - [An old SpaceX Falcon 9 rocket will soon crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most Frequently Asked Questions About NFTs&lpar;Non-Fungible Tokens&rpar;](https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html)
+ - [Rolls-Royce&#39;s Spirit of Ecstasy hood ornament redesigned for better aero     - Roadshow](https://www.cnet.com/roadshow/news/rolls-royce-spirit-of-ecstasy-hood-ornament-redesign-spectre-ev/#ftag=CAD590a51e)
+ - [Rolls-Royce&#39;s new hood ornament is more aerodynamic, still iconic     - Roadshow](https://www.cnet.com/roadshow/pictures/rolls-royce-spirit-of-ecstasy-redesign/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
