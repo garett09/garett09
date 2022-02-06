@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
- - 🚯 [After all this time? Always](http://9gag.com/gag/aGzpeL0)
- - 🚯 [In Finland, speeding tickets are calculated based on your income - causing some Finnish millionaires to pay fines of over $100,000. The more you earn the bigger the fine.](http://9gag.com/gag/amgPYjd)<!-- MEMES:END -->
+ - 🚯 [In Finland, speeding tickets are calculated based on your income - causing some Finnish millionaires to pay fines of over $100,000. The more you earn the bigger the fine.](http://9gag.com/gag/amgPYjd)
+ - 🚯 [A 3d artist applied for a vacancy in out studio, we asked him to model a deer as a test of his skill &amp; here&#39;s his result. Should we take him in ?](http://9gag.com/gag/ajgmXE1)<!-- MEMES:END -->
 
 --- 
 
