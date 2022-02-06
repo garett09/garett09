@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Loki season 2: Everything we know](https://www.androidauthority.com/loki-season-2-disney-plus-3101729/)
- - [Knitters support Epic over App Store&#39;s knotty legal fight](https://appleinsider.com/articles/22/02/06/knitters-support-epic-over-app-stores-knotty-legal-fight?utm_medium=rss)
- - [Oppo’s next flagship phone leaks in full](https://www.theverge.com/2022/2/6/22920716/oppo-flagship-phone-leak-find-x5-pro-5g)<!-- TECH:END -->
+ - [Maid&#39;s iPad central to busting Bloomberg kidnap suspect](https://appleinsider.com/articles/22/02/06/maids-ipad-central-to-busting-bloomberg-kidnap-suspect?utm_medium=rss)
+ - [Knitters support Epic in knotty legal fight with Apple&#39;s App Store](https://appleinsider.com/articles/22/02/06/knitters-support-epic-over-app-stores-knotty-legal-fight?utm_medium=rss)
+ - [What to expect from Loki season 2: Everything we know](https://www.androidauthority.com/loki-season-2-disney-plus-3101729/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
