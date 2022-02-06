@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sifu’s early access release is causing issues for some players on PlayStation](https://www.theverge.com/2022/2/6/22920844/sifu-early-access-release-playstation-problems)
  - [Maid&#39;s iPad central to busting Bloomberg kidnap suspect](https://appleinsider.com/articles/22/02/06/maids-ipad-central-to-busting-bloomberg-kidnap-suspect?utm_medium=rss)
- - [Knitters support Epic in knotty legal fight with Apple&#39;s App Store](https://appleinsider.com/articles/22/02/06/knitters-support-epic-over-app-stores-knotty-legal-fight?utm_medium=rss)
- - [What to expect from Loki season 2: Everything we know](https://www.androidauthority.com/loki-season-2-disney-plus-3101729/)<!-- TECH:END -->
+ - [Knitters support Epic in knotty legal fight with Apple&#39;s App Store](https://appleinsider.com/articles/22/02/06/knitters-support-epic-over-app-stores-knotty-legal-fight?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
