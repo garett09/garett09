@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Most Unbelievable Part Of Dying Light 2? Everyone Getting Vaccinated](https://kotaku.com/dying-light-2-anti-vaxxers-covid-19-unrealistic-zombies-1848489014)
  - [Attack on Titan’s Bryce Papenbrook weighs in on whether Eren Jaeger is a monster](https://www.polygon.com/interviews/22918404/attack-on-titan-bryce-papenbrook-interview-eren-jaeger)
- - [The Dark Knight was the last superhero movie saga with an actual ending](https://www.polygon.com/22917838/the-dark-knight-rises-ending-christopher-nolan)
- - [Sunday Comics: But Hey!](https://kotaku.com/sunday-comics-but-hey-1848488891)<!-- GAME:END -->
+ - [The Dark Knight was the last superhero movie saga with an actual ending](https://www.polygon.com/22917838/the-dark-knight-rises-ending-christopher-nolan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
