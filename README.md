@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 times Samsung downgraded the Galaxy S series](https://www.androidauthority.com/galaxy-s-series-downgrades-3101455/)
- - [Entry-level &#39;M2&#39; MacBook Pro might not have ProMotion display](https://appleinsider.com/articles/22/02/06/entry-level-m2-macbook-pro-might-not-have-promotion-display?utm_medium=rss)
- - [Best deals Feb. 6: $28 AirTag Leather Loop, $40 Blink Video Doorbell, more!](https://appleinsider.com/articles/22/02/06/best-deals-feb-6-28-airtag-leather-loop-40-blink-video-doorbell-more?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon’s phone contracts are all three years now](https://www.theverge.com/2022/2/6/22920445/verizon-phone-contracts-three-years-36-months-payments)
+ - [Keep an eye on your home from anywhere with up to 39% off Blink security cameras     - CNET](https://www.cnet.com/home/security/keep-an-eye-on-your-home-from-anywhere-with-up-to-39-off-blink-security-cameras/#ftag=CAD590a51e)
+ - [Apple considered adding Face ID to 24-inch iMac](https://appleinsider.com/articles/22/02/06/apple-considered-adding-face-id-to-24-inch-imac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
