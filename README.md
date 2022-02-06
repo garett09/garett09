@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy Win](http://9gag.com/gag/aXroq66)
- - 🚯 [After all this time? Always](http://9gag.com/gag/aGzpeL0)
+ - 🚖 [Dont worry lads, Nintendo added Sora in Smash so that clears away the angry mobs](http://9gag.com/gag/a31EKMm)
+ - 🚯 [Chinesium makes these Chinese builders look super strong](http://9gag.com/gag/a41EGpp)
  - 🚯 [Windows media player](http://9gag.com/gag/a71EMrA)<!-- MEMES:END -->
 
 --- 
