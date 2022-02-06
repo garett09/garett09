@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Potential FB YEET](http://9gag.com/gag/aYro7Aq)
- - 🚯 [Iranian chess player Dorsa Derakhshani plays for the US team after being banned from playing without her hijab by her own team.](http://9gag.com/gag/a41EQOQ)
+ - 🚖 [Monster Drink is what?](http://9gag.com/gag/a11rQPb)
+ - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
  - 🚯 [Old school kids movie nightmare fuel](http://9gag.com/gag/aRrX0rj)<!-- MEMES:END -->
 
 --- 
