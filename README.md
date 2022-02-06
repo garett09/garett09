@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monster Drink is what?](http://9gag.com/gag/a11rQPb)
- - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
- - 🚯 [Old school kids movie nightmare fuel](http://9gag.com/gag/aRrX0rj)<!-- MEMES:END -->
+ - 🚖 [Old school kids movie nightmare fuel](http://9gag.com/gag/aRrX0rj)
+ - 🚯 [Goat in Nepal inhaling and exhaling smoke](http://9gag.com/gag/angQ5Do)
+ - 🚯 [I&#39;m alive because i can&#39;t scroll through memes when i&#39;m dead](http://9gag.com/gag/aYro7QO)<!-- MEMES:END -->
 
 --- 
 
