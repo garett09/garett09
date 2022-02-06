@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostwire: Tokyo system requirements say you&#39;ll only need 20GB free](https://www.pcgamer.com/ghostwire-tokyo-system-requirements)
- - [The Factorio expansion will be as large as the main game](https://www.pcgamer.com/the-factorio-expansion-will-be-as-large-as-the-main-game)
- - [Chaos Gate: Daemonhunters has eight classes of tactically murderous space marines](https://www.pcgamer.com/chaos-gate-daemonhunters-has-eight-classes-of-tactically-murderous-space-marines)<!-- GAME:END -->
+ - [Remembering Why The Jackass Video Game Was Terrible](https://kotaku.com/jackass-forever-the-game-ps2-review-psp-mtv-knoxville-1848487592)
+ - [Report: Google Quietly Ditching Stadia](https://kotaku.com/google-stadia-streaming-failing-shutdown-report-stream-1848487185)
+ - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
