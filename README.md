@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)
- - [The Most Unbelievable Part Of Dying Light 2? Everyone Getting Vaccinated](https://kotaku.com/dying-light-2-anti-vaxxers-covid-19-unrealistic-zombies-1848489014)
- - [Attack on Titan’s Bryce Papenbrook weighs in on whether Eren Jaeger is a monster](https://www.polygon.com/interviews/22918404/attack-on-titan-bryce-papenbrook-interview-eren-jaeger)<!-- GAME:END -->
+ - [A Man Wearing A Sonic Mask Tried To Rob A Bank In Florida](https://kotaku.com/sonic-mask-bank-robbery-credit-union-florida-deland-cri-1848489456)
+ - [Sifu&#39;s Early Access Release On PlayStation Is Kind Of A Mess](https://kotaku.com/sifu-early-access-ps5-ps4-mess-launch-problems-download-1848489340)
+ - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
