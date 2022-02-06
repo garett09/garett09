@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enjoy Valentine&#39;s Day With Meal Kits, Murder Mysteries, and More](https://www.wired.com/gallery/valentines-day-date-ideas)
- - [Health Sites Let Ads Track Visitors Without Telling Them](https://www.wired.com/story/health-site-ad-tracking)
- - [In 2008, Beijing Felt Like an Open Door. In 2022, It&#39;s Closed](https://www.wired.com/story/beijing-olympics-geopolitics-technology)<!-- TECH:END -->
+ - [FCC chair notified Congress that US service providers have requested ~$5.6B for removing and replacing network equipment and services provided by Huawei and ZTE &lpar;Light Reading&rpar;](http://www.techmeme.com/220206/p3#a220206p3)
+ - [These five advancements promise to “fix” the smart home in 2022](https://www.androidauthority.com/fix-smart-home-in-2022-3101124/)
+ - [How the Physics of Resonance Shapes Reality](https://www.wired.com/story/how-the-physics-of-resonance-shapes-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
