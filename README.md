@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A beginner’s guide to NAS drives, the smarter way to handle storage](https://www.androidauthority.com/nas-drives-3082540/)
- - [Most Frequently Asked Questions About NFTs&lpar;Non-Fungible Tokens&rpar;](https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html)
- - [Rolls-Royce&#39;s Spirit of Ecstasy hood ornament redesigned for better aero     - Roadshow](https://www.cnet.com/roadshow/news/rolls-royce-spirit-of-ecstasy-hood-ornament-redesign-spectre-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Enjoy Valentine&#39;s Day With Meal Kits, Murder Mysteries, and More](https://www.wired.com/gallery/valentines-day-date-ideas)
+ - [Health Sites Let Ads Track Visitors Without Telling Them](https://www.wired.com/story/health-site-ad-tracking)
+ - [In 2008, Beijing Felt Like an Open Door. In 2022, It&#39;s Closed](https://www.wired.com/story/beijing-olympics-geopolitics-technology)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
