@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter tests adding a DM icon to tweets on iOS to help &quot;start a conversation&quot;; some say the shortcut could make users even more susceptible to harassment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220206/p7#a220206p7)
  - [The best 2-in-1 laptops you can buy](https://www.androidauthority.com/best-2-in-1-laptops-3100820/)
- - [The FCC notifies Congress that service providers requested ~$5.6B to replace Huawei and ZTE equipment in US networks, up from the FCC&#39;s $1.8B estimate in 2020 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220206/p6#a220206p6)
- - [Peloton could be bought by Apple to boost healthcare initiatives](https://appleinsider.com/articles/22/02/06/peloton-could-be-bought-by-apple-to-boost-healthcare-initiatives?utm_medium=rss)<!-- TECH:END -->
+ - [The FCC notifies Congress that service providers requested ~$5.6B to replace Huawei and ZTE equipment in US networks, up from the FCC&#39;s $1.8B estimate in 2020 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220206/p6#a220206p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
