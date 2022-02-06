@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was the time](http://9gag.com/gag/adg8KBN)
- - 🚯 [Here we go again](http://9gag.com/gag/ay9MXqy)
- - 🚯 [It did be like that](http://9gag.com/gag/awzMXB8)<!-- MEMES:END -->
+ - 🚖 [It did be like that](http://9gag.com/gag/awzMXB8)
+ - 🚯 [What it is it is](http://9gag.com/gag/aE8pxeK)
+ - 🚯 [This country attempts to convince everyone that they have internet access](http://9gag.com/gag/aRrX3w5)<!-- MEMES:END -->
 
 --- 
 
