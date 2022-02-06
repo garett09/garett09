@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what it looks like when a tire pop after ageing enough.](http://9gag.com/gag/aWgjY8K)
- - 🚯 [The hero](http://9gag.com/gag/aVx7YZP)
- - 🚯 [Oui](http://9gag.com/gag/azeMXKz)<!-- MEMES:END -->
+ - 🚖 [Oui](http://9gag.com/gag/azeMXKz)
+ - 🚯 [Iranian chess player Dorsa Derakhshani plays for the US team after being banned from playing without her hijab by her own team.](http://9gag.com/gag/a41EQOQ)
+ - 🚯 [Wtf is this](http://9gag.com/gag/azeMXxq)<!-- MEMES:END -->
 
 --- 
 
