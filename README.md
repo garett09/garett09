@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ultima Online is still receiving updates as it celebrates its 25th anniversary](https://www.pcgamer.com/ultima-online-is-still-receiving-updates-as-it-celebrates-its-25th-anniversary)
- - [Dying Light 2 has a hidden fully rideable bicycle](https://www.pcgamer.com/dying-light-2-has-a-hidden-fully-rideable-bicycle)
- - [Remembering Why The Jackass Video Game Was Terrible](https://kotaku.com/jackass-forever-the-game-ps2-review-psp-mtv-knoxville-1848487592)<!-- GAME:END -->
+ - [The Factorio expansion will be as large as the main game](https://www.pcgamer.com/the-factorio-expansion-will-be-as-large-as-the-main-game)
+ - [Chaos Gate: Daemonhunters has eight classes of tactically murderous space marines](https://www.pcgamer.com/chaos-gate-daemonhunters-has-eight-classes-of-tactically-murderous-space-marines)
+ - [What compromises have you made to run a game?](https://www.pcgamer.com/what-compromises-have-you-made-to-run-a-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
