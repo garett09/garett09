@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Koho, a challenger bank that lets Canadian users access up to 50% of their paycheck every day, raises a CAD$210M Series D in equity and debt led by Eldridge &lpar;Douglas Soltys/BetaKit&rpar;](http://www.techmeme.com/220205/p12#a220205p12)
  - [The Washington State Department of Licensing says over 250,000 licensed professionals may have had personal data exposed, including SSNs, in a database breach &lpar;The Seattle Times&rpar;](http://www.techmeme.com/220205/p11#a220205p11)
- - [The upcoming iPhone SE 3 needs these 6 upgrades     - CNET](https://www.cnet.com/tech/mobile/the-upcoming-iphone-se-3-needs-these-6-upgrades/#ftag=CAD590a51e)
- - [Florida men revealed to be behind Bored Apes](https://www.theverge.com/2022/2/5/22919612/bored-apes-yacht-club-florida-men-identities-revealed)<!-- TECH:END -->
+ - [The upcoming iPhone SE 3 needs these 6 upgrades     - CNET](https://www.cnet.com/tech/mobile/the-upcoming-iphone-se-3-needs-these-6-upgrades/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
