@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hero](http://9gag.com/gag/aVx7YZP)
- - 🚯 [The second hand embarrassment.](http://9gag.com/gag/aAGb3XE)
- - 🚯 [Always gotta be careful around here](http://9gag.com/gag/aKm6j0g)<!-- MEMES:END -->
+ - 🚖 [Old school kids movie nightmare fuel](http://9gag.com/gag/aRrX0rj)
+ - 🚯 [New books are *encouraged* to contain woke stuff, or they will not be published.](http://9gag.com/gag/aDDd12O)
+ - 🚯 [Iranian chess player Dorsa Derakhshani plays for the US team after being banned from playing without her hijab by her own team.](http://9gag.com/gag/a41EQOQ)<!-- MEMES:END -->
 
 --- 
 
