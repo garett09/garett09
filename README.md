@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont worry lads, Nintendo added Sora in Smash so that clears away the angry mobs](http://9gag.com/gag/a31EKMm)
- - 🚯 [Chinesium makes these Chinese builders look super strong](http://9gag.com/gag/a41EGpp)
- - 🚯 [Windows media player](http://9gag.com/gag/a71EMrA)<!-- MEMES:END -->
+ - 🚖 [Windows media player](http://9gag.com/gag/a71EMrA)
+ - 🚯 [That was the time](http://9gag.com/gag/adg8KBN)
+ - 🚯 [Have you?](http://9gag.com/gag/aggBYAq)<!-- MEMES:END -->
 
 --- 
 
