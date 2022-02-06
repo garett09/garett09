@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
- - 🚯 [Look, there is a word for my condition. And I think that the stats are wrong. should be 20% or something.](http://9gag.com/gag/a91EWNL)
- - 🚯 [Ukrainian volleyball players](http://9gag.com/gag/apgNrx8)<!-- MEMES:END -->
+ - 🚖 [Ukrainian volleyball players](http://9gag.com/gag/apgNrx8)
+ - 🚯 [5 years on from breaking her neck and becoming quadriplegic, this happened. Hard works and determination pays off!](http://9gag.com/gag/aogMOeA)
+ - 🚯 [After all this time? Always](http://9gag.com/gag/aGzpeL0)<!-- MEMES:END -->
 
 --- 
 
