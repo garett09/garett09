@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sifu would be a blast, if it could get out of its own way](https://www.polygon.com/reviews/22918073/sifu-review-ps5-ps4-windows-pc-release-date)
- - [God of War patch lets you opt out of mouse acceleration](https://www.pcgamer.com/god-of-war-patch-lets-you-opt-out-of-mouse-acceleration)
- - [Great moments in PC Gaming: Blowing up your ship and all your friends in Sea of Thieves](https://www.pcgamer.com/great-moments-in-pc-gaming-blowing-up-your-ship-and-all-your-friends-in-sea-of-thieves)<!-- GAME:END -->
+ - [Attack on Titan’s Bryce Papenbrook weighs in on whether Eren Jaeger is a monster](https://www.polygon.com/interviews/22918404/attack-on-titan-bryce-papenbrook-interview-eren-jaeger)
+ - [The Dark Knight was the last superhero movie saga with an actual ending](https://www.polygon.com/22917838/the-dark-knight-rises-ending-christopher-nolan)
+ - [Sunday Comics: But Hey!](https://kotaku.com/sunday-comics-but-hey-1848488891)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
