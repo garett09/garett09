@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New books are *encouraged* to contain woke stuff, or they will not be published.](http://9gag.com/gag/aDDd12O)
+ - 🚖 [Potential FB YEET](http://9gag.com/gag/aYro7Aq)
  - 🚯 [Iranian chess player Dorsa Derakhshani plays for the US team after being banned from playing without her hijab by her own team.](http://9gag.com/gag/a41EQOQ)
  - 🚯 [Old school kids movie nightmare fuel](http://9gag.com/gag/aRrX0rj)<!-- MEMES:END -->
 
