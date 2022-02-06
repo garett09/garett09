@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [GoFundMe will automatically refund all donations to a campaign protesting vaccine mandates in Canada that it says sparked violence; the campaign had raised $7M+ &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/220206/p1#a220206p1)
- - [Koho, a challenger bank that lets Canadian users access up to 50% of their paycheck every day, raises a CAD$210M Series D in equity and debt led by Eldridge &lpar;Douglas Soltys/BetaKit&rpar;](http://www.techmeme.com/220205/p12#a220205p12)
- - [The Washington State Department of Licensing says over 250,000 licensed professionals may have had personal data exposed, including SSNs, in a database breach &lpar;The Seattle Times&rpar;](http://www.techmeme.com/220205/p11#a220205p11)<!-- TECH:END -->
+ - [An old SpaceX Falcon 9 rocket will soon crash into the moon     - CNET](https://www.cnet.com/news/an-old-spacex-falcon-9-rocket-will-soon-crash-into-the-moon/#ftag=CAD590a51e)
+ - [Koho, a challenger bank that lets Canadian users access up to 50% of their paycheck every day, raises a CAD$210M Series D in equity and debt led by Eldridge &lpar;Douglas Soltys/BetaKit&rpar;](http://www.techmeme.com/220205/p12#a220205p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
