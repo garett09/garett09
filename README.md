@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oui](http://9gag.com/gag/azeMXKz)
- - 🚯 [Iranian chess player Dorsa Derakhshani plays for the US team after being banned from playing without her hijab by her own team.](http://9gag.com/gag/a41EQOQ)
- - 🚯 [Wtf is this](http://9gag.com/gag/azeMXxq)<!-- MEMES:END -->
+ - 🚖 [The second hand embarrassment.](http://9gag.com/gag/aAGb3XE)
+ - 🚯 [What it is it is](http://9gag.com/gag/aE8pxeK)
+ - 🚯 [The AWP](http://9gag.com/gag/aKm6xpQ)<!-- MEMES:END -->
 
 --- 
 
