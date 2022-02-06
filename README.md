@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It did be like that](http://9gag.com/gag/awzMXB8)
- - 🚯 [What it is it is](http://9gag.com/gag/aE8pxeK)
- - 🚯 [This country attempts to convince everyone that they have internet access](http://9gag.com/gag/aRrX3w5)<!-- MEMES:END -->
+ - 🚖 [This country attempts to convince everyone that they have internet access](http://9gag.com/gag/aRrX3w5)
+ - 🚯 [Idiot fighting a bucket](http://9gag.com/gag/aQXoR1d)
+ - 🚯 [Please stop](http://9gag.com/gag/aE8pBZN)<!-- MEMES:END -->
 
 --- 
 
