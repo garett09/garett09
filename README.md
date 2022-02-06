@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [God of War patch lets you opt out of mouse acceleration](https://www.pcgamer.com/god-of-war-patch-lets-you-opt-out-of-mouse-acceleration)
  - [Great moments in PC Gaming: Blowing up your ship and all your friends in Sea of Thieves](https://www.pcgamer.com/great-moments-in-pc-gaming-blowing-up-your-ship-and-all-your-friends-in-sea-of-thieves)
- - [Ghostwire: Tokyo system requirements say you&#39;ll only need 20GB free](https://www.pcgamer.com/ghostwire-tokyo-system-requirements)
- - [The Factorio expansion will be as large as the main game](https://www.pcgamer.com/the-factorio-expansion-will-be-as-large-as-the-main-game)<!-- GAME:END -->
+ - [Ghostwire: Tokyo system requirements say you&#39;ll only need 20GB free](https://www.pcgamer.com/ghostwire-tokyo-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
