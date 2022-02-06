@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enought space for my testicels. &lpar;I know, adios balls&rpar;](http://9gag.com/gag/ajgmX1x)
- - 🚯 [In Finland, speeding tickets are calculated based on your income - causing some Finnish millionaires to pay fines of over $100,000. The more you earn the bigger the fine.](http://9gag.com/gag/amgPYjd)
- - 🚯 [Easy Win](http://9gag.com/gag/aXroq66)<!-- MEMES:END -->
+ - 🚖 [Influencer.](http://9gag.com/gag/avA5rRd)
+ - 🚯 [Jimmy Carr\u2019s most offensive joke](http://9gag.com/gag/aKm6VVO)
+ - 🚯 [Look, there is a word for my condition. And I think that the stats are wrong. should be 20% or something.](http://9gag.com/gag/a91EWNL)<!-- MEMES:END -->
 
 --- 
 
