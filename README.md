@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Feb. 6: $28 AirTag Leather Loop, $40 Blink Video Doorbell, more!](https://appleinsider.com/articles/22/02/06/best-deals-feb-6-28-airtag-leather-loop-40-blink-video-doorbell-more?utm_medium=rss)
- - [Joe Rogan releases apology video after clips of N-word use and a racist story go viral](https://www.theverge.com/2022/2/5/22919271/spotify-joe-rogan-experience-slur-planet-of-the-apes)
- - [FCC chair notified Congress that US service providers have requested ~$5.6B for removing and replacing network equipment and services provided by Huawei and ZTE &lpar;Light Reading&rpar;](http://www.techmeme.com/220206/p3#a220206p3)<!-- TECH:END -->
+ - [5 times Samsung downgraded the Galaxy S series](https://www.androidauthority.com/galaxy-s-series-downgrades-3101455/)
+ - [Entry-level &#39;M2&#39; MacBook Pro might not have ProMotion display](https://appleinsider.com/articles/22/02/06/entry-level-m2-macbook-pro-might-not-have-promotion-display?utm_medium=rss)
+ - [Best deals Feb. 6: $28 AirTag Leather Loop, $40 Blink Video Doorbell, more!](https://appleinsider.com/articles/22/02/06/best-deals-feb-6-28-airtag-leather-loop-40-blink-video-doorbell-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
