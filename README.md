@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Man Wearing A Sonic Mask Tried To Rob A Bank In Florida](https://kotaku.com/sonic-mask-bank-robbery-credit-union-florida-deland-cri-1848489456)
- - [Sifu&#39;s Early Access Release On PlayStation Is Kind Of A Mess](https://kotaku.com/sifu-early-access-ps5-ps4-mess-launch-problems-download-1848489340)
- - [With Wordle Archive, You Can Play All The Wordles That Came Before Whenever You Want](https://kotaku.com/wordle-archive-unlimited-puzzle-word-game-josh-wardle-f-1848481517)<!-- GAME:END -->
+ - [Left 4 Dead creator on the boom in co-op games: &#39;There still aren&#39;t enough&#39;](https://www.pcgamer.com/left-4-dead-creator-on-the-boom-in-co-op-games-there-still-arent-enough)
+ - [Explore frozen wastes and cozy fixed-camera interiors in indie RPG Mortal Crux](https://www.pcgamer.com/explore-frozen-wastes-and-cozy-fixed-camera-interiors-in-indie-rpg-mortal-crux)
+ - [A Man Wearing A Sonic Mask Tried To Rob A Bank In Florida](https://kotaku.com/sonic-mask-bank-robbery-credit-union-florida-deland-cri-1848489456)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
