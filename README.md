@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Enought space for my testicels. &lpar;I know, adios balls&rpar;](http://9gag.com/gag/ajgmX1x)
- - 🚯 [Plastic caught in low pressure area behind a moving car](http://9gag.com/gag/a81Epnd)
- - 🚯 [Extra thick sub floor](http://9gag.com/gag/aggBLrg)<!-- MEMES:END -->
+ - 🚯 [In Finland, speeding tickets are calculated based on your income - causing some Finnish millionaires to pay fines of over $100,000. The more you earn the bigger the fine.](http://9gag.com/gag/amgPYjd)
+ - 🚯 [Easy Win](http://9gag.com/gag/aXroq66)<!-- MEMES:END -->
 
 --- 
 
