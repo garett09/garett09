@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop the racism](http://9gag.com/gag/ajgm8rq)
- - 🚯 [Bless their little hearts](http://9gag.com/gag/amgP7gv)
- - 🚯 [Grand Tour](http://9gag.com/gag/awzMXLD)<!-- MEMES:END -->
+ - 🚖 [This is what it looks like when a tire pop after ageing enough.](http://9gag.com/gag/aWgjY8K)
+ - 🚯 [The hero](http://9gag.com/gag/aVx7YZP)
+ - 🚯 [Oui](http://9gag.com/gag/azeMXKz)<!-- MEMES:END -->
 
 --- 
 
