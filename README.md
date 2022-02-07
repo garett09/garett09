@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The land of the free, unless you are an atheist, apparently. Opinions?](http://9gag.com/gag/aDDd7Nw)
- - 🚯 [You win some you lose some](http://9gag.com/gag/ajgmP3R)
- - 🚯 [Man how I miss the 90&#39;s](http://9gag.com/gag/aOQ3816)<!-- MEMES:END -->
+ - 🚖 [The real wonder woman.](http://9gag.com/gag/a31E4Ov)
+ - 🚯 [The land of the free, unless you are an atheist, apparently. Opinions?](http://9gag.com/gag/aDDd7Nw)
+ - 🚯 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)<!-- MEMES:END -->
 
 --- 
 
