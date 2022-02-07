@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This gadget by ex-Razer designer replaces your gaming keyboard](https://www.pcgamer.com/this-gadget-by-ex-razer-designer-replaces-your-gaming-keyboard)
- - [AMD engineer confirms RDNA3 multi node GPU designs](https://www.pcgamer.com/amd-engineer-confirms-rdna3-multi-node-gpu-designs)
- - [&lpar;For Southeast Asia&rpar; Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/02/06/20220206-mlb22/)<!-- GAME:END -->
+ - [Check out what the Hubble space telescope saw on your birthday](https://www.pcgamer.com/check-out-what-the-hubble-space-telescope-saw-on-your-birthday)
+ - [AMD&#39;s upcoming RX 6950 XT could boost to 2.5GHz out of the box](https://www.pcgamer.com/amds-upcoming-rx-6950-xt-could-boost-to-25ghz-out-of-the-box)
+ - [This gadget by ex-Razer designer replaces your gaming keyboard](https://www.pcgamer.com/this-gadget-by-ex-razer-designer-replaces-your-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
