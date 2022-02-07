@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
- - 🚯 [You know sometimes I can switch a side and cheer for a robber](http://9gag.com/gag/amgPPO2)
- - 🚯 [Yes please!](http://9gag.com/gag/ajgm98p)<!-- MEMES:END -->
+ - 🚖 [Be Nice to Jerry](http://9gag.com/gag/aDDddB7)
+ - 🚯 [Green packaging in Asian supermarkets.](http://9gag.com/gag/aLvpp0g)
+ - 🚯 [This was really fun with friends](http://9gag.com/gag/angQQpB)<!-- MEMES:END -->
 
 --- 
 
