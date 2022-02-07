@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
- - [This webcam is built different](https://www.theverge.com/2022/2/7/22916648/best-webcam-opal-c1-elgato-facecam)
- - [Sifu’s toughest battle is with its own origins](https://www.theverge.com/22920754/sifu-review-pc-ps5-sloclap)<!-- TECH:END -->
+ - [Here’s why Twitter users in the UK can still be jailed for sending ‘grossly offensive’ tweets](https://www.theverge.com/2022/2/7/22912054/uk-grossly-offensive-tweet-prosecution-section-127-2003-communications-act)
+ - [15 best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+ - [After FAANG recorded big, simultaneous gains in 2021, so far in 2022 all five have fallen, leading some investors to seek out other growth stocks &lpar;Gunjan Banerji/Wall Street Journal&rpar;](http://www.techmeme.com/220207/p14#a220207p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
