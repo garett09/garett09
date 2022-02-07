@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The One Ring tabletop RPG is a cozy take on The Lord of the Rings](https://www.polygon.com/reviews/22905204/lord-of-the-rings-rpg-one-ring-starter-set-review)
- - [The Puma x Minecraft Collection is Here](https://news.xbox.com/en-us/2022/02/07/the-puma-x-minecraft-collection-is-here/)
- - [One of the best PCIe 4.0 SSDs is now as cheap as a last-gen drive](https://www.pcgamer.com/one-of-the-best-pcie-40-ssds-is-now-as-cheap-as-a-last-gen-drive)<!-- GAME:END -->
+ - [Minecraft: Education Edition Launches a New World to Teach Students About Internet Safety in Honor of Safer Internet Day](https://news.xbox.com/en-us/2022/02/07/minecraft-education-edition-safer-internet-day-course/)
+ - [Kickstarter pioneer Iron Circus Comics breaks from crowdfunder giant to mount first indie campaign](https://www.polygon.com/22917970/kickstarter-iron-circus-comics-campaign-poorcraft-cookbook)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
