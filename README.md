@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Third times the charm...](http://9gag.com/gag/avA5zjd)
- - 🚯 [This was really fun with friends](http://9gag.com/gag/angQQpB)
- - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)<!-- MEMES:END -->
+ - 🚖 [This was really fun with friends](http://9gag.com/gag/angQQpB)
+ - 🚯 [Pokemon in real life.](http://9gag.com/gag/a61EEEe)
+ - 🚯 [Bobs and vagene](http://9gag.com/gag/aAGbG2L)<!-- MEMES:END -->
 
 --- 
 
