@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify CEO reportedly confirms Joe Rogan wanted racially offensive podcast episodes removed     - CNET](https://www.cnet.com/tech/services-and-software/spotify-ceo-reportedly-confirms-joe-rogan-wanted-racially-offensive-podcast-episodes-removed/#ftag=CAD590a51e)
  - [Samsung is using abandoned fishing nets to build the Galaxy S22 flagships](https://www.androidauthority.com/samsung-galaxy-s22-build-materials-3103094/)
- - [Spotify CEO Daniel Ek confirms removal of Joe Rogan episodes after n-word video resurfaces](https://www.theverge.com/2022/2/6/22921203/spotify-joe-rogan-episode-removal-internal-memo)
- - [Spotify CEO addresses Rogan controversy in email to staff, commits $100M to licensing, development, marketing of content from historically marginalized groups &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/220206/p9#a220206p9)<!-- TECH:END -->
+ - [Spotify CEO Daniel Ek confirms removal of Joe Rogan episodes after n-word video resurfaces](https://www.theverge.com/2022/2/6/22921203/spotify-joe-rogan-episode-removal-internal-memo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
