@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto faces a backlash from gamers because NFTs are often a way for game developers to extract more money, whereas music fans treat NFTs more like souvenirs &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220206/p8#a220206p8)
- - [Prime Video: The 33 best TV shows to watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
- - [Prime Video: The 30 best movies to watch     - CNET](https://www.cnet.com/news/prime-video-the-30-best-films-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify CEO addresses Rogan controversy in email to staff, commits $100M to licensing, development, marketing of content from historically marginalized groups &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/220206/p9#a220206p9)
+ - [What did megalodon look like? Scientists say we still have no idea     - CNET](https://www.cnet.com/news/what-did-megalodon-look-like-scientists-say-we-still-have-no-idea/#ftag=CAD590a51e)
+ - [Crypto faces a backlash from gamers because NFTs are often a way for game developers to extract more money, whereas music fans treat NFTs more like souvenirs &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220206/p8#a220206p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
