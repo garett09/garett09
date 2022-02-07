@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ocean Ramsey and her team encountered this 20 ft Great White Shark near the island of Oahu, Hawaii. It is believed to be the biggest ever recorded](http://9gag.com/gag/aWgjGQx)
- - 🚯 [She&#39;s an animal](http://9gag.com/gag/aLvp1eV)
- - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)<!-- MEMES:END -->
+ - 🚖 [She&#39;s an animal](http://9gag.com/gag/aLvp1eV)
+ - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)
+ - 🚯 [Man how I miss the 90&#39;s](http://9gag.com/gag/aOQ3816)<!-- MEMES:END -->
 
 --- 
 
