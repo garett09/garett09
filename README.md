@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFTs Are &#39;A Scam&#39;, Says Indie Marketplace Itch.io](https://kotaku.com/nft-scam-itch-indie-video-games-crypto-marketplace-bitc-1848489605)
- - [Players of recently launched MMO Mortal Online 2 have been waiting in 24-hour queues](https://www.pcgamer.com/players-of-recently-launched-mmo-mortal-online-2-have-been-waiting-in-24-hour-queues)
- - [Five new Steam games you probably missed &lpar;February 7, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-7-2022)<!-- GAME:END -->
+ - [&#39;NFTs are a scam&#39;, says indie game marketplace itch.io](https://www.pcgamer.com/nfts-are-a-scam-says-indie-game-marketplace-itchio)
+ - [Feel very justified in excessive xenocide with Rogue Invader](https://www.pcgamer.com/feel-very-justified-with-excessive-xenocide-in-rogue-invader)
+ - [NFTs Are &#39;A Scam&#39;, Says Indie Marketplace Itch.io](https://kotaku.com/nft-scam-itch-indie-video-games-crypto-marketplace-bitc-1848489605)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
