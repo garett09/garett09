@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This was really fun with friends](http://9gag.com/gag/angQQpB)
- - 🚯 [Pokemon in real life.](http://9gag.com/gag/a61EEEe)
- - 🚯 [Bobs and vagene](http://9gag.com/gag/aAGbG2L)<!-- MEMES:END -->
+ - 🚯 [It&#39;s a simple tradition.](http://9gag.com/gag/a11rrww)
+ - 🚯 [*Birthday song Noises*](http://9gag.com/gag/aPZ33wV)<!-- MEMES:END -->
 
 --- 
 
