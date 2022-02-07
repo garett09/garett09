@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: buy Horizon Forbidden West’s PS4 version to play it on PS5 for cheaper](https://www.theverge.com/2022/2/7/22922306/sony-ps5-horizon-forbidden-west-ps4-standard-edition-free-upgrade)
- - [Verizon 5G Home Internet: Fast enough for phones, but what about your household?     - CNET](https://www.cnet.com/home/internet/verizon-5g-home-internet-review/#ftag=CAD590a51e)
- - [Peter Thiel is stepping down from Meta’s board](https://www.theverge.com/2022/2/7/22922425/peter-thiel-retiring-meta-facebook-board-directors)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 4 gets new straps, faces, but still no Google Assistant](https://www.androidauthority.com/samsung-galaxy-watch-4-straps-2022-3103478/)
+ - [Samsung’s Galaxy Watch 4 will track your sleep with cartoon animals](https://www.theverge.com/2022/2/7/22921615/samsung-galaxy-watch-4-wear-os-google-assistant-wearables-smartwatch)
+ - [Billionaire tech investor Peter Thiel leaves Meta board     - CNET](https://www.cnet.com/tech/billionaire-tech-investor-peter-thiel-leaves-meta-board/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
