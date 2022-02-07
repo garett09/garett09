@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s an animal](http://9gag.com/gag/aLvp1eV)
- - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)
- - 🚯 [Man how I miss the 90&#39;s](http://9gag.com/gag/aOQ3816)<!-- MEMES:END -->
+ - 🚖 [The real wonder woman.](http://9gag.com/gag/a31E4Ov)
+ - 🚯 [You win some you lose some](http://9gag.com/gag/ajgmP3R)
+ - 🚯 [No matter the color, men are men.](http://9gag.com/gag/a51EXxo)<!-- MEMES:END -->
 
 --- 
 
