@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 2022 release date leaked: Not long to go at all](https://www.androidauthority.com/iphone-se-2022-release-date-3099757/)
- - [Dakota Johnson confirms Madame Web role in Instagram Stories     - CNET](https://www.cnet.com/news/dakota-johnson-confirms-madame-web-role-in-instagram-stories/#ftag=CAD590a51e)
- - [Spotify CEO reportedly confirms Joe Rogan wanted racially offensive podcast episodes removed     - CNET](https://www.cnet.com/tech/services-and-software/spotify-ceo-reportedly-confirms-joe-rogan-wanted-racially-offensive-podcast-episodes-removed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Great UK Deals on TVs, Laptops, and Gaming Gear](https://www.wired.com/story/uk-deals-tv-laptop-gaming-feb-2022)
+ - [Google TV could soon bring homescreen upgrades for kids and adults alike](https://www.androidauthority.com/google-tv-restricted-mode-3103132/)
+ - [The Galaxy S22 will use plastic from recycled fishing nets](https://www.theverge.com/2022/2/7/22921361/galaxy-s22-plastic-recycled-fishing-nets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
