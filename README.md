@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google updates Chrome logo after 8 years, still isn&#39;t shiny and chrome enough](https://www.pcgamer.com/google-updates-chrome-logo-after-8-years-still-isnt-shiny-and-chrome-enough)
- - [If Capcom Remakes Resident Evil 4, Shinji Mikami Wants The Story Improved](https://kotaku.com/resident-evil-4-re4-capcom-remake-shinji-mikami-biohaza-1848490618)
- - [Sifu review](https://www.pcgamer.com/sifu-review)<!-- GAME:END -->
+ - [UK politicians want Arm to be listed in London if Nvidia&#39;s bid to buy fails](https://www.pcgamer.com/uk-politicians-want-arm-to-be-listed-in-london-if-nvidias-bid-to-buy-fails)
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
+ - [Hidetaka Miyazaki reveals the Souls boss he&#39;s most proud of](https://www.pcgamer.com/hidetaka-miyazaki-reveals-the-souls-boss-hes-most-proud-of)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
