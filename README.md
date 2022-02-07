@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Feb. 07&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [An outward-folding flip phone could be a thing for some reason](https://www.androidauthority.com/motorola-razr-out-folding-foldable-3103142/)
- - [10 Great UK Deals on TVs, Laptops, and Gaming Gear](https://www.wired.com/story/uk-deals-tv-laptop-gaming-feb-2022)<!-- TECH:END -->
+ - [Exclusive GTA Online tracks from Dr. Dre now on Spotify and Apple Music](https://www.theverge.com/2022/2/7/22921413/gta-online-dr-dre-tracks-spotify-apple-music-streaming)
+ - [Poll: Do you use a VPN service?](https://www.androidauthority.com/vpn-service-poll-3103211/)
+ - [Australian court dismissed Meta&#39;s claim that it neither conducts business nor collects personal information in the country in suit over Cambridge Analytica data &lpar;Christopher Knaus/The Guardian&rpar;](http://www.techmeme.com/220207/p2#a220207p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
