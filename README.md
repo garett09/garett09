@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Savage](http://9gag.com/gag/awzMzj4)
- - 🚯 [You know sometimes I can switch a side and cheer for a robber](http://9gag.com/gag/amgPPO2)
- - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)<!-- MEMES:END -->
+ - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)
+ - 🚯 [No fear](http://9gag.com/gag/angQg1b)<!-- MEMES:END -->
 
 --- 
 
