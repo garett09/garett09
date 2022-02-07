@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UK politicians want Arm to be listed in London if Nvidia&#39;s bid to buy fails](https://www.pcgamer.com/uk-politicians-want-arm-to-be-listed-in-london-if-nvidias-bid-to-buy-fails)
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [Hidetaka Miyazaki reveals the Souls boss he&#39;s most proud of](https://www.pcgamer.com/hidetaka-miyazaki-reveals-the-souls-boss-hes-most-proud-of)<!-- GAME:END -->
+ - [Prepare for OlliOlli World with tips and tricks from Roll7](https://blog.playstation.com/2022/02/07/prepare-for-olliolli-world-with-tips-and-tricks-from-roll7/)
+ - [Dying Light 2’s upcoming patch to improve co-op mode, fix dozens of bugs](https://www.polygon.com/22921607/dying-light-2-coop-multiplayer-bugs-crashing-patch-update)
+ - [Animals are at the center of their own practical-vs.-digital debate](https://www.polygon.com/features/22914940/cg-animals-real-movies-tv-peta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
