@@ -187,7 +187,7 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Feb. 07&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Motorola envisions an outward-folding Razr for some reason](https://www.androidauthority.com/motorola-razr-out-folding-foldable-3103142/)
+ - [An outward-folding flip phone could be a thing for some reason](https://www.androidauthority.com/motorola-razr-out-folding-foldable-3103142/)
  - [10 Great UK Deals on TVs, Laptops, and Gaming Gear](https://www.wired.com/story/uk-deals-tv-laptop-gaming-feb-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
