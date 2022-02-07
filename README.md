@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IRS will end use of facial recognition after widespread privacy concerns](https://www.theverge.com/2022/2/7/22922212/irs-id-me-facial-recognition-end-privacy-concerns)
- - [Samsung could surpass even Google with updates for Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-s22-updates-3103591/)
- - [The IRS says it will transition away from using facial recognition for identity verification, after a bipartisan backlash regarding its use of ID.me services &lpar;Alan Rappeport/New York Times&rpar;](http://www.techmeme.com/220207/p20#a220207p20)<!-- TECH:END -->
+ - [ElasticRun, which helps neighborhood stores in India secure capital and boost sales by working with e-commerce companies, raises $300M at a $1.5B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220207/p21#a220207p21)
+ - [The Dropout’s trailer digs deep into Elizabeth Holmes’ deception](https://www.theverge.com/2022/2/7/22922126/the-dropout-trailer-amanda-seyfried-elizabeth-holmes)
+ - [WarnerMedia is being sued for releasing The Matrix Resurrections on HBO Max](https://www.theverge.com/2022/2/7/22922237/warnermedia-warner-bros-sued-matrix-resurrections-hbo-max-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
