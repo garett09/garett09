@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The land of the free, unless you are an atheist, apparently. Opinions?](http://9gag.com/gag/aDDd7Nw)
- - 🚯 [Chinese get golden medal](http://9gag.com/gag/aYroQz2)
- - 🚯 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)<!-- MEMES:END -->
+ - 🚯 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)
+ - 🚯 [Italian hand language](http://9gag.com/gag/aqGjXdp)<!-- MEMES:END -->
 
 --- 
 
