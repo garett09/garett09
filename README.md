@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A renowned community of quilters is taking on copycats — and winning](https://www.theverge.com/22905288/gees-bend-quilters-etsy-online-sales)
- - [In its annual SEC report, Meta repeats its warning that it may be forced to shut down &quot;significant&quot; services in Europe if new EU data transfer rules are adopted &lpar;Michiel Willems/City A.M.&rpar;](http://www.techmeme.com/220207/p6#a220207p6)
- - [EU may struggle to fund $48 billion Chips Act](https://appleinsider.com/articles/22/02/07/eu-may-struggle-to-fund-48-billion-chips-act?utm_medium=rss)<!-- TECH:END -->
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
+ - [This webcam is built different](https://www.theverge.com/2022/2/7/22916648/best-webcam-opal-c1-elgato-facecam)
+ - [Sifu’s toughest battle is with its own origins](https://www.theverge.com/22920754/sifu-review-pc-ps5-sloclap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
