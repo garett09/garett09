@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crime and punishment](http://9gag.com/gag/aYrooY7)
- - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)
- - 🚯 [Green packaging in Asian supermarkets.](http://9gag.com/gag/aLvpp0g)<!-- MEMES:END -->
+ - 🚖 [Third times the charm...](http://9gag.com/gag/avA5zjd)
+ - 🚯 [This was really fun with friends](http://9gag.com/gag/angQQpB)
+ - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)<!-- MEMES:END -->
 
 --- 
 
