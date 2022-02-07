@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based price comparison service PriceRunner sues Google in Swedish court for allegedly manipulating search results to favor its own services &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/220207/p4#a220207p4)
- - [Do Good Doorbell Cams Make Good Neighbors?](https://www.wired.com/story/do-good-doorbell-cams-make-good-neighbors)
- - [A New Trick Lets Artificial Intelligence See in 3D](https://www.wired.com/story/new-way-ai-see-3d)<!-- TECH:END -->
+ - [Bumble makes its first acquisition, buying fast-growing French dating app Fruitz with the aim of gaining traction among a younger audience &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220207/p5#a220207p5)
+ - [Spotify CEO is &#39;deeply sorry,&#39; but won&#39;t deplatform Joe Rogan](https://appleinsider.com/articles/22/02/07/spotify-ceo-is-deeply-sorry-but-wont-deplatform-joe-rogan?utm_medium=rss)
+ - [Astronomers Want to Save Dark Skies from Satellite Swarms](https://www.wired.com/story/astronomers-want-to-save-dark-skies-from-satellite-swarms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
