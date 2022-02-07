@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People Won’t Stop Arguing About Pokémon Legends: Arceus’ Graphics](https://kotaku.com/pokemon-legends-arceus-botw-graphics-nintendo-switch-de-1848495479)
- - [Dying Light 2&#39;s dropkick is exactly as overpowered as it should be](https://www.pcgamer.com/dying-light-2s-dropkick-is-exactly-as-overpowered-as-it-should-be)
- - [The Steam Deck can drain its battery in 90 minutes if you don&#39;t cap your fps](https://www.pcgamer.com/the-steam-deck-can-drain-its-battery-in-90-minutes-if-you-dont-cap-your-fps)<!-- GAME:END -->
+ - [Sneaky NY Times Crossword Breaks Star Wars, Star Trek Fans’ Brains](https://kotaku.com/new-york-times-crossword-sunday-star-wars-star-trek-puz-1848495939)
+ - [BioShock Infinite&#39;s Bread Boy proves game development is a fathomless mystery](https://www.pcgamer.com/bioshock-infinites-bread-boy-proves-game-development-is-a-fathomless-mystery)
+ - [Reacher does Sherlock Holmes mystery with a massively jacked lead](https://www.polygon.com/reviews/22922053/reacher-review-prime-season-1-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
