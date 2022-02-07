@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder to the lads and girls of the community that this film exists and should rewatch.](http://9gag.com/gag/aWgjxz6)
- - 🚯 [Pokemon in real life.](http://9gag.com/gag/a61EEEe)
- - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)<!-- MEMES:END -->
+ - 🚖 [When Meta threatens to shut down Facebook and Instagram in Europe](http://9gag.com/gag/aOQ30rR)
+ - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
+ - 🚯 [Yes please!](http://9gag.com/gag/ajgm98p)<!-- MEMES:END -->
 
 --- 
 
