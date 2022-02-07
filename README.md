@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: Here’s how much you’re paying for your phone service each month](https://www.androidauthority.com/how-much-pay-phone-service-poll-results-3103131/)
  - [Exclusive GTA Online tracks from Dr. Dre now on Spotify and Apple Music](https://www.theverge.com/2022/2/7/22921413/gta-online-dr-dre-tracks-spotify-apple-music-streaming)
- - [Poll: Do you use a VPN service?](https://www.androidauthority.com/vpn-service-poll-3103211/)
- - [Australian court dismissed Meta&#39;s claim that it neither conducts business nor collects personal information in the country in suit over Cambridge Analytica data &lpar;Christopher Knaus/The Guardian&rpar;](http://www.techmeme.com/220207/p2#a220207p2)<!-- TECH:END -->
+ - [Poll: Do you use a VPN service?](https://www.androidauthority.com/vpn-service-poll-3103211/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
