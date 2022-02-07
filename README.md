@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Factory Reset](http://9gag.com/gag/aGzpEdn)
- - 🚯 [She&#39;s an animal](http://9gag.com/gag/aLvp1eV)
- - 🚯 [Here is my free legal advice, use it well.](http://9gag.com/gag/apgNgyB)<!-- MEMES:END -->
+ - 🚯 [Please don&#39;t ruin Lord of the Rings](http://9gag.com/gag/angQg7E)
+ - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)<!-- MEMES:END -->
 
 --- 
 
