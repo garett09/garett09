@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Left 4 Dead creator on the boom in co-op games: &#39;There still aren&#39;t enough&#39;](https://www.pcgamer.com/left-4-dead-creator-on-the-boom-in-co-op-games-there-still-arent-enough)
- - [Explore frozen wastes and cozy fixed-camera interiors in indie RPG Mortal Crux](https://www.pcgamer.com/explore-frozen-wastes-and-cozy-fixed-camera-interiors-in-indie-rpg-mortal-crux)
- - [A Man Wearing A Sonic Mask Tried To Rob A Bank In Florida](https://kotaku.com/sonic-mask-bank-robbery-credit-union-florida-deland-cri-1848489456)<!-- GAME:END -->
+ - [NFTs Are &#39;A Scam&#39;, Says Indie Marketplace Itch.io](https://kotaku.com/nft-scam-itch-indie-video-games-crypto-marketplace-bitc-1848489605)
+ - [Players of recently launched MMO Mortal Online 2 have been waiting in 24-hour queues](https://www.pcgamer.com/players-of-recently-launched-mmo-mortal-online-2-have-been-waiting-in-24-hour-queues)
+ - [Five new Steam games you probably missed &lpar;February 7, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-7-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
