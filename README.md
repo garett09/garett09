@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goat in Nepal inhaling and exhaling smoke](http://9gag.com/gag/angQ5Do)
- - 🚯 [I&#39;m alive because i can&#39;t scroll through memes when i&#39;m dead](http://9gag.com/gag/aYro7QO)
+ - 🚖 [Just a reminder to the lads and girls of the community that this film exists and should rewatch.](http://9gag.com/gag/aWgjxz6)
+ - 🚯 [Pokemon in real life.](http://9gag.com/gag/a61EEEe)
  - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)<!-- MEMES:END -->
 
 --- 
