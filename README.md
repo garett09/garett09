@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 30 best movies to watch     - CNET](https://www.cnet.com/news/prime-video-the-30-best-films-to-watch/#ftag=CAD590a51e)
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-series-to-watch/#ftag=CAD590a51e)
- - [UFC 271 Israel Adesanya vs. Robert Whittaker: Start time, how to watch, full fight card     - CNET](https://www.cnet.com/news/ufc-271-israel-adesanya-vs-robert-whittaker-start-time-how-to-watch-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto faces a backlash from gamers because NFTs are often a way for game developers to extract more money, whereas music fans treat NFTs more like souvenirs &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220206/p8#a220206p8)
+ - [Prime Video: The 33 best TV shows to watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
+ - [Prime Video: The 30 best movies to watch     - CNET](https://www.cnet.com/news/prime-video-the-30-best-films-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
