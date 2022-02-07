@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Savage](http://9gag.com/gag/awzMzj4)
- - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)
- - 🚯 [No fear](http://9gag.com/gag/angQg1b)<!-- MEMES:END -->
+ - 🚖 [Factory Reset](http://9gag.com/gag/aGzpEdn)
+ - 🚯 [She&#39;s an animal](http://9gag.com/gag/aLvp1eV)
+ - 🚯 [Here is my free legal advice, use it well.](http://9gag.com/gag/apgNgyB)<!-- MEMES:END -->
 
 --- 
 
