@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Great UK Deals on TVs, Laptops, and Gaming Gear](https://www.wired.com/story/uk-deals-tv-laptop-gaming-feb-2022)
- - [Google TV could soon bring homescreen upgrades for kids and adults alike](https://www.androidauthority.com/google-tv-restricted-mode-3103132/)
- - [The Galaxy S22 will use plastic from recycled fishing nets](https://www.theverge.com/2022/2/7/22921361/galaxy-s22-plastic-recycled-fishing-nets)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Feb. 07&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Motorola envisions an outward-folding Razr for some reason](https://www.androidauthority.com/motorola-razr-out-folding-foldable-3103142/)
+ - [10 Great UK Deals on TVs, Laptops, and Gaming Gear](https://www.wired.com/story/uk-deals-tv-laptop-gaming-feb-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
