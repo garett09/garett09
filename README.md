@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElasticRun, which helps neighborhood stores in India secure capital and boost sales by working with e-commerce companies, raises $300M at a $1.5B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220207/p21#a220207p21)
- - [The Dropout’s trailer digs deep into Elizabeth Holmes’ deception](https://www.theverge.com/2022/2/7/22922126/the-dropout-trailer-amanda-seyfried-elizabeth-holmes)
- - [WarnerMedia is being sued for releasing The Matrix Resurrections on HBO Max](https://www.theverge.com/2022/2/7/22922237/warnermedia-warner-bros-sued-matrix-resurrections-hbo-max-release)<!-- TECH:END -->
+ - [PSA: buy Horizon Forbidden West’s PS4 version to play it on PS5 for cheaper](https://www.theverge.com/2022/2/7/22922306/sony-ps5-horizon-forbidden-west-ps4-standard-edition-free-upgrade)
+ - [Verizon 5G Home Internet: Fast enough for phones, but what about your household?     - CNET](https://www.cnet.com/home/internet/verizon-5g-home-internet-review/#ftag=CAD590a51e)
+ - [Peter Thiel is stepping down from Meta’s board](https://www.theverge.com/2022/2/7/22922425/peter-thiel-retiring-meta-facebook-board-directors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
