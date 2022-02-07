@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble makes its first acquisition, buying fast-growing French dating app Fruitz with the aim of gaining traction among a younger audience &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220207/p5#a220207p5)
- - [Spotify CEO is &#39;deeply sorry,&#39; but won&#39;t deplatform Joe Rogan](https://appleinsider.com/articles/22/02/07/spotify-ceo-is-deeply-sorry-but-wont-deplatform-joe-rogan?utm_medium=rss)
- - [Astronomers Want to Save Dark Skies from Satellite Swarms](https://www.wired.com/story/astronomers-want-to-save-dark-skies-from-satellite-swarms)<!-- TECH:END -->
+ - [A renowned community of quilters is taking on copycats — and winning](https://www.theverge.com/22905288/gees-bend-quilters-etsy-online-sales)
+ - [In its annual SEC report, Meta repeats its warning that it may be forced to shut down &quot;significant&quot; services in Europe if new EU data transfer rules are adopted &lpar;Michiel Willems/City A.M.&rpar;](http://www.techmeme.com/220207/p6#a220207p6)
+ - [EU may struggle to fund $48 billion Chips Act](https://appleinsider.com/articles/22/02/07/eu-may-struggle-to-fund-48-billion-chips-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
