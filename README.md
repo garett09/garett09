@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was really fun with friends](http://9gag.com/gag/angQQpB)
- - 🚯 [It&#39;s a simple tradition.](http://9gag.com/gag/a11rrww)
- - 🚯 [*Birthday song Noises*](http://9gag.com/gag/aPZ33wV)<!-- MEMES:END -->
+ - 🚖 [Savage](http://9gag.com/gag/awzMzj4)
+ - 🚯 [You know sometimes I can switch a side and cheer for a robber](http://9gag.com/gag/amgPPO2)
+ - 🚯 [Pizza with extra coca](http://9gag.com/gag/aRrXr1G)<!-- MEMES:END -->
 
 --- 
 
