@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Meta threatens to shut down Facebook and Instagram in Europe](http://9gag.com/gag/aOQ30rR)
- - 🚯 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
+ - 🚖 [For the first time in history, EU is the Chad.](http://9gag.com/gag/axBM9RK)
+ - 🚯 [You know sometimes I can switch a side and cheer for a robber](http://9gag.com/gag/amgPPO2)
  - 🚯 [Yes please!](http://9gag.com/gag/ajgm98p)<!-- MEMES:END -->
 
 --- 
