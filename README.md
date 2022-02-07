@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how much you’re paying for your phone service each month](https://www.androidauthority.com/how-much-pay-phone-service-poll-results-3103131/)
- - [Exclusive GTA Online tracks from Dr. Dre now on Spotify and Apple Music](https://www.theverge.com/2022/2/7/22921413/gta-online-dr-dre-tracks-spotify-apple-music-streaming)
- - [Poll: Do you use a VPN service?](https://www.androidauthority.com/vpn-service-poll-3103211/)<!-- TECH:END -->
+ - [Stockholm-based price comparison service PriceRunner sues Google in Swedish court for allegedly manipulating search results to favor its own services &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/220207/p4#a220207p4)
+ - [Do Good Doorbell Cams Make Good Neighbors?](https://www.wired.com/story/do-good-doorbell-cams-make-good-neighbors)
+ - [A New Trick Lets Artificial Intelligence See in 3D](https://www.wired.com/story/new-way-ai-see-3d)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
