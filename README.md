@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare for OlliOlli World with tips and tricks from Roll7](https://blog.playstation.com/2022/02/07/prepare-for-olliolli-world-with-tips-and-tricks-from-roll7/)
- - [Dying Light 2’s upcoming patch to improve co-op mode, fix dozens of bugs](https://www.polygon.com/22921607/dying-light-2-coop-multiplayer-bugs-crashing-patch-update)
- - [Animals are at the center of their own practical-vs.-digital debate](https://www.polygon.com/features/22914940/cg-animals-real-movies-tv-peta)<!-- GAME:END -->
+ - [The One Ring tabletop RPG is a cozy take on The Lord of the Rings](https://www.polygon.com/reviews/22905204/lord-of-the-rings-rpg-one-ring-starter-set-review)
+ - [The Puma x Minecraft Collection is Here](https://news.xbox.com/en-us/2022/02/07/the-puma-x-minecraft-collection-is-here/)
+ - [One of the best PCIe 4.0 SSDs is now as cheap as a last-gen drive](https://www.pcgamer.com/one-of-the-best-pcie-40-ssds-is-now-as-cheap-as-a-last-gen-drive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
