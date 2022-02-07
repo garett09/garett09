@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More Dying Light 2 fixes are incoming](https://www.pcgamer.com/more-dying-light-2-fixes-are-incoming)
- - [What&#39;s Old Is New Again](https://kotaku.com/nicodemus-yang-mattisson-art-concept-illustration-netea-1848489797)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/02/06/20220206-mlb22/)
+ - [&lpar;For Southeast Asia&rpar; Shohei Ohtani: Unanimous AL MVP is your MLB The Show 22 cover athlete](https://blog.playstation.com/2022/02/06/20220206-mlb22/)
+ - [Shortages are hampering Wi-Fi 6E adoption. But wait, here comes Wi-Fi 7](https://www.pcgamer.com/shortages-are-hampering-wi-fi-6e-adoption-but-wait-here-comes-wi-fi-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
