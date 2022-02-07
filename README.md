@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sifu review](https://www.pcgamer.com/sifu-review)
- - [Check out what the Hubble space telescope saw on your birthday](https://www.pcgamer.com/check-out-what-the-hubble-space-telescope-saw-on-your-birthday)
- - [AMD&#39;s upcoming RX 6950 XT could boost to 2.5GHz out of the box](https://www.pcgamer.com/amds-upcoming-rx-6950-xt-could-boost-to-25ghz-out-of-the-box)<!-- GAME:END -->
+ - [Google updates Chrome logo after 8 years, still isn&#39;t shiny and chrome enough](https://www.pcgamer.com/google-updates-chrome-logo-after-8-years-still-isnt-shiny-and-chrome-enough)
+ - [If Capcom Remakes Resident Evil 4, Shinji Mikami Wants The Story Improved](https://kotaku.com/resident-evil-4-re4-capcom-remake-shinji-mikami-biohaza-1848490618)
+ - [Sifu review](https://www.pcgamer.com/sifu-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
