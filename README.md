@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Living Legend](http://9gag.com/gag/a51EX9G)
- - 🚯 [Or you can just pirate](http://9gag.com/gag/a91Eqoo)
- - 🚯 [No matter the color, men are men.](http://9gag.com/gag/a51EXxo)<!-- MEMES:END -->
+ - 🚖 [Ocean Ramsey and her team encountered this 20 ft Great White Shark near the island of Oahu, Hawaii. It is believed to be the biggest ever recorded](http://9gag.com/gag/aWgjGQx)
+ - 🚯 [Living Legend](http://9gag.com/gag/a51EX9G)
+ - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)<!-- MEMES:END -->
 
 --- 
 
