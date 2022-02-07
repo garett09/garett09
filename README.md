@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Factory Reset](http://9gag.com/gag/aGzpEdn)
- - 🚯 [Please don&#39;t ruin Lord of the Rings](http://9gag.com/gag/angQg7E)
- - 🚯 [Bully Maguire](http://9gag.com/gag/aggBoKW)<!-- MEMES:END -->
+ - 🚖 [Living Legend](http://9gag.com/gag/a51EX9G)
+ - 🚯 [Or you can just pirate](http://9gag.com/gag/a91Eqoo)
+ - 🚯 [No matter the color, men are men.](http://9gag.com/gag/a51EXxo)<!-- MEMES:END -->
 
 --- 
 
