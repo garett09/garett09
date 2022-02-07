@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Engineers Warfare 2: “Broadside” DLC is Available on Xbox One!](https://news.xbox.com/en-us/2022/02/07/space-engineers-warfare-2-broadside-dlc-is-available-on-xbox-one/)
- - [Here’s all the loot in Apex Legends’ season 12 battle pass](https://www.polygon.com/22922095/apex-legends-season-12-battle-pass-tiers-unlocks-loot-trailer)
- - [Amanda Seyfried does a gravelly Elizabeth Holmes impression in the first trailer for The Dropout](https://www.polygon.com/22922039/the-dropout-elizabeth-holmes-trailer-hulu-release-date)<!-- GAME:END -->
+ - [Every movie and show coming to Prime Video in February 2022](https://www.polygon.com/22914441/new-amazon-prime-video-movies-tv-watch-february-2022)
+ - [Wordle On Game Boy Might Be The Coolest Port Yet](https://kotaku.com/wordle-game-boy-port-analogue-pocket-nintendo-1848494007)
+ - [Bandai Namco&#39;s anime brawler Jump Force disappears from Steam today](https://www.pcgamer.com/bandai-namcos-anime-brawler-jump-force-disappears-from-steam-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
