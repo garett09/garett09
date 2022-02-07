@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sifu’s early access release is causing issues for some players on PlayStation](https://www.theverge.com/2022/2/6/22920844/sifu-early-access-release-playstation-problems)
- - [Maid&#39;s iPad central to busting Bloomberg kidnap suspect](https://appleinsider.com/articles/22/02/06/maids-ipad-central-to-busting-bloomberg-kidnap-suspect?utm_medium=rss)
- - [Knitters support Epic in knotty legal fight with Apple&#39;s App Store](https://appleinsider.com/articles/22/02/06/knitters-support-epic-over-app-stores-knotty-legal-fight?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video: The 30 best movies to watch     - CNET](https://www.cnet.com/news/prime-video-the-30-best-films-to-watch/#ftag=CAD590a51e)
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-series-to-watch/#ftag=CAD590a51e)
+ - [UFC 271 Israel Adesanya vs. Robert Whittaker: Start time, how to watch, full fight card     - CNET](https://www.cnet.com/news/ufc-271-israel-adesanya-vs-robert-whittaker-start-time-how-to-watch-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
