@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile: Siege of the Atlas expansion sets new peak concurrent player record](https://www.pcgamer.com/path-of-exile-siege-of-the-atlas-expansion-sets-new-peak-concurrent-player-record)
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
- - [&#39;NFTs are a scam&#39;, says indie game marketplace itch.io](https://www.pcgamer.com/nfts-are-a-scam-says-indie-game-marketplace-itchio)<!-- GAME:END -->
+ - [More Dying Light 2 fixes are incoming](https://www.pcgamer.com/more-dying-light-2-fixes-are-incoming)
+ - [What&#39;s Old Is New Again](https://kotaku.com/nicodemus-yang-mattisson-art-concept-illustration-netea-1848489797)
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
