@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;NFTs are a scam&#39;, says indie game marketplace itch.io](https://www.pcgamer.com/nfts-are-a-scam-says-indie-game-marketplace-itchio)
- - [Feel very justified in excessive xenocide with Rogue Invader](https://www.pcgamer.com/feel-very-justified-with-excessive-xenocide-in-rogue-invader)
- - [NFTs Are &#39;A Scam&#39;, Says Indie Marketplace Itch.io](https://kotaku.com/nft-scam-itch-indie-video-games-crypto-marketplace-bitc-1848489605)<!-- GAME:END -->
+ - [Path of Exile: Siege of the Atlas expansion sets new peak concurrent player record](https://www.pcgamer.com/path-of-exile-siege-of-the-atlas-expansion-sets-new-peak-concurrent-player-record)
+ - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
+ - [&#39;NFTs are a scam&#39;, says indie game marketplace itch.io](https://www.pcgamer.com/nfts-are-a-scam-says-indie-game-marketplace-itchio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
