@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft: Education Edition Launches a New World to Teach Students About Internet Safety in Honor of Safer Internet Day](https://news.xbox.com/en-us/2022/02/07/minecraft-education-edition-safer-internet-day-course/)
- - [Kickstarter pioneer Iron Circus Comics breaks from crowdfunder giant to mount first indie campaign](https://www.polygon.com/22917970/kickstarter-iron-circus-comics-campaign-poorcraft-cookbook)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
+ - [The best builds for the Raiden Shogun in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-raiden-shogun-build-banner)
+ - [The best builds for the Raiden Shogun in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-riaden-shogun-build-banner)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
