@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sifu review](https://www.pcgamer.com/sifu-review)
  - [Check out what the Hubble space telescope saw on your birthday](https://www.pcgamer.com/check-out-what-the-hubble-space-telescope-saw-on-your-birthday)
- - [AMD&#39;s upcoming RX 6950 XT could boost to 2.5GHz out of the box](https://www.pcgamer.com/amds-upcoming-rx-6950-xt-could-boost-to-25ghz-out-of-the-box)
- - [This gadget by ex-Razer designer replaces your gaming keyboard](https://www.pcgamer.com/this-gadget-by-ex-razer-designer-replaces-your-gaming-keyboard)<!-- GAME:END -->
+ - [AMD&#39;s upcoming RX 6950 XT could boost to 2.5GHz out of the box](https://www.pcgamer.com/amds-upcoming-rx-6950-xt-could-boost-to-25ghz-out-of-the-box)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
