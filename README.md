@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon’s Souls Expert Claims PS5 Remake Still Hides Secrets](https://kotaku.com/demon-s-souls-ps5-playstation-5-remake-secret-easter-eg-1848494709)
- - [The X-Men have a hell now, and Sabretooth is the devil](https://www.polygon.com/2022/2/7/22921895/marvel-x-men-comics-hell-sabretooth-krakoa)
- - [Halo Infinite fans buy nail polish for Halo Infinite skin, get Forza Horizon 5 skin instead](https://www.pcgamer.com/halo-infinite-fans-buy-nail-polish-for-halo-infinite-skin-get-forza-horizon-5-skin-instead)<!-- GAME:END -->
+ - [People Won’t Stop Arguing About Pokémon Legends: Arceus’ Graphics](https://kotaku.com/pokemon-legends-arceus-botw-graphics-nintendo-switch-de-1848495479)
+ - [Dying Light 2&#39;s dropkick is exactly as overpowered as it should be](https://www.pcgamer.com/dying-light-2s-dropkick-is-exactly-as-overpowered-as-it-should-be)
+ - [The Steam Deck can drain its battery in 90 minutes if you don&#39;t cap your fps](https://www.pcgamer.com/the-steam-deck-can-drain-its-battery-in-90-minutes-if-you-dont-cap-your-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
