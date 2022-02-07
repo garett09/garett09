@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real wonder woman.](http://9gag.com/gag/a31E4Ov)
- - 🚯 [You win some you lose some](http://9gag.com/gag/ajgmP3R)
- - 🚯 [No matter the color, men are men.](http://9gag.com/gag/a51EXxo)<!-- MEMES:END -->
+ - 🚖 [Winter Olympics](http://9gag.com/gag/a71Eqgw)
+ - 🚯 [Chinese get golden medal](http://9gag.com/gag/aYroQz2)
+ - 🚯 [Hungarian ice skater, Liu Shaolin Sandor have won the 1000m speed skating az Bejing After he won it, the referee disqualified him for`illegal overtaking` and gave gold to the chinese. On the photo the chinese guy tries to pull back Liu with both hands He didn&#39;t get disqualified.](http://9gag.com/gag/a51EVeE)<!-- MEMES:END -->
 
 --- 
 
