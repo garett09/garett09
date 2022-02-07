@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds for the Raiden Shogun in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-raiden-shogun-build-banner)
- - [The best builds for the Raiden Shogun in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-riaden-shogun-build-banner)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [Space Engineers Warfare 2: “Broadside” DLC is Available on Xbox One!](https://news.xbox.com/en-us/2022/02/07/space-engineers-warfare-2-broadside-dlc-is-available-on-xbox-one/)
+ - [Here’s all the loot in Apex Legends’ season 12 battle pass](https://www.polygon.com/22922095/apex-legends-season-12-battle-pass-tiers-unlocks-loot-trailer)
+ - [Amanda Seyfried does a gravelly Elizabeth Holmes impression in the first trailer for The Dropout](https://www.polygon.com/22922039/the-dropout-elizabeth-holmes-trailer-hulu-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
