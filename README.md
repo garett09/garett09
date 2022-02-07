@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real wonder woman.](http://9gag.com/gag/a31E4Ov)
- - 🚯 [The land of the free, unless you are an atheist, apparently. Opinions?](http://9gag.com/gag/aDDd7Nw)
+ - 🚖 [The land of the free, unless you are an atheist, apparently. Opinions?](http://9gag.com/gag/aDDd7Nw)
+ - 🚯 [Chinese get golden medal](http://9gag.com/gag/aYroQz2)
  - 🚯 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)<!-- MEMES:END -->
 
 --- 
