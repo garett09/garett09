@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla plans on launching its own in-car App Store, rumor claims](https://appleinsider.com/articles/22/02/07/tesla-plans-on-launching-its-own-in-car-app-store-rumor-claims?utm_medium=rss)
- - [Ethereum Name Service fires director of operations over resurfaced tweet](https://www.theverge.com/2022/2/7/22921674/ethereum-name-service-ens-remove-director-operations-resurfaced-tweet-brantly-millegan)
- - [Adtech experts explain how GDPR has proven ineffective thanks to the ingenuity of adtech firms, which have managed to effectively skirt its consent requirement &lpar;Shoshana Wodinsky/Gizmodo&rpar;](http://www.techmeme.com/220207/p17#a220207p17)<!-- TECH:END -->
+ - [Microsoft starts blocking VBA macro scripts by default in Excel, PowerPoint, Access, Visio, and Word, after years of security experts requesting the change &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220207/p19#a220207p19)
+ - [February 2022 Android security patch rolling out now to Pixel phones](https://www.androidauthority.com/february-2022-android-security-patch-3103536/)
+ - [Microsoft to block Office VBA macros by default](https://www.theverge.com/2022/2/7/22922032/microsoft-block-office-vba-macros-default-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
