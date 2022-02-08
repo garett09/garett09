@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dear diary](http://9gag.com/gag/aDDdZNd)
- - 🚯 [Yum](http://9gag.com/gag/aKm6Wpb)
- - 🚯 [Empty threats](http://9gag.com/gag/aKm6WLb)<!-- MEMES:END -->
+ - 🚖 [Yum](http://9gag.com/gag/aKm6Wpb)
+ - 🚯 [Sorry kid, he\u2019s my dad!](http://9gag.com/gag/aWgjo8q)
+ - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
 
