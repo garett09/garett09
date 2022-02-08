@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic won’t update Fortnite to run on the Steam Deck](https://www.theverge.com/2022/2/8/22923163/fortnite-steam-deck-update-epic-tim-sweeney)
- - [It’s official: Nvidia calls off $40 billion deal to buy Arm](https://www.androidauthority.com/nvidia-not-buying-arm-3103914/)
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Updated: Feb. 08&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)<!-- TECH:END -->
+ - [The UK&#39;s Online Safety Bill will mandate porn websites verify users&#39; age or face fines; similar proposals were quietly dropped in 2019 after criticism &lpar;Shiona McCallum/BBC&rpar;](http://www.techmeme.com/220208/p7#a220208p7)
+ - [London-based m3ter, which helps SaaS companies charge clients on a usage basis, emerges from stealth with $17.5M from Kindred Capital and others &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220208/p6#a220208p6)
+ - [Galaxy S22: What to expect from Samsung’s February Unpacked](https://www.theverge.com/2022/1/26/22902649/samsung-galaxy-s22-unpacked-event-tab-s8-home-mini-2-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
