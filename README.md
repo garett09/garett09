@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It looks like a baboons @$](http://9gag.com/gag/a0Z7n4n)
- - 🚯 [So much of this crap going around at the moment](http://9gag.com/gag/a91E8EK)
+ - 🚖 [She was in his grill so he went for the kill....](http://9gag.com/gag/angQvVq)
+ - 🚯 [Boys will be boys](http://9gag.com/gag/angQvOL)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
