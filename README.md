@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based GoCardless, which processes direct debit payments for Klarna, DocuSign, and others, raises $312M led by Permira at a $2.1B valuation &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220208/p10#a220208p10)
- - [New MacBook Pro could come in Apple&#39;s March event](https://appleinsider.com/articles/22/02/08/new-macbook-pro-could-come-in-apples-march-event?utm_medium=rss)
- - [Poll: When was the last time your phone received an update?](https://www.androidauthority.com/phone-update-last-time-poll-3103893/)<!-- TECH:END -->
+ - [SoftBank&#39;s Masayoshi Son says he is planning a US IPO for Arm in March 2023, following the failure of the Nvidia deal; SoftBank keeps a $1.25B breakup fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/220208/p12#a220208p12)
+ - [How Did the Bored Ape Yacht Club Get So Popular?](https://www.wired.com/story/celebrity-nfts)
+ - [The Best Music Streaming Apps to Get Your Groove On](https://www.wired.com/gallery/best-music-streaming-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
