@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Sifu: essential tips, the best skills, and how to fight every boss](https://www.pcgamer.com/sifu-tips-boss-guide)
- - [New PS5 and PS4 System Software Betas Roll Out Tomorrow](https://blog.playstation.com/2022/02/08/new-ps5-and-ps4-system-software-betas-roll-out-tomorrow/)
- - [New PS5 and PS4 System Software Betas Roll Out Tomorrow](https://blog.playstation.com/2022/02/08/new-ps5-and-ps4-system-software-betas-roll-out-tomorrow/)<!-- GAME:END -->
+ - [Where to watch every Oscar-nominated movie](https://www.polygon.com/22921640/oscar-movies-2022-how-to-watch-netflix-amazon-hulu-hbo)
+ - [Dying Light 2 cheats: How to give yourself infinite money and every weapon](https://www.pcgamer.com/dying-light-2-cheats-money-weapons-scrap)
+ - [Call of Duty: Warzone Pacific season 2 adds poison bombs that bring the circle to you](https://www.pcgamer.com/call-of-duty-warzone-pacific-season-2-adds-poison-bombs-that-bring-the-circle-to-you)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
