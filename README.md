@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CalDigit&#39;s TS4 Thunderbolt 4 Dock offers 18 ports for your Mac](https://appleinsider.com/articles/22/02/08/caldigits-ts4-thunderbolt-4-dock-offers-18-ports-for-your-mac?utm_medium=rss)
- - [Peloton fired 2,800 employees and gave them free Peloton memberships](https://www.theverge.com/2022/2/8/22923480/peloton-severance-package-membership-layoffs)
- - [Chrome’s new tool should let you revisit your old Google rabbit holes](https://www.theverge.com/2022/2/8/22923323/google-chrome-journeys-revisit-old-browsing-sessions)<!-- TECH:END -->
+ - [Apple issues second developer betas of iOS 15.4, iPadOS 15.4, tvOS 15.4 &amp; watchOS 8.5](https://appleinsider.com/articles/22/02/08/apple-issues-second-developer-betas-of-ios-154-ipados-154-tvos-154-watchos-85?utm_medium=rss)
+ - [Apple seeds second macOS Monterey 12.3 developer beta](https://appleinsider.com/articles/22/02/08/apple-seeds-second-macos-monterey-123-developer-beta?utm_medium=rss)
+ - [Oscar nominations for Netflix and Amazon fell; half of the Best Picture nominees had little to no time in theaters and all major studios relied on hybrid models &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/220208/p30#a220208p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
