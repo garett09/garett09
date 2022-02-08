@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Selina Finance, a London-based online lender for SMBs and consumers that leverages their home equity, raises a $150M Series B, $35M in equity and $115M in debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220207/p27#a220207p27)
- - [After pulling songs, Neil Young is telling Spotify employees to quit their jobs](https://www.theverge.com/22922714/neil-young-spotify-letter-ceo-daniel-ek-employees-joe-rogan)
- - [Nvidia officially backing out of $66 billion acquisition of Arm](https://appleinsider.com/articles/22/02/08/nvidia-officially-backing-out-of-66-billion-acquisition-of-arm?utm_medium=rss)<!-- TECH:END -->
+ - [Apple signs series order for dark comedy &#39;Sunny&#39;](https://appleinsider.com/articles/22/02/08/apple-signs-series-order-for-dark-comedy-sunny?utm_medium=rss)
+ - [A leaked press release says Samsung will unveil three new Galaxy tablets, an 11&quot; Tab S8, a 12.4&quot; Tab S8 Plus, and a 14.6&quot; Tab S8 Ultra, at its Unpacked event &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220207/p28#a220207p28)
+ - [Apple Studios announces 1970s throwback comedy &#39;Mrs. American Pie&#39;](https://appleinsider.com/articles/22/02/08/apple-studios-announces-1970s-throwback-comedy-mrs-american-pie?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
