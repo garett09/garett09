@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t let your dreams just be dreams](http://9gag.com/gag/aBn2V9Z)
- - 🚯 [Every f@#ing time](http://9gag.com/gag/ay9M6p8)
- - 🚯 [Mother of the year](http://9gag.com/gag/a11r062)<!-- MEMES:END -->
+ - 🚖 [Every f@#ing time](http://9gag.com/gag/ay9M6p8)
+ - 🚯 [Billionaire Mark Cuban has launched a war against Big Pharma. Recently, he started an online pharmacy where over 100 lifesaving medications are offered at low costs. He charges a standard 15% markup in an industry that typically sees no less than 100% markup.](http://9gag.com/gag/aDDdnBw)
+ - 🚯 [Putin enjoying his day](http://9gag.com/gag/aNPpVr0)<!-- MEMES:END -->
 
 --- 
 
