@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CalDigit’s new TS4 Thunderbolt 4 Dock has the most ports ever](https://www.theverge.com/2022/2/8/22923422/caldigit-ts4-thunderbolt-4-dock-usb-c-price-specs-monitor)
- - [Adobe Premiere Pro getting new Remix feature for syncing audio and video](https://appleinsider.com/articles/22/02/08/adobe-premiere-pro-getting-new-remix-feature-for-syncing-audio-and-video?utm_medium=rss)
- - [Huge Sponges Are Eating an Extinct Arctic Ecosystem](https://www.wired.com/story/huge-sponges-are-eating-an-extinct-arctic-ecosystem)<!-- TECH:END -->
+ - [CalDigit&#39;s TS4 Thunderbolt 4 Dock offers 18 ports for your Mac](https://appleinsider.com/articles/22/02/08/caldigits-ts4-thunderbolt-4-dock-offers-18-ports-for-your-mac?utm_medium=rss)
+ - [Peloton fired 2,800 employees and gave them free Peloton memberships](https://www.theverge.com/2022/2/8/22923480/peloton-severance-package-membership-layoffs)
+ - [Chrome’s new tool should let you revisit your old Google rabbit holes](https://www.theverge.com/2022/2/8/22923323/google-chrome-journeys-revisit-old-browsing-sessions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
