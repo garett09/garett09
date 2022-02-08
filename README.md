@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always](http://9gag.com/gag/a0Z70od)
- - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
- - 🚯 [Vegan milk](http://9gag.com/gag/aRrXZOq)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t let your dreams just be dreams](http://9gag.com/gag/aBn2V9Z)
+ - 🚯 [Every f@#ing time](http://9gag.com/gag/ay9M6p8)
+ - 🚯 [Mother of the year](http://9gag.com/gag/a11r062)<!-- MEMES:END -->
 
 --- 
 
