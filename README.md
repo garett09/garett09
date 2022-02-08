@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She was in his grill so he went for the kill....](http://9gag.com/gag/angQvVq)
- - 🚯 [Boys will be boys](http://9gag.com/gag/angQvOL)
+ - 🚖 [Never forget. Belgian contribution to the french parade.](http://9gag.com/gag/aBn2EMA)
+ - 🚯 [Cops are getting tired of the crack heads](http://9gag.com/gag/aRrXv8M)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
