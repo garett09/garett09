@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to watch every Oscar-nominated movie](https://www.polygon.com/22921640/oscar-movies-2022-how-to-watch-netflix-amazon-hulu-hbo)
- - [Dying Light 2 cheats: How to give yourself infinite money and every weapon](https://www.pcgamer.com/dying-light-2-cheats-money-weapons-scrap)
- - [Call of Duty: Warzone Pacific season 2 adds poison bombs that bring the circle to you](https://www.pcgamer.com/call-of-duty-warzone-pacific-season-2-adds-poison-bombs-that-bring-the-circle-to-you)<!-- GAME:END -->
+ - [America’s Army going dark after 20 years](https://www.polygon.com/22924209/americas-army-proving-grounds-shutdown-servers-sunset-pc-ps4)
+ - [Steam is hiccupping as everyone rushes to preload Lost Ark](https://www.pcgamer.com/lost-ark-steam-download)
+ - [PlayStation 5’s system update brings new features to party chat](https://www.polygon.com/22924060/ps5-ps4-system-software-update-beta-party-chat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
