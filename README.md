@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even More Evangelion Wedding Rings For Getting Hitched](https://kotaku.com/neon-genesis-evangelion-anime-wedding-rings-marriage-ja-1848498207)
- - [Should I turn my PC off at night?](https://www.pcgamer.com/should-i-leave-my-computer-running-all-the-time)
- - [How to get the Korek Charm in Dying Light 2](https://www.pcgamer.com/dying-light-2-korek-charm)<!-- GAME:END -->
+ - [Norco&#39;s Deep South cyberpunk dystopia is both a dream and a nightmare](https://www.pcgamer.com/norcos-deep-south-cyberpunk-dystopia-is-both-a-dream-and-a-nightmare)
+ - [Here are the 2022 Oscar nominations](https://www.polygon.com/22922440/oscar-nominations-2022-list)
+ - [The best wireless gaming keyboard in 2022](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
