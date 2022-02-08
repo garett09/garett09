@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Epos headsets are over 33% off for Valentines](https://www.pcgamer.com/these-epos-headsets-are-over-33-off-for-valentines)
- - [An Intel Arc Alchemist card smiles for the camera](https://www.pcgamer.com/an-intel-arc-alchemist-card-smiles-for-the-camera)
- - [Someone applied Da Vinci style aerodynamics to a modern-day drone](https://www.pcgamer.com/someone-applied-da-vinci-style-aerodynamics-to-a-modern-day-drone)<!-- GAME:END -->
+ - [Resident Evil 4 remake needs to improve the story, says Mikami, mainly because we only had a fortnight to write it](https://www.pcgamer.com/resident-evil-4-remake-needs-to-improve-the-story-says-mikami-mainly-because-we-only-had-a-fortnight-to-write-it)
+ - [Age of Empires 3&#39;s historical battles get co-op support](https://www.pcgamer.com/age-of-empires-3s-historical-battles-get-co-op-support)
+ - [The Quest 2 is now the headset of choice for 46% of Steam VR users](https://www.pcgamer.com/the-quest-2-is-now-the-headset-of-choice-for-46-of-steam-vr-users)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
