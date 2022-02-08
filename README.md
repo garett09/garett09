@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [America’s Army going dark after 20 years](https://www.polygon.com/22924209/americas-army-proving-grounds-shutdown-servers-sunset-pc-ps4)
- - [Steam is hiccupping as everyone rushes to preload Lost Ark](https://www.pcgamer.com/lost-ark-steam-download)
- - [PlayStation 5’s system update brings new features to party chat](https://www.polygon.com/22924060/ps5-ps4-system-software-update-beta-party-chat)<!-- GAME:END -->
+ - [Apex Legends: Defiance is Here](https://news.xbox.com/en-us/2022/02/08/apex-legends-defiance-is-here/)
+ - [A blockchain hustler and a cringey rapper have been charged with laundering $4.5B in stolen bitcoin](https://www.pcgamer.com/a-blockchain-hustler-and-a-cringey-rapper-have-been-charged-with-laundering-dollar45b-in-stolen-bitcoin)
+ - [Destiny 2’s Witch Queen expansion treats weapon upgrades like golf clubs](https://www.polygon.com/22924109/destiny-2-the-witch-queen-bungie-interview-weapon-crafting-origin-artifact)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
