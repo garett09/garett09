@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These Epos headsets are over 33% off for Valentines](https://www.pcgamer.com/these-epos-headsets-are-over-33-off-for-valentines)
  - [An Intel Arc Alchemist card smiles for the camera](https://www.pcgamer.com/an-intel-arc-alchemist-card-smiles-for-the-camera)
- - [Someone applied Da Vinci style aerodynamics to a modern-day drone](https://www.pcgamer.com/someone-applied-da-vinci-style-aerodynamics-to-a-modern-day-drone)
- - [Nvidia driver update could help fix stuttering in Final Fantasy 7 Remake](https://www.pcgamer.com/nvidia-driver-update-could-help-fix-stuttering-in-final-fantasy-7-remake)<!-- GAME:END -->
+ - [Someone applied Da Vinci style aerodynamics to a modern-day drone](https://www.pcgamer.com/someone-applied-da-vinci-style-aerodynamics-to-a-modern-day-drone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
