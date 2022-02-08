@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget. Belgian contribution to the french parade.](http://9gag.com/gag/aBn2EMA)
+ - 🚖 [Are you ready for this?](http://9gag.com/gag/awzMdVD)
  - 🚯 [Cops are getting tired of the crack heads](http://9gag.com/gag/aRrXv8M)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
