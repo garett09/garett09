@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto infrastructure company Alchemy raises a $200M Series C extension from Lightspeed and Silver Lake at a $10.2B valuation, up from $3.5B in October 2021 &lpar;Jeff John Roberts/Decrypt&rpar;](http://www.techmeme.com/220208/p20#a220208p20)
- - [Apple TV+ scores six Oscar nominations, including Best Picture for &quot;CODA&quot;](https://appleinsider.com/articles/22/02/08/apple-tv-scores-six-oscar-nominations-including-best-picture-for-coda?utm_medium=rss)
- - [How to add a missing address or business to Google Maps](https://www.androidauthority.com/add-address-google-maps-3102499/)<!-- TECH:END -->
+ - [News with a Capital B: CEO Lauren Williams on why we need news for and by Black people](https://www.theverge.com/22922029/capital-b-ceo-lauren-williams-black-news-founder-startup-media-local)
+ - [How to restore tabs on Google Chrome](https://www.androidauthority.com/restore-tabs-google-chrome-3103701/)
+ - [As data centers grow, engineers at Meta, Google, and other companies worry about the reliability of ever-smaller chips and hardware failures with unclear causes &lpar;John Markoff/New York Times&rpar;](http://www.techmeme.com/220208/p23#a220208p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
