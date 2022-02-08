@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank&#39;s Masayoshi Son says he is planning a US IPO for Arm in March 2023, following the failure of the Nvidia deal; SoftBank keeps a $1.25B breakup fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/220208/p12#a220208p12)
- - [How Did the Bored Ape Yacht Club Get So Popular?](https://www.wired.com/story/celebrity-nfts)
- - [The Best Music Streaming Apps to Get Your Groove On](https://www.wired.com/gallery/best-music-streaming-apps)<!-- TECH:END -->
+ - [The EU details the Chips Act, a plan to make &amp;euro;43B in funding available for R&amp;D and chip production, seeking to compete with the US and Asia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220208/p15#a220208p15)
+ - [Myanmar’s Fight for Democracy Is Now a Scrap Over Phone Records](https://www.wired.com/story/telenor-myanmar-phone-records)
+ - [Cryptocurrency Is Funding Ukraine&#39;s Defense—and Its Hacktivists](https://www.wired.com/story/ukraine-russia-cryptocurrency-donations-hacktivism)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
