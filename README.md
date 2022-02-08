@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taichi Graphics, an open source cloud platform for 3D graphics creation, raises a $50M Series A co-led by Source Code Capital, GGV Capital, and BAI Capital &lpar;Pandaily&rpar;](http://www.techmeme.com/220208/p1#a220208p1)
- - [Mark your calendars! Motorola’s flagship is going global on this date](https://www.androidauthority.com/motorola-moto-edge-x30-global-launch-3103811/)
- - [Livspace, an online home interiors marketplace that connects customers with designers and vendors, raises an $180M Series F led by KKR at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220207/p31#a220207p31)<!-- TECH:END -->
+ - [Nvidia and SoftBank call off Nvidia&#39;s Arm acquisition; Arm CEO Simon Segars resigns and Arm&#39;s IP group president Rene Haas takes over; Arm is exploring an IPO &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220208/p2#a220208p2)
+ - [The Pixel 6 February update is breaking Wi-Fi for some](https://www.androidauthority.com/pixel-6-february-update-wi-fi-3103115/)
+ - [This is the end of the road for Pixel 3 and 3 XL updates](https://www.androidauthority.com/google-pixel-3-pixel-3-xl-last-update-3103833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
