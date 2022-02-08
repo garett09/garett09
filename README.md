@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU details the Chips Act, a plan to make &amp;euro;43B in funding available for R&amp;D and chip production, seeking to compete with the US and Asia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220208/p15#a220208p15)
- - [Myanmar’s Fight for Democracy Is Now a Scrap Over Phone Records](https://www.wired.com/story/telenor-myanmar-phone-records)
- - [Cryptocurrency Is Funding Ukraine&#39;s Defense—and Its Hacktivists](https://www.wired.com/story/ukraine-russia-cryptocurrency-donations-hacktivism)<!-- TECH:END -->
+ - [Crypto infrastructure company Alchemy raises a $200M Series C extension from Lightspeed and Silver Lake at a $10.2B valuation, up from $3.5B in October 2021 &lpar;Jeff John Roberts/Decrypt&rpar;](http://www.techmeme.com/220208/p20#a220208p20)
+ - [Apple TV+ scores six Oscar nominations, including Best Picture for &quot;CODA&quot;](https://appleinsider.com/articles/22/02/08/apple-tv-scores-six-oscar-nominations-including-best-picture-for-coda?utm_medium=rss)
+ - [How to add a missing address or business to Google Maps](https://www.androidauthority.com/add-address-google-maps-3102499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
