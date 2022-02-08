@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-BioShock developer explains the viral baguette boy’s whole deal](https://www.polygon.com/22923705/bioshock-baguette-boy-explained)
- - [Minecraft Was Getting Too Easy, So These Players Made Their Own Galactic Challenge](https://kotaku.com/minecraft-challenge-planets-solar-systems-hard-mode-one-1848499985)
- - [Season Two Brings Armored War Machines to Call of Duty: Vanguard and Warzone](https://news.xbox.com/en-us/2022/02/08/season-two-call-of-duty-vanguard-and-warzone/)<!-- GAME:END -->
+ - [How to beat Sifu: essential tips, the best skills, and how to fight every boss](https://www.pcgamer.com/sifu-tips-boss-guide)
+ - [New PS5 and PS4 System Software Betas Roll Out Tomorrow](https://blog.playstation.com/2022/02/08/new-ps5-and-ps4-system-software-betas-roll-out-tomorrow/)
+ - [New PS5 and PS4 System Software Betas Roll Out Tomorrow](https://blog.playstation.com/2022/02/08/new-ps5-and-ps4-system-software-betas-roll-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
