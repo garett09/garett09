@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Norco&#39;s Deep South cyberpunk dystopia is both a dream and a nightmare](https://www.pcgamer.com/norcos-deep-south-cyberpunk-dystopia-is-both-a-dream-and-a-nightmare)
- - [Here are the 2022 Oscar nominations](https://www.polygon.com/22922440/oscar-nominations-2022-list)
- - [The best wireless gaming keyboard in 2022](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen’s new video gives players more than 13 minutes of footage](https://www.polygon.com/22922418/destiny-2-the-witch-queen-vidoc-video-preview-season-risen)
+ - [Andy Serkis is your Space Marine boss in new Warhammer 40K game, Chaos Gate](https://www.polygon.com/tabletop-games/22921936/40k-chaos-gate-daemonhunters-andy-serkis-voiceover-reveal-interview)
+ - [Surprise, The First Nintendo Direct Of The Year Has Been Scheduled](https://kotaku.com/nintendo-switch-direct-botw-2-splatoon-3-kirby-mario-ka-1848498702)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
