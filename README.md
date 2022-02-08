@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple signs series order for dark comedy &#39;Sunny&#39;](https://appleinsider.com/articles/22/02/08/apple-signs-series-order-for-dark-comedy-sunny?utm_medium=rss)
- - [A leaked press release says Samsung will unveil three new Galaxy tablets, an 11&quot; Tab S8, a 12.4&quot; Tab S8 Plus, and a 14.6&quot; Tab S8 Ultra, at its Unpacked event &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220207/p28#a220207p28)
- - [Apple Studios announces 1970s throwback comedy &#39;Mrs. American Pie&#39;](https://appleinsider.com/articles/22/02/08/apple-studios-announces-1970s-throwback-comedy-mrs-american-pie?utm_medium=rss)<!-- TECH:END -->
+ - [Bluesky, the decentralized social media initiative announced by Twitter in 2019, becomes a Public Benefit LLC with Jack Dorsey as one of the board members &lpar;Jay Graber/Bluesky&rpar;](http://www.techmeme.com/220207/p29#a220207p29)
+ - [New Beats Fit Pro ads feature Naomi Osaka, Vince Staples &amp; others](https://appleinsider.com/articles/22/02/08/new-beats-fit-pro-ads-feature-naomi-osaka-vince-staples-others?utm_medium=rss)
+ - [Apple signs series order for dark comedy &#39;Sunny&#39;](https://appleinsider.com/articles/22/02/08/apple-signs-series-order-for-dark-comedy-sunny?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
