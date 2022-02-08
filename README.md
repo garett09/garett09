@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s Online Safety Bill will mandate porn websites verify users&#39; age or face fines; similar proposals were quietly dropped in 2019 after criticism &lpar;Shiona McCallum/BBC&rpar;](http://www.techmeme.com/220208/p7#a220208p7)
- - [London-based m3ter, which helps SaaS companies charge clients on a usage basis, emerges from stealth with $17.5M from Kindred Capital and others &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220208/p6#a220208p6)
- - [Galaxy S22: What to expect from Samsung’s February Unpacked](https://www.theverge.com/2022/1/26/22902649/samsung-galaxy-s22-unpacked-event-tab-s8-home-mini-2-date)<!-- TECH:END -->
+ - [UK-based GoCardless, which processes direct debit payments for Klarna, DocuSign, and others, raises $312M led by Permira at a $2.1B valuation &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220208/p10#a220208p10)
+ - [New MacBook Pro could come in Apple&#39;s March event](https://appleinsider.com/articles/22/02/08/new-macbook-pro-could-come-in-apples-march-event?utm_medium=rss)
+ - [Poll: When was the last time your phone received an update?](https://www.androidauthority.com/phone-update-last-time-poll-3103893/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
