@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 remake needs to improve the story, says Mikami, mainly because we only had a fortnight to write it](https://www.pcgamer.com/resident-evil-4-remake-needs-to-improve-the-story-says-mikami-mainly-because-we-only-had-a-fortnight-to-write-it)
- - [Age of Empires 3&#39;s historical battles get co-op support](https://www.pcgamer.com/age-of-empires-3s-historical-battles-get-co-op-support)
- - [The Quest 2 is now the headset of choice for 46% of Steam VR users](https://www.pcgamer.com/the-quest-2-is-now-the-headset-of-choice-for-46-of-steam-vr-users)<!-- GAME:END -->
+ - [Even More Evangelion Wedding Rings For Getting Hitched](https://kotaku.com/neon-genesis-evangelion-anime-wedding-rings-marriage-ja-1848498207)
+ - [Should I turn my PC off at night?](https://www.pcgamer.com/should-i-leave-my-computer-running-all-the-time)
+ - [How to get the Korek Charm in Dying Light 2](https://www.pcgamer.com/dying-light-2-korek-charm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
