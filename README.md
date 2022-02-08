@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Are you ready for this?](http://9gag.com/gag/awzMdVD)
- - 🚯 [Cops are getting tired of the crack heads](http://9gag.com/gag/aRrXv8M)
+ - 🚯 [It didn\u2019t go as planned for FB](http://9gag.com/gag/aYroMQq)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
