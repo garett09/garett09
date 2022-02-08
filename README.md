@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Chinese `winter` olympics alpine skiing slopes. All fake snow. Picture taken by the Norwegian skier Kjetil Jansrud from his plane.](http://9gag.com/gag/apgN3VD)
- - 🚯 [Don&#39;t care if people say he is not funny but to me he shaped my sense of humor](http://9gag.com/gag/a217ML1)
- - 🚯 [Daaaamn lol](http://9gag.com/gag/a11r7oD)<!-- MEMES:END -->
+ - 🚯 [Vegan milk](http://9gag.com/gag/aRrXZOq)
+ - 🚯 [Injured? Good! Or: How not to treat a horse](http://9gag.com/gag/aWgjLnZ)<!-- MEMES:END -->
 
 --- 
 
