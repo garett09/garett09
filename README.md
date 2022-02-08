@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yum](http://9gag.com/gag/aKm6Wpb)
- - 🚯 [Sorry kid, he\u2019s my dad!](http://9gag.com/gag/aWgjo8q)
+ - 🚖 [It looks like a baboons @$](http://9gag.com/gag/a0Z7n4n)
+ - 🚯 [So much of this crap going around at the moment](http://9gag.com/gag/a91E8EK)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
