@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming Apple developer sessions will detail new App Store features](https://appleinsider.com/articles/22/02/08/upcoming-apple-developer-sessions-will-detail-new-app-store-features?utm_medium=rss)
- - [Airmeet, which offers online event hosting services, raises a $35M Series B, and says it helped 120K+ event organizers stream 150M minutes of video in 2021 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220208/p31#a220208p31)
- - [Google’s latest Pixel 6 update breaks things, again](https://www.theverge.com/2022/2/8/22923777/pixel-6-pro-february-update-wifi-bluetooth-bugs)<!-- TECH:END -->
+ - [The Alt-Right on Facebook Are Hijacking Canada’s Trucker Blockade](https://www.wired.com/story/ottawa-trucker-protest-facebook-alt-right)
+ - [iOS 15.4 beta 2 adds framework for Tap to Pay on iPhone](https://appleinsider.com/articles/22/02/08/ios-154-beta-2-adds-framework-for-tap-to-pay-on-iphone?utm_medium=rss)
+ - [Fantastical calendar app now lets people book &#39;Openings&#39; for meetings](https://appleinsider.com/articles/22/02/08/fantastical-calendar-app-now-lets-people-book-openings-for-meetings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
