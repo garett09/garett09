@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Art Of OlliOlli World](https://kotaku.com/olliolli-world-skateboarding-art-animation-cartoon-swit-1848496727)
  - [Wordle&#39;s &#39;Best&#39; Starting Word Has Been Found, And Ruined, By Math](https://kotaku.com/wordle-starting-word-math-science-bot-algorithm-crane-p-1848496404)
- - [Grand Theft Auto: The Trilogy is a big sales hit despite being a mess at launch](https://www.pcgamer.com/grand-theft-auto-the-trilogy-is-a-big-sales-hit-despite-being-a-mess-at-launch)
- - [Do glory kills need to calm the hell down?](https://www.pcgamer.com/do-glory-kills-need-to-calm-the-hell-down)<!-- GAME:END -->
+ - [Grand Theft Auto: The Trilogy is a big sales hit despite being a mess at launch](https://www.pcgamer.com/grand-theft-auto-the-trilogy-is-a-big-sales-hit-despite-being-a-mess-at-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
