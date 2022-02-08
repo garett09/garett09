@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)
- - 🚯 [Trust](http://9gag.com/gag/aOQ32xy)
- - 🚯 [Don&#39;t care if people say he is not funny but to me he shaped my sense of humor](http://9gag.com/gag/a217ML1)<!-- MEMES:END -->
+ - 🚖 [Chinese `winter` olympics alpine skiing slopes. All fake snow. Picture taken by the Norwegian skier Kjetil Jansrud from his plane.](http://9gag.com/gag/apgN3VD)
+ - 🚯 [Don&#39;t care if people say he is not funny but to me he shaped my sense of humor](http://9gag.com/gag/a217ML1)
+ - 🚯 [Daaaamn lol](http://9gag.com/gag/a11r7oD)<!-- MEMES:END -->
 
 --- 
 
