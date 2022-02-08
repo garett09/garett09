@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X5 Pro: All the rumors so far &lpar;Updated: Feb. 08&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [BharatPe, an Indian fintech unicorn backed by VCs such as Sequoia and Coatue, is facing allegations of embezzlement, impropriety in merchant dealings, and more &lpar;Nikhil Subramaniam/Inc42 Media&rpar;](http://www.techmeme.com/220208/p4#a220208p4)
- - [SoftBank and Nvidia call off $40 billion deal for Arm     - CNET](https://www.cnet.com/news/softbank-and-nvidia-call-off-40-billion-deal-for-arm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic won’t update Fortnite to run on the Steam Deck](https://www.theverge.com/2022/2/8/22923163/fortnite-steam-deck-update-epic-tim-sweeney)
+ - [It’s official: Nvidia calls off $40 billion deal to buy Arm](https://www.androidauthority.com/nvidia-not-buying-arm-3103914/)
+ - [Oppo Find X5 Pro: All the rumors so far &lpar;Updated: Feb. 08&rpar;](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
