@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is in talks to acquire cybersecurity research and incident response company Mandiant, whose stock closed up 17.86% today &lpar;Bloomberg&rpar;](http://www.techmeme.com/220208/p34#a220208p34)
- - [Wallet driver&#39;s license support resurfaces in second iOS 15.4 developer beta](https://appleinsider.com/articles/22/02/08/wallet-drivers-license-support-resurfaces-in-second-ios-154-developer-beta?utm_medium=rss)
- - [Partech Partners report: African startups raised a record $5.2B in 2021 across 681 deals, up from $1.43B across 359 deals in 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220208/p33#a220208p33)<!-- TECH:END -->
+ - [Apple’s Tap to Pay feature lets newer iPhones accept contactless payments](https://www.theverge.com/2022/2/8/22923463/apple-iphone-tap-to-pay-contactless-shopify-nfc)
+ - [GlobalFoundries reports Q4 revenue of $1.85B, up 74% YoY, net income of $43M, up 108% YoY, and FY 2021 revenue of $6.59B, up 36% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220208/p36#a220208p36)
+ - [TikTok is banning misgendering, deadnaming, and content promoting disordered eating](https://www.theverge.com/2022/2/8/22924019/tiktok-bans-misgendering-deadnaming-disordered-eating)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
