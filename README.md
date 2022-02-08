@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 4 gets new straps, faces, but still no Google Assistant](https://www.androidauthority.com/samsung-galaxy-watch-4-straps-2022-3103478/)
- - [Samsung’s Galaxy Watch 4 will track your sleep with cartoon animals](https://www.theverge.com/2022/2/7/22921615/samsung-galaxy-watch-4-wear-os-google-assistant-wearables-smartwatch)
- - [Billionaire tech investor Peter Thiel leaves Meta board     - CNET](https://www.cnet.com/tech/billionaire-tech-investor-peter-thiel-leaves-meta-board/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s sale of Arm to Nvidia collapses; source says SoftBank will receive a breakup fee of up to $1.25B and plans to unload Arm via an IPO in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/220207/p25#a220207p25)
+ - [Amazon’s new Super Bowl ad features a creepy mind-reading Alexa](https://www.theverge.com/2022/2/7/22922002/amazon-alexa-super-bowl-ad-2022-mind-reading-scarlett-johansson-colin-jost)
+ - [Madden NFL 22 predicts Cincinnati Bengals win in Super Bowl     - CNET](https://www.cnet.com/tech/gaming/madden-nfl-22-predicts-cincinnati-bengals-win-in-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
