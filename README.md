@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art Of OlliOlli World](https://kotaku.com/olliolli-world-skateboarding-art-animation-cartoon-swit-1848496727)
- - [Wordle&#39;s &#39;Best&#39; Starting Word Has Been Found, And Ruined, By Math](https://kotaku.com/wordle-starting-word-math-science-bot-algorithm-crane-p-1848496404)
- - [Grand Theft Auto: The Trilogy is a big sales hit despite being a mess at launch](https://www.pcgamer.com/grand-theft-auto-the-trilogy-is-a-big-sales-hit-despite-being-a-mess-at-launch)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Ghostwire: Tokyo launches March 25 on PS5, new gameplay details from Tango Gameworks](https://blog.playstation.com/2022/02/07/20220207-ghostwire/)
+ - [&lpar;For Southeast Asia&rpar; Ghostwire: Tokyo launches March 25 on PS5, new gameplay details from Tango Gameworks](https://blog.playstation.com/2022/02/07/20220207-ghostwire/)
+ - [&lpar;For Southeast Asia&rpar; Speed into New Realms when Sonic Frontiers Races onto PS5™ &amp; PS4® in Winter, 2022!](https://blog.playstation.com/2022/02/07/20220207-sonic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
