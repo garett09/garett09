@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese `winter` olympics alpine skiing slopes. All fake snow. Picture taken by the Norwegian skier Kjetil Jansrud from his plane.](http://9gag.com/gag/apgN3VD)
- - 🚯 [Vegan milk](http://9gag.com/gag/aRrXZOq)
- - 🚯 [Injured? Good! Or: How not to treat a horse](http://9gag.com/gag/aWgjLnZ)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t let your dreams just be dreams](http://9gag.com/gag/aBn2V9Z)
+ - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
+ - 🚯 [Billionaire Mark Cuban has launched a war against Big Pharma. Recently, he started an online pharmacy where over 100 lifesaving medications are offered at low costs. He charges a standard 15% markup in an industry that typically sees no less than 100% markup.](http://9gag.com/gag/aDDdnBw)<!-- MEMES:END -->
 
 --- 
 
