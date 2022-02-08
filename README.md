@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
- - 🚯 [Injured? Good! Or: How not to treat a horse](http://9gag.com/gag/aWgjLnZ)
+ - 🚖 [Always](http://9gag.com/gag/a0Z70od)
+ - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
  - 🚯 [Vegan milk](http://9gag.com/gag/aRrXZOq)<!-- MEMES:END -->
 
 --- 
