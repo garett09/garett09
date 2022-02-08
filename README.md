@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank&#39;s sale of Arm to Nvidia collapses; source says SoftBank will receive a breakup fee of up to $1.25B and plans to unload Arm via an IPO in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/220207/p25#a220207p25)
- - [Amazon’s new Super Bowl ad features a creepy mind-reading Alexa](https://www.theverge.com/2022/2/7/22922002/amazon-alexa-super-bowl-ad-2022-mind-reading-scarlett-johansson-colin-jost)
- - [Madden NFL 22 predicts Cincinnati Bengals win in Super Bowl     - CNET](https://www.cnet.com/tech/gaming/madden-nfl-22-predicts-cincinnati-bengals-win-in-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Selina Finance, a London-based online lender for SMBs and consumers that leverages their home equity, raises a $150M Series B, $35M in equity and $115M in debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220207/p27#a220207p27)
+ - [After pulling songs, Neil Young is telling Spotify employees to quit their jobs](https://www.theverge.com/22922714/neil-young-spotify-letter-ceo-daniel-ek-employees-joe-rogan)
+ - [Nvidia officially backing out of $66 billion acquisition of Arm](https://appleinsider.com/articles/22/02/08/nvidia-officially-backing-out-of-66-billion-acquisition-of-arm?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
