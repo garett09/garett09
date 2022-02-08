@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s talk the Oscar noms’ snubs, surprises, and severe lack of Lady Gaga](https://www.polygon.com/22923345/2022-oscars-nominations-snubs-dune-lady-gaga-academy-awards)
- - [Uh Oh, Now Pokémon Has A Wordle, Too](https://kotaku.com/wordle-squirdle-daily-puzzle-word-game-free-browser-1848499480)
- - [Evil Dead: The Game – Adapting on-screen horror into the game](https://blog.playstation.com/2022/02/08/evil-dead-the-game-adapting-on-screen-horror-into-the-game/)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus Players Find Glitch To Clone Shinies](https://kotaku.com/pokemon-legends-arceus-shiny-clone-exploit-nintendo-sw-1848500225)
+ - [Tap into the Mind of a Cult Leader in Far Cry 6’s Joseph: Collapse DLC](https://news.xbox.com/en-us/2022/02/08/far-cry-6-joseph-collapse-dlc/)
+ - [Sifu stands to learn some manners from Absolver](https://www.pcgamer.com/sifu-stands-to-learn-some-manners-from-absolver)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
