@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like a sexy hammerhead shark](http://9gag.com/gag/a41E60Q)
- - 🚯 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)
- - 🚯 [Trust](http://9gag.com/gag/aOQ32xy)<!-- MEMES:END -->
+ - 🚖 [Meta is threatening to leave EU, if they are not allowed to store the EU-users&#39; data on US servers. Bye, Zuckerberg!](http://9gag.com/gag/aXroLyz)
+ - 🚯 [Trust](http://9gag.com/gag/aOQ32xy)
+ - 🚯 [Don&#39;t care if people say he is not funny but to me he shaped my sense of humor](http://9gag.com/gag/a217ML1)<!-- MEMES:END -->
 
 --- 
 
