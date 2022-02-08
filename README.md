@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As an agree owner..i can cat](http://9gag.com/gag/aM4Kn8R)
- - 🚯 [Mother of the year](http://9gag.com/gag/a11r062)
- - 🚯 [It&#39;s been a while since I ve woken zion](http://9gag.com/gag/angQvjE)<!-- MEMES:END -->
+ - 🚖 [What the dog doin? No serriously. Why some dog legs move unintentionally? Like have their own brain](http://9gag.com/gag/a217yPO)
+ - 🚯 [She was in his grill so he went for the kill....](http://9gag.com/gag/angQvVq)
+ - 🚯 [I m 24 and this is my first car. Not much but i m proud af](http://9gag.com/gag/a41E5Dw)<!-- MEMES:END -->
 
 --- 
 
