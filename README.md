@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t let your dreams just be dreams](http://9gag.com/gag/aBn2V9Z)
- - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
- - 🚯 [Billionaire Mark Cuban has launched a war against Big Pharma. Recently, he started an online pharmacy where over 100 lifesaving medications are offered at low costs. He charges a standard 15% markup in an industry that typically sees no less than 100% markup.](http://9gag.com/gag/aDDdnBw)<!-- MEMES:END -->
+ - 🚖 [Berlin today .... Dumdums belong to a group called &#39;Last Generation&#39;](http://9gag.com/gag/a217wmY)
+ - 🚯 [Every f@#ing time](http://9gag.com/gag/ay9M6p8)
+ - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)<!-- MEMES:END -->
 
 --- 
 
