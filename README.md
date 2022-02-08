@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen’s new video gives players more than 13 minutes of footage](https://www.polygon.com/22922418/destiny-2-the-witch-queen-vidoc-video-preview-season-risen)
- - [Andy Serkis is your Space Marine boss in new Warhammer 40K game, Chaos Gate](https://www.polygon.com/tabletop-games/22921936/40k-chaos-gate-daemonhunters-andy-serkis-voiceover-reveal-interview)
- - [Surprise, The First Nintendo Direct Of The Year Has Been Scheduled](https://kotaku.com/nintendo-switch-direct-botw-2-splatoon-3-kirby-mario-ka-1848498702)<!-- GAME:END -->
+ - [Let’s talk the Oscar noms’ snubs, surprises, and severe lack of Lady Gaga](https://www.polygon.com/22923345/2022-oscars-nominations-snubs-dune-lady-gaga-academy-awards)
+ - [Uh Oh, Now Pokémon Has A Wordle, Too](https://kotaku.com/wordle-squirdle-daily-puzzle-word-game-free-browser-1848499480)
+ - [Evil Dead: The Game – Adapting on-screen horror into the game](https://blog.playstation.com/2022/02/08/evil-dead-the-game-adapting-on-screen-horror-into-the-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
