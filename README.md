@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Ghostwire: Tokyo launches March 25 on PS5, new gameplay details from Tango Gameworks](https://blog.playstation.com/2022/02/07/20220207-ghostwire/)
- - [&lpar;For Southeast Asia&rpar; Ghostwire: Tokyo launches March 25 on PS5, new gameplay details from Tango Gameworks](https://blog.playstation.com/2022/02/07/20220207-ghostwire/)
- - [&lpar;For Southeast Asia&rpar; Speed into New Realms when Sonic Frontiers Races onto PS5™ &amp; PS4® in Winter, 2022!](https://blog.playstation.com/2022/02/07/20220207-sonic/)<!-- GAME:END -->
+ - [Nvidia driver update could help fix stuttering in Final Fantasy 7 Remake](https://www.pcgamer.com/nvidia-driver-update-could-help-fix-stuttering-in-final-fantasy-7-remake)
+ - [Nvidia&#39;s upcoming GeForce MX550 mobile GPU struggles to beat AMD Vega integrated graphics](https://www.pcgamer.com/nvidias-upcoming-geforce-mx550-mobile-gpu-struggles-to-beat-amd-vega-integrated-graphics)
+ - [&lpar;For Southeast Asia&rpar; Ghostwire: Tokyo launches March 25 on PS5, new gameplay details from Tango Gameworks](https://blog.playstation.com/2022/02/07/20220207-ghostwire/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
