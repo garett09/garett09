@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the dog doin? No serriously. Why some dog legs move unintentionally? Like have their own brain](http://9gag.com/gag/a217yPO)
- - 🚯 [She was in his grill so he went for the kill....](http://9gag.com/gag/angQvVq)
- - 🚯 [I m 24 and this is my first car. Not much but i m proud af](http://9gag.com/gag/a41E5Dw)<!-- MEMES:END -->
+ - 🚖 [Dear diary](http://9gag.com/gag/aDDdZNd)
+ - 🚯 [Yum](http://9gag.com/gag/aKm6Wpb)
+ - 🚯 [Empty threats](http://9gag.com/gag/aKm6WLb)<!-- MEMES:END -->
 
 --- 
 
