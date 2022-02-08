@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taichi Graphics, an open source cloud platform for 3D graphics creation, raises a $50M Series A co-led by Source Code Capital, GGV Capital, and BAI Capital &lpar;Pandaily&rpar;](http://www.techmeme.com/220208/p1#a220208p1)
  - [Mark your calendars! Motorola’s flagship is going global on this date](https://www.androidauthority.com/motorola-moto-edge-x30-global-launch-3103811/)
- - [Livspace, an online home interiors marketplace that connects customers with designers and vendors, raises a $180M Series F led by KKR at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220207/p31#a220207p31)
- - [Signal now lets users change the phone number associated with their account while retaining their messages, profile information, and groups &lpar;Chris Duckett/ZDNet&rpar;](http://www.techmeme.com/220207/p30#a220207p30)<!-- TECH:END -->
+ - [Livspace, an online home interiors marketplace that connects customers with designers and vendors, raises an $180M Series F led by KKR at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220207/p31#a220207p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
