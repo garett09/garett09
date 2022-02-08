@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always going back to them](http://9gag.com/gag/aLvp49A)
- - 🚯 [Tough luck](http://9gag.com/gag/awzM1p1)
- - 🚯 [Boys will be boys](http://9gag.com/gag/angQvOL)<!-- MEMES:END -->
+ - 🚖 [As an agree owner..i can cat](http://9gag.com/gag/aM4Kn8R)
+ - 🚯 [Mother of the year](http://9gag.com/gag/a11r062)
+ - 🚯 [It&#39;s been a while since I ve woken zion](http://9gag.com/gag/angQvjE)<!-- MEMES:END -->
 
 --- 
 
