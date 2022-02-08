@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every f@#ing time](http://9gag.com/gag/ay9M6p8)
- - 🚯 [Billionaire Mark Cuban has launched a war against Big Pharma. Recently, he started an online pharmacy where over 100 lifesaving medications are offered at low costs. He charges a standard 15% markup in an industry that typically sees no less than 100% markup.](http://9gag.com/gag/aDDdnBw)
- - 🚯 [Putin enjoying his day](http://9gag.com/gag/aNPpVr0)<!-- MEMES:END -->
+ - 🚖 [Always going back to them](http://9gag.com/gag/aLvp49A)
+ - 🚯 [Tough luck](http://9gag.com/gag/awzM1p1)
+ - 🚯 [Boys will be boys](http://9gag.com/gag/angQvOL)<!-- MEMES:END -->
 
 --- 
 
