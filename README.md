@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal now lets users change the phone number associated with their account while retaining their messages, profile information, and groups &lpar;Chris Duckett/ZDNet&rpar;](http://www.techmeme.com/220207/p30#a220207p30)
- - [Bluesky, the decentralized social media initiative announced by Twitter in 2019, becomes a Public Benefit LLC with Jack Dorsey as one of the board members &lpar;Jay Graber/Bluesky&rpar;](http://www.techmeme.com/220207/p29#a220207p29)
- - [New Beats Fit Pro ads feature Naomi Osaka, Vince Staples &amp; others](https://appleinsider.com/articles/22/02/08/new-beats-fit-pro-ads-feature-naomi-osaka-vince-staples-others?utm_medium=rss)<!-- TECH:END -->
+ - [Mark your calendars! Motorola’s flagship is going global on this date](https://www.androidauthority.com/motorola-moto-edge-x30-global-launch-3103811/)
+ - [Livspace, an online home interiors marketplace that connects customers with designers and vendors, raises a $180M Series F led by KKR at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220207/p31#a220207p31)
+ - [Signal now lets users change the phone number associated with their account while retaining their messages, profile information, and groups &lpar;Chris Duckett/ZDNet&rpar;](http://www.techmeme.com/220207/p30#a220207p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
