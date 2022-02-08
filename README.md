@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored war machines deploy in Call of Duty: Vanguard and Warzone Season Two](https://blog.playstation.com/2022/02/08/armored-war-machines-deploy-in-call-of-duty-vanguard-and-warzone-season-two/)
- - [OlliOlli World is Available Today and We’re Here to Help You Become a Skate God](https://news.xbox.com/en-us/2022/02/08/olliolli-world-is-available-today/)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Ex-BioShock developer explains the viral baguette boy’s whole deal](https://www.polygon.com/22923705/bioshock-baguette-boy-explained)
+ - [Minecraft Was Getting Too Easy, So These Players Made Their Own Galactic Challenge](https://kotaku.com/minecraft-challenge-planets-solar-systems-hard-mode-one-1848499985)
+ - [Season Two Brings Armored War Machines to Call of Duty: Vanguard and Warzone](https://news.xbox.com/en-us/2022/02/08/season-two-call-of-duty-vanguard-and-warzone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
