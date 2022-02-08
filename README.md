@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Tap to Pay feature lets newer iPhones accept contactless payments](https://www.theverge.com/2022/2/8/22923463/apple-iphone-tap-to-pay-contactless-shopify-nfc)
- - [GlobalFoundries reports Q4 revenue of $1.85B, up 74% YoY, net income of $43M, up 108% YoY, and FY 2021 revenue of $6.59B, up 36% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220208/p36#a220208p36)
- - [TikTok is banning misgendering, deadnaming, and content promoting disordered eating](https://www.theverge.com/2022/2/8/22924019/tiktok-bans-misgendering-deadnaming-disordered-eating)<!-- TECH:END -->
+ - [What on Earth is going on with Peloton?](https://www.theverge.com/2022/2/8/22923434/peloton-foley-ceo-layoffs-earnings-connected-fitness)
+ - [How to delete your Instagram account](https://www.theverge.com/22786305/how-to-delete-restore-instagram-account-web-app-temporarily-suspend)
+ - [Apple’s Tap to Pay feature lets newer iPhones accept contactless payments](https://www.theverge.com/2022/2/8/22923463/apple-iphone-tap-to-pay-contactless-shopify-nfc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
