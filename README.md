@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sneaky NY Times Crossword Breaks Star Wars, Star Trek Fans’ Brains](https://kotaku.com/new-york-times-crossword-sunday-star-wars-star-trek-puz-1848495939)
- - [BioShock Infinite&#39;s Bread Boy proves game development is a fathomless mystery](https://www.pcgamer.com/bioshock-infinites-bread-boy-proves-game-development-is-a-fathomless-mystery)
- - [Reacher does Sherlock Holmes mystery with a massively jacked lead](https://www.polygon.com/reviews/22922053/reacher-review-prime-season-1-cast)<!-- GAME:END -->
+ - [Wordle&#39;s &#39;Best&#39; Starting Word Has Been Found, And Ruined, By Math](https://kotaku.com/wordle-starting-word-math-science-bot-algorithm-crane-p-1848496404)
+ - [Grand Theft Auto: The Trilogy is a big sales hit despite being a mess at launch](https://www.pcgamer.com/grand-theft-auto-the-trilogy-is-a-big-sales-hit-despite-being-a-mess-at-launch)
+ - [Do glory kills need to calm the hell down?](https://www.pcgamer.com/do-glory-kills-need-to-calm-the-hell-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
