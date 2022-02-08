@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you had any hope of watching this wokeshow, think again.](http://9gag.com/gag/awzM1gB)
- - 🚯 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
- - 🚯 [Injured? Good! Or: How not to treat a horse](http://9gag.com/gag/aWgjLnZ)<!-- MEMES:END -->
+ - 🚖 [MYSTERY IN THE SKY: People in Cabo San Luca, Mexico, are questioning the source of a mysterious bright light that streaked across the sky on Saturday evening. Meteorite or space debris?](http://9gag.com/gag/ajgmOxg)
+ - 🚯 [Injured? Good! Or: How not to treat a horse](http://9gag.com/gag/aWgjLnZ)
+ - 🚯 [Vegan milk](http://9gag.com/gag/aRrXZOq)<!-- MEMES:END -->
 
 --- 
 
