@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trialjectory, which uses AI to match cancer patients to clinical trials, raises a $20M Series A led by Insight Partners &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/220208/p44#a220208p44)
- - [Promethium, an AI-powered augmented data management provider for data and analytics teams, raises a $26M Series A led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220208/p43#a220208p43)
- - [NASA says helicopters flying on Mars might glow at dusk     - CNET](https://www.cnet.com/news/nasa-says-helicopters-flying-on-mars-might-glow-at-dusk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Purchasing records and docs show that 14 of the 15 US Cabinet departments, and several other federal agencies, have acquired Cellebrite products in recent years &lpar;The Intercept&rpar;](http://www.techmeme.com/220208/p45#a220208p45)
+ - [Would you buy a OnePlus tablet? Leak says it’s coming with Android 12L on board.](https://www.androidauthority.com/oneplus-pad-android-12l-3104623/)
+ - [Apple TV+ non-fiction podcast &#39;The Line&#39; earns duPont-Columbia Award](https://appleinsider.com/articles/22/02/09/apple-tv-non-fiction-podcast-the-line-earns-dupont-columbia-award?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
