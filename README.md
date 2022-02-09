@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone 13 lineup versus Samsung Galaxy S22 lineup](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
- - [A look at the Open App Markets Act, aimed at curbing anti-competitive behavior from large app store operators like Apple and Google and headed to a Senate vote &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220209/p35#a220209p35)
- - [Samsung’s Galaxy S22 preorder site won’t let you preorder a phone](https://www.theverge.com/2022/2/9/22925827/samsung-galaxy-s22-plus-ultra-preorder-site-down)<!-- TECH:END -->
+ - [Tesla design chief takes shot at Apple, claims there&#39;s &#39;nothing to look forward to&#39;](https://appleinsider.com/articles/22/02/09/tesla-design-chief-takes-shot-at-apple-claims-theres-nothing-to-look-forward-to?utm_medium=rss)
+ - [Obi-Wan Kenobi premieres on Disney Plus on May 25th](https://www.theverge.com/2022/2/9/22921433/obi-wan-kenobi-disney-plus-release-date)
+ - [As a Galaxy S21 Ultra fan, I can’t get behind the Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-opinion-3102325/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
