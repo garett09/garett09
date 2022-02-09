@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Optane business is hurtling towards an unglorified end](https://www.pcgamer.com/intels-optane-business-is-hurtling-towards-an-unglorified-end)
- - [Europe sets sights on global semiconductor domination](https://www.pcgamer.com/europe-sets-sights-on-global-semiconductor-domination)
- - [Report: IGDA Failed To Act On Internal Harassment Claims](https://kotaku.com/igda-international-game-developers-association-harassme-1848503741)<!-- GAME:END -->
+ - [Nvidia&#39;s next generation Lovelace architecture may not differ all that much from Ampere](https://www.pcgamer.com/nvidias-next-generation-lovelace-architecture-may-not-differ-all-that-much-from-ampere)
+ - [Intel creating $1B foundry business to support disruptive tech](https://www.pcgamer.com/intel-creating-dollar1b-foundry-business-to-support-disruptive-tech)
+ - [Chrome&#39;s new search tool groups your history into categories](https://www.pcgamer.com/chromes-new-search-tool-groups-your-history-into-categories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
