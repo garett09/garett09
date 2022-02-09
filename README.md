@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So see? You&#39;re not so bad!](http://9gag.com/gag/aNPpjx3)
- - 🚯 [Scientists just generated record-breaking amounts of energy from Nuclear Fusion. 59 megajoules of energy was produced over 5 seconds, more than double of what was achieved in 1997](http://9gag.com/gag/a61ExqL)
- - 🚯 [So lucky...](http://9gag.com/gag/apgNd6b)<!-- MEMES:END -->
+ - 🚖 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
+ - 🚯 [Turdeau ordered arresting people for transporting fuel to demonstrators on `mischief charges` . People responded in a peaceful and humorous way.](http://9gag.com/gag/axBM4EL)
+ - 🚯 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)<!-- MEMES:END -->
 
 --- 
 
