@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers call on feds to drop Clearview AI facial recognition contracts](https://www.theverge.com/2022/2/9/22925094/clearview-facial-recognition-dhs-doj-justice-interior-pentagon)
- - [Most US Cabinet Departments have bought Cellebrite iPhone hacking tool](https://appleinsider.com/articles/22/02/09/most-us-cabinet-departments-have-bought-cellebrite-iphone-hacking-tool?utm_medium=rss)
- - [Everything you need to know about the bill that could blow up the app store](https://www.theverge.com/22914479/open-app-markets-act-legislation-senate-committee-markup-explained)<!-- TECH:END -->
+ - [SUPCASE, i-Blason, and Clayco: Casemakers with staying power](https://www.androidauthority.com/supcase-i-blason-clayco-3102581/)
+ - [Leaf Logistics, which uses AI-based tools to predict shipping disruptions, raises a $37M Series B led by Sozo Ventures, bringing its total funding to $60.7M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220209/p14#a220209p14)
+ - [Knitwear is slow, the knockoffs come fast](https://www.theverge.com/22905293/knitwear-knockoffs-designers-fast-fashion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
