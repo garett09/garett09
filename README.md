@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone 13 lineup versus Samsung Galaxy S22 lineup](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
- - [Microsoft hints it will open up Xbox store, changing its entire business model](https://www.theverge.com/2022/2/9/22925591/microsoft-xbox-store-open-policies-business-model-changes-hints)
- - [How the feds caught Heather Morgan and Ilya Lichtenstein as they allegedly attempted, rather sloppily, to launder bitcoin from the Bitfinex hack &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220209/p33#a220209p33)<!-- TECH:END -->
+ - [Apple says a ‘small portion’ of iPhones recorded interactions with Siri even if you opted out](https://www.theverge.com/2022/2/8/22924225/apple-ios-15-bug-recorded-interactions-siri)
+ - [Microsoft announces open app store rules to prove it’s okay with new laws](https://www.theverge.com/2022/2/9/22925544/microsoft-open-app-store-principles-windows-xbox)
+ - [Blumhouse’s Firestarter remake brings the heat in first trailer](https://www.theverge.com/2022/2/9/22925684/firestarter-trailer-blumhouse-stephen-king)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
