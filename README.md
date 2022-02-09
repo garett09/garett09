@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with over a dozen workers for rapid grocery delivery services in India show they spent months healing after injuries and paid their own medical bills &lpar;Shubham Agarwal/The Verge&rpar;](http://www.techmeme.com/220209/p1#a220209p1)
- - [Purchasing records and docs show that 14 of the 15 US Cabinet departments, and several other federal agencies, have acquired Cellebrite products in recent years &lpar;The Intercept&rpar;](http://www.techmeme.com/220208/p45#a220208p45)
- - [Would you buy a OnePlus tablet? Leak says it’s coming with Android 12L on board.](https://www.androidauthority.com/oneplus-pad-android-12l-3104623/)<!-- TECH:END -->
+ - [Xpressbees, an Indian logistics startup that works with many e-commerce companies in the country, raises a $300M Series F, bringing its total funding to $575.8M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220209/p3#a220209p3)
+ - [Analysis: supply chain management companies raised $11.3B in 2021, up from $5.9B in 2020 and beating the previous record of $9.1B in 2019 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220209/p2#a220209p2)
+ - [Google could make color theming mandatory for Android 12 devices](https://www.androidauthority.com/android-12-dynamic-theme-support-mandatory-3104675/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
