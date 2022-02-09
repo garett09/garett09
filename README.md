@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What on Earth is going on with Peloton?](https://www.theverge.com/2022/2/8/22923434/peloton-foley-ceo-layoffs-earnings-connected-fitness)
- - [How to delete your Instagram account](https://www.theverge.com/22786305/how-to-delete-restore-instagram-account-web-app-temporarily-suspend)
- - [Apple’s Tap to Pay feature lets newer iPhones accept contactless payments](https://www.theverge.com/2022/2/8/22923463/apple-iphone-tap-to-pay-contactless-shopify-nfc)<!-- TECH:END -->
+ - [New iOS 15.4 beta fixes bug that stored Siri recordings even if users opted out](https://appleinsider.com/articles/22/02/09/new-ios-154-beta-fixes-bug-that-stored-siri-recordings-even-if-users-opted-out?utm_medium=rss)
+ - [Twitter tells US Senator Wyden that it&#39;s &quot;transitioning&quot; away from using Mitto for passcodes, as the text message services firm faces surveillance accusations &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/220208/p41#a220208p41)
+ - [The Collapse of the Nvidia Deal Leaves Arm Exposed](https://www.wired.com/story/collapse-nvidia-deal-leaves-arm-exposed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
