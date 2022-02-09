@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi Note 11 review: Setting the bar for entry-level phones](https://www.androidauthority.com/redmi-note-11-review-3100945/)
- - [The WWF hyped and then canceled plans to raise money for conservation with NFTs on Polygon&#39;s &quot;eco-friendly blockchain&quot;, a fraught claim dismissed by experts &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/220209/p5#a220209p5)
- - [Movies and shows like Pam &amp; Tommy if you’re hooked on the Hulu miniseries](https://www.androidauthority.com/movies-shows-like-pam-and-tommy-hulu-3102483/)<!-- TECH:END -->
+ - [Swiss startup Scandit, which develops software for scanning barcodes, IDs, and more, raises a $150M Series D led by Warburg Pincus at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220209/p6#a220209p6)
+ - [How to watch today’s Samsung Galaxy Unpacked event](https://www.androidauthority.com/watch-galaxy-unpacked-2022-3103621/)
+ - [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
