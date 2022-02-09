@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trialjectory, which uses AI to match cancer patients to clinical trials, raises a $20M Series A led by Insight Partners &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/220208/p44#a220208p44)
  - [Promethium, an AI-powered augmented data management provider for data and analytics teams, raises a $26M Series A led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220208/p43#a220208p43)
- - [Glorious NASA view of sunrise from space offers a moment of blissful serenity     - CNET](https://www.cnet.com/news/glorious-nasa-view-of-sunrise-from-space-offers-a-moment-of-blissful-serenity/#ftag=CAD590a51e)
- - [A geomagnetic storm may have effectively destroyed 40 SpaceX Starlink satellites](https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm)<!-- TECH:END -->
+ - [NASA says helicopters flying on Mars might glow at dusk     - CNET](https://www.cnet.com/news/nasa-says-helicopters-flying-on-mars-might-glow-at-dusk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
