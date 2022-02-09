@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch Yourself Some New Skins, Items, and More During Ark’s Love Evolved Event](https://news.xbox.com/en-us/2022/02/09/catch-yourself-some-new-skins-items-and-more-during-arks-love-evolved-event/)
- - [Sony’s Gran Turismo AI thrashes the world’s best drivers](https://www.polygon.com/22925911/gran-turismo-sophy-ai-beats-humans-gt7)
- - [Neon Dynasty is Magic: The Gathering’s strongest Standard set in years](https://www.polygon.com/22925800/kamigawa-neon-dynasty-mtg-best-cards-standard-modern)<!-- GAME:END -->
+ - [Star Wars’ Obi-Wan Kenobi series has a release date and a new poster](https://www.polygon.com/star-wars/22926078/star-wars-obi-wan-kenobi-release-date-disney-plus-poster)
+ - [No Man’s Sky is coming to Nintendo Switch](https://www.polygon.com/22925907/no-mans-sky-nintendo-switch-release-date)
+ - [Nintendo Direct February 2022: All the news, trailers, and announcements](https://www.polygon.com/22925647/nintendo-direct-feb-2022-news-announcements-trailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
