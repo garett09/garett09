@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall in Love with the Phantasy Star Online 2: New Genesis February Update](https://news.xbox.com/en-us/2022/02/09/phantasy-star-online-2-new-genesis-february-update/)
- - [PUBG studio to use NFTs in &#39;UGC-driven open metaverse,&#39; whatever that means](https://www.pcgamer.com/pubg-studio-to-use-nfts-in-ugc-driven-open-metaverse-whatever-that-means)
- - [The Wolf Among Us 2 trailer takes us back down to Fabletown](https://www.pcgamer.com/the-wolf-among-us-2-trailer-takes-us-back-down-to-fabletown)<!-- GAME:END -->
+ - [Catch Yourself Some New Skins, Items, and More During Ark’s Love Evolved Event](https://news.xbox.com/en-us/2022/02/09/catch-yourself-some-new-skins-items-and-more-during-arks-love-evolved-event/)
+ - [Sony’s Gran Turismo AI thrashes the world’s best drivers](https://www.polygon.com/22925911/gran-turismo-sophy-ai-beats-humans-gt7)
+ - [Neon Dynasty is Magic: The Gathering’s strongest Standard set in years](https://www.polygon.com/22925800/kamigawa-neon-dynasty-mtg-best-cards-standard-modern)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
