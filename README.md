@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I m 24 and this is my first car. Not much but i m proud af](http://9gag.com/gag/a41E5Dw)
- - 🚯 [It looks like a baboons @$](http://9gag.com/gag/a0Z7n4n)
+ - 🚖 [Zuck: I will shut down Facebook and Instagram Europeans:](http://9gag.com/gag/aBn2GBA)
+ - 🚯 [Death is exceedingly natural](http://9gag.com/gag/aXro2Kv)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
