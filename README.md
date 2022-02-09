@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack on Titan Final Season Part 1 wins top prize at Crunchyroll’s Anime Awards](https://www.polygon.com/22924079/anime-awards-winners-list-2022-crunchyroll)
- - [It&#39;s official: Nvidia is now worth more than Meta](https://www.pcgamer.com/its-official-nvidia-is-now-worth-more-than-meta)
- - [This Dying Light 2 mod fixes the awkward physics and death animations](https://www.pcgamer.com/this-dying-light-2-mod-fixes-the-awkward-physics-and-death-animations)<!-- GAME:END -->
+ - [Report: Ubisoft Turning A Valhalla DLC Into Standalone Assassin&#39;s Creed Game](https://kotaku.com/assassins-creed-valhalla-dlc-spinoff-basim-eivor-next-g-1848507621)
+ - [Dive into the Chilling New Oceans Campaign Pack for Evil Genius 2: World Domination](https://news.xbox.com/en-us/2022/02/09/new-oceans-campaign-pack-for-evil-genius-2-world-domination/)
+ - [Esports tries out becoming real sports at the 2022 Commonwealth Games](https://www.pcgamer.com/esports-coming-to-the-2022-commonwealth-games-as-a-pilot-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
