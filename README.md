@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
- - 🚯 [Turdeau ordered arresting people for transporting fuel to demonstrators on `mischief charges` . People responded in a peaceful and humorous way.](http://9gag.com/gag/axBM4EL)
- - 🚯 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)<!-- MEMES:END -->
+ - 🚖 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)
+ - 🚯 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
+ - 🚯 [Stop](http://9gag.com/gag/amgPnej)<!-- MEMES:END -->
 
 --- 
 
