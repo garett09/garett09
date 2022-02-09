@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram rolls out tools to remove posts, comments, and other activity in bulk, after previewing the controls in December &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220209/p28#a220209p28)
- - [Where to buy the Samsung Galaxy S22, S22 Plus, and S22 Ultra](https://www.theverge.com/22923423/samsung-galaxy-s22-plus-ultra-buy-preorder-price-release-date)
- - [Which Samsung Galaxy S22 color is right for you?](https://www.androidauthority.com/samsung-galaxy-s22-colors-versions-3104693/)<!-- TECH:END -->
+ - [Galaxy S22 series: Here’s how much you’ll get for your old Samsung phone](https://www.androidauthority.com/samsung-galaxy-s22-series-trade-in-values-3103846/)
+ - [How to watch Nintendo’s big 40-minute Direct](https://www.theverge.com/2022/2/9/22923371/how-to-watch-nintendo-direct-2022-first-half-games-time-date)
+ - [How to preorder the Samsung Galaxy Tab S8 series](https://www.theverge.com/22923574/samsung-galaxy-tab-s8-plus-ultra-preorder-price-availability-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
