@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla design chief takes shot at Apple, claims there&#39;s &#39;nothing to look forward to&#39;](https://appleinsider.com/articles/22/02/09/tesla-design-chief-takes-shot-at-apple-claims-theres-nothing-to-look-forward-to?utm_medium=rss)
- - [Obi-Wan Kenobi premieres on Disney Plus on May 25th](https://www.theverge.com/2022/2/9/22921433/obi-wan-kenobi-disney-plus-release-date)
- - [As a Galaxy S21 Ultra fan, I can’t get behind the Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-opinion-3102325/)<!-- TECH:END -->
+ - [The biggest news and trailers from the first Nintendo Direct of 2022](https://www.theverge.com/2022/2/9/22925180/nintendo-direct-february-2022-mario-kart-wii-sports-xenoblade)
+ - [Reddit’s Clubhouse clone gets recordings and web support](https://www.theverge.com/2022/2/9/22925935/reddit-clubhouse-clone-recordings-web-features)
+ - [Mario Kart 8 Deluxe is getting 48 remastered courses over the next two years as paid DLC](https://www.theverge.com/2022/2/9/22926173/mario-kart-8-deluxe-is-48-remastered-courses-over-the-next-two-years-as-paid-dlc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
