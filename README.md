@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Movies and shows like Pam &amp; Tommy if you’re hooked on the Hulu miniseries](https://www.androidauthority.com/movies-shows-like-pam-and-tommy-hulu-3102483/)
- - [TikTok continues to allow ads encouraging ADHD self-diagnosis and medication, geared towards young users and likely violating its medical misinformation policy &lpar;Olivia Little/Media Matters for America&rpar;](http://www.techmeme.com/220209/p4#a220209p4)
- - [Diaries at the ready: The Redmi K50 series launch date is here](https://www.androidauthority.com/redmi-k50-launch-3104712/)<!-- TECH:END -->
+ - [Redmi Note 11 review: Setting the bar for entry-level phones](https://www.androidauthority.com/redmi-note-11-review-3100945/)
+ - [The WWF hyped and then canceled plans to raise money for conservation with NFTs on Polygon&#39;s &quot;eco-friendly blockchain&quot;, a fraught claim dismissed by experts &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/220209/p5#a220209p5)
+ - [Movies and shows like Pam &amp; Tommy if you’re hooked on the Hulu miniseries](https://www.androidauthority.com/movies-shows-like-pam-and-tommy-hulu-3102483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
