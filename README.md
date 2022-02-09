@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A geomagnetic storm may have effectively destroyed 40 SpaceX Starlink satellites](https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm)
- - [Peloton’s lead hardware engineer is leaving the company too](https://www.theverge.com/2022/2/8/22924180/peloton-hardware-commercial-operations-executives-vice-presidents-leave-company)
- - [IRS drops facial recognition verification after privacy concerns     - CNET](https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Promethium, an AI-powered augmented data management provider for data and analytics teams, raises a $26M Series A led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220208/p43#a220208p43)
+ - [Glorious NASA view of sunrise from space offers a moment of blissful serenity     - CNET](https://www.cnet.com/news/glorious-nasa-view-of-sunrise-from-space-offers-a-moment-of-blissful-serenity/#ftag=CAD590a51e)
+ - [A geomagnetic storm may have effectively destroyed 40 SpaceX Starlink satellites](https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
