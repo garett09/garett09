@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars’ Obi-Wan Kenobi series has a release date and a new poster](https://www.polygon.com/star-wars/22926078/star-wars-obi-wan-kenobi-release-date-disney-plus-poster)
- - [No Man’s Sky is coming to Nintendo Switch](https://www.polygon.com/22925907/no-mans-sky-nintendo-switch-release-date)
- - [Nintendo Direct February 2022: All the news, trailers, and announcements](https://www.polygon.com/22925647/nintendo-direct-feb-2022-news-announcements-trailers)<!-- GAME:END -->
+ - [Chrono Cross remaster announced for Nintendo Switch](https://www.polygon.com/nintendo/22926146/chrono-cross-remaster-switch)
+ - [Elon Musk&#39;s SpaceX loses 40 Starlink satellites in one day](https://www.pcgamer.com/elon-musks-spacex-loses-40-starlink-satellites-in-one-day)
+ - [Mario Kart 8 Deluxe is getting 48 remastered courses](https://www.polygon.com/22926172/mario-kart-8-deluxe-booster-course-pass-48-tracks-remaster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
