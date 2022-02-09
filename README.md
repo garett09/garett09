@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SUPCASE, i-Blason, and Clayco: Casemakers with staying power](https://www.androidauthority.com/supcase-i-blason-clayco-3102581/)
- - [Leaf Logistics, which uses AI-based tools to predict shipping disruptions, raises a $37M Series B led by Sozo Ventures, bringing its total funding to $60.7M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220209/p14#a220209p14)
- - [Knitwear is slow, the knockoffs come fast](https://www.theverge.com/22905293/knitwear-knockoffs-designers-fast-fashion)<!-- TECH:END -->
+ - [Samsung unveils the $1,100 Tab S8 Ultra, with a 14.6&quot; 120Hz display, 16GB RAM, two front-facing cameras, and Snapdragon Gen 1 chip, shipping later in February &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220209/p21#a220209p21)
+ - [Samsung unveils 6.1&quot; Galaxy S22 and 6.6&quot; S22+ with updated cameras, 10Hz-120Hz, and Snapdragon 8 Gen 1, coming February 25; S22 starts at $800, S22+ at $1,000 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220209/p20#a220209p20)
+ - [In the first trailer for Alex Garland’s Men, an ex-wife guy follows](https://www.theverge.com/2022/2/9/22925148/alex-garland-men-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
