@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends: Defiance is Here](https://news.xbox.com/en-us/2022/02/08/apex-legends-defiance-is-here/)
- - [A blockchain hustler and a cringey rapper have been charged with laundering $4.5B in stolen bitcoin](https://www.pcgamer.com/a-blockchain-hustler-and-a-cringey-rapper-have-been-charged-with-laundering-dollar45b-in-stolen-bitcoin)
- - [Destiny 2’s Witch Queen expansion treats weapon upgrades like golf clubs](https://www.polygon.com/22924109/destiny-2-the-witch-queen-bungie-interview-weapon-crafting-origin-artifact)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
+ - [Destiny 2’s Mysterious Bridge Is Finally Finished, And Nothing Happened](https://kotaku.com/destiny-2-season-lost-bungie-witch-queen-savathun-patch-1848503912)
+ - [America&#39;s Army is finally closing for good](https://www.pcgamer.com/americas-army-is-finally-closing-for-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
