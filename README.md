@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
- - 🚯 [This hits home ..](http://9gag.com/gag/aE8pQ3O)
- - 🚯 [Stop](http://9gag.com/gag/amgPnej)<!-- MEMES:END -->
+ - 🚖 [Collective memory, this is what childhood used to feel like before whatever kids experience today.](http://9gag.com/gag/aDDdNV9)
+ - 🚯 [Bush did 9/11](http://9gag.com/gag/aLvpb2A)
+ - 🚯 [Bloody hell, stop saying soccer!](http://9gag.com/gag/aNPp2nK)<!-- MEMES:END -->
 
 --- 
 
