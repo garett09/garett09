@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Death is exceedingly natural](http://9gag.com/gag/aXro2Kv)
- - 🚯 [The world&#39;s biggest floating crane `Hyundai 10000` carrying a huge ship](http://9gag.com/gag/avA5ddb)
+ - 🚖 [What is he even saying?](http://9gag.com/gag/a41EWov)
+ - 🚯 [German police vs \u2018freedom\u2019 protester](http://9gag.com/gag/aBn2GM2)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
