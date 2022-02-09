@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with over a dozen workers for rapid grocery delivery services in India show they spent months healing after injuries and paid their own medical bills &lpar;Shubham Agarwal/The Verge&rpar;](http://www.techmeme.com/220209/p1#a220209p1)
  - [Purchasing records and docs show that 14 of the 15 US Cabinet departments, and several other federal agencies, have acquired Cellebrite products in recent years &lpar;The Intercept&rpar;](http://www.techmeme.com/220208/p45#a220208p45)
- - [Would you buy a OnePlus tablet? Leak says it’s coming with Android 12L on board.](https://www.androidauthority.com/oneplus-pad-android-12l-3104623/)
- - [Apple TV+ non-fiction podcast &#39;The Line&#39; earns duPont-Columbia Award](https://appleinsider.com/articles/22/02/09/apple-tv-non-fiction-podcast-the-line-earns-dupont-columbia-award?utm_medium=rss)<!-- TECH:END -->
+ - [Would you buy a OnePlus tablet? Leak says it’s coming with Android 12L on board.](https://www.androidauthority.com/oneplus-pad-android-12l-3104623/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
