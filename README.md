@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Head Of Xbox Downplays Fears Of Game Pass Price Hike](https://kotaku.com/game-pass-price-starfield-call-of-duty-microsoft-xbox-e-1848508390)
- - [Get Your First Look at The Wolf Among Us 2](https://news.xbox.com/en-us/2022/02/09/first-look-the-wolf-among-us-2/)
- - [Fortnite Champion Series Chapter 3 dates, prize pool, and how to enter](https://www.pcgamer.com/fortnite-fncs-chapter-3)<!-- GAME:END -->
+ - [Fall in Love with the Phantasy Star Online 2: New Genesis February Update](https://news.xbox.com/en-us/2022/02/09/phantasy-star-online-2-new-genesis-february-update/)
+ - [PUBG studio to use NFTs in &#39;UGC-driven open metaverse,&#39; whatever that means](https://www.pcgamer.com/pubg-studio-to-use-nfts-in-ugc-driven-open-metaverse-whatever-that-means)
+ - [The Wolf Among Us 2 trailer takes us back down to Fabletown](https://www.pcgamer.com/the-wolf-among-us-2-trailer-takes-us-back-down-to-fabletown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
