@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Movies and shows like Pam &amp; Tommy if you’re hooked on the Hulu miniseries](https://www.androidauthority.com/movies-shows-like-pam-and-tommy-hulu-3102483/)
  - [TikTok continues to allow ads encouraging ADHD self-diagnosis and medication, geared towards young users and likely violating its medical misinformation policy &lpar;Olivia Little/Media Matters for America&rpar;](http://www.techmeme.com/220209/p4#a220209p4)
- - [Diaries at the ready: The Redmi K50 series launch date is here](https://www.androidauthority.com/redmi-k50-launch-3104712/)
- - [Xpressbees, an Indian logistics startup that works with many e-commerce companies in the country, raises a $300M Series F, bringing its total funding to $575.8M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220209/p3#a220209p3)<!-- TECH:END -->
+ - [Diaries at the ready: The Redmi K50 series launch date is here](https://www.androidauthority.com/redmi-k50-launch-3104712/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
