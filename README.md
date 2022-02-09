@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jim Sterling: From &#39;Pathetic Edgelord&#39; To YouTube&#39;s &#39;Princess Of Pansexual Pandemonium&#39;](https://kotaku.com/jim-stephanie-sterling-youtube-interview-jimquisition-w-1848501185)
- - [Dark Souls maker fixing dangerous PC exploit, looking at impact on Elden Ring](https://www.polygon.com/22925195/dark-souls-pvp-exploit-pc-elden-ring-remote-code-execution)
- - [OlliOlli World Is A Very Sick Skateboard Nerd’s Fantasy](https://kotaku.com/olliolli-world-review-ps5-skateboard-platformer-tricks-1848503493)<!-- GAME:END -->
+ - [Guerrilla Games shows off Horizon Forbidden West running on the base PS4](https://www.polygon.com/22925343/horizon-forbidden-west-ps4-performance-gameplay-video)
+ - [Halo Infinite Is Selling A Literal Halo](https://kotaku.com/halo-infinite-zeta-cosmetic-credits-perfect-circle-xbox-1848506622)
+ - [Security exploit will keep Dark Souls PC servers offline until after Elden Ring launch](https://www.pcgamer.com/security-exploit-will-keep-dark-souls-pc-servers-offline-until-after-elden-ring-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
