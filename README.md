@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caretaker goes to feed injured cat at shelter, but cat asks for a hug instead of food](http://9gag.com/gag/aXroRov)
- - 🚯 [Look How They Murdered My Boy](http://9gag.com/gag/angQGxV)
+ - 🚖 [Pls Dad](http://9gag.com/gag/aBn2oNQ)
+ - 🚯 [Boat sunk 3 days ago. Unbef*ckinglieveble](http://9gag.com/gag/aogMnA0)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
