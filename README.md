@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xpressbees, an Indian logistics startup that works with many e-commerce companies in the country, raises a $300M Series F, bringing its total funding to $575.8M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220209/p3#a220209p3)
- - [Analysis: supply chain management companies raised $11.3B in 2021, up from $5.9B in 2020 and beating the previous record of $9.1B in 2019 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220209/p2#a220209p2)
- - [Google could make color theming mandatory for Android 12 devices](https://www.androidauthority.com/android-12-dynamic-theme-support-mandatory-3104675/)<!-- TECH:END -->
+ - [TikTok continues to allow ads encouraging ADHD self-diagnosis and medication, geared towards young users and likely violating its medical misinformation policy &lpar;Olivia Little/Media Matters for America&rpar;](http://www.techmeme.com/220209/p4#a220209p4)
+ - [Diaries at the ready: The Redmi K50 series launch date is here](https://www.androidauthority.com/redmi-k50-launch-3104712/)
+ - [Xpressbees, an Indian logistics startup that works with many e-commerce companies in the country, raises a $300M Series F, bringing its total funding to $575.8M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220209/p3#a220209p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
