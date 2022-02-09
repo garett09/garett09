@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Boat sunk 3 days ago. Unbef*ckinglieveble](http://9gag.com/gag/aogMnA0)
- - 🚯 [And so that I don&#39;t have to spend money for food the whole day and deal with so many people...](http://9gag.com/gag/a11rOWD)
+ - 🚯 [Caretaker goes to feed injured cat at shelter, but cat asks for a hug instead of food](http://9gag.com/gag/aXroRov)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
