@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 vs Galaxy S21 FE: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s21-fe-3103339/)
- - [Microsoft says it will keep Call of Duty on PlayStation ‘beyond the existing agreement’](https://www.theverge.com/2022/2/9/22925510/microsoft-activision-sony-nintendo-app-store-antitrust-policies)
- - [Galaxy S22 series could have Snapdragon in India &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-india-3103502/)<!-- TECH:END -->
+ - [Compared: iPhone 13 lineup versus Samsung Galaxy S22 lineup](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
+ - [Microsoft hints it will open up Xbox store, changing its entire business model](https://www.theverge.com/2022/2/9/22925591/microsoft-xbox-store-open-policies-business-model-changes-hints)
+ - [How the feds caught Heather Morgan and Ilya Lichtenstein as they allegedly attempted, rather sloppily, to launder bitcoin from the Bitfinex hack &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220209/p33#a220209p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
