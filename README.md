@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Ubisoft Turning A Valhalla DLC Into Standalone Assassin&#39;s Creed Game](https://kotaku.com/assassins-creed-valhalla-dlc-spinoff-basim-eivor-next-g-1848507621)
- - [Dive into the Chilling New Oceans Campaign Pack for Evil Genius 2: World Domination](https://news.xbox.com/en-us/2022/02/09/new-oceans-campaign-pack-for-evil-genius-2-world-domination/)
- - [Esports tries out becoming real sports at the 2022 Commonwealth Games](https://www.pcgamer.com/esports-coming-to-the-2022-commonwealth-games-as-a-pilot-event)<!-- GAME:END -->
+ - [Head Of Xbox Downplays Fears Of Game Pass Price Hike](https://kotaku.com/game-pass-price-starfield-call-of-duty-microsoft-xbox-e-1848508390)
+ - [Get Your First Look at The Wolf Among Us 2](https://news.xbox.com/en-us/2022/02/09/first-look-the-wolf-among-us-2/)
+ - [Fortnite Champion Series Chapter 3 dates, prize pool, and how to enter](https://www.pcgamer.com/fortnite-fncs-chapter-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
