@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As crypto tokens fall, FTX and Crypto.com will run Super Bowl ads, seeking new customers; research shows $112.9M+ has been spent on crypto TV ads since 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220209/p10#a220209p10)
- - [Garmin Instinct 2 buyer’s guide: Everything you need to know](https://www.androidauthority.com/garmin-instinct-2-3098095/)
- - [Public Blockchains Are the New National Economies of the Metaverse](https://www.wired.com/story/blockchain-cryptocurrency-economics)<!-- TECH:END -->
+ - [Lawmakers call on feds to drop Clearview AI facial recognition contracts](https://www.theverge.com/2022/2/9/22925094/clearview-facial-recognition-dhs-doj-justice-interior-pentagon)
+ - [Most US Cabinet Departments have bought Cellebrite iPhone hacking tool](https://appleinsider.com/articles/22/02/09/most-us-cabinet-departments-have-bought-cellebrite-iphone-hacking-tool?utm_medium=rss)
+ - [Everything you need to know about the bill that could blow up the app store](https://www.theverge.com/22914479/open-app-markets-act-legislation-senate-committee-markup-explained)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
