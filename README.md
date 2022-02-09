@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS 15.4 beta fixes bug that stored Siri recordings even if users opted out](https://appleinsider.com/articles/22/02/09/new-ios-154-beta-fixes-bug-that-stored-siri-recordings-even-if-users-opted-out?utm_medium=rss)
- - [Twitter tells US Senator Wyden that it&#39;s &quot;transitioning&quot; away from using Mitto for passcodes, as the text message services firm faces surveillance accusations &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/220208/p41#a220208p41)
- - [The Collapse of the Nvidia Deal Leaves Arm Exposed](https://www.wired.com/story/collapse-nvidia-deal-leaves-arm-exposed)<!-- TECH:END -->
+ - [A geomagnetic storm may have effectively destroyed 40 SpaceX Starlink satellites](https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm)
+ - [Peloton’s lead hardware engineer is leaving the company too](https://www.theverge.com/2022/2/8/22924180/peloton-hardware-commercial-operations-executives-vice-presidents-leave-company)
+ - [IRS drops facial recognition verification after privacy concerns     - CNET](https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
