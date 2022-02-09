@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bloody hell, stop saying soccer!](http://9gag.com/gag/aNPp2nK)
- - 🚯 [This hits home ..](http://9gag.com/gag/aE8pQ3O)
- - 🚯 [The way the deer is enjoying the morning snack.](http://9gag.com/gag/a31Epwv)<!-- MEMES:END -->
+ - 🚖 [Its called hitting the wall right?](http://9gag.com/gag/adg84GV)
+ - 🚯 [The way the deer is enjoying the morning snack.](http://9gag.com/gag/a31Epwv)
+ - 🚯 [Equal rights](http://9gag.com/gag/aPZ3zvP)<!-- MEMES:END -->
 
 --- 
 
