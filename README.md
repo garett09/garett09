@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s hiding pain for whole life](http://9gag.com/gag/abgVE28)
- - 🚯 [Stop](http://9gag.com/gag/amgPnej)
- - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
+ - 🚖 [It&#39;s true you know](http://9gag.com/gag/aYroR8q)
+ - 🚯 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)
+ - 🚯 [Peter has blue pants?](http://9gag.com/gag/aKm6pWZ)<!-- MEMES:END -->
 
 --- 
 
