@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yet Another Japanese Gaming Peripheral For The Truly Lazy](https://kotaku.com/japan-gaming-cushion-peripheral-nintendo-switch-lazy-th-1848505352)
- - [Capcom &#39;resolves&#39; lawsuit over images used in Resident Evil 4](https://www.pcgamer.com/capcom-resolves-lawsuit-over-images-used-in-resident-evil-4)
- - [Take A Slowpoke Themed Vacation In Japan](https://kotaku.com/pokemon-slowpoke-gamefreaks-japan-kagawa-vacation-udon-1848505270)<!-- GAME:END -->
+ - [You&#39;re going to want to update your Wi-Fi and Bluetooth drivers today](https://www.pcgamer.com/its-a-really-good-idea-to-update-your-wi-fi-and-bluetooth-drivers-today)
+ - [Crusader Kings 3: Royal Court makes a great RPG even better](https://www.pcgamer.com/crusader-kings-3-royal-court-makes-a-great-rpg-even-better)
+ - [Blizzard&#39;s hiring for a new entry in an &#39;established IP&#39;](https://www.pcgamer.com/blizzards-hiring-for-a-new-entry-in-an-established-ip)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
