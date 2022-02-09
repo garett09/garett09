@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S22 series: Here’s how much you’ll get for your old Samsung phone](https://www.androidauthority.com/samsung-galaxy-s22-series-trade-in-values-3103846/)
- - [How to watch Nintendo’s big 40-minute Direct](https://www.theverge.com/2022/2/9/22923371/how-to-watch-nintendo-direct-2022-first-half-games-time-date)
- - [How to preorder the Samsung Galaxy Tab S8 series](https://www.theverge.com/22923574/samsung-galaxy-tab-s8-plus-ultra-preorder-price-availability-release-date)<!-- TECH:END -->
+ - [Samsung Galaxy S22 vs Galaxy S21 FE: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s21-fe-3103339/)
+ - [Microsoft says it will keep Call of Duty on PlayStation ‘beyond the existing agreement’](https://www.theverge.com/2022/2/9/22925510/microsoft-activision-sony-nintendo-app-store-antitrust-policies)
+ - [Galaxy S22 series could have Snapdragon in India &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-india-3103502/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
