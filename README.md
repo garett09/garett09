@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is he even saying?](http://9gag.com/gag/a41EWov)
- - 🚯 [German police vs \u2018freedom\u2019 protester](http://9gag.com/gag/aBn2GM2)
+ - 🚖 [Somewhere on this planet, a black panther and a dog are buddies](http://9gag.com/gag/aBn2Oo1)
+ - 🚯 [It was at this moment that he knew he f*cked up](http://9gag.com/gag/aXroK2P)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
