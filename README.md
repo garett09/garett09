@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy f**k, What is that?](http://9gag.com/gag/amgPpE4)
- - 🚯 [Incredible Marble Path!](http://9gag.com/gag/aVx7RXK)
+ - 🚖 [From](http://9gag.com/gag/a51E55N)
+ - 🚯 [Holy f**k, What is that?](http://9gag.com/gag/amgPpE4)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
