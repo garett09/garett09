@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From](http://9gag.com/gag/a51E55N)
- - 🚯 [Holy f**k, What is that?](http://9gag.com/gag/amgPpE4)
+ - 🚖 [Boat sunk 3 days ago. Unbef*ckinglieveble](http://9gag.com/gag/aogMnA0)
+ - 🚯 [And so that I don&#39;t have to spend money for food the whole day and deal with so many people...](http://9gag.com/gag/a11rOWD)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
