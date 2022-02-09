@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss startup Scandit, which develops software for scanning barcodes, IDs, and more, raises a $150M Series D led by Warburg Pincus at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220209/p6#a220209p6)
- - [How to watch today’s Samsung Galaxy Unpacked event](https://www.androidauthority.com/watch-galaxy-unpacked-2022-3103621/)
- - [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun)<!-- TECH:END -->
+ - [As crypto tokens fall, FTX and Crypto.com will run Super Bowl ads, seeking new customers; research shows $112.9M+ has been spent on crypto TV ads since 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220209/p10#a220209p10)
+ - [Garmin Instinct 2 buyer’s guide: Everything you need to know](https://www.androidauthority.com/garmin-instinct-2-3098095/)
+ - [Public Blockchains Are the New National Economies of the Metaverse](https://www.wired.com/story/blockchain-cryptocurrency-economics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
