@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pls Dad](http://9gag.com/gag/aBn2oNQ)
- - 🚯 [Boat sunk 3 days ago. Unbef*ckinglieveble](http://9gag.com/gag/aogMnA0)
+ - 🚖 [He&#39;s hiding pain for whole life](http://9gag.com/gag/abgVE28)
+ - 🚯 [Stop](http://9gag.com/gag/amgPnej)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
