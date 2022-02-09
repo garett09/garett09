@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Collective memory, this is what childhood used to feel like before whatever kids experience today.](http://9gag.com/gag/aDDdNV9)
- - 🚯 [Bush did 9/11](http://9gag.com/gag/aLvpb2A)
- - 🚯 [Bloody hell, stop saying soccer!](http://9gag.com/gag/aNPp2nK)<!-- MEMES:END -->
+ - 🚖 [Bloody hell, stop saying soccer!](http://9gag.com/gag/aNPp2nK)
+ - 🚯 [This hits home ..](http://9gag.com/gag/aE8pQ3O)
+ - 🚯 [The way the deer is enjoying the morning snack.](http://9gag.com/gag/a31Epwv)<!-- MEMES:END -->
 
 --- 
 
