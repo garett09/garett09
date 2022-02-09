@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: IGDA Failed To Act On Internal Harassment Claims](https://kotaku.com/igda-international-game-developers-association-harassme-1848503741)
- - [Ubisoft&#39;s Rabbids Join Blockchain Game, Welcome To Hell](https://kotaku.com/ubisoft-rabbids-blockchain-nft-crypto-scam-the-sandbox-1848504231)
- - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
+ - [Intel&#39;s Optane business is hurtling towards an unglorified end](https://www.pcgamer.com/intels-optane-business-is-hurtling-towards-an-unglorified-end)
+ - [Europe sets sights on global semiconductor domination](https://www.pcgamer.com/europe-sets-sights-on-global-semiconductor-domination)
+ - [Report: IGDA Failed To Act On Internal Harassment Claims](https://kotaku.com/igda-international-game-developers-association-harassme-1848503741)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
