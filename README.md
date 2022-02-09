@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take A Slowpoke Themed Vacation In Japan](https://kotaku.com/pokemon-slowpoke-gamefreaks-japan-kagawa-vacation-udon-1848505270)
- - [Here&#39;s when Lost Ark unlocks in your timezone](https://www.pcgamer.com/lost-ark-release-time-unlock)
- - [Nvidia&#39;s next generation Lovelace architecture may not differ all that much from Ampere](https://www.pcgamer.com/nvidias-next-generation-lovelace-architecture-may-not-differ-all-that-much-from-ampere)<!-- GAME:END -->
+ - [Yet Another Japanese Gaming Peripheral For The Truly Lazy](https://kotaku.com/japan-gaming-cushion-peripheral-nintendo-switch-lazy-th-1848505352)
+ - [Capcom &#39;resolves&#39; lawsuit over images used in Resident Evil 4](https://www.pcgamer.com/capcom-resolves-lawsuit-over-images-used-in-resident-evil-4)
+ - [Take A Slowpoke Themed Vacation In Japan](https://kotaku.com/pokemon-slowpoke-gamefreaks-japan-kagawa-vacation-udon-1848505270)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
