@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
- - [Destiny 2’s Mysterious Bridge Is Finally Finished, And Nothing Happened](https://kotaku.com/destiny-2-season-lost-bungie-witch-queen-savathun-patch-1848503912)
- - [America&#39;s Army is finally closing for good](https://www.pcgamer.com/americas-army-is-finally-closing-for-good)<!-- GAME:END -->
+ - [Report: IGDA Failed To Act On Internal Harassment Claims](https://kotaku.com/igda-international-game-developers-association-harassme-1848503741)
+ - [Ubisoft&#39;s Rabbids Join Blockchain Game, Welcome To Hell](https://kotaku.com/ubisoft-rabbids-blockchain-nft-crypto-scam-the-sandbox-1848504231)
+ - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
