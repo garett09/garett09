@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zuck: I will shut down Facebook and Instagram Europeans:](http://9gag.com/gag/aBn2GBA)
- - 🚯 [Death is exceedingly natural](http://9gag.com/gag/aXro2Kv)
+ - 🚖 [That guy is a life-saver](http://9gag.com/gag/ay9MYdb)
+ - 🚯 [Now this is someone who is forklift certified](http://9gag.com/gag/aVx7Lmy)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
