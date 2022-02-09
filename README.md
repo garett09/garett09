@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guerrilla Games shows off Horizon Forbidden West running on the base PS4](https://www.polygon.com/22925343/horizon-forbidden-west-ps4-performance-gameplay-video)
- - [Halo Infinite Is Selling A Literal Halo](https://kotaku.com/halo-infinite-zeta-cosmetic-credits-perfect-circle-xbox-1848506622)
- - [Security exploit will keep Dark Souls PC servers offline until after Elden Ring launch](https://www.pcgamer.com/security-exploit-will-keep-dark-souls-pc-servers-offline-until-after-elden-ring-launch)<!-- GAME:END -->
+ - [Attack on Titan Final Season Part 1 wins top prize at Crunchyroll’s Anime Awards](https://www.polygon.com/22924079/anime-awards-winners-list-2022-crunchyroll)
+ - [It&#39;s official: Nvidia is now worth more than Meta](https://www.pcgamer.com/its-official-nvidia-is-now-worth-more-than-meta)
+ - [This Dying Light 2 mod fixes the awkward physics and death animations](https://www.pcgamer.com/this-dying-light-2-mod-fixes-the-awkward-physics-and-death-animations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
