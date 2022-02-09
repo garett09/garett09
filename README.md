@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils the $1,100 Tab S8 Ultra, with a 14.6&quot; 120Hz display, 16GB RAM, two front-facing cameras, and Snapdragon Gen 1 chip, shipping later in February &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220209/p21#a220209p21)
- - [Samsung unveils 6.1&quot; Galaxy S22 and 6.6&quot; S22+ with updated cameras, 10Hz-120Hz, and Snapdragon 8 Gen 1, coming February 25; S22 starts at $800, S22+ at $1,000 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220209/p20#a220209p20)
- - [In the first trailer for Alex Garland’s Men, an ex-wife guy follows](https://www.theverge.com/2022/2/9/22925148/alex-garland-men-trailer)<!-- TECH:END -->
+ - [Instagram rolls out tools to remove posts, comments, and other activity in bulk, after previewing the controls in December &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220209/p28#a220209p28)
+ - [Where to buy the Samsung Galaxy S22, S22 Plus, and S22 Ultra](https://www.theverge.com/22923423/samsung-galaxy-s22-plus-ultra-buy-preorder-price-release-date)
+ - [Which Samsung Galaxy S22 color is right for you?](https://www.androidauthority.com/samsung-galaxy-s22-colors-versions-3104693/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
