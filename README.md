@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its called hitting the wall right?](http://9gag.com/gag/adg84GV)
- - 🚯 [The way the deer is enjoying the morning snack.](http://9gag.com/gag/a31Epwv)
- - 🚯 [Equal rights](http://9gag.com/gag/aPZ3zvP)<!-- MEMES:END -->
+ - 🚖 [Best training ever](http://9gag.com/gag/aDDdr0x)
+ - 🚯 [Its called hitting the wall right?](http://9gag.com/gag/adg84GV)
+ - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)<!-- MEMES:END -->
 
 --- 
 
