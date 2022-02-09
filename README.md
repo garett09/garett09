@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)
- - 🚯 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
+ - 🚖 [At what age did you find out that in the last scene of the movie `The Pursuit of Happyness` they cross paths with the real-life Chris Gardner?](http://9gag.com/gag/aGzpoj7)
+ - 🚯 [This hits home ..](http://9gag.com/gag/aE8pQ3O)
  - 🚯 [Stop](http://9gag.com/gag/amgPnej)<!-- MEMES:END -->
 
 --- 
