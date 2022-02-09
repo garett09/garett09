@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Apex of German music](http://9gag.com/gag/aZr02O3)
- - 🚯 [What is he even saying?](http://9gag.com/gag/a41EWov)
+ - 🚖 [Holy f**k, What is that?](http://9gag.com/gag/amgPpE4)
+ - 🚯 [Incredible Marble Path!](http://9gag.com/gag/aVx7RXK)
  - 🚯 [Conquer the sweetest skateboarding courses and compete against other players in OlliOlli World.](http://9gag.com/gag/apgNPq5)<!-- MEMES:END -->
 
 --- 
