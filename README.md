@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s true you know](http://9gag.com/gag/aYroR8q)
- - 🚯 [Get the Zuck outta here](http://9gag.com/gag/aPZ3nEw)
- - 🚯 [Peter has blue pants?](http://9gag.com/gag/aKm6pWZ)<!-- MEMES:END -->
+ - 🚖 [So see? You&#39;re not so bad!](http://9gag.com/gag/aNPpjx3)
+ - 🚯 [Scientists just generated record-breaking amounts of energy from Nuclear Fusion. 59 megajoules of energy was produced over 5 seconds, more than double of what was achieved in 1997](http://9gag.com/gag/a61ExqL)
+ - 🚯 [So lucky...](http://9gag.com/gag/apgNd6b)<!-- MEMES:END -->
 
 --- 
 
