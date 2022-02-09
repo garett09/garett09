@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s next generation Lovelace architecture may not differ all that much from Ampere](https://www.pcgamer.com/nvidias-next-generation-lovelace-architecture-may-not-differ-all-that-much-from-ampere)
- - [Intel creating $1B foundry business to support disruptive tech](https://www.pcgamer.com/intel-creating-dollar1b-foundry-business-to-support-disruptive-tech)
- - [Chrome&#39;s new search tool groups your history into categories](https://www.pcgamer.com/chromes-new-search-tool-groups-your-history-into-categories)<!-- GAME:END -->
+ - [Take A Slowpoke Themed Vacation In Japan](https://kotaku.com/pokemon-slowpoke-gamefreaks-japan-kagawa-vacation-udon-1848505270)
+ - [Here&#39;s when Lost Ark unlocks in your timezone](https://www.pcgamer.com/lost-ark-release-time-unlock)
+ - [Nvidia&#39;s next generation Lovelace architecture may not differ all that much from Ampere](https://www.pcgamer.com/nvidias-next-generation-lovelace-architecture-may-not-differ-all-that-much-from-ampere)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
