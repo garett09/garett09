@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says a ‘small portion’ of iPhones recorded interactions with Siri even if you opted out](https://www.theverge.com/2022/2/8/22924225/apple-ios-15-bug-recorded-interactions-siri)
- - [Microsoft announces open app store rules to prove it’s okay with new laws](https://www.theverge.com/2022/2/9/22925544/microsoft-open-app-store-principles-windows-xbox)
- - [Blumhouse’s Firestarter remake brings the heat in first trailer](https://www.theverge.com/2022/2/9/22925684/firestarter-trailer-blumhouse-stephen-king)<!-- TECH:END -->
+ - [Compared: iPhone 13 lineup versus Samsung Galaxy S22 lineup](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
+ - [A look at the Open App Markets Act, aimed at curbing anti-competitive behavior from large app store operators like Apple and Google and headed to a Senate vote &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220209/p35#a220209p35)
+ - [Samsung’s Galaxy S22 preorder site won’t let you preorder a phone](https://www.theverge.com/2022/2/9/22925827/samsung-galaxy-s22-plus-ultra-preorder-site-down)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
