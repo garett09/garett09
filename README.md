@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re going to want to update your Wi-Fi and Bluetooth drivers today](https://www.pcgamer.com/its-a-really-good-idea-to-update-your-wi-fi-and-bluetooth-drivers-today)
- - [Crusader Kings 3: Royal Court makes a great RPG even better](https://www.pcgamer.com/crusader-kings-3-royal-court-makes-a-great-rpg-even-better)
- - [Blizzard&#39;s hiring for a new entry in an &#39;established IP&#39;](https://www.pcgamer.com/blizzards-hiring-for-a-new-entry-in-an-established-ip)<!-- GAME:END -->
+ - [Jim Sterling: From &#39;Pathetic Edgelord&#39; To YouTube&#39;s &#39;Princess Of Pansexual Pandemonium&#39;](https://kotaku.com/jim-stephanie-sterling-youtube-interview-jimquisition-w-1848501185)
+ - [Dark Souls maker fixing dangerous PC exploit, looking at impact on Elden Ring](https://www.polygon.com/22925195/dark-souls-pvp-exploit-pc-elden-ring-remote-code-execution)
+ - [OlliOlli World Is A Very Sick Skateboard Nerd’s Fantasy](https://kotaku.com/olliolli-world-review-ps5-skateboard-platformer-tricks-1848503493)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
