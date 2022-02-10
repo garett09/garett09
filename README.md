@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enchanting](http://9gag.com/gag/azeMDYj)
+ - 🚖 [Save this for later](http://9gag.com/gag/aLvpN75)
  - 🚯 [Best training ever](http://9gag.com/gag/aDDdr0x)
- - 🚯 [Save this for later](http://9gag.com/gag/aLvpN75)<!-- MEMES:END -->
+ - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)<!-- MEMES:END -->
 
 --- 
 
