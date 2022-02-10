@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Before the Senate Agriculture Committee, CFTC chair Rostin Behnam pushed for authority, tools, and increased funding to bring crypto &quot;into the regulatory fold&quot; &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220209/p42#a220209p42)
- - [Sydney-based Enboarder, which offers people management tools like onboarding, learning and development, change management, and more, raises a $32M Series B &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220209/p41#a220209p41)
- - [Surfshark VPN review: Competitive pricing and blazing speeds from this VPN service     - CNET](https://www.cnet.com/tech/services-and-software/surfshark-vpn-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DoorDash launches DoorDash Capital, a financing arm to offer loans to partner restaurants for business operations such as purchasing equipment and paying rent &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/220209/p43#a220209p43)
+ - [AT&amp;T’s low-cost internet plan has a new 100 Mbps max speed](https://www.theverge.com/2022/2/9/22925875/att-low-cost-internet-100mbps-affordable-connectivity-program)
+ - [Best VPN deals and sales: Options starting at $2 per month     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
