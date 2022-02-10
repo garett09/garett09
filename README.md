@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good news, everyone!!](http://9gag.com/gag/aXro33z)
+ - 🚖 [Toasts are like parents...](http://9gag.com/gag/axBMrB2)
  - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)
- - 🚯 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)<!-- MEMES:END -->
+ - 🚯 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)<!-- MEMES:END -->
 
 --- 
 
