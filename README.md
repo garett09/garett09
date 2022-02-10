@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CrossfireX Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/10/crossfirex-available-now-for-xbox-one-and-xbox-series-xs/)
- - [Final Fantasy 6 Pixel Remaster will be released on Steam and mobile on February 23](https://www.polygon.com/22927631/square-enix-retro-final-fantasy-6-pixel-remake-steam)
- - [World of Warcraft’s final Shadowlands patch arrives on Feb. 22](https://www.polygon.com/22927578/world-of-warcraft-final-shadowlands-patch-release-date)<!-- GAME:END -->
+ - [For better and for worse, Marry Me is calculated for maximum warm, fuzzy fluff](https://www.polygon.com/reviews/22927762/marry-me-review)
+ - [Riders Republic Prada Collaboration Now Available](https://news.xbox.com/en-us/2022/02/10/riders-republic-prada-collaboration-now-available/)
+ - [Report: Gaming CEO Pushes NFT Scam While Devs Struggle To Buy Food](https://kotaku.com/overcooked-worms-nft-scam-rich-ceo-hell-let-loose-team1-1848516630)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
