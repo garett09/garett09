@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Karen Carpenter drum solo](http://9gag.com/gag/aGzpvW7)
- - 🚯 [Can\u2019t touch this](http://9gag.com/gag/aLvp3bA)
- - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)<!-- MEMES:END -->
+ - 🚯 [Closing pop ups](http://9gag.com/gag/aAGbAbL)
+ - 🚯 [I wont give up pizza](http://9gag.com/gag/aGzp5eZ)<!-- MEMES:END -->
 
 --- 
 
