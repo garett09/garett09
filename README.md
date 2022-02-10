@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know](http://9gag.com/gag/aPZ3LwR)
- - 🚯 [Shitty quote of the day](http://9gag.com/gag/arnME1V)
- - 🚯 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)<!-- MEMES:END -->
+ - 🚖 [Karen Carpenter drum solo](http://9gag.com/gag/aGzpvW7)
+ - 🚯 [Can\u2019t touch this](http://9gag.com/gag/aLvp3bA)
+ - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)<!-- MEMES:END -->
 
 --- 
 
