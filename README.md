@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli VC firm Cyberstarts, which bets on early-stage cybersecurity startups, has posted a 300% internal rate of return since its fund&#39;s inception in 2018 &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220210/p5#a220210p5)
- - [We asked, you told us: Plenty of readers fork out for a VPN service](https://www.androidauthority.com/vpn-service-poll-results-3105753/)
- - [Tesla reportedly sued by California agency alleging racial discrimination     - Roadshow](https://www.cnet.com/roadshow/news/tesla-reportedly-sued-by-california-agency-alleging-racial-discrimination/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How The Sims, which lets Sims eat or cook 300+ different dishes, has evolved into a world where players can learn about the many ways people experience food &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/220210/p6#a220210p6)
+ - [Samsung confirms Galaxy Watch 4 will see updates for years to come](https://www.androidauthority.com/samsung-galaxy-watch-4-wear-os-updates-3105888/)
+ - [Android 12 vs. Android 11: The differences you&#39;ll want to know     - CNET](https://www.cnet.com/tech/services-and-software/android-12-vs-android-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
