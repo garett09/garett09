@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Atomic Heart Reveals its Release Window with High-Octane Story Trailer](https://news.xbox.com/en-us/2022/02/09/atomic-heart-reveals-its-release-window-with-high-octane-story-trailer/)
  - [Hacker: Elden Ring May Suffer Same Serious Online Exploits As Dark Souls III](https://kotaku.com/elden-ring-dark-souls-pc-online-server-shut-down-hacks-1848511268)
- - [This New Kirby Game Is Messed Up](https://kotaku.com/kirby-forgotten-land-mouthful-mode-switch-nintendo-thro-1848511534)
- - [Dying Light 2 easter eggs pay homage to Cyberpunk 2077, Doom, and Kyle Crane](https://www.pcgamer.com/dying-light-2-easter-eggs-pay-homage-to-cyberpunk-2077-doom-and-kyle-crane)<!-- GAME:END -->
+ - [This New Kirby Game Is Messed Up](https://kotaku.com/kirby-forgotten-land-mouthful-mode-switch-nintendo-thro-1848511534)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
