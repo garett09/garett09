@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn is testing a no-politics setting for some US users&#39; feed that filters out content about political parties and candidates, election outcomes, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220209/p45#a220209p45)
- - [Microsoft&#39;s new app store principles do not apply to the Xbox store, for now, which requires its own billing system and charges developers higher fees &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220209/p44#a220209p44)
- - [Talking to my PS5 works better than I expected](https://www.theverge.com/2022/2/9/22926345/playstation-5-ps5-beta-voice-command-feature)<!-- TECH:END -->
+ - [Tonik Financial, which operates Tonik Digital Bank in the Philippines, raises a $131M Series B led by Mizuho Bank &lpar;Benjamin Cher/The Business Times&rpar;](http://www.techmeme.com/220209/p46#a220209p46)
+ - [Android Apple Music beta code reveals upcoming &#39;Apple Classical&#39; app](https://appleinsider.com/articles/22/02/10/android-apple-music-beta-code-reveals-upcoming-apple-classical-app?utm_medium=rss)
+ - [LinkedIn is testing a no-politics setting for some US users&#39; feed that filters out content about political parties and candidates, election outcomes, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220209/p45#a220209p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
