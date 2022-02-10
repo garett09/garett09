@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bowser gets 3+ years in prison over Nintendo Switch hack scheme](https://www.polygon.com/22927851/bowser-nintendo-switch-hacker-sentenced-prison)
- - [Minecraft&#39;s new frogs were briefly swallowing goats whole](https://www.pcgamer.com/minecrafts-new-frogs-were-briefly-swallowing-goats-whole)
- - [Star Trek needs less logic and more crying](https://www.polygon.com/22924014/star-trek-discovery-character-emotions)<!-- GAME:END -->
+ - [Discover Edge of Eternity Today with Game Pass](https://news.xbox.com/en-us/2022/02/10/discover-edge-of-eternity-today-with-game-pass/)
+ - [The first digital deckbuilder was a Magic: The Gathering game from 1997 and it ruled](https://www.pcgamer.com/the-first-digital-deckbuilder-was-a-magic-the-gathering-game-from-1997-and-it-ruled)
+ - [You&#39;re Not Paying Enough Attention To Square Enix&#39;s New Time-Traveling Detective Game](https://kotaku.com/japanese-nintendo-direct-square-enix-fmv-murder-mystery-1848517937)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
