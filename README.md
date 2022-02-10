@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 7 Android VPN apps put your privacy at risk. Avoid them at all costs     - CNET](https://www.cnet.com/tech/services-and-software/these-7-android-vpn-apps-put-your-privacy-at-risk-avoid-them-at-all-costs/#ftag=CAD590a51e)
- - [The Singer Turbo Study is a modern 930 Turbo recreation     - Roadshow](https://www.cnet.com/roadshow/pictures/singer-reimagined-porsche-911-930-turbo-study/#ftag=CAD590a51e)
- - [OnlyFans launches NFT profile pictures minted on the Ethereum blockchain; creators&#39; NFT profile pictures will show an Ethereum symbol to mark them as authentic &lpar;Elizabeth Culliford/Reuters&rpar;](http://www.techmeme.com/220210/p35#a220210p35)<!-- TECH:END -->
+ - [Samsung Galaxy S22 vs Samsung Galaxy Z Flip 3: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-samsung-galaxy-z-flip-3-3102023/)
+ - [Tinder’s new Blind Date feature wants you to judge matches based on personality](https://www.theverge.com/2022/2/10/22927246/tinder-swipe-right-dating-app-blind-date-personality)
+ - [Get a free Samsung Galaxy S22 at AT&amp;T with any old trade-in](https://www.androidauthority.com/samsung-galaxy-s22-att-deal-3106463/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
