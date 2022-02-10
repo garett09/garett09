@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrono Cross remaster announced for Nintendo Switch](https://www.polygon.com/nintendo/22926146/chrono-cross-remaster-switch)
- - [Elon Musk&#39;s SpaceX loses 40 Starlink satellites in one day](https://www.pcgamer.com/elon-musks-spacex-loses-40-starlink-satellites-in-one-day)
- - [Mario Kart 8 Deluxe is getting 48 remastered courses](https://www.polygon.com/22926172/mario-kart-8-deluxe-booster-course-pass-48-tracks-remaster)<!-- GAME:END -->
+ - [Dying Light 2 easter eggs pay homage to Cyberpunk 2077, Doom, and Kyle Crane](https://www.pcgamer.com/dying-light-2-easter-eggs-pay-homage-to-cyberpunk-2077-doom-and-kyle-crane)
+ - [EarthBound will hit the Nintendo Switch on Feb. 9](https://www.polygon.com/22926231/earthbound-mother-mother-2-nintendo-switch-online)
+ - [Nintendo Direct February 2022: the biggest announcements](https://www.polygon.com/22926054/nintendo-direct-february-2021-biggest-announcements-trailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
