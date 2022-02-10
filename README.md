@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)
- - 🚯 [I wont give up pizza](http://9gag.com/gag/aGzp5eZ)
- - 🚯 [It&#39;ll get better fellow gaggers](http://9gag.com/gag/abgV8bv)<!-- MEMES:END -->
+ - 🚖 [England.](http://9gag.com/gag/amgPZE6)
+ - 🚯 [Ms. Eleanor](http://9gag.com/gag/aM4K7px)
+ - 🚯 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)<!-- MEMES:END -->
 
 --- 
 
