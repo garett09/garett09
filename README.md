@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Valhalla: Dawn of Ragnarök expansion unlocks the powers of the gods](https://blog.playstation.com/2022/02/10/assassins-creed-valhalla-dawn-of-ragnarok-expansion-unlocks-the-powers-of-the-gods/)
- - [Assassin’s Creed Valhalla: Dawn of Ragnarök expansion unlocks the powers of the gods](https://blog.playstation.com/2022/02/10/assassins-creed-valhalla-dawn-of-ragnarok-expansion-unlocks-the-powers-of-the-gods/)
- - [First Look at Dawn of Ragnarök, Assassin’s Creed Valhalla’s Fiery New Expansion](https://news.xbox.com/en-us/2022/02/10/first-look-at-dawn-of-ragnarok-assassins-creed-valhallas-fiery-new-expansion/)<!-- GAME:END -->
+ - [Vampire Survivors might one day stand alongside Hades and the roguelike greats](https://www.polygon.com/reviews/22927447/vampire-survivors-review-roguelike-bullet-hell-steam-pc-browser-8-bit-characters-power-ups)
+ - [Grounded Reaches 10 Million Players and Goes Into the Wood with New Update](https://news.xbox.com/en-us/2022/02/10/grounded-reaches-10-million-players/)
+ - [Circuit Superstars’ winning design has a long family history behind it](https://www.polygon.com/22927361/circuit-superstars-arcade-sim-racer-mastretta-original-fire-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
