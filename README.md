@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light&#39;s latest patch means it&#39;s safe to turn on DLSS again](https://www.pcgamer.com/dying-lights-latest-patch-means-its-safe-to-turn-on-dlss-again)
- - [This is the cheapest 1TB NVMe SSD you can buy right now](https://www.pcgamer.com/this-is-the-cheapest-1tb-nvme-ssd-you-can-buy-right-now)
- - [Mother Creator Shigesato Itoi Does A Master Class In Trolling](https://kotaku.com/mother-earthbound-nintendo-switch-online-shigesato-itoi-1848513224)<!-- GAME:END -->
+ - [Accessibility features in Horizon Forbidden West](https://blog.playstation.com/2022/02/10/accessibility-features-in-horizon-forbidden-west/)
+ - [Accessibility features in Horizon Forbidden West](https://blog.playstation.com/2022/02/10/accessibility-features-in-horizon-forbidden-west/)
+ - [Mask of the Rose is a murder mystery with a living victim, and a dating sim where you can stay single](https://www.pcgamer.com/mask-of-the-rose-is-a-murder-mystery-with-a-living-victim-and-a-dating-sim-where-you-can-stay-single)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
