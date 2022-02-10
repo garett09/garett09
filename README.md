@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring the upgraded PvP of Salt and Sacrifice, launching May 10](https://blog.playstation.com/2022/02/10/exploring-the-upgraded-pvp-of-salt-and-sacrifice-launching-may-10/)
- - [Exploring the upgraded PvP of Salt and Sacrifice, launching May 10](https://blog.playstation.com/2022/02/10/exploring-the-upgraded-pvp-of-salt-and-sacrifice-launching-may-10/)
- - [Xbox Super Showdown: Najee Harris and Cameron &lpar;Scooter&rpar; Magruder Go Head-to-Head in Madden NFL 22](https://news.xbox.com/en-us/2022/02/10/xbox-super-showdown-najee-harris-and-scooter-magruder-madden-nfl-22/)<!-- GAME:END -->
+ - [Assassin’s Creed Valhalla: Dawn of Ragnarök expansion unlocks the powers of the gods](https://blog.playstation.com/2022/02/10/assassins-creed-valhalla-dawn-of-ragnarok-expansion-unlocks-the-powers-of-the-gods/)
+ - [Assassin’s Creed Valhalla: Dawn of Ragnarök expansion unlocks the powers of the gods](https://blog.playstation.com/2022/02/10/assassins-creed-valhalla-dawn-of-ragnarok-expansion-unlocks-the-powers-of-the-gods/)
+ - [First Look at Dawn of Ragnarök, Assassin’s Creed Valhalla’s Fiery New Expansion](https://news.xbox.com/en-us/2022/02/10/first-look-at-dawn-of-ragnarok-assassins-creed-valhallas-fiery-new-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
