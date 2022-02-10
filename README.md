@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UAG delivers the protection the Galaxy S22 deserves](https://www.androidauthority.com/uag-galaxy-s22-cases-3104921/)
- - [Playing With Crypto? You’ll Need a Wallet &lpar;or Several&rpar;](https://www.wired.com/story/how-to-choose-set-up-crypto-wallet)
- - [20 Tips and Hidden Tricks for the PS5 &lpar;You Lucky Dog&rpar;](https://www.wired.com/story/playstation-5-tips-and-features)<!-- TECH:END -->
+ - [The great football series the NFL got canceled](https://www.theverge.com/22922330/playmakers-nfl-show-cancelation-football-espn)
+ - [Snuggle with soft bedding for up to 25% off at Cozy Earth     - CNET](https://www.cnet.com/home/snuggle-with-soft-bedding-for-up-to-25-off-at-cozy-earth/#ftag=CAD590a51e)
+ - [Salt Security, an API vulnerability and protection service, raises a $140M Series D led by CapitalG at a $1.4B valuation, bringing its total funding to $271M &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220210/p19#a220210p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
