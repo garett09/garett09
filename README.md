@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors might one day stand alongside Hades and the roguelike greats](https://www.polygon.com/reviews/22927447/vampire-survivors-review-roguelike-bullet-hell-steam-pc-browser-8-bit-characters-power-ups)
- - [Grounded Reaches 10 Million Players and Goes Into the Wood with New Update](https://news.xbox.com/en-us/2022/02/10/grounded-reaches-10-million-players/)
- - [Circuit Superstars’ winning design has a long family history behind it](https://www.polygon.com/22927361/circuit-superstars-arcade-sim-racer-mastretta-original-fire-games)<!-- GAME:END -->
+ - [CrossfireX Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/10/crossfirex-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [Final Fantasy 6 Pixel Remaster will be released on Steam and mobile on February 23](https://www.polygon.com/22927631/square-enix-retro-final-fantasy-6-pixel-remake-steam)
+ - [World of Warcraft’s final Shadowlands patch arrives on Feb. 22](https://www.polygon.com/22927578/world-of-warcraft-final-shadowlands-patch-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
