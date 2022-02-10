@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How The Sims, which lets Sims eat or cook 300+ different dishes, has evolved into a world where players can learn about the many ways people experience food &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/220210/p6#a220210p6)
- - [Samsung confirms Galaxy Watch 4 will see updates for years to come](https://www.androidauthority.com/samsung-galaxy-watch-4-wear-os-updates-3105888/)
- - [Android 12 vs. Android 11: The differences you&#39;ll want to know     - CNET](https://www.cnet.com/tech/services-and-software/android-12-vs-android-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn says there will be a major improvement in component shortages in Q1; TSMC and others have indicated shortages will continue through 2022 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220210/p8#a220210p8)
+ - [Apple reveals new Abu Dhabi store on Al Maryah Island](https://appleinsider.com/articles/22/02/10/apple-reveals-new-abu-dhabi-store-on-al-maryah-island?utm_medium=rss)
+ - [Sources: KoBold Metals, which uses AI to find earth metals needed in EVs, raises a $192.5M Series B from Apollo Projects, Bond Capital, and others &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/220210/p7#a220210p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
