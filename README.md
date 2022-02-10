@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Take me instead,just leave doggo](http://9gag.com/gag/adg8rz9)
- - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)
- - 🚯 [This person invented RAR algorithm and made WinRAR](http://9gag.com/gag/a217jeZ)<!-- MEMES:END -->
+ - 🚯 [Courtney cox pre botox](http://9gag.com/gag/aXroQPz)
+ - 🚯 [Youtube labeling a disabled person as `disturbing`](http://9gag.com/gag/avA5B0M)<!-- MEMES:END -->
 
 --- 
 
