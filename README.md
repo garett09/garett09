@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest news and trailers from the first Nintendo Direct of 2022](https://www.theverge.com/2022/2/9/22925180/nintendo-direct-february-2022-mario-kart-wii-sports-xenoblade)
- - [Reddit’s Clubhouse clone gets recordings and web support](https://www.theverge.com/2022/2/9/22925935/reddit-clubhouse-clone-recordings-web-features)
- - [Mario Kart 8 Deluxe is getting 48 remastered courses over the next two years as paid DLC](https://www.theverge.com/2022/2/9/22926173/mario-kart-8-deluxe-is-48-remastered-courses-over-the-next-two-years-as-paid-dlc)<!-- TECH:END -->
+ - [Before the Senate Agriculture Committee, CFTC chair Rostin Behnam pushed for authority, tools, and increased funding to bring crypto &quot;into the regulatory fold&quot; &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220209/p42#a220209p42)
+ - [Sydney-based Enboarder, which offers people management tools like onboarding, learning and development, change management, and more, raises a $32M Series B &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220209/p41#a220209p41)
+ - [Surfshark VPN review: Competitive pricing and blazing speeds from this VPN service     - CNET](https://www.cnet.com/tech/services-and-software/surfshark-vpn-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
