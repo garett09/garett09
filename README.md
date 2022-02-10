@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone Portugal is working to recover from a &quot;deliberate and malicious cyberattack&quot; that also affected businesses, ambulances, fire departments, and hospitals &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220210/p2#a220210p2)
- - [A new OnePlus is coming next week. Here’s what we know.](https://www.androidauthority.com/oneplus-nord-ce-2-launch-3105722/)
- - [Radar, whose geofencing software lets companies reach customers for curbside pickup, location-based marketing, and more, raises a $55M Series C led by Insight &lpar;Marty Swant/Forbes&rpar;](http://www.techmeme.com/220210/p1#a220210p1)<!-- TECH:END -->
+ - [Tesla reportedly sued by California agency alleging racial discrimination     - Roadshow](https://www.cnet.com/roadshow/news/tesla-reportedly-sued-by-california-agency-alleging-racial-discrimination/#ftag=CAD590a51e)
+ - [Bitcoin payment processor OpenNode raises a $20M Series A led by Kingsway at a $200M valuation; Twitter, Tim Draper, and Avon Ventures also invested &lpar;Marc Wojno/ZDNet&rpar;](http://www.techmeme.com/220210/p4#a220210p4)
+ - [Alfa Romeo plans to mint an NFT for each of its new Tonale SUVs to record vehicle data and verify proper maintenance on a blockchain during the car&#39;s life cycle &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/220210/p3#a220210p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
