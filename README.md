@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD’s $35 billion Xilinx deal has gone through](https://www.theverge.com/2022/2/10/22927040/amd-35-billion-xilinx-deal-fpga-chips-regulators)
- - [Apple announces AirTag, Find My changes to cut down on stalking &amp; misuse](https://appleinsider.com/articles/22/02/10/apple-announces-airtag-find-my-changes-to-cut-down-on-stalking-misuse?utm_medium=rss)
- - [Microsoft offers 60 percent discount to Google ‘legacy’ G Suite customers](https://www.theverge.com/2022/2/10/22927587/microsoft-365-discount-offer-google-g-suite-legacy-customers)<!-- TECH:END -->
+ - [Apple releases iOS 15.3.1, iPadOS 15.3.1, and macOS Monterey 12.2.1 with security updates to patch a WebKit zero-day that &quot;may have been actively exploited&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220210/p30#a220210p30)
+ - [Google is apparently done trying to keep Android codenames a secret](https://www.androidauthority.com/android-13-codename-3106388/)
+ - [Samsung Galaxy S22 Ultra vs Galaxy Z Fold 3: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-galaxy-z-fold-3-3098974/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
