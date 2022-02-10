@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It doesn&#39;t matter how slow you move forward as long as you don&#39;t stop.](http://9gag.com/gag/awzMDZB)
- - 🚯 [You know](http://9gag.com/gag/aPZ3LwR)
- - 🚯 [Closing pop ups](http://9gag.com/gag/aAGbAbL)<!-- MEMES:END -->
+ - 🚖 [You know](http://9gag.com/gag/aPZ3LwR)
+ - 🚯 [Shitty quote of the day](http://9gag.com/gag/arnME1V)
+ - 🚯 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)<!-- MEMES:END -->
 
 --- 
 
