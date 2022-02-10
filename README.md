@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England.](http://9gag.com/gag/amgPZE6)
- - 🚯 [Ms. Eleanor](http://9gag.com/gag/aM4K7px)
- - 🚯 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)<!-- MEMES:END -->
+ - 🚖 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)
+ - 🚯 [I&#39;ve always hated this. Spoon is spoon!](http://9gag.com/gag/a41E0DA)
+ - 🚯 [It&#39;ll get better fellow gaggers](http://9gag.com/gag/abgV8bv)<!-- MEMES:END -->
 
 --- 
 
