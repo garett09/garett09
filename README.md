@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mall cop doing his job](http://9gag.com/gag/aGzpqzn)
- - 🚯 [This made really made me smile.](http://9gag.com/gag/a51EAeV)
- - 🚯 [It doesn&#39;t matter how slow you move forward as long as you don&#39;t stop.](http://9gag.com/gag/awzMDZB)<!-- MEMES:END -->
+ - 🚖 [It doesn&#39;t matter how slow you move forward as long as you don&#39;t stop.](http://9gag.com/gag/awzMDZB)
+ - 🚯 [You know](http://9gag.com/gag/aPZ3LwR)
+ - 🚯 [Closing pop ups](http://9gag.com/gag/aAGbAbL)<!-- MEMES:END -->
 
 --- 
 
