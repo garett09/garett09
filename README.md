@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get $300 off this ASUS ROG Zephyrus 15&quot; QHD gaming laptop](https://www.pcgamer.com/get-dollar300-off-this-asus-rog-zephyrus-15-qhd-gaming-laptop)
- - [Toshiba to release 26TB HDDs this year, 30TB to come later](https://www.pcgamer.com/toshiba-to-release-26tb-hdds-this-year-30tb-to-come-later)
- - [Contamination leads to the loss of over 6.5 Exabytes of WD and Kioxia 3D NAND](https://www.pcgamer.com/contamination-leads-to-the-loss-of-over-65-exabytes-of-wd-and-kioxia-3d-nand)<!-- GAME:END -->
+ - [More people are using AMD CPUs than ever before](https://www.pcgamer.com/more-people-are-using-amd-cpus-than-ever-before)
+ - [Artist Hit With Tracing Allegations, But Pokémon Company Says Collab Shirt Is Original](https://kotaku.com/pokemon-piplup-pokemon-company-artist-tracing-allegatio-1848513092)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
