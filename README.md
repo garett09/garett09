@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 15.3.1, iPadOS 15.3.1, and macOS Monterey 12.2.1 with security updates to patch a WebKit zero-day that &quot;may have been actively exploited&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220210/p30#a220210p30)
- - [Google is apparently done trying to keep Android codenames a secret](https://www.androidauthority.com/android-13-codename-3106388/)
- - [Samsung Galaxy S22 Ultra vs Galaxy Z Fold 3: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-galaxy-z-fold-3-3098974/)<!-- TECH:END -->
+ - [How to activate and use Google Chat](https://www.theverge.com/22533079/google-chat-rooms-gmail-how-to)
+ - [Best deals Feb. 10: discounted refurbished Apple computers, $50 off iPad mini 6, $40 off 8TB internal HDD, more!](https://appleinsider.com/articles/22/02/10/best-deals-feb-10-discounted-refurbished-apple-computers-50-off-ipad-mini-6-40-off-8tb-internal-hdd-more?utm_medium=rss)
+ - [Sardine, which offers fintechs real-time fraud scores based on users&#39; identity, device, and behavior, raises a $19.5M Series A from a16z, NYCA, and Experian &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220210/p33#a220210p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
