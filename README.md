@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save this for later](http://9gag.com/gag/aLvpN75)
+ - 🚖 [Take me instead,just leave doggo](http://9gag.com/gag/adg8rz9)
  - 🚯 [Best training ever](http://9gag.com/gag/aDDdr0x)
  - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)<!-- MEMES:END -->
 
