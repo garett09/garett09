@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to activate and use Google Chat](https://www.theverge.com/22533079/google-chat-rooms-gmail-how-to)
- - [Best deals Feb. 10: discounted refurbished Apple computers, $50 off iPad mini 6, $40 off 8TB internal HDD, more!](https://appleinsider.com/articles/22/02/10/best-deals-feb-10-discounted-refurbished-apple-computers-50-off-ipad-mini-6-40-off-8tb-internal-hdd-more?utm_medium=rss)
- - [Sardine, which offers fintechs real-time fraud scores based on users&#39; identity, device, and behavior, raises a $19.5M Series A from a16z, NYCA, and Experian &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220210/p33#a220210p33)<!-- TECH:END -->
+ - [These 7 Android VPN apps put your privacy at risk. Avoid them at all costs     - CNET](https://www.cnet.com/tech/services-and-software/these-7-android-vpn-apps-put-your-privacy-at-risk-avoid-them-at-all-costs/#ftag=CAD590a51e)
+ - [The Singer Turbo Study is a modern 930 Turbo recreation     - Roadshow](https://www.cnet.com/roadshow/pictures/singer-reimagined-porsche-911-930-turbo-study/#ftag=CAD590a51e)
+ - [OnlyFans launches NFT profile pictures minted on the Ethereum blockchain; creators&#39; NFT profile pictures will show an Ethereum symbol to mark them as authentic &lpar;Elizabeth Culliford/Reuters&rpar;](http://www.techmeme.com/220210/p35#a220210p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
