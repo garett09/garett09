@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mall cop doing his job](http://9gag.com/gag/aGzpqzn)
- - 🚯 [Florida Legislators Considering &#39;Don&#39;t Say Gay&#39; Bill That Would Ban LGBTQ Discussions In Schools](http://9gag.com/gag/amgPOQd)
- - 🚯 [And we both tired of this meme](http://9gag.com/gag/aBn2b5A)<!-- MEMES:END -->
+ - 🚖 [And we both tired of this meme](http://9gag.com/gag/aBn2b5A)
+ - 🚯 [Made In China](http://9gag.com/gag/aQXoK17)
+ - 🚯 [Can\u2019t touch this](http://9gag.com/gag/aLvp3bA)<!-- MEMES:END -->
 
 --- 
 
