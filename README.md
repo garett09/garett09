@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For better and for worse, Marry Me is calculated for maximum warm, fuzzy fluff](https://www.polygon.com/reviews/22927762/marry-me-review)
- - [Riders Republic Prada Collaboration Now Available](https://news.xbox.com/en-us/2022/02/10/riders-republic-prada-collaboration-now-available/)
- - [Report: Gaming CEO Pushes NFT Scam While Devs Struggle To Buy Food](https://kotaku.com/overcooked-worms-nft-scam-rich-ceo-hell-let-loose-team1-1848516630)<!-- GAME:END -->
+ - [Bowser gets 3+ years in prison over Nintendo Switch hack scheme](https://www.polygon.com/22927851/bowser-nintendo-switch-hacker-sentenced-prison)
+ - [Minecraft&#39;s new frogs were briefly swallowing goats whole](https://www.pcgamer.com/minecrafts-new-frogs-were-briefly-swallowing-goats-whole)
+ - [Star Trek needs less logic and more crying](https://www.polygon.com/22924014/star-trek-discovery-character-emotions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
