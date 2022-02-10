@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take me instead,just leave doggo](http://9gag.com/gag/adg8rz9)
- - 🚯 [Courtney cox pre botox](http://9gag.com/gag/aXroQPz)
- - 🚯 [Youtube labeling a disabled person as `disturbing`](http://9gag.com/gag/avA5B0M)<!-- MEMES:END -->
+ - 🚖 [Are you ready to rummblleeee?](http://9gag.com/gag/aPZ30jB)
+ - 🚯 [Florida Legislators Considering &#39;Don&#39;t Say Gay&#39; Bill That Would Ban LGBTQ Discussions In Schools](http://9gag.com/gag/amgPOQd)
+ - 🚯 [Good news everyone](http://9gag.com/gag/aogMAxe)<!-- MEMES:END -->
 
 --- 
 
