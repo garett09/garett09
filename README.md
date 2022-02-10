@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The great football series the NFL got canceled](https://www.theverge.com/22922330/playmakers-nfl-show-cancelation-football-espn)
- - [Snuggle with soft bedding for up to 25% off at Cozy Earth     - CNET](https://www.cnet.com/home/snuggle-with-soft-bedding-for-up-to-25-off-at-cozy-earth/#ftag=CAD590a51e)
- - [Salt Security, an API vulnerability and protection service, raises a $140M Series D led by CapitalG at a $1.4B valuation, bringing its total funding to $271M &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220210/p19#a220210p19)<!-- TECH:END -->
+ - [HP Chromebook x360 14c review: a stepping stone to something great](https://www.theverge.com/22925737/hp-chromebook-x360-14c-review)
+ - [A chat with YouTube chief product officer Neal Mohan on new features coming this year](https://www.theverge.com/2022/2/10/22927169/vergecast-podcast-interview-youtube-product-features-2022-nft-metaverse)
+ - [Corsair’s updated full-size K70 keyboard is more responsive and customizable](https://www.theverge.com/2022/2/10/22866427/corsair-k70-rgb-pro-wired-mechanical-keyboard-usb-cable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
