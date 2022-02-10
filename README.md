@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash launches DoorDash Capital, a financing arm to offer loans to partner restaurants for business operations such as purchasing equipment and paying rent &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/220209/p43#a220209p43)
- - [AT&amp;T’s low-cost internet plan has a new 100 Mbps max speed](https://www.theverge.com/2022/2/9/22925875/att-low-cost-internet-100mbps-affordable-connectivity-program)
- - [Best VPN deals and sales: Options starting at $2 per month     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LinkedIn is testing a no-politics setting for some US users&#39; feed that filters out content about political parties and candidates, election outcomes, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220209/p45#a220209p45)
+ - [Microsoft&#39;s new app store principles does not apply to the Xbox store, for now, which requires its own billing system and charges developers higher fees &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220209/p44#a220209p44)
+ - [Talking to my PS5 works better than I expected](https://www.theverge.com/2022/2/9/22926345/playstation-5-ps5-beta-voice-command-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
