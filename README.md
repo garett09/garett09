@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Futurama got renewed on Hulu for 20 episodes](http://9gag.com/gag/aXroQ3D)
- - 🚯 [So happy](http://9gag.com/gag/a51E9gE)
- - 🚯 [She can feels it..](http://9gag.com/gag/aGzpq5X)<!-- MEMES:END -->
+ - 🚖 [Made In China](http://9gag.com/gag/aQXoK17)
+ - 🚯 [You know](http://9gag.com/gag/aPZ3LwR)
+ - 🚯 [Mall cop doing his job](http://9gag.com/gag/aGzpqzn)<!-- MEMES:END -->
 
 --- 
 
