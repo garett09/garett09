@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toasts are like parents...](http://9gag.com/gag/axBMrB2)
- - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)
- - 🚯 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)<!-- MEMES:END -->
+ - 🚖 [She realised after 10 seconds.](http://9gag.com/gag/aRrXW97)
+ - 🚯 [I wont give up pizza](http://9gag.com/gag/aGzp5eZ)
+ - 🚯 [It&#39;ll get better fellow gaggers](http://9gag.com/gag/abgV8bv)<!-- MEMES:END -->
 
 --- 
 
