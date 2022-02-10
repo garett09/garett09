@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP Chromebook x360 14c review: a stepping stone to something great](https://www.theverge.com/22925737/hp-chromebook-x360-14c-review)
- - [A chat with YouTube chief product officer Neal Mohan on new features coming this year](https://www.theverge.com/2022/2/10/22927169/vergecast-podcast-interview-youtube-product-features-2022-nft-metaverse)
- - [Corsair’s updated full-size K70 keyboard is more responsive and customizable](https://www.theverge.com/2022/2/10/22866427/corsair-k70-rgb-pro-wired-mechanical-keyboard-usb-cable)<!-- TECH:END -->
+ - [Micropsi, which trains industrial robots to perform actions using human demonstrations, raises $30M led by Metaplanet, bringing its total raised to $45M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220210/p22#a220210p22)
+ - [Google confirms Samsung, OnePlus, and others will use its dynamic color themes on Android 12](https://www.theverge.com/2022/2/10/22927314/google-android-12-dynamic-color-themes-samsung-oneplus-oppo)
+ - [Anti-exploitation bill advances in Senate despite free speech concerns](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
