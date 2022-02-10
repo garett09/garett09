@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter misses as Q4 revenue rose 22% YoY to $1.57B, net income dropped to $182M; mDAUs hit 217M, up from 192M YoY; FY 2021 revenue rose 37% YoY to $5.08B &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220210/p10#a220210p10)
- - [Daily Authority: 🎁 S22, Ultra, Tab S8](https://www.androidauthority.com/da-february-10-2022-3106016/)
- - [Tesla sued by civil rights agency for operating ‘racially segregated workplace’](https://www.theverge.com/2022/2/10/22926851/tesla-sued-california-racially-segregated-workplace-dfeh)<!-- TECH:END -->
+ - [Sources: Binance is investing $200M in Forbes to help the publisher with its plan to merge with a SPAC in Q1 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/220210/p15#a220210p15)
+ - [Tag Heuer’s new Connected Calibre E4 offers better specs and a sleek, smaller 42mm model](https://www.theverge.com/2022/2/10/22926443/tag-heuer-connected-calibre-e4-45mm-42mm-price-release-date-luxury-wear-os)
+ - [A Twist on Stem Cell Transplants Could Help Blood Cancer Patients](https://www.wired.com/story/a-twist-on-stem-cell-transplants-could-help-blood-cancer-patients)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
