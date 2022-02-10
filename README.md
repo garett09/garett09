@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This will be a great night at hospital](http://9gag.com/gag/a71Eg7z)
- - 🚯 [Good news, everyone!!](http://9gag.com/gag/aXro33z)
- - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)<!-- MEMES:END -->
+ - 🚖 [Good news, everyone!!](http://9gag.com/gag/aXro33z)
+ - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)
+ - 🚯 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)<!-- MEMES:END -->
 
 --- 
 
