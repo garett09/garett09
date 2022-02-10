@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover Edge of Eternity Today with Game Pass](https://news.xbox.com/en-us/2022/02/10/discover-edge-of-eternity-today-with-game-pass/)
- - [The first digital deckbuilder was a Magic: The Gathering game from 1997 and it ruled](https://www.pcgamer.com/the-first-digital-deckbuilder-was-a-magic-the-gathering-game-from-1997-and-it-ruled)
- - [You&#39;re Not Paying Enough Attention To Square Enix&#39;s New Time-Traveling Detective Game](https://kotaku.com/japanese-nintendo-direct-square-enix-fmv-murder-mystery-1848517937)<!-- GAME:END -->
+ - [Star Citizen still doesn’t live up to its promise, and players don’t care](https://www.polygon.com/22925538/star-citizen-2022-experience-gameplay-features-player-reception)
+ - [Salt and Sacrifice locks in a May release date](https://www.pcgamer.com/salt-and-sacrifice-locks-in-a-may-release-date)
+ - [Wordle players are losing their streaks after NYT migration](https://www.polygon.com/22928051/wordle-streak-new-york-times-nyt-migration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
