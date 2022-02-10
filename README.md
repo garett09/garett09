@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring will be the new gateway drug for Souls games](https://www.pcgamer.com/elden-ring-will-be-the-new-gateway-drug-for-souls-games)
- - [Elden Ring&#39;s mechanics encourage greed on a whole new level](https://www.pcgamer.com/elden-rings-mechanics-encourage-greed-on-a-whole-new-level)
- - [Elden Ring is poised to be both the easiest and the hardest Souls game yet](https://www.pcgamer.com/elden-ring-is-poised-to-be-both-the-easiest-and-the-hardest-souls-game-yet)<!-- GAME:END -->
+ - [Exploring the upgraded PvP of Salt and Sacrifice, launching May 10](https://blog.playstation.com/2022/02/10/exploring-the-upgraded-pvp-of-salt-and-sacrifice-launching-may-10/)
+ - [Exploring the upgraded PvP of Salt and Sacrifice, launching May 10](https://blog.playstation.com/2022/02/10/exploring-the-upgraded-pvp-of-salt-and-sacrifice-launching-may-10/)
+ - [Xbox Super Showdown: Najee Harris and Cameron &lpar;Scooter&rpar; Magruder Go Head-to-Head in Madden NFL 22](https://news.xbox.com/en-us/2022/02/10/xbox-super-showdown-najee-harris-and-scooter-magruder-madden-nfl-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
