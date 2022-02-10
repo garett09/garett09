@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micropsi, which trains industrial robots to perform actions using human demonstrations, raises $30M led by Metaplanet, bringing its total raised to $45M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220210/p22#a220210p22)
- - [Google confirms Samsung, OnePlus, and others will use its dynamic color themes on Android 12](https://www.theverge.com/2022/2/10/22927314/google-android-12-dynamic-color-themes-samsung-oneplus-oppo)
- - [Anti-exploitation bill advances in Senate despite free speech concerns](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)<!-- TECH:END -->
+ - [Apple plans AirTags updates to cut down on unwanted tracking: Precision Finding for unknown AirTags, displaying alerts with sound, louder sounds, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220210/p26#a220210p26)
+ - [Nike is testing NFT trademark law by suing a sneaker reseller](https://www.theverge.com/2022/2/10/22925252/nike-stockx-shoe-lawsuit-vault-nft-trademark-infringement)
+ - [The first Android 13 developer preview lands: Here’s what’s in it!](https://www.androidauthority.com/android-13-dp-1-3105542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
