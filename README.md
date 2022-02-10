@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 Wedding Expansion Won&#39;t Release In Russia Over Homophobic &#39;Federal Laws&#39;](https://kotaku.com/sims-4-wedding-stories-russia-censorship-gay-marriage-e-1848512533)
- - [Portal Companion Collection marks Valve&#39;s first foray into Nintendo territory](https://www.pcgamer.com/portal-companion-collection-marks-valves-first-foray-into-nintendo-territory)
- - [Atomic Heart Reveals its Release Window with High-Octane Story Trailer](https://news.xbox.com/en-us/2022/02/09/atomic-heart-reveals-its-release-window-with-high-octane-story-trailer/)<!-- GAME:END -->
+ - [Contamination leads to the loss of over 6.5 Exabytes of WD and Kioxia 3D NAND](https://www.pcgamer.com/contamination-leads-to-the-loss-of-over-65-exabytes-of-wd-and-kioxia-3d-nand)
+ - [Asrock adds Ryzen 5000 series support to more of its X370 range](https://www.pcgamer.com/asrock-adds-ryzen-5000-series-support-to-more-of-its-x370-range)
+ - [Sims 4 Wedding Expansion Won&#39;t Release In Russia Over Homophobic &#39;Federal Laws&#39;](https://kotaku.com/sims-4-wedding-stories-russia-censorship-gay-marriage-e-1848512533)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
