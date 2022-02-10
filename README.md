@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Take me instead,just leave doggo](http://9gag.com/gag/adg8rz9)
- - 🚯 [Best training ever](http://9gag.com/gag/aDDdr0x)
- - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)<!-- MEMES:END -->
+ - 🚯 [To prevent a robbery in Fortaleza, Brazil, the owner of a store threw a chicken at the criminal](http://9gag.com/gag/amgPOYo)
+ - 🚯 [Equal rights](http://9gag.com/gag/aPZ3zvP)<!-- MEMES:END -->
 
 --- 
 
