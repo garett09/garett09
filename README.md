@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And we both tired of this meme](http://9gag.com/gag/aBn2b5A)
- - 🚯 [Made In China](http://9gag.com/gag/aQXoK17)
- - 🚯 [Can\u2019t touch this](http://9gag.com/gag/aLvp3bA)<!-- MEMES:END -->
+ - 🚖 [Futurama got renewed on Hulu for 20 episodes](http://9gag.com/gag/aXroQ3D)
+ - 🚯 [So happy](http://9gag.com/gag/a51E9gE)
+ - 🚯 [She can feels it..](http://9gag.com/gag/aGzpq5X)<!-- MEMES:END -->
 
 --- 
 
