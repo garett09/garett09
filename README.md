@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you ready to rummblleeee?](http://9gag.com/gag/aPZ30jB)
+ - 🚖 [Mall cop doing his job](http://9gag.com/gag/aGzpqzn)
  - 🚯 [Florida Legislators Considering &#39;Don&#39;t Say Gay&#39; Bill That Would Ban LGBTQ Discussions In Schools](http://9gag.com/gag/amgPOQd)
- - 🚯 [Good news everyone](http://9gag.com/gag/aogMAxe)<!-- MEMES:END -->
+ - 🚯 [And we both tired of this meme](http://9gag.com/gag/aBn2b5A)<!-- MEMES:END -->
 
 --- 
 
