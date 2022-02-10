@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla reportedly sued by California agency alleging racial discrimination     - Roadshow](https://www.cnet.com/roadshow/news/tesla-reportedly-sued-by-california-agency-alleging-racial-discrimination/#ftag=CAD590a51e)
- - [Bitcoin payment processor OpenNode raises a $20M Series A led by Kingsway at a $200M valuation; Twitter, Tim Draper, and Avon Ventures also invested &lpar;Marc Wojno/ZDNet&rpar;](http://www.techmeme.com/220210/p4#a220210p4)
- - [Alfa Romeo plans to mint an NFT for each of its new Tonale SUVs to record vehicle data and verify proper maintenance on a blockchain during the car&#39;s life cycle &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/220210/p3#a220210p3)<!-- TECH:END -->
+ - [Israeli VC firm Cyberstarts, which bets on early-stage cybersecurity startups, has posted a 300% internal rate of return since its fund&#39;s inception in 2018 &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220210/p5#a220210p5)
+ - [We asked, you told us: Plenty of readers fork out for a VPN service](https://www.androidauthority.com/vpn-service-poll-results-3105753/)
+ - [Tesla reportedly sued by California agency alleging racial discrimination     - Roadshow](https://www.cnet.com/roadshow/news/tesla-reportedly-sued-by-california-agency-alleging-racial-discrimination/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
