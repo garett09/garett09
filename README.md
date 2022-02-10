@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best training ever](http://9gag.com/gag/aDDdr0x)
- - 🚯 [Its called hitting the wall right?](http://9gag.com/gag/adg84GV)
- - 🚯 [Its my birthday today. I&#39;m 50](http://9gag.com/gag/amgPKgX)<!-- MEMES:END -->
+ - 🚖 [Collective memory, this is what childhood used to feel like before whatever kids experience today.](http://9gag.com/gag/aDDdNV9)
+ - 🚯 [Just saying](http://9gag.com/gag/ajgmd2Q)
+ - 🚯 [Enchanting](http://9gag.com/gag/azeMDYj)<!-- MEMES:END -->
 
 --- 
 
