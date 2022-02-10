@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony created a Gran Turismo AI that demolishes the world&#39;s best human drivers     - CNET](https://www.cnet.com/tech/gaming/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/#ftag=CAD590a51e)
- - [Census, which lets companies sync their data with apps like Salesforce, raises a $60M Series B led by Tiger Global, source says at a $630M post-money valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220209/p47#a220209p47)
- - [Biden&#39;s pro-net neutrality pick for FCC calls Republican criticism &#39;unfair&#39; and &#39;false&#39;     - CNET](https://www.cnet.com/home/internet/bidens-pro-net-neutrality-pick-for-fcc-calls-republican-criticism-unfair-and-false/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vodafone Portugal is working to recover from a &quot;deliberate and malicious cyberattack&quot; that also affected businesses, ambulances, fire departments, and hospitals &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220210/p2#a220210p2)
+ - [A new OnePlus is coming next week. Here’s what we know.](https://www.androidauthority.com/oneplus-nord-ce-2-launch-3105722/)
+ - [Radar, whose geofencing software lets companies reach customers for curbside pickup, location-based marketing, and more, raises a $55M Series C led by Insight &lpar;Marty Swant/Forbes&rpar;](http://www.techmeme.com/220210/p1#a220210p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
