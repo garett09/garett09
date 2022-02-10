@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Accessibility features in Horizon Forbidden West](https://blog.playstation.com/2022/02/10/accessibility-features-in-horizon-forbidden-west/)
- - [Accessibility features in Horizon Forbidden West](https://blog.playstation.com/2022/02/10/accessibility-features-in-horizon-forbidden-west/)
- - [Mask of the Rose is a murder mystery with a living victim, and a dating sim where you can stay single](https://www.pcgamer.com/mask-of-the-rose-is-a-murder-mystery-with-a-living-victim-and-a-dating-sim-where-you-can-stay-single)<!-- GAME:END -->
+ - [Elden Ring will be the new gateway drug for Souls games](https://www.pcgamer.com/elden-ring-will-be-the-new-gateway-drug-for-souls-games)
+ - [Elden Ring&#39;s mechanics encourage greed on a whole new level](https://www.pcgamer.com/elden-rings-mechanics-encourage-greed-on-a-whole-new-level)
+ - [Elden Ring is poised to be both the easiest and the hardest Souls game yet](https://www.pcgamer.com/elden-ring-is-poised-to-be-both-the-easiest-and-the-hardest-souls-game-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
