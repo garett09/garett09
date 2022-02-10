@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans AirTags updates to cut down on unwanted tracking: Precision Finding for unknown AirTags, displaying alerts with sound, louder sounds, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220210/p26#a220210p26)
- - [Nike is testing NFT trademark law by suing a sneaker reseller](https://www.theverge.com/2022/2/10/22925252/nike-stockx-shoe-lawsuit-vault-nft-trademark-infringement)
- - [The first Android 13 developer preview lands: Here’s what’s in it!](https://www.androidauthority.com/android-13-dp-1-3105542/)<!-- TECH:END -->
+ - [AMD’s $35 billion Xilinx deal has gone through](https://www.theverge.com/2022/2/10/22927040/amd-35-billion-xilinx-deal-fpga-chips-regulators)
+ - [Apple announces AirTag, Find My changes to cut down on stalking &amp; misuse](https://appleinsider.com/articles/22/02/10/apple-announces-airtag-find-my-changes-to-cut-down-on-stalking-misuse?utm_medium=rss)
+ - [Microsoft offers 60 percent discount to Google ‘legacy’ G Suite customers](https://www.theverge.com/2022/2/10/22927587/microsoft-365-discount-offer-google-g-suite-legacy-customers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
