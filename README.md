@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Collective memory, this is what childhood used to feel like before whatever kids experience today.](http://9gag.com/gag/aDDdNV9)
- - 🚯 [Just saying](http://9gag.com/gag/ajgmd2Q)
- - 🚯 [Enchanting](http://9gag.com/gag/azeMDYj)<!-- MEMES:END -->
+ - 🚖 [Enchanting](http://9gag.com/gag/azeMDYj)
+ - 🚯 [Best training ever](http://9gag.com/gag/aDDdr0x)
+ - 🚯 [Save this for later](http://9gag.com/gag/aLvpN75)<!-- MEMES:END -->
 
 --- 
 
