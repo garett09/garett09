@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More people are using AMD CPUs than ever before](https://www.pcgamer.com/more-people-are-using-amd-cpus-than-ever-before)
- - [Artist Hit With Tracing Allegations, But Pokémon Company Says Collab Shirt Is Original](https://kotaku.com/pokemon-piplup-pokemon-company-artist-tracing-allegatio-1848513092)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [Dying Light&#39;s latest patch means it&#39;s safe to turn on DLSS again](https://www.pcgamer.com/dying-lights-latest-patch-means-its-safe-to-turn-on-dlss-again)
+ - [This is the cheapest 1TB NVMe SSD you can buy right now](https://www.pcgamer.com/this-is-the-cheapest-1tb-nvme-ssd-you-can-buy-right-now)
+ - [Mother Creator Shigesato Itoi Does A Master Class In Trolling](https://kotaku.com/mother-earthbound-nintendo-switch-online-shigesato-itoi-1848513224)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
