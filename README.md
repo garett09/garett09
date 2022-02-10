@@ -187,7 +187,7 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [LinkedIn is testing a no-politics setting for some US users&#39; feed that filters out content about political parties and candidates, election outcomes, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220209/p45#a220209p45)
- - [Microsoft&#39;s new app store principles does not apply to the Xbox store, for now, which requires its own billing system and charges developers higher fees &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220209/p44#a220209p44)
+ - [Microsoft&#39;s new app store principles do not apply to the Xbox store, for now, which requires its own billing system and charges developers higher fees &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220209/p44#a220209p44)
  - [Talking to my PS5 works better than I expected](https://www.theverge.com/2022/2/9/22926345/playstation-5-ps5-beta-voice-command-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
