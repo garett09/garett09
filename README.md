@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sims 4 Wedding Expansion Won&#39;t Release In Russia Over Homophobic &#39;Federal Laws&#39;](https://kotaku.com/sims-4-wedding-stories-russia-censorship-gay-marriage-e-1848512533)
  - [Portal Companion Collection marks Valve&#39;s first foray into Nintendo territory](https://www.pcgamer.com/portal-companion-collection-marks-valves-first-foray-into-nintendo-territory)
- - [Atomic Heart Reveals its Release Window with High-Octane Story Trailer](https://news.xbox.com/en-us/2022/02/09/atomic-heart-reveals-its-release-window-with-high-octane-story-trailer/)
- - [Hacker: Elden Ring May Suffer Same Serious Online Exploits As Dark Souls III](https://kotaku.com/elden-ring-dark-souls-pc-online-server-shut-down-hacks-1848511268)<!-- GAME:END -->
+ - [Atomic Heart Reveals its Release Window with High-Octane Story Trailer](https://news.xbox.com/en-us/2022/02/09/atomic-heart-reveals-its-release-window-with-high-octane-story-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
