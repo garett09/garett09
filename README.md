@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tonik Financial, which operates Tonik Digital Bank in the Philippines, raises a $131M Series B led by Mizuho Bank &lpar;Benjamin Cher/The Business Times&rpar;](http://www.techmeme.com/220209/p46#a220209p46)
- - [Android Apple Music beta code reveals upcoming &#39;Apple Classical&#39; app](https://appleinsider.com/articles/22/02/10/android-apple-music-beta-code-reveals-upcoming-apple-classical-app?utm_medium=rss)
- - [LinkedIn is testing a no-politics setting for some US users&#39; feed that filters out content about political parties and candidates, election outcomes, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220209/p45#a220209p45)<!-- TECH:END -->
+ - [Sony created a Gran Turismo AI that demolishes the world&#39;s best human drivers     - CNET](https://www.cnet.com/tech/gaming/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/#ftag=CAD590a51e)
+ - [Census, which lets companies sync their data with apps like Salesforce, raises a $60M Series B led by Tiger Global, source says at a $630M post-money valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220209/p47#a220209p47)
+ - [Biden&#39;s pro-net neutrality pick for FCC calls Republican criticism &#39;unfair&#39; and &#39;false&#39;     - CNET](https://www.cnet.com/home/internet/bidens-pro-net-neutrality-pick-for-fcc-calls-republican-criticism-unfair-and-false/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
