@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 Wedding Expansion Won&#39;t Release In Russia Over Homophobic &#39;Federal Laws&#39;](https://kotaku.com/sims-4-wedding-stories-russia-censorship-gay-marriage-e-1848512533)
- - [Atomic Heart Reveals its Release Window with High-Octane Story Trailer](https://news.xbox.com/en-us/2022/02/09/atomic-heart-reveals-its-release-window-with-high-octane-story-trailer/)
- - [Hacker: Elden Ring May Suffer Same Serious Online Exploits As Dark Souls III](https://kotaku.com/elden-ring-dark-souls-pc-online-server-shut-down-hacks-1848511268)<!-- GAME:END -->
+ - [Get $300 off this ASUS ROG Zephyrus 15&quot; QHD gaming laptop](https://www.pcgamer.com/get-dollar300-off-this-asus-rog-zephyrus-15-qhd-gaming-laptop)
+ - [Toshiba to release 26TB HDDs this year, 30TB to come later](https://www.pcgamer.com/toshiba-to-release-26tb-hdds-this-year-30tb-to-come-later)
+ - [Contamination leads to the loss of over 6.5 Exabytes of WD and Kioxia 3D NAND](https://www.pcgamer.com/contamination-leads-to-the-loss-of-over-65-exabytes-of-wd-and-kioxia-3d-nand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
