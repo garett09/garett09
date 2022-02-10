@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn says there will be a major improvement in component shortages in Q1; TSMC and others have indicated shortages will continue through 2022 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220210/p8#a220210p8)
- - [Apple reveals new Abu Dhabi store on Al Maryah Island](https://appleinsider.com/articles/22/02/10/apple-reveals-new-abu-dhabi-store-on-al-maryah-island?utm_medium=rss)
- - [Sources: KoBold Metals, which uses AI to find earth metals needed in EVs, raises a $192.5M Series B from Apollo Projects, Bond Capital, and others &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/220210/p7#a220210p7)<!-- TECH:END -->
+ - [Twitter misses as Q4 revenue rose 22% YoY to $1.57B, net income dropped to $182M; mDAUs hit 217M, up from 192M YoY; FY 2021 revenue rose 37% YoY to $5.08B &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220210/p10#a220210p10)
+ - [Daily Authority: 🎁 S22, Ultra, Tab S8](https://www.androidauthority.com/da-february-10-2022-3106016/)
+ - [Tesla sued by civil rights agency for operating ‘racially segregated workplace’](https://www.theverge.com/2022/2/10/22926851/tesla-sued-california-racially-segregated-workplace-dfeh)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
