@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen Carpenter drum solo](http://9gag.com/gag/aGzpvW7)
- - 🚯 [Closing pop ups](http://9gag.com/gag/aAGbAbL)
- - 🚯 [I wont give up pizza](http://9gag.com/gag/aGzp5eZ)<!-- MEMES:END -->
+ - 🚖 [This will be a great night at hospital](http://9gag.com/gag/a71Eg7z)
+ - 🚯 [Good news, everyone!!](http://9gag.com/gag/aXro33z)
+ - 🚯 [Cooling down metal](http://9gag.com/gag/a91Ewo0)<!-- MEMES:END -->
 
 --- 
 
