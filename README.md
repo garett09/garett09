@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Binance is investing $200M in Forbes to help the publisher with its plan to merge with a SPAC in Q1 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/220210/p15#a220210p15)
- - [Tag Heuer’s new Connected Calibre E4 offers better specs and a sleek, smaller 42mm model](https://www.theverge.com/2022/2/10/22926443/tag-heuer-connected-calibre-e4-45mm-42mm-price-release-date-luxury-wear-os)
- - [A Twist on Stem Cell Transplants Could Help Blood Cancer Patients](https://www.wired.com/story/a-twist-on-stem-cell-transplants-could-help-blood-cancer-patients)<!-- TECH:END -->
+ - [UAG delivers the protection the Galaxy S22 deserves](https://www.androidauthority.com/uag-galaxy-s22-cases-3104921/)
+ - [Playing With Crypto? You’ll Need a Wallet &lpar;or Several&rpar;](https://www.wired.com/story/how-to-choose-set-up-crypto-wallet)
+ - [20 Tips and Hidden Tricks for the PS5 &lpar;You Lucky Dog&rpar;](https://www.wired.com/story/playstation-5-tips-and-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
