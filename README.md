@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Startup’s 5G Blackberry revival is reportedly no more](https://www.theverge.com/2022/2/11/22928875/blackberry-5g-android-phone-onwardmobility-cancelled)
- - [Daily Authority: 🎂 Android 13 and Tiramisu](https://www.androidauthority.com/da-february-11-2022-3106860/)
- - [UK&#39;s CMA accepts Google&#39;s plan to phase out third-party cookies and replace them with Privacy Sandbox and will closely monitor the development of the product &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220211/p3#a220211p3)<!-- TECH:END -->
+ - [Just how big is the Galaxy S22 Ultra? Check these size comparisons!](https://www.androidauthority.com/samsung-galaxy-s22-ultra-size-comparison-3106917/)
+ - [How Robinhood&#39;s Psych Experiment Backfired Horribly](https://www.wired.com/story/robinhood-psych-experiment-gamestop)
+ - [The Team Behind Among Us Is Building Better Communities](https://www.wired.com/story/among-us-innersloth-interview-online-communities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
