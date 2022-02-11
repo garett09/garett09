@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hopefully Disgaea 6 Will Be Better On PlayStation 5](https://kotaku.com/disgaea-6-complete-ps4-ps5-pc-steam-defiance-of-destiny-1848520876)
- - [Disgaea 6 brings more colorful turn-based tactics to PC this summer](https://www.pcgamer.com/disgaea-6-brings-more-colorful-turn-based-tactics-to-pc-this-summer)
- - [The Life and Suffering of Sir Brante is Available Now on Xbox!](https://news.xbox.com/en-us/2022/02/10/the-life-and-suffering-of-sir-brante-is-available-now-on-xbox/)<!-- GAME:END -->
+ - [Project Zomboid traits guide](https://www.pcgamer.com/best-traits-project-zomboid)
+ - [The people are revolting over Crusader Kings&#39; most expensive expansion yet](https://www.pcgamer.com/the-people-are-revolting-over-crusader-kings-most-expensive-expansion-yet)
+ - [Unlock Dying Light 2&#39;s hidden FSR Ultra Quality for better visuals](https://www.pcgamer.com/unlock-dying-light-2s-hidden-fsr-ultra-quality-for-better-visuals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
