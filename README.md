@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uncharted review: Tom Holland charms in harmless Indiana Jones ripoff     - CNET](https://www.cnet.com/news/uncharted-review-tom-holland-charms-in-harmless-indiana-jones-rip-off/#ftag=CAD590a51e)
  - [Here’s what Sony’s strange doughnut-shaped earbuds are all about](https://www.androidauthority.com/sony-linkbuds-wf-900-3106630/)
- - [SpaceX Starship event: Elon Musk talks Mars missions and more in megarocket update     - CNET](https://www.cnet.com/news/spacex-starship-event-elon-musk-talks-mars-missions-and-more-in-megarocket-update/#ftag=CAD590a51e)
- - [For Black History Month, stream these impactful, uplifting movies and TV shows     - CNET](https://www.cnet.com/news/mark-black-history-month-2022-with-these-impactful-uplifting-movies-and-tv-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX Starship event: Elon Musk talks Mars missions and more in megarocket update     - CNET](https://www.cnet.com/news/spacex-starship-event-elon-musk-talks-mars-missions-and-more-in-megarocket-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
