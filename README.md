@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How researchers are using AI to analyze the undeciphered ancient script of the Indus Valley Civilization, and the challenges of deciphering long-lost languages &lpar;Alizeh Kohari/Rest of World&rpar;](http://www.techmeme.com/220211/p1#a220211p1)
- - [Are BlackBerry-branded phones dead again? New report says yes.](https://www.androidauthority.com/report-onward-mobility-blackberry-dead-3105724/)
- - [Uncharted review: Tom Holland charms in harmless Indiana Jones ripoff     - CNET](https://www.cnet.com/news/uncharted-review-tom-holland-charms-in-harmless-indiana-jones-rip-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top 7 Best Wordpress Plugin Of All Time](https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html)
+ - [Google’s Privacy Sandbox ad-tracking overhaul clears major regulatory hurdle](https://www.theverge.com/2022/2/11/22814204/google-chrome-third-party-cookies-privacy-sandbox-uk-competition-and-markets-authority-regulator)
+ - [How researchers are using AI to analyze the undeciphered ancient script of the Indus Valley Civilization, and the challenges of deciphering long-lost languages &lpar;Alizeh Kohari/Rest of World&rpar;](http://www.techmeme.com/220211/p1#a220211p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
