@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This hidden beauty...](http://9gag.com/gag/aBn2qxQ)
- - 🚯 [She said it did not matter and i could Just put the game in my xbox](http://9gag.com/gag/aOQ3XYN)
- - 🚯 [The graceful British Prime Minister.](http://9gag.com/gag/aDDdErx)<!-- MEMES:END -->
+ - 🚖 [I thought it was a movie trailer.](http://9gag.com/gag/aDDdER7)
+ - 🚯 [I can&#39;t see any differences...](http://9gag.com/gag/aGzpPVZ)
+ - 🚯 [Today, Finnish athletes saw this in their newly-built Beijing Olympics Athlete Dormitory](http://9gag.com/gag/aE8pLMx)<!-- MEMES:END -->
 
 --- 
 
