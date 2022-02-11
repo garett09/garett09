@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Life and Suffering of Sir Brante is Available Now on Xbox!](https://news.xbox.com/en-us/2022/02/10/the-life-and-suffering-of-sir-brante-is-available-now-on-xbox/)
  - [Lord Of The Rings Mod Hit With Takedown Just As Series&#39; Rights Are Up For Sale](https://kotaku.com/lord-of-the-rings-tolkien-mod-mods-pc-total-war-amazon-1848519263)
- - [9 things every Lost Ark player should know](https://www.pcgamer.com/lost-ark-guide-tips-and-tricks)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [Nintendo Thanks Feds For Sending Hacker To Prison For 3 Years](https://kotaku.com/nintendo-switch-gary-bowser-pirate-hacker-team-xecutor-1848518734)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
