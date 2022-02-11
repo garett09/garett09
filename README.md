@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what peak performance looks like](http://9gag.com/gag/a41EvmQ)
- - 🚯 [Just a prank bro](http://9gag.com/gag/a71EYge)
+ - 🚖 [W.T.F. ???](http://9gag.com/gag/aDDdyjw)
+ - 🚯 [History channel after midnight](http://9gag.com/gag/adg8E0j)
  - 🚯 [The beginning was just for fun... And now they are 100km from their house and the truck hasn&#39;t stopped](http://9gag.com/gag/ay9MGRr)<!-- MEMES:END -->
 
 --- 
