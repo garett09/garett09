@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So f**king annoying, everytime](http://9gag.com/gag/aWgj3jK)
- - 🚯 [Science b*tch](http://9gag.com/gag/aNPp5Or)
- - 🚯 [MTV](http://9gag.com/gag/aPZ3bAw)<!-- MEMES:END -->
+ - 🚖 [What Olympic Javelin Throwers use to train in Germany.](http://9gag.com/gag/a217671)
+ - 🚯 [Noooop](http://9gag.com/gag/adg8D2M)
+ - 🚯 [Toasts are like parents...](http://9gag.com/gag/axBMrB2)<!-- MEMES:END -->
 
 --- 
 
