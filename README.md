@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [So f**king annoying, everytime](http://9gag.com/gag/aWgj3jK)
- - 🚯 [MTV](http://9gag.com/gag/aPZ3bAw)
- - 🚯 [Good times](http://9gag.com/gag/avA5Kwn)<!-- MEMES:END -->
+ - 🚯 [Science b*tch](http://9gag.com/gag/aNPp5Or)
+ - 🚯 [MTV](http://9gag.com/gag/aPZ3bAw)<!-- MEMES:END -->
 
 --- 
 
