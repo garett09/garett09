@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney+ ended 2021 with 129.8M subscribers, up 37% YoY; in the US and Canada it had 42.9M subscribers, international excluding Hotstar 41.1M, and Hotstar 45.9M &lpar;Variety&rpar;](http://www.techmeme.com/220210/p42#a220210p42)
- - [Senators Wyden and Heinrich: declassified docs show a CIA bulk surveillance program collecting Americans&#39; data without clear judicial or congressional oversight &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220210/p41#a220210p41)
- - [Wordle &#39;current streak&#39; problem fixed, says New York Times     - CNET](https://www.cnet.com/news/wordle-current-streak-problem-fixed-says-new-york-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what Sony’s strange doughnut-shaped earbuds are all about](https://www.androidauthority.com/sony-linkbuds-wf-900-3106630/)
+ - [SpaceX Starship event: Elon Musk talks Mars missions and more in megarocket update     - CNET](https://www.cnet.com/news/spacex-starship-event-elon-musk-talks-mars-missions-and-more-in-megarocket-update/#ftag=CAD590a51e)
+ - [For Black History Month, stream these impactful, uplifting movies and TV shows     - CNET](https://www.cnet.com/news/mark-black-history-month-2022-with-these-impactful-uplifting-movies-and-tv-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
