@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom users report Mac microphone staying on after calls](https://appleinsider.com/articles/22/02/11/zoom-users-report-mac-microphone-staying-on-after-calls?utm_medium=rss)
- - [Motorola Edge 30 Pro could have stylus, but it won’t be a Galaxy S22 Ultra rival](https://www.androidauthority.com/motorola-edge-30-pro-stylus-3107251/)
- - [Twitter is having some problems](https://www.theverge.com/2022/2/11/22929356/twitter-down-outage-west-coast)<!-- TECH:END -->
+ - [&#39;The Problem with Jon Stewart&#39; returning to Apple TV+ on March 3](https://appleinsider.com/articles/22/02/11/the-problem-with-jon-stewart-returning-to-apple-tv-on-march-3?utm_medium=rss)
+ - [A real life test to secretly follow a person using AirTags, Tiles, and a LandAirSea GPS tracker &lpar;New York Times&rpar;](http://www.techmeme.com/220211/p12#a220211p12)
+ - [Netflix’s Marvel TV shows will disappear at the end of this month](https://www.theverge.com/2022/2/11/22929364/netflix-disney-daredevil-iron-fist-luke-cage-jessica-jones-punisher-marvel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
