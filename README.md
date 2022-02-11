@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little snow in Norway. Not mine](http://9gag.com/gag/a61E6Xm)
- - 🚯 [Seems about right](http://9gag.com/gag/azeMw8j)
- - 🚯 [It&#39;ll get better fellow gaggers](http://9gag.com/gag/abgV8bv)<!-- MEMES:END -->
+ - 🚖 [So f**king annoying, everytime](http://9gag.com/gag/aWgj3jK)
+ - 🚯 [MTV](http://9gag.com/gag/aPZ3bAw)
+ - 🚯 [Good times](http://9gag.com/gag/avA5Kwn)<!-- MEMES:END -->
 
 --- 
 
