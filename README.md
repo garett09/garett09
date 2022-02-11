@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Amazon has received $4.7B in tax breaks globally over the past decade; $4.1B was from the US and weak disclosure laws could put the rest well over $600M &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220211/p2#a220211p2)
  - [Yep, Android 13’s dessert codename is ‘Tiramisu’ after all](https://www.theverge.com/tldr/2022/2/11/22928812/android-13-cake-codename-tiramisu)
- - [You told us: Here’s when you last received a system update on your phone](https://www.androidauthority.com/system-update-frequency-poll-results-3106710/)
- - [Top 7 Best Wordpress Plugin Of All Time](https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html)<!-- TECH:END -->
+ - [You told us: Here’s when you last received a system update on your phone](https://www.androidauthority.com/system-update-frequency-poll-results-3106710/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
