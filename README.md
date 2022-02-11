@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yu-Gi-Oh! Master Duel review](https://www.pcgamer.com/yu-gi-oh-master-duel-review)
- - [Call of Duty: Modern Warfare and Warzone sequels coming later this year](https://www.polygon.com/22929064/call-of-duty-modern-warfare-2-warzone-sequel-infinity-ward-release)
- - [Blade Runner TV series in development at Amazon](https://www.polygon.com/22929366/blade-runner-2099-tv-amazon-sequel-ridley-scott)<!-- GAME:END -->
+ - [Book of Boba Fett is so much better when you realize Boba Fett is the series villain](https://www.polygon.com/star-wars/22929592/book-of-boba-fett-hero-vs-villain)
+ - [More Than 160,000 Battlefield 2042 Players Sign Petition Asking For Money Back](https://kotaku.com/battlefield-2042-refund-petition-ea-bf2042-change-1848524654)
+ - [Bungie has hints, but not answers, about the boss of Destiny 2’s Witch Queen raid](https://www.polygon.com/22929425/destiny-2-witch-queen-campaign-raid-boss-dreadnaught-bungie-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
