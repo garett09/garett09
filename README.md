@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [W.T.F. ???](http://9gag.com/gag/aDDdyjw)
- - 🚯 [History channel after midnight](http://9gag.com/gag/adg8E0j)
- - 🚯 [The beginning was just for fun... And now they are 100km from their house and the truck hasn&#39;t stopped](http://9gag.com/gag/ay9MGRr)<!-- MEMES:END -->
+ - 🚖 [This is how you should talk](http://9gag.com/gag/apgNWrE)
+ - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)
+ - 🚯 [Gosh, darn it](http://9gag.com/gag/aogMXg3)<!-- MEMES:END -->
 
 --- 
 
