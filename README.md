@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into Android 13&#39;s new features and changes, including a photo picker, per-app language preferences, Quick Settings tiles, a Hub mode, and UI changes &lpar;Mishaal Rahman/Esper Blog&rpar;](http://www.techmeme.com/220211/p13#a220211p13)
- - [Uber and Lyft are finally starting to look like different companies](https://www.theverge.com/2022/2/11/22929555/uber-lyft-2021-q4-earnings-delivery-bikeshare)
- - [Call of Duty is getting a ‘new Warzone experience’ in 2022](https://www.theverge.com/2022/2/11/22929492/call-of-duty-warzone-sequel-new-experience-infinity-ward)<!-- TECH:END -->
+ - [US nuclear power plants contain dangerous counterfeit parts, report finds](https://www.theverge.com/2022/2/11/22929255/us-nuclear-power-plants-dangerous-counterfeit-parts-nrc-report)
+ - [HomeKit roundtable: Jennifer Tuohy joins to discuss Matter and the smart home](https://appleinsider.com/articles/22/02/11/homekit-roundtable-jennifer-tuohy-joins-to-discuss-matter-and-the-smart-home?utm_medium=rss)
+ - [Apple&#39;s M1 Max MacBook Pro with 64GB RAM, 2TB SSD is in stock, $300 off](https://appleinsider.com/articles/22/02/10/apples-m1-max-macbook-pro-with-64gb-ram-2tb-ssd-is-in-stock-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
