@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This hidden beauty...](http://9gag.com/gag/aBn2qxQ)
- - 🚯 [This is how you should talk](http://9gag.com/gag/apgNWrE)
- - 🚯 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)<!-- MEMES:END -->
+ - 🚯 [She said it did not matter and i could Just put the game in my xbox](http://9gag.com/gag/aOQ3XYN)
+ - 🚯 [The graceful British Prime Minister.](http://9gag.com/gag/aDDdErx)<!-- MEMES:END -->
 
 --- 
 
