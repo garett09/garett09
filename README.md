@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Four-Day Workweek Is Getting Popular Among Devs, And It Sure Sounds Nice](https://kotaku.com/homeworld-hardspace-shipbreaker-blackbird-four-day-work-1848522287)
- - [Lost Ark is limiting new character creation to address long queue times](https://www.pcgamer.com/lost-ark-is-limiting-new-character-creation-to-address-long-queue-times)
- - [Horizon Forbidden West: New Horizon Raw Materials merchandise available](https://blog.playstation.com/2022/02/11/horizon-forbidden-west-new-horizon-raw-materials-merchandise-available/)<!-- GAME:END -->
+ - [20 years later, the Halo composers are suing Microsoft](https://www.polygon.com/22929132/halo-composer-marty-odonnell-mile-salvatori-music-lawsuit-microsoft)
+ - [Share of the Week – Uncharted: Legacy of Thieves Collection – Landscapes](https://blog.playstation.com/2022/02/11/share-of-the-week-uncharted-legacy-of-thieves-collection-landscapes/)
+ - [Share of the Week – Uncharted: Legacy of Thieves Collection – Landscapes](https://blog.playstation.com/2022/02/11/share-of-the-week-uncharted-legacy-of-thieves-collection-landscapes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
