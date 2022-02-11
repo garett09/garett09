@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Blast Corps-channelling wrecking sim looks absolutely smashing](https://www.pcgamer.com/this-blast-corps-channelling-wrecking-sim-looks-absolutely-smashing)
- - [New maps, guns, enemy, and more for After The Fall’s Frontrunner season revealed](https://blog.playstation.com/2022/02/11/new-maps-guns-enemy-and-more-for-after-the-falls-frontrunner-season-revealed/)
- - [New maps, guns, enemy, and more for After The Fall’s Frontrunner season revealed](https://blog.playstation.com/2022/02/11/new-maps-guns-enemy-and-more-for-after-the-falls-frontrunner-season-revealed/)<!-- GAME:END -->
+ - [The Four-Day Workweek Is Getting Popular Among Devs, And It Sure Sounds Nice](https://kotaku.com/homeworld-hardspace-shipbreaker-blackbird-four-day-work-1848522287)
+ - [Lost Ark is limiting new character creation to address long queue times](https://www.pcgamer.com/lost-ark-is-limiting-new-character-creation-to-address-long-queue-times)
+ - [Horizon Forbidden West: New Horizon Raw Materials merchandise available](https://blog.playstation.com/2022/02/11/horizon-forbidden-west-new-horizon-raw-materials-merchandise-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
