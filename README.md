@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disgaea 6 brings more colorful turn-based tactics to PC this summer](https://www.pcgamer.com/disgaea-6-brings-more-colorful-turn-based-tactics-to-pc-this-summer)
- - [The Life and Suffering of Sir Brante is Available Now on Xbox!](https://news.xbox.com/en-us/2022/02/10/the-life-and-suffering-of-sir-brante-is-available-now-on-xbox/)
- - [Lord Of The Rings Mod Hit With Takedown Just As Series&#39; Rights Are Up For Sale](https://kotaku.com/lord-of-the-rings-tolkien-mod-mods-pc-total-war-amazon-1848519263)<!-- GAME:END -->
+ - [Total War: Rise of Mordor mod removed after copyright strike](https://www.pcgamer.com/total-war-rise-of-mordor-mod-removed-after-copyright-strike)
+ - [Hopefully Disgaea 6 Will Be Better On PlayStation 5](https://kotaku.com/disgaea-6-complete-ps4-ps5-pc-steam-defiance-of-destiny-1848520876)
+ - [Disgaea 6 brings more colorful turn-based tactics to PC this summer](https://www.pcgamer.com/disgaea-6-brings-more-colorful-turn-based-tactics-to-pc-this-summer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
