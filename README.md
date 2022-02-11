@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 7 Best Wordpress Plugin Of All Time](https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html)
- - [Google’s Privacy Sandbox ad-tracking overhaul clears major regulatory hurdle](https://www.theverge.com/2022/2/11/22814204/google-chrome-third-party-cookies-privacy-sandbox-uk-competition-and-markets-authority-regulator)
- - [How researchers are using AI to analyze the undeciphered ancient script of the Indus Valley Civilization, and the challenges of deciphering long-lost languages &lpar;Alizeh Kohari/Rest of World&rpar;](http://www.techmeme.com/220211/p1#a220211p1)<!-- TECH:END -->
+ - [Yep, Android 13’s dessert codename is ‘Tiramisu’ after all](https://www.theverge.com/tldr/2022/2/11/22928812/android-13-cake-codename-tiramisu)
+ - [You told us: Here’s when you last received a system update on your phone](https://www.androidauthority.com/system-update-frequency-poll-results-3106710/)
+ - [Top 7 Best Wordpress Plugin Of All Time](https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
