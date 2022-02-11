@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will shut down Currents, the work-focused Google Plus replacement](https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces)
- - [Another small iPhone update is rushed out to fix a security flaw     - CNET](https://www.cnet.com/tech/mobile/another-small-iphone-update-is-rushed-out-to-fix-a-security-flaw/#ftag=CAD590a51e)
- - [Apple takes majority share of U.S. headphone market, study finds](https://appleinsider.com/articles/22/02/11/apple-takes-majority-share-of-us-headphone-market-study-finds?utm_medium=rss)<!-- TECH:END -->
+ - [AMD says it has received all necessary regulatory approvals to close its Xilinx acquisition, set for around February 14; the deal was announced in October 2020 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220210/p40#a220210p40)
+ - [Wordle helps save woman held hostage in home by naked intruder     - CNET](https://www.cnet.com/news/wordle-helps-save-woman-held-hostage-in-home-by-naked-intruder/#ftag=CAD590a51e)
+ - [Google will shut down Currents, the work-focused Google Plus replacement](https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
