@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceTime3D lawsuit claims app switcher, Safari tabs infringe on patents](https://appleinsider.com/articles/22/02/11/spacetime3d-lawsuit-claims-app-switcher-safari-tabs-infringe-on-patents?utm_medium=rss)
- - [Terry Pratchett Raised Funny Fantasy to High Art](https://www.wired.com/2022/02/geeks-guide-terry-pratchet)
- - [The best Chromebook for 2022](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [Zoom users report Mac microphone staying on after calls](https://appleinsider.com/articles/22/02/11/zoom-users-report-mac-microphone-staying-on-after-calls?utm_medium=rss)
+ - [Motorola Edge 30 Pro could have stylus, but it won’t be a Galaxy S22 Ultra rival](https://www.androidauthority.com/motorola-edge-30-pro-stylus-3107251/)
+ - [Twitter is having some problems](https://www.theverge.com/2022/2/11/22929356/twitter-down-outage-west-coast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
