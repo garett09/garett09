@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, Updates, and Events](https://news.xbox.com/en-us/2022/02/11/this-week-on-xbox-new-games-updates-and-events/)
- - [I reviewed a bunch of dad games and now I’m sad](https://www.polygon.com/videos/22929103/i-reviewed-a-bunch-of-dad-games-and-now-im-sad)
- - [King of Fighters started as a tournament of franchises; it’s become a tournament of eras](https://www.polygon.com/22929632/king-of-fighters-15-characters-history-of-evolution)<!-- GAME:END -->
+ - [Death on the Nile is a good old-fashioned mess of a movie](https://www.polygon.com/reviews/22929797/death-on-the-nile-review)
+ - [Report: Warzone Devs: &#39;We F**ked Stuff Up. We Broke It.&#39;](https://kotaku.com/warzone-2-cod-broken-glitches-raven-devs-battle-royale-1848525840)
+ - [Spencer, Resident Evil, Kimi, and every new movie you can watch from home this week](https://www.polygon.com/what-to-watch/22919127/new-movies-watch-stream-spencer-kristen-stewart-kimi-netflix-romcoms-flee-hulu-hbo-max-prime-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
