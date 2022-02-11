@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Idk man, old times hit different.](http://9gag.com/gag/arnMjbp)
- - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)
- - 🚯 [And that&#39;s how I missed my flight](http://9gag.com/gag/azeMn5z)<!-- MEMES:END -->
+ - 🚯 [Sky Diving, eh ?](http://9gag.com/gag/ay9MOnr)
+ - 🚯 [Starbucks is not coffee](http://9gag.com/gag/aZr0eV0)<!-- MEMES:END -->
 
 --- 
 
