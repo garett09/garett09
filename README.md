@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Horizon Forbidden West cinematic trailer is here](https://blog.playstation.com/2022/02/11/the-horizon-forbidden-west-cinematic-trailer-is-here/)
- - [The Horizon Forbidden West cinematic trailer is here](https://blog.playstation.com/2022/02/11/the-horizon-forbidden-west-cinematic-trailer-is-here/)
- - [Nolan North Is Voicing Nathan Drake For The Uncharted Movie Version&#39;s Novelization](https://kotaku.com/tom-holland-nolan-north-uncharted-sony-pictures-playsta-1848520987)<!-- GAME:END -->
+ - [This Blast Corps-channelling wrecking sim looks absolutely smashing](https://www.pcgamer.com/this-blast-corps-channelling-wrecking-sim-looks-absolutely-smashing)
+ - [New maps, guns, enemy, and more for After The Fall’s Frontrunner season revealed](https://blog.playstation.com/2022/02/11/new-maps-guns-enemy-and-more-for-after-the-falls-frontrunner-season-revealed/)
+ - [New maps, guns, enemy, and more for After The Fall’s Frontrunner season revealed](https://blog.playstation.com/2022/02/11/new-maps-guns-enemy-and-more-for-after-the-falls-frontrunner-season-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
