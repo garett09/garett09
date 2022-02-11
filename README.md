@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo Global is nearing a deal to acquire the point-of-sale terminal business of Paris-based payments company Worldline for close to $2.3B &lpar;Ben Dummett/Wall Street Journal&rpar;](http://www.techmeme.com/220211/p15#a220211p15)
- - [Zoom users report Mac microphone staying on after calls](https://appleinsider.com/articles/22/02/11/zoom-users-report-mac-microphone-staying-on-after-calls?utm_medium=rss)
- - [Wordle players, fear not: The New York Times says the ‘vast majority’ of win streak stats have now been carried over](https://www.theverge.com/2022/2/11/22929229/wordle-new-york-times-streak-stats-issues)<!-- TECH:END -->
+ - [A profile of the couple accused of conspiring to launder around $5B in stolen bitcoin, pieced together from sources, filings, and a voluminous online record &lpar;Tim Marchman/VICE&rpar;](http://www.techmeme.com/220211/p16#a220211p16)
+ - [Inside the dying art of subtitling     - CNET](https://www.cnet.com/news/features/inside-the-dying-art-of-subtitling/#ftag=CAD590a51e)
+ - [Sources: Apollo Global is nearing a deal to acquire the point-of-sale terminal business of Paris-based payments company Worldline for close to $2.3B &lpar;Ben Dummett/Wall Street Journal&rpar;](http://www.techmeme.com/220211/p15#a220211p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
