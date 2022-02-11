@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [That thing you like is being rebooted     - CNET](https://www.cnet.com/news/that-thing-you-like-is-being-rebooted/#ftag=CAD590a51e)
- - [Get back to making gains with up to 44% off PowerBlock adjustable dumbbells     - CNET](https://www.cnet.com/health/fitness/get-back-to-making-gains-with-up-to-44-off-powerblock-adjustable-dumbbells/#ftag=CAD590a51e)
- - [The latest on Tinder Swindler Simon Leviev and his victims     - CNET](https://www.cnet.com/news/the-latest-on-tinder-swindler-simon-leviev-and-his-victims/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bigbug’s a charming nightmare about the internet of other people and their things](https://www.theverge.com/22927466/netflix-bigbug-movie-review-jean-pierre-jeunet)
+ - [Secret CIA program may have breached Americans&#39; privacy](https://appleinsider.com/articles/22/02/11/secret-cia-program-may-have-breached-americans-privacy?utm_medium=rss)
+ - [OnePlus officially announces Oxygen OS 13, which isn’t supposed to exist](https://www.androidauthority.com/oxygen-os-13-3107095/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
