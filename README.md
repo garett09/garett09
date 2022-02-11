@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gone in 60 seconds.](http://9gag.com/gag/a91ExdW)
- - 🚯 [Hanging with the cool kids](http://9gag.com/gag/a61E0nq)
- - 🚯 [Nuclear fusion major breakthrough achieved by JET Culham Centre for Fusion Energy](http://9gag.com/gag/aVx7yoO)<!-- MEMES:END -->
+ - 🚖 [So that was a lie](http://9gag.com/gag/apgN4Q8)
+ - 🚯 [\u1d9c\u1d43\u1d57 \u1da6\u02e2 \u02e2\u1da6\u02e1\u02e1\u02b8](http://9gag.com/gag/azeMWzq)
+ - 🚯 [Just a prank bro](http://9gag.com/gag/a71EYge)<!-- MEMES:END -->
 
 --- 
 
