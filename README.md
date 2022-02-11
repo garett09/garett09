@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Fantasy RPG Mandragora Coming Soon to Xbox Series X|S](https://news.xbox.com/en-us/2022/02/11/dark-fantasy-rpg-mandragora-coming-soon-to-xbox-series-xs/)
- - [The New York Times Rushes To Fix Broken Wordle Streaks](https://kotaku.com/wordle-new-york-times-streaks-broken-nyt-migration-dail-1848525236)
- - [Report: Ubisoft Employees Are Still Telling Their Bosses That NFTs Suck](https://kotaku.com/ubisoft-nft-blockchain-metaverse-rabbids-quartz-ghost-r-1848524189)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Updates, and Events](https://news.xbox.com/en-us/2022/02/11/this-week-on-xbox-new-games-updates-and-events/)
+ - [I reviewed a bunch of dad games and now I’m sad](https://www.polygon.com/videos/22929103/i-reviewed-a-bunch-of-dad-games-and-now-im-sad)
+ - [King of Fighters started as a tournament of franchises; it’s become a tournament of eras](https://www.polygon.com/22929632/king-of-fighters-15-characters-history-of-evolution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
