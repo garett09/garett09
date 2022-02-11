@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noooop](http://9gag.com/gag/adg8D2M)
- - 🚯 [Gone in 60 seconds.](http://9gag.com/gag/a91ExdW)
- - 🚯 [Worst trade in history ever](http://9gag.com/gag/a2173MY)<!-- MEMES:END -->
+ - 🚖 [Gone in 60 seconds.](http://9gag.com/gag/a91ExdW)
+ - 🚯 [Hanging with the cool kids](http://9gag.com/gag/a61E0nq)
+ - 🚯 [Nuclear fusion major breakthrough achieved by JET Culham Centre for Fusion Energy](http://9gag.com/gag/aVx7yoO)<!-- MEMES:END -->
 
 --- 
 
