@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 years later, the Halo composers are suing Microsoft](https://www.polygon.com/22929132/halo-composer-marty-odonnell-mile-salvatori-music-lawsuit-microsoft)
- - [Share of the Week – Uncharted: Legacy of Thieves Collection – Landscapes](https://blog.playstation.com/2022/02/11/share-of-the-week-uncharted-legacy-of-thieves-collection-landscapes/)
- - [Share of the Week – Uncharted: Legacy of Thieves Collection – Landscapes](https://blog.playstation.com/2022/02/11/share-of-the-week-uncharted-legacy-of-thieves-collection-landscapes/)<!-- GAME:END -->
+ - [Dying Light 2 tips to outrun the zombie apocalypse](https://www.pcgamer.com/dying-light-2-tips-weapons-immunity)
+ - [DC’s 2022 teaser offers glimpses at Black Adam, The Flash, Aquaman 2, and several new heroes](https://www.polygon.com/22929361/dc-teaser-batman-aquaman-2-flash-black-adam)
+ - [The best weapons in Project Zomboid](https://www.pcgamer.com/best-project-zomboid-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
