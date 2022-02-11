@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Problem with Jon Stewart&#39; returning to Apple TV+ on March 3](https://appleinsider.com/articles/22/02/11/the-problem-with-jon-stewart-returning-to-apple-tv-on-march-3?utm_medium=rss)
- - [A real life test to secretly follow a person using AirTags, Tiles, and a LandAirSea GPS tracker &lpar;New York Times&rpar;](http://www.techmeme.com/220211/p12#a220211p12)
- - [Netflix’s Marvel TV shows will disappear at the end of this month](https://www.theverge.com/2022/2/11/22929364/netflix-disney-daredevil-iron-fist-luke-cage-jessica-jones-punisher-marvel)<!-- TECH:END -->
+ - [A deep dive into Android 13&#39;s new features and changes, including a photo picker, per-app language preferences, Quick Settings tiles, a Hub mode, and UI changes &lpar;Mishaal Rahman/Esper Blog&rpar;](http://www.techmeme.com/220211/p13#a220211p13)
+ - [Uber and Lyft are finally starting to look like different companies](https://www.theverge.com/2022/2/11/22929555/uber-lyft-2021-q4-earnings-delivery-bikeshare)
+ - [Call of Duty is getting a ‘new Warzone experience’ in 2022](https://www.theverge.com/2022/2/11/22929492/call-of-duty-warzone-sequel-new-experience-infinity-ward)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
