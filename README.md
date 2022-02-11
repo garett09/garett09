@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 tips to outrun the zombie apocalypse](https://www.pcgamer.com/dying-light-2-tips-weapons-immunity)
- - [DC’s 2022 teaser offers glimpses at Black Adam, The Flash, Aquaman 2, and several new heroes](https://www.polygon.com/22929361/dc-teaser-batman-aquaman-2-flash-black-adam)
- - [The best weapons in Project Zomboid](https://www.pcgamer.com/best-project-zomboid-weapons)<!-- GAME:END -->
+ - [Yu-Gi-Oh! Master Duel review](https://www.pcgamer.com/yu-gi-oh-master-duel-review)
+ - [Call of Duty: Modern Warfare and Warzone sequels coming later this year](https://www.polygon.com/22929064/call-of-duty-modern-warfare-2-warzone-sequel-infinity-ward-release)
+ - [Blade Runner TV series in development at Amazon](https://www.polygon.com/22929366/blade-runner-2099-tv-amazon-sequel-ridley-scott)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
