@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says it has received all necessary regulatory approvals to close its Xilinx acquisition, set for around February 14; the deal was announced in October 2020 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220210/p40#a220210p40)
- - [Wordle helps save woman held hostage in home by naked intruder     - CNET](https://www.cnet.com/news/wordle-helps-save-woman-held-hostage-in-home-by-naked-intruder/#ftag=CAD590a51e)
- - [Google will shut down Currents, the work-focused Google Plus replacement](https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces)<!-- TECH:END -->
+ - [Senators Wyden and Heinrich: declassified docs show a CIA bulk surveillance program collecting Americans&#39; data without clear judicial or congressional oversight &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220210/p41#a220210p41)
+ - [SpaceX Starship event live: Every major announcement from Elon Musk&#39;s update     - CNET](https://www.cnet.com/news/spacex-starship-event-live-every-major-announcement-from-elon-musks-update/#ftag=CAD590a51e)
+ - [Netflix: 46 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-46-of-the-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
