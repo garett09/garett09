@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Amazon has received $4.7B in tax breaks globally over the past decade; $4.1B was from the US and weak disclosure laws could put the rest well over $600M &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220211/p2#a220211p2)
- - [Yep, Android 13’s dessert codename is ‘Tiramisu’ after all](https://www.theverge.com/tldr/2022/2/11/22928812/android-13-cake-codename-tiramisu)
- - [You told us: Here’s when you last received a system update on your phone](https://www.androidauthority.com/system-update-frequency-poll-results-3106710/)<!-- TECH:END -->
+ - [Startup’s 5G Blackberry revival is reportedly no more](https://www.theverge.com/2022/2/11/22928875/blackberry-5g-android-phone-onwardmobility-cancelled)
+ - [Daily Authority: 🎂 Android 13 and Tiramisu](https://www.androidauthority.com/da-february-11-2022-3106860/)
+ - [UK&#39;s CMA accepts Google&#39;s plan to phase out third-party cookies and replace them with Privacy Sandbox and will closely monitor the development of the product &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220211/p3#a220211p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
