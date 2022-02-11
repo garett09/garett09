@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)
- - 🚯 [Idk man, old times hit different.](http://9gag.com/gag/arnMjbp)
- - 🚯 [What&#39;s your favorite `Welcome to` ?](http://9gag.com/gag/abgVPy8)<!-- MEMES:END -->
+ - 🚖 [This hidden beauty...](http://9gag.com/gag/aBn2qxQ)
+ - 🚯 [This is how you should talk](http://9gag.com/gag/apgNWrE)
+ - 🚯 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)<!-- MEMES:END -->
 
 --- 
 
