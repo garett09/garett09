@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idk man, old times hit different.](http://9gag.com/gag/arnMjbp)
- - 🚯 [Sky Diving, eh ?](http://9gag.com/gag/ay9MOnr)
- - 🚯 [Starbucks is not coffee](http://9gag.com/gag/aZr0eV0)<!-- MEMES:END -->
+ - 🚖 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)
+ - 🚯 [Idk man, old times hit different.](http://9gag.com/gag/arnMjbp)
+ - 🚯 [What&#39;s your favorite `Welcome to` ?](http://9gag.com/gag/abgVPy8)<!-- MEMES:END -->
 
 --- 
 
