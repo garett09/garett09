@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just how big is the Galaxy S22 Ultra? Check these size comparisons!](https://www.androidauthority.com/samsung-galaxy-s22-ultra-size-comparison-3106917/)
- - [How Robinhood&#39;s Psych Experiment Backfired Horribly](https://www.wired.com/story/robinhood-psych-experiment-gamestop)
- - [The Team Behind Among Us Is Building Better Communities](https://www.wired.com/story/among-us-innersloth-interview-online-communities)<!-- TECH:END -->
+ - [Over 6.5 million terabytes of flash storage ruined because of contamination at factory](https://appleinsider.com/articles/22/02/10/factory-contamination-ruins-65-million-terabytes-of-flash-storage-prices-may-rise?utm_medium=rss)
+ - [Samsung Galaxy S22 Ultra vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-google-pixel-6-pro-3104130/)
+ - [Samsung Galaxy S22 vs Google Pixel 6: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-google-pixel-6-3103491/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
