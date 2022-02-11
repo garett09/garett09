@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The beginning was just for fun... And now they are 100km from their house and the truck hasn&#39;t stopped](http://9gag.com/gag/ay9MGRr)
- - 🚯 [Sky Diving, eh ?](http://9gag.com/gag/ay9MOnr)
- - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)<!-- MEMES:END -->
+ - 🚖 [Idk man, old times hit different.](http://9gag.com/gag/arnMjbp)
+ - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)
+ - 🚯 [And that&#39;s how I missed my flight](http://9gag.com/gag/azeMn5z)<!-- MEMES:END -->
 
 --- 
 
