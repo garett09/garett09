@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So that was a lie](http://9gag.com/gag/apgN4Q8)
- - 🚯 [\u1d9c\u1d43\u1d57 \u1da6\u02e2 \u02e2\u1da6\u02e1\u02e1\u02b8](http://9gag.com/gag/azeMWzq)
- - 🚯 [Just a prank bro](http://9gag.com/gag/a71EYge)<!-- MEMES:END -->
+ - 🚖 [\u1d9c\u1d43\u1d57 \u1da6\u02e2 \u02e2\u1da6\u02e1\u02e1\u02b8](http://9gag.com/gag/azeMWzq)
+ - 🚯 [Flock Of birds crashes into the ground in Mexico.](http://9gag.com/gag/aGzpmjz)
+ - 🚯 [W.T.F. ???](http://9gag.com/gag/aDDdyjw)<!-- MEMES:END -->
 
 --- 
 
