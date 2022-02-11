@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u1d9c\u1d43\u1d57 \u1da6\u02e2 \u02e2\u1da6\u02e1\u02e1\u02b8](http://9gag.com/gag/azeMWzq)
- - 🚯 [When you brake check a retired officer with anger issues](http://9gag.com/gag/aGzpmB6)
- - 🚯 [Goodbye my old friend!](http://9gag.com/gag/a61E0Nm)<!-- MEMES:END -->
+ - 🚖 [This is what peak performance looks like](http://9gag.com/gag/a41EvmQ)
+ - 🚯 [Just a prank bro](http://9gag.com/gag/a71EYge)
+ - 🚯 [The beginning was just for fun... And now they are 100km from their house and the truck hasn&#39;t stopped](http://9gag.com/gag/ay9MGRr)<!-- MEMES:END -->
 
 --- 
 
