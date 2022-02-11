@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Book of Boba Fett is so much better when you realize Boba Fett is the series villain](https://www.polygon.com/star-wars/22929592/book-of-boba-fett-hero-vs-villain)
- - [More Than 160,000 Battlefield 2042 Players Sign Petition Asking For Money Back](https://kotaku.com/battlefield-2042-refund-petition-ea-bf2042-change-1848524654)
- - [Bungie has hints, but not answers, about the boss of Destiny 2’s Witch Queen raid](https://www.polygon.com/22929425/destiny-2-witch-queen-campaign-raid-boss-dreadnaught-bungie-interview)<!-- GAME:END -->
+ - [Dark Fantasy RPG Mandragora Coming Soon to Xbox Series X|S](https://news.xbox.com/en-us/2022/02/11/dark-fantasy-rpg-mandragora-coming-soon-to-xbox-series-xs/)
+ - [The New York Times Rushes To Fix Broken Wordle Streaks](https://kotaku.com/wordle-new-york-times-streaks-broken-nyt-migration-dail-1848525236)
+ - [Report: Ubisoft Employees Are Still Telling Their Bosses That NFTs Suck](https://kotaku.com/ubisoft-nft-blockchain-metaverse-rabbids-quartz-ghost-r-1848524189)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
