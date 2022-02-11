@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MTV](http://9gag.com/gag/aPZ3bAw)
- - 🚯 [So that was a lie](http://9gag.com/gag/apgN4Q8)
- - 🚯 [England.](http://9gag.com/gag/amgPZE6)<!-- MEMES:END -->
+ - 🚖 [Noooop](http://9gag.com/gag/adg8D2M)
+ - 🚯 [Gone in 60 seconds.](http://9gag.com/gag/a91ExdW)
+ - 🚯 [Worst trade in history ever](http://9gag.com/gag/a2173MY)<!-- MEMES:END -->
 
 --- 
 
