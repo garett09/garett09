@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toasts are like parents...](http://9gag.com/gag/axBMrB2)
- - 🚯 [What Olympic Javelin Throwers use to train in Germany.](http://9gag.com/gag/a217671)
- - 🚯 [I&#39;ve always hated this. Spoon is spoon!](http://9gag.com/gag/a41E0DA)<!-- MEMES:END -->
+ - 🚖 [MTV](http://9gag.com/gag/aPZ3bAw)
+ - 🚯 [So that was a lie](http://9gag.com/gag/apgN4Q8)
+ - 🚯 [England.](http://9gag.com/gag/amgPZE6)<!-- MEMES:END -->
 
 --- 
 
