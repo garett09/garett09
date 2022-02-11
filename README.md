@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swapped soap with a potato](http://9gag.com/gag/ajgmw3x)
- - 🚯 [I&#39;ve always hated this. Spoon is spoon!](http://9gag.com/gag/a41E0DA)
+ - 🚖 [A little snow in Norway. Not mine](http://9gag.com/gag/a61E6Xm)
+ - 🚯 [Seems about right](http://9gag.com/gag/azeMw8j)
  - 🚯 [It&#39;ll get better fellow gaggers](http://9gag.com/gag/abgV8bv)<!-- MEMES:END -->
 
 --- 
