@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how you should talk](http://9gag.com/gag/apgNWrE)
- - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)
- - 🚯 [Gosh, darn it](http://9gag.com/gag/aogMXg3)<!-- MEMES:END -->
+ - 🚖 [The beginning was just for fun... And now they are 100km from their house and the truck hasn&#39;t stopped](http://9gag.com/gag/ay9MGRr)
+ - 🚯 [Sky Diving, eh ?](http://9gag.com/gag/ay9MOnr)
+ - 🚯 [It&#39;s a trap](http://9gag.com/gag/aVx7Ayy)<!-- MEMES:END -->
 
 --- 
 
