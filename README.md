@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US nuclear power plants contain dangerous counterfeit parts, report finds](https://www.theverge.com/2022/2/11/22929255/us-nuclear-power-plants-dangerous-counterfeit-parts-nrc-report)
- - [HomeKit roundtable: Jennifer Tuohy joins to discuss Matter and the smart home](https://appleinsider.com/articles/22/02/11/homekit-roundtable-jennifer-tuohy-joins-to-discuss-matter-and-the-smart-home?utm_medium=rss)
- - [Apple&#39;s M1 Max MacBook Pro with 64GB RAM, 2TB SSD is in stock, $300 off](https://appleinsider.com/articles/22/02/10/apples-m1-max-macbook-pro-with-64gb-ram-2tb-ssd-is-in-stock-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apollo Global is nearing a deal to acquire the point-of-sale terminal business of Paris-based payments company Worldline for close to $2.3B &lpar;Ben Dummett/Wall Street Journal&rpar;](http://www.techmeme.com/220211/p15#a220211p15)
+ - [Zoom users report Mac microphone staying on after calls](https://appleinsider.com/articles/22/02/11/zoom-users-report-mac-microphone-staying-on-after-calls?utm_medium=rss)
+ - [Wordle players, fear not: The New York Times says the ‘vast majority’ of win streak stats have now been carried over](https://www.theverge.com/2022/2/11/22929229/wordle-new-york-times-streak-stats-issues)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
