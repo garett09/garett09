@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple takes majority share of U.S. headphone market, study finds](https://appleinsider.com/articles/22/02/11/apple-takes-majority-share-of-us-headphone-market-study-finds?utm_medium=rss)
- - [How game studio Blackbird ran a trial of a four-day work week from Sept. to Dec. 2021, which resulted in a unanimous vote to permanently adopt the change &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220210/p39#a220210p39)
- - [Microsoft Disabling Macros Is a Huge Win for Security](https://www.wired.com/story/microsoft-disables-macros-default-security-phishing)<!-- TECH:END -->
+ - [Google will shut down Currents, the work-focused Google Plus replacement](https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces)
+ - [Another small iPhone update is rushed out to fix a security flaw     - CNET](https://www.cnet.com/tech/mobile/another-small-iphone-update-is-rushed-out-to-fix-a-security-flaw/#ftag=CAD590a51e)
+ - [Apple takes majority share of U.S. headphone market, study finds](https://appleinsider.com/articles/22/02/11/apple-takes-majority-share-of-us-headphone-market-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
