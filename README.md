@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I thought it was a movie trailer.](http://9gag.com/gag/aDDdER7)
- - 🚯 [I can&#39;t see any differences...](http://9gag.com/gag/aGzpPVZ)
- - 🚯 [Today, Finnish athletes saw this in their newly-built Beijing Olympics Athlete Dormitory](http://9gag.com/gag/aE8pLMx)<!-- MEMES:END -->
+ - 🚖 [This hidden beauty...](http://9gag.com/gag/aBn2qxQ)
+ - 🚯 [The graceful British Prime Minister.](http://9gag.com/gag/aDDdErx)
+ - 🚯 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)<!-- MEMES:END -->
 
 --- 
 
