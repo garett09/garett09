@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 6.5 million terabytes of flash storage ruined because of contamination at factory](https://appleinsider.com/articles/22/02/10/factory-contamination-ruins-65-million-terabytes-of-flash-storage-prices-may-rise?utm_medium=rss)
- - [Samsung Galaxy S22 Ultra vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-google-pixel-6-pro-3104130/)
- - [Samsung Galaxy S22 vs Google Pixel 6: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-google-pixel-6-3103491/)<!-- TECH:END -->
+ - [That thing you like is being rebooted     - CNET](https://www.cnet.com/news/that-thing-you-like-is-being-rebooted/#ftag=CAD590a51e)
+ - [Get back to making gains with up to 44% off PowerBlock adjustable dumbbells     - CNET](https://www.cnet.com/health/fitness/get-back-to-making-gains-with-up-to-44-off-powerblock-adjustable-dumbbells/#ftag=CAD590a51e)
+ - [The latest on Tinder Swindler Simon Leviev and his victims     - CNET](https://www.cnet.com/news/the-latest-on-tinder-swindler-simon-leviev-and-his-victims/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
