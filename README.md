@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigbug’s a charming nightmare about the internet of other people and their things](https://www.theverge.com/22927466/netflix-bigbug-movie-review-jean-pierre-jeunet)
- - [Secret CIA program may have breached Americans&#39; privacy](https://appleinsider.com/articles/22/02/11/secret-cia-program-may-have-breached-americans-privacy?utm_medium=rss)
- - [OnePlus officially announces Oxygen OS 13, which isn’t supposed to exist](https://www.androidauthority.com/oxygen-os-13-3107095/)<!-- TECH:END -->
+ - [SpaceTime3D lawsuit claims app switcher, Safari tabs infringe on patents](https://appleinsider.com/articles/22/02/11/spacetime3d-lawsuit-claims-app-switcher-safari-tabs-infringe-on-patents?utm_medium=rss)
+ - [Terry Pratchett Raised Funny Fantasy to High Art](https://www.wired.com/2022/02/geeks-guide-terry-pratchet)
+ - [The best Chromebook for 2022](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
