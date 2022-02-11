@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This hidden beauty...](http://9gag.com/gag/aBn2qxQ)
- - 🚯 [The graceful British Prime Minister.](http://9gag.com/gag/aDDdErx)
- - 🚯 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)<!-- MEMES:END -->
+ - 🚖 [Idiot Road Rager in North Carolina](http://9gag.com/gag/aBn2q3P)
+ - 🚯 [What&#39;s your favorite `Welcome to` ?](http://9gag.com/gag/abgVPy8)
+ - 🚯 [Well gentlemen, it\u2019s been 10 years of time wasted, nonsense, and awful people. F*ck you and I\u2019ll see you tomorrow](http://9gag.com/gag/azeM6xm)<!-- MEMES:END -->
 
 --- 
 
