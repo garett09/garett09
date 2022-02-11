@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Project Zomboid traits guide](https://www.pcgamer.com/best-traits-project-zomboid)
- - [The people are revolting over Crusader Kings&#39; most expensive expansion yet](https://www.pcgamer.com/the-people-are-revolting-over-crusader-kings-most-expensive-expansion-yet)
- - [Unlock Dying Light 2&#39;s hidden FSR Ultra Quality for better visuals](https://www.pcgamer.com/unlock-dying-light-2s-hidden-fsr-ultra-quality-for-better-visuals)<!-- GAME:END -->
+ - [The Horizon Forbidden West cinematic trailer is here](https://blog.playstation.com/2022/02/11/the-horizon-forbidden-west-cinematic-trailer-is-here/)
+ - [The Horizon Forbidden West cinematic trailer is here](https://blog.playstation.com/2022/02/11/the-horizon-forbidden-west-cinematic-trailer-is-here/)
+ - [Nolan North Is Voicing Nathan Drake For The Uncharted Movie Version&#39;s Novelization](https://kotaku.com/tom-holland-nolan-north-uncharted-sony-pictures-playsta-1848520987)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
