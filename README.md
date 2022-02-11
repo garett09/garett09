@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Citizen still doesn’t live up to its promise, and players don’t care](https://www.polygon.com/22925538/star-citizen-2022-experience-gameplay-features-player-reception)
- - [Salt and Sacrifice locks in a May release date](https://www.pcgamer.com/salt-and-sacrifice-locks-in-a-may-release-date)
- - [Wordle players are losing their streaks after NYT migration](https://www.polygon.com/22928051/wordle-streak-new-york-times-nyt-migration)<!-- GAME:END -->
+ - [Lord Of The Rings Mod Hit With Takedown Just As Series&#39; Rights Are Up For Sale](https://kotaku.com/lord-of-the-rings-tolkien-mod-mods-pc-total-war-amazon-1848519263)
+ - [9 things every Lost Ark player should know](https://www.pcgamer.com/lost-ark-guide-tips-and-tricks)
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
