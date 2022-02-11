@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 vs Samsung Galaxy Z Flip 3: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-vs-samsung-galaxy-z-flip-3-3102023/)
- - [Tinder’s new Blind Date feature wants you to judge matches based on personality](https://www.theverge.com/2022/2/10/22927246/tinder-swipe-right-dating-app-blind-date-personality)
- - [Get a free Samsung Galaxy S22 at AT&amp;T with any old trade-in](https://www.androidauthority.com/samsung-galaxy-s22-att-deal-3106463/)<!-- TECH:END -->
+ - [Apple takes majority share of U.S. headphone market, study finds](https://appleinsider.com/articles/22/02/11/apple-takes-majority-share-of-us-headphone-market-study-finds?utm_medium=rss)
+ - [How game studio Blackbird ran a trial of a four-day work week from Sept. to Dec. 2021, which resulted in a unanimous vote to permanently adopt the change &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220210/p39#a220210p39)
+ - [Microsoft Disabling Macros Is a Huge Win for Security](https://www.wired.com/story/microsoft-disables-macros-default-security-phishing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
