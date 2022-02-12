@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A True Hero](http://9gag.com/gag/aLvvRPW)
- - 🚯 [Suggestion for WW3](http://9gag.com/gag/a511pXo)
- - 🚯 [Gyroscope in space.. noice](http://9gag.com/gag/adgg0e2)<!-- MEMES:END -->
+ - 🚖 [Man removes swastika sign for the friendship between him and a black officer](http://9gag.com/gag/aM44eR6)
+ - 🚯 [Still better than doing manual labor though. Don&#39;t miss that at all](http://9gag.com/gag/azeeg2N)
+ - 🚯 [Wheels on shopping cart be like](http://9gag.com/gag/a811dwe)<!-- MEMES:END -->
 
 --- 
 
