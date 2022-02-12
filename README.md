@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 12: $77 Apple Pencil, $104 Logitech StreamCam Plus, more!](https://appleinsider.com/articles/22/02/12/daily-deals-feb-12-77-apple-pencil-104-logitech-streamcam-plus-more?utm_medium=rss)
- - [The Best Noise-Canceling Headphones to Escape Reality](https://www.wired.com/gallery/best-noise-canceling-headphones)
- - [The CIA Has Secretly Run a “Bulk Collection” Program](https://www.wired.com/story/cia-bulk-collection-surveillance-earn-it-security-news)<!-- TECH:END -->
+ - [Look past the Ultra, Samsung’s Galaxy S22 upgrades are surprisingly great](https://www.androidauthority.com/samsung-galaxy-s22-plus-upgrades-3105383/)
+ - [MoviePass’ CEO wants in on the metaverse](https://www.theverge.com/22929876/moviepass-stacy-spikes-interview-metaverse)
+ - [Daily deals Feb. 12: $77 Apple Pencil, $104 Logitech StreamCam Plus, more!](https://appleinsider.com/articles/22/02/12/daily-deals-feb-12-77-apple-pencil-104-logitech-streamcam-plus-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
