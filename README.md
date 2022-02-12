@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s SMIC reports record $5.4B revenue in 2021, up 39% YoY, and $1.7B profit, up 138% YoY, as it looks to add more chip production capacity amid US sanctions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220212/p3#a220212p3)
  - [Zoom users report Mac microphone staying on after calls](https://appleinsider.com/articles/22/02/11/zoom-users-report-mac-microphone-staying-on-after-calls?utm_medium=rss)
- - [A profile of OpenSea, whose Web3 credentials have been called into question by crypto hardliners, as it tries to deal with security incidents and copycat NFTs &lpar;Gian M. Volpicelli/Wired UK&rpar;](http://www.techmeme.com/220212/p2#a220212p2)
- - [Booking.com will cut and outsource 2,700 call center jobs globally in the next few months, after Booking Holdings laid of ~25% of its workforce in 2020 and 2021 &lpar;Dennis Schaal/Skift&rpar;](http://www.techmeme.com/220212/p1#a220212p1)<!-- TECH:END -->
+ - [A profile of OpenSea, whose Web3 credentials have been called into question by crypto hardliners, as it tries to deal with security incidents and copycat NFTs &lpar;Gian M. Volpicelli/Wired UK&rpar;](http://www.techmeme.com/220212/p2#a220212p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
