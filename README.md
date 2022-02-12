@@ -195,7 +195,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [It&#39;s only fair](http://9gag.com/gag/axBMpAM)
  - 🚯 [Cultural appropriation at its finest](http://9gag.com/gag/avAA22X)
- - 🚯 [\ud835\udd05\ud835\udd22 \ud835\udd11\ud835\udd2c\ud835\udd31 \ud835\udd04\ud835\udd23\ud835\udd2f\ud835\udd1e\ud835\udd26\ud835\udd21](http://9gag.com/gag/aYro22N)<!-- MEMES:END -->
+ - 🚯 [I can&#39;t see any differences...](http://9gag.com/gag/aGzpPVZ)<!-- MEMES:END -->
 
 --- 
 
