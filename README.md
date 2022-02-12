@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix orders docuseries on crypto laundering couple](https://www.theverge.com/2022/2/12/22930501/netflix-crypto-laundering-couple-docuseries-razzlekhan)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-419-3107390/)
- - [Bored Ape Yacht Club members, who have full IP rights for the ape character they own, are pursuing licensing deals to put ape characters on cannabis packaging &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220212/p5#a220212p5)<!-- TECH:END -->
+ - [Here’s how I consolidated my smart home using Home Assistant](https://www.androidauthority.com/home-assistant-3106210/)
+ - [DOJ wants Apple management depositions for Google search lawsuit](https://appleinsider.com/articles/22/02/12/doj-wants-apple-management-depositions-for-google-search-lawsuit?utm_medium=rss)
+ - [Netflix orders docuseries on crypto laundering couple](https://www.theverge.com/2022/2/12/22930501/netflix-crypto-laundering-couple-docuseries-razzlekhan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
