@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well gentlemen, it\u2019s been 10 years of time wasted, nonsense, and awful people. F*ck you and I\u2019ll see you tomorrow](http://9gag.com/gag/azeM6xm)
- - 🚯 [Best version of Harry Potter... umm Hermine.](http://9gag.com/gag/aQXX6dz)
- - 🚯 [A True Hero](http://9gag.com/gag/aLvvRPW)<!-- MEMES:END -->
+ - 🚖 [Gyroscope in space.. noice](http://9gag.com/gag/adgg0e2)
+ - 🚯 [A man in a Sarcos Guardian XO exoskeleton lifts a 90 kg rocket on outstretched arms.](http://9gag.com/gag/aVx7GXy)
+ - 🚯 [Belly rubs day](http://9gag.com/gag/anggq55)<!-- MEMES:END -->
 
 --- 
 
