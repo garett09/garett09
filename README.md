@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gyroscope in space.. noice](http://9gag.com/gag/adgg0e2)
- - 🚯 [A man in a Sarcos Guardian XO exoskeleton lifts a 90 kg rocket on outstretched arms.](http://9gag.com/gag/aVx7GXy)
- - 🚯 [Belly rubs day](http://9gag.com/gag/anggq55)<!-- MEMES:END -->
+ - 🚖 [A True Hero](http://9gag.com/gag/aLvvRPW)
+ - 🚯 [Suggestion for WW3](http://9gag.com/gag/a511pXo)
+ - 🚯 [Gyroscope in space.. noice](http://9gag.com/gag/adgg0e2)<!-- MEMES:END -->
 
 --- 
 
