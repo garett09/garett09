@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/amggL1d)
- - 🚯 [Oh lawd she comin](http://9gag.com/gag/adggN3Z)
- - 🚯 [After all this years, still one of my favorit](http://9gag.com/gag/aeggN8W)<!-- MEMES:END -->
+ - 🚖 [Oh lawd she comin](http://9gag.com/gag/adggN3Z)
+ - 🚯 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)
+ - 🚯 [Two hundred thousand kg of marijuana being burnt in the India. Even with mask, everyone is going home high...](http://9gag.com/gag/abggqBL)<!-- MEMES:END -->
 
 --- 
 
