@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wheels on shopping cart be like](http://9gag.com/gag/a811dwe)
- - 🚯 [I can&#39;t see any differences...](http://9gag.com/gag/aGzpPVZ)
- - 🚯 [Cultural appropriation at its finest](http://9gag.com/gag/avAA22X)<!-- MEMES:END -->
+ - 🚖 [Cultural appropriation at its finest](http://9gag.com/gag/avAA22X)
+ - 🚯 [I see it the same](http://9gag.com/gag/a911bLL)
+ - 🚯 [Maybe there are no dwarf women...](http://9gag.com/gag/aegAXVv)<!-- MEMES:END -->
 
 --- 
 
