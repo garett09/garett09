@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s only fair](http://9gag.com/gag/axBMpAM)
+ - 🚖 [Wheels on shopping cart be like](http://9gag.com/gag/a811dwe)
  - 🚯 [I can&#39;t see any differences...](http://9gag.com/gag/aGzpPVZ)
  - 🚯 [Cultural appropriation at its finest](http://9gag.com/gag/avAA22X)<!-- MEMES:END -->
 
