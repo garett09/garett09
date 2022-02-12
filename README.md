@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workout earbuds and headphones: These are the features you really need](https://www.androidauthority.com/workout-earbuds-headphones-features-3101750/)
- - [Fortnite’s Uncharted crossover includes Tom Holland and Nathan Drake skins](https://www.theverge.com/22930304/fortnite-uncharted-nathan-drake-tom-holland-chloe-frazer-skins)
- - [China&#39;s SMIC reports record $5.4B revenue in 2021, up 39% YoY, and $1.7B profit, up 138% YoY, as it looks to add more chip production capacity amid US sanctions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220212/p3#a220212p3)<!-- TECH:END -->
+ - [The Weekly Authority: Samsung Unpacked](https://www.androidauthority.com/the-weekly-authority-edition-181-3104976/)
+ - [Welcome to the Great Smushing](https://www.wired.com/story/great-smushing-pandemic-identities)
+ - [We Tested a $135K Racing Simulator—and It Blew Our Minds](https://www.wired.com/review/axsim-formula-simulator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
