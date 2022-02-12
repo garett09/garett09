@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of the couple accused of conspiring to launder around $5B in stolen bitcoin, pieced together from sources, filings, and a voluminous online record &lpar;Tim Marchman/VICE&rpar;](http://www.techmeme.com/220211/p16#a220211p16)
- - [Inside the dying art of subtitling     - CNET](https://www.cnet.com/news/features/inside-the-dying-art-of-subtitling/#ftag=CAD590a51e)
- - [Sources: Apollo Global is nearing a deal to acquire the point-of-sale terminal business of Paris-based payments company Worldline for close to $2.3B &lpar;Ben Dummett/Wall Street Journal&rpar;](http://www.techmeme.com/220211/p15#a220211p15)<!-- TECH:END -->
+ - [Apple prepares to dole out pay raises to many U.S. retail employees](https://appleinsider.com/articles/22/02/12/apple-prepares-to-dole-out-pay-raises-to-many-us-retail-employees?utm_medium=rss)
+ - [Sources: Cisco has made a takeover offer worth $20B+ for big data analytics service Splunk; the companies aren&#39;t currently in active talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220211/p18#a220211p18)
+ - [Amazon says vaccinated warehouse workers can now work unmasked](https://www.theverge.com/2022/2/11/22929717/amazon-covid-19-mask-vaccination-warehouse-policies-employees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
