@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Reveling in the post-pandemic oasis of Dollface season 2](https://www.polygon.com/reviews/22929420/dollface-review-season-2)
  - [Lost Ark rockets onto Steam&#39;s all-time concurrent player list after delayed launch](https://www.pcgamer.com/lost-ark-rockets-onto-steams-all-time-concurrent-player-list-after-server-issues)
- - [Dying Light 2 has a hidden Star Wars blueprint that lets you Force Choke fools](https://www.pcgamer.com/dying-light-2-force-choke-star-wars-secret-blueprint)
- - [Pokémon Legends: Arceus Modders Are Improving Its Visuals](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-mods-graphics-ga-1848526610)<!-- GAME:END -->
+ - [Dying Light 2 has a hidden Star Wars blueprint that lets you Force Choke fools](https://www.pcgamer.com/dying-light-2-force-choke-star-wars-secret-blueprint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
