@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Sound of Progress](http://9gag.com/gag/aeggNnW)
- - 🚯 [A duck mom hatched a crocodile egg. The little animal thinks she is his mother!](http://9gag.com/gag/a811Wpd)
- - 🚯 [Oh lawd she comin](http://9gag.com/gag/adggN3Z)<!-- MEMES:END -->
+ - 🚖 [A duck mom hatched a crocodile egg. The little animal thinks she is his mother!](http://9gag.com/gag/a811Wpd)
+ - 🚯 [Woke of the wings](http://9gag.com/gag/a511NQN)
+ - 🚯 [So, im from Dominican Republic and went to the casino ramdonly, played some cash money poker with 7,600 Dominican Pesos or &lpar; 125 USD &rpar; hit a Straight flush on a hyped hand and went home after 30 minutes with 364,800 Dominican pesos or &lpar; 7,600 USD &rpar; so f**king random XD](http://9gag.com/gag/a511doN)<!-- MEMES:END -->
 
 --- 
 
