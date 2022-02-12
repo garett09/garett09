@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi 3-in-1 Magnetic Wireless Charging Stand review: difficult to justify the high price](https://appleinsider.com/articles/22/02/12/satechi-3-in-1-magnetic-wireless-charging-stand-review-difficult-to-justify-the-high-price?utm_medium=rss)
- - [Google is still being shady with location controls in Android 13](https://www.androidauthority.com/android-13-location-quick-setting-toggle-3106820/)
- - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix orders docuseries on crypto laundering couple](https://www.theverge.com/2022/2/12/22930501/netflix-crypto-laundering-couple-docuseries-razzlekhan)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-419-3107390/)
+ - [Bored Ape Yacht Club members, who have full IP rights for the ape character they own, are pursuing licensing deals to put ape characters on cannabis packaging &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220212/p5#a220212p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
