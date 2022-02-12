@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus Modders Are Improving Its Visuals](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-mods-graphics-ga-1848526610)
- - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)
- - [Bobby Kotick&#39;s long litigious history includes scraps with employees, contractors, a flight attendant, and a ska band](https://www.pcgamer.com/bobby-koticks-long-litigious-history-includes-scraps-with-employees-contractors-a-flight-attendant-and-a-ska-band)<!-- GAME:END -->
+ - [Lost Ark rockets onto Steam&#39;s all-time concurrent player list after delayed launch](https://www.pcgamer.com/lost-ark-rockets-onto-steams-all-time-concurrent-player-list-after-server-issues)
+ - [Dying Light 2 has a hidden Star Wars blueprint that lets you Force Choke fools](https://www.pcgamer.com/dying-light-2-force-choke-star-wars-secret-blueprint)
+ - [Pokémon Legends: Arceus Modders Are Improving Its Visuals](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-mods-graphics-ga-1848526610)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
