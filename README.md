@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fair question ...](http://9gag.com/gag/aGzz9z6)
- - 🚯 [A duck mom hatched a crocodile egg. The little animal thinks she is his mother!](http://9gag.com/gag/a811Wpd)
- - 🚯 [Say NO! to steroids!](http://9gag.com/gag/azeegyp)<!-- MEMES:END -->
+ - 🚖 [After all this years, still one of my favorit](http://9gag.com/gag/aeggN8W)
+ - 🚯 [Fair question ...](http://9gag.com/gag/aGzz9z6)
+ - 🚯 [So, im from Dominican Republic and went to the casino ramdonly, played some cash money poker with 7,600 Dominican Pesos or &lpar; 125 USD &rpar; hit a Straight flush on a hyped hand and went home after 30 minutes with 364,800 Dominican pesos or &lpar; 7,600 USD &rpar; so f**king random XD](http://9gag.com/gag/a511doN)<!-- MEMES:END -->
 
 --- 
 
