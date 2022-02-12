@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT marketplace Cent halts transactions over users minting NFTs of content they don&#39;t own and selling unauthorized NFT copies and NFTs that resemble a security &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/220211/p20#a220211p20)
- - [Google says its bug bounty program paid $8.7M to 696 researchers from 62 countries in 2021, up from $6.7M to 662 researchers from 62 countries in 2020 &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220211/p19#a220211p19)
- - [Binance invests $200 million in Forbes just two years after suing it for defamation](https://www.theverge.com/2022/2/11/22929860/forbes-binance-spac-razzlekhan-web3-cryptocurrency)<!-- TECH:END -->
+ - [A profile of OpenSea, whose Web3 credentials have been called into question by crypto hardliners, as it tries to deal with security incidents and copycat NFTs &lpar;Gian M. Volpicelli/Wired UK&rpar;](http://www.techmeme.com/220212/p2#a220212p2)
+ - [Booking.com will cut and outsource 2,700 call center jobs globally in the next few months, after Booking Holdings laid of ~25% of its workforce in 2020 and 2021 &lpar;Dennis Schaal/Skift&rpar;](http://www.techmeme.com/220212/p1#a220212p1)
+ - [NFT marketplace Cent halts transactions over users minting NFTs of content they don&#39;t own and selling unauthorized NFT copies and NFTs that resemble a security &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/220211/p20#a220211p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
