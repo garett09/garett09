@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Someone Already Modded Carby Into Mario Kart 8](https://kotaku.com/carby-kirby-mouthful-mode-switch-mario-kart-8-mod-1848528653)
  - [All The Video Game Franchises GTA V Has Outsold &lpar;It&#39;s A Long List&rpar;](https://kotaku.com/gta-v-sold-halo-uncharted-rockstar-list-best-selling-ga-1848528405)
- - [The best romance-forward movies you can watch right now](https://www.polygon.com/what-to-watch/22923813/best-romance-movies-watch-netflix-hulu-hbo-max-amazon-prime-free)
- - [Reveling in the post-pandemic oasis of Dollface season 2](https://www.polygon.com/reviews/22929420/dollface-review-season-2)<!-- GAME:END -->
+ - [The best romance-forward movies you can watch right now](https://www.polygon.com/what-to-watch/22923813/best-romance-movies-watch-netflix-hulu-hbo-max-amazon-prime-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
