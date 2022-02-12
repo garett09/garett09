@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh lawd she comin](http://9gag.com/gag/adggN3Z)
- - 🚯 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)
- - 🚯 [Two hundred thousand kg of marijuana being burnt in the India. Even with mask, everyone is going home high...](http://9gag.com/gag/abggqBL)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/amggL1d)
+ - 🚯 [When your teacher says that you can ignore friction](http://9gag.com/gag/aVxxWgn)
+ - 🚯 [Ukraine? No, Mykraine](http://9gag.com/gag/aPZZvgR)<!-- MEMES:END -->
 
 --- 
 
