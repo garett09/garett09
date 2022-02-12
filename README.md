@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how I consolidated my smart home using Home Assistant](https://www.androidauthority.com/home-assistant-3106210/)
- - [DOJ wants Apple management depositions for Google search lawsuit](https://appleinsider.com/articles/22/02/12/doj-wants-apple-management-depositions-for-google-search-lawsuit?utm_medium=rss)
- - [Netflix orders docuseries on crypto laundering couple](https://www.theverge.com/2022/2/12/22930501/netflix-crypto-laundering-couple-docuseries-razzlekhan)<!-- TECH:END -->
+ - [Solos Argon review: an all-in-one wearable that falls short in key places](https://appleinsider.com/articles/22/02/12/solos-argon-review-an-all-in-one-wearable-that-falls-short-in-key-places?utm_medium=rss)
+ - [Apple executives may need to testify in DoJ&#39;s Google search lawsuit](https://appleinsider.com/articles/22/02/12/doj-wants-apple-management-depositions-for-google-search-lawsuit?utm_medium=rss)
+ - [Here’s how I consolidated my smart home using Home Assistant](https://www.androidauthority.com/home-assistant-3106210/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
