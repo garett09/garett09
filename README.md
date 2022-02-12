@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best romance-forward movies you can watch right now](https://www.polygon.com/what-to-watch/22923813/best-romance-movies-watch-netflix-hulu-hbo-max-amazon-prime-free)
  - [Reveling in the post-pandemic oasis of Dollface season 2](https://www.polygon.com/reviews/22929420/dollface-review-season-2)
- - [Lost Ark rockets onto Steam&#39;s all-time concurrent player list after delayed launch](https://www.pcgamer.com/lost-ark-rockets-onto-steams-all-time-concurrent-player-list-after-server-issues)
- - [Dying Light 2 has a hidden Star Wars blueprint that lets you Force Choke fools](https://www.pcgamer.com/dying-light-2-force-choke-star-wars-secret-blueprint)<!-- GAME:END -->
+ - [Lost Ark rockets onto Steam&#39;s all-time concurrent player list after delayed launch](https://www.pcgamer.com/lost-ark-rockets-onto-steams-all-time-concurrent-player-list-after-server-issues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
