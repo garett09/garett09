@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch detects symptom of thyroid issue months ahead of diagnosis](https://appleinsider.com/articles/22/02/12/apple-watch-detects-symptom-of-thyroid-issue-months-ahead-of-diagnosis?utm_medium=rss)
- - [Lost Ark becomes the second most played game in Steam history after just 24 hours](https://www.theverge.com/2022/2/12/22930757/lost-ark-steam-most-played-game-launch)
- - [Intel tries cashing in on bitcoin with cryptocurrency mining chip     - CNET](https://www.cnet.com/personal-finance/crypto/intel-tries-cashing-in-on-bitcoin-with-cryptocurrency-mining-chip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK&#39;s largest insurer Aviva says VR headset-related damage claims increased by 31% in 2021, with an average claim of ~&amp;pound;650 and TVs being the most damaged item &lpar;Samuel Osborne/Sky News&rpar;](http://www.techmeme.com/220212/p7#a220212p7)
+ - [Tau Power Bank review: a handy power source on your keyring](https://appleinsider.com/articles/22/02/12/tau-power-bank-review-a-handy-power-source-on-your-keyring?utm_medium=rss)
+ - [Compared: iPhone 13 &amp; iPhone 13 Pro versus Samsung Galaxy S22](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
