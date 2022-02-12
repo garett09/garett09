@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cultural appropriation at its finest](http://9gag.com/gag/avAA22X)
- - 🚯 [I see it the same](http://9gag.com/gag/a911bLL)
- - 🚯 [Maybe there are no dwarf women...](http://9gag.com/gag/aegAXVv)<!-- MEMES:END -->
+ - 🚖 [Best version of Harry Potter... umm Hermine.](http://9gag.com/gag/aQXX6dz)
+ - 🚯 [Maybe there are no dwarf women...](http://9gag.com/gag/aegAXVv)
+ - 🚯 [Well gentlemen, it\u2019s been 10 years of time wasted, nonsense, and awful people. F*ck you and I\u2019ll see you tomorrow](http://9gag.com/gag/azeM6xm)<!-- MEMES:END -->
 
 --- 
 
