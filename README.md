@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NFT marketplace Cent, which sold Jack Dorsey&#39;s first tweet for $2.9M in March 2021, halts transactions, citing &quot;rampant&quot; fakes and plagiarized works &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/220211/p20#a220211p20)
  - [Google says it paid $8.7M in 2021, up from $6.7M in 2020, to 696 researchers from 62 countries as part of its bug bounty program &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220211/p19#a220211p19)
- - [Binance invests $200 million in Forbes just two years after suing it for defamation](https://www.theverge.com/2022/2/11/22929860/forbes-binance-spac-razzlekhan-web3-cryptocurrency)
- - [The Verge’s 2022 Valentine’s Day gift guide](https://www.theverge.com/22890136/valentines-day-2022-gift-ideas-couples-boyfriend-girlfriend-partner-friend)<!-- TECH:END -->
+ - [Binance invests $200 million in Forbes just two years after suing it for defamation](https://www.theverge.com/2022/2/11/22929860/forbes-binance-spac-razzlekhan-web3-cryptocurrency)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
