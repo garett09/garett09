@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Cory Hrncirik, Microsoft&#39;s Modern Finance project lead, on flattening the company&#39;s finance head count with AI and data lakes, using Excel, and more &lpar;Nina Trentmann/Wall Street Journal&rpar;](http://www.techmeme.com/220212/p4#a220212p4)
- - [Daily deals Feb. 11: $100 off 27-inch LG Ultragear monitor, $30 off Kindle Paperwhite, more!](https://appleinsider.com/articles/22/02/11/daily-deals-feb-10-100-off-27-inch-lg-ultragear-monitor-30-off-kindle-paperwhite-more?utm_medium=rss)
- - [The Weekly Authority: Samsung Unpacked](https://www.androidauthority.com/the-weekly-authority-edition-181-3104976/)<!-- TECH:END -->
+ - [Daily deals Feb. 12: $77 Apple Pencil, $104 Logitech StreamCam Plus, more!](https://appleinsider.com/articles/22/02/12/daily-deals-feb-12-77-apple-pencil-104-logitech-streamcam-plus-more?utm_medium=rss)
+ - [The Best Noise-Canceling Headphones to Escape Reality](https://www.wired.com/gallery/best-noise-canceling-headphones)
+ - [The CIA Has Secretly Run a “Bulk Collection” Program](https://www.wired.com/story/cia-bulk-collection-surveillance-earn-it-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
