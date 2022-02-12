@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Look past the Ultra, Samsung’s Galaxy S22 upgrades are surprisingly great](https://www.androidauthority.com/samsung-galaxy-s22-plus-upgrades-3105383/)
- - [MoviePass’ CEO wants in on the metaverse](https://www.theverge.com/22929876/moviepass-stacy-spikes-interview-metaverse)
- - [Daily deals Feb. 12: $77 Apple Pencil, $104 Logitech StreamCam Plus, more!](https://appleinsider.com/articles/22/02/12/daily-deals-feb-12-77-apple-pencil-104-logitech-streamcam-plus-more?utm_medium=rss)<!-- TECH:END -->
+ - [Satechi 3-in-1 Magnetic Wireless Charging Stand review: difficult to justify the high price](https://appleinsider.com/articles/22/02/12/satechi-3-in-1-magnetic-wireless-charging-stand-review-difficult-to-justify-the-high-price?utm_medium=rss)
+ - [Google is still being shady with location controls in Android 13](https://www.androidauthority.com/android-13-location-quick-setting-toggle-3106820/)
+ - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
