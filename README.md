@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark Sets New Concurrent Player Record On Steam, With Over 1.3 Million Online [Update]](https://kotaku.com/lost-ark-steam-record-1-million-players-record-mmorpg-d-1848528547)
- - [Someone Already Modded Carby Into Mario Kart 8](https://kotaku.com/carby-kirby-mouthful-mode-switch-mario-kart-8-mod-1848528653)
- - [All The Video Game Franchises GTA V Has Outsold &lpar;It&#39;s A Long List&rpar;](https://kotaku.com/gta-v-sold-halo-uncharted-rockstar-list-best-selling-ga-1848528405)<!-- GAME:END -->
+ - [Dying Light 2 Has A Star Wars Easter Egg Hidden Inside A Doom Easter Egg](https://kotaku.com/dying-light-2-doom-star-wars-easter-egg-secret-guide-ps-1848529151)
+ - [This YouTuber turned &#39;90s Hot Wheels and Barbie pre-built PCs into gaming monsters](https://www.pcgamer.com/this-youtuber-turned-90s-hot-wheels-and-barbie-pre-built-pcs-into-gaming-monsters)
+ - [Insurance company&#39;s VR-related claims rose by 31% in 2021](https://www.pcgamer.com/insurance-companys-vr-related-claims-rose-by-31-in-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
