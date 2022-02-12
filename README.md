@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Sound of Progress](http://9gag.com/gag/aeggNnW)
- - 🚯 [Wait what](http://9gag.com/gag/aYrrp4w)
- - 🚯 [Good ol&#39; cartoons, right?](http://9gag.com/gag/aM44bWA)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/amggL1d)
+ - 🚯 [Oh lawd she comin](http://9gag.com/gag/adggN3Z)
+ - 🚯 [After all this years, still one of my favorit](http://9gag.com/gag/aeggN8W)<!-- MEMES:END -->
 
 --- 
 
