@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I see it the same](http://9gag.com/gag/a911bLL)
+ - 🚖 [Fair question ...](http://9gag.com/gag/aGzz9z6)
  - 🚯 [A duck mom hatched a crocodile egg. The little animal thinks she is his mother!](http://9gag.com/gag/a811Wpd)
- - 🚯 [Screenshot go brrr](http://9gag.com/gag/a0ZZ8mn)<!-- MEMES:END -->
+ - 🚯 [Say NO! to steroids!](http://9gag.com/gag/azeegyp)<!-- MEMES:END -->
 
 --- 
 
