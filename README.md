@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best version of Harry Potter... umm Hermine.](http://9gag.com/gag/aQXX6dz)
- - 🚯 [Maybe there are no dwarf women...](http://9gag.com/gag/aegAXVv)
- - 🚯 [Well gentlemen, it\u2019s been 10 years of time wasted, nonsense, and awful people. F*ck you and I\u2019ll see you tomorrow](http://9gag.com/gag/azeM6xm)<!-- MEMES:END -->
+ - 🚖 [Well gentlemen, it\u2019s been 10 years of time wasted, nonsense, and awful people. F*ck you and I\u2019ll see you tomorrow](http://9gag.com/gag/azeM6xm)
+ - 🚯 [Best version of Harry Potter... umm Hermine.](http://9gag.com/gag/aQXX6dz)
+ - 🚯 [A True Hero](http://9gag.com/gag/aLvvRPW)<!-- MEMES:END -->
 
 --- 
 
