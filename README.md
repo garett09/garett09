@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Update Zoom on Mac to fix a bug that keeps your mic on after meetings](https://www.theverge.com/2022/2/12/22930588/zoom-update-psa-macos-monterey-mic-indicator-light-bug)
- - [How to answer calls to your iPhone on macOS Monterey and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-answer-calls-to-your-iphone-on-macos-monterey-and-ipados-15?utm_medium=rss)
- - [Twitch has updated its policy to ban usernames that include &quot;references to sexual acts, arousal, fluids, or genitalia&quot; and references to hard drugs from March 1 &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/220212/p6#a220212p6)<!-- TECH:END -->
+ - [Apple Watch detects symptom of thyroid issue months ahead of diagnosis](https://appleinsider.com/articles/22/02/12/apple-watch-detects-symptom-of-thyroid-issue-months-ahead-of-diagnosis?utm_medium=rss)
+ - [Lost Ark becomes the second most played game in Steam history after just 24 hours](https://www.theverge.com/2022/2/12/22930757/lost-ark-steam-most-played-game-launch)
+ - [Intel tries cashing in on bitcoin with cryptocurrency mining chip     - CNET](https://www.cnet.com/personal-finance/crypto/intel-tries-cashing-in-on-bitcoin-with-cryptocurrency-mining-chip/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
