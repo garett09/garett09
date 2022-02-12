@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Screenshot go brrr](http://9gag.com/gag/a0ZZ8mn)
- - 🚯 [Still better than doing manual labor though. Don&#39;t miss that at all](http://9gag.com/gag/azeeg2N)
- - 🚯 [Gyroscope in space.. noice](http://9gag.com/gag/adgg0e2)<!-- MEMES:END -->
+ - 🚖 [I see it the same](http://9gag.com/gag/a911bLL)
+ - 🚯 [A duck mom hatched a crocodile egg. The little animal thinks she is his mother!](http://9gag.com/gag/a811Wpd)
+ - 🚯 [Screenshot go brrr](http://9gag.com/gag/a0ZZ8mn)<!-- MEMES:END -->
 
 --- 
 
