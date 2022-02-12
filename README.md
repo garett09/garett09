@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death on the Nile is a good old-fashioned mess of a movie](https://www.polygon.com/reviews/22929797/death-on-the-nile-review)
- - [Report: Warzone Devs: &#39;We F**ked Stuff Up. We Broke It.&#39;](https://kotaku.com/warzone-2-cod-broken-glitches-raven-devs-battle-royale-1848525840)
- - [Spencer, Resident Evil, Kimi, and every new movie you can watch from home this week](https://www.polygon.com/what-to-watch/22919127/new-movies-watch-stream-spencer-kristen-stewart-kimi-netflix-romcoms-flee-hulu-hbo-max-prime-video)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus Modders Are Improving Its Visuals](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-mods-graphics-ga-1848526610)
+ - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)
+ - [Bobby Kotick&#39;s long litigious history includes scraps with employees, contractors, a flight attendant, and a ska band](https://www.pcgamer.com/bobby-koticks-long-litigious-history-includes-scraps-with-employees-contractors-a-flight-attendant-and-a-ska-band)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
