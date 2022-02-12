@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [All The Video Game Franchises GTA V Has Outsold &lpar;It&#39;s A Long List&rpar;](https://kotaku.com/gta-v-sold-halo-uncharted-rockstar-list-best-selling-ga-1848528405)
  - [The best romance-forward movies you can watch right now](https://www.polygon.com/what-to-watch/22923813/best-romance-movies-watch-netflix-hulu-hbo-max-amazon-prime-free)
- - [Reveling in the post-pandemic oasis of Dollface season 2](https://www.polygon.com/reviews/22929420/dollface-review-season-2)
- - [Lost Ark rockets onto Steam&#39;s all-time concurrent player list after delayed launch](https://www.pcgamer.com/lost-ark-rockets-onto-steams-all-time-concurrent-player-list-after-server-issues)<!-- GAME:END -->
+ - [Reveling in the post-pandemic oasis of Dollface season 2](https://www.polygon.com/reviews/22929420/dollface-review-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
