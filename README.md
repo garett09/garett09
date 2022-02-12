@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple prepares to dole out pay raises to many U.S. retail employees](https://appleinsider.com/articles/22/02/12/apple-prepares-to-dole-out-pay-raises-to-many-us-retail-employees?utm_medium=rss)
- - [Sources: Cisco has made a takeover offer worth $20B+ for big data analytics service Splunk; the companies aren&#39;t currently in active talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220211/p18#a220211p18)
- - [Amazon says vaccinated warehouse workers can now work unmasked](https://www.theverge.com/2022/2/11/22929717/amazon-covid-19-mask-vaccination-warehouse-policies-employees)<!-- TECH:END -->
+ - [Google says it paid $8.7M in 2021, up from $6.7M in 2020, to 696 researchers from 62 countries as part of its bug bounty program &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220211/p19#a220211p19)
+ - [Binance invests $200 million in Forbes just two years after suing it for defamation](https://www.theverge.com/2022/2/11/22929860/forbes-binance-spac-razzlekhan-web3-cryptocurrency)
+ - [The Verge’s 2022 Valentine’s Day gift guide](https://www.theverge.com/22890136/valentines-day-2022-gift-ideas-couples-boyfriend-girlfriend-partner-friend)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
