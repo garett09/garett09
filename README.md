@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solos Argon review: an all-in-one wearable that falls short in key places](https://appleinsider.com/articles/22/02/12/solos-argon-review-an-all-in-one-wearable-that-falls-short-in-key-places?utm_medium=rss)
- - [Apple executives may need to testify in DoJ&#39;s Google search lawsuit](https://appleinsider.com/articles/22/02/12/doj-wants-apple-management-depositions-for-google-search-lawsuit?utm_medium=rss)
- - [Here’s how I consolidated my smart home using Home Assistant](https://www.androidauthority.com/home-assistant-3106210/)<!-- TECH:END -->
+ - [PSA: Update Zoom on Mac to fix a bug that keeps your mic on after meetings](https://www.theverge.com/2022/2/12/22930588/zoom-update-psa-macos-monterey-mic-indicator-light-bug)
+ - [How to answer calls to your iPhone on macOS Monterey and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-answer-calls-to-your-iphone-on-macos-monterey-and-ipados-15?utm_medium=rss)
+ - [Twitch has updated its policy to ban usernames that include &quot;references to sexual acts, arousal, fluids, or genitalia&quot; and references to hard drugs from March 1 &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/220212/p6#a220212p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
