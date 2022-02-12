@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live presentation of `i am dead inside`](http://9gag.com/gag/awzzK8W)
- - 🚯 [Here you can see the UN doing its best to avoid war in Ukraine.](http://9gag.com/gag/a211qdO)
- - 🚯 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)<!-- MEMES:END -->
+ - 🚖 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)
+ - 🚯 [Happy birthday!](http://9gag.com/gag/abggb6p)
+ - 🚯 [Never put molten salt in water](http://9gag.com/gag/a511PPO)<!-- MEMES:END -->
 
 --- 
 
