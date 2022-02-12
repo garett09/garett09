@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/amggL1d)
+ - 🚖 [Kyle vs Karen](http://9gag.com/gag/aDDDm3x)
  - 🚯 [When your teacher says that you can ignore friction](http://9gag.com/gag/aVxxWgn)
- - 🚯 [Ukraine? No, Mykraine](http://9gag.com/gag/aPZZvgR)<!-- MEMES:END -->
+ - 🚯 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)<!-- MEMES:END -->
 
 --- 
 
