@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyle vs Karen](http://9gag.com/gag/aDDDm3x)
- - 🚯 [When your teacher says that you can ignore friction](http://9gag.com/gag/aVxxWgn)
- - 🚯 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)<!-- MEMES:END -->
+ - 🚖 [Live presentation of `i am dead inside`](http://9gag.com/gag/awzzK8W)
+ - 🚯 [Here you can see the UN doing its best to avoid war in Ukraine.](http://9gag.com/gag/a211qdO)
+ - 🚯 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)<!-- MEMES:END -->
 
 --- 
 
