@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don\u2019t crucify me please](http://9gag.com/gag/aegg62q)
- - 🚯 [Extreme police brutality](http://9gag.com/gag/arnnNx7)
+ - 🚖 [This could have been us](http://9gag.com/gag/a611QBA)
+ - 🚯 [Magneto knows his shit](http://9gag.com/gag/a9117QW)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
