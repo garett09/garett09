@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)
- - 🚯 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)
- - 🚯 [LOTR](http://9gag.com/gag/a611L4L)<!-- MEMES:END -->
+ - 🚖 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)
+ - 🚯 [LOTR](http://9gag.com/gag/a611L4L)
+ - 🚯 [Kyle vs Karen](http://9gag.com/gag/aDDDm3x)<!-- MEMES:END -->
 
 --- 
 
