@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy birthday!](http://9gag.com/gag/abggb6p)
- - 🚯 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)
- - 🚯 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)<!-- MEMES:END -->
+ - 🚖 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)
+ - 🚯 [LOTR](http://9gag.com/gag/a611L4L)
+ - 🚯 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)<!-- MEMES:END -->
 
 --- 
 
