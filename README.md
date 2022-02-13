@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My mom had us so terrified to wear shoes on he carpet that if we walked out and forgot something but didn\u2019t wanna take off our shoes we would crawl on hands and knees to go get it real quick](http://9gag.com/gag/agggqgq)
- - 🚯 [Hand glider pilot forgot to attach his passenger...](http://9gag.com/gag/arnnbEB)
+ - 🚖 [So apparently this is a legitimate sport](http://9gag.com/gag/arnn5Xy)
+ - 🚯 [High school in the 80s](http://9gag.com/gag/a911A2K)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
