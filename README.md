@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb 13: $179 Rosetta Stone lifetime access, $495 13-inch Core i5 MacBook Pro, more!](https://appleinsider.com/articles/22/02/13/daily-deals-feb-13-179-rosetta-stone-lifetime-access-495-13-inch-core-i5-macbook-pro-more?utm_medium=rss)
- - [Google just surrendered its update authority to Samsung](https://www.androidauthority.com/samsung-vs-google-updates-3104089/)
- - [Lenovo&#39;s sleek and simple smart clock is down to $50 today only at Best Buy     - CNET](https://www.cnet.com/home/smart-home/lenovos-sleek-and-simple-smart-clock-is-down-to-50-today-only-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A rocket is still set to slam into the Moon next month — but it may not be from SpaceX after all](https://www.theverge.com/2022/2/13/22931817/china-change-5-t1-rocket-spacex-falcon-9-moon-collision)
+ - [Asus Zenfone 9: What we want to see](https://www.androidauthority.com/asus-zenfone-9-3101567/)
+ - [Super Bowl 2022: how to watch the Bengals play the Rams](https://www.theverge.com/2022/2/11/22915339/super-bowl-watch-live-stream-start-time-lvi-rams-bengals-halftime-show)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
