@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jordan Peele’s Nope Super Bowl trailer is full of strange, sci-fi mystery](https://www.polygon.com/22927512/jordan-peele-nope-trailer-super-bowl-release-date-cast)
  - [Valve bans Cities: Skylines modder accused of hiding malicious code in mods](https://www.pcgamer.com/valve-bans-cities-skylines-modder-accused-of-hiding-malicious-code-in-mods)
- - [NFT marketplace halts transactions due to &#39;rampant&#39; counterfeiting](https://www.pcgamer.com/nft-marketplace-halts-transactions-due-to-rampant-counterfeiting)
- - [Lost Ark breaks a million players, becomes today&#39;s top Steam game by concurrents](https://www.pcgamer.com/lost-ark-breaks-a-million-players-becomes-steams-top-game-by-concurrent-player-count)<!-- GAME:END -->
+ - [NFT marketplace halts transactions due to &#39;rampant&#39; counterfeiting](https://www.pcgamer.com/nft-marketplace-halts-transactions-due-to-rampant-counterfeiting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
