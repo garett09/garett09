@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 Ultra vs iPhone 13 Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-iphone-13-pro-max-3105664/)
- - [Jabees Serenity Sleep Mask review: a great value nighttime accessory](https://appleinsider.com/articles/22/02/13/jabees-serenity-sleep-mask-review-a-great-value-nighttime-accessory?utm_medium=rss)
- - [Heart-shaped steak and more of Goldbelly&#39;s best Valentine&#39;s Day eats     - CNET](https://www.cnet.com/news/best-valentines-day-mail-order-treats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Optimism fixes a critical bug that would have allowed creation of unlimited ETH tokens in the Ethereum layer-2 scaling project&#39;s accounts, awards a $2M bounty &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/220213/p5#a220213p5)
+ - [Alienware’s upcoming QD-OLED monitor has a $1,299 price tag](https://www.theverge.com/2022/2/13/22932031/alienwares-qd-oled-monitor-price-tag)
+ - [Samsung Galaxy S22 Ultra vs iPhone 13 Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-iphone-13-pro-max-3105664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
