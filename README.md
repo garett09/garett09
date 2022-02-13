@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They will win the science fair](http://9gag.com/gag/aVxxDLK)
- - 🚯 [A garlic...](http://9gag.com/gag/aPZZB0R)
+ - 🚖 [Hand glider pilot forgot to attach his passenger...](http://9gag.com/gag/arnnbEB)
+ - 🚯 [Thank you human for your kindness.](http://9gag.com/gag/aNPPA20)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
