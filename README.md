@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S22 Ultra vs iPhone 13 Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-vs-iphone-13-pro-max-3105664/)
  - [Jabees Serenity Sleep Mask review: a great value nighttime accessory](https://appleinsider.com/articles/22/02/13/jabees-serenity-sleep-mask-review-a-great-value-nighttime-accessory?utm_medium=rss)
- - [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
- - [Save 33% on the latest Fitbits during Amazon&#39;s Valentine&#39;s sale     - CNET](https://www.cnet.com/health/fitness/save-33-on-the-latest-fitbits-during-amazons-valentines-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Heart-shaped steak and more of Goldbelly&#39;s best Valentine&#39;s Day eats     - CNET](https://www.cnet.com/news/best-valentines-day-mail-order-treats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
