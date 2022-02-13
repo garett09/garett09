@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This could have been us](http://9gag.com/gag/a611QBA)
- - 🚯 [Magneto knows his shit](http://9gag.com/gag/a9117QW)
+ - 🚯 [Soft](http://9gag.com/gag/aDDDGQO)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
