@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do if you&#39;re single on Valentine&#39;s Day     - CNET](https://www.cnet.com/news/what-to-do-if-youre-single-on-valentines-day/#ftag=CAD590a51e)
- - [How the price of Samsung Galaxy S phones changed over the years](https://www.androidauthority.com/samsung-galaxy-s-prices-1192063/)
- - [Super Bowl commercials 2022: Watch all the big ads before Sunday&#39;s big game     - CNET](https://www.cnet.com/news/super-bowl-commercials-2022-watch-all-the-big-ads-before-sundays-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ElevationLab GoStand review: As small as a stand gets](https://appleinsider.com/articles/22/02/13/elevationlab-gostand-review-as-small-as-a-stand-gets?utm_medium=rss)
+ - [Google made a smart lamp that you’ll probably never be able to buy](https://www.theverge.com/2022/2/13/22932202/google-smart-lamp-d-light)
+ - [Cook&#39;s China comments lawsuit gains class-action status](https://appleinsider.com/articles/22/02/13/cooks-china-comments-lawsuit-gains-class-action-status?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
