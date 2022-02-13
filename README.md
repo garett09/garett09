@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why is Spider-Man not on Disney Plus?](https://www.androidauthority.com/why-is-spiderman-not-on-disney-plus-3105516/)
  - [How warehouse automation startups like Accelerate360 and Attabotics, grocery services like Misfits, and delivery firms like Veho are transforming supply chains &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220213/p2#a220213p2)
- - [Wallaroo, a NY-based startup that helps enterprises deploy, run, and observe ML models in production at scale, raises a $25M Series A led by Microsoft&#39;s M12 &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220213/p1#a220213p1)
- - [Paris-based Silvr, which offers revenue-based financing to e-commerce and SaaS companies in Europe, raises an &amp;euro;18M Series A and &amp;euro;112M in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220212/p9#a220212p9)<!-- TECH:END -->
+ - [Wallaroo, a NY-based startup that helps enterprises deploy, run, and observe ML models in production at scale, raises a $25M Series A led by Microsoft&#39;s M12 &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220213/p1#a220213p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
