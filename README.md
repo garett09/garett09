@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German serial killer Sarah M., who would lure male victims to their deaths with the promise of sex](http://9gag.com/gag/anggB2z)
- - 🚯 [LOTR](http://9gag.com/gag/a611L4L)
- - 🚯 [Here you can see the UN doing its best to avoid war in Ukraine.](http://9gag.com/gag/a211qdO)<!-- MEMES:END -->
+ - 🚖 [Respect](http://9gag.com/gag/a0ZZj9Q)
+ - 🚯 [150kg Giant tries out gymnastics](http://9gag.com/gag/amgg9LV)
+ - 🚯 [I&#39;ve never thought about it, but its true.](http://9gag.com/gag/aVxxPDn)<!-- MEMES:END -->
 
 --- 
 
