@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Respect](http://9gag.com/gag/a0ZZj9Q)
- - 🚯 [150kg Giant tries out gymnastics](http://9gag.com/gag/amgg9LV)
- - 🚯 [I&#39;ve never thought about it, but its true.](http://9gag.com/gag/aVxxPDn)<!-- MEMES:END -->
+ - 🚖 [Another one for the boys!](http://9gag.com/gag/agggG8w)
+ - 🚯 [Duckgator ~](http://9gag.com/gag/aeggG75)
+ - 🚯 [Never tell me the odds](http://9gag.com/gag/aGzzxrX)<!-- MEMES:END -->
 
 --- 
 
