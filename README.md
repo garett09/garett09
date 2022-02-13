@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to do if you&#39;re single on Valentine&#39;s Day     - CNET](https://www.cnet.com/news/what-to-do-if-youre-single-on-valentines-day/#ftag=CAD590a51e)
  - [How the price of Samsung Galaxy S phones changed over the years](https://www.androidauthority.com/samsung-galaxy-s-prices-1192063/)
- - [Jabra Elite 4 Active earbuds review: ANC for much less than AirPods Pro](https://appleinsider.com/articles/22/02/13/jabra-elite-4-active-earbuds-review-anc-for-much-less-than-airpods-pro?utm_medium=rss)
- - [Optimism fixes a critical bug that would have allowed creation of unlimited ETH tokens in the Ethereum layer-2 scaling project&#39;s accounts, awards a $2M bounty &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/220213/p5#a220213p5)<!-- TECH:END -->
+ - [Super Bowl commercials 2022: Watch all the big ads before Sunday&#39;s big game     - CNET](https://www.cnet.com/news/super-bowl-commercials-2022-watch-all-the-big-ads-before-sundays-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
