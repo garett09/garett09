@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)
- - 🚯 [LOTR](http://9gag.com/gag/a611L4L)
- - 🚯 [Kyle vs Karen](http://9gag.com/gag/aDDDm3x)<!-- MEMES:END -->
+ - 🚖 [Walmart begins locking steaks as shoplifting crimes soar amid inflation](http://9gag.com/gag/aGzzwM0)
+ - 🚯 [Turn it, Fold it, Split it in the middle!](http://9gag.com/gag/aZrrMPV)
+ - 🚯 [150kg Giant tries out gymnastics](http://9gag.com/gag/amgg9LV)<!-- MEMES:END -->
 
 --- 
 
