@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another one for the boys!](http://9gag.com/gag/agggG8w)
- - 🚯 [Duckgator ~](http://9gag.com/gag/aeggG75)
- - 🚯 [Never tell me the odds](http://9gag.com/gag/aGzzxrX)<!-- MEMES:END -->
+ - 🚖 [Don\u2019t crucify me please](http://9gag.com/gag/aegg62q)
+ - 🚯 [Extreme police brutality](http://9gag.com/gag/arnnNx7)
+ - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
 
