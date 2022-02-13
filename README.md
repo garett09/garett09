@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Walmart begins locking steaks as shoplifting crimes soar amid inflation](http://9gag.com/gag/aGzzwM0)
- - 🚯 [Turn it, Fold it, Split it in the middle!](http://9gag.com/gag/aZrrMPV)
- - 🚯 [150kg Giant tries out gymnastics](http://9gag.com/gag/amgg9LV)<!-- MEMES:END -->
+ - 🚯 [Biggest salt mine in Europe The beauty of nature](http://9gag.com/gag/aWggOEA)
+ - 🚯 [LOTR](http://9gag.com/gag/a611L4L)<!-- MEMES:END -->
 
 --- 
 
