@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 Has A Star Wars Easter Egg Hidden Inside A Doom Easter Egg](https://kotaku.com/dying-light-2-doom-star-wars-easter-egg-secret-guide-ps-1848529151)
- - [This YouTuber turned &#39;90s Hot Wheels and Barbie pre-built PCs into gaming monsters](https://www.pcgamer.com/this-youtuber-turned-90s-hot-wheels-and-barbie-pre-built-pcs-into-gaming-monsters)
- - [Insurance company&#39;s VR-related claims rose by 31% in 2021](https://www.pcgamer.com/insurance-companys-vr-related-claims-rose-by-31-in-2021)<!-- GAME:END -->
+ - [Final Fantasy 14 has more Deep Dungeons on the way](https://www.pcgamer.com/final-fantasy-14-has-more-deep-dungeons-on-the-way)
+ - [Visiting a swingers club in the very 1980s Romantic Encounters at the Dome](https://www.pcgamer.com/saturday-crapshoot-romantic-encounters-at-the-dome)
+ - [Which Nintendo game do you wish was on PC?](https://www.pcgamer.com/which-nintendo-game-do-you-wish-was-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
