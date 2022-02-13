@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Duckgator ~](http://9gag.com/gag/aeggG75)
- - 🚯 [Biggest salt mine in Europe The beauty of nature](http://9gag.com/gag/aWggOEA)
- - 🚯 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps.](http://9gag.com/gag/aegg07v)<!-- MEMES:END -->
+ - 🚖 [German serial killer Sarah M., who would lure male victims to their deaths with the promise of sex](http://9gag.com/gag/anggB2z)
+ - 🚯 [LOTR](http://9gag.com/gag/a611L4L)
+ - 🚯 [Here you can see the UN doing its best to avoid war in Ukraine.](http://9gag.com/gag/a211qdO)<!-- MEMES:END -->
 
 --- 
 
