@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another one for the boys!](http://9gag.com/gag/agggG8w)
- - 🚯 [Danish weeb in Japan](http://9gag.com/gag/a911YPj)
+ - 🚖 [My 9 month long transformation](http://9gag.com/gag/aDDDG1N)
+ - 🚯 [There is such thing as bad publicity... *coughs* Youtube](http://9gag.com/gag/adggXGD)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
