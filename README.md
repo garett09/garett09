@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My 9 month long transformation](http://9gag.com/gag/aDDDG1N)
- - 🚯 [There is such thing as bad publicity... *coughs* Youtube](http://9gag.com/gag/adggXGD)
+ - 🚖 [Hi Lisa](http://9gag.com/gag/azeerMK)
+ - 🚯 [You&#39;ve scrolled too much...take a second and enjoy](http://9gag.com/gag/aRrrKYA)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
