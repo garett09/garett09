@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2021 Saw A 31% Increase In VR-Related Insurance Claims](https://kotaku.com/2021-saw-a-31-increase-in-vr-related-insurance-claims-1848530832)
  - [A Babylon&#39;s Fall demo will hit Steam after launch in March](https://www.pcgamer.com/babylons-fall-trial-version-will-hit-steam-in-march)
- - [How To Watch The Super Bowl On Your Xbox Or PlayStation Console](https://kotaku.com/super-bowl-console-how-watch-stream-free-ps5-nbc-youtub-1848530403)
- - [This week in PC Gaming: King of Fighters 15 and Total War: Warhammer 3](https://www.pcgamer.com/this-week-in-pc-gaming-king-of-fighters-15-total-war-warhammer-3)<!-- GAME:END -->
+ - [How To Watch The Super Bowl On Your Xbox Or PlayStation Console](https://kotaku.com/super-bowl-console-how-watch-stream-free-ps5-nbc-youtub-1848530403)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
