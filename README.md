@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hi Lisa](http://9gag.com/gag/azeerMK)
- - 🚯 [You&#39;ve scrolled too much...take a second and enjoy](http://9gag.com/gag/aRrrKYA)
+ - 🚖 [What do you all think ?](http://9gag.com/gag/aAGGwWL)
+ - 🚯 [The map of Africa if it was divided by language and ethnicity](http://9gag.com/gag/axBBgVM)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
