@@ -188,7 +188,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [Which Samsung Galaxy S22 phone is right for you?](https://www.androidauthority.com/samsung-galaxy-s22-vs-s22-plus-vs-s22-ultra-3105398/)
  - [Meta’s Quest 2 Super Bowl ad takes a retired animatronic dog into the metaverse](https://www.theverge.com/2022/2/12/22930776/metas-quest-2-super-bowl-metaverse-ad-animatronic-dog-virtual-reality)
- - [UK&#39;s largest insurer Aviva says VR headset-related damage claims increased by 31% in 2021, with an average claim of ~&amp;pound;650 and TVs being the most damaged item &lpar;Samuel Osborne/Sky News&rpar;](http://www.techmeme.com/220212/p7#a220212p7)<!-- TECH:END -->
+ - [Netflix: 41 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-41-of-the-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
