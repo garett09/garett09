@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you all think ?](http://9gag.com/gag/aAGGwWL)
- - 🚯 [The map of Africa if it was divided by language and ethnicity](http://9gag.com/gag/axBBgVM)
+ - 🚖 [Never noticed it before](http://9gag.com/gag/aM448wG)
+ - 🚯 [Valentines Day](http://9gag.com/gag/aBnnwbN)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
