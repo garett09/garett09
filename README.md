@@ -188,7 +188,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [Daily deals Feb 13: $179 Rosetta Stone lifetime access, $495 13-inch Core i5 MacBook Pro, more!](https://appleinsider.com/articles/22/02/13/daily-deals-feb-13-179-rosetta-stone-lifetime-access-495-13-inch-core-i5-macbook-pro-more?utm_medium=rss)
  - [Google just surrendered its update authority to Samsung](https://www.androidauthority.com/samsung-vs-google-updates-3104089/)
- - [How to Set Up Lock Screens on All Your Devices](https://www.wired.com/story/how-to-set-up-lock-screens-all-devices)<!-- TECH:END -->
+ - [Lenovo&#39;s sleek and simple smart clock is down to $50 today only at Best Buy     - CNET](https://www.cnet.com/home/smart-home/lenovos-sleek-and-simple-smart-clock-is-down-to-50-today-only-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
