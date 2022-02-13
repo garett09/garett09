@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunday Comics: Unbearable](https://kotaku.com/sunday-comics-unbearable-1848530308)
- - [Jordan Peele’s Nope Super Bowl trailer is full of strange, sci-fi mystery](https://www.polygon.com/22927512/jordan-peele-nope-trailer-super-bowl-release-date-cast)
- - [Valve bans Cities: Skylines modder accused of hiding malicious code in mods](https://www.pcgamer.com/valve-bans-cities-skylines-modder-accused-of-hiding-malicious-code-in-mods)<!-- GAME:END -->
+ - [How To Watch The Super Bowl On Your Xbox Or PlayStation Console](https://kotaku.com/super-bowl-console-how-watch-stream-free-ps5-nbc-youtub-1848530403)
+ - [This week in PC Gaming: King of Fighters 15 and Total War: Warhammer 3](https://www.pcgamer.com/this-week-in-pc-gaming-king-of-fighters-15-total-war-warhammer-3)
+ - [Here&#39;s a look at the Harkonnens in Dune: Spice Wars](https://www.pcgamer.com/heres-a-look-at-the-harkonnens-in-dune-spice-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
