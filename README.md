@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why is Spider-Man not on Disney Plus?](https://www.androidauthority.com/why-is-spiderman-not-on-disney-plus-3105516/)
- - [How warehouse automation startups like Accelerate360 and Attabotics, grocery services like Misfits, and delivery firms like Veho are transforming supply chains &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220213/p2#a220213p2)
- - [Wallaroo, a NY-based startup that helps enterprises deploy, run, and observe ML models in production at scale, raises a $25M Series A led by Microsoft&#39;s M12 &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220213/p1#a220213p1)<!-- TECH:END -->
+ - [Research: ModifiedElephant APT has targeted activists, journalists, lawyers, and others in India to spy on or plant digital evidence since at least 2012 &lpar;Tom Hegel/SentinelOne&rpar;](http://www.techmeme.com/220213/p3#a220213p3)
+ - [The best Samsung Galaxy S22 series alternatives](https://www.androidauthority.com/samsung-galaxy-s22-alternatives-3098362/)
+ - [Symmetries Reveal Clues About the Holographic Universe](https://www.wired.com/story/symmetries-reveal-clues-about-the-holographic-universe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
