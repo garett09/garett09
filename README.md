@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [NFT marketplace halts transactions due to &#39;rampant&#39; counterfeiting](https://www.pcgamer.com/nft-marketplace-halts-transactions-due-to-rampant-counterfeiting)
  - [Lost Ark breaks a million players, becomes today&#39;s top Steam game by concurrents](https://www.pcgamer.com/lost-ark-breaks-a-million-players-becomes-steams-top-game-by-concurrent-player-count)
- - [Final Fantasy 14 has more Deep Dungeons on the way](https://www.pcgamer.com/final-fantasy-14-has-more-deep-dungeons-on-the-way)
- - [Visiting a swingers club in the very 1980s Romantic Encounters at the Dome](https://www.pcgamer.com/saturday-crapshoot-romantic-encounters-at-the-dome)<!-- GAME:END -->
+ - [Final Fantasy 14 has more Deep Dungeons on the way](https://www.pcgamer.com/final-fantasy-14-has-more-deep-dungeons-on-the-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
