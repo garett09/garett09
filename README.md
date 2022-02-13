@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 Saw A 31% Increase In VR-Related Insurance Claims](https://kotaku.com/2021-saw-a-31-increase-in-vr-related-insurance-claims-1848530832)
- - [A Babylon&#39;s Fall demo will hit Steam after launch in March](https://www.pcgamer.com/babylons-fall-trial-version-will-hit-steam-in-march)
- - [How To Watch The Super Bowl On Your Xbox Or PlayStation Console](https://kotaku.com/super-bowl-console-how-watch-stream-free-ps5-nbc-youtub-1848530403)<!-- GAME:END -->
+ - [The Week In Games: What&#39;s On The Horizon?](https://kotaku.com/the-week-in-games-whats-on-the-horizon-1848530990)
+ - [Amazon is working on a Blade Runner TV series with Ridley Scott producing](https://www.pcgamer.com/amazon-is-working-on-a-blade-runner-tv-series-with-ridley-scott-producing)
+ - [Dying Light 2&#39;s first free DLC is Peacekeeper-themed](https://www.pcgamer.com/dying-light-2s-first-free-dlc-is-peacekeeper-themed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
