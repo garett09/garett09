@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every unit needs a good Medic](http://9gag.com/gag/aKmmPm6)
- - 🚯 [Happy birthday!](http://9gag.com/gag/abggb6p)
- - 🚯 [Never put molten salt in water](http://9gag.com/gag/a511PPO)<!-- MEMES:END -->
+ - 🚖 [Happy birthday!](http://9gag.com/gag/abggb6p)
+ - 🚯 [Every second of this masterpiece is wonderful](http://9gag.com/gag/a911Pyj)
+ - 🚯 [Traditional olive oil extraction](http://9gag.com/gag/ay990wq)<!-- MEMES:END -->
 
 --- 
 
