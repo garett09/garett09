@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Walmart begins locking steaks as shoplifting crimes soar amid inflation](http://9gag.com/gag/aGzzwM0)
+ - 🚖 [Duckgator ~](http://9gag.com/gag/aeggG75)
  - 🚯 [Biggest salt mine in Europe The beauty of nature](http://9gag.com/gag/aWggOEA)
- - 🚯 [LOTR](http://9gag.com/gag/a611L4L)<!-- MEMES:END -->
+ - 🚯 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps.](http://9gag.com/gag/aegg07v)<!-- MEMES:END -->
 
 --- 
 
