@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This could have been us](http://9gag.com/gag/a611QBA)
- - 🚯 [Soft](http://9gag.com/gag/aDDDGQO)
+ - 🚖 [The new batgirl movie looking fire](http://9gag.com/gag/a711dXL)
+ - 🚯 [Another one for the boys!](http://9gag.com/gag/agggG8w)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
