@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The new batgirl movie looking fire](http://9gag.com/gag/a711dXL)
- - 🚯 [Another one for the boys!](http://9gag.com/gag/agggG8w)
+ - 🚖 [Another one for the boys!](http://9gag.com/gag/agggG8w)
+ - 🚯 [Danish weeb in Japan](http://9gag.com/gag/a911YPj)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
