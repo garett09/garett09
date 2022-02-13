@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: ModifiedElephant APT has targeted activists, journalists, lawyers, and others in India to spy on or plant digital evidence since at least 2012 &lpar;Tom Hegel/SentinelOne&rpar;](http://www.techmeme.com/220213/p3#a220213p3)
- - [The best Samsung Galaxy S22 series alternatives](https://www.androidauthority.com/samsung-galaxy-s22-alternatives-3098362/)
- - [Symmetries Reveal Clues About the Holographic Universe](https://www.wired.com/story/symmetries-reveal-clues-about-the-holographic-universe)<!-- TECH:END -->
+ - [How to Set Up Lock Screens on All Your Devices](https://www.wired.com/story/how-to-set-up-lock-screens-all-devices)
+ - [Arm IPO endangered by China unit&#39;s legal issues](https://appleinsider.com/articles/22/02/13/arm-ipo-endangered-by-china-units-legal-issues?utm_medium=rss)
+ - [Research: ModifiedElephant APT has targeted activists, journalists, lawyers, and others in India to spy on or plant digital evidence since at least 2012 &lpar;Tom Hegel/SentinelOne&rpar;](http://www.techmeme.com/220213/p3#a220213p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
