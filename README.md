@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set Up Lock Screens on All Your Devices](https://www.wired.com/story/how-to-set-up-lock-screens-all-devices)
- - [Arm IPO endangered by China unit&#39;s legal issues](https://appleinsider.com/articles/22/02/13/arm-ipo-endangered-by-china-units-legal-issues?utm_medium=rss)
- - [Research: ModifiedElephant APT has targeted activists, journalists, lawyers, and others in India to spy on or plant digital evidence since at least 2012 &lpar;Tom Hegel/SentinelOne&rpar;](http://www.techmeme.com/220213/p3#a220213p3)<!-- TECH:END -->
+ - [Daily deals Feb 13: $179 Rosetta Stone lifetime access, $495 13-inch Core i5 MacBook Pro, more!](https://appleinsider.com/articles/22/02/13/daily-deals-feb-13-179-rosetta-stone-lifetime-access-495-13-inch-core-i5-macbook-pro-more?utm_medium=rss)
+ - [Google just surrendered its update authority to Samsung](https://www.androidauthority.com/samsung-vs-google-updates-3104089/)
+ - [How to Set Up Lock Screens on All Your Devices](https://www.wired.com/story/how-to-set-up-lock-screens-all-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
