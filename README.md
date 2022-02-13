@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A rocket is still set to slam into the Moon next month — but it may not be from SpaceX after all](https://www.theverge.com/2022/2/13/22931817/china-change-5-t1-rocket-spacex-falcon-9-moon-collision)
- - [Asus Zenfone 9: What we want to see](https://www.androidauthority.com/asus-zenfone-9-3101567/)
- - [Super Bowl 2022: how to watch the Bengals play the Rams](https://www.theverge.com/2022/2/11/22915339/super-bowl-watch-live-stream-start-time-lvi-rams-bengals-halftime-show)<!-- TECH:END -->
+ - [Jabees Serenity Sleep Mask review: a great value nighttime accessory](https://appleinsider.com/articles/22/02/13/jabees-serenity-sleep-mask-review-a-great-value-nighttime-accessory?utm_medium=rss)
+ - [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
+ - [Save 33% on the latest Fitbits during Amazon&#39;s Valentine&#39;s sale     - CNET](https://www.cnet.com/health/fitness/save-33-on-the-latest-fitbits-during-amazons-valentines-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
