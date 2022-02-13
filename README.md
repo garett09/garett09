@@ -180,8 +180,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Jordan Peele’s Nope Super Bowl trailer is full of strange, sci-fi mystery](https://www.polygon.com/22927512/jordan-peele-nope-trailer-super-bowl-release-date-cast)
- - [Valve bans Cities: Skylines modder accused of hiding malicious code in mods](https://www.pcgamer.com/valve-bans-cities-skylines-modder-accused-of-hiding-malicious-code-in-mods)
- - [NFT marketplace halts transactions due to &#39;rampant&#39; counterfeiting](https://www.pcgamer.com/nft-marketplace-halts-transactions-due-to-rampant-counterfeiting)<!-- GAME:END -->
+ - [Dying Light 2 Has A Star Wars Easter Egg Hidden Inside A Doom Easter Egg](https://kotaku.com/dying-light-2-doom-star-wars-easter-egg-secret-guide-ps-1848529151)
+ - [Lost Ark Sets New Concurrent Player Record On Steam, With Over 1.3 Million Online [Update]](https://kotaku.com/lost-ark-steam-record-1-million-players-record-mmorpg-d-1848528547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
