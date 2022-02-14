@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark&#39;s Depiction Of Female Characters Feels A Decade Out Of Date](https://kotaku.com/lost-ark-female-characters-women-heels-skimpy-clothing-1848535666)
- - [Mother 3 fans imagine a gorgeous 3D remake in bittersweet tribute video](https://www.polygon.com/gaming/22933584/mother-3-fan-trailer-earthbound)
- - [In Horizon Forbidden West, I’m constantly switching between the 60 fps and 4K graphics modes](https://www.polygon.com/22928062/horizon-forbidden-west-ps5-performance-resolution-modes-4k-60-fps-comparison)<!-- GAME:END -->
+ - [Total War: Warhammer III: The Kotaku Review](https://kotaku.com/total-war-warhammer-iii-3-review-pc-kotaku-creative-ass-1848519660)
+ - [Ranking the Cookie Run: Kingdom characters by how ‘hot’ they are for Valentine’s Day](https://www.polygon.com/22933124/cookie-run-kingdom-best-characters-valentines-day)
+ - [Cyberpunk 2077 livestream could reveal Xbox Series X, PS5 versions](https://www.polygon.com/22933642/cyberpunk-2077-livestream-ps5-xbox-series-x-optimized)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
