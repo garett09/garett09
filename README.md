@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to Middle-earth in Amazon’s first Lord of the Rings: The Rings of Power teaser trailer](https://www.polygon.com/22927783/lord-of-the-rings-rings-of-power-trailer-amazon-super-bowl-release-date)
- - [Sheet Of Uncut 1998 Pokémon Cards Found, Up For Auction](https://kotaku.com/pokemon-tcg-charizard-shiny-auction-rare-expensive-1998-1848531293)
- - [Napoleonic shooter Holdfast gets a free total conversion to WWI](https://www.pcgamer.com/napoleonic-shooter-holdfast-gets-a-free-total-conversion-to-world-war-1)<!-- GAME:END -->
+ - [Where’s Gandalf in Amazon’s The Lord of the Rings: The Rings of Power?](https://www.polygon.com/22927928/gandalf-amazon-lord-of-the-rings-the-rings-of-power)
+ - [Let’s break down all the Lord of the Rings lore in The Rings of Power teaser](https://www.polygon.com/22927842/lord-of-the-rings-rings-of-power-trailer-breakdown-easter-eggs-references)
+ - [Return to Middle-earth in Amazon’s first Lord of the Rings: The Rings of Power teaser trailer](https://www.polygon.com/22927783/lord-of-the-rings-rings-of-power-trailer-amazon-super-bowl-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
