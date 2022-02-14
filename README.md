@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone has to do it](http://9gag.com/gag/adggKXN)
+ - 🚖 [I&#39;m weightless](http://9gag.com/gag/a911rQj)
  - 🚯 [Irony](http://9gag.com/gag/aQXXe78)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
