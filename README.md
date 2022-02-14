@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hideaki Anno Is Creating His Version Of The Marvel Universe](https://kotaku.com/godzilla-evangelion-hideaki-anno-kamen-rider-ultraman-k-1848532204)
  - [This Man Loves Japan. His Name Is Tommy Lee Jones.](https://kotaku.com/this-man-loves-japan-his-name-is-tommy-lee-jones-5936480)
- - [Horizon Forbidden West is endlessly obsessed with the ethos of ‘more’](https://www.polygon.com/reviews/22929940/horizon-forbidden-west-review-ps5-ps4)
- - [Horizon Forbidden West: The Kotaku Review](https://kotaku.com/horizon-forbidden-west-the-kotaku-review-1848524470)<!-- GAME:END -->
+ - [Horizon Forbidden West is endlessly obsessed with the ethos of ‘more’](https://www.polygon.com/reviews/22929940/horizon-forbidden-west-review-ps5-ps4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
