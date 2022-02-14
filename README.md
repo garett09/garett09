@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Melting Steel on the floor...](http://9gag.com/gag/a511nEO)
- - 🚯 [Mah ppl &lt;3](http://9gag.com/gag/agggXZW)
+ - 🚖 [The Anti-Neymar](http://9gag.com/gag/agggX56)
+ - 🚯 [Me at work\u2026](http://9gag.com/gag/azee9KZ)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
