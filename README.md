@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV ads dominated the Super Bowl, but don’t expect to buy one anytime soon](https://www.theverge.com/2022/2/14/22933092/super-bowl-electric-car-ad-commercials-evs-available)
- - [Some official OnePlus Nord CES 2 images and specs revealed](https://www.androidauthority.com/oneplus-nord-ces-2-images-specs-3108417/)
- - [SEC fines crypto lending company BlockFi $100M, which will register its high-yield crypto savings product and offer it as a security as part of the settlement &lpar;The Block&rpar;](http://www.techmeme.com/220214/p17#a220214p17)<!-- TECH:END -->
+ - [Romance scammers collected $139 million in crypto last year](https://www.theverge.com/2022/2/14/22933056/crypto-romance-scammers-139-million-fraud)
+ - [Microsoft tells employees it will fully reopen its facilities in Washington state starting February 28, citing high rates of COVID-19 vaccination in King County &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220214/p19#a220214p19)
+ - [Construction begins on New York’s first offshore wind farm](https://www.theverge.com/2022/2/14/22933095/new-york-offshore-wind-farm-south-fork-long-island-construction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
