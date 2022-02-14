@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ICYMI collection of quality 2022 Super Bowl commercials](https://www.polygon.com/22923740/best-super-bowl-commercials-2022)
- - [Where’s Gandalf in Amazon’s The Lord of the Rings: The Rings of Power?](https://www.polygon.com/22927928/gandalf-amazon-lord-of-the-rings-the-rings-of-power)
- - [Let’s break down all the Lord of the Rings lore in The Rings of Power teaser](https://www.polygon.com/22927842/lord-of-the-rings-rings-of-power-trailer-breakdown-easter-eggs-references)<!-- GAME:END -->
+ - [Horizon Forbidden West is endlessly obsessed with the ethos of ‘more’](https://www.polygon.com/reviews/22929940/horizon-forbidden-west-review-ps5-ps4)
+ - [Horizon Forbidden West: The Kotaku Review](https://kotaku.com/horizon-forbidden-west-the-kotaku-review-1848524470)
+ - [The ICYMI collection of quality 2022 Super Bowl commercials](https://www.polygon.com/22923740/best-super-bowl-commercials-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
