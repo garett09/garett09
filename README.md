@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So apparently this is a legitimate sport](http://9gag.com/gag/arnn5Xy)
- - 🚯 [The Anti-Neymar](http://9gag.com/gag/agggX56)
+ - 🚖 [Someone has to do it](http://9gag.com/gag/adggKXN)
+ - 🚯 [Irony](http://9gag.com/gag/aQXXe78)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
