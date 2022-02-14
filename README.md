@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s what you’re doing with your Galaxy S21 Ultra this year](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s22-ultra-poll-results-3107952/)
- - [Was that a tabletop bowling toy in Book of Boba Fett?](https://www.theverge.com/tldr/2022/2/14/22932756/boba-fett-bowlatronic-coleco)
- - [NYC-based Viam Robotics, still in stealth mode, raises a $30M Series A led by Tiger Global for its &quot;standardized building blocks&quot; approach to robotics &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/220214/p3#a220214p3)<!-- TECH:END -->
+ - [Apple threatens to pull out of Toronto shopping project](https://appleinsider.com/articles/22/02/14/apple-threatens-to-pull-out-of-toronto-shopping-project?utm_medium=rss)
+ - [Three new Macs revealed in EEC regulatory filings](https://appleinsider.com/articles/22/02/14/new-macsthree-new-macs-revealed-in-eec-regulatory-filings?utm_medium=rss)
+ - [Apple&#39;s iPhone 13 is significantly faster than Samsung&#39;s latest Galaxy S22](https://appleinsider.com/articles/22/02/11/apples-iphone-13-is-significantly-faster-than-samsungs-latest-galaxy-s22?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
