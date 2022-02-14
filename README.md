@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia G21 announced: Two steps forward, one step back](https://www.androidauthority.com/nokia-g21-3106655/)
- - [Canada-based 7shifts, which provides employee scheduling and workforce management software to restaurants, raises an $80M Series C led by SoftBank Vision Fund 2 &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/220214/p1#a220214p1)
- - [Ghostbusters director Ivan Reitman dies at 75     - CNET](https://www.cnet.com/news/ghostbusters-director-ivan-reitman-dies-at-75/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Horizon Forbidden West’s incredible world is easy to get lost in](https://www.theverge.com/22929852/horizon-forbidden-west-ps5-review)
+ - [You can run Windows 11 on your phone thanks to Android 13](https://www.androidauthority.com/windows-11-android-13-3107906/)
+ - [South Africa-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raises a $21M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220214/p2#a220214p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
