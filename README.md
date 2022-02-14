@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did you know this banned episode?](http://9gag.com/gag/aQXX1yK)
- - 🚯 [A can of cake from a vending machine in Japan](http://9gag.com/gag/a711wp2)
- - 🚯 [Women of Europe](http://9gag.com/gag/a111QMb)<!-- MEMES:END -->
+ - 🚖 [Peter Jackson after watching Rings of Power trailer](http://9gag.com/gag/aVxxwQd)
+ - 🚯 [Not sorry November babies](http://9gag.com/gag/aGzzgLz)
+ - 🚯 [Happy Bismarck launch day](http://9gag.com/gag/a8113vV)<!-- MEMES:END -->
 
 --- 
 
