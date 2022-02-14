@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideaki Anno Is Creating His Version Of The Marvel Universe](https://kotaku.com/godzilla-evangelion-hideaki-anno-kamen-rider-ultraman-k-1848532204)
- - [This Man Loves Japan. His Name Is Tommy Lee Jones.](https://kotaku.com/this-man-loves-japan-his-name-is-tommy-lee-jones-5936480)
- - [Horizon Forbidden West is endlessly obsessed with the ethos of ‘more’](https://www.polygon.com/reviews/22929940/horizon-forbidden-west-review-ps5-ps4)<!-- GAME:END -->
+ - [Genshin Impact&#39;s miHoYo Rebrands For Global Audiences](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-brand-honkai-impact-3rd-1848532266)
+ - [Master &amp; Dynamic MG20 Wireless Gaming Headset Review](https://www.pcgamer.com/master-and-dynamic-mg20-wireless-gaming-headset-review)
+ - [Hideaki Anno Is Creating His Version Of The Marvel Universe But With Kaiju, Heroes, and Robots](https://kotaku.com/godzilla-evangelion-hideaki-anno-kamen-rider-ultraman-k-1848532204)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
