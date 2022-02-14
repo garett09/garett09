@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon Forbidden West Review: A Near-Perfect Sequel     - CNET](https://www.cnet.com/tech/gaming/features/horizon-forbidden-west-review-a-near-perfect-sequel/#ftag=CAD590a51e)
  - [Horizon Forbidden West’s incredible world is easy to get lost in](https://www.theverge.com/22929852/horizon-forbidden-west-ps5-review)
- - [You can run Windows 11 on your phone thanks to Android 13](https://www.androidauthority.com/windows-11-android-13-3107906/)
- - [South Africa-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raises a $21M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220214/p2#a220214p2)<!-- TECH:END -->
+ - [You can run Windows 11 on your phone thanks to Android 13](https://www.androidauthority.com/windows-11-android-13-3107906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
