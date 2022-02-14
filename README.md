@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [As to the culling of the Second age...](http://9gag.com/gag/angggyo)
- - 🚯 [James Bond for 2023?](http://9gag.com/gag/a0ZZNqd)
- - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)<!-- MEMES:END -->
+ - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)
+ - 🚯 [Shaq just doesn&#39;t stop giving](http://9gag.com/gag/aQXXX1r)<!-- MEMES:END -->
 
 --- 
 
