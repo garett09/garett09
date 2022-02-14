@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s like a completely seamless jump in time, a `blank` if you will, during which my body freezes, but afterwards I don&#39;t even know it happened. It explains a lot of things, actually. These `blanks` are getting longer each time, and I fear one of these days I might not come back](http://9gag.com/gag/aNPPgeA)
- - 🚯 [Austria cookies recipe](http://9gag.com/gag/a411RgA)
- - 🚯 [How jammy am I?](http://9gag.com/gag/a0ZZN4v)<!-- MEMES:END -->
+ - 🚖 [Austria cookies recipe](http://9gag.com/gag/a411RgA)
+ - 🚯 [How jammy am I?](http://9gag.com/gag/a0ZZN4v)
+ - 🚯 [They get what they f****** deserve](http://9gag.com/gag/aAGGbZd)<!-- MEMES:END -->
 
 --- 
 
