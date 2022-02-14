@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Man Loves Japan. His Name Is Tommy Lee Jones.](https://kotaku.com/this-man-loves-japan-his-name-is-tommy-lee-jones-5936480)
  - [Horizon Forbidden West is endlessly obsessed with the ethos of ‘more’](https://www.polygon.com/reviews/22929940/horizon-forbidden-west-review-ps5-ps4)
- - [Horizon Forbidden West: The Kotaku Review](https://kotaku.com/horizon-forbidden-west-the-kotaku-review-1848524470)
- - [The ICYMI collection of quality 2022 Super Bowl commercials](https://www.polygon.com/22923740/best-super-bowl-commercials-2022)<!-- GAME:END -->
+ - [Horizon Forbidden West: The Kotaku Review](https://kotaku.com/horizon-forbidden-west-the-kotaku-review-1848524470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
