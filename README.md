@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nokia G21 announced: Two steps forward, one step back](https://www.androidauthority.com/nokia-g21-3106655/)
  - [Canada-based 7shifts, which provides employee scheduling and workforce management software to restaurants, raises an $80M Series C led by SoftBank Vision Fund 2 &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/220214/p1#a220214p1)
- - [Ghostbusters director Ivan Reitman dies at 75     - CNET](https://www.cnet.com/news/ghostbusters-director-ivan-reitman-dies-at-75/#ftag=CAD590a51e)
- - [Super Bowl commercials 2022: Watch all the big ads from Sunday&#39;s big game     - CNET](https://www.cnet.com/news/super-bowl-commercials-2022-watch-all-the-big-ads-before-sundays-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ghostbusters director Ivan Reitman dies at 75     - CNET](https://www.cnet.com/news/ghostbusters-director-ivan-reitman-dies-at-75/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
