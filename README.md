@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Horizon Forbidden West, I’m constantly switching between the 60 fps and 4K graphics modes](https://www.polygon.com/22928062/horizon-forbidden-west-ps5-performance-resolution-modes-4k-60-fps-comparison)
- - [One Of The Weirdest Resident Evil Games Is Getting An Unofficial 3D Remake](https://kotaku.com/resident-evil-gaiden-game-boy-color-remake-project-star-1848534682)
- - [The Cuphead Show! is weak-tea homage](https://www.polygon.com/reviews/22933233/cuphead-show-review-netflix)<!-- GAME:END -->
+ - [Lost Ark&#39;s Depiction Of Female Characters Feels A Decade Out Of Date](https://kotaku.com/lost-ark-female-characters-women-heels-skimpy-clothing-1848535666)
+ - [Mother 3 fans imagine a gorgeous 3D remake in bittersweet tribute video](https://www.polygon.com/gaming/22933584/mother-3-fan-trailer-earthbound)
+ - [In Horizon Forbidden West, I’m constantly switching between the 60 fps and 4K graphics modes](https://www.polygon.com/22928062/horizon-forbidden-west-ps5-performance-resolution-modes-4k-60-fps-comparison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
