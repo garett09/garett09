@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Romance scammers collected $139 million in crypto last year](https://www.theverge.com/2022/2/14/22933056/crypto-romance-scammers-139-million-fraud)
- - [Microsoft tells employees it will fully reopen its facilities in Washington state starting February 28, citing high rates of COVID-19 vaccination in King County &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220214/p19#a220214p19)
- - [Construction begins on New York’s first offshore wind farm](https://www.theverge.com/2022/2/14/22933095/new-york-offshore-wind-farm-south-fork-long-island-construction)<!-- TECH:END -->
+ - [Apple Support app updated with pricing estimates, new text entry option](https://appleinsider.com/articles/22/02/14/apple-support-app-updated-with-pricing-estimates-new-text-entry-option?utm_medium=rss)
+ - [Apple releases macOS Big Sur 11.6.4, macOS Catalina Security Update](https://appleinsider.com/articles/22/02/14/apple-releases-macos-big-sur-1164-macos-catalina-security-update?utm_medium=rss)
+ - [Apple Silicon iMac Pro with mini LED display could launch in June, analyst says](https://appleinsider.com/articles/22/02/14/apple-silicon-imac-pro-with-mini-led-display-could-launch-in-june-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
