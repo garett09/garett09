@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon Forbidden West Review: A Near-Perfect Sequel     - CNET](https://www.cnet.com/tech/gaming/features/horizon-forbidden-west-review-a-near-perfect-sequel/#ftag=CAD590a51e)
- - [Horizon Forbidden West’s incredible world is easy to get lost in](https://www.theverge.com/22929852/horizon-forbidden-west-ps5-review)
- - [You can run Windows 11 on your phone thanks to Android 13](https://www.androidauthority.com/windows-11-android-13-3107906/)<!-- TECH:END -->
+ - [You told us: Here’s what you’re doing with your Galaxy S21 Ultra this year](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-galaxy-s22-ultra-poll-results-3107952/)
+ - [Was that a tabletop bowling toy in Book of Boba Fett?](https://www.theverge.com/tldr/2022/2/14/22932756/boba-fett-bowlatronic-coleco)
+ - [NYC-based Viam Robotics, still in stealth mode, raises a $30M Series A led by Tiger Global for its &quot;standardized building blocks&quot; approach to robotics &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/220214/p3#a220214p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
