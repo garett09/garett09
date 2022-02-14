@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [The first trailer for The Lord of the Rings: The Rings of Power debuts at the Super Bowl](https://www.theverge.com/2022/2/13/22923339/lord-of-the-rings-trailer-super-bowl-amazon)
- - [Super Bowl commercials 2022: Watch all the big ads before Sunday&#39;s big game     - CNET](https://www.cnet.com/news/super-bowl-commercials-2022-watch-all-the-big-ads-before-sundays-big-game/#ftag=CAD590a51e)
- - [That bouncing QR code was really a Super Bowl ad for Coinbase     - CNET](https://www.cnet.com/news/that-bouncing-qr-code-was-really-a-super-bowl-ad-for-coinbase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Lord of the Rings trailer introduces The Rings of Power     - CNET](https://www.cnet.com/news/amazons-lord-of-the-rings-trailer-introduces-the-rings-of-power/#ftag=CAD590a51e)
+ - [Super Bowl commercials 2022: Watch all the big ads from Sunday&#39;s big game     - CNET](https://www.cnet.com/news/super-bowl-commercials-2022-watch-all-the-big-ads-before-sundays-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
