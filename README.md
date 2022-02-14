@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live, Love, Slay. Infernax is Coming Your Way This Valentine’s Day](https://news.xbox.com/en-us/2022/02/14/live-love-slay-infernax-is-coming-your-way-this-valentines-day/)
- - [Apex Legends&#39; fantastic new Control mode has one killer problem](https://www.pcgamer.com/apex-legends-fantastic-new-control-mode-has-one-killer-problem)
- - [New Bridgerton teaser reminds us that Lady Whistledown sees all](https://www.polygon.com/22933138/bridgerton-season-2-teaser-lady-whistledown)<!-- GAME:END -->
+ - [Everyone&#39;s Convinced The NYT Made Wordle Harder, But It&#39;s Exactly The Same](https://kotaku.com/wordle-nyt-new-york-times-solution-solver-harder-change-1848533838)
+ - [Doctor Strange 2’s multiverse council sparks Illuminati theories and Tom Cruise dreams](https://www.polygon.com/22932992/doctor-strange-multiverse-of-madness-charles-xavier-tom-cruise-iron-man-illuminati)
+ - [Uncharted crossover brings Nathan Drake to Fortnite](https://www.polygon.com/22933241/uncharted-fortnite-crossover-release-date-nathan-drake-outfit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
