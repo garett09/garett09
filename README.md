@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peter Jackson after watching Rings of Power trailer](http://9gag.com/gag/aVxxwQd)
- - 🚯 [Not sorry November babies](http://9gag.com/gag/aGzzgLz)
- - 🚯 [Happy Bismarck launch day](http://9gag.com/gag/a8113vV)<!-- MEMES:END -->
+ - 🚖 [Not sorry November babies](http://9gag.com/gag/aGzzgLz)
+ - 🚯 [It&#39;s like a completely seamless jump in time, a `blank` if you will, during which my body freezes, but afterwards I don&#39;t even know it happened. It explains a lot of things, actually. These `blanks` are getting longer each time, and I fear one of these days I might not come back](http://9gag.com/gag/aNPPgeA)
+ - 🚯 [Equality.](http://9gag.com/gag/abggre8)<!-- MEMES:END -->
 
 --- 
 
