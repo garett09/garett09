@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer III: The Kotaku Review](https://kotaku.com/total-war-warhammer-iii-3-review-pc-kotaku-creative-ass-1848519660)
- - [Ranking the Cookie Run: Kingdom characters by how ‘hot’ they are for Valentine’s Day](https://www.polygon.com/22933124/cookie-run-kingdom-best-characters-valentines-day)
- - [Cyberpunk 2077 livestream could reveal Xbox Series X, PS5 versions](https://www.polygon.com/22933642/cyberpunk-2077-livestream-ps5-xbox-series-x-optimized)<!-- GAME:END -->
+ - [Lord of the Rings anime slated for April 2024 release — here’s the first look](https://www.polygon.com/22933827/lord-of-the-rings-anime-first-look-release-date)
+ - [These T-Rex keycaps look like they would bite off a finger](https://www.pcgamer.com/these-t-rex-keycaps-look-like-they-would-bite-off-a-finger)
+ - [Total War: Warhammer III: The Kotaku Review](https://kotaku.com/total-war-warhammer-iii-3-review-pc-kotaku-creative-ass-1848519660)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
