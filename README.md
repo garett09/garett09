@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3 is a decisive victory](https://www.polygon.com/reviews/22929474/total-war-warhammer-3-review-pc-steam-game-pass-factions)
- - [Lost Ark developers race to relieve pressure on servers in wake of huge launch](https://www.polygon.com/22932855/lost-ark-launch-queues-european-server)
- - [UK retailer Game does edgelord Valentine&#39;s ad &#39;joking&#39; about domestic violence, immediately withdraws it](https://www.pcgamer.com/uk-retailer-game-does-edgelord-valentines-ad-joking-about-domestic-violence-immediately-withdraws-it)<!-- GAME:END -->
+ - [Gory mystery thriller Martha is Dead will be censored on PlayStation, devs say](https://www.polygon.com/22933016/martha-is-dead-censored-ps4-ps5-version-violence)
+ - [Kotaku’s 3-Episode Anime Test: My Dress Up Darling](https://kotaku.com/my-dress-up-darling-anime-cloverworks-funimation-crunch-1848517872)
+ - [Ben Affleck, Ana de Armas’ too-hot-for-theaters thriller Deep Water gets trailer, Hulu release date](https://www.polygon.com/22933038/deep-water-trailer-teaser-release-ben-affleck-ana-de-armas-erotic-thriller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
