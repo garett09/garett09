@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Austria cookies recipe](http://9gag.com/gag/a411RgA)
- - 🚯 [How jammy am I?](http://9gag.com/gag/a0ZZN4v)
+ - 🚖 [Southern accent](http://9gag.com/gag/a4113rZ)
+ - 🚯 [My thoughts too](http://9gag.com/gag/a0ZZ7Mn)
  - 🚯 [They get what they f****** deserve](http://9gag.com/gag/aAGGbZd)<!-- MEMES:END -->
 
 --- 
