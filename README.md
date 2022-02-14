@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The ICYMI collection of quality 2022 Super Bowl commercials](https://www.polygon.com/22923740/best-super-bowl-commercials-2022)
  - [Where’s Gandalf in Amazon’s The Lord of the Rings: The Rings of Power?](https://www.polygon.com/22927928/gandalf-amazon-lord-of-the-rings-the-rings-of-power)
- - [Let’s break down all the Lord of the Rings lore in The Rings of Power teaser](https://www.polygon.com/22927842/lord-of-the-rings-rings-of-power-trailer-breakdown-easter-eggs-references)
- - [Return to Middle-earth in Amazon’s first Lord of the Rings: The Rings of Power teaser trailer](https://www.polygon.com/22927783/lord-of-the-rings-rings-of-power-trailer-amazon-super-bowl-release-date)<!-- GAME:END -->
+ - [Let’s break down all the Lord of the Rings lore in The Rings of Power teaser](https://www.polygon.com/22927842/lord-of-the-rings-rings-of-power-trailer-breakdown-easter-eggs-references)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
