@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr. Lisa Su assumes her final form as ultimate head of AMD](https://www.pcgamer.com/dr-lisa-su-assumes-her-final-form-as-ultimate-head-of-amd)
- - [God of War PC Mod Makes Atreus Playable, Kinda](https://kotaku.com/god-of-war-pc-mod-playable-son-atreus-kratos-speclizer-1848534505)
- - [Good News, Horizon Forbidden West Plays Fine And Still Looks Beautiful On Base PS4](https://kotaku.com/horizon-forbidden-west-ps5-ps4-graphics-comparison-revi-1848534392)<!-- GAME:END -->
+ - [In Horizon Forbidden West, I’m constantly switching between the 60 fps and 4K graphics modes](https://www.polygon.com/22928062/horizon-forbidden-west-ps5-performance-resolution-modes-4k-60-fps-comparison)
+ - [One Of The Weirdest Resident Evil Games Is Getting An Unofficial 3D Remake](https://kotaku.com/resident-evil-gaiden-game-boy-color-remake-project-star-1848534682)
+ - [The Cuphead Show! is weak-tea homage](https://www.polygon.com/reviews/22933233/cuphead-show-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
