@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Irony](http://9gag.com/gag/aQXXe78)
- - 🚯 [Mah ppl &lt;3](http://9gag.com/gag/agggXZW)
+ - 🚖 [High school in the 80s](http://9gag.com/gag/a911A2K)
+ - 🚯 [Nostalgia](http://9gag.com/gag/aoggO8A)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
