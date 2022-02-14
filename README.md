@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moon Knight shows Oscar Isaac losing his mind in new Super Bowl trailer](https://www.polygon.com/22924191/moon-knight-trailer-super-bowl-release-disney-plus-date-cast)
- - [Everyone thinks the new Doctor Strange trailer’s disembodied voice is X-Men’s Patrick Stewart](https://www.polygon.com/22932372/doctor-strange-2-voice-x-men-patrick-stewart-multiverse-of-madness-trailer)
- - [Doctor Strange is in the Multiverse of Madness in new Super Bowl trailer](https://www.polygon.com/22924190/doctor-strange-trailer-super-bowl-multiverse-of-madness-release-date-cast)<!-- GAME:END -->
+ - [Return to Middle-earth in Amazon’s first Lord of the Rings: The Rings of Power teaser trailer](https://www.polygon.com/22927783/lord-of-the-rings-rings-of-power-trailer-amazon-super-bowl-release-date)
+ - [Sheet Of Uncut 1998 Pokémon Cards Found, Up For Auction](https://kotaku.com/pokemon-tcg-charizard-shiny-auction-rare-expensive-1998-1848531293)
+ - [Napoleonic shooter Holdfast gets a free total conversion to WWI](https://www.pcgamer.com/napoleonic-shooter-holdfast-gets-a-free-total-conversion-to-world-war-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
