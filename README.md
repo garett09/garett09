@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At work on monday after watching Superbowl live from Europe :/](http://9gag.com/gag/ajggEpG)
- - 🚯 [Help him](http://9gag.com/gag/axBB1wW)
- - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
+ - 🚖 [When that new guy screw everything up and you have to save his But](http://9gag.com/gag/aWggEQd)
+ - 🚯 [Haptic controllers have nothing on this](http://9gag.com/gag/aAGG3oL)
+ - 🚯 [Da f**k](http://9gag.com/gag/aM44Z8A)<!-- MEMES:END -->
 
 --- 
 
