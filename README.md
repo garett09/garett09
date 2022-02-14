@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlockFi will pay $100 million in a settlement with SEC and states over its interest accounts](https://www.theverge.com/2022/2/14/22933245/sec-blockfi-settlement-interest-account-yield-filing-register-crypto)
- - [Pick up the Galaxy Buds Plus for just $79, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Best Picture nominee Drive My Car hits HBO Max this March to emotionally ruin you](https://www.theverge.com/22933251/drive-my-car-hbo-max-streaming-oscar-nominees)<!-- TECH:END -->
+ - [Samsung’s Galaxy S22 phones push Google Messages and the good news of RCS](https://www.theverge.com/2022/2/14/22933170/samsung-galaxy-s22-google-messages-default-rcs)
+ - [The best Valentine’s Day sales happening now](https://www.theverge.com/good-deals/22932886/best-valentines-day-sales-2022-tech-deals-headphones-earbuds-games)
+ - [Microsoft will fully reopen its headquarters at the end of February](https://www.theverge.com/2022/2/14/22933452/microsoft-fully-reopen-washington-state-offices-february)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
