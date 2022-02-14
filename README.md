@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton’s new CEO says a sale isn’t in the cards](https://www.theverge.com/2022/2/14/22932948/peloton-mccarthy-new-ceo-sale-connected-fitness)
- - [How to change your country or region in the Google Play store](https://www.androidauthority.com/change-country-google-play-store-3107289/)
- - [&#39;Wordle&#39; clone tops App Store free games chart, again](https://appleinsider.com/articles/22/02/14/wordle-clone-tops-app-store-free-games-chart-again?utm_medium=rss)<!-- TECH:END -->
+ - [EV ads dominated the Super Bowl, but don’t expect to buy one anytime soon](https://www.theverge.com/2022/2/14/22933092/super-bowl-electric-car-ad-commercials-evs-available)
+ - [Some official OnePlus Nord CES 2 images and specs revealed](https://www.androidauthority.com/oneplus-nord-ces-2-images-specs-3108417/)
+ - [SEC fines crypto lending company BlockFi $100M, which will register its high-yield crypto savings product and offer it as a security as part of the settlement &lpar;The Block&rpar;](http://www.techmeme.com/220214/p17#a220214p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
