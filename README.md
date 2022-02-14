@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Papier, which sells personalized paper-based stationery online, raises a $50M Series C led by Singular, bringing its total raised to $65M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220214/p4#a220214p4)
- - [Nvidia’s RTX 3090 Ti is still missing, and the company refuses to say what’s going on](https://www.theverge.com/2022/2/14/22932832/nvidia-rtx-3090-ti-delay-issues)
- - [Sewage Sampling Already Tracks Covid. What Else Can It Find?](https://www.wired.com/story/sewage-sampling-already-tracks-covid-what-else-can-it-find)<!-- TECH:END -->
+ - [London-based Banked, which lets merchants accept payments without users creating an account or sharing data, raises $20M Series A led by BOA and Edenred &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220214/p8#a220214p8)
+ - [How to use iCloud Keychain, Apple&#39;s built-in and free password manager](https://appleinsider.com/articles/21/12/29/how-to-use-icloud-keychain-apples-built-in-and-free-password-manager?utm_medium=rss)
+ - [How to Buy and Sell NFTs &lpar;If You Must&rpar;](https://www.wired.com/story/how-to-buy-sell-nfts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
