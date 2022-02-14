@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact&#39;s miHoYo Rebrands For Global Audiences](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-brand-honkai-impact-3rd-1848532266)
- - [Devious malware hosted on Discord pretends to be Windows 11 installer](https://www.pcgamer.com/devious-malware-hosted-on-discord-pretends-to-be-windows-11-installer)
- - [Vampire Survivors is a screen-clearing thrillride with carpet-bombing doves](https://www.pcgamer.com/vampire-survivors-is-a-screen-clearing-thrillride-with-carpet-bombing-doves)<!-- GAME:END -->
+ - [Total War: Warhammer 3 is a decisive victory](https://www.polygon.com/reviews/22929474/total-war-warhammer-3-review-pc-steam-game-pass-factions)
+ - [Lost Ark developers race to relieve pressure on servers in wake of huge launch](https://www.polygon.com/22932855/lost-ark-launch-queues-european-server)
+ - [UK retailer Game does edgelord Valentine&#39;s ad &#39;joking&#39; about domestic violence, immediately withdraws it](https://www.pcgamer.com/uk-retailer-game-does-edgelord-valentines-ad-joking-about-domestic-violence-immediately-withdraws-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
