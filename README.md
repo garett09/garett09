@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mah ppl &lt;3](http://9gag.com/gag/agggXZW)
- - 🚯 [At work on monday after watching Superbowl live from Europe :/](http://9gag.com/gag/ajggEpG)
+ - 🚖 [At work on monday after watching Superbowl live from Europe :/](http://9gag.com/gag/ajggEpG)
+ - 🚯 [Help him](http://9gag.com/gag/axBB1wW)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
