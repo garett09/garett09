@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S22 phones push Google Messages and the good news of RCS](https://www.theverge.com/2022/2/14/22933170/samsung-galaxy-s22-google-messages-default-rcs)
- - [The best Valentine’s Day sales happening now](https://www.theverge.com/good-deals/22932886/best-valentines-day-sales-2022-tech-deals-headphones-earbuds-games)
- - [Microsoft will fully reopen its headquarters at the end of February](https://www.theverge.com/2022/2/14/22933452/microsoft-fully-reopen-washington-state-offices-february)<!-- TECH:END -->
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [The Cuphead Show is half-full of lukewarm nostalgia plays](https://www.theverge.com/2022/2/14/22933027/the-cuphead-show-review-netflix)
+ - [Texas sues Meta over Facebook&#39;s past facial recognition practices](https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
