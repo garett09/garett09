@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase’s bouncing QR code Super Bowl ad was so popular it crashed the app](https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash)
- - [Newly unsealed court documents show IBM executives disparaged older employees as &quot;dinobabies&quot; and discussed phasing them out to make room for millennials &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/220213/p6#a220213p6)
- - [Doctor Strange in the Multiverse of Madness’ new trailer is even more chaotic than the last](https://www.theverge.com/2022/2/13/22929388/multiverse-of-madness-superbowl-trailer)<!-- TECH:END -->
+ - [The first trailer for The Lord of the Rings: The Rings of Power debuts at the Super Bowl](https://www.theverge.com/2022/2/13/22923339/lord-of-the-rings-trailer-super-bowl-amazon)
+ - [Polestar fires shots at Tesla and Volkswagen, promises ‘no compromises’ in Super Bowl ad](https://www.theverge.com/2022/2/13/22932414/polestar-super-bowl-ad-commercial-no-compromises-tesla-volkswagen)
+ - [Coinbase’s bouncing QR code Super Bowl ad was so popular it crashed the app](https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
