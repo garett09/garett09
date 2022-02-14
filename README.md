@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [The Cuphead Show is half-full of lukewarm nostalgia plays](https://www.theverge.com/2022/2/14/22933027/the-cuphead-show-review-netflix)
- - [Texas sues Meta over Facebook&#39;s past facial recognition practices](https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung has adopted Google Messages as its default messaging app in the US, starting with the Galaxy S22 series &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220214/p22#a220214p22)
+ - [Funding site linked to Canadian trucker protest hacked, donor info leaked online](https://www.theverge.com/2022/2/14/22933772/givesendgo-funding-freedom-convoy-hacked-donor-leaked)
+ - [Verizon’s experiencing a state-wide outage in Georgia](https://www.theverge.com/2022/2/14/22933802/georgia-verizon-wireless-down-network-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
