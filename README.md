@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Anti-Neymar](http://9gag.com/gag/agggX56)
- - 🚯 [Me at work\u2026](http://9gag.com/gag/azee9KZ)
+ - 🚖 [Mah ppl &lt;3](http://9gag.com/gag/agggXZW)
+ - 🚯 [At work on monday after watching Superbowl live from Europe :/](http://9gag.com/gag/ajggEpG)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
