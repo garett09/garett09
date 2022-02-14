@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me at work\u2026](http://9gag.com/gag/azee9KZ)
- - 🚯 [When that new guy screw everything up and you have to save his But](http://9gag.com/gag/aWggEQd)
- - 🚯 [Haptic controllers have nothing on this](http://9gag.com/gag/aAGG3oL)<!-- MEMES:END -->
+ - 🚖 [Did you know this banned episode?](http://9gag.com/gag/aQXX1yK)
+ - 🚯 [A can of cake from a vending machine in Japan](http://9gag.com/gag/a711wp2)
+ - 🚯 [Women of Europe](http://9gag.com/gag/a111QMb)<!-- MEMES:END -->
 
 --- 
 
