@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s Convinced The NYT Made Wordle Harder, But It&#39;s Exactly The Same](https://kotaku.com/wordle-nyt-new-york-times-solution-solver-harder-change-1848533838)
- - [Doctor Strange 2’s multiverse council sparks Illuminati theories and Tom Cruise dreams](https://www.polygon.com/22932992/doctor-strange-multiverse-of-madness-charles-xavier-tom-cruise-iron-man-illuminati)
- - [Uncharted crossover brings Nathan Drake to Fortnite](https://www.polygon.com/22933241/uncharted-fortnite-crossover-release-date-nathan-drake-outfit)<!-- GAME:END -->
+ - [Dr. Lisa Su assumes her final form as ultimate head of AMD](https://www.pcgamer.com/dr-lisa-su-assumes-her-final-form-as-ultimate-head-of-amd)
+ - [God of War PC Mod Makes Atreus Playable, Kinda](https://kotaku.com/god-of-war-pc-mod-playable-son-atreus-kratos-speclizer-1848534505)
+ - [Good News, Horizon Forbidden West Plays Fine And Still Looks Beautiful On Base PS4](https://kotaku.com/horizon-forbidden-west-ps5-ps4-graphics-comparison-revi-1848534392)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
