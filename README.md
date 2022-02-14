@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews and documents reveal traumatic working conditions at a Facebook content moderation facility in Nigeria, run by Sama, with pay as low as $1.50/hour &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/220214/p12#a220214p12)
- - [Snapchat will put ads within stories and share the money with creators](https://www.theverge.com/2022/2/14/22927656/snapchat-snap-stars-stories-ads)
- - [Apple threatens to pull out of Toronto shopping project](https://appleinsider.com/articles/22/02/14/apple-threatens-to-pull-out-of-toronto-shopping-project?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy S22 phones are the safe bet](https://www.theverge.com/2022/2/14/22929641/samsungs-galaxy-s22-plus-video-preview)
+ - [Opera browser now allows emoji-only web addresses](https://www.theverge.com/2022/2/14/22932918/opera-browser-emoji-only-web-addresses-urls-yat)
+ - [How to download files and folders from Google Drive](https://www.androidauthority.com/download-from-google-drive-3107432/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
