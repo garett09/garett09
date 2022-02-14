@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Banked, which lets merchants accept payments without users creating an account or sharing data, raises $20M Series A led by BOA and Edenred &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220214/p8#a220214p8)
- - [How to use iCloud Keychain, Apple&#39;s built-in and free password manager](https://appleinsider.com/articles/21/12/29/how-to-use-icloud-keychain-apples-built-in-and-free-password-manager?utm_medium=rss)
- - [How to Buy and Sell NFTs &lpar;If You Must&rpar;](https://www.wired.com/story/how-to-buy-sell-nfts)<!-- TECH:END -->
+ - [Interviews and documents reveal traumatic working conditions at a Facebook content moderation facility in Nigeria, run by Sama, with pay as low as $1.50/hour &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/220214/p12#a220214p12)
+ - [Snapchat will put ads within stories and share the money with creators](https://www.theverge.com/2022/2/14/22927656/snapchat-snap-stars-stories-ads)
+ - [Apple threatens to pull out of Toronto shopping project](https://appleinsider.com/articles/22/02/14/apple-threatens-to-pull-out-of-toronto-shopping-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
