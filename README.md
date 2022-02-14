@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gory mystery thriller Martha is Dead will be censored on PlayStation, devs say](https://www.polygon.com/22933016/martha-is-dead-censored-ps4-ps5-version-violence)
- - [Kotaku’s 3-Episode Anime Test: My Dress Up Darling](https://kotaku.com/my-dress-up-darling-anime-cloverworks-funimation-crunch-1848517872)
- - [Ben Affleck, Ana de Armas’ too-hot-for-theaters thriller Deep Water gets trailer, Hulu release date](https://www.polygon.com/22933038/deep-water-trailer-teaser-release-ben-affleck-ana-de-armas-erotic-thriller)<!-- GAME:END -->
+ - [Live, Love, Slay. Infernax is Coming Your Way This Valentine’s Day](https://news.xbox.com/en-us/2022/02/14/live-love-slay-infernax-is-coming-your-way-this-valentines-day/)
+ - [Apex Legends&#39; fantastic new Control mode has one killer problem](https://www.pcgamer.com/apex-legends-fantastic-new-control-mode-has-one-killer-problem)
+ - [New Bridgerton teaser reminds us that Lady Whistledown sees all](https://www.polygon.com/22933138/bridgerton-season-2-teaser-lady-whistledown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
