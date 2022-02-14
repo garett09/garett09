@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevationLab GoStand review: As small as a stand gets](https://appleinsider.com/articles/22/02/13/elevationlab-gostand-review-as-small-as-a-stand-gets?utm_medium=rss)
- - [Google made a smart lamp that you’ll probably never be able to buy](https://www.theverge.com/2022/2/13/22932202/google-smart-lamp-d-light)
- - [Cook&#39;s China comments lawsuit gains class-action status](https://appleinsider.com/articles/22/02/13/cooks-china-comments-lawsuit-gains-class-action-status?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase’s bouncing QR code Super Bowl ad was so popular it crashed the app](https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash)
+ - [Newly unsealed court documents show IBM executives disparaged older employees as &quot;dinobabies&quot; and discussed phasing them out to make room for millennials &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/220213/p6#a220213p6)
+ - [Doctor Strange in the Multiverse of Madness’ new trailer is even more chaotic than the last](https://www.theverge.com/2022/2/13/22929388/multiverse-of-madness-superbowl-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
