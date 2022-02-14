@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality.](http://9gag.com/gag/abggre8)
- - 🚯 [F*** Valentines Day](http://9gag.com/gag/a211RNY)
- - 🚯 [J.J.R Tolkien in his grave right now.](http://9gag.com/gag/aogg5b2)<!-- MEMES:END -->
+ - 🚖 [\u201cEvil cannot create anything new, they can only corrupt\u201d - J.R.R. Tolkien](http://9gag.com/gag/aeggDrv)
+ - 🚯 [J.J.R Tolkien in his grave right now.](http://9gag.com/gag/aogg5b2)
+ - 🚯 [Southern accent](http://9gag.com/gag/a4113rZ)<!-- MEMES:END -->
 
 --- 
 
