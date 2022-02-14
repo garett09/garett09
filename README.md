@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When that new guy screw everything up and you have to save his But](http://9gag.com/gag/aWggEQd)
- - 🚯 [Haptic controllers have nothing on this](http://9gag.com/gag/aAGG3oL)
- - 🚯 [Da f**k](http://9gag.com/gag/aM44Z8A)<!-- MEMES:END -->
+ - 🚖 [Me at work\u2026](http://9gag.com/gag/azee9KZ)
+ - 🚯 [When that new guy screw everything up and you have to save his But](http://9gag.com/gag/aWggEQd)
+ - 🚯 [Haptic controllers have nothing on this](http://9gag.com/gag/aAGG3oL)<!-- MEMES:END -->
 
 --- 
 
