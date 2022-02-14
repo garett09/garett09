@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shaq just doesn&#39;t stop giving](http://9gag.com/gag/aQXXX1r)
- - 🚯 [Just a fedback to the superbowl and all other sport events, just look at all the shit going in the world right now but we keep praising selfish and evil celebrities like they bringing bread to your table everyday.](http://9gag.com/gag/a311wg3)
- - 🚯 [My thoughts too](http://9gag.com/gag/a0ZZ7Mn)<!-- MEMES:END -->
+ - 🚖 [As to the culling of the Second age...](http://9gag.com/gag/angggyo)
+ - 🚯 [James Bond for 2023?](http://9gag.com/gag/a0ZZNqd)
+ - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)<!-- MEMES:END -->
 
 --- 
 
