@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: What&#39;s On The Horizon?](https://kotaku.com/the-week-in-games-whats-on-the-horizon-1848530990)
- - [Amazon is working on a Blade Runner TV series with Ridley Scott producing](https://www.pcgamer.com/amazon-is-working-on-a-blade-runner-tv-series-with-ridley-scott-producing)
- - [Dying Light 2&#39;s first free DLC is Peacekeeper-themed](https://www.pcgamer.com/dying-light-2s-first-free-dlc-is-peacekeeper-themed)<!-- GAME:END -->
+ - [Moon Knight shows Oscar Isaac losing his mind in new Super Bowl trailer](https://www.polygon.com/22924191/moon-knight-trailer-super-bowl-release-disney-plus-date-cast)
+ - [Everyone thinks the new Doctor Strange trailer’s disembodied voice is X-Men’s Patrick Stewart](https://www.polygon.com/22932372/doctor-strange-2-voice-x-men-patrick-stewart-multiverse-of-madness-trailer)
+ - [Doctor Strange is in the Multiverse of Madness in new Super Bowl trailer](https://www.polygon.com/22924190/doctor-strange-trailer-super-bowl-multiverse-of-madness-release-date-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
