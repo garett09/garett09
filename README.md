@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S22 phones are the safe bet](https://www.theverge.com/2022/2/14/22929641/samsungs-galaxy-s22-plus-video-preview)
- - [Opera browser now allows emoji-only web addresses](https://www.theverge.com/2022/2/14/22932918/opera-browser-emoji-only-web-addresses-urls-yat)
- - [How to download files and folders from Google Drive](https://www.androidauthority.com/download-from-google-drive-3107432/)<!-- TECH:END -->
+ - [Peloton’s new CEO says a sale isn’t in the cards](https://www.theverge.com/2022/2/14/22932948/peloton-mccarthy-new-ceo-sale-connected-fitness)
+ - [How to change your country or region in the Google Play store](https://www.androidauthority.com/change-country-google-play-store-3107289/)
+ - [&#39;Wordle&#39; clone tops App Store free games chart, again](https://appleinsider.com/articles/22/02/14/wordle-clone-tops-app-store-free-games-chart-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
