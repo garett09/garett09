@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone has to do it](http://9gag.com/gag/adggKXN)
- - 🚯 [High school in the 80s](http://9gag.com/gag/a911A2K)
+ - 🚖 [Irony](http://9gag.com/gag/aQXXe78)
+ - 🚯 [Mah ppl &lt;3](http://9gag.com/gag/agggXZW)
  - 🚯 [Who else got goosebumps watching this?](http://9gag.com/gag/aBnn1p2)<!-- MEMES:END -->
 
 --- 
