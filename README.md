@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple threatens to pull out of Toronto shopping project](https://appleinsider.com/articles/22/02/14/apple-threatens-to-pull-out-of-toronto-shopping-project?utm_medium=rss)
- - [Three new Macs revealed in EEC regulatory filings](https://appleinsider.com/articles/22/02/14/new-macsthree-new-macs-revealed-in-eec-regulatory-filings?utm_medium=rss)
- - [Apple&#39;s iPhone 13 is significantly faster than Samsung&#39;s latest Galaxy S22](https://appleinsider.com/articles/22/02/11/apples-iphone-13-is-significantly-faster-than-samsungs-latest-galaxy-s22?utm_medium=rss)<!-- TECH:END -->
+ - [London-based Papier, which sells personalized paper-based stationery online, raises a $50M Series C led by Singular, bringing its total raised to $65M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220214/p4#a220214p4)
+ - [Nvidia’s RTX 3090 Ti is still missing, and the company refuses to say what’s going on](https://www.theverge.com/2022/2/14/22932832/nvidia-rtx-3090-ti-delay-issues)
+ - [Sewage Sampling Already Tracks Covid. What Else Can It Find?](https://www.wired.com/story/sewage-sampling-already-tracks-covid-what-else-can-it-find)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
