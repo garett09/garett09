@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not sorry November babies](http://9gag.com/gag/aGzzgLz)
- - 🚯 [It&#39;s like a completely seamless jump in time, a `blank` if you will, during which my body freezes, but afterwards I don&#39;t even know it happened. It explains a lot of things, actually. These `blanks` are getting longer each time, and I fear one of these days I might not come back](http://9gag.com/gag/aNPPgeA)
- - 🚯 [Equality.](http://9gag.com/gag/abggre8)<!-- MEMES:END -->
+ - 🚖 [Equality.](http://9gag.com/gag/abggre8)
+ - 🚯 [F*** Valentines Day](http://9gag.com/gag/a211RNY)
+ - 🚯 [J.J.R Tolkien in his grave right now.](http://9gag.com/gag/aogg5b2)<!-- MEMES:END -->
 
 --- 
 
