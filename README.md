@@ -180,8 +180,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Genshin Impact&#39;s miHoYo Rebrands For Global Audiences](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-brand-honkai-impact-3rd-1848532266)
- - [Master &amp; Dynamic MG20 Wireless Gaming Headset Review](https://www.pcgamer.com/master-and-dynamic-mg20-wireless-gaming-headset-review)
- - [Hideaki Anno Is Creating His Version Of The Marvel Universe But With Kaiju, Heroes, and Robots](https://kotaku.com/godzilla-evangelion-hideaki-anno-kamen-rider-ultraman-k-1848532204)<!-- GAME:END -->
+ - [Devious malware hosted on Discord pretends to be Windows 11 installer](https://www.pcgamer.com/devious-malware-hosted-on-discord-pretends-to-be-windows-11-installer)
+ - [Vampire Survivors is a screen-clearing thrillride with carpet-bombing doves](https://www.pcgamer.com/vampire-survivors-is-a-screen-clearing-thrillride-with-carpet-bombing-doves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
