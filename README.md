@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Support app updated with pricing estimates, new text entry option](https://appleinsider.com/articles/22/02/14/apple-support-app-updated-with-pricing-estimates-new-text-entry-option?utm_medium=rss)
- - [Apple releases macOS Big Sur 11.6.4, macOS Catalina Security Update](https://appleinsider.com/articles/22/02/14/apple-releases-macos-big-sur-1164-macos-catalina-security-update?utm_medium=rss)
- - [Apple Silicon iMac Pro with mini LED display could launch in June, analyst says](https://appleinsider.com/articles/22/02/14/apple-silicon-imac-pro-with-mini-led-display-could-launch-in-june-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [BlockFi will pay $100 million in a settlement with SEC and states over its interest accounts](https://www.theverge.com/2022/2/14/22933245/sec-blockfi-settlement-interest-account-yield-filing-register-crypto)
+ - [Pick up the Galaxy Buds Plus for just $79, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Best Picture nominee Drive My Car hits HBO Max this March to emotionally ruin you](https://www.theverge.com/22933251/drive-my-car-hbo-max-streaming-oscar-nominees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
