@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cEvil cannot create anything new, they can only corrupt\u201d - J.R.R. Tolkien](http://9gag.com/gag/aeggDrv)
- - 🚯 [J.J.R Tolkien in his grave right now.](http://9gag.com/gag/aogg5b2)
- - 🚯 [Southern accent](http://9gag.com/gag/a4113rZ)<!-- MEMES:END -->
+ - 🚖 [Russian rocket Proton crash](http://9gag.com/gag/aNPP09A)
+ - 🚯 [Just a fedback to the superbowl and all other sport events, just look at all the shit going in the world right now but we keep praising selfish and evil celebrities like they bringing bread to your table everyday.](http://9gag.com/gag/a311wg3)
+ - 🚯 [It&#39;s like a completely seamless jump in time, a `blank` if you will, during which my body freezes, but afterwards I don&#39;t even know it happened. It explains a lot of things, actually. These `blanks` are getting longer each time, and I fear one of these days I might not come back](http://9gag.com/gag/aNPPgeA)<!-- MEMES:END -->
 
 --- 
 
