@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Find “Treat Codes” for an opportunity to enter and win a PS5](https://blog.playstation.com/2022/02/15/find-treat-codes-for-an-opportunity-to-enter-and-win-a-ps5/)
- - [Find “Treat Codes” for an opportunity to enter and win a PS5](https://blog.playstation.com/2022/02/15/find-treat-codes-for-an-opportunity-to-enter-and-win-a-ps5/)
- - [Get More Madden NFL 22 with EA Play, Coming to The Play List on February 17](https://news.xbox.com/en-us/2022/02/15/get-more-madden-nfl-22-with-ea-play-coming-to-the-play-list-on-february-17/)<!-- GAME:END -->
+ - [Tame the Red Tigers in World of Tanks’ New Season](https://news.xbox.com/en-us/2022/02/15/tame-the-red-tigers-in-world-of-tanks-new-season/)
+ - [Valve is partnering with iFixit to sell Steam Deck replacement parts](https://www.pcgamer.com/valve-is-partnering-with-ifixit-to-sell-steam-deck-replacement-parts)
+ - [Cyberpunk 2077 Is Buffing Its Romances](https://kotaku.com/cyberpunk-2077-romance-sex-patch-1-5-ps5-xbox-series-x-1848541800)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
