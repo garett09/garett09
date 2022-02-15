@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgium approves four-day week and gives employees the right to ignore their bosses after work](http://9gag.com/gag/aKmm9Vj)
- - 🚯 [All are the same](http://9gag.com/gag/aQXXvx8)
- - 🚯 [Since I was a kid, I had those flying dreams. It always felt so real. So amazing. Kind of like this video.](http://9gag.com/gag/aNPP9Q0)<!-- MEMES:END -->
+ - 🚖 [German super bowl](http://9gag.com/gag/apggDg8)
+ - 🚯 [Since I was a kid, I had those flying dreams. It always felt so real. So amazing. Kind of like this video.](http://9gag.com/gag/aNPP9Q0)
+ - 🚯 [The memories of grampa](http://9gag.com/gag/aXrrMGv)<!-- MEMES:END -->
 
 --- 
 
