@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesian digital banking startup Akulaku raises $100M from Siam Commercial Bank; sources say it is weighing a US listing via a SPAC at a $2B valuation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220215/p3#a220215p3)
- - [Marantz Unveils Stylish Streaming Amp, the Model 40n     - CNET](https://www.cnet.com/tech/home-entertainment/marantz-unveils-stylish-streaming-amp-the-model-40n/#ftag=CAD590a51e)
- - [iPhone 14 Rumors: Release Date, Price and Will It be Notchless?     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A key EU lawmaker steering negotiations over the Digital Services Act says she is &quot;optimistic we can make a deal before the end of June&quot; &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220215/p8#a220215p8)
+ - [Instagram will let users send a private like in response to a Story, expanding on DMs or emoji reactions &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/220215/p7#a220215p7)
+ - [Finland-based Swappie, which refurbishes and resells used iPhones through its marketplace, raises a &amp;euro;108M Series C, bringing its total funding to &amp;euro;149M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220215/p6#a220215p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
