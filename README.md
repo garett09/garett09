@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Black-owned Beauty Brands You Can Shop During Black History Month and Beyond     - CNET](https://www.cnet.com/health/personal-care/25-black-owned-beauty-brands-you-can-shop-during-black-history-month-and-beyond/#ftag=CAD590a51e)
- - [LinkedIn profiles show TikTok has hired over 190 European content moderators from Accenture and others since January 2021, as its European business explodes &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220215/p10#a220215p10)
- - [After India banned Sea&#39;s lucrative Free Fire game, the Singapore-based company lost $16B+ in market value, its largest-ever daily drop &lpar;Bloomberg&rpar;](http://www.techmeme.com/220215/p9#a220215p9)<!-- TECH:END -->
+ - [Apple&#39;s iPhone dominated U.S. smartphone market in 2021](https://appleinsider.com/articles/22/02/15/apples-iphone-dominated-us-smartphone-market-in-2021?utm_medium=rss)
+ - [Daily Authority: 📱 Pixel app streaming to PC, Mac, Chromebook](https://www.androidauthority.com/da-february-15-2022-3109044/)
+ - [Apple&#39;s iPhone 6 Plus &amp; fourth-generation iPad are now officially &#39;vintage&#39;](https://appleinsider.com/articles/22/02/15/apples-iphone-6-plus-fourth-generation-ipad-are-now-officially-vintage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
