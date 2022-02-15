@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza Creator Toshihiro Nagoshi Won&#39;t Be Making Smartphone Games](https://kotaku.com/yakuza-studio-toshihiro-nagoshi-beat-takeshi-sega-netea-1848538573)
- - [Fake Nintendo Insider Fooled Thousands With Phony Predictions](https://kotaku.com/nintendo-direct-fake-scam-phony-hoax-internet-insider-i-1848538513)
- - [We need to talk about Lost Ark&#39;s massive clown battle](https://www.pcgamer.com/we-need-to-talk-about-lost-arks-massive-clown-battle)<!-- GAME:END -->
+ - [The LEGO Group brings the iconic Horizon Forbidden West Tallneck machine to &lpar;brick-&rpar;life](https://blog.playstation.com/2022/02/15/the-lego-group-brings-the-iconic-horizon-forbidden-west-tallneck-machine-to-brick-life/)
+ - [The LEGO Group brings the iconic Horizon Forbidden West Tallneck machine to &lpar;brick-&rpar;life](https://blog.playstation.com/2022/02/15/the-lego-group-brings-the-iconic-horizon-forbidden-west-tallneck-machine-to-brick-life/)
+ - [Newegg apologises for well-documented customer service fail, says it has enacted better policies](https://www.pcgamer.com/newegg-apologises-for-well-documented-customer-service-fail-says-it-has-enacted-better-policies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
