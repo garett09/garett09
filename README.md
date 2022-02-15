@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is happiness?](http://9gag.com/gag/arnnm6d)
- - 🚯 [World is evolving, just backwards](http://9gag.com/gag/aegg9Lb)
+ - 🚖 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)
+ - 🚯 [Stop giving Amazon attention and start watching other series that worth your time and money](http://9gag.com/gag/avAAQmX)
  - 🚯 [Meth Zombie](http://9gag.com/gag/a511QXr)<!-- MEMES:END -->
 
 --- 
