@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is said to shift the balance of power in Europe significantly](http://9gag.com/gag/amggWQ9)
- - 🚯 [Mom can we have Rammstein. We have Rammstein at home. Rammstein at home. Yet those kids rock.](http://9gag.com/gag/aVxxoLO)
+ - 🚖 [Bentley, break-check, bat](http://9gag.com/gag/ay994Db)
+ - 🚯 [I want to know what the doc gave her?](http://9gag.com/gag/aYrrEDx)
  - 🚯 [Belgium approves four-day week and gives employees the right to ignore their bosses after work](http://9gag.com/gag/aKmm9Vj)<!-- MEMES:END -->
 
 --- 
