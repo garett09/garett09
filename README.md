@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third betas of iOS 15.4, iPadOS 15.4 &amp; more to developers](https://appleinsider.com/articles/22/02/15/apple-seeds-third-betas-of-ios-154-ipados-154-to-developers?utm_medium=rss)
- - [Meta’s Facebook to pay $90 million to settle decade-old privacy lawsuit](https://www.theverge.com/2022/2/15/22935147/meta-facebook-privacy-like-tracking-data-settlement)
- - [Money transfer service MoneyGram agrees to be acquired by PE firm Madison Dearborn for $1.8B; MoneyGram has $800M in debt and over 150M customers &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/220215/p21#a220215p21)<!-- TECH:END -->
+ - [OpenSea launches verified customer support to fight Discord scammers](https://www.theverge.com/2022/2/15/22935143/opensea-nft-metalink-launch-verified-dm-scammers-discord)
+ - [Facebook rebrands News Feed to just Feed after more than 15 years &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220215/p23#a220215p23)
+ - [Facebook rebrands News Feed after more than 15 years](https://www.theverge.com/2022/2/15/22935080/facebook-meta-news-feed-renaming-branding-political-content-misinformation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
