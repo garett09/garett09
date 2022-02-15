@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Phase 4: Watch the Movies and TV Series in the Perfect Order     - CNET](https://www.cnet.com/news/marvel-phase-4-watch-the-movies-and-tv-series-in-the-perfect-order/#ftag=CAD590a51e)
- - [After OnePlus, Oppo’s Find X phones will now get the Hasselblad treatment](https://www.androidauthority.com/oppo-hasselblad-partnership-3108782/)
- - [Texas-based Securonix, which offers cloud-based threat detection and response services, raises more than $1B in a round led by Vista Equity Partners &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220214/p28#a220214p28)<!-- TECH:END -->
+ - [Godzilla and Evangelion are forming a new Japanese cinematic universe](https://www.theverge.com/2022/2/15/22934422/shin-japan-heroes-universe-godzilla-ultraman-kamen-rider-evangelion)
+ - [Motorola and Verizon made a chonky 5G neckband. Here’s what it does.](https://www.androidauthority.com/motorola-verizon-5g-neckband-3108829/)
+ - [Marvel Phase 4: Watch the Movies and TV Series in the Perfect Order     - CNET](https://www.cnet.com/news/marvel-phase-4-watch-the-movies-and-tv-series-in-the-perfect-order/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
