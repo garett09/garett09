@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Lag](http://9gag.com/gag/a811A1O)
- - 🚯 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)
- - 🚯 [The multiverse we want to see](http://9gag.com/gag/a111m7D)<!-- MEMES:END -->
+ - 🚯 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)
+ - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)<!-- MEMES:END -->
 
 --- 
 
