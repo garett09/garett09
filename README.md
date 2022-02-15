@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trudeau Declares National Emergency Over Canadian Trucker Protests of COVID Vaccines     - CNET](https://www.cnet.com/news/trudeau-declares-national-emergency-over-canadian-trucker-protests-of-covid-vaccines/#ftag=CAD590a51e)
- - [Google rolls out Docs updates, including a pageless format announced in May 2021, AI-powered summaries, and Maps embedded previews &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220215/p25#a220215p25)
- - [Disney has appointed a leader for its metaverse strategy](https://www.theverge.com/2022/2/15/22935445/disney-metaverse-strategy-plans-mike-white-memo)<!-- TECH:END -->
+ - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license is back for $49.99 &lpar;85% off&rpar; while supplies last](https://appleinsider.com/articles/22/02/15/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-for-4999-85-off-while-supplies-last?utm_medium=rss)
+ - [New federal guidelines could boost carbon capture in the US](https://www.theverge.com/2022/2/15/22933710/biden-administration-guidelines-carbon-capture-pipelines)
+ - [How to set up and use email templates in Gmail](https://www.theverge.com/21318890/gmail-template-compose-write-messages-automatic-reply-email-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
