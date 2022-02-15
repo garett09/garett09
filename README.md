@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Since I was a kid, I had those flying dreams. It always felt so real. So amazing. Kind of like this video.](http://9gag.com/gag/aNPP9Q0)
- - 🚯 [The memories of grampa](http://9gag.com/gag/aXrrMGv)
- - 🚯 [German super bowl](http://9gag.com/gag/apggDg8)<!-- MEMES:END -->
+ - 🚖 [Unclogging a drainage pipe](http://9gag.com/gag/a9115eo)
+ - 🚯 [Bentley, break-check, bat](http://9gag.com/gag/ay994Db)
+ - 🚯 [Mega chad detected](http://9gag.com/gag/a411NXA)<!-- MEMES:END -->
 
 --- 
 
