@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of the Rings anime slated for April 2024 release — here’s the first look](https://www.polygon.com/22933827/lord-of-the-rings-anime-first-look-release-date)
- - [These T-Rex keycaps look like they would bite off a finger](https://www.pcgamer.com/these-t-rex-keycaps-look-like-they-would-bite-off-a-finger)
- - [Total War: Warhammer III: The Kotaku Review](https://kotaku.com/total-war-warhammer-iii-3-review-pc-kotaku-creative-ass-1848519660)<!-- GAME:END -->
+ - [Star Trek: Bridge Crew has been suddenly delisted](https://www.pcgamer.com/star-trek-bridge-crew-has-been-suddenly-delisted)
+ - [How to get into romance books — and why you should](https://www.polygon.com/22933941/how-to-get-into-romance-books)
+ - [Mods Accused of Bitcoin Mining, Viruses Removed From Steam](https://kotaku.com/cities-skylines-mods-mod-bitcoin-virus-steam-pc-trojan-1848536798)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
