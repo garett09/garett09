@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm looking past Wi-Fi 6E to Wi-Fi 7 for higher throughput and lower latency](https://www.pcgamer.com/qualcomm-looking-past-wi-fi-6e-to-wi-fi-7-for-higher-throughput-and-lower-latency)
- - [Nvidia is giving away RTX ON keycaps, sadly not actual GPUs](https://www.pcgamer.com/nvidia-is-giving-away-rtx-on-keycaps-sadly-not-actual-gpus)
- - [Alienware&#39;s 34 inch QD-OLED gaming monitor is set to cost an entirely reasonable $1,299](https://www.pcgamer.com/alienwares-34-inch-qd-oled-gaming-monitor-is-set-to-cost-an-entirely-reasonable-dollar1299)<!-- GAME:END -->
+ - [Yakuza Creator Toshihiro Nagoshi Won&#39;t Be Making Smartphone Games](https://kotaku.com/yakuza-studio-toshihiro-nagoshi-beat-takeshi-sega-netea-1848538573)
+ - [Fake Nintendo Insider Fooled Thousands With Phony Predictions](https://kotaku.com/nintendo-direct-fake-scam-phony-hoax-internet-insider-i-1848538513)
+ - [We need to talk about Lost Ark&#39;s massive clown battle](https://www.pcgamer.com/we-need-to-talk-about-lost-arks-massive-clown-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
