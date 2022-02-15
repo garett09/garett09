@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [As to the culling of the Second age...](http://9gag.com/gag/angggyo)
- - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)
- - 🚯 [Shaq just doesn&#39;t stop giving](http://9gag.com/gag/aQXXX1r)<!-- MEMES:END -->
+ - 🚯 [Once again](http://9gag.com/gag/aBnn2YP)
+ - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)<!-- MEMES:END -->
 
 --- 
 
