@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to check your word count in Google Docs](https://www.androidauthority.com/word-count-google-docs-3105706/)
- - [Save Hundreds on Major Appliances During Best Buy&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/home/kitchen-and-household/save-hundreds-on-major-appliances-during-best-buys-presidents-day-sale/#ftag=CAD590a51e)
- - [The Best Theragun &lpar;and Other Great Massage Guns&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices)<!-- TECH:END -->
+ - [Apple TV+ thriller &#39;Severance&#39; born from creator&#39;s &#39;corporate misery&#39;](https://appleinsider.com/articles/22/02/15/apple-tv-thriller-severance-born-from-creators-corporate-misery?utm_medium=rss)
+ - [Cyberpunk 2077’s next-gen update now available for PS5 and Xbox Series X / S](https://www.theverge.com/2022/2/15/22933552/cyberpunk-2077-next-gen-update-patch-ps5-xbox-series-x)
+ - [Poll: Is location tracking enabled on your phone?](https://www.androidauthority.com/location-tracking-phone-poll-3108919/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
