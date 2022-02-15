@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As to the culling of the Second age...](http://9gag.com/gag/angggyo)
- - 🚯 [Once again](http://9gag.com/gag/aBnn2YP)
+ - 🚖 [What is the point of a bard in any game](http://9gag.com/gag/adgggm2)
+ - 🚯 [Stop giving Amazon attention and start watching other series that worth your time and money](http://9gag.com/gag/avAAQmX)
  - 🚯 [Why im geh?](http://9gag.com/gag/a8111qd)<!-- MEMES:END -->
 
 --- 
