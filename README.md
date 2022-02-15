@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [San Diego Studio is bringing simultaneous online co-op play to MLB The Show 22](https://blog.playstation.com/2022/02/15/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
- - [San Diego Studio is bringing simultaneous online co-op play to MLB The Show 22](https://blog.playstation.com/2022/02/15/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
- - [Aerial_Knight’s Never Yield “Da Update” Available Today](https://news.xbox.com/en-us/2022/02/15/aerial_knights-never-yield-da-update-available-today/)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s Return To Consoles Is Practically A Checklist Of What Everyone Mocked](https://kotaku.com/cyberpunk-2077-ps5-xbox-series-x-version-release-date-1848537538)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
+ - [Mastering the mind games of The King of Fighters XV, out February 17](https://blog.playstation.com/2022/02/15/mastering-the-mind-games-of-the-king-of-fighters-xv-out-february-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
