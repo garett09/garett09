@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm looking past Wi-Fi 6E to Wi-Fi 7 for higher throughput and lower latency](https://www.pcgamer.com/qualcomm-looking-past-wi-fi-6e-to-wi-fi-7-for-higher-throughput-and-lower-latency)
- - [Nvidia is giving away RTX ON keycaps, sadly not actual GPUs](https://www.pcgamer.com/nvidia-is-giving-away-rtx-on-keycaps-sadly-not-actual-gpus)
- - [Alienware&#39;s 34 inch QD-OLED gaming monitor is set to cost an entirely reasonable $1,299](https://www.pcgamer.com/alienwares-34-inch-qd-oled-gaming-monitor-is-set-to-cost-an-entirely-reasonable-dollar1299)<!-- GAME:END -->
+ - [Alienware&#39;s 34 inch QD-OLED gaming monitor is set to cost an entirely reasonable $1,299](https://www.pcgamer.com/alienwares-34-inch-qd-oled-gaming-monitor-is-set-to-cost-an-entirely-reasonable-dollar1299)
+ - [Stomp Stomp Stomp](https://kotaku.com/star-wars-concept-art-last-jedi-force-awakens-kevin-jen-1848537257)
+ - [Star Trek: Bridge Crew has been suddenly delisted](https://www.pcgamer.com/star-trek-bridge-crew-has-been-suddenly-delisted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
