@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge orders the release of alleged Bitcoin launderer Razzlekhan on bail](https://www.theverge.com/2022/2/14/22933904/razzlekhan-heather-morgan-bail-hearing-dc-bitcoin-bitfinex)
- - [Singapore-based Reebelo, an online marketplace for refurbished smartphones and other devices, raises a $20M Series A led by Cathay Innovation and June Fund &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220214/p26#a220214p26)
- - [Casper Original Mattress Review: A Neutral Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Databook, which offers AI-powered sales insights and tools for sales reps, raises a $50M Series B led by Bessemer Venture Partners at a $550M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220214/p27#a220214p27)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Best Rowing Machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
