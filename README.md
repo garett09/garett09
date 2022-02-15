@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: Total War: Warhammer III, Madden NFL 22, and More](https://news.xbox.com/en-us/2022/02/15/xbox-game-pass-mid-february-update-2022/)
- - [New Dune: Spice Wars gameplay shows isometric, open world full of fighting](https://www.polygon.com/22933801/dune-spice-wars-arrakis-gameplay-trailer)
- - [Horizon Forbidden West is getting its own Lego set](https://www.polygon.com/22934629/horizon-forbidden-west-lego-tallneck)<!-- GAME:END -->
+ - [San Diego Studio is bringing simultaneous online co-op play to MLB The Show 22](https://blog.playstation.com/2022/02/15/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
+ - [San Diego Studio is bringing simultaneous online co-op play to MLB The Show 22](https://blog.playstation.com/2022/02/15/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
+ - [Aerial_Knight’s Never Yield “Da Update” Available Today](https://news.xbox.com/en-us/2022/02/15/aerial_knights-never-yield-da-update-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
