@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s Return To Consoles Is Practically A Checklist Of What Everyone Mocked](https://kotaku.com/cyberpunk-2077-ps5-xbox-series-x-version-release-date-1848537538)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
- - [Mastering the mind games of The King of Fighters XV, out February 17](https://blog.playstation.com/2022/02/15/mastering-the-mind-games-of-the-king-of-fighters-xv-out-february-17/)<!-- GAME:END -->
+ - [Cyberpunk 2077 Next-Gen Update Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/02/15/cyberpunk-2077-next-gen-update-now-available-for-xbox-series-xs/)
+ - [MLB The Show 22 brings co-op to online multiplayer for the first time](https://www.polygon.com/22934922/mlb-the-show-22-online-co-op-technical-test-dates)
+ - [The real-life destruction haunting Demon Slayer’s Entertainment District Arc](https://www.polygon.com/22933948/demon-slayer-entertainment-district-arc-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
