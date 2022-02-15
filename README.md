@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)
- - 🚯 [Margot Robbie without makeup](http://9gag.com/gag/aGzzy85)
- - 🚯 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)<!-- MEMES:END -->
+ - 🚖 [Lag](http://9gag.com/gag/a811A1O)
+ - 🚯 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)
+ - 🚯 [The multiverse we want to see](http://9gag.com/gag/a111m7D)<!-- MEMES:END -->
 
 --- 
 
