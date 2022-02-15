@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lag](http://9gag.com/gag/a811A1O)
- - 🚯 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)
- - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)<!-- MEMES:END -->
+ - 🚖 [Even cyclists don&#39;t mess with moose](http://9gag.com/gag/arnnWA7)
+ - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)
+ - 🚯 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)<!-- MEMES:END -->
 
 --- 
 
