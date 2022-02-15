@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan artists have gotten sucked in by Kirby’s Mouthful Mode](https://www.polygon.com/22935014/kirby-mouthful-mode-fan-art-carby-kirby-and-the-forgotten-land)
- - [Cyberpunk 2077&#39;s Next-Gen Update Is A Pain On PlayStation](https://kotaku.com/cyberpunk-2077-save-file-transfer-ps4-ps5-xbox-one-seri-1848542993)
- - [Strange Horticulture, a game about selling plants, is one of the best games this year](https://www.polygon.com/reviews/22935956/strange-horticulture-plant-shop-review-impressions)<!-- GAME:END -->
+ - [Halo is getting a second season on Paramount Plus](https://www.polygon.com/22936062/halo-tv-series-season-2-renewal-paramount-plus)
+ - [Halo Waypoint: Season 2 Confirmed for Halo TV Series](https://news.xbox.com/en-us/2022/02/15/season-2-confirmed-for-halo-tv-series/)
+ - [Unlocking this Horizon Forbidden West trophy also plants a real-life tree](https://www.polygon.com/22936067/horizon-forbidden-west-sony-plant-trees-when-players-unlock-trophy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
