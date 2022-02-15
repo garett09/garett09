@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license is back for $49.99 &lpar;85% off&rpar; while supplies last](https://appleinsider.com/articles/22/02/15/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-for-4999-85-off-while-supplies-last?utm_medium=rss)
- - [New federal guidelines could boost carbon capture in the US](https://www.theverge.com/2022/2/15/22933710/biden-administration-guidelines-carbon-capture-pipelines)
- - [How to set up and use email templates in Gmail](https://www.theverge.com/21318890/gmail-template-compose-write-messages-automatic-reply-email-google)<!-- TECH:END -->
+ - [The Halo TV show is already renewed for a second season](https://www.theverge.com/2022/2/15/22936201/halo-tv-show-paramount-plus-season-two-renewed)
+ - [Akamai says it will acquire cloud hosting company Linode, which positions itself as an AWS alternative for SMBs and independent developers, for $900M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220215/p29#a220215p29)
+ - [ViacomCBS rebrands to Paramount in focus on streaming](https://www.theverge.com/2022/2/15/22936147/viacomcbs-rebrands-paramount-streaming-focus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
