@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Henchman Story is a tale of superheroes colliding with capitalism](https://www.polygon.com/22935830/henchman-story-silken-sail-entertainment-visual-novel-superheroes-capitalism)
- - [Netflix is making a BioShock movie](https://www.pcgamer.com/netflix-bioshock-movie-announcement)
- - [Discord is down again](https://www.pcgamer.com/discord-down-feb-2022)<!-- GAME:END -->
+ - [Fan artists have gotten sucked in by Kirby’s Mouthful Mode](https://www.polygon.com/22935014/kirby-mouthful-mode-fan-art-carby-kirby-and-the-forgotten-land)
+ - [Cyberpunk 2077&#39;s Next-Gen Update Is A Pain On PlayStation](https://kotaku.com/cyberpunk-2077-save-file-transfer-ps4-ps5-xbox-one-seri-1848542993)
+ - [Strange Horticulture, a game about selling plants, is one of the best games this year](https://www.polygon.com/reviews/22935956/strange-horticulture-plant-shop-review-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
