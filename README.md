@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Valentine&#39;s day in Brazil is June 12. In February, we have carnival. It&#39;s not a valentine friendly time.](http://9gag.com/gag/aYrrovw)
- - 🚯 [Cmon, car, Im not gonna die at parking lot](http://9gag.com/gag/aGzzErK)
- - 🚯 [Margot Robbie without makeup](http://9gag.com/gag/aGzzy85)<!-- MEMES:END -->
+ - 🚖 [I couldn&#39;t expect that...](http://9gag.com/gag/aGzzz4z)
+ - 🚯 [Well, it&#39;s that time of year again](http://9gag.com/gag/a8111DO)
+ - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)<!-- MEMES:END -->
 
 --- 
 
