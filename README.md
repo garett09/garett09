@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well done](http://9gag.com/gag/aRrrLWy)
- - 🚯 [The memories of grampa](http://9gag.com/gag/aXrrMGv)
+ - 🚖 [Keep calm and spin](http://9gag.com/gag/amgg14V)
+ - 🚯 [Probably the most realistic cavalry charge you will ever see.](http://9gag.com/gag/apgg1V8)
  - 🚯 [Mom can we have Rammstein. We have Rammstein at home. Rammstein at home. Yet those kids rock.](http://9gag.com/gag/aVxxoLO)<!-- MEMES:END -->
 
 --- 
