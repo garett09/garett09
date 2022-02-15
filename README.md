@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After OnePlus, Oppo’s Find X phones will now get camera tech from Hasselblad](https://www.androidauthority.com/oppo-hasselblad-partnership-3108782/)
  - [Texas-based Securonix, which offers cloud-based threat detection and response services, raises more than $1B in a round led by Vista Equity Partners &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220214/p28#a220214p28)
- - [Databook, which offers AI-powered sales insights and tools for sales reps, raises a $50M Series B led by Bessemer Venture Partners at a $550M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220214/p27#a220214p27)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Databook, which offers AI-powered sales insights and tools for sales reps, raises a $50M Series B led by Bessemer Venture Partners at a $550M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220214/p27#a220214p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
