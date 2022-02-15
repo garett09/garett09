@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone dominated U.S. smartphone market in 2021](https://appleinsider.com/articles/22/02/15/apples-iphone-dominated-us-smartphone-market-in-2021?utm_medium=rss)
- - [Daily Authority: 📱 Pixel app streaming to PC, Mac, Chromebook](https://www.androidauthority.com/da-february-15-2022-3109044/)
- - [Apple&#39;s iPhone 6 Plus &amp; fourth-generation iPad are now officially &#39;vintage&#39;](https://appleinsider.com/articles/22/02/15/apples-iphone-6-plus-fourth-generation-ipad-are-now-officially-vintage?utm_medium=rss)<!-- TECH:END -->
+ - [The New York Times has changed Wordle’s solutions](https://www.theverge.com/2022/2/15/22934587/wordle-solutions-changed-new-york-times)
+ - [Cow, Bull, and the Meaning of AI Essays](https://www.wired.com/story/artificial-intelligence-language-education)
+ - [Jabra&#39;s Elite 4 Active Offer Great Bang for Your Buck](https://www.wired.com/review/jabra-elite-4-active)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
