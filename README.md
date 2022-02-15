@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Halo TV show is already renewed for a second season](https://www.theverge.com/2022/2/15/22936201/halo-tv-show-paramount-plus-season-two-renewed)
- - [Akamai says it will acquire cloud hosting company Linode, which positions itself as an AWS alternative for SMBs and independent developers, for $900M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220215/p29#a220215p29)
- - [ViacomCBS rebrands to Paramount in focus on streaming](https://www.theverge.com/2022/2/15/22936147/viacomcbs-rebrands-paramount-streaming-focus)<!-- TECH:END -->
+ - [Mercedes-Benz announces high-performance AMG version of its EQE electric sedan](https://www.theverge.com/2022/2/15/22934863/mercedes-benz-amg-eqe-electric-sedan-ev)
+ - [Baby Shark is getting a full-length movie](https://www.theverge.com/2022/2/15/22936250/baby-shark-movie-paramount-plus-announcement)
+ - [Mophie Portable Magnetic Stand review: A MagSafe solution with a premium price](https://appleinsider.com/articles/22/02/15/mophie-portable-magnetic-stand-review-a-magsafe-solution-with-a-premium-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
