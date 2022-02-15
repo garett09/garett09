@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The LEGO Group brings the iconic Horizon Forbidden West Tallneck machine to &lpar;brick-&rpar;life](https://blog.playstation.com/2022/02/15/the-lego-group-brings-the-iconic-horizon-forbidden-west-tallneck-machine-to-brick-life/)
- - [The LEGO Group brings the iconic Horizon Forbidden West Tallneck machine to &lpar;brick-&rpar;life](https://blog.playstation.com/2022/02/15/the-lego-group-brings-the-iconic-horizon-forbidden-west-tallneck-machine-to-brick-life/)
- - [Newegg apologises for well-documented customer service fail, says it has enacted better policies](https://www.pcgamer.com/newegg-apologises-for-well-documented-customer-service-fail-says-it-has-enacted-better-policies)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: Total War: Warhammer III, Madden NFL 22, and More](https://news.xbox.com/en-us/2022/02/15/xbox-game-pass-mid-february-update-2022/)
+ - [New Dune: Spice Wars gameplay shows isometric, open world full of fighting](https://www.polygon.com/22933801/dune-spice-wars-arrakis-gameplay-trailer)
+ - [Horizon Forbidden West is getting its own Lego set](https://www.polygon.com/22934629/horizon-forbidden-west-lego-tallneck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
