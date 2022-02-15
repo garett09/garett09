@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is few manga story based on artist. The manga](http://9gag.com/gag/a711OMm)
- - 🚯 [Youtube vloggers nowadays:](http://9gag.com/gag/aM44B9A)
+ - 🚖 [Well done](http://9gag.com/gag/aRrrLWy)
+ - 🚯 [The memories of grampa](http://9gag.com/gag/aXrrMGv)
  - 🚯 [Mom can we have Rammstein. We have Rammstein at home. Rammstein at home. Yet those kids rock.](http://9gag.com/gag/aVxxoLO)<!-- MEMES:END -->
 
 --- 
