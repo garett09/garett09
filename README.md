@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A key EU lawmaker steering negotiations over the Digital Services Act says she is &quot;optimistic we can make a deal before the end of June&quot; &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220215/p8#a220215p8)
- - [Instagram will let users send a private like in response to a Story, expanding on DMs or emoji reactions &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/220215/p7#a220215p7)
- - [Finland-based Swappie, which refurbishes and resells used iPhones through its marketplace, raises a &amp;euro;108M Series C, bringing its total funding to &amp;euro;149M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220215/p6#a220215p6)<!-- TECH:END -->
+ - [25 Black-owned Beauty Brands You Can Shop During Black History Month and Beyond     - CNET](https://www.cnet.com/health/personal-care/25-black-owned-beauty-brands-you-can-shop-during-black-history-month-and-beyond/#ftag=CAD590a51e)
+ - [LinkedIn profiles show TikTok has hired over 190 European content moderators from Accenture and others since January 2021, as its European business explodes &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220215/p10#a220215p10)
+ - [After India banned Sea&#39;s lucrative Free Fire game, the Singapore-based company lost $16B+ in market value, its largest-ever daily drop &lpar;Bloomberg&rpar;](http://www.techmeme.com/220215/p9#a220215p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
