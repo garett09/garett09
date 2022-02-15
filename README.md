@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to double-space on Google Docs](https://www.androidauthority.com/double-space-google-docs-3105696/)
- - [Google &amp; The Thread Group&#39;s Jonathan Hui, on the HomeKit Insider podcast](https://appleinsider.com/articles/22/02/15/google-the-thread-groups-jonathan-hui-on-the-homekit-insider-podcast?utm_medium=rss)
- - [The Best Way to Learn Online? Be a Lurker](https://www.wired.com/story/best-way-learn-online-be-lurker)<!-- TECH:END -->
+ - [How to check your word count in Google Docs](https://www.androidauthority.com/word-count-google-docs-3105706/)
+ - [Save Hundreds on Major Appliances During Best Buy&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/home/kitchen-and-household/save-hundreds-on-major-appliances-during-best-buys-presidents-day-sale/#ftag=CAD590a51e)
+ - [The Best Theragun &lpar;and Other Great Massage Guns&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
