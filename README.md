@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is the point of a bard in any game](http://9gag.com/gag/adgggm2)
- - 🚯 [And the gold medal goes to... the third place?](http://9gag.com/gag/a911q06)
- - 🚯 [Shaq just doesn&#39;t stop giving](http://9gag.com/gag/aQXXX1r)<!-- MEMES:END -->
+ - 🚖 [A company near me offers a bouquet of marijuana flowers for Valentines Day](http://9gag.com/gag/aZrr0OQ)
+ - 🚯 [Cmon, car, Im not gonna die at parking lot](http://9gag.com/gag/aGzzErK)
+ - 🚯 [People having some fun.](http://9gag.com/gag/aqGGGGL)<!-- MEMES:END -->
 
 --- 
 
