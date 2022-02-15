@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stomp Stomp Stomp](https://kotaku.com/star-wars-concept-art-last-jedi-force-awakens-kevin-jen-1848537257)
  - [Star Trek: Bridge Crew has been suddenly delisted](https://www.pcgamer.com/star-trek-bridge-crew-has-been-suddenly-delisted)
- - [How to get into romance books — and why you should](https://www.polygon.com/22933941/how-to-get-into-romance-books)
- - [Mods Accused of Bitcoin Mining, Viruses Removed From Steam](https://kotaku.com/cities-skylines-mods-mod-bitcoin-virus-steam-pc-trojan-1848536798)<!-- GAME:END -->
+ - [How to get into romance books — and why you should](https://www.polygon.com/22933941/how-to-get-into-romance-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
