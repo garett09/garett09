@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is the point of a bard in any game](http://9gag.com/gag/adgggm2)
- - 🚯 [People having some fun.](http://9gag.com/gag/aqGGGGL)
- - 🚯 [Cmon, car, Im not gonna die at parking lot](http://9gag.com/gag/aGzzErK)<!-- MEMES:END -->
+ - 🚖 [Valentine&#39;s day in Brazil is June 12. In February, we have carnival. It&#39;s not a valentine friendly time.](http://9gag.com/gag/aYrrovw)
+ - 🚯 [Cmon, car, Im not gonna die at parking lot](http://9gag.com/gag/aGzzErK)
+ - 🚯 [Margot Robbie without makeup](http://9gag.com/gag/aGzzy85)<!-- MEMES:END -->
 
 --- 
 
