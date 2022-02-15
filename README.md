@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times has changed Wordle’s solutions](https://www.theverge.com/2022/2/15/22934587/wordle-solutions-changed-new-york-times)
- - [Cow, Bull, and the Meaning of AI Essays](https://www.wired.com/story/artificial-intelligence-language-education)
- - [Jabra&#39;s Elite 4 Active Offer Great Bang for Your Buck](https://www.wired.com/review/jabra-elite-4-active)<!-- TECH:END -->
+ - [How to double-space on Google Docs](https://www.androidauthority.com/double-space-google-docs-3105696/)
+ - [Google &amp; The Thread Group&#39;s Jonathan Hui, on the HomeKit Insider podcast](https://appleinsider.com/articles/22/02/15/google-the-thread-groups-jonathan-hui-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [The Best Way to Learn Online? Be a Lurker](https://www.wired.com/story/best-way-learn-online-be-lurker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
