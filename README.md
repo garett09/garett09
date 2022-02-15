@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tame the Red Tigers in World of Tanks’ New Season](https://news.xbox.com/en-us/2022/02/15/tame-the-red-tigers-in-world-of-tanks-new-season/)
- - [Valve is partnering with iFixit to sell Steam Deck replacement parts](https://www.pcgamer.com/valve-is-partnering-with-ifixit-to-sell-steam-deck-replacement-parts)
- - [Cyberpunk 2077 Is Buffing Its Romances](https://kotaku.com/cyberpunk-2077-romance-sex-patch-1-5-ps5-xbox-series-x-1848541800)<!-- GAME:END -->
+ - [Henchman Story is a tale of superheroes colliding with capitalism](https://www.polygon.com/22935830/henchman-story-silken-sail-entertainment-visual-novel-superheroes-capitalism)
+ - [Netflix is making a BioShock movie](https://www.pcgamer.com/netflix-bioshock-movie-announcement)
+ - [Discord is down again](https://www.pcgamer.com/discord-down-feb-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
