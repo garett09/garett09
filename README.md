@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSea launches verified customer support to fight Discord scammers](https://www.theverge.com/2022/2/15/22935143/opensea-nft-metalink-launch-verified-dm-scammers-discord)
- - [Facebook rebrands News Feed to just Feed after more than 15 years &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220215/p23#a220215p23)
- - [Facebook rebrands News Feed after more than 15 years](https://www.theverge.com/2022/2/15/22935080/facebook-meta-news-feed-renaming-branding-political-content-misinformation)<!-- TECH:END -->
+ - [Trudeau Declares National Emergency Over Canadian Trucker Protests of COVID Vaccines     - CNET](https://www.cnet.com/news/trudeau-declares-national-emergency-over-canadian-trucker-protests-of-covid-vaccines/#ftag=CAD590a51e)
+ - [Google rolls out Docs updates, including a pageless format announced in May 2021, AI-powered summaries, and Maps embedded previews &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220215/p25#a220215p25)
+ - [Disney has appointed a leader for its metaverse strategy](https://www.theverge.com/2022/2/15/22935445/disney-metaverse-strategy-plans-mike-white-memo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
