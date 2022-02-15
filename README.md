@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has adopted Google Messages as its default messaging app in the US, starting with the Galaxy S22 series &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220214/p22#a220214p22)
- - [Funding site linked to Canadian trucker protest hacked, donor info leaked online](https://www.theverge.com/2022/2/14/22933772/givesendgo-funding-freedom-convoy-hacked-donor-leaked)
- - [Verizon’s experiencing a state-wide outage in Georgia](https://www.theverge.com/2022/2/14/22933802/georgia-verizon-wireless-down-network-outage)<!-- TECH:END -->
+ - [New Zealand-based Soul Machines, which uses AI to create customer-facing avatars for businesses, raises a $70M Series B1 led by Vision Fund 2 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220214/p25#a220214p25)
+ - [Android 13 preview shows how Pixel phones could stream apps to your PC](https://www.theverge.com/2022/2/14/22933951/google-android-13-pixel-streaming-apps-notifications-chromebook-pc)
+ - [A video and images show the ability to interact with Android apps on a Pixel running Android 13 from a Windows 11 PC and a Chromebook via a special web app &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220214/p24#a220214p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
