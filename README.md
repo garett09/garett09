@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand-based Soul Machines, which uses AI to create customer-facing avatars for businesses, raises a $70M Series B1 led by Vision Fund 2 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220214/p25#a220214p25)
- - [Android 13 preview shows how Pixel phones could stream apps to your PC](https://www.theverge.com/2022/2/14/22933951/google-android-13-pixel-streaming-apps-notifications-chromebook-pc)
- - [A video and images show the ability to interact with Android apps on a Pixel running Android 13 from a Windows 11 PC and a Chromebook via a special web app &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220214/p24#a220214p24)<!-- TECH:END -->
+ - [Judge orders the release of alleged Bitcoin launderer Razzlekhan on bail](https://www.theverge.com/2022/2/14/22933904/razzlekhan-heather-morgan-bail-hearing-dc-bitcoin-bitfinex)
+ - [Singapore-based Reebelo, an online marketplace for refurbished smartphones and other devices, raises a $20M Series A led by Cathay Innovation and June Fund &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220214/p26#a220214p26)
+ - [Casper Original Mattress Review: A Neutral Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
