@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ thriller &#39;Severance&#39; born from creator&#39;s &#39;corporate misery&#39;](https://appleinsider.com/articles/22/02/15/apple-tv-thriller-severance-born-from-creators-corporate-misery?utm_medium=rss)
- - [Cyberpunk 2077’s next-gen update now available for PS5 and Xbox Series X / S](https://www.theverge.com/2022/2/15/22933552/cyberpunk-2077-next-gen-update-patch-ps5-xbox-series-x)
- - [Poll: Is location tracking enabled on your phone?](https://www.androidauthority.com/location-tracking-phone-poll-3108919/)<!-- TECH:END -->
+ - [Newegg promises ‘no questions asked’ returns on CPUs and motherboards after YouTube scandal](https://www.theverge.com/2022/2/15/22934686/newegg-open-box-motherboard-cpu-return-policy-gamers-nexus)
+ - [eBay coupon: 15% off select tech, home goods for Presidents&#39; Day](https://appleinsider.com/articles/22/02/15/ebay-coupon-15-off-select-tech-home-goods-for-presidents-day?utm_medium=rss)
+ - [Apple says Spatial Audio is a hit, drawing more listeners to Apple Music](https://appleinsider.com/articles/22/02/15/apple-says-spatial-audio-is-a-hit-drawing-more-listeners-to-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
