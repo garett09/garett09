@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After OnePlus, Oppo’s Find X phones will now get camera tech from Hasselblad](https://www.androidauthority.com/oppo-hasselblad-partnership-3108782/)
- - [Texas-based Securonix, which offers cloud-based threat detection and response services, raises more than $1B in a round led by Vista Equity Partners &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220214/p28#a220214p28)
- - [Databook, which offers AI-powered sales insights and tools for sales reps, raises a $50M Series B led by Bessemer Venture Partners at a $550M valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220214/p27#a220214p27)<!-- TECH:END -->
+ - [Marvel Phase 4: Watch the Movies and TV Series in the Perfect Order     - CNET](https://www.cnet.com/news/marvel-phase-4-watch-the-movies-and-tv-series-in-the-perfect-order/#ftag=CAD590a51e)
+ - [After OnePlus, Oppo’s Find X phones will now get the Hasselblad treatment](https://www.androidauthority.com/oppo-hasselblad-partnership-3108782/)
+ - [Texas-based Securonix, which offers cloud-based threat detection and response services, raises more than $1B in a round led by Vista Equity Partners &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220214/p28#a220214p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
