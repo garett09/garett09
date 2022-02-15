@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)
- - 🚯 [Stop giving Amazon attention and start watching other series that worth your time and money](http://9gag.com/gag/avAAQmX)
- - 🚯 [Meth Zombie](http://9gag.com/gag/a511QXr)<!-- MEMES:END -->
+ - 🚖 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)
+ - 🚯 [Margot Robbie without makeup](http://9gag.com/gag/aGzzy85)
+ - 🚯 [This meme was made and approved by the alien confederation](http://9gag.com/gag/apgg108)<!-- MEMES:END -->
 
 --- 
 
