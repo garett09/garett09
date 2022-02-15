@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo is getting a second season on Paramount Plus](https://www.polygon.com/22936062/halo-tv-series-season-2-renewal-paramount-plus)
- - [Halo Waypoint: Season 2 Confirmed for Halo TV Series](https://news.xbox.com/en-us/2022/02/15/season-2-confirmed-for-halo-tv-series/)
- - [Unlocking this Horizon Forbidden West trophy also plants a real-life tree](https://www.polygon.com/22936067/horizon-forbidden-west-sony-plant-trees-when-players-unlock-trophy)<!-- GAME:END -->
+ - [Blue’s Clues is getting its own Spider-Man: No Way Home-like movie](https://www.polygon.com/22936358/blues-clues-movie-steve-joe-josh-paramount-plus)
+ - [Here’s how to transfer your Cyberpunk 2077 save from PS4 to PS5](https://www.polygon.com/22936344/cyberpunk-2077-save-playstation-4-next-gen-transfer)
+ - [Third Sonic movie on the way, plus Knuckles spinoff series starring Idris Elba](https://www.polygon.com/22936266/knuckles-spinoff-series-idris-elba-sonic-3-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
