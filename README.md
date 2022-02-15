@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even cyclists don&#39;t mess with moose](http://9gag.com/gag/arnnWA7)
- - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)
- - 🚯 [People saves baby elephant from mud](http://9gag.com/gag/agggQq1)<!-- MEMES:END -->
+ - 🚖 [Dark ages.. The fear was real](http://9gag.com/gag/aBnnZpO)
+ - 🚯 [Lag](http://9gag.com/gag/a811A1O)
+ - 🚯 [Easy. Just don&#39;t date, don&#39;t hook up, don&#39;t go to home parties, bars and pubs or public gatherings. Buy food only in small stores and chances you will get covid will be close to zero. In My case I did all that before covid existed.](http://9gag.com/gag/ajgg78G)<!-- MEMES:END -->
 
 --- 
 
