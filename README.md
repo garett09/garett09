@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I couldn&#39;t expect that...](http://9gag.com/gag/aGzzz4z)
- - 🚯 [Well, it&#39;s that time of year again](http://9gag.com/gag/a8111DO)
- - 🚯 [This always happens and it pisses me off evertime.](http://9gag.com/gag/aVxxvyO)<!-- MEMES:END -->
+ - 🚖 [What is happiness?](http://9gag.com/gag/arnnm6d)
+ - 🚯 [World is evolving, just backwards](http://9gag.com/gag/aegg9Lb)
+ - 🚯 [Meth Zombie](http://9gag.com/gag/a511QXr)<!-- MEMES:END -->
 
 --- 
 
