@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Godzilla and Evangelion are forming a new Japanese cinematic universe](https://www.theverge.com/2022/2/15/22934422/shin-japan-heroes-universe-godzilla-ultraman-kamen-rider-evangelion)
- - [Motorola and Verizon made a chonky 5G neckband. Here’s what it does.](https://www.androidauthority.com/motorola-verizon-5g-neckband-3108829/)
- - [Marvel Phase 4: Watch the Movies and TV Series in the Perfect Order     - CNET](https://www.cnet.com/news/marvel-phase-4-watch-the-movies-and-tv-series-in-the-perfect-order/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesian digital banking startup Akulaku raises $100M from Siam Commercial Bank; sources say it is weighing a US listing via a SPAC at a $2B valuation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220215/p3#a220215p3)
+ - [How SoftBank&#39;s costly bet on IoT at Arm backfired and distracted the company from the much bigger data center market &lpar;Financial Times&rpar;](http://www.techmeme.com/220215/p2#a220215p2)
+ - [You may soon be able to stream all Android apps from your Pixels to your PCs](https://www.androidauthority.com/google-pixel-app-streaming-3108837/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
