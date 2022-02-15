@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dark ages.. The fear was real](http://9gag.com/gag/aBnnZpO)
- - 🚯 [Lag](http://9gag.com/gag/a811A1O)
- - 🚯 [Easy. Just don&#39;t date, don&#39;t hook up, don&#39;t go to home parties, bars and pubs or public gatherings. Buy food only in small stores and chances you will get covid will be close to zero. In My case I did all that before covid existed.](http://9gag.com/gag/ajgg78G)<!-- MEMES:END -->
+ - 🚖 [There is few manga story based on artist. The manga](http://9gag.com/gag/a711OMm)
+ - 🚯 [Youtube vloggers nowadays:](http://9gag.com/gag/aM44B9A)
+ - 🚯 [Mom can we have Rammstein. We have Rammstein at home. Rammstein at home. Yet those kids rock.](http://9gag.com/gag/aVxxoLO)<!-- MEMES:END -->
 
 --- 
 
