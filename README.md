@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys: Diabolical trailer looks appropriately out of control](https://www.polygon.com/22937345/the-boys-diabolical-trailer-amazon-animated-series)
- - [San Diego Studio is Bringing Simultaneous Online Co-op Play to MLB The Show 22](https://news.xbox.com/en-us/2022/02/16/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
- - [DC and Marvel’s Justice League/Avengers crossover that could never be reprinted is being reprinted](https://www.polygon.com/22936105/dc-marvel-crossover-justice-league-vs-avengers-comic-book-george-perez)<!-- GAME:END -->
+ - [Total War: Warhammer III Hot Keys Revealed](https://news.xbox.com/en-us/2022/02/16/total-war-warhammer-3-hot-keys-revealed/)
+ - [Nintendo Fans Share Surprising 3DS, Wii U Stats To Mourn eShop Closure](https://kotaku.com/nintendo-3ds-wii-u-eshop-closing-stats-site-fans-mourni-1848548765)
+ - [No Plan B is a fiendishly clever breach-and-clear puzzle game](https://www.polygon.com/22937460/no-plan-b-review-impressions-breach-and-clear-tactics-puzzle-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
