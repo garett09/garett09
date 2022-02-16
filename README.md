@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty simple, ain&#39;t it?](http://9gag.com/gag/a311AQ7)
+ - 🚖 [It has been remade](http://9gag.com/gag/aZrrQ7X)
  - 🚯 [Before Ford, people used to work even 100 hours weeks. We should move forward.](http://9gag.com/gag/adggQ4j)
- - 🚯 [Canada is now Chinada](http://9gag.com/gag/aRrrMA5)<!-- MEMES:END -->
+ - 🚯 [The result when you simply trust the author&#39;s vision](http://9gag.com/gag/a111Dxw)<!-- MEMES:END -->
 
 --- 
 
