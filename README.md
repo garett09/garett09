@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clever Steam Deck battery saver feature should be ready by early summer](https://www.pcgamer.com/clever-steam-deck-battery-saver-feature-should-be-ready-by-early-summer)
- - [If Roblox&#39;s daily users were a country, it would be bigger than Canada](https://www.pcgamer.com/if-robloxs-daily-users-were-a-country-it-would-be-bigger-than-canada)
- - [The Japanese Internet Reacts To Nintendo Closing 3DS &amp; Wii U Shops](https://kotaku.com/nintendo-eshop-3ds-wiiu-japan-switch-online-internet-do-1848546289)<!-- GAME:END -->
+ - [No Man’s Sky Sentinel Update out today for PS4, PS5 and PS VR](https://blog.playstation.com/2022/02/16/no-mans-sky-sentinel-update-out-today-for-ps4-ps5-and-ps-vr/)
+ - [No Man’s Sky Sentinel Update out today for PS4, PS5 and PS VR](https://blog.playstation.com/2022/02/16/no-mans-sky-sentinel-update-out-today-for-ps4-ps5-and-ps-vr/)
+ - [No Man’s Sky: Sentinel Update Available Today](https://news.xbox.com/en-us/2022/02/16/no-mans-sky-sentinel-update-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
