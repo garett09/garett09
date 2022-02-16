@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK Home Office is seeking changes to the Online Safety Bill to require platforms monitor &quot;legal but harmful&quot; content, worrying the tech industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220216/p11#a220216p11)
- - [Xiaomi just launched a gaming-focused flagship with Mercedes F1](https://www.androidauthority.com/redmi-k50-gaming-3109987/)
- - [Is Firefox Okay?](https://www.wired.com/story/firefox-mozilla-2022)<!-- TECH:END -->
+ - [Google says it plans to bring Privacy Sandbox to Android, limiting data sharing from smartphones, and promises the changes will be less disruptive than Apple&#39;s &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/220216/p15#a220216p15)
+ - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear)
+ - [How Job Applicants Try to Hack Résumé-Reading Software](https://www.wired.com/story/job-applicants-hack-resume-reading-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
