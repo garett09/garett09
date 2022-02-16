@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Renewable energy growth in the US lags far behind Biden’s climate ambitions](https://www.theverge.com/2022/2/16/22937248/biden-climate-goals-renewable-energy-growth-us-lags-solar-wind-batteries)
- - [CISA, FBI, and NSA say Russian state-sponsored hackers targeted US defense contractors for at least two years, acquiring export-controlled technology and more &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220216/p26#a220216p26)
- - [Windows 11 is getting new touch gestures, Start menu folders, and much more](https://www.theverge.com/2022/2/16/22937573/microsoft-windows-11-start-menu-folders-new-touch-gestures-features)<!-- TECH:END -->
+ - [Q&amp;A with longtime Wikipedia contributor Molly White about her website &quot;Web3 is going just great&quot;, why Web3 won&#39;t create new Wikipedia-style projects, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220216/p27#a220216p27)
+ - [Twitter is now letting developers add labels to bot accounts](https://www.theverge.com/2022/2/16/22937435/twitter-labels-automated-bot-accounts)
+ - [The Asus ROG Strix Flare II Animate: feature-packed, but overpriced](https://www.theverge.com/22913232/asus-rog-strix-flare-ii-animate-gaming-keyboard-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
