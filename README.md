@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CalDigit TS4 Thunderbolt hub review: The dock of our dreams](https://appleinsider.com/articles/22/02/16/caldigit-ts4-thunderbolt-hub-review-the-dock-of-our-dreams?utm_medium=rss)
- - [New York attorney general issues warning about potential AirTag misuse](https://appleinsider.com/articles/22/02/16/new-york-attorney-general-issues-warning-about-potential-airtag-misuse?utm_medium=rss)
- - [Bose now lets you customize the EQ of its QuietComfort 45 headphones](https://www.theverge.com/2022/2/16/22937488/bose-qc45-custom-eq-bass-mid-treble-now-available)<!-- TECH:END -->
+ - [Renewable energy growth in the US lags far behind Biden’s climate ambitions](https://www.theverge.com/2022/2/16/22937248/biden-climate-goals-renewable-energy-growth-us-lags-solar-wind-batteries)
+ - [CISA, FBI, and NSA say Russian state-sponsored hackers targeted US defense contractors for at least two years, acquiring export-controlled technology and more &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220216/p26#a220216p26)
+ - [Windows 11 is getting new touch gestures, Start menu folders, and much more](https://www.theverge.com/2022/2/16/22937573/microsoft-windows-11-start-menu-folders-new-touch-gestures-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
