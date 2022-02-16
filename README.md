@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s hope he doesn&#39;t change his mind](http://9gag.com/gag/aqGGWjY)
+ - 🚖 [Apple Heist](http://9gag.com/gag/abggBmO)
  - 🚯 [QUITE FUNNY](http://9gag.com/gag/a3118Ov)
- - 🚯 [Professional squirrel photographer](http://9gag.com/gag/a2112R9)<!-- MEMES:END -->
+ - 🚯 [When you choose a really bad time to overtake someone.](http://9gag.com/gag/aQXXmjw)<!-- MEMES:END -->
 
 --- 
 
