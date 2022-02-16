@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer III Hot Keys Revealed](https://news.xbox.com/en-us/2022/02/16/total-war-warhammer-3-hot-keys-revealed/)
- - [Nintendo Fans Share Surprising 3DS, Wii U Stats To Mourn eShop Closure](https://kotaku.com/nintendo-3ds-wii-u-eshop-closing-stats-site-fans-mourni-1848548765)
- - [No Plan B is a fiendishly clever breach-and-clear puzzle game](https://www.polygon.com/22937460/no-plan-b-review-impressions-breach-and-clear-tactics-puzzle-game)<!-- GAME:END -->
+ - [Knocking Down Barriers with Grid Legends Multiplayer](https://news.xbox.com/en-us/2022/02/16/knocking-down-barriers-with-grid-legends-multiplayer/)
+ - [Magic: The Gathering’s Street Fighter crossover is coming soon, see the first cards](https://www.polygon.com/22937519/secret-lair-magic-the-gathering-street-fighter-crossover-print-on-demand-dates)
+ - [Halo Infinite Community Goes Nuts Over Leaked Forge Mode](https://kotaku.com/halo-infinite-forge-multiplayer-level-editor-leaks-seas-1848548659)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
