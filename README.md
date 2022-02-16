@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Funding Societies, a digital financing platform for SMBs in Southeast Asia, raises a $144M Series C+ led by SoftBank Vision Fund 2 and $150M in debt &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220215/p36#a220215p36)
  - [Alan Davidson, the new NTIA head overseeing federal spending on broadband, says his agency will soon launch a review of competition in the mobile app ecosystem &lpar;Margaret Harding McGill/Axios&rpar;](http://www.techmeme.com/220215/p35#a220215p35)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-amazon-prime-video/#ftag=CAD590a51e)
- - [Terray Therapeutics, which specializes in AI-enabled drug discovery, emerges from stealth with a $60M Series A led by Madrona Venture Group &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220215/p34#a220215p34)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-amazon-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
