@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best VR Headsets and Games to Explore the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality)
- - [How to Cope With Post-Game Depression](https://www.wired.com/story/post-game-depression)
- - [No Man’s Sky’s newest update brings big changes to combat and enemies](https://www.theverge.com/2022/2/16/22936506/no-mans-sky-sentinel-update-combat-enemies-changes-hello-games)<!-- TECH:END -->
+ - [Twelve South BackPack review: A handy shelf for the latest 24-inch iMac](https://appleinsider.com/articles/22/02/16/twelve-south-backpack-review-a-handy-shelf-for-the-latest-24-inch-imac?utm_medium=rss)
+ - [The Best Locks for Protecting Your Bike or Ebike](https://www.wired.com/gallery/best-bike-locks)
+ - [Epic says there are now more than 500 million Epic Games accounts](https://www.theverge.com/2022/2/16/22935013/epic-games-accounts-amount-store-fortnite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
