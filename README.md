@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between the types of female opera voices](http://9gag.com/gag/aeggx2O)
- - 🚯 [Know the difference](http://9gag.com/gag/aAGGMLd)
- - 🚯 [How I met your mother](http://9gag.com/gag/aqGGxxQ)<!-- MEMES:END -->
+ - 🚖 [How I met your mother](http://9gag.com/gag/aqGGxxQ)
+ - 🚯 [This Return it system in Sweden automatically sorts your plastics, glass and Misc containers for recycling and then pays you with a shopping coupon](http://9gag.com/gag/awzzOB1)
+ - 🚯 [Professional squirrel photographer](http://9gag.com/gag/a2112R9)<!-- MEMES:END -->
 
 --- 
 
