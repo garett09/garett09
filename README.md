@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why The Power of the Dog deserves to win Best Picture](https://www.polygon.com/22935829/power-of-the-dog-watch-2022-best-picture-oscar)
- - [Destiny 2 Players Missing Major Story Reveal Because Cutscene Won&#39;t Play](https://kotaku.com/destiny-2-witch-queen-dlc-season-lost-reveal-cutscene-b-1848544289)
- - [Knuckles is getting a TV series, and yes, Idris Elba is Knuckles again](https://www.pcgamer.com/sonic-knuckles-tv-series-idris-elba-paramount)<!-- GAME:END -->
+ - [Nintendo Closing 3DS &amp; Wii U Shops In 2023, Has &#39;No Plans To Offer Classic Content In Other Ways&#39;](https://kotaku.com/nintendo-wii-u-3ds-classic-games-mario-zelda-eshop-shop-1848544931)
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/15/planet-of-the-discounts-promotion-comes-to-playstation-store-2/)
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/15/planet-of-the-discounts-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
