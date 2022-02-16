@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The easiest way to make money](http://9gag.com/gag/a4112ew)
- - 🚯 [Hmm... a new bigot world. Wait, what?](http://9gag.com/gag/a1112KD)
- - 🚯 [Let&#39;s rob the pizza dude](http://9gag.com/gag/a811w5Y)<!-- MEMES:END -->
+ - 🚖 [Want to learn some german from Karen?](http://9gag.com/gag/a911Xzj)
+ - 🚯 [Bitter truth](http://9gag.com/gag/a811241)
+ - 🚯 [This is what 26 seconds of brrrrtttt sounds like.](http://9gag.com/gag/a111LBP)<!-- MEMES:END -->
 
 --- 
 
