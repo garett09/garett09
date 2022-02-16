@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s rob the pizza dude](http://9gag.com/gag/a811w5Y)
- - 🚯 [This is what 26 seconds of brrrrtttt sounds like.](http://9gag.com/gag/a111LBP)
- - 🚯 [It&#39;s a legit question. Where did they go? Elrond... what did you do.](http://9gag.com/gag/a811V0O)<!-- MEMES:END -->
+ - 🚖 [It&#39;s free real estate](http://9gag.com/gag/aE88Om9)
+ - 🚯 [First time living all by my own and I love it](http://9gag.com/gag/aBnn4OZ)
+ - 🚯 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)<!-- MEMES:END -->
 
 --- 
 
