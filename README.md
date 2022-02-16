@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unclogging a drainage pipe](http://9gag.com/gag/a9115eo)
- - 🚯 [Bentley, break-check, bat](http://9gag.com/gag/ay994Db)
- - 🚯 [Mega chad detected](http://9gag.com/gag/a411NXA)<!-- MEMES:END -->
+ - 🚖 [The saying\u2019s dumb anyway](http://9gag.com/gag/a211wXZ)
+ - 🚯 [Pretty simple, ain&#39;t it?](http://9gag.com/gag/a311AQ7)
+ - 🚯 [Send your best reversed gifs](http://9gag.com/gag/azeeKWj)<!-- MEMES:END -->
 
 --- 
 
