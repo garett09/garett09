@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pel\u00e9golas](http://9gag.com/gag/aVxxm1d)
- - 🚯 [Canada is now Chinada](http://9gag.com/gag/aRrrMA5)
- - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)<!-- MEMES:END -->
+ - 🚖 [The worst feeling](http://9gag.com/gag/aVxxZey)
+ - 🚯 [Unclogging a drainage pipe](http://9gag.com/gag/a9115eo)
+ - 🚯 [Well, I&#39;m working even saturdays in my shitty country](http://9gag.com/gag/axBB6ED)<!-- MEMES:END -->
 
 --- 
 
