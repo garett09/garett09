@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme 9 Pro series launched: A color-changing mid-ranger with a flagship camera](https://www.androidauthority.com/realme-9-series-3107947/)
- - [Realme 9 Pro and Pro Plus announced with color-changing new design](https://www.theverge.com/2022/2/16/22936918/realme-9-pro-plus-launch-specs-details-camera-color)
- - [Samsung Galaxy S21 series now receiving February 2022 security update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
+ - [Nigerian payments startup Flutterwave raises a $250M Series D at a $3B valuation, making it Africa&#39;s most valuable startup, led by B Capital &lpar;Neil Munshi/Financial Times&rpar;](http://www.techmeme.com/220216/p4#a220216p4)
+ - [Uber will now let you see how many one-star ratings you got from drivers](https://www.theverge.com/2022/2/16/22935861/uber-five-star-rating-breakdown-customers-privacy)
+ - [Google search quality is declining because of too many ads, SEO, and &quot;smart&quot; AI, prompting people to append &quot;reddit&quot; to queries to get more authentic results &lpar;DKB&rpar;](http://www.techmeme.com/220216/p3#a220216p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
