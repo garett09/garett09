@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Apple Heist](http://9gag.com/gag/abggBmO)
- - 🚯 [QUITE FUNNY](http://9gag.com/gag/a3118Ov)
- - 🚯 [When you choose a really bad time to overtake someone.](http://9gag.com/gag/aQXXmjw)<!-- MEMES:END -->
+ - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)
+ - 🚯 [Professional squirrel photographer](http://9gag.com/gag/a2112R9)<!-- MEMES:END -->
 
 --- 
 
