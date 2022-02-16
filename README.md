@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this hell?](http://9gag.com/gag/agggEgx)
- - 🚯 [It&#39;s free real estate](http://9gag.com/gag/aE88Om9)
- - 🚯 [Just to remind everyone, US is still the mightiest army in the world. Nothing to see here.](http://9gag.com/gag/a611238)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s rob the pizza dude](http://9gag.com/gag/a811w5Y)
+ - 🚯 [This is what 26 seconds of brrrrtttt sounds like.](http://9gag.com/gag/a111LBP)
+ - 🚯 [It&#39;s a legit question. Where did they go? Elrond... what did you do.](http://9gag.com/gag/a811V0O)<!-- MEMES:END -->
 
 --- 
 
