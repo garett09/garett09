@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&#39;s $180 wireless LinkBuds review: comfortable, novel open-style earbud design, superb voice call performance, but so-so battery life for an all-day design &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220215/p33#a220215p33)
- - [Nintendo won’t let you buy digital games for Wii U and 3DS after March 2023](https://www.theverge.com/2022/2/15/22936552/nintendo-eshop-wii-u-3ds-no-new-purchases-late-march-2023)
- - [Global smartphone data speeds are up thanks to 5G rollout](https://appleinsider.com/articles/22/02/16/global-smartphone-data-speeds-are-up-thanks-to-5g-rollout?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter Expands Beta for Safety Mode Autoblocking Feature     - CNET](https://www.cnet.com/tech/services-and-software/twitter-expands-beta-for-safety-mode-autoblocking-feature/#ftag=CAD590a51e)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Pokemon Go Is Holding a &#39;Poke Ball Pep Rally&#39; Event Before the Johto Tour     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-is-holding-a-poke-ball-pep-rally-event-before-the-johto-tour/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
