@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global smartphone data speeds are up thanks to 5G rollout](https://appleinsider.com/articles/22/02/16/global-smartphone-data-speeds-are-up-thanks-to-5g-rollout?utm_medium=rss)
- - [Maserati Grecale SUV to Debut on March 22     - Roadshow](https://www.cnet.com/roadshow/news/maserati-grecale-suv-debut-march-22/#ftag=CAD590a51e)
- - [Maserati Teases Grecale SUV Ahead of March Debut     - Roadshow](https://www.cnet.com/roadshow/pictures/maserati-teases-grecale-suv-march-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony&#39;s $180 wireless LinkBuds review: comfortable, novel open-style earbud design, superb voice call performance, but so-so battery life for an all-day design &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220215/p33#a220215p33)
+ - [Nintendo won’t let you buy digital games for Wii U and 3DS after March 2023](https://www.theverge.com/2022/2/15/22936552/nintendo-eshop-wii-u-3ds-no-new-purchases-late-march-2023)
+ - [Global smartphone data speeds are up thanks to 5G rollout](https://appleinsider.com/articles/22/02/16/global-smartphone-data-speeds-are-up-thanks-to-5g-rollout?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
