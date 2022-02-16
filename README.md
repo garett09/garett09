@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funding Societies, a digital financing platform for SMBs in Southeast Asia, raises a $144M Series C+ led by SoftBank Vision Fund 2 and $150M in debt &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220215/p36#a220215p36)
- - [Alan Davidson, the new NTIA head overseeing federal spending on broadband, says his agency will soon launch a review of competition in the mobile app ecosystem &lpar;Margaret Harding McGill/Axios&rpar;](http://www.techmeme.com/220215/p35#a220215p35)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-amazon-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 10 Pro could finally launch outside of China on this date](https://www.androidauthority.com/oneplus-10-pro-global-launch-date-3109957/)
+ - [The Semiconductor Industry Association says global chip sales grew 26.2% YoY to a record $555.9B in 2021 and forecasts 8.8% growth during 2022 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220216/p1#a220216p1)
+ - [Did Carl Pei just tease a Snapdragon-powered Android phone?](https://www.androidauthority.com/nothing-android-smartphone-3109909/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
