@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Bank Will Survive Nintendo&#39;s eShop Shutdown](https://kotaku.com/pokemon-bank-nintendo-eshop-3ds-wiiu-digital-internet-j-1848546197)
- - [Get your PC ready for Elden Ring with Nvidia&#39;s new driver](https://www.pcgamer.com/get-your-pc-ready-for-elden-ring-with-nvidias-new-driver)
- - [MSI to omit manuals and papers from its motherboards in environmental gesture](https://www.pcgamer.com/msi-to-omit-manuals-and-papers-from-its-motherboards-in-environmental-gesture)<!-- GAME:END -->
+ - [Clever Steam Deck battery saver feature should be ready by early summer](https://www.pcgamer.com/clever-steam-deck-battery-saver-feature-should-be-ready-by-early-summer)
+ - [If Roblox&#39;s daily users were a country, it would be bigger than Canada](https://www.pcgamer.com/if-robloxs-daily-users-were-a-country-it-would-be-bigger-than-canada)
+ - [The Japanese Internet Reacts To Nintendo Closing 3DS &amp; Wii U Shops](https://kotaku.com/nintendo-eshop-3ds-wiiu-japan-switch-online-internet-do-1848546289)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
