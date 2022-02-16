@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst feeling](http://9gag.com/gag/aVxxZey)
- - 🚯 [Business is boomin&#39;t.](http://9gag.com/gag/aXrr7n6)
- - 🚯 [You have something](http://9gag.com/gag/aWggoz4)<!-- MEMES:END -->
+ - 🚖 [Here is the correct and fixed version!](http://9gag.com/gag/aoggLmw)
+ - 🚯 [Difference between the types of female opera voices](http://9gag.com/gag/aeggx2O)
+ - 🚯 [Know the difference](http://9gag.com/gag/aAGGMLd)<!-- MEMES:END -->
 
 --- 
 
