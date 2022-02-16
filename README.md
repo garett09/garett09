@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I met your mother](http://9gag.com/gag/aqGGxxQ)
- - 🚯 [This Return it system in Sweden automatically sorts your plastics, glass and Misc containers for recycling and then pays you with a shopping coupon](http://9gag.com/gag/awzzOB1)
+ - 🚖 [Let&#39;s hope he doesn&#39;t change his mind](http://9gag.com/gag/aqGGWjY)
+ - 🚯 [QUITE FUNNY](http://9gag.com/gag/a3118Ov)
  - 🚯 [Professional squirrel photographer](http://9gag.com/gag/a2112R9)<!-- MEMES:END -->
 
 --- 
