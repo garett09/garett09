@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Want to learn some german from Karen?](http://9gag.com/gag/a911Xzj)
- - 🚯 [I googled Indian Metal, was not dissappointed. In fact I was f*king impressed](http://9gag.com/gag/ay99RX8)
- - 🚯 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)<!-- MEMES:END -->
+ - 🚖 [I googled Indian Metal, was not dissappointed. In fact I was f*king impressed](http://9gag.com/gag/ay99RX8)
+ - 🚯 [Want to learn some german from Karen?](http://9gag.com/gag/a911Xzj)
+ - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)<!-- MEMES:END -->
 
 --- 
 
