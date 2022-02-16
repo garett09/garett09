@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco reports Q2 revenue of $12.7B, up 6% YoY, Internet for the Future revenue of $1.32B, up 42% YoY, Hybrid Work revenue of $1.07B, down 9% YoY; stock up 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220216/p32#a220216p32)
- - [Meta’s policy lead Nick Clegg gets a presidential new title](https://www.theverge.com/2022/2/16/22937673/meta-policy-lead-nick-clegg-promoted-new-title-policy)
- - [Crypto exchange Binance.US is reportedly dealing with an SEC investigation](https://www.theverge.com/2022/2/16/22937534/binance-sec-investigation-cryptocurrency-relationship-trading-firms-changpen-zhao)<!-- TECH:END -->
+ - [Google’s ‘smart canvas’ vision for Workspace is bringing a pageless interface to Docs](https://www.theverge.com/2022/2/16/22935824/google-workspace-pageless-smart-canvas-ai-sheets-office-docs-sheets)
+ - [Samsung has another Galaxy Unpacked ready to go: Details here!](https://www.androidauthority.com/galaxy-unpacked-2022-mwc-3110569/)
+ - [Zhiyun Weebill 2 review: A professional gimbal you can control from your iPhone](https://appleinsider.com/articles/22/02/16/zhiyun-weebill-2-review-a-professional-gimbal-you-can-control-from-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
