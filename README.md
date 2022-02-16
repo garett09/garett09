@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro could finally launch outside of China on this date](https://www.androidauthority.com/oneplus-10-pro-global-launch-date-3109957/)
- - [The Semiconductor Industry Association says global chip sales grew 26.2% YoY to a record $555.9B in 2021 and forecasts 8.8% growth during 2022 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220216/p1#a220216p1)
- - [Did Carl Pei just tease a Snapdragon-powered Android phone?](https://www.androidauthority.com/nothing-android-smartphone-3109909/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5G gains February 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Blind patients with Second Sight&#39;s electronic retinal implants are in danger of losing their artificial vision as the tech becomes obsolete and unsupported &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/220216/p2#a220216p2)
+ - [OnePlus 10 Pro could finally launch outside of China on this date](https://www.androidauthority.com/oneplus-10-pro-global-launch-date-3109957/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
