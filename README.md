@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blue’s Clues is getting its own Spider-Man: No Way Home-like movie](https://www.polygon.com/22936358/blues-clues-movie-steve-joe-josh-paramount-plus)
- - [Here’s how to transfer your Cyberpunk 2077 save from PS4 to PS5](https://www.polygon.com/22936344/cyberpunk-2077-save-playstation-4-next-gen-transfer)
- - [Third Sonic movie on the way, plus Knuckles spinoff series starring Idris Elba](https://www.polygon.com/22936266/knuckles-spinoff-series-idris-elba-sonic-3-movie)<!-- GAME:END -->
+ - [Why The Power of the Dog deserves to win Best Picture](https://www.polygon.com/22935829/power-of-the-dog-watch-2022-best-picture-oscar)
+ - [Destiny 2 Players Missing Major Story Reveal Because Cutscene Won&#39;t Play](https://kotaku.com/destiny-2-witch-queen-dlc-season-lost-reveal-cutscene-b-1848544289)
+ - [Knuckles is getting a TV series, and yes, Idris Elba is Knuckles again](https://www.pcgamer.com/sonic-knuckles-tv-series-idris-elba-paramount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
