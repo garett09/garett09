@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Is this hell?](http://9gag.com/gag/agggEgx)
- - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)
- - 🚯 [Hobbi vas\u00fat.](http://9gag.com/gag/abggQ89)<!-- MEMES:END -->
+ - 🚯 [It&#39;s free real estate](http://9gag.com/gag/aE88Om9)
+ - 🚯 [Just to remind everyone, US is still the mightiest army in the world. Nothing to see here.](http://9gag.com/gag/a611238)<!-- MEMES:END -->
 
 --- 
 
