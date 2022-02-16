@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Customize your Kaiju in Dawn of the Monsters](https://blog.playstation.com/2022/02/16/customize-your-kaiju-in-dawn-of-the-monsters/)
- - [Customize your Kaiju in Dawn of the Monsters](https://blog.playstation.com/2022/02/16/customize-your-kaiju-in-dawn-of-the-monsters/)
- - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
+ - [The Boys: Diabolical trailer looks appropriately out of control](https://www.polygon.com/22937345/the-boys-diabolical-trailer-amazon-animated-series)
+ - [San Diego Studio is Bringing Simultaneous Online Co-op Play to MLB The Show 22](https://news.xbox.com/en-us/2022/02/16/san-diego-studio-is-bringing-simultaneous-online-co-op-play-to-mlb-the-show-22/)
+ - [DC and Marvel’s Justice League/Avengers crossover that could never be reprinted is being reprinted](https://www.polygon.com/22936105/dc-marvel-crossover-justice-league-vs-avengers-comic-book-george-perez)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
