@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Sentinel Update out today for PS4, PS5 and PS VR](https://blog.playstation.com/2022/02/16/no-mans-sky-sentinel-update-out-today-for-ps4-ps5-and-ps-vr/)
- - [No Man’s Sky Sentinel Update out today for PS4, PS5 and PS VR](https://blog.playstation.com/2022/02/16/no-mans-sky-sentinel-update-out-today-for-ps4-ps5-and-ps-vr/)
- - [No Man’s Sky: Sentinel Update Available Today](https://news.xbox.com/en-us/2022/02/16/no-mans-sky-sentinel-update-available-today/)<!-- GAME:END -->
+ - [Bringing Uncharted to the Big Screen](https://blog.playstation.com/2022/02/16/bringing-uncharted-to-the-big-screen/)
+ - [Xbox, New York Liberty, and Brooklyn Nets Team Up to Launch Jnr.Ballers](https://news.xbox.com/en-us/2022/02/16/jnr-ballers-announce/)
+ - [Bringing Uncharted to the Big Screen](https://blog.playstation.com/2022/02/16/bringing-uncharted-to-the-big-screen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
