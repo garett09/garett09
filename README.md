@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knocking Down Barriers with Grid Legends Multiplayer](https://news.xbox.com/en-us/2022/02/16/knocking-down-barriers-with-grid-legends-multiplayer/)
- - [Magic: The Gathering’s Street Fighter crossover is coming soon, see the first cards](https://www.polygon.com/22937519/secret-lair-magic-the-gathering-street-fighter-crossover-print-on-demand-dates)
- - [Halo Infinite Community Goes Nuts Over Leaked Forge Mode](https://kotaku.com/halo-infinite-forge-multiplayer-level-editor-leaks-seas-1848548659)<!-- GAME:END -->
+ - [Pokémon Go Community Day dates for March, April, and May 2022 announced](https://www.polygon.com/22937638/pokemon-go-community-day-march-april-may-2022)
+ - [Sorry, Re-Logic isn&#39;t teasing Terraria 2, it&#39;s just &#39;good fun&#39; banter with fans](https://www.pcgamer.com/sorry-re-logic-isnt-teasing-terraria-2-its-just-good-fun-banter-with-fans)
+ - [You’re not imagining it — Wordle’s been changed for the New York Times](https://www.polygon.com/22937637/wordle-new-york-times-publisher-changes-words-profanity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
