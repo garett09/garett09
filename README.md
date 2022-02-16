@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is 11.600 years old](http://9gag.com/gag/aeggZ5b)
- - 🚯 [Business is boomin&#39;t.](http://9gag.com/gag/aXrr7n6)
- - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)<!-- MEMES:END -->
+ - 🚖 [Goat wants something from her](http://9gag.com/gag/a611BXL)
+ - 🚯 [Send your best reversed gifs](http://9gag.com/gag/azeeKWj)
+ - 🚯 [Rule: You can score just once !](http://9gag.com/gag/axBBOMn)<!-- MEMES:END -->
 
 --- 
 
