@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital security company Elm, owned by Saudi Arabia&#39;s sovereign wealth fund, rises 30% in its Riyadh trading debut to $44.30 after raising $820M in its IPO &lpar;Farah Elbahrawy/Bloomberg&rpar;](http://www.techmeme.com/220216/p10#a220216p10)
- - [UK-based mobile-only bank Atom Bank raises &amp;pound;75M+ at a &amp;pound;435M valuation, after raising &amp;pound;40M in April 2021, as the startup plans its IPO &lpar;Oliver Smith/AltFi&rpar;](http://www.techmeme.com/220216/p9#a220216p9)
- - [Chinese online streaming service Bilibili plans to hire 1,000 censors after the death of a 25-year-old worker; Bilibili had 2,413 censors at the end of 2020 &lpar;Cissy Zhou/Financial Times&rpar;](http://www.techmeme.com/220216/p8#a220216p8)<!-- TECH:END -->
+ - [Sources: the UK Home Office is seeking changes to the Online Safety Bill to require platforms monitor &quot;legal but harmful&quot; content, worrying the tech industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220216/p11#a220216p11)
+ - [Xiaomi just launched a gaming-focused flagship with Mercedes F1](https://www.androidauthority.com/redmi-k50-gaming-3109987/)
+ - [Is Firefox Okay?](https://www.wired.com/story/firefox-mozilla-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
