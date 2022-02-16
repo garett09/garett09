@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5G gains February 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
- - [Blind patients with Second Sight&#39;s electronic retinal implants are in danger of losing their artificial vision as the tech becomes obsolete and unsupported &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/220216/p2#a220216p2)
- - [OnePlus 10 Pro could finally launch outside of China on this date](https://www.androidauthority.com/oneplus-10-pro-global-launch-date-3109957/)<!-- TECH:END -->
+ - [Realme 9 Pro series launched: A color-changing mid-ranger with a flagship camera](https://www.androidauthority.com/realme-9-series-3107947/)
+ - [Realme 9 Pro and Pro Plus announced with color-changing new design](https://www.theverge.com/2022/2/16/22936918/realme-9-pro-plus-launch-specs-details-camera-color)
+ - [Samsung Galaxy S21 series now receiving February 2022 security update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
