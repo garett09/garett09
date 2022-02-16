@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.wired.com/story/deepmind-ai-nuclear-fusion)
- - [10 Early President&#39;s Day Sales on Laptops and Tablets](https://www.wired.com/story/presidents-day-laptop-tablet-deals-feb-2022)
- - [Microsoft to remove AltspaceVR social hubs and tighten up safety and moderation](https://www.theverge.com/2022/2/16/22937192/microsoft-altspacevr-social-hubs-safety-changes)<!-- TECH:END -->
+ - [Seattle-based Temporal, an open source service for writing and running cloud apps, raises a $103M Series B at a $1.5B valuation, bringing total funding to $120M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220216/p23#a220216p23)
+ - [With Android privacy sandbox, Google wants to ditch ad tracking but keep the ads](https://www.theverge.com/2022/2/16/22937297/android-privacy-sandbox-google-apple-facebook-ad-tracking)
+ - [CalDigit TS4 Thunderbolt hub review: The dock of our dreams](https://appleinsider.com/articles/22/02/16/caldigit-ts4-thunderbolt-hub-review-the-dock-of-our-dreams?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
