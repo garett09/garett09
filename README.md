@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apple Heist](http://9gag.com/gag/abggBmO)
- - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)
- - 🚯 [Professional squirrel photographer](http://9gag.com/gag/a2112R9)<!-- MEMES:END -->
+ - 🚖 [The easiest way to make money](http://9gag.com/gag/a4112ew)
+ - 🚯 [Hmm... a new bigot world. Wait, what?](http://9gag.com/gag/a1112KD)
+ - 🚯 [Let&#39;s rob the pizza dude](http://9gag.com/gag/a811w5Y)<!-- MEMES:END -->
 
 --- 
 
