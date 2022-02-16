@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Pel\u00e9golas](http://9gag.com/gag/aVxxm1d)
- - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)
- - 🚯 [The result when you simply trust the author&#39;s vision](http://9gag.com/gag/a111Dxw)<!-- MEMES:END -->
+ - 🚯 [Canada is now Chinada](http://9gag.com/gag/aRrrMA5)
+ - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)<!-- MEMES:END -->
 
 --- 
 
