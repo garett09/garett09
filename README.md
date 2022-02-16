@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Temporal, an open source service for writing and running cloud apps, raises a $103M Series B at a $1.5B valuation, bringing total funding to $120M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220216/p23#a220216p23)
- - [With Android privacy sandbox, Google wants to ditch ad tracking but keep the ads](https://www.theverge.com/2022/2/16/22937297/android-privacy-sandbox-google-apple-facebook-ad-tracking)
- - [CalDigit TS4 Thunderbolt hub review: The dock of our dreams](https://appleinsider.com/articles/22/02/16/caldigit-ts4-thunderbolt-hub-review-the-dock-of-our-dreams?utm_medium=rss)<!-- TECH:END -->
+ - [CalDigit TS4 Thunderbolt hub review: The dock of our dreams](https://appleinsider.com/articles/22/02/16/caldigit-ts4-thunderbolt-hub-review-the-dock-of-our-dreams?utm_medium=rss)
+ - [New York attorney general issues warning about potential AirTag misuse](https://appleinsider.com/articles/22/02/16/new-york-attorney-general-issues-warning-about-potential-airtag-misuse?utm_medium=rss)
+ - [Bose now lets you customize the EQ of its QuietComfort 45 headphones](https://www.theverge.com/2022/2/16/22937488/bose-qc45-custom-eq-bass-mid-treble-now-available)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
