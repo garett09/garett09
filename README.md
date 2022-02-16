@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here is the correct and fixed version!](http://9gag.com/gag/aoggLmw)
- - 🚯 [Difference between the types of female opera voices](http://9gag.com/gag/aeggx2O)
- - 🚯 [Know the difference](http://9gag.com/gag/aAGGMLd)<!-- MEMES:END -->
+ - 🚖 [Difference between the types of female opera voices](http://9gag.com/gag/aeggx2O)
+ - 🚯 [Know the difference](http://9gag.com/gag/aAGGMLd)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aqGGxxQ)<!-- MEMES:END -->
 
 --- 
 
