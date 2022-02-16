@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Bank Will Survive Nintendo&#39;s eShop Shutdown](https://kotaku.com/pokemon-bank-nintendo-eshop-3ds-wiiu-digital-internet-j-1848546197)
  - [Get your PC ready for Elden Ring with Nvidia&#39;s new driver](https://www.pcgamer.com/get-your-pc-ready-for-elden-ring-with-nvidias-new-driver)
- - [MSI to omit manuals and papers from its motherboards in environmental gesture](https://www.pcgamer.com/msi-to-omit-manuals-and-papers-from-its-motherboards-in-environmental-gesture)
- - [Nintendo Closing 3DS &amp; Wii U Shops In 2023, Has &#39;No Plans To Offer Classic Content In Other Ways&#39;](https://kotaku.com/nintendo-wii-u-3ds-classic-games-mario-zelda-eshop-shop-1848544931)<!-- GAME:END -->
+ - [MSI to omit manuals and papers from its motherboards in environmental gesture](https://www.pcgamer.com/msi-to-omit-manuals-and-papers-from-its-motherboards-in-environmental-gesture)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
