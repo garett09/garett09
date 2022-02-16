@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South BackPack review: A handy shelf for the latest 24-inch iMac](https://appleinsider.com/articles/22/02/16/twelve-south-backpack-review-a-handy-shelf-for-the-latest-24-inch-imac?utm_medium=rss)
- - [The Best Locks for Protecting Your Bike or Ebike](https://www.wired.com/gallery/best-bike-locks)
- - [Epic says there are now more than 500 million Epic Games accounts](https://www.theverge.com/2022/2/16/22935013/epic-games-accounts-amount-store-fortnite)<!-- TECH:END -->
+ - [DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.wired.com/story/deepmind-ai-nuclear-fusion)
+ - [10 Early President&#39;s Day Sales on Laptops and Tablets](https://www.wired.com/story/presidents-day-laptop-tablet-deals-feb-2022)
+ - [Microsoft to remove AltspaceVR social hubs and tighten up safety and moderation](https://www.theverge.com/2022/2/16/22937192/microsoft-altspacevr-social-hubs-safety-changes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
