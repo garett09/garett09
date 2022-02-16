@@ -180,7 +180,7 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Nintendo Closing 3DS &amp; Wii U Shops In 2023, Has &#39;No Plans To Offer Classic Content In Other Ways&#39;](https://kotaku.com/nintendo-wii-u-3ds-classic-games-mario-zelda-eshop-shop-1848544931)
- - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/15/planet-of-the-discounts-promotion-comes-to-playstation-store-2/)
+ - [Homeworld 3 is coming this year: Here&#39;s what we know](https://www.pcgamer.com/homeworld-3-trailer-ships-news)
  - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/02/15/planet-of-the-discounts-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
