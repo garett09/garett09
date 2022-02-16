@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst feeling](http://9gag.com/gag/aVxxZey)
- - 🚯 [Unclogging a drainage pipe](http://9gag.com/gag/a9115eo)
- - 🚯 [Well, I&#39;m working even saturdays in my shitty country](http://9gag.com/gag/axBB6ED)<!-- MEMES:END -->
+ - 🚖 [This is 11.600 years old](http://9gag.com/gag/aeggZ5b)
+ - 🚯 [Business is boomin&#39;t.](http://9gag.com/gag/aXrr7n6)
+ - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)<!-- MEMES:END -->
 
 --- 
 
