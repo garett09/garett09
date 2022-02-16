@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I googled Indian Metal, was not dissappointed. In fact I was f*king impressed](http://9gag.com/gag/ay99RX8)
- - 🚯 [Want to learn some german from Karen?](http://9gag.com/gag/a911Xzj)
- - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)<!-- MEMES:END -->
+ - 🚖 [Is this hell?](http://9gag.com/gag/agggEgx)
+ - 🚯 [Breizh da viken](http://9gag.com/gag/aDDDXgw)
+ - 🚯 [Hobbi vas\u00fat.](http://9gag.com/gag/abggQ89)<!-- MEMES:END -->
 
 --- 
 
