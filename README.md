@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It has been remade](http://9gag.com/gag/aZrrQ7X)
- - 🚯 [Before Ford, people used to work even 100 hours weeks. We should move forward.](http://9gag.com/gag/adggQ4j)
+ - 🚖 [Pel\u00e9golas](http://9gag.com/gag/aVxxm1d)
+ - 🚯 [It has been remade](http://9gag.com/gag/aZrrQ7X)
  - 🚯 [The result when you simply trust the author&#39;s vision](http://9gag.com/gag/a111Dxw)<!-- MEMES:END -->
 
 --- 
