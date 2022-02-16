@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 wedding pack delayed, but will come to Russia after all](https://www.polygon.com/22937768/the-sims-4-wedding-stories-dlc-russia-release-date-delayed)
- - [The Cuphead Show! team grappled with the animation’s racist history from the start](https://www.polygon.com/22937541/the-cuphead-show-interview-racism-animation-history)
- - [Internet Horror Legend Sees Incredible Reimagining After Over A Decade Of Tensions](https://kotaku.com/scp-foundation-173-4chan-izumi-kato-control-horror-cree-1848550692)<!-- GAME:END -->
+ - [Sims 4’s Queer-Friendly Wedding Expansion To Be Released In Russia After Community &#39;Outpouring&#39;](https://kotaku.com/ea-sims-4-my-wedding-stories-expansion-russia-homophobi-1848551592)
+ - [PSA: Rescue your old 3DS Pokémon before the Nintendo eShop shutdown](https://www.polygon.com/22937783/pokemon-bank-nintendo-eshop-3ds-transfer)
+ - [Halo Infinite Forge mode supposedly leaked in new in-depth video](https://www.polygon.com/22937787/halo-infinite-forge-leaked-footage-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
