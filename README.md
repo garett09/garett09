@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with longtime Wikipedia contributor Molly White about her website &quot;Web3 is going just great&quot;, why Web3 won&#39;t create new Wikipedia-style projects, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220216/p27#a220216p27)
- - [Twitter is now letting developers add labels to bot accounts](https://www.theverge.com/2022/2/16/22937435/twitter-labels-automated-bot-accounts)
- - [The Asus ROG Strix Flare II Animate: feature-packed, but overpriced](https://www.theverge.com/22913232/asus-rog-strix-flare-ii-animate-gaming-keyboard-review)<!-- TECH:END -->
+ - [Apple TV+ to debut new original film, four new series at SXSW Film Festival](https://appleinsider.com/articles/22/02/16/apple-tv-to-debut-new-original-film-four-new-series-at-sxsw-film-festival?utm_medium=rss)
+ - [Twitter now lets bot account holders add a label to indicate their tweets are automated, rolling out globally today after a test in September &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220216/p28#a220216p28)
+ - [The Last of Us HBO show won’t be out this year](https://www.theverge.com/2022/2/16/22937730/the-last-of-us-hbo-tv-show-series-release-date-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
