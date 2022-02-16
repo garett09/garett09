@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Want to learn some german from Karen?](http://9gag.com/gag/a911Xzj)
- - 🚯 [Bitter truth](http://9gag.com/gag/a811241)
- - 🚯 [This is what 26 seconds of brrrrtttt sounds like.](http://9gag.com/gag/a111LBP)<!-- MEMES:END -->
+ - 🚯 [I googled Indian Metal, was not dissappointed. In fact I was f*king impressed](http://9gag.com/gag/ay99RX8)
+ - 🚯 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)<!-- MEMES:END -->
 
 --- 
 
