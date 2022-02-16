@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ to debut new original film, four new series at SXSW Film Festival](https://appleinsider.com/articles/22/02/16/apple-tv-to-debut-new-original-film-four-new-series-at-sxsw-film-festival?utm_medium=rss)
- - [Twitter now lets bot account holders add a label to indicate their tweets are automated, rolling out globally today after a test in September &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220216/p28#a220216p28)
- - [The Last of Us HBO show won’t be out this year](https://www.theverge.com/2022/2/16/22937730/the-last-of-us-hbo-tv-show-series-release-date-2023)<!-- TECH:END -->
+ - [Cisco reports Q2 revenue of $12.7B, up 6% YoY, Internet for the Future revenue of $1.32B, up 42% YoY, Hybrid Work revenue of $1.07B, down 9% YoY; stock up 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220216/p32#a220216p32)
+ - [Meta’s policy lead Nick Clegg gets a presidential new title](https://www.theverge.com/2022/2/16/22937673/meta-policy-lead-nick-clegg-promoted-new-title-policy)
+ - [Crypto exchange Binance.US is reportedly dealing with an SEC investigation](https://www.theverge.com/2022/2/16/22937534/binance-sec-investigation-cryptocurrency-relationship-trading-firms-changpen-zhao)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
