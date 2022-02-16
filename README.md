@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing Uncharted to the Big Screen](https://blog.playstation.com/2022/02/16/bringing-uncharted-to-the-big-screen/)
- - [Xbox, New York Liberty, and Brooklyn Nets Team Up to Launch Jnr.Ballers](https://news.xbox.com/en-us/2022/02/16/jnr-ballers-announce/)
- - [Bringing Uncharted to the Big Screen](https://blog.playstation.com/2022/02/16/bringing-uncharted-to-the-big-screen/)<!-- GAME:END -->
+ - [Customize your Kaiju in Dawn of the Monsters](https://blog.playstation.com/2022/02/16/customize-your-kaiju-in-dawn-of-the-monsters/)
+ - [Customize your Kaiju in Dawn of the Monsters](https://blog.playstation.com/2022/02/16/customize-your-kaiju-in-dawn-of-the-monsters/)
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
