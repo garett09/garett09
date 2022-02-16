@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Community Day dates for March, April, and May 2022 announced](https://www.polygon.com/22937638/pokemon-go-community-day-march-april-may-2022)
- - [Sorry, Re-Logic isn&#39;t teasing Terraria 2, it&#39;s just &#39;good fun&#39; banter with fans](https://www.pcgamer.com/sorry-re-logic-isnt-teasing-terraria-2-its-just-good-fun-banter-with-fans)
- - [You’re not imagining it — Wordle’s been changed for the New York Times](https://www.polygon.com/22937637/wordle-new-york-times-publisher-changes-words-profanity)<!-- GAME:END -->
+ - [The Sims 4 wedding pack delayed, but will come to Russia after all](https://www.polygon.com/22937768/the-sims-4-wedding-stories-dlc-russia-release-date-delayed)
+ - [The Cuphead Show! team grappled with the animation’s racist history from the start](https://www.polygon.com/22937541/the-cuphead-show-interview-racism-animation-history)
+ - [Internet Horror Legend Sees Incredible Reimagining After Over A Decade Of Tensions](https://kotaku.com/scp-foundation-173-4chan-izumi-kato-control-horror-cree-1848550692)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
