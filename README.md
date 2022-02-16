@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz announces high-performance AMG version of its EQE electric sedan](https://www.theverge.com/2022/2/15/22934863/mercedes-benz-amg-eqe-electric-sedan-ev)
- - [Baby Shark is getting a full-length movie](https://www.theverge.com/2022/2/15/22936250/baby-shark-movie-paramount-plus-announcement)
- - [Mophie Portable Magnetic Stand review: A MagSafe solution with a premium price](https://appleinsider.com/articles/22/02/15/mophie-portable-magnetic-stand-review-a-magsafe-solution-with-a-premium-price?utm_medium=rss)<!-- TECH:END -->
+ - [Global smartphone data speeds are up thanks to 5G rollout](https://appleinsider.com/articles/22/02/16/global-smartphone-data-speeds-are-up-thanks-to-5g-rollout?utm_medium=rss)
+ - [Maserati Grecale SUV to Debut on March 22     - Roadshow](https://www.cnet.com/roadshow/news/maserati-grecale-suv-debut-march-22/#ftag=CAD590a51e)
+ - [Maserati Teases Grecale SUV Ahead of March Debut     - Roadshow](https://www.cnet.com/roadshow/pictures/maserati-teases-grecale-suv-march-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
