@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take on Sea of Thieves First Adventure in “Shrouded Islands,” Live Until March 3](https://news.xbox.com/en-us/2022/02/17/sea-of-thieves-first-adventure-shrouded-islands-live-until-march-3/)
- - [Hell yeah, drag and drop into taskbar is finally in Windows 11](https://www.pcgamer.com/hell-yeah-drag-and-drop-into-taskbar-is-finally-in-windows-11)
- - [How to conquer the Realms of Chaos in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-realms-of-chaos)<!-- GAME:END -->
+ - [Enter the World of Total War: Warhammer III Today with PC Game Pass](https://news.xbox.com/en-us/2022/02/17/enter-the-world-of-total-war-warhammer-3-today-with-pc-game-pass/)
+ - [Everything You Need To Know About Horizon Zero Dawn’s Story Before You Play Forbidden West](https://kotaku.com/horizon-forbidden-west-zero-dawn-lore-recap-what-happen-1848550996)
+ - [AMD&#39;s &#39;fundamental&#39; 6nm Ryzen upgrade promises &#39;massive increase in yield&#39;](https://www.pcgamer.com/amds-fundamental-6nm-ryzen-upgrade-promises-massive-increase-in-yield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
