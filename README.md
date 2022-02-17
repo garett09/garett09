@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [NBA Player&#39;s Pokémon Game Interrupted By All-Star Announcement](https://kotaku.com/jarrett-allen-cavs-all-star-pokemon-arceus-legends-nba-1848551793)<!-- GAME:END -->
+ - [I built a city on a monster&#39;s back and used a trebuchet to feed it mushrooms in The Wandering Village](https://www.pcgamer.com/i-cherish-this-giant-monster-carrying-my-city-around-in-the-wandering-village)
+ - [Free Play Days – NBA 2K22 and NASCAR 21: Ignition](https://news.xbox.com/en-us/2022/02/17/free-play-days-nba-2k22-and-nascar-21-ignition/)
+ - [Eve Spectrum gaming monitor going glossy due to popular demand](https://www.pcgamer.com/eve-spectrum-gaming-monitor-going-glossy-due-to-popular-demand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
