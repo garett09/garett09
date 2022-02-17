@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is getting the Xbox HDR calibration app and better windowed gaming](https://www.theverge.com/2022/2/17/22938703/windows-11-xbox-hdr-calibration-app-windowed-gaming-optimizations)
- - [Okta&#39;s CMO leaves the company, replaced by its CDO, following numerous executive departures, including its CFO, president of tech, and SVP of product management &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/220217/p8#a220217p8)
- - [An in-depth look at Privacy Sandbox for Android: a two-year transition with ad industry input, a marked change from Apple&#39;s ATT, which had little external input &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/220217/p7#a220217p7)<!-- TECH:END -->
+ - [Mozilla warns that Firefox and Chrome 100 versions may break some sites, including HBO Go and Yahoo, due to user-agent strings with three-digit version numbers &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220217/p11#a220217p11)
+ - [Daily Authority: 💻 Samsung has more to Unpack](https://www.androidauthority.com/da-february-17-2022-3110939/)
+ - [If Russia Invades Ukraine, TikTok Will See It Up Close](https://www.wired.com/story/russia-ukraine-military-photos-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
