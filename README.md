@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s ‘smart canvas’ vision for Workspace is bringing a pageless interface to Docs](https://www.theverge.com/2022/2/16/22935824/google-workspace-pageless-smart-canvas-ai-sheets-office-docs-sheets)
- - [Samsung has another Galaxy Unpacked ready to go: Details here!](https://www.androidauthority.com/galaxy-unpacked-2022-mwc-3110569/)
- - [Zhiyun Weebill 2 review: A professional gimbal you can control from your iPhone](https://appleinsider.com/articles/22/02/16/zhiyun-weebill-2-review-a-professional-gimbal-you-can-control-from-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Windows 11 Preview build includes a customizable Start menu, five new touch gestures, Snap Layouts improvements, Live Captions, Task Manager redesign, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220216/p38#a220216p38)
+ - [Meta’s policy lead Nick Clegg gets a presidential new title](https://www.theverge.com/2022/2/16/22937673/meta-policy-lead-nick-clegg-promoted-new-title-policy)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
