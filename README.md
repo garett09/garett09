@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: The Old Republic&#39;s Legacy of the Sith expansion has gone down like the Holiday Special](https://www.pcgamer.com/star-wars-the-old-republics-legacy-of-the-sith-expansion-has-gone-down-like-the-holiday-special)
- - [Windows 11 improves windowed gaming experience for cursed gamers who shun fullscreen](https://www.pcgamer.com/windows-11-improves-windowed-gaming-experience-for-cursed-gamers-who-shun-fullscreen)
- - [Hannspree HG392PCB](https://www.pcgamer.com/hannspree-hg392pcb-gaming-monitor-review)<!-- GAME:END -->
+ - [How to conquer the Realms of Chaos in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-realms-of-chaos)
+ - [Platinum Games On NFTs: &quot;No Positive Impact&quot; And &quot;Zero Interest&quot;](https://kotaku.com/platinum-games-bayonetta-atsushi-inaba-hideki-kamiya-ja-1848553370)
+ - [New Windows 11 Task Manager lets you put greedy programs in eco-jail](https://www.pcgamer.com/new-windows-11-task-manager-lets-you-put-greedy-programs-in-eco-jail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
