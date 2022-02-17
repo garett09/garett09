@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix reveals Stranger Things season 4 release dates, final season plans](https://www.polygon.com/stranger-things/22939023/stranger-things-season-4-release-date-5-final-season)
- - [Blast Your Way out of Bullet Hell in Scathe – The New Action-Packed FPS Coming Soon to Xbox Series X|S](https://news.xbox.com/en-us/2022/02/17/blast-your-way-out-of-bullet-hell-in-scathe-the-new-action-packed-fps-coming-soon-to-xbox-series-xs/)
- - [Score More with Xbox to Earn Rewards, Prizes and More](https://news.xbox.com/en-us/2022/02/17/score-more-with-xbox-to-earn-rewards-prizes-and-more/)<!-- GAME:END -->
+ - [No Man’s Sky will continue seeing updates for the foreseeable future](https://www.polygon.com/22939045/no-mans-sky-updates-sean-murray-interview)
+ - [Exclusive Signed Starfield Art Giveaway](https://news.xbox.com/en-us/2022/02/17/exclusive-signed-starfield-art-giveaway/)
+ - [Kickstarter is pumping the brakes on blockchain tech, but the car is still moving](https://www.polygon.com/22938852/kickstarter-blockchain-delay-white-paper-advisory-council)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
