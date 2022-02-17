@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finland-based Relex Solutions, which helps retailers predict demand using AI, raises &amp;euro;500M at a &amp;euro;5B valuation, bringing its total funding to &amp;euro;700M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220217/p5#a220217p5)
- - [Microsoft is testing one of Android’s best accessibility features in Windows 11](https://www.androidauthority.com/live-caption-windows-11-3110735/)
- - [Oppo releases official images of new Find X5 flagship phone](https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time)<!-- TECH:END -->
+ - [We asked, you told us: You’d take 128GB + microSD over fixed 256GB storage](https://www.androidauthority.com/128gb-microsd-256gb-fixed-poll-results-3110781/)
+ - [Firefox&#39;s market share decline is pushing Mozilla to diversify its revenue, such as through browser personalization, as it seeks independence from Google deals &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220217/p6#a220217p6)
+ - [Finland-based Relex Solutions, which helps retailers predict demand using AI, raises &amp;euro;500M at a &amp;euro;5B valuation, bringing its total funding to &amp;euro;700M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220217/p5#a220217p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
