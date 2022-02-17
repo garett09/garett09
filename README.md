@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo releases official images of new Find X5 flagship phone](https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time)
- - [Q&amp;A with Glen Neumann, creator of @ResNeXtGuesser, a Twitter bot that uses a neural network, ResNeXt, to attempt to correctly identify bizarre viral images &lpar;Hayden Field/Morning Brew&rpar;](http://www.techmeme.com/220217/p4#a220217p4)
- - [Amazon reaches an agreement to accept Visa cards globally and will no longer charge Visa users an extra fee in Singapore and Australia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p3#a220217p3)<!-- TECH:END -->
+ - [Finland-based Relex Solutions, which helps retailers predict demand using AI, raises &amp;euro;500M at a &amp;euro;5B valuation, bringing its total funding to &amp;euro;700M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220217/p5#a220217p5)
+ - [Microsoft is testing one of Android’s best accessibility features in Windows 11](https://www.androidauthority.com/live-caption-windows-11-3110735/)
+ - [Oppo releases official images of new Find X5 flagship phone](https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
