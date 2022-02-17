@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And who is this master?](http://9gag.com/gag/aoggAGA)
- - 🚯 [Slavic minimalism](http://9gag.com/gag/aAGGqW2)
- - 🚯 [Must lift heavy stones](http://9gag.com/gag/aqGGBNj)<!-- MEMES:END -->
+ - 🚖 [She tried lol](http://9gag.com/gag/aDDDNvZ)
+ - 🚯 [Scorpion King Harvester](http://9gag.com/gag/aE88jRe)
+ - 🚯 [Mom\u2019s spaghetti](http://9gag.com/gag/awzz944)<!-- MEMES:END -->
 
 --- 
 
