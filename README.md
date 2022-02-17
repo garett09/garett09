@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)
- - 🚯 [How the turntables](http://9gag.com/gag/adggRwV)
- - 🚯 [Younger Karen in training](http://9gag.com/gag/avAAvzE)<!-- MEMES:END -->
+ - 🚖 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
+ - 🚯 [Hobbi vas\u00fat.](http://9gag.com/gag/abggQ89)
+ - 🚯 [How the turntables](http://9gag.com/gag/adggRwV)<!-- MEMES:END -->
 
 --- 
 
