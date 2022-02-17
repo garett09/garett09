@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
- - 🚯 [Training 101](http://9gag.com/gag/aoggd20)
- - 🚯 [This is what happens when you road rage on a man and put his family in danger - Sweet, sweet car-ma](http://9gag.com/gag/a611G1R)<!-- MEMES:END -->
+ - 🚖 [Merchant sailors are the forgotten army keeping the world ticking over.](http://9gag.com/gag/a711APA)
+ - 🚯 [Almost cross my bingo](http://9gag.com/gag/aVxxdXM)
+ - 🚯 [The new one piece series on netflix looks dope](http://9gag.com/gag/aVxxd2n)<!-- MEMES:END -->
 
 --- 
 
