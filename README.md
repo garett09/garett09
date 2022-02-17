@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
- - 🚯 [Karen demands dirtbike to be put in silent mode](http://9gag.com/gag/a0ZZWvq)
- - 🚯 [What a brawl](http://9gag.com/gag/aE88NRp)<!-- MEMES:END -->
+ - 🚖 [What a brawl](http://9gag.com/gag/aE88NRp)
+ - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)
+ - 🚯 [I concur](http://9gag.com/gag/aVxxd1K)<!-- MEMES:END -->
 
 --- 
 
