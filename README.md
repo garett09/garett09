@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s Thursday problems appear to be fixed](https://www.theverge.com/2022/2/17/22939109/twitter-outage-down-problems-again)
- - [The US adds AliExpress and WeChat to its annual list of markets for counterfeiting and piracy; Pinduoduo and Taobao remain on the list &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p23#a220217p23)
- - [Save 35% on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)<!-- TECH:END -->
+ - [Peloton’s Lanebreak video game is finally here](https://www.theverge.com/2022/2/17/22939177/peloton-lanebreak-video-game-fitness-bikes)
+ - [Voltron Data, which builds tools based on the Apache Arrow open source project, raises a $22M seed and an $88M Series A &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220217/p25#a220217p25)
+ - [Amanda Seyfried joins Apple TV+ anthology series &#39;The Crowded Room&#39;](https://appleinsider.com/articles/22/02/17/amanda-seyfried-joins-apple-tv-anthology-series-the-crowded-room?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
