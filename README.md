@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA clears first smartphone app for insulin delivery](https://www.theverge.com/2022/2/17/22938844/fda-insulin-delivery-smartphone-app-tandem)
- - [Tesla’s ‘phantom braking’ problem is now being investigated by the US government](https://www.theverge.com/2022/2/17/22938944/tesla-phantom-braking-nhtsa-investigation-defect)
- - [Poll: Do you use floating app windows on your phone?](https://www.androidauthority.com/floating-app-windows-poll-3107897/)<!-- TECH:END -->
+ - [DOJ establishes the National Cryptocurrency Enforcement Team to investigate illegal schemes run by criminals and countries like North Korea and Iran &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/220217/p20#a220217p20)
+ - [This New Platform Can Give AR Apps a Memory Boost](https://www.wired.com/story/perceptus-augmented-reality-object-tracking)
+ - [Intel’s first discrete Arc desktop GPUs are coming in Q2 2022](https://www.theverge.com/2022/2/17/22939025/intel-geforce-now-arc-gpu-q2-project-endgame-desktop-laptop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
