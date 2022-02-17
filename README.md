@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky will continue seeing updates for the foreseeable future](https://www.polygon.com/22939045/no-mans-sky-updates-sean-murray-interview)
- - [Exclusive Signed Starfield Art Giveaway](https://news.xbox.com/en-us/2022/02/17/exclusive-signed-starfield-art-giveaway/)
- - [Kickstarter is pumping the brakes on blockchain tech, but the car is still moving](https://www.polygon.com/22938852/kickstarter-blockchain-delay-white-paper-advisory-council)<!-- GAME:END -->
+ - [The King of Fighters XV Launches Today for Xbox Series X|S](https://news.xbox.com/en-us/2022/02/17/the-king-of-fighters-xv-launches-today-for-xbox-series-xs/)
+ - [The Last of Us HBO show won’t debut until 2023](https://www.polygon.com/22939229/the-last-of-us-hbo-show-debut-2023)
+ - [I Can&#39;t Stop Ogling Horizon Forbidden West&#39;s Wind](https://kotaku.com/horizon-forbidden-west-ps5-wind-guerrilla-games-open-wo-1848555502)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
