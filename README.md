@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: ISS tells clients that Apple investors should vote against Tim Cook&#39;s $99M pay and bonus package, citing &quot;concern&quot; over stock award Cook received in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/220217/p13#a220217p13)
- - [Future AirPods may know when you cheat on Apple Fitness+](https://appleinsider.com/articles/22/02/17/future-airpods-may-know-when-you-cheat-on-apple-fitness?utm_medium=rss)
- - [A look at tech recruitment issues as the US unemployment rate for tech workers is 1.7% and 0.2% for cybersecurity experts, well below 4% for the general economy &lpar;Susan Dominus/New York Times&rpar;](http://www.techmeme.com/220217/p12#a220217p12)<!-- TECH:END -->
+ - [Major websites may stop working soon for Firefox and Chrome users](https://appleinsider.com/articles/22/02/17/major-websites-may-stop-working-soon-for-firefox-and-chrome-users?utm_medium=rss)
+ - [Total War: Warhammer III Is an Epic Final Chapter](https://www.wired.com/review/total-war-warhammer-3)
+ - [The Best Vibrators and Sex Toys for Every Body](https://www.wired.com/gallery/best-sex-toys-and-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
