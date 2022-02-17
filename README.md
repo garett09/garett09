@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s free real estate](http://9gag.com/gag/aE88Om9)
- - 🚯 [First time living all by my own and I love it](http://9gag.com/gag/aBnn4OZ)
- - 🚯 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)<!-- MEMES:END -->
+ - 🚖 [You can be cool but never as cool as this instructor hanging out from a plane one hand Tom Cruise style while telling their students to hurry up](http://9gag.com/gag/aoggYNx)
+ - 🚯 [How the turntables](http://9gag.com/gag/adggRwV)
+ - 🚯 [Younger Karen in training](http://9gag.com/gag/avAAvzE)<!-- MEMES:END -->
 
 --- 
 
