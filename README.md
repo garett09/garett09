@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The King of Fighters XV Launches Today for Xbox Series X|S](https://news.xbox.com/en-us/2022/02/17/the-king-of-fighters-xv-launches-today-for-xbox-series-xs/)
- - [The Last of Us HBO show won’t debut until 2023](https://www.polygon.com/22939229/the-last-of-us-hbo-show-debut-2023)
- - [I Can&#39;t Stop Ogling Horizon Forbidden West&#39;s Wind](https://kotaku.com/horizon-forbidden-west-ps5-wind-guerrilla-games-open-wo-1848555502)<!-- GAME:END -->
+ - [Baz Luhrmann’s Elvis trailer is superhero cinema at its best](https://www.polygon.com/22939383/baz-luhrmanns-elvis-first-trailer)
+ - [Fistful of Vengeance gives Netflix’s Wu Assassins a messy, gritty wrap-up](https://www.polygon.com/reviews/22939282/fistful-of-vengeance-review-netflix)
+ - [Cyberpunk 2077’s PS5 Controller Haptics Are A Real Game-Changer](https://kotaku.com/cyberpunk-2077-ps5-dualsense-adaptive-triggers-haptics-1848555973)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
