@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Betty](http://9gag.com/gag/aNPP36A)
- - 🚯 [The new one piece series on netflix looks dope](http://9gag.com/gag/aVxxd2n)
- - 🚯 [Trudeau: &#39;Finally, I have stopped them&#39; The truckers:](http://9gag.com/gag/aYrrdnx)<!-- MEMES:END -->
+ - 🚖 [I want the manager of the Airport](http://9gag.com/gag/apggd7b)
+ - 🚯 [Do it!](http://9gag.com/gag/agggjEx)
+ - 🚯 [This child revealing his hand from under a crocodile puppet because the parent is scared](http://9gag.com/gag/aoggdRA)<!-- MEMES:END -->
 
 --- 
 
