@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk tells a judge the SEC’s ‘endless’ investigation is stifling his free speech](https://www.theverge.com/2022/2/17/22938823/elon-musk-sec-investigation-free-speech-tesla)
- - [New &#39;iPhone 14 Pro&#39; said to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)
- - [Did you know: There were smartphones with dedicated Facebook buttons](https://www.androidauthority.com/smartphones-dedicated-facebook-buttons-3108988/)<!-- TECH:END -->
+ - [FDA clears first smartphone app for insulin delivery](https://www.theverge.com/2022/2/17/22938844/fda-insulin-delivery-smartphone-app-tandem)
+ - [Tesla’s ‘phantom braking’ problem is now being investigated by the US government](https://www.theverge.com/2022/2/17/22938944/tesla-phantom-braking-nhtsa-investigation-defect)
+ - [Poll: Do you use floating app windows on your phone?](https://www.androidauthority.com/floating-app-windows-poll-3107897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
