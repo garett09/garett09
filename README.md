@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to conquer the Realms of Chaos in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-realms-of-chaos)
- - [Platinum Games On NFTs: &quot;No Positive Impact&quot; And &quot;Zero Interest&quot;](https://kotaku.com/platinum-games-bayonetta-atsushi-inaba-hideki-kamiya-ja-1848553370)
- - [New Windows 11 Task Manager lets you put greedy programs in eco-jail](https://www.pcgamer.com/new-windows-11-task-manager-lets-you-put-greedy-programs-in-eco-jail)<!-- GAME:END -->
+ - [Take on Sea of Thieves First Adventure in “Shrouded Islands,” Live Until March 3](https://news.xbox.com/en-us/2022/02/17/sea-of-thieves-first-adventure-shrouded-islands-live-until-march-3/)
+ - [Hell yeah, drag and drop into taskbar is finally in Windows 11](https://www.pcgamer.com/hell-yeah-drag-and-drop-into-taskbar-is-finally-in-windows-11)
+ - [How to conquer the Realms of Chaos in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-realms-of-chaos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
