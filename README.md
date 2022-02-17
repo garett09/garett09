@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I concur](http://9gag.com/gag/aVxxd1K)
- - 🚯 [Unpacking](http://9gag.com/gag/aAGGNYE)
+ - 🚖 [Unpacking](http://9gag.com/gag/aAGGNYE)
+ - 🚯 [This doggo parent covering up for its puppy is the most wholesome thing I saw today](http://9gag.com/gag/aQXXB9r)
  - 🚯 [Life is not fair](http://9gag.com/gag/abggmOX)<!-- MEMES:END -->
 
 --- 
