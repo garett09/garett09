@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say automated transcription app Otter.ai and its competitors offer only lax security that could endanger sources &lpar;Phelim Kine/Politico&rpar;](http://www.techmeme.com/220216/p42#a220216p42)
- - [Equip, which connects young patients with therapists and other specialists to treat eating disorders at home, raises a $58M Series B led by The Chernin Group &lpar;Ruth Reader/Fast Company&rpar;](http://www.techmeme.com/220216/p41#a220216p41)
- - [5ire, a sustainability-focused Layer 1 blockchain with an exchange, wallet, NFT marketplace, and VC fund, raises $100M, after a $21M seed at a $110M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/220216/p40#a220216p40)<!-- TECH:END -->
+ - [Amazon reaches an agreement to accept Visa cards globally and will no longer charge Visa users an extra fee in Singapore and Australia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p3#a220217p3)
+ - [App Annie rebrands as Data.ai and partners with Similarweb, which will use Data.ai&#39;s mobile app and market data in an upcoming product &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220217/p2#a220217p2)
+ - [Global financial watchdog FSB warns digital assets could soon threaten financial stability as they become more interconnected with the wider financial system &lpar;Tom Metcalf/Bloomberg&rpar;](http://www.techmeme.com/220217/p1#a220217p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
