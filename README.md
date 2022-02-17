@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [This journalist’s Otter.ai scare is a reminder that cloud transcription isn’t completely private](https://www.theverge.com/2022/2/16/22937766/go-read-this-otter-ai-transcription-data-privacy-report)
- - [Valve partners with iFixit to sell replacement parts for Steam Deck and Valve Index VR on iFixit.com &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/220216/p39#a220216p39)
- - [Apple announces &quot;The Big Conn&quot; true crime docuseries and podcast](https://appleinsider.com/articles/22/02/17/apple-announces-the-big-conn-true-crime-docuseries-and-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)
+ - [Valve partners with iFixit to sell replacement parts for Steam Deck and Valve Index VR on iFixit.com &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/220216/p39#a220216p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
