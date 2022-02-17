@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ establishes the National Cryptocurrency Enforcement Team to investigate illegal schemes run by criminals and countries like North Korea and Iran &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/220217/p20#a220217p20)
- - [This New Platform Can Give AR Apps a Memory Boost](https://www.wired.com/story/perceptus-augmented-reality-object-tracking)
- - [Intel’s first discrete Arc desktop GPUs are coming in Q2 2022](https://www.theverge.com/2022/2/17/22939025/intel-geforce-now-arc-gpu-q2-project-endgame-desktop-laptop)<!-- TECH:END -->
+ - [Twitter’s Thursday problems appear to be fixed](https://www.theverge.com/2022/2/17/22939109/twitter-outage-down-problems-again)
+ - [The US adds AliExpress and WeChat to its annual list of markets for counterfeiting and piracy; Pinduoduo and Taobao remain on the list &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p23#a220217p23)
+ - [Save 35% on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
