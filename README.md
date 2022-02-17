@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the value of Spotify&#39;s deal with Joe Rogan, which covers three and a half years, was at least $200M, twice the $100M that reports suggested at the time &lpar;New York Times&rpar;](http://www.techmeme.com/220217/p27#a220217p27)
- - [Pour one out for Crucial Ballistix memory — Micron’s killing off the brand](https://www.theverge.com/2022/2/17/22939354/crucial-ballistix-ram-ddr-memory-end-of-life-discontinued)
- - [Simple Google Assistant commands failing you? You’re not alone. &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-assistant-commands-fail-feb-22-3111199/)<!-- TECH:END -->
+ - [US Agencies Say Russian Hackers Compromised Defense Contractors](https://www.wired.com/story/us-says-russian-hackers-compromised-defense-contractors)
+ - [Spotify reportedly paid $200 million for Joe Rogan’s podcast](https://www.theverge.com/2022/2/17/22939587/joe-rogan-experience-spotify-podcast-deal)
+ - [Apple announces &quot;The Big Conn&quot; true crime docuseries and podcast](https://appleinsider.com/articles/22/02/17/apple-announces-the-big-conn-true-crime-docuseries-and-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
