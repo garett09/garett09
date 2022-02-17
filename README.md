@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hector](http://9gag.com/gag/aOQQnpN)
- - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)
- - 🚯 [When you forget your house is made of cardboard](http://9gag.com/gag/aWggPnn)<!-- MEMES:END -->
+ - 🚖 [AntiVaxx Cat](http://9gag.com/gag/aNPPG2K)
+ - 🚯 [When you forget your house is made of cardboard](http://9gag.com/gag/aWggPnn)
+ - 🚯 [Hector](http://9gag.com/gag/aOQQnpN)<!-- MEMES:END -->
 
 --- 
 
