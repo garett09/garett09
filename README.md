@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 Preview build includes a customizable Start menu, five new touch gestures, Snap Layouts improvements, Live Captions, Task Manager redesign, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220216/p38#a220216p38)
- - [Meta’s policy lead Nick Clegg gets a presidential new title](https://www.theverge.com/2022/2/16/22937673/meta-policy-lead-nick-clegg-promoted-new-title-policy)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Valve partners with iFixit to sell replacement parts for Steam Deck and Valve Index VR on iFixit.com &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/220216/p39#a220216p39)
+ - [Apple announces &quot;The Big Conn&quot; true crime docuseries and podcast](https://appleinsider.com/articles/22/02/17/apple-announces-the-big-conn-true-crime-docuseries-and-podcast?utm_medium=rss)
+ - [Oppo Find X5 Pro: Here’s the official launch date and time](https://www.androidauthority.com/oppo-find-x5-pro-launch-3110485/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
