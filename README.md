@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4’s Queer-Friendly Wedding Expansion To Be Released In Russia After Community &#39;Outpouring&#39;](https://kotaku.com/ea-sims-4-my-wedding-stories-expansion-russia-homophobi-1848551592)
- - [PSA: Rescue your old 3DS Pokémon before the Nintendo eShop shutdown](https://www.polygon.com/22937783/pokemon-bank-nintendo-eshop-3ds-transfer)
- - [Halo Infinite Forge mode supposedly leaked in new in-depth video](https://www.polygon.com/22937787/halo-infinite-forge-leaked-footage-release)<!-- GAME:END -->
+ - [Crusader Kings III Is Even Better In 2022](https://kotaku.com/crusader-kings-iii-royal-court-review-impressions-parad-1848538094)
+ - [Why Belfast deserves to win Best Picture](https://www.polygon.com/22937477/belfast-deserves-to-win-best-picture-oscar)
+ - [Nacon acquires Daedalic Entertainment for $60 million](https://www.pcgamer.com/nacon-acquires-daedalic-entertainment-for-dollar60-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
