@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel has some grand plans that may shake up the CPU industry as we know it](https://www.pcgamer.com/intel-has-some-grand-plans-that-may-shake-up-the-cpu-industry-as-we-know-it)
- - [Celebrate 20 years of regular AMD driver updates with this new driver update](https://www.pcgamer.com/celebrate-20-years-of-regular-amd-driver-updates-with-this-new-driver-update)
- - [I built a city on a monster&#39;s back and used a trebuchet to feed it mushrooms in The Wandering Village](https://www.pcgamer.com/i-cherish-this-giant-monster-carrying-my-city-around-in-the-wandering-village)<!-- GAME:END -->
+ - [Star Wars: The Old Republic&#39;s Legacy of the Sith expansion has gone down like the Holiday Special](https://www.pcgamer.com/star-wars-the-old-republics-legacy-of-the-sith-expansion-has-gone-down-like-the-holiday-special)
+ - [Windows 11 improves windowed gaming experience for cursed gamers who shun fullscreen](https://www.pcgamer.com/windows-11-improves-windowed-gaming-experience-for-cursed-gamers-who-shun-fullscreen)
+ - [Hannspree HG392PCB](https://www.pcgamer.com/hannspree-hg392pcb-gaming-monitor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
