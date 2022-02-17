@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Bobby Kotick Has Two Secret Companies Making Big Republican Donations](https://kotaku.com/bobby-kotick-activision-blizzard-microsoft-mitch-mcconn-1848558100)
- - [After Cyberpunk 2077’s Big Update, Dev Says It’s An RPG Now—But Fans Differ](https://kotaku.com/cyberpunk-2077-cd-projekt-red-rpg-action-adventure-upda-1848558018)
- - [As Billions Fly, Ubisoft Analyst Just Wondering Why Nobody Wants To Buy It](https://kotaku.com/ubisoft-far-cry-6-assassin-s-creed-valhalla-acquisition-1848557811)<!-- GAME:END -->
+ - [Find your Fortune on the Fortnite Island with Nathan Drake and Chloe Frazer from the Uncharted Series](https://blog.playstation.com/2022/02/17/find-your-fortune-on-the-fortnite-island-with-nathan-drake-and-chloe-frazer-from-the-uncharted-series/)
+ - [Find your Fortune on the Fortnite Island with Nathan Drake and Chloe Frazer from the Uncharted Series](https://blog.playstation.com/2022/02/17/find-your-fortune-on-the-fortnite-island-with-nathan-drake-and-chloe-frazer-from-the-uncharted-series/)
+ - [Peacemaker ends with a cameo treat for Snyderverse fans](https://www.polygon.com/22939203/peacemaker-finale-justice-league-cameo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
