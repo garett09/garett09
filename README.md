@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trudeau: &#39;Finally, I have stopped them&#39; The truckers:](http://9gag.com/gag/aYrrdnx)
+ - 🚖 [Gif](http://9gag.com/gag/axBBnMb)
  - 🚯 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
- - 🚯 [Karen demands dirtbike to be put in silent mode](http://9gag.com/gag/a0ZZWvq)<!-- MEMES:END -->
+ - 🚯 [5G Karen](http://9gag.com/gag/axBBA5M)<!-- MEMES:END -->
 
 --- 
 
