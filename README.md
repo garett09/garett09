@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [NBA Player&#39;s Pokémon Game Interrupted By All-Star Announcement](https://kotaku.com/jarrett-allen-cavs-all-star-pokemon-arceus-legends-nba-1848551793)
- - [MSI has a complete range of motherboards to suit any 12th Gen build](https://www.pcgamer.com/msi-has-a-complete-range-of-motherboards-to-suit-any-12th-gen-build)<!-- GAME:END -->
+ - [Wonder Woman: Everything we know about Monolith&#39;s comic adaptation](https://www.pcgamer.com/wonder-woman-game-trailer-nemesis-system)
+ - [Activision Blizzard lawsuit inches closer to trial with judge&#39;s decision to include temp workers](https://www.pcgamer.com/activision-blizzard-lawsuit-inches-closer-to-trial-with-judges-decision-to-include-temp-workers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
