@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True love :&rpar;](http://9gag.com/gag/abggRNv)
- - 🚯 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
- - 🚯 [First time living all by my own and I love it](http://9gag.com/gag/aBnn4OZ)<!-- MEMES:END -->
+ - 🚖 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
+ - 🚯 [Training 101](http://9gag.com/gag/aoggd20)
+ - 🚯 [This is what happens when you road rage on a man and put his family in danger - Sweet, sweet car-ma](http://9gag.com/gag/a611G1R)<!-- MEMES:END -->
 
 --- 
 
