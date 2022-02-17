@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Hector](http://9gag.com/gag/aOQQnpN)
- - 🚯 [Pretty jaguar](http://9gag.com/gag/azeevyN)
- - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)<!-- MEMES:END -->
+ - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)
+ - 🚯 [When you forget your house is made of cardboard](http://9gag.com/gag/aWggPnn)<!-- MEMES:END -->
 
 --- 
 
