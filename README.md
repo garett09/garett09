@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
- - 🚯 [5G Karen](http://9gag.com/gag/axBBA5M)
- - 🚯 [She tried lol](http://9gag.com/gag/aDDDNvZ)<!-- MEMES:END -->
+ - 🚯 [Karen demands dirtbike to be put in silent mode](http://9gag.com/gag/a0ZZWvq)
+ - 🚯 [What a brawl](http://9gag.com/gag/aE88NRp)<!-- MEMES:END -->
 
 --- 
 
