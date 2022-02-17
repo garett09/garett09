@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s latest earnings report contains some good news for gamers](https://www.pcgamer.com/nvidias-latest-earnings-report-contains-some-good-news-for-gamers)
  - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [NBA Player&#39;s Pokémon Game Interrupted By All-Star Announcement](https://kotaku.com/jarrett-allen-cavs-all-star-pokemon-arceus-legends-nba-1848551793)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
