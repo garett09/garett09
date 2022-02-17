@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gif](http://9gag.com/gag/axBBnMb)
- - 🚯 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
- - 🚯 [5G Karen](http://9gag.com/gag/axBBA5M)<!-- MEMES:END -->
+ - 🚖 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
+ - 🚯 [5G Karen](http://9gag.com/gag/axBBA5M)
+ - 🚯 [She tried lol](http://9gag.com/gag/aDDDNvZ)<!-- MEMES:END -->
 
 --- 
 
