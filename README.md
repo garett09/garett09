@@ -195,7 +195,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [How the turntables](http://9gag.com/gag/adggRwV)
  - 🚯 [True love :&rpar;](http://9gag.com/gag/abggRNv)
- - 🚯 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)<!-- MEMES:END -->
+ - 🚯 [It&#39;s a legit question. Where did they go? Elrond... what did you do.](http://9gag.com/gag/a811V0O)<!-- MEMES:END -->
 
 --- 
 
