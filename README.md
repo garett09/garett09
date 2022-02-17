@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She tried lol](http://9gag.com/gag/aDDDNvZ)
- - 🚯 [Scorpion King Harvester](http://9gag.com/gag/aE88jRe)
- - 🚯 [Mom\u2019s spaghetti](http://9gag.com/gag/awzz944)<!-- MEMES:END -->
+ - 🚖 [Hector](http://9gag.com/gag/aOQQnpN)
+ - 🚯 [Pretty jaguar](http://9gag.com/gag/azeevyN)
+ - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)<!-- MEMES:END -->
 
 --- 
 
