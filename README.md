@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton’s Lanebreak video game is finally here](https://www.theverge.com/2022/2/17/22939177/peloton-lanebreak-video-game-fitness-bikes)
- - [Voltron Data, which builds tools based on the Apache Arrow open source project, raises a $22M seed and an $88M Series A &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220217/p25#a220217p25)
- - [Amanda Seyfried joins Apple TV+ anthology series &#39;The Crowded Room&#39;](https://appleinsider.com/articles/22/02/17/amanda-seyfried-joins-apple-tv-anthology-series-the-crowded-room?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the value of Spotify&#39;s deal with Joe Rogan, which covers three and a half years, was at least $200M, twice the $100M that reports suggested at the time &lpar;New York Times&rpar;](http://www.techmeme.com/220217/p27#a220217p27)
+ - [Pour one out for Crucial Ballistix memory — Micron’s killing off the brand](https://www.theverge.com/2022/2/17/22939354/crucial-ballistix-ram-ddr-memory-end-of-life-discontinued)
+ - [Simple Google Assistant commands failing you? You’re not alone. &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-assistant-commands-fail-feb-22-3111199/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
