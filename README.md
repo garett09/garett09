@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unpacking](http://9gag.com/gag/aAGGNYE)
- - 🚯 [This doggo parent covering up for its puppy is the most wholesome thing I saw today](http://9gag.com/gag/aQXXB9r)
- - 🚯 [Life is not fair](http://9gag.com/gag/abggmOX)<!-- MEMES:END -->
+ - 🚖 [And who is this master?](http://9gag.com/gag/aoggAGA)
+ - 🚯 [Slavic minimalism](http://9gag.com/gag/aAGGqW2)
+ - 🚯 [Must lift heavy stones](http://9gag.com/gag/aqGGBNj)<!-- MEMES:END -->
 
 --- 
 
