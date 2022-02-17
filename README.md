@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [January iPhone shipments much higher than average in China, data suggests](https://appleinsider.com/articles/22/02/17/january-iphone-shipments-much-higher-than-average-in-china-data-suggests?utm_medium=rss)
- - [Roku Q4: revenue of $865.3M vs. $894M est., up 33% YoY, 60.1M active accounts, up 17% YoY, 19.5B streaming hours, up 15% YoY, stock down 7%+ on weak guidance &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220217/p29#a220217p29)
- - [Major websites may stop working soon for Firefox and Chrome users](https://appleinsider.com/articles/22/02/17/major-websites-may-stop-working-soon-for-firefox-and-chrome-users?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s social VR platform Horizon hits 300,000 users](https://www.theverge.com/2022/2/17/22939297/meta-social-vr-platform-horizon-300000-users)
+ - [Google creates a $100M skills training fund for low-income Americans, with loans repayable only once students obtain jobs paying at least $40K a year &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/220217/p31#a220217p31)
+ - [The best President’s Day sales happening now](https://www.theverge.com/good-deals/22939133/presidents-day-best-sales-2022-tech-deals-headphones-laptops-tvs-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
