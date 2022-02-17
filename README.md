@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As Billions Fly, Ubisoft Analyst Just Wondering Why Nobody Wants To Buy It](https://kotaku.com/ubisoft-far-cry-6-assassin-s-creed-valhalla-acquisition-1848557811)
- - [Activision Blizzard accused of ‘union-busting’ as Raven QA union hearing continues](https://www.polygon.com/22939657/activision-blizzard-raven-software-union-nlrb-hearing)
- - [Magic: The Gathering’s Street Fighter crossover cards get a full reveal](https://www.polygon.com/22937519/secret-lair-magic-the-gathering-street-fighter-crossover-cards-reveal)<!-- GAME:END -->
+ - [Report: Bobby Kotick Has Two Secret Companies Making Big Republican Donations](https://kotaku.com/bobby-kotick-activision-blizzard-microsoft-mitch-mcconn-1848558100)
+ - [After Cyberpunk 2077’s Big Update, Dev Says It’s An RPG Now—But Fans Differ](https://kotaku.com/cyberpunk-2077-cd-projekt-red-rpg-action-adventure-upda-1848558018)
+ - [As Billions Fly, Ubisoft Analyst Just Wondering Why Nobody Wants To Buy It](https://kotaku.com/ubisoft-far-cry-6-assassin-s-creed-valhalla-acquisition-1848557811)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
