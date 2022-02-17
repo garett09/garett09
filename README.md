@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a brawl](http://9gag.com/gag/aE88NRp)
- - 🚯 [Go Sports!!!](http://9gag.com/gag/aAGGqQ2)
- - 🚯 [I concur](http://9gag.com/gag/aVxxd1K)<!-- MEMES:END -->
+ - 🚖 [I concur](http://9gag.com/gag/aVxxd1K)
+ - 🚯 [Unpacking](http://9gag.com/gag/aAGGNYE)
+ - 🚯 [Life is not fair](http://9gag.com/gag/abggmOX)<!-- MEMES:END -->
 
 --- 
 
