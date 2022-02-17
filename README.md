@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Agencies Say Russian Hackers Compromised Defense Contractors](https://www.wired.com/story/us-says-russian-hackers-compromised-defense-contractors)
- - [Spotify reportedly paid $200 million for Joe Rogan’s podcast](https://www.theverge.com/2022/2/17/22939587/joe-rogan-experience-spotify-podcast-deal)
- - [Apple announces &quot;The Big Conn&quot; true crime docuseries and podcast](https://appleinsider.com/articles/22/02/17/apple-announces-the-big-conn-true-crime-docuseries-and-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [January iPhone shipments much higher than average in China, data suggests](https://appleinsider.com/articles/22/02/17/january-iphone-shipments-much-higher-than-average-in-china-data-suggests?utm_medium=rss)
+ - [Roku Q4: revenue of $865.3M vs. $894M est., up 33% YoY, 60.1M active accounts, up 17% YoY, 19.5B streaming hours, up 15% YoY, stock down 7%+ on weak guidance &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220217/p29#a220217p29)
+ - [Major websites may stop working soon for Firefox and Chrome users](https://appleinsider.com/articles/22/02/17/major-websites-may-stop-working-soon-for-firefox-and-chrome-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
