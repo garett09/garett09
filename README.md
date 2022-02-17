@@ -186,7 +186,7 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Otter.ai, the automated transcription app that is a favorite of journalists, and its competitors offer only lax security that could endanger sources &lpar;Phelim Kine/Politico&rpar;](http://www.techmeme.com/220216/p42#a220216p42)
+ - [Experts say automated transcription app Otter.ai and its competitors offer only lax security that could endanger sources &lpar;Phelim Kine/Politico&rpar;](http://www.techmeme.com/220216/p42#a220216p42)
  - [Equip, which connects young patients with therapists and other specialists to treat eating disorders at home, raises a $58M Series B led by The Chernin Group &lpar;Ruth Reader/Fast Company&rpar;](http://www.techmeme.com/220216/p41#a220216p41)
  - [5ire, a sustainability-focused Layer 1 blockchain with an exchange, wallet, NFT marketplace, and VC fund, raises $100M, after a $21M seed at a $110M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/220216/p40#a220216p40)<!-- TECH:END -->
 
