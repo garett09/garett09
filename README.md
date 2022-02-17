@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla warns that Firefox and Chrome 100 versions may break some sites, including HBO Go and Yahoo, due to user-agent strings with three-digit version numbers &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220217/p11#a220217p11)
- - [Daily Authority: 💻 Samsung has more to Unpack](https://www.androidauthority.com/da-february-17-2022-3110939/)
- - [If Russia Invades Ukraine, TikTok Will See It Up Close](https://www.wired.com/story/russia-ukraine-military-photos-video)<!-- TECH:END -->
+ - [Memo: ISS tells clients that Apple investors should vote against Tim Cook&#39;s $99M pay and bonus package, citing &quot;concern&quot; over stock award Cook received in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/220217/p13#a220217p13)
+ - [Future AirPods may know when you cheat on Apple Fitness+](https://appleinsider.com/articles/22/02/17/future-airpods-may-know-when-you-cheat-on-apple-fitness?utm_medium=rss)
+ - [A look at tech recruitment issues as the US unemployment rate for tech workers is 1.7% and 0.2% for cybersecurity experts, well below 4% for the general economy &lpar;Susan Dominus/New York Times&rpar;](http://www.techmeme.com/220217/p12#a220217p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
