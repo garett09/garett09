@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want the manager of the Airport](http://9gag.com/gag/apggd7b)
- - 🚯 [Do it!](http://9gag.com/gag/agggjEx)
- - 🚯 [This child revealing his hand from under a crocodile puppet because the parent is scared](http://9gag.com/gag/aoggdRA)<!-- MEMES:END -->
+ - 🚖 [Think about it for a minute](http://9gag.com/gag/avAAXp5)
+ - 🚯 [Always on](http://9gag.com/gag/aqGGdAp)
+ - 🚯 [Karen demands dirtbike to be put in silent mode](http://9gag.com/gag/a0ZZWvq)<!-- MEMES:END -->
 
 --- 
 
