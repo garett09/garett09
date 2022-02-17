@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merchant sailors are the forgotten army keeping the world ticking over.](http://9gag.com/gag/a711APA)
- - 🚯 [Almost cross my bingo](http://9gag.com/gag/aVxxdXM)
- - 🚯 [The new one piece series on netflix looks dope](http://9gag.com/gag/aVxxd2n)<!-- MEMES:END -->
+ - 🚖 [Damn Betty](http://9gag.com/gag/aNPP36A)
+ - 🚯 [The new one piece series on netflix looks dope](http://9gag.com/gag/aVxxd2n)
+ - 🚯 [Trudeau: &#39;Finally, I have stopped them&#39; The truckers:](http://9gag.com/gag/aYrrdnx)<!-- MEMES:END -->
 
 --- 
 
