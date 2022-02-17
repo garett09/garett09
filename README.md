@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reaches an agreement to accept Visa cards globally and will no longer charge Visa users an extra fee in Singapore and Australia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p3#a220217p3)
- - [App Annie rebrands as Data.ai and partners with Similarweb, which will use Data.ai&#39;s mobile app and market data in an upcoming product &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220217/p2#a220217p2)
- - [Global financial watchdog FSB warns digital assets could soon threaten financial stability as they become more interconnected with the wider financial system &lpar;Tom Metcalf/Bloomberg&rpar;](http://www.techmeme.com/220217/p1#a220217p1)<!-- TECH:END -->
+ - [Oppo releases official images of new Find X5 flagship phone](https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time)
+ - [Q&amp;A with Glen Neumann, creator of @ResNeXtGuesser, a Twitter bot that uses a neural network, ResNeXt, to attempt to correctly identify bizarre viral images &lpar;Hayden Field/Morning Brew&rpar;](http://www.techmeme.com/220217/p4#a220217p4)
+ - [Amazon reaches an agreement to accept Visa cards globally and will no longer charge Visa users an extra fee in Singapore and Australia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220217/p3#a220217p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
