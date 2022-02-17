@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This journalist’s Otter.ai scare is a reminder that cloud transcription isn’t completely private](https://www.theverge.com/2022/2/16/22937766/go-read-this-otter-ai-transcription-data-privacy-report)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)
- - [Valve partners with iFixit to sell replacement parts for Steam Deck and Valve Index VR on iFixit.com &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/220216/p39#a220216p39)<!-- TECH:END -->
+ - [Experts say Otter.ai, the automated transcription app that is a favorite of journalists, and its competitors offer only lax security that could endanger sources &lpar;Phelim Kine/Politico&rpar;](http://www.techmeme.com/220216/p42#a220216p42)
+ - [Equip, which connects young patients with therapists and other specialists to treat eating disorders at home, raises a $58M Series B led by The Chernin Group &lpar;Ruth Reader/Fast Company&rpar;](http://www.techmeme.com/220216/p41#a220216p41)
+ - [5ire, a sustainability-focused Layer 1 blockchain with an exchange, wallet, NFT marketplace, and VC fund, raises $100M, after a $21M seed at a $110M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/220216/p40#a220216p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
