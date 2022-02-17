@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings III Is Even Better In 2022](https://kotaku.com/crusader-kings-iii-royal-court-review-impressions-parad-1848538094)
- - [Why Belfast deserves to win Best Picture](https://www.polygon.com/22937477/belfast-deserves-to-win-best-picture-oscar)
- - [Nacon acquires Daedalic Entertainment for $60 million](https://www.pcgamer.com/nacon-acquires-daedalic-entertainment-for-dollar60-million)<!-- GAME:END -->
+ - [NBA Player&#39;s Pokémon Game Interrupted By All-Star Announcement](https://kotaku.com/jarrett-allen-cavs-all-star-pokemon-arceus-legends-nba-1848551793)
+ - [MSI has a complete range of motherboards to suit any 12th Gen build](https://www.pcgamer.com/msi-has-a-complete-range-of-motherboards-to-suit-any-12th-gen-build)
+ - [Wonder Woman: Everything we know about Monolith&#39;s comic adaptation](https://www.pcgamer.com/wonder-woman-game-trailer-nemesis-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
