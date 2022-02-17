@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baz Luhrmann’s Elvis trailer is superhero cinema at its best](https://www.polygon.com/22939383/baz-luhrmanns-elvis-first-trailer)
- - [Fistful of Vengeance gives Netflix’s Wu Assassins a messy, gritty wrap-up](https://www.polygon.com/reviews/22939282/fistful-of-vengeance-review-netflix)
- - [Cyberpunk 2077’s PS5 Controller Haptics Are A Real Game-Changer](https://kotaku.com/cyberpunk-2077-ps5-dualsense-adaptive-triggers-haptics-1848555973)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Elden Ring’s Moody Intro Proves From Software Is Back On Its BS](https://kotaku.com/elden-ring-intro-leak-from-software-dark-souls-cinemati-1848556910)
+ - [Your Halo Infinite rank is probably going to be lowered by a full tier](https://www.pcgamer.com/your-halo-infinite-rank-is-probably-going-to-be-lowered-by-a-full-tier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
