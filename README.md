@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
- - 🚯 [Hobbi vas\u00fat.](http://9gag.com/gag/abggQ89)
+ - 🚖 [True love :&rpar;](http://9gag.com/gag/abggRNv)
+ - 🚯 [Instead of adding poc actors in eurocentric stories. how about you make films and tv shows based on african legends and myths](http://9gag.com/gag/aQXXyGe)
  - 🚯 [How the turntables](http://9gag.com/gag/adggRwV)<!-- MEMES:END -->
 
 --- 
