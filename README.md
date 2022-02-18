@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Tel Aviv-based Classiq, whose platform helps developers build algorithms and apps for quantum computers, raises a $33M Series B from HPE, Samsung, and others &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220217/p37#a220217p37)
- - [Apple commissioned new &#39;Shot on iPhone 13 Pro&#39; film from renowned director Park Chan-wook](https://appleinsider.com/articles/22/02/18/apple-commissioned-new-shot-on-iphone-13-pro-film-from-renowned-director-park-chan-wook?utm_medium=rss)
- - [Source: Biden is expected to issue an EO next week directing agencies to study crypto and a CBDC, and come up with a strategy to regulate digital assets &lpar;Jennifer Schonberger/Yahoo Finance&rpar;](http://www.techmeme.com/220217/p36#a220217p36)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Disney Plus     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)
+ - [Apple commissioned new &#39;Shot on iPhone 13 Pro&#39; film from renowned director Park Chan-wook](https://appleinsider.com/articles/22/02/18/apple-commissioned-new-shot-on-iphone-13-pro-film-from-renowned-director-park-chan-wook?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
