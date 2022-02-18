@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Helium, a decentralized network of 500K+ cryptocurrency-mining hotspots that offer free p2p networking, raises a $200M Series D at a $1.2B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220218/p12#a220218p12)
- - [How to choose a fitness tracker](https://www.theverge.com/22940671/fitness-tracker-how-to-choose-specs-price-features-smartwatch)
- - [Windfall, The Rings of Power, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)<!-- TECH:END -->
+ - [It&#39;s Time for a Scary Ghostbusters Movie](https://www.wired.com/2022/02/geeks-guide-scary-ghostbusters)
+ - [Court sets date for Apple countersuit against Ericsson, USITC investigating](https://appleinsider.com/articles/22/02/18/court-sets-date-for-apple-countersuit-against-ericsson-usitc-investigating?utm_medium=rss)
+ - [OtterBox identifies defective OtterSpot units, launches replacement program](https://appleinsider.com/articles/22/02/18/otterbox-identifies-defective-otterspot-units-launches-replacement-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
