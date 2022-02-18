@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you buy or build a gaming PC?](https://www.pcgamer.com/should-you-buy-or-build-a-gaming-pc)
- - [Here&#39;s when Destiny 2: The Witch Queen unlocks in your timezone](https://www.pcgamer.com/destiny-2-the-witch-queen-release-time-unlock)
- - [Square Enix promises it&#39;ll learn to suplex a train properly for Final Fantasy 6&#39;s upcoming remaster](https://www.pcgamer.com/square-enix-promises-itll-learn-to-suplex-a-train-properly-for-final-fantasy-6s-upcoming-remaster)<!-- GAME:END -->
+ - [Minesweeper player clears 1500 mines off &quot;nerve-wracking&quot; board](https://www.pcgamer.com/minesweeper-player-clears-1500-mines-off-nerve-wracking-board)
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
+ - [What is the Wordle answer for today?](https://www.pcgamer.com/what-is-wordle-today-word-archive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
