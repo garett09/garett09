@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Sifu](https://blog.playstation.com/2022/02/18/share-of-the-week-sifu/)
- - [Share of the Week: Sifu](https://blog.playstation.com/2022/02/18/share-of-the-week-sifu/)
- - [Magic: The Gathering’s Street Fighter crossover cards are available for pre-order](https://www.polygon.com/22937519/secret-lair-magic-the-gathering-street-fighter-crossover-cards-pre-order)<!-- GAME:END -->
+ - [New Challengers Approach in the Minecraft World Warrior Skin Pack](https://news.xbox.com/en-us/2022/02/18/new-challengers-approach-in-the-minecraft-world-warrior-skin-pack/)
+ - [Skateboarding Just Got Real with Session’s Biggest Update Ever](https://news.xbox.com/en-us/2022/02/18/skateboarding-just-got-real-with-sessions-biggest-update-ever/)
+ - [Severance is an unnerving sci-fi about how your job doesn’t want you to be human](https://www.polygon.com/reviews/22939662/severance-review-apple-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
