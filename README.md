@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA denies blaming Halo Infinite for Battlefield 2042&#39;s problems](https://www.pcgamer.com/ea-says-it-didnt-blame-halo-infinite-for-battlefield-2042s-problems)
  - [Uncharted’s post-credits scene sets up a familiar adventure](https://www.polygon.com/22937494/uncharted-post-credits-scene-explained)
- - [Desperate Metroid Fans Are Convinced This Image Holds Prime 4 Clues](https://kotaku.com/metroid-prime-4-samus-aran-nintendo-retro-studios-twitt-1848559323)
- - [Lost Ark&#39;s new servers are now online](https://www.pcgamer.com/lost-arks-new-servers-are-now-online)<!-- GAME:END -->
+ - [Desperate Metroid Fans Are Convinced This Image Holds Prime 4 Clues](https://kotaku.com/metroid-prime-4-samus-aran-nintendo-retro-studios-twitt-1848559323)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
