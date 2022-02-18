@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She Wolf Leads the Pack with Mayhem Brawler’s Wolfpack Update](https://news.xbox.com/en-us/2022/02/18/she-wolf-leads-the-pack-with-mayhem-brawlers-wolfpack-update/)
- - [Official PlayStation Podcast Episode 424: Over The Horizon](https://blog.playstation.com/2022/02/18/official-playstation-podcast-episode-424-over-the-horizon/)
- - [Official PlayStation Podcast Episode 424: Over The Horizon](https://blog.playstation.com/2022/02/18/official-playstation-podcast-episode-424-over-the-horizon/)<!-- GAME:END -->
+ - [Rainbow Six Extraction Unleashes Spillover Event and Welcomes Zofia to REACT](https://news.xbox.com/en-us/2022/02/18/rainbow-six-extraction-unleashes-spillover-event-and-welcomes-zofia-to-react/)
+ - [Walton Goggins signs up to star in Amazon&#39;s Fallout series](https://www.pcgamer.com/walton-goggins-signs-up-to-star-in-amazons-fallout-series)
+ - [Intel publicly shows off Arc Alchemist GPU running Tomb Raider](https://www.pcgamer.com/intel-publicly-shows-off-arc-alchemist-gpu-running-tomb-raider)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
