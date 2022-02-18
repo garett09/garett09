@@ -198,8 +198,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [AntiVaxx Cat](http://9gag.com/gag/aNPPG2K)
- - 🚯 [When you forget your house is made of cardboard](http://9gag.com/gag/aWggPnn)
- - 🚯 [Hector](http://9gag.com/gag/aOQQnpN)<!-- MEMES:END -->
+ - 🚯 [Hector](http://9gag.com/gag/aOQQnpN)
+ - 🚯 [A cossack saber.](http://9gag.com/gag/ay99Z6Y)<!-- MEMES:END -->
 
 --- 
 
