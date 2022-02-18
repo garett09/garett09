@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jacques Vallée Still Doesn’t Know What UFOs Are](https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are)
- - [Windows 11 Pro will soon require a Microsoft Account](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
- - [Parisian car ban now planned for 2024](https://www.theverge.com/2022/2/18/22940512/paris-car-ban-2024-city-center-cycling-pollution)<!-- TECH:END -->
+ - [Apple teases return of &#39;The Problem with Jon Stewart&#39; with new video](https://appleinsider.com/articles/22/02/18/apple-teases-return-of-the-problem-with-jon-stewart-with-new-video?utm_medium=rss)
+ - [How to find, highlight and remove duplicates in Google Sheets](https://www.androidauthority.com/find-highlight-remove-duplicates-google-sheets-3109731/)
+ - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
