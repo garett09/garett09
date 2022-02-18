@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: February 21 to 25](https://news.xbox.com/en-us/2022/02/18/next-week-on-xbox-february-21-to-25/)
- - [The Fastest Cars In GTA Online In 2022](https://kotaku.com/gta-online-best-fastest-cars-list-2022-what-to-buy-1848558063)
- - [What is the Wordle answer for today?](https://www.pcgamer.com/what-is-wordle-today-word-archive)<!-- GAME:END -->
+ - [Hundreds of Thousands of People Are Watching Dozens Of Planes Landing In Brutal Storm, Live](https://kotaku.com/youtube-airplanes-landing-livestream-big-jet-tv-storm-e-1848561756)
+ - [Should I use a TV as a computer monitor?](https://www.pcgamer.com/can-i-use-a-4k-tv-as-a-computer-monitor)
+ - [WWE 2K22’s MyGM: Lots of potential, lots of time in menus](https://www.polygon.com/22940743/wwe-2k22-preview-mygm-general-manager-mode-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
