@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a green 100\u20ac note but your brain will see it in purple. The reason for this is that i changed it in Photoshop.](http://9gag.com/gag/aQXX5Dr)
- - 🚯 [Time traveler](http://9gag.com/gag/aoggwOm)
+ - 🚖 [Time traveler](http://9gag.com/gag/aoggwOm)
+ - 🚯 [This is a green 100\u20ac note but your brain will see it in purple. The reason for this is that i changed it in Photoshop.](http://9gag.com/gag/aQXX5Dr)
  - 🚯 [Engineering Student AI model turns sign language to English in real time](http://9gag.com/gag/aNPP5K6)<!-- MEMES:END -->
 
 --- 
