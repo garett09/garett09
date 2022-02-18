@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me when i am going to bed after i watcht a horror movie](http://9gag.com/gag/a211gGD)
- - 🚯 [Bird:\u201d look at me , I\u2019m the captain now\u201d](http://9gag.com/gag/a811NZY)
- - 🚯 [Time traveler](http://9gag.com/gag/aoggwOm)<!-- MEMES:END -->
+ - 🚖 [This is a green 100\u20ac note but your brain will see it in purple. The reason for this is that i changed it in Photoshop.](http://9gag.com/gag/aQXX5Dr)
+ - 🚯 [Time traveler](http://9gag.com/gag/aoggwOm)
+ - 🚯 [Engineering Student AI model turns sign language to English in real time](http://9gag.com/gag/aNPP5K6)<!-- MEMES:END -->
 
 --- 
 
