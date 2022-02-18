@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Intel CEO blames &#39;a decade of bad decisions and poor execution&#39; for company woes](https://www.pcgamer.com/new-intel-ceo-blames-a-decade-of-bad-decisions-and-poor-execution-for-company-woes)
- - [Why Dune deserves to win the Best Picture Oscar](https://www.polygon.com/22940971/dune-deserves-to-win-best-picture-denis-villeneuve)
- - [Remedy&#39;s New Shooter Is More Call Of Duty Than Control, But Not In A Good Way](https://kotaku.com/crossfire-x-catalyst-campaign-review-control-remedy-xbo-1848564528)<!-- GAME:END -->
+ - [Gigabyte’s New Aorus 15 XE4 Offers Some Powerful Upgrades](https://www.pcgamer.com/gigabytes-new-aorus-15-xe4-offers-some-powerful-upgrades)
+ - [The Peacemaker is finally known for something other than Watchmen](https://www.polygon.com/22941154/the-peacemaker-dceu-watchmen)
+ - [Netflix’s Texas Chainsaw Massacre, The King’s Man, and every new movie you can watch from home this week](https://www.polygon.com/what-to-watch/2022/2/18/22931797/new-movies-watch-texas-chainsaw-massacre-netflix-the-kings-man-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
