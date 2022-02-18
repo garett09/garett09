@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AntiVaxx Cat](http://9gag.com/gag/aNPPG2K)
+ - 🚖 [A cossack saber.](http://9gag.com/gag/ay99Z6Y)
  - 🚯 [Hector](http://9gag.com/gag/aOQQnpN)
- - 🚯 [A cossack saber.](http://9gag.com/gag/ay99Z6Y)<!-- MEMES:END -->
+ - 🚯 [Ginger rage](http://9gag.com/gag/aE88jGM)<!-- MEMES:END -->
 
 --- 
 
