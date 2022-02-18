@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty jaguar](http://9gag.com/gag/azeevyN)
- - 🚯 [Mom\u2019s spaghetti](http://9gag.com/gag/awzz944)
- - 🚯 [Sometimes girls don&#39;t want solutions, Sometimes they just want to complain.](http://9gag.com/gag/agggbev)<!-- MEMES:END -->
+ - 🚖 [Sometimes girls don&#39;t want solutions, Sometimes they just want to complain.](http://9gag.com/gag/agggbev)
+ - 🚯 [Our company sells CAM software for CNC machines... The last time we let this guy fix an issue, he completely wrecked customer&#39;s 250,000\u20ac 7-axis milling machine. And still somehow he has this magic ability to make everyone trust him with their lives moments after meeting him](http://9gag.com/gag/aKmmXYN)
+ - 🚯 [Oh my](http://9gag.com/gag/aBnnMmN)<!-- MEMES:END -->
 
 --- 
 
