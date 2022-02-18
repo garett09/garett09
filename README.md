@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prospective iPhone OLED panel supplier BOE facing production problems](https://appleinsider.com/articles/22/02/18/prospective-iphone-oled-panel-supplier-boe-facing-production-problems?utm_medium=rss)
- - [Intel Xeon roadmap: Emerald Rapids, based on Intel 7 process, coming in 2023, Granite Rapids and new Efficient-core Sierra Forest in 2024, both built on Intel 3 &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220217/p35#a220217p35)
- - [FDA approves first iOS app to control insulin pump](https://appleinsider.com/articles/22/02/18/fda-approves-first-ios-app-to-control-insulin-pump?utm_medium=rss)<!-- TECH:END -->
+ - [Tel Aviv-based Classiq, whose platform helps developers build algorithms and apps for quantum computers, raises a $33M Series B from HPE, Samsung, and others &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220217/p37#a220217p37)
+ - [Apple commissioned new &#39;Shot on iPhone 13 Pro&#39; film from renowned director Park Chan-wook](https://appleinsider.com/articles/22/02/18/apple-commissioned-new-shot-on-iphone-13-pro-film-from-renowned-director-park-chan-wook?utm_medium=rss)
+ - [Source: Biden is expected to issue an EO next week directing agencies to study crypto and a CBDC, and come up with a strategy to regulate digital assets &lpar;Jennifer Schonberger/Yahoo Finance&rpar;](http://www.techmeme.com/220217/p36#a220217p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
