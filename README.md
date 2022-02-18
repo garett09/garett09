@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: MWC ’22 preview and Spotify’s latest acquisition](https://www.theverge.com/2022/2/18/22940675/vergecast-podcast-486-project-endgame-spotify-podsights-chartable)
- - [Apple Store workers are starting to unionize, citing stagnating wages](https://appleinsider.com/articles/22/02/18/apple-store-workers-are-starting-to-unionize-citing-stagnating-wages?utm_medium=rss)
- - [Coast, which makes expense management software to help companies control fuel and fleet spending, raises a $27.5M Series A co-led by Accel and Insight Partners &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220218/p10#a220218p10)<!-- TECH:END -->
+ - [Source: Helium, a decentralized network of 500K+ cryptocurrency-mining hotspots that offer free p2p networking, raises a $200M Series D at a $1.2B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220218/p12#a220218p12)
+ - [How to choose a fitness tracker](https://www.theverge.com/22940671/fitness-tracker-how-to-choose-specs-price-features-smartwatch)
+ - [Windfall, The Rings of Power, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
