@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What the New iOS Features Mean for You and Your Privacy](https://www.wired.com/story/gadget-lab-podcast-539)
- - [Researchers Want to Create &#39;Universal Donor&#39; Lungs](https://www.wired.com/story/researchers-want-to-create-universal-donor-lungs)
- - [The History—and Disturbing Resurrection—of Black Androids](https://www.wired.com/story/history-disturbing-resurrection-black-androids)<!-- TECH:END -->
+ - [Spotify may have paid $200 million for Joe Rogan podcast](https://appleinsider.com/articles/22/02/18/spotify-may-have-paid-200-million-for-joe-rogan-podcast?utm_medium=rss)
+ - [Eufy’s Dual doorbell proves two eyes on your porch are better than one](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
+ - [China asks food delivery services to cut fees for restaurants; Meituan&#39;s stock fell 15%+ to a 19-month low, wiping $26B off its market value, now at ~$148B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220218/p9#a220218p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
