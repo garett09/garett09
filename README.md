@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Find your Fortune on the Fortnite Island with Nathan Drake and Chloe Frazer from the Uncharted Series](https://blog.playstation.com/2022/02/17/find-your-fortune-on-the-fortnite-island-with-nathan-drake-and-chloe-frazer-from-the-uncharted-series/)
- - [Find your Fortune on the Fortnite Island with Nathan Drake and Chloe Frazer from the Uncharted Series](https://blog.playstation.com/2022/02/17/find-your-fortune-on-the-fortnite-island-with-nathan-drake-and-chloe-frazer-from-the-uncharted-series/)
- - [Peacemaker ends with a cameo treat for Snyderverse fans](https://www.polygon.com/22939203/peacemaker-finale-justice-league-cameo)<!-- GAME:END -->
+ - [Video Game History Foundation Goes Off On Nintendo&#39;s &#39;Destructive&#39; Retro Policies](https://kotaku.com/nintendo-retro-classic-virtual-console-piracy-vghf-hist-1848558311)
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
+ - [Riot Games co-founder Marc Merrill is the studio’s new president of games](https://www.polygon.com/22939812/riot-games-marc-merrill-president-games-co-founder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
