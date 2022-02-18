@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
- - 🚯 [Japanese streamer Tanukana was fired after saying that short men aren&#39;t even humans &lpar;her height is 151 cm btw&rpar;](http://9gag.com/gag/aM445j1)
+ - 🚖 [800 person airsoft battle](http://9gag.com/gag/aRrrq77)
+ - 🚯 [He need to take off one of his pants to make room for his steel balls](http://9gag.com/gag/a211p2d)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
