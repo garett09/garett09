@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gives Oscar nominated &#39;CODA&#39; movie a theatrical re-release, for free](https://appleinsider.com/articles/22/02/18/apple-gives-oscar-nominated-coda-movie-a-theatrical-re-release-for-free?utm_medium=rss)
- - [The launch of Trump’s Twitter clone is reportedly delayed until March](https://www.theverge.com/2022/2/18/22940947/trump-twitter-clone-truth-social-delayed)
- - [Amazon&#39;s Comixology migration is a disaster - here&#39;s what you need to know](https://appleinsider.com/articles/22/02/18/amazons-comixology-migration-is-a-disaster---heres-what-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
+ - [Save $200 to $250 on these 14-inch and 16-inch MacBook Pro laptops with 32GB RAM, units in stock](https://appleinsider.com/articles/22/02/18/save-200-to-250-on-these-14-inch-and-16-inch-macbook-pro-laptops-with-32gb-ram-units-in-stock?utm_medium=rss)
+ - [Internal documents: 400+ Salesforce employees signed an open letter objecting to its NFT plans, including helping other companies create and sell NFTs &lpar;Avi Asher-Schapiro/Thomson Reuters ...&rpar;](http://www.techmeme.com/220218/p16#a220218p16)
+ - [Google’s new retro-style font brings back serifs for more comfortable reading](https://www.theverge.com/2022/2/18/22940753/google-roboto-serif-font-typeface-design-easier-reading-retro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
