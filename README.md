@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Classiq, whose platform helps developers build algorithms and apps for quantum computers, raises a $33M Series B from HPE, Samsung, and others &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220217/p37#a220217p37)
- - [The Best Sci-Fi Movies on Disney Plus     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)
- - [Apple commissioned new &#39;Shot on iPhone 13 Pro&#39; film from renowned director Park Chan-wook](https://appleinsider.com/articles/22/02/18/apple-commissioned-new-shot-on-iphone-13-pro-film-from-renowned-director-park-chan-wook?utm_medium=rss)<!-- TECH:END -->
+ - [Intel Shows Off the Chip Technology That&#39;ll Power Your PC in 2025     - CNET](https://www.cnet.com/tech/computing/intel-shows-off-the-chip-technology-thatll-power-your-pc-in-2025/#ftag=CAD590a51e)
+ - [Zelda: Majora&#39;s Mask Is Coming to Nintendo Switch Online Next Week     - CNET](https://www.cnet.com/tech/gaming/zelda-majoras-mask-is-coming-to-nintendo-switch-online-in-february/#ftag=CAD590a51e)
+ - [Tel Aviv-based Classiq, whose platform helps developers build algorithms and apps for quantum computers, raises a $33M Series B from HPE, Samsung, and others &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220217/p37#a220217p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
