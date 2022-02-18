@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel Shows Off the Chip Technology That&#39;ll Power Your PC in 2025     - CNET](https://www.cnet.com/tech/computing/intel-shows-off-the-chip-technology-thatll-power-your-pc-in-2025/#ftag=CAD590a51e)
- - [Zelda: Majora&#39;s Mask Is Coming to Nintendo Switch Online Next Week     - CNET](https://www.cnet.com/tech/gaming/zelda-majoras-mask-is-coming-to-nintendo-switch-online-in-february/#ftag=CAD590a51e)
- - [Tel Aviv-based Classiq, whose platform helps developers build algorithms and apps for quantum computers, raises a $33M Series B from HPE, Samsung, and others &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220217/p37#a220217p37)<!-- TECH:END -->
+ - [Majora’s Mask comes to the Nintendo Switch on Elden Ring launch day](https://www.theverge.com/2022/2/18/22940427/majoras-mask-nintendo-switch-online-release-date)
+ - [Sources: federal and state regulators have widened their investigation into how Activision Blizzard CEO and its board handled workplace misconduct allegations &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220218/p1#a220218p1)
+ - [We asked, you told us: Most of you keep location tracking enabled](https://www.androidauthority.com/location-tracking-phone-poll-results-3110726/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
