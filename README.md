@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Intel&#39;s Project Endgame](https://www.pcgamer.com/what-is-intels-project-endgame)
- - [Horizon Forbidden West beginner’s guide](https://www.polygon.com/horizon-forbidden-west-guide-walkthrough/22923289/beginners-tips-tricks-climbing-pullcaster-resources-machines-elemental-damage-upgrade)
- - [Horizon Forbidden West walkthroughs, guides, and tips](https://www.polygon.com/guides/22912617/horizon-forbidden-west-collectibles-rock-trophies-skills-tallneck-blocked-path-fast-travel)<!-- GAME:END -->
+ - [Intel lays out its CPU roadmap to 2024 and beyond](https://www.pcgamer.com/intel-lays-out-its-cpu-roadmap-to-2024-and-beyond)
+ - [Don&#39;t panic, but DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.pcgamer.com/dont-panic-but-deepmind-has-trained-an-ai-to-control-nuclear-fusion)
+ - [What is Intel&#39;s Project Endgame](https://www.pcgamer.com/what-is-intels-project-endgame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
