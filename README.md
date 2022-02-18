@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google plans privacy change that could once again kick Facebook&#39;s business model](https://www.pcgamer.com/google-plans-privacy-change-that-could-once-again-kick-facebooks-business-model)
- - [Intel lays out its CPU roadmap to 2024 and beyond](https://www.pcgamer.com/intel-lays-out-its-cpu-roadmap-to-2024-and-beyond)
- - [Don&#39;t panic, but DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.pcgamer.com/dont-panic-but-deepmind-has-trained-an-ai-to-control-nuclear-fusion)<!-- GAME:END -->
+ - [Should you buy or build a gaming PC?](https://www.pcgamer.com/should-you-buy-or-build-a-gaming-pc)
+ - [Here&#39;s when Destiny 2: The Witch Queen unlocks in your timezone](https://www.pcgamer.com/destiny-2-the-witch-queen-release-time-unlock)
+ - [Square Enix promises it&#39;ll learn to suplex a train properly for Final Fantasy 6&#39;s upcoming remaster](https://www.pcgamer.com/square-enix-promises-itll-learn-to-suplex-a-train-properly-for-final-fantasy-6s-upcoming-remaster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
