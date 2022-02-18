@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whistleblower Aid, representing Frances Haugen, files two SEC complaints claiming Meta misled investors about its work to fight misinfo on COVID-19 and climate &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220218/p18#a220218p18)
- - [Toronto-based Cohere, which lets companies add NLP to chatbots and other tools, raises a $125M Series B led by Tiger Global, five months after raising $40M &lpar;University of Toronto News&rpar;](http://www.techmeme.com/220218/p17#a220218p17)
- - [First Pixel 7 and Pixel 7 Pro details leak](https://www.androidauthority.com/google-pixel-7-3112003/)<!-- TECH:END -->
+ - [A look at the decline of MySpace, which flailed around for over a year as it was overtaken by Facebook, and parallels with Meta as TikTok surges &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220218/p19#a220218p19)
+ - [Salesforce employees are reportedly protesting its NFT plans](https://www.theverge.com/2022/2/18/22941223/salesforce-nft-cloud-employee-protest-open-letter)
+ - [&#39;Massive Monster&#39; Sea Scorpion Revealed Through Fossil Discovery     - CNET](https://www.cnet.com/news/massive-monster-sea-scorpion-revealed-through-fossil-discovery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
