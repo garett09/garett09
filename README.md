@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carbon capture tech is advancing in the wrong direction](https://www.theverge.com/2022/2/18/22940826/carbon-capture-tech-wrong-direction-power-plants-industrial-emissions)
- - [Eufy’s Dual doorbell proves two eyes on your porch are better than one](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
- - [Netflix announces four comedy specials to be hosted and produced by Dave Chappelle; the comedian&#39;s last special led to Netflix employee protests &lpar;James Hibberd/The Hollywood Reporter&rpar;](http://www.techmeme.com/220218/p20#a220218p20)<!-- TECH:END -->
+ - [Missing character bug affects Twitter links sent via iMessage](https://appleinsider.com/articles/22/02/18/missing-character-bug-affects-twitter-links-sent-via-imessage?utm_medium=rss)
+ - [Lost Ark is a grindy MMO that’s perfect to while away the hours](https://www.theverge.com/2022/2/18/22937386/lost-ark-amazon-games-free-to-play-mmo-diablo-clone)
+ - [Doctors Transplant Genetically Modified Pig&#39;s Heart Into Human in Medical First     - CNET](https://www.cnet.com/news/doctors-transplant-genetically-modified-pigs-heart-into-human-in-medical-first/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
