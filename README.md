@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google plans privacy change that could once again kick Facebook&#39;s business model](https://www.pcgamer.com/google-plans-privacy-change-that-could-once-again-kick-facebooks-business-model)
  - [Intel lays out its CPU roadmap to 2024 and beyond](https://www.pcgamer.com/intel-lays-out-its-cpu-roadmap-to-2024-and-beyond)
- - [Don&#39;t panic, but DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.pcgamer.com/dont-panic-but-deepmind-has-trained-an-ai-to-control-nuclear-fusion)
- - [What is Intel&#39;s Project Endgame](https://www.pcgamer.com/what-is-intels-project-endgame)<!-- GAME:END -->
+ - [Don&#39;t panic, but DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.pcgamer.com/dont-panic-but-deepmind-has-trained-an-ai-to-control-nuclear-fusion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
