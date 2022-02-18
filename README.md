@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fences](http://9gag.com/gag/amggZ1o)
- - 🚯 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
- - 🚯 [The car behind you everytime you drive at night](http://9gag.com/gag/amggZMj)<!-- MEMES:END -->
+ - 🚖 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
+ - 🚯 [Japanese streamer Tanukana was fired after saying that short men aren&#39;t even humans &lpar;her height is 151 cm btw&rpar;](http://9gag.com/gag/aM445j1)
+ - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
 
