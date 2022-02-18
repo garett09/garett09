@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Motorola Frontier renders show a camera bump on top of a camera bump](https://www.androidauthority.com/motorola-frontier-camera-3111585/)
- - [Majora’s Mask comes to the Nintendo Switch on Elden Ring launch day](https://www.theverge.com/2022/2/18/22940427/majoras-mask-nintendo-switch-online-release-date)
- - [Sources: federal and state regulators have widened their investigation into how Activision Blizzard CEO and its board handled workplace misconduct allegations &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220218/p1#a220218p1)<!-- TECH:END -->
+ - [Miss the good ol’ Google Inbox? A new email client just brought it back!](https://www.androidauthority.com/shortwave-googl-inbox-email-client-3111608/)
+ - [Universal Music Group partners with NFT marketplace Curio to develop and sell NFT collectibles for its record labels and artists starting in March &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/220218/p2#a220218p2)
+ - [New Motorola Frontier renders show a camera bump on top of a camera bump](https://www.androidauthority.com/motorola-frontier-camera-3111585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
