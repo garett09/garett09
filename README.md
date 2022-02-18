@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would vibe to this](http://9gag.com/gag/aegg8WW)
- - 🚯 [Eastern Ukraine announces evacuation of residents](http://9gag.com/gag/a711RgA)
+ - 🚖 [*turns music louder*](http://9gag.com/gag/aYrr3dm)
+ - 🚯 [You Son of a B*tch, I&#39;m In](http://9gag.com/gag/aYrrXrq)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
