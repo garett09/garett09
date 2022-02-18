@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Cuphead Show!’s infectious theme song almost didn’t get approved](https://www.polygon.com/22941045/the-cuphead-show-theme-song-interview)
- - [New Challengers Approach in the Minecraft World Warrior Skin Pack](https://news.xbox.com/en-us/2022/02/18/new-challengers-approach-in-the-minecraft-world-warrior-skin-pack/)
- - [Skateboarding Just Got Real with Session’s Biggest Update Ever](https://news.xbox.com/en-us/2022/02/18/skateboarding-just-got-real-with-sessions-biggest-update-ever/)<!-- GAME:END -->
+ - [She Wolf Leads the Pack with Mayhem Brawler’s Wolfpack Update](https://news.xbox.com/en-us/2022/02/18/she-wolf-leads-the-pack-with-mayhem-brawlers-wolfpack-update/)
+ - [Official PlayStation Podcast Episode 424: Over The Horizon](https://blog.playstation.com/2022/02/18/official-playstation-podcast-episode-424-over-the-horizon/)
+ - [Official PlayStation Podcast Episode 424: Over The Horizon](https://blog.playstation.com/2022/02/18/official-playstation-podcast-episode-424-over-the-horizon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
