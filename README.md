@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Motorola Frontier renders show a camera bump on top of a camera bump](https://www.androidauthority.com/motorola-frontier-camera-3111585/)
  - [Majora’s Mask comes to the Nintendo Switch on Elden Ring launch day](https://www.theverge.com/2022/2/18/22940427/majoras-mask-nintendo-switch-online-release-date)
- - [Sources: federal and state regulators have widened their investigation into how Activision Blizzard CEO and its board handled workplace misconduct allegations &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220218/p1#a220218p1)
- - [We asked, you told us: Most of you keep location tracking enabled](https://www.androidauthority.com/location-tracking-phone-poll-results-3110726/)<!-- TECH:END -->
+ - [Sources: federal and state regulators have widened their investigation into how Activision Blizzard CEO and its board handled workplace misconduct allegations &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/220218/p1#a220218p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
