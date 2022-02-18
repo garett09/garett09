@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A cossack saber.](http://9gag.com/gag/ay99Z6Y)
- - 🚯 [Hector](http://9gag.com/gag/aOQQnpN)
- - 🚯 [Ginger rage](http://9gag.com/gag/aE88jGM)<!-- MEMES:END -->
+ - 🚖 [Sometimes girls don&#39;t want solutions, Sometimes they just want to complain.](http://9gag.com/gag/agggbev)
+ - 🚯 [Ginger rage](http://9gag.com/gag/aE88jGM)
+ - 🚯 [Pretty jaguar](http://9gag.com/gag/azeevyN)<!-- MEMES:END -->
 
 --- 
 
