@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [800 person airsoft battle](http://9gag.com/gag/aRrrq77)
- - 🚯 [He need to take off one of his pants to make room for his steel balls](http://9gag.com/gag/a211p2d)
+ - 🚖 [The car behind you everytime you drive at night](http://9gag.com/gag/amggZMj)
+ - 🚯 [800 person airsoft battle](http://9gag.com/gag/aRrrq77)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
