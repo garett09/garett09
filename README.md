@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases return of &#39;The Problem with Jon Stewart&#39; with new video](https://appleinsider.com/articles/22/02/18/apple-teases-return-of-the-problem-with-jon-stewart-with-new-video?utm_medium=rss)
- - [How to find, highlight and remove duplicates in Google Sheets](https://www.androidauthority.com/find-highlight-remove-duplicates-google-sheets-3109731/)
- - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What the New iOS Features Mean for You and Your Privacy](https://www.wired.com/story/gadget-lab-podcast-539)
+ - [Researchers Want to Create &#39;Universal Donor&#39; Lungs](https://www.wired.com/story/researchers-want-to-create-universal-donor-lungs)
+ - [The History—and Disturbing Resurrection—of Black Androids](https://www.wired.com/story/history-disturbing-resurrection-black-androids)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
