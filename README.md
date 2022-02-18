@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Cuphead Show!’s infectious theme song almost didn’t get approved](https://www.polygon.com/22941045/the-cuphead-show-theme-song-interview)
  - [New Challengers Approach in the Minecraft World Warrior Skin Pack](https://news.xbox.com/en-us/2022/02/18/new-challengers-approach-in-the-minecraft-world-warrior-skin-pack/)
- - [Skateboarding Just Got Real with Session’s Biggest Update Ever](https://news.xbox.com/en-us/2022/02/18/skateboarding-just-got-real-with-sessions-biggest-update-ever/)
- - [Severance is an unnerving sci-fi about how your job doesn’t want you to be human](https://www.polygon.com/reviews/22939662/severance-review-apple-tv)<!-- GAME:END -->
+ - [Skateboarding Just Got Real with Session’s Biggest Update Ever](https://news.xbox.com/en-us/2022/02/18/skateboarding-just-got-real-with-sessions-biggest-update-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
