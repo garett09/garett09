@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If they ever.](http://9gag.com/gag/aqGGE47)
- - 🚯 [Women love tatoo.](http://9gag.com/gag/a811OPe)
- - 🚯 [They&#39;re learning!](http://9gag.com/gag/avAAqNO)<!-- MEMES:END -->
+ - 🚖 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
+ - 🚯 [Stay strong](http://9gag.com/gag/azeew5p)
+ - 🚯 [Women love tatoo.](http://9gag.com/gag/a811OPe)<!-- MEMES:END -->
 
 --- 
 
