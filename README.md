@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Time for a Scary Ghostbusters Movie](https://www.wired.com/2022/02/geeks-guide-scary-ghostbusters)
- - [Court sets date for Apple countersuit against Ericsson, USITC investigating](https://appleinsider.com/articles/22/02/18/court-sets-date-for-apple-countersuit-against-ericsson-usitc-investigating?utm_medium=rss)
- - [OtterBox identifies defective OtterSpot units, launches replacement program](https://appleinsider.com/articles/22/02/18/otterbox-identifies-defective-otterspot-units-launches-replacement-program?utm_medium=rss)<!-- TECH:END -->
+ - [Apple gives Oscar nominated &#39;CODA&#39; movie a theatrical re-release, for free](https://appleinsider.com/articles/22/02/18/apple-gives-oscar-nominated-coda-movie-a-theatrical-re-release-for-free?utm_medium=rss)
+ - [The launch of Trump’s Twitter clone is reportedly delayed until March](https://www.theverge.com/2022/2/18/22940947/trump-twitter-clone-truth-social-delayed)
+ - [Amazon&#39;s Comixology migration is a disaster - here&#39;s what you need to know](https://appleinsider.com/articles/22/02/18/amazons-comixology-migration-is-a-disaster---heres-what-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
