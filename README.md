@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Intel CEO Pat Gelsinger, who joined the company at 18, as he seeks to rejuvenate the beleaguered giant by building chip factories across the world &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/220217/p33#a220217p33)
- - [Nissan Teases 2 New EV Models to Be Built in the US     - Roadshow](https://www.cnet.com/roadshow/news/nissan-teases-two-evs-built-in-us/#ftag=CAD590a51e)
- - [US State Officials Warn About AirTag Stalking Danger     - CNET](https://www.cnet.com/tech/mobile/us-state-officials-warn-about-airtag-stalking-danger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OtterBox identifies defective OtterSpot units, launches replacement program](https://appleinsider.com/articles/22/02/18/otterbox-identifies-defective-otterspot-units-launches-replacement-program?utm_medium=rss)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [2022 Subaru WRX Pricing Will Start at $30,100     - Roadshow](https://www.cnet.com/roadshow/news/2022-subaru-wrx-pricing-debuted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
