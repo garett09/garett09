@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
- - 🚯 [Stay strong](http://9gag.com/gag/azeew5p)
- - 🚯 [Women love tatoo.](http://9gag.com/gag/a811OPe)<!-- MEMES:END -->
+ - 🚖 [Fences](http://9gag.com/gag/amggZ1o)
+ - 🚯 [Guy harassed an old guy thinking he was an easy target little did he know](http://9gag.com/gag/aBnnewN)
+ - 🚯 [The car behind you everytime you drive at night](http://9gag.com/gag/amggZMj)<!-- MEMES:END -->
 
 --- 
 
