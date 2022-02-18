@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can always tell which athlete is Dutch](http://9gag.com/gag/aoggoqe)
- - 🚯 [You want sum fuk ?](http://9gag.com/gag/aLvvoR5)
- - 🚯 [The rock should cast as toph](http://9gag.com/gag/a6116Mm)<!-- MEMES:END -->
+ - 🚖 [Me when i am going to bed after i watcht a horror movie](http://9gag.com/gag/a211gGD)
+ - 🚯 [Bird:\u201d look at me , I\u2019m the captain now\u201d](http://9gag.com/gag/a811NZY)
+ - 🚯 [Time traveler](http://9gag.com/gag/aoggwOm)<!-- MEMES:END -->
 
 --- 
 
