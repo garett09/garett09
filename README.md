@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Extraction Unleashes Spillover Event and Welcomes Zofia to REACT](https://news.xbox.com/en-us/2022/02/18/rainbow-six-extraction-unleashes-spillover-event-and-welcomes-zofia-to-react/)
- - [Walton Goggins signs up to star in Amazon&#39;s Fallout series](https://www.pcgamer.com/walton-goggins-signs-up-to-star-in-amazons-fallout-series)
- - [Intel publicly shows off Arc Alchemist GPU running Tomb Raider](https://www.pcgamer.com/intel-publicly-shows-off-arc-alchemist-gpu-running-tomb-raider)<!-- GAME:END -->
+ - [New Intel CEO blames &#39;a decade of bad decisions and poor execution&#39; for company woes](https://www.pcgamer.com/new-intel-ceo-blames-a-decade-of-bad-decisions-and-poor-execution-for-company-woes)
+ - [Why Dune deserves to win the Best Picture Oscar](https://www.polygon.com/22940971/dune-deserves-to-win-best-picture-denis-villeneuve)
+ - [Remedy&#39;s New Shooter Is More Call Of Duty Than Control, But Not In A Good Way](https://kotaku.com/crossfire-x-catalyst-campaign-review-control-remedy-xbo-1848564528)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
