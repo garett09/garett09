@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s social VR platform Horizon hits 300,000 users](https://www.theverge.com/2022/2/17/22939297/meta-social-vr-platform-horizon-300000-users)
- - [Google creates a $100M skills training fund for low-income Americans, with loans repayable only once students obtain jobs paying at least $40K a year &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/220217/p31#a220217p31)
- - [The best President’s Day sales happening now](https://www.theverge.com/good-deals/22939133/presidents-day-best-sales-2022-tech-deals-headphones-laptops-tvs-gaming)<!-- TECH:END -->
+ - [A profile of Intel CEO Pat Gelsinger, who joined the company at 18, as he seeks to rejuvenate the beleaguered giant by building chip factories across the world &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/220217/p33#a220217p33)
+ - [Nissan Teases 2 New EV Models to Be Built in the US     - Roadshow](https://www.cnet.com/roadshow/news/nissan-teases-two-evs-built-in-us/#ftag=CAD590a51e)
+ - [US State Officials Warn About AirTag Stalking Danger     - CNET](https://www.cnet.com/tech/mobile/us-state-officials-warn-about-airtag-stalking-danger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
