@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the decline of MySpace, which flailed around for over a year as it was overtaken by Facebook, and parallels with Meta as TikTok surges &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220218/p19#a220218p19)
- - [Salesforce employees are reportedly protesting its NFT plans](https://www.theverge.com/2022/2/18/22941223/salesforce-nft-cloud-employee-protest-open-letter)
- - [&#39;Massive Monster&#39; Sea Scorpion Revealed Through Fossil Discovery     - CNET](https://www.cnet.com/news/massive-monster-sea-scorpion-revealed-through-fossil-discovery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Carbon capture tech is advancing in the wrong direction](https://www.theverge.com/2022/2/18/22940826/carbon-capture-tech-wrong-direction-power-plants-industrial-emissions)
+ - [Eufy’s Dual doorbell proves two eyes on your porch are better than one](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
+ - [Netflix announces four comedy specials to be hosted and produced by Dave Chappelle; the comedian&#39;s last special led to Netflix employee protests &lpar;James Hibberd/The Hollywood Reporter&rpar;](http://www.techmeme.com/220218/p20#a220218p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
