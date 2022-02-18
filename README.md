@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox identifies defective OtterSpot units, launches replacement program](https://appleinsider.com/articles/22/02/18/otterbox-identifies-defective-otterspot-units-launches-replacement-program?utm_medium=rss)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [2022 Subaru WRX Pricing Will Start at $30,100     - Roadshow](https://www.cnet.com/roadshow/news/2022-subaru-wrx-pricing-debuted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prospective iPhone OLED panel supplier BOE facing production problems](https://appleinsider.com/articles/22/02/18/prospective-iphone-oled-panel-supplier-boe-facing-production-problems?utm_medium=rss)
+ - [Intel Xeon roadmap: Emerald Rapids, based on Intel 7 process, coming in 2023, Granite Rapids and new Efficient-core Sierra Forest in 2024, both built on Intel 3 &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220217/p35#a220217p35)
+ - [FDA approves first iOS app to control insulin pump](https://appleinsider.com/articles/22/02/18/fda-approves-first-ios-app-to-control-insulin-pump?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
