@@ -183,8 +183,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minesweeper player clears 1500 mines off &quot;nerve-wracking&quot; board](https://www.pcgamer.com/minesweeper-player-clears-1500-mines-off-nerve-wracking-board)
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
+ - [Next Week on Xbox: February 21 to 25](https://news.xbox.com/en-us/2022/02/18/next-week-on-xbox-february-21-to-25/)
+ - [The Fastest Cars In GTA Online In 2022](https://kotaku.com/gta-online-best-fastest-cars-list-2022-what-to-buy-1848558063)
  - [What is the Wordle answer for today?](https://www.pcgamer.com/what-is-wordle-today-word-archive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
