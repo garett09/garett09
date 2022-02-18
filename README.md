@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes girls don&#39;t want solutions, Sometimes they just want to complain.](http://9gag.com/gag/agggbev)
- - 🚯 [Ginger rage](http://9gag.com/gag/aE88jGM)
- - 🚯 [Pretty jaguar](http://9gag.com/gag/azeevyN)<!-- MEMES:END -->
+ - 🚖 [Smooth criminal](http://9gag.com/gag/a111goP)
+ - 🚯 [Pretty jaguar](http://9gag.com/gag/azeevyN)
+ - 🚯 [Mom\u2019s spaghetti](http://9gag.com/gag/awzz944)<!-- MEMES:END -->
 
 --- 
 
