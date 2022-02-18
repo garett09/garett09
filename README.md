@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [*turns music louder*](http://9gag.com/gag/aYrr3dm)
- - 🚯 [You Son of a B*tch, I&#39;m In](http://9gag.com/gag/aYrrXrq)
+ - 🚯 [Eastern Ukraine announces evacuation of residents](http://9gag.com/gag/a711RgA)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
