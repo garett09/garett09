@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Would vibe to this](http://9gag.com/gag/aegg8WW)
- - 🚯 [800 person airsoft battle](http://9gag.com/gag/aRrrq77)
+ - 🚯 [Feel like shieeeet](http://9gag.com/gag/aqGGPeM)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
