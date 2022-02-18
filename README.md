@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of Watermelon is this ?](http://9gag.com/gag/aRrr8vj)
- - 🚯 [We are not the same.](http://9gag.com/gag/azeey5B)
- - 🚯 [Can always tell which athlete is Dutch](http://9gag.com/gag/aoggoqe)<!-- MEMES:END -->
+ - 🚖 [Can always tell which athlete is Dutch](http://9gag.com/gag/aoggoqe)
+ - 🚯 [You want sum fuk ?](http://9gag.com/gag/aLvvoR5)
+ - 🚯 [The rock should cast as toph](http://9gag.com/gag/a6116Mm)<!-- MEMES:END -->
 
 --- 
 
