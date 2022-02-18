@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify may have paid $200 million for Joe Rogan podcast](https://appleinsider.com/articles/22/02/18/spotify-may-have-paid-200-million-for-joe-rogan-podcast?utm_medium=rss)
- - [Eufy’s Dual doorbell proves two eyes on your porch are better than one](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
- - [China asks food delivery services to cut fees for restaurants; Meituan&#39;s stock fell 15%+ to a 19-month low, wiping $26B off its market value, now at ~$148B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220218/p9#a220218p9)<!-- TECH:END -->
+ - [Vergecast: MWC ’22 preview and Spotify’s latest acquisition](https://www.theverge.com/2022/2/18/22940675/vergecast-podcast-486-project-endgame-spotify-podsights-chartable)
+ - [Apple Store workers are starting to unionize, citing stagnating wages](https://appleinsider.com/articles/22/02/18/apple-store-workers-are-starting-to-unionize-citing-stagnating-wages?utm_medium=rss)
+ - [Coast, which makes expense management software to help companies control fuel and fleet spending, raises a $27.5M Series A co-led by Accel and Insight Partners &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220218/p10#a220218p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
