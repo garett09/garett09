@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game History Foundation Goes Off On Nintendo&#39;s &#39;Destructive&#39; Retro Policies](https://kotaku.com/nintendo-retro-classic-virtual-console-piracy-vghf-hist-1848558311)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [Riot Games co-founder Marc Merrill is the studio’s new president of games](https://www.polygon.com/22939812/riot-games-marc-merrill-president-games-co-founder)<!-- GAME:END -->
+ - [Uncharted’s post-credits scene sets up a familiar adventure](https://www.polygon.com/22937494/uncharted-post-credits-scene-explained)
+ - [Desperate Metroid Fans Are Convinced This Image Holds Prime 4 Clues](https://kotaku.com/metroid-prime-4-samus-aran-nintendo-retro-studios-twitt-1848559323)
+ - [Lost Ark&#39;s new servers are now online](https://www.pcgamer.com/lost-arks-new-servers-are-now-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
