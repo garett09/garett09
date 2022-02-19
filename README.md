@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Cursed brings startling new ideas and awful old ones to the werewolf horror story](https://www.polygon.com/reviews/22941664/the-cursed-review-horror)
  - [Mad Max 2 may have been in development before the pandemic](https://www.pcgamer.com/mad-max-2-may-have-been-in-development-before-the-pandemic)
- - [Valve is testing native Linux ports for the Steam Deck in addition to Proton](https://www.pcgamer.com/valve-is-testing-native-linux-ports-for-the-steam-deck-in-addition-to-proton)
- - [This Week on Xbox: New Fighting Games, Major Updates, and Events](https://news.xbox.com/en-us/2022/02/18/this-week-on-xbox-new-fighting-games-major-updates-and-events/)<!-- GAME:END -->
+ - [Valve is testing native Linux ports for the Steam Deck in addition to Proton](https://www.pcgamer.com/valve-is-testing-native-linux-ports-for-the-steam-deck-in-addition-to-proton)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
