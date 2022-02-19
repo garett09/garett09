@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The raccoons in Horizon Forbidden West got a sequel glow-up](https://www.polygon.com/gaming/22941095/horizon-forbidden-west-raccoons)
- - [Horizon Forbidden West walkthroughs, guides, and tips](https://www.polygon.com/guides/22912617/horizon-forbidden-west-collectibles-rock-trophies-skills-tallneck-blocked-path-fast-travel)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [Why Licorice Pizza deserves to win the Best Picture Oscar](https://www.polygon.com/22941532/licorice-pizza-deserves-best-picture-oscar-paul-thomas-anderson)
+ - [Lost Ark, As Told By Steam Reviews](https://kotaku.com/lost-ark-steam-reviews-round-up-free-diablo-style-mmo-r-1848565612)
+ - [The best heist movies you can watch right now](https://www.polygon.com/what-to-watch/22934807/best-heist-thriller-movies-crime-watch-netflix-amazon-prime-hbo-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
