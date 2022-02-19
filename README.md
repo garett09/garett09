@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 19: August Wi-Fi Smart Lock for $199, Half-Price Das Keyboard, more](https://appleinsider.com/articles/22/02/19/daily-deals-feb-19-august-wi-fi-smart-lock-for-199-half-price-das-keyboard-more?utm_medium=rss)
- - [Superbowl Ad Overloads Coinbase, a &#39;Space Diamond&#39; and Other Top Crypto Stories     - CNET](https://www.cnet.com/personal-finance/crypto/superbowl-ad-overloads-coinbase-space-diamonds-and-other-top-crypto-stories/#ftag=CAD590a51e)
- - [TV in the Bathroom: Bad Idea, but Technically Doable     - CNET](https://www.cnet.com/tech/home-entertainment/tv-in-the-bathroom-bad-idea-but-technically-doable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Project Zero: Linux developers patch security holes faster than anyone else, on average in 25 days, compared to Google in 44 days, Mozilla 46, and Apple 69 &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/220219/p3#a220219p3)
+ - [Apple vs Android RAM management: Who does it better?](https://www.androidauthority.com/apple-vs-android-ram-management-3100032/)
+ - [Daily deals Feb. 19: August Wi-Fi Smart Lock for $199, Half-Price Das Keyboard, more](https://appleinsider.com/articles/22/02/19/daily-deals-feb-19-august-wi-fi-smart-lock-for-199-half-price-das-keyboard-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
