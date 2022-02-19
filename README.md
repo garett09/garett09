@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft finally made the Rainbow Six Siege operator of my dreams](https://www.pcgamer.com/rainbow-six-siege-azami-demon-veil-year-7)
  - [Why Licorice Pizza deserves to win the Best Picture Oscar](https://www.polygon.com/22941532/licorice-pizza-deserves-best-picture-oscar-paul-thomas-anderson)
- - [Lost Ark, As Told By Steam Reviews](https://kotaku.com/lost-ark-steam-reviews-round-up-free-diablo-style-mmo-r-1848565612)
- - [The best heist movies you can watch right now](https://www.polygon.com/what-to-watch/22934807/best-heist-thriller-movies-crime-watch-netflix-amazon-prime-hbo-hulu)<!-- GAME:END -->
+ - [Lost Ark, As Told By Steam Reviews](https://kotaku.com/lost-ark-steam-reviews-round-up-free-diablo-style-mmo-r-1848565612)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
