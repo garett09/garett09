@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Storm Eunice has my office building swaying back and forth.](http://9gag.com/gag/agggRnx)
+ - 🚖 [The worst she could say is no](http://9gag.com/gag/a9113po)
  - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
- - 🚯 [The world is burning....](http://9gag.com/gag/aGzEKm0)<!-- MEMES:END -->
+ - 🚯 [Grandpa is going to f**k you](http://9gag.com/gag/aM44pq1)<!-- MEMES:END -->
 
 --- 
 
