@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst she could say is no](http://9gag.com/gag/a9113po)
- - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
- - 🚯 [Grandpa is going to f**k you](http://9gag.com/gag/aM44pq1)<!-- MEMES:END -->
+ - 🚖 [There, at last!](http://9gag.com/gag/avAQpyW)
+ - 🚯 [Grandpa is going to f**k you](http://9gag.com/gag/aM44pq1)
+ - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)<!-- MEMES:END -->
 
 --- 
 
