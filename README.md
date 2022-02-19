@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo TV Show Will Unmask The Master Chief](https://kotaku.com/halo-tv-show-face-actor-reveal-season-2-paramount-343-x-1848567856)
- - [Microsoft Started Activision Acquisition Talks Three Days After Bombshell Harassment Report](https://kotaku.com/activision-microsoft-kotick-spencer-ceo-deal-harassment-1848567540)
- - [Ubisoft finally made the Rainbow Six Siege operator of my dreams](https://www.pcgamer.com/rainbow-six-siege-azami-demon-veil-year-7)<!-- GAME:END -->
+ - [Cyberpunk&#39;s 1.5 update includes the beginnings of a transmog system](https://www.pcgamer.com/cyberpunks-15-update-includes-the-beginnings-of-a-transmog-system)
+ - [Henry Cavill spotted at Games Workshop Headquarters](https://www.pcgamer.com/henry-cavill-spotted-at-games-workshop-headquarters)
+ - [Halo TV Show Will Unmask The Master Chief](https://kotaku.com/halo-tv-show-face-actor-reveal-season-2-paramount-343-x-1848567856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
