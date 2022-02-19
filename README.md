@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Victorian England &lpar;1901&rpar;](http://9gag.com/gag/aRrrYwG)
- - 🚯 [When 100 percent brain power is not enough](http://9gag.com/gag/aXrr5mV)
+ - 🚖 [Indeed......](http://9gag.com/gag/a911Qr6)
+ - 🚯 [Why I love metal festivals..](http://9gag.com/gag/anggpOz)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
