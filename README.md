@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft Started Activision Acquisition Talks Three Days After Bombshell Harassment Report](https://kotaku.com/activision-microsoft-kotick-spencer-ceo-deal-harassment-1848567540)
  - [Ubisoft finally made the Rainbow Six Siege operator of my dreams](https://www.pcgamer.com/rainbow-six-siege-azami-demon-veil-year-7)
- - [Why Licorice Pizza deserves to win the Best Picture Oscar](https://www.polygon.com/22941532/licorice-pizza-deserves-best-picture-oscar-paul-thomas-anderson)
- - [Lost Ark, As Told By Steam Reviews](https://kotaku.com/lost-ark-steam-reviews-round-up-free-diablo-style-mmo-r-1848565612)<!-- GAME:END -->
+ - [Why Licorice Pizza deserves to win the Best Picture Oscar](https://www.polygon.com/22941532/licorice-pizza-deserves-best-picture-oscar-paul-thomas-anderson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
