@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Missing character bug affects Twitter links sent via iMessage](https://appleinsider.com/articles/22/02/18/missing-character-bug-affects-twitter-links-sent-via-imessage?utm_medium=rss)
- - [Lost Ark is a grindy MMO that’s perfect to while away the hours](https://www.theverge.com/2022/2/18/22937386/lost-ark-amazon-games-free-to-play-mmo-diablo-clone)
- - [Doctors Transplant Genetically Modified Pig&#39;s Heart Into Human in Medical First     - CNET](https://www.cnet.com/news/doctors-transplant-genetically-modified-pigs-heart-into-human-in-medical-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Lyft and Uber&#39;s foray into the est. $3B non-emergency medical transportation business, where everyday drivers take patients to and from appointments &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/220218/p22#a220218p22)
+ - [Apple gives Oscar nominated &#39;CODA&#39; movie a theatrical re-release, for free](https://appleinsider.com/articles/22/02/18/apple-gives-oscar-nominated-coda-movie-a-theatrical-re-release-for-free?utm_medium=rss)
+ - [Skype users in the US can now make 911 calls from their computers](https://www.theverge.com/2022/2/18/22939665/skype-emergency-calls-911-safety-video-call)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
