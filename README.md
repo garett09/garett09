@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers)
- - [Russia Was Behind DDoS Attacks Against Ukraine, US Officials Say](https://www.wired.com/story/ukraine-ddos-russia-crypo-roblox-security-news)
- - [These Apps Turn Your Apple Watch Into a Fitness Tracking Machine](https://www.wired.com/story/apple-watch-fitness-tracking-apps-tips)<!-- TECH:END -->
+ - [Daily deals Feb. 19: August Wi-Fi Smart Lock for $199, Half-Price Das Keyboard, more](https://appleinsider.com/articles/22/02/19/daily-deals-feb-19-august-wi-fi-smart-lock-for-199-half-price-das-keyboard-more?utm_medium=rss)
+ - [Superbowl Ad Overloads Coinbase, a &#39;Space Diamond&#39; and Other Top Crypto Stories     - CNET](https://www.cnet.com/personal-finance/crypto/superbowl-ad-overloads-coinbase-space-diamonds-and-other-top-crypto-stories/#ftag=CAD590a51e)
+ - [TV in the Bathroom: Bad Idea, but Technically Doable     - CNET](https://www.cnet.com/tech/home-entertainment/tv-in-the-bathroom-bad-idea-but-technically-doable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
