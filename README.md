@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 16-inch MacBook Pro falls to $2,299 &lpar;$200 off&rpar; in latest price war](https://appleinsider.com/articles/22/02/19/apples-16-inch-macbook-pro-falls-to-2299-200-off-in-latest-price-war?utm_medium=rss)
- - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)
- - [Nomad&#39;s leather iPad Pro cases review: High-quality leather for a premium tablet](https://appleinsider.com/articles/22/02/19/nomads-leather-ipad-pro-cases-review-high-quality-leather-for-a-premium-tablet?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s claims of ‘broken promises’ denied by the SEC](https://www.theverge.com/2022/2/19/22942017/elon-musk-tesla-sec-claims-unrelenting-investigation-countered)
+ - [Pegasus spyware scandal uncovered by fake image file on an iPhone](https://appleinsider.com/articles/22/02/19/pegasus-spyware-scandal-uncovered-by-fake-image-file-on-an-iphone?utm_medium=rss)
+ - [Apple&#39;s 16-inch MacBook Pro falls to $2,299 &lpar;$200 off&rpar; in latest price war](https://appleinsider.com/articles/22/02/19/apples-16-inch-macbook-pro-falls-to-2299-200-off-in-latest-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
