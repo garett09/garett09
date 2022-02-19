@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too funny to be in gaming...](http://9gag.com/gag/aOQQwxv)
- - 🚯 [Some food for thoughts](http://9gag.com/gag/aLvvZEM)
+ - 🚖 [Mother why you have forsaken me](http://9gag.com/gag/adggmKN)
+ - 🚯 [I will have my vengeance... in this life or the next](http://9gag.com/gag/aeggLWj)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
