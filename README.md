@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;ll have to like the game if we make the characters into memes](http://9gag.com/gag/ay99gWW)
- - 🚯 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
- - 🚯 [Joe is just to old for this.](http://9gag.com/gag/ay99y4q)<!-- MEMES:END -->
+ - 🚖 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
+ - 🚯 [Australian Prime Minister Scott Morrison tries some welding](http://9gag.com/gag/azee6bz)
+ - 🚯 [Better spend It on scratch cards next time](http://9gag.com/gag/aPZZNrV)<!-- MEMES:END -->
 
 --- 
 
