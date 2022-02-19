@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Project Zero: Linux developers patch security holes faster than anyone else, on average in 25 days, compared to Google in 44 days, Mozilla 46, and Apple 69 &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/220219/p3#a220219p3)
- - [Apple vs Android RAM management: Who does it better?](https://www.androidauthority.com/apple-vs-android-ram-management-3100032/)
- - [Daily deals Feb. 19: August Wi-Fi Smart Lock for $199, Half-Price Das Keyboard, more](https://appleinsider.com/articles/22/02/19/daily-deals-feb-19-august-wi-fi-smart-lock-for-199-half-price-das-keyboard-more?utm_medium=rss)<!-- TECH:END -->
+ - [New &#39;iPhone 14 Pro&#39; rumored to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-420-3112045/)
+ - [France&#39;s Navigo travel card will improve Apple Pay support in 2023](https://appleinsider.com/articles/22/02/19/frances-navigo-travel-card-will-improve-apple-pay-support-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
