@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take a break my friend and enjoy some talent](http://9gag.com/gag/a5118pq)
- - 🚯 [Platypuses/Platypi are extremely affectionate, also have the most REM sleep of any animal. &lpar;5.8-8 h/day&rpar;](http://9gag.com/gag/aOQQwQv)
+ - 🚖 [Looks like everyone is horny](http://9gag.com/gag/a311mY5)
+ - 🚯 [Take a break my friend and enjoy some talent](http://9gag.com/gag/a5118pq)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
