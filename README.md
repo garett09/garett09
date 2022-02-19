@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;iPhone 14 Pro&#39; rumored to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-420-3112045/)
- - [France&#39;s Navigo travel card will improve Apple Pay support in 2023](https://appleinsider.com/articles/22/02/19/frances-navigo-travel-card-will-improve-apple-pay-support-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad&#39;s leather iPad Pro cases review: High-quality leather for a premium tablet](https://appleinsider.com/articles/22/02/19/nomads-leather-ipad-pro-cases-review-high-quality-leather-for-a-premium-tablet?utm_medium=rss)
+ - [How Apple may get to $1T in revenue by 2030, from $366B in 2021, using its hardware expertise, high consumer trust, and capital reserves to enter new markets &lpar;Scott Galloway/No Mercy/No Malice&rpar;](http://www.techmeme.com/220219/p4#a220219p4)
+ - [New &#39;iPhone 14 Pro&#39; rumored to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
