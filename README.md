@@ -197,7 +197,7 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So netflix does know how to stay true to the source material.](http://9gag.com/gag/avAA3BZ)
+ - 🚖 [Cooking with an Afghan cauldron pressure cooker in Sakha !](http://9gag.com/gag/a911Qe6)
  - 🚯 [How Dr. Who travels these days....](http://9gag.com/gag/a411ebA)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
