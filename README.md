@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Netflix original movies in 2022](https://www.androidauthority.com/best-netflix-original-movies-3101711/)
- - [12 Presidents’ Day Sales on Laptops and Tablets](https://www.wired.com/story/presidents-day-laptop-tablet-deals-feb-2022)
- - [How Preserving Agave Could Help Save an Endangered Bat](https://www.wired.com/story/how-preserving-agave-could-help-save-an-endangered-bat)<!-- TECH:END -->
+ - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers)
+ - [Russia Was Behind DDoS Attacks Against Ukraine, US Officials Say](https://www.wired.com/story/ukraine-ddos-russia-crypo-roblox-security-news)
+ - [These Apps Turn Your Apple Watch Into a Fitness Tracking Machine](https://www.wired.com/story/apple-watch-fitness-tracking-apps-tips)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
