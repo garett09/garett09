@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some food for thoughts](http://9gag.com/gag/aLvvZEM)
- - 🚯 [Stormy weather in The Netherlands](http://9gag.com/gag/aeggnV5)
+ - 🚖 [Too funny to be in gaming...](http://9gag.com/gag/aOQQwxv)
+ - 🚯 [Some food for thoughts](http://9gag.com/gag/aLvvZEM)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
