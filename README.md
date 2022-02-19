@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Some food for thoughts](http://9gag.com/gag/aLvvZEM)
- - 🚯 [*turns music louder*](http://9gag.com/gag/aYrr3dm)
+ - 🚯 [Stormy weather in The Netherlands](http://9gag.com/gag/aeggnV5)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
