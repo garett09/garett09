@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cooking with an Afghan cauldron pressure cooker in Sakha !](http://9gag.com/gag/a911Qe6)
- - 🚯 [How Dr. Who travels these days....](http://9gag.com/gag/a411ebA)
+ - 🚖 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
+ - 🚯 [Cooking with an Afghan cauldron pressure cooker in Sakha !](http://9gag.com/gag/a911Qe6)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
