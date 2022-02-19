@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember diz gem ?!](http://9gag.com/gag/agggRGr)
+ - 🚖 [Storm Eunice has my office building swaying back and forth.](http://9gag.com/gag/agggRnx)
  - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
- - 🚯 [Wondering what else is down there](http://9gag.com/gag/aGzEKnK)<!-- MEMES:END -->
+ - 🚯 [The world is burning....](http://9gag.com/gag/aGzEKm0)<!-- MEMES:END -->
 
 --- 
 
