@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every BMW driver simulator before they were handed the keys](http://9gag.com/gag/aYrr8Wx)
- - 🚯 [Australian Prime Minister Scott Morrison tries some welding](http://9gag.com/gag/azee6bz)
+ - 🚖 [Why I love metal festivals..](http://9gag.com/gag/anggpOz)
+ - 🚯 [Too tired to look for the correct meme format either....](http://9gag.com/gag/avAAYA5)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
