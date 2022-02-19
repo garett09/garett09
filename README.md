@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
- - 🚯 [Australian Prime Minister Scott Morrison tries some welding](http://9gag.com/gag/azee6bz)
- - 🚯 [Better spend It on scratch cards next time](http://9gag.com/gag/aPZZNrV)<!-- MEMES:END -->
+ - 🚖 [Remember diz gem ?!](http://9gag.com/gag/agggRGr)
+ - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
+ - 🚯 [Wondering what else is down there](http://9gag.com/gag/aGzEKnK)<!-- MEMES:END -->
 
 --- 
 
