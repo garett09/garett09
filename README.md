@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [The rise of prestige Chinese games](https://www.polygon.com/22893265/china-aaa-indie-video-games-genshin-impact-dyson-sphere-program)
- - [Isle of the Dead, the FPS that proudly declared itself a Wolfenstein knock-off](https://www.pcgamer.com/saturday-crapshoot-isle-of-the-dead)<!-- GAME:END -->
+ - [The raccoons in Horizon Forbidden West got a sequel glow-up](https://www.polygon.com/gaming/22941095/horizon-forbidden-west-raccoons)
+ - [Horizon Forbidden West walkthroughs, guides, and tips](https://www.polygon.com/guides/22912617/horizon-forbidden-west-collectibles-rock-trophies-skills-tallneck-blocked-path-fast-travel)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
