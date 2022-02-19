@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The rise of prestige Chinese games](https://www.polygon.com/22893265/china-aaa-indie-video-games-genshin-impact-dyson-sphere-program)
  - [Isle of the Dead, the FPS that proudly declared itself a Wolfenstein knock-off](https://www.pcgamer.com/saturday-crapshoot-isle-of-the-dead)
- - [The Cursed brings startling new ideas and awful old ones to the werewolf horror story](https://www.polygon.com/reviews/22941664/the-cursed-review-horror)
- - [Mad Max 2 may have been in development before the pandemic](https://www.pcgamer.com/mad-max-2-may-have-been-in-development-before-the-pandemic)<!-- GAME:END -->
+ - [The Cursed brings startling new ideas and awful old ones to the werewolf horror story](https://www.polygon.com/reviews/22941664/the-cursed-review-horror)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
