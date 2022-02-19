@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ottawa Police Crack Down on Trucker Protest: What You Should Know     - CNET](https://www.cnet.com/news/ottawa-police-crack-down-on-trucker-protest-what-you-should-know/#ftag=CAD590a51e)
  - [Sources: Better.com is preparing for layoffs that could affect as much as 40% to 50% of staff, as more senior executives depart including its finance VP &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220218/p23#a220218p23)
- - [The Southwest Is Experiencing the Worst Drought in Over 1,200 Years     - CNET](https://www.cnet.com/news/the-southwest-is-experiencing-the-worst-drought-in-over-1200-years/#ftag=CAD590a51e)
- - [EU Challenges China Over Telecom Patents     - CNET](https://www.cnet.com/tech/eu-challenges-china-over-telecom-patents/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Southwest Is Experiencing Its Worst Drought in Over 1,200 Years     - CNET](https://www.cnet.com/news/the-southwest-is-experiencing-the-worst-drought-in-over-1200-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
