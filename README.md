@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ottawa Police Crack Down on Trucker Protest: What You Should Know     - CNET](https://www.cnet.com/news/ottawa-police-crack-down-on-trucker-protest-what-you-should-know/#ftag=CAD590a51e)
- - [Sources: Better.com is preparing for layoffs that could affect as much as 40% to 50% of staff, as more senior executives depart including its finance VP &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220218/p23#a220218p23)
- - [The Southwest Is Experiencing Its Worst Drought in Over 1,200 Years     - CNET](https://www.cnet.com/news/the-southwest-is-experiencing-the-worst-drought-in-over-1200-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Read exactly how Microsoft’s $68.7 billion deal for Activision Blizzard came together](https://www.theverge.com/22941636/microsoft-activision-blizzard-acquisition-sec-filing-came-together)
+ - [Kubecost, whose open source tools helps businesses monitor, manage, and optimize Kubernetes spend at scale, raises a $25M Series A led by Coatue Management &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220218/p24#a220218p24)
+ - [If iMessage sliced off both ends of your tweets, you’re not alone](https://www.theverge.com/2022/2/18/22941511/twitter-bug-first-last-characters-imessage-tweet-previews)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
