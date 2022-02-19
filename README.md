@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
- - 🚯 [Cooking with an Afghan cauldron pressure cooker in Sakha !](http://9gag.com/gag/a911Qe6)
+ - 🚖 [Every BMW driver simulator before they were handed the keys](http://9gag.com/gag/aYrr8Wx)
+ - 🚯 [Australian Prime Minister Scott Morrison tries some welding](http://9gag.com/gag/azee6bz)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
