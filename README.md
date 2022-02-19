@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s claims of ‘broken promises’ denied by the SEC](https://www.theverge.com/2022/2/19/22942017/elon-musk-tesla-sec-claims-unrelenting-investigation-countered)
- - [Pegasus spyware scandal uncovered by fake image file on an iPhone](https://appleinsider.com/articles/22/02/19/pegasus-spyware-scandal-uncovered-by-fake-image-file-on-an-iphone?utm_medium=rss)
- - [Apple&#39;s 16-inch MacBook Pro falls to $2,299 &lpar;$200 off&rpar; in latest price war](https://appleinsider.com/articles/22/02/19/apples-16-inch-macbook-pro-falls-to-2299-200-off-in-latest-price-war?utm_medium=rss)<!-- TECH:END -->
+ - [Apple has a clear path to $1T in revenue by 2030](https://appleinsider.com/articles/22/02/19/apple-has-a-clear-path-to-1t-in-revenue-by-2030?utm_medium=rss)
+ - [Q&amp;A with Intel EVP Dr. Ann Kelleher on lessons learned from the company&#39;s misadventures with 10nm process nodes, its vision for Foundry Services, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220219/p5#a220219p5)
+ - [Millions of WordPress Sites Got a Forced Update for a Serious Bug](https://www.wired.com/story/wordpress-sites-get-forced-update-serious-vulnerability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
