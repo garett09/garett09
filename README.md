@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This awesome double solo](http://9gag.com/gag/avAANAX)
- - 🚯 [The Netherlands now](http://9gag.com/gag/arnn7DB)
+ - 🚖 [Some food for thoughts](http://9gag.com/gag/aLvvZEM)
+ - 🚯 [*turns music louder*](http://9gag.com/gag/aYrr3dm)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
