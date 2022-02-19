@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Nomad&#39;s leather iPad Pro cases review: High-quality leather for a premium tablet](https://appleinsider.com/articles/22/02/19/nomads-leather-ipad-pro-cases-review-high-quality-leather-for-a-premium-tablet?utm_medium=rss)
- - [How Apple may get to $1T in revenue by 2030, from $366B in 2021, using its hardware expertise, high consumer trust, and capital reserves to enter new markets &lpar;Scott Galloway/No Mercy/No Malice&rpar;](http://www.techmeme.com/220219/p4#a220219p4)
- - [New &#39;iPhone 14 Pro&#39; rumored to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
+ - [How Apple may get to $1T in revenue by 2030, from $366B in 2021, using its hardware expertise, high consumer trust, and capital reserves to enter new markets &lpar;Scott Galloway/No Mercy/No Malice&rpar;](http://www.techmeme.com/220219/p4#a220219p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
