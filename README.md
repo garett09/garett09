@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte’s New Aorus 15 XE4 Offers Some Powerful Upgrades](https://www.pcgamer.com/gigabytes-new-aorus-15-xe4-offers-some-powerful-upgrades)
- - [The Peacemaker is finally known for something other than Watchmen](https://www.polygon.com/22941154/the-peacemaker-dceu-watchmen)
- - [Netflix’s Texas Chainsaw Massacre, The King’s Man, and every new movie you can watch from home this week](https://www.polygon.com/what-to-watch/2022/2/18/22931797/new-movies-watch-texas-chainsaw-massacre-netflix-the-kings-man-hulu)<!-- GAME:END -->
+ - [Mad Max 2 may have been in development before the pandemic](https://www.pcgamer.com/mad-max-2-may-have-been-in-development-before-the-pandemic)
+ - [Valve is testing native Linux ports for the Steam Deck in addition to Proton](https://www.pcgamer.com/valve-is-testing-native-linux-ports-for-the-steam-deck-in-addition-to-proton)
+ - [This Week on Xbox: New Fighting Games, Major Updates, and Events](https://news.xbox.com/en-us/2022/02/18/this-week-on-xbox-new-fighting-games-major-updates-and-events/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
