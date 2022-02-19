@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There, at last!](http://9gag.com/gag/avAQpyW)
- - 🚯 [Grandpa is going to f**k you](http://9gag.com/gag/aM44pq1)
- - 🚯 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)<!-- MEMES:END -->
+ - 🚖 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
+ - 🚯 [Same but different...](http://9gag.com/gag/aegQje5)
+ - 🚯 [Wondering what else is down there](http://9gag.com/gag/aGzEKnK)<!-- MEMES:END -->
 
 --- 
 
