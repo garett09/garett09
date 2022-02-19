@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why I love metal festivals..](http://9gag.com/gag/anggpOz)
- - 🚯 [Too tired to look for the correct meme format either....](http://9gag.com/gag/avAAYA5)
- - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
+ - 🚖 [They&#39;ll have to like the game if we make the characters into memes](http://9gag.com/gag/ay99gWW)
+ - 🚯 [What was the director thinking?!](http://9gag.com/gag/aXrrDBV)
+ - 🚯 [Joe is just to old for this.](http://9gag.com/gag/ay99y4q)<!-- MEMES:END -->
 
 --- 
 
