@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Isle of the Dead, the FPS that proudly declared itself a Wolfenstein knock-off](https://www.pcgamer.com/saturday-crapshoot-isle-of-the-dead)
  - [The Cursed brings startling new ideas and awful old ones to the werewolf horror story](https://www.polygon.com/reviews/22941664/the-cursed-review-horror)
- - [Mad Max 2 may have been in development before the pandemic](https://www.pcgamer.com/mad-max-2-may-have-been-in-development-before-the-pandemic)
- - [Valve is testing native Linux ports for the Steam Deck in addition to Proton](https://www.pcgamer.com/valve-is-testing-native-linux-ports-for-the-steam-deck-in-addition-to-proton)<!-- GAME:END -->
+ - [Mad Max 2 may have been in development before the pandemic](https://www.pcgamer.com/mad-max-2-may-have-been-in-development-before-the-pandemic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
