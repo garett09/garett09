@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad&#39;s leather iPad Pro cases review: High-quality leather for a premium tablet](https://appleinsider.com/articles/22/02/19/nomads-leather-ipad-pro-cases-review-high-quality-leather-for-a-premium-tablet?utm_medium=rss)
- - [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
- - [How Apple may get to $1T in revenue by 2030, from $366B in 2021, using its hardware expertise, high consumer trust, and capital reserves to enter new markets &lpar;Scott Galloway/No Mercy/No Malice&rpar;](http://www.techmeme.com/220219/p4#a220219p4)<!-- TECH:END -->
+ - [Apple&#39;s 16-inch MacBook Pro falls to $2,299 &lpar;$200 off&rpar; in latest price war](https://appleinsider.com/articles/22/02/19/apples-16-inch-macbook-pro-falls-to-2299-200-off-in-latest-price-war?utm_medium=rss)
+ - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)
+ - [Nomad&#39;s leather iPad Pro cases review: High-quality leather for a premium tablet](https://appleinsider.com/articles/22/02/19/nomads-leather-ipad-pro-cases-review-high-quality-leather-for-a-premium-tablet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
