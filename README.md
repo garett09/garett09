@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Convictional, which offers a one-stop shop for retailers to source, onboard, integrate, and trade with suppliers, raises a $40M Series B led by YC Continuity &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220219/p1#a220219p1)
- - [Read exactly how Microsoft’s $68.7 billion deal for Activision Blizzard came together](https://www.theverge.com/22941636/microsoft-activision-blizzard-acquisition-sec-filing-came-together)
- - [Kubecost, whose open source tools helps businesses monitor, manage, and optimize Kubernetes spend at scale, raises a $25M Series A led by Coatue Management &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220218/p24#a220218p24)<!-- TECH:END -->
+ - [The Weekly Authority: Pixel 7 leaks](https://www.androidauthority.com/the-weekly-authority-edition-182-3108298/)
+ - [The 20 Best Presidents&#39; Day Sales on Home Goods and Tech](https://www.wired.com/story/presidents-day-sales-2022)
+ - [How to Set Boundaries With Your Work—Using Software](https://www.wired.com/story/how-to-set-boundaries-work-life-balance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
