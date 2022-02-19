@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
  - [The rise of prestige Chinese games](https://www.polygon.com/22893265/china-aaa-indie-video-games-genshin-impact-dyson-sphere-program)
- - [Isle of the Dead, the FPS that proudly declared itself a Wolfenstein knock-off](https://www.pcgamer.com/saturday-crapshoot-isle-of-the-dead)
- - [The Cursed brings startling new ideas and awful old ones to the werewolf horror story](https://www.polygon.com/reviews/22941664/the-cursed-review-horror)<!-- GAME:END -->
+ - [Isle of the Dead, the FPS that proudly declared itself a Wolfenstein knock-off](https://www.pcgamer.com/saturday-crapshoot-isle-of-the-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
