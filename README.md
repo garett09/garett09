@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*turns music louder*](http://9gag.com/gag/aYrr3dm)
- - 🚯 [Eastern Ukraine announces evacuation of residents](http://9gag.com/gag/a711RgA)
+ - 🚖 [This awesome double solo](http://9gag.com/gag/avAANAX)
+ - 🚯 [The Netherlands now](http://9gag.com/gag/arnn7DB)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
