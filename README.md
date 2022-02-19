@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super Mario voice actor Charles Martinet](http://9gag.com/gag/aqGGqgP)
- - 🚯 [Feel like shieeeet](http://9gag.com/gag/aqGGPeM)
+ - 🚖 [Mother why you have forsaken me](http://9gag.com/gag/adggmKN)
+ - 🚯 [So netflix does know how to stay true to the source material.](http://9gag.com/gag/avAA3BZ)
  - 🚯 [Can you screenshot to capture all 9 unique Kitty Dingers at once?](http://9gag.com/gag/aYrrdLx)<!-- MEMES:END -->
 
 --- 
