@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has a clear path to $1T in revenue by 2030](https://appleinsider.com/articles/22/02/19/apple-has-a-clear-path-to-1t-in-revenue-by-2030?utm_medium=rss)
- - [Q&amp;A with Intel EVP Dr. Ann Kelleher on lessons learned from the company&#39;s misadventures with 10nm process nodes, its vision for Foundry Services, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220219/p5#a220219p5)
- - [Millions of WordPress Sites Got a Forced Update for a Serious Bug](https://www.wired.com/story/wordpress-sites-get-forced-update-serious-vulnerability)<!-- TECH:END -->
+ - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)
+ - [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue?utm_medium=rss)
+ - [Apple has a clear path to $1T in revenue by 2030](https://appleinsider.com/articles/22/02/19/apple-has-a-clear-path-to-1t-in-revenue-by-2030?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
