@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your electrician has OCD...](http://9gag.com/gag/aLv1Pwx)
- - 🚯 [Preserved dignity and respect than job.](http://9gag.com/gag/aXrnp7v)
+ - 🚖 [Preserved dignity and respect than job.](http://9gag.com/gag/aXrnp7v)
+ - 🚯 [Ozai&#39;s Angels](http://9gag.com/gag/aVxbWyK)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
