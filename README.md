@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s Vedanta plans to invest $7.4B to set up a 28nm chip fab in partnership with Foxconn, after applying for an Indian government incentive scheme &lpar;The Economic Times&rpar;](http://www.techmeme.com/220219/p6#a220219p6)
  - [Peloton’s new CEO sees app store and overhauled subscription model in its future](https://www.theverge.com/2022/2/19/22942449/pelotons-new-ceo-subscriptions-open-app-store-barry-mccarthy)
- - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)
- - [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
