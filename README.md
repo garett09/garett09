@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 20: $250 Oculus Quest 2, Half-Price Amazon Fire 7 Kids, more](https://appleinsider.com/articles/22/02/20/daily-deals-feb-20-250-oculus-quest-2-half-price-amazon-fire-7-kids-more?utm_medium=rss)
- - [The Best Personal Safety Devices, Apps, and Alarms](https://www.wired.com/story/best-personal-safety-tech)
- - [A joint Google account is the best advice I can give to couples](https://www.androidauthority.com/joint-google-account-couples-3110484/)<!-- TECH:END -->
+ - [Nearly every Mac rumored to see an update in 2022](https://appleinsider.com/articles/22/02/20/nearly-every-mac-rumored-to-see-an-update-in-2022?utm_medium=rss)
+ - [Spotify&#39;s acquisitions of Podsights and Chartable prepare it to compete better with YouTube, offering programmatic ads and robust analytics to creators &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220220/p6#a220220p6)
+ - [$1.7 million in NFTs stolen in apparent phishing attack on OpenSea users](https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
