@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s social media app will reportedly go live on Presidents’ Day](https://www.theverge.com/2022/2/20/22943510/trump-social-network-truth-social-presidents-day-launch)
- - [Netflix: 41 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/news/netflix-41-of-the-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)
- - [What is RAM and how does it work? Everything you need to know](https://www.androidauthority.com/what-is-ram-3107999/)<!-- TECH:END -->
+ - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)
+ - [Tropic, which helps enterprises buy and manage software as well as to identify cost savings on purchases, raises a $40M Series B led by Insight Partners &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220220/p9#a220220p9)
+ - [Netflix: The Best Sci-Fi Movies to Watch in 2022     - CNET](https://www.cnet.com/news/netflix-the-best-sci-fi-movies-to-watch-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
