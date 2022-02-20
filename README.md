@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ha gaaaayyy](http://9gag.com/gag/apg9EWD)
- - 🚯 [Devastating](http://9gag.com/gag/aogKzpg)
- - 🚯 [US has school shooting. Indonesia has melee battle royale. we are not the same.](http://9gag.com/gag/abgvqMp)<!-- MEMES:END -->
+ - 🚖 [Pretty soon you&#39;re going to be break dancing. kudos to you!](http://9gag.com/gag/a81qb6Z)
+ - 🚯 [30 Months of LOVE](http://9gag.com/gag/aBndQZD)
+ - 🚯 [Hahaha](http://9gag.com/gag/aAG0VyZ)<!-- MEMES:END -->
 
 --- 
 
