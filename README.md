@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;iPhone 14 Pro&#39; rumored to have 8GB RAM](https://appleinsider.com/articles/22/02/17/new-iphone-14-pro-said-to-have-8gb-ram?utm_medium=rss)
  - [Nearly every Mac rumored to see an update in 2022](https://appleinsider.com/articles/22/02/20/nearly-every-mac-rumored-to-see-an-update-in-2022?utm_medium=rss)
- - [Spotify&#39;s acquisitions of Podsights and Chartable prepare it to compete better with YouTube, offering programmatic ads and robust analytics to creators &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220220/p6#a220220p6)
- - [$1.7 million in NFTs stolen in apparent phishing attack on OpenSea users](https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft)<!-- TECH:END -->
+ - [Spotify&#39;s acquisitions of Podsights and Chartable prepare it to compete better with YouTube, offering programmatic ads and robust analytics to creators &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220220/p6#a220220p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
