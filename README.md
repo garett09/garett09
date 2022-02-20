@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva Review 2022: Details, Pricing &amp; Features](https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html)
- - [How to Use Google Chrome&#39;s Enhanced Safety Mode](https://www.wired.com/story/how-to-use-google-chrome-enhanced-safety-mode)
- - [The Best Podcasts for Everyone](https://www.wired.com/story/best-podcasts)<!-- TECH:END -->
+ - [A joint Google account is the best advice I can give to couples](https://www.androidauthority.com/joint-google-account-couples-3110484/)
+ - [Any Single Galaxy Reveals the Composition of an Entire Universe](https://www.wired.com/story/any-single-galaxy-reveals-the-composition-of-an-entire-universe)
+ - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
