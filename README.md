@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019d love this](http://9gag.com/gag/arnmeOp)
- - 🚯 [Acappella Survivor - Eye of the Tiger](http://9gag.com/gag/arnm4ed)
+ - 🚖 [Good advice](http://9gag.com/gag/aegQ0rQ)
+ - 🚯 [Acappella Dido - Thank you](http://9gag.com/gag/avAQZAE)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
