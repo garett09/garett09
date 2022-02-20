@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So proud of modding community](http://9gag.com/gag/aM4EeQ6)
- - 🚯 [Same but different...](http://9gag.com/gag/aegQje5)
- - 🚯 [Wondering what else is down there](http://9gag.com/gag/aGzEKnK)<!-- MEMES:END -->
+ - 🚖 [There, at last!](http://9gag.com/gag/avAQpyW)
+ - 🚯 [The world is burning....](http://9gag.com/gag/aGzEKm0)
+ - 🚯 [When you are forklift certified but still unhappy and rethinking your life choices](http://9gag.com/gag/aM4Ee61)<!-- MEMES:END -->
 
 --- 
 
