@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Class warfare is The Walking Dead’s Big Bad in the new wave of season 11 episodes](https://www.polygon.com/22941252/walking-dead-season-11-b-review)
  - [Dying Light 2’s parkour is chef’s kiss, perfection](https://www.polygon.com/22941196/dying-light-2-stay-human-climbing-parkour-techland)
- - [The 13 best video game intros](https://www.polygon.com/best-games/22938609/best-video-game-openings-intros-tutorials-legend-of-zelda-breath-of-the-wild-half-life-2)
- - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)<!-- GAME:END -->
+ - [The 13 best video game intros](https://www.polygon.com/best-games/22938609/best-video-game-openings-intros-tutorials-legend-of-zelda-breath-of-the-wild-half-life-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
