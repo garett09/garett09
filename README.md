@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best RTX 3070 laptops](https://www.androidauthority.com/best-rtx-3070-laptops-3059660/)
- - [Kanye says he turned down $100M Apple Music offer &amp; is now beefing with Apple](https://appleinsider.com/articles/22/02/20/kanye-allegedly-loses-apple-music-deal-claims-he-dismissed-100m-offer?utm_medium=rss)
- - [Best Chromebook for 2022: 7 Chromebooks, Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Nvidia CEO Jensen Huang on the company&#39;s strategy after its failed Arm bid, Omniverse&#39;s progress, and its bet on self-driving cars &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220220/p8#a220220p8)
+ - [NFTs worth $1.7M stolen via OpenSea phishing attack](https://appleinsider.com/articles/22/02/20/nfts-worth-17m-stolen-via-opensea-phishing-attack?utm_medium=rss)
+ - [Apple will reportedly debut an M2 chip with four new Macs this year](https://www.theverge.com/2022/2/20/22943411/apple-m2-chip-new-macs-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
