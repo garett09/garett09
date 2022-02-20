@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tactics RPG Battle Brothers gets a free DLC with dissection and praying](https://www.pcgamer.com/tactics-rpg-battle-brothers-gets-a-free-dlc-with-dissection-and-praying)
  - [Why CODA deserves to win Best Picture](https://www.polygon.com/22941112/coda-apple-tv-watch-2022-best-picture-oscar)
- - [Sunday Comics: I Have No Idea](https://kotaku.com/sunday-comics-i-have-no-idea-1848569389)
- - [Class warfare is The Walking Dead’s Big Bad in the new wave of season 11 episodes](https://www.polygon.com/22941252/walking-dead-season-11-b-review)<!-- GAME:END -->
+ - [Sunday Comics: I Have No Idea](https://kotaku.com/sunday-comics-i-have-no-idea-1848569389)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
