@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are forklift certified but still unhappy and rethinking your life choices](http://9gag.com/gag/aM4Ee61)
- - 🚯 [A water droplet levitating in the air with sound waves. It&#39;s one of many projects me and my colleges are working on. The method is called acoustic levitation. Enjoy! :&rpar;](http://9gag.com/gag/a61qrOR)
- - 🚯 [Commercial plane speed at 40,000 ft](http://9gag.com/gag/amgAXLd)<!-- MEMES:END -->
+ - 🚖 [Reverse Stream](http://9gag.com/gag/a81qWoV)
+ - 🚯 [So tired of hearing about it](http://9gag.com/gag/aLv16nM)
+ - 🚯 [Hea\u2026](http://9gag.com/gag/aqGemjY)<!-- MEMES:END -->
 
 --- 
 
