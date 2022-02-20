@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn...](http://9gag.com/gag/aGzERN5)
- - 🚯 [Simplistic and recognizable](http://9gag.com/gag/aAG0PYR)
+ - 🚖 [This is what boys do in their free time](http://9gag.com/gag/ay92d4W)
+ - 🚯 [Life is good](http://9gag.com/gag/aOQxV0D)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
