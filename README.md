@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Trump’s social media app will reportedly go live on Presidents’ Day](https://www.theverge.com/2022/2/20/22943510/trump-social-network-truth-social-presidents-day-launch)
- - [What is RAM and how does it work? Everything you need to know](https://www.androidauthority.com/what-is-ram-3107999/)
- - [Interview with Nvidia CEO Jensen Huang on the company&#39;s strategy after its failed Arm bid, Omniverse&#39;s progress, and its bet on self-driving cars &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220220/p8#a220220p8)<!-- TECH:END -->
+ - [Netflix: 41 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/news/netflix-41-of-the-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)
+ - [What is RAM and how does it work? Everything you need to know](https://www.androidauthority.com/what-is-ram-3107999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
