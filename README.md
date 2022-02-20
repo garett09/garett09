@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 won&#39;t have NFTs, is getting a graphical upgrade](https://www.pcgamer.com/final-fantasy-14-wont-have-nfts-is-getting-a-graphical-upgrade)
- - [Here&#39;s a new overview trailer for Elden Ring](https://www.pcgamer.com/heres-a-new-overview-trailer-for-elden-ring)
- - [Final Fantasy XIV Producer Promises &#39;No NFTs&#39; But Does Find The Concept Of Them &#39;Interesting&#39;](https://kotaku.com/ff14-xiv-mmo-rpg-nfts-square-enix-crypto-1848568248)<!-- GAME:END -->
+ - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
+ - [Great moments in PC gaming: Feeding the bear in The Long Dark](https://www.pcgamer.com/great-moments-in-pc-gaming-feeding-the-bear-in-the-long-dark)
+ - [Final Fantasy 14 won&#39;t have NFTs, is getting a graphical upgrade](https://www.pcgamer.com/final-fantasy-14-wont-have-nfts-is-getting-a-graphical-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
