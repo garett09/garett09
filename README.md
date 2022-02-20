@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk&#39;s 1.5 update includes the beginnings of a transmog system](https://www.pcgamer.com/cyberpunks-15-update-includes-the-beginnings-of-a-transmog-system)
- - [Henry Cavill spotted at Games Workshop Headquarters](https://www.pcgamer.com/henry-cavill-spotted-at-games-workshop-headquarters)
- - [Halo TV Show Will Unmask The Master Chief](https://kotaku.com/halo-tv-show-face-actor-reveal-season-2-paramount-343-x-1848567856)<!-- GAME:END -->
+ - [Here&#39;s a new overview trailer for Elden Ring](https://www.pcgamer.com/heres-a-new-overview-trailer-for-elden-ring)
+ - [Final Fantasy XIV Producer Promises &#39;No NFTs&#39; But Does Find The Concept Of Them &#39;Interesting&#39;](https://kotaku.com/ff14-xiv-mmo-rpg-nfts-square-enix-crypto-1848568248)
+ - [Dip into hardcore space combat tactics in NEBULOUS: Fleet Command](https://www.pcgamer.com/dip-into-hardcore-space-combat-tactics-in-nebulous-fleet-command)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
