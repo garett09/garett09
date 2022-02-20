@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A joint Google account is the best advice I can give to couples](https://www.androidauthority.com/joint-google-account-couples-3110484/)
- - [Any Single Galaxy Reveals the Composition of an Entire Universe](https://www.wired.com/story/any-single-galaxy-reveals-the-composition-of-an-entire-universe)
- - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches)<!-- TECH:END -->
+ - [Daily deals Feb. 20: $250 Oculus Quest 2, Half-Price Amazon Fire 7 Kids, more](https://appleinsider.com/articles/22/02/20/daily-deals-feb-20-250-oculus-quest-2-half-price-amazon-fire-7-kids-more?utm_medium=rss)
+ - [The Best Personal Safety Devices, Apps, and Alarms](https://www.wired.com/story/best-personal-safety-tech)
+ - [A joint Google account is the best advice I can give to couples](https://www.androidauthority.com/joint-google-account-couples-3110484/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
