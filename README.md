@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hea\u2026](http://9gag.com/gag/aqGemjY)
- - 🚯 [Crossing at the wrong time](http://9gag.com/gag/a11Pv92)
- - 🚯 [Me too, me too](http://9gag.com/gag/a61qwBR)<!-- MEMES:END -->
+ - 🚖 [US has school shooting. Indonesia has melee battle royale. we are not the same.](http://9gag.com/gag/abgvqMp)
+ - 🚯 [Me too, me too](http://9gag.com/gag/a61qwBR)
+ - 🚯 [Acappella Dido - Thank you](http://9gag.com/gag/avAQZAE)<!-- MEMES:END -->
 
 --- 
 
