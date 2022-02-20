@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dying Light 2’s parkour is chef’s kiss, perfection](https://www.polygon.com/22941196/dying-light-2-stay-human-climbing-parkour-techland)
  - [The 13 best video game intros](https://www.polygon.com/best-games/22938609/best-video-game-openings-intros-tutorials-legend-of-zelda-breath-of-the-wild-half-life-2)
- - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [Great moments in PC gaming: Feeding the bear in The Long Dark](https://www.pcgamer.com/great-moments-in-pc-gaming-feeding-the-bear-in-the-long-dark)<!-- GAME:END -->
+ - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
