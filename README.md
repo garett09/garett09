@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh hi Officer.](http://9gag.com/gag/awzZKOy)
- - 🚯 [Oh Nicholas](http://9gag.com/gag/aYrVWvV)
+ - 🚖 [No means no](http://9gag.com/gag/arnmRp7)
+ - 🚯 [Wedding dress by Leila Khashagulgova](http://9gag.com/gag/amgA0D2)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
