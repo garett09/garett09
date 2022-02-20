@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [30 Months of LOVE](http://9gag.com/gag/aBndQZD)
- - 🚯 [How to cross a road in Vietnam](http://9gag.com/gag/aDDY0bx)
- - 🚯 [I\u2019d love this](http://9gag.com/gag/arnmeOp)<!-- MEMES:END -->
+ - 🚖 [I\u2019d love this](http://9gag.com/gag/arnmeOp)
+ - 🚯 [Acappella Survivor - Eye of the Tiger](http://9gag.com/gag/arnm4ed)
+ - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
 
