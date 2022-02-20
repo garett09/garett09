@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pew](http://9gag.com/gag/axBojKM)
- - 🚯 [Stay blind, Potter!](http://9gag.com/gag/aM4EQx1)
+ - 🚖 [Damn...](http://9gag.com/gag/aGzERN5)
+ - 🚯 [Simplistic and recognizable](http://9gag.com/gag/aAG0PYR)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
