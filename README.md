@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Siege is getting three new maps in Year Seven](https://www.pcgamer.com/rainbow-six-siege-is-getting-three-new-maps-in-year-seven)
  - [Thief Breaks Through Card Shop Wall And Steals $250,000 Worth Of Pokémon Cards](https://kotaku.com/pokemon-cards-theft-250-store-stolen-robbery-rare-minne-1848569785)
- - [Henry Cavill Visited Warhammer HQ And Had Just A Swell Time](https://kotaku.com/henry-cavill-warhammer-40k-witcher-actor-fans-selfies-t-1848569621)
- - [Tactics RPG Battle Brothers gets a free DLC with dissection and praying](https://www.pcgamer.com/tactics-rpg-battle-brothers-gets-a-free-dlc-with-dissection-and-praying)<!-- GAME:END -->
+ - [Henry Cavill Visited Warhammer HQ And Had Just A Swell Time](https://kotaku.com/henry-cavill-warhammer-40k-witcher-actor-fans-selfies-t-1848569621)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
