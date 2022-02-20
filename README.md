@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HR experts, industry execs, and government officials in Taiwan say the current shortage of chip talent on the island is the most serious they have ever seen &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220220/p5#a220220p5)
- - [A look at challenges facing Trump&#39;s upcoming Truth Social app, including finding users willing to leave mainstream apps, competition from Gettr and Parler, more &lpar;New York Times&rpar;](http://www.techmeme.com/220220/p4#a220220p4)
- - [The best Samsung Galaxy S22 Ultra screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-screen-protectors-3110693/)<!-- TECH:END -->
+ - [Canva Review 2022: Details, Pricing &amp; Features](https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html)
+ - [How to Use Google Chrome&#39;s Enhanced Safety Mode](https://www.wired.com/story/how-to-use-google-chrome-enhanced-safety-mode)
+ - [The Best Podcasts for Everyone](https://www.wired.com/story/best-podcasts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
