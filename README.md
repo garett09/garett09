@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget](http://9gag.com/gag/aVxbO62)
- - 🚯 [Are you winning son? Happy Bday](http://9gag.com/gag/aGzEVwX)
- - 🚯 [Hea\u2026](http://9gag.com/gag/aqGemjY)<!-- MEMES:END -->
+ - 🚖 [Hea\u2026](http://9gag.com/gag/aqGemjY)
+ - 🚯 [Crossing at the wrong time](http://9gag.com/gag/a11Pv92)
+ - 🚯 [Me too, me too](http://9gag.com/gag/a61qwBR)<!-- MEMES:END -->
 
 --- 
 
