@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reverse Stream](http://9gag.com/gag/a81qWoV)
- - 🚯 [Commercial plane speed at 40,000 ft](http://9gag.com/gag/amgAXLd)
+ - 🚖 [Never forget](http://9gag.com/gag/aVxbO62)
+ - 🚯 [Are you winning son? Happy Bday](http://9gag.com/gag/aGzEVwX)
  - 🚯 [Hea\u2026](http://9gag.com/gag/aqGemjY)<!-- MEMES:END -->
 
 --- 
