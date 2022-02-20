@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estimated Mac lineup for 2022: M1 Pro and M2 Mac mini, M2 13&quot; MacBook Pro, 24&quot; iMac, and MacBook Air, an iMac Pro with M1 Pro and M1 Max, and a new Mac Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220220/p7#a220220p7)
- - [The 27 Best Presidents&#39; Day Sales on Home Goods and Tech](https://www.wired.com/story/presidents-day-sales-2022)
- - [Kanye allegedly loses Apple Music deal, claims he dismissed $100M offer](https://appleinsider.com/articles/22/02/20/kanye-allegedly-loses-apple-music-deal-claims-he-dismissed-100m-offer?utm_medium=rss)<!-- TECH:END -->
+ - [Kanye says he turned down $100M Apple Music offer &amp; is now beefing with Apple](https://appleinsider.com/articles/22/02/20/kanye-allegedly-loses-apple-music-deal-claims-he-dismissed-100m-offer?utm_medium=rss)
+ - [Best Chromebook for 2022: 7 Chromebooks, Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
+ - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
