@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HR experts, industry execs, and government officials in Taiwan say the current shortage of chip talent on the island is the most serious they have ever seen &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220220/p5#a220220p5)
  - [A look at challenges facing Trump&#39;s upcoming Truth Social app, including finding users willing to leave mainstream apps, competition from Gettr and Parler, more &lpar;New York Times&rpar;](http://www.techmeme.com/220220/p4#a220220p4)
- - [The best Samsung Galaxy S22 Ultra screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-screen-protectors-3110693/)
- - [Cryptocurrency infrastructure provider Fireblocks buys First Digital, a stablecoin and digital asset payments technology service, sources say for $100M &lpar;Gertrude Chavez-Dreyfuss/Reuters&rpar;](http://www.techmeme.com/220220/p3#a220220p3)<!-- TECH:END -->
+ - [The best Samsung Galaxy S22 Ultra screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-screen-protectors-3110693/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
