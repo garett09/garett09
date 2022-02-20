@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSea says it is investigating a phishing attack; CEO says &quot;32 users have signed a malicious payload from an attacker, and some of their NFTs were stolen&quot; &lpar;Will Gottsegen/CoinDesk&rpar;](http://www.techmeme.com/220220/p2#a220220p2)
- - [Paris-based InterCloud, which helps companies access applications and data from multiple cloud services, raises a &amp;euro;100M Series D led by Aleph Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220220/p1#a220220p1)
- - [India&#39;s Vedanta plans to invest $7.4B to set up a 28nm chip fab in partnership with Foxconn, after applying for an Indian government incentive scheme &lpar;The Economic Times&rpar;](http://www.techmeme.com/220219/p6#a220219p6)<!-- TECH:END -->
+ - [A look at challenges facing Trump&#39;s upcoming Truth Social app, including finding users willing to leave mainstream apps, competition from Gettr and Parler, more &lpar;New York Times&rpar;](http://www.techmeme.com/220220/p4#a220220p4)
+ - [The best Samsung Galaxy S22 Ultra screen protectors](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-screen-protectors-3110693/)
+ - [Cryptocurrency infrastructure provider Fireblocks buys First Digital, a stablecoin and digital asset payments technology service, sources say for $100M &lpar;Gertrude Chavez-Dreyfuss/Reuters&rpar;](http://www.techmeme.com/220220/p3#a220220p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
