@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton’s new CEO sees app store and overhauled subscription model in its future](https://www.theverge.com/2022/2/19/22942449/pelotons-new-ceo-subscriptions-open-app-store-barry-mccarthy)
  - [Roblox players face hours of downtime over the long weekend](https://appleinsider.com/articles/22/02/19/roblox-players-face-hours-of-downtime-over-the-long-weekend?utm_medium=rss)
- - [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue?utm_medium=rss)
- - [Apple has a clear path to $1T in revenue by 2030](https://appleinsider.com/articles/22/02/19/apple-has-a-clear-path-to-1t-in-revenue-by-2030?utm_medium=rss)<!-- TECH:END -->
+ - [Google Drive users stung by macOS &#39;.DS_Store&#39; copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
