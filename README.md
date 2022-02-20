@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If he barks I will consider that a wisdom](http://9gag.com/gag/a81qY61)
- - 🚯 [Good advice](http://9gag.com/gag/aegQ0rQ)
+ - 🚖 [Oh hi Officer.](http://9gag.com/gag/awzZKOy)
+ - 🚯 [Oh Nicholas](http://9gag.com/gag/aYrVWvV)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
