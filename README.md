@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No means no](http://9gag.com/gag/arnmRp7)
- - 🚯 [Wedding dress by Leila Khashagulgova](http://9gag.com/gag/amgA0D2)
+ - 🚖 [When your electrician has OCD...](http://9gag.com/gag/aLv1Pwx)
+ - 🚯 [Ozai&#39;s Angels](http://9gag.com/gag/aVxbWyK)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
