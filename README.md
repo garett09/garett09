@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ozai&#39;s Angels](http://9gag.com/gag/aVxbWyK)
- - 🚯 [Time travel is not that easy](http://9gag.com/gag/aKmEBrQ)
+ - 🚖 [This is what boys do in their free time](http://9gag.com/gag/ay92d4W)
+ - 🚯 [Wedding dress by Leila Khashagulgova](http://9gag.com/gag/amgA0D2)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
