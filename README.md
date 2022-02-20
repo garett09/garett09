@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Reverse Stream](http://9gag.com/gag/a81qWoV)
- - 🚯 [So tired of hearing about it](http://9gag.com/gag/aLv16nM)
+ - 🚯 [Commercial plane speed at 40,000 ft](http://9gag.com/gag/amgAXLd)
  - 🚯 [Hea\u2026](http://9gag.com/gag/aqGemjY)<!-- MEMES:END -->
 
 --- 
