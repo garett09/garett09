@@ -185,7 +185,7 @@ Windows                  9 hrs 29 mins       ███████████�
 <!-- GAME:START -->
  - [Henry Cavill Visited Warhammer HQ And Had Just A Swell Time](https://kotaku.com/henry-cavill-warhammer-40k-witcher-actor-fans-selfies-t-1848569621)
  - [Tactics RPG Battle Brothers gets a free DLC with dissection and praying](https://www.pcgamer.com/tactics-rpg-battle-brothers-gets-a-free-dlc-with-dissection-and-praying)
- - [Why CODA deserves to win Best Picture](https://www.polygon.com/22941112/coda-apple-tv-watch-2022-best-picture-oscar)<!-- GAME:END -->
+ - [Why CODA deserves to win the Best Picture Oscar](https://www.polygon.com/22941112/coda-apple-tv-watch-2022-best-picture-oscar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
