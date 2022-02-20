@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good advice](http://9gag.com/gag/aegQ0rQ)
- - 🚯 [Acappella Dido - Thank you](http://9gag.com/gag/avAQZAE)
+ - 🚖 [If he barks I will consider that a wisdom](http://9gag.com/gag/a81qY61)
+ - 🚯 [Good advice](http://9gag.com/gag/aegQ0rQ)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
