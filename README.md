@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best RTX 3070 laptops](https://www.androidauthority.com/best-rtx-3070-laptops-3059660/)
  - [Kanye says he turned down $100M Apple Music offer &amp; is now beefing with Apple](https://appleinsider.com/articles/22/02/20/kanye-allegedly-loses-apple-music-deal-claims-he-dismissed-100m-offer?utm_medium=rss)
- - [Best Chromebook for 2022: 7 Chromebooks, Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
- - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)<!-- TECH:END -->
+ - [Best Chromebook for 2022: 7 Chromebooks, Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
