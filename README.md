@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty soon you&#39;re going to be break dancing. kudos to you!](http://9gag.com/gag/a81qb6Z)
- - 🚯 [30 Months of LOVE](http://9gag.com/gag/aBndQZD)
- - 🚯 [Hahaha](http://9gag.com/gag/aAG0VyZ)<!-- MEMES:END -->
+ - 🚖 [30 Months of LOVE](http://9gag.com/gag/aBndQZD)
+ - 🚯 [How to cross a road in Vietnam](http://9gag.com/gag/aDDY0bx)
+ - 🚯 [I\u2019d love this](http://9gag.com/gag/arnmeOp)<!-- MEMES:END -->
 
 --- 
 
