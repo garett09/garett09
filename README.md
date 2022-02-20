@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 13 best video game intros](https://www.polygon.com/best-games/22938609/best-video-game-openings-intros-tutorials-legend-of-zelda-breath-of-the-wild-half-life-2)
  - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [Great moments in PC gaming: Feeding the bear in The Long Dark](https://www.pcgamer.com/great-moments-in-pc-gaming-feeding-the-bear-in-the-long-dark)
- - [Final Fantasy 14 won&#39;t have NFTs, is getting a graphical upgrade](https://www.pcgamer.com/final-fantasy-14-wont-have-nfts-is-getting-a-graphical-upgrade)<!-- GAME:END -->
+ - [Great moments in PC gaming: Feeding the bear in The Long Dark](https://www.pcgamer.com/great-moments-in-pc-gaming-feeding-the-bear-in-the-long-dark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
