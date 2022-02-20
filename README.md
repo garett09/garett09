@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Preserved dignity and respect than job.](http://9gag.com/gag/aXrnp7v)
- - 🚯 [Ozai&#39;s Angels](http://9gag.com/gag/aVxbWyK)
+ - 🚖 [Ozai&#39;s Angels](http://9gag.com/gag/aVxbWyK)
+ - 🚯 [Time travel is not that easy](http://9gag.com/gag/aKmEBrQ)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
