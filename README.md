@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [College vibes](http://9gag.com/gag/a11PbLb)
- - 🚯 [Still, a man of culture.](http://9gag.com/gag/aDDYWjG)
+ - 🚖 [Sooo close!](http://9gag.com/gag/a41oGpm)
+ - 🚯 [College vibes](http://9gag.com/gag/a11PbLb)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
