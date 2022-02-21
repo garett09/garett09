@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mesh Routers for 2022     - CNET](https://www.cnet.com/home/internet/best-mesh-wifi-routers/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
- - [Amazon’s ‘Play on Luna’ button on Twitch is more potential than practical](https://www.theverge.com/2022/2/21/22944703/amazon-play-on-luna-twitch-button)<!-- TECH:END -->
+ - [OnePlus 10 Pro snaps in half in durability test](https://www.theverge.com/2022/2/21/22944852/oneplus-10-pro-snaps-in-half-durability-test-jerryrigeverything)
+ - [10% off the 2021 MacBook Pro, and more of the best MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)
+ - [Future Fitness Review: One-on-One Training Without Leaving the House     - CNET](https://www.cnet.com/health/fitness/future-fitness-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
