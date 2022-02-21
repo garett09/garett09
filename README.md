@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuphead game creators hoped the show wouldn’t turn Cuphead into Hannibal Lecter](https://www.polygon.com/22939826/cuphead-game-creator-netflix-show-moldenhauer-interview)
- - [Final Fantasy 14 to get easier solo play and visual upgrade](https://www.polygon.com/22944355/final-fantasy-14-solo-play-graphics-upgrade-update-roadmap)
- - [The Hilarious Visual Novel In Which You Date Villages](https://kotaku.com/doki-doki-ragnarok-visual-novel-review-dating-sim-pc-1848554574)<!-- GAME:END -->
+ - [Every Texas Chainsaw Massacre film is psychoanalyzing the original](https://www.polygon.com/22944746/best-and-worst-texas-chainsaw-massacre-movies-sequels-reboots)
+ - [After 5 years of using a blank keyboard, I don&#39;t recommend it](https://www.pcgamer.com/blank-keycaps-das-keyboard-ultimate)
+ - [Steam Next Fest kicks off with more than 600 demos and developer livestreams](https://www.pcgamer.com/steam-next-fest-kicks-off-with-more-than-600-demos-and-developer-livestreams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
