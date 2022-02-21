@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag clone developed by researchers works around Apple&#39;s anti-stalking measures](https://appleinsider.com/articles/22/02/21/airtag-clone-developed-by-researchers-works-around-apples-anti-stalking-measures?utm_medium=rss)
- - [FTX.US launches a gaming unit, offering &quot;crypto-as-a-service&quot; for game companies to launch tokens and add NFT support &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220221/p9#a220221p9)
- - [Final Fantasy XIV is resuming free trials on February 22nd after a two month hiatus](https://www.theverge.com/2022/2/21/22944364/final-fantasy-xiv-free-trials-february-22nd-resume-back-ff-14)<!-- TECH:END -->
+ - [Daily deals Feb. 21: 14-inch MacBook Pro sale; $100 off AirPods Max; free iPhone 13 Pro with trade-in at AT&amp;T &amp; more](https://appleinsider.com/articles/22/02/21/daily-deals-feb-21-14-inch-macbook-pro-sale-100-off-airpods-max-free-iphone-13-pro-with-trade-in-at-att-more?utm_medium=rss)
+ - [Despite spending billions, Amazon&#39;s grocery strategy is unprofitable and incoherent; Amazon and Whole Foods had an estimated 2.4% US grocery share in December &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220221/p10#a220221p10)
+ - [The US Copyright Office says an AI can’t copyright its art](https://www.theverge.com/2022/2/21/22944335/us-copyright-office-reject-ai-generated-art-recent-entrance-to-paradise)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
