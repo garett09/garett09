@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Destiny 2: The Witch Queen go live?](https://www.polygon.com/22938607/destiny-2-witch-queen-launch-time-release-date)
- - [Street Fighter 6 Announced, And Ryu Is Wearing Sandals](https://kotaku.com/street-fighter-6-capcom-ryu-luke-platinumgames-yusuke-h-1848570982)
- - [Nvidia is set to spend at least $10B to secure its share of limited 5nm chip supply](https://www.pcgamer.com/nvidia-is-set-to-spend-at-least-dollar10b-to-secure-its-share-of-limited-5nm-chip-supply)<!-- GAME:END -->
+ - [Everything you need to know about Destiny 2’s story before The Witch Queen, in 1,500 words](https://www.polygon.com/22938611/destiny-2-witch-queen-story-lore-summary-prep)
+ - [Street Fighter 6 announced in short teaser trailer](https://www.polygon.com/22944162/street-fighter-6-announced)
+ - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
