@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s ‘Play on Luna’ button on Twitch is more potential than practical](https://www.theverge.com/2022/2/21/22944703/amazon-play-on-luna-twitch-button)
- - [Apple supplier Luxshare wants to build new plants for wearables &amp; electric cars](https://appleinsider.com/articles/22/02/21/apple-supplier-luxshare-wants-to-build-new-plants-for-wearables-electric-cars?utm_medium=rss)
- - [Apple&#39;s upgraded MacBook Pro 16-inch with 1TB SSD dips to $2,499 &lpar;$200 off&rpar;, in stock today](https://appleinsider.com/articles/22/02/21/apples-upgraded-macbook-pro-16-inch-with-1tb-ssd-dips-to-2499-200-off-in-stock-today?utm_medium=rss)<!-- TECH:END -->
+ - [Best Mesh Routers for 2022     - CNET](https://www.cnet.com/home/internet/best-mesh-wifi-routers/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
+ - [Amazon’s ‘Play on Luna’ button on Twitch is more potential than practical](https://www.theverge.com/2022/2/21/22944703/amazon-play-on-luna-twitch-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
