@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this report on a fake company that tricked real people into working for it](https://www.theverge.com/2022/2/21/22944137/bbc-news-fake-company-investigation-jobfished-madbird)
- - [Donald Trump&#39;s &#39;Truth Social&#39; launches app](https://appleinsider.com/articles/22/02/21/donald-trumps-truth-social-launches-app?utm_medium=rss)
- - [Brazil-based S&amp;oacute;lides, which offers HR management software to over 12,000 Brazilian businesses, raises $100M from Warburg Pincus &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/220221/p2#a220221p2)<!-- TECH:END -->
+ - [iPhone 14 design moves into early production stages](https://appleinsider.com/articles/22/02/21/iphone-14-design-moves-into-early-production-stages?utm_medium=rss)
+ - [Trump Media &amp; Technology Group launches Truth Social in the US App Store; some users received error messages or were placed on a waitlist when signing up &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220221/p3#a220221p3)
+ - [Gene-Edited Brain Organoids Are Unlocking the Secrets of Autism](https://www.wired.com/story/gene-edited-brain-organoids-are-unlocking-the-secrets-of-autism)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
