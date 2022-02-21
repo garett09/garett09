@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 to get easier solo play and visual upgrade](https://www.polygon.com/22944355/final-fantasy-14-solo-play-graphics-upgrade-update-roadmap)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)
- - [The Hilarious Visual Novel In Which You Date Villages](https://kotaku.com/doki-doki-ragnarok-visual-novel-review-dating-sim-pc-1848554574)<!-- GAME:END -->
+ - [FAR: Changing Tides’ new journey sets sail March 1st, dive into the demo now](https://www.pcgamer.com/far-changing-tides-new-journey-sets-sail-march-1st-dive-into-the-demo-now)
+ - [Save up to $340 on Lenovo RTX 3060 laptops and desktops this President&#39;s Day](https://www.pcgamer.com/save-up-to-dollar340-on-lenovo-rtx-3060-laptops-and-desktops-this-presidents-day)
+ - [Quake 4 in Quake 2 does exactly what it says on the tin.](https://www.pcgamer.com/quake-4-in-quake-2-does-exactly-what-it-says-on-the-tin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
