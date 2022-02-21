@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t touch dis](http://9gag.com/gag/avAQ7en)
- - 🚯 [Wtf the damage to kalimantan forest, because of Indonesia oligarchy. save earth, save our planet](http://9gag.com/gag/aze28dp)
+ - 🚖 [It\u2019s like a clip from some comedy](http://9gag.com/gag/a21K4Vw)
+ - 🚯 [Obligationed](http://9gag.com/gag/aVxbM7v)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
