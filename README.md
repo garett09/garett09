@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Batman Movies, Ranked From Worst to Best     - CNET](https://www.cnet.com/news/the-batman-movies-ranked-from-worst-to-best/#ftag=CAD590a51e)
- - [The best Samsung Galaxy S22 Ultra rugged cases](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-rugged-cases-3108780/)
- - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)<!-- TECH:END -->
+ - [Disney Plus: Every TV show and movie coming in March 2022     - CNET](https://www.cnet.com/news/disney-plus-every-tv-show-and-movie-coming-in-march-2022/#ftag=CAD590a51e)
+ - [PrimaryBid, which helps companies include ordinary retail investors in IPOs and follow-on fundraises, raises a $190M Series C led by SoftBank&#39;s Vision Fund 2 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220220/p10#a220220p10)
+ - [The Best TV Shows on Netflix     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
