@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia is set to spend at least $10B to secure its share of limited 5nm chip supply](https://www.pcgamer.com/nvidia-is-set-to-spend-at-least-dollar10b-to-secure-its-share-of-limited-5nm-chip-supply)
- - [Check out this retro Pokemon style demo on this Raspberry Pi Handheld](https://www.pcgamer.com/check-out-this-retro-pokemon-style-demo-on-this-raspberry-pi-handheld)
- - [Coal fired power station given new lease of life by crypto company](https://www.pcgamer.com/coal-fired-power-station-given-new-lease-of-life-by-crypto-company)<!-- GAME:END -->
+ - [When does Destiny 2: The Witch Queen go live?](https://www.polygon.com/22938607/destiny-2-witch-queen-launch-time-release-date)
+ - [Street Fighter 6 Announced, And Ryu Is Wearing Sandals](https://kotaku.com/street-fighter-6-capcom-ryu-luke-platinumgames-yusuke-h-1848570982)
+ - [Nvidia is set to spend at least $10B to secure its share of limited 5nm chip supply](https://www.pcgamer.com/nvidia-is-set-to-spend-at-least-dollar10b-to-secure-its-share-of-limited-5nm-chip-supply)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
