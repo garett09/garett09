@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moving warmer](http://9gag.com/gag/avAQOpn)
- - 🚯 [One Thing in common](http://9gag.com/gag/aDDYzQ9)
+ - 🚖 [Adults returning to office life](http://9gag.com/gag/a21K41Z)
+ - 🚯 [A man must have priority](http://9gag.com/gag/aE8qxVK)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
