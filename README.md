@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still, a man of culture.](http://9gag.com/gag/aDDYWjG)
- - 🚯 [Making Mochi by hand.](http://9gag.com/gag/abgv6R8)
+ - 🚖 [Making Mochi by hand.](http://9gag.com/gag/abgv6R8)
+ - 🚯 [Introducing a new Queen to the bee colony.](http://9gag.com/gag/amgAz36)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
