@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh the shame](http://9gag.com/gag/apg92WB)
- - 🚯 [It\u2019s like a clip from some comedy](http://9gag.com/gag/a21K4Vw)
+ - 🚖 [It\u2019s like a clip from some comedy](http://9gag.com/gag/a21K4Vw)
+ - 🚯 [Why i still think rdr2 is the most impressive game ever made](http://9gag.com/gag/aWgGq1x)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
