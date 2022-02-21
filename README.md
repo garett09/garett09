@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenSea phishing scam swindled millions in NFTs](https://www.pcgamer.com/opensea-phishing-scam-swindled-millions-in-nfts)
  - [Relive Darkstalkers history in Capcom Fighting Collection, out June 24](https://blog.playstation.com/2022/02/20/relive-darkstalkers-history-in-capcom-fighting-collection-out-june-24/)
- - [Relive Darkstalkers history in Capcom Fighting Collection, out June 24](https://blog.playstation.com/2022/02/20/relive-darkstalkers-history-in-capcom-fighting-collection-out-june-24/)<!-- GAME:END -->
+ - [Relive Darkstalkers history in Capcom Fighting Collection, out June 24](https://blog.playstation.com/2022/02/20/relive-darkstalkers-history-in-capcom-fighting-collection-out-june-24/)
+ - [Adults only horror game Agony Unrated goes missing from players&#39; Steam libraries](https://www.pcgamer.com/adults-only-horror-game-agony-unrated-goes-missing-from-players-steam-libraries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
