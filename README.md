@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Hive thermostat, Meross smoke alarm, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/02/21/new-hive-thermostat-meross-smoke-alarm-more-on-homekit-insider?utm_medium=rss)
- - [Don&#39;t Dump Frying Oil Down the Drain. Turn It Into Jelly](https://www.wired.com/review/fryaway)
- - [The Best Vinyl Accessories to Jazz Up Your Analog Audio](https://www.wired.com/gallery/best-vinyl-accessories)<!-- TECH:END -->
+ - [Collaboration needed to address stalking by AirTag, Tile, and other devices](https://appleinsider.com/articles/22/02/21/collaboration-needed-to-address-stalking-by-airtag-tile-and-other-devices?utm_medium=rss)
+ - [Here’s when your Samsung phone will get the Expert RAW camera app](https://www.androidauthority.com/samsung-expert-raw-schedule-3113165/)
+ - [Samsung Galaxy S22 Ultra review: notably unique](https://www.theverge.com/22941246/samsung-galaxy-s22-ultra-review-price-screen-specs-stylus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
