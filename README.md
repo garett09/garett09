@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I became a highly skilled cheater in Card Shark, and only got stabbed to death once](https://www.pcgamer.com/i-became-a-highly-skilled-cheater-in-card-shark-and-only-got-stabbed-once)
- - [Euphoria’s wild high school play episode immediately deepens the show](https://www.polygon.com/22940933/euphoria-episode-7-review)
- - [AI gets a free pass for another year as EU and US stall on regulation](https://www.pcgamer.com/ai-gets-a-free-pass-for-another-year-as-eu-and-us-stall-on-regulation)<!-- GAME:END -->
+ - [No relief in sight for European Lost Ark players facing long login queues](https://www.polygon.com/22944261/lost-ark-servers-europe-central-at-capacity)
+ - [A Wordle Math Clone Is Rapidly Becoming My Daily Favorite](https://kotaku.com/wordle-clone-nerdle-free-word-game-puzzle-browser-math-1848547825)
+ - [These So-Called ‘Casual’ Gamers Are Actually Hardcore Strategists](https://kotaku.com/casual-game-players-hardcore-fans-genshin-impact-arknig-1847895923)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
