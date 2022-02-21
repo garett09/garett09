@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 31 Best Presidents’ Day Sales on Home Goods and Tech](https://www.wired.com/story/presidents-day-sales-2022)
- - [How To Tell if an AirTag Is Tracking Your Location on Android     - CNET](https://www.cnet.com/tech/mobile/how-to-tell-if-an-airtag-is-tracking-your-location-on-android/#ftag=CAD590a51e)
- - [Best Streaming Device for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If you thought printer cartridge DRM was bad, Dymo is forcing users to buy RFID paper](https://appleinsider.com/articles/22/02/21/if-you-thought-printer-cartridge-drm-was-bad-dymo-is-forcing-users-to-buy-rfid-paper?utm_medium=rss)
+ - [An investigation shows how vigilantes use Facebook to incite ethnic killings in Ethiopia, accusing Meta of inaction on hate speech and misinformation &lpar;The Guardian&rpar;](http://www.techmeme.com/220221/p11#a220221p11)
+ - [Amazon’s incredibly popular Lost Ark MMO is ‘at capacity’ in central Europe](https://www.theverge.com/2022/2/21/22944611/lost-ark-mmo-long-queue-times-smilegate-amazon-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
