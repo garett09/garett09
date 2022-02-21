@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what boys do in their free time](http://9gag.com/gag/ay92d4W)
- - 🚯 [Life is good](http://9gag.com/gag/aOQxV0D)
+ - 🚖 [Introducing a new Queen to the bee colony.](http://9gag.com/gag/amgAz36)
+ - 🚯 [Thoughts welcome. . . .](http://9gag.com/gag/aPZgWxG)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
