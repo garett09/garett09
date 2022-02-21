@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 21: 14-inch MacBook Pro sale; $100 off AirPods Max; free iPhone 13 Pro with trade-in at AT&amp;T &amp; more](https://appleinsider.com/articles/22/02/21/daily-deals-feb-21-14-inch-macbook-pro-sale-100-off-airpods-max-free-iphone-13-pro-with-trade-in-at-att-more?utm_medium=rss)
- - [Despite spending billions, Amazon&#39;s grocery strategy is unprofitable and incoherent; Amazon and Whole Foods had an estimated 2.4% US grocery share in December &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220221/p10#a220221p10)
- - [The US Copyright Office says an AI can’t copyright its art](https://www.theverge.com/2022/2/21/22944335/us-copyright-office-reject-ai-generated-art-recent-entrance-to-paradise)<!-- TECH:END -->
+ - [Crypto exchange FTX is launching a gaming unit to drive token adoption](https://www.theverge.com/2022/2/21/22944563/ftx-cryptocurrency-exchange-gaming-unit-nft-blockchain)
+ - [Apple still hasn&#39;t made Dutch App Store changes despite $28M in fines](https://appleinsider.com/articles/22/02/21/apple-still-hasnt-made-dutch-app-store-changes-despite-28m-in-fines?utm_medium=rss)
+ - [Anker Soundcore Liberty 3 Pro review: feature-packed buds](https://www.theverge.com/22941399/anker-soundcore-liberty-3-pro-earbuds-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
