@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why we don’t see white smartphones very often](https://www.androidauthority.com/white-smartphones-oneplus-10-pro-3112851/)
- - [You can now drill the best wireless charging AirPower alternative right into your desk](https://www.theverge.com/2022/2/21/22938809/zen-libery-wireless-charger-built-in-airpower-price)
- - [Trump&#39;s Truth Social Debuts in Apple&#39;s App Store     - CNET](https://www.cnet.com/news/trumps-truth-social-debuts-in-apples-app-store/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple gives Oscar nominated &#39;CODA&#39; movie a theatrical re-release, for free](https://appleinsider.com/articles/22/02/18/apple-gives-oscar-nominated-coda-movie-a-theatrical-re-release-for-free?utm_medium=rss)
+ - [The best Samsung Galaxy S22 Ultra leather cases](https://www.androidauthority.com/the-best-samsung-galaxy-s22-ultra-leather-cases-3109920/)
+ - [Galaxy Book 2 360 renders leak: Here’s what Samsung could reveal at MWC](https://www.androidauthority.com/samsung-galaxy-book-2-360-3112911/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
