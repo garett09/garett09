@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s like a clip from some comedy](http://9gag.com/gag/a21K4Vw)
- - 🚯 [Obligationed](http://9gag.com/gag/aVxbM7v)
+ - 🚖 [Obligationed](http://9gag.com/gag/aVxbM7v)
+ - 🚯 [Wow](http://9gag.com/gag/adgP7RQ)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
