@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring, latest in an infamously vague RPG series with few definitive answers, warns players about spoilers](https://www.pcgamer.com/elden-ring-latest-in-an-infamously-vague-rpg-series-with-few-definitive-answers-warns-players-about-spoilers)
- - [Dying Light 2&#39;s Post-Apocalypse Would Be More Fun If It Just Let You Hang Out](https://kotaku.com/post-apocalyptic-game-idea-dying-light-2-fallout-explor-1848562585)
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)<!-- GAME:END -->
+ - [Final Fantasy 14 to get easier solo play and visual upgrade](https://www.polygon.com/22944355/final-fantasy-14-solo-play-graphics-upgrade-update-roadmap)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)
+ - [The Hilarious Visual Novel In Which You Date Villages](https://kotaku.com/doki-doki-ragnarok-visual-novel-review-dating-sim-pc-1848554574)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
