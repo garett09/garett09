@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No relief in sight for European Lost Ark players facing long login queues](https://www.polygon.com/22944261/lost-ark-servers-europe-central-at-capacity)
- - [A Wordle Math Clone Is Rapidly Becoming My Daily Favorite](https://kotaku.com/wordle-clone-nerdle-free-word-game-puzzle-browser-math-1848547825)
- - [These So-Called ‘Casual’ Gamers Are Actually Hardcore Strategists](https://kotaku.com/casual-game-players-hardcore-fans-genshin-impact-arknig-1847895923)<!-- GAME:END -->
+ - [Elden Ring, latest in an infamously vague RPG series with few definitive answers, warns players about spoilers](https://www.pcgamer.com/elden-ring-latest-in-an-infamously-vague-rpg-series-with-few-definitive-answers-warns-players-about-spoilers)
+ - [Dying Light 2&#39;s Post-Apocalypse Would Be More Fun If It Just Let You Hang Out](https://kotaku.com/post-apocalyptic-game-idea-dying-light-2-fallout-explor-1848562585)
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
