@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Collaboration needed to address stalking by AirTag, Tile, and other devices](https://appleinsider.com/articles/22/02/21/collaboration-needed-to-address-stalking-by-airtag-tile-and-other-devices?utm_medium=rss)
- - [Here’s when your Samsung phone will get the Expert RAW camera app](https://www.androidauthority.com/samsung-expert-raw-schedule-3113165/)
- - [Samsung Galaxy S22 Ultra review: notably unique](https://www.theverge.com/22941246/samsung-galaxy-s22-ultra-review-price-screen-specs-stylus)<!-- TECH:END -->
+ - [AirTag clone developed by researchers works around Apple&#39;s anti-stalking measures](https://appleinsider.com/articles/22/02/21/airtag-clone-developed-by-researchers-works-around-apples-anti-stalking-measures?utm_medium=rss)
+ - [FTX.US launches a gaming unit, offering &quot;crypto-as-a-service&quot; for game companies to launch tokens and add NFT support &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220221/p9#a220221p9)
+ - [Final Fantasy XIV is resuming free trials on February 22nd after a two month hiatus](https://www.theverge.com/2022/2/21/22944364/final-fantasy-xiv-free-trials-february-22nd-resume-back-ff-14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
