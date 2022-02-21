@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you thought printer cartridge DRM was bad, Dymo is forcing users to buy RFID paper](https://appleinsider.com/articles/22/02/21/if-you-thought-printer-cartridge-drm-was-bad-dymo-is-forcing-users-to-buy-rfid-paper?utm_medium=rss)
- - [An investigation shows how vigilantes use Facebook to incite ethnic killings in Ethiopia, accusing Meta of inaction on hate speech and misinformation &lpar;The Guardian&rpar;](http://www.techmeme.com/220221/p11#a220221p11)
- - [Amazon’s incredibly popular Lost Ark MMO is ‘at capacity’ in central Europe](https://www.theverge.com/2022/2/21/22944611/lost-ark-mmo-long-queue-times-smilegate-amazon-games)<!-- TECH:END -->
+ - [Amazon’s ‘Play on Luna’ button on Twitch is more potential than practical](https://www.theverge.com/2022/2/21/22944703/amazon-play-on-luna-twitch-button)
+ - [Apple supplier Luxshare wants to build new plants for wearables &amp; electric cars](https://appleinsider.com/articles/22/02/21/apple-supplier-luxshare-wants-to-build-new-plants-for-wearables-electric-cars?utm_medium=rss)
+ - [Apple&#39;s upgraded MacBook Pro 16-inch with 1TB SSD dips to $2,499 &lpar;$200 off&rpar;, in stock today](https://appleinsider.com/articles/22/02/21/apples-upgraded-macbook-pro-16-inch-with-1tb-ssd-dips-to-2499-200-off-in-stock-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
