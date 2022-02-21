@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Please help I\u2019m 30](http://9gag.com/gag/ajgVA1q)
- - 🚯 [Wait for it](http://9gag.com/gag/a91qYg6)
+ - 🚯 [Yes](http://9gag.com/gag/aze2APq)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
