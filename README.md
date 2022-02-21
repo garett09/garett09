@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Artist Turns Animals Into Anime Characters](http://9gag.com/gag/abgv6Kb)
- - 🚯 [When you finally found the way out from Bermuda triangle after 7 dacades.](http://9gag.com/gag/aogK2Am)
+ - 🚖 [College vibes](http://9gag.com/gag/a11PbLb)
+ - 🚯 [Still, a man of culture.](http://9gag.com/gag/aDDYWjG)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
