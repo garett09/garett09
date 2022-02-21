@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dell AU is offering big discounts on Alienware and Dell gaming laptops](https://www.pcgamer.com/dell-au-is-offering-big-discounts-on-alienware-and-dell-gaming-laptops)
  - [&#39;Hacker&#39; Steals NFTs &#39;Worth&#39; Millions From Opensea Users](https://kotaku.com/hacker-steals-nfts-worth-millions-from-opensea-marketpl-1848570074)
- - [13 Years On, Mirror&#39;s Edge Is Still A Masterpiece](https://kotaku.com/11-years-on-mirrors-edge-is-still-a-masterpiece-1831661814)
- - [The Week In Games: Elden Ring Is Nearly Here](https://kotaku.com/the-week-in-games-elden-ring-is-nearly-here-1848570171)<!-- GAME:END -->
+ - [13 Years On, Mirror&#39;s Edge Is Still A Masterpiece](https://kotaku.com/11-years-on-mirrors-edge-is-still-a-masterpiece-1831661814)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
