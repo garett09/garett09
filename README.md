@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s like a clip from some comedy](http://9gag.com/gag/a21K4Vw)
- - 🚯 [Why i still think rdr2 is the most impressive game ever made](http://9gag.com/gag/aWgGq1x)
+ - 🚖 [80s fellows... &#39;member?](http://9gag.com/gag/aLv1g9v)
+ - 🚯 [News from other side: Putin officially recognized the independence of DNR, LNR and claims that Russia will show real decommunization to Ukraine. Its seems that Russia will start the war tomorrow. We, real Russians don&#39;t want any war. Hope for the better, please stay safe](http://9gag.com/gag/avAQ8bO)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
