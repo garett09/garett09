@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/aze2APq)
- - 🚯 [Artist Turns Animals Into Anime Characters](http://9gag.com/gag/abgv6Kb)
+ - 🚖 [Thoughts welcome. . . .](http://9gag.com/gag/aPZgWxG)
+ - 🚯 [Making Mochi by hand.](http://9gag.com/gag/abgv6R8)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
