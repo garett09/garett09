@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thoughts welcome. . . .](http://9gag.com/gag/aPZgWxG)
- - 🚯 [Making Mochi by hand.](http://9gag.com/gag/abgv6R8)
+ - 🚖 [NOT POSSIBLE!](http://9gag.com/gag/aze2ADm)
+ - 🚯 [Fear, fear, fear\u2026](http://9gag.com/gag/aAG0wMo)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
 --- 
