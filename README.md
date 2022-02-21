@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s why we don’t see white smartphones very often](https://www.androidauthority.com/white-smartphones-oneplus-10-pro-3112851/)
  - [You can now drill the best wireless charging AirPower alternative right into your desk](https://www.theverge.com/2022/2/21/22938809/zen-libery-wireless-charger-built-in-airpower-price)
- - [Philippines-based PayMongo, which enables merchants to accept digital payments, raises a $31M Series B, following a $12M Series A in 2020 led by Stripe &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220221/p1#a220221p1)
- - [Poll: Do you include ‘Reddit’ at the end of your search queries?](https://www.androidauthority.com/reddit-search-poll-3112832/)<!-- TECH:END -->
+ - [Trump&#39;s Truth Social Debuts in Apple&#39;s App Store     - CNET](https://www.cnet.com/news/trumps-truth-social-debuts-in-apples-app-store/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
