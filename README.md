@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about Destiny 2’s story before The Witch Queen, in 1,500 words](https://www.polygon.com/22938611/destiny-2-witch-queen-story-lore-summary-prep)
- - [Street Fighter 6 announced in short teaser trailer](https://www.polygon.com/22944162/street-fighter-6-announced)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
+ - [I became a highly skilled cheater in Card Shark, and only got stabbed to death once](https://www.pcgamer.com/i-became-a-highly-skilled-cheater-in-card-shark-and-only-got-stabbed-once)
+ - [Euphoria’s wild high school play episode immediately deepens the show](https://www.polygon.com/22940933/euphoria-episode-7-review)
+ - [AI gets a free pass for another year as EU and US stall on regulation](https://www.pcgamer.com/ai-gets-a-free-pass-for-another-year-as-eu-and-us-stall-on-regulation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
