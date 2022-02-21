@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Adults only horror game Agony Unrated goes missing from players&#39; Steam libraries](https://www.pcgamer.com/adults-only-horror-game-agony-unrated-goes-missing-from-players-steam-libraries)
  - [The Anakin Meme Looks Better In 3D, Right? Right?](https://kotaku.com/anakin-padme-meme-hd-3d-billie-eilish-angelina-jolie-ci-1848570176)
- - [This mod adds a sci-fi city to Skyrim Special Edition](https://www.pcgamer.com/this-mod-adds-a-sci-fi-city-to-skyrim-special-edition)
- - [Dell AU is offering big discounts on Alienware and Dell gaming laptops](https://www.pcgamer.com/dell-au-is-offering-big-discounts-on-alienware-and-dell-gaming-laptops)<!-- GAME:END -->
+ - [This mod adds a sci-fi city to Skyrim Special Edition](https://www.pcgamer.com/this-mod-adds-a-sci-fi-city-to-skyrim-special-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
