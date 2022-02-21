@@ -197,7 +197,7 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please help I\u2019m 30](http://9gag.com/gag/ajgVA1q)
+ - 🚖 [Completely realistic](http://9gag.com/gag/aZrDBPn)
  - 🚯 [Yes](http://9gag.com/gag/aze2APq)
  - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
 
