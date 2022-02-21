@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adults returning to office life](http://9gag.com/gag/a21K41Z)
- - 🚯 [A man must have priority](http://9gag.com/gag/aE8qxVK)
+ - 🚖 [Guy flips his car seconds after he buys it](http://9gag.com/gag/a41oGev)
+ - 🚯 [One step closer](http://9gag.com/gag/ajgVEp0)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
