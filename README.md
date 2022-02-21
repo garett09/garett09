@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Obligationed](http://9gag.com/gag/aVxbM7v)
- - 🚯 [Wow](http://9gag.com/gag/adgP7RQ)
+ - 🚖 [Moving warmer](http://9gag.com/gag/avAQOpn)
+ - 🚯 [One Thing in common](http://9gag.com/gag/aDDYzQ9)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
