@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange FTX is launching a gaming unit to drive token adoption](https://www.theverge.com/2022/2/21/22944563/ftx-cryptocurrency-exchange-gaming-unit-nft-blockchain)
- - [Apple still hasn&#39;t made Dutch App Store changes despite $28M in fines](https://appleinsider.com/articles/22/02/21/apple-still-hasnt-made-dutch-app-store-changes-despite-28m-in-fines?utm_medium=rss)
- - [Anker Soundcore Liberty 3 Pro review: feature-packed buds](https://www.theverge.com/22941399/anker-soundcore-liberty-3-pro-earbuds-review)<!-- TECH:END -->
+ - [The 31 Best Presidents’ Day Sales on Home Goods and Tech](https://www.wired.com/story/presidents-day-sales-2022)
+ - [How To Tell if an AirTag Is Tracking Your Location on Android     - CNET](https://www.cnet.com/tech/mobile/how-to-tell-if-an-airtag-is-tracking-your-location-on-android/#ftag=CAD590a51e)
+ - [Best Streaming Device for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
