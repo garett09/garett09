@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capcom announces Street Fighter 6](https://www.theverge.com/2022/2/21/22944025/capcom-street-fighter-6-announced-capcom-fighting-collection)
- - [The Snapdragon 8 Gen 2 could finally gain a key missing feature](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-av1-3111579/)
- - [Check, which provides payroll digitization software, raises a $75M Series C led by Stripe, bringing its total funding to $119M and valuing the startup at $725M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220220/p11#a220220p11)<!-- TECH:END -->
+ - [You can now drill the best wireless charging AirPower alternative right into your desk](https://www.theverge.com/2022/2/21/22938809/zen-libery-wireless-charger-built-in-airpower-price)
+ - [Philippines-based PayMongo, which enables merchants to accept digital payments, raises a $31M Series B, following a $12M Series A in 2020 led by Stripe &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220221/p1#a220221p1)
+ - [Poll: Do you include ‘Reddit’ at the end of your search queries?](https://www.androidauthority.com/reddit-search-poll-3112832/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
