@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 design moves into early production stages](https://appleinsider.com/articles/22/02/21/iphone-14-design-moves-into-early-production-stages?utm_medium=rss)
- - [Trump Media &amp; Technology Group launches Truth Social in the US App Store; some users received error messages or were placed on a waitlist when signing up &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220221/p3#a220221p3)
- - [Gene-Edited Brain Organoids Are Unlocking the Secrets of Autism](https://www.wired.com/story/gene-edited-brain-organoids-are-unlocking-the-secrets-of-autism)<!-- TECH:END -->
+ - [Scientists Map the Dark Matter Web Surrounding the Milky Way](https://www.wired.com/story/scientists-map-the-dark-matter-web-surrounding-the-milky-way)
+ - [A Beginner&#39;s Guide to Destiny 2](https://www.wired.com/story/destiny-2-beginners-guide)
+ - [Nigerian fintech Tingo, which processes ~$4B in e-commerce transactions annually, seeks $500M to expand in Africa; Tingo, valued at $6.3B, plans an IPO in H1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220221/p4#a220221p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
