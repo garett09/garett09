@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus: Every TV show and movie coming in March 2022     - CNET](https://www.cnet.com/news/disney-plus-every-tv-show-and-movie-coming-in-march-2022/#ftag=CAD590a51e)
- - [PrimaryBid, which helps companies include ordinary retail investors in IPOs and follow-on fundraises, raises a $190M Series C led by SoftBank&#39;s Vision Fund 2 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220220/p10#a220220p10)
- - [The Best TV Shows on Netflix     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check, which provides payroll digitization software, raises a $75M Series C led by Stripe, bringing its total funding to $119M and valuing the startup at $725M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220220/p11#a220220p11)
+ - [Hulu: All the TV Shows and Movies Coming in March 2022     - CNET](https://www.cnet.com/news/hulu-all-the-tv-shows-and-movies-coming-in-march-2022/#ftag=CAD590a51e)
+ - [HBO Max: The Best Sci-Fi Movies To Watch     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
