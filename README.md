@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)
- - [Tropic, which helps enterprises buy and manage software as well as to identify cost savings on purchases, raises a $40M Series B led by Insight Partners &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220220/p9#a220220p9)
- - [Netflix: The Best Sci-Fi Movies to Watch in 2022     - CNET](https://www.cnet.com/news/netflix-the-best-sci-fi-movies-to-watch-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Batman Movies, Ranked From Worst to Best     - CNET](https://www.cnet.com/news/the-batman-movies-ranked-from-worst-to-best/#ftag=CAD590a51e)
+ - [The best Samsung Galaxy S22 Ultra rugged cases](https://www.androidauthority.com/best-samsung-galaxy-s22-ultra-rugged-cases-3108780/)
+ - [Facebook whistleblower accuses company of failing to address climate change misinformation](https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
