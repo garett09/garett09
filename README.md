@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gives Oscar nominated &#39;CODA&#39; movie a theatrical re-release, for free](https://appleinsider.com/articles/22/02/18/apple-gives-oscar-nominated-coda-movie-a-theatrical-re-release-for-free?utm_medium=rss)
- - [The best Samsung Galaxy S22 Ultra leather cases](https://www.androidauthority.com/the-best-samsung-galaxy-s22-ultra-leather-cases-3109920/)
- - [Galaxy Book 2 360 renders leak: Here’s what Samsung could reveal at MWC](https://www.androidauthority.com/samsung-galaxy-book-2-360-3112911/)<!-- TECH:END -->
+ - [Go read this report on a fake company that tricked real people into working for it](https://www.theverge.com/2022/2/21/22944137/bbc-news-fake-company-investigation-jobfished-madbird)
+ - [Donald Trump&#39;s &#39;Truth Social&#39; launches app](https://appleinsider.com/articles/22/02/21/donald-trumps-truth-social-launches-app?utm_medium=rss)
+ - [Brazil-based S&amp;oacute;lides, which offers HR management software to over 12,000 Brazilian businesses, raises $100M from Warburg Pincus &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/220221/p2#a220221p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
