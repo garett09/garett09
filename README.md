@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Map the Dark Matter Web Surrounding the Milky Way](https://www.wired.com/story/scientists-map-the-dark-matter-web-surrounding-the-milky-way)
- - [A Beginner&#39;s Guide to Destiny 2](https://www.wired.com/story/destiny-2-beginners-guide)
- - [Nigerian fintech Tingo, which processes ~$4B in e-commerce transactions annually, seeks $500M to expand in Africa; Tingo, valued at $6.3B, plans an IPO in H1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220221/p4#a220221p4)<!-- TECH:END -->
+ - [New Hive thermostat, Meross smoke alarm, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/02/21/new-hive-thermostat-meross-smoke-alarm-more-on-homekit-insider?utm_medium=rss)
+ - [Don&#39;t Dump Frying Oil Down the Drain. Turn It Into Jelly](https://www.wired.com/review/fryaway)
+ - [The Best Vinyl Accessories to Jazz Up Your Analog Audio](https://www.wired.com/gallery/best-vinyl-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
