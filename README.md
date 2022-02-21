@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Check, which provides payroll digitization software, raises a $75M Series C led by Stripe, bringing its total funding to $119M and valuing the startup at $725M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220220/p11#a220220p11)
- - [Hulu: All the TV Shows and Movies Coming in March 2022     - CNET](https://www.cnet.com/news/hulu-all-the-tv-shows-and-movies-coming-in-march-2022/#ftag=CAD590a51e)
- - [HBO Max: The Best Sci-Fi Movies To Watch     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Spider-Man Movies, Ranked From Worst to Best     - CNET](https://www.cnet.com/news/all-the-spider-man-movies-ranked/#ftag=CAD590a51e)
+ - [Hulu: All the TV Shows and Movies Coming in March 2022     - CNET](https://www.cnet.com/news/hulu-all-the-tv-shows-and-movies-coming-in-march-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
