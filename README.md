@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making Mochi by hand.](http://9gag.com/gag/abgv6R8)
- - 🚯 [Introducing a new Queen to the bee colony.](http://9gag.com/gag/amgAz36)
- - 🚯 [From scratch to a masterpiece!](http://9gag.com/gag/aYrVWox)<!-- MEMES:END -->
+ - 🚖 [Artist Turns Animals Into Anime Characters](http://9gag.com/gag/abgv6Kb)
+ - 🚯 [When you finally found the way out from Bermuda triangle after 7 dacades.](http://9gag.com/gag/aogK2Am)
+ - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
 
