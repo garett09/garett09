@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enter the Dragon’s Nest with new Shadow Warrior 3 gameplay](https://blog.playstation.com/2022/02/22/enter-the-dragons-nest-with-new-shadow-warrior-3-gameplay/)
- - [Enter the Dragon’s Nest with new Shadow Warrior 3 gameplay](https://blog.playstation.com/2022/02/22/enter-the-dragons-nest-with-new-shadow-warrior-3-gameplay/)
- - [Brilliant Diamond And Shining Pearl Crack Down On ‘Illicit’ Clone Pokémon](https://kotaku.com/pokemon-bdsp-pokedupechecker-patch-switch-diamond-pearl-1848575743)<!-- GAME:END -->
+ - [Here are the new Destiny 2: The Witch Queen Exotics](https://www.polygon.com/22938614/destiny-2-the-witch-queen-exotic-weapons-armor-list-perks)
+ - [Arthur’s series finale time-jumped and cast the original voice actor as Adult Arthur](https://www.polygon.com/22945723/arthur-series-finale)
+ - [Square Enix Is Impossible To Please](https://kotaku.com/guardians-galaxy-gotg-square-enix-sales-targets-1848576231)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
