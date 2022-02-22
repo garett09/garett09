@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Startup’s planned 5G Blackberry revival is officially dead](https://www.theverge.com/2022/2/22/22945425/5g-blackberry-revival-cancelled-onwardmobility)
- - [Facilio, which uses AI to help companies manage real estate, raises a $35M Series B led by Dragoneer, following a $6.4M Series A in 2018 &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220222/p6#a220222p6)
- - [SoFi will acquire Technisys, which makes tools for banks, for around $1.1B in an all-stock deal; after going public via SPAC, SoFi&#39;s stock is down 28% in 2022 &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/220222/p5#a220222p5)<!-- TECH:END -->
+ - [Apple&#39;s smart fabric research points to wearable tech beyond Apple Watch &amp; AirPods](https://appleinsider.com/articles/22/02/22/apples-smart-fabric-research-points-to-wearable-tech-beyond-apple-watch-airpods?utm_medium=rss)
+ - [Daily Authority: 👉 Everything coming to MWC 2022](https://www.androidauthority.com/da-february-22-2022-3113803/)
+ - [Investigation suggests that Austrian programmer Toby Hoenisch, who founded TenX, was likely behind a 2016 hack of The DAO, diverting 3.6M ETH, now worth $11B &lpar;Laura Shin/Forbes&rpar;](http://www.techmeme.com/220222/p7#a220222p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
