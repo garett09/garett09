@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roboquest Brings FPS Mayhem to PC Game Pass](https://news.xbox.com/en-us/2022/02/22/roboquest-brings-fps-mayhem-to-pc-game-pass/)
- - [2D Platformer Warhammer 40,000: Shootas, Blood &amp; Teef Will Arrive in Summer 2022](https://news.xbox.com/en-us/2022/02/22/2d-platformer-warhammer-40000-shootas-blood-teef-will-arrive-in-summer-2022/)
- - [Roll20’s new CEO promises change is on the way for the industry leading virtual tabletop](https://www.polygon.com/interviews/22944837/roll20-2022-roadmap-new-ceo-feature-improvements-stability)<!-- GAME:END -->
+ - [Destiny 2&#39;s Big Witch Queen PS4 Launch Hit An Unfortunate Snag](https://kotaku.com/destiny-2-witch-queen-ps4-download-update-bungie-exotic-1848577404)
+ - [The best Fortnite Creative codes](https://www.pcgamer.com/fortnite-creative-codes)
+ - [VTuber Ironmouse Is Breaking All Kinds Of Twitch Records](https://kotaku.com/twitch-ironmouse-streamer-most-popular-female-vtuber-vs-1848576685)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
