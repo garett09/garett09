@@ -197,7 +197,7 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time fly.](http://9gag.com/gag/a61qNdb)
+ - 🚖 [Tell me](http://9gag.com/gag/a21KREd)
  - 🚯 [One step closer](http://9gag.com/gag/ajgVEp0)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
