@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The situation in DPR now: eyewitnesses report a huge column of Russian tanks and APCs moving to the front. Direct quote: `On the hundredth unit we lost count. The convoy was going along the highway between Donetsk and Makiivka. Tanks, a lot of them, they drove for about an hour`.](http://9gag.com/gag/aRrE0O7)
- - 🚯 [Get a video of me, dad!](http://9gag.com/gag/aegQAGW)
- - 🚯 [A satisfying ending...](http://9gag.com/gag/a91qEqj)<!-- MEMES:END -->
+ - 🚖 [Tuesday](http://9gag.com/gag/aegQApW)
+ - 🚯 [No clue how it&#39;s done](http://9gag.com/gag/a61qK69)
+ - 🚯 [So, we do a little trolling here](http://9gag.com/gag/aM4EKAV)<!-- MEMES:END -->
 
 --- 
 
