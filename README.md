@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ants as pest control](http://9gag.com/gag/aPZgY9P)
- - 🚯 [Time fly.](http://9gag.com/gag/a61qNdb)
+ - 🚖 [Time fly.](http://9gag.com/gag/a61qNdb)
+ - 🚯 [One step closer](http://9gag.com/gag/ajgVEp0)
  - 🚯 [What\u2019s Your Best Pun?](http://9gag.com/gag/aogK192)<!-- MEMES:END -->
 
 --- 
