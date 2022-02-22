@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stonkski da!](http://9gag.com/gag/amgAAPo)
- - 🚯 [Inflation over time](http://9gag.com/gag/aKmEG81)
- - 🚯 [Don&#39;t worry guys](http://9gag.com/gag/aDDYYDZ)<!-- MEMES:END -->
+ - 🚖 [The kick tho](http://9gag.com/gag/arnmm6p)
+ - 🚯 [Don&#39;t worry guys](http://9gag.com/gag/aDDYYDZ)
+ - 🚯 [Also he geh](http://9gag.com/gag/aXrnnRV)<!-- MEMES:END -->
 
 --- 
 
