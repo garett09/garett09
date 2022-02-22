@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen preload won’t be available for PS4](https://www.polygon.com/22945584/destiny-2-the-witch-queen-unavailable-ps4)
- - [Bombast &amp; balance: inside Destiny 2’s Witch Queen campaign](https://blog.playstation.com/2022/02/22/bombast-balance-inside-destiny-2s-witch-queen-campaign/)
- - [Bombast &amp; balance: inside Destiny 2’s Witch Queen campaign](https://blog.playstation.com/2022/02/22/bombast-balance-inside-destiny-2s-witch-queen-campaign/)<!-- GAME:END -->
+ - [Enter the Dragon’s Nest with new Shadow Warrior 3 gameplay](https://blog.playstation.com/2022/02/22/enter-the-dragons-nest-with-new-shadow-warrior-3-gameplay/)
+ - [Enter the Dragon’s Nest with new Shadow Warrior 3 gameplay](https://blog.playstation.com/2022/02/22/enter-the-dragons-nest-with-new-shadow-warrior-3-gameplay/)
+ - [Brilliant Diamond And Shining Pearl Crack Down On ‘Illicit’ Clone Pokémon](https://kotaku.com/pokemon-bdsp-pokedupechecker-patch-switch-diamond-pearl-1848575743)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
