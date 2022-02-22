@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hostage taken in foiled robbery at Amsterdam Apple Store](https://appleinsider.com/articles/22/02/22/hostage-taken-in-foiled-robbery-at-amsterdam-apple-store?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [How a high-tech twist on a 19th-century process could clean up steel and cement making](https://www.theverge.com/2022/2/22/22945975/rondo-energy-decarbonize-steel-cement-making-renewable)<!-- TECH:END -->
+ - [Apple Stores lift mask mandate, plan resumption of in-person Today at Apple](https://appleinsider.com/articles/22/02/22/apple-stores-lift-mask-mandate-plans-resumption-of-in-person-today-at-apple?utm_medium=rss)
+ - [Frontier adds 2-gig speeds across its entire fiber network](https://www.theverge.com/2022/2/22/22946356/frontier-2-gig-speed-fiber-internet-fios)
+ - [Daft Punk is streaming a 1997 concert on Twitch, and this may be your only chance to see it](https://www.theverge.com/2022/2/22/22946483/daft-punk-streaming-old-concert-twitch-homework-reissue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
