@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AP Journalist Gives Reports on Ukraine in 6 languages &lpar;English, Luxembourgish, Spanish, Portuguese, French, German&rpar;](http://9gag.com/gag/a81qGGp)
- - 🚯 [Boys never forget.](http://9gag.com/gag/a51XEYr)
- - 🚯 [Yakuza: High Def](http://9gag.com/gag/aVxb7WM)<!-- MEMES:END -->
+ - 🚖 [I guess The Kenosha Kid has some new targets to aim at.](http://9gag.com/gag/aLv1vMW)
+ - 🚯 [Get a video of me, dad!](http://9gag.com/gag/aegQAGW)
+ - 🚯 [Boys never forget.](http://9gag.com/gag/a51XEYr)<!-- MEMES:END -->
 
 --- 
 
