@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First look: the headset design for PlayStation VR2](https://blog.playstation.com/2022/02/22/first-look-the-headset-design-for-playstation-vr2/)
- - [First look: the headset design for PlayStation VR2](https://blog.playstation.com/2022/02/22/first-look-the-headset-design-for-playstation-vr2/)
- - [Drink Up Because &#39;Gaming Sake&#39; Is Coming To Japan](https://kotaku.com/sake-japanese-japan-drinking-alcohol-gaming-video-games-1848574850)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen preload won’t be available for PS4](https://www.polygon.com/22945584/destiny-2-the-witch-queen-unavailable-ps4)
+ - [Bombast &amp; balance: inside Destiny 2’s Witch Queen campaign](https://blog.playstation.com/2022/02/22/bombast-balance-inside-destiny-2s-witch-queen-campaign/)
+ - [Bombast &amp; balance: inside Destiny 2’s Witch Queen campaign](https://blog.playstation.com/2022/02/22/bombast-balance-inside-destiny-2s-witch-queen-campaign/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
