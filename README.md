@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ryu is the widest he’s ever been in Street Fighter 6](https://www.polygon.com/22946085/ryu-street-fighter-6-capcom-memes)
- - [Persona sister series Soul Hackers is getting a sequel in August](https://www.polygon.com/22946011/soul-hackers-2-announced)
- - [Destiny 2: The Witch Queen patch notes are live](https://www.pcgamer.com/destiny-2-the-witch-queen-patch-notes-are-live)<!-- GAME:END -->
+ - [Steam’s Next Fest spotlights a game TikTok loves](https://www.polygon.com/22946315/tiktok-the-wandering-village-annapurna-interactive-neon-white-steam-next-fest-demos)
+ - [Batman keeps lollipops in his belt, but he has good reasons](https://www.polygon.com/2022/2/22/22945714/batman-utility-belt-superman-nightwing-dc-comics)
+ - [House Flipper 2 gets announcement teaser, set for 2023 release date](https://www.polygon.com/22946119/house-flipper-2-announcement-teaser-2023-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
