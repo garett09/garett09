@@ -197,7 +197,7 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He went from 70 years old to 40](http://9gag.com/gag/a91qR00)
+ - 🚖 [He&#39;s not wrong](http://9gag.com/gag/apg9Gm8)
  - 🚯 [49 year old Sofia Vergara with her niece](http://9gag.com/gag/avAQovE)
  - 🚯 [Satire Comedy Video on Amazons&#39; LOTR Rings of Power TV show](http://9gag.com/gag/aRrE0xj)<!-- MEMES:END -->
 
