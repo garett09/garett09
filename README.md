@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2&#39;s Big Witch Queen PS4 Launch Hit An Unfortunate Snag](https://kotaku.com/destiny-2-witch-queen-ps4-download-update-bungie-exotic-1848577404)
- - [The best Fortnite Creative codes](https://www.pcgamer.com/fortnite-creative-codes)
- - [VTuber Ironmouse Is Breaking All Kinds Of Twitch Records](https://kotaku.com/twitch-ironmouse-streamer-most-popular-female-vtuber-vs-1848576685)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen patch notes are live](https://www.pcgamer.com/destiny-2-the-witch-queen-patch-notes-are-live)
+ - [Peacemaker season 2 has plenty of questions to answer — including the cast’s](https://www.polygon.com/22941568/peacemaker-season-1-ending-explained)
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
