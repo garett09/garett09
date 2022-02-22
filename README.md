@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s smart fabric research points to wearable tech beyond Apple Watch &amp; AirPods](https://appleinsider.com/articles/22/02/22/apples-smart-fabric-research-points-to-wearable-tech-beyond-apple-watch-airpods?utm_medium=rss)
- - [Daily Authority: 👉 Everything coming to MWC 2022](https://www.androidauthority.com/da-february-22-2022-3113803/)
- - [Investigation suggests that Austrian programmer Toby Hoenisch, who founded TenX, was likely behind a 2016 hack of The DAO, diverting 3.6M ETH, now worth $11B &lpar;Laura Shin/Forbes&rpar;](http://www.techmeme.com/220222/p7#a220222p7)<!-- TECH:END -->
+ - [Remote Coaching Makes Training More Accessible—Even for Skaters](https://www.wired.com/story/olympics-remote-coaching-zoom)
+ - [Why Cities Want Old Buildings Taken Down Gently](https://www.wired.com/story/why-cities-want-old-buildings-taken-down-gently)
+ - [Apple Car autopilot system rumored to be connected to new Korean supplier](https://appleinsider.com/articles/22/02/22/apple-car-autopilot-system-rumored-to-be-connected-to-new-korean-supplier?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
