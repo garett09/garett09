@@ -199,7 +199,7 @@ Windows                  9 hrs 29 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [The kick tho](http://9gag.com/gag/arnmm6p)
  - 🚯 [Stonkski da!](http://9gag.com/gag/amgAAPo)
- - 🚯 [Also he geh](http://9gag.com/gag/aXrnnRV)<!-- MEMES:END -->
+ - 🚯 [The current situation](http://9gag.com/gag/a41oP2p)<!-- MEMES:END -->
 
 --- 
 
