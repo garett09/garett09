@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the new Destiny 2: The Witch Queen Exotics](https://www.polygon.com/22938614/destiny-2-the-witch-queen-exotic-weapons-armor-list-perks)
- - [Arthur’s series finale time-jumped and cast the original voice actor as Adult Arthur](https://www.polygon.com/22945723/arthur-series-finale)
- - [Square Enix Is Impossible To Please](https://kotaku.com/guardians-galaxy-gotg-square-enix-sales-targets-1848576231)<!-- GAME:END -->
+ - [Roboquest Brings FPS Mayhem to PC Game Pass](https://news.xbox.com/en-us/2022/02/22/roboquest-brings-fps-mayhem-to-pc-game-pass/)
+ - [2D Platformer Warhammer 40,000: Shootas, Blood &amp; Teef Will Arrive in Summer 2022](https://news.xbox.com/en-us/2022/02/22/2d-platformer-warhammer-40000-shootas-blood-teef-will-arrive-in-summer-2022/)
+ - [Roll20’s new CEO promises change is on the way for the industry leading virtual tabletop](https://www.polygon.com/interviews/22944837/roll20-2022-roadmap-new-ceo-feature-improvements-stability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
