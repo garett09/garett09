@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen patch notes are live](https://www.pcgamer.com/destiny-2-the-witch-queen-patch-notes-are-live)
- - [Peacemaker season 2 has plenty of questions to answer — including the cast’s](https://www.polygon.com/22941568/peacemaker-season-1-ending-explained)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
+ - [Ryu is the widest he’s ever been in Street Fighter 6](https://www.polygon.com/22946085/ryu-street-fighter-6-capcom-memes)
+ - [Persona sister series Soul Hackers is getting a sequel in August](https://www.polygon.com/22946011/soul-hackers-2-announced)
+ - [Destiny 2: The Witch Queen patch notes are live](https://www.pcgamer.com/destiny-2-the-witch-queen-patch-notes-are-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
