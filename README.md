@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uganda\u2019s foreign minister, Jeje Odongo, blatantly ignored Ursula van der Leyen, President of the European Commission, at the European Union\u2013African Union Summit](http://9gag.com/gag/abgvYDE)
- - 🚯 [He&#39;s not wrong](http://9gag.com/gag/apg9Gm8)
- - 🚯 [The first Russian military convoy is entering Donbas &lpar;Ukrainian territory&rpar; right now](http://9gag.com/gag/a81q586)<!-- MEMES:END -->
+ - 🚖 [The first Russian military convoy is entering Donbas &lpar;Ukrainian territory&rpar; right now](http://9gag.com/gag/a81q586)
+ - 🚯 [News from other side: Putin officially recognized the independence of DNR, LNR and claims that Russia will show real decommunization to Ukraine. Its seems that Russia will start the war tomorrow. We, real Russians don&#39;t want any war. Hope for the better, please stay safe](http://9gag.com/gag/avAQ8bO)
+ - 🚯 [49 year old Sofia Vergara with her niece](http://9gag.com/gag/avAQovE)<!-- MEMES:END -->
 
 --- 
 
