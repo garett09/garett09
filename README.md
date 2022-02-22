@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap! the OnePlus 10 Pro broke in half in durability test](https://www.androidauthority.com/oneplus-10-pro-durability-3113514/)
- - [The US Copyright Office rejected a request to grant copyright to a work of art created by an AI, as the image didn&#39;t include an element of &quot;human authorship&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220221/p16#a220221p16)
- - [DCash, an e-currency used by seven Eastern Caribbean nations, has been offline for over a month, revealing technical issues governments face with e-currencies &lpar;Jim Wyss/Bloomberg&rpar;](http://www.techmeme.com/220221/p15#a220221p15)<!-- TECH:END -->
+ - [Panasonic’s Lumix GH6 has the highest-resolution Micro Four Thirds sensor ever](https://www.theverge.com/2022/2/22/22945365/panasonic-lumix-gh6-announced-price-specs-release-date)
+ - [Here’s when your Samsung Galaxy S21 phones could get One UI 4.1](https://www.androidauthority.com/samsung-galaxy-s21-one-ui-4-1-3113544/)
+ - [Amazon France just revealed all we need to know about the Poco X4 Pro](https://www.androidauthority.com/poco-x4-pro-amazon-france-3112821/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
