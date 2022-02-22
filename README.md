@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Next Fest spotlights a game TikTok loves](https://www.polygon.com/22946315/tiktok-the-wandering-village-annapurna-interactive-neon-white-steam-next-fest-demos)
- - [Batman keeps lollipops in his belt, but he has good reasons](https://www.polygon.com/2022/2/22/22945714/batman-utility-belt-superman-nightwing-dc-comics)
- - [House Flipper 2 gets announcement teaser, set for 2023 release date](https://www.polygon.com/22946119/house-flipper-2-announcement-teaser-2023-release-date)<!-- GAME:END -->
+ - [In the face of Russian aggression, Ukrainian game developers remain hopeful, pragmatic](https://www.polygon.com/22945794/ukraine-game-developers-russian-agression-putin-war)
+ - [Baldur&#39;s Gate: Dark Alliance 2 is coming to PC this year](https://www.pcgamer.com/baldurs-gate-dark-alliance-2-is-coming-to-pc-this-year)
+ - [Two years later, Fall Guys now has crossplay](https://www.pcgamer.com/two-years-later-fall-guys-now-has-crossplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
