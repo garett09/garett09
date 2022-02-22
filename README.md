@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)
- - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
- - [Can the law keep up with crypto?](https://www.theverge.com/22944579/crypto-bitcoin-internet-law-nft-tiktok-dances-tonya-evans-interview)<!-- TECH:END -->
+ - [Slack is down](https://www.theverge.com/2022/2/22/22945594/slack-down-outage-connection-errors)
+ - [Meta launches Reels in Facebook globally, with more ads and editing features](https://www.theverge.com/2022/2/22/22945800/meta-facebook-reels-tiktok-clone-global-launch)
+ - [Peloton is down, so you might have to exercise alone](https://www.theverge.com/2022/2/22/22945849/peloton-down-outage-workout-fitness)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
