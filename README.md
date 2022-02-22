@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is testing its curated stream of comedy clips on TVs](https://www.theverge.com/2022/2/22/22937776/netflix-fast-laughs-test-tv-comedy-funny-clips-stream)
- - [Google acknowledges Wi-Fi issues in ‘very small number’ of Pixel 6 phones, fix coming in March](https://www.theverge.com/2022/2/22/22946139/pixel-6-google-wi-fi-issues-phone-fix-march-update)
- - [Apple&#39;s new AirTag anti-stalking features are in the latest iOS 15.4 beta](https://appleinsider.com/articles/22/02/22/apple-adds-new-airtag-anti-stalking-features-to-latest-ios-154-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Hostage taken in foiled robbery at Amsterdam Apple Store](https://appleinsider.com/articles/22/02/22/hostage-taken-in-foiled-robbery-at-amsterdam-apple-store?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [How a high-tech twist on a 19th-century process could clean up steel and cement making](https://www.theverge.com/2022/2/22/22945975/rondo-energy-decarbonize-steel-cement-making-renewable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
