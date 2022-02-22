@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Euro Truck Simulator 2&#39;s next update will put hidden roads on the map when you discover them](https://www.pcgamer.com/euro-truck-simulator-2s-next-update-will-put-hidden-roads-on-the-map-when-you-discover-them)
- - [Pokémon Travel Show With A Pikachu Bus Coming To Japanese TV](https://kotaku.com/pokemon-pikachu-gamefreak-anime-live-action-variety-sho-1848574750)
- - [Intel works with MIT to design impressive high resolution image scaling chips](https://www.pcgamer.com/intel-works-with-mit-to-design-impressive-high-resolution-image-scaling-chips)<!-- GAME:END -->
+ - [First look: the headset design for PlayStation VR2](https://blog.playstation.com/2022/02/22/first-look-the-headset-design-for-playstation-vr2/)
+ - [Drink Up Because &#39;Gaming Sake&#39; Is Coming To Japan](https://kotaku.com/sake-japanese-japan-drinking-alcohol-gaming-video-games-1848574850)
+ - [Assassin&#39;s Creed Valhalla update adds a new difficulty mode and tweaks stealth](https://www.pcgamer.com/assassins-creed-valhalla-update-adds-a-new-difficulty-mode-and-tweaks-stealth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
