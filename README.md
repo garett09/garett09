@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Princeton Digital, which invests in, develops, and operates data center infrastructure across Asia, raises $500M+ led by Mubadala that could value it at $2B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220221/p14#a220221p14)
- - [Michelin and GM Working on Airless Tire for Next-Gen Bolt, Report Says     - Roadshow](https://www.cnet.com/roadshow/news/michelin-gm-airless-tires-next-generation-bolt-electric-vehicles/#ftag=CAD590a51e)
- - [Porsche Invests Half a Billion Euros in Boxster/Cayman Factory for EVs     - Roadshow](https://www.cnet.com/roadshow/news/porsche-invests-ev-production-boxster-cayman-factory/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrush for 2022     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Michelin and GM Working on Airless Tire for Next-Gen Bolt, Report Says     - Roadshow](https://www.cnet.com/roadshow/news/michelin-gm-airless-tires-next-generation-bolt-electric-vehicles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
