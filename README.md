@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
- - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
- - [Street Fighter 6&#39;s Logo Looks Like $80 Clipart](https://kotaku.com/street-fighter-6-vi-capcom-graphic-design-logo-sf6-sf5-1848573656)<!-- GAME:END -->
+ - [Steam&#39;s Biggest &lpar;And Smallest&rpar; Discounts Are Going Away](https://kotaku.com/steam-valve-pc-sale-discount-algorithm-pricing-video-ga-1848573503)
+ - [Microsoft initiated Activision purchase just after saying it was &#39;deeply troubled&#39; by scandal reports](https://www.pcgamer.com/microsoft-initiated-activision-purchase-just-after-saying-it-was-deeply-troubled-by-scandal-reports)
+ - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
