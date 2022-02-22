@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The first Russian military convoy is entering Donbas &lpar;Ukrainian territory&rpar; right now](http://9gag.com/gag/a81q586)
- - 🚯 [News from other side: Putin officially recognized the independence of DNR, LNR and claims that Russia will show real decommunization to Ukraine. Its seems that Russia will start the war tomorrow. We, real Russians don&#39;t want any war. Hope for the better, please stay safe](http://9gag.com/gag/avAQ8bO)
- - 🚯 [49 year old Sofia Vergara with her niece](http://9gag.com/gag/avAQovE)<!-- MEMES:END -->
+ - 🚖 [Trust me it&#39;s working](http://9gag.com/gag/aQXEdb8)
+ - 🚯 [He&#39;s not wrong](http://9gag.com/gag/apg9Gm8)
+ - 🚯 [They give me the money and I tell them the landlords a family friend.](http://9gag.com/gag/aWgGELq)<!-- MEMES:END -->
 
 --- 
 
