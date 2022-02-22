@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess The Kenosha Kid has some new targets to aim at.](http://9gag.com/gag/aLv1vMW)
- - 🚯 [Don&#39;t worry guys](http://9gag.com/gag/aDDYYDZ)
- - 🚯 [Equality](http://9gag.com/gag/aBnd2eZ)<!-- MEMES:END -->
+ - 🚖 [Also he geh](http://9gag.com/gag/aXrnnRV)
+ - 🚯 [Equality](http://9gag.com/gag/aBnd2eZ)
+ - 🚯 [You go girl](http://9gag.com/gag/aM4E4PA)<!-- MEMES:END -->
 
 --- 
 
