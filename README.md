@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Biggest &lpar;And Smallest&rpar; Discounts Are Going Away](https://kotaku.com/steam-valve-pc-sale-discount-algorithm-pricing-video-ga-1848573503)
- - [Microsoft initiated Activision purchase just after saying it was &#39;deeply troubled&#39; by scandal reports](https://www.pcgamer.com/microsoft-initiated-activision-purchase-just-after-saying-it-was-deeply-troubled-by-scandal-reports)
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)<!-- GAME:END -->
+ - [Gigabyte launches a PCIe 5.0 PSU that&#39;s ready for power guzzling next-gen GPUs](https://www.pcgamer.com/gigabyte-launches-a-pcie-50-psu-thats-ready-for-power-guzzling-next-gen-gpus)
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
