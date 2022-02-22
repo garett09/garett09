@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Sony LinkBuds open-design vs. AirPods Pro transparency mode](https://appleinsider.com/articles/22/02/22/compared-sony-linkbuds-open-design-vs-airpods-pro-transparency-mode?utm_medium=rss)
- - [An NFT Bubble Is Taking Over the Gig Economy](https://www.wired.com/story/nfts-gig-economy)
- - [Amazon slashes 14-inch MacBook Pro price further, now $270 off](https://appleinsider.com/articles/22/02/22/amazon-slashes-14-inch-macbook-pro-price-further-now-270-off?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla CEO Elon Musk accuses the SEC of ‘leaking’ information](https://www.theverge.com/2022/2/22/22946117/elon-musk-sec-accuse-leak-information-tesla)
+ - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)
+ - [Proctorio subpoenas digital rights group in legal spat with critical student](https://www.theverge.com/2022/2/22/22945634/proctorio-fight-for-the-future-twitter-copyright-lawsuit-subpoena-remote-proctoring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
