@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hostage taken in foiled robbery at Amsterdam Apple Store](https://appleinsider.com/articles/22/02/22/hostage-taken-in-foiled-robbery-at-amsterdam-apple-store?utm_medium=rss)
- - [Apple issues fourth developer betas for iOS 15.4, iPadOS 15.4, tvOS 15.4, &amp; watchOS 8.5](https://appleinsider.com/articles/22/02/22/apple-issues-fourth-developer-betas-for-ios-154-ipados-154-tvos-154-watchos-85?utm_medium=rss)
- - [Apple seeds fourth developer beta of macOS Monterey 12.3](https://appleinsider.com/articles/22/02/22/apple-seeds-fourth-developer-beta-of-macos-monterey-123?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: Sony LinkBuds open-design vs. AirPods Pro transparency mode](https://appleinsider.com/articles/22/02/22/compared-sony-linkbuds-open-design-vs-airpods-pro-transparency-mode?utm_medium=rss)
+ - [An NFT Bubble Is Taking Over the Gig Economy](https://www.wired.com/story/nfts-gig-economy)
+ - [Amazon slashes 14-inch MacBook Pro price further, now $270 off](https://appleinsider.com/articles/22/02/22/amazon-slashes-14-inch-macbook-pro-price-further-now-270-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
