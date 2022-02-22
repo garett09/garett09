@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi K50 Pro leaks: What a Poco F4 Pro or Xiaomi 12i could look like?](https://www.androidauthority.com/redmi-k50-pro-3113593/)
- - [Beyond Identity, which offers a password-free zero trust multifactor authentication service for enterprises, raises a $100M Series C at a $1.1B valuation &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220222/p2#a220222p2)
- - [Ford Debuts Its Next-Gen Ranger Raptor Pickup, and It&#39;s Coming to America     - Roadshow](https://www.cnet.com/roadshow/news/2023-ford-ranger-raptor-pickup-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is testing a Windows 11 desktop watermark for unsupported hardware](https://www.theverge.com/2022/2/22/22945407/microsoft-windows-11-unsupported-hardware-warning-desktop-watermark)
+ - [Intel details its new bitcoin mining Bonanza Mine ASICs, claiming 300 of the chips consume 3,600 watts and deliver up to 40 terahashes per second of performance &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220222/p3#a220222p3)
+ - [You told us: Here’s how often you use floating app windows &lpar;if at all&rpar;](https://www.androidauthority.com/floating-app-windows-poll-results-3113589/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
