@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla CEO Elon Musk accuses the SEC of ‘leaking’ information](https://www.theverge.com/2022/2/22/22946117/elon-musk-sec-accuse-leak-information-tesla)
- - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)
- - [Proctorio subpoenas digital rights group in legal spat with critical student](https://www.theverge.com/2022/2/22/22945634/proctorio-fight-for-the-future-twitter-copyright-lawsuit-subpoena-remote-proctoring)<!-- TECH:END -->
+ - [Netflix is testing its curated stream of comedy clips on TVs](https://www.theverge.com/2022/2/22/22937776/netflix-fast-laughs-test-tv-comedy-funny-clips-stream)
+ - [Google acknowledges Wi-Fi issues in ‘very small number’ of Pixel 6 phones, fix coming in March](https://www.theverge.com/2022/2/22/22946139/pixel-6-google-wi-fi-issues-phone-fix-march-update)
+ - [Apple&#39;s new AirTag anti-stalking features are in the latest iOS 15.4 beta](https://appleinsider.com/articles/22/02/22/apple-adds-new-airtag-anti-stalking-features-to-latest-ios-154-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
