@@ -184,8 +184,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- GAME:START -->
  - [First look: the headset design for PlayStation VR2](https://blog.playstation.com/2022/02/22/first-look-the-headset-design-for-playstation-vr2/)
- - [Drink Up Because &#39;Gaming Sake&#39; Is Coming To Japan](https://kotaku.com/sake-japanese-japan-drinking-alcohol-gaming-video-games-1848574850)
- - [Assassin&#39;s Creed Valhalla update adds a new difficulty mode and tweaks stealth](https://www.pcgamer.com/assassins-creed-valhalla-update-adds-a-new-difficulty-mode-and-tweaks-stealth)<!-- GAME:END -->
+ - [First look: the headset design for PlayStation VR2](https://blog.playstation.com/2022/02/22/first-look-the-headset-design-for-playstation-vr2/)
+ - [Drink Up Because &#39;Gaming Sake&#39; Is Coming To Japan](https://kotaku.com/sake-japanese-japan-drinking-alcohol-gaming-video-games-1848574850)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
