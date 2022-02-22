@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tuesday](http://9gag.com/gag/aegQApW)
- - 🚯 [No clue how it&#39;s done](http://9gag.com/gag/a61qK69)
- - 🚯 [So, we do a little trolling here](http://9gag.com/gag/aM4EKAV)<!-- MEMES:END -->
+ - 🚖 [Get a video of me, dad!](http://9gag.com/gag/aegQAGW)
+ - 🚯 [Russian troops shell the village of Novoluganskoye, located a few kilometers from the front on Ukrainian territory. The war had begun.](http://9gag.com/gag/aOQx3n2)
+ - 🚯 [Asians](http://9gag.com/gag/axBo9O1)<!-- MEMES:END -->
 
 --- 
 
