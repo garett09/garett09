@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boys never forget.](http://9gag.com/gag/a51XEYr)
- - 🚯 [Russian troops shell the village of Novoluganskoye, located a few kilometers from the front on Ukrainian territory. The war had begun.](http://9gag.com/gag/aOQx3n2)
- - 🚯 [Since we&#39;re claiming old territories like psychotic megalomaniacs tonight, I say let&#39;s get the boys back together and reform the Roman Empire](http://9gag.com/gag/aggoBdn)<!-- MEMES:END -->
+ - 🚖 [I guess The Kenosha Kid has some new targets to aim at.](http://9gag.com/gag/aLv1vMW)
+ - 🚯 [Don&#39;t worry guys](http://9gag.com/gag/aDDYYDZ)
+ - 🚯 [Equality](http://9gag.com/gag/aBnd2eZ)<!-- MEMES:END -->
 
 --- 
 
