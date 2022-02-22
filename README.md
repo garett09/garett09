@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel works with MIT to design impressive high resolution image scaling chips](https://www.pcgamer.com/intel-works-with-mit-to-design-impressive-high-resolution-image-scaling-chips)
- - [Intel poaches lead GPU architect from AMD](https://www.pcgamer.com/intel-poaches-lead-gpu-architect-from-amd)
- - [Facebook has lost $500 billion since rebranding to Meta](https://www.pcgamer.com/facebook-has-lost-dollar500-billion-since-rebranding-to-meta)<!-- GAME:END -->
+ - [Euro Truck Simulator 2&#39;s next update will put hidden roads on the map when you discover them](https://www.pcgamer.com/euro-truck-simulator-2s-next-update-will-put-hidden-roads-on-the-map-when-you-discover-them)
+ - [Pokémon Travel Show With A Pikachu Bus Coming To Japanese TV](https://kotaku.com/pokemon-pikachu-gamefreak-anime-live-action-variety-sho-1848574750)
+ - [Intel works with MIT to design impressive high resolution image scaling chips](https://www.pcgamer.com/intel-works-with-mit-to-design-impressive-high-resolution-image-scaling-chips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
