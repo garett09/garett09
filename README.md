@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iMac 27-Inch Rumors: Release Date, Display and More     - CNET](https://www.cnet.com/tech/computing/imac-27-inch-2022-every-rumor-weve-heard-so-far/#ftag=CAD590a51e)
- - [Best Smartwatch for 2022     - CNET](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
- - [Squabble is Wordle Battle Royale, and It&#39;s Incredibly Intense     - CNET](https://www.cnet.com/news/squabble-is-wordle-battle-royale-and-it-is-incredibly-intense/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Michelin and GM Working on Airless Tire for Next-Gen Bolt, Report Says     - Roadshow](https://www.cnet.com/roadshow/news/michelin-gm-airless-tires-next-generation-bolt-electric-vehicles/#ftag=CAD590a51e)
+ - [Porsche Invests Half a Billion Euros in Boxster/Cayman Factory for EVs     - Roadshow](https://www.cnet.com/roadshow/news/porsche-invests-ev-production-boxster-cayman-factory/#ftag=CAD590a51e)
+ - [Best Cooling Mattress for Hot Sleepers in 2022     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
