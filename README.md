@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Since we&#39;re claiming old territories like psychotic megalomaniacs tonight, I say let&#39;s get the boys back together and reform the Austrian Empire](http://9gag.com/gag/aXrnrEb)
- - 🚯 [Ukrainian Minister of Defense Oleksii Reznikov says \u201cwe remain confident and calm,\u201d following Russia\u2019s move to order troops into two separatist pro-Moscow regions in eastern Ukraine](http://9gag.com/gag/adgP8AZ)
+ - 🚖 [The kick tho](http://9gag.com/gag/arnmm6p)
+ - 🚯 [Stonkski da!](http://9gag.com/gag/amgAAPo)
  - 🚯 [Also he geh](http://9gag.com/gag/aXrnnRV)<!-- MEMES:END -->
 
 --- 
