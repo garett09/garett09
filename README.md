@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)
- - [A profile of RightForge, a web hosting service underpinning Trump&#39;s Truth Social and nearly 1,000 others that serves those who feel &quot;censored&quot; &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220222/p14#a220222p14)
- - [Slack is down](https://www.theverge.com/2022/2/22/22945594/slack-down-outage-connection-errors)<!-- TECH:END -->
+ - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
+ - [Can the law keep up with crypto?](https://www.theverge.com/22944579/crypto-bitcoin-internet-law-nft-tiktok-dances-tonya-evans-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
