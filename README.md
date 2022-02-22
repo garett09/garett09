@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro snaps in half in durability test](https://www.theverge.com/2022/2/21/22944852/oneplus-10-pro-snaps-in-half-durability-test-jerryrigeverything)
- - [10% off the 2021 MacBook Pro, and more of the best MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)
- - [Future Fitness Review: One-on-One Training Without Leaving the House     - CNET](https://www.cnet.com/health/fitness/future-fitness-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iMac 27-Inch Rumors: Release Date, Display and More     - CNET](https://www.cnet.com/tech/computing/imac-27-inch-2022-every-rumor-weve-heard-so-far/#ftag=CAD590a51e)
+ - [Best Smartwatch for 2022     - CNET](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
+ - [Squabble is Wordle Battle Royale, and It&#39;s Incredibly Intense     - CNET](https://www.cnet.com/news/squabble-is-wordle-battle-royale-and-it-is-incredibly-intense/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
