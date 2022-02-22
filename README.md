@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6&#39;s Logo Looks Like $80 Clipart](https://kotaku.com/street-fighter-6-vi-capcom-graphic-design-logo-sf6-sf5-1848573656)
- - [Fallout 76 will be invaded by aliens this spring](https://www.pcgamer.com/fallout-76-will-be-invaded-by-aliens-this-spring)
- - [Megami Tensei spinoff Soul Hackers 2 is coming to Steam at release](https://www.pcgamer.com/megami-tensei-spinoff-soul-hackers-2-is-coming-to-steam-at-release)<!-- GAME:END -->
+ - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)
+ - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
+ - [Street Fighter 6&#39;s Logo Looks Like $80 Clipart](https://kotaku.com/street-fighter-6-vi-capcom-graphic-design-logo-sf6-sf5-1848573656)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
