@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic’s Lumix GH6 has the highest-resolution Micro Four Thirds sensor ever](https://www.theverge.com/2022/2/22/22945365/panasonic-lumix-gh6-announced-price-specs-release-date)
- - [Here’s when your Samsung Galaxy S21 phones could get One UI 4.1](https://www.androidauthority.com/samsung-galaxy-s21-one-ui-4-1-3113544/)
- - [Amazon France just revealed all we need to know about the Poco X4 Pro](https://www.androidauthority.com/poco-x4-pro-amazon-france-3112821/)<!-- TECH:END -->
+ - [Beyond Identity, which offers a password-free zero trust multifactor authentication service for enterprises, raises a $100M Series C at a $1.1B valuation &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220222/p2#a220222p2)
+ - [Ford Debuts Its Next-Gen Ranger Raptor Pickup, and It&#39;s Coming to America     - Roadshow](https://www.cnet.com/roadshow/news/2023-ford-ranger-raptor-pickup-debut/#ftag=CAD590a51e)
+ - [The New Ford Ranger Raptor Looks Awesome, and We&#39;re Getting It     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-ford-ranger-raptor-pickup-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
