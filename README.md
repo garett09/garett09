@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap! the OnePlus 10 Pro broke in half in durability test](https://www.androidauthority.com/oneplus-10-pro-durability-3113514/)
  - [The US Copyright Office rejected a request to grant copyright to a work of art created by an AI, as the image didn&#39;t include an element of &quot;human authorship&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220221/p16#a220221p16)
- - [DCash, an e-currency used by seven Eastern Caribbean nations, has been offline for over a month, revealing technical issues governments face with e-currencies &lpar;Jim Wyss/Bloomberg&rpar;](http://www.techmeme.com/220221/p15#a220221p15)
- - [Princeton Digital, which invests in, develops, and operates data center infrastructure across Asia, raises $500M+ led by Mubadala that could value it at $2B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220221/p14#a220221p14)<!-- TECH:END -->
+ - [DCash, an e-currency used by seven Eastern Caribbean nations, has been offline for over a month, revealing technical issues governments face with e-currencies &lpar;Jim Wyss/Bloomberg&rpar;](http://www.techmeme.com/220221/p15#a220221p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
