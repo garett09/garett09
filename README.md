@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s not wrong](http://9gag.com/gag/apg9Gm8)
- - 🚯 [49 year old Sofia Vergara with her niece](http://9gag.com/gag/avAQovE)
- - 🚯 [Satire Comedy Video on Amazons&#39; LOTR Rings of Power TV show](http://9gag.com/gag/aRrE0xj)<!-- MEMES:END -->
+ - 🚖 [Uganda\u2019s foreign minister, Jeje Odongo, blatantly ignored Ursula van der Leyen, President of the European Commission, at the European Union\u2013African Union Summit](http://9gag.com/gag/abgvYDE)
+ - 🚯 [He&#39;s not wrong](http://9gag.com/gag/apg9Gm8)
+ - 🚯 [The first Russian military convoy is entering Donbas &lpar;Ukrainian territory&rpar; right now](http://9gag.com/gag/a81q586)<!-- MEMES:END -->
 
 --- 
 
