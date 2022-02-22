@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing a Windows 11 desktop watermark for unsupported hardware](https://www.theverge.com/2022/2/22/22945407/microsoft-windows-11-unsupported-hardware-warning-desktop-watermark)
- - [Intel details its new bitcoin mining Bonanza Mine ASICs, claiming 300 of the chips consume 3,600 watts and deliver up to 40 terahashes per second of performance &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220222/p3#a220222p3)
- - [You told us: Here’s how often you use floating app windows &lpar;if at all&rpar;](https://www.androidauthority.com/floating-app-windows-poll-results-3113589/)<!-- TECH:END -->
+ - [Startup’s planned 5G Blackberry revival is officially dead](https://www.theverge.com/2022/2/22/22945425/5g-blackberry-revival-cancelled-onwardmobility)
+ - [Facilio, which uses AI to help companies manage real estate, raises a $35M Series B led by Dragoneer, following a $6.4M Series A in 2018 &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220222/p6#a220222p6)
+ - [SoFi will acquire Technisys, which makes tools for banks, for around $1.1B in an all-stock deal; after going public via SPAC, SoFi&#39;s stock is down 28% in 2022 &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/220222/p5#a220222p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
