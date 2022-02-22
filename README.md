@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Facebook has lost $500 billion since rebranding to Meta](https://www.pcgamer.com/facebook-has-lost-dollar500-billion-since-rebranding-to-meta)
- - [Gigabyte launches a PCIe 5.0 PSU that&#39;s ready for power guzzling next-gen GPUs](https://www.pcgamer.com/gigabyte-launches-a-pcie-50-psu-thats-ready-for-power-guzzling-next-gen-gpus)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [Intel works with MIT to design impressive high resolution image scaling chips](https://www.pcgamer.com/intel-works-with-mit-to-design-impressive-high-resolution-image-scaling-chips)
+ - [Intel poaches lead GPU architect from AMD](https://www.pcgamer.com/intel-poaches-lead-gpu-architect-from-amd)
+ - [Facebook has lost $500 billion since rebranding to Meta](https://www.pcgamer.com/facebook-has-lost-dollar500-billion-since-rebranding-to-meta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
