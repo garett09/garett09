@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 14 5G modem order likely to be completely fulfilled by TSMC](https://appleinsider.com/articles/22/02/22/apples-iphone-14-5g-modem-order-likely-to-be-completely-fulfilled-by-tsmc?utm_medium=rss)
- - [From BioWare to Beer: How Greg Zeschuk Makes Dreams Come True](https://www.wired.com/story/bioware-to-beer-greg-zeschuk)
- - [The Best Kindles to Take Your Library Anywhere](https://www.wired.com/gallery/best-kindle)<!-- TECH:END -->
+ - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)
+ - [A profile of RightForge, a web hosting service underpinning Trump&#39;s Truth Social and nearly 1,000 others that serves those who feel &quot;censored&quot; &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220222/p14#a220222p14)
+ - [Slack is down](https://www.theverge.com/2022/2/22/22945594/slack-down-outage-connection-errors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
