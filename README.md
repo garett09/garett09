@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I guess The Kenosha Kid has some new targets to aim at.](http://9gag.com/gag/aLv1vMW)
- - 🚯 [Get a video of me, dad!](http://9gag.com/gag/aegQAGW)
+ - 🚯 [A satisfying ending...](http://9gag.com/gag/a91qEqj)
  - 🚯 [Boys never forget.](http://9gag.com/gag/a51XEYr)<!-- MEMES:END -->
 
 --- 
