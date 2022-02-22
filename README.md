@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Facebook has lost $500 billion since rebranding to Meta](https://www.pcgamer.com/facebook-has-lost-dollar500-billion-since-rebranding-to-meta)
  - [Gigabyte launches a PCIe 5.0 PSU that&#39;s ready for power guzzling next-gen GPUs](https://www.pcgamer.com/gigabyte-launches-a-pcie-50-psu-thats-ready-for-power-guzzling-next-gen-gpus)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
