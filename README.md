@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redmi K50 renders leak: Could this be the Poco F4?](https://www.androidauthority.com/redmi-k50-2-3114925/)
  - [Analysis: 43% of job listings from West Coast tech companies were posted in Texas, Virginia, New York, Georgia, and other states in 2021, up from 30% in 2019 &lpar;Reade Pickert/Bloomberg&rpar;](http://www.techmeme.com/220223/p3#a220223p3)
- - [Vivo sub-brand launches iQOO 9 Pro flagship for $870](https://www.theverge.com/2022/2/23/22946939/vivo-iqoo-9-pro-india-launch-specs-price)
- - [OnePlus is readying a new Nord product and it’s not a phone](https://www.androidauthority.com/oneplus-10-nord-earbuds-3114890/)<!-- TECH:END -->
+ - [Vivo sub-brand launches iQOO 9 Pro flagship for $870](https://www.theverge.com/2022/2/23/22946939/vivo-iqoo-9-pro-india-launch-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
