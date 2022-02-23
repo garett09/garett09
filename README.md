@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Energy Firms Are Going ‘Green’ by Offloading Dirty Coal Plants](https://www.wired.com/story/europe-coal-plants-green)
- - [Inside the Lab Where Intel Tries to Hack Its Own Chips](https://www.wired.com/story/intel-lab-istare-hack-chips)
- - [It’s Tough to Build a Corporate Culture in a Remote-Work World](https://www.wired.com/story/tough-build-corporate-culture-remote-work)<!-- TECH:END -->
+ - [Bloomreach, which provides e-commerce search and website creation tools, raises $175M led by Goldman Sachs at a $2.2B valuation, up from $900M in January 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220223/p14#a220223p14)
+ - [Anecdotes, which helps Unity, Fiverr, and other companies with compliance using its Compliance OS, raises a $25M Series A led by Red Dot Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220223/p13#a220223p13)
+ - [iPhone SE, iPad Air, MacBook Air, more - what to expect from Apple&#39;s spring event](https://appleinsider.com/articles/22/02/23/iphone-se-ipad-air-macbook-air-more---what-to-expect-from-apples-spring-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
