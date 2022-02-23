@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)
- - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)
- - [Cyberpunk 2077 VR mod set to launch &#39;by the end of this week&#39;](https://www.pcgamer.com/cyberpunk-2077-vr-mod-set-to-launch-by-the-end-of-this-week)<!-- GAME:END -->
+ - [Xbox Live Streaming with Twitch](https://news.xbox.com/en-us/2022/02/23/xbox-live-streaming-with-twitch/)
+ - [Elden Ring is FromSoftware’s best, most accessible, and difficult game yet](https://www.polygon.com/reviews/22947204/elden-ring-review-from-software)
+ - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
