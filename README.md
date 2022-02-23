@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Run !](http://9gag.com/gag/a61q5nL)
+ - 🚖 [This is the real art](http://9gag.com/gag/angz29B)
  - 🚯 [Whos gone enjoy it more?](http://9gag.com/gag/aBndVPO)
- - 🚯 [This is the real art](http://9gag.com/gag/angz29B)<!-- MEMES:END -->
+ - 🚯 [Difficult choice](http://9gag.com/gag/aDDYZm9)<!-- MEMES:END -->
 
 --- 
 
