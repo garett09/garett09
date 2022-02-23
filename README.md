@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Street Fighter 6 Logo Also Looks Like A Taiwanese Retailer&#39;s Old Logo](https://kotaku.com/street-fighter-6-logo-capcom-japan-taiwan-electronics-s-1848580892)
- - [&#39;It Seems Like A Prison,&#39; And Other Online Reactions To Nintendo&#39;s Headquarters](https://kotaku.com/nintendo-japan-kyoto-mario-zelda-pokemon-internet-react-1848580780)
- - [AMD talks about its upcoming 3D V-Cache design at ISSCC](https://www.pcgamer.com/amd-talks-about-its-upcoming-3d-v-cache-design-at-isscc)<!-- GAME:END -->
+ - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)
+ - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)
+ - [Cyberpunk 2077 VR mod set to launch &#39;by the end of this week&#39;](https://www.pcgamer.com/cyberpunk-2077-vr-mod-set-to-launch-by-the-end-of-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
