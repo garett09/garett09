@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aBndVrZ)
+ - 🚖 [When the humor of 20 years ago comes very close to the truth today](http://9gag.com/gag/avAQxVX)
  - 🚯 [Leslie Nielsen everyone..](http://9gag.com/gag/abgvxeX)
- - 🚯 [Difficult choice](http://9gag.com/gag/aDDYZm9)<!-- MEMES:END -->
+ - 🚯 [For The things that are going on a little reminder...](http://9gag.com/gag/aogKLE2)<!-- MEMES:END -->
 
 --- 
 
