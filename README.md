@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD talks about its upcoming 3D V-Cache design at ISSCC](https://www.pcgamer.com/amd-talks-about-its-upcoming-3d-v-cache-design-at-isscc)
- - [Skill shortages may further fuel semiconductor shortage](https://www.pcgamer.com/skill-shortages-may-further-fuel-semiconductor-shortage)
- - [Nvidia CEO talks Omniverse, Metaverse, and autonomous vehicles](https://www.pcgamer.com/nvidia-ceo-talks-omniverse-metaverse-and-autonomous-vehicles)<!-- GAME:END -->
+ - [Join us bounty hunting in Hunt: Showdown with lead designer Dennis Schwarz](https://www.pcgamer.com/join-us-bounty-hunting-in-hunt-showdown-with-lead-designer-dennis-schwarz)
+ - [Nier Automata is getting an anime adaptation](https://www.pcgamer.com/nier-automata-is-getting-an-anime-adaptation)
+ - [&#39;It Seems Like A Prison,&#39; And Other Online Reactions To Nintendo&#39;s Headquarters](https://kotaku.com/nintendo-japan-kyoto-mario-zelda-pokemon-internet-react-1848580780)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
