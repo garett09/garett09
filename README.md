@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s First Poisonous Area Appears Less Than 90 Seconds Into The Game](https://kotaku.com/elden-ring-from-software-poison-swamp-dark-souls-bloodb-1848583947)
- - [PlayStation 5 players will finally get to share clips via the PS App](https://www.polygon.com/22947780/sony-playstation-5-clips-sharing-ps-app-mobile-upload-free-update)
- - [Destiny 2 Nightstalkers Are Having A Crisis After Witch Queen Changes](https://kotaku.com/destiny-2-witch-queen-blight-ranger-exotic-void-hunter-1848583170)<!-- GAME:END -->
+ - [Rogue Arm China CEO says failed Nvidia buyout bid &#39;could be a better path for Arm&#39;](https://www.pcgamer.com/rogue-arm-china-ceo-says-failed-nvidia-buyout-bid-could-be-a-better-path-for-arm)
+ - [FromSoftware&#39;s Notorious Poison Zones Appear 90 Seconds Into Elden Ring](https://kotaku.com/elden-ring-from-software-poison-swamp-dark-souls-bloodb-1848583947)
+ - [Dragon Age 4 executive producer has left BioWare](https://www.pcgamer.com/dragon-age-4-executive-producer-has-left-bioware)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
