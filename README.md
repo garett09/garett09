@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll take both of &#39;em.](http://9gag.com/gag/awzZ1Vy)
- - 🚯 [ThE wAGe GaP!!!!](http://9gag.com/gag/a11PDLD)
+ - 🚖 [This is the real art](http://9gag.com/gag/angz29B)
+ - 🚯 [How to be bob n vegen guy &lpar;Nutshell animation&rpar;](http://9gag.com/gag/aGzE807)
  - 🚯 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)<!-- MEMES:END -->
 
 --- 
