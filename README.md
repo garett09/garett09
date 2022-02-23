@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia CEO talks Omniverse, Metaverse, and autonomous vehicles](https://www.pcgamer.com/nvidia-ceo-talks-omniverse-metaverse-and-autonomous-vehicles)
- - [A new BIOS mod appears to completely bypass Nvidia&#39;s Lite Hash Rate mining restriction](https://www.pcgamer.com/a-new-bios-mod-appears-to-completely-bypass-nvidias-lite-hash-rate-mining-restriction)
- - [Check out this innovative M.2 screw three-pronged solution](https://www.pcgamer.com/check-out-this-innovative-m2-screw-three-pronged-solution)<!-- GAME:END -->
+ - [AMD talks about its upcoming 3D V-Cache design at ISSCC](https://www.pcgamer.com/amd-talks-about-its-upcoming-3d-v-cache-design-at-isscc)
+ - [Skill shortages may further fuel semiconductor shortage](https://www.pcgamer.com/skill-shortages-may-further-fuel-semiconductor-shortage)
+ - [Nvidia CEO talks Omniverse, Metaverse, and autonomous vehicles](https://www.pcgamer.com/nvidia-ceo-talks-omniverse-metaverse-and-autonomous-vehicles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
