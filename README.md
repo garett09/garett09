@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Join us bounty hunting in Hunt: Showdown with lead designer Dennis Schwarz](https://www.pcgamer.com/join-us-bounty-hunting-in-hunt-showdown-with-lead-designer-dennis-schwarz)
- - [Nier Automata is getting an anime adaptation](https://www.pcgamer.com/nier-automata-is-getting-an-anime-adaptation)
- - [&#39;It Seems Like A Prison,&#39; And Other Online Reactions To Nintendo&#39;s Headquarters](https://kotaku.com/nintendo-japan-kyoto-mario-zelda-pokemon-internet-react-1848580780)<!-- GAME:END -->
+ - [The Street Fighter 6 Logo Also Looks Like A Taiwanese Retailer&#39;s Old Logo](https://kotaku.com/street-fighter-6-logo-capcom-japan-taiwan-electronics-s-1848580892)
+ - [&#39;It Seems Like A Prison,&#39; And Other Online Reactions To Nintendo&#39;s Headquarters](https://kotaku.com/nintendo-japan-kyoto-mario-zelda-pokemon-internet-react-1848580780)
+ - [AMD talks about its upcoming 3D V-Cache design at ISSCC](https://www.pcgamer.com/amd-talks-about-its-upcoming-3d-v-cache-design-at-isscc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
