@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store hostage situation ends after hostage escapes, and police hit the suspect with a car](https://www.theverge.com/2022/2/22/22946459/apple-store-netherlands-hostage-amsterdam-crypto)
- - [Timescale, which develops the open source TimescaleDB time series database, raises a $110M Series C led by Tiger Global at a valuation of over $1B &lpar;FinSMEs&rpar;](http://www.techmeme.com/220222/p27#a220222p27)
- - [California court grants Waymo a preliminary injunction, allowing it to keep certain safety details and autonomous vehicle tech a secret from the California DMV &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220222/p26#a220222p26)<!-- TECH:END -->
+ - [Truth Social, like Parler and Gettr, looks to be structured for mostly one-way communication, broadcast primarily to an audience of Trumpist dead-enders &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220222/p29#a220222p29)
+ - [Alloy Automation, a no-code service for e-commerce companies to automate workflows across multiple applications, raises a $20M Series A led by a16z &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220222/p28#a220222p28)
+ - [Apple Store hostage situation ends after hostage escapes, and police hit the suspect with a car](https://www.theverge.com/2022/2/22/22946459/apple-store-netherlands-hostage-amsterdam-crypto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
