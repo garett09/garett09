@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nashville-based Phosphorus Cybersecurity, which helps businesses monitor and patch vulnerable IoT devices, raises a $38M Series A &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220222/p25#a220222p25)
- - [Funnel, which offers CRM software and online property management tools for apartment operators, raises a $36.5M Series B led by RET Ventures &lpar;Philip Russo/Commercial Observer&rpar;](http://www.techmeme.com/220222/p24#a220222p24)
- - [Switching Cell Phone Carriers in 2022: What to Know Before You Switch Carriers     - CNET](https://www.cnet.com/tech/mobile/switching-cell-phone-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Store hostage situation ends after hostage escapes, and police hit the suspect with a car](https://www.theverge.com/2022/2/22/22946459/apple-store-netherlands-hostage-amsterdam-crypto)
+ - [Timescale, which develops the open source TimescaleDB time series database, raises a $110M Series C led by Tiger Global at a valuation of over $1B &lpar;FinSMEs&rpar;](http://www.techmeme.com/220222/p27#a220222p27)
+ - [California court grants Waymo a preliminary injunction, allowing it to keep certain safety details and autonomous vehicle tech a secret from the California DMV &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220222/p26#a220222p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
