@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password now lets you easily store crypto wallet details](https://www.theverge.com/2022/2/23/22947693/1password-cryptocurrency-wallet-storage-password-manager-security)
- - [Twitter says it mistakenly suspended around a dozen accounts posting about Russian military movements near the Ukrainian border, and reinstates some accounts &lpar;Elizabeth Culliford/Reuters&rpar;](http://www.techmeme.com/220223/p26#a220223p26)
- - [Russia’s Sandworm Hackers Have Built a Botnet of Firewalls](https://www.wired.com/story/sandworm-cyclops-blink-hacking-tool)<!-- TECH:END -->
+ - [eBay reports Q4 revenue of $2.6B, up 5% YoY, gross merchandise volume of $20.7B, down 10% YoY, 147M annual global active buyers, down 9%; stock down 5%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220223/p28#a220223p28)
+ - [Researcher posing as a 13-year-old girl joined VRChat, an app on Steam and Meta&#39;s Quest, and witnessed grooming, sexual material, a rape threat, racist insults &lpar;BBC&rpar;](http://www.techmeme.com/220223/p27#a220223p27)
+ - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
