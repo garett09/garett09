@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chris Farley: Best Entrance Ever](http://9gag.com/gag/awzZ3A4)
- - 🚯 [Why even wear pants at that point?](http://9gag.com/gag/aYrVE5x)
- - 🚯 [I&#39;ll try to take a nap but all I can think of is the very limited nap time left](http://9gag.com/gag/aZrD1R9)<!-- MEMES:END -->
+ - 🚖 [President of Ireland\u2019s dog](http://9gag.com/gag/avAQeGM)
+ - 🚯 [Changing of the guard. India - Pakistan border.](http://9gag.com/gag/aDDY6X7)
+ - 🚯 [Keeping up with the news](http://9gag.com/gag/aE8q6GG)<!-- MEMES:END -->
 
 --- 
 
