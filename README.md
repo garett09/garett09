@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the real art](http://9gag.com/gag/angz29B)
- - 🚯 [Whos gone enjoy it more?](http://9gag.com/gag/aBndVPO)
- - 🚯 [Difficult choice](http://9gag.com/gag/aDDYZm9)<!-- MEMES:END -->
+ - 🚖 [Now they have gone to far. Blyat](http://9gag.com/gag/aWgGnQn)
+ - 🚯 [Old guy fights a ladder](http://9gag.com/gag/aqGe6MY)
+ - 🚯 [Carrying too many pizzas](http://9gag.com/gag/aPZg8gg)<!-- MEMES:END -->
 
 --- 
 
