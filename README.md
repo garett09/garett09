@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auto-uploaded PS5 captures are coming to the US](https://www.theverge.com/2022/2/23/22947722/sony-playstation-ps5-captures-screenshots-videos-app)
- - [Save $100 on the Galaxy S21 FE, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Apple releases fourth public betas for iOS 15.4, iPadOS 15.4, tvOS 15.4, watchOS 8.5, macOS 12.3](https://appleinsider.com/articles/22/02/23/apple-releases-fourth-public-betas-for-ios-154-ipados-154-tvos-154-watchos-85-macos-123?utm_medium=rss)<!-- TECH:END -->
+ - [Firefighting strategies need an extreme makeover, UN warns](https://www.theverge.com/2022/2/23/22947511/firefighting-budgets-united-nations-report-climate-change)
+ - [Here&#39;s how the five-hour Amsterdam Apple Store standoff played out](https://appleinsider.com/articles/22/02/23/heres-how-the-five-hour-amsterdam-apple-store-standoff-played-out?utm_medium=rss)
+ - [Twitter accounts sharing video from Ukraine are being suspended when they’re needed most](https://www.theverge.com/2022/2/23/22947769/twitter-osint-russia-ukraine-invasion-suspended-error)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
