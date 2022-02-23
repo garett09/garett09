@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite letting some employees permanently work from home, tech companies are spending billions of dollars expanding their office spaces across the US &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220223/p4#a220223p4)
- - [How to connect AirPods to a Chromebook](https://www.androidauthority.com/connect-airpods-to-chromebook-3106595/)
- - [New AirTags anti-stalking measures appear in iOS 15.4 beta](https://www.theverge.com/2022/2/23/22947063/airtags-anti-stalking-ios-15-4-beta-4-privacy-notice)<!-- TECH:END -->
+ - [Google Chat to fully replace classic Hangouts for Workspace users from March](https://www.theverge.com/2022/2/23/22947115/google-chat-classic-hangouts-gmail-workspace)
+ - [Apple praises Amsterdam police over &#39;terrifying&#39; hostage situation](https://appleinsider.com/articles/22/02/23/apple-praises-amsterdam-police-over-terrifying-hostage-situation?utm_medium=rss)
+ - [We asked, you told us: You want a manual or pro mode on Pixel phones](https://www.androidauthority.com/pixel-manual-mode-poll-results-3114918/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
