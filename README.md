@@ -198,8 +198,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When the humor of 20 years ago comes very close to the truth today](http://9gag.com/gag/avAQxVX)
- - 🚯 [Leslie Nielsen everyone..](http://9gag.com/gag/abgvxeX)
- - 🚯 [For The things that are going on a little reminder...](http://9gag.com/gag/aogKLE2)<!-- MEMES:END -->
+ - 🚯 [Best there ever was](http://9gag.com/gag/aRrEvA5)
+ - 🚯 [Favorite is still Aunt May](http://9gag.com/gag/a91q821)<!-- MEMES:END -->
 
 --- 
 
