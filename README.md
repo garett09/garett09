@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minded, a psychiatry-focused telehealth startup which specializes in managing mental health medication for consumers, raises a $25M seed &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220223/p1#a220223p1)
- - [Google confirms major Pixel 6 Wi-Fi bug, will be fixed in March update](https://www.androidauthority.com/google-pixel-6-wi-fi-fix-3113548/)
- - [Truth Social, like Parler and Gettr, looks to be structured for mostly one-way communication, broadcast primarily to an audience of Trumpist dead-enders &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220222/p29#a220222p29)<!-- TECH:END -->
+ - [OnePlus is readying a new Nord product and it’s not a phone](https://www.androidauthority.com/oneplus-10-nord-earbuds-3114890/)
+ - [Researchers used a generative adversarial network to produce images of synthesized faces that survey participants found more trustworthy than real human faces &lpar;Edd Gent/Singularity Hub&rpar;](http://www.techmeme.com/220223/p2#a220223p2)
+ - [New York-based Minded, a psychiatry-focused telehealth startup that specializes in managing mental health medication for consumers, raises a $25M seed &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220223/p1#a220223p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
