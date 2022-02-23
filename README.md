@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chat to fully replace classic Hangouts for Workspace users from March](https://www.theverge.com/2022/2/23/22947115/google-chat-classic-hangouts-gmail-workspace)
- - [Apple praises Amsterdam police over &#39;terrifying&#39; hostage situation](https://appleinsider.com/articles/22/02/23/apple-praises-amsterdam-police-over-terrifying-hostage-situation?utm_medium=rss)
- - [We asked, you told us: You want a manual or pro mode on Pixel phones](https://www.androidauthority.com/pixel-manual-mode-poll-results-3114918/)<!-- TECH:END -->
+ - [Energy Firms Are Going ‘Green’ by Offloading Dirty Coal Plants](https://www.wired.com/story/europe-coal-plants-green)
+ - [Inside the Lab Where Intel Tries to Hack Its Own Chips](https://www.wired.com/story/intel-lab-istare-hack-chips)
+ - [It’s Tough to Build a Corporate Culture in a Remote-Work World](https://www.wired.com/story/tough-build-corporate-culture-remote-work)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
