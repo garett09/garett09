@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now they have gone to far. Blyat](http://9gag.com/gag/aWgGnQn)
- - 🚯 [Old guy fights a ladder](http://9gag.com/gag/aqGe6MY)
+ - 🚖 [The Headquarters of the Armed Forces of Ukraine showed training of Ukrainian soldiers in the use of Javelins](http://9gag.com/gag/aNPwVWb)
+ - 🚯 [I&#39;ll take both of &#39;em.](http://9gag.com/gag/awzZ1Vy)
  - 🚯 [Carrying too many pizzas](http://9gag.com/gag/aPZg8gg)<!-- MEMES:END -->
 
 --- 
