@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this innovative M.2 screw three-pronged solution](https://www.pcgamer.com/check-out-this-innovative-m2-screw-three-pronged-solution)
- - [You can now check your Steam library for Steam Deck compatibility](https://www.pcgamer.com/steam-library-steam-deck-compatibility)
- - [House Flipper 2 will bring more zen home renovation in 2023](https://www.pcgamer.com/house-flipper-2-will-bring-more-zen-home-renovation-in-2023)<!-- GAME:END -->
+ - [Nvidia CEO talks Omniverse, Metaverse, and autonomous vehicles](https://www.pcgamer.com/nvidia-ceo-talks-omniverse-metaverse-and-autonomous-vehicles)
+ - [A new BIOS mod appears to completely bypass Nvidia&#39;s Lite Hash Rate mining restriction](https://www.pcgamer.com/a-new-bios-mod-appears-to-completely-bypass-nvidias-lite-hash-rate-mining-restriction)
+ - [Check out this innovative M.2 screw three-pronged solution](https://www.pcgamer.com/check-out-this-innovative-m2-screw-three-pronged-solution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
