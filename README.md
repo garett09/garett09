@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Inflation over time](http://9gag.com/gag/aKmEG81)
- - 🚯 [After this man&#39;s wife passed away, his children adopted a shelter dog for him to keep him company. Best decision in the world](http://9gag.com/gag/angzOZq)
- - 🚯 [I miss this style of comedy. RIP Mr. Nielsen.](http://9gag.com/gag/aQXEzK8)<!-- MEMES:END -->
+ - 🚖 [After this man&#39;s wife passed away, his children adopted a shelter dog for him to keep him company. Best decision in the world](http://9gag.com/gag/angzOZq)
+ - 🚯 [I miss this style of comedy. RIP Mr. Nielsen.](http://9gag.com/gag/aQXEzK8)
+ - 🚯 [Hostage runs away from hostage taker After being held in Amsterdam Apple store for 4 hours](http://9gag.com/gag/aZrDn40)<!-- MEMES:END -->
 
 --- 
 
