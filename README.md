@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After this man&#39;s wife passed away, his children adopted a shelter dog for him to keep him company. Best decision in the world](http://9gag.com/gag/angzOZq)
- - 🚯 [I miss this style of comedy. RIP Mr. Nielsen.](http://9gag.com/gag/aQXEzK8)
- - 🚯 [Hostage runs away from hostage taker After being held in Amsterdam Apple store for 4 hours](http://9gag.com/gag/aZrDn40)<!-- MEMES:END -->
+ - 🚖 [Hostage runs away from hostage taker After being held in Amsterdam Apple store for 4 hours](http://9gag.com/gag/aZrDn40)
+ - 🚯 [Nice design](http://9gag.com/gag/amgA1b9)
+ - 🚯 [Chris Farley: Best Entrance Ever](http://9gag.com/gag/awzZ3A4)<!-- MEMES:END -->
 
 --- 
 
