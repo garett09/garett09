@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the humor of 20 years ago comes very close to the truth today](http://9gag.com/gag/avAQxVX)
- - 🚯 [Best there ever was](http://9gag.com/gag/aRrEvA5)
- - 🚯 [Favorite is still Aunt May](http://9gag.com/gag/a91q821)<!-- MEMES:END -->
+ - 🚖 [Favorite is still Aunt May](http://9gag.com/gag/a91q821)
+ - 🚯 [Best day ever](http://9gag.com/gag/aggo45r)
+ - 🚯 [Perfect from beginning](http://9gag.com/gag/aXrn7BD)<!-- MEMES:END -->
 
 --- 
 
