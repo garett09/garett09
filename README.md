@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores lift mask mandate, plan resumption of in-person Today at Apple](https://appleinsider.com/articles/22/02/22/apple-stores-lift-mask-mandate-plans-resumption-of-in-person-today-at-apple?utm_medium=rss)
- - [Frontier adds 2-gig speeds across its entire fiber network](https://www.theverge.com/2022/2/22/22946356/frontier-2-gig-speed-fiber-internet-fios)
- - [Daft Punk is streaming a 1997 concert on Twitch, and this may be your only chance to see it](https://www.theverge.com/2022/2/22/22946483/daft-punk-streaming-old-concert-twitch-homework-reissue)<!-- TECH:END -->
+ - [Apple Stores drop mask requirements for customers in several states](https://www.theverge.com/2022/2/22/22946560/apple-store-mask-mandate-customers-employees)
+ - [Nomad Internet Review: Stay Connected With a Wireless, Cellular Setup     - CNET](https://www.cnet.com/home/internet/nomad-internet-review/#ftag=CAD590a51e)
+ - [Hubble Spots Weird &#39;Space Triangle&#39; Full of Baby Stars     - CNET](https://www.cnet.com/news/hubble-spots-weird-space-triangle-full-of-baby-stars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
