@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Correctional Officer at Ghislaine Maxwell&#39;s Jail in Andrew Schulz show](http://9gag.com/gag/a0Z40dn)
- - 🚯 [Why they Putin up with it?](http://9gag.com/gag/aegQOAW)
- - 🚯 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)<!-- MEMES:END -->
+ - 🚖 [Run !](http://9gag.com/gag/a61q5nL)
+ - 🚯 [Whos gone enjoy it more?](http://9gag.com/gag/aBndVPO)
+ - 🚯 [This is the real art](http://9gag.com/gag/angz29B)<!-- MEMES:END -->
 
 --- 
 
