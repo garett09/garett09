@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The world after nuclear war](http://9gag.com/gag/aYrVG0N)
- - 🚯 [Progress is still progress!](http://9gag.com/gag/a91qzZo)
- - 🚯 [That is not how you spell that](http://9gag.com/gag/a31Z1mN)<!-- MEMES:END -->
+ - 🚖 [Hostage runs away from hostage taker After being held in Amsterdam Apple store for 4 hours](http://9gag.com/gag/aZrDn40)
+ - 🚯 [Inflation over time](http://9gag.com/gag/aKmEG81)
+ - 🚯 [Progress is still progress!](http://9gag.com/gag/a91qzZo)<!-- MEMES:END -->
 
 --- 
 
