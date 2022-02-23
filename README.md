@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kick tho](http://9gag.com/gag/arnmm6p)
- - 🚯 [Also he geh](http://9gag.com/gag/aXrnnRV)
- - 🚯 [Russia, Voluisk district. Grads, howitzers and covered Urals. 10 kilometers to the Ukrainian border &lpar;50.248492, 37.756265&rpar;. The president of Ukraine records an appeal to call up reservists for the army, which means the exact start of the war.](http://9gag.com/gag/ay92qDY)<!-- MEMES:END -->
+ - 🚖 [The world after nuclear war](http://9gag.com/gag/aYrVG0N)
+ - 🚯 [Progress is still progress!](http://9gag.com/gag/a91qzZo)
+ - 🚯 [That is not how you spell that](http://9gag.com/gag/a31Z1mN)<!-- MEMES:END -->
 
 --- 
 
