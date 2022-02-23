@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Meta prototype lets you build virtual worlds by describing them](https://www.theverge.com/2022/2/23/22947217/meta-prototype-builder-bot-ai-world-creation-metaverse-mark-zuckerberg)
- - [Apex Legends Mobile will be available in 10 countries next week](https://www.theverge.com/2022/2/23/22947472/apex-legends-mobile-limited-regional-launch-10-countries)
- - [We have leaked renders for the Google Pixel 7 Pro already](https://www.androidauthority.com/google-pixel-7-pro-3116665/)<!-- TECH:END -->
+ - [Twitch creates new program to pay streamers more reliably](https://www.theverge.com/2022/2/23/22947490/twitch-ad-incentive-program-guranteed-monthly-payments)
+ - [Daily deals Feb. 23: $750 off Alienware 38-inch Curved Gaming Monitor, $250 off SanDisk 2TB External SSD, $70 off eufy RoboVac 11S &amp; more](https://appleinsider.com/articles/22/02/23/daily-deals-feb-23-750-off-alienware-38-inch-curved-gaming-monitor-250-off-sandisk-2tb-external-ssd-70-off-eufy-robovac-11s-more?utm_medium=rss)
+ - [Meta announces plans to build an AI-powered ‘universal speech translator’](https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
