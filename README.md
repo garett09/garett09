@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Arm China CEO says failed Nvidia buyout bid &#39;could be a better path for Arm&#39;](https://www.pcgamer.com/rogue-arm-china-ceo-says-failed-nvidia-buyout-bid-could-be-a-better-path-for-arm)
- - [FromSoftware&#39;s Notorious Poison Zones Appear 90 Seconds Into Elden Ring](https://kotaku.com/elden-ring-from-software-poison-swamp-dark-souls-bloodb-1848583947)
- - [Dragon Age 4 executive producer has left BioWare](https://www.pcgamer.com/dragon-age-4-executive-producer-has-left-bioware)<!-- GAME:END -->
+ - [The highly anticipated silent fantasy Step by Bloody Step is a comic to behold](https://www.polygon.com/22947968/step-by-bloody-step-simon-spurrier-matias-bergara)
+ - [19 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [Steam Deck email day approaches: Here&#39;s how Friday&#39;s &#39;launch&#39; will work](https://www.pcgamer.com/steam-deck-email-day-approaches-heres-how-fridays-launch-will-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
