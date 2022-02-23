@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the real art](http://9gag.com/gag/angz29B)
- - 🚯 [How to be bob n vegen guy &lpar;Nutshell animation&rpar;](http://9gag.com/gag/aGzE807)
+ - 🚖 [Correctional Officer at Ghislaine Maxwell&#39;s Jail in Andrew Schulz show](http://9gag.com/gag/a0Z40dn)
+ - 🚯 [Why they Putin up with it?](http://9gag.com/gag/aegQOAW)
  - 🚯 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)<!-- MEMES:END -->
 
 --- 
