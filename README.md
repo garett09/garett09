@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nashville-based Phosphorus Cybersecurity, which helps businesses monitor and patch vulnerable IoT devices, raises a $38M Series A &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220222/p25#a220222p25)
  - [Funnel, which offers CRM software and online property management tools for apartment operators, raises a $36.5M Series B led by RET Ventures &lpar;Philip Russo/Commercial Observer&rpar;](http://www.techmeme.com/220222/p24#a220222p24)
- - [Amazon sues AppSally and Rebatest, alleging the sites had their combined 900K+ users post fake Amazon reviews to boost third-party sellers&#39; product rankings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220222/p23#a220222p23)
- - [New Pokemon Brilliant Diamond and Shining Pearl Update Addresses Hacked Pokemon     - CNET](https://www.cnet.com/tech/gaming/new-pokemon-brilliant-diamond-and-shining-pearl-update-addresses-hacked-pokemon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Switching Cell Phone Carriers in 2022: What to Know Before You Switch Carriers     - CNET](https://www.cnet.com/tech/mobile/switching-cell-phone-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
