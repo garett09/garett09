@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi K50 renders leak: Could this be the Poco F4?](https://www.androidauthority.com/redmi-k50-2-3114925/)
- - [Analysis: 43% of job listings from West Coast tech companies were posted in Texas, Virginia, New York, Georgia, and other states in 2021, up from 30% in 2019 &lpar;Reade Pickert/Bloomberg&rpar;](http://www.techmeme.com/220223/p3#a220223p3)
- - [Vivo sub-brand launches iQOO 9 Pro flagship for $870](https://www.theverge.com/2022/2/23/22946939/vivo-iqoo-9-pro-india-launch-specs-price)<!-- TECH:END -->
+ - [Despite letting some employees permanently work from home, tech companies are spending billions of dollars expanding their office spaces across the US &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220223/p4#a220223p4)
+ - [How to connect AirPods to a Chromebook](https://www.androidauthority.com/connect-airpods-to-chromebook-3106595/)
+ - [New AirTags anti-stalking measures appear in iOS 15.4 beta](https://www.theverge.com/2022/2/23/22947063/airtags-anti-stalking-ios-15-4-beta-4-privacy-notice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
