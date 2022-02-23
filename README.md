@@ -198,8 +198,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [President of Ireland\u2019s dog](http://9gag.com/gag/avAQeGM)
- - 🚯 [Changing of the guard. India - Pakistan border.](http://9gag.com/gag/aDDY6X7)
- - 🚯 [Keeping up with the news](http://9gag.com/gag/aE8q6GG)<!-- MEMES:END -->
+ - 🚯 [This episode always gets me](http://9gag.com/gag/aze2PGx)
+ - 🚯 [Changing of the guard. India - Pakistan border.](http://9gag.com/gag/aDDY6X7)<!-- MEMES:END -->
 
 --- 
 
