@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can now check your Steam library for Steam Deck compatibility](https://www.pcgamer.com/steam-library-steam-deck-compatibility)
  - [House Flipper 2 will bring more zen home renovation in 2023](https://www.pcgamer.com/house-flipper-2-will-bring-more-zen-home-renovation-in-2023)
- - [Ubisoft Moves Rainbow Six Tournament From Abu Dhabi After Fans Protest](https://kotaku.com/rainbow-six-siege-ubisoft-uae-abu-dhabi-human-rights-lg-1848578882)
- - [10 games like Wordle you should add to your daily playlist](https://www.pcgamer.com/best-games-like-wordle)<!-- GAME:END -->
+ - [Ubisoft Moves Rainbow Six Tournament From Abu Dhabi After Fans Protest](https://kotaku.com/rainbow-six-siege-ubisoft-uae-abu-dhabi-human-rights-lg-1848578882)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
