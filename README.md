@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Live Streaming with Twitch](https://news.xbox.com/en-us/2022/02/23/xbox-live-streaming-with-twitch/)
- - [Elden Ring is FromSoftware’s best, most accessible, and difficult game yet](https://www.polygon.com/reviews/22947204/elden-ring-review-from-software)
- - [First tracks from the Horizon Forbidden West soundtrack available this Friday](https://blog.playstation.com/2022/02/23/first-tracks-from-the-horizon-forbidden-west-soundtrack-available-this-friday/)<!-- GAME:END -->
+ - [Edge of Eternity: Exclusive Interview with Midgar Studio Founder Jérémy Zeler-Maury](https://news.xbox.com/en-us/2022/02/23/edge-of-eternity-exclusive-interview/)
+ - [College basketball star makes NBA 2K debut on Friday](https://www.polygon.com/22946396/nba-2k22-paolo-banchero-nil-deal-myteam-card)
+ - [Don’t worry, Spider-Man: No Way Home did the thing with the Spider-Man meme](https://www.polygon.com/22947332/spider-man-no-way-home-pointing-meme)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
