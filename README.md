@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In the face of Russian aggression, Ukrainian game developers remain hopeful, pragmatic](https://www.polygon.com/22945794/ukraine-game-developers-russian-agression-putin-war)
- - [Baldur&#39;s Gate: Dark Alliance 2 is coming to PC this year](https://www.pcgamer.com/baldurs-gate-dark-alliance-2-is-coming-to-pc-this-year)
- - [Two years later, Fall Guys now has crossplay](https://www.pcgamer.com/two-years-later-fall-guys-now-has-crossplay)<!-- GAME:END -->
+ - [House Flipper 2 will bring more zen home renovation in 2023](https://www.pcgamer.com/house-flipper-2-will-bring-more-zen-home-renovation-in-2023)
+ - [Ubisoft Moves Rainbow Six Tournament From Abu Dhabi After Fans Protest](https://kotaku.com/rainbow-six-siege-ubisoft-uae-abu-dhabi-human-rights-lg-1848578882)
+ - [10 games like Wordle you should add to your daily playlist](https://www.pcgamer.com/best-games-like-wordle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
