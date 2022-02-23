@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m working on a game where you build a village on a giant, wandering creature](http://9gag.com/gag/aXrnVrg)
- - 🚯 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aBndVrZ)
+ - 🚖 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aBndVrZ)
+ - 🚯 [Leslie Nielsen everyone..](http://9gag.com/gag/abgvxeX)
  - 🚯 [Difficult choice](http://9gag.com/gag/aDDYZm9)<!-- MEMES:END -->
 
 --- 
