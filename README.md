@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Edge of Eternity: Exclusive Interview with Midgar Studio Founder Jérémy Zeler-Maury](https://news.xbox.com/en-us/2022/02/23/edge-of-eternity-exclusive-interview/)
- - [College basketball star makes NBA 2K debut on Friday](https://www.polygon.com/22946396/nba-2k22-paolo-banchero-nil-deal-myteam-card)
- - [Don’t worry, Spider-Man: No Way Home did the thing with the Spider-Man meme](https://www.polygon.com/22947332/spider-man-no-way-home-pointing-meme)<!-- GAME:END -->
+ - [Sad Halo Fans Buy Cool Dragon Gun Attachment, Discover It Looks Like A Cheeto Instead](https://kotaku.com/halo-infinite-orochis-breath-crimson-serpent-weapon-set-1848582312)
+ - [Pokémon Trading Card Game Live app goes live, but only to select players](https://www.polygon.com/22947395/pokemon-tcg-trading-card-game-live-app-launch)
+ - [Brawlhalla x G.I. Joe collaboration adds Snake Eyes and Storm Shadow](https://blog.playstation.com/2022/02/23/brawlhalla-x-g-i-joe-collaboration-adds-snake-eyes-and-storm-shadow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
