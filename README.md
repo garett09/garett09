@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sad Halo Fans Buy Cool Dragon Gun Attachment, Discover It Looks Like A Cheeto Instead](https://kotaku.com/halo-infinite-orochis-breath-crimson-serpent-weapon-set-1848582312)
- - [Pokémon Trading Card Game Live app goes live, but only to select players](https://www.polygon.com/22947395/pokemon-tcg-trading-card-game-live-app-launch)
- - [Brawlhalla x G.I. Joe collaboration adds Snake Eyes and Storm Shadow](https://blog.playstation.com/2022/02/23/brawlhalla-x-g-i-joe-collaboration-adds-snake-eyes-and-storm-shadow/)<!-- GAME:END -->
+ - [Attack on Titan Mastercraft Bundle Comes to Vanguard and Warzone February 22](https://news.xbox.com/en-us/2022/02/23/attack-on-titan-mastercraft-bundle-comes-to-vanguard-and-warzone-february-22/)
+ - [Elden Ring preloading is live](https://www.pcgamer.com/elden-ring-preload-live-now)
+ - [Elden Ring Reviews Call The Game A Challenging Open-World Masterpiece](https://kotaku.com/elden-ring-review-roundup-dark-souls-sekiro-botw-diffic-1848582567)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
