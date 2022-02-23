@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The highly anticipated silent fantasy Step by Bloody Step is a comic to behold](https://www.polygon.com/22947968/step-by-bloody-step-simon-spurrier-matias-bergara)
- - [19 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [Steam Deck email day approaches: Here&#39;s how Friday&#39;s &#39;launch&#39; will work](https://www.pcgamer.com/steam-deck-email-day-approaches-heres-how-fridays-launch-will-work)<!-- GAME:END -->
+ - [Stardew Valley mod adds viral kitty stars Jean and Jorts as NPCs](https://www.pcgamer.com/stardew-valley-mod-adds-viral-kitty-stars-jean-and-jorts-as-npcs)
+ - [The latest live-action version of The Fairly OddParents already looks mighty weird](https://www.polygon.com/22948015/the-fairly-oddparents-live-action-sequel-trailer-odder-paramount-plus)
+ - [Cyberpunk 2077’s Afterlife Bar Vs. Mass Effect 2’s, The Comparison We Had To Make](https://kotaku.com/cyberpunk-2077-mass-effect-afterlife-bar-comparison-rev-1848585076)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
