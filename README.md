@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q4 revenue of $2.6B, up 5% YoY, gross merchandise volume of $20.7B, down 10% YoY, 147M annual global active buyers, down 9%; stock down 5%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220223/p28#a220223p28)
- - [Researcher posing as a 13-year-old girl joined VRChat, an app on Steam and Meta&#39;s Quest, and witnessed grooming, sexual material, a rape threat, racist insults &lpar;BBC&rpar;](http://www.techmeme.com/220223/p27#a220223p27)
- - [Slack goes down for many as U.S. returns to work after long weekend](https://appleinsider.com/articles/22/02/22/slack-goes-down-for-many-as-us-returns-to-work-after-long-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 7 Pro renders suggest it might keep the Pixel 6’s signature design](https://www.theverge.com/2022/2/23/22948008/pixel-7-renders-leak-rumors-google-pixel-6)
+ - [The best Alexa games in 2022](https://www.androidauthority.com/best-alexa-games-3113386/)
+ - [Cloudflare acquires email protection startup Area 1 Security for $162M in cash and stock; Cloudflare&#39;s stock is down 55%+ from its November 2021 all-time high &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/220223/p29#a220223p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
