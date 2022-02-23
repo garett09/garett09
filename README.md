@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modding of Android games now possible thanks to BlueStacks](https://www.androidauthority.com/android-game-modding-3113363/)
- - [The Best Kids’ Headphones for Sensitive Little Ears](https://www.wired.com/gallery/the-best-kids-headphones)
- - [Sex-Offender Laws Sent a Man to Prison Over a Prayer Livestream](https://www.wired.com/story/sex-offender-registry-online-laws)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Plus review: The Android phone to beat](https://www.androidauthority.com/samsung-galaxy-s22-plus-review-3104316/)
+ - [Elden Ring is a sprawling fantasy epic so good I don’t want it to end](https://www.theverge.com/2022/2/23/22946279/elden-ring-review-ps5-xbox-pc)
+ - [Microsoft expands its Defender for Cloud tool to Google Cloud, three months after adding AWS support &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220223/p19#a220223p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
