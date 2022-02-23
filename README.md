@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Headquarters of the Armed Forces of Ukraine showed training of Ukrainian soldiers in the use of Javelins](http://9gag.com/gag/aNPwVWb)
- - 🚯 [I&#39;ll take both of &#39;em.](http://9gag.com/gag/awzZ1Vy)
- - 🚯 [Carrying too many pizzas](http://9gag.com/gag/aPZg8gg)<!-- MEMES:END -->
+ - 🚖 [I&#39;m working on a game where you build a village on a giant, wandering creature](http://9gag.com/gag/aXrnVrg)
+ - 🚯 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aBndVrZ)
+ - 🚯 [Difficult choice](http://9gag.com/gag/aDDYZm9)<!-- MEMES:END -->
 
 --- 
 
