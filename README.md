@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefighting strategies need an extreme makeover, UN warns](https://www.theverge.com/2022/2/23/22947511/firefighting-budgets-united-nations-report-climate-change)
- - [Here&#39;s how the five-hour Amsterdam Apple Store standoff played out](https://appleinsider.com/articles/22/02/23/heres-how-the-five-hour-amsterdam-apple-store-standoff-played-out?utm_medium=rss)
- - [Twitter accounts sharing video from Ukraine are being suspended when they’re needed most](https://www.theverge.com/2022/2/23/22947769/twitter-osint-russia-ukraine-invasion-suspended-error)<!-- TECH:END -->
+ - [1Password now lets you easily store crypto wallet details](https://www.theverge.com/2022/2/23/22947693/1password-cryptocurrency-wallet-storage-password-manager-security)
+ - [Twitter says it mistakenly suspended around a dozen accounts posting about Russian military movements near the Ukrainian border, and reinstates some accounts &lpar;Elizabeth Culliford/Reuters&rpar;](http://www.techmeme.com/220223/p26#a220223p26)
+ - [Russia’s Sandworm Hackers Have Built a Botnet of Firewalls](https://www.wired.com/story/sandworm-cyclops-blink-hacking-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
