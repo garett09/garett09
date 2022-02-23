@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch creates new program to pay streamers more reliably](https://www.theverge.com/2022/2/23/22947490/twitch-ad-incentive-program-guranteed-monthly-payments)
- - [Daily deals Feb. 23: $750 off Alienware 38-inch Curved Gaming Monitor, $250 off SanDisk 2TB External SSD, $70 off eufy RoboVac 11S &amp; more](https://appleinsider.com/articles/22/02/23/daily-deals-feb-23-750-off-alienware-38-inch-curved-gaming-monitor-250-off-sandisk-2tb-external-ssd-70-off-eufy-robovac-11s-more?utm_medium=rss)
- - [Meta announces plans to build an AI-powered ‘universal speech translator’](https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project)<!-- TECH:END -->
+ - [Auto-uploaded PS5 captures are coming to the US](https://www.theverge.com/2022/2/23/22947722/sony-playstation-ps5-captures-screenshots-videos-app)
+ - [Save $100 on the Galaxy S21 FE, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Apple releases fourth public betas for iOS 15.4, iPadOS 15.4, tvOS 15.4, watchOS 8.5, macOS 12.3](https://appleinsider.com/articles/22/02/23/apple-releases-fourth-public-betas-for-ios-154-ipados-154-tvos-154-watchos-85-macos-123?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
