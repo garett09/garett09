@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2 Nightstalkers Are Having A Crisis After Witch Queen Changes](https://kotaku.com/destiny-2-witch-queen-blight-ranger-exotic-void-hunter-1848583170)
  - [Attack on Titan Mastercraft Bundle Comes to Vanguard and Warzone February 22](https://news.xbox.com/en-us/2022/02/23/attack-on-titan-mastercraft-bundle-comes-to-vanguard-and-warzone-february-22/)
- - [Elden Ring preloading is live](https://www.pcgamer.com/elden-ring-preload-live-now)
- - [Elden Ring Reviews Call The Game A Challenging Open-World Masterpiece](https://kotaku.com/elden-ring-review-roundup-dark-souls-sekiro-botw-diffic-1848582567)<!-- GAME:END -->
+ - [Elden Ring preloading is live](https://www.pcgamer.com/elden-ring-preload-live-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
