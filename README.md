@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proctorio subpoenas digital rights group in legal spat with critical student](https://www.theverge.com/2022/2/22/22945634/proctorio-fight-for-the-future-twitter-copyright-lawsuit-subpoena-remote-proctoring)
- - [Users demand more from mobile gaming haptics, devices must meet the challenge](https://www.androidauthority.com/cirrus-logic-haptics-3114097/)
- - [Intel’s 12th Gen Alder Lake chips for thinner and lighter laptops have arrived](https://www.theverge.com/2022/2/23/22941383/intel-12th-gen-alder-chips-p-series-u-laptops-release-date)<!-- TECH:END -->
+ - [A Meta prototype lets you build virtual worlds by describing them](https://www.theverge.com/2022/2/23/22947217/meta-prototype-builder-bot-ai-world-creation-metaverse-mark-zuckerberg)
+ - [Apex Legends Mobile will be available in 10 countries next week](https://www.theverge.com/2022/2/23/22947472/apex-legends-mobile-limited-regional-launch-10-countries)
+ - [We have leaked renders for the Google Pixel 7 Pro already](https://www.androidauthority.com/google-pixel-7-pro-3116665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
