@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [President of Ireland\u2019s dog](http://9gag.com/gag/avAQeGM)
- - 🚯 [This episode always gets me](http://9gag.com/gag/aze2PGx)
- - 🚯 [Changing of the guard. India - Pakistan border.](http://9gag.com/gag/aDDY6X7)<!-- MEMES:END -->
+ - 🚖 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)
+ - 🚯 [Why even wear pants at that point?](http://9gag.com/gag/aYrVE5x)
+ - 🚯 [I forgot I\u2019m using cheap ass pan](http://9gag.com/gag/aAG0E40)<!-- MEMES:END -->
 
 --- 
 
