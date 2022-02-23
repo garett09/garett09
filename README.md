@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)
- - 🚯 [Why even wear pants at that point?](http://9gag.com/gag/aYrVE5x)
- - 🚯 [I forgot I\u2019m using cheap ass pan](http://9gag.com/gag/aAG0E40)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll take both of &#39;em.](http://9gag.com/gag/awzZ1Vy)
+ - 🚯 [ThE wAGe GaP!!!!](http://9gag.com/gag/a11PDLD)
+ - 🚯 [Roman mosaic discovered near to the Shard, London &lpar;announced yesterday&rpar;](http://9gag.com/gag/aWgGLzK)<!-- MEMES:END -->
 
 --- 
 
