@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth Social, like Parler and Gettr, looks to be structured for mostly one-way communication, broadcast primarily to an audience of Trumpist dead-enders &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220222/p29#a220222p29)
- - [Alloy Automation, a no-code service for e-commerce companies to automate workflows across multiple applications, raises a $20M Series A led by a16z &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220222/p28#a220222p28)
- - [Apple Store hostage situation ends after hostage escapes, and police hit the suspect with a car](https://www.theverge.com/2022/2/22/22946459/apple-store-netherlands-hostage-amsterdam-crypto)<!-- TECH:END -->
+ - [Minded, a psychiatry-focused telehealth startup which specializes in managing mental health medication for consumers, raises a $25M seed &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220223/p1#a220223p1)
+ - [Google confirms major Pixel 6 Wi-Fi bug, will be fixed in March update](https://www.androidauthority.com/google-pixel-6-wi-fi-fix-3113548/)
+ - [Truth Social, like Parler and Gettr, looks to be structured for mostly one-way communication, broadcast primarily to an audience of Trumpist dead-enders &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220222/p29#a220222p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
