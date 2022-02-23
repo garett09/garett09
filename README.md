@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hostage runs away from hostage taker After being held in Amsterdam Apple store for 4 hours](http://9gag.com/gag/aZrDn40)
- - 🚯 [Nice design](http://9gag.com/gag/amgA1b9)
- - 🚯 [Chris Farley: Best Entrance Ever](http://9gag.com/gag/awzZ3A4)<!-- MEMES:END -->
+ - 🚖 [Chris Farley: Best Entrance Ever](http://9gag.com/gag/awzZ3A4)
+ - 🚯 [Why even wear pants at that point?](http://9gag.com/gag/aYrVE5x)
+ - 🚯 [I&#39;ll try to take a nap but all I can think of is the very limited nap time left](http://9gag.com/gag/aZrD1R9)<!-- MEMES:END -->
 
 --- 
 
