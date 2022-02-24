@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reverses course on requiring vaccination for US employees, restores perks back to its headquarters as it prepares to bring workers back &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220223/p35#a220223p35)
- - [Explosions Rock Ukraine After Putin Authorizes Russian Military Operation     - CNET](https://www.cnet.com/news/explosions-rock-ukraine-after-putin-authorizes-russian-military-operation/#ftag=CAD590a51e)
- - [Australian man alleges all of his iOS and macOS devices have been persistently hacked](https://appleinsider.com/articles/22/02/24/alleged-melbourne-apple-hack-opinion-piece?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Good Lock 2022: Here’s what’s new with the customization suite](https://www.androidauthority.com/samsung-good-lock-2022-3114872/)
+ - [Q&amp;A with law professor Tonya Evans on the relationship between legal frameworks and crypto, including copyright and NFTs, contract law and DAOs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220224/p2#a220224p2)
+ - [Millions of Samsung phones reportedly shipped with a major security flaw](https://www.androidauthority.com/samsung-phones-security-flaw-3117335/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
