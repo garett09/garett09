@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr launches an ad-free tier for $4.99/month or $39.99/year on desktop and in its app &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220224/p25#a220224p25)
- - [Apple again voted most relevant brand to United States consumers](https://appleinsider.com/articles/22/02/24/apple-again-voted-most-relevant-brand-to-united-states-consumers?utm_medium=rss)
- - [OnePlus 7T series updates: February patch arriving now](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)<!-- TECH:END -->
+ - [Microsoft announces a new tablet-friendly taskbar for Windows 11](https://www.theverge.com/2022/2/24/22949381/microsoft-windows-11-tablet-touch-friendly-taskbar-changes)
+ - [Sensor Tower: global consumer spending in top 100 non-game subscription apps grew 41% YoY in 2021 to $18.3B; $13.5B was from App Store, $4.8B from Google Play &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220224/p26#a220224p26)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
