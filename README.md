@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlook bad for Starbucks’ anti-union lawyers](https://www.theverge.com/2022/2/24/22949417/outlook-crash-error-delay-starbucks-anti-union-lawyers-new-york-deadline)
- - [Block, formerly Square, reports Q4 revenue of $4.08B, up 29% YoY, and $1.96B in bitcoin revenue, up 12% YoY; Cash App had $10B in 2021 bitcoin revenue, up 119% &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220224/p30#a220224p30)
- - [A fake Ethereum mining fix for Nvidia GPUs was actually malware](https://www.theverge.com/2022/2/24/22949480/nvidia-lhr-crypto-ethereum-mining-graphics-cards-tool-malware)<!-- TECH:END -->
+ - [Etsy hits sellers with 30 percent transaction fee increase](https://www.theverge.com/2022/2/24/22949707/etsy-sellers-transaction-fee-increase)
+ - [Etsy beats with Q4 revenue of $717M, up 16.2% YoY, vs. $685M est., and 2021 revenue of $2.3B, up 35% YoY, with 96.3M active buyers, up 17.6% YoY; stock up 20%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220224/p31#a220224p31)
+ - [Outlook bad for Starbucks’ anti-union lawyers](https://www.theverge.com/2022/2/24/22949417/outlook-crash-error-delay-starbucks-anti-union-lawyers-new-york-deadline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
