@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar;Take Control of SD GUNDAM BATTLE ALLIANCE, Coming 2022](https://blog.playstation.com/2022/02/23/20220224-gundam/)
- - [&lpar;For Southeast Asia&rpar;Take Control of SD GUNDAM BATTLE ALLIANCE, Coming 2022](https://blog.playstation.com/2022/02/23/20220224-gundam/)
- - [The &#39;Nintendo Generation&#39; Have Weak Skeletons, US Army Weirdo Says](https://kotaku.com/the-nintendo-generation-have-weak-skeletons-us-army-we-1848585811)<!-- GAME:END -->
+ - [Nvidia&#39;s next generation Ada Lovelace GPUs are rumored to consume scary amounts of power](https://www.pcgamer.com/nvidias-next-generation-ada-lovelace-gpus-are-rumored-to-consume-scary-amounts-of-power)
+ - [Intel Alder Lake comes to lightweight little laptops](https://www.pcgamer.com/intel-alder-lake-comes-to-lightweight-little-laptops)
+ - [Zotac releases three RTX 3060 Ti&#39;s with Ampere GA103 GPUs](https://www.pcgamer.com/zotac-releases-three-rtx-3060-tis-with-ampere-ga103-gpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
