@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley mod adds viral kitty stars Jean and Jorts as NPCs](https://www.pcgamer.com/stardew-valley-mod-adds-viral-kitty-stars-jean-and-jorts-as-npcs)
- - [The latest live-action version of The Fairly OddParents already looks mighty weird](https://www.polygon.com/22948015/the-fairly-oddparents-live-action-sequel-trailer-odder-paramount-plus)
- - [Cyberpunk 2077’s Afterlife Bar Vs. Mass Effect 2’s, The Comparison We Had To Make](https://kotaku.com/cyberpunk-2077-mass-effect-afterlife-bar-comparison-rev-1848585076)<!-- GAME:END -->
+ - [One Year In, Arknights’ Bonkers Gameplay Finally Makes Sense To Me](https://kotaku.com/arknights-meta-gameplay-rare-real-time-strategy-hypergr-1848585271)
+ - [The Steam Deck Compatibility Test vs 810 Steam Games](https://kotaku.com/steam-deck-valve-compatibility-pc-proton-linux-windows-1848585364)
+ - [Even Dark Souls skeptics should still try Elden Ring](https://www.polygon.com/22948213/should-i-play-elden-ring-dark-souls-fromsoft-easy-hard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
