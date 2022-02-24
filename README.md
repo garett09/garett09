@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge rejects Elon Musk’s request to force the SEC back into court](https://www.theverge.com/2022/2/24/22949561/elon-musk-sec-judge-request-court-denied)
- - [Dish says its 5G buildout is going great, thanks for asking, how are you?](https://www.theverge.com/2022/2/24/22949389/dish-network-5g-las-vegas)
- - [2022 Jeep Grand Cherokee Slapped With a Stop Sale Order Over Bricking Issue     - Roadshow](https://www.cnet.com/roadshow/news/2022-jeep-grand-cherokee-l-stop-sale-electronic-bricking/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Outlook bad for Starbucks’ anti-union lawyers](https://www.theverge.com/2022/2/24/22949417/outlook-crash-error-delay-starbucks-anti-union-lawyers-new-york-deadline)
+ - [Block, formerly Square, reports Q4 revenue of $4.08B, up 29% YoY, and $1.96B in bitcoin revenue, up 12% YoY; Cash App had $10B in 2021 bitcoin revenue, up 119% &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220224/p30#a220224p30)
+ - [A fake Ethereum mining fix for Nvidia GPUs was actually malware](https://www.theverge.com/2022/2/24/22949480/nvidia-lhr-crypto-ethereum-mining-graphics-cards-tool-malware)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
