@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Random meme from archives](http://9gag.com/gag/aWgG2Px)
- - 🚯 [For The things that are going on a little reminder...](http://9gag.com/gag/aogKLE2)
- - 🚯 [Odessa now](http://9gag.com/gag/a31ZWor)<!-- MEMES:END -->
+ - 🚖 [Beautiful karma clip; this stupid woman pepper sprays her friend as a &#39;joke&#39;, then tries to ask him for help when she gets arrested lmao.](http://9gag.com/gag/aDDYVrN)
+ - 🚯 [Ukrainian Airforce defending kiev Airspace #Ukraine](http://9gag.com/gag/a81qKGZ)
+ - 🚯 [Missile flew over this reporters head ukraine](http://9gag.com/gag/aAG0O3o)<!-- MEMES:END -->
 
 --- 
 
