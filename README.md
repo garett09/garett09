@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ukraine Game Developers Respond To Russian Invasion](https://kotaku.com/stalker-2-ubisoft-ghost-recon-russia-ukraine-invasion-g-1848588220)
- - [Xbox Games with Gold gets The Flame in the Flood and Street Power Soccer in March](https://www.polygon.com/22948980/xbox-free-games-with-gold-march-2021-xbox-one-xbox-360)
- - [Babylon’s Fall demo hits PS5 &amp; PS4 tomorrow, prepare with combat primer](https://blog.playstation.com/2022/02/24/babylons-fall-demo-hits-ps5-ps4-tomorrow-prepare-with-combat-primer/)<!-- GAME:END -->
+ - [March&#39;s PlayStation Plus Lineup Is Surprisingly Stacked](https://kotaku.com/playstation-plus-march-games-ghostrunner-ghost-tsushima-1848588567)
+ - [Elden Ring&#39;s Deluxe Edition is a sad little package](https://www.pcgamer.com/elden-rings-deluxe-edition-is-a-sad-little-package)
+ - [New Pokémon Presents livestream coming Feb. 27, on Pokémon Day](https://www.polygon.com/22949001/pokemon-day-presents-livestream-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
