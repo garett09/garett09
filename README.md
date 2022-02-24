@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Odessa, Ukraine. Destruction of industrial facilities](http://9gag.com/gag/axBomwb)
- - 🚯 [The arrival of a cruise missile in Ivano-Frankivsk.](http://9gag.com/gag/aLv1dOV)
- - 🚯 [Ukraine military airports have been overrun by Russian forces, several Ukrainian army planes are within Romanian air space and being escorted by Romanian F-16 to safely land on Romanian airports now.. #StayStrongUkraine](http://9gag.com/gag/aXrnK1v)<!-- MEMES:END -->
+ - 🚖 [We don&#39;t elect him we don&#39;t want him. We are prisoners in our own country.](http://9gag.com/gag/aDDYMjB)
+ - 🚯 [What a time to be alive](http://9gag.com/gag/aM4EyjX)
+ - 🚯 [Getting real sick of it](http://9gag.com/gag/amgARoy)<!-- MEMES:END -->
 
 --- 
 
