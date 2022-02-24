@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s Swift 5 finally has a 16:10 screen](https://www.theverge.com/2022/2/24/22947886/acer-swift-5-announced-price-specs-release-date)
- - [Apple &amp; Big Tech stocks hammered overnight as Russian invasion breeds uncertainty](https://appleinsider.com/articles/22/02/24/apple-big-tech-stocks-hammered-as-russian-invasion-breeds-uncertainty?utm_medium=rss)
- - [First Samsung Galaxy S22 software update rolling out now](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
+ - [Tumblr launches an ad-free tier for $4.99/month or $39.99/year on desktop and in its app &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220224/p25#a220224p25)
+ - [Apple again voted most relevant brand to United States consumers](https://appleinsider.com/articles/22/02/24/apple-again-voted-most-relevant-brand-to-united-states-consumers?utm_medium=rss)
+ - [OnePlus 7T series updates: February patch arriving now](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
