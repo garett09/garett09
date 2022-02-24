@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avalon Hill teases the third edition of Betrayal at House on the Hill](https://www.polygon.com/tabletop-games/22949357/betrayal-at-house-on-the-hill-third-edition-announcement)
- - [Playing Elden Ring? Bring a notebook](https://www.polygon.com/22949205/elden-ring-quest-log-journal-notes)
- - [BioWare Shares Small But Encouraging Dragon Age 4, Mass Effect Updates](https://kotaku.com/dragon-age-4-mass-effect-news-bioware-development-depar-1848589173)<!-- GAME:END -->
+ - [Knockout City is going free to play](https://www.polygon.com/22949469/knockout-city-free-to-play-announcement)
+ - [Valorant Twitch Streamer Accused Of Dodging, Muting Women](https://kotaku.com/twitch-valorant-streamer-jasonr-women-dodging-muting-ni-1848589914)
+ - [Elden Ring&#39;s day-one patch fixed the worst stuttering issues but some persist](https://www.pcgamer.com/elden-ring-stuttering-day-one-patch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
