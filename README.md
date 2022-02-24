@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Good Lock 2022: Here’s what’s new with the customization suite](https://www.androidauthority.com/samsung-good-lock-2022-3114872/)
- - [Q&amp;A with law professor Tonya Evans on the relationship between legal frameworks and crypto, including copyright and NFTs, contract law and DAOs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220224/p2#a220224p2)
- - [Millions of Samsung phones reportedly shipped with a major security flaw](https://www.androidauthority.com/samsung-phones-security-flaw-3117335/)<!-- TECH:END -->
+ - [Microsoft teams up with Twitch to bring back integrated Twitch streaming to Xbox, available on all Xbox One, Xbox Series S and X consoles &lpar;Brittany Roston/SlashGear&rpar;](http://www.techmeme.com/220224/p4#a220224p4)
+ - [Several Ukrainian government sites have been disrupted by DDoS attacks; researchers discover new data wiper malware installed on hundreds of Ukrainian machines &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220224/p3#a220224p3)
+ - [The Galaxy S22 Ultra has a pixel problem and Samsung is fixing it](https://www.androidauthority.com/samsung-galaxy-s22-ultra-display-problem-3117354/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
