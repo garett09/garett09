@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft teams up with Twitch to bring back integrated Twitch streaming to Xbox, available on all Xbox One, Xbox Series S and X consoles &lpar;Brittany Roston/SlashGear&rpar;](http://www.techmeme.com/220224/p4#a220224p4)
- - [Several Ukrainian government sites have been disrupted by DDoS attacks; researchers discover new data wiper malware installed on hundreds of Ukrainian machines &lpar;Jonathan Greig/ZDNet&rpar;](http://www.techmeme.com/220224/p3#a220224p3)
- - [The Galaxy S22 Ultra has a pixel problem and Samsung is fixing it](https://www.androidauthority.com/samsung-galaxy-s22-ultra-display-problem-3117354/)<!-- TECH:END -->
+ - [Bitcoin falls 8% to a one-month low and other cryptocurrencies crash, wiping $150B in the crypto market in the last 24 hours after Russia attacks Ukraine &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)
+ - [Retailers such as Forever 21, Nike, and Chipotle have opened virtual world stores on Roblox, as they seek to use the metaverse to drive real-world sales &lpar;Financial Times&rpar;](http://www.techmeme.com/220224/p6#a220224p6)
+ - [Pakistan-based NayaPay, a multi-service messaging and payment app, raises a $13M seed led by Zayn Capital, MSA Novo, and Graph Ventures &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220224/p5#a220224p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
