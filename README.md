@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X5 series buyer’s guide: All you need to know about the new flagships](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
- - [Oppo’s Find X5 Pro flagship is finally official](https://www.theverge.com/2022/2/24/22948778/oppo-find-x5-pro-announced-specs-features-camera)
- - [Experts say Russia could use cryptocurrency to minimize the impact of US sanctions, including a forthcoming digital ruble and spoils from ransomware attacks &lpar;New York Times&rpar;](http://www.techmeme.com/220224/p9#a220224p9)<!-- TECH:END -->
+ - [Daily Authority: 🤔 Pixel 7 leaks? At this time of year?](https://www.androidauthority.com/da-february-24-2022-3117588/)
+ - [27 Awesome Gear Deals From Winter Clearance Sales](https://www.wired.com/story/outdoor-deals-winter-2022)
+ - [Sea Level Rise Will Be Catastrophic—and Unequal](https://www.wired.com/story/sea-level-rise-will-be-catastrophic-and-unequal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
