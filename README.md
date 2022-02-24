@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 things to know before starting Elden Ring, out tomorrow](https://blog.playstation.com/2022/02/24/10-things-to-know-before-starting-elden-ring-out-tomorrow/)
- - [10 things to know before starting Elden Ring, out tomorrow](https://blog.playstation.com/2022/02/24/10-things-to-know-before-starting-elden-ring-out-tomorrow/)
- - [Free Play Days: Assassin’s Creed Valhalla, The Escapists 2, and Train Sim World 2](https://news.xbox.com/en-us/2022/02/24/free-play-days-assassins-creed-valhalla-the-escapists-2-and-train-sim-world-2/)<!-- GAME:END -->
+ - [Ukraine Game Developers Respond To Russian Invasion](https://kotaku.com/stalker-2-ubisoft-ghost-recon-russia-ukraine-invasion-g-1848588220)
+ - [Xbox Games with Gold gets The Flame in the Flood and Street Power Soccer in March](https://www.polygon.com/22948980/xbox-free-games-with-gold-march-2021-xbox-one-xbox-360)
+ - [Babylon’s Fall demo hits PS5 &amp; PS4 tomorrow, prepare with combat primer](https://blog.playstation.com/2022/02/24/babylons-fall-demo-hits-ps5-ps4-tomorrow-prepare-with-combat-primer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
