@@ -191,8 +191,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Google reverses course on requiring vaccination for US employees, restores perks back to its headquarters as it prepares to bring workers back &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220223/p35#a220223p35)
- - [Australian man alleges all of his iOS and macOS devices have been persistently hacked](https://appleinsider.com/articles/22/02/24/alleged-melbourne-apple-hack-opinion-piece?utm_medium=rss)
- - [Meta says it has been developing a project called CAIRaoke, a self-supervised neural model used to power a voice assistant for Meta&#39;s AR/VR products &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/220223/p34#a220223p34)<!-- TECH:END -->
+ - [Explosions Rock Ukraine After Putin Authorizes Russian Military Operation     - CNET](https://www.cnet.com/news/explosions-rock-ukraine-after-putin-authorizes-russian-military-operation/#ftag=CAD590a51e)
+ - [Australian man alleges all of his iOS and macOS devices have been persistently hacked](https://appleinsider.com/articles/22/02/24/alleged-melbourne-apple-hack-opinion-piece?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
