@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 and Xbox Series X consoles are available at 12PM ET today for Walmart Plus subscribers](https://www.theverge.com/2022/2/24/22949041/sony-playstation-5-ps5-microsoft-xbox-series-x-console-restock-walmart-plus-availability-check)
- - [NY-based Grata, a B2B search engine used by PE firms and others to find private companies, raises a $25M Series A, bringing its total funding to $35M &lpar;FinSMEs&rpar;](http://www.techmeme.com/220224/p21#a220224p21)
- - [Poll: What do you think of the leaked Pixel 7 series design?](https://www.androidauthority.com/google-pixel-7-series-design-poll-3117374/)<!-- TECH:END -->
+ - [Acer’s Swift 5 finally has a 16:10 screen](https://www.theverge.com/2022/2/24/22947886/acer-swift-5-announced-price-specs-release-date)
+ - [Apple &amp; Big Tech stocks hammered overnight as Russian invasion breeds uncertainty](https://appleinsider.com/articles/22/02/24/apple-big-tech-stocks-hammered-as-russian-invasion-breeds-uncertainty?utm_medium=rss)
+ - [First Samsung Galaxy S22 software update rolling out now](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
