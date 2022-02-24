@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a new tablet-friendly taskbar for Windows 11](https://www.theverge.com/2022/2/24/22949381/microsoft-windows-11-tablet-touch-friendly-taskbar-changes)
- - [Sensor Tower: global consumer spending in top 100 non-game subscription apps grew 41% YoY in 2021 to $18.3B; $13.5B was from App Store, $4.8B from Google Play &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220224/p26#a220224p26)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
+ - [Tesla CEO Elon Musk and his brother are under investigation for alleged insider trading](https://www.theverge.com/2022/2/24/22949453/tesla-elon-musk-kimbal-sec-investigation-insider-trading)
+ - [App Store users spend more than double what Google Play users do on subscriptions](https://appleinsider.com/articles/22/02/24/app-store-customers-double-subscription-payments-versus-google-play-users?utm_medium=rss)
+ - [Apple could soon fix Face ID issues without replacing the entire iPhone](https://www.theverge.com/2022/2/24/22949183/apple-face-id-repairs-iphone-xs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
