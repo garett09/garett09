@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [March&#39;s PlayStation Plus Lineup Is Surprisingly Stacked](https://kotaku.com/playstation-plus-march-games-ghostrunner-ghost-tsushima-1848588567)
- - [Elden Ring&#39;s Deluxe Edition is a sad little package](https://www.pcgamer.com/elden-rings-deluxe-edition-is-a-sad-little-package)
- - [New Pokémon Presents livestream coming Feb. 27, on Pokémon Day](https://www.polygon.com/22949001/pokemon-day-presents-livestream-date-time)<!-- GAME:END -->
+ - [How to get the wolf man down from the tower in Elden Ring](https://www.pcgamer.com/elden-ring-wolf-man-tower-howling-blaidd)
+ - [8 Elden Ring tips for surviving the Lands Between](https://www.pcgamer.com/elden-ring-tips-guide)
+ - [The biggest news about Street Fighter 6 is in Ryu&#39;s pants](https://www.pcgamer.com/the-biggest-news-about-street-fighter-6-is-in-ryus-pants)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
