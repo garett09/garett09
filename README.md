@@ -198,8 +198,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [#ukraine : massive blasts in the northern #Sumy region # FUC KRUSSIA #UKRAINE](http://9gag.com/gag/aOQxR43)
- - 🚯 [Missile flew over this reporters head ukraine](http://9gag.com/gag/aAG0O3o)
- - 🚯 [Ukrainian Airforce defending kiev Airspace #Ukraine](http://9gag.com/gag/a81qKGZ)<!-- MEMES:END -->
+ - 🚯 [Ukraine military airports have been overrun by Russian forces, several Ukrainian army planes are within Romanian air space and being escorted by Romanian F-16 to safely land on Romanian airports now.. #StayStrongUkraine](http://9gag.com/gag/aXrnK1v)
+ - 🚯 [Uncle Biden seems to be the weakest president in US history.](http://9gag.com/gag/ajgVWxG)<!-- MEMES:END -->
 
 --- 
 
