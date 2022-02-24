@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CrossfireX is Remedy Entertainment’s biggest blunder](https://www.polygon.com/reviews/22949370/crossfirex-review-xbox-series-x-xbox-one-remedy-games-game-pass)
- - [Fully immerse yourself with this curved 34-inch 1440p gaming monitor for under $500](https://www.pcgamer.com/fully-immerse-yourself-with-this-curved-34-inch-1440p-gaming-monitor-for-under-dollar500)
- - [Elden Ring has already more than doubled Dark Souls 3&#39;s peak Twitch viewership](https://www.pcgamer.com/elden-ring-has-already-more-than-doubled-dark-souls-3s-peak-twitch-viewership)<!-- GAME:END -->
+ - [Activision Blizzard shareholder sues over Microsoft sale](https://www.polygon.com/22949594/activision-blizzard-shareholder-lawsuit-sec-violation)
+ - [Daredevil writer Chip Zdarsky is the new writer of Batman](https://www.polygon.com/22949587/chip-zdarsky-batman-writer)
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
