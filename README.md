@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anti-war protests took place all over Russia. Protests are illegal here due `covid restrictions`, so many people got in jail already. &lpar;This video is from Ekaterinburg&rpar;.](http://9gag.com/gag/a11PxB8)
- - 🚯 [This can only end well](http://9gag.com/gag/aLv1VWv)
- - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)<!-- MEMES:END -->
+ - 🚖 [The largest measure to sanction Russia is being blocked by the German and Italian governments despite their people&#39;s willingness to make this sacrifice in the name of Western democratic values. Stand up and support the SWIFT ban, stand up and support Ukraine with real actions!](http://9gag.com/gag/aVxb8eP)
+ - 🚯 [Massive protest against Ukraine occupation in Vilnius, Lithuania](http://9gag.com/gag/aogKqn0)
+ - 🚯 [GIVE EM HELL UKRAINE!!! reports that Ukrainian forces have retaken the Airport at Hostemal outside Kyiv!!!](http://9gag.com/gag/aqGeOKL)<!-- MEMES:END -->
 
 --- 
 
