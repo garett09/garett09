@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take The Day Off To Play Elden Ring, Says Japanese Game Studio](https://kotaku.com/elden-ring-from-software-pocket-pair-craftopia-japan-de-1848587053)
- - [EA CEO goes in on FIFA: &#39;four letters on the front of the box&#39;](https://www.pcgamer.com/ea-ceo-goes-in-on-fifa-four-letters-on-front-of-the-box)
- - [The state of New World in 2022: Things aren&#39;t looking great](https://www.pcgamer.com/the-state-of-new-world-in-2022-things-arent-looking-great)<!-- GAME:END -->
+ - [Gran Turismo 7 – What are the differences from Virtual to Reality](https://blog.playstation.com/2022/02/24/gran-turismo-7-what-are-the-differences-from-virtual-to-reality/)
+ - [Gran Turismo 7 – What are the differences from Virtual to Reality](https://blog.playstation.com/2022/02/24/gran-turismo-7-what-are-the-differences-from-virtual-to-reality/)
+ - [Watch PC Gamer die over and over in Elden Ring live on Twitch](https://www.pcgamer.com/watch-pc-gamer-die-over-and-over-in-elden-ring-live-on-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
