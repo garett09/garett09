@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Operational Information of the Ministry of Defence of Ukraine](http://9gag.com/gag/aE8qy2M)
- - 🚯 [Let us saction russia by cutting it from SWIFT. Germany , Italy and Hungary opose this](http://9gag.com/gag/aGzEN55)
- - 🚯 [Police evacuating people from Moscow anti-war protest due covid restrictions](http://9gag.com/gag/apg9zrE)<!-- MEMES:END -->
+ - 🚖 [Missed...](http://9gag.com/gag/aM4EW0P)
+ - 🚯 [People in Novosibirsk &lpar;Russia&rpar; starting protesting against the war b*llshit. Nobody wants it, except a psycho.](http://9gag.com/gag/a91qVBZ)
+ - 🚯 [Absolutely shocking footage of a Russian warplanes firing missiles into a residential area in Ukraine](http://9gag.com/gag/a0Z4x2O)<!-- MEMES:END -->
 
 --- 
 
