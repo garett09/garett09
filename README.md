@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The state of New World in 2022: Things aren&#39;t looking great](https://www.pcgamer.com/the-state-of-new-world-in-2022-things-arent-looking-great)
- - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)
- - [Elden Ring unlocks in your time zone very soon](https://www.pcgamer.com/elden-ring-release-time-unlock)<!-- GAME:END -->
+ - [Take The Day Off To Play Elden Ring, Says Japanese Game Studio](https://kotaku.com/elden-ring-from-software-pocket-pair-craftopia-japan-de-1848587053)
+ - [EA CEO goes in on FIFA: &#39;four letters on the front of the box&#39;](https://www.pcgamer.com/ea-ceo-goes-in-on-fifa-four-letters-on-front-of-the-box)
+ - [The state of New World in 2022: Things aren&#39;t looking great](https://www.pcgamer.com/the-state-of-new-world-in-2022-things-arent-looking-great)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
