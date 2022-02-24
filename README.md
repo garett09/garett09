@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Having trouble with the Gallery app on your OnePlus phone? A fix is on the way](https://www.androidauthority.com/oneplus-gallery-freezing-3117413/)
- - [Now Google Pixel 7 renders have leaked months ahead of its expected launch](https://www.androidauthority.com/google-pixel-7-2-3117430/)
- - [As Russia attacks Ukraine, Bitcoin falls 8% to a one-month low, Ether drops 12%, and others crash, wiping $150B off the crypto market in the last 24 hours &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)<!-- TECH:END -->
+ - [Oppo Find X5 series buyer’s guide: All you need to know about the new flagships](https://www.androidauthority.com/oppo-find-x5-pro-3044443/)
+ - [Oppo’s Find X5 Pro flagship is finally official](https://www.theverge.com/2022/2/24/22948778/oppo-find-x5-pro-announced-specs-features-camera)
+ - [Experts say Russia could use cryptocurrency to minimize the impact of US sanctions, including a forthcoming digital ruble and spoils from ransomware attacks &lpar;New York Times&rpar;](http://www.techmeme.com/220224/p9#a220224p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
