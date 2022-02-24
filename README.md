@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based Depict.ai, which helps e-commerce websites with product recommendations, raises a $17M Series A led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220224/p17#a220224p17)
- - [Explore a Oaxaca Chocolate Shop Where DIY Tech Sets a High Bar](https://www.wired.com/story/mama-pacha-chocolate-oaxaca)
- - [The Podcast Frenzy Gets Freaky](https://www.wired.com/story/plaintext-podcast-frenzy-freakonomics)<!-- TECH:END -->
+ - [Apple&#39;s AR headset rumored to ship with M1 chip, micro OLED](https://appleinsider.com/articles/22/02/24/apples-ar-headset-rumored-to-ship-with-m1-chip-micro-oled?utm_medium=rss)
+ - [The iPad Mini with 256GB of storage is $50 off](https://www.theverge.com/good-deals/2022/2/24/22947831/apple-ipad-mini-tribit-stormbox-micro-govee-immersion-led-tv-logitech-g435-deal-sale)
+ - [The Best Accessories for Your New PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
