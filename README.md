@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin falls 8% to a one-month low and other cryptocurrencies crash, wiping $150B in the crypto market in the last 24 hours after Russia attacks Ukraine &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)
- - [Retailers such as Forever 21, Nike, and Chipotle have opened virtual world stores on Roblox, as they seek to use the metaverse to drive real-world sales &lpar;Financial Times&rpar;](http://www.techmeme.com/220224/p6#a220224p6)
- - [Pakistan-based NayaPay, a multi-service messaging and payment app, raises a $13M seed led by Zayn Capital, MSA Novo, and Graph Ventures &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220224/p5#a220224p5)<!-- TECH:END -->
+ - [Having trouble with the Gallery app on your OnePlus phone? A fix is on the way](https://www.androidauthority.com/oneplus-gallery-freezing-3117413/)
+ - [Now Google Pixel 7 renders have leaked months ahead of its expected launch](https://www.androidauthority.com/google-pixel-7-2-3117430/)
+ - [Bitcoin falls 8% to a one-month low and other cryptocurrencies crash, wiping $150B in the crypto market in the last 24 hours after Russia attacks Ukraine &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
