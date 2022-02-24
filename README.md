@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Favorite is still Aunt May](http://9gag.com/gag/a91q821)
- - 🚯 [Best day ever](http://9gag.com/gag/aggo45r)
- - 🚯 [Perfect from beginning](http://9gag.com/gag/aXrn7BD)<!-- MEMES:END -->
+ - 🚖 [Perfect from beginning](http://9gag.com/gag/aXrn7BD)
+ - 🚯 [Now people in Kramatorsk singing Ukrainian anthem! Don&#39;t trust Putin!](http://9gag.com/gag/aAG0M1R)
+ - 🚯 [Special effects](http://9gag.com/gag/ay921XM)<!-- MEMES:END -->
 
 --- 
 
