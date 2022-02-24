@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla CEO Elon Musk and his brother are under investigation for alleged insider trading](https://www.theverge.com/2022/2/24/22949453/tesla-elon-musk-kimbal-sec-investigation-insider-trading)
- - [App Store users spend more than double what Google Play users do on subscriptions](https://appleinsider.com/articles/22/02/24/app-store-customers-double-subscription-payments-versus-google-play-users?utm_medium=rss)
- - [Apple could soon fix Face ID issues without replacing the entire iPhone](https://www.theverge.com/2022/2/24/22949183/apple-face-id-repairs-iphone-xs)<!-- TECH:END -->
+ - [Judge rejects Elon Musk’s request to force the SEC back into court](https://www.theverge.com/2022/2/24/22949561/elon-musk-sec-judge-request-court-denied)
+ - [Dish says its 5G buildout is going great, thanks for asking, how are you?](https://www.theverge.com/2022/2/24/22949389/dish-network-5g-las-vegas)
+ - [2022 Jeep Grand Cherokee Slapped With a Stop Sale Order Over Bricking Issue     - Roadshow](https://www.cnet.com/roadshow/news/2022-jeep-grand-cherokee-l-stop-sale-electronic-bricking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
