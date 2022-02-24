@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That tool that was supposed to unlock the full hash rate of Nvidia LHR cards is actually malware](https://www.pcgamer.com/that-tool-that-was-supposed-to-unlock-the-full-hash-rate-of-nvidia-lhr-cards-is-actually-malware)
- - [The excellent HyperX Cloud Alpha S gaming headset is $50 off](https://www.pcgamer.com/the-excellent-hyperx-cloud-alpha-s-gaming-headset-is-dollar50-off)
- - [Qualcomm reportedly chooses TSMC over Samsung for 3nm chip production](https://www.pcgamer.com/qualcomm-reportedly-chooses-tsmc-over-samsung-for-3nm-chip-production)<!-- GAME:END -->
+ - [The state of New World in 2022: Things aren&#39;t looking great](https://www.pcgamer.com/the-state-of-new-world-in-2022-things-arent-looking-great)
+ - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)
+ - [Elden Ring unlocks in your time zone very soon](https://www.pcgamer.com/elden-ring-release-time-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
