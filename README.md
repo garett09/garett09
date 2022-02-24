@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolutely shocking footage of a Russian warplanes firing missiles into a residential area in Ukraine](http://9gag.com/gag/a0Z4x2O)
+ - 🚖 [Anti-war protests took place all over Russia. Protests are illegal here due `covid restrictions`, so many people got in jail already. &lpar;This video is from Ekaterinburg&rpar;.](http://9gag.com/gag/a11PxB8)
  - 🚯 [This can only end well](http://9gag.com/gag/aLv1VWv)
- - 🚯 [Massive protest against Ukraine occupation in Vilnius, Lithuania](http://9gag.com/gag/aogKqn0)<!-- MEMES:END -->
+ - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)<!-- MEMES:END -->
 
 --- 
 
