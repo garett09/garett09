@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm reportedly chooses TSMC over Samsung for 3nm chip production](https://www.pcgamer.com/qualcomm-reportedly-chooses-tsmc-over-samsung-for-3nm-chip-production)
- - [Nvidia&#39;s next generation Ada Lovelace GPUs are rumored to consume scary amounts of power](https://www.pcgamer.com/nvidias-next-generation-ada-lovelace-gpus-are-rumored-to-consume-scary-amounts-of-power)
- - [Intel Alder Lake comes to lightweight little laptops](https://www.pcgamer.com/intel-alder-lake-comes-to-lightweight-little-laptops)<!-- GAME:END -->
+ - [That tool that was supposed to unlock the full hash rate of Nvidia LHR cards is actually malware](https://www.pcgamer.com/that-tool-that-was-supposed-to-unlock-the-full-hash-rate-of-nvidia-lhr-cards-is-actually-malware)
+ - [The excellent HyperX Cloud Alpha S gaming headset is $50 off](https://www.pcgamer.com/the-excellent-hyperx-cloud-alpha-s-gaming-headset-is-dollar50-off)
+ - [Qualcomm reportedly chooses TSMC over Samsung for 3nm chip production](https://www.pcgamer.com/qualcomm-reportedly-chooses-tsmc-over-samsung-for-3nm-chip-production)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
