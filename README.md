@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg showcases a concept for voice-controlled VR space generation, plans for a universal language translator, and more in a Meta livestream &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220223/p33#a220223p33)
- - [Researchers say Samsung shipped ~100M phones, including Galaxy S21, with since-patched design flaws that could let attackers extract secret cryptographic keys &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220223/p32#a220223p32)
- - [All of Netflix’s Marvel shows are moving to Disney Plus in Canada](https://www.theverge.com/2022/2/23/22948263/netflix-marvel-disney-plus-canada)<!-- TECH:END -->
+ - [Australian man alleges all of his iOS and macOS devices have been persistently hacked](https://appleinsider.com/articles/22/02/24/alleged-melbourne-apple-hack-opinion-piece?utm_medium=rss)
+ - [Meta says it has been developing a project called CAIRaoke, a self-supervised neural model used to power a voice assistant for Meta&#39;s AR/VR products &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/220223/p34#a220223p34)
+ - [Mark Zuckerberg showcases a concept for voice-controlled VR space generation, plans for a universal language translator, and more in a Meta livestream &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220223/p33#a220223p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
