@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Qualcomm reportedly chooses TSMC over Samsung for 3nm chip production](https://www.pcgamer.com/qualcomm-reportedly-chooses-tsmc-over-samsung-for-3nm-chip-production)
  - [Nvidia&#39;s next generation Ada Lovelace GPUs are rumored to consume scary amounts of power](https://www.pcgamer.com/nvidias-next-generation-ada-lovelace-gpus-are-rumored-to-consume-scary-amounts-of-power)
- - [Intel Alder Lake comes to lightweight little laptops](https://www.pcgamer.com/intel-alder-lake-comes-to-lightweight-little-laptops)
- - [Zotac releases three RTX 3060 Ti&#39;s with Ampere GA103 GPUs](https://www.pcgamer.com/zotac-releases-three-rtx-3060-tis-with-ampere-ga103-gpus)<!-- GAME:END -->
+ - [Intel Alder Lake comes to lightweight little laptops](https://www.pcgamer.com/intel-alder-lake-comes-to-lightweight-little-laptops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
