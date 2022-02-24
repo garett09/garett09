@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MiG-29 and Su-25 air battle just near Kyiv, according to witnesses.](http://9gag.com/gag/a51XDvG)
- - 🚯 [Odessa, Ukraine. One of the Russian missiles hit the warehouse building](http://9gag.com/gag/aPZgn4n)
- - 🚯 [Zelensky - `We have severed diplomatic relations with Russia. For all those who have not yet lost their conscience in Russia, it is time to go out and protest against the war with Ukraine.`](http://9gag.com/gag/abgvR7L)<!-- MEMES:END -->
+ - 🚖 [The Samurai must protect the country in which he is](http://9gag.com/gag/a11PwZv)
+ - 🚯 [Odessa, Ukraine. Destruction of industrial facilities](http://9gag.com/gag/axBomwb)
+ - 🚯 [Missed...](http://9gag.com/gag/aM4EW0P)<!-- MEMES:END -->
 
 --- 
 
