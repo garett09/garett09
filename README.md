@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard shareholder sues over Microsoft sale](https://www.polygon.com/22949594/activision-blizzard-shareholder-lawsuit-sec-violation)
- - [Daredevil writer Chip Zdarsky is the new writer of Batman](https://www.polygon.com/22949587/chip-zdarsky-batman-writer)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
+ - [Keep Elden Ring beautiful with the best settings on PC](https://www.pcgamer.com/elden-ring-best-settings)
+ - [You can play Assassin’s Creed Valhalla for free this weekend only](https://www.polygon.com/22949718/assassins-creed-valhalla-free-this-weekend)
+ - [Screw This Elden Ring ‘Treasure Chest’](https://kotaku.com/elden-ring-fromsoftware-trap-mimic-chest-dark-souls-blo-1848591179)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
