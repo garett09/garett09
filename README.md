@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knockout City is going free to play](https://www.polygon.com/22949469/knockout-city-free-to-play-announcement)
- - [Valorant Twitch Streamer Accused Of Dodging, Muting Women](https://kotaku.com/twitch-valorant-streamer-jasonr-women-dodging-muting-ni-1848589914)
- - [Elden Ring&#39;s day-one patch fixed the worst stuttering issues but some persist](https://www.pcgamer.com/elden-ring-stuttering-day-one-patch)<!-- GAME:END -->
+ - [CrossfireX is Remedy Entertainment’s biggest blunder](https://www.polygon.com/reviews/22949370/crossfirex-review-xbox-series-x-xbox-one-remedy-games-game-pass)
+ - [Fully immerse yourself with this curved 34-inch 1440p gaming monitor for under $500](https://www.pcgamer.com/fully-immerse-yourself-with-this-curved-34-inch-1440p-gaming-monitor-for-under-dollar500)
+ - [Elden Ring has already more than doubled Dark Souls 3&#39;s peak Twitch viewership](https://www.pcgamer.com/elden-ring-has-already-more-than-doubled-dark-souls-3s-peak-twitch-viewership)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
