@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google reverses course on requiring vaccination for US employees, restores perks back to its headquarters as it prepares to bring workers back &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220223/p35#a220223p35)
  - [Australian man alleges all of his iOS and macOS devices have been persistently hacked](https://appleinsider.com/articles/22/02/24/alleged-melbourne-apple-hack-opinion-piece?utm_medium=rss)
- - [Meta says it has been developing a project called CAIRaoke, a self-supervised neural model used to power a voice assistant for Meta&#39;s AR/VR products &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/220223/p34#a220223p34)
- - [Mark Zuckerberg showcases a concept for voice-controlled VR space generation, plans for a universal language translator, and more in a Meta livestream &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220223/p33#a220223p33)<!-- TECH:END -->
+ - [Meta says it has been developing a project called CAIRaoke, a self-supervised neural model used to power a voice assistant for Meta&#39;s AR/VR products &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/220223/p34#a220223p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
