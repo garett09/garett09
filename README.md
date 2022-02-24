@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukraine directly addresses Russia&#39;s ambassador at the UN Security Council - \u201cThere is no purgatory for war criminals. They go straight to hell, Ambassador.\u201d](http://9gag.com/gag/amgAR8o)
- - 🚯 [Take care everyone](http://9gag.com/gag/aPZgrDP)
- - 🚯 [NOW: Air raid sirens sounding in Kiev](http://9gag.com/gag/aogKYg3)<!-- MEMES:END -->
+ - 🚖 [Odessa, Ukraine. Destruction of industrial facilities](http://9gag.com/gag/axBomwb)
+ - 🚯 [The arrival of a cruise missile in Ivano-Frankivsk.](http://9gag.com/gag/aLv1dOV)
+ - 🚯 [Ukraine military airports have been overrun by Russian forces, several Ukrainian army planes are within Romanian air space and being escorted by Romanian F-16 to safely land on Romanian airports now.. #StayStrongUkraine](http://9gag.com/gag/aXrnK1v)<!-- MEMES:END -->
 
 --- 
 
