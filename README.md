@@ -198,8 +198,8 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Perfect from beginning](http://9gag.com/gag/aXrn7BD)
- - 🚯 [Now people in Kramatorsk singing Ukrainian anthem! Don&#39;t trust Putin!](http://9gag.com/gag/aAG0M1R)
- - 🚯 [Special effects](http://9gag.com/gag/ay921XM)<!-- MEMES:END -->
+ - 🚯 [Special effects](http://9gag.com/gag/ay921XM)
+ - 🚯 [The president of Ireland and his dog. They look like they&#39;re about to set off for a fantastical journey though middle earth!](http://9gag.com/gag/a41oA8m)<!-- MEMES:END -->
 
 --- 
 
