@@ -198,7 +198,7 @@ Windows                  9 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [MiG-29 and Su-25 air battle just near Kyiv, according to witnesses.](http://9gag.com/gag/a51XDvG)
- - 🚯 [Taiwan about to get independent again](http://9gag.com/gag/ay92veb)
+ - 🚯 [Odessa, Ukraine. One of the Russian missiles hit the warehouse building](http://9gag.com/gag/aPZgn4n)
  - 🚯 [Zelensky - `We have severed diplomatic relations with Russia. For all those who have not yet lost their conscience in Russia, it is time to go out and protest against the war with Ukraine.`](http://9gag.com/gag/abgvR7L)<!-- MEMES:END -->
 
 --- 
