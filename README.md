@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [Insight Partners raises $20B for its 12th fund, twice the size of its flagship $9.5B fund in April 2020; the firm now has $90B under management &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/220224/p12#a220224p12)
- - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Stockholm-based Depict.ai, which helps e-commerce websites with product recommendations, raises a $17M Series A led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220224/p17#a220224p17)
+ - [Explore a Oaxaca Chocolate Shop Where DIY Tech Sets a High Bar](https://www.wired.com/story/mama-pacha-chocolate-oaxaca)
+ - [The Podcast Frenzy Gets Freaky](https://www.wired.com/story/plaintext-podcast-frenzy-freakonomics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
