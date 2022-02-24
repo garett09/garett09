@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 Pro renders suggest it might keep the Pixel 6’s signature design](https://www.theverge.com/2022/2/23/22948008/pixel-7-renders-leak-rumors-google-pixel-6)
- - [The best Alexa games in 2022](https://www.androidauthority.com/best-alexa-games-3113386/)
- - [Cloudflare acquires email protection startup Area 1 Security for $162M in cash and stock; Cloudflare&#39;s stock is down 55%+ from its November 2021 all-time high &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/220223/p29#a220223p29)<!-- TECH:END -->
+ - [Google Reportedly Drops Mask and Vaccine Requirements for Employees     - CNET](https://www.cnet.com/tech/google-reportedly-drops-mask-and-vaccine-requirements-for-employees/#ftag=CAD590a51e)
+ - [Reddit publishes its 2021 transparency report: 297M pieces of content were removed out of 5.8B total, 2,813 users and 2,625 subreddits were permanently banned &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/220223/p31#a220223p31)
+ - [Halide 2.7 adds new batch actions feature for improved image management](https://appleinsider.com/articles/22/02/24/halide-27-adds-new-batch-actions-feature-for-improved-image-management?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
