@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The &#39;Nintendo Generation&#39; Have Weak Skeletons, US Army Weirdo Says](https://kotaku.com/the-nintendo-generation-have-weak-skeletons-us-army-we-1848585811)
  - [One Year In, Arknights’ Bonkers Gameplay Finally Makes Sense To Me](https://kotaku.com/arknights-meta-gameplay-rare-real-time-strategy-hypergr-1848585271)
- - [The Steam Deck Compatibility Test vs 810 Steam Games](https://kotaku.com/steam-deck-valve-compatibility-pc-proton-linux-windows-1848585364)
- - [Even Dark Souls skeptics should still try Elden Ring](https://www.polygon.com/22948213/should-i-play-elden-ring-dark-souls-fromsoft-easy-hard)<!-- GAME:END -->
+ - [The Steam Deck Compatibility Test vs 810 Steam Games](https://kotaku.com/steam-deck-valve-compatibility-pc-proton-linux-windows-1848585364)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
