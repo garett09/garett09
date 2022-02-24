@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the wolf man down from the tower in Elden Ring](https://www.pcgamer.com/elden-ring-wolf-man-tower-howling-blaidd)
- - [8 Elden Ring tips for surviving the Lands Between](https://www.pcgamer.com/elden-ring-tips-guide)
- - [The biggest news about Street Fighter 6 is in Ryu&#39;s pants](https://www.pcgamer.com/the-biggest-news-about-street-fighter-6-is-in-ryus-pants)<!-- GAME:END -->
+ - [Avalon Hill teases the third edition of Betrayal at House on the Hill](https://www.polygon.com/tabletop-games/22949357/betrayal-at-house-on-the-hill-third-edition-announcement)
+ - [Playing Elden Ring? Bring a notebook](https://www.polygon.com/22949205/elden-ring-quest-log-journal-notes)
+ - [BioWare Shares Small But Encouraging Dragon Age 4, Mass Effect Updates](https://kotaku.com/dragon-age-4-mass-effect-news-bioware-development-depar-1848589173)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
