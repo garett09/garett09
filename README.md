@@ -192,7 +192,7 @@ Windows                  9 hrs 29 mins       ███████████�
 <!-- TECH:START -->
  - [Having trouble with the Gallery app on your OnePlus phone? A fix is on the way](https://www.androidauthority.com/oneplus-gallery-freezing-3117413/)
  - [Now Google Pixel 7 renders have leaked months ahead of its expected launch](https://www.androidauthority.com/google-pixel-7-2-3117430/)
- - [Bitcoin falls 8% to a one-month low and other cryptocurrencies crash, wiping $150B in the crypto market in the last 24 hours after Russia attacks Ukraine &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)<!-- TECH:END -->
+ - [As Russia attacks Ukraine, Bitcoin falls 8% to a one-month low, Ether drops 12%, and others crash, wiping $150B off the crypto market in the last 24 hours &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220224/p7#a220224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
