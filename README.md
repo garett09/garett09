@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We don&#39;t elect him we don&#39;t want him. We are prisoners in our own country.](http://9gag.com/gag/aDDYMjB)
- - 🚯 [What a time to be alive](http://9gag.com/gag/aM4EyjX)
- - 🚯 [Getting real sick of it](http://9gag.com/gag/amgARoy)<!-- MEMES:END -->
+ - 🚖 [Getting real sick of it](http://9gag.com/gag/amgARoy)
+ - 🚯 [Any cap? Are those Russian helicopters? It&#39;s near Kiev](http://9gag.com/gag/awzZvgW)
+ - 🚯 [Ukraine directly addresses Russia&#39;s ambassador at the UN Security Council - \u201cThere is no purgatory for war criminals. They go straight to hell, Ambassador.\u201d](http://9gag.com/gag/amgAR8o)<!-- MEMES:END -->
 
 --- 
 
