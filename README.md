@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🤔 Pixel 7 leaks? At this time of year?](https://www.androidauthority.com/da-february-24-2022-3117588/)
- - [27 Awesome Gear Deals From Winter Clearance Sales](https://www.wired.com/story/outdoor-deals-winter-2022)
- - [Sea Level Rise Will Be Catastrophic—and Unequal](https://www.wired.com/story/sea-level-rise-will-be-catastrophic-and-unequal)<!-- TECH:END -->
+ - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
+ - [Insight Partners raises $20B for its 12th fund, twice the size of its flagship $9.5B fund in April 2020; the firm now has $90B under management &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/220224/p12#a220224p12)
+ - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
