@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Samurai must protect the country in which he is](http://9gag.com/gag/a11PwZv)
- - 🚯 [Odessa, Ukraine. Destruction of industrial facilities](http://9gag.com/gag/axBomwb)
- - 🚯 [Missed...](http://9gag.com/gag/aM4EW0P)<!-- MEMES:END -->
+ - 🚖 [Russian jet targeting Ukrainians. Not caring who they target of course.](http://9gag.com/gag/aqGedOY)
+ - 🚯 [Absolutely shocking footage of a Russian warplanes firing missiles into a residential area in Ukraine](http://9gag.com/gag/a0Z4x2O)
+ - 🚯 [We don&#39;t elect him we don&#39;t want him. We are prisoners in our own country.](http://9gag.com/gag/aDDYMjB)<!-- MEMES:END -->
 
 --- 
 
