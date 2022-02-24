@@ -183,9 +183,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 – What are the differences from Virtual to Reality](https://blog.playstation.com/2022/02/24/gran-turismo-7-what-are-the-differences-from-virtual-to-reality/)
- - [Gran Turismo 7 – What are the differences from Virtual to Reality](https://blog.playstation.com/2022/02/24/gran-turismo-7-what-are-the-differences-from-virtual-to-reality/)
- - [Watch PC Gamer die over and over in Elden Ring live on Twitch](https://www.pcgamer.com/watch-pc-gamer-die-over-and-over-in-elden-ring-live-on-twitch)<!-- GAME:END -->
+ - [10 things to know before starting Elden Ring, out tomorrow](https://blog.playstation.com/2022/02/24/10-things-to-know-before-starting-elden-ring-out-tomorrow/)
+ - [10 things to know before starting Elden Ring, out tomorrow](https://blog.playstation.com/2022/02/24/10-things-to-know-before-starting-elden-ring-out-tomorrow/)
+ - [Free Play Days: Assassin’s Creed Valhalla, The Escapists 2, and Train Sim World 2](https://news.xbox.com/en-us/2022/02/24/free-play-days-assassins-creed-valhalla-the-escapists-2-and-train-sim-world-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
