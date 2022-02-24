@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian jet targeting Ukrainians. Not caring who they target of course.](http://9gag.com/gag/aqGedOY)
- - 🚯 [Absolutely shocking footage of a Russian warplanes firing missiles into a residential area in Ukraine](http://9gag.com/gag/a0Z4x2O)
- - 🚯 [We don&#39;t elect him we don&#39;t want him. We are prisoners in our own country.](http://9gag.com/gag/aDDYMjB)<!-- MEMES:END -->
+ - 🚖 [Operational Information of the Ministry of Defence of Ukraine](http://9gag.com/gag/aE8qy2M)
+ - 🚯 [Let us saction russia by cutting it from SWIFT. Germany , Italy and Hungary opose this](http://9gag.com/gag/aGzEN55)
+ - 🚯 [Police evacuating people from Moscow anti-war protest due covid restrictions](http://9gag.com/gag/apg9zrE)<!-- MEMES:END -->
 
 --- 
 
