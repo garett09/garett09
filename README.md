@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting real sick of it](http://9gag.com/gag/amgARoy)
- - 🚯 [Any cap? Are those Russian helicopters? It&#39;s near Kiev](http://9gag.com/gag/awzZvgW)
- - 🚯 [Ukraine directly addresses Russia&#39;s ambassador at the UN Security Council - \u201cThere is no purgatory for war criminals. They go straight to hell, Ambassador.\u201d](http://9gag.com/gag/amgAR8o)<!-- MEMES:END -->
+ - 🚖 [MiG-29 and Su-25 air battle just near Kyiv, according to witnesses.](http://9gag.com/gag/a51XDvG)
+ - 🚯 [Taiwan about to get independent again](http://9gag.com/gag/ay92veb)
+ - 🚯 [Zelensky - `We have severed diplomatic relations with Russia. For all those who have not yet lost their conscience in Russia, it is time to go out and protest against the war with Ukraine.`](http://9gag.com/gag/abgvR7L)<!-- MEMES:END -->
 
 --- 
 
