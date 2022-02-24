@@ -197,9 +197,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real question...](http://9gag.com/gag/aVxbLdP)
+ - 🚖 [The president of Ireland and his dog. They look like they&#39;re about to set off for a fantastical journey though middle earth!](http://9gag.com/gag/a41oA8m)
  - 🚯 [Finally, something I can laugh about.](http://9gag.com/gag/aAG0X1o)
- - 🚯 [The president of Ireland and his dog. They look like they&#39;re about to set off for a fantastical journey though middle earth!](http://9gag.com/gag/a41oA8m)<!-- MEMES:END -->
+ - 🚯 [Ancient Incan water whistles recreated different bird calls. No blowing required.](http://9gag.com/gag/aogK8p2)<!-- MEMES:END -->
 
 --- 
 
