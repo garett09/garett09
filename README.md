@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Reportedly Drops Mask and Vaccine Requirements for Employees     - CNET](https://www.cnet.com/tech/google-reportedly-drops-mask-and-vaccine-requirements-for-employees/#ftag=CAD590a51e)
- - [Reddit publishes its 2021 transparency report: 297M pieces of content were removed out of 5.8B total, 2,813 users and 2,625 subreddits were permanently banned &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/220223/p31#a220223p31)
- - [Halide 2.7 adds new batch actions feature for improved image management](https://appleinsider.com/articles/22/02/24/halide-27-adds-new-batch-actions-feature-for-improved-image-management?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg showcases a concept for voice-controlled VR space generation, plans for a universal language translator, and more in a Meta livestream &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220223/p33#a220223p33)
+ - [Researchers say Samsung shipped ~100M phones, including Galaxy S21, with since-patched design flaws that could let attackers extract secret cryptographic keys &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220223/p32#a220223p32)
+ - [All of Netflix’s Marvel shows are moving to Disney Plus in Canada](https://www.theverge.com/2022/2/23/22948263/netflix-marvel-disney-plus-canada)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
