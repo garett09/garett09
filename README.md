@@ -190,9 +190,9 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset rumored to ship with M1 chip, micro OLED](https://appleinsider.com/articles/22/02/24/apples-ar-headset-rumored-to-ship-with-m1-chip-micro-oled?utm_medium=rss)
- - [The iPad Mini with 256GB of storage is $50 off](https://www.theverge.com/good-deals/2022/2/24/22947831/apple-ipad-mini-tribit-stormbox-micro-govee-immersion-led-tv-logitech-g435-deal-sale)
- - [The Best Accessories for Your New PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
+ - [PS5 and Xbox Series X consoles are available at 12PM ET today for Walmart Plus subscribers](https://www.theverge.com/2022/2/24/22949041/sony-playstation-5-ps5-microsoft-xbox-series-x-console-restock-walmart-plus-availability-check)
+ - [NY-based Grata, a B2B search engine used by PE firms and others to find private companies, raises a $25M Series A, bringing its total funding to $35M &lpar;FinSMEs&rpar;](http://www.techmeme.com/220224/p21#a220224p21)
+ - [Poll: What do you think of the leaked Pixel 7 series design?](https://www.androidauthority.com/google-pixel-7-series-design-poll-3117374/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
