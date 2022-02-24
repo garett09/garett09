@@ -197,8 +197,8 @@ Windows                  9 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect from beginning](http://9gag.com/gag/aXrn7BD)
- - 🚯 [Special effects](http://9gag.com/gag/ay921XM)
+ - 🚖 [The real question...](http://9gag.com/gag/aVxbLdP)
+ - 🚯 [Finally, something I can laugh about.](http://9gag.com/gag/aAG0X1o)
  - 🚯 [The president of Ireland and his dog. They look like they&#39;re about to set off for a fantastical journey though middle earth!](http://9gag.com/gag/a41oA8m)<!-- MEMES:END -->
 
 --- 
