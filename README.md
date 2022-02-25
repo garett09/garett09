@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
- - [Sources: Ukraine is asking for volunteers from its hacker community to protect critical infrastructure and conduct cyber spying missions against Russian troops &lpar;Reuters&rpar;](http://www.techmeme.com/220224/p33#a220224p33)
- - [Putin’s Nuclear Threat Sets the West on Edge](https://www.wired.com/story/putin-nuclear-threat-ukraine-sanctions-history)<!-- TECH:END -->
+ - [DOJ says BitMex co-founders Arthur Hayes and Benjamin Delo pled guilty to violating the US Bank Secrecy Act and agree each to pay a $10M criminal fine &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220224/p35#a220224p35)
+ - [Carvana, the online used car marketplace, buys Kar Global&#39;s Adesa US vehicle auction subsidiary for $2.2B in cash, including its network of 56 physical sites &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220224/p34#a220224p34)
+ - [Netflix: The 46 Absolute Best TV Shows To Watch     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
