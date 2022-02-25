@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A tank with a Soviet flag was spotted on the R-47 highway](http://9gag.com/gag/axBorOY)
- - 🚯 [Amist this distraction, China will shoplift...](http://9gag.com/gag/amgAw9d)
- - 🚯 [This is sensitive](http://9gag.com/gag/aVxb5xy)<!-- MEMES:END -->
+ - 🚖 [Here is to the 74th motorized brigade. Risking their lives without a shot fired. They have surrender to Ukraine refuseing to fire on Ukrainians. May they be remembered and may their families be spared.](http://9gag.com/gag/apg9MrD)
+ - 🚯 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)
+ - 🚯 [Give em hell ukraine,](http://9gag.com/gag/aE8q48M)<!-- MEMES:END -->
 
 --- 
 
