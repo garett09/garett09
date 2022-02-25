@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Russian warship - go f**k yourself` - 13 Absolute Ukrainian mad lads](http://9gag.com/gag/a41oygQ)
- - 🚯 [Everybody is getting the gang back together](http://9gag.com/gag/a61q6V8)
+ - 🚖 [Godspeed Ghost of Kyiv!](http://9gag.com/gag/a11P6Ev)
+ - 🚯 [First page one of the Slovakian newspaper](http://9gag.com/gag/a91qGpD)
  - 🚯 [Germany vetoing moves to block Russia from Swift](http://9gag.com/gag/a31Zr8Q)<!-- MEMES:END -->
 
 --- 
