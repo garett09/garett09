@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S22 trio is now on sale: Samsung’s most pre-ordered phones to date](https://www.androidauthority.com/samsung-galaxy-s22-series-sale-3119515/)
- - [A look at NFT Worlds, an NFT collection of 10K unique Minecraft worlds, which has amassed over 30K ETH in trade volume, or nearly $90M, on OpenSea &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/220225/p1#a220225p1)
- - [Tim Cook tweets Apple &#39;will be supporting local humanitarian efforts&#39; in Ukraine](https://appleinsider.com/articles/22/02/25/tim-cook-tweets-apple-will-be-supporting-local-humanitarian-efforts-in-ukraine?utm_medium=rss)<!-- TECH:END -->
+ - [Google is under pressure to remove or cut commercial ties with some prolific pro-Russian YouTube channels; pro-Kremlin broadcasters are popular on the platform &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220225/p3#a220225p3)
+ - [A profile of Nebraska-based PenLink, a wiretapping company helping law enforcement like the FBI, DEA, and ICE collect data from Apple, Meta, Google, and others &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220225/p2#a220225p2)
+ - [Two nifty Galaxy S22 camera features are now coming to older Samsung phones](https://www.androidauthority.com/samsung-shadow-reflection-removal-older-phones-3117341/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
