@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roguelike Deckbuilder Roguebook Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/25/roguebook-available-now/)
- - [Polygon’s newsletter will make your weekends even better](https://www.polygon.com/22929136/polygon-newsletter-patch-notes-subscribe-here)
- - [Metal drummer performs Metallica in mesmerizing Toad cosplay, voice included](https://www.polygon.com/22950688/toad-drummer-cosplay-metallica-twitch-tiktok)<!-- GAME:END -->
+ - [Share of the Week: Horizon Forbidden West](https://blog.playstation.com/2022/02/25/share-of-the-week-horizon-forbidden-west/)
+ - [Share of the Week: Horizon Forbidden West](https://blog.playstation.com/2022/02/25/share-of-the-week-horizon-forbidden-west/)
+ - [I hoped the new Sims 4 wedding pack would fix marriages, but they&#39;re still broken as ever](https://www.pcgamer.com/i-hoped-the-new-sims-4-wedding-pack-would-fix-marriages-but-theyre-still-broken-as-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
