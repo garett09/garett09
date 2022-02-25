@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not Thermopylae but tiny Snake Island. Not 300 but 13. The last words not `this is Sparta!` but `\u0438\u0434\u0438 \u043d\u0430 \u0445\u0443\u0439!` &lpar;f.ck you!&rpar;. Glory to the ukrainian heroes](http://9gag.com/gag/aAG0zy2)
- - 🚯 [Hej, Europe. Are you ready for the new `monuments of russian peace` in your cities? Kharkiv, this morning.](http://9gag.com/gag/abgvn0B)
- - 🚯 [A Ukrainian driver in Melitopol found himself in an extremely unpleasant situation: while overtaking a refueling tank, he accidentally got into the line of fire.](http://9gag.com/gag/ajgVzW8)<!-- MEMES:END -->
+ - 🚖 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)
+ - 🚯 [Free tanks for ukraine. russians are running away](http://9gag.com/gag/aggoz56)
+ - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
 
