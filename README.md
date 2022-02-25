@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Etsy hits sellers with 30 percent transaction fee increase](https://www.theverge.com/2022/2/24/22949707/etsy-sellers-transaction-fee-increase)
- - [Etsy beats with Q4 revenue of $717M, up 16.2% YoY, vs. $685M est., and 2021 revenue of $2.3B, up 35% YoY, with 96.3M active buyers, up 17.6% YoY; stock up 20%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220224/p31#a220224p31)
- - [Outlook bad for Starbucks’ anti-union lawyers](https://www.theverge.com/2022/2/24/22949417/outlook-crash-error-delay-starbucks-anti-union-lawyers-new-york-deadline)<!-- TECH:END -->
+ - [How US Sanctions Will Crimp Russia&#39;s Tech Sector](https://www.wired.com/story/us-sanctions-crimp-russia-tech)
+ - [Paramount’s reportedly spinning up a Beyblade movie with Jerry Bruckheimer](https://www.theverge.com/2022/2/24/22949623/paramount-beyblade-movie-jerry-bruckheimer-producer)
+ - [Vox Media, Complex Networks, and BDG are considering ditching Google&#39;s AMP for their own mobile-optimized articles; The Washington Post dropped AMP last summer &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/220224/p32#a220224p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
