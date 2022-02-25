@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s messaging system made me temporarily OP](https://www.pcgamer.com/elden-rings-messaging-system-made-me-temporarily-op)
- - [How to two-hand a weapon in Elden Ring](https://www.pcgamer.com/elden-ring-how-to-two-hand-weapon-pc-keyboard)
- - [FromSoftware &#39;constantly working to improve&#39; Elden Ring&#39;s performance issues](https://www.pcgamer.com/fromsoftware-constantly-working-to-improve-elden-rings-performance-issues)<!-- GAME:END -->
+ - [Play Assassin’s Creed Valhalla During Free Play Days](https://news.xbox.com/en-us/2022/02/25/play-assassins-creed-valhalla-during-free-play-days/)
+ - [Inside Galactic Starcruiser, a tiny Star Wars hotel filled with gigantic performances](https://www.polygon.com/22949892/star-wars-galactic-starcruiser-review-price-hotel-video)
+ - [Epic Games makes hundreds of temp staff full-time workers](https://www.pcgamer.com/epic-games-makes-hundreds-of-temp-staff-full-time-workers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
