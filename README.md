@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Virtual YouTuber&#39;s Contract Terminated For Allegedly Leaking Private Info](https://kotaku.com/youtube-virtual-vtube-uruha-rushia-hololive-streaming-j-1848593169)
- - [Elden Ring Looks Fantastic As A PS1 Game](https://kotaku.com/elden-ring-launch-trailer-fromsoftware-miyazaki-ps1-pla-1848591584)
- - [Lost Ark players are reporting large numbers of gold spammers and farming bots](https://www.pcgamer.com/lost-ark-players-are-reporting-large-numbers-of-gold-spammers-and-farming-bots)<!-- GAME:END -->
+ - [Elden Ring&#39;s messaging system made me temporarily OP](https://www.pcgamer.com/elden-rings-messaging-system-made-me-temporarily-op)
+ - [How to two-hand a weapon in Elden Ring](https://www.pcgamer.com/elden-ring-how-to-two-hand-weapon-pc-keyboard)
+ - [FromSoftware &#39;constantly working to improve&#39; Elden Ring&#39;s performance issues](https://www.pcgamer.com/fromsoftware-constantly-working-to-improve-elden-rings-performance-issues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
