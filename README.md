@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how much Sony’s Game Pass rival could cost](https://www.androidauthority.com/sony-spartacus-game-pass-rival-price-3119645/)
- - [HBO Max: All The Best Sci-Fi Movies     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)
- - [Patreon suspends NGO account collecting money for Ukrainian military](https://www.theverge.com/2022/2/25/22950408/patreon-ukraine-russia-come-back-alive-military-assistance)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; is having a transformative impact on London&#39;s tourist trade](https://appleinsider.com/articles/22/02/25/ted-lasso-is-having-a-transformative-impact-on-londons-tourist-trade?utm_medium=rss)
+ - [Daily Authority: 🥽 S22 preorders up, VR in the car](https://www.androidauthority.com/da-february-25-2022-3119890/)
+ - [How to create a brochure using Google Docs](https://www.androidauthority.com/google-docs-brochure-3114826/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
