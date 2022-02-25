@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is Patches in Elden Ring?](https://www.pcgamer.com/elden-ring-patches-chest-boss)
- - [The Steam Deck&#39;s most impressive feature is its price tag, so don&#39;t spend thousands on one](https://www.pcgamer.com/steam-deck-ebay-listings-reselling)
- - [Fortnite item shop: X-Men&#39;s Gambit and Rogue join the battle royale](https://www.pcgamer.com/gambit-fortnite-rogue-x-men)<!-- GAME:END -->
+ - [Cyberpunk 2077 Dev CDPR And Others Condemn Russia’s Invasion Of Ukraine](https://kotaku.com/cd-projekt-red-ukraine-russia-cyberpunk-2077-11-bit-gam-1848596321)
+ - [An early Elden Ring chest is sending players straight to hell](https://www.pcgamer.com/an-early-elden-ring-chest-is-sending-players-straight-to-hell)
+ - [DICE disables Battlefield 2042&#39;s Russian attack helicopter weekly mission reward](https://www.pcgamer.com/dice-disables-battlefield-2042s-russian-attack-helicopter-weekly-mission-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
