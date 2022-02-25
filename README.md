@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook tweets Apple &#39;will be supporting local humanitarian efforts&#39; in Ukraine](https://appleinsider.com/articles/22/02/25/tim-cook-tweets-apple-will-be-supporting-local-humanitarian-efforts-in-ukraine?utm_medium=rss)
- - [Apple shares second trailer for limited series &#39;WeCrashed&#39;](https://appleinsider.com/articles/22/02/25/apple-shares-second-trailer-for-limited-series-wecrashed?utm_medium=rss)
- - [Singapore-based Beam, which operates e-scooters and e-bikes in 35 cities across Malaysia, Thailand, South Korea, Australia and NZ, raises a $93M Series B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220224/p36#a220224p36)<!-- TECH:END -->
+ - [The Galaxy S22 trio is now on sale: Samsung’s most pre-ordered phones to date](https://www.androidauthority.com/samsung-galaxy-s22-series-sale-3119515/)
+ - [A look at NFT Worlds, an NFT collection of 10K unique Minecraft worlds, which has amassed over 30K ETH in trade volume, or nearly $90M, on OpenSea &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/220225/p1#a220225p1)
+ - [Tim Cook tweets Apple &#39;will be supporting local humanitarian efforts&#39; in Ukraine](https://appleinsider.com/articles/22/02/25/tim-cook-tweets-apple-will-be-supporting-local-humanitarian-efforts-in-ukraine?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
