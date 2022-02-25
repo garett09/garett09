@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This pic gets me. They are my age and I cannot imagine the bravery and determination to pick up guns and defend their country with their lives.](http://9gag.com/gag/aZrDGG0)
- - 🚯 [13 Heroes of Snake Island](http://9gag.com/gag/ajgVzzp)
+ - 🚖 [13 Heroes of Snake Island](http://9gag.com/gag/ajgVzzp)
+ - 🚯 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
