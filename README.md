@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Dev CDPR And Others Condemn Russia’s Invasion Of Ukraine](https://kotaku.com/cd-projekt-red-ukraine-russia-cyberpunk-2077-11-bit-gam-1848596321)
- - [An early Elden Ring chest is sending players straight to hell](https://www.pcgamer.com/an-early-elden-ring-chest-is-sending-players-straight-to-hell)
- - [DICE disables Battlefield 2042&#39;s Russian attack helicopter weekly mission reward](https://www.pcgamer.com/dice-disables-battlefield-2042s-russian-attack-helicopter-weekly-mission-reward)<!-- GAME:END -->
+ - [Silent Hill creator Keiichiro Toyama answers questions about his new game, Slitterhead](https://www.pcgamer.com/silent-hill-creator-keiichiro-toyama-answers-questions-about-his-new-game-slitterhead)
+ - [Save $200 on a gaming desktop with a hard-to-get RTX 3070 Ti inside it](https://www.pcgamer.com/save-dollar200-on-a-gaming-desktop-with-a-hard-to-get-rtx-3070-ti-inside-it)
+ - [Aperture Desk Job is Steam Deck’s first-party touch that Xbox Series X was missing](https://www.polygon.com/22951322/aperture-desk-job-steam-deck-first-party-custom-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
