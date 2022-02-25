@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; is having a transformative impact on London&#39;s tourist trade](https://appleinsider.com/articles/22/02/25/ted-lasso-is-having-a-transformative-impact-on-londons-tourist-trade?utm_medium=rss)
- - [Daily Authority: 🥽 S22 preorders up, VR in the car](https://www.androidauthority.com/da-february-25-2022-3119890/)
- - [How to create a brochure using Google Docs](https://www.androidauthority.com/google-docs-brochure-3114826/)<!-- TECH:END -->
+ - [Apple expands local Apple News to Toronto, Montreal](https://appleinsider.com/articles/22/02/25/apple-expands-local-apple-news-to-toronto-montreal?utm_medium=rss)
+ - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories)
+ - [The Best Part of These Gaming Headsets? The Dangle-Free Dongle](https://www.wired.com/review/review-arctis-7-plus-7p-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
