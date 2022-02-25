@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Looks Brutal As A PS1 Game](https://kotaku.com/elden-ring-launch-trailer-fromsoftware-miyazaki-ps1-pla-1848591584)
  - [Steam Deck: Everything we know about Valve&#39;s handheld gaming PC](https://www.pcgamer.com/steam-deck-price-release-date-specs)
- - [Playing Slaanesh lets you get up to some real diplomacy shenanigans in Total War: Warhammer 3](https://www.pcgamer.com/playing-slaanesh-lets-you-get-up-to-some-real-diplomacy-shenanigans-in-total-war-warhammer-3)
- - [Elden Ring controller not working? Try this fix](https://www.pcgamer.com/elden-ring-controller-not-working-try-this-fix)<!-- GAME:END -->
+ - [Playing Slaanesh lets you get up to some real diplomacy shenanigans in Total War: Warhammer 3](https://www.pcgamer.com/playing-slaanesh-lets-you-get-up-to-some-real-diplomacy-shenanigans-in-total-war-warhammer-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
