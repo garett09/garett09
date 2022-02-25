@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interception in Kiev just now. Ukraine shot something big out of the sky.](http://9gag.com/gag/a71qXOe)
- - 🚯 [Ukraine strikes back](http://9gag.com/gag/aM4E7wR)
- - 🚯 [Everybody is getting the gang back together](http://9gag.com/gag/a61q6V8)<!-- MEMES:END -->
+ - 🚖 [GIVE EM HELL UKRAINE!!! reports that Ukrainian forces have retaken the Airport at Hostemal outside Kyiv!!!](http://9gag.com/gag/aqGeOKL)
+ - 🚯 [Might as well browse the BBC News website instead](http://9gag.com/gag/aggobRr)
+ - 🚯 [Here is to the 74th motorized brigade. Risking their lives without a shot fired. They have surrender to Ukraine refuseing to fire on Ukrainians. May they be remembered and may their families be spared.](http://9gag.com/gag/apg9MrD)<!-- MEMES:END -->
 
 --- 
 
