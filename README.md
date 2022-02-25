@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nokia phones have all but disappeared from many countries](https://www.androidauthority.com/nokia-phone-ban-3119531/)
  - [Google is under pressure to remove or cut commercial ties with some prolific pro-Russian YouTube channels; pro-Kremlin broadcasters are popular on the platform &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220225/p3#a220225p3)
- - [A profile of Nebraska-based PenLink, a wiretapping company helping law enforcement like the FBI, DEA, and ICE collect data from Apple, Meta, Google, and others &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220225/p2#a220225p2)
- - [Two nifty Galaxy S22 camera features are now coming to older Samsung phones](https://www.androidauthority.com/samsung-shadow-reflection-removal-older-phones-3117341/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 Rumors: What We&#39;ve Heard So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
