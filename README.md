@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
- - 🚯 [Estonia sent more supplies to Ukraine. Food rations, medical supplies and machinery and heavvy ordenance like Javelin missiles and anti air rounds.](http://9gag.com/gag/avAQKxO)
- - 🚯 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)<!-- MEMES:END -->
+ - 🚖 [Estonia sent more supplies to Ukraine. Food rations, medical supplies and machinery and heavvy ordenance like Javelin missiles and anti air rounds.](http://9gag.com/gag/avAQKxO)
+ - 🚯 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
+ - 🚯 [Hej, Europe. Are you ready for the new `monuments of russian peace` in your cities? Kharkiv, this morning.](http://9gag.com/gag/abgvn0B)<!-- MEMES:END -->
 
 --- 
 
