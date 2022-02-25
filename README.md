@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ says BitMex co-founders Arthur Hayes and Benjamin Delo pled guilty to violating the US Bank Secrecy Act and agree each to pay a $10M criminal fine &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220224/p35#a220224p35)
- - [Carvana, the online used car marketplace, buys Kar Global&#39;s Adesa US vehicle auction subsidiary for $2.2B in cash, including its network of 56 physical sites &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220224/p34#a220224p34)
- - [Netflix: The 46 Absolute Best TV Shows To Watch     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook tweets Apple &#39;will be supporting local humanitarian efforts&#39; in Ukraine](https://appleinsider.com/articles/22/02/25/tim-cook-tweets-apple-will-be-supporting-local-humanitarian-efforts-in-ukraine?utm_medium=rss)
+ - [Apple shares second trailer for limited series &#39;WeCrashed&#39;](https://appleinsider.com/articles/22/02/25/apple-shares-second-trailer-for-limited-series-wecrashed?utm_medium=rss)
+ - [Singapore-based Beam, which operates e-scooters and e-bikes in 35 cities across Malaysia, Thailand, South Korea, Australia and NZ, raises a $93M Series B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220224/p36#a220224p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
