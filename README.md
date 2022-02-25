@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Nvidia is investigating a potential cyberattack that caused outages in its email systems and developer tools over the last two days &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220225/p21#a220225p21)
- - [Anthony Boyle &amp; Lovie Simone join the cast of Apple TV+ &#39;Manhunt&#39;](https://appleinsider.com/articles/22/02/25/anthony-boyle-lovie-simone-join-the-cast-of-apple-tv-manhunt?utm_medium=rss)
- - [Valve made a bite-sized new Portal game for the Steam Deck](https://www.theverge.com/2022/2/25/22951072/valve-portal-steam-deck-aperture-desk-job)<!-- TECH:END -->
+ - [GameSir X2 review: a fantastic controller designed with the mobile gamer in mind](https://appleinsider.com/articles/22/02/25/gamesir-x2-review-a-fantastic-controller-designed-with-the-mobile-gamer-in-mind?utm_medium=rss)
+ - [Nvidia confirms a cyber &quot;incident&quot; after report says it is investigating a potential cyberattack that caused outages in its systems over the past two days &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220225/p23#a220225p23)
+ - [The best new movies to stream this week on Hulu, Netflix, Disney Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
