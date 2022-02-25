@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck needs a kickstand](https://www.polygon.com/22949465/steam-deck-kickstand-nintendo-switch)
- - [Destiny 2 PSA: Stop what you&#39;re doing and buy this gun from Xur right now](https://www.pcgamer.com/destiny-2-psa-stop-what-youre-doing-and-buy-this-gun-from-xur-right-now)
- - [Forget Wordle And Quordle, You Should Be Playing Octordle](https://kotaku.com/wordle-dordle-quordle-octordle-word-game-browser-puzzle-1848593721)<!-- GAME:END -->
+ - [Where is Patches in Elden Ring?](https://www.pcgamer.com/elden-ring-patches-chest-boss)
+ - [The Steam Deck&#39;s most impressive feature is its price tag, so don&#39;t spend thousands on one](https://www.pcgamer.com/steam-deck-ebay-listings-reselling)
+ - [Fortnite item shop: X-Men&#39;s Gambit and Rogue join the battle royale](https://www.pcgamer.com/gambit-fortnite-rogue-x-men)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
