@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Ukrainian driver in Melitopol found himself in an extremely unpleasant situation: while overtaking a refueling tank, he accidentally got into the line of fire.](http://9gag.com/gag/ajgVzW8)
- - 🚯 [There are more volunteers in Kiev than weapons](http://9gag.com/gag/a71qQbx)
+ - 🚖 [Balls of steel](http://9gag.com/gag/apg9W3B)
+ - 🚯 [ZELENSKYY: I&#39;LL REMAIN IN KYIV](http://9gag.com/gag/amgAEb9)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
