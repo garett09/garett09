@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Horizon Forbidden West](https://blog.playstation.com/2022/02/25/share-of-the-week-horizon-forbidden-west/)
- - [Share of the Week: Horizon Forbidden West](https://blog.playstation.com/2022/02/25/share-of-the-week-horizon-forbidden-west/)
- - [I hoped the new Sims 4 wedding pack would fix marriages, but they&#39;re still broken as ever](https://www.pcgamer.com/i-hoped-the-new-sims-4-wedding-pack-would-fix-marriages-but-theyre-still-broken-as-ever)<!-- GAME:END -->
+ - [Bandai Namco To PS5 Elden Ring Players: Don’t Trust Rest Mode ATM](https://kotaku.com/elden-ring-autosave-ps5-rest-mode-issues-bug-suspend-1848594939)
+ - [The Steam Deck is my new favorite console](https://www.polygon.com/reviews/22949326/steam-deck-review-pc-gaming-portable)
+ - [12 games I love on Steam Deck](https://www.polygon.com/best-games/22948034/steam-deck-best-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
