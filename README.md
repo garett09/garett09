@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)
- - 🚯 [Free tanks for ukraine. russians are running away](http://9gag.com/gag/aggoz56)
+ - 🚖 [Russian military vehicle ran over a civilian car in Kyiv, Ukraine. An old man inside miraculously survived.](http://9gag.com/gag/adgPDYM)
+ - 🚯 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
