@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trump on EU/Russia relationship](http://9gag.com/gag/aBndj6x)
- - 🚯 [Operational Information of the Ministry of Defence of Ukraine](http://9gag.com/gag/aE8qy2M)
- - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)<!-- MEMES:END -->
+ - 🚖 [Indonesia, malaysia, brunei, vietnam, singapore and philippines after hear china will invades taiwan. Damn we are next](http://9gag.com/gag/aYrV6jx)
+ - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)
+ - 🚯 [Today Ukraine, tomorrow every nation with shity neighbors.](http://9gag.com/gag/a11PnoR)<!-- MEMES:END -->
 
 --- 
 
