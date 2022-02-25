@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indonesia, malaysia, brunei, vietnam, singapore and philippines after hear china will invades taiwan. Damn we are next](http://9gag.com/gag/aYrV6jx)
- - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)
- - 🚯 [Today Ukraine, tomorrow every nation with shity neighbors.](http://9gag.com/gag/a11PnoR)<!-- MEMES:END -->
+ - 🚖 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)
+ - 🚯 [Indonesia, malaysia, brunei, vietnam, singapore and philippines after hear china will invades taiwan. Damn we are next](http://9gag.com/gag/aYrV6jx)
+ - 🚯 [This is the current situation in Kyiv.](http://9gag.com/gag/awzZjq1)<!-- MEMES:END -->
 
 --- 
 
