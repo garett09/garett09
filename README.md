@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The classes of Elden Ring, explained](https://blog.playstation.com/2022/02/25/the-classes-of-elden-ring-explained/)
- - [The classes of Elden Ring, explained](https://blog.playstation.com/2022/02/25/the-classes-of-elden-ring-explained/)
- - [Next Week on Xbox: February 28 to March 4](https://news.xbox.com/en-us/2022/02/25/next-week-on-xbox-february-28-to-march-4/)<!-- GAME:END -->
+ - [Roguelike Deckbuilder Roguebook Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/02/25/roguebook-available-now/)
+ - [Polygon’s newsletter will make your weekends even better](https://www.polygon.com/22929136/polygon-newsletter-patch-notes-subscribe-here)
+ - [Metal drummer performs Metallica in mesmerizing Toad cosplay, voice included](https://www.polygon.com/22950688/toad-drummer-cosplay-metallica-twitch-tiktok)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
