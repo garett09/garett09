@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Instagram meme pages are turning into &quot;war pages&quot; that repost unverified footage without context, often claiming to be run by journalists in Ukraine &lpar;Taylor Lorenz/Input&rpar;](http://www.techmeme.com/220225/p12#a220225p12)
- - [EU Parliament postpones a vote on crypto regulations following backlash over a leaked provision banning proof-of-work cryptos like bitcoin over energy concerns &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/220225/p11#a220225p11)
- - [On Good Authority: 5 Android 13 features we’re really excited about](https://www.androidauthority.com/best-android-13-features-3113880/)<!-- TECH:END -->
+ - [Russia&#39;s telecom and internet regulator announces a &quot;partial restriction&quot; of access to Facebook over Meta&#39;s alleged restrictions on some Russian media &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220225/p16#a220225p16)
+ - [Ukraine’s Defense—and Hacktivists—Have Raised Over $4M in Crypto](https://www.wired.com/story/ukraine-russia-cryptocurrency-donations-hacktivism)
+ - [The Dropout on Hulu makes an unconvincing case for Elizabeth Holmes’ humanity](https://www.theverge.com/2022/2/25/22948048/the-dropout-review-hulu-elizabeth-holmes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
