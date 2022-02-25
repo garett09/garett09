@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill creator Keiichiro Toyama answers questions about his new game, Slitterhead](https://www.pcgamer.com/silent-hill-creator-keiichiro-toyama-answers-questions-about-his-new-game-slitterhead)
- - [Save $200 on a gaming desktop with a hard-to-get RTX 3070 Ti inside it](https://www.pcgamer.com/save-dollar200-on-a-gaming-desktop-with-a-hard-to-get-rtx-3070-ti-inside-it)
- - [Aperture Desk Job is Steam Deck’s first-party touch that Xbox Series X was missing](https://www.polygon.com/22951322/aperture-desk-job-steam-deck-first-party-custom-game)<!-- GAME:END -->
+ - [Discord bans &#39;anti-vaccination content&#39; and &#39;misleading&#39; Covid-19 information](https://www.pcgamer.com/discord-bans-anti-vaccination-content-and-misleading-covid-19-information)
+ - [Free Guy, The French Dispatch, and every new movie you can stream from home this week](https://www.polygon.com/what-to-watch/2022/2/25/22944327/new-movies-watch-free-guy-disney-plus-hbo-max-the-french-dispatch)
+ - [Valve has no plans for a &#39;Steam Pass,&#39; but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
