@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter rolls out a content warning feature to all users, allowing them to obscure photos and videos with warnings for nudity, violence, and &quot;sensitive&quot; content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220225/p25#a220225p25)
- - [Apple Pay unavailable in Russia after U.S. and E.U. imposed-sanctions](https://appleinsider.com/articles/22/02/25/apple-pay-unavailable-in-russia-after-us-and-eu-imposed-sanctions?utm_medium=rss)
- - [Twitter now lets you place content warnings on individual tweets](https://www.theverge.com/2022/2/25/22951334/twitter-sensitive-content-warning-individual-tweet-update-ios-android-web)<!-- TECH:END -->
+ - [In a letter shared on Twitter, Ukraine&#39;s vice prime minister requested Tim Cook halt Apple&#39;s product sales and shut down its App Store in Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220225/p28#a220225p28)
+ - [AT&amp;T begins testing and deployment of discreet 5G radios on city street lamp posts](https://www.theverge.com/2022/2/25/22951088/att-testing-5g-small-cell-radios-street-lights)
+ - [Zendesk abandons its $4.1B plan to acquire Momentive, which owns SurveyMonkey, after Zendesk stockholders rejected the deal &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220225/p27#a220225p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
