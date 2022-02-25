@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here is to the 74th motorized brigade. Risking their lives without a shot fired. They have surrender to Ukraine refuseing to fire on Ukrainians. May they be remembered and may their families be spared.](http://9gag.com/gag/apg9MrD)
- - 🚯 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)
- - 🚯 [Give em hell ukraine,](http://9gag.com/gag/aE8q48M)<!-- MEMES:END -->
+ - 🚖 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
+ - 🚯 [Estonia sent more supplies to Ukraine. Food rations, medical supplies and machinery and heavvy ordenance like Javelin missiles and anti air rounds.](http://9gag.com/gag/avAQKxO)
+ - 🚯 [Please stop, grow up ! #no fake news #ukraine](http://9gag.com/gag/aYrVX1N)<!-- MEMES:END -->
 
 --- 
 
