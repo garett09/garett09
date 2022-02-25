@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US Sanctions Will Crimp Russia&#39;s Tech Sector](https://www.wired.com/story/us-sanctions-crimp-russia-tech)
- - [Paramount’s reportedly spinning up a Beyblade movie with Jerry Bruckheimer](https://www.theverge.com/2022/2/24/22949623/paramount-beyblade-movie-jerry-bruckheimer-producer)
- - [Vox Media, Complex Networks, and BDG are considering ditching Google&#39;s AMP for their own mobile-optimized articles; The Washington Post dropped AMP last summer &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/220224/p32#a220224p32)<!-- TECH:END -->
+ - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
+ - [Sources: Ukraine is asking for volunteers from its hacker community to protect critical infrastructure and conduct cyber spying missions against Russian troops &lpar;Reuters&rpar;](http://www.techmeme.com/220224/p33#a220224p33)
+ - [Putin’s Nuclear Threat Sets the West on Edge](https://www.wired.com/story/putin-nuclear-threat-ukraine-sanctions-history)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
