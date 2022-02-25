@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s telecom and internet regulator announces a &quot;partial restriction&quot; of access to Facebook over Meta&#39;s alleged restrictions on some Russian media &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220225/p16#a220225p16)
- - [Ukraine’s Defense—and Hacktivists—Have Raised Over $4M in Crypto](https://www.wired.com/story/ukraine-russia-cryptocurrency-donations-hacktivism)
- - [The Dropout on Hulu makes an unconvincing case for Elizabeth Holmes’ humanity](https://www.theverge.com/2022/2/25/22948048/the-dropout-review-hulu-elizabeth-holmes)<!-- TECH:END -->
+ - [Apple&#39;s hard-to-find M1 Max MacBook Pro 16-inch with 32GB RAM is $150 off, in stock](https://appleinsider.com/articles/22/02/25/apples-hard-to-find-m1-max-macbook-pro-16-inch-with-32gb-ram-is-150-off-in-stock?utm_medium=rss)
+ - [Review of $400 Steam Deck: powerful, with customizable controls and doubles as a full Linux PC but unfinished, buggy software, short battery life, and noisy fan &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220225/p17#a220225p17)
+ - [Meta reportedly breaks up the 300-person team that was building a hybrid VR / AR OS](https://www.theverge.com/2022/2/25/22950710/meta-vr-ar-os-team-xros-breakup-hyper-tuned-focus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
