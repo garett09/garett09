@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Assassin’s Creed Valhalla During Free Play Days](https://news.xbox.com/en-us/2022/02/25/play-assassins-creed-valhalla-during-free-play-days/)
- - [Inside Galactic Starcruiser, a tiny Star Wars hotel filled with gigantic performances](https://www.polygon.com/22949892/star-wars-galactic-starcruiser-review-price-hotel-video)
- - [Epic Games makes hundreds of temp staff full-time workers](https://www.pcgamer.com/epic-games-makes-hundreds-of-temp-staff-full-time-workers)<!-- GAME:END -->
+ - [The classes of Elden Ring, explained](https://blog.playstation.com/2022/02/25/the-classes-of-elden-ring-explained/)
+ - [The classes of Elden Ring, explained](https://blog.playstation.com/2022/02/25/the-classes-of-elden-ring-explained/)
+ - [Next Week on Xbox: February 28 to March 4](https://news.xbox.com/en-us/2022/02/25/next-week-on-xbox-february-28-to-march-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
