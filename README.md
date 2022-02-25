@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian space director’s wild threats could have real implications for the ISS](https://www.theverge.com/2022/2/25/22950498/russia-nasa-international-space-station-dmitry-rogozin-roscosmos-ukraine-iss)
- - [Deal: Get an unlocked Samsung Galaxy S22 Plus from just $99.99](https://www.androidauthority.com/samsung-galaxy-s22-deal-3120991/)
- - [HBO Max: 20 of the Best Movies to Watch     - CNET](https://www.cnet.com/news/hbo-max-20-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Nvidia is investigating a potential cyberattack that caused outages in its email systems and developer tools over the last two days &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220225/p21#a220225p21)
+ - [Anthony Boyle &amp; Lovie Simone join the cast of Apple TV+ &#39;Manhunt&#39;](https://appleinsider.com/articles/22/02/25/anthony-boyle-lovie-simone-join-the-cast-of-apple-tv-manhunt?utm_medium=rss)
+ - [Valve made a bite-sized new Portal game for the Steam Deck](https://www.theverge.com/2022/2/25/22951072/valve-portal-steam-deck-aperture-desk-job)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
