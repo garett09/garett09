@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands local Apple News to Toronto, Montreal](https://appleinsider.com/articles/22/02/25/apple-expands-local-apple-news-to-toronto-montreal?utm_medium=rss)
- - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories)
- - [The Best Part of These Gaming Headsets? The Dangle-Free Dongle](https://www.wired.com/review/review-arctis-7-plus-7p-plus)<!-- TECH:END -->
+ - [News From Ukraine Is Unfolding in Fragments Over Social Media](https://www.wired.com/story/ukraine-russia-social-media)
+ - [How to Get Mental Health Support—on Social Media](https://www.wired.com/story/how-to-get-mental-health-support-online-social-media)
+ - [MWC 2022: What we know and what to expect](https://www.theverge.com/2022/2/25/22949369/mwc-barcelona-2022-what-to-expect-rumors-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
