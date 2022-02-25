@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Godspeed Ghost of Kyiv!](http://9gag.com/gag/a11P6Ev)
- - 🚯 [First page one of the Slovakian newspaper](http://9gag.com/gag/a91qGpD)
- - 🚯 [Germany vetoing moves to block Russia from Swift](http://9gag.com/gag/a31Zr8Q)<!-- MEMES:END -->
+ - 🚖 [A tank with a Soviet flag was spotted on the R-47 highway](http://9gag.com/gag/axBorOY)
+ - 🚯 [Amist this distraction, China will shoplift...](http://9gag.com/gag/amgAw9d)
+ - 🚯 [This is sensitive](http://9gag.com/gag/aVxb5xy)<!-- MEMES:END -->
 
 --- 
 
