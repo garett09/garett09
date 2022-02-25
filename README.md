@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today Ukraine, tomorrow every nation with shity neighbors.](http://9gag.com/gag/a11PnoR)
- - 🚯 [Police evacuating people from Moscow anti-war protest due covid restrictions](http://9gag.com/gag/apg9zrE)
+ - 🚖 [Trump on EU/Russia relationship](http://9gag.com/gag/aBndj6x)
+ - 🚯 [Operational Information of the Ministry of Defence of Ukraine](http://9gag.com/gag/aE8qy2M)
  - 🚯 [Slava Ukraini](http://9gag.com/gag/aNPwGWv)<!-- MEMES:END -->
 
 --- 
