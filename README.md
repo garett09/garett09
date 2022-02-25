@@ -198,7 +198,7 @@ Windows                  7 hrs 53 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Balls of steel](http://9gag.com/gag/apg9W3B)
- - 🚯 [ZELENSKYY: I&#39;LL REMAIN IN KYIV](http://9gag.com/gag/amgAEb9)
+ - 🚯 [Ghost of Kyiv](http://9gag.com/gag/aE8qLx9)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
