@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the current situation in Kyiv.](http://9gag.com/gag/awzZjq1)
- - 🚯 [Everybody is getting the gang back together](http://9gag.com/gag/a61q6V8)
- - 🚯 [Germany vetoing moves to block Russia from Swift](http://9gag.com/gag/a31Zr8Q)<!-- MEMES:END -->
+ - 🚖 [Interception in Kiev just now. Ukraine shot something big out of the sky.](http://9gag.com/gag/a71qXOe)
+ - 🚯 [Ukraine strikes back](http://9gag.com/gag/aM4E7wR)
+ - 🚯 [Everybody is getting the gang back together](http://9gag.com/gag/a61q6V8)<!-- MEMES:END -->
 
 --- 
 
