@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian military vehicle ran over a civilian car in Kyiv, Ukraine. An old man inside miraculously survived.](http://9gag.com/gag/adgPDYM)
- - 🚯 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
+ - 🚖 [A Ukrainian driver in Melitopol found himself in an extremely unpleasant situation: while overtaking a refueling tank, he accidentally got into the line of fire.](http://9gag.com/gag/ajgVzW8)
+ - 🚯 [There are more volunteers in Kiev than weapons](http://9gag.com/gag/a71qQbx)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
