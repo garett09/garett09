@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [News From Ukraine Is Unfolding in Fragments Over Social Media](https://www.wired.com/story/ukraine-russia-social-media)
- - [How to Get Mental Health Support—on Social Media](https://www.wired.com/story/how-to-get-mental-health-support-online-social-media)
- - [MWC 2022: What we know and what to expect](https://www.theverge.com/2022/2/25/22949369/mwc-barcelona-2022-what-to-expect-rumors-announcements)<!-- TECH:END -->
+ - [Inside Galactic Starcruiser, Disney’s hotel where everyone becomes a Star Wars character](https://www.theverge.com/22949905/star-wars-galactic-starcruiser-hotel-interactive-disney-world-photos-price)
+ - [Compared: iPhone 13 &amp; iPhone 13 Pro versus Samsung Galaxy S22](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
+ - [How to update Google Chrome](https://www.theverge.com/22949383/google-chrome-update-how-to-mac-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
