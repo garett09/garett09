@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Galactic Starcruiser, Disney’s hotel where everyone becomes a Star Wars character](https://www.theverge.com/22949905/star-wars-galactic-starcruiser-hotel-interactive-disney-world-photos-price)
- - [Compared: iPhone 13 &amp; iPhone 13 Pro versus Samsung Galaxy S22](https://appleinsider.com/articles/22/02/09/compared-iphone-13-lineup-versus-samsung-galaxy-s22-lineup?utm_medium=rss)
- - [How to update Google Chrome](https://www.theverge.com/22949383/google-chrome-update-how-to-mac-pc)<!-- TECH:END -->
+ - [Some Instagram meme pages are turning into &quot;war pages&quot; that repost unverified footage without context, often claiming to be run by journalists in Ukraine &lpar;Taylor Lorenz/Input&rpar;](http://www.techmeme.com/220225/p12#a220225p12)
+ - [EU Parliament postpones a vote on crypto regulations following backlash over a leaked provision banning proof-of-work cryptos like bitcoin over energy concerns &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/220225/p11#a220225p11)
+ - [On Good Authority: 5 Android 13 features we’re really excited about](https://www.androidauthority.com/best-android-13-features-3113880/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
