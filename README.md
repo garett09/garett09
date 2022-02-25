@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Estonia sent more supplies to Ukraine. Food rations, medical supplies and machinery and heavvy ordenance like Javelin missiles and anti air rounds.](http://9gag.com/gag/avAQKxO)
- - 🚯 [Lines of Ukrainian men who want to enlist for the military to defend their country. Have nothing but respect and admiration and makes me as a Dutchman jealous of such patriotism. Go get them!](http://9gag.com/gag/aZrDOX9)
- - 🚯 [Hej, Europe. Are you ready for the new `monuments of russian peace` in your cities? Kharkiv, this morning.](http://9gag.com/gag/abgvn0B)<!-- MEMES:END -->
+ - 🚖 [Not Thermopylae but tiny Snake Island. Not 300 but 13. The last words not `this is Sparta!` but `\u0438\u0434\u0438 \u043d\u0430 \u0445\u0443\u0439!` &lpar;f.ck you!&rpar;. Glory to the ukrainian heroes](http://9gag.com/gag/aAG0zy2)
+ - 🚯 [Hej, Europe. Are you ready for the new `monuments of russian peace` in your cities? Kharkiv, this morning.](http://9gag.com/gag/abgvn0B)
+ - 🚯 [A Ukrainian driver in Melitopol found himself in an extremely unpleasant situation: while overtaking a refueling tank, he accidentally got into the line of fire.](http://9gag.com/gag/ajgVzW8)<!-- MEMES:END -->
 
 --- 
 
