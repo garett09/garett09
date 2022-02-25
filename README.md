@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameSir X2 review: a fantastic controller designed with the mobile gamer in mind](https://appleinsider.com/articles/22/02/25/gamesir-x2-review-a-fantastic-controller-designed-with-the-mobile-gamer-in-mind?utm_medium=rss)
- - [Nvidia confirms a cyber &quot;incident&quot; after report says it is investigating a potential cyberattack that caused outages in its systems over the past two days &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220225/p23#a220225p23)
- - [The best new movies to stream this week on Hulu, Netflix, Disney Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Twitter rolls out a content warning feature to all users, allowing them to obscure photos and videos with warnings for nudity, violence, and &quot;sensitive&quot; content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220225/p25#a220225p25)
+ - [Apple Pay unavailable in Russia after U.S. and E.U. imposed-sanctions](https://appleinsider.com/articles/22/02/25/apple-pay-unavailable-in-russia-after-us-and-eu-imposed-sanctions?utm_medium=rss)
+ - [Twitter now lets you place content warnings on individual tweets](https://www.theverge.com/2022/2/25/22951334/twitter-sensitive-content-warning-individual-tweet-update-ios-android-web)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
