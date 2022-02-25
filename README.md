@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Playing Slaanesh lets you get up to some real diplomacy shenanigans in Total War: Warhammer 3](https://www.pcgamer.com/playing-slaanesh-lets-you-get-up-to-some-real-diplomacy-shenanigans-in-total-war-warhammer-3)
  - [Elden Ring controller not working? Try this fix](https://www.pcgamer.com/elden-ring-controller-not-working-try-this-fix)
- - [Some Of The Most Popular &#39;Ukraine Footage&#39; Is Actually A Video Game](https://kotaku.com/ukraine-invasion-war-russia-arma-3-iii-bohemia-video-ga-1848591313)
- - [Adults only horror game Agony Unrated offered at a discount to players whose copies went missing](https://www.pcgamer.com/adults-only-horror-game-agony-unrated-goes-missing-from-players-steam-libraries)<!-- GAME:END -->
+ - [Some Of The Most Popular &#39;Ukraine Footage&#39; Is Actually A Video Game](https://kotaku.com/ukraine-invasion-war-russia-arma-3-iii-bohemia-video-ga-1848591313)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
