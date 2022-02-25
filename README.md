@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keep Elden Ring beautiful with the best settings on PC](https://www.pcgamer.com/elden-ring-best-settings)
- - [You can play Assassin’s Creed Valhalla for free this weekend only](https://www.polygon.com/22949718/assassins-creed-valhalla-free-this-weekend)
- - [Screw This Elden Ring ‘Treasure Chest’](https://kotaku.com/elden-ring-fromsoftware-trap-mimic-chest-dark-souls-blo-1848591179)<!-- GAME:END -->
+ - [Elden Ring controller not working? Try this fix](https://www.pcgamer.com/elden-ring-controller-not-working-try-this-fix)
+ - [Some Of The Most Popular &#39;Ukraine Footage&#39; Is Actually A Video Game](https://kotaku.com/ukraine-invasion-war-russia-arma-3-iii-bohemia-video-ga-1848591313)
+ - [Adults only horror game Agony Unrated offered at a discount to players whose copies went missing](https://www.pcgamer.com/adults-only-horror-game-agony-unrated-goes-missing-from-players-steam-libraries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
