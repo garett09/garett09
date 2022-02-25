@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s hard-to-find M1 Max MacBook Pro 16-inch with 32GB RAM is $150 off, in stock](https://appleinsider.com/articles/22/02/25/apples-hard-to-find-m1-max-macbook-pro-16-inch-with-32gb-ram-is-150-off-in-stock?utm_medium=rss)
- - [Review of $400 Steam Deck: powerful, with customizable controls and doubles as a full Linux PC but unfinished, buggy software, short battery life, and noisy fan &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220225/p17#a220225p17)
- - [Meta reportedly breaks up the 300-person team that was building a hybrid VR / AR OS](https://www.theverge.com/2022/2/25/22950710/meta-vr-ar-os-team-xros-breakup-hyper-tuned-focus)<!-- TECH:END -->
+ - [Russian space director’s wild threats could have real implications for the ISS](https://www.theverge.com/2022/2/25/22950498/russia-nasa-international-space-station-dmitry-rogozin-roscosmos-ukraine-iss)
+ - [Deal: Get an unlocked Samsung Galaxy S22 Plus from just $99.99](https://www.androidauthority.com/samsung-galaxy-s22-deal-3120991/)
+ - [HBO Max: 20 of the Best Movies to Watch     - CNET](https://www.cnet.com/news/hbo-max-20-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
