@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today Ukraine, tomorrow every nation with shity neighbors.](http://9gag.com/gag/a11PnoR)
- - 🚯 [The largest measure to sanction Russia is being blocked by the German and Italian governments despite their people&#39;s willingness to make this sacrifice in the name of Western democratic values. Stand up and support the SWIFT ban, stand up and support Ukraine with real actions!](http://9gag.com/gag/aVxb8eP)
- - 🚯 [Saint Petersburg right now. Protest against the war in Ukraine](http://9gag.com/gag/aYrVZ3N)<!-- MEMES:END -->
+ - 🚖 [This is the current situation in Kyiv.](http://9gag.com/gag/awzZjq1)
+ - 🚯 [Everybody is getting the gang back together](http://9gag.com/gag/a61q6V8)
+ - 🚯 [Germany vetoing moves to block Russia from Swift](http://9gag.com/gag/a31Zr8Q)<!-- MEMES:END -->
 
 --- 
 
