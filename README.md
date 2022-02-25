@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco To PS5 Elden Ring Players: Don’t Trust Rest Mode ATM](https://kotaku.com/elden-ring-autosave-ps5-rest-mode-issues-bug-suspend-1848594939)
- - [The Steam Deck is my new favorite console](https://www.polygon.com/reviews/22949326/steam-deck-review-pc-gaming-portable)
- - [12 games I love on Steam Deck](https://www.polygon.com/best-games/22948034/steam-deck-best-games)<!-- GAME:END -->
+ - [Steam Deck needs a kickstand](https://www.polygon.com/22949465/steam-deck-kickstand-nintendo-switch)
+ - [Destiny 2 PSA: Stop what you&#39;re doing and buy this gun from Xur right now](https://www.pcgamer.com/destiny-2-psa-stop-what-youre-doing-and-buy-this-gun-from-xur-right-now)
+ - [Forget Wordle And Quordle, You Should Be Playing Octordle](https://kotaku.com/wordle-dordle-quordle-octordle-word-game-browser-puzzle-1848593721)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
