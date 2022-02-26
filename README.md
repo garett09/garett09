@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, Twitter restricted in Russia over fact-checking, ad blocks](https://appleinsider.com/articles/22/02/26/facebook-twitter-restricted-in-russia-over-fact-checking-ad-blocks?utm_medium=rss)
  - [Uber is testing a driver earnings algorithm in 24 US cities that incentivizes accepting short rides by showing drivers the pay and destination before a trip &lpar;Tina Bellon/Reuters&rpar;](http://www.techmeme.com/220226/p7#a220226p7)
- - [Some Russian bank customers have been cut off from Apple Pay and Google Pay](https://www.theverge.com/2022/2/26/22952191/russian-bank-customers-apple-pay-google-pay-financial-sanctions-ukraine)
- - [What is flash memory and how does it work? Everything you need to know](https://www.androidauthority.com/what-is-flash-memory-3107166/)<!-- TECH:END -->
+ - [Some Russian bank customers have been cut off from Apple Pay and Google Pay](https://www.theverge.com/2022/2/26/22952191/russian-bank-customers-apple-pay-google-pay-financial-sanctions-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
