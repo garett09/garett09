@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Gabe Newell, Valve president and co-founder, on the Steam Deck, the company&#39;s past and future hardware plans, consolidation in gaming, and more &lpar;James Archer/Rock, Paper, Shotgun&rpar;](http://www.techmeme.com/220226/p2#a220226p2)
- - [Meta prohibits Russian state media organizations from running ads or monetizing on its platform anywhere in the world &lpar;Reuters&rpar;](http://www.techmeme.com/220226/p1#a220226p1)
- - [Russia Invades Ukraine: Latest Updates as US Personally Sanctions Putin     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-us-personally-sanctions-putin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukrainian leader urges Tim Cook to block Russia from App Store](https://appleinsider.com/articles/22/02/25/ukrainian-leader-urges-tim-cook-to-block-russia-from-app-store?utm_medium=rss)
+ - [The Weekly Authority: Prelude to MWC 2022](https://www.androidauthority.com/weekly-authority-edition-183-3109062/)
+ - [Black Women Photographers on Getting Seen—and Hired](https://www.wired.com/story/black-women-photographers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
