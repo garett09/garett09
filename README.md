@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
- - 🚯 [A man from Mexico is insulted by a woman because he speaks Spanish in Ireland.](http://9gag.com/gag/aeg9Kmp)
+ - 🚖 [The world champion in boxing, the legend Vitali Klitschko and the Ukrainian mayor of Kiev decides to stay in his country to defend it until the last breath in his chest, while he could escape and live as a king in any other country](http://9gag.com/gag/ajgVbBw)
+ - 🚯 [Do it and do it now! I&#39;m from Germany and I don&#39;t give a f**k about Gas prices. People are dying!](http://9gag.com/gag/a0Z4AgZ)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
