@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Alaska, Beavers Are Engineering a New Tundra](https://www.wired.com/story/in-alaska-beavers-are-engineering-a-new-tundra)
- - [20 Essential Tools You Should Have at Home](https://www.wired.com/gallery/how-to-build-a-home-tool-kit)
- - [Best Cheap Home Security Cameras for 2022     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best thrillers and suspense movies on Hulu](https://www.androidauthority.com/best-thrillers-suspense-movies-hulu-3107268/)
+ - [The 7 Best Gaming Controller for Every Kind of Player](https://www.wired.com/gallery/best-game-controllers)
+ - [DDoS Attempts Hit Russia as Ukraine Conflict Intensifies](https://www.wired.com/story/russia-ukraine-ddos-nft-nsa-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
