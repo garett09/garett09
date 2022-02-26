@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ZELENSKYY: I&#39;LL REMAIN IN KYIV](http://9gag.com/gag/amgAEb9)
- - 🚯 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
+ - 🚖 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
+ - 🚯 [A man from Mexico is insulted by a woman because he speaks Spanish in Ireland.](http://9gag.com/gag/aeg9Kmp)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
