@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The world champion in boxing, the legend Vitali Klitschko and the Ukrainian mayor of Kiev decides to stay in his country to defend it until the last breath in his chest, while he could escape and live as a king in any other country](http://9gag.com/gag/ajgVbBw)
- - 🚯 [Do it and do it now! I&#39;m from Germany and I don&#39;t give a f**k about Gas prices. People are dying!](http://9gag.com/gag/a0Z4AgZ)
+ - 🚖 [Really?](http://9gag.com/gag/aM4VeEP)
+ - 🚯 [Well played.](http://9gag.com/gag/a314PwN)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
