@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because That&#39;s What Heroes Do](http://9gag.com/gag/a71oLjz)
- - 🚯 [A man from Mexico is insulted by a woman because he speaks Spanish in Ireland.](http://9gag.com/gag/aeg9Kmp)
+ - 🚖 [Bublichek99 &lpar;IG&rpar; or better known as Vlad Zadorin is one of the 13 people lost their lives on the snake island. This video posted two years ago on his Instagram. A video of him dancing and having fun with his unit.](http://9gag.com/gag/a314vbr)
+ - 🚯 [Kupyansk, Kharkov region High-tech, low life](http://9gag.com/gag/apgRq9E)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
