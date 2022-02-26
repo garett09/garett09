@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainian leader urges Tim Cook to block Russia from App Store](https://appleinsider.com/articles/22/02/25/ukrainian-leader-urges-tim-cook-to-block-russia-from-app-store?utm_medium=rss)
- - [The Weekly Authority: Prelude to MWC 2022](https://www.androidauthority.com/weekly-authority-edition-183-3109062/)
- - [Black Women Photographers on Getting Seen—and Hired](https://www.wired.com/story/black-women-photographers)<!-- TECH:END -->
+ - [In Alaska, Beavers Are Engineering a New Tundra](https://www.wired.com/story/in-alaska-beavers-are-engineering-a-new-tundra)
+ - [20 Essential Tools You Should Have at Home](https://www.wired.com/gallery/how-to-build-a-home-tool-kit)
+ - [Best Cheap Home Security Cameras for 2022     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
