@@ -197,7 +197,7 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ghost of Kyiv](http://9gag.com/gag/aE8qLx9)
+ - 🚖 [NATO is sure taking its sweet time](http://9gag.com/gag/aQXEYge)
  - 🚯 [Soon...](http://9gag.com/gag/aogKrrw)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
