@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Desperate Hour is a different kind of trapped-in-a-box thriller](https://www.polygon.com/reviews/22950567/the-desperate-hour-review-naomi-watts-thriller)
  - [Discord bans &#39;anti-vaccination content&#39; and &#39;misleading&#39; Covid-19 information](https://www.pcgamer.com/discord-bans-anti-vaccination-content-and-misleading-covid-19-information)
- - [Free Guy, The French Dispatch, and every new movie you can stream from home this week](https://www.polygon.com/what-to-watch/2022/2/25/22944327/new-movies-watch-free-guy-disney-plus-hbo-max-the-french-dispatch)
- - [Valve has no plans for a &#39;Steam Pass,&#39; but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam)<!-- GAME:END -->
+ - [Free Guy, The French Dispatch, and every new movie you can stream from home this week](https://www.polygon.com/what-to-watch/2022/2/25/22944327/new-movies-watch-free-guy-disney-plus-hbo-max-the-french-dispatch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
