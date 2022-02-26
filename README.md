@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shit just got real](http://9gag.com/gag/aM4VGnR)
- - 🚯 [So the ghost of kyiv was air india?!?!?](http://9gag.com/gag/aXrPpmd)
+ - 🚖 [Manchester United players hold up a `Peace` sign for their game, ask their rival team Watford to join as well](http://9gag.com/gag/abgA0qB)
+ - 🚯 [Shit just got real](http://9gag.com/gag/aM4VGnR)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
