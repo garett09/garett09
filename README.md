@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ indicts BitConnect founder Satish Kumbhani, who remains at large, alleging he and his co-conspirators obtained ~$2.4B from investors in a Ponzi scheme &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/220225/p31#a220225p31)
- - [Russia Invades Ukraine: Latest Updates as US Personally Sanctions Putin     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-us-personally-sanctions-putin/#ftag=CAD590a51e)
- - [Twitter temporarily pauses ads and its recommendations feature in Ukraine and Russia to minimize &quot;risks associated with the conflict&quot; and reduce misinformation &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220225/p30#a220225p30)<!-- TECH:END -->
+ - [In a report, Pangu Lab, a Chinese cybersecurity company, says the NSA is behind the Equation Group and Bvp47, a backdoor malware in use for the past ten years &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220225/p32#a220225p32)
+ - [Conti Ransomware Group Warns Retaliation if West Launches Cyberattack on Russia     - CNET](https://www.cnet.com/news/conti-ransomware-group-warns-retaliation-if-west-launches-cyberattack-on-russia/#ftag=CAD590a51e)
+ - [DOJ indicts BitConnect founder Satish Kumbhani, who remains at large, alleging he and his co-conspirators obtained ~$2.4B from investors in a Ponzi scheme &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/220225/p31#a220225p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
