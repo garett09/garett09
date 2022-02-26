@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Ghost Of Kyiv&#39; Fighter Pilot Blowing Up Russian Aircraft In Trending Clip Actually From Video Game](https://kotaku.com/ghost-kyiv-russia-ukraine-invasion-viral-video-fake-pc-1848598266)
- - [The 15 best movies leaving streaming at the end of February](https://www.polygon.com/what-to-watch/2022/2/26/22947632/best-movies-netflix-hulu-hbo-max-amazon-prime-video-leaving-february-2022)
- - [&#39;50% of transactions were fraudulent&#39; when Steam accepted Bitcoin for payments, says Gabe Newell](https://www.pcgamer.com/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell)<!-- GAME:END -->
+ - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)
+ - [A Ton Of Xbox Players Can&#39;t Play Elden Ring Online](https://kotaku.com/elden-ring-online-multiplayer-network-issues-xbox-dark-1848598390)
+ - [&#39;Ghost Of Kyiv&#39; Fighter Pilot Blowing Up Russian Aircraft In Trending Clip Actually From Video Game](https://kotaku.com/ghost-kyiv-russia-ukraine-invasion-viral-video-fake-pc-1848598266)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
