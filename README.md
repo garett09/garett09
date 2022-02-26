@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really?](http://9gag.com/gag/aM4VeEP)
- - 🚯 [Well played.](http://9gag.com/gag/a314PwN)
+ - 🚖 [Putin forges a new partnership amid economic downturn](http://9gag.com/gag/axBydPD)
+ - 🚯 [Pray for kiev. bad night](http://9gag.com/gag/aWg4B3Z)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
