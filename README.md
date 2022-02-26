@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sounds in Kyiv right now](http://9gag.com/gag/aze264j)
- - 🚯 [I have to give it to him, one bad ass mother f**king president.](http://9gag.com/gag/abgA3e8)
+ - 🚖 [ZELENSKYY: I&#39;LL REMAIN IN KYIV](http://9gag.com/gag/amgAEb9)
+ - 🚯 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
