@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Material You’s unicolor themes are doomed to fail](https://www.androidauthority.com/google-material-you-unicolor-themes-3113986/)
- - [Philips’s color-changing Gradient Lightstrip has dropped to an all-time low at Amazon](https://www.theverge.com/good-deals/2022/2/26/22950697/philips-hue-lightstrip-roku-express-streaming-stick-4k-logitech-webcam-apple-watch-charger-deal-sale)
- - [Apple one of &#39;Four Giants&#39; in Berkshire Hathaway&#39;s investment portfolio](https://appleinsider.com/articles/22/02/26/apple-one-of-four-giants-in-berkshire-hathaways-investment-portfolio?utm_medium=rss)<!-- TECH:END -->
+ - [Russia says Apple, TikTok, and Spotify complied with a law requiring local presence; Google took steps to comply; Meta and Twitter complied with some parts &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/220226/p4#a220226p4)
+ - [Super Pumped is a bumpy Uber ride that gets lost on its way to being interesting](https://www.theverge.com/2022/2/26/22951082/super-pumped-review-uber-showtime-series)
+ - [Facebook blocks Russian state media from advertising on the platform](https://www.theverge.com/2022/2/26/22952038/facebook-russian-state-media-blocked-advertising-monetization-ukraine-conflict)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
