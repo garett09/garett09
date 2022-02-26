@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 improvements smart home tech really needs to thrive](https://www.androidauthority.com/smart-home-tech-improvements-3114400/)
- - [Hyper Media USB-C Hub review: Ports and physical playback controls arrive on iPad](https://appleinsider.com/articles/22/02/26/hyper-media-usb-c-hub-review-ports-and-physical-playback-controls-arrive-on-ipad?utm_medium=rss)
- - [How to blur your background in FaceTime calls](https://appleinsider.com/articles/22/01/03/how-to-blur-your-background-in-facetime-calls?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube bans ads on RT and other Russian channels](https://www.theverge.com/2022/2/26/22952439/youtube-bans-ads-rt-russia-channels-google-ukraine)
+ - [Netflix: The 41 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/news/netflix-41-of-the-absolute-best-movies-to-stream-tonight/#ftag=CAD590a51e)
+ - [Netflix: The 46 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
