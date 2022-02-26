@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [President Zelensky&#39;s patriotism, leadership, and courage will never be forgotten by the world](http://9gag.com/gag/a817LNe)
- - 🚯 [NLAW aka St. Javelin in action. NLAW delivered by Great Britain / NATO.](http://9gag.com/gag/aRrBVwA)
+ - 🚖 [Finally! Its not much, but I hope our government will even do more.](http://9gag.com/gag/ajgPnex)
+ - 🚯 [Stag &lpar;hunting&rpar; party?](http://9gag.com/gag/aeg9pgO)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
