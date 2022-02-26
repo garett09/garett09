@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/a61ZwMm)
- - 🚯 [Civilians in Kiev after President Zelensky called for volunteers to take up arms to help defend the capital](http://9gag.com/gag/aVxvzjv)
+ - 🚖 [I\u2018m ashamed being german.](http://9gag.com/gag/aKmGzQ3)
+ - 🚯 [Polish-Ukrainian border. A Polish soldier carries a tired Ukrainian child. Let it be a symbol of our powerless help.](http://9gag.com/gag/aKmGzWj)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
