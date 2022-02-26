@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Manchester United players hold up a `Peace` sign for their game, ask their rival team Watford to join as well](http://9gag.com/gag/abgA0qB)
- - 🚯 [Shit just got real](http://9gag.com/gag/aM4VGnR)
- - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
+ - 🚖 [Cowabunga it is](http://9gag.com/gag/a817py1)
+ - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)
+ - 🚯 [South Ukraine, ex-mayor Andriy Stulin put up paint marks for Russian aircraft. He was caught by ordinary people.](http://9gag.com/gag/amgo9r4)<!-- MEMES:END -->
 
 --- 
 
