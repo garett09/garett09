@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter shared on Twitter, Ukraine&#39;s vice prime minister requested Tim Cook halt Apple&#39;s product sales and shut down its App Store in Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/220225/p28#a220225p28)
- - [AT&amp;T begins testing and deployment of discreet 5G radios on city street lamp posts](https://www.theverge.com/2022/2/25/22951088/att-testing-5g-small-cell-radios-street-lights)
- - [Zendesk abandons its $4.1B plan to acquire Momentive, which owns SurveyMonkey, after Zendesk stockholders rejected the deal &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220225/p27#a220225p27)<!-- TECH:END -->
+ - [Nearly half of all startups with less than $10M in annual revenue that went public via SPACs in 2021, mostly in tech, missed earnings and revenue targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220225/p29#a220225p29)
+ - [Risks to Ukraine&#39;s Nuclear Power Plants Are Small—but Not Zero](https://www.wired.com/story/risks-to-ukraines-nuclear-power-plants-are-small-but-not-zero)
+ - [Mobile World Congress organizers will ban some Russian firms from the show](https://www.theverge.com/2022/2/25/22951426/mobile-world-congress-organizers-ban-russian-pavillion-ukraine-invasion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
