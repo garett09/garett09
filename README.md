@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia says Apple, TikTok, and Spotify complied with a law requiring local presence; Google took steps to comply; Meta and Twitter complied with some parts &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/220226/p4#a220226p4)
- - [Super Pumped is a bumpy Uber ride that gets lost on its way to being interesting](https://www.theverge.com/2022/2/26/22951082/super-pumped-review-uber-showtime-series)
- - [Facebook blocks Russian state media from advertising on the platform](https://www.theverge.com/2022/2/26/22952038/facebook-russian-state-media-blocked-advertising-monetization-ukraine-conflict)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-421-3119169/)
+ - [Russia blocks Twitter as Ukraine invasion escalates](https://www.theverge.com/2022/2/26/22952006/russia-block-twitter-ukraine-invasion-censorship-putin)
+ - [Twitter pauses ads in Ukraine and Russia amid growing conflict](https://www.theverge.com/2022/2/26/22952128/twitter-pauses-ads-ukraine-russia-conflict)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
