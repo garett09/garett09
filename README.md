@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stag &lpar;hunting&rpar; party?](http://9gag.com/gag/aeg9pgO)
- - 🚯 [To our Ukrainian brothers, please avoid all risks to your well being](http://9gag.com/gag/a11mYx6)
+ - 🚖 [Do what is right](http://9gag.com/gag/aggmvgW)
+ - 🚯 [South Ukraine, ex-mayor Andriy Stulin put up paint marks for Russian aircraft. He was caught by ordinary people.](http://9gag.com/gag/amgo9r4)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
