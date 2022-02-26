@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Tour: Johto Special Research, Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/22951046/tour-johto-special-masterwork-research-tasks-rewards-apex-shadow-lugia-ho-oh)
- - [The Desperate Hour is a different kind of trapped-in-a-box thriller](https://www.polygon.com/reviews/22950567/the-desperate-hour-review-naomi-watts-thriller)
- - [Discord bans &#39;anti-vaccination content&#39; and &#39;misleading&#39; Covid-19 information](https://www.pcgamer.com/discord-bans-anti-vaccination-content-and-misleading-covid-19-information)<!-- GAME:END -->
+ - [Netflix’s Vikings: Valhalla hacks through new history, but familiar territory](https://www.polygon.com/reviews/22951268/netflix-vikings-valhalla-review)
+ - [How to get Horizon Forbidden West’s Diving Mask](https://www.polygon.com/22949807/horizon-forbidden-west-how-to-breath-underwater-diving-mask)
+ - [How Jackbox Games selects the perfect titles for a brand new Party Pack](https://www.polygon.com/22951224/jackbox-games-party-pack-selection-process-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
