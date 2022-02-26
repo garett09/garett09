@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter temporarily pauses ads and its recommendations feature in Ukraine and Russia to minimize &quot;risks associated with the conflict&quot; and reduce misinformation &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220225/p30#a220225p30)
  - [Nearly half of all startups with less than $10M in annual revenue that went public via SPACs in 2021, mostly in tech, missed earnings and revenue targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220225/p29#a220225p29)
- - [Risks to Ukraine&#39;s Nuclear Power Plants Are Small—but Not Zero](https://www.wired.com/story/risks-to-ukraines-nuclear-power-plants-are-small-but-not-zero)
- - [Mobile World Congress organizers will ban some Russian firms from the show](https://www.theverge.com/2022/2/25/22951426/mobile-world-congress-organizers-ban-russian-pavillion-ukraine-invasion)<!-- TECH:END -->
+ - [Toyota Offers BZ4X Buyers a Year of Free EVGo Fast Charging     - Roadshow](https://www.cnet.com/roadshow/news/toyota-bz4x-buyers-free-year-of-fast-charging-evgo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
