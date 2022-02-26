@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do what is right](http://9gag.com/gag/aggmvgW)
- - 🚯 [South Ukraine, ex-mayor Andriy Stulin put up paint marks for Russian aircraft. He was caught by ordinary people.](http://9gag.com/gag/amgo9r4)
+ - 🚖 [Shit just got real](http://9gag.com/gag/aM4VGnR)
+ - 🚯 [So the ghost of kyiv was air india?!?!?](http://9gag.com/gag/aXrPpmd)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
