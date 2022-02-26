@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Gabe Newell, Valve president and co-founder, on the Steam Deck, the company&#39;s past and future hardware plans, consolidation in gaming, and more &lpar;James Archer/Rock, Paper, Shotgun&rpar;](http://www.techmeme.com/220226/p2#a220226p2)
  - [Meta prohibits Russian state media organizations from running ads or monetizing on its platform anywhere in the world &lpar;Reuters&rpar;](http://www.techmeme.com/220226/p1#a220226p1)
- - [Russia Invades Ukraine: Latest Updates as US Personally Sanctions Putin     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-us-personally-sanctions-putin/#ftag=CAD590a51e)
- - [HBO Max: The 28 Best TV Shows to Watch     - CNET](https://www.cnet.com/news/hbo-max-the-28-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia Invades Ukraine: Latest Updates as US Personally Sanctions Putin     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-us-personally-sanctions-putin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
