@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia blocks Twitter as Ukraine invasion escalates](https://www.theverge.com/2022/2/26/22952006/russia-block-twitter-ukraine-invasion-censorship-putin)
- - [Experts say Russia may not be able to evade sanctions using cryptocurrencies, which have become a regulated business with safeguards against money laundering &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220226/p6#a220226p6)
- - [iStorage DatAshur SD review: secure, expandable storage designed to keep your data safe anywhere](https://appleinsider.com/articles/22/02/26/istorage-datashur-sd-review-secure-expandable-storage-designed-to-keep-your-data-safe-anywhere?utm_medium=rss)<!-- TECH:END -->
+ - [Uber is testing a driver earnings algorithm in 24 US cities that incentivizes accepting short rides by showing drivers the pay and destination before a trip &lpar;Tina Bellon/Reuters&rpar;](http://www.techmeme.com/220226/p7#a220226p7)
+ - [Some Russian bank customers have been cut off from Apple Pay and Google Pay](https://www.theverge.com/2022/2/26/22952191/russian-bank-customers-apple-pay-google-pay-financial-sanctions-ukraine)
+ - [What is flash memory and how does it work? Everything you need to know](https://www.androidauthority.com/what-is-flash-memory-3107166/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
