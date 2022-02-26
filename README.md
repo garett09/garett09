@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-421-3119169/)
  - [Russia blocks Twitter as Ukraine invasion escalates](https://www.theverge.com/2022/2/26/22952006/russia-block-twitter-ukraine-invasion-censorship-putin)
- - [Twitter pauses ads in Ukraine and Russia amid growing conflict](https://www.theverge.com/2022/2/26/22952128/twitter-pauses-ads-ukraine-russia-conflict)<!-- TECH:END -->
+ - [Experts say Russia may not be able to evade sanctions using cryptocurrencies, which have become a regulated business with safeguards against money laundering &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220226/p6#a220226p6)
+ - [iStorage DatAshur SD review: secure, expandable storage designed to keep your data safe anywhere](https://appleinsider.com/articles/22/02/26/istorage-datashur-sd-review-secure-expandable-storage-designed-to-keep-your-data-safe-anywhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
