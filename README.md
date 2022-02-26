@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putin forges a new partnership amid economic downturn](http://9gag.com/gag/axBydPD)
- - 🚯 [Pray for kiev. bad night](http://9gag.com/gag/aWg4B3Z)
+ - 🚖 [I have to give it to him, one bad ass mother f**king president.](http://9gag.com/gag/abgA3e8)
+ - 🚯 [A man from Mexico is insulted by a woman because he speaks Spanish in Ireland.](http://9gag.com/gag/aeg9Kmp)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
