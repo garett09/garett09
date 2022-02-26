@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally! Its not much, but I hope our government will even do more.](http://9gag.com/gag/ajgPnex)
- - 🚯 [Stag &lpar;hunting&rpar; party?](http://9gag.com/gag/aeg9pgO)
+ - 🚖 [Stag &lpar;hunting&rpar; party?](http://9gag.com/gag/aeg9pgO)
+ - 🚯 [To our Ukrainian brothers, please avoid all risks to your well being](http://9gag.com/gag/a11mYx6)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
