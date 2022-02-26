@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`You don&#39;t get your own pronouns` BOOM!](http://9gag.com/gag/aggm0M6)
- - 🚯 [Polish PM in Berlin: I came here to shake the conscience of Germany](http://9gag.com/gag/aqGyZ0L)
+ - 🚖 [Russian ministry of defence said there wasn&#39;t losses from russian side. wtf, am i still living in ussr?](http://9gag.com/gag/ay9N0Ny)
+ - 🚯 [Polish PM on special meeting in Berlin with German Chancellor - `What help are 5000 helmets?` and then in German: `That&#39;s a joke, that must be a joke`.](http://9gag.com/gag/aqGyN8L)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
