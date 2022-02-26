@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Twitter restricted in Russia over fact-checking, ad blocks](https://appleinsider.com/articles/22/02/26/facebook-twitter-restricted-in-russia-over-fact-checking-ad-blocks?utm_medium=rss)
- - [Uber is testing a driver earnings algorithm in 24 US cities that incentivizes accepting short rides by showing drivers the pay and destination before a trip &lpar;Tina Bellon/Reuters&rpar;](http://www.techmeme.com/220226/p7#a220226p7)
- - [Some Russian bank customers have been cut off from Apple Pay and Google Pay](https://www.theverge.com/2022/2/26/22952191/russian-bank-customers-apple-pay-google-pay-financial-sanctions-ukraine)<!-- TECH:END -->
+ - [7 improvements smart home tech really needs to thrive](https://www.androidauthority.com/smart-home-tech-improvements-3114400/)
+ - [Hyper Media USB-C Hub review: Ports and physical playback controls arrive on iPad](https://appleinsider.com/articles/22/02/26/hyper-media-usb-c-hub-review-ports-and-physical-playback-controls-arrive-on-ipad?utm_medium=rss)
+ - [How to blur your background in FaceTime calls](https://appleinsider.com/articles/22/01/03/how-to-blur-your-background-in-facetime-calls?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
