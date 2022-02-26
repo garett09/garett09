@@ -198,7 +198,7 @@ Windows                  7 hrs 53 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hehe](http://9gag.com/gag/a61ZwMm)
- - 🚯 [Kyiv apartment building got hit by missile.](http://9gag.com/gag/aM4V11A)
+ - 🚯 [Civilians in Kiev after President Zelensky called for volunteers to take up arms to help defend the capital](http://9gag.com/gag/aVxvzjv)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
