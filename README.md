@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Won&#39;t Allow Super Smash Bros. At Evo 2022](https://kotaku.com/smash-bros-ultimate-melee-nintendo-switch-evo-2022-sony-1848598680)
  - [Call Of Duty Execs Accused Of Using Microsoft Deal To Line Their Own Pockets](https://kotaku.com/call-duty-warzone-activision-blizzard-microsoft-lawsuit-1848598557)
- - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)
- - [A Ton Of Xbox Players Can&#39;t Play Elden Ring Online](https://kotaku.com/elden-ring-online-multiplayer-network-issues-xbox-dark-1848598390)<!-- GAME:END -->
+ - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
