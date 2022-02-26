@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best thrillers and suspense movies on Hulu](https://www.androidauthority.com/best-thrillers-suspense-movies-hulu-3107268/)
- - [The 7 Best Gaming Controller for Every Kind of Player](https://www.wired.com/gallery/best-game-controllers)
- - [DDoS Attempts Hit Russia as Ukraine Conflict Intensifies](https://www.wired.com/story/russia-ukraine-ddos-nft-nsa-security-news)<!-- TECH:END -->
+ - [Material You’s unicolor themes are doomed to fail](https://www.androidauthority.com/google-material-you-unicolor-themes-3113986/)
+ - [Philips’s color-changing Gradient Lightstrip has dropped to an all-time low at Amazon](https://www.theverge.com/good-deals/2022/2/26/22950697/philips-hue-lightstrip-roku-express-streaming-stick-4k-logitech-webcam-apple-watch-charger-deal-sale)
+ - [Apple one of &#39;Four Giants&#39; in Berkshire Hathaway&#39;s investment portfolio](https://appleinsider.com/articles/22/02/26/apple-one-of-four-giants-in-berkshire-hathaways-investment-portfolio?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
