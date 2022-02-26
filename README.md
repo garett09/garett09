@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13 Heroes of Snake Island](http://9gag.com/gag/ajgVzzp)
- - 🚯 [You\u2019re f**king threatening us\u2026.? We will sink you\u2026](http://9gag.com/gag/aqGev97)
+ - 🚖 [Soon...](http://9gag.com/gag/aogKrrw)
+ - 🚯 [Balls of steel](http://9gag.com/gag/apg9W3B)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
