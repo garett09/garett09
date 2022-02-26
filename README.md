@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Won&#39;t Allow Super Smash Bros. At Evo 2022](https://kotaku.com/smash-bros-ultimate-melee-nintendo-switch-evo-2022-sony-1848598680)
- - [Call Of Duty Execs Accused Of Using Microsoft Deal To Line Their Own Pockets](https://kotaku.com/call-duty-warzone-activision-blizzard-microsoft-lawsuit-1848598557)
- - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)<!-- GAME:END -->
+ - [Ransomware group claiming responsibility for Nvidia attack is hacked in turn](https://www.pcgamer.com/ransomware-group-claiming-responsibility-for-nvidia-attack-is-hacked-in-turn)
+ - [Valve Open To Having Game Pass Come To Steam](https://kotaku.com/xbox-game-pass-steam-valve-gabe-newell-pc-gaming-deck-s-1848598788)
+ - [New-and-improved Witcher 3 first-person mod includes full combat functionality](https://www.pcgamer.com/new-and-improved-witcher-3-first-person-mod-includes-full-combat-functionality)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
