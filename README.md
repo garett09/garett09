@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2018m ashamed being german.](http://9gag.com/gag/aKmGzQ3)
- - 🚯 [Polish-Ukrainian border. A Polish soldier carries a tired Ukrainian child. Let it be a symbol of our powerless help.](http://9gag.com/gag/aKmGzWj)
- - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
+ - 🚖 [`You don&#39;t get your own pronouns` BOOM!](http://9gag.com/gag/aggm0M6)
+ - 🚯 [Polish PM in Berlin: I came here to shake the conscience of Germany](http://9gag.com/gag/aqGyZ0L)
+ - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
 
