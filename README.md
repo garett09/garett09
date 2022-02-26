@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NATO is sure taking its sweet time](http://9gag.com/gag/aQXEYge)
- - 🚯 [Soon...](http://9gag.com/gag/aogKrrw)
+ - 🚖 [The sounds in Kyiv right now](http://9gag.com/gag/aze264j)
+ - 🚯 [I have to give it to him, one bad ass mother f**king president.](http://9gag.com/gag/abgA3e8)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
