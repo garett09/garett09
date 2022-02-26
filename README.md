@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube bans ads on RT and other Russian channels](https://www.theverge.com/2022/2/26/22952439/youtube-bans-ads-rt-russia-channels-google-ukraine)
- - [Netflix: The 41 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/news/netflix-41-of-the-absolute-best-movies-to-stream-tonight/#ftag=CAD590a51e)
- - [Netflix: The 46 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US, EU, UK, and Canada agree to cut off a &quot;certain number of Russian banks&quot; from the SWIFT international payments system &lpar;Jennifer Koons/Axios&rpar;](http://www.techmeme.com/220226/p11#a220226p11)
+ - [Crypto became a viable option for transactions in Ukraine, where Tether is popular, after digital cash transfers were suspended and cash withdrawals limited &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/220226/p10#a220226p10)
+ - [YouTube bans ads on RT and other Russian channels](https://www.theverge.com/2022/2/26/22952439/youtube-bans-ads-rt-russia-channels-google-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
