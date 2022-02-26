@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bublichek99 &lpar;IG&rpar; or better known as Vlad Zadorin is one of the 13 people lost their lives on the snake island. This video posted two years ago on his Instagram. A video of him dancing and having fun with his unit.](http://9gag.com/gag/a314vbr)
- - 🚯 [Kupyansk, Kharkov region High-tech, low life](http://9gag.com/gag/apgRq9E)
+ - 🚖 [Hehe](http://9gag.com/gag/a61ZwMm)
+ - 🚯 [Kyiv apartment building got hit by missile.](http://9gag.com/gag/aM4V11A)
  - 🚯 [Shut up and give me the turtles!](http://9gag.com/gag/aE8q3z9)<!-- MEMES:END -->
 
 --- 
