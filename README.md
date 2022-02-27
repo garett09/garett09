@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Strength or Dexterity?](https://www.pcgamer.com/strength-or-dexterity)
  - [Ransomware group claiming responsibility for Nvidia attack is hacked in turn](https://www.pcgamer.com/ransomware-group-claiming-responsibility-for-nvidia-attack-is-hacked-in-turn)
- - [Valve Open To Having Game Pass Come To Steam](https://kotaku.com/xbox-game-pass-steam-valve-gabe-newell-pc-gaming-deck-s-1848598788)
- - [New-and-improved Witcher 3 first-person mod includes full combat functionality](https://www.pcgamer.com/new-and-improved-witcher-3-first-person-mod-includes-full-combat-functionality)<!-- GAME:END -->
+ - [Valve Open To Having Game Pass Come To Steam](https://kotaku.com/xbox-game-pass-steam-valve-gabe-newell-pc-gaming-deck-s-1848598788)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
