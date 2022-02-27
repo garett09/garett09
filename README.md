@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new convertible laptop can last 21 hours on a charge](https://www.androidauthority.com/samsung-galaxy-book-2-series-3117533/)
- - [Samsung updates its Galaxy Book Pro line with 1080p webcams](https://www.theverge.com/2022/2/27/22950976/samsung-galaxy-book2-pro-360-price-features-ports-specs-intel-evo)
- - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung updates its Galaxy Book Pro laptops with 1080p webcams, Intel 12th Gen CPUs, and brighter AMOLED displays, starting at $1,050 and shipping on April 1 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220227/p7#a220227p7)
+ - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)
+ - [EU closes airspace to Russian aircraft and blocks state-backed media](https://www.theverge.com/2022/2/27/22953563/eu-ban-russia-aircraft-state-backed-media-ukraine-sanctions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
