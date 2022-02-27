@@ -198,8 +198,8 @@ Windows                  7 hrs 53 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [`We are not targeting civilians or infrastructure`](http://9gag.com/gag/ay9NX9W)
- - 🚯 [YEEEESSSSSSSSSSS!!!!!!!!](http://9gag.com/gag/aogy5W2)
- - 🚯 [Germany is with you!](http://9gag.com/gag/axByzV2)<!-- MEMES:END -->
+ - 🚯 [Germany is with you!](http://9gag.com/gag/axByzV2)
+ - 🚯 [Take rest from all the war posts and check out my wood, it aint much but its honest work](http://9gag.com/gag/aNPDY9v)<!-- MEMES:END -->
 
 --- 
 
