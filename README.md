@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/a61ZVeN)
- - 🚯 [No one cares anymore](http://9gag.com/gag/arny5O5)
+ - 🚖 [Ukrainian soldier calmly fires multiple RPG rounds after coming under fire in Kharkov](http://9gag.com/gag/aDD2x2x)
+ - 🚯 [Fuc kwar](http://9gag.com/gag/aBny852)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
