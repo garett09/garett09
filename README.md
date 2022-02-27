@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More lost soldiers?](http://9gag.com/gag/aDD2jvK)
- - 🚯 [Finally! Its not much, but I hope our government will even do more.](http://9gag.com/gag/ajgPnex)
+ - 🚖 [What a legend](http://9gag.com/gag/aVxvDZM)
+ - 🚯 [Shit just got real](http://9gag.com/gag/aM4VGnR)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
