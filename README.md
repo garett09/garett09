@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another ww3 meme](http://9gag.com/gag/a0ZeNyd)
- - 🚯 [Sweden sends 5000 anti tank rounds, 5000 body armor, 5000 helmets ans 140k food rations, over 1.4b billion SEK. First time since 1939 when Finland received it.](http://9gag.com/gag/aBny2xP)
- - 🚯 [There you go. The thing everybody awaits and fears.](http://9gag.com/gag/azex1OK)<!-- MEMES:END -->
+ - 🚖 [Sweden sends 5000 anti tank rounds, 5000 body armor, 5000 helmets ans 140k food rations, over 1.4b billion SEK. First time since 1939 when Finland received it.](http://9gag.com/gag/aBny2xP)
+ - 🚯 [There you go. The thing everybody awaits and fears.](http://9gag.com/gag/azex1OK)
+ - 🚯 [-God wont give u more than you can carry... God: Testing testing...](http://9gag.com/gag/awzyzY4)<!-- MEMES:END -->
 
 --- 
 
