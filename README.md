@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`We are not targeting civilians or infrastructure`](http://9gag.com/gag/ay9NX9W)
- - 🚯 [Germany is with you!](http://9gag.com/gag/axByzV2)
+ - 🚖 [True bravery](http://9gag.com/gag/a8175ve)
+ - 🚯 [\u0411\u043b\u044f\u0442...](http://9gag.com/gag/a0ZeNLL)
  - 🚯 [Take rest from all the war posts and check out my wood, it aint much but its honest work](http://9gag.com/gag/aNPDY9v)<!-- MEMES:END -->
 
 --- 
