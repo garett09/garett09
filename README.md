@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts: Ukraine conflict could accelerate the fracturing of internet, amid pressure on US tech giants from both Russia and the West to respond to the conflict &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220227/p1#a220227p1)
  - [In a viral tweet, Elon Musk says SpaceX&#39;s Starlink internet is now active in Ukraine with &quot;more terminals en route&quot;, but it&#39;s unclear when or how many &lpar;Jason Koebler/VICE&rpar;](http://www.techmeme.com/220226/p14#a220226p14)
- - [How tech companies based in Kyiv, including Grammarly, Readdle, and MacPaw, are dealing with Russia&#39;s invasion of Ukraine &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/220226/p13#a220226p13)
- - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How tech companies based in Kyiv, including Grammarly, Readdle, and MacPaw, are dealing with Russia&#39;s invasion of Ukraine &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/220226/p13#a220226p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
