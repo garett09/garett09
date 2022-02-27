@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No one cares anymore](http://9gag.com/gag/arny5O5)
- - 🚯 [A Man &amp; His Car](http://9gag.com/gag/adgBXPD)
+ - 🚖 [More lost soldiers?](http://9gag.com/gag/aDD2jvK)
+ - 🚯 [Why??](http://9gag.com/gag/aqGybYL)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
