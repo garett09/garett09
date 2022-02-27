@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes...The German War machine is now awake. The sleeper has awakened. Here we go again.](http://9gag.com/gag/ang79qn)
- - 🚯 [There you go. The thing everybody awaits and fears.](http://9gag.com/gag/azex1OK)
- - 🚯 [OnlyFans joins the war xD](http://9gag.com/gag/a41P7md)<!-- MEMES:END -->
+ - 🚖 [`We are not targeting civilians or infrastructure`](http://9gag.com/gag/ay9NX9W)
+ - 🚯 [YEEEESSSSSSSSSSS!!!!!!!!](http://9gag.com/gag/aogy5W2)
+ - 🚯 [Germany is with you!](http://9gag.com/gag/axByzV2)<!-- MEMES:END -->
 
 --- 
 
