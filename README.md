@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why??](http://9gag.com/gag/aqGybYL)
- - 🚯 [Please tell me I&#39;m not the only dumbass here](http://9gag.com/gag/abgA6A8)
+ - 🚖 [Please tell me I&#39;m not the only dumbass here](http://9gag.com/gag/abgA6A8)
+ - 🚯 [President Zelensklyy with his family. This is a man who knows what he&#39;s fighting for.](http://9gag.com/gag/a61ZbR8)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
