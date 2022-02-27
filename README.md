@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian soldier and her cat](http://9gag.com/gag/aqGybmL)
- - 🚯 [President Zelensklyy with his family. This is a man who knows what he&#39;s fighting for.](http://9gag.com/gag/a61ZbR8)
+ - 🚖 [No one cares anymore](http://9gag.com/gag/arny5O5)
+ - 🚯 [A Man &amp; His Car](http://9gag.com/gag/adgBXPD)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
