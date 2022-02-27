@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hopefully the rumors about the destruction of the awesome Antonov An-225 Mriya are not truth](http://9gag.com/gag/a0Ze77O)
- - 🚯 [Say what you wish about NATO, but they never threaten with this](http://9gag.com/gag/ang75Q5)
- - 🚯 [Soon we are back](http://9gag.com/gag/a91y1jD)<!-- MEMES:END -->
+ - 🚖 [Release the gypsies!](http://9gag.com/gag/aXrPr46)
+ - 🚯 [Hopefully the rumors about the destruction of the awesome Antonov An-225 Mriya are not truth](http://9gag.com/gag/a0Ze77O)
+ - 🚯 [Just another ww3 meme](http://9gag.com/gag/a0ZeNyd)<!-- MEMES:END -->
 
 --- 
 
