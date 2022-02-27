@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which Garmin Watch Is Best for You?](https://www.wired.com/gallery/best-garmin-watch)
- - [Killing Eve rights itself and makes Eve the star again](https://www.theverge.com/2022/2/27/22951447/killing-eve-sandra-oh-final-season)
- - [Daily deals Feb. 27: $80 Klipsch Speakers, $70 Razer BlackWidow Keyboard, $100 off 2TB XPG M.2 2280 SSD](https://appleinsider.com/articles/22/02/27/daily-deals-feb-27-80-klipsch-speakers-70-razer-blackwidow-keyboard-100-off-2tb-xpg-m2-2280-ssd?utm_medium=rss)<!-- TECH:END -->
+ - [Fresh out of the box: 10 ways to make your new Samsung Galaxy S22 better](https://www.androidauthority.com/samsung-galaxy-s22-tips-3113881/)
+ - [Chinese phone brands are carrying the torch for Europe’s biggest mobile show](https://www.theverge.com/2022/2/27/22950422/mwc-mobile-world-congress-2022-chinese-phone-brands-honor-oppo-huawei-tcl-poco)
+ - [Foldable 20-inch iPad-MacBook hybrid could rely on touchscreen keyboard](https://appleinsider.com/articles/22/02/27/foldable-20-inch-ipad-macbook-hybrid-could-rely-on-touchscreen-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
