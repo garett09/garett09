@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cowabunga it is](http://9gag.com/gag/a817py1)
- - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)
- - 🚯 [South Ukraine, ex-mayor Andriy Stulin put up paint marks for Russian aircraft. He was caught by ordinary people.](http://9gag.com/gag/amgo9r4)<!-- MEMES:END -->
+ - 🚖 [More lost soldiers?](http://9gag.com/gag/aDD2jvK)
+ - 🚯 [Finally! Its not much, but I hope our government will even do more.](http://9gag.com/gag/ajgPnex)
+ - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
 
