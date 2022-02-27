@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus gets ‘Daybreak’ update](https://www.polygon.com/pokemon/22953428/pokemon-legends-arceus-gets-daybreak-update-free-pokeballs)
- - [Pokémon Scarlet And Violet Announced, Here Are The New Starters](https://kotaku.com/pokemon-scarlet-and-violet-announced-here-are-the-new-1848599518)
- - [Pokémon’s next games are Pokémon Scarlet and Violet, new starters revealed](https://www.polygon.com/22950896/pokemon-gen-9-announcement-scarlet-violet-new-starters)<!-- GAME:END -->
+ - [Euphoria has turned the internet into one wild watch party](https://www.polygon.com/22950817/euphoria-recaps-memes-social-media-internet-watch-party)
+ - [Pokémon Gen 9 and all the news from Pokémon Day](https://www.polygon.com/pokemon/22953475/pokemon-gen-9-announced-pokemon-day-2022-pokemon-scarlet-violet-arceus-update)
+ - [Pokémon Legends: Arceus’ Hisui region is getting an online anime series](https://www.polygon.com/22953420/pokemon-anime-legends-arceus-hisui-region)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
