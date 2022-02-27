@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)
  - [&#39;iPhone 14 Pro&#39; hole-punch and pill could be bigger than first thought](https://appleinsider.com/articles/22/02/26/iphone-14-pro-hole-punch-and-pill-could-be-bigger-than-first-thought?utm_medium=rss)
- - [Russia suspends Soyuz rocket launches over European sanctions](https://www.theverge.com/2022/2/26/22952535/russia-suspends-soyuz-rocket-launches-european-sanctions-ukraine-conflict)
- - [Nvidia confirms it’s investigating an ‘incident,’ reportedly a cyberattack](https://www.theverge.com/2022/2/25/22951376/nvidia-incident-alleged-cyberattack-february-2022)<!-- TECH:END -->
+ - [Russia suspends Soyuz rocket launches over European sanctions](https://www.theverge.com/2022/2/26/22952535/russia-suspends-soyuz-rocket-launches-european-sanctions-ukraine-conflict)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
