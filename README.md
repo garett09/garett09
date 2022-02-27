@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon fans joke Quaxly is actually Donald Duck](https://www.polygon.com/pokemon/22953487/pokemon-gen-9-starters-donald-duck-quaxly)
- - [Pokémon Presents: All The Big News You Need To Know](https://kotaku.com/pokemon-presents-violet-scarlet-go-alola-arceus-switch-1848599670)
- - [Euphoria has turned the internet into one wild watch party](https://www.polygon.com/22950817/euphoria-recaps-memes-social-media-internet-watch-party)<!-- GAME:END -->
+ - [What We Know About Pokémon Scarlet And Violet&#39;s Starters](https://kotaku.com/pokemon-scarlet-violet-starters-sprigatito-fuecoco-quax-1848599795)
+ - [Total War: Warhammer 3 data miners find voice file for Chaos Dwarfs](https://www.pcgamer.com/total-war-warhammer-3-data-miners-find-voice-files-for-chaos-dwarfs)
+ - [Pokémon fans joke Quaxly is actually Donald Duck](https://www.polygon.com/pokemon/22953487/pokemon-gen-9-starters-donald-duck-quaxly)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
