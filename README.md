@@ -197,7 +197,7 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russians soldiers in my city, Kharkiv, Ukraine.](http://9gag.com/gag/a8178vQ)
+ - 🚖 [A leader](http://9gag.com/gag/a11mKmG)
  - 🚯 [They f**ked our lives](http://9gag.com/gag/aqGy7dZ)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
