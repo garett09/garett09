@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, EU, UK, and Canada agree to cut off a &quot;certain number of Russian banks&quot; from the SWIFT international payments system &lpar;Jennifer Koons/Axios&rpar;](http://www.techmeme.com/220226/p11#a220226p11)
- - [Crypto became a viable option for transactions in Ukraine, where Tether is popular, after digital cash transfers were suspended and cash withdrawals limited &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/220226/p10#a220226p10)
- - [YouTube bans ads on RT and other Russian channels](https://www.theverge.com/2022/2/26/22952439/youtube-bans-ads-rt-russia-channels-google-ukraine)<!-- TECH:END -->
+ - [&#39;iPhone 14 Pro&#39; hole-punch and pill could be bigger than first thought](https://appleinsider.com/articles/22/02/26/iphone-14-pro-hole-punch-and-pill-could-be-bigger-than-first-thought?utm_medium=rss)
+ - [Russia suspends Soyuz rocket launches over European sanctions](https://www.theverge.com/2022/2/26/22952535/russia-suspends-soyuz-rocket-launches-european-sanctions-ukraine-conflict)
+ - [Nvidia confirms it’s investigating an ‘incident,’ reportedly a cyberattack](https://www.theverge.com/2022/2/25/22951376/nvidia-incident-alleged-cyberattack-february-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
