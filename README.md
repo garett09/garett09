@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of Mental Health Diagnosis Goes Beyond the Manual](https://www.wired.com/story/mental-health-psychiatry-diagnosis-dsm)
- - [How to Find Games That Are Compatible With the Steam Deck](https://www.wired.com/story/steam-deck-game-compatible-tips)
- - [Tabletop Game Companies Are Rushing to Snatch Up Hollywood Names](https://www.wired.com/story/tabletop-games-hollywood-aliens-blade-runner-free-league)<!-- TECH:END -->
+ - [Crime blotter: Police praise &#39;heroic role&#39; of hostage in Amsterdam Apple Store](https://appleinsider.com/articles/22/02/27/crime-blotter-police-praise-heroic-role-of-hostage-in-amsterdam-apple-store?utm_medium=rss)
+ - [MWC 2022 Day 0: Live updates from Barcelona](https://www.androidauthority.com/mwc-2022-live-updates-blog-3121395/)
+ - [The Future of Mental Health Diagnosis Goes Beyond the Manual](https://www.wired.com/story/mental-health-psychiatry-diagnosis-dsm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
