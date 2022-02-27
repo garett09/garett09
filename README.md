@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Robert Pattinson on Tifa vs. Aeris: &#39;This is how every guy figures out what love is&#39;](https://www.pcgamer.com/robert-pattinson-on-tifa-vs-aeris-this-is-how-every-guy-figures-out-what-love-is)
  - [Pokémon Go Tour: Johto Special Research, Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/22951046/tour-johto-special-masterwork-research-tasks-rewards-apex-shadow-lugia-ho-oh)
- - [Nobuo Uematsu explains the vocals added to Final Fantasy 6 Pixel Remaster&#39;s opera scene](https://www.pcgamer.com/nobuo-uematsu-explains-the-vocals-added-to-final-fantasy-6-pixel-remasters-opera-scene)
- - [Factorio is experimenting with controller support and Steam Deck optimizations](https://www.pcgamer.com/factorio-is-experimenting-with-controller-support-and-steam-deck-optimizations)<!-- GAME:END -->
+ - [A Game Award trophy that&#39;s been missing for four years turned up on eBay](https://www.pcgamer.com/a-game-award-trophy-thats-been-missing-for-four-years-turned-up-on-ebay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
