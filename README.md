@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook limits access to some Russian state-controlled media in Ukraine](https://www.theverge.com/2022/2/27/22953790/facebook-restricts-access-russian-state-controlled-media-ukraine)
- - [A profile of iSTARE, an Intel hardware hacking group that analyzes and attacks future generations of chips to find critical flaws before they go into production &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220227/p8#a220227p8)
- - [Steam Deck Surprised Me, in Ways Both Good and Bad     - CNET](https://www.cnet.com/tech/gaming/steam-deck-surprised-me-in-ways-both-good-bad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Sci-Fi Movies To Watch On HBO Max     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)
+ - [Keychron Q1 review: A playground for mechanical keyboard enthusiasts](https://appleinsider.com/articles/22/02/27/keychron-q1-review-a-playground-for-mechanical-keyboard-enthusiasts?utm_medium=rss)
+ - [Facebook limits access to some Russian state-controlled media in Ukraine](https://www.theverge.com/2022/2/27/22953790/facebook-restricts-access-russian-state-controlled-media-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
