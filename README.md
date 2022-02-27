@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Police praise &#39;heroic role&#39; of hostage in Amsterdam Apple Store](https://appleinsider.com/articles/22/02/27/crime-blotter-police-praise-heroic-role-of-hostage-in-amsterdam-apple-store?utm_medium=rss)
- - [MWC 2022 Day 0: Live updates from Barcelona](https://www.androidauthority.com/mwc-2022-live-updates-blog-3121395/)
- - [The Future of Mental Health Diagnosis Goes Beyond the Manual](https://www.wired.com/story/mental-health-psychiatry-diagnosis-dsm)<!-- TECH:END -->
+ - [Which Garmin Watch Is Best for You?](https://www.wired.com/gallery/best-garmin-watch)
+ - [Killing Eve rights itself and makes Eve the star again](https://www.theverge.com/2022/2/27/22951447/killing-eve-sandra-oh-final-season)
+ - [Daily deals Feb. 27: $80 Klipsch Speakers, $70 Razer BlackWidow Keyboard, $100 off 2TB XPG M.2 2280 SSD](https://appleinsider.com/articles/22/02/27/daily-deals-feb-27-80-klipsch-speakers-70-razer-blackwidow-keyboard-100-off-2tb-xpg-m2-2280-ssd?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
