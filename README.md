@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark’s class design is outstanding, and it can’t wait to prove it](https://www.polygon.com/22951260/lost-ark-best-classes-powerpass-knowledge-transfer)
- - [Pokémon Presents February 2021: Watch it here](https://www.polygon.com/22953388/pokemon-presents-february-2021-how-to-watch)
- - [Robert Pattinson on Tifa vs. Aeris: &#39;This is how every guy figures out what love is&#39;](https://www.pcgamer.com/robert-pattinson-on-tifa-vs-aeris-this-is-how-every-guy-figures-out-what-love-is)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus gets ‘Daybreak’ update](https://www.polygon.com/pokemon/22953428/pokemon-legends-arceus-gets-daybreak-update-free-pokeballs)
+ - [Pokémon Scarlet And Violet Announced, Here Are The New Starters](https://kotaku.com/pokemon-scarlet-and-violet-announced-here-are-the-new-1848599518)
+ - [Pokémon’s next games are Pokémon Scarlet and Violet, new starters revealed](https://www.polygon.com/22950896/pokemon-gen-9-announcement-scarlet-violet-new-starters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
