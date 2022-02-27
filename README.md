@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a legend](http://9gag.com/gag/aVxvDZM)
- - 🚯 [Shit just got real](http://9gag.com/gag/aM4VGnR)
+ - 🚖 [Ukrainian soldier and her cat](http://9gag.com/gag/aqGybmL)
+ - 🚯 [What a legend](http://9gag.com/gag/aVxvDZM)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
