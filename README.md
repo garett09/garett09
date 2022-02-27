@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL now has the cheapest 5G tablet you can get, and it has Android 12](https://www.androidauthority.com/tcl-mwc-2022-3121326/)
- - [TCL launches two new 30-series phones for the US &lpar;Updated: Pricing&rpar;](https://www.androidauthority.com/tcl-30v-30xe-3082846/)
- - [TCL’s 30 Series adds five new budget handsets in Europe starting at €139](https://www.theverge.com/2022/2/27/22949558/tcl-30-series-affordable-handsets-5g-plus-se-e-release-date-news-features)<!-- TECH:END -->
+ - [Foldable 20-inch iPad-MacBook hybrid could rely on touchscreen keyboard](https://appleinsider.com/articles/22/02/27/foldable-20-inch-ipad-macbook-hybrid-could-rely-on-touchscreen-keyboard?utm_medium=rss)
+ - [Go read this report about how researchers used Google Maps to track the invasion of Ukraine](https://www.theverge.com/2022/2/27/22953398/go-read-this-researchers-google-maps-russian-troops-ukraine-invasion)
+ - [TCL now has the cheapest 5G tablet you can get, and it has Android 12](https://www.androidauthority.com/tcl-mwc-2022-3121326/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
