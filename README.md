@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian soldier and her cat](http://9gag.com/gag/aqGybmL)
- - 🚯 [What a legend](http://9gag.com/gag/aVxvDZM)
+ - 🚖 [What a legend](http://9gag.com/gag/aVxvDZM)
+ - 🚯 [President of Ukraine invites any foreigner to join Ukrainian army and help fighting russians](http://9gag.com/gag/aOQ8vKN)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
