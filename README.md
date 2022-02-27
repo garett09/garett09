@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2022 Day 0: Live updates from Barcelona](https://www.androidauthority.com/mwc-2022-live-updates-blog-3121395/)
- - [Ukraine’s Volunteer ‘IT Army’ Is Hacking in Uncharted Territory](https://www.wired.com/story/ukraine-it-army-russia-war-cyberattacks-ddos)
- - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook limits access to some Russian state-controlled media in Ukraine](https://www.theverge.com/2022/2/27/22953790/facebook-restricts-access-russian-state-controlled-media-ukraine)
+ - [A profile of iSTARE, an Intel hardware hacking group that analyzes and attacks future generations of chips to find critical flaws before they go into production &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220227/p8#a220227p8)
+ - [Steam Deck Surprised Me, in Ways Both Good and Bad     - CNET](https://www.cnet.com/tech/gaming/steam-deck-surprised-me-in-ways-both-good-bad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
