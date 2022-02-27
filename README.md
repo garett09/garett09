@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Historic moment: Appeasement is over. Germany pushes military budget by 100 billion for 2022](http://9gag.com/gag/a41P7M6)
- - 🚯 [Ah yes...The German War machine is now awake. The sleeper has awakened. Here we go again.](http://9gag.com/gag/ang79qn)
- - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
+ - 🚖 [Ah yes...The German War machine is now awake. The sleeper has awakened. Here we go again.](http://9gag.com/gag/ang79qn)
+ - 🚯 [There you go. The thing everybody awaits and fears.](http://9gag.com/gag/azex1OK)
+ - 🚯 [OnlyFans joins the war xD](http://9gag.com/gag/a41P7md)<!-- MEMES:END -->
 
 --- 
 
