@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strength or Dexterity?](https://www.pcgamer.com/strength-or-dexterity)
- - [Ransomware group claiming responsibility for Nvidia attack is hacked in turn](https://www.pcgamer.com/ransomware-group-claiming-responsibility-for-nvidia-attack-is-hacked-in-turn)
- - [Valve Open To Having Game Pass Come To Steam](https://kotaku.com/xbox-game-pass-steam-valve-gabe-newell-pc-gaming-deck-s-1848598788)<!-- GAME:END -->
+ - [Nobuo Uematsu explains the vocals added to Final Fantasy 6 Pixel Remaster&#39;s opera scene](https://www.pcgamer.com/nobuo-uematsu-explains-the-vocals-added-to-final-fantasy-6-pixel-remasters-opera-scene)
+ - [Factorio is experimenting with controller support and Steam Deck optimizations](https://www.pcgamer.com/factorio-is-experimenting-with-controller-support-and-steam-deck-optimizations)
+ - [Strength or Dexterity?](https://www.pcgamer.com/strength-or-dexterity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
