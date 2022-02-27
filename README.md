@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)
- - [Apple is reportedly working on a device with a 20-inch folding display](https://www.theverge.com/2022/2/27/22953546/apple-reportedly-working-device-foldable-20-inch-display-rumors)
- - [Samsung updates its Galaxy Book Pro laptops with 1080p webcams, Intel 12th Gen CPUs, and brighter AMOLED displays, starting at $1,050 and shipping on April 1 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220227/p7#a220227p7)<!-- TECH:END -->
+ - [MWC 2022 Day 0: Live updates from Barcelona](https://www.androidauthority.com/mwc-2022-live-updates-blog-3121395/)
+ - [Ukraine’s Volunteer ‘IT Army’ Is Hacking in Uncharted Territory](https://www.wired.com/story/ukraine-it-army-russia-war-cyberattacks-ddos)
+ - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
