@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True bravery](http://9gag.com/gag/a8175ve)
+ - 🚖 [Just another ww3 meme](http://9gag.com/gag/a0ZeNyd)
  - 🚯 [\u0411\u043b\u044f\u0442...](http://9gag.com/gag/a0ZeNLL)
- - 🚯 [Take rest from all the war posts and check out my wood, it aint much but its honest work](http://9gag.com/gag/aNPDY9v)<!-- MEMES:END -->
+ - 🚯 [Sweden sends 5000 anti tank rounds, 5000 body armor, 5000 helmets ans 140k food rations, over 1.4b billion SEK. First time since 1939 when Finland received it.](http://9gag.com/gag/aBny2xP)<!-- MEMES:END -->
 
 --- 
 
