@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung updates its Galaxy Book Pro laptops with 1080p webcams, Intel 12th Gen CPUs, and brighter AMOLED displays, starting at $1,050 and shipping on April 1 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220227/p7#a220227p7)
- - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)
- - [EU closes airspace to Russian aircraft and blocks state-backed media](https://www.theverge.com/2022/2/27/22953563/eu-ban-russia-aircraft-state-backed-media-ukraine-sanctions)<!-- TECH:END -->
+ - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)
+ - [Apple is reportedly working on a device with a 20-inch folding display](https://www.theverge.com/2022/2/27/22953546/apple-reportedly-working-device-foldable-20-inch-display-rumors)
+ - [Samsung updates its Galaxy Book Pro laptops with 1080p webcams, Intel 12th Gen CPUs, and brighter AMOLED displays, starting at $1,050 and shipping on April 1 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220227/p7#a220227p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
