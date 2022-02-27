@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Robert Pattinson on Tifa vs. Aeris: &#39;This is how every guy figures out what love is&#39;](https://www.pcgamer.com/robert-pattinson-on-tifa-vs-aeris-this-is-how-every-guy-figures-out-what-love-is)
- - [Pokémon Go Tour: Johto Special Research, Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/22951046/tour-johto-special-masterwork-research-tasks-rewards-apex-shadow-lugia-ho-oh)
- - [A Game Award trophy that&#39;s been missing for four years turned up on eBay](https://www.pcgamer.com/a-game-award-trophy-thats-been-missing-for-four-years-turned-up-on-ebay)<!-- GAME:END -->
+ - [Lost Ark’s class design is outstanding, and it can’t wait to prove it](https://www.polygon.com/22951260/lost-ark-best-classes-powerpass-knowledge-transfer)
+ - [Pokémon Presents February 2021: Watch it here](https://www.polygon.com/22953388/pokemon-presents-february-2021-how-to-watch)
+ - [Robert Pattinson on Tifa vs. Aeris: &#39;This is how every guy figures out what love is&#39;](https://www.pcgamer.com/robert-pattinson-on-tifa-vs-aeris-this-is-how-every-guy-figures-out-what-love-is)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
