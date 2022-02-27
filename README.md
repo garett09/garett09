@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian soldier calmly fires multiple RPG rounds after coming under fire in Kharkov](http://9gag.com/gag/aDD2x2x)
- - 🚯 [Fuc kwar](http://9gag.com/gag/aBny852)
+ - 🚖 [Russians soldiers in my city, Kharkiv, Ukraine.](http://9gag.com/gag/a8178vQ)
+ - 🚯 [They f**ked our lives](http://9gag.com/gag/aqGy7dZ)
  - 🚯 [DJ Kitty and Dancin&#39; Pug are rocking those moves!](http://9gag.com/gag/a21vPKp)<!-- MEMES:END -->
 
 --- 
