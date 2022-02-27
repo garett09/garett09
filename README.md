@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Intel CEO Pat Gelsinger about his IDM 2.0 strategy, partnering with TSMC, the Tower Semiconductor acquisition, and learning from AMD&#39;s success &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220227/p3#a220227p3)
- - [Sources: the UK government has shelved plans for a Silicon Valley rival around Oxford and Cambridge in order to prioritize spending in Northern England &lpar;Financial Times&rpar;](http://www.techmeme.com/220227/p2#a220227p2)
- - [Analysts: Ukraine conflict could accelerate the fracturing of internet, amid pressure on US tech giants from both Russia and the West to respond to the conflict &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220227/p1#a220227p1)<!-- TECH:END -->
+ - [The Future of Mental Health Diagnosis Goes Beyond the Manual](https://www.wired.com/story/mental-health-psychiatry-diagnosis-dsm)
+ - [How to Find Games That Are Compatible With the Steam Deck](https://www.wired.com/story/steam-deck-game-compatible-tips)
+ - [Tabletop Game Companies Are Rushing to Snatch Up Hollywood Names](https://www.wired.com/story/tabletop-games-hollywood-aliens-blade-runner-free-league)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
