@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Game Award trophy that&#39;s been missing for four years turned up on eBay](https://www.pcgamer.com/a-game-award-trophy-thats-been-missing-for-four-years-turned-up-on-ebay)
  - [Nobuo Uematsu explains the vocals added to Final Fantasy 6 Pixel Remaster&#39;s opera scene](https://www.pcgamer.com/nobuo-uematsu-explains-the-vocals-added-to-final-fantasy-6-pixel-remasters-opera-scene)
- - [Factorio is experimenting with controller support and Steam Deck optimizations](https://www.pcgamer.com/factorio-is-experimenting-with-controller-support-and-steam-deck-optimizations)
- - [Strength or Dexterity?](https://www.pcgamer.com/strength-or-dexterity)<!-- GAME:END -->
+ - [Factorio is experimenting with controller support and Steam Deck optimizations](https://www.pcgamer.com/factorio-is-experimenting-with-controller-support-and-steam-deck-optimizations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
