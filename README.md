@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable 20-inch iPad-MacBook hybrid could rely on touchscreen keyboard](https://appleinsider.com/articles/22/02/27/foldable-20-inch-ipad-macbook-hybrid-could-rely-on-touchscreen-keyboard?utm_medium=rss)
- - [Go read this report about how researchers used Google Maps to track the invasion of Ukraine](https://www.theverge.com/2022/2/27/22953398/go-read-this-researchers-google-maps-russian-troops-ukraine-invasion)
- - [TCL now has the cheapest 5G tablet you can get, and it has Android 12](https://www.androidauthority.com/tcl-mwc-2022-3121326/)<!-- TECH:END -->
+ - [Samsung’s new convertible laptop can last 21 hours on a charge](https://www.androidauthority.com/samsung-galaxy-book-2-series-3117533/)
+ - [Samsung updates its Galaxy Book Pro line with 1080p webcams](https://www.theverge.com/2022/2/27/22950976/samsung-galaxy-book2-pro-360-price-features-ports-specs-intel-evo)
+ - [OtterBox&#39;s Disney Anniversary iPhone case review: Fun, but lacks MagSafe](https://appleinsider.com/articles/22/02/27/otterboxs-disney-anniversary-iphone-case-review-fun-but-lacks-magsafe?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
