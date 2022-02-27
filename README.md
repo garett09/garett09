@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witch Queen Is The Best Campaign Destiny&#39;s Ever Had](https://kotaku.com/destiny-2-witch-queen-campaign-legendary-bungie-halo-re-1848600076)
  - [What We Know About Pokémon Scarlet And Violet&#39;s Starters](https://kotaku.com/pokemon-scarlet-violet-starters-sprigatito-fuecoco-quax-1848599795)
- - [Total War: Warhammer 3 data miners find voice file for Chaos Dwarfs](https://www.pcgamer.com/total-war-warhammer-3-data-miners-find-voice-files-for-chaos-dwarfs)
- - [Pokémon fans joke Quaxly is actually Donald Duck](https://www.polygon.com/pokemon/22953487/pokemon-gen-9-starters-donald-duck-quaxly)<!-- GAME:END -->
+ - [Total War: Warhammer 3 data miners find voice file for Chaos Dwarfs](https://www.pcgamer.com/total-war-warhammer-3-data-miners-find-voice-files-for-chaos-dwarfs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
