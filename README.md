@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Boulies Master Series Computer Chair review](https://www.pcgamer.com/boulies-master-series-computer-chair-review)
- - [The 2022 Tokyo Game Show Will Be Held In-Person](https://kotaku.com/tokyo-game-show-2022-tgs2022-chiba-japan-covid-19-coron-1848600928)
- - [Anti-Mask And Anti-Vax Cosplayer Has A Change Of Heart](https://kotaku.com/demon-slayer-anime-manga-covid-19-anti-mask-anti-vax-va-1848600907)<!-- GAME:END -->
+ - [Young Souls is coming to PS4 on March 10](https://blog.playstation.com/2022/02/28/young-souls-is-coming-to-ps4-on-march-10/)
+ - [Young Souls is coming to PS4 on March 10](https://blog.playstation.com/2022/02/28/young-souls-is-coming-to-ps4-on-march-10/)
+ - [Tiny Tina&#39;s Wonderlands is surprisingly charming](https://www.pcgamer.com/tiny-tinas-wonderlands-is-surprisingly-charming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
