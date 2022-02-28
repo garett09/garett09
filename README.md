@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Largest sovereign wealth fund plans to vote against Tim Cook&#39;s $99M pay](https://appleinsider.com/articles/22/02/27/largest-sovereign-wealth-fund-plans-to-vote-against-tim-cooks-99m-pay?utm_medium=rss)
- - [Apple insists it has complied with dutch App Store payments order](https://appleinsider.com/articles/22/02/28/apple-insists-it-has-complied-with-dutch-app-store-payments-order?utm_medium=rss)
- - [Weee!, an online grocer specializing in Asian and Hispanic food, raises a $425M Series E led by SoftBank Vision Fund 2 at a $4.1B valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220228/p7#a220228p7)<!-- TECH:END -->
+ - [Airbnb says it will provide free, short-term housing for up to 100,000 Ukrainian refugees, after housing over 21,000 Afghan refugees last year &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220228/p12#a220228p12)
+ - [OnePlus walks back ‘unified OS’ plans, Oxygen OS is here to stay](https://www.androidauthority.com/oneplus-unified-os-plans-canceled-3121584/)
+ - [Elliptic report: Ukraine&#39;s government has received nearly $20M in ether and bitcoin; Binance will donate $10M in crypto &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220228/p11#a220228p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
