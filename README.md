@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think i downloaded the wrong Elden Ring](http://9gag.com/gag/awzyyeQ)
- - 🚯 [Boy... do I feel stupid for making fun of the people who invested in Doomsday Bunkers...](http://9gag.com/gag/axByy5b)
- - 🚯 [The Penduline Tit uses a hidden opening to enter its nest while the visible opening leads to an empty pocket to trick snakes](http://9gag.com/gag/aGzyLz0)<!-- MEMES:END -->
+ - 🚖 [One way to go to Mars faster](http://9gag.com/gag/aAGyQzR)
+ - 🚯 [Just found out my girlfriend of 7 years was cheatting on me. Man it hurts to be alive](http://9gag.com/gag/a314ZgN)
+ - 🚯 [Again, f**k you Joseph and f**k you too Vladimir, and new Vladimir.](http://9gag.com/gag/a8177N3)<!-- MEMES:END -->
 
 --- 
 
