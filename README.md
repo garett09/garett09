@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Players turn](http://9gag.com/gag/azexPEm)
- - 🚯 [And that&#39;s how I got fired the first day!](http://9gag.com/gag/a41PzW6)
- - 🚯 [Zelensky on his presidency 3 years ago.](http://9gag.com/gag/axBy3zL)<!-- MEMES:END -->
+ - 🚖 [They&#39;ll surrender within days](http://9gag.com/gag/avAyedW)
+ - 🚯 [WTF is that?!](http://9gag.com/gag/aRrBM9y)
+ - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
 
