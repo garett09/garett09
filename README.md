@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A pro-Ukraine member of the Conti ransomware gang posts 339 days&#39; worth of the group&#39;s chat logs, after its leaders declared support for Russia &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220228/p1#a220228p1)
  - [Specs leak for OnePlus phone with 150W charging](https://www.androidauthority.com/oneplus-150w-charging-phone-3121568/)
- - [Google Maps temporarily stops displaying live traffic and &quot;busy area&quot; data in Ukraine, but basic traffic navigation is still available &lpar;Axios&rpar;](http://www.techmeme.com/220227/p10#a220227p10)
- - [The Most Underrated Sci-Fi Thriller Waiting to Be Watched on Netflix     - CNET](https://www.cnet.com/news/the-most-underrated-sci-fi-thriller-waiting-to-be-watched-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps temporarily stops displaying live traffic and &quot;busy area&quot; data in Ukraine, but basic traffic navigation is still available &lpar;Axios&rpar;](http://www.techmeme.com/220227/p10#a220227p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
