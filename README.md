@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One way to go to Mars faster](http://9gag.com/gag/aAGyQzR)
- - 🚯 [Just found out my girlfriend of 7 years was cheatting on me. Man it hurts to be alive](http://9gag.com/gag/a314ZgN)
- - 🚯 [Again, f**k you Joseph and f**k you too Vladimir, and new Vladimir.](http://9gag.com/gag/a8177N3)<!-- MEMES:END -->
+ - 🚖 [Doesn&#39;t look any more safer than drowning tho](http://9gag.com/gag/a91y61m)
+ - 🚯 [Did I miss anything?](http://9gag.com/gag/a71o87e)
+ - 🚯 [The doctor&#39;s speech is so true\u2026](http://9gag.com/gag/axByyLb)<!-- MEMES:END -->
 
 --- 
 
