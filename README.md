@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring players are celebrating its sublime hitboxes with gifs](https://www.pcgamer.com/elden-ring-players-are-celebrating-its-sublime-hitboxes-with-gifs)
  - [Battlefield 2042 Pulls Russian Helicopter Skin &#39;In Light Of Current Events&#39;](https://kotaku.com/battlefield-2042-bf2042-russia-ukraine-skin-ea-dice-hel-1848600439)
- - [Five new Steam games you probably missed &lpar;February 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-28-2022)
- - [Celeste Developers Reunited With Game Awards Trophy Four Years After It Went Missing](https://kotaku.com/celeste-the-game-awards-trophy-geoff-keighley-extremely-1848600342)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-28-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
