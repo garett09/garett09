@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The stark difference between one who leads by fear vs one who leads by example](http://9gag.com/gag/aBny6wN)
- - 🚯 [UNOFFICIAL: Poland is giving its MiGi-29s to Ukraine. MiGi-29 is arguably among the finest fighter aircraft in the world. Some of the recent planes intended for Ukraine were given to Poland by Germany in 2004 for a total of EUR 1 &lpar;say: one euro&rpar;.](http://9gag.com/gag/aE80Vz9)
- - 🚯 [Doesn&#39;t look any more safer than drowning tho](http://9gag.com/gag/a91y61m)<!-- MEMES:END -->
+ - 🚖 [And that&#39;s how I got fired the first day!](http://9gag.com/gag/a41PzW6)
+ - 🚯 [What&#39;s Next?](http://9gag.com/gag/adgB1vD)
+ - 🚯 [They&#39;ll surrender within days](http://9gag.com/gag/avAyedW)<!-- MEMES:END -->
 
 --- 
 
