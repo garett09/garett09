@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that&#39;s how I got fired the first day!](http://9gag.com/gag/a41PzW6)
- - 🚯 [What&#39;s Next?](http://9gag.com/gag/adgB1vD)
- - 🚯 [They&#39;ll surrender within days](http://9gag.com/gag/avAyedW)<!-- MEMES:END -->
+ - 🚖 [Big Players turn](http://9gag.com/gag/azexPEm)
+ - 🚯 [And that&#39;s how I got fired the first day!](http://9gag.com/gag/a41PzW6)
+ - 🚯 [Zelensky on his presidency 3 years ago.](http://9gag.com/gag/axBy3zL)<!-- MEMES:END -->
 
 --- 
 
