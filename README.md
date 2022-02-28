@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The negotiations](http://9gag.com/gag/aRrBMDB)
- - 🚯 [One of gipsies who snatched the tank](http://9gag.com/gag/aAGy28o)
+ - 🚖 [No you won\u2019t. I\u2019m a spartan.](http://9gag.com/gag/aVxvLZn)
+ - 🚯 [Confused Putler noises](http://9gag.com/gag/a91y2v0)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
