@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [-God wont give u more than you can carry... God: Testing testing...](http://9gag.com/gag/awzyzY4)
- - 🚯 [Just found out my girlfriend of 7 years was cheatting on me. Man it hurts to be alive](http://9gag.com/gag/a314ZgN)
- - 🚯 [Ach Scheisse, jetzt geht es wieder los](http://9gag.com/gag/aLvn1QW)<!-- MEMES:END -->
+ - 🚖 [Germany increases military budget to over 200 billion euros](http://9gag.com/gag/a91yqVD)
+ - 🚯 [Ach Scheisse, jetzt geht es wieder los](http://9gag.com/gag/aLvn1QW)
+ - 🚯 [Release the gypsies!](http://9gag.com/gag/aXrPr46)<!-- MEMES:END -->
 
 --- 
 
