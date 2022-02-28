@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M1 Mac mini can be made portable or smaller with some tinkering](https://appleinsider.com/articles/22/02/28/apples-m1-mac-mini-can-be-made-portable-or-smaller-with-some-tinkering?utm_medium=rss)
- - [How to stop ads from popping up on your Samsung S22 phone](https://www.androidauthority.com/stop-ads-samsung-phone-3108986/)
- - [Naomi Osaka is coming to Fortnite](https://www.theverge.com/2022/2/28/22954749/naomi-osaka-fortnite)<!-- TECH:END -->
+ - [LinkedIn acquires Tel Aviv-based marketing analytics and attribution startup Oribi, sources say for between $80M and $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220228/p19#a220228p19)
+ - [Tim Cook calls on Italian innovators to help shape the future](https://appleinsider.com/articles/22/02/28/tim-cook-calls-on-italian-innovators-to-help-shape-the-future?utm_medium=rss)
+ - [ZTE’s new Blade V40 phones don’t cut very deep](https://www.androidauthority.com/zte-blade-v40-3122883/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
