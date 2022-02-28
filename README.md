@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harvest, craft, and avoid &#39;old-timey diseases&#39; in this medieval city sim from the makers of Grim Dawn](https://www.pcgamer.com/harvest-craft-and-avoid-old-timey-diseases-in-this-medieval-city-sim-from-the-makers-of-grim-dawn)
- - [Elden Ring’s servers will be offline for maintenance on all platforms later today](https://www.polygon.com/22954960/elden-ring-server-offline-maintance)
- - [Hacker group threatens to release bypass of Nvidia&#39;s hash rate limiter](https://www.pcgamer.com/hacker-group-threatens-to-release-bypass-of-nvidias-hash-rate-limiter)<!-- GAME:END -->
+ - [Forza Horizon 5 gets ASL support for in-game cutscenes](https://www.polygon.com/22955106/forza-horizon-5-asl-bsl-cutscenes)
+ - [In Elden Ring, Even Hugs Can Be Dangerous](https://kotaku.com/elden-ring-fromsoftware-fia-deathbed-companion-debuff-s-1848603291)
+ - [The best thing about Catwoman in comics that will never work in the Batman movies](https://www.polygon.com/22954738/catwoman-comics-costume-batman-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
