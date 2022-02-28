@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;ll surrender within days](http://9gag.com/gag/avAyedW)
- - 🚯 [WTF is that?!](http://9gag.com/gag/aRrBM9y)
+ - 🚖 [Berdyansk](http://9gag.com/gag/aXrP49z)
+ - 🚯 [This is serious shit](http://9gag.com/gag/a91yvOL)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
