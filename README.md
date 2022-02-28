@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Plea At MWC 2022: Come Build Metaverse-Ready Networks With Us     - CNET](https://www.cnet.com/tech/mobile/metas-plea-at-mwc-2022-come-build-metaverse-ready-networks-with-us/#ftag=CAD590a51e)
- - [The Absolute Best Sci-Fi Movies To Watch On Netflix     - CNET](https://www.cnet.com/news/the-absolute-best-sci-fi-movies-to-watch-on-netflix/#ftag=CAD590a51e)
- - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia&#39;s leading internet providers have restricted access to Twitter and Facebook &lpar;NetBlocks&rpar;](http://www.techmeme.com/220227/p9#a220227p9)
+ - [Is The Batman Streaming on HBO Max? What to Know     - CNET](https://www.cnet.com/news/is-the-batman-streaming-on-hbo-max-what-to-know/#ftag=CAD590a51e)
+ - [Netflix: The 46 Absolute Best TV Series to Watch     - CNET](https://www.cnet.com/news/the-best-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
