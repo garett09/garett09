@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huge explosion just happened in Cherkas area.](http://9gag.com/gag/avAyQLW)
+ - 🚖 [Shit&#39;s about to get serious](http://9gag.com/gag/a21v1p9)
  - 🚯 [Boy... do I feel stupid for making fun of the people who invested in Doomsday Bunkers...](http://9gag.com/gag/axByy5b)
- - 🚯 [Center of my city right now. ~5250 people are arrested.](http://9gag.com/gag/aE808EM)<!-- MEMES:END -->
+ - 🚯 [The Penduline Tit uses a hidden opening to enter its nest while the visible opening leads to an empty pocket to trick snakes](http://9gag.com/gag/aGzyLz0)<!-- MEMES:END -->
 
 --- 
 
