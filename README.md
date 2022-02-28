@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb says it will provide free, short-term housing for up to 100,000 Ukrainian refugees, after housing over 21,000 Afghan refugees last year &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220228/p12#a220228p12)
- - [OnePlus walks back ‘unified OS’ plans, Oxygen OS is here to stay](https://www.androidauthority.com/oneplus-unified-os-plans-canceled-3121584/)
- - [Elliptic report: Ukraine&#39;s government has received nearly $20M in ether and bitcoin; Binance will donate $10M in crypto &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220228/p11#a220228p11)<!-- TECH:END -->
+ - [Long-time Apple reporter Jim Dalrymple retires after almost 30 years of work](https://appleinsider.com/articles/22/02/28/long-time-apple-reporter-jim-dalrymple-retires-after-almost-30-years-of-work?utm_medium=rss)
+ - [VC-backed semiconductor startups raised more than $6.4B in 2021, up from $3B in 2020 and the most in at least five years &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220228/p17#a220228p17)
+ - [Steam Deck review: it’s not ready](https://www.theverge.com/22950371/valve-steam-deck-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
