@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab one of these speedy Samsung M.2 SSD deals](https://www.pcgamer.com/grab-one-of-these-speedy-samsung-m2-ssd-deals)
- - [Gigabyte 500 &amp; 400 series AM4 motherboard BIOS&#39; add support for the AMD Ryzen 7 5800X3D CPU](https://www.pcgamer.com/gigabyte-500-and-400-series-am4-motherboard-bios-add-support-for-the-amd-ryzen-7-5800x3d-cpu)
- - [Samsung&#39;s Galaxy Book2 Pro is powered by Intel Arc graphics](https://www.pcgamer.com/samsungs-galaxy-book2-pro-is-powered-by-intel-arc-graphics)<!-- GAME:END -->
+ - [The 2022 Tokyo Game Show Will Be Held In-Person](https://kotaku.com/tokyo-game-show-2022-tgs2022-chiba-japan-covid-19-coron-1848600928)
+ - [Anti-Mask And Anti-Vax Cosplayer Has A Change Of Heart](https://kotaku.com/demon-slayer-anime-manga-covid-19-anti-mask-anti-vax-va-1848600907)
+ - [Grab one of these speedy Samsung M.2 SSD deals](https://www.pcgamer.com/grab-one-of-these-speedy-samsung-m2-ssd-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
