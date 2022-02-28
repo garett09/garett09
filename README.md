@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AcadArena and other &quot;game guilds&quot; in Southeast Asia, which loan out NFTs of in-game creatures as &quot;scholarships&quot; to players of games like Axie Infinity &lpar;Rest of World&rpar;](http://www.techmeme.com/220228/p3#a220228p3)
- - [Lenovo upgrades Duet 3 Chromebook with 2K display, but lowers price from Duet 5](https://www.androidauthority.com/lenovo-duet-3-chromebook-2k-display-3121417/)
- - [Lenovo unveils a super slim 5G ThinkPad with 28 hours of battery life](https://www.androidauthority.com/lenovo-28-hours-battery-life-3120975/)<!-- TECH:END -->
+ - [Seawalls alone won’t save coastal cities, major UN report says](https://www.theverge.com/2022/2/28/22953552/sea-walls-coastal-cities-climate-change-adaptation-united-nations-report)
+ - [Lenovo debuts updated Windows 11 and Chromebook IdeaPads with 12th-Gen Intel CPUs and the Tab M10 Plus running Android 12, available in June starting at $190 &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/220228/p5#a220228p5)
+ - [&#39;CODA&#39; and &#39;Ted Lasso&#39; honored at Screen Actors Guild Awards](https://appleinsider.com/articles/22/02/28/coda-and-ted-lasso-honored-at-screen-actors-guild-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
