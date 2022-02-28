@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Robert Pattison Is Still Caught Up On Tifa Vs. Aerith In Final Fantasy](https://kotaku.com/robert-pattinson-the-batman-final-fantasy-vii-tifa-aeri-1848601743)
- - [PlayStation Now games for March: Shadow Warrior 3, Crysis Remastered, Relicta, Chicken Police – Paint it Red!](https://blog.playstation.com/2022/02/28/playstation-now-games-for-march-shadow-warrior-3-crysis-remastered-relicta-chicken-police-paint-it-red/)
- - [PlayStation Now games for March: Shadow Warrior 3, Crysis Remastered, Relicta, Chicken Police – Paint it Red!](https://blog.playstation.com/2022/02/28/playstation-now-games-for-march-shadow-warrior-3-crysis-remastered-relicta-chicken-police-paint-it-red/)<!-- GAME:END -->
+ - [Bungie looking into rare Deepsight drops in Destiny 2: The Witch Queen](https://www.polygon.com/22954800/destiny-2-the-witch-queen-weapon-crafting-deepsight-wellspring-tarnation-come-to-pass)
+ - [Elden Ring Players Keep Owning Each Other About Being &#39;Maidenless&#39;](https://kotaku.com/elden-ring-maidenless-meme-varre-npc-fromsoftware-1848602100)
+ - [Forza Horizon 5 is adding American and British Sign Language this week](https://www.pcgamer.com/forza-horizon-5-is-adding-american-and-british-sign-language-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
