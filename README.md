@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 French brothers organised a tourism trip to Ukraine. Around 400 people applied. They departed 17 hours ago. A new convoy is preparing for those who are late on their reservation.](http://9gag.com/gag/abgA1rB)
- - 🚯 [The stark difference between one who leads by fear vs one who leads by example](http://9gag.com/gag/aBny6wN)
- - 🚯 [Good act!](http://9gag.com/gag/aRrB4j2)<!-- MEMES:END -->
+ - 🚖 [UNOFFICIAL: Poland is giving its MiGi-29s to Ukraine. MiGi-29 is arguably among the finest fighter aircraft in the world. Some of the recent planes intended for Ukraine were given to Poland by Germany in 2004 for a total of EUR 1 &lpar;say: one euro&rpar;.](http://9gag.com/gag/aE80Vz9)
+ - 🚯 [Good act!](http://9gag.com/gag/aRrB4j2)
+ - 🚯 [One way to go to Mars faster](http://9gag.com/gag/aAGyQzR)<!-- MEMES:END -->
 
 --- 
 
