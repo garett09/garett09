@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Steam Deck had some wild prototypes](https://www.pcgamer.com/the-steam-deck-had-some-wild-prototypes)
  - [American TV is obsessed with crumbling empires right now](https://www.polygon.com/22955287/yellowstone-righteous-gemstones-succession-empire-tv-shows)
- - [Gabe Newell isn&#39;t losing sleep over Microsoft and Sony&#39;s big acquisition sprees](https://www.pcgamer.com/gabe-newell-isnt-losing-sleep-over-microsoft-and-sonys-big-acquisition-sprees)
- - [Tennis champ Naomi Osaka joins Fortnite as the latest Icon Series skin](https://www.pcgamer.com/naomi-osaka-fortnite)<!-- GAME:END -->
+ - [The best Elden Ring items to grab early on](https://www.pcgamer.com/elden-ring-best-items-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
