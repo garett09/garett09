@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Berdyansk](http://9gag.com/gag/aXrP49z)
- - 🚯 [This is serious shit](http://9gag.com/gag/a91yvOL)
+ - 🚖 [Negotiations have started](http://9gag.com/gag/aeg9OWW)
+ - 🚯 [Minutes away from negotiations. I wouldn&#39;t drink the water...](http://9gag.com/gag/aXrPNov)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
