@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a newly revamped Whole Foods store in Washington, which is using palm-scanning Amazon One and computer vision-enabled Just Walk Out tech &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/220228/p21#a220228p21)
- - [Blink Video Doorbell review: A great budget smart doorbell for Alexa users](https://www.androidauthority.com/blink-video-doorbell-review-3106219/)
- - [FCC probing Russian ownership ties to US media &amp; telecom industries](https://appleinsider.com/articles/22/02/28/fcc-probing-russian-ownership-ties-to-us-media-telecom-industries?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says cyberattacks using new malware hit Ukraine hours before Russia&#39;s invasion began; the company added new signatures to Defender within three hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220228/p23#a220228p23)
+ - [Samsung Galaxy Book 2 Pro and Pro 360 hands-on: Slim machines that impress](https://www.androidauthority.com/samsung-galaxy-book-2-pro-360-review-3123313/)
+ - [Oppo announces 240W charging: Get a 100% charge in under 10 minutes](https://www.androidauthority.com/oppo-240w-charging-3123390/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
