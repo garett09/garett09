@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Young Souls is coming to PS4 on March 10](https://blog.playstation.com/2022/02/28/young-souls-is-coming-to-ps4-on-march-10/)
- - [Young Souls is coming to PS4 on March 10](https://blog.playstation.com/2022/02/28/young-souls-is-coming-to-ps4-on-march-10/)
- - [Tiny Tina&#39;s Wonderlands is surprisingly charming](https://www.pcgamer.com/tiny-tinas-wonderlands-is-surprisingly-charming)<!-- GAME:END -->
+ - [Fantastic Beasts: The Secrets of Dumbledore’s new trailer only hints at Dumbledore’s secrets](https://www.polygon.com/22948205/fantastic-beasts-secrets-of-dumbledore-trailer-grindelwald-mads)
+ - [Believe it or not there’s another Morbius trailer](https://www.polygon.com/22951308/morbius-trailer-april-release-date)
+ - [Tiny Tina’s Wonderlands weaponizes a TTRPG in the most amusing way](https://www.polygon.com/22954555/tiny-tinas-wonderlands-preview-release-dates-character-classes-builds-weapon-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
