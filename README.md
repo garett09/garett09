@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook removes Russian misinformation network pushing fake news about the war in Ukraine](https://www.theverge.com/2022/2/28/22954451/facebook-twitter-remove-misinformation-network-russian-propaganda-ukraine-invasion)
- - [Life360 says Tile sales are down, blames AirTag stalking issues for decline](https://appleinsider.com/articles/22/02/28/life360-says-tile-sales-are-down-blames-airtag-stalking-issues-for-decline?utm_medium=rss)
- - [The Original Hybrid Workers Can Teach Us How to Do It Right](https://www.wired.com/story/hybrid-working-original-fix)<!-- TECH:END -->
+ - [Largest sovereign wealth fund plans to vote against Tim Cook&#39;s $99M pay](https://appleinsider.com/articles/22/02/27/largest-sovereign-wealth-fund-plans-to-vote-against-tim-cooks-99m-pay?utm_medium=rss)
+ - [Apple insists it has complied with dutch App Store payments order](https://appleinsider.com/articles/22/02/28/apple-insists-it-has-complied-with-dutch-app-store-payments-order?utm_medium=rss)
+ - [Weee!, an online grocer specializing in Asian and Hispanic food, raises a $425M Series E led by SoftBank Vision Fund 2 at a $4.1B valuation &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220228/p7#a220228p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
