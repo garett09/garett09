@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says cyberattacks using new malware hit Ukraine hours before Russia&#39;s invasion began; the company added new signatures to Defender within three hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220228/p23#a220228p23)
- - [Samsung Galaxy Book 2 Pro and Pro 360 hands-on: Slim machines that impress](https://www.androidauthority.com/samsung-galaxy-book-2-pro-360-review-3123313/)
- - [Oppo announces 240W charging: Get a 100% charge in under 10 minutes](https://www.androidauthority.com/oppo-240w-charging-3123390/)<!-- TECH:END -->
+ - [Ukraine, which this weekend formed an &quot;IT Army&quot; made up of global volunteer hackers, claims to have taken down several Russian government and bank websites &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220228/p25#a220228p25)
+ - [Apple maintains second-place spot in Europe smartphone market in 2021](https://appleinsider.com/articles/22/02/28/apple-maintains-second-place-spot-in-europe-smartphone-market-in-2021?utm_medium=rss)
+ - [Elden Ring’s world is full of mystery, but I’d rather wait for a guide](https://www.theverge.com/2022/2/28/22954823/elden-ring-open-world-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
