@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seawalls alone won’t save coastal cities, major UN report says](https://www.theverge.com/2022/2/28/22953552/sea-walls-coastal-cities-climate-change-adaptation-united-nations-report)
- - [Lenovo debuts updated Windows 11 and Chromebook IdeaPads with 12th-Gen Intel CPUs and the Tab M10 Plus running Android 12, available in June starting at $190 &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/220228/p5#a220228p5)
- - [&#39;CODA&#39; and &#39;Ted Lasso&#39; honored at Screen Actors Guild Awards](https://appleinsider.com/articles/22/02/28/coda-and-ted-lasso-honored-at-screen-actors-guild-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook removes Russian misinformation network pushing fake news about the war in Ukraine](https://www.theverge.com/2022/2/28/22954451/facebook-twitter-remove-misinformation-network-russian-propaganda-ukraine-invasion)
+ - [Life360 says Tile sales are down, blames AirTag stalking issues for decline](https://appleinsider.com/articles/22/02/28/life360-says-tile-sales-are-down-blames-airtag-stalking-issues-for-decline?utm_medium=rss)
+ - [The Original Hybrid Workers Can Teach Us How to Do It Right](https://www.wired.com/story/hybrid-working-original-fix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
