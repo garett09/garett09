@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Beasts: The Secrets of Dumbledore’s new trailer only hints at Dumbledore’s secrets](https://www.polygon.com/22948205/fantastic-beasts-secrets-of-dumbledore-trailer-grindelwald-mads)
- - [Believe it or not there’s another Morbius trailer](https://www.polygon.com/22951308/morbius-trailer-april-release-date)
- - [Tiny Tina’s Wonderlands weaponizes a TTRPG in the most amusing way](https://www.polygon.com/22954555/tiny-tinas-wonderlands-preview-release-dates-character-classes-builds-weapon-list)<!-- GAME:END -->
+ - [Robert Pattison Is Still Caught Up On Tifa Vs. Aerith In Final Fantasy](https://kotaku.com/robert-pattinson-the-batman-final-fantasy-vii-tifa-aeri-1848601743)
+ - [PlayStation Now games for March: Shadow Warrior 3, Crysis Remastered, Relicta, Chicken Police – Paint it Red!](https://blog.playstation.com/2022/02/28/playstation-now-games-for-march-shadow-warrior-3-crysis-remastered-relicta-chicken-police-paint-it-red/)
+ - [PlayStation Now games for March: Shadow Warrior 3, Crysis Remastered, Relicta, Chicken Police – Paint it Red!](https://blog.playstation.com/2022/02/28/playstation-now-games-for-march-shadow-warrior-3-crysis-remastered-relicta-chicken-police-paint-it-red/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
