@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany increases military budget to over 200 billion euros](http://9gag.com/gag/a91yqVD)
- - 🚯 [Ach Scheisse, jetzt geht es wieder los](http://9gag.com/gag/aLvn1QW)
- - 🚯 [Release the gypsies!](http://9gag.com/gag/aXrPr46)<!-- MEMES:END -->
+ - 🚖 [Release the gypsies!](http://9gag.com/gag/aXrPr46)
+ - 🚯 [Germany increases military budget to over 200 billion euros](http://9gag.com/gag/a91yqVD)
+ - 🚯 [The doctor&#39;s speech is so true\u2026](http://9gag.com/gag/axByyLb)<!-- MEMES:END -->
 
 --- 
 
