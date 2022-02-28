@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Sci-Fi Movies To Watch On HBO Max     - CNET](https://www.cnet.com/news/the-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)
- - [Keychron Q1 review: A playground for mechanical keyboard enthusiasts](https://appleinsider.com/articles/22/02/27/keychron-q1-review-a-playground-for-mechanical-keyboard-enthusiasts?utm_medium=rss)
- - [Facebook limits access to some Russian state-controlled media in Ukraine](https://www.theverge.com/2022/2/27/22953790/facebook-restricts-access-russian-state-controlled-media-ukraine)<!-- TECH:END -->
+ - [Meta&#39;s Plea At MWC 2022: Come Build Metaverse-Ready Networks With Us     - CNET](https://www.cnet.com/tech/mobile/metas-plea-at-mwc-2022-come-build-metaverse-ready-networks-with-us/#ftag=CAD590a51e)
+ - [The Absolute Best Sci-Fi Movies To Watch On Netflix     - CNET](https://www.cnet.com/news/the-absolute-best-sci-fi-movies-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [Russia Invades Ukraine: Latest Updates as Russian Forces Meet Determined Resistance     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-updates-as-russian-forces-meet-determined-resistance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
