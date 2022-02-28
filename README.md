@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Following Ukraine&#39;s request, Binance says banning Russian users would &quot;fly in the face of&quot; crypto&#39;s purpose; NFT market DMarket bans Russians and Belarusians &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220228/p28#a220228p28)
- - [Apple TV+ unveils limited series starring Michael Douglas as Benjamin Franklin](https://appleinsider.com/articles/22/02/28/apple-tv-unveils-limited-series-starring-michael-douglas-as-benjamin-franklin?utm_medium=rss)
- - [Sony Xperia 1 IV leaked in renders showing off a mostly unchanged design](https://www.theverge.com/2022/2/28/22954714/sony-xperia-1-iv-leak-rumor-headphone-jack)<!-- TECH:END -->
+ - [Lucid Motors says it expects to make fewer EVs in 2022 than it originally planned](https://www.theverge.com/2022/2/28/22955518/lucid-motors-q4-2021-earnings-ev-air-deliveries)
+ - [Ashneer Grover, co-founder of Indian fintech unicorn BharatPe, resigns from the company&#39;s board, following a probe into alleged financial irregularities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220228/p30#a220228p30)
+ - [Facebook to Restrict Some Russian State-Controlled Media Across the EU     - CNET](https://www.cnet.com/news/facebook-to-restrict-some-russian-state-controlled-media-across-the-eu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
