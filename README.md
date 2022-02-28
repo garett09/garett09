@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Formula 1: Drive to Survive returns next week with intrigue, politics, and bitter rivalries](https://www.polygon.com/22955320/formula-1-drive-to-survive-season-4-release-date-netflix-episode)
- - [Anime Voice Acting While Black: Overcoming Hate While Living The Dream](https://kotaku.com/anime-black-voice-acting-funimation-crunchyroll-hero-ac-1848603377)
- - [Tennis star Naomi Osaka is Fortnite’s latest sports crossover star](https://www.polygon.com/fortnite/22955233/naomi-osaka-fortnite-outfits-skins-back-bling-glider-spray-emote-bundle)<!-- GAME:END -->
+ - [American TV is obsessed with crumbling empires right now](https://www.polygon.com/22955287/yellowstone-righteous-gemstones-succession-empire-tv-shows)
+ - [Gabe Newell isn&#39;t losing sleep over Microsoft and Sony&#39;s big acquisition sprees](https://www.pcgamer.com/gabe-newell-isnt-losing-sleep-over-microsoft-and-sonys-big-acquisition-sprees)
+ - [Tennis champ Naomi Osaka joins Fortnite as the latest Icon Series skin](https://www.pcgamer.com/naomi-osaka-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
