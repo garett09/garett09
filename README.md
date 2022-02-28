@@ -192,7 +192,7 @@ Windows                  7 hrs 53 mins       ███████████�
 <!-- TECH:START -->
  - [Lenovo upgrades Duet 3 Chromebook with 2K display, but lowers price from Duet 5](https://www.androidauthority.com/lenovo-duet-3-chromebook-2k-display-3121417/)
  - [Lenovo unveils a super slim 5G ThinkPad with 28 hours of battery life](https://www.androidauthority.com/lenovo-28-hours-battery-life-3120975/)
- - [Lenovo’s newest ThinkPads feature Snapdragon processors and 165Hz screens](https://www.theverge.com/2022/2/28/22951154/lenovo-thinkpad-x1-extreme-x13s-laptops-specs-price)<!-- TECH:END -->
+ - [Lenovo&#39;s Updated IdeaPad Duet Chromebook Might Be All You Need On the Go     - CNET](https://www.cnet.com/tech/computing/lenovos-updated-ideapad-duet-chromebook-might-be-all-you-need-on-the-go/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
