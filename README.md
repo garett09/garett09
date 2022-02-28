@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AcadArena and other &quot;game guilds&quot; in Southeast Asia, which loan out NFTs of in-game creatures as &quot;scholarships&quot; to players of games like Axie Infinity &lpar;Rest of World&rpar;](http://www.techmeme.com/220228/p3#a220228p3)
  - [Lenovo upgrades Duet 3 Chromebook with 2K display, but lowers price from Duet 5](https://www.androidauthority.com/lenovo-duet-3-chromebook-2k-display-3121417/)
- - [Lenovo unveils a super slim 5G ThinkPad with 28 hours of battery life](https://www.androidauthority.com/lenovo-28-hours-battery-life-3120975/)
- - [Lenovo&#39;s Updated IdeaPad Duet Chromebook Might Be All You Need On the Go     - CNET](https://www.cnet.com/tech/computing/lenovos-updated-ideapad-duet-chromebook-might-be-all-you-need-on-the-go/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo unveils a super slim 5G ThinkPad with 28 hours of battery life](https://www.androidauthority.com/lenovo-28-hours-battery-life-3120975/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
