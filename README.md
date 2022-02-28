@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s Alolan event adds more than 20 new Pokémon](https://www.polygon.com/22954782/pokemon-go-alola-region-sun-moon-update-march-2022)
- - [How to complete the Ranni quest in Elden Ring](https://www.pcgamer.com/elden-ring-ranni-quest-nokron)
- - [Nintendo Just Made The Switch&#39;s 2022 Line-up An Absolute Killer](https://kotaku.com/nintendo-switch-pokemon-scarlet-violet-botw-2-bayonetta-1848602339)<!-- GAME:END -->
+ - [Harvest, craft, and avoid &#39;old-timey diseases&#39; in this medieval city sim from the makers of Grim Dawn](https://www.pcgamer.com/harvest-craft-and-avoid-old-timey-diseases-in-this-medieval-city-sim-from-the-makers-of-grim-dawn)
+ - [Elden Ring’s servers will be offline for maintenance on all platforms later today](https://www.polygon.com/22954960/elden-ring-server-offline-maintance)
+ - [Hacker group threatens to release bypass of Nvidia&#39;s hash rate limiter](https://www.pcgamer.com/hacker-group-threatens-to-release-bypass-of-nvidias-hash-rate-limiter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
