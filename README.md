@@ -183,9 +183,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celeste Developers Reunited With Game Awards Trophy Four Years After It Went Missing](https://kotaku.com/celeste-the-game-awards-trophy-geoff-keighley-extremely-1848600342)
- - [Gabe Newell seems to be hand-delivering signed Steam Decks](https://www.pcgamer.com/gabe-newell-seems-to-be-hand-delivering-signed-steam-decks)
- - [Valve is fixing Elden Ring&#39;s &#39;heavy stutter&#39; on Steam Deck](https://www.pcgamer.com/valve-is-fixing-elden-rings-heavy-stutter-on-steam-deck)<!-- GAME:END -->
+ - [Battlefield 2042 Pulls Russian Helicopter Skin &#39;In Light Of Current Events&#39;](https://kotaku.com/battlefield-2042-bf2042-russia-ukraine-skin-ea-dice-hel-1848600439)
+ - [Five new Steam games you probably missed &lpar;February 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-28-2022)
+ - [Celeste Developers Reunited With Game Awards Trophy Four Years After It Went Missing](https://kotaku.com/celeste-the-game-awards-trophy-geoff-keighley-extremely-1848600342)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
