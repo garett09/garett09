@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A pro-Ukraine member of the Conti ransomware gang posts 339 days&#39; worth of the group&#39;s chat logs, after its leaders declared support for Russia &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/220228/p1#a220228p1)
- - [Euphoria Season 2 Finale Recap: A Jaw-Dropping Conclusion     - CNET](https://www.cnet.com/news/euphoria-season-2-finale-recap-a-jaw-dropping-conclusion/#ftag=CAD590a51e)
- - [Specs leak for OnePlus phone with 150W charging](https://www.androidauthority.com/oneplus-150w-charging-phone-3121568/)<!-- TECH:END -->
+ - [Lenovo upgrades Duet 3 Chromebook with 2K display, but lowers price from Duet 5](https://www.androidauthority.com/lenovo-duet-3-chromebook-2k-display-3121417/)
+ - [Lenovo unveils a super slim 5G ThinkPad with 28 hours of battery life](https://www.androidauthority.com/lenovo-28-hours-battery-life-3120975/)
+ - [Lenovo’s newest ThinkPads feature Snapdragon processors and 165Hz screens](https://www.theverge.com/2022/2/28/22951154/lenovo-thinkpad-x1-extreme-x13s-laptops-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
