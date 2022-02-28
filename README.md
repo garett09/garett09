@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn acquires Tel Aviv-based marketing analytics and attribution startup Oribi, sources say for between $80M and $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220228/p19#a220228p19)
- - [Tim Cook calls on Italian innovators to help shape the future](https://appleinsider.com/articles/22/02/28/tim-cook-calls-on-italian-innovators-to-help-shape-the-future?utm_medium=rss)
- - [ZTE’s new Blade V40 phones don’t cut very deep](https://www.androidauthority.com/zte-blade-v40-3122883/)<!-- TECH:END -->
+ - [A look at a newly revamped Whole Foods store in Washington, which is using palm-scanning Amazon One and computer vision-enabled Just Walk Out tech &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/220228/p21#a220228p21)
+ - [Blink Video Doorbell review: A great budget smart doorbell for Alexa users](https://www.androidauthority.com/blink-video-doorbell-review-3106219/)
+ - [FCC probing Russian ownership ties to US media &amp; telecom industries](https://appleinsider.com/articles/22/02/28/fcc-probing-russian-ownership-ties-to-us-media-telecom-industries?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
