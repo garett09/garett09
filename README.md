@@ -197,9 +197,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany increases military budget to over 200 billion euros](http://9gag.com/gag/a91yqVD)
- - 🚯 [Soon we are back](http://9gag.com/gag/a91y1jD)
- - 🚯 [Huge explosion just happened in Cherkas area.](http://9gag.com/gag/avAyQLW)<!-- MEMES:END -->
+ - 🚖 [Huge explosion just happened in Cherkas area.](http://9gag.com/gag/avAyQLW)
+ - 🚯 [Boy... do I feel stupid for making fun of the people who invested in Doomsday Bunkers...](http://9gag.com/gag/axByy5b)
+ - 🚯 [Center of my city right now. ~5250 people are arrested.](http://9gag.com/gag/aE808EM)<!-- MEMES:END -->
 
 --- 
 
