@@ -190,9 +190,9 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Long-time Apple reporter Jim Dalrymple retires after almost 30 years of work](https://appleinsider.com/articles/22/02/28/long-time-apple-reporter-jim-dalrymple-retires-after-almost-30-years-of-work?utm_medium=rss)
- - [VC-backed semiconductor startups raised more than $6.4B in 2021, up from $3B in 2020 and the most in at least five years &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220228/p17#a220228p17)
- - [Steam Deck review: it’s not ready](https://www.theverge.com/22950371/valve-steam-deck-review)<!-- TECH:END -->
+ - [Apple&#39;s M1 Mac mini can be made portable or smaller with some tinkering](https://appleinsider.com/articles/22/02/28/apples-m1-mac-mini-can-be-made-portable-or-smaller-with-some-tinkering?utm_medium=rss)
+ - [How to stop ads from popping up on your Samsung S22 phone](https://www.androidauthority.com/stop-ads-samsung-phone-3108986/)
+ - [Naomi Osaka is coming to Fortnite](https://www.theverge.com/2022/2/28/22954749/naomi-osaka-fortnite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
