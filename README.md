@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are a lot of missiles flying. Kyiv.](http://9gag.com/gag/adgBxVV)
- - 🚯 [WTF is that?!](http://9gag.com/gag/aRrBM9y)
+ - 🚖 [The negotiations](http://9gag.com/gag/aRrBMDB)
+ - 🚯 [One of gipsies who snatched the tank](http://9gag.com/gag/aAGy28o)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
