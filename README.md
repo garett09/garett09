@@ -197,8 +197,8 @@ Windows                  7 hrs 53 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chickens arranging illegal dog fights](http://9gag.com/gag/a61ZnMm)
- - 🚯 [Unfortunately...](http://9gag.com/gag/awzyLwr)
+ - 🚖 [The Ukrainian Ministry of foreign affairs just confirmed that the 13 military personnel from Snake Island are still alive in captivity.](http://9gag.com/gag/a61Z5yN)
+ - 🚯 [Berdyansk](http://9gag.com/gag/aXrP49z)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
