@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [Elden Ring speedrunners are summoning old Souls glitches to cheat death](https://www.pcgamer.com/elden-ring-speedrunners-are-summoning-old-souls-glitches-to-cheat-death)
- - [Microsoft Flight Simulator Releases the Beechcraft Model 17 Staggerwing as Inaugural Offering of the new “Famous Flyers” Series](https://news.xbox.com/en-us/2022/03/01/microsoft-flight-simulator-releases-beechcraft-model-17-staggerwing/)<!-- GAME:END -->
+ - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)
+ - [Ubisoft provides emergency housing and funding for employees fleeing Ukraine](https://www.pcgamer.com/ubisoft-provides-emergency-housing-and-funding-for-employees-fleeing-ukraine)
+ - [Critical Role’s Matt Mercer will run an Elden Ring one-shot adventure on Twitch](https://www.polygon.com/22956882/critical-role-elden-ring-one-shot-matt-mercer-twitch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
