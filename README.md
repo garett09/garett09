@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is 4D chess play of politics](http://9gag.com/gag/aGzy7oG)
- - 🚯 [Yes they can .. no need engineer](http://9gag.com/gag/a0ZeMrB)
+ - 🚖 [Fighting a bouncer that\u2019s twice your size is never a good idea.](http://9gag.com/gag/apgRV5W)
+ - 🚯 [Giant Safety Gate](http://9gag.com/gag/aAGyOEp)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
