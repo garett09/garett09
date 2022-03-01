@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s 2021 Bravia XR TVs are finally getting a promised VRR software update](https://www.theverge.com/2022/3/1/22956649/sony-2021-bravia-xr-tv-vrr-variable-refresh-rate-update)
- - [Huawei MateBook X Pro 2022 hands-on: the nose-cam is no more](https://www.androidauthority.com/huawei-matebook-x-pro-2022-hands-on-3124874/)
- - [Easily Backup and Transfer Data to Your New PC For Less With $94 Off This App Transfer Kit     - CNET](https://www.cnet.com/tech/services-and-software/easily-backup-and-transfer-data-to-your-new-pc-for-less-with-94-off-this-app-transfer-kit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lifetime Babbel language learning subscription is back on sale for $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/22/03/01/lifetime-babbel-language-learning-subscription-is-back-on-sale-for-199-300-off?utm_medium=rss)
+ - [Facebook whistleblower Frances Haugen to join Jill Biden at State of the Union address](https://www.theverge.com/2022/3/1/22956830/biden-state-of-the-union-address-facebook-whistleblower-frances-haugen-jill)
+ - [What’s new on Peacock in March: Joe vs Carole, Bust Down, and more](https://www.androidauthority.com/new-on-peacock-2306327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
