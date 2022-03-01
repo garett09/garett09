@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why use older high-end chips? These new SoCs could power affordable flagships](https://www.androidauthority.com/mediatek-dimensity-8000-series-3119622/)
- - [Android phones might finally gain a feature Apple has offered for years](https://www.androidauthority.com/android-13-flashlight-brightness-control-3123792/)
- - [What’s new on Netflix in March 2022: The Adam Project, Bridgerton, and more](https://www.androidauthority.com/new-on-netflix-939257/)<!-- TECH:END -->
+ - [New on Amazon Prime Video in March: The Boys, Upload, and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)
+ - [Payhawk, which offers spend management software to European businesses, adds $100M to its Series B at a $1B post-money valuation, up from $570M in November 2021 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220301/p4#a220301p4)
+ - [Developers at EA, Zynga, Ubisoft, and others describe internal turmoil and disapproval over executive-level decisions and plans to use crypto and NFTs in games &lpar;Patrick Klepek/VICE&rpar;](http://www.techmeme.com/220301/p3#a220301p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
