@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [George R. R. Martin hails Elden Ring as a &#39;landmark megahit&#39;](https://www.pcgamer.com/george-r-r-martin-hails-elden-ring-as-a-landmark-megahit)
- - [Destiny 2: How to get the Parasite exotic grenade launcher](https://www.pcgamer.com/destiny-2-parasite-exotic-grenade-launcher)
- - [How to find Melina and level up in Elden Ring](https://www.pcgamer.com/how-to-level-up-elden-ring-melina-location-refuse-accept)<!-- GAME:END -->
+ - [Auto experts discuss how Gran Turismo 7 celebrates car culture](https://blog.playstation.com/2022/03/01/auto-experts-discuss-how-gran-turismo-7-celebrates-car-culture/)
+ - [Auto experts discuss how Gran Turismo 7 celebrates car culture](https://blog.playstation.com/2022/03/01/auto-experts-discuss-how-gran-turismo-7-celebrates-car-culture/)
+ - [Coming Soon to Xbox Game Pass: Marvel’s Guardians of the Galaxy, Kentucky Route Zero, and More](https://news.xbox.com/en-us/2022/03/01/xbox-game-pass-march-update-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
