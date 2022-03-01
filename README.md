@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [163 orphans from a home near Kyiv have arrived safely in Freiburg &lpar;Germany&rpar;.](http://9gag.com/gag/aLvnVRz)
- - 🚯 [Charkov airport evaporated](http://9gag.com/gag/azexvGb)
- - 🚯 [Kyiv right now.](http://9gag.com/gag/aRrB9mq)<!-- MEMES:END -->
+ - 🚖 [This is in Tallinn, Estonia. 300k out of total population 1.3mln are Russians. Some of them seem to be *#%$ &lpar;photo not mine&rpar;](http://9gag.com/gag/aNPDGDA)
+ - 🚯 [This isnt what the simulation prepared me for.](http://9gag.com/gag/a817vGZ)
+ - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
 
 --- 
 
