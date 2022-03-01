@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every damn time](http://9gag.com/gag/aDD2XEw)
- - 🚯 [What did they expect?](http://9gag.com/gag/aDD2Oo7)
+ - 🚖 [Confused Putler noises](http://9gag.com/gag/a91y2v0)
+ - 🚯 [Every damn time](http://9gag.com/gag/aDD2XEw)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
