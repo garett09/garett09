@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid Motors says it expects to make fewer EVs in 2022 than it originally planned](https://www.theverge.com/2022/2/28/22955518/lucid-motors-q4-2021-earnings-ev-air-deliveries)
- - [Ashneer Grover, co-founder of Indian fintech unicorn BharatPe, resigns from the company&#39;s board, following a probe into alleged financial irregularities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220228/p30#a220228p30)
- - [Facebook to Restrict Some Russian State-Controlled Media Across the EU     - CNET](https://www.cnet.com/news/facebook-to-restrict-some-russian-state-controlled-media-across-the-eu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Euphoria&#39; Season 2 Finale Recap: A Jaw-Dropping Conclusion     - CNET](https://www.cnet.com/news/euphoria-season-2-finale-features-a-jaw-dropping-conclusion/#ftag=CAD590a51e)
+ - [Netflix: All the TV shows and movies coming in March 2022     - CNET](https://www.cnet.com/news/netflix-all-the-tv-shows-and-movies-coming-in-march-2022/#ftag=CAD590a51e)
+ - [FTX announces Future Fund, planning to invest between $100M and $1B in 2022 in projects that &quot;improve humanity&#39;s long-term prospects&quot;, like safer AI development &lpar;Mathew Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220228/p32#a220228p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
