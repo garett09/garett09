@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Mod Lets You Pause The Game](https://kotaku.com/elden-ring-fromsoftware-pc-miyazaki-mods-pause-paused-s-1848604531)
- - [Big Wings](https://kotaku.com/alex-senechal-halo-4-concept-art-3d-guns-fine-kotaku-mo-1848604874)
- - [The funniest Elden Ring deaths so far](https://www.pcgamer.com/the-funniest-elden-ring-deaths-so-far)<!-- GAME:END -->
+ - [RimWorld is officially banned in Australia, but it probably won&#39;t affect PC](https://www.pcgamer.com/rimworld-is-officially-banned-in-australia-but-it-probably-wont-affect-pc)
+ - [Starlink terminals deliver much needed internet access in Ukraine](https://www.pcgamer.com/starlink-terminals-deliver-much-needed-internet-access-in-ukraine)
+ - [Cherry MX low profile switches have had a sneaky upgrade](https://www.pcgamer.com/cherry-mx-low-profile-switches-have-had-a-sneaky-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
