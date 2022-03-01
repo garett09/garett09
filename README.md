@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is in Tallinn, Estonia. 300k out of total population 1.3mln are Russians. Some of them seem to be *#%$ &lpar;photo not mine&rpar;](http://9gag.com/gag/aNPDGDA)
+ - 🚖 [The pictures speak for themselves](http://9gag.com/gag/aNPDG73)
  - 🚯 [This isnt what the simulation prepared me for.](http://9gag.com/gag/a817vGZ)
- - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
+ - 🚯 [Melitopol. The civilians went out to stop the column of occupiers. The invaders shoot into the air.](http://9gag.com/gag/aDD2N4x)<!-- MEMES:END -->
 
 --- 
 
