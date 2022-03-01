@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Toshiba CEO Satoshi Tsunakawa will step down, will be succeeded by Corporate Senior Vice President Taro Shimada &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220228/p35#a220228p35)
- - [Sources: the Biden administration asks major crypto exchanges globally to help thwart Russian individuals and organizations from using crypto to avoid sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/220228/p34#a220228p34)
- - [Honor’s Earbuds 3 Pro come with built-in temperature monitoring](https://www.theverge.com/2022/2/28/22954767/honor-earbuds-temperature-earbuds-3-pro)<!-- TECH:END -->
+ - [Waymo secures a permit to charge for ride-hailing trips in its autonomous vehicles in San Francisco with safety drivers present &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220228/p37#a220228p37)
+ - [SEC&#39;s Gurbir Grewal says agency will not offer amnesty to crypto firms that self-report violations of securities laws, although they may face smaller penalties &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/220228/p36#a220228p36)
+ - [&#39;The Batman&#39; Will No Longer Be Released in Russia &lpar;For Now&rpar;     - CNET](https://www.cnet.com/news/the-batman-will-no-longer-be-released-in-russia-for-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
