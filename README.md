@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)
- - 🚯 [163 orphans from a home near Kyiv have arrived safely in Freiburg &lpar;Germany&rpar;.](http://9gag.com/gag/aLvnVRz)
- - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
+ - 🚖 [163 orphans from a home near Kyiv have arrived safely in Freiburg &lpar;Germany&rpar;.](http://9gag.com/gag/aLvnVRz)
+ - 🚯 [Charkov airport evaporated](http://9gag.com/gag/azexvGb)
+ - 🚯 [Kyiv right now.](http://9gag.com/gag/aRrB9mq)<!-- MEMES:END -->
 
 --- 
 
