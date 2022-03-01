@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Camera comparison: iPhone 13 Pro versus Galaxy S22 Ultra](https://appleinsider.com/articles/22/03/01/camera-comparison-iphone-13-pro-versus-galaxy-s22-ultra?utm_medium=rss)
- - [A New Super-High Satellite Will Eye Weather on Earth—and in Space](https://www.wired.com/story/a-new-super-high-satellite-will-spy-weather-on-earth-and-in-space)
- - [VR Is Here to Stay. It&#39;s Time to Make It Accessible](https://www.wired.com/story/virtual-reality-accessibility-disabilities)<!-- TECH:END -->
+ - [South African crypto exchange VALR raises a $50M Series B at a $240M valuation, up 10x from July 2020, led by Pantera Capital &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220301/p17#a220301p17)
+ - [Apple raised iPhone production to 85.5M in Q4 2021](https://appleinsider.com/articles/22/03/01/apple-raised-iphone-production-to-855m-in-q4-2021?utm_medium=rss)
+ - [Amazon Luna launches for anyone in the US, adds free games for Prime members and Twitch integration](https://www.theverge.com/2022/3/1/22955391/amazon-luna-launch-united-states-free-games-prime-members-twitch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
