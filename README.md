@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Time By Ping, which uses AI to help companies automate timesheets, raises a $36.5M Series B led by ACME and Anthos, bringing its total funding to $55M+ &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220301/p30#a220301p30)
- - [Apple stops all online sales in Russia](https://appleinsider.com/articles/22/03/01/apple-temporarily-halts-all-online-sales-in-russia?utm_medium=rss)
- - [Android 101: how to organize your homescreen](https://www.theverge.com/22956390/android-organize-home-screen-how-to)<!-- TECH:END -->
+ - [Google’s ‘Fast Emergency Dialer’ brings local emergency numbers to your Pixel’s lock screen](https://www.theverge.com/2022/3/1/22956671/google-pixel-fast-emergency-dialer-phone)
+ - [HPE reports Q1 revenue of $7B, down 2% YoY, Compute revenue of $3B, up 1% YoY, and order growth up 20% YoY, including &quot;as-a-service&quot; orders up 136% YoY &lpar;Eric J. Savitz/Barron&#39;s Online&rpar;](http://www.techmeme.com/220301/p33#a220301p33)
+ - [‘Former pirate’ hit with $19.5 million fine for piracy](https://www.theverge.com/2022/3/1/22956219/kodi-tvaddons-creator-fined-19-million-copyright-infringement-piracy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
