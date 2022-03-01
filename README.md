@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases the Beechcraft Model 17 Staggerwing as Inaugural Offering of the new “Famous Flyers” Series](https://news.xbox.com/en-us/2022/03/01/microsoft-flight-simulator-releases-beechcraft-model-17-staggerwing/)
- - [Steam Deck&#39;s anti-glare screen is actually playable in bright sunlight](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight)
- - [Free visual novel prequel Ghostwire: Tokyo – Prelude is available today on PS5 &amp; PS4](https://blog.playstation.com/2022/03/01/free-visual-novel-prequel-ghostwire-tokyo-prelude-is-available-today-on-ps5-ps4/)<!-- GAME:END -->
+ - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
+ - [Elden Ring speedrunners are summoning old Souls glitches to cheat death](https://www.pcgamer.com/elden-ring-speedrunners-are-summoning-old-souls-glitches-to-cheat-death)
+ - [Microsoft Flight Simulator Releases the Beechcraft Model 17 Staggerwing as Inaugural Offering of the new “Famous Flyers” Series](https://news.xbox.com/en-us/2022/03/01/microsoft-flight-simulator-releases-beechcraft-model-17-staggerwing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
