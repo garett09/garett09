@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues fifth macOS Monterey 12.3 developer beta](https://appleinsider.com/articles/22/03/01/apple-issues-fifth-macos-monterey-123-developer-beta?utm_medium=rss)
- - [Meta will demote content linking to Russian state media outlets on Facebook and Instagram globally and rolls out encrypted Instagram DMs in Ukraine and Russia &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220301/p24#a220301p24)
- - [Honor Magic 4 Pro: We go hands-on with the specs beast](https://www.androidauthority.com/honor-magic-4-pro-review-3123851/)<!-- TECH:END -->
+ - [Sony’s 2021 Bravia XR TVs are finally getting a promised VRR software update](https://www.theverge.com/2022/3/1/22956649/sony-2021-bravia-xr-tv-vrr-variable-refresh-rate-update)
+ - [Huawei MateBook X Pro 2022 hands-on: the nose-cam is no more](https://www.androidauthority.com/huawei-matebook-x-pro-2022-hands-on-3124874/)
+ - [Easily Backup and Transfer Data to Your New PC For Less With $94 Off This App Transfer Kit     - CNET](https://www.cnet.com/tech/services-and-software/easily-backup-and-transfer-data-to-your-new-pc-for-less-with-94-off-this-app-transfer-kit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
