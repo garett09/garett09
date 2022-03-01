@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sigh](http://9gag.com/gag/aeg9dnb)
- - 🚯 [Someone put him in mental hospital](http://9gag.com/gag/aAGym2E)
- - 🚯 [Arcade queen](http://9gag.com/gag/aDD2M27)<!-- MEMES:END -->
+ - 🚖 [The 385 m Kyiv TV tower has been targeted by a Russian strike.](http://9gag.com/gag/aKmGN0N)
+ - 🚯 [Ukraine handed over nuclear weapons to Russia `in exchange for a guarantee never to be threatened or invaded`](http://9gag.com/gag/ay9NPK8)
+ - 🚯 [It&#39;s not really going as he pictured in his mind it I guess...](http://9gag.com/gag/azexQYm)<!-- MEMES:END -->
 
 --- 
 
