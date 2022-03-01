@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funimation’s anime library is moving over to Crunchyroll](https://www.theverge.com/2022/3/1/22956273/crunchyroll-funimation-anime-library-merge-sony)
- - [Sonos unveils cheaper Roam SL speaker without a microphone](https://appleinsider.com/articles/22/03/01/sonos-unveils-cheaper-roam-sl-speaker-without-a-microphone?utm_medium=rss)
- - [HyperDrive USB-C 15-port 4K Display Docking Station now available](https://appleinsider.com/articles/22/03/01/hyperdrive-15-port-4k-display-docking-station-back-in-stock-at-hyper?utm_medium=rss)<!-- TECH:END -->
+ - [Mobile marketing company AppLovin announces a $430M deal to acquire Wurl, a content distribution and advertising service for connected TVs &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220301/p23#a220301p23)
+ - [Nomad Base One review: The most premium MagSafe charger around](https://appleinsider.com/articles/22/03/01/nomad-base-one-review-the-most-premium-magsafe-charger-around?utm_medium=rss)
+ - [Save $900 on the Galaxy S22 Plus with trade-in, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
