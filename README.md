@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft OneDrive update coming soon will bring native Apple Silicon support](https://appleinsider.com/articles/22/03/01/microsoft-onedrive-update-coming-soon-will-bring-native-apple-silicon-support?utm_medium=rss)
- - [Get a free year of VPN access with MacPaw&#39;s ClearVPN](https://appleinsider.com/articles/22/02/28/get-a-free-year-of-vpn-access-with-macpaws-clearvpn?utm_medium=rss)
- - [Facebook to Restrict Some Russian State-Controlled Media Across the EU     - CNET](https://www.cnet.com/news/facebook-to-restrict-some-russian-state-controlled-media-across-the-eu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Toshiba CEO Satoshi Tsunakawa will step down, will be succeeded by Corporate Senior Vice President Taro Shimada &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220228/p35#a220228p35)
+ - [Sources: the Biden administration asks major crypto exchanges globally to help thwart Russian individuals and organizations from using crypto to avoid sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/220228/p34#a220228p34)
+ - [Honor’s Earbuds 3 Pro come with built-in temperature monitoring](https://www.theverge.com/2022/2/28/22954767/honor-earbuds-temperature-earbuds-3-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
