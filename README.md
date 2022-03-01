@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No you won\u2019t. I\u2019m a spartan.](http://9gag.com/gag/aVxvLZn)
- - 🚯 [Confused Putler noises](http://9gag.com/gag/a91y2v0)
+ - 🚖 [My pretty boy Tank](http://9gag.com/gag/aAGyXMd)
+ - 🚯 [Zelensky and the signed application to join EU](http://9gag.com/gag/ang7xzV)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
