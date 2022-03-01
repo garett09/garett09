@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Volopay, which offers corporate cards and expense management software to startups and enterprises, raises a $29M Series A in equity and debt &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220228/p39#a220228p39)
- - [Social networks and the internet have been a valuable force multiplier for Ukraine and the allies of democracy during the early days of Russia&#39;s invasion &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220228/p38#a220228p38)
- - [Waymo secures a permit to charge for ride-hailing trips in its autonomous vehicles in San Francisco with safety drivers present &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220228/p37#a220228p37)<!-- TECH:END -->
+ - [No, Signal has not been hacked contrary to what you’ve been told.](https://www.androidauthority.com/signal-hacked-3123787/)
+ - [Interview with Australia&#39;s communications minister Paul Fletcher on the efficacy of the country&#39;s year-old news bargaining code with Google and Meta &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220301/p1#a220301p1)
+ - [Waiting for the Xiaomi 12 series? Here’s when it might be going global](https://www.androidauthority.com/xiaomi-12-series-global-launch-date-3123774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
