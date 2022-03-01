@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sid Meier says monetisation causes some games to &#39;stray a little bit further from the path&#39;](https://www.pcgamer.com/sid-meier-says-monetisation-causes-some-games-to-stray-a-little-bit-further-from-the-path)
- - [Alice: Madness Returns is back on Steam after a 5 year absence](https://www.pcgamer.com/alice-madness-returns-is-back-on-steam-after-a-5-year-absence)
- - [Destiny 2: How to find faction chests and complete Trust Goes Both Ways](https://www.pcgamer.com/destiny-2-faction-chests-trust-goes-both-ways)<!-- GAME:END -->
+ - [George R. R. Martin hails Elden Ring as a &#39;landmark megahit&#39;](https://www.pcgamer.com/george-r-r-martin-hails-elden-ring-as-a-landmark-megahit)
+ - [Destiny 2: How to get the Parasite exotic grenade launcher](https://www.pcgamer.com/destiny-2-parasite-exotic-grenade-launcher)
+ - [How to find Melina and level up in Elden Ring](https://www.pcgamer.com/how-to-level-up-elden-ring-melina-location-refuse-accept)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
