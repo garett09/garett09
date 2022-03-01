@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime Babbel language learning subscription is back on sale for $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/22/03/01/lifetime-babbel-language-learning-subscription-is-back-on-sale-for-199-300-off?utm_medium=rss)
- - [Facebook whistleblower Frances Haugen to join Jill Biden at State of the Union address](https://www.theverge.com/2022/3/1/22956830/biden-state-of-the-union-address-facebook-whistleblower-frances-haugen-jill)
- - [What’s new on Peacock in March: Joe vs Carole, Bust Down, and more](https://www.androidauthority.com/new-on-peacock-2306327/)<!-- TECH:END -->
+ - [Apple TV+ secures series adaptation of 1927 film &#39;Metropolis&#39;](https://appleinsider.com/articles/22/03/01/apple-tv-secures-series-adaptation-of-1927-film-metropolis?utm_medium=rss)
+ - [Apple pauses all product sales in Russia, removes RT News and Sputnik News from the App Store outside Russia, and disables Apple Maps&#39; live traffic in Ukraine &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220301/p28#a220301p28)
+ - [Apple halts product sales in Russia](https://www.theverge.com/2022/3/1/22957000/apple-russia-ukraine-invasion-halt-product-sales-app-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
