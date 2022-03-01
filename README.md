@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fighting a bouncer that\u2019s twice your size is never a good idea.](http://9gag.com/gag/apgRV5W)
- - 🚯 [Giant Safety Gate](http://9gag.com/gag/aAGyOEp)
+ - 🚖 [Arcade queen](http://9gag.com/gag/aDD2M27)
+ - 🚯 [Part 2](http://9gag.com/gag/ang7GLL)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
