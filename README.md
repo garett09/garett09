@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ secures series adaptation of 1927 film &#39;Metropolis&#39;](https://appleinsider.com/articles/22/03/01/apple-tv-secures-series-adaptation-of-1927-film-metropolis?utm_medium=rss)
- - [Apple pauses all product sales in Russia, removes RT News and Sputnik News from the App Store outside Russia, and disables Apple Maps&#39; live traffic in Ukraine &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220301/p28#a220301p28)
- - [Apple halts product sales in Russia](https://www.theverge.com/2022/3/1/22957000/apple-russia-ukraine-invasion-halt-product-sales-app-store)<!-- TECH:END -->
+ - [Time By Ping, which uses AI to help companies automate timesheets, raises a $36.5M Series B led by ACME and Anthos, bringing its total funding to $55M+ &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220301/p30#a220301p30)
+ - [Apple stops all online sales in Russia](https://appleinsider.com/articles/22/03/01/apple-temporarily-halts-all-online-sales-in-russia?utm_medium=rss)
+ - [Android 101: how to organize your homescreen](https://www.theverge.com/22956390/android-organize-home-screen-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
