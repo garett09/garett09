@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chernihiv region](http://9gag.com/gag/a41PVzv)
- - 🚯 [Should i change the thermal paste ???](http://9gag.com/gag/awzyePy)
+ - 🚖 [Working for free](http://9gag.com/gag/avAymNZ)
+ - 🚯 [March: Bonjour!](http://9gag.com/gag/aqGyA9p)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
