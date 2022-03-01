@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The 385 m Kyiv TV tower has been targeted by a Russian strike.](http://9gag.com/gag/aKmGN0N)
- - 🚯 [Ukraine handed over nuclear weapons to Russia `in exchange for a guarantee never to be threatened or invaded`](http://9gag.com/gag/ay9NPK8)
- - 🚯 [It&#39;s not really going as he pictured in his mind it I guess...](http://9gag.com/gag/azexQYm)<!-- MEMES:END -->
+ - 🚖 [Zelensky is now addressing the European Parliament. The European Parliament translator is getting emotional as he translates. `This morning, two cruise missiles hit Freedom Square...this is the price of freedom. We&#39;re fighting for our land and for our freedom.`](http://9gag.com/gag/azexBvZ)
+ - 🚯 [Cameraman of the Year. I had shit my pants](http://9gag.com/gag/ay9NZYb)
+ - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
 
 --- 
 
