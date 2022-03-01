@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahrefs vs SEMrush: Which SEO Tool Should You Use?](http://www.crunchhype.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html)
- - [Ukraine invasion, App Store Changes, and retail openings - Apple&#39;s February 2022 in review](https://appleinsider.com/articles/22/03/01/ukraine-invasion-app-store-changes-and-more-or-less-kanye-west---february-2022-in-review?utm_medium=rss)
- - [Qualcomm&#39;s Snapdragon X70 modem with AI could arrive in &#39;iPhone 15&#39;](https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Camera comparison: iPhone 13 Pro versus Galaxy S22 Ultra](https://appleinsider.com/articles/22/03/01/camera-comparison-iphone-13-pro-versus-galaxy-s22-ultra?utm_medium=rss)
+ - [A New Super-High Satellite Will Eye Weather on Earth—and in Space](https://www.wired.com/story/a-new-super-high-satellite-will-spy-weather-on-earth-and-in-space)
+ - [VR Is Here to Stay. It&#39;s Time to Make It Accessible](https://www.wired.com/story/virtual-reality-accessibility-disabilities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
