@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alexa play Imagine](http://9gag.com/gag/a41PxVZ)
- - 🚯 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)
- - 🚯 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)<!-- MEMES:END -->
+ - 🚖 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)
+ - 🚯 [163 orphans from a home near Kyiv have arrived safely in Freiburg &lpar;Germany&rpar;.](http://9gag.com/gag/aLvnVRz)
+ - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
 
 --- 
 
