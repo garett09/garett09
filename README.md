@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This mod unlocks Elden Ring&#39;s 60 fps cap at your own risk](https://www.pcgamer.com/this-mod-unlocks-elden-rings-60-fps-cap-at-your-own-risk)
- - [Best antivirus for PC gaming 2022](https://www.pcgamer.com/best-anti-virus)
- - [Xbox Wire Officially Launches in Japan as Xbox Celebrates 20 years in Market](https://news.xbox.com/en-us/2022/02/28/xbox-wire-officially-launches-in-japan-as-xbox-celebrates-20-years-in-market/)<!-- GAME:END -->
+ - [Elden Ring Mod Lets You Pause The Game](https://kotaku.com/elden-ring-fromsoftware-pc-miyazaki-mods-pause-paused-s-1848604531)
+ - [Big Wings](https://kotaku.com/alex-senechal-halo-4-concept-art-3d-guns-fine-kotaku-mo-1848604874)
+ - [The funniest Elden Ring deaths so far](https://www.pcgamer.com/the-funniest-elden-ring-deaths-so-far)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
