@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Betrayal at House on the Hill 3rd Edition includes 50 new haunts, better minis, and more](https://www.polygon.com/tabletop-games/22956275/betrayal-at-house-on-the-hill-third-edition-board-game-announcement-release-date-price)
- - [Every movie and show coming to Netflix in March](https://www.polygon.com/22947383/new-netflix-movies-tv-shows-watch-march-2022)
- - [The Innocents trailer brings a dark edge to kids with superpowers](https://www.polygon.com/22956343/the-innocents-trailer-horror)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases the Beechcraft Model 17 Staggerwing as Inaugural Offering of the new “Famous Flyers” Series](https://news.xbox.com/en-us/2022/03/01/microsoft-flight-simulator-releases-beechcraft-model-17-staggerwing/)
+ - [Steam Deck&#39;s anti-glare screen is actually playable in bright sunlight](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight)
+ - [Free visual novel prequel Ghostwire: Tokyo – Prelude is available today on PS5 &amp; PS4](https://blog.playstation.com/2022/03/01/free-visual-novel-prequel-ghostwire-tokyo-prelude-is-available-today-on-ps5-ps4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
