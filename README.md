@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cooking at the end of the world in Final Fantasy XIV](https://www.theverge.com/2022/3/1/22954703/final-fantasy-14-endwalker-food-tech)
- - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera-2022)
- - [Nvidia confirms that hackers have leaked employee data and &quot;some Nvidia proprietary information&quot;; LAPSUS$ group claims it took 1TB data, including source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220301/p21#a220301p21)<!-- TECH:END -->
+ - [Funimation’s anime library is moving over to Crunchyroll](https://www.theverge.com/2022/3/1/22956273/crunchyroll-funimation-anime-library-merge-sony)
+ - [Sonos unveils cheaper Roam SL speaker without a microphone](https://appleinsider.com/articles/22/03/01/sonos-unveils-cheaper-roam-sl-speaker-without-a-microphone?utm_medium=rss)
+ - [HyperDrive USB-C 15-port 4K Display Docking Station now available](https://appleinsider.com/articles/22/03/01/hyperdrive-15-port-4k-display-docking-station-back-in-stock-at-hyper?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
