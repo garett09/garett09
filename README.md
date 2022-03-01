@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Norwegian Defense](http://9gag.com/gag/ay9Nv0b)
- - 🚯 [Checkpoints manned by civilian volunteers armed with AK-47s are springing up all over Ukraine\u2019s capital Kyiv.](http://9gag.com/gag/ay9NYvq)
+ - 🚖 [This is 4D chess play of politics](http://9gag.com/gag/aGzy7oG)
+ - 🚯 [Yes they can .. no need engineer](http://9gag.com/gag/a0ZeMrB)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
