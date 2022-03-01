@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisted Metal is getting a live-action TV show with Anthony Mackie](https://www.pcgamer.com/twisted-metal-is-getting-a-live-action-tv-show-with-anthony-mackie)
- - [Netflix’s Marvel shows, including Daredevil and Punisher, hitting Disney Plus in March](https://www.polygon.com/22949056/netflix-marvel-shows-are-coming-to-disney-plus-in-march)
- - [Amid war in Ukraine, game developers raise money for aid and denounce Russia](https://www.polygon.com/22956372/ukraine-war-aid-bungie-cd-project-red-game-devs-donations)<!-- GAME:END -->
+ - [Dead By Daylight’s Sadako Rising: Creating the curse](https://blog.playstation.com/2022/03/01/dead-by-daylights-sadako-rising-creating-the-curse/)
+ - [Dead By Daylight’s Sadako Rising: Creating the curse](https://blog.playstation.com/2022/03/01/dead-by-daylights-sadako-rising-creating-the-curse/)
+ - [Elden Ring talisman locations guide](https://www.pcgamer.com/best-elden-ring-talisman-pouch-slots-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
