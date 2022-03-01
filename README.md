@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney, Sony, Warner Bros. and Paramount pull films from release in Russia](https://www.polygon.com/22956259/batman-disney-movies-studios-russia-releases)
- - [République: Anniversary Edition launches on PS4 &amp; PS VR March 10](https://blog.playstation.com/2022/03/01/republique-anniversary-edition-launches-on-ps4-ps-vr-march-10/)
- - [République: Anniversary Edition launches on PS4 &amp; PS VR March 10](https://blog.playstation.com/2022/03/01/republique-anniversary-edition-launches-on-ps4-ps-vr-march-10/)<!-- GAME:END -->
+ - [Twisted Metal is getting a live-action TV show with Anthony Mackie](https://www.pcgamer.com/twisted-metal-is-getting-a-live-action-tv-show-with-anthony-mackie)
+ - [Netflix’s Marvel shows, including Daredevil and Punisher, hitting Disney Plus in March](https://www.polygon.com/22949056/netflix-marvel-shows-are-coming-to-disney-plus-in-march)
+ - [Amid war in Ukraine, game developers raise money for aid and denounce Russia](https://www.polygon.com/22956372/ukraine-war-aid-bungie-cd-project-red-game-devs-donations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
