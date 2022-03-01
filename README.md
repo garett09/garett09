@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight’s Sadako Rising: Creating the curse](https://blog.playstation.com/2022/03/01/dead-by-daylights-sadako-rising-creating-the-curse/)
- - [Dead By Daylight’s Sadako Rising: Creating the curse](https://blog.playstation.com/2022/03/01/dead-by-daylights-sadako-rising-creating-the-curse/)
- - [Elden Ring talisman locations guide](https://www.pcgamer.com/best-elden-ring-talisman-pouch-slots-locations)<!-- GAME:END -->
+ - [Betrayal at House on the Hill 3rd Edition includes 50 new haunts, better minis, and more](https://www.polygon.com/tabletop-games/22956275/betrayal-at-house-on-the-hill-third-edition-board-game-announcement-release-date-price)
+ - [Every movie and show coming to Netflix in March](https://www.polygon.com/22947383/new-netflix-movies-tv-shows-watch-march-2022)
+ - [The Innocents trailer brings a dark edge to kids with superpowers](https://www.polygon.com/22956343/the-innocents-trailer-horror)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
