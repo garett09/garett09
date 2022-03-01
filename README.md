@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile marketing company AppLovin announces a $430M deal to acquire Wurl, a content distribution and advertising service for connected TVs &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220301/p23#a220301p23)
- - [Nomad Base One review: The most premium MagSafe charger around](https://appleinsider.com/articles/22/03/01/nomad-base-one-review-the-most-premium-magsafe-charger-around?utm_medium=rss)
- - [Save $900 on the Galaxy S22 Plus with trade-in, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [Apple issues fifth macOS Monterey 12.3 developer beta](https://appleinsider.com/articles/22/03/01/apple-issues-fifth-macos-monterey-123-developer-beta?utm_medium=rss)
+ - [Meta will demote content linking to Russian state media outlets on Facebook and Instagram globally and rolls out encrypted Instagram DMs in Ukraine and Russia &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220301/p24#a220301p24)
+ - [Honor Magic 4 Pro: We go hands-on with the specs beast](https://www.androidauthority.com/honor-magic-4-pro-review-3123851/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
