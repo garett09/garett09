@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New on Amazon Prime Video in March: The Boys, Upload, and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)
- - [Payhawk, which offers spend management software to European businesses, adds $100M to its Series B at a $1B post-money valuation, up from $570M in November 2021 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220301/p4#a220301p4)
- - [Developers at EA, Zynga, Ubisoft, and others describe internal turmoil and disapproval over executive-level decisions and plans to use crypto and NFTs in games &lpar;Patrick Klepek/VICE&rpar;](http://www.techmeme.com/220301/p3#a220301p3)<!-- TECH:END -->
+ - [David Boggs, who co-invented Ethernet along with Bob Metcalfe at Xerox PARC, died on February 19 at 71 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220301/p5#a220301p5)
+ - [Latest OnePlus 8 series update brings February patch](https://www.androidauthority.com/oneplus-8-pro-update-1108368/)
+ - [New on Amazon Prime Video in March: The Boys, Upload, and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
