@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Signal has not been hacked contrary to what you’ve been told.](https://www.androidauthority.com/signal-hacked-3123787/)
- - [Interview with Australia&#39;s communications minister Paul Fletcher on the efficacy of the country&#39;s year-old news bargaining code with Google and Meta &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220301/p1#a220301p1)
- - [Waiting for the Xiaomi 12 series? Here’s when it might be going global](https://www.androidauthority.com/xiaomi-12-series-global-launch-date-3123774/)<!-- TECH:END -->
+ - [Why use older high-end chips? These new SoCs could power affordable flagships](https://www.androidauthority.com/mediatek-dimensity-8000-series-3119622/)
+ - [Android phones might finally gain a feature Apple has offered for years](https://www.androidauthority.com/android-13-flashlight-brightness-control-3123792/)
+ - [What’s new on Netflix in March 2022: The Adam Project, Bridgerton, and more](https://www.androidauthority.com/new-on-netflix-939257/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
