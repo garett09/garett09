@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new 3DMark GPU benchmark is coming later this year](https://www.pcgamer.com/a-new-3dmark-gpu-benchmark-is-coming-later-this-year)
- - [Lenovo announces new ThinkPad and IdeaPad Gaming line up](https://www.pcgamer.com/lenovo-announces-new-thinkpad-and-ideapad-gaming-line-up)
- - [RimWorld is officially banned in Australia, but it probably won&#39;t affect PC](https://www.pcgamer.com/rimworld-is-officially-banned-in-australia-but-it-probably-wont-affect-pc)<!-- GAME:END -->
+ - [Sid Meier says monetisation causes some games to &#39;stray a little bit further from the path&#39;](https://www.pcgamer.com/sid-meier-says-monetisation-causes-some-games-to-stray-a-little-bit-further-from-the-path)
+ - [Alice: Madness Returns is back on Steam after a 5 year absence](https://www.pcgamer.com/alice-madness-returns-is-back-on-steam-after-a-5-year-absence)
+ - [Destiny 2: How to find faction chests and complete Trust Goes Both Ways](https://www.pcgamer.com/destiny-2-faction-chests-trust-goes-both-ways)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
