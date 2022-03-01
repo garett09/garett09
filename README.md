@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Auto experts discuss how Gran Turismo 7 celebrates car culture](https://blog.playstation.com/2022/03/01/auto-experts-discuss-how-gran-turismo-7-celebrates-car-culture/)
- - [Auto experts discuss how Gran Turismo 7 celebrates car culture](https://blog.playstation.com/2022/03/01/auto-experts-discuss-how-gran-turismo-7-celebrates-car-culture/)
- - [Coming Soon to Xbox Game Pass: Marvel’s Guardians of the Galaxy, Kentucky Route Zero, and More](https://news.xbox.com/en-us/2022/03/01/xbox-game-pass-march-update-2022/)<!-- GAME:END -->
+ - [Disney, Sony, Warner Bros. and Paramount pull films from release in Russia](https://www.polygon.com/22956259/batman-disney-movies-studios-russia-releases)
+ - [République: Anniversary Edition launches on PS4 &amp; PS VR March 10](https://blog.playstation.com/2022/03/01/republique-anniversary-edition-launches-on-ps4-ps-vr-march-10/)
+ - [République: Anniversary Edition launches on PS4 &amp; PS VR March 10](https://blog.playstation.com/2022/03/01/republique-anniversary-edition-launches-on-ps4-ps-vr-march-10/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
