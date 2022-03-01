@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Working for free](http://9gag.com/gag/avAymNZ)
- - 🚯 [March: Bonjour!](http://9gag.com/gag/aqGyA9p)
+ - 🚖 [March: Bonjour!](http://9gag.com/gag/aqGyA9p)
+ - 🚯 [Slava Ukraini](http://9gag.com/gag/aXrPeW6)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
