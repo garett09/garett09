@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South African crypto exchange VALR raises a $50M Series B at a $240M valuation, up 10x from July 2020, led by Pantera Capital &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220301/p17#a220301p17)
- - [Apple raised iPhone production to 85.5M in Q4 2021](https://appleinsider.com/articles/22/03/01/apple-raised-iphone-production-to-855m-in-q4-2021?utm_medium=rss)
- - [Amazon Luna launches for anyone in the US, adds free games for Prime members and Twitch integration](https://www.theverge.com/2022/3/1/22955391/amazon-luna-launch-united-states-free-games-prime-members-twitch)<!-- TECH:END -->
+ - [Cooking at the end of the world in Final Fantasy XIV](https://www.theverge.com/2022/3/1/22954703/final-fantasy-14-endwalker-food-tech)
+ - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera-2022)
+ - [Nvidia confirms that hackers have leaked employee data and &quot;some Nvidia proprietary information&quot;; LAPSUS$ group claims it took 1TB data, including source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220301/p21#a220301p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
