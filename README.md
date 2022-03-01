@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone put him in mental hospital](http://9gag.com/gag/aAGym2E)
- - 🚯 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)
- - 🚯 [Kharkiv town hall this morning](http://9gag.com/gag/ay9NvKy)<!-- MEMES:END -->
+ - 🚖 [Sigh](http://9gag.com/gag/aeg9dnb)
+ - 🚯 [Someone put him in mental hospital](http://9gag.com/gag/aAGym2E)
+ - 🚯 [Arcade queen](http://9gag.com/gag/aDD2M27)<!-- MEMES:END -->
 
 --- 
 
