@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Euphoria&#39; Season 2 Finale Recap: A Jaw-Dropping Conclusion     - CNET](https://www.cnet.com/news/euphoria-season-2-finale-features-a-jaw-dropping-conclusion/#ftag=CAD590a51e)
- - [Netflix: All the TV shows and movies coming in March 2022     - CNET](https://www.cnet.com/news/netflix-all-the-tv-shows-and-movies-coming-in-march-2022/#ftag=CAD590a51e)
- - [FTX announces Future Fund, planning to invest between $100M and $1B in 2022 in projects that &quot;improve humanity&#39;s long-term prospects&quot;, like safer AI development &lpar;Mathew Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220228/p32#a220228p32)<!-- TECH:END -->
+ - [Microsoft OneDrive update coming soon will bring native Apple Silicon support](https://appleinsider.com/articles/22/03/01/microsoft-onedrive-update-coming-soon-will-bring-native-apple-silicon-support?utm_medium=rss)
+ - [Get a free year of VPN access with MacPaw&#39;s ClearVPN](https://appleinsider.com/articles/22/02/28/get-a-free-year-of-vpn-access-with-macpaws-clearvpn?utm_medium=rss)
+ - [Facebook to Restrict Some Russian State-Controlled Media Across the EU     - CNET](https://www.cnet.com/news/facebook-to-restrict-some-russian-state-controlled-media-across-the-eu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
