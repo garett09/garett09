@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck had some wild prototypes](https://www.pcgamer.com/the-steam-deck-had-some-wild-prototypes)
- - [American TV is obsessed with crumbling empires right now](https://www.polygon.com/22955287/yellowstone-righteous-gemstones-succession-empire-tv-shows)
- - [The best Elden Ring items to grab early on](https://www.pcgamer.com/elden-ring-best-items-guide)<!-- GAME:END -->
+ - [This mod unlocks Elden Ring&#39;s 60 fps cap at your own risk](https://www.pcgamer.com/this-mod-unlocks-elden-rings-60-fps-cap-at-your-own-risk)
+ - [Best antivirus for PC gaming 2022](https://www.pcgamer.com/best-anti-virus)
+ - [Xbox Wire Officially Launches in Japan as Xbox Celebrates 20 years in Market](https://news.xbox.com/en-us/2022/02/28/xbox-wire-officially-launches-in-japan-as-xbox-celebrates-20-years-in-market/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
