@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)
- - [Ubisoft provides emergency housing and funding for employees fleeing Ukraine](https://www.pcgamer.com/ubisoft-provides-emergency-housing-and-funding-for-employees-fleeing-ukraine)
- - [Critical Role’s Matt Mercer will run an Elden Ring one-shot adventure on Twitch](https://www.polygon.com/22956882/critical-role-elden-ring-one-shot-matt-mercer-twitch-stream)<!-- GAME:END -->
+ - [The best order to watch all the Batman movies in based on your needs](https://www.polygon.com/what-to-watch/22949597/batman-movies-watch-order-streaming-ranked)
+ - [The best mini-ITX case in 2022](https://www.pcgamer.com/best-mini-itx-case)
+ - [Every new movie and show coming to Disney Plus in March](https://www.polygon.com/2022/3/1/22941283/disney-plus-new-movies-tv-watch-march-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
