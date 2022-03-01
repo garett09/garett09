@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Boggs, who co-invented Ethernet along with Bob Metcalfe at Xerox PARC, died on February 19 at 71 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220301/p5#a220301p5)
- - [Latest OnePlus 8 series update brings February patch](https://www.androidauthority.com/oneplus-8-pro-update-1108368/)
- - [New on Amazon Prime Video in March: The Boys, Upload, and more](https://www.androidauthority.com/new-on-amazon-prime-video-1049755/)<!-- TECH:END -->
+ - [YouTube will block Kremlin-backed RT and Sputnik in Europe, following similar bans by Meta and TikTok, citing the Ukraine invasion &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220301/p6#a220301p6)
+ - [How to search in Google Sheets](https://www.androidauthority.com/search-google-sheets-3110279/)
+ - [Amazon opens first Whole Foods equipped with cashierless technology](https://www.theverge.com/2022/3/1/22956093/amazon-whole-foods-just-walk-out-cashierless-tech-glover-park-washington-dc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
