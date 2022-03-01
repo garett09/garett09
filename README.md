@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zelensky is now addressing the European Parliament. The European Parliament translator is getting emotional as he translates. `This morning, two cruise missiles hit Freedom Square...this is the price of freedom. We&#39;re fighting for our land and for our freedom.`](http://9gag.com/gag/azexBvZ)
- - 🚯 [Cameraman of the Year. I had shit my pants](http://9gag.com/gag/ay9NZYb)
- - 🚯 [Nord stream 2 declares bankruptcy](http://9gag.com/gag/axByQyp)<!-- MEMES:END -->
+ - 🚖 [Alexa play Imagine](http://9gag.com/gag/a41PxVZ)
+ - 🚯 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)
+ - 🚯 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)<!-- MEMES:END -->
 
 --- 
 
