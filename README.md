@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After dire predictions, Russia has not yet unleashed a crippling cyberattack on Ukraine, leaving the country with functioning internet and infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/220301/p12#a220301p12)
- - [Watch Valve’s Gabe Newell deliver Steam Decks to mostly confused customers](https://www.theverge.com/tldr/2022/3/1/22956123/gabe-newell-valve-steam-deck-hand-delivery)
- - [What’s new on Disney Plus in March: Moon Knight, Turning Red, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [Ahrefs vs SEMrush: Which SEO Tool Should You Use?](http://www.crunchhype.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html)
+ - [Ukraine invasion, App Store Changes, and retail openings - Apple&#39;s February 2022 in review](https://appleinsider.com/articles/22/03/01/ukraine-invasion-app-store-changes-and-more-or-less-kanye-west---february-2022-in-review?utm_medium=rss)
+ - [Qualcomm&#39;s Snapdragon X70 modem with AI could arrive in &#39;iPhone 15&#39;](https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
