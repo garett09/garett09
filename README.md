@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will block Kremlin-backed RT and Sputnik in Europe, following similar bans by Meta and TikTok, citing the Ukraine invasion &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220301/p6#a220301p6)
- - [How to search in Google Sheets](https://www.androidauthority.com/search-google-sheets-3110279/)
- - [Amazon opens first Whole Foods equipped with cashierless technology](https://www.theverge.com/2022/3/1/22956093/amazon-whole-foods-just-walk-out-cashierless-tech-glover-park-washington-dc)<!-- TECH:END -->
+ - [After dire predictions, Russia has not yet unleashed a crippling cyberattack on Ukraine, leaving the country with functioning internet and infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/220301/p12#a220301p12)
+ - [Watch Valve’s Gabe Newell deliver Steam Decks to mostly confused customers](https://www.theverge.com/tldr/2022/3/1/22956123/gabe-newell-valve-steam-deck-hand-delivery)
+ - [What’s new on Disney Plus in March: Moon Knight, Turning Red, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
