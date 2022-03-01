@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo secures a permit to charge for ride-hailing trips in its autonomous vehicles in San Francisco with safety drivers present &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220228/p37#a220228p37)
- - [SEC&#39;s Gurbir Grewal says agency will not offer amnesty to crypto firms that self-report violations of securities laws, although they may face smaller penalties &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/220228/p36#a220228p36)
- - [&#39;The Batman&#39; Will No Longer Be Released in Russia &lpar;For Now&rpar;     - CNET](https://www.cnet.com/news/the-batman-will-no-longer-be-released-in-russia-for-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Singapore-based Volopay, which offers corporate cards and expense management software to startups and enterprises, raises a $29M Series A in equity and debt &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220228/p39#a220228p39)
+ - [Social networks and the internet have been a valuable force multiplier for Ukraine and the allies of democracy during the early days of Russia&#39;s invasion &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220228/p38#a220228p38)
+ - [Waymo secures a permit to charge for ride-hailing trips in its autonomous vehicles in San Francisco with safety drivers present &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220228/p37#a220228p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
