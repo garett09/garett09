@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all the Batman movies in based on your needs](https://www.polygon.com/what-to-watch/22949597/batman-movies-watch-order-streaming-ranked)
- - [The best mini-ITX case in 2022](https://www.pcgamer.com/best-mini-itx-case)
- - [Every new movie and show coming to Disney Plus in March](https://www.polygon.com/2022/3/1/22941283/disney-plus-new-movies-tv-watch-march-2022)<!-- GAME:END -->
+ - [Futurama will be returning with Bender after all](https://www.polygon.com/entertainment/22957206/futurama-will-be-returning-with-bender-after-all)
+ - [Ghostwire: Tokyo&#39;s free visual novel introduces KK and his supernatural detective squad](https://www.pcgamer.com/ghostwire-tokyos-free-visual-novel-introduces-kk-and-his-supernatural-detective-squad)
+ - [Elden Ring’s Torrent is the ultimate horse companion](https://www.polygon.com/22957071/elden-ring-torrent-ultimate-horse-companion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
