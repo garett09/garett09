@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zelensky and the signed application to join EU](http://9gag.com/gag/ang7xzV)
- - 🚯 [Switzerland after going with the EU on sanctions](http://9gag.com/gag/aggm40r)
+ - 🚖 [Every damn time](http://9gag.com/gag/aDD2XEw)
+ - 🚯 [What did they expect?](http://9gag.com/gag/aDD2Oo7)
  - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
 
 --- 
