@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld is officially banned in Australia, but it probably won&#39;t affect PC](https://www.pcgamer.com/rimworld-is-officially-banned-in-australia-but-it-probably-wont-affect-pc)
- - [Starlink terminals deliver much needed internet access in Ukraine](https://www.pcgamer.com/starlink-terminals-deliver-much-needed-internet-access-in-ukraine)
- - [Cherry MX low profile switches have had a sneaky upgrade](https://www.pcgamer.com/cherry-mx-low-profile-switches-have-had-a-sneaky-upgrade)<!-- GAME:END -->
+ - [A new 3DMark GPU benchmark is coming later this year](https://www.pcgamer.com/a-new-3dmark-gpu-benchmark-is-coming-later-this-year)
+ - [Lenovo announces new ThinkPad and IdeaPad Gaming line up](https://www.pcgamer.com/lenovo-announces-new-thinkpad-and-ideapad-gaming-line-up)
+ - [RimWorld is officially banned in Australia, but it probably won&#39;t affect PC](https://www.pcgamer.com/rimworld-is-officially-banned-in-australia-but-it-probably-wont-affect-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
