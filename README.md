@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/aGzybjZ)
- - 🚯 [Zelensky is now addressing the European Parliament. The European Parliament translator is getting emotional as he translates. `This morning, two cruise missiles hit Freedom Square...this is the price of freedom. We&#39;re fighting for our land and for our freedom.`](http://9gag.com/gag/azexBvZ)
- - 🚯 [How fast can you be? Power up your jump jets and play Guild Wars 2: End of Dragons now!](http://9gag.com/gag/aeg9VbB)<!-- MEMES:END -->
+ - 🚖 [Someone put him in mental hospital](http://9gag.com/gag/aAGym2E)
+ - 🚯 [Make love, not war.](http://9gag.com/gag/a0ZeWjL)
+ - 🚯 [Kharkiv town hall this morning](http://9gag.com/gag/ay9NvKy)<!-- MEMES:END -->
 
 --- 
 
