@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russians attacked civilians blocking the entrance to Energodar. Casualties reported](http://9gag.com/gag/axBy5N2)
- - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)
- - 🚯 [Building ... construction complete, New construction options Building ... construction complete Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready](http://9gag.com/gag/aAGy8dR)<!-- MEMES:END -->
+ - 🚖 [Two russian airplanes &lpar;two SU 27 and two SU 24&rpar; entered Swedish airspace today over Gotland. The Swedish Air Force picked them up on radar and were photographed by a Jas 39 Gripen. Reports came from the Swedish Air Force and F\u00f6rsvarsmakten.](http://9gag.com/gag/aPZAKQV)
+ - 🚯 [Building ... construction complete, New construction options Building ... construction complete Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready](http://9gag.com/gag/aAGy8dR)
+ - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)<!-- MEMES:END -->
 
 --- 
 
