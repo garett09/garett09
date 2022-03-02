@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anti Social Social Club x Gran Turismo 7 collaboration drops March 4](https://blog.playstation.com/2022/03/02/anti-social-social-club-x-gran-turismo-7-collaboration-drops-march-4/)
- - [Anti Social Social Club x Gran Turismo 7 collaboration drops March 4](https://blog.playstation.com/2022/03/02/anti-social-social-club-x-gran-turismo-7-collaboration-drops-march-4/)
- - [EA Sports removes Russian teams from NHL, FIFA video games](https://www.polygon.com/22958515/fifa-nhl-russian-teams-banned-ea-sports-statement)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen finally fulfills the series’ dormant potential](https://www.polygon.com/reviews/22958740/destiny-2-the-witch-queen-review-expansion-weapon-crafting-void-campaign-savathun)
+ - [ESL suspends Russian esports teams and competitions over invasion of Ukraine](https://www.pcgamer.com/esl-suspends-russian-esports-teams-and-competitions-over-invasion-of-ukraine)
+ - [Epic Games buys Bandcamp, says &#39;fair and open platforms are critical&#39;](https://www.pcgamer.com/epic-games-bandcamp-acquisition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
