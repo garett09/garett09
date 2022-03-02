@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen finally fulfills the series’ dormant potential](https://www.polygon.com/reviews/22958740/destiny-2-the-witch-queen-review-expansion-weapon-crafting-void-campaign-savathun)
- - [ESL suspends Russian esports teams and competitions over invasion of Ukraine](https://www.pcgamer.com/esl-suspends-russian-esports-teams-and-competitions-over-invasion-of-ukraine)
- - [Epic Games buys Bandcamp, says &#39;fair and open platforms are critical&#39;](https://www.pcgamer.com/epic-games-bandcamp-acquisition)<!-- GAME:END -->
+ - [What did George RR Martin do for Elden Ring anyway?](https://www.pcgamer.com/what-did-george-rr-martin-do-for-elden-ring-anyway)
+ - [Valheim: How to craft Flesh Rippers and give your Viking a set of Wolverine claws](https://www.pcgamer.com/valheim-flesh-rippers-claws)
+ - [Destiny 2: The Witch Queen finally fulfills the series’ dormant potential](https://www.polygon.com/reviews/22958740/destiny-2-the-witch-queen-review-expansion-weapon-crafting-void-campaign-savathun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
