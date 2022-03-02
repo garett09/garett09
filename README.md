@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melbourne-based neobank Zeller, which offers fintech tools for SMBs, raises a A$100M Series B led by Headline, bringing its valuation to A$1B+ &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220302/p32#a220302p32)
- - [IIHS Announces 2022 Top Safety Pick Plus Winners     - Roadshow](https://www.cnet.com/roadshow/news/iihs-2022-top-safety-pick-plus-award-winners/#ftag=CAD590a51e)
- - [Amazon closing all of its brick-and-mortar bookstores and &#39;4-Star&#39; locations](https://appleinsider.com/articles/22/03/02/amazon-closing-all-of-its-brick-and-mortar-bookstores-and-4-star-locations?utm_medium=rss)<!-- TECH:END -->
+ - [Wordle rip-offs are running rampant on the App Store again](https://www.theverge.com/2022/3/2/22958907/wordle-rip-offs-app-store-apple-new-york-times-word-game-moderation)
+ - [How to Help Victims of the War in Ukraine](https://www.wired.com/story/donate-to-help-ukraine)
+ - [Several US state AGs launch a probe into TikTok, focusing on whether the app&#39;s design and operations negatively impact young users&#39; physical and mental health &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220302/p33#a220302p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
