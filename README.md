@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wonder why](http://9gag.com/gag/a314Oyr)
- - 🚯 [Looks like they got the memo&lpar;anarchist cookbook shows this recipe with styrofoam&rpar;](http://9gag.com/gag/a817gxZ)
- - 🚯 [Hi Team. Long time Gagger, first time poster - Just wanted to say a big thank you. You make my Wednesdays happy with your Froggie man and my Mondays abit better with your fantastic memes.](http://9gag.com/gag/a91yG0Z)<!-- MEMES:END -->
+ - 🚖 [Kyiv update: I&#39;ve got groceries!](http://9gag.com/gag/aGzymo7)
+ - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)
+ - 🚯 [Poor Russian soldier in tears after facing the reality and calling his family :&lpar;](http://9gag.com/gag/aKmGo0W)<!-- MEMES:END -->
 
 --- 
 
