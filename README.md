@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [2 hours of sleep is enough, right?](http://9gag.com/gag/a91y05o)
- - 🚯 [A non-war meme](http://9gag.com/gag/avAywRO)
- - 🚯 [We need him rn!](http://9gag.com/gag/aBny5OZ)<!-- MEMES:END -->
+ - 🚯 [Sad af, recently broke up with gf on the edge of a war but hey have some cake.](http://9gag.com/gag/a314r9r)
+ - 🚯 [Guy tastes hot sauce, disregarding the advice that it&#39;s the second most strong in the world](http://9gag.com/gag/aogyowx)<!-- MEMES:END -->
 
 --- 
 
