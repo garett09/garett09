@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks like they got the memo&lpar;anarchist cookbook shows this recipe with styrofoam&rpar;](http://9gag.com/gag/a817gxZ)
- - 🚯 [How to get your car vandalized &lpar;Estonia&rpar;](http://9gag.com/gag/a41P01w)
- - 🚯 [Britan NLAW in work, near Kyev](http://9gag.com/gag/aBnye5D)<!-- MEMES:END -->
+ - 🚖 [Biden strikes again](http://9gag.com/gag/a71oxBz)
+ - 🚯 [Britan NLAW in work, near Kyev](http://9gag.com/gag/aBnye5D)
+ - 🚯 [Mixed feelings](http://9gag.com/gag/a817gXY)<!-- MEMES:END -->
 
 --- 
 
