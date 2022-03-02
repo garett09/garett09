@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyiv update: I&#39;ve got groceries!](http://9gag.com/gag/aGzymo7)
- - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)
- - 🚯 [Poor Russian soldier in tears after facing the reality and calling his family :&lpar;](http://9gag.com/gag/aKmGo0W)<!-- MEMES:END -->
+ - 🚖 [Poor Russian soldier in tears after facing the reality and calling his family :&lpar;](http://9gag.com/gag/aKmGo0W)
+ - 🚯 [Locals Steal more Russian Equipment &lpar;Tor-M2, $25 million USD&rpar;](http://9gag.com/gag/aBnyAgO)
+ - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)<!-- MEMES:END -->
 
 --- 
 
