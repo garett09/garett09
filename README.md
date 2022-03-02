@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Futurama’s revival will feature the original voice of Bender after all](https://www.theverge.com/2022/3/2/22957871/futurama-hulu-john-dimaggio-bender)
- - [Twitter&#39;s crowdsourced fact-checking program Birdwatch remains a small pilot project 13 months after launch, with only 359 contributors flagging tweets in 2022 &lpar;Washington Post&rpar;](http://www.techmeme.com/220302/p2#a220302p2)
- - [Australian Scientists Plan to Resurrect the Extinct Tasmanian Tiger     - CNET](https://www.cnet.com/news/australian-scientists-plan-to-resurrect-the-extinct-tasmanian-tiger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta releases its Q4 Widely Viewed Content report, showing the most viewed Facebook Page comes from a banned account; Meta would not reveal the account &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/220302/p5#a220302p5)
+ - [Batman tickets to cost more than other films at AMC theaters](https://www.theverge.com/2022/3/2/22957881/batman-tickets-amc-pricing-premium)
+ - [Accel announces its seventh Indian fund with $650M to invest and says it plans to focus on certain sectors, including Web3 and B2B marketplaces &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220302/p4#a220302p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
