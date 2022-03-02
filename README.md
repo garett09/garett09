@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FFP2&#39;s Final Boss](http://9gag.com/gag/aNPDMDb)
- - 🚯 [Demonstration in Zurich, Switzerland - Stay strong, Ukrainian brothers and sisters!](http://9gag.com/gag/aZrZKnp)
- - 🚯 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)<!-- MEMES:END -->
+ - 🚖 [2 hours of sleep is enough, right?](http://9gag.com/gag/a91y05o)
+ - 🚯 [A non-war meme](http://9gag.com/gag/avAywRO)
+ - 🚯 [We need him rn!](http://9gag.com/gag/aBny5OZ)<!-- MEMES:END -->
 
 --- 
 
