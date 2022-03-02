@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What could possible go wrong being racist to Asians in an Asian neighbourhood](http://9gag.com/gag/aAGy5Dd)
- - 🚯 [Guy tastes hot sauce, disregarding the advice that it&#39;s the second most strong in the world](http://9gag.com/gag/aogyowx)
- - 🚯 [Now keep them down!](http://9gag.com/gag/a817NM6)<!-- MEMES:END -->
+ - 🚖 [FFP2&#39;s Final Boss](http://9gag.com/gag/aNPDMDb)
+ - 🚯 [Demonstration in Zurich, Switzerland - Stay strong, Ukrainian brothers and sisters!](http://9gag.com/gag/aZrZKnp)
+ - 🚯 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)<!-- MEMES:END -->
 
 --- 
 
