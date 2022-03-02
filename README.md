@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two russian airplanes &lpar;two SU 27 and two SU 24&rpar; entered Swedish airspace today over Gotland. The Swedish Air Force picked them up on radar and were photographed by a Jas 39 Gripen. Reports came from the Swedish Air Force and F\u00f6rsvarsmakten.](http://9gag.com/gag/aPZAKQV)
- - 🚯 [Building ... construction complete, New construction options Building ... construction complete Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready](http://9gag.com/gag/aAGy8dR)
+ - 🚖 [Gotta say i kinda miss him](http://9gag.com/gag/axByxyY)
+ - 🚯 [What the hell](http://9gag.com/gag/a61Z05b)
  - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)<!-- MEMES:END -->
 
 --- 
