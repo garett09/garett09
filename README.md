@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gran Turismo 7 is the granddaddy of racing games — in more ways than one](https://www.polygon.com/reviews/22957121/gran-turismo-7-review-ps5)
  - [Dungeon Siege is back and has joined the metaverse, for some reason](https://www.pcgamer.com/dungeon-siege-is-back-and-has-joined-the-metaverse-for-some-reason)
- - [Nvidia&#39;s DLSS source code leaked by hackers](https://www.pcgamer.com/nvidias-dlss-source-code-leaked-by-hackers)
- - [Micron boasts world&#39;s most advanced SSD for data centers](https://www.pcgamer.com/micron-boasts-worlds-most-advanced-ssd-for-data-centers)<!-- GAME:END -->
+ - [Nvidia&#39;s DLSS source code leaked by hackers](https://www.pcgamer.com/nvidias-dlss-source-code-leaked-by-hackers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
