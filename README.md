@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE starts receiving February security patch](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
- - [Woolly Mammoths and Other Ice Age Animals Will Roam the Metaverse     - CNET](https://www.cnet.com/news/woolly-mammoths-and-other-ice-age-animals-will-roam-the-metaverse/#ftag=CAD590a51e)
- - [Crazy Apple price drops continue at Amazon: iMacs as low as $799 &lpar;up to $300 off&rpar;](https://appleinsider.com/articles/22/03/01/crazy-apple-price-drops-continue-at-amazon-imacs-at-low-as-799-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Best of MWC 2022 Awards: Android Authority’s favorite products from the show](https://www.androidauthority.com/best-of-mwc-2022-awards-3125178/)
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
+ - [Research: Australian startups raised ~$7.3B+ in 682 deals in 2021, up from ~$2.3B in 2020; 19% of investments went to startups with at least one female founder &lpar;Nick Bonyhady/Sydney Morning Herald&rpar;](http://www.techmeme.com/220302/p1#a220302p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
