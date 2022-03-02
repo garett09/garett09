@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crazy Apple price drops continue at Amazon: iMacs as low as $799 &lpar;up to $300 off&rpar;](https://appleinsider.com/articles/22/03/01/crazy-apple-price-drops-continue-at-amazon-imacs-at-low-as-799-up-to-300-off?utm_medium=rss)
- - [Scientists&#39; Ambitious New Plan to Resurrect the Extinct Tasmanian Tiger     - CNET](https://www.cnet.com/news/scientists-ambitious-new-plan-to-resurrect-the-extinct-tasmanian-tiger/#ftag=CAD590a51e)
- - [Web devs create advocacy group aimed at relaxing iOS browser restrictions](https://appleinsider.com/articles/22/03/02/web-devs-create-advocacy-group-aimed-at-relaxing-ios-browser-restrictions?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE starts receiving February security patch](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
+ - [Woolly Mammoths and Other Ice Age Animals Will Roam the Metaverse     - CNET](https://www.cnet.com/news/woolly-mammoths-and-other-ice-age-animals-will-roam-the-metaverse/#ftag=CAD590a51e)
+ - [Crazy Apple price drops continue at Amazon: iMacs as low as $799 &lpar;up to $300 off&rpar;](https://appleinsider.com/articles/22/03/01/crazy-apple-price-drops-continue-at-amazon-imacs-at-low-as-799-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
