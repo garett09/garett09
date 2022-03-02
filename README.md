@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases its Q4 Widely Viewed Content report, showing the most viewed Facebook Page comes from a banned account; Meta would not reveal the account &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/220302/p5#a220302p5)
- - [Batman tickets to cost more than other films at AMC theaters](https://www.theverge.com/2022/3/2/22957881/batman-tickets-amc-pricing-premium)
- - [Accel announces its seventh Indian fund with $650M to invest and says it plans to focus on certain sectors, including Web3 and B2B marketplaces &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220302/p4#a220302p4)<!-- TECH:END -->
+ - [Google will remove RT and Sputnik apps from the Play Store, after removing Russian state outlets from its news features, following a similar move by Apple &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220302/p8#a220302p8)
+ - [Ice Cream Machine Hackers Sue McDonald&#39;s for $900 Million](https://www.wired.com/story/kytch-ice-cream-machine-hackers-sue-mcdonalds-900-million)
+ - [The Pandemic Tanked Rates of Childhood Vaccination—for Everything](https://www.wired.com/story/the-pandemic-tanked-rates-of-childhood-vaccination-for-everything)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
