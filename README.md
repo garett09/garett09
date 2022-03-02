@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War doesn\u2019t care about your special feelings](http://9gag.com/gag/aNPDNd6)
- - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)
- - 🚯 [You f**ked up when docile japan wants to fight you](http://9gag.com/gag/aM4VM6G)<!-- MEMES:END -->
+ - 🚖 [A very healthy friendship](http://9gag.com/gag/a61Z0pe)
+ - 🚯 [Russians attacked civilians blocking the entrance to Energodar. Casualties reported](http://9gag.com/gag/axBy5N2)
+ - 🚯 [Might be a `solution to the ukrainian question`](http://9gag.com/gag/aGzyXP0)<!-- MEMES:END -->
 
 --- 
 
