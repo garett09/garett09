@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Futurama will be returning with Bender after all](https://www.polygon.com/entertainment/22957206/futurama-will-be-returning-with-bender-after-all)
- - [Ghostwire: Tokyo&#39;s free visual novel introduces KK and his supernatural detective squad](https://www.pcgamer.com/ghostwire-tokyos-free-visual-novel-introduces-kk-and-his-supernatural-detective-squad)
- - [Elden Ring’s Torrent is the ultimate horse companion](https://www.polygon.com/22957071/elden-ring-torrent-ultimate-horse-companion)<!-- GAME:END -->
+ - [XCOM 2 is losing multiplayer and challenge mode on PC](https://www.pcgamer.com/xcom-2-is-losing-multiplayer-and-challenge-mode-on-pc)
+ - [Amazon Prime members can now play Devil May Cry 5 in their browser](https://www.pcgamer.com/amazon-luna-launch-prime-members)
+ - [Guardians of the Galaxy is among March&#39;s PC Game Pass arrivals](https://www.pcgamer.com/guardians-of-the-galaxy-is-among-marchs-pc-game-pass-arrivals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
