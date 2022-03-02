@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Google’s on an audio startup buying spree](https://www.theverge.com/2022/3/2/22958535/google-audio-startup-ip-acquisition-hiring-hardware-silicon)
- - [Sources: sports e-commerce startup Fanatics has raised $1.5B at a $27B valuation, up from $18B in August 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220302/p30#a220302p30)
- - [&#39;The Girl From Plainville&#39; Trailer Recreates Horrifying Texting Case     - CNET](https://www.cnet.com/news/the-girl-from-plainville-trailer-recreates-horrifying-texting-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Melbourne-based neobank Zeller, which offers fintech tools for SMBs, raises a A$100M Series B led by Headline, bringing its valuation to A$1B+ &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220302/p32#a220302p32)
+ - [IIHS Announces 2022 Top Safety Pick Plus Winners     - Roadshow](https://www.cnet.com/roadshow/news/iihs-2022-top-safety-pick-plus-award-winners/#ftag=CAD590a51e)
+ - [Amazon closing all of its brick-and-mortar bookstores and &#39;4-Star&#39; locations](https://appleinsider.com/articles/22/03/02/amazon-closing-all-of-its-brick-and-mortar-bookstores-and-4-star-locations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
