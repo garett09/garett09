@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Music streaming service Bandcamp joins the Epic Games ecosystem](https://www.polygon.com/22958497/epic-games-acquires-bandcamp-music-marketplace-service)
- - [How to get to the Siofra River secret underground location in Elden Ring](https://www.pcgamer.com/elden-ring-siofra-river-well-map-location)
- - [Valheim’s Mountains are more dangerous with the latest update](https://www.polygon.com/22958462/valheim-mountain-biome-update-frost-caves)<!-- GAME:END -->
+ - [Anti Social Social Club x Gran Turismo 7 collaboration drops March 4](https://blog.playstation.com/2022/03/02/anti-social-social-club-x-gran-turismo-7-collaboration-drops-march-4/)
+ - [Anti Social Social Club x Gran Turismo 7 collaboration drops March 4](https://blog.playstation.com/2022/03/02/anti-social-social-club-x-gran-turismo-7-collaboration-drops-march-4/)
+ - [EA Sports removes Russian teams from NHL, FIFA video games](https://www.polygon.com/22958515/fifa-nhl-russian-teams-banned-ea-sports-statement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
