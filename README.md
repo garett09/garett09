@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The pictures speak for themselves](http://9gag.com/gag/aNPDG73)
+ - 🚖 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)
  - 🚯 [This isnt what the simulation prepared me for.](http://9gag.com/gag/a817vGZ)
- - 🚯 [Melitopol. The civilians went out to stop the column of occupiers. The invaders shoot into the air.](http://9gag.com/gag/aDD2N4x)<!-- MEMES:END -->
+ - 🚯 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)<!-- MEMES:END -->
 
 --- 
 
