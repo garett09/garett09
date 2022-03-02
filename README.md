@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SOTU: Biden urges Congress to pass the CHIPS act to provide $52B in subsidies to advance US chip manufacturing and praises Intel&#39;s $20B investment in Ohio fabs &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220301/p38#a220301p38)
- - [Tim Cook emails employees, encourages donating to relief efforts in Ukraine](https://appleinsider.com/articles/22/03/02/tim-cook-emails-employees-encourages-donating-to-relief-efforts-in-ukraine?utm_medium=rss)
- - [SOTU: Biden asks Congress to pass new rules to enhance child safety on social media, including banning targeted ads to, and data collection of, children &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220301/p37#a220301p37)<!-- TECH:END -->
+ - [Web devs create advocacy group aimed at relaxing iOS browser restrictions](https://appleinsider.com/articles/22/03/02/web-devs-create-advocacy-group-aimed-at-relaxing-ios-browser-restrictions?utm_medium=rss)
+ - [The Google Pixel Watch and Pixel 6a seem to be drawing closer to launch](https://www.androidauthority.com/google-pixel-watch-pixel-6a-carrier-leak-3125411/)
+ - [The conflict in Ukraine shows that TikTok&#39;s design and algorithm are ideal for quickly sharing war footage, but present a challenge for its moderation system &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/220301/p39#a220301p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
