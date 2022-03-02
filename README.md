@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best external hard drives in 2022](https://www.pcgamer.com/best-external-hard-drives)
- - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)
- - [Gran Turismo 7 is the granddaddy of racing games — in more ways than one](https://www.polygon.com/reviews/22957121/gran-turismo-7-review-ps5)<!-- GAME:END -->
+ - [Streamer tells custom PC builder to stuff their free PC after CEO&#39;s condescending comments](https://www.pcgamer.com/artesianbuilds-ceo-mocks-streamer-thread)
+ - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)
+ - [Bungie will ban Destiny 2 players trying to bypass Steam Deck incompatibility](https://www.pcgamer.com/destiny-2-steam-deck-linux-compatibility)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
