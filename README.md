@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biden strikes again](http://9gag.com/gag/a71oxBz)
- - 🚯 [Britan NLAW in work, near Kyev](http://9gag.com/gag/aBnye5D)
- - 🚯 [Mixed feelings](http://9gag.com/gag/a817gXY)<!-- MEMES:END -->
+ - 🚖 [None oekraine video](http://9gag.com/gag/ang7oLB)
+ - 🚯 [The reason of the Covid restrictions in a nutshell.](http://9gag.com/gag/aYrQ0g7)
+ - 🚯 [Teacher Hits Student For Walking Out of Class](http://9gag.com/gag/aDD2597)<!-- MEMES:END -->
 
 --- 
 
