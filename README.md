@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only athletes should give a whoop about Whoop](https://www.theverge.com/22957195/whoop-review-fitness-tracker-wearables)
- - [Russians hammering an ancient iPad may only matter to other Russians - and probably not even to them](https://appleinsider.com/articles/22/03/02/russians-hammering-an-ancient-ipad-may-only-matter-to-other-russians---and-probably-not-even-to-them?utm_medium=rss)
- - [Apple announces ‘Peek Performance’ event for next week](https://www.androidauthority.com/apple-peek-performance-event-3125857/)<!-- TECH:END -->
+ - [Ukrainian vice PM calls for game companies to cut off Russia during the invasion, directly calling out Sony, Riot Games, EA, Ubisoft, Microsoft, and others &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/220302/p26#a220302p26)
+ - [Epic Games acquires Bandcamp to create &#39;fair&#39; platforms for creators](https://appleinsider.com/articles/22/03/02/epic-games-acquires-bandcamp-to-create-fair-platforms-for-creators?utm_medium=rss)
+ - [Elden Ring Has Performance Issues, But a Fix Is in the Works     - CNET](https://www.cnet.com/tech/gaming/elden-ring-has-performance-issues-but-a-fix-is-in-the-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
