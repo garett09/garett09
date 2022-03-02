@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brandon Sanderson’s Kickstarter for 4 secret novels raises $15M in first day](https://www.polygon.com/22958164/brandon-sanderson-kickstarter-new-books)
- - [Stalker 2 development paused: &#39;We are striving to help our employees and their families to survive&#39;](https://www.pcgamer.com/stalker-2-development-paused-we-are-striving-to-help-our-employees-and-their-families-to-survive)
- - [Where to find the Slumbering Wolf&#39;s Shack NPC in Elden Ring](https://www.pcgamer.com/elden-ring-slumbering-wolf-shack-npc-latenna-the-albinauric)<!-- GAME:END -->
+ - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [How to craft your dream weapon in Destiny 2&#39;s The Witch Queen](https://www.pcgamer.com/how-to-craft-your-dream-weapon-in-destiny-2s-the-witch-queen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
