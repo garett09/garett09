@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor Russian soldier in tears after facing the reality and calling his family :&lpar;](http://9gag.com/gag/aKmGo0W)
- - 🚯 [Locals Steal more Russian Equipment &lpar;Tor-M2, $25 million USD&rpar;](http://9gag.com/gag/aBnyAgO)
- - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)<!-- MEMES:END -->
+ - 🚖 [War doesn\u2019t care about your special feelings](http://9gag.com/gag/aNPDNd6)
+ - 🚯 [Two kinds of people...wait..](http://9gag.com/gag/aLvnZ5W)
+ - 🚯 [You f**ked up when docile japan wants to fight you](http://9gag.com/gag/aM4VM6G)<!-- MEMES:END -->
 
 --- 
 
