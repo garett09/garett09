@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brad Pitt is back in action in the first trailer for John Wick director’s Bullet Train](https://www.polygon.com/22957027/bullet-train-trailer-brad-pitt-release-date-cast)
- - [Heads up: AMC Theatres will charge you more to see The Batman](https://www.polygon.com/22958102/the-batman-showtimes-ticket-pricing-amc)
- - [Elden Ring’s PS5 save bug has been patched](https://www.polygon.com/22958053/elden-ring-ps5-save-bug-pc-issues-patch-1-02-2)<!-- GAME:END -->
+ - [Resident Evil 2, 3, and 7 get Xbox Series X, PS5 launches](https://www.polygon.com/22958225/resident-evil-remake-remaster-free-upgrade-ps5-xbox-series-x-pc)
+ - [Ghostwire: Tokyo’s visual novel prologue is out today on PS4 and PS5](https://www.polygon.com/22958206/ghostwire-tokyo-prelude-how-to-get)
+ - [Thanks to Total War: Warhammer 3’s prologue, I finally understand the series](https://www.pcgamer.com/total-war-warhammer-3-prologue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
