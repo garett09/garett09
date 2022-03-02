@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone SE and Mac mini spring event is on March 8](https://appleinsider.com/articles/22/03/02/apples-iphone-se-and-mac-mini-spring-event-is-on-march-8?utm_medium=rss)
- - [iPhone SE, iPad Air, MacBook Air, more - what to expect from Apple&#39;s spring event](https://appleinsider.com/articles/22/02/23/iphone-se-ipad-air-macbook-air-more---what-to-expect-from-apples-spring-event?utm_medium=rss)
- - [Apple announces an event, dubbed &quot;Peek performance&quot;, on March 8 at 10am PT &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220302/p22#a220302p22)<!-- TECH:END -->
+ - [Only athletes should give a whoop about Whoop](https://www.theverge.com/22957195/whoop-review-fitness-tracker-wearables)
+ - [Russians hammering an ancient iPad may only matter to other Russians - and probably not even to them](https://appleinsider.com/articles/22/03/02/russians-hammering-an-ancient-ipad-may-only-matter-to-other-russians---and-probably-not-even-to-them?utm_medium=rss)
+ - [Apple announces ‘Peek Performance’ event for next week](https://www.androidauthority.com/apple-peek-performance-event-3125857/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
