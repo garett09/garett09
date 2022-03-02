@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [None oekraine video](http://9gag.com/gag/ang7oLB)
- - 🚯 [Videos verified by New York Times show devastating scenes in the town of Borodyanka, northwest of Kyiv. Two apartment buildings have partially collapsed and they surround a kindergarten.](http://9gag.com/gag/aBnyedP)
- - 🚯 [Locals Steal more Russian Equipment &lpar;Tor-M2, $25 million USD&rpar;](http://9gag.com/gag/aBnyAgO)<!-- MEMES:END -->
+ - 🚖 [Wonder why](http://9gag.com/gag/a314Oyr)
+ - 🚯 [Looks like they got the memo&lpar;anarchist cookbook shows this recipe with styrofoam&rpar;](http://9gag.com/gag/a817gxZ)
+ - 🚯 [Hi Team. Long time Gagger, first time poster - Just wanted to say a big thank you. You make my Wednesdays happy with your Froggie man and my Mondays abit better with your fantastic memes.](http://9gag.com/gag/a91yG0Z)<!-- MEMES:END -->
 
 --- 
 
