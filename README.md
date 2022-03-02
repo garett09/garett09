@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Web devs create advocacy group aimed at relaxing iOS browser restrictions](https://appleinsider.com/articles/22/03/02/web-devs-create-advocacy-group-aimed-at-relaxing-ios-browser-restrictions?utm_medium=rss)
- - [The Google Pixel Watch and Pixel 6a seem to be drawing closer to launch](https://www.androidauthority.com/google-pixel-watch-pixel-6a-carrier-leak-3125411/)
- - [The conflict in Ukraine shows that TikTok&#39;s design and algorithm are ideal for quickly sharing war footage, but present a challenge for its moderation system &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/220301/p39#a220301p39)<!-- TECH:END -->
+ - [Crazy Apple price drops continue at Amazon: iMacs as low as $799 &lpar;up to $300 off&rpar;](https://appleinsider.com/articles/22/03/01/crazy-apple-price-drops-continue-at-amazon-imacs-at-low-as-799-up-to-300-off?utm_medium=rss)
+ - [Scientists&#39; Ambitious New Plan to Resurrect the Extinct Tasmanian Tiger     - CNET](https://www.cnet.com/news/scientists-ambitious-new-plan-to-resurrect-the-extinct-tasmanian-tiger/#ftag=CAD590a51e)
+ - [Web devs create advocacy group aimed at relaxing iOS browser restrictions](https://appleinsider.com/articles/22/03/02/web-devs-create-advocacy-group-aimed-at-relaxing-ios-browser-restrictions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
