@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Columbia, please!](http://9gag.com/gag/a817goV)
- - 🚯 [Good ol&#39;days when I used to play videogames for hours and not worry about bills and stupid wars](http://9gag.com/gag/awzy2gr)
- - 🚯 [A non-war meme](http://9gag.com/gag/avAywRO)<!-- MEMES:END -->
+ - 🚖 [Mixed feelings](http://9gag.com/gag/a817gXY)
+ - 🚯 [Hi Team. Long time Gagger, first time poster - Just wanted to say a big thank you. You make my Wednesdays happy with your Froggie man and my Mondays abit better with your fantastic memes.](http://9gag.com/gag/a91yG0Z)
+ - 🚯 [Columbia, please!](http://9gag.com/gag/a817goV)<!-- MEMES:END -->
 
 --- 
 
