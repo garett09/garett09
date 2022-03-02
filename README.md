@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read Tim Cook’s email to employees on Ukraine](https://www.theverge.com/2022/3/1/22957538/apple-tim-cook-ukraine-email-employees)
- - [Biden demands Congress protect kids online in State of the Union address](https://www.theverge.com/2022/3/1/22957505/biden-children-kids-privacy-tech-facebook-instagram-frances-haugen-sotu)
- - [Shanghai-based Inceptio, which is developing autonomous trucks, raises a $188M Series B extension co-led by Sequoia Capital China and Legend Capital &lpar;Catherine Wang/Forbes&rpar;](http://www.techmeme.com/220301/p36#a220301p36)<!-- TECH:END -->
+ - [SOTU: Biden urges Congress to pass the CHIPS act to provide $52B in subsidies to advance US chip manufacturing and praises Intel&#39;s $20B investment in Ohio fabs &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220301/p38#a220301p38)
+ - [Tim Cook emails employees, encourages donating to relief efforts in Ukraine](https://appleinsider.com/articles/22/03/02/tim-cook-emails-employees-encourages-donating-to-relief-efforts-in-ukraine?utm_medium=rss)
+ - [SOTU: Biden asks Congress to pass new rules to enhance child safety on social media, including banning targeted ads to, and data collection of, children &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220301/p37#a220301p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
