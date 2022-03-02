@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Transcend&#39;s JetDrive Lite 330 adds storage to the new MacBook Pro](https://appleinsider.com/articles/22/03/02/transcends-jetdrive-lite-330-adds-storage-to-the-new-macbook-pro?utm_medium=rss)
- - [Save $50 on the Razer Nari Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)<!-- TECH:END -->
+ - [Nvidia says its ‘proprietary information’ is being leaked by hackers](https://www.theverge.com/2022/3/1/22957212/nvidia-confirms-hack-proprietary-information-lapsus)
+ - [Snap halts ads in Russia, Belarus, and Ukraine, pledges $15M to relief orgs in Ukraine, and is helping relocate 300+ Ukrainian staff of its AR platform Looksery &lpar;J. Clara Chan/Hollywood Reporter&rpar;](http://www.techmeme.com/220301/p35#a220301p35)
+ - [Valve says the Steam Deck’s ‘stick drift’ was a bug and it’s already shipped a fix](https://www.theverge.com/2022/3/1/22956866/valve-steam-deck-stick-drift-replacement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
