@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its ‘proprietary information’ is being leaked by hackers](https://www.theverge.com/2022/3/1/22957212/nvidia-confirms-hack-proprietary-information-lapsus)
- - [Snap halts ads in Russia, Belarus, and Ukraine, pledges $15M to relief orgs in Ukraine, and is helping relocate 300+ Ukrainian staff of its AR platform Looksery &lpar;J. Clara Chan/Hollywood Reporter&rpar;](http://www.techmeme.com/220301/p35#a220301p35)
- - [Valve says the Steam Deck’s ‘stick drift’ was a bug and it’s already shipped a fix](https://www.theverge.com/2022/3/1/22956866/valve-steam-deck-stick-drift-replacement)<!-- TECH:END -->
+ - [Read Tim Cook’s email to employees on Ukraine](https://www.theverge.com/2022/3/1/22957538/apple-tim-cook-ukraine-email-employees)
+ - [Biden demands Congress protect kids online in State of the Union address](https://www.theverge.com/2022/3/1/22957505/biden-children-kids-privacy-tech-facebook-instagram-frances-haugen-sotu)
+ - [Shanghai-based Inceptio, which is developing autonomous trucks, raises a $188M Series B extension co-led by Sequoia Capital China and Legend Capital &lpar;Catherine Wang/Forbes&rpar;](http://www.techmeme.com/220301/p36#a220301p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
