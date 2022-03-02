@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainian vice PM calls for game companies to cut off Russia during the invasion, directly calling out Sony, Riot Games, EA, Ubisoft, Microsoft, and others &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/220302/p26#a220302p26)
- - [Epic Games acquires Bandcamp to create &#39;fair&#39; platforms for creators](https://appleinsider.com/articles/22/03/02/epic-games-acquires-bandcamp-to-create-fair-platforms-for-creators?utm_medium=rss)
- - [Elden Ring Has Performance Issues, But a Fix Is in the Works     - CNET](https://www.cnet.com/tech/gaming/elden-ring-has-performance-issues-but-a-fix-is-in-the-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oracle says it has &quot;already suspended all operations&quot; in Russia, following Ukrainian minister Mykhailo Fedorov&#39;s request of Oracle and SAP to do so &lpar;@oracle&rpar;](http://www.techmeme.com/220302/p28#a220302p28)
+ - [Samsung might be throttling the performance of 10,000 apps](https://www.androidauthority.com/samsung-gos-throttling-apps-3125885/)
+ - [Berlin-based Tier Mobility acquires Spin, Ford&#39;s e-scooter unit, in an all-stock deal, for an undisclosed price; Ford acquired Spin in November 2018 for $100M &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220302/p27#a220302p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
