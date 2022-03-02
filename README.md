@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies of 2022, so far](https://www.polygon.com/22927513/best-movies-2022)
  - [Streamer tells custom PC builder to stuff their free PC after CEO&#39;s condescending comments](https://www.pcgamer.com/artesianbuilds-ceo-mocks-streamer-thread)
- - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)
- - [Bungie will ban Destiny 2 players trying to bypass Steam Deck incompatibility](https://www.pcgamer.com/destiny-2-steam-deck-linux-compatibility)<!-- GAME:END -->
+ - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
