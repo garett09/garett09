@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cameraman of the Year. I had shit my pants](http://9gag.com/gag/ay9NZYb)
- - 🚯 [Now keep them down!](http://9gag.com/gag/a817NM6)
- - 🚯 [Charkov right now](http://9gag.com/gag/aDD2rEB)<!-- MEMES:END -->
+ - 🚖 [What could possible go wrong being racist to Asians in an Asian neighbourhood](http://9gag.com/gag/aAGy5Dd)
+ - 🚯 [Guy tastes hot sauce, disregarding the advice that it&#39;s the second most strong in the world](http://9gag.com/gag/aogyowx)
+ - 🚯 [Now keep them down!](http://9gag.com/gag/a817NM6)<!-- MEMES:END -->
 
 --- 
 
