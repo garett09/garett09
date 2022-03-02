@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bullet Train’s first trailer is a warning about quiet cars](https://www.theverge.com/2022/3/2/22958135/bullet-train-trailer-bad-bunny-brad-pitt)
- - [HTC Vive let me drive a car remotely over 5G](https://www.androidauthority.com/htc-vive-demos-5g-xr-experiences-3125620/)
- - [Faros AI, which offers an analytics tool for engineering teams, raises a $16M seed led by SignalFire and releases an open source version of its tool &lpar;George Anadiotis/ZDNet&rpar;](http://www.techmeme.com/220302/p19#a220302p19)<!-- TECH:END -->
+ - [Apple&#39;s iPhone SE and Mac mini spring event is on March 8](https://appleinsider.com/articles/22/03/02/apples-iphone-se-and-mac-mini-spring-event-is-on-march-8?utm_medium=rss)
+ - [iPhone SE, iPad Air, MacBook Air, more - what to expect from Apple&#39;s spring event](https://appleinsider.com/articles/22/02/23/iphone-se-ipad-air-macbook-air-more---what-to-expect-from-apples-spring-event?utm_medium=rss)
+ - [Apple announces an event, dubbed &quot;Peek performance&quot;, on March 8 at 10am PT &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220302/p22#a220302p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
