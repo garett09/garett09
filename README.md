@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix acquires another developer to build ‘world class games’](https://www.theverge.com/2022/3/2/22957953/netflix-next-games-acquisition-stranger-things-mobile-puzzle-rpg)
- - [Amidst grey market price hikes, Apple&#39;s biggest reseller in Russia is closing](https://appleinsider.com/articles/22/03/02/amidst-grey-market-price-hikes-apples-biggest-reseller-in-russia-is-closing?utm_medium=rss)
- - [Horizon Forbidden West Is a Worthy Sequel](https://www.wired.com/story/horizon-forbidden-west-review)<!-- TECH:END -->
+ - [How to Set Up Your Desk Ergonomically for Working or Gaming](https://www.wired.com/story/how-to-set-up-workspace)
+ - [Europe Is in Danger of Using the Wrong Definition of AI](https://www.wired.com/story/artificial-intelligence-regulation-european-union)
+ - [The Best VPNs to Protect Yourself Online](https://www.wired.com/story/best-vpn)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
