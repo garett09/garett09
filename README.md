@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2022, so far](https://www.polygon.com/22927513/best-movies-2022)
- - [Streamer tells custom PC builder to stuff their free PC after CEO&#39;s condescending comments](https://www.pcgamer.com/artesianbuilds-ceo-mocks-streamer-thread)
- - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)<!-- GAME:END -->
+ - [Brad Pitt is back in action in the first trailer for John Wick director’s Bullet Train](https://www.polygon.com/22957027/bullet-train-trailer-brad-pitt-release-date-cast)
+ - [Heads up: AMC Theatres will charge you more to see The Batman](https://www.polygon.com/22958102/the-batman-showtimes-ticket-pricing-amc)
+ - [Elden Ring’s PS5 save bug has been patched](https://www.polygon.com/22958053/elden-ring-ps5-save-bug-pc-issues-patch-1-02-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
