@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Futurama’s revival will feature the original voice of Bender after all](https://www.theverge.com/2022/3/2/22957871/futurama-hulu-john-dimaggio-bender)
  - [Twitter&#39;s crowdsourced fact-checking program Birdwatch remains a small pilot project 13 months after launch, with only 359 contributors flagging tweets in 2022 &lpar;Washington Post&rpar;](http://www.techmeme.com/220302/p2#a220302p2)
- - [Google details March 2022 system update: Here’s what’s coming](https://www.androidauthority.com/google-march-2022-system-update-3125465/)
- - [Best of MWC 2022 Awards: Android Authority’s favorite products from the show](https://www.androidauthority.com/best-of-mwc-2022-awards-3125178/)<!-- TECH:END -->
+ - [Australian Scientists Plan to Resurrect the Extinct Tasmanian Tiger     - CNET](https://www.cnet.com/news/australian-scientists-plan-to-resurrect-the-extinct-tasmanian-tiger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
