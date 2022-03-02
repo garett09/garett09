@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of MWC 2022 Awards: Android Authority’s favorite products from the show](https://www.androidauthority.com/best-of-mwc-2022-awards-3125178/)
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
- - [Research: Australian startups raised ~$7.3B+ in 682 deals in 2021, up from ~$2.3B in 2020; 19% of investments went to startups with at least one female founder &lpar;Nick Bonyhady/Sydney Morning Herald&rpar;](http://www.techmeme.com/220302/p1#a220302p1)<!-- TECH:END -->
+ - [Twitter&#39;s crowdsourced fact-checking program Birdwatch remains a small pilot project 13 months after launch, with only 359 contributors flagging tweets in 2022 &lpar;Washington Post&rpar;](http://www.techmeme.com/220302/p2#a220302p2)
+ - [Google details March 2022 system update: Here’s what’s coming](https://www.androidauthority.com/google-march-2022-system-update-3125465/)
+ - [Best of MWC 2022 Awards: Android Authority’s favorite products from the show](https://www.androidauthority.com/best-of-mwc-2022-awards-3125178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
