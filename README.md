@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stussy fashion house revives Beats Pill+ speaker in limited edition](https://appleinsider.com/articles/22/03/02/stussy-fashion-house-revives-beats-pill-speaker-in-limited-edition?utm_medium=rss)
- - [A profile of Mykhailo Fedorov, one of Ukraine&#39;s deputy prime ministers, who is using his Twitter account to pressure tech giants into standing up to Russia &lpar;Washington Post&rpar;](http://www.techmeme.com/220302/p17#a220302p17)
- - [Fitbit recalls Ionic smartwatch after overheating causes major burns](https://www.androidauthority.com/fitbit-ionic-recalled-3125681/)<!-- TECH:END -->
+ - [Bullet Train’s first trailer is a warning about quiet cars](https://www.theverge.com/2022/3/2/22958135/bullet-train-trailer-bad-bunny-brad-pitt)
+ - [HTC Vive let me drive a car remotely over 5G](https://www.androidauthority.com/htc-vive-demos-5g-xr-experiences-3125620/)
+ - [Faros AI, which offers an analytics tool for engineering teams, raises a $16M seed led by SignalFire and releases an open source version of its tool &lpar;George Anadiotis/ZDNet&rpar;](http://www.techmeme.com/220302/p19#a220302p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
