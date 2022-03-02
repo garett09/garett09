@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What did George RR Martin do for Elden Ring anyway?](https://www.pcgamer.com/what-did-george-rr-martin-do-for-elden-ring-anyway)
- - [Valheim: How to craft Flesh Rippers and give your Viking a set of Wolverine claws](https://www.pcgamer.com/valheim-flesh-rippers-claws)
- - [Destiny 2: The Witch Queen finally fulfills the series’ dormant potential](https://www.polygon.com/reviews/22958740/destiny-2-the-witch-queen-review-expansion-weapon-crafting-void-campaign-savathun)<!-- GAME:END -->
+ - [Three Resident Evil games are getting official ray tracing patches](https://www.pcgamer.com/three-resident-evil-games-are-getting-official-ray-tracing-patches)
+ - [This fan demake shows what Elden Ring would have looked like in 1995](https://www.polygon.com/22958847/elden-ring-demake-trailer-ps1-hoolopee-fx)
+ - [This RTX 3070-powered laptop with a 240Hz display is $500 off](https://www.pcgamer.com/this-rtx-3070-powered-laptop-with-a-240hz-display-is-dollar500-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
