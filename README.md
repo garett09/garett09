@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set Up Your Desk Ergonomically for Working or Gaming](https://www.wired.com/story/how-to-set-up-workspace)
- - [Europe Is in Danger of Using the Wrong Definition of AI](https://www.wired.com/story/artificial-intelligence-regulation-european-union)
- - [The Best VPNs to Protect Yourself Online](https://www.wired.com/story/best-vpn)<!-- TECH:END -->
+ - [Stussy fashion house revives Beats Pill+ speaker in limited edition](https://appleinsider.com/articles/22/03/02/stussy-fashion-house-revives-beats-pill-speaker-in-limited-edition?utm_medium=rss)
+ - [A profile of Mykhailo Fedorov, one of Ukraine&#39;s deputy prime ministers, who is using his Twitter account to pressure tech giants into standing up to Russia &lpar;Washington Post&rpar;](http://www.techmeme.com/220302/p17#a220302p17)
+ - [Fitbit recalls Ionic smartwatch after overheating causes major burns](https://www.androidauthority.com/fitbit-ionic-recalled-3125681/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
