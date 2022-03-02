@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle says it has &quot;already suspended all operations&quot; in Russia, following Ukrainian minister Mykhailo Fedorov&#39;s request of Oracle and SAP to do so &lpar;@oracle&rpar;](http://www.techmeme.com/220302/p28#a220302p28)
- - [Samsung might be throttling the performance of 10,000 apps](https://www.androidauthority.com/samsung-gos-throttling-apps-3125885/)
- - [Berlin-based Tier Mobility acquires Spin, Ford&#39;s e-scooter unit, in an all-stock deal, for an undisclosed price; Ford acquired Spin in November 2018 for $100M &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220302/p27#a220302p27)<!-- TECH:END -->
+ - [Looks like Google’s on an audio startup buying spree](https://www.theverge.com/2022/3/2/22958535/google-audio-startup-ip-acquisition-hiring-hardware-silicon)
+ - [Sources: sports e-commerce startup Fanatics has raised $1.5B at a $27B valuation, up from $18B in August 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220302/p30#a220302p30)
+ - [&#39;The Girl From Plainville&#39; Trailer Recreates Horrifying Texting Case     - CNET](https://www.cnet.com/news/the-girl-from-plainville-trailer-recreates-horrifying-texting-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
