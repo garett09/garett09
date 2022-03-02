@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [XCOM 2 is losing multiplayer and challenge mode on PC](https://www.pcgamer.com/xcom-2-is-losing-multiplayer-and-challenge-mode-on-pc)
- - [Amazon Prime members can now play Devil May Cry 5 in their browser](https://www.pcgamer.com/amazon-luna-launch-prime-members)
- - [Guardians of the Galaxy is among March&#39;s PC Game Pass arrivals](https://www.pcgamer.com/guardians-of-the-galaxy-is-among-marchs-pc-game-pass-arrivals)<!-- GAME:END -->
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/01/essential-picks-promotion-comes-to-playstation-store-2/)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/01/essential-picks-promotion-comes-to-playstation-store-2/)
+ - [XCOM 2 is losing multiplayer and challenge mode on PC](https://www.pcgamer.com/xcom-2-is-losing-multiplayer-and-challenge-mode-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
