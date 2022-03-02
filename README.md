@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mixed feelings](http://9gag.com/gag/a817gXY)
- - 🚯 [Hi Team. Long time Gagger, first time poster - Just wanted to say a big thank you. You make my Wednesdays happy with your Froggie man and my Mondays abit better with your fantastic memes.](http://9gag.com/gag/a91yG0Z)
- - 🚯 [Columbia, please!](http://9gag.com/gag/a817goV)<!-- MEMES:END -->
+ - 🚖 [Britan NLAW in work, near Kyev](http://9gag.com/gag/aBnye5D)
+ - 🚯 [Mixed feelings](http://9gag.com/gag/a817gXY)
+ - 🚯 [How to get your car vandalized &lpar;Estonia&rpar;](http://9gag.com/gag/a41P01w)<!-- MEMES:END -->
 
 --- 
 
