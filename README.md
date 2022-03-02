@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A very healthy friendship](http://9gag.com/gag/a61Z0pe)
- - 🚯 [Russians attacked civilians blocking the entrance to Energodar. Casualties reported](http://9gag.com/gag/axBy5N2)
- - 🚯 [Might be a `solution to the ukrainian question`](http://9gag.com/gag/aGzyXP0)<!-- MEMES:END -->
+ - 🚖 [Russians attacked civilians blocking the entrance to Energodar. Casualties reported](http://9gag.com/gag/axBy5N2)
+ - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)
+ - 🚯 [Building ... construction complete, New construction options Building ... construction complete Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready Building ... unit ready](http://9gag.com/gag/aAGy8dR)<!-- MEMES:END -->
 
 --- 
 
