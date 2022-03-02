@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reason of the Covid restrictions in a nutshell.](http://9gag.com/gag/aYrQ0g7)
+ - 🚖 [Columbia, please!](http://9gag.com/gag/a817goV)
  - 🚯 [Good ol&#39;days when I used to play videogames for hours and not worry about bills and stupid wars](http://9gag.com/gag/awzy2gr)
- - 🚯 [2 hours of sleep is enough, right?](http://9gag.com/gag/a91y05o)<!-- MEMES:END -->
+ - 🚯 [A non-war meme](http://9gag.com/gag/avAywRO)<!-- MEMES:END -->
 
 --- 
 
