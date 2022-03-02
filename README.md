@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)
- - 🚯 [Russian child arrested for protesting the war, separated from her mother](http://9gag.com/gag/aPZAL0B)
- - 🚯 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)<!-- MEMES:END -->
+ - 🚖 [Cameraman of the Year. I had shit my pants](http://9gag.com/gag/ay9NZYb)
+ - 🚯 [Now keep them down!](http://9gag.com/gag/a817NM6)
+ - 🚯 [Charkov right now](http://9gag.com/gag/aDD2rEB)<!-- MEMES:END -->
 
 --- 
 
