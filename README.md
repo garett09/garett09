@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will remove RT and Sputnik apps from the Play Store, after removing Russian state outlets from its news features, following a similar move by Apple &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220302/p8#a220302p8)
- - [Ice Cream Machine Hackers Sue McDonald&#39;s for $900 Million](https://www.wired.com/story/kytch-ice-cream-machine-hackers-sue-mcdonalds-900-million)
- - [The Pandemic Tanked Rates of Childhood Vaccination—for Everything](https://www.wired.com/story/the-pandemic-tanked-rates-of-childhood-vaccination-for-everything)<!-- TECH:END -->
+ - [Netflix acquires another developer to build ‘world class games’](https://www.theverge.com/2022/3/2/22957953/netflix-next-games-acquisition-stranger-things-mobile-puzzle-rpg)
+ - [Amidst grey market price hikes, Apple&#39;s biggest reseller in Russia is closing](https://appleinsider.com/articles/22/03/02/amidst-grey-market-price-hikes-apples-biggest-reseller-in-russia-is-closing?utm_medium=rss)
+ - [Horizon Forbidden West Is a Worthy Sequel](https://www.wired.com/story/horizon-forbidden-west-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
