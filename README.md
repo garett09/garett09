@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [How to craft your dream weapon in Destiny 2&#39;s The Witch Queen](https://www.pcgamer.com/how-to-craft-your-dream-weapon-in-destiny-2s-the-witch-queen)<!-- GAME:END -->
+ - [Music streaming service Bandcamp joins the Epic Games ecosystem](https://www.polygon.com/22958497/epic-games-acquires-bandcamp-music-marketplace-service)
+ - [How to get to the Siofra River secret underground location in Elden Ring](https://www.pcgamer.com/elden-ring-siofra-river-well-map-location)
+ - [Valheim’s Mountains are more dangerous with the latest update](https://www.polygon.com/22958462/valheim-mountain-biome-update-frost-caves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
