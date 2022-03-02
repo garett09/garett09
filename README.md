@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s ‘Fast Emergency Dialer’ brings local emergency numbers to your Pixel’s lock screen](https://www.theverge.com/2022/3/1/22956671/google-pixel-fast-emergency-dialer-phone)
- - [HPE reports Q1 revenue of $7B, down 2% YoY, Compute revenue of $3B, up 1% YoY, and order growth up 20% YoY, including &quot;as-a-service&quot; orders up 136% YoY &lpar;Eric J. Savitz/Barron&#39;s Online&rpar;](http://www.techmeme.com/220301/p33#a220301p33)
- - [‘Former pirate’ hit with $19.5 million fine for piracy](https://www.theverge.com/2022/3/1/22956219/kodi-tvaddons-creator-fined-19-million-copyright-infringement-piracy)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Transcend&#39;s JetDrive Lite 330 adds storage to the new MacBook Pro](https://appleinsider.com/articles/22/03/02/transcends-jetdrive-lite-330-adds-storage-to-the-new-macbook-pro?utm_medium=rss)
+ - [Save $50 on the Razer Nari Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
