@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)
- - 🚯 [This isnt what the simulation prepared me for.](http://9gag.com/gag/a817vGZ)
- - 🚯 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)<!-- MEMES:END -->
+ - 🚖 [Im ashamed to go out, because I shared my opinion about this many times among my friends](http://9gag.com/gag/a21v92e)
+ - 🚯 [Russian child arrested for protesting the war, separated from her mother](http://9gag.com/gag/aPZAL0B)
+ - 🚯 [Russian kids in police station. After protests against war.](http://9gag.com/gag/aNPDX54)<!-- MEMES:END -->
 
 --- 
 
