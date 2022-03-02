@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 hours of sleep is enough, right?](http://9gag.com/gag/a91y05o)
- - 🚯 [Sad af, recently broke up with gf on the edge of a war but hey have some cake.](http://9gag.com/gag/a314r9r)
- - 🚯 [Guy tastes hot sauce, disregarding the advice that it&#39;s the second most strong in the world](http://9gag.com/gag/aogyowx)<!-- MEMES:END -->
+ - 🚖 [The reason of the Covid restrictions in a nutshell.](http://9gag.com/gag/aYrQ0g7)
+ - 🚯 [Good ol&#39;days when I used to play videogames for hours and not worry about bills and stupid wars](http://9gag.com/gag/awzy2gr)
+ - 🚯 [2 hours of sleep is enough, right?](http://9gag.com/gag/a91y05o)<!-- MEMES:END -->
 
 --- 
 
