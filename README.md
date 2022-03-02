@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [None oekraine video](http://9gag.com/gag/ang7oLB)
- - 🚯 [The reason of the Covid restrictions in a nutshell.](http://9gag.com/gag/aYrQ0g7)
- - 🚯 [Teacher Hits Student For Walking Out of Class](http://9gag.com/gag/aDD2597)<!-- MEMES:END -->
+ - 🚯 [Videos verified by New York Times show devastating scenes in the town of Borodyanka, northwest of Kyiv. Two apartment buildings have partially collapsed and they surround a kindergarten.](http://9gag.com/gag/aBnyedP)
+ - 🚯 [Locals Steal more Russian Equipment &lpar;Tor-M2, $25 million USD&rpar;](http://9gag.com/gag/aBnyAgO)<!-- MEMES:END -->
 
 --- 
 
