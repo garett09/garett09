@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GitHub repository for Meta&#39;s open source library React is being spammed with anti-US and anti-Ukrainian comments in English and Mandarin &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220303/p22#a220303p22)
- - [Azio Cascade review: a surprisingly solid wireless mechanical keyboard](https://www.theverge.com/22958088/azio-cascade-review-wireless-mechanical-keyboard-75-percent-kickstarter)
- - [Bowers &amp; Wilkins announces its first Dolby Atmos soundbar](https://www.theverge.com/2022/3/3/22957586/bowers-wilkins-panorama-3-dolby-atmos-soundbar-announced)<!-- TECH:END -->
+ - [Iceland Bets on Herd Immunity](https://www.wired.com/story/iceland-bets-on-herd-immunity)
+ - [Reddit bans links to Russian state media outlets across its entire service for all users worldwide &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/220303/p27#a220303p27)
+ - [Verizon announces +Play subscription management tool](https://appleinsider.com/articles/22/03/03/verizon-announces-play-subscription-management-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
