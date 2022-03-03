@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electric scooter malfunctioning during recharge](http://9gag.com/gag/aNPDNq3)
- - 🚯 [Guy exposes his cheating wife at the baby shower. The camera man is getting all the right reactions at the right time.](http://9gag.com/gag/aeg9oOm)
- - 🚯 [Architecture 101](http://9gag.com/gag/a71ojQb)<!-- MEMES:END -->
+ - 🚖 [Honor walk. Today we said goodbye to our son. He is on his way to share his gifts of life.](http://9gag.com/gag/a41PMVv)
+ - 🚯 [Traffic jam solution](http://9gag.com/gag/a11mGvP)
+ - 🚯 [Kabooon!](http://9gag.com/gag/aVxvGVv)<!-- MEMES:END -->
 
 --- 
 
