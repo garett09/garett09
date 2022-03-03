@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Deck support improvements delayed for Rimworld due to ongoing Ukraine conflict](https://www.pcgamer.com/steam-deck-support-improvements-delayed-for-rimworld-due-to-ongoing-ukraine-conflict)
  - [The most requested features for the Steam Deck after one day](https://www.pcgamer.com/the-most-requested-features-for-the-steam-deck-after-one-day)
- - [Intel pushes motherboard makers to drop DDR4 support from 700 series motherboards](https://www.pcgamer.com/intel-pushes-motherboard-makers-to-drop-ddr4-support-from-700-series-motherboards)
- - [John Romero has released a new Doom 2 level to raise funds for Ukraine](https://www.pcgamer.com/john-romero-has-released-a-new-doom-2-level-to-raise-funds-for-ukraine)<!-- GAME:END -->
+ - [Intel pushes motherboard makers to drop DDR4 support from 700 series motherboards](https://www.pcgamer.com/intel-pushes-motherboard-makers-to-drop-ddr4-support-from-700-series-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
