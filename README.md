@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ronnie Williams convinced churches he is Ed Sheeran And performed \u2018shape of You\u2019 for 35$ and a sandwich.](http://9gag.com/gag/a81ALB6)
+ - 🚖 [Moscow and St.Petersburg citizens amid news of the closure of IKEA stores are emptying them on the last day of work.](http://9gag.com/gag/aYrGprv)
  - 🚯 [Let that sink in.](http://9gag.com/gag/aGzL9XG)
- - 🚯 [Please don&#39;t be a dream. Please don&#39;t be a dream!](http://9gag.com/gag/abgeXwr)<!-- MEMES:END -->
+ - 🚯 [Wait till end...](http://9gag.com/gag/aAGQrB0)<!-- MEMES:END -->
 
 --- 
 
