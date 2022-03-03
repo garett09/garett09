@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`i dont really care about the looks`](http://9gag.com/gag/arnWvDK)
- - 🚯 [Age of empire 2022](http://9gag.com/gag/aWgpBr4)
- - 🚯 [For real though](http://9gag.com/gag/aGzL9X5)<!-- MEMES:END -->
+ - 🚖 [Ronnie Williams convinced churches he is Ed Sheeran And performed \u2018shape of You\u2019 for 35$ and a sandwich.](http://9gag.com/gag/a81ALB6)
+ - 🚯 [Let that sink in.](http://9gag.com/gag/aGzL9XG)
+ - 🚯 [Please don&#39;t be a dream. Please don&#39;t be a dream!](http://9gag.com/gag/abgeXwr)<!-- MEMES:END -->
 
 --- 
 
