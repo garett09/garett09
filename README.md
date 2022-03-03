@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Instinct 2 review: Built for more adventurers than ever](https://www.androidauthority.com/garmin-instinct-2-review-3117131/)
- - [Our 10 Favorite Gaming Headsets for Every System](https://www.wired.com/gallery/best-gaming-headsets)
- - [How to use Expert RAW on your Samsung Galaxy phone](https://www.theverge.com/22958552/samsung-expert-raw-galaxy-s22-ultra)<!-- TECH:END -->
+ - [More tech giants will follow Apple and pull out of Russia, analyst says](https://appleinsider.com/articles/22/03/03/more-tech-giants-will-follow-apple-and-pull-out-of-russia-analyst-says?utm_medium=rss)
+ - [Apple’s 512GB M1 Mac Mini is back down to its lowest price yet](https://www.theverge.com/good-deals/2022/3/3/22958558/apple-mac-mini-m1-ipad-samsung-galaxy-chromebook-2-microsoft-webcam-deal-sale)
+ - [Apple Stores resume Today at Apple with Lady Gaga remix event](https://appleinsider.com/articles/22/03/03/apple-resumes-today-at-apple-with-lady-gaga-remix-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
