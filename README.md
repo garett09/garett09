@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The second round of negotiations is over. An agreement was made on the creation of `humanitarian corridor` and cease-fire in number of territories. Hope is near. I hope...](http://9gag.com/gag/aZrnxO3)
+ - 🚖 [Germany at it again](http://9gag.com/gag/a21MNOY)
  - 🚯 [The Entire staff of the Russian TV channel \u201cthe rain\u201d resigned during a live stream with last words: \u201cno war\u201d and then played \u201cswan lake\u201d ballet video &lpar;just like they did on all USSR tv channels when it suddenly collapsed](http://9gag.com/gag/awzgKyB)
- - 🚯 [Ukrainians at their finest](http://9gag.com/gag/aqGRNAj)<!-- MEMES:END -->
+ - 🚯 [TFW you love your job](http://9gag.com/gag/a61Dyxe)<!-- MEMES:END -->
 
 --- 
 
