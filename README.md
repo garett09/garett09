@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima says Bowie song holds the key to understanding Metal Gear Solid V](https://www.pcgamer.com/kojima-says-bowie-song-holds-the-key-to-understanding-metal-gear-solid-v)
- - [Why Captain Picard is still single, based on all available evidence](https://www.polygon.com/22957090/jean-luc-picard-romance-tng)
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
+ - [DICE reworking Battlefield 2042 maps, says future maps will be smaller](https://www.polygon.com/22959820/battlefield-2042-map-rework-season-one-kaleidoscope-breakthrough-conquest)
+ - [A quick guide to Gran Turismo 7 for new racers](https://blog.playstation.com/2022/03/03/a-quick-guide-to-gran-turismo-7-for-new-racers/)
+ - [A quick guide to Gran Turismo 7 for new racers](https://blog.playstation.com/2022/03/03/a-quick-guide-to-gran-turismo-7-for-new-racers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
