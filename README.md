@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple renews murder mystery comedy &#39;The Afterparty&#39; for second season](https://appleinsider.com/articles/22/03/03/apple-renews-murder-mystery-comedy-the-afterparty-for-second-season?utm_medium=rss)
- - [Sources: the SEC is probing the NFT market to determine if tokens are like securities, focusing on fractional NFTs, in which a token is broken and sold in units &lpar;Matt Robinson/Bloomberg&rpar;](http://www.techmeme.com/220302/p35#a220302p35)
- - [Every Batman Movie Ranked: From The Batman to The Dark Knight     - CNET](https://www.cnet.com/news/every-batman-movie-ranked-from-the-batman-to-the-dark-knight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google tells staff in the Bay Area and other US locations to return to physical offices three days a week starting on April 4, in a shift to a hybrid work model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220302/p37#a220302p37)
+ - [TikTok&#39;s Effect on Children is Being Investigated     - CNET](https://www.cnet.com/tech/social-media/tiktoks-effect-on-children-is-being-investigated/#ftag=CAD590a51e)
+ - [6 best video converter and compressor apps for Android](https://www.androidauthority.com/best-video-converter-compressor-apps-3101164/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
