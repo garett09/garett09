@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Commsor, which develops tech to let companies manage and gain insights into their online communities, raises a $50M Series B led by Atomico at a $450M valuation &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220302/p42#a220302p42)
  - [Balbix, which develops tech to let organizations identify and mitigate cybersecurity risks within their hybrid cloud environments, raises a $70M Series C &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220302/p41#a220302p41)
- - [Shares, which allows friends and families to invest in stocks together, raises a $40M Series A led by Valar Ventures, and unveils its app &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220302/p40#a220302p40)
- - [Sources: Amazon plans to file a criminal case against India&#39;s Future Group for allegedly transferring its retail assets to Reliance despite a legal prohibition &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220302/p39#a220302p39)<!-- TECH:END -->
+ - [Shares, which allows friends and families to invest in stocks together, raises a $40M Series A led by Valar Ventures, and unveils its app &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220302/p40#a220302p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
