@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`i dont really care about the looks`](http://9gag.com/gag/arnWvDK)
- - 🚯 [Bad news...](http://9gag.com/gag/apg1KPb)
- - 🚯 [Detroit survival guide, kid edition.](http://9gag.com/gag/ajg7Q51)<!-- MEMES:END -->
+ - 🚖 [Me in my shithole country, watching what&#39;s happening in Europe.](http://9gag.com/gag/a117vvw)
+ - 🚯 [Without hesitation](http://9gag.com/gag/abgeXXp)
+ - 🚯 [Please don&#39;t be a dream. Please don&#39;t be a dream!](http://9gag.com/gag/abgeXwr)<!-- MEMES:END -->
 
 --- 
 
