@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung might be throttling the performance of 10,000 apps &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-gos-throttling-apps-3125885/)
- - [Scope Security, which offers a managed threat detection and response service to health care organizations, raises a $20M Series A led by Thrive Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220303/p1#a220303p1)
- - [Poll: What kind of smartphone case do you use?](https://www.androidauthority.com/phone-case-poll-3126119/)<!-- TECH:END -->
+ - [Apple renews murder mystery comedy &#39;The Afterparty&#39; for second season](https://appleinsider.com/articles/22/03/03/apple-renews-murder-mystery-comedy-the-afterparty-for-second-season?utm_medium=rss)
+ - [Amazon issues hidden discounts on Apple Watch Series 7](https://appleinsider.com/articles/22/03/03/amazon-issues-hidden-discounts-on-apple-watch-series-7?utm_medium=rss)
+ - [A look at anonymity in crypto, as some VCs back founders without learning their names and pseudonymous entrepreneurs control hundreds of millions of dollars &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/220303/p3#a220303p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
