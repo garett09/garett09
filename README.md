@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy’s newest doorbell camera is also a smart lock](https://www.theverge.com/2022/3/2/22958437/eufy-video-smart-lock-doorbell-camera-price-release-date-specs)
- - [Samsung developing improved &amp; brighter OLED display, after Apple rejects older tech](https://appleinsider.com/articles/22/03/03/samsung-developing-improved-brighter-oled-display-after-apple-rejects-older-tech?utm_medium=rss)
- - [Grab reports a $1.1B net loss in Q4 as revenue declined 44% YoY to $122M; after going public via SPAC in December, Grab has lost $15B+ in market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/220303/p12#a220303p12)<!-- TECH:END -->
+ - [Garmin Instinct 2 review: Built for more adventurers than ever](https://www.androidauthority.com/garmin-instinct-2-review-3117131/)
+ - [Our 10 Favorite Gaming Headsets for Every System](https://www.wired.com/gallery/best-gaming-headsets)
+ - [How to use Expert RAW on your Samsung Galaxy phone](https://www.theverge.com/22958552/samsung-expert-raw-galaxy-s22-ultra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
