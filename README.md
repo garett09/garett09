@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sonos CEO Patrick Spence and CLO Eddie Lazarus on the decision to sue Google for patent infringement, competing with tech giants, Web3, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220303/p8#a220303p8)
- - [The Internet Is Not as New as You Think](https://www.wired.com/story/the-internet-is-not-as-new-as-you-think)
- - [How to use Google Sheets: Everything you need to know](https://www.androidauthority.com/google-sheets-basic-tutorial-formulas-3110256/)<!-- TECH:END -->
+ - [Spotify removes content from Kremlin-backed RT and Sputnik and closes Russia office](https://www.theverge.com/2022/3/3/22959636/spotify-removes-rt-sputnik-russia-kremlin-ukraine-conflict)
+ - [Ukraine&#39;s Mykhailo Fedorov abruptly cancels the planned crypto airdrop, saying the country will sell NFTs to raise funds instead &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220303/p9#a220303p9)
+ - [The Polestar O2 Concept Is a Beautiful Hardtop Convertible EV     - Roadshow](https://www.cnet.com/roadshow/pictures/polestar-o2-convertible-concept/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
