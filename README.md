@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify removes content from Kremlin-backed RT and Sputnik and closes Russia office](https://www.theverge.com/2022/3/3/22959636/spotify-removes-rt-sputnik-russia-kremlin-ukraine-conflict)
- - [Ukraine&#39;s Mykhailo Fedorov abruptly cancels the planned crypto airdrop, saying the country will sell NFTs to raise funds instead &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220303/p9#a220303p9)
- - [The Polestar O2 Concept Is a Beautiful Hardtop Convertible EV     - Roadshow](https://www.cnet.com/roadshow/pictures/polestar-o2-convertible-concept/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eufy’s newest doorbell camera is also a smart lock](https://www.theverge.com/2022/3/2/22958437/eufy-video-smart-lock-doorbell-camera-price-release-date-specs)
+ - [Samsung developing improved &amp; brighter OLED display, after Apple rejects older tech](https://appleinsider.com/articles/22/03/03/samsung-developing-improved-brighter-oled-display-after-apple-rejects-older-tech?utm_medium=rss)
+ - [Grab reports a $1.1B net loss in Q4 as revenue declined 44% YoY to $122M; after going public via SPAC in December, Grab has lost $15B+ in market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/220303/p12#a220303p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
