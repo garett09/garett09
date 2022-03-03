@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple renews murder mystery comedy &#39;The Afterparty&#39; for second season](https://appleinsider.com/articles/22/03/03/apple-renews-murder-mystery-comedy-the-afterparty-for-second-season?utm_medium=rss)
- - [Amazon issues hidden discounts on Apple Watch Series 7](https://appleinsider.com/articles/22/03/03/amazon-issues-hidden-discounts-on-apple-watch-series-7?utm_medium=rss)
- - [A look at anonymity in crypto, as some VCs back founders without learning their names and pseudonymous entrepreneurs control hundreds of millions of dollars &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/220303/p3#a220303p3)<!-- TECH:END -->
+ - [Insider, which uses AI to help companies analyze marketing data, raises a $121M Series D at a $1.22B post-money valuation led by QIA &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220303/p5#a220303p5)
+ - [Elon Musk dares autoworkers union: hold a vote at Tesla’s California factory](https://www.theverge.com/2022/3/3/22959592/elon-musk-tesla-union-challenges-uaw-california-factory-vote)
+ - [Leaked chat logs reveal the internal structure and hierarchy of the Conti ransomware group, which some experts believe is a rebrand of the Ryuk ransomware gang &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220303/p4#a220303p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
