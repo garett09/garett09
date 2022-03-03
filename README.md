@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me in my shithole country, watching what&#39;s happening in Europe.](http://9gag.com/gag/a117vvw)
- - 🚯 [Without hesitation](http://9gag.com/gag/abgeXXp)
- - 🚯 [Please don&#39;t be a dream. Please don&#39;t be a dream!](http://9gag.com/gag/abgeXwr)<!-- MEMES:END -->
+ - 🚖 [Should have used rubber](http://9gag.com/gag/aKm1wgb)
+ - 🚯 [Packed my stuff...on my way from cologne to Ukraine to serve the foreign legion. I keep you updated.](http://9gag.com/gag/aDD70mZ)
+ - 🚯 [Ronnie Williams convinced churches he is Ed Sheeran And performed \u2018shape of You\u2019 for 35$ and a sandwich.](http://9gag.com/gag/a81ALB6)<!-- MEMES:END -->
 
 --- 
 
