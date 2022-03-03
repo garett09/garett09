@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honor walk. Today we said goodbye to our son. He is on his way to share his gifts of life.](http://9gag.com/gag/a41PMVv)
- - 🚯 [Traffic jam solution](http://9gag.com/gag/a11mGvP)
- - 🚯 [Kabooon!](http://9gag.com/gag/aVxvGVv)<!-- MEMES:END -->
+ - 🚖 [Without inspiration](http://9gag.com/gag/aWg4K5n)
+ - 🚯 [Kabooon!](http://9gag.com/gag/aVxvGVv)
+ - 🚯 [Honor walk. Today we said goodbye to our son. He is on his way to share his gifts of life.](http://9gag.com/gag/a41PMVv)<!-- MEMES:END -->
 
 --- 
 
