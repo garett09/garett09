@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby and the Forgotten Land has a playable demo, out now](https://www.polygon.com/22958870/kirby-and-the-forgotten-land-demo-nintendo-eshop-switch)
- - [Kirby and the Forgotten Land adds an adorable innovation to classic action](https://www.polygon.com/22958741/kirby-and-the-forgotten-land-preview-mouthful-mode)
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)<!-- GAME:END -->
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
+ - [Freedom to love: Choose the Yu and Kay you want to play as](https://blog.playstation.com/2022/03/03/freedom-to-love-choose-the-yu-and-kay-you-want-to-play-as/)
+ - [Freedom to love: Choose the Yu and Kay you want to play as](https://blog.playstation.com/2022/03/03/freedom-to-love-choose-the-yu-and-kay-you-want-to-play-as/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
