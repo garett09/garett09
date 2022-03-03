@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Romero has released a new Doom 2 level to raise funds for Ukraine](https://www.pcgamer.com/john-romero-has-released-a-new-doom-2-level-to-raise-funds-for-ukraine)
- - [Don&#39;t miss these seven Elden Ring NPCs before you leave Limgrave](https://www.pcgamer.com/elden-ring-npc-locations)
- - [Elden Ring&#39;s half-assed mouse and keyboard controls could be so much better with a few fixes](https://www.pcgamer.com/elden-ring-pc-keyboard-mouse-controls)<!-- GAME:END -->
+ - [The most requested features for the Steam Deck after one day](https://www.pcgamer.com/the-most-requested-features-for-the-steam-deck-after-one-day)
+ - [Intel pushes motherboard makers to drop DDR4 support from 700 series motherboards](https://www.pcgamer.com/intel-pushes-motherboard-makers-to-drop-ddr4-support-from-700-series-motherboards)
+ - [John Romero has released a new Doom 2 level to raise funds for Ukraine](https://www.pcgamer.com/john-romero-has-released-a-new-doom-2-level-to-raise-funds-for-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
