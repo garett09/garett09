@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the &#39;Peek Performance&#39; Apple Event on March 8](https://appleinsider.com/articles/22/03/03/how-to-watch-the-peek-performance-apple-event-on-march-8?utm_medium=rss)
- - [How much should you spend on a Chromebook?](https://www.androidauthority.com/how-much-chromebook-cost-3125538/)
- - [Five years on, Breath of the Wild’s open world is still unmatched](https://www.theverge.com/2022/3/3/22959702/zelda-breath-of-the-wild-open-world-five-year-anniversary)<!-- TECH:END -->
+ - [The GitHub repository for Meta&#39;s open source library React is being spammed with anti-US and anti-Ukrainian comments in English and Mandarin &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220303/p22#a220303p22)
+ - [Azio Cascade review: a surprisingly solid wireless mechanical keyboard](https://www.theverge.com/22958088/azio-cascade-review-wireless-mechanical-keyboard-75-percent-kickstarter)
+ - [Bowers &amp; Wilkins announces its first Dolby Atmos soundbar](https://www.theverge.com/2022/3/3/22957586/bowers-wilkins-panorama-3-dolby-atmos-soundbar-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
