@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch targets misinformation, bans high-profile QAnon streamers](https://www.pcgamer.com/twitch-targets-misinformation-bans-high-profile-qanon-streamers)
- - [Ubisoft postpones city-building RTS The Settlers once again](https://www.pcgamer.com/ubisoft-postpones-city-building-rts-the-settlers-once-again)
- - [Spanish studio makes a bullfighting game we’d be OK with playing](https://www.polygon.com/gaming/22959964/bullfighting-video-games-bullfighter-neon-kickstarter)<!-- GAME:END -->
+ - [Gabe Newell’s Problem Isn’t With NFTs Or Metaverse, But The ‘Bad Actors’ Behind Them](https://kotaku.com/gabe-newell-s-problem-isn-t-with-nfts-or-metaverse-but-1848612363)
+ - [Which class to choose in Elden Ring](https://www.pcgamer.com/all-elden-ring-classes-origins)
+ - [Actually, Batman is merely Edward Cullen’s final form](https://www.polygon.com/22960391/robert-pattinson-the-batman-twilight-edward-cullen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
