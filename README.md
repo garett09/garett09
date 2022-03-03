@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tells staff in the Bay Area and other US locations to return to physical offices three days a week starting on April 4, in a shift to a hybrid work model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220302/p37#a220302p37)
- - [TikTok&#39;s Effect on Children is Being Investigated     - CNET](https://www.cnet.com/tech/social-media/tiktoks-effect-on-children-is-being-investigated/#ftag=CAD590a51e)
- - [6 best video converter and compressor apps for Android](https://www.androidauthority.com/best-video-converter-compressor-apps-3101164/)<!-- TECH:END -->
+ - [Amazon Labor Union says it has NLRB go-ahead for second NYC election](https://www.theverge.com/2022/3/2/22959234/amazon-union-staten-island-ldj5-election-drive-nlrb-approval-go-ahead)
+ - [Spotify closes its office in Russia &quot;indefinitely&quot; and has removed all content from RT News and Sputnik in the EU and other markets, except for Russia &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220302/p38#a220302p38)
+ - [Google tells staff in the Bay Area and other US locations to return to physical offices three days a week starting on April 4, in a shift to a hybrid work model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220302/p37#a220302p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
