@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: How to get Qualichor and complete the Memory Alembic quest](https://www.pcgamer.com/destiny-2-memory-alembic-qualichor)
- - [How to beat Malenia in Elden Ring](https://www.pcgamer.com/hand-of-malenia-elden-ring-location-miquella)
- - [This beefy RTX 3080 Ti &#39;deal&#39; is evidence that GPU prices are coming back down to Earth](https://www.pcgamer.com/this-beefy-rtx-3080-ti-deal-is-evidence-that-gpu-prices-are-coming-back-down-to-earth)<!-- GAME:END -->
+ - [Flying Lotus will direct multiple movies for the team behind The Raid](https://www.polygon.com/22960138/flying-lotus-announces-xyz-films-and-logical-pictures-deal)
+ - [Age of Empires IV in 2022 – introducing Seasons, an updated roadmap and feedback tools](https://news.xbox.com/en-us/2022/03/03/age-of-empires-iv-in-2022-introducing-seasons-an-updated-roadmap-and-feedback-tools/)
+ - [How to complete Fia&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
