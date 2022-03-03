@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was the line to a Ukrainian owned Cheesecake shop in San Antonio that was donating 100% of their profits during a weekend promotion. They managed to raise $72,000 USD for the Ukrainian military.](http://9gag.com/gag/aze57em)
- - 🚯 [And insomnia!](http://9gag.com/gag/adgB3mZ)
- - 🚯 [Bad news...](http://9gag.com/gag/apg1KPb)<!-- MEMES:END -->
+ - 🚖 [`i dont really care about the looks`](http://9gag.com/gag/arnWvDK)
+ - 🚯 [Bad news...](http://9gag.com/gag/apg1KPb)
+ - 🚯 [Detroit survival guide, kid edition.](http://9gag.com/gag/ajg7Q51)<!-- MEMES:END -->
 
 --- 
 
