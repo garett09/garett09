@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck support improvements delayed for Rimworld due to ongoing Ukraine conflict](https://www.pcgamer.com/steam-deck-support-improvements-delayed-for-rimworld-due-to-ongoing-ukraine-conflict)
- - [The most requested features for the Steam Deck after one day](https://www.pcgamer.com/the-most-requested-features-for-the-steam-deck-after-one-day)
- - [Intel pushes motherboard makers to drop DDR4 support from 700 series motherboards](https://www.pcgamer.com/intel-pushes-motherboard-makers-to-drop-ddr4-support-from-700-series-motherboards)<!-- GAME:END -->
+ - [AMD Ryzen 5000 series CPUs see huge price cuts](https://www.pcgamer.com/amd-ryzen-5000-series-cpus-see-huge-price-cuts)
+ - [RTX 40 graphics cards look set to get a big increase in shader count and L2 cache](https://www.pcgamer.com/rtx-40-graphics-cards-look-set-to-get-a-big-increase-in-shader-count-and-l2-cache)
+ - [Steam Deck support improvements delayed for Rimworld due to ongoing Ukraine conflict](https://www.pcgamer.com/steam-deck-support-improvements-delayed-for-rimworld-due-to-ongoing-ukraine-conflict)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
