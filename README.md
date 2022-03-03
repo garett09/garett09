@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Commsor, which develops tech to let companies manage and gain insights into their online communities, raises a $50M Series B led by Atomico at a $450M valuation &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220302/p42#a220302p42)
- - [Balbix, which develops tech to let organizations identify and mitigate cybersecurity risks within their hybrid cloud environments, raises a $70M Series C &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220302/p41#a220302p41)
- - [Shares, which allows friends and families to invest in stocks together, raises a $40M Series A led by Valar Ventures, and unveils its app &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220302/p40#a220302p40)<!-- TECH:END -->
+ - [Scope Security, which offers a managed threat detection and response service to health care organizations, raises a $20M Series A led by Thrive Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220303/p1#a220303p1)
+ - [Poll: What kind of smartphone case do you use?](https://www.androidauthority.com/phone-case-poll-3126119/)
+ - [Dogs Grieve the Loss of Other Pets, Study Finds     - CNET](https://www.cnet.com/news/dogs-grieve-the-loss-of-other-pets-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
