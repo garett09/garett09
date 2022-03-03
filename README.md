@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [AMD Ryzen 5000 series CPUs see huge price cuts](https://www.pcgamer.com/amd-ryzen-5000-series-cpus-see-huge-price-cuts)
- - [RTX 40 graphics cards look set to get a big increase in shader count and L2 cache](https://www.pcgamer.com/rtx-40-graphics-cards-look-set-to-get-a-big-increase-in-shader-count-and-l2-cache)<!-- GAME:END -->
+ - [Kirby and the Forgotten Land has a playable demo, out now](https://www.polygon.com/22958870/kirby-and-the-forgotten-land-demo-nintendo-eshop-switch)
+ - [Kirby and the Forgotten Land adds an adorable innovation to classic action](https://www.polygon.com/22958741/kirby-and-the-forgotten-land-preview-mouthful-mode)
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
