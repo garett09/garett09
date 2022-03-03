@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iceland Bets on Herd Immunity](https://www.wired.com/story/iceland-bets-on-herd-immunity)
- - [Reddit bans links to Russian state media outlets across its entire service for all users worldwide &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/220303/p27#a220303p27)
- - [Verizon announces +Play subscription management tool](https://appleinsider.com/articles/22/03/03/verizon-announces-play-subscription-management-tool?utm_medium=rss)<!-- TECH:END -->
+ - [Anonymous-linked group hacks Russian space research site, claims to leak mission files](https://www.theverge.com/2022/3/3/22960183/anonymous-hack-russian-space-research-roscosmos-ukraine)
+ - [Best Rowing Machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Apple dropping mask mandates for corporate &amp; retail employees](https://appleinsider.com/articles/22/03/03/apple-dropping-mask-mandates-for-corporate-retail-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
