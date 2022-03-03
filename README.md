@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More tech giants will follow Apple and pull out of Russia, analyst says](https://appleinsider.com/articles/22/03/03/more-tech-giants-will-follow-apple-and-pull-out-of-russia-analyst-says?utm_medium=rss)
- - [Apple’s 512GB M1 Mac Mini is back down to its lowest price yet](https://www.theverge.com/good-deals/2022/3/3/22958558/apple-mac-mini-m1-ipad-samsung-galaxy-chromebook-2-microsoft-webcam-deal-sale)
- - [Apple Stores resume Today at Apple with Lady Gaga remix event](https://appleinsider.com/articles/22/03/03/apple-resumes-today-at-apple-with-lady-gaga-remix-event?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the &#39;Peek Performance&#39; Apple Event on March 8](https://appleinsider.com/articles/22/03/03/how-to-watch-the-peek-performance-apple-event-on-march-8?utm_medium=rss)
+ - [How much should you spend on a Chromebook?](https://www.androidauthority.com/how-much-chromebook-cost-3125538/)
+ - [Five years on, Breath of the Wild’s open world is still unmatched](https://www.theverge.com/2022/3/3/22959702/zelda-breath-of-the-wild-open-world-five-year-anniversary)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
