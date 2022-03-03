@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All according to keikaku](http://9gag.com/gag/aeg4jxW)
- - 🚯 [Instant Karma](http://9gag.com/gag/aRrLQ77)
- - 🚯 [Cursed video](http://9gag.com/gag/aqGR98p)<!-- MEMES:END -->
+ - 🚖 [Not stonks](http://9gag.com/gag/a117vnD)
+ - 🚯 [Cursed video](http://9gag.com/gag/aqGR98p)
+ - 🚯 [Ronnie Williams convinced churches he is Ed Sheeran And performed \u2018shape of You\u2019 for 35$ and a sandwich.](http://9gag.com/gag/a81ALB6)<!-- MEMES:END -->
 
 --- 
 
