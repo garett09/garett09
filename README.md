@@ -198,7 +198,7 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This was the line to a Ukrainian owned Cheesecake shop in San Antonio that was donating 100% of their profits during a weekend promotion. They managed to raise $72,000 USD for the Ukrainian military.](http://9gag.com/gag/aze57em)
- - 🚯 [Pretty sure noone cares, but its my bday today. im 34](http://9gag.com/gag/aqGyvpL)
+ - 🚯 [And insomnia!](http://9gag.com/gag/adgB3mZ)
  - 🚯 [Bad news...](http://9gag.com/gag/apg1KPb)<!-- MEMES:END -->
 
 --- 
