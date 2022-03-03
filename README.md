@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta say i kinda miss him](http://9gag.com/gag/axByxyY)
- - 🚯 [What the hell](http://9gag.com/gag/a61Z05b)
+ - 🚖 [Might be a `solution to the ukrainian question`](http://9gag.com/gag/aGzyXP0)
+ - 🚯 [Without inspiration](http://9gag.com/gag/aWg4K5n)
  - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)<!-- MEMES:END -->
 
 --- 
