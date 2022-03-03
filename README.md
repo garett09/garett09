@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flying Lotus will direct multiple movies for the team behind The Raid](https://www.polygon.com/22960138/flying-lotus-announces-xyz-films-and-logical-pictures-deal)
- - [Age of Empires IV in 2022 – introducing Seasons, an updated roadmap and feedback tools](https://news.xbox.com/en-us/2022/03/03/age-of-empires-iv-in-2022-introducing-seasons-an-updated-roadmap-and-feedback-tools/)
- - [How to complete Fia&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)<!-- GAME:END -->
+ - [The Two Modes of Aeterna Noctis: What is the Difference?](https://news.xbox.com/en-us/2022/03/03/the-two-modes-of-aeterna-noctis-what-is-the-difference/)
+ - [Elden Ring crafting guide](https://www.pcgamer.com/elden-ring-crafting-kit-cookbook-recipes)
+ - [Conan Chop Chop Available Now on Xbox](https://news.xbox.com/en-us/2022/03/03/conan-chop-chop-available-now-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
