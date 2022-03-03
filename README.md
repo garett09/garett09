@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty sure noone cares, but its my bday today. im 34](http://9gag.com/gag/aqGyvpL)
+ - 🚖 [Electric scooter malfunctioning during recharge](http://9gag.com/gag/aNPDNq3)
  - 🚯 [Guy exposes his cheating wife at the baby shower. The camera man is getting all the right reactions at the right time.](http://9gag.com/gag/aeg9oOm)
- - 🚯 [When government doesn&#39;t have protecting law for women, that how you treat sexual harassment](http://9gag.com/gag/aQXzGQq)<!-- MEMES:END -->
+ - 🚯 [Architecture 101](http://9gag.com/gag/a71ojQb)<!-- MEMES:END -->
 
 --- 
 
