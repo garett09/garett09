@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Labor Union says it has NLRB go-ahead for second NYC election](https://www.theverge.com/2022/3/2/22959234/amazon-union-staten-island-ldj5-election-drive-nlrb-approval-go-ahead)
- - [Spotify closes its office in Russia &quot;indefinitely&quot; and has removed all content from RT News and Sputnik in the EU and other markets, except for Russia &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220302/p38#a220302p38)
- - [Google tells staff in the Bay Area and other US locations to return to physical offices three days a week starting on April 4, in a shift to a hybrid work model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220302/p37#a220302p37)<!-- TECH:END -->
+ - [Balbix, which develops tech to let organizations identify and mitigate cybersecurity risks within their hybrid cloud environments, raises a $70M Series C &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220302/p41#a220302p41)
+ - [Shares, which allows friends and families to invest in stocks together, raises a $40M Series A led by Valar Ventures, and unveils its app &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220302/p40#a220302p40)
+ - [Sources: Amazon plans to file a criminal case against India&#39;s Future Group for allegedly transferring its retail assets to Reliance despite a legal prohibition &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220302/p39#a220302p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
