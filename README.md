@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insider, which uses AI to help companies analyze marketing data, raises a $121M Series D at a $1.22B post-money valuation led by QIA &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220303/p5#a220303p5)
- - [Elon Musk dares autoworkers union: hold a vote at Tesla’s California factory](https://www.theverge.com/2022/3/3/22959592/elon-musk-tesla-union-challenges-uaw-california-factory-vote)
- - [Leaked chat logs reveal the internal structure and hierarchy of the Conti ransomware group, which some experts believe is a rebrand of the Ryuk ransomware gang &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220303/p4#a220303p4)<!-- TECH:END -->
+ - [Q&amp;A with Sonos CEO Patrick Spence and CLO Eddie Lazarus on the decision to sue Google for patent infringement, competing with tech giants, Web3, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220303/p8#a220303p8)
+ - [The Internet Is Not as New as You Think](https://www.wired.com/story/the-internet-is-not-as-new-as-you-think)
+ - [How to use Google Sheets: Everything you need to know](https://www.androidauthority.com/google-sheets-basic-tutorial-formulas-3110256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
