@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anonymous-linked group hacks Russian space research site, claims to leak mission files](https://www.theverge.com/2022/3/3/22960183/anonymous-hack-russian-space-research-roscosmos-ukraine)
- - [Best Rowing Machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Apple dropping mask mandates for corporate &amp; retail employees](https://appleinsider.com/articles/22/03/03/apple-dropping-mask-mandates-for-corporate-retail-employees?utm_medium=rss)<!-- TECH:END -->
+ - [The US government finally realizes that cars kill people outside the vehicle, too](https://www.theverge.com/2022/3/3/22960262/nhtsa-ncap-five-star-safety-rating-adas-proposal)
+ - [Twitch has a new policy that will ban ‘harmful misinformation superspreaders’](https://www.theverge.com/2022/3/3/22960269/twitch-new-misinformation-policy-ban-covid)
+ - [Peloton is extending its free home trial from 30 to 100 days](https://www.theverge.com/2022/3/3/22960205/peloton-free-trial-bike-treadmill-fitness)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
