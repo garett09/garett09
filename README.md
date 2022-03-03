@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung might be throttling the performance of 10,000 apps &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-gos-throttling-apps-3125885/)
  - [Scope Security, which offers a managed threat detection and response service to health care organizations, raises a $20M Series A led by Thrive Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220303/p1#a220303p1)
- - [Poll: What kind of smartphone case do you use?](https://www.androidauthority.com/phone-case-poll-3126119/)
- - [Dogs Grieve the Loss of Other Pets, Study Finds     - CNET](https://www.cnet.com/news/dogs-grieve-the-loss-of-other-pets-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: What kind of smartphone case do you use?](https://www.androidauthority.com/phone-case-poll-3126119/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
