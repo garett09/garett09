@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warren Buffett has earned more than $100B from holding Apple shares](https://appleinsider.com/articles/22/03/03/warren-buffett-has-earned-more-than-100b-from-holding-apple-shares?utm_medium=rss)
- - [Poll: Do you subscribe to YouTube Premium?](https://www.androidauthority.com/youtube-premium-poll-3126592/)
- - [Twitter will reopen its offices on March 15; CEO Parag Agrawal touts the advantages of returning for the &quot;culture&quot; while honoring Dorsey&#39;s WFH &quot;forever&quot; promise &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220303/p33#a220303p33)<!-- TECH:END -->
+ - [Wanton In-App Purchases spending costs Alberta father thousands of dollars](https://appleinsider.com/articles/22/03/03/wanton-in-app-purchases-spending-costs-alberta-father-thousands-of-dollars?utm_medium=rss)
+ - [Sources: automation software startup Hyperscience laid off 100 workers, or 25% of its staff, after missing FY financial targets; CEO Peter Brodsky stepped down &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220303/p35#a220303p35)
+ - [Hacktivists Stoke Pandemonium Amid Russia’s War in Ukraine](https://www.wired.com/story/hacktivists-pandemonium-russia-war-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
