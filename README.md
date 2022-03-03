@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
- - [Freedom to love: Choose the Yu and Kay you want to play as](https://blog.playstation.com/2022/03/03/freedom-to-love-choose-the-yu-and-kay-you-want-to-play-as/)
- - [Freedom to love: Choose the Yu and Kay you want to play as](https://blog.playstation.com/2022/03/03/freedom-to-love-choose-the-yu-and-kay-you-want-to-play-as/)<!-- GAME:END -->
+ - [Kojima says Bowie song holds the key to understanding Metal Gear Solid V](https://www.pcgamer.com/kojima-says-bowie-song-holds-the-key-to-understanding-metal-gear-solid-v)
+ - [Why Captain Picard is still single, based on all available evidence](https://www.polygon.com/22957090/jean-luc-picard-romance-tng)
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
