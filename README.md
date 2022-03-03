@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany at it again](http://9gag.com/gag/a21MNOY)
- - 🚯 [The Entire staff of the Russian TV channel \u201cthe rain\u201d resigned during a live stream with last words: \u201cno war\u201d and then played \u201cswan lake\u201d ballet video &lpar;just like they did on all USSR tv channels when it suddenly collapsed](http://9gag.com/gag/awzgKyB)
- - 🚯 [TFW you love your job](http://9gag.com/gag/a61Dyxe)<!-- MEMES:END -->
+ - 🚖 [Always a Bigger Fish](http://9gag.com/gag/aKm1PNg)
+ - 🚯 [Eat your vegetables](http://9gag.com/gag/aDD7w7O)
+ - 🚯 [Wait till end...](http://9gag.com/gag/aAGQrB0)<!-- MEMES:END -->
 
 --- 
 
