@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle rip-offs are running rampant on the App Store again](https://www.theverge.com/2022/3/2/22958907/wordle-rip-offs-app-store-apple-new-york-times-word-game-moderation)
- - [How to Help Victims of the War in Ukraine](https://www.wired.com/story/donate-to-help-ukraine)
- - [Several US state AGs launch a probe into TikTok, focusing on whether the app&#39;s design and operations negatively impact young users&#39; physical and mental health &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220302/p33#a220302p33)<!-- TECH:END -->
+ - [Apple renews murder mystery comedy &#39;The Afterparty&#39; for second season](https://appleinsider.com/articles/22/03/03/apple-renews-murder-mystery-comedy-the-afterparty-for-second-season?utm_medium=rss)
+ - [Sources: the SEC is probing the NFT market to determine if tokens are like securities, focusing on fractional NFTs, in which a token is broken and sold in units &lpar;Matt Robinson/Bloomberg&rpar;](http://www.techmeme.com/220302/p35#a220302p35)
+ - [Every Batman Movie Ranked: From The Batman to The Dark Knight     - CNET](https://www.cnet.com/news/every-batman-movie-ranked-from-the-batman-to-the-dark-knight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
