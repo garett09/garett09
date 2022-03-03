@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DICE reworking Battlefield 2042 maps, says future maps will be smaller](https://www.polygon.com/22959820/battlefield-2042-map-rework-season-one-kaleidoscope-breakthrough-conquest)
- - [A quick guide to Gran Turismo 7 for new racers](https://blog.playstation.com/2022/03/03/a-quick-guide-to-gran-turismo-7-for-new-racers/)
- - [A quick guide to Gran Turismo 7 for new racers](https://blog.playstation.com/2022/03/03/a-quick-guide-to-gran-turismo-7-for-new-racers/)<!-- GAME:END -->
+ - [Destiny 2: How to get Qualichor and complete the Memory Alembic quest](https://www.pcgamer.com/destiny-2-memory-alembic-qualichor)
+ - [How to beat Malenia in Elden Ring](https://www.pcgamer.com/hand-of-malenia-elden-ring-location-miquella)
+ - [This beefy RTX 3080 Ti &#39;deal&#39; is evidence that GPU prices are coming back down to Earth](https://www.pcgamer.com/this-beefy-rtx-3080-ti-deal-is-evidence-that-gpu-prices-are-coming-back-down-to-earth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
