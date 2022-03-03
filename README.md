@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell’s Problem Isn’t With NFTs Or Metaverse, But The ‘Bad Actors’ Behind Them](https://kotaku.com/gabe-newell-s-problem-isn-t-with-nfts-or-metaverse-but-1848612363)
- - [Which class to choose in Elden Ring](https://www.pcgamer.com/all-elden-ring-classes-origins)
- - [Actually, Batman is merely Edward Cullen’s final form](https://www.polygon.com/22960391/robert-pattinson-the-batman-twilight-edward-cullen)<!-- GAME:END -->
+ - [How Picard season 2’s showrunner plans to use the controversial Borg Queen](https://www.polygon.com/22960359/picard-borg-queen-interview)
+ - [The best things about Total War: Warhammer 3 are small](https://www.pcgamer.com/the-best-things-about-total-war-warhammer-3-are-small)
+ - [Gabe Newell’s Problem Isn’t With NFTs Or Metaverse, But The ‘Bad Actors’ Behind Them](https://kotaku.com/gabe-newell-s-problem-isn-t-with-nfts-or-metaverse-but-1848612363)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
