@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spanish studio makes a bullfighting game we’d be OK with playing](https://www.polygon.com/gaming/22959964/bullfighting-video-games-bullfighter-neon-kickstarter)
- - [Call of Duty: Black Ops Cold War is bringing back a fan-favorite multiplayer map](https://www.polygon.com/22960249/call-of-duty-black-ops-cold-war-wmd-map-vargo-52-rifle)
- - [Haven’s new free update lets you play as a same-gender couple](https://www.polygon.com/22960202/haven-same-gender-couple-update-ps4-ps5-pc)<!-- GAME:END -->
+ - [Twitch targets misinformation, bans high-profile QAnon streamers](https://www.pcgamer.com/twitch-targets-misinformation-bans-high-profile-qanon-streamers)
+ - [Ubisoft postpones city-building RTS The Settlers once again](https://www.pcgamer.com/ubisoft-postpones-city-building-rts-the-settlers-once-again)
+ - [Spanish studio makes a bullfighting game we’d be OK with playing](https://www.polygon.com/gaming/22959964/bullfighting-video-games-bullfighter-neon-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
