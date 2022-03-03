@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Resident Evil games are getting official ray tracing patches](https://www.pcgamer.com/three-resident-evil-games-are-getting-official-ray-tracing-patches)
- - [This fan demake shows what Elden Ring would have looked like in 1995](https://www.polygon.com/22958847/elden-ring-demake-trailer-ps1-hoolopee-fx)
- - [This RTX 3070-powered laptop with a 240Hz display is $500 off](https://www.pcgamer.com/this-rtx-3070-powered-laptop-with-a-240hz-display-is-dollar500-off)<!-- GAME:END -->
+ - [Elden Ring&#39;s half-assed mouse and keyboard controls could be so much better with a few fixes](https://www.pcgamer.com/elden-ring-pc-keyboard-mouse-controls)
+ - [Red Hot Chili Peppers’ 1999 song Californication is a free video game, finally](https://www.polygon.com/22958879/californication-video-game-red-hot-chili-peppers)
+ - [Nexon founder Jung-ju Kim has died](https://www.pcgamer.com/nexon-founder-jung-ju-kim-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
