@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US government finally realizes that cars kill people outside the vehicle, too](https://www.theverge.com/2022/3/3/22960262/nhtsa-ncap-five-star-safety-rating-adas-proposal)
- - [Twitch has a new policy that will ban ‘harmful misinformation superspreaders’](https://www.theverge.com/2022/3/3/22960269/twitch-new-misinformation-policy-ban-covid)
- - [Peloton is extending its free home trial from 30 to 100 days](https://www.theverge.com/2022/3/3/22960205/peloton-free-trial-bike-treadmill-fitness)<!-- TECH:END -->
+ - [Telecoms blackout hits northeast Ukraine, large power outages also reported](https://www.theverge.com/2022/3/3/22960374/telecoms-blackout-northeast-ukraine-power-outage-sumy)
+ - [No surprise here: The Galaxy S22, S22 Ultra are a headache to repair](https://www.androidauthority.com/samsung-galaxy-s22-ifixit-teardown-3126561/)
+ - [OpenSea confirms that it is banning users to comply with US sanctions, after some users with Iran-based IP addresses say their accounts and NFTs were deleted &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/220303/p32#a220303p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
