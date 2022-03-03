@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instant Karma](http://9gag.com/gag/aRrLQ77)
- - 🚯 [Sure....](http://9gag.com/gag/arnW43V)
- - 🚯 [For real though](http://9gag.com/gag/aGzL9X5)<!-- MEMES:END -->
+ - 🚖 [Nice trick](http://9gag.com/gag/axBWN6D)
+ - 🚯 [That&#39;s a lot of damage](http://9gag.com/gag/aGzL9QZ)
+ - 🚯 [Ukrainians at their finest](http://9gag.com/gag/aqGRNAj)<!-- MEMES:END -->
 
 --- 
 
