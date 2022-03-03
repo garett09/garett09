@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Might be a `solution to the ukrainian question`](http://9gag.com/gag/aGzyXP0)
- - 🚯 [Without inspiration](http://9gag.com/gag/aWg4K5n)
- - 🚯 [From @rsiren2](http://9gag.com/gag/aGzyWLX)<!-- MEMES:END -->
+ - 🚖 [From @rsiren2](http://9gag.com/gag/aGzyWLX)
+ - 🚯 [Guy exposes his cheating wife at the baby shower. The camera man is getting all the right reactions at the right time.](http://9gag.com/gag/aeg9oOm)
+ - 🚯 [Without inspiration](http://9gag.com/gag/aWg4K5n)<!-- MEMES:END -->
 
 --- 
 
