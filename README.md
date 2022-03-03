@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moscow and St.Petersburg citizens amid news of the closure of IKEA stores are emptying them on the last day of work.](http://9gag.com/gag/aYrGprv)
- - 🚯 [Let that sink in.](http://9gag.com/gag/aGzL9XG)
- - 🚯 [Wait till end...](http://9gag.com/gag/aAGQrB0)<!-- MEMES:END -->
+ - 🚖 [Instant Karma](http://9gag.com/gag/aRrLQ77)
+ - 🚯 [Sure....](http://9gag.com/gag/arnW43V)
+ - 🚯 [For real though](http://9gag.com/gag/aGzL9X5)<!-- MEMES:END -->
 
 --- 
 
