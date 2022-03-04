@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit teardown shows how Samsung packed an S Pen into the S22 Ultra](https://www.theverge.com/2022/3/4/22961325/ifixit-galaxy-s22-ultra-teardown-repairability-s-pen-stylus)
- - [Russia says it’s blocking Facebook in alarming new censorship push](https://www.theverge.com/2022/3/4/22960739/russia-internet-block-facebook-meta-roskomnadzor-ukraine)
- - [Telegram says it is removing access to Kremlin-backed media in the EU, starting with people who signed in with an EU-based phone number &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220304/p22#a220304p22)<!-- TECH:END -->
+ - [Wedbush: Apple, Google, Meta, and Netflix combined would stand to lose 1%-2% of their revenue from exiting Russia; Amazon&#39;s presence involves limited AWS use &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220304/p25#a220304p25)
+ - [Shareholders approve Apple civil rights audit, Tim Cook&#39;s $99M pay package](https://appleinsider.com/articles/22/03/04/shareholders-approve-apple-civil-rights-audit-tim-cooks-99m-pay-package?utm_medium=rss)
+ - [Get a free $200 gift card with the Samsung Galaxy S22, and more Visible deals](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
