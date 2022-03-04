@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Simple Man](http://9gag.com/gag/a117d2D)
- - 🚯 [Cant expect me to keep this shit up](http://9gag.com/gag/avAWrvq)
- - 🚯 [Another day with my tanky](http://9gag.com/gag/aOQ2dPr)<!-- MEMES:END -->
+ - 🚖 [Another day with my tanky](http://9gag.com/gag/aOQ2dPr)
+ - 🚯 [Wagyu steak at a high-end place in Japan](http://9gag.com/gag/aPZxBmP)
+ - 🚯 [Please, don&#39;t tell me I have to stop drinking](http://9gag.com/gag/adgvq8j)<!-- MEMES:END -->
 
 --- 
 
