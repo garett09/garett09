@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Dog corrects Puppy&#39;s behaviour towards the Owner.](http://9gag.com/gag/ajg7DvQ)
- - 🚯 [That&#39;s some impressive tech](http://9gag.com/gag/adgvjn2)
- - 🚯 [Mommy](http://9gag.com/gag/aGzLDD0)<!-- MEMES:END -->
+ - 🚯 [Mommy](http://9gag.com/gag/aGzLDD0)
+ - 🚯 [Cartoon logic](http://9gag.com/gag/aZrnpQn)<!-- MEMES:END -->
 
 --- 
 
