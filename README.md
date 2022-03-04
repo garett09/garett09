@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Someone asked for Red Alert 2 sounds over the germany military budget increase](http://9gag.com/gag/a81A4YQ)
- - 🚯 [This is me &lpar;right&rpar; and my dad when I was born in 1982. I&#39;m gonna need you 9gag sons of b*tches to help me thru this. He just passed away today. Worst feeling in the world](http://9gag.com/gag/a21M5OD)
- - 🚯 [Created some patches in case we need to identify ourselves when doomsday comes](http://9gag.com/gag/aGzLRgz)<!-- MEMES:END -->
+ - 🚯 [I wrote an essay like this in middle school and got less than 40% of total marks ....](http://9gag.com/gag/aggQNeW)
+ - 🚯 [RELEASE THE GOATS!!!!](http://9gag.com/gag/axBWjPp)<!-- MEMES:END -->
 
 --- 
 
