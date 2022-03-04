@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mommy](http://9gag.com/gag/aGzLDD0)
- - 🚯 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
- - 🚯 [Cartoon logic](http://9gag.com/gag/aZrnpQn)<!-- MEMES:END -->
+ - 🚖 [Simple Man](http://9gag.com/gag/a117d2D)
+ - 🚯 [1999](http://9gag.com/gag/aqGRLDL)
+ - 🚯 [Cant expect me to keep this shit up](http://9gag.com/gag/avAWrvq)<!-- MEMES:END -->
 
 --- 
 
