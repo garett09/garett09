@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best color matching apps for Android](https://www.androidauthority.com/best-color-matching-apps-android-3101908/)
- - [You told us: You think Qualcomm can retake the top Android spot in the US](https://www.androidauthority.com/qualcomm-retake-top-spot-usa-poll-results-3128113/)
- - [Russia’s Yandex ‘pauses’ autonomous vehicle testing in the US](https://www.theverge.com/2022/3/4/22962016/yandex-autonomous-vehicle-pause-ann-arbor-russia)<!-- TECH:END -->
+ - [iFixit’s Steam Deck replacement parts will be available beginning this summer](https://www.theverge.com/2022/3/4/22962087/ifixit-steam-deck-replacement-parts-summer)
+ - [Not just OnePlus: Another Android brand could offer an alert slider soon](https://www.androidauthority.com/oneplus-realme-alert-slider-3128931/)
+ - [31 Awesome Gear Deals From Winter Clearance Sales](https://www.wired.com/story/outdoor-deals-winter-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
