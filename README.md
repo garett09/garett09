@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The House of the Dead 1 and 2 remakes for Nintendo Switch keep the camp](https://www.polygon.com/22962028/the-house-of-the-dead-remakes-nintendo-switch-forever-entertainment-release-date)
- - [The grossest thing in every extremely gross The Boys: Diabolical episode](https://www.polygon.com/22961941/the-boys-diabolical-episodes-list-grossest)
- - [Haven Update: Meet the new Yu and Kay](https://news.xbox.com/en-us/2022/03/04/haven-update-meet-the-new-yu-and-kay/)<!-- GAME:END -->
+ - [Why FromSoft fans should be excited for Armored Core](https://www.polygon.com/22961961/fromsoft-armored-core-dark-souls-elden-ring)
+ - [Activision Blizzard sued in wrongful death case alleging sexual harassment led to suicide](https://www.polygon.com/22962017/activision-blizzard-sexual-harassment-lawsuit-suicide)
+ - [The Spirited Away stage show looks absolutely transcendent](https://www.polygon.com/22961714/spirited-away-stage-play-photos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
