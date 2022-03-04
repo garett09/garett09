@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Volocopter, which is developing an autonomous air taxi service, raises $170M as part of a Series E led by WP Investment at a $1.87B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220304/p3#a220304p3)
- - [In Ukraine, Online Gig Workers Keep Coding Through the War](https://www.wired.com/story/gig-work-in-ukraine)
- - [Turmoil Over Ukraine Could Debilitate Russia&#39;s Space Program](https://www.wired.com/story/turmoil-over-ukraine-could-debilitate-russias-space-program)<!-- TECH:END -->
+ - [The Consequences of Freezing Out Russia’s Banks](https://www.wired.com/story/gadget-lab-podcast-540)
+ - [What Apple risks by stopping all sales &amp; operations in Russia](https://appleinsider.com/articles/22/03/04/what-apple-risks-by-stopping-all-sales-operations-in-russia?utm_medium=rss)
+ - [Google stops all ad sales in Russia over Ukraine invasion](https://appleinsider.com/articles/22/03/04/google-ceases-ad-sales-in-russia-over-ukraine-invasion?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
