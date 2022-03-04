@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders Fund raises $5B+ in two new funds across early and late-stage investing, increasing the assets under its management to $11B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220304/p1#a220304p1)
- - [CEO Brian Chesky says Airbnb is suspending all operations in Russia and Belarus &lpar;The Economic Times&rpar;](http://www.techmeme.com/220303/p40#a220303p40)
- - [More People Need to Watch the Best Reality Dating TV Show on Netflix     - CNET](https://www.cnet.com/news/more-people-need-to-watch-the-best-reality-dating-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Reno 7 Pro review: Stylish design, questionable value](https://www.androidauthority.com/oppo-reno-7-pro-review-3104917/)
+ - [Endangered Shark Meat Might Be Lurking in Your Pet Food     - CNET](https://www.cnet.com/home/kitchen-and-household/endangered-shark-meat-might-be-lurking-in-your-pet-food/#ftag=CAD590a51e)
+ - [Founders Fund raises $5B+ in two new funds across early and late-stage investing, increasing the assets under its management to $11B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220304/p1#a220304p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
