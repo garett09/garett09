@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Latex Mattresses for 2022     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)
- - [UFC 272 Covington vs. Masvidal: Start Time, How to Watch or Stream, Full Fight Card     - CNET](https://www.cnet.com/news/ufc-272-covington-vs-masvidal-start-time-how-to-watch-or-stream-full-fight-card/#ftag=CAD590a51e)
- - [Google says it is pausing all ad sales in Russia including on Search, YouTube, and outside publishing partners, following similar moves by Twitter and Snap &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220303/p39#a220303p39)<!-- TECH:END -->
+ - [New Dropbox update brings support for M1 Macs](https://appleinsider.com/articles/22/03/04/new-dropbox-update-brings-support-for-m1-macs?utm_medium=rss)
+ - [Wanton in-app purchases cost Alberta father thousands of dollars](https://appleinsider.com/articles/22/03/03/wanton-in-app-purchases-spending-costs-alberta-father-thousands-of-dollars?utm_medium=rss)
+ - [Best Latex Mattresses for 2022     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
