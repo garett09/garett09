@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think that war in another country doesn\u2019t affect you](http://9gag.com/gag/aOQ2dMM)
- - 🚯 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)
- - 🚯 [Giggity](http://9gag.com/gag/a81AoKQ)<!-- MEMES:END -->
+ - 🚖 [Tomorrow who knows](http://9gag.com/gag/a0ZoQvQ)
+ - 🚯 [Lets not forget the Roman empire.](http://9gag.com/gag/aGzLjvn)
+ - 🚯 [Are you a doctor?](http://9gag.com/gag/aOQ2BLr)<!-- MEMES:END -->
 
 --- 
 
