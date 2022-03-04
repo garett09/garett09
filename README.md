@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dygma Raise: splitting the difference between gaming and ergonomics](https://www.theverge.com/22951481/dygma-raise-review-ergonomic-keyboard-review)
- - [Kogonada’s After Yang finds beauty in the quiet dystopia of grief](https://www.theverge.com/2022/3/4/22956531/after-yang-kogonada-review)
- - [The Best Bar Accessories You Need to Make the Perfect Drink](https://www.wired.com/gallery/best-bar-accessories)<!-- TECH:END -->
+ - [Microsoft completes its $19.7B acquisition of Nuance after UK&#39;s CMA approved the deal earlier in the week &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220304/p13#a220304p13)
+ - [Save on Bose noise-canceling headphones and earbuds at Best Buy](https://www.theverge.com/good-deals/2022/3/4/22959821/bose-headphones-secretlab-gaming-chairs-sonos-speaker-jbl-deal-sale)
+ - [Facebook and Instagram to block RT and Sputnik in the UK following a request by the government; Twitter and TikTok have not yet responded to UK&#39;s request &lpar;Alexander Martin/Sky News&rpar;](http://www.techmeme.com/220304/p12#a220304p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
