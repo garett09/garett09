@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: Apple ‘Peek Performance’ event preview, Ford splits itself in two, and Russia starts a star war](https://www.theverge.com/2022/3/4/22961223/vergecast-apple-peek-performance-event-ford-space-spacex-elon-musk-m2-iphone-ukraine-starlink)
- - [A heartfelt farewell from Dieter Bohn](https://www.theverge.com/2022/3/4/22960011/farewell-from-dieter-bohn)
- - [Jamf adds bring-your-own device management for iPhone, iPad](https://appleinsider.com/articles/22/03/04/jamf-announces-new-bring-your-own-device-offering-for-iphone-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [iFixit teardown shows how Samsung packed an S Pen into the S22 Ultra](https://www.theverge.com/2022/3/4/22961325/ifixit-galaxy-s22-ultra-teardown-repairability-s-pen-stylus)
+ - [Russia says it’s blocking Facebook in alarming new censorship push](https://www.theverge.com/2022/3/4/22960739/russia-internet-block-facebook-meta-roskomnadzor-ukraine)
+ - [Telegram says it is removing access to Kremlin-backed media in the EU, starting with people who signed in with an EU-based phone number &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220304/p22#a220304p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
