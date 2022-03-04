@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
- - [Where to find the Meteorite Staff in Elden Ring](https://www.pcgamer.com/elden-ring-meteorite-staff-location)
- - [This free retro shooter is a grocery trip through hell](https://www.pcgamer.com/this-free-retro-shooter-is-a-grocery-trip-through-hell)<!-- GAME:END -->
+ - [Here’s what’s ‘expanded and enhanced’ in GTA 5 for PS5 and Xbox Series X](https://www.polygon.com/22961444/gta-5-remaster-enhanced-expanded-ps5-xbox-series-x)
+ - [Next Week on Xbox: March 7 to 11](https://news.xbox.com/en-us/2022/03/04/next-week-on-xbox-march-7-to-11/)
+ - [How to celebrate International Game Master’s Day in style](https://www.polygon.com/tabletop-games/22960490/gifts-for-dungeon-masters-game-masters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
