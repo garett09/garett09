@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ukraine Raised Over $55M in Crypto To Help Resist Russia     - CNET](https://www.cnet.com/personal-finance/crypto/how-ukraine-raised-over-55m-in-crypto-to-help-resist-russia/#ftag=CAD590a51e)
- - [Sony and Honda plan to make electric vehicles together](https://www.theverge.com/2022/3/4/22961207/sony-honda-electric-car-new-company-2025-date)
- - [Oppo Reno 7 Pro review: Stylish design, questionable value](https://www.androidauthority.com/oppo-reno-7-pro-review-3104917/)<!-- TECH:END -->
+ - [Amid a trial in India, researchers say blocking Sci-Hub would benefit wealthy North American and European universities that can pay to access published papers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220304/p2#a220304p2)
+ - [First juicy Xiaomi Mi Band 7 leak hints at a bigger, better tracker](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
+ - [Ukraine&#39;s Biggest Nuclear Plant, Zaporizhzhia, Seized by Russian Forces     - CNET](https://www.cnet.com/news/ukraines-biggest-nuclear-plant-zaporizhzhia-seized-by-russian-forces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
