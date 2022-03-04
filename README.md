@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another day with my tanky](http://9gag.com/gag/aOQ2dPr)
- - 🚯 [Wagyu steak at a high-end place in Japan](http://9gag.com/gag/aPZxBmP)
- - 🚯 [Please, don&#39;t tell me I have to stop drinking](http://9gag.com/gag/adgvq8j)<!-- MEMES:END -->
+ - 🚖 [I like to feel overpowered after an day at work. Love games like GTA, RDR2, Witcher3, Overwatch, Dragonage. Tried Eldenring but quit and began AC Syndicate &lpar;love it&rpar; U guys have more like above? Thanks in advance guys!](http://9gag.com/gag/ay9qDBy)
+ - 🚯 [Goosebumps](http://9gag.com/gag/aGzL1EX)
+ - 🚯 [Much precision and minimal movement does to MF*](http://9gag.com/gag/adgvqyQ)<!-- MEMES:END -->
 
 --- 
 
