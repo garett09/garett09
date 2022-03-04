@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Times change](http://9gag.com/gag/aogW9y3)
- - 🚯 [Can&#39;t face Zelensky as a man. He&#39;s nothing but a corrupt coward.](http://9gag.com/gag/a7187L2)
+ - 🚖 [Time has come](http://9gag.com/gag/aeg4GNQ)
+ - 🚯 [Someone asked for Red Alert 2 sounds over the germany military budget increase](http://9gag.com/gag/a81A4YQ)
  - 🚯 [Spoderman, sound on](http://9gag.com/gag/aOQ2VGv)<!-- MEMES:END -->
 
 --- 
