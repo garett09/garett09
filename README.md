@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BECAUSE](http://9gag.com/gag/aze58Qx)
- - 🚯 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
- - 🚯 [These creatures actually exist](http://9gag.com/gag/a31GMy8)<!-- MEMES:END -->
+ - 🚖 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
+ - 🚯 [On the way to burgerking](http://9gag.com/gag/awzgQ4r)
+ - 🚯 [BECAUSE](http://9gag.com/gag/aze58Qx)<!-- MEMES:END -->
 
 --- 
 
