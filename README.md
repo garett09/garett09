@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Madmind Studios says anyone whose copy of Agony Unrated was taken away will get it back as free DLC](https://www.pcgamer.com/madmind-studios-says-anyone-whose-copy-of-agony-unrated-was-taken-away-will-get-it-back-as-free-dlc)
  - [This interactive Elden Ring map is extremely useful](https://www.pcgamer.com/elden-ring-map)
- - [Wait, is the Joker in The Batman?](https://www.polygon.com/22959868/the-batman-2022-joker-cameo-scene)
- - [Lost Ark endgame nerfs detailed in full](https://www.pcgamer.com/lost-ark-endgame-nerfs-detailed-in-full)<!-- GAME:END -->
+ - [Wait, is the Joker in The Batman?](https://www.polygon.com/22959868/the-batman-2022-joker-cameo-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
