@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like to feel overpowered after an day at work. Love games like GTA, RDR2, Witcher3, Overwatch, Dragonage. Tried Eldenring but quit and began AC Syndicate &lpar;love it&rpar; U guys have more like above? Thanks in advance guys!](http://9gag.com/gag/ay9qDBy)
- - 🚯 [Goosebumps](http://9gag.com/gag/aGzL1EX)
- - 🚯 [Much precision and minimal movement does to MF*](http://9gag.com/gag/adgvqyQ)<!-- MEMES:END -->
+ - 🚖 [BECAUSE](http://9gag.com/gag/aze58Qx)
+ - 🚯 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
+ - 🚯 [These creatures actually exist](http://9gag.com/gag/a31GMy8)<!-- MEMES:END -->
 
 --- 
 
