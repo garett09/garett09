@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Dropbox update brings support for M1 Macs](https://appleinsider.com/articles/22/03/04/new-dropbox-update-brings-support-for-m1-macs?utm_medium=rss)
- - [Wanton in-app purchases cost Alberta father thousands of dollars](https://appleinsider.com/articles/22/03/03/wanton-in-app-purchases-spending-costs-alberta-father-thousands-of-dollars?utm_medium=rss)
- - [Ukraine&#39;s Biggest Nuclear Plant Safe After Russian Attack Starts Fire     - CNET](https://www.cnet.com/news/ukraines-biggest-nuclear-plant-safe-after-russian-attack-starts-fire/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Founders Fund raises $5B+ in two new funds across early and late-stage investing, increasing the assets under its management to $11B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/220304/p1#a220304p1)
+ - [CEO Brian Chesky says Airbnb is suspending all operations in Russia and Belarus &lpar;The Economic Times&rpar;](http://www.techmeme.com/220303/p40#a220303p40)
+ - [More People Need to Watch the Best Reality Dating TV Show on Netflix     - CNET](https://www.cnet.com/news/more-people-need-to-watch-the-best-reality-dating-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
