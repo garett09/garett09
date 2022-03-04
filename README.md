@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always a Bigger Fish](http://9gag.com/gag/aKm1PNg)
- - 🚯 [Eat your vegetables](http://9gag.com/gag/aDD7w7O)
- - 🚯 [Wait till end...](http://9gag.com/gag/aAGQrB0)<!-- MEMES:END -->
+ - 🚖 [TFW you love your job](http://9gag.com/gag/a61Dyxe)
+ - 🚯 [Ukrainians at their finest](http://9gag.com/gag/aqGRNAj)
+ - 🚯 [Can&#39;t face Zelensky as a man. He&#39;s nothing but a corrupt coward.](http://9gag.com/gag/a7187L2)<!-- MEMES:END -->
 
 --- 
 
