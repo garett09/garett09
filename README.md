@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can&#39;t be the only one who gets a slight hard-on seeing the new Rheinmetall MAN HX3 artillery truck. [Germany]](http://9gag.com/gag/aPZx98B)
- - 🚯 [Just a friendly reminder...](http://9gag.com/gag/adgv7g2)
- - 🚯 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)<!-- MEMES:END -->
+ - 🚖 [When you think that war in another country doesn\u2019t affect you](http://9gag.com/gag/aOQ2dMM)
+ - 🚯 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)
+ - 🚯 [Giggity](http://9gag.com/gag/a81AoKQ)<!-- MEMES:END -->
 
 --- 
 
