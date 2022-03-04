@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradise Killer launches on PS4 &amp; PS5 March 16](https://blog.playstation.com/2022/03/04/paradise-killer-launches-on-ps4-ps5-march-16/)
- - [Paradise Killer launches on PS4 &amp; PS5 March 16](https://blog.playstation.com/2022/03/04/paradise-killer-launches-on-ps4-ps5-march-16/)
- - [Destiny 2 Xur location and items, March 4-8](https://www.polygon.com/destiny-2-guide-walkthrough/22961762/destiny-2-xur-location-items-march-4-8)<!-- GAME:END -->
+ - [Fresh unevenly skewers the dating game with a big cannibalism metaphor](https://www.polygon.com/reviews/22961836/fresh-review-cannibalism-horror-movie)
+ - [Fortnite: Where to find produce boxes in Sleepy Sound or Condo Canyon](https://www.pcgamer.com/produce-boxes-fortnite)
+ - [I Need These Cordless, Battery-Free LED Lego Bricks For My Next Build](https://kotaku.com/i-need-these-cordless-battery-free-led-lego-bricks-for-1848613692)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
