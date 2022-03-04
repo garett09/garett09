@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)
- - 🚯 [RIP.. my friend](http://9gag.com/gag/a117omD)
- - 🚯 [Tomorrow who knows](http://9gag.com/gag/a0ZoQvQ)<!-- MEMES:END -->
+ - 🚖 [On the way to burgerking](http://9gag.com/gag/awzgQ4r)
+ - 🚯 [Yuck vs yum](http://9gag.com/gag/aggQnb1)
+ - 🚯 [Not even coffee](http://9gag.com/gag/aDD7zgO)<!-- MEMES:END -->
 
 --- 
 
