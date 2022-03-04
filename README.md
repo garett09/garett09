@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 year-old girl rescued after being kidnapped by man she met on Roblox, police say](https://www.pcgamer.com/13-year-old-girl-rescued-after-being-kidnapped-by-man-she-met-on-roblox-police-say)
- - [Steam Deck enthusiasts are booting SteamOS 3.0 up on random devices, but no toasters yet](https://www.pcgamer.com/steam-deck-enthusiasts-are-booting-steamos-30-up-on-random-devices-but-no-toasters-yet)
- - [The impact of Denuvo on Total War: Warhammer 3 is still being investigated](https://www.pcgamer.com/the-impact-of-denuvo-on-total-war-warhammer-3-is-still-being-investigated)<!-- GAME:END -->
+ - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
+ - [Where to find the Meteorite Staff in Elden Ring](https://www.pcgamer.com/elden-ring-meteorite-staff-location)
+ - [This free retro shooter is a grocery trip through hell](https://www.pcgamer.com/this-free-retro-shooter-is-a-grocery-trip-through-hell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
