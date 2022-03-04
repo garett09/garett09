@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why FromSoft fans should be excited for Armored Core](https://www.polygon.com/22961961/fromsoft-armored-core-dark-souls-elden-ring)
- - [Activision Blizzard sued in wrongful death case alleging sexual harassment led to suicide](https://www.polygon.com/22962017/activision-blizzard-sexual-harassment-lawsuit-suicide)
- - [The Spirited Away stage show looks absolutely transcendent](https://www.polygon.com/22961714/spirited-away-stage-play-photos)<!-- GAME:END -->
+ - [Read the first issue of Polygon’s newsletter: Patch Notes](https://www.polygon.com/gaming/2022/3/4/22962172/elden-ring-polygon-newsletter-patch-notes)
+ - [Elden Ring&#39;s photo mode lets you take selfies with scary bosses](https://www.pcgamer.com/elden-ring-photo-mode)
+ - [Humble&#39;s Boomer Shooter bundle is one of the best FPS collections I&#39;ve seen](https://www.pcgamer.com/humbles-boomer-shooter-bundle-is-one-of-the-best-fps-collections-ive-seen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
