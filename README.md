@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit’s Steam Deck replacement parts will be available beginning this summer](https://www.theverge.com/2022/3/4/22962087/ifixit-steam-deck-replacement-parts-summer)
- - [Not just OnePlus: Another Android brand could offer an alert slider soon](https://www.androidauthority.com/oneplus-realme-alert-slider-3128931/)
- - [31 Awesome Gear Deals From Winter Clearance Sales](https://www.wired.com/story/outdoor-deals-winter-2022)<!-- TECH:END -->
+ - [Activision Blizzard is sued by the family of an employee who died by suicide, alleging that sexual harassment was a &quot;significant factor&quot; leading to her death &lpar;Washington Post&rpar;](http://www.techmeme.com/220304/p31#a220304p31)
+ - [Bloomberg, CNN and BBC Suspend Reporting in Russia     - CNET](https://www.cnet.com/news/bloomberg-cnn-and-bbc-suspend-reporting-in-russia/#ftag=CAD590a51e)
+ - [CrowdTangle: Facebook Gaming is overrun by spam and pirated content with the most popular &quot;gaming creators&quot; posting movie clips disguised as live gaming streams &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220304/p30#a220304p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
