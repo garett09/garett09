@@ -192,7 +192,7 @@ Windows                  5 hrs 41 mins       ███████████�
 <!-- TECH:START -->
  - [New Dropbox update brings support for M1 Macs](https://appleinsider.com/articles/22/03/04/new-dropbox-update-brings-support-for-m1-macs?utm_medium=rss)
  - [Wanton in-app purchases cost Alberta father thousands of dollars](https://appleinsider.com/articles/22/03/03/wanton-in-app-purchases-spending-costs-alberta-father-thousands-of-dollars?utm_medium=rss)
- - [Best Latex Mattresses for 2022     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine&#39;s Biggest Nuclear Plant Safe After Russian Attack Starts Fire     - CNET](https://www.cnet.com/news/ukraines-biggest-nuclear-plant-safe-after-russian-attack-starts-fire/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
