@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BBC resurrects WWII-era shortwave broadcasts as Russia blocks news of Ukraine invasion](https://www.theverge.com/2022/3/4/22961286/bbc-news-blocked-in-russia-ukraine-invasion-shortwave-radio)
- - [Google ceases ad sales in Russia over Ukraine invasion](https://appleinsider.com/articles/22/03/04/google-ceases-ad-sales-in-russia-over-ukraine-invasion?utm_medium=rss)
- - [Pebble’s reign as Kickstarter king comes to an end](https://www.theverge.com/2022/3/4/22960365/brandon-sanderson-fantasy-novels-kickstarter-cosmere)<!-- TECH:END -->
+ - [Germany-based Volocopter, which is developing an autonomous air taxi service, raises $170M as part of a Series E led by WP Investment at a $1.87B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220304/p3#a220304p3)
+ - [In Ukraine, Online Gig Workers Keep Coding Through the War](https://www.wired.com/story/gig-work-in-ukraine)
+ - [Turmoil Over Ukraine Could Debilitate Russia&#39;s Space Program](https://www.wired.com/story/turmoil-over-ukraine-could-debilitate-russias-space-program)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
