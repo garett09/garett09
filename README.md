@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Picard season 2’s showrunner plans to use the controversial Borg Queen](https://www.polygon.com/22960359/picard-borg-queen-interview)
- - [The best things about Total War: Warhammer 3 are small](https://www.pcgamer.com/the-best-things-about-total-war-warhammer-3-are-small)
- - [Gabe Newell’s Problem Isn’t With NFTs Or Metaverse, But The ‘Bad Actors’ Behind Them](https://kotaku.com/gabe-newell-s-problem-isn-t-with-nfts-or-metaverse-but-1848612363)<!-- GAME:END -->
+ - [Lost Ark endgame nerfs detailed in full](https://www.pcgamer.com/lost-ark-endgame-nerfs-detailed-in-full)
+ - [Don’t miss Our Flag Means Death — but don’t watch it just yet, either](https://www.polygon.com/reviews/22960695/our-flag-means-death-review-taika-waititi-rhys-darby)
+ - [Elden Ring Ashes of War locations guide](https://www.pcgamer.com/elden-ring-ashes-of-war-whetstone-knife)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
