@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you a doctor?](http://9gag.com/gag/aOQ2BLr)
- - 🚯 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)
+ - 🚖 [Russian g\u00e9n\u00e9ral Andrey Sukhovetsky killed by Ukrainian sniper from 1500m, major loss for russian army!](http://9gag.com/gag/aogWNmA)
+ - 🚯 [RIP.. my friend](http://9gag.com/gag/a117omD)
  - 🚯 [Tomorrow who knows](http://9gag.com/gag/a0ZoQvQ)<!-- MEMES:END -->
 
 --- 
