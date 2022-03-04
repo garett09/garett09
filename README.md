@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outside of Russia, Apple Maps and Weather now display Crimea as a part of Ukraine, after previously displaying the region as part of no country &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220303/p37#a220303p37)
- - [Apple Maps now shows Crimea as part of Ukraine](https://appleinsider.com/articles/22/03/04/apple-maps-now-shows-crimea-as-part-of-ukraine?utm_medium=rss)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [Best Latex Mattresses for 2022     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)
+ - [UFC 272 Covington vs. Masvidal: Start Time, How to Watch or Stream, Full Fight Card     - CNET](https://www.cnet.com/news/ufc-272-covington-vs-masvidal-start-time-how-to-watch-or-stream-full-fight-card/#ftag=CAD590a51e)
+ - [Google says it is pausing all ad sales in Russia including on Search, YouTube, and outside publishing partners, following similar moves by Twitter and Snap &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220303/p39#a220303p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
