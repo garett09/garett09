@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for February 2022’s best new game](https://blog.playstation.com/2022/03/04/players-choice-vote-for-february-2022s-best-new-game/)
- - [Players’ Choice: Vote for February 2022’s best new game](https://blog.playstation.com/2022/03/04/players-choice-vote-for-february-2022s-best-new-game/)
- - [Electronic Arts stops sales in Russia](https://www.polygon.com/22961678/electronic-arts-stopping-sales-russia-belarus-sanctions-ukraine)<!-- GAME:END -->
+ - [Paradise Killer launches on PS4 &amp; PS5 March 16](https://blog.playstation.com/2022/03/04/paradise-killer-launches-on-ps4-ps5-march-16/)
+ - [Paradise Killer launches on PS4 &amp; PS5 March 16](https://blog.playstation.com/2022/03/04/paradise-killer-launches-on-ps4-ps5-march-16/)
+ - [Destiny 2 Xur location and items, March 4-8](https://www.polygon.com/destiny-2-guide-walkthrough/22961762/destiny-2-xur-location-items-march-4-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
