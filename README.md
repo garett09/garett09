@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Not Easy Running a Geeky Business—but It Can Be Easier](https://www.wired.com/2022/03/geeks-guide-business-owners)
- - [Jamf announces new bring-your-own device offering for iPhone, iPad](https://appleinsider.com/articles/22/03/04/jamf-announces-new-bring-your-own-device-offering-for-iphone-ipad?utm_medium=rss)
- - [NY-based Flume Health, which lets organizations build health plans catered to employers&#39; needs, raises a $30M Series A, bringing its total funding to $40M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220304/p16#a220304p16)<!-- TECH:END -->
+ - [Vergecast: Apple ‘Peek Performance’ event preview, Ford splits itself in two, and Russia starts a star war](https://www.theverge.com/2022/3/4/22961223/vergecast-apple-peek-performance-event-ford-space-spacex-elon-musk-m2-iphone-ukraine-starlink)
+ - [A heartfelt farewell from Dieter Bohn](https://www.theverge.com/2022/3/4/22960011/farewell-from-dieter-bohn)
+ - [Jamf adds bring-your-own device management for iPhone, iPad](https://appleinsider.com/articles/22/03/04/jamf-announces-new-bring-your-own-device-offering-for-iphone-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
