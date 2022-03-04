@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Consequences of Freezing Out Russia’s Banks](https://www.wired.com/story/gadget-lab-podcast-540)
- - [What Apple risks by stopping all sales &amp; operations in Russia](https://appleinsider.com/articles/22/03/04/what-apple-risks-by-stopping-all-sales-operations-in-russia?utm_medium=rss)
- - [Google stops all ad sales in Russia over Ukraine invasion](https://appleinsider.com/articles/22/03/04/google-ceases-ad-sales-in-russia-over-ukraine-invasion?utm_medium=rss)<!-- TECH:END -->
+ - [Ming-Chi Kuo confirms what to expect from the new iPhone SE](https://appleinsider.com/articles/22/03/04/purported-ming-chi-kuo-tweet-rounds-up-familiar-iphone-se-predictions?utm_medium=rss)
+ - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs)
+ - [I Keep Going Back to One Video From Ukraine](https://www.wired.com/story/ukraine-video-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
