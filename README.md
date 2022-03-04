@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
- - 🚯 [On the way to burgerking](http://9gag.com/gag/awzgQ4r)
- - 🚯 [BECAUSE](http://9gag.com/gag/aze58Qx)<!-- MEMES:END -->
+ - 🚖 [Are you a doctor?](http://9gag.com/gag/aOQ2BLr)
+ - 🚯 [BECAUSE](http://9gag.com/gag/aze58Qx)
+ - 🚯 [Wagyu steak at a high-end place in Japan](http://9gag.com/gag/aPZxBmP)<!-- MEMES:END -->
 
 --- 
 
