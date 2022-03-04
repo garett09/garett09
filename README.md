@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog corrects Puppy&#39;s behaviour towards the Owner.](http://9gag.com/gag/ajg7DvQ)
- - 🚯 [Mommy](http://9gag.com/gag/aGzLDD0)
+ - 🚖 [Mommy](http://9gag.com/gag/aGzLDD0)
+ - 🚯 [SJW intellectuals putting forth their best philosophical argument about how basic biology is transphobic!](http://9gag.com/gag/a41nZ2y)
  - 🚯 [Cartoon logic](http://9gag.com/gag/aZrnpQn)<!-- MEMES:END -->
 
 --- 
