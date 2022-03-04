@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone asked for Red Alert 2 sounds over the germany military budget increase](http://9gag.com/gag/a81A4YQ)
- - 🚯 [I wrote an essay like this in middle school and got less than 40% of total marks ....](http://9gag.com/gag/aggQNeW)
- - 🚯 [RELEASE THE GOATS!!!!](http://9gag.com/gag/axBWjPp)<!-- MEMES:END -->
+ - 🚖 [Dog corrects Puppy&#39;s behaviour towards the Owner.](http://9gag.com/gag/ajg7DvQ)
+ - 🚯 [That&#39;s some impressive tech](http://9gag.com/gag/adgvjn2)
+ - 🚯 [Mommy](http://9gag.com/gag/aGzLDD0)<!-- MEMES:END -->
 
 --- 
 
