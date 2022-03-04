@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what’s ‘expanded and enhanced’ in GTA 5 for PS5 and Xbox Series X](https://www.polygon.com/22961444/gta-5-remaster-enhanced-expanded-ps5-xbox-series-x)
- - [Next Week on Xbox: March 7 to 11](https://news.xbox.com/en-us/2022/03/04/next-week-on-xbox-march-7-to-11/)
- - [How to celebrate International Game Master’s Day in style](https://www.polygon.com/tabletop-games/22960490/gifts-for-dungeon-masters-game-masters)<!-- GAME:END -->
+ - [Go on a Musical Journey Through the 70s with A Musical Story](https://news.xbox.com/en-us/2022/03/04/go-on-a-musical-journey-through-the-70s-with-a-musical-story/)
+ - [Intel&#39;s new mining chip should tempt miners away from gaming GPUs](https://www.pcgamer.com/intels-efficient-mining-chip-could-tempt-cryptocurrency-miners-away-from-gaming-gpus)
+ - [New World suspends Russian localisation amidst Ukraine invasion](https://www.pcgamer.com/new-world-suspends-russian-localisation-amidst-ukraine-invasion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
