@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ukraine Raised Over $55M in Crypto To Help Resist Russia     - CNET](https://www.cnet.com/personal-finance/crypto/how-ukraine-raised-over-55m-in-crypto-to-help-resist-russia/#ftag=CAD590a51e)
  - [Sony and Honda plan to make electric vehicles together](https://www.theverge.com/2022/3/4/22961207/sony-honda-electric-car-new-company-2025-date)
- - [Oppo Reno 7 Pro review: Stylish design, questionable value](https://www.androidauthority.com/oppo-reno-7-pro-review-3104917/)
- - [Endangered Shark Meat Might Be Lurking in Your Pet Food     - CNET](https://www.cnet.com/home/kitchen-and-household/endangered-shark-meat-might-be-lurking-in-your-pet-food/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Reno 7 Pro review: Stylish design, questionable value](https://www.androidauthority.com/oppo-reno-7-pro-review-3104917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
