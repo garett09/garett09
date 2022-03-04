@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Times change](http://9gag.com/gag/aogW9y3)
- - 🚯 [Spoderman, sound on](http://9gag.com/gag/aOQ2VGv)
- - 🚯 [Can&#39;t face Zelensky as a man. He&#39;s nothing but a corrupt coward.](http://9gag.com/gag/a7187L2)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t face Zelensky as a man. He&#39;s nothing but a corrupt coward.](http://9gag.com/gag/a7187L2)
+ - 🚯 [Spoderman, sound on](http://9gag.com/gag/aOQ2VGv)<!-- MEMES:END -->
 
 --- 
 
