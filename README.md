@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wait, is the Joker in The Batman?](https://www.polygon.com/22959868/the-batman-2022-joker-cameo-scene)
  - [Lost Ark endgame nerfs detailed in full](https://www.pcgamer.com/lost-ark-endgame-nerfs-detailed-in-full)
- - [Don’t miss Our Flag Means Death — but don’t watch it just yet, either](https://www.polygon.com/reviews/22960695/our-flag-means-death-review-taika-waititi-rhys-darby)
- - [Elden Ring Ashes of War locations guide](https://www.pcgamer.com/elden-ring-ashes-of-war-whetstone-knife)<!-- GAME:END -->
+ - [Don’t miss Our Flag Means Death — but don’t watch it just yet, either](https://www.polygon.com/reviews/22960695/our-flag-means-death-review-taika-waititi-rhys-darby)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
