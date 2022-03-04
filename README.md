@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pebble’s reign as Kickstarter king comes to an end](https://www.theverge.com/2022/3/4/22960365/brandon-sanderson-fantasy-novels-kickstarter-cosmere)
  - [Amid a trial in India, researchers say blocking Sci-Hub would benefit wealthy North American and European universities that can pay to access published papers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220304/p2#a220304p2)
- - [First juicy Xiaomi Mi Band 7 leak hints at a bigger, better tracker](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
- - [Ukraine&#39;s Biggest Nuclear Plant, Zaporizhzhia, Seized by Russian Forces     - CNET](https://www.cnet.com/news/ukraines-biggest-nuclear-plant-zaporizhzhia-seized-by-russian-forces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First juicy Xiaomi Mi Band 7 leak hints at a bigger, better tracker](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
