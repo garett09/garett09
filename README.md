@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wanton In-App Purchases spending costs Alberta father thousands of dollars](https://appleinsider.com/articles/22/03/03/wanton-in-app-purchases-spending-costs-alberta-father-thousands-of-dollars?utm_medium=rss)
- - [Sources: automation software startup Hyperscience laid off 100 workers, or 25% of its staff, after missing FY financial targets; CEO Peter Brodsky stepped down &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220303/p35#a220303p35)
- - [Hacktivists Stoke Pandemonium Amid Russia’s War in Ukraine](https://www.wired.com/story/hacktivists-pandemonium-russia-war-ukraine)<!-- TECH:END -->
+ - [Outside of Russia, Apple Maps and Weather now display Crimea as a part of Ukraine, after previously displaying the region as part of no country &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220303/p37#a220303p37)
+ - [Apple Maps now shows Crimea as part of Ukraine](https://appleinsider.com/articles/22/03/04/apple-maps-now-shows-crimea-as-part-of-ukraine?utm_medium=rss)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
