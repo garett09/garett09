@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fresh unevenly skewers the dating game with a big cannibalism metaphor](https://www.polygon.com/reviews/22961836/fresh-review-cannibalism-horror-movie)
- - [Fortnite: Where to find produce boxes in Sleepy Sound or Condo Canyon](https://www.pcgamer.com/produce-boxes-fortnite)
- - [I Need These Cordless, Battery-Free LED Lego Bricks For My Next Build](https://kotaku.com/i-need-these-cordless-battery-free-led-lego-bricks-for-1848613692)<!-- GAME:END -->
+ - [Idris Elba Is On The Gran Turismo 7 Soundtrack](https://kotaku.com/idris-elba-is-on-the-gran-turismo-7-soundtrack-1848613843)
+ - [Build the wrecking machine of your dreams in this glorious destruction sandbox](https://www.pcgamer.com/build-the-wrecking-machine-of-your-dreams-in-this-glorious-destruction-sandbox)
+ - [The best Fortnite Creative codes](https://www.pcgamer.com/fortnite-creative-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
