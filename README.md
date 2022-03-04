@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Go on a Musical Journey Through the 70s with A Musical Story](https://news.xbox.com/en-us/2022/03/04/go-on-a-musical-journey-through-the-70s-with-a-musical-story/)
- - [Intel&#39;s new mining chip should tempt miners away from gaming GPUs](https://www.pcgamer.com/intels-efficient-mining-chip-could-tempt-cryptocurrency-miners-away-from-gaming-gpus)
- - [New World suspends Russian localisation amidst Ukraine invasion](https://www.pcgamer.com/new-world-suspends-russian-localisation-amidst-ukraine-invasion)<!-- GAME:END -->
+ - [Players’ Choice: Vote for February 2022’s best new game](https://blog.playstation.com/2022/03/04/players-choice-vote-for-february-2022s-best-new-game/)
+ - [Players’ Choice: Vote for February 2022’s best new game](https://blog.playstation.com/2022/03/04/players-choice-vote-for-february-2022s-best-new-game/)
+ - [Electronic Arts stops sales in Russia](https://www.polygon.com/22961678/electronic-arts-stopping-sales-russia-belarus-sanctions-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
