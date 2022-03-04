@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Simple Man](http://9gag.com/gag/a117d2D)
- - 🚯 [1999](http://9gag.com/gag/aqGRLDL)
- - 🚯 [Cant expect me to keep this shit up](http://9gag.com/gag/avAWrvq)<!-- MEMES:END -->
+ - 🚖 [March 2022](http://9gag.com/gag/a21M5ww)
+ - 🚯 [Simple Man](http://9gag.com/gag/a117d2D)
+ - 🚯 [This is me &lpar;right&rpar; and my dad when I was born in 1982. I&#39;m gonna need you 9gag sons of b*tches to help me thru this. He just passed away today. Worst feeling in the world](http://9gag.com/gag/a21M5OD)<!-- MEMES:END -->
 
 --- 
 
