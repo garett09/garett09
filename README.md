@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Madmind Studios says anyone whose copy of Agony Unrated was taken away will get it back as free DLC](https://www.pcgamer.com/madmind-studios-says-anyone-whose-copy-of-agony-unrated-was-taken-away-will-get-it-back-as-free-dlc)
- - [This interactive Elden Ring map is extremely useful](https://www.pcgamer.com/elden-ring-map)
- - [Wait, is the Joker in The Batman?](https://www.polygon.com/22959868/the-batman-2022-joker-cameo-scene)<!-- GAME:END -->
+ - [13 year-old girl rescued after being kidnapped by man she met on Roblox, police say](https://www.pcgamer.com/13-year-old-girl-rescued-after-being-kidnapped-by-man-she-met-on-roblox-police-say)
+ - [Steam Deck enthusiasts are booting SteamOS 3.0 up on random devices, but no toasters yet](https://www.pcgamer.com/steam-deck-enthusiasts-are-booting-steamos-30-up-on-random-devices-but-no-toasters-yet)
+ - [The impact of Denuvo on Total War: Warhammer 3 is still being investigated](https://www.pcgamer.com/the-impact-of-denuvo-on-total-war-warhammer-3-is-still-being-investigated)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
