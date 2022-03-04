@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Idris Elba Is On The Gran Turismo 7 Soundtrack](https://kotaku.com/idris-elba-is-on-the-gran-turismo-7-soundtrack-1848613843)
- - [Build the wrecking machine of your dreams in this glorious destruction sandbox](https://www.pcgamer.com/build-the-wrecking-machine-of-your-dreams-in-this-glorious-destruction-sandbox)
- - [The best Fortnite Creative codes](https://www.pcgamer.com/fortnite-creative-codes)<!-- GAME:END -->
+ - [The House of the Dead 1 and 2 remakes for Nintendo Switch keep the camp](https://www.polygon.com/22962028/the-house-of-the-dead-remakes-nintendo-switch-forever-entertainment-release-date)
+ - [The grossest thing in every extremely gross The Boys: Diabolical episode](https://www.polygon.com/22961941/the-boys-diabolical-episodes-list-grossest)
+ - [Haven Update: Meet the new Yu and Kay](https://news.xbox.com/en-us/2022/03/04/haven-update-meet-the-new-yu-and-kay/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
