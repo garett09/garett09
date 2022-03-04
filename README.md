@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ming-Chi Kuo confirms what to expect from the new iPhone SE](https://appleinsider.com/articles/22/03/04/purported-ming-chi-kuo-tweet-rounds-up-familiar-iphone-se-predictions?utm_medium=rss)
- - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs)
- - [I Keep Going Back to One Video From Ukraine](https://www.wired.com/story/ukraine-video-social-media)<!-- TECH:END -->
+ - [Dygma Raise: splitting the difference between gaming and ergonomics](https://www.theverge.com/22951481/dygma-raise-review-ergonomic-keyboard-review)
+ - [Kogonada’s After Yang finds beauty in the quiet dystopia of grief](https://www.theverge.com/2022/3/4/22956531/after-yang-kogonada-review)
+ - [The Best Bar Accessories You Need to Make the Perfect Drink](https://www.wired.com/gallery/best-bar-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
