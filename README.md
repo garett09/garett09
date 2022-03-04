@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wedbush: Apple, Google, Meta, and Netflix combined would stand to lose 1%-2% of their revenue from exiting Russia; Amazon&#39;s presence involves limited AWS use &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220304/p25#a220304p25)
- - [Shareholders approve Apple civil rights audit, Tim Cook&#39;s $99M pay package](https://appleinsider.com/articles/22/03/04/shareholders-approve-apple-civil-rights-audit-tim-cooks-99m-pay-package?utm_medium=rss)
- - [Get a free $200 gift card with the Samsung Galaxy S22, and more Visible deals](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
+ - [10 best color matching apps for Android](https://www.androidauthority.com/best-color-matching-apps-android-3101908/)
+ - [You told us: You think Qualcomm can retake the top Android spot in the US](https://www.androidauthority.com/qualcomm-retake-top-spot-usa-poll-results-3128113/)
+ - [Russia’s Yandex ‘pauses’ autonomous vehicle testing in the US](https://www.theverge.com/2022/3/4/22962016/yandex-autonomous-vehicle-pause-ann-arbor-russia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
