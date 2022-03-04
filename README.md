@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft completes its $19.7B acquisition of Nuance after UK&#39;s CMA approved the deal earlier in the week &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220304/p13#a220304p13)
- - [Save on Bose noise-canceling headphones and earbuds at Best Buy](https://www.theverge.com/good-deals/2022/3/4/22959821/bose-headphones-secretlab-gaming-chairs-sonos-speaker-jbl-deal-sale)
- - [Facebook and Instagram to block RT and Sputnik in the UK following a request by the government; Twitter and TikTok have not yet responded to UK&#39;s request &lpar;Alexander Martin/Sky News&rpar;](http://www.techmeme.com/220304/p12#a220304p12)<!-- TECH:END -->
+ - [It&#39;s Not Easy Running a Geeky Business—but It Can Be Easier](https://www.wired.com/2022/03/geeks-guide-business-owners)
+ - [Jamf announces new bring-your-own device offering for iPhone, iPad](https://appleinsider.com/articles/22/03/04/jamf-announces-new-bring-your-own-device-offering-for-iphone-ipad?utm_medium=rss)
+ - [NY-based Flume Health, which lets organizations build health plans catered to employers&#39; needs, raises a $30M Series A, bringing its total funding to $40M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220304/p16#a220304p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
