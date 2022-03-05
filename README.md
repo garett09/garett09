@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Batman&#39;: Is There a Post-Credits Scene?     - CNET](https://www.cnet.com/news/the-batman-is-there-a-post-credits-scene/#ftag=CAD590a51e)
- - [My big fat Italian vampire-slaying family](https://www.theverge.com/2022/3/5/22960148/vampire-survivors-game-pc-mac-italian-names-lore-head-canon)
- - [HBO Max: The 29 Best TV Shows to Watch     - CNET](https://www.cnet.com/news/hbo-max-the-29-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sideloading is a malware danger, Apple tells U.S. lawmakers](https://appleinsider.com/articles/22/03/05/sideloading-is-a-malware-danger-apple-tells-us-lawmakers?utm_medium=rss)
+ - [Apple wants major NFL streaming deal beyond &#39;Sunday Ticket&#39;](https://appleinsider.com/articles/22/03/05/apple-keen-on-major-nfl-rights-deal-beyond-sunday-ticket?utm_medium=rss)
+ - [Daily deals March 5: $33 Spigen Magnetic Battery Pack, 38% off Asus AC2600 Wi-Fi Router, $250 arcade cabinet &amp; more](https://appleinsider.com/articles/22/03/05/daily-deals-march-5-33-spigen-magnetic-battery-pack-38-off-asus-ac2600-wi-fi-router-250-arcade-cabinet-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
