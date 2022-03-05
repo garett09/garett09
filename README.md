@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal suspends its services in Russia, including its money transfer service Xoom; Wise and Remitly have also suspended some services in Russia &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220305/p3#a220305p3)
  - [A look at volunteer hackers in the Russia-Ukraine war, many scattered globally with unverifiable identities, as both sides recruit them to launch cyberattacks &lpar;New York Times&rpar;](http://www.techmeme.com/220305/p2#a220305p2)
- - [Software AG, a developer of business and application integration software, acquires DataOps software developer StreamSets for &amp;euro;524M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/220305/p1#a220305p1)
- - [Grocery app Buyk, which was founded by two Russians and has sizable operations in New York and Chicago, furloughs ~98% of its employees amid sanctions on Russia &lpar;Theo Wayt/New York Post&rpar;](http://www.techmeme.com/220304/p37#a220304p37)<!-- TECH:END -->
+ - [Software AG, a developer of business and application integration software, acquires DataOps software developer StreamSets for &amp;euro;524M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/220305/p1#a220305p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
