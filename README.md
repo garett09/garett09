@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok plans to add labels to ‘some’ state-controlled media](https://www.theverge.com/2022/3/4/22962289/tiktok-misinformation-state-media-labels-rollout-russia-ukraine)
- - [Yandex has lost 75%+ of its value in the past 6 months, despite not being directly sanctioned, as deals with Uber, Grubhub, and DuckDuckGo appear likely to end &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220304/p34#a220304p34)
- - [Source: Samsung has suspended all product shipments to Russia, including chips, smartphones, and electronics; Samsung has a 30%+ market share in Russia &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220304/p33#a220304p33)<!-- TECH:END -->
+ - [Snapchat turns off public ‘heatmap’ for Ukraine](https://www.theverge.com/2022/3/4/22962384/snapchat-heatmap-ukraine-disabled-privacy-advertising)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Meta pauses all Facebook ads targeting people in Russia and blocks all advertisers within Russia from running ads globally, following Russia blocking Facebook &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/220304/p36#a220304p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
