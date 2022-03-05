@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Major Internet Backbone Company Cuts Off Russia](https://www.wired.com/story/cogent-internet-backbone-cuts-off-russia-nvidia-ransomware-conti-security-news)
- - [Our 5 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)
- - [Fully’s stellar Jarvis standing desks are still 15 percent off](https://www.theverge.com/good-deals/2022/3/5/22959707/fully-jarvis-standing-desks-elden-ring-paramount-plus)<!-- TECH:END -->
+ - [100W, 150W, 240W? Wired charging power has become meaningless](https://www.androidauthority.com/wired-charging-power-meaningless-3124984/)
+ - [What to expect at Apple’s March 2022 event](https://www.androidauthority.com/apple-event-march-2022-3126919/)
+ - [Where Can You Shop for Solar Panels?     - CNET](https://www.cnet.com/home/energy-and-utilities/where-can-you-shop-for-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
