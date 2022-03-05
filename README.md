@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Batman&#39; Director Matt Reeves Wants to Put You Off-Kilter     - CNET](https://www.cnet.com/news/the-batman-director-matt-reeves-wants-to-put-you-off-kilter/#ftag=CAD590a51e)
- - [Best Car Scratch Removers for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-car-scratch-remover/#ftag=CAD590a51e)
- - [PayPal pauses service in Russia, citing ‘violent military aggression’](https://www.theverge.com/2022/3/5/22962848/paypal-pauses-service-russia-ukraine-invasion)<!-- TECH:END -->
+ - [For some right-wing libertarian-minded coiners, the right to freely trade crypto takes precedence over opposing a Russian invasion of a sovereign nation &lpar;Jacob Silverman/New Republic&rpar;](http://www.techmeme.com/220305/p7#a220305p7)
+ - [The notification LED is almost dead, but one phone convinced me it should return](https://www.androidauthority.com/smartphone-notification-led-return-3120909/)
+ - [&#39;The Batman&#39; Director Matt Reeves Wants to Put You Off-Kilter     - CNET](https://www.cnet.com/news/the-batman-director-matt-reeves-wants-to-put-you-off-kilter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
