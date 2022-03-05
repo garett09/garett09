@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Long Walk defines a whole new wave of horror](https://www.polygon.com/reviews/22962239/the-long-walk-review-mattie-do)
- - [Read the first issue of Polygon’s newsletter: Patch Notes](https://www.polygon.com/gaming/2022/3/4/22962172/elden-ring-polygon-newsletter-patch-notes)
- - [Humble&#39;s Boomer Shooter bundle is one of the best FPS collections I&#39;ve seen](https://www.pcgamer.com/humbles-boomer-shooter-bundle-is-one-of-the-best-fps-collections-ive-seen)<!-- GAME:END -->
+ - [Lost Ark is banning &#39;over a million&#39; accounts for using bots](https://www.pcgamer.com/lost-ark-is-banning-over-a-million-accounts-for-using-bots)
+ - [Garry&#39;s Mod and Rust prices are going up in Russia to help support Ukrainian charities](https://www.pcgamer.com/garrys-mod-and-rust-are-getting-more-expensive-in-russia-to-support-ukrainian-charities)
+ - [How to install the Epic Games launcher on Steam Deck](https://www.pcgamer.com/steam-deck-install-epic-games-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
