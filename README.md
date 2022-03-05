@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activision Blizzard and Epic Games halt sales of games in Russia](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion)
  - [Washington state passes the Silenced No More Act, becoming the second state to ban NDAs preventing workers from discussing harassment, wage violations, and more &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220305/p9#a220305p9)
- - [Apple starts taking donations for UNICEF Ukraine effort](https://appleinsider.com/articles/22/03/05/apple-starts-taking-donations-for-unicef-ukraine-effort?utm_medium=rss)
- - [Activision Blizzard halts new sales of games in Russia](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion)<!-- TECH:END -->
+ - [UFC 272 Covington vs. Masvidal: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/news/ufc-272-covington-vs-masvidal-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
