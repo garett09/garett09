@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zelensky latest speech &lpar;4th March&rpar;](http://9gag.com/gag/angO5LL)
- - 🚯 [Yuck vs yum](http://9gag.com/gag/aggQnb1)
- - 🚯 [Laughs in bad luck brian](http://9gag.com/gag/awzgBNr)<!-- MEMES:END -->
+ - 🚖 [Funny how I don\u2019t even respect myself at time.](http://9gag.com/gag/aBnZmY1)
+ - 🚯 [Sean Lock](http://9gag.com/gag/aqGRn27)
+ - 🚯 [The face you make when you realize you f**ked up.](http://9gag.com/gag/aQXg1Ee)<!-- MEMES:END -->
 
 --- 
 
