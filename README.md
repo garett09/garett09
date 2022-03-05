@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you grandma](http://9gag.com/gag/aWgpgGq)
- - 🚯 [Im glad i bought the 2.0](http://9gag.com/gag/a91zERW)
+ - 🚖 [Im glad i bought the 2.0](http://9gag.com/gag/a91zERW)
+ - 🚯 [Thank you grandma](http://9gag.com/gag/aWgpgGq)
  - 🚯 [Get the f\u00a4#k out.](http://9gag.com/gag/a1171K6)<!-- MEMES:END -->
 
 --- 
