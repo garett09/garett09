@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not great not terrible](http://9gag.com/gag/aVxg00v)
- - 🚯 [Lets not forget the Roman empire.](http://9gag.com/gag/aGzLjvn)
- - 🚯 [`Cabin in the forest` I thought I would paint a cabin, do you like it?](http://9gag.com/gag/aGzLZm0)<!-- MEMES:END -->
+ - 🚖 [Zelensky latest speech &lpar;4th March&rpar;](http://9gag.com/gag/angO5LL)
+ - 🚯 [Yuck vs yum](http://9gag.com/gag/aggQnb1)
+ - 🚯 [Laughs in bad luck brian](http://9gag.com/gag/awzgBNr)<!-- MEMES:END -->
 
 --- 
 
