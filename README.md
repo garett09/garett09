@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sanctions slowly begin to hit, Nizhnekamsk, workers didnt get paid and strike](http://9gag.com/gag/aZrnnXW)
- - 🚯 [Today\u2019s tests of the #Starlink in #Kyiv](http://9gag.com/gag/aAGQQZR)
- - 🚯 [Interesting fact](http://9gag.com/gag/a41nPjA)<!-- MEMES:END -->
+ - 🚖 [Behold the anti-javelin system!](http://9gag.com/gag/a41noDZ)
+ - 🚯 [Interesting fact](http://9gag.com/gag/a41nPjA)
+ - 🚯 [We are so f**ked.](http://9gag.com/gag/aAGQ0po)<!-- MEMES:END -->
 
 --- 
 
