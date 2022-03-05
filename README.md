@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Passengers push the train to separate it from the engine and the burning compartment, India](http://9gag.com/gag/a117rw6)
- - 🚯 [Learning self def from youtube](http://9gag.com/gag/a117rMY)
- - 🚯 [Focus on your goals](http://9gag.com/gag/aLvLpKP)<!-- MEMES:END -->
+ - 🚖 [Anya Taylor-Joy](http://9gag.com/gag/ajg7mYq)
+ - 🚯 [Passengers push the train to separate it from the engine and the burning compartment, India](http://9gag.com/gag/a117rw6)
+ - 🚯 [Holup](http://9gag.com/gag/abgeV2b)<!-- MEMES:END -->
 
 --- 
 
