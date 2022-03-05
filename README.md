@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Google: `How to get my car vandalized`](http://9gag.com/gag/abgee09)
- - 🚯 [Whenn your boss tells you to work on saturday morning after getting wasted with the homies](http://9gag.com/gag/aYrGQev)
- - 🚯 [Balance is the key.](http://9gag.com/gag/aXrLP76)<!-- MEMES:END -->
+ - 🚖 [Sanctions slowly begin to hit, Nizhnekamsk, workers didnt get paid and strike](http://9gag.com/gag/aZrnnXW)
+ - 🚯 [Today\u2019s tests of the #Starlink in #Kyiv](http://9gag.com/gag/aAGQQZR)
+ - 🚯 [Interesting fact](http://9gag.com/gag/a41nPjA)<!-- MEMES:END -->
 
 --- 
 
