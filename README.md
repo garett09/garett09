@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Zaporizhzhia nuclear power plant: `Stop firing at the nuclear facility\u2026 You are endangering the safety of the entire world.`](http://9gag.com/gag/aYrGo1V)
- - 🚯 [Thank you grandma](http://9gag.com/gag/aWgpgGq)
- - 🚯 [Congratulations](http://9gag.com/gag/aAGQGb2)<!-- MEMES:END -->
+ - 🚯 [Congratulations](http://9gag.com/gag/aAGQGb2)
+ - 🚯 [People in Melitopol come at the armed Russian soldiers with bare hands. They clearly did not expect such a response.](http://9gag.com/gag/awzgzQD)<!-- MEMES:END -->
 
 --- 
 
