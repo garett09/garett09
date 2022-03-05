@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not mine, but the situation is very soviet-like](http://9gag.com/gag/aqGRG4j)
- - 🚯 [*You](http://9gag.com/gag/aAGQ0No)
- - 🚯 [Ukraine shot down a Russian plane and captured the pilot. We need a translation here though.](http://9gag.com/gag/axBWov1)<!-- MEMES:END -->
+ - 🚖 [Molotov crossbow FTW!](http://9gag.com/gag/aBnZn4x)
+ - 🚯 [Whenn your boss tells you to work on saturday morning after getting wasted with the homies](http://9gag.com/gag/aYrGQev)
+ - 🚯 [Bernie Sanders on the Ukrain War](http://9gag.com/gag/a21M1b9)<!-- MEMES:END -->
 
 --- 
 
