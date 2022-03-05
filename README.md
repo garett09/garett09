@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Batman breaks free of the Dark Knight trilogy’s legacy by literally breaking Batman](https://www.polygon.com/22961889/the-batman-2022-robert-pattinson-costume-stunts)
  - [Taika Waititi warns that his pirate show Our Flag Means Death might turn viewers into pirates](https://www.polygon.com/22959205/our-flag-means-death-taika-waititi-interview-showrunner-david-jenkins-rhys-darby)
- - [Sorry To Bother You and 14 more great movies streaming in March](https://www.polygon.com/what-to-watch/22954937/best-new-movies-netflix-amazon-hbo-march-2021)
- - [Bureau 13 were the least-stealthy secret agents in videogame history](https://www.pcgamer.com/saturday-crapshoot-bureau-13)<!-- GAME:END -->
+ - [Sorry To Bother You and 14 more great movies streaming in March](https://www.polygon.com/what-to-watch/22954937/best-new-movies-netflix-amazon-hbo-march-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
