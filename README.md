@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Software AG, a developer of business and application integration software, acquires DataOps software developer StreamSets for &amp;euro;524M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/220305/p1#a220305p1)
  - [Grocery app Buyk, which was founded by two Russians and has sizable operations in New York and Chicago, furloughs ~98% of its employees amid sanctions on Russia &lpar;Theo Wayt/New York Post&rpar;](http://www.techmeme.com/220304/p37#a220304p37)
- - [Russia Invades Ukraine: Latest Updates as News Organizations Stop Reporting in Russia     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)
- - [Big Crypto Exchanges Resist Banning Russian Users     - CNET](https://www.cnet.com/personal-finance/crypto/big-crypto-exchanges-resist-banning-russian-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia Invades Ukraine: Latest Updates as News Organizations Stop Reporting in Russia     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
