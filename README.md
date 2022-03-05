@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard is sued by the family of an employee who died by suicide, alleging that sexual harassment was a &quot;significant factor&quot; leading to her death &lpar;Washington Post&rpar;](http://www.techmeme.com/220304/p31#a220304p31)
- - [Bloomberg, CNN and BBC Suspend Reporting in Russia     - CNET](https://www.cnet.com/news/bloomberg-cnn-and-bbc-suspend-reporting-in-russia/#ftag=CAD590a51e)
- - [CrowdTangle: Facebook Gaming is overrun by spam and pirated content with the most popular &quot;gaming creators&quot; posting movie clips disguised as live gaming streams &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220304/p30#a220304p30)<!-- TECH:END -->
+ - [TikTok plans to add labels to ‘some’ state-controlled media](https://www.theverge.com/2022/3/4/22962289/tiktok-misinformation-state-media-labels-rollout-russia-ukraine)
+ - [Yandex has lost 75%+ of its value in the past 6 months, despite not being directly sanctioned, as deals with Uber, Grubhub, and DuckDuckGo appear likely to end &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220304/p34#a220304p34)
+ - [Source: Samsung has suspended all product shipments to Russia, including chips, smartphones, and electronics; Samsung has a 30%+ market share in Russia &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220304/p33#a220304p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
