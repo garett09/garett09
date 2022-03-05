@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sideloading is a malware danger, Apple tells U.S. lawmakers](https://appleinsider.com/articles/22/03/05/sideloading-is-a-malware-danger-apple-tells-us-lawmakers?utm_medium=rss)
- - [Apple wants major NFL streaming deal beyond &#39;Sunday Ticket&#39;](https://appleinsider.com/articles/22/03/05/apple-keen-on-major-nfl-rights-deal-beyond-sunday-ticket?utm_medium=rss)
- - [Daily deals March 5: $33 Spigen Magnetic Battery Pack, 38% off Asus AC2600 Wi-Fi Router, $250 arcade cabinet &amp; more](https://appleinsider.com/articles/22/03/05/daily-deals-march-5-33-spigen-magnetic-battery-pack-38-off-asus-ac2600-wi-fi-router-250-arcade-cabinet-more?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;The Batman&#39; Director Matt Reeves Wants to Put You Off-Kilter     - CNET](https://www.cnet.com/news/the-batman-director-matt-reeves-wants-to-put-you-off-kilter/#ftag=CAD590a51e)
+ - [Best Car Scratch Removers for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-car-scratch-remover/#ftag=CAD590a51e)
+ - [PayPal pauses service in Russia, citing ‘violent military aggression’](https://www.theverge.com/2022/3/5/22962848/paypal-pauses-service-russia-ukraine-invasion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
