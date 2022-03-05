@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [100W, 150W, 240W? Wired charging power has become meaningless](https://www.androidauthority.com/wired-charging-power-meaningless-3124984/)
- - [What to expect at Apple’s March 2022 event](https://www.androidauthority.com/apple-event-march-2022-3126919/)
- - [Where Can You Shop for Solar Panels?     - CNET](https://www.cnet.com/home/energy-and-utilities/where-can-you-shop-for-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple keen on major NFL rights deal beyond &#39;Sunday Ticket&#39;](https://appleinsider.com/articles/22/03/05/apple-keen-on-major-nfl-rights-deal-beyond-sunday-ticket?utm_medium=rss)
+ - [PayPal pauses service in Russia, citing ‘violent military aggression’](https://www.theverge.com/2022/3/5/22962848/paypal-pauses-service-russia-ukraine-invasion)
+ - [100W, 150W, 240W? Wired charging power has become meaningless](https://www.androidauthority.com/wired-charging-power-meaningless-3124984/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
