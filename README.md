@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia hackers target Samsung, release 190GB of sensitive data](https://www.pcgamer.com/nvidia-hackers-target-samsung-release-190gb-of-sensitive-data)
  - [Ascension Tactics leads our list of the best new board games of March](https://www.polygon.com/tabletop-games/22961689/best-new-board-games-on-sale-kickstarter-ascension-tactics-jurassic-world)
- - [The Batman breaks free of the Dark Knight trilogy’s legacy by literally breaking Batman](https://www.polygon.com/22961889/the-batman-2022-robert-pattinson-costume-stunts)
- - [Taika Waititi warns that his pirate show Our Flag Means Death might turn viewers into pirates](https://www.polygon.com/22959205/our-flag-means-death-taika-waititi-interview-showrunner-david-jenkins-rhys-darby)<!-- GAME:END -->
+ - [The Batman breaks free of the Dark Knight trilogy’s legacy by literally breaking Batman](https://www.polygon.com/22961889/the-batman-2022-robert-pattinson-costume-stunts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
