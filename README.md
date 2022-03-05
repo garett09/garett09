@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat turns off public ‘heatmap’ for Ukraine](https://www.theverge.com/2022/3/4/22962384/snapchat-heatmap-ukraine-disabled-privacy-advertising)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Meta pauses all Facebook ads targeting people in Russia and blocks all advertisers within Russia from running ads globally, following Russia blocking Facebook &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/220304/p36#a220304p36)<!-- TECH:END -->
+ - [Grocery app Buyk, which was founded by two Russians and has sizable operations in New York and Chicago, furloughs ~98% of its employees amid sanctions on Russia &lpar;Theo Wayt/New York Post&rpar;](http://www.techmeme.com/220304/p37#a220304p37)
+ - [Russia Invades Ukraine: Latest Updates as News Organizations Stop Reporting in Russia     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)
+ - [Big Crypto Exchanges Resist Banning Russian Users     - CNET](https://www.cnet.com/personal-finance/crypto/big-crypto-exchanges-resist-banning-russian-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
