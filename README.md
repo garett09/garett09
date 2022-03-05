@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zaporizhzhia nuclear power plant: `Stop firing at the nuclear facility\u2026 You are endangering the safety of the entire world.`](http://9gag.com/gag/aYrGo1V)
- - 🚯 [Congratulations](http://9gag.com/gag/aAGQGb2)
- - 🚯 [People in Melitopol come at the armed Russian soldiers with bare hands. They clearly did not expect such a response.](http://9gag.com/gag/awzgzQD)<!-- MEMES:END -->
+ - 🚖 [People in Melitopol come at the armed Russian soldiers with bare hands. They clearly did not expect such a response.](http://9gag.com/gag/awzgzQD)
+ - 🚯 [Get the f\u00a4#k out.](http://9gag.com/gag/a1171K6)
+ - 🚯 [Ukraine shot down a Russian plane and captured the pilot. We need a translation here though.](http://9gag.com/gag/axBWov1)<!-- MEMES:END -->
 
 --- 
 
