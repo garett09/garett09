@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Passengers push the train to separate it from the engine and the burning compartment, India](http://9gag.com/gag/a117rw6)
- - 🚯 [Congratulations](http://9gag.com/gag/aAGQGb2)
- - 🚯 [How We deal with looters](http://9gag.com/gag/a61DEVq)<!-- MEMES:END -->
+ - 🚖 [Thank you grandma](http://9gag.com/gag/aWgpgGq)
+ - 🚯 [Im glad i bought the 2.0](http://9gag.com/gag/a91zERW)
+ - 🚯 [Get the f\u00a4#k out.](http://9gag.com/gag/a1171K6)<!-- MEMES:END -->
 
 --- 
 
