@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People in Melitopol come at the armed Russian soldiers with bare hands. They clearly did not expect such a response.](http://9gag.com/gag/awzgzQD)
- - 🚯 [Get the f\u00a4#k out.](http://9gag.com/gag/a1171K6)
+ - 🚖 [Not mine, but the situation is very soviet-like](http://9gag.com/gag/aqGRG4j)
+ - 🚯 [*You](http://9gag.com/gag/aAGQ0No)
  - 🚯 [Ukraine shot down a Russian plane and captured the pilot. We need a translation here though.](http://9gag.com/gag/axBWov1)<!-- MEMES:END -->
 
 --- 
