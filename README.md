@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im glad i bought the 2.0](http://9gag.com/gag/a91zERW)
+ - 🚖 [Zaporizhzhia nuclear power plant: `Stop firing at the nuclear facility\u2026 You are endangering the safety of the entire world.`](http://9gag.com/gag/aYrGo1V)
  - 🚯 [Thank you grandma](http://9gag.com/gag/aWgpgGq)
- - 🚯 [Get the f\u00a4#k out.](http://9gag.com/gag/a1171K6)<!-- MEMES:END -->
+ - 🚯 [Congratulations](http://9gag.com/gag/aAGQGb2)<!-- MEMES:END -->
 
 --- 
 
