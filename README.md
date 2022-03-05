@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal suspends its services in Russia, including its money transfer service Xoom; Wise and Remitly have also suspended some services in Russia &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220305/p3#a220305p3)
- - [A look at volunteer hackers in the Russia-Ukraine war, many scattered globally with unverifiable identities, as both sides recruit them to launch cyberattacks &lpar;New York Times&rpar;](http://www.techmeme.com/220305/p2#a220305p2)
- - [Software AG, a developer of business and application integration software, acquires DataOps software developer StreamSets for &amp;euro;524M &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/220305/p1#a220305p1)<!-- TECH:END -->
+ - [Best Android Phones You Can Buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
+ - [Watch Out for These Phishing Tactics Disguised as &#39;Fun&#39; on Social Media     - CNET](https://www.cnet.com/tech/services-and-software/watch-out-for-these-phishing-tactics-disguised-as-fun-on-social-media/#ftag=CAD590a51e)
+ - [Best Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
