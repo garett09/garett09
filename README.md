@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Android Phones You Can Buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
- - [Watch Out for These Phishing Tactics Disguised as &#39;Fun&#39; on Social Media     - CNET](https://www.cnet.com/tech/services-and-software/watch-out-for-these-phishing-tactics-disguised-as-fun-on-social-media/#ftag=CAD590a51e)
- - [Best Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Chromebooks for Every Budget](https://www.wired.com/gallery/best-chromebooks)
+ - [Climate Change Is Taking a Big Bite out of Our Food Supply](https://www.wired.com/story/climate-change-is-taking-a-big-bite-out-of-our-food-supply)
+ - [Q&amp;A with Ukraine Deputy Minister for Information Transformation Oleksandr Bornyakov on Ukraine&#39;s &#39;IT Army&#39;, cybersecurity, and betting on crypto donations &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220305/p4#a220305p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
