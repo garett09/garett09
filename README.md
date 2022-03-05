@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
- - [Zendure Passport III review: USB-C-rich global travel charger](https://appleinsider.com/articles/22/03/05/zendure-passport-iii-review-usb-c-rich-global-travel-charger?utm_medium=rss)
- - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/news/netflix-42-of-the-absolute-best-movies-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Washington state passes the Silenced No More Act, becoming the second state to ban NDAs preventing workers from discussing harassment, wage violations, and more &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220305/p9#a220305p9)
+ - [Apple starts taking donations for UNICEF Ukraine effort](https://appleinsider.com/articles/22/03/05/apple-starts-taking-donations-for-unicef-ukraine-effort?utm_medium=rss)
+ - [Activision Blizzard halts new sales of games in Russia](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
