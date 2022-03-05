@@ -183,8 +183,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Long Walk defines a whole new wave of horror](https://www.polygon.com/reviews/22962239/the-long-walk-review-mattie-do)
  - [Read the first issue of Polygon’s newsletter: Patch Notes](https://www.polygon.com/gaming/2022/3/4/22962172/elden-ring-polygon-newsletter-patch-notes)
- - [Elden Ring&#39;s photo mode lets you take selfies with scary bosses](https://www.pcgamer.com/elden-ring-photo-mode)
  - [Humble&#39;s Boomer Shooter bundle is one of the best FPS collections I&#39;ve seen](https://www.pcgamer.com/humbles-boomer-shooter-bundle-is-one-of-the-best-fps-collections-ive-seen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
