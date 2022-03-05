@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Chromebooks for Every Budget](https://www.wired.com/gallery/best-chromebooks)
- - [Climate Change Is Taking a Big Bite out of Our Food Supply](https://www.wired.com/story/climate-change-is-taking-a-big-bite-out-of-our-food-supply)
- - [Q&amp;A with Ukraine Deputy Minister for Information Transformation Oleksandr Bornyakov on Ukraine&#39;s &#39;IT Army&#39;, cybersecurity, and betting on crypto donations &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220305/p4#a220305p4)<!-- TECH:END -->
+ - [A Major Internet Backbone Company Cuts Off Russia](https://www.wired.com/story/cogent-internet-backbone-cuts-off-russia-nvidia-ransomware-conti-security-news)
+ - [Our 5 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)
+ - [Fully’s stellar Jarvis standing desks are still 15 percent off](https://www.theverge.com/good-deals/2022/3/5/22959707/fully-jarvis-standing-desks-elden-ring-paramount-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
