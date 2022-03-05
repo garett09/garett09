@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Number 5](http://9gag.com/gag/aOQ27z6)
+ - 🚖 [Sky News reporters ambushed near Kiev, injuring one of them.](http://9gag.com/gag/aQXgd92)
  - 🚯 [Different kind of Bobsled](http://9gag.com/gag/aLvLpRP)
- - 🚯 [Learning self def from youtube](http://9gag.com/gag/a117rMY)<!-- MEMES:END -->
+ - 🚯 [Improving existing plumbing. Instead of digging up and replacing old broken pipe they shoot a liner down instead.](http://9gag.com/gag/adgvVwQ)<!-- MEMES:END -->
 
 --- 
 
