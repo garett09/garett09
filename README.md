@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The face you make when you realize you f**ked up.](http://9gag.com/gag/aQXg1Ee)
- - 🚯 [Sean Lock](http://9gag.com/gag/aqGRn27)
- - 🚯 [Funny how I don\u2019t even respect myself at time.](http://9gag.com/gag/aBnZmY1)<!-- MEMES:END -->
+ - 🚖 [Funny how I don\u2019t even respect myself at time.](http://9gag.com/gag/aBnZmY1)
+ - 🚯 [Improving existing plumbing. Instead of digging up and replacing old broken pipe they shoot a liner down instead.](http://9gag.com/gag/adgvVwQ)
+ - 🚯 [Stay hydrated bois](http://9gag.com/gag/aDD71EZ)<!-- MEMES:END -->
 
 --- 
 
