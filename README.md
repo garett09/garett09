@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Molotov crossbow FTW!](http://9gag.com/gag/aBnZn4x)
- - 🚯 [Whenn your boss tells you to work on saturday morning after getting wasted with the homies](http://9gag.com/gag/aYrGQev)
- - 🚯 [Bernie Sanders on the Ukrain War](http://9gag.com/gag/a21M1b9)<!-- MEMES:END -->
+ - 🚖 [Whenn your boss tells you to work on saturday morning after getting wasted with the homies](http://9gag.com/gag/aYrGQev)
+ - 🚯 [Bernie Sanders on the Ukrain War](http://9gag.com/gag/a21M1b9)
+ - 🚯 [Just for you who can read minds...](http://9gag.com/gag/a51VVeG)<!-- MEMES:END -->
 
 --- 
 
