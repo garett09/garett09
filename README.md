@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple keen on major NFL rights deal beyond &#39;Sunday Ticket&#39;](https://appleinsider.com/articles/22/03/05/apple-keen-on-major-nfl-rights-deal-beyond-sunday-ticket?utm_medium=rss)
- - [PayPal pauses service in Russia, citing ‘violent military aggression’](https://www.theverge.com/2022/3/5/22962848/paypal-pauses-service-russia-ukraine-invasion)
- - [100W, 150W, 240W? Wired charging power has become meaningless](https://www.androidauthority.com/wired-charging-power-meaningless-3124984/)<!-- TECH:END -->
+ - [&#39;The Batman&#39;: Is There a Post-Credits Scene?     - CNET](https://www.cnet.com/news/the-batman-is-there-a-post-credits-scene/#ftag=CAD590a51e)
+ - [My big fat Italian vampire-slaying family](https://www.theverge.com/2022/3/5/22960148/vampire-survivors-game-pc-mac-italian-names-lore-head-canon)
+ - [HBO Max: The 29 Best TV Shows to Watch     - CNET](https://www.cnet.com/news/hbo-max-the-29-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
