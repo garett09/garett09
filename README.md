@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On the way to burgerking](http://9gag.com/gag/awzgQ4r)
- - 🚯 [Yuck vs yum](http://9gag.com/gag/aggQnb1)
- - 🚯 [Not even coffee](http://9gag.com/gag/aDD7zgO)<!-- MEMES:END -->
+ - 🚖 [`Cabin in the forest` I thought I would paint a cabin, do you like it?](http://9gag.com/gag/aGzLZm0)
+ - 🚯 [Giggity](http://9gag.com/gag/a81AoKQ)
+ - 🚯 [Lets not forget the Roman empire.](http://9gag.com/gag/aGzLjvn)<!-- MEMES:END -->
 
 --- 
 
