@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Cabin in the forest` I thought I would paint a cabin, do you like it?](http://9gag.com/gag/aGzLZm0)
- - 🚯 [Giggity](http://9gag.com/gag/a81AoKQ)
- - 🚯 [Lets not forget the Roman empire.](http://9gag.com/gag/aGzLjvn)<!-- MEMES:END -->
+ - 🚖 [Not great not terrible](http://9gag.com/gag/aVxg00v)
+ - 🚯 [Lets not forget the Roman empire.](http://9gag.com/gag/aGzLjvn)
+ - 🚯 [`Cabin in the forest` I thought I would paint a cabin, do you like it?](http://9gag.com/gag/aGzLZm0)<!-- MEMES:END -->
 
 --- 
 
