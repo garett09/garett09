@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stingray jumps onto ramp for food](http://9gag.com/gag/angOnn0)
- - 🚯 [Take A Break From War Posts](http://9gag.com/gag/aGzLnMG)
- - 🚯 [Visa and Mastercard leaving Russia and banning services. People now won&#39;t be able use their cards anywhere outside Russia and won&#39;t be able to buy anything from foreign companies in internet, so bye bye civilized world experience](http://9gag.com/gag/aggQ18g)<!-- MEMES:END -->
+ - 🚖 [That&#39;ll do pig, that&#39;ll do.](http://9gag.com/gag/a718ePe)
+ - 🚯 [Stingray jumps onto ramp for food](http://9gag.com/gag/angOnn0)
+ - 🚯 [Congressional candidate Martin Hyde &lpar;Rep.&rpar; threatens police officer after caught speeding and texting while driving](http://9gag.com/gag/abgeOZB)<!-- MEMES:END -->
 
 --- 
 
