@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone should have a USB-C mini vacuum in their home](https://www.androidauthority.com/xiaomi-usb-c-mini-vacuum-3113356/)
- - [The Most Complete Simulation of a Cell Probes Life’s Hidden Rules](https://www.wired.com/story/the-most-complete-simulation-of-a-cell-probes-lifes-hidden-rules)
- - [The Balldo Made Me Rethink Sex in the Most Absurd Way Possible](https://www.wired.com/review/balldo-review)<!-- TECH:END -->
+ - [22 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers)
+ - [What to expect from Apple’s ‘Peek Performance’ March event](https://www.theverge.com/2022/3/6/22960325/apple-march-2022-event-iphone-se-peek-performance-rumors-announcements)
+ - [Daily deals March 6: $107 Liene photo printer, 50% off Razer gaming mouse &amp; more](https://appleinsider.com/articles/22/03/06/daily-deals-march-6-107-liene-photo-printer-50-off-razer-gaming-mouse-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
