@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new display rumored to launch at Apple event alongside new Mac mini](https://appleinsider.com/articles/22/03/06/apples-new-display-rumored-to-launch-at-apple-event-alongside-new-mac-mini?utm_medium=rss)
- - [Could 5G Home Internet Be the Solution to Your Broadband Needs?     - CNET](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)
- - [22 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s March 8 event: 5G iPhone SE, iPad Air, a new Mac, a possible &quot;wild card&quot; preview of a new display, smaller Mac Pro or iMac Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220306/p3#a220306p3)
+ - [Samsung Galaxy S22 benchmarked: Snapdragon 8 Gen 1 vs Exynos 2200](https://www.androidauthority.com/snapdragon-8-gen-1-vs-exynos-2200-3122407/)
+ - [&#39;The Batman&#39; Director Matt Reeves Wants to Put You Off-Kilter     - CNET](https://www.cnet.com/news/the-batman-director-matt-reeves-wants-to-put-you-off-kilter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
