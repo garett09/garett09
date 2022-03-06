@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How ‘Nosferatu’ turned up in SpongeBob SquarePants](https://www.polygon.com/22963826/spongebob-squarepants-nosferatu-episode-making-of)
  - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)
- - [The metaverse, explained](https://www.polygon.com/22959860/metaverse-explained-video-games)
- - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)<!-- GAME:END -->
+ - [The metaverse, explained](https://www.polygon.com/22959860/metaverse-explained-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
