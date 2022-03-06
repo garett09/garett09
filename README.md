@@ -197,7 +197,7 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take A Break From War Posts](http://9gag.com/gag/aGzLnMG)
+ - 🚖 [Visa and Mastercard leaving Russia and banning services. People now won&#39;t be able use their cards anywhere outside Russia and won&#39;t be able to buy anything from foreign companies in internet, so bye bye civilized world experience](http://9gag.com/gag/aggQ18g)
  - 🚯 [Zelensky today in a video with appeals to the nation](http://9gag.com/gag/aWgp7Bx)
  - 🚯 [How to draw a face](http://9gag.com/gag/a21MMbD)<!-- MEMES:END -->
 
