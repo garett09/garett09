@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)
- - [Acer Chromebook 317 Review: A Great Big Chromebook for the Whole Family     - CNET](https://www.cnet.com/tech/computing/acer-chromebook-317-review-a-great-big-chromebook-for-the-whole-family/#ftag=CAD590a51e)
- - [Best Streaming Service of 2022: Netflix, Disney Plus, HBO Max, Hulu, Starz and More     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-service-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everyone should have a USB-C mini vacuum in their home](https://www.androidauthority.com/xiaomi-usb-c-mini-vacuum-3113356/)
+ - [The Most Complete Simulation of a Cell Probes Life’s Hidden Rules](https://www.wired.com/story/the-most-complete-simulation-of-a-cell-probes-lifes-hidden-rules)
+ - [The Balldo Made Me Rethink Sex in the Most Absurd Way Possible](https://www.wired.com/review/balldo-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
