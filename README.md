@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nunchucks are just a stick that had a stroke](http://9gag.com/gag/a41n54Z)
- - 🚯 [THE H\u00d2LE](http://9gag.com/gag/angOx40)
- - 🚯 [Protestor singing Ukrainian anthem while being arrested. Respect](http://9gag.com/gag/a718Vmb)<!-- MEMES:END -->
+ - 🚖 [More volunteers for the legion of foreigners.](http://9gag.com/gag/aNPL4rK)
+ - 🚯 [That&#39;s up to 5 years in prison to these guys. Arm yourself, my people.](http://9gag.com/gag/adgveqN)
+ - 🚯 [Just Like Orders from Wish](http://9gag.com/gag/aVxgLMv)<!-- MEMES:END -->
 
 --- 
 
