@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s March 8 event: 5G iPhone SE, iPad Air, a new Mac, a possible &quot;wild card&quot; preview of a new display, smaller Mac Pro or iMac Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220306/p3#a220306p3)
- - [Samsung Galaxy S22 benchmarked: Snapdragon 8 Gen 1 vs Exynos 2200](https://www.androidauthority.com/snapdragon-8-gen-1-vs-exynos-2200-3122407/)
- - [&#39;The Batman&#39; Director Matt Reeves Wants to Put You Off-Kilter     - CNET](https://www.cnet.com/news/the-batman-director-matt-reeves-wants-to-put-you-off-kilter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threat actors are using NVIDIA&#39;s code-signing certificates leaked by the Lapsus$ group to sign Windows malware and hacking tools &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220306/p4#a220306p4)
+ - [New Mac mini &amp; display in 2022, Mac Pro &amp; iMac Pro coming in 2023 says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/06/kuo-updated-mac-mini-and-new-display-for-2022-mac-pro-and-imac-pro-in-2023?utm_medium=rss)
+ - [Activision Blizzard sued over claims sexual harassment contributed to employee’s death](https://www.theverge.com/2022/3/6/22964148/activision-blizzard-lawsuit-claims-sexual-harassment-contributed-employee-death)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
