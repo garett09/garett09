@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More volunteers for the legion of foreigners.](http://9gag.com/gag/aNPL4rK)
- - 🚯 [That&#39;s up to 5 years in prison to these guys. Arm yourself, my people.](http://9gag.com/gag/adgveqN)
- - 🚯 [Just Like Orders from Wish](http://9gag.com/gag/aVxgLMv)<!-- MEMES:END -->
+ - 🚖 [People fighting against police in st. Petersburg](http://9gag.com/gag/a51V2XN)
+ - 🚯 [Abandoned Russian Tor M1 Air Defense System stuck in the mud in Chernihiv, NE Ukraine. Each cost around $25 million.](http://9gag.com/gag/a61D22A)
+ - 🚯 [That&#39;s up to 5 years in prison to these guys. Arm yourself, my people.](http://9gag.com/gag/adgveqN)<!-- MEMES:END -->
 
 --- 
 
