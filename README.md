@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behold the anti-javelin system!](http://9gag.com/gag/a41noDZ)
- - 🚯 [Interesting fact](http://9gag.com/gag/a41nPjA)
- - 🚯 [We are so f**ked.](http://9gag.com/gag/aAGQ0po)<!-- MEMES:END -->
+ - 🚖 [Damn never knew of tornado omelette, and it looks sexy as hell](http://9gag.com/gag/aQXggL2)
+ - 🚯 [Surely great parents](http://9gag.com/gag/aYrGQM2)
+ - 🚯 [Zelensky today in a video with appeals to the nation](http://9gag.com/gag/aWgp7Bx)<!-- MEMES:END -->
 
 --- 
 
