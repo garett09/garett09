@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People fighting against police in st. Petersburg](http://9gag.com/gag/a51V2XN)
- - 🚯 [Abandoned Russian Tor M1 Air Defense System stuck in the mud in Chernihiv, NE Ukraine. Each cost around $25 million.](http://9gag.com/gag/a61D22A)
- - 🚯 [That&#39;s up to 5 years in prison to these guys. Arm yourself, my people.](http://9gag.com/gag/adgveqN)<!-- MEMES:END -->
+ - 🚖 [J. Robert Oppenheimer infamous quote, upon witnessing the first detonation of Nuclear weapon in Trinity Site &lpar;July 16, 1945&rpar;](http://9gag.com/gag/aogWLA3)
+ - 🚯 [That&#39;s up to 5 years in prison to these guys. Arm yourself, my people.](http://9gag.com/gag/adgveqN)
+ - 🚯 [Hitting the right notes](http://9gag.com/gag/adgvx2N)<!-- MEMES:END -->
 
 --- 
 
