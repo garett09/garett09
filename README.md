@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld has been removed from Steam in Australia after all](https://www.pcgamer.com/rimworld-has-been-removed-from-steam-in-australia-after-all)
- - [Halo Infinite co-op coming some time in Season 2, other fixes much sooner](https://www.pcgamer.com/halo-infinite-co-op-coming-some-time-in-season-2-other-fixes-much-sooner)
- - [Activision Blizzard and Epic join the list of publishers halting sales in Russia](https://www.pcgamer.com/activision-blizzard-and-epic-join-the-list-of-publishers-halting-sales-in-russia)<!-- GAME:END -->
+ - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)
+ - [The metaverse, explained](https://www.polygon.com/22959860/metaverse-explained-video-games)
+ - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
