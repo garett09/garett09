@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congressional candidate Martin Hyde &lpar;Rep.&rpar; threatens police officer after caught speeding and texting while driving](http://9gag.com/gag/abgeOZB)
- - 🚯 [They die out of lies](http://9gag.com/gag/aE8M6bp)
+ - 🚖 [20 years... and I never noticed.](http://9gag.com/gag/aXrLNr6)
+ - 🚯 [Never](http://9gag.com/gag/aLvL486)
  - 🚯 [That&#39;ll do pig, that&#39;ll do.](http://9gag.com/gag/a718ePe)<!-- MEMES:END -->
 
 --- 
