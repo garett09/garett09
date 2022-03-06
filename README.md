@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia Invades Ukraine: Latest Updates as Payment Firms Halt Operations in Russia     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)
- - [Visa and Mastercard suspend their services in Russia](https://www.theverge.com/2022/3/5/22963433/visa-mastercard-suspend-services-russia-ukraine)
- - [PayPal, Mastercard, Visa suspend service in Russia over war in Ukraine     - CNET](https://www.cnet.com/news/paypal-suspends-service-in-russia-over-war-in-ukraine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok plans to start labeling videos from some state-controlled media outlets &quot;over the coming days&quot;, expediting its policy due to Russia&#39;s invasion of Ukraine &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220305/p11#a220305p11)
+ - [Russia Invades Ukraine, Latest Updates: Refugee Crisis Grows, Payment Firms Halt Operations     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)
+ - [Visa and Mastercard suspend their services in Russia](https://www.theverge.com/2022/3/5/22963433/visa-mastercard-suspend-services-russia-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
