@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn never knew of tornado omelette, and it looks sexy as hell](http://9gag.com/gag/aQXggL2)
- - 🚯 [Surely great parents](http://9gag.com/gag/aYrGQM2)
- - 🚯 [Zelensky today in a video with appeals to the nation](http://9gag.com/gag/aWgp7Bx)<!-- MEMES:END -->
+ - 🚖 [Rheinmetall Air Defence: programmable ammunition](http://9gag.com/gag/aNPLDdK)
+ - 🚯 [Zelensky today in a video with appeals to the nation](http://9gag.com/gag/aWgp7Bx)
+ - 🚯 [Those were the days](http://9gag.com/gag/aAGQ60p)<!-- MEMES:END -->
 
 --- 
 
