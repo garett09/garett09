@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers)
- - [What to expect from Apple’s ‘Peek Performance’ March event](https://www.theverge.com/2022/3/6/22960325/apple-march-2022-event-iphone-se-peek-performance-rumors-announcements)
- - [Daily deals March 6: $107 Liene photo printer, 50% off Razer gaming mouse &amp; more](https://appleinsider.com/articles/22/03/06/daily-deals-march-6-107-liene-photo-printer-50-off-razer-gaming-mouse-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new display rumored to launch at Apple event alongside new Mac mini](https://appleinsider.com/articles/22/03/06/apples-new-display-rumored-to-launch-at-apple-event-alongside-new-mac-mini?utm_medium=rss)
+ - [Could 5G Home Internet Be the Solution to Your Broadband Needs?     - CNET](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)
+ - [22 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
