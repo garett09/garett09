@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nunchaku &lpar;nunchucks&rpar; master.](http://9gag.com/gag/aQXg7ZK)
- - 🚯 [Cry about it](http://9gag.com/gag/aZrn88Q)
- - 🚯 [Never](http://9gag.com/gag/aLvL486)<!-- MEMES:END -->
+ - 🚖 [Near Putler there are no ordinary people. The conference stewardess with the `transparent microphone` was already a fisherman and an ice cream vendor.](http://9gag.com/gag/avAWEnb)
+ - 🚯 [The universe is God](http://9gag.com/gag/aggQ7vw)
+ - 🚯 [Cry about it](http://9gag.com/gag/aZrn88Q)<!-- MEMES:END -->
 
 --- 
 
