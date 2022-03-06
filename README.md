@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This stressed me more than it should have.](http://9gag.com/gag/aPZxPZP)
- - 🚯 [Never stop learning, whatever your motivation is...](http://9gag.com/gag/aWgpL2A)
- - 🚯 [If satisfaction was a GIF](http://9gag.com/gag/aWgpnnd)<!-- MEMES:END -->
+ - 🚖 [Nunchaku &lpar;nunchucks&rpar; master.](http://9gag.com/gag/aQXg7ZK)
+ - 🚯 [Cry about it](http://9gag.com/gag/aZrn88Q)
+ - 🚯 [Never](http://9gag.com/gag/aLvL486)<!-- MEMES:END -->
 
 --- 
 
