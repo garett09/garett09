@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;ll do pig, that&#39;ll do.](http://9gag.com/gag/a718ePe)
- - 🚯 [Stingray jumps onto ramp for food](http://9gag.com/gag/angOnn0)
- - 🚯 [Congressional candidate Martin Hyde &lpar;Rep.&rpar; threatens police officer after caught speeding and texting while driving](http://9gag.com/gag/abgeOZB)<!-- MEMES:END -->
+ - 🚖 [Congressional candidate Martin Hyde &lpar;Rep.&rpar; threatens police officer after caught speeding and texting while driving](http://9gag.com/gag/abgeOZB)
+ - 🚯 [They die out of lies](http://9gag.com/gag/aE8M6bp)
+ - 🚯 [That&#39;ll do pig, that&#39;ll do.](http://9gag.com/gag/a718ePe)<!-- MEMES:END -->
 
 --- 
 
