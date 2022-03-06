@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise surprise](http://9gag.com/gag/aze5Kpq)
+ - 🚖 [They are killing people during evacuation it was agreed for silence. F**k ruSSia.](http://9gag.com/gag/arnWZOV)
  - 🚯 [What do we say to the god of death?](http://9gag.com/gag/avAW6YM)
- - 🚯 [I&#39;m almost 30 but today I travelled in an airplane for the very first time. What an experience!](http://9gag.com/gag/arnWAQX)<!-- MEMES:END -->
+ - 🚯 [If satisfaction was a GIF](http://9gag.com/gag/aWgpnnd)<!-- MEMES:END -->
 
 --- 
 
