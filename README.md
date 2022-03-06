@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Alibaba, which has a joint venture in Russia and significant sales in Ukraine, navigates challenges caused by Russia&#39;s invasion and international sanctions &lpar;Zeyi Yang/Protocol&rpar;](http://www.techmeme.com/220306/p2#a220306p2)
- - [The Weekly Authority: Our best of MWC 2022](https://www.androidauthority.com/weekly-authority-edition-184-3129116/)
- - [Huawei MatePad Paper impressions: For those who take their reading seriously](https://www.androidauthority.com/huawei-matepad-paper-hands-on-3125687/)<!-- TECH:END -->
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)
+ - [Acer Chromebook 317 Review: A Great Big Chromebook for the Whole Family     - CNET](https://www.cnet.com/tech/computing/acer-chromebook-317-review-a-great-big-chromebook-for-the-whole-family/#ftag=CAD590a51e)
+ - [Best Streaming Service of 2022: Netflix, Disney Plus, HBO Max, Hulu, Starz and More     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-service-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
