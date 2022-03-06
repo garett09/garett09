@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Batman’s [spoiler] already starred in a really great [spoiler] movie](https://www.polygon.com/22960604/the-batman-actor-barry-keoghan-joker-killing-sacred-deer)
  - [Great moments in PC gaming: Reaching the Cosmic Ocean in Spelunky 2](https://www.pcgamer.com/great-moments-in-pc-gaming-reaching-the-cosmic-ocean-in-spelunky-2)
- - [PSA: Your Elden Ring save might desync from Steam cloud, so look carefully](https://www.pcgamer.com/psa-your-elden-ring-save-might-desync-from-steam-cloud-so-look-carefully)
- - [This week in PC Gaming: Core Keeper, Assassin&#39;s Creed Valhalla: Ragnarok and Distant Worlds 2](https://www.pcgamer.com/this-week-in-pc-gaming-core-keeper-assassins-creed-valhalla-ragnarok-distant-worlds-2)<!-- GAME:END -->
+ - [PSA: Your Elden Ring save might desync from Steam cloud, so look carefully](https://www.pcgamer.com/psa-your-elden-ring-save-might-desync-from-steam-cloud-so-look-carefully)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
