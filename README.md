@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia hackers target Samsung, release 190GB of sensitive data](https://www.pcgamer.com/nvidia-hackers-target-samsung-release-190gb-of-sensitive-data)
- - [Ascension Tactics leads our list of the best new board games of March](https://www.polygon.com/tabletop-games/22961689/best-new-board-games-on-sale-kickstarter-ascension-tactics-jurassic-world)
- - [The Batman breaks free of the Dark Knight trilogy’s legacy by literally breaking Batman](https://www.polygon.com/22961889/the-batman-2022-robert-pattinson-costume-stunts)<!-- GAME:END -->
+ - [Halo Infinite co-op coming some time in Season 2, other fixes much sooner](https://www.pcgamer.com/halo-infinite-co-op-coming-some-time-in-season-2-other-fixes-much-sooner)
+ - [Activision Blizzard and Epic join the list of publishers halting sales in Russia](https://www.pcgamer.com/activision-blizzard-and-epic-join-the-list-of-publishers-halting-sales-in-russia)
+ - [Elden Ring nears a million concurrent players on Steam, placing 6th all-time](https://www.pcgamer.com/elden-ring-nears-a-million-concurrent-players-on-steam-placing-6th-all-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
