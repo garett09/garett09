@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says it is shutting down its service in Russia, which operates through a joint venture with the country&#39;s National Media Group, and has 1M+ subscribers &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/220306/p8#a220306p8)
- - [Halo Infinite’s campaign co-op won’t arrive with season two in May](https://www.theverge.com/2022/3/6/22964321/halo-infinite-campaign-co-op-season-two-may)
- - [Netflix shuts down its services in Russia](https://www.theverge.com/2022/3/6/22964565/netflix-shuts-down-services-russia-ukraine-invasion)<!-- TECH:END -->
+ - [Activision Blizzard and Epic Games suspend sales of their games in Russia; Activision Blizzard will also pause offering in-game microtransactions in the country &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/220306/p9#a220306p9)
+ - [Prime Video: The 36 Best TV Shows to Watch     - CNET](https://www.cnet.com/news/prime-video-the-36-best-tv-shows-to-watch-today/#ftag=CAD590a51e)
+ - [Prime Video: The 33 Best Movies to Watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-films-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
