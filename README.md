@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rheinmetall Air Defence: programmable ammunition](http://9gag.com/gag/aNPLDdK)
+ - 🚖 [Take A Break From War Posts](http://9gag.com/gag/aGzLnMG)
  - 🚯 [Zelensky today in a video with appeals to the nation](http://9gag.com/gag/aWgp7Bx)
- - 🚯 [Those were the days](http://9gag.com/gag/aAGQ60p)<!-- MEMES:END -->
+ - 🚯 [How to draw a face](http://9gag.com/gag/a21MMbD)<!-- MEMES:END -->
 
 --- 
 
