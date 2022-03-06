@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Near Putler there are no ordinary people. The conference stewardess with the `transparent microphone` was already a fisherman and an ice cream vendor.](http://9gag.com/gag/avAWEnb)
- - 🚯 [The universe is God](http://9gag.com/gag/aggQ7vw)
- - 🚯 [Cry about it](http://9gag.com/gag/aZrn88Q)<!-- MEMES:END -->
+ - 🚖 [Surprise surprise](http://9gag.com/gag/aze5Kpq)
+ - 🚯 [What do we say to the god of death?](http://9gag.com/gag/avAW6YM)
+ - 🚯 [I&#39;m almost 30 but today I travelled in an airplane for the very first time. What an experience!](http://9gag.com/gag/arnWAQX)<!-- MEMES:END -->
 
 --- 
 
