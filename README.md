@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nunchaku &lpar;nunchucks&rpar; master.](http://9gag.com/gag/aQXg7ZK)
- - 🚯 [Complete the sentence -](http://9gag.com/gag/aKm1vr6)
- - 🚯 [Protestor singing Ukrainian anthem while being arrested. Respect](http://9gag.com/gag/a718Vmb)<!-- MEMES:END -->
+ - 🚖 [I didn&#39;t look](http://9gag.com/gag/aM4dPd1)
+ - 🚯 [8 rocket strikes for city of Vinetsiya](http://9gag.com/gag/aM4dnpA)
+ - 🚯 [Near Putler there are no ordinary people. The conference stewardess with the `transparent microphone` was already a fisherman and an ice cream vendor.](http://9gag.com/gag/avAWEnb)<!-- MEMES:END -->
 
 --- 
 
