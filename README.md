@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swiss investment management firm Partners Group buys Forterro, a provider of resource planning software and services for SMBs, from Battery Ventures for &amp;euro;1B &lpar;Silicon Canals&rpar;](http://www.techmeme.com/220306/p1#a220306p1)
  - [TikTok plans to start labeling videos from some state-controlled media outlets &quot;over the coming days&quot;, expediting its policy due to Russia&#39;s invasion of Ukraine &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220305/p11#a220305p11)
- - [Russia Invades Ukraine, Latest Updates: Refugee Crisis Grows, Payment Firms Halt Operations     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)
- - [Visa and Mastercard suspend their services in Russia](https://www.theverge.com/2022/3/5/22963433/visa-mastercard-suspend-services-russia-ukraine)<!-- TECH:END -->
+ - [Russia Invades Ukraine, Latest Updates: Refugee Crisis Grows, Payment Firms Halt Operations     - CNET](https://www.cnet.com/news/russia-invades-ukraine-latest-news-on-war/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
