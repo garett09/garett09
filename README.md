@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [20 years... and I never noticed.](http://9gag.com/gag/aXrLNr6)
- - 🚯 [Never](http://9gag.com/gag/aLvL486)
- - 🚯 [That&#39;ll do pig, that&#39;ll do.](http://9gag.com/gag/a718ePe)<!-- MEMES:END -->
+ - 🚖 [This stressed me more than it should have.](http://9gag.com/gag/aPZxPZP)
+ - 🚯 [Never stop learning, whatever your motivation is...](http://9gag.com/gag/aWgpL2A)
+ - 🚯 [If satisfaction was a GIF](http://9gag.com/gag/aWgpnnd)<!-- MEMES:END -->
 
 --- 
 
