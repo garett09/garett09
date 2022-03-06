@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are killing people during evacuation it was agreed for silence. F**k ruSSia.](http://9gag.com/gag/arnWZOV)
- - 🚯 [What do we say to the god of death?](http://9gag.com/gag/avAW6YM)
- - 🚯 [If satisfaction was a GIF](http://9gag.com/gag/aWgpnnd)<!-- MEMES:END -->
+ - 🚖 [If satisfaction was a GIF](http://9gag.com/gag/aWgpnnd)
+ - 🚯 [Nunchaku &lpar;nunchucks&rpar; master.](http://9gag.com/gag/aQXg7ZK)
+ - 🚯 [Complete the sentence -](http://9gag.com/gag/aKm1vr6)<!-- MEMES:END -->
 
 --- 
 
