@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei MatePad Paper impressions: For those who take their reading seriously](https://www.androidauthority.com/huawei-matepad-paper-hands-on-3125687/)
- - [Swiss investment management firm Partners Group buys Forterro, a provider of resource planning software and services for SMBs, from Battery Ventures for &amp;euro;1B &lpar;Silicon Canals&rpar;](http://www.techmeme.com/220306/p1#a220306p1)
- - [TikTok plans to start labeling videos from some state-controlled media outlets &quot;over the coming days&quot;, expediting its policy due to Russia&#39;s invasion of Ukraine &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220305/p11#a220305p11)<!-- TECH:END -->
+ - [How Alibaba, which has a joint venture in Russia and significant sales in Ukraine, navigates challenges caused by Russia&#39;s invasion and international sanctions &lpar;Zeyi Yang/Protocol&rpar;](http://www.techmeme.com/220306/p2#a220306p2)
+ - [The Weekly Authority: Our best of MWC 2022](https://www.androidauthority.com/weekly-authority-edition-184-3129116/)
+ - [Huawei MatePad Paper impressions: For those who take their reading seriously](https://www.androidauthority.com/huawei-matepad-paper-hands-on-3125687/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
