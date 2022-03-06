@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threat actors are using NVIDIA&#39;s code-signing certificates leaked by the Lapsus$ group to sign Windows malware and hacking tools &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220306/p4#a220306p4)
- - [New Mac mini &amp; display in 2022, Mac Pro &amp; iMac Pro coming in 2023 says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/06/kuo-updated-mac-mini-and-new-display-for-2022-mac-pro-and-imac-pro-in-2023?utm_medium=rss)
- - [Activision Blizzard sued over claims sexual harassment contributed to employee’s death](https://www.theverge.com/2022/3/6/22964148/activision-blizzard-lawsuit-claims-sexual-harassment-contributed-employee-death)<!-- TECH:END -->
+ - [Kuo: a more powerful Mac mini and a more affordable 27-inch external display without mini-LED will launch in 2022, Mac Pro and iMac Pro are coming in 2023 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220306/p5#a220306p5)
+ - [Last Chance to Save on TVs, Laptops, Bluetooth Speakers and More at Best Buy&#39;s Flash Sale     - CNET](https://www.cnet.com/tech/computing/best-buys-latest-3-day-sale-offers-savings-on-tvs-laptops-bluetooth-speakers-and-more/#ftag=CAD590a51e)
+ - [The iPhone SE 3 Better Have These Features, Apple     - CNET](https://www.cnet.com/tech/mobile/the-iphone-se-3-better-have-these-features-apple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
