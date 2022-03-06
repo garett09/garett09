@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: a more powerful Mac mini and a more affordable 27-inch external display without mini-LED will launch in 2022, Mac Pro and iMac Pro are coming in 2023 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220306/p5#a220306p5)
- - [Last Chance to Save on TVs, Laptops, Bluetooth Speakers and More at Best Buy&#39;s Flash Sale     - CNET](https://www.cnet.com/tech/computing/best-buys-latest-3-day-sale-offers-savings-on-tvs-laptops-bluetooth-speakers-and-more/#ftag=CAD590a51e)
- - [The iPhone SE 3 Better Have These Features, Apple     - CNET](https://www.cnet.com/tech/mobile/the-iphone-se-3-better-have-these-features-apple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok suspends livestreaming and new content uploads in Russia amid the country&#39;s new law that would impose prison terms for spreading &quot;fake news&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220306/p7#a220306p7)
+ - [[Thread] Russia/Ukraine cyberwar reportedly opened with Russia&#39;s cyberattack on Viasat&#39;s KA-SAT satellite ISP, but Ukraine now dominates the information space &lpar;@thegrugq&rpar;](http://www.techmeme.com/220306/p6#a220306p6)
+ - [TikTok temporarily bans new video creation in Russia](https://www.theverge.com/2022/3/6/22964418/tiktok-suspends-creation-new-video-content-russia-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
