@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Near Putler there are no ordinary people. The conference stewardess with the `transparent microphone` was already a fisherman and an ice cream vendor.](http://9gag.com/gag/avAWEnb)
- - 🚯 [Nunchucks are just a stick that had a stroke](http://9gag.com/gag/a41n54Z)
+ - 🚖 [Nunchucks are just a stick that had a stroke](http://9gag.com/gag/a41n54Z)
+ - 🚯 [THE H\u00d2LE](http://9gag.com/gag/angOx40)
  - 🚯 [Protestor singing Ukrainian anthem while being arrested. Respect](http://9gag.com/gag/a718Vmb)<!-- MEMES:END -->
 
 --- 
