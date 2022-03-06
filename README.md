@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard and Epic Games halt sales of games in Russia](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion)
- - [Washington state passes the Silenced No More Act, becoming the second state to ban NDAs preventing workers from discussing harassment, wage violations, and more &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220305/p9#a220305p9)
- - [UFC 272 Covington vs. Masvidal: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/news/ufc-272-covington-vs-masvidal-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Visa and Mastercard suspend their services in Russia](https://www.theverge.com/2022/3/5/22963433/visa-mastercard-suspend-services-russia-ukraine)
+ - [Visa and Mastercard suspended operations in Russia, a few hours after Ukraine&#39;s president asked them to do so in a video call with US lawmakers &lpar;Sebastian Tong/Bloomberg&rpar;](http://www.techmeme.com/220305/p10#a220305p10)
+ - [PayPal suspends service in Russia over war in Ukraine     - CNET](https://www.cnet.com/news/paypal-suspends-service-in-russia-over-war-in-ukraine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
