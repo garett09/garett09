@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok suspends livestreaming and new content uploads in Russia amid the country&#39;s new law that would impose prison terms for spreading &quot;fake news&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220306/p7#a220306p7)
- - [[Thread] Russia/Ukraine cyberwar reportedly opened with Russia&#39;s cyberattack on Viasat&#39;s KA-SAT satellite ISP, but Ukraine now dominates the information space &lpar;@thegrugq&rpar;](http://www.techmeme.com/220306/p6#a220306p6)
- - [TikTok temporarily bans new video creation in Russia](https://www.theverge.com/2022/3/6/22964418/tiktok-suspends-creation-new-video-content-russia-ukraine)<!-- TECH:END -->
+ - [Hackers leak 190GB of data taken in alleged Samsung breach](https://appleinsider.com/articles/22/03/06/hackers-leak-190gb-of-data-taken-in-alleged-samsung-breach?utm_medium=rss)
+ - [TikTok suspends livestreaming and new content uploads in Russia in response to the country&#39;s new law that would impose prison terms for spreading &quot;fake news&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220306/p7#a220306p7)
+ - [Apple, Microsoft and Other Tech Companies Stop Sales in Russia     - CNET](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
