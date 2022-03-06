@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers leak 190GB of data taken in alleged Samsung breach](https://appleinsider.com/articles/22/03/06/hackers-leak-190gb-of-data-taken-in-alleged-samsung-breach?utm_medium=rss)
- - [TikTok suspends livestreaming and new content uploads in Russia in response to the country&#39;s new law that would impose prison terms for spreading &quot;fake news&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220306/p7#a220306p7)
- - [Apple, Microsoft and Other Tech Companies Stop Sales in Russia     - CNET](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix says it is shutting down its service in Russia, which operates through a joint venture with the country&#39;s National Media Group, and has 1M+ subscribers &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/220306/p8#a220306p8)
+ - [Halo Infinite’s campaign co-op won’t arrive with season two in May](https://www.theverge.com/2022/3/6/22964321/halo-infinite-campaign-co-op-season-two-may)
+ - [Netflix shuts down its services in Russia](https://www.theverge.com/2022/3/6/22964565/netflix-shuts-down-services-russia-ukraine-invasion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
