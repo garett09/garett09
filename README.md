@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Twenty Years, Microsoft Has Only Sold 2.3 Million Xboxes In Japan](https://kotaku.com/xbox-360-one-x-x-microsoft-kinect-japan-sales-video-gam-1848615966)
- - [Microsoft, Activision Blizzard, Ubisoft And Epic Games Join Legions Suspending Russian Sales](https://kotaku.com/microsoft-activision-netflix-epic-ubisoft-russia-ukr-1848616145)
- - [Lost Judgment’s first add-on, Kaito Files, lets you play as the muscle with a ‘primal nose’](https://www.polygon.com/22962176/lost-judgment-dlc-kaito-files-release-date-price)<!-- GAME:END -->
+ - [Magic: The Gathering’s New Capenna is set in a neo-noir world of powerful crime families](https://www.polygon.com/tabletop-games/22965400/mtg-new-capenna-preview-cards-lands-triomes-release-date-price)
+ - [Sci-fi action horror Dolmen launches on PS4 &amp; PS5 May 20](https://blog.playstation.com/2022/03/07/sci-fi-action-horror-dolmen-launches-on-ps4-ps5-may-20/)
+ - [Sci-fi action horror Dolmen launches on PS4 &amp; PS5 May 20](https://blog.playstation.com/2022/03/07/sci-fi-action-horror-dolmen-launches-on-ps4-ps5-may-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
