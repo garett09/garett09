@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan\u2019s \u201cKilling Stone\u201d breaks in half after 1,000 years. Legend has it that the demonic spirit trapped inside is now free to wreak havoc on the land.](http://9gag.com/gag/aeg4WP5)
- - 🚯 [US, British, Swedish, Lithuanian, Mexican and Indian. We are in the endgame now](http://9gag.com/gag/a81AXBZ)
- - 🚯 [Let&#39;s start the show](http://9gag.com/gag/ajg7ywq)<!-- MEMES:END -->
+ - 🚖 [She dropped 22 quarts of ranch dressing at work](http://9gag.com/gag/a91zBNK)
+ - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)
+ - 🚯 [Problem solving skills...](http://9gag.com/gag/aze5BqN)<!-- MEMES:END -->
 
 --- 
 
