@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let the Jazz Flow with the Astronomy Update for Genesis Noir](https://news.xbox.com/en-us/2022/03/07/genesis-noir-the-astronomy-update-feature/)
- - [Ambitious action-RPG Forspoken has been delayed by five months](https://www.pcgamer.com/ambitious-action-rpg-forspoken-has-been-delayed-by-five-months)
- - [Square Enix delays Forspoken to October](https://www.polygon.com/22965572/forspoken-square-enix-delay-release-date)<!-- GAME:END -->
+ - [Elex II Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/elex-ii-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [Elden Ring Fans Hack Into Mysterious Colosseums, Find Potential PvP Areas](https://kotaku.com/elden-ring-pvp-dlc-coliseum-area-multiplayer-mp-boss-ru-1848617192)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
