@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s New Capenna is set in a neo-noir world of powerful crime families](https://www.polygon.com/tabletop-games/22965400/mtg-new-capenna-preview-cards-lands-triomes-release-date-price)
- - [Sci-fi action horror Dolmen launches on PS4 &amp; PS5 May 20](https://blog.playstation.com/2022/03/07/sci-fi-action-horror-dolmen-launches-on-ps4-ps5-may-20/)
- - [Sci-fi action horror Dolmen launches on PS4 &amp; PS5 May 20](https://blog.playstation.com/2022/03/07/sci-fi-action-horror-dolmen-launches-on-ps4-ps5-may-20/)<!-- GAME:END -->
+ - [Let the Jazz Flow with the Astronomy Update for Genesis Noir](https://news.xbox.com/en-us/2022/03/07/genesis-noir-the-astronomy-update-feature/)
+ - [Ambitious action-RPG Forspoken has been delayed by five months](https://www.pcgamer.com/ambitious-action-rpg-forspoken-has-been-delayed-by-five-months)
+ - [Square Enix delays Forspoken to October](https://www.polygon.com/22965572/forspoken-square-enix-delay-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
