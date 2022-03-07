@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Group FaceTime](https://appleinsider.com/articles/20/03/23/how-to-use-group-facetime?utm_medium=rss)
- - [Intel says its self-driving car unit Mobileye has confidentially filed for an IPO in the US but did not reveal any details, including the valuation &lpar;Reuters&rpar;](http://www.techmeme.com/220307/p14#a220307p14)
- - [The 5G iPhone SE will be for carriers, not customers](https://www.theverge.com/2022/3/7/22958173/apple-5g-iphone-se-event-carriers-customers)<!-- TECH:END -->
+ - [Apple releasing more efficient GaN-based 30W power adapter, says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/07/apple-releasing-more-efficient-gan-based-30w-power-adapter-says-ming-chi-kuo?utm_medium=rss)
+ - [AutoFi, an e-commerce startup for online car sales and financing, raises $85M at a nearly $700M valuation from Santander and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220307/p20#a220307p20)
+ - [Apple TV+ hit &#39;Ted Lasso&#39; season 3 begins filming](https://appleinsider.com/articles/22/03/07/apple-tv-hit-ted-lasso-season-3-begins-filming?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
