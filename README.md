@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to factory reset iPhone or iPad without Apple ID](https://appleinsider.com/articles/22/03/07/how-to-factory-reset-iphone-or-ipad-without-apple-id?utm_medium=rss)
- - [Convelio, which helps automate shipping for artwork, furniture, and other luxury goods, raises $35M, bringing its total funding to $45M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220307/p5#a220307p5)
- - [The Galaxy A53 might share some features with flagships, for better or worse](https://www.androidauthority.com/samsung-galaxy-a53-8k-3129358/)<!-- TECH:END -->
+ - [Binance says it has resumed bank transfers for European users, except those in Switzerland and The Netherlands, after suspending the service in July 2020 &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/220307/p9#a220307p9)
+ - [Former YouTube Kids employees describe how the service embraced human curation over virality to address criticism it wasn&#39;t doing enough to protect children &lpar;Yoree Koh/Wall Street Journal&rpar;](http://www.techmeme.com/220307/p8#a220307p8)
+ - [Razer brings its analog switches to a compact 60 percent keyboard](https://www.theverge.com/2022/3/7/22965262/razer-huntsman-mini-analog-keyboard-60-percent-layout-release-date-news-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
