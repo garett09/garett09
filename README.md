@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jonathan is available girls!!](http://9gag.com/gag/aOQ2N3D)
- - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)
- - 🚯 [Ukrainian women](http://9gag.com/gag/aYrGnEw)<!-- MEMES:END -->
+ - 🚖 [Ukrainian women](http://9gag.com/gag/aYrGnEw)
+ - 🚯 [Who could he be?](http://9gag.com/gag/aWgpP23)
+ - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)<!-- MEMES:END -->
 
 --- 
 
