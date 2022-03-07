@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says it has resumed bank transfers for European users, except those in Switzerland and The Netherlands, after suspending the service in July 2020 &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/220307/p9#a220307p9)
- - [Former YouTube Kids employees describe how the service embraced human curation over virality to address criticism it wasn&#39;t doing enough to protect children &lpar;Yoree Koh/Wall Street Journal&rpar;](http://www.techmeme.com/220307/p8#a220307p8)
- - [Razer brings its analog switches to a compact 60 percent keyboard](https://www.theverge.com/2022/3/7/22965262/razer-huntsman-mini-analog-keyboard-60-percent-layout-release-date-news-features)<!-- TECH:END -->
+ - [Pixar’s Turning Red captures the wonder and horror of being a teen in 2002](https://www.theverge.com/2022/3/7/22961455/turning-red-pixar-review)
+ - [UAE-based Tabby, the Middle East&#39;s largest BNPL provider, raises a $54M Series B led by Sequoia Capital India and Saudi VC firm STV &lpar;Farah Elbahrawy/Bloomberg&rpar;](http://www.techmeme.com/220307/p11#a220307p11)
+ - [What Will Replace Insects When They&#39;re Gone?](https://www.wired.com/story/insect-crisis-oliver-milman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
