@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omega’s Ultra Deep Dive Watch Asks ‘How Low Can You Go?’](https://www.wired.com/story/omega-ultra-deep-diving-watch)
- - [Google in talks to purchase cybersecurity firm Mandiant](https://appleinsider.com/articles/22/03/07/google-in-talks-to-purchase-cybersecurity-firm-mandiant?utm_medium=rss)
- - [Apple’s Peek Performance event: rumors, news, and announcements](https://www.theverge.com/2022/3/7/22961404/apple-event-peek-performance-iphone-se-ipad-air-announcements-news-products)<!-- TECH:END -->
+ - [Apple has suspended App Store Search Ads in Russia](https://appleinsider.com/articles/22/03/07/apple-has-suspended-app-store-search-ads-in-russia?utm_medium=rss)
+ - [New iPad Air rumored to have Apple Silicon M1 processor](https://appleinsider.com/articles/22/03/07/new-ipad-air-rumored-to-have-apple-silicon-m1-processor?utm_medium=rss)
+ - [How bad is Nintendo Switch OLED burn-in? Here’s a 3,600-hour test](https://www.theverge.com/22966231/nintendo-switch-oled-burn-in-test-wulff-den)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
