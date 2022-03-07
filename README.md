@@ -199,7 +199,7 @@ Windows                  5 hrs 41 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
  - 🚯 [Moscow Central Department Store TSUM right now Where can I shop??](http://9gag.com/gag/aGzL2oZ)
- - 🚯 [Hard to be measured by your own yard stick](http://9gag.com/gag/aVxg2yP)<!-- MEMES:END -->
+ - 🚯 [This is how you should raise your kid...](http://9gag.com/gag/a81AKKd)<!-- MEMES:END -->
 
 --- 
 
