@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google is in talks to acquire cybersecurity company Mandiant, after a February report indicated Microsoft acquisition talks; Mandiant&#39;s stock is up 15%+ &lpar;The Information&rpar;](http://www.techmeme.com/220307/p29#a220307p29)
- - [Instagram’s standalone Boomerang and Hyperlapse apps are gone from the App Store and Google Play](https://www.theverge.com/2022/3/7/22965754/instagram-boomerang-hyperlapse-app-store-google-play)
- - [Mophie 3-in-1 Travel Charger with MagSafe review: On-the-go convenience](https://appleinsider.com/articles/22/03/04/mophie-3-in-1-travel-charger-with-magsafe-review-on-the-go-convenience?utm_medium=rss)<!-- TECH:END -->
+ - [Omega’s Ultra Deep Dive Watch Asks ‘How Low Can You Go?’](https://www.wired.com/story/omega-ultra-deep-diving-watch)
+ - [Google in talks to purchase cybersecurity firm Mandiant](https://appleinsider.com/articles/22/03/07/google-in-talks-to-purchase-cybersecurity-firm-mandiant?utm_medium=rss)
+ - [Apple’s Peek Performance event: rumors, news, and announcements](https://www.theverge.com/2022/3/7/22961404/apple-event-peek-performance-iphone-se-ipad-air-announcements-news-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
