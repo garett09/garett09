@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
- - 🚯 [One more day till payday.. one..more...day](http://9gag.com/gag/aVxgRzP)
- - 🚯 [World strongest alcohol](http://9gag.com/gag/a81AKje)<!-- MEMES:END -->
+ - 🚯 [Contra meets super Mario](http://9gag.com/gag/a61DjRA)
+ - 🚯 [This may have possibly been the scariest moment in cinema, if you know you know](http://9gag.com/gag/aZrnz23)<!-- MEMES:END -->
 
 --- 
 
