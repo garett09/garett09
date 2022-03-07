@@ -197,7 +197,7 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laughed way too hard on this. I&#39;m sleep deprived sorry](http://9gag.com/gag/a31G2Mv)
+ - 🚖 [Swedish veteran, who fought IS, on his way to Ukraine to join the Ukranian forces.](http://9gag.com/gag/a91zX51)
  - 🚯 [Cool graffiti](http://9gag.com/gag/aKm1YW3)
  - 🚯 [Russian p.o.w. speaks.](http://9gag.com/gag/angOrYb)<!-- MEMES:END -->
 
