@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Walking Dead is getting another new spinoff, this time with Maggie and Negan](https://www.polygon.com/22966208/walking-dead-spinoff-amc-plus-negan-maggie)
- - [Dead Space remake: everything we know about the revamped sci-fi horror classic](https://www.pcgamer.com/dead-space-remake-release-date-trailer)
- - [The best webcam for streamers with terrible lighting is on sale for $95](https://www.pcgamer.com/the-best-webcam-for-streamers-with-terrible-lighting-is-on-sale-for-dollar95)<!-- GAME:END -->
+ - [Let&#39;s Talk About How Horizon Forbidden West&#39;s Ending Went Off The Rails](https://kotaku.com/horizon-forbidden-west-aloy-sylens-zenith-ending-explai-1848618717)
+ - [Martha Is Dead Is out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/martha-is-dead-is-out-now-on-xbox-series-xs/)
+ - [Nintendo 64 cult classic Glover coming to Steam](https://www.polygon.com/22966285/nintendo-64-classic-glover-rerelease-steam-420)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
