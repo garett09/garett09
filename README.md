@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She dropped 22 quarts of ranch dressing at work](http://9gag.com/gag/a91zBNK)
- - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)
- - 🚯 [Problem solving skills...](http://9gag.com/gag/aze5BqN)<!-- MEMES:END -->
+ - 🚖 [Looney Tunes irl](http://9gag.com/gag/aWgpP8d)
+ - 🚯 [2018 Germany&#39;s minister for foreign affairs laughs about Trump when he warns Germany about dependency from Russian gas if they don&#39;t change their energy politics. FF 2022: Germany cancels Nordstream 2 and struggles with increasing energy prices.](http://9gag.com/gag/aggQZ0r)
+ - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)<!-- MEMES:END -->
 
 --- 
 
