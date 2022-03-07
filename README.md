@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
- - 🚯 [My wife complaining why we eat the same food everyday...](http://9gag.com/gag/aYrGmMN)
- - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogWnQ0)<!-- MEMES:END -->
+ - 🚯 [Japan\u2019s \u201cKilling Stone\u201d breaks in half after 1,000 years. Legend has it that the demonic spirit trapped inside is now free to wreak havoc on the land.](http://9gag.com/gag/aeg4WP5)
+ - 🚯 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)<!-- MEMES:END -->
 
 --- 
 
