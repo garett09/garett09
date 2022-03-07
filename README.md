@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [iPhone 14 Pro getting pill &amp; hole punch design in 2022, on all models in 2023](https://appleinsider.com/articles/22/03/07/iphone-14-pro-getting-pill-hole-punch-design-in-2022-on-all-models-in-2023?utm_medium=rss)
- - [Steve Jobs wasn&#39;t a good engineer, had to learn communication &amp; sales says Wozniak](https://appleinsider.com/articles/22/03/07/steve-jobs-wasnt-a-good-engineer-had-to-learn-communication-sales-says-wozniak?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Google is in talks to acquire cybersecurity company Mandiant, after a February report indicated Microsoft acquisition talks; Mandiant&#39;s stock is up 15%+ &lpar;The Information&rpar;](http://www.techmeme.com/220307/p29#a220307p29)
+ - [Instagram’s standalone Boomerang and Hyperlapse apps are gone from the App Store and Google Play](https://www.theverge.com/2022/3/7/22965754/instagram-boomerang-hyperlapse-app-store-google-play)
+ - [Mophie 3-in-1 Travel Charger with MagSafe review: On-the-go convenience](https://appleinsider.com/articles/22/03/04/mophie-3-in-1-travel-charger-with-magsafe-review-on-the-go-convenience?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
