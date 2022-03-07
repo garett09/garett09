@@ -199,7 +199,7 @@ Windows                  5 hrs 41 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
  - 🚯 [One more day till payday.. one..more...day](http://9gag.com/gag/aVxgRzP)
- - 🚯 [Is it raining golf balls???](http://9gag.com/gag/aeg4RRm)<!-- MEMES:END -->
+ - 🚯 [Parents, if you don&#39;t educate your kid, someone else will](http://9gag.com/gag/amgWpw2)<!-- MEMES:END -->
 
 --- 
 
