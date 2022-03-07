@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Chrome’s latest update is faster than Safari](https://www.theverge.com/2022/3/7/22965756/google-chrome-apple-safari-speedometer-benchmark-web-scripts-300-score)
- - [Google releases Android 12L and a feature update for Pixel phones, including Live Caption reading typed responses aloud to callers, Duo screen sharing, and more &lpar;Corbin Davenport/XDA Developers&rpar;](http://www.techmeme.com/220307/p27#a220307p27)
- - [Chrome beats Safari in Apple&#39;s Speedometer browser test](https://appleinsider.com/articles/22/03/07/chrome-beats-safari-in-apples-speedometer-browser-test?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [iPhone 14 Pro getting pill &amp; hole punch design in 2022, on all models in 2023](https://appleinsider.com/articles/22/03/07/iphone-14-pro-getting-pill-hole-punch-design-in-2022-on-all-models-in-2023?utm_medium=rss)
+ - [Steve Jobs wasn&#39;t a good engineer, had to learn communication &amp; sales says Wozniak](https://appleinsider.com/articles/22/03/07/steve-jobs-wasnt-a-good-engineer-had-to-learn-communication-sales-says-wozniak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
