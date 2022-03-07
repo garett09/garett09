@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Muppets’ house band is getting its own Disney Plus show](https://www.theverge.com/2022/3/7/22965626/the-muppets-mayhem-lilly-singh)
- - [Dutch e-commerce group Prosus expects to write off its $769M investment in Russian social media service VK and asks its VK board directors to resign &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/220307/p25#a220307p25)
- - [March 2022 Pixel feature drop rolling out, but Pixel 6 users need to wait again](https://www.androidauthority.com/pixel-feature-drop-march-2022-3129656/)<!-- TECH:END -->
+ - [Google says Chrome’s latest update is faster than Safari](https://www.theverge.com/2022/3/7/22965756/google-chrome-apple-safari-speedometer-benchmark-web-scripts-300-score)
+ - [Google releases Android 12L and a feature update for Pixel phones, including Live Caption reading typed responses aloud to callers, Duo screen sharing, and more &lpar;Corbin Davenport/XDA Developers&rpar;](http://www.techmeme.com/220307/p27#a220307p27)
+ - [Chrome beats Safari in Apple&#39;s Speedometer browser test](https://appleinsider.com/articles/22/03/07/chrome-beats-safari-in-apples-speedometer-browser-test?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
