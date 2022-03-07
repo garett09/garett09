@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releasing more efficient GaN-based 30W power adapter, says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/07/apple-releasing-more-efficient-gan-based-30w-power-adapter-says-ming-chi-kuo?utm_medium=rss)
- - [AutoFi, an e-commerce startup for online car sales and financing, raises $85M at a nearly $700M valuation from Santander and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220307/p20#a220307p20)
- - [Apple TV+ hit &#39;Ted Lasso&#39; season 3 begins filming](https://appleinsider.com/articles/22/03/07/apple-tv-hit-ted-lasso-season-3-begins-filming?utm_medium=rss)<!-- TECH:END -->
+ - [Safari Translation uncovers March 8 event hints on international Apple sites](https://appleinsider.com/articles/22/03/07/safari-translation-uncovers-march-8-event-hints-on-international-apple-sites?utm_medium=rss)
+ - [Up to $102 off Sony audio, and more of the latest headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Dygma Raise review: splitting the difference between gaming and ergonomics](https://www.theverge.com/22951481/dygma-raise-review-ergonomic-keyboard-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
