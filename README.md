@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung envisions a phone with a weird sideways folding screen](https://www.androidauthority.com/samsung-foldable-phone-sideways-display-3129265/)
  - [Google may be developing wearables that respond to skin gestures](https://www.androidauthority.com/google-wearables-skin-gestures-3129247/)
- - [Samsung might ditch in-box chargers for budget phones too](https://www.androidauthority.com/samsung-chargers-budget-phones-3125740/)
- - [Open-source data architectures like Iceberg and Hudi, incubated by Netflix and Uber, now form the foundation of products sold to enterprises as data lakehouses &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/220307/p1#a220307p1)<!-- TECH:END -->
+ - [iPhone SE 3: The Most Exciting Rumors Ahead of Apple&#39;s March 8 Event     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-se-3-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
