@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batman’s [spoiler] already starred in a really great [spoiler] movie](https://www.polygon.com/22960604/the-batman-actor-barry-keoghan-joker-killing-sacred-deer)
- - [Great moments in PC gaming: Reaching the Cosmic Ocean in Spelunky 2](https://www.pcgamer.com/great-moments-in-pc-gaming-reaching-the-cosmic-ocean-in-spelunky-2)
- - [PSA: Your Elden Ring save might desync from Steam cloud, so look carefully](https://www.pcgamer.com/psa-your-elden-ring-save-might-desync-from-steam-cloud-so-look-carefully)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 7, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-7-2022)
+ - [Destiny 2 clan wins two world&#39;s first raid races in a row](https://www.pcgamer.com/destiny-2-clan-wins-two-worlds-first-raid-races-in-a-row)
+ - [Classic dating sim Tokimeki Memorial available in English for the first time](https://www.pcgamer.com/classic-dating-sim-tokimeki-memorial-available-in-english-for-the-first-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
