@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Has Suspended All of Its Services in Russia     - CNET](https://www.cnet.com/news/netflix-has-suspended-all-of-its-services-in-russia/#ftag=CAD590a51e)
- - [Netflix: The 46 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/news/netflix-the-46-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
- - [AEW Revolution 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/news/aew-revolution-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CredAvenue, an online marketplace for companies securing debt from lenders, raises $137M Series B led by Insight, B Capital, and Dragoneer, at a $1.3B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220306/p11#a220306p11)
+ - [A Dead Rocket Just Crashed Into the Moon, and Scientists Are Thrilled     - CNET](https://www.cnet.com/news/a-dead-rocket-crashed-into-the-moon-and-scientists-are-excited/#ftag=CAD590a51e)
+ - [Netflix Has Suspended All of Its Services in Russia     - CNET](https://www.cnet.com/news/netflix-has-suspended-all-of-its-services-in-russia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
