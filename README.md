@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar’s Turning Red captures the wonder and horror of being a teen in 2002](https://www.theverge.com/2022/3/7/22961455/turning-red-pixar-review)
- - [UAE-based Tabby, the Middle East&#39;s largest BNPL provider, raises a $54M Series B led by Sequoia Capital India and Saudi VC firm STV &lpar;Farah Elbahrawy/Bloomberg&rpar;](http://www.techmeme.com/220307/p11#a220307p11)
- - [What Will Replace Insects When They&#39;re Gone?](https://www.wired.com/story/insect-crisis-oliver-milman)<!-- TECH:END -->
+ - [How to use Group FaceTime](https://appleinsider.com/articles/20/03/23/how-to-use-group-facetime?utm_medium=rss)
+ - [Intel says its self-driving car unit Mobileye has confidentially filed for an IPO in the US but did not reveal any details, including the valuation &lpar;Reuters&rpar;](http://www.techmeme.com/220307/p14#a220307p14)
+ - [The 5G iPhone SE will be for carriers, not customers](https://www.theverge.com/2022/3/7/22958173/apple-5g-iphone-se-event-carriers-customers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
