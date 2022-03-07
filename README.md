@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elex II Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/elex-ii-available-now-for-xbox-one-and-xbox-series-xs/)
- - [Elden Ring Fans Hack Into Mysterious Colosseums, Find Potential PvP Areas](https://kotaku.com/elden-ring-pvp-dlc-coliseum-area-multiplayer-mp-boss-ru-1848617192)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
+ - [Class-action lawsuit targets NBA 2K’s microtransactions](https://www.polygon.com/gaming/22965885/nba-2k-lawsuit-loot-boxes-myteam-microtransactions-class-action)
+ - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)
+ - [Elex II Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/elex-ii-available-now-for-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
