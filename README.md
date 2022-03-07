@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)
- - 🚯 [Ukrainian women](http://9gag.com/gag/aYrGnEw)
- - 🚯 [2018 Germany&#39;s minister for foreign affairs laughs about Trump when he warns Germany about dependency from Russian gas if they don&#39;t change their energy politics. FF 2022: Germany cancels Nordstream 2 and struggles with increasing energy prices.](http://9gag.com/gag/aggQZ0r)<!-- MEMES:END -->
+ - 🚖 [Japan\u2019s \u201cKilling Stone\u201d breaks in half after 1,000 years. Legend has it that the demonic spirit trapped inside is now free to wreak havoc on the land.](http://9gag.com/gag/aeg4WP5)
+ - 🚯 [US, British, Swedish, Lithuanian, Mexican and Indian. We are in the endgame now](http://9gag.com/gag/a81AXBZ)
+ - 🚯 [Let&#39;s start the show](http://9gag.com/gag/ajg7ywq)<!-- MEMES:END -->
 
 --- 
 
