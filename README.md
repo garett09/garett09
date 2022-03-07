@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard and Epic Games suspend sales of their games in Russia; Activision Blizzard will also pause offering in-game microtransactions in the country &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/220306/p9#a220306p9)
- - [Prime Video: The 36 Best TV Shows to Watch     - CNET](https://www.cnet.com/news/prime-video-the-36-best-tv-shows-to-watch-today/#ftag=CAD590a51e)
- - [Prime Video: The 33 Best Movies to Watch     - CNET](https://www.cnet.com/news/prime-video-the-33-best-films-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Lapsus$ group leaks ~190GB of alleged confidential Samsung files, including a suspected dump of source code and related device security and encryption data &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220306/p10#a220306p10)
+ - [People Spent $9K on Pixelmon NFTs. Then They Saw the Art     - CNET](https://www.cnet.com/personal-finance/people-spent-9k-on-pixelmon-nfts-then-they-saw-the-art/#ftag=CAD590a51e)
+ - [Disney Plus: The Best Sci-Fi Movies You Need to Watch     - CNET](https://www.cnet.com/news/the-absolute-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
