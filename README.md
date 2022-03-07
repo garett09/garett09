@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel kills Alder Lake AVX-512 support for good](https://www.pcgamer.com/intel-kills-alder-lake-avx-512-support-for-good)
- - [Mysterious, inaccessible Elden Ring building explored in out-of-bounds video](https://www.pcgamer.com/mysterious-inaccessible-elden-ring-building-explored-in-out-of-bounds-video)
- - [AMD prepares Ryzen 5 5500, 5600 and Ryzen 7 5700X CPUs to combat Intel&#39;s 12th Gen threat](https://www.pcgamer.com/amd-prepares-ryzen-5-5500-5600-and-ryzen-7-5700x-cpus-to-combat-intels-12th-gen-threat)<!-- GAME:END -->
+ - [Where to find the Golden Scarab in Elden Ring](https://www.pcgamer.com/elden-ring-golden-scarab-abandoned-cave-location)
+ - [Halo Infinite&#39;s lead multiplayer designer leaves 343 Industries](https://www.pcgamer.com/halo-infinites-lead-multiplayer-designer-leaves-343-industries)
+ - [Intel kills Alder Lake AVX-512 support for good](https://www.pcgamer.com/intel-kills-alder-lake-avx-512-support-for-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
