@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Class-action lawsuit targets NBA 2K’s microtransactions](https://www.polygon.com/gaming/22965885/nba-2k-lawsuit-loot-boxes-myteam-microtransactions-class-action)
- - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)
- - [Elex II Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/elex-ii-available-now-for-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
+ - [Ava Duvernay’s DC series DMZ takes us to an abandoned New York City in first trailer](https://www.polygon.com/22726876/dmz-trailer-release-date-dc-show-ava-duvernay-hbo-max)
+ - [How to get every ending in Elden Ring](https://www.pcgamer.com/best-elden-ring-ending-good-secret)
+ - [Battlefield 2042’s new patch finally adds a scoreboard](https://www.polygon.com/22965877/battlefield-2042-scoreboard-new-patch-voice-chat-players)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
