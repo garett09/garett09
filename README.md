@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Judgment’s first add-on, Kaito Files, lets you play as the muscle with a ‘primal nose’](https://www.polygon.com/22962176/lost-judgment-dlc-kaito-files-release-date-price)
- - [Turning Red celebrates awkward teen life in spectacular fashion](https://www.polygon.com/reviews/22962242/turning-red-review-pixar-disney-plus)
- - [Heardle is Wordle for music, and it&#39;s my favourite spin-off yet](https://www.pcgamer.com/heardle-is-wordle-for-music-and-its-my-favourite-spin-off-yet)<!-- GAME:END -->
+ - [In Twenty Years, Microsoft Has Only Sold 2.3 Million Xboxes In Japan](https://kotaku.com/xbox-360-one-x-x-microsoft-kinect-japan-sales-video-gam-1848615966)
+ - [Microsoft, Activision Blizzard, Ubisoft And Epic Games Join Legions Suspending Russian Sales](https://kotaku.com/microsoft-activision-netflix-epic-ubisoft-russia-ukr-1848616145)
+ - [Lost Judgment’s first add-on, Kaito Files, lets you play as the muscle with a ‘primal nose’](https://www.polygon.com/22962176/lost-judgment-dlc-kaito-files-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
