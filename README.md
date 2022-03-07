@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lapsus$ group leaks ~190GB of alleged confidential Samsung files, including a suspected dump of source code and related device security and encryption data &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220306/p10#a220306p10)
- - [People Spent $9K on Pixelmon NFTs. Then They Saw the Art     - CNET](https://www.cnet.com/personal-finance/people-spent-9k-on-pixelmon-nfts-then-they-saw-the-art/#ftag=CAD590a51e)
- - [Disney Plus: The Best Sci-Fi Movies You Need to Watch     - CNET](https://www.cnet.com/news/the-absolute-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix Has Suspended All of Its Services in Russia     - CNET](https://www.cnet.com/news/netflix-has-suspended-all-of-its-services-in-russia/#ftag=CAD590a51e)
+ - [Netflix: The 46 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/news/netflix-the-46-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
+ - [AEW Revolution 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/news/aew-revolution-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
