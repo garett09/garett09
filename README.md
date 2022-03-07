@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade Bloodlines fan patch has hit version 11.1](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-fan-patch-has-hit-version-11)
- - [Five new Steam games you probably missed &lpar;March 7, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-7-2022)
- - [Destiny 2 clan wins two world&#39;s first raid races in a row](https://www.pcgamer.com/destiny-2-clan-wins-two-worlds-first-raid-races-in-a-row)<!-- GAME:END -->
+ - [The Batman’s [spoiler] already starred in a really great [spoiler] movie](https://www.polygon.com/22960604/the-batman-actor-barry-keoghan-joker-killing-sacred-deer)
+ - [How ‘Nosferatu’ turned up in SpongeBob SquarePants](https://www.polygon.com/22963826/spongebob-squarepants-nosferatu-episode-making-of)
+ - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
