@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Man sentenced to 3 years in federal prison over Pokémon card](https://www.polygon.com/22966063/pokemon-card-prison-sentence-chardizard)
- - [Netflix suspends streaming in Russia following the invasion of Ukraine](https://www.polygon.com/22966071/netflix-suspends-streaming-russia-invasion-ukraine-war)
- - [The creator of Owl House is ‘fucking tired of making Disney look good’](https://www.polygon.com/22965995/owl-house-dana-terrace-disney-dont-say-gay-disney-bob-chapek)<!-- GAME:END -->
+ - [The Walking Dead is getting another new spinoff, this time with Maggie and Negan](https://www.polygon.com/22966208/walking-dead-spinoff-amc-plus-negan-maggie)
+ - [Dead Space remake: everything we know about the revamped sci-fi horror classic](https://www.pcgamer.com/dead-space-remake-release-date-trailer)
+ - [The best webcam for streamers with terrible lighting is on sale for $95](https://www.pcgamer.com/the-best-webcam-for-streamers-with-terrible-lighting-is-on-sale-for-dollar95)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
