@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Geekbench delists multiple Samsung flagships for ‘benchmark manipulation’](https://www.androidauthority.com/geekbench-delists-samsung-flagships-3129230/)
  - [Bengaluru-based B2B online seafood marketplace Captain Fresh raises a $50M Series C co-led by Tiger Global and Prosus Ventures at a $500M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220306/p12#a220306p12)
- - [CredAvenue, an online marketplace for companies securing debt from lenders, raises $137M Series B led by Insight, B Capital, and Dragoneer, at a $1.3B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220306/p11#a220306p11)
- - [A Dead Rocket Just Crashed Into the Moon, and Scientists Are Thrilled     - CNET](https://www.cnet.com/news/a-dead-rocket-crashed-into-the-moon-and-scientists-are-excited/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Streaming Plea: Stop Making TV Shows That Shouldn&#39;t Be Full Shows     - CNET](https://www.cnet.com/news/a-streaming-plea-please-stop-making-tv-shows-that-shouldnt-be-full-tv-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
