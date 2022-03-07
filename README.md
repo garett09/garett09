@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung envisions a phone with a weird sideways folding screen](https://www.androidauthority.com/samsung-foldable-phone-sideways-display-3129265/)
- - [Google may be developing wearables that respond to skin gestures](https://www.androidauthority.com/google-wearables-skin-gestures-3129247/)
- - [iPhone SE 3: The Most Exciting Rumors Ahead of Apple&#39;s March 8 Event     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-se-3-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Apple&#39;s power over suppliers, which don&#39;t include its name in public filings and presentations to avoid accidentally revealing competitive information &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/220307/p2#a220307p2)
+ - [We asked, you told us: This is the type of smartphone case most of you use](https://www.androidauthority.com/smartphone-case-poll-results-3129282/)
+ - [Samsung envisions a phone with a weird sideways folding screen](https://www.androidauthority.com/samsung-foldable-phone-sideways-display-3129265/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
