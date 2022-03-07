@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [J. Robert Oppenheimer infamous quote, upon witnessing the first detonation of Nuclear weapon in Trinity Site &lpar;July 16, 1945&rpar;](http://9gag.com/gag/aogWLA3)
+ - 🚖 [Laughed way too hard on this. I&#39;m sleep deprived sorry](http://9gag.com/gag/a31G2Mv)
  - 🚯 [Cool graffiti](http://9gag.com/gag/aKm1YW3)
- - 🚯 [Just Like Orders from Wish](http://9gag.com/gag/aVxgLMv)<!-- MEMES:END -->
+ - 🚯 [Russian p.o.w. speaks.](http://9gag.com/gag/angOrYb)<!-- MEMES:END -->
 
 --- 
 
