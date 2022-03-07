@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swedish veteran, who fought IS, on his way to Ukraine to join the Ukranian forces.](http://9gag.com/gag/a91zX51)
- - 🚯 [Cool graffiti](http://9gag.com/gag/aKm1YW3)
- - 🚯 [Russian p.o.w. speaks.](http://9gag.com/gag/angOrYb)<!-- MEMES:END -->
+ - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
+ - 🚯 [This is how you should raise your kid...](http://9gag.com/gag/a81AKKd)
+ - 🚯 [Simple answer](http://9gag.com/gag/aeg42Mj)<!-- MEMES:END -->
 
 --- 
 
