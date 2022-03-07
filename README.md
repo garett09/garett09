@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swedish veteran, who fought IS, on his way to Ukraine to join the Ukranian forces.](http://9gag.com/gag/a91zX51)
- - 🚯 [Police is beating protester in my city of Saint Petersburg, whole armoured team for one young guy](http://9gag.com/gag/amgWmEy)
- - 🚯 [J. Robert Oppenheimer infamous quote, upon witnessing the first detonation of Nuclear weapon in Trinity Site &lpar;July 16, 1945&rpar;](http://9gag.com/gag/aogWLA3)<!-- MEMES:END -->
+ - 🚖 [J. Robert Oppenheimer infamous quote, upon witnessing the first detonation of Nuclear weapon in Trinity Site &lpar;July 16, 1945&rpar;](http://9gag.com/gag/aogWLA3)
+ - 🚯 [Cool graffiti](http://9gag.com/gag/aKm1YW3)
+ - 🚯 [Just Like Orders from Wish](http://9gag.com/gag/aVxgLMv)<!-- MEMES:END -->
 
 --- 
 
