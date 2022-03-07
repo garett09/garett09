@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;CODA&#39; star Troy Kotsur wins at Film Independent Sprit Awards](https://appleinsider.com/articles/22/03/07/coda-star-troy-kotsur-wins-at-film-independent-sprit-awards?utm_medium=rss)
- - [Current and former esports players and agents say many contracts are predatory, have time-based gimmicks, allow trading players without their consent, and more &lpar;Noah Smith/Washington Post&rpar;](http://www.techmeme.com/220307/p3#a220307p3)
- - [A look at Apple&#39;s power over suppliers, which don&#39;t include its name in public filings and presentations to avoid accidentally revealing competitive information &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/220307/p2#a220307p2)<!-- TECH:END -->
+ - [How to factory reset iPhone or iPad without Apple ID](https://appleinsider.com/articles/22/03/07/how-to-factory-reset-iphone-or-ipad-without-apple-id?utm_medium=rss)
+ - [Convelio, which helps automate shipping for artwork, furniture, and other luxury goods, raises $35M, bringing its total funding to $45M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220307/p5#a220307p5)
+ - [The Galaxy A53 might share some features with flagships, for better or worse](https://www.androidauthority.com/samsung-galaxy-a53-8k-3129358/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
