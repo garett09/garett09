@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Golden Scarab in Elden Ring](https://www.pcgamer.com/elden-ring-golden-scarab-abandoned-cave-location)
- - [Halo Infinite&#39;s lead multiplayer designer leaves 343 Industries](https://www.pcgamer.com/halo-infinites-lead-multiplayer-designer-leaves-343-industries)
- - [Intel kills Alder Lake AVX-512 support for good](https://www.pcgamer.com/intel-kills-alder-lake-avx-512-support-for-good)<!-- GAME:END -->
+ - [Lost Judgment’s first add-on, Kaito Files, lets you play as the muscle with a ‘primal nose’](https://www.polygon.com/22962176/lost-judgment-dlc-kaito-files-release-date-price)
+ - [Turning Red celebrates awkward teen life in spectacular fashion](https://www.polygon.com/reviews/22962242/turning-red-review-pixar-disney-plus)
+ - [Heardle is Wordle for music, and it&#39;s my favourite spin-off yet](https://www.pcgamer.com/heardle-is-wordle-for-music-and-its-my-favourite-spin-off-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
