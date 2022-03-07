@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Safari Translation uncovers March 8 event hints on international Apple sites](https://appleinsider.com/articles/22/03/07/safari-translation-uncovers-march-8-event-hints-on-international-apple-sites?utm_medium=rss)
- - [Up to $102 off Sony audio, and more of the latest headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Dygma Raise review: splitting the difference between gaming and ergonomics](https://www.theverge.com/22951481/dygma-raise-review-ergonomic-keyboard-review)<!-- TECH:END -->
+ - [The Muppets’ house band is getting its own Disney Plus show](https://www.theverge.com/2022/3/7/22965626/the-muppets-mayhem-lilly-singh)
+ - [Dutch e-commerce group Prosus expects to write off its $769M investment in Russian social media service VK and asks its VK board directors to resign &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/220307/p25#a220307p25)
+ - [March 2022 Pixel feature drop rolling out, but Pixel 6 users need to wait again](https://www.androidauthority.com/pixel-feature-drop-march-2022-3129656/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
