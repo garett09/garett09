@@ -198,7 +198,7 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Nice job Logitech-](http://9gag.com/gag/aVxgBGK)
- - 🚯 [Problem solving skills...](http://9gag.com/gag/aze5BqN)
+ - 🚯 [Kid damages cars at park, manager tells him to get out and kid tries to fight manager. Mom taking legal action to take this full video out the internet](http://9gag.com/gag/aOQ2pj3)
  - 🚯 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)<!-- MEMES:END -->
 
 --- 
