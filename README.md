@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice job Logitech-](http://9gag.com/gag/aVxgBGK)
- - 🚯 [Kid damages cars at park, manager tells him to get out and kid tries to fight manager. Mom taking legal action to take this full video out the internet](http://9gag.com/gag/aOQ2pj3)
- - 🚯 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)<!-- MEMES:END -->
+ - 🚖 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)
+ - 🚯 [Ukrainian women](http://9gag.com/gag/aYrGnEw)
+ - 🚯 [2018 Germany&#39;s minister for foreign affairs laughs about Trump when he warns Germany about dependency from Russian gas if they don&#39;t change their energy politics. FF 2022: Germany cancels Nordstream 2 and struggles with increasing energy prices.](http://9gag.com/gag/aggQZ0r)<!-- MEMES:END -->
 
 --- 
 
