@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ava Duvernay’s DC series DMZ takes us to an abandoned New York City in first trailer](https://www.polygon.com/22726876/dmz-trailer-release-date-dc-show-ava-duvernay-hbo-max)
- - [How to get every ending in Elden Ring](https://www.pcgamer.com/best-elden-ring-ending-good-secret)
- - [Battlefield 2042’s new patch finally adds a scoreboard](https://www.polygon.com/22965877/battlefield-2042-scoreboard-new-patch-voice-chat-players)<!-- GAME:END -->
+ - [Man sentenced to 3 years in federal prison over Pokémon card](https://www.polygon.com/22966063/pokemon-card-prison-sentence-chardizard)
+ - [Netflix suspends streaming in Russia following the invasion of Ukraine](https://www.polygon.com/22966071/netflix-suspends-streaming-russia-invasion-ukraine-war)
+ - [The creator of Owl House is ‘fucking tired of making Disney look good’](https://www.polygon.com/22965995/owl-house-dana-terrace-disney-dont-say-gay-disney-bob-chapek)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
