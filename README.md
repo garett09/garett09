@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batman’s [spoiler] already starred in a really great [spoiler] movie](https://www.polygon.com/22960604/the-batman-actor-barry-keoghan-joker-killing-sacred-deer)
- - [How ‘Nosferatu’ turned up in SpongeBob SquarePants](https://www.polygon.com/22963826/spongebob-squarepants-nosferatu-episode-making-of)
- - [Astro Bot lands in Fall Guys March 8](https://blog.playstation.com/2022/03/06/astro-bot-lands-in-fall-guys-march-8/)<!-- GAME:END -->
+ - [AMD prepares Ryzen 5 5500, 5600 and Ryzen 7 5700X CPUs to combat Intel&#39;s 12th Gen threat](https://www.pcgamer.com/amd-prepares-ryzen-5-5500-5600-and-ryzen-7-5700x-cpus-to-combat-intels-12th-gen-threat)
+ - [Vampire: The Masquerade Bloodlines fan patch has hit version 11.1](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-fan-patch-has-hit-version-11)
+ - [Five new Steam games you probably missed &lpar;March 7, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-7-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
