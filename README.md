@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
- - 🚯 [Contra meets super Mario](http://9gag.com/gag/a61DjRA)
- - 🚯 [This may have possibly been the scariest moment in cinema, if you know you know](http://9gag.com/gag/aZrnz23)<!-- MEMES:END -->
+ - 🚯 [One more day till payday.. one..more...day](http://9gag.com/gag/aVxgRzP)
+ - 🚯 [Is it raining golf balls???](http://9gag.com/gag/aeg4RRm)<!-- MEMES:END -->
 
 --- 
 
