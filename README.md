@@ -198,8 +198,8 @@ Windows                  5 hrs 41 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
- - 🚯 [Wtf??](http://9gag.com/gag/aVxgRNO)
- - 🚯 [Our society](http://9gag.com/gag/aNPLjDK)<!-- MEMES:END -->
+ - 🚯 [Roses are red, the burn left a blister](http://9gag.com/gag/aAGQZbg)
+ - 🚯 [Still brave and big balls.](http://9gag.com/gag/a117OQP)<!-- MEMES:END -->
 
 --- 
 
