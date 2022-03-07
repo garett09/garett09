@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officers in Moscow today are stopping people, demanding to see their phones, READING THEIR MESSAGES, and refusing to release them if they refuse.](http://9gag.com/gag/aZrnQ4W)
- - 🚯 [What a surprise](http://9gag.com/gag/a21MGdZ)
- - 🚯 [Japan\u2019s \u201cKilling Stone\u201d breaks in half after 1,000 years. Legend has it that the demonic spirit trapped inside is now free to wreak havoc on the land.](http://9gag.com/gag/aeg4WP5)<!-- MEMES:END -->
+ - 🚖 [Nice job Logitech-](http://9gag.com/gag/aVxgBGK)
+ - 🚯 [Problem solving skills...](http://9gag.com/gag/aze5BqN)
+ - 🚯 [Been drizzling a bit in Malaysia lately](http://9gag.com/gag/arnWzD6)<!-- MEMES:END -->
 
 --- 
 
