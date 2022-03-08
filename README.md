@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car chip production talks heat up in South Korea](https://appleinsider.com/articles/22/03/08/apple-car-chip-production-talks-heat-up-in-south-korea?utm_medium=rss)
- - [Elon Musk claims he was coerced into settling with the SEC over his ‘funding secured’ tweet](https://www.theverge.com/2022/3/8/22967122/elon-musk-tesla-sec-tweet-court-subpoena-investigation)
- - [8BitDo announces its first Xbox-style controller](https://www.theverge.com/2022/3/8/22966831/8bitdo-ultimate-wired-controller-for-xbox-announced-price-release-date)<!-- TECH:END -->
+ - [Apple Store down ahead of &#39;Peek performance&#39; event](https://appleinsider.com/articles/22/03/08/apple-store-down-ahead-of-peek-performance-event?utm_medium=rss)
+ - [Apple could launch new green iPhone 13, purple iPad Air on Tuesday](https://appleinsider.com/articles/22/03/07/apple-could-launch-new-green-iphone-13-purple-ipad-air-on-tuesday?utm_medium=rss)
+ - [The Diminishing Returns of Streaming’s Glut of Grifters](https://www.wired.com/story/peak-scam-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
