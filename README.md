@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a family](http://9gag.com/gag/amgWQ14)
- - 🚯 [Meh!](http://9gag.com/gag/aXrL3W6)
- - 🚯 [When ball is life !](http://9gag.com/gag/aM4d74P)<!-- MEMES:END -->
+ - 🚖 [Gollumdog at your service](http://9gag.com/gag/ay9qrj8)
+ - 🚯 [When ball is life !](http://9gag.com/gag/aM4d74P)
+ - 🚯 [Meh!](http://9gag.com/gag/aXrL3W6)<!-- MEMES:END -->
 
 --- 
 
