@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spring Games Spotlight 2022 – Over 40 New Games Coming to Xbox](https://news.xbox.com/en-us/2022/03/08/spring-games-spotlight-2022/)
- - [Corsair&#39;s released a rival to PCPartPicker that completely misses the point](https://www.pcgamer.com/corsairs-released-a-rival-to-pcpartpicker-that-completely-misses-the-point)
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)<!-- GAME:END -->
+ - [MLB The Show 22 gets an all-new announcer team](https://www.polygon.com/22967416/mlb-the-show-22-new-announcers-boog-sciambi-chris-singleton)
+ - [Sony’s Next State Of Play Could Show Final Fantasy XVI, Maybe, Probably Not](https://kotaku.com/final-fantasy-16-ps5-state-play-showcase-square-enix-fo-1848622609)
+ - [How to update drivers](https://www.pcgamer.com/how-to-update-drivers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
