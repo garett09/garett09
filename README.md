@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store down ahead of &#39;Peek performance&#39; event](https://appleinsider.com/articles/22/03/08/apple-store-down-ahead-of-peek-performance-event?utm_medium=rss)
- - [&#39;iPad Air 5&#39; rumored to have 8GB RAM, 128GB storage, Apple Silicon M1 processor](https://appleinsider.com/articles/22/03/08/ipad-air-5-rumored-to-have-8gb-ram-128gb-storage?utm_medium=rss)
- - [How to zoom in or out on a Chromebook](https://www.androidauthority.com/zoom-in-out-chromebook-3126707/)<!-- TECH:END -->
+ - [Humans Evolved to Play Music](https://www.wired.com/story/music-sound-biology-history)
+ - [Reach Easy With the 11 Best Messenger and Crossbody Bags](https://www.wired.com/gallery/best-messenger-bags)
+ - [Amazon launches a Clubhouse competitor that turns everyone into a DJ](https://www.theverge.com/2022/3/8/22966229/amazon-amp-live-audio-radio-dj-clubhouse-competitor-ios-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
