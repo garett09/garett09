@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new iPhone SE has a larger battery than the old one](https://www.theverge.com/2022/3/8/22967821/iphone-se-third-generation-larger-battery)
- - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)
- - [Better.com employees were informed of its latest layoffs via severance checks](https://www.theverge.com/2022/3/8/22967171/better-employees-latest-layoffs-severance-checks-vishal-garg)<!-- TECH:END -->
+ - [The EU accelerates plans to phase out Russian gas](https://www.theverge.com/2022/3/8/22967244/european-union-russia-clean-energy-transition-gas)
+ - [Twitter is launching a Tor service for more secure and private tweeting](https://www.theverge.com/2022/3/8/22967843/twitter-tor-onion-service-version-launch)
+ - [Apple&#39;s HomePod mini is now available in Belgium, Netherlands, Switzerland](https://appleinsider.com/articles/22/03/08/apples-homepod-mini-is-now-available-in-belgium-netherlands-switzerland?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
