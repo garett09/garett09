@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Withholding Payments For Russian Streamers](https://kotaku.com/twitch-streaming-streamers-russia-ukraine-war-sanctions-1848620871)
- - [Final Fantasy 14 is currently broken for the majority of Steam users](https://www.pcgamer.com/final-fantasy-14-is-currently-broken-for-the-majority-of-steam-users)
- - [Elden Ring&#39;s invasions have turned me into a monster](https://www.pcgamer.com/elden-rings-invasions-have-turned-me-into-a-monster)<!-- GAME:END -->
+ - [Don’t you dare make another Batman movie without Robin](https://www.polygon.com/22966230/batman-movie-sequel-robin)
+ - [State of Play returns this Wednesday](https://blog.playstation.com/2022/03/08/state-of-play-returns-this-wednesday/)
+ - [State of Play returns this Wednesday](https://blog.playstation.com/2022/03/08/state-of-play-returns-this-wednesday/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
