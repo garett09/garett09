@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember never buy things from Wish.](http://9gag.com/gag/adgvzbN)
- - 🚯 [Hate this shit](http://9gag.com/gag/aBnZ5dN)
- - 🚯 [Who remembers this house\u2026?](http://9gag.com/gag/aeg4BAW)<!-- MEMES:END -->
+ - 🚖 [Perception of gravity in different celestial bodies](http://9gag.com/gag/angOoLn)
+ - 🚯 [President Zelensky posted another video, which he recorded in the yard of the President&#39;s Office `It&#39;s snowing. That\u2019s the spring we got. The spring this year is like this war. Severe. But everything will be fine. We will win`, \u2014 said the president.](http://9gag.com/gag/aGzL5Mw)
+ - 🚯 [King Kong?](http://9gag.com/gag/amgWZ0v)<!-- MEMES:END -->
 
 --- 
 
