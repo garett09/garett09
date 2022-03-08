@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/news/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)
- - [Best Keto Meal Delivery for 2022     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
- - [&#39;Mac Studio&#39; and new Apple display are &#39;ready to go&#39; for Apple Event](https://appleinsider.com/articles/22/03/07/mac-studio-and-new-apple-display-are-ready-to-go-for-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Google: Russia&#39;s Fancy Bear launched phishing campaigns against Ukrainians ahead of the invasion, Belarus&#39; Ghostwriter targeted Ukrainian and Polish militaries &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220307/p36#a220307p36)
+ - [Source: Tiger Global partners have committed $1B of their own cash, at $300M+ every year, to invest in seed funds that focus on backing the youngest startups &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/220307/p35#a220307p35)
+ - [Amazon Prime Video will exclusively stream Country Music Awards on Monday, an awards-show first; Amazon Live will carry a &quot;shoppable&quot; version of the red carpet &lpar;Josef Adalian/Vulture&rpar;](http://www.techmeme.com/220307/p34#a220307p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
