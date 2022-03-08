@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Thirdfort, which helps businesses reduce risk with automated ID verification, AML compliance, and source of funds checks, raises a $20M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220307/p37#a220307p37)
- - [Elden Ring Guide: How to Beat Starscourge Radahn     - CNET](https://www.cnet.com/tech/gaming/elden-ring-guide-how-to-beat-starscourge-radahn/#ftag=CAD590a51e)
- - [Best Cooling Mattress for Hot Sleepers in 2022     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare, CrowdStrike, and Ping Identity form Critical Infrastructure Defense Project to offer their services free to vulnerable US industries like hospitals &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220307/p38#a220307p38)
+ - [Mac Studio Launch is Likely for March Rather Than New 27-Inch iMac     - CNET](https://www.cnet.com/tech/computing/imac-27-inch-2022-every-rumor-weve-heard-so-far/#ftag=CAD590a51e)
+ - [London-based Thirdfort, which helps businesses reduce risk with automated ID verification, AML compliance, and source of funds checks, raises a $20M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220307/p37#a220307p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
