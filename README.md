@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals March 8: $300 off Galaxy Tab S7+, $180 off WD 16TB Elements Hard Drive, $112 off Razer Raiju Mobile Controller &amp; more](https://appleinsider.com/articles/22/03/08/daily-deals-march-8-300-off-galaxy-tab-s7-180-off-wd-16tb-elements-hard-drive-112-off-razer-raiju-mobile-controller-more?utm_medium=rss)
- - [China-backed hackers breached government networks in at least six US states, per new report](https://www.theverge.com/2022/3/8/22966517/china-hack-government-networks-apt41-usaherd)
- - [Daily deals March 7: Apple Watches from $119.99, $50 off Amazon Fire TV Cube, $100 off Dell 240Hz monitor &amp; more](https://appleinsider.com/articles/22/03/07/daily-deals-march-7-apple-watches-from-11999-50-off-amazon-fire-tv-cube-100-off-dell-240hz-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Car chip production talks heat up in South Korea](https://appleinsider.com/articles/22/03/08/apple-car-chip-production-talks-heat-up-in-south-korea?utm_medium=rss)
+ - [Elon Musk claims he was coerced into settling with the SEC over his ‘funding secured’ tweet](https://www.theverge.com/2022/3/8/22967122/elon-musk-tesla-sec-tweet-court-subpoena-investigation)
+ - [8BitDo announces its first Xbox-style controller](https://www.theverge.com/2022/3/8/22966831/8bitdo-ultimate-wired-controller-for-xbox-announced-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
