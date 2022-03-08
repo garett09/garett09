@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is releasing an open source harassment filter for journalists](https://www.theverge.com/2022/3/8/22966204/google-jigsaw-perspective-ai-twitter-moderation-harassment-manager-journalists)
- - [What to expect from Apple’s ‘Peek Performance’ March event](https://www.theverge.com/2022/3/6/22960325/apple-march-2022-event-iphone-se-peek-performance-rumors-announcements)
- - [Apple could announce new ‘Mac Studio’ and ‘Studio Display’ today](https://www.theverge.com/2022/3/8/22966832/apple-mac-studio-prodisplay-monitor-march-2022-event-iphone-se)<!-- TECH:END -->
+ - [Daily Authority: 🎉Android 12L is live!](https://www.androidauthority.com/da-march-8-2022-3130849/)
+ - [‘I’m the Operator’: The Aftermath of a Self-Driving Tragedy](https://www.wired.com/story/uber-self-driving-car-fatal-crash)
+ - [Apple, Microsoft, and Google all receive poor grades on repairability report card](https://www.theverge.com/2022/3/8/22949669/apple-microsoft-google-repairability-index-ranking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
