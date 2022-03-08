@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critical Bugs Expose Hundreds of Thousands of Medical Devices](https://www.wired.com/story/access7-iot-vulnerabilities-medical-devices-atms)
- - [The Great Tech Hub Exodus Didn&#39;t Quite Happen](https://www.wired.com/story/pandemic-remote-working-fail)
- - [AI Rudder, which offers AI-powered B2C voice assistants in 15+ languages, raises a $50M Series B from Tiger Global, Sequoia Capital India, and Huashan Capital &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220307/p39#a220307p39)<!-- TECH:END -->
+ - [Research: investments in Middle East and North Africa tech startups, excluding Israel, rose to $2.87B in 2021, up from $654M in 2020, with half going to the UAE &lpar;Rory Jones/Wall Street Journal&rpar;](http://www.techmeme.com/220308/p1#a220308p1)
+ - [Android 12L: Everything you need to know about Google’s OS for larger screens](https://www.androidauthority.com/android-12l-3047080/)
+ - [Critical Bugs Expose Hundreds of Thousands of Medical Devices](https://www.wired.com/story/access7-iot-vulnerabilities-medical-devices-atms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
