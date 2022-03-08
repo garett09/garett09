@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare, CrowdStrike, and Ping Identity form Critical Infrastructure Defense Project to offer their services free to vulnerable US industries like hospitals &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220307/p38#a220307p38)
- - [Mac Studio Launch is Likely for March Rather Than New 27-Inch iMac     - CNET](https://www.cnet.com/tech/computing/imac-27-inch-2022-every-rumor-weve-heard-so-far/#ftag=CAD590a51e)
- - [London-based Thirdfort, which helps businesses reduce risk with automated ID verification, AML compliance, and source of funds checks, raises a $20M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220307/p37#a220307p37)<!-- TECH:END -->
+ - [Critical Bugs Expose Hundreds of Thousands of Medical Devices](https://www.wired.com/story/access7-iot-vulnerabilities-medical-devices-atms)
+ - [The Great Tech Hub Exodus Didn&#39;t Quite Happen](https://www.wired.com/story/pandemic-remote-working-fail)
+ - [AI Rudder, which offers AI-powered B2C voice assistants in 15+ languages, raises a $50M Series B from Tiger Global, Sequoia Capital India, and Huashan Capital &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220307/p39#a220307p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
