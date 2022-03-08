@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🎉Android 12L is live!](https://www.androidauthority.com/da-march-8-2022-3130849/)
- - [‘I’m the Operator’: The Aftermath of a Self-Driving Tragedy](https://www.wired.com/story/uber-self-driving-car-fatal-crash)
- - [Apple, Microsoft, and Google all receive poor grades on repairability report card](https://www.theverge.com/2022/3/8/22949669/apple-microsoft-google-repairability-index-ranking)<!-- TECH:END -->
+ - [Google confirms $5.4 billion acquisition of Mandiant cybersecurity firm](https://appleinsider.com/articles/22/03/08/google-confirms-54-billion-acquisition-of-mandiant-cybersecurity-firm?utm_medium=rss)
+ - [Google is buying the cybersecurity company that uncovered the SolarWinds hack](https://www.theverge.com/2022/3/8/22966907/google-buying-mandiant-cybersecurity-outfit-5-4-billion)
+ - [How to tag someone on Instagram](https://www.androidauthority.com/tagging-people-instagram-3130612/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
