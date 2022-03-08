@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light gets free PS5 upgrade](https://www.polygon.com/22967807/dying-light-next-gen-upgrade-free-ps5-ps4-pro)
- - [Final Fantasy Modder Gets Modesty Complaints, Makes Cloud Even Sexier](https://kotaku.com/final-fantasy-vii-remake-intergrade-mod-cloud-midriff-t-1848623837)
- - [Spock takes the spotlight in the first Star Trek: Resurgence gameplay trailer](https://www.pcgamer.com/spock-takes-the-spotlight-in-the-first-star-trek-resurgence-gameplay-trailer)<!-- GAME:END -->
+ - [More Activision Blizzard stockholders sue over Microsoft sale](https://www.polygon.com/22949594/activision-blizzard-shareholder-lawsuit-sec-violation)
+ - [The Bundle for Ukraine raises over $1.6M in less than a day](https://www.pcgamer.com/the-bundle-for-ukraine-raises-over-dollar16m-in-less-than-a-day)
+ - [You Can Actually Pause Elden Ring Without Mods](https://kotaku.com/elden-ring-fromsoftware-pause-menu-dark-souls-bloodborn-1848624463)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
