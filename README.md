@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So, I&#39;m in a small team that&#39;s working on an adventure RPG set in the animal kingdom, and we&#39;ve completely changed the art direction. Thoughts?](http://9gag.com/gag/aPZx2Yw)
- - 🚯 [Never underestimate your opponent](http://9gag.com/gag/a41nXGy)
- - 🚯 [A Ukrainian policeman in Irpen says goodbye to his son and wife, who are taken to a safe place.](http://9gag.com/gag/a41nXp6)<!-- MEMES:END -->
+ - 🚖 [I am sure it was posted on here before but should be shared everywhere, daily.](http://9gag.com/gag/aBnZAxN)
+ - 🚯 [Think twice, before you support any side.](http://9gag.com/gag/aM4dL61)
+ - 🚯 [Augmented reality](http://9gag.com/gag/aE8M45p)<!-- MEMES:END -->
 
 --- 
 
