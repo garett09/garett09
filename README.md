@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perception of gravity in different celestial bodies](http://9gag.com/gag/angOoLn)
- - 🚯 [President Zelensky posted another video, which he recorded in the yard of the President&#39;s Office `It&#39;s snowing. That\u2019s the spring we got. The spring this year is like this war. Severe. But everything will be fine. We will win`, \u2014 said the president.](http://9gag.com/gag/aGzL5Mw)
- - 🚯 [King Kong?](http://9gag.com/gag/amgWZ0v)<!-- MEMES:END -->
+ - 🚖 [King Kong?](http://9gag.com/gag/amgWZ0v)
+ - 🚯 [She&#39;s a pro](http://9gag.com/gag/aogWQ3w)
+ - 🚯 [Perception of gravity in different celestial bodies](http://9gag.com/gag/angOoLn)<!-- MEMES:END -->
 
 --- 
 
