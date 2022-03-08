@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was already asked about it.... I hope that the idiots realize that it has no correlation to the war.](http://9gag.com/gag/aAGQA9Z)
- - 🚯 [Who remembers this house\u2026?](http://9gag.com/gag/aeg4BAW)
- - 🚯 [Think twice, before you support any side.](http://9gag.com/gag/aM4dL61)<!-- MEMES:END -->
+ - 🚖 [Remember never buy things from Wish.](http://9gag.com/gag/adgvzbN)
+ - 🚯 [Hate this shit](http://9gag.com/gag/aBnZ5dN)
+ - 🚯 [Who remembers this house\u2026?](http://9gag.com/gag/aeg4BAW)<!-- MEMES:END -->
 
 --- 
 
