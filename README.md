@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google: Russia&#39;s Fancy Bear launched phishing campaigns against Ukrainians ahead of the invasion, Belarus&#39; Ghostwriter targeted Ukrainian and Polish militaries &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220307/p36#a220307p36)
- - [Source: Tiger Global partners have committed $1B of their own cash, at $300M+ every year, to invest in seed funds that focus on backing the youngest startups &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/220307/p35#a220307p35)
- - [Amazon Prime Video will exclusively stream Country Music Awards on Monday, an awards-show first; Amazon Live will carry a &quot;shoppable&quot; version of the red carpet &lpar;Josef Adalian/Vulture&rpar;](http://www.techmeme.com/220307/p34#a220307p34)<!-- TECH:END -->
+ - [London-based Thirdfort, which helps businesses reduce risk with automated ID verification, AML compliance, and source of funds checks, raises a $20M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220307/p37#a220307p37)
+ - [Elden Ring Guide: How to Beat Starscourge Radahn     - CNET](https://www.cnet.com/tech/gaming/elden-ring-guide-how-to-beat-starscourge-radahn/#ftag=CAD590a51e)
+ - [Best Cooling Mattress for Hot Sleepers in 2022     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
