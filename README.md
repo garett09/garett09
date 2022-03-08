@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chinese RTX 3060 cards with a mobile GPU bypass Nvidia&#39;s hash rate limiter](https://www.pcgamer.com/chinese-rtx-3060-cards-with-a-mobile-gpu-bypass-nvidias-hash-rate-limiter)
- - [This cute Dell laptop with an RTX 3050 is on sale for $750](https://www.pcgamer.com/this-cute-dell-laptop-with-an-rtx-3050-is-on-sale-for-dollar750)
- - [Our Favorite Cosplay From Katsucon 2022](https://kotaku.com/katsucon-2022-cosplay-photos-video-cosplayers-conventio-1848619654)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Katsucon 2022](https://kotaku.com/katsucon-2022-cosplay-photos-video-cosplayers-conventio-1848619654)
+ - [Itch.io&#39;s &#39;Bundle for Ukraine&#39; fundraiser offers nearly 1,000 games for your donation](https://www.pcgamer.com/itchios-bundle-for-ukraine-fundraiser-offers-nearly-1000-games-for-your-donation)
+ - [Report: Amazon Wants To Make A God Of War TV Show](https://kotaku.com/god-of-war-amazon-tv-playstation-sony-kratos-series-str-1848619214)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
