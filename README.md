@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After two years of cancelations, PAX Australia is trying again in 2022](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)
  - [AMD is working on a fix to address intermittent fTPM performance issues](https://www.pcgamer.com/amd-is-working-on-a-fix-to-address-intermittent-ftpm-performance-issues)
- - [Nvidia may sell 3000 series GPUs alongside next gen](https://www.pcgamer.com/nvidia-may-sell-3000-series-gpus-alongside-next-gen)
- - [This Chinese motherboard supports DDR4 and DDR5 RAM](https://www.pcgamer.com/this-chinese-motherboard-supports-ddr4-and-ddr5-ram)<!-- GAME:END -->
+ - [Nvidia may sell 3000 series GPUs alongside next gen](https://www.pcgamer.com/nvidia-may-sell-3000-series-gpus-alongside-next-gen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
