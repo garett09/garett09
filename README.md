@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has suspended App Store Search Ads in Russia](https://appleinsider.com/articles/22/03/07/apple-has-suspended-app-store-search-ads-in-russia?utm_medium=rss)
- - [New iPad Air rumored to have Apple Silicon M1 processor](https://appleinsider.com/articles/22/03/07/new-ipad-air-rumored-to-have-apple-silicon-m1-processor?utm_medium=rss)
- - [How bad is Nintendo Switch OLED burn-in? Here’s a 3,600-hour test](https://www.theverge.com/22966231/nintendo-switch-oled-burn-in-test-wulff-den)<!-- TECH:END -->
+ - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/news/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)
+ - [Best Keto Meal Delivery for 2022     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
+ - [&#39;Mac Studio&#39; and new Apple display are &#39;ready to go&#39; for Apple Event](https://appleinsider.com/articles/22/03/07/mac-studio-and-new-apple-display-are-ready-to-go-for-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
