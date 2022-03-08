@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone had to be blame](http://9gag.com/gag/aLvL3oA)
- - 🚯 [La puta, eso?](http://9gag.com/gag/aWgpy6q)
- - 🚯 [Python in a Nutshell](http://9gag.com/gag/aze5z2b)<!-- MEMES:END -->
+ - 🚖 [What a family](http://9gag.com/gag/amgWQ14)
+ - 🚯 [Meh!](http://9gag.com/gag/aXrL3W6)
+ - 🚯 [When ball is life !](http://9gag.com/gag/aM4d74P)<!-- MEMES:END -->
 
 --- 
 
