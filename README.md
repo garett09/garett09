@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches the 27-inch Apple Studio Display with 5K, speakers, camera](https://appleinsider.com/articles/22/03/08/apple-launches-the-27-inch-apple-studio-display-with-5k-speakers-camera?utm_medium=rss)
- - [Apple unveils Studio Display, a 27-inch 5K resolution monitor with an A13 Bionic chip, a 12MP ultra-wide camera with Center Stage support, and six speakers &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220308/p24#a220308p24)
- - [Spotify and Discord are down](https://www.theverge.com/2022/3/8/22967531/spotify-discord-logout-outage-offline-server-problem)<!-- TECH:END -->
+ - [Spotify and Discord are coming back online after outages](https://www.theverge.com/2022/3/8/22967531/spotify-discord-logout-outage-offline-server-problem)
+ - [Apple seeds macOS Monterey 12.3 Release Candidate developer beta](https://appleinsider.com/articles/22/03/08/apple-seeds-macos-monterey-123-release-candidate-developer-beta?utm_medium=rss)
+ - [Apple TV+ &#39;Friday Night Baseball&#39; offers weekly game streams](https://appleinsider.com/articles/22/03/08/apple-tv-friday-night-baseball-offers-weekly-game-streams?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
