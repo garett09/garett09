@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hundred Bullets, Re-inventing Shmups](https://news.xbox.com/en-us/2022/03/08/hundred-bullets-re-inventing-shmups/)
- - [The anime that inspired Turning Red, according to director Domee Shi](https://www.polygon.com/22947922/turning-red-pixar-anime-influences)
- - [Pre-load GTAV and GTA Online on PS5](https://blog.playstation.com/2022/03/08/pre-load-gtav-and-gta-online-on-ps5/)<!-- GAME:END -->
+ - [Dying Light gets free PS5 upgrade](https://www.polygon.com/22967807/dying-light-next-gen-upgrade-free-ps5-ps4-pro)
+ - [Final Fantasy Modder Gets Modesty Complaints, Makes Cloud Even Sexier](https://kotaku.com/final-fantasy-vii-remake-intergrade-mod-cloud-midriff-t-1848623837)
+ - [Spock takes the spotlight in the first Star Trek: Resurgence gameplay trailer](https://www.pcgamer.com/spock-takes-the-spotlight-in-the-first-star-trek-resurgence-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
