@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 22 gets an all-new announcer team](https://www.polygon.com/22967416/mlb-the-show-22-new-announcers-boog-sciambi-chris-singleton)
- - [Sony’s Next State Of Play Could Show Final Fantasy XVI, Maybe, Probably Not](https://kotaku.com/final-fantasy-16-ps5-state-play-showcase-square-enix-fo-1848622609)
- - [How to update drivers](https://www.pcgamer.com/how-to-update-drivers)<!-- GAME:END -->
+ - [Dark Comedic Adventure, What Lies in the Multiverse, Available Now](https://news.xbox.com/en-us/2022/03/08/what-lies-in-the-multiverse-available-now/)
+ - [As Russian forces attack cities in Ukraine, some game developers volunteer to fight](https://www.polygon.com/22967192/ukraine-game-developers-russian-putin-war-kharkiv-chernihiv-nuclear-no-fly-zone)
+ - [Get this RTX 3060 gaming laptop for just £720 right now](https://www.pcgamer.com/get-this-rtx-3060-gaming-laptop-for-just-pound720-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
