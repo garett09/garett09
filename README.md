@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sanctions by US tech companies on Russia may have unintended consequences in India; the West could use chips as leverage to compel China to not sell to Russia &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220308/p2#a220308p2)
- - [You told us: Most of you are subscribed to YouTube Premium](https://www.androidauthority.com/youtube-premium-subscribe-poll-results-3130765/)
- - [Research: investments in Middle East and North Africa tech startups, excluding Israel, rose to $2.87B in 2021, up from $654M in 2020, with half going to the UAE &lpar;Rory Jones/Wall Street Journal&rpar;](http://www.techmeme.com/220308/p1#a220308p1)<!-- TECH:END -->
+ - [The Samsung Galaxy F23 brings four years of security updates for under $250](https://www.androidauthority.com/samsung-galaxy-f23-3130773/)
+ - [Axonius, which provides a cybersecurity asset management service that helps companies analyze IT resources, raises $200M at a $2.6B valuation led by Accel &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220308/p3#a220308p3)
+ - [The March Google Pixel update also squashes a long list of bugs](https://www.androidauthority.com/google-pixel-march-update-bug-fixes-3130771/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
