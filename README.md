@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are important too .](http://9gag.com/gag/a81A9ZQ)
- - 🚯 [Different songs you can do CPR to](http://9gag.com/gag/adgvwqj)
- - 🚯 [President Zelensky posted another video, which he recorded in the yard of the President&#39;s Office `It&#39;s snowing. That\u2019s the spring we got. The spring this year is like this war. Severe. But everything will be fine. We will win`, \u2014 said the president.](http://9gag.com/gag/aGzL5Mw)<!-- MEMES:END -->
+ - 🚖 [Hate this shit](http://9gag.com/gag/aBnZ5dN)
+ - 🚯 [Rare combat footage of Ukrainian soldiers using UK-supplied NLAW; note how the missile just avoids the top of the building.](http://9gag.com/gag/awzg2zx)
+ - 🚯 [Different songs you can do CPR to](http://9gag.com/gag/adgvwqj)<!-- MEMES:END -->
 
 --- 
 
