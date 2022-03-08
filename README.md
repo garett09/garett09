@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let&#39;s Talk About How Horizon Forbidden West&#39;s Ending Went Off The Rails](https://kotaku.com/horizon-forbidden-west-aloy-sylens-zenith-ending-explai-1848618717)
- - [Martha Is Dead Is out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/03/07/martha-is-dead-is-out-now-on-xbox-series-xs/)
- - [Nintendo 64 cult classic Glover coming to Steam](https://www.polygon.com/22966285/nintendo-64-classic-glover-rerelease-steam-420)<!-- GAME:END -->
+ - [Pokémon Card Fraudster Sentenced To Three Years In Prison over $57,000 Charizard](https://kotaku.com/pokemon-card-fraud-charizard-covid-prison-jail-fine-geo-1848619505)
+ - [Destiny 2 Quest Lets You Literally Turn An Ancient Foe Into A Gun, Just Like The Meme](https://kotaku.com/destiny-2-witch-queen-dlc-expansion-exotic-quest-savath-1848618869)
+ - [Let&#39;s Talk About How Horizon Forbidden West&#39;s Ending Went Off The Rails](https://kotaku.com/horizon-forbidden-west-aloy-sylens-zenith-ending-explai-1848618717)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
