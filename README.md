@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store down ahead of &#39;Peek performance&#39; event](https://appleinsider.com/articles/22/03/08/apple-store-down-ahead-of-peek-performance-event?utm_medium=rss)
- - [Apple could launch new green iPhone 13, purple iPad Air on Tuesday](https://appleinsider.com/articles/22/03/07/apple-could-launch-new-green-iphone-13-purple-ipad-air-on-tuesday?utm_medium=rss)
- - [The Diminishing Returns of Streaming’s Glut of Grifters](https://www.wired.com/story/peak-scam-tv)<!-- TECH:END -->
+ - [The iPhone 13 and 13 Pro each get green finishes](https://www.theverge.com/2022/3/8/22959215/apple-iphone-13-mini-new-colors-green-alpine-price-release-date)
+ - [Apple announces affordable iPhone SE with latest processor](https://www.theverge.com/2022/3/8/22959072/iphone-se-3-price-screen-specs-features-release-date-a15-bionic-5g)
+ - [Apple announces the third-generation iPhone SE](https://appleinsider.com/articles/22/03/08/apple-announces-the-third-generation-iphone-se?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
