@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice design](http://9gag.com/gag/amgWyv4)
- - 🚯 [And probably no time to make it](http://9gag.com/gag/aqGROW7)
+ - 🚖 [IWD](http://9gag.com/gag/ajg7GBR)
+ - 🚯 [Nice design](http://9gag.com/gag/amgWyv4)
  - 🚯 [They&#39;re using ice cream trucks now lmao](http://9gag.com/gag/angO0wL)<!-- MEMES:END -->
 
 --- 
