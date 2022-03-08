@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Core Memory](http://9gag.com/gag/aQXgKwe)
- - 🚯 [Rapper Dizzee Rascal smashing a reporter&#39;s camera right after being declared guilty for assaulting the mother of his children.](http://9gag.com/gag/aGzLqm7)
- - 🚯 [Meh!](http://9gag.com/gag/aXrL3W6)<!-- MEMES:END -->
+ - 🚖 [Men are important too .](http://9gag.com/gag/a81A9ZQ)
+ - 🚯 [Different songs you can do CPR to](http://9gag.com/gag/adgvwqj)
+ - 🚯 [President Zelensky posted another video, which he recorded in the yard of the President&#39;s Office `It&#39;s snowing. That\u2019s the spring we got. The spring this year is like this war. Severe. But everything will be fine. We will win`, \u2014 said the president.](http://9gag.com/gag/aGzL5Mw)<!-- MEMES:END -->
 
 --- 
 
