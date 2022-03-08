@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Comedic Adventure, What Lies in the Multiverse, Available Now](https://news.xbox.com/en-us/2022/03/08/what-lies-in-the-multiverse-available-now/)
- - [As Russian forces attack cities in Ukraine, some game developers volunteer to fight](https://www.polygon.com/22967192/ukraine-game-developers-russian-putin-war-kharkiv-chernihiv-nuclear-no-fly-zone)
- - [Get this RTX 3060 gaming laptop for just £720 right now](https://www.pcgamer.com/get-this-rtx-3060-gaming-laptop-for-just-pound720-right-now)<!-- GAME:END -->
+ - [Hundred Bullets, Re-inventing Shmups](https://news.xbox.com/en-us/2022/03/08/hundred-bullets-re-inventing-shmups/)
+ - [The anime that inspired Turning Red, according to director Domee Shi](https://www.polygon.com/22947922/turning-red-pixar-anime-influences)
+ - [Pre-load GTAV and GTA Online on PS5](https://blog.playstation.com/2022/03/08/pre-load-gtav-and-gta-online-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
