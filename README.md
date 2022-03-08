@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gollumdog at your service](http://9gag.com/gag/ay9qrj8)
- - 🚯 [When ball is life !](http://9gag.com/gag/aM4d74P)
+ - 🚖 [Core Memory](http://9gag.com/gag/aQXgKwe)
+ - 🚯 [Rapper Dizzee Rascal smashing a reporter&#39;s camera right after being declared guilty for assaulting the mother of his children.](http://9gag.com/gag/aGzLqm7)
  - 🚯 [Meh!](http://9gag.com/gag/aXrL3W6)<!-- MEMES:END -->
 
 --- 
