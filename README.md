@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Samurai country is coming](http://9gag.com/gag/aeg4wLO)
- - 🚯 [Mass confusion](http://9gag.com/gag/aVxg5qK)
- - 🚯 [King Kong?](http://9gag.com/gag/amgWZ0v)<!-- MEMES:END -->
+ - 🚖 [I was already asked about it.... I hope that the idiots realize that it has no correlation to the war.](http://9gag.com/gag/aAGQA9Z)
+ - 🚯 [Who remembers this house\u2026?](http://9gag.com/gag/aeg4BAW)
+ - 🚯 [Think twice, before you support any side.](http://9gag.com/gag/aM4dL61)<!-- MEMES:END -->
 
 --- 
 
