@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looney Tunes irl](http://9gag.com/gag/aWgpP8d)
- - 🚯 [Python in a Nutshell](http://9gag.com/gag/aze5z2b)
- - 🚯 [Finally some good news people sony is releasing a new walkman](http://9gag.com/gag/aXrLQpg)<!-- MEMES:END -->
+ - 🚖 [Nice design](http://9gag.com/gag/amgWyv4)
+ - 🚯 [And probably no time to make it](http://9gag.com/gag/aqGROW7)
+ - 🚯 [They&#39;re using ice cream trucks now lmao](http://9gag.com/gag/angO0wL)<!-- MEMES:END -->
 
 --- 
 
