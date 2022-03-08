@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA V’s New-Gen Version Is $10 Cheaper On PS5 Than Xbox Series X](https://kotaku.com/gta-5-ps5-upgrade-price-file-save-transfer-xbox-series-1848621926)
- - [Critical Role’s first major D&amp;D adventure book set in Exandria includes a compelling cast](https://www.polygon.com/22967022/critical-role-call-of-the-netherdeep-adventure-preview-ayo-jabe-release-date-price)
- - [A brand new commentary team is coming to MLB The Show 22](https://blog.playstation.com/2022/03/08/a-brand-new-commentary-team-is-coming-to-mlb-the-show-22/)<!-- GAME:END -->
+ - [Spring Games Spotlight 2022 – Over 40 New Games Coming to Xbox](https://news.xbox.com/en-us/2022/03/08/spring-games-spotlight-2022/)
+ - [Corsair&#39;s released a rival to PCPartPicker that completely misses the point](https://www.pcgamer.com/corsairs-released-a-rival-to-pcpartpicker-that-completely-misses-the-point)
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
