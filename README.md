@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Celebrates International Women’s Day in Support of Women in Gaming](https://news.xbox.com/en-us/2022/03/08/xbox-celebrates-international-womens-day-2022/)
  - [After two years of cancelations, PAX Australia is trying again in 2022](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)
- - [AMD is working on a fix to address intermittent fTPM performance issues](https://www.pcgamer.com/amd-is-working-on-a-fix-to-address-intermittent-ftpm-performance-issues)
- - [Nvidia may sell 3000 series GPUs alongside next gen](https://www.pcgamer.com/nvidia-may-sell-3000-series-gpus-alongside-next-gen)<!-- GAME:END -->
+ - [AMD is working on a fix to address intermittent fTPM performance issues](https://www.pcgamer.com/amd-is-working-on-a-fix-to-address-intermittent-ftpm-performance-issues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
