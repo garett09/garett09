@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linux developers fix Dirty Pipe, a high-severity vulnerability in the kernel that let hackers carry out a host of malicious actions, like installing backdoors &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220308/p4#a220308p4)
  - [The Samsung Galaxy F23 brings four years of security updates for under $250](https://www.androidauthority.com/samsung-galaxy-f23-3130773/)
- - [Axonius, which provides a cybersecurity asset management service that helps companies analyze IT resources, raises $200M at a $2.6B valuation led by Accel &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220308/p3#a220308p3)
- - [The March Google Pixel update also squashes a long list of bugs](https://www.androidauthority.com/google-pixel-march-update-bug-fixes-3130771/)<!-- TECH:END -->
+ - [Axonius, which provides a cybersecurity asset management service that helps companies analyze IT resources, raises $200M at a $2.6B valuation led by Accel &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220308/p3#a220308p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
