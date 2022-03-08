@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [La puta, eso?](http://9gag.com/gag/aWgpy6q)
- - 🚯 [Run Forest Run..](http://9gag.com/gag/aGzLqQw)
- - 🚯 [Someone had to be blame](http://9gag.com/gag/aLvL3oA)<!-- MEMES:END -->
+ - 🚖 [Someone had to be blame](http://9gag.com/gag/aLvL3oA)
+ - 🚯 [La puta, eso?](http://9gag.com/gag/aWgpy6q)
+ - 🚯 [Python in a Nutshell](http://9gag.com/gag/aze5z2b)<!-- MEMES:END -->
 
 --- 
 
