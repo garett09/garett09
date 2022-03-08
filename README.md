@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify and Discord are coming back online after outages](https://www.theverge.com/2022/3/8/22967531/spotify-discord-logout-outage-offline-server-problem)
- - [Apple seeds macOS Monterey 12.3 Release Candidate developer beta](https://appleinsider.com/articles/22/03/08/apple-seeds-macos-monterey-123-release-candidate-developer-beta?utm_medium=rss)
- - [Apple TV+ &#39;Friday Night Baseball&#39; offers weekly game streams](https://appleinsider.com/articles/22/03/08/apple-tv-friday-night-baseball-offers-weekly-game-streams?utm_medium=rss)<!-- TECH:END -->
+ - [Apple brings the darkness back to its peripherals with a black trackpad](https://www.theverge.com/2022/3/8/22967472/apple-black-magic-trackpad-peripherals-mouse-charging)
+ - [Apple announces the third-generation iPhone SE with 5G &amp; A15 Bionic](https://appleinsider.com/articles/22/03/08/apple-announces-the-third-generation-iphone-se?utm_medium=rss)
+ - [After an over 12-year run, Apple has discontinued the 27-inch iMac](https://appleinsider.com/articles/22/03/08/after-an-over-12-year-run-apple-has-discontinued-the-27-inch-imac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
