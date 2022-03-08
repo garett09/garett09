@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 13 and 13 Pro each get green finishes](https://www.theverge.com/2022/3/8/22959215/apple-iphone-13-mini-new-colors-green-alpine-price-release-date)
- - [Apple announces affordable iPhone SE with latest processor](https://www.theverge.com/2022/3/8/22959072/iphone-se-3-price-screen-specs-features-release-date-a15-bionic-5g)
- - [Apple announces the third-generation iPhone SE](https://appleinsider.com/articles/22/03/08/apple-announces-the-third-generation-iphone-se?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches the 27-inch Apple Studio Display with 5K, speakers, camera](https://appleinsider.com/articles/22/03/08/apple-launches-the-27-inch-apple-studio-display-with-5k-speakers-camera?utm_medium=rss)
+ - [Apple unveils Studio Display, a 27-inch 5K resolution monitor with an A13 Bionic chip, a 12MP ultra-wide camera with Center Stage support, and six speakers &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220308/p24#a220308p24)
+ - [Spotify and Discord are down](https://www.theverge.com/2022/3/8/22967531/spotify-discord-logout-outage-offline-server-problem)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
