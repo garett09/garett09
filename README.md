@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Itch.io&#39;s &#39;Bundle for Ukraine&#39; fundraiser offers nearly 1,000 games for your donation](https://www.pcgamer.com/itchios-bundle-for-ukraine-fundraiser-offers-nearly-1000-games-for-your-donation)
  - [Report: Amazon Wants To Make A God Of War TV Show](https://kotaku.com/god-of-war-amazon-tv-playstation-sony-kratos-series-str-1848619214)
- - [$10 Bundle Gets You $6500 Worth Of Games/Music/Books, Helps Ukraine](https://kotaku.com/ukraine-video-games-charity-bundle-indie-russia-war-inv-1848619901)
- - [Bethesda is working on a &#39;five-year roadmap&#39; for Fallout 76](https://www.pcgamer.com/bethesda-is-working-on-a-five-year-roadmap-for-fallout-76)<!-- GAME:END -->
+ - [$10 Bundle Gets You $6500 Worth Of Games/Music/Books, Helps Ukraine](https://kotaku.com/ukraine-video-games-charity-bundle-indie-russia-war-inv-1848619901)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
