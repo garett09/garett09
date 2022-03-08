@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: investments in Middle East and North Africa tech startups, excluding Israel, rose to $2.87B in 2021, up from $654M in 2020, with half going to the UAE &lpar;Rory Jones/Wall Street Journal&rpar;](http://www.techmeme.com/220308/p1#a220308p1)
- - [Android 12L: Everything you need to know about Google’s OS for larger screens](https://www.androidauthority.com/android-12l-3047080/)
- - [Critical Bugs Expose Hundreds of Thousands of Medical Devices](https://www.wired.com/story/access7-iot-vulnerabilities-medical-devices-atms)<!-- TECH:END -->
+ - [Sanctions by US tech companies on Russia may have unintended consequences in India; the West could use chips as leverage to compel China to not sell to Russia &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220308/p2#a220308p2)
+ - [You told us: Most of you are subscribed to YouTube Premium](https://www.androidauthority.com/youtube-premium-subscribe-poll-results-3130765/)
+ - [Research: investments in Middle East and North Africa tech startups, excluding Israel, rose to $2.87B in 2021, up from $654M in 2020, with half going to the UAE &lpar;Rory Jones/Wall Street Journal&rpar;](http://www.techmeme.com/220308/p1#a220308p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
