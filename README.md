@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings the darkness back to its peripherals with a black trackpad](https://www.theverge.com/2022/3/8/22967472/apple-black-magic-trackpad-peripherals-mouse-charging)
- - [Apple announces the third-generation iPhone SE with 5G &amp; A15 Bionic](https://appleinsider.com/articles/22/03/08/apple-announces-the-third-generation-iphone-se?utm_medium=rss)
- - [After an over 12-year run, Apple has discontinued the 27-inch iMac](https://appleinsider.com/articles/22/03/08/after-an-over-12-year-run-apple-has-discontinued-the-27-inch-imac?utm_medium=rss)<!-- TECH:END -->
+ - [The new iPhone SE has a larger battery than the old one](https://www.theverge.com/2022/3/8/22967821/iphone-se-third-generation-larger-battery)
+ - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)
+ - [Better.com employees were informed of its latest layoffs via severance checks](https://www.theverge.com/2022/3/8/22967171/better-employees-latest-layoffs-severance-checks-vishal-garg)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
