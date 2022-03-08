@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hate this shit](http://9gag.com/gag/aBnZ5dN)
+ - 🚖 [Different songs you can do CPR to](http://9gag.com/gag/adgvwqj)
  - 🚯 [Rare combat footage of Ukrainian soldiers using UK-supplied NLAW; note how the missile just avoids the top of the building.](http://9gag.com/gag/awzg2zx)
- - 🚯 [Different songs you can do CPR to](http://9gag.com/gag/adgvwqj)<!-- MEMES:END -->
+ - 🚯 [Hate this shit](http://9gag.com/gag/aBnZ5dN)<!-- MEMES:END -->
 
 --- 
 
