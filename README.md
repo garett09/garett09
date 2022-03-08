@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Destroyed convoy with ~30 vehicles. Location unknown.](http://9gag.com/gag/aKm1n0j)
- - 🚯 [Who could he be?](http://9gag.com/gag/aWgpP23)
- - 🚯 [Not ok](http://9gag.com/gag/abgeK8p)<!-- MEMES:END -->
+ - 🚖 [Not ok](http://9gag.com/gag/abgeK8p)
+ - 🚯 [Looney Tunes irl](http://9gag.com/gag/aWgpP8d)
+ - 🚯 [They&#39;re using ice cream trucks now lmao](http://9gag.com/gag/angO0wL)<!-- MEMES:END -->
 
 --- 
 
