@@ -197,7 +197,7 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you lay down in bed after heavy drinking and you try to fight it instead of puking in the toilet](http://9gag.com/gag/aeg4qDQ)
+ - 🚖 [Destroyed convoy with ~30 vehicles. Location unknown.](http://9gag.com/gag/aKm1n0j)
  - 🚯 [Who could he be?](http://9gag.com/gag/aWgpP23)
  - 🚯 [Not ok](http://9gag.com/gag/abgeK8p)<!-- MEMES:END -->
 
