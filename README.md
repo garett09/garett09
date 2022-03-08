@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Run Forest Run..](http://9gag.com/gag/aGzLqQw)
- - 🚯 [Some exclusive recent footage from the eyes of the Bayraktar TB2 drone in the hands of the Ukrainian military. A BUK-M2 mobile SAM system, part of the infamous convoy near Kyiv, completely destroyed.](http://9gag.com/gag/a41nB4d)
- - 🚯 [Nobody reads this](http://9gag.com/gag/aBnZMGA)<!-- MEMES:END -->
+ - 🚖 [La puta, eso?](http://9gag.com/gag/aWgpy6q)
+ - 🚯 [Run Forest Run..](http://9gag.com/gag/aGzLqQw)
+ - 🚯 [Someone had to be blame](http://9gag.com/gag/aLvL3oA)<!-- MEMES:END -->
 
 --- 
 
