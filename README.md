@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am sure it was posted on here before but should be shared everywhere, daily.](http://9gag.com/gag/aBnZAxN)
- - 🚯 [Think twice, before you support any side.](http://9gag.com/gag/aM4dL61)
- - 🚯 [Augmented reality](http://9gag.com/gag/aE8M45p)<!-- MEMES:END -->
+ - 🚖 [Chasing a cruise missile mid-air. It travels at 500mph, which is why the jet is easily able to keep up with it.](http://9gag.com/gag/aYrG3wO)
+ - 🚯 [I am sure it was posted on here before but should be shared everywhere, daily.](http://9gag.com/gag/aBnZAxN)
+ - 🚯 [Where super-soldier ?](http://9gag.com/gag/aYrG0vV)<!-- MEMES:END -->
 
 --- 
 
