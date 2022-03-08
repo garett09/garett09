@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian women](http://9gag.com/gag/aYrGnEw)
+ - 🚖 [When you lay down in bed after heavy drinking and you try to fight it instead of puking in the toilet](http://9gag.com/gag/aeg4qDQ)
  - 🚯 [Who could he be?](http://9gag.com/gag/aWgpP23)
- - 🚯 [The worst part of the game...](http://9gag.com/gag/axBWnPp)<!-- MEMES:END -->
+ - 🚯 [Not ok](http://9gag.com/gag/abgeK8p)<!-- MEMES:END -->
 
 --- 
 
