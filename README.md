@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modder brings Pokémon Scarlet and Violet starters to Animal Crossing](https://www.polygon.com/22967907/pokemon-scarlet-pokemon-violet-starters-animal-crossing-mod)
  - [More Activision Blizzard stockholders sue over Microsoft sale](https://www.polygon.com/22949594/activision-blizzard-shareholder-lawsuit-sec-violation)
- - [The Bundle for Ukraine raises over $1.6M in less than a day](https://www.pcgamer.com/the-bundle-for-ukraine-raises-over-dollar16m-in-less-than-a-day)
- - [You Can Actually Pause Elden Ring Without Mods](https://kotaku.com/elden-ring-fromsoftware-pause-menu-dark-souls-bloodborn-1848624463)<!-- GAME:END -->
+ - [The Bundle for Ukraine raises over $1.6M in less than a day](https://www.pcgamer.com/the-bundle-for-ukraine-raises-over-dollar16m-in-less-than-a-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
