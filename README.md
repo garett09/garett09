@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms $5.4 billion acquisition of Mandiant cybersecurity firm](https://appleinsider.com/articles/22/03/08/google-confirms-54-billion-acquisition-of-mandiant-cybersecurity-firm?utm_medium=rss)
- - [Google is buying the cybersecurity company that uncovered the SolarWinds hack](https://www.theverge.com/2022/3/8/22966907/google-buying-mandiant-cybersecurity-outfit-5-4-billion)
- - [How to tag someone on Instagram](https://www.androidauthority.com/tagging-people-instagram-3130612/)<!-- TECH:END -->
+ - [Apple Store down ahead of &#39;Peek performance&#39; event](https://appleinsider.com/articles/22/03/08/apple-store-down-ahead-of-peek-performance-event?utm_medium=rss)
+ - [&#39;iPad Air 5&#39; rumored to have 8GB RAM, 128GB storage, Apple Silicon M1 processor](https://appleinsider.com/articles/22/03/08/ipad-air-5-rumored-to-have-8gb-ram-128gb-storage?utm_medium=rss)
+ - [How to zoom in or out on a Chromebook](https://www.androidauthority.com/zoom-in-out-chromebook-3126707/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
