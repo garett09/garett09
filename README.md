@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Katsucon 2022](https://kotaku.com/katsucon-2022-cosplay-photos-video-cosplayers-conventio-1848619654)
- - [Itch.io&#39;s &#39;Bundle for Ukraine&#39; fundraiser offers nearly 1,000 games for your donation](https://www.pcgamer.com/itchios-bundle-for-ukraine-fundraiser-offers-nearly-1000-games-for-your-donation)
- - [Report: Amazon Wants To Make A God Of War TV Show](https://kotaku.com/god-of-war-amazon-tv-playstation-sony-kratos-series-str-1848619214)<!-- GAME:END -->
+ - [AMD is working on a fix to address intermittent fTPM performance issues](https://www.pcgamer.com/amd-is-working-on-a-fix-to-address-intermittent-ftpm-performance-issues)
+ - [Nvidia may sell 3000 series GPUs alongside next gen](https://www.pcgamer.com/nvidia-may-sell-3000-series-gpus-alongside-next-gen)
+ - [This Chinese motherboard supports DDR4 and DDR5 RAM](https://www.pcgamer.com/this-chinese-motherboard-supports-ddr4-and-ddr5-ram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
