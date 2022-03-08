@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t you dare make another Batman movie without Robin](https://www.polygon.com/22966230/batman-movie-sequel-robin)
- - [State of Play returns this Wednesday](https://blog.playstation.com/2022/03/08/state-of-play-returns-this-wednesday/)
- - [State of Play returns this Wednesday](https://blog.playstation.com/2022/03/08/state-of-play-returns-this-wednesday/)<!-- GAME:END -->
+ - [GTA V’s New-Gen Version Is $10 Cheaper On PS5 Than Xbox Series X](https://kotaku.com/gta-5-ps5-upgrade-price-file-save-transfer-xbox-series-1848621926)
+ - [Critical Role’s first major D&amp;D adventure book set in Exandria includes a compelling cast](https://www.polygon.com/22967022/critical-role-call-of-the-netherdeep-adventure-preview-ayo-jabe-release-date-price)
+ - [A brand new commentary team is coming to MLB The Show 22](https://blog.playstation.com/2022/03/08/a-brand-new-commentary-team-is-coming-to-mlb-the-show-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
