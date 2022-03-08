@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sadako From The Ring Is Now A YouTuber](https://kotaku.com/the-ring-ringu-sadako-japanese-horror-j-horror-youtube-1848620825)
- - [Xbox Celebrates International Women’s Day in Support of Women in Gaming](https://news.xbox.com/en-us/2022/03/08/xbox-celebrates-international-womens-day-2022/)
- - [After two years of cancelations, PAX Australia is trying again in 2022](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)<!-- GAME:END -->
+ - [Twitch Withholding Payments For Russian Streamers](https://kotaku.com/twitch-streaming-streamers-russia-ukraine-war-sanctions-1848620871)
+ - [Final Fantasy 14 is currently broken for the majority of Steam users](https://www.pcgamer.com/final-fantasy-14-is-currently-broken-for-the-majority-of-steam-users)
+ - [Elden Ring&#39;s invasions have turned me into a monster](https://www.pcgamer.com/elden-rings-invasions-have-turned-me-into-a-monster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
