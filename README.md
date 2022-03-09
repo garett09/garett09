@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)
- - 🚯 [We are all in this together!](http://9gag.com/gag/arn31pX)
- - 🚯 [Stone grinding bowl](http://9gag.com/gag/aqGRvN7)<!-- MEMES:END -->
+ - 🚖 [The Ukrainian troops captured a Russian 120mm towed howitzer. This soldier was quite shocked at the poor condition of the gun.](http://9gag.com/gag/aBnZDWN)
+ - 🚯 [This guy&#39;s workout routine](http://9gag.com/gag/a916j71)
+ - 🚯 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)<!-- MEMES:END -->
 
 --- 
 
