@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights is finally releasing in October](https://www.pcgamer.com/gotham-knights-is-finally-releasing-in-october)
- - [Sega And Koei Tecmo Donate To Humanitarian Efforts In Ukraine](https://kotaku.com/ukraine-russia-humanitarian-war-sega-koei-tecmo-japan-g-1848626811)
- - [A Musical Story review](https://www.pcgamer.com/a-musical-story-review)<!-- GAME:END -->
+ - [Spring Has Sprung in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/03/09/spring-has-sprung-in-phantasy-star-online-2-new-genesis/)
+ - [Watch Sony’s new State of Play here for the latest on PS5 games](https://www.polygon.com/22968961/sony-state-of-play-time-march-2022-date-time-how-to-watch)
+ - [Elden Ring Pro Beats Game In About Two Hours Without Dying Once](https://kotaku.com/elden-ring-no-death-two-hour-speedrun-fromsoftware-ps5-1848628030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
