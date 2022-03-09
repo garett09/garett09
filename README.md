@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Savings and investing app Acorns raises a $300M Series F at a nearly $2B valuation led by TPG, six weeks after shelving its SPAC plans &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220309/p14#a220309p14)
- - [Carl Pei&#39;s Nothing raises a $70M Series B to create smartphones with Qualcomm and expand in London; the company will host a product event on March 23 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220309/p13#a220309p13)
- - [Apple&#39;s MLB deal is good for Apple TV+, but making a bad situation worse for baseball fans](https://appleinsider.com/articles/22/03/09/apples-mlb-deal-is-good-for-apple-tv-but-making-a-bad-situation-worse-for-baseball-fans?utm_medium=rss)<!-- TECH:END -->
+ - [Still on Facebook? Here’s How to Create Those New Reels](https://www.wired.com/story/how-to-use-facebook-reels)
+ - [Tin Man: photography using an old-fashioned tintype process](https://www.theverge.com/22960046/tin-man-tintype-photographs-wetplate-digital-camera)
+ - [Apple’s new M1 Ultra aims to beat Nvidia’s RTX 3090](https://www.theverge.com/2022/3/9/22968611/apple-m1-ultra-gpu-nvidia-rtx-3090-comparison)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
