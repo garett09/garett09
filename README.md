@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder brings Pokémon Scarlet and Violet starters to Animal Crossing](https://www.polygon.com/22967907/pokemon-scarlet-pokemon-violet-starters-animal-crossing-mod)
- - [More Activision Blizzard stockholders sue over Microsoft sale](https://www.polygon.com/22949594/activision-blizzard-shareholder-lawsuit-sec-violation)
- - [The Bundle for Ukraine raises over $1.6M in less than a day](https://www.pcgamer.com/the-bundle-for-ukraine-raises-over-dollar16m-in-less-than-a-day)<!-- GAME:END -->
+ - [Only One Of Mario&#39;s Hats Is &#39;Pure&#39; Red](https://kotaku.com/super-mario-64-nintendo-bros-hex-web-color-red-n64-smas-1848624883)
+ - [Some of Elden Ring&#39;s best moments are buried deep underground](https://www.pcgamer.com/some-of-elden-rings-best-moments-are-buried-deep-underground)
+ - [Stranger of Paradise: Final Fantasy Origin system requirements are very forgiving](https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
