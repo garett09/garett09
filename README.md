@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What to know about Star Wars’ Inquisitors](https://www.polygon.com/22969575/star-wars-inquisitors-explained)
- - [The first Star Trek: Strange New Worlds teaser brings Captain Pike back into action](https://www.polygon.com/2022/3/9/22969464/star-trek-strange-new-worlds-teaser-anson-mount-captain-pike)
- - [Kotaku&#39;s Three Episode Test: Requiem of the Rose King](https://kotaku.com/kotakus-three-episode-test-requiem-of-the-rose-king-1848628234)<!-- GAME:END -->
+ - [Stranger of Paradise Final Fantasy Origin demo available today on PS5, PS4](https://www.polygon.com/22969257/stranger-of-paradise-final-fantasy-origin-demo-ps5-ps4)
+ - [DC completely shakes up its 2022 movie calendar](https://www.polygon.com/22969538/aquaman-2-flash-black-adam-release-date-delayed-shazam-2)
+ - [A Brand-new Commentary Team is Coming to MLB The Show 22](https://news.xbox.com/en-us/2022/03/09/a-brand-new-commentary-team-is-coming-to-mlb-the-show-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
