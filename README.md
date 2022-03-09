@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian invaders are now stealing chicken and eggs. Russia are you ok?](http://9gag.com/gag/ajg1QBp)
- - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)
- - 🚯 [This guy&#39;s workout routine](http://9gag.com/gag/a916j71)<!-- MEMES:END -->
+ - 🚖 [This guy&#39;s workout routine](http://9gag.com/gag/a916j71)
+ - 🚯 [No info where but it was between yesterday and today](http://9gag.com/gag/aeg1Npj)
+ - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)<!-- MEMES:END -->
 
 --- 
 
