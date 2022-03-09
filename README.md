@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Arc Alchemist cards slip to a May-June release timeframe](https://www.pcgamer.com/intels-arc-alchemist-cards-slip-to-a-may-june-release-timeframe)
- - [Activision Stock Shenanigans Being Investigated By Justice Department, SEC](https://kotaku.com/activision-bobby-kotick-david-geffen-barry-diller-sec-j-1848626232)
- - [Our favourite Secretlab gaming chairs are discounted in this Labour day sale](https://www.pcgamer.com/our-favourite-secretlab-gaming-chairs-are-discounted-in-this-labour-day-sale)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok – How to use the Hugr-Rip](https://www.pcgamer.com/assassins-creed-ac-valhalla-hugr-rip-guide)
+ - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok shelters guide](https://www.pcgamer.com/assassins-creed-ac-valhalla-shelters-guide)
+ - [Where to find the cursed armour of Hreidmar in Assassin&#39;s Creed Valhalla: Dawn of Ragnarok](https://www.pcgamer.com/assassins-creed-ac-valhalla-cursed-armor-of-hreidmar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
