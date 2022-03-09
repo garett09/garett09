@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung answers questions about throttling in Galaxy S22 and other flagships](https://www.androidauthority.com/samsung-gos-faq-3130847/)
  - [Tern announces a more affordable version of its popular electric cargo bike](https://www.theverge.com/2022/3/9/22967229/tern-quick-haul-electric-cargo-bike-price-specs)
- - [The redesigned MacBook Air might have an M1, not an M2](https://www.theverge.com/2022/3/9/22968489/m2-macbook-air-redesign-m1-ming-chi-kuo)
- - [How Denton, Texas, which is $140M in debt after a 2021 winter storm, agreed to a crypto mine at its natural gas power plant for millions in annual revenue &lpar;Sarah Emerson/BuzzFeed News&rpar;](http://www.techmeme.com/220309/p1#a220309p1)<!-- TECH:END -->
+ - [The redesigned MacBook Air might have an M1, not an M2](https://www.theverge.com/2022/3/9/22968489/m2-macbook-air-redesign-m1-ming-chi-kuo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
