@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Only One Of Mario&#39;s Hats Is &#39;Pure&#39; Red](https://kotaku.com/super-mario-64-nintendo-bros-hex-web-color-red-n64-smas-1848624883)
- - [Some of Elden Ring&#39;s best moments are buried deep underground](https://www.pcgamer.com/some-of-elden-rings-best-moments-are-buried-deep-underground)
- - [Stranger of Paradise: Final Fantasy Origin system requirements are very forgiving](https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-system-requirements)<!-- GAME:END -->
+ - [12 Elden Ring tips for surviving the Lands Between](https://www.pcgamer.com/elden-ring-tips-guide)
+ - [The Art Of Destiny 2: The Witch Queen](https://kotaku.com/destiny-2-witch-queen-bungie-expansion-concept-art-sket-1848625449)
+ - [Lost Ark now has over 20 million players globally](https://www.pcgamer.com/lost-ark-now-has-over-20-million-players-globally)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
