@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two Austrian entrepreneurs acquire LimeWire, the controversial music sharing service shuttered in 2010, and plan to relaunch it as a music-focused NFT service &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220309/p4#a220309p4)
- - [Oslo-based Ardoq, which helps companies manage network architecture, raises a $125M Series D, sources say at a $300M valuation, led by EQT Growth &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220309/p3#a220309p3)
- - [2015’s FairPhone 2 now has a new stable Android update &lpar;for the last time&rpar;](https://www.androidauthority.com/fairphone-2-stable-android-10-update-3132252/)<!-- TECH:END -->
+ - [Now that Disney Plus is trying ads, how long until the rest of the streamers do, too?](https://www.theverge.com/2022/3/9/22967831/disney-plus-ads-hbo-max-hulu-streaming)
+ - [An in-depth look at Apple&#39;s M1 Ultra: combines two M1 Max chips using UltraFusion, 800GB/second memory bandwidth, 64 GPU cores to exceed the RTX 3090, and more &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220309/p8#a220309p8)
+ - [Weight Watchers agree to pay a $1.5M penalty for illegally collecting personal information from kids without parental consent through its Kurbo app &lpar;Claire Fahy/New York Times&rpar;](http://www.techmeme.com/220309/p7#a220309p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
