@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds new black and silver Magic Keyboard, Trackpad, and Mouse](https://appleinsider.com/articles/22/03/08/apple-adds-new-black-and-silver-magic-keyboard-trackpad-and-mouse?utm_medium=rss)
- - [Fully loaded Mac Studio costs just $7999, more powerful than similarly priced Mac Pro](https://appleinsider.com/articles/22/03/08/fully-loaded-mac-studio-costs-just-7999-more-powerful-than-similarly-priced-mac-pro?utm_medium=rss)
- - [Apple teases new filmmaking tools coming to iMovie in April](https://appleinsider.com/articles/22/03/09/apple-teases-new-filmmaking-tools-coming-to-imovie-in-april?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)
+ - [Though marketed as a 5G iPhone, the new iPhone SE won&#39;t support mmWave 5G, and AT&amp;T says it won&#39;t be able to use its upcoming 3.45GHz 5G network &lpar;Sascha Segan/PCMag&rpar;](http://www.techmeme.com/220308/p38#a220308p38)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/news/the-best-sci-fi-tv-shows-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
