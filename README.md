@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger of Paradise Final Fantasy Origin demo available today on PS5, PS4](https://www.polygon.com/22969257/stranger-of-paradise-final-fantasy-origin-demo-ps5-ps4)
- - [DC completely shakes up its 2022 movie calendar](https://www.polygon.com/22969538/aquaman-2-flash-black-adam-release-date-delayed-shazam-2)
- - [A Brand-new Commentary Team is Coming to MLB The Show 22](https://news.xbox.com/en-us/2022/03/09/a-brand-new-commentary-team-is-coming-to-mlb-the-show-22/)<!-- GAME:END -->
+ - [Valkyrie Elysium is a new action-focused sequel to Valkyrie Profile](https://www.polygon.com/22969786/valkyrie-elysium-announcement-trailer-square-enix-ps5-ps4-pc)
+ - [Fighting game JoJo’s Bizarre Adventure: All Star Battle is getting a remake](https://www.polygon.com/22969754/jojos-bizarre-adventure-all-star-battle-remake-playstation)
+ - [Capcom&#39;s Cool New Action Game Pits Exosuits Against Endless Dinos](https://kotaku.com/capcom-exoprimal-dinosaurs-state-of-play-ps5-ps4-playst-1848631508)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
