@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am sure it was posted on here before but should be shared everywhere, daily.](http://9gag.com/gag/aBnZAxN)
- - 🚯 [Imagine following gravitational laws...](http://9gag.com/gag/a11737Y)
- - 🚯 [Multiverse](http://9gag.com/gag/aVxgAM8)<!-- MEMES:END -->
+ - 🚖 [Sorry mom](http://9gag.com/gag/aXrLBNz)
+ - 🚯 [A Ukrainian policeman in Irpen says goodbye to his son and wife, who are taken to a safe place.](http://9gag.com/gag/a41nXp6)
+ - 🚯 [Never underestimate your opponent](http://9gag.com/gag/a41nXGy)<!-- MEMES:END -->
 
 --- 
 
