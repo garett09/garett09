@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark is the rare MMO that gets endgame right](https://www.polygon.com/reviews/22967796/lost-ark-review-pc)
- - [Gotham Knights launches in October](https://www.polygon.com/22968807/gotham-knights-release-date-2022-batman-arkhamverse)
- - [Where Was Kotaku Last Week?](https://kotaku.com/kotaku-gmg-union-strike-resolved-victory-labor-picket-l-1848624502)<!-- GAME:END -->
+ - [Gotham Knights is finally releasing in October](https://www.pcgamer.com/gotham-knights-is-finally-releasing-in-october)
+ - [Sega And Koei Tecmo Donate To Humanitarian Efforts In Ukraine](https://kotaku.com/ukraine-russia-humanitarian-war-sega-koei-tecmo-japan-g-1848626811)
+ - [A Musical Story review](https://www.pcgamer.com/a-musical-story-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
