@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [N64 classic F-Zero X comes to Switch this week with online play](https://www.theverge.com/2022/3/9/22968406/f-zero-x-nintendo-switch-online-release-date)
  - [As Western tech companies react to sanctions, Russian streamers on Twitch, gig workers on Upwork, and creators on OnlyFans have all lost their livelihoods &lpar;Washington Post&rpar;](http://www.techmeme.com/220308/p40#a220308p40)
- - [Why I&#39;m Locked in a $1,000 Death Race Against My Own Son     - CNET](https://www.cnet.com/news/why-im-locked-in-a-1000-death-race-against-my-own-son/#ftag=CAD590a51e)
- - [Don&#39;t Miss This Impressive Sci-Fi Mystery on Prime Video     - CNET](https://www.cnet.com/news/dont-miss-this-impressive-sci-fi-mystery-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why I&#39;m Locked in a $1,000 Death Race Against My Own Son     - CNET](https://www.cnet.com/news/why-im-locked-in-a-1000-death-race-against-my-own-son/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
