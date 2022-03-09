@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Riding bicycles on the highway](http://9gag.com/gag/avAWMDb)
- - 🚯 [Here\u2019s a good boy for a a little break in news](http://9gag.com/gag/aAGQoE0)
- - 🚯 [Ikr](http://9gag.com/gag/aeg4LDO)<!-- MEMES:END -->
+ - 🚖 [Man speaks the truth](http://9gag.com/gag/axBW54n)
+ - 🚯 [In Russia, the military enlistment office was burned to avoid being drafted to war in Ukraine](http://9gag.com/gag/aggQPEW)
+ - 🚯 [Come on Barbie let&#39;s go party](http://9gag.com/gag/aggQPxg)<!-- MEMES:END -->
 
 --- 
 
