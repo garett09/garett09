@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RuSSian police arrests a choir for... singing a song about peace...](http://9gag.com/gag/a91z3Rj)
- - 🚯 [What we love too from women](http://9gag.com/gag/abgej39)
- - 🚯 [Without background bollywood music](http://9gag.com/gag/aLvLyA6)<!-- MEMES:END -->
+ - 🚖 [Liv Tyler, Joaquin Phoenix &amp; Jennifer Connelly circa 1997.](http://9gag.com/gag/aAGQovd)
+ - 🚯 [Stone grinding bowl](http://9gag.com/gag/aqGRvN7)
+ - 🚯 [Way to go, Derrick!](http://9gag.com/gag/aeg4X6O)<!-- MEMES:END -->
 
 --- 
 
