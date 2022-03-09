@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now that Disney Plus is trying ads, how long until the rest of the streamers do, too?](https://www.theverge.com/2022/3/9/22967831/disney-plus-ads-hbo-max-hulu-streaming)
- - [An in-depth look at Apple&#39;s M1 Ultra: combines two M1 Max chips using UltraFusion, 800GB/second memory bandwidth, 64 GPU cores to exceed the RTX 3090, and more &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220309/p8#a220309p8)
- - [Weight Watchers agree to pay a $1.5M penalty for illegally collecting personal information from kids without parental consent through its Kurbo app &lpar;Claire Fahy/New York Times&rpar;](http://www.techmeme.com/220309/p7#a220309p7)<!-- TECH:END -->
+ - [Sources: bipartisan lawmakers on the House Judiciary Committee ask the DOJ to investigate Amazon and its executives over obstructing Congress&#39; antitrust probe &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220309/p11#a220309p11)
+ - [Another US internet backbone provider is shutting down services in Russia](https://www.theverge.com/2022/3/9/22968634/lumen-internet-backbone-provider-shutting-down-russia-digital-iron-curtain)
+ - [To Test Cancer Drugs, These Scientists Grew ‘Avatars’ of Tumors](https://www.wired.com/story/to-test-cancer-drugs-these-scientists-grew-avatars-of-tumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
