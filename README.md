@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Arc Alchemist cards slip to a May-June release timeframe](https://www.pcgamer.com/intels-arc-alchemist-cards-slip-to-a-may-june-release-timeframe)
  - [Activision Stock Shenanigans Being Investigated By Justice Department, SEC](https://kotaku.com/activision-bobby-kotick-david-geffen-barry-diller-sec-j-1848626232)
- - [Our favourite Secretlab gaming chairs are discounted in this Labour day sale](https://www.pcgamer.com/our-favourite-secretlab-gaming-chairs-are-discounted-in-this-labour-day-sale)
- - [The GeForce GTX 1060 is still the most popular GPU in Steam&#39;s latest hardware survey](https://www.pcgamer.com/the-geforce-gtx-1060-is-still-the-most-popular-gpu-in-steams-latest-hardware-survey)<!-- GAME:END -->
+ - [Our favourite Secretlab gaming chairs are discounted in this Labour day sale](https://www.pcgamer.com/our-favourite-secretlab-gaming-chairs-are-discounted-in-this-labour-day-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
