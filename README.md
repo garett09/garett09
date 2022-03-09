@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5G’s false start is over and the iPhone SE proves it](https://www.theverge.com/22968066/apple-iphone-se-5g-mmwave-verizon-uw)
- - [Tesla insists Autopilot and Full Self-Driving are safe, but US senators aren’t buying it](https://www.theverge.com/2022/3/9/22969297/tesla-autopilot-fsd-letter-safety-blumenthal-markey)
- - [Mac Studio with M1 ultra is heavier because of heat &amp; material choices](https://appleinsider.com/articles/22/03/09/mac-studio-with-m1-ultra-is-heavier-because-of-heat-material-choices?utm_medium=rss)<!-- TECH:END -->
+ - [Mac Studio with M1 ultra is heavier because of heat &amp; material choices](https://appleinsider.com/articles/22/03/09/mac-studio-with-m1-ultra-is-heavier-because-of-heat-material-choices?utm_medium=rss)
+ - [Get an up-close look at Apple&#39;s Mac Studio in augmented reality](https://appleinsider.com/articles/22/03/09/get-an-up-close-look-at-apples-mac-studio-in-augmented-reality?utm_medium=rss)
+ - [In its Q4 earnings on Tuesday, Bumble said it is discontinuing operations in Russia and leaving the Russian and Belarusian app stores; Bumble stock is up 40%+ &lpar;Michelle Ma/Protocol&rpar;](http://www.techmeme.com/220309/p30#a220309p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
