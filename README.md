@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ship of polar explorer Ernest Shackleton, the Endurance, was found in the Weddell Sea today! Looks to be intact after 97 years under the sea, 3000 meters down](http://9gag.com/gag/aze5NOj)
- - 🚯 [Im sickened but curious](http://9gag.com/gag/a117zjR)
- - 🚯 [He&#39;s right](http://9gag.com/gag/angOpZz)<!-- MEMES:END -->
+ - 🚖 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)
+ - 🚯 [We are all in this together!](http://9gag.com/gag/arn31pX)
+ - 🚯 [Stone grinding bowl](http://9gag.com/gag/aqGRvN7)<!-- MEMES:END -->
 
 --- 
 
