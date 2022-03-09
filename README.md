@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Volcanic eruption from above.](http://9gag.com/gag/a81APbV)
- - 🚯 [Come on Barbie let&#39;s go party](http://9gag.com/gag/aggQPxg)
- - 🚯 [In Russia, the military enlistment office was burned to avoid being drafted to war in Ukraine](http://9gag.com/gag/aggQPEW)<!-- MEMES:END -->
+ - 🚖 [RuSSian police arrests a choir for... singing a song about peace...](http://9gag.com/gag/a91z3Rj)
+ - 🚯 [What we love too from women](http://9gag.com/gag/abgej39)
+ - 🚯 [Without background bollywood music](http://9gag.com/gag/aLvLyA6)<!-- MEMES:END -->
 
 --- 
 
