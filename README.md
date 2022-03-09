@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [F-Zero X Joins Nintendo Switch Online This Week     - CNET](https://www.cnet.com/tech/gaming/f-zero-x-joins-nintendo-switch-online-this-week/#ftag=CAD590a51e)
- - [Compared: New 2022 iPad Air vs 2020 iPad Air](https://appleinsider.com/articles/22/03/08/compared-new-2022-ipad-air-vs-2020-ipad-air?utm_medium=rss)
- - [The Best Horror Movies on Netflix     - CNET](https://www.cnet.com/news/the-best-horror-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Western tech companies react to sanctions, Russian streamers on Twitch, gig workers on Upwork, and creators on OnlyFans have all lost their livelihoods &lpar;Washington Post&rpar;](http://www.techmeme.com/220308/p40#a220308p40)
+ - [Why I&#39;m Locked in a $1,000 Death Race Against My Own Son     - CNET](https://www.cnet.com/news/why-im-locked-in-a-1000-death-race-against-my-own-son/#ftag=CAD590a51e)
+ - [Don&#39;t Miss This Impressive Sci-Fi Mystery on Prime Video     - CNET](https://www.cnet.com/news/dont-miss-this-impressive-sci-fi-mystery-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
