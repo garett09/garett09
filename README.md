@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Liv Tyler, Joaquin Phoenix &amp; Jennifer Connelly circa 1997.](http://9gag.com/gag/aAGQovd)
- - 🚯 [Stone grinding bowl](http://9gag.com/gag/aqGRvN7)
- - 🚯 [Way to go, Derrick!](http://9gag.com/gag/aeg4X6O)<!-- MEMES:END -->
+ - 🚖 [The ship of polar explorer Ernest Shackleton, the Endurance, was found in the Weddell Sea today! Looks to be intact after 97 years under the sea, 3000 meters down](http://9gag.com/gag/aze5NOj)
+ - 🚯 [Im sickened but curious](http://9gag.com/gag/a117zjR)
+ - 🚯 [He&#39;s right](http://9gag.com/gag/angOpZz)<!-- MEMES:END -->
 
 --- 
 
