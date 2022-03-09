@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s block on Russia suspends shipments, Prime Video streaming, and New World MMO purchases](https://www.theverge.com/2022/3/9/22969220/amazon-russia-belarus-ukraine-invasion-prime-video-stops-sending-orders)
- - [Clipchamp is Microsoft’s new video editing app for Windows 11](https://www.theverge.com/2022/3/9/22969250/clipchamp-windows-11-microsoft-video-editing-app)
- - [The first trailer for Obi-Wan Kenobi teases the ultimate Star Wars rematch](https://www.theverge.com/2022/3/9/22927002/star-wars-obi-wan-kenobi-trailer-darth-vader-battle)<!-- TECH:END -->
+ - [5G’s false start is over and the iPhone SE proves it](https://www.theverge.com/22968066/apple-iphone-se-5g-mmwave-verizon-uw)
+ - [Tesla insists Autopilot and Full Self-Driving are safe, but US senators aren’t buying it](https://www.theverge.com/2022/3/9/22969297/tesla-autopilot-fsd-letter-safety-blumenthal-markey)
+ - [Mac Studio with M1 ultra is heavier because of heat &amp; material choices](https://appleinsider.com/articles/22/03/09/mac-studio-with-m1-ultra-is-heavier-because-of-heat-material-choices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
