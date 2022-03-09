@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s board of directors approve a 20-for-1 stock split and Amazon says it plans to buy back up to $10B in shares; stock rises 6% after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220309/p33#a220309p33)
- - [Android 101: how to tweak your multitasking pane](https://www.theverge.com/21495830/android-11-multitasking-pane-recent-apps-screenshots-google-how-to)
- - [Apple TV+ lands documentary on Formula One champ Lewis Hamilton](https://appleinsider.com/articles/22/03/09/apple-tv-lands-documentary-on-formula-one-champ-lewis-hamilton?utm_medium=rss)<!-- TECH:END -->
+ - [New Sonnet Thunderbolt dock adds USB-A, USB-C, and room for storage](https://appleinsider.com/articles/22/03/09/new-sonnet-thunderbolt-dock-adds-usb-a-usb-c-and-room-for-storage?utm_medium=rss)
+ - [Compared: New 2022 iPhone SE vs iPhone 13 mini](https://appleinsider.com/inside/iphone-se/vs/compared-new-2022-iphone-se-vs-iphone-13-mini?utm_medium=rss)
+ - [Hands on with Apple&#39;s new black and silver Magic Keyboard, Trackpad, and Mouse](https://appleinsider.com/articles/22/03/08/apple-adds-new-black-and-silver-magic-keyboard-trackpad-and-mouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
