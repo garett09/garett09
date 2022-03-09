@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kirby’s Horrifying New Mouthful Mode: Every Variant We’ve Seen So Far](https://kotaku.com/kirby-forgotten-land-mouthful-mode-car-switch-nintendo-1848629518)
  - [Watch the first trailer for Obi-Wan, the next Star Wars Disney Plus show](https://www.polygon.com/22927301/obi-wan-kenobi-trailer-star-wars-disney-plus)
- - [What we know about the first Unreal Engine 5 games in development](https://www.pcgamer.com/unreal-engine-5-games-in-development)
- - [Electronic Arts gets $11M loot box fine overturned](https://www.pcgamer.com/ea-gets-dollar11m-loot-box-fine-overturned)<!-- GAME:END -->
+ - [What we know about the first Unreal Engine 5 games in development](https://www.pcgamer.com/unreal-engine-5-games-in-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
