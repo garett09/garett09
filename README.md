@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby’s Horrifying New Mouthful Mode: Every Variant We’ve Seen So Far](https://kotaku.com/kirby-forgotten-land-mouthful-mode-car-switch-nintendo-1848629518)
- - [Watch the first trailer for Obi-Wan, the next Star Wars Disney Plus show](https://www.polygon.com/22927301/obi-wan-kenobi-trailer-star-wars-disney-plus)
- - [What we know about the first Unreal Engine 5 games in development](https://www.pcgamer.com/unreal-engine-5-games-in-development)<!-- GAME:END -->
+ - [What to know about Star Wars’ Inquisitors](https://www.polygon.com/22969575/star-wars-inquisitors-explained)
+ - [The first Star Trek: Strange New Worlds teaser brings Captain Pike back into action](https://www.polygon.com/2022/3/9/22969464/star-trek-strange-new-worlds-teaser-anson-mount-captain-pike)
+ - [Kotaku&#39;s Three Episode Test: Requiem of the Rose King](https://kotaku.com/kotakus-three-episode-test-requiem-of-the-rose-king-1848628234)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
