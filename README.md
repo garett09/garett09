@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It feels so stupid afterwards](http://9gag.com/gag/a117z4Y)
- - 🚯 [To many locks so little time](http://9gag.com/gag/avA12Bb)
- - 🚯 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)<!-- MEMES:END -->
+ - 🚖 [Getting ready for the holiday with the wife](http://9gag.com/gag/aBnZDN1)
+ - 🚯 [Ultrasonic dog repeller in action](http://9gag.com/gag/adg108d)
+ - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)<!-- MEMES:END -->
 
 --- 
 
