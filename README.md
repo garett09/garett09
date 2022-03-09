@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU accelerates plans to phase out Russian gas](https://www.theverge.com/2022/3/8/22967244/european-union-russia-clean-energy-transition-gas)
- - [Twitter is launching a Tor service for more secure and private tweeting](https://www.theverge.com/2022/3/8/22967843/twitter-tor-onion-service-version-launch)
- - [Apple&#39;s HomePod mini is now available in Belgium, Netherlands, Switzerland](https://appleinsider.com/articles/22/03/08/apples-homepod-mini-is-now-available-in-belgium-netherlands-switzerland?utm_medium=rss)<!-- TECH:END -->
+ - [Apple adds new black and silver Magic Keyboard, Trackpad, and Mouse](https://appleinsider.com/articles/22/03/08/apple-adds-new-black-and-silver-magic-keyboard-trackpad-and-mouse?utm_medium=rss)
+ - [Fully loaded Mac Studio costs just $7999, more powerful than similarly priced Mac Pro](https://appleinsider.com/articles/22/03/08/fully-loaded-mac-studio-costs-just-7999-more-powerful-than-similarly-priced-mac-pro?utm_medium=rss)
+ - [Apple teases new filmmaking tools coming to iMovie in April](https://appleinsider.com/articles/22/03/09/apple-teases-new-filmmaking-tools-coming-to-imovie-in-april?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
