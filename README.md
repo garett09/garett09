@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple explains why the M1 Ultra-equipped Mac Studio is two pounds heavier](https://www.theverge.com/2022/3/9/22969101/apple-mac-studio-m1-ultra-max-explains-weight-mystery)
- - [PopSockets launches iPhone grip with built-in battery](https://appleinsider.com/articles/22/03/09/popsockets-launches-iphone-grip-with-built-in-battery?utm_medium=rss)
- - [Compared: Apple Silicon M1 vs M1 Pro vs M1 Max vs M1 Ultra](https://appleinsider.com/articles/22/03/09/compared-apple-silicon-m1-vs-m1-pro-vs-m1-max-vs-m1-ultra?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s block on Russia suspends shipments, Prime Video streaming, and New World MMO purchases](https://www.theverge.com/2022/3/9/22969220/amazon-russia-belarus-ukraine-invasion-prime-video-stops-sending-orders)
+ - [Clipchamp is Microsoft’s new video editing app for Windows 11](https://www.theverge.com/2022/3/9/22969250/clipchamp-windows-11-microsoft-video-editing-app)
+ - [The first trailer for Obi-Wan Kenobi teases the ultimate Star Wars rematch](https://www.theverge.com/2022/3/9/22927002/star-wars-obi-wan-kenobi-trailer-darth-vader-battle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
