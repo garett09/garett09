@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Multiverse](http://9gag.com/gag/aVxgAM8)
+ - 🚖 [High School never ends\u2026](http://9gag.com/gag/aLvLyjW)
  - 🚯 [Sorry mom](http://9gag.com/gag/aXrLBNz)
- - 🚯 [It\u2018s been 3 Years since I opened my own Ice Cream parlour, thanks for your support back then till today.. I\u2019m keep going guys](http://9gag.com/gag/aBnZBNN)<!-- MEMES:END -->
+ - 🚯 [Yes... It happened](http://9gag.com/gag/a91zxdD)<!-- MEMES:END -->
 
 --- 
 
