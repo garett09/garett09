@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tested: The Galaxy S22 Ultra’s 45W charging is barely faster than 25W](https://www.androidauthority.com/samsung-45w-charger-galaxy-s22-3127211/)
- - [Here’s why Apple put a powerful iPhone chip in its new Studio Display](https://www.theverge.com/2022/3/9/22968960/apple-studio-display-a13-spatial-audio-center-stage-hey-siri)
- - [Twitter Shops will let sellers showcase more products on their profiles](https://www.theverge.com/2022/3/9/22967305/twitter-shops-stores-products-profile-button-app-ios)<!-- TECH:END -->
+ - [Apple explains why the M1 Ultra-equipped Mac Studio is two pounds heavier](https://www.theverge.com/2022/3/9/22969101/apple-mac-studio-m1-ultra-max-explains-weight-mystery)
+ - [PopSockets launches iPhone grip with built-in battery](https://appleinsider.com/articles/22/03/09/popsockets-launches-iphone-grip-with-built-in-battery?utm_medium=rss)
+ - [Compared: Apple Silicon M1 vs M1 Pro vs M1 Max vs M1 Ultra](https://appleinsider.com/articles/22/03/09/compared-apple-silicon-m1-vs-m1-pro-vs-m1-max-vs-m1-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
