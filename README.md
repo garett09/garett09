@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
  - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok – How to use the Hugr-Rip](https://www.pcgamer.com/assassins-creed-ac-valhalla-hugr-rip-guide)
- - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok shelters guide](https://www.pcgamer.com/assassins-creed-ac-valhalla-shelters-guide)
- - [Where to find the cursed armour of Hreidmar in Assassin&#39;s Creed Valhalla: Dawn of Ragnarok](https://www.pcgamer.com/assassins-creed-ac-valhalla-cursed-armor-of-hreidmar)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok shelters guide](https://www.pcgamer.com/assassins-creed-ac-valhalla-shelters-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
