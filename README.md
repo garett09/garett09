@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung answers questions about throttling in Galaxy S22 and other flagships](https://www.androidauthority.com/samsung-gos-faq-3130847/)
- - [Tern announces a more affordable version of its popular electric cargo bike](https://www.theverge.com/2022/3/9/22967229/tern-quick-haul-electric-cargo-bike-price-specs)
- - [The redesigned MacBook Air might have an M1, not an M2](https://www.theverge.com/2022/3/9/22968489/m2-macbook-air-redesign-m1-ming-chi-kuo)<!-- TECH:END -->
+ - [This was the best-selling Android smartphone of 2021](https://www.androidauthority.com/best-selling-android-phone-2021-3132180/)
+ - [Brookings: US tech jobs remain concentrated in coastal hubs but 36 other cities, including Philadelphia, had stronger tech job growth than before the pandemic &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220309/p2#a220309p2)
+ - [Samsung answers questions about throttling in Galaxy S22 and other flagships](https://www.androidauthority.com/samsung-gos-faq-3130847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
