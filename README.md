@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know](http://9gag.com/gag/aVxgnEK)
- - 🚯 [High School never ends\u2026](http://9gag.com/gag/aLvLyjW)
- - 🚯 [International Women&#39;s Day 2022](http://9gag.com/gag/aRrLn42)<!-- MEMES:END -->
+ - 🚖 [Volcanic eruption from above.](http://9gag.com/gag/a81APbV)
+ - 🚯 [Come on Barbie let&#39;s go party](http://9gag.com/gag/aggQPxg)
+ - 🚯 [In Russia, the military enlistment office was burned to avoid being drafted to war in Ukraine](http://9gag.com/gag/aggQPEW)<!-- MEMES:END -->
 
 --- 
 
