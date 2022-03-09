@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redmi Note 11 Pro series brings 120Hz OLED, 108MP camera for under Rs 20,000](https://www.androidauthority.com/redmi-note-11-pro-series-india-3132215/)
  - [This was the best-selling Android smartphone of 2021](https://www.androidauthority.com/best-selling-android-phone-2021-3132180/)
- - [Brookings: US tech jobs remain concentrated in coastal hubs but 36 other cities, including Philadelphia, had stronger tech job growth than before the pandemic &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220309/p2#a220309p2)
- - [Samsung answers questions about throttling in Galaxy S22 and other flagships](https://www.androidauthority.com/samsung-gos-faq-3130847/)<!-- TECH:END -->
+ - [Brookings: US tech jobs remain concentrated in coastal hubs but 36 other cities, including Philadelphia, had stronger tech job growth than before the pandemic &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220309/p2#a220309p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
