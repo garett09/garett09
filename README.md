@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Elden Ring tips for surviving the Lands Between](https://www.pcgamer.com/elden-ring-tips-guide)
- - [The Art Of Destiny 2: The Witch Queen](https://kotaku.com/destiny-2-witch-queen-bungie-expansion-concept-art-sket-1848625449)
- - [Lost Ark now has over 20 million players globally](https://www.pcgamer.com/lost-ark-now-has-over-20-million-players-globally)<!-- GAME:END -->
+ - [Our favourite Secretlab gaming chairs are discounted in this Labour day sale](https://www.pcgamer.com/our-favourite-secretlab-gaming-chairs-are-discounted-in-this-labour-day-sale)
+ - [The GeForce GTX 1060 is still the most popular GPU in Steam&#39;s latest hardware survey](https://www.pcgamer.com/the-geforce-gtx-1060-is-still-the-most-popular-gpu-in-steams-latest-hardware-survey)
+ - [12 Elden Ring tips for surviving the Lands Between](https://www.pcgamer.com/elden-ring-tips-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
