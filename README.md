@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the symbiotic relationship between TSMC and Apple: TSMC gets a predictable, demanding, high volume partner and Apple gets cutting-edge chips at scale &lpar;Pushkar/Bits and Bytes&rpar;](http://www.techmeme.com/220309/p20#a220309p20)
- - [Our Favorite Products Made of Upcycled and Recycled Materials](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products)
- - [How to control your robot vacuum with Google Assistant](https://www.theverge.com/22968709/robot-vacuum-connect-google-assistant-roomba-roborock-how-to)<!-- TECH:END -->
+ - [Sources: Amazon is expected to win unconditional approval from the European Commission for its $8.5B acquisition of MGM, which was announced in May 2021 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220309/p22#a220309p22)
+ - [Apple TV+ &#39;Cha Cha Real Smooth&#39; debuts on June 17](https://appleinsider.com/articles/22/03/09/apple-tv-cha-cha-real-smooth-debuts-on-june-17?utm_medium=rss)
+ - [Daily deals March 9: $202 off Vizio M6 50-inch 4K TV, $100 off Apple 12.9-inch iPad Pro, $72 off Sony XM4 Wireless Headphones &amp; more](https://appleinsider.com/articles/22/03/09/daily-deals-march-9-202-vizio-m6-50-inch-4k-tv-100-off-apple-129-inch-ipad-pro-72-off-sony-xm4-wireless-headphones-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
