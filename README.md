@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Way to go, Derrick!](http://9gag.com/gag/aeg4X6O)
- - 🚯 [Russian invaders are now stealing chicken and eggs. Russia are you ok?](http://9gag.com/gag/ajg1QBp)
+ - 🚖 [It feels so stupid afterwards](http://9gag.com/gag/a117z4Y)
+ - 🚯 [To many locks so little time](http://9gag.com/gag/avA12Bb)
  - 🚯 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)<!-- MEMES:END -->
 
 --- 
