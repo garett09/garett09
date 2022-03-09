@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spring Has Sprung in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/03/09/spring-has-sprung-in-phantasy-star-online-2-new-genesis/)
- - [Watch Sony’s new State of Play here for the latest on PS5 games](https://www.polygon.com/22968961/sony-state-of-play-time-march-2022-date-time-how-to-watch)
- - [Elden Ring Pro Beats Game In About Two Hours Without Dying Once](https://kotaku.com/elden-ring-no-death-two-hour-speedrun-fromsoftware-ps5-1848628030)<!-- GAME:END -->
+ - [17 Tips For Playing Destiny 2: The Witch Queen](https://kotaku.com/destiny-2-witch-queen-parasite-exotic-crafting-raid-pow-1848628649)
+ - [How Narrative Meets Role-playing in Vampire: The Masquerade – Swansong](https://news.xbox.com/en-us/2022/03/09/how-narrative-meets-role-playing-in-vampire-the-masquerade-swansong/)
+ - [Best gaming motherboards in 2022](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
