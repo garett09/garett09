@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: bipartisan lawmakers on the House Judiciary Committee ask the DOJ to investigate Amazon and its executives over obstructing Congress&#39; antitrust probe &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220309/p11#a220309p11)
- - [Another US internet backbone provider is shutting down services in Russia](https://www.theverge.com/2022/3/9/22968634/lumen-internet-backbone-provider-shutting-down-russia-digital-iron-curtain)
- - [To Test Cancer Drugs, These Scientists Grew ‘Avatars’ of Tumors](https://www.wired.com/story/to-test-cancer-drugs-these-scientists-grew-avatars-of-tumors)<!-- TECH:END -->
+ - [Savings and investing app Acorns raises a $300M Series F at a nearly $2B valuation led by TPG, six weeks after shelving its SPAC plans &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220309/p14#a220309p14)
+ - [Carl Pei&#39;s Nothing raises a $70M Series B to create smartphones with Qualcomm and expand in London; the company will host a product event on March 23 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220309/p13#a220309p13)
+ - [Apple&#39;s MLB deal is good for Apple TV+, but making a bad situation worse for baseball fans](https://appleinsider.com/articles/22/03/09/apples-mlb-deal-is-good-for-apple-tv-but-making-a-bad-situation-worse-for-baseball-fans?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
