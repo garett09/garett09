@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio with M1 ultra is heavier because of heat &amp; material choices](https://appleinsider.com/articles/22/03/09/mac-studio-with-m1-ultra-is-heavier-because-of-heat-material-choices?utm_medium=rss)
- - [Get an up-close look at Apple&#39;s Mac Studio in augmented reality](https://appleinsider.com/articles/22/03/09/get-an-up-close-look-at-apples-mac-studio-in-augmented-reality?utm_medium=rss)
- - [In its Q4 earnings on Tuesday, Bumble said it is discontinuing operations in Russia and leaving the Russian and Belarusian app stores; Bumble stock is up 40%+ &lpar;Michelle Ma/Protocol&rpar;](http://www.techmeme.com/220309/p30#a220309p30)<!-- TECH:END -->
+ - [Amazon&#39;s board of directors approve a 20-for-1 stock split and Amazon says it plans to buy back up to $10B in shares; stock rises 6% after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220309/p33#a220309p33)
+ - [Android 101: how to tweak your multitasking pane](https://www.theverge.com/21495830/android-11-multitasking-pane-recent-apps-screenshots-google-how-to)
+ - [Apple TV+ lands documentary on Formula One champ Lewis Hamilton](https://appleinsider.com/articles/22/03/09/apple-tv-lands-documentary-on-formula-one-champ-lewis-hamilton?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
