@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
- - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok – How to use the Hugr-Rip](https://www.pcgamer.com/assassins-creed-ac-valhalla-hugr-rip-guide)
- - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok shelters guide](https://www.pcgamer.com/assassins-creed-ac-valhalla-shelters-guide)<!-- GAME:END -->
+ - [New Star Wars Villainous board game will include Darth Vader, Moff Gideon, and more](https://www.polygon.com/22967946/star-wars-villainous-board-game-announcement-release-date-price)
+ - [South Korea Really Loves Pokémon Bread](https://kotaku.com/pokemon-pocket-monsters-south-korea-japan-bread-snack-g-1848626684)
+ - [Intel&#39;s Arc Alchemist cards slip to a May-June release timeframe](https://www.pcgamer.com/intels-arc-alchemist-cards-slip-to-a-may-june-release-timeframe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
