@@ -197,7 +197,7 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A polite Karen](http://9gag.com/gag/aBnZp7Z)
+ - 🚖 [You know](http://9gag.com/gag/aVxgnEK)
  - 🚯 [High School never ends\u2026](http://9gag.com/gag/aLvLyjW)
  - 🚯 [International Women&#39;s Day 2022](http://9gag.com/gag/aRrLn42)<!-- MEMES:END -->
 
