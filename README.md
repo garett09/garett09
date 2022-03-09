@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man speaks the truth](http://9gag.com/gag/axBW54n)
- - 🚯 [In Russia, the military enlistment office was burned to avoid being drafted to war in Ukraine](http://9gag.com/gag/aggQPEW)
- - 🚯 [Come on Barbie let&#39;s go party](http://9gag.com/gag/aggQPxg)<!-- MEMES:END -->
+ - 🚖 [Brave and stunning...](http://9gag.com/gag/amgWEed)
+ - 🚯 [A polite Karen](http://9gag.com/gag/aBnZp7Z)
+ - 🚯 [High School never ends\u2026](http://9gag.com/gag/aLvLyjW)<!-- MEMES:END -->
 
 --- 
 
