@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High School never ends\u2026](http://9gag.com/gag/aLvLyjW)
- - 🚯 [Sorry mom](http://9gag.com/gag/aXrLBNz)
- - 🚯 [Yes... It happened](http://9gag.com/gag/a91zxdD)<!-- MEMES:END -->
+ - 🚖 [Riding bicycles on the highway](http://9gag.com/gag/avAWMDb)
+ - 🚯 [Here\u2019s a good boy for a a little break in news](http://9gag.com/gag/aAGQoE0)
+ - 🚯 [Ikr](http://9gag.com/gag/aeg4LDO)<!-- MEMES:END -->
 
 --- 
 
