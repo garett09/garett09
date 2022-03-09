@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Tips For Playing Destiny 2: The Witch Queen](https://kotaku.com/destiny-2-witch-queen-parasite-exotic-crafting-raid-pow-1848628649)
- - [How Narrative Meets Role-playing in Vampire: The Masquerade – Swansong](https://news.xbox.com/en-us/2022/03/09/how-narrative-meets-role-playing-in-vampire-the-masquerade-swansong/)
- - [Best gaming motherboards in 2022](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
+ - [Watch the first trailer for Obi-Wan, the next Star Wars Disney Plus show](https://www.polygon.com/22927301/obi-wan-kenobi-trailer-star-wars-disney-plus)
+ - [What we know about the first Unreal Engine 5 games in development](https://www.pcgamer.com/unreal-engine-5-games-in-development)
+ - [Electronic Arts gets $11M loot box fine overturned](https://www.pcgamer.com/ea-gets-dollar11m-loot-box-fine-overturned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
