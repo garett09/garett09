@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting ready for the holiday with the wife](http://9gag.com/gag/aBnZDN1)
- - 🚯 [Ultrasonic dog repeller in action](http://9gag.com/gag/adg108d)
- - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)<!-- MEMES:END -->
+ - 🚖 [The Russian soldiers locked the door of the BTR and don&#39;t want to come out](http://9gag.com/gag/a11NvyP)
+ - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)
+ - 🚯 [Russian invaders are now stealing chicken and eggs. Russia are you ok?](http://9gag.com/gag/ajg1QBp)<!-- MEMES:END -->
 
 --- 
 
