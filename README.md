@@ -197,8 +197,8 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Ukrainian troops captured a Russian 120mm towed howitzer. This soldier was quite shocked at the poor condition of the gun.](http://9gag.com/gag/aBnZDWN)
- - 🚯 [This guy&#39;s workout routine](http://9gag.com/gag/a916j71)
+ - 🚖 [Way to go, Derrick!](http://9gag.com/gag/aeg4X6O)
+ - 🚯 [Russian invaders are now stealing chicken and eggs. Russia are you ok?](http://9gag.com/gag/ajg1QBp)
  - 🚯 [This man forgot to plug in his earphones](http://9gag.com/gag/a718jPA)<!-- MEMES:END -->
 
 --- 
