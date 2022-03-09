@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Still on Facebook? Here’s How to Create Those New Reels](https://www.wired.com/story/how-to-use-facebook-reels)
- - [Tin Man: photography using an old-fashioned tintype process](https://www.theverge.com/22960046/tin-man-tintype-photographs-wetplate-digital-camera)
- - [Apple’s new M1 Ultra aims to beat Nvidia’s RTX 3090](https://www.theverge.com/2022/3/9/22968611/apple-m1-ultra-gpu-nvidia-rtx-3090-comparison)<!-- TECH:END -->
+ - [A look at the symbiotic relationship between TSMC and Apple: TSMC gets a predictable, demanding, high volume partner and Apple gets cutting-edge chips at scale &lpar;Pushkar/Bits and Bytes&rpar;](http://www.techmeme.com/220309/p20#a220309p20)
+ - [Our Favorite Products Made of Upcycled and Recycled Materials](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products)
+ - [How to control your robot vacuum with Google Assistant](https://www.theverge.com/22968709/robot-vacuum-connect-google-assistant-roomba-roborock-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
