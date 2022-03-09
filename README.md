@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sorry mom](http://9gag.com/gag/aXrLBNz)
- - 🚯 [A Ukrainian policeman in Irpen says goodbye to his son and wife, who are taken to a safe place.](http://9gag.com/gag/a41nXp6)
- - 🚯 [Never underestimate your opponent](http://9gag.com/gag/a41nXGy)<!-- MEMES:END -->
+ - 🚖 [Multiverse](http://9gag.com/gag/aVxgAM8)
+ - 🚯 [Sorry mom](http://9gag.com/gag/aXrLBNz)
+ - 🚯 [It\u2018s been 3 Years since I opened my own Ice Cream parlour, thanks for your support back then till today.. I\u2019m keep going guys](http://9gag.com/gag/aBnZBNN)<!-- MEMES:END -->
 
 --- 
 
