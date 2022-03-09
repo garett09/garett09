@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)
- - [Though marketed as a 5G iPhone, the new iPhone SE won&#39;t support mmWave 5G, and AT&amp;T says it won&#39;t be able to use its upcoming 3.45GHz 5G network &lpar;Sascha Segan/PCMag&rpar;](http://www.techmeme.com/220308/p38#a220308p38)
- - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/news/the-best-sci-fi-tv-shows-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [F-Zero X Joins Nintendo Switch Online This Week     - CNET](https://www.cnet.com/tech/gaming/f-zero-x-joins-nintendo-switch-online-this-week/#ftag=CAD590a51e)
+ - [Compared: New 2022 iPad Air vs 2020 iPad Air](https://appleinsider.com/articles/22/03/08/compared-new-2022-ipad-air-vs-2020-ipad-air?utm_medium=rss)
+ - [The Best Horror Movies on Netflix     - CNET](https://www.cnet.com/news/the-best-horror-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
