@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy&#39;s workout routine](http://9gag.com/gag/a916j71)
- - 🚯 [No info where but it was between yesterday and today](http://9gag.com/gag/aeg1Npj)
- - 🚯 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)<!-- MEMES:END -->
+ - 🚖 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)
+ - 🚯 [When a fake news on social media tells you that the gas prices will rise by 0,5 Euro cents / liter at midnight - Romania today, all major cities](http://9gag.com/gag/aBn6Kd2)
+ - 🚯 [Visualization of all satellites currently orbiting the earth](http://9gag.com/gag/aBn6KyO)<!-- MEMES:END -->
 
 --- 
 
