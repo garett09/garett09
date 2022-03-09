@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam had 69 million daily users in 2021](https://www.pcgamer.com/steam-had-69-million-daily-users-in-2021)
- - [When does Assassin&#39;s Creed Valhalla: Dawn of Ragnarok unlock in your time zone?](https://www.pcgamer.com/assassins-creed-ac-valhalla-dawn-of-ragnarok-release-time-unlock)
- - [Cloud Strife&#39;s modded abs have Final Fantasy 7 players in a tizzy](https://www.pcgamer.com/cloud-strifes-modded-abs-have-final-fantasy-7-players-in-a-tizzy)<!-- GAME:END -->
+ - [Lost Ark is the rare MMO that gets endgame right](https://www.polygon.com/reviews/22967796/lost-ark-review-pc)
+ - [Gotham Knights launches in October](https://www.polygon.com/22968807/gotham-knights-release-date-2022-batman-arkhamverse)
+ - [Where Was Kotaku Last Week?](https://kotaku.com/kotaku-gmg-union-strike-resolved-victory-labor-picket-l-1848624502)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
