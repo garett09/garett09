@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into multiplayer in Stranger of Paradise Final Fantasy Origin Demo, out now](https://blog.playstation.com/2022/03/10/dive-into-multiplayer-in-stranger-of-paradise-final-fantasy-origin-demo-out-now/)
- - [Dive into multiplayer in Stranger of Paradise Final Fantasy Origin Demo, out now](https://blog.playstation.com/2022/03/10/dive-into-multiplayer-in-stranger-of-paradise-final-fantasy-origin-demo-out-now/)
- - [Take the Fight to the Forts in Sea of Thieves Season Six](https://news.xbox.com/en-us/2022/03/10/take-the-fight-to-the-forts-in-sea-of-thieves-season-six/)<!-- GAME:END -->
+ - [The Riddler, Killmonger, and the trap of villains who are right](https://www.polygon.com/2022/3/10/22969710/riddler-was-right-batman-origin-motivation)
+ - [10 Tips to Help You Master Aztech Forgotten Gods](https://news.xbox.com/en-us/2022/03/10/10-tips-to-help-you-master-aztech-forgotten-gods/)
+ - [Pushing Daisies used quirkiness to bridge time and queer history](https://www.polygon.com/22967661/pushing-daisies-bryan-fuller-genre-aids)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
