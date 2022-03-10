@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone SE delivers iPhone 13 performance for $270 less](https://appleinsider.com/articles/22/03/10/new-iphone-se-delivers-iphone-13-performance-for-270-less?utm_medium=rss)
- - [All Google Messages users will soon see reaction emoji sent from an iPhone](https://appleinsider.com/articles/22/03/10/all-google-messages-users-will-soon-see-reaction-emoji-sent-from-an-iphone?utm_medium=rss)
- - [Barcelona-based Typeform, which offers low-code marketing tools, raises a $135M Series C led by Sofina, after raising a $35M Series B in September 2017 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220310/p18#a220310p18)<!-- TECH:END -->
+ - [Some tech companies are helping evacuate their staff from Russia, including by chartering planes and procuring visas, after previously doing the same in Ukraine &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220310/p21#a220310p21)
+ - [Mobile games maker Scopely invests $20M in a new game developer called Burlingame Studios; Scopely invested $50M across three European studios last year &lpar;Trilby Beresford/Hollywood Reporter&rpar;](http://www.techmeme.com/220310/p20#a220310p20)
+ - [Jack Thompson still has a grudge](https://www.theverge.com/2022/3/10/22956300/jack-thompson-interview-violent-games-gta-doom-attorney)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
