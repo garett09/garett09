@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great success](http://9gag.com/gag/aDD60Vd)
- - 🚯 [Big mistake, huge](http://9gag.com/gag/a315Yn7)
- - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)<!-- MEMES:END -->
+ - 🚖 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)
+ - 🚯 [How to deal with Karens](http://9gag.com/gag/awz3be4)
+ - 🚯 [Mikolaiev, 10March 2022 1am](http://9gag.com/gag/a816bnY)<!-- MEMES:END -->
 
 --- 
 
