@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Overwatch 2 closed beta will finally let you play as a Black woman](https://www.theverge.com/2022/3/10/22970734/blizzard-overwatch-2-closed-beta-alpha-annoucement-sojourn)
- - [How Twitter plans to add its next 100 million users](https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview)
- - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: Mac Studio with M1 Max vs. Mac Studio with M1 Ultra](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-with-m1-max-versus-mac-studio-with-m1-ultra?utm_medium=rss)
+ - [Everything Apple released at the &#39;Peek Performance&#39; event - and what we thought](https://appleinsider.com/articles/22/03/09/everything-apple-released-at-the-peek-performance-event---and-what-we-thought?utm_medium=rss)
+ - [Apple AirPods Max are on sale for $425 &lpar;$125 off&rpar; today](https://appleinsider.com/articles/22/03/07/apple-airpods-max-are-on-sale-for-425-125-off-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
