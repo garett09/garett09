@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Visualization of all satellites currently orbiting the earth](http://9gag.com/gag/aBn6KyO)
- - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)
- - 🚯 [The Russian soldiers locked the door of the BTR and don&#39;t want to come out](http://9gag.com/gag/a11NvyP)<!-- MEMES:END -->
+ - 🚖 [Great success](http://9gag.com/gag/aDD60Vd)
+ - 🚯 [Big mistake, huge](http://9gag.com/gag/a315Yn7)
+ - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)<!-- MEMES:END -->
 
 --- 
 
