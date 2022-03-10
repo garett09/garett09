@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reality now](http://9gag.com/gag/agg1Now)
+ - 🚖 [George is a good lad](http://9gag.com/gag/a0ZXjnd)
  - 🚯 [Lagging](http://9gag.com/gag/aKmA341)
- - 🚯 [Enough is enough](http://9gag.com/gag/aVxoPrd)<!-- MEMES:END -->
+ - 🚯 [F**k these things](http://9gag.com/gag/a11NMQ2)<!-- MEMES:END -->
 
 --- 
 
