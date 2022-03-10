@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valkyrie Elysium is a new action-focused sequel to Valkyrie Profile](https://www.polygon.com/22969786/valkyrie-elysium-announcement-trailer-square-enix-ps5-ps4-pc)
- - [Fighting game JoJo’s Bizarre Adventure: All Star Battle is getting a remake](https://www.polygon.com/22969754/jojos-bizarre-adventure-all-star-battle-remake-playstation)
- - [Capcom&#39;s Cool New Action Game Pits Exosuits Against Endless Dinos](https://kotaku.com/capcom-exoprimal-dinosaurs-state-of-play-ps5-ps4-playst-1848631508)<!-- GAME:END -->
+ - [Here&#39;s Everything Shown At Today&#39;s PlayStation State Of Play](https://kotaku.com/playstation-state-of-play-exoprimal-capcom-returnal-for-1848632077)
+ - [Celebrate the launch of Puzzle Quest 3 with this giveaway](https://www.pcgamer.com/celebrate-the-launch-of-puzzle-quest-3-with-this-giveaway)
+ - [Bungie stops selling Destiny 2 in Russia, makes a free emblem for the rest of the world](https://www.pcgamer.com/bungie-stops-selling-destiny-2-in-russia-makes-a-free-emblem-for-the-rest-of-the-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
