@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Instagram&#39;s VP of youth Pavni Diwanji is stepping down as part of a restructuring; Adam Mosseri will oversee youth-focused work &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220310/p8#a220310p8)
- - [What is blockchain technology and how does it work?](https://www.androidauthority.com/what-is-blockchain-technology-801514/)
- - [DeepMind details Ithaca, an AI model to help restore missing text from ancient Greek inscriptions and offer suggestions about where and when they were written &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220310/p7#a220310p7)<!-- TECH:END -->
+ - [Display analyst Ross Young expects Apple will release a 27-inch mini-LED display in June; Kuo says Apple &quot;may not launch&quot; mini-LED products in 2022 due to cost &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220310/p12#a220310p12)
+ - [No &#39;Studio Display Pro&#39; in 2022, suggests Ming-Chi Kuo](https://appleinsider.com/articles/22/03/10/no-studio-display-pro-in-2022-suggests-ming-chi-kuo?utm_medium=rss)
+ - [JD.com reports Q4 revenue rose 23% YoY to $43.6B, above estimates, as its net loss reached $822M; JD&#39;s market cap has shrunk by ~40% to $97B over the past year &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220310/p11#a220310p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
