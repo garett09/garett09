@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When a fake news on social media tells you that the gas prices will rise by 0,5 Euro cents / liter at midnight - Romania today, all major cities](http://9gag.com/gag/aBn6Kd2)
- - 🚯 [I need what she is on](http://9gag.com/gag/a21wNx9)
- - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)<!-- MEMES:END -->
+ - 🚖 [Visualization of all satellites currently orbiting the earth](http://9gag.com/gag/aBn6KyO)
+ - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)
+ - 🚯 [The Russian soldiers locked the door of the BTR and don&#39;t want to come out](http://9gag.com/gag/a11NvyP)<!-- MEMES:END -->
 
 --- 
 
