@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Sonnet Thunderbolt dock adds USB-A, USB-C, and room for storage](https://appleinsider.com/articles/22/03/09/new-sonnet-thunderbolt-dock-adds-usb-a-usb-c-and-room-for-storage?utm_medium=rss)
- - [Compared: New 2022 iPhone SE vs iPhone 13 mini](https://appleinsider.com/inside/iphone-se/vs/compared-new-2022-iphone-se-vs-iphone-13-mini?utm_medium=rss)
- - [Hands on with Apple&#39;s new black and silver Magic Keyboard, Trackpad, and Mouse](https://appleinsider.com/articles/22/03/08/apple-adds-new-black-and-silver-magic-keyboard-trackpad-and-mouse?utm_medium=rss)<!-- TECH:END -->
+ - [Sources describe how the US has bolstered Ukraine&#39;s cyber defenses with soldiers and cybersecurity experts, working with Ukraine years before Russia&#39;s attack &lpar;Financial Times&rpar;](http://www.techmeme.com/220309/p39#a220309p39)
+ - [Sources: Apple is working on a Mac mini with M2 eight-core CPU and 10-core GPU and a Mac mini with M2 Pro 12-core CPU; M2 chip design will be based on A15 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220309/p38#a220309p38)
+ - [Next Mac mini will have M2 and M2 Pro Apple Silicon chip options](https://appleinsider.com/articles/22/03/10/next-mac-mini-will-have-m2-and-m2-pro-apple-silicon-chip-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
