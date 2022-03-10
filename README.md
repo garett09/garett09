@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wheels for sure](http://9gag.com/gag/aWg7Q7A)
+ - 🚖 [This is a war crime.](http://9gag.com/gag/aZr1bvV)
  - 🚯 [Ultrasonic dog repeller in action](http://9gag.com/gag/adg108d)
- - 🚯 [This is a war crime.](http://9gag.com/gag/aZr1bvV)<!-- MEMES:END -->
+ - 🚯 [I need what she is on](http://9gag.com/gag/a21wNx9)<!-- MEMES:END -->
 
 --- 
 
