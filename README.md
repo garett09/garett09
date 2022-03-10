@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: ⌚ Hot or cold?](https://www.androidauthority.com/da-march-10-2022-3133733/)
- - [The Race to Rescue Ukraine’s Power Grid From Russia](https://www.wired.com/story/the-race-to-rescue-ukraines-power-grid-from-russia)
- - [Machines of War Take a Heavy Toll on Ukraine—and the Planet](https://www.wired.com/story/machines-of-war-take-a-heavy-toll-on-ukraine-and-the-planet)<!-- TECH:END -->
+ - [How to fix a Chromebook that won’t turn on or stay on](https://www.androidauthority.com/chromebook-wont-turn-on-3130965/)
+ - [Google opens beta for future Pixel feature drops](https://www.theverge.com/2022/3/10/22970537/google-pixel-qpr3-beta-1-release-feature-drop)
+ - [Motorola’s Newest Budget Moto G Isn&#39;t Much of an Upgrade](https://www.wired.com/review/motorola-moto-g-stylus-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
