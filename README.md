@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just man up bro](http://9gag.com/gag/azedEWx)
- - 🚯 [I gotta stop smokin so much weed... I&#39;m so high, I thought this MFs were sitting on a couch](http://9gag.com/gag/aDD63mx)
- - 🚯 [Bon appetit](http://9gag.com/gag/ay930Vp)<!-- MEMES:END -->
+ - 🚖 [When your owner pets another cat](http://9gag.com/gag/azedE4b)
+ - 🚯 [Look at Putlers hands and feet - his days are numbered](http://9gag.com/gag/ajg104w)
+ - 🚯 [On the other side of the world &lpar;Myanmar&rpar;, Today, we lost our heroes while fighting AGAINST brutal dictatorship, &lpar;Right&rpar; Nurse &lpar;Left&rpar; Teacher, they take the arms to fight.](http://9gag.com/gag/angRKGb)<!-- MEMES:END -->
 
 --- 
 
