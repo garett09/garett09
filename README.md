@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a lovely choice for a bathroom.](http://9gag.com/gag/aAG61Q2)
- - 🚯 [The tank battle in the Brovarsky district earlier - a top view. The Armed Forces of Ukraine knocked out the first and last tank, after which they destroyed the entire convoy of Russian equipment.](http://9gag.com/gag/angRBDB)
- - 🚯 [Why are yu running?](http://9gag.com/gag/aYrEw62)<!-- MEMES:END -->
+ - 🚖 [Reality now](http://9gag.com/gag/agg1Now)
+ - 🚯 [Lagging](http://9gag.com/gag/aKmA341)
+ - 🚯 [Enough is enough](http://9gag.com/gag/aVxoPrd)<!-- MEMES:END -->
 
 --- 
 
