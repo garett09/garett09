@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why are yu running?](http://9gag.com/gag/aYrEw62)
- - 🚯 [Russian officer speaks on Russian state TV about Russian losses in Ukraine and is interrupted by host &lpar;translation in the comments&rpar;](http://9gag.com/gag/aDD6m8O)
- - 🚯 [Daily Dosage of Humanity](http://9gag.com/gag/adg1pVd)<!-- MEMES:END -->
+ - 🚖 [Daily Dosage of Humanity](http://9gag.com/gag/adg1pVd)
+ - 🚯 [Miau](http://9gag.com/gag/avA1PWX)
+ - 🚯 [Why are yu running?](http://9gag.com/gag/aYrEw62)<!-- MEMES:END -->
 
 --- 
 
