@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources describe how the US has bolstered Ukraine&#39;s cyber defenses with soldiers and cybersecurity experts, working with Ukraine years before Russia&#39;s attack &lpar;Financial Times&rpar;](http://www.techmeme.com/220309/p39#a220309p39)
- - [Sources: Apple is working on a Mac mini with M2 eight-core CPU and 10-core GPU and a Mac mini with M2 Pro 12-core CPU; M2 chip design will be based on A15 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220309/p38#a220309p38)
- - [Next Mac mini will have M2 and M2 Pro Apple Silicon chip options](https://appleinsider.com/articles/22/03/10/next-mac-mini-will-have-m2-and-m2-pro-apple-silicon-chip-options?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC is considering a requirement that publicly traded companies disclose data breaches and other significant cybersecurity incidents within four days &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/220309/p42#a220309p42)
+ - [Tinder lets US users access background checks via Garbo to screen matches for past violence and abuse; first two searches are free, then $2.50+ each afterward &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220309/p41#a220309p41)
+ - [A look at @PayGapApp, a viral Twitter bot created by Francesca Lawson and Ali Fensome, which highlights the gender pay gap data of British companies &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/220309/p40#a220309p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
