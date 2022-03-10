@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oculus users will be able to sync fitness data with Apple Health in April](https://appleinsider.com/articles/22/03/10/oculus-users-will-be-able-to-sync-fitness-data-with-apple-health-in-april?utm_medium=rss)
- - [Oracle Q3: revenue of $10.51B, up 4% YoY, cloud services and license support rev. of $7.6B, up 5% YoY, but misses with EPS of $1.13 vs $1.18 est.; stock down 5% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220310/p34#a220310p34)
- - [Rivian says it delivered nearly 1,000 electric trucks in 2021](https://www.theverge.com/2022/3/10/22971092/rivian-electric-truck-deliveries-earnings-q4-2021)<!-- TECH:END -->
+ - [T-Mobile introduces a credit check-free version of its 5G home internet](https://www.theverge.com/2022/3/10/22971544/t-mobile-5g-home-internet-metro-service-prepaid-isp-credit-check)
+ - [Activision is bringing Call of Duty: Warzone to mobile](https://www.theverge.com/2022/3/10/22971593/activision-call-of-duty-warzone-mobile)
+ - [NonFungible: Axie Infinity had $3.5B in NFT transactions in 2021, almost two thirds of the blockchain gaming industry; NBA Top Shot had $827M and Loot $242M &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/220310/p35#a220310p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
