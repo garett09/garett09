@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k these things](http://9gag.com/gag/a11NMQ2)
+ - 🚖 [Save The Sun.](http://9gag.com/gag/apg3BN5)
  - 🚯 [Why are yu running?](http://9gag.com/gag/aYrEw62)
- - 🚯 [POWER PUNCHES](http://9gag.com/gag/avA1PvE)<!-- MEMES:END -->
+ - 🚯 [The tank battle in the Brovarsky district earlier - a top view. The Armed Forces of Ukraine knocked out the first and last tank, after which they destroyed the entire convoy of Russian equipment.](http://9gag.com/gag/angRBDB)<!-- MEMES:END -->
 
 --- 
 
