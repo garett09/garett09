@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Cowabunga Collection brings back 13 Teenage Mutant Ninja Turtles games](https://www.pcgamer.com/the-cowabunga-collection-brings-back-13-teenage-mutant-ninja-turtles-games)
- - [Sony halts all PlayStation sales and blocks store access in Russia](https://www.pcgamer.com/sony-halts-all-playstation-sales-and-blocks-store-access-in-russia)
- - [MSI is recalling MAG CoreLiquid 240R/360R AIO coolers for hitting abnormally high idle temps](https://www.pcgamer.com/msi-is-recalling-mag-coreliquid-240r360r-aio-coolers-for-hitting-abnormally-high-idle-temps)<!-- GAME:END -->
+ - [How to enter Kára&#39;s Domain and Valkyrie Arena in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/assassins-creed-ac-valhalla-karas-domain-valkyrie-arena)
+ - [Ikumi Nakamura Introduces Her New Studio, Unseen](https://kotaku.com/ikumi-nakamura-ghostwire-tokyo-bayonetta-okami-unseen-1848633685)
+ - [The Cowabunga Collection brings back 13 Teenage Mutant Ninja Turtles games](https://www.pcgamer.com/the-cowabunga-collection-brings-back-13-teenage-mutant-ninja-turtles-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
