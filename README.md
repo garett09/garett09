@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your owner pets another cat](http://9gag.com/gag/azedE4b)
- - 🚯 [Look at Putlers hands and feet - his days are numbered](http://9gag.com/gag/ajg104w)
- - 🚯 [On the other side of the world &lpar;Myanmar&rpar;, Today, we lost our heroes while fighting AGAINST brutal dictatorship, &lpar;Right&rpar; Nurse &lpar;Left&rpar; Teacher, they take the arms to fight.](http://9gag.com/gag/angRKGb)<!-- MEMES:END -->
+ - 🚖 [Thank you, mr. Putler.](http://9gag.com/gag/aPZmG9P)
+ - 🚯 [Bon appetit](http://9gag.com/gag/ay930Vp)
+ - 🚯 [Throwing a parrot](http://9gag.com/gag/a416dNw)<!-- MEMES:END -->
 
 --- 
 
