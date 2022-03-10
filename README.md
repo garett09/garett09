@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best Photo Printing Services](https://www.wired.com/story/best-photo-printing-services)
- - [Nvidia GeForce Now RTX 3080 tier now available monthly for $19.99](https://www.theverge.com/22970496/nvidia-geforce-now-rtx-3080-monthly-membership-pricing-details)
- - [The future of makeup is lipstick you can print](https://www.theverge.com/22968911/ysl-rouge-sur-mesure-review-beauty-tech-loreal)<!-- TECH:END -->
+ - [New iPhone SE delivers iPhone 13 performance for $270 less](https://appleinsider.com/articles/22/03/10/new-iphone-se-delivers-iphone-13-performance-for-270-less?utm_medium=rss)
+ - [All Google Messages users will soon see reaction emoji sent from an iPhone](https://appleinsider.com/articles/22/03/10/all-google-messages-users-will-soon-see-reaction-emoji-sent-from-an-iphone?utm_medium=rss)
+ - [Barcelona-based Typeform, which offers low-code marketing tools, raises a $135M Series C led by Sofina, after raising a $35M Series B in September 2017 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220310/p18#a220310p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
