@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Miau](http://9gag.com/gag/avA1PWX)
- - 🚯 [Heh](http://9gag.com/gag/aWg78OK)
- - 🚯 [POWER PUNCHES](http://9gag.com/gag/avA1PvE)<!-- MEMES:END -->
+ - 🚖 [Heh](http://9gag.com/gag/aWg78OK)
+ - 🚯 [Man eating cheetos sucker punches a teenager and steals their phone.](http://9gag.com/gag/aQXvxyd)
+ - 🚯 [Even the best of the best operas have like 1-2 memorable melodies, and the rest is just one giant filler made from the same overused melodic patterns and orchestral sequences... Same for the plot - usually just 10 minutes worth of interesting stuff, stretched to 3-4 hours](http://9gag.com/gag/aeg1Yyv)<!-- MEMES:END -->
 
 --- 
 
