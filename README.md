@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This update just made your Roomba i3 smarter](https://www.theverge.com/2022/3/10/22967391/irobot-roomba-i3-update-smart-mapping)
- - [Here’s the thick bottom bezel of the spiritual successor to the Essential Phone](https://www.androidauthority.com/osom-ov1-bezel-3134442/)
- - [Best iPad Deals: Save $20 on iPad, $60 on iPad Air, $100 on iPad Pro     - CNET](https://www.cnet.com/tech/computing/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oculus users will be able to sync fitness data with Apple Health in April](https://appleinsider.com/articles/22/03/10/oculus-users-will-be-able-to-sync-fitness-data-with-apple-health-in-april?utm_medium=rss)
+ - [Oracle Q3: revenue of $10.51B, up 4% YoY, cloud services and license support rev. of $7.6B, up 5% YoY, but misses with EPS of $1.13 vs $1.18 est.; stock down 5% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220310/p34#a220310p34)
+ - [Rivian says it delivered nearly 1,000 electric trucks in 2021](https://www.theverge.com/2022/3/10/22971092/rivian-electric-truck-deliveries-earnings-q4-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
