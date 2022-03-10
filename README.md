@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Color OS gains a nifty new feature to detect spy cameras in a room &lpar;Updated&rpar;](https://www.androidauthority.com/color-os-hidden-camera-detection-3130744/)
- - [OnePlus previews Oxygen OS 13, says Oxygen OS 12 launch wasn’t up to the mark](https://www.androidauthority.com/oneplus-oxygen-os-13-3133554/)
- - [An investigation into Tron founder and Poloniex investor Justin Sun, who according to a FBI subpoena is facing potential charges for wire fraud and more &lpar;Christopher Harland-Dunaway/The Verge&rpar;](http://www.techmeme.com/220309/p45#a220309p45)<!-- TECH:END -->
+ - [Q&amp;A with Intel SVP and GM of Accelerated Computing Raja Koduri on Intel&#39;s Zettascale Initiative, zettascale architectural innovations, the metaverse, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220310/p1#a220310p1)
+ - [Nothing tells us nothing about March 23 event, might announce smartphone plans](https://www.androidauthority.com/nothing-phone-launch-3133570/)
+ - [Color OS gains a nifty new feature to detect spy cameras in a room &lpar;Updated&rpar;](https://www.androidauthority.com/color-os-hidden-camera-detection-3130744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
