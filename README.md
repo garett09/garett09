@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s big silly jellyfish summon is my friend](https://www.polygon.com/22971100/elden-ring-spirit-ash-jellyfish-gameplay-companion)
- - [Overwatch 2 Beta Launches April, Will Lack PvE](https://kotaku.com/blizzard-overwatch-2-beta-closed-beta-pvp-pve-test-sojo-1848636996)
- - [The weirdest video game reference in The Matrix Resurrections](https://www.polygon.com/videos/22970843/matrix-resurrections-walking-cycle-video-games)<!-- GAME:END -->
+ - [This Is The Coolest Thing A Destiny Raid Boss Has Ever Done](https://kotaku.com/destiny-2-witch-queen-raid-boss-vow-disciple-witness-an-1848637720)
+ - [An early Denzel noir and 9 other great detective movies streaming now](https://www.polygon.com/what-to-watch/22970863/best-detective-movies-netflix-hbo-max-hulu-amazon-prime)
+ - [Russia May Legalize Software Piracy As Tech And Game Companies Continue To Pull Out](https://kotaku.com/piracy-russia-ukraine-sony-apple-microsoft-legalize-pir-1848637504)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
