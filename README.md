@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you, mr. Putler.](http://9gag.com/gag/aPZmG9P)
- - 🚯 [Bon appetit](http://9gag.com/gag/ay930Vp)
- - 🚯 [Throwing a parrot](http://9gag.com/gag/a416dNw)<!-- MEMES:END -->
+ - 🚖 [Are you a horse?](http://9gag.com/gag/a416dgQ)
+ - 🚯 [Moon dance](http://9gag.com/gag/angRBwn)
+ - 🚯 [Daily Dosage of Humanity](http://9gag.com/gag/adg1pVd)<!-- MEMES:END -->
 
 --- 
 
