@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack&#39;s app lets users pause email delivery to read only in the app, building a moat for Substack that potentially protects it from competitors &lpar;Adam Tinworth/One Man &amp; His Blog&rpar;](http://www.techmeme.com/220309/p43#a220309p43)
  - [The SEC is considering a requirement that publicly traded companies disclose data breaches and other significant cybersecurity incidents within four days &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/220309/p42#a220309p42)
- - [Tinder lets US users access background checks via Garbo to screen matches for past violence and abuse; first two searches are free, then $2.50+ each afterward &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220309/p41#a220309p41)
- - [A look at @PayGapApp, a viral Twitter bot created by Francesca Lawson and Ali Fensome, which highlights the gender pay gap data of British companies &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/220309/p40#a220309p40)<!-- TECH:END -->
+ - [Tinder lets US users access background checks via Garbo to screen matches for past violence and abuse; first two searches are free, then $2.50+ each afterward &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220309/p41#a220309p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
