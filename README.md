@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The weirdest video game reference in The Matrix Resurrections](https://www.polygon.com/videos/22970843/matrix-resurrections-walking-cycle-video-games)
- - [Elite Dangerous console development halted so developers can focus on PC](https://www.pcgamer.com/elite-dangerous-console-development-halted-so-developers-can-focus-on-pc)
- - [After Yang intentionally subverts sci-fi’s fetishistic ‘hollow Asian’ trope](https://www.polygon.com/22971003/after-yang-kogonada-interview-asian-robot-trope)<!-- GAME:END -->
+ - [Elden Ring’s big silly jellyfish summon is my friend](https://www.polygon.com/22971100/elden-ring-spirit-ash-jellyfish-gameplay-companion)
+ - [Overwatch 2 Beta Launches April, Will Lack PvE](https://kotaku.com/blizzard-overwatch-2-beta-closed-beta-pvp-pve-test-sojo-1848636996)
+ - [The weirdest video game reference in The Matrix Resurrections](https://www.polygon.com/videos/22970843/matrix-resurrections-walking-cycle-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
