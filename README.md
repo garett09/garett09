@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Display analyst Ross Young expects Apple will release a 27-inch mini-LED display in June; Kuo says Apple &quot;may not launch&quot; mini-LED products in 2022 due to cost &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220310/p12#a220310p12)
- - [No &#39;Studio Display Pro&#39; in 2022, suggests Ming-Chi Kuo](https://appleinsider.com/articles/22/03/10/no-studio-display-pro-in-2022-suggests-ming-chi-kuo?utm_medium=rss)
- - [JD.com reports Q4 revenue rose 23% YoY to $43.6B, above estimates, as its net loss reached $822M; JD&#39;s market cap has shrunk by ~40% to $97B over the past year &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220310/p11#a220310p11)<!-- TECH:END -->
+ - [Daily Authority: ⌚ Hot or cold?](https://www.androidauthority.com/da-march-10-2022-3133733/)
+ - [The Race to Rescue Ukraine’s Power Grid From Russia](https://www.wired.com/story/the-race-to-rescue-ukraines-power-grid-from-russia)
+ - [Machines of War Take a Heavy Toll on Ukraine—and the Planet](https://www.wired.com/story/machines-of-war-take-a-heavy-toll-on-ukraine-and-the-planet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
