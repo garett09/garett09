@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daily Dosage of Humanity](http://9gag.com/gag/adg1pVd)
- - 🚯 [Miau](http://9gag.com/gag/avA1PWX)
- - 🚯 [Why are yu running?](http://9gag.com/gag/aYrEw62)<!-- MEMES:END -->
+ - 🚖 [F**k these things](http://9gag.com/gag/a11NMQ2)
+ - 🚯 [Why are yu running?](http://9gag.com/gag/aYrEw62)
+ - 🚯 [POWER PUNCHES](http://9gag.com/gag/avA1PvE)<!-- MEMES:END -->
 
 --- 
 
