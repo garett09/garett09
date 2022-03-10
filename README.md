@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s Everything Shown At Today&#39;s PlayStation State Of Play](https://kotaku.com/playstation-state-of-play-exoprimal-capcom-returnal-for-1848632077)
- - [Celebrate the launch of Puzzle Quest 3 with this giveaway](https://www.pcgamer.com/celebrate-the-launch-of-puzzle-quest-3-with-this-giveaway)
- - [Bungie stops selling Destiny 2 in Russia, makes a free emblem for the rest of the world](https://www.pcgamer.com/bungie-stops-selling-destiny-2-in-russia-makes-a-free-emblem-for-the-rest-of-the-world)<!-- GAME:END -->
+ - [The Dying Light 2 item that makes weapons unbreakable got nerfed, and players want it fixed](https://www.pcgamer.com/the-dying-light-2-item-that-makes-weapons-unbreakable-got-nerfed-and-players-want-it-fixed)
+ - [Eight More Women Accuse PlayStation Of &#39;Systemic Sexism&#39;](https://kotaku.com/playstation-sony-sexism-case-suit-harassment-discrimina-1848631711)
+ - [How to get the Marais Executioner&#39;s Sword in Elden Ring](https://www.pcgamer.com/how-to-get-the-marais-executioners-sword-in-elden-ring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
