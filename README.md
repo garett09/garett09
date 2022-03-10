@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Overwatch 2: Everything we know about the unconventional sequel](https://www.pcgamer.com/overwatch-2-release-date-trailer-everything-we-know)
- - [Assassin’s Creed Valhalla&#39;s Fantasy Expansion Makes It Bigger, For Better And For Worse](https://kotaku.com/assassins-creed-valhalla-ragnarok-dlc-expansion-review-1848635292)<!-- GAME:END -->
+ - [After Yang intentionally subverts sci-fi’s fetishistic ‘hollow Asian’ trope](https://www.polygon.com/22971003/after-yang-kogonada-interview-asian-robot-trope)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
+ - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
