@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel SVP and GM of Accelerated Computing Raja Koduri on Intel&#39;s Zettascale Initiative, zettascale architectural innovations, the metaverse, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220310/p1#a220310p1)
- - [Nothing tells us nothing about March 23 event, might announce smartphone plans](https://www.androidauthority.com/nothing-phone-launch-3133570/)
- - [Color OS gains a nifty new feature to detect spy cameras in a room &lpar;Updated&rpar;](https://www.androidauthority.com/color-os-hidden-camera-detection-3130744/)<!-- TECH:END -->
+ - [We asked, you told us: Here’s how important the alert slider is to you](https://www.androidauthority.com/alert-slider-poll-results-3133578/)
+ - [Investigation details how caller ID app Truecaller, which has 205M+ MAUs in India, uses India&#39;s weak data privacy laws to build its user information database &lpar;Rachna Khaira/The Caravan&rpar;](http://www.techmeme.com/220310/p2#a220310p2)
+ - [Q&amp;A with Intel SVP and GM of Accelerated Computing Raja Koduri on Intel&#39;s Zettascale Initiative, zettascale architectural innovations, the metaverse, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220310/p1#a220310p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
