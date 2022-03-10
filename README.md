@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Mac Studio with M1 Max vs. Mac Studio with M1 Ultra](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-with-m1-max-versus-mac-studio-with-m1-ultra?utm_medium=rss)
- - [Everything Apple released at the &#39;Peek Performance&#39; event - and what we thought](https://appleinsider.com/articles/22/03/09/everything-apple-released-at-the-peek-performance-event---and-what-we-thought?utm_medium=rss)
- - [Apple AirPods Max are on sale for $425 &lpar;$125 off&rpar; today](https://appleinsider.com/articles/22/03/07/apple-airpods-max-are-on-sale-for-425-125-off-today?utm_medium=rss)<!-- TECH:END -->
+ - [The PopGrip JumpStart is a hand-dominating battery bank / grip](https://www.theverge.com/2022/3/10/22970987/popgrip-jumpstart-battery-bank-grip-iphone-android-accessory)
+ - [Russia has created its own trusted TLS certificate authority as sanctions prevent Russian sites from renewing existing TLS certificates &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220310/p28#a220310p28)
+ - [Niantic’s ‘largest acquisition to date’ shows the company is still pushing on AR](https://www.theverge.com/2022/3/10/22971072/niantic-8th-wall-acquisition-largest-ar-augmented-reality-pokemon-go)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
