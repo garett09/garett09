@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte&#39;s excellent 144Hz 1440p gaming monitor is on sale globally this time](https://www.pcgamer.com/gigabytes-excellent-144hz-1440p-gaming-monitor-is-on-sale-globally-this-time)
- - [The Dying Light 2 item that makes weapons unbreakable got nerfed, and players want it fixed](https://www.pcgamer.com/the-dying-light-2-item-that-makes-weapons-unbreakable-got-nerfed-and-players-want-it-fixed)
- - [Eight More Women Accuse PlayStation Of &#39;Systemic Sexism&#39;](https://kotaku.com/playstation-sony-sexism-case-suit-harassment-discrimina-1848631711)<!-- GAME:END -->
+ - [AMD&#39;s Ryzen 7 5800X3D is reportedly not overclockable](https://www.pcgamer.com/amds-ryzen-7-5800x3d-is-reportedly-not-overclockable)
+ - [It&#39;s $500 USD more to make Apple&#39;s $1,600 monitor height adjustable](https://www.pcgamer.com/its-dollar500-usd-more-to-make-apples-dollar1600-monitor-height-adjustable)
+ - [Gigabyte&#39;s excellent 144Hz 1440p gaming monitor is on sale globally this time](https://www.pcgamer.com/gigabytes-excellent-144hz-1440p-gaming-monitor-is-on-sale-globally-this-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
