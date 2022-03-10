@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips for surviving alongside Ark: Survival Evolved’s primeval wildlife](https://blog.playstation.com/2022/03/10/tips-for-surviving-alongside-ark-survival-evolveds-primeval-wildlife/)
- - [Tips for surviving alongside Ark: Survival Evolved’s primeval wildlife](https://blog.playstation.com/2022/03/10/tips-for-surviving-alongside-ark-survival-evolveds-primeval-wildlife/)
- - [Free Play Days – Dead by Daylight](https://news.xbox.com/en-us/2022/03/10/free-play-days-dead-by-daylight/)<!-- GAME:END -->
+ - [Oscar Isaac says Moon Knight deals with mental health in new look at the Marvel series](https://www.polygon.com/22970818/moon-knight-featurette-oscar-isaac)
+ - [Ghostwire: Tokyo gameplay shows it&#39;s more of a magical brawler than a horror game](https://www.pcgamer.com/ghostwire-tokyo-gameplay-shows-its-more-of-a-magical-brawler-than-a-horror-game)
+ - [Overwatch 2&#39;s first PvP beta kicks off in April, here&#39;s how to sign up](https://www.pcgamer.com/overwatch-2s-first-pvp-beta-kicks-off-in-april-heres-how-to-sign-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
