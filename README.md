@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia’s RTX 3090 Ti will reportedly launch on March 29th](https://www.pcgamer.com/nvidias-rtx-3090-ti-will-reportedly-launch-on-march-29th)
- - [JoJo&#39;s Bizarre Adventure: All Star Battle R is confirmed for PC](https://www.pcgamer.com/jojos-bizarre-adventure-all-star-battle-r-is-confirmed-for-pc)
- - [AMD&#39;s Ryzen 7 5800X3D is reportedly not overclockable](https://www.pcgamer.com/amds-ryzen-7-5800x3d-is-reportedly-not-overclockable)<!-- GAME:END -->
+ - [The Cowabunga Collection brings back 13 Teenage Mutant Ninja Turtles games](https://www.pcgamer.com/the-cowabunga-collection-brings-back-13-teenage-mutant-ninja-turtles-games)
+ - [Sony halts all PlayStation sales and blocks store access in Russia](https://www.pcgamer.com/sony-halts-all-playstation-sales-and-blocks-store-access-in-russia)
+ - [MSI is recalling MAG CoreLiquid 240R/360R AIO coolers for hitting abnormally high idle temps](https://www.pcgamer.com/msi-is-recalling-mag-coreliquid-240r360r-aio-coolers-for-hitting-abnormally-high-idle-temps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
