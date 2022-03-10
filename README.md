@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you a horse?](http://9gag.com/gag/a416dgQ)
- - 🚯 [Mikolaiev, 10March 2022 1am](http://9gag.com/gag/a816bnY)
- - 🚯 [When your owner pets another cat](http://9gag.com/gag/azedE4b)<!-- MEMES:END -->
+ - 🚖 [Just man up bro](http://9gag.com/gag/azedEWx)
+ - 🚯 [I gotta stop smokin so much weed... I&#39;m so high, I thought this MFs were sitting on a couch](http://9gag.com/gag/aDD63mx)
+ - 🚯 [Bon appetit](http://9gag.com/gag/ay930Vp)<!-- MEMES:END -->
 
 --- 
 
