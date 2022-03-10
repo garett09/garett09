@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Yang intentionally subverts sci-fi’s fetishistic ‘hollow Asian’ trope](https://www.polygon.com/22971003/after-yang-kogonada-interview-asian-robot-trope)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)
- - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)<!-- GAME:END -->
+ - [The weirdest video game reference in The Matrix Resurrections](https://www.polygon.com/videos/22970843/matrix-resurrections-walking-cycle-video-games)
+ - [Elite Dangerous console development halted so developers can focus on PC](https://www.pcgamer.com/elite-dangerous-console-development-halted-so-developers-can-focus-on-pc)
+ - [After Yang intentionally subverts sci-fi’s fetishistic ‘hollow Asian’ trope](https://www.polygon.com/22971003/after-yang-kogonada-interview-asian-robot-trope)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
