@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [George is a good lad](http://9gag.com/gag/a0ZXjnd)
- - 🚯 [Lagging](http://9gag.com/gag/aKmA341)
- - 🚯 [F**k these things](http://9gag.com/gag/a11NMQ2)<!-- MEMES:END -->
+ - 🚖 [The difference between M1 Abrams manual loader with blowout panel that can protect the crew if the ammo rack got hit and T-72 carousel autoloader with pretty much flying turret if the ammo rack got hit](http://9gag.com/gag/aDD6GLO)
+ - 🚯 [Enough is enough](http://9gag.com/gag/aVxoPrd)
+ - 🚯 [Heh](http://9gag.com/gag/aWg78OK)<!-- MEMES:END -->
 
 --- 
 
