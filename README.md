@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte&#39;s excellent 144Hz 1440p gaming monitor is on sale globally this time](https://www.pcgamer.com/gigabytes-excellent-144hz-1440p-gaming-monitor-is-on-sale-globally-this-time)
  - [The Dying Light 2 item that makes weapons unbreakable got nerfed, and players want it fixed](https://www.pcgamer.com/the-dying-light-2-item-that-makes-weapons-unbreakable-got-nerfed-and-players-want-it-fixed)
- - [Eight More Women Accuse PlayStation Of &#39;Systemic Sexism&#39;](https://kotaku.com/playstation-sony-sexism-case-suit-harassment-discrimina-1848631711)
- - [How to get the Marais Executioner&#39;s Sword in Elden Ring](https://www.pcgamer.com/how-to-get-the-marais-executioners-sword-in-elden-ring)<!-- GAME:END -->
+ - [Eight More Women Accuse PlayStation Of &#39;Systemic Sexism&#39;](https://kotaku.com/playstation-sony-sexism-case-suit-harassment-discrimina-1848631711)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
