@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern problems require third world country Solutions.](http://9gag.com/gag/azedbzK)
- - 🚯 [Wheels for sure](http://9gag.com/gag/aWg7Q7A)
- - 🚯 [I need what she is on](http://9gag.com/gag/a21wNx9)<!-- MEMES:END -->
+ - 🚖 [When a fake news on social media tells you that the gas prices will rise by 0,5 Euro cents / liter at midnight - Romania today, all major cities](http://9gag.com/gag/aBn6Kd2)
+ - 🚯 [I need what she is on](http://9gag.com/gag/a21wNx9)
+ - 🚯 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)<!-- MEMES:END -->
 
 --- 
 
