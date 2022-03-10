@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is The Coolest Thing A Destiny Raid Boss Has Ever Done](https://kotaku.com/destiny-2-witch-queen-raid-boss-vow-disciple-witness-an-1848637720)
- - [An early Denzel noir and 9 other great detective movies streaming now](https://www.polygon.com/what-to-watch/22970863/best-detective-movies-netflix-hbo-max-hulu-amazon-prime)
- - [Russia May Legalize Software Piracy As Tech And Game Companies Continue To Pull Out](https://kotaku.com/piracy-russia-ukraine-sony-apple-microsoft-legalize-pir-1848637504)<!-- GAME:END -->
+ - [Call of Duty: Warzone is coming to phones](https://www.polygon.com/22971682/call-of-duty-warzone-mobile-version-game)
+ - [RPG Time: The Legend of Wright Available Today](https://news.xbox.com/en-us/2022/03/10/rpg-time-the-legend-of-wright-available-today/)
+ - [This Is The Coolest Thing A Destiny Raid Boss Has Ever Done](https://kotaku.com/destiny-2-witch-queen-raid-boss-vow-disciple-witness-an-1848637720)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
