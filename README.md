@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Riddler, Killmonger, and the trap of villains who are right](https://www.polygon.com/2022/3/10/22969710/riddler-was-right-batman-origin-motivation)
- - [10 Tips to Help You Master Aztech Forgotten Gods](https://news.xbox.com/en-us/2022/03/10/10-tips-to-help-you-master-aztech-forgotten-gods/)
- - [Pushing Daisies used quirkiness to bridge time and queer history](https://www.polygon.com/22967661/pushing-daisies-bryan-fuller-genre-aids)<!-- GAME:END -->
+ - [Tips for surviving alongside Ark: Survival Evolved’s primeval wildlife](https://blog.playstation.com/2022/03/10/tips-for-surviving-alongside-ark-survival-evolveds-primeval-wildlife/)
+ - [Tips for surviving alongside Ark: Survival Evolved’s primeval wildlife](https://blog.playstation.com/2022/03/10/tips-for-surviving-alongside-ark-survival-evolveds-primeval-wildlife/)
+ - [Free Play Days – Dead by Daylight](https://news.xbox.com/en-us/2022/03/10/free-play-days-dead-by-daylight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
