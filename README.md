@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orlando-based Stax, which offers flat-fee subscriptions for processing business payments, raises $245M from investors including Blue Star at a $1B+ valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/220309/p44#a220309p44)
- - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/news/the-absolute-best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)
- - [Substack&#39;s app lets users pause email delivery to read only in the app, building a moat for Substack that potentially protects it from competitors &lpar;Adam Tinworth/One Man &amp; His Blog&rpar;](http://www.techmeme.com/220309/p43#a220309p43)<!-- TECH:END -->
+ - [Color OS gains a nifty new feature to detect spy cameras in a room &lpar;Updated&rpar;](https://www.androidauthority.com/color-os-hidden-camera-detection-3130744/)
+ - [OnePlus previews Oxygen OS 13, says Oxygen OS 12 launch wasn’t up to the mark](https://www.androidauthority.com/oneplus-oxygen-os-13-3133554/)
+ - [An investigation into Tron founder and Poloniex investor Justin Sun, who according to a FBI subpoena is facing potential charges for wire fraud and more &lpar;Christopher Harland-Dunaway/The Verge&rpar;](http://www.techmeme.com/220309/p45#a220309p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
