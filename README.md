@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The difference between M1 Abrams manual loader with blowout panel that can protect the crew if the ammo rack got hit and T-72 carousel autoloader with pretty much flying turret if the ammo rack got hit](http://9gag.com/gag/aDD6GLO)
- - 🚯 [Enough is enough](http://9gag.com/gag/aVxoPrd)
- - 🚯 [Heh](http://9gag.com/gag/aWg78OK)<!-- MEMES:END -->
+ - 🚖 [Miau](http://9gag.com/gag/avA1PWX)
+ - 🚯 [Heh](http://9gag.com/gag/aWg78OK)
+ - 🚯 [POWER PUNCHES](http://9gag.com/gag/avA1PvE)<!-- MEMES:END -->
 
 --- 
 
