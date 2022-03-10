@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix a Chromebook that won’t turn on or stay on](https://www.androidauthority.com/chromebook-wont-turn-on-3130965/)
- - [Google opens beta for future Pixel feature drops](https://www.theverge.com/2022/3/10/22970537/google-pixel-qpr3-beta-1-release-feature-drop)
- - [Motorola’s Newest Budget Moto G Isn&#39;t Much of an Upgrade](https://www.wired.com/review/motorola-moto-g-stylus-2022)<!-- TECH:END -->
+ - [The 6 Best Photo Printing Services](https://www.wired.com/story/best-photo-printing-services)
+ - [Nvidia GeForce Now RTX 3080 tier now available monthly for $19.99](https://www.theverge.com/22970496/nvidia-geforce-now-rtx-3080-monthly-membership-pricing-details)
+ - [The future of makeup is lipstick you can print](https://www.theverge.com/22968911/ysl-rouge-sur-mesure-review-beauty-tech-loreal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
