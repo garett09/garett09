@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oscar Isaac says Moon Knight deals with mental health in new look at the Marvel series](https://www.polygon.com/22970818/moon-knight-featurette-oscar-isaac)
- - [Ghostwire: Tokyo gameplay shows it&#39;s more of a magical brawler than a horror game](https://www.pcgamer.com/ghostwire-tokyo-gameplay-shows-its-more-of-a-magical-brawler-than-a-horror-game)
- - [Overwatch 2&#39;s first PvP beta kicks off in April, here&#39;s how to sign up](https://www.pcgamer.com/overwatch-2s-first-pvp-beta-kicks-off-in-april-heres-how-to-sign-up)<!-- GAME:END -->
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Overwatch 2: Everything we know about the unconventional sequel](https://www.pcgamer.com/overwatch-2-release-date-trailer-everything-we-know)
+ - [Assassin’s Creed Valhalla&#39;s Fantasy Expansion Makes It Bigger, For Better And For Worse](https://kotaku.com/assassins-creed-valhalla-ragnarok-dlc-expansion-review-1848635292)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
