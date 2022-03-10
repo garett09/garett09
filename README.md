@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s how important the alert slider is to you](https://www.androidauthority.com/alert-slider-poll-results-3133578/)
- - [Investigation details how caller ID app Truecaller, which has 205M+ MAUs in India, uses India&#39;s weak data privacy laws to build its user information database &lpar;Rachna Khaira/The Caravan&rpar;](http://www.techmeme.com/220310/p2#a220310p2)
- - [Q&amp;A with Intel SVP and GM of Accelerated Computing Raja Koduri on Intel&#39;s Zettascale Initiative, zettascale architectural innovations, the metaverse, and more &lpar;Dr. Ian Cutress/AnandTech&rpar;](http://www.techmeme.com/220310/p1#a220310p1)<!-- TECH:END -->
+ - [OnePlus 9 series gets February 2022 patch with new update](https://www.androidauthority.com/oneplus-9-update-1212009/)
+ - [Israeli startup Lendai, whose AI tool helps foreign investors without a US credit history get financing for real estate, raises a $35M seed in equity and debt &lpar;Alissa Abrahami/Geektime&rpar;](http://www.techmeme.com/220310/p6#a220310p6)
+ - [Paris-based Alice&amp;Bob, which is building fault-tolerant quantum processors, raises a &amp;euro;27M Series A co-led by Elaia, Bpifrance, and Supernova Invest &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220310/p5#a220310p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
