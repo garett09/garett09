@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to enter Kára&#39;s Domain and Valkyrie Arena in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/assassins-creed-ac-valhalla-karas-domain-valkyrie-arena)
- - [Ikumi Nakamura Introduces Her New Studio, Unseen](https://kotaku.com/ikumi-nakamura-ghostwire-tokyo-bayonetta-okami-unseen-1848633685)
- - [The Cowabunga Collection brings back 13 Teenage Mutant Ninja Turtles games](https://www.pcgamer.com/the-cowabunga-collection-brings-back-13-teenage-mutant-ninja-turtles-games)<!-- GAME:END -->
+ - [Dive into multiplayer in Stranger of Paradise Final Fantasy Origin Demo, out now](https://blog.playstation.com/2022/03/10/dive-into-multiplayer-in-stranger-of-paradise-final-fantasy-origin-demo-out-now/)
+ - [Dive into multiplayer in Stranger of Paradise Final Fantasy Origin Demo, out now](https://blog.playstation.com/2022/03/10/dive-into-multiplayer-in-stranger-of-paradise-final-fantasy-origin-demo-out-now/)
+ - [Take the Fight to the Forts in Sea of Thieves Season Six](https://news.xbox.com/en-us/2022/03/10/take-the-fight-to-the-forts-in-sea-of-thieves-season-six/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
