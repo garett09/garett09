@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some tech companies are helping evacuate their staff from Russia, including by chartering planes and procuring visas, after previously doing the same in Ukraine &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220310/p21#a220310p21)
- - [Mobile games maker Scopely invests $20M in a new game developer called Burlingame Studios; Scopely invested $50M across three European studios last year &lpar;Trilby Beresford/Hollywood Reporter&rpar;](http://www.techmeme.com/220310/p20#a220310p20)
- - [Jack Thompson still has a grudge](https://www.theverge.com/2022/3/10/22956300/jack-thompson-interview-violent-games-gta-doom-attorney)<!-- TECH:END -->
+ - [The Overwatch 2 closed beta will finally let you play as a Black woman](https://www.theverge.com/2022/3/10/22970734/blizzard-overwatch-2-closed-beta-alpha-annoucement-sojourn)
+ - [How Twitter plans to add its next 100 million users](https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview)
+ - [Apple Studio Display only starts at $1599, and can easily climb to $2458](https://appleinsider.com/articles/22/03/08/apple-studio-display-only-starts-at-1599-and-can-easily-climb-to-2458?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
