@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scientists figured out how to make fish with genes from a jellyfish! Fluorescent carp!](http://9gag.com/gag/aE86vdx)
- - 🚯 [When a fake news on social media tells you that the gas prices will rise by 0,5 Euro cents / liter at midnight - Romania today, all major cities](http://9gag.com/gag/aBn6Kd2)
- - 🚯 [Visualization of all satellites currently orbiting the earth](http://9gag.com/gag/aBn6KyO)<!-- MEMES:END -->
+ - 🚖 [Wheels for sure](http://9gag.com/gag/aWg7Q7A)
+ - 🚯 [Ultrasonic dog repeller in action](http://9gag.com/gag/adg108d)
+ - 🚯 [This is a war crime.](http://9gag.com/gag/aZr1bvV)<!-- MEMES:END -->
 
 --- 
 
