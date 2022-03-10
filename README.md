@@ -183,9 +183,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Ryzen 7 5800X3D is reportedly not overclockable](https://www.pcgamer.com/amds-ryzen-7-5800x3d-is-reportedly-not-overclockable)
- - [It&#39;s $500 USD more to make Apple&#39;s $1,600 monitor height adjustable](https://www.pcgamer.com/its-dollar500-usd-more-to-make-apples-dollar1600-monitor-height-adjustable)
- - [Gigabyte&#39;s excellent 144Hz 1440p gaming monitor is on sale globally this time](https://www.pcgamer.com/gigabytes-excellent-144hz-1440p-gaming-monitor-is-on-sale-globally-this-time)<!-- GAME:END -->
+ - [Nvidia’s RTX 3090 Ti will reportedly launch on March 29th](https://www.pcgamer.com/nvidias-rtx-3090-ti-will-reportedly-launch-on-march-29th)
+ - [JoJo&#39;s Bizarre Adventure: All Star Battle R is confirmed for PC](https://www.pcgamer.com/jojos-bizarre-adventure-all-star-battle-r-is-confirmed-for-pc)
+ - [AMD&#39;s Ryzen 7 5800X3D is reportedly not overclockable](https://www.pcgamer.com/amds-ryzen-7-5800x3d-is-reportedly-not-overclockable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
