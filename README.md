@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to play Steam games in any room of your house](https://www.theverge.com/22962051/steam-games-remote-play-windows-ios-android-macos-streaming)
- - [Microsoft details its Steam Deck support for Xbox Game Studios titles](https://www.theverge.com/2022/3/10/22971257/microsoft-steam-deck-xbox-game-studios-list)
- - [You can save up to $50 on some Nintendo Switch games for Mario Day](https://www.theverge.com/good-deals/2022/3/10/22970121/mario-day-march-10-nintendo-games-accessories-deals-sale)<!-- TECH:END -->
+ - [This update just made your Roomba i3 smarter](https://www.theverge.com/2022/3/10/22967391/irobot-roomba-i3-update-smart-mapping)
+ - [Here’s the thick bottom bezel of the spiritual successor to the Essential Phone](https://www.androidauthority.com/osom-ov1-bezel-3134442/)
+ - [Best iPad Deals: Save $20 on iPad, $60 on iPad Air, $100 on iPad Pro     - CNET](https://www.cnet.com/tech/computing/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
