@@ -197,9 +197,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing horror games at night](http://9gag.com/gag/aKmAgpb)
- - 🚯 [How to deal with Karens](http://9gag.com/gag/awz3be4)
- - 🚯 [Mikolaiev, 10March 2022 1am](http://9gag.com/gag/a816bnY)<!-- MEMES:END -->
+ - 🚖 [Are you a horse?](http://9gag.com/gag/a416dgQ)
+ - 🚯 [Mikolaiev, 10March 2022 1am](http://9gag.com/gag/a816bnY)
+ - 🚯 [When your owner pets another cat](http://9gag.com/gag/azedE4b)<!-- MEMES:END -->
 
 --- 
 
