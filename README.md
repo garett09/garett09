@@ -190,9 +190,9 @@ Windows                  5 hrs 41 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro 2022: Every Rumor and What to Expect     - CNET](https://www.cnet.com/tech/computing/macbook-pro-2022-rumors/#ftag=CAD590a51e)
- - [OnePlus 9 series gets February 2022 patch with new update](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [Israeli startup Lendai, whose AI tool helps foreign investors without a US credit history get financing for real estate, raises a $35M seed in equity and debt &lpar;Alissa Abrahami/Geektime&rpar;](http://www.techmeme.com/220310/p6#a220310p6)<!-- TECH:END -->
+ - [Meta says Instagram&#39;s VP of youth Pavni Diwanji is stepping down as part of a restructuring; Adam Mosseri will oversee youth-focused work &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220310/p8#a220310p8)
+ - [What is blockchain technology and how does it work?](https://www.androidauthority.com/what-is-blockchain-technology-801514/)
+ - [DeepMind details Ithaca, an AI model to help restore missing text from ancient Greek inscriptions and offer suggestions about where and when they were written &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220310/p7#a220310p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
