@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new streaming accessories help make you sound and look better](https://www.theverge.com/2022/3/11/22972442/razer-seiren-bt-bluetooth-lapel-mic-key-light-chroma-audio-mixer)
- - [How to find and use Instagram filters](https://www.androidauthority.com/find-and-use-instagram-filters-3133469/)
- - [Daily Authority: 👉 Google hypes tablets &lpar;again&rpar;](https://www.androidauthority.com/da-march-11-2022-3134729/)<!-- TECH:END -->
+ - [WhatsApp teams up with Cloudflare to unveil Code Verify, an open-source browser extension that verifies the authenticity of code served to the browser &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/220311/p5#a220311p5)
+ - [Real Deal](https://www.theverge.com/22960552/real-deal-inscryption-creators-gaming)
+ - [Compared: Apple Studio Display vs LG UltraFine 5K Display](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-lg-ultrafine-5k-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
