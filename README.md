@@ -197,7 +197,7 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrap your gifts without tape](http://9gag.com/gag/aWg78mn)
+ - 🚖 [2019, diver Chris Lemons was fixing piping on the sea bed when his tether &lpar;oxygen and heat&rpar; was severed. He was left on the sea floor for over half an hour, a camera capturing what was believed to be his last moment alive. When he was `recovered`, they were shocked he was alive.](http://9gag.com/gag/aRr4jmA)
  - 🚯 [Even the best of the best operas have like 1-2 memorable melodies, and the rest is just one giant filler made from the same overused melodic patterns and orchestral sequences... Same for the plot - usually just 10 minutes worth of interesting stuff, stretched to 3-4 hours](http://9gag.com/gag/aeg1Yyv)
  - 🚯 [There has to be a tiny bit of genetics involved](http://9gag.com/gag/aqGXrXP)<!-- MEMES:END -->
 
