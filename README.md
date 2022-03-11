@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [35% off the 2nd Gen Echo Show 5, and more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
- - [Sources: Meta is cutting back on staff perks like laundry service; CTO Bosworth and others chafed at the perceived sense of entitlement of complaining staff &lpar;New York Times&rpar;](http://www.techmeme.com/220311/p29#a220311p29)
- - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [How to preorder Apple&#39;s iPhone SE 3 &lpar;2022&rpar; and get the best deal](https://appleinsider.com/articles/22/03/11/how-to-preorder-apples-iphone-se-3-2022-and-get-the-best-deal?utm_medium=rss)
+ - [Google wins court battle with Genius over song lyrics](https://www.theverge.com/2022/3/11/22973282/google-wins-court-battle-genius-song-lyrics-copyright)
+ - [Bored Ape Yacht Club creator buys CryptoPunks and Meebits](https://www.theverge.com/2022/3/11/22973394/bored-ape-yacht-club-cryptopunks-meebits-nft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
