@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer launches new streaming hardware including RGB key light](https://www.pcgamer.com/razer-launches-new-streaming-hardware-including-rgb-key-light)
- - [Atari Buys MobyGames For $1.5 Million](https://kotaku.com/mobygames-retro-credits-database-imdb-atari-freyholtz-b-1848638521)
- - [Elden Ring: How to get the Eclipse Shotel](https://www.pcgamer.com/elden-ring-how-to-get-the-eclipse-shotel)<!-- GAME:END -->
+ - [The first Total War: Warhammer campaign remains the series&#39; greatest](https://www.pcgamer.com/the-first-total-war-warhammer-campaign-remains-the-series-greatest)
+ - [OperaGX is bringing Logitech LightSync to the browsing experience, because why not](https://www.pcgamer.com/operagx-is-bringing-logitech-lightsync-to-the-browsing-experience-because-why-not)
+ - [Humble Bundle pulls sales from Russia and Belarus, will launch a Ukraine support bundle](https://www.pcgamer.com/humble-bundle-pulls-sales-from-russia-and-belarus-will-launch-a-ukraine-support-bundle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
