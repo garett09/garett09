@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone is coming to phones](https://www.polygon.com/22971682/call-of-duty-warzone-mobile-version-game)
- - [RPG Time: The Legend of Wright Available Today](https://news.xbox.com/en-us/2022/03/10/rpg-time-the-legend-of-wright-available-today/)
- - [This Is The Coolest Thing A Destiny Raid Boss Has Ever Done](https://kotaku.com/destiny-2-witch-queen-raid-boss-vow-disciple-witness-an-1848637720)<!-- GAME:END -->
+ - [Chrono Trigger Is Now Officially Playable In 21:9](https://kotaku.com/chrono-trigger-square-enix-pc-steam-widescreen-ultra-wi-1848638266)
+ - [How to get the Bolt of Gransax in Elden Ring](https://www.pcgamer.com/elden-ring-bolt-of-gransax-location)
+ - [The cheapest way to buy Tiny Tina&#39;s Wonderlands in Australia](https://www.pcgamer.com/buy-tiny-tinas-wonderlands-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
