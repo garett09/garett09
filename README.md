@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aliens From Another World Arrive in Fallout 76](https://news.xbox.com/en-us/2022/03/11/aliens-from-another-world-arrive-in-fallout-76/)
- - [Elden Ring has some super cheesy rune farming spots](https://www.pcgamer.com/elden-ring-rune-farm-guide)
- - [For Honor is finally getting cross-play](https://www.polygon.com/22972617/for-honor-cross-play-ubisoft-update-friends-progression)<!-- GAME:END -->
+ - [Steam Deck runs Windows now &lpar;and Destiny 2&rpar;](https://www.polygon.com/22972760/steam-deck-windows-10-drivers-11-os-dual-boot)
+ - [GT7 Design Competition Announced](https://blog.playstation.com/2022/03/11/gt7-design-competition-announced/)
+ - [GT7 Design Competition Announced](https://blog.playstation.com/2022/03/11/gt7-design-competition-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
