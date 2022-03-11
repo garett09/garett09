@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Elden Ring Teaches Us to Be More Open About Death     - CNET](https://www.cnet.com/tech/gaming/how-elden-ring-teaches-us-to-be-more-open-about-death/#ftag=CAD590a51e)
- - [Apple&#39;s &#39;Underdogs&#39; return to show how Apple products power small businesses](https://appleinsider.com/articles/22/03/11/apples-underdogs-return-to-show-how-apple-products-power-small-businesses?utm_medium=rss)
- - [Norway&#39;s Tibber, which predicts energy consumption with machine learning and offers customers the cheapest per hour, raises a $100M Series C led by Summa Equity &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220310/p40#a220310p40)<!-- TECH:END -->
+ - [Sources: Didi suspends its Hong Kong IPO plans after Chinese regulators said its proposals to prevent data leaks fell short; its main apps will remain suspended &lpar;Bloomberg&rpar;](http://www.techmeme.com/220311/p1#a220311p1)
+ - [This upcoming OnePlus phone has a rather peculiar design](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)
+ - [How Elden Ring Teaches Us to Be More Open About Death     - CNET](https://www.cnet.com/tech/gaming/how-elden-ring-teaches-us-to-be-more-open-about-death/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
