@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA And Gearbox Sign Letter Opposing Anti-Trans Bill In Texas](https://kotaku.com/texas-electronic-arts-gearbox-microsoft-transgender-ord-1848642086)
- - [Share of the Week: Horizon Forbidden West – Aloy](https://blog.playstation.com/2022/03/11/share-of-the-week-horizon-forbidden-west-aloy/)
- - [Share of the Week: Horizon Forbidden West – Aloy](https://blog.playstation.com/2022/03/11/share-of-the-week-horizon-forbidden-west-aloy/)<!-- GAME:END -->
+ - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
+ - [Netflix’s shallow time-travel yarn The Adam Project lets Ryan Reynolds do his thing](https://www.polygon.com/22971923/the-adam-project-review-netflix-ryan-reynolds)
+ - [Niantic pulls Pokémon Go, Pikmin Bloom from Russia and Belarus](https://www.polygon.com/22972888/pokemon-go-pikmin-bloom-niantic-russian-players-banned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
