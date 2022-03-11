@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s laughing now](http://9gag.com/gag/a916r5j)
- - 🚯 [2019, diver Chris Lemons was fixing piping on the sea bed when his tether &lpar;oxygen and heat&rpar; was severed. He was left on the sea floor for over half an hour, a camera capturing what was believed to be his last moment alive. When he was `recovered`, they were shocked he was alive.](http://9gag.com/gag/aRr4jmA)
- - 🚯 [Fck........](http://9gag.com/gag/aWg71Qq)<!-- MEMES:END -->
+ - 🚖 [Fck........](http://9gag.com/gag/aWg71Qq)
+ - 🚯 [Also works great for smashing people in the face.](http://9gag.com/gag/a21w4Xp)
+ - 🚯 [Sound on](http://9gag.com/gag/aNP9zmK)<!-- MEMES:END -->
 
 --- 
 
