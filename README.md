@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just trying to grab a slice of pizza, ignore me](http://9gag.com/gag/aOQervr)
- - 🚯 [Just for the lolz](http://9gag.com/gag/aDD612G)
- - 🚯 [Eye Opener?](http://9gag.com/gag/aVxo3j8)<!-- MEMES:END -->
+ - 🚖 [M Water please.](http://9gag.com/gag/aE862OO)
+ - 🚯 [This dog barks wrong](http://9gag.com/gag/aNP91Qr)
+ - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)<!-- MEMES:END -->
 
 --- 
 
