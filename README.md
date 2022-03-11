@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Choose wisely](http://9gag.com/gag/a516b5o)
- - 🚯 [Wrap your gifts without tape](http://9gag.com/gag/aWg78mn)
- - 🚯 [Even the best of the best operas have like 1-2 memorable melodies, and the rest is just one giant filler made from the same overused melodic patterns and orchestral sequences... Same for the plot - usually just 10 minutes worth of interesting stuff, stretched to 3-4 hours](http://9gag.com/gag/aeg1Yyv)<!-- MEMES:END -->
+ - 🚖 [Wrap your gifts without tape](http://9gag.com/gag/aWg78mn)
+ - 🚯 [Even the best of the best operas have like 1-2 memorable melodies, and the rest is just one giant filler made from the same overused melodic patterns and orchestral sequences... Same for the plot - usually just 10 minutes worth of interesting stuff, stretched to 3-4 hours](http://9gag.com/gag/aeg1Yyv)
+ - 🚯 [There has to be a tiny bit of genetics involved](http://9gag.com/gag/aqGXrXP)<!-- MEMES:END -->
 
 --- 
 
