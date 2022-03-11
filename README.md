@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation finds a campaign coordinated in a secret Telegram channel to pay Russian TikTok influencers to post videos pushing pro-Kremlin narratives &lpar;David Gilbert/VICE&rpar;](http://www.techmeme.com/220311/p19#a220311p19)
- - [2023 Acura Integra Is a Sharply Styled Hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-acura-integra/#ftag=CAD590a51e)
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube says it is blocking access to YouTube channels associated with Russian state-funded media globally, expanding from across Europe &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220311/p24#a220311p24)
+ - [Android 101: how to use Google Pay](https://www.theverge.com/22971315/google-pay-gpay-how-to-android)
+ - [YouTube is now blocking Russian state-funded media worldwide](https://www.theverge.com/2022/3/11/22972911/youtube-rt-russian-sputnik-block-state-media-globally)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
