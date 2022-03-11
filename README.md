@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That Sound of the shield hitting him is kinda nice ngl](http://9gag.com/gag/arn3gBV)
- - 🚯 [Come enjoy exciting Tokyo!](http://9gag.com/gag/aRr436M)
- - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)<!-- MEMES:END -->
+ - 🚖 [So in retaliation to Ukraine having a volunteer army from EU, Canada, USA and allies. Russia just announced its allowing Middle eastern `Volunteers` aka Merc to fight in Ukraine and saying its Ukraine&#39;s and NATO&#39;s fault for intervening.](http://9gag.com/gag/aeg1rrq)
+ - 🚯 [Phoenix as Napoleon](http://9gag.com/gag/avA1Orq)
+ - 🚯 [We are being f**ked, like always, and everyone is just talking about it, and doing nothing. Just like I with this meme.](http://9gag.com/gag/ajg18Xx)<!-- MEMES:END -->
 
 --- 
 
