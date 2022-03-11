@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
- - [In celebration of &#39;ugly&#39; games](https://www.pcgamer.com/in-celebration-of-ugly-games)
- - [Next Week on Xbox: March 14 to 18](https://news.xbox.com/en-us/2022/03/11/next-week-on-xbox-march-14-to-18/)<!-- GAME:END -->
+ - [Aliens From Another World Arrive in Fallout 76](https://news.xbox.com/en-us/2022/03/11/aliens-from-another-world-arrive-in-fallout-76/)
+ - [Elden Ring has some super cheesy rune farming spots](https://www.pcgamer.com/elden-ring-rune-farm-guide)
+ - [For Honor is finally getting cross-play](https://www.polygon.com/22972617/for-honor-cross-play-ubisoft-update-friends-progression)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
