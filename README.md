@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India-based 100ms, which lets developers add video conferencing to their apps, raises a $20M Series A, bringing its total funding to $24.5M &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220311/p2#a220311p2)
  - [Four years later, Samsung is still updating the Galaxy S9 flagships.](https://www.androidauthority.com/samsung-galaxy-s9-march-2022-update-3134582/)
- - [Sources: Didi suspends its Hong Kong IPO plans after Chinese regulators said its proposals to prevent data leaks fell short; its main apps will remain suspended &lpar;Bloomberg&rpar;](http://www.techmeme.com/220311/p1#a220311p1)
- - [This upcoming OnePlus phone has a rather peculiar design](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)<!-- TECH:END -->
+ - [Sources: Didi suspends its Hong Kong IPO plans after Chinese regulators said its proposals to prevent data leaks fell short; its main apps will remain suspended &lpar;Bloomberg&rpar;](http://www.techmeme.com/220311/p1#a220311p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
