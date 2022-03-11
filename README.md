@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp teams up with Cloudflare to unveil Code Verify, an open-source browser extension that verifies the authenticity of code served to the browser &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/220311/p5#a220311p5)
- - [Real Deal](https://www.theverge.com/22960552/real-deal-inscryption-creators-gaming)
- - [Compared: Apple Studio Display vs LG UltraFine 5K Display](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-lg-ultrafine-5k-display?utm_medium=rss)<!-- TECH:END -->
+ - [Green phones, ranked](https://www.theverge.com/2022/3/11/22970820/apple-iphone-13-pro-alpine-green-samsung-s22-compared-ranked)
+ - [Russia moves to ban Instagram and designate Meta as an &quot;extremist organization&quot;; source says WhatsApp won&#39;t be affected as it is a means of communication &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220311/p7#a220311p7)
+ - [Mac Studio, iPad Air, and Studio Display deep dives on the AppleInsider podcast](https://appleinsider.com/articles/22/03/11/mac-studio-ipad-air-and-studio-display-deep-dives-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
