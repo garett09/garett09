@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This idiot is telling that Ukrainians with Americans were making biological weapon which would have targeted only Slavic race people I mean if they said generic I would say maybe but this is just fcking epic](http://9gag.com/gag/a4163L1)
- - 🚯 [We are being f**ked, like always, and everyone is just talking about it, and doing nothing. Just like I with this meme.](http://9gag.com/gag/ajg18Xx)
- - 🚯 [It\u2019s John cena !](http://9gag.com/gag/aDD61yK)<!-- MEMES:END -->
+ - 🚖 [This is fine](http://9gag.com/gag/aeg1rgj)
+ - 🚯 [Accurate](http://9gag.com/gag/axB39B1)
+ - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)<!-- MEMES:END -->
 
 --- 
 
