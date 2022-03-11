@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based 100ms, which lets developers add video conferencing to their apps, raises a $20M Series A, bringing its total funding to $24.5M &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220311/p2#a220311p2)
- - [Four years later, Samsung is still updating the Galaxy S9 flagships.](https://www.androidauthority.com/samsung-galaxy-s9-march-2022-update-3134582/)
- - [Sources: Didi suspends its Hong Kong IPO plans after Chinese regulators said its proposals to prevent data leaks fell short; its main apps will remain suspended &lpar;Bloomberg&rpar;](http://www.techmeme.com/220311/p1#a220311p1)<!-- TECH:END -->
+ - [New iPhone SE delivers iPhone 13 performance for $270 less](https://appleinsider.com/articles/22/03/10/new-iphone-se-delivers-iphone-13-performance-for-270-less?utm_medium=rss)
+ - [New MacBook Air, MacBook Pro with M2 said to launch in late 2022](https://appleinsider.com/articles/22/03/10/new-macbook-air-macbook-pro-with-m2-said-to-to-launch-in-late-2022?utm_medium=rss)
+ - [Tim Cook speaks out against &#39;don&#39;t say gay&#39; laws](https://appleinsider.com/articles/22/03/11/tim-cook-speaks-out-against-dont-say-gay-laws?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
