@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck runs Windows now &lpar;and Destiny 2&rpar;](https://www.polygon.com/22972760/steam-deck-windows-10-drivers-11-os-dual-boot)
- - [GT7 Design Competition Announced](https://blog.playstation.com/2022/03/11/gt7-design-competition-announced/)
- - [GT7 Design Competition Announced](https://blog.playstation.com/2022/03/11/gt7-design-competition-announced/)<!-- GAME:END -->
+ - [EA And Gearbox Sign Letter Opposing Anti-Trans Bill In Texas](https://kotaku.com/texas-electronic-arts-gearbox-microsoft-transgender-ord-1848642086)
+ - [Share of the Week: Horizon Forbidden West – Aloy](https://blog.playstation.com/2022/03/11/share-of-the-week-horizon-forbidden-west-aloy/)
+ - [Share of the Week: Horizon Forbidden West – Aloy](https://blog.playstation.com/2022/03/11/share-of-the-week-horizon-forbidden-west-aloy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
