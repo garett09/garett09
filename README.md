@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Four years later, Samsung is still updating the Galaxy S9 flagships.](https://www.androidauthority.com/samsung-galaxy-s9-march-2022-update-3134582/)
  - [Sources: Didi suspends its Hong Kong IPO plans after Chinese regulators said its proposals to prevent data leaks fell short; its main apps will remain suspended &lpar;Bloomberg&rpar;](http://www.techmeme.com/220311/p1#a220311p1)
- - [This upcoming OnePlus phone has a rather peculiar design](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)
- - [How Elden Ring Teaches Us to Be More Open About Death     - CNET](https://www.cnet.com/tech/gaming/how-elden-ring-teaches-us-to-be-more-open-about-death/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This upcoming OnePlus phone has a rather peculiar design](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
