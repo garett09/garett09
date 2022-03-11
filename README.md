@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: February 2022’s top downloads](https://blog.playstation.com/2022/03/11/playstation-store-february-2022s-top-downloads/)
- - [PlayStation Store: February 2022’s top downloads](https://blog.playstation.com/2022/03/11/playstation-store-february-2022s-top-downloads/)
- - [Humble Bundle pulls sales from Russia and Belarus, will launch a Ukraine support bundle](https://www.pcgamer.com/humble-bundle-pulls-sales-from-russia-and-belarus-will-launch-a-ukraine-support-bundle)<!-- GAME:END -->
+ - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
+ - [In celebration of &#39;ugly&#39; games](https://www.pcgamer.com/in-celebration-of-ugly-games)
+ - [Next Week on Xbox: March 14 to 18](https://news.xbox.com/en-us/2022/03/11/next-week-on-xbox-march-14-to-18/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
