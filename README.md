@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it is blocking access to YouTube channels associated with Russian state-funded media globally, expanding from across Europe &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220311/p24#a220311p24)
- - [Android 101: how to use Google Pay](https://www.theverge.com/22971315/google-pay-gpay-how-to-android)
- - [YouTube is now blocking Russian state-funded media worldwide](https://www.theverge.com/2022/3/11/22972911/youtube-rt-russian-sputnik-block-state-media-globally)<!-- TECH:END -->
+ - [Hulu Plus Live TV Adds Unlimited DVR to Base $70 Price     - CNET](https://www.cnet.com/tech/services-and-software/hulu-plus-live-tv-adds-unlimited-dvr-to-base-70-price/#ftag=CAD590a51e)
+ - [Hulu with Live TV is adding unlimited DVR for free](https://www.theverge.com/2022/3/11/22973002/hulu-with-live-tv-unlimited-dvr-youtube)
+ - [CDC Suggests Some Can Wait Longer to Get Second Pfizer, Moderna Shot     - CNET](https://www.cnet.com/health/medical/cdc-suggests-some-can-wait-longer-to-get-second-pfizer-moderna-shot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
