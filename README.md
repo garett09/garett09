@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sound on](http://9gag.com/gag/aNP9zmK)
- - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)
- - 🚯 [Phoenix as Napoleon](http://9gag.com/gag/avA1Orq)<!-- MEMES:END -->
+ - 🚖 [That Sound of the shield hitting him is kinda nice ngl](http://9gag.com/gag/arn3gBV)
+ - 🚯 [Come enjoy exciting Tokyo!](http://9gag.com/gag/aRr436M)
+ - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)<!-- MEMES:END -->
 
 --- 
 
