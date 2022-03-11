@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrono Trigger Is Now Officially Playable In 21:9](https://kotaku.com/chrono-trigger-square-enix-pc-steam-widescreen-ultra-wi-1848638266)
- - [How to get the Bolt of Gransax in Elden Ring](https://www.pcgamer.com/elden-ring-bolt-of-gransax-location)
- - [The cheapest way to buy Tiny Tina&#39;s Wonderlands in Australia](https://www.pcgamer.com/buy-tiny-tinas-wonderlands-pc)<!-- GAME:END -->
+ - [Atari Buys MobyGames For $1.5 Million](https://kotaku.com/mobygames-retro-credits-database-imdb-atari-freyholtz-b-1848638521)
+ - [Elden Ring: How to get the Eclipse Shotel](https://www.pcgamer.com/elden-ring-how-to-get-the-eclipse-shotel)
+ - [Chrono Trigger Is Now Officially Playable In 21:9](https://kotaku.com/chrono-trigger-square-enix-pc-steam-widescreen-ultra-wi-1848638266)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
