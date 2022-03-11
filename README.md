@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile introduces a credit check-free version of its 5G home internet](https://www.theverge.com/2022/3/10/22971544/t-mobile-5g-home-internet-metro-service-prepaid-isp-credit-check)
- - [Activision is bringing Call of Duty: Warzone to mobile](https://www.theverge.com/2022/3/10/22971593/activision-call-of-duty-warzone-mobile)
- - [NonFungible: Axie Infinity had $3.5B in NFT transactions in 2021, almost two thirds of the blockchain gaming industry; NBA Top Shot had $827M and Loot $242M &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/220310/p35#a220310p35)<!-- TECH:END -->
+ - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)
+ - [Twitter and Meta removed posts by Russia&#39;s embassy in London that claimed images from the Mariupol hospital bombing in Ukraine were fake &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/220310/p37#a220310p37)
+ - [Twitter removes tweets by Russia&#39;s embassy in London that claimed images from the Mariupol hospital bombing in Ukraine were fake, citing hateful conduct policy &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220310/p36#a220310p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
