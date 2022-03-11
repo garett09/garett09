@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer launches new streaming hardware including RGB key light](https://www.pcgamer.com/razer-launches-new-streaming-hardware-including-rgb-key-light)
  - [Atari Buys MobyGames For $1.5 Million](https://kotaku.com/mobygames-retro-credits-database-imdb-atari-freyholtz-b-1848638521)
- - [Elden Ring: How to get the Eclipse Shotel](https://www.pcgamer.com/elden-ring-how-to-get-the-eclipse-shotel)
- - [Chrono Trigger Is Now Officially Playable In 21:9](https://kotaku.com/chrono-trigger-square-enix-pc-steam-widescreen-ultra-wi-1848638266)<!-- GAME:END -->
+ - [Elden Ring: How to get the Eclipse Shotel](https://www.pcgamer.com/elden-ring-how-to-get-the-eclipse-shotel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
