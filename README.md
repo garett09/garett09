@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s free real estate](http://9gag.com/gag/aVxoY2M)
- - 🚯 [It\u2019s John cena !](http://9gag.com/gag/aDD61yK)
- - 🚯 [So f**king true.](http://9gag.com/gag/aPZmj3K)<!-- MEMES:END -->
+ - 🚖 [Bees don&#39;t fly in the dark](http://9gag.com/gag/a11NRvR)
+ - 🚯 [Just for the lolz](http://9gag.com/gag/aDD612G)
+ - 🚯 [It\u2019s John cena !](http://9gag.com/gag/aDD61yK)<!-- MEMES:END -->
 
 --- 
 
