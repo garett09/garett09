@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu Plus Live TV Adds Unlimited DVR to Base $70 Price     - CNET](https://www.cnet.com/tech/services-and-software/hulu-plus-live-tv-adds-unlimited-dvr-to-base-70-price/#ftag=CAD590a51e)
- - [Hulu with Live TV is adding unlimited DVR for free](https://www.theverge.com/2022/3/11/22973002/hulu-with-live-tv-unlimited-dvr-youtube)
- - [CDC Suggests Some Can Wait Longer to Get Second Pfizer, Moderna Shot     - CNET](https://www.cnet.com/health/medical/cdc-suggests-some-can-wait-longer-to-get-second-pfizer-moderna-shot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Xbox PC Game Pass on your Windows PC](https://www.theverge.com/22965787/how-to-use-xbox-pc-game-pass-on-your-windows-11-10-pc)
+ - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)
+ - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Shaymin     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-shaymin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
