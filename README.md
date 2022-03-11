@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Green phones, ranked](https://www.theverge.com/2022/3/11/22970820/apple-iphone-13-pro-alpine-green-samsung-s22-compared-ranked)
- - [Russia moves to ban Instagram and designate Meta as an &quot;extremist organization&quot;; source says WhatsApp won&#39;t be affected as it is a means of communication &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220311/p7#a220311p7)
- - [Mac Studio, iPad Air, and Studio Display deep dives on the AppleInsider podcast](https://appleinsider.com/articles/22/03/11/mac-studio-ipad-air-and-studio-display-deep-dives-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Preorders start for new iPhone SE, upgraded iPad Air, and green iPhone 13 models](https://appleinsider.com/articles/22/03/11/preorders-start-for-new-iphone-se-upgraded-ipad-air-and-green-iphone-13-models?utm_medium=rss)
+ - [What platforms know — but don’t tell us — about the war on Ukraine](https://www.theverge.com/2022/3/11/22972002/russia-ukraine-meta-facebook-youtube-tiktok-data-crowdtangle-ceo-interview)
+ - [Biden to Call for End of Normal Trade Relations With Russia, Reports Say     - CNET](https://www.cnet.com/news/politics/biden-to-call-for-end-of-normal-trade-relations-with-russia-reports-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
