@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I finally rest and watch the sun set on a grateful universe](http://9gag.com/gag/aDD615d)
- - 🚯 [Democracy is the conviction that there are more wise people than idiots](http://9gag.com/gag/aRr4727)
- - 🚯 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)<!-- MEMES:END -->
+ - 🚖 [Just travelled on a train from Przemysl to Szczecin. Wagons stock full people bringing their entire livelihoods, including pets Almost exclusively women and children Seen pregnant mothers carrying loads of luggage Remember you travel for free on polish trains if youre ukrainian!](http://9gag.com/gag/a61XEoe)
+ - 🚯 [Lowering crime rate, Japan](http://9gag.com/gag/awz3oLR)
+ - 🚯 [Very dramatic footage of a Russian convoy ambushed yesterday](http://9gag.com/gag/ajg1m7G)<!-- MEMES:END -->
 
 --- 
 
