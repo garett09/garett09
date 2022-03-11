@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good idea](http://9gag.com/gag/a61XVER)
- - 🚯 [A shopping mall in moscow. Ruble is useless now.](http://9gag.com/gag/aGzn066)
- - 🚯 [Also works great for smashing people in the face.](http://9gag.com/gag/a21w4Xp)<!-- MEMES:END -->
+ - 🚖 [There&#39;s always that one guy...](http://9gag.com/gag/a315Md5)
+ - 🚯 [Takes some getting used to](http://9gag.com/gag/a8168Xp)
+ - 🚯 [Choose wisely](http://9gag.com/gag/a516b5o)<!-- MEMES:END -->
 
 --- 
 
