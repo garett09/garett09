@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)
- - [See a Baby Star Having a Stellar Tantrum     - CNET](https://www.cnet.com/science/space/hubble-spots-baby-star-having-a-stellar-tantrum-and-its-gorgeous/#ftag=CAD590a51e)
- - [NASA Rover Spots Spellbinding Trio of Dust Devils Dancing Across Mars     - CNET](https://www.cnet.com/science/space/want-to-see-a-trio-of-dust-devils-dance-across-mars-of-course-you-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [35% off the 2nd Gen Echo Show 5, and more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
+ - [Sources: Meta is cutting back on staff perks like laundry service; CTO Bosworth and others chafed at the perceived sense of entitlement of complaining staff &lpar;New York Times&rpar;](http://www.techmeme.com/220311/p29#a220311p29)
+ - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
