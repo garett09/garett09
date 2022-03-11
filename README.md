@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [M Water please.](http://9gag.com/gag/aE862OO)
- - 🚯 [This dog barks wrong](http://9gag.com/gag/aNP91Qr)
- - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)<!-- MEMES:END -->
+ - 🚖 [It&#39;s free real estate](http://9gag.com/gag/aVxoY2M)
+ - 🚯 [It\u2019s John cena !](http://9gag.com/gag/aDD61yK)
+ - 🚯 [So f**king true.](http://9gag.com/gag/aPZmj3K)<!-- MEMES:END -->
 
 --- 
 
