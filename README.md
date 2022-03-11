@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)
- - 🚯 [A step at a time is also progress.](http://9gag.com/gag/axB37dD)
- - 🚯 [Haha, checkmate Javelin](http://9gag.com/gag/aXrMjNV)<!-- MEMES:END -->
+ - 🚖 [I finally rest and watch the sun set on a grateful universe](http://9gag.com/gag/aDD615d)
+ - 🚯 [Democracy is the conviction that there are more wise people than idiots](http://9gag.com/gag/aRr4727)
+ - 🚯 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)<!-- MEMES:END -->
 
 --- 
 
