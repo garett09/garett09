@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is fine](http://9gag.com/gag/aeg1rgj)
- - 🚯 [Accurate](http://9gag.com/gag/axB39B1)
- - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)<!-- MEMES:END -->
+ - 🚖 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)
+ - 🚯 [A step at a time is also progress.](http://9gag.com/gag/axB37dD)
+ - 🚯 [Haha, checkmate Javelin](http://9gag.com/gag/aXrMjNV)<!-- MEMES:END -->
 
 --- 
 
