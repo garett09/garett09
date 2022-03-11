@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bees don&#39;t fly in the dark](http://9gag.com/gag/a11NRvR)
+ - 🚖 [Lowering crime rate, Japan](http://9gag.com/gag/awz3oLR)
  - 🚯 [Just for the lolz](http://9gag.com/gag/aDD612G)
- - 🚯 [It\u2019s John cena !](http://9gag.com/gag/aDD61yK)<!-- MEMES:END -->
+ - 🚯 [Bees don&#39;t fly in the dark](http://9gag.com/gag/a11NRvR)<!-- MEMES:END -->
 
 --- 
 
