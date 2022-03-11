@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fck........](http://9gag.com/gag/aWg71Qq)
- - 🚯 [Also works great for smashing people in the face.](http://9gag.com/gag/a21w4Xp)
- - 🚯 [Sound on](http://9gag.com/gag/aNP9zmK)<!-- MEMES:END -->
+ - 🚖 [Sound on](http://9gag.com/gag/aNP9zmK)
+ - 🚯 [Wololoooo](http://9gag.com/gag/aog3NAX)
+ - 🚯 [Phoenix as Napoleon](http://9gag.com/gag/avA1Orq)<!-- MEMES:END -->
 
 --- 
 
