@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Launches, DLC, and Game Updates](https://news.xbox.com/en-us/2022/03/11/this-week-on-xbox-new-launches-dlc-and-game-updates/)
- - [Dead Space reboot will be out in early 2023](https://www.pcgamer.com/dead-space-reboot-will-be-out-in-early-2023)
- - [Everything we know about Star Wars Eclipse](https://www.pcgamer.com/star-wars-eclipse-release-date-gameplay-trailer)<!-- GAME:END -->
+ - [Disney CEO apologizes to LGBTQ employees, halts political donations in Florida](https://www.polygon.com/22973144/disney-dont-say-gay-bill-apology-donations-florida)
+ - [The 16 best retro games for Nintendo Switch Online + Expansion Pack subscribers](https://www.polygon.com/nintendo-switch/22752182/nintendo-switch-online-expansion-pack-best-retro-games)
+ - [What we know about Star Wars Jedi: Fallen Order 2](https://www.pcgamer.com/star-wars-jedi-fallen-order-2-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
