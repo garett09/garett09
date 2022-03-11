@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney CEO apologizes to LGBTQ employees, halts political donations in Florida](https://www.polygon.com/22973144/disney-dont-say-gay-bill-apology-donations-florida)
- - [The 16 best retro games for Nintendo Switch Online + Expansion Pack subscribers](https://www.polygon.com/nintendo-switch/22752182/nintendo-switch-online-expansion-pack-best-retro-games)
- - [What we know about Star Wars Jedi: Fallen Order 2](https://www.pcgamer.com/star-wars-jedi-fallen-order-2-release-date-trailer)<!-- GAME:END -->
+ - [10 Things I Wish I Knew Before Starting Triangle Strategy](https://kotaku.com/triangle-strategy-tips-characters-square-enix-guide-tac-1848643925)
+ - [Turning Red, The Adam Project, and every new movie you can stream from home this week](https://www.polygon.com/2022/3/11/22965436/new-movies-watch-netflix-disney-plus-turning-red-ryan-reynolds-adam-project)
+ - [Final Fantasy kart racer Chocobo GP costs $50, monetizes like a mobile game](https://www.polygon.com/22973317/chocobo-gp-nintendo-switch-season-pass-cloud-squall-unlocks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
