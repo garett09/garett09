@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $70 on Apple&#39;s new iPad Air 5, plus up to $80 off the last-gen iPad Air 4](https://appleinsider.com/articles/22/03/11/save-up-to-70-on-apples-new-ipad-air-5-plus-up-to-80-off-the-last-gen-ipad-air-4?utm_medium=rss)
- - [Apple, Google, Meta, PayPal, and others urge Texas governor to abandon an EO that equates gender-affirming healthcare for transgender children with child abuse &lpar;Axios&rpar;](http://www.techmeme.com/220311/p16#a220311p16)
- - [Compared: New iPhone SE 2022 vs. iPhone 11](https://appleinsider.com/inside/iphone-se/vs/compared-new-iphone-se-2022-vs-iphone-11?utm_medium=rss)<!-- TECH:END -->
+ - [Investigation finds a campaign coordinated in a secret Telegram channel to pay Russian TikTok influencers to post videos pushing pro-Kremlin narratives &lpar;David Gilbert/VICE&rpar;](http://www.techmeme.com/220311/p19#a220311p19)
+ - [2023 Acura Integra Is a Sharply Styled Hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-acura-integra/#ftag=CAD590a51e)
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
