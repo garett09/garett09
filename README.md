@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook allows posts with violent speech toward Russian soldiers in specific countries](https://www.theverge.com/2022/3/10/22970705/russia-ukraine-moderation-facebook-instagram-hate-speech-violence-policy)
- - [Cybersixgill, which gathers threat intelligence data from the dark web, social media, and elsewhere to help firms&#39; cyber decision making, raises a $35M Series B &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220310/p39#a220310p39)
- - [Beware the Never-Ending Disinformation Emergency](https://www.wired.com/story/youtube-rigged-election-donald-trump-moderation-misinformation)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Underdogs&#39; return to show how Apple products power small businesses](https://appleinsider.com/articles/22/03/11/apples-underdogs-return-to-show-how-apple-products-power-small-businesses?utm_medium=rss)
+ - [Norway&#39;s Tibber, which predicts energy consumption with machine learning and offers customers the cheapest per hour, raises a $100M Series C led by Summa Equity &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220310/p40#a220310p40)
+ - [Facebook allows posts with violent speech toward Russian soldiers in specific countries](https://www.theverge.com/2022/3/10/22970705/russia-ukraine-moderation-facebook-instagram-hate-speech-violence-policy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
