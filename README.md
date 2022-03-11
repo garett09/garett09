@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
- - [Where to find Platinum Ingots and get Divine Rarity armor in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/assassins-creed-ac-valhalla-divine-armor)
- - [Motherlode of new AMD Ryzen CPUs could be on the way according to retailers](https://www.pcgamer.com/motherlode-of-new-amd-ryzen-cpus-could-be-on-the-way-according-to-retailers)<!-- GAME:END -->
+ - [PlayStation Store: February 2022’s top downloads](https://blog.playstation.com/2022/03/11/playstation-store-february-2022s-top-downloads/)
+ - [PlayStation Store: February 2022’s top downloads](https://blog.playstation.com/2022/03/11/playstation-store-february-2022s-top-downloads/)
+ - [Humble Bundle pulls sales from Russia and Belarus, will launch a Ukraine support bundle](https://www.pcgamer.com/humble-bundle-pulls-sales-from-russia-and-belarus-will-launch-a-ukraine-support-bundle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
