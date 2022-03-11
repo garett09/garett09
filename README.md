@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
- - [Netflix’s shallow time-travel yarn The Adam Project lets Ryan Reynolds do his thing](https://www.polygon.com/22971923/the-adam-project-review-netflix-ryan-reynolds)
- - [Niantic pulls Pokémon Go, Pikmin Bloom from Russia and Belarus](https://www.polygon.com/22972888/pokemon-go-pikmin-bloom-niantic-russian-players-banned)<!-- GAME:END -->
+ - [This Week on Xbox: New Launches, DLC, and Game Updates](https://news.xbox.com/en-us/2022/03/11/this-week-on-xbox-new-launches-dlc-and-game-updates/)
+ - [Dead Space reboot will be out in early 2023](https://www.pcgamer.com/dead-space-reboot-will-be-out-in-early-2023)
+ - [Everything we know about Star Wars Eclipse](https://www.pcgamer.com/star-wars-eclipse-release-date-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
