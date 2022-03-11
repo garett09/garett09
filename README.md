@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)
- - [Twitter and Meta removed posts by Russia&#39;s embassy in London that claimed images from the Mariupol hospital bombing in Ukraine were fake &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/220310/p37#a220310p37)
- - [Twitter removes tweets by Russia&#39;s embassy in London that claimed images from the Mariupol hospital bombing in Ukraine were fake, citing hateful conduct policy &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220310/p36#a220310p36)<!-- TECH:END -->
+ - [Google’s CTO of Android tablets sees tablet sales passing laptops ‘in the not too distant future’](https://www.theverge.com/2022/3/10/22970747/android-tablets-rich-miner-google-12l)
+ - [Microsoft&#39;s carbon emissions were up 21.5% in the 12 months to June 2021, driven by energy for data centers and making devices, and power consumed by users &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/220310/p38#a220310p38)
+ - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
