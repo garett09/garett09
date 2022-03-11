@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just travelled on a train from Przemysl to Szczecin. Wagons stock full people bringing their entire livelihoods, including pets Almost exclusively women and children Seen pregnant mothers carrying loads of luggage Remember you travel for free on polish trains if youre ukrainian!](http://9gag.com/gag/a61XEoe)
- - 🚯 [Lowering crime rate, Japan](http://9gag.com/gag/awz3oLR)
- - 🚯 [Very dramatic footage of a Russian convoy ambushed yesterday](http://9gag.com/gag/ajg1m7G)<!-- MEMES:END -->
+ - 🚖 [Waaaait a minute... This General guy in Austrian TV looks somehow familiar. Something is missing, but I can&#39;t put my finger on it...](http://9gag.com/gag/aog3Mnn)
+ - 🚯 [Thief tries to rob off-duty police officer and is shot in Brazil](http://9gag.com/gag/apg3Gpp)
+ - 🚯 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)<!-- MEMES:END -->
 
 --- 
 
