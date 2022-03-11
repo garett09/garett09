@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone SE delivers iPhone 13 performance for $270 less](https://appleinsider.com/articles/22/03/10/new-iphone-se-delivers-iphone-13-performance-for-270-less?utm_medium=rss)
- - [New MacBook Air, MacBook Pro with M2 said to launch in late 2022](https://appleinsider.com/articles/22/03/10/new-macbook-air-macbook-pro-with-m2-said-to-to-launch-in-late-2022?utm_medium=rss)
- - [Tim Cook speaks out against &#39;don&#39;t say gay&#39; laws](https://appleinsider.com/articles/22/03/11/tim-cook-speaks-out-against-dont-say-gay-laws?utm_medium=rss)<!-- TECH:END -->
+ - [Razer’s new streaming accessories help make you sound and look better](https://www.theverge.com/2022/3/11/22972442/razer-seiren-bt-bluetooth-lapel-mic-key-light-chroma-audio-mixer)
+ - [How to find and use Instagram filters](https://www.androidauthority.com/find-and-use-instagram-filters-3133469/)
+ - [Daily Authority: 👉 Google hypes tablets &lpar;again&rpar;](https://www.androidauthority.com/da-march-11-2022-3134729/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
