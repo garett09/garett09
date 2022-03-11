@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preorders start for new iPhone SE, upgraded iPad Air, and green iPhone 13 models](https://appleinsider.com/articles/22/03/11/preorders-start-for-new-iphone-se-upgraded-ipad-air-and-green-iphone-13-models?utm_medium=rss)
- - [What platforms know — but don’t tell us — about the war on Ukraine](https://www.theverge.com/2022/3/11/22972002/russia-ukraine-meta-facebook-youtube-tiktok-data-crowdtangle-ceo-interview)
- - [Biden to Call for End of Normal Trade Relations With Russia, Reports Say     - CNET](https://www.cnet.com/news/politics/biden-to-call-for-end-of-normal-trade-relations-with-russia-reports-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $70 on Apple&#39;s new iPad Air 5, plus up to $80 off the last-gen iPad Air 4](https://appleinsider.com/articles/22/03/11/save-up-to-70-on-apples-new-ipad-air-5-plus-up-to-80-off-the-last-gen-ipad-air-4?utm_medium=rss)
+ - [Apple, Google, Meta, PayPal, and others urge Texas governor to abandon an EO that equates gender-affirming healthcare for transgender children with child abuse &lpar;Axios&rpar;](http://www.techmeme.com/220311/p16#a220311p16)
+ - [Compared: New iPhone SE 2022 vs. iPhone 11](https://appleinsider.com/inside/iphone-se/vs/compared-new-iphone-se-2022-vs-iphone-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
