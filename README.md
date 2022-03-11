@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s CTO of Android tablets sees tablet sales passing laptops ‘in the not too distant future’](https://www.theverge.com/2022/3/10/22970747/android-tablets-rich-miner-google-12l)
- - [Microsoft&#39;s carbon emissions were up 21.5% in the 12 months to June 2021, driven by energy for data centers and making devices, and power consumed by users &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/220310/p38#a220310p38)
- - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook allows posts with violent speech toward Russian soldiers in specific countries](https://www.theverge.com/2022/3/10/22970705/russia-ukraine-moderation-facebook-instagram-hate-speech-violence-policy)
+ - [Cybersixgill, which gathers threat intelligence data from the dark web, social media, and elsewhere to help firms&#39; cyber decision making, raises a $35M Series B &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220310/p39#a220310p39)
+ - [Beware the Never-Ending Disinformation Emergency](https://www.wired.com/story/youtube-rigged-election-donald-trump-moderation-misinformation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
