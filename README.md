@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even the best of the best operas have like 1-2 memorable melodies, and the rest is just one giant filler made from the same overused melodic patterns and orchestral sequences... Same for the plot - usually just 10 minutes worth of interesting stuff, stretched to 3-4 hours](http://9gag.com/gag/aeg1Yyv)
- - 🚯 [There has to be a tiny bit of genetics involved](http://9gag.com/gag/aqGXrXP)
- - 🚯 [Man makes fun of, then punches handicapped man in the face for no reason. He got sentenced to 6 years in prison.](http://9gag.com/gag/aAG6PWL)<!-- MEMES:END -->
+ - 🚖 [Good idea](http://9gag.com/gag/a61XVER)
+ - 🚯 [A shopping mall in moscow. Ruble is useless now.](http://9gag.com/gag/aGzn066)
+ - 🚯 [Also works great for smashing people in the face.](http://9gag.com/gag/a21w4Xp)<!-- MEMES:END -->
 
 --- 
 
