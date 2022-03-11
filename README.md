@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Xbox PC Game Pass on your Windows PC](https://www.theverge.com/22965787/how-to-use-xbox-pc-game-pass-on-your-windows-11-10-pc)
- - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)
- - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Shaymin     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-shaymin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything and everybody from the Apple TV+ shows featured in the Apple Event](https://appleinsider.com/articles/22/03/11/everything-and-everybody-from-the-apple-tv-shows-featured-in-the-apple-event?utm_medium=rss)
+ - [See a Baby Star Having a Stellar Tantrum     - CNET](https://www.cnet.com/science/space/hubble-spots-baby-star-having-a-stellar-tantrum-and-its-gorgeous/#ftag=CAD590a51e)
+ - [NASA Rover Spots Spellbinding Trio of Dust Devils Dancing Across Mars     - CNET](https://www.cnet.com/science/space/want-to-see-a-trio-of-dust-devils-dance-across-mars-of-course-you-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
