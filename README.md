@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might actually want to use the 30x zoom on the Samsung Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-30x-zoom-3122219/)
- - [Profile of Joel Kaplan, who has built one of the most powerful lobbying operations in Washington DC, as he helps Meta navigate the Biden administration &lpar;Benjamin Wofford/Wired&rpar;](http://www.techmeme.com/220312/p8#a220312p8)
- - [The Best Binoculars to Zoom In on Real Life](https://www.wired.com/story/best-binoculars)<!-- TECH:END -->
+ - [The Nintendo Switch topped console sales once again in February](https://www.theverge.com/2022/3/12/22974056/nintendo-switch-top-selling-console-february-2022)
+ - [Sources: NSA and other agencies are investigating an attack that disabled Viasat&#39;s satellite internet service in Europe on February 24 as Russia invaded Ukraine &lpar;Reuters&rpar;](http://www.techmeme.com/220312/p9#a220312p9)
+ - [Satechi Type-C Aluminum Monitor Stand Hub review: Make your workspace more comfortable and productive](https://appleinsider.com/articles/22/03/12/satechi-type-c-aluminum-monitor-stand-hub-review-make-your-workspace-more-comfortable-and-productive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
