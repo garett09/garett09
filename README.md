@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
- - [Amazon&#39;s strategy in Washington has won it few friends as scrutiny from lawmakers increases; sources say DC-based Amazon execs have left after feeling alienated &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220311/p35#a220311p35)
- - [These Companies Have Left Russia: The List Across Tech, Entertainment, Finance     - CNET](https://www.cnet.com/news/politics/what-companies-have-left-russia-see-the-list-across-tech-entertainment-and-financial-institutions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investigation into OnlyFans owner Leo Radvinsky, who has attracted law enforcement scrutiny amid reports of wage theft and potential underage sexual activity &lpar;Scott Stedman/Forensic News&rpar;](http://www.techmeme.com/220312/p4#a220312p4)
+ - [Sources: India&#39;s market regulator has tightened scrutiny of IPO-bound firms after Paytm&#39;s IPO debacle, worrying startups which fear delays in listing plans &lpar;Reuters&rpar;](http://www.techmeme.com/220312/p3#a220312p3)
+ - [Taiwanese authorities raid eight Chinese chip and component suppliers across 14 locations in Taiwan over alleged illegal poaching of Taiwanese workers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220312/p2#a220312p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
