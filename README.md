@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can we now riot and loot?](http://9gag.com/gag/aPZmAqP)
- - 🚯 [French Politician &lpar;Eric Zemmour&rpar; gets an egg on his head.](http://9gag.com/gag/agg1Qdg)
- - 🚯 [Harvesting aeroponic cabbage &amp; lettuce from Tower Garden](http://9gag.com/gag/agg1Qvv)<!-- MEMES:END -->
+ - 🚖 [French Politician &lpar;Eric Zemmour&rpar; gets an egg on his head.](http://9gag.com/gag/agg1Qdg)
+ - 🚯 [Harvesting aeroponic cabbage &amp; lettuce from Tower Garden](http://9gag.com/gag/agg1Qvv)
+ - 🚯 [Future tech](http://9gag.com/gag/ajg119g)<!-- MEMES:END -->
 
 --- 
 
