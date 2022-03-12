@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pulling off Turning Red’s epic Chinese panda ritual was a global effort](https://www.polygon.com/22973286/turning-red-ritual-chant-cantonese-chinese-words)
- - [Five Years After Launch, For Honor Is Getting Crossplay](https://kotaku.com/crossplay-for-honor-ubisoft-year-6-xbox-ps5-pc-steam-cr-1848645822)
- - [The great non-Marvel or DC superhero movies you can stream right now](https://www.polygon.com/what-to-watch/22961992/best-superhero-movies-not-marvel-dc-streaming)<!-- GAME:END -->
+ - [The Boys season 3 trailer promises more people exploding and boy bands](https://www.polygon.com/22973448/the-boys-season-3-trailer)
+ - [Someone Has Now Finished Elden Ring In Under 37 Minutes](https://kotaku.com/elden-ring-speedrun-world-record-37-minutes-40-mins-dis-1848646021)
+ - [Pulling off Turning Red’s epic Chinese panda ritual was a global effort](https://www.polygon.com/22973286/turning-red-ritual-chant-cantonese-chinese-words)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
