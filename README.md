@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u043a\u0443](http://9gag.com/gag/aRr4Bjy)
- - 🚯 [Moscow, 2011. Looks like alternative reality right now. .](http://9gag.com/gag/a816qOO)
- - 🚯 [The type of potato they use](http://9gag.com/gag/aVxob2d)<!-- MEMES:END -->
+ - 🚖 [Can we now riot and loot?](http://9gag.com/gag/aPZmAqP)
+ - 🚯 [Gen Z going though major historic events.](http://9gag.com/gag/aPZmAjB)
+ - 🚯 [The mystery](http://9gag.com/gag/aE86qee)<!-- MEMES:END -->
 
 --- 
 
