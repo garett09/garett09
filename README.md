@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It’s good and righteous when Pokémon kick my ass](https://www.polygon.com/22972657/pokemon-legends-arceus-kick-my-ass)
  - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [Ukrainian esports team Na&#39;Vi says it is &#39;not going to leave the country&#39;](https://www.pcgamer.com/ukrainian-esports-team-navi-says-it-is-not-going-to-leave-the-country)
- - [Where to find the Godslayer&#39;s Greatsword in Elden Ring](https://www.pcgamer.com/godslayer-greatsword-elden-ring-location-guide)<!-- GAME:END -->
+ - [Ukrainian esports team Na&#39;Vi says it is &#39;not going to leave the country&#39;](https://www.pcgamer.com/ukrainian-esports-team-navi-says-it-is-not-going-to-leave-the-country)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
