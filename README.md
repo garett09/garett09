@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just look](http://9gag.com/gag/aqGXjBZ)
- - 🚯 [Just travelled on a train from Przemysl to Szczecin. Wagons stock full people bringing their entire livelihoods, including pets Almost exclusively women and children Seen pregnant mothers carrying loads of luggage Remember you travel for free on polish trains if youre ukrainian!](http://9gag.com/gag/a61XEoe)
- - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)<!-- MEMES:END -->
+ - 🚖 [Accurate](http://9gag.com/gag/axB39B1)
+ - 🚯 [Democracy is the conviction that there are more wise people than idiots](http://9gag.com/gag/aRr4727)
+ - 🚯 [First offline meeting for online gaming friends in 10 years](http://9gag.com/gag/aBn62NN)<!-- MEMES:END -->
 
 --- 
 
