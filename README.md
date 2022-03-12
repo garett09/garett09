@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gas station owners](http://9gag.com/gag/a61X1VA)
- - 🚯 [Just look](http://9gag.com/gag/aqGXjBZ)
- - 🚯 [First offline meeting for online gaming friends in 10 years](http://9gag.com/gag/aBn62NN)<!-- MEMES:END -->
+ - 🚖 [My training routine for 2022/23](http://9gag.com/gag/aOQex8r)
+ - 🚯 [Aye Aye](http://9gag.com/gag/a0ZX4YO)
+ - 🚯 [Hide and Seek](http://9gag.com/gag/aeg1gOB)<!-- MEMES:END -->
 
 --- 
 
