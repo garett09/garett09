@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On its road to success, BBK is leaving OnePlus behind](https://www.androidauthority.com/bbk-oneplus-3132021/)
- - [NFTs Don’t Work the Way You Might Think They Do](https://www.wired.com/story/nfts-dont-work-the-way-you-think-they-do)
- - [Brazil&#39;s Indigenous Gaming Scene Is On the Rise](https://www.wired.com/story/brazil-indigenous-gaming-arani)<!-- TECH:END -->
+ - [Top deals March 12: Fourth-gen iPad Air for $515, 65-inch Amazon Fire TV for $499, $34 Star Wars Millennium Falcon speaker &amp; more](https://appleinsider.com/articles/22/03/12/top-deals-march-12-fourth-gen-ipad-air-for-515-65-inch-amazon-fire-tv-for-499-34-star-wars-millennium-falcon-speaker-more?utm_medium=rss)
+ - [20 Smart STEM Toys for the Techie Kids in Your Life](https://www.wired.com/gallery/best-stem-toys-for-kids)
+ - [Sources: Apple and Google removed Kremlin critic Navalny&#39;s app in September after FSB agents came to homes of top execs and threatened to take them to prison &lpar;Washington Post&rpar;](http://www.techmeme.com/220312/p7#a220312p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
