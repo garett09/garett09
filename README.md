@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [Ukrainian esports team Na&#39;Vi says it is &#39;not going to leave the country&#39;](https://www.pcgamer.com/ukrainian-esports-team-navi-says-it-is-not-going-to-leave-the-country)
- - [Where to find the Godslayer&#39;s Greatsword in Elden Ring](https://www.pcgamer.com/godslayer-greatsword-elden-ring-location-guide)<!-- GAME:END -->
+ - [Everything we recommend for this weekend](https://www.polygon.com/2022/3/11/22973031/turning-red-polygon-newsletter-patch-notes)
+ - [The Stranger of Paradise Demo Is Unapologetically Cringe, And I Love It](https://kotaku.com/stranger-of-paradise-demo-final-fantasy-chaos-team-ninj-1848644009)
+ - [The Donkey Kong Cock Blast Pringles Meme, &lpar;Unfortunately&rpar; Explained](https://kotaku.com/pringles-twitter-donkey-kong-cock-blast-cockblast-meme-1848644039)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
