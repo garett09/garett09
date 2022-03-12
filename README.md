@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Fan token’ company Socios accused of crypto price manipulation](https://www.theverge.com/2022/3/12/22974337/fan-token-company-socios-accused-cryptocurrency-price-manipulation)
  - [Interview with CrowdTangle co-founder Brandon Silverman on social networks&#39; responsibility to open up, including by doing and sharing their own research &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220312/p15#a220312p15)
- - [Twitter updated its iOS app to let users swipe between the algorithmic Home and reverse chronological Latest timelines but users can&#39;t make Latest the default &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220312/p14#a220312p14)
- - [First &#39;They Call Me Magic&#39; Apple TV+ trailer teases the basketball star documentary](https://appleinsider.com/articles/22/03/12/first-they-call-me-magic-apple-tv-trailer-teases-the-basketball-star-documentary?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
