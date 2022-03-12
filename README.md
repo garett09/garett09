@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch topped console sales once again in February](https://www.theverge.com/2022/3/12/22974056/nintendo-switch-top-selling-console-february-2022)
- - [Sources: NSA and other agencies are investigating an attack that disabled Viasat&#39;s satellite internet service in Europe on February 24 as Russia invaded Ukraine &lpar;Reuters&rpar;](http://www.techmeme.com/220312/p9#a220312p9)
- - [Satechi Type-C Aluminum Monitor Stand Hub review: Make your workspace more comfortable and productive](https://appleinsider.com/articles/22/03/12/satechi-type-c-aluminum-monitor-stand-hub-review-make-your-workspace-more-comfortable-and-productive?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-423-3135437/)
+ - [Sony Xperia 1 III review revisited: The good and bad over six months later](https://www.androidauthority.com/sony-xperia-1-iii-review-revisited-3098466/)
+ - [Best Cheap True-Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
