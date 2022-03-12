@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2&#39;s New Glaives Are Perfect And I Love Them](https://kotaku.com/destiny-2-glaives-new-weapon-witch-queen-dlc-melee-bung-1848646309)
  - [The Boys season 3 trailer promises more people exploding and boy bands](https://www.polygon.com/22973448/the-boys-season-3-trailer)
- - [Someone Has Now Finished Elden Ring In Under 37 Minutes](https://kotaku.com/elden-ring-speedrun-world-record-37-minutes-40-mins-dis-1848646021)
- - [Pulling off Turning Red’s epic Chinese panda ritual was a global effort](https://www.polygon.com/22973286/turning-red-ritual-chant-cantonese-chinese-words)<!-- GAME:END -->
+ - [Someone Has Now Finished Elden Ring In Under 37 Minutes](https://kotaku.com/elden-ring-speedrun-world-record-37-minutes-40-mins-dis-1848646021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
