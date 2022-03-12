@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cooking isn&#39;t easy](http://9gag.com/gag/avA1yWO)
- - 🚯 [\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u043a\u0443](http://9gag.com/gag/aRr4Bjy)
- - 🚯 [News from Moscow](http://9gag.com/gag/aAG60W0)<!-- MEMES:END -->
+ - 🚖 [\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u043a\u0443](http://9gag.com/gag/aRr4Bjy)
+ - 🚯 [Moscow, 2011. Looks like alternative reality right now. .](http://9gag.com/gag/a816qOO)
+ - 🚯 [The type of potato they use](http://9gag.com/gag/aVxob2d)<!-- MEMES:END -->
 
 --- 
 
