@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the love of g*d](http://9gag.com/gag/aNP9p6v)
- - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)
- - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)<!-- MEMES:END -->
+ - 🚖 [Well, we&#39;re waiting](http://9gag.com/gag/a4161bA)
+ - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)
+ - 🚯 [Gas station owners](http://9gag.com/gag/a61X1VA)<!-- MEMES:END -->
 
 --- 
 
