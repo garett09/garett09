@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
  - [Amazon&#39;s strategy in Washington has won it few friends as scrutiny from lawmakers increases; sources say DC-based Amazon execs have left after feeling alienated &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220311/p35#a220311p35)
- - [EA says the Dead Space remake will be released in early 2023](https://www.theverge.com/2022/3/11/22973541/ea-dead-space-remake-released-early-2023)
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [These Companies Have Left Russia: The List Across Tech, Entertainment, Finance     - CNET](https://www.cnet.com/news/politics/what-companies-have-left-russia-see-the-list-across-tech-entertainment-and-financial-institutions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
