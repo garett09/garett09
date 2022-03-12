@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your PlayStation Network username](https://www.theverge.com/22962038/playstation-network-how-to-change-psn-username-gamertag)
- - [Everything Everywhere All At Once is charming, sprawling, and completely ridiculous](https://www.theverge.com/2022/3/12/22974028/everything-everywhere-all-at-once-review-michelle-yeoh)
- - [People are sending news about Ukraine to Russians using a website that randomly selects from a list of ~20M phone numbers and ~140M email addresses in Russia &lpar;Bojan Pancevski/Wall Street Journal&rpar;](http://www.techmeme.com/220312/p13#a220312p13)<!-- TECH:END -->
+ - [Twitter updated its iOS app this week to let users swipe between Home and the reverse chronological Latest timelines but users can&#39;t make Latest the default &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220312/p14#a220312p14)
+ - [First &#39;They Call Me Magic&#39; Apple TV+ trailer teases the basketball star documentary](https://appleinsider.com/articles/22/03/12/first-they-call-me-magic-apple-tv-trailer-teases-the-basketball-star-documentary?utm_medium=rss)
+ - [How to change your PlayStation Network username](https://www.theverge.com/22962038/playstation-network-how-to-change-psn-username-gamertag)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
