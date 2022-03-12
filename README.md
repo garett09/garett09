@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate](http://9gag.com/gag/axB39B1)
+ - 🚖 [Man grabs McDonald\u2019s worker for having to ask for a straw](http://9gag.com/gag/amg1gz2)
  - 🚯 [Democracy is the conviction that there are more wise people than idiots](http://9gag.com/gag/aRr4727)
- - 🚯 [First offline meeting for online gaming friends in 10 years](http://9gag.com/gag/aBn62NN)<!-- MEMES:END -->
+ - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)<!-- MEMES:END -->
 
 --- 
 
