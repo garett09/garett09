@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, we&#39;re waiting](http://9gag.com/gag/a4161bA)
- - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)
- - 🚯 [Gas station owners](http://9gag.com/gag/a61X1VA)<!-- MEMES:END -->
+ - 🚖 [Very dramatic footage of a Russian convoy ambushed yesterday](http://9gag.com/gag/ajg1m7G)
+ - 🚯 [Gas station owners](http://9gag.com/gag/a61X1VA)
+ - 🚯 [Hide and Seek](http://9gag.com/gag/aeg1gOB)<!-- MEMES:END -->
 
 --- 
 
