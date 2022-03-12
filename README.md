@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra’s noise-canceling Elite 85t earbuds are on sale for their best price yet](https://www.theverge.com/good-deals/2022/3/12/22972687/jabra-elite-85t-apple-magic-keyboard-asus-chromebook-detachable-cm3-august-smart-lock-deal-sale)
- - [Profile of Aleksandr Litreev, a Russian exile who made a popular app to let detained protesters find legal help and a blockchain-based VPN to bypass censorship &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220312/p12#a220312p12)
- - [Mac mini may keep existing form factor in 2023, says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/12/mac-mini-may-keep-existing-form-factor-in-2023-says-ming-chi-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [How to change your PlayStation Network username](https://www.theverge.com/22962038/playstation-network-how-to-change-psn-username-gamertag)
+ - [Everything Everywhere All At Once is charming, sprawling, and completely ridiculous](https://www.theverge.com/2022/3/12/22974028/everything-everywhere-all-at-once-review-michelle-yeoh)
+ - [People are sending news about Ukraine to Russians using a website that randomly selects from a list of ~20M phone numbers and ~140M email addresses in Russia &lpar;Bojan Pancevski/Wall Street Journal&rpar;](http://www.techmeme.com/220312/p13#a220312p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
