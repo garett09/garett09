@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My training routine for 2022/23](http://9gag.com/gag/aOQex8r)
- - 🚯 [Aye Aye](http://9gag.com/gag/a0ZX4YO)
- - 🚯 [Hide and Seek](http://9gag.com/gag/aeg1gOB)<!-- MEMES:END -->
+ - 🚖 [Aye Aye](http://9gag.com/gag/a0ZX4YO)
+ - 🚯 [Take me back...](http://9gag.com/gag/a315Z1m)
+ - 🚯 [A whole new level of stupidity was reach](http://9gag.com/gag/amg1gnd)<!-- MEMES:END -->
 
 --- 
 
