@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ukrainian esports team Na&#39;Vi says it is &#39;not going to leave the country&#39;](https://www.pcgamer.com/ukrainian-esports-team-navi-says-it-is-not-going-to-leave-the-country)
  - [Where to find the Godslayer&#39;s Greatsword in Elden Ring](https://www.pcgamer.com/godslayer-greatsword-elden-ring-location-guide)
- - [Hunt: Showdown&#39;s disappearing dirt man will finally be visible in upcoming patch](https://www.pcgamer.com/hunt-showdowns-disappearing-dirt-man-will-finally-be-visible-in-upcoming-patch)
- - [The Gold Box D&amp;D games are coming to Steam](https://www.pcgamer.com/the-gold-box-dandd-games-are-coming-to-steam)<!-- GAME:END -->
+ - [Hunt: Showdown&#39;s disappearing dirt man will finally be visible in upcoming patch](https://www.pcgamer.com/hunt-showdowns-disappearing-dirt-man-will-finally-be-visible-in-upcoming-patch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
