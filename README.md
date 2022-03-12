@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French Politician &lpar;Eric Zemmour&rpar; gets an egg on his head.](http://9gag.com/gag/agg1Qdg)
- - 🚯 [Harvesting aeroponic cabbage &amp; lettuce from Tower Garden](http://9gag.com/gag/agg1Qvv)
- - 🚯 [Future tech](http://9gag.com/gag/ajg119g)<!-- MEMES:END -->
+ - 🚖 [The whole gym stops to watch](http://9gag.com/gag/amg1o3d)
+ - 🚯 [Stuck in a wheel chair his whole life, Micheal was able to start walking again. This is him 1 month after trying](http://9gag.com/gag/a21wwR9)
+ - 🚯 [This is how I got myself through college with no debt](http://9gag.com/gag/ay933eq)<!-- MEMES:END -->
 
 --- 
 
