@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take me back...](http://9gag.com/gag/a315Z1m)
- - 🚯 [My training routine for 2022/23](http://9gag.com/gag/aOQex8r)
- - 🚯 [Moscow, 2011. Looks like alternative reality right now. .](http://9gag.com/gag/a816qOO)<!-- MEMES:END -->
+ - 🚖 [Modern problems require modern solutions.](http://9gag.com/gag/aPZmgDP)
+ - 🚯 [I don&#39;t like Batman, he is too dark for me.](http://9gag.com/gag/axB3obL)
+ - 🚯 [Never forget](http://9gag.com/gag/aYrEVZ2)<!-- MEMES:END -->
 
 --- 
 
