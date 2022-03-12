@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)
- - [Sony pulls Crunchyroll, home entertainment releases from Russia](https://www.theverge.com/2022/3/12/22974228/sony-halts-crunchyroll-theatrical-releases-russia-ukraine)
- - [Investigation: Socios, which partners with soccer clubs to offer fan tokens, has withheld crypto payments to staff to maintain the value of its chiliZ currency &lpar;James Corbett/Off The Pitch&rpar;](http://www.techmeme.com/220312/p11#a220312p11)<!-- TECH:END -->
+ - [Jabra’s noise-canceling Elite 85t earbuds are on sale for their best price yet](https://www.theverge.com/good-deals/2022/3/12/22972687/jabra-elite-85t-apple-magic-keyboard-asus-chromebook-detachable-cm3-august-smart-lock-deal-sale)
+ - [Profile of Aleksandr Litreev, a Russian exile who made a popular app to let detained protesters find legal help and a blockchain-based VPN to bypass censorship &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220312/p12#a220312p12)
+ - [Mac mini may keep existing form factor in 2023, says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/12/mac-mini-may-keep-existing-form-factor-in-2023-says-ming-chi-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
