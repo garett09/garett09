@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man grabs McDonald\u2019s worker for having to ask for a straw](http://9gag.com/gag/amg1gz2)
- - 🚯 [Democracy is the conviction that there are more wise people than idiots](http://9gag.com/gag/aRr4727)
- - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)<!-- MEMES:END -->
+ - 🚖 [For the love of g*d](http://9gag.com/gag/aNP9p6v)
+ - 🚯 [Finnish PM Sanna Marin: `We are financing Russia\u2019s war by purchasing gas and oil`](http://9gag.com/gag/azedmKj)
+ - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)<!-- MEMES:END -->
 
 --- 
 
