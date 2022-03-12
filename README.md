@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese brands have cut their smartphone shipments to Russia in half since Russia&#39;s invasion of Ukraine because of the ruble&#39;s collapse and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/220312/p5#a220312p5)
- - [Poco X4 Pro review: Nice screen, long-lasting battery, pity about the bugs](https://www.androidauthority.com/poco-x4-pro-review-3125129/)
- - [An investigation into OnlyFans owner Leo Radvinsky, who has attracted law enforcement scrutiny amid reports of wage theft and potential underage sexual activity &lpar;Scott Stedman/Forensic News&rpar;](http://www.techmeme.com/220312/p4#a220312p4)<!-- TECH:END -->
+ - [Spotify Lets You Change the Order of Your Playlists. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/spotify-lets-you-change-the-order-of-your-playlists-heres-how/#ftag=CAD590a51e)
+ - [Apple’s chips are on the table](https://www.theverge.com/22972996/apple-silicon-arm-double-size-mac-m1-pro-max-ultra-a15)
+ - [Sources: Chinese brands have cut their smartphone shipments to Russia in half since Russia&#39;s invasion of Ukraine because of the ruble&#39;s collapse and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/220312/p5#a220312p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
