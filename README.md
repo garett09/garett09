@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top deals March 12: Fourth-gen iPad Air for $515, 65-inch Amazon Fire TV for $499, $34 Star Wars Millennium Falcon speaker &amp; more](https://appleinsider.com/articles/22/03/12/top-deals-march-12-fourth-gen-ipad-air-for-515-65-inch-amazon-fire-tv-for-499-34-star-wars-millennium-falcon-speaker-more?utm_medium=rss)
- - [20 Smart STEM Toys for the Techie Kids in Your Life](https://www.wired.com/gallery/best-stem-toys-for-kids)
- - [Sources: Apple and Google removed Kremlin critic Navalny&#39;s app in September after FSB agents came to homes of top execs and threatened to take them to prison &lpar;Washington Post&rpar;](http://www.techmeme.com/220312/p7#a220312p7)<!-- TECH:END -->
+ - [You might actually want to use the 30x zoom on the Samsung Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-30x-zoom-3122219/)
+ - [Profile of Joel Kaplan, who has built one of the most powerful lobbying operations in Washington DC, as he helps Meta navigate the Biden administration &lpar;Benjamin Wofford/Wired&rpar;](http://www.techmeme.com/220312/p8#a220312p8)
+ - [The Best Binoculars to Zoom In on Real Life](https://www.wired.com/story/best-binoculars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
