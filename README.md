@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a war video](http://9gag.com/gag/ajg11y8)
- - 🚯 [CHINA. A person present at a fair had tested positive for Covid, so all the attendees inside had to perform a tests before let them go..](http://9gag.com/gag/aKmA1EQ)
- - 🚯 [How](http://9gag.com/gag/arn3WxV)<!-- MEMES:END -->
+ - 🚖 [That guy spoke some facts at the end](http://9gag.com/gag/adg112j)
+ - 🚯 [Banana for scale](http://9gag.com/gag/abg1OZ9)
+ - 🚯 [Just a war video](http://9gag.com/gag/ajg11y8)<!-- MEMES:END -->
 
 --- 
 
