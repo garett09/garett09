@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gen Z going though major historic events.](http://9gag.com/gag/aPZmAjB)
- - 🚯 [To B or not to B](http://9gag.com/gag/ay93NXW)
- - 🚯 [Well f*ck](http://9gag.com/gag/a416PQ6)<!-- MEMES:END -->
+ - 🚖 [Can we now riot and loot?](http://9gag.com/gag/aPZmAqP)
+ - 🚯 [French Politician &lpar;Eric Zemmour&rpar; gets an egg on his head.](http://9gag.com/gag/agg1Qdg)
+ - 🚯 [Harvesting aeroponic cabbage &amp; lettuce from Tower Garden](http://9gag.com/gag/agg1Qvv)<!-- MEMES:END -->
 
 --- 
 
