@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
- - [Ubisoft says it experienced a ‘cyber security incident’, and the purported Nvidia hackers are taking credit](https://www.theverge.com/2022/3/11/22972768/ubisoft-cyber-security-incident-hack)
- - [Counterpoint: as chip prices fall, 5G-capable devices have moved from $550+ to $250+; the average price of a multi-function 5G SoC is $40-$45 &lpar;Suman Bhattacharyya/Wall Street Journal&rpar;](http://www.techmeme.com/220311/p34#a220311p34)<!-- TECH:END -->
+ - [Amazon&#39;s strategy in Washington has won it few friends as scrutiny from lawmakers increases; sources say DC-based Amazon execs have left after feeling alienated &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220311/p35#a220311p35)
+ - [EA says the Dead Space remake will be released in early 2023](https://www.theverge.com/2022/3/11/22973541/ea-dead-space-remake-released-early-2023)
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
