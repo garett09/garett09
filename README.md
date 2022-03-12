@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie gladiator game faces Steam review backlash over anti-mask patch notes](https://www.pcgamer.com/indie-gladiator-game-faces-steam-review-backlash-over-anti-mask-patch-notes)
- - [Destiny 2&#39;s New Glaives Are Perfect And I Love Them](https://kotaku.com/destiny-2-glaives-new-weapon-witch-queen-dlc-melee-bung-1848646309)
- - [The Boys season 3 trailer promises more people exploding and boy bands](https://www.polygon.com/22973448/the-boys-season-3-trailer)<!-- GAME:END -->
+ - [There are bad adventure games, and then there&#39;s Hugo 2: Whodunit?](https://www.pcgamer.com/saturday-crapshoot-hugos-house-of-horrors-whodunnit)
+ - [Dune: Spice Wars&#39; Smugglers let you use your enemies&#39; strengths against them](https://www.pcgamer.com/dune-spice-wars-smugglers-let-you-use-your-enemies-strengths-against-them)
+ - [Indie gladiator game faces Steam review backlash over anti-mask patch notes](https://www.pcgamer.com/indie-gladiator-game-faces-steam-review-backlash-over-anti-mask-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
