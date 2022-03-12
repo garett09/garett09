@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display vs. Pro Display XDR: The Same, Yet Not     - CNET](https://www.cnet.com/tech/computing/apple-studio-display-vs-pro-display-xdr-the-same-yet-not/#ftag=CAD590a51e)
- - [13 Best Weekend Deals on Fitness Trackers, Robot Vacuums, and More](https://www.wired.com/story/weekend-deals-march-12-2022)
- - [This Massive Game Bundle Costs $10 and Benefits Ukraine Charities](https://www.wired.com/story/itch-bundle-for-ukraine-charity)<!-- TECH:END -->
+ - [On its road to success, BBK is leaving OnePlus behind](https://www.androidauthority.com/bbk-oneplus-3132021/)
+ - [NFTs Don’t Work the Way You Might Think They Do](https://www.wired.com/story/nfts-dont-work-the-way-you-think-they-do)
+ - [Brazil&#39;s Indigenous Gaming Scene Is On the Rise](https://www.wired.com/story/brazil-indigenous-gaming-arani)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
