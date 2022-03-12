@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation into OnlyFans owner Leo Radvinsky, who has attracted law enforcement scrutiny amid reports of wage theft and potential underage sexual activity &lpar;Scott Stedman/Forensic News&rpar;](http://www.techmeme.com/220312/p4#a220312p4)
- - [Sources: India&#39;s market regulator has tightened scrutiny of IPO-bound firms after Paytm&#39;s IPO debacle, worrying startups which fear delays in listing plans &lpar;Reuters&rpar;](http://www.techmeme.com/220312/p3#a220312p3)
- - [Taiwanese authorities raid eight Chinese chip and component suppliers across 14 locations in Taiwan over alleged illegal poaching of Taiwanese workers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220312/p2#a220312p2)<!-- TECH:END -->
+ - [Sources: Chinese brands have cut their smartphone shipments to Russia in half since Russia&#39;s invasion of Ukraine because of the ruble&#39;s collapse and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/220312/p5#a220312p5)
+ - [Poco X4 Pro review: Nice screen, long-lasting battery, pity about the bugs](https://www.androidauthority.com/poco-x4-pro-review-3125129/)
+ - [An investigation into OnlyFans owner Leo Radvinsky, who has attracted law enforcement scrutiny amid reports of wage theft and potential underage sexual activity &lpar;Scott Stedman/Forensic News&rpar;](http://www.techmeme.com/220312/p4#a220312p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
