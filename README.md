@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget](http://9gag.com/gag/aYrEVZ2)
+ - 🚖 [8th of March in Russia](http://9gag.com/gag/avA1yzX)
  - 🚯 [Gen Z going though major historic events.](http://9gag.com/gag/aPZmAjB)
- - 🚯 [To B or not to B](http://9gag.com/gag/ay93NXW)<!-- MEMES:END -->
+ - 🚯 [\u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u043a\u0443](http://9gag.com/gag/aRr4Bjy)<!-- MEMES:END -->
 
 --- 
 
