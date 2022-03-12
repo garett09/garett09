@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can we now riot and loot?](http://9gag.com/gag/aPZmAqP)
- - 🚯 [Gen Z going though major historic events.](http://9gag.com/gag/aPZmAjB)
- - 🚯 [The mystery](http://9gag.com/gag/aE86qee)<!-- MEMES:END -->
+ - 🚖 [Gen Z going though major historic events.](http://9gag.com/gag/aPZmAjB)
+ - 🚯 [To B or not to B](http://9gag.com/gag/ay93NXW)
+ - 🚯 [Well f*ck](http://9gag.com/gag/a416PQ6)<!-- MEMES:END -->
 
 --- 
 
