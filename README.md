@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-423-3135437/)
- - [Sony Xperia 1 III review revisited: The good and bad over six months later](https://www.androidauthority.com/sony-xperia-1-iii-review-revisited-3098466/)
- - [Best Cheap True-Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)
+ - [Sony pulls Crunchyroll, home entertainment releases from Russia](https://www.theverge.com/2022/3/12/22974228/sony-halts-crunchyroll-theatrical-releases-russia-ukraine)
+ - [Investigation: Socios, which partners with soccer clubs to offer fan tokens, has withheld crypto payments to staff to maintain the value of its chiliZ currency &lpar;James Corbett/Off The Pitch&rpar;](http://www.techmeme.com/220312/p11#a220312p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
