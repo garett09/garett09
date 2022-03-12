@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let&#39;s Talk About How The Witch Queen Just Turned Destiny 2&#39;s Universe Upside Down](https://kotaku.com/destiny-2-witch-queen-campaign-story-spoiler-rhulk-witn-1848644071)
  - [It’s good and righteous when Pokémon kick my ass](https://www.polygon.com/22972657/pokemon-legends-arceus-kick-my-ass)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [Ukrainian esports team Na&#39;Vi says it is &#39;not going to leave the country&#39;](https://www.pcgamer.com/ukrainian-esports-team-navi-says-it-is-not-going-to-leave-the-country)<!-- GAME:END -->
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
