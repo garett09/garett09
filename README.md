@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Lets You Change the Order of Your Playlists. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/spotify-lets-you-change-the-order-of-your-playlists-heres-how/#ftag=CAD590a51e)
- - [Apple’s chips are on the table](https://www.theverge.com/22972996/apple-silicon-arm-double-size-mac-m1-pro-max-ultra-a15)
- - [Sources: Chinese brands have cut their smartphone shipments to Russia in half since Russia&#39;s invasion of Ukraine because of the ruble&#39;s collapse and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/220312/p5#a220312p5)<!-- TECH:END -->
+ - [Apple Studio Display vs. Pro Display XDR: The Same, Yet Not     - CNET](https://www.cnet.com/tech/computing/apple-studio-display-vs-pro-display-xdr-the-same-yet-not/#ftag=CAD590a51e)
+ - [13 Best Weekend Deals on Fitness Trackers, Robot Vacuums, and More](https://www.wired.com/story/weekend-deals-march-12-2022)
+ - [This Massive Game Bundle Costs $10 and Benefits Ukraine Charities](https://www.wired.com/story/itch-bundle-for-ukraine-charity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
