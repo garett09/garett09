@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let&#39;s Talk About How The Witch Queen Just Turned Destiny 2&#39;s Universe Upside Down](https://kotaku.com/destiny-2-witch-queen-campaign-story-spoiler-rhulk-witn-1848644071)
- - [It’s good and righteous when Pokémon kick my ass](https://www.polygon.com/22972657/pokemon-legends-arceus-kick-my-ass)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
+ - [Five Years After Launch, For Honor Is Getting Crossplay](https://kotaku.com/crossplay-for-honor-ubisoft-year-6-xbox-ps5-pc-steam-cr-1848645822)
+ - [The great non-Marvel or DC superhero movies you can stream right now](https://www.polygon.com/what-to-watch/22961992/best-superhero-movies-not-marvel-dc-streaming)
+ - [Let&#39;s Talk About How The Witch Queen Just Turned Destiny 2&#39;s Universe Upside Down](https://kotaku.com/destiny-2-witch-queen-campaign-story-spoiler-rhulk-witn-1848644071)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
