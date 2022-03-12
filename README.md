@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to preorder Apple&#39;s iPhone SE 3 &lpar;2022&rpar; and get the best deal](https://appleinsider.com/articles/22/03/11/how-to-preorder-apples-iphone-se-3-2022-and-get-the-best-deal?utm_medium=rss)
- - [Google wins court battle with Genius over song lyrics](https://www.theverge.com/2022/3/11/22973282/google-wins-court-battle-genius-song-lyrics-copyright)
- - [Bored Ape Yacht Club creator buys CryptoPunks and Meebits](https://www.theverge.com/2022/3/11/22973394/bored-ape-yacht-club-cryptopunks-meebits-nft)<!-- TECH:END -->
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
+ - [Ubisoft says it experienced a ‘cyber security incident’, and the purported Nvidia hackers are taking credit](https://www.theverge.com/2022/3/11/22972768/ubisoft-cyber-security-incident-hack)
+ - [Counterpoint: as chip prices fall, 5G-capable devices have moved from $550+ to $250+; the average price of a multi-function 5G SoC is $40-$45 &lpar;Suman Bhattacharyya/Wall Street Journal&rpar;](http://www.techmeme.com/220311/p34#a220311p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
