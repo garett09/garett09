@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waaaait a minute... This General guy in Austrian TV looks somehow familiar. Something is missing, but I can&#39;t put my finger on it...](http://9gag.com/gag/aog3Mnn)
- - 🚯 [Thief tries to rob off-duty police officer and is shot in Brazil](http://9gag.com/gag/apg3Gpp)
- - 🚯 [Nina Conti the best ventriloquist performance](http://9gag.com/gag/apg3G3b)<!-- MEMES:END -->
+ - 🚖 [Just look](http://9gag.com/gag/aqGXjBZ)
+ - 🚯 [Just travelled on a train from Przemysl to Szczecin. Wagons stock full people bringing their entire livelihoods, including pets Almost exclusively women and children Seen pregnant mothers carrying loads of luggage Remember you travel for free on polish trains if youre ukrainian!](http://9gag.com/gag/a61XEoe)
+ - 🚯 [Australian surfer Mikey Wright running into the sea to save a struggling swimmer in Hawaii!!](http://9gag.com/gag/aBn62PO)<!-- MEMES:END -->
 
 --- 
 
