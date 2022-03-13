@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Give Your Android 12 Screen a Makeover With Repainter](https://www.wired.com/story/android-12-screen-makeover-repainter)
- - [DeepMind’s New AI Helps Restore Damaged Ancient Texts](https://www.wired.com/story/deepmind-ai-restore-ancient-texts)
- - [A look at growing online meth communities on Zoom, Reddit, and others as they attract little attention from content moderators, worsening the addiction problem &lpar;Benjamin Goggin/NBC News&rpar;](http://www.techmeme.com/220313/p5#a220313p5)<!-- TECH:END -->
+ - [Crime blotter: 12 years for Sprint iPhone theft, Roger Stone, fake guns, and more](https://appleinsider.com/articles/22/03/13/crime-blotter-12-years-for-sprint-iphone-theft-roger-stone-fake-guns-and-more?utm_medium=rss)
+ - [Top deals March 12: $515 4th gen iPad Air, $499 65-inch TV, $90 2nd gen Apple Pencil, more!](https://appleinsider.com/articles/22/03/12/top-deals-march-12-fourth-gen-ipad-air-for-515-65-inch-amazon-fire-tv-for-499-34-star-wars-millennium-falcon-speaker-more?utm_medium=rss)
+ - [Behind the rise of Kuaishou&#39;s short-form video app Kwai in Brazil, where it has amassed 45M+ monthly active users by appealing to people with blue collar jobs &lpar;Rest of World&rpar;](http://www.techmeme.com/220313/p6#a220313p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
