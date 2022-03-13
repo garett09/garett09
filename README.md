@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 15.4: The iPhone Update Is Coming Soon. Here&#39;s What to Expect     - CNET](https://www.cnet.com/tech/mobile/ios-15-4-the-iphone-update-is-coming-soon-heres-what-to-expect/#ftag=CAD590a51e)
  - [Research: 23 of the top 30 search results for the numbers 11, 12, 13 on Facebook were groups targeting children of those ages, including with sexual references &lpar;Lara Putnam/Wired&rpar;](http://www.techmeme.com/220313/p8#a220313p8)
- - [I ditched my least used Android apps for web apps, and you should too](https://www.androidauthority.com/web-apps-vs-android-apps-3132506/)
- - [Ford to ship and sell Explorer SUVs with missing chips](https://www.theverge.com/2022/3/13/22975246/ford-ship-sell-incomplete-vehicles-missing-chips)<!-- TECH:END -->
+ - [I ditched my least used Android apps for web apps, and you should too](https://www.androidauthority.com/web-apps-vs-android-apps-3132506/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
