@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This iconic single shot opening scene from the film Spectre where Daniel Craig walks elegantly across rooftops and balconies in Mexico City.](http://9gag.com/gag/a315W11)
- - 🚯 [Holy f**k at that point just give me the death penalty](http://9gag.com/gag/angRxMo)
- - 🚯 [My right to repair](http://9gag.com/gag/aDD6VQB)<!-- MEMES:END -->
+ - 🚖 [My right to repair](http://9gag.com/gag/aDD6VQB)
+ - 🚯 [In today&#39;s `Guess the country...`](http://9gag.com/gag/azedREb)
+ - 🚯 [It is all because of me](http://9gag.com/gag/aLvzXpM)<!-- MEMES:END -->
 
 --- 
 
