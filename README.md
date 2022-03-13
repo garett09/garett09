@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sunday Comics: Good Idea](https://kotaku.com/sunday-comics-good-idea-1848647390)
  - [The Halo show’s creators saw a world beyond the games — and Master Chief](https://www.polygon.com/22973368/halo-tv-show-paramount-plus-preview)
- - [Grand Theft Auto 5 next-gen preload, release date, and price details](https://www.polygon.com/gaming/22973405/gta-5-pre-load-next-gen-release-date-price-grand-theft-auto-online)
- - [Great moments in PC gaming: Surviving the village attack in Resident Evil 8](https://www.pcgamer.com/great-moments-in-pc-gaming-surviving-the-village-attack-in-resident-evil-8)<!-- GAME:END -->
+ - [Grand Theft Auto 5 next-gen preload, release date, and price details](https://www.polygon.com/gaming/22973405/gta-5-pre-load-next-gen-release-date-price-grand-theft-auto-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
