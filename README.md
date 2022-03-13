@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: 2022 iPad Air vs 2021 iPad vs 11-inch iPad Pro](https://appleinsider.com/inside/ipad-air-5/vs/compared-2021-ipad-vs-2022-ipad-air-vs-11-inch-ipad-pro?utm_medium=rss)
- - [Forto, which provides digitized freight forwarding and supply chain tools, raises a $250M Series D, nearly doubling its valuation to $2.1B in eight months &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/220312/p17#a220312p17)
- - [Taiwan is partnering with leading chipmakers to set up specialized &quot;chip schools&quot; that run year-round to train its next generation of semiconductor engineers &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/220312/p16#a220312p16)<!-- TECH:END -->
+ - [Mojo, an upcoming stock market-like app for professional athletes that will let fans buy and sell players at values based on performance, raises a $75M Series A &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/220313/p2#a220313p2)
+ - [AiFi, which offers computer vision-powered cashierless tech for retailers, raises a $65M Series B, bringing its total funding to $80M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220313/p1#a220313p1)
+ - [Compared: 2022 iPad Air vs 2021 iPad vs 11-inch iPad Pro](https://appleinsider.com/inside/ipad-air-5/vs/compared-2021-ipad-vs-2022-ipad-air-vs-11-inch-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
