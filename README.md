@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: GTA V Is Almost Here. Again. &lpar;Again.&rpar;](https://kotaku.com/the-week-in-games-gta-v-is-almost-here-again-again-1848648053)
- - [No, that isn’t a Thundercats reference in Turning Red &lpar;but it sure feels like one&rpar;](https://www.polygon.com/22975767/turning-red-pixar-thundercats-anime)
- - [Warren Spector Thinks NFTs Are &#39;Ridiculous&#39; And Not A Good Idea](https://kotaku.com/nfts-warren-spector-deus-ex-system-shock-blockchain-sca-1848647986)<!-- GAME:END -->
+ - [Perfect Dark reboot director leaves studio](https://www.pcgamer.com/perfect-dark-reboot-director-leaves-studio)
+ - [Former Division studio head leaves Ubisoft for good](https://www.pcgamer.com/former-division-studio-head-leaves-ubisoft-for-good)
+ - [The Week In Games: GTA V Is Almost Here. Again. &lpar;Again.&rpar;](https://kotaku.com/the-week-in-games-gta-v-is-almost-here-again-again-1848648053)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
