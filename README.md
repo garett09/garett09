@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunday Comics: Good Idea](https://kotaku.com/sunday-comics-good-idea-1848647390)
- - [The Halo show’s creators saw a world beyond the games — and Master Chief](https://www.polygon.com/22973368/halo-tv-show-paramount-plus-preview)
- - [Grand Theft Auto 5 next-gen preload, release date, and price details](https://www.polygon.com/gaming/22973405/gta-5-pre-load-next-gen-release-date-price-grand-theft-auto-online)<!-- GAME:END -->
+ - [Steam Game Dev’s Patch Notes Include Anti-Mask Rant, Users Immediately Revolt](https://kotaku.com/steam-pc-domina-anti-mask-mask-covid19-rant-review-bomb-1848647524)
+ - [Here’s a villainous first look at Umbrella Academy season 3, which arrives in June](https://www.polygon.com/22974072/umbrella-academy-season-3-cast-photos-release-date)
+ - [How to do a smokey eye the The Batman way](https://www.polygon.com/22973259/batman-eyeliner-makeup-kurt-cobain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
