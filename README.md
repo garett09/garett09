@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They compete to see who can pay you the least](http://9gag.com/gag/aDD6ZNK)
- - 🚯 [Get another one and you have three of a kind](http://9gag.com/gag/a41650v)
- - 🚯 [This is so true](http://9gag.com/gag/aVxoZjK)<!-- MEMES:END -->
+ - 🚖 [Get another one and you have three of a kind](http://9gag.com/gag/a41650v)
+ - 🚯 [\u201cWelcome to hell\u201d](http://9gag.com/gag/aYrEPd7)
+ - 🚯 [Stop being poors](http://9gag.com/gag/aqGXQAZ)<!-- MEMES:END -->
 
 --- 
 
