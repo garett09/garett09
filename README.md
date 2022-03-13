@@ -197,7 +197,7 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Untouchable girl](http://9gag.com/gag/a916zQL)
+ - 🚖 [Red fox](http://9gag.com/gag/arn3XMp)
  - 🚯 [Aldi](http://9gag.com/gag/amg1Gjy)
  - 🚯 [It&#39;s time son](http://9gag.com/gag/aWg7Ldd)<!-- MEMES:END -->
 
