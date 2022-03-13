@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget the damn brake!](http://9gag.com/gag/aDD6Z4B)
- - 🚯 [Best years of my life &lpar;sort of&rpar;](http://9gag.com/gag/aqGXQNZ)
- - 🚯 [I&#39;m in danger](http://9gag.com/gag/aog34Pm)<!-- MEMES:END -->
+ - 🚖 [Oh sorry, that was an accident](http://9gag.com/gag/aRr4zN2)
+ - 🚯 [They look giant to me](http://9gag.com/gag/amg164d)
+ - 🚯 [They compete to see who can pay you the least](http://9gag.com/gag/aDD6ZNK)<!-- MEMES:END -->
 
 --- 
 
