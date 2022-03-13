@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Subaru retires the gas-powered WRX STI while it explores electrification](https://www.theverge.com/2022/3/12/22974617/subaru-retires-wrx-sti-explores-electrification-ev)
  - [‘Fan token’ company Socios accused of crypto price manipulation](https://www.theverge.com/2022/3/12/22974337/fan-token-company-socios-accused-cryptocurrency-price-manipulation)
- - [Interview with CrowdTangle co-founder Brandon Silverman on social networks&#39; responsibility to open up, including by doing and sharing their own research &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220312/p15#a220312p15)
- - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California Wine Ruined by Wildfires Leads Chemists to Analyze Grapes for Smoke     - CNET](https://www.cnet.com/science/climate/california-wine-ruined-by-wildfires-leads-chemists-to-analyze-grapes-for-smoke/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
