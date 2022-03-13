@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bicycle was detained during protest in Moscow](http://9gag.com/gag/aLvzmPW)
- - 🚯 [Its true](http://9gag.com/gag/agg18Ev)
- - 🚯 [This has been everyday for some years now](http://9gag.com/gag/aYrEqGq)<!-- MEMES:END -->
+ - 🚖 [B\u00e0sk\u00e9to ball](http://9gag.com/gag/aBn6GOQ)
+ - 🚯 [Bicycle was detained during protest in Moscow](http://9gag.com/gag/aLvzmPW)
+ - 🚯 [Recycled stuff to make you smile](http://9gag.com/gag/awz3ODx)<!-- MEMES:END -->
 
 --- 
 
