@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B\u00e0sk\u00e9to ball](http://9gag.com/gag/aBn6GOQ)
- - 🚯 [Bicycle was detained during protest in Moscow](http://9gag.com/gag/aLvzmPW)
- - 🚯 [Recycled stuff to make you smile](http://9gag.com/gag/awz3ODx)<!-- MEMES:END -->
+ - 🚖 [Recycled stuff to make you smile](http://9gag.com/gag/awz3ODx)
+ - 🚯 [My right to repair](http://9gag.com/gag/aDD6VQB)
+ - 🚯 [Holy f**k at that point just give me the death penalty](http://9gag.com/gag/angRxMo)<!-- MEMES:END -->
 
 --- 
 
