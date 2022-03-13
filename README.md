@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Subaru retires the gas-powered WRX STI while it explores electrification](https://www.theverge.com/2022/3/12/22974617/subaru-retires-wrx-sti-explores-electrification-ev)
- - [‘Fan token’ company Socios accused of crypto price manipulation](https://www.theverge.com/2022/3/12/22974337/fan-token-company-socios-accused-cryptocurrency-price-manipulation)
- - [California Wine Ruined by Wildfires Leads Chemists to Analyze Grapes for Smoke     - CNET](https://www.cnet.com/science/climate/california-wine-ruined-by-wildfires-leads-chemists-to-analyze-grapes-for-smoke/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan is partnering with leading chipmakers to set up specialized &quot;chip schools&quot; that run year-round to train its next generation of semiconductor engineers &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/220312/p16#a220312p16)
+ - [Best Internet Providers in Charlotte, NC: Fiber, Cable and Now 5G     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
+ - [Subaru retires the gas-powered WRX STI while it explores electrification](https://www.theverge.com/2022/3/12/22974617/subaru-retires-wrx-sti-explores-electrification-ev)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
