@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That guy spoke some facts at the end](http://9gag.com/gag/adg112j)
- - 🚯 [Banana for scale](http://9gag.com/gag/abg1OZ9)
- - 🚯 [Just a war video](http://9gag.com/gag/ajg11y8)<!-- MEMES:END -->
+ - 🚖 [Just a war video](http://9gag.com/gag/ajg11y8)
+ - 🚯 [A little broad daylight sabotage](http://9gag.com/gag/aBn6692)
+ - 🚯 [Future tech](http://9gag.com/gag/ajg119g)<!-- MEMES:END -->
 
 --- 
 
