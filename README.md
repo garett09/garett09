@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.4: The iPhone Update Is Coming Soon. Here&#39;s What to Expect     - CNET](https://www.cnet.com/tech/mobile/ios-15-4-the-iphone-update-is-coming-soon-heres-what-to-expect/#ftag=CAD590a51e)
- - [Research: 23 of the top 30 search results for the numbers 11, 12, 13 on Facebook were groups targeting children of those ages, including with sexual references &lpar;Lara Putnam/Wired&rpar;](http://www.techmeme.com/220313/p8#a220313p8)
- - [I ditched my least used Android apps for web apps, and you should too](https://www.androidauthority.com/web-apps-vs-android-apps-3132506/)<!-- TECH:END -->
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
+ - [Mac mini, iMac, Mac Studio -- Which desktop Mac to buy at any pricepoint](https://appleinsider.com/articles/22/03/13/mac-mini-imac-mac-studio----which-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 3 revisited: The good and the bad over six months later](https://www.androidauthority.com/samsung-galaxy-z-flip-3-revisited-3098458/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
