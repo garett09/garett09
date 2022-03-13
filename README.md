@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a war video](http://9gag.com/gag/ajg11y8)
- - 🚯 [A little broad daylight sabotage](http://9gag.com/gag/aBn6692)
- - 🚯 [Future tech](http://9gag.com/gag/ajg119g)<!-- MEMES:END -->
+ - 🚖 [Untouchable girl](http://9gag.com/gag/a916zQL)
+ - 🚯 [Aldi](http://9gag.com/gag/amg1Gjy)
+ - 🚯 [It&#39;s time son](http://9gag.com/gag/aWg7Ldd)<!-- MEMES:END -->
 
 --- 
 
