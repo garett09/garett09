@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED and beyond: What’s next for smartphone displays?](https://www.androidauthority.com/future-smartphone-displays-3121673/)
- - [Top deals March 13: $138 third-gen AirPods, $33 Spigen magnetic battery pack, $800 off LG 65-inch OLED TV, more!](https://appleinsider.com/articles/22/03/13/top-deals-march-13-138-third-gen-airpods-33-spigen-magnetic-battery-pack-1650-lg-65-inch-oled-tv-more?utm_medium=rss)
- - [Apple Silicon Mac Pro could combine two M1 Ultra chips for speed](https://appleinsider.com/articles/22/03/13/apple-silicon-mac-pro-could-combine-two-m1-ultra-chips-for-speed?utm_medium=rss)<!-- TECH:END -->
+ - [ProWritingAid VS Grammarly: Which Grammar Checker is Better in &lpar;2022&rpar; ?](http://www.crunchhype.com/2022/03/prowritingaid-vs-grammarly-which.html)
+ - [Ford to ship and sell incomplete vehicles with missing chips](https://www.theverge.com/2022/3/13/22975246/ford-ship-sell-incomplete-vehicles-missing-chips)
+ - [OLED and beyond: What’s next for smartphone displays?](https://www.androidauthority.com/future-smartphone-displays-3121673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
