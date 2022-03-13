@@ -198,8 +198,8 @@ Windows                  10 hrs 43 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Get another one and you have three of a kind](http://9gag.com/gag/a41650v)
- - 🚯 [\u201cWelcome to hell\u201d](http://9gag.com/gag/aYrEPd7)
- - 🚯 [Stop being poors](http://9gag.com/gag/aqGXQAZ)<!-- MEMES:END -->
+ - 🚯 [If your spitting on people doesn\u2019t matter what age you are](http://9gag.com/gag/aLvzGwP)
+ - 🚯 [\u201cWelcome to hell\u201d](http://9gag.com/gag/aYrEPd7)<!-- MEMES:END -->
 
 --- 
 
