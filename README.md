@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s what it takes to get one of Warhammer 40,000&#39;s space marines ready for a fight](https://www.pcgamer.com/heres-what-it-takes-to-get-one-of-warhammer-40000s-space-marines-ready-for-a-fight)
  - [Bots remain one of Lost Ark&#39;s top issues](https://www.pcgamer.com/bots-remain-one-of-lost-arks-top-issues)
- - [What are the worst mouse-and-keyboard control sins?](https://www.pcgamer.com/what-are-the-worst-mouse-and-keyboard-control-sins)
- - [There are bad adventure games, and then there&#39;s Hugo 2: Whodunit?](https://www.pcgamer.com/saturday-crapshoot-hugos-house-of-horrors-whodunnit)<!-- GAME:END -->
+ - [What are the worst mouse-and-keyboard control sins?](https://www.pcgamer.com/what-are-the-worst-mouse-and-keyboard-control-sins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
