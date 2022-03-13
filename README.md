@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: 12 years for Sprint iPhone theft, Roger Stone, fake guns, and more](https://appleinsider.com/articles/22/03/13/crime-blotter-12-years-for-sprint-iphone-theft-roger-stone-fake-guns-and-more?utm_medium=rss)
- - [Top deals March 12: $515 4th gen iPad Air, $499 65-inch TV, $90 2nd gen Apple Pencil, more!](https://appleinsider.com/articles/22/03/12/top-deals-march-12-fourth-gen-ipad-air-for-515-65-inch-amazon-fire-tv-for-499-34-star-wars-millennium-falcon-speaker-more?utm_medium=rss)
- - [Behind the rise of Kuaishou&#39;s short-form video app Kwai in Brazil, where it has amassed 45M+ monthly active users by appealing to people with blue collar jobs &lpar;Rest of World&rpar;](http://www.techmeme.com/220313/p6#a220313p6)<!-- TECH:END -->
+ - [Apple Silicon Mac Pro could combine two M1 Ultra chips for speed](https://appleinsider.com/articles/22/03/13/apple-silicon-mac-pro-could-combine-two-m1-ultra-chips-for-speed?utm_medium=rss)
+ - [How People Actually Make Money From Cryptocurrencies](https://www.wired.com/story/how-to-make-money-from-crypto)
+ - [The Mac Studio is myth fulfillment](https://www.theverge.com/22974998/apple-xmac-myth-midrange-mid-tower-mac-studio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
