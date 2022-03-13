@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s time son](http://9gag.com/gag/aWg7Ldd)
+ - 🚖 [And are escorted by jets](http://9gag.com/gag/arn3AoB)
  - 🚯 [Red fox](http://9gag.com/gag/arn3XMp)
- - 🚯 [And are escorted by jets](http://9gag.com/gag/arn3AoB)<!-- MEMES:END -->
+ - 🚯 [Mariupol, heavy fighting for the city](http://9gag.com/gag/arn3Av5)<!-- MEMES:END -->
 
 --- 
 
