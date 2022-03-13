@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best years of my life &lpar;sort of&rpar;](http://9gag.com/gag/aqGXQNZ)
- - 🚯 [Doesn&#39;t matter how cute you are, never kick a man car](http://9gag.com/gag/aPZmP2w)
- - 🚯 [Red fox](http://9gag.com/gag/arn3XMp)<!-- MEMES:END -->
+ - 🚖 [Giddy Up Yehaa](http://9gag.com/gag/a61X5W8)
+ - 🚯 [I&#39;m in danger](http://9gag.com/gag/aog34Pm)
+ - 🚯 [Elden ring](http://9gag.com/gag/aZr18dV)<!-- MEMES:END -->
 
 --- 
 
