@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Player Pretends To Be NPC And Successfully Tricks Invader](https://kotaku.com/elden-ring-tricks-invader-npc-cosplay-pretend-fromsoftw-1848647772)
- - [This week in PC Gaming: Persona 4 Arena Ultimax, Tunic and Stranger of Paradise: Final Fantasy Origin](https://www.pcgamer.com/this-week-in-pc-gaming-persona-4-arena-ultimax-tunic-strangers-of-paradise-final-fantasy-origin)
- - [22 of the rarest and most expensive big box PC games](https://www.pcgamer.com/rarest-most-expensive-pc-games)<!-- GAME:END -->
+ - [The Week In Games: GTA V Is Almost Here. Again. &lpar;Again.&rpar;](https://kotaku.com/the-week-in-games-gta-v-is-almost-here-again-again-1848648053)
+ - [No, that isn’t a Thundercats reference in Turning Red &lpar;but it sure feels like one&rpar;](https://www.polygon.com/22975767/turning-red-pixar-thundercats-anime)
+ - [Warren Spector Thinks NFTs Are &#39;Ridiculous&#39; And Not A Good Idea](https://kotaku.com/nfts-warren-spector-deus-ex-system-shock-blockchain-sca-1848647986)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
