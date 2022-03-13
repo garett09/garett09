@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Birthday to me, I&#39;ll guess](http://9gag.com/gag/aLvzA6x)
+ - 🚖 [Spi\u0161 Castle, Slovakia.](http://9gag.com/gag/aQXvmbW)
  - 🚯 [Fix it](http://9gag.com/gag/aGznGpw)
- - 🚯 [Stop being poors](http://9gag.com/gag/aqGXQAZ)<!-- MEMES:END -->
+ - 🚯 [Post your favorite GIF here, so I can save it for later.](http://9gag.com/gag/aXrM4jg)<!-- MEMES:END -->
 
 --- 
 
