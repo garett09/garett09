@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spi\u0161 Castle, Slovakia.](http://9gag.com/gag/aQXvmbW)
- - 🚯 [Fix it](http://9gag.com/gag/aGznGpw)
- - 🚯 [Post your favorite GIF here, so I can save it for later.](http://9gag.com/gag/aXrM4jg)<!-- MEMES:END -->
+ - 🚖 [Bicycle was detained during protest in Moscow](http://9gag.com/gag/aLvzmPW)
+ - 🚯 [Its true](http://9gag.com/gag/agg18Ev)
+ - 🚯 [This has been everyday for some years now](http://9gag.com/gag/aYrEqGq)<!-- MEMES:END -->
 
 --- 
 
