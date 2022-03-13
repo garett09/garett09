@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)
- - [Mac mini, iMac, Mac Studio -- Which desktop Mac to buy at any pricepoint](https://appleinsider.com/articles/22/03/13/mac-mini-imac-mac-studio----which-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
- - [Samsung Galaxy Z Flip 3 revisited: The good and the bad over six months later](https://www.androidauthority.com/samsung-galaxy-z-flip-3-revisited-3098458/)<!-- TECH:END -->
+ - [Shenzhen lockdown could impact Mac Studio shipments](https://appleinsider.com/articles/22/03/13/shenzhen-lockdown-could-impact-mac-studio-shipments?utm_medium=rss)
+ - [Why Yellowstone, Paramount&#39;s Biggest Show, Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/tech/services-and-software/why-yellowstone-paramounts-biggest-show-isnt-on-paramount-plus/#ftag=CAD590a51e)
+ - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
