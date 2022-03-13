@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at growing online meth communities on Zoom, Reddit, and others as they attract little attention from content moderators, worsening the addiction problem &lpar;Benjamin Goggin/NBC News&rpar;](http://www.techmeme.com/220313/p5#a220313p5)
- - [Stilt, a provider of financial services to immigrants, raises a $14M Series A and $100M in debt and launches an API to help fintechs offer credit building tools &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220313/p4#a220313p4)
- - [Singapore-based Silent Eight, whose AI-powered tech lets financial institutions enforce economic sanctions and prevent financial crimes, raises a $40M Series B &lpar;Sharanya Pillai/The Business Times&rpar;](http://www.techmeme.com/220313/p3#a220313p3)<!-- TECH:END -->
+ - [How to Give Your Android 12 Screen a Makeover With Repainter](https://www.wired.com/story/android-12-screen-makeover-repainter)
+ - [DeepMind’s New AI Helps Restore Damaged Ancient Texts](https://www.wired.com/story/deepmind-ai-restore-ancient-texts)
+ - [A look at growing online meth communities on Zoom, Reddit, and others as they attract little attention from content moderators, worsening the addiction problem &lpar;Benjamin Goggin/NBC News&rpar;](http://www.techmeme.com/220313/p5#a220313p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
