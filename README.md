@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giddy Up Yehaa](http://9gag.com/gag/a61X5W8)
- - 🚯 [I&#39;m in danger](http://9gag.com/gag/aog34Pm)
- - 🚯 [Elden ring](http://9gag.com/gag/aZr18dV)<!-- MEMES:END -->
+ - 🚖 [Never forget the damn brake!](http://9gag.com/gag/aDD6Z4B)
+ - 🚯 [Best years of my life &lpar;sort of&rpar;](http://9gag.com/gag/aqGXQNZ)
+ - 🚯 [I&#39;m in danger](http://9gag.com/gag/aog34Pm)<!-- MEMES:END -->
 
 --- 
 
