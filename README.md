@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grand Theft Auto 5 next-gen preload, release date, and price details](https://www.polygon.com/gaming/22973405/gta-5-pre-load-next-gen-release-date-price-grand-theft-auto-online)
  - [Great moments in PC gaming: Surviving the village attack in Resident Evil 8](https://www.pcgamer.com/great-moments-in-pc-gaming-surviving-the-village-attack-in-resident-evil-8)
- - [Here&#39;s what it takes to get one of Warhammer 40,000&#39;s space marines ready for a fight](https://www.pcgamer.com/heres-what-it-takes-to-get-one-of-warhammer-40000s-space-marines-ready-for-a-fight)
- - [Bots remain one of Lost Ark&#39;s top issues](https://www.pcgamer.com/bots-remain-one-of-lost-arks-top-issues)<!-- GAME:END -->
+ - [Here&#39;s what it takes to get one of Warhammer 40,000&#39;s space marines ready for a fight](https://www.pcgamer.com/heres-what-it-takes-to-get-one-of-warhammer-40000s-space-marines-ready-for-a-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
