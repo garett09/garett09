@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen lockdown could impact Mac Studio shipments](https://appleinsider.com/articles/22/03/13/shenzhen-lockdown-could-impact-mac-studio-shipments?utm_medium=rss)
- - [Why Yellowstone, Paramount&#39;s Biggest Show, Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/tech/services-and-software/why-yellowstone-paramounts-biggest-show-isnt-on-paramount-plus/#ftag=CAD590a51e)
- - [Compared: Mac Studio versus Mac Pro](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-versus-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro models may be the only devices to get the new A16 chip](https://www.theverge.com/2022/3/13/22975719/iphone-14-pro-max-models-a16-chip-kuo-apple-rumors)
+ - [Hands On with Govee&#39;s Lyra and StarPal smart lights](https://appleinsider.com/articles/22/03/13/hands-on-with-govees-lyra-and-starpal-smart-lights?utm_medium=rss)
+ - [Clearview AI&#39;s CEO says that Ukraine has started using the company&#39;s service for free to identify Russian troops, combat misinformation, and identify the dead &lpar;Reuters&rpar;](http://www.techmeme.com/220313/p10#a220313p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
