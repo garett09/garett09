@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Game Dev’s Patch Notes Include Anti-Mask Rant, Users Immediately Revolt](https://kotaku.com/steam-pc-domina-anti-mask-mask-covid19-rant-review-bomb-1848647524)
- - [Here’s a villainous first look at Umbrella Academy season 3, which arrives in June](https://www.polygon.com/22974072/umbrella-academy-season-3-cast-photos-release-date)
- - [How to do a smokey eye the The Batman way](https://www.polygon.com/22973259/batman-eyeliner-makeup-kurt-cobain)<!-- GAME:END -->
+ - [This week in PC Gaming: Persona 4 Arena Ultimax, Tunic and Stranger of Paradise: Final Fantasy Origin](https://www.pcgamer.com/this-week-in-pc-gaming-persona-4-arena-ultimax-tunic-strangers-of-paradise-final-fantasy-origin)
+ - [22 of the rarest and most expensive big box PC games](https://www.pcgamer.com/rarest-most-expensive-pc-games)
+ - [Steam Game Dev’s Patch Notes Include Anti-Mask Rant, Users Immediately Revolt](https://kotaku.com/steam-pc-domina-anti-mask-mask-covid19-rant-review-bomb-1848647524)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
