@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mojo, an upcoming stock market-like app for professional athletes that will let fans buy and sell players at values based on performance, raises a $75M Series A &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/220313/p2#a220313p2)
- - [AiFi, which offers computer vision-powered cashierless tech for retailers, raises a $65M Series B, bringing its total funding to $80M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220313/p1#a220313p1)
- - [Compared: 2022 iPad Air vs 2021 iPad vs 11-inch iPad Pro](https://appleinsider.com/inside/ipad-air-5/vs/compared-2021-ipad-vs-2022-ipad-air-vs-11-inch-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [A look at growing online meth communities on Zoom, Reddit, and others as they attract little attention from content moderators, worsening the addiction problem &lpar;Benjamin Goggin/NBC News&rpar;](http://www.techmeme.com/220313/p5#a220313p5)
+ - [Stilt, a provider of financial services to immigrants, raises a $14M Series A and $100M in debt and launches an API to help fintechs offer credit building tools &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220313/p4#a220313p4)
+ - [Singapore-based Silent Eight, whose AI-powered tech lets financial institutions enforce economic sanctions and prevent financial crimes, raises a $40M Series B &lpar;Sharanya Pillai/The Business Times&rpar;](http://www.techmeme.com/220313/p3#a220313p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
