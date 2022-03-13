@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is finally letting livestreamers add moderators](https://www.theverge.com/2022/3/13/22974597/instagram-finally-letting-livestreamers-add-moderators-live)
- - [Forget the 2022 iPhone SE, These Other Upcoming Phones Look Exciting     - CNET](https://www.cnet.com/tech/mobile/forget-the-2022-iphone-se-these-other-upcoming-phones-look-exciting/#ftag=CAD590a51e)
- - [ProWritingAid VS Grammarly: Which Grammar Checker is Better in &lpar;2022&rpar; ?](http://www.crunchhype.com/2022/03/prowritingaid-vs-grammarly-which.html)<!-- TECH:END -->
+ - [Kuo: iPhone 14 Pro models will get the A16 chip and 6GB of LPDDR 5 RAM, the standard iPhone 14 models will remain on A15 Bionic chip and get 6GB of LPDDR 4X RAM &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220313/p7#a220313p7)
+ - [10 years later, there’s still nothing like Journey’s multiplayer](https://www.theverge.com/2022/3/13/22972989/journey-10-year-anniversary-multiplayer-jenova-chen-austin-wintory)
+ - [iPhone 14 may still use A15, Pro models move to A16 says Ming-Chi Kuo](https://appleinsider.com/articles/22/03/13/iphone-14-may-still-use-a15-pro-models-move-to-a16-says-ming-chi-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
