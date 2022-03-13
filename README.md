@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProWritingAid VS Grammarly: Which Grammar Checker is Better in &lpar;2022&rpar; ?](http://www.crunchhype.com/2022/03/prowritingaid-vs-grammarly-which.html)
- - [Ford to ship and sell incomplete vehicles with missing chips](https://www.theverge.com/2022/3/13/22975246/ford-ship-sell-incomplete-vehicles-missing-chips)
- - [OLED and beyond: What’s next for smartphone displays?](https://www.androidauthority.com/future-smartphone-displays-3121673/)<!-- TECH:END -->
+ - [Instagram is finally letting livestreamers add moderators](https://www.theverge.com/2022/3/13/22974597/instagram-finally-letting-livestreamers-add-moderators-live)
+ - [Forget the 2022 iPhone SE, These Other Upcoming Phones Look Exciting     - CNET](https://www.cnet.com/tech/mobile/forget-the-2022-iphone-se-these-other-upcoming-phones-look-exciting/#ftag=CAD590a51e)
+ - [ProWritingAid VS Grammarly: Which Grammar Checker is Better in &lpar;2022&rpar; ?](http://www.crunchhype.com/2022/03/prowritingaid-vs-grammarly-which.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
