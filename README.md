@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Player Pretends To Be NPC And Successfully Tricks Invader](https://kotaku.com/elden-ring-tricks-invader-npc-cosplay-pretend-fromsoftw-1848647772)
  - [This week in PC Gaming: Persona 4 Arena Ultimax, Tunic and Stranger of Paradise: Final Fantasy Origin](https://www.pcgamer.com/this-week-in-pc-gaming-persona-4-arena-ultimax-tunic-strangers-of-paradise-final-fantasy-origin)
- - [22 of the rarest and most expensive big box PC games](https://www.pcgamer.com/rarest-most-expensive-pc-games)
- - [Steam Game Dev’s Patch Notes Include Anti-Mask Rant, Users Immediately Revolt](https://kotaku.com/steam-pc-domina-anti-mask-mask-covid19-rant-review-bomb-1848647524)<!-- GAME:END -->
+ - [22 of the rarest and most expensive big box PC games](https://www.pcgamer.com/rarest-most-expensive-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
