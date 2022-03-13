@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bots remain one of Lost Ark&#39;s top issues](https://www.pcgamer.com/bots-remain-one-of-lost-arks-top-issues)
  - [What are the worst mouse-and-keyboard control sins?](https://www.pcgamer.com/what-are-the-worst-mouse-and-keyboard-control-sins)
- - [There are bad adventure games, and then there&#39;s Hugo 2: Whodunit?](https://www.pcgamer.com/saturday-crapshoot-hugos-house-of-horrors-whodunnit)
- - [Dune: Spice Wars&#39; Smugglers let you use your enemies&#39; strengths against them](https://www.pcgamer.com/dune-spice-wars-smugglers-let-you-use-your-enemies-strengths-against-them)<!-- GAME:END -->
+ - [There are bad adventure games, and then there&#39;s Hugo 2: Whodunit?](https://www.pcgamer.com/saturday-crapshoot-hugos-house-of-horrors-whodunnit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
