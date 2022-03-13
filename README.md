@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan is partnering with leading chipmakers to set up specialized &quot;chip schools&quot; that run year-round to train its next generation of semiconductor engineers &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/220312/p16#a220312p16)
- - [Best Internet Providers in Charlotte, NC: Fiber, Cable and Now 5G     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [Subaru retires the gas-powered WRX STI while it explores electrification](https://www.theverge.com/2022/3/12/22974617/subaru-retires-wrx-sti-explores-electrification-ev)<!-- TECH:END -->
+ - [Compared: 2022 iPad Air vs 2021 iPad vs 11-inch iPad Pro](https://appleinsider.com/inside/ipad-air-5/vs/compared-2021-ipad-vs-2022-ipad-air-vs-11-inch-ipad-pro?utm_medium=rss)
+ - [Forto, which provides digitized freight forwarding and supply chain tools, raises a $250M Series D, nearly doubling its valuation to $2.1B in eight months &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/220312/p17#a220312p17)
+ - [Taiwan is partnering with leading chipmakers to set up specialized &quot;chip schools&quot; that run year-round to train its next generation of semiconductor engineers &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/220312/p16#a220312p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
