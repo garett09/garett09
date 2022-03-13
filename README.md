@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B\u00e0sk\u00e9to ball](http://9gag.com/gag/aBn6GOQ)
- - 🚯 [This has been everyday for some years now](http://9gag.com/gag/aYrEqGq)
- - 🚯 [Schools in Japan ban ponytails because they `excite` male students.](http://9gag.com/gag/aVxo2ow)<!-- MEMES:END -->
+ - 🚖 [This has been everyday for some years now](http://9gag.com/gag/aYrEqGq)
+ - 🚯 [While Putler is sitting in his bunker, Ukrainian President Selensky is walking through Kiev in the middle of the day, visiting a Hospital and wounded Ukrainian Heros!](http://9gag.com/gag/a5162qg)
+ - 🚯 [`Two Words`, Moscov, 2022.](http://9gag.com/gag/aDD6O2x)<!-- MEMES:END -->
 
 --- 
 
