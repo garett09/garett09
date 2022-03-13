@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And are escorted by jets](http://9gag.com/gag/arn3AoB)
- - 🚯 [Red fox](http://9gag.com/gag/arn3XMp)
- - 🚯 [Mariupol, heavy fighting for the city](http://9gag.com/gag/arn3Av5)<!-- MEMES:END -->
+ - 🚖 [Mariupol, heavy fighting for the city](http://9gag.com/gag/arn3Av5)
+ - 🚯 [Elden ring](http://9gag.com/gag/aZr18dV)
+ - 🚯 [Red fox](http://9gag.com/gag/arn3XMp)<!-- MEMES:END -->
 
 --- 
 
