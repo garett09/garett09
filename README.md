@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Red fox](http://9gag.com/gag/arn3XMp)
- - 🚯 [Aldi](http://9gag.com/gag/amg1Gjy)
- - 🚯 [It&#39;s time son](http://9gag.com/gag/aWg7Ldd)<!-- MEMES:END -->
+ - 🚖 [It&#39;s time son](http://9gag.com/gag/aWg7Ldd)
+ - 🚯 [Red fox](http://9gag.com/gag/arn3XMp)
+ - 🚯 [And are escorted by jets](http://9gag.com/gag/arn3AoB)<!-- MEMES:END -->
 
 --- 
 
