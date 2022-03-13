@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro models may be the only devices to get the new A16 chip](https://www.theverge.com/2022/3/13/22975719/iphone-14-pro-max-models-a16-chip-kuo-apple-rumors)
- - [Hands On with Govee&#39;s Lyra and StarPal smart lights](https://appleinsider.com/articles/22/03/13/hands-on-with-govees-lyra-and-starpal-smart-lights?utm_medium=rss)
- - [Clearview AI&#39;s CEO says that Ukraine has started using the company&#39;s service for free to identify Russian troops, combat misinformation, and identify the dead &lpar;Reuters&rpar;](http://www.techmeme.com/220313/p10#a220313p10)<!-- TECH:END -->
+ - [Samsung announces a big Galaxy A launch event for this coming week](https://www.androidauthority.com/samsung-galaxy-a-2022-3135381/)
+ - [Samsung’s Awesome Galaxy A event will take place on March 17th](https://www.theverge.com/2022/3/13/22975452/samsung-galaxy-awesome-unpacked-a-series-event-march-17)
+ - [YouTube Vanced is shutting down ‘due to legal reasons’](https://www.theverge.com/2022/3/13/22975890/youtube-vanced-app-discontinued-shutting-down-legal-reasons)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
