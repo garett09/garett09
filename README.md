@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU Parliament committee rejects a provision for its Markets in Crypto Assets framework that would have limited the use of proof-of-work cryptocurrencies &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/220314/p12#a220314p12)
- - [Report details Apple&#39;s early debate about ATT, with Craig Federighi pushing for privacy changes while Eddy Cue and Phil Schiller argued for more cautious action &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220314/p11#a220314p11)
- - [iPad Air 5 benchmarks show identical performance to 11-inch iPad Pro](https://appleinsider.com/articles/22/03/14/ipad-air-5-benchmarks-show-identical-performance-to-11-inch-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases watchOS 8.5 with under-the-hood improvements](https://appleinsider.com/articles/22/03/14/apple-releases-watchos-85-with-under-the-hood-improvements?utm_medium=rss)
+ - [Apple updates macOS Monterey to version 12.3 with Universal Control](https://appleinsider.com/articles/22/03/14/apple-updates-macos-monterey-to-version-123-with-universal-control?utm_medium=rss)
+ - [Apple rolls out iOS 15.4 with the ability to use Face ID while wearing a mask, and iPadOS 15.4 with Universal Control, compatible with macOS 12.3 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220314/p14#a220314p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
