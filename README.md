@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s smartest trick is scale](https://www.pcgamer.com/elden-rings-smartest-trick-is-scale)
- - [Journey, once called Dragon, was almost rated Teen for being too bloody](https://www.pcgamer.com/journey-once-called-dragon-was-almost-rated-teen-for-being-too-bloody)
- - [Amazon warns Lost Ark players not to &#39;expend valuable time or resources&#39; on broken Tytalos raid](https://www.pcgamer.com/amazon-warns-lost-ark-players-not-to-expend-valuable-time-or-resources-on-broken-tytalos-raid)<!-- GAME:END -->
+ - [Live the Unwritten in Thursday’s Hogwarts Legacy State of Play](https://blog.playstation.com/2022/03/14/live-the-unwritten-in-thursdays-hogwarts-legacy-state-of-play/)
+ - [Ghostwire: Tokyo feels like a game defined by its perspective](https://www.polygon.com/22976545/ghostwire-tokyo-preview-ps5-first-person-perspective)
+ - [Live the Unwritten in Thursday’s Hogwarts Legacy State of Play](https://blog.playstation.com/2022/03/14/live-the-unwritten-in-thursdays-hogwarts-legacy-state-of-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
