@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple might use older chips in its cheapest iPhone 14 models](https://www.androidauthority.com/iphone-14-chips-3136536/)
  - [A look at the limitations of deep learning, and how &quot;neurosymbolic&quot; approaches to AI could offer a way forward for developing artificial general intelligence &lpar;Gary Marcus/Nautilus&rpar;](http://www.techmeme.com/220314/p1#a220314p1)
- - [The excellent YouTube Vanced app has been shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147/)
- - [Latest Telegram update brings phone number links, download manager, and more](https://www.androidauthority.com/telegram-update-phone-number-links-3136498/)<!-- TECH:END -->
+ - [The excellent YouTube Vanced app has been shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
