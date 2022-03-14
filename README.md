@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates Logic Pro X, MainStage with new features, M1 Ultra optimizations](https://appleinsider.com/articles/22/03/14/apple-updates-logic-pro-x-mainstage-with-new-features-m1-ultra-optimizations?utm_medium=rss)
- - [Apple rolls out iOS 15.4 &amp; iPadOS 15.4 with Face ID update, Universal Control](https://appleinsider.com/articles/22/03/14/apple-rolls-out-ios-154-ipados-154-with-face-id-update-universal-control?utm_medium=rss)
- - [CIA says it appointed La&#39;Naia J. Jones, former NSA deputy CIO, to CIO in late February, replacing Juliane Gallina &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/220314/p20#a220314p20)<!-- TECH:END -->
+ - [How to enable cross-save with your Destiny 2 data](https://www.theverge.com/22966324/destiny-2-how-to-cross-save-game-pc-xbox-ps4-steam-data)
+ - [South Africa&#39;s Competition Commission accuses Meta of anticompetitive practices for plans to exclude the government&#39;s communication tools from WhatsApp&#39;s API &lpar;Tim Cocks/Reuters&rpar;](http://www.techmeme.com/220314/p21#a220314p21)
+ - [Lawsuit claims Google’s ‘Order Online’ button directs customers away from restaurants’ sites](https://www.theverge.com/2022/3/14/22977512/google-lawsuit-bait-switch-tactic-customers-away-restaurants)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
