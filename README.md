@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just need a little mud](http://9gag.com/gag/axB34wK)
- - 🚯 [Actual problem solved by tesla autopilot](http://9gag.com/gag/angRVWn)
- - 🚯 [Why? just why?](http://9gag.com/gag/aAG6ZVg)<!-- MEMES:END -->
+ - 🚖 [`Fortiche` the French studio behind Arcane won all the 9 trophies at the anime award](http://9gag.com/gag/aRr4yrG)
+ - 🚯 [Finnish policewomen, the most empowered](http://9gag.com/gag/aog3DG0)
+ - 🚯 [Don&#39;t cha run bolii.](http://9gag.com/gag/angRdMb)<!-- MEMES:END -->
 
 --- 
 
