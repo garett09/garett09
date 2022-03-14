@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This has been everyday for some years now](http://9gag.com/gag/aYrEqGq)
- - 🚯 [While Putler is sitting in his bunker, Ukrainian President Selensky is walking through Kiev in the middle of the day, visiting a Hospital and wounded Ukrainian Heros!](http://9gag.com/gag/a5162qg)
- - 🚯 [`Two Words`, Moscov, 2022.](http://9gag.com/gag/aDD6O2x)<!-- MEMES:END -->
+ - 🚖 [Schools in Japan ban ponytails because they `excite` male students.](http://9gag.com/gag/aVxo2ow)
+ - 🚯 [This iconic single shot opening scene from the film Spectre where Daniel Craig walks elegantly across rooftops and balconies in Mexico City.](http://9gag.com/gag/a315W11)
+ - 🚯 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a516qOg)<!-- MEMES:END -->
 
 --- 
 
