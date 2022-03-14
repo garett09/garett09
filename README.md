@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream-now/#ftag=CAD590a51e)
- - [iPhone SE 2022 vs. iPhone SE 2020: Which Has More to Offer?     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-se-2020-which-has-more-to-offer/#ftag=CAD590a51e)
- - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How inheritance issues strike at the root of crypto&#39;s libertarian ethos, as disdain for institutions and lack of legal guidance leads to problems for inheritors &lpar;Rebecca Heilweil/Vox&rpar;](http://www.techmeme.com/220313/p11#a220313p11)
+ - [Best Tom Brady Memes and Jokes: Happy Unretirement Day     - CNET](https://www.cnet.com/culture/sports/best-tom-brady-memes-and-jokes-happy-unretirement-day/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
