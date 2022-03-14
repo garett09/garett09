@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This hurts a bit](http://9gag.com/gag/aPZmr3n)
- - 🚯 [That&#39;s a great idea Sam](http://9gag.com/gag/a315NZv)
- - 🚯 [Japanese Rolled Omelette](http://9gag.com/gag/angRGyE)<!-- MEMES:END -->
+ - 🚖 [Japanese Rolled Omelette](http://9gag.com/gag/angRGyE)
+ - 🚯 [This hurts a bit](http://9gag.com/gag/aPZmr3n)
+ - 🚯 [Love, depression or no idea what can it be...](http://9gag.com/gag/aOQepKv)<!-- MEMES:END -->
 
 --- 
 
