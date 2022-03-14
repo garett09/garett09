@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russians calmly with a smile on their faces on national TV, discussing how they will take Baltics, using Sweden territory, while Sweden giving them Gotland and being neutral. As a Lithuanian this makes me smile - they think we will great them. Wow, f**k you PUTIN!!!](http://9gag.com/gag/agg1j6n)
- - 🚯 [What a savage animal to prey on women like that](http://9gag.com/gag/agg1jjr)
- - 🚯 [Participation medals should stay at home](http://9gag.com/gag/aog3dv0)<!-- MEMES:END -->
+ - 🚖 [What a savage animal to prey on women like that](http://9gag.com/gag/agg1jjr)
+ - 🚯 [Staaahp It\u2018s already pepsi bro](http://9gag.com/gag/aLvzNK6)
+ - 🚯 [So basically you want your husband to be biseuxal?](http://9gag.com/gag/angRdeB)<!-- MEMES:END -->
 
 --- 
 
