@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How inheritance issues strike at the root of crypto&#39;s libertarian ethos, as disdain for institutions and lack of legal guidance leads to problems for inheritors &lpar;Rebecca Heilweil/Vox&rpar;](http://www.techmeme.com/220313/p11#a220313p11)
- - [Best Tom Brady Memes and Jokes: Happy Unretirement Day     - CNET](https://www.cnet.com/culture/sports/best-tom-brady-memes-and-jokes-happy-unretirement-day/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn is halting operations at two of its Shenzhen sites, one of which produces iPhones, after the government imposed a lockdown in the city till March 20 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220313/p12#a220313p12)
+ - [How to Choose an HDR Gaming Monitor     - CNET](https://www.cnet.com/tech/computing/how-to-choose-an-hdr-gaming-monitor/#ftag=CAD590a51e)
+ - [Samsung&#39;s next midrange Galaxy A phones to debut this week     - CNET](https://www.cnet.com/tech/mobile/samsungs-next-mid-range-galaxy-a-phones-to-debut-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
