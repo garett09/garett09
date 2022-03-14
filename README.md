@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to enable cross-save with your Destiny 2 data](https://www.theverge.com/22966324/destiny-2-how-to-cross-save-game-pc-xbox-ps4-steam-data)
- - [South Africa&#39;s Competition Commission accuses Meta of anticompetitive practices for plans to exclude the government&#39;s communication tools from WhatsApp&#39;s API &lpar;Tim Cocks/Reuters&rpar;](http://www.techmeme.com/220314/p21#a220314p21)
- - [Lawsuit claims Google’s ‘Order Online’ button directs customers away from restaurants’ sites](https://www.theverge.com/2022/3/14/22977512/google-lawsuit-bait-switch-tactic-customers-away-restaurants)<!-- TECH:END -->
+ - [Gauntlet, which offers a financial-risk modeling platform for crypto lending, raises a $23.8M Series B at a $1B valuation led by Ribbit Capital &lpar;Bloomberg&rpar;](http://www.techmeme.com/220314/p23#a220314p23)
+ - [Reggie Fils-Aimé doesn’t believe in Meta’s verse](https://www.theverge.com/2022/3/14/22977987/reggie-fils-aime-nintendo-facebook-meta-metaverse-oculus-interview)
+ - [Amazon&#39;s $200 price cut on Apple&#39;s 14-inch and 16-inch MacBook Pro is back](https://appleinsider.com/articles/22/03/14/amazons-200-price-cut-on-apples-14-inch-and-16-inch-macbook-pro-is-back?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
