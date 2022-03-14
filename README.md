@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [All of Elden Ring&#39;s demigods have names from George R.R. Martin&#39;s initials](https://www.pcgamer.com/all-of-elden-rings-demigods-have-names-from-george-rr-martins-initials)
  - [Elden Ring speedruns are already at the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)
- - [Where to find spells in Elden Ring](https://www.pcgamer.com/best-elden-ring-spells-magic-sorceries-incantations)
- - [Splatterpunk horror FPS Golden Light leaves Early Access](https://www.pcgamer.com/splatterpunk-horror-fps-golden-light-leaves-early-access)<!-- GAME:END -->
+ - [Where to find spells in Elden Ring](https://www.pcgamer.com/best-elden-ring-spells-magic-sorceries-incantations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
