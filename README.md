@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases watchOS 8.5 with under-the-hood improvements](https://appleinsider.com/articles/22/03/14/apple-releases-watchos-85-with-under-the-hood-improvements?utm_medium=rss)
- - [Apple updates macOS Monterey to version 12.3 with Universal Control](https://appleinsider.com/articles/22/03/14/apple-updates-macos-monterey-to-version-123-with-universal-control?utm_medium=rss)
- - [Apple rolls out iOS 15.4 with the ability to use Face ID while wearing a mask, and iPadOS 15.4 with Universal Control, compatible with macOS 12.3 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220314/p14#a220314p14)<!-- TECH:END -->
+ - [Russia says it will not strand American astronaut in space despite media reports](https://www.theverge.com/2022/3/14/22977362/russia-roscosmos-nasa-space-station-mark-vande-hei)
+ - [Foxconn plans to build a $9B factory in Saudi Arabia](https://appleinsider.com/articles/22/03/14/foxconn-plans-to-build-a-9b-factory-in-saudi-arabia?utm_medium=rss)
+ - [The best tactical smartwatch you can buy in 2022: Suunto, Garmin, and Casio](https://www.androidauthority.com/tactical-smartwatch-3114811/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
