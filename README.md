@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Look, just hug the Elden Ring lady](https://www.polygon.com/22977887/elden-ring-fia-hug-baldachins-blessing)
- - [You can migrate your GTA Online character to PS5 and Xbox Series X — but it’s not working for everyone yet](https://www.polygon.com/22977988/gta-online-ps5-xbox-series-x-profile-migration-fix)
- - [Fix roads and untangle waterways in this chill, gorgeous puzzler](https://www.polygon.com/22976904/puzzle-sonic-survival-game-game-development)<!-- GAME:END -->
+ - [Best antivirus for PC gaming 2022](https://www.pcgamer.com/best-anti-virus)
+ - [Chinese customs arrests man dubbed the &#39;walking CPU&#39; for smuggling 160 CPUs taped to his body](https://www.pcgamer.com/chinese-customs-arrests-man-dubbed-the-walking-cpu-for-smuggling-160-cpus-taped-to-his-body)
+ - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
