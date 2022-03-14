@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might use older chips in its cheapest iPhone 14 models](https://www.androidauthority.com/iphone-14-chips-3136536/)
- - [A look at the limitations of deep learning, and how &quot;neurosymbolic&quot; approaches to AI could offer a way forward for developing artificial general intelligence &lpar;Gary Marcus/Nautilus&rpar;](http://www.techmeme.com/220314/p1#a220314p1)
- - [The excellent YouTube Vanced app has been shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147/)<!-- TECH:END -->
+ - [Mac mini, iMac, Mac Studio -- Which desktop Mac to buy at any pricepoint](https://appleinsider.com/articles/22/03/13/mac-mini-imac-mac-studio----which-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
+ - [CD sales just rose for the first time in almost two decades](https://www.theverge.com/2022/3/14/22976557/cd-sales-increase-2021-recording-industry-association-of-america)
+ - [Hitting the Road With BlueCruise, Ford&#39;s Hands-Free Highway Helper     - Roadshow](https://www.cnet.com/roadshow/news/ford-bluecruise-review-f-150-hands-free-driving/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
