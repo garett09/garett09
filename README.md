@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A roll cloud looks like reality is glitching](http://9gag.com/gag/aAG6Z6d)
+ - 🚖 [Tranquilo oiga](http://9gag.com/gag/aBn647P)
  - 🚯 [Ukrainian hospitality](http://9gag.com/gag/ajg1yPg)
- - 🚯 [I\u2019m in this position now :&lpar;](http://9gag.com/gag/angRGnL)<!-- MEMES:END -->
+ - 🚯 [Finnish policewomen, the most empowered](http://9gag.com/gag/aog3DG0)<!-- MEMES:END -->
 
 --- 
 
