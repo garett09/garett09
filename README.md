@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oculus Founder&#39;s Vision For Military AI, Which He&#39;s Helping Build, Is Kinda Yikes](https://kotaku.com/oculus-anduril-founder-palmer-luckey-border-wall-ukrain-1848650509)
- - [The queen of DC’s Amazons is dead — long live the queen of DC’s Amazons](https://www.polygon.com/2022/3/14/22976799/wonder-woman-amazon-queen-hippolyta-death)
- - [Score yourself an Xbox Game Pass Ultimate trial membership for the price of a piece of candy](https://www.pcgamer.com/score-yourself-an-xbox-game-pass-ultimate-trial-membership-for-the-price-of-a-piece-of-candy)<!-- GAME:END -->
+ - [Stranger Of Paradise Final Fantasy Origin’s Reviews Are...Chaotic](https://kotaku.com/stranger-of-paradise-ff-final-fantasy-origin-reviews-sc-1848650903)
+ - [Critical Role announces two new series to celebrate its 7th anniversary](https://www.polygon.com/22977603/critical-role-new-series-7-year-anniversary)
+ - [Nintendo’s Reggie Kicked Too Much Ass For GameStop Suits](https://kotaku.com/reggie-fils-aime-gamestop-nintendo-america-meme-stock-s-1848650672)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
