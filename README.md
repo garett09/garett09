@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot Games invests in the animation studio behind Arcane](https://www.polygon.com/22977437/riot-games-fortiche-production-arcane)
- - [New Streamer Awards Show Designs Trophy After Pepe The Frog For Some Reason](https://kotaku.com/amazon-twitch-streamer-awards-pepe-frog-hasanabi-pokima-1848650184)
- - [Every boss in Elden Ring, and how to beat them](https://www.pcgamer.com/elden-ring-bosses-locations)<!-- GAME:END -->
+ - [Oculus Founder&#39;s Vision For Military AI, Which He&#39;s Helping Build, Is Kinda Yikes](https://kotaku.com/oculus-anduril-founder-palmer-luckey-border-wall-ukrain-1848650509)
+ - [The queen of DC’s Amazons is dead — long live the queen of DC’s Amazons](https://www.polygon.com/2022/3/14/22976799/wonder-woman-amazon-queen-hippolyta-death)
+ - [Score yourself an Xbox Game Pass Ultimate trial membership for the price of a piece of candy](https://www.pcgamer.com/score-yourself-an-xbox-game-pass-ultimate-trial-membership-for-the-price-of-a-piece-of-candy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
