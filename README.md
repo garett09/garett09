@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Of Paradise Final Fantasy Origin’s Reviews Are...Chaotic](https://kotaku.com/stranger-of-paradise-ff-final-fantasy-origin-reviews-sc-1848650903)
- - [Critical Role announces two new series to celebrate its 7th anniversary](https://www.polygon.com/22977603/critical-role-new-series-7-year-anniversary)
- - [Nintendo’s Reggie Kicked Too Much Ass For GameStop Suits](https://kotaku.com/reggie-fils-aime-gamestop-nintendo-america-meme-stock-s-1848650672)<!-- GAME:END -->
+ - [Dark Souls Player Beats Game By Throwing Poop At Bosses](https://kotaku.com/dark-souls-fromsoftware-lilaggy-dung-pie-poop-challenge-1848651297)
+ - [I Accidentally Watched The New Batman Movie In The Worst Way Possible](https://kotaku.com/the-batman-imax-4dx-batmobile-movie-theater-robert-patt-1848651069)
+ - [Stranger Of Paradise Final Fantasy Origin’s Reviews Are...Chaotic](https://kotaku.com/stranger-of-paradise-ff-final-fantasy-origin-reviews-sc-1848650903)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
