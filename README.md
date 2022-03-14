@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moove, which provides vehicle financing to drivers of ride-hailing services in six African cities, raises a $105M Series A2, seven months after a $23M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220314/p9#a220314p9)
- - [This $2,900 ThunderBolt 3 dock comes with a 16TB SSD](https://www.theverge.com/2022/3/14/22976885/sabrent-thunderbolt-3-dock-16tb-storage-price-release-date-features)
- - [Global smartwatch shipments grew 24% YoY in 2021, with a record 40M shipments in Q4; shipments in India grew 274% YoY, helped by local brands like Noise &lpar;Sujeong Lim/Counterpoint Research&rpar;](http://www.techmeme.com/220314/p8#a220314p8)<!-- TECH:END -->
+ - [EU Parliament committee rejects a provision for its Markets in Crypto Assets framework that would have limited the use of proof-of-work cryptocurrencies &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/220314/p12#a220314p12)
+ - [Report details Apple&#39;s early debate about ATT, with Craig Federighi pushing for privacy changes while Eddy Cue and Phil Schiller argued for more cautious action &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220314/p11#a220314p11)
+ - [iPad Air 5 benchmarks show identical performance to 11-inch iPad Pro](https://appleinsider.com/articles/22/03/14/ipad-air-5-benchmarks-show-identical-performance-to-11-inch-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
