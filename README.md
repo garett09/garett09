@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an internal memo to staff, Nick Clegg clarifies that Meta&#39;s relaxed content policies in Ukraine &quot;do not permit calls to assassinate a head of state&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220314/p7#a220314p7)
- - [iPhone SE is powerful &amp; accessible with tired design, early reviews say](https://appleinsider.com/articles/22/03/14/iphone-se-is-powerful-accessible-with-tired-design-early-reviews-say?utm_medium=rss)
- - [SNL star Pete Davidson is heading to space with crew of five on next Blue Origin flight](https://www.theverge.com/2022/3/14/22976721/pete-davidson-blue-origin-space-new-shepard-launch-march-snl)<!-- TECH:END -->
+ - [Moove, which provides vehicle financing to drivers of ride-hailing services in six African cities, raises a $105M Series A2, seven months after a $23M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220314/p9#a220314p9)
+ - [This $2,900 ThunderBolt 3 dock comes with a 16TB SSD](https://www.theverge.com/2022/3/14/22976885/sabrent-thunderbolt-3-dock-16tb-storage-price-release-date-features)
+ - [Global smartwatch shipments grew 24% YoY in 2021, with a record 40M shipments in Q4; shipments in India grew 274% YoY, helped by local brands like Noise &lpar;Sujeong Lim/Counterpoint Research&rpar;](http://www.techmeme.com/220314/p8#a220314p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
