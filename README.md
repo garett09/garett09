@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live the Unwritten in Thursday’s Hogwarts Legacy State of Play](https://blog.playstation.com/2022/03/14/live-the-unwritten-in-thursdays-hogwarts-legacy-state-of-play/)
- - [Ghostwire: Tokyo feels like a game defined by its perspective](https://www.polygon.com/22976545/ghostwire-tokyo-preview-ps5-first-person-perspective)
- - [Live the Unwritten in Thursday’s Hogwarts Legacy State of Play](https://blog.playstation.com/2022/03/14/live-the-unwritten-in-thursdays-hogwarts-legacy-state-of-play/)<!-- GAME:END -->
+ - [China&#39;s Silicon Valley is shutting down for a week due to Covid-19 restrictions](https://www.pcgamer.com/chinas-silicon-valley-is-shutting-down-for-a-week-due-to-covid-19-restrictions)
+ - [Dark Souls completed by throwing literal crap at bosses](https://www.pcgamer.com/dark-souls-completed-by-throwing-literal-crap-at-bosses)
+ - [PlayStation Allows Tiny Tina&#39;s Wonderlands Cross-Play After Blocking It On Borderlands 3](https://kotaku.com/tiny-tinas-wonderlands-cross-play-ps5-xbox-borderlands-1848649295)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
