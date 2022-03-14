@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Perfect Dark reboot director leaves studio](https://www.pcgamer.com/perfect-dark-reboot-director-leaves-studio)
- - [Former Division studio head leaves Ubisoft for good](https://www.pcgamer.com/former-division-studio-head-leaves-ubisoft-for-good)
- - [The Week In Games: GTA V Is Almost Here. Again. &lpar;Again.&rpar;](https://kotaku.com/the-week-in-games-gta-v-is-almost-here-again-again-1848648053)<!-- GAME:END -->
+ - [Elden Ring speedruns are already at the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)
+ - [Where to find spells in Elden Ring](https://www.pcgamer.com/best-elden-ring-spells-magic-sorceries-incantations)
+ - [Splatterpunk horror FPS Golden Light leaves Early Access](https://www.pcgamer.com/splatterpunk-horror-fps-golden-light-leaves-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
