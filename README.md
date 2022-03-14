@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best antivirus for PC gaming 2022](https://www.pcgamer.com/best-anti-virus)
- - [Chinese customs arrests man dubbed the &#39;walking CPU&#39; for smuggling 160 CPUs taped to his body](https://www.pcgamer.com/chinese-customs-arrests-man-dubbed-the-walking-cpu-for-smuggling-160-cpus-taped-to-his-body)
- - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
+ - [Core Keeper: Where to find tin ore to upgrade your arsenal](https://www.pcgamer.com/core-keeper-tin-ore-location)
+ - [70% of Elden Ring players have conquered the first tough boss](https://www.pcgamer.com/70-of-elden-ring-players-have-conquered-the-first-tough-boss)
+ - [Halo the Series Story Trailer Releases Today](https://news.xbox.com/en-us/2022/03/14/halo-the-series-story-trailer-releases-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
