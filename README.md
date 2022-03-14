@@ -197,8 +197,8 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s not mine, but whoever added the audio to it is a genius.](http://9gag.com/gag/aAG62XL)
- - 🚯 [Am i a bad person for wanting them to get married and leave home?](http://9gag.com/gag/aXrMWMz)
+ - 🚖 [This hurts a bit](http://9gag.com/gag/aPZmr3n)
+ - 🚯 [That&#39;s a great idea Sam](http://9gag.com/gag/a315NZv)
  - 🚯 [Japanese Rolled Omelette](http://9gag.com/gag/angRGyE)<!-- MEMES:END -->
 
 --- 
