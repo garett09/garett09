@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How we ended up with the &#39;Pregnant Man&#39; Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji?utm_medium=rss)
- - [Apple adds 123 new emoji in iOS 15.4 update](https://appleinsider.com/articles/22/03/14/apple-adds-123-new-emoji-in-ios-154-update?utm_medium=rss)
- - [Crypto miners, who scrambled into a welcoming Kazakhstan after China&#39;s ban, are leaving as the country throttles power supply due to blackouts and infighting &lpar;Rest of World&rpar;](http://www.techmeme.com/220314/p17#a220314p17)<!-- TECH:END -->
+ - [Illinois judge dismisses Apple&#39;s challenge to Chicago &#39;Netflix Tax&#39;](https://appleinsider.com/articles/22/03/14/illinois-judge-dismisses-apples-challenge-to-chicago-netflix-tax?utm_medium=rss)
+ - [Twitter rolls back its decision to force you into the out-of-order timeline](https://www.theverge.com/2022/3/14/22977782/twitter-default-home-algorithmic-timeline-feed-reverse-chronological)
+ - [The internet’s infamous fake portable GameCube has finally been brought to life](https://www.theverge.com/2022/3/14/22977421/gamecube-portable-fake-image-2005-hardware-hack-gingerofoz-real)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
