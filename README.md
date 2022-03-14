@@ -197,7 +197,7 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Fortiche` the French studio behind Arcane won all the 9 trophies at the anime award](http://9gag.com/gag/aRr4yrG)
+ - 🚖 [Trashy people got what they deserve!!](http://9gag.com/gag/aAG6q22)
  - 🚯 [Staaahp It\u2018s already pepsi bro](http://9gag.com/gag/aLvzNK6)
  - 🚯 [Participation medals should stay at home](http://9gag.com/gag/aog3dv0)<!-- MEMES:END -->
 
