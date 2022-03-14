@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini, iMac, Mac Studio -- Which desktop Mac to buy at any pricepoint](https://appleinsider.com/articles/22/03/13/mac-mini-imac-mac-studio----which-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
- - [CD sales just rose for the first time in almost two decades](https://www.theverge.com/2022/3/14/22976557/cd-sales-increase-2021-recording-industry-association-of-america)
- - [Hitting the Road With BlueCruise, Ford&#39;s Hands-Free Highway Helper     - Roadshow](https://www.cnet.com/roadshow/news/ford-bluecruise-review-f-150-hands-free-driving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus Bullets Wireless Z2 could take the endurance, fast charging crown](https://www.androidauthority.com/oneplus-bullets-wireless-z2-3136658/)
+ - [&#39;Ted Lasso,&#39; &#39;CODA&#39; win big at Critics Choice Awards, BAFTAs](https://appleinsider.com/articles/22/03/14/ted-lasso-coda-win-big-at-critics-choice-awards-baftas?utm_medium=rss)
+ - [This Is What an RPG for Indie Movie Heroines Would Look Like](https://www.wired.com/story/indie-movie-heroine-rpg)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
