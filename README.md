@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese Rolled Omelette](http://9gag.com/gag/angRGyE)
- - 🚯 [This hurts a bit](http://9gag.com/gag/aPZmr3n)
- - 🚯 [Love, depression or no idea what can it be...](http://9gag.com/gag/aOQepKv)<!-- MEMES:END -->
+ - 🚖 [Love, depression or no idea what can it be...](http://9gag.com/gag/aOQepKv)
+ - 🚯 [`Two Words`, Moscov, 2022.](http://9gag.com/gag/aDD6O2x)
+ - 🚯 [Life is short. Small shit like this brings joy. Get out there and have fun](http://9gag.com/gag/aZr1R5p)<!-- MEMES:END -->
 
 --- 
 
