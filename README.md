@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces a big Galaxy A launch event for this coming week](https://www.androidauthority.com/samsung-galaxy-a-2022-3135381/)
- - [Samsung’s Awesome Galaxy A event will take place on March 17th](https://www.theverge.com/2022/3/13/22975452/samsung-galaxy-awesome-unpacked-a-series-event-march-17)
- - [YouTube Vanced is shutting down ‘due to legal reasons’](https://www.theverge.com/2022/3/13/22975890/youtube-vanced-app-discontinued-shutting-down-legal-reasons)<!-- TECH:END -->
+ - [Netflix: 42 of the Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-42-of-the-absolute-best-movies-to-stream-now/#ftag=CAD590a51e)
+ - [iPhone SE 2022 vs. iPhone SE 2020: Which Has More to Offer?     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-se-2020-which-has-more-to-offer/#ftag=CAD590a51e)
+ - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
