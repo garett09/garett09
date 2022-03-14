@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This iconic single shot opening scene from the film Spectre where Daniel Craig walks elegantly across rooftops and balconies in Mexico City.](http://9gag.com/gag/a315W11)
- - 🚯 [It is all because of me](http://9gag.com/gag/aLvzXpM)
- - 🚯 [It&#39;s not mine, but whoever added the audio to it is a genius.](http://9gag.com/gag/aAG62XL)<!-- MEMES:END -->
+ - 🚖 [It&#39;s not mine, but whoever added the audio to it is a genius.](http://9gag.com/gag/aAG62XL)
+ - 🚯 [Am i a bad person for wanting them to get married and leave home?](http://9gag.com/gag/aXrMWMz)
+ - 🚯 [Japanese Rolled Omelette](http://9gag.com/gag/angRGyE)<!-- MEMES:END -->
 
 --- 
 
