@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Bullets Wireless Z2 could take the endurance, fast charging crown](https://www.androidauthority.com/oneplus-bullets-wireless-z2-3136658/)
- - [&#39;Ted Lasso,&#39; &#39;CODA&#39; win big at Critics Choice Awards, BAFTAs](https://appleinsider.com/articles/22/03/14/ted-lasso-coda-win-big-at-critics-choice-awards-baftas?utm_medium=rss)
- - [This Is What an RPG for Indie Movie Heroines Would Look Like](https://www.wired.com/story/indie-movie-heroine-rpg)<!-- TECH:END -->
+ - [Report: Foldable phones had their breakout year in 2021](https://www.androidauthority.com/foldable-phones-2021-shipments-3136683/)
+ - [In Life, as in Wordle, Success Often Depends on Where You Start](https://www.wired.com/story/wordle-success-privilege-race-economics-education)
+ - [How to Safely Travel Within the US](https://www.wired.com/story/how-to-travel-safely-during-a-pandemic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
