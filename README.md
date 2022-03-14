@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So basically you want your husband to be biseuxal?](http://9gag.com/gag/angRdeB)
- - 🚯 [Lmfao](http://9gag.com/gag/agg1j36)
- - 🚯 [The struggle is real](http://9gag.com/gag/a816zpO)<!-- MEMES:END -->
+ - 🚖 [Just need a little mud](http://9gag.com/gag/axB34wK)
+ - 🚯 [Actual problem solved by tesla autopilot](http://9gag.com/gag/angRVWn)
+ - 🚯 [Why? just why?](http://9gag.com/gag/aAG6ZVg)<!-- MEMES:END -->
 
 --- 
 
