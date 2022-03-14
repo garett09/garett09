@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger of Paradise: Final Fantasy Origin is the best dumb game I’ve played in years](https://www.polygon.com/22973082/stranger-of-paradise-final-fantasy-origin-early-review-ps5-xbox-series-x-pc)
- - [In this hallucinatory MMO, everyone&#39;s a baby and nothing&#39;s what it seems](https://www.pcgamer.com/in-this-hallucinatory-mmo-everyones-a-baby-and-nothings-what-it-seems)
- - [All of Elden Ring&#39;s demigods have names from George R.R. Martin&#39;s initials](https://www.pcgamer.com/all-of-elden-rings-demigods-have-names-from-george-rr-martins-initials)<!-- GAME:END -->
+ - [$3M worth of AMD graphics cards seized by Chinese authorities](https://www.pcgamer.com/dollar3m-worth-of-amd-graphics-cards-seized-by-chinese-authorities)
+ - [Elden Ring speedruns are already under the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)
+ - [Stranger of Paradise: Final Fantasy Origin is the best dumb game I’ve played in years](https://www.polygon.com/22973082/stranger-of-paradise-final-fantasy-origin-early-review-ps5-xbox-series-x-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
