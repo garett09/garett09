@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Schools in Japan ban ponytails because they `excite` male students.](http://9gag.com/gag/aVxo2ow)
- - 🚯 [This iconic single shot opening scene from the film Spectre where Daniel Craig walks elegantly across rooftops and balconies in Mexico City.](http://9gag.com/gag/a315W11)
- - 🚯 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a516qOg)<!-- MEMES:END -->
+ - 🚖 [This iconic single shot opening scene from the film Spectre where Daniel Craig walks elegantly across rooftops and balconies in Mexico City.](http://9gag.com/gag/a315W11)
+ - 🚯 [It is all because of me](http://9gag.com/gag/aLvzXpM)
+ - 🚯 [It&#39;s not mine, but whoever added the audio to it is a genius.](http://9gag.com/gag/aAG62XL)<!-- MEMES:END -->
 
 --- 
 
