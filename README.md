@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Major chipmakers could weather neon shortages as result of war in Ukraine for &#39;two months or more&#39;](https://www.pcgamer.com/major-chipmakers-could-weather-neon-shortages-as-result-of-war-in-ukraine-for-two-months-or-more)
- - [Borderlands spinoff Tiny Tina’s Wonderlands will have full cross-platform play](https://www.polygon.com/22976789/borderlands-tiny-tinas-wonderlands-cross-play-ps5-xbox-pc)
- - [What Wordle answers have been used?](https://www.pcgamer.com/wordle-past-word-archive)<!-- GAME:END -->
+ - [Riot Games invests in the animation studio behind Arcane](https://www.polygon.com/22977437/riot-games-fortiche-production-arcane)
+ - [New Streamer Awards Show Designs Trophy After Pepe The Frog For Some Reason](https://kotaku.com/amazon-twitch-streamer-awards-pepe-frog-hasanabi-pokima-1848650184)
+ - [Every boss in Elden Ring, and how to beat them](https://www.pcgamer.com/elden-ring-bosses-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
