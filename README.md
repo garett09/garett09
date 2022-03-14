@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tranquilo oiga](http://9gag.com/gag/aBn647P)
- - 🚯 [Ukrainian hospitality](http://9gag.com/gag/ajg1yPg)
- - 🚯 [Finnish policewomen, the most empowered](http://9gag.com/gag/aog3DG0)<!-- MEMES:END -->
+ - 🚖 [So basically you want your husband to be biseuxal?](http://9gag.com/gag/angRdeB)
+ - 🚯 [Lmfao](http://9gag.com/gag/agg1j36)
+ - 🚯 [The struggle is real](http://9gag.com/gag/a816zpO)<!-- MEMES:END -->
 
 --- 
 
