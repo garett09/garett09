@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life is short. Small shit like this brings joy. Get out there and have fun](http://9gag.com/gag/aZr1R5p)
- - 🚯 [Tranquilo oiga](http://9gag.com/gag/aBn647P)
- - 🚯 [That&#39;s a great idea Sam](http://9gag.com/gag/a315NZv)<!-- MEMES:END -->
+ - 🚖 [That&#39;s a great idea Sam](http://9gag.com/gag/a315NZv)
+ - 🚯 [Life is short. Small shit like this brings joy. Get out there and have fun](http://9gag.com/gag/aZr1R5p)
+ - 🚯 [Back To The Bay We Go](http://9gag.com/gag/aBn6ODO)<!-- MEMES:END -->
 
 --- 
 
