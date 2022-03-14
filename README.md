@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Foldable phones had their breakout year in 2021](https://www.androidauthority.com/foldable-phones-2021-shipments-3136683/)
- - [In Life, as in Wordle, Success Often Depends on Where You Start](https://www.wired.com/story/wordle-success-privilege-race-economics-education)
- - [How to Safely Travel Within the US](https://www.wired.com/story/how-to-travel-safely-during-a-pandemic)<!-- TECH:END -->
+ - [iPhone SE &lpar;2022&rpar; review: excellent performance at a good price with 5G but has a tired design with a tiny 4.7-inch display, no night mode, and 64GB base storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220314/p4#a220314p4)
+ - [TV Struggles to Put Silicon Valley on the Screen](https://www.wired.com/story/wecrashed-tv-silicon-valley)
+ - [The Best Video Doorbell Cameras](https://www.wired.com/gallery/best-video-doorbells)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
