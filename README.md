@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ending we all deserved](http://9gag.com/gag/amg1O1V)
- - 🚯 [Sheer will and commitment](http://9gag.com/gag/aQXvDgz)
- - 🚯 [Citizens protesting invaders in Kherson region](http://9gag.com/gag/a21w9BD)<!-- MEMES:END -->
+ - 🚖 [Gamer\u2019s girlfriend is no noob](http://9gag.com/gag/aGznrvK)
+ - 🚯 [Some rich guy in Mykolayiv donated his open top BMW 6 series to the Ukrainian war effort. The city\u2019s defenders decided to spice it up by mounting an NSV 12,7x108 heavy machine gun.\u00a0](http://9gag.com/gag/amg1Odd)
+ - 🚯 [Stepbro!](http://9gag.com/gag/a916NQ1)<!-- MEMES:END -->
 
 --- 
 
