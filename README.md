@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no as Lithuanian I feel so sorry for her.](http://9gag.com/gag/aNP93Mb)
- - 🚯 [`Fortiche` the French studio behind Arcane won all the 9 trophies at the anime award](http://9gag.com/gag/aRr4yrG)
- - 🚯 [Confused](http://9gag.com/gag/aWg7PQq)<!-- MEMES:END -->
+ - 🚖 [`Fortiche` the French studio behind Arcane won all the 9 trophies at the anime award](http://9gag.com/gag/aRr4yrG)
+ - 🚯 [Staaahp It\u2018s already pepsi bro](http://9gag.com/gag/aLvzNK6)
+ - 🚯 [Participation medals should stay at home](http://9gag.com/gag/aog3dv0)<!-- MEMES:END -->
 
 --- 
 
