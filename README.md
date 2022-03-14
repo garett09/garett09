@@ -197,8 +197,8 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No, this is not North Korea, its Russia. People stand in lines for sugar and other essential goods. And this is just the beginning.](http://9gag.com/gag/aog3G5X)
- - 🚯 [The future of japanese pr0n](http://9gag.com/gag/aKmAnyW)
+ - 🚖 [The ending we all deserved](http://9gag.com/gag/amg1O1V)
+ - 🚯 [Sheer will and commitment](http://9gag.com/gag/aQXvDgz)
  - 🚯 [Citizens protesting invaders in Kherson region](http://9gag.com/gag/a21w9BD)<!-- MEMES:END -->
 
 --- 
