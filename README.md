@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$3M worth of AMD graphics cards seized by Chinese authorities](https://www.pcgamer.com/dollar3m-worth-of-amd-graphics-cards-seized-by-chinese-authorities)
- - [Elden Ring speedruns are already under the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)
- - [Stranger of Paradise: Final Fantasy Origin is the best dumb game I’ve played in years](https://www.polygon.com/22973082/stranger-of-paradise-final-fantasy-origin-early-review-ps5-xbox-series-x-pc)<!-- GAME:END -->
+ - [Elden Ring&#39;s smartest trick is scale](https://www.pcgamer.com/elden-rings-smartest-trick-is-scale)
+ - [Journey, once called Dragon, was almost rated Teen for being too bloody](https://www.pcgamer.com/journey-once-called-dragon-was-almost-rated-teen-for-being-too-bloody)
+ - [Amazon warns Lost Ark players not to &#39;expend valuable time or resources&#39; on broken Tytalos raid](https://www.pcgamer.com/amazon-warns-lost-ark-players-not-to-expend-valuable-time-or-resources-on-broken-tytalos-raid)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
