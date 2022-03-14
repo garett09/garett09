@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s a great idea Sam](http://9gag.com/gag/a315NZv)
- - 🚯 [Life is short. Small shit like this brings joy. Get out there and have fun](http://9gag.com/gag/aZr1R5p)
- - 🚯 [Back To The Bay We Go](http://9gag.com/gag/aBn6ODO)<!-- MEMES:END -->
+ - 🚖 [A roll cloud looks like reality is glitching](http://9gag.com/gag/aAG6Z6d)
+ - 🚯 [Ukrainian hospitality](http://9gag.com/gag/ajg1yPg)
+ - 🚯 [I\u2019m in this position now :&lpar;](http://9gag.com/gag/angRGnL)<!-- MEMES:END -->
 
 --- 
 
