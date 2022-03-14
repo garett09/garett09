@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE &lpar;2022&rpar; review: excellent performance at a good price with 5G but has a tired design with a tiny 4.7-inch display, no night mode, and 64GB base storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220314/p4#a220314p4)
- - [TV Struggles to Put Silicon Valley on the Screen](https://www.wired.com/story/wecrashed-tv-silicon-valley)
- - [The Best Video Doorbell Cameras](https://www.wired.com/gallery/best-video-doorbells)<!-- TECH:END -->
+ - [In an internal memo to staff, Nick Clegg clarifies that Meta&#39;s relaxed content policies in Ukraine &quot;do not permit calls to assassinate a head of state&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220314/p7#a220314p7)
+ - [iPhone SE is powerful &amp; accessible with tired design, early reviews say](https://appleinsider.com/articles/22/03/14/iphone-se-is-powerful-accessible-with-tired-design-early-reviews-say?utm_medium=rss)
+ - [SNL star Pete Davidson is heading to space with crew of five on next Blue Origin flight](https://www.theverge.com/2022/3/14/22976721/pete-davidson-blue-origin-space-new-shepard-launch-march-snl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
