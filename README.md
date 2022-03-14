@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F1 2022](http://9gag.com/gag/aPZmdGG)
- - 🚯 [Don&#39;t cha run bolii.](http://9gag.com/gag/angRdMb)
- - 🚯 [They&#39;re just waiting...for...something...](http://9gag.com/gag/ajg1dL0)<!-- MEMES:END -->
+ - 🚖 [Oh no as Lithuanian I feel so sorry for her.](http://9gag.com/gag/aNP93Mb)
+ - 🚯 [`Fortiche` the French studio behind Arcane won all the 9 trophies at the anime award](http://9gag.com/gag/aRr4yrG)
+ - 🚯 [Confused](http://9gag.com/gag/aWg7PQq)<!-- MEMES:END -->
 
 --- 
 
