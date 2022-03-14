@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In this hallucinatory MMO, everyone&#39;s a baby and nothing&#39;s what it seems](https://www.pcgamer.com/in-this-hallucinatory-mmo-everyones-a-baby-and-nothings-what-it-seems)
  - [All of Elden Ring&#39;s demigods have names from George R.R. Martin&#39;s initials](https://www.pcgamer.com/all-of-elden-rings-demigods-have-names-from-george-rr-martins-initials)
- - [Elden Ring speedruns are already at the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)
- - [Where to find spells in Elden Ring](https://www.pcgamer.com/best-elden-ring-spells-magic-sorceries-incantations)<!-- GAME:END -->
+ - [Elden Ring speedruns are already at the 30 minute mark](https://www.pcgamer.com/elden-ring-speedruns-are-already-at-the-30-minute-mark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
