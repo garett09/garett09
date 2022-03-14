@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia says it will not strand American astronaut in space despite media reports](https://www.theverge.com/2022/3/14/22977362/russia-roscosmos-nasa-space-station-mark-vande-hei)
- - [Foxconn plans to build a $9B factory in Saudi Arabia](https://appleinsider.com/articles/22/03/14/foxconn-plans-to-build-a-9b-factory-in-saudi-arabia?utm_medium=rss)
- - [The best tactical smartwatch you can buy in 2022: Suunto, Garmin, and Casio](https://www.androidauthority.com/tactical-smartwatch-3114811/)<!-- TECH:END -->
+ - [How we ended up with the &#39;Pregnant Man&#39; Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji?utm_medium=rss)
+ - [Apple adds 123 new emoji in iOS 15.4 update](https://appleinsider.com/articles/22/03/14/apple-adds-123-new-emoji-in-ios-154-update?utm_medium=rss)
+ - [Crypto miners, who scrambled into a welcoming Kazakhstan after China&#39;s ban, are leaving as the country throttles power supply due to blackouts and infighting &lpar;Rest of World&rpar;](http://www.techmeme.com/220314/p17#a220314p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
