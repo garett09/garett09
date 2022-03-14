@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn is halting operations at two of its Shenzhen sites, one of which produces iPhones, after the government imposed a lockdown in the city till March 20 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220313/p12#a220313p12)
- - [How to Choose an HDR Gaming Monitor     - CNET](https://www.cnet.com/tech/computing/how-to-choose-an-hdr-gaming-monitor/#ftag=CAD590a51e)
- - [Samsung&#39;s next midrange Galaxy A phones to debut this week     - CNET](https://www.cnet.com/tech/mobile/samsungs-next-mid-range-galaxy-a-phones-to-debut-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn halts production as Shenzhen goes into lockdown](https://www.theverge.com/2022/3/13/22976414/foxconn-production-shenzhen-lockdown-apple-china-covid)
+ - [Samsung Galaxy S22 series now getting GOS hotfix in Europe &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-gos-update-3133632/)
+ - [Foxconn is halting operations at two of its Shenzhen sites, one of which produces iPhones, after the government imposed a lockdown in the city till March 20 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220313/p12#a220313p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
