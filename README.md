@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn halts production as Shenzhen goes into lockdown](https://www.theverge.com/2022/3/13/22976414/foxconn-production-shenzhen-lockdown-apple-china-covid)
- - [Samsung Galaxy S22 series now getting GOS hotfix in Europe &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-gos-update-3133632/)
- - [Foxconn is halting operations at two of its Shenzhen sites, one of which produces iPhones, after the government imposed a lockdown in the city till March 20 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220313/p12#a220313p12)<!-- TECH:END -->
+ - [The excellent YouTube Vanced app has been shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147/)
+ - [Latest Telegram update brings phone number links, download manager, and more](https://www.androidauthority.com/telegram-update-phone-number-links-3136498/)
+ - [Benjamin Sisko Deserves Real Recognition in Star Trek: Picard     - CNET](https://www.cnet.com/culture/entertainment/benjamin-sisko-deserves-real-recognition-in-star-trek-picard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
