@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a savage animal to prey on women like that](http://9gag.com/gag/agg1jjr)
- - 🚯 [Staaahp It\u2018s already pepsi bro](http://9gag.com/gag/aLvzNK6)
- - 🚯 [So basically you want your husband to be biseuxal?](http://9gag.com/gag/angRdeB)<!-- MEMES:END -->
+ - 🚖 [F1 2022](http://9gag.com/gag/aPZmdGG)
+ - 🚯 [Eldenring rules](http://9gag.com/gag/a816zz3)
+ - 🚯 [Don&#39;t cha run bolii.](http://9gag.com/gag/angRdMb)<!-- MEMES:END -->
 
 --- 
 
