@@ -198,8 +198,8 @@ Windows                  10 hrs 43 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [F1 2022](http://9gag.com/gag/aPZmdGG)
- - 🚯 [Eldenring rules](http://9gag.com/gag/a816zz3)
- - 🚯 [Don&#39;t cha run bolii.](http://9gag.com/gag/angRdMb)<!-- MEMES:END -->
+ - 🚯 [Don&#39;t cha run bolii.](http://9gag.com/gag/angRdMb)
+ - 🚯 [They&#39;re just waiting...for...something...](http://9gag.com/gag/ajg1dL0)<!-- MEMES:END -->
 
 --- 
 
