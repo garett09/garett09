@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illinois judge dismisses Apple&#39;s challenge to Chicago &#39;Netflix Tax&#39;](https://appleinsider.com/articles/22/03/14/illinois-judge-dismisses-apples-challenge-to-chicago-netflix-tax?utm_medium=rss)
- - [Twitter rolls back its decision to force you into the out-of-order timeline](https://www.theverge.com/2022/3/14/22977782/twitter-default-home-algorithmic-timeline-feed-reverse-chronological)
- - [The internet’s infamous fake portable GameCube has finally been brought to life](https://www.theverge.com/2022/3/14/22977421/gamecube-portable-fake-image-2005-hardware-hack-gingerofoz-real)<!-- TECH:END -->
+ - [Apple updates Logic Pro X, MainStage with new features, M1 Ultra optimizations](https://appleinsider.com/articles/22/03/14/apple-updates-logic-pro-x-mainstage-with-new-features-m1-ultra-optimizations?utm_medium=rss)
+ - [Apple rolls out iOS 15.4 &amp; iPadOS 15.4 with Face ID update, Universal Control](https://appleinsider.com/articles/22/03/14/apple-rolls-out-ios-154-ipados-154-with-face-id-update-universal-control?utm_medium=rss)
+ - [CIA says it appointed La&#39;Naia J. Jones, former NSA deputy CIO, to CIO in late February, replacing Juliane Gallina &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/220314/p20#a220314p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
