@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unannounced Exynos 1280 leaks, seems to be more powerful than suspected](https://www.androidauthority.com/samsung-exynos-1280-3137714/)
- - [ConsenSys, which develops and invests in Ethereum projects, announces a $450M Series D led by ParaFi Capital at a $7B valuation and says MetaMask has 30M+ MAUs &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220315/p16#a220315p16)
- - [RiffTrax: The Game tasks you with rewriting the worst B-movie scenes](https://www.theverge.com/2022/3/15/22977991/rifftrax-the-game-mystery-science-theater-3000-mst3k-what-the-dub-party-game)<!-- TECH:END -->
+ - [Samsung’s One UI 4.1 update adds S22 camera features to older flagships](https://www.theverge.com/2022/3/15/22979047/samsung-one-ui-4-1-update-s21-s20-z-fold-flip-older-devices)
+ - [Run:AI, which helps businesses optimize their AI workloads, raises a $75M Series C led by Tiger Global and Insight Partners, bringing its total funding to $118M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220315/p18#a220315p18)
+ - [When will The Batman stream on HBO Max?](https://www.androidauthority.com/the-batman-streaming-on-hbo-max-3137312/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
