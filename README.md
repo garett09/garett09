@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring, As Told By Steam Reviews](https://kotaku.com/elden-ring-fromsoftware-open-world-souls-like-steam-rev-1848656068)
- - [Diablo II: Resurrected Free Trial March 15 to 21](https://news.xbox.com/en-us/2022/03/15/diablo-ii-resurrected-free-trial-march-15-to-21/)
- - [GTAV and GTA Online out today on PS5](https://blog.playstation.com/2022/03/15/gtav-and-gta-online-out-today-on-ps5/)<!-- GAME:END -->
+ - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood)
+ - [Netflix’s trippy anime hybrid Adam by Eve projects an artist’s dreams into reality](https://www.polygon.com/22979477/adam-by-eve-review-anime-netflix)
+ - [Dr Disrespect is selling NFT beta access to his game that does not exist yet](https://www.pcgamer.com/dr-disrespect-is-selling-nft-beta-access-to-his-game-that-does-not-exist-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
