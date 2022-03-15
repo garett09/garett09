@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA V Loads Way Faster On PlayStation 5](https://kotaku.com/gta-v-grand-theft-auto-v-5-ps5-playstation-5-load-times-1848652735)
- - [Elden Ring Deathblight builds are ruining PvP](https://www.pcgamer.com/elden-ring-deathblight-builds-are-ruining-pvp)
- - [Elden Ring gets &#39;easy mode&#39; mod, another modder makes &#39;hard mode&#39; mod in protest](https://www.pcgamer.com/elden-ring-gets-easy-mode-mod-another-modder-makes-hard-mode-mod-in-protest)<!-- GAME:END -->
+ - [Steam Deck Emulation Looks Fantastic](https://kotaku.com/steam-deck-valve-emulation-ps1-ps2-dreamcast-xbox-emula-1848652981)
+ - [A Very Detailed Review Of Elden Ring&#39;s Horse](https://kotaku.com/elden-ring-fromsoftware-horse-mount-torrent-souls-revie-1848652225)
+ - [GTA V Loads Way Faster On PlayStation 5](https://kotaku.com/gta-v-grand-theft-auto-v-5-ps5-playstation-5-load-times-1848652735)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
