@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See the difference?](http://9gag.com/gag/aeg1Bjp)
- - 🚯 [All. Dicks. Matter](http://9gag.com/gag/a315rYN)
- - 🚯 [Maybe should think about another wi-fi network name](http://9gag.com/gag/aLvz53g)<!-- MEMES:END -->
+ - 🚖 [At polish border volunteers are working hard to make the Ukrainian kids happy!](http://9gag.com/gag/aOQe5o2)
+ - 🚯 [Back to Home](http://9gag.com/gag/aBn6eK2)
+ - 🚯 [Be like a Japanese... Any doubt?](http://9gag.com/gag/aKmA5W1)<!-- MEMES:END -->
 
 --- 
 
