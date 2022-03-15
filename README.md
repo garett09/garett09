@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SiFive sells its chip connectivity unit OpenFive, including 75+ designs and a team of more than 300 people based mostly in India, to Alphawave for $210M in cash &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220314/p25#a220314p25)
- - [iOS 15.4, watchOS 8.5 allow Apple Watches to be restored with a nearby iPhone](https://appleinsider.com/articles/22/03/15/ios-154-watchos-85-allow-apple-watches-to-be-restored-with-a-nearby-iphone?utm_medium=rss)
- - [Microsoft brings its DirectStorage API from Xbox to Windows to improve game load times and graphics details, after promising it in September 2020 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220314/p24#a220314p24)<!-- TECH:END -->
+ - [Wrestler Scott Hall, AKA Razor Ramon, Dies at Age 63     - CNET](https://www.cnet.com/culture/entertainment/wrestler-scott-hall-aka-razor-ramon-dies-at-age-63/#ftag=CAD590a51e)
+ - [Best Elliptical for 2022     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [SiFive sells its chip connectivity unit OpenFive, including 75+ designs and a team of more than 300 people based mostly in India, to Alphawave for $210M in cash &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220314/p25#a220314p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
