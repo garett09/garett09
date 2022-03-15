@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dihydrogen Monoxide is my shit.](http://9gag.com/gag/aWg7X73)
- - 🚯 [Chicago mcdonalds\u2026 people are nasty](http://9gag.com/gag/aBn6zqO)
- - 🚯 [Welcome to `1001 ways on how to torture a Mosquito`](http://9gag.com/gag/a516YBo)<!-- MEMES:END -->
+ - 🚖 [Maybe should think about another wi-fi network name](http://9gag.com/gag/aLvz53g)
+ - 🚯 [Europe, how are you?](http://9gag.com/gag/aWg757d)
+ - 🚯 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)<!-- MEMES:END -->
 
 --- 
 
