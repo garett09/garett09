@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is getting serious about smart rings](https://appleinsider.com/articles/22/03/15/apple-is-getting-serious-about-smart-rings?utm_medium=rss)
- - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)
- - [Source: Zomato reaches a merger agreement with instant delivery service Blinkit, formerly Grofers, in an all-stock deal valuing Blinkit between $700M and $750M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220315/p11#a220315p11)<!-- TECH:END -->
+ - [AMD says its Ryzen 7 5800X3D will be released on April 20 for $449 &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/220315/p13#a220315p13)
+ - [Roborock S7 MaxV Ultra review: this bot cleans its own bottom](https://www.theverge.com/22960447/roborock-s7-maxv-ultra-review-robot-vacuum-mop-hybrid)
+ - [Intel is building a new €17 billion semiconductor manufacturing hub in Germany](https://www.theverge.com/2022/3/15/22978954/intel-semiconductor-manufacturing-hub-germany-fab-europe-investment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
