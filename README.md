@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot buys a chunk of the animation studio behind breakout hit Arcane](https://www.pcgamer.com/riot-buys-a-chunk-of-the-animation-studio-behind-breakout-hit-arcane)
- - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever)
- - [$1 million clipart rock NFT accidentally sold for less than a cent](https://www.pcgamer.com/dollar1-million-clipart-rock-nft-accidentally-sold-for-less-than-a-cent)<!-- GAME:END -->
+ - [Elden Ring’s messages make the game feel like a conversation](https://www.polygon.com/22978036/elden-ring-message-system-conversation-fan-culture)
+ - [AMD&#39;s fastest ever gaming CPU is launching April 20 for $449](https://www.pcgamer.com/amd-ryzen-7-5800x3d-release-date-price)
+ - [AMD finally delivers budget Ryzen 5000 and 4000-series CPUs](https://www.pcgamer.com/amd-finally-delivers-budget-ryzen-5000-and-4000-series-cpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
