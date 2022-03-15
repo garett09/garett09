@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First Intel Arc GPUs to launch in laptops this month](https://www.pcgamer.com/first-intel-arc-gpus-to-launch-in-laptops-this-month)
- - [Intel, AMD and ARM CPUs hit by new Spectre vulnerability](https://www.pcgamer.com/intel-amd-and-arm-cpus-hit-by-new-spectre-vulnerability)
- - [Nvidia to give away 8 RTX 3090s during GTC](https://www.pcgamer.com/nvidia-to-give-away-8-rtx-3090s-during-gtc)<!-- GAME:END -->
+ - [$1 million clipart rock NFT accidentally sold for less than a cent](https://www.pcgamer.com/dollar1-million-clipart-rock-nft-accidentally-sold-for-less-than-a-cent)
+ - [Microsoft introduces its DirectStorage API which promises to reinvent game storage](https://www.pcgamer.com/microsoft-introduces-its-directstorage-api-which-promises-to-reinvent-game-storage)
+ - [First Intel Arc GPUs to launch in laptops this month](https://www.pcgamer.com/first-intel-arc-gpus-to-launch-in-laptops-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
