@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Hey I&#39;m climbing here!`](http://9gag.com/gag/adg1A92)
- - 🚯 [Wtf did I just saw? They are evolving.](http://9gag.com/gag/aog3oLX)
- - 🚯 [After 3 years of dialysis finally going for kidney transplant. This is my first plasma today. yellow thing in that bag is my plasma. Thay are removing it so that my body don&#39;t reject kidney. If everything will go fine I&#39;ll have kidney transplant at 22 March. Wish me luck guys.](http://9gag.com/gag/azedyOx)<!-- MEMES:END -->
+ - 🚖 [Wtf did I just saw? They are evolving.](http://9gag.com/gag/aog3oLX)
+ - 🚯 [A famous CEO lost 70kg in 1 year &lpar;2021&rpar;. Here is a pic of her and husband](http://9gag.com/gag/aDD65od)
+ - 🚯 [Don&#39;t tell me what to do.](http://9gag.com/gag/abg1wzr)<!-- MEMES:END -->
 
 --- 
 
