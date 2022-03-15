@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC, which has long struggled to combat deceptive data practices, is increasingly forcing companies to delete algorithmic systems built with ill-gotten data &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/220315/p4#a220315p4)
- - [It’s Like GPT-3, but for Code—Fun, Fast, and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code)
- - [Samsung’s Galaxy A33 leaks in full before its ‘Awesome’ launch](https://www.theverge.com/2022/3/15/22978815/samsung-galaxy-a33-midrange-a-series-phone-leak-awesome-event-price-specs-features)<!-- TECH:END -->
+ - [It’s a Perfect Time for EVs. It’s a Terrible Time for EVs](https://www.wired.com/story/its-a-perfect-time-for-evs-its-a-terrible-time-for-evs)
+ - [Russian Missiles and Space Debris Could Threaten Satellites](https://www.wired.com/story/space-debris-russia-satellites)
+ - [New video game company aims to develop therapeutic games](https://www.theverge.com/2022/3/15/22976720/mental-health-video-game-treatment-deepwell-devolver-digital)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
