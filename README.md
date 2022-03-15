@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ending we all deserved](http://9gag.com/gag/amg1O1V)
- - 🚯 [Customer is always right right?](http://9gag.com/gag/arn39A0)
- - 🚯 [No, this is not North Korea, its Russia. People stand in lines for sugar and other essential goods. And this is just the beginning.](http://9gag.com/gag/aog3G5X)<!-- MEMES:END -->
+ - 🚖 [Customer is always right right?](http://9gag.com/gag/arn39A0)
+ - 🚯 [No, this is not North Korea, its Russia. People stand in lines for sugar and other essential goods. And this is just the beginning.](http://9gag.com/gag/aog3G5X)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/a21w9RE)<!-- MEMES:END -->
 
 --- 
 
