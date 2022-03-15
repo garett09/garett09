@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [500 episodes of Dragon Ball now available on Crunchyroll](https://www.polygon.com/22979797/dragon-ball-crunchyroll-funimation-where-to-watch)
- - [Ti West’s X aims its slasher-movie homage straight at classic horror fanatics](https://www.polygon.com/22979890/x-review-ti-west-horror-movie)
- - [How To Win Votes And Influence People In Triangle Strategy](https://kotaku.com/triangle-strategy-square-enix-scales-of-conviction-vote-1848657909)<!-- GAME:END -->
+ - [12 Minutes Of GTA Online Gameplay On PS5](https://kotaku.com/gta-online-gta-v-ps5-gameplay-video-rockstar-grand-thef-1848657529)
+ - [EA isn&#39;t doing an E3-style show this year](https://www.pcgamer.com/ea-isnt-doing-an-e3-style-show-this-year)
+ - [So what the hell is going on in Elden Ring&#39;s story, anyway?](https://www.pcgamer.com/elden-ring-story-lore-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
