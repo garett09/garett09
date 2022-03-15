@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: save $300 on Apple&#39;s 2TB 13-inch MacBook Pro for 24 hours only](https://appleinsider.com/articles/22/03/15/deal-alert-save-300-on-apples-2tb-13-inch-macbook-pro-for-24-hours-only?utm_medium=rss)
- - [The Best Movies To Watch on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-on-hulu/#ftag=CAD590a51e)
- - [Brian Kim, the founder of South Korean social media and fintech giant Kakao Group, quits the board to focus on global expansion following a series of scandals &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/220314/p28#a220314p28)<!-- TECH:END -->
+ - [Indonesia&#39;s GoTo, formed by the $18B merger of superapp Gojek and ecommerce business Tokopedia, plans to raise up to $1.3B in a local IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/220315/p2#a220315p2)
+ - [Pakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises a $70M Series B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220315/p1#a220315p1)
+ - [Samsung Galaxy Tab S8 is also guilty of GOS throttling, removed from Geekbench](https://www.androidauthority.com/samsung-galaxy-tab-s8-geekbench-gos-3136501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
