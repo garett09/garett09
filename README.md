@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bear Robotics, which develops food service robots that aim to reduce the workload of human waitstaffs, raises a $81M Series B led by IMM &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220315/p29#a220315p29)
- - [Apple Park partially evacuated after a white powder substance was discovered](https://www.theverge.com/2022/3/15/22979944/apple-park-campus-evacuated-white-powder-substance)
- - [Akeneo, which makes product experience management and product information management software, raises a $135M Series D led by Summit Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220315/p28#a220315p28)<!-- TECH:END -->
+ - [Spotify buys naming rights on FC Barcelona’s massive stadium](https://www.theverge.com/2022/3/15/22979943/spotify-camp-nou-barcelona-stadium)
+ - [Google Domains is finally out of beta after more than seven years](https://www.theverge.com/2022/3/15/22979998/google-domains-out-of-beta)
+ - [NFTs will be on Instagram soon, according to Mark Zuckerberg](https://www.theverge.com/2022/3/15/22979926/instagram-nfts-meta-zuckerberg-sxsw-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
