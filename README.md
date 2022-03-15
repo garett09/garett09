@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost 40 and decided to start a one man band making music that sounds like the late 90s. All DIY and self taught.](http://9gag.com/gag/a71OBEq)
- - 🚯 [Society](http://9gag.com/gag/apg3XOb)
- - 🚯 [Swinging for a fast food worker....](http://9gag.com/gag/agg1bAx)<!-- MEMES:END -->
+ - 🚖 [Some rich guy in Mykolayiv donated his open top BMW 6 series to the Ukrainian war effort. The city\u2019s defenders decided to spice it up by mounting an NSV 12,7x108 heavy machine gun.\u00a0](http://9gag.com/gag/amg1Odd)
+ - 🚯 [Swinging for a fast food worker....](http://9gag.com/gag/agg1bAx)
+ - 🚯 [The most pro-Kremlin tv station: an employee protesting live against war](http://9gag.com/gag/aVxo9dK)<!-- MEMES:END -->
 
 --- 
 
