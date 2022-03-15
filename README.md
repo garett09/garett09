@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some rich guy in Mykolayiv donated his open top BMW 6 series to the Ukrainian war effort. The city\u2019s defenders decided to spice it up by mounting an NSV 12,7x108 heavy machine gun.\u00a0](http://9gag.com/gag/amg1Odd)
- - 🚯 [Swinging for a fast food worker....](http://9gag.com/gag/agg1bAx)
- - 🚯 [The most pro-Kremlin tv station: an employee protesting live against war](http://9gag.com/gag/aVxo9dK)<!-- MEMES:END -->
+ - 🚖 [Thanks for this.](http://9gag.com/gag/aQXvbxr)
+ - 🚯 [Nice](http://9gag.com/gag/aPZmVPn)
+ - 🚯 [New pokemon are unlocked all over the world. Keep your eyes open for you might find one.](http://9gag.com/gag/aZr1Xxp)<!-- MEMES:END -->
 
 --- 
 
