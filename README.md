@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest watchOS update includes a recovery mode, of sorts](https://www.theverge.com/2022/3/15/22978387/apple-watch-8-5-update-recovery-mode-iphone-restore)
- - [The Lapsus$ Hacking Group Is Off to a Chaotic Start](https://www.wired.com/story/lapsus-hacking-group-extortion-nvidia-samsung)
- - [EU approves Amazon&#39;s $6.5B MGM acquisition, says the deal won&#39;t reduce competition as the companies don&#39;t overlap in content and MGM content is not a must-have &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/220315/p20#a220315p20)<!-- TECH:END -->
+ - [Microsoft says you weren’t supposed to see those Windows 11 File Explorer ads](https://www.androidauthority.com/windows-11-ads-3137940/)
+ - [Apple Watch reminds parent that having kids can lead to hearing loss](https://appleinsider.com/articles/22/03/15/apple-watch-reminds-parent-that-having-kids-can-lead-to-hearing-loss?utm_medium=rss)
+ - [A phone relay capture may be the latest of Russia’s communications woes in Ukraine](https://www.theverge.com/2022/3/15/22979381/phone-relay-capture-russia-military-unencrypted-communications-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
