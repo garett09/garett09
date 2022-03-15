@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do we have the technology tho](http://9gag.com/gag/aVxorRy)
- - 🚯 [You fought well](http://9gag.com/gag/aWg7yoA)
- - 🚯 [Society](http://9gag.com/gag/apg3XOb)<!-- MEMES:END -->
+ - 🚖 [`Hey I&#39;m climbing here!`](http://9gag.com/gag/adg1A92)
+ - 🚯 [Wtf did I just saw? They are evolving.](http://9gag.com/gag/aog3oLX)
+ - 🚯 [After 3 years of dialysis finally going for kidney transplant. This is my first plasma today. yellow thing in that bag is my plasma. Thay are removing it so that my body don&#39;t reject kidney. If everything will go fine I&#39;ll have kidney transplant at 22 March. Wish me luck guys.](http://9gag.com/gag/azedyOx)<!-- MEMES:END -->
 
 --- 
 
