@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 4.1 update adds S22 camera features to older flagships](https://www.theverge.com/2022/3/15/22979047/samsung-one-ui-4-1-update-s21-s20-z-fold-flip-older-devices)
- - [Run:AI, which helps businesses optimize their AI workloads, raises a $75M Series C led by Tiger Global and Insight Partners, bringing its total funding to $118M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220315/p18#a220315p18)
- - [When will The Batman stream on HBO Max?](https://www.androidauthority.com/the-batman-streaming-on-hbo-max-3137312/)<!-- TECH:END -->
+ - [Apple’s latest watchOS update includes a recovery mode, of sorts](https://www.theverge.com/2022/3/15/22978387/apple-watch-8-5-update-recovery-mode-iphone-restore)
+ - [The Lapsus$ Hacking Group Is Off to a Chaotic Start](https://www.wired.com/story/lapsus-hacking-group-extortion-nvidia-samsung)
+ - [EU approves Amazon&#39;s $6.5B MGM acquisition, says the deal won&#39;t reduce competition as the companies don&#39;t overlap in content and MGM content is not a must-have &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/220315/p20#a220315p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
