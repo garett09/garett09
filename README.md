@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Sims 4 update gives neighbors more free will, potential accidental deaths](https://www.polygon.com/22979607/the-sims-4-neighborhood-stories-free-will-march-update-maxis)
  - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood)
- - [Netflix’s trippy anime hybrid Adam by Eve projects an artist’s dreams into reality](https://www.polygon.com/22979477/adam-by-eve-review-anime-netflix)
- - [Dr Disrespect is selling NFT beta access to his game that does not exist yet](https://www.pcgamer.com/dr-disrespect-is-selling-nft-beta-access-to-his-game-that-does-not-exist-yet)<!-- GAME:END -->
+ - [Netflix’s trippy anime hybrid Adam by Eve projects an artist’s dreams into reality](https://www.polygon.com/22979477/adam-by-eve-review-anime-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
