@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s a Perfect Time for EVs. It’s a Terrible Time for EVs](https://www.wired.com/story/its-a-perfect-time-for-evs-its-a-terrible-time-for-evs)
- - [Russian Missiles and Space Debris Could Threaten Satellites](https://www.wired.com/story/space-debris-russia-satellites)
- - [New video game company aims to develop therapeutic games](https://www.theverge.com/2022/3/15/22976720/mental-health-video-game-treatment-deepwell-devolver-digital)<!-- TECH:END -->
+ - [How the new Mac Studio fills a crucial gap in Apple&#39;s desktop lineup](https://appleinsider.com/articles/22/03/15/why-the-new-mac-stufio-fills-the-crucial-gap-in-apples-desktop-lineup?utm_medium=rss)
+ - [Cowbell Cyber, which uses AI to assess risk and offer insurance for SMBs, raises a $100M Series B &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220315/p9#a220315p9)
+ - [The King Bee II Is My Favorite Home Studio Mic](https://www.wired.com/review/neat-king-bee-ii)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
