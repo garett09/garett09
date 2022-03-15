@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brian Kim, the founder of South Korean social media and fintech giant Kakao Group, quits the board to focus on global expansion following a series of scandals &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/220314/p28#a220314p28)
  - [Irish privacy watchdog sues Ireland&#39;s DPC for failing to fully investigate a complaint lodged in 2018 over Google and IAB Europe&#39;s real time bidding ad systems &lpar;Aodhan O Faolain/TheJournal.ie&rpar;](http://www.techmeme.com/220314/p27#a220314p27)
- - [&#39;Moon Knight&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-release-schedule-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)
- - [Internal memo: Arm to cut up to 1,000 jobs, or 15% of its workforce in the UK and US, before its IPO; source says most of the cuts won&#39;t affect engineers &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/220314/p26#a220314p26)<!-- TECH:END -->
+ - [&#39;Moon Knight&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-release-schedule-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
