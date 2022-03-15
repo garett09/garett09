@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deal alert: save $300 on Apple&#39;s 2TB 13-inch MacBook Pro for 24 hours only](https://appleinsider.com/articles/22/03/15/deal-alert-save-300-on-apples-2tb-13-inch-macbook-pro-for-24-hours-only?utm_medium=rss)
  - [The Best Movies To Watch on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-on-hulu/#ftag=CAD590a51e)
- - [Brian Kim, the founder of South Korean social media and fintech giant Kakao Group, quits the board to focus on global expansion following a series of scandals &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/220314/p28#a220314p28)
- - [Irish privacy watchdog sues Ireland&#39;s DPC for failing to fully investigate a complaint lodged in 2018 over Google and IAB Europe&#39;s real time bidding ad systems &lpar;Aodhan O Faolain/TheJournal.ie&rpar;](http://www.techmeme.com/220314/p27#a220314p27)<!-- TECH:END -->
+ - [Brian Kim, the founder of South Korean social media and fintech giant Kakao Group, quits the board to focus on global expansion following a series of scandals &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/220314/p28#a220314p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
