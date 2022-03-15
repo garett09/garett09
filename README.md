@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Steam launched in Alpha &quot;on select Chromebooks for users to try&quot;; code changes showed earlier that it will work only on high-performance Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220315/p26#a220315p26)
- - [Compared: Apple Silicon M1 vs M1 Pro vs M1 Max vs M1 Ultra](https://appleinsider.com/articles/22/03/09/compared-apple-silicon-m1-vs-m1-pro-vs-m1-max-vs-m1-ultra?utm_medium=rss)
- - [Disney employees are staging walkouts over Florida’s ‘Don’t Say Gay’ bill](https://www.theverge.com/2022/3/15/22979440/disney-dont-say-gay-where-is-chapek-walkout)<!-- TECH:END -->
+ - [iPhone SE 2022 vs. iPhone 11: Apple&#39;s Cheap Phones, Compared     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-11-apples-cheap-phones-compared/#ftag=CAD590a51e)
+ - [Monster Hunter Rise&#39;s Sunbreak DLC Launches on June 30     - CNET](https://www.cnet.com/tech/gaming/monster-hunter-rises-sunbreak-dlc-launches-on-june-30/#ftag=CAD590a51e)
+ - [American Express Cards for 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/american-express-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
