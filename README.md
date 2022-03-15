@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank You, Elden Ring Players, For All The Messages Leading Me To Cool Bugs](https://kotaku.com/elden-ring-fromsoftware-bug-glitch-player-message-out-o-1848656966)
- - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)
- - [New Sims 4 update gives neighbors more free will, potential accidental deaths](https://www.polygon.com/22979607/the-sims-4-neighborhood-stories-free-will-march-update-maxis)<!-- GAME:END -->
+ - [500 episodes of Dragon Ball now available on Crunchyroll](https://www.polygon.com/22979797/dragon-ball-crunchyroll-funimation-where-to-watch)
+ - [Ti West’s X aims its slasher-movie homage straight at classic horror fanatics](https://www.polygon.com/22979890/x-review-ti-west-horror-movie)
+ - [How To Win Votes And Influence People In Triangle Strategy](https://kotaku.com/triangle-strategy-square-enix-scales-of-conviction-vote-1848657909)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
