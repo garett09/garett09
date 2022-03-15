@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Before TikTok, before Musicaly, before Vine, before Google, before YouTube, before any streaming video there was this dude inventing the Self-Celeb internet. Dec 2004](http://9gag.com/gag/aBn6AdO)
- - 🚯 [Just a friendly reminder](http://9gag.com/gag/ay93jpX)
- - 🚯 [Observing carefully](http://9gag.com/gag/ajg1e88)<!-- MEMES:END -->
+ - 🚖 [Observing carefully](http://9gag.com/gag/ajg1e88)
+ - 🚯 [Accurate](http://9gag.com/gag/arn3LQK)
+ - 🚯 [Panoramic view from the surface of Mars, as captured by the Curiosity rover](http://9gag.com/gag/angRPLq)<!-- MEMES:END -->
 
 --- 
 
