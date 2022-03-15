@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: TV shows make up 75% of Netflix viewing, the average hit disappears after two weeks or less, and Asian hits have the least overlap with other markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220315/p3#a220315p3)
- - [We asked, you told us: The Xperia 1 III is still a good buy half a year later](https://www.androidauthority.com/xperia-1-iii-six-months-later-poll-results-3137453/)
- - [Epson Laser Projector Promises Better 4K HDR Image, Gaming for $4,000     - CNET](https://www.cnet.com/tech/home-entertainment/epson-laser-projector-promises-better-4k-hdr-image-gaming-for-4000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC, which has long struggled to combat deceptive data practices, is increasingly forcing companies to delete algorithmic systems built with ill-gotten data &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/220315/p4#a220315p4)
+ - [It’s Like GPT-3, but for Code—Fun, Fast, and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code)
+ - [Samsung’s Galaxy A33 leaks in full before its ‘Awesome’ launch](https://www.theverge.com/2022/3/15/22978815/samsung-galaxy-a33-midrange-a-series-phone-leak-awesome-event-price-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
