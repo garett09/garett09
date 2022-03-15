@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe should think about another wi-fi network name](http://9gag.com/gag/aLvz53g)
- - 🚯 [Europe, how are you?](http://9gag.com/gag/aWg757d)
- - 🚯 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)<!-- MEMES:END -->
+ - 🚖 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)
+ - 🚯 [Starting to apply somewhere else now. I hope the drive comes back then](http://9gag.com/gag/a21wXAe)
+ - 🚯 [Observing carefully](http://9gag.com/gag/ajg1e88)<!-- MEMES:END -->
 
 --- 
 
