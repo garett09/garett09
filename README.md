@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Future Games Show&#39;s Spring Showcase announces hosts and details content](https://www.pcgamer.com/future-games-shows-spring-showcase-announces-hosts-and-details-content)
- - [Flintlock: The Siege of Dawn Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/15/flintlock-launching-day-one-with-xbox-game-pass/)
- - [Square Enix wants to know how to make Babylon&#39;s Fall a better game](https://www.pcgamer.com/square-enix-wants-to-know-how-to-make-babylons-fall-a-better-game)<!-- GAME:END -->
+ - [Arceus coming to Pokémon Brilliant Diamond and Shining Pearl in new update](https://www.polygon.com/pokemon/22979077/pokemon-brilliant-diamond-and-shining-pearl-catch-arceus-darkrai)
+ - [Monster Hunter Rise: Sunbreak expansion launches in June](https://www.polygon.com/22979067/monster-hunter-rise-sunbreak-dlc-release-date-price-nintendo-switch-pc)
+ - [Here&#39;s everything you need to know about the new Rainbow Six Siege season - Demon Veil](https://www.pcgamer.com/heres-everything-you-need-to-know-about-the-new-rainbow-six-siege-season-demon-veil)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
