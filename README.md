@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At polish border volunteers are working hard to make the Ukrainian kids happy!](http://9gag.com/gag/aOQe5o2)
- - 🚯 [Back to Home](http://9gag.com/gag/aBn6eK2)
- - 🚯 [Be like a Japanese... Any doubt?](http://9gag.com/gag/aKmA5W1)<!-- MEMES:END -->
+ - 🚖 [A famous CEO lost 70kg in 1 year &lpar;2021&rpar;. Here is a pic of her and husband](http://9gag.com/gag/aDD65od)
+ - 🚯 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)
+ - 🚯 [Don&#39;t tell me what to do.](http://9gag.com/gag/abg1wzr)<!-- MEMES:END -->
 
 --- 
 
