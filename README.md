@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wrestler Scott Hall, AKA Razor Ramon, Dies at Age 63     - CNET](https://www.cnet.com/culture/entertainment/wrestler-scott-hall-aka-razor-ramon-dies-at-age-63/#ftag=CAD590a51e)
- - [Best Elliptical for 2022     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [SiFive sells its chip connectivity unit OpenFive, including 75+ designs and a team of more than 300 people based mostly in India, to Alphawave for $210M in cash &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220314/p25#a220314p25)<!-- TECH:END -->
+ - [Irish privacy watchdog sues Ireland&#39;s DPC for failing to fully investigate a complaint lodged in 2018 over Google and IAB Europe&#39;s real time bidding ad systems &lpar;Aodhan O Faolain/TheJournal.ie&rpar;](http://www.techmeme.com/220314/p27#a220314p27)
+ - [&#39;Moon Knight&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-release-schedule-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)
+ - [Internal memo: Arm to cut up to 1,000 jobs, or 15% of its workforce in the UK and US, before its IPO; source says most of the cuts won&#39;t affect engineers &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/220314/p26#a220314p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
