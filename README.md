@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the new Mac Studio fills a crucial gap in Apple&#39;s desktop lineup](https://appleinsider.com/articles/22/03/15/why-the-new-mac-stufio-fills-the-crucial-gap-in-apples-desktop-lineup?utm_medium=rss)
- - [Cowbell Cyber, which uses AI to assess risk and offer insurance for SMBs, raises a $100M Series B &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220315/p9#a220315p9)
- - [The King Bee II Is My Favorite Home Studio Mic](https://www.wired.com/review/neat-king-bee-ii)<!-- TECH:END -->
+ - [Apple is getting serious about smart rings](https://appleinsider.com/articles/22/03/15/apple-is-getting-serious-about-smart-rings?utm_medium=rss)
+ - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)
+ - [Source: Zomato reaches a merger agreement with instant delivery service Blinkit, formerly Grofers, in an all-stock deal valuing Blinkit between $700M and $750M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220315/p11#a220315p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
