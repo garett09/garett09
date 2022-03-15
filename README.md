@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arceus coming to Pokémon Brilliant Diamond and Shining Pearl in new update](https://www.polygon.com/pokemon/22979077/pokemon-brilliant-diamond-and-shining-pearl-catch-arceus-darkrai)
- - [Monster Hunter Rise: Sunbreak expansion launches in June](https://www.polygon.com/22979067/monster-hunter-rise-sunbreak-dlc-release-date-price-nintendo-switch-pc)
- - [Here&#39;s everything you need to know about the new Rainbow Six Siege season - Demon Veil](https://www.pcgamer.com/heres-everything-you-need-to-know-about-the-new-rainbow-six-siege-season-demon-veil)<!-- GAME:END -->
+ - [Whoa, Neo Is Kicking Agent Smith&#39;s Ass In This Sifu Mod](https://kotaku.com/sifu-matrix-mod-nexus-neo-agent-smith-sloclap-keanu-ree-1848655198)
+ - [Sebastian Vettel&#39;s new F1 simulator puts my ramshackle setup to shame](https://www.pcgamer.com/sebastian-vettels-new-f1-simulator-puts-my-ramshackle-setup-to-shame)
+ - [Get the Assassin’s Creed Valhalla Hati Wolf Mount During the Unstoppable Action Sale](https://news.xbox.com/en-us/2022/03/15/hati-wolf-mount-unstoppable-action-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
