@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says its Ryzen 7 5800X3D will be released on April 20 for $449 &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/220315/p13#a220315p13)
- - [Roborock S7 MaxV Ultra review: this bot cleans its own bottom](https://www.theverge.com/22960447/roborock-s7-maxv-ultra-review-robot-vacuum-mop-hybrid)
- - [Intel is building a new €17 billion semiconductor manufacturing hub in Germany](https://www.theverge.com/2022/3/15/22978954/intel-semiconductor-manufacturing-hub-germany-fab-europe-investment)<!-- TECH:END -->
+ - [Unannounced Exynos 1280 leaks, seems to be more powerful than suspected](https://www.androidauthority.com/samsung-exynos-1280-3137714/)
+ - [ConsenSys, which develops and invests in Ethereum projects, announces a $450M Series D led by ParaFi Capital at a $7B valuation and says MetaMask has 30M+ MAUs &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220315/p16#a220315p16)
+ - [RiffTrax: The Game tasks you with rewriting the worst B-movie scenes](https://www.theverge.com/2022/3/15/22977991/rifftrax-the-game-mystery-science-theater-3000-mst3k-what-the-dub-party-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
