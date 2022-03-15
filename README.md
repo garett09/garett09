@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Incredible 90s Super Mario 64 Guide Scanned In HD, Can Now Be Enjoyed By All](https://kotaku.com/super-mario-64-japan-guide-art-nintendo-miyamoto-sculpt-1848652533)
  - [Steam Deck Emulation Looks Fantastic](https://kotaku.com/steam-deck-valve-emulation-ps1-ps2-dreamcast-xbox-emula-1848652981)
- - [A Very Detailed Review Of Elden Ring&#39;s Horse](https://kotaku.com/elden-ring-fromsoftware-horse-mount-torrent-souls-revie-1848652225)
- - [GTA V Loads Way Faster On PlayStation 5](https://kotaku.com/gta-v-grand-theft-auto-v-5-ps5-playstation-5-load-times-1848652735)<!-- GAME:END -->
+ - [A Very Detailed Review Of Elden Ring&#39;s Horse](https://kotaku.com/elden-ring-fromsoftware-horse-mount-torrent-souls-revie-1848652225)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
