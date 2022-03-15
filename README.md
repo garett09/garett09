@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible 90s Super Mario 64 Guide Scanned In HD, Can Now Be Enjoyed By All](https://kotaku.com/super-mario-64-japan-guide-art-nintendo-miyamoto-sculpt-1848652533)
- - [Steam Deck Emulation Looks Fantastic](https://kotaku.com/steam-deck-valve-emulation-ps1-ps2-dreamcast-xbox-emula-1848652981)
- - [A Very Detailed Review Of Elden Ring&#39;s Horse](https://kotaku.com/elden-ring-fromsoftware-horse-mount-torrent-souls-revie-1848652225)<!-- GAME:END -->
+ - [Intel, AMD and ARM CPUs hit by new Spectre vulnerability](https://www.pcgamer.com/intel-amd-and-arm-cpus-hit-by-new-spectre-vulnerability)
+ - [Nvidia to give away 8 RTX 3090s during GTC](https://www.pcgamer.com/nvidia-to-give-away-8-rtx-3090s-during-gtc)
+ - [Incredible 90s Super Mario 64 Guide Scanned In HD, Can Now Be Enjoyed By All](https://kotaku.com/super-mario-64-japan-guide-art-nintendo-miyamoto-sculpt-1848652533)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
