@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s messages make the game feel like a conversation](https://www.polygon.com/22978036/elden-ring-message-system-conversation-fan-culture)
- - [AMD&#39;s fastest ever gaming CPU is launching April 20 for $449](https://www.pcgamer.com/amd-ryzen-7-5800x3d-release-date-price)
- - [AMD finally delivers budget Ryzen 5000 and 4000-series CPUs](https://www.pcgamer.com/amd-finally-delivers-budget-ryzen-5000-and-4000-series-cpus)<!-- GAME:END -->
+ - [Future Games Show&#39;s Spring Showcase announces hosts and details content](https://www.pcgamer.com/future-games-shows-spring-showcase-announces-hosts-and-details-content)
+ - [Flintlock: The Siege of Dawn Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/15/flintlock-launching-day-one-with-xbox-game-pass/)
+ - [Square Enix wants to know how to make Babylon&#39;s Fall a better game](https://www.pcgamer.com/square-enix-wants-to-know-how-to-make-babylons-fall-a-better-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
