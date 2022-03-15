@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Core Keeper: Where to find tin ore to upgrade your arsenal](https://www.pcgamer.com/core-keeper-tin-ore-location)
- - [70% of Elden Ring players have conquered the first tough boss](https://www.pcgamer.com/70-of-elden-ring-players-have-conquered-the-first-tough-boss)
- - [Halo the Series Story Trailer Releases Today](https://news.xbox.com/en-us/2022/03/14/halo-the-series-story-trailer-releases-today/)<!-- GAME:END -->
+ - [GTA V Loads Way Faster On PlayStation 5](https://kotaku.com/gta-v-grand-theft-auto-v-5-ps5-playstation-5-load-times-1848652735)
+ - [Elden Ring Deathblight builds are ruining PvP](https://www.pcgamer.com/elden-ring-deathblight-builds-are-ruining-pvp)
+ - [Elden Ring gets &#39;easy mode&#39; mod, another modder makes &#39;hard mode&#39; mod in protest](https://www.pcgamer.com/elden-ring-gets-easy-mode-mod-another-modder-makes-hard-mode-mod-in-protest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
