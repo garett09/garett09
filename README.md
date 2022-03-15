@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf did I just saw? They are evolving.](http://9gag.com/gag/aog3oLX)
- - 🚯 [A famous CEO lost 70kg in 1 year &lpar;2021&rpar;. Here is a pic of her and husband](http://9gag.com/gag/aDD65od)
- - 🚯 [Don&#39;t tell me what to do.](http://9gag.com/gag/abg1wzr)<!-- MEMES:END -->
+ - 🚖 [Woman:Dont f**k with me!! Men:](http://9gag.com/gag/ajg1wrx)
+ - 🚯 [Guten tag and/or hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4](http://9gag.com/gag/a416ynZ)
+ - 🚯 [The irony](http://9gag.com/gag/aZr1XO3)<!-- MEMES:END -->
 
 --- 
 
