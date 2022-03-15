@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia&#39;s GoTo, formed by the $18B merger of superapp Gojek and ecommerce business Tokopedia, plans to raise up to $1.3B in a local IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/220315/p2#a220315p2)
- - [Pakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises a $70M Series B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220315/p1#a220315p1)
- - [Samsung Galaxy Tab S8 is also guilty of GOS throttling, removed from Geekbench](https://www.androidauthority.com/samsung-galaxy-tab-s8-geekbench-gos-3136501/)<!-- TECH:END -->
+ - [Analysis: TV shows make up 75% of Netflix viewing, the average hit disappears after two weeks or less, and Asian hits have the least overlap with other markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220315/p3#a220315p3)
+ - [We asked, you told us: The Xperia 1 III is still a good buy half a year later](https://www.androidauthority.com/xperia-1-iii-six-months-later-poll-results-3137453/)
+ - [Epson Laser Projector Promises Better 4K HDR Image, Gaming for $4,000     - CNET](https://www.cnet.com/tech/home-entertainment/epson-laser-projector-promises-better-4k-hdr-image-gaming-for-4000/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
