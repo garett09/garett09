@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Reveals Lacoste Partnership, Releases Croco Island DLC](https://news.xbox.com/en-us/2022/03/15/minecraft-reveals-lacoste-partnership-releases-croco-island-dlc/)
- - [CS:GO meets Wordle in this gun skin guessing game](https://www.pcgamer.com/csgo-meets-wordle-in-this-gun-skin-guessing-game)
- - [Mythical Pokémon Arceus Is Finally Coming To Brilliant Diamond And Shining Pearl](https://kotaku.com/pokemon-legends-arceus-darkrai-bdsp-nintendo-switch-upd-1848655521)<!-- GAME:END -->
+ - [Elden Ring, As Told By Steam Reviews](https://kotaku.com/elden-ring-fromsoftware-open-world-souls-like-steam-rev-1848656068)
+ - [Diablo II: Resurrected Free Trial March 15 to 21](https://news.xbox.com/en-us/2022/03/15/diablo-ii-resurrected-free-trial-march-15-to-21/)
+ - [GTAV and GTA Online out today on PS5](https://blog.playstation.com/2022/03/15/gtav-and-gta-online-out-today-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
