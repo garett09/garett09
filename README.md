@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)
- - 🚯 [Starting to apply somewhere else now. I hope the drive comes back then](http://9gag.com/gag/a21wXAe)
- - 🚯 [Who is this GUY!!!](http://9gag.com/gag/aNP9bVv)<!-- MEMES:END -->
+ - 🚖 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)
+ - 🚯 [Who is this GUY!!!](http://9gag.com/gag/aNP9bVv)
+ - 🚯 [Welcome to `1001 ways on how to torture a Mosquito`](http://9gag.com/gag/a516YBo)<!-- MEMES:END -->
 
 --- 
 
