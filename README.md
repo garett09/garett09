@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Observing carefully](http://9gag.com/gag/ajg1e88)
- - 🚯 [Accurate](http://9gag.com/gag/arn3LQK)
- - 🚯 [Panoramic view from the surface of Mars, as captured by the Curiosity rover](http://9gag.com/gag/angRPLq)<!-- MEMES:END -->
+ - 🚖 [Advanced toktik](http://9gag.com/gag/aog3Xm0)
+ - 🚯 [Panoramic view from the surface of Mars, as captured by the Curiosity rover](http://9gag.com/gag/angRPLq)
+ - 🚯 [Well this is getting scary...](http://9gag.com/gag/angRPyb)<!-- MEMES:END -->
 
 --- 
 
