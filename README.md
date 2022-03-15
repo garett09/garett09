@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Whoa, Neo Is Kicking Agent Smith&#39;s Ass In This Sifu Mod](https://kotaku.com/sifu-matrix-mod-nexus-neo-agent-smith-sloclap-keanu-ree-1848655198)
- - [Sebastian Vettel&#39;s new F1 simulator puts my ramshackle setup to shame](https://www.pcgamer.com/sebastian-vettels-new-f1-simulator-puts-my-ramshackle-setup-to-shame)
- - [Get the Assassin’s Creed Valhalla Hati Wolf Mount During the Unstoppable Action Sale](https://news.xbox.com/en-us/2022/03/15/hati-wolf-mount-unstoppable-action-sale/)<!-- GAME:END -->
+ - [Minecraft Reveals Lacoste Partnership, Releases Croco Island DLC](https://news.xbox.com/en-us/2022/03/15/minecraft-reveals-lacoste-partnership-releases-croco-island-dlc/)
+ - [CS:GO meets Wordle in this gun skin guessing game](https://www.pcgamer.com/csgo-meets-wordle-in-this-gun-skin-guessing-game)
+ - [Mythical Pokémon Arceus Is Finally Coming To Brilliant Diamond And Shining Pearl](https://kotaku.com/pokemon-legends-arceus-darkrai-bdsp-nintendo-switch-upd-1848655521)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
