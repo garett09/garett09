@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman:Dont f**k with me!! Men:](http://9gag.com/gag/ajg1wrx)
- - 🚯 [Guten tag and/or hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4](http://9gag.com/gag/a416ynZ)
- - 🚯 [The irony](http://9gag.com/gag/aZr1XO3)<!-- MEMES:END -->
+ - 🚖 [Equality](http://9gag.com/gag/a416gNQ)
+ - 🚯 [Be like a Japanese... Any doubt?](http://9gag.com/gag/aKmA5W1)
+ - 🚯 [Guten tag and/or hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4](http://9gag.com/gag/a416ynZ)<!-- MEMES:END -->
 
 --- 
 
