@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 2022 vs. iPhone 11: Apple&#39;s Cheap Phones, Compared     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-11-apples-cheap-phones-compared/#ftag=CAD590a51e)
- - [Monster Hunter Rise&#39;s Sunbreak DLC Launches on June 30     - CNET](https://www.cnet.com/tech/gaming/monster-hunter-rises-sunbreak-dlc-launches-on-june-30/#ftag=CAD590a51e)
- - [American Express Cards for 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/american-express-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bear Robotics, which develops food service robots that aim to reduce the workload of human waitstaffs, raises a $81M Series B led by IMM &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220315/p29#a220315p29)
+ - [Apple Park partially evacuated after a white powder substance was discovered](https://www.theverge.com/2022/3/15/22979944/apple-park-campus-evacuated-white-powder-substance)
+ - [Akeneo, which makes product experience management and product information management software, raises a $135M Series D led by Summit Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220315/p28#a220315p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
