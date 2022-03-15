@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)
- - 🚯 [Who is this GUY!!!](http://9gag.com/gag/aNP9bVv)
- - 🚯 [Welcome to `1001 ways on how to torture a Mosquito`](http://9gag.com/gag/a516YBo)<!-- MEMES:END -->
+ - 🚖 [Before TikTok, before Musicaly, before Vine, before Google, before YouTube, before any streaming video there was this dude inventing the Self-Celeb internet. Dec 2004](http://9gag.com/gag/aBn6AdO)
+ - 🚯 [Just a friendly reminder](http://9gag.com/gag/ay93jpX)
+ - 🚯 [Observing carefully](http://9gag.com/gag/ajg1e88)<!-- MEMES:END -->
 
 --- 
 
