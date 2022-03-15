@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A famous CEO lost 70kg in 1 year &lpar;2021&rpar;. Here is a pic of her and husband](http://9gag.com/gag/aDD65od)
- - 🚯 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)
- - 🚯 [Don&#39;t tell me what to do.](http://9gag.com/gag/abg1wzr)<!-- MEMES:END -->
+ - 🚖 [Dihydrogen Monoxide is my shit.](http://9gag.com/gag/aWg7X73)
+ - 🚯 [Chicago mcdonalds\u2026 people are nasty](http://9gag.com/gag/aBn6zqO)
+ - 🚯 [Welcome to `1001 ways on how to torture a Mosquito`](http://9gag.com/gag/a516YBo)<!-- MEMES:END -->
 
 --- 
 
