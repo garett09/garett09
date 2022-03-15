@@ -197,8 +197,8 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No, this is not North Korea, its Russia. People stand in lines for sugar and other essential goods. And this is just the beginning.](http://9gag.com/gag/aog3G5X)
- - 🚯 [This one sparks joy](http://9gag.com/gag/a21w9RE)
+ - 🚖 [Almost 40 and decided to start a one man band making music that sounds like the late 90s. All DIY and self taught.](http://9gag.com/gag/a71OBEq)
+ - 🚯 [Society](http://9gag.com/gag/apg3XOb)
  - 🚯 [Swinging for a fast food worker....](http://9gag.com/gag/agg1bAx)<!-- MEMES:END -->
 
 --- 
