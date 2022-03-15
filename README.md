@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South by Southwest features a transatlantic &#39;Ted Lasso&#39; talk](https://appleinsider.com/articles/22/03/15/south-by-southwest-features-a-transatlantic-ted-lasso-talk?utm_medium=rss)
- - [Microsoft will reveal ‘the future of hybrid work’ with Windows 11 on April 5th](https://www.theverge.com/2022/3/15/22979481/microsoft-windows-business-hybrid-work-event-april-5)
- - [Save up to $200 on Apple&#39;s latest MacBook Pro at B&amp;H, plus up to $150 trade-in bonus](https://appleinsider.com/articles/22/03/15/save-up-to-200-on-apples-latest-macbook-pro-at-bh-plus-up-to-150-trade-in-bonus?utm_medium=rss)<!-- TECH:END -->
+ - [Google says Steam launched in Alpha &quot;on select Chromebooks for users to try&quot;; code changes showed earlier that it will work only on high-performance Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220315/p26#a220315p26)
+ - [Compared: Apple Silicon M1 vs M1 Pro vs M1 Max vs M1 Ultra](https://appleinsider.com/articles/22/03/09/compared-apple-silicon-m1-vs-m1-pro-vs-m1-max-vs-m1-ultra?utm_medium=rss)
+ - [Disney employees are staging walkouts over Florida’s ‘Don’t Say Gay’ bill](https://www.theverge.com/2022/3/15/22979440/disney-dont-say-gay-where-is-chapek-walkout)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
