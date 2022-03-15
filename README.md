@@ -199,7 +199,7 @@ Windows                  10 hrs 43 mins      ███████████�
 <!-- MEMES:START -->
  - 🚖 [Grass goes in, fast comes out](http://9gag.com/gag/aM4BLEP)
  - 🚯 [Starting to apply somewhere else now. I hope the drive comes back then](http://9gag.com/gag/a21wXAe)
- - 🚯 [Observing carefully](http://9gag.com/gag/ajg1e88)<!-- MEMES:END -->
+ - 🚯 [Who is this GUY!!!](http://9gag.com/gag/aNP9bVv)<!-- MEMES:END -->
 
 --- 
 
