@@ -183,9 +183,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riot buys a chunk of the animation studio behind breakout hit Arcane](https://www.pcgamer.com/riot-buys-a-chunk-of-the-animation-studio-behind-breakout-hit-arcane)
  - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever)
- - [$1 million clipart rock NFT accidentally sold for less than a cent](https://www.pcgamer.com/dollar1-million-clipart-rock-nft-accidentally-sold-for-less-than-a-cent)
- - [Microsoft introduces its DirectStorage API which promises to reinvent game storage](https://www.pcgamer.com/microsoft-introduces-its-directstorage-api-which-promises-to-reinvent-game-storage)<!-- GAME:END -->
+ - [$1 million clipart rock NFT accidentally sold for less than a cent](https://www.pcgamer.com/dollar1-million-clipart-rock-nft-accidentally-sold-for-less-than-a-cent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
