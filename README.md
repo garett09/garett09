@@ -197,8 +197,8 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks for this.](http://9gag.com/gag/aQXvbxr)
- - 🚯 [Nice](http://9gag.com/gag/aPZmVPn)
+ - 🚖 [Wtf did I just saw? They are evolving.](http://9gag.com/gag/aog3oLX)
+ - 🚯 [Kraft mac n&#39; cheese](http://9gag.com/gag/amg1yE2)
  - 🚯 [New pokemon are unlocked all over the world. Keep your eyes open for you might find one.](http://9gag.com/gag/aZr1Xxp)<!-- MEMES:END -->
 
 --- 
