@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gauntlet, which offers a financial-risk modeling platform for crypto lending, raises a $23.8M Series B at a $1B valuation led by Ribbit Capital &lpar;Bloomberg&rpar;](http://www.techmeme.com/220314/p23#a220314p23)
- - [Reggie Fils-Aimé doesn’t believe in Meta’s verse](https://www.theverge.com/2022/3/14/22977987/reggie-fils-aime-nintendo-facebook-meta-metaverse-oculus-interview)
- - [Amazon&#39;s $200 price cut on Apple&#39;s 14-inch and 16-inch MacBook Pro is back](https://appleinsider.com/articles/22/03/14/amazons-200-price-cut-on-apples-14-inch-and-16-inch-macbook-pro-is-back?utm_medium=rss)<!-- TECH:END -->
+ - [SiFive sells its chip connectivity unit OpenFive, including 75+ designs and a team of more than 300 people based mostly in India, to Alphawave for $210M in cash &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220314/p25#a220314p25)
+ - [iOS 15.4, watchOS 8.5 allow Apple Watches to be restored with a nearby iPhone](https://appleinsider.com/articles/22/03/15/ios-154-watchos-85-allow-apple-watches-to-be-restored-with-a-nearby-iphone?utm_medium=rss)
+ - [Microsoft brings its DirectStorage API from Xbox to Windows to improve game load times and graphics details, after promising it in September 2020 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220314/p24#a220314p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
