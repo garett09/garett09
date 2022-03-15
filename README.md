@@ -190,9 +190,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says you weren’t supposed to see those Windows 11 File Explorer ads](https://www.androidauthority.com/windows-11-ads-3137940/)
- - [Apple Watch reminds parent that having kids can lead to hearing loss](https://appleinsider.com/articles/22/03/15/apple-watch-reminds-parent-that-having-kids-can-lead-to-hearing-loss?utm_medium=rss)
- - [A phone relay capture may be the latest of Russia’s communications woes in Ukraine](https://www.theverge.com/2022/3/15/22979381/phone-relay-capture-russia-military-unencrypted-communications-ukraine)<!-- TECH:END -->
+ - [South by Southwest features a transatlantic &#39;Ted Lasso&#39; talk](https://appleinsider.com/articles/22/03/15/south-by-southwest-features-a-transatlantic-ted-lasso-talk?utm_medium=rss)
+ - [Microsoft will reveal ‘the future of hybrid work’ with Windows 11 on April 5th](https://www.theverge.com/2022/3/15/22979481/microsoft-windows-business-hybrid-work-event-april-5)
+ - [Save up to $200 on Apple&#39;s latest MacBook Pro at B&amp;H, plus up to $150 trade-in bonus](https://appleinsider.com/articles/22/03/15/save-up-to-200-on-apples-latest-macbook-pro-at-bh-plus-up-to-150-trade-in-bonus?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
