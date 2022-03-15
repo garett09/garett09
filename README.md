@@ -197,9 +197,9 @@ Windows                  10 hrs 43 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality](http://9gag.com/gag/a416gNQ)
- - 🚯 [Be like a Japanese... Any doubt?](http://9gag.com/gag/aKmA5W1)
- - 🚯 [Guten tag and/or hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4](http://9gag.com/gag/a416ynZ)<!-- MEMES:END -->
+ - 🚖 [See the difference?](http://9gag.com/gag/aeg1Bjp)
+ - 🚯 [All. Dicks. Matter](http://9gag.com/gag/a315rYN)
+ - 🚯 [Maybe should think about another wi-fi network name](http://9gag.com/gag/aLvz53g)<!-- MEMES:END -->
 
 --- 
 
