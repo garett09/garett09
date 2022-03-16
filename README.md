@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future iPadOS apps may automatically float when keyboard connected](https://appleinsider.com/articles/22/03/16/future-ipados-apps-may-automatically-float-when-keyboard-connected?utm_medium=rss)
- - [Foxconn says it got approval to partially reopen two Shenzhen campuses, one of which makes iPhones, it closed on Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/220316/p9#a220316p9)
- - [UK&#39;s CMA says NortonLifeLock&#39;s $8.6B purchase of Avast could result in customers getting a worse deal, asks both companies to submit proposals to allay concerns &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/220316/p8#a220316p8)<!-- TECH:END -->
+ - [Apple&#39;s New iPhone SE Could Have Been Great](https://www.wired.com/review/apple-iphone-se-2022)
+ - [The War in Ukraine Is a Reproductive Health Crisis for Millions](https://www.wired.com/story/the-war-in-ukraine-is-a-reproductive-health-crisis-for-millions)
+ - [The Workaday Life of the World’s Most Dangerous Ransomware Gang](https://www.wired.com/story/conti-leaks-ransomware-work-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
