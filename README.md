@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Minutes Of GTA Online Gameplay On PS5](https://kotaku.com/gta-online-gta-v-ps5-gameplay-video-rockstar-grand-thef-1848657529)
- - [EA isn&#39;t doing an E3-style show this year](https://www.pcgamer.com/ea-isnt-doing-an-e3-style-show-this-year)
- - [So what the hell is going on in Elden Ring&#39;s story, anyway?](https://www.pcgamer.com/elden-ring-story-lore-explained)<!-- GAME:END -->
+ - [EA Cancels Its Big Summer Event](https://kotaku.com/ea-play-live-e3-cancelled-cancel-electronic-arts-2022-n-1848658370)
+ - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/15/mega-march-promotion-comes-to-playstation-store-2/)
+ - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/15/mega-march-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
