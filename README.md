@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces Family Center, a centralized hub of safety tools for parents to supervise kids&#39; activity across Meta&#39;s apps, rolling out now for Instagram &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220316/p15#a220316p15)
- - [Flexibility Now More Important Than Pay for Many Employees, New Microsoft Survey Finds     - CNET](https://www.cnet.com/tech/flexibility-now-more-important-than-pay-for-many-employees-new-microsoft-survey-finds/#ftag=CAD590a51e)
- - [Meta Unveils New Parental Controls for Instagram, Virtual Reality     - CNET](https://www.cnet.com/news/social-media/meta-unveils-new-parental-controls-for-instagram-virtual-reality/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad Air 5 review roundup: A great yet confounding value proposition](https://appleinsider.com/articles/22/03/16/ipad-air-5-review-roundup-a-great-yet-confounding-value-proposition?utm_medium=rss)
+ - [OXIO, a &quot;carrier-as-a-service&quot; company that lets brands launch mobile services by turning data into blockchain-based digital assets, raises a $40M Series B &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/220316/p18#a220316p18)
+ - [How to get Netflix for free with T-Mobile](https://www.androidauthority.com/free-netflix-t-mobile-3137910/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
