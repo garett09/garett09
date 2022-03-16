@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the all-time greatest interviews](http://9gag.com/gag/a816r8d)
- - 🚯 [In the meantime, nobody cares. Do you?](http://9gag.com/gag/aWgLBDA)
- - 🚯 [Real economic and military power](http://9gag.com/gag/aAG6nj2)<!-- MEMES:END -->
+ - 🚖 [The mofo was resisting](http://9gag.com/gag/aAGEBv0)
+ - 🚯 [Behind the scenes of \u2018The Bed-ins for Peace\u2019](http://9gag.com/gag/azed6zz)
+ - 🚯 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)<!-- MEMES:END -->
 
 --- 
 
