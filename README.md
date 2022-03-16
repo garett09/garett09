@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pat the big Cat](http://9gag.com/gag/aYrE8Nw)
- - 🚯 [I know its old but it gets me every time](http://9gag.com/gag/a11NzdY)
+ - 🚖 [Everything okay Hans ? You barely touched your Fleischentortenbrot](http://9gag.com/gag/amg1jwj)
+ - 🚯 [GOT&#39;EEEEEM](http://9gag.com/gag/aRr45zq)
  - 🚯 [A 9th century sculpture of a female torso carved in black chlorite. Geography: Rajasthan, India. Now on display at the Victoria and Albert museum in London.](http://9gag.com/gag/aOQegq3)<!-- MEMES:END -->
 
 --- 
