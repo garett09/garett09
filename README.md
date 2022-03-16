@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snappt, whose software helps landlords detect fraudulent rental application documents like altered pay stubs, raises a $100M Series A led by Insight Partners &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220315/p35#a220315p35)
  - [Spotify agrees to a sponsorship deal with soccer club FC Barcelona, including rebranding its stadium to Spotify Camp Nou, reportedly worth $310M over four years &lpar;Chris Bengel/CBS Sports&rpar;](http://www.techmeme.com/220315/p34#a220315p34)
- - [French customer receives Mac Studio order a few days early](https://appleinsider.com/articles/22/03/16/french-customer-receives-mac-studio-order-a-few-days-early?utm_medium=rss)
- - [Hex Trust, which offers crypto custody, staking, brokerage, and financing services to institutional clients in Hong Kong and Singapore, raises an $88M Series B &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220315/p33#a220315p33)<!-- TECH:END -->
+ - [French customer receives Mac Studio order a few days early](https://appleinsider.com/articles/22/03/16/french-customer-receives-mac-studio-order-a-few-days-early?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
