@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Android Auto will now tell you if your USB cable is bad](https://www.theverge.com/2022/3/16/22981792/google-android-auto-update-usb-startup-diagnostics-cable-port)
- - [Audi A6 Avant E-tron concept is an elegant electric wagon that looks production-ready](https://www.theverge.com/2022/3/16/22979186/audi-a6-avant-e-tron-concept-sportback-specs)
- - [Google I/O dates announced for 2022](https://www.androidauthority.com/google-io-2022-3138891/)<!-- TECH:END -->
+ - [Sources: Yandex is in negotiations to sell its media unit, including Yandex News and personal recommendations site Yandex Zen, possibly to social network VK &lpar;TechCrunch&rpar;](http://www.techmeme.com/220316/p34#a220316p34)
+ - [Bored Ape Yacht Club creates a cryptocurrency to fund games, events, and merch](https://www.theverge.com/2022/3/16/22981916/apecoin-dao-launched-bayc-bored-ape-yuga-labs)
+ - [Google Home app gets much-needed redesign with interactive buttons](https://www.theverge.com/2022/3/16/22981813/google-home-much-needed-redesign-buttons-interactive-adjustments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
