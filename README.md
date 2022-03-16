@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Third grade teacher Ms. Fitz promised her class hot chocolate if she made this shot](http://9gag.com/gag/aPZm52g)
- - 🚯 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)
- - 🚯 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)<!-- MEMES:END -->
+ - 🚖 [So why are you?](http://9gag.com/gag/a61XAAe)
+ - 🚯 [Cover your elf, Epstein didn&#39;t kill himself.](http://9gag.com/gag/arn3jq0)
+ - 🚯 [He must have axe on](http://9gag.com/gag/aGznX9K)<!-- MEMES:END -->
 
 --- 
 
