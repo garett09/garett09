@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tunic is a Zelda-style adventure that rekindled my love of strategy guides](https://www.theverge.com/22979061/tunic-review-zelda-adventure-instruction-manual-strategy-guides)
- - [Google&#39;s deal with McLaren puts Android and Chrome on its 2022 F1 car, and in the garage](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)
- - [Netflix makes Volodymyr Zelenskyy’s Servant of the People show available to stream](https://www.theverge.com/2022/3/16/22980962/netflix-zelenskyy-servant-of-the-people-president-ukraine-russia)<!-- TECH:END -->
+ - [Storms and sea level rise could cost ports billions](https://www.theverge.com/2022/3/16/22980905/storms-sea-level-rise-ports-billions-climate-change)
+ - [Sunny Balwani’s Theranos trial has been complicated by The Dropout](https://www.theverge.com/2022/3/16/22980890/sunny-balwani-theranos-trial-the-dropout-hulu)
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
