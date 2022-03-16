@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eww](http://9gag.com/gag/awz36VW)
- - 🚯 [17 Year-Old Juliane Koepcke Was Sucked Out Of An Airplane In 1971 After It Was Struck By A Bolt Of Lightning. She Fell 2 Miles To The Ground, Strapped To Her Seat And Survived After She Endured 10 Days In The Amazon Jungle](http://9gag.com/gag/aBn67b1)
- - 🚯 [I know its old but it gets me every time](http://9gag.com/gag/a11NzdY)<!-- MEMES:END -->
+ - 🚖 [Pat the big Cat](http://9gag.com/gag/aYrE8Nw)
+ - 🚯 [I know its old but it gets me every time](http://9gag.com/gag/a11NzdY)
+ - 🚯 [A 9th century sculpture of a female torso carved in black chlorite. Geography: Rajasthan, India. Now on display at the Victoria and Albert museum in London.](http://9gag.com/gag/aOQegq3)<!-- MEMES:END -->
 
 --- 
 
