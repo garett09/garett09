@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Automattic CEO Matt Mullenweg on the company&#39;s growth, the future of open-source WordPress, Tumblr moderation, Web3, Bitcoin, Ethereum, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220316/p28#a220316p28)
- - [GTA Online’s next-gen version is prettier and easier to get into](https://www.theverge.com/22978906/gta-online-ps5-xbox-series-x-s-version-next-gen-career-missions-graphics)
- - [Ireland fines Meta for bad record-keeping](https://www.theverge.com/2022/3/16/22979540/meta-facebook-gdpr-privacy-data-ireland-data-protection-commission)<!-- TECH:END -->
+ - [The website of Wordle Archive, which let users play previous Wordle puzzles, says it has been taken down at the request of The New York Times &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/220316/p30#a220316p30)
+ - [Examining AMC’s ‘embarrassingly stupid’ investment in a literal gold mine](https://www.theverge.com/2022/3/16/22981454/amc-gold-mine-investment-memestock-adam-aron)
+ - [Disney Employees Protest Florida&#39;s Anti-LGBTQ Legislation     - CNET](https://www.cnet.com/news/disney-employees-protest-floridas-anti-lgbtq-legislation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
