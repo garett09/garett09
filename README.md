@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With Congress divided over passing a national privacy law, tech industry groups are lobbying Utah and other states to pass privacy laws weaker than California&#39;s &lpar;Margaret Harding McGill/Axios&rpar;](http://www.techmeme.com/220316/p1#a220316p1)
  - [DoorDash launches a gas rewards program to help delivery drivers who hold the company&#39;s own DasherDirect Visa cards to mitigate the high cost of fuel &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220315/p38#a220315p38)
- - [Rutter, whose universal API for e-commerce data helps companies integrate with commerce, accounting, and payments platforms, raises a $27M Series A led by a16z &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220315/p37#a220315p37)
- - [Selector, which develops AI tools for IT operations, raises a $28M Series A, bringing its total funding to $33M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220315/p36#a220315p36)<!-- TECH:END -->
+ - [Rutter, whose universal API for e-commerce data helps companies integrate with commerce, accounting, and payments platforms, raises a $27M Series A led by a16z &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220315/p37#a220315p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
