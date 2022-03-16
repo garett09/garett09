@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)
- - 🚯 [Can we have a pause please?](http://9gag.com/gag/aWgLBA2)
- - 🚯 [New 7.3 magnitude earthquake east of Fukushima](http://9gag.com/gag/aGz8K5w)<!-- MEMES:END -->
+ - 🚖 [This is World of Warcraft - Feel](http://9gag.com/gag/ajgOYL1)
+ - 🚯 [Earthquake Japan](http://9gag.com/gag/amgGqwV)
+ - 🚯 [Can we have a pause please?](http://9gag.com/gag/aWgLBA2)<!-- MEMES:END -->
 
 --- 
 
