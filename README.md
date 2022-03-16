@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [British tasteless cuisine!](http://9gag.com/gag/ajg12Xq)
- - 🚯 [Behind the scenes of \u2018The Bed-ins for Peace\u2019](http://9gag.com/gag/azed6zz)
- - 🚯 [Best driver in r*ZZia](http://9gag.com/gag/adg1ZOM)<!-- MEMES:END -->
+ - 🚯 [Real economic and military power](http://9gag.com/gag/aAG6nj2)
+ - 🚯 [British food is awesome](http://9gag.com/gag/a11DpvG)<!-- MEMES:END -->
 
 --- 
 
