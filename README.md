@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Waluigi’s Famous Crotch Chop Celebration: Explained](https://kotaku.com/mario-strikers-wario-crotch-chop-taunt-mike-inglehart-1848661993)
- - [Bethesda Shows Off Eight Whole Seconds Of Starfield](https://kotaku.com/starfield-elder-scrolls-oblivion-bethesda-factions-comp-1848661886)
- - [Core Keeper: How to get NPC merchants to live in your base](https://www.pcgamer.com/core-keeper-npc-house)<!-- GAME:END -->
+ - [ICYMI: /ID@Xbox Showcase with /twitchgaming](https://news.xbox.com/en-us/2022/03/16/icymi-idxbox-showcase-with-twitchgaming/)
+ - [Elden Ring Tricksters Are Blowing Themselves Up To Score PvP Kills](https://kotaku.com/elden-ring-fromsoftware-multiplayer-wondrous-physick-ex-1848662259)
+ - [Tunic gets surprise Xbox Game Pass release on launch day](https://www.polygon.com/22981380/tunic-xbox-game-pass-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
