@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s New iPhone SE Could Have Been Great](https://www.wired.com/review/apple-iphone-se-2022)
- - [The War in Ukraine Is a Reproductive Health Crisis for Millions](https://www.wired.com/story/the-war-in-ukraine-is-a-reproductive-health-crisis-for-millions)
- - [The Workaday Life of the World’s Most Dangerous Ransomware Gang](https://www.wired.com/story/conti-leaks-ransomware-work-life)<!-- TECH:END -->
+ - [New leaked &#39;iPhone 14 Pro&#39; renders back up hole-punch rumors](https://appleinsider.com/articles/22/03/16/new-leaked-iphone-14-pro-renders-back-up-hole-punch-rumors?utm_medium=rss)
+ - [iUNU, whose LUNA robot moves on greenhouse roofs and uses AI to detect problems with plants and find spots that are ready to harvest, raises a $24M Series B &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220316/p13#a220316p13)
+ - [Daily Authority: 👉 Xiaomi 12 first impressions](https://www.androidauthority.com/da-march-16-2022-3138445/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
