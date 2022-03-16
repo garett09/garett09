@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six months after El Salvador adopted Bitcoin as legal tender, citizens, economists, and tech developers reflect on the country&#39;s glitch-plagued initiative &lpar;Rest of World&rpar;](http://www.techmeme.com/220316/p5#a220316p5)
- - [Samsung Galaxy S21 series is now receiving One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [LG’s smartphone unit might be dead, but the Velvet is still getting Android 12](https://www.androidauthority.com/lg-velvet-android-12-3137433/)<!-- TECH:END -->
+ - [Samsung says sorry for S22 throttling, but what about heating concerns?](https://www.androidauthority.com/samsung-s22-throttling-gos-apology-3138218/)
+ - [A look at Ukraine&#39;s &quot;invisible heroes&quot;, its internet technicians who are risking their lives battling Russian hackers and avoiding bombs to keep Ukraine online &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220316/p6#a220316p6)
+ - [Six months after El Salvador adopted Bitcoin as legal tender, citizens, economists, and tech developers reflect on the country&#39;s glitch-plagued initiative &lpar;Rest of World&rpar;](http://www.techmeme.com/220316/p5#a220316p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
