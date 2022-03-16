@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ICYMI: /ID@Xbox Showcase with /twitchgaming](https://news.xbox.com/en-us/2022/03/16/icymi-idxbox-showcase-with-twitchgaming/)
- - [Elden Ring Tricksters Are Blowing Themselves Up To Score PvP Kills](https://kotaku.com/elden-ring-fromsoftware-multiplayer-wondrous-physick-ex-1848662259)
- - [Tunic gets surprise Xbox Game Pass release on launch day](https://www.polygon.com/22981380/tunic-xbox-game-pass-release-date)<!-- GAME:END -->
+ - [8 things you can easily miss at the beginning of Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/22981486/secrets-easy-to-miss-crafting-torch-melina-whetstone-spirit-bell-flask-physick-patches-rodericka)
+ - [Electronic Arts stops sales in Russia, bans Russian teams from esports events](https://www.polygon.com/22961678/electronic-arts-stopping-sales-russia-belarus-sanctions-ukraine)
+ - [Fortnite leak says Doctor Strange is joining the battle royale](https://www.pcgamer.com/doctor-strange-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
