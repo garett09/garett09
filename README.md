@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s smartphone unit might be dead, but the Velvet is still getting Android 12](https://www.androidauthority.com/lg-velvet-android-12-3137433/)
- - [As China&#39;s delivery firms use algorithms to force drivers to work faster, couriers have started to band together and form unofficial unions on WeChat and Douyin &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/220316/p4#a220316p4)
- - [Multiplier, which helps companies to hire and pay remote workers while complying with local laws, raises a $60M Series B at a $400M valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220316/p3#a220316p3)<!-- TECH:END -->
+ - [Six months after El Salvador adopted Bitcoin as legal tender, citizens, economists, and tech developers reflect on the country&#39;s glitch-plagued initiative &lpar;Rest of World&rpar;](http://www.techmeme.com/220316/p5#a220316p5)
+ - [Samsung Galaxy S21 series is now receiving One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [LG’s smartphone unit might be dead, but the Velvet is still getting Android 12](https://www.androidauthority.com/lg-velvet-android-12-3137433/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
