@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at GitHub&#39;s AI tool Copilot, which writes 35% of its users&#39; code, and how such tools make programmers more efficient and democratize coding &lpar;Clive Thompson/Wired&rpar;](http://www.techmeme.com/220316/p7#a220316p7)
  - [Samsung says sorry for S22 throttling, but what about heating concerns?](https://www.androidauthority.com/samsung-s22-throttling-gos-apology-3138218/)
- - [A look at Ukraine&#39;s &quot;invisible heroes&quot;, its internet technicians who are risking their lives battling Russian hackers and avoiding bombs to keep Ukraine online &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220316/p6#a220316p6)
- - [Six months after El Salvador adopted Bitcoin as legal tender, citizens, economists, and tech developers reflect on the country&#39;s glitch-plagued initiative &lpar;Rest of World&rpar;](http://www.techmeme.com/220316/p5#a220316p5)<!-- TECH:END -->
+ - [A look at Ukraine&#39;s &quot;invisible heroes&quot;, its internet technicians who are risking their lives battling Russian hackers and avoiding bombs to keep Ukraine online &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220316/p6#a220316p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
