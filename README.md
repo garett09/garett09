@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything okay Hans ? You barely touched your Fleischentortenbrot](http://9gag.com/gag/amg1jwj)
- - 🚯 [GOT&#39;EEEEEM](http://9gag.com/gag/aRr45zq)
- - 🚯 [That went from 0-60 real quick](http://9gag.com/gag/aVxonMK)<!-- MEMES:END -->
+ - 🚖 [GOT&#39;EEEEEM](http://9gag.com/gag/aRr45zq)
+ - 🚯 [That went from 0-60 real quick](http://9gag.com/gag/aVxonMK)
+ - 🚯 [What just Happened?](http://9gag.com/gag/a0ZXmPq)<!-- MEMES:END -->
 
 --- 
 
