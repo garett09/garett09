@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reaction time on this cop](http://9gag.com/gag/adgO0XZ)
- - 🚯 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)
- - 🚯 [British food is awesome](http://9gag.com/gag/a11DpvG)<!-- MEMES:END -->
+ - 🚖 [British food is awesome](http://9gag.com/gag/a11DpvG)
+ - 🚯 [Brave journalist keeps working as Earthquake hits Japan](http://9gag.com/gag/ay9474X)
+ - 🚯 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)<!-- MEMES:END -->
 
 --- 
 
