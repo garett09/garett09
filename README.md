@@ -198,7 +198,7 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Czech, Polish and Slovenian PMs having a meeting with Zelenskyy in Kyiv in name of their coutries and the EU. Our PM made me proud today.](http://9gag.com/gag/adg1E5V)
- - 🚯 [Just a shinny cow](http://9gag.com/gag/avA1NdO)
+ - 🚯 [Eww](http://9gag.com/gag/awz36VW)
  - 🚯 [Before TikTok, before Musicaly, before Vine, before Google, before YouTube, before any streaming video there was this dude inventing the Self-Celeb internet. Dec 2004](http://9gag.com/gag/aBn6AdO)<!-- MEMES:END -->
 
 --- 
