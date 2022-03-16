@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI and CISA advisory warns that Russia-backed threat actors accessed an unnamed NGO&#39;s network by exploiting default MFA protocols and the &quot;PrintNightmare&quot; flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220315/p31#a220315p31)
- - [Apple Park partially evacuated after envelope with white powder substance was discovered](https://www.theverge.com/2022/3/15/22979944/apple-park-campus-evacuated-white-powder-substance)
- - [Apple to start requiring apps be developed with Xcode 13 on April 25](https://appleinsider.com/articles/22/03/15/apple-to-start-requiring-apps-be-developed-with-xcode-13-on-april-25?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify agrees to a sponsorship deal with soccer club FC Barcelona, including rebranding its stadium to Spotify Camp Nou, reportedly worth $310M over four years &lpar;Chris Bengel/CBS Sports&rpar;](http://www.techmeme.com/220315/p34#a220315p34)
+ - [French customer receives Mac Studio order a few days early](https://appleinsider.com/articles/22/03/16/french-customer-receives-mac-studio-order-a-few-days-early?utm_medium=rss)
+ - [Hex Trust, which offers crypto custody, staking, brokerage, and financing services to institutional clients in Hong Kong and Singapore, raises an $88M Series B &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220315/p33#a220315p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
