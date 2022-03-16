@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Czech, Polish and Slovenian PMs having a meeting with Zelenskyy in Kyiv in name of their coutries and the EU. Our PM made me proud today.](http://9gag.com/gag/adg1E5V)
- - 🚯 [Eww](http://9gag.com/gag/awz36VW)
- - 🚯 [Before TikTok, before Musicaly, before Vine, before Google, before YouTube, before any streaming video there was this dude inventing the Self-Celeb internet. Dec 2004](http://9gag.com/gag/aBn6AdO)<!-- MEMES:END -->
+ - 🚖 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)
+ - 🚯 [Bro teaching a bro how to whistle](http://9gag.com/gag/a3156Rr)
+ - 🚯 [It\u2019s always the guy with the expensive car](http://9gag.com/gag/aM4B39V)<!-- MEMES:END -->
 
 --- 
 
