@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The First 27 Minutes Of Tunic: Smol Fox, Big Adventure](https://kotaku.com/tunic-action-rpg-souls-like-gameplay-video-xbox-game-pa-1848661192)
- - [The creator of Her Story wants you to solve a movie-star mystery in Immortality](https://www.polygon.com/22981648/immortality-sam-barlow-trailer-half-mermaid-movie-game)
- - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
+ - [The Ukrainian president’s 2015 political sitcom Servant of the People is now on Netflix](https://www.polygon.com/22981840/volodymyr-zelenskyy-servant-of-the-people-netflix-ukrainian-president)
+ - [Sam Barlow reveals the first trailer for his new &#39;interactive movie trilogy&#39;](https://www.pcgamer.com/sam-barlow-reveals-the-first-trailer-for-his-new-interactive-movie-trilogy)
+ - [Here’s how Dungeons &amp; Dragons fans can play the new Critical Role adventure online](https://www.polygon.com/22981721/critical-role-call-of-the-netherdeep-adventurers-league-organized-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
