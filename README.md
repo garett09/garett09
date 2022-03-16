@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two’s Private Division signs new games from Sonic Mania devs, Die Gute Fabrik, more](https://www.polygon.com/22980719/2k-private-division-evening-star-games-die-gute-fabrik)
- - [Tempted by the Ryzen 7 5800X3D? AMD&#39;s 12-core 5900X is a better deal for 4K gaming and more](https://www.pcgamer.com/amd-ryzen-7-5800x3d-vs-ryzen-9-5900x)
- - [Elden Ring has sold 12M copies in just 3 weeks](https://www.pcgamer.com/elden-ring-has-sold-12m-copies-in-just-3-weeks)<!-- GAME:END -->
+ - [Betrayal at Club Low is another mini immersive sim from The Norwood Suite&#39;s Cosmo D](https://www.pcgamer.com/betrayal-at-club-low-is-another-mini-immersive-sim-from-the-norwood-suites-cosmo-d)
+ - [Babylon&#39;s Fall review](https://www.pcgamer.com/babylons-fall-review)
+ - [Study confirms Computer Science as the least popular UK science](https://www.pcgamer.com/study-confirms-computer-science-as-the-least-popular-uk-science)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
