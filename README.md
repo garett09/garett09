@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)
- - 🚯 [Bro teaching a bro how to whistle](http://9gag.com/gag/a3156Rr)
- - 🚯 [It\u2019s always the guy with the expensive car](http://9gag.com/gag/aM4B39V)<!-- MEMES:END -->
+ - 🚖 [Third grade teacher Ms. Fitz promised her class hot chocolate if she made this shot](http://9gag.com/gag/aPZm52g)
+ - 🚯 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)<!-- MEMES:END -->
 
 --- 
 
