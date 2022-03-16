@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When comedy was simple, but creative](http://9gag.com/gag/azedn7p)
- - 🚯 [Advanced toktik](http://9gag.com/gag/aog3Xm0)
- - 🚯 [Czech, Polish and Slovenian PMs having a meeting with Zelenskyy in Kyiv in name of their coutries and the EU. Our PM made me proud today.](http://9gag.com/gag/adg1E5V)<!-- MEMES:END -->
+ - 🚖 [Czech, Polish and Slovenian PMs having a meeting with Zelenskyy in Kyiv in name of their coutries and the EU. Our PM made me proud today.](http://9gag.com/gag/adg1E5V)
+ - 🚯 [Just a shinny cow](http://9gag.com/gag/avA1NdO)
+ - 🚯 [Before TikTok, before Musicaly, before Vine, before Google, before YouTube, before any streaming video there was this dude inventing the Self-Celeb internet. Dec 2004](http://9gag.com/gag/aBn6AdO)<!-- MEMES:END -->
 
 --- 
 
