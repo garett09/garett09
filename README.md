@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
- - [Tunic: an illustrated review](https://www.polygon.com/reviews/22975324/tunic-review-finji-pc-xbox-series-x)
- - [Best DDR4 RAM for gaming in 2022](https://www.pcgamer.com/best-ddr4-ram)<!-- GAME:END -->
+ - [Waluigi’s Famous Crotch Chop Celebration: Explained](https://kotaku.com/mario-strikers-wario-crotch-chop-taunt-mike-inglehart-1848661993)
+ - [Bethesda Shows Off Eight Whole Seconds Of Starfield](https://kotaku.com/starfield-elder-scrolls-oblivion-bethesda-factions-comp-1848661886)
+ - [Core Keeper: How to get NPC merchants to live in your base](https://www.pcgamer.com/core-keeper-npc-house)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
