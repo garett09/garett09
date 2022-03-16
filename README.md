@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Betrayal at Club Low is another mini immersive sim from The Norwood Suite&#39;s Cosmo D](https://www.pcgamer.com/betrayal-at-club-low-is-another-mini-immersive-sim-from-the-norwood-suites-cosmo-d)
- - [Babylon&#39;s Fall review](https://www.pcgamer.com/babylons-fall-review)
- - [Study confirms Computer Science as the least popular UK science](https://www.pcgamer.com/study-confirms-computer-science-as-the-least-popular-uk-science)<!-- GAME:END -->
+ - [Elden Ring PvP matches show off strong builds and inventive strategies](https://www.polygon.com/22979551/best-elden-ring-pvp-matches-player-builds)
+ - [The real-life superstitions and Japanese folklore that inspired Ghostwire: Tokyo’s supernatural inhabitants](https://blog.playstation.com/2022/03/16/the-real-life-superstitions-and-japanese-folklore-that-inspired-ghostwire-tokyos-supernatural-inhabitants/)
+ - [The real-life superstitions and Japanese folklore that inspired Ghostwire: Tokyo’s supernatural inhabitants](https://blog.playstation.com/2022/03/16/the-real-life-superstitions-and-japanese-folklore-that-inspired-ghostwire-tokyos-supernatural-inhabitants/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
