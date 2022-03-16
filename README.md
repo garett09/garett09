@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So why are you?](http://9gag.com/gag/a61XAAe)
- - 🚯 [Cover your elf, Epstein didn&#39;t kill himself.](http://9gag.com/gag/arn3jq0)
- - 🚯 [He must have axe on](http://9gag.com/gag/aGznX9K)<!-- MEMES:END -->
+ - 🚖 [I know its old but it gets me every time](http://9gag.com/gag/a11NzdY)
+ - 🚯 [So why are you?](http://9gag.com/gag/a61XAAe)
+ - 🚯 [17 Year-Old Juliane Koepcke Was Sucked Out Of An Airplane In 1971 After It Was Struck By A Bolt Of Lightning. She Fell 2 Miles To The Ground, Strapped To Her Seat And Survived After She Endured 10 Days In The Amazon Jungle](http://9gag.com/gag/aBn67b1)<!-- MEMES:END -->
 
 --- 
 
