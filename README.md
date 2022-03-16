@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This footage was taken by NASA astronaut during a spacewalk on the International Space Station](http://9gag.com/gag/aBn6DDA)
- - 🚯 [Think twice before giving your money to a homeless person.](http://9gag.com/gag/aqG84eR)
- - 🚯 [I spent last 5 years working on my own c++ game engine to make realistic historical strategy game focused on ancient times [DRM Free + mod support] &lpar;Birth of cultures, at steam&rpar;](http://9gag.com/gag/aOQegR3)<!-- MEMES:END -->
+ - 🚖 [One of the all-time greatest interviews](http://9gag.com/gag/a816r8d)
+ - 🚯 [In the meantime, nobody cares. Do you?](http://9gag.com/gag/aWgLBDA)
+ - 🚯 [Real economic and military power](http://9gag.com/gag/aAG6nj2)<!-- MEMES:END -->
 
 --- 
 
