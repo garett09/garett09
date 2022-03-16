@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FromSoftware hopes to expand Elden Ring ‘beyond the realm of games’](https://www.theverge.com/2022/3/16/22981060/fromsoftware-elden-ring-franchise-intellectual-properties-future-expansion)
- - [New Google Classroom tool gives hints on tough homework problems](https://www.theverge.com/2022/3/16/22980116/google-classroom-practice-sets-beta-release-education)
- - [Bundle a Microsoft Office for Mac Lifetime License With Courses to Master It for Just $64     - CNET](https://www.cnet.com/tech/services-and-software/bundle-a-lifetime-microsoft-office-for-mac-license-with-courses-to-master-it-for-64-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tunic is a Zelda-style adventure that rekindled my love of strategy guides](https://www.theverge.com/22979061/tunic-review-zelda-adventure-instruction-manual-strategy-guides)
+ - [Google&#39;s deal with McLaren puts Android and Chrome on its 2022 F1 car, and in the garage](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)
+ - [Netflix makes Volodymyr Zelenskyy’s Servant of the People show available to stream](https://www.theverge.com/2022/3/16/22980962/netflix-zelenskyy-servant-of-the-people-president-ukraine-russia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
