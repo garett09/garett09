@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify buys naming rights on FC Barcelona’s massive stadium](https://www.theverge.com/2022/3/15/22979943/spotify-camp-nou-barcelona-stadium)
- - [Google Domains is finally out of beta after more than seven years](https://www.theverge.com/2022/3/15/22979998/google-domains-out-of-beta)
- - [NFTs will be on Instagram soon, according to Mark Zuckerberg](https://www.theverge.com/2022/3/15/22979926/instagram-nfts-meta-zuckerberg-sxsw-metaverse)<!-- TECH:END -->
+ - [FBI and CISA advisory warns that Russia-backed threat actors accessed an unnamed NGO&#39;s network by exploiting default MFA protocols and the &quot;PrintNightmare&quot; flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220315/p31#a220315p31)
+ - [Apple Park partially evacuated after envelope with white powder substance was discovered](https://www.theverge.com/2022/3/15/22979944/apple-park-campus-evacuated-white-powder-substance)
+ - [Apple to start requiring apps be developed with Xcode 13 on April 25](https://appleinsider.com/articles/22/03/15/apple-to-start-requiring-apps-be-developed-with-xcode-13-on-april-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
