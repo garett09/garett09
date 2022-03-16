@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #270: Wednesday, March 16](https://www.pcgamer.com/wordle-march-16-270-cater-meaning)
- - [Windows Insider gets shown ad in Explorer but Microsoft says it was a mistake](https://www.pcgamer.com/windows-insider-served-microsoft-service-ad-in-explorer)
- - [Intel&#39;s 12th Gen Core i9 12900KS flagship is out in the wild](https://www.pcgamer.com/intels-12th-gen-core-i9-12900ks-flagship-is-out-in-the-wild)<!-- GAME:END -->
+ - [Take-Two’s Private Division signs new games from Sonic Mania devs, Die Gute Fabrik, more](https://www.polygon.com/22980719/2k-private-division-evening-star-games-die-gute-fabrik)
+ - [Tempted by the Ryzen 7 5800X3D? AMD&#39;s 12-core 5900X is a better deal for 4K gaming and more](https://www.pcgamer.com/amd-ryzen-7-5800x3d-vs-ryzen-9-5900x)
+ - [Elden Ring has sold 12M copies in just 3 weeks](https://www.pcgamer.com/elden-ring-has-sold-12m-copies-in-just-3-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
