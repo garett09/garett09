@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air 5 review roundup: A great yet confounding value proposition](https://appleinsider.com/articles/22/03/16/ipad-air-5-review-roundup-a-great-yet-confounding-value-proposition?utm_medium=rss)
- - [OXIO, a &quot;carrier-as-a-service&quot; company that lets brands launch mobile services by turning data into blockchain-based digital assets, raises a $40M Series B &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/220316/p18#a220316p18)
- - [How to get Netflix for free with T-Mobile](https://www.androidauthority.com/free-netflix-t-mobile-3137910/)<!-- TECH:END -->
+ - [7 Great Deals to Get You Through the Workweek](https://www.wired.com/story/office-deals-march-16-2022)
+ - [Start11 brings back Windows 11 taskbar ungrouping](https://www.theverge.com/2022/3/16/22980730/start11-windows-11-taskbar-ungrouping-features)
+ - [Slack overhauls iPad app with interface inspired by its desktop app](https://www.theverge.com/2022/3/16/22978839/slack-ipad-app-update-two-columns-accessibility-sidebar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
