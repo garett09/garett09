@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [British food is awesome](http://9gag.com/gag/a11DpvG)
- - 🚯 [Brave journalist keeps working as Earthquake hits Japan](http://9gag.com/gag/ay9474X)
- - 🚯 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)<!-- MEMES:END -->
+ - 🚯 [Beware the girl who gives you a twirl](http://9gag.com/gag/a91vjBZ)
+ - 🚯 [Can we have a pause please?](http://9gag.com/gag/aWgLBA2)<!-- MEMES:END -->
 
 --- 
 
