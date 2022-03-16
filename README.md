@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leaked &#39;iPhone 14 Pro&#39; renders back up hole-punch rumors](https://appleinsider.com/articles/22/03/16/new-leaked-iphone-14-pro-renders-back-up-hole-punch-rumors?utm_medium=rss)
- - [iUNU, whose LUNA robot moves on greenhouse roofs and uses AI to detect problems with plants and find spots that are ready to harvest, raises a $24M Series B &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220316/p13#a220316p13)
- - [Daily Authority: 👉 Xiaomi 12 first impressions](https://www.androidauthority.com/da-march-16-2022-3138445/)<!-- TECH:END -->
+ - [Meta announces Family Center, a centralized hub of safety tools for parents to supervise kids&#39; activity across Meta&#39;s apps, rolling out now for Instagram &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220316/p15#a220316p15)
+ - [Flexibility Now More Important Than Pay for Many Employees, New Microsoft Survey Finds     - CNET](https://www.cnet.com/tech/flexibility-now-more-important-than-pay-for-many-employees-new-microsoft-survey-finds/#ftag=CAD590a51e)
+ - [Meta Unveils New Parental Controls for Instagram, Virtual Reality     - CNET](https://www.cnet.com/news/social-media/meta-unveils-new-parental-controls-for-instagram-virtual-reality/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
