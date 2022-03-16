@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring PvP matches show off strong builds and inventive strategies](https://www.polygon.com/22979551/best-elden-ring-pvp-matches-player-builds)
- - [The real-life superstitions and Japanese folklore that inspired Ghostwire: Tokyo’s supernatural inhabitants](https://blog.playstation.com/2022/03/16/the-real-life-superstitions-and-japanese-folklore-that-inspired-ghostwire-tokyos-supernatural-inhabitants/)
- - [The real-life superstitions and Japanese folklore that inspired Ghostwire: Tokyo’s supernatural inhabitants](https://blog.playstation.com/2022/03/16/the-real-life-superstitions-and-japanese-folklore-that-inspired-ghostwire-tokyos-supernatural-inhabitants/)<!-- GAME:END -->
+ - [Wordle Archive taken down after NY Times demand](https://www.polygon.com/22981076/wordle-archive-takedown-offline-nyt-cease-and-desist)
+ - [Far: Changing Tides Is Your Next Under-The-Radar Game Pass Gem](https://kotaku.com/far-changing-tides-loan-sails-xbox-game-pass-puzzle-pla-1848660892)
+ - [Turning Red’s version of teen lust is refreshingly weird](https://www.polygon.com/entertainment/22979927/turning-red-teen-lust-refreshingly-weird)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
