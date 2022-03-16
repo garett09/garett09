@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ukrainian president’s 2015 political sitcom Servant of the People is now on Netflix](https://www.polygon.com/22981840/volodymyr-zelenskyy-servant-of-the-people-netflix-ukrainian-president)
- - [Sam Barlow reveals the first trailer for his new &#39;interactive movie trilogy&#39;](https://www.pcgamer.com/sam-barlow-reveals-the-first-trailer-for-his-new-interactive-movie-trilogy)
- - [Here’s how Dungeons &amp; Dragons fans can play the new Critical Role adventure online](https://www.polygon.com/22981721/critical-role-call-of-the-netherdeep-adventurers-league-organized-play)<!-- GAME:END -->
+ - [Valve Fixed Elden Ring Just For The Steam Deck](https://kotaku.com/elden-ring-valve-pc-steam-deck-namco-bandai-stuttering-1848664299)
+ - [Sniper Elite 5 targets May release date](https://www.pcgamer.com/sniper-elite-5-targets-may-release-date)
+ - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
