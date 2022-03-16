@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GOT&#39;EEEEEM](http://9gag.com/gag/aRr45zq)
- - 🚯 [That went from 0-60 real quick](http://9gag.com/gag/aVxonMK)
- - 🚯 [What just Happened?](http://9gag.com/gag/a0ZXmPq)<!-- MEMES:END -->
+ - 🚖 [British tasteless cuisine!](http://9gag.com/gag/ajg12Xq)
+ - 🚯 [Behind the scenes of \u2018The Bed-ins for Peace\u2019](http://9gag.com/gag/azed6zz)
+ - 🚯 [Best driver in r*ZZia](http://9gag.com/gag/adg1ZOM)<!-- MEMES:END -->
 
 --- 
 
