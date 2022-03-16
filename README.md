@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring has a pair of hidden underwear, but you need to cheat to get them](https://www.polygon.com/22978075/elden-ring-deathbed-smalls-fia-underwear)
- - [The Art Of Total War: Warhammer III](https://kotaku.com/total-war-warhammer-iii-3-concept-art-sketches-behind-s-1848658795)
- - [PC Game Pass gets Weird West and Shredders in March](https://www.pcgamer.com/pc-game-pass-gets-weird-west-and-shredders-in-march)<!-- GAME:END -->
+ - [Please Enjoy This Video Of Elden Ring Bosses Fighting Each Other](https://kotaku.com/elden-ring-boss-bosses-fight-mod-modder-mods-ps4-ps5-ma-1848659187)
+ - [Intel&#39;s Project Endgame could be a PC streaming service beyond just gaming](https://www.pcgamer.com/intels-project-endgame-could-be-a-pc-streaming-service-beyond-just-gaming)
+ - [Elden Ring has a pair of hidden underwear, but you need to cheat to get them](https://www.polygon.com/22978075/elden-ring-deathbed-smalls-fia-underwear)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
