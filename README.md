@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Enjoy This Video Of Elden Ring Bosses Fighting Each Other](https://kotaku.com/elden-ring-boss-bosses-fight-mod-modder-mods-ps4-ps5-ma-1848659187)
- - [Windows Insider served Microsoft service ad in Explorer](https://www.pcgamer.com/windows-insider-served-microsoft-service-ad-in-explorer)
- - [Intel&#39;s Project Endgame could be a PC streaming service beyond just gaming](https://www.pcgamer.com/intels-project-endgame-could-be-a-pc-streaming-service-beyond-just-gaming)<!-- GAME:END -->
+ - [Intel&#39;s 12th Gen Core i9 12900KS flagship is out in the wild](https://www.pcgamer.com/intels-12th-gen-core-i9-12900ks-flagship-is-out-in-the-wild)
+ - [Arm to layoff hundreds of employees after the plug was pulled on Nvidia&#39;s buyout](https://www.pcgamer.com/arm-to-layoff-hundreds-of-employees-after-nvidia-buyout-failed)
+ - [Micron CEO warns the chip shortage is set to continue](https://www.pcgamer.com/micron-ceo-warns-the-chip-shortage-is-set-to-continue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
