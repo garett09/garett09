@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s 12th Gen Core i9 12900KS flagship is out in the wild](https://www.pcgamer.com/intels-12th-gen-core-i9-12900ks-flagship-is-out-in-the-wild)
- - [Arm to layoff hundreds of employees after the plug was pulled on Nvidia&#39;s buyout](https://www.pcgamer.com/arm-to-layoff-hundreds-of-employees-after-nvidia-buyout-failed)
- - [Micron CEO warns the chip shortage is set to continue](https://www.pcgamer.com/micron-ceo-warns-the-chip-shortage-is-set-to-continue)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #270: Wednesday, March 16](https://www.pcgamer.com/wordle-march-16-270-cater-meaning)
+ - [Windows Insider gets shown ad in Explorer but Microsoft says it was a mistake](https://www.pcgamer.com/windows-insider-served-microsoft-service-ad-in-explorer)
+ - [Intel&#39;s 12th Gen Core i9 12900KS flagship is out in the wild](https://www.pcgamer.com/intels-12th-gen-core-i9-12900ks-flagship-is-out-in-the-wild)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
