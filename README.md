@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snappt, whose software helps landlords detect fraudulent rental application documents like altered pay stubs, raises a $100M Series A led by Insight Partners &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220315/p35#a220315p35)
- - [Spotify agrees to a sponsorship deal with soccer club FC Barcelona, including rebranding its stadium to Spotify Camp Nou, reportedly worth $310M over four years &lpar;Chris Bengel/CBS Sports&rpar;](http://www.techmeme.com/220315/p34#a220315p34)
- - [French customer receives Mac Studio order a few days early](https://appleinsider.com/articles/22/03/16/french-customer-receives-mac-studio-order-a-few-days-early?utm_medium=rss)<!-- TECH:END -->
+ - [DoorDash launches a gas rewards program to help delivery drivers who hold the company&#39;s own DasherDirect Visa cards to mitigate the high cost of fuel &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220315/p38#a220315p38)
+ - [Rutter, whose universal API for e-commerce data helps companies integrate with commerce, accounting, and payments platforms, raises a $27M Series A led by a16z &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220315/p37#a220315p37)
+ - [Selector, which develops AI tools for IT operations, raises a $28M Series A, bringing its total funding to $33M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220315/p36#a220315p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
