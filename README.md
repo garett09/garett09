@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Great Deals to Get You Through the Workweek](https://www.wired.com/story/office-deals-march-16-2022)
- - [Start11 brings back Windows 11 taskbar ungrouping](https://www.theverge.com/2022/3/16/22980730/start11-windows-11-taskbar-ungrouping-features)
- - [Slack overhauls iPad app with interface inspired by its desktop app](https://www.theverge.com/2022/3/16/22978839/slack-ipad-app-update-two-columns-accessibility-sidebar)<!-- TECH:END -->
+ - [FromSoftware hopes to expand Elden Ring ‘beyond the realm of games’](https://www.theverge.com/2022/3/16/22981060/fromsoftware-elden-ring-franchise-intellectual-properties-future-expansion)
+ - [New Google Classroom tool gives hints on tough homework problems](https://www.theverge.com/2022/3/16/22980116/google-classroom-practice-sets-beta-release-education)
+ - [Bundle a Microsoft Office for Mac Lifetime License With Courses to Master It for Just $64     - CNET](https://www.cnet.com/tech/services-and-software/bundle-a-lifetime-microsoft-office-for-mac-license-with-courses-to-master-it-for-64-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
