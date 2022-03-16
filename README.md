@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Storms and sea level rise could cost ports billions](https://www.theverge.com/2022/3/16/22980905/storms-sea-level-rise-ports-billions-climate-change)
- - [Sunny Balwani’s Theranos trial has been complicated by The Dropout](https://www.theverge.com/2022/3/16/22980890/sunny-balwani-theranos-trial-the-dropout-hulu)
- - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Automattic CEO Matt Mullenweg on the company&#39;s growth, the future of open-source WordPress, Tumblr moderation, Web3, Bitcoin, Ethereum, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220316/p28#a220316p28)
+ - [GTA Online’s next-gen version is prettier and easier to get into](https://www.theverge.com/22978906/gta-online-ps5-xbox-series-x-s-version-next-gen-career-missions-graphics)
+ - [Ireland fines Meta for bad record-keeping](https://www.theverge.com/2022/3/16/22979540/meta-facebook-gdpr-privacy-data-ireland-data-protection-commission)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
