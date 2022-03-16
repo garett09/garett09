@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle Archive taken down after NY Times demand](https://www.polygon.com/22981076/wordle-archive-takedown-offline-nyt-cease-and-desist)
- - [Far: Changing Tides Is Your Next Under-The-Radar Game Pass Gem](https://kotaku.com/far-changing-tides-loan-sails-xbox-game-pass-puzzle-pla-1848660892)
- - [Turning Red’s version of teen lust is refreshingly weird](https://www.polygon.com/entertainment/22979927/turning-red-teen-lust-refreshingly-weird)<!-- GAME:END -->
+ - [10 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
+ - [Tunic: an illustrated review](https://www.polygon.com/reviews/22975324/tunic-review-finji-pc-xbox-series-x)
+ - [Best DDR4 RAM for gaming in 2022](https://www.pcgamer.com/best-ddr4-ram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
