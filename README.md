@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at GitHub&#39;s AI tool Copilot, which writes 35% of its users&#39; code, and how such tools make programmers more efficient and democratize coding &lpar;Clive Thompson/Wired&rpar;](http://www.techmeme.com/220316/p7#a220316p7)
- - [Samsung says sorry for S22 throttling, but what about heating concerns?](https://www.androidauthority.com/samsung-s22-throttling-gos-apology-3138218/)
- - [A look at Ukraine&#39;s &quot;invisible heroes&quot;, its internet technicians who are risking their lives battling Russian hackers and avoiding bombs to keep Ukraine online &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/220316/p6#a220316p6)<!-- TECH:END -->
+ - [Future iPadOS apps may automatically float when keyboard connected](https://appleinsider.com/articles/22/03/16/future-ipados-apps-may-automatically-float-when-keyboard-connected?utm_medium=rss)
+ - [Foxconn says it got approval to partially reopen two Shenzhen campuses, one of which makes iPhones, it closed on Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/220316/p9#a220316p9)
+ - [UK&#39;s CMA says NortonLifeLock&#39;s $8.6B purchase of Avast could result in customers getting a worse deal, asks both companies to submit proposals to allay concerns &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/220316/p8#a220316p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
