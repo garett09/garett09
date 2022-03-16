@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s 12th Gen Core i9 12900KS flagship is out in the wild](https://www.pcgamer.com/intels-12th-gen-core-i9-12900ks-flagship-is-out-in-the-wild)
  - [Arm to layoff hundreds of employees after the plug was pulled on Nvidia&#39;s buyout](https://www.pcgamer.com/arm-to-layoff-hundreds-of-employees-after-nvidia-buyout-failed)
- - [Micron CEO warns the chip shortage is set to continue](https://www.pcgamer.com/micron-ceo-warns-the-chip-shortage-is-set-to-continue)<!-- GAME:END -->
+ - [Micron CEO warns the chip shortage is set to continue](https://www.pcgamer.com/micron-ceo-warns-the-chip-shortage-is-set-to-continue)
+ - [Asus fires huge salvo in GPU price wars – slashes 25% from RTX 30-series in Australia](https://www.pcgamer.com/asus-fires-huge-salvo-in-gpu-price-wars-slashes-25-from-rtx-30-series-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
