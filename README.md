@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainian president Volodymyr Zelenskyy signs a law legalizing cryptocurrency in the country, after the bill passed through parliament in February &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/220316/p31#a220316p31)
- - [Coinbase Pay lets you add funds directly to your wallet](https://www.theverge.com/2022/3/16/22981014/coinbase-pay-wallet-cryptocurrency)
- - [Google will make things less awful for tablet users visiting the Play Store](https://www.androidauthority.com/play-store-tablets-3138832/)<!-- TECH:END -->
+ - [Google’s Android Auto will now tell you if your USB cable is bad](https://www.theverge.com/2022/3/16/22981792/google-android-auto-update-usb-startup-diagnostics-cable-port)
+ - [Audi A6 Avant E-tron concept is an elegant electric wagon that looks production-ready](https://www.theverge.com/2022/3/16/22979186/audi-a6-avant-e-tron-concept-sportback-specs)
+ - [Google I/O dates announced for 2022](https://www.androidauthority.com/google-io-2022-3138891/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
