@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 things you can easily miss at the beginning of Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/22981486/secrets-easy-to-miss-crafting-torch-melina-whetstone-spirit-bell-flask-physick-patches-rodericka)
- - [Electronic Arts stops sales in Russia, bans Russian teams from esports events](https://www.polygon.com/22961678/electronic-arts-stopping-sales-russia-belarus-sanctions-ukraine)
- - [Fortnite leak says Doctor Strange is joining the battle royale](https://www.pcgamer.com/doctor-strange-fortnite)<!-- GAME:END -->
+ - [The First 27 Minutes Of Tunic: Smol Fox, Big Adventure](https://kotaku.com/tunic-action-rpg-souls-like-gameplay-video-xbox-game-pa-1848661192)
+ - [The creator of Her Story wants you to solve a movie-star mystery in Immortality](https://www.polygon.com/22981648/immortality-sam-barlow-trailer-half-mermaid-movie-game)
+ - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
