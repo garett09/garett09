@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British tasteless cuisine!](http://9gag.com/gag/ajg12Xq)
- - 🚯 [Real economic and military power](http://9gag.com/gag/aAG6nj2)
- - 🚯 [British food is awesome](http://9gag.com/gag/a11DpvG)<!-- MEMES:END -->
+ - 🚖 [This footage was taken by NASA astronaut during a spacewalk on the International Space Station](http://9gag.com/gag/aBn6DDA)
+ - 🚯 [Think twice before giving your money to a homeless person.](http://9gag.com/gag/aqG84eR)
+ - 🚯 [I spent last 5 years working on my own c++ game engine to make realistic historical strategy game focused on ancient times [DRM Free + mod support] &lpar;Birth of cultures, at steam&rpar;](http://9gag.com/gag/aOQegR3)<!-- MEMES:END -->
 
 --- 
 
