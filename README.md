@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Advanced toktik](http://9gag.com/gag/aog3Xm0)
- - 🚯 [Panoramic view from the surface of Mars, as captured by the Curiosity rover](http://9gag.com/gag/angRPLq)
- - 🚯 [Well this is getting scary...](http://9gag.com/gag/angRPyb)<!-- MEMES:END -->
+ - 🚖 [When comedy was simple, but creative](http://9gag.com/gag/azedn7p)
+ - 🚯 [Advanced toktik](http://9gag.com/gag/aog3Xm0)
+ - 🚯 [Czech, Polish and Slovenian PMs having a meeting with Zelenskyy in Kyiv in name of their coutries and the EU. Our PM made me proud today.](http://9gag.com/gag/adg1E5V)<!-- MEMES:END -->
 
 --- 
 
