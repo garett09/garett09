@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The website of Wordle Archive, which let users play previous Wordle puzzles, says it has been taken down at the request of The New York Times &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/220316/p30#a220316p30)
- - [Examining AMC’s ‘embarrassingly stupid’ investment in a literal gold mine](https://www.theverge.com/2022/3/16/22981454/amc-gold-mine-investment-memestock-adam-aron)
- - [Disney Employees Protest Florida&#39;s Anti-LGBTQ Legislation     - CNET](https://www.cnet.com/news/disney-employees-protest-floridas-anti-lgbtq-legislation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukrainian president Volodymyr Zelenskyy signs a law legalizing cryptocurrency in the country, after the bill passed through parliament in February &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/220316/p31#a220316p31)
+ - [Coinbase Pay lets you add funds directly to your wallet](https://www.theverge.com/2022/3/16/22981014/coinbase-pay-wallet-cryptocurrency)
+ - [Google will make things less awful for tablet users visiting the Play Store](https://www.androidauthority.com/play-store-tablets-3138832/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
