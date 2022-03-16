@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Third grade teacher Ms. Fitz promised her class hot chocolate if she made this shot](http://9gag.com/gag/aPZm52g)
- - 🚯 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)
- - 🚯 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)<!-- MEMES:END -->
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/avA1MeO)
+ - 🚯 [Ukrainian father goes to war after the death of his son &lpar;soldier?&rpar; in Kharkiv](http://9gag.com/gag/aXrMB1z)<!-- MEMES:END -->
 
 --- 
 
