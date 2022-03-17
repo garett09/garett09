@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint: iPhones accounted for 37% of global 5G handset sales in January, as 5G phones made up more than half of global smartphone sales for the first time &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/220317/p4#a220317p4)
- - [You told us: You won’t subscribe to YouTube Premium now that Vanced is gone](https://www.androidauthority.com/youtube-premium-subscribe-vanced-poll-results-3138159/)
- - [Google&#39;s McLaren sponsorship puts the Android robot and Chrome wheels on its 2022 F1 car](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)<!-- TECH:END -->
+ - [Ukraine legalizes cryptocurrency as it receives millions in crypto donations](https://www.theverge.com/2022/3/17/22982608/ukraine-crypotcurrency-sector-legalized-zelenskyy-signs-bill)
+ - [The CEOs of Intel and Micron will testify on March 23 before the US Senate Commerce Committee to make the case for $52B in US subsidies for chip manufacturing &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/220317/p5#a220317p5)
+ - [Counterpoint: iPhones accounted for 37% of global 5G handset sales in January, as 5G phones made up more than half of global smartphone sales for the first time &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/220317/p4#a220317p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
