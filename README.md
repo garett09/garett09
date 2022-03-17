@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studio Display review roundup: From &#39;delightful&#39; to &#39;unusable&#39;](https://appleinsider.com/articles/22/03/17/studio-display-review-roundup-from-delightful-to-unusable?utm_medium=rss)
- - [Humble’s indie lineup includes Monaco 2 and a musical RPG](https://www.theverge.com/2022/3/17/22981048/humble-games-indie-showcase-monaco-2-stray-gods)
- - [T-Mobile teams up with BMW for the first 5G-connected cars in the US](https://www.theverge.com/2022/3/17/22982818/tmobile-bmw-first-5g-connected-cars-united-states-price)<!-- TECH:END -->
+ - [Amplience, which lets companies build ecommerce services based on the MACH architecture, raises a $100M Series D, bringing its total funding to $180M &lpar;Chris J. Preimesberger/VentureBeat&rpar;](http://www.techmeme.com/220317/p17#a220317p17)
+ - [How to turn your Echo Show into a digital photo frame](https://www.theverge.com/22982857/how-to-echo-show-amazon-digital-photo-frame)
+ - [The creators of Until Dawn are making another interactive teen slasher](https://www.theverge.com/2022/3/17/22980954/the-quarry-supermassive-horror-game-release-date-ps5-xbox-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
