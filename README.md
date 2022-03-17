@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Where we&#39;re going we don&#39;t need broads](http://9gag.com/gag/aAGE1KE)
- - 🚯 [Swedish soldier protecting Gotland](http://9gag.com/gag/awzm74B)
- - 🚯 [Modern Mess](http://9gag.com/gag/aogVjAn)<!-- MEMES:END -->
+ - 🚯 [Modern Mess](http://9gag.com/gag/aogVjAn)
+ - 🚯 [Nestle will continue to operate in ruZZia](http://9gag.com/gag/apgDvD8)<!-- MEMES:END -->
 
 --- 
 
