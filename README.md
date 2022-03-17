@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nicolas Cage battles his own past and future in The Unbearable Weight of Massive Talent](https://www.polygon.com/22983530/the-unbearable-weight-of-massive-talent-review-nicolas-cage)
- - [Hearthstone’s next expansion is the Naga-themed Voyage to the Sunken City](https://www.polygon.com/22983461/hearthstone-expansion-voyage-to-the-sunken-city-naga-azshara)
- - [Gorgeous Zelda-Like Tunic Is Exactly What I Needed Right Now](https://kotaku.com/tunic-xbox-game-pass-zelda-dark-souls-fez-indie-impress-1848668747)<!-- GAME:END -->
+ - [All hail these 3D-printed Elden Ring Pot Boys](https://www.polygon.com/22983491/elden-ring-pot-boys-3d-printed)
+ - [What level in Elden Ring should you be to beat Margit the Fell Omen?](https://www.polygon.com/elden-ring-guide-walkthrough/22983391/what-level-for-margit-fell-omen-boss-how-to-beat)
+ - [HBO Max’s DMZ is too good of an idea to abandon like this](https://www.polygon.com/reviews/22983655/dmz-review-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
