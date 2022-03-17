@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New StarTech Thunderbolt 4 dock provides enough power for a 16-inch MacBook Pro](https://appleinsider.com/articles/22/03/17/new-startech-thunderbolt-4-dock-provides-enough-power-for-a-16-inch-macbook-pro?utm_medium=rss)
- - [Word Games to Play if You&#39;re Done With Wordle     - CNET](https://www.cnet.com/culture/internet/word-games-to-play-if-youre-done-with-wordle/#ftag=CAD590a51e)
- - [The Best and Funniest Comedies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-and-funniest-comedies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Malware being installed by fraudsters using Apple&#39;s TestFlight](https://appleinsider.com/articles/22/03/17/malware-being-installed-by-fraudsters-using-apples-testflight?utm_medium=rss)
+ - [The first NBA broadcast rendered with volumetric video puts basketball in the uncanny valley](https://www.theverge.com/2022/3/16/22982243/nets-mavericks-espn-nba-volumetric-video-canon)
+ - [Tech execs may face criminal prosecution or jail time for failure to comply with Ofcom within two months after UK&#39;s Online Safety Bill, if passed, takes effect &lpar;The Information&rpar;](http://www.techmeme.com/220316/p37#a220316p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
