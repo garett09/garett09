@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Supermassive&#39;s next game is a summer camp nightmare starring Scream, Aliens and A Nightmare on Elm Street actors](https://www.pcgamer.com/the-quarry-is-a-teen-horror-game-with-scream-aliens-and-a-nightmare-on-elm-street-alumni)
- - [Master the Art of Escape in Escape Academy with Game Pass Later This Year](https://news.xbox.com/en-us/2022/03/17/escape-academy-with-game-pass-later-this-year/)
- - [The Quarry is Supermassive’s next swing at Until Dawn-style horror](https://www.polygon.com/22981663/the-quarry-supermassive-2k-games-cast-until-dawn)<!-- GAME:END -->
+ - [Introducing The Teen-Horror Experience of the Summer: The Quarry](https://news.xbox.com/en-us/2022/03/17/introducing-the-teen-horror-experience-of-the-summer-the-quarry/)
+ - [How to complete the Jar-Bairn quest in Elden Ring](https://www.pcgamer.com/elden-ring-jar-bairn-quest)
+ - [The evolved form of my most beloved gaming headset is £45 off](https://www.pcgamer.com/the-evolved-form-of-my-most-beloved-gaming-headset-is-pound45-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
