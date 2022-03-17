@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moss: Book II launches March 31, new PS VR gameplay revealed](https://blog.playstation.com/2022/03/17/moss-book-ii-launches-march-31-new-ps-vr-gameplay-revealed/)
- - [Moss: Book II launches March 31, new PS VR gameplay revealed](https://blog.playstation.com/2022/03/17/moss-book-ii-launches-march-31-new-ps-vr-gameplay-revealed/)
- - [Netflix’s live-action Resident Evil series gets teaser art, summer release date](https://www.polygon.com/22982646/netflix-resident-evil-series-release-date)<!-- GAME:END -->
+ - [Supermassive&#39;s next game is a summer camp nightmare starring Scream, Aliens and A Nightmare on Elm Street actors](https://www.pcgamer.com/the-quarry-is-a-teen-horror-game-with-scream-aliens-and-a-nightmare-on-elm-street-alumni)
+ - [Master the Art of Escape in Escape Academy with Game Pass Later This Year](https://news.xbox.com/en-us/2022/03/17/escape-academy-with-game-pass-later-this-year/)
+ - [The Quarry is Supermassive’s next swing at Until Dawn-style horror](https://www.polygon.com/22981663/the-quarry-supermassive-2k-games-cast-until-dawn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
