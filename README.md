@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever)
- - [Elden Ring’s First Big Patch Adds More Secrets, Quests and People To An Already Massive Game](https://kotaku.com/elden-ring-update-patch-nerf-npc-fromsoftware-namcoband-1848665226)
- - [Listen to two devices simultaneously with these wireless earbuds](https://www.pcgamer.com/listen-to-two-devices-simultaneously-with-these-wireless-earbuds)<!-- GAME:END -->
+ - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)
+ - [Today&#39;s Wordle answer #271: Thursday, March 17](https://www.pcgamer.com/wordle-march-17-271-words-ending-in-ie)
+ - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever-sponsored)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
