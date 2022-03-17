@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are family](http://9gag.com/gag/arnA4g6)
- - 🚯 [Is that time of the year again](http://9gag.com/gag/aqG8ZMR)
- - 🚯 [That was always my backup plan when I was in high school](http://9gag.com/gag/aYrOp9x)<!-- MEMES:END -->
+ - 🚖 [Is that time of the year again](http://9gag.com/gag/aqG8ZMR)
+ - 🚯 [`How dare he!`](http://9gag.com/gag/apgD0DE)
+ - 🚯 [We are family](http://9gag.com/gag/arnA4g6)<!-- MEMES:END -->
 
 --- 
 
