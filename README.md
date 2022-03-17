@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s Big Accelerator Memory: An SSD for your GPU](https://www.pcgamer.com/nvidias-big-accelerator-memory-an-ssd-for-your-gpu)
  - [The Mario Bros Have Earned A Beach Holiday](https://kotaku.com/super-mario-bros-beach-sunshine-vacation-art-fan-waluig-1848664653)
- - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6400 CL32 Review](https://www.pcgamer.com/gskill-trident-z5-rgb-2x16-gb-ddr5-6400-cl32-review)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6400 CL32 Review](https://www.pcgamer.com/gskill-trident-z5-rgb-2x16-gb-ddr5-6400-cl32-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
