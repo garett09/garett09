@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`How dare he!`](http://9gag.com/gag/apgD0DE)
- - 🚯 [Prezent for my hooman](http://9gag.com/gag/a11DYrv)
+ - 🚖 [Overpowered](http://9gag.com/gag/aGz8R76)
+ - 🚯 [You&#39;re the best Arnold!](http://9gag.com/gag/aDDnoQB)
  - 🚯 [The Strid. A quaint little stream in the middle of woodland in the UK that has a near 100% fatality rate if you fall in.](http://9gag.com/gag/aDDnmEG)<!-- MEMES:END -->
 
 --- 
