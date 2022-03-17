@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)
- - 🚯 [We are family](http://9gag.com/gag/arnA4g6)
- - 🚯 [Yup, I love volleyball...](http://9gag.com/gag/angnXAq)<!-- MEMES:END -->
+ - 🚖 [Yup, I love volleyball...](http://9gag.com/gag/angnXAq)
+ - 🚯 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)
+ - 🚯 [How long do you think she\u2019s worked here?](http://9gag.com/gag/aAGErwd)<!-- MEMES:END -->
 
 --- 
 
