@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that time of the year again](http://9gag.com/gag/aqG8ZMR)
- - 🚯 [`How dare he!`](http://9gag.com/gag/apgD0DE)
- - 🚯 [We are family](http://9gag.com/gag/arnA4g6)<!-- MEMES:END -->
+ - 🚖 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)
+ - 🚯 [We are family](http://9gag.com/gag/arnA4g6)
+ - 🚯 [Yup, I love volleyball...](http://9gag.com/gag/angnXAq)<!-- MEMES:END -->
 
 --- 
 
