@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Fixed Elden Ring Just For The Steam Deck](https://kotaku.com/elden-ring-valve-pc-steam-deck-namco-bandai-stuttering-1848664299)
- - [Sniper Elite 5 targets May release date](https://www.pcgamer.com/sniper-elite-5-targets-may-release-date)
- - [The best gaming headsets in Australia for 2022](https://www.pcgamer.com/the-best-gaming-headsets-in-australia-for-2022)<!-- GAME:END -->
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
+ - [$500,000 NFT Lawsuit Over Pepe The Frog&#39;s Butt Is A Very Funny Story](https://kotaku.com/pepe-frog-nft-lawsuit-sue-dao-matt-furie-halston-thayer-1848663957)
+ - [Valve Fixed Elden Ring Just For The Steam Deck](https://kotaku.com/elden-ring-valve-pc-steam-deck-namco-bandai-stuttering-1848664299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
