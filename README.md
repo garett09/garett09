@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: AI startup funding hit ~$93.5B in 2021, more than double 2020&#39;s figure, but the number of newly funded startups fell from 1,051 in 2019 to 746 in 2021 &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/220317/p2#a220317p2)
- - [Q&amp;A with vice PM Mykhailo Fedorov on Ukraine&#39;s digital public services, corporate sanctions against Russia, Clearview AI facial recognition, crypto, and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220317/p1#a220317p1)
- - [Elden Ring&#39;s New Patch Makes Some Huge Changes     - CNET](https://www.cnet.com/tech/gaming/elden-rings-new-patch-makes-some-huge-changes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s McLaren sponsorship puts the Android robot and Chrome wheels on its 2022 F1 car](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)
+ - [A look at the emergence of Kentucky as a small bitcoin mining powerhouse; an estimate says Kentucky produces more CO2 from crypto mining than any other US state &lpar;Avi Asher-Schapiro/Thomson Reuters ...&rpar;](http://www.techmeme.com/220317/p3#a220317p3)
+ - [Report: AI startup funding hit ~$93.5B in 2021, more than double 2020&#39;s figure, but the number of newly funded startups fell from 1,051 in 2019 to 746 in 2021 &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/220317/p2#a220317p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
