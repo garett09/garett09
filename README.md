@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued over sexual harassment allegations on &#39;Emancipation&#39; movie](https://appleinsider.com/articles/22/03/17/apple-sued-over-sexual-harassment-allegations-on-emancipation-movie?utm_medium=rss)
- - [Ukraine’s Digital Ministry Is a Formidable War Machine](https://www.wired.com/story/ukraine-digital-ministry-war)
- - [Conti Leak: A Ransomware Gang&#39;s Chats Expose Its Crypto Plans](https://www.wired.com/story/conti-ransomware-crypto-payments)<!-- TECH:END -->
+ - [iRobot update brings Siri support to Roomba vacuums &amp; Braava mops](https://appleinsider.com/articles/22/03/17/irobot-update-brings-siri-support-to-roomba-vacuums-braava-mops?utm_medium=rss)
+ - [NASA Finally Rolls Out Its Massive SLS Rocket, With Much at Stake](https://www.wired.com/story/nasa-finally-rolls-out-its-massive-sls-rocket-with-much-at-stake)
+ - [Death of the Password? FIDO Alliance Reveals Its New Plan](https://www.wired.com/story/fido-alliance-ios-android-password-replacement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
