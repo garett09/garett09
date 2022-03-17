@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will test tools that let brands control ad placements on Facebook and Instagram feeds to prevent ads from appearing next to unsuitable content &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220317/p25#a220317p25)
- - [Meghan Markle will launch Spotify podcast after meeting over ‘misinformation’ concerns](https://www.theverge.com/2022/3/17/22983375/meghan-markle-spotify-podcast-series-summer-2022-launch-archewell-audio)
- - [Clockwork, which says it can provide sync accuracy of less than five nanoseconds for time sensitive apps using hardware timestamps, raises a $21M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220317/p24#a220317p24)<!-- TECH:END -->
+ - [Apex Legends Mobile pre-registration is now open on Android](https://www.theverge.com/2022/3/17/22983608/apex-legends-mobile-pre-registration-android)
+ - [TikTok is rolling out its Snapchat-style stories to more users](https://www.theverge.com/2022/3/17/22983504/tiktok-snapchat-stories-rollout-feature)
+ - [Waterfield unveils new carryable &#39;Shield Case&#39; for Apple&#39;s Mac Studio](https://appleinsider.com/articles/22/03/17/waterfield-unveils-new-carryable-shield-case-for-apples-mac-studio?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
