@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wish me luck guys! Love for all 9gagger](http://9gag.com/gag/aE8VwGp)
- - 🚯 [A Ukrainian man with down syndrome has been baking bread for soldiers. Don\u2019t be too mean guys and gals.](http://9gag.com/gag/aE8VGMM)
- - 🚯 [My husband and I open a video game store in Bogot\u00e1, Colombia, since October 2021, we&#39;ve invest our savings and work, we don&#39;t have profit yet but we keep putting our effort. Any 9gager that wanna come here will has time free. I hope you wish us luck. All are wellcome.](http://9gag.com/gag/aXrNbd6)<!-- MEMES:END -->
+ - 🚖 [A Ukrainian man with down syndrome has been baking bread for soldiers. Don\u2019t be too mean guys and gals.](http://9gag.com/gag/aE8VGMM)
+ - 🚯 [Cross that Bingo ticket guys... Fukushima Earthquake 7.3. Richter degrees](http://9gag.com/gag/ay947nM)
+ - 🚯 [A man of focus commitment and sheer will](http://9gag.com/gag/a81mWOO)<!-- MEMES:END -->
 
 --- 
 
