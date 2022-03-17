@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s McLaren sponsorship puts the Android robot and Chrome wheels on its 2022 F1 car](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)
- - [A look at the emergence of Kentucky as a small bitcoin mining powerhouse; an estimate says Kentucky produces more CO2 from crypto mining than any other US state &lpar;Avi Asher-Schapiro/Thomson Reuters ...&rpar;](http://www.techmeme.com/220317/p3#a220317p3)
- - [Report: AI startup funding hit ~$93.5B in 2021, more than double 2020&#39;s figure, but the number of newly funded startups fell from 1,051 in 2019 to 746 in 2021 &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/220317/p2#a220317p2)<!-- TECH:END -->
+ - [Counterpoint: iPhones accounted for 37% of global 5G handset sales in January, as 5G phones made up more than half of global smartphone sales for the first time &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/220317/p4#a220317p4)
+ - [You told us: You won’t subscribe to YouTube Premium now that Vanced is gone](https://www.androidauthority.com/youtube-premium-subscribe-vanced-poll-results-3138159/)
+ - [Google&#39;s McLaren sponsorship puts the Android robot and Chrome wheels on its 2022 F1 car](https://www.theverge.com/2022/3/16/22981140/mclaren-f1-android-chrome-google-mcl36-sponsor-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
