@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All hail these 3D-printed Elden Ring Pot Boys](https://www.polygon.com/22983491/elden-ring-pot-boys-3d-printed)
- - [What level in Elden Ring should you be to beat Margit the Fell Omen?](https://www.polygon.com/elden-ring-guide-walkthrough/22983391/what-level-for-margit-fell-omen-boss-how-to-beat)
- - [HBO Max’s DMZ is too good of an idea to abandon like this](https://www.polygon.com/reviews/22983655/dmz-review-hbo-max)<!-- GAME:END -->
+ - [Thomas the Tank Engine is in Elden Ring now](https://www.pcgamer.com/thomas-the-tank-engine-is-in-elden-ring-now)
+ - [The Jujutsu Kaisen prequel movie has it all: an intro for newbies, satisfying action for fans](https://www.polygon.com/reviews/22858251/jujutsu-kaisen-0-review)
+ - [Tips For Getting Started and Making Money In GTA Online](https://kotaku.com/tips-for-getting-started-and-making-money-in-gta-online-1793715156)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
