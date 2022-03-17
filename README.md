@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Yandex is in negotiations to sell its media unit, including Yandex News and personal recommendations site Yandex Zen, possibly to social network VK &lpar;TechCrunch&rpar;](http://www.techmeme.com/220316/p34#a220316p34)
- - [Bored Ape Yacht Club creates a cryptocurrency to fund games, events, and merch](https://www.theverge.com/2022/3/16/22981916/apecoin-dao-launched-bayc-bored-ape-yuga-labs)
- - [Google Home app gets much-needed redesign with interactive buttons](https://www.theverge.com/2022/3/16/22981813/google-home-much-needed-redesign-buttons-interactive-adjustments)<!-- TECH:END -->
+ - [New StarTech Thunderbolt 4 dock provides enough power for a 16-inch MacBook Pro](https://appleinsider.com/articles/22/03/17/new-startech-thunderbolt-4-dock-provides-enough-power-for-a-16-inch-macbook-pro?utm_medium=rss)
+ - [Word Games to Play if You&#39;re Done With Wordle     - CNET](https://www.cnet.com/culture/internet/word-games-to-play-if-youre-done-with-wordle/#ftag=CAD590a51e)
+ - [The Best and Funniest Comedies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-and-funniest-comedies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
