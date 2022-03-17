@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Big Accelerator Memory: An SSD for your GPU](https://www.pcgamer.com/nvidias-big-accelerator-memory-an-ssd-for-your-gpu)
- - [The Mario Bros Have Earned A Beach Holiday](https://kotaku.com/super-mario-bros-beach-sunshine-vacation-art-fan-waluig-1848664653)
- - [G.Skill Trident Z5 RGB 2x16 GB DDR5-6400 CL32 Review](https://www.pcgamer.com/gskill-trident-z5-rgb-2x16-gb-ddr5-6400-cl32-review)<!-- GAME:END -->
+ - [Elden Ring’s First Big Patch Adds More Secrets, Quests and People To An Already Massive Game](https://kotaku.com/elden-ring-update-patch-nerf-npc-fromsoftware-namcoband-1848665226)
+ - [Listen to two devices simultaneously with these wireless earbuds](https://www.pcgamer.com/listen-to-two-devices-simultaneously-with-these-wireless-earbuds)
+ - [Huge Elden Ring update adds new quest phases, NPCs, and heaps more](https://www.pcgamer.com/elden-ring-v1-03-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
