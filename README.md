@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yup, I love volleyball...](http://9gag.com/gag/angnXAq)
- - 🚯 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)
- - 🚯 [How long do you think she\u2019s worked here?](http://9gag.com/gag/aAGErwd)<!-- MEMES:END -->
+ - 🚖 [Perfect graffiti does not exi\u2026 oops](http://9gag.com/gag/aVxEW6d)
+ - 🚯 [I don&#39;t know Rick, that sounds kinda fashist to me.](http://9gag.com/gag/azePV7m)
+ - 🚯 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)<!-- MEMES:END -->
 
 --- 
 
