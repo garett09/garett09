@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm says it has stopped selling its products to Russian companies in compliance with US-imposed sanctions after Russia invaded Ukraine &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220316/p38#a220316p38)
- - [Malware being installed by fraudsters using Apple&#39;s TestFlight](https://appleinsider.com/articles/22/03/17/malware-being-installed-by-fraudsters-using-apples-testflight?utm_medium=rss)
- - [The first NBA broadcast rendered with volumetric video puts basketball in the uncanny valley](https://www.theverge.com/2022/3/16/22982243/nets-mavericks-espn-nba-volumetric-video-canon)<!-- TECH:END -->
+ - [Q&amp;A with vice PM Mykhailo Fedorov on Ukraine&#39;s digital public services, corporate sanctions in Russia, Clearview AI partnership, crypto donations, and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220317/p1#a220317p1)
+ - [A profile of Nadine Dorries, who in her first six months as the UK&#39;s DCMS Secretary resurrected long-stalled tech legislation such as the Online Safety Bill &lpar;Annabelle Dickson/Politico&rpar;](http://www.techmeme.com/220316/p39#a220316p39)
+ - [Netflix now wants you to pay extra for sharing your account with others](https://www.androidauthority.com/netflix-paid-password-sharing-3138967/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
