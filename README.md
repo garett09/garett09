@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apex Legends Mobile pre-registration is now open on Android](https://www.theverge.com/2022/3/17/22983608/apex-legends-mobile-pre-registration-android)
- - [TikTok is rolling out its Snapchat-style stories to more users](https://www.theverge.com/2022/3/17/22983504/tiktok-snapchat-stories-rollout-feature)
- - [Waterfield unveils new carryable &#39;Shield Case&#39; for Apple&#39;s Mac Studio](https://appleinsider.com/articles/22/03/17/waterfield-unveils-new-carryable-shield-case-for-apples-mac-studio?utm_medium=rss)<!-- TECH:END -->
+ - [Bored Ape Yacht Club&#39;s $APE token hit a peak of $39.40 per token during its airdrop, but later sank as low as $7.50 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220317/p30#a220317p30)
+ - [Watch 14 minutes of gameplay from Hogwarts Legacy, the upcoming Harry Potter RPG](https://www.theverge.com/2022/3/17/22983770/hogwarts-legacy-harry-potter-rpg-gameplay-reveal-trailer-release-date)
+ - [Snap updates its app building policies for developers to ban anonymous messaging apps and restrict friend-finding apps to 18+, following teen suicide lawsuits &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220317/p29#a220317p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
