@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is World of Warcraft - Feel](http://9gag.com/gag/ajgOYL1)
- - 🚯 [Earthquake Japan](http://9gag.com/gag/amgGqwV)
- - 🚯 [Can we have a pause please?](http://9gag.com/gag/aWgLBA2)<!-- MEMES:END -->
+ - 🚖 [My husband and I open a video game store in Bogot\u00e1, Colombia, since October 2021, we&#39;ve invest our savings and work, we don&#39;t have profit yet but we keep putting our effort. Any 9gager that wanna come here will has time free. I hope you wish us luck. All are wellcome.](http://9gag.com/gag/aXrNbd6)
+ - 🚯 [ICJ ruling done](http://9gag.com/gag/aBnL9NN)
+ - 🚯 [Hahaha](http://9gag.com/gag/aOQ4yyE)<!-- MEMES:END -->
 
 --- 
 
