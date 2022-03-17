@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)
- - [Tile adds Scan and Secure, its first anti-stalking feature, to its app after announcing it in October 2021; users don&#39;t need a Tile account to use the feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220317/p23#a220317p23)
- - [The Amazon Warehouse Walkout Is Just the Latest Push](https://www.wired.com/story/amazonians-unite-walkouts)<!-- TECH:END -->
+ - [AI suggested 40,000 new possible chemical weapons in just six hours](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx)
+ - [Watch NASA roll out its new mega-rocket, the Space Launch System, for the first time](https://www.theverge.com/2022/3/17/22982792/nasa-sls-mobile-launch-platform-roll-out-watch-live-stream)
+ - [Russia&#39;s Killer Drone in Ukraine Raises Fears About AI in Warfare](https://www.wired.com/story/ai-drones-russia-ukraine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
