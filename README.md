@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite gets Doctor Who&#39;s TARDIS and a bundle of themed modes](https://www.pcgamer.com/fortnite-gets-doctor-whos-tardis-and-a-bundle-of-themed-missions)
- - [Monster Energy Supercross 5: The Official Videogame is Available Now](https://news.xbox.com/en-us/2022/03/17/monster-energy-supercross-5-the-official-videogame-is-available-now/)
- - [Warhammer 40K publisher Games Workshop stops selling products in Russia](https://www.polygon.com/tabletop-games/22983277/games-workshop-russia-ukraine-sales-warhammer-40k-age-of-sigmar)<!-- GAME:END -->
+ - [Advance into the Shadows with Star Trek Online](https://news.xbox.com/en-us/2022/03/17/advance-into-the-shadows-with-star-trek-online/)
+ - [Elden Ring’s most annoying PvP exploit has been fixed](https://www.polygon.com/22983055/elden-ring-patch-pvp-exploit-eclipse-shotel-fires-deadly-sin-mimic-tear)
+ - [The Flight Attendant season 2 is going full-scale international spy thriller](https://www.polygon.com/22983267/the-flight-attendant-season-2-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
