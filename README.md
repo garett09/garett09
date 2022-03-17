@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot update brings Siri support to Roomba vacuums &amp; Braava mops](https://appleinsider.com/articles/22/03/17/irobot-update-brings-siri-support-to-roomba-vacuums-braava-mops?utm_medium=rss)
- - [NASA Finally Rolls Out Its Massive SLS Rocket, With Much at Stake](https://www.wired.com/story/nasa-finally-rolls-out-its-massive-sls-rocket-with-much-at-stake)
- - [Death of the Password? FIDO Alliance Reveals Its New Plan](https://www.wired.com/story/fido-alliance-ios-android-password-replacement)<!-- TECH:END -->
+ - [Apple Studio Display review: sharp 5K display but the webcam is terrible, no features like HDR, local dimming, and variable refresh rate, and is very expensive &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220317/p11#a220317p11)
+ - [Apple Mac Studio review: compact design with insanely fast M1 Ultra and great port selection but expensive and the graphics performance is not very impressive &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220317/p10#a220317p10)
+ - [How to use Live Listen and surveil what&#39;s around your iPhone with AirPods in iOS 15](https://appleinsider.com/articles/22/03/17/how-to-use-live-listen-and-surveil-whats-around-your-iphone-with-airpods-in-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
