@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Ukrainian man with down syndrome has been baking bread for soldiers. Don\u2019t be too mean guys and gals.](http://9gag.com/gag/aE8VGMM)
- - 🚯 [Cross that Bingo ticket guys... Fukushima Earthquake 7.3. Richter degrees](http://9gag.com/gag/ay947nM)
- - 🚯 [A man of focus commitment and sheer will](http://9gag.com/gag/a81mWOO)<!-- MEMES:END -->
+ - 🚖 [We are family](http://9gag.com/gag/arnA4g6)
+ - 🚯 [Is that time of the year again](http://9gag.com/gag/aqG8ZMR)
+ - 🚯 [That was always my backup plan when I was in high school](http://9gag.com/gag/aYrOp9x)<!-- MEMES:END -->
 
 --- 
 
