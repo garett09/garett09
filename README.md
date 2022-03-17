@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Costume idea](http://9gag.com/gag/azePVEp)
- - 🚯 [Prezent for my hooman](http://9gag.com/gag/a11DYrv)
- - 🚯 [It&#39;s like winter to them](http://9gag.com/gag/aAGErvZ)<!-- MEMES:END -->
+ - 🚖 [Britain has best restaurants...](http://9gag.com/gag/aegO0OW)
+ - 🚯 [I don&#39;t know Rick, that sounds kinda fashist to me.](http://9gag.com/gag/azePV7m)
+ - 🚯 [Foodie](http://9gag.com/gag/aNPvZOK)<!-- MEMES:END -->
 
 --- 
 
