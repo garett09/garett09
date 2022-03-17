@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think i need to move to japan](http://9gag.com/gag/ajgODq1)
- - 🚯 [So, how dangerous is the job? Yes.](http://9gag.com/gag/aqG8LQZ)
- - 🚯 [Customer stated, her turn signal is broke.](http://9gag.com/gag/ay94dvW)<!-- MEMES:END -->
+ - 🚖 [Customer stated, her turn signal is broke.](http://9gag.com/gag/ay94dvW)
+ - 🚯 [I think i need to move to japan](http://9gag.com/gag/ajgODq1)
+ - 🚯 [So, how dangerous is the job? Yes.](http://9gag.com/gag/aqG8LQZ)<!-- MEMES:END -->
 
 --- 
 
