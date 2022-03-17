@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Advance into the Shadows with Star Trek Online](https://news.xbox.com/en-us/2022/03/17/advance-into-the-shadows-with-star-trek-online/)
- - [Elden Ring’s most annoying PvP exploit has been fixed](https://www.polygon.com/22983055/elden-ring-patch-pvp-exploit-eclipse-shotel-fires-deadly-sin-mimic-tear)
- - [The Flight Attendant season 2 is going full-scale international spy thriller](https://www.polygon.com/22983267/the-flight-attendant-season-2-trailer)<!-- GAME:END -->
+ - [Nicolas Cage battles his own past and future in The Unbearable Weight of Massive Talent](https://www.polygon.com/22983530/the-unbearable-weight-of-massive-talent-review-nicolas-cage)
+ - [Hearthstone’s next expansion is the Naga-themed Voyage to the Sunken City](https://www.polygon.com/22983461/hearthstone-expansion-voyage-to-the-sunken-city-naga-azshara)
+ - [Gorgeous Zelda-Like Tunic Is Exactly What I Needed Right Now](https://kotaku.com/tunic-xbox-game-pass-zelda-dark-souls-fez-indie-impress-1848668747)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
