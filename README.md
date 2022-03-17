@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces its first QD-OLED TV, shares pricing for 2022 lineup](https://www.theverge.com/2022/3/17/22983098/samsung-qd-oled-announced-pricing-preorders-neo-qled)
- - [The Flight Attendant’s season 2 trailer promises a turbulent spycraft turn](https://www.theverge.com/2022/3/17/22983089/flight-attendant-season-2-trailer-release-date-hbo-max)
- - [Second Android 13 developer preview is here with new handling of notifications](https://www.androidauthority.com/android-13-dp-2-3139412/)<!-- TECH:END -->
+ - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)
+ - [Tile adds Scan and Secure, its first anti-stalking feature, to its app after announcing it in October 2021; users don&#39;t need a Tile account to use the feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220317/p23#a220317p23)
+ - [The Amazon Warehouse Walkout Is Just the Latest Push](https://www.wired.com/story/amazonians-unite-walkouts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
