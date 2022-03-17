@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with vice PM Mykhailo Fedorov on Ukraine&#39;s digital public services, corporate sanctions in Russia, Clearview AI partnership, crypto donations, and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220317/p1#a220317p1)
- - [A profile of Nadine Dorries, who in her first six months as the UK&#39;s DCMS Secretary resurrected long-stalled tech legislation such as the Online Safety Bill &lpar;Annabelle Dickson/Politico&rpar;](http://www.techmeme.com/220316/p39#a220316p39)
- - [Netflix now wants you to pay extra for sharing your account with others](https://www.androidauthority.com/netflix-paid-password-sharing-3138967/)<!-- TECH:END -->
+ - [Report: AI startup funding hit ~$93.5B in 2021, more than double 2020&#39;s figure, but the number of newly funded startups fell from 1,051 in 2019 to 746 in 2021 &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/220317/p2#a220317p2)
+ - [Q&amp;A with vice PM Mykhailo Fedorov on Ukraine&#39;s digital public services, corporate sanctions against Russia, Clearview AI facial recognition, crypto, and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220317/p1#a220317p1)
+ - [Elden Ring&#39;s New Patch Makes Some Huge Changes     - CNET](https://www.cnet.com/tech/gaming/elden-rings-new-patch-makes-some-huge-changes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
