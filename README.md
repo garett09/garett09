@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm says it has stopped selling its products to Russian companies in compliance with US-imposed sanctions after Russia invaded Ukraine &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220316/p38#a220316p38)
  - [Malware being installed by fraudsters using Apple&#39;s TestFlight](https://appleinsider.com/articles/22/03/17/malware-being-installed-by-fraudsters-using-apples-testflight?utm_medium=rss)
- - [The first NBA broadcast rendered with volumetric video puts basketball in the uncanny valley](https://www.theverge.com/2022/3/16/22982243/nets-mavericks-espn-nba-volumetric-video-canon)
- - [Tech execs may face criminal prosecution or jail time for failure to comply with Ofcom within two months after UK&#39;s Online Safety Bill, if passed, takes effect &lpar;The Information&rpar;](http://www.techmeme.com/220316/p37#a220316p37)<!-- TECH:END -->
+ - [The first NBA broadcast rendered with volumetric video puts basketball in the uncanny valley](https://www.theverge.com/2022/3/16/22982243/nets-mavericks-espn-nba-volumetric-video-canon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
