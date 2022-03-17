@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine legalizes cryptocurrency as it receives millions in crypto donations](https://www.theverge.com/2022/3/17/22982608/ukraine-crypotcurrency-sector-legalized-zelenskyy-signs-bill)
- - [The CEOs of Intel and Micron will testify on March 23 before the US Senate Commerce Committee to make the case for $52B in US subsidies for chip manufacturing &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/220317/p5#a220317p5)
- - [Counterpoint: iPhones accounted for 37% of global 5G handset sales in January, as 5G phones made up more than half of global smartphone sales for the first time &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/220317/p4#a220317p4)<!-- TECH:END -->
+ - [Apple sued over sexual harassment allegations on &#39;Emancipation&#39; movie](https://appleinsider.com/articles/22/03/17/apple-sued-over-sexual-harassment-allegations-on-emancipation-movie?utm_medium=rss)
+ - [Ukraine’s Digital Ministry Is a Formidable War Machine](https://www.wired.com/story/ukraine-digital-ministry-war)
+ - [Conti Leak: A Ransomware Gang&#39;s Chats Expose Its Crypto Plans](https://www.wired.com/story/conti-ransomware-crypto-payments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
