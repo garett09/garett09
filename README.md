@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Overpowered](http://9gag.com/gag/aGz8R76)
- - 🚯 [You&#39;re the best Arnold!](http://9gag.com/gag/aDDnoQB)
- - 🚯 [The Strid. A quaint little stream in the middle of woodland in the UK that has a near 100% fatality rate if you fall in.](http://9gag.com/gag/aDDnmEG)<!-- MEMES:END -->
+ - 🚖 [Where we&#39;re going we don&#39;t need broads](http://9gag.com/gag/aAGE1KE)
+ - 🚯 [Swedish soldier protecting Gotland](http://9gag.com/gag/awzm74B)
+ - 🚯 [Modern Mess](http://9gag.com/gag/aogVjAn)<!-- MEMES:END -->
 
 --- 
 
