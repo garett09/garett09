@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Britain has best restaurants...](http://9gag.com/gag/aegO0OW)
- - 🚯 [I don&#39;t know Rick, that sounds kinda fashist to me.](http://9gag.com/gag/azePV7m)
- - 🚯 [Foodie](http://9gag.com/gag/aNPvZOK)<!-- MEMES:END -->
+ - 🚖 [`How dare he!`](http://9gag.com/gag/apgD0DE)
+ - 🚯 [Prezent for my hooman](http://9gag.com/gag/a11DYrv)
+ - 🚯 [The Strid. A quaint little stream in the middle of woodland in the UK that has a near 100% fatality rate if you fall in.](http://9gag.com/gag/aDDnmEG)<!-- MEMES:END -->
 
 --- 
 
