@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think i need to move to japan](http://9gag.com/gag/ajgODq1)
- - 🚯 [How Ukrainians escort their fallen soldiers.](http://9gag.com/gag/aegO6mj)
- - 🚯 [Nestle will continue to operate in ruZZia](http://9gag.com/gag/apgDvD8)<!-- MEMES:END -->
+ - 🚖 [Church of climate is blocking an ambulance in Germany. Absolute disgust.](http://9gag.com/gag/a31ALov)
+ - 🚯 [So, how dangerous is the job? Yes.](http://9gag.com/gag/aqG8LQZ)
+ - 🚯 [I think i need to move to japan](http://9gag.com/gag/ajgODq1)<!-- MEMES:END -->
 
 --- 
 
