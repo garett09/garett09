@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)
- - [Today&#39;s Wordle answer #271: Thursday, March 17](https://www.pcgamer.com/wordle-march-17-271-words-ending-in-ie)
- - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever-sponsored)<!-- GAME:END -->
+ - [Moss: Book II launches March 31, new PS VR gameplay revealed](https://blog.playstation.com/2022/03/17/moss-book-ii-launches-march-31-new-ps-vr-gameplay-revealed/)
+ - [Moss: Book II launches March 31, new PS VR gameplay revealed](https://blog.playstation.com/2022/03/17/moss-book-ii-launches-march-31-new-ps-vr-gameplay-revealed/)
+ - [Netflix’s live-action Resident Evil series gets teaser art, summer release date](https://www.polygon.com/22982646/netflix-resident-evil-series-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
