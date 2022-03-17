@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display review: sharp 5K display but the webcam is terrible, no features like HDR, local dimming, and variable refresh rate, and is very expensive &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220317/p11#a220317p11)
- - [Apple Mac Studio review: compact design with insanely fast M1 Ultra and great port selection but expensive and the graphics performance is not very impressive &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220317/p10#a220317p10)
- - [How to use Live Listen and surveil what&#39;s around your iPhone with AirPods in iOS 15](https://appleinsider.com/articles/22/03/17/how-to-use-live-listen-and-surveil-whats-around-your-iphone-with-airpods-in-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [Studio Display review roundup: From &#39;delightful&#39; to &#39;unusable&#39;](https://appleinsider.com/articles/22/03/17/studio-display-review-roundup-from-delightful-to-unusable?utm_medium=rss)
+ - [Humble’s indie lineup includes Monaco 2 and a musical RPG](https://www.theverge.com/2022/3/17/22981048/humble-games-indie-showcase-monaco-2-stray-gods)
+ - [T-Mobile teams up with BMW for the first 5G-connected cars in the US](https://www.theverge.com/2022/3/17/22982818/tmobile-bmw-first-5g-connected-cars-united-states-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
