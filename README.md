@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amplience, which lets companies build ecommerce services based on the MACH architecture, raises a $100M Series D, bringing its total funding to $180M &lpar;Chris J. Preimesberger/VentureBeat&rpar;](http://www.techmeme.com/220317/p17#a220317p17)
- - [How to turn your Echo Show into a digital photo frame](https://www.theverge.com/22982857/how-to-echo-show-amazon-digital-photo-frame)
- - [The creators of Until Dawn are making another interactive teen slasher](https://www.theverge.com/2022/3/17/22980954/the-quarry-supermassive-horror-game-release-date-ps5-xbox-steam)<!-- TECH:END -->
+ - [Samsung announces its first QD-OLED TV, shares pricing for 2022 lineup](https://www.theverge.com/2022/3/17/22983098/samsung-qd-oled-announced-pricing-preorders-neo-qled)
+ - [The Flight Attendant’s season 2 trailer promises a turbulent spycraft turn](https://www.theverge.com/2022/3/17/22983089/flight-attendant-season-2-trailer-release-date-hbo-max)
+ - [Second Android 13 developer preview is here with new handling of notifications](https://www.androidauthority.com/android-13-dp-2-3139412/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
