@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where we&#39;re going we don&#39;t need broads](http://9gag.com/gag/aAGE1KE)
- - 🚯 [Modern Mess](http://9gag.com/gag/aogVjAn)
+ - 🚖 [I think i need to move to japan](http://9gag.com/gag/ajgODq1)
+ - 🚯 [How Ukrainians escort their fallen soldiers.](http://9gag.com/gag/aegO6mj)
  - 🚯 [Nestle will continue to operate in ruZZia](http://9gag.com/gag/apgDvD8)<!-- MEMES:END -->
 
 --- 
