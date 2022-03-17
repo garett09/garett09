@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing The Teen-Horror Experience of the Summer: The Quarry](https://news.xbox.com/en-us/2022/03/17/introducing-the-teen-horror-experience-of-the-summer-the-quarry/)
- - [How to complete the Jar-Bairn quest in Elden Ring](https://www.pcgamer.com/elden-ring-jar-bairn-quest)
- - [The evolved form of my most beloved gaming headset is £45 off](https://www.pcgamer.com/the-evolved-form-of-my-most-beloved-gaming-headset-is-pound45-off)<!-- GAME:END -->
+ - [Fortnite gets Doctor Who&#39;s TARDIS and a bundle of themed modes](https://www.pcgamer.com/fortnite-gets-doctor-whos-tardis-and-a-bundle-of-themed-missions)
+ - [Monster Energy Supercross 5: The Official Videogame is Available Now](https://news.xbox.com/en-us/2022/03/17/monster-energy-supercross-5-the-official-videogame-is-available-now/)
+ - [Warhammer 40K publisher Games Workshop stops selling products in Russia](https://www.polygon.com/tabletop-games/22983277/games-workshop-russia-ukraine-sales-warhammer-40k-age-of-sigmar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
