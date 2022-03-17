@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Siege&#39;s new Operator could change up the meta forever](https://www.pcgamer.com/rainbow-six-sieges-new-operator-could-change-up-the-meta-forever)
  - [Elden Ring’s First Big Patch Adds More Secrets, Quests and People To An Already Massive Game](https://kotaku.com/elden-ring-update-patch-nerf-npc-fromsoftware-namcoband-1848665226)
- - [Listen to two devices simultaneously with these wireless earbuds](https://www.pcgamer.com/listen-to-two-devices-simultaneously-with-these-wireless-earbuds)
- - [Huge Elden Ring update adds new quest phases, NPCs, and heaps more](https://www.pcgamer.com/elden-ring-v1-03-patch-notes)<!-- GAME:END -->
+ - [Listen to two devices simultaneously with these wireless earbuds](https://www.pcgamer.com/listen-to-two-devices-simultaneously-with-these-wireless-earbuds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
