@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima: Legends – Finding the fun in Multiplayer](https://blog.playstation.com/2022/03/18/ghost-of-tsushima-legends-finding-the-fun-in-multiplayer/)
- - [Ghost of Tsushima: Legends – Finding the fun in Multiplayer](https://blog.playstation.com/2022/03/18/ghost-of-tsushima-legends-finding-the-fun-in-multiplayer/)
- - [Apex Legends&#39; Unmissable Queer Love Triangle Is A Triumph](https://kotaku.com/apex-legends-bangalore-loba-valkyrie-lesbian-queer-over-1848669384)<!-- GAME:END -->
+ - [Share of the Week: Gran Turismo 7](https://blog.playstation.com/2022/03/18/share-of-the-week-gran-turismo-7/)
+ - [Share of the Week: Gran Turismo 7](https://blog.playstation.com/2022/03/18/share-of-the-week-gran-turismo-7/)
+ - [Sci-fi Souls-like Dolmen Launching May 20 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/18/sci-fi-souls-like-dolmen-launching-may-20-for-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
