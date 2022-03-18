@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Drummer From The Police Has A Weird Bobby Kotick Story](https://kotaku.com/bobby-kotick-stewart-copeland-the-police-spyro-the-drag-1848670642)
  - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [This Carmen Sandiego-Inspired Detective Game Requires Real-World Sleuthing](https://kotaku.com/chinatown-detective-agency-mystery-cyberpunk-singapore-1848669878)
- - [Crusader Kings III Makes A Change Following Russia&#39;s Invasion Of Ukraine](https://kotaku.com/crusader-kings-iii-ck3-ckiii-kiev-kyiv-russia-ukraine-w-1848669659)<!-- GAME:END -->
+ - [This Carmen Sandiego-Inspired Detective Game Requires Real-World Sleuthing](https://kotaku.com/chinatown-detective-agency-mystery-cyberpunk-singapore-1848669878)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
