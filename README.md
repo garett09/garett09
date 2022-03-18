@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/a31Aw8Q)
- - 🚯 [The second cat is just as confused](http://9gag.com/gag/axBv7oW)
- - 🚯 [This](http://9gag.com/gag/aWgLEQq)<!-- MEMES:END -->
+ - 🚖 [Killer Arm Muscles](http://9gag.com/gag/aAGE3mo)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/aOQ40m6)
+ - 🚯 [Efficiency ` even their missiles hate them `](http://9gag.com/gag/ay94eM8)<!-- MEMES:END -->
 
 --- 
 
