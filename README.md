@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Vitalik Buterin, who says he has decided to become &quot;more risk-taking and less neutral&quot; in order to more actively shape the future of Ethereum &lpar;Andrew R. Chow/TIME&rpar;](http://www.techmeme.com/220318/p7#a220318p7)
- - [Top deals March 18: $500 off Vizio 75-inch AirPlay 2 TV, $250 off Lenovo Flex 5 14-inch 2-in-1 Laptop, WD Black NVMe SSD $110](https://appleinsider.com/articles/22/03/18/top-deals-march-18-500-off-vizio-75-inch-airplay-2-tv-250-off-lenovo-flex-5-14-inch-2-in-1-laptop-wd-black-nvme-ssd-110?utm_medium=rss)
- - [Google’s Android statues are all missing, but where did they go?](https://www.androidauthority.com/android-statues-missing-3140344/)<!-- TECH:END -->
+ - [Hummer EV recalled over faulty taillight software — and quickly fixed](https://www.theverge.com/2022/3/18/22984911/hummer-ev-recall-taillight-software-fixed)
+ - [Get $379 of freebies with the new iPhone SE, and more of the best iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [WeCrashed is the podcast-to-TV-show pipeline’s weirdest one yet](https://www.theverge.com/22984498/wecrashed-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
