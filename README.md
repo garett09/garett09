@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looming oil crisis has energy watchdog begging people to drive less](https://www.theverge.com/2022/3/18/22985024/international-energy-agency-oil-crisis-drive-less)
- - [UK&#39;s FCA so far authorized just 27 of 100+ applications to join its list of registered crypto companies that can run digital assets businesses starting in April &lpar;Financial Times&rpar;](http://www.techmeme.com/220318/p12#a220318p12)
- - [How to turn off active status on Instagram](https://www.androidauthority.com/disable-active-status-instagram-3137350/)<!-- TECH:END -->
+ - [The Overwatch 2 closed beta starts April 26th on PC only](https://www.theverge.com/2022/3/18/22984763/overwatch-2-beta-release-date-faq-activision-blizzard)
+ - [Instacart says it’s adding a fuel surcharge to help drivers paying high gas prices](https://www.theverge.com/2022/3/18/22985380/instacart-fuel-surcharge-gas-prices-delivery-rideshare-lyft-uber)
+ - [Brazil&#39;s Supreme Court orders the suspension of Telegram within 24 hours, saying it repeatedly refused to adhere to judicial orders or comply with Brazil&#39;s laws &lpar;Reuters&rpar;](http://www.techmeme.com/220318/p14#a220318p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
