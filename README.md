@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbit for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [&#39;iPhone 14 Pro&#39; leaks, iPad Air review roundup, and iOS 15.4 on the AppleInsider podcast](https://appleinsider.com/articles/22/03/18/iphone-14-pro-leaks-ipad-air-review-roundup-and-ios-154-on-the-appleinsider-podcast?utm_medium=rss)
- - [Porsche executives visited Apple to discuss expanding car projects together](https://appleinsider.com/articles/22/03/18/porsche-executives-visited-apple-to-discuss-expanding-car-projects-together?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech G413 TKL SE review: you get what you pay for](https://www.theverge.com/22984595/logitech-g413-tkl-se-review-mechanical-gaming-keyboard)
+ - [C2X, which is building a gaming platform on the Terra blockchain, raises $25M through a private token sale led by FTX Ventures and others at a $500M valuation &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/220318/p4#a220318p4)
+ - [Gran Turismo 7 server problems have cut off most of the game’s features for more than a day](https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
