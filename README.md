@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ethan Suplee,also known as Randy from `My name is Earl.`](http://9gag.com/gag/awzmAzr)
- - 🚯 [What a photo](http://9gag.com/gag/aRrZ3v2)
- - 🚯 [Clearly](http://9gag.com/gag/a619KwR)<!-- MEMES:END -->
+ - 🚖 [Efficiency ` even their missiles hate them `](http://9gag.com/gag/ay94eM8)
+ - 🚯 [Kadirov&#39;s liberators receiving warm welcome from Ukrainian citizens](http://9gag.com/gag/amgGB0X)
+ - 🚯 [3 out of 4 people in Finland are happy. Making it the happiest country in the world.](http://9gag.com/gag/ajgO5vg)<!-- MEMES:END -->
 
 --- 
 
