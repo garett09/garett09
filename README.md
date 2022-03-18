@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously. They are hazardous, make their life more difficult, look stupid and require unnecessary extra care.](http://9gag.com/gag/a71eD7x)
- - 🚯 [What a recovery](http://9gag.com/gag/ajgOX9R)
+ - 🚖 [$5.57](http://9gag.com/gag/abgOzQv)
+ - 🚯 [Cat video of the day](http://9gag.com/gag/aLveDZA)
  - 🚯 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)<!-- MEMES:END -->
 
 --- 
