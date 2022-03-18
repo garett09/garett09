@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s Competition and Consumer Commission sues Meta for allegedly publishing scam cryptocurrency ads on Facebook with photos of Australian public figures &lpar;Sameer Manekar/Reuters&rpar;](http://www.techmeme.com/220317/p34#a220317p34)
- - [The UK&#39;s Online Safety Bill, introduced to Parliament, faces competing pressures, raises confusions over basic terms and concerns over free speech, and more &lpar;Rowland Manthorpe/Sky News&rpar;](http://www.techmeme.com/220317/p33#a220317p33)
- - [The NLRB is suing Amazon to get a fired activist his job back](https://www.theverge.com/2022/3/17/22983692/nlrb-amazon-labor-activism-gerald-bryson-jfk8-warehouse-injunction)<!-- TECH:END -->
+ - [Best 2022 iPhone SE 3 cases: Apple, OtterBox, Totallee &amp; more](https://appleinsider.com/inside/iphone-se/best/best-iphone-se-cases?utm_medium=rss)
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
+ - [Avive, which is building a connected, data-sharing response service for out-of-hospital cardiac arrest emergencies, raises a $22M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/220317/p35#a220317p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
