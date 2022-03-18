@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hummer EV recalled over faulty taillight software — and quickly fixed](https://www.theverge.com/2022/3/18/22984911/hummer-ev-recall-taillight-software-fixed)
- - [Get $379 of freebies with the new iPhone SE, and more of the best iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [WeCrashed is the podcast-to-TV-show pipeline’s weirdest one yet](https://www.theverge.com/22984498/wecrashed-review-apple-tv-plus)<!-- TECH:END -->
+ - [Xbox Cloud Gaming now supports Steam Deck through Microsoft Edge](https://www.theverge.com/22985166/xbox-cloud-gaming-steam-deck-microsoft-edge-beta)
+ - [Humble Bundle organizes Stand With Ukraine charity bundle](https://www.theverge.com/2022/3/18/22983137/humble-bundle-stand-with-ukraine-charity-bundle-price)
+ - [How to create or duplicate an event on Facebook](https://www.androidauthority.com/create-event-facebook-3139644/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
