@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Gran Turismo 7](https://blog.playstation.com/2022/03/18/share-of-the-week-gran-turismo-7/)
- - [Share of the Week: Gran Turismo 7](https://blog.playstation.com/2022/03/18/share-of-the-week-gran-turismo-7/)
- - [Sci-fi Souls-like Dolmen Launching May 20 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/03/18/sci-fi-souls-like-dolmen-launching-may-20-for-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
+ - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
+ - [Elden Ring’s bomb-wielding birds are out of control](https://www.polygon.com/22984954/elden-ring-enemies-birds-dogs-tough-fights)
+ - [Elden Ring Fans Are Using Cheats To Equip Notorious Cut Underwear](https://kotaku.com/elden-ring-fia-underwear-deathbed-smalls-cheat-code-arm-1848672777)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
