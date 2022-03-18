@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD confirms the Ryzen 7 5800X3D won&#39;t support overclocking](https://www.pcgamer.com/amd-confirms-the-ryzen-7-5800x3d-wont-support-overclocking)
  - [Best graphics card deals in Australia &lpar;March 2022&rpar;](https://www.pcgamer.com/best-graphics-card-deals-in-australia-march-2022)
- - [The Drummer From The Police Has A Weird Bobby Kotick Story](https://kotaku.com/bobby-kotick-stewart-copeland-the-police-spyro-the-drag-1848670642)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [The Drummer From The Police Has A Weird Bobby Kotick Story](https://kotaku.com/bobby-kotick-stewart-copeland-the-police-spyro-the-drag-1848670642)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
