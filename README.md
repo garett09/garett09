@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 3 specs leak: Another rebrand on the cards?](https://www.androidauthority.com/oneplus-nord-3-specs-rebrand-3139000/)
- - [Russia&#39;s disconnection from Western online services raises fears of a &quot;splinternet&quot;, networks with incompatible protocols diverging from today&#39;s global internet &lpar;James Ball/MIT Technology Review&rpar;](http://www.techmeme.com/220318/p1#a220318p1)
- - [Mac Studio discounts are here: save $200 to $400 on M1 Max, M1 Ultra models](https://appleinsider.com/articles/22/03/18/mac-studio-discounts-are-here-save-200-to-400-on-m1-max-m1-ultra-models?utm_medium=rss)<!-- TECH:END -->
+ - [Pete Davidson won’t actually be going to space on the next Blue Origin flight](https://www.theverge.com/2022/3/18/22984441/blue-origin-space-pete-davidson-new-shepard)
+ - [Samsung Galaxy A73 announced: 108MP camera comes to the A series](https://www.androidauthority.com/samsung-galaxy-a73-launch-3140020/)
+ - [OnePlus Nord 3 specs leak: Another rebrand on the cards?](https://www.androidauthority.com/oneplus-nord-3-specs-rebrand-3139000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
