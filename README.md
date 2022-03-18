@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia&#39;s disconnection from Western online services raises fears of a &quot;splinternet&quot;, networks with incompatible protocols diverging from today&#39;s global internet &lpar;James Ball/MIT Technology Review&rpar;](http://www.techmeme.com/220318/p1#a220318p1)
  - [Mac Studio discounts are here: save $200 to $400 on M1 Max, M1 Ultra models](https://appleinsider.com/articles/22/03/18/mac-studio-discounts-are-here-save-200-to-400-on-m1-max-m1-ultra-models?utm_medium=rss)
- - [Blue Origin Won&#39;t Be Blasting Pete Davidson to Space Later This Month     - CNET](https://www.cnet.com/science/space/blue-origin-wont-be-blasting-pete-davidson-to-space-later-this-month/#ftag=CAD590a51e)
- - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blue Origin Won&#39;t Be Blasting Pete Davidson to Space Later This Month     - CNET](https://www.cnet.com/science/space/blue-origin-wont-be-blasting-pete-davidson-to-space-later-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
