@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best graphics card deals in Australia &lpar;March 2022&rpar;](https://www.pcgamer.com/best-graphics-card-deals-in-australia-march-2022)
  - [The Drummer From The Police Has A Weird Bobby Kotick Story](https://kotaku.com/bobby-kotick-stewart-copeland-the-police-spyro-the-drag-1848670642)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [This Carmen Sandiego-Inspired Detective Game Requires Real-World Sleuthing](https://kotaku.com/chinatown-detective-agency-mystery-cyberpunk-singapore-1848669878)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
