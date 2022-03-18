@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 2022 iPhone SE 3 cases: Apple, OtterBox, Totallee &amp; more](https://appleinsider.com/inside/iphone-se/best/best-iphone-se-cases?utm_medium=rss)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [Avive, which is building a connected, data-sharing response service for out-of-hospital cardiac arrest emergencies, raises a $22M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/220317/p35#a220317p35)<!-- TECH:END -->
+ - [Blue Origin Won&#39;t Be Blasting Pete Davidson to Space Later This Month     - CNET](https://www.cnet.com/science/space/blue-origin-wont-be-blasting-pete-davidson-to-space-later-this-month/#ftag=CAD590a51e)
+ - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix/#ftag=CAD590a51e)
+ - [Best 2022 iPhone SE 3 cases: Apple, OtterBox, Totallee &amp; more](https://appleinsider.com/inside/iphone-se/best/best-iphone-se-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
