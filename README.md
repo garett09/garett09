@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I Just Want to Do Nothing... I Feel Like Nothing is Worth the Try... I just Want to Sleep.](http://9gag.com/gag/aRrZKLj)
- - 🚯 [Low IQ = Difficulty understanding a simple rule](http://9gag.com/gag/arnANQp)
+ - 🚖 [Seriously. They are hazardous, make their life more difficult, look stupid and require unnecessary extra care.](http://9gag.com/gag/a71eD7x)
+ - 🚯 [What a recovery](http://9gag.com/gag/ajgOX9R)
  - 🚯 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)<!-- MEMES:END -->
 
 --- 
