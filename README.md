@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy goes full cringe in the best way](https://www.polygon.com/gaming/2022/3/18/22984719/final-fantasy-stranger-of-paradise-cringe-camp)
- - [Spider-Man: No Way Home and every new movie you can stream from home this week](https://www.polygon.com/2022/3/18/22976797/new-movies-watch-spider-man-no-way-home-netflix-black-crab)
- - [He Says It&#39;s The &#39;Best Grass&#39; In Video Games, Daring Other Devs To One-Up Him](https://kotaku.com/lushfoil-photography-simulator-steam-pc-tiktok-1848666248)<!-- GAME:END -->
+ - [Netflix’s thriller Windfall ponders how nice it would be to rob Mark Zuckerberg](https://www.polygon.com/22985672/windfall-review-netflix-jesse-plemons-jason-segel)
+ - [Humble&#39;s Stand With Ukraine bundle raises over $2M in less than a day](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-over-dollar2m-in-less-than-a-day)
+ - [Two reports paint a troubling picture of workplace abuses at acclaimed indie studios](https://www.pcgamer.com/two-reports-paint-a-troubling-picture-of-workplace-abuses-at-acclaimed-indie-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
