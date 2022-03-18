@@ -198,7 +198,7 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)
- - 🚯 [When you realise your fantasies don&#39;t work in the real world &lpar;0:53&rpar;](http://9gag.com/gag/aGz8jVz)
+ - 🚯 [Desperate times call for desperate measures](http://9gag.com/gag/abgOz9X)
  - 🚯 [Wait for it](http://9gag.com/gag/aLvej3W)<!-- MEMES:END -->
 
 --- 
