@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nine years after launch, Tile adds anti-stalking features that AirTag had from the start](https://appleinsider.com/articles/22/03/18/nine-years-after-launch-tile-adds-anti-stalking-features-that-airtag-had-from-the-start?utm_medium=rss)
- - [The AI Placed You at the Crime Scene, but You Weren’t There](https://www.wired.com/story/gadget-lab-podcast-542)
- - [Silicon Valley&#39;s Sex Censorship Harms Everyone](https://www.wired.com/story/silicon-values-internet-sex-censorship)<!-- TECH:END -->
+ - [The best Fitbit for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [&#39;iPhone 14 Pro&#39; leaks, iPad Air review roundup, and iOS 15.4 on the AppleInsider podcast](https://appleinsider.com/articles/22/03/18/iphone-14-pro-leaks-ipad-air-review-roundup-and-ios-154-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Porsche executives visited Apple to discuss expanding car projects together](https://appleinsider.com/articles/22/03/18/porsche-executives-visited-apple-to-discuss-expanding-car-projects-together?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
