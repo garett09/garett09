@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Let Me Just Exit To The Desktop](https://kotaku.com/pc-game-steam-quit-exit-desktop-elden-ring-crusader-kin-1848659135)
- - [The Jujutsu Kaisen prequel movie has it all: an intro for newbies, satisfying action for fans](https://www.polygon.com/reviews/22858251/jujutsu-kaisen-0-review)
- - [Tips For Getting Started and Making Money In GTA Online](https://kotaku.com/tips-for-getting-started-and-making-money-in-gta-online-1793715156)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [This Carmen Sandiego-Inspired Detective Game Requires Real-World Sleuthing](https://kotaku.com/chinatown-detective-agency-mystery-cyberpunk-singapore-1848669878)
+ - [Crusader Kings III Makes A Change Following Russia&#39;s Invasion Of Ukraine](https://kotaku.com/crusader-kings-iii-ck3-ckiii-kiev-kyiv-russia-ukraine-w-1848669659)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
