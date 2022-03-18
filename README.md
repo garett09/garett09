@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does almost all the same things.](http://9gag.com/gag/aRrZ36q)
- - 🚯 [Jupiter is on welfare](http://9gag.com/gag/ay94X48)
- - 🚯 [Just want to know people&#39;s opinions here.](http://9gag.com/gag/azePqRz)<!-- MEMES:END -->
+ - 🚖 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)
+ - 🚯 [When you realise your fantasies don&#39;t work in the real world &lpar;0:53&rpar;](http://9gag.com/gag/aGz8jVz)
+ - 🚯 [Wait for it](http://9gag.com/gag/aLvej3W)<!-- MEMES:END -->
 
 --- 
 
