@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technics’ Flagship Headphones Give Sony a Run for the Money](https://www.wired.com/review/technics-eah-a800)
- - [Conti Leaks Reveal the Ransomware Group&#39;s Links to Russia](https://www.wired.com/story/conti-ransomware-russia)
- - [Big Pharma&#39;s Ethical Dilemma: Should They Keep Selling to Russia?](https://www.wired.com/story/big-pharma-faces-an-ethical-dilemma-should-they-keep-selling-to-russia)<!-- TECH:END -->
+ - [Nine years after launch, Tile adds anti-stalking features that AirTag had from the start](https://appleinsider.com/articles/22/03/18/nine-years-after-launch-tile-adds-anti-stalking-features-that-airtag-had-from-the-start?utm_medium=rss)
+ - [The AI Placed You at the Crime Scene, but You Weren’t There](https://www.wired.com/story/gadget-lab-podcast-542)
+ - [Silicon Valley&#39;s Sex Censorship Harms Everyone](https://www.wired.com/story/silicon-values-internet-sex-censorship)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
