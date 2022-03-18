@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [$5.57](http://9gag.com/gag/abgOzQv)
- - 🚯 [Cat video of the day](http://9gag.com/gag/aLveDZA)
- - 🚯 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)<!-- MEMES:END -->
+ - 🚖 [Every night, since I can remember, my mom sets up her and my dads Coffee cups ready for when they wake up and start there day together. Mums little cup and dads big cup.](http://9gag.com/gag/a0ZV5zd)
+ - 🚯 [Pizza time.](http://9gag.com/gag/a31AM71)
+ - 🚯 [Japanese Girls and English lesson....](http://9gag.com/gag/aE8VYmo)<!-- MEMES:END -->
 
 --- 
 
