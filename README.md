@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smart fellas...](http://9gag.com/gag/aVxED8v)
- - 🚯 [Ah yess the relationship and the seks](http://9gag.com/gag/aogVpZA)
+ - 🚖 [Cleaning the dryer vent](http://9gag.com/gag/a11Dbrv)
+ - 🚯 [It&#39;s Friday, my dudes!](http://9gag.com/gag/aYrOxLN)
  - 🚯 [That was a solid headlock](http://9gag.com/gag/a91vWzD)<!-- MEMES:END -->
 
 --- 
