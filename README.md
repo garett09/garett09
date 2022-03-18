@@ -192,7 +192,7 @@ Windows                  9 hrs               ███████████�
 <!-- TECH:START -->
  - [Pete Davidson won’t actually be going to space on the next Blue Origin flight](https://www.theverge.com/2022/3/18/22984441/blue-origin-space-pete-davidson-new-shepard)
  - [Samsung Galaxy A73 announced: 108MP camera comes to the A series](https://www.androidauthority.com/samsung-galaxy-a73-launch-3140020/)
- - [OnePlus Nord 3 specs leak: Another rebrand on the cards?](https://www.androidauthority.com/oneplus-nord-3-specs-rebrand-3139000/)<!-- TECH:END -->
+ - [Porsche Confirms Next-Gen 718 Will Be All-Electric     - Roadshow](https://www.cnet.com/roadshow/news/porsche-next-gen-718-battery-electric/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
