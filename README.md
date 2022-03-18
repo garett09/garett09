@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram has become an increasingly popular destination in Russia for unfiltered news; analysts say its estimated 40M users in Russia make it too big to ban &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/220318/p6#a220318p6)
- - [Gran Turismo 7 is fully playable again after server problems cut off major features for more than 24 hours](https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours)
- - [Apple Studio Display runs iOS 15.4, which will allow it to fix webcam issues](https://appleinsider.com/articles/22/03/18/apple-will-reportedly-fix-studio-display-webcam-match-quality-of-ipad-air?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of Vitalik Buterin, who says he has decided to become &quot;more risk-taking and less neutral&quot; in order to more actively shape the future of Ethereum &lpar;Andrew R. Chow/TIME&rpar;](http://www.techmeme.com/220318/p7#a220318p7)
+ - [Top deals March 18: $500 off Vizio 75-inch AirPlay 2 TV, $250 off Lenovo Flex 5 14-inch 2-in-1 Laptop, WD Black NVMe SSD $110](https://appleinsider.com/articles/22/03/18/top-deals-march-18-500-off-vizio-75-inch-airplay-2-tv-250-off-lenovo-flex-5-14-inch-2-in-1-laptop-wd-black-nvme-ssd-110?utm_medium=rss)
+ - [Google’s Android statues are all missing, but where did they go?](https://www.androidauthority.com/android-statues-missing-3140344/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
