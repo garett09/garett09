@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Cloud Gaming now supports Steam Deck through Microsoft Edge](https://www.theverge.com/22985166/xbox-cloud-gaming-steam-deck-microsoft-edge-beta)
- - [Humble Bundle organizes Stand With Ukraine charity bundle](https://www.theverge.com/2022/3/18/22983137/humble-bundle-stand-with-ukraine-charity-bundle-price)
- - [How to create or duplicate an event on Facebook](https://www.androidauthority.com/create-event-facebook-3139644/)<!-- TECH:END -->
+ - [Sources: FanCraze, a marketplace for cricket NFTs previously known as Faze Technologies, is raising a $100M Series A led by B Capital and Insight Partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/220318/p11#a220318p11)
+ - [Compared: New 2022 iPad Air vs 2020 iPad Air](https://appleinsider.com/articles/22/03/08/compared-new-2022-ipad-air-vs-2020-ipad-air?utm_medium=rss)
+ - [iPhone 14 Might Kill the Notch, but Only For the Pro     - CNET](https://www.cnet.com/tech/mobile/iphone-14-design-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
