@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Ori Studio Accused Of Being &#39;Oppressive,&#39; &#39;Sexist&#39; Workplace](https://kotaku.com/ori-blind-forest-will-wisps-sexism-toxic-moon-studios-m-1848673622)
- - [Core Keeper boss guide: How to find and beat every giant monster](https://www.pcgamer.com/core-keeper-bosses-guide)
- - [Netflix’s action movie Black Crab turns ice skating into a crucial post-apocalyptic skill](https://www.polygon.com/reviews/22984915/black-crab-review-netflix-noomi-rapace)<!-- GAME:END -->
+ - [Someone Spent $120,000 On A Very Rare Magikarp Pokémon Card](https://kotaku.com/magikarp-pokemon-card-125k-auction-expensive-rare-1848674053)
+ - [The Sandra Oh ghost story Umma is one giant missed opportunity](https://www.polygon.com/22985395/umma-review-sandra-oh)
+ - [The Best Xbox Game Pass Games To Binge In A Weekend](https://kotaku.com/best-short-game-pass-games-xbox-series-x-s-pc-1848673296)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
