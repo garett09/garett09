@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cleaning the dryer vent](http://9gag.com/gag/a11Dbrv)
- - 🚯 [It&#39;s Friday, my dudes!](http://9gag.com/gag/aYrOxLN)
- - 🚯 [That was a solid headlock](http://9gag.com/gag/a91vWzD)<!-- MEMES:END -->
+ - 🚖 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)
+ - 🚯 [Crossing the border, to the most dangerous place where the sky turns orange.](http://9gag.com/gag/aogV1v3)
+ - 🚯 [Our turn](http://9gag.com/gag/aYrOKAN)<!-- MEMES:END -->
 
 --- 
 
