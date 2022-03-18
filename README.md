@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every night, since I can remember, my mom sets up her and my dads Coffee cups ready for when they wake up and start there day together. Mums little cup and dads big cup.](http://9gag.com/gag/a0ZV5zd)
- - 🚯 [Pizza time.](http://9gag.com/gag/a31AM71)
- - 🚯 [Japanese Girls and English lesson....](http://9gag.com/gag/aE8VYmo)<!-- MEMES:END -->
+ - 🚖 [Seriously. They are hazardous, make their life more difficult, look stupid and require unnecessary extra care.](http://9gag.com/gag/a71eD7x)
+ - 🚯 [You think your life sucks?](http://9gag.com/gag/aXrNqDb)
+ - 🚯 [Every night, since I can remember, my mom sets up her and my dads Coffee cups ready for when they wake up and start there day together. Mums little cup and dads big cup.](http://9gag.com/gag/a0ZV5zd)<!-- MEMES:END -->
 
 --- 
 
