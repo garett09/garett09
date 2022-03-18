@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Spent $120,000 On A Very Rare Magikarp Pokémon Card](https://kotaku.com/magikarp-pokemon-card-125k-auction-expensive-rare-1848674053)
- - [The Sandra Oh ghost story Umma is one giant missed opportunity](https://www.polygon.com/22985395/umma-review-sandra-oh)
- - [The Best Xbox Game Pass Games To Binge In A Weekend](https://kotaku.com/best-short-game-pass-games-xbox-series-x-s-pc-1848673296)<!-- GAME:END -->
+ - [Inscryption’s Kaycee’s Mod is the cherry on top of 2021’s best game](https://www.polygon.com/22985519/inscryption-kaycees-mod-impressions-endless-mode)
+ - [Elden Ring’s ‘super’ illusory wall may be the biggest troll of all](https://www.polygon.com/22985435/elden-ring-illusory-walls-multiple-hits-secret)
+ - [Shredders Is The Skate Of Snowboarding, And I Love It](https://kotaku.com/shredders-review-xbox-series-snowboarding-foam-punch-ea-1848674340)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
