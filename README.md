@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Smart fellas...](http://9gag.com/gag/aVxED8v)
- - 🚯 [How Ukrainians escort their fallen soldiers.](http://9gag.com/gag/aegO6mj)
- - 🚯 [Ah yess the relationship and the seks](http://9gag.com/gag/aogVpZA)<!-- MEMES:END -->
+ - 🚯 [Ah yess the relationship and the seks](http://9gag.com/gag/aogVpZA)
+ - 🚯 [That was a solid headlock](http://9gag.com/gag/a91vWzD)<!-- MEMES:END -->
 
 --- 
 
