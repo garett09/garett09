@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Scream movie scheduled for March 2023 release](https://www.polygon.com/22985065/scream-6-movie-release-year)
- - [What is &#39;load line calibration&#39; in my BIOS and how can I use it?](https://www.pcgamer.com/what-is-load-line-calibration-in-my-bios-and-how-can-i-use-it)
- - [Destiny 2 Xur location and items, March 18-22](https://www.polygon.com/destiny-2-guide-walkthrough/22985062/destiny-2-xur-location-items-march-18-21)<!-- GAME:END -->
+ - [Report: Ori Studio Accused Of Being &#39;Oppressive,&#39; &#39;Sexist&#39; Workplace](https://kotaku.com/ori-blind-forest-will-wisps-sexism-toxic-moon-studios-m-1848673622)
+ - [Core Keeper boss guide: How to find and beat every giant monster](https://www.pcgamer.com/core-keeper-bosses-guide)
+ - [Netflix’s action movie Black Crab turns ice skating into a crucial post-apocalyptic skill](https://www.polygon.com/reviews/22984915/black-crab-review-netflix-noomi-rapace)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
