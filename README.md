@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FanCraze, a marketplace for cricket NFTs previously known as Faze Technologies, is raising a $100M Series A led by B Capital and Insight Partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/220318/p11#a220318p11)
- - [Compared: New 2022 iPad Air vs 2020 iPad Air](https://appleinsider.com/articles/22/03/08/compared-new-2022-ipad-air-vs-2020-ipad-air?utm_medium=rss)
- - [iPhone 14 Might Kill the Notch, but Only For the Pro     - CNET](https://www.cnet.com/tech/mobile/iphone-14-design-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looming oil crisis has energy watchdog begging people to drive less](https://www.theverge.com/2022/3/18/22985024/international-energy-agency-oil-crisis-drive-less)
+ - [UK&#39;s FCA so far authorized just 27 of 100+ applications to join its list of registered crypto companies that can run digital assets businesses starting in April &lpar;Financial Times&rpar;](http://www.techmeme.com/220318/p12#a220318p12)
+ - [How to turn off active status on Instagram](https://www.androidauthority.com/disable-active-status-instagram-3137350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
