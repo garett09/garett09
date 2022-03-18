@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech G413 TKL SE review: you get what you pay for](https://www.theverge.com/22984595/logitech-g413-tkl-se-review-mechanical-gaming-keyboard)
- - [C2X, which is building a gaming platform on the Terra blockchain, raises $25M through a private token sale led by FTX Ventures and others at a $500M valuation &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/220318/p4#a220318p4)
- - [Gran Turismo 7 server problems have cut off most of the game’s features for more than a day](https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours)<!-- TECH:END -->
+ - [Telegram has become an increasingly popular destination in Russia for unfiltered news; analysts say its estimated 40M users in Russia make it too big to ban &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/220318/p6#a220318p6)
+ - [Gran Turismo 7 is fully playable again after server problems cut off major features for more than 24 hours](https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours)
+ - [Apple Studio Display runs iOS 15.4, which will allow it to fix webcam issues](https://appleinsider.com/articles/22/03/18/apple-will-reportedly-fix-studio-display-webcam-match-quality-of-ipad-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
