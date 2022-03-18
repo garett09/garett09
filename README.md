@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The second cat is just as confused](http://9gag.com/gag/axBv7oW)
- - 🚯 [Pigs Fight Off A Bear](http://9gag.com/gag/azeP99z)
- - 🚯 [Ethan Suplee,also known as Randy from `My name is Earl.`](http://9gag.com/gag/awzmAzr)<!-- MEMES:END -->
+ - 🚖 [Ethan Suplee,also known as Randy from `My name is Earl.`](http://9gag.com/gag/awzmAzr)
+ - 🚯 [What a photo](http://9gag.com/gag/aRrZ3v2)
+ - 🚯 [Clearly](http://9gag.com/gag/a619KwR)<!-- MEMES:END -->
 
 --- 
 
