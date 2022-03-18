@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)
- - [Genshin Impact Version 2.6: Let’s dig into The Chasm](https://blog.playstation.com/2022/03/18/genshin-impact-version-2-6-lets-dig-into-the-chasm/)
- - [Genshin Impact Version 2.6: Let’s dig into The Chasm](https://blog.playstation.com/2022/03/18/genshin-impact-version-2-6-lets-dig-into-the-chasm/)<!-- GAME:END -->
+ - [Ghost of Tsushima: Legends – Finding the fun in Multiplayer](https://blog.playstation.com/2022/03/18/ghost-of-tsushima-legends-finding-the-fun-in-multiplayer/)
+ - [Ghost of Tsushima: Legends – Finding the fun in Multiplayer](https://blog.playstation.com/2022/03/18/ghost-of-tsushima-legends-finding-the-fun-in-multiplayer/)
+ - [Apex Legends&#39; Unmissable Queer Love Triangle Is A Triumph](https://kotaku.com/apex-legends-bangalore-loba-valkyrie-lesbian-queer-over-1848669384)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
