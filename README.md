@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradise Killer’s intro: the story behind that heavenly title card sequence](https://blog.playstation.com/2022/03/18/paradise-killers-intro-the-story-behind-that-heavenly-title-card-sequence/)
- - [Paradise Killer’s intro: the story behind that heavenly title card sequence](https://blog.playstation.com/2022/03/18/paradise-killers-intro-the-story-behind-that-heavenly-title-card-sequence/)
- - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)<!-- GAME:END -->
+ - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)
+ - [Genshin Impact Version 2.6: Let’s dig into The Chasm](https://blog.playstation.com/2022/03/18/genshin-impact-version-2-6-lets-dig-into-the-chasm/)
+ - [Genshin Impact Version 2.6: Let’s dig into The Chasm](https://blog.playstation.com/2022/03/18/genshin-impact-version-2-6-lets-dig-into-the-chasm/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
