@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never had a system to game, very happy to play my favourite game without lag.](http://9gag.com/gag/aLvejqV)
- - 🚯 [Pigs Fight Off A Bear](http://9gag.com/gag/azeP99z)
- - 🚯 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)<!-- MEMES:END -->
+ - 🚖 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)
+ - 🚯 [Wait for it](http://9gag.com/gag/aLvej3W)
+ - 🚯 [Pigs Fight Off A Bear](http://9gag.com/gag/azeP99z)<!-- MEMES:END -->
 
 --- 
 
