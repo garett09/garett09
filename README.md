@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Overwatch 2 closed beta starts April 26th on PC only](https://www.theverge.com/2022/3/18/22984763/overwatch-2-beta-release-date-faq-activision-blizzard)
- - [Instacart says it’s adding a fuel surcharge to help drivers paying high gas prices](https://www.theverge.com/2022/3/18/22985380/instacart-fuel-surcharge-gas-prices-delivery-rideshare-lyft-uber)
- - [Brazil&#39;s Supreme Court orders the suspension of Telegram within 24 hours, saying it repeatedly refused to adhere to judicial orders or comply with Brazil&#39;s laws &lpar;Reuters&rpar;](http://www.techmeme.com/220318/p14#a220318p14)<!-- TECH:END -->
+ - [GM buys SoftBank Vision Fund 1&#39;s stake in Cruise for $2.1B, increasing GM&#39;s ownership to 80%, and says the company will invest another $1.35B in Cruise &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/220318/p15#a220318p15)
+ - [Brazilian court orders Apple and Google to block Telegram over disinformation](https://www.theverge.com/2022/3/18/22985595/brazil-supreme-court-telegram-apple-google-block-order)
+ - [Workers at another NYC Amazon warehouse now have a union election date](https://www.theverge.com/2022/3/18/22985518/amazon-warehouse-union-election-second-staten-island-ldj5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
