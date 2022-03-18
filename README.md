@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Elden Ring’s bomb-wielding birds are out of control](https://www.polygon.com/22984954/elden-ring-enemies-birds-dogs-tough-fights)
- - [Elden Ring Fans Are Using Cheats To Equip Notorious Cut Underwear](https://kotaku.com/elden-ring-fia-underwear-deathbed-smalls-cheat-code-arm-1848672777)<!-- GAME:END -->
+ - [The next Scream movie scheduled for March 2023 release](https://www.polygon.com/22985065/scream-6-movie-release-year)
+ - [What is &#39;load line calibration&#39; in my BIOS and how can I use it?](https://www.pcgamer.com/what-is-load-line-calibration-in-my-bios-and-how-can-i-use-it)
+ - [Destiny 2 Xur location and items, March 18-22](https://www.polygon.com/destiny-2-guide-walkthrough/22985062/destiny-2-xur-location-items-march-18-21)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
