@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)
- - 🚯 [Crossing the border, to the most dangerous place where the sky turns orange.](http://9gag.com/gag/aogV1v3)
- - 🚯 [Our turn](http://9gag.com/gag/aYrOKAN)<!-- MEMES:END -->
+ - 🚖 [I Just Want to Do Nothing... I Feel Like Nothing is Worth the Try... I just Want to Sleep.](http://9gag.com/gag/aRrZKLj)
+ - 🚯 [Low IQ = Difficulty understanding a simple rule](http://9gag.com/gag/arnANQp)
+ - 🚯 [A university cheerleader grabs a stuck ball and gets a standing ovation](http://9gag.com/gag/angnb6B)<!-- MEMES:END -->
 
 --- 
 
