@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #272: Friday, March 18](https://www.pcgamer.com/wordle-march-18-272-saute-meaning-definition)
- - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)
- - [AMD confirms the Ryzen 7 5800X3D won&#39;t support overclocking](https://www.pcgamer.com/amd-confirms-the-ryzen-7-5800x3d-wont-support-overclocking)<!-- GAME:END -->
+ - [Paradise Killer’s intro: the story behind that heavenly title card sequence](https://blog.playstation.com/2022/03/18/paradise-killers-intro-the-story-behind-that-heavenly-title-card-sequence/)
+ - [Paradise Killer’s intro: the story behind that heavenly title card sequence](https://blog.playstation.com/2022/03/18/paradise-killers-intro-the-story-behind-that-heavenly-title-card-sequence/)
+ - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
