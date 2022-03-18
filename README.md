@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal expands its services to allow users to send money into Ukraine and temporarily waives fees for customers sending funds to Ukrainian PayPal accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220317/p32#a220317p32)
- - [Gran Turismo 7 has been largely unplayable for hours due to server maintenance](https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours)
- - [T-Mobile is adding PIN protection to its port-out process](https://www.theverge.com/2022/3/17/22983428/t-mobile-number-transfer-pin-port-number-sim-swap-protection)<!-- TECH:END -->
+ - [Australia&#39;s Competition and Consumer Commission sues Meta for allegedly publishing scam cryptocurrency ads on Facebook with photos of Australian public figures &lpar;Sameer Manekar/Reuters&rpar;](http://www.techmeme.com/220317/p34#a220317p34)
+ - [The UK&#39;s Online Safety Bill, introduced to Parliament, faces competing pressures, raises confusions over basic terms and concerns over free speech, and more &lpar;Rowland Manthorpe/Sky News&rpar;](http://www.techmeme.com/220317/p33#a220317p33)
+ - [The NLRB is suing Amazon to get a fired activist his job back](https://www.theverge.com/2022/3/17/22983692/nlrb-amazon-labor-activism-gerald-bryson-jfk8-warehouse-injunction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
