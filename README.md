@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)
- - 🚯 [Wait for it](http://9gag.com/gag/aLvej3W)
- - 🚯 [Pigs Fight Off A Bear](http://9gag.com/gag/azeP99z)<!-- MEMES:END -->
+ - 🚖 [The second cat is just as confused](http://9gag.com/gag/axBv7oW)
+ - 🚯 [Pigs Fight Off A Bear](http://9gag.com/gag/azeP99z)
+ - 🚯 [Ethan Suplee,also known as Randy from `My name is Earl.`](http://9gag.com/gag/awzmAzr)<!-- MEMES:END -->
 
 --- 
 
