@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pete Davidson won’t actually be going to space on the next Blue Origin flight](https://www.theverge.com/2022/3/18/22984441/blue-origin-space-pete-davidson-new-shepard)
- - [Samsung Galaxy A73 announced: 108MP camera comes to the A series](https://www.androidauthority.com/samsung-galaxy-a73-launch-3140020/)
- - [Porsche Confirms Next-Gen 718 Will Be All-Electric     - Roadshow](https://www.cnet.com/roadshow/news/porsche-next-gen-718-battery-electric/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Technics’ Flagship Headphones Give Sony a Run for the Money](https://www.wired.com/review/technics-eah-a800)
+ - [Conti Leaks Reveal the Ransomware Group&#39;s Links to Russia](https://www.wired.com/story/conti-ransomware-russia)
+ - [Big Pharma&#39;s Ethical Dilemma: Should They Keep Selling to Russia?](https://www.wired.com/story/big-pharma-faces-an-ethical-dilemma-should-they-keep-selling-to-russia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
