@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inscryption’s Kaycee’s Mod is the cherry on top of 2021’s best game](https://www.polygon.com/22985519/inscryption-kaycees-mod-impressions-endless-mode)
- - [Elden Ring’s ‘super’ illusory wall may be the biggest troll of all](https://www.polygon.com/22985435/elden-ring-illusory-walls-multiple-hits-secret)
- - [Shredders Is The Skate Of Snowboarding, And I Love It](https://kotaku.com/shredders-review-xbox-series-snowboarding-foam-punch-ea-1848674340)<!-- GAME:END -->
+ - [Final Fantasy goes full cringe in the best way](https://www.polygon.com/gaming/2022/3/18/22984719/final-fantasy-stranger-of-paradise-cringe-camp)
+ - [Spider-Man: No Way Home and every new movie you can stream from home this week](https://www.polygon.com/2022/3/18/22976797/new-movies-watch-spider-man-no-way-home-netflix-black-crab)
+ - [He Says It&#39;s The &#39;Best Grass&#39; In Video Games, Daring Other Devs To One-Up Him](https://kotaku.com/lushfoil-photography-simulator-steam-pc-tiktok-1848666248)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
