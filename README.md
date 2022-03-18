@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Never had a system to game, very happy to play my favourite game without lag.](http://9gag.com/gag/aLvejqV)
- - 🚯 [How it started. How it&#39;s going.](http://9gag.com/gag/azePXAb)
- - 🚯 [Genau in die F\u00fchlis](http://9gag.com/gag/aXrNx7V)<!-- MEMES:END -->
+ - 🚯 [Ethan Suplee,also known as Randy from `My name is Earl.`](http://9gag.com/gag/awzmAzr)
+ - 🚯 [When Life burns your Hair, just smile and don&#39;t care.](http://9gag.com/gag/aM4mjDx)<!-- MEMES:END -->
 
 --- 
 
