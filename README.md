@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [$5.57](http://9gag.com/gag/abgOzQv)
- - 🚯 [Every night, since I can remember, my mom sets up her and my dads Coffee cups ready for when they wake up and start there day together. Mums little cup and dads big cup.](http://9gag.com/gag/a0ZV5zd)
- - 🚯 [Does almost all the same things.](http://9gag.com/gag/aRrZ36q)<!-- MEMES:END -->
+ - 🚖 [Does almost all the same things.](http://9gag.com/gag/aRrZ36q)
+ - 🚯 [Jupiter is on welfare](http://9gag.com/gag/ay94X48)
+ - 🚯 [Just want to know people&#39;s opinions here.](http://9gag.com/gag/azePqRz)<!-- MEMES:END -->
 
 --- 
 
