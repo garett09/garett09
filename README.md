@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM buys SoftBank Vision Fund 1&#39;s stake in Cruise for $2.1B, increasing GM&#39;s ownership to 80%, and says the company will invest another $1.35B in Cruise &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/220318/p15#a220318p15)
- - [Brazilian court orders Apple and Google to block Telegram over disinformation](https://www.theverge.com/2022/3/18/22985595/brazil-supreme-court-telegram-apple-google-block-order)
- - [Workers at another NYC Amazon warehouse now have a union election date](https://www.theverge.com/2022/3/18/22985518/amazon-warehouse-union-election-second-staten-island-ldj5)<!-- TECH:END -->
+ - [Instacart plans to add a $0.40 fee to orders &quot;over the next month&quot; that goes to shoppers to help with gas prices, even if shopper&#39;s cars are hybrid or electric &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/220318/p16#a220318p16)
+ - [Deal alert: 14-inch MacBook Pro drops to $1,749 at Amazon, cheapest 2022 price](https://appleinsider.com/articles/22/03/18/deal-alert-14-inch-macbook-pro-drops-to-1749-at-amazon-cheapest-2022-price?utm_medium=rss)
+ - [Google’s Android app will finally let you delete the last 15 minutes of your search history](https://www.theverge.com/2022/3/18/22985668/google-android-app-delete-last-15-minutes-search-history)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
