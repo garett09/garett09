@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart plans to add a $0.40 fee to orders &quot;over the next month&quot; that goes to shoppers to help with gas prices, even if shopper&#39;s cars are hybrid or electric &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/220318/p16#a220318p16)
- - [Deal alert: 14-inch MacBook Pro drops to $1,749 at Amazon, cheapest 2022 price](https://appleinsider.com/articles/22/03/18/deal-alert-14-inch-macbook-pro-drops-to-1749-at-amazon-cheapest-2022-price?utm_medium=rss)
- - [Google’s Android app will finally let you delete the last 15 minutes of your search history](https://www.theverge.com/2022/3/18/22985668/google-android-app-delete-last-15-minutes-search-history)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [A look at China-made hit fantasy RPG Genshin Impact, as China expands into the video game market once dominated by Japan by imitating its Japanese competitors &lpar;New York Times&rpar;](http://www.techmeme.com/220318/p17#a220318p17)
+ - [Telegram forgot to check its email and now it’s banned in Brazil](https://www.theverge.com/2022/3/18/22985737/telegram-brazil-supreme-court-ban-email-address-statement-durov)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
