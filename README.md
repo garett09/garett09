@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [A look at China-made hit fantasy RPG Genshin Impact, as China expands into the video game market once dominated by Japan by imitating its Japanese competitors &lpar;New York Times&rpar;](http://www.techmeme.com/220318/p17#a220318p17)
- - [Telegram forgot to check its email and now it’s banned in Brazil](https://www.theverge.com/2022/3/18/22985737/telegram-brazil-supreme-court-ban-email-address-statement-durov)<!-- TECH:END -->
+ - [After some creators speak out, Vimeo caps monthly bandwidth usage to 2TB instead of charging the top 1% users; creators have minimum 30 days to appeal charges &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220318/p18#a220318p18)
+ - [Vimeo is sorry, and here’s how it’s changing](https://www.theverge.com/2022/3/18/22985820/vimeo-bandwidth-policy-changes-2tb-cap)
+ - [Lawsuit Accuses Google of Being Biased Against Black Employees     - CNET](https://www.cnet.com/news/politics/lawsuit-accuses-google-of-being-biased-against-black-employees/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
