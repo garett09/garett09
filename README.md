@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that&#39;s how i met your mother](http://9gag.com/gag/aegOQRb)
- - 🚯 [Three minutes of cats](http://9gag.com/gag/a218v0D)
- - 🚯 [Always keep trying](http://9gag.com/gag/aGz8EyX)<!-- MEMES:END -->
+ - 🚖 [When USSR and imperial Japan fought in WW2](http://9gag.com/gag/aAGE0Ao)
+ - 🚯 [Show us your favorite dog gif](http://9gag.com/gag/aggOoNv)
+ - 🚯 [Neuron activation](http://9gag.com/gag/aLve1qv)<!-- MEMES:END -->
 
 --- 
 
