@@ -192,7 +192,7 @@ Windows                  9 hrs               ███████████�
 <!-- TECH:START -->
  - [Mac Studio teardown reveals potentially upgradeable SSD storage](https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple)
  - [How researchers are using self-supervised learning, a branch of AI that has proven effective for handling human language, to better understand animal sounds &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220319/p7#a220319p7)
- - [Boot Camp updated to support Apple Studio Display](https://appleinsider.com/articles/22/03/19/boot-camp-updated-to-support-apple-studio-display?utm_medium=rss)<!-- TECH:END -->
+ - [March Madness 2022: How to Watch, Stream Saint Peter&#39;s vs. Murray State, Gonzaga vs. Memphis and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2022-how-to-watch-stream-saint-peters-vs-murray-state-gonzaga-vs-memphis-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
