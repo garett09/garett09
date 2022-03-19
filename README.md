@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Acoustic Fabric&#39; Could Let You Answer the Phone With Your Shirt     - CNET](https://www.cnet.com/science/acoustic-fabric-could-let-you-answer-the-phone-with-your-shirt/#ftag=CAD590a51e)
  - [After some creators speak out, Vimeo caps monthly bandwidth usage to 2TB instead of charging the top 1% users; creators have minimum 30 days to appeal charges &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220318/p18#a220318p18)
- - [Vimeo is sorry, and here’s how it’s changing](https://www.theverge.com/2022/3/18/22985820/vimeo-bandwidth-policy-changes-2tb-cap)
- - [Lawsuit Accuses Google of Being Biased Against Black Employees     - CNET](https://www.cnet.com/news/politics/lawsuit-accuses-google-of-being-biased-against-black-employees/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixar Reportedly Restores Same-Sex Kiss to &#39;Lightyear&#39; After Employees Protest     - CNET](https://www.cnet.com/culture/entertainment/pixar-reportedly-restores-same-sex-kiss-to-lightyear-after-employees-protest/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
