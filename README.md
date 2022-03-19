@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)
- - [This 50-hit Elden Ring illusory wall is probably a bug](https://www.pcgamer.com/this-50-hit-elden-ring-illusory-wall-is-probably-a-bug)
- - [Netflix’s thriller Windfall ponders how nice it would be to rob Mark Zuckerberg](https://www.polygon.com/22985672/windfall-review-netflix-jesse-plemons-jason-segel)<!-- GAME:END -->
+ - [13 Elden Ring-ass movies to watch when you’re not playing Elden Ring](https://www.polygon.com/what-to-watch/22981316/movies-like-elden-ring-dark-souls-fantasy-movies)
+ - [This website only shows you Twitch streams no one else is watching](https://www.pcgamer.com/this-website-only-shows-you-twitch-streams-no-one-else-is-watching)
+ - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
