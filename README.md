@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The were so selfish and cruel, I could never treat my kids the way they did and we were really well behaved.](http://9gag.com/gag/aNPvpV3)
- - 🚯 [How to break one&#39;s mind](http://9gag.com/gag/aYrOyz0)
- - 🚯 [Roony the man](http://9gag.com/gag/aAGEGdL)<!-- MEMES:END -->
+ - 🚖 [Yes](http://9gag.com/gag/aLvevzM)
+ - 🚯 [F\u00fcnf is f\u00fcn](http://9gag.com/gag/a0ZVNzX)
+ - 🚯 [What colour?](http://9gag.com/gag/aQXQd52)<!-- MEMES:END -->
 
 --- 
 
