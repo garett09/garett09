@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Efficiency ` even their missiles hate them `](http://9gag.com/gag/ay94eM8)
+ - 🚖 [On rare occasions, children can be born with vestigial tails or pseudotails, resulting from the activation of dormant but still present DNA coding for faulty characteristics.](http://9gag.com/gag/adgO87j)
  - 🚯 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/a31Aw8Q)
- - 🚯 [A personal trainer caught his wife having sex with a hobo &lpar;you read right&rpar;. He proceeded to beat up the hobo. The hobo\u00b4s face like: `It was worthy`](http://9gag.com/gag/aogVMKn)<!-- MEMES:END -->
+ - 🚯 [Clearly](http://9gag.com/gag/a619KwR)<!-- MEMES:END -->
 
 --- 
 
