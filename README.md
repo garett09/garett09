@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #273: Saturday, March 19](https://www.pcgamer.com/wordle-march-19-273-words-that-start-with-al)
  - [Warehouse Employees Steal Over $35,000 Worth Of Video Cards](https://kotaku.com/video-cards-stolen-warehouse-crime-videogame-rtx-3070-r-1848676335)
- - [Human Resources is horny Inside Out meets horny Monsters, Inc.](https://www.polygon.com/reviews/22984857/human-resources-review-netflix)
- - [The AERO 17 HDR Laptop from Gigabyte has all the power you need to work hard and play harder](https://www.pcgamer.com/the-aero-17-hdr-laptop-from-gigabyte-has-all-the-power-you-need-to-work-hard-and-play-harder)<!-- GAME:END -->
+ - [Human Resources is horny Inside Out meets horny Monsters, Inc.](https://www.polygon.com/reviews/22984857/human-resources-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
