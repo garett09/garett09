@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Acoustic Fabric&#39; Could Let You Answer the Phone With Your Shirt     - CNET](https://www.cnet.com/science/acoustic-fabric-could-let-you-answer-the-phone-with-your-shirt/#ftag=CAD590a51e)
- - [After some creators speak out, Vimeo caps monthly bandwidth usage to 2TB instead of charging the top 1% users; creators have minimum 30 days to appeal charges &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220318/p18#a220318p18)
- - [Pixar Reportedly Restores Same-Sex Kiss to &#39;Lightyear&#39; After Employees Protest     - CNET](https://www.cnet.com/culture/entertainment/pixar-reportedly-restores-same-sex-kiss-to-lightyear-after-employees-protest/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mac Studio &amp; Studio Display are at Apple Stores now, but you won&#39;t get the best deal](https://appleinsider.com/articles/22/03/18/mac-studio-studio-display-are-at-apple-stores-now-but-you-wont-get-the-best-deal?utm_medium=rss)
+ - [Mac Studio deals have arrived: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
+ - [&#39;Acoustic Fabric&#39; Could Let You Answer the Phone With Your Shirt     - CNET](https://www.cnet.com/science/acoustic-fabric-could-let-you-answer-the-phone-with-your-shirt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
