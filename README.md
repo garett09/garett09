@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fierce &amp; fabulous](http://9gag.com/gag/aqG8GER)
- - 🚯 [Stay home if u sicc](http://9gag.com/gag/a0ZV7RX)
- - 🚯 [I do, do you?](http://9gag.com/gag/aAGEGjg)<!-- MEMES:END -->
+ - 🚖 [WEEKEND start](http://9gag.com/gag/avAeANW)
+ - 🚯 [This is when weather reporting peaked. Period.](http://9gag.com/gag/aM4m4WP)
+ - 🚯 [Emma Weyant, the second place finisher behind Lia Thomas in yesterday\u2019s 500 yard swim freestyle](http://9gag.com/gag/awzmMDr)<!-- MEMES:END -->
 
 --- 
 
