@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Elden Ring-ass movies to watch when you’re not playing Elden Ring](https://www.polygon.com/what-to-watch/22981316/movies-like-elden-ring-dark-souls-fantasy-movies)
- - [This website only shows you Twitch streams no one else is watching](https://www.pcgamer.com/this-website-only-shows-you-twitch-streams-no-one-else-is-watching)
- - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)<!-- GAME:END -->
+ - [Warehouse Employees Steal Over $35,000 Worth Of Video Cards](https://kotaku.com/video-cards-stolen-warehouse-crime-videogame-rtx-3070-r-1848676335)
+ - [Human Resources is horny Inside Out meets horny Monsters, Inc.](https://www.polygon.com/reviews/22984857/human-resources-review-netflix)
+ - [The AERO 17 HDR Laptop from Gigabyte has all the power you need to work hard and play harder](https://www.pcgamer.com/the-aero-17-hdr-laptop-from-gigabyte-has-all-the-power-you-need-to-work-hard-and-play-harder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
