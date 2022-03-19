@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WEEKEND start](http://9gag.com/gag/avAeANW)
+ - 🚖 [Fierce &amp; fabulous](http://9gag.com/gag/aqG8GER)
  - 🚯 [This is when weather reporting peaked. Period.](http://9gag.com/gag/aM4m4WP)
- - 🚯 [Emma Weyant, the second place finisher behind Lia Thomas in yesterday\u2019s 500 yard swim freestyle](http://9gag.com/gag/awzmMDr)<!-- MEMES:END -->
+ - 🚯 [So you DO can have sex accidentally](http://9gag.com/gag/avAeAVd)<!-- MEMES:END -->
 
 --- 
 
