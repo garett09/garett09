@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Massive Charity Game Bundles Have Now Raised Over $12 Million For Ukraine](https://kotaku.com/ukraine-massive-bundle-humble-itch-charity-million-war-1848676738)
  - [Report: Two Months Before Return, Overwatch League Still Has No Sponsors](https://kotaku.com/overwatch-league-sponsors-activision-blizzard-owl-fifth-1848676477)
- - [Today&#39;s Wordle answer #273: Saturday, March 19](https://www.pcgamer.com/wordle-march-19-273-words-that-start-with-al)
- - [Warehouse Employees Steal Over $35,000 Worth Of Video Cards](https://kotaku.com/video-cards-stolen-warehouse-crime-videogame-rtx-3070-r-1848676335)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #273: Saturday, March 19](https://www.pcgamer.com/wordle-march-19-273-words-that-start-with-al)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
