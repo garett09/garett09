@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/aLvevzM)
- - 🚯 [F\u00fcnf is f\u00fcn](http://9gag.com/gag/a0ZVNzX)
- - 🚯 [What colour?](http://9gag.com/gag/aQXQd52)<!-- MEMES:END -->
+ - 🚖 [Fierce &amp; fabulous](http://9gag.com/gag/aqG8GER)
+ - 🚯 [Stay home if u sicc](http://9gag.com/gag/a0ZV7RX)
+ - 🚯 [I do, do you?](http://9gag.com/gag/aAGEGjg)<!-- MEMES:END -->
 
 --- 
 
