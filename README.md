@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US judge dismisses a DC AG lawsuit against Amazon, which claimed that the company maintained a monopoly by locking wholesalers into anti-competitive agreements &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/220319/p5#a220319p5)
- - [Tim Cook responds to thank you note after Apple Watch saves dentist&#39;s life](https://appleinsider.com/articles/22/03/19/tim-cook-responds-to-thank-you-note-after-apple-watch-saves-dentists-life?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-424-3140521/)<!-- TECH:END -->
+ - [NRA confirms last year’s ransomware attack](https://www.theverge.com/2022/3/19/22986501/nra-confirms-ransomware-attack-hack)
+ - [MobyFox Apple Watch band review: Licensed straps from your favorite brands](https://appleinsider.com/articles/22/03/19/mobyfox-apple-watch-band-review-licensed-straps-from-your-favorite-brands?utm_medium=rss)
+ - [The best luxury smartwatches from Louis Vuitton, Tag Heuer, and more](https://www.androidauthority.com/luxury-smartwatches-3137977/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
