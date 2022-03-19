@@ -197,8 +197,8 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fierce &amp; fabulous](http://9gag.com/gag/aqG8GER)
- - 🚯 [This is when weather reporting peaked. Period.](http://9gag.com/gag/aM4m4WP)
+ - 🚖 [This is when weather reporting peaked. Period.](http://9gag.com/gag/aM4m4WP)
+ - 🚯 [Always keep trying](http://9gag.com/gag/aGz8EyX)
  - 🚯 [So you DO can have sex accidentally](http://9gag.com/gag/avAeAVd)<!-- MEMES:END -->
 
 --- 
