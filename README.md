@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On rare occasions, children can be born with vestigial tails or pseudotails, resulting from the activation of dormant but still present DNA coding for faulty characteristics.](http://9gag.com/gag/adgO87j)
- - 🚯 [The were so selfish and cruel, I could never treat my kids the way they did and we were really well behaved.](http://9gag.com/gag/aNPvpV3)
- - 🚯 [Me, exhausted: please let me sleep. My brain:](http://9gag.com/gag/aVxEwov)<!-- MEMES:END -->
+ - 🚖 [The were so selfish and cruel, I could never treat my kids the way they did and we were really well behaved.](http://9gag.com/gag/aNPvpV3)
+ - 🚯 [How to break one&#39;s mind](http://9gag.com/gag/aYrOyz0)
+ - 🚯 [Roony the man](http://9gag.com/gag/aAGEGdL)<!-- MEMES:END -->
 
 --- 
 
