@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfection...](http://9gag.com/gag/avAe1P5)
- - 🚯 [It seems terrifying](http://9gag.com/gag/aM4mEyW)
- - 🚯 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)<!-- MEMES:END -->
+ - 🚖 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)
+ - 🚯 [Weekend](http://9gag.com/gag/aNPv99b)
+ - 🚯 [Lady in white SUV tries to bully 18-wheeler](http://9gag.com/gag/aZrw1j6)<!-- MEMES:END -->
 
 --- 
 
