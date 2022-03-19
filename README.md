@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NRA confirms last year’s ransomware attack](https://www.theverge.com/2022/3/19/22986501/nra-confirms-ransomware-attack-hack)
- - [MobyFox Apple Watch band review: Licensed straps from your favorite brands](https://appleinsider.com/articles/22/03/19/mobyfox-apple-watch-band-review-licensed-straps-from-your-favorite-brands?utm_medium=rss)
- - [The best luxury smartwatches from Louis Vuitton, Tag Heuer, and more](https://www.androidauthority.com/luxury-smartwatches-3137977/)<!-- TECH:END -->
+ - [Apple&#39;s 2TB MacBook Pro 13-inch is $300 off, plus $50 off AppleCare](https://appleinsider.com/articles/22/03/19/apples-2tb-macbook-pro-13-inch-is-300-off-plus-50-off-applecare?utm_medium=rss)
+ - [A look at TropeTrainer, beloved Torah learning software that helped rabbis prepare kids for bar and bat mitzvahs, which became obsolete after its creator died &lpar;S.I. Rosenbaum/Input&rpar;](http://www.techmeme.com/220319/p6#a220319p6)
+ - [NRA confirms last year’s ransomware attack](https://www.theverge.com/2022/3/19/22986501/nra-confirms-ransomware-attack-hack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
