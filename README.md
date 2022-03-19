@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)
- - 🚯 [Going down with style](http://9gag.com/gag/a31A4DN)
- - 🚯 [Sugar pulling machine](http://9gag.com/gag/aBnLZ21)<!-- MEMES:END -->
+ - 🚖 [Perfection...](http://9gag.com/gag/avAe1P5)
+ - 🚯 [It seems terrifying](http://9gag.com/gag/aM4mEyW)
+ - 🚯 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)<!-- MEMES:END -->
 
 --- 
 
