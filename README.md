@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boot Camp updated to support Apple Studio Display](https://appleinsider.com/articles/22/03/19/boot-camp-updated-to-support-apple-studio-display?utm_medium=rss)
  - [The smart home is still not ready for our kids](https://www.androidauthority.com/smart-home-not-ready-for-kids-3136999/)
- - [Prime Video: The 38 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-38-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-stream-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video: The 38 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-38-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
