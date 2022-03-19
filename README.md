@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Massive Charity Game Bundles Have Now Raised Over $12 Million For Ukraine](https://kotaku.com/ukraine-massive-bundle-humble-itch-charity-million-war-1848676738)
- - [Report: Two Months Before Return, Overwatch League Still Has No Sponsors](https://kotaku.com/overwatch-league-sponsors-activision-blizzard-owl-fifth-1848676477)
- - [Today&#39;s Wordle answer #273: Saturday, March 19](https://www.pcgamer.com/wordle-march-19-273-words-that-start-with-al)<!-- GAME:END -->
+ - [What was the last boss fight that made you rage?](https://www.pcgamer.com/what-was-the-last-boss-fight-that-made-you-rage)
+ - [Vampire: the Masquerade – Swansong promises a Telltale-style take on the World of Darkness](https://www.pcgamer.com/vampire-the-masquerade-swansong-promises-a-telltale-style-take-on-the-world-of-darkness)
+ - [PSA: Elden Ring hackers are locking players in infinite death loops.](https://www.pcgamer.com/psa-elden-ring-hackers-are-locking-players-in-infinite-death-loops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
