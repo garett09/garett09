@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shoes of b*tches](http://9gag.com/gag/aVxEvLn)
- - 🚯 [Sugar pulling machine](http://9gag.com/gag/aBnLZ21)
- - 🚯 [Going down with style](http://9gag.com/gag/a31A4DN)<!-- MEMES:END -->
+ - 🚖 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)
+ - 🚯 [Going down with style](http://9gag.com/gag/a31A4DN)
+ - 🚯 [Sugar pulling machine](http://9gag.com/gag/aBnLZ21)<!-- MEMES:END -->
 
 --- 
 
