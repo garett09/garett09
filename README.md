@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doctors say the rise of fantasy sports apps has led to a spike in gambling addiction in India, where gambling is illegal but fantasy gaming has no clear laws &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/220319/p2#a220319p2)
- - [More People Need to Watch the 2nd Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-tv-show-on-netflix/#ftag=CAD590a51e)
- - [The state of crypto and the metaverse, as seen at SXSW, is underwhelming and pathetic, showing off only how rich its boosters are and little of social utility &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220319/p1#a220319p1)<!-- TECH:END -->
+ - [13 Best Deals on Fitness Trackers, Tablets, and Air Purifiers](https://www.wired.com/story/weekend-deals-march-19-2022)
+ - [Should You Carry Your Dog in a Backpack? Yes](https://www.wired.com/review/little-chonk-the-maxine-one-dog-backpack)
+ - [The 8 best Android smartphone processors in history](https://www.androidauthority.com/best-android-smartphone-processors-history-3110822/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
