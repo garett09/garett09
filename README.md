@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boot Camp updated to support Apple Studio Display](https://appleinsider.com/articles/22/03/19/boot-camp-updated-to-support-apple-studio-display?utm_medium=rss)
- - [The smart home is still not ready for our kids](https://www.androidauthority.com/smart-home-not-ready-for-kids-3136999/)
- - [Prime Video: The 38 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-38-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mac Studio teardown reveals potentially upgradeable SSD storage](https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple)
+ - [How researchers are using self-supervised learning, a branch of AI that has proven effective for handling human language, to better understand animal sounds &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220319/p7#a220319p7)
+ - [Boot Camp updated to support Apple Studio Display](https://appleinsider.com/articles/22/03/19/boot-camp-updated-to-support-apple-studio-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
