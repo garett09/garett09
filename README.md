@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [On rare occasions, children can be born with vestigial tails or pseudotails, resulting from the activation of dormant but still present DNA coding for faulty characteristics.](http://9gag.com/gag/adgO87j)
- - 🚯 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/a31Aw8Q)
- - 🚯 [Clearly](http://9gag.com/gag/a619KwR)<!-- MEMES:END -->
+ - 🚯 [Clearly](http://9gag.com/gag/a619KwR)
+ - 🚯 [I came here to laugh damnit](http://9gag.com/gag/a91vEe1)<!-- MEMES:END -->
 
 --- 
 
