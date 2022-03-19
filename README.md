@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The state of crypto and the metaverse, as seen at SXSW, is underwhelming and pathetic, showing off only how rich its boosters are and little of social utility &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220319/p1#a220319p1)
  - [Mac Studio &amp; Studio Display are at Apple Stores now, but you won&#39;t get the best deal](https://appleinsider.com/articles/22/03/18/mac-studio-studio-display-are-at-apple-stores-now-but-you-wont-get-the-best-deal?utm_medium=rss)
- - [Mac Studio deals have arrived: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
- - [&#39;Acoustic Fabric&#39; Could Let You Answer the Phone With Your Shirt     - CNET](https://www.cnet.com/science/acoustic-fabric-could-let-you-answer-the-phone-with-your-shirt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mac Studio deals have arrived: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
