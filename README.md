@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WEEKEND start](http://9gag.com/gag/avAeANW)
- - 🚯 [And that&#39;s how i met your mother](http://9gag.com/gag/aegOQRb)
- - 🚯 [I do, do you?](http://9gag.com/gag/aAGEGjg)<!-- MEMES:END -->
+ - 🚖 [Rtx 3090 go brrrr](http://9gag.com/gag/aAGE0M9)
+ - 🚯 [Importance of a good ball boy](http://9gag.com/gag/aZrwDW0)
+ - 🚯 [And that&#39;s how i met your mother](http://9gag.com/gag/aegOQRb)<!-- MEMES:END -->
 
 --- 
 
