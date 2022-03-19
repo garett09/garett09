@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doctors say the rise of fantasy sports apps has led to a spike in gambling addiction in India, where gambling is illegal but fantasy gaming has no clear laws &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/220319/p2#a220319p2)
  - [The state of crypto and the metaverse, as seen at SXSW, is underwhelming and pathetic, showing off only how rich its boosters are and little of social utility &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220319/p1#a220319p1)
- - [Mac Studio &amp; Studio Display are at Apple Stores now, but you won&#39;t get the best deal](https://appleinsider.com/articles/22/03/18/mac-studio-studio-display-are-at-apple-stores-now-but-you-wont-get-the-best-deal?utm_medium=rss)
- - [Mac Studio deals have arrived: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)<!-- TECH:END -->
+ - [Mac Studio &amp; Studio Display are at Apple Stores now, but you won&#39;t get the best deal](https://appleinsider.com/articles/22/03/18/mac-studio-studio-display-are-at-apple-stores-now-but-you-wont-get-the-best-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
