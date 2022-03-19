@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 Ultra shootout: Is it the best camera phone of 2022 so far?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-camera-test-vs-best-camera-phones-3132563/)
- - [Apple’s 11-inch iPad Pro with the M1 processor is $50 off at Amazon](https://www.theverge.com/good-deals/2022/3/19/22984561/apple-ipad-pro-11-elden-ring-xbox-game-pass-ultimate-stereo-headset-google-nest-sonos-deal-sale)
- - [Tested: Mac Studio with M1 Max vs. Mac Studio with M1 Ultra](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-with-m1-max-versus-mac-studio-with-m1-ultra?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-424-3140521/)
+ - [Amazon antitrust lawsuit filed by DC attorney general thrown out in court](https://www.theverge.com/2022/3/19/22986307/dc-attorney-general-antitrust-lawsuit-amazon-tossed-out-court)
+ - [Best Air Impact Wrench for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-air-impact-wrench/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
