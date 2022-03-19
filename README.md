@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Galaxy A53](https://www.androidauthority.com/the-weekly-authority-edition-186-3139516/)
- - [Climate Change Is Disrupting the Global Supply Chain Too](https://www.wired.com/story/climate-change-is-disrupting-the-global-supply-chain-too)
- - [A Developer Altered Open Source Software to Wipe Files in Russia](https://www.wired.com/story/developer-altered-open-source-software-to-wipe-files-in-russia)<!-- TECH:END -->
+ - [Xiaomi Watch S1 review: Elegant design meets inelegant software](https://www.androidauthority.com/xiaomi-watch-s1-review-3132001/)
+ - [The 12 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
+ - [TSA’s First Crack at Guarding Pipelines From Hackers Falls Short](https://www.wired.com/story/tsa-pipeline-hack-anonymous-hillary-clinton-roundup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
