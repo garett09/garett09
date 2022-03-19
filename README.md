@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Deals on Fitness Trackers, Tablets, and Air Purifiers](https://www.wired.com/story/weekend-deals-march-19-2022)
- - [Should You Carry Your Dog in a Backpack? Yes](https://www.wired.com/review/little-chonk-the-maxine-one-dog-backpack)
- - [The 8 best Android smartphone processors in history](https://www.androidauthority.com/best-android-smartphone-processors-history-3110822/)<!-- TECH:END -->
+ - [The Weekly Authority: Galaxy A53](https://www.androidauthority.com/the-weekly-authority-edition-186-3139516/)
+ - [Climate Change Is Disrupting the Global Supply Chain Too](https://www.wired.com/story/climate-change-is-disrupting-the-global-supply-chain-too)
+ - [A Developer Altered Open Source Software to Wipe Files in Russia](https://www.wired.com/story/developer-altered-open-source-software-to-wipe-files-in-russia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
