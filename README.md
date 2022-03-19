@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is shifting its cybersecurity strategy from relying on companies&#39; voluntary cooperation toward stronger oversight, minimum security standards, and more &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220319/p4#a220319p4)
- - [Is the US Developing a Digital Dollar? This Week&#39;s Top Bitcoin &amp; Crypto News     - CNET](https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/#ftag=CAD590a51e)
- - [Just $64 Scores You a Lifetime License to Microsoft Office for Windows and Courses to Master It     - CNET](https://www.cnet.com/tech/services-and-software/just-64-scores-you-a-lifetime-license-to-microsoft-office-for-windows-and-courses-to-master-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Ultra shootout: Is it the best camera phone of 2022 so far?](https://www.androidauthority.com/samsung-galaxy-s22-ultra-camera-test-vs-best-camera-phones-3132563/)
+ - [Apple’s 11-inch iPad Pro with the M1 processor is $50 off at Amazon](https://www.theverge.com/good-deals/2022/3/19/22984561/apple-ipad-pro-11-elden-ring-xbox-game-pass-ultimate-stereo-headset-google-nest-sonos-deal-sale)
+ - [Tested: Mac Studio with M1 Max vs. Mac Studio with M1 Ultra](https://appleinsider.com/inside/mac-studio/vs/compared-mac-studio-with-m1-max-versus-mac-studio-with-m1-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
