@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When USSR and imperial Japan fought in WW2](http://9gag.com/gag/aAGE0Ao)
- - 🚯 [Show us your favorite dog gif](http://9gag.com/gag/aggOoNv)
- - 🚯 [Neuron activation](http://9gag.com/gag/aLve1qv)<!-- MEMES:END -->
+ - 🚖 [We met up later. He said his parents forced him into med school and during covid the constant deaths he dealt with was more than he could handle. He told me that even after things calm down he wont go back. I feel for him but I don&#39;t think pizza delivery was the right way to go](http://9gag.com/gag/a81mA71)
+ - 🚯 [Finally found it!!! Moment trans willy Larry Thomas &lpar;lia thomas&rpar; was announced winner in swimming championship, but massively booed by crowd.](http://9gag.com/gag/angn7d0)
+ - 🚯 [Sexy Beast!!!](http://9gag.com/gag/azePxAp)<!-- MEMES:END -->
 
 --- 
 
