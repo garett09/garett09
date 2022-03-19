@@ -198,8 +198,8 @@ Windows                  9 hrs               ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Shoes of b*tches](http://9gag.com/gag/aVxEvLn)
- - 🚯 [Going down with style](http://9gag.com/gag/a31A4DN)
- - 🚯 [I&#39;m Something of a Scientist Myself](http://9gag.com/gag/aRrZBPj)<!-- MEMES:END -->
+ - 🚯 [Sugar pulling machine](http://9gag.com/gag/aBnLZ21)
+ - 🚯 [Going down with style](http://9gag.com/gag/a31A4DN)<!-- MEMES:END -->
 
 --- 
 
