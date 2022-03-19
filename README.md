@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/aLvevzM)
- - 🚯 [Why women live longer than men.. Holi Celebration in India](http://9gag.com/gag/aKm9mNg)
- - 🚯 [So you DO can have sex accidentally](http://9gag.com/gag/avAeAVd)<!-- MEMES:END -->
+ - 🚖 [WEEKEND start](http://9gag.com/gag/avAeANW)
+ - 🚯 [And that&#39;s how i met your mother](http://9gag.com/gag/aegOQRb)
+ - 🚯 [I do, do you?](http://9gag.com/gag/aAGEGjg)<!-- MEMES:END -->
 
 --- 
 
