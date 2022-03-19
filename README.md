@@ -183,9 +183,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)
- - [This 50-hit Elden Ring illusory wall is probably a bug](https://www.pcgamer.com/this-50-hit-elden-ring-illusory-wall-is-probably-a-bug)
- - [Netflix’s thriller Windfall ponders how nice it would be to rob Mark Zuckerberg](https://www.polygon.com/22985672/windfall-review-netflix-jesse-plemons-jason-segel)<!-- GAME:END -->
+ - [This 50-hit Elden Ring illusory wall is probably a bug.](https://www.pcgamer.com/this-50-hit-elden-ring-illusory-wall-is-probably-a-bug)
+ - [Netflix’s thriller Windfall ponders how nice it would be to rob Mark Zuckerberg](https://www.polygon.com/22985672/windfall-review-netflix-jesse-plemons-jason-segel)
+ - [Humble&#39;s Stand With Ukraine bundle raises over $2M in less than a day](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-over-dollar2m-in-less-than-a-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
