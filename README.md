@@ -190,9 +190,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Watch S1 review: Elegant design meets inelegant software](https://www.androidauthority.com/xiaomi-watch-s1-review-3132001/)
- - [The 12 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
- - [TSA’s First Crack at Guarding Pipelines From Hackers Falls Short](https://www.wired.com/story/tsa-pipeline-hack-anonymous-hillary-clinton-roundup)<!-- TECH:END -->
+ - [The US is shifting its cybersecurity strategy from relying on companies&#39; voluntary cooperation toward stronger oversight, minimum security standards, and more &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220319/p4#a220319p4)
+ - [Is the US Developing a Digital Dollar? This Week&#39;s Top Bitcoin &amp; Crypto News     - CNET](https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/#ftag=CAD590a51e)
+ - [Just $64 Scores You a Lifetime License to Microsoft Office for Windows and Courses to Master It     - CNET](https://www.cnet.com/tech/services-and-software/just-64-scores-you-a-lifetime-license-to-microsoft-office-for-windows-and-courses-to-master-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
