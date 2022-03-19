@@ -197,9 +197,9 @@ Windows                  9 hrs               ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks joy, especially for the 2 in the back](http://9gag.com/gag/aGz8dB7)
- - 🚯 [Efficiency ` even their missiles hate them `](http://9gag.com/gag/ay94eM8)
- - 🚯 [We used to eat, watch movies and just spend time together every weekend. Now it is time to get rid of everything, go through all photos and belongings and also prepare for my dad\u2019s funeral.. i don&#39;t regret anything, i was with him till time came. hardest part was accepting that](http://9gag.com/gag/aYrO7Gm)<!-- MEMES:END -->
+ - 🚖 [Efficiency ` even their missiles hate them `](http://9gag.com/gag/ay94eM8)
+ - 🚯 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/a31Aw8Q)
+ - 🚯 [A personal trainer caught his wife having sex with a hobo &lpar;you read right&rpar;. He proceeded to beat up the hobo. The hobo\u00b4s face like: `It was worthy`](http://9gag.com/gag/aogVMKn)<!-- MEMES:END -->
 
 --- 
 
