@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know.](http://9gag.com/gag/a218ypO)
- - 🚯 [Three robbers snatch and run and get chased](http://9gag.com/gag/aPZPoOn)
- - 🚯 [In Energodar, unarmed protesters are ready to do anything to defend their country. They are not even frightened by warning shots.](http://9gag.com/gag/azePOmm)<!-- MEMES:END -->
+ - 🚖 [Brazil received the first group of ukranians. They are going to a city where 75% of its population are ukranians descendents.](http://9gag.com/gag/aVxEZ2y)
+ - 🚯 [Straight](http://9gag.com/gag/aZrwQN3)
+ - 🚯 [Few word do trick](http://9gag.com/gag/aqG8QqM)<!-- MEMES:END -->
 
 --- 
 
