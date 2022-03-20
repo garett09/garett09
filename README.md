@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 13 Pro in Alpine Green: Hands on](https://appleinsider.com/articles/22/03/20/apples-iphone-13-pro-in-alpine-green-hands-on?utm_medium=rss)
- - [MacBook Air revamp delayed to late 2022, 2023 for 14-inch, 16-inch MacBook Pro](https://appleinsider.com/articles/22/03/20/macbook-air-revamp-delayed-to-late-2022-2023-for-14-inch-16-inch-macbook-pro?utm_medium=rss)
- - [Russia denies cosmonauts wore yellow in support of Ukraine](https://www.theverge.com/2022/3/20/22987541/russia-denies-reports-cosmonauts-wore-yellow-support-ukraine-invasion-roscosmos)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3 revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-revisited-3132142/)
+ - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone 13 Pro in Alpine Green: Hands on](https://appleinsider.com/articles/22/03/20/apples-iphone-13-pro-in-alpine-green-hands-on?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
