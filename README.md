@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is releasing a Tekken anime series this year, here’s the first teaser trailer](https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming)
- - [Mykhailo Fedorov says the quality of Starlink is excellent, as Ukrainians use the terminals to stay online; source says there are 5K+ terminals in the country &lpar;Washington Post&rpar;](http://www.techmeme.com/220319/p9#a220319p9)
- - [Google has begun rolling out a feature that lets users delete the last 15 minutes of their search history on Android, eight months after rolling it out for iOS &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220319/p8#a220319p8)<!-- TECH:END -->
+ - [Limestone, Tennessee residents were promised economic benefits from a bitcoin mine, but now face constant noise pollution from its computers and cooling fans &lpar;Kevin Williams/Washington Post&rpar;](http://www.techmeme.com/220320/p2#a220320p2)
+ - [A former Apple employee is facing federal charges for allegedly defrauding Apple out of $10M+ by taking kickbacks, stealing parts, evading taxes, and more &lpar;CBS San Francisco&rpar;](http://www.techmeme.com/220320/p1#a220320p1)
+ - [Netflix is releasing a Tekken anime series this year, here’s the first teaser trailer](https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
