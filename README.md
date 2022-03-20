@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is kinda accurate](http://9gag.com/gag/aPZPeqP)
- - 🚯 [That&#39;s why i stay on the dry land](http://9gag.com/gag/aVxELjO)
- - 🚯 [In Energodar, unarmed protesters are ready to do anything to defend their country. They are not even frightened by warning shots.](http://9gag.com/gag/azePOmm)<!-- MEMES:END -->
+ - 🚖 [In Energodar, unarmed protesters are ready to do anything to defend their country. They are not even frightened by warning shots.](http://9gag.com/gag/azePOmm)
+ - 🚯 [My dear Slovak friends, does any of you know that several tons of iron oxide have been pouring into the Slan\u00e1&lpar;Saj\u00f3&rpar; River from a mine for a month now? The authorities are not doing anything about it.](http://9gag.com/gag/aogVLge)
+ - 🚯 [That&#39;s why i stay on the dry land](http://9gag.com/gag/aVxELjO)<!-- MEMES:END -->
 
 --- 
 
