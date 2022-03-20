@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Country level *BONK* [Sauce-Vladilena Milize]](http://9gag.com/gag/aGz8Am7)
- - 🚯 [My dear Slovak friends, does any of you know that several tons of iron oxide have been pouring into the Slan\u00e1&lpar;Saj\u00f3&rpar; River from a mine for a month now? The authorities are not doing anything about it.](http://9gag.com/gag/aogVLge)
- - 🚯 [Alcohol is never the answer.. Alcohol is the question and yes is the answer.](http://9gag.com/gag/aQXQ23W)<!-- MEMES:END -->
+ - 🚖 [SHOCKING: New study finds most people actually seek a higher paying job](http://9gag.com/gag/aYrOMR0)
+ - 🚯 [God dayum](http://9gag.com/gag/ay94Q4X)
+ - 🚯 [What a friendly person](http://9gag.com/gag/aegOxrp)<!-- MEMES:END -->
 
 --- 
 
