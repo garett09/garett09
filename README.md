@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now that Apple is once again making monitors, it should go all-in and return to making wireless routers to compete with Google and Amazon offerings &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220320/p5#a220320p5)
- - [Samsung Galaxy Z Fold 3 revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-revisited-3132142/)
- - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the tensions between Bob Chapek and Bob Iger as Disney restructures preparing for a world where streaming dominates and legacy distribution fades away &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/220320/p6#a220320p6)
+ - [I ditched consumer Wi-Fi routers, and I recommend you do too](https://www.androidauthority.com/ubiquiti-dream-machine-wifi-router-3136705/)
+ - [Elden Ring exploit sends PC players into infinite death loops](https://www.theverge.com/2022/3/20/22987706/elden-ring-exploit-pc-infinite-death-loop-hack-glitch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
