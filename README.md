@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What was the last boss fight that made you rage?](https://www.pcgamer.com/what-was-the-last-boss-fight-that-made-you-rage)
- - [Vampire: the Masquerade – Swansong promises a Telltale-style take on the World of Darkness](https://www.pcgamer.com/vampire-the-masquerade-swansong-promises-a-telltale-style-take-on-the-world-of-darkness)
- - [PSA: Elden Ring hackers are locking players in infinite death loops.](https://www.pcgamer.com/psa-elden-ring-hackers-are-locking-players-in-infinite-death-loops)<!-- GAME:END -->
+ - [Game Pass is on Steam Deck using an Edge browser beta](https://www.pcgamer.com/game-pass-is-on-steam-deck-using-an-edge-browser-beta)
+ - [In 1995, Mortal Coil was cutting-edge, but still a terrible shooter](https://www.pcgamer.com/saturday-crapshoot-mortal-coil)
+ - [What was the last boss fight that made you rage?](https://www.pcgamer.com/what-was-the-last-boss-fight-that-made-you-rage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
