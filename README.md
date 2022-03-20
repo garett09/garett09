@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Air&#39;s thin back panel and creaks prompt build quality complaints](https://appleinsider.com/articles/22/03/20/new-ipad-airs-thin-back-panel-and-creaks-prompt-build-quality-complaints?utm_medium=rss)
- - [A look at the fallout between Bob Chapek and Bob Iger as Disney restructures for a world where streaming dominates and legacy distribution models fade away &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/220320/p6#a220320p6)
- - [I ditched consumer Wi-Fi routers, and I recommend you do too](https://www.androidauthority.com/ubiquiti-dream-machine-wifi-router-3136705/)<!-- TECH:END -->
+ - [Q&amp;A with Margrethe Vestager on the EU&#39;s cases against Apple, Google, Meta, and Amazon, how the planned Digital Markets Act will help enforce antitrust, and more &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220320/p7#a220320p7)
+ - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license is discounted to $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/02/15/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-for-4999-85-off-while-supplies-last?utm_medium=rss)
+ - [New iPad Air&#39;s thin back panel and creaks prompt build quality complaints](https://appleinsider.com/articles/22/03/20/new-ipad-airs-thin-back-panel-and-creaks-prompt-build-quality-complaints?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
