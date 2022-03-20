@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who doesn&#39;t love a good Jigsaw...](http://9gag.com/gag/aVxEExn)
- - 🚯 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)
- - 🚯 [Lady in white SUV tries to bully 18-wheeler](http://9gag.com/gag/aZrw1j6)<!-- MEMES:END -->
+ - 🚖 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)
+ - 🚯 [Kitty&#39;s got moves y&#39;all](http://9gag.com/gag/azePPRp)
+ - 🚯 [Sky Diving Moves](http://9gag.com/gag/angnn1o)<!-- MEMES:END -->
 
 --- 
 
