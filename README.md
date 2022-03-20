@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What your favorite Abbott Elementary teacher says about how you were in school](https://www.polygon.com/22983403/abbott-elementary-teachers-personality)
  - [Great moments in PC gaming: Playing with fire in Divinity: Original Sin 2](https://www.pcgamer.com/great-moments-in-pc-gaming-playing-with-fire-in-divinity-original-sin-2)
- - [Revived Skyrim mod lets you explore Morrowind in the Fourth Era](https://www.pcgamer.com/revived-skyrim-mod-lets-you-explore-morrowind-in-the-fourth-era)
- - [Game Pass is on Steam Deck using an Edge browser beta](https://www.pcgamer.com/game-pass-is-on-steam-deck-using-an-edge-browser-beta)<!-- GAME:END -->
+ - [Revived Skyrim mod lets you explore Morrowind in the Fourth Era](https://www.pcgamer.com/revived-skyrim-mod-lets-you-explore-morrowind-in-the-fourth-era)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
