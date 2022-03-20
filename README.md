@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the tensions between Bob Chapek and Bob Iger as Disney restructures preparing for a world where streaming dominates and legacy distribution fades away &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/220320/p6#a220320p6)
- - [I ditched consumer Wi-Fi routers, and I recommend you do too](https://www.androidauthority.com/ubiquiti-dream-machine-wifi-router-3136705/)
- - [Elden Ring exploit sends PC players into infinite death loops](https://www.theverge.com/2022/3/20/22987706/elden-ring-exploit-pc-infinite-death-loop-hack-glitch)<!-- TECH:END -->
+ - [New iPad Air&#39;s thin back panel and creaks prompt build quality complaints](https://appleinsider.com/articles/22/03/20/new-ipad-airs-thin-back-panel-and-creaks-prompt-build-quality-complaints?utm_medium=rss)
+ - [A look at the fallout between Bob Chapek and Bob Iger as Disney restructures for a world where streaming dominates and legacy distribution models fade away &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/220320/p6#a220320p6)
+ - [I ditched consumer Wi-Fi routers, and I recommend you do too](https://www.androidauthority.com/ubiquiti-dream-machine-wifi-router-3136705/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
