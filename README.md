@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for the car, the wrong way](http://9gag.com/gag/aggOQv1)
- - 🚯 [Seems about right](http://9gag.com/gag/aWgL7X4)
- - 🚯 [The legend &lpar;mate&rpar;](http://9gag.com/gag/aXrNMn9)<!-- MEMES:END -->
+ - 🚖 [Seems about right](http://9gag.com/gag/aWgL7X4)
+ - 🚯 [The legend &lpar;mate&rpar;](http://9gag.com/gag/aXrNMn9)
+ - 🚯 [We met up later. He said his parents forced him into med school and during covid the constant deaths he dealt with was more than he could handle. He told me that even after things calm down he wont go back. I feel for him but I don&#39;t think pizza delivery was the right way to go](http://9gag.com/gag/a81mA71)<!-- MEMES:END -->
 
 --- 
 
