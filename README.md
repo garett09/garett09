@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Supporters of oppsition leader running against a son of a former dictator in the Philippines](http://9gag.com/gag/aPZPe3V)
- - 🚯 [Brazil received the first group of ukranians. They are going to a city where 75% of its population are ukranians descendents.](http://9gag.com/gag/aVxEZ2y)
- - 🚯 [That&#39;s why i stay on the dry land](http://9gag.com/gag/aVxELjO)<!-- MEMES:END -->
+ - 🚖 [Country level *BONK* [Sauce-Vladilena Milize]](http://9gag.com/gag/aGz8Am7)
+ - 🚯 [My dear Slovak friends, does any of you know that several tons of iron oxide have been pouring into the Slan\u00e1&lpar;Saj\u00f3&rpar; River from a mine for a month now? The authorities are not doing anything about it.](http://9gag.com/gag/aogVLge)
+ - 🚯 [Alcohol is never the answer.. Alcohol is the question and yes is the answer.](http://9gag.com/gag/aQXQ23W)<!-- MEMES:END -->
 
 --- 
 
