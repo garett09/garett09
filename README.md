@@ -199,8 +199,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prison break](http://9gag.com/gag/aDDn827)
- - 🚯 [Ricardo follower](http://9gag.com/gag/ay946B8)
+ - 🚖 [Good boy. 14/10](http://9gag.com/gag/aogVVXm)
+ - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)
  - 🚯 [This aged like fine wine](http://9gag.com/gag/aogVRLx)<!-- MEMES:END -->
 
 --- 
