@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now that Apple is once again making monitors, it should go all-in and return to making wireless routers to compete with Google and Amazon offerings &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220320/p5#a220320p5)
  - [Samsung Galaxy Z Fold 3 revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-revisited-3132142/)
- - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone 13 Pro in Alpine Green: Hands on](https://appleinsider.com/articles/22/03/20/apples-iphone-13-pro-in-alpine-green-hands-on?utm_medium=rss)<!-- TECH:END -->
+ - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
