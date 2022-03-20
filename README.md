@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Self-destruction sequence initiated](http://9gag.com/gag/ajgOLKG)
- - 🚯 [If you know.](http://9gag.com/gag/a218ypO)
- - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)<!-- MEMES:END -->
+ - 🚖 [If you know.](http://9gag.com/gag/a218ypO)
+ - 🚯 [Three robbers snatch and run and get chased](http://9gag.com/gag/aPZPoOn)
+ - 🚯 [In Energodar, unarmed protesters are ready to do anything to defend their country. They are not even frightened by warning shots.](http://9gag.com/gag/azePOmm)<!-- MEMES:END -->
 
 --- 
 
