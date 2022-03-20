@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #274: Sunday, March 20](https://www.pcgamer.com/wordle-march-20-274-5-letter-words-starting-with-re)
  - [Sunday Comics: Grandpa](https://kotaku.com/sunday-comics-grandpa-1848677760)
- - [What your favorite Abbott Elementary teacher says about how you were in school](https://www.polygon.com/22983403/abbott-elementary-teachers-personality)
- - [Great moments in PC gaming: Playing with fire in Divinity: Original Sin 2](https://www.pcgamer.com/great-moments-in-pc-gaming-playing-with-fire-in-divinity-original-sin-2)<!-- GAME:END -->
+ - [What your favorite Abbott Elementary teacher says about how you were in school](https://www.polygon.com/22983403/abbott-elementary-teachers-personality)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
