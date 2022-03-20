@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boy. 14/10](http://9gag.com/gag/aogVVXm)
- - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)
- - 🚯 [This aged like fine wine](http://9gag.com/gag/aogVRLx)<!-- MEMES:END -->
+ - 🚖 [This aged like fine wine](http://9gag.com/gag/aogVRLx)
+ - 🚯 [Three robbers snatch and run and get chased](http://9gag.com/gag/aPZPoOn)
+ - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)<!-- MEMES:END -->
 
 --- 
 
