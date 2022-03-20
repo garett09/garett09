@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [House is Swarmed After Being Listed for under $300k](http://9gag.com/gag/aBnLV8Z)
- - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)
- - 🚯 [Self-destruction sequence initiated](http://9gag.com/gag/ajgOLKG)<!-- MEMES:END -->
+ - 🚖 [Honey, where did you put my Russian rocket? It&#39;s in the cupboard dear.](http://9gag.com/gag/aKm9Wmj)
+ - 🚯 [Self-destruction sequence initiated](http://9gag.com/gag/ajgOLKG)
+ - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)<!-- MEMES:END -->
 
 --- 
 
