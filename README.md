@@ -199,8 +199,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honey, where did you put my Russian rocket? It&#39;s in the cupboard dear.](http://9gag.com/gag/aKm9Wmj)
- - 🚯 [Self-destruction sequence initiated](http://9gag.com/gag/ajgOLKG)
+ - 🚖 [Self-destruction sequence initiated](http://9gag.com/gag/ajgOLKG)
+ - 🚯 [If you know.](http://9gag.com/gag/a218ypO)
  - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)<!-- MEMES:END -->
 
 --- 
