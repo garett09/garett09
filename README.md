@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We met up later. He said his parents forced him into med school and during covid the constant deaths he dealt with was more than he could handle. He told me that even after things calm down he wont go back. I feel for him but I don&#39;t think pizza delivery was the right way to go](http://9gag.com/gag/a81mA71)
+ - 🚖 [Weekend](http://9gag.com/gag/aNPv99b)
  - 🚯 [The legend &lpar;mate&rpar;](http://9gag.com/gag/aXrNMn9)
- - 🚯 [Sky Diving Moves](http://9gag.com/gag/angnn1o)<!-- MEMES:END -->
+ - 🚯 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)<!-- MEMES:END -->
 
 --- 
 
