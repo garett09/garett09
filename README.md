@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weekend](http://9gag.com/gag/aNPv99b)
- - 🚯 [The legend &lpar;mate&rpar;](http://9gag.com/gag/aXrNMn9)
- - 🚯 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)<!-- MEMES:END -->
+ - 🚖 [Who doesn&#39;t love a good Jigsaw...](http://9gag.com/gag/aVxEExn)
+ - 🚯 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)
+ - 🚯 [Lady in white SUV tries to bully 18-wheeler](http://9gag.com/gag/aZrw1j6)<!-- MEMES:END -->
 
 --- 
 
