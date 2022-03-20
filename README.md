@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic is donating two weeks of Fortnite proceeds to Ukraine relief](https://www.theverge.com/2022/3/20/22986671/epic-fortnite-season-2-ukraine-relief)
  - [Limestone, Tennessee residents were promised economic benefits from a bitcoin mine, but now face constant noise pollution from its computers and cooling fans &lpar;Kevin Williams/Washington Post&rpar;](http://www.techmeme.com/220320/p2#a220320p2)
- - [A former Apple employee is facing federal charges for allegedly defrauding Apple out of $10M+ by taking kickbacks, stealing parts, evading taxes, and more &lpar;CBS San Francisco&rpar;](http://www.techmeme.com/220320/p1#a220320p1)
- - [Netflix is releasing a Tekken anime series this year, here’s the first teaser trailer](https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming)<!-- TECH:END -->
+ - [A former Apple employee is facing federal charges for allegedly defrauding Apple out of $10M+ by taking kickbacks, stealing parts, evading taxes, and more &lpar;CBS San Francisco&rpar;](http://www.techmeme.com/220320/p1#a220320p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
