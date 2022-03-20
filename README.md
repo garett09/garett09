@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Batman and Me takes a startling look at an obsessive fan — and the director judging him](https://www.polygon.com/22985674/batman-and-me-documentary-review)
  - [Today&#39;s Wordle answer #274: Sunday, March 20](https://www.pcgamer.com/wordle-march-20-274-5-letter-words-starting-with-re)
- - [Sunday Comics: Grandpa](https://kotaku.com/sunday-comics-grandpa-1848677760)
- - [What your favorite Abbott Elementary teacher says about how you were in school](https://www.polygon.com/22983403/abbott-elementary-teachers-personality)<!-- GAME:END -->
+ - [Sunday Comics: Grandpa](https://kotaku.com/sunday-comics-grandpa-1848677760)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
