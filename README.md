@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman and Me takes a startling look at an obsessive fan — and the director judging him](https://www.polygon.com/22985674/batman-and-me-documentary-review)
- - [Today&#39;s Wordle answer #274: Sunday, March 20](https://www.pcgamer.com/wordle-march-20-274-5-letter-words-starting-with-re)
- - [Sunday Comics: Grandpa](https://kotaku.com/sunday-comics-grandpa-1848677760)<!-- GAME:END -->
+ - [This Week on Xbox: New ID@Xbox Games, Surprise Xbox Game Pass Additions, and More](https://news.xbox.com/en-us/2022/03/20/this-week-on-xbox-new-idxbox-games-surprise-xbox-game-pass-additions-and-more/)
+ - [Epic, Xbox contributing Fortnite proceeds to humanitarian relief in Ukraine](https://www.pcgamer.com/epic-xbox-contributing-fortnite-proceeds-to-humanitarian-relief-in-ukraine)
+ - [Elden Ring Secret Wall Blows Everyone’s Mind, Turns Into Saga](https://kotaku.com/elden-ring-illusory-wall-volcano-manor-secret-fromsoftw-1848677891)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
