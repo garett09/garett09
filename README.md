@@ -199,8 +199,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This aged like fine wine](http://9gag.com/gag/aogVRLx)
- - 🚯 [Three robbers snatch and run and get chased](http://9gag.com/gag/aPZPoOn)
+ - 🚖 [Pedestrians in Nigeria can\u2019t stop complimenting this man\u2019s homemade race car.](http://9gag.com/gag/aGz8BWw)
+ - 🚯 [House is Swarmed After Being Listed for under $300k](http://9gag.com/gag/aBnLV8Z)
  - 🚯 [Everything went better than expected](http://9gag.com/gag/aDDn8eO)<!-- MEMES:END -->
 
 --- 
