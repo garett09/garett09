@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio teardown reveals potentially upgradeable SSD storage](https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple)
- - [How researchers are using self-supervised learning, a branch of AI that has proven effective for handling human language, to better understand animal sounds &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220319/p7#a220319p7)
- - [March Madness 2022: How to Watch, Stream Saint Peter&#39;s vs. Murray State, Gonzaga vs. Memphis and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2022-how-to-watch-stream-saint-peters-vs-murray-state-gonzaga-vs-memphis-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mykhailo Fedorov says the quality of Starlink is excellent, as Ukrainians use the terminals to stay online; source says there are 5K+ terminals in the country &lpar;Washington Post&rpar;](http://www.techmeme.com/220319/p9#a220319p9)
+ - [Google has begun rolling out a feature that lets users delete the last 15 minutes of their search history on Android, eight months after rolling it out for iOS &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220319/p8#a220319p8)
+ - [Mac Studio teardown reveals potentially upgradeable SSD storage](https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
