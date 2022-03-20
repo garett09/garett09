@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show yourself to the world.](http://9gag.com/gag/aGz88K6)
+ - 🚖 [Ricardo follower](http://9gag.com/gag/ay946B8)
  - 🚯 [Kitty&#39;s got moves y&#39;all](http://9gag.com/gag/azePPRp)
- - 🚯 [Sky Diving Moves](http://9gag.com/gag/angnn1o)<!-- MEMES:END -->
+ - 🚯 [BLM is a scam](http://9gag.com/gag/azePPVB)<!-- MEMES:END -->
 
 --- 
 
