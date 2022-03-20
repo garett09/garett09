@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage of actual combat use of the FGM-148 Javelin anti-tank missile system by the Ukrainian army](http://9gag.com/gag/aYrOG6x)
- - 🚯 [Weekend](http://9gag.com/gag/aNPv99b)
- - 🚯 [Lady in white SUV tries to bully 18-wheeler](http://9gag.com/gag/aZrw1j6)<!-- MEMES:END -->
+ - 🚖 [Asking for the car, the wrong way](http://9gag.com/gag/aggOQv1)
+ - 🚯 [Seems about right](http://9gag.com/gag/aWgL7X4)
+ - 🚯 [The legend &lpar;mate&rpar;](http://9gag.com/gag/aXrNMn9)<!-- MEMES:END -->
 
 --- 
 
