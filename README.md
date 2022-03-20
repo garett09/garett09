@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protect and Charge Your Apple Watch With Our Favorite Accessories](https://www.wired.com/gallery/best-apple-watch-accessories)
  - [How to zoom out on an Apple Watch](https://www.androidauthority.com/zoom-out-apple-watch-3137248/)
- - [Epic is donating two weeks of Fortnite proceeds to Ukraine relief](https://www.theverge.com/2022/3/20/22986671/epic-fortnite-season-2-ukraine-relief)
- - [Limestone, Tennessee residents were promised economic benefits from a bitcoin mine, but now face constant noise pollution from its computers and cooling fans &lpar;Kevin Williams/Washington Post&rpar;](http://www.techmeme.com/220320/p2#a220320p2)<!-- TECH:END -->
+ - [Epic is donating two weeks of Fortnite proceeds to Ukraine relief](https://www.theverge.com/2022/3/20/22986671/epic-fortnite-season-2-ukraine-relief)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
