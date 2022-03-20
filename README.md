@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome OS tests variable refresh rate support](https://www.theverge.com/2022/3/20/22987668/chrome-os-tests-variable-refresh-rate-vrr-support-dev-channel-101-update)
  - [Cricut Maker review: Extremely versatile machine that needs software innovation](https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation?utm_medium=rss)
- - [&#39;CODA,&#39; Ted Lasso&#39; continue Apple TV+&#39;s winning streak at PGA Awards](https://appleinsider.com/articles/22/03/20/coda-ted-lasso-continue-apple-tvs-winning-streak-at-pga-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Brazil&#39;s Supreme Court reverses its decision to ban Telegram, which it had ordered on Friday, after Telegram suddenly worked to comply with the court&#39;s orders &lpar;New York Times&rpar;](http://www.techmeme.com/220320/p8#a220320p8)
+ - [Nintendo Wii and DSi Shop channels have been down for days](https://www.theverge.com/2022/3/20/22988097/nintendo-wii-dsi-shop-channels-down-for-days)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
