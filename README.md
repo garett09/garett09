@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doctors often use Google Translate to talk with non-English speaking patients, but researchers say inaccurate results are common and can lead to serious errors &lpar;Katie Palmer/STAT&rpar;](http://www.techmeme.com/220320/p3#a220320p3)
- - [Is the Pixel 6 the only true affordable flagship now?](https://www.androidauthority.com/pixel-6-last-affordable-flagship-3140140/)
- - [How to Limit Who Can Contact You on Twitter](https://www.wired.com/story/how-to-limit-who-can-contact-you-twitter)<!-- TECH:END -->
+ - [Top Deals March 20: $175 AirPods Pro, $43 Razer Kraken Headset, $390 Gigabyte Curved Monitor](https://appleinsider.com/articles/22/03/20/top-deals-march-20-175-airpods-pro-43-razer-kraken-headset-390-gigabyte-curved-monitor?utm_medium=rss)
+ - [The 16 Best Wireless Headphones for Everyone](https://www.wired.com/gallery/best-wireless-headphones)
+ - [Organic Mattresses We Actually Like to Sleep On](https://www.wired.com/story/best-organic-mattresses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
