@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protect and Charge Your Apple Watch With Our Favorite Accessories](https://www.wired.com/gallery/best-apple-watch-accessories)
- - [How to zoom out on an Apple Watch](https://www.androidauthority.com/zoom-out-apple-watch-3137248/)
- - [Epic is donating two weeks of Fortnite proceeds to Ukraine relief](https://www.theverge.com/2022/3/20/22986671/epic-fortnite-season-2-ukraine-relief)<!-- TECH:END -->
+ - [Doctors often use Google Translate to talk with non-English speaking patients, but researchers say inaccurate results are common and can lead to serious errors &lpar;Katie Palmer/STAT&rpar;](http://www.techmeme.com/220320/p3#a220320p3)
+ - [Is the Pixel 6 the only true affordable flagship now?](https://www.androidauthority.com/pixel-6-last-affordable-flagship-3140140/)
+ - [How to Limit Who Can Contact You on Twitter](https://www.wired.com/story/how-to-limit-who-can-contact-you-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
