@@ -199,9 +199,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ricardo follower](http://9gag.com/gag/ay946B8)
- - 🚯 [Kitty&#39;s got moves y&#39;all](http://9gag.com/gag/azePPRp)
- - 🚯 [BLM is a scam](http://9gag.com/gag/azePPVB)<!-- MEMES:END -->
+ - 🚖 [Pure satisfaction.](http://9gag.com/gag/a51Bw6o)
+ - 🚯 [Prison break](http://9gag.com/gag/aDDn827)
+ - 🚯 [Ricardo follower](http://9gag.com/gag/ay946B8)<!-- MEMES:END -->
 
 --- 
 
