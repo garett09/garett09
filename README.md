@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is releasing a Tekken anime series this year, here’s the first teaser trailer](https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming)
  - [Mykhailo Fedorov says the quality of Starlink is excellent, as Ukrainians use the terminals to stay online; source says there are 5K+ terminals in the country &lpar;Washington Post&rpar;](http://www.techmeme.com/220319/p9#a220319p9)
- - [Google has begun rolling out a feature that lets users delete the last 15 minutes of their search history on Android, eight months after rolling it out for iOS &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220319/p8#a220319p8)
- - [Mac Studio teardown reveals potentially upgradeable SSD storage](https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple)<!-- TECH:END -->
+ - [Google has begun rolling out a feature that lets users delete the last 15 minutes of their search history on Android, eight months after rolling it out for iOS &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220319/p8#a220319p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
