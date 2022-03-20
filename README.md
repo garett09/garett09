@@ -185,9 +185,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wii And DSi Shop Channels Have Been Down For Days With No Sign Of Return](https://kotaku.com/wii-3ds-nintendo-shop-stores-down-servers-closed-2022-1848678116)
- - [Fortnite’s new season removes building, adds Doctor Strange and a new type of shield](https://www.polygon.com/22984759/fortnite-building-removed-chapter-3-season-2-changes-sprinting-overshield-strange)
- - [This Week on Xbox: New ID@Xbox Games, Surprise Xbox Game Pass Additions, and More](https://news.xbox.com/en-us/2022/03/20/this-week-on-xbox-new-idxbox-games-surprise-xbox-game-pass-additions-and-more/)<!-- GAME:END -->
+ - [The Week In Games: Prepare For March 25](https://kotaku.com/the-week-in-games-prepare-for-march-25-1848678328)
+ - [No one is safe from Destiny copyright strikes, not even Bungie](https://www.pcgamer.com/no-one-is-safe-from-destiny-copyright-strikes-not-even-bungie)
+ - [Elden Ring players are already tearing through the game without leveling up](https://www.pcgamer.com/elden-ring-players-are-already-tearing-through-the-game-without-leveling-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
