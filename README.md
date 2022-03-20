@@ -192,9 +192,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a good reason why Samsung is throttling your apps and games](https://www.androidauthority.com/why-manufacturers-throttle-apps-3135425/)
- - [Acer Chromebook 514 Review: Everyday Performance, All Day Long     - CNET](https://www.cnet.com/tech/computing/acer-chromebook-514-review-everyday-performance-all-day-long/#ftag=CAD590a51e)
- - [Top Deals March 20: $175 AirPods Pro, free ice cream, $390 Gigabyte Curved Monitor](https://appleinsider.com/articles/22/03/20/top-deals-march-20-175-airpods-pro-43-razer-kraken-headset-390-gigabyte-curved-monitor?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 13 Pro in Alpine Green: Hands on](https://appleinsider.com/articles/22/03/20/apples-iphone-13-pro-in-alpine-green-hands-on?utm_medium=rss)
+ - [MacBook Air revamp delayed to late 2022, 2023 for 14-inch, 16-inch MacBook Pro](https://appleinsider.com/articles/22/03/20/macbook-air-revamp-delayed-to-late-2022-2023-for-14-inch-16-inch-macbook-pro?utm_medium=rss)
+ - [Russia denies cosmonauts wore yellow in support of Ukraine](https://www.theverge.com/2022/3/20/22987541/russia-denies-reports-cosmonauts-wore-yellow-support-ukraine-invasion-roscosmos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
