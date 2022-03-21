@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found my problem!](http://9gag.com/gag/aDDnQbK)
- - 🚯 [Relax your mind awhile from everything that happening now](http://9gag.com/gag/a0ZVOZX)
- - 🚯 [Happy Birthday to me.](http://9gag.com/gag/a71enDw)<!-- MEMES:END -->
+ - 🚖 [Relax your mind awhile from everything that happening now](http://9gag.com/gag/a0ZVOZX)
+ - 🚯 [Don&#39;t fall for her. Her buff is useless.](http://9gag.com/gag/a91vDBm)
+ - 🚯 [Found my problem!](http://9gag.com/gag/aDDnQbK)<!-- MEMES:END -->
 
 --- 
 
