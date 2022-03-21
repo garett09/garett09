@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Know About BA.2, or COVID&#39;s &#39;Stealth Omicron&#39; Variant     - CNET](https://www.cnet.com/health/medical/what-to-know-about-ba-2-or-covids-stealth-omicron-variant/#ftag=CAD590a51e)
- - [Google Removes Android Statues From Its Headquarters in Mountain View     - CNET](https://www.cnet.com/tech/mobile/google-removes-android-statues-from-its-headquarters-in-mountain-view/#ftag=CAD590a51e)
- - [iPhone SE &lpar;2022&rpar; Review: Apple&#39;s Cheapest 5G iPhone Is An Incredible Value     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-review-apples-cheapest-5g-iphone-is-an-incredible-value/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Application layer security startup Bionic raises a $65M Series B led by Insight Partners, bringing its total funding to $83M &lpar;CTech&rpar;](http://www.techmeme.com/220321/p24#a220321p24)
+ - [Google settles with engineers who said they were fired for trying to organize](https://www.theverge.com/2022/3/21/22989683/google-fired-engineers-union-settlement-lawsuit-project-vivian)
+ - [The Mac Studio’s removable SSD is reportedly blocked by Apple on a software level](https://www.theverge.com/2022/3/21/22989226/apple-mac-studios-removable-ssd-blocked-software-replacement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
