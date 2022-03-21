@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon Draws our favorite Spirit Ash summons from Elden Ring](https://www.polygon.com/gaming/22985651/elden-ring-spirit-ash-summons-polygon-draws-kirby-skyrim)
- - [League of Legends’ first novel is a blast from the past starring Viego and Kalista](https://www.polygon.com/22989562/league-of-legends-ruination-novel-kalista-viego-story)
- - [Classic Guilty Gear Character Comes Out As Non-Binary In Latest Game](https://kotaku.com/guilty-gear-strive-arc-system-works-testament-trans-non-1848681452)<!-- GAME:END -->
+ - [Call of Duty season 2 Reloaded sends Snoop Dogg to WWII](https://www.polygon.com/call-of-duty/22989729/call-of-duty-season-2-reloaded-snoop-dogg-warzone-vanguard)
+ - [Celebrate Polygon’s Who Would Win Week on Twitch this Tuesday with Tier Pressure](https://www.polygon.com/22989412/tier-pressure-twitch-stream)
+ - [Polygon Draws our favorite Spirit Ash summons from Elden Ring](https://www.polygon.com/gaming/22985651/elden-ring-spirit-ash-summons-polygon-draws-kirby-skyrim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
