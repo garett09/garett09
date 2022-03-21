@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modern Video Games With Retro Box Art](https://kotaku.com/modern-games-retro-box-art-illustrations-art-genesis-sn-1848678439)
  - [Five new Steam games you probably missed &lpar;March 21, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-21-2022)
- - [A Plague Tale: Innocence is going to be a TV series](https://www.pcgamer.com/a-plague-tale-innocence-is-going-to-be-a-tv-series)
- - [Free-to-play MMO Lord of the Rings Online is getting more generous](https://www.pcgamer.com/free-to-play-mmo-lord-of-the-rings-online-is-getting-more-generous)<!-- GAME:END -->
+ - [A Plague Tale: Innocence is going to be a TV series](https://www.pcgamer.com/a-plague-tale-innocence-is-going-to-be-a-tv-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
