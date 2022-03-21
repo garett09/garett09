@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SHOCKING: New study finds most people actually seek a higher paying job](http://9gag.com/gag/aYrOMR0)
+ - 🚖 [Well, that was fast](http://9gag.com/gag/angnEY5)
  - 🚯 [God dayum](http://9gag.com/gag/ay94Q4X)
- - 🚯 [What a friendly person](http://9gag.com/gag/aegOxrp)<!-- MEMES:END -->
+ - 🚯 [Alcohol is never the answer.. Alcohol is the question and yes is the answer.](http://9gag.com/gag/aQXQ23W)<!-- MEMES:END -->
 
 --- 
 
