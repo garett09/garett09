@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring hackers are corrupting save files through invasions](https://www.polygon.com/22988960/elden-ring-invader-hack-corrupted-save-file-fix)
- - [Ghostwire: Tokyo review](https://www.pcgamer.com/ghostwire-tokyo-review)
- - [Who Would Win Week](https://www.polygon.com/22955160/who-would-win-week-2022)<!-- GAME:END -->
+ - [Digital human faces are getting eerily accurate](https://www.polygon.com/22989109/unity-tech-demo-enemies-video-hair-face-gdc-2022)
+ - [PlayStation acquires Jade Raymond’s Haven Studios](https://www.polygon.com/22989189/sony-playstation-studios-buys-haven-jade-raymond-ps5)
+ - [Ghostwire: Tokyo Reviews Are All Over The Map](https://kotaku.com/ghostwire-tokyo-review-scores-tango-gameworks-ps5-pc-sh-1848680062)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
