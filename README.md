@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 3 Season 2: Everything we know so far](https://www.pcgamer.com/fortnite-chapter-3-season-2)
- - [There&#39;s a Witcher 3 easter egg that takes 7 in-game years to reveal](https://www.pcgamer.com/theres-a-witcher-3-easter-egg-that-takes-7-in-game-years-to-reveal)
- - [Devotion studio&#39;s next game looks like Hollow Knight crossed with Sekiro](https://www.pcgamer.com/devotion-studios-next-game-looks-like-hollow-knight-crossed-with-sekiro)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #275: Monday, March 21](https://www.pcgamer.com/wordle-march-21-275)
+ - [MSI&#39;s Raider GE76 is one of the most powerful gaming laptops around](https://www.pcgamer.com/msis-raider-ge76-is-one-of-the-most-powerful-gaming-laptops-around)
+ - [Fortnite Chapter 3 Season 2: Everything we know so far](https://www.pcgamer.com/fortnite-chapter-3-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
