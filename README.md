@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oligarkhs leaving the country](http://9gag.com/gag/avAe91O)
- - 🚯 [Stay in the car morty!](http://9gag.com/gag/amgGRxy)
- - 🚯 [Found my problem!](http://9gag.com/gag/aDDnQbK)<!-- MEMES:END -->
+ - 🚖 [Found my problem!](http://9gag.com/gag/aDDnQbK)
+ - 🚯 [The force is strong with this one.](http://9gag.com/gag/aegOWe5)
+ - 🚯 [Already a professional soccer player](http://9gag.com/gag/aegOR9b)<!-- MEMES:END -->
 
 --- 
 
