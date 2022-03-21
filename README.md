@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian government bars its scientists from international conferences](https://www.theverge.com/2022/3/21/22988994/russia-science-publication-database-conferences)
- - [Sony is buying Jade Raymond’s Haven Studios as part of its live service push](https://www.theverge.com/2022/3/21/22989187/sony-playstation-haven-studios-acquisition-jade-raymond-new-multiplayer-game)
- - [Cadillac Lyriq, the brand’s first electric vehicle, starts production ahead of schedule](https://www.theverge.com/2022/3/21/22988872/cadillac-lyriq-production-ev-spring-hill-delivery)<!-- TECH:END -->
+ - [Myriad iCloud services down globally, cause unknown](https://appleinsider.com/articles/22/03/21/myriad-icloud-services-down-globally-cause-unknown?utm_medium=rss)
+ - [Ford F-150 Lightning gets an EPA-confirmed range of up to 320 miles](https://www.theverge.com/2022/3/21/22989234/ford-f150-lightning-epa-range-electric-truck)
+ - [CD Projekt Red announces a new Witcher game is in development](https://www.theverge.com/2022/3/21/22989313/cd-projekt-red-new-witcher-game-unreal-engine-5-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
