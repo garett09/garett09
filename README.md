@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She played one hell of an amazing character.](http://9gag.com/gag/aDDnMEB)
- - 🚯 [A Boeing 737 went down today in China. 133 onboard. RIP MU5735](http://9gag.com/gag/aBnL4B2)
- - 🚯 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)<!-- MEMES:END -->
+ - 🚖 [OfficeJet Pro7250](http://9gag.com/gag/a81mzQZ)
+ - 🚯 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)
+ - 🚯 [Adorable](http://9gag.com/gag/aNPv296)<!-- MEMES:END -->
 
 --- 
 
