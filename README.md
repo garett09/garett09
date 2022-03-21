@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sigh...](http://9gag.com/gag/axBv4yp)
- - 🚯 [Already a professional soccer player](http://9gag.com/gag/aegOR9b)
- - 🚯 [Indian movie be like](http://9gag.com/gag/aQXQy1K)<!-- MEMES:END -->
+ - 🚖 [Russia To Propose 10-Year Ban On Foreign Companies That Don&#39;t Return By May 1](http://9gag.com/gag/ay94Pz8)
+ - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)
+ - 🚯 [The force is strong with this one.](http://9gag.com/gag/aegOWe5)<!-- MEMES:END -->
 
 --- 
 
