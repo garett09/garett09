@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 8 and 8T finally get the Android 12 treatment](https://www.androidauthority.com/oneplus-8-8t-oxygen-os-12-update-3141204/)
  - [Today only: Apple&#39;s loaded MacBook Air &lpar;M1, 16GB RAM, 1TB SSD&rpar; is on sale for $1,449](https://appleinsider.com/articles/22/03/21/today-only-apples-loaded-macbook-air-m1-16gb-ram-1tb-ssd-is-on-sale-for-1449?utm_medium=rss)
- - [Cricut Maker review: Extremely versatile machine that needs software innovation](https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation?utm_medium=rss)
- - [Oscars Snub: &#39;West Side Story&#39; Star Rachel Zegler Didn&#39;t Score An Invite     - CNET](https://www.cnet.com/culture/entertainment/oscars-snub-west-side-story-star-rachel-zegler-didnt-score-an-invite/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cricut Maker review: Extremely versatile machine that needs software innovation](https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
