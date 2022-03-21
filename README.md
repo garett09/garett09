@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch League doesn&#39;t have a single sponsor less than two months before its fifth season](https://www.pcgamer.com/overwatch-league-doesnt-have-a-single-sponsor-less-than-two-months-before-its-fifth-season)
  - [Netflix announces Tekken anime series, due this year](https://www.polygon.com/22988824/tekken-anime-netflix-bloodline-release-date)
- - [AndaSeat Jungle 2 Gaming Chair Review](https://www.pcgamer.com/andsaseat-jungle-2-gaming-chair)
- - [Ghostwire: Tokyo’s charm can’t make up for its frustrations](https://www.polygon.com/reviews/22988757/ghostwire-tokyo-review-ps5-pc-release-date)<!-- GAME:END -->
+ - [AndaSeat Jungle 2 Gaming Chair Review](https://www.pcgamer.com/andsaseat-jungle-2-gaming-chair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
