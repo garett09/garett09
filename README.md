@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)
- - 🚯 [Oh my](http://9gag.com/gag/aE8VERo)
- - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)<!-- MEMES:END -->
+ - 🚖 [Come on guys, let&#39;s get closer](http://9gag.com/gag/amgGdr6)
+ - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)
+ - 🚯 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)<!-- MEMES:END -->
 
 --- 
 
