@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That mental lag](http://9gag.com/gag/aVxEVEP)
- - 🚯 [The evolution of first person](http://9gag.com/gag/aKm9erQ)
- - 🚯 [Building a gate the right way](http://9gag.com/gag/aNPvO4A)<!-- MEMES:END -->
+ - 🚖 [Suspicious toddler being suspicious.](http://9gag.com/gag/aqG8YAR)
+ - 🚯 [What is your favorite reaction gif?](http://9gag.com/gag/a91vDjj)
+ - 🚯 [Big friendly cat comes for a ride with tourists](http://9gag.com/gag/a0ZVM2v)<!-- MEMES:END -->
 
 --- 
 
