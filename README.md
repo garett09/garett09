@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic Guilty Gear Character Comes Out As Non-Binary In Latest Game](https://kotaku.com/guilty-gear-strive-arc-system-works-testament-trans-non-1848681452)
- - [George RR Martin didn&#39;t hide his initials in Elden Ring on purpose, apparently](https://www.pcgamer.com/george-rr-martin-didnt-hide-his-initials-in-elden-ring-on-purpose-apparently)
- - [What if ...  the Sailor Senshi went toe to toe with the MCU’s Avengers?](https://www.polygon.com/22978614/marvel-avengers-vs-sailor-moon-senshi-who-would-win)<!-- GAME:END -->
+ - [Polygon Draws our favorite Spirit Ash summons from Elden Ring](https://www.polygon.com/gaming/22985651/elden-ring-spirit-ash-summons-polygon-draws-kirby-skyrim)
+ - [League of Legends’ first novel is a blast from the past starring Viego and Kalista](https://www.polygon.com/22989562/league-of-legends-ruination-novel-kalista-viego-story)
+ - [Classic Guilty Gear Character Comes Out As Non-Binary In Latest Game](https://kotaku.com/guilty-gear-strive-arc-system-works-testament-trans-non-1848681452)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
