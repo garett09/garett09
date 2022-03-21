@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese e-commerce company Pinduoduo misses with ~$4.3B in Q4 revenue, up 3% YoY, as Beijing&#39;s crackdown and a delisting threat from the US worry investors &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220321/p10#a220321p10)
- - [How to watch Apple TV Plus on Roku](https://www.androidauthority.com/watch-apple-tv-plus-roku-3140348/)
- - [CommerceIQ, which develops management tools for brands to automate e-commerce tasks, raises a $115M Series D led by SoftBank Vision 2 at a $1B+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220321/p9#a220321p9)<!-- TECH:END -->
+ - [Jamf launches Fundamentals plan to compete with Apple&#39;s Business Essentials](https://appleinsider.com/articles/22/03/21/jamf-launches-fundamentals-plan-to-compete-with-apples-business-essentials?utm_medium=rss)
+ - [As EU lawmakers finalize the Digital Markets Act, big US tech companies have failed to lobby for substantial changes and are now focused on compliance &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220321/p13#a220321p13)
+ - [Facebook is locking out people who didn’t activate Facebook Protect](https://www.theverge.com/2022/3/18/22984802/facebook-protect-lock-out-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
