@@ -190,7 +190,7 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Media-measurement giant Nielsen says it has turned down a bid by a PE consortium to buy it, following reports of a potential deal that caused its stock to soar &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/220320/p10#a220320p10)
+ - [Media-measurement giant Nielsen says it has turned down a bid by a private equity consortium, after reports of a potential acquisition caused its stock to soar &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/220320/p10#a220320p10)
  - [Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-netflix/#ftag=CAD590a51e)
  - [The Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
