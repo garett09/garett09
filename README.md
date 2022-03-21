@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Amazon&#39;s ad revenue passes YouTube&#39;s and US pay TV subscriptions drop, ad budgets will shift further to targetable spots and other customer-acquisition tools &lpar;Benedict Evans&rpar;](http://www.techmeme.com/220321/p2#a220321p2)
- - [Studio Display includes as much storage as iPad, iPhone 11](https://appleinsider.com/articles/22/03/21/studio-display-includes-as-much-storage-as-ipad-iphone-11?utm_medium=rss)
- - [Today I learned an iPhone trick to quickly select multiple items](https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados)<!-- TECH:END -->
+ - [Cascade, which offers a single tool to centralize project management, KPIs, and outcome tracking, raises a $29M Series A led by Telescope Partners &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220321/p5#a220321p5)
+ - [Daily Authority: 📩 Telegram doesn’t check its email](https://www.androidauthority.com/da-march-21-2022-3141336/)
+ - [The CEO of lithography machine maker ASML says chipmakers&#39; expansion plans will be constrained by a shortage of its critical equipment over the next two years &lpar;Financial Times&rpar;](http://www.techmeme.com/220321/p4#a220321p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
