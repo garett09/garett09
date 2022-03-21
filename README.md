@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suspicious toddler being suspicious.](http://9gag.com/gag/aqG8YAR)
- - 🚯 [What is your favorite reaction gif?](http://9gag.com/gag/a91vDjj)
- - 🚯 [Big friendly cat comes for a ride with tourists](http://9gag.com/gag/a0ZVM2v)<!-- MEMES:END -->
+ - 🚖 [Security Guard risking his life to save incredibly unalarmed zoo visitors from a hippo](http://9gag.com/gag/aRrZ2Rj)
+ - 🚯 [Happy Birthday to me.](http://9gag.com/gag/a71enDw)
+ - 🚯 [Kiev 2 hrs ago](http://9gag.com/gag/aWgL23x)<!-- MEMES:END -->
 
 --- 
 
