@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #275: Monday, March 21](https://www.pcgamer.com/wordle-march-21-275)
- - [MSI&#39;s Raider GE76 is one of the most powerful gaming laptops around](https://www.pcgamer.com/msis-raider-ge76-is-one-of-the-most-powerful-gaming-laptops-around)
- - [Fortnite Chapter 3 Season 2: Everything we know so far](https://www.pcgamer.com/fortnite-chapter-3-season-2)<!-- GAME:END -->
+ - [Tekken is getting a rad-looking anime adaptation on Netflix](https://www.pcgamer.com/tekken-is-getting-a-rad-looking-anime-adaptation-on-netflix)
+ - [Your Asus router may require an urgent update to protect against sticky botnet](https://www.pcgamer.com/asus-router-malware-cyclops-blink)
+ - [Elden Ring&#39;s NPC quest markers are just a Band-Aid](https://www.pcgamer.com/elden-rings-npc-quest-markers-are-just-a-band-aid)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
