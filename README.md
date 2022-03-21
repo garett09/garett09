@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Application layer security startup Bionic raises a $65M Series B led by Insight Partners, bringing its total funding to $83M &lpar;CTech&rpar;](http://www.techmeme.com/220321/p24#a220321p24)
- - [Google settles with engineers who said they were fired for trying to organize](https://www.theverge.com/2022/3/21/22989683/google-fired-engineers-union-settlement-lawsuit-project-vivian)
- - [The Mac Studio’s removable SSD is reportedly blocked by Apple on a software level](https://www.theverge.com/2022/3/21/22989226/apple-mac-studios-removable-ssd-blocked-software-replacement)<!-- TECH:END -->
+ - [A malicious cartoon rendering Android app that steals Facebook credentials has been downloaded 100K times and is still available on the Google Play Store &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220321/p26#a220321p26)
+ - [The best YouTube originals: What to watch with your Premium account in 2022](https://www.androidauthority.com/best-youtube-originals-3140563/)
+ - [Netflix: The 42 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-42-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
