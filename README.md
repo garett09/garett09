@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite Chapter 3 Season 2: Everything we know so far](https://www.pcgamer.com/fortnite-chapter-3-season-2)
  - [There&#39;s a Witcher 3 easter egg that takes 7 in-game years to reveal](https://www.pcgamer.com/theres-a-witcher-3-easter-egg-that-takes-7-in-game-years-to-reveal)
- - [Devotion studio&#39;s next game looks like Hollow Knight crossed with Sekiro](https://www.pcgamer.com/devotion-studios-next-game-looks-like-hollow-knight-crossed-with-sekiro)
- - [Modern Video Games With Retro Box Art](https://kotaku.com/modern-games-retro-box-art-illustrations-art-genesis-sn-1848678439)<!-- GAME:END -->
+ - [Devotion studio&#39;s next game looks like Hollow Knight crossed with Sekiro](https://www.pcgamer.com/devotion-studios-next-game-looks-like-hollow-knight-crossed-with-sekiro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
