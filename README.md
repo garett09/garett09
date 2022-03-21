@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found my problem!](http://9gag.com/gag/aDDnQbK)
- - 🚯 [The force is strong with this one.](http://9gag.com/gag/aegOWe5)
- - 🚯 [Already a professional soccer player](http://9gag.com/gag/aegOR9b)<!-- MEMES:END -->
+ - 🚖 [Sigh...](http://9gag.com/gag/axBv4yp)
+ - 🚯 [Already a professional soccer player](http://9gag.com/gag/aegOR9b)
+ - 🚯 [Indian movie be like](http://9gag.com/gag/aQXQy1K)<!-- MEMES:END -->
 
 --- 
 
