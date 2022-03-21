@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android users can now delete the last 15 minutes of their Google search history](https://www.androidauthority.com/delete-google-search-history-last-15-minutes-3141290/)
  - [You told us: Here’s how you feel about paying extra for Netflix account sharing](https://www.androidauthority.com/netflix-paid-account-sharing-poll-results-3141280/)
- - [How Substack is trying to balance the constraints of its own ideology of putting authors and readers first with its commitment to growth via its new mobile app &lpar;Nathan Baschez/Every&rpar;](http://www.techmeme.com/220321/p1#a220321p1)
- - [OnePlus 9R gets stable Oxygen OS 12, OnePlus 9 and 9 Pro get March 2022 patch](https://www.androidauthority.com/oneplus-9-update-1212009/)<!-- TECH:END -->
+ - [How Substack is trying to balance the constraints of its own ideology of putting authors and readers first with its commitment to growth via its new mobile app &lpar;Nathan Baschez/Every&rpar;](http://www.techmeme.com/220321/p1#a220321p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
