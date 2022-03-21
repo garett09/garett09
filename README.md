@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Video Games With Retro Box Art](https://kotaku.com/modern-games-retro-box-art-illustrations-art-genesis-sn-1848678439)
- - [Fortnite has turned off building in its default mode](https://www.pcgamer.com/fortnite-has-turned-off-building-in-its-default-mode)
- - [Five new Steam games you probably missed &lpar;March 21, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-21-2022)<!-- GAME:END -->
+ - [There&#39;s a Witcher 3 easter egg that takes 7 in-game years to reveal](https://www.pcgamer.com/theres-a-witcher-3-easter-egg-that-takes-7-in-game-years-to-reveal)
+ - [Devotion studio&#39;s next game looks like Hollow Knight crossed with Sekiro](https://www.pcgamer.com/devotion-studios-next-game-looks-like-hollow-knight-crossed-with-sekiro)
+ - [Modern Video Games With Retro Box Art](https://kotaku.com/modern-games-retro-box-art-illustrations-art-genesis-sn-1848678439)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
