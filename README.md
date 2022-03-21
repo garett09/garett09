@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android users can now delete the last 15 minutes of their Google search history](https://www.androidauthority.com/delete-google-search-history-last-15-minutes-3141290/)
- - [You told us: Here’s how you feel about paying extra for Netflix account sharing](https://www.androidauthority.com/netflix-paid-account-sharing-poll-results-3141280/)
- - [How Substack is trying to balance the constraints of its own ideology of putting authors and readers first with its commitment to growth via its new mobile app &lpar;Nathan Baschez/Every&rpar;](http://www.techmeme.com/220321/p1#a220321p1)<!-- TECH:END -->
+ - [Studio Display includes as much storage as iPad, iPhone 11](https://appleinsider.com/articles/22/03/21/studio-display-includes-as-much-storage-as-ipad-iphone-11?utm_medium=rss)
+ - [Today I learned an iPhone trick to quickly select multiple items](https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados)
+ - [Android users can now delete the last 15 minutes of their Google search history](https://www.androidauthority.com/delete-google-search-history-last-15-minutes-3141290/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
