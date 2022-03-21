@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relax your mind awhile from everything that happening now](http://9gag.com/gag/a0ZVOZX)
- - 🚯 [We\u2019ve all been there. The poor man\u2019s hot dog](http://9gag.com/gag/a91vO1Z)
- - 🚯 [Big friendly cat comes for a ride with tourists](http://9gag.com/gag/a0ZVM2v)<!-- MEMES:END -->
+ - 🚖 [Found my problem!](http://9gag.com/gag/aDDnQbK)
+ - 🚯 [Relax your mind awhile from everything that happening now](http://9gag.com/gag/a0ZVOZX)
+ - 🚯 [Happy Birthday to me.](http://9gag.com/gag/a71enDw)<!-- MEMES:END -->
 
 --- 
 
