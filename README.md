@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Amazon&#39;s ad revenue passes YouTube&#39;s and US pay TV subscriptions drop, ad budgets will shift further to targetable spots and other customer-acquisition tools &lpar;Benedict Evans&rpar;](http://www.techmeme.com/220321/p2#a220321p2)
  - [Studio Display includes as much storage as iPad, iPhone 11](https://appleinsider.com/articles/22/03/21/studio-display-includes-as-much-storage-as-ipad-iphone-11?utm_medium=rss)
- - [Today I learned an iPhone trick to quickly select multiple items](https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados)
- - [Android users can now delete the last 15 minutes of their Google search history](https://www.androidauthority.com/delete-google-search-history-last-15-minutes-3141290/)<!-- TECH:END -->
+ - [Today I learned an iPhone trick to quickly select multiple items](https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
