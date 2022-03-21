@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CCTV footage of tonight\u2019s strike on Kyiv. The Retroville shopping center is on fire as a result.](http://9gag.com/gag/amgGVRj)
- - 🚯 [God dayum](http://9gag.com/gag/ay94Q4X)
- - 🚯 [Guys I&#39;mma grab a drink as the grown up I am](http://9gag.com/gag/avAeR1X)<!-- MEMES:END -->
+ - 🚖 [Guys I&#39;mma grab a drink as the grown up I am](http://9gag.com/gag/avAeR1X)
+ - 🚯 [Building a gate the right way](http://9gag.com/gag/aNPvO4A)
+ - 🚯 [The evolution of first person](http://9gag.com/gag/aKm9erQ)<!-- MEMES:END -->
 
 --- 
 
