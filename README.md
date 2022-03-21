@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 iPhone SE 3 review: You know what you&#39;re getting](https://appleinsider.com/articles/22/03/21/2022-iphone-se-3-review-you-know-what-youre-getting?utm_medium=rss)
- - [Google’s Pixel 6 and 6 Pro phones start to get the delayed March feature drop](https://www.theverge.com/2022/3/21/22989212/google-pixel-6-pro-march-software-update-delay)
- - [Apple service centers can reportedly replace the Studio Display’s ‘built-in’ stands](https://www.theverge.com/2022/3/21/22989517/apple-store-studio-display-interchangeable-stand-replacement-repair-service)<!-- TECH:END -->
+ - [What to Know About BA.2, or COVID&#39;s &#39;Stealth Omicron&#39; Variant     - CNET](https://www.cnet.com/health/medical/what-to-know-about-ba-2-or-covids-stealth-omicron-variant/#ftag=CAD590a51e)
+ - [Google Removes Android Statues From Its Headquarters in Mountain View     - CNET](https://www.cnet.com/tech/mobile/google-removes-android-statues-from-its-headquarters-in-mountain-view/#ftag=CAD590a51e)
+ - [iPhone SE &lpar;2022&rpar; Review: Apple&#39;s Cheapest 5G iPhone Is An Incredible Value     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-review-apples-cheapest-5g-iphone-is-an-incredible-value/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
