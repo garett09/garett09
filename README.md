@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jamf launches Fundamentals plan to compete with Apple&#39;s Business Essentials](https://appleinsider.com/articles/22/03/21/jamf-launches-fundamentals-plan-to-compete-with-apples-business-essentials?utm_medium=rss)
- - [As EU lawmakers finalize the Digital Markets Act, big US tech companies have failed to lobby for substantial changes and are now focused on compliance &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220321/p13#a220321p13)
- - [Facebook is locking out people who didn’t activate Facebook Protect](https://www.theverge.com/2022/3/18/22984802/facebook-protect-lock-out-twitter)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Ultra vs Galaxy S22 Plus: Camera shootout](https://www.androidauthority.com/galaxy-s22-ultra-galaxy-s22-plus-camera-test-3134872/)
+ - [Apple TV app on Android TV no longer allows rentals, purchases, or subscriptions](https://www.theverge.com/2022/3/21/22988846/apple-tv-app-android-google-rentals-purchases)
+ - [Top deals March 21: Up to $4,000 off Samsung 8K TVs; up to $400 off Z Fold 3, Flip 3, S21 phones; up to $1,900 off Bespoke kitchen appliances](https://appleinsider.com/articles/22/03/21/top-deals-march-21-up-to-4000-off-samsung-8k-tvs-up-to-400-off-z-fold-3-flip-3-s21-phones-up-to-1900-off-bespoke-kitchen-appliances?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
