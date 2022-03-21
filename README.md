@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russia To Propose 10-Year Ban On Foreign Companies That Don&#39;t Return By May 1](http://9gag.com/gag/ay94Pz8)
- - 🚯 [Russian soldiets opened fire on the residents of Kherson, who went to the protest](http://9gag.com/gag/angnVoV)
+ - 🚖 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)
+ - 🚯 [Oh my](http://9gag.com/gag/aE8VERo)
  - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)<!-- MEMES:END -->
 
 --- 
