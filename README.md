@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that was fast](http://9gag.com/gag/angnEY5)
- - 🚯 [God dayum](http://9gag.com/gag/ay94Q4X)
- - 🚯 [Alcohol is never the answer.. Alcohol is the question and yes is the answer.](http://9gag.com/gag/aQXQ23W)<!-- MEMES:END -->
+ - 🚖 [CCTV footage of tonight\u2019s strike on Kyiv. The Retroville shopping center is on fire as a result.](http://9gag.com/gag/amgGVRj)
+ - 🚯 [Alcohol is never the answer.. Alcohol is the question and yes is the answer.](http://9gag.com/gag/aQXQ23W)
+ - 🚯 [God dayum](http://9gag.com/gag/ay94Q4X)<!-- MEMES:END -->
 
 --- 
 
