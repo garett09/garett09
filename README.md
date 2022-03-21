@@ -191,8 +191,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- TECH:START -->
  - [Myriad iCloud services down globally, cause unknown](https://appleinsider.com/articles/22/03/21/myriad-icloud-services-down-globally-cause-unknown?utm_medium=rss)
- - [Google’s Pixel 6 and 6 Pro phones start to get the delayed March feature drop](https://www.theverge.com/2022/3/21/22989212/google-pixel-6-pro-march-software-update-delay)
- - [Apple Maps’ EV routing is finally coming to the Ford Mustang Mach-E](https://www.theverge.com/2022/3/21/22985495/apple-maps-ev-routing-ford-mach-e-charging)<!-- TECH:END -->
+ - [Ford adds Apple Maps EV routing support to Mustang Mach-E models](https://appleinsider.com/articles/22/03/21/ford-adds-apple-maps-ev-routing-support-to-mustang-mach-e-models?utm_medium=rss)
+ - [Vizio’s M7-Series Quantum TV is on sale today for its lowest price ever](https://www.theverge.com/good-deals/2022/3/21/22988919/vizio-m7-series-quantum-tv-apple-ipad-air-samsung-galaxy-fold-flip-3-s21-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
