@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9R gets stable Oxygen OS 12, OnePlus 9 and 9 Pro get March 2022 patch](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [OnePlus 8 and 8T finally get the Android 12 treatment](https://www.androidauthority.com/oneplus-8-8t-oxygen-os-12-update-3141204/)
- - [Today only: Apple&#39;s loaded MacBook Air &lpar;M1, 16GB RAM, 1TB SSD&rpar; is on sale for $1,449](https://appleinsider.com/articles/22/03/21/today-only-apples-loaded-macbook-air-m1-16gb-ram-1tb-ssd-is-on-sale-for-1449?utm_medium=rss)<!-- TECH:END -->
+ - [You told us: Here’s how you feel about paying extra for Netflix account sharing](https://www.androidauthority.com/netflix-paid-account-sharing-poll-results-3141280/)
+ - [How Substack is trying to balance the constraints of its own ideology of putting authors and readers first with its commitment to growth via its new mobile app &lpar;Nathan Baschez/Every&rpar;](http://www.techmeme.com/220321/p1#a220321p1)
+ - [OnePlus 9R gets stable Oxygen OS 12, OnePlus 9 and 9 Pro get March 2022 patch](https://www.androidauthority.com/oneplus-9-update-1212009/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
