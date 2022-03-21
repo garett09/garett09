@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian soldiets opened fire on the residents of Kherson, who went to the protest](http://9gag.com/gag/angnVoV)
- - 🚯 [China Eastern MU5735 falling from sky](http://9gag.com/gag/aLver9g)
- - 🚯 [Mother of female swimmer confronted trans activist during Lia Thomas&#39;s race](http://9gag.com/gag/apgDjLE)<!-- MEMES:END -->
+ - 🚖 [She played one hell of an amazing character.](http://9gag.com/gag/aDDnMEB)
+ - 🚯 [A Boeing 737 went down today in China. 133 onboard. RIP MU5735](http://9gag.com/gag/aBnL4B2)
+ - 🚯 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)<!-- MEMES:END -->
 
 --- 
 
