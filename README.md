@@ -191,8 +191,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- TECH:START -->
  - [Myriad iCloud services down globally, cause unknown](https://appleinsider.com/articles/22/03/21/myriad-icloud-services-down-globally-cause-unknown?utm_medium=rss)
- - [Ford F-150 Lightning gets an EPA-confirmed range of up to 320 miles](https://www.theverge.com/2022/3/21/22989234/ford-f150-lightning-epa-range-electric-truck)
- - [CD Projekt Red announces a new Witcher game is in development](https://www.theverge.com/2022/3/21/22989313/cd-projekt-red-new-witcher-game-unreal-engine-5-announcement)<!-- TECH:END -->
+ - [Google’s Pixel 6 and 6 Pro phones start to get the delayed March feature drop](https://www.theverge.com/2022/3/21/22989212/google-pixel-6-pro-march-software-update-delay)
+ - [Apple Maps’ EV routing is finally coming to the Ford Mustang Mach-E](https://www.theverge.com/2022/3/21/22985495/apple-maps-ev-routing-ford-mach-e-charging)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
