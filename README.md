@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cascade, which offers a single tool to centralize project management, KPIs, and outcome tracking, raises a $29M Series A led by Telescope Partners &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220321/p5#a220321p5)
- - [Daily Authority: 📩 Telegram doesn’t check its email](https://www.androidauthority.com/da-march-21-2022-3141336/)
- - [The CEO of lithography machine maker ASML says chipmakers&#39; expansion plans will be constrained by a shortage of its critical equipment over the next two years &lpar;Financial Times&rpar;](http://www.techmeme.com/220321/p4#a220321p4)<!-- TECH:END -->
+ - [Chinese e-commerce company Pinduoduo misses with ~$4.3B in Q4 revenue, up 3% YoY, as Beijing&#39;s crackdown and a delisting threat from the US worry investors &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220321/p10#a220321p10)
+ - [How to watch Apple TV Plus on Roku](https://www.androidauthority.com/watch-apple-tv-plus-roku-3140348/)
+ - [CommerceIQ, which develops management tools for brands to automate e-commerce tasks, raises a $115M Series D led by SoftBank Vision 2 at a $1B+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220321/p9#a220321p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
