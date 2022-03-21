@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty season 2 Reloaded sends Snoop Dogg to WWII](https://www.polygon.com/call-of-duty/22989729/call-of-duty-season-2-reloaded-snoop-dogg-warzone-vanguard)
- - [Celebrate Polygon’s Who Would Win Week on Twitch this Tuesday with Tier Pressure](https://www.polygon.com/22989412/tier-pressure-twitch-stream)
- - [Eiyuden Chronicle: Rising is the JRPG town building spin-off I didn&#39;t know I wanted](https://www.pcgamer.com/eiyuden-chronicle-rising-is-the-jrpg-town-building-spin-off-i-didnt-know-i-wanted)<!-- GAME:END -->
+ - [Sierra founders got &#39;bored&#39; in lockdown so they&#39;re making their first new game in more than 20 years](https://www.pcgamer.com/sierra-founders-got-bored-in-lockdown-so-theyre-making-their-first-new-game-in-more-than-20-years)
+ - [This gaming headset that vibrates your ears is $30 off](https://www.pcgamer.com/this-gaming-headset-that-vibrates-your-ears-is-dollar30-off)
+ - [Five Things You Should Know Before Starting Tunic](https://kotaku.com/tunic-tips-how-to-get-sword-shield-bombs-xbox-series-x-1848683077)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
