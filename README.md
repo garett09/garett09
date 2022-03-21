@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relax your mind awhile from everything that happening now](http://9gag.com/gag/a0ZVOZX)
- - 🚯 [Don&#39;t fall for her. Her buff is useless.](http://9gag.com/gag/a91vDBm)
+ - 🚖 [Oligarkhs leaving the country](http://9gag.com/gag/avAe91O)
+ - 🚯 [Stay in the car morty!](http://9gag.com/gag/amgGRxy)
  - 🚯 [Found my problem!](http://9gag.com/gag/aDDnQbK)<!-- MEMES:END -->
 
 --- 
