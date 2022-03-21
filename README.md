@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)
- - 🚯 [Why?](http://9gag.com/gag/arnArwB)
- - 🚯 [Adorable](http://9gag.com/gag/aNPv296)<!-- MEMES:END -->
+ - 🚖 [Well damn](http://9gag.com/gag/aLveN5z)
+ - 🚯 [Adorable](http://9gag.com/gag/aNPv296)
+ - 🚯 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)<!-- MEMES:END -->
 
 --- 
 
