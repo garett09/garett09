@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 Ultra vs Galaxy S22 Plus: Camera shootout](https://www.androidauthority.com/galaxy-s22-ultra-galaxy-s22-plus-camera-test-3134872/)
- - [Apple TV app on Android TV no longer allows rentals, purchases, or subscriptions](https://www.theverge.com/2022/3/21/22988846/apple-tv-app-android-google-rentals-purchases)
- - [Top deals March 21: Up to $4,000 off Samsung 8K TVs; up to $400 off Z Fold 3, Flip 3, S21 phones; up to $1,900 off Bespoke kitchen appliances](https://appleinsider.com/articles/22/03/21/top-deals-march-21-up-to-4000-off-samsung-8k-tvs-up-to-400-off-z-fold-3-flip-3-s21-phones-up-to-1900-off-bespoke-kitchen-appliances?utm_medium=rss)<!-- TECH:END -->
+ - [Russian government bars its scientists from international conferences](https://www.theverge.com/2022/3/21/22988994/russia-science-publication-database-conferences)
+ - [Sony is buying Jade Raymond’s Haven Studios as part of its live service push](https://www.theverge.com/2022/3/21/22989187/sony-playstation-haven-studios-acquisition-jade-raymond-new-multiplayer-game)
+ - [Cadillac Lyriq, the brand’s first electric vehicle, starts production ahead of schedule](https://www.theverge.com/2022/3/21/22988872/cadillac-lyriq-production-ev-spring-hill-delivery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
