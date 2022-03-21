@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Ubisoft Tech Threatens World With Even Bigger Games](https://kotaku.com/ubisoft-scalar-cloud-assassins-creed-far-cry-open-world-1848680977)
- - [Humble, Fortnite, itch.io Ukraine fundraising efforts raise serious money](https://www.polygon.com/gaming/22989401/humble-fortnite-itch-io-fundraisers-ukraine)
- - [Check Out What’s New in Fortnite Battle Royale Chapter 3 – Season 2: Resistance](https://news.xbox.com/en-us/2022/03/21/whats-new-fortnite-battle-royale-chapter-3-season-2-resistance/)<!-- GAME:END -->
+ - [Classic Guilty Gear Character Comes Out As Non-Binary In Latest Game](https://kotaku.com/guilty-gear-strive-arc-system-works-testament-trans-non-1848681452)
+ - [George RR Martin didn&#39;t hide his initials in Elden Ring on purpose, apparently](https://www.pcgamer.com/george-rr-martin-didnt-hide-his-initials-in-elden-ring-on-purpose-apparently)
+ - [What if ...  the Sailor Senshi went toe to toe with the MCU’s Avengers?](https://www.polygon.com/22978614/marvel-avengers-vs-sailor-moon-senshi-who-would-win)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
