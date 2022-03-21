@@ -198,8 +198,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Russia To Propose 10-Year Ban On Foreign Companies That Don&#39;t Return By May 1](http://9gag.com/gag/ay94Pz8)
- - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)
- - 🚯 [The force is strong with this one.](http://9gag.com/gag/aegOWe5)<!-- MEMES:END -->
+ - 🚯 [Russian soldiets opened fire on the residents of Kherson, who went to the protest](http://9gag.com/gag/angnVoV)
+ - 🚯 [Sigh...](http://9gag.com/gag/axBv4yp)<!-- MEMES:END -->
 
 --- 
 
