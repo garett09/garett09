@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricut Maker review: Extremely versatile machine that needs software innovation](https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation?utm_medium=rss)
- - [Brazil&#39;s Supreme Court reverses its decision to ban Telegram, which it had ordered on Friday, after Telegram suddenly worked to comply with the court&#39;s orders &lpar;New York Times&rpar;](http://www.techmeme.com/220320/p8#a220320p8)
- - [Nintendo Wii and DSi Shop channels have been down for days](https://www.theverge.com/2022/3/20/22988097/nintendo-wii-dsi-shop-channels-down-for-days)<!-- TECH:END -->
+ - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-on-netflix/#ftag=CAD590a51e)
+ - [Sources: Thoma Bravo has agreed to buy Anaplan for $10.7B or $66/share, after the maker of cloud-based business planning software closed at $50.59 on Friday &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220320/p9#a220320p9)
+ - [Telegram’s ban in Brazil has been lifted](https://www.theverge.com/2022/3/20/22988183/telegrams-ban-brazil-lifted-president-bolsonaro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
