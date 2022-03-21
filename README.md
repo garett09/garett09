@@ -185,7 +185,7 @@ Windows                  8 hrs 8 mins        ███████████�
 <!-- GAME:START -->
  - [Call of Duty season 2 Reloaded sends Snoop Dogg to WWII](https://www.polygon.com/call-of-duty/22989729/call-of-duty-season-2-reloaded-snoop-dogg-warzone-vanguard)
  - [Celebrate Polygon’s Who Would Win Week on Twitch this Tuesday with Tier Pressure](https://www.polygon.com/22989412/tier-pressure-twitch-stream)
- - [Polygon Draws our favorite Spirit Ash summons from Elden Ring](https://www.polygon.com/gaming/22985651/elden-ring-spirit-ash-summons-polygon-draws-kirby-skyrim)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Rising is the JRPG town building spin-off I didn&#39;t know I wanted](https://www.pcgamer.com/eiyuden-chronicle-rising-is-the-jrpg-town-building-spin-off-i-didnt-know-i-wanted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
