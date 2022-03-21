@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Digital human faces are getting eerily accurate](https://www.polygon.com/22989109/unity-tech-demo-enemies-video-hair-face-gdc-2022)
- - [PlayStation acquires Jade Raymond’s Haven Studios](https://www.polygon.com/22989189/sony-playstation-studios-buys-haven-jade-raymond-ps5)
- - [Ghostwire: Tokyo Reviews Are All Over The Map](https://kotaku.com/ghostwire-tokyo-review-scores-tango-gameworks-ps5-pc-sh-1848680062)<!-- GAME:END -->
+ - [The next Sea of Thieves adventure is a daring sea fort rescue](https://www.polygon.com/22989302/sea-of-thieves-adventure-forts-of-the-forgotten-trailer-announcement)
+ - [Unity&#39;s &#39;Enemies&#39; tech demo isn&#39;t quite the checkmate it should be](https://www.pcgamer.com/unitys-enemies-tech-demo-isnt-quite-the-checkmate-it-should-be)
+ - [&#39;Sputtering&#39; atom-thick copper could give us cheaper PC chips](https://www.pcgamer.com/sputtering-atom-thick-copper-could-give-us-cheaper-pc-chips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
