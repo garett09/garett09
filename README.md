@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-on-netflix/#ftag=CAD590a51e)
- - [Sources: Thoma Bravo has agreed to buy Anaplan for $10.7B or $66/share, after the maker of cloud-based business planning software closed at $50.59 on Friday &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220320/p9#a220320p9)
- - [Telegram’s ban in Brazil has been lifted](https://www.theverge.com/2022/3/20/22988183/telegrams-ban-brazil-lifted-president-bolsonaro)<!-- TECH:END -->
+ - [Media-measurement giant Nielsen says it has turned down a bid by a PE consortium to buy it, following reports of a potential deal that caused its stock to soar &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/220320/p10#a220320p10)
+ - [Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-netflix/#ftag=CAD590a51e)
+ - [The Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
