@@ -198,8 +198,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Well damn](http://9gag.com/gag/aLveN5z)
- - 🚯 [Adorable](http://9gag.com/gag/aNPv296)
- - 🚯 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)<!-- MEMES:END -->
+ - 🚯 [This seems way better than todays music](http://9gag.com/gag/a31Ae07)
+ - 🚯 [German made Panzerfaust 3 IT finally arrived in Ukraine](http://9gag.com/gag/aZrwVXW)<!-- MEMES:END -->
 
 --- 
 
