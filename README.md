@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch League doesn&#39;t have a single sponsor less than two months before its fifth season](https://www.pcgamer.com/overwatch-league-doesnt-have-a-single-sponsor-less-than-two-months-before-its-fifth-season)
- - [Netflix announces Tekken anime series, due this year](https://www.polygon.com/22988824/tekken-anime-netflix-bloodline-release-date)
- - [AndaSeat Jungle 2 Gaming Chair Review](https://www.pcgamer.com/andsaseat-jungle-2-gaming-chair)<!-- GAME:END -->
+ - [Elden Ring hackers are corrupting save files through invasions](https://www.polygon.com/22988960/elden-ring-invader-hack-corrupted-save-file-fix)
+ - [Ghostwire: Tokyo review](https://www.pcgamer.com/ghostwire-tokyo-review)
+ - [Who Would Win Week](https://www.polygon.com/22955160/who-would-win-week-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
