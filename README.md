@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken is getting a rad-looking anime adaptation on Netflix](https://www.pcgamer.com/tekken-is-getting-a-rad-looking-anime-adaptation-on-netflix)
- - [Your Asus router may require an urgent update to protect against sticky botnet](https://www.pcgamer.com/asus-router-malware-cyclops-blink)
- - [Elden Ring&#39;s NPC quest markers are just a Band-Aid](https://www.pcgamer.com/elden-rings-npc-quest-markers-are-just-a-band-aid)<!-- GAME:END -->
+ - [Netflix announces Tekken anime series, due this year](https://www.polygon.com/22988824/tekken-anime-netflix-bloodline-release-date)
+ - [AndaSeat Jungle 2 Gaming Chair Review](https://www.pcgamer.com/andsaseat-jungle-2-gaming-chair)
+ - [Ghostwire: Tokyo’s charm can’t make up for its frustrations](https://www.polygon.com/reviews/22988757/ghostwire-tokyo-review-ps5-pc-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
