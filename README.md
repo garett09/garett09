@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys I&#39;mma grab a drink as the grown up I am](http://9gag.com/gag/avAeR1X)
- - 🚯 [Building a gate the right way](http://9gag.com/gag/aNPvO4A)
- - 🚯 [The evolution of first person](http://9gag.com/gag/aKm9erQ)<!-- MEMES:END -->
+ - 🚖 [That mental lag](http://9gag.com/gag/aVxEVEP)
+ - 🚯 [The evolution of first person](http://9gag.com/gag/aKm9erQ)
+ - 🚯 [Building a gate the right way](http://9gag.com/gag/aNPvO4A)<!-- MEMES:END -->
 
 --- 
 
