@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OfficeJet Pro7250](http://9gag.com/gag/a81mzQZ)
- - 🚯 [Helium is getting cooled to 2\u00b0K &lpar;-271\u00b0C&rpar; and turns into superfluid. It has 0 viscosity, defies gravity and goes through the tube and drips. It also shows quantum effects like quantum tunelling.](http://9gag.com/gag/a619xob)
+ - 🚖 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)
+ - 🚯 [Why?](http://9gag.com/gag/arnArwB)
  - 🚯 [Adorable](http://9gag.com/gag/aNPv296)<!-- MEMES:END -->
 
 --- 
