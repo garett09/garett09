@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asian approval process](http://9gag.com/gag/ajgOwox)
+ - 🚖 [So called Smart fridge](http://9gag.com/gag/a91v0B0)
  - 🚯 [And that&#39;s how you entertain](http://9gag.com/gag/aVxE6zw)
- - 🚯 [How to become a billionaire with 1$.](http://9gag.com/gag/aE8V5ZK)<!-- MEMES:END -->
+ - 🚯 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)<!-- MEMES:END -->
 
 --- 
 
