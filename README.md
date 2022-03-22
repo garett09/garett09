@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh](http://9gag.com/gag/ay94moX)
- - 🚯 [Mother of female swimmer confronted trans activist during Lia Thomas&#39;s race](http://9gag.com/gag/apgDjLE)
- - 🚯 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)<!-- MEMES:END -->
+ - 🚖 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)
+ - 🚯 [Why?](http://9gag.com/gag/arnArwB)
+ - 🚯 [Time is time](http://9gag.com/gag/a41zrXA)<!-- MEMES:END -->
 
 --- 
 
