@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos might make your next TV streaming OS](https://www.theverge.com/2022/3/22/22991456/sonos-home-theater-os-tv-rumor-job-listings)
+ - [Microsoft confirms Lapsus$ hackers stole source code via ‘limited’ access](https://www.theverge.com/2022/3/22/22991409/lapsus-microsoft-security-windows-source-code)
  - [Apple hit with second iCloud services outage in two days](https://appleinsider.com/articles/22/03/22/apple-hit-with-second-icloud-services-outage-in-two-days?utm_medium=rss)
- - [The NFL now lets teams chase blockchain sponsors but bans specific crypto and fan token deals](https://www.theverge.com/2022/3/22/22991604/nfl-teams-blockchain-nft-crypto-tokens-sponsors-fan-banned)<!-- TECH:END -->
+ - [Apple’s recovered from its second outage in two days](https://www.theverge.com/2022/3/22/22991792/apple-music-app-store-is-down-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
