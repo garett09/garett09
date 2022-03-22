@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What happened at Stitcher](https://www.theverge.com/2022/3/22/22990836/stitcher-asl-radiolab-anna-sorokin-call-her-daddy-prx-google)
- - [Insta360 debuts upgraded One RS modular action camera](https://appleinsider.com/articles/22/03/22/insta360-debuts-upgraded-one-rs-modular-action-camera?utm_medium=rss)
- - [Alphabet plans to spin off its quantum tech group Sandbox, led by founder Jack Hidary; Sandbox has 55 employees &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220322/p14#a220322p14)<!-- TECH:END -->
+ - [Apple’s Studio Display has 64GB of storage in addition to its iPhone 11-caliber processor](https://www.theverge.com/2022/3/22/22990875/apple-studio-display-64gb-storage-a13-processor-iphone-hardware)
+ - [Leaked &#39;iPhone 14 Pro&#39; &amp; &#39;iPhone 14 Pro Max&#39; diagrams clearly show camera bump](https://appleinsider.com/articles/22/03/22/leaked-iphone-14-pro-iphone-14-pro-max-diagrams-clearly-show-camera-bump?utm_medium=rss)
+ - [Instagram now lets all users tag products in their posts](https://www.theverge.com/2022/3/22/22990744/instagram-product-tag-posts-shopping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
