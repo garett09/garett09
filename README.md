@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Russia&#39;s economy deteriorates, the red lines keeping its cyber capabilities in check may evaporate and prompt Russian hackers to lash out against the West &lpar;Chris Krebs/Financial Times&rpar;](http://www.techmeme.com/220321/p29#a220321p29)
- - [NASA Is About to Blast Two Rockets Into the Northern Lights     - CNET](https://www.cnet.com/science/space/nasa-is-going-to-shoot-two-rockets-into-an-active-aurora/#ftag=CAD590a51e)
- - [NASA Confirms 5,000 Exoplanets Beyond Our Solar System: Each a &#39;New World&#39;     - CNET](https://www.cnet.com/science/space/nasa-confirms-5000-exoplanets-beyond-our-solar-system-each-a-new-world/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [a16z, Animoca Brands, and other launch partners received 14% of the 1B airdropped ApeCoins, which could give them substantial influence over the ApeCoin DAO &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220321/p30#a220321p30)
+ - [Christina Ricci Joins Cast of &#39;Addams Family&#39; Reboot     - CNET](https://www.cnet.com/culture/entertainment/christina-ricci-joins-cast-of-addams-family-reboot/#ftag=CAD590a51e)
+ - [Mysterious, Ghostly Radio Circles From Deep Space Probed With Best Images Yet     - CNET](https://www.cnet.com/science/space/mysterious-ghostly-radio-circles-from-deep-space-probed-with-best-images-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
