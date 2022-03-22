@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote in round 2 of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
- - [Returnal: Ascension launches today, brings campaign co-op and endless challenge mode](https://blog.playstation.com/2022/03/22/returnal-ascension-launches-today-brings-campaign-co-op-and-endless-challenge-mode/)
- - [Returnal: Ascension launches today, brings campaign co-op and endless challenge mode](https://blog.playstation.com/2022/03/22/returnal-ascension-launches-today-brings-campaign-co-op-and-endless-challenge-mode/)<!-- GAME:END -->
+ - [EA Sports PGA Tour delayed by one year](https://www.polygon.com/22991103/ea-sports-pga-tour-delayed-release-date-masters-augusta-national)
+ - [Daredevil fought a vacuum cleaner and learned a profound lesson](https://www.polygon.com/2022/3/22/22989906/daredevil-vacuum-cleaner-fight)
+ - [Mass Effect director Casey Hudson making all-new AAA sci-fi game](https://www.polygon.com/2022/3/22/22991023/mass-effect-casey-hudson-humanoid-new-sci-fi-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
