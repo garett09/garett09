@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba increases its share buyback program from $15B to $25B, sending its Hong Kong-listed shares up by 11%+; Alibaba has so far purchased ~$9.2B in shares &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220322/p8#a220322p8)
- - [The first phone with 150W charging doesn’t sacrifice battery health](https://www.androidauthority.com/realme-gt-neo-3-3141866/)
- - [We designed custom wallpapers for the Samsung Galaxy S22 series. Get them here.](https://www.androidauthority.com/samsung-galaxy-s22-wallpapers-aa-3140769/)<!-- TECH:END -->
+ - [Tesla officially opens Berlin Gigafactory](https://www.theverge.com/2022/3/22/22808108/tesla-gigafactory-open-production-start-elon-musk)
+ - [Apple submits new Dutch dating app proposal, gets ninth $5.5M fine](https://appleinsider.com/articles/22/03/22/apple-submits-new-dutch-dating-app-proposal-gets-ninth-55m-fine?utm_medium=rss)
+ - [How to download and install Google Chrome on any device](https://www.androidauthority.com/download-install-google-chrome-3140667/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
