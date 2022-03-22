@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why you shouldn’t murder the Pope Turtle in Elden Ring](https://www.polygon.com/22991252/miriel-turtle-pope-elden-ring-kill-reward-bell-bearing)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)
- - [This stunning Deep South fable isn&#39;t the next Kentucky Route Zero—it’s the first Norco](https://www.pcgamer.com/this-stunning-deep-south-fable-isnt-the-next-kentucky-route-zeroits-the-first-norco)<!-- GAME:END -->
+ - [Get More Gaming in This Month with EA Play and Game Pass](https://news.xbox.com/en-us/2022/03/22/get-more-gaming-in-this-month-with-ea-play-and-game-pass/)
+ - [Which slime is the king of slimes, according to a scientist](https://www.polygon.com/22984964/slime-minecraft-dragon-quest-zelda-stardew-ratings)
+ - [Cyberpunk 2077 Patch Stops Wrecked Cars From Spawning In Front Of You While Speeding](https://kotaku.com/cyberpunk-2077-speeding-car-glitch-stadia-aggressive-cr-1848687416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
