@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstarter CEO Aziz Hasan is stepping down](https://www.theverge.com/2022/3/22/22991562/kickstarter-ceo-aziz-hasan-resigns)
- - [Google won’t give old Pixels the best 5G, even though it admits it could](https://www.theverge.com/2022/3/22/22991308/google-pixel-4a-5-5a-5g-c-band-pixel-6-software)
- - [Adobe reports Q1 revenue of $4.26B, up 9.1% YoY, Digital Media revenue of $3.11B, up 9% YoY, and Digital Experience revenue of $1.06B, up 13% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220322/p29#a220322p29)<!-- TECH:END -->
+ - [Sonos might make your next TV streaming OS](https://www.theverge.com/2022/3/22/22991456/sonos-home-theater-os-tv-rumor-job-listings)
+ - [Apple hit with second iCloud services outage in two days](https://appleinsider.com/articles/22/03/22/apple-hit-with-second-icloud-services-outage-in-two-days?utm_medium=rss)
+ - [The NFL now lets teams chase blockchain sponsors but bans specific crypto and fan token deals](https://www.theverge.com/2022/3/22/22991604/nfl-teams-blockchain-nft-crypto-tokens-sponsors-fan-banned)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
