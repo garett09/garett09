@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sadly and hilariously accurate](http://9gag.com/gag/aQXQDOW)
- - 🚯 [Hey ,you learn something new every day.](http://9gag.com/gag/aNPvXm0)
- - 🚯 [Bruh](http://9gag.com/gag/ay94moX)<!-- MEMES:END -->
+ - 🚖 [The Trilogy](http://9gag.com/gag/aegOEbq)
+ - 🚯 [This seems way better than todays music](http://9gag.com/gag/a31Ae07)
+ - 🚯 [*who&#39;s telling her?*](http://9gag.com/gag/a31ADK5)<!-- MEMES:END -->
 
 --- 
 
