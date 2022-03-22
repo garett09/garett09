@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Katie Haun Launches a Crypto Fund—and Makes Her Web3 Pitch](https://www.wired.com/story/katie-haun-haun-ventures-cryptocurrency-vc)
- - [Bored Ape Yacht Club creator raises $450 million to build an NFT metaverse](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side)
- - [Apple ends 15 years of LTE patent disputes with WiLAN](https://appleinsider.com/articles/22/03/22/apple-ends-15-years-of-patent-disputes-with-wilan?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom launches Avatars, which lets users show up to meetings as Memoji-like animals, and plans to add new video filter avatar options in the future &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220322/p28#a220322p28)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Yuga Labs, the owner of three of the top NFT brands including Bored Ape Yacht Club, raises $450M at a $4B valuation led by a16z to build an NFT media empire &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220322/p27#a220322p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
