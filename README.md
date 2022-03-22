@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom launches Avatars, which lets users show up to meetings as Memoji-like animals, and plans to add new video filter avatar options in the future &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220322/p28#a220322p28)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Yuga Labs, the owner of three of the top NFT brands including Bored Ape Yacht Club, raises $450M at a $4B valuation led by a16z to build an NFT media empire &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220322/p27#a220322p27)<!-- TECH:END -->
+ - [Kickstarter CEO Aziz Hasan is stepping down](https://www.theverge.com/2022/3/22/22991562/kickstarter-ceo-aziz-hasan-resigns)
+ - [Google won’t give old Pixels the best 5G, even though it admits it could](https://www.theverge.com/2022/3/22/22991308/google-pixel-4a-5-5a-5g-c-band-pixel-6-software)
+ - [Adobe reports Q1 revenue of $4.26B, up 9.1% YoY, Digital Media revenue of $3.11B, up 9% YoY, and Digital Experience revenue of $1.06B, up 13% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220322/p29#a220322p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
