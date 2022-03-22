@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple providing user metrics &amp; new guidance for Podcasts Subscriptions producers](https://appleinsider.com/articles/22/03/22/apple-providing-user-metrics-new-guidance-for-podcasts-subscriptions-producers?utm_medium=rss)
- - [Twitch rolls out improved reporting and appeals features](https://www.theverge.com/2022/3/22/22989778/twitch-new-reporting-appeals-tools)
- - [Nvidia debuts Isaac Nova Orin, an autonomous mobile robot computing and sensor architecture powered by Jetson AGX Orin, and starts selling $2K Jetson dev kits &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220322/p24#a220322p24)<!-- TECH:END -->
+ - [Katie Haun Launches a Crypto Fund—and Makes Her Web3 Pitch](https://www.wired.com/story/katie-haun-haun-ventures-cryptocurrency-vc)
+ - [Bored Ape Yacht Club creator raises $450 million to build an NFT metaverse](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side)
+ - [Apple ends 15 years of LTE patent disputes with WiLAN](https://appleinsider.com/articles/22/03/22/apple-ends-15-years-of-patent-disputes-with-wilan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
