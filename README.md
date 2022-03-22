@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete a Netflix profile on PC, mobile, and TV](https://www.androidauthority.com/delete-netflix-profile-3140484/)
- - [Research: Google&#39;s Messages and Dialer apps on Android collect data without explicit consent or an opt-out, potentially violating GDPR; Google to make changes &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220321/p27#a220321p27)
- - [Verizon expanding 5G Ultra Wideband to more cities](https://appleinsider.com/articles/22/03/22/verizon-expanding-5g-ultra-wideband-to-more-cities?utm_medium=rss)<!-- TECH:END -->
+ - [As Russia&#39;s economy deteriorates, the red lines keeping its cyber capabilities in check may evaporate and prompt Russian hackers to lash out against the West &lpar;Chris Krebs/Financial Times&rpar;](http://www.techmeme.com/220321/p29#a220321p29)
+ - [NASA Is About to Blast Two Rockets Into the Northern Lights     - CNET](https://www.cnet.com/science/space/nasa-is-going-to-shoot-two-rockets-into-an-active-aurora/#ftag=CAD590a51e)
+ - [NASA Confirms 5,000 Exoplanets Beyond Our Solar System: Each a &#39;New World&#39;     - CNET](https://www.cnet.com/science/space/nasa-confirms-5000-exoplanets-beyond-our-solar-system-each-a-new-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
