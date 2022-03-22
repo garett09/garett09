@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z, Animoca Brands, and other launch partners received 14% of the 1B airdropped ApeCoins, which could give them substantial influence over the ApeCoin DAO &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220321/p30#a220321p30)
- - [Christina Ricci Joins Cast of &#39;Addams Family&#39; Reboot     - CNET](https://www.cnet.com/culture/entertainment/christina-ricci-joins-cast-of-addams-family-reboot/#ftag=CAD590a51e)
- - [Mysterious, Ghostly Radio Circles From Deep Space Probed With Best Images Yet     - CNET](https://www.cnet.com/science/space/mysterious-ghostly-radio-circles-from-deep-space-probed-with-best-images-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India&#39;s Meesho, which started as a social commerce platform in 2015, pivoted to direct selling in 2021, affecting many of its resellers who have lost customers &lpar;Varsha Bansal/Entrackr&rpar;](http://www.techmeme.com/220322/p1#a220322p1)
+ - [OnePlus reportedly readying an inexpensive smartwatch. Second time a charm?](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)
+ - [a16z, Animoca Brands, and other launch partners received 14% of the 1B airdropped ApeCoins, which could give them substantial influence over the ApeCoin DAO &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220321/p30#a220321p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
