@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That `Oi`!](http://9gag.com/gag/aggOb8r)
- - 🚯 [Hey ,you learn something new every day.](http://9gag.com/gag/aNPvXm0)
- - 🚯 [*who&#39;s telling her?*](http://9gag.com/gag/a31ADK5)<!-- MEMES:END -->
+ - 🚖 [Men are simple](http://9gag.com/gag/angn3q0)
+ - 🚯 [Batman have some big balls..](http://9gag.com/gag/amgGyo4)
+ - 🚯 [That `Oi`!](http://9gag.com/gag/aggOb8r)<!-- MEMES:END -->
 
 --- 
 
