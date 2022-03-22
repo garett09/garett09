@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Furry Sonic the Hedgehog Xbox controllers alert](https://www.polygon.com/22990816/furry-sonic-xbox-controllers)
- - [Introducing the Designed for Xbox Spring Collection 2022](https://news.xbox.com/en-us/2022/03/22/designed-for-xbox-spring-2022-collection/)
- - [Christina Ricci cast in Netflix’s Addams Family show — but not as Wednesday](https://www.polygon.com/22990813/christina-ricci-wednesday-addams-netflix)<!-- GAME:END -->
+ - [Vote in round 2 of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
+ - [Returnal: Ascension launches today, brings campaign co-op and endless challenge mode](https://blog.playstation.com/2022/03/22/returnal-ascension-launches-today-brings-campaign-co-op-and-endless-challenge-mode/)
+ - [Returnal: Ascension launches today, brings campaign co-op and endless challenge mode](https://blog.playstation.com/2022/03/22/returnal-ascension-launches-today-brings-campaign-co-op-and-endless-challenge-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
