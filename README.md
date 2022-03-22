@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best game design programs, ranked by the Princeton Review 2022](https://www.pcgamer.com/princeton-review-game-design-college-rankings-2022)
  - [PAX Australia is returning in 2022, tickets now live](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)
- - [Russian Chess Champion Suspended After Publicly Supporting Invasion Of Ukraine](https://kotaku.com/ukraine-russia-invasion-sergey-karjakin-chess-grandmast-1848683161)
- - [The Nintendo Switch Now Lets You Organize Your Games In Folders](https://kotaku.com/nintendo-switch-groups-folders-firmware-update-new-home-1848683568)<!-- GAME:END -->
+ - [Russian Chess Champion Suspended After Publicly Supporting Invasion Of Ukraine](https://kotaku.com/ukraine-russia-invasion-sergey-karjakin-chess-grandmast-1848683161)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
