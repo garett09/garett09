@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt rep responds to Witcher 4 Lynx speculation with an enthusiastic nod](https://www.pcgamer.com/cd-projekt-rep-responds-to-witcher-4-lynx-speculation-with-an-enthusiastic-nod)
  - [Elden Ring Modder Summons Ridiculously Huge Enemies](https://kotaku.com/elden-ring-mod-spirit-ashes-chariot-walking-mausoleum-s-1848688838)
- - [An alpha version of Steam will be coming to a select number of Chromebooks soon](https://www.pcgamer.com/an-alpha-version-of-steam-will-be-coming-to-a-select-number-of-chromebooks-soon)
- - [New Witcher Game Director Promises No Crunch Despite Studio History Of Crunch](https://kotaku.com/witcher-4-cyberpunk-2077-cdpr-crunch-open-world-rpg-1848688469)<!-- GAME:END -->
+ - [An alpha version of Steam will be coming to a select number of Chromebooks soon](https://www.pcgamer.com/an-alpha-version-of-steam-will-be-coming-to-a-select-number-of-chromebooks-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
