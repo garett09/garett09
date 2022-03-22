@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The New Kamen Rider Black Sun Suits Look So Edgy And So Cool](https://kotaku.com/kamen-rider-black-sun-hideaki-anno-shinji-higuchi-super-1848684551)
  - [Rune Factory 5 tries to be the next big farming simulator, but it stumbles](https://www.polygon.com/22985591/rune-factory-5-impressions-farming-sim-nintendo-switch)
- - [The best game design programs, ranked by the Princeton Review 2022](https://www.pcgamer.com/princeton-review-game-design-college-rankings-2022)
- - [PAX Australia is returning in 2022, tickets now live](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)<!-- GAME:END -->
+ - [The best game design programs, ranked by the Princeton Review 2022](https://www.pcgamer.com/princeton-review-game-design-college-rankings-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
