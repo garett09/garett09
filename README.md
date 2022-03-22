@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)
- - 🚯 [Why?](http://9gag.com/gag/arnArwB)
- - 🚯 [Time is time](http://9gag.com/gag/a41zrXA)<!-- MEMES:END -->
+ - 🚖 [Sadly and hilariously accurate](http://9gag.com/gag/aQXQDOW)
+ - 🚯 [Hey ,you learn something new every day.](http://9gag.com/gag/aNPvXm0)
+ - 🚯 [Bruh](http://9gag.com/gag/ay94moX)<!-- MEMES:END -->
 
 --- 
 
