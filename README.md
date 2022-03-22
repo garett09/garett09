@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostwire: Tokyo combat and exploration tips, out March 25](https://blog.playstation.com/2022/03/22/ghostwire-tokyo-combat-and-exploration-tips-out-march-25/)
- - [This is the second time a third-party patcher has stepped in to fix the same Windows security issue](https://www.pcgamer.com/this-is-the-second-time-a-third-party-patcher-has-stepped-in-to-fix-the-same-windows-security-issue)
- - [Where to find Patches and complete his quest in Elden Ring](https://www.pcgamer.com/elden-ring-patches-chest-boss)<!-- GAME:END -->
+ - [Furry Sonic the Hedgehog Xbox controllers alert](https://www.polygon.com/22990816/furry-sonic-xbox-controllers)
+ - [Introducing the Designed for Xbox Spring Collection 2022](https://news.xbox.com/en-us/2022/03/22/designed-for-xbox-spring-2022-collection/)
+ - [Christina Ricci cast in Netflix’s Addams Family show — but not as Wednesday](https://www.polygon.com/22990813/christina-ricci-wednesday-addams-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
