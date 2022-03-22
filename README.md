@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Trilogy](http://9gag.com/gag/aegOEbq)
- - 🚯 [This seems way better than todays music](http://9gag.com/gag/a31Ae07)
- - 🚯 [*who&#39;s telling her?*](http://9gag.com/gag/a31ADK5)<!-- MEMES:END -->
+ - 🚖 [Someone finally did it!](http://9gag.com/gag/a11D8Y8)
+ - 🚯 [Work smart, not hard](http://9gag.com/gag/aRrZ8R7)
+ - 🚯 [I had no clue I was into Folk/Bluegrass Music?](http://9gag.com/gag/aXrNmWD)<!-- MEMES:END -->
 
 --- 
 
