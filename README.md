@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That `Oi`!](http://9gag.com/gag/aggOb8r)
- - 🚯 [*who&#39;s telling her?*](http://9gag.com/gag/a31ADK5)
- - 🚯 [Oh the horrors](http://9gag.com/gag/aegOEom)<!-- MEMES:END -->
+ - 🚖 [You See!!?](http://9gag.com/gag/a11DnEw)
+ - 🚯 [This happened in Sweeden. Who in the hell shattered the f**king ring?](http://9gag.com/gag/arnA0Z0)
+ - 🚯 [Counting in French](http://9gag.com/gag/a11DgeY)<!-- MEMES:END -->
 
 --- 
 
