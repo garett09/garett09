@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Switch Now Lets You Organize Your Games In Folders](https://kotaku.com/nintendo-switch-groups-folders-firmware-update-new-home-1848683568)
- - [Nintendo finally adds folders to Switch UI](https://www.polygon.com/22990249/nintendo-switch-folders-groups-system-update)
- - [George R.R. Martin Completes Another Blog Post About Elden Ring](https://kotaku.com/elden-ring-george-r-r-martin-author-miyazaki-turtle-pop-1848683329)<!-- GAME:END -->
+ - [PAX Australia is returning in 2022, tickets now live](https://www.pcgamer.com/pax-australia-is-trying-again-in-2022)
+ - [Russian Chess Champion Suspended After Publicly Supporting Invasion Of Ukraine](https://kotaku.com/ukraine-russia-invasion-sergey-karjakin-chess-grandmast-1848683161)
+ - [The Nintendo Switch Now Lets You Organize Your Games In Folders](https://kotaku.com/nintendo-switch-groups-folders-firmware-update-new-home-1848683568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
