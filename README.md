@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So called Smart fridge](http://9gag.com/gag/a91v0B0)
- - 🚯 [And that&#39;s how you entertain](http://9gag.com/gag/aVxE6zw)
- - 🚯 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)<!-- MEMES:END -->
+ - 🚖 [Cucumba](http://9gag.com/gag/ajgO491)
+ - 🚯 [Guy in green was apparently being a real d-bag all night. Trying to pick a fight with whoever he could. NMV.](http://9gag.com/gag/aRrZpzG)
+ - 🚯 [Amen.](http://9gag.com/gag/abgODO8)<!-- MEMES:END -->
 
 --- 
 
