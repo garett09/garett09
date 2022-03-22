@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get More Gaming in This Month with EA Play and Game Pass](https://news.xbox.com/en-us/2022/03/22/get-more-gaming-in-this-month-with-ea-play-and-game-pass/)
- - [Which slime is the king of slimes, according to a scientist](https://www.polygon.com/22984964/slime-minecraft-dragon-quest-zelda-stardew-ratings)
- - [Cyberpunk 2077 Patch Stops Wrecked Cars From Spawning In Front Of You While Speeding](https://kotaku.com/cyberpunk-2077-speeding-car-glitch-stadia-aggressive-cr-1848687416)<!-- GAME:END -->
+ - [Minecraft Preview is the new standalone beta application for Bedrock](https://www.pcgamer.com/minecraft-preview-is-the-new-standalone-beta-application-for-bedrock)
+ - [New Smite Update, Heavenly Light, Brings Queen of Cards Izanami](https://news.xbox.com/en-us/2022/03/22/new-smite-update-heavenly-light-brings-queen-of-cards-izanami/)
+ - [5 Messed Up Things That Happen In Kirby Manga Mania](https://kotaku.com/kirby-nintendo-manga-mania-hikawa-hirokazu-comedy-viz-m-1848687622)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
