@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gwent director Jason Slama is heading up the new Witcher game](https://www.polygon.com/22991162/gwent-director-witcher-4)
- - [Rune Factory 5 Shows That Series Shift To 3D Has Come At A Cost](https://kotaku.com/rune-factory-5-review-nintendo-switch-harvest-moon-farm-1848686620)
- - [How to move Windows boot drives to another PC](https://www.pcgamer.com/how-to-swap-windows-drives)<!-- GAME:END -->
+ - [Why you shouldn’t murder the Pope Turtle in Elden Ring](https://www.polygon.com/22991252/miriel-turtle-pope-elden-ring-kill-reward-bell-bearing)
+ - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)
+ - [This stunning Deep South fable isn&#39;t the next Kentucky Route Zero—it’s the first Norco](https://www.pcgamer.com/this-stunning-deep-south-fable-isnt-the-next-kentucky-route-zeroits-the-first-norco)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
