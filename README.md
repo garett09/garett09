@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports PGA Tour delayed by one year](https://www.polygon.com/22991103/ea-sports-pga-tour-delayed-release-date-masters-augusta-national)
- - [Daredevil fought a vacuum cleaner and learned a profound lesson](https://www.polygon.com/2022/3/22/22989906/daredevil-vacuum-cleaner-fight)
- - [Mass Effect director Casey Hudson making all-new AAA sci-fi game](https://www.polygon.com/2022/3/22/22991023/mass-effect-casey-hudson-humanoid-new-sci-fi-game)<!-- GAME:END -->
+ - [Gwent director Jason Slama is heading up the new Witcher game](https://www.polygon.com/22991162/gwent-director-witcher-4)
+ - [Rune Factory 5 Shows That Series Shift To 3D Has Come At A Cost](https://kotaku.com/rune-factory-5-review-nintendo-switch-harvest-moon-farm-1848686620)
+ - [How to move Windows boot drives to another PC](https://www.pcgamer.com/how-to-swap-windows-drives)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
