@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kiwix: a 29GB file of Russian-language Wikipedia was downloaded 105,889 times in early March, up 4,000%+ from early January, over fears of a Russian ban &lpar;Annie Rauwerda/Slate&rpar;](http://www.techmeme.com/220322/p5#a220322p5)
- - [Samsung Galaxy S21 FE starts receiving One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
- - [WhatsApp is finally rolling out message reactions](https://www.androidauthority.com/whatsapp-message-reactions-release-3141822/)<!-- TECH:END -->
+ - [Alibaba increases its share buyback program from $15B to $25B, sending its Hong Kong-listed shares up by 11%+; Alibaba has so far purchased ~$9.2B in shares &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220322/p8#a220322p8)
+ - [The first phone with 150W charging doesn’t sacrifice battery health](https://www.androidauthority.com/realme-gt-neo-3-3141866/)
+ - [We designed custom wallpapers for the Samsung Galaxy S22 series. Get them here.](https://www.androidauthority.com/samsung-galaxy-s22-wallpapers-aa-3140769/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
