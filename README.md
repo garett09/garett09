@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally found it!](http://9gag.com/gag/aegOwK5)
- - 🚯 [Oh the horrors](http://9gag.com/gag/aegOEom)
- - 🚯 [It cannot be unseen](http://9gag.com/gag/aNPvMQA)<!-- MEMES:END -->
+ - 🚖 [He took care of it Single handedly.](http://9gag.com/gag/a81mNWd)
+ - 🚯 [Cat is life..](http://9gag.com/gag/aLve5RA)
+ - 🚯 [W... Why? Well ok](http://9gag.com/gag/aWgLyjZ)<!-- MEMES:END -->
 
 --- 
 
