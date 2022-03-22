@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a small one](http://9gag.com/gag/aE8Vyjp)
- - 🚯 [Personally I blame the parents](http://9gag.com/gag/aogVd72)
- - 🚯 [Twice is the charm](http://9gag.com/gag/angn89n)<!-- MEMES:END -->
+ - 🚖 [Twice is the charm](http://9gag.com/gag/angn89n)
+ - 🚯 [Would you try it?](http://9gag.com/gag/a91v4d6)
+ - 🚯 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)<!-- MEMES:END -->
 
 --- 
 
