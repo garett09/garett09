@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Kamen Rider Black Sun Suits Look So Edgy And So Cool](https://kotaku.com/kamen-rider-black-sun-hideaki-anno-shinji-higuchi-super-1848684551)
- - [Rune Factory 5 tries to be the next big farming simulator, but it stumbles](https://www.polygon.com/22985591/rune-factory-5-impressions-farming-sim-nintendo-switch)
- - [The best game design programs, ranked by the Princeton Review 2022](https://www.pcgamer.com/princeton-review-game-design-college-rankings-2022)<!-- GAME:END -->
+ - [Microsoft will bug Windows 11 users with watermarks if they bypass system requirements](https://www.pcgamer.com/microsoft-will-bug-windows-11-users-with-watermarks-if-they-bypass-system-requirements)
+ - [World of Warcraft&#39;s Mage Tower is returning, for good this time](https://www.pcgamer.com/world-of-warcrafts-mage-tower-is-returning-for-good-this-time)
+ - [Starship Troopers: Terran Command gets delayed to June](https://www.pcgamer.com/starship-troopers-terran-command-gets-delayed-to-june)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
