@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He took care of it Single handedly.](http://9gag.com/gag/a81mNWd)
- - 🚯 [Cat is life..](http://9gag.com/gag/aLve5RA)
- - 🚯 [W... Why? Well ok](http://9gag.com/gag/aWgLyjZ)<!-- MEMES:END -->
+ - 🚖 [So called Smart fridge](http://9gag.com/gag/a91v0B0)
+ - 🚯 [Change is a good thing.](http://9gag.com/gag/awzmDvW)
+ - 🚯 [Give up and get 10,000$](http://9gag.com/gag/aogVwOx)<!-- MEMES:END -->
 
 --- 
 
