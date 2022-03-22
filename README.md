@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)
- - 🚯 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)
- - 🚯 [Dating is hard guys](http://9gag.com/gag/aAGENe0)<!-- MEMES:END -->
+ - 🚖 [Just a small one](http://9gag.com/gag/aE8Vyjp)
+ - 🚯 [Personally I blame the parents](http://9gag.com/gag/aogVd72)
+ - 🚯 [Twice is the charm](http://9gag.com/gag/angn89n)<!-- MEMES:END -->
 
 --- 
 
