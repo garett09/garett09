@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ends 15 years of patent disputes with WiLAN](https://appleinsider.com/articles/22/03/22/apple-ends-15-years-of-patent-disputes-with-wilan?utm_medium=rss)
- - [Discord communications app now supports Apple Silicon natively](https://appleinsider.com/articles/22/03/22/discord-communications-app-now-supports-apple-silicon-natively?utm_medium=rss)
- - [Apple providing user metrics &amp; new guidance for Podcasts Subscriptions producers](https://appleinsider.com/articles/22/03/22/apple-providing-user-metrics-new-guidance-for-podcasts-subscriptions-producers?utm_medium=rss)<!-- TECH:END -->
+ - [Roku announces OS 11, rolling out in the coming weeks with custom screensavers, a curated &quot;what to watch&quot; hub, and expanded voice keyboard support &lpar;Catie Keck/The Verge&rpar;](http://www.techmeme.com/220322/p13#a220322p13)
+ - [Jeeves, which is building tools to help startups manage expenses, raises a $180M Series C led by Tencent at a $2.1B valuation, up from $500M in September 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220322/p12#a220322p12)
+ - [Hackers leak 37GB of Microsoft source code](https://appleinsider.com/articles/22/03/22/hackers-allegedly-leak-37gb-of-microsoft-source-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
