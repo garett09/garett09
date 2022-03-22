@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Challenge accepted](http://9gag.com/gag/aYrO5mw)
- - 🚯 [And yes, Tesla has stated they can shut off a car remotely, it&#39;s a one-way switch which means the car the needs to be reactivated at a Tesla facility.](http://9gag.com/gag/adgOzbM)
- - 🚯 [Guy in green was apparently being a real d-bag all night. Trying to pick a fight with whoever he could. NMV.](http://9gag.com/gag/aRrZpzG)<!-- MEMES:END -->
+ - 🚖 [Mod it till it breaks](http://9gag.com/gag/aDDnvEx)
+ - 🚯 [Guy in green was apparently being a real d-bag all night. Trying to pick a fight with whoever he could. NMV.](http://9gag.com/gag/aRrZpzG)
+ - 🚯 [And yes, Tesla has stated they can shut off a car remotely, it&#39;s a one-way switch which means the car the needs to be reactivated at a Tesla facility.](http://9gag.com/gag/adgOzbM)<!-- MEMES:END -->
 
 --- 
 
