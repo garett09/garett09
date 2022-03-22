@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft will bug Windows 11 users with watermarks if they bypass system requirements](https://www.pcgamer.com/microsoft-will-bug-windows-11-users-with-watermarks-if-they-bypass-system-requirements)
- - [World of Warcraft&#39;s Mage Tower is returning, for good this time](https://www.pcgamer.com/world-of-warcrafts-mage-tower-is-returning-for-good-this-time)
- - [Starship Troopers: Terran Command gets delayed to June](https://www.pcgamer.com/starship-troopers-terran-command-gets-delayed-to-june)<!-- GAME:END -->
+ - [Ghostwire: Tokyo combat and exploration tips, out March 25](https://blog.playstation.com/2022/03/22/ghostwire-tokyo-combat-and-exploration-tips-out-march-25/)
+ - [This is the second time a third-party patcher has stepped in to fix the same Windows security issue](https://www.pcgamer.com/this-is-the-second-time-a-third-party-patcher-has-stepped-in-to-fix-the-same-windows-security-issue)
+ - [Where to find Patches and complete his quest in Elden Ring](https://www.pcgamer.com/elden-ring-patches-chest-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
