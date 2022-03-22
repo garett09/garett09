@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omnipresent, which helps companies hire remote workers and manage compliance, health insurance, pensions, and paid leave, has raised $120M &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220322/p3#a220322p3)
- - [Nintendo finally adds folders to the Switch, kind of](https://www.theverge.com/2022/3/22/22990564/nintendo-switch-folders-bluetooth-audio-firmware-14-0)
- - [Authentication service provider Okta says it is investigating a report of a digital breach after hackers posted screenshots of alleged internal company systems &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/220322/p2#a220322p2)<!-- TECH:END -->
+ - [Two more OnePlus 10 series phones are in the works as per leaked roadmap](https://www.androidauthority.com/oneplus-10-roadmap-3141806/)
+ - [CBRE: Toronto is now the third-largest tech hub in North America, behind New York and Silicon Valley, and its tech workforce is growing faster than any US hub &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220322/p4#a220322p4)
+ - [Omnipresent, which helps companies hire remote workers and manage compliance, health insurance, pensions, and paid leave, has raised $120M &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220322/p3#a220322p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
