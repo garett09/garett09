@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two more OnePlus 10 series phones are in the works as per leaked roadmap](https://www.androidauthority.com/oneplus-10-roadmap-3141806/)
- - [CBRE: Toronto is now the third-largest tech hub in North America, behind New York and Silicon Valley, and its tech workforce is growing faster than any US hub &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220322/p4#a220322p4)
- - [Omnipresent, which helps companies hire remote workers and manage compliance, health insurance, pensions, and paid leave, has raised $120M &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220322/p3#a220322p3)<!-- TECH:END -->
+ - [Kiwix: a 29GB file of Russian-language Wikipedia was downloaded 105,889 times in early March, up 4,000%+ from early January, over fears of a Russian ban &lpar;Annie Rauwerda/Slate&rpar;](http://www.techmeme.com/220322/p5#a220322p5)
+ - [Samsung Galaxy S21 FE starts receiving One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
+ - [WhatsApp is finally rolling out message reactions](https://www.androidauthority.com/whatsapp-message-reactions-release-3141822/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
