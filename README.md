@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends leakers say they know the next 9 characters](https://www.polygon.com/gaming/22991504/apex-legends-leak-new-legends-map-heirlooms)
- - [Core Keeper makes the sandbox survival sim formula feel new](https://www.polygon.com/gaming/22991657/core-keeper-survival-sim-early-review)
- - [Game Boy Color Becomes A Frankenstein’s Monster Of Unnecessary Accessories](https://kotaku.com/game-boy-color-gbc-nintendo-attachment-peripheral-tikto-1848688262)<!-- GAME:END -->
+ - [Elden Ring Modder Summons Ridiculously Huge Enemies](https://kotaku.com/elden-ring-mod-spirit-ashes-chariot-walking-mausoleum-s-1848688838)
+ - [An alpha version of Steam will be coming to a select number of Chromebooks soon](https://www.pcgamer.com/an-alpha-version-of-steam-will-be-coming-to-a-select-number-of-chromebooks-soon)
+ - [New Witcher Game Director Promises No Crunch Despite Studio History Of Crunch](https://kotaku.com/witcher-4-cyberpunk-2077-cdpr-crunch-open-world-rpg-1848688469)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
