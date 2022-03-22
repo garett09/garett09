@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sierra founders got &#39;bored&#39; in lockdown so they&#39;re making their first new game in more than 20 years](https://www.pcgamer.com/sierra-founders-got-bored-in-lockdown-so-theyre-making-their-first-new-game-in-more-than-20-years)
- - [This gaming headset that vibrates your ears is $30 off](https://www.pcgamer.com/this-gaming-headset-that-vibrates-your-ears-is-dollar30-off)
- - [Five Things You Should Know Before Starting Tunic](https://kotaku.com/tunic-tips-how-to-get-sword-shield-bombs-xbox-series-x-1848683077)<!-- GAME:END -->
+ - [The Nintendo Switch Now Lets You Organize Your Games In Folders](https://kotaku.com/nintendo-switch-groups-folders-firmware-update-new-home-1848683568)
+ - [Nintendo finally adds folders to Switch UI](https://www.polygon.com/22990249/nintendo-switch-folders-groups-system-update)
+ - [George R.R. Martin Completes Another Blog Post About Elden Ring](https://kotaku.com/elden-ring-george-r-r-martin-author-miyazaki-turtle-pop-1848683329)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
