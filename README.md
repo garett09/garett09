@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Studio Display has 64GB of storage in addition to its iPhone 11-caliber processor](https://www.theverge.com/2022/3/22/22990875/apple-studio-display-64gb-storage-a13-processor-iphone-hardware)
- - [Leaked &#39;iPhone 14 Pro&#39; &amp; &#39;iPhone 14 Pro Max&#39; diagrams clearly show camera bump](https://appleinsider.com/articles/22/03/22/leaked-iphone-14-pro-iphone-14-pro-max-diagrams-clearly-show-camera-bump?utm_medium=rss)
- - [Instagram now lets all users tag products in their posts](https://www.theverge.com/2022/3/22/22990744/instagram-product-tag-posts-shopping)<!-- TECH:END -->
+ - [Steam releases an alpha version for Chrome OS, available to a small set of recent Chromebooks, after announcing the effort in January 2020 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220322/p19#a220322p19)
+ - [Apple&#39;s Learning Coach program teaches educators how to use the iPhone, Mac, and iPad](https://appleinsider.com/articles/22/03/22/apples-learning-coach-program-teaches-educators-how-to-use-the-iphone-mac-and-ipad?utm_medium=rss)
+ - [Nvidia unveils the Grace CPU Superchip, an Arm-based discrete data center CPU coming next year, with 144 high-performance cores and 1TB of secondary memory &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220322/p18#a220322p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
