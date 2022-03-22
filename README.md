@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You See!!?](http://9gag.com/gag/a11DnEw)
- - 🚯 [This happened in Sweeden. Who in the hell shattered the f**king ring?](http://9gag.com/gag/arnA0Z0)
- - 🚯 [Counting in French](http://9gag.com/gag/a11DgeY)<!-- MEMES:END -->
+ - 🚖 [William da-friend](http://9gag.com/gag/aBnLz32)
+ - 🚯 [When an Anime is more authentic and accurate than that show from Netflix &lpar;looking at you Valhala&rpar;](http://9gag.com/gag/ajgOj11)
+ - 🚯 [The guilt is real](http://9gag.com/gag/a619g3L)<!-- MEMES:END -->
 
 --- 
 
