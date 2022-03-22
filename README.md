@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla officially opens Berlin Gigafactory](https://www.theverge.com/2022/3/22/22808108/tesla-gigafactory-open-production-start-elon-musk)
- - [Apple submits new Dutch dating app proposal, gets ninth $5.5M fine](https://appleinsider.com/articles/22/03/22/apple-submits-new-dutch-dating-app-proposal-gets-ninth-55m-fine?utm_medium=rss)
- - [How to download and install Google Chrome on any device](https://www.androidauthority.com/download-install-google-chrome-3140667/)<!-- TECH:END -->
+ - [Apple ends 15 years of patent disputes with WiLAN](https://appleinsider.com/articles/22/03/22/apple-ends-15-years-of-patent-disputes-with-wilan?utm_medium=rss)
+ - [Discord communications app now supports Apple Silicon natively](https://appleinsider.com/articles/22/03/22/discord-communications-app-now-supports-apple-silicon-natively?utm_medium=rss)
+ - [Apple providing user metrics &amp; new guidance for Podcasts Subscriptions producers](https://appleinsider.com/articles/22/03/22/apple-providing-user-metrics-new-guidance-for-podcasts-subscriptions-producers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
