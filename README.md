@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A malicious cartoon rendering Android app that steals Facebook credentials has been downloaded 100K times and is still available on the Google Play Store &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220321/p26#a220321p26)
- - [The best YouTube originals: What to watch with your Premium account in 2022](https://www.androidauthority.com/best-youtube-originals-3140563/)
- - [Netflix: The 42 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-42-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to delete a Netflix profile on PC, mobile, and TV](https://www.androidauthority.com/delete-netflix-profile-3140484/)
+ - [Research: Google&#39;s Messages and Dialer apps on Android collect data without explicit consent or an opt-out, potentially violating GDPR; Google to make changes &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220321/p27#a220321p27)
+ - [Verizon expanding 5G Ultra Wideband to more cities](https://appleinsider.com/articles/22/03/22/verizon-expanding-5g-ultra-wideband-to-more-cities?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
