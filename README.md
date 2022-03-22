@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well damn](http://9gag.com/gag/aLveN5z)
- - 🚯 [This seems way better than todays music](http://9gag.com/gag/a31Ae07)
- - 🚯 [German made Panzerfaust 3 IT finally arrived in Ukraine](http://9gag.com/gag/aZrwVXW)<!-- MEMES:END -->
+ - 🚖 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)
+ - 🚯 [A man did a lil hop on the sidewalk perfectly. That was beautiful, dude, just like an avenge!](http://9gag.com/gag/a218j2D)
+ - 🚯 [Dating is hard guys](http://9gag.com/gag/aAGENe0)<!-- MEMES:END -->
 
 --- 
 
