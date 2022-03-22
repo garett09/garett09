@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Meesho, which started as a social commerce platform in 2015, pivoted to direct selling in 2021, affecting many of its resellers who have lost customers &lpar;Varsha Bansal/Entrackr&rpar;](http://www.techmeme.com/220322/p1#a220322p1)
- - [OnePlus reportedly readying an inexpensive smartwatch. Second time a charm?](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)
- - [a16z, Animoca Brands, and other launch partners received 14% of the 1B airdropped ApeCoins, which could give them substantial influence over the ApeCoin DAO &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220321/p30#a220321p30)<!-- TECH:END -->
+ - [Omnipresent, which helps companies hire remote workers and manage compliance, health insurance, pensions, and paid leave, has raised $120M &lpar;Ilena Peng/Bloomberg&rpar;](http://www.techmeme.com/220322/p3#a220322p3)
+ - [Nintendo finally adds folders to the Switch, kind of](https://www.theverge.com/2022/3/22/22990564/nintendo-switch-folders-bluetooth-audio-firmware-14-0)
+ - [Authentication service provider Okta says it is investigating a report of a digital breach after hackers posted screenshots of alleged internal company systems &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/220322/p2#a220322p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
