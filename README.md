@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat is life..](http://9gag.com/gag/aLve5RA)
- - 🚯 [The guilt is real](http://9gag.com/gag/a619g3L)
- - 🚯 [Choose wisely](http://9gag.com/gag/aGz8QYZ)<!-- MEMES:END -->
+ - 🚖 [Asian approval process](http://9gag.com/gag/ajgOwox)
+ - 🚯 [And that&#39;s how you entertain](http://9gag.com/gag/aVxE6zw)
+ - 🚯 [How to become a billionaire with 1$.](http://9gag.com/gag/aE8V5ZK)<!-- MEMES:END -->
 
 --- 
 
