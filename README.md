@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Preview is the new standalone beta application for Bedrock](https://www.pcgamer.com/minecraft-preview-is-the-new-standalone-beta-application-for-bedrock)
- - [New Smite Update, Heavenly Light, Brings Queen of Cards Izanami](https://news.xbox.com/en-us/2022/03/22/new-smite-update-heavenly-light-brings-queen-of-cards-izanami/)
- - [5 Messed Up Things That Happen In Kirby Manga Mania](https://kotaku.com/kirby-nintendo-manga-mania-hikawa-hirokazu-comedy-viz-m-1848687622)<!-- GAME:END -->
+ - [Apex Legends leakers say they know the next 9 characters](https://www.polygon.com/gaming/22991504/apex-legends-leak-new-legends-map-heirlooms)
+ - [Core Keeper makes the sandbox survival sim formula feel new](https://www.polygon.com/gaming/22991657/core-keeper-survival-sim-early-review)
+ - [Game Boy Color Becomes A Frankenstein’s Monster Of Unnecessary Accessories](https://kotaku.com/game-boy-color-gbc-nintendo-attachment-peripheral-tikto-1848688262)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
