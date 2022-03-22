@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked &#39;iPhone 14 Pro&#39; &amp; &#39;iPhone 14 Pro Max&#39; diagrams clearly show camera bump](https://appleinsider.com/articles/22/03/22/leaked-iphone-14-pro-iphone-14-pro-max-diagrams-clearly-show-camera-bump?utm_medium=rss)
- - [Roblox’s Game Fund games don’t look like most Roblox titles](https://www.theverge.com/2022/3/22/22989995/roblox-game-fund-25-million-rolling-thunder-winds-of-fortune)
- - [What does “ratioed” mean on Twitter and how can you spot it?](https://www.androidauthority.com/what-is-ratio-twitter-3141551/)<!-- TECH:END -->
+ - [Apple providing user metrics &amp; new guidance for Podcasts Subscriptions producers](https://appleinsider.com/articles/22/03/22/apple-providing-user-metrics-new-guidance-for-podcasts-subscriptions-producers?utm_medium=rss)
+ - [Twitch rolls out improved reporting and appeals features](https://www.theverge.com/2022/3/22/22989778/twitch-new-reporting-appeals-tools)
+ - [Nvidia debuts Isaac Nova Orin, an autonomous mobile robot computing and sensor architecture powered by Jetson AGX Orin, and starts selling $2K Jetson dev kits &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220322/p24#a220322p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
