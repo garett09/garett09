@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone finally did it!](http://9gag.com/gag/a11D8Y8)
- - 🚯 [Work smart, not hard](http://9gag.com/gag/aRrZ8R7)
- - 🚯 [I had no clue I was into Folk/Bluegrass Music?](http://9gag.com/gag/aXrNmWD)<!-- MEMES:END -->
+ - 🚖 [That `Oi`!](http://9gag.com/gag/aggOb8r)
+ - 🚯 [Hey ,you learn something new every day.](http://9gag.com/gag/aNPvXm0)
+ - 🚯 [*who&#39;s telling her?*](http://9gag.com/gag/a31ADK5)<!-- MEMES:END -->
 
 --- 
 
