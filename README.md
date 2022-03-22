@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Twice is the charm](http://9gag.com/gag/angn89n)
- - 🚯 [Would you try it?](http://9gag.com/gag/a91v4d6)
+ - 🚖 [Bruh](http://9gag.com/gag/ay94moX)
+ - 🚯 [Mother of female swimmer confronted trans activist during Lia Thomas&#39;s race](http://9gag.com/gag/apgDjLE)
  - 🚯 [Sometimes I turn on my PlayStation, stare at the screen then turn it back off again.](http://9gag.com/gag/a91vZ2j)<!-- MEMES:END -->
 
 --- 
