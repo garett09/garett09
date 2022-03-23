@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: add AppleCare to any Mac Studio for only $1](https://appleinsider.com/articles/22/03/23/deal-alert-add-applecare-to-any-mac-studio-for-only-1?utm_medium=rss)
- - [AMD says FSR 2.0 will run on Xbox and these Nvidia graphics cards](https://www.theverge.com/2022/3/23/22993152/amd-fsr-2-0-xbox-nvidia-gpus)
- - [How to monitor and limit your data usage on an Android phone](https://www.theverge.com/22991599/data-usage-android-google-phone-how-to)<!-- TECH:END -->
+ - [Google Play debuts a pilot to let select partners, starting with Spotify, offer a third-party billing option globally; terms of commission cut are confidential &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220323/p31#a220323p31)
+ - [Google says the Movies &amp; TV section of the Play Store will shut down in May, and directs users to buy, rent, or watch movies and shows from the Google TV app &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220323/p30#a220323p30)
+ - [How to get 4 TB of iCloud storage using Apple One](https://appleinsider.com/inside/icloud/tips/how-to-get-4-tb-of-icloud-storage-using-apple-one?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
