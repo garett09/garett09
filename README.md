@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eiyuden Chronicle: Rising – First Look at One of the Summer’s Most Anticipated Games](https://news.xbox.com/en-us/2022/03/23/eiyuden-chronicle-rising-first-look/)
- - [Wrath of Man, the new to Hulu Jason Statham crime thriller, whips](https://www.polygon.com/22989199/wrath-of-man-new-hulu-movie-jason-statham-heist-thriller)
- - [Where to get the White Mask in Elden Ring](https://www.pcgamer.com/elden-ring-white-mask-location)<!-- GAME:END -->
+ - [Agumon vs. Dark Magician vs. Pikachu: a battle royale](https://www.polygon.com/22990862/pikachu-agumon-dark-magician-pokemon-yu-gi-oh-digimon-who-would-win)
+ - [League of Legends is getting its first novel](https://www.pcgamer.com/league-of-legends-is-getting-its-first-novel)
+ - [Larian&#39;s Baldur&#39;s Gate 3 team is 10 times bigger than when it made Divinity: Original Sin](https://www.pcgamer.com/larians-baldurs-gate-3-team-is-10-times-bigger-than-when-it-made-divinity-original-sin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
