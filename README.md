@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paramount+ Brings More Halo to Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2022/03/23/paramount-plus-brings-more-halo-to-xbox-game-pass-ultimate/)
- - [Co-op castle escape puzzler We Were Here Forever launches in May](https://www.pcgamer.com/co-op-castle-escape-puzzler-we-were-here-forever-launches-in-may)
- - [Elden Ring’s Wildlife Can Go All The Way To Hell](https://kotaku.com/elden-ring-fromsoftware-bear-bird-wolf-astel-boss-dark-1848693208)<!-- GAME:END -->
+ - [12 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
+ - [Destiny 2 finally lets me cosplay the boss with its new Vow of the Disciple raid](https://www.polygon.com/22993268/destiny-2-vow-disciple-rhulk-boss-raid-weapon)
+ - [6 Games To Check Out If You Like XCOM](https://kotaku.com/best-games-like-xcom-gears-tactics-battletech-into-the-1848694009)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
