@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play debuts a pilot to let select partners, starting with Spotify, offer a third-party billing option globally; terms of commission cut are confidential &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220323/p31#a220323p31)
- - [Google says the Movies &amp; TV section of the Play Store will shut down in May, and directs users to buy, rent, or watch movies and shows from the Google TV app &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220323/p30#a220323p30)
- - [How to get 4 TB of iCloud storage using Apple One](https://appleinsider.com/inside/icloud/tips/how-to-get-4-tb-of-icloud-storage-using-apple-one?utm_medium=rss)<!-- TECH:END -->
+ - [New iPad Air with M1 was designed for creators &amp; students, Apple exec says](https://appleinsider.com/articles/22/03/23/new-ipad-air-with-m1-was-designed-for-creators-students-apple-exec-says?utm_medium=rss)
+ - [$50 off the Bose Noise Cancelling Headphones 700, and more Bose deals](https://www.androidauthority.com/best-bose-deals-1112704/)
+ - [Instacart launches Instacart Platform, which offers software management services for e-commerce, fulfillment, ads, insights, and other data for grocery stores &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220323/p32#a220323p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
