@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;iPhone 15 Pro&#39; Face ID tech will be hidden under display](https://appleinsider.com/articles/22/03/23/iphone-15-pro-face-id-tech-will-be-hidden-under-display?utm_medium=rss)
  - [ApeCoin DAO allows Yuga Labs to talk up the virtues of decentralization while also enjoying the benefits of centralization, such as collecting all the profits &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220322/p37#a220322p37)
- - [Starlink is increasing the price of its starter kit to $599, up $100, and its monthly internet service to $110, up $11, according to an email to customers &lpar;Loren Grush/The Verge&rpar;](http://www.techmeme.com/220322/p36#a220322p36)
- - [Okta confirms an attacker accessed an engineer&#39;s laptop in January consistent with posted screenshots by Lapsus$, as customers struggle to grasp their exposure &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220322/p35#a220322p35)<!-- TECH:END -->
+ - [SpaceX increases the prices of Starlink&#39;s starter kit to $599, up $100, and its monthly internet service to $110, up $11, according to an email to customers &lpar;Loren Grush/The Verge&rpar;](http://www.techmeme.com/220322/p36#a220322p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
