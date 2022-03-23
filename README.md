@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mod it till it breaks](http://9gag.com/gag/aDDnvEx)
- - 🚯 [Guy in green was apparently being a real d-bag all night. Trying to pick a fight with whoever he could. NMV.](http://9gag.com/gag/aRrZpzG)
- - 🚯 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)<!-- MEMES:END -->
+ - 🚖 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)
+ - 🚯 [Choose wisely](http://9gag.com/gag/aGz8QYZ)
+ - 🚯 [Professional car cleaning](http://9gag.com/gag/aM4mM5A)<!-- MEMES:END -->
 
 --- 
 
