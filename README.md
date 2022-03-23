@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welp](http://9gag.com/gag/amgGedd)
- - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)
- - 🚯 [This man got burn by the fire while holding his wife on the balcony. He died after 10 days in the hospotal](http://9gag.com/gag/angn6vo)<!-- MEMES:END -->
+ - 🚖 [Me no comprende.](http://9gag.com/gag/azePnvm)
+ - 🚯 [The train smashed into the car yesterday in Bosnia, not pepsi tho](http://9gag.com/gag/azePnRq)
+ - 🚯 [Team Wholesome](http://9gag.com/gag/aBnLpeO)<!-- MEMES:END -->
 
 --- 
 
