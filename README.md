@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apple again: Mac Studio SSD not upgradeable](http://9gag.com/gag/a0ZVrbz)
- - 🚯 [Dude was 200th as a man What a f**king piece of shit](http://9gag.com/gag/aRrZbyj)
- - 🚯 [`Wow, this is a great place to park. I think i just gonna park here. What will go wrong, right?`](http://9gag.com/gag/aKm9QeQ)<!-- MEMES:END -->
+ - 🚖 [`Wow, this is a great place to park. I think i just gonna park here. What will go wrong, right?`](http://9gag.com/gag/aKm9QeQ)
+ - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)
+ - 🚯 [Starting life fresh - bought my first house in the USA as a single 35 years doctor from India! Dreamt for a long time to share a photo like this on 9gag after seeing many others share them before](http://9gag.com/gag/a2183j1)<!-- MEMES:END -->
 
 --- 
 
