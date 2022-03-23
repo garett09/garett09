@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom is making it easy to plug your meeting directly into Twitch](https://www.theverge.com/2022/3/23/22993459/zoom-twitch-stream-button-integration)
- - [Elden Ring’s update patches infinite death loop hack on PC](https://www.theverge.com/2022/3/23/22993443/elden-rings-update-patches-infinite-death-loop-hack-pc)
- - [NASA announces plans to develop second Moon lander, alongside SpaceX’s Starship](https://www.theverge.com/2022/3/23/22993287/nasa-second-human-lunar-lander-moon-artemis-spacex)<!-- TECH:END -->
+ - [Instacart will build micro-fulfillment warehouses for grocery retailers to support 15-minute deliveries, launching in the &quot;coming months&quot; starting with Publix &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220323/p37#a220323p37)
+ - [Google says it will bar ads from appearing next to websites, apps and YouTube channels that exploit, dismiss or condone the Russia-Ukraine war &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220323/p36#a220323p36)
+ - [How to turn off the sensitive content warning on Twitter](https://www.androidauthority.com/see-sensitive-content-twitter-3142931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
