@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Agumon vs. Dark Magician vs. Pikachu: a battle royale](https://www.polygon.com/22990862/pikachu-agumon-dark-magician-pokemon-yu-gi-oh-digimon-who-would-win)
- - [League of Legends is getting its first novel](https://www.pcgamer.com/league-of-legends-is-getting-its-first-novel)
- - [Larian&#39;s Baldur&#39;s Gate 3 team is 10 times bigger than when it made Divinity: Original Sin](https://www.pcgamer.com/larians-baldurs-gate-3-team-is-10-times-bigger-than-when-it-made-divinity-original-sin)<!-- GAME:END -->
+ - [Paramount+ Brings More Halo to Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2022/03/23/paramount-plus-brings-more-halo-to-xbox-game-pass-ultimate/)
+ - [Co-op castle escape puzzler We Were Here Forever launches in May](https://www.pcgamer.com/co-op-castle-escape-puzzler-we-were-here-forever-launches-in-may)
+ - [Elden Ring’s Wildlife Can Go All The Way To Hell](https://kotaku.com/elden-ring-fromsoftware-bear-bird-wolf-astel-boss-dark-1848693208)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
