@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man got burn by the fire while holding his wife on the balcony. He died after 10 days in the hospotal](http://9gag.com/gag/angn6vo)
- - 🚯 [This vid sparks joy ! Great chef Burak Ozdemir brings back hope on humanity. &lpar;Vid on his IG @cznburak&rpar;](http://9gag.com/gag/aogVXrn)
- - 🚯 [Life is short](http://9gag.com/gag/aLveyoP)<!-- MEMES:END -->
+ - 🚖 [Everything is fine..](http://9gag.com/gag/aDDnENG)
+ - 🚯 [It&#39;s coming](http://9gag.com/gag/a91voNL)
+ - 🚯 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)<!-- MEMES:END -->
 
 --- 
 
