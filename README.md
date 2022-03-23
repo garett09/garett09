@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is taking on over-the-air TV with nearly 4,000 free episodes of TV](https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads)
- - [A look at the confusion, culture clash, and shifting goals in SiriusXM&#39;s Stitcher deal, as many shows and over 25% of Stitcher&#39;s staff left post-acquisition &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220323/p2#a220323p2)
- - [The Galaxy S22 Ultra lags behind the S22, S22 Plus in one area](https://www.androidauthority.com/samsung-galaxy-s22-ultra-960fps-3139987/)<!-- TECH:END -->
+ - [You can now watch 100 TV shows on YouTube for free if you don’t mind ads](https://www.androidauthority.com/youtube-free-tv-shows-3142430/)
+ - [YouTube Adds Tons of Catalog TV Episodes to Stream Free with Ads     - CNET](https://www.cnet.com/tech/services-and-software/youtube-adds-tons-of-catalog-tv-episodes-to-stream-free-with-ads/#ftag=CAD590a51e)
+ - [YouTube is taking on over-the-air TV with nearly 4,000 free episodes of TV](https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
