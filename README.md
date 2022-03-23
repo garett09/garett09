@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox expands AirTag case lineups with new colors, styles](https://appleinsider.com/articles/22/03/23/otterbox-expands-airtag-case-lineups-with-new-colors-styles?utm_medium=rss)
- - [The Third-Party Okta Hack Leaves Customers Scrambling](https://www.wired.com/story/okta-hack-customers-lapsus-breach)
- - [What to watch on Apple TV Plus: A quick guide to the streamer’s offerings](https://www.androidauthority.com/what-to-watch-on-apple-tv-plus-3138036/)<!-- TECH:END -->
+ - [Starlink is increasing the price of its starter kit to $599, up $100, and its monthly internet service to $110, up $11, according to an email to customers &lpar;Loren Grush/The Verge&rpar;](http://www.techmeme.com/220322/p36#a220322p36)
+ - [Okta confirms an attacker had limited access to an engineer&#39;s laptop in Jan. consistent with posted screenshots by Lapsus$, as companies struggle to grasp scope &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220322/p35#a220322p35)
+ - [Tech21 launches Evo Hardshell cases for the 2021 MacBook Pro line](https://appleinsider.com/articles/22/03/23/tech21-launches-evo-hardshell-cases-for-the-2021-macbook-pro-line?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
