@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 and PS4 System Software Updates release globally today](https://blog.playstation.com/2022/03/23/ps5-and-ps4-system-software-updates-release-globally-today/)
- - [PS5 and PS4 System Software Updates release globally today](https://blog.playstation.com/2022/03/23/ps5-and-ps4-system-software-updates-release-globally-today/)
- - [A quixotic quest for the ultimate Dragon Ball power-level answers](https://www.polygon.com/22981598/dragon-ball-power-levels-chart)<!-- GAME:END -->
+ - [James Bond vs. George Smiley — battle of the great British spies](https://www.polygon.com/22990841/james-bond-vs-tinker-tailor-george-smiley-best-spy)
+ - [Nintendo Mobile Game Dragalia Lost Is Shutting Down](https://kotaku.com/dragalia-lost-nintendo-cygames-rpg-mobile-game-shutting-1848690425)
+ - [PS5 and PS4 System Software Updates release globally today](https://blog.playstation.com/2022/03/23/ps5-and-ps4-system-software-updates-release-globally-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
