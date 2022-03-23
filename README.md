@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt rep responds to Witcher 4 Lynx speculation with an enthusiastic nod](https://www.pcgamer.com/cd-projekt-rep-responds-to-witcher-4-lynx-speculation-with-an-enthusiastic-nod)
- - [Elden Ring Modder Summons Ridiculously Huge Enemies](https://kotaku.com/elden-ring-mod-spirit-ashes-chariot-walking-mausoleum-s-1848688838)
- - [An alpha version of Steam will be coming to a select number of Chromebooks soon](https://www.pcgamer.com/an-alpha-version-of-steam-will-be-coming-to-a-select-number-of-chromebooks-soon)<!-- GAME:END -->
+ - [Standing Watch](https://kotaku.com/vladimir-motsar-gsc-game-world-art-illustration-ukraine-1848689627)
+ - [The Bridgerton season 1 plot lines you need to remember for season 2](https://www.polygon.com/22991651/bridgerton-season-1-recap-season-2)
+ - [17 great martial arts movies you can watch at home](https://www.polygon.com/what-to-watch/22979131/best-action-movies-fight-martial-arts-netflix-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
