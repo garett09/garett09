@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A SCOTUS ruling making it harder for people to pursue surveillance cases will undercut Biden&#39;s US-EU Privacy Shield negotiations, unless Congress steps in now &lpar;The Hill&rpar;](http://www.techmeme.com/220323/p1#a220323p1)
- - [&#39;iPhone 15 Pro&#39; Face ID tech will be hidden under display](https://appleinsider.com/articles/22/03/23/iphone-15-pro-face-id-tech-will-be-hidden-under-display?utm_medium=rss)
- - [ApeCoin DAO allows Yuga Labs to talk up the virtues of decentralization while also enjoying the benefits of centralization, such as collecting all the profits &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220322/p37#a220322p37)<!-- TECH:END -->
+ - [A look at the confusion, culture clash, and shifting goals in SiriusXM&#39;s Stitcher deal, as many shows and over 25% of Stitcher&#39;s staff left post-acquisition &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220323/p2#a220323p2)
+ - [The Galaxy S22 Ultra lags behind the S22, S22 Plus in one area](https://www.androidauthority.com/samsung-galaxy-s22-ultra-960fps-3139987/)
+ - [A SCOTUS ruling making it harder for people to pursue surveillance cases will undercut Biden&#39;s US-EU Privacy Shield negotiations, unless Congress steps in now &lpar;The Hill&rpar;](http://www.techmeme.com/220323/p1#a220323p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
