@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A SCOTUS ruling making it harder for people to pursue surveillance cases will undercut Biden&#39;s US-EU Privacy Shield negotiations, unless Congress steps in now &lpar;The Hill&rpar;](http://www.techmeme.com/220323/p1#a220323p1)
  - [&#39;iPhone 15 Pro&#39; Face ID tech will be hidden under display](https://appleinsider.com/articles/22/03/23/iphone-15-pro-face-id-tech-will-be-hidden-under-display?utm_medium=rss)
- - [ApeCoin DAO allows Yuga Labs to talk up the virtues of decentralization while also enjoying the benefits of centralization, such as collecting all the profits &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220322/p37#a220322p37)
- - [SpaceX increases the prices of Starlink&#39;s starter kit to $599, up $100, and its monthly internet service to $110, up $11, according to an email to customers &lpar;Loren Grush/The Verge&rpar;](http://www.techmeme.com/220322/p36#a220322p36)<!-- TECH:END -->
+ - [ApeCoin DAO allows Yuga Labs to talk up the virtues of decentralization while also enjoying the benefits of centralization, such as collecting all the profits &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220322/p37#a220322p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
