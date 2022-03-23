@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft confirms Lapsus$ hackers stole source code via ‘limited’ access](https://www.theverge.com/2022/3/22/22991409/lapsus-microsoft-security-windows-source-code)
- - [Apple hit with second iCloud services outage in two days](https://appleinsider.com/articles/22/03/22/apple-hit-with-second-icloud-services-outage-in-two-days?utm_medium=rss)
- - [Apple’s recovered from its second outage in two days](https://www.theverge.com/2022/3/22/22991792/apple-music-app-store-is-down-outage)<!-- TECH:END -->
+ - [Otterbox expands AirTag case lineups with new colors, styles](https://appleinsider.com/articles/22/03/23/otterbox-expands-airtag-case-lineups-with-new-colors-styles?utm_medium=rss)
+ - [The Third-Party Okta Hack Leaves Customers Scrambling](https://www.wired.com/story/okta-hack-customers-lapsus-breach)
+ - [What to watch on Apple TV Plus: A quick guide to the streamer’s offerings](https://www.androidauthority.com/what-to-watch-on-apple-tv-plus-3138036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
