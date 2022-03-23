@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This animation from Fire and Ice &lpar;1983&rpar;](http://9gag.com/gag/amgGj4V)
- - 🚯 [Now with music](http://9gag.com/gag/ay94O1b)
+ - 🚖 [Ah, yes! America the land of opportunity!](http://9gag.com/gag/ajgO2PR)
+ - 🚯 [Control yourself compilation WTF](http://9gag.com/gag/aAGEWgE)
  - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)<!-- MEMES:END -->
 
 --- 
