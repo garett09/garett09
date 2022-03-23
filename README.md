@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A quixotic quest for the ultimate Dragon Ball power-level answers](https://www.polygon.com/22981598/dragon-ball-power-levels-chart)
- - [Nvidia unveils its Hopper data centre architecture](https://www.pcgamer.com/nvidia-unveils-its-hopper-data-centre-architecture)
- - [3 possible directions The Witcher 4 could go in](https://www.pcgamer.com/3-possible-directions-the-witcher-4-could-go-in)<!-- GAME:END -->
+ - [PS5 and PS4 System Software Updates release globally today](https://blog.playstation.com/2022/03/23/ps5-and-ps4-system-software-updates-release-globally-today/)
+ - [PS5 and PS4 System Software Updates release globally today](https://blog.playstation.com/2022/03/23/ps5-and-ps4-system-software-updates-release-globally-today/)
+ - [A quixotic quest for the ultimate Dragon Ball power-level answers](https://www.polygon.com/22981598/dragon-ball-power-levels-chart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
