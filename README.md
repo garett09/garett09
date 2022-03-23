@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
- - [Destiny 2 finally lets me cosplay the boss with its new Vow of the Disciple raid](https://www.polygon.com/22993268/destiny-2-vow-disciple-rhulk-boss-raid-weapon)
- - [6 Games To Check Out If You Like XCOM](https://kotaku.com/best-games-like-xcom-gears-tactics-battletech-into-the-1848694009)<!-- GAME:END -->
+ - [D&amp;D’s new starter adventure isn’t about saving the world — it’s about family](https://www.polygon.com/22993341/dnd-starter-adventure-first-generation-american-journeys-through-the-radiant-citadel)
+ - [Elden Ring’s tastiest adversaries, and how we’d prepare them](https://www.polygon.com/22993482/elden-ring-enemies-ranked-tasty-eat-food-crab)
+ - [Core Keeper blasts past half a million downloads on Steam](https://www.pcgamer.com/core-keeper-blasts-past-half-a-million-downloads-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
