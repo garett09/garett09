@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now watch 100 TV shows on YouTube for free if you don’t mind ads](https://www.androidauthority.com/youtube-free-tv-shows-3142430/)
- - [YouTube Adds Tons of Catalog TV Episodes to Stream Free with Ads     - CNET](https://www.cnet.com/tech/services-and-software/youtube-adds-tons-of-catalog-tv-episodes-to-stream-free-with-ads/#ftag=CAD590a51e)
- - [YouTube is taking on over-the-air TV with nearly 4,000 free episodes of TV](https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads)<!-- TECH:END -->
+ - [Apple responds to iOS 15.4 battery drain complaints](https://appleinsider.com/articles/22/03/23/apple-responds-to-ios-154-battery-drain-complaints?utm_medium=rss)
+ - [DJI drones, Ukraine, and Russia — what we know about AeroScope](https://www.theverge.com/22985101/dji-aeroscope-ukraine-russia-drone-tracking)
+ - [The PS5’s variable refresh rate feature is coming soon and works on any game](https://www.theverge.com/22992420/sony-playstation-5-variable-refresh-rate-feature-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
