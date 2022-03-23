@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Wow, this is a great place to park. I think i just gonna park here. What will go wrong, right?`](http://9gag.com/gag/aKm9QeQ)
- - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)
- - 🚯 [Starting life fresh - bought my first house in the USA as a single 35 years doctor from India! Dreamt for a long time to share a photo like this on 9gag after seeing many others share them before](http://9gag.com/gag/a2183j1)<!-- MEMES:END -->
+ - 🚖 [Starting life fresh - bought my first house in the USA as a single 35 years doctor from India! Dreamt for a long time to share a photo like this on 9gag after seeing many others share them before](http://9gag.com/gag/a2183j1)
+ - 🚯 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)
+ - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)<!-- MEMES:END -->
 
 --- 
 
