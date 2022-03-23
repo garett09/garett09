@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life is short](http://9gag.com/gag/aLveyoP)
- - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)
- - 🚯 [No need for women rights cause what is a woman ?](http://9gag.com/gag/a91vQ10)<!-- MEMES:END -->
+ - 🚖 [This animation from Fire and Ice &lpar;1983&rpar;](http://9gag.com/gag/amgGj4V)
+ - 🚯 [Now with music](http://9gag.com/gag/ay94O1b)
+ - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)<!-- MEMES:END -->
 
 --- 
 
