@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 and PS4 owners are having trouble getting online after system update](https://www.polygon.com/22992604/ps5-ps4-offline-could-not-verify-playstation-plus)
- - [Men is a mysterious new horror movie from the director of Ex Machina](https://www.polygon.com/22991060/men-alex-garland-trailer-release-date-ex-machina-devs)
- - [Warzone adds famous soldier Snoop Dogg and overhauls Rebirth Island](https://www.pcgamer.com/warzone-adds-famous-soldier-snoop-dogg-and-overhauls-rebirth-island)<!-- GAME:END -->
+ - [Vote in the quarter-finals of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
+ - [You can play Far Cry 6 and its Stranger Things crossover for free this weekend](https://www.pcgamer.com/you-can-play-far-cry-6-and-its-stranger-things-crossover-for-free-this-weekend)
+ - [Experience the immersive world of The Ascent on PS5, out tomorrow](https://blog.playstation.com/2022/03/23/experience-the-immersive-world-of-the-ascent-on-ps5-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
