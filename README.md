@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian startup Oxyzo, the lending arm of B2B financing startup OfBusiness, raises a $200M Series A at a $1B valuation led by Alpha Wave &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220323/p17#a220323p17)
- - [The latest Kindle Paperwhite returns to its best price yet](https://www.theverge.com/good-deals/2022/3/23/22990887/kindle-paperwhite-microsoft-surface-headphones-2-samsung-neo-qled-tv-deal-sale)
- - [Dallas-based Island, which develops an enterprise browser, raises a $115M Series B at a $1.3B valuation, after emerging from stealth with $100M in February &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220323/p16#a220323p16)<!-- TECH:END -->
+ - [How to restart a MacBook Pro or Air](https://www.androidauthority.com/restart-macbook-pro-air-3142555/)
+ - [Apple lead in premium smartphone sales is growing, as overall market shrinks](https://appleinsider.com/articles/22/03/23/apple-lead-in-premium-smartphone-sales-is-growing-as-overall-market-shrinks?utm_medium=rss)
+ - [Olympic gold medalist Chloe Kim is coming to Fortnite](https://www.theverge.com/2022/3/23/22991529/fortnite-chloe-kim-olympic-gold-medalist)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
