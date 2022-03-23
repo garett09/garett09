@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)
- - 🚯 [No need for women rights cause what is a woman ?](http://9gag.com/gag/a91vQ10)
- - 🚯 [Birdseye view of Mariupol.](http://9gag.com/gag/aXrN5D9)<!-- MEMES:END -->
+ - 🚖 [The commander of the Black Sea Fleet&#39;s 810th Naval Infantry Brigade, Colonel Aleksey Sharov, was killed near Mariupol.](http://9gag.com/gag/aLv46WP)
+ - 🚯 [For months, a car dealer in Belgium noticed his parked cars had spit on them. Once they found out it was always the same cyclist, they prepared a proper reaction.](http://9gag.com/gag/aWgLKZn)
+ - 🚯 [RIP to Steven Wilhite, the inventor of the GIF. Salute to the man who launched a million internet arguments.](http://9gag.com/gag/avA62MO)<!-- MEMES:END -->
 
 --- 
 
