@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👉 Nvidia’s Superchip](https://www.androidauthority.com/da-march-23-2022-3142518/)
- - [&#39;iPhone 15 Pro&#39; Face ID tech will be hidden under display](https://appleinsider.com/articles/22/03/23/iphone-15-pro-face-id-tech-will-be-hidden-under-display?utm_medium=rss)
- - [Kirby and the Forgotten Land is as sweet and slight as cotton candy](https://www.theverge.com/2022/3/23/22991829/nintendo-switch-kirby-and-the-forgotten-land-review)<!-- TECH:END -->
+ - [Indian startup Oxyzo, the lending arm of B2B financing startup OfBusiness, raises a $200M Series A at a $1B valuation led by Alpha Wave &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220323/p17#a220323p17)
+ - [The latest Kindle Paperwhite returns to its best price yet](https://www.theverge.com/good-deals/2022/3/23/22990887/kindle-paperwhite-microsoft-surface-headphones-2-samsung-neo-qled-tv-deal-sale)
+ - [Dallas-based Island, which develops an enterprise browser, raises a $115M Series B at a $1.3B valuation, after emerging from stealth with $100M in February &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220323/p16#a220323p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
