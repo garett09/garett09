@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is taking on over-the-air TV with nearly 4,000 free episodes of TV](https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads)
  - [A look at the confusion, culture clash, and shifting goals in SiriusXM&#39;s Stitcher deal, as many shows and over 25% of Stitcher&#39;s staff left post-acquisition &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/220323/p2#a220323p2)
- - [The Galaxy S22 Ultra lags behind the S22, S22 Plus in one area](https://www.androidauthority.com/samsung-galaxy-s22-ultra-960fps-3139987/)
- - [A SCOTUS ruling making it harder for people to pursue surveillance cases will undercut Biden&#39;s US-EU Privacy Shield negotiations, unless Congress steps in now &lpar;The Hill&rpar;](http://www.techmeme.com/220323/p1#a220323p1)<!-- TECH:END -->
+ - [The Galaxy S22 Ultra lags behind the S22, S22 Plus in one area](https://www.androidauthority.com/samsung-galaxy-s22-ultra-960fps-3139987/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
