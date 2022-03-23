@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote in the quarter-finals of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
- - [You can play Far Cry 6 and its Stranger Things crossover for free this weekend](https://www.pcgamer.com/you-can-play-far-cry-6-and-its-stranger-things-crossover-for-free-this-weekend)
- - [Experience the immersive world of The Ascent on PS5, out tomorrow](https://blog.playstation.com/2022/03/23/experience-the-immersive-world-of-the-ascent-on-ps5-out-tomorrow/)<!-- GAME:END -->
+ - [Severance’s satirical mystery goes far beyond the dystopian workplace](https://www.polygon.com/22991324/severance-episodes-world-meaning)
+ - [My Most Grueling Triangle Strategy Battle Was Kind of An Accident](https://kotaku.com/triangle-strategy-square-enix-strategy-avlora-fire-trap-1848691876)
+ - [Final Fantasy 7’s Tifa-vs.-Aerith war is unwinnable](https://www.polygon.com/22985368/final-fantasy-7-aerith-aeris-vs-tifa-love-triangle-cloud-strife)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
