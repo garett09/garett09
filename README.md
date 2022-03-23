@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)
- - [New Witcher game&#39;s director addresses crunch: &#39;Never on my watch!&#39;](https://www.pcgamer.com/new-witcher-games-director-addresses-crunch-never-on-my-watch)
- - [Elden Ring patch stops hackers putting players in an infinite death loop](https://www.pcgamer.com/elden-ring-patch-stops-hackers-putting-players-in-an-infinite-death-loop)<!-- GAME:END -->
+ - [Warzone adds famous soldier Snoop Dogg and overhauls Rebirth Island](https://www.pcgamer.com/warzone-adds-famous-soldier-snoop-dogg-and-overhauls-rebirth-island)
+ - [Tiny Tina&#39;s Wonderlands review](https://www.pcgamer.com/tiny-tinas-wonderlands-review)
+ - [Tiny Tina’s Wonderlands breathes weird, new life into the stale franchise](https://www.polygon.com/reviews/22992467/tiny-tinas-wonderlands-review-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
