@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t mess with polyglots](http://9gag.com/gag/aQXQ0o7)
- - 🚯 [No need for women rights cause what is a woman ?](http://9gag.com/gag/a91vQ10)
- - 🚯 [Control yourself compilation WTF](http://9gag.com/gag/aAGEWgE)<!-- MEMES:END -->
+ - 🚖 [Life is short](http://9gag.com/gag/aLveyoP)
+ - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)
+ - 🚯 [No need for women rights cause what is a woman ?](http://9gag.com/gag/a91vQ10)<!-- MEMES:END -->
 
 --- 
 
