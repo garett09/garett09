@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Halo show unmasks Master Chief to reveal yet another generic chosen one](https://www.theverge.com/2022/3/23/22991842/paramount-halo-show-review)
- - [Microsoft and Amazon are battling to entice game developers to the cloud](https://www.theverge.com/2022/3/23/22992432/microsoft-azure-game-dev-vm-amazon-aws-for-games)
- - [YouTube is making nearly 4,000 TV episodes available for free with ads in the US &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220323/p28#a220323p28)<!-- TECH:END -->
+ - [Deal alert: add AppleCare to any Mac Studio for only $1](https://appleinsider.com/articles/22/03/23/deal-alert-add-applecare-to-any-mac-studio-for-only-1?utm_medium=rss)
+ - [AMD says FSR 2.0 will run on Xbox and these Nvidia graphics cards](https://www.theverge.com/2022/3/23/22993152/amd-fsr-2-0-xbox-nvidia-gpus)
+ - [How to monitor and limit your data usage on an Android phone](https://www.theverge.com/22991599/data-usage-android-google-phone-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
