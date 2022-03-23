@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything is fine..](http://9gag.com/gag/aDDnENG)
- - 🚯 [It&#39;s coming](http://9gag.com/gag/a91voNL)
- - 🚯 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)<!-- MEMES:END -->
+ - 🚖 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)
+ - 🚯 [Everything is fine..](http://9gag.com/gag/aDDnENG)
+ - 🚯 [Adorable](http://9gag.com/gag/aPZPKmw)<!-- MEMES:END -->
 
 --- 
 
