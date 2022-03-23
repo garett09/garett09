@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This vid sparks joy ! Great chef Burak Ozdemir brings back hope on humanity. &lpar;Vid on his IG @cznburak&rpar;](http://9gag.com/gag/aogVXrn)
- - 🚯 [The train smashed into the car yesterday in Bosnia, not pepsi tho](http://9gag.com/gag/azePnRq)
- - 🚯 [Team Wholesome](http://9gag.com/gag/aBnLpeO)<!-- MEMES:END -->
+ - 🚖 [Now with music](http://9gag.com/gag/ay94O1b)
+ - 🚯 [Adorable](http://9gag.com/gag/aPZPKmw)
+ - 🚯 [You can at least say please](http://9gag.com/gag/aogVvB3)<!-- MEMES:END -->
 
 --- 
 
