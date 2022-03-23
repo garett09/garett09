@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Microsoft Game Development Deliver 28 Technical Talks and 9 Demos This Week](https://news.xbox.com/en-us/2022/03/23/watch-microsoft-game-development-deliver-28-technical-talks-and-9-demos-this-week/)
- - [Severance’s satirical mystery goes far beyond the dystopian workplace](https://www.polygon.com/22991324/severance-episodes-world-meaning)
- - [My Most Grueling Triangle Strategy Battle Was Kind Of An Accident](https://kotaku.com/triangle-strategy-square-enix-strategy-avlora-fire-trap-1848691876)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Rising – First Look at One of the Summer’s Most Anticipated Games](https://news.xbox.com/en-us/2022/03/23/eiyuden-chronicle-rising-first-look/)
+ - [Wrath of Man, the new to Hulu Jason Statham crime thriller, whips](https://www.polygon.com/22989199/wrath-of-man-new-hulu-movie-jason-statham-heist-thriller)
+ - [Where to get the White Mask in Elden Ring](https://www.pcgamer.com/elden-ring-white-mask-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
