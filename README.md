@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Ocarina of Time fan-made PC port is out now](https://www.pcgamer.com/zelda-ocarina-of-time-fan-made-pc-port-is-out-now)
- - [Elden Ring&#39;s Horse Can Sometimes Fly &lpar;After Falling To Its Death First&rpar;](https://kotaku.com/elden-ring-torrent-fly-exploit-glitch-speedrun-fromsoft-1848689771)
- - [Standing Watch](https://kotaku.com/vladimir-motsar-gsc-game-world-art-illustration-ukraine-1848689627)<!-- GAME:END -->
+ - [A quixotic quest for the ultimate Dragon Ball power-level answers](https://www.polygon.com/22981598/dragon-ball-power-levels-chart)
+ - [Nvidia unveils its Hopper data centre architecture](https://www.pcgamer.com/nvidia-unveils-its-hopper-data-centre-architecture)
+ - [3 possible directions The Witcher 4 could go in](https://www.pcgamer.com/3-possible-directions-the-witcher-4-could-go-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
