@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
- - [James Bond vs. George Smiley — battle of the great British spies](https://www.polygon.com/22990841/james-bond-vs-tinker-tailor-george-smiley-best-spy)<!-- GAME:END -->
+ - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)
+ - [New Witcher game&#39;s director addresses crunch: &#39;Never on my watch!&#39;](https://www.pcgamer.com/new-witcher-games-director-addresses-crunch-never-on-my-watch)
+ - [Elden Ring patch stops hackers putting players in an infinite death loop](https://www.pcgamer.com/elden-ring-patch-stops-hackers-putting-players-in-an-infinite-death-loop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
