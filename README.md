@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arizona is the first state to put its driver’s license and state ID in Apple’s Wallet](https://www.theverge.com/2022/3/23/22992745/apple-wallet-license-arizona-colorado-hawaii-real-id)
- - [Apollo’s Spendy New Escooter Is a City-Friendly Ride](https://www.wired.com/review/apollo-city-2022)
- - [Scientists Map Yellowstone’s Plumbing With … a Helicopter](https://www.wired.com/story/scientists-map-yellowstones-plumbing-with-a-helicopter)<!-- TECH:END -->
+ - [Tarana Wireless, which develops fixed wireless tech to deliver high-speed broadband, raised $170M in February at a $1B+ valuation, and plans an IPO in 2023 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/220323/p26#a220323p26)
+ - [The PlayStation Network recovers from an outage affecting players on PS5 and PS4](https://www.theverge.com/2022/3/23/22992567/sony-playstation-plus-down-outage-ps5-ps4-psn)
+ - [Suicide Squad: Kill the Justice League has officially been delayed to spring 2023](https://www.theverge.com/2022/3/23/22992865/suicide-squad-kill-the-justice-league-delay-spring-2023-announcement-ps5-xsx-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
