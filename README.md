@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starting life fresh - bought my first house in the USA as a single 35 years doctor from India! Dreamt for a long time to share a photo like this on 9gag after seeing many others share them before](http://9gag.com/gag/a2183j1)
- - 🚯 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)
- - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)<!-- MEMES:END -->
+ - 🚖 [Welp](http://9gag.com/gag/amgGedd)
+ - 🚯 [I just like Star Wars](http://9gag.com/gag/azePn1p)
+ - 🚯 [This man got burn by the fire while holding his wife on the balcony. He died after 10 days in the hospotal](http://9gag.com/gag/angn6vo)<!-- MEMES:END -->
 
 --- 
 
