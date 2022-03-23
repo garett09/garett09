@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has acquired UK banking startup Credit Kudos, which offers APIs for lenders; source says the deal is valued at around $150M &lpar;The Block&rpar;](http://www.techmeme.com/220323/p7#a220323p7)
- - [Tokyo-based Terra Drone, which offers drone software, hardware, and management tools for other uncrewed aircraft, raises a $70M Series B led by Mitsui &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220323/p6#a220323p6)
- - [Halo Is Another Carcass on the Heap of Bad Video Game Adaptations](https://www.wired.com/story/halo-tv-adaptation-bad)<!-- TECH:END -->
+ - [Daily Authority: 👉 Nvidia’s Superchip](https://www.androidauthority.com/da-march-23-2022-3142518/)
+ - [&#39;iPhone 15 Pro&#39; Face ID tech will be hidden under display](https://appleinsider.com/articles/22/03/23/iphone-15-pro-face-id-tech-will-be-hidden-under-display?utm_medium=rss)
+ - [Kirby and the Forgotten Land is as sweet and slight as cotton candy](https://www.theverge.com/2022/3/23/22991829/nintendo-switch-kirby-and-the-forgotten-land-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
