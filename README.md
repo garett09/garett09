@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone adds famous soldier Snoop Dogg and overhauls Rebirth Island](https://www.pcgamer.com/warzone-adds-famous-soldier-snoop-dogg-and-overhauls-rebirth-island)
- - [Tiny Tina&#39;s Wonderlands review](https://www.pcgamer.com/tiny-tinas-wonderlands-review)
- - [Tiny Tina’s Wonderlands breathes weird, new life into the stale franchise](https://www.polygon.com/reviews/22992467/tiny-tinas-wonderlands-review-release-date)<!-- GAME:END -->
+ - [PS5 and PS4 owners are having trouble getting online after system update](https://www.polygon.com/22992604/ps5-ps4-offline-could-not-verify-playstation-plus)
+ - [Men is a mysterious new horror movie from the director of Ex Machina](https://www.polygon.com/22991060/men-alex-garland-trailer-release-date-ex-machina-devs)
+ - [Warzone adds famous soldier Snoop Dogg and overhauls Rebirth Island](https://www.pcgamer.com/warzone-adds-famous-soldier-snoop-dogg-and-overhauls-rebirth-island)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
