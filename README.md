@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Birthday Gary Oldman!](http://9gag.com/gag/aPZP5Xn)
- - 🚯 [Everything is fine..](http://9gag.com/gag/aDDnENG)
- - 🚯 [Adorable](http://9gag.com/gag/aPZPKmw)<!-- MEMES:END -->
+ - 🚖 [Kelly Clarkson, when Anne Hathaway beats her at recognizing her biggest hit](http://9gag.com/gag/avAeYXq)
+ - 🚯 [Control yourself compilation WTF](http://9gag.com/gag/aAGEWgE)
+ - 🚯 [In Canada, this sigma template fell off his jetski and started drowning as he didnt have a life jacket on, rescued by a couple on a boat and they refused to collect his jetski, he started to beat up the rescuers so the old dude shot him in the chest in self defense.](http://9gag.com/gag/aM4m3xX)<!-- MEMES:END -->
 
 --- 
 
