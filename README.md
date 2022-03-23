@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now throw the ball..](http://9gag.com/gag/aOQ4M4y)
- - 🚯 [Wednesday night](http://9gag.com/gag/avAejvE)
- - 🚯 [Finally managed to save up some money for a toolbox. Its not much and its still not sorted very well but its mine.](http://9gag.com/gag/a81mgRd)<!-- MEMES:END -->
+ - 🚖 [Jfc](http://9gag.com/gag/apgD4xp)
+ - 🚯 [Now throw the ball..](http://9gag.com/gag/aOQ4M4y)
+ - 🚯 [Dude was 200th as a man What a f**king piece of shit](http://9gag.com/gag/aRrZbyj)<!-- MEMES:END -->
 
 --- 
 
