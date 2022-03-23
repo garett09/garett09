@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Watch Microsoft Game Development Deliver 28 Technical Talks and 9 Demos This Week](https://news.xbox.com/en-us/2022/03/23/watch-microsoft-game-development-deliver-28-technical-talks-and-9-demos-this-week/)
  - [Severance’s satirical mystery goes far beyond the dystopian workplace](https://www.polygon.com/22991324/severance-episodes-world-meaning)
- - [My Most Grueling Triangle Strategy Battle Was Kind of An Accident](https://kotaku.com/triangle-strategy-square-enix-strategy-avlora-fire-trap-1848691876)
- - [Final Fantasy 7’s Tifa-vs.-Aerith war is unwinnable](https://www.polygon.com/22985368/final-fantasy-7-aerith-aeris-vs-tifa-love-triangle-cloud-strife)<!-- GAME:END -->
+ - [My Most Grueling Triangle Strategy Battle Was Kind Of An Accident](https://kotaku.com/triangle-strategy-square-enix-strategy-avlora-fire-trap-1848691876)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
