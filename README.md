@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple responds to iOS 15.4 battery drain complaints](https://appleinsider.com/articles/22/03/23/apple-responds-to-ios-154-battery-drain-complaints?utm_medium=rss)
- - [DJI drones, Ukraine, and Russia — what we know about AeroScope](https://www.theverge.com/22985101/dji-aeroscope-ukraine-russia-drone-tracking)
- - [The PS5’s variable refresh rate feature is coming soon and works on any game](https://www.theverge.com/22992420/sony-playstation-5-variable-refresh-rate-feature-release-date)<!-- TECH:END -->
+ - [Sources: Apple has acquired UK banking startup Credit Kudos, which offers APIs for lenders; source says the deal is valued at around $150M &lpar;The Block&rpar;](http://www.techmeme.com/220323/p7#a220323p7)
+ - [Tokyo-based Terra Drone, which offers drone software, hardware, and management tools for other uncrewed aircraft, raises a $70M Series B led by Mitsui &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220323/p6#a220323p6)
+ - [Halo Is Another Carcass on the Heap of Bad Video Game Adaptations](https://www.wired.com/story/halo-tv-adaptation-bad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
