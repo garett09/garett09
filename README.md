@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to restart a MacBook Pro or Air](https://www.androidauthority.com/restart-macbook-pro-air-3142555/)
- - [Apple lead in premium smartphone sales is growing, as overall market shrinks](https://appleinsider.com/articles/22/03/23/apple-lead-in-premium-smartphone-sales-is-growing-as-overall-market-shrinks?utm_medium=rss)
- - [Olympic gold medalist Chloe Kim is coming to Fortnite](https://www.theverge.com/2022/3/23/22991529/fortnite-chloe-kim-olympic-gold-medalist)<!-- TECH:END -->
+ - [Apple still selling more iPhone 13 models than past lineups via carrier channels](https://appleinsider.com/articles/22/03/23/apple-still-selling-more-iphone-13-models-than-past-lineups-via-carrier-channels?utm_medium=rss)
+ - [Instagram is rolling out a Following chronological feed and Favorites feed to all iOS and Android users globally, neither of which can be set as default &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220323/p23#a220323p23)
+ - [Instagram’s new chronological mode is exactly what a feed should be](https://www.theverge.com/2022/3/23/22991852/instagram-favorites-following-chronological-feed-return)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
