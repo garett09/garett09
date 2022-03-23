@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah, yes! America the land of opportunity!](http://9gag.com/gag/ajgO2PR)
- - 🚯 [Control yourself compilation WTF](http://9gag.com/gag/aAGEWgE)
- - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)<!-- MEMES:END -->
+ - 🚖 [Your weekly dose of Chyna uncensored](http://9gag.com/gag/awzmRbW)
+ - 🚯 [You better run &lpar;part 2&rpar;](http://9gag.com/gag/aPZPNqg)
+ - 🚯 [No need for women rights cause what is a woman ?](http://9gag.com/gag/a91vQ10)<!-- MEMES:END -->
 
 --- 
 
