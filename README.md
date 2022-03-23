@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Standing Watch](https://kotaku.com/vladimir-motsar-gsc-game-world-art-illustration-ukraine-1848689627)
- - [The Bridgerton season 1 plot lines you need to remember for season 2](https://www.polygon.com/22991651/bridgerton-season-1-recap-season-2)
- - [17 great martial arts movies you can watch at home](https://www.polygon.com/what-to-watch/22979131/best-action-movies-fight-martial-arts-netflix-streaming)<!-- GAME:END -->
+ - [Zelda: Ocarina of Time fan-made PC port is out now](https://www.pcgamer.com/zelda-ocarina-of-time-fan-made-pc-port-is-out-now)
+ - [Elden Ring&#39;s Horse Can Sometimes Fly &lpar;After Falling To Its Death First&rpar;](https://kotaku.com/elden-ring-torrent-fly-exploit-glitch-speedrun-fromsoft-1848689771)
+ - [Standing Watch](https://kotaku.com/vladimir-motsar-gsc-game-world-art-illustration-ukraine-1848689627)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
