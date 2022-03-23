@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)
- - 🚯 [Choose wisely](http://9gag.com/gag/aGz8QYZ)
- - 🚯 [Apple again: Mac Studio SSD not upgradeable](http://9gag.com/gag/a0ZVrbz)<!-- MEMES:END -->
+ - 🚖 [Now throw the ball..](http://9gag.com/gag/aOQ4M4y)
+ - 🚯 [Wednesday night](http://9gag.com/gag/avAejvE)
+ - 🚯 [Finally managed to save up some money for a toolbox. Its not much and its still not sorted very well but its mine.](http://9gag.com/gag/a81mgRd)<!-- MEMES:END -->
 
 --- 
 
