@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still selling more iPhone 13 models than past lineups via carrier channels](https://appleinsider.com/articles/22/03/23/apple-still-selling-more-iphone-13-models-than-past-lineups-via-carrier-channels?utm_medium=rss)
- - [Instagram is rolling out a Following chronological feed and Favorites feed to all iOS and Android users globally, neither of which can be set as default &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220323/p23#a220323p23)
- - [Instagram’s new chronological mode is exactly what a feed should be](https://www.theverge.com/2022/3/23/22991852/instagram-favorites-following-chronological-feed-return)<!-- TECH:END -->
+ - [Arizona is the first state to put its driver’s license and state ID in Apple’s Wallet](https://www.theverge.com/2022/3/23/22992745/apple-wallet-license-arizona-colorado-hawaii-real-id)
+ - [Apollo’s Spendy New Escooter Is a City-Friendly Ride](https://www.wired.com/review/apollo-city-2022)
+ - [Scientists Map Yellowstone’s Plumbing With … a Helicopter](https://www.wired.com/story/scientists-map-yellowstones-plumbing-with-a-helicopter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
