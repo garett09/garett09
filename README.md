@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Creator Of The Gif Has Died](https://kotaku.com/stephen-wilhite-gif-graphics-interchange-format-covid-d-1848695108)
  - [D&amp;D’s new starter adventure isn’t about saving the world — it’s about family](https://www.polygon.com/22993341/dnd-starter-adventure-first-generation-american-journeys-through-the-radiant-citadel)
- - [Elden Ring’s tastiest adversaries, and how we’d prepare them](https://www.polygon.com/22993482/elden-ring-enemies-ranked-tasty-eat-food-crab)
- - [Core Keeper blasts past half a million downloads on Steam](https://www.pcgamer.com/core-keeper-blasts-past-half-a-million-downloads-on-steam)<!-- GAME:END -->
+ - [Elden Ring’s tastiest adversaries, and how we’d prepare them](https://www.polygon.com/22993482/elden-ring-enemies-ranked-tasty-eat-food-crab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
