@@ -199,7 +199,7 @@ Windows                  8 hrs 8 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [It was ground breaking, loved it and miss it dearly](http://9gag.com/gag/aLveEnx)
  - 🚯 [Choose wisely](http://9gag.com/gag/aGz8QYZ)
- - 🚯 [Professional car cleaning](http://9gag.com/gag/aM4mM5A)<!-- MEMES:END -->
+ - 🚯 [Apple again: Mac Studio SSD not upgradeable](http://9gag.com/gag/a0ZVrbz)<!-- MEMES:END -->
 
 --- 
 
