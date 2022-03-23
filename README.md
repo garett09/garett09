@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Air with M1 was designed for creators &amp; students, Apple exec says](https://appleinsider.com/articles/22/03/23/new-ipad-air-with-m1-was-designed-for-creators-students-apple-exec-says?utm_medium=rss)
- - [$50 off the Bose Noise Cancelling Headphones 700, and more Bose deals](https://www.androidauthority.com/best-bose-deals-1112704/)
- - [Instacart launches Instacart Platform, which offers software management services for e-commerce, fulfillment, ads, insights, and other data for grocery stores &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220323/p32#a220323p32)<!-- TECH:END -->
+ - [Zoom is making it easy to plug your meeting directly into Twitch](https://www.theverge.com/2022/3/23/22993459/zoom-twitch-stream-button-integration)
+ - [Elden Ring’s update patches infinite death loop hack on PC](https://www.theverge.com/2022/3/23/22993443/elden-rings-update-patches-infinite-death-loop-hack-pc)
+ - [NASA announces plans to develop second Moon lander, alongside SpaceX’s Starship](https://www.theverge.com/2022/3/23/22993287/nasa-second-human-lunar-lander-moon-artemis-spacex)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
