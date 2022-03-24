@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An attack on Viasat&#39;s satellite internet service as Russia&#39;s war began impacted 27K users in Europe beyond Ukraine; thousands of users remain offline a month on &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220323/p42#a220323p42)
- - [Personal computing pioneer John Roach, who introduced the fully assembled Tandy TRS-80 and shipped 5K units in 1977, dies at 83 &lpar;Sam Roberts/New York Times&rpar;](http://www.techmeme.com/220323/p41#a220323p41)
- - [Teen Suspected of Being Mastermind of Lapsus$ Hacking Group     - CNET](https://www.cnet.com/tech/services-and-software/teen-suspected-of-being-mastermind-of-lapsus-hacking-group/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a US Senate Commerce Committee hearing, CEOs of Intel and Micron urged Congress to pass $52B in subsidies to boost US semiconductor manufacturing &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220324/p1#a220324p1)
+ - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)
+ - [SpaceX&#39;s Starship Won&#39;t Be NASA&#39;s Only Artemis Lunar Lander After All     - CNET](https://www.cnet.com/science/space/spacexs-starship-wont-be-nasas-only-artemis-lunar-lander-after-all/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
