@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo on Paramount Plus: The 5 Biggest Changes From The Games     - CNET](https://www.cnet.com/culture/entertainment/halo-on-paramount-plus-the-5-biggest-changes-from-the-video-game-franchise/#ftag=CAD590a51e)
- - [Google might finally let Play Store users break out of its billing system](https://www.androidauthority.com/google-play-store-user-choice-billing-3143175/)
- - [Samsung Galaxy S20 FE starts getting One UI 4.1 update with game throttling fix](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)<!-- TECH:END -->
+ - [Ukraine&#39;s Mykhailo Fedorov says the country is using Clearview AI&#39;s tools to identify the bodies of dead Russian soldiers and inform families &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220324/p5#a220324p5)
+ - [Shortwave just rescued my inbox from the drudgery of Gmail](https://www.theverge.com/22990303/shortwave-email-google-gmail-inbox-successor-hands-on)
+ - [&#39;CODA&#39; and &#39;Ted Lasso&#39; honored at Artios Casting Awards](https://appleinsider.com/articles/22/03/24/coda-and-ted-lasso-honored-at-artios-casting-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
