@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After its China spell, the OnePlus 10 Pro is finally going global on March 31](https://www.androidauthority.com/oneplus-10-pro-5g-global-launch-3143200/)
- - [Polestar’s most affordable EV is coming to the US](https://www.theverge.com/2022/3/24/22993409/polestar-2-single-motor-long-range-us-price-specs)
- - [Spin’s electric scooters will be available to rent in the Lyft app](https://www.theverge.com/2022/3/24/22993299/spin-lyft-electric-scooter-rent-app-nashville)<!-- TECH:END -->
+ - [Apple to use world&#39;s first low-carbon aluminium in the iPhone SE](https://appleinsider.com/articles/22/03/24/apple-to-use-worlds-first-low-carbon-aluminium-in-the-iphone-se?utm_medium=rss)
+ - [Apple may be developing 15-inch MacBook Air, display analyst says](https://appleinsider.com/articles/22/03/23/apple-may-be-developing-15-inch-macbook-air-display-analyst-says?utm_medium=rss)
+ - [Colombian startup Simetrik, which offers no-code payment infrastructure tools, raises a $20M Series A at a $100M+ valuation led by FinTech Collective &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220324/p9#a220324p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
