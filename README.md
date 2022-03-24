@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sssssmokinnn!](http://9gag.com/gag/aVxKQMw)
- - 🚯 [Checkmate her in everyway](http://9gag.com/gag/aWgnZbq)
- - 🚯 [MeN aRe dIsGuStInG](http://9gag.com/gag/aBnV3WO)<!-- MEMES:END -->
+ - 🚖 [Muay Thai referee](http://9gag.com/gag/ay960eY)
+ - 🚯 [Can this really work? i never answer a phone call from strangers..](http://9gag.com/gag/amg6Lpd)
+ - 🚯 [Let them fight with each other](http://9gag.com/gag/aAGKVD0)<!-- MEMES:END -->
 
 --- 
 
