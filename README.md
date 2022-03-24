@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart will build micro-fulfillment warehouses for grocery retailers to support 15-minute deliveries, launching in the &quot;coming months&quot; starting with Publix &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220323/p37#a220323p37)
- - [Google says it will bar ads from appearing next to websites, apps and YouTube channels that exploit, dismiss or condone the Russia-Ukraine war &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220323/p36#a220323p36)
- - [How to turn off the sensitive content warning on Twitter](https://www.androidauthority.com/see-sensitive-content-twitter-3142931/)<!-- TECH:END -->
+ - [The best Chromebook deals you can get right now](https://www.theverge.com/good-deals/22912456/best-chromebook-deals)
+ - [A look at the Roblox experiences created by large retail brands like Gucci, Nike, Vans, and Ralph Lauren, with some offering virtual items for Robux &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220323/p39#a220323p39)
+ - [Twitter’s DM search will finally actually help you find conversations](https://www.theverge.com/2022/3/23/22993688/twitter-dm-search-keyword-conversation-results)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
