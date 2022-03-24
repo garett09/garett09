@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is reportedly readying a brand-new foldable line this year](https://www.androidauthority.com/samsung-new-foldable-line-3143047/)
  - [In a US Senate Commerce Committee hearing, CEOs of Intel and Micron urged Congress to pass $52B in subsidies to boost US semiconductor manufacturing &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220324/p1#a220324p1)
- - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)
- - [SpaceX&#39;s Starship Won&#39;t Be NASA&#39;s Only Artemis Lunar Lander After All     - CNET](https://www.cnet.com/science/space/spacexs-starship-wont-be-nasas-only-artemis-lunar-lander-after-all/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
