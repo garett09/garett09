@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toshiba shareholders reject two proposals, one by management to spin off Toshiba&#39;s devices unit and another backed by activist investors to seek buyout offers &lpar;Reuters&rpar;](http://www.techmeme.com/220324/p15#a220324p15)
- - [These are the best PS5 exclusives you can buy right now](https://www.androidauthority.com/best-ps5-exclusives-3129518/)
- - [Daily deals March 24: save up to 70% at Lenovo, LG NanoCell 90 65-inch 4K TV now $997, $150 off Samsung Galaxy Z Flip 3 5G Unlocked, more](https://appleinsider.com/articles/22/03/24/daily-deals-march-24-save-up-to-70-at-lenovo-lg-nanocell-90-65-inch-4k-tv-now-997-150-off-samsung-galaxy-z-flip-3-5g-unlocked-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to wipe your Android phone before selling or trading it in](https://www.theverge.com/21419919/delete-data-android-phone-sell-trade-how-to)
+ - [Samsung’s self-cleaning Jet Bot Plus robot vacuum is half off today](https://www.theverge.com/good-deals/2022/3/24/22994306/samsung-jet-bot-plus-robot-vacuum-jabra-elite-65t-earbuds-meross-smart-home-apple-imac-deal-sale)
+ - [Google asks FDA to clear Fitbit for passive heart rhythm monitoring](https://www.theverge.com/2022/3/24/22994324/google-fitbit-heart-monitoring-afib-fda)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
