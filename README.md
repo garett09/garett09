@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anyone can beat Goku now](https://www.polygon.com/22980182/fave-beats-goku-meme)
- - [Godfall: Ultimate Edition coming to Xbox on April 7](https://news.xbox.com/en-us/2022/03/24/godfall-ultimate-edition-coming-to-xbox-on-april-7/)
- - [Netflix cancels Archive 81 after one season](https://www.polygon.com/22895351/archive-81-canceled-questions-plot)<!-- GAME:END -->
+ - [Bungie says last week&#39;s Destiny 2 video takedowns were &#39;fraudulent&#39;](https://www.pcgamer.com/bungie-says-last-weeks-destiny-2-video-takedowns-were-fraudulent)
+ - [Soren Johnson says Civ 3&#39;s bargaining table was a &#39;big mistake&#39;](https://www.pcgamer.com/soren-johnson-says-civ-3s-bargaining-table-was-a-big-mistake)
+ - [Devs Want To Challenge Your Expectations Of Who Makes Games](https://kotaku.com/slug-whatagamedevlookslike-diversity-gdc-marginalized-1848700549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
