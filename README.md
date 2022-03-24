@@ -198,8 +198,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [On point](http://9gag.com/gag/aDD8w39)
- - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)
- - 🚯 [Cultural appropriation logic](http://9gag.com/gag/aZr8Pz0)<!-- MEMES:END -->
+ - 🚯 [I feel ya](http://9gag.com/gag/aBnVKGA)
+ - 🚯 [Them again Yogi?](http://9gag.com/gag/aZr8PN6)<!-- MEMES:END -->
 
 --- 
 
