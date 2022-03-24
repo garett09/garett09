@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halo on Paramount Plus: The 5 Biggest Changes From The Games     - CNET](https://www.cnet.com/culture/entertainment/halo-on-paramount-plus-the-5-biggest-changes-from-the-video-game-franchise/#ftag=CAD590a51e)
  - [Google might finally let Play Store users break out of its billing system](https://www.androidauthority.com/google-play-store-user-choice-billing-3143175/)
- - [Samsung Galaxy S20 FE starts getting One UI 4.1 update with game throttling fix](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Experts say AI tools lack the training data needed to understand the cultural meaning of images, recipes, and other data concerning underrepresented cultures &lpar;Alex V. Cipolle/New York Times&rpar;](http://www.techmeme.com/220324/p2#a220324p2)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE starts getting One UI 4.1 update with game throttling fix](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
