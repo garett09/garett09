@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify might soon bypass Android billing, but Google’s still getting paid](https://www.theverge.com/22993765/google-spotify-android-user-choice-billing)
- - [Apple working on hardware subscription service for iPhone, other products](https://appleinsider.com/articles/22/03/24/apple-working-on-hardware-subscription-service-for-iphone-other-products?utm_medium=rss)
- - [European Union reaching &#39;final countdown&#39; to major tech antitrust legislation](https://appleinsider.com/articles/22/03/24/european-union-reaching-final-countdown-to-major-tech-antitrust-legislation?utm_medium=rss)<!-- TECH:END -->
+ - [Pakistan-based Jugnu, an e-commerce marketplace that connects retail stores and SMBs directly to manufacturers, raises a $22.5M Series A led by Sary &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220324/p24#a220324p24)
+ - [Mac Studio designed with customer feedback &amp; Pro Workflow team feedback in mind](https://appleinsider.com/articles/22/03/24/mac-studio-designed-with-customer-feedback-pro-workflow-team-feedback-in-mind?utm_medium=rss)
+ - [How to draw in Google Slides](https://www.androidauthority.com/drawing-google-slides-3140618/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
