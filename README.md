@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Witcher 3 mods](https://www.pcgamer.com/the-best-witcher-3-mods)
- - [AMD&#39;s mid range Navi 33 GPU could beat out the 6900 XT](https://www.pcgamer.com/amds-mid-range-navi-33-gpu-could-beat-out-the-6900-xt)
- - [The cheapest way to buy Tiny Tina&#39;s Wonderlands in Australia](https://www.pcgamer.com/buy-tiny-tinas-wonderlands-pc)<!-- GAME:END -->
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
+ - [Future Nvidia GPUs could be manufactured by Intel](https://www.pcgamer.com/future-nvidia-gpus-could-be-manufactured-by-intel)
+ - [The best Witcher 3 mods](https://www.pcgamer.com/the-best-witcher-3-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
