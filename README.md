@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, the governor&#39;s right though](http://9gag.com/gag/aqG69Yj)
- - 🚯 [Its just hurt, bc true!](http://9gag.com/gag/ang2eZn)
- - 🚯 [Oh the old boy](http://9gag.com/gag/aXrV0y6)<!-- MEMES:END -->
+ - 🚖 [Zelenskyy message from March 24](http://9gag.com/gag/arnXpmX)
+ - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)
+ - 🚯 [RIP to Steven Wilhite, the inventor of the GIF. Salute to the man who launched a million internet arguments.](http://9gag.com/gag/avA62MO)<!-- MEMES:END -->
 
 --- 
 
