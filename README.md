@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pakistan-based Jugnu, an e-commerce marketplace that connects retail stores and SMBs directly to manufacturers, raises a $22.5M Series A led by Sary &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220324/p24#a220324p24)
- - [Mac Studio designed with customer feedback &amp; Pro Workflow team feedback in mind](https://appleinsider.com/articles/22/03/24/mac-studio-designed-with-customer-feedback-pro-workflow-team-feedback-in-mind?utm_medium=rss)
- - [How to draw in Google Slides](https://www.androidauthority.com/drawing-google-slides-3140618/)<!-- TECH:END -->
+ - [Netflix bought yet another studio as part of gaming push](https://www.theverge.com/2022/3/24/22995286/netflix-games-boss-fight-entertainment-acquisition)
+ - [The DOJ arrest and charge two men with wire fraud and money laundering over a $1.1M NFT rug pull scheme for their collection named &quot;Frosties&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220324/p26#a220324p26)
+ - [How to do a hanging indent on Google Slides](https://www.androidauthority.com/hanging-indent-google-slides-3141689/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
