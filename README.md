@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on hardware subscription service for iPhone, other products](https://appleinsider.com/articles/22/03/24/apple-working-on-hardware-subscription-service-for-iphone-other-products?utm_medium=rss)
- - [The Halo show is nothing like the games, and that’s why it’s good](https://www.theverge.com/2022/3/24/22994651/paramount-plus-halo-tv-show-halo-lore)
- - [US Jobless Claims Hit Five-Decade Low     - CNET](https://www.cnet.com/personal-finance/banking/us-jobless-claims-hit-five-decade-low/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify seems to be testing a revitalized Car Mode](https://www.theverge.com/2022/3/24/22994776/spotify-car-mode-revival-test-voice-control)
+ - [Matter delay slows smart home device makers’ plans](https://www.theverge.com/2022/3/24/22994597/matter-delay-nanoleaf-essentials-eve-wemo)
+ - [Sources: Alibaba has no plans to quit Russia as its partners in AliExpress Russia are sanctioned and orders fall due to shipping delays and ruble&#39;s depreciation &lpar;Jing Yang/Wall Street Journal&rpar;](http://www.techmeme.com/220324/p21#a220324p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
