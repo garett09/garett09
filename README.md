@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to wipe your Android phone before selling or trading it in](https://www.theverge.com/21419919/delete-data-android-phone-sell-trade-how-to)
- - [Samsung’s self-cleaning Jet Bot Plus robot vacuum is half off today](https://www.theverge.com/good-deals/2022/3/24/22994306/samsung-jet-bot-plus-robot-vacuum-jabra-elite-65t-earbuds-meross-smart-home-apple-imac-deal-sale)
- - [Google asks FDA to clear Fitbit for passive heart rhythm monitoring](https://www.theverge.com/2022/3/24/22994324/google-fitbit-heart-monitoring-afib-fda)<!-- TECH:END -->
+ - [Apple is working on a subscription service, set to launch by 2023, for the iPhone and other hardware that could tie into Apple One bundles and AppleCare &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p19#a220324p19)
+ - [Mandy director Panos Cosmatos’ next film is a nightmare sci-fi romance](https://www.theverge.com/2022/3/24/22994703/panos-cosmatos-nekrokosm-new-movie-announced-a24-xyz-mandy)
+ - [The OPPO Find X5 Pro: bringing next-gen clarity to low-light photography](https://www.androidauthority.com/oppo-find-x5-pro-low-light-photography-3140325/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
