@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie says last week&#39;s Destiny 2 video takedowns were &#39;fraudulent&#39;](https://www.pcgamer.com/bungie-says-last-weeks-destiny-2-video-takedowns-were-fraudulent)
- - [Soren Johnson says Civ 3&#39;s bargaining table was a &#39;big mistake&#39;](https://www.pcgamer.com/soren-johnson-says-civ-3s-bargaining-table-was-a-big-mistake)
- - [Devs Want To Challenge Your Expectations Of Who Makes Games](https://kotaku.com/slug-whatagamedevlookslike-diversity-gdc-marginalized-1848700549)<!-- GAME:END -->
+ - [Fortnite&#39;s &#39;No Building&#39; mode will be made permanent, dataminers say](https://www.pcgamer.com/fortnites-no-building-mode-will-be-made-permanent-dataminers-say)
+ - [The Time I Have Left is a &#39;time-driven escape adventure&#39; with a lot of style](https://www.pcgamer.com/the-time-i-have-left-is-a-time-driven-escape-adventure-with-a-lot-of-style)
+ - [Your first look at the next Dungeons &amp; Dragons Magic: The Gathering crossover set](https://www.polygon.com/22995272/dnd-magic-the-gathering-crossover-set-baldurs-gate-commander-edh-preview-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
