@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Creator Of The Gif Has Died](https://kotaku.com/stephen-wilhite-gif-graphics-interchange-format-covid-d-1848695108)
- - [D&amp;D’s new starter adventure isn’t about saving the world — it’s about family](https://www.polygon.com/22993341/dnd-starter-adventure-first-generation-american-journeys-through-the-radiant-citadel)
- - [Elden Ring’s tastiest adversaries, and how we’d prepare them](https://www.polygon.com/22993482/elden-ring-enemies-ranked-tasty-eat-food-crab)<!-- GAME:END -->
+ - [Report: Microsoft, Nvidia, Ubisoft Hacked By Suspected Teenagers](https://kotaku.com/microsoft-ubisoft-nvidia-hack-hackers-hacked-lapsus-te-1848694913)
+ - [GIF creator Stephen Wilhite has died](https://www.pcgamer.com/gif-creator-stephen-wilhite-has-died)
+ - [One of PC&#39;s best new technologies, FidelityFX Super Resolution, is headed to Xbox](https://www.pcgamer.com/fidelityfx-super-resolution-2-xbox-console-amd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
