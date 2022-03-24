@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 is getting a ping system; here’s how it works](https://www.polygon.com/22994822/overwatch-2-ping-system-alpha-beta-test)
- - [Satoshi Kon’s movies, including Perfect Blue, are streaming for free this weekend](https://www.polygon.com/22994781/satoshi-kon-movies-perfect-blue-watch-free)
- - [Celebrating Nine Years of ID@Xbox](https://news.xbox.com/en-us/2022/03/24/celebrating-nine-years-of-idxbox/)<!-- GAME:END -->
+ - [Xbox Becomes the Official Gaming Partner of the French Football Federation](https://news.xbox.com/en-us/2022/03/24/xbox-becomes-the-official-gaming-partner-of-the-french-football-federation/)
+ - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
+ - [The best USB Wi-Fi adapter in 2022](https://www.pcgamer.com/best-usb-wi-fi-adapter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
