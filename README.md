@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was the best companion ever?](http://9gag.com/gag/apg60RB)
+ - 🚖 [And Madcatz controllers](http://9gag.com/gag/aqG6NPQ)
  - 🚯 [Muay Thai referee](http://9gag.com/gag/ay960eY)
- - 🚯 [When ur bro didn&#39;t told you about the guy who defeated him.](http://9gag.com/gag/azeKLZm)<!-- MEMES:END -->
+ - 🚯 [Lol true](http://9gag.com/gag/ay96pGq)<!-- MEMES:END -->
 
 --- 
 
