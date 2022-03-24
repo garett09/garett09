@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote in the semi-finals of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
- - [Free Play Days – Lost Judgment, Before We Leave, and Far Cry 6](https://news.xbox.com/en-us/2022/03/24/free-play-days-lost-judgment-before-we-leave-and-far-cry-6/)
- - [We drafted Looney Tunes basketball teams to pick the true Space Jam winner](https://www.polygon.com/22992808/best-looney-tunes-characters-basketball-space-jam-teams-draft)<!-- GAME:END -->
+ - [Apex Legends brings back Control in latest limited-time event](https://www.polygon.com/22994684/apex-legends-warriors-collection-event-skins-dates-limited-time-control)
+ - [Professor X vs. Magneto: Who’s the better sex ed teacher?](https://www.polygon.com/22993325/marvel-magneto-professor-x-who-would-win-x-men)
+ - [Tunche is coming to PS4 on March 25](https://blog.playstation.com/2022/03/24/tunche-is-coming-to-ps4-on-march-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
