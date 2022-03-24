@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to use world&#39;s first low-carbon aluminium in the iPhone SE](https://appleinsider.com/articles/22/03/24/apple-to-use-worlds-first-low-carbon-aluminium-in-the-iphone-se?utm_medium=rss)
- - [Apple may be developing 15-inch MacBook Air, display analyst says](https://appleinsider.com/articles/22/03/23/apple-may-be-developing-15-inch-macbook-air-display-analyst-says?utm_medium=rss)
- - [Colombian startup Simetrik, which offers no-code payment infrastructure tools, raises a $20M Series A at a $100M+ valuation led by FinTech Collective &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220324/p9#a220324p9)<!-- TECH:END -->
+ - [Motorola Edge Plus &lpar;2022&rpar; review: Too many blunt edges](https://www.androidauthority.com/motorola-edge-plus-2022-review-3141383/)
+ - [Motorola&#39;s Edge+ Isn&#39;t Worth the Grand It&#39;ll Cost You](https://www.wired.com/review/motorola-edge-plus-2022)
+ - [Leica’s New Camera Puts Skill Back Into Focus](https://www.wired.com/story/leica-m11-digital-rangefinder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
