@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Lapsus$, a data extortion group that first surfaced in December 2021 specializing in stealing data from big companies by bribing or tricking employees &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220323/p40#a220323p40)
- - [Forspoken dev says one-second game loads are now a tentative reality on PC](https://www.theverge.com/2022/3/23/22993860/forspoken-pc-microsoft-directstorage-nvme-ssd-gdc)
- - [How to add friends on Discord](https://www.androidauthority.com/add-friends-discord-3142353/)<!-- TECH:END -->
+ - [An attack on Viasat&#39;s satellite internet service as Russia&#39;s war began impacted 27K users in Europe beyond Ukraine; thousands of users remain offline a month on &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220323/p42#a220323p42)
+ - [Personal computing pioneer John Roach dies at 83; he introduced the fully assembled Tandy TRS-80 and shipped 5K units in 1977, before Apple I and Commodore &lpar;Sam Roberts/New York Times&rpar;](http://www.techmeme.com/220323/p41#a220323p41)
+ - [Teen Suspected of Being Mastermind of Lapsus$ Hacking Group     - CNET](https://www.cnet.com/tech/services-and-software/teen-suspected-of-being-mastermind-of-lapsus-hacking-group/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
