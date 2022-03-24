@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Netflix of games&#39; isn&#39;t likely, says analyst](https://www.pcgamer.com/netflix-of-games-isnt-likely-says-analyst)
  - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
- - [Future Nvidia GPUs could be manufactured by Intel](https://www.pcgamer.com/future-nvidia-gpus-could-be-manufactured-by-intel)
- - [The best Witcher 3 mods](https://www.pcgamer.com/the-best-witcher-3-mods)<!-- GAME:END -->
+ - [Future Nvidia GPUs could be manufactured by Intel](https://www.pcgamer.com/future-nvidia-gpus-could-be-manufactured-by-intel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
