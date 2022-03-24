@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mission Possible](http://9gag.com/gag/aVxKOAd)
- - 🚯 [OK, wtf is going on here?](http://9gag.com/gag/agg7yLK)
- - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)<!-- MEMES:END -->
+ - 🚖 [T or A is the real question](http://9gag.com/gag/aRrMQ97)
+ - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)
+ - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)<!-- MEMES:END -->
 
 --- 
 
