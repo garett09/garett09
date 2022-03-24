@@ -198,8 +198,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [And I\u2019m only 34 years old\u2026](http://9gag.com/gag/aegZjGm)
- - 🚯 [New member of the family\u2026 didn\u2019t decide about the name yet, but damn that boi melted my heart](http://9gag.com/gag/axB6Eo2)
- - 🚯 [Ah, yes! America the land of opportunity!](http://9gag.com/gag/ajgO2PR)<!-- MEMES:END -->
+ - 🚯 [Well, the governor&#39;s right though](http://9gag.com/gag/aqG69Yj)
+ - 🚯 [Heartbreaking interview with a Fentanyl addict. I can only recommend watching the Documentary: `Inside The Fentanyl Crisis | Ten Dollar Death Trip` on YT](http://9gag.com/gag/a619W0b)<!-- MEMES:END -->
 
 --- 
 
