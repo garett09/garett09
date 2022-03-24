@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [T or A is the real question](http://9gag.com/gag/aRrMQ97)
- - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)
- - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)<!-- MEMES:END -->
+ - 🚖 [On point](http://9gag.com/gag/aDD8w39)
+ - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)
+ - 🚯 [Cultural appropriation logic](http://9gag.com/gag/aZr8Pz0)<!-- MEMES:END -->
 
 --- 
 
