@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batman deleted scene reveals the Joker](https://www.polygon.com/22994804/the-batman-joker-deleted-scene)
- - [“Halo” Episode One Streaming Now on Paramount+](https://news.xbox.com/en-us/2022/03/24/halo-episode-one-streaming-now-on-paramount/)
- - [Sony Assures It Won’t Forget Single-Player PlayStation Games Amid Online Push](https://kotaku.com/playstation-live-service-single-player-haven-bungie-acq-1848698124)<!-- GAME:END -->
+ - [Overwatch 2 is getting a ping system; here’s how it works](https://www.polygon.com/22994822/overwatch-2-ping-system-alpha-beta-test)
+ - [Satoshi Kon’s movies, including Perfect Blue, are streaming for free this weekend](https://www.polygon.com/22994781/satoshi-kon-movies-perfect-blue-watch-free)
+ - [Celebrating Nine Years of ID@Xbox](https://news.xbox.com/en-us/2022/03/24/celebrating-nine-years-of-idxbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
