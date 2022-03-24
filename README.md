@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And I\u2019m only 34 years old\u2026](http://9gag.com/gag/aegZjGm)
- - 🚯 [Well, the governor&#39;s right though](http://9gag.com/gag/aqG69Yj)
- - 🚯 [Heartbreaking interview with a Fentanyl addict. I can only recommend watching the Documentary: `Inside The Fentanyl Crisis | Ten Dollar Death Trip` on YT](http://9gag.com/gag/a619W0b)<!-- MEMES:END -->
+ - 🚖 [Well, the governor&#39;s right though](http://9gag.com/gag/aqG69Yj)
+ - 🚯 [Its just hurt, bc true!](http://9gag.com/gag/ang2eZn)
+ - 🚯 [Oh the old boy](http://9gag.com/gag/aXrV0y6)<!-- MEMES:END -->
 
 --- 
 
