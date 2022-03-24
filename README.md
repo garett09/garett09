@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He told his wife he&#39;ll be driving down the highway 5 minutes from the house, so she loads up the kids so they can see their dad.](http://9gag.com/gag/aegZKEQ)
- - 🚯 [Its just hurt, bc true!](http://9gag.com/gag/ang2eZn)
- - 🚯 [Doesn\u2019t matter had sex](http://9gag.com/gag/aegOX45)<!-- MEMES:END -->
+ - 🚖 [And I\u2019m only 34 years old\u2026](http://9gag.com/gag/aegZjGm)
+ - 🚯 [I asked, and someone told me a mountain lion can make this sound. Is he right?](http://9gag.com/gag/agg7rzx)
+ - 🚯 [Its just hurt, bc true!](http://9gag.com/gag/ang2eZn)<!-- MEMES:END -->
 
 --- 
 
