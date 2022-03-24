@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Chromebook deals you can get right now](https://www.theverge.com/good-deals/22912456/best-chromebook-deals)
- - [A look at the Roblox experiences created by large retail brands like Gucci, Nike, Vans, and Ralph Lauren, with some offering virtual items for Robux &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220323/p39#a220323p39)
- - [Twitter’s DM search will finally actually help you find conversations](https://www.theverge.com/2022/3/23/22993688/twitter-dm-search-keyword-conversation-results)<!-- TECH:END -->
+ - [A look at Lapsus$, a data extortion group that first surfaced in December 2021 specializing in stealing data from big companies by bribing or tricking employees &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220323/p40#a220323p40)
+ - [Forspoken dev says one-second game loads are now a tentative reality on PC](https://www.theverge.com/2022/3/23/22993860/forspoken-pc-microsoft-directstorage-nvme-ssd-gdc)
+ - [How to add friends on Discord](https://www.androidauthority.com/add-friends-discord-3142353/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
