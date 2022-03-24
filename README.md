@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ anthology &#39;Truth Be Told&#39; adds Gabrielle Union for season 3](https://appleinsider.com/articles/22/03/24/apple-tv-anthology-truth-be-told-adds-gabrielle-union-for-season-3?utm_medium=rss)
- - [FBI seems to be targeting disgruntled staff working at the Russian embassy in Washington DC via geo-targeted recruitment ads on Facebook, Twitter, and Google &lpar;Devlin Barrett/Washington Post&rpar;](http://www.techmeme.com/220324/p12#a220324p12)
- - [Dell’s XPS 15 and XPS 17 get 12th Gen chips](https://www.theverge.com/2022/3/24/22993452/dell-xps-15-17-intel-12th-gen-processors-alder-lake-release)<!-- TECH:END -->
+ - [Toshiba shareholders reject two proposals, one by management to spin off Toshiba&#39;s devices unit and another backed by activist investors to seek buyout offers &lpar;Reuters&rpar;](http://www.techmeme.com/220324/p15#a220324p15)
+ - [These are the best PS5 exclusives you can buy right now](https://www.androidauthority.com/best-ps5-exclusives-3129518/)
+ - [Daily deals March 24: save up to 70% at Lenovo, LG NanoCell 90 65-inch 4K TV now $997, $150 off Samsung Galaxy Z Flip 3 5G Unlocked, more](https://appleinsider.com/articles/22/03/24/daily-deals-march-24-save-up-to-70-at-lenovo-lg-nanocell-90-65-inch-4k-tv-now-997-150-off-samsung-galaxy-z-flip-3-5g-unlocked-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
