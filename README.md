@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is reportedly readying a brand-new foldable line this year](https://www.androidauthority.com/samsung-new-foldable-line-3143047/)
- - [In a US Senate Commerce Committee hearing, CEOs of Intel and Micron urged Congress to pass $52B in subsidies to boost US semiconductor manufacturing &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220324/p1#a220324p1)
- - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE starts getting One UI 4.1 update with game throttling fix](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
+ - [Experts say AI tools lack the training data needed to understand the cultural meaning of images, recipes, and other data concerning underrepresented cultures &lpar;Alex V. Cipolle/New York Times&rpar;](http://www.techmeme.com/220324/p2#a220324p2)
+ - [Some Galaxy S22 Ultra models have GPS issues, but a fix is coming](https://www.androidauthority.com/samsung-galaxy-s22-ultra-exynos-gps-issue-3143050/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
