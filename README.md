@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess all I need now is a 3D printer](http://9gag.com/gag/aAGKVdp)
- - 🚯 [Mission Possible](http://9gag.com/gag/aVxKOAd)
- - 🚯 [Sssssmokinnn!](http://9gag.com/gag/aVxKQMw)<!-- MEMES:END -->
+ - 🚖 [Sssssmokinnn!](http://9gag.com/gag/aVxKQMw)
+ - 🚯 [Checkmate her in everyway](http://9gag.com/gag/aWgnZbq)
+ - 🚯 [MeN aRe dIsGuStInG](http://9gag.com/gag/aBnV3WO)<!-- MEMES:END -->
 
 --- 
 
