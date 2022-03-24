@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Microsoft, Nvidia, Ubisoft Hacked By Suspected Teenagers](https://kotaku.com/microsoft-ubisoft-nvidia-hack-hackers-hacked-lapsus-te-1848694913)
- - [GIF creator Stephen Wilhite has died](https://www.pcgamer.com/gif-creator-stephen-wilhite-has-died)
- - [One of PC&#39;s best new technologies, FidelityFX Super Resolution, is headed to Xbox](https://www.pcgamer.com/fidelityfx-super-resolution-2-xbox-console-amd)<!-- GAME:END -->
+ - [AMD&#39;s mid range Navi 33 GPU could beat out the 6900 XT](https://www.pcgamer.com/amds-mid-range-navi-33-gpu-could-beat-out-the-6900-xt)
+ - [The cheapest way to buy Tiny Tina&#39;s Wonderlands in Australia](https://www.pcgamer.com/buy-tiny-tinas-wonderlands-pc)
+ - [Report: Microsoft, Nvidia, Ubisoft Hacked By Suspected Teenagers](https://kotaku.com/microsoft-ubisoft-nvidia-hack-hackers-hacked-lapsus-te-1848694913)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
