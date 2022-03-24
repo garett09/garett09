@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is working on a subscription service, set to launch by 2023, for the iPhone and other hardware that could tie into Apple One bundles and AppleCare &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p19#a220324p19)
- - [Mandy director Panos Cosmatos’ next film is a nightmare sci-fi romance](https://www.theverge.com/2022/3/24/22994703/panos-cosmatos-nekrokosm-new-movie-announced-a24-xyz-mandy)
- - [The OPPO Find X5 Pro: bringing next-gen clarity to low-light photography](https://www.androidauthority.com/oppo-find-x5-pro-low-light-photography-3140325/)<!-- TECH:END -->
+ - [Apple working on hardware subscription service for iPhone, other products](https://appleinsider.com/articles/22/03/24/apple-working-on-hardware-subscription-service-for-iphone-other-products?utm_medium=rss)
+ - [The Halo show is nothing like the games, and that’s why it’s good](https://www.theverge.com/2022/3/24/22994651/paramount-plus-halo-tv-show-halo-lore)
+ - [US Jobless Claims Hit Five-Decade Low     - CNET](https://www.cnet.com/personal-finance/banking/us-jobless-claims-hit-five-decade-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
