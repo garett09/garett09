@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Becomes the Official Gaming Partner of the French Football Federation](https://news.xbox.com/en-us/2022/03/24/xbox-becomes-the-official-gaming-partner-of-the-french-football-federation/)
- - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
- - [The best USB Wi-Fi adapter in 2022](https://www.pcgamer.com/best-usb-wi-fi-adapter)<!-- GAME:END -->
+ - [Returnal&#39;s Co-Op Is Kind Of A Letdown](https://kotaku.com/returnal-ps5-review-online-play-cooperative-housemarque-1848699790)
+ - [Elden Ring: The Kotaku Review](https://kotaku.com/elden-ring-fromsoftware-review-hidetaka-miyazaki-dark-s-1848694257)
+ - [New suit against Activision Blizzard alleges ‘rampant sexism’ and retaliation](https://www.polygon.com/22994994/activision-blizzard-lawsuit-sexism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
