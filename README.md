@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adults: `If you hate people, why do you want to become a teacher? Your students will discourage you soon!`](http://9gag.com/gag/aRrMVWy)
- - 🚯 [MeN aRe dIsGuStInG](http://9gag.com/gag/aBnV3WO)
- - 🚯 [One guy looks like he just stumbled out the pub after post-work drinks](http://9gag.com/gag/azeKLwx)<!-- MEMES:END -->
+ - 🚖 [Just shoot your shot. I also hope he isn\u2019t weirded out by it](http://9gag.com/gag/aXrV9wV)
+ - 🚯 [No more camel toe for you girlzz](http://9gag.com/gag/aBnV3YQ)
+ - 🚯 [From daylight to pitchblack storm. Argentina](http://9gag.com/gag/aAGKpBo)<!-- MEMES:END -->
 
 --- 
 
