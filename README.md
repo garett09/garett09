@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The commander of the Black Sea Fleet&#39;s 810th Naval Infantry Brigade, Colonel Aleksey Sharov, was killed near Mariupol.](http://9gag.com/gag/aLv46WP)
- - 🚯 [For months, a car dealer in Belgium noticed his parked cars had spit on them. Once they found out it was always the same cyclist, they prepared a proper reaction.](http://9gag.com/gag/aWgLKZn)
- - 🚯 [RIP to Steven Wilhite, the inventor of the GIF. Salute to the man who launched a million internet arguments.](http://9gag.com/gag/avA62MO)<!-- MEMES:END -->
+ - 🚖 [He told his wife he&#39;ll be driving down the highway 5 minutes from the house, so she loads up the kids so they can see their dad.](http://9gag.com/gag/aegZKEQ)
+ - 🚯 [Its just hurt, bc true!](http://9gag.com/gag/ang2eZn)
+ - 🚯 [Doesn\u2019t matter had sex](http://9gag.com/gag/aegOX45)<!-- MEMES:END -->
 
 --- 
 
