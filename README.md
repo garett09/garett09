@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On point](http://9gag.com/gag/aDD8w39)
- - 🚯 [I feel ya](http://9gag.com/gag/aBnVKGA)
- - 🚯 [Them again Yogi?](http://9gag.com/gag/aZr8PN6)<!-- MEMES:END -->
+ - 🚖 [Ah yes, roasting cyberbullies. We love it.](http://9gag.com/gag/awz1b3Q)
+ - 🚯 [Can this really work? i never answer a phone call from strangers..](http://9gag.com/gag/amg6Lpd)
+ - 🚯 [Someone threw a bottle at the former president of South Korea.](http://9gag.com/gag/aDD80Qd)<!-- MEMES:END -->
 
 --- 
 
