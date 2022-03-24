@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to successfully escape from prison](http://9gag.com/gag/aM4P2D6)
- - 🚯 [Another inocent](http://9gag.com/gag/awz1N7D)
- - 🚯 [New member of the family\u2026 didn\u2019t decide about the name yet, but damn that boi melted my heart](http://9gag.com/gag/axB6Eo2)<!-- MEMES:END -->
+ - 🚖 [And I\u2019m only 34 years old\u2026](http://9gag.com/gag/aegZjGm)
+ - 🚯 [New member of the family\u2026 didn\u2019t decide about the name yet, but damn that boi melted my heart](http://9gag.com/gag/axB6Eo2)
+ - 🚯 [Ah, yes! America the land of opportunity!](http://9gag.com/gag/ajgO2PR)<!-- MEMES:END -->
 
 --- 
 
