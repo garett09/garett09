@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just shoot your shot. I also hope he isn\u2019t weirded out by it](http://9gag.com/gag/aXrV9wV)
- - 🚯 [No more camel toe for you girlzz](http://9gag.com/gag/aBnV3YQ)
- - 🚯 [From daylight to pitchblack storm. Argentina](http://9gag.com/gag/aAGKpBo)<!-- MEMES:END -->
+ - 🚖 [Sevastopol right now](http://9gag.com/gag/ajgLnZ0)
+ - 🚯 [From daylight to pitchblack storm. Argentina](http://9gag.com/gag/aAGKpBo)
+ - 🚯 [Makes sense for me :/](http://9gag.com/gag/aAGKp2o)<!-- MEMES:END -->
 
 --- 
 
