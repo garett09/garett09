@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Nook or Mayor Lewis — who’s the most ruthless leader?](https://www.polygon.com/22978253/animal-crossing-tom-nook-stardew-valley-mayor-lewis-ruthless)
- - [Microsoft Flight Simulator Releases World Update VIII: Spain, Portugal, Gibraltar, and Andorra](https://news.xbox.com/en-us/2022/03/24/microsoft-flight-simulator-releases-world-update-8/)
- - [AMD doesn&#39;t recommend using a GTX 1060 with frame-rate boosting FSR 2.0](https://www.pcgamer.com/amd-doesnt-recommend-using-a-gtx-1060-with-frame-rate-boosting-fsr-20)<!-- GAME:END -->
+ - [Storm the Forts of the Forgotten in Sea of Thieves’ Second Adventure, Live Until April 7](https://news.xbox.com/en-us/2022/03/24/storm-the-forts-of-the-forgotten-in-sea-of-thieves/)
+ - [Thanks to DirectStorage, Forspoken loads in only one second](https://www.pcgamer.com/thanks-to-directstorage-forspoken-loads-in-only-one-second)
+ - [You Can Boost Your Elden Ring Runes Without Really Trying](https://kotaku.com/elden-ring-runes-farm-boost-how-to-where-gold-pickled-f-1848688817)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
