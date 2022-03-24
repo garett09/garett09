@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge Plus &lpar;2022&rpar; review: Too many blunt edges](https://www.androidauthority.com/motorola-edge-plus-2022-review-3141383/)
- - [Motorola&#39;s Edge+ Isn&#39;t Worth the Grand It&#39;ll Cost You](https://www.wired.com/review/motorola-edge-plus-2022)
- - [Leica’s New Camera Puts Skill Back Into Focus](https://www.wired.com/story/leica-m11-digital-rangefinder)<!-- TECH:END -->
+ - [Apple TV+ anthology &#39;Truth Be Told&#39; adds Gabrielle Union for season 3](https://appleinsider.com/articles/22/03/24/apple-tv-anthology-truth-be-told-adds-gabrielle-union-for-season-3?utm_medium=rss)
+ - [FBI seems to be targeting disgruntled staff working at the Russian embassy in Washington DC via geo-targeted recruitment ads on Facebook, Twitter, and Google &lpar;Devlin Barrett/Washington Post&rpar;](http://www.techmeme.com/220324/p12#a220324p12)
+ - [Dell’s XPS 15 and XPS 17 get 12th Gen chips](https://www.theverge.com/2022/3/24/22993452/dell-xps-15-17-intel-12th-gen-processors-alder-lake-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
