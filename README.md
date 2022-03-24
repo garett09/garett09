@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s Mykhailo Fedorov says the country is using Clearview AI&#39;s tools to identify the bodies of dead Russian soldiers and inform families &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220324/p5#a220324p5)
- - [Shortwave just rescued my inbox from the drudgery of Gmail](https://www.theverge.com/22990303/shortwave-email-google-gmail-inbox-successor-hands-on)
- - [&#39;CODA&#39; and &#39;Ted Lasso&#39; honored at Artios Casting Awards](https://appleinsider.com/articles/22/03/24/coda-and-ted-lasso-honored-at-artios-casting-awards?utm_medium=rss)<!-- TECH:END -->
+ - [After its China spell, the OnePlus 10 Pro is finally going global on March 31](https://www.androidauthority.com/oneplus-10-pro-5g-global-launch-3143200/)
+ - [Polestar’s most affordable EV is coming to the US](https://www.theverge.com/2022/3/24/22993409/polestar-2-single-motor-long-range-us-price-specs)
+ - [Spin’s electric scooters will be available to rent in the Lyft app](https://www.theverge.com/2022/3/24/22993299/spin-lyft-electric-scooter-rent-app-nashville)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
