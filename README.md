@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends brings back Control in latest limited-time event](https://www.polygon.com/22994684/apex-legends-warriors-collection-event-skins-dates-limited-time-control)
- - [Professor X vs. Magneto: Who’s the better sex ed teacher?](https://www.polygon.com/22993325/marvel-magneto-professor-x-who-would-win-x-men)
- - [Tunche is coming to PS4 on March 25](https://blog.playstation.com/2022/03/24/tunche-is-coming-to-ps4-on-march-25/)<!-- GAME:END -->
+ - [The Batman deleted scene reveals the Joker](https://www.polygon.com/22994804/the-batman-joker-deleted-scene)
+ - [“Halo” Episode One Streaming Now on Paramount+](https://news.xbox.com/en-us/2022/03/24/halo-episode-one-streaming-now-on-paramount/)
+ - [Sony Assures It Won’t Forget Single-Player PlayStation Games Amid Online Push](https://kotaku.com/playstation-live-service-single-player-haven-bungie-acq-1848698124)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
