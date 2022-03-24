@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Storm the Forts of the Forgotten in Sea of Thieves’ Second Adventure, Live Until April 7](https://news.xbox.com/en-us/2022/03/24/storm-the-forts-of-the-forgotten-in-sea-of-thieves/)
- - [Thanks to DirectStorage, Forspoken loads in only one second](https://www.pcgamer.com/thanks-to-directstorage-forspoken-loads-in-only-one-second)
- - [You Can Boost Your Elden Ring Runes Without Really Trying](https://kotaku.com/elden-ring-runes-farm-boost-how-to-where-gold-pickled-f-1848688817)<!-- GAME:END -->
+ - [Vote in the semi-finals of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
+ - [Free Play Days – Lost Judgment, Before We Leave, and Far Cry 6](https://news.xbox.com/en-us/2022/03/24/free-play-days-lost-judgment-before-we-leave-and-far-cry-6/)
+ - [We drafted Looney Tunes basketball teams to pick the true Space Jam winner](https://www.polygon.com/22992808/best-looney-tunes-characters-basketball-space-jam-teams-draft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
