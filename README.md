@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD FSR 2.0 upscaling is tuned to run faster on RDNA 2-powered graphics cards](https://www.pcgamer.com/amd-fsr-2-rdna-2-optimisations)
  - [Today&#39;s Wordle answer #278: Thursday, March 24](https://www.pcgamer.com/wordle-march-24-278)
- - [&#39;Netflix of games&#39; isn&#39;t likely, says analyst](https://www.pcgamer.com/netflix-of-games-isnt-likely-says-analyst)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [&#39;Netflix of games&#39; isn&#39;t likely, says analyst](https://www.pcgamer.com/netflix-of-games-isnt-likely-says-analyst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
