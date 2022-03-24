@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zelenskyy message from March 24](http://9gag.com/gag/arnXpmX)
- - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)
- - 🚯 [RIP to Steven Wilhite, the inventor of the GIF. Salute to the man who launched a million internet arguments.](http://9gag.com/gag/avA62MO)<!-- MEMES:END -->
+ - 🚖 [This will never happen again](http://9gag.com/gag/apg6EXp)
+ - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)
+ - 🚯 [Literally copy cat](http://9gag.com/gag/ay96588)<!-- MEMES:END -->
 
 --- 
 
