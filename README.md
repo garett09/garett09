@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD FSR 2.0 upscaling is tuned to run faster on RDNA 2-powered graphics cards](https://www.pcgamer.com/amd-fsr-2-rdna-2-optimisations)
- - [Today&#39;s Wordle answer #278: Thursday, March 24](https://www.pcgamer.com/wordle-march-24-278)
- - [&#39;Netflix of games&#39; isn&#39;t likely, says analyst](https://www.pcgamer.com/netflix-of-games-isnt-likely-says-analyst)<!-- GAME:END -->
+ - [Tom Nook or Mayor Lewis — who’s the most ruthless leader?](https://www.polygon.com/22978253/animal-crossing-tom-nook-stardew-valley-mayor-lewis-ruthless)
+ - [Microsoft Flight Simulator Releases World Update VIII: Spain, Portugal, Gibraltar, and Andorra](https://news.xbox.com/en-us/2022/03/24/microsoft-flight-simulator-releases-world-update-8/)
+ - [AMD doesn&#39;t recommend using a GTX 1060 with frame-rate boosting FSR 2.0](https://www.pcgamer.com/amd-doesnt-recommend-using-a-gtx-1060-with-frame-rate-boosting-fsr-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
