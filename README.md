@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This will never happen again](http://9gag.com/gag/apg6EXp)
- - 🚯 [So tell me what you want, what you really really want](http://9gag.com/gag/aAGKYXp)
- - 🚯 [Literally copy cat](http://9gag.com/gag/ay96588)<!-- MEMES:END -->
+ - 🚖 [Mission Possible](http://9gag.com/gag/aVxKOAd)
+ - 🚯 [OK, wtf is going on here?](http://9gag.com/gag/agg7yLK)
+ - 🚯 [Work work](http://9gag.com/gag/aAGKYM9)<!-- MEMES:END -->
 
 --- 
 
