@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix bought yet another studio as part of gaming push](https://www.theverge.com/2022/3/24/22995286/netflix-games-boss-fight-entertainment-acquisition)
- - [The DOJ arrest and charge two men with wire fraud and money laundering over a $1.1M NFT rug pull scheme for their collection named &quot;Frosties&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220324/p26#a220324p26)
- - [How to do a hanging indent on Google Slides](https://www.androidauthority.com/hanging-indent-google-slides-3141689/)<!-- TECH:END -->
+ - [Netflix says it is buying Boss Fight Entertainment, a mobile game developer with 130 employees; it is Netflix&#39;s third studio purchase since last summer &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220324/p28#a220324p28)
+ - [How to silence your Apple Watch](https://www.androidauthority.com/how-to-silence-apple-watch-3137524/)
+ - [EU targets Big Tech with sweeping new antitrust legislation](https://www.theverge.com/2022/3/24/22994234/eu-antitrust-legislation-dma-digital-markets-act-details)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
