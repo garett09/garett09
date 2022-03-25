@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote in the final round of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
- - [Turbo Golf Racing on Course for Xbox One, Xbox Series X|S, and with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/25/turbo-golf-racing-on-course-for-xbox/)
- - [Elden Ring&#39;s Wolf Pack Ashes Are Loyal Pups, And Therefore The Best](https://kotaku.com/elden-ring-lone-wolf-spirit-ashes-how-to-get-church-ell-1848703303)<!-- GAME:END -->
+ - [Share of the Week: In Motion](https://blog.playstation.com/2022/03/25/share-of-the-week-in-motion/)
+ - [Share of the Week: In Motion](https://blog.playstation.com/2022/03/25/share-of-the-week-in-motion/)
+ - [Bloodborne PS1 demake creators are now making Bloodborne Kart](https://www.polygon.com/22996161/bloodborne-psx-demake-kart-racing-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
