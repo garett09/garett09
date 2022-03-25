@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart is slashing its valuation by almost 40% to $24B, down from $39B from March 2021 when it raised $265M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p32#a220324p32)
- - [Canada sees Apple Maps expansion in Toronto, Vancouver, and Montreal](https://appleinsider.com/articles/22/03/25/canada-sees-apple-maps-expansion-in-toronto-vancouver-and-montreal?utm_medium=rss)
- - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-reality-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU to require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)
+ - [How to delete a Discord server](https://www.androidauthority.com/delete-discord-server-3143908/)
+ - [Instacart is slashing its valuation by almost 40% to $24B, down from $39B from March 2021 when it raised $265M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p32#a220324p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
