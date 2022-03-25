@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [North Korean TV station&#39;s missile launch scene](http://9gag.com/gag/a110d4D)
- - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)
- - 🚯 [Amerikraine](http://9gag.com/gag/aM4P8bP)<!-- MEMES:END -->
+ - 🚖 [Smiley Boi](http://9gag.com/gag/a51wbBr)
+ - 🚯 [Dream come true](http://9gag.com/gag/azeK86j)
+ - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)<!-- MEMES:END -->
 
 --- 
 
