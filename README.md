@@ -199,7 +199,7 @@ Windows                  8 hrs 8 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Happy birthday to me.Noone of my friends wished me , so here am i drinking alone.Thank you for all of the laught and support.](http://9gag.com/gag/agg7G0n)
  - 🚯 [Whose begging now.. . Got what he deserves.](http://9gag.com/gag/aWgn6Mx)
- - 🚯 [Polish army joining the war.](http://9gag.com/gag/ang2NwB)<!-- MEMES:END -->
+ - 🚯 [Adults: `If you hate people, why do you want to become a teacher? Your students will discourage you soon!`](http://9gag.com/gag/aRrMVWy)<!-- MEMES:END -->
 
 --- 
 
