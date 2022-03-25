@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 greatest video game losers, ranked](https://www.polygon.com/22988843/25-best-video-game-losers-ranked)
- - [Windows 10 Pro vs Home: what&#39;s the difference?](https://www.pcgamer.com/whats-the-difference-between-windows-10-home-and-pro)
- - [The Witcher: Ronin manga free preview showcases Geralt&#39;s troubles in Japan](https://www.pcgamer.com/the-witcher-ronin-manga-free-preview-showcases-geralts-troubles-in-japan)<!-- GAME:END -->
+ - [From Fanboy to Developer, the Dream of Publishing on Xbox](https://news.xbox.com/en-us/2022/03/25/from-fanboy-to-developer-bouncyboi-in-puzzleland/)
+ - [Report: Sony Game Pass Competitor Coming Soon, Probably Won’t Have God Of War Ragnarök](https://kotaku.com/sony-ps5-game-pass-spartacus-god-war-ragnarok-reveal-ps-1848704646)
+ - [Destiny 2 Xur location and items, March 25-29](https://www.polygon.com/destiny-2-guide-walkthrough/2022/3/25/22996431/destiny-2-xur-location-items-march-25-29)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
