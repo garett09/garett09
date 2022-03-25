@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next phone might have a color-changing leather back](https://www.androidauthority.com/color-changing-leather-back-smartphones-3144099/)
- - [Is YouTube not working? Here’s what you can do to fix it](https://www.androidauthority.com/youtube-not-working-811174/)
- - [Apple is reportedly planning a 15-inch MacBook Air](https://www.theverge.com/2022/3/25/22995892/apple-15-inch-laptop-macbook-air-rumor-report)<!-- TECH:END -->
+ - [EU will require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)
+ - [How to get a PayPal debit or prepaid card](https://www.androidauthority.com/paypal-debit-prepaid-card-3143874/)
+ - [Xiaomi 12 Pro review: A near hit](https://www.androidauthority.com/xiaomi-12-pro-review-3137803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
