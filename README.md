@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ charges four Russian officials for alleged hacking campaigns targeting critical US infrastructure, including a Kansas nuclear plant, from 2012 to 2018 &lpar;New York Times&rpar;](http://www.techmeme.com/220324/p31#a220324p31)
- - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
- - [Filing: Apple argues that Epic lost the Epic v. Apple trial because it failed to prove wrongdoing and not because of any legal errors on the judge&#39;s part &lpar;Mike Peterson/AppleInsider&rpar;](http://www.techmeme.com/220324/p30#a220324p30)<!-- TECH:END -->
+ - [Instacart is slashing its valuation by almost 40% to $24B, down from $39B from March 2021 when it raised $265M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p32#a220324p32)
+ - [Canada sees Apple Maps expansion in Toronto, Vancouver, and Montreal](https://appleinsider.com/articles/22/03/25/canada-sees-apple-maps-expansion-in-toronto-vancouver-and-montreal?utm_medium=rss)
+ - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-reality-tv-shows-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
