@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where is Fitbit’s Wear OS watch?](https://www.theverge.com/2022/3/25/22996549/fitbit-wear-os-smartwatch-fitness-tracker)
- - [Video game history is colliding: Sierra founders are bringing a seminal text adventure game to VR](https://www.theverge.com/2022/3/25/22996436/sierra-ken-roberta-williams-colossal-cave-adventure-advent-vr-oculus-quest-2)
- - [Ikea introduces water-resistant Vappeby Bluetooth speaker lamp](https://appleinsider.com/articles/22/03/25/ikea-introduces-water-resistant-vappeby-bluetooth-speaker-lamp?utm_medium=rss)<!-- TECH:END -->
+ - [The latest Pixel 6 update turned notification vibrations way down](https://www.theverge.com/2022/3/25/22996788/google-pixel-6-pro-notification-vibration-weak-march-update)
+ - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
+ - [The US FCC adds Kaspersky Lab, China Telecom &lpar;Americas&rpar;, and China Mobile International USA to its national security threat list &lpar;Reuters&rpar;](http://www.techmeme.com/220325/p16#a220325p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
