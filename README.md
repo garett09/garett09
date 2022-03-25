@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to leave a Discord server](https://www.androidauthority.com/leaving-discord-servers-3143022/)
- - [New 15-inch MacBook may not be MacBook Air, says Kuo](https://appleinsider.com/articles/22/03/25/new-15-inch-macbook-may-not-be-macbook-air-says-kuo?utm_medium=rss)
- - [Feds Allege Destructive Russian Hackers Targeted US Refineries](https://www.wired.com/story/triton-berserk-bear-russian-hackers-doj-indictment)<!-- TECH:END -->
+ - [The DOJ charges four Russian officials for alleged hacking campaigns targeting critical US infrastructure, including a Kansas nuclear plant, from 2012 to 2018 &lpar;New York Times&rpar;](http://www.techmeme.com/220324/p31#a220324p31)
+ - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
+ - [Filing: Apple argues that Epic lost the Epic v. Apple trial because it failed to prove wrongdoing and not because of any legal errors on the judge&#39;s part &lpar;Mike Peterson/AppleInsider&rpar;](http://www.techmeme.com/220324/p30#a220324p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
