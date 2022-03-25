@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says it is buying Boss Fight Entertainment, a mobile game developer with 130 employees; it is Netflix&#39;s third studio purchase since last summer &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220324/p28#a220324p28)
- - [How to silence your Apple Watch](https://www.androidauthority.com/how-to-silence-apple-watch-3137524/)
- - [EU targets Big Tech with sweeping new antitrust legislation](https://www.theverge.com/2022/3/24/22994234/eu-antitrust-legislation-dma-digital-markets-act-details)<!-- TECH:END -->
+ - [How to leave a Discord server](https://www.androidauthority.com/leaving-discord-servers-3143022/)
+ - [New 15-inch MacBook may not be MacBook Air, says Kuo](https://appleinsider.com/articles/22/03/25/new-15-inch-macbook-may-not-be-macbook-air-says-kuo?utm_medium=rss)
+ - [Feds Allege Destructive Russian Hackers Targeted US Refineries](https://www.wired.com/story/triton-berserk-bear-russian-hackers-doj-indictment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
