@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your next phone might have a color-changing leather back](https://www.androidauthority.com/color-changing-leather-back-smartphones-3144099/)
  - [Is YouTube not working? Here’s what you can do to fix it](https://www.androidauthority.com/youtube-not-working-811174/)
- - [Apple is reportedly planning a 15-inch MacBook Air](https://www.theverge.com/2022/3/25/22995892/apple-15-inch-laptop-macbook-air-rumor-report)
- - [Sources: Indonesia&#39;s GoTo raises ~$1.1B in its IPO at 338 rupiah per share; 10 other companies have raised about $172M in IPOs in Jakarta this year, up 30%+ YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p2#a220325p2)<!-- TECH:END -->
+ - [Apple is reportedly planning a 15-inch MacBook Air](https://www.theverge.com/2022/3/25/22995892/apple-15-inch-laptop-macbook-air-rumor-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
