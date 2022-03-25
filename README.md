@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From Fanboy to Developer, the Dream of Publishing on Xbox](https://news.xbox.com/en-us/2022/03/25/from-fanboy-to-developer-bouncyboi-in-puzzleland/)
- - [Report: Sony Game Pass Competitor Coming Soon, Probably Won’t Have God Of War Ragnarök](https://kotaku.com/sony-ps5-game-pass-spartacus-god-war-ragnarok-reveal-ps-1848704646)
- - [Destiny 2 Xur location and items, March 25-29](https://www.polygon.com/destiny-2-guide-walkthrough/2022/3/25/22996431/destiny-2-xur-location-items-march-25-29)<!-- GAME:END -->
+ - [What’s up with Margit?](https://www.polygon.com/videos/22996414/elden-ring-margit-is-hard)
+ - [Official PlayStation Podcast Episode 426: Returning](https://blog.playstation.com/2022/03/25/official-playstation-podcast-episode-426-returning/)
+ - [Official PlayStation Podcast Episode 426: Returning](https://blog.playstation.com/2022/03/25/official-playstation-podcast-episode-426-returning/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
