@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU to require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)
- - [Stellantis Unveils the Hurricane, a Clean-Sheet 3.0-Liter Inline-6 Turbo     - Roadshow](https://www.cnet.com/roadshow/news/stellantis-hurricane-3-liter-inline-6-turbo-gas-engine/#ftag=CAD590a51e)
- - [How to delete a Discord server](https://www.androidauthority.com/delete-discord-server-3143908/)<!-- TECH:END -->
+ - [Here are all the brands reportedly readying Snapdragon 8 Gen 1 Plus phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-1-plus-3143985/)
+ - [Antarctic Ice Shelf, Almost as Big as Los Angeles, Completely Collapses     - CNET](https://www.cnet.com/science/climate/antarctic-ice-shelf-almost-as-big-as-los-angeles-completely-collapses/#ftag=CAD590a51e)
+ - [EU to require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
