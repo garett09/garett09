@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s up with Margit?](https://www.polygon.com/videos/22996414/elden-ring-margit-is-hard)
- - [Official PlayStation Podcast Episode 426: Returning](https://blog.playstation.com/2022/03/25/official-playstation-podcast-episode-426-returning/)
- - [Official PlayStation Podcast Episode 426: Returning](https://blog.playstation.com/2022/03/25/official-playstation-podcast-episode-426-returning/)<!-- GAME:END -->
+ - [I’m running a GTA Online RP forgery scheme and I won’t stop](https://www.polygon.com/22996616/gta-online-roleplay-forgery-scheme-butler-shady-dan)
+ - [A Few Hours In, I Can Tell Tiny Tina’s Wonderlands Will Destroy My Free Time](https://kotaku.com/tiny-tinas-wonderlands-borderlands-spinoff-impressions-1848705496)
+ - [Elden Ring Bleeding Glitch Makes Some Dogs Its Most Dangerous Enemies](https://kotaku.com/elden-ring-fromsoftware-dogs-bleed-writheblood-ruins-bu-1848705298)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
