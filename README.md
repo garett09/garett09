@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m running a GTA Online RP forgery scheme and I won’t stop](https://www.polygon.com/22996616/gta-online-roleplay-forgery-scheme-butler-shady-dan)
- - [A Few Hours In, I Can Tell Tiny Tina’s Wonderlands Will Destroy My Free Time](https://kotaku.com/tiny-tinas-wonderlands-borderlands-spinoff-impressions-1848705496)
- - [Elden Ring Bleeding Glitch Makes Some Dogs Its Most Dangerous Enemies](https://kotaku.com/elden-ring-fromsoftware-dogs-bleed-writheblood-ruins-bu-1848705298)<!-- GAME:END -->
+ - [Our Flag Means Death’s creator on the show fandom and future, in season 2 and beyond](https://www.polygon.com/22996627/our-flag-means-death-season-2-plan-david-jenkins-interview)
+ - [The Atlanta mindset is still like nothing on television](https://www.polygon.com/22996732/atlanta-season-3-review)
+ - [Call of Duty: Warzone can&#39;t have more maps because install sizes are &#39;f**king crazy&#39;](https://www.pcgamer.com/call-of-duty-warzone-cant-have-more-maps-because-install-sizes-are-fking-crazy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
