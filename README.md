@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: In Motion](https://blog.playstation.com/2022/03/25/share-of-the-week-in-motion/)
- - [Share of the Week: In Motion](https://blog.playstation.com/2022/03/25/share-of-the-week-in-motion/)
- - [Bloodborne PS1 demake creators are now making Bloodborne Kart](https://www.polygon.com/22996161/bloodborne-psx-demake-kart-racing-game)<!-- GAME:END -->
+ - [The 25 greatest video game losers, ranked](https://www.polygon.com/22988843/25-best-video-game-losers-ranked)
+ - [Windows 10 Pro vs Home: what&#39;s the difference?](https://www.pcgamer.com/whats-the-difference-between-windows-10-home-and-pro)
+ - [The Witcher: Ronin manga free preview showcases Geralt&#39;s troubles in Japan](https://www.pcgamer.com/the-witcher-ronin-manga-free-preview-showcases-geralts-troubles-in-japan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
