@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the brands reportedly readying Snapdragon 8 Gen 1 Plus phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-1-plus-3143985/)
- - [Antarctic Ice Shelf, Almost as Big as Los Angeles, Completely Collapses     - CNET](https://www.cnet.com/science/climate/antarctic-ice-shelf-almost-as-big-as-los-angeles-completely-collapses/#ftag=CAD590a51e)
- - [EU to require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)<!-- TECH:END -->
+ - [In a report, International Organization of Securities Commissions compares DeFi to dotcom bubble, says most DeFi protocols are centralized in one or more areas &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220325/p1#a220325p1)
+ - [There could be a long wait between the Pixel 6a launch and availability](https://www.androidauthority.com/google-pixel-6a-launch-availability-3143990/)
+ - [You can now pre-order the OnePlus 10 Pro in the US for just $1](https://www.androidauthority.com/oneplus-10-pro-pre-order-3144015/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
