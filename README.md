@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy birthday to me.Noone of my friends wished me , so here am i drinking alone.Thank you for all of the laught and support.](http://9gag.com/gag/agg7G0n)
- - 🚯 [I need to sell a kidney](http://9gag.com/gag/a8104OV)
- - 🚯 [Adults: `If you hate people, why do you want to become a teacher? Your students will discourage you soon!`](http://9gag.com/gag/aRrMVWy)<!-- MEMES:END -->
+ - 🚖 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)
+ - 🚯 [Wanted to show this mug that I made after 2,5 years of doing ceramics.](http://9gag.com/gag/a810MDO)
+ - 🚯 [I need to sell a kidney](http://9gag.com/gag/a8104OV)<!-- MEMES:END -->
 
 --- 
 
