@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s &#39;No Building&#39; mode will be made permanent, dataminers say](https://www.pcgamer.com/fortnites-no-building-mode-will-be-made-permanent-dataminers-say)
- - [The Time I Have Left is a &#39;time-driven escape adventure&#39; with a lot of style](https://www.pcgamer.com/the-time-i-have-left-is-a-time-driven-escape-adventure-with-a-lot-of-style)
- - [Your first look at the next Dungeons &amp; Dragons Magic: The Gathering crossover set](https://www.polygon.com/22995272/dnd-magic-the-gathering-crossover-set-baldurs-gate-commander-edh-preview-cards)<!-- GAME:END -->
+ - [Maradona &#39;Suspended&#39; From FIFA Because His Image Rights Are An Absolute Shambles](https://kotaku.com/diego-maradona-fifa-22-ea-sports-image-rights-legal-sat-1848701001)
+ - [The Cub is a post-apocalyptic platformer reminiscent of The Jungle Book](https://www.polygon.com/22995482/the-cub-post-apocalyptic-platformer-the-jungle-book)
+ - [Major Street Fighter V battle balance and extra aesthetic features coming March 29](https://blog.playstation.com/2022/03/24/major-street-fighter-v-battle-balance-and-extra-aesthetic-features-coming-march-29/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
