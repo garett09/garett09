@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a report, International Organization of Securities Commissions compares DeFi to dotcom bubble, says most DeFi protocols are centralized in one or more areas &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220325/p1#a220325p1)
- - [There could be a long wait between the Pixel 6a launch and availability](https://www.androidauthority.com/google-pixel-6a-launch-availability-3143990/)
- - [You can now pre-order the OnePlus 10 Pro in the US for just $1](https://www.androidauthority.com/oneplus-10-pro-pre-order-3144015/)<!-- TECH:END -->
+ - [Is YouTube not working? Here’s what you can do to fix it](https://www.androidauthority.com/youtube-not-working-811174/)
+ - [Apple is reportedly planning a 15-inch MacBook Air](https://www.theverge.com/2022/3/25/22995892/apple-15-inch-laptop-macbook-air-rumor-report)
+ - [Sources: Indonesia&#39;s GoTo raises ~$1.1B in its IPO at 338 rupiah per share; 10 other companies have raised about $172M in IPOs in Jakarta this year, up 30%+ YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p2#a220325p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
