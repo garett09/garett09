@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU will require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)
- - [How to get a PayPal debit or prepaid card](https://www.androidauthority.com/paypal-debit-prepaid-card-3143874/)
- - [Xiaomi 12 Pro review: A near hit](https://www.androidauthority.com/xiaomi-12-pro-review-3137803/)<!-- TECH:END -->
+ - [EU will force Apple &amp; Google to allow third-party app stores, payment services](https://appleinsider.com/articles/22/03/25/eu-will-force-apple-google-to-allow-third-party-app-stores-payment-services?utm_medium=rss)
+ - [3 ways to find your Roku’s IP address](https://www.androidauthority.com/roku-ip-address-3143561/)
+ - [Smartphones as a service? Apple could be working on iPhone subscription program](https://www.androidauthority.com/iphone-subscription-program-3144213/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
