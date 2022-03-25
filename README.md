@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Devil May Cry Plastered All Over Japanese Capsule Hotel Room](https://kotaku.com/devil-may-cry-dmc-capcom-japan-capsule-hotel-room-touri-1848702363)
  - [Gran Turismo 7: An update from Polyphony Digital](https://blog.playstation.com/2022/03/25/gran-turismo-7-an-update-from-polyphony-digital/)
- - [Gran Turismo 7: An update from Polyphony Digital](https://blog.playstation.com/2022/03/25/gran-turismo-7-an-update-from-polyphony-digital/)
- - [Where to get more Katashiro in Ghostwire: Tokyo](https://www.polygon.com/guides/22993271/ghostwire-tokyo-where-to-find-katashiro)<!-- GAME:END -->
+ - [Gran Turismo 7: An update from Polyphony Digital](https://blog.playstation.com/2022/03/25/gran-turismo-7-an-update-from-polyphony-digital/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
