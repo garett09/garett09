@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Flag Means Death’s creator on the show fandom and future, in season 2 and beyond](https://www.polygon.com/22996627/our-flag-means-death-season-2-plan-david-jenkins-interview)
- - [The Atlanta mindset is still like nothing on television](https://www.polygon.com/22996732/atlanta-season-3-review)
- - [Call of Duty: Warzone can&#39;t have more maps because install sizes are &#39;f**king crazy&#39;](https://www.pcgamer.com/call-of-duty-warzone-cant-have-more-maps-because-install-sizes-are-fking-crazy)<!-- GAME:END -->
+ - [Power Chord follows in the deckbuilding footsteps of Slay the Spire, but with more electric guitars](https://www.pcgamer.com/power-chord-follows-in-the-deckbuilding-footsteps-of-slay-the-spire-but-with-more-electric-guitars)
+ - [New Jackass, Olivia Rodrigo’s Sour movie, and 10 more new releases you can watch at home](https://www.polygon.com/22988910/new-movies-watch-jackass-forever-paramount-plus-olivia-rodrigo-sour-movie-disney-plus)
+ - [Why it matters ‘who would win’ in pop culture debates](https://www.polygon.com/entertainment/2022/3/25/22996758/who-would-win-in-a-fight-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
