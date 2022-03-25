@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such an amazing production! Is this still on?](http://9gag.com/gag/aYrDK9N)
+ - 🚖 [North Korean TV station&#39;s missile launch scene](http://9gag.com/gag/a110d4D)
  - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)
- - 🚯 [North Korean TV station&#39;s missile launch scene](http://9gag.com/gag/a110d4D)<!-- MEMES:END -->
+ - 🚯 [Amerikraine](http://9gag.com/gag/aM4P8bP)<!-- MEMES:END -->
 
 --- 
 
