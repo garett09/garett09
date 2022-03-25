@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still not in compliance with Dutch App Store rules, regulator says](https://appleinsider.com/articles/22/03/25/apple-still-not-in-compliance-with-dutch-app-store-rules-regulator-says?utm_medium=rss)
- - [Bloodborne Kart is a new fan project from the makers of the PSX demake](https://www.theverge.com/2022/3/25/22996465/bloodborne-kart-psx-demake)
- - [Sources: Exxon is running a pilot to use excess natural gas from North Dakota oil wells to power crypto mining and is considering expanding the test globally &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/220325/p13#a220325p13)<!-- TECH:END -->
+ - [A group of 12 Google Fiber workers in Kansas City becomes the first NLRB-recognized bargaining unit of the Alphabet Workers Union, a branch of the CWA &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220325/p15#a220325p15)
+ - [Gran Turismo 7’s developers apologize for the grind, promise fixes and a million free credits](https://www.theverge.com/2022/3/25/22996282/gran-turismo-7-polyphony-digital-grind-credits-changes-sell-cars-endurance)
+ - [Pokemon Go April Events: Tapu Bulu, New Spotlight Hours and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-april-events-tapu-bulu-new-spotlight-hours-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
