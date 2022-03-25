@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring speedrunners laugh in the face of a mere patch to their exploits](https://www.pcgamer.com/elden-ring-speedrunners-laugh-in-the-face-of-a-mere-patch-to-their-exploits)
- - [Where to find the pope turtle in Elden Ring](https://www.pcgamer.com/celestial-dew-elden-ring-pope-turtle-location)
- - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
+ - [Which Soulcalibur fighter could really defeat Yoda?](https://www.polygon.com/22993432/soulcalibur-4-yoda-who-would-win)
+ - [Halo Teams Up with Wolverine for Spartan-Inspired Boots Series](https://news.xbox.com/en-us/2022/03/25/halo-teams-up-with-wolverine-for-spartan-inspired-boots-series/)
+ - [Gran Turismo 7 players awarded 1M free credits after backlash over downtime and grind](https://www.polygon.com/22995971/gran-turismo-7-ps5-updates-free-credits-offline-grind-economy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
