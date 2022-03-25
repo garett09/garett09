@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dream come true](http://9gag.com/gag/azeK86j)
- - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)
- - 🚯 [Language efficiency](http://9gag.com/gag/a810yY6)<!-- MEMES:END -->
+ - 🚖 [Dude went to another universe](http://9gag.com/gag/ajgLNL8)
+ - 🚯 [Language efficiency](http://9gag.com/gag/a810yY6)
+ - 🚯 [Bored](http://9gag.com/gag/a710D42)<!-- MEMES:END -->
 
 --- 
 
