@@ -191,8 +191,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- TECH:START -->
  - [EU to require iMessage, WhatsApp to communicate with smaller messaging services](https://appleinsider.com/articles/22/03/25/eu-to-require-imessage-whatsapp-to-communicate-with-smaller-messaging-services?utm_medium=rss)
- - [How to delete a Discord server](https://www.androidauthority.com/delete-discord-server-3143908/)
- - [Instacart is slashing its valuation by almost 40% to $24B, down from $39B from March 2021 when it raised $265M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220324/p32#a220324p32)<!-- TECH:END -->
+ - [Stellantis Unveils the Hurricane, a Clean-Sheet 3.0-Liter Inline-6 Turbo     - Roadshow](https://www.cnet.com/roadshow/news/stellantis-hurricane-3-liter-inline-6-turbo-gas-engine/#ftag=CAD590a51e)
+ - [How to delete a Discord server](https://www.androidauthority.com/delete-discord-server-3143908/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
