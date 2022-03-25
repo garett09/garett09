@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which Soulcalibur fighter could really defeat Yoda?](https://www.polygon.com/22993432/soulcalibur-4-yoda-who-would-win)
- - [Halo Teams Up with Wolverine for Spartan-Inspired Boots Series](https://news.xbox.com/en-us/2022/03/25/halo-teams-up-with-wolverine-for-spartan-inspired-boots-series/)
- - [Gran Turismo 7 players awarded 1M free credits after backlash over downtime and grind](https://www.polygon.com/22995971/gran-turismo-7-ps5-updates-free-credits-offline-grind-economy)<!-- GAME:END -->
+ - [Next Week on Xbox: March 28 to April 1](https://news.xbox.com/en-us/2022/03/25/next-week-on-xbox-march-28-to-april-1/)
+ - [Has Nvidia just become the good guy in the whole DLSS vs FSR vs XeSS debate?](https://www.pcgamer.com/has-nvidia-just-become-the-good-guy-in-the-whole-dlss-vs-fsr-vs-xess-debate)
+ - [Konami&#39;s Crimesight is anime Sherlock meets Clue, and looks kinda great](https://www.pcgamer.com/konamis-crimesight-is-anime-sherlock-meets-clue-and-looks-kinda-great)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
