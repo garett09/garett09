@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just buy a home](http://9gag.com/gag/aPZoMnB)
- - 🚯 [Simple &amp; brief!](http://9gag.com/gag/aKmv2rj)
- - 🚯 [Remember your trash](http://9gag.com/gag/aNPQd2r)<!-- MEMES:END -->
+ - 🚖 [Honestly?](http://9gag.com/gag/a810pB1)
+ - 🚯 [#90&#39;s Kid](http://9gag.com/gag/ang2yRo)
+ - 🚯 [Simple &amp; brief!](http://9gag.com/gag/aKmv2rj)<!-- MEMES:END -->
 
 --- 
 
