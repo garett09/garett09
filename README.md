@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Europe changing](http://9gag.com/gag/aBnV8LA)
- - 🚯 [Okay, smart move ngl](http://9gag.com/gag/aegZbXb)
+ - 🚖 [Ever wonder what true happiness feels like..?](http://9gag.com/gag/aYrDg57)
+ - 🚯 [I think its therapy to wonder around Walmart or Home Depot](http://9gag.com/gag/a41NGjd)
  - 🚯 [Did You kow that that putting letter Z on your car makes yours windows crack ?](http://9gag.com/gag/aVxK3gd)<!-- MEMES:END -->
 
 --- 
