@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Polish army joining the war.](http://9gag.com/gag/ang2NwB)
- - 🚯 [I wanted to treat myself. My favorite place closed because of Covid, they opened lately but not many people go there now. I went by myself just to support them so that they don&#39;t close](http://9gag.com/gag/aAGK1ZZ)
- - 🚯 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)<!-- MEMES:END -->
+ - 🚖 [Just buy a home](http://9gag.com/gag/aPZoMnB)
+ - 🚯 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)
+ - 🚯 [Hell yess](http://9gag.com/gag/a41NjRd)<!-- MEMES:END -->
 
 --- 
 
