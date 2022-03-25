@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic isn’t satisfied by Google’s app store billing stunt](https://www.theverge.com/2022/3/25/22996260/epic-games-google-android-billing-pilot)
- - [Indian parliament approves a 30% capital gains tax on crypto transactions, in effect starting April 1 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220325/p12#a220325p12)
- - [GTA Online is adding a new subscription service](https://www.theverge.com/2022/3/25/22996408/gta-online-rockstar-games-subscription-service)<!-- TECH:END -->
+ - [Apple still not in compliance with Dutch App Store rules, regulator says](https://appleinsider.com/articles/22/03/25/apple-still-not-in-compliance-with-dutch-app-store-rules-regulator-says?utm_medium=rss)
+ - [Bloodborne Kart is a new fan project from the makers of the PSX demake](https://www.theverge.com/2022/3/25/22996465/bloodborne-kart-psx-demake)
+ - [Sources: Exxon is running a pilot to use excess natural gas from North Dakota oil wells to power crypto mining and is considering expanding the test globally &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/220325/p13#a220325p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
