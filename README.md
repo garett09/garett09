@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scythe vs bush cutter](http://9gag.com/gag/aOQZdR3)
+ - 🚖 [Such an amazing production! Is this still on?](http://9gag.com/gag/aYrDK9N)
  - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)
- - 🚯 [Oh thank god the ambulance is here!](http://9gag.com/gag/aDD8WP7)<!-- MEMES:END -->
+ - 🚯 [North Korean TV station&#39;s missile launch scene](http://9gag.com/gag/a110d4D)<!-- MEMES:END -->
 
 --- 
 
