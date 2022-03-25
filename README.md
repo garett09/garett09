@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)
- - 🚯 [Wanted to show this mug that I made after 2,5 years of doing ceramics.](http://9gag.com/gag/a810MDO)
- - 🚯 [I need to sell a kidney](http://9gag.com/gag/a8104OV)<!-- MEMES:END -->
+ - 🚖 [Polish army joining the war.](http://9gag.com/gag/ang2NwB)
+ - 🚯 [I wanted to treat myself. My favorite place closed because of Covid, they opened lately but not many people go there now. I went by myself just to support them so that they don&#39;t close](http://9gag.com/gag/aAGK1ZZ)
+ - 🚯 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)<!-- MEMES:END -->
 
 --- 
 
