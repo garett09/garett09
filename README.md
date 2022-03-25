@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Google criticize the newly unveiled Digital Markets Act that will force companies designated as gatekeepers to open up their platforms to competitors &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220325/p10#a220325p10)
- - [Apple&#39;s M1 Max 16-inch MacBook Pro is $200 off today, units shipping soon](https://appleinsider.com/articles/22/03/25/apples-m1-max-16-inch-macbook-pro-is-200-off-today-units-shipping-soon?utm_medium=rss)
- - [The UN plans to extend weather warning systems to everyone on the planet](https://www.theverge.com/2022/3/25/22996059/united-nations-early-warning-systems-extreme-weather-climate-disasters)<!-- TECH:END -->
+ - [Epic isn’t satisfied by Google’s app store billing stunt](https://www.theverge.com/2022/3/25/22996260/epic-games-google-android-billing-pilot)
+ - [Indian parliament approves a 30% capital gains tax on crypto transactions, in effect starting April 1 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220325/p12#a220325p12)
+ - [GTA Online is adding a new subscription service](https://www.theverge.com/2022/3/25/22996408/gta-online-rockstar-games-subscription-service)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
