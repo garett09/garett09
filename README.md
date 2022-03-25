@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes sense for me :/](http://9gag.com/gag/aAGKp2o)
- - 🚯 [Brexit means brexit...](http://9gag.com/gag/aogR0de)
- - 🚯 [I just don&#39;t get it](http://9gag.com/gag/apg6BgE)<!-- MEMES:END -->
+ - 🚖 [I just don&#39;t get it](http://9gag.com/gag/apg6BgE)
+ - 🚯 [Polish army joining the war.](http://9gag.com/gag/ang2NwB)
+ - 🚯 [People should respect black people&#39;s claim to dreads...its all they have.](http://9gag.com/gag/aYrDeQ2)<!-- MEMES:END -->
 
 --- 
 
