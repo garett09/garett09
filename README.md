@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU will force Apple &amp; Google to allow third-party app stores, payment services](https://appleinsider.com/articles/22/03/25/eu-will-force-apple-google-to-allow-third-party-app-stores-payment-services?utm_medium=rss)
- - [3 ways to find your Roku’s IP address](https://www.androidauthority.com/roku-ip-address-3143561/)
- - [Smartphones as a service? Apple could be working on iPhone subscription program](https://www.androidauthority.com/iphone-subscription-program-3144213/)<!-- TECH:END -->
+ - [How to use the Apple Watch’s Walkie Talkie feature](https://www.androidauthority.com/how-to-use-apple-watch-walkie-talkie-3138352/)
+ - [Apple TV’s Pachinko is an enthralling historical epic](https://www.theverge.com/22994343/pachinko-review-apple-tv-plus)
+ - [Daily deals March 25: $100 or more off 24-inch iMac, big Eero mesh router sale, 33% off on Roborock robot vacuum, more!](https://appleinsider.com/articles/22/03/25/daily-deals-march-25-100-or-more-off-24-inch-imac-big-eero-mesh-router-sale-33-off-on-roborock-robot-vacuum-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
