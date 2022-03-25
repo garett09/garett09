@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: March 28 to April 1](https://news.xbox.com/en-us/2022/03/25/next-week-on-xbox-march-28-to-april-1/)
- - [Has Nvidia just become the good guy in the whole DLSS vs FSR vs XeSS debate?](https://www.pcgamer.com/has-nvidia-just-become-the-good-guy-in-the-whole-dlss-vs-fsr-vs-xess-debate)
- - [Konami&#39;s Crimesight is anime Sherlock meets Clue, and looks kinda great](https://www.pcgamer.com/konamis-crimesight-is-anime-sherlock-meets-clue-and-looks-kinda-great)<!-- GAME:END -->
+ - [Vote in the final round of our Who Would Win Week tournament](https://www.polygon.com/22983042/who-would-win-week-bracket-2022)
+ - [Turbo Golf Racing on Course for Xbox One, Xbox Series X|S, and with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/25/turbo-golf-racing-on-course-for-xbox/)
+ - [Elden Ring&#39;s Wolf Pack Ashes Are Loyal Pups, And Therefore The Best](https://kotaku.com/elden-ring-lone-wolf-spirit-ashes-how-to-get-church-ell-1848703303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
