@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to the type the Apple logo on Mac, iPhone, and iPad](https://appleinsider.com/articles/22/03/25/how-to-the-type-the-apple-logo-on-mac-iphone-and-ipad?utm_medium=rss)
- - [OPPO Find X5 Pro giveaway: Win one of two flagship phones!](https://www.androidauthority.com/oppo-find-x5-pro-giveaway-3139652/)
- - [Podcast app Overcast is getting a big design overhaul](https://www.theverge.com/2022/3/25/22995054/overcast-podcast-app-updated-design-playlists-library-management)<!-- TECH:END -->
+ - [How to make a new or existing post on Facebook shareable](https://www.androidauthority.com/make-post-shareable-facebook-3144407/)
+ - [How to type the Apple logo on Mac, iPhone, and iPad](https://appleinsider.com/articles/22/03/25/how-to-the-type-the-apple-logo-on-mac-iphone-and-ipad?utm_medium=rss)
+ - [Sources: Sequoia China, whose portfolio includes ByteDance and online fashion startup Shein, is in early talks to raise $8B+ across four new funds &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/220325/p9#a220325p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
