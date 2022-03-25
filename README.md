@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just buy a home](http://9gag.com/gag/aPZoMnB)
- - 🚯 [Hahhah hilarious hia name is hans kim](http://9gag.com/gag/aM4PwQX)
- - 🚯 [Hell yess](http://9gag.com/gag/a41NjRd)<!-- MEMES:END -->
+ - 🚖 [That&#39;s how I see it!](http://9gag.com/gag/aOQZdpR)
+ - 🚯 [True romance](http://9gag.com/gag/aOQZd8r)
+ - 🚯 [Such an amazing production! Is this still on?](http://9gag.com/gag/aYrDK9N)<!-- MEMES:END -->
 
 --- 
 
