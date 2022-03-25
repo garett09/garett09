@@ -198,7 +198,7 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Happy birthday to me.Noone of my friends wished me , so here am i drinking alone.Thank you for all of the laught and support.](http://9gag.com/gag/agg7G0n)
- - 🚯 [Whose begging now.. . Got what he deserves.](http://9gag.com/gag/aWgn6Mx)
+ - 🚯 [I need to sell a kidney](http://9gag.com/gag/a8104OV)
  - 🚯 [Adults: `If you hate people, why do you want to become a teacher? Your students will discourage you soon!`](http://9gag.com/gag/aRrMVWy)<!-- MEMES:END -->
 
 --- 
