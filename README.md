@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People should respect black people&#39;s claim to dreads...its all they have.](http://9gag.com/gag/aYrDeQ2)
- - 🚯 [But why do u challenge big fella......](http://9gag.com/gag/azeKV1m)
- - 🚯 [Hell yess](http://9gag.com/gag/a41NjRd)<!-- MEMES:END -->
+ - 🚖 [Happy birthday to me.Noone of my friends wished me , so here am i drinking alone.Thank you for all of the laught and support.](http://9gag.com/gag/agg7G0n)
+ - 🚯 [Whose begging now.. . Got what he deserves.](http://9gag.com/gag/aWgn6Mx)
+ - 🚯 [Polish army joining the war.](http://9gag.com/gag/ang2NwB)<!-- MEMES:END -->
 
 --- 
 
