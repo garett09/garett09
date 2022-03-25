@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maradona &#39;Suspended&#39; From FIFA Because His Image Rights Are An Absolute Shambles](https://kotaku.com/diego-maradona-fifa-22-ea-sports-image-rights-legal-sat-1848701001)
- - [The Cub is a post-apocalyptic platformer reminiscent of The Jungle Book](https://www.polygon.com/22995482/the-cub-post-apocalyptic-platformer-the-jungle-book)
- - [Major Street Fighter V battle balance and extra aesthetic features coming March 29](https://blog.playstation.com/2022/03/24/major-street-fighter-v-battle-balance-and-extra-aesthetic-features-coming-march-29/)<!-- GAME:END -->
+ - [If Activision Blizzard recognizes a union, Microsoft &#39;will not stand in the way&#39;](https://www.pcgamer.com/if-activision-blizzard-recognizes-a-union-microsoft-will-not-stand-in-the-way)
+ - [Space Race: The Kotaku Review](https://kotaku.com/space-race-board-game-boardcubator-kickstarter-kotaku-r-1848695655)
+ - [Wordle&#39;s original word list included ZIZEL and GOLPS](https://www.pcgamer.com/wordles-original-word-list-included-zizel-and-golps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
