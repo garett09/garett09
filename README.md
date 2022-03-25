@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how I see it!](http://9gag.com/gag/aOQZdpR)
- - 🚯 [True romance](http://9gag.com/gag/aOQZd8r)
- - 🚯 [Such an amazing production! Is this still on?](http://9gag.com/gag/aYrDK9N)<!-- MEMES:END -->
+ - 🚖 [Just buy a home](http://9gag.com/gag/aPZoMnB)
+ - 🚯 [Simple &amp; brief!](http://9gag.com/gag/aKmv2rj)
+ - 🚯 [Remember your trash](http://9gag.com/gag/aNPQd2r)<!-- MEMES:END -->
 
 --- 
 
