@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude went to another universe](http://9gag.com/gag/ajgLNL8)
- - 🚯 [Language efficiency](http://9gag.com/gag/a810yY6)
- - 🚯 [Bored](http://9gag.com/gag/a710D42)<!-- MEMES:END -->
+ - 🚖 [Oh thank god the ambulance is here!](http://9gag.com/gag/aDD8WP7)
+ - 🚯 [Did You kow that that putting letter Z on your car makes yours windows crack ?](http://9gag.com/gag/aVxK3gd)
+ - 🚯 [Europe changing](http://9gag.com/gag/aBnV8LA)<!-- MEMES:END -->
 
 --- 
 
