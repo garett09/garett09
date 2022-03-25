@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Devil May Cry Plastered All Over Japanese Capsule Hotel Room](https://kotaku.com/devil-may-cry-dmc-capcom-japan-capsule-hotel-room-touri-1848702363)
- - [Gran Turismo 7: An update from Polyphony Digital](https://blog.playstation.com/2022/03/25/gran-turismo-7-an-update-from-polyphony-digital/)
- - [Gran Turismo 7: An update from Polyphony Digital](https://blog.playstation.com/2022/03/25/gran-turismo-7-an-update-from-polyphony-digital/)<!-- GAME:END -->
+ - [Elden Ring speedrunners laugh in the face of a mere patch to their exploits](https://www.pcgamer.com/elden-ring-speedrunners-laugh-in-the-face-of-a-mere-patch-to-their-exploits)
+ - [Where to find the pope turtle in Elden Ring](https://www.pcgamer.com/celestial-dew-elden-ring-pope-turtle-location)
+ - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
