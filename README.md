@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make a new or existing post on Facebook shareable](https://www.androidauthority.com/make-post-shareable-facebook-3144407/)
- - [How to type the Apple logo on Mac, iPhone, and iPad](https://appleinsider.com/articles/22/03/25/how-to-the-type-the-apple-logo-on-mac-iphone-and-ipad?utm_medium=rss)
- - [Sources: Sequoia China, whose portfolio includes ByteDance and online fashion startup Shein, is in early talks to raise $8B+ across four new funds &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/220325/p9#a220325p9)<!-- TECH:END -->
+ - [Apple and Google criticize the newly unveiled Digital Markets Act that will force companies designated as gatekeepers to open up their platforms to competitors &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220325/p10#a220325p10)
+ - [Apple&#39;s M1 Max 16-inch MacBook Pro is $200 off today, units shipping soon](https://appleinsider.com/articles/22/03/25/apples-m1-max-16-inch-macbook-pro-is-200-off-today-units-shipping-soon?utm_medium=rss)
+ - [The UN plans to extend weather warning systems to everyone on the planet](https://www.theverge.com/2022/3/25/22996059/united-nations-early-warning-systems-extreme-weather-climate-disasters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
