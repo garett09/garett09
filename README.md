@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If Activision Blizzard recognizes a union, Microsoft &#39;will not stand in the way&#39;](https://www.pcgamer.com/if-activision-blizzard-recognizes-a-union-microsoft-will-not-stand-in-the-way)
- - [Space Race: The Kotaku Review](https://kotaku.com/space-race-board-game-boardcubator-kickstarter-kotaku-r-1848695655)
- - [Wordle&#39;s original word list included ZIZEL and GOLPS](https://www.pcgamer.com/wordles-original-word-list-included-zizel-and-golps)<!-- GAME:END -->
+ - [Where to get more Katashiro in Ghostwire: Tokyo](https://www.polygon.com/guides/22993271/ghostwire-tokyo-where-to-find-katashiro)
+ - [Tiny Tina’s Wonderlands beginner’s guide, tips, and tricks](https://www.polygon.com/tiny-tina-wonderlands-guide-walkthrough/22995128/beginners-tips-tricks-class-manufacturer-upgrades-damage-types)
+ - [From the creators of Bloodborne PSX, comes Bloodborne Kart](https://www.pcgamer.com/from-the-creators-of-bloodborne-psx-comes-bloodborne-kart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
