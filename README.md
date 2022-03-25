@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: save $20 on Parallels Desktop Pro Edition to run Windows on your Mac](https://appleinsider.com/articles/22/03/25/deal-alert-save-20-on-parallels-desktop-pro-edition-to-run-windows-on-your-mac?utm_medium=rss)
- - [How to add a workout to your Apple Watch](https://www.androidauthority.com/add-workout-apple-watch-3137729/)
- - [Firstbase, which helps companies ensure new remote hires choose and receive necessary hardware, raises a $50M Series B led by Kleiner Perkins &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220325/p7#a220325p7)<!-- TECH:END -->
+ - [How to the type the Apple logo on Mac, iPhone, and iPad](https://appleinsider.com/articles/22/03/25/how-to-the-type-the-apple-logo-on-mac-iphone-and-ipad?utm_medium=rss)
+ - [OPPO Find X5 Pro giveaway: Win one of two flagship phones!](https://www.androidauthority.com/oppo-find-x5-pro-giveaway-3139652/)
+ - [Podcast app Overcast is getting a big design overhaul](https://www.theverge.com/2022/3/25/22995054/overcast-podcast-app-updated-design-playlists-library-management)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
