@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly?](http://9gag.com/gag/a810pB1)
- - 🚯 [#90&#39;s Kid](http://9gag.com/gag/ang2yRo)
- - 🚯 [Simple &amp; brief!](http://9gag.com/gag/aKmv2rj)<!-- MEMES:END -->
+ - 🚖 [Scythe vs bush cutter](http://9gag.com/gag/aOQZdR3)
+ - 🚯 [10 years in 1 second?](http://9gag.com/gag/aNPQAR3)
+ - 🚯 [Oh thank god the ambulance is here!](http://9gag.com/gag/aDD8WP7)<!-- MEMES:END -->
 
 --- 
 
