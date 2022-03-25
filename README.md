@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Apple Watch’s Walkie Talkie feature](https://www.androidauthority.com/how-to-use-apple-watch-walkie-talkie-3138352/)
- - [Apple TV’s Pachinko is an enthralling historical epic](https://www.theverge.com/22994343/pachinko-review-apple-tv-plus)
- - [Daily deals March 25: $100 or more off 24-inch iMac, big Eero mesh router sale, 33% off on Roborock robot vacuum, more!](https://appleinsider.com/articles/22/03/25/daily-deals-march-25-100-or-more-off-24-inch-imac-big-eero-mesh-router-sale-33-off-on-roborock-robot-vacuum-more?utm_medium=rss)<!-- TECH:END -->
+ - [Deal alert: save $20 on Parallels Desktop Pro Edition to run Windows on your Mac](https://appleinsider.com/articles/22/03/25/deal-alert-save-20-on-parallels-desktop-pro-edition-to-run-windows-on-your-mac?utm_medium=rss)
+ - [How to add a workout to your Apple Watch](https://www.androidauthority.com/add-workout-apple-watch-3137729/)
+ - [Firstbase, which helps companies ensure new remote hires choose and receive necessary hardware, raises a $50M Series B led by Kleiner Perkins &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220325/p7#a220325p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
