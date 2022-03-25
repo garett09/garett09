@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to watch on HBO Max: The best shows and movies from every genre in 2022](https://www.androidauthority.com/what-to-watch-on-hbo-max-3143015/)
  - [The latest Pixel 6 update turned notification vibrations way down](https://www.theverge.com/2022/3/25/22996788/google-pixel-6-pro-notification-vibration-weak-march-update)
- - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
- - [The US FCC adds Kaspersky Lab, China Telecom &lpar;Americas&rpar;, and China Mobile International USA to its national security threat list &lpar;Reuters&rpar;](http://www.techmeme.com/220325/p16#a220325p16)<!-- TECH:END -->
+ - [Best Airline Credit Cards for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
