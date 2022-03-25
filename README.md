@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anya is mourning on her son Igor &lpar;51&rpar; who was a soldier in the territorial defense forces and died in battle in the outskirts of Kyiv.](http://9gag.com/gag/aBnV84N)
- - 🚯 [Did You kow that that putting letter Z on your car makes yours windows crack ?](http://9gag.com/gag/aVxK3gd)
- - 🚯 [Different reactions to...](http://9gag.com/gag/aGzBe9Z)<!-- MEMES:END -->
+ - 🚖 [That gasp when it &lt;spoiler&gt;](http://9gag.com/gag/aDD8xeK)
+ - 🚯 [The Bear Handbook](http://9gag.com/gag/aM4PjZA)
+ - 🚯 [Bored](http://9gag.com/gag/a710D42)<!-- MEMES:END -->
 
 --- 
 
