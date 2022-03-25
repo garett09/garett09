@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That gasp when it &lt;spoiler&gt;](http://9gag.com/gag/aDD8xeK)
- - 🚯 [The Bear Handbook](http://9gag.com/gag/aM4PjZA)
- - 🚯 [Bored](http://9gag.com/gag/a710D42)<!-- MEMES:END -->
+ - 🚖 [The Bear Handbook](http://9gag.com/gag/aM4PjZA)
+ - 🚯 [Bored](http://9gag.com/gag/a710D42)
+ - 🚯 [Enlistment in the Polish Territorial Defence Forces.](http://9gag.com/gag/ajgL8v8)<!-- MEMES:END -->
 
 --- 
 
