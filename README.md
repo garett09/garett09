@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [20 for 1, thank you!](http://9gag.com/gag/ay96M5M)
- - 🚯 [In a silver plate ...](http://9gag.com/gag/adgQ86d)
- - 🚯 [Wish you a beautiful weekend folks.](http://9gag.com/gag/a110W62)<!-- MEMES:END -->
+ - 🚖 [So you support BLM ?](http://9gag.com/gag/aOQZ3R2)
+ - 🚯 [Happened last week in my hometown &lpar;Bosnia&rpar;. Apparently it was an self made project of the house owner. Did not go as planned\u2026](http://9gag.com/gag/aM4PKPX)
+ - 🚯 [Taal Volcano in the Philippines 26th of March 2022](http://9gag.com/gag/aOQZ7P6)<!-- MEMES:END -->
 
 --- 
 
