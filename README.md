@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shuts Russian Apple Pay loophole by cutting off Mir cards](https://appleinsider.com/articles/22/03/26/apple-shuts-russian-apple-pay-loophole-by-cutting-off-mir-cards?utm_medium=rss)
- - [Why More People Should Watch the 2nd Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-the-2nd-best-tv-show-on-netflix/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: Trailer, Release Date, Plot and Everything to Know About the Star Wars Show     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-star-wars-show-trailer-release-date-plot-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling True Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [Data Vault Holdings, which lets businesses monetize their data assets through its cloud-based exchange, raises a $30.5M Series A from undisclosed investors &lpar;FinSMEs&rpar;](http://www.techmeme.com/220326/p11#a220326p11)
+ - [HBO Max: The 23 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-23-of-the-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
