@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WorkRamp, which offers digital workplace training tools, raises a $40M Series C co-led by Salesforce Ventures, Slack Fund, and Susa Ventures &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220325/p20#a220325p20)
- - [Theta Lake, which provides compliance and security tools for collaboration platforms such as Zoom and Slack, raises a $50M Series B led by Battery Ventures &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220325/p19#a220325p19)
- - [NASA Just Opened a 50-Year-Old Time Capsule From the Moon for the First Time     - CNET](https://www.cnet.com/science/space/nasa-opens-a-50-year-old-time-capsule-from-the-moon-for-the-first-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine will start selling 54 NFTs next week chronicling the war&#39;s first three days to support its army and civilians, replacing a canceled crypto airdrop plan &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220326/p3#a220326p3)
+ - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raises a $40M Series B led by Stripes, bringing its total funding to $67.5M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220326/p2#a220326p2)
+ - [Orlando-based Beep, which is developing autonomous shuttles, raises a $25M Series A extension led by ABS Capital, bringing its total funding to about $50M &lpar;Alex Soderstrom/Orlando Business Journal&rpar;](http://www.techmeme.com/220326/p1#a220326p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
