@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As YouTube Vanced fades away, these are the 6 features I’ll miss the most](https://www.androidauthority.com/vanced-features-i-will-miss-3143338/)
  - [Brands including Forever 21, DKNY, and Est&amp;eacute;e Lauder have joined the first Metaverse Fashion Week, which began on Thursday and runs until Sunday in Decentraland &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/220326/p4#a220326p4)
- - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
- - [Ukraine will start selling 54 NFTs next week chronicling the war&#39;s first three days to support its army and civilians, replacing a canceled crypto airdrop plan &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220326/p3#a220326p3)<!-- TECH:END -->
+ - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
