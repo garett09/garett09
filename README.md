@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine will start selling 54 NFTs next week chronicling the war&#39;s first three days to support its army and civilians, replacing a canceled crypto airdrop plan &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220326/p3#a220326p3)
- - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raises a $40M Series B led by Stripes, bringing its total funding to $67.5M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220326/p2#a220326p2)
- - [Orlando-based Beep, which is developing autonomous shuttles, raises a $25M Series A extension led by ABS Capital, bringing its total funding to about $50M &lpar;Alex Soderstrom/Orlando Business Journal&rpar;](http://www.techmeme.com/220326/p1#a220326p1)<!-- TECH:END -->
+ - [Brands including Forever 21, DKNY, and Est&amp;eacute;e Lauder have joined the first Metaverse Fashion Week, which began on Thursday and runs until Sunday in Decentraland &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/220326/p4#a220326p4)
+ - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)
+ - [Ukraine will start selling 54 NFTs next week chronicling the war&#39;s first three days to support its army and civilians, replacing a canceled crypto airdrop plan &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220326/p3#a220326p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
