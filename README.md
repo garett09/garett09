@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-425-3143788/)
- - [Best PlayStation Deals: Save $200 on a Refurb PS4 or VR Headset and More     - CNET](https://www.cnet.com/tech/gaming/best-playstation-deals/#ftag=CAD590a51e)
- - [&#39;The Batman&#39;: Is There a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/the-batman-movie-is-there-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If the Nothing Phone 1 isn’t cheap, it will fail](https://www.androidauthority.com/nothing-phone-1-cheap-price-3143049/)
+ - [Samsung’s art-inspired Frame TV is on sale  today for its best price ever](https://www.theverge.com/good-deals/2022/3/26/22995214/samsung-frame-tv-2021-apple-ipad-philips-hue-bulbs-lg-gram-17-laptop-jabra-earbuds-deal-sale)
+ - [FCC adds Kaspersky to its list of national security threats](https://www.theverge.com/2022/3/26/22997532/fcc-kaspersky-list-national-security-threats-huawei-zte)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
