@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy swimming where he shouldn&#39;t](http://9gag.com/gag/aXrVn36)
+ - 🚖 [Seagulls watching the sky](http://9gag.com/gag/aOQZ8e2)
  - 🚯 [My kind of game](http://9gag.com/gag/aDD8DL9)
- - 🚯 [No ragrets](http://9gag.com/gag/a51w1Wr)<!-- MEMES:END -->
+ - 🚯 [Guy swimming where he shouldn&#39;t](http://9gag.com/gag/aXrVn36)<!-- MEMES:END -->
 
 --- 
 
