@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [All Of The Upcoming Video Game TV Shows Currently Announced](https://kotaku.com/video-game-tv-show-netflix-amazon-prime-fallout-last-of-1848707788)
  - [Thanos vs. Darkseid is the story of a clone who surpassed his original](https://www.polygon.com/22980066/thanos-vs-darkseid-who-would-win)
- - [Elden Ring finally made me understand Dark Souls](https://www.polygon.com/22996728/elden-ring-from-software-dark-souls-bloodborne-sekiro-rules-restrictions)
- - [Elden Ring Players Love &lpar;And Hate&rpar; That Moonveil Katana](https://kotaku.com/elden-ring-moonveil-katana-how-to-get-magma-wyrm-fromso-1848705743)<!-- GAME:END -->
+ - [Elden Ring finally made me understand Dark Souls](https://www.polygon.com/22996728/elden-ring-from-software-dark-souls-bloodborne-sekiro-rules-restrictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
