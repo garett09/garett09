@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doesn&#39;t work of poser wear em](http://9gag.com/gag/azeK1jz)
- - 🚯 [That crowd just wants to sing](http://9gag.com/gag/aZr8LXW)
- - 🚯 [Waifu material](http://9gag.com/gag/aOQZrWD)<!-- MEMES:END -->
+ - 🚖 [That crowd just wants to sing](http://9gag.com/gag/aZr8LXW)
+ - 🚯 [The monkey was cool under pressure](http://9gag.com/gag/amg65vj)
+ - 🚯 [Not that low, R\u00fcdiger](http://9gag.com/gag/a0Z0Q5X)<!-- MEMES:END -->
 
 --- 
 
