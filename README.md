@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Global Boom in Fences Is Harming Wildlife](https://www.wired.com/story/a-global-boom-in-fences-is-harming-wildlife)
- - [The Best Drawing Apps for Every Kind of iPad Artist](https://www.wired.com/gallery/best-ipad-drawing-apps)
- - [Honey, I decapitated the MacBook](https://www.theverge.com/22965732/macbook-decapitation-slabtop-mod-mac-studio-event-rumor-keyboard-computer-diy)<!-- TECH:END -->
+ - [How to change and achieve the activity goals on your Apple Watch](https://www.androidauthority.com/change-activity-goals-apple-watch-3138365/)
+ - [Apple Wants You to Subscribe to the iPhone](https://www.wired.com/story/apple-iphone-subscription-roundup)
+ - [Hunt for Lapsus$ Hackers Leads to a British Teen](https://www.wired.com/story/russian-hackers-lapsus-north-korea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
