@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle Prototype&#39;s Obscure Word List Makes Its Current Puzzles Look Easy](https://kotaku.com/wordle-development-prototype-josh-wardle-nyt-new-york-t-1848704099)
- - [Rooster Teeth’s RWBY anime spinoff trailer shows off its heroes’ new looks](https://www.polygon.com/22996055/rwby-ice-queendom-anime-trailer-shaft-crunchyroll)
- - [Jojo’s Bizarre Adventure: Stone Ocean part 2 trailer promises a Netflix premiere this fall](https://www.polygon.com/22996591/jojos-bizarre-adventure-stone-ocean-netflix-part-2-release-date-episodes)<!-- GAME:END -->
+ - [Elden Ring finally made me understand Dark Souls](https://www.polygon.com/22996728/elden-ring-from-software-dark-souls-bloodborne-sekiro-rules-restrictions)
+ - [Elden Ring Players Love &lpar;And Hate&rpar; That Moonveil Katana](https://kotaku.com/elden-ring-moonveil-katana-how-to-get-magma-wyrm-fromso-1848705743)
+ - [The 15 best movies leaving streaming at the end of March](https://www.polygon.com/what-to-watch/2022/3/26/22990801/best-movies-netflix-amazon-hulu-hbo-leaving-march-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
