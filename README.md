@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Bear Handbook](http://9gag.com/gag/aM4PjZA)
- - 🚯 [Bored](http://9gag.com/gag/a710D42)
- - 🚯 [Enlistment in the Polish Territorial Defence Forces.](http://9gag.com/gag/ajgL8v8)<!-- MEMES:END -->
+ - 🚖 [Doesn&#39;t work of poser wear em](http://9gag.com/gag/azeK1jz)
+ - 🚯 [That crowd just wants to sing](http://9gag.com/gag/aZr8LXW)
+ - 🚯 [Waifu material](http://9gag.com/gag/aOQZrWD)<!-- MEMES:END -->
 
 --- 
 
