@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling True Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Data Vault Holdings, which lets businesses monetize their data assets through its cloud-based exchange, raises a $30.5M Series A from undisclosed investors &lpar;FinSMEs&rpar;](http://www.techmeme.com/220326/p11#a220326p11)
- - [HBO Max: The 23 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-23-of-the-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Steam Deck Accessories for Expanding Your System     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)
+ - [Why You Should Probably Skip &#39;Is It Cake?,&#39; Netflix&#39;s Newest Reality Baking Show     - CNET](https://www.cnet.com/culture/entertainment/why-you-should-probably-skip-is-it-cake-netflixs-newest-reality-baking-series/#ftag=CAD590a51e)
+ - [Prime Video: The 36 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-36-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
