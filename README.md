@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That crowd just wants to sing](http://9gag.com/gag/aZr8LXW)
- - 🚯 [F**king legend. Long before tiktok.](http://9gag.com/gag/aRrM3yG)
- - 🚯 [Not that low, R\u00fcdiger](http://9gag.com/gag/a0Z0Q5X)<!-- MEMES:END -->
+ - 🚖 [Not that low, R\u00fcdiger](http://9gag.com/gag/a0Z0Q5X)
+ - 🚯 [The world has gone to shit if you ask me](http://9gag.com/gag/a615NXA)
+ - 🚯 [Ever wonder what true happiness feels like..?](http://9gag.com/gag/aYrDg57)<!-- MEMES:END -->
 
 --- 
 
