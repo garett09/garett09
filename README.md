@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If the Nothing Phone 1 isn’t cheap, it will fail](https://www.androidauthority.com/nothing-phone-1-cheap-price-3143049/)
- - [Samsung’s art-inspired Frame TV is on sale  today for its best price ever](https://www.theverge.com/good-deals/2022/3/26/22995214/samsung-frame-tv-2021-apple-ipad-philips-hue-bulbs-lg-gram-17-laptop-jabra-earbuds-deal-sale)
- - [FCC adds Kaspersky to its list of national security threats](https://www.theverge.com/2022/3/26/22997532/fcc-kaspersky-list-national-security-threats-huawei-zte)<!-- TECH:END -->
+ - [Apple shuts Russian Apple Pay loophole by cutting off Mir cards](https://appleinsider.com/articles/22/03/26/apple-shuts-russian-apple-pay-loophole-by-cutting-off-mir-cards?utm_medium=rss)
+ - [Current and ex-staff say digital mental health startups Cerebral and Done pressured clinicians to prescribe stimulants, often via 30 minute online consultations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220326/p10#a220326p10)
+ - [Daily deals March 26: $450 AirPods Max, $950 12.9-inch iPad Pro, $500 Curved Acer Monitor, more!](https://appleinsider.com/articles/22/03/26/daily-deals-march-26-450-airpods-max-950-129-inch-ipad-pro-500-curved-acer-monitor-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
