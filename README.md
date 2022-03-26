@@ -197,7 +197,7 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So you support BLM ?](http://9gag.com/gag/aOQZ3R2)
+ - 🚖 [Just bought this pillow thinkin its some kind of labyrinth after looking at it a little closer i cant unsee it...](http://9gag.com/gag/aLv41K5)
  - 🚯 [Just saying](http://9gag.com/gag/aqG6G1Q)
  - 🚯 [Just have A look around!](http://9gag.com/gag/a71017x)<!-- MEMES:END -->
 
