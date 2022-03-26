@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Just Opened a 50-Year-Old Time Capsule From the Moon for the First Time     - CNET](https://www.cnet.com/science/space/nasa-opens-a-50-year-old-time-capsule-from-the-moon-for-the-first-time/#ftag=CAD590a51e)
- - [How to join a Discord server on any device](https://www.androidauthority.com/join-discord-server-3144776/)
- - [Mike Frazzini, a longtime Amazon employee who helped start Amazon Games and its current head, is stepping down to focus on his family &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p18#a220325p18)<!-- TECH:END -->
+ - [WorkRamp, which offers digital workplace training tools, raises a $40M Series C co-led by Salesforce Ventures, Slack Fund, and Susa Ventures &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/220325/p20#a220325p20)
+ - [Theta Lake, which provides compliance and security tools for collaboration platforms such as Zoom and Slack, raises a $50M Series B led by Battery Ventures &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220325/p19#a220325p19)
+ - [NASA Just Opened a 50-Year-Old Time Capsule From the Moon for the First Time     - CNET](https://www.cnet.com/science/space/nasa-opens-a-50-year-old-time-capsule-from-the-moon-for-the-first-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
