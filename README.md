@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jojo’s Bizarre Adventure: Stone Ocean part 2 trailer promises a Netflix premiere this fall](https://www.polygon.com/22996591/jojos-bizarre-adventure-stone-ocean-netflix-part-2-release-date-episodes)
- - [Fortnite is better without the forts](https://www.pcgamer.com/fortnite-is-better-without-the-forts)
- - [The coolest thing I saw at GDC: software that animates anything](https://www.pcgamer.com/anything-world-gdc-2022)<!-- GAME:END -->
+ - [Wordle Prototype&#39;s Obscure Word List Makes Its Current Puzzles Look Easy](https://kotaku.com/wordle-development-prototype-josh-wardle-nyt-new-york-t-1848704099)
+ - [Rooster Teeth’s RWBY anime spinoff trailer shows off its heroes’ new looks](https://www.polygon.com/22996055/rwby-ice-queendom-anime-trailer-shaft-crunchyroll)
+ - [Jojo’s Bizarre Adventure: Stone Ocean part 2 trailer promises a Netflix premiere this fall](https://www.polygon.com/22996591/jojos-bizarre-adventure-stone-ocean-netflix-part-2-release-date-episodes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
