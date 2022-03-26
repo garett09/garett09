@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is so sleepy](http://9gag.com/gag/aZr8y2z)
+ - 🚖 [Fookin Gem](http://9gag.com/gag/ang24Y5)
  - 🚯 [She&#39;s just trying her best](http://9gag.com/gag/aogRPLn)
- - 🚯 [The Great War. Sorry for fake twitter or whatever this post is.](http://9gag.com/gag/avA6zWX)<!-- MEMES:END -->
+ - 🚯 [Dude has no chill when attacking bullies](http://9gag.com/gag/avA6zr5)<!-- MEMES:END -->
 
 --- 
 
