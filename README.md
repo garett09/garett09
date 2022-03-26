@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jojo’s Bizarre Adventure: Stone Ocean part 2 trailer promises a Netflix premiere this fall](https://www.polygon.com/22996591/jojos-bizarre-adventure-stone-ocean-netflix-part-2-release-date-episodes)
  - [Fortnite is better without the forts](https://www.pcgamer.com/fortnite-is-better-without-the-forts)
- - [The coolest thing I saw at GDC: software that animates anything](https://www.pcgamer.com/anything-world-gdc-2022)
- - [India’s wild action movie RRR re-imagines real-life revolt as an epic superhero battle](https://www.polygon.com/22996870/rrr-review-rise-roar-revolt)<!-- GAME:END -->
+ - [The coolest thing I saw at GDC: software that animates anything](https://www.pcgamer.com/anything-world-gdc-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
