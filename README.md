@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Great War. Sorry for fake twitter or whatever this post is.](http://9gag.com/gag/avA6zWX)
- - 🚯 [Which side are you on](http://9gag.com/gag/a41NRK1)
- - 🚯 [The monkey was cool under pressure](http://9gag.com/gag/amg65vj)<!-- MEMES:END -->
+ - 🚖 [It is so sleepy](http://9gag.com/gag/aZr8y2z)
+ - 🚯 [She&#39;s just trying her best](http://9gag.com/gag/aogRPLn)
+ - 🚯 [The Great War. Sorry for fake twitter or whatever this post is.](http://9gag.com/gag/avA6zWX)<!-- MEMES:END -->
 
 --- 
 
