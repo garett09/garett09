@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seagulls watching the sky](http://9gag.com/gag/aOQZ8e2)
- - 🚯 [My kind of game](http://9gag.com/gag/aDD8DL9)
- - 🚯 [Guy swimming where he shouldn&#39;t](http://9gag.com/gag/aXrVn36)<!-- MEMES:END -->
+ - 🚖 [What if they are just desperate to talk to someone...](http://9gag.com/gag/awz1yry)
+ - 🚯 [What could I say except---- `You get what you f***ing deserve. `](http://9gag.com/gag/a8101BV)
+ - 🚯 [Started my new life for five long years at Europe, From 3rd world country ,from nothing ,no money no honey ,even not too much right now, but at least, I got RTX3080. HBD to me. So proud of myself. sorry for my English](http://9gag.com/gag/aqG6eRM)<!-- MEMES:END -->
 
 --- 
 
