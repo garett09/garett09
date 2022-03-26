@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Retro Computer And Game Museum In Ukraine Destroyed By Russian Bombing](https://kotaku.com/ukraine-russia-war-bomb-retro-pc-gaming-museum-history-1848708389)
  - [Devs Announce NFT Plans For Popular Game, Get Review Bombed On Steam](https://kotaku.com/nft-crypto-blcckchain-storybook-brawl-card-f2p-steam-re-1848708120)
- - [Cobra Kai keeps mining the ultimate rivalry](https://www.polygon.com/22991156/cobra-kai-keeps-mining-the-ultimate-rivalry)
- - [Today&#39;s Wordle answer #280: Saturday, March 26](https://www.pcgamer.com/wordle-march-26-280-epoxy-definition-meaning)<!-- GAME:END -->
+ - [Cobra Kai keeps mining the ultimate rivalry](https://www.polygon.com/22991156/cobra-kai-keeps-mining-the-ultimate-rivalry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
