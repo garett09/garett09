@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As some crypto startups seek to avoid oversight, VCs are passing on board seats to win deals; investors in FTX, which has raised $1.8B+, have no board seats &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220326/p5#a220326p5)
  - [As YouTube Vanced fades away, these are the 6 features I’ll miss the most](https://www.androidauthority.com/vanced-features-i-will-miss-3143338/)
- - [Brands including Forever 21, DKNY, and Est&amp;eacute;e Lauder have joined the first Metaverse Fashion Week, which began on Thursday and runs until Sunday in Decentraland &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/220326/p4#a220326p4)
- - [Mac Studio deals are here: save $200 to $400 on retail configurations](https://appleinsider.com/articles/22/03/16/mac-studio-deals-have-arrived-save-200-to-400-on-retail-configurations?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Might Start Leasing iPhones. Here&#39;s Why That&#39;s a Good Idea     - CNET](https://www.cnet.com/tech/mobile/apple-might-start-leasing-iphones-heres-why-thats-a-good-idea/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
