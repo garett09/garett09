@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thanos vs. Darkseid is the story of a clone who surpassed his original](https://www.polygon.com/22980066/thanos-vs-darkseid-who-would-win)
  - [Elden Ring finally made me understand Dark Souls](https://www.polygon.com/22996728/elden-ring-from-software-dark-souls-bloodborne-sekiro-rules-restrictions)
- - [Elden Ring Players Love &lpar;And Hate&rpar; That Moonveil Katana](https://kotaku.com/elden-ring-moonveil-katana-how-to-get-magma-wyrm-fromso-1848705743)
- - [The 15 best movies leaving streaming at the end of March](https://www.polygon.com/what-to-watch/2022/3/26/22990801/best-movies-netflix-amazon-hulu-hbo-leaving-march-2022)<!-- GAME:END -->
+ - [Elden Ring Players Love &lpar;And Hate&rpar; That Moonveil Katana](https://kotaku.com/elden-ring-moonveil-katana-how-to-get-magma-wyrm-fromso-1848705743)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
