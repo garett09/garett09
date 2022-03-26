@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s just trying her best](http://9gag.com/gag/aogRPLn)
- - 🚯 [Some timeless Quotes By Otto Von Bismarck](http://9gag.com/gag/aGzBpwK)
- - 🚯 [RIP, you gorgeus blonde](http://9gag.com/gag/arnXVo5)<!-- MEMES:END -->
+ - 🚖 [20 for 1, thank you!](http://9gag.com/gag/ay96M5M)
+ - 🚯 [In a silver plate ...](http://9gag.com/gag/adgQ86d)
+ - 🚯 [Wish you a beautiful weekend folks.](http://9gag.com/gag/a110W62)<!-- MEMES:END -->
 
 --- 
 
