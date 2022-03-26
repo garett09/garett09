@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create and manage a Discord server](https://www.androidauthority.com/how-to-make-a-discord-server-3144612/)
- - [Steam Next Fest kicks off in June and will offer ‘hundreds of demos’](https://www.theverge.com/2022/3/25/22996958/valve-steam-next-fest-hundreds-pc-game-demos)
- - [Save 22% on the new Galaxy Tab A8, and more great Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
+ - [Mike Frazzini, a longtime Amazon employee who helped start Amazon Games and its current head, is stepping down to focus on his family &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p18#a220325p18)
+ - [Virtual Memory explained — How Android keeps your apps running smoothly](https://www.androidauthority.com/virtual-memory-explained-3143201/)
+ - [Oscars You&#39;d Never Expect: Who Knew These Movies Won Academy Awards?     - CNET](https://www.cnet.com/culture/entertainment/oscars-youd-never-expect-who-knew-these-movies-won-academy-awards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
