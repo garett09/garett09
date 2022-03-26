@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to watch on HBO Max: The best shows and movies from every genre in 2022](https://www.androidauthority.com/what-to-watch-on-hbo-max-3143015/)
- - [The latest Pixel 6 update turned notification vibrations way down](https://www.theverge.com/2022/3/25/22996788/google-pixel-6-pro-notification-vibration-weak-march-update)
- - [Best Airline Credit Cards for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to create and manage a Discord server](https://www.androidauthority.com/how-to-make-a-discord-server-3144612/)
+ - [Steam Next Fest kicks off in June and will offer ‘hundreds of demos’](https://www.theverge.com/2022/3/25/22996958/valve-steam-next-fest-hundreds-pc-game-demos)
+ - [Save 22% on the new Galaxy Tab A8, and more great Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
