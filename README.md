@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So you support BLM ?](http://9gag.com/gag/aOQZ3R2)
- - 🚯 [Happened last week in my hometown &lpar;Bosnia&rpar;. Apparently it was an self made project of the house owner. Did not go as planned\u2026](http://9gag.com/gag/aM4PKPX)
- - 🚯 [Taal Volcano in the Philippines 26th of March 2022](http://9gag.com/gag/aOQZ7P6)<!-- MEMES:END -->
+ - 🚖 [Taylor Hawkins RIP Legend.](http://9gag.com/gag/aVxKwqP)
+ - 🚯 [These things](http://9gag.com/gag/aqG6nPR)
+ - 🚯 [Priorities](http://9gag.com/gag/a110rQ8)<!-- MEMES:END -->
 
 --- 
 
