@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Started my new life for five long years at Europe, From 3rd world country ,from nothing ,no money no honey ,even not too much right now, but at least, I got RTX3080. HBD to me. So proud of myself. sorry for my English](http://9gag.com/gag/aqG6eRM)
- - 🚯 [Just bought this pillow thinkin its some kind of labyrinth after looking at it a little closer i cant unsee it...](http://9gag.com/gag/aLv41K5)
- - 🚯 [A forgotten iconic duo](http://9gag.com/gag/aE8Aqx9)<!-- MEMES:END -->
+ - 🚖 [A forgotten iconic duo](http://9gag.com/gag/aE8Aqx9)
+ - 🚯 [Started my new life for five long years at Europe, From 3rd world country ,from nothing ,no money no honey ,even not too much right now, but at least, I got RTX3080. HBD to me. So proud of myself. sorry for my English](http://9gag.com/gag/aqG6eRM)
+ - 🚯 [My kind of game](http://9gag.com/gag/aDD8DL9)<!-- MEMES:END -->
 
 --- 
 
