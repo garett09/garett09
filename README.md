@@ -191,8 +191,8 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- TECH:START -->
  - [Apple shuts Russian Apple Pay loophole by cutting off Mir cards](https://appleinsider.com/articles/22/03/26/apple-shuts-russian-apple-pay-loophole-by-cutting-off-mir-cards?utm_medium=rss)
- - [Current and ex-staff say digital mental health startups Cerebral and Done pressured clinicians to prescribe stimulants, often via 30 minute online consultations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220326/p10#a220326p10)
- - [Daily deals March 26: $450 AirPods Max, $950 12.9-inch iPad Pro, $500 Curved Acer Monitor, more!](https://appleinsider.com/articles/22/03/26/daily-deals-march-26-450-airpods-max-950-129-inch-ipad-pro-500-curved-acer-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [Why More People Should Watch the 2nd Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-the-2nd-best-tv-show-on-netflix/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39;: Trailer, Release Date, Plot and Everything to Know About the Star Wars Show     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-star-wars-show-trailer-release-date-plot-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
