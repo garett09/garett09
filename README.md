@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite pet tech](https://www.theverge.com/22995069/pet-tech-dogs-cats-gps)
- - [Apple pushes for 20-30% MacBook Pro mini LED production increase](https://appleinsider.com/articles/22/03/26/apple-pushes-for-20-30-macbook-pro-mini-led-production-increase?utm_medium=rss)
- - [A look at Intrepid Response, an app Minnesota police used to collect data on journalists at protests and share it across agencies &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/220326/p6#a220326p6)<!-- TECH:END -->
+ - [Transport for London grants Uber a 30-month license to continue operating in London, removing a key source of years-long uncertainty for Uber in the UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220326/p8#a220326p8)
+ - [Samsung Galaxy S22 Ultra second opinion review: Perfectly boring](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-second-opinion-3136850/)
+ - [Sources: Polish postal locker service InPost is attracting takeover interest from CVC Capital and others, after its stock fell 60%+ since its January 2021 IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/220326/p7#a220326p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
