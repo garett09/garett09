@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snap out of it, gen Z!](http://9gag.com/gag/amg6PAV)
- - 🚯 [Malaysia giant forest scorpion](http://9gag.com/gag/a810E9V)
- - 🚯 [New pandemic incoming.](http://9gag.com/gag/ay96eKX)<!-- MEMES:END -->
+ - 🚖 [Priorities](http://9gag.com/gag/a110rQ8)
+ - 🚯 [Some timeless Quotes By Otto Von Bismarck](http://9gag.com/gag/aGzBpwK)
+ - 🚯 [Just have A look around!](http://9gag.com/gag/a71017x)<!-- MEMES:END -->
 
 --- 
 
