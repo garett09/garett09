@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Transport for London grants Uber a 30-month license to continue operating in London, removing a key source of years-long uncertainty for Uber in the UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220326/p8#a220326p8)
- - [Samsung Galaxy S22 Ultra second opinion review: Perfectly boring](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-second-opinion-3136850/)
- - [Sources: Polish postal locker service InPost is attracting takeover interest from CVC Capital and others, after its stock fell 60%+ since its January 2021 IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/220326/p7#a220326p7)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-425-3143788/)
+ - [Best PlayStation Deals: Save $200 on a Refurb PS4 or VR Headset and More     - CNET](https://www.cnet.com/tech/gaming/best-playstation-deals/#ftag=CAD590a51e)
+ - [&#39;The Batman&#39;: Is There a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/the-batman-movie-is-there-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
