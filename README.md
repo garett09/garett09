@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Frazzini, a longtime Amazon employee who helped start Amazon Games and its current head, is stepping down to focus on his family &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p18#a220325p18)
- - [Virtual Memory explained — How Android keeps your apps running smoothly](https://www.androidauthority.com/virtual-memory-explained-3143201/)
- - [Oscars You&#39;d Never Expect: Who Knew These Movies Won Academy Awards?     - CNET](https://www.cnet.com/culture/entertainment/oscars-youd-never-expect-who-knew-these-movies-won-academy-awards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Just Opened a 50-Year-Old Time Capsule From the Moon for the First Time     - CNET](https://www.cnet.com/science/space/nasa-opens-a-50-year-old-time-capsule-from-the-moon-for-the-first-time/#ftag=CAD590a51e)
+ - [How to join a Discord server on any device](https://www.androidauthority.com/join-discord-server-3144776/)
+ - [Mike Frazzini, a longtime Amazon employee who helped start Amazon Games and its current head, is stepping down to focus on his family &lpar;Bloomberg&rpar;](http://www.techmeme.com/220325/p18#a220325p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
