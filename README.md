@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change and achieve the activity goals on your Apple Watch](https://www.androidauthority.com/change-activity-goals-apple-watch-3138365/)
- - [Apple Wants You to Subscribe to the iPhone](https://www.wired.com/story/apple-iphone-subscription-roundup)
- - [Hunt for Lapsus$ Hackers Leads to a British Teen](https://www.wired.com/story/russian-hackers-lapsus-north-korea)<!-- TECH:END -->
+ - [The Verge’s favorite pet tech](https://www.theverge.com/22995069/pet-tech-dogs-cats-gps)
+ - [Apple pushes for 20-30% MacBook Pro mini LED production increase](https://appleinsider.com/articles/22/03/26/apple-pushes-for-20-30-macbook-pro-mini-led-production-increase?utm_medium=rss)
+ - [A look at Intrepid Response, an app Minnesota police used to collect data on journalists at protests and share it across agencies &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/220326/p6#a220326p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
