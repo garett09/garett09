@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fookin Gem](http://9gag.com/gag/ang24Y5)
- - 🚯 [She&#39;s just trying her best](http://9gag.com/gag/aogRPLn)
- - 🚯 [Dude has no chill when attacking bullies](http://9gag.com/gag/avA6zr5)<!-- MEMES:END -->
+ - 🚖 [She&#39;s just trying her best](http://9gag.com/gag/aogRPLn)
+ - 🚯 [Some timeless Quotes By Otto Von Bismarck](http://9gag.com/gag/aGzBpwK)
+ - 🚯 [RIP, you gorgeus blonde](http://9gag.com/gag/arnXVo5)<!-- MEMES:END -->
 
 --- 
 
