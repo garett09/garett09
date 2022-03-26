@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taylor Hawkins RIP Legend.](http://9gag.com/gag/aVxKwqP)
- - 🚯 [These things](http://9gag.com/gag/aqG6nPR)
- - 🚯 [Priorities](http://9gag.com/gag/a110rQ8)<!-- MEMES:END -->
+ - 🚖 [Snap out of it, gen Z!](http://9gag.com/gag/amg6PAV)
+ - 🚯 [Malaysia giant forest scorpion](http://9gag.com/gag/a810E9V)
+ - 🚯 [New pandemic incoming.](http://9gag.com/gag/ay96eKX)<!-- MEMES:END -->
 
 --- 
 
