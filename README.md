@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ever wonder what true happiness feels like..?](http://9gag.com/gag/aYrDg57)
- - 🚯 [Dude has no chill when attacking bullies](http://9gag.com/gag/avA6zr5)
+ - 🚖 [Enlistment in the Polish Territorial Defence Forces.](http://9gag.com/gag/ajgL8v8)
+ - 🚯 [No advantage at all](http://9gag.com/gag/a0Z0QZQ)
  - 🚯 [The world has gone to shit if you ask me](http://9gag.com/gag/a615NXA)<!-- MEMES:END -->
 
 --- 
