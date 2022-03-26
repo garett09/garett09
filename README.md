@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As some crypto startups seek to avoid oversight, VCs are passing on board seats to win deals; investors in FTX, which has raised $1.8B+, have no board seats &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220326/p5#a220326p5)
- - [As YouTube Vanced fades away, these are the 6 features I’ll miss the most](https://www.androidauthority.com/vanced-features-i-will-miss-3143338/)
- - [Apple Might Start Leasing iPhones. Here&#39;s Why That&#39;s a Good Idea     - CNET](https://www.cnet.com/tech/mobile/apple-might-start-leasing-iphones-heres-why-thats-a-good-idea/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Global Boom in Fences Is Harming Wildlife](https://www.wired.com/story/a-global-boom-in-fences-is-harming-wildlife)
+ - [The Best Drawing Apps for Every Kind of iPad Artist](https://www.wired.com/gallery/best-ipad-drawing-apps)
+ - [Honey, I decapitated the MacBook](https://www.theverge.com/22965732/macbook-decapitation-slabtop-mod-mac-studio-event-rumor-keyboard-computer-diy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
