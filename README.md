@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Steam Deck Accessories for Expanding Your System     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)
- - [Why You Should Probably Skip &#39;Is It Cake?,&#39; Netflix&#39;s Newest Reality Baking Show     - CNET](https://www.cnet.com/culture/entertainment/why-you-should-probably-skip-is-it-cake-netflixs-newest-reality-baking-series/#ftag=CAD590a51e)
- - [Prime Video: The 36 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-36-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Chrome for macOS updated to fix high-severity zero-day bug](https://appleinsider.com/articles/22/03/26/google-chrome-for-macos-updated-to-fix-high-severity-zero-day-bug?utm_medium=rss)
+ - [FCC calls Russian Kaspersky Lab a &#39;national security&#39; risk](https://appleinsider.com/articles/22/03/26/fcc-calls-russian-kaspersky-lab-a-national-security-risk?utm_medium=rss)
+ - [Apple Pay closes loophole that allowed Russian users to pay with Mir cards](https://www.theverge.com/2022/3/26/22997758/apple-pay-google-pay-loophole-mir-cards-russia-payment-system-ukraine-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
