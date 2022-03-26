@@ -198,7 +198,7 @@ Windows                  8 hrs 8 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [That crowd just wants to sing](http://9gag.com/gag/aZr8LXW)
- - 🚯 [The monkey was cool under pressure](http://9gag.com/gag/amg65vj)
+ - 🚯 [F**king legend. Long before tiktok.](http://9gag.com/gag/aRrM3yG)
  - 🚯 [Not that low, R\u00fcdiger](http://9gag.com/gag/a0Z0Q5X)<!-- MEMES:END -->
 
 --- 
