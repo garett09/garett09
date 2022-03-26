@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enlistment in the Polish Territorial Defence Forces.](http://9gag.com/gag/ajgL8v8)
- - 🚯 [No advantage at all](http://9gag.com/gag/a0Z0QZQ)
- - 🚯 [The world has gone to shit if you ask me](http://9gag.com/gag/a615NXA)<!-- MEMES:END -->
+ - 🚖 [The Great War. Sorry for fake twitter or whatever this post is.](http://9gag.com/gag/avA6zWX)
+ - 🚯 [Which side are you on](http://9gag.com/gag/a41NRK1)
+ - 🚯 [The monkey was cool under pressure](http://9gag.com/gag/amg65vj)<!-- MEMES:END -->
 
 --- 
 
