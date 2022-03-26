@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not that low, R\u00fcdiger](http://9gag.com/gag/a0Z0Q5X)
- - 🚯 [The world has gone to shit if you ask me](http://9gag.com/gag/a615NXA)
- - 🚯 [Ever wonder what true happiness feels like..?](http://9gag.com/gag/aYrDg57)<!-- MEMES:END -->
+ - 🚖 [Ever wonder what true happiness feels like..?](http://9gag.com/gag/aYrDg57)
+ - 🚯 [Dude has no chill when attacking bullies](http://9gag.com/gag/avA6zr5)
+ - 🚯 [The world has gone to shit if you ask me](http://9gag.com/gag/a615NXA)<!-- MEMES:END -->
 
 --- 
 
