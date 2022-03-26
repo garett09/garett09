@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cobra Kai keeps mining the ultimate rivalry](https://www.polygon.com/22991156/cobra-kai-keeps-mining-the-ultimate-rivalry)
  - [Today&#39;s Wordle answer #280: Saturday, March 26](https://www.pcgamer.com/wordle-march-26-280-epoxy-definition-meaning)
- - [All Of The Upcoming Video Game TV Shows Currently Announced](https://kotaku.com/video-game-tv-show-netflix-amazon-prime-fallout-last-of-1848707788)
- - [Thanos vs. Darkseid is the story of a clone who surpassed his original](https://www.polygon.com/22980066/thanos-vs-darkseid-who-would-win)<!-- GAME:END -->
+ - [All Of The Upcoming Video Game TV Shows Currently Announced](https://kotaku.com/video-game-tv-show-netflix-amazon-prime-fallout-last-of-1848707788)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
