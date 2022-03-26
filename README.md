@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priorities](http://9gag.com/gag/a110rQ8)
- - 🚯 [Some timeless Quotes By Otto Von Bismarck](http://9gag.com/gag/aGzBpwK)
- - 🚯 [Just have A look around!](http://9gag.com/gag/a71017x)<!-- MEMES:END -->
+ - 🚖 [Kangaroos evacuation from Kharkiv&#39;s zoo](http://9gag.com/gag/aZr8r1n)
+ - 🚯 [Happened last week in my hometown &lpar;Bosnia&rpar;. Apparently it was an self made project of the house owner. Did not go as planned\u2026](http://9gag.com/gag/aM4PKPX)
+ - 🚯 [Just saying](http://9gag.com/gag/aqG6G1Q)<!-- MEMES:END -->
 
 --- 
 
