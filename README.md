@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How long does the Apple Watch battery last?](https://www.androidauthority.com/how-long-apple-watch-battery-last-3139257/)
  - [Xiaomi Mi Band 7: Everything we know and what we want to see](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
- - [Social media platforms are hastily rewriting rules on hate and propaganda amid the war on Ukraine, setting precedents that may haunt them in the future &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220327/p2#a220327p2)
- - [How to Watch the Oscars 2022: Start Time, Online Streams, Hosts and Nominations     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-oscars-2022-start-time-online-streams-hosts-and-nominations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social media platforms are hastily rewriting rules on hate and propaganda amid the war on Ukraine, setting precedents that may haunt them in the future &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220327/p2#a220327p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
