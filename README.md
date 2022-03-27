@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo TV premiere broke Paramount+ viewer record](https://www.pcgamer.com/halo-tv-premiere-broke-paramount-record-for-number-of-viewers)
  - [Vampire Survivors will get 9 more characters, 5 new stages, and 16 new weapons before release](https://www.pcgamer.com/vampire-survivors-will-get-9-more-characters-5-new-stages-and-16-new-weapons-before-release)
- - [Looking back at Sierra&#39;s original Police Quest games](https://www.pcgamer.com/saturday-video-crapshoot-police-quest)
- - [Who do you want to play in the next Witcher game?](https://www.pcgamer.com/who-do-you-want-to-play-in-the-next-witcher-game)<!-- GAME:END -->
+ - [Looking back at Sierra&#39;s original Police Quest games](https://www.pcgamer.com/saturday-video-crapshoot-police-quest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
