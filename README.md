@@ -197,8 +197,8 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok, now what](http://9gag.com/gag/avA6yjM)
- - 🚯 [Go Spor...](http://9gag.com/gag/a51wXGy)
+ - 🚖 [German immigration test](http://9gag.com/gag/aRrMBmA)
+ - 🚯 [Starting again, just looking for peace. Wish me luck, Fellows!](http://9gag.com/gag/aYrDGK7)
  - 🚯 [One in a million](http://9gag.com/gag/a615Z4e)<!-- MEMES:END -->
 
 --- 
