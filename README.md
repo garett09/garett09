@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy can teach you to `play` the piano in less than 4 minutes](http://9gag.com/gag/adgQOyN)
- - 🚯 [Best Payback](http://9gag.com/gag/avA6eEZ)
- - 🚯 [Was watching some WW2 documentary when suddenly this legend appeared.](http://9gag.com/gag/aPZoPmq)<!-- MEMES:END -->
+ - 🚖 [`The Massey University lecturer specialised in fat studies and body stigma. She had recently been outspoken about healthcare discrimination based on body size, during the pandemic.`](http://9gag.com/gag/aAGKKqd)
+ - 🚯 [Vacationtime](http://9gag.com/gag/aXrVNKb)
+ - 🚯 [With all these before-after photos showing dramatic changes, I present you Seljestadjuvet, Odda, Norway.](http://9gag.com/gag/azeKKvK)<!-- MEMES:END -->
 
 --- 
 
