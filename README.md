@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truck driver provides water to thirsty camel in the middle of desert.](http://9gag.com/gag/ajgLPpG)
- - 🚯 [Guy swimming where he shouldn&#39;t](http://9gag.com/gag/aXrVn36)
- - 🚯 [I did it boys! I quit my corporate job, got forklift certified. Now I have so much money and drowning in p*$y](http://9gag.com/gag/a915yQ1)<!-- MEMES:END -->
+ - 🚖 [Ok, now what](http://9gag.com/gag/avA6yjM)
+ - 🚯 [Go Spor...](http://9gag.com/gag/a51wXGy)
+ - 🚯 [One in a million](http://9gag.com/gag/a615Z4e)<!-- MEMES:END -->
 
 --- 
 
