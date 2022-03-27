@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may keep &#39;iPhone 14 Pro&#39; camera bump to hold larger 48MP sensors](https://appleinsider.com/articles/22/03/27/apple-may-keep-iphone-14-pro-camera-bump-to-hold-larger-48mp-sensors?utm_medium=rss)
- - [iFixit completes its week-long Mac Studio teardown: swappable but likely not upgradable SSDs, a massive heatsink, a dual-fan assembly, and more &lpar;Sam Goldheart/iFixit News&rpar;](http://www.techmeme.com/220327/p4#a220327p4)
- - [March Madness Elite 8: How to Watch, Live Stream Miami vs. Kansas, Saint Peter&#39;s vs. North Carolina     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-elite-8-how-to-watch-live-stream-miami-vs-kansas-saint-peters-vs-north-carolina/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crunchyroll ends free streaming for new and continuing series](https://www.theverge.com/2022/3/27/22998591/crunchyroll-ends-free-ad-supported-streaming-new-releases-simulcasts-anime)
+ - [Best Vacuum Cleaners for 2022: Roomba, Dyson, Tineco, Roborock and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-vacuum-cleaner/#ftag=CAD590a51e)
+ - [Apple may keep &#39;iPhone 14 Pro&#39; camera bump to hold larger 48MP sensors](https://appleinsider.com/articles/22/03/27/apple-may-keep-iphone-14-pro-camera-bump-to-hold-larger-48mp-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
