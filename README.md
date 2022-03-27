@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Be the monsters in Slay the Spire fan expansion Downfall, out now](https://www.pcgamer.com/be-the-monsters-in-slay-the-spire-fan-expansion-downfall-out-now)
- - [Retro Computer And Game Museum In Ukraine Destroyed By Russian Bombing](https://kotaku.com/ukraine-russia-war-bomb-retro-pc-gaming-museum-history-1848708389)
- - [Devs Announce NFT Plans For Popular Game, Get Review Bombed On Steam](https://kotaku.com/nft-crypto-blcckchain-storybook-brawl-card-f2p-steam-re-1848708120)<!-- GAME:END -->
+ - [This Elden Ring player punked an endgame boss with a starting item](https://www.pcgamer.com/this-elden-ring-player-punked-an-endgame-boss-with-a-starting-item)
+ - [Amazon Games boss, Michael Frazzini, resigns](https://www.pcgamer.com/amazon-games-boss-michael-frazzini-resigns)
+ - [Be the monsters in Slay the Spire fan expansion Downfall, out now](https://www.pcgamer.com/be-the-monsters-in-slay-the-spire-fan-expansion-downfall-out-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
