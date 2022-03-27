@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leapsome, a Berlin-based startup helping HR teams automate employee feedback and training processes, raises a $60M Series A led by Insight Partners &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220327/p3#a220327p3)
- - [Video Games Offered My Son a Haven From Bullying](https://www.wired.com/story/video-games-beat-bullying)
- - [How to Unlock Your iPhone With Face ID—While Wearing a Mask](https://www.wired.com/story/how-to-unlock-iphone-with-face-id-and-face-mask)<!-- TECH:END -->
+ - [Crime blotter: Federal indictment for foreign sales of stolen iPhones](https://appleinsider.com/articles/22/03/27/crime-blotter-federal-indictment-for-foreign-sales-of-stolen-iphones?utm_medium=rss)
+ - [Samsung Galaxy Watch 5: What we want to see](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
+ - [What Is Google One, and Should You Subscribe?](https://www.wired.com/story/what-is-google-one)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
