@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great success!](http://9gag.com/gag/aGzB87z)
- - 🚯 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
- - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)<!-- MEMES:END -->
+ - 🚖 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
+ - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)
+ - 🚯 [HERMANN G \u00d6 \u00d6 \u00d6 \u00d6 R I N G! Jaa, guuut](http://9gag.com/gag/adgQOXD)<!-- MEMES:END -->
 
 --- 
 
