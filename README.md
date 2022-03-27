@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #281: Sunday, March 27](https://www.pcgamer.com/wordle-march-27-281-nymph-meaning-words-with-no-vowels)
  - [Great moments in PC gaming: Jumping to hyperspace in Elite Dangerous](https://www.pcgamer.com/great-moments-in-pc-gaming-jumping-to-hyperspace-in-elite-dangerous)
- - [Portal 2: Desolation is giving the classic puzzle game a huge graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul)
- - [Halo TV premiere broke Paramount+ viewer record](https://www.pcgamer.com/halo-tv-premiere-broke-paramount-record-for-number-of-viewers)<!-- GAME:END -->
+ - [Portal 2: Desolation is giving the classic puzzle game a huge graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
