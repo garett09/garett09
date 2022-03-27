@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
- - 🚯 [Electric is Future](http://9gag.com/gag/avA61Mq)
- - 🚯 [The new helmet camera in F1](http://9gag.com/gag/aPZompV)<!-- MEMES:END -->
+ - 🚖 [Mariupol, before and after](http://9gag.com/gag/ay963wb)
+ - 🚯 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
+ - 🚯 [Vacationtime](http://9gag.com/gag/aXrVNKb)<!-- MEMES:END -->
 
 --- 
 
