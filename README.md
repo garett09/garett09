@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have](http://9gag.com/gag/aGzBnb0)
- - 🚯 [Haha](http://9gag.com/gag/aE8A66K)
- - 🚯 [Electric is Future](http://9gag.com/gag/avA61Mq)<!-- MEMES:END -->
+ - 🚖 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
+ - 🚯 [Electric is Future](http://9gag.com/gag/avA61Mq)
+ - 🚯 [The new helmet camera in F1](http://9gag.com/gag/aPZompV)<!-- MEMES:END -->
 
 --- 
 
