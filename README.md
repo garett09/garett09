@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is no such thing as easy money](http://9gag.com/gag/aqG6Rz7)
- - 🚯 [Guy cutting down a tree](http://9gag.com/gag/aLv4LO6)
- - 🚯 [We have](http://9gag.com/gag/aGzBnb0)<!-- MEMES:END -->
+ - 🚖 [I didn&#39;t expected that](http://9gag.com/gag/avA61y5)
+ - 🚯 [That&#39;s a sikh burn](http://9gag.com/gag/aDD86RB)
+ - 🚯 [Mariupol, before and after](http://9gag.com/gag/ay963wb)<!-- MEMES:END -->
 
 --- 
 
