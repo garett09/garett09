@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Will Smith’s best performances that probably should have won Oscars](https://www.polygon.com/what-to-watch/22993597/will-smith-best-movies)
  - [Our pandas, ourselves: What the panda means for Turning Red’s mother-daughter relationship](https://www.polygon.com/22996520/turning-red-panda-meaning)
- - [How to watch the 2022 Oscars](https://www.polygon.com/2022/3/27/22996374/oscars-2022-how-to-watch-stream-what-time)
- - [Bridgerton season 2 is a major departure — but did it work?](https://www.polygon.com/22993130/bridgerton-season-2-ending-breakdown)<!-- GAME:END -->
+ - [How to watch the 2022 Oscars](https://www.polygon.com/2022/3/27/22996374/oscars-2022-how-to-watch-stream-what-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
