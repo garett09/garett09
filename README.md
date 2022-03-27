@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchyroll ends free streaming for new and continuing series](https://www.theverge.com/2022/3/27/22998591/crunchyroll-ends-free-ad-supported-streaming-new-releases-simulcasts-anime)
- - [Best Vacuum Cleaners for 2022: Roomba, Dyson, Tineco, Roborock and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-vacuum-cleaner/#ftag=CAD590a51e)
- - [Apple may keep &#39;iPhone 14 Pro&#39; camera bump to hold larger 48MP sensors](https://appleinsider.com/articles/22/03/27/apple-may-keep-iphone-14-pro-camera-bump-to-hold-larger-48mp-sensors?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the 94th Academy Awards on your Apple devices](https://appleinsider.com/articles/22/03/27/how-to-watch-the-94th-academy-awards-on-your-apple-devices?utm_medium=rss)
+ - [An analysis of 19.3M NFTs across ~8,400 collections: one in three have little or no trading activity, and another third trade below their original minting cost &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220327/p5#a220327p5)
+ - [Should You Upgrade to Galaxy S22 Ultra? See How It Compares to Older Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-galaxy-s22-ultra-see-how-it-compares-to-older-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
