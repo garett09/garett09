@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Federal indictment for foreign sales of stolen iPhones](https://appleinsider.com/articles/22/03/27/crime-blotter-federal-indictment-for-foreign-sales-of-stolen-iphones?utm_medium=rss)
- - [Samsung Galaxy Watch 5: What we want to see](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
- - [What Is Google One, and Should You Subscribe?](https://www.wired.com/story/what-is-google-one)<!-- TECH:END -->
+ - [These Phishing Tactics Disguised as &#39;Fun&#39; on Social Media. Here&#39;s What to Look For     - CNET](https://www.cnet.com/tech/services-and-software/these-phishing-tactics-disguised-as-fun-on-social-media-heres-what-to-look-for/#ftag=CAD590a51e)
+ - [&#39;Spider-Man: No Way Home&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/spider-man-no-way-home-two-post-credits-scenes-explained/#ftag=CAD590a51e)
+ - [How to Use Windows 11’s Built-In Video Editor](https://www.wired.com/story/how-to-use-clipchamp-windows-11-video-editor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
