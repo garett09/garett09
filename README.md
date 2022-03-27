@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With all these before-after photos showing dramatic changes, I present you Seljestadjuvet, Odda, Norway.](http://9gag.com/gag/azeKKvK)
- - 🚯 [Finest chinesium quality](http://9gag.com/gag/aBnVV0Q)
- - 🚯 [When you choose a female character in games be like..](http://9gag.com/gag/aQX777d)<!-- MEMES:END -->
+ - 🚖 [Test drive](http://9gag.com/gag/aNPQVvr)
+ - 🚯 [Grandma noooo](http://9gag.com/gag/aLv44vx)
+ - 🚯 [I was exploring the galaxy with the interstellar soundtrack on in the background and it synced perfectly with the frame-shift jump.](http://9gag.com/gag/awz11wr)<!-- MEMES:END -->
 
 --- 
 
