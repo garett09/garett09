@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Test drive](http://9gag.com/gag/aNPQVvr)
- - 🚯 [Grandma noooo](http://9gag.com/gag/aLv44vx)
- - 🚯 [I was exploring the galaxy with the interstellar soundtrack on in the background and it synced perfectly with the frame-shift jump.](http://9gag.com/gag/awz11wr)<!-- MEMES:END -->
+ - 🚖 [I was exploring the galaxy with the interstellar soundtrack on in the background and it synced perfectly with the frame-shift jump.](http://9gag.com/gag/awz11wr)
+ - 🚯 [Test drive](http://9gag.com/gag/aNPQVvr)
+ - 🚯 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)<!-- MEMES:END -->
 
 --- 
 
