@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How long does the Apple Watch battery last?](https://www.androidauthority.com/how-long-apple-watch-battery-last-3139257/)
- - [Xiaomi Mi Band 7: Everything we know and what we want to see](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
- - [Social media platforms are hastily rewriting rules on hate and propaganda amid the war on Ukraine, setting precedents that may haunt them in the future &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220327/p2#a220327p2)<!-- TECH:END -->
+ - [Leapsome, a Berlin-based startup helping HR teams automate employee feedback and training processes, raises a $60M Series A led by Insight Partners &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220327/p3#a220327p3)
+ - [Video Games Offered My Son a Haven From Bullying](https://www.wired.com/story/video-games-beat-bullying)
+ - [How to Unlock Your iPhone With Face ID—While Wearing a Mask](https://www.wired.com/story/how-to-unlock-iphone-with-face-id-and-face-mask)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
