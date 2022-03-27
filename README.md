@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March Madness Elite 8: How to Watch, Live Stream Miami vs. Kansas, Saint Peter&#39;s vs. North Carolina     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-elite-8-how-to-watch-live-stream-miami-vs-kansas-saint-peters-vs-north-carolina/#ftag=CAD590a51e)
- - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Eufy Video Doorbell Dual review: The perfect pal for package protection hounds](https://www.androidauthority.com/eufy-video-doorbell-dual-review-3129652/)<!-- TECH:END -->
+ - [Apple may keep &#39;iPhone 14 Pro&#39; camera bump to hold larger 48MP sensors](https://appleinsider.com/articles/22/03/27/apple-may-keep-iphone-14-pro-camera-bump-to-hold-larger-48mp-sensors?utm_medium=rss)
+ - [iFixit completes its week-long Mac Studio teardown: swappable but likely not upgradable SSDs, a massive heatsink, a dual-fan assembly, and more &lpar;Sam Goldheart/iFixit News&rpar;](http://www.techmeme.com/220327/p4#a220327p4)
+ - [March Madness Elite 8: How to Watch, Live Stream Miami vs. Kansas, Saint Peter&#39;s vs. North Carolina     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-elite-8-how-to-watch-live-stream-miami-vs-kansas-saint-peters-vs-north-carolina/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
