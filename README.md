@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder Adds Elden Ring&#39;s Message System To Fallout: New Vegas](https://kotaku.com/elden-ring-fallout-new-vegas-mod-pc-messages-finger-but-1848709892)
- - [Fortnite Players Have Now Raised Over $70 Million For Ukraine](https://kotaku.com/fortnite-epic-ukraine-charity-70-million-donations-war-1848709669)
- - [Among Us Servers Have Been Down For Over 48 Hours Due To DDoS Attack](https://kotaku.com/among-us-down-servers-ddos-update-innersloth-attack-sab-1848709508)<!-- GAME:END -->
+ - [The Week In Games: Rule The Middle Ages On Your Console](https://kotaku.com/the-week-in-games-rule-the-middle-ages-on-your-console-1848710048)
+ - [IGDA under fire over botched handling of harassment controversy](https://www.pcgamer.com/igda-under-fire-over-botched-handling-of-harassment-controversy)
+ - [Modder Adds Elden Ring&#39;s Message System To Fallout: New Vegas](https://kotaku.com/elden-ring-fallout-new-vegas-mod-pc-messages-finger-but-1848709892)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
