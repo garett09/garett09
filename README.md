@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our pandas, ourselves: What the panda means for Turning Red’s mother-daughter relationship](https://www.polygon.com/22996520/turning-red-panda-meaning)
  - [How to watch the 2022 Oscars](https://www.polygon.com/2022/3/27/22996374/oscars-2022-how-to-watch-stream-what-time)
- - [Bridgerton season 2 is a major departure — but did it work?](https://www.polygon.com/22993130/bridgerton-season-2-ending-breakdown)
- - [Five Nights at Freddy’s spawned a fan game renaissance shaded by controversy](https://www.polygon.com/22992812/five-nights-at-freddys-freddy-fazbear-initiative-scott-cawthon-controversy)<!-- GAME:END -->
+ - [Bridgerton season 2 is a major departure — but did it work?](https://www.polygon.com/22993130/bridgerton-season-2-ending-breakdown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
