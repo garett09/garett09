@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What if they are just desperate to talk to someone...](http://9gag.com/gag/awz1yry)
- - 🚯 [What could I say except---- `You get what you f***ing deserve. `](http://9gag.com/gag/a8101BV)
- - 🚯 [Started my new life for five long years at Europe, From 3rd world country ,from nothing ,no money no honey ,even not too much right now, but at least, I got RTX3080. HBD to me. So proud of myself. sorry for my English](http://9gag.com/gag/aqG6eRM)<!-- MEMES:END -->
+ - 🚖 [Truck driver provides water to thirsty camel in the middle of desert.](http://9gag.com/gag/ajgLPpG)
+ - 🚯 [Guy swimming where he shouldn&#39;t](http://9gag.com/gag/aXrVn36)
+ - 🚯 [I did it boys! I quit my corporate job, got forklift certified. Now I have so much money and drowning in p*$y](http://9gag.com/gag/a915yQ1)<!-- MEMES:END -->
 
 --- 
 
