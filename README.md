@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mariupol, before and after](http://9gag.com/gag/ay963wb)
+ - 🚖 [Great success!](http://9gag.com/gag/aGzB87z)
  - 🚯 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
- - 🚯 [Vacationtime](http://9gag.com/gag/aXrVNKb)<!-- MEMES:END -->
+ - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)<!-- MEMES:END -->
 
 --- 
 
