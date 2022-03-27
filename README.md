@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stream the 94th Academy Awards](https://www.theverge.com/2022/3/27/22996861/oscars-streaming-94th-academy-awards-wanda-sykes-regina-hall-amy-schumer)
- - [Sean Penn Says He&#39;ll Smelt His Oscars Unless Zelenskyy Invited To Speak at Awards     - CNET](https://www.cnet.com/culture/entertainment/sean-penn-says-hell-smelt-his-oscars-unless-zelenskyy-invited-to-speak-at-awards/#ftag=CAD590a51e)
- - [LeBron James and the Princess Diana Musical Clean Up Royally at the Razzies     - CNET](https://www.cnet.com/culture/entertainment/lebron-james-and-the-princess-diana-musical-clean-up-royally-at-the-razzies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Madness Elite 8: How to Watch, Live Stream Miami vs. Kansas, Saint Peter&#39;s vs. North Carolina     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-elite-8-how-to-watch-live-stream-miami-vs-kansas-saint-peters-vs-north-carolina/#ftag=CAD590a51e)
+ - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
+ - [Eufy Video Doorbell Dual review: The perfect pal for package protection hounds](https://www.androidauthority.com/eufy-video-doorbell-dual-review-3129652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
