@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I didn&#39;t expected that](http://9gag.com/gag/avA61y5)
- - 🚯 [That&#39;s a sikh burn](http://9gag.com/gag/aDD86RB)
- - 🚯 [Mariupol, before and after](http://9gag.com/gag/ay963wb)<!-- MEMES:END -->
+ - 🚖 [He&#39;s legend](http://9gag.com/gag/adgQ1bj)
+ - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)
+ - 🚯 [Ukrainian forces fighting in the Sumy region](http://9gag.com/gag/aOQZeNv)<!-- MEMES:END -->
 
 --- 
 
