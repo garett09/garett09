@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lowland gorilla at Miami zoo uses sign language to tell someone that he&#39;s not allowed to be fed by visitors.](http://9gag.com/gag/aDD87X9)
- - 🚯 [The original sculptor of the famous Ronaldo bust redeemed himself.](http://9gag.com/gag/aVxKgxd)
- - 🚯 [Truck driver provides water to thirsty camel in the middle of desert.](http://9gag.com/gag/ajgLPpG)<!-- MEMES:END -->
+ - 🚖 [The original sculptor of the famous Ronaldo bust redeemed himself.](http://9gag.com/gag/aVxKgxd)
+ - 🚯 [Starting again, just looking for peace. Wish me luck, Fellows!](http://9gag.com/gag/aYrDGK7)
+ - 🚯 [ARRRRRRR](http://9gag.com/gag/a210Mg9)<!-- MEMES:END -->
 
 --- 
 
