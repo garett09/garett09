@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)
- - [Kuo: camera bump on the iPhone 14 Pro and 14 Pro Max smartphones will increase about five percent in each dimension due to a larger 48MP sensor &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220327/p6#a220327p6)
- - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Man arrested for tracking car by attaching Apple Watch to a wheel](https://appleinsider.com/articles/22/03/27/man-arrested-for-tracking-car-by-attaching-apple-watch-to-a-wheel?utm_medium=rss)
+ - [Amazon workers say they weren’t all alerted as smoke spread through a warehouse](https://www.theverge.com/2022/3/27/22998856/amazon-workers-werent-all-alerted-smoke-spread-through-warehouse-bessemer-alabama)
+ - [How to watch the 94th Academy Awards on your iPhone, iPad, Mac, or Apple TV](https://appleinsider.com/articles/22/03/27/how-to-watch-the-94th-academy-awards-on-your-apple-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
