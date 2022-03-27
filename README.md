@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moves like jagger](http://9gag.com/gag/azeKP9Z)
- - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)
- - 🚯 [HERMANN G \u00d6 \u00d6 \u00d6 \u00d6 R I N G! Jaa, guuut](http://9gag.com/gag/adgQOXD)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in Russia. 19-year old Jegor Bestsjastnov from Samara is released from prison after organising an anti-war protest. Outside the gate waits his mother and the men from the commissioner&#39;s office. He has to report for the army.](http://9gag.com/gag/avA66LZ)
+ - 🚯 [I&#39;m openminded, but I&#39;m starting to feel more and more like Peter.](http://9gag.com/gag/axB6v11)
+ - 🚯 [Well that look like cheating with extra steps](http://9gag.com/gag/aqG667L)<!-- MEMES:END -->
 
 --- 
 
