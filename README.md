@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Rewards Credit Cards for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)
  - [Google Chrome for macOS updated to fix high-severity zero-day bug](https://appleinsider.com/articles/22/03/26/google-chrome-for-macos-updated-to-fix-high-severity-zero-day-bug?utm_medium=rss)
- - [FCC calls Russian Kaspersky Lab a &#39;national security&#39; risk](https://appleinsider.com/articles/22/03/26/fcc-calls-russian-kaspersky-lab-a-national-security-risk?utm_medium=rss)
- - [Apple Pay closes loophole that allowed Russian users to pay with Mir cards](https://www.theverge.com/2022/3/26/22997758/apple-pay-google-pay-loophole-mir-cards-russia-payment-system-ukraine-war)<!-- TECH:END -->
+ - [FCC calls Russian Kaspersky Lab a &#39;national security&#39; risk](https://appleinsider.com/articles/22/03/26/fcc-calls-russian-kaspersky-lab-a-national-security-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
