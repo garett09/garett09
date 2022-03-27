@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)
  - [Kuo: camera bump on the iPhone 14 Pro and 14 Pro Max smartphones will increase about five percent in each dimension due to a larger 48MP sensor &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220327/p6#a220327p6)
- - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)
- - [Best Credit Cards With No Balance Transfer Fees for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-balance-transfer-fee-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
