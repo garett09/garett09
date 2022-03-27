@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seagulls watching the sky](http://9gag.com/gag/aOQZ8e2)
+ - 🚖 [Lowland gorilla at Miami zoo uses sign language to tell someone that he&#39;s not allowed to be fed by visitors.](http://9gag.com/gag/aDD87X9)
  - 🚯 [The original sculptor of the famous Ronaldo bust redeemed himself.](http://9gag.com/gag/aVxKgxd)
- - 🚯 [Ok, now what](http://9gag.com/gag/avA6yjM)<!-- MEMES:END -->
+ - 🚯 [Truck driver provides water to thirsty camel in the middle of desert.](http://9gag.com/gag/ajgLPpG)<!-- MEMES:END -->
 
 --- 
 
