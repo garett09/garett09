@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The original sculptor of the famous Ronaldo bust redeemed himself.](http://9gag.com/gag/aVxKgxd)
- - 🚯 [Yale students protests free speech roundtables by shouting down the panel. This is the future lawyers of the nation...smh](http://9gag.com/gag/aXrVLL2)
- - 🚯 [I did it boys! I quit my corporate job, got forklift certified. Now I have so much money and drowning in p*$y](http://9gag.com/gag/a915yQ1)<!-- MEMES:END -->
+ - 🚖 [Haha](http://9gag.com/gag/aE8A66K)
+ - 🚯 [ARRRRRRR](http://9gag.com/gag/a210Mg9)
+ - 🚯 [I didn&#39;t expected that](http://9gag.com/gag/avA61y5)<!-- MEMES:END -->
 
 --- 
 
