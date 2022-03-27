@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the 94th Academy Awards on your Apple devices](https://appleinsider.com/articles/22/03/27/how-to-watch-the-94th-academy-awards-on-your-apple-devices?utm_medium=rss)
- - [An analysis of 19.3M NFTs across ~8,400 collections: one in three have little or no trading activity, and another third trade below their original minting cost &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220327/p5#a220327p5)
- - [Should You Upgrade to Galaxy S22 Ultra? See How It Compares to Older Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-galaxy-s22-ultra-see-how-it-compares-to-older-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: camera bump on the iPhone 14 Pro and 14 Pro Max smartphones will increase about five percent in each dimension due to a larger 48MP sensor &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220327/p6#a220327p6)
+ - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)
+ - [Best Credit Cards With No Balance Transfer Fees for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-balance-transfer-fee-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
