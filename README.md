@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in Russia. 19-year old Jegor Bestsjastnov from Samara is released from prison after organising an anti-war protest. Outside the gate waits his mother and the men from the commissioner&#39;s office. He has to report for the army.](http://9gag.com/gag/avA66LZ)
- - 🚯 [I&#39;m openminded, but I&#39;m starting to feel more and more like Peter.](http://9gag.com/gag/axB6v11)
- - 🚯 [Well that look like cheating with extra steps](http://9gag.com/gag/aqG667L)<!-- MEMES:END -->
+ - 🚖 [This guy can teach you to `play` the piano in less than 4 minutes](http://9gag.com/gag/adgQOyN)
+ - 🚯 [Best Payback](http://9gag.com/gag/avA6eEZ)
+ - 🚯 [Was watching some WW2 documentary when suddenly this legend appeared.](http://9gag.com/gag/aPZoPmq)<!-- MEMES:END -->
 
 --- 
 
