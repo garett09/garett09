@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`The Massey University lecturer specialised in fat studies and body stigma. She had recently been outspoken about healthcare discrimination based on body size, during the pandemic.`](http://9gag.com/gag/aAGKKqd)
- - 🚯 [Vacationtime](http://9gag.com/gag/aXrVNKb)
- - 🚯 [With all these before-after photos showing dramatic changes, I present you Seljestadjuvet, Odda, Norway.](http://9gag.com/gag/azeKKvK)<!-- MEMES:END -->
+ - 🚖 [DHL just gave 6 of its trucks to Ukrainian army after a soldier called the head of DHL and asked him if he can give them at least one truck.](http://9gag.com/gag/ajgLBNg)
+ - 🚯 [Well that look like cheating with extra steps](http://9gag.com/gag/aqG667L)
+ - 🚯 [I was exploring the galaxy with the interstellar soundtrack on in the background and it synced perfectly with the frame-shift jump.](http://9gag.com/gag/awz11wr)<!-- MEMES:END -->
 
 --- 
 
