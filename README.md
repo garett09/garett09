@@ -190,9 +190,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Rewards Credit Cards for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)
- - [Google Chrome for macOS updated to fix high-severity zero-day bug](https://appleinsider.com/articles/22/03/26/google-chrome-for-macos-updated-to-fix-high-severity-zero-day-bug?utm_medium=rss)
- - [FCC calls Russian Kaspersky Lab a &#39;national security&#39; risk](https://appleinsider.com/articles/22/03/26/fcc-calls-russian-kaspersky-lab-a-national-security-risk?utm_medium=rss)<!-- TECH:END -->
+ - [Paris-based Lucca, which provides SMBs with tools to automate HR and administrative tasks, raises &amp;euro;65M from One Peak Partners, after 20 years of self-financing &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220327/p1#a220327p1)
+ - [My Father&#39;s Beautiful Brain: How a Traumatic Brain Injury Changed Our Family Forever     - CNET](https://www.cnet.com/science/biology/features/my-fathers-beautiful-brain-how-a-traumatic-brain-injury-changed-our-family/#ftag=CAD590a51e)
+ - [Best Rewards Credit Cards for April 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
