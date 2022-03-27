@@ -183,9 +183,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Portal 2: Desolation is giving the classic puzzle game a huge graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul)
  - [Halo TV premiere broke Paramount+ viewer record](https://www.pcgamer.com/halo-tv-premiere-broke-paramount-record-for-number-of-viewers)
- - [Vampire Survivors will get 9 more characters, 5 new stages, and 16 new weapons before release](https://www.pcgamer.com/vampire-survivors-will-get-9-more-characters-5-new-stages-and-16-new-weapons-before-release)
- - [Looking back at Sierra&#39;s original Police Quest games](https://www.pcgamer.com/saturday-video-crapshoot-police-quest)<!-- GAME:END -->
+ - [Vampire Survivors will get 9 more characters, 5 new stages, and 16 new weapons before release](https://www.pcgamer.com/vampire-survivors-will-get-9-more-characters-5-new-stages-and-16-new-weapons-before-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
