@@ -197,9 +197,9 @@ Windows                  8 hrs 8 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s legend](http://9gag.com/gag/adgQ1bj)
- - 🚯 [This idea never crossed my mind](http://9gag.com/gag/azeKPjb)
- - 🚯 [Ukrainian forces fighting in the Sumy region](http://9gag.com/gag/aOQZeNv)<!-- MEMES:END -->
+ - 🚖 [We have](http://9gag.com/gag/aGzBnb0)
+ - 🚯 [Haha](http://9gag.com/gag/aE8A66K)
+ - 🚯 [Electric is Future](http://9gag.com/gag/avA61Mq)<!-- MEMES:END -->
 
 --- 
 
