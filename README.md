@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was exploring the galaxy with the interstellar soundtrack on in the background and it synced perfectly with the frame-shift jump.](http://9gag.com/gag/awz11wr)
- - 🚯 [Test drive](http://9gag.com/gag/aNPQVvr)
- - 🚯 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)<!-- MEMES:END -->
+ - 🚖 [Here comes the hero from another angle.](http://9gag.com/gag/aDD8Zy7)
+ - 🚯 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)
+ - 🚯 [Guess the country](http://9gag.com/gag/axB6bMD)<!-- MEMES:END -->
 
 --- 
 
