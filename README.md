@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [14 great new romance books you should read](https://www.polygon.com/22993288/best-romance-books-novels)
- - [Bungie and the Beatle: The Paul McCartney story](https://www.polygon.com/22996738/bungie-destiny-paul-mccartney-marty-odonnell-history)
- - [New One Piece game tells an original story for series’ 25th anniversary](https://www.polygon.com/22999735/one-piece-odyssey-rpg-game-release-date)<!-- GAME:END -->
+ - [The Flash’s weirdo villains teamed up to pull off one last heist](https://www.polygon.com/22958159/the-flash-villains-dc-comics-heist-gorilla-grodd-rogues-one)
+ - [Destiny 2 Maker Blasts YouTube&#39;s Takedown System In Wild Lawsuit](https://kotaku.com/destiny-2-copyright-takedown-bungie-lawsuit-youtube-acc-1848713200)
+ - [Vampire Survivors’ future includes 9 new characters, 16 new weapons, and Arcanas](https://www.polygon.com/22999721/vampire-survivors-characters-roadmap-weapons-arcana)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
