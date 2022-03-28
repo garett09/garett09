@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to Central/Eastern Europe.](http://9gag.com/gag/aM4POyW)
- - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)
- - 🚯 [Oscars, Will Smith Smash](http://9gag.com/gag/aGzBAyZ)<!-- MEMES:END -->
+ - 🚖 [Bread \u2018n butter](http://9gag.com/gag/ay96vvp)
+ - 🚯 [Welcome to Central/Eastern Europe.](http://9gag.com/gag/aM4POyW)
+ - 🚯 [The oscars?](http://9gag.com/gag/a110EG2)<!-- MEMES:END -->
 
 --- 
 
