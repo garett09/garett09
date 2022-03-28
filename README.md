@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces escalating fines over Dutch dating app payments](https://appleinsider.com/articles/22/03/28/apple-faces-escalating-fines-over-dutch-dating-app-payments?utm_medium=rss)
- - [Bored Ape Yacht Club’s newest merch drop can only be bought with ApeCoin](https://www.theverge.com/2022/3/28/23000264/apecoin-bored-ape-yacht-club-bayc-merch-dao)
- - [How to turn off the PS5 controller](https://www.androidauthority.com/turn-off-ps5-controller-3145546/)<!-- TECH:END -->
+ - [Biden&#39;s New Budget Proposal Excludes Student Loan Relief, But There&#39;s Still Time to Extend the Repayment Pause     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)
+ - [Academy &#39;Condemns&#39; Will Smith&#39;s Oscar Slap of Chris Rock, Exploring Further Action     - CNET](https://www.cnet.com/culture/entertainment/academy-condemns-will-smiths-oscar-slap-of-chris-rock-exploring-further-action/#ftag=CAD590a51e)
+ - [Best microSD Card Deals: $50 Off 512GB SanDisk Extreme, $116 Off 1TB Lexar     - CNET](https://www.cnet.com/tech/computing/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
