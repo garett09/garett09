@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here comes the hero from another angle.](http://9gag.com/gag/aDD8Zy7)
- - 🚯 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)
- - 🚯 [Guess the country](http://9gag.com/gag/axB6bMD)<!-- MEMES:END -->
+ - 🚖 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)
+ - 🚯 [Here comes the hero from another angle.](http://9gag.com/gag/aDD8Zy7)
+ - 🚯 [Wait for it...](http://9gag.com/gag/a615BQq)<!-- MEMES:END -->
 
 --- 
 
