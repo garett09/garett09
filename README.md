@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact&#39;s Latest Character Reveals Clouded By Ongoing Leak War](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-hoyoverse-leaks-arata-1848714729)
- - [Terraform a planet in this survival game that looks like Subnautica on Mars](https://www.pcgamer.com/terraform-a-planet-in-this-survival-game-that-looks-like-subnautica-on-mars)
- - [Attack on Titan’s original studio is making an anime about a vampire war](https://www.polygon.com/22999747/vampire-in-the-garden-trailer-wit-studio-anime-netflix-attack-on-titan)<!-- GAME:END -->
+ - [Tiny Tina&#39;s Revolution Side-Quest Is Borderlands Writing At Its Best](https://kotaku.com/tiny-tinas-wonderlands-goblins-gtfo-side-quest-xbox-ps4-1848714954)
+ - [Diablo Immortal players can change classes and keep progression](https://www.polygon.com/23000331/diablo-immortal-free-to-play-cosmetics-class-change-progression)
+ - [Call of Duty: Warzone Can’t Get More Maps Because Install Size Is ‘F**king Crazy’](https://kotaku.com/cod-warzone-dev-map-rotation-verdansk-caldera-raven-upd-1848715230)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
