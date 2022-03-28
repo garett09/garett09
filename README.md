@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden&#39;s New Budget Proposal Excludes Student Loan Relief, But There&#39;s Still Time to Extend the Repayment Pause     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)
- - [Academy &#39;Condemns&#39; Will Smith&#39;s Oscar Slap of Chris Rock, Exploring Further Action     - CNET](https://www.cnet.com/culture/entertainment/academy-condemns-will-smiths-oscar-slap-of-chris-rock-exploring-further-action/#ftag=CAD590a51e)
- - [Best microSD Card Deals: $50 Off 512GB SanDisk Extreme, $116 Off 1TB Lexar     - CNET](https://www.cnet.com/tech/computing/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Now Says It Will Work to Help Repeal Florida&#39;s &#39;Don&#39;t Say Gay&#39; Law     - CNET](https://www.cnet.com/news/politics/disney-now-says-it-will-work-to-help-repeal-floridas-dont-say-gay-law/#ftag=CAD590a51e)
+ - [A new bill would launch a large-scale test of digital dollars](https://www.theverge.com/2022/3/28/22999894/ecash-act-digital-currency-us-congress-bill)
+ - [Trucker Protest: US Convoy Coming to an End     - CNET](https://www.cnet.com/news/politics/trucker-protest-us-convoy-coming-to-an-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
