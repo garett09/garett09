@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fennec fox, he&#39;s a desert animal](http://9gag.com/gag/avA6xGO)
- - 🚯 [The Oscars used to be an event for me](http://9gag.com/gag/a615Be8)
- - 🚯 [Cola+Mentos=K-Boom](http://9gag.com/gag/aRrMvoy)<!-- MEMES:END -->
+ - 🚖 [The legend Dr. Shaquille O&#39;Neal](http://9gag.com/gag/ang2xpB)
+ - 🚯 [The oscars have been shit and this is the only way they can get people to talk about it again](http://9gag.com/gag/amg6MZj)
+ - 🚯 [Keep their names out yo\u2019 f\u2019n MOUTH!!](http://9gag.com/gag/a41N2eA)<!-- MEMES:END -->
 
 --- 
 
