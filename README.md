@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ Just Won Best Picture. Everything Is Different Now](https://www.wired.com/story/oscars-streaming-services)
- - [Apple TV+ original film &#39;Coda&#39; wins Best Picture at the 2022 Oscars](https://appleinsider.com/articles/22/03/28/apple-tv-original-film-coda-wins-best-picture-at-the-2022-oscars?utm_medium=rss)
- - [Jane Campion Makes Oscars History with Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/jane-campion-makes-oscars-history-with-best-director-win/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ original film &#39;CODA&#39; wins Best Picture at the 2022 Oscars](https://appleinsider.com/articles/22/03/28/apple-tv-original-film-coda-wins-best-picture-at-the-2022-oscars?utm_medium=rss)
+ - [Apple wins its first Oscar as CODA gets the Best Picture award, making Apple TV+ the first streaming service to win the awards&#39; highest honor &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220328/p1#a220328p1)
+ - [Oscars 2022: Jane Campion Scoops Historic Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-jane-campion-scoops-historic-best-director-win/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
