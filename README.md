@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 15.4: The New Features You&#39;ll Want on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-15-4-the-new-features-youll-want-on-your-iphone/#ftag=CAD590a51e)
  - [Samsung &lpar;accidentally?&rpar; praises a rival’s foldable on Twitter](https://www.androidauthority.com/samsung-oppo-find-n-twitter-3142400/)
- - [OnePlus 10R leaked specs suggest it’s a Realme in disguise](https://www.androidauthority.com/oneplus-10r-specs-3145056/)
- - [Will Smith Hits Chris Rock at Oscars for Joking About Jada Pinkett Smith     - CNET](https://www.cnet.com/culture/entertainment/will-smith-hits-chris-rock-at-oscars-for-joking-about-jada-pinkett-smith/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 10R leaked specs suggest it’s a Realme in disguise](https://www.androidauthority.com/oneplus-10r-specs-3145056/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
