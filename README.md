@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [#OscarsSoWhite](http://9gag.com/gag/aLv4Xpx)
- - 🚯 [Keep their names out yo\u2019 f\u2019n MOUTH!!](http://9gag.com/gag/a41N2eA)
- - 🚯 [Hello fellow wankers. Rest here for a while from all the Will Smith spam memes](http://9gag.com/gag/a915XGL)<!-- MEMES:END -->
+ - 🚖 [Welcome to Central/Eastern Europe.](http://9gag.com/gag/aM4POyW)
+ - 🚯 [Just imagine, Will](http://9gag.com/gag/a51w5dN)
+ - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)<!-- MEMES:END -->
 
 --- 
 
