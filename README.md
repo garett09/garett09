@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s who won at the 2022 Oscars](https://www.polygon.com/22998920/oscars-winners-2022-list-academy-awards)
- - [Politics streamer Destiny receives indefinite ban from Twitch](https://www.pcgamer.com/politics-streamer-destiny-receives-indefinite-ban-from-twitch)
- - [Five new Steam games you probably missed &lpar;March 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-28-2022)<!-- GAME:END -->
+ - [Army of the Dead wins the ‘Oscar’ for Fan Favorite Movie](https://www.polygon.com/22996761/fan-favorite-oscar)
+ - [Watch the first live performance of We Don’t Talk About Bruno](https://www.polygon.com/22999130/we-dont-talk-about-bruno-oscars-2022-encanto-performance)
+ - [Lightyear’s Oscars trailer just promises big-ass robots](https://www.polygon.com/22999217/lightyear-pixar-disney-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
