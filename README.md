@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This lady has to be one of the Final Boss level Karens](http://9gag.com/gag/aqG6QoP)
- - 🚯 [Here comes the hero from another angle.](http://9gag.com/gag/aDD8Zy7)
- - 🚯 [Wait for it...](http://9gag.com/gag/a615BQq)<!-- MEMES:END -->
+ - 🚖 [Elephant toothpaste](http://9gag.com/gag/a3108e1)
+ - 🚯 [She got far](http://9gag.com/gag/a11058D)
+ - 🚯 [Besides navigation my passion is woodworking, hope you like it and if you are into it i&#39;ll give you more](http://9gag.com/gag/azeKG1K)<!-- MEMES:END -->
 
 --- 
 
