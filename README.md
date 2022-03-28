@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon workers say they weren’t all alerted as smoke spread through a warehouse](https://www.theverge.com/2022/3/27/22998856/amazon-workers-werent-all-alerted-smoke-spread-through-warehouse-bessemer-alabama)
  - [Oscars 2022 Live Updates: Red Carpet, Early Winners     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-live-updates-red-carpet-early-winners/#ftag=CAD590a51e)
- - [Sources detail NHTSA&#39;s difficulties regulating Tesla as it rolls out self-driving features, resorting to threats and flattery in exchanges with Elon Musk &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/220327/p7#a220327p7)
- - [Man arrested for tracking car by attaching Apple Watch to a wheel](https://appleinsider.com/articles/22/03/27/man-arrested-for-tracking-car-by-attaching-apple-watch-to-a-wheel?utm_medium=rss)<!-- TECH:END -->
+ - [Sources detail NHTSA&#39;s difficulties regulating Tesla as it rolls out self-driving features, resorting to threats and flattery in exchanges with Elon Musk &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/220327/p7#a220327p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
