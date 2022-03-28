@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian cybersecurity firm Kaspersky added to US national security blacklist](https://www.pcgamer.com/russian-cybersecurity-firm-kaspersky-added-to-us-national-security-blacklist)
- - [Coffee Talk creator Fahmi has died at 32](https://www.pcgamer.com/coffee-talk-creator-fahmi-has-died-at-32)
- - [Ion Storm Austin&#39;s journey from Thief to Thief, by way of Deus Ex](https://www.pcgamer.com/ion-storm-austins-journey-from-thief-to-thief-by-way-of-deus-ex)<!-- GAME:END -->
+ - [Forza Horizon 5 is getting a multiplayer overhaul this week](https://www.polygon.com/22999594/forza-horizon-5-patch-horizon-open-progression-custom-races)
+ - [Dreams: The 3rd Annual Impy Awards winners revealed](https://blog.playstation.com/2022/03/28/dreams-the-3rd-annual-impy-awards-winners-revealed/)
+ - [Dreams: The 3rd Annual Impy Awards winners revealed](https://blog.playstation.com/2022/03/28/dreams-the-3rd-annual-impy-awards-winners-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
