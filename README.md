@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ original film &#39;CODA&#39; wins Best Picture at the 2022 Oscars](https://appleinsider.com/articles/22/03/28/apple-tv-original-film-coda-wins-best-picture-at-the-2022-oscars?utm_medium=rss)
- - [Apple wins its first Oscar as CODA gets the Best Picture award, making Apple TV+ the first streaming service to win the awards&#39; highest honor &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220328/p1#a220328p1)
- - [Oscars 2022: Jane Campion Scoops Historic Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-jane-campion-scoops-historic-best-director-win/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 10R leaked specs suggest it’s a Realme in disguise](https://www.androidauthority.com/oneplus-10r-specs-3145056/)
+ - [Will Smith Hits Chris Rock at Oscars for Joking About Jada Pinkett Smith     - CNET](https://www.cnet.com/culture/entertainment/will-smith-hits-chris-rock-at-oscars-for-joking-about-jada-pinkett-smith/#ftag=CAD590a51e)
+ - [Chris Rock Won&#39;t Press Charges Against Will Smith for Oscars Slap, LAPD Says     - CNET](https://www.cnet.com/culture/entertainment/chris-rock-decides-not-to-press-charges-against-will-smith-lapd-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
