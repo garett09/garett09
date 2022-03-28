@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Characters Make For Some Terrific Needle Felting](https://kotaku.com/pokemon-characters-make-for-some-terrific-needle-feltin-1848711281)
- - [Intel and Micron pushing hard for subsidies from the US government](https://www.pcgamer.com/intel-and-micron-pushing-hard-for-subsidies-from-the-us-government)
- - [Today&#39;s Wordle answer #282: Monday, March 28](https://www.pcgamer.com/wordle-march-28-282)<!-- GAME:END -->
+ - [Russian cybersecurity firm Kaspersky added to US national security blacklist](https://www.pcgamer.com/russian-cybersecurity-firm-kaspersky-added-to-us-national-security-blacklist)
+ - [Coffee Talk creator Fahmi has died at 32](https://www.pcgamer.com/coffee-talk-creator-fahmi-has-died-at-32)
+ - [Ion Storm Austin&#39;s journey from Thief to Thief, by way of Deus Ex](https://www.pcgamer.com/ion-storm-austins-journey-from-thief-to-thief-by-way-of-deus-ex)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
