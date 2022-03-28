@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Colin this absolute legend](http://9gag.com/gag/a51wD6y)
+ - 🚖 [Bread \u2018n butter](http://9gag.com/gag/ay96vvp)
  - 🚯 [It be like that](http://9gag.com/gag/aVxKREd)
- - 🚯 [Too much here to unpack for a Monday\u2026](http://9gag.com/gag/a710GZL)<!-- MEMES:END -->
+ - 🚯 [Disgustang](http://9gag.com/gag/aNPQqp0)<!-- MEMES:END -->
 
 --- 
 
