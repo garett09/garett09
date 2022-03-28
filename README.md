@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is testing a much higher file size limit for sharing](https://www.androidauthority.com/whatsapp-2gb-file-sharing-limit-3145364/)
- - [HP plans to acquire Poly, formerly Plantronics, which makes audio and video devices for conference calls, for $1.7B in cash &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/220328/p8#a220328p8)
- - [Mortgage Refinance Rates for Mar. 28, 2022: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-mar-28-2022-rate-eases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top 7 Amazon deals for the week of March 28: Apple AirPods, Mac mini, TurboTax, iPad Air &amp; more on sale](https://appleinsider.com/articles/22/03/28/top-5-amazon-deals-for-the-week-of-march-28-airpods-mac-mini-turbotax-more-on-sale?utm_medium=rss)
+ - [Huawei Matebook E review: Surface-level](https://www.androidauthority.com/huawei-matebook-e-review-3141324/)
+ - [Samsung&#39;s $700 Smart Monitor M8 borrows Apple&#39;s multi-colored iMac style](https://appleinsider.com/articles/22/03/28/samsungs-700-smart-monitor-m8-borrows-apples-multi-colored-imac-style?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
