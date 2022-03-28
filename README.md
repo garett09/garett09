@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 7 Amazon deals for the week of March 28: Apple AirPods, Mac mini, TurboTax, iPad Air &amp; more on sale](https://appleinsider.com/articles/22/03/28/top-5-amazon-deals-for-the-week-of-march-28-airpods-mac-mini-turbotax-more-on-sale?utm_medium=rss)
- - [Huawei Matebook E review: Surface-level](https://www.androidauthority.com/huawei-matebook-e-review-3141324/)
- - [Samsung&#39;s $700 Smart Monitor M8 borrows Apple&#39;s multi-colored iMac style](https://appleinsider.com/articles/22/03/28/samsungs-700-smart-monitor-m8-borrows-apples-multi-colored-imac-style?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)
+ - [Oscars 2022: Apple’s CODA wins big, while Dune dominates technical awards](https://www.theverge.com/2022/3/28/22999586/oscars-2022-winners-code-dune-will-smith)
+ - [Apple Maps teams hiking around UK cities with camera-laden backpacks](https://appleinsider.com/articles/22/03/28/apple-maps-teams-hiking-around-uk-cities-with-camera-laden-backpacks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
