@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How a movie like Mega Shark vs. Giant Octopus gets made](https://www.polygon.com/22999975/mega-shark-vs-giant-octopus-asylum-movies-interview-jack-perez)
- - [This Cyberpunk Game&#39;s Simmering Lesbian Romance Has Me Hook, Line, And Sinker](https://kotaku.com/anno-mutationem-ayane-thinkingstars-cyberpunk-romance-1848715452)
- - [14 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
+ - [Humble&#39;s Stand With Ukraine bundle raises $26M in just one week](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-dollar26m-in-just-one-week)
+ - [This cheap 1TB NVMe SSD is an easy upgrade for your PC or PS5](https://www.pcgamer.com/this-cheap-1tb-nvme-ssd-is-an-easy-upgrade-for-your-pc-or-ps5)
+ - [Elden Ring speedrunner beats game in under 20 minutes](https://www.polygon.com/23000129/elden-ring-speedrun-record-under-20-minutes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
