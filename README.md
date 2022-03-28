@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cuts iPhone SE orders following weak demand](https://appleinsider.com/articles/22/03/28/apple-cuts-iphone-se-orders-following-weak-demand?utm_medium=rss)
- - [How does the Apple Watch calculate calories burned and is it accurate?](https://www.androidauthority.com/apple-watch-calories-3143687/)
- - [Samsung Galaxy S20 series starts getting One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
+ - [Daily Authority: 👉 The Sony empire grows](https://www.androidauthority.com/da-march-28-2022-3145166/)
+ - [How to open and use the task manager on a Chromebook](https://www.androidauthority.com/task-manager-chromebook-3144862/)
+ - [Apple heavily relies on China for manufacturing, but its plan to invest $430B in the US over five years is a promising sign of ramped up diversification &lpar;Gene Munster/Loup&rpar;](http://www.techmeme.com/220328/p3#a220328p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
