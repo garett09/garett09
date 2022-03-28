@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The legend Dr. Shaquille O&#39;Neal](http://9gag.com/gag/ang2xpB)
- - 🚯 [The oscars have been shit and this is the only way they can get people to talk about it again](http://9gag.com/gag/amg6MZj)
- - 🚯 [Keep their names out yo\u2019 f\u2019n MOUTH!!](http://9gag.com/gag/a41N2eA)<!-- MEMES:END -->
+ - 🚖 [Will Smith in a nutshell](http://9gag.com/gag/a8102B1)
+ - 🚯 [And the Oscar goes to..](http://9gag.com/gag/ajgLZ88)
+ - 🚯 [Will Smith be like:](http://9gag.com/gag/arnXqj7)<!-- MEMES:END -->
 
 --- 
 
