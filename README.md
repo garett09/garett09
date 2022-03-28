@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jane Campion Makes Oscars History with Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/jane-campion-makes-oscars-history-with-best-director-win/#ftag=CAD590a51e)
- - [Researchers identify thousands of computer-generated profile pictures being used on fake LinkedIn profiles for lead generation and product promotion &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/220327/p9#a220327p9)
- - [Oscars 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-live-updates-all-the-winners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ Just Won Best Picture. Everything Is Different Now](https://www.wired.com/story/oscars-streaming-services)
+ - [Apple TV+ original film &#39;Coda&#39; wins Best Picture at the 2022 Oscars](https://appleinsider.com/articles/22/03/28/apple-tv-original-film-coda-wins-best-picture-at-the-2022-oscars?utm_medium=rss)
+ - [Jane Campion Makes Oscars History with Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/jane-campion-makes-oscars-history-with-best-director-win/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
