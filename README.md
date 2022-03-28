@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bread \u2018n butter](http://9gag.com/gag/ay96vvp)
- - 🚯 [It be like that](http://9gag.com/gag/aVxKREd)
- - 🚯 [Disgustang](http://9gag.com/gag/aNPQqp0)<!-- MEMES:END -->
+ - 🚖 [Public&#39;s reaction..](http://9gag.com/gag/a915VVm)
+ - 🚯 [Chris rock apology](http://9gag.com/gag/abg4Q6r)
+ - 🚯 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)<!-- MEMES:END -->
 
 --- 
 
