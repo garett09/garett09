@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina&#39;s Revolution Side-Quest Is Borderlands Writing At Its Best](https://kotaku.com/tiny-tinas-wonderlands-goblins-gtfo-side-quest-xbox-ps4-1848714954)
- - [Diablo Immortal players can change classes and keep progression](https://www.polygon.com/23000331/diablo-immortal-free-to-play-cosmetics-class-change-progression)
- - [Call of Duty: Warzone Can’t Get More Maps Because Install Size Is ‘F**king Crazy’](https://kotaku.com/cod-warzone-dev-map-rotation-verdansk-caldera-raven-upd-1848715230)<!-- GAME:END -->
+ - [How a movie like Mega Shark vs. Giant Octopus gets made](https://www.polygon.com/22999975/mega-shark-vs-giant-octopus-asylum-movies-interview-jack-perez)
+ - [This Cyberpunk Game&#39;s Simmering Lesbian Romance Has Me Hook, Line, And Sinker](https://kotaku.com/anno-mutationem-ayane-thinkingstars-cyberpunk-romance-1848715452)
+ - [14 must-watch anime arriving for the 2022 spring season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
