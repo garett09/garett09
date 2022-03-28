@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.4: The New Features You&#39;ll Want on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-15-4-the-new-features-youll-want-on-your-iphone/#ftag=CAD590a51e)
- - [Samsung &lpar;accidentally?&rpar; praises a rival’s foldable on Twitter](https://www.androidauthority.com/samsung-oppo-find-n-twitter-3142400/)
- - [OnePlus 10R leaked specs suggest it’s a Realme in disguise](https://www.androidauthority.com/oneplus-10r-specs-3145056/)<!-- TECH:END -->
+ - [You told us: You’re definitely intrigued by the Nothing Phone 1](https://www.androidauthority.com/nothing-phone-1-interest-poll-results-3145120/)
+ - [Some museums across Europe, including the British Museum, are embracing NFTs as a fundraising tool, but most public galleries remain wary of cryptocurrencies &lpar;Scott Reyburn/New York Times&rpar;](http://www.techmeme.com/220328/p2#a220328p2)
+ - [Apple TV Plus is first streaming service to win Best Picture at the Oscars](https://www.theverge.com/2022/3/28/22999481/apple-tv-plus-oscars-best-picture-coda-netflix-power-of-the-dog-dont-look-up)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
