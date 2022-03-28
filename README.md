@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bread \u2018n butter](http://9gag.com/gag/ay96vvp)
- - 🚯 [Welcome to Central/Eastern Europe.](http://9gag.com/gag/aM4POyW)
- - 🚯 [The oscars?](http://9gag.com/gag/a110EG2)<!-- MEMES:END -->
+ - 🚖 [Andrew Garfield texting the other Peter Parkers to see if Will Smith slapped Chris Rock in their universes too](http://9gag.com/gag/axB6PRM)
+ - 🚯 [The oscars?](http://9gag.com/gag/a110EG2)
+ - 🚯 [After seeing the 25368478th post about Will Smith](http://9gag.com/gag/aqG6zwR)<!-- MEMES:END -->
 
 --- 
 
