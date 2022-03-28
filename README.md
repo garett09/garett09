@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Now Says It Will Work to Help Repeal Florida&#39;s &#39;Don&#39;t Say Gay&#39; Law     - CNET](https://www.cnet.com/news/politics/disney-now-says-it-will-work-to-help-repeal-floridas-dont-say-gay-law/#ftag=CAD590a51e)
- - [A new bill would launch a large-scale test of digital dollars](https://www.theverge.com/2022/3/28/22999894/ecash-act-digital-currency-us-congress-bill)
- - [Trucker Protest: US Convoy Coming to an End     - CNET](https://www.cnet.com/news/politics/trucker-protest-us-convoy-coming-to-an-end/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify rolls out a content advisory for podcasts and content that mention COVID-19, two months after promising the feature amid controversy over Rogan podcasts &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220328/p17#a220328p17)
+ - [The Best 55-Inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Rode’s first pair of headphones offer a comfortable and balanced way to monitor audio](https://www.theverge.com/22996194/rode-nth-100-mixing-headphones-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
