@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SIMP of the century](http://9gag.com/gag/aE8ADpM)
- - 🚯 [Will Smith be like:](http://9gag.com/gag/arnXqj7)
- - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)<!-- MEMES:END -->
+ - 🚖 [Will Smith be like:](http://9gag.com/gag/arnXqj7)
+ - 🚯 [#OscarsSoWhite](http://9gag.com/gag/aLv4Xpx)
+ - 🚯 [Hypocrisy at its finest](http://9gag.com/gag/avA6Rjb)<!-- MEMES:END -->
 
 --- 
 
