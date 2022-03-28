@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👉 The Sony empire grows](https://www.androidauthority.com/da-march-28-2022-3145166/)
- - [How to open and use the task manager on a Chromebook](https://www.androidauthority.com/task-manager-chromebook-3144862/)
- - [Apple heavily relies on China for manufacturing, but its plan to invest $430B in the US over five years is a promising sign of ramped up diversification &lpar;Gene Munster/Loup&rpar;](http://www.techmeme.com/220328/p3#a220328p3)<!-- TECH:END -->
+ - [Leaked documents detail Nokia&#39;s crucial role in Russia&#39;s vast surveillance system, providing equipment and services, which remains even as Nokia stops sales &lpar;New York Times&rpar;](http://www.techmeme.com/220328/p6#a220328p6)
+ - [Apple TV+ original film &#39;CODA&#39; wins Best Picture at the 2022 Oscars](https://appleinsider.com/articles/22/03/28/apple-tv-original-film-coda-wins-best-picture-at-the-2022-oscars?utm_medium=rss)
+ - [Top 5 Amazon deals for the week of March 28: AirPods, Mac mini, TurboTax &amp; more on sale](https://appleinsider.com/articles/22/03/28/top-5-amazon-deals-for-the-week-of-march-28-airpods-mac-mini-turbotax-more-on-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
