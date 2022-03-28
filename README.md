@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Smith wins the Best Actor Oscar shortly after slapping Chris Rock](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)
- - [That Is A Very Big Ship, Sir](https://kotaku.com/star-wars-destroyer-3d-art-jamison-cunningham-fine-sovi-1848710098)
- - [Army of the Dead wins the ‘Oscar’ for Fan Favorite Movie](https://www.polygon.com/22996761/fan-favorite-oscar)<!-- GAME:END -->
+ - [Apple’s CODA tops Netflix to win 2022 Best Picture Oscar](https://www.polygon.com/22998717/oscars-2022-best-picture-winner-coda-apple)
+ - [Wardens turn the recent Minecraft beta into survival horror](https://www.pcgamer.com/wardens-turn-the-recent-minecraft-beta-into-survival-horror)
+ - [Will Smith wins the Best Actor Oscar shortly after slapping Chris Rock](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
