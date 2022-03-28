@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble&#39;s Stand With Ukraine bundle raises $26M in just one week](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-dollar26m-in-just-one-week)
- - [This cheap 1TB NVMe SSD is an easy upgrade for your PC or PS5](https://www.pcgamer.com/this-cheap-1tb-nvme-ssd-is-an-easy-upgrade-for-your-pc-or-ps5)
- - [Elden Ring speedrunner beats game in under 20 minutes](https://www.polygon.com/23000129/elden-ring-speedrun-record-under-20-minutes)<!-- GAME:END -->
+ - [Games Industry Mourns Coffee Talk Creator, Who Passed Away At 32](https://kotaku.com/coffee-talk-creator-mohammad-fahmi-afterlove-what-comes-1848716627)
+ - [Our favorite 240Hz gaming monitor is $75 off](https://www.pcgamer.com/our-favorite-240hz-gaming-monitor-is-dollar75-off)
+ - [Humble&#39;s Stand With Ukraine bundle raises $26M in just one week](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-dollar26m-in-just-one-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
