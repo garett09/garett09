@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Genshin Impact 2.6](https://www.pcgamer.com/genshin-impact-26-release-date)
- - [You get a whole lot of gaming PC for £860 with this RTX 3060 build](https://www.pcgamer.com/you-get-a-whole-lot-of-gaming-pc-for-pound860-with-this-rtx-3060-build)
- - [Elden Ring Beaten In 20 Minutes With Ridiculous Teleporting Glitch](https://kotaku.com/elden-ring-sub-20-speedrun-record-the-zip-glitch-distor-1848713358)<!-- GAME:END -->
+ - [Pokémon Go’s next classic Community Day brings back Mudkip](https://www.polygon.com/23000121/pokemon-go-april-2022-community-day-classic-date-mudkip-moves)
+ - [Elden Ring bosses and how to beat them](https://www.pcgamer.com/elden-ring-bosses-locations)
+ - [Call of Duty: Vanguard multiplayer going free for 2 weeks](https://www.polygon.com/23000085/call-of-duty-free-access-multiplayer-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
