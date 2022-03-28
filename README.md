@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One Piece is getting an RPG with a new story from series creator Eiichiro Oda](https://www.theverge.com/2022/3/28/22999913/one-piece-rpg-xbox-pc-playstation-odyssey)
- - [How to clear up space on your iPhone when you’re running out of storage](https://www.theverge.com/22990011/apple-iphone-storage-full-clear-up-space)
- - [Chipolo Card Spot review: a less creepy AirTag](https://www.theverge.com/22996801/chipolo-card-spot-review-find-my)<!-- TECH:END -->
+ - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
+ - [Get the latest Echo Buds for just $49.99, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Microsoft’s high-end Surface Pro 8 has hit its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2022/3/28/22999642/microsoft-surface-pro-8-samsung-galaxy-chromebook-2-echo-show-5-ps5-dualsense-controller-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
