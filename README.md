@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple’s CODA tops Netflix to win 2022 Best Picture Oscar](https://www.polygon.com/22998717/oscars-2022-best-picture-winner-coda-apple)
- - [Wardens turn the recent Minecraft beta into survival horror](https://www.pcgamer.com/wardens-turn-the-recent-minecraft-beta-into-survival-horror)
- - [Will Smith wins the Best Actor Oscar shortly after slapping Chris Rock](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)<!-- GAME:END -->
+ - [Here are are all the winners from 2022’s unusually dramatic Oscars ceremony](https://www.polygon.com/22998920/oscars-winners-2022-list-academy-awards)
+ - [A Morrowind streamer is making a podcast series and book to celebrate its 20th anniversary](https://www.pcgamer.com/a-morrowind-streamer-is-making-a-podcast-series-and-book-to-celebrate-its-20th-anniversary)
+ - [Apple’s CODA tops Netflix to win 2022 Best Picture Oscar](https://www.polygon.com/22998717/oscars-2022-best-picture-winner-coda-apple)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
