@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The History of Housemarque – from the Finnish Demoscene to PlayStation Studios](https://blog.playstation.com/2022/03/28/the-history-of-housemarque-from-the-finnish-demoscene-to-playstation-studios/)
- - [The History of Housemarque – from the Finnish Demoscene to PlayStation Studios](https://blog.playstation.com/2022/03/28/the-history-of-housemarque-from-the-finnish-demoscene-to-playstation-studios/)
- - [We know who Lady Whistledown is … do we care?](https://www.polygon.com/22995119/bridgerton-lady-whistledown-spoiler)<!-- GAME:END -->
+ - [14 great new romance books you should read](https://www.polygon.com/22993288/best-romance-books-novels)
+ - [Bungie and the Beatle: The Paul McCartney story](https://www.polygon.com/22996738/bungie-destiny-paul-mccartney-marty-odonnell-history)
+ - [New One Piece game tells an original story for series’ 25th anniversary](https://www.polygon.com/22999735/one-piece-odyssey-rpg-game-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
