@@ -196,8 +196,8 @@ Windows                  3 hrs 46 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Colin this absolute legend](http://9gag.com/gag/a51wD6y)
- - 🚯 [No b*tch slaps were witnessed that day](http://9gag.com/gag/awz1e11)
- - 🚯 [.....he ain&#39;t wrong.](http://9gag.com/gag/aDD8QKK)<!-- MEMES:END -->
+ - 🚯 [It be like that](http://9gag.com/gag/aVxKREd)
+ - 🚯 [Too much here to unpack for a Monday\u2026](http://9gag.com/gag/a710GZL)<!-- MEMES:END -->
 
 --- 
 
