@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 is getting a multiplayer overhaul this week](https://www.polygon.com/22999594/forza-horizon-5-patch-horizon-open-progression-custom-races)
- - [Dreams: The 3rd Annual Impy Awards winners revealed](https://blog.playstation.com/2022/03/28/dreams-the-3rd-annual-impy-awards-winners-revealed/)
- - [Dreams: The 3rd Annual Impy Awards winners revealed](https://blog.playstation.com/2022/03/28/dreams-the-3rd-annual-impy-awards-winners-revealed/)<!-- GAME:END -->
+ - [The History of Housemarque – from the Finnish Demoscene to PlayStation Studios](https://blog.playstation.com/2022/03/28/the-history-of-housemarque-from-the-finnish-demoscene-to-playstation-studios/)
+ - [The History of Housemarque – from the Finnish Demoscene to PlayStation Studios](https://blog.playstation.com/2022/03/28/the-history-of-housemarque-from-the-finnish-demoscene-to-playstation-studios/)
+ - [We know who Lady Whistledown is … do we care?](https://www.polygon.com/22995119/bridgerton-lady-whistledown-spoiler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
