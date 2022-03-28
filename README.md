@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Army of the Dead wins the ‘Oscar’ for Fan Favorite Movie](https://www.polygon.com/22996761/fan-favorite-oscar)
- - [Watch the first live performance of We Don’t Talk About Bruno](https://www.polygon.com/22999130/we-dont-talk-about-bruno-oscars-2022-encanto-performance)
- - [Lightyear’s Oscars trailer just promises big-ass robots](https://www.polygon.com/22999217/lightyear-pixar-disney-trailer)<!-- GAME:END -->
+ - [Will Smith wins the Best Actor Oscar shortly after slapping Chris Rock](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)
+ - [That Is A Very Big Ship, Sir](https://kotaku.com/star-wars-destroyer-3d-art-jamison-cunningham-fine-sovi-1848710098)
+ - [Army of the Dead wins the ‘Oscar’ for Fan Favorite Movie](https://www.polygon.com/22996761/fan-favorite-oscar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
