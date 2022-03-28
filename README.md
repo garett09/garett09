@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Garfield texting the other Peter Parkers to see if Will Smith slapped Chris Rock in their universes too](http://9gag.com/gag/axB6PRM)
- - 🚯 [SIMP of the century](http://9gag.com/gag/aE8ADpM)
- - 🚯 [#OscarsSoWhite](http://9gag.com/gag/aLv4Xpx)<!-- MEMES:END -->
+ - 🚖 [SIMP of the century](http://9gag.com/gag/aE8ADpM)
+ - 🚯 [Will Smith be like:](http://9gag.com/gag/arnXqj7)
+ - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)<!-- MEMES:END -->
 
 --- 
 
