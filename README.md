@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
- - [Get the latest Echo Buds for just $49.99, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Microsoft’s high-end Surface Pro 8 has hit its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2022/3/28/22999642/microsoft-surface-pro-8-samsung-galaxy-chromebook-2-echo-show-5-ps5-dualsense-controller-deal-sale)<!-- TECH:END -->
+ - [Apple faces escalating fines over Dutch dating app payments](https://appleinsider.com/articles/22/03/28/apple-faces-escalating-fines-over-dutch-dating-app-payments?utm_medium=rss)
+ - [Bored Ape Yacht Club’s newest merch drop can only be bought with ApeCoin](https://www.theverge.com/2022/3/28/23000264/apecoin-bored-ape-yacht-club-bayc-merch-dao)
+ - [How to turn off the PS5 controller](https://www.androidauthority.com/turn-off-ps5-controller-3145546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
