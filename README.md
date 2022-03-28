@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oscars 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-live-updates-all-the-winners/#ftag=CAD590a51e)
- - [Watch the Oscars Pay Tribute to 60 Years of James Bond     - CNET](https://www.cnet.com/culture/entertainment/watch-the-oscars-pay-tribute-to-60-years-of-james-bond/#ftag=CAD590a51e)
- - [Apple&#39;s Oscar-winner CODA brings you into an inner world of sign     - CNET](https://www.cnet.com/tech/services-and-software/apples-oscar-winner-coda-brings-you-into-an-inner-world-of-sign/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jane Campion Makes Oscars History with Best Director Win     - CNET](https://www.cnet.com/culture/entertainment/jane-campion-makes-oscars-history-with-best-director-win/#ftag=CAD590a51e)
+ - [Researchers identify thousands of computer-generated profile pictures being used on fake LinkedIn profiles for lead generation and product promotion &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/220327/p9#a220327p9)
+ - [Oscars 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/oscars-2022-live-updates-all-the-winners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
