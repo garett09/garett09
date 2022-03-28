@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Google CEO funneled money into the White House science office](https://www.theverge.com/2022/3/28/22999754/eric-schmidt-google-money-white-house-science-ai-lander)
- - [Intel’s unlocked Core i9-12900KS processor claims to be the ‘world’s fastest desktop processor’ with 5.5GHz speeds](https://www.theverge.com/2022/3/28/22999926/intel-unlocked-core-i9-12900ks-processor-price-release-date-desktop-chip)
- - [How to turn off comments on a Facebook post](https://www.androidauthority.com/turn-off-comments-facebook-3145456/)<!-- TECH:END -->
+ - [One Piece is getting an RPG with a new story from series creator Eiichiro Oda](https://www.theverge.com/2022/3/28/22999913/one-piece-rpg-xbox-pc-playstation-odyssey)
+ - [How to clear up space on your iPhone when you’re running out of storage](https://www.theverge.com/22990011/apple-iphone-storage-full-clear-up-space)
+ - [Chipolo Card Spot review: a less creepy AirTag](https://www.theverge.com/22996801/chipolo-card-spot-review-find-my)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
