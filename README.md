@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Flash’s weirdo villains teamed up to pull off one last heist](https://www.polygon.com/22958159/the-flash-villains-dc-comics-heist-gorilla-grodd-rogues-one)
- - [Destiny 2 Maker Blasts YouTube&#39;s Takedown System In Wild Lawsuit](https://kotaku.com/destiny-2-copyright-takedown-bungie-lawsuit-youtube-acc-1848713200)
- - [Vampire Survivors’ future includes 9 new characters, 16 new weapons, and Arcanas](https://www.polygon.com/22999721/vampire-survivors-characters-roadmap-weapons-arcana)<!-- GAME:END -->
+ - [Everything we know about Genshin Impact 2.6](https://www.pcgamer.com/genshin-impact-26-release-date)
+ - [You get a whole lot of gaming PC for £860 with this RTX 3060 build](https://www.pcgamer.com/you-get-a-whole-lot-of-gaming-pc-for-pound860-with-this-rtx-3060-build)
+ - [Elden Ring Beaten In 20 Minutes With Ridiculous Teleporting Glitch](https://kotaku.com/elden-ring-sub-20-speedrun-record-the-zip-glitch-distor-1848713358)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
