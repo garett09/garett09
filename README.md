@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Rule The Middle Ages On Your Console](https://kotaku.com/the-week-in-games-rule-the-middle-ages-on-your-console-1848710048)
- - [IGDA under fire over botched handling of harassment controversy](https://www.pcgamer.com/igda-under-fire-over-botched-handling-of-harassment-controversy)
- - [Modder Adds Elden Ring&#39;s Message System To Fallout: New Vegas](https://kotaku.com/elden-ring-fallout-new-vegas-mod-pc-messages-finger-but-1848709892)<!-- GAME:END -->
+ - [Here’s who won at the 2022 Oscars](https://www.polygon.com/22998920/oscars-winners-2022-list-academy-awards)
+ - [Politics streamer Destiny receives indefinite ban from Twitch](https://www.pcgamer.com/politics-streamer-destiny-receives-indefinite-ban-from-twitch)
+ - [Five new Steam games you probably missed &lpar;March 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-28-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
