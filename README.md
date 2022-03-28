@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Mandalorian&#39; Season 3: What to Know About Baby Yoda&#39;s Future Star Wars Adventures     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-what-to-know-about-baby-yodas-future-star-wars-adventures/#ftag=CAD590a51e)
- - [Oscars 2022: Apple’s CODA wins big, while Dune dominates technical awards](https://www.theverge.com/2022/3/28/22999586/oscars-2022-winners-code-dune-will-smith)
- - [Apple Maps teams hiking around UK cities with camera-laden backpacks](https://appleinsider.com/articles/22/03/28/apple-maps-teams-hiking-around-uk-cities-with-camera-laden-backpacks?utm_medium=rss)<!-- TECH:END -->
+ - [Gran Turismo 7’s developers apologize for the grind, promise fixes and a million free credits](https://www.theverge.com/2022/3/25/22996282/gran-turismo-7-polyphony-digital-grind-credits-changes-sell-cars-endurance)
+ - [&#39;Sonic 2&#39; Movie Review: Sequel Captures Childhood Sense of Adventure     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-movie-review-sequel-captures-childhood-sense-of-adventure/#ftag=CAD590a51e)
+ - [Internal email: complying with a new Russian censorship law, Google ordered its contracted Russian translators to not label Russia&#39;s war in Ukraine a &quot;war&quot; &lpar;The Intercept&rpar;](http://www.techmeme.com/220328/p13#a220328p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
