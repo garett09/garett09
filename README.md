@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s next classic Community Day brings back Mudkip](https://www.polygon.com/23000121/pokemon-go-april-2022-community-day-classic-date-mudkip-moves)
- - [Elden Ring bosses and how to beat them](https://www.pcgamer.com/elden-ring-bosses-locations)
- - [Call of Duty: Vanguard multiplayer going free for 2 weeks](https://www.polygon.com/23000085/call-of-duty-free-access-multiplayer-dates)<!-- GAME:END -->
+ - [Genshin Impact&#39;s Latest Character Reveals Clouded By Ongoing Leak War](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-hoyoverse-leaks-arata-1848714729)
+ - [Terraform a planet in this survival game that looks like Subnautica on Mars](https://www.pcgamer.com/terraform-a-planet-in-this-survival-game-that-looks-like-subnautica-on-mars)
+ - [Attack on Titan’s original studio is making an anime about a vampire war](https://www.polygon.com/22999747/vampire-in-the-garden-trailer-wit-studio-anime-netflix-attack-on-titan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
