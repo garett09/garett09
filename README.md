@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Garfield texting the other Peter Parkers to see if Will Smith slapped Chris Rock in their universes too](http://9gag.com/gag/axB6PRM)
- - 🚯 [The oscars?](http://9gag.com/gag/a110EG2)
- - 🚯 [After seeing the 25368478th post about Will Smith](http://9gag.com/gag/aqG6zwR)<!-- MEMES:END -->
+ - 🚖 [The oscars?](http://9gag.com/gag/a110EG2)
+ - 🚯 [After seeing the 25368478th post about Will Smith](http://9gag.com/gag/aqG6zwR)
+ - 🚯 [.....he ain&#39;t wrong.](http://9gag.com/gag/aDD8QKK)<!-- MEMES:END -->
 
 --- 
 
