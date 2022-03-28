@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung &lpar;accidentally?&rpar; praises a rival’s foldable on Twitter](https://www.androidauthority.com/samsung-oppo-find-n-twitter-3142400/)
  - [OnePlus 10R leaked specs suggest it’s a Realme in disguise](https://www.androidauthority.com/oneplus-10r-specs-3145056/)
- - [Will Smith Hits Chris Rock at Oscars for Joking About Jada Pinkett Smith     - CNET](https://www.cnet.com/culture/entertainment/will-smith-hits-chris-rock-at-oscars-for-joking-about-jada-pinkett-smith/#ftag=CAD590a51e)
- - [Chris Rock Won&#39;t Press Charges Against Will Smith for Oscars Slap, LAPD Says     - CNET](https://www.cnet.com/culture/entertainment/chris-rock-decides-not-to-press-charges-against-will-smith-lapd-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will Smith Hits Chris Rock at Oscars for Joking About Jada Pinkett Smith     - CNET](https://www.cnet.com/culture/entertainment/will-smith-hits-chris-rock-at-oscars-for-joking-about-jada-pinkett-smith/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
