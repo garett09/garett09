@@ -196,8 +196,8 @@ Windows                  3 hrs 46 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Welcome to Central/Eastern Europe.](http://9gag.com/gag/aM4POyW)
- - 🚯 [Just imagine, Will](http://9gag.com/gag/a51w5dN)
- - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)<!-- MEMES:END -->
+ - 🚯 [Will Smith after take a look at Jada face](http://9gag.com/gag/aWgn2jK)
+ - 🚯 [Oscars, Will Smith Smash](http://9gag.com/gag/aGzBAyZ)<!-- MEMES:END -->
 
 --- 
 
