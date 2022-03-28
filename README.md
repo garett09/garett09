@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disgustang](http://9gag.com/gag/aNPQqp0)
- - 🚯 [A study has found that germans would be 0,2% richer without Berlin &lpar;not even kidding&rpar;](http://9gag.com/gag/aqG6p9Q)
- - 🚯 [What next ?!!](http://9gag.com/gag/aqG6pnL)<!-- MEMES:END -->
+ - 🚖 [Enough](http://9gag.com/gag/aWgndjK)
+ - 🚯 [Natural death incoming](http://9gag.com/gag/a915BN1)
+ - 🚯 [Too much here to unpack for a Monday\u2026](http://9gag.com/gag/a710GZL)<!-- MEMES:END -->
 
 --- 
 
