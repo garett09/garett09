@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gran Turismo 7’s developers apologize for the grind, promise fixes and a million free credits](https://www.theverge.com/2022/3/25/22996282/gran-turismo-7-polyphony-digital-grind-credits-changes-sell-cars-endurance)
- - [&#39;Sonic 2&#39; Movie Review: Sequel Captures Childhood Sense of Adventure     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-movie-review-sequel-captures-childhood-sense-of-adventure/#ftag=CAD590a51e)
- - [Internal email: complying with a new Russian censorship law, Google ordered its contracted Russian translators to not label Russia&#39;s war in Ukraine a &quot;war&quot; &lpar;The Intercept&rpar;](http://www.techmeme.com/220328/p13#a220328p13)<!-- TECH:END -->
+ - [Ex-Google CEO funneled money into the White House science office](https://www.theverge.com/2022/3/28/22999754/eric-schmidt-google-money-white-house-science-ai-lander)
+ - [Intel’s unlocked Core i9-12900KS processor claims to be the ‘world’s fastest desktop processor’ with 5.5GHz speeds](https://www.theverge.com/2022/3/28/22999926/intel-unlocked-core-i9-12900ks-processor-price-release-date-desktop-chip)
+ - [How to turn off comments on a Facebook post](https://www.androidauthority.com/turn-off-comments-facebook-3145456/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
