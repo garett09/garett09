@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are are all the winners from 2022’s unusually dramatic Oscars ceremony](https://www.polygon.com/22998920/oscars-winners-2022-list-academy-awards)
- - [A Morrowind streamer is making a podcast series and book to celebrate its 20th anniversary](https://www.pcgamer.com/a-morrowind-streamer-is-making-a-podcast-series-and-book-to-celebrate-its-20th-anniversary)
- - [Apple’s CODA tops Netflix to win 2022 Best Picture Oscar](https://www.polygon.com/22998717/oscars-2022-best-picture-winner-coda-apple)<!-- GAME:END -->
+ - [Pokémon Characters Make For Some Terrific Needle Felting](https://kotaku.com/pokemon-characters-make-for-some-terrific-needle-feltin-1848711281)
+ - [Intel and Micron pushing hard for subsidies from the US government](https://www.pcgamer.com/intel-and-micron-pushing-hard-for-subsidies-from-the-us-government)
+ - [Today&#39;s Wordle answer #282: Monday, March 28](https://www.pcgamer.com/wordle-march-28-282)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
