@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello fellow wankers. Rest here for a while from all the Will Smith spam memes](http://9gag.com/gag/a915XGL)
- - 🚯 [Hypocrisy at its finest](http://9gag.com/gag/avA6Rjb)
- - 🚯 [Keep their names out yo\u2019 f\u2019n MOUTH!!](http://9gag.com/gag/a41N2eA)<!-- MEMES:END -->
+ - 🚖 [#OscarsSoWhite](http://9gag.com/gag/aLv4Xpx)
+ - 🚯 [Keep their names out yo\u2019 f\u2019n MOUTH!!](http://9gag.com/gag/a41N2eA)
+ - 🚯 [Hello fellow wankers. Rest here for a while from all the Will Smith spam memes](http://9gag.com/gag/a915XGL)<!-- MEMES:END -->
 
 --- 
 
