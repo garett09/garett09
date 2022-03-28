@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elephant toothpaste](http://9gag.com/gag/a3108e1)
- - 🚯 [She got far](http://9gag.com/gag/a11058D)
- - 🚯 [Besides navigation my passion is woodworking, hope you like it and if you are into it i&#39;ll give you more](http://9gag.com/gag/azeKG1K)<!-- MEMES:END -->
+ - 🚖 [Besides navigation my passion is woodworking, hope you like it and if you are into it i&#39;ll give you more](http://9gag.com/gag/azeKG1K)
+ - 🚯 [Elephant toothpaste](http://9gag.com/gag/a3108e1)
+ - 🚯 [Chester Bennington of Linkin Park sing In the End with disabled person](http://9gag.com/gag/a710VBr)<!-- MEMES:END -->
 
 --- 
 
