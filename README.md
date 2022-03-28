@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Public&#39;s reaction..](http://9gag.com/gag/a915VVm)
- - 🚯 [Chris rock apology](http://9gag.com/gag/abg4Q6r)
- - 🚯 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)<!-- MEMES:END -->
+ - 🚖 [Disgustang](http://9gag.com/gag/aNPQqp0)
+ - 🚯 [A study has found that germans would be 0,2% richer without Berlin &lpar;not even kidding&rpar;](http://9gag.com/gag/aqG6p9Q)
+ - 🚯 [What next ?!!](http://9gag.com/gag/aqG6pnL)<!-- MEMES:END -->
 
 --- 
 
