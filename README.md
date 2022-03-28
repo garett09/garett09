@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Besides navigation my passion is woodworking, hope you like it and if you are into it i&#39;ll give you more](http://9gag.com/gag/azeKG1K)
- - 🚯 [Elephant toothpaste](http://9gag.com/gag/a3108e1)
- - 🚯 [Chester Bennington of Linkin Park sing In the End with disabled person](http://9gag.com/gag/a710VBr)<!-- MEMES:END -->
+ - 🚖 [Fennec fox, he&#39;s a desert animal](http://9gag.com/gag/avA6xGO)
+ - 🚯 [The Oscars used to be an event for me](http://9gag.com/gag/a615Be8)
+ - 🚯 [Cola+Mentos=K-Boom](http://9gag.com/gag/aRrMvoy)<!-- MEMES:END -->
 
 --- 
 
