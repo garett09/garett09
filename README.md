@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You’re definitely intrigued by the Nothing Phone 1](https://www.androidauthority.com/nothing-phone-1-interest-poll-results-3145120/)
- - [Some museums across Europe, including the British Museum, are embracing NFTs as a fundraising tool, but most public galleries remain wary of cryptocurrencies &lpar;Scott Reyburn/New York Times&rpar;](http://www.techmeme.com/220328/p2#a220328p2)
- - [Apple TV Plus is first streaming service to win Best Picture at the Oscars](https://www.theverge.com/2022/3/28/22999481/apple-tv-plus-oscars-best-picture-coda-netflix-power-of-the-dog-dont-look-up)<!-- TECH:END -->
+ - [Apple cuts iPhone SE orders following weak demand](https://appleinsider.com/articles/22/03/28/apple-cuts-iphone-se-orders-following-weak-demand?utm_medium=rss)
+ - [How does the Apple Watch calculate calories burned and is it accurate?](https://www.androidauthority.com/apple-watch-calories-3143687/)
+ - [Samsung Galaxy S20 series starts getting One UI 4.1 update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
