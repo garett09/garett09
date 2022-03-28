@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Will Smith in a nutshell](http://9gag.com/gag/a8102B1)
- - 🚯 [And the Oscar goes to..](http://9gag.com/gag/ajgLZ88)
- - 🚯 [Will Smith be like:](http://9gag.com/gag/arnXqj7)<!-- MEMES:END -->
+ - 🚖 [Andrew Garfield texting the other Peter Parkers to see if Will Smith slapped Chris Rock in their universes too](http://9gag.com/gag/axB6PRM)
+ - 🚯 [SIMP of the century](http://9gag.com/gag/aE8ADpM)
+ - 🚯 [#OscarsSoWhite](http://9gag.com/gag/aLv4Xpx)<!-- MEMES:END -->
 
 --- 
 
