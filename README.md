@@ -195,8 +195,8 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The oscars?](http://9gag.com/gag/a110EG2)
- - 🚯 [After seeing the 25368478th post about Will Smith](http://9gag.com/gag/aqG6zwR)
+ - 🚖 [Colin this absolute legend](http://9gag.com/gag/a51wD6y)
+ - 🚯 [No b*tch slaps were witnessed that day](http://9gag.com/gag/awz1e11)
  - 🚯 [.....he ain&#39;t wrong.](http://9gag.com/gag/aDD8QKK)<!-- MEMES:END -->
 
 --- 
