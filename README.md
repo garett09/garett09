@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This noodle shop in Japan will give you a hot steel egg to warm up your soup if it gets cold.](http://9gag.com/gag/ajgLvvp)
- - 🚯 [He&#39;s got a point you know](http://9gag.com/gag/aDD85p7)
- - 🚯 [Motherf**king congrats Sam! You f**king deserve it you motherf**ker.](http://9gag.com/gag/abg4w6L)<!-- MEMES:END -->
+ - 🚖 [How not to ...](http://9gag.com/gag/a41NgGw)
+ - 🚯 [Council of men at their leisure time](http://9gag.com/gag/aNPQMoK)
+ - 🚯 [Equal pay](http://9gag.com/gag/aRrMGYM)<!-- MEMES:END -->
 
 --- 
 
