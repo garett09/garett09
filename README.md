@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Loop Hero&#39;s Developers Tell Russian Players To Pirate Their Game](https://kotaku.com/loop-hero-four-quarters-devs-pirate-torrent-russia-ukra-1848722984)
- - [Andrew Garfield investigates a very complicated murder in Under the Banner of Heaven trailer](https://www.polygon.com/23002197/andrew-garfield-under-the-banner-of-heaven-trailer-release-date-hulu)
- - [Ghostwire: Tokyo Has One Of The Coolest Healing Systems In Open-World Games](https://kotaku.com/ghostwire-tokyo-ps5-how-to-increase-health-tango-gamewo-1848722729)<!-- GAME:END -->
+ - [Spring Sale promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/29/spring-sale-promotion-comes-to-playstation-store/)
+ - [Every time a player pulls this sword from the stone, it gets heavier](https://www.pcgamer.com/every-time-a-player-pulls-this-sword-from-the-stone-it-gets-heavier)
+ - [Valorant Art Director Comments On Endeavor Skin Criticism](https://kotaku.com/valorant-skin-cosmetic-development-riot-endeavor-nadesh-1848722993)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
