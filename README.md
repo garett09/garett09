@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)
- - 🚯 [On the spot](http://9gag.com/gag/ang28Oz)
- - 🚯 [Public&#39;s reaction..](http://9gag.com/gag/a915VVm)<!-- MEMES:END -->
+ - 🚖 [Way better than those horses](http://9gag.com/gag/awz19Vr)
+ - 🚯 [Today, my mother passed away. fighting 6 years against kidney/pancreas cancer... finally all her pain is gone.](http://9gag.com/gag/aWgnPrx)
+ - 🚯 [What next ?!!](http://9gag.com/gag/aqG6pnL)<!-- MEMES:END -->
 
 --- 
 
