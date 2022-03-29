@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How not to ...](http://9gag.com/gag/a41NgGw)
- - 🚯 [Council of men at their leisure time](http://9gag.com/gag/aNPQMoK)
- - 🚯 [Equal pay](http://9gag.com/gag/aRrMGYM)<!-- MEMES:END -->
+ - 🚖 [Equal pay](http://9gag.com/gag/aRrMGYM)
+ - 🚯 [A river, including fish, built into a table.](http://9gag.com/gag/amg6Z9d)
+ - 🚯 [Hahahahahaha !](http://9gag.com/gag/agg7wEn)<!-- MEMES:END -->
 
 --- 
 
