@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 2014, a bride put on make up to appear old and asked her soon to be husband if he would still love her if she was 70. He said no and left.](http://9gag.com/gag/aegZPVv)
- - 🚯 [Remember him? well he is dead now.](http://9gag.com/gag/aVxK49w)
- - 🚯 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)<!-- MEMES:END -->
+ - 🚖 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)
+ - 🚯 [On the spot](http://9gag.com/gag/ang28Oz)
+ - 🚯 [Public&#39;s reaction..](http://9gag.com/gag/a915VVm)<!-- MEMES:END -->
 
 --- 
 
