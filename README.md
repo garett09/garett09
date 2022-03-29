@@ -195,8 +195,8 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Self-built helicopter](http://9gag.com/gag/aRrM8x7)
- - 🚯 [Oh you can ride no hands? Psshhh hold my beer](http://9gag.com/gag/apg6X95)
+ - 🚖 [Cool Mask, Robins](http://9gag.com/gag/ay96rP8)
+ - 🚯 [This noodle shop in Japan will give you a hot steel egg to warm up your soup if it gets cold.](http://9gag.com/gag/ajgLvvp)
  - 🚯 [This yellow powder can&#39;t get wet &lpar;lycopodium&rpar;](http://9gag.com/gag/amg6QWo)<!-- MEMES:END -->
 
 --- 
