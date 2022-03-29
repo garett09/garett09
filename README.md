@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add emojis to Discord](https://www.androidauthority.com/add-emojis-discord-3144969/)
- - [Sourceful, which helps brands reduce supply chain emissions via its online marketplace of vetted suppliers, raises a $20M Series A led by Index Ventures &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220328/p20#a220328p20)
- - [Apex Legends next-gen console updates with 4K and HDR launch tomorrow](https://www.theverge.com/2022/3/28/22999936/apex-legends-ps5-xbox-series-x-s-warriors-update)<!-- TECH:END -->
+ - [India-based Classplus, which helps teachers and creators operate, manage, and sell courses to students, raises a $70M Series D at a $570M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220328/p22#a220328p22)
+ - [The DOJ endorses the American Innovation and Choice Online Act, which would stop large platforms from favoring their own products and services over competitors&#39; &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/220328/p21#a220328p21)
+ - [Best Latex Mattresses for 2022     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
