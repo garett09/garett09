@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony revamps PlayStation Plus with new ‘Extra’ and ‘Premium’ tiers, merges with PlayStation Now](https://www.polygon.com/22880509/playstation-plus-extra-premium-pricing-ps-now-spartacus)
- - [Why do Mortal Kombat 3 players still insist on keyboard controls 27 years later?](https://www.pcgamer.com/why-do-mortal-kombat-3-players-still-insist-on-keyboard-controls-27-years-later)
- - [All-new PlayStation Plus launches in June with 700+ games and more value than ever](https://blog.playstation.com/2022/03/29/all-new-playstation-plus-launches-in-june-with-700-games-and-more-value-than-ever/)<!-- GAME:END -->
+ - [Nvidia&#39;s new ultra-enthusiast RTX 3090 Ti graphics card is out now](https://www.pcgamer.com/nvidia-rtx-3090-ti-launch)
+ - [This Rebel Heart is one of 2022’s most provocative fantasy novels — read an excerpt here](https://www.polygon.com/22993041/this-rebel-heart-excerpt-best-new-fantasy-novels)
+ - [PlayStation Unveils Game Pass Competitor That Will Let You Play Old Games](https://kotaku.com/playstation-unveils-game-pass-competitor-shell-1848716609)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
