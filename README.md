@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Way better than those horses](http://9gag.com/gag/awz19Vr)
- - 🚯 [Today, my mother passed away. fighting 6 years against kidney/pancreas cancer... finally all her pain is gone.](http://9gag.com/gag/aWgnPrx)
- - 🚯 [What next ?!!](http://9gag.com/gag/aqG6pnL)<!-- MEMES:END -->
+ - 🚖 [Today, my mother passed away. fighting 6 years against kidney/pancreas cancer... finally all her pain is gone.](http://9gag.com/gag/aWgnPrx)
+ - 🚯 [Many people hate when someone talks about this but we have to admit that is true. I&#39;m sorry](http://9gag.com/gag/azeKveB)
+ - 🚯 [Way better than those horses](http://9gag.com/gag/awz19Vr)<!-- MEMES:END -->
 
 --- 
 
