@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge approves an $18M settlement between Activision Blizzard and the US Equal Employment Opportunity Commission, ending the federal sexual harassment lawsuit &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220329/p33#a220329p33)
- - [Lotus&#39; All-Electric Eletre SUV Has a Grill That &#39;Breathes&#39;](https://www.wired.com/story/lotus-eletre-debut)
- - [The Lotus Eletre is an electric SUV with hints of hypercar](https://www.theverge.com/2022/3/29/23001370/lotus-eletre-electric-suv-type-132-specs-range)<!-- TECH:END -->
+ - [NASA astronaut Mark Vande Hei scheduled to return to Earth in Russian space capsule](https://www.theverge.com/2022/3/29/22996778/nasa-astronaut-mark-vande-hei-russian-soyuz-return-space-station)
+ - [How to gameshare on PS5](https://www.androidauthority.com/gameshare-ps5-3146575/)
+ - [Google Chrome version 100 gains multi-screen API, new app icons](https://appleinsider.com/articles/22/03/29/google-chrome-version-100-gains-multi-screen-api-new-app-icons?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
