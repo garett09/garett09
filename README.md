@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a spam text from your own number? You are not alone](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)
- - [Many customers on Verizon and its MVNO Visible have reported receiving spam text messages from their own phone number over the last few days &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220329/p1#a220329p1)
- - [WrestleMania 38: How To Watch, Start Times, Full Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wrestlemania-38-how-to-watch-start-times-full-card-and-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s demise has boosted this smartphone brand to the top of the US market](https://www.androidauthority.com/motorola-us-market-success-3145846/)
+ - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, raises an additional $77.5M to its Series C, bringing the round&#39;s total to around $110M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220329/p2#a220329p2)
+ - [Got a spam text from your own number? You are not alone](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
