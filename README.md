@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One more Will slapping Rock post won\u2019t kill you](http://9gag.com/gag/aE8AbLn)
- - 🚯 [This noodle shop in Japan will give you a hot steel egg to warm up your soup if it gets cold.](http://9gag.com/gag/ajgLvvp)
- - 🚯 [Suddenly having a strong military doesn&#39;t seem useless anymore right?](http://9gag.com/gag/aBnVzZO)<!-- MEMES:END -->
+ - 🚖 [This noodle shop in Japan will give you a hot steel egg to warm up your soup if it gets cold.](http://9gag.com/gag/ajgLvvp)
+ - 🚯 [He&#39;s got a point you know](http://9gag.com/gag/aDD85p7)
+ - 🚯 [Motherf**king congrats Sam! You f**king deserve it you motherf**ker.](http://9gag.com/gag/abg4w6L)<!-- MEMES:END -->
 
 --- 
 
