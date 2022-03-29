@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU law could spark gold rush of iMessage alternatives](https://www.theverge.com/2022/3/29/23001295/eu-law-digital-markets-act-message-interoperability-whatsapp-imessage)
- - [Nuphy Air60 Keyboard review: mechanical, portable, adorable](https://appleinsider.com/articles/22/03/29/nuphy-air60-keyboard-review-mechanical-portable-adorable?utm_medium=rss)
- - [YouTube TV is testing surround sound on Android TV, Google TV, and Roku](https://www.theverge.com/2022/3/29/23001286/youtube-tv-surround-sound-test-google-android-tv-roku)<!-- TECH:END -->
+ - [Verizon blames ‘bad actors’ for the spam text you got from your own number](https://www.theverge.com/2022/3/29/23001528/verizon-spam-texts-own-number-confirms-statement)
+ - [Handoff, SideCar &amp; more were building blocks for Universal Control, Apple exec says](https://appleinsider.com/articles/22/03/29/handoff-sidecar-more-were-building-blocks-for-universal-control-apple-exec-says?utm_medium=rss)
+ - [The Ronin Network, which supports Sky Mavis&#39; Axie Infinity game, says it was hacked, leading to 173,600 ETH and 25.5M USDC being stolen, worth over $600M &lpar;Andrew Thurman/CoinDesk&rpar;](http://www.techmeme.com/220329/p27#a220329p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
