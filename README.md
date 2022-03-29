@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Cruise’s Top Gun: Maverick trailer — I guess I like planes now?](https://www.polygon.com/23001309/top-gun-maverick-trailer-release-date-tom-cruise)
- - [Damn, Elden Ring Doesn&#39;t Even Let You Die In Peace](https://kotaku.com/damn-elden-ring-doesnt-even-let-you-die-in-peace-1848715641)
- - [Sony reinvents PlayStation Plus, offers PC streaming exclusively at Premium price tier](https://www.pcgamer.com/sony-reinvents-playstation-plus-offers-pc-streaming-exclusively-at-premium-price-tier)<!-- GAME:END -->
+ - [New Games with Gold for April 2022](https://news.xbox.com/en-us/2022/03/29/new-games-with-gold-for-april-2022/)
+ - [Netflix’s new horror movie is about a retro game gone horribly, horribly wrong](https://www.polygon.com/23001317/choose-or-die-trailer-netflix-horror-asa-butterfield)
+ - [Breath Of The Wild Sequel Delayed To 2023, Nintendo Apologizes](https://kotaku.com/botw-2-breath-of-the-wild-sequel-delay-nintendo-switch-1848719035)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
