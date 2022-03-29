@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was posted here few months ago but it\u2019s more relevant now. Soviet Simpsons](http://9gag.com/gag/aogRAmx)
- - 🚯 [Nyahahaha](http://9gag.com/gag/a710P1e)
- - 🚯 [A study has found that germans would be 0,2% richer without Berlin &lpar;not even kidding&rpar;](http://9gag.com/gag/aqG6p9Q)<!-- MEMES:END -->
+ - 🚖 [In 2014, a bride put on make up to appear old and asked her soon to be husband if he would still love her if she was 70. He said no and left.](http://9gag.com/gag/aegZPVv)
+ - 🚯 [Remember him? well he is dead now.](http://9gag.com/gag/aVxK49w)
+ - 🚯 [The Mahachanok &lpar;mango&rpar; from Thailand can grow up to 340 grams](http://9gag.com/gag/aM4PWRG)<!-- MEMES:END -->
 
 --- 
 
