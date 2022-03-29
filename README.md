@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli autonomous cloud data security startup Cyera emerges from stealth with $60M led by Sequoia &lpar;Globes Online&rpar;](http://www.techmeme.com/220329/p19#a220329p19)
- - [NYC-based Kaiyo, an online marketplace for second-hand furniture, raises a $36M Series B in equity and debt led by Edison, bringing its total funding to $50M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220329/p18#a220329p18)
- - [Amazon’s second-gen Echo Buds are just $50 today](https://www.theverge.com/good-deals/2022/3/29/22999742/amazon-echo-buds-lg-c1-oled-tv-8bitdo-controller-ipad-air-anker-earbuds-deal-sale)<!-- TECH:END -->
+ - [Russia&#39;s top tech giant is harvesting data from millions of iOS users](https://appleinsider.com/articles/22/03/29/russias-top-tech-giant-is-harvesting-data-from-millions-of-ios-users?utm_medium=rss)
+ - [Three ways the European Union might ruin WhatsApp](https://www.theverge.com/23001152/whatsapp-eu-digital-markets-act-messaging-interoperable)
+ - [How to check your PayPal balance on any device](https://www.androidauthority.com/check-paypal-balance-3145755/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
