@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [Intel unveils i9-12900KS, an unlocked i9-12900K that can be overclocked, with a 30MB L3 cache, 150W base power, 5.5 GHz max frequency, coming April 5 for $739 &lpar;Liam Tung/ZDNet&rpar;](http://www.techmeme.com/220329/p35#a220329p35)
- - [Apple facing new $5.5 billion App Store antitrust lawsuit in the Netherlands](https://appleinsider.com/articles/22/03/29/apple-facing-new-55-billion-app-store-antitrust-lawsuit-in-the-netherlands?utm_medium=rss)<!-- TECH:END -->
+ - [Kuaishou reports Q4 revenue of $3.8B, up 35% YoY, with a ~$1B net loss, and MAUs up 21.5% YoY to 578M, as daily time spent per user rose 32% to 118.9 minutes &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220329/p36#a220329p36)
+ - [Moment launches Mobile Filmmaking Cage for MagSafe alongside four other new mounts](https://appleinsider.com/articles/22/03/29/moment-launches-mobile-filmmaking-cage-for-magsafe-alongside-four-other-new-mounts?utm_medium=rss)
+ - [How to spoiler text and images on Discord](https://www.androidauthority.com/spoiler-text-images-discord-3144964/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
