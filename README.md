@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natural death incoming](http://9gag.com/gag/a915BN1)
- - 🚯 [In 2014, a bride put on make up to appear old and asked her soon to be husband if he would still love her if she was 70. He said no and left.](http://9gag.com/gag/aegZPVv)
- - 🚯 [Too much here to unpack for a Monday\u2026](http://9gag.com/gag/a710GZL)<!-- MEMES:END -->
+ - 🚖 [Too much here to unpack for a Monday\u2026](http://9gag.com/gag/a710GZL)
+ - 🚯 [It was posted here few months ago but it\u2019s more relevant now. Soviet Simpsons](http://9gag.com/gag/aogRAmx)
+ - 🚯 [In 2014, a bride put on make up to appear old and asked her soon to be husband if he would still love her if she was 70. He said no and left.](http://9gag.com/gag/aegZPVv)<!-- MEMES:END -->
 
 --- 
 
