@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinecone, which offers a serverless vector database designed specifically for the needs of data scientists, raises a $28M Series A led by Menlo Ventures &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220329/p31#a220329p31)
- - [A hacker stole $625 million from the blockchain behind NFT game Axie Infinity](https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft)
- - [Compared: New 2022 iPhone SE vs iPhone 13 mini](https://appleinsider.com/inside/iphone-se/vs/compared-new-2022-iphone-se-vs-iphone-13-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Judge approves an $18M settlement between Activision Blizzard and the US Equal Employment Opportunity Commission, ending the federal sexual harassment lawsuit &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220329/p33#a220329p33)
+ - [Lotus&#39; All-Electric Eletre SUV Has a Grill That &#39;Breathes&#39;](https://www.wired.com/story/lotus-eletre-debut)
+ - [The Lotus Eletre is an electric SUV with hints of hypercar](https://www.theverge.com/2022/3/29/23001370/lotus-eletre-electric-suv-type-132-specs-range)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
