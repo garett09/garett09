@@ -195,8 +195,8 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today, my mother passed away. fighting 6 years against kidney/pancreas cancer... finally all her pain is gone.](http://9gag.com/gag/aWgnPrx)
- - 🚯 [Many people hate when someone talks about this but we have to admit that is true. I&#39;m sorry](http://9gag.com/gag/azeKveB)
+ - 🚖 [And we&#39;re not even counting the Ori&#39;s...](http://9gag.com/gag/aGzBrMz)
+ - 🚯 [Remember him? well he is dead now.](http://9gag.com/gag/aVxK49w)
  - 🚯 [Way better than those horses](http://9gag.com/gag/awz19Vr)<!-- MEMES:END -->
 
 --- 
