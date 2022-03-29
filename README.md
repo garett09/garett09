@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Hearts Celebrates 20 Years With Tamagotchi](https://kotaku.com/kingdom-hearts-disney-bandai-square-enix-tamagotchi-jap-1848718207)
- - [Will Smith apologizes to Chris Rock, Academy for Oscars slap](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)
- - [Speak friend and this RPi box will reveal its precious treasures](https://www.pcgamer.com/speak-friend-and-this-rpi-box-will-reveal-its-precious-treasures)<!-- GAME:END -->
+ - [Sony revamps PlayStation Plus with new ‘Extra’ and ‘Premium’ tiers, merges with PlayStation Now](https://www.polygon.com/22880509/playstation-plus-extra-premium-pricing-ps-now-spartacus)
+ - [Why do Mortal Kombat 3 players still insist on keyboard controls 27 years later?](https://www.pcgamer.com/why-do-mortal-kombat-3-players-still-insist-on-keyboard-controls-27-years-later)
+ - [All-new PlayStation Plus launches in June with 700+ games and more value than ever](https://blog.playstation.com/2022/03/29/all-new-playstation-plus-launches-in-june-with-700-games-and-more-value-than-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
