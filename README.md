@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UAE-based telehealth startup Altibbi raises a $44M Series B led by Foundation Holdings, Hikma Ventures, Global Ventures, and DASH Ventures &lpar;Laura Lovett/MobiHealthNews&rpar;](http://www.techmeme.com/220328/p19#a220328p19)
- - [Do not click links in text messages that come from your own phone number](https://appleinsider.com/articles/22/03/29/do-not-click-links-in-text-messages-that-come-from-your-own-phone-number?utm_medium=rss)
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)<!-- TECH:END -->
+ - [How to add emojis to Discord](https://www.androidauthority.com/add-emojis-discord-3144969/)
+ - [Sourceful, which helps brands reduce supply chain emissions via its online marketplace of vetted suppliers, raises a $20M Series A led by Index Ventures &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220328/p20#a220328p20)
+ - [Apex Legends next-gen console updates with 4K and HDR launch tomorrow](https://www.theverge.com/2022/3/28/22999936/apex-legends-ps5-xbox-series-x-s-warriors-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
