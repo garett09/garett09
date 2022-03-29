@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s top tech giant is harvesting data from millions of iOS users](https://appleinsider.com/articles/22/03/29/russias-top-tech-giant-is-harvesting-data-from-millions-of-ios-users?utm_medium=rss)
- - [Three ways the European Union might ruin WhatsApp](https://www.theverge.com/23001152/whatsapp-eu-digital-markets-act-messaging-interoperable)
- - [How to check your PayPal balance on any device](https://www.androidauthority.com/check-paypal-balance-3145755/)<!-- TECH:END -->
+ - [New EU law could spark gold rush of iMessage alternatives](https://www.theverge.com/2022/3/29/23001295/eu-law-digital-markets-act-message-interoperability-whatsapp-imessage)
+ - [Nuphy Air60 Keyboard review: mechanical, portable, adorable](https://appleinsider.com/articles/22/03/29/nuphy-air60-keyboard-review-mechanical-portable-adorable?utm_medium=rss)
+ - [YouTube TV is testing surround sound on Android TV, Google TV, and Roku](https://www.theverge.com/2022/3/29/23001286/youtube-tv-surround-sound-test-google-android-tv-roku)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
