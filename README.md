@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool Mask, Robins](http://9gag.com/gag/ay96rP8)
+ - 🚖 [One more Will slapping Rock post won\u2019t kill you](http://9gag.com/gag/aE8AbLn)
  - 🚯 [This noodle shop in Japan will give you a hot steel egg to warm up your soup if it gets cold.](http://9gag.com/gag/ajgLvvp)
- - 🚯 [This yellow powder can&#39;t get wet &lpar;lycopodium&rpar;](http://9gag.com/gag/amg6QWo)<!-- MEMES:END -->
+ - 🚯 [Suddenly having a strong military doesn&#39;t seem useless anymore right?](http://9gag.com/gag/aBnVzZO)<!-- MEMES:END -->
 
 --- 
 
