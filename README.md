@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA astronaut Mark Vande Hei scheduled to return to Earth in Russian space capsule](https://www.theverge.com/2022/3/29/22996778/nasa-astronaut-mark-vande-hei-russian-soyuz-return-space-station)
- - [How to gameshare on PS5](https://www.androidauthority.com/gameshare-ps5-3146575/)
- - [Google Chrome version 100 gains multi-screen API, new app icons](https://appleinsider.com/articles/22/03/29/google-chrome-version-100-gains-multi-screen-api-new-app-icons?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [Intel unveils i9-12900KS, an unlocked i9-12900K that can be overclocked, with a 30MB L3 cache, 150W base power, 5.5 GHz max frequency, coming April 5 for $739 &lpar;Liam Tung/ZDNet&rpar;](http://www.techmeme.com/220329/p35#a220329p35)
+ - [Apple facing new $5.5 billion App Store antitrust lawsuit in the Netherlands](https://appleinsider.com/articles/22/03/29/apple-facing-new-55-billion-app-store-antitrust-lawsuit-in-the-netherlands?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
