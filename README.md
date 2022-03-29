@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announces new PlayStation Plus subscriptions, its answer to Xbox Game Pass](https://www.theverge.com/2022/3/29/23001164/sony-playstation-plus-subscriptions-price-release-date)
- - [Apple gave me Touch ID on a 2022 iPhone, but I want more](https://www.androidauthority.com/apple-touch-id-2022-3144305/)
- - [Apple&#39;s Magic Keyboard for iPad: Still Excellent, but Time for a Revision     - CNET](https://www.cnet.com/tech/computing/apples-magic-keyboard-for-ipad-still-excellent-but-time-for-a-revision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israeli autonomous cloud data security startup Cyera emerges from stealth with $60M led by Sequoia &lpar;Globes Online&rpar;](http://www.techmeme.com/220329/p19#a220329p19)
+ - [NYC-based Kaiyo, an online marketplace for second-hand furniture, raises a $36M Series B in equity and debt led by Edison, bringing its total funding to $50M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220329/p18#a220329p18)
+ - [Amazon’s second-gen Echo Buds are just $50 today](https://www.theverge.com/good-deals/2022/3/29/22999742/amazon-echo-buds-lg-c1-oled-tv-8bitdo-controller-ipad-air-anker-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
