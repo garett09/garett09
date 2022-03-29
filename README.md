@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft starts testing Minecraft ray tracing on Xbox](https://www.theverge.com/2022/3/29/23001181/minecraft-raytracing-xbox-series-x-series-s-preview-support)
- - [Spotify is testing a vertically scrolling feed for podcasts in its main app, featuring an automatically selected 60-second audio preview &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220329/p14#a220329p14)
- - [Daily Authority: 📁 X Fold coming](https://www.androidauthority.com/da-march-29-2022-3146093/)<!-- TECH:END -->
+ - [Sony announces new PlayStation Plus subscriptions, its answer to Xbox Game Pass](https://www.theverge.com/2022/3/29/23001164/sony-playstation-plus-subscriptions-price-release-date)
+ - [Apple gave me Touch ID on a 2022 iPhone, but I want more](https://www.androidauthority.com/apple-touch-id-2022-3144305/)
+ - [Apple&#39;s Magic Keyboard for iPad: Still Excellent, but Time for a Revision     - CNET](https://www.cnet.com/tech/computing/apples-magic-keyboard-for-ipad-still-excellent-but-time-for-a-revision/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
