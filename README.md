@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And we&#39;re not even counting the Ori&#39;s...](http://9gag.com/gag/aGzBrMz)
- - 🚯 [Remember him? well he is dead now.](http://9gag.com/gag/aVxK49w)
- - 🚯 [Way better than those horses](http://9gag.com/gag/awz19Vr)<!-- MEMES:END -->
+ - 🚖 [This Foucault Pendulum is at about 40\u00b0 north latitude. It demonstrates that the floor &lpar;Earth&rpar; beneath it is rotating. It takes 18.5 hours to knock off all 144 balls. At the North Pole this would take 12 hours. At the equator only 2 balls would get knocked off in 24 hours.](http://9gag.com/gag/agg7pgv)
+ - 🚯 [Way better than those horses](http://9gag.com/gag/awz19Vr)
+ - 🚯 [And we&#39;re not even counting the Ori&#39;s...](http://9gag.com/gag/aGzBrMz)<!-- MEMES:END -->
 
 --- 
 
