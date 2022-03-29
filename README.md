@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 3 is getting a new rival with better cameras](https://www.androidauthority.com/vivo-x-fold-specs-3145058/)
- - [Analysis of two UK datasets find heavy use of social media by adolescents during two windows, around puberty and age 19, spurred lower life satisfaction ratings &lpar;Virginia Hughes/New York Times&rpar;](http://www.techmeme.com/220329/p3#a220329p3)
- - [LG killed its phones and propelled Motorola to the top of the US market](https://www.androidauthority.com/motorola-us-market-success-3145846/)<!-- TECH:END -->
+ - [It sounds like a Xiaomi and Leica partnership could be in the works](https://www.androidauthority.com/xiaomi-leica-partnership-3145917/)
+ - [Amazon Glow Video Chat Projector Is Available to Buy Now     - CNET](https://www.cnet.com/home/smart-home/amazon-glow-video-chat-projector-is-now-available-to-buy/#ftag=CAD590a51e)
+ - [Amazon Glow Review: A Better Way for Kids to Video Chat with Family     - CNET](https://www.cnet.com/home/smart-home/amazon-glow-review-connects-family-does-what-zoom-and-facetime-cant-do-and-its-wonderful/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
