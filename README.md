@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WrestleMania 38: How To Watch, Start Times, Full Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wrestlemania-38-how-to-watch-start-times-full-card-and-peacock/#ftag=CAD590a51e)
- - [India-based Classplus, which helps teachers and creators operate, manage, and sell courses to students, raises a $70M Series D at a $570M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220328/p22#a220328p22)
- - [The DOJ endorses the American Innovation and Choice Online Act, which would stop large platforms from favoring their own products and services over competitors&#39; &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/220328/p21#a220328p21)<!-- TECH:END -->
+ - [Got a spam text from your own number? You are not alone](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)
+ - [Many customers on Verizon and its MVNO Visible have reported receiving spam text messages from their own phone number over the last few days &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220329/p1#a220329p1)
+ - [WrestleMania 38: How To Watch, Start Times, Full Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wrestlemania-38-how-to-watch-start-times-full-card-and-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
