@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
- - [Audio-Technica&#39;s new earbuds have 20-hour battery life](https://appleinsider.com/articles/22/03/29/audio-technicas-new-earbuds-have-20-hour-battery-life?utm_medium=rss)
- - [FuboTV Review: Solid for Soccer Fans But Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubotv-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pinecone, which offers a serverless vector database designed specifically for the needs of data scientists, raises a $28M Series A led by Menlo Ventures &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220329/p31#a220329p31)
+ - [A hacker stole $625 million from the blockchain behind NFT game Axie Infinity](https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft)
+ - [Compared: New 2022 iPhone SE vs iPhone 13 mini](https://appleinsider.com/inside/iphone-se/vs/compared-new-2022-iphone-se-vs-iphone-13-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
