@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s new ultra-enthusiast RTX 3090 Ti graphics card is out now](https://www.pcgamer.com/nvidia-rtx-3090-ti-launch)
- - [This Rebel Heart is one of 2022’s most provocative fantasy novels — read an excerpt here](https://www.polygon.com/22993041/this-rebel-heart-excerpt-best-new-fantasy-novels)
- - [PlayStation Unveils Game Pass Competitor That Will Let You Play Old Games](https://kotaku.com/playstation-unveils-game-pass-competitor-shell-1848716609)<!-- GAME:END -->
+ - [Tom Cruise’s Top Gun: Maverick trailer — I guess I like planes now?](https://www.polygon.com/23001309/top-gun-maverick-trailer-release-date-tom-cruise)
+ - [Damn, Elden Ring Doesn&#39;t Even Let You Die In Peace](https://kotaku.com/damn-elden-ring-doesnt-even-let-you-die-in-peace-1848715641)
+ - [Sony reinvents PlayStation Plus, offers PC streaming exclusively at Premium price tier](https://www.pcgamer.com/sony-reinvents-playstation-plus-offers-pc-streaming-exclusively-at-premium-price-tier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
