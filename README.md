@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And we&#39;re not even counting the Ori&#39;s...](http://9gag.com/gag/aGzBrMz)
- - 🚯 [And no one got slapped that night](http://9gag.com/gag/a710P22)
- - 🚯 [Who even follows this shit anymore](http://9gag.com/gag/aDD8LdZ)<!-- MEMES:END -->
+ - 🚖 [A chicken appears](http://9gag.com/gag/abg4LPX)
+ - 🚯 [Real Paris! Right in front of Louvre museum.](http://9gag.com/gag/aDD8qBK)
+ - 🚯 [Journalist faces off with mob](http://9gag.com/gag/aVxK9Od)<!-- MEMES:END -->
 
 --- 
 
