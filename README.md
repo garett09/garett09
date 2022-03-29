@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hell Yes, Kairosoft&#39;s Classic Management Games Are Now On Steam](https://kotaku.com/kairosoft-game-dev-story-steam-ios-android-pc-windows-m-1848717007)
- - [In addition to fast load times, Microsoft&#39;s DirectStorage can free up your CPU while gaming](https://www.pcgamer.com/in-addition-to-fast-load-times-microsofts-directstorage-can-free-up-your-cpu-while-gaming)
- - [The Forest sequel delayed until October](https://www.pcgamer.com/the-forest-sequel-delayed-until-october)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Japan Expo 2022](https://kotaku.com/cosplay-japan-expo-thailand-bangkok-photos-gallery-vide-1848717346)
+ - [Nvidia RTX 4080 / 4090 leaks point to extremely power hungry cards](https://www.pcgamer.com/nvidia-rtx-4080-4090-leaks-point-to-extremely-power-hungry-cards)
+ - [Smash Bros Champion Gets Twitter Hacked By NFT Dipshits](https://kotaku.com/smash-bros-mkleo-nft-crypto-twitter-hacked-hack-ultimat-1848717423)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
