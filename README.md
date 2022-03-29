@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)
- - [US removes tariffs on many imported components from China](https://www.pcgamer.com/us-removes-tariffs-on-many-imported-components-from-china)
- - [Our Favorite Cosplay From Japan Expo 2022](https://kotaku.com/cosplay-japan-expo-thailand-bangkok-photos-gallery-vide-1848717346)<!-- GAME:END -->
+ - [Go Mouthful Mode On Real-World Kirby Car Cake](https://kotaku.com/kirby-and-the-forgotten-land-mouthful-mode-cake-burger-1848718163)
+ - [Mirror&#39;s Edge is still the undisputed queen of parkour](https://www.pcgamer.com/mirrors-edge-is-still-the-undisputed-queen-of-parkour)
+ - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
