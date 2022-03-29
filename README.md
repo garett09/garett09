@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for April 2022](https://news.xbox.com/en-us/2022/03/29/new-games-with-gold-for-april-2022/)
- - [Netflix’s new horror movie is about a retro game gone horribly, horribly wrong](https://www.polygon.com/23001317/choose-or-die-trailer-netflix-horror-asa-butterfield)
- - [Breath Of The Wild Sequel Delayed To 2023, Nintendo Apologizes](https://kotaku.com/botw-2-breath-of-the-wild-sequel-delay-nintendo-switch-1848719035)<!-- GAME:END -->
+ - [Call of Duty: Warzone’s original map, Verdansk, isn’t coming back anytime soon](https://www.polygon.com/23001479/call-of-duty-warzone-verdansk-install-size)
+ - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
+ - [Ozark season 4 part 2’s new trailer turns up the heat on Marty and Wendy](https://www.polygon.com/23000496/ozark-seaon-4-part-2-netflix-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
