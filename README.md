@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A chicken appears](http://9gag.com/gag/abg4LPX)
- - 🚯 [Real Paris! Right in front of Louvre museum.](http://9gag.com/gag/aDD8qBK)
- - 🚯 [Journalist faces off with mob](http://9gag.com/gag/aVxK9Od)<!-- MEMES:END -->
+ - 🚖 [Journalist faces off with mob](http://9gag.com/gag/aVxK9Od)
+ - 🚯 [A giant cow which is 4 times the average cow size.](http://9gag.com/gag/aWgnAxK)
+ - 🚯 [Real Paris! Right in front of Louvre museum.](http://9gag.com/gag/aDD8qBK)<!-- MEMES:END -->
 
 --- 
 
