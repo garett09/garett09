@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Has PC Games Invitational with Boom TV Featuring Sea of Thieves and over $25,000 in Prizes](https://news.xbox.com/en-us/2022/03/29/game-pass-has-pc-games-invitational-with-boom-tv-featuring-sea-of-thieves/)
- - [The New PS Plus Isn’t Game Pass, But That’s OK](https://kotaku.com/sony-ps-plus-essential-extra-premium-microsoft-xbox-gam-1848722178)
- - [Call of Duty player tries to prove he isn&#39;t cheating, accidentally proves he&#39;s cheating](https://www.pcgamer.com/call-of-duty-player-tries-to-prove-he-isnt-cheating-accidentally-proves-hes-cheating)<!-- GAME:END -->
+ - [Loop Hero&#39;s Developers Tell Russian Players To Pirate Their Game](https://kotaku.com/loop-hero-four-quarters-devs-pirate-torrent-russia-ukra-1848722984)
+ - [Andrew Garfield investigates a very complicated murder in Under the Banner of Heaven trailer](https://www.polygon.com/23002197/andrew-garfield-under-the-banner-of-heaven-trailer-release-date-hulu)
+ - [Ghostwire: Tokyo Has One Of The Coolest Healing Systems In Open-World Games](https://kotaku.com/ghostwire-tokyo-ps5-how-to-increase-health-tango-gamewo-1848722729)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
