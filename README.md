@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A giant cow which is 4 times the average cow size.](http://9gag.com/gag/aWgnAxK)
- - 🚯 [Whatever you do as a man: its always wrong](http://9gag.com/gag/aKmvygg)
- - 🚯 [Self-built helicopter](http://9gag.com/gag/aRrM8x7)<!-- MEMES:END -->
+ - 🚖 [Self-built helicopter](http://9gag.com/gag/aRrM8x7)
+ - 🚯 [Oh you can ride no hands? Psshhh hold my beer](http://9gag.com/gag/apg6X95)
+ - 🚯 [This yellow powder can&#39;t get wet &lpar;lycopodium&rpar;](http://9gag.com/gag/amg6QWo)<!-- MEMES:END -->
 
 --- 
 
