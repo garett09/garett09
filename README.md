@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Two New Fighting Styles in The Kaito Files, the DLC Expansion to Lost Judgment Available Today](https://news.xbox.com/en-us/2022/03/29/kaito-files-dlc-expansion-to-lost-judgment-available-today/)
- - [Wordle in Minecraft took some wild math to pull off](https://www.pcgamer.com/now-you-can-play-wordle-in-minecraft)
- - [Excel at 1080p gaming with this RTX 3060-powered PC for just $1,200 right now](https://www.pcgamer.com/excel-at-1080p-gaming-with-this-rtx-3060-powered-pc-for-just-dollar1200-right-now)<!-- GAME:END -->
+ - [Fortnite still doesn’t have building but it did rename its main mode, for now](https://www.polygon.com/23001299/fortnite-no-building-removed-zero-build-mode)
+ - [Microsoft Flight Simulator Releases New Aircraft in the “Local Legends” Series Today with Dornier Do J Wal](https://news.xbox.com/en-us/2022/03/29/microsoft-flight-simulator-new-local-legends-series-dornier/)
+ - [Unpacking is coming to PlayStation this spring](https://www.polygon.com/23001786/unpacking-coming-to-ps4-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
