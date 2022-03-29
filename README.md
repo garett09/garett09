@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Mouthful Mode On Real-World Kirby Car Cake](https://kotaku.com/kirby-and-the-forgotten-land-mouthful-mode-cake-burger-1848718163)
- - [Mirror&#39;s Edge is still the undisputed queen of parkour](https://www.pcgamer.com/mirrors-edge-is-still-the-undisputed-queen-of-parkour)
- - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)<!-- GAME:END -->
+ - [Kingdom Hearts Celebrates 20 Years With Tamagotchi](https://kotaku.com/kingdom-hearts-disney-bandai-square-enix-tamagotchi-jap-1848718207)
+ - [Will Smith apologizes to Chris Rock, Academy for Oscars slap](https://www.polygon.com/22996782/will-smith-punch-chris-rock-best-actor-oscars-2022)
+ - [Speak friend and this RPi box will reveal its precious treasures](https://www.pcgamer.com/speak-friend-and-this-rpi-box-will-reveal-its-precious-treasures)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
