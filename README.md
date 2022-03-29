@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone’s original map, Verdansk, isn’t coming back anytime soon](https://www.polygon.com/23001479/call-of-duty-warzone-verdansk-install-size)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [Ozark season 4 part 2’s new trailer turns up the heat on Marty and Wendy](https://www.polygon.com/23000496/ozark-seaon-4-part-2-netflix-release-date-trailer)<!-- GAME:END -->
+ - [Ikai, a New Tale of Horror](https://news.xbox.com/en-us/2022/03/29/ikai-a-new-tale-of-horror/)
+ - [PlayStation Boss Explains Why New Subscription Service Won&#39;t Have Game Pass’ Biggest Feature](https://kotaku.com/playstation-ps-plus-xbox-game-pass-sony-first-party-jim-1848720273)
+ - [Porn is coming back to multiplexes, in sneaky, provocative ways](https://www.polygon.com/23001624/sex-porn-provocation-cinema-ti-west-x-pleasure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
