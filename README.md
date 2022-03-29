@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How not to ...](http://9gag.com/gag/a41NgGw)
- - 🚯 [It took me several years, a period of believing I was done &amp; failed, but somehow I completed it guys. Now what?](http://9gag.com/gag/abg4LEv)
- - 🚯 [Whatever you do as a man: its always wrong](http://9gag.com/gag/aKmvygg)<!-- MEMES:END -->
+ - 🚖 [A giant cow which is 4 times the average cow size.](http://9gag.com/gag/aWgnAxK)
+ - 🚯 [Whatever you do as a man: its always wrong](http://9gag.com/gag/aKmvygg)
+ - 🚯 [Self-built helicopter](http://9gag.com/gag/aRrM8x7)<!-- MEMES:END -->
 
 --- 
 
