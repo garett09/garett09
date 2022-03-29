@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss startup Yokoy, which helps companies manage expenses, invoices, and credit cards, raises $80M from Sequoia and others, source says at a $500M+ valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220329/p6#a220329p6)
- - [WhatsApp chief Will Cathcart on how the Digital Markets Act could upend encryption, privacy, and product design &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220329/p5#a220329p5)
- - [Security experts worry the EU&#39;s DMA, which mandates messaging service interoperability, could undermine the end-to-end encryption on WhatsApp and other services &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220329/p4#a220329p4)<!-- TECH:END -->
+ - [We asked, you told us: There’s one YouTube Vanced feature you’ll miss the most](https://www.androidauthority.com/youtube-vanced-features-poll-results-3146023/)
+ - [Mick Jagger talks about writing the theme song to &#39;Slow Horses&#39; on Apple TV+](https://appleinsider.com/articles/22/03/29/mick-jagger-talks-about-writing-the-theme-song-to-slow-horses-on-apple-tv?utm_medium=rss)
+ - [Researchers find that Russia&#39;s Yandex sends metadata to servers located in the country; Yandex says the data is &quot;non-personalised and very limited&quot; &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220329/p11#a220329p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
