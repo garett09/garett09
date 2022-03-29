@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon blames ‘bad actors’ for the spam text you got from your own number](https://www.theverge.com/2022/3/29/23001528/verizon-spam-texts-own-number-confirms-statement)
- - [Handoff, SideCar &amp; more were building blocks for Universal Control, Apple exec says](https://appleinsider.com/articles/22/03/29/handoff-sidecar-more-were-building-blocks-for-universal-control-apple-exec-says?utm_medium=rss)
- - [The Ronin Network, which supports Sky Mavis&#39; Axie Infinity game, says it was hacked, leading to 173,600 ETH and 25.5M USDC being stolen, worth over $600M &lpar;Andrew Thurman/CoinDesk&rpar;](http://www.techmeme.com/220329/p27#a220329p27)<!-- TECH:END -->
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
+ - [Audio-Technica&#39;s new earbuds have 20-hour battery life](https://appleinsider.com/articles/22/03/29/audio-technicas-new-earbuds-have-20-hour-battery-life?utm_medium=rss)
+ - [FuboTV Review: Solid for Soccer Fans But Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubotv-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
