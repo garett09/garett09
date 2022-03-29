@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite still doesn’t have building but it did rename its main mode, for now](https://www.polygon.com/23001299/fortnite-no-building-removed-zero-build-mode)
- - [Microsoft Flight Simulator Releases New Aircraft in the “Local Legends” Series Today with Dornier Do J Wal](https://news.xbox.com/en-us/2022/03/29/microsoft-flight-simulator-new-local-legends-series-dornier/)
- - [Unpacking is coming to PlayStation this spring](https://www.polygon.com/23001786/unpacking-coming-to-ps4-ps5)<!-- GAME:END -->
+ - [Our Flag Means Death’s fan art is out of this world](https://www.polygon.com/23001873/our-flag-means-death-fan-art)
+ - [Yikes, Sony&#39;s new subscription doubles the price of streaming PlayStation games on PC](https://www.pcgamer.com/yikes-sonys-new-subscription-doubles-the-price-of-streaming-playstation-games-on-pc)
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
