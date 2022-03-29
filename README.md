@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s demise has boosted this smartphone brand to the top of the US market](https://www.androidauthority.com/motorola-us-market-success-3145846/)
- - [Manila-based GrowSari, which helps Filipino MSMEs to digitize, raises an additional $77.5M to its Series C, bringing the round&#39;s total to around $110M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220329/p2#a220329p2)
- - [Got a spam text from your own number? You are not alone](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)<!-- TECH:END -->
+ - [The Galaxy Z Fold 3 is getting a new rival with better cameras](https://www.androidauthority.com/vivo-x-fold-specs-3145058/)
+ - [Analysis of two UK datasets find heavy use of social media by adolescents during two windows, around puberty and age 19, spurred lower life satisfaction ratings &lpar;Virginia Hughes/New York Times&rpar;](http://www.techmeme.com/220329/p3#a220329p3)
+ - [LG killed its phones and propelled Motorola to the top of the US market](https://www.androidauthority.com/motorola-us-market-success-3145846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
