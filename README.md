@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify rolls out a content advisory for podcasts and content that mention COVID-19, two months after promising the feature amid controversy over Rogan podcasts &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220328/p17#a220328p17)
- - [The Best 55-Inch TV for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Rode’s first pair of headphones offer a comfortable and balanced way to monitor audio](https://www.theverge.com/22996194/rode-nth-100-mixing-headphones-review)<!-- TECH:END -->
+ - [UAE-based telehealth startup Altibbi raises a $44M Series B led by Foundation Holdings, Hikma Ventures, Global Ventures, and DASH Ventures &lpar;Laura Lovett/MobiHealthNews&rpar;](http://www.techmeme.com/220328/p19#a220328p19)
+ - [Do not click links in text messages that come from your own phone number](https://appleinsider.com/articles/22/03/29/do-not-click-links-in-text-messages-that-come-from-your-own-phone-number?utm_medium=rss)
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
