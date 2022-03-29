@@ -195,8 +195,8 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal pay](http://9gag.com/gag/aRrMGYM)
- - 🚯 [A river, including fish, built into a table.](http://9gag.com/gag/amg6Z9d)
+ - 🚖 [A river, including fish, built into a table.](http://9gag.com/gag/amg6Z9d)
+ - 🚯 [Motherf**king congrats Sam! You f**king deserve it you motherf**ker.](http://9gag.com/gag/abg4w6L)
  - 🚯 [Hahahahahaha !](http://9gag.com/gag/agg7wEn)<!-- MEMES:END -->
 
 --- 
