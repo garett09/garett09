@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Journalist faces off with mob](http://9gag.com/gag/aVxK9Od)
- - 🚯 [A giant cow which is 4 times the average cow size.](http://9gag.com/gag/aWgnAxK)
- - 🚯 [Real Paris! Right in front of Louvre museum.](http://9gag.com/gag/aDD8qBK)<!-- MEMES:END -->
+ - 🚖 [Equal pay](http://9gag.com/gag/aRrMGYM)
+ - 🚯 [Where did he come from?](http://9gag.com/gag/abg4LW8)
+ - 🚯 [It took me several years, a period of believing I was done &amp; failed, but somehow I completed it guys. Now what?](http://9gag.com/gag/abg4LEv)<!-- MEMES:END -->
 
 --- 
 
