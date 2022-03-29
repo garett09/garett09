@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Games Industry Mourns Coffee Talk Creator, Who Passed Away At 32](https://kotaku.com/coffee-talk-creator-mohammad-fahmi-afterlove-what-comes-1848716627)
- - [Our favorite 240Hz gaming monitor is $75 off](https://www.pcgamer.com/our-favorite-240hz-gaming-monitor-is-dollar75-off)
- - [Humble&#39;s Stand With Ukraine bundle raises $26M in just one week](https://www.pcgamer.com/humbles-stand-with-ukraine-bundle-raises-dollar26m-in-just-one-week)<!-- GAME:END -->
+ - [Hell Yes, Kairosoft&#39;s Classic Management Games Are Now On Steam](https://kotaku.com/kairosoft-game-dev-story-steam-ios-android-pc-windows-m-1848717007)
+ - [In addition to fast load times, Microsoft&#39;s DirectStorage can free up your CPU while gaming](https://www.pcgamer.com/in-addition-to-fast-load-times-microsofts-directstorage-can-free-up-your-cpu-while-gaming)
+ - [The Forest sequel delayed until October](https://www.pcgamer.com/the-forest-sequel-delayed-until-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
