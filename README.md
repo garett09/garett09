@@ -195,9 +195,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal pay](http://9gag.com/gag/aRrMGYM)
- - 🚯 [Where did he come from?](http://9gag.com/gag/abg4LW8)
- - 🚯 [It took me several years, a period of believing I was done &amp; failed, but somehow I completed it guys. Now what?](http://9gag.com/gag/abg4LEv)<!-- MEMES:END -->
+ - 🚖 [How not to ...](http://9gag.com/gag/a41NgGw)
+ - 🚯 [It took me several years, a period of believing I was done &amp; failed, but somehow I completed it guys. Now what?](http://9gag.com/gag/abg4LEv)
+ - 🚯 [Whatever you do as a man: its always wrong](http://9gag.com/gag/aKmvygg)<!-- MEMES:END -->
 
 --- 
 
