@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It sounds like a Xiaomi and Leica partnership could be in the works](https://www.androidauthority.com/xiaomi-leica-partnership-3145917/)
- - [Amazon Glow Video Chat Projector Is Available to Buy Now     - CNET](https://www.cnet.com/home/smart-home/amazon-glow-video-chat-projector-is-now-available-to-buy/#ftag=CAD590a51e)
- - [Amazon Glow Review: A Better Way for Kids to Video Chat with Family     - CNET](https://www.cnet.com/home/smart-home/amazon-glow-review-connects-family-does-what-zoom-and-facetime-cant-do-and-its-wonderful/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Swiss startup Yokoy, which helps companies manage expenses, invoices, and credit cards, raises $80M from Sequoia and others, source says at a $500M+ valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220329/p6#a220329p6)
+ - [WhatsApp chief Will Cathcart on how the Digital Markets Act could upend encryption, privacy, and product design &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220329/p5#a220329p5)
+ - [Security experts worry the EU&#39;s DMA, which mandates messaging service interoperability, could undermine the end-to-end encryption on WhatsApp and other services &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220329/p4#a220329p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
