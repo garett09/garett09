@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Flag Means Death’s fan art is out of this world](https://www.polygon.com/23001873/our-flag-means-death-fan-art)
- - [Yikes, Sony&#39;s new subscription doubles the price of streaming PlayStation games on PC](https://www.pcgamer.com/yikes-sonys-new-subscription-doubles-the-price-of-streaming-playstation-games-on-pc)
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
+ - [Game Pass Has PC Games Invitational with Boom TV Featuring Sea of Thieves and over $25,000 in Prizes](https://news.xbox.com/en-us/2022/03/29/game-pass-has-pc-games-invitational-with-boom-tv-featuring-sea-of-thieves/)
+ - [The New PS Plus Isn’t Game Pass, But That’s OK](https://kotaku.com/sony-ps-plus-essential-extra-premium-microsoft-xbox-gam-1848722178)
+ - [Call of Duty player tries to prove he isn&#39;t cheating, accidentally proves he&#39;s cheating](https://www.pcgamer.com/call-of-duty-player-tries-to-prove-he-isnt-cheating-accidentally-proves-hes-cheating)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
