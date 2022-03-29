@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: There’s one YouTube Vanced feature you’ll miss the most](https://www.androidauthority.com/youtube-vanced-features-poll-results-3146023/)
- - [Mick Jagger talks about writing the theme song to &#39;Slow Horses&#39; on Apple TV+](https://appleinsider.com/articles/22/03/29/mick-jagger-talks-about-writing-the-theme-song-to-slow-horses-on-apple-tv?utm_medium=rss)
- - [Researchers find that Russia&#39;s Yandex sends metadata to servers located in the country; Yandex says the data is &quot;non-personalised and very limited&quot; &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220329/p11#a220329p11)<!-- TECH:END -->
+ - [Microsoft starts testing Minecraft ray tracing on Xbox](https://www.theverge.com/2022/3/29/23001181/minecraft-raytracing-xbox-series-x-series-s-preview-support)
+ - [Spotify is testing a vertically scrolling feed for podcasts in its main app, featuring an automatically selected 60-second audio preview &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220329/p14#a220329p14)
+ - [Daily Authority: 📁 X Fold coming](https://www.androidauthority.com/da-march-29-2022-3146093/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
