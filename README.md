@@ -188,9 +188,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou reports Q4 revenue of $3.8B, up 35% YoY, with a ~$1B net loss, and MAUs up 21.5% YoY to 578M, as daily time spent per user rose 32% to 118.9 minutes &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220329/p36#a220329p36)
- - [Moment launches Mobile Filmmaking Cage for MagSafe alongside four other new mounts](https://appleinsider.com/articles/22/03/29/moment-launches-mobile-filmmaking-cage-for-magsafe-alongside-four-other-new-mounts?utm_medium=rss)
- - [How to spoiler text and images on Discord](https://www.androidauthority.com/spoiler-text-images-discord-3144964/)<!-- TECH:END -->
+ - [The FTC sues TurboTax to stop ‘misleading’ ads for free tax prep software](https://www.theverge.com/2022/3/29/23002219/ftc-turbo-tax-irs-free-tax-prep-software-intuit-misleading)
+ - [Apple will no longer repair iPhones marked as missing](https://www.theverge.com/2022/3/29/23002123/apple-store-repair-iphone-stolen-missing-flagged)
+ - [# Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
