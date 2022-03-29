@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [US removes tariffs on many imported components from China](https://www.pcgamer.com/us-removes-tariffs-on-many-imported-components-from-china)
  - [Our Favorite Cosplay From Japan Expo 2022](https://kotaku.com/cosplay-japan-expo-thailand-bangkok-photos-gallery-vide-1848717346)
- - [Nvidia RTX 4080 / 4090 leaks point to extremely power hungry cards](https://www.pcgamer.com/nvidia-rtx-4080-4090-leaks-point-to-extremely-power-hungry-cards)
- - [Smash Bros Champion Gets Twitter Hacked By NFT Dipshits](https://kotaku.com/smash-bros-mkleo-nft-crypto-twitter-hacked-hack-ultimat-1848717423)<!-- GAME:END -->
+ - [Nvidia RTX 4080 / 4090 leaks point to extremely power hungry cards](https://www.pcgamer.com/nvidia-rtx-4080-4090-leaks-point-to-extremely-power-hungry-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
