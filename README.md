@@ -181,9 +181,9 @@ Windows                  3 hrs 46 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikai, a New Tale of Horror](https://news.xbox.com/en-us/2022/03/29/ikai-a-new-tale-of-horror/)
- - [PlayStation Boss Explains Why New Subscription Service Won&#39;t Have Game Pass’ Biggest Feature](https://kotaku.com/playstation-ps-plus-xbox-game-pass-sony-first-party-jim-1848720273)
- - [Porn is coming back to multiplexes, in sneaky, provocative ways](https://www.polygon.com/23001624/sex-porn-provocation-cinema-ti-west-x-pleasure)<!-- GAME:END -->
+ - [Introducing Two New Fighting Styles in The Kaito Files, the DLC Expansion to Lost Judgment Available Today](https://news.xbox.com/en-us/2022/03/29/kaito-files-dlc-expansion-to-lost-judgment-available-today/)
+ - [Wordle in Minecraft took some wild math to pull off](https://www.pcgamer.com/now-you-can-play-wordle-in-minecraft)
+ - [Excel at 1080p gaming with this RTX 3060-powered PC for just $1,200 right now](https://www.pcgamer.com/excel-at-1080p-gaming-with-this-rtx-3060-powered-pc-for-just-dollar1200-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
