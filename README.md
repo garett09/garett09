@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen got a taste of her own medicine.](http://9gag.com/gag/ang2mKo)
- - 🚯 [Comidas del mundo](http://9gag.com/gag/aE8Amdx)
+ - 🚖 [It&#39;s evolving, just backwards](http://9gag.com/gag/aLv4Ejz)
+ - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
  - 🚯 [I know you&#39;re tired of all the Will Smith posts so here&#39;s Jim Carrey&#39;s take on the incident.](http://9gag.com/gag/a51wYGo)<!-- MEMES:END -->
 
 --- 
