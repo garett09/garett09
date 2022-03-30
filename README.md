@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)
- - 🚯 [Heavy school bag](http://9gag.com/gag/avA6NyM)
- - 🚯 [I have to say this. Win11 is going to fail if they don\u2019t change system requirements. Considering Linux at the moment.](http://9gag.com/gag/a0Z0BYz)<!-- MEMES:END -->
+ - 🚖 [I have to say this. Win11 is going to fail if they don\u2019t change system requirements. Considering Linux at the moment.](http://9gag.com/gag/a0Z0BYz)
+ - 🚯 [This gentleman being given a gift that will fulfill a lifelong dream: a trip to Venice, Italy](http://9gag.com/gag/aOQZMGr)
+ - 🚯 [This duck wearing a very nice shoes](http://9gag.com/gag/abg4ND8)<!-- MEMES:END -->
 
 --- 
 
