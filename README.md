@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comidas del mundo](http://9gag.com/gag/aE8Amdx)
- - 🚯 [Hahahahahaha !](http://9gag.com/gag/agg7wEn)
- - 🚯 [A river, including fish, built into a table.](http://9gag.com/gag/amg6Z9d)<!-- MEMES:END -->
+ - 🚖 [Magic thing](http://9gag.com/gag/a210Xed)
+ - 🚯 [Perfectly balanced. As all things should be](http://9gag.com/gag/aGzB5nX)
+ - 🚯 [His logic is flawless](http://9gag.com/gag/a710X2x)<!-- MEMES:END -->
 
 --- 
 
