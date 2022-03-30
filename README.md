@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #284: Wednesday, March 30](https://www.pcgamer.com/wordle-march-30-284)
  - [These new Nvidia RTX 3090 Ti GPUs are absolutely enormous](https://www.pcgamer.com/nvidias-new-rtx-3090-ti-requires-massive-coolers)
- - [Windows 11 is getting lovely useless UI animations](https://www.pcgamer.com/windows-11-is-getting-lovely-useless-ui-animations)
- - [NASA plans to have boots on Mars in 2040](https://www.pcgamer.com/nasa-plans-to-have-boots-on-mars-in-2040)<!-- GAME:END -->
+ - [Windows 11 is getting lovely useless UI animations](https://www.pcgamer.com/windows-11-is-getting-lovely-useless-ui-animations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
