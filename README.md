@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lapsus$ gang claims new hack involving Apple Health project](https://www.theverge.com/2022/3/30/23003194/lapsus-gang-new-hack-apple-facebook-globant)
- - [Sony’s PS Plus tiers complicate the simplicity of subscription services](https://www.theverge.com/2022/3/30/23003225/sony-playstation-plus-essential-extra-premium-complicated)
- - [Microsoft Build 2022 will take place May 24th–26th](https://www.theverge.com/2022/3/30/23003277/microsoft-build-2022-may-24th-26th-dates)<!-- TECH:END -->
+ - [Some Apple Health code may have been stolen by hacking group](https://appleinsider.com/articles/22/03/30/some-apple-health-code-may-have-been-stolen-by-hacking-group?utm_medium=rss)
+ - [Google says it has used its BERT algorithm to cut explicit Search results by 30% in the last year for terms related to ethnicity, sexual preference, and gender &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220330/p35#a220330p35)
+ - [WhatsApp is getting better voice messages in the next few weeks](https://www.theverge.com/2022/3/30/23003304/whatsapp-voice-message-update-pause-recording-speed-control-outside-chat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
