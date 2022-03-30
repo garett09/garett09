@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)
- - 🚯 [Mo Salah taking a penalty for Egypt with laser pointers in his eyes earlier today](http://9gag.com/gag/aM4P3m6)
- - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)<!-- MEMES:END -->
+ - 🚖 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)
+ - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
+ - 🚯 [Bruce is retiring because of memory issues...Yippi kay yay motherf*cker...You are legend of action movies](http://9gag.com/gag/awz1qxR)<!-- MEMES:END -->
 
 --- 
 
