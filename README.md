@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The original Pokemon theme song which was sung in English by Jason Paige. Original studio recording.](http://9gag.com/gag/aKmv02Q)
- - 🚯 [The truth has been told](http://9gag.com/gag/aGzBWvK)
- - 🚯 [Now you see me ,,, now you don&#39;t ...](http://9gag.com/gag/axB6xgn)<!-- MEMES:END -->
+ - 🚖 [Roasted Chicken - 10.000 volt style](http://9gag.com/gag/aVxKN6O)
+ - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
+ - 🚯 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)<!-- MEMES:END -->
 
 --- 
 
