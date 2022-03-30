@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard settles one sexual harassment lawsuit for $18M](https://www.pcgamer.com/activision-blizzard-settles-one-sexual-harassment-lawsuit-for-dollar18m)
  - [How to unlock The Lost Valley domain in Genshin Impact](https://www.pcgamer.com/genshin-impact-lost-valley-location-unlock)
- - [Norco review](https://www.pcgamer.com/norco-review)
- - [Dead by Daylight has fifty million players and now a boardgame adaptation](https://www.pcgamer.com/dead-by-daylight-has-fifty-million-players-and-now-a-boardgame-adaptation)<!-- GAME:END -->
+ - [Norco review](https://www.pcgamer.com/norco-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
