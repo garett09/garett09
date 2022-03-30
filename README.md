@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magic thing](http://9gag.com/gag/a210Xed)
- - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
- - 🚯 [Comidas del mundo](http://9gag.com/gag/aE8Amdx)<!-- MEMES:END -->
+ - 🚖 [Karen got a taste of her own medicine.](http://9gag.com/gag/ang2mKo)
+ - 🚯 [Comidas del mundo](http://9gag.com/gag/aE8Amdx)
+ - 🚯 [I know you&#39;re tired of all the Will Smith posts so here&#39;s Jim Carrey&#39;s take on the incident.](http://9gag.com/gag/a51wYGo)<!-- MEMES:END -->
 
 --- 
 
