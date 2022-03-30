@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing a Deep Narrative to an Over-the-Top Arcade Game in Agent Intercept, Out Now](https://news.xbox.com/en-us/2022/03/30/bringing-a-deep-narrative-to-an-over-the-top-arcade-game-in-agent-intercept-out-now/)
- - [New Spy Kids movie from Robert Rodriguez headed to Netflix](https://www.polygon.com/movies/2021/1/26/22251040/spy-kids-new-movie-netflix-robert-rodriguez)
- - [Tiny Tina&#39;s Wonderlands Is Actually Twice As Fun On The Highest Difficulty](https://kotaku.com/tiny-tinas-wonderlands-difficulty-relaxed-balanced-inte-1848727795)<!-- GAME:END -->
+ - [Become a sci-fi superhero fighting for corrupt corporate overlords in this new ARPG](https://www.pcgamer.com/become-a-sci-fi-superhero-fighting-for-corrupt-corporate-overlords-in-this-new-arpg)
+ - [Nine Sols’ first gameplay footage shows a bold new direction for Devotion’s developers](https://www.polygon.com/23003478/nine-sols-red-candle-games-gameplay-reveal-trailer)
+ - [Vampire Survivors creator &#39;didn&#39;t have a vision&#39; when he started making the game that allowed him to quit his job](https://www.pcgamer.com/vampire-survivors-creator-didnt-have-a-vision-when-he-started-making-the-game-that-allowed-him-to-quit-his-job)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
