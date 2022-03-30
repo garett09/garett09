@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US investigating Apple, Samsung, and more over Wi-Fi patent complaint](https://appleinsider.com/articles/22/03/30/us-investigating-apple-samsung-and-more-over-wi-fi-patent-complaint?utm_medium=rss)
- - [Apple Studio Display Review: Looks great and sounds good, too     - CNET](https://www.cnet.com/tech/computing/apple-studio-display-review-looks-great-and-sounds-good-too/#ftag=CAD590a51e)
- - [Best 3D Printing Filament in 2022     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Craig Federighi answers complaint about why iOS auto-update doesn&#39;t work](https://appleinsider.com/articles/22/03/30/craig-federighi-answers-complaint-about-why-ios-auto-update-doesnt-working?utm_medium=rss)
+ - [Google adds a &quot;booking page&quot; to Calendar, letting users present available periods for a meeting &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220330/p18#a220330p18)
+ - [The First Drug-Releasing Contact Lens Is Here](https://www.wired.com/story/the-first-drug-releasing-contact-lens-is-here)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
