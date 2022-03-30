@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel has launched its first wee discrete Arc GPUs, but desktop graphics cards are still a way off](https://www.pcgamer.com/intel-has-launched-its-first-wee-discrete-arc-gpus-but-desktop-graphics-cards-are-still-a-way-off)
- - [Tune in here as Intel reveals its new Arc GPUs for gaming laptops](https://www.pcgamer.com/tune-in-here-as-intel-reveals-its-new-arc-gpus-for-gaming-laptops)
- - [Disney removes scenes of graphic violence from The Falcon and the Winter Soldier](https://www.polygon.com/23002982/the-falcon-and-the-winter-soldier-graphic-violence-removed-disney-plus)<!-- GAME:END -->
+ - [Taking Credit for History: Why the University of Arizona and Age of Empires IV Want Students to Play During Class](https://news.xbox.com/en-us/2022/03/30/university-of-arizona-and-age-of-empires-4-partnership-interview/)
+ - [Anno: Mutationem: The Kotaku Review](https://kotaku.com/anno-mutationem-thinkingstars-rpg-kotaku-review-cyberpu-1848723396)
+ - [Indie studio Funomena, mired in controversy, may shut down](https://www.polygon.com/23003059/funomena-closure-wattam-robin-hunicke)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
