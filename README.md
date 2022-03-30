@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bizarre Dyson Zone Pollution Mask Doubles as Headphones](https://www.wired.com/story/the-bizarre-dyson-zone-pollution-mask-doubles-as-headphones)
- - [Dyson’s bizarre new headphones have a built-in air purifier](https://www.theverge.com/2022/3/30/23000577/dyson-zone-noise-cancellation-headphones-built-in-air-purifier)
- - [Israel-based Kooply, still in stealth mode, raises an $18M seed led by Microsoft&#39;s M12, TPY Capital, and Playtika to build a mobile games development platform &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220330/p1#a220330p1)<!-- TECH:END -->
+ - [NFL reportedly planning ‘NFL Plus’ mobile streaming service](https://www.theverge.com/2022/3/30/23002742/nfl-plus-mobile-streaming-service-planned-report)
+ - [Poll: What’s your fast charging sweet spot?](https://www.androidauthority.com/fast-charging-poll-3146764/)
+ - [Qure.ai, which uses AI to read and interpret X-rays, CT scans, and ultrasounds for medical image diagnosis, raises $40M led by Novo Holdings and HealthQuad &lpar;The Economic Times&rpar;](http://www.techmeme.com/220330/p2#a220330p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
