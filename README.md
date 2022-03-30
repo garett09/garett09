@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spring Sale promotion comes to PlayStation Store](https://blog.playstation.com/2022/03/29/spring-sale-promotion-comes-to-playstation-store/)
- - [Every time a player pulls this sword from the stone, it gets heavier](https://www.pcgamer.com/every-time-a-player-pulls-this-sword-from-the-stone-it-gets-heavier)
- - [Valorant Art Director Comments On Endeavor Skin Criticism](https://kotaku.com/valorant-skin-cosmetic-development-riot-endeavor-nadesh-1848722993)<!-- GAME:END -->
+ - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)
+ - [343 Industries spent hundreds of words explaining why Master Chief took his helmet off in the Halo show](https://www.pcgamer.com/343-industries-spent-hundreds-of-words-explaining-why-master-chief-took-his-helmet-off-in-the-halo-show)
+ - [Steam payments stalled in Ukraine and Russia as Valve sorts out bank problems](https://www.pcgamer.com/steam-ukraine-russia-payments)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
