@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Philadelphia-based delivery startup Gopuff to lay off ~3% of its staff to cut $40M in costs; layoffs follow the resignations of several key executives &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/220329/p43#a220329p43)
- - [Judge approves Activision Blizzard’s $18 million harassment settlement](https://www.theverge.com/2022/3/29/23001663/activision-blizzard-18-million-harassment-settlement-eeoc-dfeh)
- - [How to update Discord on desktop or mobile](https://www.androidauthority.com/how-to-update-discord-3146735/)<!-- TECH:END -->
+ - [Israel-based Kooply, still in stealth mode, raises an $18M seed led by Microsoft&#39;s M12, TPY Capital, and Playtika to build a mobile games development platform &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220330/p1#a220330p1)
+ - [How switching to EVs would improve health in the US](https://www.theverge.com/2022/3/30/23001823/electric-vehicles-improve-health-american-lung-association-report-pollution)
+ - [Source: Philadelphia-based delivery startup Gopuff to lay off ~3% of its staff to cut $40M in costs; layoffs follow the resignations of several key executives &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/220329/p43#a220329p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
