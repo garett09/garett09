@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi answers complaint about why iOS auto-update doesn&#39;t work](https://appleinsider.com/articles/22/03/30/craig-federighi-answers-complaint-about-why-ios-auto-update-doesnt-working?utm_medium=rss)
- - [Google adds a &quot;booking page&quot; to Calendar, letting users present available periods for a meeting &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/220330/p18#a220330p18)
- - [The First Drug-Releasing Contact Lens Is Here](https://www.wired.com/story/the-first-drug-releasing-contact-lens-is-here)<!-- TECH:END -->
+ - [Amazon is selling the PlayStation 5 Digital Edition today at 11AM ET](https://www.theverge.com/2022/3/29/23001255/sony-playstation-5-ps5-digital-edition-amazon-prime-console-restock-availability-price-check)
+ - [Researchers Used a Decommissioned Satellite to Broadcast Hacker TV](https://www.wired.com/story/satellite-hacking-anit-f1r-shadytel)
+ - [Bubbles could be Android’s best chat feature, if Google fixes it](https://www.androidauthority.com/android-bubbles-broken-3146043/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
