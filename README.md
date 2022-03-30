@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton Tread review: the best treadmill by the most volatile company](https://www.theverge.com/22927723/peloton-tread-review-connected-fitness-treadmill)
- - [Anzu, which offers in-game ad services, raises $20M led by NBCUniversal and HTC, bringing its total funding to $37M &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220330/p23#a220330p23)
- - [Waymo says fully driverless rides are coming to San Francisco](https://www.theverge.com/2022/3/30/23002082/waymo-driverless-san-francisco-downtown-phoenix)<!-- TECH:END -->
+ - [What to expect from Microsoft’s Windows 11 hybrid work event](https://www.theverge.com/2022/3/30/23002966/microsoft-event-windows-11-future-hybrid-work-rumors)
+ - [Sources: Yandex, which operates a search engine, ride-hailing services, and more, could run out of semiconductors for servers in 12-18 months due to sanctions &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220330/p27#a220330p27)
+ - [There&#39;s Still Time to Extend the Student Loan Repayment Pause     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
