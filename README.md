@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Microsoft’s Windows 11 hybrid work event](https://www.theverge.com/2022/3/30/23002966/microsoft-event-windows-11-future-hybrid-work-rumors)
- - [Sources: Yandex, which operates a search engine, ride-hailing services, and more, could run out of semiconductors for servers in 12-18 months due to sanctions &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220330/p27#a220330p27)
- - [There&#39;s Still Time to Extend the Student Loan Repayment Pause     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Moon Knight&#39; Episode 1 Memes: Steven Wins Over The Internet     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-knight-episode-1-memes-steven-wins-over-the-internet/#ftag=CAD590a51e)
+ - [Best Live TV Streaming Service for Cord-Cutters in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Arceus and Darkrai     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-arceus-and-darkrai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
