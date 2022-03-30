@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sea shut down the Indian operations of its e-commerce arm, Shopee, on Monday, following India&#39;s ban on Free Fire and other apps it says are of Chinese origin &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/220330/p42#a220330p42)
- - [Sony’s new PlayStation Plus makes retro games an expensive option](https://www.theverge.com/2022/3/30/23003625/sony-playstation-plus-premium-retro-games-expensive-option)
- - [Apple finally lets ‘reader’ apps like Kindle, Netflix, and Spotify link to their own sites](https://www.theverge.com/2022/3/30/23003503/apple-reader-app-developer-external-link-guidelines-announced-entitlements)<!-- TECH:END -->
+ - [Apple updates its App Store rules in the Netherlands to let Dutch dating apps take payments through third-party processors, but a 27% commission still applies &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220330/p44#a220330p44)
+ - [Apple and Meta shared data with hackers pretending to be law enforcement officials](https://www.theverge.com/2022/3/30/23003600/apple-meta-shared-data-hackers-pretending-law-enforcement-officials)
+ - [YouTube is finally rolling out picture-in-picture mode for YouTube TV on iOS](https://www.theverge.com/2022/3/30/23003709/youtube-tv-picture-in-picture-iphone-ipad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
