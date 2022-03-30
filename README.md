@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Scott Bennie, writer on Interplay&#39;s Lord of the Rings, Star Trek, Fallout, and others, has died](https://www.pcgamer.com/scott-bennie-writer-on-interplays-lord-of-the-rings-star-trek-fallout-and-others-has-died)
  - [Enjoying The View](https://kotaku.com/louis-laurent-art-illustration-frameworks-concept-beaut-1848723811)
- - [Loop Hero studio encourages users affected by sanctions to pirate the game](https://www.pcgamer.com/loop-hero-studio-encourages-users-affected-by-sanctions-to-pirate-the-game)
- - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)<!-- GAME:END -->
+ - [Loop Hero studio encourages users affected by sanctions to pirate the game](https://www.pcgamer.com/loop-hero-studio-encourages-users-affected-by-sanctions-to-pirate-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
