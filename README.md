@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ picks up eight BAFTA television nominations](https://appleinsider.com/articles/22/03/30/apple-tv-picks-up-eight-bafta-television-nominations?utm_medium=rss)
- - [Sources detail internal confusion from Meta moderators and employees over how to enforce content rules during Russia&#39;s invasion of Ukraine &lpar;New York Times&rpar;](http://www.techmeme.com/220330/p12#a220330p12)
- - [Ofcom: around 16% of UK three and four-year-olds view TikTok content, rising to around 33% of children aged five to seven &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/220330/p11#a220330p11)<!-- TECH:END -->
+ - [US investigating Apple, Samsung, and more over Wi-Fi patent complaint](https://appleinsider.com/articles/22/03/30/us-investigating-apple-samsung-and-more-over-wi-fi-patent-complaint?utm_medium=rss)
+ - [Apple Studio Display Review: Looks great and sounds good, too     - CNET](https://www.cnet.com/tech/computing/apple-studio-display-review-looks-great-and-sounds-good-too/#ftag=CAD590a51e)
+ - [Best 3D Printing Filament in 2022     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
