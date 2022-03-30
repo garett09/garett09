@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Stunning Southern Dystopia Is One Of The Best-Written Games Of The Year](https://kotaku.com/game-pass-norco-review-adventure-southern-gothic-raw-fu-1848726472)
- - [Meta Quest Gaming showcase will announce new VR games in late April](https://www.polygon.com/23003269/meta-quest-gaming-showcase-april-2022-virtual-reality-announcements)
- - [Chips from broken PlayStation 5 consoles might be showing up in crypto mining rigs](https://www.pcgamer.com/chips-from-broken-playstation-5-consoles-might-be-showing-up-in-crypto-mining-rigs)<!-- GAME:END -->
+ - [Bringing a Deep Narrative to an Over-the-Top Arcade Game in Agent Intercept, Out Now](https://news.xbox.com/en-us/2022/03/30/bringing-a-deep-narrative-to-an-over-the-top-arcade-game-in-agent-intercept-out-now/)
+ - [New Spy Kids movie from Robert Rodriguez headed to Netflix](https://www.polygon.com/movies/2021/1/26/22251040/spy-kids-new-movie-netflix-robert-rodriguez)
+ - [Tiny Tina&#39;s Wonderlands Is Actually Twice As Fun On The Highest Difficulty](https://kotaku.com/tiny-tinas-wonderlands-difficulty-relaxed-balanced-inte-1848727795)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
