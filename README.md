@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI and global law enforcement partners announce the arrests of 65 alleged cybercrime gang members who specialized in business email compromise schemes &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220330/p41#a220330p41)
- - [Bitcoin&#39;s Environmental Threat Prompts Effort to &#39;Change the Code, Not the Climate&#39;     - CNET](https://www.cnet.com/personal-finance/crypto/bitcoins-environmental-threat-prompts-effort-to-change-the-code-not-the-climate/#ftag=CAD590a51e)
- - [&#39;Moon Knight&#39; Episode 1 Recap: Oscar Isaac Awakens His Marvel Action Hero Alter-Ego     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-1-recap-oscar-isaac-discovers-his-marvel-action-hero-alter-ego/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sea shut down the Indian operations of its e-commerce arm, Shopee, on Monday, following India&#39;s ban on Free Fire and other apps it says are of Chinese origin &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/220330/p42#a220330p42)
+ - [Sony’s new PlayStation Plus makes retro games an expensive option](https://www.theverge.com/2022/3/30/23003625/sony-playstation-plus-premium-retro-games-expensive-option)
+ - [Apple finally lets ‘reader’ apps like Kindle, Netflix, and Spotify link to their own sites](https://www.theverge.com/2022/3/30/23003503/apple-reader-app-developer-external-link-guidelines-announced-entitlements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
