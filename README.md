@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Treasure Planet was one of my favourite movies when I was a kid. I&#39;m still here is a banger.](http://9gag.com/gag/aqG60nY)
- - 🚯 [How other people see eletric cars](http://9gag.com/gag/adgQEzM)
- - 🚯 [Instant Regret..](http://9gag.com/gag/aNPQNwA)<!-- MEMES:END -->
+ - 🚖 [Instant Regret..](http://9gag.com/gag/aNPQNwA)
+ - 🚯 [When you&#39;re dyslexic and you try to perform a U-turn](http://9gag.com/gag/azeKnwN)
+ - 🚯 [RTX it is....](http://9gag.com/gag/aAGKjbd)<!-- MEMES:END -->
 
 --- 
 
