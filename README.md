@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Apple Health code may have been stolen by hacking group](https://appleinsider.com/articles/22/03/30/some-apple-health-code-may-have-been-stolen-by-hacking-group?utm_medium=rss)
- - [Google says it has used its BERT algorithm to cut explicit Search results by 30% in the last year for terms related to ethnicity, sexual preference, and gender &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220330/p35#a220330p35)
- - [WhatsApp is getting better voice messages in the next few weeks](https://www.theverge.com/2022/3/30/23003304/whatsapp-voice-message-update-pause-recording-speed-control-outside-chat)<!-- TECH:END -->
+ - [Dagger, a new DevOps service co-founded by Docker&#39;s Solomon Hykes, launches in public beta and announces a $20M Series A led by Redpoint Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p38#a220330p38)
+ - [How to use the PS5 web browser](https://www.androidauthority.com/ps5-web-browser-3147042/)
+ - [Clarus the dogcow has been reborn in an iPhone keyboard easter egg](https://appleinsider.com/articles/22/03/30/clarus-the-dogcow-has-been-reborn-in-an-iphone-keyboard-easter-egg?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
