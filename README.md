@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Moon Knight&#39; Episode 1 Recap: Oscar Isaac Discovers His Marvel Action Hero Alter-Ego     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-1-recap-oscar-isaac-discovers-his-marvel-action-hero-alter-ego/#ftag=CAD590a51e)
- - [Boston-based Cloaked, which allows users to generate unique email addresses and phone numbers while creating online accounts, raises a $25M Series A &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220330/p3#a220330p3)
- - [NFL reportedly planning ‘NFL Plus’ mobile streaming service](https://www.theverge.com/2022/3/30/23002742/nfl-plus-mobile-streaming-service-planned-report)<!-- TECH:END -->
+ - [Chrome version 100 arrives with refreshed logo in tow](https://www.theverge.com/2022/3/30/23002780/chrome-browser-version-100-features)
+ - [15 tips and tricks to speed up Android — Better performance for your device](https://www.androidauthority.com/speed-up-android-861845/)
+ - [Russian developers are creating their own alternative to the Google Play Store](https://www.androidauthority.com/russia-google-play-store-alternative-3146809/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
