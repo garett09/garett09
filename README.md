@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL reportedly planning ‘NFL Plus’ mobile streaming service](https://www.theverge.com/2022/3/30/23002742/nfl-plus-mobile-streaming-service-planned-report)
- - [Poll: What’s your fast charging sweet spot?](https://www.androidauthority.com/fast-charging-poll-3146764/)
- - [Qure.ai, which uses AI to read and interpret X-rays, CT scans, and ultrasounds for medical image diagnosis, raises $40M led by Novo Holdings and HealthQuad &lpar;The Economic Times&rpar;](http://www.techmeme.com/220330/p2#a220330p2)<!-- TECH:END -->
+ - [&#39;Moon Knight&#39; Episode 1 Recap: Oscar Isaac Discovers His Marvel Action Hero Alter-Ego     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-1-recap-oscar-isaac-discovers-his-marvel-action-hero-alter-ego/#ftag=CAD590a51e)
+ - [Boston-based Cloaked, which allows users to generate unique email addresses and phone numbers while creating online accounts, raises a $25M Series A &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220330/p3#a220330p3)
+ - [NFL reportedly planning ‘NFL Plus’ mobile streaming service](https://www.theverge.com/2022/3/30/23002742/nfl-plus-mobile-streaming-service-planned-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
