@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Big Reason Sony’s Revamped PS Plus Isn’t Just Another Game Pass](https://kotaku.com/sony-playstation-ps-plus-xbox-game-pass-first-party-ex-1848721114)
- - [Moon Knight is the perfect standalone MCU series, in theory](https://www.polygon.com/23002970/moon-knight-review-episode-1)
- - [Elden Ring, One Month Later](https://kotaku.com/elden-ring-fromsoftware-review-retrospective-dark-souls-1848722739)<!-- GAME:END -->
+ - [Intel has launched its first wee discrete Arc GPUs, but desktop graphics cards are still a way off](https://www.pcgamer.com/intel-has-launched-its-first-wee-discrete-arc-gpus-but-desktop-graphics-cards-are-still-a-way-off)
+ - [Tune in here as Intel reveals its new Arc GPUs for gaming laptops](https://www.pcgamer.com/tune-in-here-as-intel-reveals-its-new-arc-gpus-for-gaming-laptops)
+ - [Disney removes scenes of graphic violence from The Falcon and the Winter Soldier](https://www.polygon.com/23002982/the-falcon-and-the-winter-soldier-graphic-violence-removed-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
