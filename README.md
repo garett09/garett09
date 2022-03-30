@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s evolving, just backwards](http://9gag.com/gag/aLv4Ejz)
- - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
- - 🚯 [I know you&#39;re tired of all the Will Smith posts so here&#39;s Jim Carrey&#39;s take on the incident.](http://9gag.com/gag/a51wYGo)<!-- MEMES:END -->
+ - 🚖 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
+ - 🚯 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)
+ - 🚯 [This French TV Show invited people with unusual laughs to sit together on stage. Just listen to them](http://9gag.com/gag/awz1WBB)<!-- MEMES:END -->
 
 --- 
 
