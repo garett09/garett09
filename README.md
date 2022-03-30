@@ -146,15 +146,13 @@ Sunday       128 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               2 hrs 36 mins       █████████████████░░░░░░░░   68.92% 
-CSS                      1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.5% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -163,7 +161,7 @@ Windows                  3 hrs 46 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 00:52:30 UTC
+ Last Updated on 30/03/2022 00:54:57 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
