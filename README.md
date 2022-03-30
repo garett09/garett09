@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11 is getting lovely useless UI animations](https://www.pcgamer.com/windows-11-is-getting-lovely-useless-ui-animations)
  - [NASA plans to have boots on Mars in 2040](https://www.pcgamer.com/nasa-plans-to-have-boots-on-mars-in-2040)
- - [Samsung sued over HEVC video codec patents](https://www.pcgamer.com/samsung-sued-over-hevc-video-codec-patents)
- - [Scott Bennie, writer on Interplay&#39;s Lord of the Rings, Star Trek, Fallout, and others, has died](https://www.pcgamer.com/scott-bennie-writer-on-interplays-lord-of-the-rings-star-trek-fallout-and-others-has-died)<!-- GAME:END -->
+ - [Samsung sued over HEVC video codec patents](https://www.pcgamer.com/samsung-sued-over-hevc-video-codec-patents)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
