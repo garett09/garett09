@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Covering parking lots with Solar Panels, providing Shade, and Generating Electricity to charge Electric cars.](http://9gag.com/gag/aBnVq6N)
- - 🚯 [The original Pokemon theme song which was sung in English by Jason Paige. Original studio recording.](http://9gag.com/gag/aKmv02Q)
- - 🚯 [That f**ked up moment when u realize that your life is already \u2026. well \u2026 F**KED UP](http://9gag.com/gag/aKmv0BO)<!-- MEMES:END -->
+ - 🚖 [The original Pokemon theme song which was sung in English by Jason Paige. Original studio recording.](http://9gag.com/gag/aKmv02Q)
+ - 🚯 [The truth has been told](http://9gag.com/gag/aGzBWvK)
+ - 🚯 [Now you see me ,,, now you don&#39;t ...](http://9gag.com/gag/axB6xgn)<!-- MEMES:END -->
 
 --- 
 
