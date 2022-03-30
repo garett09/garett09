@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s &#39;Moon Knight&#39; Episode 1 Memes: Steven Wins Over The Internet     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-knight-episode-1-memes-steven-wins-over-the-internet/#ftag=CAD590a51e)
- - [Best Live TV Streaming Service for Cord-Cutters in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Arceus and Darkrai     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-arceus-and-darkrai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lapsus$ gang claims new hack involving Apple Health project](https://www.theverge.com/2022/3/30/23003194/lapsus-gang-new-hack-apple-facebook-globant)
+ - [Sony’s PS Plus tiers complicate the simplicity of subscription services](https://www.theverge.com/2022/3/30/23003225/sony-playstation-plus-essential-extra-premium-complicated)
+ - [Microsoft Build 2022 will take place May 24th–26th](https://www.theverge.com/2022/3/30/23003277/microsoft-build-2022-may-24th-26th-dates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
