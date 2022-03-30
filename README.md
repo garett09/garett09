@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Possible Berserk References In Elden Ring](https://kotaku.com/elden-ring-anime-berserk-hidetaka-miyazaki-kentaro-miur-1848728874)
- - [Moon Knight’s Arthur Harrow is much more empathetic than his comic counterpart](https://www.polygon.com/23003291/moon-knights-arthur-harrow-villain-explainer)
- - [Amazon&#39;s Fallout series adds Arcane voice actress Ella Purnell](https://www.pcgamer.com/amazons-fallout-series-adds-arcane-voice-actress-ella-purnell)<!-- GAME:END -->
+ - [Immortal X-Men #1 is 40 pages of outrageous mutant drama](https://www.polygon.com/23003696/immortal-x-men-1-comic-marvel-kieron-gillen-mister-sinister)
+ - [Diablo meets The Boys in the new action RPG Superfuse](https://www.polygon.com/23003721/superfuse-trailer-action-rpg-diablo-boys-early-access)
+ - [Best DDR4 RAM for gaming in 2022](https://www.pcgamer.com/best-ddr4-ram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
