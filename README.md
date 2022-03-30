@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dagger, a new DevOps service co-founded by Docker&#39;s Solomon Hykes, launches in public beta and announces a $20M Series A led by Redpoint Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p38#a220330p38)
- - [How to use the PS5 web browser](https://www.androidauthority.com/ps5-web-browser-3147042/)
- - [Clarus the dogcow has been reborn in an iPhone keyboard easter egg](https://appleinsider.com/articles/22/03/30/clarus-the-dogcow-has-been-reborn-in-an-iphone-keyboard-easter-egg?utm_medium=rss)<!-- TECH:END -->
+ - [The FBI and global law enforcement partners announce the arrests of 65 alleged cybercrime gang members who specialized in business email compromise schemes &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220330/p41#a220330p41)
+ - [Bitcoin&#39;s Environmental Threat Prompts Effort to &#39;Change the Code, Not the Climate&#39;     - CNET](https://www.cnet.com/personal-finance/crypto/bitcoins-environmental-threat-prompts-effort-to-change-the-code-not-the-climate/#ftag=CAD590a51e)
+ - [&#39;Moon Knight&#39; Episode 1 Recap: Oscar Isaac Awakens His Marvel Action Hero Alter-Ego     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-1-recap-oscar-isaac-discovers-his-marvel-action-hero-alter-ego/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
