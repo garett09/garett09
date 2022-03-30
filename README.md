@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard settles one sexual harassment lawsuit for $18M](https://www.pcgamer.com/activision-blizzard-settles-one-sexual-harassment-lawsuit-for-dollar18m)
- - [How to unlock The Lost Valley domain in Genshin Impact](https://www.pcgamer.com/genshin-impact-lost-valley-location-unlock)
- - [Norco review](https://www.pcgamer.com/norco-review)<!-- GAME:END -->
+ - [One Big Reason Sony’s Revamped PS Plus Isn’t Just Another Game Pass](https://kotaku.com/sony-playstation-ps-plus-xbox-game-pass-first-party-ex-1848721114)
+ - [Moon Knight is the perfect standalone MCU series, in theory](https://www.polygon.com/23002970/moon-knight-review-episode-1)
+ - [Elden Ring, One Month Later](https://kotaku.com/elden-ring-fromsoftware-review-retrospective-dark-souls-1848722739)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
