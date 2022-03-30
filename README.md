@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swords](http://9gag.com/gag/axB6XD1)
- - 🚯 [Heavy school bag](http://9gag.com/gag/avA6NyM)
- - 🚯 [When you&#39;re dyslexic and you try to perform a U-turn](http://9gag.com/gag/azeKnwN)<!-- MEMES:END -->
+ - 🚖 [Big Ooooff](http://9gag.com/gag/a3106rv)
+ - 🚯 [Treasure Planet was one of my favourite movies when I was a kid. I&#39;m still here is a banger.](http://9gag.com/gag/aqG60nY)
+ - 🚯 [Mo Salah taking a penalty for Egypt with laser pointers in his eyes earlier today](http://9gag.com/gag/aM4P3m6)<!-- MEMES:END -->
 
 --- 
 
