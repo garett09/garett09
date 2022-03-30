@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 simulation games worth picking up at Steam’s short-term Simfest sale](https://www.polygon.com/2022/3/30/23003565/steam-sale-simulation-simfest-hobby-building-management-driving-games)
- - [Netflix’s Bridgerton prequel casts its young Queen Charlotte, reveals more show details](https://www.polygon.com/23003648/bridgerton-spinoff-queen-charlotte-netflix)
- - [Become a sci-fi superhero fighting for corrupt corporate overlords in this new ARPG](https://www.pcgamer.com/become-a-sci-fi-superhero-fighting-for-corrupt-corporate-overlords-in-this-new-arpg)<!-- GAME:END -->
+ - [7 Possible Berserk References In Elden Ring](https://kotaku.com/elden-ring-anime-berserk-hidetaka-miyazaki-kentaro-miur-1848728874)
+ - [Moon Knight’s Arthur Harrow is much more empathetic than his comic counterpart](https://www.polygon.com/23003291/moon-knights-arthur-harrow-villain-explainer)
+ - [Amazon&#39;s Fallout series adds Arcane voice actress Ella Purnell](https://www.pcgamer.com/amazons-fallout-series-adds-arcane-voice-actress-ella-purnell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
