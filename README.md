@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darwin awards entry](http://9gag.com/gag/aM4Pg6R)
- - 🚯 [And the world shall know pain](http://9gag.com/gag/aYrD9mv)
- - 🚯 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)<!-- MEMES:END -->
+ - 🚖 [Covering parking lots with Solar Panels, providing Shade, and Generating Electricity to charge Electric cars.](http://9gag.com/gag/aBnVq6N)
+ - 🚯 [The original Pokemon theme song which was sung in English by Jason Paige. Original studio recording.](http://9gag.com/gag/aKmv02Q)
+ - 🚯 [That f**ked up moment when u realize that your life is already \u2026. well \u2026 F**KED UP](http://9gag.com/gag/aKmv0BO)<!-- MEMES:END -->
 
 --- 
 
