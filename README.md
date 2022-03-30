@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jim speaks the truth](http://9gag.com/gag/aegZBmB)
- - 🚯 [This gentleman being given a gift that will fulfill a lifelong dream: a trip to Venice, Italy](http://9gag.com/gag/aOQZMGr)
- - 🚯 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)<!-- MEMES:END -->
+ - 🚖 [I have to say this. Win11 is going to fail if they don\u2019t change system requirements. Considering Linux at the moment.](http://9gag.com/gag/a0Z0BYz)
+ - 🚯 [Growing Old Sucks](http://9gag.com/gag/aYrDX2O)
+ - 🚯 [Karen got a taste of her own medicine.](http://9gag.com/gag/ang2mKo)<!-- MEMES:END -->
 
 --- 
 
