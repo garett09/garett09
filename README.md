@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking Credit for History: Why the University of Arizona and Age of Empires IV Want Students to Play During Class](https://news.xbox.com/en-us/2022/03/30/university-of-arizona-and-age-of-empires-4-partnership-interview/)
- - [Anno: Mutationem: The Kotaku Review](https://kotaku.com/anno-mutationem-thinkingstars-rpg-kotaku-review-cyberpu-1848723396)
- - [Indie studio Funomena, mired in controversy, may shut down](https://www.polygon.com/23003059/funomena-closure-wattam-robin-hunicke)<!-- GAME:END -->
+ - [Meta Quest Gaming showcase will announce new VR games in late April](https://www.polygon.com/23003269/meta-quest-gaming-showcase-april-2022-virtual-reality-announcements)
+ - [Ranking of Kings earned its crown after only one season](https://www.polygon.com/23002291/watch-ranking-of-kings)
+ - [Persona 5 is leaving PS5’s PlayStation Plus Collection](https://www.polygon.com/23003058/ps5-playstation-plus-collection-persona-5-removal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
