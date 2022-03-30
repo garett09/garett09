@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are getting spam texts from their own numbers &lpar;Updated: Verizon response&rpar;](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)
- - [Googlers May Get New Option Amid Ongoing Rancor Over Bidet Removals     - CNET](https://www.cnet.com/tech/services-and-software/googlers-may-get-new-option-amid-ongoing-rancor-over-bidet-removals/#ftag=CAD590a51e)
- - [How to add and assign roles on Discord](https://www.androidauthority.com/add-roles-discord-3145847/)<!-- TECH:END -->
+ - [Source: Philadelphia-based delivery startup Gopuff to lay off ~3% of its staff to cut $40M in costs; layoffs follow the resignations of several key executives &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/220329/p43#a220329p43)
+ - [Judge approves Activision Blizzard’s $18 million harassment settlement](https://www.theverge.com/2022/3/29/23001663/activision-blizzard-18-million-harassment-settlement-eeoc-dfeh)
+ - [How to update Discord on desktop or mobile](https://www.androidauthority.com/how-to-update-discord-3146735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
