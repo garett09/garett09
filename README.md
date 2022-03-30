@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magic thing](http://9gag.com/gag/a210Xed)
- - 🚯 [Perfectly balanced. As all things should be](http://9gag.com/gag/aGzB5nX)
- - 🚯 [His logic is flawless](http://9gag.com/gag/a710X2x)<!-- MEMES:END -->
+ - 🚖 [Growing Old Sucks](http://9gag.com/gag/aYrDX2O)
+ - 🚯 [He&#39;s got a point you know](http://9gag.com/gag/aDD85p7)
+ - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)<!-- MEMES:END -->
 
 --- 
 
