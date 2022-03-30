@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)
- - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
- - 🚯 [Bruce is retiring because of memory issues...Yippi kay yay motherf*cker...You are legend of action movies](http://9gag.com/gag/awz1qxR)<!-- MEMES:END -->
+ - 🚖 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
+ - 🚯 [Bruce is retiring because of memory issues...Yippi kay yay motherf*cker...You are legend of action movies](http://9gag.com/gag/awz1qxR)
+ - 🚯 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)<!-- MEMES:END -->
 
 --- 
 
