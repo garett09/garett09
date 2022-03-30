@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
- - 🚯 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)
- - 🚯 [This French TV Show invited people with unusual laughs to sit together on stage. Just listen to them](http://9gag.com/gag/awz1WBB)<!-- MEMES:END -->
+ - 🚖 [This French TV Show invited people with unusual laughs to sit together on stage. Just listen to them](http://9gag.com/gag/awz1WBB)
+ - 🚯 [C&rpar; Crab Walk](http://9gag.com/gag/azeKp4q)
+ - 🚯 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)<!-- MEMES:END -->
 
 --- 
 
