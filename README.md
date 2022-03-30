@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is selling the PlayStation 5 Digital Edition today at 11AM ET](https://www.theverge.com/2022/3/29/23001255/sony-playstation-5-ps5-digital-edition-amazon-prime-console-restock-availability-price-check)
- - [Researchers Used a Decommissioned Satellite to Broadcast Hacker TV](https://www.wired.com/story/satellite-hacking-anit-f1r-shadytel)
- - [Bubbles could be Android’s best chat feature, if Google fixes it](https://www.androidauthority.com/android-bubbles-broken-3146043/)<!-- TECH:END -->
+ - [Peloton Tread review: the best treadmill by the most volatile company](https://www.theverge.com/22927723/peloton-tread-review-connected-fitness-treadmill)
+ - [Anzu, which offers in-game ad services, raises $20M led by NBCUniversal and HTC, bringing its total funding to $37M &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220330/p23#a220330p23)
+ - [Waymo says fully driverless rides are coming to San Francisco](https://www.theverge.com/2022/3/30/23002082/waymo-driverless-san-francisco-downtown-phoenix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
