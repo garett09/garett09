@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Traditional Beauty Of Nintendo&#39;s Playing Cards](https://kotaku.com/nintendo-japan-hanafuda-cards-beauty-gambling-tradition-1848724872)
- - [Windows 11 is getting lovely useless UI animations](https://www.pcgamer.com/windows-11-is-getting-lovely-useless-ui-animations)
- - [NASA plans to have boots on Mars in 2040](https://www.pcgamer.com/nasa-plans-to-have-boots-on-mars-in-2040)<!-- GAME:END -->
+ - [How to unlock The Lost Valley domain in Genshin Impact](https://www.pcgamer.com/genshin-impact-lost-valley-location-unlock)
+ - [Norco review](https://www.pcgamer.com/norco-review)
+ - [Dead by Daylight has fifty million players and now a boardgame adaptation](https://www.pcgamer.com/dead-by-daylight-has-fifty-million-players-and-now-a-boardgame-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
