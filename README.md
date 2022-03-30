@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roasted Chicken - 10.000 volt style](http://9gag.com/gag/aVxKN6O)
- - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
- - 🚯 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)<!-- MEMES:END -->
+ - 🚖 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)
+ - 🚯 [Mo Salah taking a penalty for Egypt with laser pointers in his eyes earlier today](http://9gag.com/gag/aM4P3m6)
+ - 🚯 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)<!-- MEMES:END -->
 
 --- 
 
