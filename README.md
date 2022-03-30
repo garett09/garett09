@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome version 100 arrives with refreshed logo in tow](https://www.theverge.com/2022/3/30/23002780/chrome-browser-version-100-features)
- - [15 tips and tricks to speed up Android — Better performance for your device](https://www.androidauthority.com/speed-up-android-861845/)
- - [Russian developers are creating their own alternative to the Google Play Store](https://www.androidauthority.com/russia-google-play-store-alternative-3146809/)<!-- TECH:END -->
+ - [Apple TV+ picks up eight BAFTA television nominations](https://appleinsider.com/articles/22/03/30/apple-tv-picks-up-eight-bafta-television-nominations?utm_medium=rss)
+ - [Sources detail internal confusion from Meta moderators and employees over how to enforce content rules during Russia&#39;s invasion of Ukraine &lpar;New York Times&rpar;](http://www.techmeme.com/220330/p12#a220330p12)
+ - [Ofcom: around 16% of UK three and four-year-olds view TikTok content, rising to around 33% of children aged five to seven &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/220330/p11#a220330p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
