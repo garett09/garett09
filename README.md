@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This French TV Show invited people with unusual laughs to sit together on stage. Just listen to them](http://9gag.com/gag/awz1WBB)
- - 🚯 [C&rpar; Crab Walk](http://9gag.com/gag/azeKp4q)
+ - 🚖 [Jim speaks the truth](http://9gag.com/gag/aegZBmB)
+ - 🚯 [This gentleman being given a gift that will fulfill a lifelong dream: a trip to Venice, Italy](http://9gag.com/gag/aOQZMGr)
  - 🚯 [Homeless man cannot believe how good his transformation looks after a makeover.](http://9gag.com/gag/a810Ro6)<!-- MEMES:END -->
 
 --- 
