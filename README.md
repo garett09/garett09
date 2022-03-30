@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC sues TurboTax to stop ‘misleading’ ads for free tax prep software](https://www.theverge.com/2022/3/29/23002219/ftc-turbo-tax-irs-free-tax-prep-software-intuit-misleading)
- - [Apple will no longer repair iPhones marked as missing](https://www.theverge.com/2022/3/29/23002123/apple-store-repair-iphone-stolen-missing-flagged)
- - [# Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)<!-- TECH:END -->
+ - [Teenage Engineering’s tiny, orange, bendable PC case is back on sale](https://www.theverge.com/2022/3/29/23002304/teenage-engineering-computer-1-pc-case-available)
+ - [How to update the PS5 controller](https://www.androidauthority.com/update-ps5-controller-3146700/)
+ - [B&amp;H launches 14-inch MacBook Pro deals: free upgrade to 10-core CPU](https://appleinsider.com/articles/22/03/30/bh-launches-14-inch-macbook-pro-deals-free-upgrade-to-10-core-cpu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
