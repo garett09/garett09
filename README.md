@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates its App Store rules in the Netherlands to let Dutch dating apps take payments through third-party processors, but a 27% commission still applies &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220330/p44#a220330p44)
- - [Apple and Meta shared data with hackers pretending to be law enforcement officials](https://www.theverge.com/2022/3/30/23003600/apple-meta-shared-data-hackers-pretending-law-enforcement-officials)
- - [YouTube is finally rolling out picture-in-picture mode for YouTube TV on iOS](https://www.theverge.com/2022/3/30/23003709/youtube-tv-picture-in-picture-iphone-ipad)<!-- TECH:END -->
+ - [YouTube TV rolling out picture-in-picture support to iPhone and iPad](https://appleinsider.com/articles/22/03/30/youtube-tv-rolling-out-picture-in-picture-support-to-iphone-and-ipad?utm_medium=rss)
+ - [Chainalysis: $1B+ in crypto was stolen from bridge-related exploits in a little over a year across seven incidents; Dune: $21B+ is locked on Ethereum bridges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220330/p46#a220330p46)
+ - [How to create an account and sell an item on eBay](https://www.androidauthority.com/how-to-sell-on-ebay-3147120/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
