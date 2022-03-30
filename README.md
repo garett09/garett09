@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Ooooff](http://9gag.com/gag/a3106rv)
- - 🚯 [Treasure Planet was one of my favourite movies when I was a kid. I&#39;m still here is a banger.](http://9gag.com/gag/aqG60nY)
- - 🚯 [Mo Salah taking a penalty for Egypt with laser pointers in his eyes earlier today](http://9gag.com/gag/aM4P3m6)<!-- MEMES:END -->
+ - 🚖 [Treasure Planet was one of my favourite movies when I was a kid. I&#39;m still here is a banger.](http://9gag.com/gag/aqG60nY)
+ - 🚯 [How other people see eletric cars](http://9gag.com/gag/adgQEzM)
+ - 🚯 [Instant Regret..](http://9gag.com/gag/aNPQNwA)<!-- MEMES:END -->
 
 --- 
 
