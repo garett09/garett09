@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re dyslexic and you try to perform a U-turn](http://9gag.com/gag/azeKnwN)
- - 🚯 [RTX it is....](http://9gag.com/gag/aAGKjbd)
- - 🚯 [Now you see me ,,, now you don&#39;t ...](http://9gag.com/gag/axB6xgn)<!-- MEMES:END -->
+ - 🚖 [Darwin awards entry](http://9gag.com/gag/aM4Pg6R)
+ - 🚯 [And the world shall know pain](http://9gag.com/gag/aYrD9mv)
+ - 🚯 [Finally some good f**king news.](http://9gag.com/gag/aZr8Ajn)<!-- MEMES:END -->
 
 --- 
 
