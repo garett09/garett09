@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenage Engineering’s tiny, orange, bendable PC case is back on sale](https://www.theverge.com/2022/3/29/23002304/teenage-engineering-computer-1-pc-case-available)
- - [How to update the PS5 controller](https://www.androidauthority.com/update-ps5-controller-3146700/)
- - [B&amp;H launches 14-inch MacBook Pro deals: free upgrade to 10-core CPU](https://appleinsider.com/articles/22/03/30/bh-launches-14-inch-macbook-pro-deals-free-upgrade-to-10-core-cpu?utm_medium=rss)<!-- TECH:END -->
+ - [People are getting spam texts from their own numbers &lpar;Updated: Verizon response&rpar;](https://www.androidauthority.com/spam-text-own-phone-number-3145828/)
+ - [Googlers May Get New Option Amid Ongoing Rancor Over Bidet Removals     - CNET](https://www.cnet.com/tech/services-and-software/googlers-may-get-new-option-amid-ongoing-rancor-over-bidet-removals/#ftag=CAD590a51e)
+ - [How to add and assign roles on Discord](https://www.androidauthority.com/add-roles-discord-3145847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
