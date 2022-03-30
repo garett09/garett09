@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Growing Old Sucks](http://9gag.com/gag/aYrDX2O)
- - 🚯 [He&#39;s got a point you know](http://9gag.com/gag/aDD85p7)
- - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)<!-- MEMES:END -->
+ - 🚖 [Magic thing](http://9gag.com/gag/a210Xed)
+ - 🚯 [A common sight at Brazil&#39;s lagoons](http://9gag.com/gag/awz1Wz4)
+ - 🚯 [Comidas del mundo](http://9gag.com/gag/aE8Amdx)<!-- MEMES:END -->
 
 --- 
 
