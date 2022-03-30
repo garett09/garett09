@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)
- - [343 Industries spent hundreds of words explaining why Master Chief took his helmet off in the Halo show](https://www.pcgamer.com/343-industries-spent-hundreds-of-words-explaining-why-master-chief-took-his-helmet-off-in-the-halo-show)
- - [Steam payments stalled in Ukraine and Russia as Valve sorts out bank problems](https://www.pcgamer.com/steam-ukraine-russia-payments)<!-- GAME:END -->
+ - [Enjoying The View](https://kotaku.com/louis-laurent-art-illustration-frameworks-concept-beaut-1848723811)
+ - [Loop Hero studio encourages users affected by sanctions to pirate the game](https://www.pcgamer.com/loop-hero-studio-encourages-users-affected-by-sanctions-to-pirate-the-game)
+ - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
