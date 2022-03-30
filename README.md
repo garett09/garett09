@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Become a sci-fi superhero fighting for corrupt corporate overlords in this new ARPG](https://www.pcgamer.com/become-a-sci-fi-superhero-fighting-for-corrupt-corporate-overlords-in-this-new-arpg)
- - [Nine Sols’ first gameplay footage shows a bold new direction for Devotion’s developers](https://www.polygon.com/23003478/nine-sols-red-candle-games-gameplay-reveal-trailer)
- - [Vampire Survivors creator &#39;didn&#39;t have a vision&#39; when he started making the game that allowed him to quit his job](https://www.pcgamer.com/vampire-survivors-creator-didnt-have-a-vision-when-he-started-making-the-game-that-allowed-him-to-quit-his-job)<!-- GAME:END -->
+ - [12 simulation games worth picking up at Steam’s short-term Simfest sale](https://www.polygon.com/2022/3/30/23003565/steam-sale-simulation-simfest-hobby-building-management-driving-games)
+ - [Netflix’s Bridgerton prequel casts its young Queen Charlotte, reveals more show details](https://www.polygon.com/23003648/bridgerton-spinoff-queen-charlotte-netflix)
+ - [Become a sci-fi superhero fighting for corrupt corporate overlords in this new ARPG](https://www.pcgamer.com/become-a-sci-fi-superhero-fighting-for-corrupt-corporate-overlords-in-this-new-arpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
