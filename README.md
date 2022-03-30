@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instant Regret..](http://9gag.com/gag/aNPQNwA)
- - 🚯 [When you&#39;re dyslexic and you try to perform a U-turn](http://9gag.com/gag/azeKnwN)
- - 🚯 [RTX it is....](http://9gag.com/gag/aAGKjbd)<!-- MEMES:END -->
+ - 🚖 [When you&#39;re dyslexic and you try to perform a U-turn](http://9gag.com/gag/azeKnwN)
+ - 🚯 [RTX it is....](http://9gag.com/gag/aAGKjbd)
+ - 🚯 [Now you see me ,,, now you don&#39;t ...](http://9gag.com/gag/axB6xgn)<!-- MEMES:END -->
 
 --- 
 
