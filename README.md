@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brazil weather is hotter](http://9gag.com/gag/a710jrm)
- - 🚯 [Bruce is retiring because of memory issues...Yippi kay yay motherf*cker...You are legend of action movies](http://9gag.com/gag/awz1qxR)
- - 🚯 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)<!-- MEMES:END -->
+ - 🚖 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)
+ - 🚯 [Thought it was a joke but can confirm Germany declared war on Italy](http://9gag.com/gag/a810rWV)
+ - 🚯 [High School runner sucker punched mid-race](http://9gag.com/gag/aNPVm40)<!-- MEMES:END -->
 
 --- 
 
