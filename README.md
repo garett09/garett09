@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve says it is working to resolve issues as Steam game developers in Ukraine, Russia, and Belarus are unable to receive payments due to new regulations &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/220331/p4#a220331p4)
  - [World Backup Day deals: save up to $440 on portable SSDs, internal and external drives, memory cards at B&amp;H Photo](https://appleinsider.com/articles/22/03/29/world-backup-day-deals-save-up-to-440-on-portable-ssds-internal-and-external-drives-memory-cards-at-bh-photo?utm_medium=rss)
- - [WhatsApp’s voice messages just got much better with multiple new features](https://www.androidauthority.com/whatsapp-voice-messaging-new-features-3147292/)
- - [Sources blame Netflix&#39;s struggles in India on hiring executives who insist on micromanaging projects while lacking strong ties to the country&#39;s movie industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220331/p3#a220331p3)<!-- TECH:END -->
+ - [WhatsApp’s voice messages just got much better with multiple new features](https://www.androidauthority.com/whatsapp-voice-messaging-new-features-3147292/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
