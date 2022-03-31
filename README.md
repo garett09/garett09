@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its funny because its true](http://9gag.com/gag/axBbNy2)
- - 🚯 [Task failed successfully](http://9gag.com/gag/a51GNeV)
- - 🚯 [Benedict Cumberbatch doing impressions of his MCU Co-Stars](http://9gag.com/gag/apgPqRM)<!-- MEMES:END -->
+ - 🚖 [Task failed successfully](http://9gag.com/gag/a51GNeV)
+ - 🚯 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)
+ - 🚯 [Extended.](http://9gag.com/gag/aNPVo1v)<!-- MEMES:END -->
 
 --- 
 
