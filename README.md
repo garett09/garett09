@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They doing the best of their time together](http://9gag.com/gag/aAG4R12)
- - 🚯 [Yes I do have a wife...and it&#39;s not my right hand.](http://9gag.com/gag/aE8ovKM)
+ - 🚖 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)
+ - 🚯 [Computer repair shop owner and YouTuber Louis Rossmann manages to fix a MacBook Pro after Apple was going to charge $1,200 for the repair](http://9gag.com/gag/a81DdyV)
  - 🚯 [World war clown](http://9gag.com/gag/aNPVrpw)<!-- MEMES:END -->
 
 --- 
