@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with pseudonymous Ukrainian IT specialist Danylo, who released chat logs from the Russia-linked Conti ransomware gang, on his motivations and more &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220331/p23#a220331p23)
- - [Apple named a titan in Time&#39;s 2022 list of most influential companies](https://appleinsider.com/articles/22/03/31/apple-named-a-titan-in-times-2022-list-of-most-influential-companies?utm_medium=rss)
- - [How to backup your Mac](https://appleinsider.com/inside/mac/tips/how-to-backup-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft rebrands its Android Your Phone companion app to Phone Link](https://www.theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update)
+ - [Amazon is prepping another round of PlayStation 5 consoles today for Prime members](https://www.theverge.com/2022/3/31/22883760/sony-playstation-5-ps5-microsoft-xbox-series-x-amazon-prime-console-restock-availability-price-check)
+ - [Daily deals March 31: $200 off 14-inch 1TB M1 Pro MacBook Pro, $600 off Motorola Razr 5G 256GB, $55 off Netgear AC2000 Router, more](https://appleinsider.com/articles/22/03/31/daily-deals-march-31-200-off-14-inch-1tb-m1-pro-macbook-pro-600-off-motorola-razr-5g-256gb-55-off-netgear-ac2000-router-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
