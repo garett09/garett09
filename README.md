@@ -180,7 +180,7 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [State of Decay 3 sounds like a real mess](https://www.polygon.com/23005362/state-of-decay-3-delayed-canceled-release-date-undead-labs-microsoft)
- - [Less is More. Balancing Narrative and Action in Frightence](https://news.xbox.com/en-us/2022/03/31/balancing-narrative-and-action-in-frightence/)
+ - [Less is More: Balancing Narrative and Action in Frightence](https://news.xbox.com/en-us/2022/03/31/balancing-narrative-and-action-in-frightence/)
  - [Twitch halts paid channel boosts after people pay to get porn on the front page](https://www.pcgamer.com/twitch-halts-paid-channel-boosts-after-people-pay-to-get-porn-on-the-front-page)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
