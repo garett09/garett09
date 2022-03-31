@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Immortal X-Men #1 is 40 pages of outrageous mutant drama](https://www.polygon.com/23003696/immortal-x-men-1-comic-marvel-kieron-gillen-mister-sinister)
- - [Diablo meets The Boys in the new action RPG Superfuse](https://www.polygon.com/23003721/superfuse-trailer-action-rpg-diablo-boys-early-access)
- - [Best DDR4 RAM for gaming in 2022](https://www.pcgamer.com/best-ddr4-ram)<!-- GAME:END -->
+ - [Marvel&#39;s Avengers Has An Avengers-Level &#39;Workaround&#39; For A PS5 Crash](https://kotaku.com/marvels-avengers-ps5-playstation-5-crash-workaround-cam-1848729696)
+ - [Morbius post-credits scenes reveal a larger Spider-Man universe](https://www.polygon.com/23003713/morbius-post-credits-scenes-mcu-sinister-six-vulture)
+ - [This cool hybrid of 4X, RPG and card game is free in GOG&#39;s latest giveaway](https://www.pcgamer.com/this-cool-hybrid-of-4x-rpg-and-card-game-is-free-in-gogs-latest-giveaway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
