@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VivoSense, which develops wearable biometric sensors to collect and organize data from patients for clinical drug trials, raises a $25M Series A &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220330/p54#a220330p54)
  - [Wing Security, which helps companies discover, monitor, and remediate potential security issues with SaaS tools used by their employees, raises a $20M Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p53#a220330p53)
- - [Athennian, whose cloud-based legal tech software helps law firms and legal departments automate subsidiary and entity management, raises a CAD$41.5M Series B &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/220330/p52#a220330p52)
- - [Israel-based Beewise, which develops AI-powered robotic beehives that can monitor and care for bees and harvest the honey, raises an $80M Series C &lpar;Ricky Ben-David/The Times of Israel&rpar;](http://www.techmeme.com/220330/p51#a220330p51)<!-- TECH:END -->
+ - [Athennian, whose cloud-based legal tech software helps law firms and legal departments automate subsidiary and entity management, raises a CAD$41.5M Series B &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/220330/p52#a220330p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
