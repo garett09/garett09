@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After announcing in January that it canceled the in-person E3 2022, ESA is informing partners that there will also be no digital event &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/220331/p36#a220331p36)
- - [Microsoft: Xbox Minecraft ray tracing preview was a mistake](https://www.theverge.com/2022/3/31/23005173/microsoft-xbox-minecraft-ray-tracing-preview-removal-mistake)
- - [Apple releases iOS 15.4.1, iPadOS 15.4.1, and macOS 12.3.1 to fix two zero-days that &quot;may have been actively exploited&quot;; Apple fixed five zero-days this year &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220331/p35#a220331p35)<!-- TECH:END -->
+ - [Uber’s annual product event will focus on travel, sustainability](https://www.theverge.com/2022/3/31/23005307/uber-go-get-2022-product-event-date)
+ - [Sources: WH is split over Kaspersky Lab sanctions, as they could provoke a Russian cyberattack and the company&#39;s large customer base would make enforcement hard &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220331/p37#a220331p37)
+ - [Apple fixes iOS battery drain bug with 15.4.1 update](https://www.theverge.com/2022/3/31/23005192/apple-iphone-ios-ipad-battery-drain-bug-15-4-1-update-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
