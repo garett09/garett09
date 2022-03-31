@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Turn the other cheek](http://9gag.com/gag/aPZ846w)
- - 🚯 [The legend](http://9gag.com/gag/a71V5Pw)
- - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)<!-- MEMES:END -->
+ - 🚖 [The legend](http://9gag.com/gag/a71V5Pw)
+ - 🚯 [Turn the other cheek](http://9gag.com/gag/aPZ846w)
+ - 🚯 [`Ferrari pit crews are shit!` Ferrari: `Hold my pizzas`](http://9gag.com/gag/aBnPQwP)<!-- MEMES:END -->
 
 --- 
 
