@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Turn the other cheek](http://9gag.com/gag/aPZ846w)
- - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)
- - 🚯 [Extended.](http://9gag.com/gag/aNPVo1v)<!-- MEMES:END -->
+ - 🚯 [The legend](http://9gag.com/gag/a71V5Pw)
+ - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)<!-- MEMES:END -->
 
 --- 
 
