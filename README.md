@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #285: Thursday, March 31](https://www.pcgamer.com/wordle-march-31-285)
  - [Happy 100th version update, Google Chrome](https://www.pcgamer.com/happy-100th-version-update-google-chrome)
- - [SK Hynix considering consortium to buy Arm](https://www.pcgamer.com/sk-hynix-considering-consortium-to-buy-arm)
- - [Windows 11 update to fix DirectX blue screen of death, hopefully](https://www.pcgamer.com/windows-11-update-to-fix-directx-blue-screen-of-death-hopefully)<!-- GAME:END -->
+ - [SK Hynix considering consortium to buy Arm](https://www.pcgamer.com/sk-hynix-considering-consortium-to-buy-arm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
