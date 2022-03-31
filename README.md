@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #285: Thursday, March 31](https://www.pcgamer.com/wordle-march-31-285)
- - [Happy 100th version update, Google Chrome](https://www.pcgamer.com/happy-100th-version-update-google-chrome)
- - [SK Hynix considering consortium to buy Arm](https://www.pcgamer.com/sk-hynix-considering-consortium-to-buy-arm)<!-- GAME:END -->
+ - [Over Half Of Netflix Subscribers Watched Anime In 2021](https://kotaku.com/netflix-anime-global-subscribers-viewing-most-watched-2-1848730862)
+ - [Hipfiring in first person shooters will never stop feeling awesome](https://www.pcgamer.com/hipfiring-in-first-person-shooters-will-never-stop-feeling-awesome)
+ - [Today&#39;s Wordle answer #285: Thursday, March 31](https://www.pcgamer.com/wordle-march-31-285)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
