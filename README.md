@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [I feel weird, and excited and weird](http://9gag.com/gag/aDDZ3xG)
- - 🚯 [Landscaping an overgrown yard](http://9gag.com/gag/aegV0Pq)
- - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)<!-- MEMES:END -->
+ - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)
+ - 🚯 [Let it go](http://9gag.com/gag/apgPorW)<!-- MEMES:END -->
 
 --- 
 
