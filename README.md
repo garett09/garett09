@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World war clown](http://9gag.com/gag/aNPVrpw)
- - 🚯 [Bruce Willis steps away from acting after being diagnosed with Aphasia. This is unbelievably heartbreaking](http://9gag.com/gag/arnXP4y)
- - 🚯 [Sick moves.](http://9gag.com/gag/adgnyB2)<!-- MEMES:END -->
+ - 🚖 [They doing the best of their time together](http://9gag.com/gag/aAG4R12)
+ - 🚯 [Yes I do have a wife...and it&#39;s not my right hand.](http://9gag.com/gag/aE8ovKM)
+ - 🚯 [World war clown](http://9gag.com/gag/aNPVrpw)<!-- MEMES:END -->
 
 --- 
 
