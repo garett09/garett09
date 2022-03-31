@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)
- - 🚯 [Thought it was a joke but can confirm Germany declared war on Italy](http://9gag.com/gag/a810rWV)
- - 🚯 [High School runner sucker punched mid-race](http://9gag.com/gag/aNPVm40)<!-- MEMES:END -->
+ - 🚖 [Just don&#39;t be poor](http://9gag.com/gag/aPZ86qg)
+ - 🚯 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)
+ - 🚯 [Sick moves.](http://9gag.com/gag/adgnyB2)<!-- MEMES:END -->
 
 --- 
 
