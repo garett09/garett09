@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just don&#39;t be poor](http://9gag.com/gag/aPZ86qg)
- - 🚯 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)
- - 🚯 [Sick moves.](http://9gag.com/gag/adgnyB2)<!-- MEMES:END -->
+ - 🚖 [The Size of this root we pulled out of a drain at work!](http://9gag.com/gag/aDDZRBN)
+ - 🚯 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)
+ - 🚯 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)<!-- MEMES:END -->
 
 --- 
 
