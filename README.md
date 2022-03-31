@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa can now notify you about deals up to a day in advance](https://www.theverge.com/2022/3/31/23005049/amazon-alexa-upcoming-deal-recommendations-feature)
- - [Morbius is one long quick time event about battling bad habits](https://www.theverge.com/23003719/morbius-review-jared-leto)
- - [Dell’s Dual Charge Dock puts a Qi phone charger on a laptop dock for $368.99](https://www.theverge.com/2022/3/31/23004860/dell-dual-charge-laptop-dock-qi-wireless-charging-two-monitors)<!-- TECH:END -->
+ - [After announcing in January that it canceled the in-person E3 2022, ESA is informing partners that there will also be no digital event &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/220331/p36#a220331p36)
+ - [Microsoft: Xbox Minecraft ray tracing preview was a mistake](https://www.theverge.com/2022/3/31/23005173/microsoft-xbox-minecraft-ray-tracing-preview-removal-mistake)
+ - [Apple releases iOS 15.4.1, iPadOS 15.4.1, and macOS 12.3.1 to fix two zero-days that &quot;may have been actively exploited&quot;; Apple fixed five zero-days this year &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220331/p35#a220331p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
