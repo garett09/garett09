@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Union Election Stalls As Ballots Are Challenged](https://www.wired.com/story/amazon-union-elections-bessemer)
- - [New York-based Black Crow AI, which delivers predictive analytics to e-commerce retailers, raises a $25M Series A led by Imaginary Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220331/p38#a220331p38)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
+ - [To avoid erroneously flagging CSAM, Meta&#39;s training docs tell content moderators to &quot;err on the side of an adult&quot; when judging people&#39;s age in photos or videos &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/220331/p40#a220331p40)
+ - [The Amazon Bessemer union election is going into overtime](https://www.theverge.com/2022/3/31/23004479/amazon-workers-vote-results-union-bessemer-warehouse-challenged-ballots-results)
+ - [Researchers: an allegedly Russia-tied wiper malware, AcidRain, which shares similarities with the malware VPNFilter, was behind the attack on Viasat in February &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220331/p39#a220331p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
