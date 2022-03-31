@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [State of Decay 3 sounds like a real mess](https://www.polygon.com/23005362/state-of-decay-3-delayed-canceled-release-date-undead-labs-microsoft)
  - [Less is More. Balancing Narrative and Action in Frightence](https://news.xbox.com/en-us/2022/03/31/balancing-narrative-and-action-in-frightence/)
- - [Twitch halts paid channel boosts after people pay to get porn on the front page](https://www.pcgamer.com/twitch-halts-paid-channel-boosts-after-people-pay-to-get-porn-on-the-front-page)
- - [This 5TB external HDD for $100 will store more games than you&#39;ll ever play](https://www.pcgamer.com/this-5tb-external-hdd-for-dollar100-will-store-more-games-than-youll-ever-play)<!-- GAME:END -->
+ - [Twitch halts paid channel boosts after people pay to get porn on the front page](https://www.pcgamer.com/twitch-halts-paid-channel-boosts-after-people-pay-to-get-porn-on-the-front-page)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
