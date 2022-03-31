@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Size of this root we pulled out of a drain at work!](http://9gag.com/gag/aDDZRBN)
- - 🚯 [I genuinely have no idea why they hired me](http://9gag.com/gag/aDD8Bj7)
- - 🚯 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)<!-- MEMES:END -->
+ - 🚖 [World war clown](http://9gag.com/gag/aNPVrpw)
+ - 🚯 [Bruce Willis steps away from acting after being diagnosed with Aphasia. This is unbelievably heartbreaking](http://9gag.com/gag/arnXP4y)
+ - 🚯 [Sick moves.](http://9gag.com/gag/adgnyB2)<!-- MEMES:END -->
 
 --- 
 
