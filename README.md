@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That scream tho](http://9gag.com/gag/aAG4pLp)
- - 🚯 [All France is crying, watching this video](http://9gag.com/gag/axBbGBY)
- - 🚯 [Tell us a fun fact about a special interest of yours.](http://9gag.com/gag/a415L8Q)<!-- MEMES:END -->
+ - 🚖 [All? All](http://9gag.com/gag/a9187Om)
+ - 🚯 [Tell us a fun fact about a special interest of yours.](http://9gag.com/gag/a415L8Q)
+ - 🚯 [Absolute legend!](http://9gag.com/gag/a71V70r)<!-- MEMES:END -->
 
 --- 
 
