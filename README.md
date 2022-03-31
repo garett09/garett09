@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK May Issue: Shell Yeah!](https://www.pcgamer.com/pc-gamer-uk-may-issue-shell-yeah)
- - [Elden Ring mod for Tekken 7 brings Melina, the Warrior Jar, Torrent, and more to the fighting game](https://www.polygon.com/23004471/elden-ring-mod-tekken-7-pc-download-ultraboy)
- - [Vampire Survivors didn&#39;t rip-off Castlevania sprites after all](https://www.pcgamer.com/vampire-survivors-didnt-rip-off-castlevania-sprites-after-all)<!-- GAME:END -->
+ - [Free Play Days – Epic Chef](https://news.xbox.com/en-us/2022/03/31/free-play-days-epic-chef/)
+ - [Pokémon Go Fest returns this summer with in-person and virtual events](https://www.polygon.com/23000326/pokemon-go-fest-2022-dates-cities-tickets)
+ - [Elden Ring mod for Tekken 7 brings Melina, the Warrior Jar, Torrent, and more to the fighting game](https://www.polygon.com/23004471/elden-ring-mod-tekken-7-pc-download-ultraboy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
