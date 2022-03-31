@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might want to stop using your Wyze security camera right about now!](https://www.androidauthority.com/wyze-camera-hacked-3147318/)
- - [Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
- - [What’s new on Peacock in April: Killing It, Wrestlemania, and more](https://www.androidauthority.com/new-on-peacock-2306327/)<!-- TECH:END -->
+ - [Apple considering adding new flash memory suppliers to protect iPhone supply](https://appleinsider.com/articles/22/03/31/apple-considering-adding-new-flash-memory-suppliers-to-protect-iphone-supply?utm_medium=rss)
+ - [Intel CEO Pat Gelsinger earned $178.6M in 2021, far above Intel&#39;s initial $110M estimate; Intel stock is down 15% since his appointment, lagging the industry &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220331/p10#a220331p10)
+ - [Daily Authority: 👉 Intel Arc GPUs are go](https://www.androidauthority.com/da-march-31-2022-3147386/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
