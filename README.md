@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research shows TikTok tic videos contribute to a rise in cases of girls with tics; US ER room visits among teen girls with tics has tripled during the pandemic &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/220331/p1#a220331p1)
  - [VivoSense, which develops wearable biometric sensors to collect and organize data from patients for clinical drug trials, raises a $25M Series A &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220330/p54#a220330p54)
- - [Wing Security, which helps companies discover, monitor, and remediate potential security issues with SaaS tools used by their employees, raises a $20M Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p53#a220330p53)
- - [Athennian, whose cloud-based legal tech software helps law firms and legal departments automate subsidiary and entity management, raises a CAD$41.5M Series B &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/220330/p52#a220330p52)<!-- TECH:END -->
+ - [Wing Security, which helps companies discover, monitor, and remediate potential security issues with SaaS tools used by their employees, raises a $20M Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p53#a220330p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
