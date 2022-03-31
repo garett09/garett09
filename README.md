@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Benedict Cumberbatch doing impressions of his MCU Co-Stars](http://9gag.com/gag/apgPqRM)
- - 🚯 [Not like what I thought, seriously](http://9gag.com/gag/amgmN4y)
- - 🚯 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)<!-- MEMES:END -->
+ - 🚖 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)
+ - 🚯 [This group named Between Music produces music underwater. The sounds are bone chilling and honestly alien like](http://9gag.com/gag/aqGQ9dv)
+ - 🚯 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)<!-- MEMES:END -->
 
 --- 
 
