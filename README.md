@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Old Nintendo Headquarters Hotel Looks Stunning Inside](https://kotaku.com/nintendo-hotel-kyoto-stay-mario-famicom-nes-yamauchi-ja-1848730969)
- - [Portal is more sinister than you remember](https://www.pcgamer.com/portal-is-more-sinister-than-you-remember)
- - [How Black Isle became a legend](https://www.pcgamer.com/how-black-isle-became-a-legend)<!-- GAME:END -->
+ - [Moon Knight’s origin story, from Marvel’s ‘crazy person’ to comics’ most relatable hero](https://www.polygon.com/23000498/moon-knight-marvel-comics-origin-powers-personalities)
+ - [Paralysed former firefighter beats Elden Ring by blowing into tubes](https://www.pcgamer.com/paralysed-former-firefighter-beats-elden-ring-by-blowing-into-tubes)
+ - [I hope Dell brings this speedy multi-networking tech to gaming laptops](https://www.pcgamer.com/i-hope-dell-brings-this-speedy-multi-networking-tech-to-gaming-laptops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
