@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IoT manufacturer Ubiquiti sues cybersecurity journalist Brian Krebs, claiming he falsely accused the company of covering up a cyberattack &lpar;Steve Zurier/SC Media&rpar;](http://www.techmeme.com/220330/p49#a220330p49)
- - [Blockchain.com says it has raised new funding at a $14B valuation led by Lightspeed, more than doubling its last valuation in March 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220330/p48#a220330p48)
- - [The best family movies on Disney Plus in 2022](https://www.androidauthority.com/best-family-movies-on-disney-plus-3144743/)<!-- TECH:END -->
+ - [Israel-based Beewise, which develops AI-powered robotic beehives that can monitor and care for bees and harvest the honey, raises an $80M Series C &lpar;Ricky Ben-David/The Times of Israel&rpar;](http://www.techmeme.com/220330/p51#a220330p51)
+ - [How to manage notifications and sounds on Discord](https://www.androidauthority.com/disable-discord-notifications-3147128/)
+ - [Collectors, which is building AI tools to authenticate and grade sports cards, raised $100M at a $4.3B valuation, after being acquired for ~$850M in Feb. 2021 &lpar;Brett Knight/Forbes&rpar;](http://www.techmeme.com/220330/p50#a220330p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
