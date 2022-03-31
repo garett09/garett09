@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google begins trialing its updated Privacy Sandbox tools globally, including Topics and FLEDGE APIs, starting with developers, followed by Chrome Beta users &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220331/p20#a220331p20)
- - [What’s new on Paramount Plus in April: The Offer, iCarly, and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
- - [India-based Wiz Freight, a service for booking and managing cross-border shipments, raises a $36M Series A in equity and debt led by Tiger Global &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220331/p19#a220331p19)<!-- TECH:END -->
+ - [Interview with pseudonymous Ukrainian IT specialist Danylo, who released chat logs from the Russia-linked Conti ransomware gang, on his motivations and more &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220331/p23#a220331p23)
+ - [Apple named a titan in Time&#39;s 2022 list of most influential companies](https://appleinsider.com/articles/22/03/31/apple-named-a-titan-in-times-2022-list-of-most-influential-companies?utm_medium=rss)
+ - [How to backup your Mac](https://appleinsider.com/inside/mac/tips/how-to-backup-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
