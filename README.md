@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)
- - 🚯 [This group named Between Music produces music underwater. The sounds are bone chilling and honestly alien like](http://9gag.com/gag/aqGQ9dv)
+ - 🚖 [Kaa mee haa mee huuuu](http://9gag.com/gag/arnZpxd)
+ - 🚯 [Faccs](http://9gag.com/gag/aBnPROQ)
  - 🚯 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)<!-- MEMES:END -->
 
 --- 
