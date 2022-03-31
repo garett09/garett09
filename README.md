@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps now supports real-time road alerts from emergency vehicles](https://appleinsider.com/articles/22/03/31/apple-maps-now-supports-real-time-road-alerts-from-emergency-vehicles?utm_medium=rss)
- - [macOS Monterey 12.3.1 now available with Bluetooth &amp; external display fixes](https://appleinsider.com/articles/22/03/31/macos-monterey-1231-now-available-with-bluetooth-external-display-fixes?utm_medium=rss)
- - [Apple releases iOS 15.4.1, iPadOS 15.4.1, tvOS 15.4.1, watchOS 8.5.1 with bug fixes and Business Essentials](https://appleinsider.com/articles/22/03/31/apple-releases-ios-1541-ipados-1541-tvos-1541-with-bug-fixes-and-business-essentials?utm_medium=rss)<!-- TECH:END -->
+ - [Alexa can now notify you about deals up to a day in advance](https://www.theverge.com/2022/3/31/23005049/amazon-alexa-upcoming-deal-recommendations-feature)
+ - [Morbius is one long quick time event about battling bad habits](https://www.theverge.com/23003719/morbius-review-jared-leto)
+ - [Dell’s Dual Charge Dock puts a Qi phone charger on a laptop dock for $368.99](https://www.theverge.com/2022/3/31/23004860/dell-dual-charge-laptop-dock-qi-wireless-charging-two-monitors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
