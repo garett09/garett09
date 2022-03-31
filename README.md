@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple considering adding new flash memory suppliers to protect iPhone supply](https://appleinsider.com/articles/22/03/31/apple-considering-adding-new-flash-memory-suppliers-to-protect-iphone-supply?utm_medium=rss)
- - [Intel CEO Pat Gelsinger earned $178.6M in 2021, far above Intel&#39;s initial $110M estimate; Intel stock is down 15% since his appointment, lagging the industry &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220331/p10#a220331p10)
- - [Daily Authority: 👉 Intel Arc GPUs are go](https://www.androidauthority.com/da-march-31-2022-3147386/)<!-- TECH:END -->
+ - [Anycubic Kobra Max 3D Printer Review: Make 3D Printing Fun Again     - CNET](https://www.cnet.com/tech/computing/anycubic-kobra-max-3d-printer-review-make-3d-printing-fun-again/#ftag=CAD590a51e)
+ - [7 Browser Extensions to Help Translate Different Languages](https://www.wired.com/story/browser-extensions-for-language-learning)
+ - [The Last Cell Tower in Mariupol](https://www.wired.com/story/mariupol-ukraine-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
