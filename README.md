@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft rebrands its Android Your Phone companion app to Phone Link](https://www.theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update)
- - [Amazon is prepping another round of PlayStation 5 consoles today for Prime members](https://www.theverge.com/2022/3/31/22883760/sony-playstation-5-ps5-microsoft-xbox-series-x-amazon-prime-console-restock-availability-price-check)
- - [Daily deals March 31: $200 off 14-inch 1TB M1 Pro MacBook Pro, $600 off Motorola Razr 5G 256GB, $55 off Netgear AC2000 Router, more](https://appleinsider.com/articles/22/03/31/daily-deals-march-31-200-off-14-inch-1tb-m1-pro-macbook-pro-600-off-motorola-razr-5g-256gb-55-off-netgear-ac2000-router-more?utm_medium=rss)<!-- TECH:END -->
+ - [Hadrian Automation, which is building largely automated factories to produce space and defense parts, raises $90M led by Lux Capital and Andreessen Horowitz &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220331/p28#a220331p28)
+ - [Samsung is working on a Galaxy self-repair program with iFixit](https://www.theverge.com/2022/3/31/23004309/samsung-self-repair-service-program-ifixit-right-to-repair-galaxy)
+ - [Samsung and iFixit will help you self-repair your phone with genuine parts](https://www.androidauthority.com/samsung-self-repair-3147112/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
