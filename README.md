@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Over Half Of Netflix Subscribers Watched Anime In 2021](https://kotaku.com/netflix-anime-global-subscribers-viewing-most-watched-2-1848730862)
- - [Hipfiring in first person shooters will never stop feeling awesome](https://www.pcgamer.com/hipfiring-in-first-person-shooters-will-never-stop-feeling-awesome)
- - [Today&#39;s Wordle answer #285: Thursday, March 31](https://www.pcgamer.com/wordle-march-31-285)<!-- GAME:END -->
+ - [The Old Nintendo Headquarters Hotel Looks Stunning Inside](https://kotaku.com/nintendo-hotel-kyoto-stay-mario-famicom-nes-yamauchi-ja-1848730969)
+ - [Portal is more sinister than you remember](https://www.pcgamer.com/portal-is-more-sinister-than-you-remember)
+ - [How Black Isle became a legend](https://www.pcgamer.com/how-black-isle-became-a-legend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
