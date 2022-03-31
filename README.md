@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Task failed successfully](http://9gag.com/gag/a51GNeV)
- - 🚯 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)
+ - 🚖 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)
+ - 🚯 [Task failed successfully](http://9gag.com/gag/a51GNeV)
  - 🚯 [Extended.](http://9gag.com/gag/aNPVo1v)<!-- MEMES:END -->
 
 --- 
