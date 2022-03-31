@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to the Divine Tower of Liurnia in Elden Ring](https://www.pcgamer.com/elden-ring-liurnia-divine-tower)
- - [Weird West Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/31/weird-west-available-today-with-xbox-game-pass/)
- - [Princess Farmer Launches Today on the Xbox Store](https://news.xbox.com/en-us/2022/03/31/princess-farmer-launches-today-on-the-xbox-store/)<!-- GAME:END -->
+ - [Xbox Game Pass is getting a family plan, reports say](https://www.polygon.com/23004993/xbox-game-pass-family-plan-report)
+ - [Hyper Light Drifter creators reveal a 3D co-op sequel, Hyper Light Breaker](https://www.polygon.com/23003970/hyper-light-drifter-sequel-breaker-release-date-early-access)
+ - [Child of Light’s Aurora Joins Bloodstained: Ritual of the Night](https://news.xbox.com/en-us/2022/03/31/child-of-lights-aurora-joins-bloodstained-ritual-of-the-night/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
