@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve says it is working to resolve issues as Steam game developers in Ukraine, Russia, and Belarus are unable to receive payments due to new regulations &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/220331/p4#a220331p4)
- - [World Backup Day deals: save up to $440 on portable SSDs, internal and external drives, memory cards at B&amp;H Photo](https://appleinsider.com/articles/22/03/29/world-backup-day-deals-save-up-to-440-on-portable-ssds-internal-and-external-drives-memory-cards-at-bh-photo?utm_medium=rss)
- - [WhatsApp’s voice messages just got much better with multiple new features](https://www.androidauthority.com/whatsapp-voice-messaging-new-features-3147292/)<!-- TECH:END -->
+ - [You might want to stop using your Wyze security camera right about now!](https://www.androidauthority.com/wyze-camera-hacked-3147318/)
+ - [Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
+ - [What’s new on Peacock in April: Killing It, Wrestlemania, and more](https://www.androidauthority.com/new-on-peacock-2306327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
