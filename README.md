@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research shows TikTok tic videos contribute to a rise in cases of girls with tics; US ER room visits among teen girls with tics has tripled during the pandemic &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/220331/p1#a220331p1)
- - [VivoSense, which develops wearable biometric sensors to collect and organize data from patients for clinical drug trials, raises a $25M Series A &lpar;Keerthi Vedantam/dot.LA&rpar;](http://www.techmeme.com/220330/p54#a220330p54)
- - [Wing Security, which helps companies discover, monitor, and remediate potential security issues with SaaS tools used by their employees, raises a $20M Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p53#a220330p53)<!-- TECH:END -->
+ - [Sources blame Netflix&#39;s struggles in India on hiring executives who insist on micromanaging projects while lacking strong ties to the country&#39;s movie industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220331/p3#a220331p3)
+ - [A look at geofencing trials in Sweden to regulate commercial and public transport traffic within a zone, determine whether those vehicles belong there, and more &lpar;Tanya Mohn/New York Times&rpar;](http://www.techmeme.com/220331/p2#a220331p2)
+ - [Research shows TikTok tic videos contribute to a rise in cases of girls with tics; US ER room visits among teen girls with tics has tripled during the pandemic &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/220331/p1#a220331p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
