@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The Size of this root we pulled out of a drain at work!](http://9gag.com/gag/aDDZRBN)
- - 🚯 [Don\u2019t know why I\u2019m doing this. It seems right\u2026 &lpar;I\u2019m from Bosnia&rpar;](http://9gag.com/gag/amgmqry)
+ - 🚯 [I genuinely have no idea why they hired me](http://9gag.com/gag/aDD8Bj7)
  - 🚯 [I&#39;m 38, I feel like this, it&#39;s a big world full of assholes](http://9gag.com/gag/aAG4BKg)<!-- MEMES:END -->
 
 --- 
