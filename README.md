@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Horror Game That Commits So Hard To Consequences, It&#39;s A Knockout](https://kotaku.com/weird-west-wolfeye-studio-arkane-dishonored-western-1848732026)
- - [Upgrading is Now in Session with Xbox All Access](https://news.xbox.com/en-us/2022/03/31/upgrading-is-now-in-session-with-xbox-all-access/)
- - [Obi-Wan Kenobi TV series delayed slightly, but will premiere first 2 episodes together](https://www.polygon.com/star-wars/23004691/obi-wan-tv-series-delayed-release-date-disney-plus)<!-- GAME:END -->
+ - [How to get to the Divine Tower of Liurnia in Elden Ring](https://www.pcgamer.com/elden-ring-liurnia-divine-tower)
+ - [Weird West Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2022/03/31/weird-west-available-today-with-xbox-game-pass/)
+ - [Princess Farmer Launches Today on the Xbox Store](https://news.xbox.com/en-us/2022/03/31/princess-farmer-launches-today-on-the-xbox-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
