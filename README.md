@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)
- - 🚯 [Computer repair shop owner and YouTuber Louis Rossmann manages to fix a MacBook Pro after Apple was going to charge $1,200 for the repair](http://9gag.com/gag/a81DdyV)
- - 🚯 [World war clown](http://9gag.com/gag/aNPVrpw)<!-- MEMES:END -->
+ - 🚖 [World war clown](http://9gag.com/gag/aNPVrpw)
+ - 🚯 [Its funny because its true](http://9gag.com/gag/axBbNy2)
+ - 🚯 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)<!-- MEMES:END -->
 
 --- 
 
