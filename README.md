@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Avengers Has An Avengers-Level &#39;Workaround&#39; For A PS5 Crash](https://kotaku.com/marvels-avengers-ps5-playstation-5-crash-workaround-cam-1848729696)
- - [Morbius post-credits scenes reveal a larger Spider-Man universe](https://www.polygon.com/23003713/morbius-post-credits-scenes-mcu-sinister-six-vulture)
- - [This cool hybrid of 4X, RPG and card game is free in GOG&#39;s latest giveaway](https://www.pcgamer.com/this-cool-hybrid-of-4x-rpg-and-card-game-is-free-in-gogs-latest-giveaway)<!-- GAME:END -->
+ - [SK Hynix considering consortium to buy Arm](https://www.pcgamer.com/sk-hynix-considering-consortium-to-buy-arm)
+ - [Windows 11 update to fix DirectX blue screen of death, hopefully](https://www.pcgamer.com/windows-11-update-to-fix-directx-blue-screen-of-death-hopefully)
+ - [When does the Steam Deck release in Australia?](https://www.pcgamer.com/when-does-the-steam-deck-release-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
