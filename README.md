@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Happy 100th version update, Google Chrome](https://www.pcgamer.com/happy-100th-version-update-google-chrome)
  - [SK Hynix considering consortium to buy Arm](https://www.pcgamer.com/sk-hynix-considering-consortium-to-buy-arm)
- - [Windows 11 update to fix DirectX blue screen of death, hopefully](https://www.pcgamer.com/windows-11-update-to-fix-directx-blue-screen-of-death-hopefully)
- - [When does the Steam Deck release in Australia?](https://www.pcgamer.com/when-does-the-steam-deck-release-in-australia)<!-- GAME:END -->
+ - [Windows 11 update to fix DirectX blue screen of death, hopefully](https://www.pcgamer.com/windows-11-update-to-fix-directx-blue-screen-of-death-hopefully)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
