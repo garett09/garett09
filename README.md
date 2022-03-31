@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Describe her in 1 word.](http://9gag.com/gag/aXr4X6v)
- - 🚯 [And the Darwin Award goes to:](http://9gag.com/gag/aWgv0q6)
- - 🚯 [Happy women\u2019s month](http://9gag.com/gag/aVxmQKO)<!-- MEMES:END -->
+ - 🚖 [Happy women\u2019s month](http://9gag.com/gag/aVxmQKO)
+ - 🚯 [Landscaping an overgrown yard](http://9gag.com/gag/aegV0Pq)
+ - 🚯 [All France is crying, watching this video](http://9gag.com/gag/axBbGBY)<!-- MEMES:END -->
 
 --- 
 
