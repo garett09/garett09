@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World war clown](http://9gag.com/gag/aNPVrpw)
- - 🚯 [Its funny because its true](http://9gag.com/gag/axBbNy2)
+ - 🚖 [Benedict Cumberbatch doing impressions of his MCU Co-Stars](http://9gag.com/gag/apgPqRM)
+ - 🚯 [Not like what I thought, seriously](http://9gag.com/gag/amgmN4y)
  - 🚯 [99x Elixirs, cherished, treasured](http://9gag.com/gag/a21yNYD)<!-- MEMES:END -->
 
 --- 
