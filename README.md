@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass is getting a family plan, reports say](https://www.polygon.com/23004993/xbox-game-pass-family-plan-report)
- - [Hyper Light Drifter creators reveal a 3D co-op sequel, Hyper Light Breaker](https://www.polygon.com/23003970/hyper-light-drifter-sequel-breaker-release-date-early-access)
- - [Child of Light’s Aurora Joins Bloodstained: Ritual of the Night](https://news.xbox.com/en-us/2022/03/31/child-of-lights-aurora-joins-bloodstained-ritual-of-the-night/)<!-- GAME:END -->
+ - [Report: E3 2022 Canceled](https://kotaku.com/e3-2022-canceled-digital-physical-esa-video-games-expo-1848733770)
+ - [Ben Schwartz is an iPad helmet in our Sonic 2 interview sequel](https://www.polygon.com/23005094/sonic-2-sequel-ben-schwartz-interview)
+ - [Xbox Game Pass Members Can Play MLB The Show 22 Early with Early Access Bundle](https://news.xbox.com/en-us/2022/03/31/xbox-game-pass-members-can-play-mlb-the-show-22-early-with-early-access-bundle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
