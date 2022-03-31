@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why don&#39;t you lick my head ?](http://9gag.com/gag/aQXAqZz)
- - 🚯 [Task failed successfully](http://9gag.com/gag/a51GNeV)
+ - 🚖 [Turn the other cheek](http://9gag.com/gag/aPZ846w)
+ - 🚯 [How corrupt is your government?](http://9gag.com/gag/aDDZwrG)
  - 🚯 [Extended.](http://9gag.com/gag/aNPVo1v)<!-- MEMES:END -->
 
 --- 
