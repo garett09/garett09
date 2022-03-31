@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moon Knight’s origin story, from Marvel’s ‘crazy person’ to comics’ most relatable hero](https://www.polygon.com/23000498/moon-knight-marvel-comics-origin-powers-personalities)
- - [Paralysed former firefighter beats Elden Ring by blowing into tubes](https://www.pcgamer.com/paralysed-former-firefighter-beats-elden-ring-by-blowing-into-tubes)
- - [I hope Dell brings this speedy multi-networking tech to gaming laptops](https://www.pcgamer.com/i-hope-dell-brings-this-speedy-multi-networking-tech-to-gaming-laptops)<!-- GAME:END -->
+ - [PC Gamer UK May Issue: Shell Yeah!](https://www.pcgamer.com/pc-gamer-uk-may-issue-shell-yeah)
+ - [Elden Ring mod for Tekken 7 brings Melina, the Warrior Jar, Torrent, and more to the fighting game](https://www.polygon.com/23004471/elden-ring-mod-tekken-7-pc-download-ultraboy)
+ - [Vampire Survivors didn&#39;t rip-off Castlevania sprites after all](https://www.pcgamer.com/vampire-survivors-didnt-rip-off-castlevania-sprites-after-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
