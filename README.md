@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy women\u2019s month](http://9gag.com/gag/aVxmQKO)
- - 🚯 [Landscaping an overgrown yard](http://9gag.com/gag/aegV0Pq)
- - 🚯 [All France is crying, watching this video](http://9gag.com/gag/axBbGBY)<!-- MEMES:END -->
+ - 🚖 [That scream tho](http://9gag.com/gag/aAG4pLp)
+ - 🚯 [All France is crying, watching this video](http://9gag.com/gag/axBbGBY)
+ - 🚯 [Tell us a fun fact about a special interest of yours.](http://9gag.com/gag/a415L8Q)<!-- MEMES:END -->
 
 --- 
 
