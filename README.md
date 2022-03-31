@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: E3 2022 Canceled](https://kotaku.com/e3-2022-canceled-digital-physical-esa-video-games-expo-1848733770)
- - [Ben Schwartz is an iPad helmet in our Sonic 2 interview sequel](https://www.polygon.com/23005094/sonic-2-sequel-ben-schwartz-interview)
- - [Xbox Game Pass Members Can Play MLB The Show 22 Early with Early Access Bundle](https://news.xbox.com/en-us/2022/03/31/xbox-game-pass-members-can-play-mlb-the-show-22-early-with-early-access-bundle/)<!-- GAME:END -->
+ - [Elden Ring Characters Beat Each Other To A Pulp In Bonkers Tekken Mod](https://kotaku.com/elden-ring-tekken-mod-pc-bandai-melina-radahn-kazuya-he-1848734220)
+ - [Welcome to the Festival of Ages](https://news.xbox.com/en-us/2022/03/31/welcome-to-the-festival-of-ages/)
+ - [E3 2022 has been completely canceled, organizers confirm](https://www.polygon.com/23005160/e3-2022-canceled-digital-event-esa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
