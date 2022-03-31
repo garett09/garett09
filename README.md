@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hadrian Automation, which is building largely automated factories to produce space and defense parts, raises $90M led by Lux Capital and Andreessen Horowitz &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220331/p28#a220331p28)
- - [Samsung is working on a Galaxy self-repair program with iFixit](https://www.theverge.com/2022/3/31/23004309/samsung-self-repair-service-program-ifixit-right-to-repair-galaxy)
- - [Samsung and iFixit will help you self-repair your phone with genuine parts](https://www.androidauthority.com/samsung-self-repair-3147112/)<!-- TECH:END -->
+ - [Apple releases iOS 15.4.1, iPadOS 15.4.1, tvOS 15.4.1 with bug fixes and Business Essentials](https://appleinsider.com/articles/22/03/31/apple-releases-ios-1541-ipados-1541-tvos-1541-with-bug-fixes-and-business-essentials?utm_medium=rss)
+ - [NASA says Russia is still ‘moving toward’ extending the space station through 2030](https://www.theverge.com/2022/3/31/23004797/nasa-russia-roscosmos-international-space-station-partnership-2030)
+ - [Texas will require new large-scale cryptocurrency miners to seek permission to access its power grid, in anticipation of increasing demand from miners &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/220331/p31#a220331p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
