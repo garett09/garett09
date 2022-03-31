@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Beewise, which develops AI-powered robotic beehives that can monitor and care for bees and harvest the honey, raises an $80M Series C &lpar;Ricky Ben-David/The Times of Israel&rpar;](http://www.techmeme.com/220330/p51#a220330p51)
- - [How to manage notifications and sounds on Discord](https://www.androidauthority.com/disable-discord-notifications-3147128/)
- - [Collectors, which is building AI tools to authenticate and grade sports cards, raised $100M at a $4.3B valuation, after being acquired for ~$850M in Feb. 2021 &lpar;Brett Knight/Forbes&rpar;](http://www.techmeme.com/220330/p50#a220330p50)<!-- TECH:END -->
+ - [Wing Security, which helps companies discover, monitor, and remediate potential security issues with SaaS tools used by their employees, raises a $20M Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220330/p53#a220330p53)
+ - [Athennian, whose cloud-based legal tech software helps law firms and legal departments automate subsidiary and entity management, raises a CAD$41.5M Series B &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/220330/p52#a220330p52)
+ - [Israel-based Beewise, which develops AI-powered robotic beehives that can monitor and care for bees and harvest the honey, raises an $80M Series C &lpar;Ricky Ben-David/The Times of Israel&rpar;](http://www.techmeme.com/220330/p51#a220330p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
