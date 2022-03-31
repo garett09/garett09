@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ frustrates producers as team is &#39;stretched thin&#39;](https://appleinsider.com/articles/22/03/31/apple-tv-frustrates-producers-as-team-is-stretched-thin?utm_medium=rss)
- - [An analysis of Axie Infinity hack: Sky Maven taking six days to disclose it is irresponsible and people likely lost money needed to live, not just spare cash &lpar;Molly White&rpar;](http://www.techmeme.com/220331/p15#a220331p15)
- - [Ecobee SmartThermostat With Voice Control vs. Ecobee3 Lite Smart Thermostat     - CNET](https://www.cnet.com/home/energy-and-utilities/ecobee-smartthermostat-with-voice-control-vs-ecobee3-lite-smart-thermostat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google begins trialing its updated Privacy Sandbox tools globally, including Topics and FLEDGE APIs, starting with developers, followed by Chrome Beta users &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220331/p20#a220331p20)
+ - [What’s new on Paramount Plus in April: The Offer, iCarly, and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
+ - [India-based Wiz Freight, a service for booking and managing cross-border shipments, raises a $36M Series A in equity and debt led by Tiger Global &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220331/p19#a220331p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
