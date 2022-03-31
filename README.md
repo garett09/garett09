@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources blame Netflix&#39;s struggles in India on hiring executives who insist on micromanaging projects while lacking strong ties to the country&#39;s movie industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220331/p3#a220331p3)
- - [A look at geofencing trials in Sweden to regulate commercial and public transport traffic within a zone, determine whether those vehicles belong there, and more &lpar;Tanya Mohn/New York Times&rpar;](http://www.techmeme.com/220331/p2#a220331p2)
- - [Research shows TikTok tic videos contribute to a rise in cases of girls with tics; US ER room visits among teen girls with tics has tripled during the pandemic &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/220331/p1#a220331p1)<!-- TECH:END -->
+ - [World Backup Day deals: save up to $440 on portable SSDs, internal and external drives, memory cards at B&amp;H Photo](https://appleinsider.com/articles/22/03/29/world-backup-day-deals-save-up-to-440-on-portable-ssds-internal-and-external-drives-memory-cards-at-bh-photo?utm_medium=rss)
+ - [WhatsApp’s voice messages just got much better with multiple new features](https://www.androidauthority.com/whatsapp-voice-messaging-new-features-3147292/)
+ - [Sources blame Netflix&#39;s struggles in India on hiring executives who insist on micromanaging projects while lacking strong ties to the country&#39;s movie industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220331/p3#a220331p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
