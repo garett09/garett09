@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Epic Chef](https://news.xbox.com/en-us/2022/03/31/free-play-days-epic-chef/)
- - [Pokémon Go Fest returns this summer with in-person and virtual events](https://www.polygon.com/23000326/pokemon-go-fest-2022-dates-cities-tickets)
- - [Elden Ring mod for Tekken 7 brings Melina, the Warrior Jar, Torrent, and more to the fighting game](https://www.polygon.com/23004471/elden-ring-mod-tekken-7-pc-download-ultraboy)<!-- GAME:END -->
+ - [A Horror Game That Commits So Hard To Consequences, It&#39;s A Knockout](https://kotaku.com/weird-west-wolfeye-studio-arkane-dishonored-western-1848732026)
+ - [Upgrading is Now in Session with Xbox All Access](https://news.xbox.com/en-us/2022/03/31/upgrading-is-now-in-session-with-xbox-all-access/)
+ - [Obi-Wan Kenobi TV series delayed slightly, but will premiere first 2 episodes together](https://www.polygon.com/star-wars/23004691/obi-wan-tv-series-delayed-release-date-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
