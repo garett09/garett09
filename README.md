@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber’s annual product event will focus on travel, sustainability](https://www.theverge.com/2022/3/31/23005307/uber-go-get-2022-product-event-date)
- - [Sources: WH is split over Kaspersky Lab sanctions, as they could provoke a Russian cyberattack and the company&#39;s large customer base would make enforcement hard &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220331/p37#a220331p37)
- - [Apple fixes iOS battery drain bug with 15.4.1 update](https://www.theverge.com/2022/3/31/23005192/apple-iphone-ios-ipad-battery-drain-bug-15-4-1-update-security)<!-- TECH:END -->
+ - [Amazon Union Election Stalls As Ballots Are Challenged](https://www.wired.com/story/amazon-union-elections-bessemer)
+ - [New York-based Black Crow AI, which delivers predictive analytics to e-commerce retailers, raises a $25M Series A led by Imaginary Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220331/p38#a220331p38)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
