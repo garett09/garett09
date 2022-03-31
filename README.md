@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 15.4.1, iPadOS 15.4.1, tvOS 15.4.1 with bug fixes and Business Essentials](https://appleinsider.com/articles/22/03/31/apple-releases-ios-1541-ipados-1541-tvos-1541-with-bug-fixes-and-business-essentials?utm_medium=rss)
- - [NASA says Russia is still ‘moving toward’ extending the space station through 2030](https://www.theverge.com/2022/3/31/23004797/nasa-russia-roscosmos-international-space-station-partnership-2030)
- - [Texas will require new large-scale cryptocurrency miners to seek permission to access its power grid, in anticipation of increasing demand from miners &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/220331/p31#a220331p31)<!-- TECH:END -->
+ - [Apple Maps now supports real-time road alerts from emergency vehicles](https://appleinsider.com/articles/22/03/31/apple-maps-now-supports-real-time-road-alerts-from-emergency-vehicles?utm_medium=rss)
+ - [macOS Monterey 12.3.1 now available with Bluetooth &amp; external display fixes](https://appleinsider.com/articles/22/03/31/macos-monterey-1231-now-available-with-bluetooth-external-display-fixes?utm_medium=rss)
+ - [Apple releases iOS 15.4.1, iPadOS 15.4.1, tvOS 15.4.1, watchOS 8.5.1 with bug fixes and Business Essentials](https://appleinsider.com/articles/22/03/31/apple-releases-ios-1541-ipados-1541-tvos-1541-with-bug-fixes-and-business-essentials?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
