@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV rolling out picture-in-picture support to iPhone and iPad](https://appleinsider.com/articles/22/03/30/youtube-tv-rolling-out-picture-in-picture-support-to-iphone-and-ipad?utm_medium=rss)
- - [Chainalysis: $1B+ in crypto was stolen from bridge-related exploits in a little over a year across seven incidents; Dune: $21B+ is locked on Ethereum bridges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220330/p46#a220330p46)
- - [How to create an account and sell an item on eBay](https://www.androidauthority.com/how-to-sell-on-ebay-3147120/)<!-- TECH:END -->
+ - [IoT manufacturer Ubiquiti sues cybersecurity journalist Brian Krebs, claiming he falsely accused the company of covering up a cyberattack &lpar;Steve Zurier/SC Media&rpar;](http://www.techmeme.com/220330/p49#a220330p49)
+ - [Blockchain.com says it has raised new funding at a $14B valuation led by Lightspeed, more than doubling its last valuation in March 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220330/p48#a220330p48)
+ - [The best family movies on Disney Plus in 2022](https://www.androidauthority.com/best-family-movies-on-disney-plus-3144743/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
