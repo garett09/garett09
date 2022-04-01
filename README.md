@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon workers vote to unionize Staten Island warehouse](https://www.theverge.com/2022/4/1/23004524/amazon-workers-vote-union-jfk8-staten-island-new-york-warehouse-win)
- - [Ramp Up Your Entertainment Space and Save $250 Off This 55-Inch QLED Google TV     - CNET](https://www.cnet.com/tech/home-entertainment/ramp-up-your-entertainment-space-and-save-250-off-this-55-inch-qled-google-tv/#ftag=CAD590a51e)
- - [OnePlus 10 Pro vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/oneplus-10-pro-vs-google-pixel-6-pro-3147255/)<!-- TECH:END -->
+ - [How to find and add friends on Facebook](https://www.androidauthority.com/find-add-friends-facebook-3148183/)
+ - [Pocket Build Now Available on Apple Arcade &lpar;Seriously&rpar;     - CNET](https://www.cnet.com/tech/gaming/pocket-build-now-available-on-apple-arcade-seriously/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39;: Trailer, Release Date, Plot and Everything to Know About the Star Wars Series     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-star-wars-show-trailer-release-date-plot-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
