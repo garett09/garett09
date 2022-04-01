@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best April Fools&#39; Day jokes of 2021](https://www.pcgamer.com/the-best-april-fools-day-jokes-of-2021)
- - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/23000220/new-netflix-movies-tv-shows-watch-april-2022)
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
+ - [Next Week on Xbox: April 4 to 8](https://news.xbox.com/en-us/2022/04/01/next-week-on-xbox-april-4-to-8/)
+ - [Cookie Run: Kingdom swaps out your cookie favs for hotties](https://www.polygon.com/23005399/cookie-run-kingdom-april-fools-fan-art)
+ - [The best April Fools&#39; Day jokes of 2022](https://www.pcgamer.com/the-best-april-fools-day-jokes-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
