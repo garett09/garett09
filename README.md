@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I used to laugh when this was said to me but it has become my reality](http://9gag.com/gag/a0Z6K3B)
- - 🚯 [You must not be late....](http://9gag.com/gag/ajgBEWg)
- - 🚯 [Food for thought?](http://9gag.com/gag/aNPV1w4)<!-- MEMES:END -->
+ - 🚖 [Food for thought?](http://9gag.com/gag/aNPV1w4)
+ - 🚯 [I used to laugh when this was said to me but it has become my reality](http://9gag.com/gag/a0Z6K3B)
+ - 🚯 [Official mascot of the Qatar world cup is the ghost of all the workers that died.](http://9gag.com/gag/aXr4xqg)<!-- MEMES:END -->
 
 --- 
 
