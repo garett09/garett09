@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Short Hike developer makes goofy, unofficial online multiplayer mod](https://www.polygon.com/23006497/a-short-hike-online-multiplayer-mod)
- - [Steam’s Latest Puzzle Sensation Is Very Trippy, Very Good](https://kotaku.com/patricks-parabox-puzzle-steam-pc-hit-review-trippy-weir-1848738629)
- - [Where is Xur this week and what is he selling?](https://www.pcgamer.com/where-is-xur-today-destiny-2)<!-- GAME:END -->
+ - [Tiny Tina’s Wonderlands Players Trolled By Loot](https://kotaku.com/tiny-tina-s-wonderlands-borderlands-gearbox-bugged-loot-1848739583)
+ - [This FPS is basically Bejeweled with guns &lpar;and it has a story&rpar;](https://www.pcgamer.com/this-fps-is-basically-bejeweled-with-guns-and-it-has-a-story)
+ - [This RTX 3070-powered gaming laptop with a 240Hz display for $1,199 is the best deal of the week](https://www.pcgamer.com/this-rtx-3070-powered-gaming-laptop-with-a-240hz-display-for-dollar1199-is-the-best-deal-of-the-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
