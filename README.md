@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did you know?](http://9gag.com/gag/abgW6Lr)
- - 🚯 [Thirsty](http://9gag.com/gag/a71VZ7z)
- - 🚯 [Chinese reporter going down slide.&lpar;0:23&rpar;](http://9gag.com/gag/abgWZDb)<!-- MEMES:END -->
+ - 🚖 [How to sell video footage to news channels](http://9gag.com/gag/aYrPKbv)
+ - 🚯 [Ola.](http://9gag.com/gag/amgmryX)
+ - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)<!-- MEMES:END -->
 
 --- 
 
