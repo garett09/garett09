@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be careful my dudes](http://9gag.com/gag/aWgv8G4)
- - 🚯 [But it&#39;s April fools&#39; day](http://9gag.com/gag/a0Z6bQQ)
- - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)<!-- MEMES:END -->
+ - 🚖 [But it&#39;s April fools&#39; day](http://9gag.com/gag/a0Z6bQQ)
+ - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)
+ - 🚯 [Did you know?](http://9gag.com/gag/abgW6Lr)<!-- MEMES:END -->
 
 --- 
 
