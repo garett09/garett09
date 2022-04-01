@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Everywhere All At Once is a multiverse masterpiece](https://www.polygon.com/reviews/23006000/everything-everywhere-all-at-once-review)
- - [Final Fantasy 14’s next batch of content comes later this month](https://www.polygon.com/23006183/final-fantasy-14-6-1-patch-newfound-adventure-release-date)
- - [The Xbox Series X Is Easy To Buy For The First Time In Years](https://kotaku.com/xbox-series-x-console-restock-today-amazon-walmart-micr-1848737211)<!-- GAME:END -->
+ - [Share of the Week: PS App](https://blog.playstation.com/2022/04/01/share-of-the-week-ps-app/)
+ - [Share of the Week: PS App](https://blog.playstation.com/2022/04/01/share-of-the-week-ps-app/)
+ - [How do I check for memory leaks, and what should I do to stop them?](https://www.pcgamer.com/dealing-with-memory-leaks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
