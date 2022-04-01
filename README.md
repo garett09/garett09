@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Sonic 2&#39; Post-Credits Scene, Explained     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-post-credits-scene-explained/#ftag=CAD590a51e)
- - [How homegrown courier services in French Polynesia are building their own online shopping service to fill the gaps left by e-commerce giants in remote islands &lpar;Tiare Tuuhia/Rest of World&rpar;](http://www.techmeme.com/220401/p1#a220401p1)
- - [OnePlus Bullets Wireless Z2 launched: Fast charging, long endurance, cheap price](https://www.androidauthority.com/oneplus-bullets-wireless-z2-india-3147835/)<!-- TECH:END -->
+ - [Nothing mocks current Android phones with an obvious April Fool’s Day joke](https://www.androidauthority.com/nothing-april-fools-day-joke-3147874/)
+ - [Google Docs will start nudging some users to write less dumbly](https://www.theverge.com/2022/4/1/23005972/google-docs-assisting-writing-active-voice-concise-inclusive-language-inappropriate-words)
+ - [We asked, you told us: Most of you use your phone’s default launcher](https://www.androidauthority.com/phone-launcher-poll-results-3147842/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
