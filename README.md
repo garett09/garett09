@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tarantino to Maverick: Y U Geh?](http://9gag.com/gag/ajgBXjw)
- - 🚯 [Men dont need much to have a good time. Men don&#39;t grow up, they just get older.](http://9gag.com/gag/a21yrmO)
- - 🚯 [I f**king hate it there, I used to love my country.](http://9gag.com/gag/aegVYEj)<!-- MEMES:END -->
+ - 🚖 [I f**king hate it there, I used to love my country.](http://9gag.com/gag/aegVYEj)
+ - 🚯 [Squeeze the Danger Noodles](http://9gag.com/gag/aGzM1jG)
+ - 🚯 [Even my nose wants to superglue my as***le.](http://9gag.com/gag/aRrzj95)<!-- MEMES:END -->
 
 --- 
 
