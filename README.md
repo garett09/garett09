@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t wait](http://9gag.com/gag/aRrzeDq)
- - 🚯 [That\u2019s the way to draw](http://9gag.com/gag/angv170)
- - 🚯 [Here goes nothing](http://9gag.com/gag/aOQDV2r)<!-- MEMES:END -->
+ - 🚖 [Did you know?](http://9gag.com/gag/abgW6Lr)
+ - 🚯 [Thirsty](http://9gag.com/gag/a71VZ7z)
+ - 🚯 [Chinese reporter going down slide.&lpar;0:23&rpar;](http://9gag.com/gag/abgWZDb)<!-- MEMES:END -->
 
 --- 
 
