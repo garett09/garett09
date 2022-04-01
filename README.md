@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Tarantino to Maverick: Y U Geh?](http://9gag.com/gag/ajgBXjw)
- - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)
- - 🚯 [Men dont need much to have a good time. Men don&#39;t grow up, they just get older.](http://9gag.com/gag/a21yrmO)<!-- MEMES:END -->
+ - 🚯 [Men dont need much to have a good time. Men don&#39;t grow up, they just get older.](http://9gag.com/gag/a21yrmO)
+ - 🚯 [I f**king hate it there, I used to love my country.](http://9gag.com/gag/aegVYEj)<!-- MEMES:END -->
 
 --- 
 
