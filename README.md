@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Making Your Own Kaneda Bike From Akira Seems Hard](https://kotaku.com/akira-kaneda-bike-anime-manga-katsuhiro-otomo-japan-pro-1848736535)
- - [Forgotten Pokémon Musical From 2000 Gets 68-Minute Documentary](https://kotaku.com/pokemon-live-musical-broadway-documentary-nintendo-hist-1848730077)
- - [Final Fantasy 7 Remake mod gives Cloud a keytar sword](https://www.pcgamer.com/final-fantasy-7-remake-mod-gives-cloud-a-keytar-sword)<!-- GAME:END -->
+ - [Our favorite gaming chair is £30 off right now](https://www.pcgamer.com/our-favorite-gaming-chair-is-pound30-off-right-now)
+ - [Our favorite gaming chair is $30 off right now](https://www.pcgamer.com/our-favorite-gaming-chair-is-dollar30-off-right-now)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
