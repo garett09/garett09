@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Friday my dudes!](http://9gag.com/gag/axBbgZ2)
- - 🚯 [Facing sexual assault](http://9gag.com/gag/aM4nwNR)
- - 🚯 [Ola.](http://9gag.com/gag/amgmryX)<!-- MEMES:END -->
+ - 🚖 [This video deserves to be here on 1st april](http://9gag.com/gag/aOQDzxE)
+ - 🚯 [But it&#39;s April fools&#39; day](http://9gag.com/gag/a0Z6bQQ)
+ - 🚯 [Squeeze the Danger Noodles](http://9gag.com/gag/aGzM1jG)<!-- MEMES:END -->
 
 --- 
 
