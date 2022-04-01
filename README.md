@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Your Phone app is having an identity crisis at the moment](https://www.androidauthority.com/microsoft-your-phone-app-new-name-3147827/)
- - [Star Trek Resurgence Is an Intriguing Blend of Classic Trek and Modern Games Storytelling     - CNET](https://www.cnet.com/tech/gaming/star-trek-resurgence-is-an-intriguing-blend-of-classic-trek-and-modern-games-storytelling/#ftag=CAD590a51e)
- - [Apple Gets Support From Former National Security Officials in Fortnite case     - CNET](https://www.cnet.com/tech/mobile/apple-gets-support-from-former-national-security-officials-in-fortnite-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How homegrown courier services in French Polynesia are building their own online shopping service to fill the gaps left by e-commerce giants in remote islands &lpar;Tiare Tuuhia/Rest of World&rpar;](http://www.techmeme.com/220401/p1#a220401p1)
+ - [OnePlus Bullets Wireless Z2 launched: Fast charging, long endurance, cheap price](https://www.androidauthority.com/oneplus-bullets-wireless-z2-india-3147835/)
+ - [Microsoft’s Your Phone app is having an identity crisis at the moment](https://www.androidauthority.com/microsoft-your-phone-app-new-name-3147827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
