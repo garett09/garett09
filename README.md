@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing mocks current Android phones with an obvious April Fool’s Day joke](https://www.androidauthority.com/nothing-april-fools-day-joke-3147874/)
- - [Google Docs will start nudging some users to write less dumbly](https://www.theverge.com/2022/4/1/23005972/google-docs-assisting-writing-active-voice-concise-inclusive-language-inappropriate-words)
- - [We asked, you told us: Most of you use your phone’s default launcher](https://www.androidauthority.com/phone-launcher-poll-results-3147842/)<!-- TECH:END -->
+ - [Here’s what Xiaomi says about throttling claims on its phones &lpar;Updated&rpar;](https://www.androidauthority.com/xiaomi-throttling-benchmarks-3145136/)
+ - [Koch Group founders, Roblox, and more, back Apple in antitrust case against Epic](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
+ - [Daily Authority: 🔋 Replaceable phone batteries?](https://www.androidauthority.com/da-april-1-2022-3146920/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
