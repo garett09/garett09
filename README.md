@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [State of Decay 3 sounds like a real mess](https://www.polygon.com/23005362/state-of-decay-3-delayed-canceled-release-date-undead-labs-microsoft)
- - [Less is More: Balancing Narrative and Action in Frightence](https://news.xbox.com/en-us/2022/03/31/balancing-narrative-and-action-in-frightence/)
- - [Twitch halts paid channel boosts after people pay to get porn on the front page](https://www.pcgamer.com/twitch-halts-paid-channel-boosts-after-people-pay-to-get-porn-on-the-front-page)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake mod gives Cloud a keytar sword](https://www.pcgamer.com/final-fantasy-7-remake-mod-gives-cloud-a-keytar-sword)
+ - [Activision Blizzard Removes Company Vaccine Mandate, &#39;Effective Immediately&#39;](https://kotaku.com/activision-blizzard-covid-vaccine-mandate-return-office-1848735725)
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
