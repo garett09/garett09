@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite gaming chair is £30 off right now](https://www.pcgamer.com/our-favorite-gaming-chair-is-pound30-off-right-now)
- - [Our favorite gaming chair is $30 off right now](https://www.pcgamer.com/our-favorite-gaming-chair-is-dollar30-off-right-now)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [The best April Fools&#39; Day jokes of 2021](https://www.pcgamer.com/the-best-april-fools-day-jokes-of-2021)
+ - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/23000220/new-netflix-movies-tv-shows-watch-april-2022)
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
