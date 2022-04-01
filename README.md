@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Sonic 2&#39; Post-Credits Scene, Explained     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-post-credits-scene-explained/#ftag=CAD590a51e)
  - [How homegrown courier services in French Polynesia are building their own online shopping service to fill the gaps left by e-commerce giants in remote islands &lpar;Tiare Tuuhia/Rest of World&rpar;](http://www.techmeme.com/220401/p1#a220401p1)
- - [OnePlus Bullets Wireless Z2 launched: Fast charging, long endurance, cheap price](https://www.androidauthority.com/oneplus-bullets-wireless-z2-india-3147835/)
- - [Microsoft’s Your Phone app is having an identity crisis at the moment](https://www.androidauthority.com/microsoft-your-phone-app-new-name-3147827/)<!-- TECH:END -->
+ - [OnePlus Bullets Wireless Z2 launched: Fast charging, long endurance, cheap price](https://www.androidauthority.com/oneplus-bullets-wireless-z2-india-3147835/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
