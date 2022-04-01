@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [To avoid erroneously flagging CSAM, Meta&#39;s training docs tell content moderators to &quot;err on the side of an adult&quot; when judging people&#39;s age in photos or videos &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/220331/p40#a220331p40)
- - [The Amazon Bessemer union election is going into overtime](https://www.theverge.com/2022/3/31/23004479/amazon-workers-vote-results-union-bessemer-warehouse-challenged-ballots-results)
- - [Researchers: an allegedly Russia-tied wiper malware, AcidRain, which shares similarities with the malware VPNFilter, was behind the attack on Viasat in February &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220331/p39#a220331p39)<!-- TECH:END -->
+ - [Samsung details how its TVs will become NFT gateways](https://www.theverge.com/2022/3/31/23005593/samsung-nifty-gateway-integration-ambient-mode-nft)
+ - [The macOS 12.3.1 update fixed bugs affecting PCI-E GPU performance](https://appleinsider.com/articles/22/04/01/the-macos-1231-update-fixed-bugs-affecting-pci-e-gpu-performance?utm_medium=rss)
+ - [Facebook moderators ‘err on the side of an adult’ when uncertain of age in possible abuse photos](https://www.theverge.com/2022/3/31/23005576/facebook-content-moderators-child-sexual-abuse-material-csam-policy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
