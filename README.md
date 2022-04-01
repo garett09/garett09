@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with GoPuff co-founder Rafael Ilishayev, on why the company acquired BevMo, breaking into the California market, responding to drivers&#39; demands, more &lpar;Sam Dean/Los Angeles Times&rpar;](http://www.techmeme.com/220401/p24#a220401p24)
  - [Bitcoin mining company PrimeBlock will go public via a SPAC merger at a $1.25B valuation; PrimeBlock made $24.4M in revenue in Q4 2021 &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220401/p23#a220401p23)
- - [How to ban or unban someone on Discord](https://www.androidauthority.com/ban-unban-discord-3148307/)
- - [Google crackdown means you won’t be able to buy Barnes &amp; Noble ebooks on Android](https://www.theverge.com/2022/4/1/23006695/audible-barnes-noble-in-app-purchases-google-android)<!-- TECH:END -->
+ - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-netflix-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
