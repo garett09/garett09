@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Even my nose wants to superglue my as***le.](http://9gag.com/gag/aRrzj95)
- - 🚯 [He&#39;s not American](http://9gag.com/gag/azeG9XK)
- - 🚯 [For real...](http://9gag.com/gag/aLvG8Bv)<!-- MEMES:END -->
+ - 🚯 [For real...](http://9gag.com/gag/aLvG8Bv)
+ - 🚯 [How April fools went](http://9gag.com/gag/aog4OxA)<!-- MEMES:END -->
 
 --- 
 
