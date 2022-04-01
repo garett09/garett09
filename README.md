@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [House Oversight Committee launches an investigation into Amazon&#39;s labor practices during severe weather events, after a tornado killed six workers in Illinois &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/220401/p8#a220401p8)
- - [OnePlus 10 Pro is already getting its first Oxygen OS update](https://www.androidauthority.com/oneplus-10-update-3148114/)
- - [Apple is opposing bills targeting gay and transgender people in Iowa, Texas, Florida, and other states via lobbying, filing court briefs, and recruiting allies &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220401/p7#a220401p7)<!-- TECH:END -->
+ - [Samsung debuts QD OLED TV, plus save $200 on 2022 QLED 8K Smart TV](https://appleinsider.com/articles/22/04/01/samsung-debuts-qd-oled-tv-plus-save-200-on-2022-qled-8k-smart-tv?utm_medium=rss)
+ - [Samsung’s Galaxy S22 is $100 off at Best Buy today only](https://www.theverge.com/good-deals/2022/4/1/23004624/samsung-galaxy-s22-hp-aero-laptop-msi-monitor-chromebook-2-apple-ipad-air-deal-sale)
+ - [An Indonesian tax official says the country will charge VAT on crypto transactions and tax capital gains on crypto investments at 0.1% starting May 1 &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/220401/p13#a220401p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
