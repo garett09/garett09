@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: April 4 to 8](https://news.xbox.com/en-us/2022/04/01/next-week-on-xbox-april-4-to-8/)
- - [Cookie Run: Kingdom swaps out your cookie favs for hotties](https://www.polygon.com/23005399/cookie-run-kingdom-april-fools-fan-art)
- - [The best April Fools&#39; Day jokes of 2022](https://www.pcgamer.com/the-best-april-fools-day-jokes-of-2022)<!-- GAME:END -->
+ - [Everything Everywhere All At Once is a multiverse masterpiece](https://www.polygon.com/reviews/23006000/everything-everywhere-all-at-once-review)
+ - [Final Fantasy 14’s next batch of content comes later this month](https://www.polygon.com/23006183/final-fantasy-14-6-1-patch-newfound-adventure-release-date)
+ - [The Xbox Series X Is Easy To Buy For The First Time In Years](https://kotaku.com/xbox-series-x-console-restock-today-amazon-walmart-micr-1848737211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
