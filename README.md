@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forgotten Pokémon Musical From 2000 Gets 68-Minute Documentary](https://kotaku.com/pokemon-live-musical-broadway-documentary-nintendo-hist-1848730077)
- - [Final Fantasy 7 Remake mod gives Cloud a keytar sword](https://www.pcgamer.com/final-fantasy-7-remake-mod-gives-cloud-a-keytar-sword)
- - [Activision Blizzard Removes Company Vaccine Mandate, &#39;Effective Immediately&#39;](https://kotaku.com/activision-blizzard-covid-vaccine-mandate-return-office-1848735725)<!-- GAME:END -->
+ - [What motherboard chipset and socket do I need?](https://www.pcgamer.com/how-to-choose-a-motherboard-sockets-and-chipsets-explained)
+ - [Today&#39;s Wordle answer #286: Friday, April 1](https://www.pcgamer.com/wordle-april-1-286)
+ - [Forgotten Pokémon Musical From 2000 Gets 68-Minute Documentary](https://kotaku.com/pokemon-live-musical-broadway-documentary-nintendo-hist-1848730077)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
