@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find and add friends on Facebook](https://www.androidauthority.com/find-add-friends-facebook-3148183/)
- - [Pocket Build Now Available on Apple Arcade &lpar;Seriously&rpar;     - CNET](https://www.cnet.com/tech/gaming/pocket-build-now-available-on-apple-arcade-seriously/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: Trailer, Release Date, Plot and Everything to Know About the Star Wars Series     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-star-wars-show-trailer-release-date-plot-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Justin Kan&#39;s game-focused NFT marketplace Fractal has raised a $35M seed led by Paradigm and Multicoin Capital, with a16z, Solana Labs, and others participating &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220401/p17#a220401p17)
+ - [How to cancel an order on eBay](https://www.androidauthority.com/cancel-ebay-order-3147754/)
+ - [How to find and add friends on Facebook](https://www.androidauthority.com/find-add-friends-facebook-3148183/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
