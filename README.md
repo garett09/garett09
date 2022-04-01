@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I f**king hate it there, I used to love my country.](http://9gag.com/gag/aegVYEj)
- - 🚯 [Squeeze the Danger Noodles](http://9gag.com/gag/aGzM1jG)
- - 🚯 [Even my nose wants to superglue my as***le.](http://9gag.com/gag/aRrzj95)<!-- MEMES:END -->
+ - 🚖 [Official mascot of the Qatar world cup is the ghost of all the workers that died.](http://9gag.com/gag/aXr4xqg)
+ - 🚯 [That\u2019s how Shanghai lockdown looks like. On the way to the daily Covid-Test.](http://9gag.com/gag/a415bbA)
+ - 🚯 [37 years old and i&#39;m still playing this legend game a few hours a week. That&#39;s my baby... Just chose &#39;Unique Performance Upgrades&#39; markers all along the Blacklist and made this beast.](http://9gag.com/gag/adgn962)<!-- MEMES:END -->
 
 --- 
 
