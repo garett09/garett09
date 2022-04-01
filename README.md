@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring speedrunning takes a whole community](https://www.polygon.com/23006108/elden-ring-speedrunning-streaming-lilaggy)
- - [Get To Know The World Of Warcraft-Playing, Twitch-Streaming Grandma Who Just Turned 80](https://kotaku.com/twitch-world-of-warcraft-wow-wowgrandma78-streamer-bliz-1848739574)
- - [Apple TV’s British spy thriller Slow Horses simply delivers](https://www.polygon.com/23006468/slow-horses-review-apple-gary-oldman)<!-- GAME:END -->
+ - [Activision Blizzard workers plan walkout over dropped vaccine mandate](https://www.polygon.com/23007018/activision-blizzard-workers-walkout-vaccine-mandate-dropped)
+ - [Polygon’s newsletter pick of the week: Ranking of Kings](https://www.polygon.com/2022/4/1/23005035/best-anime-2022-ranking-of-kings-polygon-newsletter)
+ - [Elden Ring speedrunning takes a whole community](https://www.polygon.com/23006108/elden-ring-speedrunning-streaming-lilaggy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
