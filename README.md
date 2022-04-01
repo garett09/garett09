@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts QD OLED TV, plus save $200 on 2022 QLED 8K Smart TV](https://appleinsider.com/articles/22/04/01/samsung-debuts-qd-oled-tv-plus-save-200-on-2022-qled-8k-smart-tv?utm_medium=rss)
- - [Samsung’s Galaxy S22 is $100 off at Best Buy today only](https://www.theverge.com/good-deals/2022/4/1/23004624/samsung-galaxy-s22-hp-aero-laptop-msi-monitor-chromebook-2-apple-ipad-air-deal-sale)
- - [An Indonesian tax official says the country will charge VAT on crypto transactions and tax capital gains on crypto investments at 0.1% starting May 1 &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/220401/p13#a220401p13)<!-- TECH:END -->
+ - [Amazon workers vote to unionize Staten Island warehouse](https://www.theverge.com/2022/4/1/23004524/amazon-workers-vote-union-jfk8-staten-island-new-york-warehouse-win)
+ - [Ramp Up Your Entertainment Space and Save $250 Off This 55-Inch QLED Google TV     - CNET](https://www.cnet.com/tech/home-entertainment/ramp-up-your-entertainment-space-and-save-250-off-this-55-inch-qled-google-tv/#ftag=CAD590a51e)
+ - [OnePlus 10 Pro vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/oneplus-10-pro-vs-google-pixel-6-pro-3147255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
