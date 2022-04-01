@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Apple TV Plus in April 2022: Slow Horses, Live Baseball, and more](https://www.androidauthority.com/new-on-apple-tv-plus-3145951/)
- - [Koch Group founders, Roblox, and more, back Apple in antitrust case against Epic](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
- - [How to start a workout on the Apple Watch](https://www.androidauthority.com/start-workout-apple-watch-3134637/)<!-- TECH:END -->
+ - [Koch Group founders, Roblox, and more back Apple in &#39;Fortnite&#39; antitrust case](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
+ - [How to run MacOS 7 and MacOS 8 in your browser, today](https://appleinsider.com/articles/22/04/01/how-to-run-macos-7-and-macos-8-in-your-browser-today?utm_medium=rss)
+ - [Sources: the UK government has quietly approved the sale of Welsh semiconductor factory Newport Wafer Fab to the Dutch subsidiary of China&#39;s Wingtech &lpar;Eleni Courea/Politico&rpar;](http://www.techmeme.com/220401/p5#a220401p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
