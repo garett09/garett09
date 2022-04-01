@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord servers of some NFT projects, including BAYC, were compromised on Friday as part of a phishing scam seeking to trick users into &quot;minting&quot; fake NFTs &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220401/p22#a220401p22)
- - [The government is investigating Amazon’s severe weather event rules following deaths](https://www.theverge.com/2022/4/1/23006449/amazon-investigation-oversight-reform-committee-us-house-edwardsville-tornado)
- - [Experts say chipmakers lack the ability to track where many of their lower-end products end up, which could stymie the enforcement of new sanctions on Russia &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220401/p21#a220401p21)<!-- TECH:END -->
+ - [Bitcoin mining company PrimeBlock will go public via a SPAC merger at a $1.25B valuation; PrimeBlock made $24.4M in revenue in Q4 2021 &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220401/p23#a220401p23)
+ - [How to ban or unban someone on Discord](https://www.androidauthority.com/ban-unban-discord-3148307/)
+ - [Google crackdown means you won’t be able to buy Barnes &amp; Noble ebooks on Android](https://www.theverge.com/2022/4/1/23006695/audible-barnes-noble-in-app-purchases-google-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
