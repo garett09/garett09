@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Reusable Products We Actually Love](https://www.wired.com/gallery/our-favorite-reusable-products)
- - [Russia Inches Toward Its Splinternet Dream](https://www.wired.com/story/russia-splinternet-censorship)
- - [I Finally Reached Computing Nirvana. What Was It All For?](https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for)<!-- TECH:END -->
+ - [What’s new on Apple TV Plus in April 2022: Slow Horses, Live Baseball, and more](https://www.androidauthority.com/new-on-apple-tv-plus-3145951/)
+ - [Koch Group founders, Roblox, and more, back Apple in antitrust case against Epic](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
+ - [How to start a workout on the Apple Watch](https://www.androidauthority.com/start-workout-apple-watch-3134637/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
