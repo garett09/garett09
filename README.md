@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To the one who did it.. f**k you 3000](http://9gag.com/gag/a51Gr5y)
- - 🚯 [Thirsty](http://9gag.com/gag/a71VZ7z)
- - 🚯 [How to sell video footage to news channels](http://9gag.com/gag/aYrPKbv)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t wait](http://9gag.com/gag/aRrzeDq)
+ - 🚯 [That\u2019s the way to draw](http://9gag.com/gag/angv170)
+ - 🚯 [Here goes nothing](http://9gag.com/gag/aOQDV2r)<!-- MEMES:END -->
 
 --- 
 
