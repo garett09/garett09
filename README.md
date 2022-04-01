@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Food for thought?](http://9gag.com/gag/aNPV1w4)
- - 🚯 [I used to laugh when this was said to me but it has become my reality](http://9gag.com/gag/a0Z6K3B)
- - 🚯 [Official mascot of the Qatar world cup is the ghost of all the workers that died.](http://9gag.com/gag/aXr4xqg)<!-- MEMES:END -->
+ - 🚖 [Even my nose wants to superglue my as***le.](http://9gag.com/gag/aRrzj95)
+ - 🚯 [He&#39;s not American](http://9gag.com/gag/azeG9XK)
+ - 🚯 [For real...](http://9gag.com/gag/aLvG8Bv)<!-- MEMES:END -->
 
 --- 
 
