@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung details how its TVs will become NFT gateways](https://www.theverge.com/2022/3/31/23005593/samsung-nifty-gateway-integration-ambient-mode-nft)
- - [The macOS 12.3.1 update fixed bugs affecting PCI-E GPU performance](https://appleinsider.com/articles/22/04/01/the-macos-1231-update-fixed-bugs-affecting-pci-e-gpu-performance?utm_medium=rss)
- - [Facebook moderators ‘err on the side of an adult’ when uncertain of age in possible abuse photos](https://www.theverge.com/2022/3/31/23005576/facebook-content-moderators-child-sexual-abuse-material-csam-policy)<!-- TECH:END -->
+ - [Since Ukraine invasion, an estimated 70,000 tech workers have left Russia, despite income taxes eliminated till 2024, relocating to Poland, Latvia, and more &lpar;Liudas Dapkus/Associated Press&rpar;](http://www.techmeme.com/220331/p43#a220331p43)
+ - [2023 Toyota GR Corolla Debuts With Rally-Tuned AWD, Wicked Widebody     - Roadshow](https://www.cnet.com/roadshow/news/2023-toyota-gr-corolla-circuit-edition-debut/#ftag=CAD590a51e)
+ - [2023 Toyota GR Corolla debuts alongside limited-run Circuit Edition     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-toyota-gr-corolla-circuit-edition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
