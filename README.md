@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best &lpar;And Worst&rpar; April Fools’ Jokes In Gaming For 2022](https://kotaku.com/april-fools-day-sonic-among-us-genshin-impact-fire-em-1848738270)
  - [Share of the Week: PS App](https://blog.playstation.com/2022/04/01/share-of-the-week-ps-app/)
- - [Share of the Week: PS App](https://blog.playstation.com/2022/04/01/share-of-the-week-ps-app/)
- - [How do I check for memory leaks, and what should I do to stop them?](https://www.pcgamer.com/dealing-with-memory-leaks)<!-- GAME:END -->
+ - [Share of the Week: PS App](https://blog.playstation.com/2022/04/01/share-of-the-week-ps-app/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
