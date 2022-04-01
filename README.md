@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might want to stop using your Wyze security camera right now! &lpar;Updated&rpar;](https://www.androidauthority.com/wyze-camera-hacked-3147318/)
- - [Pokemon Go Is Being Swarmed by Ditto for April Fools&#39; Day     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-is-being-swarmed-by-ditto-for-april-fools-day/#ftag=CAD590a51e)
- - [Since Ukraine invasion, an estimated 70,000 tech workers have left Russia, despite income taxes eliminated till 2024, relocating to Poland, Latvia, and more &lpar;Liudas Dapkus/Associated Press&rpar;](http://www.techmeme.com/220331/p43#a220331p43)<!-- TECH:END -->
+ - [Microsoft’s Your Phone app is having an identity crisis at the moment](https://www.androidauthority.com/microsoft-your-phone-app-new-name-3147827/)
+ - [Star Trek Resurgence Is an Intriguing Blend of Classic Trek and Modern Games Storytelling     - CNET](https://www.cnet.com/tech/gaming/star-trek-resurgence-is-an-intriguing-blend-of-classic-trek-and-modern-games-storytelling/#ftag=CAD590a51e)
+ - [Apple Gets Support From Former National Security Officials in Fortnite case     - CNET](https://www.cnet.com/tech/mobile/apple-gets-support-from-former-national-security-officials-in-fortnite-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
