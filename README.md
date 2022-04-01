@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch stops its Boost Train test, which let users boost a channel by purchasing subscriptions and bits, after it was used to push porn to the site&#39;s front page &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/220401/p19#a220401p19)
- - [Washington State Passed a Contentious New Gig Worker Law](https://www.wired.com/story/uber-lyft-washington-state-prop-22)
- - [Final Fantasy XIV: Endwalker’s next chapter starts on April 12th](https://www.theverge.com/2022/4/1/23006250/final-fantasy-14-endwalker-patch-6-1-release-date-notes)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Apple TV dock, 80 ports over Thunderbolt &amp; more - the best April Fools 2022 jokes](https://appleinsider.com/articles/22/04/01/apple-tv-dock-80-ports-over-thunderbolt-more---the-best-april-fools-2022-jokes?utm_medium=rss)
+ - [How to block or mute someone on Discord](https://www.androidauthority.com/block-mute-discord-3147814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
