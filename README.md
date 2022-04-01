@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Kan&#39;s game-focused NFT marketplace Fractal has raised a $35M seed led by Paradigm and Multicoin Capital, with a16z, Solana Labs, and others participating &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220401/p17#a220401p17)
- - [How to cancel an order on eBay](https://www.androidauthority.com/cancel-ebay-order-3147754/)
- - [How to find and add friends on Facebook](https://www.androidauthority.com/find-add-friends-facebook-3148183/)<!-- TECH:END -->
+ - [Twitch stops its Boost Train test, which let users boost a channel by purchasing subscriptions and bits, after it was used to push porn to the site&#39;s front page &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/220401/p19#a220401p19)
+ - [Washington State Passed a Contentious New Gig Worker Law](https://www.wired.com/story/uber-lyft-washington-state-prop-22)
+ - [Final Fantasy XIV: Endwalker’s next chapter starts on April 12th](https://www.theverge.com/2022/4/1/23006250/final-fantasy-14-endwalker-patch-6-1-release-date-notes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
