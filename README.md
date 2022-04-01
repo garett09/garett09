@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This video deserves to be here on 1st april](http://9gag.com/gag/aOQDzxE)
+ - 🚖 [Be careful my dudes](http://9gag.com/gag/aWgv8G4)
  - 🚯 [But it&#39;s April fools&#39; day](http://9gag.com/gag/a0Z6bQQ)
- - 🚯 [Squeeze the Danger Noodles](http://9gag.com/gag/aGzM1jG)<!-- MEMES:END -->
+ - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)<!-- MEMES:END -->
 
 --- 
 
