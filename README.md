@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forgotten Pokémon Musical From 2000 Gets 68-Minute Documentary](https://kotaku.com/pokemon-live-musical-broadway-documentary-nintendo-hist-1848730077)
  - [Final Fantasy 7 Remake mod gives Cloud a keytar sword](https://www.pcgamer.com/final-fantasy-7-remake-mod-gives-cloud-a-keytar-sword)
- - [Activision Blizzard Removes Company Vaccine Mandate, &#39;Effective Immediately&#39;](https://kotaku.com/activision-blizzard-covid-vaccine-mandate-return-office-1848735725)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)<!-- GAME:END -->
+ - [Activision Blizzard Removes Company Vaccine Mandate, &#39;Effective Immediately&#39;](https://kotaku.com/activision-blizzard-covid-vaccine-mandate-return-office-1848735725)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
