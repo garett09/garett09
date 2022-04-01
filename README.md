@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s how Shanghai lockdown looks like. On the way to the daily Covid-Test.](http://9gag.com/gag/a415bbA)
- - 🚯 [37 years old and i&#39;m still playing this legend game a few hours a week. That&#39;s my baby... Just chose &#39;Unique Performance Upgrades&#39; markers all along the Blacklist and made this beast.](http://9gag.com/gag/adgn962)
- - 🚯 [This video deserves to be here on 1st april](http://9gag.com/gag/aOQDzxE)<!-- MEMES:END -->
+ - 🚖 [I used to laugh when this was said to me but it has become my reality](http://9gag.com/gag/a0Z6K3B)
+ - 🚯 [You must not be late....](http://9gag.com/gag/ajgBEWg)
+ - 🚯 [Food for thought?](http://9gag.com/gag/aNPV1w4)<!-- MEMES:END -->
 
 --- 
 
