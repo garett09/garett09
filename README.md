@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But it&#39;s April fools&#39; day](http://9gag.com/gag/a0Z6bQQ)
+ - 🚖 [Tarantino to Maverick: Y U Geh?](http://9gag.com/gag/ajgBXjw)
  - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)
- - 🚯 [Did you know?](http://9gag.com/gag/abgW6Lr)<!-- MEMES:END -->
+ - 🚯 [Men dont need much to have a good time. Men don&#39;t grow up, they just get older.](http://9gag.com/gag/a21yrmO)<!-- MEMES:END -->
 
 --- 
 
