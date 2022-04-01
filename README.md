@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Since Ukraine invasion, an estimated 70,000 tech workers have left Russia, despite income taxes eliminated till 2024, relocating to Poland, Latvia, and more &lpar;Liudas Dapkus/Associated Press&rpar;](http://www.techmeme.com/220331/p43#a220331p43)
- - [2023 Toyota GR Corolla Debuts With Rally-Tuned AWD, Wicked Widebody     - Roadshow](https://www.cnet.com/roadshow/news/2023-toyota-gr-corolla-circuit-edition-debut/#ftag=CAD590a51e)
- - [2023 Toyota GR Corolla debuts alongside limited-run Circuit Edition     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-toyota-gr-corolla-circuit-edition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You might want to stop using your Wyze security camera right now! &lpar;Updated&rpar;](https://www.androidauthority.com/wyze-camera-hacked-3147318/)
+ - [Pokemon Go Is Being Swarmed by Ditto for April Fools&#39; Day     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-is-being-swarmed-by-ditto-for-april-fools-day/#ftag=CAD590a51e)
+ - [Since Ukraine invasion, an estimated 70,000 tech workers have left Russia, despite income taxes eliminated till 2024, relocating to Poland, Latvia, and more &lpar;Liudas Dapkus/Associated Press&rpar;](http://www.techmeme.com/220331/p43#a220331p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
