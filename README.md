@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To the one who did it.. f**k you 3000](http://9gag.com/gag/a51Gr5y)
- - 🚯 [Can&#39;t wait](http://9gag.com/gag/aRrzeDq)
- - 🚯 [New big prison in switzerland, room tour, clothing, food and its even allowed to smoke inside the room.](http://9gag.com/gag/a71Vbnx)<!-- MEMES:END -->
+ - 🚖 [There was that, now idk](http://9gag.com/gag/angvN75)
+ - 🚯 [It&#39;s Friday my dudes!](http://9gag.com/gag/axBbgZ2)
+ - 🚯 [After imprisoned at home all they&#39;re lives by their parents, 15 siblings plotted an escape plan for one of them to sneak outside and look for help. Having never stepped outside on her own nor talked to strangers before this is Jordan Turpin&#39;s escape shown in bodycam footage](http://9gag.com/gag/aRrzA47)<!-- MEMES:END -->
 
 --- 
 
