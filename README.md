@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All? All](http://9gag.com/gag/a9187Om)
- - 🚯 [Tell us a fun fact about a special interest of yours.](http://9gag.com/gag/a415L8Q)
- - 🚯 [Absolute legend!](http://9gag.com/gag/a71V70r)<!-- MEMES:END -->
+ - 🚖 [How old are you? Me](http://9gag.com/gag/arnZRv0)
+ - 🚯 [Absolute legend!](http://9gag.com/gag/a71V70r)
+ - 🚯 [All? All](http://9gag.com/gag/a9187Om)<!-- MEMES:END -->
 
 --- 
 
