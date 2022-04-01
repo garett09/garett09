@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady claims she can build a force field around herself](http://9gag.com/gag/aOQDmZ3)
- - 🚯 [All? All](http://9gag.com/gag/a9187Om)
- - 🚯 [I spent 6 years in this toxic place](http://9gag.com/gag/abgWZrE)<!-- MEMES:END -->
+ - 🚖 [To the one who did it.. f**k you 3000](http://9gag.com/gag/a51Gr5y)
+ - 🚯 [Can&#39;t wait](http://9gag.com/gag/aRrzeDq)
+ - 🚯 [New big prison in switzerland, room tour, clothing, food and its even allowed to smoke inside the room.](http://9gag.com/gag/a71Vbnx)<!-- MEMES:END -->
 
 --- 
 
