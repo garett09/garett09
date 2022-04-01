@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina’s Wonderlands Players Trolled By Loot](https://kotaku.com/tiny-tina-s-wonderlands-borderlands-gearbox-bugged-loot-1848739583)
- - [This FPS is basically Bejeweled with guns &lpar;and it has a story&rpar;](https://www.pcgamer.com/this-fps-is-basically-bejeweled-with-guns-and-it-has-a-story)
- - [This RTX 3070-powered gaming laptop with a 240Hz display for $1,199 is the best deal of the week](https://www.pcgamer.com/this-rtx-3070-powered-gaming-laptop-with-a-240hz-display-for-dollar1199-is-the-best-deal-of-the-week)<!-- GAME:END -->
+ - [Elden Ring speedrunning takes a whole community](https://www.polygon.com/23006108/elden-ring-speedrunning-streaming-lilaggy)
+ - [Get To Know The World Of Warcraft-Playing, Twitch-Streaming Grandma Who Just Turned 80](https://kotaku.com/twitch-world-of-warcraft-wow-wowgrandma78-streamer-bliz-1848739574)
+ - [Apple TV’s British spy thriller Slow Horses simply delivers](https://www.polygon.com/23006468/slow-horses-review-apple-gary-oldman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
