@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Short Hike developer makes goofy, unofficial online multiplayer mod](https://www.polygon.com/23006497/a-short-hike-online-multiplayer-mod)
  - [Steam’s Latest Puzzle Sensation Is Very Trippy, Very Good](https://kotaku.com/patricks-parabox-puzzle-steam-pc-hit-review-trippy-weir-1848738629)
- - [Every new movie and show coming to Disney Plus in April](https://www.polygon.com/entertainment/22983726/disney-plus-new-movies-tv-watch-april-2022)
- - [Twitch Pauses &#39;Boost&#39; Feature After Porn Sneaks Onto Front Page](https://kotaku.com/twitch-boost-feature-paused-porn-this-stream-hype-train-1848738396)<!-- GAME:END -->
+ - [Where is Xur this week and what is he selling?](https://www.pcgamer.com/where-is-xur-today-destiny-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
