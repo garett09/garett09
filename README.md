@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Koch Group founders, Roblox, and more back Apple in &#39;Fortnite&#39; antitrust case](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
- - [How to run MacOS 7 and MacOS 8 in your browser, today](https://appleinsider.com/articles/22/04/01/how-to-run-macos-7-and-macos-8-in-your-browser-today?utm_medium=rss)
- - [Sources: the UK government has quietly approved the sale of Welsh semiconductor factory Newport Wafer Fab to the Dutch subsidiary of China&#39;s Wingtech &lpar;Eleni Courea/Politico&rpar;](http://www.techmeme.com/220401/p5#a220401p5)<!-- TECH:END -->
+ - [House Oversight Committee launches an investigation into Amazon&#39;s labor practices during severe weather events, after a tornado killed six workers in Illinois &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/220401/p8#a220401p8)
+ - [OnePlus 10 Pro is already getting its first Oxygen OS update](https://www.androidauthority.com/oneplus-10-update-3148114/)
+ - [Apple is opposing bills targeting gay and transgender people in Iowa, Texas, Florida, and other states via lobbying, filing court briefs, and recruiting allies &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220401/p7#a220401p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
