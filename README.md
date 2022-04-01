@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Xiaomi says about throttling claims on its phones &lpar;Updated&rpar;](https://www.androidauthority.com/xiaomi-throttling-benchmarks-3145136/)
- - [Koch Group founders, Roblox, and more, back Apple in antitrust case against Epic](https://appleinsider.com/articles/22/04/01/koch-group-founders-roblox-and-more-back-apple-in-antitrust-case-against-epic?utm_medium=rss)
- - [Daily Authority: 🔋 Replaceable phone batteries?](https://www.androidauthority.com/da-april-1-2022-3146920/)<!-- TECH:END -->
+ - [The Best Reusable Products We Actually Love](https://www.wired.com/gallery/our-favorite-reusable-products)
+ - [Russia Inches Toward Its Splinternet Dream](https://www.wired.com/story/russia-splinternet-censorship)
+ - [I Finally Reached Computing Nirvana. What Was It All For?](https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
