@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to sell video footage to news channels](http://9gag.com/gag/aYrPKbv)
- - 🚯 [Ola.](http://9gag.com/gag/amgmryX)
- - 🚯 [Mcdonald is a joke](http://9gag.com/gag/a81DpOp)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Friday my dudes!](http://9gag.com/gag/axBbgZ2)
+ - 🚯 [Facing sexual assault](http://9gag.com/gag/aM4nwNR)
+ - 🚯 [Ola.](http://9gag.com/gag/amgmryX)<!-- MEMES:END -->
 
 --- 
 
