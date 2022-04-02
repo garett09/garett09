@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s M8 smart 4K monitor comes with a $100 gift card](https://www.theverge.com/good-deals/2022/4/2/23006647/samsung-m8-smart-4k-monitor-comes-with-a-100-gift-card)
- - [Apple TV+&#39;s &#39;Prehistoric Planet&#39; set for week-long series premiere from May 23](https://appleinsider.com/articles/22/04/02/apple-tvs-prehistoric-planet-set-for-week-long-series-premiere-from-may-23?utm_medium=rss)
- - [Twitch’s new boost feature puts porn on the homepage](https://www.theverge.com/2022/4/2/23007107/twitch-boost-train-porn-featured-recommended-channels-pause)<!-- TECH:END -->
+ - [Alphabet&#39;s Wing, Zipline, and Flytrex, which have started commercial drone delivery operations in the US, say they are encouraged by FAA&#39;s evolving regulation &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220402/p4#a220402p4)
+ - [Fortnite brings back building](https://www.theverge.com/2022/4/2/22999741/fortnite-chapter-3-season-2-building-returns-zero-build-mode)
+ - [Capture Everything With This Discounted Beginner Drone -- Just $84 Right Now     - CNET](https://www.cnet.com/tech/computing/capture-everything-with-this-discounted-beginner-drone-just-84-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
