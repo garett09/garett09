@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The pirate life](http://9gag.com/gag/a415RWm)
- - 🚯 [Boys](http://9gag.com/gag/aog45P2)
- - 🚯 [To whom it may concern](http://9gag.com/gag/azeG99K)<!-- MEMES:END -->
+ - 🚖 [Boys](http://9gag.com/gag/aog45P2)
+ - 🚯 [After a year and a half of suffering with debts\u2026](http://9gag.com/gag/aLvGgxP)
+ - 🚯 [The original meme](http://9gag.com/gag/aGzMdDn)<!-- MEMES:END -->
 
 --- 
 
