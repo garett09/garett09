@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Classic Doom With Ray Tracing Looks Amazing](https://kotaku.com/doom-raytracing-mod-pc-original-id-software-free-rtx-qu-1848741817)
  - [The bittersweet guide to post-Elden Ring living — 15 similar and dissimilar games to play next](https://www.polygon.com/23005255/elden-ring-similar-dissimilar-games-kirby-tunic-skyrim-zelda)
- - [Michael Bay tells us he doesn’t actually hate his movie’s CG effects](https://www.polygon.com/23006616/michael-bay-ambulance-cgi-effects)
- - [Awkwardly, Ubisoft’s Division 2 Update Is All About A Nuclear Power Plant Invasion](https://kotaku.com/division-2-ukraine-russia-nuclear-plant-ubisoft-update-1848739862)<!-- GAME:END -->
+ - [Michael Bay tells us he doesn’t actually hate his movie’s CG effects](https://www.polygon.com/23006616/michael-bay-ambulance-cgi-effects)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
