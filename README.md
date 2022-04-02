@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A 10-year-old who set the Guinness World Record for the youngest opera singer in the world sings Mozart\u2019s &#39;Der Holle Rache,\u2019 one of the most difficult arias to sing](http://9gag.com/gag/aQXAXKz)
- - 🚯 [Free speech, everyone.](http://9gag.com/gag/aZrQr3V)
+ - 🚖 [These two dogs were hurt and abandoned on the side of the road until..](http://9gag.com/gag/aGzMz2Z)
+ - 🚯 [Caught in the Act. Witness Testimony Confirmed.](http://9gag.com/gag/a21yKL1)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
