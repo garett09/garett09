@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill-like horror game Abandoned is not cancelled, developer says](https://www.pcgamer.com/silent-hill-like-horror-game-abandoned-is-not-cancelled-developer-says)
- - [Death on the Nile, 7 Netflix releases, and every other new thing you can now watch at home](https://www.polygon.com/22998510/new-movies-watch-sing-2-netflix-bubble-death-on-the-nile-hulu-hbo-max)
- - [Activision Blizzard workers plan walkout over dropped vaccine mandate](https://www.polygon.com/23007018/activision-blizzard-workers-walkout-vaccine-mandate-dropped)<!-- GAME:END -->
+ - [Activision Blizzard workers plan walkout over dropped vaccine mandate](https://www.polygon.com/23007018/activision-blizzard-workers-walkout-vaccine-mandate-dropped)
+ - [Where all the new &#39;metaverses&#39; are going wrong, according to the creator of Second Life](https://www.pcgamer.com/second-life-metaverse-interview)
+ - [2022 April Fools&#39; Gaming Jokes Round-Up](https://kotaku.com/april-fools-sonic-frontiers-goat-simulator-among-us-1848738884)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
