@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boys](http://9gag.com/gag/aog45P2)
- - 🚯 [After a year and a half of suffering with debts\u2026](http://9gag.com/gag/aLvGgxP)
- - 🚯 [The original meme](http://9gag.com/gag/aGzMdDn)<!-- MEMES:END -->
+ - 🚖 [They ask for it...](http://9gag.com/gag/a918RPo)
+ - 🚯 [U Fool!!!](http://9gag.com/gag/aBnP04Z)
+ - 🚯 [Oof. Still amazed how apparently none of them knew what happened there.](http://9gag.com/gag/a31ywq3)<!-- MEMES:END -->
 
 --- 
 
