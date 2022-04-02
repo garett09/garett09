@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Michael Bay tells us he doesn’t actually hate his movie’s CG effects](https://www.polygon.com/23006616/michael-bay-ambulance-cgi-effects)
  - [17 great movies new to streaming to watch in April 2022](https://www.polygon.com/what-to-watch/23000153/best-new-movies-netflix-amazon-hbo-april-2022)
- - [Today&#39;s Wordle answer #287: Saturday, April 2](https://www.pcgamer.com/wordle-april-2-287)
- - [Activision Blizzard workers plan walkout over dropped vaccine mandate](https://www.polygon.com/23007018/activision-blizzard-workers-walkout-vaccine-mandate-dropped)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #287: Saturday, April 2](https://www.pcgamer.com/wordle-april-2-287)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
