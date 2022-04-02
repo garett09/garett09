@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep look at the benefits of content moderation in open forums, and how it can support free speech by creating spaces where more people feel free to talk &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220402/p2#a220402p2)
  - [In a memo, EVP and CPO Panos Panay says Microsoft is moving Surface Duo OS, SwiftKey, Phone Link, and Microsoft Launcher under a new dedicated Android division &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220402/p1#a220402p1)
- - [Will Smith Resigns Academy Membership After Slapping Chris Rock at Oscars     - CNET](https://www.cnet.com/culture/entertainment/will-smith-resigns-academy-membership-after-slapping-chris-rock-at-oscars/#ftag=CAD590a51e)
- - [Scientists Teach Fish to Do Basic Math     - CNET](https://www.cnet.com/science/biology/scientists-teach-fish-to-do-basic-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will Smith Resigns Academy Membership After Slapping Chris Rock at Oscars     - CNET](https://www.cnet.com/culture/entertainment/will-smith-resigns-academy-membership-after-slapping-chris-rock-at-oscars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
