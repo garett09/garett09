@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She train hard to be a good daughter](http://9gag.com/gag/arnZVV7)
- - 🚯 [This guy is a legend](http://9gag.com/gag/awzLBdQ)
- - 🚯 [Noot noot](http://9gag.com/gag/aXr4gKg)<!-- MEMES:END -->
+ - 🚖 [How millennial stop the war.](http://9gag.com/gag/aXr4o9b)
+ - 🚯 [Disinfected the escalator, boss!](http://9gag.com/gag/aLvGpG6)
+ - 🚯 [The future](http://9gag.com/gag/aVxmwmP)<!-- MEMES:END -->
 
 --- 
 
