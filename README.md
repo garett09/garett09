@@ -180,7 +180,7 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Activision Blizzard workers plan walkout over dropped vaccine mandate](https://www.polygon.com/23007018/activision-blizzard-workers-walkout-vaccine-mandate-dropped)
- - [Where all the new &#39;metaverses&#39; are going wrong, according to the creator of Second Life](https://www.pcgamer.com/second-life-metaverse-interview)
+ - [The creator of Second Life has a lot to say about all these new &#39;metaverses&#39;](https://www.pcgamer.com/second-life-metaverse-interview)
  - [2022 April Fools&#39; Gaming Jokes Round-Up](https://kotaku.com/april-fools-sonic-frontiers-goat-simulator-among-us-1848738884)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
