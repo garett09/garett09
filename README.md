@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brick breaker](http://9gag.com/gag/aegV5g5)
+ - 🚖 [An old relic from a forgotten timeline](http://9gag.com/gag/amgm5G4)
  - 🚯 [Boys](http://9gag.com/gag/aog45P2)
- - 🚯 [True happiness](http://9gag.com/gag/a0Z65Xn)<!-- MEMES:END -->
+ - 🚯 [He&#39;s not American](http://9gag.com/gag/azeG9XK)<!-- MEMES:END -->
 
 --- 
 
