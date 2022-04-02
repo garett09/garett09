@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic Doom With Ray Tracing Looks Amazing](https://kotaku.com/doom-raytracing-mod-pc-original-id-software-free-rtx-qu-1848741817)
- - [The bittersweet guide to post-Elden Ring living — 15 similar and dissimilar games to play next](https://www.polygon.com/23005255/elden-ring-similar-dissimilar-games-kirby-tunic-skyrim-zelda)
- - [Michael Bay tells us he doesn’t actually hate his movie’s CG effects](https://www.polygon.com/23006616/michael-bay-ambulance-cgi-effects)<!-- GAME:END -->
+ - [Relaxing walking game A Short Hike has a 99 person multiplayer mod now](https://www.pcgamer.com/relaxing-walking-game-a-short-hike-has-a-99-person-multiplayer-mod-now)
+ - [Tiny Tina’s Wonderlands also has illusory walls and none of us are safe](https://www.polygon.com/gaming/23006878/tiny-tinas-wonderlands-illusory-walls-lucky-dice-elden-ring)
+ - [Everybody&#39;s Golf PS4 Servers Shutting Down In September](https://kotaku.com/everybodys-golf-clap-hanz-ps4-sony-servers-shut-down-se-1848742067)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
