@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia says it will suspend ISS cooperation until sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)
  - [Compared: Cricut Maker lineup vs Cricut Explore range](https://appleinsider.com/articles/22/04/02/compared-cricut-maker-lineup-vs-cricut-explore-range?utm_medium=rss)
- - [Apple&#39;s hardware categories are now gaining record new users after a 2017/2018 strategy change that let product groups independently update major product lines &lpar;Neil Cybart/Above Avalon&rpar;](http://www.techmeme.com/220402/p5#a220402p5)
- - [Tesla delivered over 310,000 vehicles despite ‘exceptionally difficult quarter’](https://www.theverge.com/2022/4/2/23007804/tesla-deliveries-310000-vehicles-exceptionally-difficult-quarter-elon-musk-shanghai-supply-chain)<!-- TECH:END -->
+ - [Apple&#39;s hardware categories are now gaining record new users after a 2017/2018 strategy change that let product groups independently update major product lines &lpar;Neil Cybart/Above Avalon&rpar;](http://www.techmeme.com/220402/p5#a220402p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
