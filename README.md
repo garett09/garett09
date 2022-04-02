@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia says it will suspend ISS cooperation until sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)
+ - [Proscenic P11 Smart Vacuum review: a budget-friendly stick vacuum](https://appleinsider.com/articles/22/04/02/proscenic-p11-smart-vacuum-review-a-budget-friendly-stick-vacuum?utm_medium=rss)
  - [Compared: Cricut Maker lineup vs Cricut Explore range](https://appleinsider.com/articles/22/04/02/compared-cricut-maker-lineup-vs-cricut-explore-range?utm_medium=rss)
- - [Apple&#39;s hardware categories are now gaining record new users after a 2017/2018 strategy change that let product groups independently update major product lines &lpar;Neil Cybart/Above Avalon&rpar;](http://www.techmeme.com/220402/p5#a220402p5)<!-- TECH:END -->
+ - [Tim Cook promotes model car iPhone photographer on World Autism Awareness Day](https://appleinsider.com/articles/22/04/02/tim-cook-promotes-model-car-iphone-photographer-on-world-autism-awareness-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
