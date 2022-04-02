@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An old relic from a forgotten timeline](http://9gag.com/gag/amgm5G4)
- - 🚯 [He&#39;s not American](http://9gag.com/gag/azeG9XK)
- - 🚯 [Amazonas &lpar;Brazilian State&rpar; investigated NGOs that were sending too many engines to be repaired outside the country.](http://9gag.com/gag/aZrQLy9)<!-- MEMES:END -->
+ - 🚖 [The pirate life](http://9gag.com/gag/a415RWm)
+ - 🚯 [Boys](http://9gag.com/gag/aog45P2)
+ - 🚯 [To whom it may concern](http://9gag.com/gag/azeG99K)<!-- MEMES:END -->
 
 --- 
 
