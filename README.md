@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Graphical Dwarf Fortress keeps looking better with new character sheets](https://www.pcgamer.com/graphical-dwarf-fortress-keeps-looking-better-with-new-character-sheets)
  - [Relaxing walking game A Short Hike has a 99 person multiplayer mod now](https://www.pcgamer.com/relaxing-walking-game-a-short-hike-has-a-99-person-multiplayer-mod-now)
- - [Tiny Tina’s Wonderlands also has illusory walls and none of us are safe](https://www.polygon.com/gaming/23006878/tiny-tinas-wonderlands-illusory-walls-lucky-dice-elden-ring)
- - [Everybody&#39;s Golf PS4 Servers Shutting Down In September](https://kotaku.com/everybodys-golf-clap-hanz-ps4-sony-servers-shut-down-se-1848742067)<!-- GAME:END -->
+ - [Tiny Tina’s Wonderlands also has illusory walls and none of us are safe](https://www.polygon.com/gaming/23006878/tiny-tinas-wonderlands-illusory-walls-lucky-dice-elden-ring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
