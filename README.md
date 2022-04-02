@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Teach Fish to Do Basic Math     - CNET](https://www.cnet.com/science/biology/scientists-teach-fish-to-do-basic-math/#ftag=CAD590a51e)
- - [Activision Blizzard confirms vaccine mandate is over, employees will walk out April 4th](https://www.theverge.com/2022/4/1/23007115/activision-blizzard-workers-walkout-vaccine-mandate-a-better-abk)
- - [Will Smith Resigns Academy Membership After Slapping Chris Rock at Oscars     - CNET](https://www.cnet.com/culture/entertainment/will-smith-resigns-academy-membership-after-hitting-chris-rock-at-oscars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a memo, EVP and CPO Panos Panay says Microsoft is moving Surface Duo OS, SwiftKey, Phone Link, and Microsoft Launcher under a new dedicated Android division &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220402/p1#a220402p1)
+ - [Will Smith Resigns Academy Membership After Slapping Chris Rock at Oscars     - CNET](https://www.cnet.com/culture/entertainment/will-smith-resigns-academy-membership-after-slapping-chris-rock-at-oscars/#ftag=CAD590a51e)
+ - [Scientists Teach Fish to Do Basic Math     - CNET](https://www.cnet.com/science/biology/scientists-teach-fish-to-do-basic-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
