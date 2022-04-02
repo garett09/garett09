@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet&#39;s Wing, Zipline, and Flytrex, which have started commercial drone delivery operations in the US, say they are encouraged by FAA&#39;s evolving regulation &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220402/p4#a220402p4)
- - [Fortnite brings back building](https://www.theverge.com/2022/4/2/22999741/fortnite-chapter-3-season-2-building-returns-zero-build-mode)
- - [Capture Everything With This Discounted Beginner Drone -- Just $84 Right Now     - CNET](https://www.cnet.com/tech/computing/capture-everything-with-this-discounted-beginner-drone-just-84-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-426-3147497/)
+ - [Under-display Face ID could arrive with &#39;iPhone 16&#39; in 2024](https://appleinsider.com/articles/22/04/02/under-display-face-id-could-arrive-with-iphone-16-in-2024?utm_medium=rss)
+ - [Russia says it will suspend ISS cooperation until sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
