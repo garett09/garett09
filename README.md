@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If Pompeii happened today](http://9gag.com/gag/aE8op2O)
- - 🚯 [Now that&#39;s a fun work environment!](http://9gag.com/gag/aBnPmN2)
+ - 🚖 [*internal screaming*](http://9gag.com/gag/aDDZdM7)
+ - 🚯 [True](http://9gag.com/gag/adgnVZQ)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
