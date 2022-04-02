@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even my nose wants to superglue my as***le.](http://9gag.com/gag/aRrzj95)
- - 🚯 [For real...](http://9gag.com/gag/aLvG8Bv)
- - 🚯 [How April fools went](http://9gag.com/gag/aog4OxA)<!-- MEMES:END -->
+ - 🚖 [Try this at home](http://9gag.com/gag/apgPmjB)
+ - 🚯 [Seriously???](http://9gag.com/gag/aGzMjRw)
+ - 🚯 [True happiness](http://9gag.com/gag/a0Z65Xn)<!-- MEMES:END -->
 
 --- 
 
