@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WHAT ITS LIKE - To Experience a Nuke in Virtual Reality](http://9gag.com/gag/aNPVwAK)
- - 🚯 [Pleasuring a woman with your fingers is a good skill to learn](http://9gag.com/gag/aZrQr5V)
+ - 🚖 [The Good Ol&#39; Days](http://9gag.com/gag/a61nqXN)
+ - 🚯 [I walk 40 minutes to the pub](http://9gag.com/gag/aGzMzZz)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
