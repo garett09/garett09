@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Emergency SOS on iPhone saved snowboarder from crevasse](https://appleinsider.com/articles/22/04/02/emergency-sos-on-iphone-saved-snowboarder-from-crevasse?utm_medium=rss)
- - [DJI Mini 3 Pro leak shows obstacle avoidance sensors and a slightly bigger battery](https://www.theverge.com/2022/4/2/23007680/dji-mini-3-pro-leak-obstacle-avoidance-sensors)
- - [March Madness Final Four: How to Watch, Live Stream Kansas vs. Villanova, Duke vs. North Carolina Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-final-four-how-to-watch-live-stream-kansas-vs-villanova-duke-vs-north-carolina-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Doesn&#39;t Every Airbnb Come With a Roku?     - CNET](https://www.cnet.com/tech/home-entertainment/why-doesnt-every-airbnb-come-with-a-roku/#ftag=CAD590a51e)
+ - [15-Year Mortgage Rates for April 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/15-year-mortgage-rates-for-april-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
