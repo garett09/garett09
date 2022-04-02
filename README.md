@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They ask for it...](http://9gag.com/gag/a918RPo)
- - 🚯 [U Fool!!!](http://9gag.com/gag/aBnP04Z)
+ - 🚖 [The original meme](http://9gag.com/gag/aGzMdDn)
+ - 🚯 [Noot noot](http://9gag.com/gag/aXr4gKg)
  - 🚯 [Oof. Still amazed how apparently none of them knew what happened there.](http://9gag.com/gag/a31ywq3)<!-- MEMES:END -->
 
 --- 
