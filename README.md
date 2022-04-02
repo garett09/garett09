@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat now lets you share YouTube videos as a sticker in your snap](https://www.theverge.com/2022/4/2/23007949/snapchat-share-youtube-videos-sticker)
  - [Proscenic P11 Smart Vacuum review: a budget-friendly stick vacuum](https://appleinsider.com/articles/22/04/02/proscenic-p11-smart-vacuum-review-a-budget-friendly-stick-vacuum?utm_medium=rss)
- - [Compared: Cricut Maker lineup vs Cricut Explore range](https://appleinsider.com/articles/22/04/02/compared-cricut-maker-lineup-vs-cricut-explore-range?utm_medium=rss)
- - [Tim Cook promotes model car iPhone photographer on World Autism Awareness Day](https://appleinsider.com/articles/22/04/02/tim-cook-promotes-model-car-iphone-photographer-on-world-autism-awareness-day?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: Cricut Maker lineup vs Cricut Explore range](https://appleinsider.com/articles/22/04/02/compared-cricut-maker-lineup-vs-cricut-explore-range?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
