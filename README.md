@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These two dogs were hurt and abandoned on the side of the road until..](http://9gag.com/gag/aGzMz2Z)
- - 🚯 [Caught in the Act. Witness Testimony Confirmed.](http://9gag.com/gag/a21yKL1)
+ - 🚖 [Looks cool but I honestly can&#39;t figure out a good use for it...](http://9gag.com/gag/a31y4d8)
+ - 🚯 [Mass Effect Trilogy](http://9gag.com/gag/aBnPnX1)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
