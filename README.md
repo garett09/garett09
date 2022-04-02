@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Binance, which trades on its own exchange and plays a number of roles that pose conflicts of interest, remains mostly unaccountable to its customers &lpar;Washington Post&rpar;](http://www.techmeme.com/220402/p3#a220402p3)
- - [Europe’s Biggest Lithium Mine Is Caught in a Political Maelstrom](https://www.wired.com/story/serbia-europe-lithium-mining-electric-cars)
- - [These Services Help Kids Shape the Future Through Code](https://www.wired.com/story/kids-metaverse-inclusive-code)<!-- TECH:END -->
+ - [Our Favorite Language Learning Apps &lpar;and Online Courses&rpar;](https://www.wired.com/gallery/best-language-learning-apps)
+ - [How Does a Newt Cross the Road? With Lots of Human Help](https://www.wired.com/story/how-does-a-newt-cross-the-road-with-lots-of-human-help)
+ - [Student Loan Forgiveness: Congress Urges Biden to Extend Payment Pause and Cancel Student Loan Debt     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
