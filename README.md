@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Language Learning Apps &lpar;and Online Courses&rpar;](https://www.wired.com/gallery/best-language-learning-apps)
- - [How Does a Newt Cross the Road? With Lots of Human Help](https://www.wired.com/story/how-does-a-newt-cross-the-road-with-lots-of-human-help)
- - [Student Loan Forgiveness: Congress Urges Biden to Extend Payment Pause and Cancel Student Loan Debt     - CNET](https://www.cnet.com/personal-finance/loans/will-student-loan-repayment-pause-be-extended/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best OnePlus 10 Pro cases you can buy](https://www.androidauthority.com/best-oneplus-10-pro-cases-3144149/)
+ - [You Need a Password Manager. Here Are the Best Ones](https://www.wired.com/story/best-password-managers)
+ - [Samsung Says It Will Let You Fix Your Own Galaxy Phone](https://www.wired.com/story/samsung-galaxy-repairability-program)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
