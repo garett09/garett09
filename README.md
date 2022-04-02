@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The bittersweet guide to post-Elden Ring living — 15 similar and dissimilar games to play next](https://www.polygon.com/23005255/elden-ring-similar-dissimilar-games-kirby-tunic-skyrim-zelda)
  - [Michael Bay tells us he doesn’t actually hate his movie’s CG effects](https://www.polygon.com/23006616/michael-bay-ambulance-cgi-effects)
- - [17 great movies new to streaming to watch in April 2022](https://www.polygon.com/what-to-watch/23000153/best-new-movies-netflix-amazon-hbo-april-2022)
- - [Today&#39;s Wordle answer #287: Saturday, April 2](https://www.pcgamer.com/wordle-april-2-287)<!-- GAME:END -->
+ - [Awkwardly, Ubisoft’s Division 2 Update Is All About A Nuclear Power Plant Invasion](https://kotaku.com/division-2-ukraine-russia-nuclear-plant-ubisoft-update-1848739862)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
