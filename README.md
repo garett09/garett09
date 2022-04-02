@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-426-3147497/)
- - [Best Places to Buy Replacement Prescription Lenses Online in 2022     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
- - [Under-display Face ID could arrive with &#39;iPhone 16&#39; in 2024](https://appleinsider.com/articles/22/04/02/under-display-face-id-could-arrive-with-iphone-16-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Emergency SOS on iPhone saved snowboarder from crevasse](https://appleinsider.com/articles/22/04/02/emergency-sos-on-iphone-saved-snowboarder-from-crevasse?utm_medium=rss)
+ - [DJI Mini 3 Pro leak shows obstacle avoidance sensors and a slightly bigger battery](https://www.theverge.com/2022/4/2/23007680/dji-mini-3-pro-leak-obstacle-avoidance-sensors)
+ - [March Madness Final Four: How to Watch, Live Stream Kansas vs. Villanova, Duke vs. North Carolina Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-final-four-how-to-watch-live-stream-kansas-vs-villanova-duke-vs-north-carolina-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
