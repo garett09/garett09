@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*internal screaming*](http://9gag.com/gag/aDDZdM7)
- - 🚯 [True](http://9gag.com/gag/adgnVZQ)
+ - 🚖 [Biggest bridge in the world made by bricks standing in germany, build between 1846 and 1851, over 26 million bricks](http://9gag.com/gag/aKmWmDg)
+ - 🚯 [*internal screaming*](http://9gag.com/gag/aDDZdM7)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
