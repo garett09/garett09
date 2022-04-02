@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-426-3147497/)
- - [Under-display Face ID could arrive with &#39;iPhone 16&#39; in 2024](https://appleinsider.com/articles/22/04/02/under-display-face-id-could-arrive-with-iphone-16-in-2024?utm_medium=rss)
- - [Russia says it will suspend ISS cooperation until sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)<!-- TECH:END -->
+ - [Best Places to Buy Replacement Prescription Lenses Online in 2022     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
+ - [Under-display Face ID could arrive with &#39;iPhone 16&#39; in 2024](https://appleinsider.com/articles/22/04/02/under-display-face-id-could-arrive-with-iphone-16-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
