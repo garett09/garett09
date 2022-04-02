@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with GoPuff co-founder Rafael Ilishayev, on why the company acquired BevMo, breaking into the California market, responding to drivers&#39; demands, more &lpar;Sam Dean/Los Angeles Times&rpar;](http://www.techmeme.com/220401/p24#a220401p24)
- - [Bitcoin mining company PrimeBlock will go public via a SPAC merger at a $1.25B valuation; PrimeBlock made $24.4M in revenue in Q4 2021 &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220401/p23#a220401p23)
- - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-netflix-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Teach Fish to Do Basic Math     - CNET](https://www.cnet.com/science/biology/scientists-teach-fish-to-do-basic-math/#ftag=CAD590a51e)
+ - [Activision Blizzard confirms vaccine mandate is over, employees will walk out April 4th](https://www.theverge.com/2022/4/1/23007115/activision-blizzard-workers-walkout-vaccine-mandate-a-better-abk)
+ - [Will Smith Resigns Academy Membership After Slapping Chris Rock at Oscars     - CNET](https://www.cnet.com/culture/entertainment/will-smith-resigns-academy-membership-after-hitting-chris-rock-at-oscars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
