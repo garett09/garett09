@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [If Pompeii happened today](http://9gag.com/gag/aE8op2O)
- - 🚯 [An exchange of prisoners took place in the Zaporizhia region on Friday, resulting in the return of 86 Ukrainian servicemen, including 15 women.](http://9gag.com/gag/amgmP12)
- - 🚯 [Disinfected the escalator, boss!](http://9gag.com/gag/aLvGpG6)<!-- MEMES:END -->
+ - 🚯 [Now that&#39;s a fun work environment!](http://9gag.com/gag/aBnPmN2)
+ - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
 
