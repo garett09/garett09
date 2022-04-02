@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The original meme](http://9gag.com/gag/aGzMdDn)
- - 🚯 [Noot noot](http://9gag.com/gag/aXr4gKg)
- - 🚯 [Oof. Still amazed how apparently none of them knew what happened there.](http://9gag.com/gag/a31ywq3)<!-- MEMES:END -->
+ - 🚖 [Screaming internally](http://9gag.com/gag/a61nKvb)
+ - 🚯 [True](http://9gag.com/gag/adgnVZQ)
+ - 🚯 [I can&#39;t argue with that](http://9gag.com/gag/a31ywPQ)<!-- MEMES:END -->
 
 --- 
 
