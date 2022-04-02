@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How millennial stop the war.](http://9gag.com/gag/aXr4o9b)
- - 🚯 [Disinfected the escalator, boss!](http://9gag.com/gag/aLvGpG6)
- - 🚯 [The future](http://9gag.com/gag/aVxmwmP)<!-- MEMES:END -->
+ - 🚖 [If Pompeii happened today](http://9gag.com/gag/aE8op2O)
+ - 🚯 [An exchange of prisoners took place in the Zaporizhia region on Friday, resulting in the return of 86 Ukrainian servicemen, including 15 women.](http://9gag.com/gag/amgmP12)
+ - 🚯 [Disinfected the escalator, boss!](http://9gag.com/gag/aLvGpG6)<!-- MEMES:END -->
 
 --- 
 
