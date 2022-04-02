@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is this product not popular? I could use those.](http://9gag.com/gag/aKmW661)
- - 🚯 [The people of Hong Kong know what to do when the police cross the line.](http://9gag.com/gag/ay9WMNY)
+ - 🚖 [WHAT ITS LIKE - To Experience a Nuke in Virtual Reality](http://9gag.com/gag/aNPVwAK)
+ - 🚯 [Pleasuring a woman with your fingers is a good skill to learn](http://9gag.com/gag/aZrQr5V)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
