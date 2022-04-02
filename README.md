@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy is a legend](http://9gag.com/gag/awzLBdQ)
- - 🚯 [She train hard to be a good daughter](http://9gag.com/gag/arnZVV7)
+ - 🚖 [She train hard to be a good daughter](http://9gag.com/gag/arnZVV7)
+ - 🚯 [This guy is a legend](http://9gag.com/gag/awzLBdQ)
  - 🚯 [Noot noot](http://9gag.com/gag/aXr4gKg)<!-- MEMES:END -->
 
 --- 
