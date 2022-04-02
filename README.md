@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Screaming internally](http://9gag.com/gag/a61nKvb)
- - 🚯 [True](http://9gag.com/gag/adgnVZQ)
- - 🚯 [I can&#39;t argue with that](http://9gag.com/gag/a31ywPQ)<!-- MEMES:END -->
+ - 🚖 [This guy is a legend](http://9gag.com/gag/awzLBdQ)
+ - 🚯 [She train hard to be a good daughter](http://9gag.com/gag/arnZVV7)
+ - 🚯 [Noot noot](http://9gag.com/gag/aXr4gKg)<!-- MEMES:END -->
 
 --- 
 
