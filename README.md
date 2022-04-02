@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best OnePlus 10 Pro cases you can buy](https://www.androidauthority.com/best-oneplus-10-pro-cases-3144149/)
- - [You Need a Password Manager. Here Are the Best Ones](https://www.wired.com/story/best-password-managers)
- - [Samsung Says It Will Let You Fix Your Own Galaxy Phone](https://www.wired.com/story/samsung-galaxy-repairability-program)<!-- TECH:END -->
+ - [Samsung’s M8 smart 4K monitor comes with a $100 gift card](https://www.theverge.com/good-deals/2022/4/2/23006647/samsung-m8-smart-4k-monitor-comes-with-a-100-gift-card)
+ - [Apple TV+&#39;s &#39;Prehistoric Planet&#39; set for week-long series premiere from May 23](https://appleinsider.com/articles/22/04/02/apple-tvs-prehistoric-planet-set-for-week-long-series-premiere-from-may-23?utm_medium=rss)
+ - [Twitch’s new boost feature puts porn on the homepage](https://www.theverge.com/2022/4/2/23007107/twitch-boost-train-porn-featured-recommended-channels-pause)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
