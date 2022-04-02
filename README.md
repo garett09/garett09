@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The real magic mouse is made by Logitech, not Apple](https://www.theverge.com/23005435/magic-mouse-apple-logitech-powerplay)
- - [A deep look at the benefits of content moderation in open forums, and how it can support free speech by creating spaces where more people feel free to talk &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220402/p2#a220402p2)
- - [In a memo, EVP and CPO Panos Panay says Microsoft is moving Surface Duo OS, SwiftKey, Phone Link, and Microsoft Launcher under a new dedicated Android division &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220402/p1#a220402p1)<!-- TECH:END -->
+ - [How Binance, which trades on its own exchange and plays a number of roles that pose conflicts of interest, remains mostly unaccountable to its customers &lpar;Washington Post&rpar;](http://www.techmeme.com/220402/p3#a220402p3)
+ - [Europe’s Biggest Lithium Mine Is Caught in a Political Maelstrom](https://www.wired.com/story/serbia-europe-lithium-mining-electric-cars)
+ - [These Services Help Kids Shape the Future Through Code](https://www.wired.com/story/kids-metaverse-inclusive-code)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
