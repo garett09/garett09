@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As a doctor graduated from `the good doctor` ... i can confirm this.](http://9gag.com/gag/amgmGqd)
- - 🚯 [From one brother to another](http://9gag.com/gag/aQXAQww)
+ - 🚖 [What a difference](http://9gag.com/gag/a71V0qr)
+ - 🚯 [Crow&#39;s nest on electric wire relocated by a Japanese engineer](http://9gag.com/gag/aKmWvq1)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
