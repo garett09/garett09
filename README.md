@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital piracy is here to stay](https://www.androidauthority.com/piracy-opinion-3145442/)
- - [Best Website Builder for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
- - [What&#39;s the Matter? We Explain the New Smart Home Standard](https://www.wired.com/story/what-is-matter)<!-- TECH:END -->
+ - [Tesla’s Shanghai factory stays closed as COVID restrictions remain in place](https://www.theverge.com/2022/4/3/23008668/tesla-shanghai-factory-closed-lockdown-covid-china)
+ - [Become a Python Programming Pro With Hundreds Off This Training Bundle     - CNET](https://www.cnet.com/tech/services-and-software/become-a-python-programming-pro-with-hundreds-off-this-training-bundle/#ftag=CAD590a51e)
+ - [Digital piracy is here to stay](https://www.androidauthority.com/piracy-opinion-3145442/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
