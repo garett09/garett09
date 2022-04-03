@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...*slap* *slap* *slap* *slap* *slap* *slap*...](http://9gag.com/gag/a918zw1)
- - 🚯 [I drew some random western birds](http://9gag.com/gag/aM4nBox)
+ - 🚖 [We call that the curse of competency where i work](http://9gag.com/gag/ajgB1Xp)
+ - 🚯 [Every morning an old lady used to give bread to the monkeys. Due to being ill, she could not give bread for two days, so the monkeys came to her to know her condition. Heart touching moments.\ufe0f](http://9gag.com/gag/agg8QWx)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
