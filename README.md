@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Shanghai factory stays closed as COVID restrictions remain in place](https://www.theverge.com/2022/4/3/23008668/tesla-shanghai-factory-closed-lockdown-covid-china)
- - [Become a Python Programming Pro With Hundreds Off This Training Bundle     - CNET](https://www.cnet.com/tech/services-and-software/become-a-python-programming-pro-with-hundreds-off-this-training-bundle/#ftag=CAD590a51e)
- - [Digital piracy is here to stay](https://www.androidauthority.com/piracy-opinion-3145442/)<!-- TECH:END -->
+ - [Amazon Luna is promising, but not among the cloud gaming stars quite yet](https://www.androidauthority.com/amazon-luna-review-3146589/)
+ - [A look at how Apple&#39;s rumored iPhone and other hardware subscription programs may work, and the thinking behind forecasted expansion of its financial services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220403/p3#a220403p3)
+ - [Best Vegetarian and Vegan Meal Delivery Services     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
