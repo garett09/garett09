@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Looks cool but I honestly can&#39;t figure out a good use for it...](http://9gag.com/gag/a31y4d8)
- - 🚯 [WHAT ITS LIKE - To Experience a Nuke in Virtual Reality](http://9gag.com/gag/aNPVwAK)
+ - 🚯 [How much wisdom can you tell in 10 seconds?](http://9gag.com/gag/aLvGLQ5)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
