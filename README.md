@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S22 vs. 5 Older Samsung Phones: Is Upgrading Worth It?     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-5-older-samsung-phones-is-an-upgrade-worth-it/#ftag=CAD590a51e)
- - [Roku Ultra 2022: The 5 Things on My Wish List     - CNET](https://www.cnet.com/tech/home-entertainment/roku-ultra-2022-the-5-things-on-my-wish-list/#ftag=CAD590a51e)
- - [Tesla Q1 Deliveries Up, in What Musk Calls an &#39;Exceptionally Difficult Quarter&#39;     - Roadshow](https://www.cnet.com/roadshow/news/tesla-q1-deliveries-up-in-what-musk-calls-an-exceptionally-difficult-quarter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Government record keepers and watchdogs worry that use of Wickr and other auto-deletion apps may help CBP and other agencies sidestep transparency requirements &lpar;NBC News&rpar;](http://www.techmeme.com/220403/p4#a220403p4)
+ - [How to enable Walking Steadiness notifications in iOS 15](https://appleinsider.com/articles/22/04/03/how-to-enable-walking-steadiness-notifications-in-ios-15?utm_medium=rss)
+ - [Galaxy S22 vs. 5 Older Samsung Phones: Is Upgrading Worth It?     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-5-older-samsung-phones-is-an-upgrade-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
