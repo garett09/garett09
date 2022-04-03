@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Air-Purifying Headphones Look Like Something a Batman Villain Would Wear     - CNET](https://www.cnet.com/tech/mobile/these-air-purifying-headphones-look-like-something-a-batman-villain-would-wear/#ftag=CAD590a51e)
- - [The Subtle Joy of Not Letting Yourself Binge-Watch TV Shows Anymore     - CNET](https://www.cnet.com/tech/services-and-software/the-subtle-joy-of-not-letting-yourself-binge-watch-tv-shows-anymore/#ftag=CAD590a51e)
- - [Interview with Ukraine&#39;s Deputy Minister of Digital Transformation, who says the government&#39;s crypto donation platform has raised $70M+ as of April 1 &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220403/p1#a220403p1)<!-- TECH:END -->
+ - [OnePlus 10 Pro vs older OnePlus phones: Should you upgrade?](https://www.androidauthority.com/oneplus-10-pro-vs-oneplus-upgrade-3147894/)
+ - [6 Free Ways to Practice Sign Language Online](https://www.wired.com/story/how-to-learn-sign-language-free)
+ - [Peptides on Stardust May Have Provided a Shortcut to Life](https://www.wired.com/story/peptides-on-stardust-may-have-provided-a-shortcut-to-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
