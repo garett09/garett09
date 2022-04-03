@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s nothing left to live for. Sri Lanka is long gone. Politicians has ruined our country and there&#39;s no coming back. Rajapaksha regiment has played their game very well.](http://9gag.com/gag/aZrQ103)
+ - 🚖 [They don&#39;t make em like they used to.](http://9gag.com/gag/a51GBoy)
  - 🚯 [Also laser raptors](http://9gag.com/gag/amgm1Ov)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
