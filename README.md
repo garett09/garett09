@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Air-Purifying Headphones Look Like Something a Batman Villain Would Wear     - CNET](https://www.cnet.com/tech/mobile/these-air-purifying-headphones-look-like-something-a-batman-villain-would-wear/#ftag=CAD590a51e)
  - [The Subtle Joy of Not Letting Yourself Binge-Watch TV Shows Anymore     - CNET](https://www.cnet.com/tech/services-and-software/the-subtle-joy-of-not-letting-yourself-binge-watch-tv-shows-anymore/#ftag=CAD590a51e)
- - [Interview with Ukraine&#39;s Deputy Minister of Digital Transformation, who says the government&#39;s crypto donation platform has raised $70M+ as of April 1 &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220403/p1#a220403p1)
- - [B&amp;H Photo launches 24-inch iMac sale with prices dipping to $1,169](https://appleinsider.com/articles/22/04/03/bh-photo-launches-24-inch-imac-sale-with-prices-dipping-to-1169?utm_medium=rss)<!-- TECH:END -->
+ - [Interview with Ukraine&#39;s Deputy Minister of Digital Transformation, who says the government&#39;s crypto donation platform has raised $70M+ as of April 1 &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220403/p1#a220403p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
