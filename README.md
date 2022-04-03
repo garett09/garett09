@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We call that the curse of competency where i work](http://9gag.com/gag/ajgB1Xp)
- - 🚯 [Every morning an old lady used to give bread to the monkeys. Due to being ill, she could not give bread for two days, so the monkeys came to her to know her condition. Heart touching moments.\ufe0f](http://9gag.com/gag/agg8QWx)
+ - 🚖 [Election day. We have another chance to end Orb\u00e1n&#39;s dictatorship. Fellow 9gaggers, cross your fingers today for my future, for Hungary&#39;s future.](http://9gag.com/gag/aWgv7WZ)
+ - 🚯 [Honda&#39;s self balancing motorcycle](http://9gag.com/gag/aQXAvRw)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
