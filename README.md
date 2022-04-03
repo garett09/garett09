@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a difference](http://9gag.com/gag/a71V0qr)
- - 🚯 [Crow&#39;s nest on electric wire relocated by a Japanese engineer](http://9gag.com/gag/aKmWvq1)
+ - 🚖 [Crow&#39;s nest on electric wire relocated by a Japanese engineer](http://9gag.com/gag/aKmWvq1)
+ - 🚯 [Why is my brain like this??](http://9gag.com/gag/arnZARB)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
