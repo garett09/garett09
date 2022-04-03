@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWE WrestleMania 38: Results, Steve Austin Returns, Full Recap and Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-results-steve-austin-returns-full-recap-and-ratings/#ftag=CAD590a51e)
  - [Deepki, a Parisian provider of an ESG data intelligence platform for real estate, raises a &amp;euro;150M Series C round co-led by One Peak and Highland Europe &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220402/p6#a220402p6)
- - [How to connect AirPods to PS5](https://www.androidauthority.com/connect-airpods-ps5-3148293/)
- - [How a Lack of Federal COVID Funds Could Impact Health Care     - CNET](https://www.cnet.com/health/medical/the-white-house-says-its-running-out-of-covid-funding/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to connect AirPods to PS5](https://www.androidauthority.com/connect-airpods-ps5-3148293/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
