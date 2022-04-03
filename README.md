@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Matter? We Explain the New Smart Home Standard](https://www.wired.com/story/what-is-matter)
- - [Trick Out Your Two-Wheeler With These 33 Bike Accessories](https://www.wired.com/story/best-bike-accessories)
- - [Unpacking Terra&#39;s design for its algorithmic stablecoins and how partial collateralization using bitcoin reserves could impact its price stabilization mechanism &lpar;damsondao/P -- Mirror&rpar;](http://www.techmeme.com/220403/p2#a220403p2)<!-- TECH:END -->
+ - [Digital piracy is here to stay](https://www.androidauthority.com/piracy-opinion-3145442/)
+ - [Best Website Builder for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
+ - [What&#39;s the Matter? We Explain the New Smart Home Standard](https://www.wired.com/story/what-is-matter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
