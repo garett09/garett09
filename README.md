@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [David Bowie in 1999 about the impact of the Internet on society.](http://9gag.com/gag/adgnBKZ)
- - 🚯 [The Good Ol&#39; Days](http://9gag.com/gag/a61nqXN)
+ - 🚖 [Election day. We have another chance to end Orb\u00e1n&#39;s dictatorship. Fellow 9gaggers, cross your fingers today for my future, for Hungary&#39;s future.](http://9gag.com/gag/aWgv7WZ)
+ - 🚯 [Men&#39;s Barber Shop 1956](http://9gag.com/gag/avAEywO)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
