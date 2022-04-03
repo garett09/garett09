@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #288: Sunday, April 3](https://www.pcgamer.com/wordle-april-3-288)
  - [Great moments in PC gaming: The glee of an MMO launch day](https://www.pcgamer.com/great-moments-in-pc-gaming-the-glee-of-an-mmo-launch-day)
- - [Building is back in Fortnite](https://www.pcgamer.com/building-is-back-in-fortnite)
- - [Game Pass &#39;family plan&#39; is reportedly in the works](https://www.pcgamer.com/game-pass-family-plan-is-reportedly-in-the-works)<!-- GAME:END -->
+ - [Building is back in Fortnite](https://www.pcgamer.com/building-is-back-in-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
