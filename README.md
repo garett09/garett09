@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Luna is promising, but not among the cloud gaming stars quite yet](https://www.androidauthority.com/amazon-luna-review-3146589/)
- - [The Best Dog Toys, According to the Experts: Our Dogs     - CNET](https://www.cnet.com/home/kitchen-and-household/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)
- - [Save Hundreds on Already-Discounted Refurb MacBooks This Week at Woot     - CNET](https://www.cnet.com/tech/computing/save-hundreds-on-already-discounted-refurb-macbooks-this-week-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 10 Pro vs iPhone 13 Pro: Which one should you buy?](https://www.androidauthority.com/oneplus-10-pro-vs-iphone-13-pro-3147088/)
+ - [iOS 15.4: What You Should Know About Apple&#39;s iPhone Update     - CNET](https://www.cnet.com/tech/services-and-software/ios-15-4-what-you-should-know-about-apples-iphone-update/#ftag=CAD590a51e)
+ - [Amazon Slashes Prices of AirPods 2 and Pro, Starting at Just $99 Today     - CNET](https://www.cnet.com/tech/mobile/amazon-slashes-prices-of-airpods-2-and-pro-starting-at-just-99-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
