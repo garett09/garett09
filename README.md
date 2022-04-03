@@ -187,8 +187,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Amazon Luna is promising, but not among the cloud gaming stars quite yet](https://www.androidauthority.com/amazon-luna-review-3146589/)
- - [A look at how Apple&#39;s rumored iPhone and other hardware subscription programs may work, and the thinking behind forecasted expansion of its financial services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220403/p3#a220403p3)
- - [Best Vegetarian and Vegan Meal Delivery Services     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Dog Toys, According to the Experts: Our Dogs     - CNET](https://www.cnet.com/home/kitchen-and-household/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)
+ - [Save Hundreds on Already-Discounted Refurb MacBooks This Week at Woot     - CNET](https://www.cnet.com/tech/computing/save-hundreds-on-already-discounted-refurb-macbooks-this-week-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
