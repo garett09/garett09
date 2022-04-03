@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Government record keepers and watchdogs worry that use of Wickr and other auto-deletion apps may help CBP and other agencies sidestep transparency requirements &lpar;NBC News&rpar;](http://www.techmeme.com/220403/p4#a220403p4)
- - [How to enable Walking Steadiness notifications in iOS 15](https://appleinsider.com/articles/22/04/03/how-to-enable-walking-steadiness-notifications-in-ios-15?utm_medium=rss)
- - [Galaxy S22 vs. 5 Older Samsung Phones: Is Upgrading Worth It?     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-5-older-samsung-phones-is-an-upgrade-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lewis Hamilton hopes Apple TV+ documentary has a &#39;positive impact&#39;](https://appleinsider.com/articles/22/04/03/lewis-hamilton-hopes-apple-tv-documentary-has-a-positive-impact?utm_medium=rss)
+ - [A Kirby song cover just won a Grammy](https://www.theverge.com/2022/4/3/23009067/kirby-song-won-grammy-award-meta-knight-revenge)
+ - [Russian secret police details surface in delivery app data leak](https://appleinsider.com/articles/22/04/03/russian-secret-police-details-surface-in-delivery-app-data-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
