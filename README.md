@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Election day. We have another chance to end Orb\u00e1n&#39;s dictatorship. Fellow 9gaggers, cross your fingers today for my future, for Hungary&#39;s future.](http://9gag.com/gag/aWgv7WZ)
- - 🚯 [Honda&#39;s self balancing motorcycle](http://9gag.com/gag/aQXAvRw)
+ - 🚖 [He&#39;s out of line but he&#39;s right](http://9gag.com/gag/aM4nmGW)
+ - 🚯 [Random Russian opinion on Ukraine](http://9gag.com/gag/aog43rx)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
