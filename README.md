@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro vs older OnePlus phones: Should you upgrade?](https://www.androidauthority.com/oneplus-10-pro-vs-oneplus-upgrade-3147894/)
- - [6 Free Ways to Practice Sign Language Online](https://www.wired.com/story/how-to-learn-sign-language-free)
- - [Peptides on Stardust May Have Provided a Shortcut to Life](https://www.wired.com/story/peptides-on-stardust-may-have-provided-a-shortcut-to-life)<!-- TECH:END -->
+ - [What&#39;s the Matter? We Explain the New Smart Home Standard](https://www.wired.com/story/what-is-matter)
+ - [Trick Out Your Two-Wheeler With These 33 Bike Accessories](https://www.wired.com/story/best-bike-accessories)
+ - [Unpacking Terra&#39;s design for its algorithmic stablecoins and how partial collateralization using bitcoin reserves could impact its price stabilization mechanism &lpar;damsondao/P -- Mirror&rpar;](http://www.techmeme.com/220403/p2#a220403p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
