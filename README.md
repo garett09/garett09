@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks cool but I honestly can&#39;t figure out a good use for it...](http://9gag.com/gag/a31y4d8)
- - 🚯 [How much wisdom can you tell in 10 seconds?](http://9gag.com/gag/aLvGLQ5)
+ - 🚖 [David Bowie in 1999 about the impact of the Internet on society.](http://9gag.com/gag/adgnBKZ)
+ - 🚯 [The Good Ol&#39; Days](http://9gag.com/gag/a61nqXN)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
