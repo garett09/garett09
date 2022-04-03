@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat now lets you share YouTube videos as a sticker in your snap](https://www.theverge.com/2022/4/2/23007949/snapchat-share-youtube-videos-sticker)
- - [Proscenic P11 Smart Vacuum review: a budget-friendly stick vacuum](https://appleinsider.com/articles/22/04/02/proscenic-p11-smart-vacuum-review-a-budget-friendly-stick-vacuum?utm_medium=rss)
- - [Compared: Cricut Maker lineup vs Cricut Explore range](https://appleinsider.com/articles/22/04/02/compared-cricut-maker-lineup-vs-cricut-explore-range?utm_medium=rss)<!-- TECH:END -->
+ - [Deepki, a Parisian provider of an ESG data intelligence platform for real estate, raises a &amp;euro;150M Series C round co-led by One Peak and Highland Europe &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220402/p6#a220402p6)
+ - [How to connect AirPods to PS5](https://www.androidauthority.com/connect-airpods-ps5-3148293/)
+ - [How a Lack of Federal COVID Funds Could Impact Health Care     - CNET](https://www.cnet.com/health/medical/the-white-house-says-its-running-out-of-covid-funding/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
