@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring is my new favorite Alice in Wonderland adaptation](https://www.polygon.com/23003086/elden-ring-dark-souls-alice-in-wonderland-fromsoftware)
  - [Nightmare Reaper is a pretty dang cool roguelite looter-shooter retro FPS](https://www.pcgamer.com/nightmare-reaper-is-a-pretty-dang-cool-roguelite-looter-shooter-retro-fps)
- - [2001 Demo For Previously Unknown Gex Jr. Leaks Online](https://kotaku.com/gex-jr-demo-playable-unfinished-spin-off-for-kids-ps1-l-1848743416)
- - [Attack on Titan Final Season Part 3 will finally finish the anime series next year](https://www.polygon.com/23008802/attack-on-titan-final-season-part-3-announced-release-date-trailer-ending)<!-- GAME:END -->
+ - [2001 Demo For Previously Unknown Gex Jr. Leaks Online](https://kotaku.com/gex-jr-demo-playable-unfinished-spin-off-for-kids-ps1-l-1848743416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
