@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp beta trials limits on forwarding messages to group chats](https://appleinsider.com/articles/22/04/03/whatsapp-beta-trials-limits-on-forwarding-messages-to-group-chats?utm_medium=rss)
- - [Data leak from Russian delivery app shows dining habits of the secret police](https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food)
- - [OnePlus 10 Pro vs iPhone 13 Pro: Which one should you buy?](https://www.androidauthority.com/oneplus-10-pro-vs-iphone-13-pro-3147088/)<!-- TECH:END -->
+ - [Galaxy S22 vs. 5 Older Samsung Phones: Is Upgrading Worth It?     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-5-older-samsung-phones-is-an-upgrade-worth-it/#ftag=CAD590a51e)
+ - [Roku Ultra 2022: The 5 Things on My Wish List     - CNET](https://www.cnet.com/tech/home-entertainment/roku-ultra-2022-the-5-things-on-my-wish-list/#ftag=CAD590a51e)
+ - [Tesla Q1 Deliveries Up, in What Musk Calls an &#39;Exceptionally Difficult Quarter&#39;     - Roadshow](https://www.cnet.com/roadshow/news/tesla-q1-deliveries-up-in-what-musk-calls-an-exceptionally-difficult-quarter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
