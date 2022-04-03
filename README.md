@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a difference](http://9gag.com/gag/a71V0qr)
- - 🚯 [Why is this so true lol](http://9gag.com/gag/a31y0Y8)
+ - 🚖 [Ukrainian army at the recaptured Hostomel airport](http://9gag.com/gag/a21yyKe)
+ - 🚯 [How Angels looks like according to Bible](http://9gag.com/gag/aegVVNm)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
