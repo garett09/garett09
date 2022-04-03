@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: The glee of an MMO launch day](https://www.pcgamer.com/great-moments-in-pc-gaming-the-glee-of-an-mmo-launch-day)
  - [Building is back in Fortnite](https://www.pcgamer.com/building-is-back-in-fortnite)
- - [Game Pass &#39;family plan&#39; is reportedly in the works](https://www.pcgamer.com/game-pass-family-plan-is-reportedly-in-the-works)
- - [Shareware and gore: Remembering the original version of Blood](https://www.pcgamer.com/saturday-crapshoot-blood)<!-- GAME:END -->
+ - [Game Pass &#39;family plan&#39; is reportedly in the works](https://www.pcgamer.com/game-pass-family-plan-is-reportedly-in-the-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
