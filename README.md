@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWE WrestleMania 38: Results, Steve Austin Returns, Full Recap and Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-results-steve-austin-returns-full-recap-and-ratings/#ftag=CAD590a51e)
- - [Deepki, a Parisian provider of an ESG data intelligence platform for real estate, raises a &amp;euro;150M Series C round co-led by One Peak and Highland Europe &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220402/p6#a220402p6)
- - [How to connect AirPods to PS5](https://www.androidauthority.com/connect-airpods-ps5-3148293/)<!-- TECH:END -->
+ - [Interview with Ukraine&#39;s Deputy Minister of Digital Transformation, who says the government&#39;s crypto donation platform has raised $70M+ as of April 1 &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/220403/p1#a220403p1)
+ - [B&amp;H Photo launches 24-inch iMac sale with prices dipping to $1,169](https://appleinsider.com/articles/22/04/03/bh-photo-launches-24-inch-imac-sale-with-prices-dipping-to-1169?utm_medium=rss)
+ - [WWE WrestleMania 38: Results, Steve Austin Returns, Full Recap and Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-results-steve-austin-returns-full-recap-and-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
