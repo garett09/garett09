@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s out of line but he&#39;s right](http://9gag.com/gag/aM4nmGW)
- - 🚯 [Random Russian opinion on Ukraine](http://9gag.com/gag/aog43rx)
+ - 🚖 [There&#39;s nothing left to live for. Sri Lanka is long gone. Politicians has ruined our country and there&#39;s no coming back. Rajapaksha regiment has played their game very well.](http://9gag.com/gag/aZrQ103)
+ - 🚯 [Also laser raptors](http://9gag.com/gag/amgm1Ov)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
