@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks cool but I honestly can&#39;t figure out a good use for it...](http://9gag.com/gag/a31y4d8)
- - 🚯 [Mass Effect Trilogy](http://9gag.com/gag/aBnPnX1)
+ - 🚖 [Pleasuring a woman with your fingers is a good skill to learn](http://9gag.com/gag/aZrQr5V)
+ - 🚯 [Rocket league](http://9gag.com/gag/a918qxj)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
