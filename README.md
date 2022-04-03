@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Election day. We have another chance to end Orb\u00e1n&#39;s dictatorship. Fellow 9gaggers, cross your fingers today for my future, for Hungary&#39;s future.](http://9gag.com/gag/aWgv7WZ)
- - 🚯 [Men&#39;s Barber Shop 1956](http://9gag.com/gag/avAEywO)
+ - 🚖 [Don&#39;t mess with Tony Soprano](http://9gag.com/gag/a81DAo3)
+ - 🚯 [Wait a sec](http://9gag.com/gag/a21yMBe)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
