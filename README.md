@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They don&#39;t make em like they used to.](http://9gag.com/gag/a51GBoy)
- - 🚯 [Also laser raptors](http://9gag.com/gag/amgm1Ov)
+ - 🚖 [As a doctor graduated from `the good doctor` ... i can confirm this.](http://9gag.com/gag/amgmGqd)
+ - 🚯 [From one brother to another](http://9gag.com/gag/aQXAQww)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
