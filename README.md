@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian army at the recaptured Hostomel airport](http://9gag.com/gag/a21yyKe)
- - 🚯 [How Angels looks like according to Bible](http://9gag.com/gag/aegVVNm)
+ - 🚖 [Thats why you buy a tesla](http://9gag.com/gag/ay9WWGM)
+ - 🚯 [Got my mind f**ked for a second there](http://9gag.com/gag/aog44ZA)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
