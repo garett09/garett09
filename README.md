@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t mess with Tony Soprano](http://9gag.com/gag/a81DAo3)
- - 🚯 [Wait a sec](http://9gag.com/gag/a21yMBe)
+ - 🚖 [Villain origin story](http://9gag.com/gag/axBbWVn)
+ - 🚯 [Honda&#39;s self balancing motorcycle](http://9gag.com/gag/aQXAvRw)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
