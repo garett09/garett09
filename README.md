@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Beats Elden Ring Without Damage Of Any Kind](https://kotaku.com/elden-ring-moonveil-fromsoft-speedrun-no-damage-seki-tw-1848742257)
- - [Nickelodeon’s The-N.com created a blueprint for fandom, in the early 2000s](https://www.polygon.com/23005206/nickelodeon-the-n-degrassi-avatar-high-fans)
- - [Today&#39;s Wordle answer #288: Sunday, April 3](https://www.pcgamer.com/wordle-april-3-288)<!-- GAME:END -->
+ - [2001 Demo For Previously Unknown Gex Jr. Leaks Online](https://kotaku.com/gex-jr-demo-playable-unfinished-spin-off-for-kids-ps1-l-1848743416)
+ - [Attack on Titan Final Season Part 3 will finally finish the anime series next year](https://www.polygon.com/23008802/attack-on-titan-final-season-part-3-announced-release-date-trailer-ending)
+ - [Bridgerton and Our Flag Means Death agree: Let people have sex](https://www.polygon.com/23006926/bridgerton-x-our-flag-means-death-sex)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
