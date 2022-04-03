@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game Pass &#39;family plan&#39; is reportedly in the works](https://www.pcgamer.com/game-pass-family-plan-is-reportedly-in-the-works)
  - [Shareware and gore: Remembering the original version of Blood](https://www.pcgamer.com/saturday-crapshoot-blood)
- - [What&#39;s the next game you&#39;re looking forward to?](https://www.pcgamer.com/whats-the-next-game-youre-looking-forward-to)
- - [Patrick&#39;s Parabox is your new indie puzzle darling](https://www.pcgamer.com/patricks-parabox-is-your-new-indie-puzzle-darling)<!-- GAME:END -->
+ - [What&#39;s the next game you&#39;re looking forward to?](https://www.pcgamer.com/whats-the-next-game-youre-looking-forward-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
