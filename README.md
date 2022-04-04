@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Twitter’s content warnings when sharing sensitive images](https://www.theverge.com/23009802/twitter-content-warning-violence-sensitive-content-nudity-how-to)
- - [Gemini survey: nearly half of all crypto owners in the US, Latin America, and Asia Pacific purchased the digital assets for the first time in 2021 &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220404/p14#a220404p14)
- - [It’s hard to believe Samsung’s new, matte The Frame is actually a TV](https://www.theverge.com/2022/4/4/23009799/samsung-the-frame-2022-preview-matte-display-artwork)<!-- TECH:END -->
+ - [Russia says it will suspend ISS cooperation unless sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)
+ - [Ron Gilbert is making a new Monkey Island game, and it will be out this year](https://www.theverge.com/2022/4/4/23009951/ron-gilbert-return-to-monkey-island)
+ - [Former lead Apple engineer Justin Santamaria talks iMessage, FaceTime &amp; more on the AppleInsider podcast](https://appleinsider.com/articles/22/04/04/former-lead-apple-engineer-justin-santamaria-talks-imessage-facetime-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
