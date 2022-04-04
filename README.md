@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Fantasy Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video/#ftag=CAD590a51e)
  - [WWE WrestleMania 38 Sunday Results: Reigns wins, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-sunday-results-reigns-wins-full-recap-and-analysis/#ftag=CAD590a51e)
- - [Postpartum Exercises Are Coming to Apple Fitness Plus     - CNET](https://www.cnet.com/health/fitness/postpartum-exercises-are-coming-to-apple-fitness-plus/#ftag=CAD590a51e)
- - [Grammys 2022 Winners: The Full List of Results     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-winners-the-full-list-of-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Postpartum Exercises Are Coming to Apple Fitness Plus     - CNET](https://www.cnet.com/health/fitness/postpartum-exercises-are-coming-to-apple-fitness-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
