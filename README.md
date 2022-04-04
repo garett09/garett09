@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This woman making homemade ravioli\u2019s.](http://9gag.com/gag/a81Dw5V)
- - 🚯 [Relax, geez](http://9gag.com/gag/aOQDP63)
+ - 🚖 [A bit** always be a bit*h](http://9gag.com/gag/abgWQ6E)
+ - 🚯 [After seeing photos of what was left and been done in Bucha](http://9gag.com/gag/a51GqME)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
