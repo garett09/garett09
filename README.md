@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mailchimp discloses a breach that resulted in 319 accounts accessed and &quot;audience data&quot; stolen from 102 clients; phishing scams aimed at crypto users followed &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220404/p16#a220404p16)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple TV+ lands Harrison Ford for starring role in &#39;Shrinking&#39;](https://appleinsider.com/articles/22/04/04/apple-tv-lands-harrison-ford-for-starring-role-in-shrinking?utm_medium=rss)<!-- TECH:END -->
+ - [Hori’s Split Pad Pro Attachment for the Switch costs $20 too much](https://www.theverge.com/23007610/hori-split-pad-pro-attachment-nintendo-switch-price-features-review)
+ - [All hail Elden Ring’s ever-growing map](https://www.theverge.com/2022/4/4/23009950/elden-ring-giant-map-game-design-from-software)
+ - [Sky Mavis: Axie Infinity DAUs had fallen 45% from a November peak to 1.48M for the week ending March 28, a day before Ronin&#39;s ~$600M crypto hack was announced &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220404/p17#a220404p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
