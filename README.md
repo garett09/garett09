@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hori’s Split Pad Pro Attachment for the Switch costs $20 too much](https://www.theverge.com/23007610/hori-split-pad-pro-attachment-nintendo-switch-price-features-review)
- - [All hail Elden Ring’s ever-growing map](https://www.theverge.com/2022/4/4/23009950/elden-ring-giant-map-game-design-from-software)
- - [Sky Mavis: Axie Infinity DAUs had fallen 45% from a November peak to 1.48M for the week ending March 28, a day before Ronin&#39;s ~$600M crypto hack was announced &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220404/p17#a220404p17)<!-- TECH:END -->
+ - [Keychron Q3 Review: An excellent base for mechanical keyboard customization](https://appleinsider.com/articles/22/04/04/keychron-q3-review-an-excellent-base-for-mechanical-keyboard-customization?utm_medium=rss)
+ - [Apple’s AirPods are currently matching their lowest prices ever at Amazon and Walmart](https://www.theverge.com/good-deals/2022/4/4/23009765/apple-airpods-pro-lg-c1-oled-tv-macbook-air-laptop-sony-wf-1000xm3-earbuds-deal-sale)
+ - [Valve says it’s ‘ramping up’ Steam Deck shipments](https://www.theverge.com/2022/4/4/23010130/valve-steam-deck-shipments-order-emails)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
