@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars: The Skywalker Saga: The Kotaku Review](https://kotaku.com/lego-star-wars-skywalker-saga-review-kotaku-ps5-xbox-tt-1848746867)
- - [Octopus Pie comic creator nails teen feelings in her debut game Perfect Tides](https://www.polygon.com/23009993/perfect-tides-meredith-gran-interview-impressions)
- - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
+ - [Some Activision Blizzard studios will require proof of vax as worker walkout continues](https://www.polygon.com/23010343/activision-blizzard-vaccine-mandate-demands-abetterabk)
+ - [Reddit Is Hosting What May Be The Internet&#39;s Most Wholesome Fan War](https://kotaku.com/rplace-reddit-april-fools-elden-ring-hollow-knight-word-1848747948)
+ - [Norco’s mind-map mechanic is a great narrative tool in a stellar sci-fi adventure](https://www.polygon.com/23010358/norco-mind-map-narrative-indie-point-click-adventure-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
