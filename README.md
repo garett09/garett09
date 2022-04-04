@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why.](http://9gag.com/gag/angvxdo)
- - 🚯 [Let&#39;s not forget the South African government spent R15 million building this `stadium` &lpar; about \u20ac900 000&rpar;](http://9gag.com/gag/aegVVWm)
+ - 🚖 [Success](http://9gag.com/gag/aWgv20d)
+ - 🚯 [A Titanic model that sinks like the real incident](http://9gag.com/gag/awzLdwQ)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
