@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German startup lemon.markets, which makes APIs for developers to build stock trading features, raises a &amp;euro;15M seed led by Lakestar and Lightspeed &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220404/p2#a220404p2)
- - [WhatsApp could make it a little easier to start chats with unsaved numbers](https://www.androidauthority.com/whatsapp-unsaved-number-chat-bubble-3148584/)
- - [Apple was founded 46 years ago, on April 1, 1976](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)<!-- TECH:END -->
+ - [With Peloton Guide, the Fitness Company Bets Big on Body Tracking](https://www.wired.com/story/peloton-guide-body-tracking)
+ - [As Russia Plots Its Next Move, an AI Listens to the Chatter](https://www.wired.com/story/russia-ukraine-war-ai-surveillance)
+ - [How Explosions Actually Kill](https://www.wired.com/story/russia-ukraine-blast-trauma)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
