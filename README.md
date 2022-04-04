@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Sledgehammer stepped in to save Call of Duty](https://www.pcgamer.com/how-sledgehammer-stepped-in-to-save-call-of-duty)
- - [Today&#39;s Wordle answer #289: Monday, April 4](https://www.pcgamer.com/todays-wordle-answer-289-monday-april-4)
- - [Manga Publisher Shueisha Establishes Game Company](https://kotaku.com/manga-shueisha-games-publisher-japan-one-piece-naruto-b-1848744580)<!-- GAME:END -->
+ - [Here&#39;s when Lego Star Wars: The Skywalker Saga unlocks in your time zone](https://www.pcgamer.com/lego-star-wars-the-skywalker-saga-unlock-times)
+ - [He&#39;s done bourbon and NFTs, now it&#39;s time for Dr Disrespect: The Album](https://www.pcgamer.com/hes-done-bourbon-and-nfts-now-its-time-for-dr-disrespect-the-album)
+ - [Improved RDNA 2 GPUs rumoured to arrive in new black garb early next month](https://www.pcgamer.com/rdna-2-refresh-rx-6950-xt-gpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
