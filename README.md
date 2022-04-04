@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Amazon making it&#39;s own 3D printer line as it bans the sale of other brands](https://www.pcgamer.com/amazon-making-its-own-3d-printer-line-as-it-bans-the-sale-of-other-brands)
  - [Intel Arc GPUs will support AV1 encode and decode](https://www.pcgamer.com/intel-arc-gpus-will-support-av1-encode-and-decode)
- - [Steam Deck software could come to other console form PCs like OneXPlayer](https://www.pcgamer.com/steam-deck-software-could-come-to-other-console-form-pcs-like-onexplayer)
- - [Half-Life: Alyx mod Levitation promises a 4-5 hour campaign](https://www.pcgamer.com/half-life-alyx-mod-levitation-promises-a-4-5-hour-campaign)<!-- GAME:END -->
+ - [Steam Deck software could come to other console form PCs like OneXPlayer](https://www.pcgamer.com/steam-deck-software-could-come-to-other-console-form-pcs-like-onexplayer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
