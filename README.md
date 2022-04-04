@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro-Russia Rally in Berlin today. &lpar;Don&#39;t downvote me pls, I just wanna report some real news&rpar;](http://9gag.com/gag/aWgvnAq)
- - 🚯 [E. coli cases linked to Buitoni&#39;s Fraich\u2019Up pizzas &lpar;Nestl\u00e9&rpar;, already 2 children dead, pictures of the factory leaked](http://9gag.com/gag/ay9W6mM)
+ - 🚖 [Thats why you buy a tesla](http://9gag.com/gag/ay9WWGM)
+ - 🚯 [Food is my plus 1](http://9gag.com/gag/aM4nvrV)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
