@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Activision Blizzard studios will require proof of vax as worker walkout continues](https://www.polygon.com/23010343/activision-blizzard-vaccine-mandate-demands-abetterabk)
- - [Reddit Is Hosting What May Be The Internet&#39;s Most Wholesome Fan War](https://kotaku.com/rplace-reddit-april-fools-elden-ring-hollow-knight-word-1848747948)
- - [Norco’s mind-map mechanic is a great narrative tool in a stellar sci-fi adventure](https://www.polygon.com/23010358/norco-mind-map-narrative-indie-point-click-adventure-game)<!-- GAME:END -->
+ - [AMD continues its shopping spree by acquiring Pensando for $1.9B](https://www.pcgamer.com/amd-continues-its-shopping-spree-by-acquiring-pensando-for-dollar19b)
+ - [Morbius director thinks the living vampire could beat Doctor Strange](https://www.polygon.com/23010398/morbius-daniel-espinosa-vampire-doctor-strange)
+ - [Stardew Valley creator isn&#39;t intimidated by the sophomore slump](https://www.pcgamer.com/stardew-valley-creator-isnt-intimidated-by-the-sophomore-slump)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
