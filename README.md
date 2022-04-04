@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Photo launches 24-inch iMac sale with prices dipping to $1,169](https://appleinsider.com/articles/22/04/03/bh-photo-launches-24-inch-imac-sale-with-prices-dipping-to-1169?utm_medium=rss)
- - [Epic’s new RealityScan app can make 3D models from smartphone photos](https://www.theverge.com/2022/4/4/23010382/epic-games-realityscan-app-3d-models-smartphone-photos)
- - [How to delete your eBay account](https://www.androidauthority.com/delete-ebay-account-3148897/)<!-- TECH:END -->
+ - [Movies and shows like Severance on Apple TV Plus](https://www.androidauthority.com/movies-shows-like-severance-apple-tv-plus-3148787/)
+ - [These are the words Amazon’s planned employee chat app reportedly won’t let you say](https://www.theverge.com/2022/4/4/23010608/amazon-worker-social-app-banned-words-union-living-wage)
+ - [Hulu rolls out support for SharePlay on iPad, iPhone, and Apple TV](https://appleinsider.com/articles/22/04/04/hulu-gains-facetime-shareplay-support-in-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
