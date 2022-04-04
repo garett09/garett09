@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Sledgehammer stepped in to save Call of Duty](https://www.pcgamer.com/how-sledgehammer-stepped-in-to-save-call-of-duty)
  - [Today&#39;s Wordle answer #289: Monday, April 4](https://www.pcgamer.com/todays-wordle-answer-289-monday-april-4)
- - [Manga Publisher Shueisha Establishes Game Company](https://kotaku.com/manga-shueisha-games-publisher-japan-one-piece-naruto-b-1848744580)
- - [Intel inadvertently leaks the details of its flagship Arc GPU](https://www.pcgamer.com/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu)<!-- GAME:END -->
+ - [Manga Publisher Shueisha Establishes Game Company](https://kotaku.com/manga-shueisha-games-publisher-japan-one-piece-naruto-b-1848744580)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
