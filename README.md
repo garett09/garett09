@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco may collaborate with another American fantasy novelist after George R. R. Martin](https://www.pcgamer.com/bandai-namco-may-collaborate-with-another-american-fantasy-novelist-after-george-r-r-martin)
- - [This guy beat Elden Ring without ever attacking](https://www.pcgamer.com/this-guy-beat-elden-ring-without-ever-attacking)
- - [World of Warcraft&#39;s next expansion may be dragon-focused according to a leak](https://www.pcgamer.com/world-of-warcrafts-next-expansion-may-be-dragon-focused-according-to-a-leak)<!-- GAME:END -->
+ - [Court documents may explain the disappearance of Paranoia: Happiness is Mandatory](https://www.pcgamer.com/court-documents-may-explain-the-disappearance-of-paranoia-happiness-is-mandatory)
+ - [Five new Steam games you probably missed &lpar;April 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-4-2022)
+ - [Bandai Namco may collaborate with another American fantasy novelist after George R. R. Martin](https://www.pcgamer.com/bandai-namco-may-collaborate-with-another-american-fantasy-novelist-after-george-r-r-martin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
