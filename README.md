@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel inadvertently leaks the details of its flagship Arc GPU](https://www.pcgamer.com/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu)
  - [Phishing emails are still a big danger to PC users, even in 2022](https://www.pcgamer.com/phishing-emails-are-still-a-big-danger-to-pc-users-even-in-2022)
- - [Intel Arc GPUs will support AV1 encode and decode](https://www.pcgamer.com/intel-arc-gpus-will-support-av1-encode-and-decode)
- - [Steam Deck software could come to other console form PCs like OneXPlayer](https://www.pcgamer.com/steam-deck-software-could-come-to-other-console-form-pcs-like-onexplayer)<!-- GAME:END -->
+ - [Intel Arc GPUs will support AV1 encode and decode](https://www.pcgamer.com/intel-arc-gpus-will-support-av1-encode-and-decode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
