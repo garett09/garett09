@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: This is your fast charging sweet spot](https://www.androidauthority.com/fast-charging-speed-poll-results-3148558/)
- - [US State Department announces the Bureau of Cyberspace and Digital Policy, starting with 60+ staff and plans to add 30 more &lpar;Aaron Schaffer/Washington Post&rpar;](http://www.techmeme.com/220404/p11#a220404p11)
- - [Microsoft cozies up to Android with a dedicated dev team](https://www.androidauthority.com/microsoft-android-dev-team-3148327/)<!-- TECH:END -->
+ - [How to use Twitter’s content warnings when sharing sensitive images](https://www.theverge.com/23009802/twitter-content-warning-violence-sensitive-content-nudity-how-to)
+ - [Gemini survey: nearly half of all crypto owners in the US, Latin America, and Asia Pacific purchased the digital assets for the first time in 2021 &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220404/p14#a220404p14)
+ - [It’s hard to believe Samsung’s new, matte The Frame is actually a TV](https://www.theverge.com/2022/4/4/23009799/samsung-the-frame-2022-preview-matte-display-artwork)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
