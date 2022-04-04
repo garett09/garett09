@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [41 days apart](http://9gag.com/gag/adgnb7M)
- - 🚯 [I bet he is](http://9gag.com/gag/aRrzRZG)
+ - 🚖 [I bet he is](http://9gag.com/gag/aRrzRZG)
+ - 🚯 [She built a bedroom for the dog under the stairs.](http://9gag.com/gag/aNPVqmG)
  - 🚯 [Dance like nobody&#39;s watching... Wait, WTF?!](http://9gag.com/gag/axBbm3b)<!-- MEMES:END -->
 
 --- 
