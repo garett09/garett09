@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian press at work: cameraman goes first, then the soldier looking for landmines. This country is a joke](http://9gag.com/gag/a0Z6OoX)
- - 🚯 [I was there, 3000 years ago....](http://9gag.com/gag/azeG4xZ)
- - 🚯 [A bit** always be a bit*h](http://9gag.com/gag/abgWQ6E)<!-- MEMES:END -->
+ - 🚖 [`Yes, we want to be as rich as they are in the West. No, we don&#39;t want to have the safety rules as they have in the West.`](http://9gag.com/gag/aOQDp4N)
+ - 🚯 [Look what I leaned in school today Dad!](http://9gag.com/gag/aRrzRg2)
+ - 🚯 [I was there, 3000 years ago....](http://9gag.com/gag/azeG4xZ)<!-- MEMES:END -->
 
 --- 
 
