@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s April Pixel update includes wireless charging fixes for Pixel 6 phones](https://www.theverge.com/2022/4/4/23010237/google-pixel-6-pro-april-android-12l-update)
- - [Former ByteDance employees say the company scraped Instagram, Snap, and others to make fake accounts on TikTok predecessor Flipagram, later renamed Vigo Video &lpar;Emily Baker-White/BuzzFeed News&rpar;](http://www.techmeme.com/220404/p19#a220404p19)
- - [How to see sold items on eBay](https://www.androidauthority.com/see-sold-items-ebay-3148811/)<!-- TECH:END -->
+ - [Apple, Netflix bail out of bidding war for Will Smith biopic amid controversy](https://appleinsider.com/articles/22/04/04/apple-tv-halts-bidding-war-for-will-smith-biopic-amid-controversy?utm_medium=rss)
+ - [Elon Musk Takes 9.2% Stake in Twitter     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-takes-9-2-stake-in-twitter/#ftag=CAD590a51e)
+ - [Google’s April Pixel update includes wireless charging fixes for Pixel 6 phones](https://www.theverge.com/2022/4/4/23010237/google-pixel-6-pro-april-android-12l-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
