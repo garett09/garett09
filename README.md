@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Monkey Island game Return to Monkey Island arriving in 2022 from original creator Ron Gilbert](https://www.polygon.com/gaming/23010107/return-to-monkey-island-release-2022)
- - [Military MMO Dev Wargaming Cuts Ties With Belarus, Russia Over Invasion works](https://kotaku.com/world-tanks-russia-invasion-boycott-fundraise-casualtie-1848746116)
- - [NFL Star&#39;s Version Of Water Cup Challenge Now In Running For GOTY 2022](https://kotaku.com/juju-smith-schuster-tiktok-nfl-water-cup-challenge-jeng-1848745696)<!-- GAME:END -->
+ - [Sci-fi RPG Citizen Sleeper set for May 5th multi-platform release](https://www.polygon.com/gaming/23010207/citizen-sleeper-release-xbox-switch-pc-in-other-waters)
+ - [Players Stock Up On PS Now Subs To Save Big On New PS Plus](https://kotaku.com/playstation-plus-premium-ps-now-one-year-subscription-d-1848746564)
+ - [Gamer says Razer headset saved their life from a stray bullet](https://www.pcgamer.com/razer-headset-bullet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
