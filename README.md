@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An iPhone subscription plan could be coming &lpar;Updated: You can’t keep the phone&rpar;](https://www.androidauthority.com/iphone-subscription-program-3144213/)
  - [These LG phones are still getting Android 12 this quarter](https://www.androidauthority.com/lg-android-12-q2-2022-3145852/)
- - [Grammys 2022 Winners: The Full List of Results     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-winners-the-full-list-of-results/#ftag=CAD590a51e)
- - [The Best Fantasy TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grammys 2022 Winners: The Full List of Results     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-winners-the-full-list-of-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
