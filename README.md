@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Success](http://9gag.com/gag/aWgv20d)
- - 🚯 [A Titanic model that sinks like the real incident](http://9gag.com/gag/awzLdwQ)
+ - 🚖 [Try a recipe for a change.](http://9gag.com/gag/aDDZV7B)
+ - 🚯 [Archive footage from the worlds most important competition](http://9gag.com/gag/a81D25p)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
