@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia says it will suspend ISS cooperation unless sanctions are lifted](https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa)
- - [Ron Gilbert is making a new Monkey Island game, and it will be out this year](https://www.theverge.com/2022/4/4/23009951/ron-gilbert-return-to-monkey-island)
- - [Former lead Apple engineer Justin Santamaria talks iMessage, FaceTime &amp; more on the AppleInsider podcast](https://appleinsider.com/articles/22/04/04/former-lead-apple-engineer-justin-santamaria-talks-imessage-facetime-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Mailchimp discloses a breach that resulted in 319 accounts accessed and &quot;audience data&quot; stolen from 102 clients; phishing scams aimed at crypto users followed &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220404/p16#a220404p16)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple TV+ lands Harrison Ford for starring role in &#39;Shrinking&#39;](https://appleinsider.com/articles/22/04/04/apple-tv-lands-harrison-ford-for-starring-role-in-shrinking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
