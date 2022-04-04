@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After seeing photos of what was left and been done in Bucha](http://9gag.com/gag/a51GqME)
- - 🚯 [`Yes, we want to be as rich as they are in the West. No, we don&#39;t want to have the safety rules as they have in the West.`](http://9gag.com/gag/aOQDp4N)
- - 🚯 [Look what I leaned in school today Dad!](http://9gag.com/gag/aRrzRg2)<!-- MEMES:END -->
+ - 🚖 [Look what I leaned in school today Dad!](http://9gag.com/gag/aRrzRg2)
+ - 🚯 [Still the most satisfying on screen asswhoopin...ever](http://9gag.com/gag/aBnP4QD)
+ - 🚯 [41 days apart](http://9gag.com/gag/adgnb7M)<!-- MEMES:END -->
 
 --- 
 
