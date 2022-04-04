@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody Saves the World coming to PS5 &amp; PS4, along with local co-op](https://blog.playstation.com/2022/04/04/nobody-saves-the-world-coming-to-ps5-ps4-along-with-local-co-op/)
- - [Nobody Saves the World coming to PS5 &amp; PS4, along with local co-op](https://blog.playstation.com/2022/04/04/nobody-saves-the-world-coming-to-ps5-ps4-along-with-local-co-op/)
- - [Celebrate One Million Pirate Legends with Sea of Thieves Legends Week](https://news.xbox.com/en-us/2022/04/04/celebrate-sea-of-thieves-legends-week/)<!-- GAME:END -->
+ - [PlayStation Now games for April: Outer Wilds, WRC 10 FIA World Rally Championship, Journey to the Savage Planet](https://blog.playstation.com/2022/04/04/playstation-now-games-for-april-outer-wilds-wrc-10-fia-world-rally-championship-journey-to-the-savage-planet/)
+ - [PlayStation Now games for April: Outer Wilds, WRC 10 FIA World Rally Championship, Journey to the Savage Planet](https://blog.playstation.com/2022/04/04/playstation-now-games-for-april-outer-wilds-wrc-10-fia-world-rally-championship-journey-to-the-savage-planet/)
+ - [Announcing Luminous Night, Minecraft Dungeons’ Second Seasonal Adventure](https://news.xbox.com/en-us/2022/04/04/announcing-luminous-night-minecraft-dungeons-second-seasonal-adventure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
