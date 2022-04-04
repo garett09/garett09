@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lewis Hamilton hopes Apple TV+ documentary has a &#39;positive impact&#39;](https://appleinsider.com/articles/22/04/03/lewis-hamilton-hopes-apple-tv-documentary-has-a-positive-impact?utm_medium=rss)
- - [A Kirby song cover just won a Grammy](https://www.theverge.com/2022/4/3/23009067/kirby-song-won-grammy-award-meta-knight-revenge)
- - [Russian secret police details surface in delivery app data leak](https://appleinsider.com/articles/22/04/03/russian-secret-police-details-surface-in-delivery-app-data-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Grammys 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-live-updates-all-the-winners/#ftag=CAD590a51e)
+ - [WWE WrestleMania 38: Night 2 Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-night-2-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [NASA delays dress rehearsal of new megarocket](https://www.theverge.com/2022/4/3/23009017/nasa-dress-rehearsal-delay-artemis-space-launch-system-megarocket)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
