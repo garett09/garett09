@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: In A Galaxy Far, Far Away... And Filled With Lego Bricks](https://kotaku.com/the-week-in-games-in-a-galaxy-far-far-away-and-fil-1848743913)
- - [Logan Paul&#39;s Latest Stunt: Paying $6 Million For Rare Pikachu Card And Wearing It To WrestleMania](https://kotaku.com/logan-pauls-latest-stunt-paying-6-million-for-rare-pi-1848743633)
- - [Elden Ring is my new favorite Alice in Wonderland adaptation](https://www.polygon.com/23003086/elden-ring-dark-souls-alice-in-wonderland-fromsoftware)<!-- GAME:END -->
+ - [Bandai Namco may collaborate with another American fantasy novelist after George R. R. Martin](https://www.pcgamer.com/bandai-namco-may-collaborate-with-another-american-fantasy-novelist-after-george-r-r-martin)
+ - [This guy beat Elden Ring without ever attacking](https://www.pcgamer.com/this-guy-beat-elden-ring-without-ever-attacking)
+ - [World of Warcraft&#39;s next expansion may be dragon-focused according to a leak](https://www.pcgamer.com/world-of-warcrafts-next-expansion-may-be-dragon-focused-according-to-a-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
