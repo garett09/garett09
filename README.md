@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Half-Life: Alyx mod Levitation promises a 4-5 hour campaign](https://www.pcgamer.com/half-life-alyx-mod-levitation-promises-a-4-5-hour-campaign)
  - [Court documents may explain the disappearance of Paranoia: Happiness is Mandatory](https://www.pcgamer.com/court-documents-may-explain-the-disappearance-of-paranoia-happiness-is-mandatory)
- - [Five new Steam games you probably missed &lpar;April 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-4-2022)
- - [Bandai Namco may collaborate with another American fantasy novelist after George R. R. Martin](https://www.pcgamer.com/bandai-namco-may-collaborate-with-another-american-fantasy-novelist-after-george-r-r-martin)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-4-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
