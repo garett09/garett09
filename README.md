@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Peloton Guide, the Fitness Company Bets Big on Body Tracking](https://www.wired.com/story/peloton-guide-body-tracking)
- - [As Russia Plots Its Next Move, an AI Listens to the Chatter](https://www.wired.com/story/russia-ukraine-war-ai-surveillance)
- - [How Explosions Actually Kill](https://www.wired.com/story/russia-ukraine-blast-trauma)<!-- TECH:END -->
+ - [Spain plans an &amp;euro;11B investment to develop microchips and semiconductors, aiming to bolster its economic recovery and reduce its reliance on imported technology &lpar;Alonso Soto/Bloomberg&rpar;](http://www.techmeme.com/220404/p7#a220404p7)
+ - [How to get rain notifications in the Weather app in iOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-get-rain-notifications-in-the-weather-app-in-ios-15?utm_medium=rss)
+ - [Is the cheaper OnePlus 10 Pro price tag worth the trade-offs?](https://www.androidauthority.com/oneplus-10-pro-price-trade-offs-3147914/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
