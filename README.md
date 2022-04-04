@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me as a Hungarian today](http://9gag.com/gag/azeGZXj)
- - 🚯 [Still the most satisfying on screen asswhoopin...ever](http://9gag.com/gag/aBnP4QD)
- - 🚯 [Oh boy](http://9gag.com/gag/azeGYBz)<!-- MEMES:END -->
+ - 🚖 [Russian press at work: cameraman goes first, then the soldier looking for landmines. This country is a joke](http://9gag.com/gag/a0Z6OoX)
+ - 🚯 [I was there, 3000 years ago....](http://9gag.com/gag/azeG4xZ)
+ - 🚯 [A bit** always be a bit*h](http://9gag.com/gag/abgWQ6E)<!-- MEMES:END -->
 
 --- 
 
