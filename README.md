@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammys 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-live-updates-all-the-winners/#ftag=CAD590a51e)
- - [WWE WrestleMania 38: Night 2 Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-night-2-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [NASA delays dress rehearsal of new megarocket](https://www.theverge.com/2022/4/3/23009017/nasa-dress-rehearsal-delay-artemis-space-launch-system-megarocket)<!-- TECH:END -->
+ - [As the first cases involving NFTs hit court dockets, a look at issues in play including outright scams, gaps in securities regulation, and contract enforcement &lpar;Jessica Rizzo/Wired&rpar;](http://www.techmeme.com/220403/p5#a220403p5)
+ - [WWE WrestleMania 38 Sunday: Results, Live Updates, Highlights and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-sunday-results-live-updates-highlights-and-match-ratings/#ftag=CAD590a51e)
+ - [Grammys 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-live-updates-all-the-winners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
