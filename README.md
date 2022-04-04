@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple was founded 46 years ago, on April 1, 1976](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [How Brad Smith helps Microsoft avoid government scrutiny by being amicable with regulators while directing negative attention at the company&#39;s Big Tech rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220404/p1#a220404p1)
- - [An iPhone subscription plan could be coming &lpar;Updated: You can’t keep the phone&rpar;](https://www.androidauthority.com/iphone-subscription-program-3144213/)<!-- TECH:END -->
+ - [German startup lemon.markets, which makes APIs for developers to build stock trading features, raises a &amp;euro;15M seed led by Lakestar and Lightspeed &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220404/p2#a220404p2)
+ - [WhatsApp could make it a little easier to start chats with unsaved numbers](https://www.androidauthority.com/whatsapp-unsaved-number-chat-bubble-3148584/)
+ - [Apple was founded 46 years ago, on April 1, 1976](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
