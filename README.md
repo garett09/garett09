@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Samurai Rabbit: The Usagi Chronicles will premiere this April](https://www.polygon.com/23010305/samurai-rabbit-the-usagi-chronicles-netflix-show-release-date-april-28)
  - [Sci-fi RPG Citizen Sleeper set for May 5th multi-platform release](https://www.polygon.com/gaming/23010207/citizen-sleeper-release-xbox-switch-pc-in-other-waters)
- - [Players Stock Up On PS Now Subs To Save Big On New PS Plus](https://kotaku.com/playstation-plus-premium-ps-now-one-year-subscription-d-1848746564)
- - [Gamer says Razer headset saved their life from a stray bullet](https://www.pcgamer.com/razer-headset-bullet)<!-- GAME:END -->
+ - [Players Stock Up On PS Now Subs To Save Big On New PS Plus](https://kotaku.com/playstation-plus-premium-ps-now-one-year-subscription-d-1848746564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
