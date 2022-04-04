@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An iPhone subscription plan could be coming &lpar;Updated: You can’t keep the phone&rpar;](https://www.androidauthority.com/iphone-subscription-program-3144213/)
- - [These LG phones are still getting Android 12 this quarter](https://www.androidauthority.com/lg-android-12-q2-2022-3145852/)
- - [Grammys 2022 Winners: The Full List of Results     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-winners-the-full-list-of-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple was founded 46 years ago, on April 1, 1976](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
+ - [How Brad Smith helps Microsoft avoid government scrutiny by being amicable with regulators while directing negative attention at the company&#39;s Big Tech rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220404/p1#a220404p1)
+ - [An iPhone subscription plan could be coming &lpar;Updated: You can’t keep the phone&rpar;](https://www.androidauthority.com/iphone-subscription-program-3144213/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
