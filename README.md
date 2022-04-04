@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the first cases involving NFTs hit court dockets, a look at issues in play including outright scams, gaps in securities regulation, and contract enforcement &lpar;Jessica Rizzo/Wired&rpar;](http://www.techmeme.com/220403/p5#a220403p5)
- - [WWE WrestleMania 38 Sunday: Results, Live Updates, Highlights and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-sunday-results-live-updates-highlights-and-match-ratings/#ftag=CAD590a51e)
- - [Grammys 2022 Live Updates: All the Winners     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-live-updates-all-the-winners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WWE WrestleMania 38 Sunday Results: Reigns wins, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-38-sunday-results-reigns-wins-full-recap-and-analysis/#ftag=CAD590a51e)
+ - [Postpartum Exercises Are Coming to Apple Fitness Plus     - CNET](https://www.cnet.com/health/fitness/postpartum-exercises-are-coming-to-apple-fitness-plus/#ftag=CAD590a51e)
+ - [Grammys 2022 Winners: The Full List of Results     - CNET](https://www.cnet.com/culture/entertainment/grammys-2022-winners-the-full-list-of-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
