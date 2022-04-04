@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why it is called monitor lizard? It doesnt look square](http://9gag.com/gag/aBnPOZN)
- - 🚯 [Oh boy](http://9gag.com/gag/azeGYBz)
- - 🚯 [Whenever it rains while the sun is still out, we Filipinos usually say `A Tikbalang is getting married.` Tikbalang is like a reverse centaur for us. What&#39;s your weird common belief in your country?](http://9gag.com/gag/aOQDRoE)<!-- MEMES:END -->
+ - 🚖 [Me as a Hungarian today](http://9gag.com/gag/azeGZXj)
+ - 🚯 [Still the most satisfying on screen asswhoopin...ever](http://9gag.com/gag/aBnP4QD)
+ - 🚯 [Oh boy](http://9gag.com/gag/azeGYBz)<!-- MEMES:END -->
 
 --- 
 
