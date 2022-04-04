@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Now games for April: Outer Wilds, WRC 10 FIA World Rally Championship, Journey to the Savage Planet](https://blog.playstation.com/2022/04/04/playstation-now-games-for-april-outer-wilds-wrc-10-fia-world-rally-championship-journey-to-the-savage-planet/)
- - [PlayStation Now games for April: Outer Wilds, WRC 10 FIA World Rally Championship, Journey to the Savage Planet](https://blog.playstation.com/2022/04/04/playstation-now-games-for-april-outer-wilds-wrc-10-fia-world-rally-championship-journey-to-the-savage-planet/)
- - [Announcing Luminous Night, Minecraft Dungeons’ Second Seasonal Adventure](https://news.xbox.com/en-us/2022/04/04/announcing-luminous-night-minecraft-dungeons-second-seasonal-adventure/)<!-- GAME:END -->
+ - [NFL Star&#39;s Version Of Water Cup Challenge Now In Running For GOTY 2022](https://kotaku.com/juju-smith-schuster-tiktok-nfl-water-cup-challenge-jeng-1848745696)
+ - [The Xbox Mentoring Program Kicks Off: Register Now](https://news.xbox.com/en-us/2022/04/04/xbox-mentoring-program-kicks-off/)
+ - [Kirby Is Officially The Only Nintendo Character To Win A Grammy Award](https://kotaku.com/kirby-grammy-award-8-bit-big-band-meta-knights-revenge-1848745709)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
