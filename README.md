@@ -197,7 +197,7 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why you buy a tesla](http://9gag.com/gag/ay9WWGM)
+ - 🚖 [My wife straight up savagely told me the truth\u2026my life is lie](http://9gag.com/gag/aBnPEgQ)
  - 🚯 [Food is my plus 1](http://9gag.com/gag/aM4nvrV)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
