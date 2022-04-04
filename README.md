@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain plans an &amp;euro;11B investment to develop microchips and semiconductors, aiming to bolster its economic recovery and reduce its reliance on imported technology &lpar;Alonso Soto/Bloomberg&rpar;](http://www.techmeme.com/220404/p7#a220404p7)
- - [How to get rain notifications in the Weather app in iOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-get-rain-notifications-in-the-weather-app-in-ios-15?utm_medium=rss)
- - [Is the cheaper OnePlus 10 Pro price tag worth the trade-offs?](https://www.androidauthority.com/oneplus-10-pro-price-trade-offs-3147914/)<!-- TECH:END -->
+ - [Google offers employees free electric scooters to get them back to the office](https://www.theverge.com/2022/4/4/23004667/google-unagi-electric-scooter-subscription-return-office)
+ - [Eve&#39;s Tim Both discusses Matter&#39;s delayed launch on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/04/eves-tim-both-discusses-matters-delayed-launch-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Amazon&#39;s plans for four large French distribution centres have been blocked or abandoned in the past six months over environmental and political concerns &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/220404/p10#a220404p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
