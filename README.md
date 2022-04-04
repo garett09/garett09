@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare to become a Major-Leaguer in MLB The Show 22, out tomorrow](https://blog.playstation.com/2022/04/04/prepare-to-become-a-major-leaguer-in-mlb-the-show-22-out-tomorrow/)
- - [Prepare to become a Major-Leaguer in MLB The Show 22, out tomorrow](https://blog.playstation.com/2022/04/04/prepare-to-become-a-major-leaguer-in-mlb-the-show-22-out-tomorrow/)
- - [He&#39;s done bourbon and NFTs, now it&#39;s time for Dr Disrespect: The Album](https://www.pcgamer.com/hes-done-bourbon-and-nfts-now-its-time-for-dr-disrespect-the-album)<!-- GAME:END -->
+ - [Nobody Saves the World coming to PS5 &amp; PS4, along with local co-op](https://blog.playstation.com/2022/04/04/nobody-saves-the-world-coming-to-ps5-ps4-along-with-local-co-op/)
+ - [Nobody Saves the World coming to PS5 &amp; PS4, along with local co-op](https://blog.playstation.com/2022/04/04/nobody-saves-the-world-coming-to-ps5-ps4-along-with-local-co-op/)
+ - [Celebrate One Million Pirate Legends with Sea of Thieves Legends Week](https://news.xbox.com/en-us/2022/04/04/celebrate-sea-of-thieves-legends-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
