@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Manga Publisher Shueisha Establishes Game Company](https://kotaku.com/manga-shueisha-games-publisher-japan-one-piece-naruto-b-1848744580)
  - [Intel inadvertently leaks the details of its flagship Arc GPU](https://www.pcgamer.com/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu)
- - [Phishing emails are still a big danger to PC users, even in 2022](https://www.pcgamer.com/phishing-emails-are-still-a-big-danger-to-pc-users-even-in-2022)
- - [Intel Arc GPUs will support AV1 encode and decode](https://www.pcgamer.com/intel-arc-gpus-will-support-av1-encode-and-decode)<!-- GAME:END -->
+ - [Phishing emails are still a big danger to PC users, even in 2022](https://www.pcgamer.com/phishing-emails-are-still-a-big-danger-to-pc-users-even-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
