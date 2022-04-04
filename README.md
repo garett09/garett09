@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Lego Star Wars: The Skywalker Saga unlocks in your time zone](https://www.pcgamer.com/lego-star-wars-the-skywalker-saga-unlock-times)
- - [He&#39;s done bourbon and NFTs, now it&#39;s time for Dr Disrespect: The Album](https://www.pcgamer.com/hes-done-bourbon-and-nfts-now-its-time-for-dr-disrespect-the-album)
- - [Improved RDNA 2 GPUs rumoured to arrive in new black garb early next month](https://www.pcgamer.com/rdna-2-refresh-rx-6950-xt-gpu)<!-- GAME:END -->
+ - [Prepare to become a Major-Leaguer in MLB The Show 22, out tomorrow](https://blog.playstation.com/2022/04/04/prepare-to-become-a-major-leaguer-in-mlb-the-show-22-out-tomorrow/)
+ - [Prepare to become a Major-Leaguer in MLB The Show 22, out tomorrow](https://blog.playstation.com/2022/04/04/prepare-to-become-a-major-leaguer-in-mlb-the-show-22-out-tomorrow/)
+ - [He&#39;s done bourbon and NFTs, now it&#39;s time for Dr Disrespect: The Album](https://www.pcgamer.com/hes-done-bourbon-and-nfts-now-its-time-for-dr-disrespect-the-album)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
