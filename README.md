@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A bit** always be a bit*h](http://9gag.com/gag/abgWQ6E)
- - 🚯 [After seeing photos of what was left and been done in Bucha](http://9gag.com/gag/a51GqME)
+ - 🚖 [Russian BMP-2 IFV rolling into view and firing several rounds into a civilian sedan \u2014 without any apparent provocation. The couple in the car died instantly. *Dafaq is wrong with this people](http://9gag.com/gag/amgmVPy)
+ - 🚯 [It do be like that](http://9gag.com/gag/a51Gj1y)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
