@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My wife straight up savagely told me the truth\u2026my life is lie](http://9gag.com/gag/aBnPEgQ)
- - 🚯 [Food is my plus 1](http://9gag.com/gag/aM4nvrV)
+ - 🚖 [I started painting totally out of the blue, this is my 2nd painting ever. It&#39;s acrylic on canvas &amp; I have no idea how am I able to do this, but it helps my anxiety big time!](http://9gag.com/gag/aqGQQdL)
+ - 🚯 [Sus with extra gravy](http://9gag.com/gag/aRrzoPG)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
