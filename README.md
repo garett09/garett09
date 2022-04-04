@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Netflix bail out of bidding war for Will Smith biopic amid controversy](https://appleinsider.com/articles/22/04/04/apple-tv-halts-bidding-war-for-will-smith-biopic-amid-controversy?utm_medium=rss)
- - [Elon Musk Takes 9.2% Stake in Twitter     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-takes-9-2-stake-in-twitter/#ftag=CAD590a51e)
- - [Google’s April Pixel update includes wireless charging fixes for Pixel 6 phones](https://www.theverge.com/2022/4/4/23010237/google-pixel-6-pro-april-android-12l-update)<!-- TECH:END -->
+ - [B&amp;H Photo launches 24-inch iMac sale with prices dipping to $1,169](https://appleinsider.com/articles/22/04/03/bh-photo-launches-24-inch-imac-sale-with-prices-dipping-to-1169?utm_medium=rss)
+ - [Epic’s new RealityScan app can make 3D models from smartphone photos](https://www.theverge.com/2022/4/4/23010382/epic-games-realityscan-app-3d-models-smartphone-photos)
+ - [How to delete your eBay account](https://www.androidauthority.com/delete-ebay-account-3148897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
