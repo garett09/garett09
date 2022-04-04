@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q3 Review: An excellent base for mechanical keyboard customization](https://appleinsider.com/articles/22/04/04/keychron-q3-review-an-excellent-base-for-mechanical-keyboard-customization?utm_medium=rss)
- - [Apple’s AirPods are currently matching their lowest prices ever at Amazon and Walmart](https://www.theverge.com/good-deals/2022/4/4/23009765/apple-airpods-pro-lg-c1-oled-tv-macbook-air-laptop-sony-wf-1000xm3-earbuds-deal-sale)
- - [Valve says it’s ‘ramping up’ Steam Deck shipments](https://www.theverge.com/2022/4/4/23010130/valve-steam-deck-shipments-order-emails)<!-- TECH:END -->
+ - [Google’s April Pixel update includes wireless charging fixes for Pixel 6 phones](https://www.theverge.com/2022/4/4/23010237/google-pixel-6-pro-april-android-12l-update)
+ - [Former ByteDance employees say the company scraped Instagram, Snap, and others to make fake accounts on TikTok predecessor Flipagram, later renamed Vigo Video &lpar;Emily Baker-White/BuzzFeed News&rpar;](http://www.techmeme.com/220404/p19#a220404p19)
+ - [How to see sold items on eBay](https://www.androidauthority.com/see-sold-items-ebay-3148811/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
