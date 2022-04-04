@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Samurai Rabbit: The Usagi Chronicles will premiere this April](https://www.polygon.com/23010305/samurai-rabbit-the-usagi-chronicles-netflix-show-release-date-april-28)
- - [Sci-fi RPG Citizen Sleeper set for May 5th multi-platform release](https://www.polygon.com/gaming/23010207/citizen-sleeper-release-xbox-switch-pc-in-other-waters)
- - [Players Stock Up On PS Now Subs To Save Big On New PS Plus](https://kotaku.com/playstation-plus-premium-ps-now-one-year-subscription-d-1848746564)<!-- GAME:END -->
+ - [Lego Star Wars: The Skywalker Saga: The Kotaku Review](https://kotaku.com/lego-star-wars-skywalker-saga-review-kotaku-ps5-xbox-tt-1848746867)
+ - [Octopus Pie comic creator nails teen feelings in her debut game Perfect Tides](https://www.polygon.com/23009993/perfect-tides-meredith-gran-interview-impressions)
+ - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
