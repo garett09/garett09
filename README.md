@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Analysis of satellite images by the New York Times shows bodies lay in Bucha for at least 3 weeks, when Russian forces controlled the area, refuting Russian claims the massacre was carried out by Ukrainian forces after their departure.](http://9gag.com/gag/amgmnj4)
- - 🚯 [I was there, 3000 years ago....](http://9gag.com/gag/azeG4xZ)
- - 🚯 [He already spent a lot of money to get rid of this. But it keeps coming and coming\u2026](http://9gag.com/gag/a81DzKY)<!-- MEMES:END -->
+ - 🚖 [41 days apart](http://9gag.com/gag/adgnb7M)
+ - 🚯 [I bet he is](http://9gag.com/gag/aRrzRZG)
+ - 🚯 [Dance like nobody&#39;s watching... Wait, WTF?!](http://9gag.com/gag/axBbm3b)<!-- MEMES:END -->
 
 --- 
 
