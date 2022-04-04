@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian BMP-2 IFV rolling into view and firing several rounds into a civilian sedan \u2014 without any apparent provocation. The couple in the car died instantly. *Dafaq is wrong with this people](http://9gag.com/gag/amgmVPy)
- - 🚯 [It do be like that](http://9gag.com/gag/a51Gj1y)
- - 🚯 [Lets hear it from the man himself](http://9gag.com/gag/aegV2WQ)<!-- MEMES:END -->
+ - 🚖 [Why it is called monitor lizard? It doesnt look square](http://9gag.com/gag/aBnPOZN)
+ - 🚯 [Oh boy](http://9gag.com/gag/azeGYBz)
+ - 🚯 [Whenever it rains while the sun is still out, we Filipinos usually say `A Tikbalang is getting married.` Tikbalang is like a reverse centaur for us. What&#39;s your weird common belief in your country?](http://9gag.com/gag/aOQDRoE)<!-- MEMES:END -->
 
 --- 
 
