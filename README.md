@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try a recipe for a change.](http://9gag.com/gag/aDDZV7B)
- - 🚯 [Archive footage from the worlds most important competition](http://9gag.com/gag/a81D25p)
+ - 🚖 [Tom Cruise disapproves](http://9gag.com/gag/aLvGXgV)
+ - 🚯 [Russian BMP-2 IFV rolling into view and firing several rounds into a civilian sedan \u2014 without any apparent provocation. The couple in the car died instantly. *Dafaq is wrong with this people](http://9gag.com/gag/amgmVPy)
  - 🚯 [9GAG x Bunniverse NFT Giveaway! Bunniverse is giving out 5 bunny NFTs! Tap the link in description to join!](http://9gag.com/gag/a31yEE3)<!-- MEMES:END -->
 
 --- 
