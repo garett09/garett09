@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lupin the Third’s female reinvention was exactly what the franchise needed](https://www.polygon.com/23007108/lupin-the-third-woman-called-fujiko-mine)
- - [Simulate even more of the weird internet with this Hypnospace Outlaw successor](https://www.polygon.com/23012016/hypnospace-outlaw-sequels-internet-simulator)
- - [The new Wonder Woman issue has to be seen to be believed](https://www.polygon.com/23011530/wonder-woman-historia-amazons-hidden-art-gene-ha-kelly-sue-deconnick)<!-- GAME:END -->
+ - [Robert Downey Jr. might bring a Sherlock Holmes TV universe to HBO Max](https://www.polygon.com/23012101/robert-downey-jr-sherlock-holmes-tv-universe-hbo-max)
+ - [Will Arnett&#39;s Villainous Dragon Lord Is The Best Part Of Tiny Tina&#39;s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-will-arnett-dragon-lord-pc-xbox-1848749475)
+ - [Valve is ‘ramping up’ Steam Deck orders](https://www.polygon.com/23012170/steam-deck-q3-q2-valve)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
