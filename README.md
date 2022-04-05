@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Mobile looks like Siege on the go](https://www.polygon.com/23011553/rainbow-six-siege-mobile-ubisoft-android-ios)
- - [Hyped PS5 Horror Game No One’s Really Seen Hasn’t Been Canceled, Dev Swears](https://kotaku.com/abandoned-cancelation-rumors-ps5-silent-hill-hasan-kahr-1848751331)
- - [The next Tomb Raider game is in development on Unreal Engine 5](https://www.pcgamer.com/new-tomb-raider-unreal-engine-5)<!-- GAME:END -->
+ - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
+ - [Codes To Unlock Secret Characters And Ships In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-saga-secret-cheat-codes-charac-1848747352)
+ - [Call of Duty: Vanguard glitch has players wall-running like Apex](https://www.pcgamer.com/call-of-duty-vanguard-glitch-has-players-wall-running-like-apex)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
