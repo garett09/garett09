@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Axie Infinity &quot;managers&quot;, who loan in-game NFTs to other players in exchange for a cut of any profits and depend on a constant influx of new players &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220405/p3#a220405p3)
  - [Samsung Galaxy S20 FE 2022 released: Same phone, cheaper price](https://www.androidauthority.com/samsung-galaxy-s20-fe-2022-3148644/)
- - [As subscriber growth slows, Netflix should consider introducing an ad-supported tier, which could help it add subscribers, raise prices, and reduce churn &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220405/p2#a220405p2)
- - [Amazon deal alert: Apple&#39;s 14-inch MacBook Pro drops to $1,799 &lpar;up to $250 off&rpar;](https://appleinsider.com/articles/22/04/05/amazon-deal-alert-apples-14-inch-macbook-pro-drops-to-1799-up-to-250-off?utm_medium=rss)<!-- TECH:END -->
+ - [As subscriber growth slows, Netflix should consider introducing an ad-supported tier, which could help it add subscribers, raise prices, and reduce churn &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220405/p2#a220405p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
