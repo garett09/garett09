@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official Formula 1 &#39;Ethereum NFT Game&#39; Shuts Down](https://kotaku.com/f1-formula-1-one-delta-time-nft-crypto-cursed-shut-down-1848748953)
  - [A Very Good Story About Joel Embiid Crushing Kids At Video Games](https://kotaku.com/joel-embiid-nba-mvp-sixers-76ers-madden-2k-video-games-1848748682)
- - [Your Epic Store achievements can now be seen by other people](https://www.pcgamer.com/your-epic-store-achievements-can-now-be-seen-by-other-people)
- - [AMD continues its shopping spree by acquiring Pensando for $1.9B](https://www.pcgamer.com/amd-continues-its-shopping-spree-by-acquiring-pensando-for-dollar19b)<!-- GAME:END -->
+ - [Your Epic Store achievements can now be seen by other people](https://www.pcgamer.com/your-epic-store-achievements-can-now-be-seen-by-other-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
