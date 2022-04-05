@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Records show FBI has entered a contract worth up to $27M for 5K licenses to use Babel X, a social media surveillance tool, with &quot;predictive analytics&quot; requested &lpar;Aaron Schaffer/Washington Post&rpar;](http://www.techmeme.com/220405/p35#a220405p35)
- - [Apple nabbed &#39;They Call Me Magic&#39; in competitive bidding, beating out NBC](https://appleinsider.com/articles/22/04/05/apple-nabbed-they-call-me-magic-in-competitive-bidding-beating-out-nbc?utm_medium=rss)
- - [CDC Survey Finds the Pandemic Had a Big Impact on Teens&#39; Mental Health     - CNET](https://www.cnet.com/news/cdc-survey-finds-the-pandemic-had-a-big-impact-on-teens-mental-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Racing game F1 Delta Time, where users spent up to hundreds of thousands of dollars on NFTs, shuts down after owner Animoca Brands failed to renew F1 license &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/220405/p39#a220405p39)
+ - [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test)
+ - [Twitter says it has been working on an edit feature since last year and will start testing the feature in Twitter Blue Labs in the coming months &lpar;@twittercomms&rpar;](http://www.techmeme.com/220405/p38#a220405p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
