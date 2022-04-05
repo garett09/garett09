@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic launches Unreal Engine 5](https://www.theverge.com/2022/4/5/23010007/unreal-engine-5-launch-epic-games)
- - [Daily deals April 5: $200 off 14-inch M1 Pro MacBook Pro, $50 off 10.2-inch iPad, 20% off tech at eBay, more](https://appleinsider.com/articles/22/04/05/daily-deals-april-5-200-off-14-inch-m1-pro-macbook-pro-50-off-102-inch-ipad-49-off-apple-watch-se-more?utm_medium=rss)
- - [Is streaming just becoming cable again? Julia Alexander thinks so](https://www.theverge.com/23010559/decoder-streaming-platforms-cable-netflix-disney-apple)<!-- TECH:END -->
+ - [New AirPods Pro may finally arrive in late 2022, replacing current model](https://appleinsider.com/articles/22/04/05/new-airpods-pro-may-finally-arrive-in-late-2022-replacing-current-model?utm_medium=rss)
+ - [Apple’s WWDC22 kicks off June 6th as an online event](https://www.theverge.com/2022/4/5/22984508/apple-wwdc-2022-event-date-software-updates-ios-ipados-macos)
+ - [Apple announces WWDC will be held June 6 through June 10 as a virtual event &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220405/p25#a220405p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
