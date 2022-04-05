@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Releases Update to Sonic the Hedgehog DLC, Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/04/05/minecraft-releases-update-to-sonic-the-hedgehog-dlc/)
- - [Best CPU coolers in 2022](https://www.pcgamer.com/best-cpu-coolers)
- - [Next Tomb Raider Game Will Use Unreal Engine 5](https://kotaku.com/tomb-raider-lara-croft-crystal-dynamics-unreal-engine-5-1848752948)<!-- GAME:END -->
+ - [Lupin the Third’s female reinvention was exactly what the franchise needed](https://www.polygon.com/23007108/lupin-the-third-woman-called-fujiko-mine)
+ - [Simulate even more of the weird internet with this Hypnospace Outlaw successor](https://www.polygon.com/23012016/hypnospace-outlaw-sequels-internet-simulator)
+ - [The new Wonder Woman issue has to be seen to be believed](https://www.polygon.com/23011530/wonder-woman-historia-amazons-hidden-art-gene-ha-kelly-sue-deconnick)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
