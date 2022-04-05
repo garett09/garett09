@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinybird, which runs real-time analytics APIs for companies, raises a $37M Series A led by CRV and Singular Ventures &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220405/p14#a220405p14)
- - [Microsoft announces a preview of ARM-based chips for Azure virtual machines, using Ampere Altra CPUs &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220405/p13#a220405p13)
- - [Mailchimp hack potentially leading to crypto wallet thefts](https://appleinsider.com/articles/22/04/05/mailchimp-hack-potentially-leading-to-crypto-wallet-thefts?utm_medium=rss)<!-- TECH:END -->
+ - [Clarify Health, which offers a healthcare analytics service with data on 300M+ Americans, raises a $150M Series D, sources say at a $1.4B valuation &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/220405/p17#a220405p17)
+ - [Filing: Block confirms a data breach involving a former employee downloading reports from Cash App that contained some US customer information &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220405/p16#a220405p16)
+ - [How to create a team in Microsoft Teams](https://www.androidauthority.com/microsoft-teams-create-team-3148926/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
