@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something for the snowflakes and cancel culture groups to think about.](http://9gag.com/gag/abgWKyB)
- - 🚯 [That feel of relief](http://9gag.com/gag/aegVdjp)
- - 🚯 [Will you share a weird saying?](http://9gag.com/gag/aE8oE6O)<!-- MEMES:END -->
+ - 🚖 [What a hero](http://9gag.com/gag/aVxm1Pn)
+ - 🚯 [I just realized this](http://9gag.com/gag/a81DzNZ)
+ - 🚯 [Literally common sense for most of history](http://9gag.com/gag/aNPVq4G)<!-- MEMES:END -->
 
 --- 
 
