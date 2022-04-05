@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I felt that...](http://9gag.com/gag/amgmy3X)
- - 🚯 [Making the Accordion sound like a full orchestra](http://9gag.com/gag/aVxm8bP)
- - 🚯 [Sign of a good bad guy I guess](http://9gag.com/gag/abgWL49)<!-- MEMES:END -->
+ - 🚖 [This guy is the best.](http://9gag.com/gag/a31ygD3)
+ - 🚯 [Call the Ambulance](http://9gag.com/gag/aGzMv60)
+ - 🚯 [I&#39;ve seen distractions in sports before, but this is a new one](http://9gag.com/gag/a918ev0)<!-- MEMES:END -->
 
 --- 
 
