@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Beasts: The Secrets of Dumbledore lets a zombified franchise lurch forward](https://www.polygon.com/23010623/fantastic-beasts-secrets-of-dumbledore-review)
- - [Become a Major Leaguer Today in MLB The Show 22 with Xbox Game Pass](https://news.xbox.com/en-us/2022/04/05/mlb-the-show-22-available-today-with-xbox-game-pass/)
- - [Halo Infinite&#39;s lack of updates is forcing its biggest streamers to turn to other games](https://www.pcgamer.com/halo-infinites-lack-of-updates-is-forcing-the-games-biggest-streamers-to-turn-to-other-games)<!-- GAME:END -->
+ - [How to complete the Dung Eater quest in Elden Ring](https://www.pcgamer.com/elden-ring-dung-eater-quest)
+ - [Players’ Choice: Vote for March 2022’s best new game](https://blog.playstation.com/2022/04/05/players-choice-vote-for-march-2022s-best-new-game/)
+ - [Players’ Choice: Vote for March 2022’s best new game](https://blog.playstation.com/2022/04/05/players-choice-vote-for-march-2022s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
