@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Million Little Pieces: The Race to Rebuild the World’s Reefs](https://www.wired.com/story/race-to-rebuild-world-coral-reefs)
  - [You told us: Most of you don’t use dual apps, but it has some fans](https://www.androidauthority.com/dual-apps-poll-results-3149084/)
- - [Elon Musk, Twitter’s largest shareholder, polls followers for an edit button](https://www.theverge.com/2022/4/5/23011134/twitter-elon-musk-edit-button)
- - [Google Pixel 6a: All the rumors in one place &lpar;Updated: April 5&rpar;](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
+ - [Elon Musk, Twitter’s largest shareholder, polls followers for an edit button](https://www.theverge.com/2022/4/5/23011134/twitter-elon-musk-edit-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
