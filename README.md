@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet he is](http://9gag.com/gag/aRrzRZG)
+ - 🚖 [See the real issue.](http://9gag.com/gag/ajgBdPR)
  - 🚯 [She built a bedroom for the dog under the stairs.](http://9gag.com/gag/aNPVqmG)
- - 🚯 [Dance like nobody&#39;s watching... Wait, WTF?!](http://9gag.com/gag/axBbm3b)<!-- MEMES:END -->
+ - 🚯 [This is how true sadness looks like, seeing war crimes victims in Buka.](http://9gag.com/gag/aWgvRM3)<!-- MEMES:END -->
 
 --- 
 
