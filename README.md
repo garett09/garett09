@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See the real issue.](http://9gag.com/gag/ajgBdPR)
- - 🚯 [She built a bedroom for the dog under the stairs.](http://9gag.com/gag/aNPVqmG)
- - 🚯 [This is how true sadness looks like, seeing war crimes victims in Buka.](http://9gag.com/gag/aWgvRM3)<!-- MEMES:END -->
+ - 🚖 [She built a bedroom for the dog under the stairs.](http://9gag.com/gag/aNPVqmG)
+ - 🚯 [He already spent a lot of money to get rid of this. But it keeps coming and coming\u2026](http://9gag.com/gag/a81DzKY)
+ - 🚯 [Analysis of satellite images by the New York Times shows bodies lay in Bucha for at least 3 weeks, when Russian forces controlled the area, refuting Russian claims the massacre was carried out by Ukrainian forces after their departure.](http://9gag.com/gag/amgmnj4)<!-- MEMES:END -->
 
 --- 
 
