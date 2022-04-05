@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Movies and shows like Severance on Apple TV Plus](https://www.androidauthority.com/movies-shows-like-severance-apple-tv-plus-3148787/)
- - [These are the words Amazon’s planned employee chat app reportedly won’t let you say](https://www.theverge.com/2022/4/4/23010608/amazon-worker-social-app-banned-words-union-living-wage)
- - [Hulu rolls out support for SharePlay on iPad, iPhone, and Apple TV](https://appleinsider.com/articles/22/04/04/hulu-gains-facetime-shareplay-support-in-update?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-hbo-max-to-watch-2022/#ftag=CAD590a51e)
+ - [How to search for a specific seller on eBay](https://www.androidauthority.com/find-seller-ebay-3148937/)
+ - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-binge-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
