@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [#AppleToo founders in legal battle accusing each other of harassment](https://appleinsider.com/articles/22/04/05/appletoo-founders-in-legal-battle-accusing-each-other-of-harassment?utm_medium=rss)
- - [OnePlus 10 Pro review: settling in](https://www.theverge.com/23003212/oneplus-10-pro-review-screen-price-specs-battery)
- - [CryptoSlam: around 95%, or $18B, of the total trading volume on NFT marketplace LooksRare are users selling tokens to earn rewards, not genuine NFT trades &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220405/p22#a220405p22)<!-- TECH:END -->
+ - [Epic launches Unreal Engine 5](https://www.theverge.com/2022/4/5/23010007/unreal-engine-5-launch-epic-games)
+ - [Daily deals April 5: $200 off 14-inch M1 Pro MacBook Pro, $50 off 10.2-inch iPad, 20% off tech at eBay, more](https://appleinsider.com/articles/22/04/05/daily-deals-april-5-200-off-14-inch-m1-pro-macbook-pro-50-off-102-inch-ipad-49-off-apple-watch-se-more?utm_medium=rss)
+ - [Is streaming just becoming cable again? Julia Alexander thinks so](https://www.theverge.com/23010559/decoder-streaming-platforms-cable-netflix-disney-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
