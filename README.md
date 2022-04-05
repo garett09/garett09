@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clarify Health, which offers a healthcare analytics service with data on 300M+ Americans, raises a $150M Series D, sources say at a $1.4B valuation &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/220405/p17#a220405p17)
- - [Filing: Block confirms a data breach involving a former employee downloading reports from Cash App that contained some US customer information &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220405/p16#a220405p16)
- - [How to create a team in Microsoft Teams](https://www.androidauthority.com/microsoft-teams-create-team-3148926/)<!-- TECH:END -->
+ - [#AppleToo founders in legal battle accusing each other of harassment](https://appleinsider.com/articles/22/04/05/appletoo-founders-in-legal-battle-accusing-each-other-of-harassment?utm_medium=rss)
+ - [OnePlus 10 Pro review: settling in](https://www.theverge.com/23003212/oneplus-10-pro-review-screen-price-specs-battery)
+ - [CryptoSlam: around 95%, or $18B, of the total trading volume on NFT marketplace LooksRare are users selling tokens to earn rewards, not genuine NFT trades &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220405/p22#a220405p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
