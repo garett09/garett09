@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There’s so much untapped horror potential in super-monster movies](https://www.polygon.com/23011709/marvel-movies-monsters-blade-morbius-ghost-rider)
- - [The Next Generation Of Video Game Graphics Is Looking Pretty Good](https://kotaku.com/unreal-engine-5-epic-games-next-gen-graphics-ps5-xbox-s-1848752012)
- - [Star Trek: Picard’s third and final season will reunite Next Generation cast](https://www.polygon.com/23011758/picard-s3-next-generation-cast)<!-- GAME:END -->
+ - [The Chrono Cross ‘Remaster’ Is Another Barebones Square Enix Port](https://kotaku.com/chrono-cross-radical-dreamers-remaster-nintendo-switch-1848752426)
+ - [A new Tomb Raider is coming, built on Unreal Engine 5](https://www.polygon.com/23011809/tomb-raider-new-game-unreal-engine-5)
+ - [Halo Infinite Listens To Pros, Nerfs Best Gun](https://kotaku.com/halo-infinite-mangler-nerf-melee-two-shot-beatdown-pro-1848752318)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
