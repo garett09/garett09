@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming Soon to Xbox Game Pass: MLB The Show 22, Life Is Strange: True Colors, Chinatown Detective Agency, and More](https://news.xbox.com/en-us/2022/04/05/game-pass-coming-soon-april-2022/)
  - [Heist-based multiplayer Hood: Outlaws &amp; Legends hits PS Plus today: here’s everything you need to know](https://blog.playstation.com/2022/04/05/heist-based-multiplayer-hood-outlaws-legends-hits-ps-plus-today-heres-everything-you-need-to-know/)
- - [Heist-based multiplayer Hood: Outlaws &amp; Legends hits PS Plus today: here’s everything you need to know](https://blog.playstation.com/2022/04/05/heist-based-multiplayer-hood-outlaws-legends-hits-ps-plus-today-heres-everything-you-need-to-know/)
- - [Six-core CPUs are now more popular than quad-core chips on Steam](https://www.pcgamer.com/six-core-cpus-are-now-more-popular-than-quad-core-chips-on-steam)<!-- GAME:END -->
+ - [Heist-based multiplayer Hood: Outlaws &amp; Legends hits PS Plus today: here’s everything you need to know](https://blog.playstation.com/2022/04/05/heist-based-multiplayer-hood-outlaws-legends-hits-ps-plus-today-heres-everything-you-need-to-know/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
