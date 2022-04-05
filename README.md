@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
- - [Codes To Unlock Secret Characters And Ships In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-saga-secret-cheat-codes-charac-1848747352)
- - [Call of Duty: Vanguard glitch has players wall-running like Apex](https://www.pcgamer.com/call-of-duty-vanguard-glitch-has-players-wall-running-like-apex)<!-- GAME:END -->
+ - [There’s so much untapped horror potential in super-monster movies](https://www.polygon.com/23011709/marvel-movies-monsters-blade-morbius-ghost-rider)
+ - [The Next Generation Of Video Game Graphics Is Looking Pretty Good](https://kotaku.com/unreal-engine-5-epic-games-next-gen-graphics-ps5-xbox-s-1848752012)
+ - [Star Trek: Picard’s third and final season will reunite Next Generation cast](https://www.polygon.com/23011758/picard-s3-next-generation-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
