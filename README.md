@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch these rats enrich their lives by driving tiny cars](https://www.pcgamer.com/watch-these-rats-enrich-their-lives-by-driving-tiny-cars)
- - [Silverstone&#39;s PS5 SSD heatsink makes basic PC SSDs compatible](https://www.pcgamer.com/silverstones-ps5-ssd-heatsink-makes-basic-pc-ssds-compatible)
- - [Hackers build like-for-like open-source app to try and steal crypto](https://www.pcgamer.com/hackers-build-like-for-like-open-source-app-to-try-and-steal-crypto)<!-- GAME:END -->
+ - [Razer&#39;s Headquarters Looks Like One Of Its Gaming Peripherals](https://kotaku.com/razer-gaming-peripherals-keyboard-mouse-gaming-chair-si-1848749765)
+ - [There&#39;s nothing quite like tearing things down in Teardown](https://www.pcgamer.com/theres-nothing-quite-like-tearing-things-down-in-teardown)
+ - [Today&#39;s Wordle answer #290: Tuesday, April 5](https://www.pcgamer.com/wordle-april-5-290)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
