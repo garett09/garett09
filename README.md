@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hackers build like-for-like open-source app to try and steal crypto](https://www.pcgamer.com/hackers-build-like-for-like-open-source-app-to-try-and-steal-crypto)
  - [Thermalright&#39;s new M.2 heatsinks point towards a scorching hot M.2 future](https://www.pcgamer.com/thermalrights-new-m2-heatsinks-point-towards-a-scorching-hot-m2-future)
- - [AMD Adrenalin software reportedly alters user-set BIOS CPU settings](https://www.pcgamer.com/amd-adrenalin-software-reportedly-alters-user-set-bios-cpu-settings)
- - [Battlefield 2042&#39;s First Serious Changes Are Coming &lpar;Slowly&rpar;](https://kotaku.com/battlefield-2042-maps-changes-improvements-dice-ea-upda-1848749293)<!-- GAME:END -->
+ - [AMD Adrenalin software reportedly alters user-set BIOS CPU settings](https://www.pcgamer.com/amd-adrenalin-software-reportedly-alters-user-set-bios-cpu-settings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
