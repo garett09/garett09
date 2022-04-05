@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To catch a woodpecker](http://9gag.com/gag/arnZDvB)
- - 🚯 [My whole life was a lie](http://9gag.com/gag/a81DvVY)
- - 🚯 [This guy is living in 3022](http://9gag.com/gag/a71VB8m)<!-- MEMES:END -->
+ - 🚖 [My whole life was a lie](http://9gag.com/gag/a81DvVY)
+ - 🚯 [I&#39;ve seen distractions in sports before, but this is a new one](http://9gag.com/gag/a918ev0)
+ - 🚯 [Lithuanians should be proud for having this guy as a president](http://9gag.com/gag/avAEBZO)<!-- MEMES:END -->
 
 --- 
 
