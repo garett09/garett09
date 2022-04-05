@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer&#39;s Headquarters Looks Like One Of Its Gaming Peripherals](https://kotaku.com/razer-gaming-peripherals-keyboard-mouse-gaming-chair-si-1848749765)
- - [There&#39;s nothing quite like tearing things down in Teardown](https://www.pcgamer.com/theres-nothing-quite-like-tearing-things-down-in-teardown)
- - [Today&#39;s Wordle answer #290: Tuesday, April 5](https://www.pcgamer.com/wordle-april-5-290)<!-- GAME:END -->
+ - [Heist-based multiplayer Hood: Outlaws &amp; Legends hits PS Plus today: here’s everything you need to know](https://blog.playstation.com/2022/04/05/heist-based-multiplayer-hood-outlaws-legends-hits-ps-plus-today-heres-everything-you-need-to-know/)
+ - [Heist-based multiplayer Hood: Outlaws &amp; Legends hits PS Plus today: here’s everything you need to know](https://blog.playstation.com/2022/04/05/heist-based-multiplayer-hood-outlaws-legends-hits-ps-plus-today-heres-everything-you-need-to-know/)
+ - [Six-core CPUs are now more popular than quad-core chips on Steam](https://www.pcgamer.com/six-core-cpus-are-now-more-popular-than-quad-core-chips-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
