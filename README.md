@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My whole life was a lie](http://9gag.com/gag/a81DvVY)
- - 🚯 [Shady af](http://9gag.com/gag/aLvG3BM)
- - 🚯 [Watermelon](http://9gag.com/gag/aqGQBqv)<!-- MEMES:END -->
+ - 🚖 [To catch a woodpecker](http://9gag.com/gag/arnZDvB)
+ - 🚯 [My whole life was a lie](http://9gag.com/gag/a81DvVY)
+ - 🚯 [This guy is living in 3022](http://9gag.com/gag/a71VB8m)<!-- MEMES:END -->
 
 --- 
 
