@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women have to stand up against this cowards.](http://9gag.com/gag/aPZ8p2Q)
+ - 🚖 [Appreciate every second! - I miss them](http://9gag.com/gag/a21yxpd)
  - 🚯 [Never forget.](http://9gag.com/gag/aOQDNy3)
- - 🚯 [What a hero](http://9gag.com/gag/aVxm1Pn)<!-- MEMES:END -->
+ - 🚯 [That feel of relief](http://9gag.com/gag/aegVdjp)<!-- MEMES:END -->
 
 --- 
 
