@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn\u2019t really go their way.. which is funny.](http://9gag.com/gag/agg8pLK)
- - 🚯 [Lion King in 53 sek](http://9gag.com/gag/a71Vm5q)
- - 🚯 [Russia boast having ~13 thousand tanks. Except almost all have been stored outside with parts missing and not being driven, maintained or even fired up for years or decades. *2nd strongest army*](http://9gag.com/gag/a918Z0L)<!-- MEMES:END -->
+ - 🚖 [My whole life was a lie](http://9gag.com/gag/a81DvVY)
+ - 🚯 [Shady af](http://9gag.com/gag/aLvG3BM)
+ - 🚯 [Watermelon](http://9gag.com/gag/aqGQBqv)<!-- MEMES:END -->
 
 --- 
 
