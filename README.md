@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Trek: Picard is bringing back more Next Generation stars in its final season](https://www.theverge.com/2022/4/5/23011773/star-trek-paramount-plus-tng-picard-data-william-riker)
- - [Tech workers describe interrogations as they flee Russia; recruitment service HeadHunter says the government demand for IT workers in Russia has increased 100% &lpar;Vadim Smyslov/TechCrunch&rpar;](http://www.techmeme.com/220405/p30#a220405p30)
- - [Elon Musk tweeted his way onto Twitter’s board — now what?](https://www.theverge.com/2022/4/5/23011810/elon-musk-twitter-sec-board-member-moderation)<!-- TECH:END -->
+ - [PSA: the Xbox Series X is &lpar;finally&rpar; easier to buy](https://www.theverge.com/2022/4/5/23011418/microsoft-xbox-series-x-console-in-stock-stores-walmart-newegg-costco-availability-check-restock)
+ - [The Xbox Series S is on sale at Adorama today for just $249.99](https://www.theverge.com/good-deals/2022/4/5/23011844/microsoft-xbox-series-s-adorama-deal-sale)
+ - [How to pin articles and images sent over Messages in iOS 15 and iPadOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-pin-articles-and-images-sent-over-messages-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
