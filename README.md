@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India orders a wide-ranging antitrust investigation into the conduct of Zomato and Swiggy following a complaint from the National Restaurant Association &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220404/p26#a220404p26)
- - [A look at Peloton Guide, an upcoming $295 streaming media box from Peloton that uses a body-tracking camera to let users track their strength-training workouts &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/220404/p25#a220404p25)
- - [How To Complete Elden Ring&#39;s Ranni The Witch Sidequest     - CNET](https://www.cnet.com/tech/gaming/how-to-complete-elden-rings-ranni-the-witch-sidequest/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s time to give up your Galaxy S9 and S9 Plus as Samsung ends software support](https://www.androidauthority.com/samsung-galaxy-s9-end-of-software-support-3149055/)
+ - [Crypto investment firm Paradigm says it now has $13.2B under management, up 343% from December 2020, a16z has $54.6B, Sequoia $85.5B, and Tiger Global $124.7B &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/220405/p1#a220405p1)
+ - [Google could make it much easier for Chromebook users to find games](https://www.androidauthority.com/google-chromebook-game-search-3149001/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
