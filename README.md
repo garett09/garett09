@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One tank army](http://9gag.com/gag/a71Vgvm)
+ - 🚖 [I felt that...](http://9gag.com/gag/amgmy3X)
  - 🚯 [Making the Accordion sound like a full orchestra](http://9gag.com/gag/aVxm8bP)
- - 🚯 [Seems about right lol](http://9gag.com/gag/aBnPb3Z)<!-- MEMES:END -->
+ - 🚯 [Sign of a good bad guy I guess](http://9gag.com/gag/abgWL49)<!-- MEMES:END -->
 
 --- 
 
