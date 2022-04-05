@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Axie Infinity &quot;managers&quot;, who loan in-game NFTs to other players in exchange for a cut of any profits and depend on a constant influx of new players &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220405/p3#a220405p3)
- - [Samsung Galaxy S20 FE 2022 released: Same phone, cheaper price](https://www.androidauthority.com/samsung-galaxy-s20-fe-2022-3148644/)
- - [As subscriber growth slows, Netflix should consider introducing an ad-supported tier, which could help it add subscribers, raise prices, and reduce churn &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220405/p2#a220405p2)<!-- TECH:END -->
+ - [You told us: Most of you don’t use dual apps, but it has some fans](https://www.androidauthority.com/dual-apps-poll-results-3149084/)
+ - [Elon Musk, Twitter’s largest shareholder, polls followers for an edit button](https://www.theverge.com/2022/4/5/23011134/twitter-elon-musk-edit-button)
+ - [Google Pixel 6a: All the rumors in one place &lpar;Updated: April 5&rpar;](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
