@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: the Xbox Series X is &lpar;finally&rpar; easier to buy](https://www.theverge.com/2022/4/5/23011418/microsoft-xbox-series-x-console-in-stock-stores-walmart-newegg-costco-availability-check-restock)
- - [The Xbox Series S is on sale at Adorama today for just $249.99](https://www.theverge.com/good-deals/2022/4/5/23011844/microsoft-xbox-series-s-adorama-deal-sale)
- - [How to pin articles and images sent over Messages in iOS 15 and iPadOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-pin-articles-and-images-sent-over-messages-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
+ - [Hackers can take over out-of-date Samsung phones](https://www.androidauthority.com/samsung-phones-vulnerable-3149379/)
+ - [Micromobility operator Helbiz misses payroll, blames software ‘update’](https://www.theverge.com/2022/4/5/23010392/helbiz-missed-payroll-micromobility-cryptocurrency)
+ - [How to change your username or nickname on Discord](https://www.androidauthority.com/discord-nicknames-usernames-3148359/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
