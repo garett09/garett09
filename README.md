@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft is reportedly working on a new PvPvE shooter that looks a lot like Hyper Scape](https://www.pcgamer.com/ubisoft-is-reportedly-working-on-a-new-pvpve-shooter-that-looks-a-lot-like-hyper-scape)
  - [Robert Downey Jr. might bring a Sherlock Holmes TV universe to HBO Max](https://www.polygon.com/23012101/robert-downey-jr-sherlock-holmes-tv-universe-hbo-max)
- - [Will Arnett&#39;s Villainous Dragon Lord Is The Best Part Of Tiny Tina&#39;s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-will-arnett-dragon-lord-pc-xbox-1848749475)
- - [Valve is ‘ramping up’ Steam Deck orders](https://www.polygon.com/23012170/steam-deck-q3-q2-valve)<!-- GAME:END -->
+ - [Will Arnett&#39;s Villainous Dragon Lord Is The Best Part Of Tiny Tina&#39;s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-will-arnett-dragon-lord-pc-xbox-1848749475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
