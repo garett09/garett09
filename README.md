@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Appreciate every second! - I miss them](http://9gag.com/gag/a21yxpd)
- - 🚯 [Never forget.](http://9gag.com/gag/aOQDNy3)
- - 🚯 [That feel of relief](http://9gag.com/gag/aegVdjp)<!-- MEMES:END -->
+ - 🚖 [Something for the snowflakes and cancel culture groups to think about.](http://9gag.com/gag/abgWKyB)
+ - 🚯 [That feel of relief](http://9gag.com/gag/aegVdjp)
+ - 🚯 [Will you share a weird saying?](http://9gag.com/gag/aE8oE6O)<!-- MEMES:END -->
 
 --- 
 
