@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD continues its shopping spree by acquiring Pensando for $1.9B](https://www.pcgamer.com/amd-continues-its-shopping-spree-by-acquiring-pensando-for-dollar19b)
- - [Morbius director thinks the living vampire could beat Doctor Strange](https://www.polygon.com/23010398/morbius-daniel-espinosa-vampire-doctor-strange)
- - [Stardew Valley creator isn&#39;t intimidated by the sophomore slump](https://www.pcgamer.com/stardew-valley-creator-isnt-intimidated-by-the-sophomore-slump)<!-- GAME:END -->
+ - [A Very Good Story About Joel Embiid Crushing Kids At Video Games](https://kotaku.com/joel-embiid-nba-mvp-sixers-76ers-madden-2k-video-games-1848748682)
+ - [Your Epic Store achievements can now be seen by other people](https://www.pcgamer.com/your-epic-store-achievements-can-now-be-seen-by-other-people)
+ - [AMD continues its shopping spree by acquiring Pensando for $1.9B](https://www.pcgamer.com/amd-continues-its-shopping-spree-by-acquiring-pensando-for-dollar19b)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
