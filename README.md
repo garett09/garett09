@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reversed meme](http://9gag.com/gag/a21y9gD)
- - 🚯 [Awww, look at those three kittens. They are in hea... Oh, wait...](http://9gag.com/gag/aOQDAZ6)
- - 🚯 [And that&#39;s the version without actors playing dead bodies](http://9gag.com/gag/aBnPj22)<!-- MEMES:END -->
+ - 🚖 [How arab make music. Something funny amidst these shitty times.](http://9gag.com/gag/aYrPvxq)
+ - 🚯 [Lion King in 53 sek](http://9gag.com/gag/a71Vm5q)
+ - 🚯 [Russia boast having ~13 thousand tanks. Except almost all have been stored outside with parts missing and not being driven, maintained or even fired up for years or decades. *2nd strongest army*](http://9gag.com/gag/a918Z0L)<!-- MEMES:END -->
 
 --- 
 
