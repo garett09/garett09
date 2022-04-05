@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silverstone&#39;s PS5 SSD heatsink makes basic PC SSDs compatible](https://www.pcgamer.com/silverstones-ps5-ssd-heatsink-makes-basic-pc-ssds-compatible)
  - [Hackers build like-for-like open-source app to try and steal crypto](https://www.pcgamer.com/hackers-build-like-for-like-open-source-app-to-try-and-steal-crypto)
- - [Thermalright&#39;s new M.2 heatsinks point towards a scorching hot M.2 future](https://www.pcgamer.com/thermalrights-new-m2-heatsinks-point-towards-a-scorching-hot-m2-future)
- - [AMD Adrenalin software reportedly alters user-set BIOS CPU settings](https://www.pcgamer.com/amd-adrenalin-software-reportedly-alters-user-set-bios-cpu-settings)<!-- GAME:END -->
+ - [Thermalright&#39;s new M.2 heatsinks point towards a scorching hot M.2 future](https://www.pcgamer.com/thermalrights-new-m2-heatsinks-point-towards-a-scorching-hot-m2-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
