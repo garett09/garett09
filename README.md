@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Racing game F1 Delta Time, where users spent up to hundreds of thousands of dollars on NFTs, shuts down after owner Animoca Brands failed to renew F1 license &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/220405/p39#a220405p39)
- - [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test)
- - [Twitter says it has been working on an edit feature since last year and will start testing the feature in Twitter Blue Labs in the coming months &lpar;@twittercomms&rpar;](http://www.techmeme.com/220405/p38#a220405p38)<!-- TECH:END -->
+ - [Over 8 million customers affected in Cash App data breach](https://appleinsider.com/articles/22/04/05/over-8-million-customers-affected-in-cash-app-data-breach?utm_medium=rss)
+ - [Elon Musk updates the paperwork on his shocking Twitter purchase to avoid extra SEC drama](https://www.theverge.com/2022/4/5/23012266/elon-musk-sec-twitter-stock-acquisition-13d-tesla)
+ - [Whistleblower says DeepMind waited months to fire a researcher accused of sexual misconduct](https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
