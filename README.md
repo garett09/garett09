@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon deal alert: Apple&#39;s 14-inch MacBook Pro drops to $1,799 &lpar;up to $250 off&rpar;](https://appleinsider.com/articles/22/04/05/amazon-deal-alert-apples-14-inch-macbook-pro-drops-to-1799-up-to-250-off?utm_medium=rss)
  - [It’s time to give up your Galaxy S9 and S9 Plus as Samsung ends software support](https://www.androidauthority.com/samsung-galaxy-s9-end-of-software-support-3149055/)
- - [Crypto investment firm Paradigm says it now has $13.2B under management, up 343% from December 2020, a16z has $54.6B, Sequoia $85.5B, and Tiger Global $124.7B &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/220405/p1#a220405p1)
- - [Google could make it much easier for Chromebook users to find games](https://www.androidauthority.com/google-chromebook-game-search-3149001/)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-prime-video-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
