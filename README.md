@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Log Out](http://9gag.com/gag/angv8yV)
- - 🚯 [Peek-a-boo!](http://9gag.com/gag/aYrPdvv)
- - 🚯 [Too Dark...?](http://9gag.com/gag/aVxm4WP)<!-- MEMES:END -->
+ - 🚖 [Weee weee..](http://9gag.com/gag/ay9WVjM)
+ - 🚯 [Hmmm...](http://9gag.com/gag/aLvGVGV)
+ - 🚯 [Wheres the coffee?](http://9gag.com/gag/aE8oy0n)<!-- MEMES:END -->
 
 --- 
 
