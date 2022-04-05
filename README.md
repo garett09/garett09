@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield 2042&#39;s First Serious Changes Are Coming &lpar;Slowly&rpar;](https://kotaku.com/battlefield-2042-maps-changes-improvements-dice-ea-upda-1848749293)
  - [Official Formula 1 &#39;Ethereum NFT Game&#39; Shuts Down](https://kotaku.com/f1-formula-1-one-delta-time-nft-crypto-cursed-shut-down-1848748953)
- - [A Very Good Story About Joel Embiid Crushing Kids At Video Games](https://kotaku.com/joel-embiid-nba-mvp-sixers-76ers-madden-2k-video-games-1848748682)
- - [Your Epic Store achievements can now be seen by other people](https://www.pcgamer.com/your-epic-store-achievements-can-now-be-seen-by-other-people)<!-- GAME:END -->
+ - [A Very Good Story About Joel Embiid Crushing Kids At Video Games](https://kotaku.com/joel-embiid-nba-mvp-sixers-76ers-madden-2k-video-games-1848748682)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
