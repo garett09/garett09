@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new Frame TV is already on sale at Woot](https://www.theverge.com/good-deals/2022/4/5/23011521/samsung-the-frame-qled-tv-2022-woot-deal-sale)
- - [Apple issues first developer beta of macOS Monterey 12.4](https://appleinsider.com/articles/22/04/05/apple-issues-first-developer-beta-of-macos-monterey-124?utm_medium=rss)
- - [Apple seeds first developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/05/apple-seeds-first-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)<!-- TECH:END -->
+ - [Star Trek: Picard is bringing back more Next Generation stars in its final season](https://www.theverge.com/2022/4/5/23011773/star-trek-paramount-plus-tng-picard-data-william-riker)
+ - [Tech workers describe interrogations as they flee Russia; recruitment service HeadHunter says the government demand for IT workers in Russia has increased 100% &lpar;Vadim Smyslov/TechCrunch&rpar;](http://www.techmeme.com/220405/p30#a220405p30)
+ - [Elon Musk tweeted his way onto Twitter’s board — now what?](https://www.theverge.com/2022/4/5/23011810/elon-musk-twitter-sec-board-member-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
