@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Simple NFT Stick Figures Are Selling For $13K. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/simple-nft-stick-figures-are-selling-for-13k-heres-why/#ftag=CAD590a51e)
- - [Best Direct-to-Consumer Cookware for 2022: Made In, Caraway, Field Company and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-direct-to-consumer-cookware/#ftag=CAD590a51e)
- - [Anime Series &#39;Attack on Titan&#39; Will End Next Year     - CNET](https://www.cnet.com/culture/entertainment/attack-on-titan-will-end-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How To Complete Elden Ring&#39;s Ranni The Witch Sidequest     - CNET](https://www.cnet.com/tech/gaming/how-to-complete-elden-rings-ranni-the-witch-sidequest/#ftag=CAD590a51e)
+ - [If Elon Musk wants to change Twitter with his stake, he might have to gesture in the direction of ESG or profitability to get other shareholders to support him &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220404/p24#a220404p24)
+ - [Simple NFT Stick Figures Are Selling For $13K. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/simple-nft-stick-figures-are-selling-for-13k-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
