@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Million Little Pieces: The Race to Rebuild the World’s Reefs](https://www.wired.com/story/race-to-rebuild-world-coral-reefs)
- - [You told us: Most of you don’t use dual apps, but it has some fans](https://www.androidauthority.com/dual-apps-poll-results-3149084/)
- - [Elon Musk, Twitter’s largest shareholder, polls followers for an edit button](https://www.theverge.com/2022/4/5/23011134/twitter-elon-musk-edit-button)<!-- TECH:END -->
+ - [Amazon’s Project Kuiper books up to 83 rockets to launch its internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
+ - [Peloton Guide review: a webcam that watches you squat](https://www.theverge.com/23009893/peloton-guide-review-fitness)
+ - [A look at subreddit r/Place, which lets users build collective art by posting a colored pixel every five minutes and had 72M tiles placed by Sunday night &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220405/p8#a220405p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
