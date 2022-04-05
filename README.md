@@ -198,8 +198,8 @@ Windows                  20 hrs 47 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [`A real knack for it`](http://9gag.com/gag/aRrzWWj)
- - 🚯 [One tank army](http://9gag.com/gag/a71Vgvm)
- - 🚯 [This guy is living in 3022](http://9gag.com/gag/a71VB8m)<!-- MEMES:END -->
+ - 🚯 [This guy is living in 3022](http://9gag.com/gag/a71VB8m)
+ - 🚯 [Let&#39;s talk about real body positivity.](http://9gag.com/gag/amgmygX)<!-- MEMES:END -->
 
 --- 
 
