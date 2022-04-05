@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Dung Eater quest in Elden Ring](https://www.pcgamer.com/elden-ring-dung-eater-quest)
- - [Players’ Choice: Vote for March 2022’s best new game](https://blog.playstation.com/2022/04/05/players-choice-vote-for-march-2022s-best-new-game/)
- - [Players’ Choice: Vote for March 2022’s best new game](https://blog.playstation.com/2022/04/05/players-choice-vote-for-march-2022s-best-new-game/)<!-- GAME:END -->
+ - [Rainbow Six Mobile looks like Siege on the go](https://www.polygon.com/23011553/rainbow-six-siege-mobile-ubisoft-android-ios)
+ - [Hyped PS5 Horror Game No One’s Really Seen Hasn’t Been Canceled, Dev Swears](https://kotaku.com/abandoned-cancelation-rumors-ps5-silent-hill-hasan-kahr-1848751331)
+ - [The next Tomb Raider game is in development on Unreal Engine 5](https://www.pcgamer.com/new-tomb-raider-unreal-engine-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
