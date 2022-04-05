@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods Pro may finally arrive in late 2022, replacing current model](https://appleinsider.com/articles/22/04/05/new-airpods-pro-may-finally-arrive-in-late-2022-replacing-current-model?utm_medium=rss)
- - [Apple’s WWDC22 kicks off June 6th as an online event](https://www.theverge.com/2022/4/5/22984508/apple-wwdc-2022-event-date-software-updates-ios-ipados-macos)
- - [Apple announces WWDC will be held June 6 through June 10 as a virtual event &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220405/p25#a220405p25)<!-- TECH:END -->
+ - [Samsung’s new Frame TV is already on sale at Woot](https://www.theverge.com/good-deals/2022/4/5/23011521/samsung-the-frame-qled-tv-2022-woot-deal-sale)
+ - [Apple issues first developer beta of macOS Monterey 12.4](https://appleinsider.com/articles/22/04/05/apple-issues-first-developer-beta-of-macos-monterey-124?utm_medium=rss)
+ - [Apple seeds first developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/05/apple-seeds-first-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
