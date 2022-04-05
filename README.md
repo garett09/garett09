@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Chrono Cross ‘Remaster’ Is Another Barebones Square Enix Port](https://kotaku.com/chrono-cross-radical-dreamers-remaster-nintendo-switch-1848752426)
- - [A new Tomb Raider is coming, built on Unreal Engine 5](https://www.polygon.com/23011809/tomb-raider-new-game-unreal-engine-5)
- - [Halo Infinite Listens To Pros, Nerfs Best Gun](https://kotaku.com/halo-infinite-mangler-nerf-melee-two-shot-beatdown-pro-1848752318)<!-- GAME:END -->
+ - [Minecraft Releases Update to Sonic the Hedgehog DLC, Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/04/05/minecraft-releases-update-to-sonic-the-hedgehog-dlc/)
+ - [Best CPU coolers in 2022](https://www.pcgamer.com/best-cpu-coolers)
+ - [Next Tomb Raider Game Will Use Unreal Engine 5](https://kotaku.com/tomb-raider-lara-croft-crystal-dynamics-unreal-engine-5-1848752948)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
