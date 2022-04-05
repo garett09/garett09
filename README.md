@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Project Kuiper books up to 83 rockets to launch its internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
- - [Peloton Guide review: a webcam that watches you squat](https://www.theverge.com/23009893/peloton-guide-review-fitness)
- - [A look at subreddit r/Place, which lets users build collective art by posting a colored pixel every five minutes and had 72M tiles placed by Sunday night &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220405/p8#a220405p8)<!-- TECH:END -->
+ - [Tinybird, which runs real-time analytics APIs for companies, raises a $37M Series A led by CRV and Singular Ventures &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220405/p14#a220405p14)
+ - [Microsoft announces a preview of ARM-based chips for Azure virtual machines, using Ampere Altra CPUs &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220405/p13#a220405p13)
+ - [Mailchimp hack potentially leading to crypto wallet thefts](https://appleinsider.com/articles/22/04/05/mailchimp-hack-potentially-leading-to-crypto-wallet-thefts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
