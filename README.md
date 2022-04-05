@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a hero](http://9gag.com/gag/aVxm1Pn)
- - 🚯 [I just realized this](http://9gag.com/gag/a81DzNZ)
- - 🚯 [Literally common sense for most of history](http://9gag.com/gag/aNPVq4G)<!-- MEMES:END -->
+ - 🚖 [Log Out](http://9gag.com/gag/angv8yV)
+ - 🚯 [Peek-a-boo!](http://9gag.com/gag/aYrPdvv)
+ - 🚯 [Too Dark...?](http://9gag.com/gag/aVxm4WP)<!-- MEMES:END -->
 
 --- 
 
