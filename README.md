@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weee weee..](http://9gag.com/gag/ay9WVjM)
- - 🚯 [Hmmm...](http://9gag.com/gag/aLvGVGV)
- - 🚯 [Wheres the coffee?](http://9gag.com/gag/aE8oy0n)<!-- MEMES:END -->
+ - 🚖 [Mark got no chill](http://9gag.com/gag/ajgBMe8)
+ - 🚯 [Innovative way to grow rice over water rather than on land.](http://9gag.com/gag/apgPzpp)
+ - 🚯 [Russia boast having ~13 thousand tanks. Except almost all have been stored outside with parts missing and not being driven, maintained or even fired up for years or decades. *2nd strongest army*](http://9gag.com/gag/a918Z0L)<!-- MEMES:END -->
 
 --- 
 
