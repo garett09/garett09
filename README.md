@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He already spent a lot of money to get rid of this. But it keeps coming and coming\u2026](http://9gag.com/gag/a81DzKY)
+ - 🚖 [Women have to stand up against this cowards.](http://9gag.com/gag/aPZ8p2Q)
  - 🚯 [Never forget.](http://9gag.com/gag/aOQDNy3)
- - 🚯 [Analysis of satellite images by the New York Times shows bodies lay in Bucha for at least 3 weeks, when Russian forces controlled the area, refuting Russian claims the massacre was carried out by Ukrainian forces after their departure.](http://9gag.com/gag/amgmnj4)<!-- MEMES:END -->
+ - 🚯 [What a hero](http://9gag.com/gag/aVxm1Pn)<!-- MEMES:END -->
 
 --- 
 
