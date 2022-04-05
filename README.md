@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wheres the coffee?](http://9gag.com/gag/aE8oy0n)
- - 🚯 [Lithuanians should be proud for having this guy as a president](http://9gag.com/gag/avAEBZO)
- - 🚯 [Watermelon](http://9gag.com/gag/aqGQBqv)<!-- MEMES:END -->
+ - 🚖 [Reversed meme](http://9gag.com/gag/a21y9gD)
+ - 🚯 [Awww, look at those three kittens. They are in hea... Oh, wait...](http://9gag.com/gag/aOQDAZ6)
+ - 🚯 [And that&#39;s the version without actors playing dead bodies](http://9gag.com/gag/aBnPj22)<!-- MEMES:END -->
 
 --- 
 
