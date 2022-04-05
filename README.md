@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-hbo-max-to-watch-2022/#ftag=CAD590a51e)
- - [How to search for a specific seller on eBay](https://www.androidauthority.com/find-seller-ebay-3148937/)
- - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-binge-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Simple NFT Stick Figures Are Selling For $13K. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/simple-nft-stick-figures-are-selling-for-13k-heres-why/#ftag=CAD590a51e)
+ - [Best Direct-to-Consumer Cookware for 2022: Made In, Caraway, Field Company and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-direct-to-consumer-cookware/#ftag=CAD590a51e)
+ - [Anime Series &#39;Attack on Titan&#39; Will End Next Year     - CNET](https://www.cnet.com/culture/entertainment/attack-on-titan-will-end-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
