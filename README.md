@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers can take over out-of-date Samsung phones](https://www.androidauthority.com/samsung-phones-vulnerable-3149379/)
- - [Micromobility operator Helbiz misses payroll, blames software ‘update’](https://www.theverge.com/2022/4/5/23010392/helbiz-missed-payroll-micromobility-cryptocurrency)
- - [How to change your username or nickname on Discord](https://www.androidauthority.com/discord-nicknames-usernames-3148359/)<!-- TECH:END -->
+ - [Records show FBI has entered a contract worth up to $27M for 5K licenses to use Babel X, a social media surveillance tool, with &quot;predictive analytics&quot; requested &lpar;Aaron Schaffer/Washington Post&rpar;](http://www.techmeme.com/220405/p35#a220405p35)
+ - [Apple nabbed &#39;They Call Me Magic&#39; in competitive bidding, beating out NBC](https://appleinsider.com/articles/22/04/05/apple-nabbed-they-call-me-magic-in-competitive-bidding-beating-out-nbc?utm_medium=rss)
+ - [CDC Survey Finds the Pandemic Had a Big Impact on Teens&#39; Mental Health     - CNET](https://www.cnet.com/news/cdc-survey-finds-the-pandemic-had-a-big-impact-on-teens-mental-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
