@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy is the best.](http://9gag.com/gag/a31ygD3)
- - 🚯 [Call the Ambulance](http://9gag.com/gag/aGzMv60)
- - 🚯 [I&#39;ve seen distractions in sports before, but this is a new one](http://9gag.com/gag/a918ev0)<!-- MEMES:END -->
+ - 🚖 [`A real knack for it`](http://9gag.com/gag/aRrzWWj)
+ - 🚯 [One tank army](http://9gag.com/gag/a71Vgvm)
+ - 🚯 [This guy is living in 3022](http://9gag.com/gag/a71VB8m)<!-- MEMES:END -->
 
 --- 
 
