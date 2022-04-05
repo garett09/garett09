@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon deal alert: Apple&#39;s 14-inch MacBook Pro drops to $1,799 &lpar;up to $250 off&rpar;](https://appleinsider.com/articles/22/04/05/amazon-deal-alert-apples-14-inch-macbook-pro-drops-to-1799-up-to-250-off?utm_medium=rss)
- - [It’s time to give up your Galaxy S9 and S9 Plus as Samsung ends software support](https://www.androidauthority.com/samsung-galaxy-s9-end-of-software-support-3149055/)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-prime-video-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE 2022 released: Same phone, cheaper price](https://www.androidauthority.com/samsung-galaxy-s20-fe-2022-3148644/)
+ - [As subscriber growth slows, Netflix should consider introducing an ad-supported tier, which could help it add subscribers, raise prices, and reduce churn &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220405/p2#a220405p2)
+ - [Amazon deal alert: Apple&#39;s 14-inch MacBook Pro drops to $1,799 &lpar;up to $250 off&rpar;](https://appleinsider.com/articles/22/04/05/amazon-deal-alert-apples-14-inch-macbook-pro-drops-to-1799-up-to-250-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
