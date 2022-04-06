@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any candidates](http://9gag.com/gag/amgmZny)
- - 🚯 [Former president and current prime minister Rajakshas sons sports cars are shipping away from county due to mass protests against Rajapaksha regime...](http://9gag.com/gag/adgnD5M)
+ - 🚖 [Former president and current prime minister Rajakshas sons sports cars are shipping away from county due to mass protests against Rajapaksha regime...](http://9gag.com/gag/adgnD5M)
+ - 🚯 [Happy wednesday, please one person take one](http://9gag.com/gag/aOQDWEE)
  - 🚯 [These beds are designed to give more independence to the elderly and people with disabilities.](http://9gag.com/gag/aXr46Ng)<!-- MEMES:END -->
 
 --- 
