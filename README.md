@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Camera shootout: OnePlus 10 Pro vs Google Pixel 6 Pro](https://www.androidauthority.com/oneplus-10-pro-vs-google-pixel-6-pro-camera-test-3145545/)
- - [Step Away From Screens With the 19 Best Family Board Games](https://www.wired.com/gallery/best-family-board-games)
- - [Alienware’s QD-OLED monitor sets a new standard for gaming displays](https://www.theverge.com/23011794/alienware-aw3423dw-review-qd-oled-curved-gaming-pc-monitor)<!-- TECH:END -->
+ - [OpenAI unveils DALL-E 2, the successor to its text-to-image neural network, built using its CLIP language model and available to researchers in preview &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220406/p22#a220406p22)
+ - [When Gig Workers Are Murdered, Their Families Foot the Bill](https://www.wired.com/story/gig-workers-murder-report)
+ - [More than 50 gig workers have been killed while working in the US since 2017](https://www.theverge.com/2022/4/6/23012229/rideshare-delivery-drivers-killed-gig-workers-death)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
