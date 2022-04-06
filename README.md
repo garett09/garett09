@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount won’t stop making Star Trek NFTs](https://www.theverge.com/2022/4/6/23013716/paramount-nft-marketplace-star-trek-collectable-ships)
- - [Creators say Instagram is cutting Reels payouts](https://www.theverge.com/2022/4/6/23013399/instagram-reels-payments-cuts)
- - [Amazon will increase its Music Unlimited plan on Prime from $7.99/month to $8.99/month and its Single Device plan from $3.99/month to $4.99/month on May 5 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220406/p31#a220406p31)<!-- TECH:END -->
+ - [Sen. Patrick Toomey introduces a bill to regulate stablecoins, including defining a &quot;payment stablecoin&quot;, creating a license for issuers, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220406/p34#a220406p34)
+ - [Sports e-commerce company Fanatics raises $1.5B at a $27B valuation led by the NFL, MLB, and others; the NFL invested $320M, the biggest portion of funding &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/220406/p33#a220406p33)
+ - [PitchBook and NVCA data: US VCs raised $73.8B in Q1 2022 and invested $70.7B across 3,723 deals, down from $77B invested across 4,282 deals in Q1 2021 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/220406/p32#a220406p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
