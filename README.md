@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #291: Wednesday, April 6](https://www.pcgamer.com/wordle-april-6-291)
- - [Boston Dynamics&#39; Spot is doing a big protecc at the ancient city of Pompeii](https://www.pcgamer.com/boston-dynamics-spot-is-doing-a-big-protecc-at-the-ancient-city-of-pompeii)
- - [Corsair launches newest capture card with the Elgato HD60 X](https://www.pcgamer.com/corsair-launches-newest-capture-card-with-the-elgato-hd60-x)<!-- GAME:END -->
+ - [French President Emmanuel Macron&#39;s reelection campaign has its own Minecraft server](https://www.pcgamer.com/french-president-emmanuel-macrons-reelection-campaign-has-its-own-minecraft-server)
+ - [Funimation&#39;s YouTube Channel Is Now Crunchyroll Dubs](https://kotaku.com/funimation-crunchyroll-anime-sony-animation-japan-dubs-1848755611)
+ - [Today&#39;s Wordle answer #291: Wednesday, April 6](https://www.pcgamer.com/wordle-april-6-291)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
