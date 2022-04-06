@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Center for Countering Digital Hate: a study of 8,717 DMs sent to five high profile women shows Instagram didn&#39;t act on 90% of reported abusive direct messages &lpar;Washington Post&rpar;](http://www.techmeme.com/220406/p2#a220406p2)
- - [Investigation reveals Worldcoin, which collects iris scans in exchange for free crypto, is wrestling with issues, from angry field operators to privacy concerns &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/220406/p1#a220406p1)
- - [Meta introduces &quot;Sharing to Reels&quot;, an integration that lets developers add the ability to post videos directly to Facebook Reels from their third-party apps &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220405/p49#a220405p49)<!-- TECH:END -->
+ - [Anker’s first 3D printer might be the one you’ve been waiting for](https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch)
+ - [Vevo to ‘review’ security after YouTube feeds for Lil Nas X, Justin Bieber, and others were hacked](https://www.theverge.com/2022/4/6/23012513/youtube-vevo-hack-lil-nas-x-taylor-swift-michael-jackson)
+ - [The Samsung Galaxy S22 FE, S23 series could have Mediatek power](https://www.androidauthority.com/samsung-galaxy-s22-fe-s23-mediatek-3149532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
