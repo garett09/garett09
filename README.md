@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much is a Fitbit?](https://www.androidauthority.com/how-much-is-a-fitbit-3122080/)
- - [Binance.US, the exchange&#39;s American affiliate, raises a $200M seed at a $4.5B pre-money valuation from RRE Ventures and others &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220406/p17#a220406p17)
- - [The Best Laptop Backpacks for Work &lpar;and Life&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work)<!-- TECH:END -->
+ - [Camera shootout: OnePlus 10 Pro vs Google Pixel 6 Pro](https://www.androidauthority.com/oneplus-10-pro-vs-google-pixel-6-pro-camera-test-3145545/)
+ - [Step Away From Screens With the 19 Best Family Board Games](https://www.wired.com/gallery/best-family-board-games)
+ - [Alienware’s QD-OLED monitor sets a new standard for gaming displays](https://www.theverge.com/23011794/alienware-aw3423dw-review-qd-oled-curved-gaming-pc-monitor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
