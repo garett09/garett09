@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report says over 50 gig workers have been killed while working in the US since 2017; families of the slain workers say Uber, Lyft, and others often do little &lpar;Dara Kerr/The Markup&rpar;](http://www.techmeme.com/220406/p30#a220406p30)
- - [Google is going to hide outdated apps from new users on the Play Store this year](https://www.androidauthority.com/outdated-apps-play-store-3149943/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Paramount won’t stop making Star Trek NFTs](https://www.theverge.com/2022/4/6/23013716/paramount-nft-marketplace-star-trek-collectable-ships)
+ - [Creators say Instagram is cutting Reels payouts](https://www.theverge.com/2022/4/6/23013399/instagram-reels-payments-cuts)
+ - [Amazon will increase its Music Unlimited plan on Prime from $7.99/month to $8.99/month and its Single Device plan from $3.99/month to $4.99/month on May 5 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220406/p31#a220406p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
