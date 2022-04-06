@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer Keyboards are on sale with a free Viper Ultimate wireless mouse](https://www.pcgamer.com/razer-keyboards-are-on-sale-with-a-free-viper-ultimate-wireless-mouse)
  - [Noctua launches its low profile NH-D12L dual tower cooler](https://www.pcgamer.com/noctua-launches-its-low-profile-nh-d12l-dual-tower-cooler)
- - [Logan Paul&#39;s New Website Will Take Collectibles, Lock Them In A &#39;Vault&#39; Then Sell Tokens](https://kotaku.com/logan-paul-nft-crypto-blockchain-collectible-liquid-mar-1848754829)
- - [Hearthstone is selling a single card for $25 and players aren&#39;t loving it](https://www.pcgamer.com/hearthstone-is-selling-a-single-card-for-dollar25-and-players-arent-loving-it)<!-- GAME:END -->
+ - [Logan Paul&#39;s New Website Will Take Collectibles, Lock Them In A &#39;Vault&#39; Then Sell Tokens](https://kotaku.com/logan-paul-nft-crypto-blockchain-collectible-liquid-mar-1848754829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
