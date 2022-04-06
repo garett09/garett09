@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your daily shitty news.](http://9gag.com/gag/avAENnM)
+ - 🚖 [If you want more advice just ask](http://9gag.com/gag/adgnG3Q)
  - 🚯 [We all have that one friend](http://9gag.com/gag/avAEM3E)
- - 🚯 [Funny cus she.....](http://9gag.com/gag/a51GOmV)<!-- MEMES:END -->
+ - 🚯 [Men after 25 yrs can relate.](http://9gag.com/gag/aXr45bD)<!-- MEMES:END -->
 
 --- 
 
