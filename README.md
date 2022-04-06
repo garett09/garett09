@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emoji reactions are coming to Google Docs](https://www.theverge.com/2022/4/6/23012839/google-docs-emoji-reactions)
- - [We asked, you told us: Most of you don’t care for Android chat bubbles](https://www.androidauthority.com/android-chat-bubbles-poll-results-3149590/)
- - [&#39;Moon Knight&#39; Episode 2 Recap: Oscar Isaac Dives Further Down The Marvel Rabbit Hole     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-2-recap-oscar-isaac-dives-further-down-the-marvel-rabbit-hole/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: 📺 A Plex flex](https://www.androidauthority.com/daily-authority-plex-april-6-2022-3149642/)
+ - [The best OnePlus 10 Pro screen protectors you can buy](https://www.androidauthority.com/oneplus-10-pro-screen-protectors-3149168/)
+ - [AMD confirms a bug in its GPU driver is auto-overclocking Ryzen CPUs without the user&#39;s knowledge by changing settings in the BIOS &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220406/p5#a220406p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
