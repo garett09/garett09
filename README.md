@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Body temperature check in my city](http://9gag.com/gag/angvLVE)
- - 🚯 [Who remembers this masterpiece](http://9gag.com/gag/azeGNXB)
- - 🚯 [The secrets of magic](http://9gag.com/gag/aQXAGYd)<!-- MEMES:END -->
+ - 🚖 [Accept your fate](http://9gag.com/gag/apgPydb)
+ - 🚯 [The secrets of magic](http://9gag.com/gag/aQXAGYd)
+ - 🚯 [Burt wants to be a house sheep](http://9gag.com/gag/amgmEGd)<!-- MEMES:END -->
 
 --- 
 
