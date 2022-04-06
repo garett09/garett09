@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Preserving art through Tilda’s Vault in Horizon Forbidden West](https://blog.playstation.com/2022/04/06/preserving-art-through-tildas-vault-in-horizon-forbidden-west/)
- - [Preserving art through Tilda’s Vault in Horizon Forbidden West](https://blog.playstation.com/2022/04/06/preserving-art-through-tildas-vault-in-horizon-forbidden-west/)
- - [Dune: Spice Wars launches in early access in April](https://www.polygon.com/23012919/dune-spice-wars-release-date-early-access)<!-- GAME:END -->
+ - [The Wheel of Time comes to GOG.com as a ‘Good Old Game’](https://www.polygon.com/23013059/wheel-of-time-game-gog-release-date-robert-jordan)
+ - [The First 17 Minutes Of Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-the-skywalker-saga-pc-xbox-switch-playst-1848753114)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
