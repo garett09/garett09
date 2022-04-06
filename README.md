@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thinking back and realizing that she was flirting with me](http://9gag.com/gag/a115ybP)
+ - 🚖 [Go Greece!](http://9gag.com/gag/a115ymD)
  - 🚯 [Your daily shitty news.](http://9gag.com/gag/avAENnM)
- - 🚯 [We all have that one friend](http://9gag.com/gag/avAEM3E)<!-- MEMES:END -->
+ - 🚯 [You ladies out there](http://9gag.com/gag/a31y68v)<!-- MEMES:END -->
 
 --- 
 
