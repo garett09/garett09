@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Musk on the Twitter board, Parag Agrawal may struggle to balance his own vision against that of an unpredictable board member with a much louder megaphone &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220405/p47#a220405p47)
- - [Rattle, which lets sales teams integrate CRM apps like Salesforce inside Slack or Microsoft Teams, raises a $26M Series A led by Insight Partners &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220405/p46#a220405p46)
- - [Intel is suspending all business operations in Russia and says it has implemented business continuity measures to minimize disruption to its global operations &lpar;Maria Ponnezhath/Reuters&rpar;](http://www.techmeme.com/220405/p45#a220405p45)<!-- TECH:END -->
+ - [Google AI claims PaLM, its 540B parameter, dense decoder-only Transformer model, shows breakthrough capabilities in tasks like language, reasoning, and coding &lpar;Google AI Blog&rpar;](http://www.techmeme.com/220405/p48#a220405p48)
+ - [&#39;Our Flag Means Death&#39; on HBO Max Is Almost Perfect, Until That Ending     - CNET](https://www.cnet.com/culture/entertainment/our-flag-means-death-on-hbo-max-is-almost-perfect-until-that-ending/#ftag=CAD590a51e)
+ - [With Musk on the Twitter board, Parag Agrawal may struggle to balance his own vision against that of an unpredictable board member with a much louder megaphone &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220405/p47#a220405p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
