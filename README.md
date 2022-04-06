@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wheel of Time comes to GOG.com as a ‘Good Old Game’](https://www.polygon.com/23013059/wheel-of-time-game-gog-release-date-robert-jordan)
- - [The First 17 Minutes Of Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-the-skywalker-saga-pc-xbox-switch-playst-1848753114)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
+ - [The key to making chess better? Shotguns](https://www.polygon.com/23009866/action-chess-vrchat-real-estate)
+ - [Look Out, Horizon Forbidden West Has A Hole In It](https://kotaku.com/horizon-forbidden-west-out-of-bounds-cave-guerrilla-gam-1848755946)
+ - [Six months after horrific launch, Konami’s eFootball gets 1.0 release](https://www.polygon.com/23013154/konami-efootball-1-0-version-release-date-glitches-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
