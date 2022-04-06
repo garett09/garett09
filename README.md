@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MicroStrategy uses a loan against its bitcoin holdings to buy $190.5M more bitcoin, a first for the company; MicroStrategy now owns 129,218 BTC, worth ~$6B &lpar;Crystal Kim/Bloomberg&rpar;](http://www.techmeme.com/220406/p9#a220406p9)
- - [Berlin-based Productsup, which offers e-commerce tools for 900+ brands, raises a $70M Series B led by Bregal Milestone, bringing its total funding to ~$90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220406/p8#a220406p8)
- - [Uber says it plans to add long-distance travel bookings to its UK app in 2022, including intercity trains, coaches, and flights &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/220406/p7#a220406p7)<!-- TECH:END -->
+ - [&#39;Apple Classical&#39; app may be nearing, code in iOS 15.5 beta suggests](https://appleinsider.com/articles/22/04/06/apple-classical-app-may-be-nearing-code-in-ios-155-beta-suggests?utm_medium=rss)
+ - [For Kids Fleeing Ukraine, Wartime Trauma May Leave Lasting Wounds](https://www.wired.com/story/ukraine-children-refugees-war-trauma)
+ - [Europe Is Building a Huge International Facial Recognition System](https://www.wired.com/story/europe-police-facial-recognition-prum)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
