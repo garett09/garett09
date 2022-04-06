@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a court-authorized March operation, FBI removed Cyclops Blink botnet, tied to Russia-backed Sandworm, from thousands of Asus and WatchGuard routers in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220406/p27#a220406p27)
- - [GoPro Volta: The new must-have action cam accessory](https://appleinsider.com/articles/22/04/06/gopro-volta-the-new-must-have-action-cam-accessory?utm_medium=rss)
- - [Google removes dozens of Android apps, including several Muslim prayer apps with 10M+ downloads, after researchers find malware tied to a US defense contractor &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220406/p26#a220406p26)<!-- TECH:END -->
+ - [A new Orphan Black series is in the works at AMC](https://www.theverge.com/2022/4/6/23013449/orphan-black-echoes-amc)
+ - [Pinterest announces a comprehensive policy to ban ads and posts that feature climate misinformation, the first major online platform to do so &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220406/p29#a220406p29)
+ - [Apple testing App Store feature that automatically opts users in to price hikes](https://appleinsider.com/articles/22/04/06/apple-testing-app-store-feature-that-automatically-opts-users-in-to-price-hikes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
