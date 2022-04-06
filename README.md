@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s 16-inch MacBook Pro is on sale for $2,299 and in stock, plus every upgraded model is up to $300 off](https://appleinsider.com/articles/22/04/06/deals-apples-16-inch-macbook-pro-is-on-sale-for-2299-and-in-stock-plus-every-upgraded-model-is-up-to-300-off?utm_medium=rss)
- - [The DOJ charges Russian national Dmitry Olegovich Pavlov with running the Hydra Market darknet, after German police shut the service down &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220406/p24#a220406p24)
- - [Join us for a screening and panel discussion of Springboard at the Computer History Museum](https://www.theverge.com/2022/4/6/23011326/springboard-screening-computer-history-museum)<!-- TECH:END -->
+ - [In a court-authorized March operation, FBI removed Cyclops Blink botnet, tied to Russia-backed Sandworm, from thousands of Asus and WatchGuard routers in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220406/p27#a220406p27)
+ - [GoPro Volta: The new must-have action cam accessory](https://appleinsider.com/articles/22/04/06/gopro-volta-the-new-must-have-action-cam-accessory?utm_medium=rss)
+ - [Google removes dozens of Android apps, including several Muslim prayer apps with 10M+ downloads, after researchers find malware tied to a US defense contractor &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220406/p26#a220406p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
