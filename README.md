@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For These Players, It’s All About The Elden Bling](https://kotaku.com/elden-ring-fashion-dark-souls-bling-fromsoftware-guts-c-1848759373)
- - [The cancelled Deus Ex movie script actually sounds pretty good](https://www.pcgamer.com/the-cancelled-deus-ex-movie-script-actually-sounds-pretty-good)
- - [In Norco’s sci-fi world, smartphones are literal brain poison](https://www.polygon.com/gaming/23013730/norco-narrative-game-cellphones-gig-work)<!-- GAME:END -->
+ - [Max Payne and Max Payne 2 remakes coming from Remedy and Rockstar](https://www.polygon.com/23013939/max-payne-remakes-remedy-rockstar)
+ - [Remedy Remaking Max Payne 1 And 2 Inside Control Engine](https://kotaku.com/remedy-remaking-max-payne-1-and-2-inside-control-engine-1848759888)
+ - [For These Players, It’s All About The Elden Bling](https://kotaku.com/elden-ring-fashion-dark-souls-bling-fromsoftware-guts-c-1848759373)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
