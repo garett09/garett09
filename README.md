@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moon Knight’s secret Easter egg is free comics](https://www.polygon.com/2022/4/6/23013343/moon-knight-easter-eggs-qr-codes-free-comics)
- - [Lego Star Wars: The Skywalker Saga, As Told By Steam Reviews](https://kotaku.com/lego-star-wars-skywalker-saga-steam-reviews-sarlussy-lu-1848758033)
- - [Sonic the Hedgehog 2 leans real hard on Knuckles mythos and Jim Carrey mania](https://www.polygon.com/23013568/sonic-the-hedgehog-2-review-jim-carrey)<!-- GAME:END -->
+ - [Deliver Us Mars is a Thrilling New Xbox Series X|S Sci-Fi Adventure](https://news.xbox.com/en-us/2022/04/06/deliver-us-mars-announce/)
+ - [Nintendo Walked Right Into Porn When Promoting Switch Sports](https://kotaku.com/nintendo-switch-sports-bowling-porn-europe-twitter-wyer-1848758201)
+ - [Moon Knight’s secret Easter egg is free comics](https://www.polygon.com/2022/4/6/23013343/moon-knight-easter-eggs-qr-codes-free-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
