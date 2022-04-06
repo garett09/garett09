@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)
- - [Emulation on the Steam Deck is already getting way more convenient](https://www.pcgamer.com/emulation-on-the-steam-deck-is-already-getting-way-more-convenient)
- - [Trek to Yomi release date is just weeks away](https://www.pcgamer.com/trek-to-yomi-release-date-is-just-weeks-away)<!-- GAME:END -->
+ - [Logan Paul&#39;s New Website Will Take Collectibles, Lock Them In A &#39;Vault&#39; Then Sell Tokens](https://kotaku.com/logan-paul-nft-crypto-blockchain-collectible-liquid-mar-1848754829)
+ - [Hearthstone is selling a single card for $25 and players aren&#39;t loving it](https://www.pcgamer.com/hearthstone-is-selling-a-single-card-for-dollar25-and-players-arent-loving-it)
+ - [Best graphics card deals in Australia &lpar;April 2022&rpar;](https://www.pcgamer.com/best-graphics-card-deals-in-australia-march-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
