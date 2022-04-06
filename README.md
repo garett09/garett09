@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was as that moment he realized he f*cked up](http://9gag.com/gag/aVxmNpn)
- - 🚯 [Men after 25 yrs can relate.](http://9gag.com/gag/aXr45bD)
+ - 🚖 [I miss being 10yo and watching cartoons all day](http://9gag.com/gag/amgmjNd)
+ - 🚯 [Body temperature check in my city](http://9gag.com/gag/angvLVE)
  - 🚯 [Burt wants to be a house sheep](http://9gag.com/gag/amgmEGd)<!-- MEMES:END -->
 
 --- 
