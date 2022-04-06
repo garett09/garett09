@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hollywood :&lpar;](http://9gag.com/gag/aAG4j09)
- - 🚯 [We all have that one friend](http://9gag.com/gag/avAEM3E)
- - 🚯 [Men after 25 yrs can relate.](http://9gag.com/gag/aXr45bD)<!-- MEMES:END -->
+ - 🚖 [It was as that moment he realized he f*cked up](http://9gag.com/gag/aVxmNpn)
+ - 🚯 [Men after 25 yrs can relate.](http://9gag.com/gag/aXr45bD)
+ - 🚯 [Burt wants to be a house sheep](http://9gag.com/gag/amgmEGd)<!-- MEMES:END -->
 
 --- 
 
