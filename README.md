@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How have I been?](http://9gag.com/gag/aE8o5Bp)
- - 🚯 [The Undertaker](http://9gag.com/gag/aGzM5z6)
- - 🚯 [Someone Previously Laughed at vs Someone Previously Feared of, don](http://9gag.com/gag/aKmW5Pg)<!-- MEMES:END -->
+ - 🚖 [The Undertaker](http://9gag.com/gag/aGzM5z6)
+ - 🚯 [Someone Previously Laughed at vs Someone Previously Feared of, don](http://9gag.com/gag/aKmW5Pg)
+ - 🚯 [This guy is the best.](http://9gag.com/gag/a31ygD3)<!-- MEMES:END -->
 
 --- 
 
