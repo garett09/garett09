@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These beds are designed to give more independence to the elderly and people with disabilities.](http://9gag.com/gag/aXr46Ng)
- - 🚯 [Remember when Microsoft said that Win10 will be the last one and later there will be only updates for it? Pepperidge farms remembers...](http://9gag.com/gag/aegVB2b)
- - 🚯 [Former president and current prime minister Rajakshas sons sports cars are shipping away from county due to mass protests against Rajapaksha regime...](http://9gag.com/gag/adgnD5M)<!-- MEMES:END -->
+ - 🚖 [Any candidates](http://9gag.com/gag/amgmZny)
+ - 🚯 [Former president and current prime minister Rajakshas sons sports cars are shipping away from county due to mass protests against Rajapaksha regime...](http://9gag.com/gag/adgnD5M)
+ - 🚯 [These beds are designed to give more independence to the elderly and people with disabilities.](http://9gag.com/gag/aXr46Ng)<!-- MEMES:END -->
 
 --- 
 
