@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The key to making chess better? Shotguns](https://www.polygon.com/23009866/action-chess-vrchat-real-estate)
- - [Look Out, Horizon Forbidden West Has A Hole In It](https://kotaku.com/horizon-forbidden-west-out-of-bounds-cave-guerrilla-gam-1848755946)
- - [Six months after horrific launch, Konami’s eFootball gets 1.0 release](https://www.polygon.com/23013154/konami-efootball-1-0-version-release-date-glitches-steam)<!-- GAME:END -->
+ - [Doctor Strange 2’s new trailer is full of teases but doesn’t reveal the multiverse’s secrets](https://www.polygon.com/22948140/doctor-strange-multiverse-of-madness-trailer-wanda-villain-professor-x-deadpool)
+ - [21 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
+ - [Chrono Cross: The Radical Dreamers Edition – Remastering a classic](https://blog.playstation.com/2022/04/06/chrono-cross-the-radical-dreamers-edition-remastering-a-classic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
