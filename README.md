@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI unveils DALL-E 2, the successor to its text-to-image neural network, built using its CLIP language model and available to researchers in preview &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220406/p22#a220406p22)
- - [When Gig Workers Are Murdered, Their Families Foot the Bill](https://www.wired.com/story/gig-workers-murder-report)
- - [More than 50 gig workers have been killed while working in the US since 2017](https://www.theverge.com/2022/4/6/23012229/rideshare-delivery-drivers-killed-gig-workers-death)<!-- TECH:END -->
+ - [Deals: Apple&#39;s 16-inch MacBook Pro is on sale for $2,299 and in stock, plus every upgraded model is up to $300 off](https://appleinsider.com/articles/22/04/06/deals-apples-16-inch-macbook-pro-is-on-sale-for-2299-and-in-stock-plus-every-upgraded-model-is-up-to-300-off?utm_medium=rss)
+ - [The DOJ charges Russian national Dmitry Olegovich Pavlov with running the Hydra Market darknet, after German police shut the service down &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220406/p24#a220406p24)
+ - [Join us for a screening and panel discussion of Springboard at the Computer History Museum](https://www.theverge.com/2022/4/6/23011326/springboard-screening-computer-history-museum)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
