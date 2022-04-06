@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Apple Classical&#39; app may be nearing, code in iOS 15.5 beta suggests](https://appleinsider.com/articles/22/04/06/apple-classical-app-may-be-nearing-code-in-ios-155-beta-suggests?utm_medium=rss)
- - [For Kids Fleeing Ukraine, Wartime Trauma May Leave Lasting Wounds](https://www.wired.com/story/ukraine-children-refugees-war-trauma)
- - [Europe Is Building a Huge International Facial Recognition System](https://www.wired.com/story/europe-police-facial-recognition-prum)<!-- TECH:END -->
+ - [Grafana Labs, which develops the popular Grafana visualization tools, raises a $240M Series D led by GIC, bringing its total funding to $540M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220406/p14#a220406p14)
+ - [How cryptocurrency exchange FTX wants to automate risk management in US futures trading, replacing traditional brokers with its tech, and introduce 24/7 trading &lpar;Financial Times&rpar;](http://www.techmeme.com/220406/p13#a220406p13)
+ - [7 Linktree Alternatives for Your ‘Link in Bio’](https://www.wired.com/story/link-in-bio-linktree-alternatives)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
