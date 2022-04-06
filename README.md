@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s first 3D printer might be the one you’ve been waiting for](https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch)
- - [Vevo to ‘review’ security after YouTube feeds for Lil Nas X, Justin Bieber, and others were hacked](https://www.theverge.com/2022/4/6/23012513/youtube-vevo-hack-lil-nas-x-taylor-swift-michael-jackson)
- - [The Samsung Galaxy S22 FE, S23 series could have Mediatek power](https://www.androidauthority.com/samsung-galaxy-s22-fe-s23-mediatek-3149532/)<!-- TECH:END -->
+ - [Emoji reactions are coming to Google Docs](https://www.theverge.com/2022/4/6/23012839/google-docs-emoji-reactions)
+ - [We asked, you told us: Most of you don’t care for Android chat bubbles](https://www.androidauthority.com/android-chat-bubbles-poll-results-3149590/)
+ - [&#39;Moon Knight&#39; Episode 2 Recap: Oscar Isaac Dives Further Down The Marvel Rabbit Hole     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-2-recap-oscar-isaac-dives-further-down-the-marvel-rabbit-hole/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
