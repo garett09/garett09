@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy is the best.](http://9gag.com/gag/a31ygD3)
- - 🚯 [We see runway, we land. Quick maff.](http://9gag.com/gag/aM4n7oV)
+ - 🚖 [We see runway, we land. Quick maff.](http://9gag.com/gag/aM4n7oV)
+ - 🚯 [Oh come on](http://9gag.com/gag/aBnP5rP)
  - 🚯 [Just me?](http://9gag.com/gag/amgmwPd)<!-- MEMES:END -->
 
 --- 
