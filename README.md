@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📺 A Plex flex](https://www.androidauthority.com/daily-authority-plex-april-6-2022-3149642/)
- - [The best OnePlus 10 Pro screen protectors you can buy](https://www.androidauthority.com/oneplus-10-pro-screen-protectors-3149168/)
- - [AMD confirms a bug in its GPU driver is auto-overclocking Ryzen CPUs without the user&#39;s knowledge by changing settings in the BIOS &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220406/p5#a220406p5)<!-- TECH:END -->
+ - [MicroStrategy uses a loan against its bitcoin holdings to buy $190.5M more bitcoin, a first for the company; MicroStrategy now owns 129,218 BTC, worth ~$6B &lpar;Crystal Kim/Bloomberg&rpar;](http://www.techmeme.com/220406/p9#a220406p9)
+ - [Berlin-based Productsup, which offers e-commerce tools for 900+ brands, raises a $70M Series B led by Bregal Milestone, bringing its total funding to ~$90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220406/p8#a220406p8)
+ - [Uber says it plans to add long-distance travel bookings to its UK app in 2022, including intercity trains, coaches, and flights &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/220406/p7#a220406p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
