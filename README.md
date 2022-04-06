@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange 2’s new trailer is full of teases but doesn’t reveal the multiverse’s secrets](https://www.polygon.com/22948140/doctor-strange-multiverse-of-madness-trailer-wanda-villain-professor-x-deadpool)
- - [21 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
- - [Chrono Cross: The Radical Dreamers Edition – Remastering a classic](https://blog.playstation.com/2022/04/06/chrono-cross-the-radical-dreamers-edition-remastering-a-classic/)<!-- GAME:END -->
+ - [Jesse Cox and Alec Steele Team Up to Crack Open a Giant Stone Block Sent from PC Game Pass](https://news.xbox.com/en-us/2022/04/06/crack-open-giant-stone-block-from-pc-game-pass/)
+ - [Horizon Forbidden West now lets Aloy grab loot while on the go](https://www.polygon.com/23013374/horizon-forbidden-west-disable-animations-toggle-setting)
+ - [THQ Nordic plans summer games showcase for August](https://www.polygon.com/23013307/thq-nordic-digital-showcase-2022-date-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
