@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Orphan Black series is in the works at AMC](https://www.theverge.com/2022/4/6/23013449/orphan-black-echoes-amc)
- - [Pinterest announces a comprehensive policy to ban ads and posts that feature climate misinformation, the first major online platform to do so &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220406/p29#a220406p29)
- - [Apple testing App Store feature that automatically opts users in to price hikes](https://appleinsider.com/articles/22/04/06/apple-testing-app-store-feature-that-automatically-opts-users-in-to-price-hikes?utm_medium=rss)<!-- TECH:END -->
+ - [A report says over 50 gig workers have been killed while working in the US since 2017; families of the slain workers say Uber, Lyft, and others often do little &lpar;Dara Kerr/The Markup&rpar;](http://www.techmeme.com/220406/p30#a220406p30)
+ - [Google is going to hide outdated apps from new users on the Play Store this year](https://www.androidauthority.com/outdated-apps-play-store-3149943/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
