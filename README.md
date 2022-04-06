@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We see runway, we land. Quick maff.](http://9gag.com/gag/aM4n7oV)
- - 🚯 [Oh come on](http://9gag.com/gag/aBnP5rP)
- - 🚯 [Just me?](http://9gag.com/gag/amgmwPd)<!-- MEMES:END -->
+ - 🚖 [Imagine walking through there](http://9gag.com/gag/abgW85L)
+ - 🚯 [Burger bracelet and sh*t](http://9gag.com/gag/agg8e8x)
+ - 🚯 [Teacher hunting student using phone in class](http://9gag.com/gag/aBnPemz)<!-- MEMES:END -->
 
 --- 
 
