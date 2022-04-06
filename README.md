@@ -197,7 +197,7 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you want more advice just ask](http://9gag.com/gag/adgnG3Q)
+ - 🚖 [Hollywood :&lpar;](http://9gag.com/gag/aAG4j09)
  - 🚯 [We all have that one friend](http://9gag.com/gag/avAEM3E)
  - 🚯 [Men after 25 yrs can relate.](http://9gag.com/gag/aXr45bD)<!-- MEMES:END -->
 
