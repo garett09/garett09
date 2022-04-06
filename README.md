@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta introduces &quot;Sharing to Reels&quot;, an integration that lets developers add the ability to post videos directly to Facebook Reels from their third-party apps &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220405/p49#a220405p49)
- - [Google AI claims PaLM, its 540B parameter, dense decoder-only Transformer model, shows breakthrough capabilities in tasks like language, reasoning, and coding &lpar;Google AI Blog&rpar;](http://www.techmeme.com/220405/p48#a220405p48)
- - [&#39;Our Flag Means Death&#39; on HBO Max Is Almost Perfect, Until That Cliffhanger     - CNET](https://www.cnet.com/culture/entertainment/our-flag-means-death-on-hbo-max-is-almost-perfect-until-that-ending/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Center for Countering Digital Hate: a study of 8,717 DMs sent to five high profile women shows Instagram didn&#39;t act on 90% of reported abusive direct messages &lpar;Washington Post&rpar;](http://www.techmeme.com/220406/p2#a220406p2)
+ - [Investigation reveals Worldcoin, which collects iris scans in exchange for free crypto, is wrestling with issues, from angry field operators to privacy concerns &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/220406/p1#a220406p1)
+ - [Meta introduces &quot;Sharing to Reels&quot;, an integration that lets developers add the ability to post videos directly to Facebook Reels from their third-party apps &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220405/p49#a220405p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
