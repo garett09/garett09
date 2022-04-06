@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 8 million customers affected in Cash App data breach](https://appleinsider.com/articles/22/04/05/over-8-million-customers-affected-in-cash-app-data-breach?utm_medium=rss)
- - [Elon Musk updates the paperwork on his shocking Twitter purchase to avoid extra SEC drama](https://www.theverge.com/2022/4/5/23012266/elon-musk-sec-twitter-stock-acquisition-13d-tesla)
- - [Whistleblower says DeepMind waited months to fire a researcher accused of sexual misconduct](https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused)<!-- TECH:END -->
+ - [South Korea says Google can&#39;t block developers from providing an in-app link to an outside website to buy digital goods under the country&#39;s app payment law &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220405/p43#a220405p43)
+ - [What does idle mean and how do you set it on Discord?](https://www.androidauthority.com/idle-discord-3149440/)
+ - [Twitter requires removing tweets posted by government or state-affiliated media accounts that contain media of prisoners of war from the Russia-Ukraine conflict &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220405/p42#a220405p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
