@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #291: Wednesday, April 6](https://www.pcgamer.com/wordle-april-6-291)
  - [Boston Dynamics&#39; Spot is doing a big protecc at the ancient city of Pompeii](https://www.pcgamer.com/boston-dynamics-spot-is-doing-a-big-protecc-at-the-ancient-city-of-pompeii)
- - [Corsair launches newest capture card with the Elgato HD60 X](https://www.pcgamer.com/corsair-launches-newest-capture-card-with-the-elgato-hd60-x)
- - [Graphics card shipments increased by nearly 30% year over year in 2021](https://www.pcgamer.com/graphics-card-shipments-increased-by-nearly-30-year-over-year-in-2021)<!-- GAME:END -->
+ - [Corsair launches newest capture card with the Elgato HD60 X](https://www.pcgamer.com/corsair-launches-newest-capture-card-with-the-elgato-hd60-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
