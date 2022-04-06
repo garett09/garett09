@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New sales stats show explosive growth for comics and manga in America](https://www.polygon.com/23013512/us-manga-sales-chartbeat-feature-tracking-sales-drama)
- - [Lego Star Wars Makes Comboing Younglings A Real Strategy](https://kotaku.com/lego-star-wars-skywalker-saga-younglings-lightsaber-com-1848758996)
- - [Lego Star Wars: The Skywalker Saga player discovers how to fly by beating up Anakin](https://www.polygon.com/23013620/lego-star-wars-skywalker-saga-red-orb-child-flight-mechanic)<!-- GAME:END -->
+ - [For These Players, It’s All About The Elden Bling](https://kotaku.com/elden-ring-fashion-dark-souls-bling-fromsoftware-guts-c-1848759373)
+ - [The cancelled Deus Ex movie script actually sounds pretty good](https://www.pcgamer.com/the-cancelled-deus-ex-movie-script-actually-sounds-pretty-good)
+ - [In Norco’s sci-fi world, smartphones are literal brain poison](https://www.polygon.com/gaming/23013730/norco-narrative-game-cellphones-gig-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
