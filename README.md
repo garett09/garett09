@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple restores the &quot;Smart Voting&quot; app run by Kremlin critic Alexei Navalny&#39;s supporters in Russia; Apple removed the app after the Kremlin threatened its execs &lpar;Washington Post&rpar;](http://www.techmeme.com/220406/p37#a220406p37)
- - [Deals: Apple&#39;s 16-inch MacBook Pro is on sale for $2,299 and in stock, plus every upgraded model is up to $300 off](https://appleinsider.com/articles/22/04/06/deals-apples-16-inch-macbook-pro-is-on-sale-for-2299-and-in-stock-plus-every-upgraded-model-is-up-to-300-off?utm_medium=rss)
- - [Army Corps of Engineers closes SpaceX Starbase permit application citing lack of information](https://www.theverge.com/2022/4/6/23013435/spacex-starbase-starship-army-corps-engineers-permit-application)<!-- TECH:END -->
+ - [Ascend.io, which develops data automation tools for enterprise customers, raises a $31M Series B led by Tiger Global &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220406/p39#a220406p39)
+ - [The best multisport smartwatches for athletes who can’t sit still](https://www.androidauthority.com/multisport-smartwatches-3144389/)
+ - [Meta is reportedly making ‘Zuck Bucks’](https://www.theverge.com/2022/4/6/23013896/meta-facebook-zuck-bucks-finance-financial-services-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
