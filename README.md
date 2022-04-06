@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Undertaker](http://9gag.com/gag/aGzM5z6)
- - 🚯 [Someone Previously Laughed at vs Someone Previously Feared of, don](http://9gag.com/gag/aKmW5Pg)
- - 🚯 [This guy is the best.](http://9gag.com/gag/a31ygD3)<!-- MEMES:END -->
+ - 🚖 [This guy is the best.](http://9gag.com/gag/a31ygD3)
+ - 🚯 [We see runway, we land. Quick maff.](http://9gag.com/gag/aM4n7oV)
+ - 🚯 [Just me?](http://9gag.com/gag/amgmwPd)<!-- MEMES:END -->
 
 --- 
 
