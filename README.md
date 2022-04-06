@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grafana Labs, which develops the popular Grafana visualization tools, raises a $240M Series D led by GIC, bringing its total funding to $540M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220406/p14#a220406p14)
- - [How cryptocurrency exchange FTX wants to automate risk management in US futures trading, replacing traditional brokers with its tech, and introduce 24/7 trading &lpar;Financial Times&rpar;](http://www.techmeme.com/220406/p13#a220406p13)
- - [7 Linktree Alternatives for Your ‘Link in Bio’](https://www.wired.com/story/link-in-bio-linktree-alternatives)<!-- TECH:END -->
+ - [How much is a Fitbit?](https://www.androidauthority.com/how-much-is-a-fitbit-3122080/)
+ - [Binance.US, the exchange&#39;s American affiliate, raises a $200M seed at a $4.5B pre-money valuation from RRE Ventures and others &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220406/p17#a220406p17)
+ - [The Best Laptop Backpacks for Work &lpar;and Life&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
