@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you want more advice just ask](http://9gag.com/gag/adgnG3Q)
- - 🚯 [POV: You stopped looking at the tiger.](http://9gag.com/gag/aDDZKV7)
- - 🚯 [Oops...](http://9gag.com/gag/aGzM4Ew)<!-- MEMES:END -->
+ - 🚖 [Thinking back and realizing that she was flirting with me](http://9gag.com/gag/a115ybP)
+ - 🚯 [Your daily shitty news.](http://9gag.com/gag/avAENnM)
+ - 🚯 [We all have that one friend](http://9gag.com/gag/avAEM3E)<!-- MEMES:END -->
 
 --- 
 
