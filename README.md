@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stumbling through Icewind Dale 2 with a party of evil mages](https://www.pcgamer.com/stumbling-through-icewind-dale-2-with-a-party-of-evil-mages)
- - [Roblox CEO to pocket $234 million over next five years](https://www.pcgamer.com/roblox-ceo-to-pocket-dollar234-million-over-next-five-years)
- - [It&#39;s official, Assassin&#39;s Creed is coming to Fortnite](https://www.pcgamer.com/its-official-assassins-creed-is-coming-to-fortnite)<!-- GAME:END -->
+ - [Preserving art through Tilda’s Vault in Horizon Forbidden West](https://blog.playstation.com/2022/04/06/preserving-art-through-tildas-vault-in-horizon-forbidden-west/)
+ - [Preserving art through Tilda’s Vault in Horizon Forbidden West](https://blog.playstation.com/2022/04/06/preserving-art-through-tildas-vault-in-horizon-forbidden-west/)
+ - [Dune: Spice Wars launches in early access in April](https://www.polygon.com/23012919/dune-spice-wars-release-date-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
