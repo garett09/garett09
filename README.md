@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea says Google can&#39;t block developers from providing an in-app link to an outside website to buy digital goods under the country&#39;s app payment law &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220405/p43#a220405p43)
- - [What does idle mean and how do you set it on Discord?](https://www.androidauthority.com/idle-discord-3149440/)
- - [Twitter requires removing tweets posted by government or state-affiliated media accounts that contain media of prisoners of war from the Russia-Ukraine conflict &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220405/p42#a220405p42)<!-- TECH:END -->
+ - [With Musk on the Twitter board, Parag Agrawal may struggle to balance his own vision against that of an unpredictable board member with a much louder megaphone &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220405/p47#a220405p47)
+ - [Rattle, which lets sales teams integrate CRM apps like Salesforce inside Slack or Microsoft Teams, raises a $26M Series A led by Insight Partners &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220405/p46#a220405p46)
+ - [Intel is suspending all business operations in Russia and says it has implemented business continuity measures to minimize disruption to its global operations &lpar;Maria Ponnezhath/Reuters&rpar;](http://www.techmeme.com/220405/p45#a220405p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
