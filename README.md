@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deliver Us Mars is a Thrilling New Xbox Series X|S Sci-Fi Adventure](https://news.xbox.com/en-us/2022/04/06/deliver-us-mars-announce/)
- - [Nintendo Walked Right Into Porn When Promoting Switch Sports](https://kotaku.com/nintendo-switch-sports-bowling-porn-europe-twitter-wyer-1848758201)
- - [Moon Knight’s secret Easter egg is free comics](https://www.polygon.com/2022/4/6/23013343/moon-knight-easter-eggs-qr-codes-free-comics)<!-- GAME:END -->
+ - [New sales stats show explosive growth for comics and manga in America](https://www.polygon.com/23013512/us-manga-sales-chartbeat-feature-tracking-sales-drama)
+ - [Lego Star Wars Makes Comboing Younglings A Real Strategy](https://kotaku.com/lego-star-wars-skywalker-saga-younglings-lightsaber-com-1848758996)
+ - [Lego Star Wars: The Skywalker Saga player discovers how to fly by beating up Anakin](https://www.polygon.com/23013620/lego-star-wars-skywalker-saga-red-orb-child-flight-mechanic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
