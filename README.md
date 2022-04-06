@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [French President Emmanuel Macron&#39;s reelection campaign has its own Minecraft server](https://www.pcgamer.com/french-president-emmanuel-macrons-reelection-campaign-has-its-own-minecraft-server)
- - [Funimation&#39;s YouTube Channel Is Now Crunchyroll Dubs](https://kotaku.com/funimation-crunchyroll-anime-sony-animation-japan-dubs-1848755611)
- - [Today&#39;s Wordle answer #291: Wednesday, April 6](https://www.pcgamer.com/wordle-april-6-291)<!-- GAME:END -->
+ - [Stumbling through Icewind Dale 2 with a party of evil mages](https://www.pcgamer.com/stumbling-through-icewind-dale-2-with-a-party-of-evil-mages)
+ - [Roblox CEO to pocket $234 million over next five years](https://www.pcgamer.com/roblox-ceo-to-pocket-dollar234-million-over-next-five-years)
+ - [It&#39;s official, Assassin&#39;s Creed is coming to Fortnite](https://www.pcgamer.com/its-official-assassins-creed-is-coming-to-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
