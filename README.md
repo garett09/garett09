@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jesse Cox and Alec Steele Team Up to Crack Open a Giant Stone Block Sent from PC Game Pass](https://news.xbox.com/en-us/2022/04/06/crack-open-giant-stone-block-from-pc-game-pass/)
- - [Horizon Forbidden West now lets Aloy grab loot while on the go](https://www.polygon.com/23013374/horizon-forbidden-west-disable-animations-toggle-setting)
- - [THQ Nordic plans summer games showcase for August](https://www.polygon.com/23013307/thq-nordic-digital-showcase-2022-date-games)<!-- GAME:END -->
+ - [Moon Knight’s secret Easter egg is free comics](https://www.polygon.com/2022/4/6/23013343/moon-knight-easter-eggs-qr-codes-free-comics)
+ - [Lego Star Wars: The Skywalker Saga, As Told By Steam Reviews](https://kotaku.com/lego-star-wars-skywalker-saga-steam-reviews-sarlussy-lu-1848758033)
+ - [Sonic the Hedgehog 2 leans real hard on Knuckles mythos and Jim Carrey mania](https://www.polygon.com/23013568/sonic-the-hedgehog-2-review-jim-carrey)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
