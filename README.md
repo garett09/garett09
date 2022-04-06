@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in Denmark](http://9gag.com/gag/aVxmpgy)
- - 🚯 [Hate](http://9gag.com/gag/aAG4zgo)
- - 🚯 [That&#39;s right it goes in the square hole](http://9gag.com/gag/a11534R)<!-- MEMES:END -->
+ - 🚖 [If you want more advice just ask](http://9gag.com/gag/adgnG3Q)
+ - 🚯 [POV: You stopped looking at the tiger.](http://9gag.com/gag/aDDZKV7)
+ - 🚯 [Oops...](http://9gag.com/gag/aGzM4Ew)<!-- MEMES:END -->
 
 --- 
 
