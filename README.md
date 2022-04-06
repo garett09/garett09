@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christian Pastor and his wife make a hip hop song to appeal to young people, BUT......](http://9gag.com/gag/a51G36O)
- - 🚯 [How have I been?](http://9gag.com/gag/aE8o5Bp)
- - 🚯 [Call the Ambulance](http://9gag.com/gag/aGzMv60)<!-- MEMES:END -->
+ - 🚖 [How have I been?](http://9gag.com/gag/aE8o5Bp)
+ - 🚯 [Just me?](http://9gag.com/gag/amgmwPd)
+ - 🚯 [Seems Relevant Here](http://9gag.com/gag/aE8oKOG)<!-- MEMES:END -->
 
 --- 
 
