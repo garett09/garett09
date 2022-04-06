@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blizzard removes pro-Russia war symbol from Zarya skins in Overwatch](https://www.pcgamer.com/blizzard-removes-pro-russia-war-symbol-from-zarya-skins-in-overwatch)
  - [Max Payne and Max Payne 2 remakes coming from Remedy and Rockstar](https://www.polygon.com/23013939/max-payne-remakes-remedy-rockstar)
- - [Remedy Remaking Max Payne 1 And 2 Inside Control Engine](https://kotaku.com/remedy-remaking-max-payne-1-and-2-inside-control-engine-1848759888)
- - [For These Players, It’s All About The Elden Bling](https://kotaku.com/elden-ring-fashion-dark-souls-bling-fromsoftware-guts-c-1848759373)<!-- GAME:END -->
+ - [Remedy Remaking Max Payne 1 And 2 Inside Control Engine](https://kotaku.com/remedy-remaking-max-payne-1-and-2-inside-control-engine-1848759888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
