@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen vs snowman](http://9gag.com/gag/awzLWW8)
- - 🚯 [That&#39;s right it goes in the square hole](http://9gag.com/gag/a11534R)
- - 🚯 [These beds are designed to give more independence to the elderly and people with disabilities.](http://9gag.com/gag/aXr46Ng)<!-- MEMES:END -->
+ - 🚖 [Go Greece!](http://9gag.com/gag/a115ymD)
+ - 🚯 [Clear example of how effective LED bulbs are.](http://9gag.com/gag/aLvG7g6)
+ - 🚯 [Thinking back and realizing that she was flirting with me](http://9gag.com/gag/a115ybP)<!-- MEMES:END -->
 
 --- 
 
