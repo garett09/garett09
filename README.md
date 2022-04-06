@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Greece!](http://9gag.com/gag/a115ymD)
- - 🚯 [Clear example of how effective LED bulbs are.](http://9gag.com/gag/aLvG7g6)
- - 🚯 [Thinking back and realizing that she was flirting with me](http://9gag.com/gag/a115ybP)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in Denmark](http://9gag.com/gag/aVxmpgy)
+ - 🚯 [Hate](http://9gag.com/gag/aAG4zgo)
+ - 🚯 [That&#39;s right it goes in the square hole](http://9gag.com/gag/a11534R)<!-- MEMES:END -->
 
 --- 
 
