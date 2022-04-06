@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft is reportedly working on a new PvPvE shooter that looks a lot like Hyper Scape](https://www.pcgamer.com/ubisoft-is-reportedly-working-on-a-new-pvpve-shooter-that-looks-a-lot-like-hyper-scape)
- - [Robert Downey Jr. might bring a Sherlock Holmes TV universe to HBO Max](https://www.polygon.com/23012101/robert-downey-jr-sherlock-holmes-tv-universe-hbo-max)
- - [Will Arnett&#39;s Villainous Dragon Lord Is The Best Part Of Tiny Tina&#39;s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-will-arnett-dragon-lord-pc-xbox-1848749475)<!-- GAME:END -->
+ - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)
+ - [Emulation on the Steam Deck is already getting way more convenient](https://www.pcgamer.com/emulation-on-the-steam-deck-is-already-getting-way-more-convenient)
+ - [Trek to Yomi release date is just weeks away](https://www.pcgamer.com/trek-to-yomi-release-date-is-just-weeks-away)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
