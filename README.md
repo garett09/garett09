@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sen. Patrick Toomey introduces a bill to regulate stablecoins, including defining a &quot;payment stablecoin&quot;, creating a license for issuers, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220406/p34#a220406p34)
- - [Sports e-commerce company Fanatics raises $1.5B at a $27B valuation led by the NFL, MLB, and others; the NFL invested $320M, the biggest portion of funding &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/220406/p33#a220406p33)
- - [PitchBook and NVCA data: US VCs raised $73.8B in Q1 2022 and invested $70.7B across 3,723 deals, down from $77B invested across 4,282 deals in Q1 2021 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/220406/p32#a220406p32)<!-- TECH:END -->
+ - [Apple restores the &quot;Smart Voting&quot; app run by Kremlin critic Alexei Navalny&#39;s supporters in Russia; Apple removed the app after the Kremlin threatened its execs &lpar;Washington Post&rpar;](http://www.techmeme.com/220406/p37#a220406p37)
+ - [Deals: Apple&#39;s 16-inch MacBook Pro is on sale for $2,299 and in stock, plus every upgraded model is up to $300 off](https://appleinsider.com/articles/22/04/06/deals-apples-16-inch-macbook-pro-is-on-sale-for-2299-and-in-stock-plus-every-upgraded-model-is-up-to-300-off?utm_medium=rss)
+ - [Army Corps of Engineers closes SpaceX Starbase permit application citing lack of information](https://www.theverge.com/2022/4/6/23013435/spacex-starbase-starship-army-corps-engineers-permit-application)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
