@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto payments company Strike announces Shopify integration for bitcoin&#39;s Lightning payments network, rolling out to Shopify merchants in the US &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220407/p35#a220407p35)
- - [Activision Blizzard’s new full-time jobs come with a bit of union busting](https://www.theverge.com/23015299/activision-blizzard-raven-software-unionizing-employees-qa-raises)
- - [Third-party apps often eclipse Apple&#39;s own on the App Store, study finds](https://appleinsider.com/articles/22/04/07/third-party-apps-often-eclipse-apples-own-on-the-app-store-study-finds?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat has a new lens to help you learn the American Sign Language alphabet](https://www.theverge.com/2022/4/7/23015676/snapchat-american-sign-language-asl-alphabet-lens)
+ - [Amazon plans to object to union victory in New York](https://www.theverge.com/2022/4/7/23015642/amazon-alu-union-victory-staten-island-objection-plan)
+ - [Twitter rolls out its ALT badge and improved image descriptions](https://www.theverge.com/2022/4/7/23015669/twitter-alt-badge-improved-image-descriptions-accessibility)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
