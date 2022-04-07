@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces &quot;multisearch&quot; for Lens, letting users ask questions about photos and screenshots, available in beta in the US on iOS and Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220407/p21#a220407p21)
- - [Epic and Lego partner to build a metaverse for kids](https://www.theverge.com/2022/4/7/23014616/epic-lego-metaverse-partnership)
- - [After-Loss Tech Wants to Ease the Logistics of Death](https://www.wired.com/story/after-loss-death-tech)<!-- TECH:END -->
+ - [Indian conglomerate Tata Group rolls out Tata Neu, a &quot;super app&quot; combining at least seven services associated with Tata, competing with Jio Platforms and Amazon &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220407/p22#a220407p22)
+ - [Chrono Cross remains strange and spellbinding in new remaster](https://www.theverge.com/23012990/chrono-cross-remastered-review-ps4-xbox-switch)
+ - [The OnePlus 10 could be on the way without Snapdragon power](https://www.androidauthority.com/oneplus-10-dimensity-9000-3150335/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
