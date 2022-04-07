@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Maybe We Don&#39;t Need These Expensive Video Game Remakes](https://kotaku.com/video-game-remakes-remaster-max-payne-final-fantasy-roc-1848760866)
  - [A Look At A Script For The Cancelled Deus Ex Movie](https://kotaku.com/deus-ex-movie-script-screenplay-hollywood-eidos-dr-stra-1848760265)
- - [Blizzard removes pro-Russia war symbol from Zarya skins in Overwatch](https://www.pcgamer.com/blizzard-removes-pro-russia-war-symbol-from-zarya-skins-in-overwatch)
- - [Max Payne and Max Payne 2 remakes coming from Remedy and Rockstar](https://www.polygon.com/23013939/max-payne-remakes-remedy-rockstar)<!-- GAME:END -->
+ - [Blizzard removes pro-Russia war symbol from Zarya skins in Overwatch](https://www.pcgamer.com/blizzard-removes-pro-russia-war-symbol-from-zarya-skins-in-overwatch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
