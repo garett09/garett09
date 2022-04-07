@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings Putin opposition app back to Russia App Store](https://www.theverge.com/2022/4/7/23014486/apple-russia-smart-voting-app-store-navalny)
- - [Google will roll out Privacy Guide, a guided tour of privacy and security settings in Chrome, to all desktop users on version 100 or above in the coming weeks &lpar;Audrey An/The Keyword&rpar;](http://www.techmeme.com/220407/p8#a220407p8)
- - [OnePlus shows off Nord N20, confirms US release soon](https://www.androidauthority.com/oneplus-nord-n20-us-release-3150187/)<!-- TECH:END -->
+ - [Berlin-based consumer electronics rental service Grover raises a $110M Series C in equity led by Energy Impact Partners and $220M in debt at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220407/p12#a220407p12)
+ - [Fetch Rewards, which offers rewards to customers who submit receipts of purchases from 600+ partners, raises $240M led by Hamilton Lane at a $2.5B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220407/p11#a220407p11)
+ - [Inside the Takedown that Shredded the Myth of Crypto’s Anonymity](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
