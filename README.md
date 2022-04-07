@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian conglomerate Tata Group rolls out Tata Neu, a &quot;super app&quot; combining at least seven services associated with Tata, competing with Jio Platforms and Amazon &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220407/p22#a220407p22)
- - [Chrono Cross remains strange and spellbinding in new remaster](https://www.theverge.com/23012990/chrono-cross-remastered-review-ps4-xbox-switch)
- - [The OnePlus 10 could be on the way without Snapdragon power](https://www.androidauthority.com/oneplus-10-dimensity-9000-3150335/)<!-- TECH:END -->
+ - [The best Etsy alternatives for selling your crafts](https://www.theverge.com/23013610/etsy-crafts-sell-creative-amazon-shopify-how-to)
+ - [OpenPhone, which provides SMBs with a business phone line through its mobile app, raises a $40M Series B led by Tiger Global, bringing its total funding to $56M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220407/p24#a220407p24)
+ - [Daily deals April 7: 50% off H&amp;R Block tax software, $70 off iPad Air 5, $200 off Yeti 1000 Core Portable Power Station, more](https://appleinsider.com/articles/22/04/07/daily-deals-april-7-50-off-hr-block-tax-software-70-off-ipad-air-5-200-off-yeti-1000-core-portable-power-station-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
