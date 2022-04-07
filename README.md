@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warp, which is building a new command-line terminal to help developers be more productive, launches its public beta on macOS with $23M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220406/p43#a220406p43)
- - [New Honda Civic Type R Prototype Sets Suzuka Lap Record     - Roadshow](https://www.cnet.com/roadshow/news/2023-honda-civic-type-r-prototype-suzuka-lap-record/#ftag=CAD590a51e)
- - [Apple orders psychological thriller series &#39;Constellation&#39;](https://appleinsider.com/articles/22/04/07/apple-orders-psychological-thriller-series-constellation?utm_medium=rss)<!-- TECH:END -->
+ - [Avi Medical, which offers app-based personalized telehealth services, raises a &amp;euro;50M Series B led by Balderton Capital, after raising &amp;euro;28.5M in June 2021 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/220406/p46#a220406p46)
+ - [Eleos Health, which uses voice AI tech to analyze conversations between behavioral health clinicians and their patients, raises a $20M Series A &lpar;Jasmine Pennic/HIT Consultant&rpar;](http://www.techmeme.com/220406/p45#a220406p45)
+ - [Oura, which makes a smart ring for personalized sleep and health tracking, says it has raised funding at a $2.55B valuation and has sold over 1M Oura Rings &lpar;Abigail Gentrup/Front Office Sports&rpar;](http://www.techmeme.com/220406/p44#a220406p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
