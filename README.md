@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This party is on fire!](http://9gag.com/gag/aGzGKv0)
- - 🚯 [Should be different](http://9gag.com/gag/aQXmPxz)
- - 🚯 [Always on the way](http://9gag.com/gag/aVxZjEw)<!-- MEMES:END -->
+ - 🚖 [&lpar;Sad noises&rpar;](http://9gag.com/gag/azeO79Z)
+ - 🚯 [The making of garlic bread.](http://9gag.com/gag/a21DEve)
+ - 🚯 [Should be different](http://9gag.com/gag/aQXmPxz)<!-- MEMES:END -->
 
 --- 
 
