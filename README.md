@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🖨️ Buffett buys some printers](https://www.androidauthority.com/daily-authority-buffett-hp-april-7-2022-3150292/)
- - [How to Take Care of Your Electric Vehicle Battery](https://www.wired.com/story/how-to-take-care-electric-vehicle-battery)
- - [Axiom’s All-Private Spaceflight to the ISS Preps for Launch](https://www.wired.com/story/axioms-all-private-spaceflight-to-the-iss-preps-for-launch)<!-- TECH:END -->
+ - [New Incase Woolenex accessories will protect your AirTags and AirPods](https://appleinsider.com/articles/22/04/07/incase-debuts-woolenex-airtags-and-airpod-cases?utm_medium=rss)
+ - [Before the debut, Apple has renewed &#39;Make or Break&#39; for a second season](https://appleinsider.com/articles/22/04/07/before-the-debut-apple-has-renewed-make-or-break-for-a-second-season?utm_medium=rss)
+ - [Blockchain audit service CertiK raises an $88M Series B3 led by Insight, Tiger Global and Advent at a $2B valuation, bringing its total funding to $230M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220407/p16#a220407p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
