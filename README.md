@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 will get new game plus mode later this month](https://www.pcgamer.com/dying-light-2-will-get-new-game-plus-mode-later-this-month)
- - [Even Konami Agrees With The Criticism About eFootball&#39;s Quality](https://kotaku.com/efootball-pes-konami-quality-bugs-glitches-major-update-1848761712)
- - [How Turtle Rock Studios righted itself after rolling on its back](https://www.pcgamer.com/how-turtle-rock-studios-righted-itself-after-rolling-on-its-back)<!-- GAME:END -->
+ - [The Matrix Awakens dev says the switch from UE4 to UE5 was &#39;very smooth&#39;](https://www.pcgamer.com/the-matrix-awakens-dev-says-the-switch-from-ue4-to-ue5-was-very-smooth)
+ - [Saudi Arabia now owns 96% of SNK](https://www.pcgamer.com/saudi-arabia-now-owns-96-of-snk)
+ - [Dying Light 2 will get new game plus mode later this month](https://www.pcgamer.com/dying-light-2-will-get-new-game-plus-mode-later-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
