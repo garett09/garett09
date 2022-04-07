@@ -171,8 +171,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/garett09/Hulo/issues/1) in [garett09/Hulo](https://github.com/garett09/Hulo)
-2. 🎉 Merged PR [#1](https://github.com/Sexynos/platform_manifest/pull/1) in [Sexynos/platform_manifest](https://github.com/Sexynos/platform_manifest)
+1. ❗️ Opened issue [#2](https://github.com/garett09/Hulo/issues/2) in [garett09/Hulo](https://github.com/garett09/Hulo)
+2. ❗️ Opened issue [#1](https://github.com/garett09/Hulo/issues/1) in [garett09/Hulo](https://github.com/garett09/Hulo)
 3. 💪 Opened PR [#1](https://github.com/Sexynos/platform_manifest/pull/1) in [Sexynos/platform_manifest](https://github.com/Sexynos/platform_manifest)
 4. 🎉 Merged PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
 5. 💪 Opened PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
