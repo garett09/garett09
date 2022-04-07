@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just end this argues.](http://9gag.com/gag/a51zd5q)
- - 🚯 [Hit me!](http://9gag.com/gag/amgxXG9)
+ - 🚖 [Blah](http://9gag.com/gag/aYrMb30)
+ - 🚯 [I approve this message](http://9gag.com/gag/amgxNM2)
  - 🚯 [Opened my Vintage and Antiques Shop in Switzerland. Actually, it&#39;s been a few years, but I&#39;m finally at the point where I can say that I can make a good living from it. May God help you and me.](http://9gag.com/gag/aqGxmY7)<!-- MEMES:END -->
 
 --- 
