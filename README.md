@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never SAW this coming, Singh is the hand saw king. 7:91 seconds flat Video of Mr. home improvement @tibbysingh](http://9gag.com/gag/aQXm61K)
- - 🚯 [Using a lifetime&#39;s luck](http://9gag.com/gag/aOQ9o6N)
- - 🚯 [We\u2019re Not Live](http://9gag.com/gag/ay91EMM)<!-- MEMES:END -->
+ - 🚖 [This party is on fire!](http://9gag.com/gag/aGzGKv0)
+ - 🚯 [Should be different](http://9gag.com/gag/aQXmPxz)
+ - 🚯 [Always on the way](http://9gag.com/gag/aVxZjEw)<!-- MEMES:END -->
 
 --- 
 
