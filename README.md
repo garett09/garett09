@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Non-Newtonian fluids turn into solids when pressure is applied.](http://9gag.com/gag/aQXm4dq)
- - 🚯 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)
- - 🚯 [Incredible footage of a Ukrainian drone chasing a Russian soldier back to his unit. Who begin shooting at the drone.](http://9gag.com/gag/aOQ9ygD)<!-- MEMES:END -->
+ - 🚖 [Incredible footage of a Ukrainian drone chasing a Russian soldier back to his unit. Who begin shooting at the drone.](http://9gag.com/gag/aOQ9ygD)
+ - 🚯 [How they see it!](http://9gag.com/gag/aBnE3mA)
+ - 🚯 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)<!-- MEMES:END -->
 
 --- 
 
