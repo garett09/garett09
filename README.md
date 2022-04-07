@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never SAW this coming, Singh is the hand saw king. 7:91 seconds flat Video of Mr. home improvement @tibbysingh](http://9gag.com/gag/aQXm61K)
- - 🚯 [Why Husky ?](http://9gag.com/gag/aPZ8OnP)
- - 🚯 [300 US vehicles arrived in my home town in Denmark. To be transferred to Eastern Europe for `training exercises`.](http://9gag.com/gag/aLvA6G6)<!-- MEMES:END -->
+ - 🚖 [WFH](http://9gag.com/gag/aNPBm00)
+ - 🚯 [Never SAW this coming, Singh is the hand saw king. 7:91 seconds flat Video of Mr. home improvement @tibbysingh](http://9gag.com/gag/aQXm61K)
+ - 🚯 [From Paraguay](http://9gag.com/gag/aZrQ9E9)<!-- MEMES:END -->
 
 --- 
 
