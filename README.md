@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained?!](http://9gag.com/gag/a81DrEV)
- - 🚯 [Who remembers this masterpiece](http://9gag.com/gag/azeGNXB)
- - 🚯 [Pain in temporary the drip is forever](http://9gag.com/gag/a1154p2)<!-- MEMES:END -->
+ - 🚖 [To Survive in a Wetter World](http://9gag.com/gag/aAG4n0Z)
+ - 🚯 [Accept your fate](http://9gag.com/gag/apgPydb)
+ - 🚯 [I miss being 10yo and watching cartoons all day](http://9gag.com/gag/amgmjNd)<!-- MEMES:END -->
 
 --- 
 
