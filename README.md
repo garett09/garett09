@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I thought I was the only one](http://9gag.com/gag/azeO7Nj)
- - 🚯 [It\u2019s cultural](http://9gag.com/gag/aOQ9K2v)
- - 🚯 [There\u2019s always a solution.](http://9gag.com/gag/a719vmw)<!-- MEMES:END -->
+ - 🚖 [Using a lifetime&#39;s luck](http://9gag.com/gag/aOQ9o6N)
+ - 🚯 [Biracial twins](http://9gag.com/gag/a318P01)
+ - 🚯 [This smells like UK](http://9gag.com/gag/aE8Ww8K)<!-- MEMES:END -->
 
 --- 
 
