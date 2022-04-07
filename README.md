@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomorrow’s audio-focused Dreams update introduces monstrous vocal effects](https://blog.playstation.com/2022/04/07/tomorrows-audio-focused-dreams-update-introduces-monstrous-vocal-effects/)
- - [Tomorrow’s audio-focused Dreams update introduces monstrous vocal effects](https://blog.playstation.com/2022/04/07/tomorrows-audio-focused-dreams-update-introduces-monstrous-vocal-effects/)
- - [Back 4 Blood’s first expansion is nearly here and it looks messy](https://www.polygon.com/23014537/back-4-blood-tunnels-of-terror-dlc-release-date-trailer)<!-- GAME:END -->
+ - [Hand-to-hand combat – Crafting Ghostwire: Tokyo’s signature Ethereal Weaving](https://blog.playstation.com/2022/04/07/hand-to-hand-combat-crafting-ghostwire-tokyos-signature-ethereal-weaving/)
+ - [Hand-to-hand combat – Crafting Ghostwire: Tokyo’s signature Ethereal Weaving](https://blog.playstation.com/2022/04/07/hand-to-hand-combat-crafting-ghostwire-tokyos-signature-ethereal-weaving/)
+ - [Mario Golf swings onto Nintendo Switch Online’s premium subscription](https://www.polygon.com/23014656/mario-golf-nintendo-switch-online-64)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
