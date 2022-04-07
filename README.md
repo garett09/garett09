@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG is returning to its &#39;Good Old Games&#39; roots](https://www.pcgamer.com/gog-is-returning-to-its-good-old-games-roots)
- - [Intel teases an Arc graphics card, and it has 3x 8-pin power connectors](https://www.pcgamer.com/intel-teases-an-arc-graphics-card-and-it-has-3x-8-pin-power-connectors)
- - [Our favourite gaming chair is AU$35 off right now](https://www.pcgamer.com/our-favourite-gaming-chair-is-audollar35-off-right-now)<!-- GAME:END -->
+ - [Free crypto promises in exchange for scanning eyeballs with &#39;The Orb&#39; falling through](https://www.pcgamer.com/free-crypto-promises-in-exchange-for-scanning-eyeballs-with-the-orb-falling-through)
+ - [Get £40 off this Corsair PC bundle with RTX 3070 Ti](https://www.pcgamer.com/get-pound40-off-this-corsair-pc-bundle-with-rtx-3070-ti)
+ - [GOG is returning to its &#39;Good Old Games&#39; roots](https://www.pcgamer.com/gog-is-returning-to-its-good-old-games-roots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
