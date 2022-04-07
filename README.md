@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Matrix Awakens dev says the switch from UE4 to UE5 was &#39;very smooth&#39;](https://www.pcgamer.com/the-matrix-awakens-dev-says-the-switch-from-ue4-to-ue5-was-very-smooth)
- - [Saudi Arabia now owns 96% of SNK](https://www.pcgamer.com/saudi-arabia-now-owns-96-of-snk)
- - [Dying Light 2 will get new game plus mode later this month](https://www.pcgamer.com/dying-light-2-will-get-new-game-plus-mode-later-this-month)<!-- GAME:END -->
+ - [Tomorrow’s audio-focused Dreams update introduces monstrous vocal effects](https://blog.playstation.com/2022/04/07/tomorrows-audio-focused-dreams-update-introduces-monstrous-vocal-effects/)
+ - [Tomorrow’s audio-focused Dreams update introduces monstrous vocal effects](https://blog.playstation.com/2022/04/07/tomorrows-audio-focused-dreams-update-introduces-monstrous-vocal-effects/)
+ - [Back 4 Blood’s first expansion is nearly here and it looks messy](https://www.polygon.com/23014537/back-4-blood-tunnels-of-terror-dlc-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
