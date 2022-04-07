@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Secret Republican group budgets millions for media and influencer programs](https://www.theverge.com/2022/4/7/23015307/rockbridge-network-peter-thiel-donald-trump-influencers-turning-point-usa)
- - [Robinhood expands its crypto wallet to 2M+ users on a waitlist and says it will support transacting on the Bitcoin Lightning Network in the coming months &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220407/p31#a220407p31)
- - [Did Plex just kill the streaming media box?](https://www.androidauthority.com/plex-discover-death-of-streaming-media-box-3149918/)<!-- TECH:END -->
+ - [Lilt, which offers business translation using both human translators and AI, raises a $55M Series C led by Four Rivers, bringing its total funding to $92.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220407/p33#a220407p33)
+ - [SpaceX poised to send first private crew to the International Space Station for Axiom Space](https://www.theverge.com/2022/4/7/23013067/spacex-crew-dragon-axiom-space-ax-1-iss-launch)
+ - [The &#39;metaverse&#39; is a perfect distraction for embattled Facebook &amp; Epic Games](https://appleinsider.com/articles/22/04/07/the-metaverse-is-a-perfect-distraction-for-embattled-facebook-epic-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
