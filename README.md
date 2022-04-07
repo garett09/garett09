@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Etsy alternatives for selling your crafts](https://www.theverge.com/23013610/etsy-crafts-sell-creative-amazon-shopify-how-to)
- - [OpenPhone, which provides SMBs with a business phone line through its mobile app, raises a $40M Series B led by Tiger Global, bringing its total funding to $56M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220407/p24#a220407p24)
- - [Daily deals April 7: 50% off H&amp;R Block tax software, $70 off iPad Air 5, $200 off Yeti 1000 Core Portable Power Station, more](https://appleinsider.com/articles/22/04/07/daily-deals-april-7-50-off-hr-block-tax-software-70-off-ipad-air-5-200-off-yeti-1000-core-portable-power-station-more?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s what differentiates MLB on Apple TV+ versus regular broadcasts](https://appleinsider.com/articles/22/04/07/heres-what-differentiates-mlb-on-apple-tv-versus-regular-broadcasts?utm_medium=rss)
+ - [Treasury Secretary Janet Yellen gives her first speech on digital assets, saying a central bank digital currency would require years of development and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/220407/p26#a220407p26)
+ - [Mac Studio vs 14-inch MacBook Pro: the $1,999 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/mac-studio-vs-14-inch-macbook-pro-the-1999-shootout?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
