@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third-party apps often eclipse Apple&#39;s own on the App Store, study finds](https://appleinsider.com/articles/22/04/07/third-party-apps-often-eclipse-apples-own-on-the-app-store-study-finds?utm_medium=rss)
- - [Google is using AI to update business hours that are out of date on Google Maps](https://www.theverge.com/2022/4/7/23014122/google-maps-ai-business-hours-speed-limit-signs)
- - [US labor board moves to block Amazon’s favorite anti-union tactic](https://www.theverge.com/2022/4/7/23014893/nlrb-counsel-captive-audience-meetings-union-labor-amazon)<!-- TECH:END -->
+ - [Visualizing the scale of the carbon removal problem](https://www.theverge.com/2022/4/7/23013822/carbon-dioxide-removal-direct-air-capture-climate-change)
+ - [Apple releases a report it commissioned from Analysis Group, showing that the company&#39;s iOS apps &quot;are rarely the most popular app of a particular type&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220407/p30#a220407p30)
+ - [Leaked recording: after laying off Better.com staff in December 2021, CEO Vishal Garg said the company &quot;made $250M last year&quot; but &quot;probably pissed away $200M&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/220407/p29#a220407p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
