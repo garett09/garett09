@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From Paraguay](http://9gag.com/gag/aZrQ9E9)
- - 🚯 [I thought I was the only one](http://9gag.com/gag/azeO7Nj)
- - 🚯 [Never SAW this coming, Singh is the hand saw king. 7:91 seconds flat Video of Mr. home improvement @tibbysingh](http://9gag.com/gag/aQXm61K)<!-- MEMES:END -->
+ - 🚖 [Never SAW this coming, Singh is the hand saw king. 7:91 seconds flat Video of Mr. home improvement @tibbysingh](http://9gag.com/gag/aQXm61K)
+ - 🚯 [Using a lifetime&#39;s luck](http://9gag.com/gag/aOQ9o6N)
+ - 🚯 [We\u2019re Not Live](http://9gag.com/gag/ay91EMM)<!-- MEMES:END -->
 
 --- 
 
