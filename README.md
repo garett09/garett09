@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hand-to-hand combat – Crafting Ghostwire: Tokyo’s signature Ethereal Weaving](https://blog.playstation.com/2022/04/07/hand-to-hand-combat-crafting-ghostwire-tokyos-signature-ethereal-weaving/)
- - [Hand-to-hand combat – Crafting Ghostwire: Tokyo’s signature Ethereal Weaving](https://blog.playstation.com/2022/04/07/hand-to-hand-combat-crafting-ghostwire-tokyos-signature-ethereal-weaving/)
- - [Mario Golf swings onto Nintendo Switch Online’s premium subscription](https://www.polygon.com/23014656/mario-golf-nintendo-switch-online-64)<!-- GAME:END -->
+ - [PlayStation Store: March 2022’s top downloads](https://blog.playstation.com/2022/04/07/playstation-store-march-2022s-top-downloads/)
+ - [PlayStation Store: March 2022’s top downloads](https://blog.playstation.com/2022/04/07/playstation-store-march-2022s-top-downloads/)
+ - [Genshin Impact Update Makes Its Saddest Anime Boy Even Sadder](https://kotaku.com/genshin-impact-dainsleif-chasm-archon-quest-abyss-liyue-1848759854)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
