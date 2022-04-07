@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can finally relax a bit](http://9gag.com/gag/amgmDbo)
- - 🚯 [Borrowed from comrade for mah dudes...](http://9gag.com/gag/axBbpVb)
- - 🚯 [Called out the woke BS](http://9gag.com/gag/aog4BQn)<!-- MEMES:END -->
+ - 🚖 [One of us!](http://9gag.com/gag/a81DrVd)
+ - 🚯 [Pathetic Human....](http://9gag.com/gag/aZrQ9r6)
+ - 🚯 [I can finally relax a bit](http://9gag.com/gag/amgmDbo)<!-- MEMES:END -->
 
 --- 
 
