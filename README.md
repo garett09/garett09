@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;Sad noises&rpar;](http://9gag.com/gag/azeO79Z)
- - 🚯 [The making of garlic bread.](http://9gag.com/gag/a21DEve)
- - 🚯 [Should be different](http://9gag.com/gag/aQXmPxz)<!-- MEMES:END -->
+ - 🚖 [Should be different](http://9gag.com/gag/aQXmPxz)
+ - 🚯 [It\u2019s cultural](http://9gag.com/gag/aOQ9K2v)
+ - 🚯 [Biracial twins](http://9gag.com/gag/a318P01)<!-- MEMES:END -->
 
 --- 
 
