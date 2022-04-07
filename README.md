@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ascend.io, which develops data automation tools for enterprise customers, raises a $31M Series B led by Tiger Global &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220406/p39#a220406p39)
- - [The best multisport smartwatches for athletes who can’t sit still](https://www.androidauthority.com/multisport-smartwatches-3144389/)
- - [Meta is reportedly making ‘Zuck Bucks’](https://www.theverge.com/2022/4/6/23013896/meta-facebook-zuck-bucks-finance-financial-services-products)<!-- TECH:END -->
+ - [How to get your Discord token](https://www.androidauthority.com/get-discord-token-3149920/)
+ - [Sources: the SEC is investigating how Amazon disclosed its use of third-party seller data for its business; source: the probe has been under way for over a year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220406/p41#a220406p41)
+ - [&#39;Doctor Strange 2&#39; New Trailer Brings Back Wanda&#39;s Children     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-new-trailer-brings-back-wandas-children/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
