@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only graph you need to know after 2 years of COVID pandemic](http://9gag.com/gag/a9189vD)
- - 🚯 [To Survive in a Wetter World](http://9gag.com/gag/aAG4n0Z)
- - 🚯 [Why Husky ?](http://9gag.com/gag/aPZ8OnP)<!-- MEMES:END -->
+ - 🚖 [I can finally relax a bit](http://9gag.com/gag/amgmDbo)
+ - 🚯 [Borrowed from comrade for mah dudes...](http://9gag.com/gag/axBbpVb)
+ - 🚯 [Called out the woke BS](http://9gag.com/gag/aog4BQn)<!-- MEMES:END -->
 
 --- 
 
