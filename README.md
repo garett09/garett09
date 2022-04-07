@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Incase Woolenex accessories will protect your AirTags and AirPods](https://appleinsider.com/articles/22/04/07/incase-debuts-woolenex-airtags-and-airpod-cases?utm_medium=rss)
- - [Before the debut, Apple has renewed &#39;Make or Break&#39; for a second season](https://appleinsider.com/articles/22/04/07/before-the-debut-apple-has-renewed-make-or-break-for-a-second-season?utm_medium=rss)
- - [Blockchain audit service CertiK raises an $88M Series B3 led by Insight, Tiger Global and Advent at a $2B valuation, bringing its total funding to $230M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220407/p16#a220407p16)<!-- TECH:END -->
+ - [Google announces &quot;multisearch&quot; for Lens, letting users ask questions about photos and screenshots, available in beta in the US on iOS and Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220407/p21#a220407p21)
+ - [Epic and Lego partner to build a metaverse for kids](https://www.theverge.com/2022/4/7/23014616/epic-lego-metaverse-partnership)
+ - [After-Loss Tech Wants to Ease the Logistics of Death](https://www.wired.com/story/after-loss-death-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
