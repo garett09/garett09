@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using a lifetime&#39;s luck](http://9gag.com/gag/aOQ9o6N)
+ - 🚖 [Hit me!](http://9gag.com/gag/amgxXG9)
  - 🚯 [Biracial twins](http://9gag.com/gag/a318P01)
- - 🚯 [This smells like UK](http://9gag.com/gag/aE8Ww8K)<!-- MEMES:END -->
+ - 🚯 [Poor Alley :&lpar;](http://9gag.com/gag/aXr70ev)<!-- MEMES:END -->
 
 --- 
 
