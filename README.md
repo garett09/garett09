@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dying Light 2 will get new game plus mode later this month](https://www.pcgamer.com/dying-light-2-will-get-new-game-plus-mode-later-this-month)
  - [Even Konami Agrees With The Criticism About eFootball&#39;s Quality](https://kotaku.com/efootball-pes-konami-quality-bugs-glitches-major-update-1848761712)
- - [Today&#39;s Wordle answer #292: Thursday, April 7](https://www.pcgamer.com/wordle-april-7-292)
- - [Free crypto promises in exchange for scanning eyeballs with &#39;The Orb&#39; falling through](https://www.pcgamer.com/free-crypto-promises-in-exchange-for-scanning-eyeballs-with-the-orb-falling-through)<!-- GAME:END -->
+ - [How Turtle Rock Studios righted itself after rolling on its back](https://www.pcgamer.com/how-turtle-rock-studios-righted-itself-after-rolling-on-its-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
