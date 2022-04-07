@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New data-sharing proposals in Europe push for the expansion of facial recognition and to allow police forces across the EU to link their photo databases &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220407/p7#a220407p7)
- - [After $600 million crypto heist, Axie Infinity team raises $150 million and launches another NFT game](https://www.theverge.com/2022/4/7/23013134/axie-infinity-ronin-network-crypto-theft-origin-launch)
- - [Russia&#39;s cyberattacks on government, military, logistics, and critical infrastructure have been its biggest military success to date in the war in Ukraine &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/220407/p6#a220407p6)<!-- TECH:END -->
+ - [Google will roll out Privacy Guide, a guided tour of privacy and security settings in Chrome, to all desktop users on version 100 or above in the coming weeks &lpar;Audrey An/The Keyword&rpar;](http://www.techmeme.com/220407/p8#a220407p8)
+ - [OnePlus shows off Nord N20, confirms US release soon](https://www.androidauthority.com/oneplus-nord-n20-us-release-3150187/)
+ - [New data-sharing proposals in Europe push for the expansion of facial recognition and to allow police forces across the EU to link their photo databases &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220407/p7#a220407p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
