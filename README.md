@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visualizing the scale of the carbon removal problem](https://www.theverge.com/2022/4/7/23013822/carbon-dioxide-removal-direct-air-capture-climate-change)
- - [Apple releases a report it commissioned from Analysis Group, showing that the company&#39;s iOS apps &quot;are rarely the most popular app of a particular type&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220407/p30#a220407p30)
- - [Leaked recording: after laying off Better.com staff in December 2021, CEO Vishal Garg said the company &quot;made $250M last year&quot; but &quot;probably pissed away $200M&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/220407/p29#a220407p29)<!-- TECH:END -->
+ - [Secret Republican group budgets millions for media and influencer programs](https://www.theverge.com/2022/4/7/23015307/rockbridge-network-peter-thiel-donald-trump-influencers-turning-point-usa)
+ - [Robinhood expands its crypto wallet to 2M+ users on a waitlist and says it will support transacting on the Bitcoin Lightning Network in the coming months &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220407/p31#a220407p31)
+ - [Did Plex just kill the streaming media box?](https://www.androidauthority.com/plex-discover-death-of-streaming-media-box-3149918/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
