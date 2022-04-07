@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioShock Infinite’s viral Bread Boy, explained by its creator](https://www.polygon.com/videos/23014794/gwen-frey-bread-boy-bioshock-infinite)
- - [Hello Neighbor 2: Pre-order and Beta Now Available](https://news.xbox.com/en-us/2022/04/07/hello-neighbor-2-pre-order-and-beta-now-available/)
- - [YouTube Streamer With 6.9M Followers Banned After Valorant Tirade Clip Surfaces](https://kotaku.com/youtuber-streamer-ishowspeed-ban-valorant-riot-keemstar-1848764368)<!-- GAME:END -->
+ - [Limited Run Games&#39; emulation initiative could finally open doors for untranslated Japanese games](https://www.pcgamer.com/limited-run-games-emulation-initiative-could-finally-open-doors-for-untranslated-japanese-games)
+ - [Activision Blizzard to convert all US-based QA workers to full-time positions](https://www.polygon.com/23015048/activision-blizzard-qa-workers-full-time-pay-raise)
+ - [How to get an Empyreum house in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23011916/how-to-get-house-empyreum-ishgard-lottery-placard-cost-patch-6-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
