@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avi Medical, which offers app-based personalized telehealth services, raises a &amp;euro;50M Series B led by Balderton Capital, after raising &amp;euro;28.5M in June 2021 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/220406/p46#a220406p46)
- - [Eleos Health, which uses voice AI tech to analyze conversations between behavioral health clinicians and their patients, raises a $20M Series A &lpar;Jasmine Pennic/HIT Consultant&rpar;](http://www.techmeme.com/220406/p45#a220406p45)
- - [Oura, which makes a smart ring for personalized sleep and health tracking, says it has raised funding at a $2.55B valuation and has sold over 1M Oura Rings &lpar;Abigail Gentrup/Front Office Sports&rpar;](http://www.techmeme.com/220406/p44#a220406p44)<!-- TECH:END -->
+ - [ReadySet, which is building a database infrastructure to help developers build real-time applications, raises a $24M Series A led by Index Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220407/p2#a220407p2)
+ - [Berkshire Hathaway discloses that it has purchased ~121M shares of HP Inc for a 11.4% stake worth $4.2B based on HP&#39;s closing stock price on Wednesday of $34.91 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220407/p1#a220407p1)
+ - [JD&#39;s Richard Liu steps down as CEO, joining other Chinese tech tycoons who have exited top roles amid China&#39;s tech crackdown; President Xu Lei will take over &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220406/p48#a220406p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
