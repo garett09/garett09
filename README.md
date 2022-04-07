@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Loving Boyfriend Edits 115 Hours Of Anime Filler Out Of Naruto For Girlfriend](https://kotaku.com/naruto-shippuden-anime-director-s-ocean-cut-filler-fan-1848765385)
- - [Artist Turns That Awesome Matrix Unreal 5 Showcase Into &#39;Superman&#39; Flight Demo](https://kotaku.com/superman-unreal-engine-5-epic-games-the-matrix-dc-comic-1848764040)
- - [Limited Run Games&#39; emulation initiative could finally open doors for untranslated Japanese games](https://www.pcgamer.com/limited-run-games-emulation-initiative-could-finally-open-doors-for-untranslated-japanese-games)<!-- GAME:END -->
+ - [New Release Date Announced for Two Point Campus](https://news.xbox.com/en-us/2022/04/07/new-release-date-announced-for-two-point-campus/)
+ - [Report: Facebook Eyes ‘Zuck Bucks’ And NFTs As It Loses Users To TikTok](https://kotaku.com/metaverse-nfts-crypto-facebook-meta-zuck-bucks-diem-1848765863)
+ - [Pac-Man has a new wife, thanks to Ms. Pac-Man drama](https://www.polygon.com/23015420/ms-pac-man-pac-land-bandai-namco-atgames-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
