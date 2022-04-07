@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ReadySet, which is building a database infrastructure to help developers build real-time applications, raises a $24M Series A led by Index Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220407/p2#a220407p2)
- - [Berkshire Hathaway discloses that it has purchased ~121M shares of HP Inc for a 11.4% stake worth $4.2B based on HP&#39;s closing stock price on Wednesday of $34.91 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220407/p1#a220407p1)
- - [JD&#39;s Richard Liu steps down as CEO, joining other Chinese tech tycoons who have exited top roles amid China&#39;s tech crackdown; President Xu Lei will take over &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220406/p48#a220406p48)<!-- TECH:END -->
+ - [Russia&#39;s cyberattacks on government, military, logistics, and critical infrastructure have been its biggest military success to date in the war in Ukraine &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/220407/p6#a220407p6)
+ - [IntelyCare, whose app matches nurses with open shifts at post-acute care settings, raises a $115M Series C at a $1.1B valuation led by Janus Henderson Investors &lpar;Rebecca Torrence/Fierce Healthcare&rpar;](http://www.techmeme.com/220407/p5#a220407p5)
+ - [SmartHop, which makes an AI-powered smart dispatch service for interstate truckers, raises a $30M Series B led by Sozo Ventures &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220407/p4#a220407p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
