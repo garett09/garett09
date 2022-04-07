@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Limited Run Games&#39; emulation initiative could finally open doors for untranslated Japanese games](https://www.pcgamer.com/limited-run-games-emulation-initiative-could-finally-open-doors-for-untranslated-japanese-games)
- - [Activision Blizzard to convert all US-based QA workers to full-time positions](https://www.polygon.com/23015048/activision-blizzard-qa-workers-full-time-pay-raise)
- - [How to get an Empyreum house in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23011916/how-to-get-house-empyreum-ishgard-lottery-placard-cost-patch-6-1)<!-- GAME:END -->
+ - [Loving Boyfriend Edits 115 Hours Of Anime Filler Out Of Naruto For Girlfriend](https://kotaku.com/naruto-shippuden-anime-director-s-ocean-cut-filler-fan-1848765385)
+ - [Artist Turns That Awesome Matrix Unreal 5 Showcase Into &#39;Superman&#39; Flight Demo](https://kotaku.com/superman-unreal-engine-5-epic-games-the-matrix-dc-comic-1848764040)
+ - [Limited Run Games&#39; emulation initiative could finally open doors for untranslated Japanese games](https://www.pcgamer.com/limited-run-games-emulation-initiative-could-finally-open-doors-for-untranslated-japanese-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
