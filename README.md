@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard to convert all US-based QA workers to full-time positions](https://www.polygon.com/23015048/activision-blizzard-qa-workers-full-time-pay-raise)
- - [Unravel the Conspiracy at the Heart of Chinatown Detective Agency](https://news.xbox.com/en-us/2022/04/07/chinatown-detective-agency-available-today/)
- - [Magic: The Gathering’s Streets of New Capenna is run by demons, vampires, and lawyers](https://www.polygon.com/23013919/magic-the-gathering-streets-of-new-capenna-preview-cards-art-mechanics-factions-release-date-price)<!-- GAME:END -->
+ - [Explore Black Desert’s New Region of O’dyllita Today](https://news.xbox.com/en-us/2022/04/07/explore-black-deserts-new-region-of-odyllita-today/)
+ - [Lego Star Wars has turned out more like Lego May Cry](https://www.pcgamer.com/lego-star-wars-has-turned-out-more-like-lego-may-cry)
+ - [Elden Ring is too big](https://www.pcgamer.com/elden-ring-is-too-big)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
