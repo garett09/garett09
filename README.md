@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ signs order for &#39;The White Darkness,&#39; starring Tom Hiddleston](https://appleinsider.com/articles/22/04/07/apple-tv-signs-order-for-the-white-darkness-starring-tom-hiddleston?utm_medium=rss)
- - [Singapore-based Luna Foundation Guard, a non-profit building reserves for the Terra &lpar;UST&rpar; stablecoin, buys $100M worth of Avalanche tokens to boost its reserves &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220407/p34#a220407p34)
- - [Watching the r/Place timelapse is like staring into the heart of Reddit](https://www.theverge.com/2022/4/7/23015418/reddit-r-place-recap-video-gif-timeline)<!-- TECH:END -->
+ - [Crypto payments company Strike announces Shopify integration for bitcoin&#39;s Lightning payments network, rolling out to Shopify merchants in the US &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220407/p35#a220407p35)
+ - [Activision Blizzard’s new full-time jobs come with a bit of union busting](https://www.theverge.com/23015299/activision-blizzard-raven-software-unionizing-employees-qa-raises)
+ - [Third-party apps often eclipse Apple&#39;s own on the App Store, study finds](https://appleinsider.com/articles/22/04/07/third-party-apps-often-eclipse-apples-own-on-the-app-store-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
