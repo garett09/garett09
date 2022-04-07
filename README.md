@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s cyberattacks on government, military, logistics, and critical infrastructure have been its biggest military success to date in the war in Ukraine &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/220407/p6#a220407p6)
- - [IntelyCare, whose app matches nurses with open shifts at post-acute care settings, raises a $115M Series C at a $1.1B valuation led by Janus Henderson Investors &lpar;Rebecca Torrence/Fierce Healthcare&rpar;](http://www.techmeme.com/220407/p5#a220407p5)
- - [SmartHop, which makes an AI-powered smart dispatch service for interstate truckers, raises a $30M Series B led by Sozo Ventures &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220407/p4#a220407p4)<!-- TECH:END -->
+ - [New data-sharing proposals in Europe push for the expansion of facial recognition and to allow police forces across the EU to link their photo databases &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220407/p7#a220407p7)
+ - [After $600 million crypto heist, Axie Infinity team raises $150 million and launches another NFT game](https://www.theverge.com/2022/4/7/23013134/axie-infinity-ronin-network-crypto-theft-origin-launch)
+ - [Russia&#39;s cyberattacks on government, military, logistics, and critical infrastructure have been its biggest military success to date in the war in Ukraine &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/220407/p6#a220407p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
