@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favourite gaming chair is AU$35 off right now](https://www.pcgamer.com/our-favourite-gaming-chair-is-audollar35-off-right-now)
- - [Maybe We Don&#39;t Need These Expensive Video Game Remakes](https://kotaku.com/video-game-remakes-remaster-max-payne-final-fantasy-roc-1848760866)
- - [A Look At A Script For The Cancelled Deus Ex Movie](https://kotaku.com/deus-ex-movie-script-screenplay-hollywood-eidos-dr-stra-1848760265)<!-- GAME:END -->
+ - [GOG is returning to its &#39;Good Old Games&#39; roots](https://www.pcgamer.com/gog-is-returning-to-its-good-old-games-roots)
+ - [Intel teases an Arc graphics card, and it has 3x 8-pin power connectors](https://www.pcgamer.com/intel-teases-an-arc-graphics-card-and-it-has-3x-8-pin-power-connectors)
+ - [Our favourite gaming chair is AU$35 off right now](https://www.pcgamer.com/our-favourite-gaming-chair-is-audollar35-off-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
