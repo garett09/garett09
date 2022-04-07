@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple brings Putin opposition app back to Russia App Store](https://www.theverge.com/2022/4/7/23014486/apple-russia-smart-voting-app-store-navalny)
  - [Google will roll out Privacy Guide, a guided tour of privacy and security settings in Chrome, to all desktop users on version 100 or above in the coming weeks &lpar;Audrey An/The Keyword&rpar;](http://www.techmeme.com/220407/p8#a220407p8)
- - [OnePlus shows off Nord N20, confirms US release soon](https://www.androidauthority.com/oneplus-nord-n20-us-release-3150187/)
- - [New data-sharing proposals in Europe push for the expansion of facial recognition and to allow police forces across the EU to link their photo databases &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220407/p7#a220407p7)<!-- TECH:END -->
+ - [OnePlus shows off Nord N20, confirms US release soon](https://www.androidauthority.com/oneplus-nord-n20-us-release-3150187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
