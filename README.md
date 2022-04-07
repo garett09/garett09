@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: March 2022’s top downloads](https://blog.playstation.com/2022/04/07/playstation-store-march-2022s-top-downloads/)
- - [PlayStation Store: March 2022’s top downloads](https://blog.playstation.com/2022/04/07/playstation-store-march-2022s-top-downloads/)
- - [Genshin Impact Update Makes Its Saddest Anime Boy Even Sadder](https://kotaku.com/genshin-impact-dainsleif-chasm-archon-quest-abyss-liyue-1848759854)<!-- GAME:END -->
+ - [Cyberpunk 2077: a 2022 re-review](https://www.polygon.com/reviews/23014759/cyberpunk-2077-patch-1-5-review-ps5-xbox-series-x)
+ - [Slipstream: Reimagining Classic Arcade Racing by a Brazilian Solo Developer](https://news.xbox.com/en-us/2022/04/07/slipstream-comes-to-xbox-reimagining-classic-arcade-racing-by-a-brazilian-solo-developer/)
+ - [Master Chief Gets Naked In The Halo Show](https://kotaku.com/master-chief-nudity-halo-show-paramount-plus-ass-butt-1848762984)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
