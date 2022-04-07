@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based consumer electronics rental service Grover raises a $110M Series C in equity led by Energy Impact Partners and $220M in debt at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220407/p12#a220407p12)
- - [Fetch Rewards, which offers rewards to customers who submit receipts of purchases from 600+ partners, raises $240M led by Hamilton Lane at a $2.5B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220407/p11#a220407p11)
- - [Inside the Takedown that Shredded the Myth of Crypto’s Anonymity](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth)<!-- TECH:END -->
+ - [Daily Authority: 🖨️ Buffett buys some printers](https://www.androidauthority.com/daily-authority-buffett-hp-april-7-2022-3150292/)
+ - [How to Take Care of Your Electric Vehicle Battery](https://www.wired.com/story/how-to-take-care-electric-vehicle-battery)
+ - [Axiom’s All-Private Spaceflight to the ISS Preps for Launch](https://www.wired.com/story/axioms-all-private-spaceflight-to-the-iss-preps-for-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
