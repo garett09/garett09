@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free crypto promises in exchange for scanning eyeballs with &#39;The Orb&#39; falling through](https://www.pcgamer.com/free-crypto-promises-in-exchange-for-scanning-eyeballs-with-the-orb-falling-through)
- - [Get £40 off this Corsair PC bundle with RTX 3070 Ti](https://www.pcgamer.com/get-pound40-off-this-corsair-pc-bundle-with-rtx-3070-ti)
- - [GOG is returning to its &#39;Good Old Games&#39; roots](https://www.pcgamer.com/gog-is-returning-to-its-good-old-games-roots)<!-- GAME:END -->
+ - [Even Konami Agrees With The Criticism About eFootball&#39;s Quality](https://kotaku.com/efootball-pes-konami-quality-bugs-glitches-major-update-1848761712)
+ - [Today&#39;s Wordle answer #292: Thursday, April 7](https://www.pcgamer.com/wordle-april-7-292)
+ - [Free crypto promises in exchange for scanning eyeballs with &#39;The Orb&#39; falling through](https://www.pcgamer.com/free-crypto-promises-in-exchange-for-scanning-eyeballs-with-the-orb-falling-through)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
