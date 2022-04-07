@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I approve this message](http://9gag.com/gag/amgxNM2)
- - 🚯 [Blah](http://9gag.com/gag/aYrMb30)
- - 🚯 [I&#39;ve worked on this game for over 2 years by myself, it&#39;s finally playable on Steam!](http://9gag.com/gag/arnxppV)<!-- MEMES:END -->
+ - 🚖 [This smells like UK](http://9gag.com/gag/aE8Ww8K)
+ - 🚯 [People in China are close to revolting. Since the start of the pandemic, the CCP has been baricating ppl inside their homes, leaving them to die of starvation. This zero-covid policy has finally reached the wealthiest parts of China, such as Shanghai, where this video was taken.](http://9gag.com/gag/a11VZeY)
+ - 🚯 [Opened my Vintage and Antiques Shop in Switzerland. Actually, it&#39;s been a few years, but I&#39;m finally at the point where I can say that I can make a good living from it. May God help you and me.](http://9gag.com/gag/aqGxmY7)<!-- MEMES:END -->
 
 --- 
 
