@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favourite gaming chair is AU$35 off right now](https://www.pcgamer.com/our-favourite-gaming-chair-is-audollar35-off-right-now)
  - [Maybe We Don&#39;t Need These Expensive Video Game Remakes](https://kotaku.com/video-game-remakes-remaster-max-payne-final-fantasy-roc-1848760866)
- - [A Look At A Script For The Cancelled Deus Ex Movie](https://kotaku.com/deus-ex-movie-script-screenplay-hollywood-eidos-dr-stra-1848760265)
- - [Blizzard removes pro-Russia war symbol from Zarya skins in Overwatch](https://www.pcgamer.com/blizzard-removes-pro-russia-war-symbol-from-zarya-skins-in-overwatch)<!-- GAME:END -->
+ - [A Look At A Script For The Cancelled Deus Ex Movie](https://kotaku.com/deus-ex-movie-script-screenplay-hollywood-eidos-dr-stra-1848760265)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
