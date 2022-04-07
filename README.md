@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore Black Desert’s New Region of O’dyllita Today](https://news.xbox.com/en-us/2022/04/07/explore-black-deserts-new-region-of-odyllita-today/)
- - [Lego Star Wars has turned out more like Lego May Cry](https://www.pcgamer.com/lego-star-wars-has-turned-out-more-like-lego-may-cry)
- - [Elden Ring is too big](https://www.pcgamer.com/elden-ring-is-too-big)<!-- GAME:END -->
+ - [BioShock Infinite’s viral Bread Boy, explained by its creator](https://www.polygon.com/videos/23014794/gwen-frey-bread-boy-bioshock-infinite)
+ - [Hello Neighbor 2: Pre-order and Beta Now Available](https://news.xbox.com/en-us/2022/04/07/hello-neighbor-2-pre-order-and-beta-now-available/)
+ - [YouTube Streamer With 6.9M Followers Banned After Valorant Tirade Clip Surfaces](https://kotaku.com/youtuber-streamer-ishowspeed-ban-valorant-riot-keemstar-1848764368)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
