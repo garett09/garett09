@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accept your fate](http://9gag.com/gag/apgPydb)
- - 🚯 [The secrets of magic](http://9gag.com/gag/aQXAGYd)
- - 🚯 [Burt wants to be a house sheep](http://9gag.com/gag/amgmEGd)<!-- MEMES:END -->
+ - 🚖 [Millions of remakes and this gem is not one of them.](http://9gag.com/gag/awzLq5B)
+ - 🚯 [So someone on here said this was a good movie, I never gave it a chance as a kid because for some reason i thought it was really cheesy and bad. But holy sh!t this is one of the best space army movies iv EVER seen. Iv never felt like such a kid in 20 years watching something.](http://9gag.com/gag/aQXAGBw)
+ - 🚯 [`I will never pay it off`](http://9gag.com/gag/aog4rdg)<!-- MEMES:END -->
 
 --- 
 
