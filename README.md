@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s what differentiates MLB on Apple TV+ versus regular broadcasts](https://appleinsider.com/articles/22/04/07/heres-what-differentiates-mlb-on-apple-tv-versus-regular-broadcasts?utm_medium=rss)
- - [Treasury Secretary Janet Yellen gives her first speech on digital assets, saying a central bank digital currency would require years of development and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/220407/p26#a220407p26)
- - [Mac Studio vs 14-inch MacBook Pro: the $1,999 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/mac-studio-vs-14-inch-macbook-pro-the-1999-shootout?utm_medium=rss)<!-- TECH:END -->
+ - [Third-party apps often eclipse Apple&#39;s own on the App Store, study finds](https://appleinsider.com/articles/22/04/07/third-party-apps-often-eclipse-apples-own-on-the-app-store-study-finds?utm_medium=rss)
+ - [Google is using AI to update business hours that are out of date on Google Maps](https://www.theverge.com/2022/4/7/23014122/google-maps-ai-business-hours-speed-limit-signs)
+ - [US labor board moves to block Amazon’s favorite anti-union tactic](https://www.theverge.com/2022/4/7/23014893/nlrb-counsel-captive-audience-meetings-union-labor-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
