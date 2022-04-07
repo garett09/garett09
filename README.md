@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To Survive in a Wetter World](http://9gag.com/gag/aAG4n0Z)
- - 🚯 [Accept your fate](http://9gag.com/gag/apgPydb)
- - 🚯 [I miss being 10yo and watching cartoons all day](http://9gag.com/gag/amgmjNd)<!-- MEMES:END -->
+ - 🚖 [The only graph you need to know after 2 years of COVID pandemic](http://9gag.com/gag/a9189vD)
+ - 🚯 [To Survive in a Wetter World](http://9gag.com/gag/aAG4n0Z)
+ - 🚯 [Why Husky ?](http://9gag.com/gag/aPZ8OnP)<!-- MEMES:END -->
 
 --- 
 
