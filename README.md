@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should be different](http://9gag.com/gag/aQXmPxz)
+ - 🚖 [I thought I was the only one](http://9gag.com/gag/azeO7Nj)
  - 🚯 [It\u2019s cultural](http://9gag.com/gag/aOQ9K2v)
- - 🚯 [Biracial twins](http://9gag.com/gag/a318P01)<!-- MEMES:END -->
+ - 🚯 [There\u2019s always a solution.](http://9gag.com/gag/a719vmw)<!-- MEMES:END -->
 
 --- 
 
