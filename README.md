@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lilt, which offers business translation using both human translators and AI, raises a $55M Series C led by Four Rivers, bringing its total funding to $92.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220407/p33#a220407p33)
- - [SpaceX poised to send first private crew to the International Space Station for Axiom Space](https://www.theverge.com/2022/4/7/23013067/spacex-crew-dragon-axiom-space-ax-1-iss-launch)
- - [The &#39;metaverse&#39; is a perfect distraction for embattled Facebook &amp; Epic Games](https://appleinsider.com/articles/22/04/07/the-metaverse-is-a-perfect-distraction-for-embattled-facebook-epic-games?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ signs order for &#39;The White Darkness,&#39; starring Tom Hiddleston](https://appleinsider.com/articles/22/04/07/apple-tv-signs-order-for-the-white-darkness-starring-tom-hiddleston?utm_medium=rss)
+ - [Singapore-based Luna Foundation Guard, a non-profit building reserves for the Terra &lpar;UST&rpar; stablecoin, buys $100M worth of Avalanche tokens to boost its reserves &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220407/p34#a220407p34)
+ - [Watching the r/Place timelapse is like staring into the heart of Reddit](https://www.theverge.com/2022/4/7/23015418/reddit-r-place-recap-video-gif-timeline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
