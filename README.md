@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Look At A Script For The Cancelled Deus Ex Movie](https://kotaku.com/deus-ex-movie-script-screenplay-hollywood-eidos-dr-stra-1848760265)
  - [Blizzard removes pro-Russia war symbol from Zarya skins in Overwatch](https://www.pcgamer.com/blizzard-removes-pro-russia-war-symbol-from-zarya-skins-in-overwatch)
- - [Max Payne and Max Payne 2 remakes coming from Remedy and Rockstar](https://www.polygon.com/23013939/max-payne-remakes-remedy-rockstar)
- - [Remedy Remaking Max Payne 1 And 2 Inside Control Engine](https://kotaku.com/remedy-remaking-max-payne-1-and-2-inside-control-engine-1848759888)<!-- GAME:END -->
+ - [Max Payne and Max Payne 2 remakes coming from Remedy and Rockstar](https://www.polygon.com/23013939/max-payne-remakes-remedy-rockstar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
