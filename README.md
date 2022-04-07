@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This smells like UK](http://9gag.com/gag/aE8Ww8K)
- - 🚯 [People in China are close to revolting. Since the start of the pandemic, the CCP has been baricating ppl inside their homes, leaving them to die of starvation. This zero-covid policy has finally reached the wealthiest parts of China, such as Shanghai, where this video was taken.](http://9gag.com/gag/a11VZeY)
- - 🚯 [Opened my Vintage and Antiques Shop in Switzerland. Actually, it&#39;s been a few years, but I&#39;m finally at the point where I can say that I can make a good living from it. May God help you and me.](http://9gag.com/gag/aqGxmY7)<!-- MEMES:END -->
+ - 🚖 [Non-Newtonian fluids turn into solids when pressure is applied.](http://9gag.com/gag/aQXm4dq)
+ - 🚯 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)
+ - 🚯 [Incredible footage of a Ukrainian drone chasing a Russian soldier back to his unit. Who begin shooting at the drone.](http://9gag.com/gag/aOQ9ygD)<!-- MEMES:END -->
 
 --- 
 
