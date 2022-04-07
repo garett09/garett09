@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get your Discord token](https://www.androidauthority.com/get-discord-token-3149920/)
- - [Sources: the SEC is investigating how Amazon disclosed its use of third-party seller data for its business; source: the probe has been under way for over a year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220406/p41#a220406p41)
- - [&#39;Doctor Strange 2&#39; New Trailer Brings Back Wanda&#39;s Children     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-new-trailer-brings-back-wandas-children/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Warp, which is building a new command-line terminal to help developers be more productive, launches its public beta on macOS with $23M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220406/p43#a220406p43)
+ - [New Honda Civic Type R Prototype Sets Suzuka Lap Record     - Roadshow](https://www.cnet.com/roadshow/news/2023-honda-civic-type-r-prototype-suzuka-lap-record/#ftag=CAD590a51e)
+ - [Apple orders psychological thriller series &#39;Constellation&#39;](https://appleinsider.com/articles/22/04/07/apple-orders-psychological-thriller-series-constellation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
