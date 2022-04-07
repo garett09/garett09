@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hit me!](http://9gag.com/gag/amgxXG9)
- - 🚯 [Biracial twins](http://9gag.com/gag/a318P01)
- - 🚯 [Poor Alley :&lpar;](http://9gag.com/gag/aXr70ev)<!-- MEMES:END -->
+ - 🚖 [Just end this argues.](http://9gag.com/gag/a51zd5q)
+ - 🚯 [Hit me!](http://9gag.com/gag/amgxXG9)
+ - 🚯 [Opened my Vintage and Antiques Shop in Switzerland. Actually, it&#39;s been a few years, but I&#39;m finally at the point where I can say that I can make a good living from it. May God help you and me.](http://9gag.com/gag/aqGxmY7)<!-- MEMES:END -->
 
 --- 
 
