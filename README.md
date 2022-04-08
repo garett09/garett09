@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: April 11 to 15](https://news.xbox.com/en-us/2022/04/08/next-week-on-xbox-april-11-to-15/)
- - [Metroid Dread’s big boss rush update is here](https://www.polygon.com/23016392/metroid-dread-boss-rush-update-dlc)
- - [Halo Infinite season 2 launches in early May](https://www.polygon.com/23016384/halo-infinite-season-2-release-date-battle-pass-lone-wolves)<!-- GAME:END -->
+ - [Free Play Days – Football Manager 2022 and Grow: Song of the Evertree](https://news.xbox.com/en-us/2022/04/08/free-play-days-football-manager-2022-and-grow-song-of-the-evertree/)
+ - [The Worst Enemy In Elden Ring&#39;s Liurnia of the Lakes](https://kotaku.com/elden-ring-worst-enemies-giant-lobster-liurnia-fromsoft-1848762271)
+ - [Michael Bay defibrillates old-school action cinema with Ambulance](https://www.polygon.com/reviews/2022/4/8/23016315/ambulance-review-michael-bay-jake-gyllenhaal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
