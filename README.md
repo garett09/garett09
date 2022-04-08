@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Legacy 2 Arrives on Xbox April 28](https://news.xbox.com/en-us/2022/04/08/rogue-legacy-2-arrives-on-xbox-april-28/)
- - [Sonic 2’s post-credits scene brings back a long-lost rival](https://www.polygon.com/23015623/sonic-2-post-credits-scene-shadow-cameo-teaser)
- - [How Norco’s creators used sci-fi to paint an honest depiction of Louisiana](https://www.polygon.com/23015306/norco-developer-geography-of-robots-interview-ending)<!-- GAME:END -->
+ - [Moo Lander Xbox One Demo Out Now](https://news.xbox.com/en-us/2022/04/08/moo-lander-xbox-one-demo-out-now/)
+ - [Destiny 2 Xur location and items, April 8-12](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/8/23016817/destiny-2-xur-location-and-items-april-8-12)
+ - [Rogue Legacy 2 Arrives on Xbox April 28](https://news.xbox.com/en-us/2022/04/08/rogue-legacy-2-arrives-on-xbox-april-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
