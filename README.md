@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viz.ai, which uses AI to quickly detect signs of stroke and other diseases, raises a $100M Series D led by Tiger Global and Insight at a $1.2B valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220407/p42#a220407p42)
- - [Automotive retail software provider CDK Global agrees to be acquired and taken private by Brookfield Business Partners for $6.41B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/220407/p41#a220407p41)
- - [Twitter CEO tells staff in an email that Elon Musk will hold an internal AMA, to address employee concerns that Musk will sabotage culture &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/220407/p40#a220407p40)<!-- TECH:END -->
+ - [Built Robotics, which makes autonomous construction equipment, raises a $64M Series C led by Tiger Global, bringing its total funding to $112M &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220407/p45#a220407p45)
+ - [China&#39;s Zhiyi Tech, which provides AI tools to help fashion brands better predict bestsellers for e-commerce livestreaming, has raised ~$100M over three rounds &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220407/p44#a220407p44)
+ - [Activision Blizzard confirms that Raven Software QA workers who recently organized as Game Workers Union won&#39;t be able to take advantage of new pay minimum &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220407/p43#a220407p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
