@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)
- - 🚯 [The Indo-Pacific Sailfish, considered by many scientists to be the fastest fish in the Ocean.](http://9gag.com/gag/a91mPmW)
- - 🚯 [When you&#39;re enjoying a show for years and the writers slowly start adding more and more woke community bullshit](http://9gag.com/gag/apgxBqB)<!-- MEMES:END -->
+ - 🚖 [Dolly Parton - Jolene &lpar;1974&rpar;](http://9gag.com/gag/a41AdPA)
+ - 🚯 [This giant mountain lion playing the shell game to win his favorite stuffed toy](http://9gag.com/gag/abgxymb)
+ - 🚯 [Non-Newtonian fluids turn into solids when pressure is applied.](http://9gag.com/gag/aQXm4dq)<!-- MEMES:END -->
 
 --- 
 
