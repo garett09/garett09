@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New OnePlus Nord 2T render shows off that ugly camera bump again &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)
  - [US judge sentences Denys Iarmak, a Ukrainian and member of the FIN7 hacking group, to five years in prison; FIN7 has stolen 20M+ credit card numbers since 2015 &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220408/p1#a220408p1)
- - [Samsung’s upcoming foldables might stick to this age-old tech. What do you think?](https://www.androidauthority.com/samsung-side-fingerprint-scanner-galaxy-z-flip-4-fold-4-3150206/)
- - [Netflix: The Best Fantasy TV Shows     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-fantasy-tv-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Z Flip 4 and Fold 4 will keep side fingerprint scanners, as they should](https://www.androidauthority.com/samsung-side-fingerprint-scanner-galaxy-z-flip-4-fold-4-3150206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
