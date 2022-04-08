@@ -198,7 +198,7 @@ Windows                  20 hrs 47 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [....not the sharpest tools in the shed](http://9gag.com/gag/aYrML0N)
- - 🚯 [*runs to the kitchen*](http://9gag.com/gag/a61BQeq)
+ - 🚯 [An oldie, but a goodie.](http://9gag.com/gag/a31877r)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
