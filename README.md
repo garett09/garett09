@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hurdle Gives Wordle Addicts Five Times The Hit](https://kotaku.com/wordle-clone-hurdle-word-game-puzzle-free-browser-arkan-1848769106)
- - [Share of the Week – Returnal: Ascension](https://blog.playstation.com/2022/04/08/share-of-the-week-returnal-ascension/)
- - [Share of the Week – Returnal: Ascension](https://blog.playstation.com/2022/04/08/share-of-the-week-returnal-ascension/)<!-- GAME:END -->
+ - [Rogue Legacy 2 Arrives on Xbox April 28](https://news.xbox.com/en-us/2022/04/08/rogue-legacy-2-arrives-on-xbox-april-28/)
+ - [Sonic 2’s post-credits scene brings back a long-lost rival](https://www.polygon.com/23015623/sonic-2-post-credits-scene-shadow-cameo-teaser)
+ - [How Norco’s creators used sci-fi to paint an honest depiction of Louisiana](https://www.polygon.com/23015306/norco-developer-geography-of-robots-interview-ending)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
