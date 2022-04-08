@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come on! Come on!](http://9gag.com/gag/a51z7AV)
- - 🚯 [The dark side is tempting for weak minds](http://9gag.com/gag/a41Ajzw)
+ - 🚖 [....not the sharpest tools in the shed](http://9gag.com/gag/aYrML0N)
+ - 🚯 [*runs to the kitchen*](http://9gag.com/gag/a61BQeq)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
