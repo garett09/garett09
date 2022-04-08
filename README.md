@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second season of Apple TV+ &#39;Greatness Code&#39; sports series streams on May 13](https://appleinsider.com/articles/22/04/08/second-season-of-apple-tv-greatness-code-sports-series-streams-on-may-13?utm_medium=rss)
- - [Beats deals: Save up to 49% on headphones and earbuds](https://www.androidauthority.com/beats-deals-3151043/)
- - [Google&#39;s self-repair program for Pixel launches, Apple&#39;s program is nowhere to be seen](https://appleinsider.com/articles/22/04/08/googles-self-repair-program-for-pixel-launches-apples-program-is-nowhere-to-be-seen?utm_medium=rss)<!-- TECH:END -->
+ - [The US government reportedly paid to send Starlink terminals to Ukraine](https://www.theverge.com/2022/4/8/23016670/starlink-spacex-us-government-terminals-funding-usaid)
+ - [Last call: 14-inch MacBook Pro with 10-core CPU on sale for $1,999](https://appleinsider.com/articles/22/03/30/bh-launches-14-inch-macbook-pro-deals-free-upgrade-to-10-core-cpu?utm_medium=rss)
+ - [How to track your order on eBay](https://www.androidauthority.com/track-ebay-order-3151081/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
