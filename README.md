@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs)
- - [How Peloton’s Body-Tracking Tech Fits Into Its Future](https://www.wired.com/story/gadget-lab-podcast-545)
- - [iPhone SE &amp; AirPods parts suppliers apparently aren&#39;t seeing any cut orders](https://appleinsider.com/articles/22/04/08/iphone-se-airpods-parts-suppliers-apparently-arent-seeing-any-cut-orders?utm_medium=rss)<!-- TECH:END -->
+ - [China will begin on-site inspections of large internet platforms to assess potential abuse of their algorithms, likely including Tencent and ByteDance &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220408/p5#a220408p5)
+ - [The Northman’s Seemingly Accidental Viral Marketing Campaign](https://www.wired.com/story/the-northman-poster-meme)
+ - [Why Bigger Things Don’t Always Fall Faster](https://www.wired.com/story/why-bigger-things-dont-always-fall-faster)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
