@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FactSet: revenue growth for China&#39;s tech giants is slowing; the average target for Meituan&#39;s shares fell 20%+ in March, while Tencent and JD&#39;s shares fell 10%+ &lpar;Clarence Leong/Wall Street Journal&rpar;](http://www.techmeme.com/220408/p13#a220408p13)
- - [Samsung, please don’t go big for your next smartwatch](https://www.theverge.com/2022/4/8/23017059/samsung-galaxy-watch-smartwatch-wearables)
- - [Block creating new Square Stand for iPad with built-in tap to pay](https://appleinsider.com/articles/22/04/08/block-creating-new-square-stand-for-ipad-with-built-in-tap-to-pay?utm_medium=rss)<!-- TECH:END -->
+ - [The best smartwatches for swimming from Samsung, Garmin, and More](https://www.androidauthority.com/best-smartwatches-for-swimming-3148524/)
+ - [Nissan plans to launch its first EV with a solid-state battery by 2028](https://www.theverge.com/2022/4/8/23017045/nissan-ev-solid-state-battery-yokohama-plant-2028)
+ - [Despite China&#39;s private sector crackdown in 2021, two unidentified Tencent executives still earned ~$200M each; Tencent&#39;s shares dropped 19% in 2021 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220408/p14#a220408p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
