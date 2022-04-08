@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI&#39;s Action 2 Camera and Mavic 3 Drone Are on Sale](https://www.wired.com/story/dji-action-2-mavic-3-deal-april-2022)
- - [Block and Blockstream are partnering with Tesla on an off-grid, solar-powered Bitcoin mine in Texas](https://www.theverge.com/2022/4/8/23016553/block-blockstream-tesla-solar-bitcoin-mine-texas)
- - [Sci-Fi Needs More Mothers](https://www.wired.com/2022/04/geeks-guide-maureen-mchugh)<!-- TECH:END -->
+ - [Second season of Apple TV+ &#39;Greatness Code&#39; sports series streams on May 13](https://appleinsider.com/articles/22/04/08/second-season-of-apple-tv-greatness-code-sports-series-streams-on-may-13?utm_medium=rss)
+ - [Beats deals: Save up to 49% on headphones and earbuds](https://www.androidauthority.com/beats-deals-3151043/)
+ - [Google&#39;s self-repair program for Pixel launches, Apple&#39;s program is nowhere to be seen](https://appleinsider.com/articles/22/04/08/googles-self-repair-program-for-pixel-launches-apples-program-is-nowhere-to-be-seen?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
