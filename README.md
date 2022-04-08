@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re enjoying a show for years and the writers slowly start adding more and more woke community bullshit](http://9gag.com/gag/apgxBqB)
- - 🚯 [How they see it!](http://9gag.com/gag/aBnE3mA)
- - 🚯 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)<!-- MEMES:END -->
+ - 🚖 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)
+ - 🚯 [The Indo-Pacific Sailfish, considered by many scientists to be the fastest fish in the Ocean.](http://9gag.com/gag/a91mPmW)
+ - 🚯 [When you&#39;re enjoying a show for years and the writers slowly start adding more and more woke community bullshit](http://9gag.com/gag/apgxBqB)<!-- MEMES:END -->
 
 --- 
 
