@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #293: Friday, April 8](https://www.pcgamer.com/wordle-april-8-293)
  - [Build a tiny PC for less with this Corsair SFX PSU for only $80](https://www.pcgamer.com/build-a-tiny-pc-for-less-with-this-corsair-sfx-psu-for-only-dollar80)
- - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Mobile Suit Gundam Battle Operation 2 is heading to Steam](https://www.pcgamer.com/mobile-suit-gundam-battle-operation-2-is-heading-to-steam)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
