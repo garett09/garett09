@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update Eases Up On The Grind After Fan Outrage](https://kotaku.com/gran-turismo-7-polyphony-digital-ps5-balance-rewards-up-1848766803)
- - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
- - [Ms. Pac-Man Bizarrely Replaced With New Wife &lpar;?&rpar; In Pac-Man Game](https://kotaku.com/pac-man-ms-bandai-namco-change-edit-preservation-arcade-1848766506)<!-- GAME:END -->
+ - [Galax&#39;s GeForce RTX 3090 Ti HOF smiles for the camera](https://www.pcgamer.com/galaxs-geforce-rtx-3090-ti-hof-smiles-for-the-camera)
+ - [Korean MMO Black Desert is free to keep for a limited time](https://www.pcgamer.com/korean-mmo-black-desert-is-free-to-keep-for-a-limited-time)
+ - [&#39;Sus&#39; Has Made It Onto Jeopardy](https://kotaku.com/sus-among-us-jeopardy-slang-word-game-show-tonight-susp-1848766888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
