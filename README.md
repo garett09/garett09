@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Famed Manga Artist Fujiko A. Fujio A Dies At 88](https://kotaku.com/fujiko-a-fujio-doraemon-laughing-salesman-ninja-hattor-1848767824)
- - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
- - [Sakuna: Of Rice and Ruin Is Getting Its Own Sake](https://kotaku.com/sakuna-of-rice-and-ruin-nintendo-switch-ps4-japanese-s-1848767765)<!-- GAME:END -->
+ - [Next Week on Xbox: April 11 to 15](https://news.xbox.com/en-us/2022/04/08/next-week-on-xbox-april-11-to-15/)
+ - [Metroid Dread’s big boss rush update is here](https://www.polygon.com/23016392/metroid-dread-boss-rush-update-dlc)
+ - [Halo Infinite season 2 launches in early May](https://www.polygon.com/23016384/halo-infinite-season-2-release-date-battle-pass-lone-wolves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
