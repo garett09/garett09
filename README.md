@@ -197,9 +197,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dolly Parton - Jolene &lpar;1974&rpar;](http://9gag.com/gag/a41AdPA)
- - 🚯 [This giant mountain lion playing the shell game to win his favorite stuffed toy](http://9gag.com/gag/abgxymb)
- - 🚯 [Non-Newtonian fluids turn into solids when pressure is applied.](http://9gag.com/gag/aQXm4dq)<!-- MEMES:END -->
+ - 🚖 [Tears in Rain](http://9gag.com/gag/aQXmnbw)
+ - 🚯 [Non-Newtonian fluids turn into solids when pressure is applied.](http://9gag.com/gag/aQXm4dq)
+ - 🚯 [I was kind of like a father figure, made their lunches, took them to school, took them on trips. Makes me happy to see them succeed.. my nephew is nearly 18 now, so all I&#39;ll have left is my 8 year old niece. It&#39;s been a long fun journey, and I know they appreciate me.](http://9gag.com/gag/amgx859)<!-- MEMES:END -->
 
 --- 
 
