@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China will begin on-site inspections of large internet platforms to assess potential abuse of their algorithms, likely including Tencent and ByteDance &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220408/p5#a220408p5)
- - [The Northman’s Seemingly Accidental Viral Marketing Campaign](https://www.wired.com/story/the-northman-poster-meme)
- - [Why Bigger Things Don’t Always Fall Faster](https://www.wired.com/story/why-bigger-things-dont-always-fall-faster)<!-- TECH:END -->
+ - [Axie Infinity’s financial mess started long before its $600 million hack](https://www.theverge.com/2022/4/8/23015468/axie-infinity-blockchain-nft-play-to-earn-game-economics-hack)
+ - [WaterField finally made a great Analogue Pocket case](https://www.theverge.com/23016218/waterfield-analogue-pocket-pouch-review-game-boy-games)
+ - [TSMC had $17B in Q1 revenue despite waning demand &amp; shortages](https://appleinsider.com/articles/22/04/08/tsmc-had-17b-in-q1-revenue-despite-waning-demand-shortages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
