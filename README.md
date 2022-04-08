@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cars and scams, always together](http://9gag.com/gag/a11VdER)
- - 🚯 [Would you?](http://9gag.com/gag/apgxLGB)
+ - 🚖 [Little shit](http://9gag.com/gag/a3187bv)
+ - 🚯 [Gen. Dombrowski, that&#39;s the genius that was leading Chernobyl troops and risked damaging the sarcophagus. Just look at that inbred Ork face](http://9gag.com/gag/aXr7wwP)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
