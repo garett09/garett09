@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mario Kart IRL](http://9gag.com/gag/aQXm8b8)
- - 🚯 [How is your weekend?](http://9gag.com/gag/a81e4o1)
+ - 🚖 [US Senate votes to revive WWII-era Lend-Lease Act. It allows US government to sell weapons to its allies without immediate payment.](http://9gag.com/gag/a91m78D)
+ - 🚯 [Asking the real question here...](http://9gag.com/gag/azeOAXj)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
