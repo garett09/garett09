@@ -197,7 +197,7 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little shit](http://9gag.com/gag/a3187bv)
+ - 🚖 [&#39;&#39;equality&#39;&#39;](http://9gag.com/gag/arnxOO0)
  - 🚯 [I got myself a new bike, no more gas!](http://9gag.com/gag/aGzG1ZX)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
