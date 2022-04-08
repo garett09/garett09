@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma is a b*tch ain&#39;t she](http://9gag.com/gag/aVxZMEM)
- - 🚯 [*starts waiving](http://9gag.com/gag/aKm8DwN)
+ - 🚖 [*starts waiving](http://9gag.com/gag/aKm8DwN)
+ - 🚯 [Just a recording session from Queen](http://9gag.com/gag/avAx7o5)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
