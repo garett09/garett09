@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is it safe to leave your Apple Watch charging overnight?](https://www.androidauthority.com/how-long-charge-apple-watch-3133635/)
- - [Apple leaks its own dual-port 35W power adapter](https://appleinsider.com/articles/22/04/08/apple-leaks-its-own-dual-port-35w-power-adapter?utm_medium=rss)
- - [Falken&#39;s New Tech Monitors Your Tire&#39;s Wear From the Inside     - Roadshow](https://www.cnet.com/roadshow/news/falken-sumitomo-internal-tire-wear-sensors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Parliament backs a right to repair proposal, including a requirement to increase warranty periods, making it a key EU initiative for 2022 &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/220408/p11#a220408p11)
+ - [Here’s why we’re seeing all these self-repair phone services](https://www.androidauthority.com/phone-self-repair-services-3151142/)
+ - [YouTubers are sick of comment spam, so YouTube is testing a stricter moderation system](https://www.theverge.com/2022/4/8/23016861/youtube-comment-spam-testing-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
