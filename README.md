@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moo Lander Xbox One Demo Out Now](https://news.xbox.com/en-us/2022/04/08/moo-lander-xbox-one-demo-out-now/)
- - [Destiny 2 Xur location and items, April 8-12](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/8/23016817/destiny-2-xur-location-and-items-april-8-12)
- - [Rogue Legacy 2 Arrives on Xbox April 28](https://news.xbox.com/en-us/2022/04/08/rogue-legacy-2-arrives-on-xbox-april-28/)<!-- GAME:END -->
+ - [Behold the Minecraft recreation of Reddit’s communal mural from r/place](https://www.polygon.com/23016821/minecraft-reddit-rplace-r-slash-place)
+ - [This Week on Xbox: Great Launches, Pre-order Bonuses, and Game Updates](https://news.xbox.com/en-us/2022/04/08/this-week-on-xbox-april-8-2022/)
+ - [How To Earn Millions Of Studs Quickly In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-tips-earn-studs-farming-levels-1848770303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
