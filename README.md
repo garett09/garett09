@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Parliament backs a right to repair proposal, including a requirement to increase warranty periods, making it a key EU initiative for 2022 &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/220408/p11#a220408p11)
- - [Here’s why we’re seeing all these self-repair phone services](https://www.androidauthority.com/phone-self-repair-services-3151142/)
- - [YouTubers are sick of comment spam, so YouTube is testing a stricter moderation system](https://www.theverge.com/2022/4/8/23016861/youtube-comment-spam-testing-moderation)<!-- TECH:END -->
+ - [FactSet: revenue growth for China&#39;s tech giants is slowing; the average target for Meituan&#39;s shares fell 20%+ in March, while Tencent and JD&#39;s shares fell 10%+ &lpar;Clarence Leong/Wall Street Journal&rpar;](http://www.techmeme.com/220408/p13#a220408p13)
+ - [Samsung, please don’t go big for your next smartwatch](https://www.theverge.com/2022/4/8/23017059/samsung-galaxy-watch-smartwatch-wearables)
+ - [Block creating new Square Stand for iPad with built-in tap to pay](https://appleinsider.com/articles/22/04/08/block-creating-new-square-stand-for-ipad-with-built-in-tap-to-pay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
