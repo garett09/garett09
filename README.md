@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Galax&#39;s GeForce RTX 3090 Ti HOF smiles for the camera](https://www.pcgamer.com/galaxs-geforce-rtx-3090-ti-hof-smiles-for-the-camera)
- - [Korean MMO Black Desert is free to keep for a limited time](https://www.pcgamer.com/korean-mmo-black-desert-is-free-to-keep-for-a-limited-time)
- - [&#39;Sus&#39; Has Made It Onto Jeopardy](https://kotaku.com/sus-among-us-jeopardy-slang-word-game-show-tonight-susp-1848766888)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2022](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [Mobile Suit Gundam Battle Operation 2 is heading to Steam](https://www.pcgamer.com/mobile-suit-gundam-battle-operation-2-is-heading-to-steam)
+ - [Galax&#39;s GeForce RTX 3090 Ti HOF smiles for the camera](https://www.pcgamer.com/galaxs-geforce-rtx-3090-ti-hof-smiles-for-the-camera)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
