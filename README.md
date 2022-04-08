@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toucan, a crypto platform offering carbon offset credits, a market estimated to reach $190B in sales by 2030, is backfiring by incentivizing zombie projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/220407/p39#a220407p39)
- - [17 of the best underrated movies &lpar;and where to stream them in 2022&rpar;](https://www.androidauthority.com/most-underrated-movies-streaming-3150462/)
- - [GM’s Chevy Bolt EV and EUV are finally back in production following battery fire recall](https://www.theverge.com/2022/4/7/23013855/chevy-bolt-ev-euv-production-resumes-battery-fix-recall)<!-- TECH:END -->
+ - [Viz.ai, which uses AI to quickly detect signs of stroke and other diseases, raises a $100M Series D led by Tiger Global and Insight at a $1.2B valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220407/p42#a220407p42)
+ - [Automotive retail software provider CDK Global agrees to be acquired and taken private by Brookfield Business Partners for $6.41B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/220407/p41#a220407p41)
+ - [Twitter CEO tells staff in an email that Elon Musk will hold an internal AMA, to address employee concerns that Musk will sabotage culture &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/220407/p40#a220407p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
