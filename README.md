@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Famed Manga Artist Fujiko A. Fujio A Dies At 88](https://kotaku.com/fujiko-a-fujio-doraemon-laughing-salesman-ninja-hattor-1848767824)
  - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
- - [Sakuna: Of Rice and Ruin Is Getting Its Own Sake](https://kotaku.com/sakuna-of-rice-and-ruin-nintendo-switch-ps4-japanese-s-1848767765)
- - [Colemak is a revelatory keyboard layout but there&#39;s no killing QWERTY for gaming](https://www.pcgamer.com/colemak-qwerty-keyboard-layout)<!-- GAME:END -->
+ - [Sakuna: Of Rice and Ruin Is Getting Its Own Sake](https://kotaku.com/sakuna-of-rice-and-ruin-nintendo-switch-ps4-japanese-s-1848767765)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
