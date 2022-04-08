@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just leaked a dual-port 35W USB-C charger that could clear up the GaN mystery](https://www.theverge.com/2022/4/8/23016867/apple-dual-port-35-watt-usb-c-charger-power-adapter-leak)
- - [Dancing With the Stars is heading to Disney Plus](https://www.theverge.com/2022/4/8/23016891/dancing-with-the-stars-disney-plus-exclusive-abc)
- - [Pokemon Go April Events: Tapu Bulu, New Spotlight Hours and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-april-events-tapu-bulu-new-spotlight-hours-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is it safe to leave your Apple Watch charging overnight?](https://www.androidauthority.com/how-long-charge-apple-watch-3133635/)
+ - [Apple leaks its own dual-port 35W power adapter](https://appleinsider.com/articles/22/04/08/apple-leaks-its-own-dual-port-35w-power-adapter?utm_medium=rss)
+ - [Falken&#39;s New Tech Monitors Your Tire&#39;s Wear From the Inside     - Roadshow](https://www.cnet.com/roadshow/news/falken-sumitomo-internal-tire-wear-sensors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
