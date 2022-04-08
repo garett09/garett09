@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Updated Cybertruck, Futuristic Robo-Taxi Teased at Tesla&#39;s Texas Cyber Rodeo     - Roadshow](https://www.cnet.com/roadshow/news/tesla-cyber-rodeo-giga-texas-recap-cybertruck-robo-taxi/#ftag=CAD590a51e)
  - [Kumo, whose AI platform uses graph neural networks to help companies predict better, raises a $18.5M Series A led by Sequoia Capital at a $100M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/220407/p46#a220407p46)
- - [Built Robotics, which makes autonomous construction equipment, raises a $64M Series C led by Tiger Global, bringing its total funding to $112M &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220407/p45#a220407p45)
- - [Friday&#39;s SpaceX Launch: Astronauts to Wear Brain-Tracking Helmets in Microgravity     - CNET](https://www.cnet.com/science/space/fridays-spacex-launch-astronauts-to-wear-brain-tracking-helmets-in-microgravity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Built Robotics, which makes autonomous construction equipment, raises a $64M Series C led by Tiger Global, bringing its total funding to $112M &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220407/p45#a220407p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
