@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Release Date Announced for Two Point Campus](https://news.xbox.com/en-us/2022/04/07/new-release-date-announced-for-two-point-campus/)
- - [Report: Facebook Eyes ‘Zuck Bucks’ And NFTs As It Loses Users To TikTok](https://kotaku.com/metaverse-nfts-crypto-facebook-meta-zuck-bucks-diem-1848765863)
- - [Pac-Man has a new wife, thanks to Ms. Pac-Man drama](https://www.polygon.com/23015420/ms-pac-man-pac-land-bandai-namco-atgames-lawsuit)<!-- GAME:END -->
+ - [Gran Turismo 7 Update Eases Up On The Grind After Fan Outrage](https://kotaku.com/gran-turismo-7-polyphony-digital-ps5-balance-rewards-up-1848766803)
+ - [The best gaming monitors in Australia for 2022](https://www.pcgamer.com/the-best-gaming-monitors-in-australia-for-2022)
+ - [Ms. Pac-Man Bizarrely Replaced With New Wife &lpar;?&rpar; In Pac-Man Game](https://kotaku.com/pac-man-ms-bandai-namco-change-edit-preservation-arcade-1848766506)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
