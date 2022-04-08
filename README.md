@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With love from Australia](http://9gag.com/gag/angxNbo)
- - 🚯 [Mini claw](http://9gag.com/gag/aXr79Ed)
+ - 🚖 [The Indo-Pacific Sailfish, considered by many scientists to be the fastest fish in the Ocean.](http://9gag.com/gag/a91mPmW)
+ - 🚯 [Wood sliding in real good](http://9gag.com/gag/a318BQe)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
