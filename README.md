@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [....not the sharpest tools in the shed](http://9gag.com/gag/aYrML0N)
- - 🚯 [An oldie, but a goodie.](http://9gag.com/gag/a31877r)
+ - 🚖 [Cars and scams, always together](http://9gag.com/gag/a11VdER)
+ - 🚯 [Would you?](http://9gag.com/gag/apgxLGB)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
