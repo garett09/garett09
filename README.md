@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Football Manager 2022 and Grow: Song of the Evertree](https://news.xbox.com/en-us/2022/04/08/free-play-days-football-manager-2022-and-grow-song-of-the-evertree/)
- - [The Worst Enemy In Elden Ring&#39;s Liurnia of the Lakes](https://kotaku.com/elden-ring-worst-enemies-giant-lobster-liurnia-fromsoft-1848762271)
- - [Michael Bay defibrillates old-school action cinema with Ambulance](https://www.polygon.com/reviews/2022/4/8/23016315/ambulance-review-michael-bay-jake-gyllenhaal)<!-- GAME:END -->
+ - [Hurdle Gives Wordle Addicts Five Times The Hit](https://kotaku.com/wordle-clone-hurdle-word-game-puzzle-free-browser-arkan-1848769106)
+ - [Share of the Week – Returnal: Ascension](https://blog.playstation.com/2022/04/08/share-of-the-week-returnal-ascension/)
+ - [Share of the Week – Returnal: Ascension](https://blog.playstation.com/2022/04/08/share-of-the-week-returnal-ascension/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
