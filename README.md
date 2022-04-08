@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little shit](http://9gag.com/gag/a3187bv)
- - 🚯 [Gen. Dombrowski, that&#39;s the genius that was leading Chernobyl troops and risked damaging the sarcophagus. Just look at that inbred Ork face](http://9gag.com/gag/aXr7wwP)
+ - 🚖 [I am proud on my small coutry. Lets kick some orks assses &lpar;S-300 defense system sent by Slovakia &rpar;](http://9gag.com/gag/aVxZDBd)
+ - 🚯 [Well then](http://9gag.com/gag/avAxr3O)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
