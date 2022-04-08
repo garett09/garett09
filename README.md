@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re enjoying a show for years and the writers slowly start adding more and more woke community bullshit](http://9gag.com/gag/apgxBqB)
- - 🚯 [Lol](http://9gag.com/gag/a61B7LA)
+ - 🚖 [With love from Australia](http://9gag.com/gag/angxNbo)
+ - 🚯 [Mini claw](http://9gag.com/gag/aXr79Ed)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
