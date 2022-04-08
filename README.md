@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat has a new lens to help you learn the American Sign Language alphabet](https://www.theverge.com/2022/4/7/23015676/snapchat-american-sign-language-asl-alphabet-lens)
- - [Amazon plans to object to union victory in New York](https://www.theverge.com/2022/4/7/23015642/amazon-alu-union-victory-staten-island-objection-plan)
- - [Twitter rolls out its ALT badge and improved image descriptions](https://www.theverge.com/2022/4/7/23015669/twitter-alt-badge-improved-image-descriptions-accessibility)<!-- TECH:END -->
+ - [Toucan, a crypto platform offering carbon offset credits, a market estimated to reach $190B in sales by 2030, is backfiring by incentivizing zombie projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/220407/p39#a220407p39)
+ - [17 of the best underrated movies &lpar;and where to stream them in 2022&rpar;](https://www.androidauthority.com/most-underrated-movies-streaming-3150462/)
+ - [GM’s Chevy Bolt EV and EUV are finally back in production following battery fire recall](https://www.theverge.com/2022/4/7/23013855/chevy-bolt-ev-euv-production-resumes-battery-fix-recall)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
