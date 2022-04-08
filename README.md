@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried the pixel-flavored Coke, and it Bytes](https://www.theverge.com/23014905/coke-byte-pixel-flavored-soda-review-fortnite-metaverse)
- - [You told us: You’re split about the new Galaxy S20 FE launching in your region](https://www.androidauthority.com/samsung-galaxy-s20-fe-2022-poll-results-3150701/)
- - [Fiido X e-bike recalled due to risk of breaking in half](https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall)<!-- TECH:END -->
+ - [The All-Clad Factory Seconds Sale Can Help You Save on Cookware](https://www.wired.com/story/all-clad-factory-seconds-april-2022-sale)
+ - [Scientists Spy on Mount Etna With Fiber Optic Cables](https://www.wired.com/story/scientists-spy-on-mount-etna-with-fiber-optic-cables)
+ - [The Census Is Broken. Can AI Fix It?](https://www.wired.com/story/us-census-undercount-ai-satellites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
