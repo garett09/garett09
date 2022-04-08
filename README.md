@@ -197,7 +197,7 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Incredible footage of a Ukrainian drone chasing a Russian soldier back to his unit. Who begin shooting at the drone.](http://9gag.com/gag/aOQ9ygD)
+ - 🚖 [When you&#39;re enjoying a show for years and the writers slowly start adding more and more woke community bullshit](http://9gag.com/gag/apgxBqB)
  - 🚯 [How they see it!](http://9gag.com/gag/aBnE3mA)
  - 🚯 [Oor... Any other drink!](http://9gag.com/gag/aDDb349)<!-- MEMES:END -->
 
