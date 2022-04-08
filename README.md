@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The All-Clad Factory Seconds Sale Can Help You Save on Cookware](https://www.wired.com/story/all-clad-factory-seconds-april-2022-sale)
- - [Scientists Spy on Mount Etna With Fiber Optic Cables](https://www.wired.com/story/scientists-spy-on-mount-etna-with-fiber-optic-cables)
- - [The Census Is Broken. Can AI Fix It?](https://www.wired.com/story/us-census-undercount-ai-satellites)<!-- TECH:END -->
+ - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs)
+ - [How Peloton’s Body-Tracking Tech Fits Into Its Future](https://www.wired.com/story/gadget-lab-podcast-545)
+ - [iPhone SE &amp; AirPods parts suppliers apparently aren&#39;t seeing any cut orders](https://appleinsider.com/articles/22/04/08/iphone-se-airpods-parts-suppliers-apparently-arent-seeing-any-cut-orders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
