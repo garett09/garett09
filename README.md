@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US government reportedly paid to send Starlink terminals to Ukraine](https://www.theverge.com/2022/4/8/23016670/starlink-spacex-us-government-terminals-funding-usaid)
- - [Last call: 14-inch MacBook Pro with 10-core CPU on sale for $1,999](https://appleinsider.com/articles/22/03/30/bh-launches-14-inch-macbook-pro-deals-free-upgrade-to-10-core-cpu?utm_medium=rss)
- - [How to track your order on eBay](https://www.androidauthority.com/track-ebay-order-3151081/)<!-- TECH:END -->
+ - [Apple just leaked a dual-port 35W USB-C charger that could clear up the GaN mystery](https://www.theverge.com/2022/4/8/23016867/apple-dual-port-35-watt-usb-c-charger-power-adapter-leak)
+ - [Dancing With the Stars is heading to Disney Plus](https://www.theverge.com/2022/4/8/23016891/dancing-with-the-stars-disney-plus-exclusive-abc)
+ - [Pokemon Go April Events: Tapu Bulu, New Spotlight Hours and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-april-events-tapu-bulu-new-spotlight-hours-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
