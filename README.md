@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axie Infinity’s financial mess started long before its $600 million hack](https://www.theverge.com/2022/4/8/23015468/axie-infinity-blockchain-nft-play-to-earn-game-economics-hack)
- - [WaterField finally made a great Analogue Pocket case](https://www.theverge.com/23016218/waterfield-analogue-pocket-pouch-review-game-boy-games)
- - [TSMC had $17B in Q1 revenue despite waning demand &amp; shortages](https://appleinsider.com/articles/22/04/08/tsmc-had-17b-in-q1-revenue-despite-waning-demand-shortages?utm_medium=rss)<!-- TECH:END -->
+ - [Google partners with iFixit to offer spare parts for its devices going back to 2017&#39;s Pixel 2, in the US, UK, and other countries later this year &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220408/p7#a220408p7)
+ - [Key Apple suppliers hit by Covid-19 lockdowns, factory halts in Kunshan](https://appleinsider.com/articles/22/04/08/key-apple-suppliers-hit-by-covid-19-lockdowns-factory-halts-in-kunshan?utm_medium=rss)
+ - [Google joins Samsung in working with iFixit on a self-repair program](https://www.theverge.com/2022/4/8/23016233/google-pixel-smartphones-ifixit-repair-program)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
