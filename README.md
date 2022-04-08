@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrono Cross And Other Classics Suddenly ‘Expiring’ On PS3, Vita](https://kotaku.com/playstation-3-ps3-vita-sony-digital-license-expire-chro-1848770979)
- - [The luxury board games are coming, and Castles of Burgundy is a great place to start](https://www.polygon.com/tabletop-games/23017005/castles-of-burgundy-deluxe-edition-gamefound-release-date-price)
- - [With Netflix’s teen music movie Metal Lords, Game of Thrones’ D.B. Weiss gets personal](https://www.polygon.com/23015794/metal-lords-review-netflix-movie-db-weiss-game-of-thrones)<!-- GAME:END -->
+ - [The MCU could learn a lot from Everything Everywhere All at Once](https://www.polygon.com/2022/4/8/23016630/everything-everywhere-all-at-once-patch-notes-polygon-newsletter)
+ - [Steam’s Top Guide For Elden Ring Is A Foot Fetishist’s Dream](https://kotaku.com/elden-ring-top-steam-guide-miyazaki-foot-fetish-meme-so-1848771518)
+ - [Chrono Cross And Other Classics Suddenly ‘Expiring’ On PS3, Vita](https://kotaku.com/playstation-3-ps3-vita-sony-digital-license-expire-chro-1848770979)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
