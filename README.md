@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chrono Cross And Other Classics Suddenly ‘Expiring’ On PS3, Vita](https://kotaku.com/playstation-3-ps3-vita-sony-digital-license-expire-chro-1848770979)
  - [The luxury board games are coming, and Castles of Burgundy is a great place to start](https://www.polygon.com/tabletop-games/23017005/castles-of-burgundy-deluxe-edition-gamefound-release-date-price)
- - [With Netflix’s teen music movie Metal Lords, Game of Thrones’ D.B. Weiss gets personal](https://www.polygon.com/23015794/metal-lords-review-netflix-movie-db-weiss-game-of-thrones)
- - [Call Of Duty Cheating Accusations Lead To Controversial &#39;Hacking Exam&#39;](https://kotaku.com/call-of-duty-warzone-shiftytv-aimbot-hacker-jake-lucky-1848770775)<!-- GAME:END -->
+ - [With Netflix’s teen music movie Metal Lords, Game of Thrones’ D.B. Weiss gets personal](https://www.polygon.com/23015794/metal-lords-review-netflix-movie-db-weiss-game-of-thrones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
