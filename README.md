@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold the Minecraft recreation of Reddit’s communal mural from r/place](https://www.polygon.com/23016821/minecraft-reddit-rplace-r-slash-place)
- - [This Week on Xbox: Great Launches, Pre-order Bonuses, and Game Updates](https://news.xbox.com/en-us/2022/04/08/this-week-on-xbox-april-8-2022/)
- - [How To Earn Millions Of Studs Quickly In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-tips-earn-studs-farming-levels-1848770303)<!-- GAME:END -->
+ - [The luxury board games are coming, and Castles of Burgundy is a great place to start](https://www.polygon.com/tabletop-games/23017005/castles-of-burgundy-deluxe-edition-gamefound-release-date-price)
+ - [With Netflix’s teen music movie Metal Lords, Game of Thrones’ D.B. Weiss gets personal](https://www.polygon.com/23015794/metal-lords-review-netflix-movie-db-weiss-game-of-thrones)
+ - [Call Of Duty Cheating Accusations Lead To Controversial &#39;Hacking Exam&#39;](https://kotaku.com/call-of-duty-warzone-shiftytv-aimbot-hacker-jake-lucky-1848770775)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
