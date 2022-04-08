@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google partners with iFixit to offer spare parts for its devices going back to 2017&#39;s Pixel 2, in the US, UK, and other countries later this year &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220408/p7#a220408p7)
- - [Key Apple suppliers hit by Covid-19 lockdowns, factory halts in Kunshan](https://appleinsider.com/articles/22/04/08/key-apple-suppliers-hit-by-covid-19-lockdowns-factory-halts-in-kunshan?utm_medium=rss)
- - [Google joins Samsung in working with iFixit on a self-repair program](https://www.theverge.com/2022/4/8/23016233/google-pixel-smartphones-ifixit-repair-program)<!-- TECH:END -->
+ - [DJI&#39;s Action 2 Camera and Mavic 3 Drone Are on Sale](https://www.wired.com/story/dji-action-2-mavic-3-deal-april-2022)
+ - [Block and Blockstream are partnering with Tesla on an off-grid, solar-powered Bitcoin mine in Texas](https://www.theverge.com/2022/4/8/23016553/block-blockstream-tesla-solar-bitcoin-mine-texas)
+ - [Sci-Fi Needs More Mothers](https://www.wired.com/2022/04/geeks-guide-maureen-mchugh)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
