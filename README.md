@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fiido X e-bike recalled due to risk of breaking in half](https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall)
- - [You can now try out Android 12 on your OnePlus Nord — its final update](https://www.androidauthority.com/oneplus-nord-android-12-3150730/)
- - [New OnePlus Nord 2T render shows off that ugly camera bump again &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-2t-design-3134551/)<!-- TECH:END -->
+ - [I tried the pixel-flavored Coke, and it Bytes](https://www.theverge.com/23014905/coke-byte-pixel-flavored-soda-review-fortnite-metaverse)
+ - [You told us: You’re split about the new Galaxy S20 FE launching in your region](https://www.androidauthority.com/samsung-galaxy-s20-fe-2022-poll-results-3150701/)
+ - [Fiido X e-bike recalled due to risk of breaking in half](https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
