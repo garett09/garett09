@@ -190,9 +190,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kumo, whose AI platform uses graph neural networks to help companies predict better, raises a $18.5M Series A led by Sequoia Capital at a $100M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/220407/p46#a220407p46)
  - [Built Robotics, which makes autonomous construction equipment, raises a $64M Series C led by Tiger Global, bringing its total funding to $112M &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220407/p45#a220407p45)
- - [China&#39;s Zhiyi Tech, which provides AI tools to help fashion brands better predict bestsellers for e-commerce livestreaming, has raised ~$100M over three rounds &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220407/p44#a220407p44)
- - [Activision Blizzard confirms that Raven Software QA workers who recently organized as Game Workers Union won&#39;t be able to take advantage of new pay minimum &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220407/p43#a220407p43)<!-- TECH:END -->
+ - [Friday&#39;s SpaceX Launch: Astronauts to Wear Brain-Tracking Helmets in Microgravity     - CNET](https://www.cnet.com/science/space/fridays-spacex-launch-astronauts-to-wear-brain-tracking-helmets-in-microgravity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
