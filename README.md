@@ -183,9 +183,9 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every new movie you can stream from home this weekend](https://www.polygon.com/23009844/new-movies-watch-metal-lords-netflix-the-night-house-hbo-max)
  - [The MCU could learn a lot from Everything Everywhere All at Once](https://www.polygon.com/2022/4/8/23016630/everything-everywhere-all-at-once-patch-notes-polygon-newsletter)
- - [Steam’s Top Guide For Elden Ring Is A Foot Fetishist’s Dream](https://kotaku.com/elden-ring-top-steam-guide-miyazaki-foot-fetish-meme-so-1848771518)
- - [Chrono Cross And Other Classics Suddenly ‘Expiring’ On PS3, Vita](https://kotaku.com/playstation-3-ps3-vita-sony-digital-license-expire-chro-1848770979)<!-- GAME:END -->
+ - [Steam’s Top Guide For Elden Ring Is A Foot Fetishist’s Dream](https://kotaku.com/elden-ring-top-steam-guide-miyazaki-foot-fetish-meme-so-1848771518)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
