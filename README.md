@@ -197,8 +197,8 @@ Windows                  20 hrs 47 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US Senate votes to revive WWII-era Lend-Lease Act. It allows US government to sell weapons to its allies without immediate payment.](http://9gag.com/gag/a91m78D)
- - 🚯 [Asking the real question here...](http://9gag.com/gag/azeOAXj)
+ - 🚖 [Come on! Come on!](http://9gag.com/gag/a51z7AV)
+ - 🚯 [The dark side is tempting for weak minds](http://9gag.com/gag/a41Ajzw)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
