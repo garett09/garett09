@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont be a lazy fish](http://9gag.com/gag/aegxAdv)
- - 🚯 [All you have to do is pick them up](http://9gag.com/gag/abgxGKX)
+ - 🚖 [Beam me up Scotty](http://9gag.com/gag/aXr7g1z)
+ - 🚯 [The importance of a handbreake](http://9gag.com/gag/apgxgBD)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
