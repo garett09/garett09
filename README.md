@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When talent meets hardwork](http://9gag.com/gag/angx5NB)
- - 🚯 [I love democracy](http://9gag.com/gag/a11VQ3w)
- - 🚯 [Florida, there`s a woman too.](http://9gag.com/gag/ajgx8ow)<!-- MEMES:END -->
+ - 🚖 [Thanks Mom](http://9gag.com/gag/aM4zYvR)
+ - 🚯 [When you forget you are living in clown world..](http://9gag.com/gag/aAGM3ep)
+ - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
 
