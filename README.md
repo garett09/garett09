@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fans slam Apple TV+ &#39;Friday Night Baseball&#39; stream outages, commentary team](https://appleinsider.com/articles/22/04/09/fans-slam-apple-tv-friday-night-baseball-stream-outages-commentary-team?utm_medium=rss)
- - [Which manufacturer updates its phones the fastest? &lpar;Android 12 edition&rpar;](https://www.androidauthority.com/android-12-rollout-3147258/)
- - [Twitter reverts a change that left blank spaces in place of deleted embedded tweets and says it is exploring &quot;different options&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220409/p10#a220409p10)<!-- TECH:END -->
+ - [BenQ ScreenBar Halo Review: Monitor lamp cosily light up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)
+ - [Prime Video: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-41-best-tv-series-to-watch-this-weekend/#ftag=CAD590a51e)
+ - [UFC 273 Volkanovski Vs. The Korean Zombie: Start Time, How To Watch or Stream     - CNET](https://www.cnet.com/culture/sports/ufc-273-volkanovski-vs-the-korean-zombie-start-time-how-to-watch-or-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
