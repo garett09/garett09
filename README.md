@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balls](http://9gag.com/gag/azeOMAj)
- - 🚯 [It&#39;s 7.15pm in Sri Lanka and this image took around 7pm... Now protest crowd has grown in numbers and it is still going strong....](http://9gag.com/gag/aAGMeK2)
+ - 🚖 [This lady is really something else](http://9gag.com/gag/aVxZ7Y2)
+ - 🚯 [Balls](http://9gag.com/gag/azeOMAj)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
