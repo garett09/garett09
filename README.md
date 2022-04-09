@@ -197,7 +197,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*starts waiving](http://9gag.com/gag/aKm8DwN)
+ - 🚖 [No no he has a point](http://9gag.com/gag/aggxYpg)
  - 🚯 [Just a recording session from Queen](http://9gag.com/gag/avAx7o5)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
