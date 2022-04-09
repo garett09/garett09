@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Codes To Unlock Secret Characters And Ships In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-saga-secret-cheat-codes-charac-1848747352)
  - [Tunic’s ‘No Fail’ mode let me enjoy its puzzles way more](https://www.polygon.com/23016926/tunic-no-fail-easy-mode-combat-puzzles)
- - [New Lego Star Wars Has A Droid That Might&#39;ve Killed A Pregnant Woman](https://kotaku.com/lego-star-wars-skywalker-saga-creepy-droid-ghost-nobot-1848771542)
- - [10 great movies you can watch for free at home](https://www.polygon.com/what-to-watch/23011290/free-movies-watch-online-best)<!-- GAME:END -->
+ - [New Lego Star Wars Has A Droid That Might&#39;ve Killed A Pregnant Woman](https://kotaku.com/lego-star-wars-skywalker-saga-creepy-droid-ghost-nobot-1848771542)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
