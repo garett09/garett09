@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today was the exam day of my tattoo apprenticeship. I am really proud and wanted to share :&rpar;](http://9gag.com/gag/angxM9E)
- - 🚯 [Technically a felony](http://9gag.com/gag/aXr7xb6)
- - 🚯 [Already better than Netflix](http://9gag.com/gag/ajgx8qG)<!-- MEMES:END -->
+ - 🚖 [Technically a felony](http://9gag.com/gag/aXr7xb6)
+ - 🚯 [Current situation in Shanghai, some communities have been in quarantine since 3/4 with no food supplied. Communities are starting a riot, shots fired to contain the angry &lpar;and starving&rpar; mob](http://9gag.com/gag/aZrE3m0)
+ - 🚯 [Fixer upper.](http://9gag.com/gag/a21Don9)<!-- MEMES:END -->
 
 --- 
 
