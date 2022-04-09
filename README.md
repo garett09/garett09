@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro 80W vs 65W charging test: Do you need that extra 15W?](https://www.androidauthority.com/oneplus-10-pro-80w-vs-65w-charging-3146298/)
- - [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us)
- - [The Weekly Authority: 📱 Google Pixel self-repair is coming](https://www.androidauthority.com/the-weekly-authority-april-9-2022-189-3149780/)<!-- TECH:END -->
+ - [A look at an international group of 1,300 librarians, historians, and teachers that is using open source tools and Slack to back up Ukraine&#39;s digital archives &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220409/p4#a220409p4)
+ - [These Are the 11 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)
+ - [Drought Is Threatening Hydropower in the Southwestern US](https://www.wired.com/story/drought-hydropower-southwestern-us-glen-canyon-dam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
