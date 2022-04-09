@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Has Now Beat Elden Ring In Just 12 Minutes And 32 Seconds](https://kotaku.com/elden-ring-fromsoft-speedrun-12-minutes-zipping-mitchri-1848773561)
- - [Warhammer’s fierce painting contest, the Golden Demon, is a battle of fine detail](https://www.polygon.com/23013303/warhammer-golden-demon-2022-adepticon-photo-essay)
- - [Codes To Unlock Secret Characters And Ships In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-saga-secret-cheat-codes-charac-1848747352)<!-- GAME:END -->
+ - [What happened at the end of The Witcher 3?](https://www.polygon.com/23017191/witcher-3-ciri-ending-blood-wine-choices-what-happened)
+ - [The best Easter egg in Everything Everywhere All At Once is a secret director’s cameo](https://www.polygon.com/23015417/everything-everywhere-all-at-once-easter-egg-ape-suit-daniels)
+ - [Someone Has Now Beat Elden Ring In Just 12 Minutes And 32 Seconds](https://kotaku.com/elden-ring-fromsoft-speedrun-12-minutes-zipping-mitchri-1848773561)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
