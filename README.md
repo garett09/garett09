@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: leading chip tool makers are warning clients they will have to wait up to 18 months for key equipment, citing shortages of lenses, valves, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220409/p5#a220409p5)
- - [Google Pixel 6 Pro revisited: The good and bad six months later](https://www.androidauthority.com/google-pixel-6-pro-review-revisited-3143864/)
- - [Our 6 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)<!-- TECH:END -->
+ - [Russian officials warn that YouTube could face restrictions after it blocked Duma TV, which broadcasts from Russia&#39;s lower house of parliament &lpar;Reuters&rpar;](http://www.techmeme.com/220409/p6#a220409p6)
+ - [Dual USB-C Power Adapter soon to enter mass production](https://appleinsider.com/articles/22/04/09/dual-usb-c-power-adapter-soon-to-enter-mass-production?utm_medium=rss)
+ - [Sources: leading chip tool makers are warning clients they will have to wait up to 18 months for key equipment, citing shortages of lenses, valves, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220409/p5#a220409p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
