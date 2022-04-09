@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Brazilian singer Anitta&#39;s fans gamed Spotify&#39;s algorithm to make her song top the charts by switching accounts after 20 streams, creating playlists, more &lpar;Mar&amp;iacute;lia Marasciulo/Rest of World&rpar;](http://www.techmeme.com/220409/p3#a220409p3)
  - [Realme GT 2 Pro review: A winning combo of style and substance](https://www.androidauthority.com/realme-gt-2-pro-review-3148559/)
- - [Inside the Bitcoin 2022 conference in Miami, which felt confusing and disjointed, as the cultural spotlight on Ethereum left Bitcoin feeling a little stale &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/220409/p2#a220409p2)
- - [Samsung&#39;s reputation has taken a hit in South Korea, where three major carriers have halved the price of Galaxy S22, amid reports of hobbled device performance &lpar;Byungwook Kim/Reuters&rpar;](http://www.techmeme.com/220409/p1#a220409p1)<!-- TECH:END -->
+ - [Inside the Bitcoin 2022 conference in Miami, which felt confusing and disjointed, as the cultural spotlight on Ethereum left Bitcoin feeling a little stale &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/220409/p2#a220409p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
