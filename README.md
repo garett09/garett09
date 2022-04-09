@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is a $2,500 Android TV short-throw laser projector overkill? I had to find out](https://www.androidauthority.com/xgimi-aura-3147715/)
- - [Lululook iPad mini 6 Magnetic Stand Review: a must-have iPad mini accessory](https://appleinsider.com/articles/22/04/09/lululook-ipad-mini-6-magnetic-stand-review-a-must-have-ipad-mini-accessory?utm_medium=rss)
- - [Sources: Meta chose a Qualcomm chip for the second version of its Ray-Ban smartglasses, after struggling to develop its own custom chip codenamed Brasilia &lpar;The Information&rpar;](http://www.techmeme.com/220409/p8#a220409p8)<!-- TECH:END -->
+ - [Meta&#39;s civil rights team made progress in its first year, including removing sensitive ad targeting categories, but experts say it needs to be empowered to act &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220409/p9#a220409p9)
+ - [Apple TV Plus’ Friday Night Baseball debut wasn’t the homerun fans expected](https://www.theverge.com/2022/4/9/23017927/apple-tv-plus-friday-night-baseball-debut-mlb-fans-disappointed)
+ - [Is a $2,500 Android TV short-throw laser projector overkill? I had to find out](https://www.androidauthority.com/xgimi-aura-3147715/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
