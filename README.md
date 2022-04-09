@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for swimming from Samsung, Garmin, and More](https://www.androidauthority.com/best-smartwatches-for-swimming-3148524/)
- - [Nissan plans to launch its first EV with a solid-state battery by 2028](https://www.theverge.com/2022/4/8/23017045/nissan-ev-solid-state-battery-yokohama-plant-2028)
- - [Despite China&#39;s private sector crackdown in 2021, two unidentified Tencent executives still earned ~$200M each; Tencent&#39;s shares dropped 19% in 2021 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220408/p14#a220408p14)<!-- TECH:END -->
+ - [Disrupting cyberattacks targeting Ukraine &lpar;Tom Burt/Microsoft On the Issues&rpar;](http://www.techmeme.com/220408/p16#a220408p16)
+ - [A look at Intel&#39;s chip-making process at its Hillsboro, Oregon and Chandler, Arizona campuses and the infrastructure behind its two planned $10B Arizona fabs &lpar;New York Times&rpar;](http://www.techmeme.com/220408/p15#a220408p15)
+ - [Amazon Prime is getting more expensive in Canada now, too](https://www.theverge.com/2022/4/8/23017323/amazon-prime-canada-price-hike-subscription-shopping-deals-shipping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
