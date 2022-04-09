@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This lady is really something else](http://9gag.com/gag/aVxZ7Y2)
- - 🚯 [Balls](http://9gag.com/gag/azeOMAj)
+ - 🚖 [Dont be a lazy fish](http://9gag.com/gag/aegxAdv)
+ - 🚯 [All you have to do is pick them up](http://9gag.com/gag/abgxGKX)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
