@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian officials warn that YouTube could face restrictions after it blocked Duma TV, which broadcasts from Russia&#39;s lower house of parliament &lpar;Reuters&rpar;](http://www.techmeme.com/220409/p6#a220409p6)
- - [Dual USB-C Power Adapter soon to enter mass production](https://appleinsider.com/articles/22/04/09/dual-usb-c-power-adapter-soon-to-enter-mass-production?utm_medium=rss)
- - [Sources: leading chip tool makers are warning clients they will have to wait up to 18 months for key equipment, citing shortages of lenses, valves, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220409/p5#a220409p5)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-427-3150595/)
+ - [The era of fixing your own phone has nearly arrived](https://www.theverge.com/23017361/ifixit-right-to-repair-parts-google-samsung-valve-microsoft)
+ - [Elon Musk asks if Twitter is dying, citing a list of the most followed accounts and pointing out that many of them &quot;tweet rarely and post very little content&quot; &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/220409/p7#a220409p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
