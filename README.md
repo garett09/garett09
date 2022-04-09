@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be like Billy !!](http://9gag.com/gag/avAx74q)
- - 🚯 [It&#39;s all in the diaphragm](http://9gag.com/gag/a21DreY)
- - 🚯 [Today was the exam day of my tattoo apprenticeship. I am really proud and wanted to share :&rpar;](http://9gag.com/gag/angxM9E)<!-- MEMES:END -->
+ - 🚖 [Today was the exam day of my tattoo apprenticeship. I am really proud and wanted to share :&rpar;](http://9gag.com/gag/angxM9E)
+ - 🚯 [Technically a felony](http://9gag.com/gag/aXr7xb6)
+ - 🚯 [Already better than Netflix](http://9gag.com/gag/ajgx8qG)<!-- MEMES:END -->
 
 --- 
 
