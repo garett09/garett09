@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to report someone on Discord](https://www.androidauthority.com/report-someone-discord-3150147/)
- - [Amazon is Seeking Unionization Revote, Report Says     - CNET](https://www.cnet.com/tech/amazon-is-seeking-unionization-revote-report-says/#ftag=CAD590a51e)
- - [This motorized gaming bed lets you rest your gamer head](https://www.theverge.com/2022/4/8/23017239/electric-gaming-bed-bauhutte-motorized-desk-station)<!-- TECH:END -->
+ - [Inside the Bitcoin 2022 conference in Miami, which felt confusing and disjointed, as the cultural spotlight on Ethereum left Bitcoin feeling a little stale &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/220409/p2#a220409p2)
+ - [Samsung&#39;s reputation has taken a hit in South Korea, where three major carriers have halved the price of Galaxy S22, amid reports of hobbled device performance &lpar;Byungwook Kim/Reuters&rpar;](http://www.techmeme.com/220409/p1#a220409p1)
+ - [How to report someone on Discord](https://www.androidauthority.com/report-someone-discord-3150147/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
