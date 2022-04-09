@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer’s fierce painting contest, the Golden Demon, is a battle of fine detail](https://www.polygon.com/23013303/warhammer-golden-demon-2022-adepticon-photo-essay)
  - [Codes To Unlock Secret Characters And Ships In Lego Star Wars: The Skywalker Saga](https://kotaku.com/lego-star-wars-skywalker-saga-secret-cheat-codes-charac-1848747352)
- - [Tunic’s ‘No Fail’ mode let me enjoy its puzzles way more](https://www.polygon.com/23016926/tunic-no-fail-easy-mode-combat-puzzles)
- - [New Lego Star Wars Has A Droid That Might&#39;ve Killed A Pregnant Woman](https://kotaku.com/lego-star-wars-skywalker-saga-creepy-droid-ghost-nobot-1848771542)<!-- GAME:END -->
+ - [Tunic’s ‘No Fail’ mode let me enjoy its puzzles way more](https://www.polygon.com/23016926/tunic-no-fail-easy-mode-combat-puzzles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
