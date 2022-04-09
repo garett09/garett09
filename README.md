@@ -199,7 +199,7 @@ Windows                  26 hrs 3 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Be like Billy !!](http://9gag.com/gag/avAx74q)
  - 🚯 [It&#39;s all in the diaphragm](http://9gag.com/gag/a21DreY)
- - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
+ - 🚯 [Today was the exam day of my tattoo apprenticeship. I am really proud and wanted to share :&rpar;](http://9gag.com/gag/angxM9E)<!-- MEMES:END -->
 
 --- 
 
