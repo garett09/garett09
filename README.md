@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fans slam Apple TV+ &#39;Friday Night Baseball&#39; stream outages, commentary team](https://appleinsider.com/articles/22/04/09/fans-slam-apple-tv-friday-night-baseball-stream-outages-commentary-team?utm_medium=rss)
  - [Which manufacturer updates its phones the fastest? &lpar;Android 12 edition&rpar;](https://www.androidauthority.com/android-12-rollout-3147258/)
- - [Twitter reverts a change that left blank spaces in place of deleted embedded tweets and says it is exploring &quot;different options&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220409/p10#a220409p10)
- - [Twitter reverts change that left blank spaces in place of deleted embedded tweets](https://www.theverge.com/2022/4/9/23018126/twitter-reverts-change-left-blank-spaces-websites-embedded-tweets)<!-- TECH:END -->
+ - [Twitter reverts a change that left blank spaces in place of deleted embedded tweets and says it is exploring &quot;different options&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220409/p10#a220409p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
