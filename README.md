@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is using a Qualcomm chip for the second version of its Ray-Ban smart glasses, after struggling to create its own custom chip code-named Brasilia &lpar;The Information&rpar;](http://www.techmeme.com/220409/p8#a220409p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-427-3150595/)
- - [The era of fixing your own phone has nearly arrived](https://www.theverge.com/23017361/ifixit-right-to-repair-parts-google-samsung-valve-microsoft)<!-- TECH:END -->
+ - [Is a $2,500 Android TV short-throw laser projector overkill? I had to find out](https://www.androidauthority.com/xgimi-aura-3147715/)
+ - [Lululook iPad mini 6 Magnetic Stand Review: a must-have iPad mini accessory](https://appleinsider.com/articles/22/04/09/lululook-ipad-mini-6-magnetic-stand-review-a-must-have-ipad-mini-accessory?utm_medium=rss)
+ - [Sources: Meta chose a Qualcomm chip for the second version of its Ray-Ban smartglasses, after struggling to develop its own custom chip codenamed Brasilia &lpar;The Information&rpar;](http://www.techmeme.com/220409/p8#a220409p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
