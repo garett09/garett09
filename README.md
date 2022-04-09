@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at an international group of 1,300 librarians, historians, and teachers that is using open source tools and Slack to back up Ukraine&#39;s digital archives &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220409/p4#a220409p4)
- - [These Are the 11 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)
- - [Drought Is Threatening Hydropower in the Southwestern US](https://www.wired.com/story/drought-hydropower-southwestern-us-glen-canyon-dam)<!-- TECH:END -->
+ - [Sources: leading chip tool makers are warning clients they will have to wait up to 18 months for key equipment, citing shortages of lenses, valves, and more &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220409/p5#a220409p5)
+ - [Google Pixel 6 Pro revisited: The good and bad six months later](https://www.androidauthority.com/google-pixel-6-pro-review-revisited-3143864/)
+ - [Our 6 Favorite Electric Kick Scooters](https://www.wired.com/gallery/best-electric-scooters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
