@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft seized Russian domains targeting Ukrainian media organizations](https://www.theverge.com/2022/4/9/23018258/microsoft-control-russian-domains-ukraine-war-cyberattack-fancy-bear-apt28-strontium)
  - [BenQ ScreenBar Halo Review: Monitor lamp cosily light up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)
- - [Prime Video: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-41-best-tv-series-to-watch-this-weekend/#ftag=CAD590a51e)
- - [UFC 273 Volkanovski Vs. The Korean Zombie: Start Time, How To Watch or Stream     - CNET](https://www.cnet.com/culture/sports/ufc-273-volkanovski-vs-the-korean-zombie-start-time-how-to-watch-or-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-41-best-tv-series-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
