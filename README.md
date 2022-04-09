@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting Thrown Out of the Buffet](http://9gag.com/gag/a51zo9O)
- - 🚯 [Have you ever had a bad day at work...?](http://9gag.com/gag/aBnE0GP)
- - 🚯 [I love democracy](http://9gag.com/gag/a11VQ3w)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t forget about the air fryer...](http://9gag.com/gag/aDDb15Z)
+ - 🚯 [My man..](http://9gag.com/gag/aAGMg1E)
+ - 🚯 [Already better than Netflix](http://9gag.com/gag/ajgx8qG)<!-- MEMES:END -->
 
 --- 
 
