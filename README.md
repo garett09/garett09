@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disrupting cyberattacks targeting Ukraine &lpar;Tom Burt/Microsoft On the Issues&rpar;](http://www.techmeme.com/220408/p16#a220408p16)
- - [A look at Intel&#39;s chip-making process at its Hillsboro, Oregon and Chandler, Arizona campuses and the infrastructure behind its two planned $10B Arizona fabs &lpar;New York Times&rpar;](http://www.techmeme.com/220408/p15#a220408p15)
- - [Amazon Prime is getting more expensive in Canada now, too](https://www.theverge.com/2022/4/8/23017323/amazon-prime-canada-price-hike-subscription-shopping-deals-shipping)<!-- TECH:END -->
+ - [How to report someone on Discord](https://www.androidauthority.com/report-someone-discord-3150147/)
+ - [Amazon is Seeking Unionization Revote, Report Says     - CNET](https://www.cnet.com/tech/amazon-is-seeking-unionization-revote-report-says/#ftag=CAD590a51e)
+ - [This motorized gaming bed lets you rest your gamer head](https://www.theverge.com/2022/4/8/23017239/electric-gaming-bed-bauhutte-motorized-desk-station)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
