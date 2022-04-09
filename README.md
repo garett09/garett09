@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Technically a felony](http://9gag.com/gag/aXr7xb6)
- - 🚯 [Current situation in Shanghai, some communities have been in quarantine since 3/4 with no food supplied. Communities are starting a riot, shots fired to contain the angry &lpar;and starving&rpar; mob](http://9gag.com/gag/aZrE3m0)
- - 🚯 [Fixer upper.](http://9gag.com/gag/a21Don9)<!-- MEMES:END -->
+ - 🚖 [Getting Thrown Out of the Buffet](http://9gag.com/gag/a51zo9O)
+ - 🚯 [Have you ever had a bad day at work...?](http://9gag.com/gag/aBnE0GP)
+ - 🚯 [I love democracy](http://9gag.com/gag/a11VQ3w)<!-- MEMES:END -->
 
 --- 
 
