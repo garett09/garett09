@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Realme GT 2 Pro review: A winning combo of style and substance](https://www.androidauthority.com/realme-gt-2-pro-review-3148559/)
  - [Inside the Bitcoin 2022 conference in Miami, which felt confusing and disjointed, as the cultural spotlight on Ethereum left Bitcoin feeling a little stale &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/220409/p2#a220409p2)
- - [Samsung&#39;s reputation has taken a hit in South Korea, where three major carriers have halved the price of Galaxy S22, amid reports of hobbled device performance &lpar;Byungwook Kim/Reuters&rpar;](http://www.techmeme.com/220409/p1#a220409p1)
- - [How to report someone on Discord](https://www.androidauthority.com/report-someone-discord-3150147/)<!-- TECH:END -->
+ - [Samsung&#39;s reputation has taken a hit in South Korea, where three major carriers have halved the price of Galaxy S22, amid reports of hobbled device performance &lpar;Byungwook Kim/Reuters&rpar;](http://www.techmeme.com/220409/p1#a220409p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
