@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks Mom](http://9gag.com/gag/aM4zYvR)
- - 🚯 [When you forget you are living in clown world..](http://9gag.com/gag/aAGM3ep)
+ - 🚖 [When you forget you are living in clown world..](http://9gag.com/gag/aAGM3ep)
+ - 🚯 [And the Blessed One spoke:](http://9gag.com/gag/a41ARvm)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
