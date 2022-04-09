@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s civil rights team made progress in its first year, including removing sensitive ad targeting categories, but experts say it needs to be empowered to act &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220409/p9#a220409p9)
- - [Apple TV Plus’ Friday Night Baseball debut wasn’t the homerun fans expected](https://www.theverge.com/2022/4/9/23017927/apple-tv-plus-friday-night-baseball-debut-mlb-fans-disappointed)
- - [Is a $2,500 Android TV short-throw laser projector overkill? I had to find out](https://www.androidauthority.com/xgimi-aura-3147715/)<!-- TECH:END -->
+ - [Which manufacturer updates its phones the fastest? &lpar;Android 12 edition&rpar;](https://www.androidauthority.com/android-12-rollout-3147258/)
+ - [Twitter reverts a change that left blank spaces in place of deleted embedded tweets and says it is exploring &quot;different options&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220409/p10#a220409p10)
+ - [Twitter reverts change that left blank spaces in place of deleted embedded tweets](https://www.theverge.com/2022/4/9/23018126/twitter-reverts-change-left-blank-spaces-websites-embedded-tweets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
