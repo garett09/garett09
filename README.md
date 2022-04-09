@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is using a Qualcomm chip for the second version of its Ray-Ban smart glasses, after struggling to create its own custom chip code-named Brasilia &lpar;The Information&rpar;](http://www.techmeme.com/220409/p8#a220409p8)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-427-3150595/)
- - [The era of fixing your own phone has nearly arrived](https://www.theverge.com/23017361/ifixit-right-to-repair-parts-google-samsung-valve-microsoft)
- - [Elon Musk asks if Twitter is dying, citing a list of the most followed accounts and pointing out that many of them &quot;tweet rarely and post very little content&quot; &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/220409/p7#a220409p7)<!-- TECH:END -->
+ - [The era of fixing your own phone has nearly arrived](https://www.theverge.com/23017361/ifixit-right-to-repair-parts-google-samsung-valve-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
