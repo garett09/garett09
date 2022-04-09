@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Seven Characters Missing From Lego Star Wars: The Skywalker Saga](https://kotaku.com/skywalker-saga-lego-star-wars-missing-characters-quinla-1848773930)
  - [What happened at the end of The Witcher 3?](https://www.polygon.com/23017191/witcher-3-ciri-ending-blood-wine-choices-what-happened)
- - [The best Easter egg in Everything Everywhere All At Once is a secret director’s cameo](https://www.polygon.com/23015417/everything-everywhere-all-at-once-easter-egg-ape-suit-daniels)
- - [Someone Has Now Beat Elden Ring In Just 12 Minutes And 32 Seconds](https://kotaku.com/elden-ring-fromsoft-speedrun-12-minutes-zipping-mitchri-1848773561)<!-- GAME:END -->
+ - [The best Easter egg in Everything Everywhere All At Once is a secret director’s cameo](https://www.polygon.com/23015417/everything-everywhere-all-at-once-easter-egg-ape-suit-daniels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
