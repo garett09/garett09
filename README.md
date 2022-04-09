@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie you can stream from home this weekend](https://www.polygon.com/23009844/new-movies-watch-metal-lords-netflix-the-night-house-hbo-max)
- - [The MCU could learn a lot from Everything Everywhere All at Once](https://www.polygon.com/2022/4/8/23016630/everything-everywhere-all-at-once-patch-notes-polygon-newsletter)
- - [Steam’s Top Guide For Elden Ring Is A Foot Fetishist’s Dream](https://kotaku.com/elden-ring-top-steam-guide-miyazaki-foot-fetish-meme-so-1848771518)<!-- GAME:END -->
+ - [Tunic’s ‘No Fail’ mode let me enjoy its puzzles way more](https://www.polygon.com/23016926/tunic-no-fail-easy-mode-combat-puzzles)
+ - [New Lego Star Wars Has A Droid That Might&#39;ve Killed A Pregnant Woman](https://kotaku.com/lego-star-wars-skywalker-saga-creepy-droid-ghost-nobot-1848771542)
+ - [10 great movies you can watch for free at home](https://www.polygon.com/what-to-watch/23011290/free-movies-watch-online-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
