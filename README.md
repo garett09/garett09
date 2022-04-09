@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beam me up Scotty](http://9gag.com/gag/aXr7g1z)
- - 🚯 [The importance of a handbreake](http://9gag.com/gag/apgxgBD)
+ - 🚖 [My mother passed away today. 9 years she fought cancer, braved it with a smile and barely a complaint. She was the sweetest, kindest, innocent member in our family. Now she no longer has to struggle or suffer. It will be hard for me, my brother and father, but we will overcome...](http://9gag.com/gag/ajgxg9x)
+ - 🚯 [This lady is really something else](http://9gag.com/gag/aVxZ7Y2)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
