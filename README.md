@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma is a b*tch ain&#39;t she](http://9gag.com/gag/aVxZMEM)
- - 🚯 [Today was the exam day of my tattoo apprenticeship. I am really proud and wanted to share :&rpar;](http://9gag.com/gag/angxM9E)
+ - 🚖 [Be like Billy !!](http://9gag.com/gag/avAx74q)
+ - 🚯 [Recently done my C+E truck licence and finished my training. Tonight is my first night away from home. Wish me luck!](http://9gag.com/gag/aRrvjvj)
  - 🚯 [Mystery Box Giveaway! Win a Mystery Box by joining the 9GAG x Hekka App Giveaway on Instagram. You\u2019ll get a chance to unbox a cool gadget that is worth up to US$700.](http://9gag.com/gag/aDDbogG)<!-- MEMES:END -->
 
 --- 
