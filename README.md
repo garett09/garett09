@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arthur Morgan, a man with a broken heart, fought for what he believed in till his last breath. Betrayed by his father figure&lpar;s&rpar; again and again, finally decided to end the cycle through his redemption. In RDR2, Rockstar truly created the most flawed yet the most pure of man.](http://9gag.com/gag/aRrv0rj)
- - 🚯 [Zelenskij recieved the EU entry sheet. Ukraine might be an official EU country in the near future](http://9gag.com/gag/arnxGq6)
- - 🚯 [When talent meets hardwork](http://9gag.com/gag/angx5NB)<!-- MEMES:END -->
+ - 🚖 [When talent meets hardwork](http://9gag.com/gag/angx5NB)
+ - 🚯 [I love democracy](http://9gag.com/gag/a11VQ3w)
+ - 🚯 [Florida, there`s a woman too.](http://9gag.com/gag/ajgx8ow)<!-- MEMES:END -->
 
 --- 
 
