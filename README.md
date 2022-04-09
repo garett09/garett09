@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comeback of the year](http://9gag.com/gag/a91mRNm)
- - 🚯 [It&#39;s 7.15pm in Sri Lanka and this image took around 7pm... Now protest crowd has grown in numbers and it is still going strong....](http://9gag.com/gag/aAGMeK2)
+ - 🚖 [Arthur Morgan, a man with a broken heart, fought for what he believed in till his last breath. Betrayed by his father figure&lpar;s&rpar; again and again, finally decided to end the cycle through his redemption. In RDR2, Rockstar truly created the most flawed yet the most pure of man.](http://9gag.com/gag/aRrv0rj)
+ - 🚯 [PRRRRRRRT](http://9gag.com/gag/axBO9yn)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
