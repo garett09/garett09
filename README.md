@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t forget about the air fryer...](http://9gag.com/gag/aDDb15Z)
- - 🚯 [My man..](http://9gag.com/gag/aAGMg1E)
- - 🚯 [Already better than Netflix](http://9gag.com/gag/ajgx8qG)<!-- MEMES:END -->
+ - 🚖 [Couldn&#39;t agree more Joe](http://9gag.com/gag/adgxKRj)
+ - 🚯 [NOPD urges residents not to take matters into their own hands after video shows a man who rigged a flash bang in his truck to deter car burglars](http://9gag.com/gag/a41AQpw)
+ - 🚯 [When talent meets hardwork](http://9gag.com/gag/angx5NB)<!-- MEMES:END -->
 
 --- 
 
