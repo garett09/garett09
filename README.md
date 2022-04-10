@@ -183,8 +183,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Hearts 4 announced, will kick off a new story arc](https://www.polygon.com/23018966/kingdom-hearts-4-announcement-trailer-release-date)
- - [Kingdom Hearts IV Has Been Announced](https://kotaku.com/kingdom-hearts-iv-4-square-enix-disney-announced-reveal-1848774720)
+ - [Kingdom Hearts 4 announced, will kick off Sora’s new story arc](https://www.polygon.com/23018966/kingdom-hearts-4-announcement-trailer-release-date)
+ - [Kingdom Hearts IV Announced, And Sora&#39;s Got An Updated Look](https://kotaku.com/kingdom-hearts-iv-4-square-enix-disney-announced-reveal-1848774720)
  - [Seven Characters Missing From Lego Star Wars: The Skywalker Saga](https://kotaku.com/skywalker-saga-lego-star-wars-missing-characters-quinla-1848773930)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
