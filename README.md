@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ellevest, a digital investment platform focused on helping women meet their financial goals, raises a $53M Series B led by BMO and Contour Venture Partners &lpar;Anne Stych/The Business Journals&rpar;](http://www.techmeme.com/220409/p11#a220409p11)
  - [Mystery of Moon&#39;s Far Side Explained by Massive Impact at the South Pole     - CNET](https://www.cnet.com/science/space/mystery-of-moons-far-side-explained-by-massive-impact-at-the-south-pole/#ftag=CAD590a51e)
- - [BenQ ScreenBar Halo Review: Monitor lamp cozily lights up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)
- - [&#39;Sonic 2&#39; Director and Star Want the Movie to Bring You on an Emotional Journey     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-will-bring-you-on-an-emotional-journey-delight-you-with-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BenQ ScreenBar Halo Review: Monitor lamp cozily lights up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
