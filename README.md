@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shieeet](http://9gag.com/gag/apgx9NE)
- - 🚯 [Lets make him famous](http://9gag.com/gag/aogxMM2)
+ - 🚖 [It\u2019s part of his plan though, is it not?](http://9gag.com/gag/abgxveO)
+ - 🚯 [A perfect landing](http://9gag.com/gag/a318ZY5)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
