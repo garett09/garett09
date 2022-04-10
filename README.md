@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My mother passed away today. 9 years she fought cancer, braved it with a smile and barely a complaint. She was the sweetest, kindest, innocent member in our family. Now she no longer has to struggle or suffer. It will be hard for me, my brother and father, but we will overcome...](http://9gag.com/gag/ajgxg9x)
- - 🚯 [I have multiple poop breaks, but you can trust me with your wifu](http://9gag.com/gag/a21D7xO)
+ - 🚖 [He straight up killed her](http://9gag.com/gag/avAxAx5)
+ - 🚯 [My mother passed away today. 9 years she fought cancer, braved it with a smile and barely a complaint. She was the sweetest, kindest, innocent member in our family. Now she no longer has to struggle or suffer. It will be hard for me, my brother and father, but we will overcome...](http://9gag.com/gag/ajgxg9x)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
