@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A perfect landing](http://9gag.com/gag/a318ZY5)
- - 🚯 [High School Masonry Class](http://9gag.com/gag/aYrMrxx)
+ - 🚖 [From my experience it means you did a good job, she\u2019ll be back for more](http://9gag.com/gag/avAxQLd)
+ - 🚯 [What&#39;s the most you ever lost on a coin toss?](http://9gag.com/gag/aqGxe37)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
