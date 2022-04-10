@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Massage Gun for 2022     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
  - [Studio Display issue prevents some owners from updating their monitors](https://appleinsider.com/articles/22/04/10/studio-display-issue-prevents-some-owners-from-updating-their-monitors?utm_medium=rss)
- - [Best Spray Car Wax for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-spray-car-wax/#ftag=CAD590a51e)
- - [Best Cotton Pads for 2022     - CNET](https://www.cnet.com/culture/fashion/best-cotton-pads-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Body-Positive Books to Read in 2022     - CNET](https://www.cnet.com/health/top-body-positive-books-to-read-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
