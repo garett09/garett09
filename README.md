@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft finally wrapped up Sylvanas’ story — and it still doesn’t work](https://www.polygon.com/23015539/world-of-warcraft-sylvanas-windrunner-story-explainer-battle-for-azeroth-shadowlands-novel)
- - [Kingdom Hearts 4 announced, will kick off Sora’s new story arc](https://www.polygon.com/23018966/kingdom-hearts-4-announcement-trailer-release-date)
- - [Kingdom Hearts IV Announced, And Sora&#39;s Got An Updated Look](https://kotaku.com/kingdom-hearts-iv-4-square-enix-disney-announced-reveal-1848774720)<!-- GAME:END -->
+ - [In the grisly crime thriller Nightcrawler, now on Netflix, journalism is a blood sport](https://www.polygon.com/23014781/nightcrawler-movie-netflix-jake-gyllenhaal-best-crime-thriller)
+ - [RIP Sora&#39;s Big-Ass Clown Shoes, 2002-2022](https://kotaku.com/sora-kh4-kingdom-hearts-square-enix-trailer-shoes-big-g-1848775066)
+ - [World of Warcraft finally wrapped up Sylvanas’ story — and it still doesn’t work](https://www.polygon.com/23015539/world-of-warcraft-sylvanas-windrunner-story-explainer-battle-for-azeroth-shadowlands-novel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
