@@ -197,7 +197,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sucking thumbs as the beginning like a human baby](http://9gag.com/gag/ay91N9W)
+ - 🚖 [Stay fit](http://9gag.com/gag/aDDb2NK)
  - 🚯 [Times have changed](http://9gag.com/gag/aZrEZO9)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
