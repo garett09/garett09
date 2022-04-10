@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sloth crawling past an anaconda](http://9gag.com/gag/a0ZneZO)
- - 🚯 [NASA standard for soldering wires](http://9gag.com/gag/ay91Nyr)
+ - 🚖 [Sucking thumbs as the beginning like a human baby](http://9gag.com/gag/ay91N9W)
+ - 🚯 [Times have changed](http://9gag.com/gag/aZrEZO9)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
