@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft seized Russian domains targeting Ukrainian media organizations](https://www.theverge.com/2022/4/9/23018258/microsoft-control-russian-domains-ukraine-war-cyberattack-fancy-bear-apt28-strontium)
- - [BenQ ScreenBar Halo Review: Monitor lamp cosily light up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)
- - [Prime Video: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-41-best-tv-series-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mystery of Moon&#39;s Far Side Explained by Massive Impact at the South Pole     - CNET](https://www.cnet.com/science/space/mystery-of-moons-far-side-explained-by-massive-impact-at-the-south-pole/#ftag=CAD590a51e)
+ - [BenQ ScreenBar Halo Review: Monitor lamp cozily lights up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)
+ - [&#39;Sonic 2&#39; Director and Star Want the Movie to Bring You on an Emotional Journey     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-will-bring-you-on-an-emotional-journey-delight-you-with-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
