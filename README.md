@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using a Japanese Chisel on wood](http://9gag.com/gag/aogxV1e)
- - 🚯 [When she has a date with me and i explain to her how awesome the star trek universe is](http://9gag.com/gag/angxnob)
- - 🚯 [Shanghai, China](http://9gag.com/gag/a61BDRb)<!-- MEMES:END -->
+ - 🚖 [Shanghai, China](http://9gag.com/gag/a61BDRb)
+ - 🚯 [He may have disappeared](http://9gag.com/gag/aBnELqA)
+ - 🚯 [When she has a date with me and i explain to her how awesome the star trek universe is](http://9gag.com/gag/angxnob)<!-- MEMES:END -->
 
 --- 
 
