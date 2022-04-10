@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that&#39;s why you remember your favorite video games different, because they look different.](http://9gag.com/gag/aOQ9xGE)
- - 🚯 [Forgot about this classic trump ad](http://9gag.com/gag/aegx9Qp)
+ - 🚖 [Stay fit](http://9gag.com/gag/aDDb2NK)
+ - 🚯 [Sorry for the quality im not a damn Grafikdesigner](http://9gag.com/gag/aKm8Geb)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
