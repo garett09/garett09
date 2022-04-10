@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals April 10: $160 off DJI Ronin-SC gimbal, $63 off Logitech StreamCam Plus, $99 Pico Projector, more](https://appleinsider.com/articles/22/04/10/daily-deals-april-10-160-off-dji-ronin-sc-gimbal-63-off-logitech-streamcam-plus-99-pico-projector-more?utm_medium=rss)
  - [Crime Blotter: Fake federal agent indictment includes gifted iPhones](https://appleinsider.com/articles/22/04/10/crime-blotter-fake-federal-agent-indictment-includes-gifted-iphones?utm_medium=rss)
- - [JustWatch just made the media streaming hub of my dreams](https://www.androidauthority.com/justwatch-streaming-hub-3150748/)
- - [How to Adjust the Text Size on Your Smartphone](https://www.wired.com/story/how-to-adjust-text-size-android-iphone)<!-- TECH:END -->
+ - [JustWatch just made the media streaming hub of my dreams](https://www.androidauthority.com/justwatch-streaming-hub-3150748/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
