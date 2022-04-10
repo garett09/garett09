@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Father Paolo Benanti, an engineer and ethicist who advises theologians and priests, including Pope Francis, on moral and ethical issues in AI &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220410/p2#a220410p2)
  - [Elon Musk tweets that all Twitter Blue subscribers &quot;should get an authentication checkmark&quot; and suggests the service should be ad-free with a lower price &lpar;Axios&rpar;](http://www.techmeme.com/220410/p1#a220410p1)
- - [Deals: save up to $200 on Apple&#39;s 14-inch MacBook Pro at B&amp;H Photo](https://appleinsider.com/articles/22/04/10/deals-save-up-to-200-on-apples-14-inch-macbook-pro-at-bh-photo?utm_medium=rss)
- - [Ellevest, a digital investment platform focused on helping women meet their financial goals, raises a $53M Series B led by BMO and Contour Venture Partners &lpar;Anne Stych/The Business Journals&rpar;](http://www.techmeme.com/220409/p11#a220409p11)<!-- TECH:END -->
+ - [Deals: save up to $200 on Apple&#39;s 14-inch MacBook Pro at B&amp;H Photo](https://appleinsider.com/articles/22/04/10/deals-save-up-to-200-on-apples-14-inch-macbook-pro-at-bh-photo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
