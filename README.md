@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not an option](http://9gag.com/gag/a81eA0d)
- - 🚯 [If two pieces of the same metal touch in space, they will permanently bond together as there\u2019s nothing separating like-atoms in a vacuum. An effect known as &#39;cold welding&#39;.](http://9gag.com/gag/aBnEZj1)
- - 🚯 [Times have changed](http://9gag.com/gag/aZrEZO9)<!-- MEMES:END -->
+ - 🚖 [Straight to jail!](http://9gag.com/gag/awzOgPW)
+ - 🚯 [Clutch life](http://9gag.com/gag/apgxRen)
+ - 🚯 [Practicing Polyrhythm](http://9gag.com/gag/aqGxyRp)<!-- MEMES:END -->
 
 --- 
 
