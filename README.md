@@ -197,7 +197,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He straight up killed her](http://9gag.com/gag/avAxAx5)
+ - 🚖 [Shieeet](http://9gag.com/gag/apgx9NE)
  - 🚯 [Lets make him famous](http://9gag.com/gag/aogxMM2)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
