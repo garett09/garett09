@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will no longer allow the sharing of ‘publicly available’ private home addresses](https://www.theverge.com/2022/4/10/23019046/meta-no-longer-allow-private-residential-address-doxxing-facebook-instagram-oversight-board)
- - [Updated MacBook Air could launch at WWDC 2022](https://appleinsider.com/articles/22/04/10/updated-macbook-air-could-launch-at-wwdc-2022?utm_medium=rss)
- - [This Week&#39;s Most Exciting Crypto News: UK Announces NFT and More     - CNET](https://www.cnet.com/personal-finance/crypto/this-weeks-most-exciting-crypto-news-uk-announces-nft-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Studio Display issue prevents some owners from updating their monitors](https://appleinsider.com/articles/22/04/10/studio-display-issue-prevents-some-owners-from-updating-their-monitors?utm_medium=rss)
+ - [Best Spray Car Wax for 2022     - Roadshow](https://www.cnet.com/roadshow/news/best-spray-car-wax/#ftag=CAD590a51e)
+ - [Best Cotton Pads for 2022     - CNET](https://www.cnet.com/culture/fashion/best-cotton-pads-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
