@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Canary](http://9gag.com/gag/aggx1Rg)
- - 🚯 [Using a Japanese Chisel on wood](http://9gag.com/gag/aogxV1e)
- - 🚯 [If two pieces of the same metal touch in space, they will permanently bond together as there\u2019s nothing separating like-atoms in a vacuum. An effect known as &#39;cold welding&#39;.](http://9gag.com/gag/aBnEZj1)<!-- MEMES:END -->
+ - 🚖 [Their excitement](http://9gag.com/gag/ajgxOEG)
+ - 🚯 [Moscow Warns Of \u2018Direct Military Confrontation\u2019 With US](http://9gag.com/gag/aegxO1b)
+ - 🚯 [Using a Japanese Chisel on wood](http://9gag.com/gag/aogxV1e)<!-- MEMES:END -->
 
 --- 
 
