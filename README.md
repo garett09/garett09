@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pikmin Bloom remains great six months later](https://www.polygon.com/23017288/pikmin-bloom-impressions)
  - [In the grisly crime thriller Nightcrawler, now on Netflix, journalism is a blood sport](https://www.polygon.com/23014781/nightcrawler-movie-netflix-jake-gyllenhaal-best-crime-thriller)
- - [RIP Sora&#39;s Big-Ass Clown Shoes, 2002-2022](https://kotaku.com/sora-kh4-kingdom-hearts-square-enix-trailer-shoes-big-g-1848775066)
- - [World of Warcraft finally wrapped up Sylvanas’ story — and it still doesn’t work](https://www.polygon.com/23015539/world-of-warcraft-sylvanas-windrunner-story-explainer-battle-for-azeroth-shadowlands-novel)<!-- GAME:END -->
+ - [RIP Sora&#39;s Big-Ass Clown Shoes, 2002-2022](https://kotaku.com/sora-kh4-kingdom-hearts-square-enix-trailer-shoes-big-g-1848775066)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
