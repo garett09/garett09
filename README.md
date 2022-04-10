@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega Says &#39;Future Of Gaming&#39; Includes NFTs And Cloud Streaming](https://kotaku.com/nfts-sega-crypto-blockchain-sonic-interview-future-scam-1848775352)
- - [Pikmin Bloom remains great six months later](https://www.polygon.com/23017288/pikmin-bloom-impressions)
- - [In the grisly crime thriller Nightcrawler, now on Netflix, journalism is a blood sport](https://www.polygon.com/23014781/nightcrawler-movie-netflix-jake-gyllenhaal-best-crime-thriller)<!-- GAME:END -->
+ - [Hello Yaddle, Goodbye Weekends](https://kotaku.com/hello-yaddle-goodbye-weekends-1848775519)
+ - [The Week In Games: Nobody Saves The World On April 14](https://kotaku.com/the-week-in-games-nobody-saves-the-world-on-april-14-1848775597)
+ - [Sega Says &#39;Future Of Gaming&#39; Includes NFTs And Cloud Streaming](https://kotaku.com/nfts-sega-crypto-blockchain-sonic-interview-future-scam-1848775352)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
