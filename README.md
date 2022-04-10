@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacking group called NB65 claims it is using modified versions of Conti&#39;s leaked ransomware to attack Russian entities, including the space agency Roscosmos &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220410/p3#a220410p3)
- - [Want to Start Strength Training? Here’s the Gear Pros Recommend](https://www.wired.com/story/strength-training-weight-lifting-gear)
- - [The Best Laptop Deals Right Now—and Which Is Right for You](https://www.wired.com/story/best-laptop-deals)<!-- TECH:END -->
+ - [Crime Blotter: Fake federal agent indictment includes gifted iPhones](https://appleinsider.com/articles/22/04/10/crime-blotter-fake-federal-agent-indictment-includes-gifted-iphones?utm_medium=rss)
+ - [JustWatch just made the media streaming hub of my dreams](https://www.androidauthority.com/justwatch-streaming-hub-3150748/)
+ - [How to Adjust the Text Size on Your Smartphone](https://www.wired.com/story/how-to-adjust-text-size-android-iphone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
