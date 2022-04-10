@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car full of kittens.](http://9gag.com/gag/aM4zBBA)
- - 🚯 [Woman tells how Russians were shocked how Ukrainians lived - `They have all houses made of bricks, laptops and Nutella in every house - it can&#39;t be.](http://9gag.com/gag/aVxZo2d)
- - 🚯 [Straight to jail!](http://9gag.com/gag/awzOgPW)<!-- MEMES:END -->
+ - 🚖 [Canary](http://9gag.com/gag/aggx1Rg)
+ - 🚯 [Using a Japanese Chisel on wood](http://9gag.com/gag/aogxV1e)
+ - 🚯 [If two pieces of the same metal touch in space, they will permanently bond together as there\u2019s nothing separating like-atoms in a vacuum. An effect known as &#39;cold welding&#39;.](http://9gag.com/gag/aBnEZj1)<!-- MEMES:END -->
 
 --- 
 
