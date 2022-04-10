@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ellevest, a digital investment platform focused on helping women meet their financial goals, raises a $53M Series B led by BMO and Contour Venture Partners &lpar;Anne Stych/The Business Journals&rpar;](http://www.techmeme.com/220409/p11#a220409p11)
- - [Mystery of Moon&#39;s Far Side Explained by Massive Impact at the South Pole     - CNET](https://www.cnet.com/science/space/mystery-of-moons-far-side-explained-by-massive-impact-at-the-south-pole/#ftag=CAD590a51e)
- - [BenQ ScreenBar Halo Review: Monitor lamp cozily lights up your workspace](https://appleinsider.com/articles/22/04/09/benq-screenbar-halo-review-monitor-lamp-cosily-light-up-your-workspace?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk tweets that all Twitter Blue subscribers &quot;should get an authentication checkmark&quot; and suggests the service should be ad-free with a lower price &lpar;Axios&rpar;](http://www.techmeme.com/220410/p1#a220410p1)
+ - [Deals: save up to $200 on Apple&#39;s 14-inch MacBook Pro at B&amp;H Photo](https://appleinsider.com/articles/22/04/10/deals-save-up-to-200-on-apples-14-inch-macbook-pro-at-bh-photo?utm_medium=rss)
+ - [Ellevest, a digital investment platform focused on helping women meet their financial goals, raises a $53M Series B led by BMO and Contour Venture Partners &lpar;Anne Stych/The Business Journals&rpar;](http://www.techmeme.com/220409/p11#a220409p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
