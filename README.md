@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Savage bird](http://9gag.com/gag/a61BD38)
- - 🚯 [Do you know someone like that?](http://9gag.com/gag/amgx1v6)
- - 🚯 [Grandpa asks an important question to live streamers making out](http://9gag.com/gag/amgxo4V)<!-- MEMES:END -->
+ - 🚖 [Woman tells how Russians were shocked how Ukrainians lived - `They have all houses made of bricks, laptops and Nutella in every house - it can&#39;t be.](http://9gag.com/gag/aVxZo2d)
+ - 🚯 [How lost am i](http://9gag.com/gag/a91myQL)
+ - 🚯 [LAN Party 2022 Almost 40 but this is some good shit with the homies](http://9gag.com/gag/a91m65K)<!-- MEMES:END -->
 
 --- 
 
