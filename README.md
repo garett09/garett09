@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight to jail!](http://9gag.com/gag/awzOgPW)
- - 🚯 [Clutch life](http://9gag.com/gag/apgxRen)
- - 🚯 [Practicing Polyrhythm](http://9gag.com/gag/aqGxyRp)<!-- MEMES:END -->
+ - 🚖 [Savage bird](http://9gag.com/gag/a61BD38)
+ - 🚯 [I remember sister I remember.](http://9gag.com/gag/aggxQ3r)
+ - 🚯 [Straight to jail!](http://9gag.com/gag/awzOgPW)<!-- MEMES:END -->
 
 --- 
 
