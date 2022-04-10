@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want a Better PC? Try Building Your Own](https://www.wired.com/story/how-to-build-a-pc)
- - [Kingdom Hearts IV announced at 20th anniversary event](https://www.theverge.com/2022/4/10/23018977/kingdom-hearts-iv-announced-20th-anniversary-event-square-enix)
- - [Daily deals April 10: $160 off DJI Ronin-SC gimbal, $63 off Logitech StreamCam Plus, $99 Pico Projector, more](https://appleinsider.com/articles/22/04/10/daily-deals-april-10-160-off-dji-ronin-sc-gimbal-63-off-logitech-streamcam-plus-99-pico-projector-more?utm_medium=rss)<!-- TECH:END -->
+ - [Updated MacBook Air could launch at WWDC 2022](https://appleinsider.com/articles/22/04/10/updated-macbook-air-could-launch-at-wwdc-2022?utm_medium=rss)
+ - [Coinbase has disabled the option to buy cryptocurrencies using the Unified Payments Interface in India on Sunday &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/220410/p4#a220410p4)
+ - [Looking for a new phone? Watch out for these camera marketing trends](https://www.androidauthority.com/beware-smartphone-camera-marketing-trends-3142030/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
