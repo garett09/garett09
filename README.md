@@ -198,8 +198,8 @@ Windows                  26 hrs 3 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Savage bird](http://9gag.com/gag/a61BD38)
- - 🚯 [I remember sister I remember.](http://9gag.com/gag/aggxQ3r)
- - 🚯 [Straight to jail!](http://9gag.com/gag/awzOgPW)<!-- MEMES:END -->
+ - 🚯 [Do you know someone like that?](http://9gag.com/gag/amgx1v6)
+ - 🚯 [Grandpa asks an important question to live streamers making out](http://9gag.com/gag/amgxo4V)<!-- MEMES:END -->
 
 --- 
 
