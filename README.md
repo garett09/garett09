@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Massage Gun for 2022     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
- - [Studio Display issue prevents some owners from updating their monitors](https://appleinsider.com/articles/22/04/10/studio-display-issue-prevents-some-owners-from-updating-their-monitors?utm_medium=rss)
- - [Top Body-Positive Books to Read in 2022     - CNET](https://www.cnet.com/health/top-body-positive-books-to-read-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what happens when cops pull over a driverless Cruise vehicle](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
+ - [A look at the regulations cities like New York, Barcelona, Amsterdam, Helsinki, and others are adopting as they increasingly use AI to provide public services &lpar;Jackie Snow/Wall Street Journal&rpar;](http://www.techmeme.com/220410/p6#a220410p6)
+ - [8 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
