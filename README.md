@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sorry for the quality im not a damn Grafikdesigner](http://9gag.com/gag/aKm8Geb)
- - 🚯 [What would you do if you catch your little daughter doing this shit?](http://9gag.com/gag/angxzZL)
+ - 🚖 [Sloth crawling past an anaconda](http://9gag.com/gag/a0ZneZO)
+ - 🚯 [NASA standard for soldering wires](http://9gag.com/gag/ay91Nyr)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
