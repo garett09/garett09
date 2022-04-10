@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s part of his plan though, is it not?](http://9gag.com/gag/abgxveO)
- - 🚯 [A perfect landing](http://9gag.com/gag/a318ZY5)
+ - 🚖 [A perfect landing](http://9gag.com/gag/a318ZY5)
+ - 🚯 [High School Masonry Class](http://9gag.com/gag/aYrMrxx)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
