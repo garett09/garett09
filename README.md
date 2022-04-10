@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From my experience it means you did a good job, she\u2019ll be back for more](http://9gag.com/gag/avAxQLd)
- - 🚯 [What&#39;s the most you ever lost on a coin toss?](http://9gag.com/gag/aqGxe37)
+ - 🚖 [And that&#39;s why you remember your favorite video games different, because they look different.](http://9gag.com/gag/aOQ9xGE)
+ - 🚯 [Forgot about this classic trump ad](http://9gag.com/gag/aegx9Qp)
  - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
 
 --- 
