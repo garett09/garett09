@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube kills off Picture-in-Picture on iOS app](https://appleinsider.com/articles/22/04/10/youtube-kills-off-picture-in-picture-on-ios-app?utm_medium=rss)
  - [Here’s what happens when cops pull over a driverless Cruise vehicle](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
- - [A look at the regulations cities like New York, Barcelona, Amsterdam, Helsinki, and others are adopting as they increasingly use AI to provide public services &lpar;Jackie Snow/Wall Street Journal&rpar;](http://www.techmeme.com/220410/p6#a220410p6)
- - [8 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the regulations cities like New York, Barcelona, Amsterdam, Helsinki, and others are adopting as they increasingly use AI to provide public services &lpar;Jackie Snow/Wall Street Journal&rpar;](http://www.techmeme.com/220410/p6#a220410p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
