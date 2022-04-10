@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube kills off Picture-in-Picture on iOS app](https://appleinsider.com/articles/22/04/10/youtube-kills-off-picture-in-picture-on-ios-app?utm_medium=rss)
- - [Here’s what happens when cops pull over a driverless Cruise vehicle](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
- - [A look at the regulations cities like New York, Barcelona, Amsterdam, Helsinki, and others are adopting as they increasingly use AI to provide public services &lpar;Jackie Snow/Wall Street Journal&rpar;](http://www.techmeme.com/220410/p6#a220410p6)<!-- TECH:END -->
+ - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix-2022/#ftag=CAD590a51e)
+ - [Severance: Behind the Scenes of Apple TV Plus&#39; Incredible Season Finale     - CNET](https://www.cnet.com/culture/entertainment/severance-behind-the-scenes-of-apple-tv-plus-incredible-season-finale/#ftag=CAD590a51e)
+ - [Digital PS3 and PS Vita games rendered unplayable after ‘expiring’](https://www.theverge.com/2022/4/10/23019235/playstation-digital-games-ps3-ps-vita-expiring-sony-chrono-trigger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
