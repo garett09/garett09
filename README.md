@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman tells how Russians were shocked how Ukrainians lived - `They have all houses made of bricks, laptops and Nutella in every house - it can&#39;t be.](http://9gag.com/gag/aVxZo2d)
- - 🚯 [How lost am i](http://9gag.com/gag/a91myQL)
- - 🚯 [LAN Party 2022 Almost 40 but this is some good shit with the homies](http://9gag.com/gag/a91m65K)<!-- MEMES:END -->
+ - 🚖 [Car full of kittens.](http://9gag.com/gag/aM4zBBA)
+ - 🚯 [Woman tells how Russians were shocked how Ukrainians lived - `They have all houses made of bricks, laptops and Nutella in every house - it can&#39;t be.](http://9gag.com/gag/aVxZo2d)
+ - 🚯 [Straight to jail!](http://9gag.com/gag/awzOgPW)<!-- MEMES:END -->
 
 --- 
 
