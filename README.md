@@ -197,7 +197,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shanghai, China](http://9gag.com/gag/a61BDRb)
+ - 🚖 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
  - 🚯 [He may have disappeared](http://9gag.com/gag/aBnELqA)
  - 🚯 [When she has a date with me and i explain to her how awesome the star trek universe is](http://9gag.com/gag/angxnob)<!-- MEMES:END -->
 
