@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay fit](http://9gag.com/gag/aDDb2NK)
- - 🚯 [Times have changed](http://9gag.com/gag/aZrEZO9)
- - 🚯 [You&#39;ll know why crypto wallet&#39;s password is that important.](http://9gag.com/gag/abgxGzB)<!-- MEMES:END -->
+ - 🚖 [Not an option](http://9gag.com/gag/a81eA0d)
+ - 🚯 [If two pieces of the same metal touch in space, they will permanently bond together as there\u2019s nothing separating like-atoms in a vacuum. An effect known as &#39;cold welding&#39;.](http://9gag.com/gag/aBnEZj1)
+ - 🚯 [Times have changed](http://9gag.com/gag/aZrEZO9)<!-- MEMES:END -->
 
 --- 
 
