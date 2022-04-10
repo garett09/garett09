@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated MacBook Air could launch at WWDC 2022](https://appleinsider.com/articles/22/04/10/updated-macbook-air-could-launch-at-wwdc-2022?utm_medium=rss)
- - [Coinbase has disabled the option to buy cryptocurrencies using the Unified Payments Interface in India on Sunday &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/220410/p4#a220410p4)
- - [Looking for a new phone? Watch out for these camera marketing trends](https://www.androidauthority.com/beware-smartphone-camera-marketing-trends-3142030/)<!-- TECH:END -->
+ - [Sources: beta versions of iOS 16, codenamed Sydney, are &quot;chock-full&quot; of references to Apple&#39;s AR headset and its interactions with the iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220410/p5#a220410p5)
+ - [I’m getting ready to move, and my smart home is getting in the way](https://www.androidauthority.com/moving-smart-home-3148226/)
+ - [Waffle Is Just Like Wordle but at Least Five Times Better     - CNET](https://www.cnet.com/culture/internet/waffle-is-just-like-wordle-but-at-least-five-times-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
