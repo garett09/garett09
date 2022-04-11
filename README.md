@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Dreamcast Games](https://kotaku.com/the-best-dreamcast-games-1835926847)
  - [The Art Of Apollo 10½ Is A Space Age Wonder](https://kotaku.com/apollo-10-netflix-animated-animation-cartoon-richard-li-1848775865)
- - [Hello Yaddle, Goodbye Weekends](https://kotaku.com/hello-yaddle-goodbye-weekends-1848775519)
- - [The Week In Games: Nobody Saves The World On April 14](https://kotaku.com/the-week-in-games-nobody-saves-the-world-on-april-14-1848775597)<!-- GAME:END -->
+ - [Hello Yaddle, Goodbye Weekends](https://kotaku.com/hello-yaddle-goodbye-weekends-1848775519)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
