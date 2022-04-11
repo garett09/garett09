@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost Garden Games: Women-Led Independent Developer Studio Shares Their Experience at Xbox Game Studios Game Camp New Orleans](https://news.xbox.com/en-us/2022/04/11/ghost-garden-games-at-xbox-game-studios-game-camp-new-orleans/)
- - [The Batman will be streamable on HBO Max starting next week](https://www.polygon.com/23020273/the-batman-hbo-max-streaming-release-date)
- - [Nimona movie finds a second life at Netflix](https://www.polygon.com/23020252/nimona-movie-netflix-blue-sky-nd-stevenson-disney)<!-- GAME:END -->
+ - [Your Name director’s new movie has its first trailer](https://www.polygon.com/23020169/suzume-no-tojimari-trailer-release-date-makoto-shinkai-your-name)
+ - [Sonic The Hedgehog 2 Is On Track To Be The Biggest Video Game Movie Ever](https://kotaku.com/sonic-the-hedgehog-2-movie-box-office-total-opening-jim-1848777584)
+ - [The Northman brings Viking history to life with a roar of bloody defiance](https://www.polygon.com/23020420/the-northman-review-robert-eggers-alexander-skarsgard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
