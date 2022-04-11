@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Masterpiece](http://9gag.com/gag/aPZe18P)
- - 🚯 [It&#39;s the Moon](http://9gag.com/gag/abgxQzX)
+ - 🚖 [It&#39;s the Moon](http://9gag.com/gag/abgxQzX)
+ - 🚯 [11/04 morning Basurin DPR militia chief claims that they will use chemical weapon in Mariupol against fortified plant. In the evening Azov battalion confirms it, allegedly zarin gas.](http://9gag.com/gag/ay91v0r)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
