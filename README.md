@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys, I graduated from flight school today. For two year we were going through tough tests and my relationship with my girlfriend was getting worse and we broke up before graduation, during hard times I used to cheer up by looking at memes. Thank you guys for being there for me.](http://9gag.com/gag/a3180ze)
- - 🚯 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
+ - 🚖 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
+ - 🚯 [Do a barrel roll!](http://9gag.com/gag/angxv1q)
  - 🚯 [Just me or what she is saying is 100% correct?](http://9gag.com/gag/aDDbnE9)<!-- MEMES:END -->
 
 --- 
