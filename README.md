@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube flip-flops back to picture-in-picture not coming to iOS 15](https://appleinsider.com/articles/22/04/11/youtube-flip-flops-back-to-picture-in-picture-not-coming-to-ios-15?utm_medium=rss)
- - [Lincoln to show off EV concept on April 20th](https://www.theverge.com/2022/4/11/23020491/lincoln-ev-concept-announcement-date-electric-ford)
- - [Daily deals April 11: $100 off Samsung Galaxy S22 Ultra, $200 off Microsoft Surface Pro 8, $169 Apple TV 4K &lpar;2021&rpar;, more](https://appleinsider.com/articles/22/04/11/daily-deals-april-11-100-off-samsung-galaxy-s22-ultra-200-off-microsoft-surface-pro-8-169-apple-tv-4k-2021-more?utm_medium=rss)<!-- TECH:END -->
+ - [Land Rover Recalls 2016-17 Range Rover, Range Rover Sport Models Over Faulty Seat Belt     - Roadshow](https://www.cnet.com/roadshow/news/land-rover-range-rover-sport-recall-seatbelt-lock/#ftag=CAD590a51e)
+ - [Amazon Is Seeking Unionization Revote     - CNET](https://www.cnet.com/tech/amazon-is-seeking-unionization-revote/#ftag=CAD590a51e)
+ - [Microsoft’s Surface Laptop 4 is on sale for its lowest price ever at Amazon today](https://www.theverge.com/2022/4/11/23020121/microsoft-surface-laptop-4-amazon-fire-tablet-apple-watch-series-7-ipad-jabra-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
