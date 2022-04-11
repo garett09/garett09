@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bless them!](http://9gag.com/gag/a91mOjD)
- - 🚯 [Lucid](http://9gag.com/gag/a41A2W1)
+ - 🚖 [Slavic Progress: Obelya, Sofia, Bulgaria](http://9gag.com/gag/azeORBK)
+ - 🚯 [Biker cops take out biker burning rubber. Out of his pants.](http://9gag.com/gag/ay91Qnq)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
