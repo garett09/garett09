@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I blinked and my weekend was gone](http://9gag.com/gag/aAGMML9)
- - 🚯 [Tiktok Warlord braging he recieved intel from his commanders and showing tactical maps....i mean... you cant be that stupid](http://9gag.com/gag/aPZeQ9P)
+ - 🚖 [Is it ?](http://9gag.com/gag/avAxRBn)
+ - 🚯 [Bck to the future: Cops pull over a driverless car and have no clue what to do with it...](http://9gag.com/gag/a91mmm0)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
