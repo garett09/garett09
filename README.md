@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
+ - 🚖 [Just me or what she is saying is 100% correct?](http://9gag.com/gag/aDDbnE9)
  - 🚯 [Do a barrel roll!](http://9gag.com/gag/angxv1q)
- - 🚯 [Just me or what she is saying is 100% correct?](http://9gag.com/gag/aDDbnE9)<!-- MEMES:END -->
+ - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
 
