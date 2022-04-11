@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it ?](http://9gag.com/gag/avAxRBn)
- - 🚯 [Bck to the future: Cops pull over a driverless car and have no clue what to do with it...](http://9gag.com/gag/a91mmm0)
+ - 🚖 [Enjoying the show](http://9gag.com/gag/aRrvvWM)
+ - 🚯 [Is it ?](http://9gag.com/gag/avAxRBn)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
