@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fantasy TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix-2022/#ftag=CAD590a51e)
- - [Severance: Behind the Scenes of Apple TV Plus&#39; Incredible Season Finale     - CNET](https://www.cnet.com/culture/entertainment/severance-behind-the-scenes-of-apple-tv-plus-incredible-season-finale/#ftag=CAD590a51e)
- - [Digital PS3 and PS Vita games rendered unplayable after ‘expiring’](https://www.theverge.com/2022/4/10/23019235/playstation-digital-games-ps3-ps-vita-expiring-sony-chrono-trigger)<!-- TECH:END -->
+ - [Despite Amazon spending almost a decade and $2B+ developing drone delivery services, sources say it&#39;s still beset by technical challenges, safety concerns, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220410/p7#a220410p7)
+ - [Amazon Astro Review: So Far, This Robot Is Actually Less Creepy Than Alexa     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-review/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
