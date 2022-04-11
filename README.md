@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 6 users could be one step closer to face unlock](https://www.androidauthority.com/pixel-6-face-unlock-setup-3150692/)
- - [&#39;Severance&#39; Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/severance-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [It looks like OnePlus is now borrowing the names of its phones from Oppo](https://www.androidauthority.com/oneplus-ace-3151343/)<!-- TECH:END -->
+ - [You told us: You’re split over buying a Mediatek-powered Samsung flagship](https://www.androidauthority.com/mediatek-samsung-flagship-phone-poll-results-3151397/)
+ - [How workplaces are embracing VR to foster socialization, using spatial audio to bring voices closer or farther and casual shared games like virtual mini golf &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p2#a220411p2)
+ - [YouTube ends picture-in-picture iOS test for Premium subscribers](https://www.theverge.com/2022/4/11/23019960/youtube-premium-picture-in-picture-test-ended-april-8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
