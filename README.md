@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoTo rose as much as 23% on its first day of trading in Indonesia after raising $1.1B in one of 2022&#39;s biggest IPOs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220411/p1#a220411p1)
- - [Nintendo Switch Sports: 5 Things to Know About the Upcoming Game     - CNET](https://www.cnet.com/culture/nintendo-switch-sports-5-things-to-know-about-the-upcoming-game/#ftag=CAD590a51e)
- - [2023 Nissan Pathfinder Rock Creek Is Better Suited to Finding Paths, Rocks, Creeks     - Roadshow](https://www.cnet.com/roadshow/news/2023-nissan-pathfinder-rock-creek-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 6 users could be one step closer to face unlock](https://www.androidauthority.com/pixel-6-face-unlock-setup-3150692/)
+ - [It looks like OnePlus is now borrowing the names of its phones from Oppo](https://www.androidauthority.com/oneplus-ace-3151343/)
+ - [GoTo rose as much as 23% on its first day of trading in Indonesia after raising $1.1B in one of 2022&#39;s biggest IPOs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220411/p1#a220411p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
