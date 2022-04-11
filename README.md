@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT project Pudgy Penguins, once highly successful, is attempting a comeback after being acquired for 750 ETH; NonFungible says trading peaked at $13.6M/day &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220411/p22#a220411p22)
- - [Apple corporate staffers have returned to Apple Park, one day a week](https://appleinsider.com/articles/22/04/11/apple-corporate-staffers-have-returned-to-apple-park-one-day-a-week?utm_medium=rss)
- - [How to change your username on Steam](https://www.androidauthority.com/change-steam-username-3151233/)<!-- TECH:END -->
+ - [Substack rolls out 2FA, initially for writers and account holders who log in via its web platform, but plans to make it available for mobile app users soon &lpar;Kim Zetter/Zero Day&rpar;](http://www.techmeme.com/220411/p24#a220411p24)
+ - [Meta will let Horizon creators sell virtual items](https://www.theverge.com/2022/4/11/23020684/meta-horizon-worlds-test-creators-sell-virtual-items-monetization)
+ - [Filing: Chipmaker Ampere Computing, founded by former Intel president Renee James, has filed for an IPO; Oracle reportedly has a 20%-50% stake in Ampere &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220411/p23#a220411p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
