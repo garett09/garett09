@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals April 11: $100 off Samsung Galaxy S22 Ultra, $200 off Microsoft Surface Pro 8, $169 Apple TV 4K &lpar;2021&rpar;, more](https://appleinsider.com/articles/22/04/11/daily-deals-april-11-100-off-samsung-galaxy-s22-ultra-200-off-microsoft-surface-pro-8-169-apple-tv-4k-2021-more?utm_medium=rss)
- - [In the absence of federal crypto regulations in the US, lobbyists and executives are helping to draft and pass favorable bills at state level &lpar;New York Times&rpar;](http://www.techmeme.com/220411/p15#a220411p15)
- - [Datto, which provides data backup and protection services for SMBs, agrees to be taken private by Kaseya for $6.2B in cash, funded by Insight and others &lpar;Sohini Podder/Reuters&rpar;](http://www.techmeme.com/220411/p14#a220411p14)<!-- TECH:END -->
+ - [Apple Store opening in Wuhan teased with wallpaper release](https://appleinsider.com/articles/22/04/11/apple-store-opening-in-wuhan-teased-with-wallpaper-release?utm_medium=rss)
+ - [FDA clears Fitbit devices to get passive heart rhythm detection for AFib](https://www.androidauthority.com/fitbit-heart-rhythm-afib-3151591/)
+ - [US policy makers identified stablecoins as an initial target for regulation, asking lawmakers to pass legislation that would treat stablecoin issuers like banks &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p17#a220411p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
