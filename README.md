@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You’re split over buying a Mediatek-powered Samsung flagship](https://www.androidauthority.com/mediatek-samsung-flagship-phone-poll-results-3151397/)
- - [How workplaces are embracing VR to foster socialization, using spatial audio to bring voices closer or farther and casual shared games like virtual mini golf &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p2#a220411p2)
- - [YouTube ends picture-in-picture iOS test for Premium subscribers](https://www.theverge.com/2022/4/11/23019960/youtube-premium-picture-in-picture-test-ended-april-8)<!-- TECH:END -->
+ - [OnePlus announces April 28 event: New earbuds and phones incoming](https://www.androidauthority.com/oneplus-april-28-event-3151419/)
+ - [Elon Musk pulls out of joining Twitter&#39;s board of directors](https://appleinsider.com/articles/22/04/11/elon-musk-pulls-out-of-joining-twitters-board-of-directors?utm_medium=rss)
+ - [Apple begins iPhone 13 production in India](https://appleinsider.com/articles/22/04/11/apple-begins-iphone-13-production-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
