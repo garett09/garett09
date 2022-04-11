@@ -191,8 +191,8 @@ Windows                  26 hrs 3 mins       ███████████�
 
 <!-- TECH:START -->
  - [Pixel 6 users could be one step closer to face unlock](https://www.androidauthority.com/pixel-6-face-unlock-setup-3150692/)
- - [It looks like OnePlus is now borrowing the names of its phones from Oppo](https://www.androidauthority.com/oneplus-ace-3151343/)
- - [GoTo rose as much as 23% on its first day of trading in Indonesia after raising $1.1B in one of 2022&#39;s biggest IPOs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220411/p1#a220411p1)<!-- TECH:END -->
+ - [&#39;Severance&#39; Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/severance-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [It looks like OnePlus is now borrowing the names of its phones from Oppo](https://www.androidauthority.com/oneplus-ace-3151343/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
