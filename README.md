@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wyze cam vulnerability, new HomeKit widgets &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/11/wyze-cam-vulnerability-new-homekit-widgets-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Elon Musk appears to have deleted some tweets critical of Twitter and its leadership; Musk liked a tweet saying he was &quot;told to play nice and not speak freely&quot; &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p11#a220411p11)
- - [Nintendo Switch Sports feels like more than just a party game](https://www.theverge.com/2022/4/11/23014891/nintendo-switch-sports-wii-bowling-features-mini-games-price-release-date-hands-on)<!-- TECH:END -->
+ - [Daily deals April 11: $100 off Samsung Galaxy S22 Ultra, $200 off Microsoft Surface Pro 8, $169 Apple TV 4K &lpar;2021&rpar;, more](https://appleinsider.com/articles/22/04/11/daily-deals-april-11-100-off-samsung-galaxy-s22-ultra-200-off-microsoft-surface-pro-8-169-apple-tv-4k-2021-more?utm_medium=rss)
+ - [In the absence of federal crypto regulations in the US, lobbyists and executives are helping to draft and pass favorable bills at state level &lpar;New York Times&rpar;](http://www.techmeme.com/220411/p15#a220411p15)
+ - [Datto, which provides data backup and protection services for SMBs, agrees to be taken private by Kaseya for $6.2B in cash, funded by Insight and others &lpar;Sohini Podder/Reuters&rpar;](http://www.techmeme.com/220411/p14#a220411p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
