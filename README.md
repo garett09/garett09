@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The driving skills of the Norwegian Police during an insane high-speed chase](http://9gag.com/gag/ajgxZq1)
- - 🚯 [He allegedly lost his wife, his children adopted a shelter dog for him to keep him company. Looks like a good decision. He is playing like a little kid.](http://9gag.com/gag/abgxxAr)
+ - 🚖 [I blinked and my weekend was gone](http://9gag.com/gag/aAGMML9)
+ - 🚯 [Tiktok Warlord braging he recieved intel from his commanders and showing tactical maps....i mean... you cant be that stupid](http://9gag.com/gag/aPZeQ9P)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
