@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Great Recession it Happening Right Now. The Dice Has Been Cast.](http://9gag.com/gag/arnxxpX)
- - 🚯 [Math, not even once](http://9gag.com/gag/awzOOQ4)
+ - 🚖 [I blinked and my weekend was gone](http://9gag.com/gag/aAGMML9)
+ - 🚯 [Quick before they wake up](http://9gag.com/gag/aogxxMX)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
