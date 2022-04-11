@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Art Of Apollo 10½ Is A Space Age Wonder](https://kotaku.com/apollo-10-netflix-animated-animation-cartoon-richard-li-1848775865)
  - [Hello Yaddle, Goodbye Weekends](https://kotaku.com/hello-yaddle-goodbye-weekends-1848775519)
- - [The Week In Games: Nobody Saves The World On April 14](https://kotaku.com/the-week-in-games-nobody-saves-the-world-on-april-14-1848775597)
- - [Sega Says &#39;Future Of Gaming&#39; Includes NFTs And Cloud Streaming](https://kotaku.com/nfts-sega-crypto-blockchain-sonic-interview-future-scam-1848775352)<!-- GAME:END -->
+ - [The Week In Games: Nobody Saves The World On April 14](https://kotaku.com/the-week-in-games-nobody-saves-the-world-on-april-14-1848775597)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
