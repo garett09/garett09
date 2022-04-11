@@ -198,7 +198,7 @@ Windows                  26 hrs 3 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Absolute face of disappointment](http://9gag.com/gag/ajgxx1R)
- - 🚯 [Shanghai Residents screaming has been going on for some days straight, due to the Lockdown.](http://9gag.com/gag/amgxmQy)
+ - 🚯 [Date\u2026.](http://9gag.com/gag/avAxRoX)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
