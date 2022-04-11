@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That thumbs up](http://9gag.com/gag/aQXmAwr)
- - 🚯 [I wonder how many hours of prison she faced...](http://9gag.com/gag/azeOG0q)
+ - 🚖 [I wonder how many hours of prison she faced...](http://9gag.com/gag/azeOG0q)
+ - 🚯 [Quick before they wake up](http://9gag.com/gag/aogxxMX)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
