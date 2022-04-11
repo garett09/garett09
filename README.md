@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus announces April 28 event: New earbuds and phones incoming](https://www.androidauthority.com/oneplus-april-28-event-3151419/)
- - [Elon Musk pulls out of joining Twitter&#39;s board of directors](https://appleinsider.com/articles/22/04/11/elon-musk-pulls-out-of-joining-twitters-board-of-directors?utm_medium=rss)
- - [Apple begins iPhone 13 production in India](https://appleinsider.com/articles/22/04/11/apple-begins-iphone-13-production-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines)
+ - [The Tricky Aftermath of Source Code Leaks](https://www.wired.com/story/source-code-leak-dangers)
+ - [Want a Battery That Lasts? Play Hot and Cold](https://www.wired.com/story/want-a-battery-that-lasts-play-hot-and-cold)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
