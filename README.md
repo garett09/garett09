@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Name director’s new movie has its first trailer](https://www.polygon.com/23020169/suzume-no-tojimari-trailer-release-date-makoto-shinkai-your-name)
- - [Sonic The Hedgehog 2 Is On Track To Be The Biggest Video Game Movie Ever](https://kotaku.com/sonic-the-hedgehog-2-movie-box-office-total-opening-jim-1848777584)
- - [The Northman brings Viking history to life with a roar of bloody defiance](https://www.polygon.com/23020420/the-northman-review-robert-eggers-alexander-skarsgard)<!-- GAME:END -->
+ - [Elden Ring Fans Restore Cut Quests Where You Get Everyone Drunk, Learn Their Secrets](https://kotaku.com/elden-ring-cut-content-dream-brew-mist-rico-st-trina-lo-1848777945)
+ - [The best board games of 2021, as chosen by The American Tabletop Awards](https://www.polygon.com/tabletop-games/23017097/best-tabletop-games-2022-american-tabletop-awards)
+ - [Modder finds Elden Ring ‘dream collecting’ content cut from final release](https://www.polygon.com/23020487/elden-ring-cut-content-found-dream-collection)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
