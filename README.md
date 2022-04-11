@@ -197,9 +197,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
- - 🚯 [He may have disappeared](http://9gag.com/gag/aBnELqA)
- - 🚯 [When she has a date with me and i explain to her how awesome the star trek universe is](http://9gag.com/gag/angxnob)<!-- MEMES:END -->
+ - 🚖 [He may have disappeared](http://9gag.com/gag/aBnELqA)
+ - 🚯 [Soul touching voice, too beautifull for this world. Where is my f**king sword?](http://9gag.com/gag/aE8WAM9)
+ - 🚯 [China policy to force relocate every covid positive case to mobile hospitals &lpar;even ones with no symptom&rpar; and sanitize their homes by soaking everything in disinfectant. Home owners come back from uncomfortable recovery soaking wet sofa/beds and destroyed tapestry.](http://9gag.com/gag/ajgxL1Q)<!-- MEMES:END -->
 
 --- 
 
