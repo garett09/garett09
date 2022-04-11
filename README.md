@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines)
- - [The Tricky Aftermath of Source Code Leaks](https://www.wired.com/story/source-code-leak-dangers)
- - [Want a Battery That Lasts? Play Hot and Cold](https://www.wired.com/story/want-a-battery-that-lasts-play-hot-and-cold)<!-- TECH:END -->
+ - [Source: Israel-based Sentra, which helps businesses create a real-time picture of their sensitive data held in public clouds, raises a $23M seed &lpar;CTech&rpar;](http://www.techmeme.com/220411/p7#a220411p7)
+ - [Sources: China has approved the first batch of video game licenses since its freeze in July; it is unclear if games from Tencent and NetEase were approved &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220411/p6#a220411p6)
+ - [Foxconn not getting hit by COVID China lockdown may preserve iPhone production](https://appleinsider.com/articles/22/04/11/foxconn-not-getting-hit-by-covid-china-lockdown-may-preserve-iphone-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
