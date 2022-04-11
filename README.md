@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Goes Big On Epic Games With Whopping $1 Billion Investment](https://kotaku.com/sony-epic-metaverse-unreal-engine-5-virtual-reality-inv-1848778166)
- - [An Elden Ring speedrunner beat the game in under 9 minutes](https://www.polygon.com/23020552/elden-ring-speedrun-record-9-minutes)
- - [Elden Ring Fans Restore Cut Quests Where You Get Everyone Drunk, Learn Their Secrets](https://kotaku.com/elden-ring-cut-content-dream-brew-mist-rico-st-trina-lo-1848777945)<!-- GAME:END -->
+ - [Capcom Fighting Collection Drops on June 24, Pre-order Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/11/capcom-fighting-collection-pre-order-today/)
+ - [Halo: Master Chief Collection update adds Flood Firefight mode](https://www.polygon.com/23020711/halo-master-chief-collection-update-new-mode-flood-firefight)
+ - [The Giant Gaming Leak That Keeps Getting Vindicated](https://kotaku.com/massive-nvidia-game-leak-kingdom-hearts-4-street-fighte-1848778587)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
