@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store opening in Wuhan teased with wallpaper release](https://appleinsider.com/articles/22/04/11/apple-store-opening-in-wuhan-teased-with-wallpaper-release?utm_medium=rss)
- - [FDA clears Fitbit devices to get passive heart rhythm detection for AFib](https://www.androidauthority.com/fitbit-heart-rhythm-afib-3151591/)
- - [US policy makers identified stablecoins as an initial target for regulation, asking lawmakers to pass legislation that would treat stablecoin issuers like banks &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p17#a220411p17)<!-- TECH:END -->
+ - [Netflix is rolling out a Two Thumbs Up button](https://www.theverge.com/2022/4/11/23017274/netflix-double-thumbs-up-button-recommendation-curation)
+ - [How to change your Twitter username or handle](https://www.androidauthority.com/change-twitter-username-handle-3151566/)
+ - [The Batman will be available to stream on HBO Max beginning April 18th](https://www.theverge.com/2022/4/11/23020361/the-batman-hbo-max-streaming-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
