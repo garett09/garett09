@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Land Rover Recalls 2016-17 Range Rover, Range Rover Sport Models Over Faulty Seat Belt     - Roadshow](https://www.cnet.com/roadshow/news/land-rover-range-rover-sport-recall-seatbelt-lock/#ftag=CAD590a51e)
- - [Amazon Is Seeking Unionization Revote     - CNET](https://www.cnet.com/tech/amazon-is-seeking-unionization-revote/#ftag=CAD590a51e)
- - [Microsoft’s Surface Laptop 4 is on sale for its lowest price ever at Amazon today](https://www.theverge.com/2022/4/11/23020121/microsoft-surface-laptop-4-amazon-fire-tablet-apple-watch-series-7-ipad-jabra-earbuds-deal-sale)<!-- TECH:END -->
+ - [Over 14,000 Etsy sellers start a week-long strike over an increase in transaction fees from 5% to 6.5%, grievances with Etsy&#39;s Offsite Ads program, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220411/p21#a220411p21)
+ - [Tesla Opens Up Roadster Reservations, Requires a $50,000 Deposit     - Roadshow](https://www.cnet.com/roadshow/news/tesla-opens-up-roadster-reservations-requires-a-50000-deposit/#ftag=CAD590a51e)
+ - [How to watch MLB &#39;Friday Night Baseball&#39; on Apple TV+](https://appleinsider.com/articles/22/04/11/how-to-watch-mlb-friday-night-baseball-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
