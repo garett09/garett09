@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch Sports feels like a real Wii Sports 2](https://www.polygon.com/23019586/nintendo-switch-sports-impressions-wii-sports-sequel)
- - [The Best Dreamcast Games](https://kotaku.com/the-best-dreamcast-games-1835926847)
- - [The Art Of Apollo 10½ Is A Space Age Wonder](https://kotaku.com/apollo-10-netflix-animated-animation-cartoon-richard-li-1848775865)<!-- GAME:END -->
+ - [Ghost Garden Games: Women-Led Independent Developer Studio Shares Their Experience at Xbox Game Studios Game Camp New Orleans](https://news.xbox.com/en-us/2022/04/11/ghost-garden-games-at-xbox-game-studios-game-camp-new-orleans/)
+ - [The Batman will be streamable on HBO Max starting next week](https://www.polygon.com/23020273/the-batman-hbo-max-streaming-release-date)
+ - [Nimona movie finds a second life at Netflix](https://www.polygon.com/23020252/nimona-movie-netflix-blue-sky-nd-stevenson-disney)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
