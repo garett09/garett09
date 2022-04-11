@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GoTo rose as much as 23% on its first day of trading in Indonesia after raising $1.1B in one of 2022&#39;s biggest IPOs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220411/p1#a220411p1)
  - [After Musk asks if Twitter should convert its San Francisco HQ into a &quot;homeless shelter since no one shows up anyway&quot;, Jeff Bezos notes Amazon&#39;s Seattle shelter &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220410/p9#a220410p9)
- - [Elon Musk won’t join Twitter’s board after all](https://www.theverge.com/2022/4/10/23019802/elon-musk-not-joining-twitter-board-announced)
- - [Twitter CEO Parag Agrawal says that Elon Musk has decided not to join Twitter&#39;s board despite being offered a seat &lpar;Parag Agrawal/@paraga&rpar;](http://www.techmeme.com/220410/p8#a220410p8)<!-- TECH:END -->
+ - [Elon Musk Turns Down Chance to Join Twitter&#39;s Board     - CNET](https://www.cnet.com/culture/internet/elon-musk-turns-down-chance-to-join-twitters-board/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
