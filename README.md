@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wouldn&#39;t change it for any other job](http://9gag.com/gag/aegx7zq)
- - 🚯 [WTFest! do u have a better word or phrase for this?](http://9gag.com/gag/aAGM2e9)
+ - 🚖 [Masterpiece](http://9gag.com/gag/aPZe18P)
+ - 🚯 [It&#39;s the Moon](http://9gag.com/gag/abgxQzX)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
