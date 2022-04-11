@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Andreessen has tweeted ~350 times in the past two weeks, often referring to &quot;the current thing&quot; meme, joined by Elon Musk and others &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220411/p19#a220411p19)
- - [The best phone plans in 2022 &lpar;and how to pick one&rpar;](https://www.theverge.com/22606623/best-cell-phone-plans-verizon-att-t-mobile)
- - [Apple&#39;s Mac Studio is in stock now, add AppleCare for $1](https://appleinsider.com/articles/22/04/11/apples-mac-studio-is-in-stock-now-add-applecare-for-1?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube flip-flops back to picture-in-picture not coming to iOS 15](https://appleinsider.com/articles/22/04/11/youtube-flip-flops-back-to-picture-in-picture-not-coming-to-ios-15?utm_medium=rss)
+ - [Lincoln to show off EV concept on April 20th](https://www.theverge.com/2022/4/11/23020491/lincoln-ev-concept-announcement-date-electric-ford)
+ - [Daily deals April 11: $100 off Samsung Galaxy S22 Ultra, $200 off Microsoft Surface Pro 8, $169 Apple TV 4K &lpar;2021&rpar;, more](https://appleinsider.com/articles/22/04/11/daily-deals-april-11-100-off-samsung-galaxy-s22-ultra-200-off-microsoft-surface-pro-8-169-apple-tv-4k-2021-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
