@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you don&#39;t believe me, check out R, it has tons of posts of buyers complaining about it and trying to fix it to any avail... And yes, we had lots of lawsuits because of thiis, and still nothing changed, which is why I&#39;m posting about it here... Don&#39;t buy this shit](http://9gag.com/gag/amgx68y)
- - 🚯 [You know how if you want to change a headlight, you have to disassemble half the engine to access it? It was shit like this that we wanted to fix. But profits come first... This is why we can&#39;t have nice things. Sorry for a lot of text](http://9gag.com/gag/a0ZnVzZ)
+ - 🚖 [What\u2019s yours](http://9gag.com/gag/aGzG840)
+ - 🚯 [Real question!](http://9gag.com/gag/aegxZjb)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
