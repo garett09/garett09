@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s complex lore explained by an expert in just 30 minutes](https://www.polygon.com/23020905/elden-ring-lore-story-plot-endings-radahn-ranni)
- - [Apex Legends Pros Engage In Real Flat Earth Debate On Twitch](https://kotaku.com/apex-legends-teq-nano-clg-furia-twitch-flat-earth-round-1848779719)
- - [Oh thank goodness, a game finally gave us an even larger sword](https://www.polygon.com/23020577/biggest-sword-rpg-rogue-like-game-development)<!-- GAME:END -->
+ - [Kingdom Hearts fans found Sora’s swanky new real-world Tokyo apartment](https://www.polygon.com/23020286/kingdom-hearts-4-sora-apartment-tokyo)
+ - [Michelle Yeoh’s personal guide to Everything Everywhere All At Once’s vast multiverse](https://www.polygon.com/23020865/michelle-yeoh-interview-everything-everywhere-all-at-once)
+ - [Elden Ring’s complex lore explained by an expert in just 30 minutes](https://www.polygon.com/23020905/elden-ring-lore-story-plot-endings-radahn-ranni)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
