@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 14,000 Etsy sellers start a week-long strike over an increase in transaction fees from 5% to 6.5%, grievances with Etsy&#39;s Offsite Ads program, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220411/p21#a220411p21)
- - [Tesla Opens Up Roadster Reservations, Requires a $50,000 Deposit     - Roadshow](https://www.cnet.com/roadshow/news/tesla-opens-up-roadster-reservations-requires-a-50000-deposit/#ftag=CAD590a51e)
- - [How to watch MLB &#39;Friday Night Baseball&#39; on Apple TV+](https://appleinsider.com/articles/22/04/11/how-to-watch-mlb-friday-night-baseball-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [NFT project Pudgy Penguins, once highly successful, is attempting a comeback after being acquired for 750 ETH; NonFungible says trading peaked at $13.6M/day &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220411/p22#a220411p22)
+ - [Apple corporate staffers have returned to Apple Park, one day a week](https://appleinsider.com/articles/22/04/11/apple-corporate-staffers-have-returned-to-apple-park-one-day-a-week?utm_medium=rss)
+ - [How to change your username on Steam](https://www.androidauthority.com/change-steam-username-3151233/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
