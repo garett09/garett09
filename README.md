@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Switch Sports feels like a real Wii Sports 2](https://www.polygon.com/23019586/nintendo-switch-sports-impressions-wii-sports-sequel)
  - [The Best Dreamcast Games](https://kotaku.com/the-best-dreamcast-games-1835926847)
- - [The Art Of Apollo 10½ Is A Space Age Wonder](https://kotaku.com/apollo-10-netflix-animated-animation-cartoon-richard-li-1848775865)
- - [Hello Yaddle, Goodbye Weekends](https://kotaku.com/hello-yaddle-goodbye-weekends-1848775519)<!-- GAME:END -->
+ - [The Art Of Apollo 10½ Is A Space Age Wonder](https://kotaku.com/apollo-10-netflix-animated-animation-cartoon-richard-li-1848775865)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
