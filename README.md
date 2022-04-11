@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute face of disappointment](http://9gag.com/gag/ajgxx1R)
- - 🚯 [Date\u2026.](http://9gag.com/gag/avAxRoX)
+ - 🚖 [The driving skills of the Norwegian Police during an insane high-speed chase](http://9gag.com/gag/ajgxZq1)
+ - 🚯 [He allegedly lost his wife, his children adopted a shelter dog for him to keep him company. Looks like a good decision. He is playing like a little kid.](http://9gag.com/gag/abgxxAr)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
