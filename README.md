@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack rolls out 2FA, initially for writers and account holders who log in via its web platform, but plans to make it available for mobile app users soon &lpar;Kim Zetter/Zero Day&rpar;](http://www.techmeme.com/220411/p24#a220411p24)
- - [Meta will let Horizon creators sell virtual items](https://www.theverge.com/2022/4/11/23020684/meta-horizon-worlds-test-creators-sell-virtual-items-monetization)
- - [Filing: Chipmaker Ampere Computing, founded by former Intel president Renee James, has filed for an IPO; Oracle reportedly has a 20%-50% stake in Ampere &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220411/p23#a220411p23)<!-- TECH:END -->
+ - [PC market on the decline as Chromebook sales slide from their pandemic peak](https://www.theverge.com/2022/4/11/23021029/pc-market-decline-chromebooks-post-pandemic-hit-idc-gartner)
+ - [How to &lpar;accurately&rpar; track steps with your Apple Watch](https://www.androidauthority.com/track-steps-apple-watch-3150425/)
+ - [Cloud services provider Sungard files for bankruptcy with $424M in secured debt, its second bankruptcy filing in three years &lpar;Maria Chutchian/Reuters&rpar;](http://www.techmeme.com/220411/p27#a220411p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
