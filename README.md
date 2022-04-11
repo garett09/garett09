@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I blinked and my weekend was gone](http://9gag.com/gag/aAGMML9)
- - 🚯 [Quick before they wake up](http://9gag.com/gag/aogxxMX)
+ - 🚖 [Absolute face of disappointment](http://9gag.com/gag/ajgxx1R)
+ - 🚯 [Shanghai Residents screaming has been going on for some days straight, due to the Lockdown.](http://9gag.com/gag/amgxmQy)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
