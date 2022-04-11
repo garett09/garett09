@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can we speedrun this shit already](http://9gag.com/gag/aegx2Ap)
- - 🚯 [Does she do weddings???](http://9gag.com/gag/aDDbVLB)
+ - 🚖 [Bless them!](http://9gag.com/gag/a91mOjD)
+ - 🚯 [Lucid](http://9gag.com/gag/a41A2W1)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
