@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Fighting Collection Drops on June 24, Pre-order Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/11/capcom-fighting-collection-pre-order-today/)
- - [Halo: Master Chief Collection update adds Flood Firefight mode](https://www.polygon.com/23020711/halo-master-chief-collection-update-new-mode-flood-firefight)
- - [The Giant Gaming Leak That Keeps Getting Vindicated](https://kotaku.com/massive-nvidia-game-leak-kingdom-hearts-4-street-fighte-1848778587)<!-- GAME:END -->
+ - [Disney Plus’ Percy Jackson series finds its lead actor](https://www.polygon.com/23020810/percy-jackson-and-the-olympians-disney-plus-cast)
+ - [How Elden Ring Speedruns Beat The Game In Under 9 Minutes Without Seeing Its Final Boss](https://kotaku.com/elden-ring-fromsoftware-speedrun-mega-zip-distortion2-g-1848779177)
+ - [Capcom Fighting Collection Drops on June 24, Pre-order Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/11/capcom-fighting-collection-pre-order-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
