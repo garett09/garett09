@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Israel-based Sentra, which helps businesses create a real-time picture of their sensitive data held in public clouds, raises a $23M seed &lpar;CTech&rpar;](http://www.techmeme.com/220411/p7#a220411p7)
- - [Sources: China has approved the first batch of video game licenses since its freeze in July; it is unclear if games from Tencent and NetEase were approved &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220411/p6#a220411p6)
- - [Foxconn not getting hit by COVID China lockdown may preserve iPhone production](https://appleinsider.com/articles/22/04/11/foxconn-not-getting-hit-by-covid-china-lockdown-may-preserve-iphone-production?utm_medium=rss)<!-- TECH:END -->
+ - [Wyze cam vulnerability, new HomeKit widgets &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/11/wyze-cam-vulnerability-new-homekit-widgets-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Elon Musk appears to have deleted some tweets critical of Twitter and its leadership; Musk liked a tweet saying he was &quot;told to play nice and not speak freely&quot; &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p11#a220411p11)
+ - [Nintendo Switch Sports feels like more than just a party game](https://www.theverge.com/2022/4/11/23014891/nintendo-switch-sports-wii-bowling-features-mini-games-price-release-date-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
