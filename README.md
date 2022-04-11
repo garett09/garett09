@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite Amazon spending almost a decade and $2B+ developing drone delivery services, sources say it&#39;s still beset by technical challenges, safety concerns, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220410/p7#a220410p7)
- - [Amazon Astro Review: So Far, This Robot Is Actually Less Creepy Than Alexa     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-review/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Killing Eve&#39; Season 4 Finale Recap: A Cruel Way To Go Out     - CNET](https://www.cnet.com/culture/entertainment/killing-eve-season-4-finale-recap-a-cruel-way-to-go-out/#ftag=CAD590a51e)
+ - [Chris Rock Isn&#39;t Talking About Will Smith&#39;s Oscars Slap Until He Gets Paid     - CNET](https://www.cnet.com/culture/entertainment/chris-rock-isnt-talking-about-will-smiths-oscars-slap-until-he-gets-paid/#ftag=CAD590a51e)
+ - [Despite Amazon spending almost a decade and $2B+ developing drone delivery services, sources say it&#39;s still beset by technical challenges, safety concerns, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220410/p7#a220410p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
