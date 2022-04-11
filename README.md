@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Fans Restore Cut Quests Where You Get Everyone Drunk, Learn Their Secrets](https://kotaku.com/elden-ring-cut-content-dream-brew-mist-rico-st-trina-lo-1848777945)
- - [The best board games of 2021, as chosen by The American Tabletop Awards](https://www.polygon.com/tabletop-games/23017097/best-tabletop-games-2022-american-tabletop-awards)
- - [Modder finds Elden Ring ‘dream collecting’ content cut from final release](https://www.polygon.com/23020487/elden-ring-cut-content-found-dream-collection)<!-- GAME:END -->
+ - [Sony Goes Big On Epic Games With Whopping $1 Billion Investment](https://kotaku.com/sony-epic-metaverse-unreal-engine-5-virtual-reality-inv-1848778166)
+ - [An Elden Ring speedrunner beat the game in under 9 minutes](https://www.polygon.com/23020552/elden-ring-speedrun-record-9-minutes)
+ - [Elden Ring Fans Restore Cut Quests Where You Get Everyone Drunk, Learn Their Secrets](https://kotaku.com/elden-ring-cut-content-dream-brew-mist-rico-st-trina-lo-1848777945)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
