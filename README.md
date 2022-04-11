@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is rolling out a Two Thumbs Up button](https://www.theverge.com/2022/4/11/23017274/netflix-double-thumbs-up-button-recommendation-curation)
- - [How to change your Twitter username or handle](https://www.androidauthority.com/change-twitter-username-handle-3151566/)
- - [The Batman will be available to stream on HBO Max beginning April 18th](https://www.theverge.com/2022/4/11/23020361/the-batman-hbo-max-streaming-date)<!-- TECH:END -->
+ - [Marc Andreessen has tweeted ~350 times in the past two weeks, often referring to &quot;the current thing&quot; meme, joined by Elon Musk and others &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220411/p19#a220411p19)
+ - [The best phone plans in 2022 &lpar;and how to pick one&rpar;](https://www.theverge.com/22606623/best-cell-phone-plans-verizon-att-t-mobile)
+ - [Apple&#39;s Mac Studio is in stock now, add AppleCare for $1](https://appleinsider.com/articles/22/04/11/apples-mac-studio-is-in-stock-now-add-applecare-for-1?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
