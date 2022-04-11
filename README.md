@@ -190,9 +190,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Killing Eve&#39; Season 4 Finale Recap: A Cruel Way To Go Out     - CNET](https://www.cnet.com/culture/entertainment/killing-eve-season-4-finale-recap-a-cruel-way-to-go-out/#ftag=CAD590a51e)
- - [Chris Rock Isn&#39;t Talking About Will Smith&#39;s Oscars Slap Until He Gets Paid     - CNET](https://www.cnet.com/culture/entertainment/chris-rock-isnt-talking-about-will-smiths-oscars-slap-until-he-gets-paid/#ftag=CAD590a51e)
- - [Despite Amazon spending almost a decade and $2B+ developing drone delivery services, sources say it&#39;s still beset by technical challenges, safety concerns, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220410/p7#a220410p7)<!-- TECH:END -->
+ - [Elon Musk won’t join Twitter’s board after all](https://www.theverge.com/2022/4/10/23019802/elon-musk-not-joining-twitter-board-announced)
+ - [Twitter CEO Parag Agrawal says that Elon Musk has decided not to join Twitter&#39;s board despite being offered a seat &lpar;Parag Agrawal/@paraga&rpar;](http://www.techmeme.com/220410/p8#a220410p8)
+ - [&#39;Killing Eve&#39; Season 4 Finale Recap: A Cruel Way To Go Out     - CNET](https://www.cnet.com/culture/entertainment/killing-eve-season-4-finale-recap-a-cruel-way-to-go-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
