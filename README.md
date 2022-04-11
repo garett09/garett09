@@ -197,8 +197,8 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the Moon](http://9gag.com/gag/abgxQzX)
- - 🚯 [Biker cops take out biker burning rubber. Out of his pants.](http://9gag.com/gag/ay91Qnq)
+ - 🚖 [I wouldn&#39;t change it for any other job](http://9gag.com/gag/aegx7zq)
+ - 🚯 [WTFest! do u have a better word or phrase for this?](http://9gag.com/gag/aAGM2e9)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
