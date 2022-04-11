@@ -197,7 +197,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slavic Progress: Obelya, Sofia, Bulgaria](http://9gag.com/gag/azeORBK)
+ - 🚖 [It&#39;s the Moon](http://9gag.com/gag/abgxQzX)
  - 🚯 [Biker cops take out biker burning rubber. Out of his pants.](http://9gag.com/gag/ay91Qnq)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
