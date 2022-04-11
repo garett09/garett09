@@ -183,9 +183,9 @@ Windows                  26 hrs 3 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus’ Percy Jackson series finds its lead actor](https://www.polygon.com/23020810/percy-jackson-and-the-olympians-disney-plus-cast)
- - [How Elden Ring Speedruns Beat The Game In Under 9 Minutes Without Seeing Its Final Boss](https://kotaku.com/elden-ring-fromsoftware-speedrun-mega-zip-distortion2-g-1848779177)
- - [Capcom Fighting Collection Drops on June 24, Pre-order Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/11/capcom-fighting-collection-pre-order-today/)<!-- GAME:END -->
+ - [Elden Ring’s complex lore explained by an expert in just 30 minutes](https://www.polygon.com/23020905/elden-ring-lore-story-plot-endings-radahn-ranni)
+ - [Apex Legends Pros Engage In Real Flat Earth Debate On Twitch](https://kotaku.com/apex-legends-teq-nano-clg-furia-twitch-flat-earth-round-1848779719)
+ - [Oh thank goodness, a game finally gave us an even larger sword](https://www.polygon.com/23020577/biggest-sword-rpg-rogue-like-game-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
