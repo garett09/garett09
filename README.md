@@ -191,8 +191,8 @@ Windows                  26 hrs 3 mins       ███████████�
 
 <!-- TECH:START -->
  - [GoTo rose as much as 23% on its first day of trading in Indonesia after raising $1.1B in one of 2022&#39;s biggest IPOs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/220411/p1#a220411p1)
- - [After Musk asks if Twitter should convert its San Francisco HQ into a &quot;homeless shelter since no one shows up anyway&quot;, Jeff Bezos notes Amazon&#39;s Seattle shelter &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220410/p9#a220410p9)
- - [Elon Musk Turns Down Chance to Join Twitter&#39;s Board     - CNET](https://www.cnet.com/culture/internet/elon-musk-turns-down-chance-to-join-twitters-board/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch Sports: 5 Things to Know About the Upcoming Game     - CNET](https://www.cnet.com/culture/nintendo-switch-sports-5-things-to-know-about-the-upcoming-game/#ftag=CAD590a51e)
+ - [2023 Nissan Pathfinder Rock Creek Is Better Suited to Finding Paths, Rocks, Creeks     - Roadshow](https://www.cnet.com/roadshow/news/2023-nissan-pathfinder-rock-creek-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
