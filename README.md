@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Elden Ring&#39;s Torrent Keeps Getting You Killed](https://kotaku.com/elden-ring-torrent-fall-double-jump-bug-glitch-npc-heal-1848781237)
- - [A Very Cool Idea For A New Assassin&#39;s Creed Game](https://kotaku.com/assassins-creed-china-world-war-2-two-art-concept-ubiso-1848780957)
- - [Halo Infinite Is Now Playable In Third-Person](https://kotaku.com/halo-infinite-mod-pc-gamepass-steam-343-third-person-mo-1848780630)<!-- GAME:END -->
+ - [Taking a vacation in Far Cry 2 is easier said than done](https://www.pcgamer.com/taking-a-vacation-in-far-cry-2-is-easier-said-than-done)
+ - [Today&#39;s Wordle answer #297: Tuesday, April 12](https://www.pcgamer.com/wordle-april-12-297)
+ - [Why Elden Ring&#39;s Torrent Keeps Getting You Killed](https://kotaku.com/elden-ring-torrent-fall-double-jump-bug-glitch-npc-heal-1848781237)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
