@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta spent $26.8M on Mark Zuckerberg&#39;s security in 2021, up 6% from 2020, far above other execs, such as Sundar Pichai &lpar;$4.3M&rpar; and Jeff Bezos &lpar;$1.6M&rpar; &lpar;Jill R Shah/Bloomberg&rpar;](http://www.techmeme.com/220412/p9#a220412p9)
- - [The Biden administration gives a green light to a fuel that could be even dirtier than regular gas](https://www.theverge.com/2022/4/12/23021146/biden-administration-ethanol-e15-gas-prices)
- - [Berlin-based Choco, which makes ordering tools for restaurants and suppliers, raises a $111M Series B2 at a $1.2B valuation, bringing its funding to $282.5M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220412/p8#a220412p8)<!-- TECH:END -->
+ - [The Lectric XP Lite folding e-bike costs just $799](https://www.theverge.com/2022/4/12/23021623/cheap-folding-ebike-price-specs-date)
+ - [New Mac mini reference spotted in Studio Display firmware](https://appleinsider.com/articles/22/04/12/new-mac-mini-reference-spotted-in-studio-display-firmware?utm_medium=rss)
+ - [Leaked images show Apple&#39;s dual USB-C charger](https://appleinsider.com/articles/22/04/12/leaked-images-show-apples-dual-usb-c-charger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
