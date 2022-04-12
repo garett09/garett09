@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo launches standalone web browser for Mac in beta](https://appleinsider.com/articles/22/04/12/duckduckgo-launches-standalone-web-browser-for-mac-in-beta?utm_medium=rss)
- - [Tim Cook rails against bad privacy regulation &amp; sideloading in keynote speech](https://appleinsider.com/articles/22/04/12/tim-cook-rails-against-bad-privacy-regulation-sideloading-in-keynote-speech?utm_medium=rss)
- - [It’s hard to believe Samsung’s new, matte The Frame is actually a TV](https://www.theverge.com/2022/4/4/23009799/samsung-the-frame-2022-preview-matte-display-artwork)<!-- TECH:END -->
+ - [Kubit, which helps track and analyze user engagement data, raises an $18M Series A led by Insight Partners, bringing its total capital raised to $24M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220412/p26#a220412p26)
+ - [Apple TV+ lands new untitled comedy starring Noel Fielding](https://appleinsider.com/articles/22/04/12/apple-tv-lands-new-untitled-comedy-starring-noel-fielding?utm_medium=rss)
+ - [Major iPhone manufacturer Pegatron, Mac manufacturer Quanta, and iPad maker Compal suspend factory operations near Shanghai amid strict COVID-19 measures &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220412/p25#a220412p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
