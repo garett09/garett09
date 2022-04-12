@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such an awesome guy](http://9gag.com/gag/adgxrXd)
- - 🚯 [But why is the villain dark skin tho?](http://9gag.com/gag/a91mV3D)
- - 🚯 [Hope u can read...](http://9gag.com/gag/aPZepKP)<!-- MEMES:END -->
+ - 🚖 [Im stealing the toilet buttons](http://9gag.com/gag/aWgodRZ)
+ - 🚯 [Clown world has crossed the ocean and reached Australia](http://9gag.com/gag/aogxA20)
+ - 🚯 [Such an awesome guy](http://9gag.com/gag/adgxrXd)<!-- MEMES:END -->
 
 --- 
 
