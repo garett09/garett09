@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Very Cool Idea For A New Assassin&#39;s Creed Game](https://kotaku.com/assassins-creed-china-world-war-2-two-art-concept-ubiso-1848780957)
  - [Halo Infinite Is Now Playable In Third-Person](https://kotaku.com/halo-infinite-mod-pc-gamepass-steam-343-third-person-mo-1848780630)
- - [Kingdom Hearts fans found Sora’s swanky new real-world Tokyo apartment](https://www.polygon.com/23020286/kingdom-hearts-4-sora-apartment-tokyo)
- - [Michelle Yeoh’s personal guide to Everything Everywhere All At Once’s vast multiverse](https://www.polygon.com/23020865/michelle-yeoh-interview-everything-everywhere-all-at-once)<!-- GAME:END -->
+ - [Kingdom Hearts fans found Sora’s swanky new real-world Tokyo apartment](https://www.polygon.com/23020286/kingdom-hearts-4-sora-apartment-tokyo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
