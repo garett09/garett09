@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood’s First Expansion, Tunnels of Terror, Available Today](https://news.xbox.com/en-us/2022/04/12/back-4-bloods-first-expansion-tunnels-of-terror-available-today/)
- - [Fire Emblem Warriors: Three Hopes Turns Your Old Protagonist Into A Villain](https://kotaku.com/fire-emblem-warriors-three-hopes-houses-trailer-byleth-1848783271)
- - [Sonic 2 director on creating a ‘fully realized, fully dimensional’ Knuckles](https://www.polygon.com/23021865/sonic-2-knuckles-director-interview)<!-- GAME:END -->
+ - [Elden Ring Speedrunner Kills Toughest Bosses With Only His Ass](https://kotaku.com/elden-ring-speedrunner-bosses-ground-slam-malenia-margi-1848783561)
+ - [13 Sentinels is a masterpiece and it’s even better on Switch](https://www.polygon.com/reviews/23020989/13-sentinels-aegis-rim-switch-review)
+ - [Back 4 Blood’s First Expansion, Tunnels of Terror, Available Today](https://news.xbox.com/en-us/2022/04/12/back-4-bloods-first-expansion-tunnels-of-terror-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
