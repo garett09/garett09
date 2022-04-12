@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 2 director on creating a ‘fully realized, fully dimensional’ Knuckles](https://www.polygon.com/23021865/sonic-2-knuckles-director-interview)
- - [Another PlayStation ‘Console Exclusive’ Comes To Xbox](https://kotaku.com/bugsnax-isle-of-bigsnax-ps4-ps5-xbox-one-xbox-series-xs-1848782847)
- - [Panzer Corps 2 Available Today with PC Game Pass](https://news.xbox.com/en-us/2022/04/12/panzer-corps-2-available-today-with-pc-game-pass/)<!-- GAME:END -->
+ - [Back 4 Blood’s First Expansion, Tunnels of Terror, Available Today](https://news.xbox.com/en-us/2022/04/12/back-4-bloods-first-expansion-tunnels-of-terror-available-today/)
+ - [Fire Emblem Warriors: Three Hopes Turns Your Old Protagonist Into A Villain](https://kotaku.com/fire-emblem-warriors-three-hopes-houses-trailer-byleth-1848783271)
+ - [Sonic 2 director on creating a ‘fully realized, fully dimensional’ Knuckles](https://www.polygon.com/23021865/sonic-2-knuckles-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
