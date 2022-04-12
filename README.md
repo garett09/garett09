@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things season 4 trailer introduces a new Upside Down enemy](https://www.polygon.com/stranger-things/23020918/stranger-things-season-4-trailer-netflix-release-date-eleven-hopper)
- - [Nobody’s road is the same in Road 96, out on PS5 &amp; PS4 April 14](https://blog.playstation.com/2022/04/12/nobodys-road-is-the-same-in-road-96-out-on-ps5-ps4-april-14/)
- - [Nobody’s road is the same in Road 96, out on PS5 &amp; PS4 April 14](https://blog.playstation.com/2022/04/12/nobodys-road-is-the-same-in-road-96-out-on-ps5-ps4-april-14/)<!-- GAME:END -->
+ - [Spy x Family makes parenthood the real impossible mission](https://www.polygon.com/23020978/spy-x-family-series-premiere-review)
+ - [The unseen art of invisibility in games](https://www.pcgamer.com/the-unseen-art-of-invisibility-in-games)
+ - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
