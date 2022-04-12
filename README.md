@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to play music in Discord](https://www.androidauthority.com/play-music-discord-3150140/)
- - [42% off the Netgear Nighthawk Pro Gaming XR500, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Lucid brings a Performance upgrade to its most expensive electric car](https://www.theverge.com/2022/4/12/23022720/lucid-air-grand-touring-performance-1050hp)
+ - [Former Ethereum developer Virgil Griffith is sentenced to 5+ years in prison and fined $100K for helping North Koreans use cryptocurrencies to evade sanctions &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/220412/p39#a220412p39)
+ - [The $750 self-transforming Optimus Prime just got a $750 transforming trailer too](https://www.theverge.com/23022777/hasbro-robosen-transforming-optimus-prime-robot-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
