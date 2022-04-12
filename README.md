@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some business customers say Microsoft&#39;s licensing rules make it harder and costlier to run Windows and Office on rival cloud platforms like AWS and Google Cloud &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220411/p31#a220411p31)
- - [Deliveries package tracking app loses FedEx access, says blame shipping companies](https://www.theverge.com/2022/4/11/23021155/deliveries-package-app-fedex-api-services)
- - [Report: TikTok&#39;s ad revenue is projected to triple in 2022 to $11B+, surpassing Twitter and Snapchat combined, which are expected to generate $5.58B and $4.86B &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/220411/p30#a220411p30)<!-- TECH:END -->
+ - [Does you Pixel 6 sound different? It may be a bug](https://www.androidauthority.com/google-pixel-ringtone-bug-3151955/)
+ - [How to know if someone blocked you on Discord](https://www.androidauthority.com/did-someone-block-you-discord-3150537/)
+ - [Some business customers say Microsoft&#39;s licensing rules make it harder and costlier to run Windows and Office on rival cloud platforms like AWS and Google Cloud &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220411/p31#a220411p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
