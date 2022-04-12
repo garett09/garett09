@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maya Rudolph comedy &#39;Loot&#39; lands on Apple TV+ June 24](https://appleinsider.com/articles/22/04/12/maya-rudolph-comedy-loot-lands-on-apple-tv-june-24?utm_medium=rss)
- - [Final Cut Pro update brings real-world performance improvements to Mac Studio](https://appleinsider.com/articles/22/04/12/final-cut-pro-update-brings-real-world-performance-improvements-to-mac-studio?utm_medium=rss)
- - [Persona 5’s incredible soundtrack gets the tribute it deserves in a new EP](https://www.theverge.com/2022/4/12/23022322/mementos-sessions-music-persona-5-ep-album-release)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [YouTube outage blanks out the sidebar, causes problems on TVs and game consoles](https://www.theverge.com/2022/4/12/23022541/youtube-sidebar-outage-settings-account-switch-sign-in)
+ - [Cryptocurrency lender Celsius, recently valued at ~$3B, says only accredited US investors will be able to add new assets and earn rewards starting April 15 &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220412/p37#a220412p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
