@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PC market on the decline as Chromebook sales slide from their pandemic peak](https://www.theverge.com/2022/4/11/23021029/pc-market-decline-chromebooks-post-pandemic-hit-idc-gartner)
- - [How to &lpar;accurately&rpar; track steps with your Apple Watch](https://www.androidauthority.com/track-steps-apple-watch-3150425/)
- - [Cloud services provider Sungard files for bankruptcy with $424M in secured debt, its second bankruptcy filing in three years &lpar;Maria Chutchian/Reuters&rpar;](http://www.techmeme.com/220411/p27#a220411p27)<!-- TECH:END -->
+ - [How hospitals are adopting AI-driven predictive models to help identify and prioritize patients in ERs and ICUs who are most at risk &lpar;Laura Landro/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p29#a220411p29)
+ - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-binge-now/#ftag=CAD590a51e)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
