@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite Is Now Playable In Third-Person](https://kotaku.com/halo-infinite-mod-pc-gamepass-steam-343-third-person-mo-1848780630)
  - [Kingdom Hearts fans found Sora’s swanky new real-world Tokyo apartment](https://www.polygon.com/23020286/kingdom-hearts-4-sora-apartment-tokyo)
- - [Michelle Yeoh’s personal guide to Everything Everywhere All At Once’s vast multiverse](https://www.polygon.com/23020865/michelle-yeoh-interview-everything-everywhere-all-at-once)
- - [Elden Ring’s complex lore explained by an expert in just 30 minutes](https://www.polygon.com/23020905/elden-ring-lore-story-plot-endings-radahn-ranni)<!-- GAME:END -->
+ - [Michelle Yeoh’s personal guide to Everything Everywhere All At Once’s vast multiverse](https://www.polygon.com/23020865/michelle-yeoh-interview-everything-everywhere-all-at-once)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
