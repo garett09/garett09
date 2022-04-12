@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4: What we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-4-3149752/)
- - [The Great Paradox of Cryptocurrency](https://www.wired.com/story/the-great-paradox-of-cryptocurrency)
- - [The Firewalla Purple Helps Control and Secure Your Home Network](https://www.wired.com/review/firewalla-purple)<!-- TECH:END -->
+ - [Critical Start, a managed detection and response service for enterprises, raises $215M from Vista Equity Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220412/p15#a220412p15)
+ - [You can now buy an $800 gaming phone in the US with some great specs](https://www.androidauthority.com/red-magic-7-pro-3152005/)
+ - [Therabody launches a massage gun for your face](https://www.theverge.com/2022/4/12/23020395/theraface-pro-massage-gun-facial-microcurrent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
