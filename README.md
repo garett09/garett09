@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cycles again](http://9gag.com/gag/aVxZ22w)
- - 🚯 [11/04 morning Basurin DPR militia chief claims that they will use chemical weapon in Mariupol against fortified plant. In the evening Azov battalion confirms it, allegedly zarin gas.](http://9gag.com/gag/ay91v0r)
+ - 🚖 [I wouldn&#39;t change it for any other job](http://9gag.com/gag/aegx7zq)
+ - 🚯 [The moves to woo the ladies](http://9gag.com/gag/aBnE4jA)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
