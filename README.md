@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s never too late to admit that urban freeways are a mistake that can be corrected.](http://9gag.com/gag/a719nXq)
- - 🚯 [The moves to woo the ladies](http://9gag.com/gag/aBnE4jA)
- - 🚯 [Shouldn&#39;t it be the other way around though?](http://9gag.com/gag/aNPB3GG)<!-- MEMES:END -->
+ - 🚖 [Save money buying season tickets . what a nice position](http://9gag.com/gag/arnxd17)
+ - 🚯 [The uncorking of the cork oaks.](http://9gag.com/gag/angxVzq)
+ - 🚯 [Damn I love Shaq](http://9gag.com/gag/angxV1L)<!-- MEMES:END -->
 
 --- 
 
