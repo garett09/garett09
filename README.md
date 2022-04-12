@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Four hero firefighters chased down brute on a bike after he punches 60yrs old woman on Brooklyn street](http://9gag.com/gag/aRrvDgA)
- - 🚯 [It&#39;s a secret](http://9gag.com/gag/aDDbP1B)
- - 🚯 [Mindless smooth brain Chinese people and how they react to little bit of Covid.](http://9gag.com/gag/apgxdVB)<!-- MEMES:END -->
+ - 🚖 [Hope u can read...](http://9gag.com/gag/aPZepKP)
+ - 🚯 [Best boi crossed the rainbow Bridge today. Very sudden, had a seizure right in front of me and passed in not 30 seconds... show some support for a field Marshall and go hug your dogs, I wish I could. This is the last picture I have of him.](http://9gag.com/gag/avAxmv5)
+ - 🚯 [It&#39;s a secret](http://9gag.com/gag/aDDbP1B)<!-- MEMES:END -->
 
 --- 
 
