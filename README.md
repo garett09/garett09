@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The long ladder in Metal Gear Solid 3: Snake Eater is great and all, but here’s how to skip it](https://www.polygon.com/23022623/metal-gear-solid-3-snake-eater-ladder-scene-glitch)
- - [Tony Hawk remake studio Vicarious Visions officially drops its name, merges with Blizzard](https://www.polygon.com/23022627/vicarious-visions-merged-blizzard-entertainment-albany)
- - [The Best Video Game Sale Of The Season Is Actually On 3DS](https://kotaku.com/spring-game-sale-atlus-sega-3ds-persona-smt-etrian-odys-1848785029)<!-- GAME:END -->
+ - [13 of the best horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
+ - [ASRock Z690 Aqua gaming motherboard review](https://www.pcgamer.com/asrock-z690-aqua-gaming-motherboard-review)
+ - [Jojo’s Bizarre Adventure has inspired thousands of TikTok thirst traps](https://www.polygon.com/23022024/jojos-bizarre-adventure-tiktok-jojo-no-kimyou-na-bouken-eyes-of-heaven)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
