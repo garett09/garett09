@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spy x Family makes parenthood the real impossible mission](https://www.polygon.com/23020978/spy-x-family-series-premiere-review)
- - [The unseen art of invisibility in games](https://www.pcgamer.com/the-unseen-art-of-invisibility-in-games)
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)<!-- GAME:END -->
+ - [Sonic 2 director on creating a ‘fully realized, fully dimensional’ Knuckles](https://www.polygon.com/23021865/sonic-2-knuckles-director-interview)
+ - [Another PlayStation ‘Console Exclusive’ Comes To Xbox](https://kotaku.com/bugsnax-isle-of-bigsnax-ps4-ps5-xbox-one-xbox-series-xs-1848782847)
+ - [Panzer Corps 2 Available Today with PC Game Pass](https://news.xbox.com/en-us/2022/04/12/panzer-corps-2-available-today-with-pc-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
