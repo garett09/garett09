@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kubit, which helps track and analyze user engagement data, raises an $18M Series A led by Insight Partners, bringing its total capital raised to $24M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220412/p26#a220412p26)
- - [Apple TV+ lands new untitled comedy starring Noel Fielding](https://appleinsider.com/articles/22/04/12/apple-tv-lands-new-untitled-comedy-starring-noel-fielding?utm_medium=rss)
- - [Major iPhone manufacturer Pegatron, Mac manufacturer Quanta, and iPad maker Compal suspend factory operations near Shanghai amid strict COVID-19 measures &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220412/p25#a220412p25)<!-- TECH:END -->
+ - [Apple won&#39;t be heavily impacted by supplier factory closures, analyst says](https://appleinsider.com/articles/22/04/12/apple-wont-be-heavily-impacted-by-supplier-factory-closures-analyst-says?utm_medium=rss)
+ - [Nomad Base One Max review: Magnetic chargers for your iPhone &amp; Apple Watch](https://appleinsider.com/articles/22/04/12/nomad-base-one-max-review-magnetic-chargers-for-your-iphone-apple-watch?utm_medium=rss)
+ - [Nomad’s Base One Max adds an Apple Watch stand to its fancy MagSafe wireless charging pad](https://www.theverge.com/2022/4/12/23020947/nomad-base-one-max-magsafe-wireless-charger-apple-watch-price-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
