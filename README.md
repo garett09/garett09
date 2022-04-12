@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s go back to 1978 at Long beach circuit with Cosworth 3.0L V8 soundtrack](http://9gag.com/gag/a91mBQW)
- - 🚯 [Save money buying season tickets . what a nice position](http://9gag.com/gag/arnxd17)
- - 🚯 [Shouldn&#39;t it be the other way around though?](http://9gag.com/gag/aNPB3GG)<!-- MEMES:END -->
+ - 🚖 [Four hero firefighters chased down brute on a bike after he punches 60yrs old woman on Brooklyn street](http://9gag.com/gag/aRrvDgA)
+ - 🚯 [It&#39;s a secret](http://9gag.com/gag/aDDbP1B)
+ - 🚯 [Mindless smooth brain Chinese people and how they react to little bit of Covid.](http://9gag.com/gag/apgxdVB)<!-- MEMES:END -->
 
 --- 
 
