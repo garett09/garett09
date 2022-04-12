@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save money buying season tickets . what a nice position](http://9gag.com/gag/arnxd17)
- - 🚯 [The uncorking of the cork oaks.](http://9gag.com/gag/angxVzq)
- - 🚯 [Damn I love Shaq](http://9gag.com/gag/angxV1L)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s go back to 1978 at Long beach circuit with Cosworth 3.0L V8 soundtrack](http://9gag.com/gag/a91mBQW)
+ - 🚯 [Save money buying season tickets . what a nice position](http://9gag.com/gag/arnxd17)
+ - 🚯 [Shouldn&#39;t it be the other way around though?](http://9gag.com/gag/aNPB3GG)<!-- MEMES:END -->
 
 --- 
 
