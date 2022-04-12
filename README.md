@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [YouTube outage blanks out the sidebar, causes problems on TVs and game consoles](https://www.theverge.com/2022/4/12/23022541/youtube-sidebar-outage-settings-account-switch-sign-in)
- - [Cryptocurrency lender Celsius, recently valued at ~$3B, says only accredited US investors will be able to add new assets and earn rewards starting April 15 &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220412/p37#a220412p37)<!-- TECH:END -->
+ - [How to play music in Discord](https://www.androidauthority.com/play-music-discord-3150140/)
+ - [42% off the Netgear Nighthawk Pro Gaming XR500, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
