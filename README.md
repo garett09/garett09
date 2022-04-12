@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things season 4 is invoking one of D&amp;D’s most powerful villains](https://www.polygon.com/23022190/stranger-things-season-4-vecna-dnd-critical-role)
- - [Deus Ex art director reveals new game about the horrors of humanity](https://www.pcgamer.com/deus-ex-art-director-reveals-new-game-about-the-horrors-of-humanity)
- - [Yes, the directors of Everything Everywhere All At Once are trying to destroy your brain](https://www.polygon.com/23021092/everything-everywhere-interview-daniel-kwan-daniel-scheinert-daniels)<!-- GAME:END -->
+ - [Do you know what the best mount in Elden Ring is? A motorbike](https://www.polygon.com/23022451/elden-ring-trials-rising-motorcyle-bmx)
+ - [Mythforce is a cartoony, surprisingly tough co-op roguelite from RPG veterans](https://www.pcgamer.com/mythforce-is-a-cartoony-surprisingly-tough-co-op-roguelite-from-rpg-veterans)
+ - [Microsoft recruits Certain Affinity to help with Halo Infinite](https://www.polygon.com/23022254/halo-infinite-certain-affinity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
