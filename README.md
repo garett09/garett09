@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iMovie update adds new features to help you create videos more quickly](https://www.theverge.com/2022/4/12/23022253/apple-imovie-3-0-update-storyboards-templates-magic-movie)
- - [Apple releases three new Beats Studio Buds colors](https://appleinsider.com/articles/22/04/12/apple-releases-three-new-beats-studio-buds-colors?utm_medium=rss)
- - [Collapsed Amazon warehouse had construction defects, says family of slain worker](https://www.theverge.com/2022/4/12/23021839/amazon-warehouse-tornado-collapsed-construction-defects-slain-worker)<!-- TECH:END -->
+ - [Data.ai: TikTok users spent $847M on in-app payments from January through March, up 184% YoY, a record for an app; TikTok had 1.6B MAUs at the end of March &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/220412/p32#a220412p32)
+ - [Unlimited Google Photos storage is back, with one big caveat](https://www.androidauthority.com/unlimited-google-photos-t-mobile-3152333/)
+ - [How to open an eBay business account](https://www.androidauthority.com/open-ebay-business-account-3152275/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
