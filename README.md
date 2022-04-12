@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you know what the best mount in Elden Ring is? A motorbike](https://www.polygon.com/23022451/elden-ring-trials-rising-motorcyle-bmx)
- - [Mythforce is a cartoony, surprisingly tough co-op roguelite from RPG veterans](https://www.pcgamer.com/mythforce-is-a-cartoony-surprisingly-tough-co-op-roguelite-from-rpg-veterans)
- - [Microsoft recruits Certain Affinity to help with Halo Infinite](https://www.polygon.com/23022254/halo-infinite-certain-affinity)<!-- GAME:END -->
+ - [American Truck Simulator returns to its roots in the upcoming Montana expansion](https://www.pcgamer.com/american-truck-simulator-returns-to-its-roots-in-the-upcoming-montana-expansion)
+ - [Someone Found A Way To Skip Metal Gear Solid 3’s Iconic Ladder Climb](https://kotaku.com/metal-gear-solid-3-snake-eater-ladder-skip-bug-speedrun-1848784803)
+ - [Make babies, exhume corpses, and fight cows in Sokpop&#39;s village-building card game](https://www.pcgamer.com/make-babies-exhume-corpses-and-fight-cows-in-sokpops-village-building-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
