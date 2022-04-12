@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lectric XP Lite folding e-bike costs just $799](https://www.theverge.com/2022/4/12/23021623/cheap-folding-ebike-price-specs-date)
- - [New Mac mini reference spotted in Studio Display firmware](https://appleinsider.com/articles/22/04/12/new-mac-mini-reference-spotted-in-studio-display-firmware?utm_medium=rss)
- - [Leaked images show Apple&#39;s dual USB-C charger](https://appleinsider.com/articles/22/04/12/leaked-images-show-apples-dual-usb-c-charger?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4: What we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-4-3149752/)
+ - [The Great Paradox of Cryptocurrency](https://www.wired.com/story/the-great-paradox-of-cryptocurrency)
+ - [The Firewalla Purple Helps Control and Secure Your Home Network](https://www.wired.com/review/firewalla-purple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
