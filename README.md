@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [American Truck Simulator returns to its roots in the upcoming Montana expansion](https://www.pcgamer.com/american-truck-simulator-returns-to-its-roots-in-the-upcoming-montana-expansion)
- - [Someone Found A Way To Skip Metal Gear Solid 3’s Iconic Ladder Climb](https://kotaku.com/metal-gear-solid-3-snake-eater-ladder-skip-bug-speedrun-1848784803)
- - [Make babies, exhume corpses, and fight cows in Sokpop&#39;s village-building card game](https://www.pcgamer.com/make-babies-exhume-corpses-and-fight-cows-in-sokpops-village-building-card-game)<!-- GAME:END -->
+ - [The long ladder in Metal Gear Solid 3: Snake Eater is great and all, but here’s how to skip it](https://www.polygon.com/23022623/metal-gear-solid-3-snake-eater-ladder-scene-glitch)
+ - [Tony Hawk remake studio Vicarious Visions officially drops its name, merges with Blizzard](https://www.polygon.com/23022627/vicarious-visions-merged-blizzard-entertainment-albany)
+ - [The Best Video Game Sale Of The Season Is Actually On 3DS](https://kotaku.com/spring-game-sale-atlus-sega-3ds-persona-smt-etrian-odys-1848785029)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
