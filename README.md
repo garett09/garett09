@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It takes skill to manually guide a SACLOS anti-tank guided missile and hit a BMP on full-speed](http://9gag.com/gag/aogx8Bw)
- - 🚯 [It&#39;s never too late to admit that urban freeways are a mistake that can be corrected.](http://9gag.com/gag/a719nXq)
- - 🚯 [Saeid Mohammadpourkarkaragh](http://9gag.com/gag/aGzG7ZZ)<!-- MEMES:END -->
+ - 🚖 [It&#39;s never too late to admit that urban freeways are a mistake that can be corrected.](http://9gag.com/gag/a719nXq)
+ - 🚯 [The uncorking of the cork oaks.](http://9gag.com/gag/angxVzq)
+ - 🚯 [The night visitor](http://9gag.com/gag/aVxZRzn)<!-- MEMES:END -->
 
 --- 
 
