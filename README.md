@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope u can read..](http://9gag.com/gag/aBnEoeO)
- - 🚯 [After all these years this scene still never fail to crack me up.](http://9gag.com/gag/aBnEv8P)
- - 🚯 [Blueprint for how a family of four can grow their own food on a quarter acre](http://9gag.com/gag/angxdyB)<!-- MEMES:END -->
+ - 🚖 [The old reliable one](http://9gag.com/gag/aRrvyxj)
+ - 🚯 [Blueprint for how a family of four can grow their own food on a quarter acre](http://9gag.com/gag/angxdyB)
+ - 🚯 [Mom,Dad.. It was great knowing you all..](http://9gag.com/gag/aZrEdz6)<!-- MEMES:END -->
 
 --- 
 
