@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope u can read...](http://9gag.com/gag/aPZepKP)
- - 🚯 [Best boi crossed the rainbow Bridge today. Very sudden, had a seizure right in front of me and passed in not 30 seconds... show some support for a field Marshall and go hug your dogs, I wish I could. This is the last picture I have of him.](http://9gag.com/gag/avAxmv5)
- - 🚯 [It&#39;s a secret](http://9gag.com/gag/aDDbP1B)<!-- MEMES:END -->
+ - 🚖 [Evolution](http://9gag.com/gag/aGzGop0)
+ - 🚯 [A package that was sent by the Chinese embassy to some government ministries in Israel was checked as usual - and a suspected component was found to be an eavesdropping device.](http://9gag.com/gag/azeOB6Z)
+ - 🚯 [After all these years this scene still never fail to crack me up.](http://9gag.com/gag/aBnEv8P)<!-- MEMES:END -->
 
 --- 
 
