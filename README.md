@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking a vacation in Far Cry 2 is easier said than done](https://www.pcgamer.com/taking-a-vacation-in-far-cry-2-is-easier-said-than-done)
- - [Today&#39;s Wordle answer #297: Tuesday, April 12](https://www.pcgamer.com/wordle-april-12-297)
- - [Why Elden Ring&#39;s Torrent Keeps Getting You Killed](https://kotaku.com/elden-ring-torrent-fall-double-jump-bug-glitch-npc-heal-1848781237)<!-- GAME:END -->
+ - [Bugsnax but big? The Isle of Bigsnax drops on April 28](https://blog.playstation.com/2022/04/12/bugsnax-but-big-the-isle-of-bigsnax-drops-on-april-28/)
+ - [Bugsnax but big? The Isle of Bigsnax drops on April 28](https://blog.playstation.com/2022/04/12/bugsnax-but-big-the-isle-of-bigsnax-drops-on-april-28/)
+ - [Bugsnax Available April 28 with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/04/12/bugsnax-available-april-28-with-xbox-game-pass-and-pc-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
