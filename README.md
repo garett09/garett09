@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just got here](http://9gag.com/gag/aVxZ9E2)
- - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)
- - 🚯 [Japanese mending at different level called `Kaketsugi`](http://9gag.com/gag/aYrMZb2)<!-- MEMES:END -->
+ - 🚖 [Clown world has crossed the ocean and reached Australia](http://9gag.com/gag/aogxA20)
+ - 🚯 [Shanghai police educate a chicken](http://9gag.com/gag/aGzG6jK)
+ - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)<!-- MEMES:END -->
 
 --- 
 
