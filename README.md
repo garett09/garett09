@@ -198,8 +198,8 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&#39;s never too late to admit that urban freeways are a mistake that can be corrected.](http://9gag.com/gag/a719nXq)
- - 🚯 [The uncorking of the cork oaks.](http://9gag.com/gag/angxVzq)
- - 🚯 [The night visitor](http://9gag.com/gag/aVxZRzn)<!-- MEMES:END -->
+ - 🚯 [The moves to woo the ladies](http://9gag.com/gag/aBnE4jA)
+ - 🚯 [Shouldn&#39;t it be the other way around though?](http://9gag.com/gag/aNPB3GG)<!-- MEMES:END -->
 
 --- 
 
