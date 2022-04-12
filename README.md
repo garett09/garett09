@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bugsnax but big? The Isle of Bigsnax drops on April 28](https://blog.playstation.com/2022/04/12/bugsnax-but-big-the-isle-of-bigsnax-drops-on-april-28/)
- - [Bugsnax but big? The Isle of Bigsnax drops on April 28](https://blog.playstation.com/2022/04/12/bugsnax-but-big-the-isle-of-bigsnax-drops-on-april-28/)
- - [Bugsnax Available April 28 with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/04/12/bugsnax-available-april-28-with-xbox-game-pass-and-pc-game-pass/)<!-- GAME:END -->
+ - [Stranger Things season 4 trailer introduces a new Upside Down enemy](https://www.polygon.com/stranger-things/23020918/stranger-things-season-4-trailer-netflix-release-date-eleven-hopper)
+ - [Nobody’s road is the same in Road 96, out on PS5 &amp; PS4 April 14](https://blog.playstation.com/2022/04/12/nobodys-road-is-the-same-in-road-96-out-on-ps5-ps4-april-14/)
+ - [Nobody’s road is the same in Road 96, out on PS5 &amp; PS4 April 14](https://blog.playstation.com/2022/04/12/nobodys-road-is-the-same-in-road-96-out-on-ps5-ps4-april-14/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
