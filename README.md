@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A proud father](http://9gag.com/gag/aQXmD4w)
- - 🚯 [Which country?](http://9gag.com/gag/a7196gr)
- - 🚯 [Such an awesome guy](http://9gag.com/gag/adgxrXd)<!-- MEMES:END -->
+ - 🚖 [I just got here](http://9gag.com/gag/aVxZ9E2)
+ - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)
+ - 🚯 [Japanese mending at different level called `Kaketsugi`](http://9gag.com/gag/aYrMZb2)<!-- MEMES:END -->
 
 --- 
 
