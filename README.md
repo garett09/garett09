@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data.ai: TikTok users spent $847M on in-app payments from January through March, up 184% YoY, a record for an app; TikTok had 1.6B MAUs at the end of March &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/220412/p32#a220412p32)
- - [Unlimited Google Photos storage is back, with one big caveat](https://www.androidauthority.com/unlimited-google-photos-t-mobile-3152333/)
- - [How to open an eBay business account](https://www.androidauthority.com/open-ebay-business-account-3152275/)<!-- TECH:END -->
+ - [Maya Rudolph comedy &#39;Loot&#39; lands on Apple TV+ June 24](https://appleinsider.com/articles/22/04/12/maya-rudolph-comedy-loot-lands-on-apple-tv-june-24?utm_medium=rss)
+ - [Final Cut Pro update brings real-world performance improvements to Mac Studio](https://appleinsider.com/articles/22/04/12/final-cut-pro-update-brings-real-world-performance-improvements-to-mac-studio?utm_medium=rss)
+ - [Persona 5’s incredible soundtrack gets the tribute it deserves in a new EP](https://www.theverge.com/2022/4/12/23022322/mementos-sessions-music-persona-5-ep-album-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
