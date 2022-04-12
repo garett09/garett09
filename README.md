@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom,Dad.. It was great knowing you all..](http://9gag.com/gag/aZrEdz6)
- - 🚯 [Which country?](http://9gag.com/gag/a7196gr)
- - 🚯 [The fact that Boris Johnson wore a stab vest in Merseyside but went for a navy suit in war torn Ukraine is quite frankly hilarious](http://9gag.com/gag/aAGMNKg)<!-- MEMES:END -->
+ - 🚖 [Such an awesome guy](http://9gag.com/gag/adgxrXd)
+ - 🚯 [But why is the villain dark skin tho?](http://9gag.com/gag/a91mV3D)
+ - 🚯 [Hope u can read...](http://9gag.com/gag/aPZepKP)<!-- MEMES:END -->
 
 --- 
 
