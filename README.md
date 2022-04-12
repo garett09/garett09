@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does you Pixel 6 sound different? It may be a bug](https://www.androidauthority.com/google-pixel-ringtone-bug-3151955/)
- - [How to know if someone blocked you on Discord](https://www.androidauthority.com/did-someone-block-you-discord-3150537/)
- - [Some business customers say Microsoft&#39;s licensing rules make it harder and costlier to run Windows and Office on rival cloud platforms like AWS and Google Cloud &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220411/p31#a220411p31)<!-- TECH:END -->
+ - [Google is hounding a guy who used its services to run an evil puppy scam](https://www.androidauthority.com/google-puppy-fraud-3151958/)
+ - [FTC Chair Pushes Privacy Rules; Calls for Limits on Data Collection     - CNET](https://www.cnet.com/news/privacy/ftc-chair-pushes-privacy-rules-calls-for-limits-on-data-collection/#ftag=CAD590a51e)
+ - [Okta, IBM, and other companies are increasingly setting aside college degree requirements for US job applicants, opening up tech jobs to a range of new talent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220412/p1#a220412p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
