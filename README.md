@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world has crossed the ocean and reached Australia](http://9gag.com/gag/aogxA20)
- - 🚯 [Shanghai police educate a chicken](http://9gag.com/gag/aGzG6jK)
- - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)<!-- MEMES:END -->
+ - 🚖 [Shanghai police educate a chicken](http://9gag.com/gag/aGzG6jK)
+ - 🚯 [A robot dog patrols the empty streets of Shanghai in China with a loudspeaker as a reminder of sanitary measures.](http://9gag.com/gag/angxW85)
+ - 🚯 [NY Subway right now](http://9gag.com/gag/azeOvgq)<!-- MEMES:END -->
 
 --- 
 
