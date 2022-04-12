@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wouldn&#39;t change it for any other job](http://9gag.com/gag/aegx7zq)
- - 🚯 [The moves to woo the ladies](http://9gag.com/gag/aBnE4jA)
+ - 🚖 [Bless them!](http://9gag.com/gag/a91mOjD)
+ - 🚯 [Saeid Mohammadpourkarkaragh](http://9gag.com/gag/aGzG7ZZ)
  - 🚯 [When can I claim the one ring?](http://9gag.com/gag/aBnEPqP)<!-- MEMES:END -->
 
 --- 
