@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How hospitals are adopting AI-driven predictive models to help identify and prioritize patients in ERs and ICUs who are most at risk &lpar;Laura Landro/Wall Street Journal&rpar;](http://www.techmeme.com/220411/p29#a220411p29)
- - [Netflix: The 47 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-tv-shows-to-binge-now/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: TikTok&#39;s ad revenue is projected to triple in 2022 to $11B+, surpassing Twitter and Snapchat combined, which are expected to generate $5.58B and $4.86B &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/220411/p30#a220411p30)
+ - [Best Tax Software for 2022: TurboTax, H&amp;R Block, Cash App Taxes, Plus Late-Filer Deals and Discounts     - CNET](https://www.cnet.com/personal-finance/taxes/best-tax-software/#ftag=CAD590a51e)
+ - [How to view game captures on the PlayStation app](https://www.androidauthority.com/view-ps5-game-captures-playstation-app-3151902/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
