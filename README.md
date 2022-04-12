@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im stealing the toilet buttons](http://9gag.com/gag/aWgodRZ)
- - 🚯 [Clown world has crossed the ocean and reached Australia](http://9gag.com/gag/aogxA20)
- - 🚯 [Such an awesome guy](http://9gag.com/gag/adgxrXd)<!-- MEMES:END -->
+ - 🚖 [In her defense, it&#39;s a very popular topic](http://9gag.com/gag/aqGxpDQ)
+ - 🚯 [Mindless smooth brain Chinese people and how they react to little bit of Covid.](http://9gag.com/gag/apgxdVB)
+ - 🚯 [Muhahah](http://9gag.com/gag/aVxZ1gn)<!-- MEMES:END -->
 
 --- 
 
