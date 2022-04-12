@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shanghai police educate a chicken](http://9gag.com/gag/aGzG6jK)
- - 🚯 [A robot dog patrols the empty streets of Shanghai in China with a loudspeaker as a reminder of sanitary measures.](http://9gag.com/gag/angxW85)
- - 🚯 [NY Subway right now](http://9gag.com/gag/azeOvgq)<!-- MEMES:END -->
+ - 🚖 [A robot dog patrols the empty streets of Shanghai in China with a loudspeaker as a reminder of sanitary measures.](http://9gag.com/gag/angxW85)
+ - 🚯 [NY Subway right now](http://9gag.com/gag/azeOvgq)
+ - 🚯 [This is a Phalanx CIWS, an autocannon used to destroy incoming missiles, drones, and aircraft. It is nicknamed R2-D2 because of its shape. It has an ammunition capacity of 15500 rounds and a rate of fire of 4,500 rounds per minute. The cost? $5.6 million.](http://9gag.com/gag/azeOzLN)<!-- MEMES:END -->
 
 --- 
 
