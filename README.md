@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evolution](http://9gag.com/gag/aGzGop0)
- - 🚯 [A package that was sent by the Chinese embassy to some government ministries in Israel was checked as usual - and a suspected component was found to be an eavesdropping device.](http://9gag.com/gag/azeOB6Z)
- - 🚯 [After all these years this scene still never fail to crack me up.](http://9gag.com/gag/aBnEv8P)<!-- MEMES:END -->
+ - 🚖 [Hope u can read..](http://9gag.com/gag/aBnEoeO)
+ - 🚯 [After all these years this scene still never fail to crack me up.](http://9gag.com/gag/aBnEv8P)
+ - 🚯 [Blueprint for how a family of four can grow their own food on a quarter acre](http://9gag.com/gag/angxdyB)<!-- MEMES:END -->
 
 --- 
 
