@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critical Start, a managed detection and response service for enterprises, raises $215M from Vista Equity Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220412/p15#a220412p15)
- - [You can now buy an $800 gaming phone in the US with some great specs](https://www.androidauthority.com/red-magic-7-pro-3152005/)
- - [Therabody launches a massage gun for your face](https://www.theverge.com/2022/4/12/23020395/theraface-pro-massage-gun-facial-microcurrent)<!-- TECH:END -->
+ - [Circle, which maintains the USDC stablecoin, raises $400M from BlackRock, Fidelity, and others, after raising $440M in May 2021 &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220412/p18#a220412p18)
+ - [Apple Watch won&#39;t gain blood pressure sensor until at least 2024](https://appleinsider.com/articles/22/04/12/apple-watch-wont-gain-blood-pressure-sensor-until-at-least-2024?utm_medium=rss)
+ - [How the Battle Over a Pesticide Led to Scientific Skepticism](https://www.wired.com/story/ddt-battle-scientific-skepticism)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
