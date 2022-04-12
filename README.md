@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit receives FDA clearance for passive heart rhythm monitoring to detect signs of atrial fibrillation &lpar;AFib&rpar; and will roll out the feature in the US soon &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220412/p5#a220412p5)
- - [Netflix now lets you give two thumbs up for stuff you really like](https://www.androidauthority.com/netflix-two-thumbs-up-3151352/)
- - [Voyager Innovations, owner of popular Filipino financial app PayMaya and neobank Maya Bank, raises $210M led by SIG Venture Capital at a $1.4B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220412/p4#a220412p4)<!-- TECH:END -->
+ - [Filing: Meta spent $26.8M on Mark Zuckerberg&#39;s security in 2021, up 6% from 2020, far above other execs, such as Sundar Pichai &lpar;$4.3M&rpar; and Jeff Bezos &lpar;$1.6M&rpar; &lpar;Jill R Shah/Bloomberg&rpar;](http://www.techmeme.com/220412/p9#a220412p9)
+ - [The Biden administration gives a green light to a fuel that could be even dirtier than regular gas](https://www.theverge.com/2022/4/12/23021146/biden-administration-ethanol-e15-gas-prices)
+ - [Berlin-based Choco, which makes ordering tools for restaurants and suppliers, raises a $111M Series B2 at a $1.2B valuation, bringing its funding to $282.5M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220412/p8#a220412p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
