@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is rolling out Effect House, which lets creators make AR effects that others can use in videos, to all users after a closed beta test last fall &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220412/p29#a220412p29)
- - [How to flip your monitor from landscape to portrait](https://www.theverge.com/23013469/monitor-display-flip-portrait-landscape-mode-how-to)
- - [Adobe After Effects gains native M1 support, Frame.io now part of Creative Cloud](https://appleinsider.com/articles/22/04/12/adobe-after-effects-gains-native-m1-support-frameio-now-part-of-creative-cloud?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s latest iMovie update adds new features to help you create videos more quickly](https://www.theverge.com/2022/4/12/23022253/apple-imovie-3-0-update-storyboards-templates-magic-movie)
+ - [Apple releases three new Beats Studio Buds colors](https://appleinsider.com/articles/22/04/12/apple-releases-three-new-beats-studio-buds-colors?utm_medium=rss)
+ - [Collapsed Amazon warehouse had construction defects, says family of slain worker](https://www.theverge.com/2022/4/12/23021839/amazon-warehouse-tornado-collapsed-construction-defects-slain-worker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
