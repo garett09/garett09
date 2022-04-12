@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle, which maintains the USDC stablecoin, raises $400M from BlackRock, Fidelity, and others, after raising $440M in May 2021 &lpar;Zack Seward/CoinDesk&rpar;](http://www.techmeme.com/220412/p18#a220412p18)
- - [Apple Watch won&#39;t gain blood pressure sensor until at least 2024](https://appleinsider.com/articles/22/04/12/apple-watch-wont-gain-blood-pressure-sensor-until-at-least-2024?utm_medium=rss)
- - [How the Battle Over a Pesticide Led to Scientific Skepticism](https://www.wired.com/story/ddt-battle-scientific-skepticism)<!-- TECH:END -->
+ - [DuckDuckGo launches standalone web browser for Mac in beta](https://appleinsider.com/articles/22/04/12/duckduckgo-launches-standalone-web-browser-for-mac-in-beta?utm_medium=rss)
+ - [Tim Cook rails against bad privacy regulation &amp; sideloading in keynote speech](https://appleinsider.com/articles/22/04/12/tim-cook-rails-against-bad-privacy-regulation-sideloading-in-keynote-speech?utm_medium=rss)
+ - [It’s hard to believe Samsung’s new, matte The Frame is actually a TV](https://www.theverge.com/2022/4/4/23009799/samsung-the-frame-2022-preview-matte-display-artwork)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
