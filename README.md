@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is hounding a guy who used its services to run an evil puppy scam](https://www.androidauthority.com/google-puppy-fraud-3151958/)
- - [FTC Chair Pushes Privacy Rules; Calls for Limits on Data Collection     - CNET](https://www.cnet.com/news/privacy/ftc-chair-pushes-privacy-rules-calls-for-limits-on-data-collection/#ftag=CAD590a51e)
- - [Okta, IBM, and other companies are increasingly setting aside college degree requirements for US job applicants, opening up tech jobs to a range of new talent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220412/p1#a220412p1)<!-- TECH:END -->
+ - [Voyager Innovations, owner of popular Filipino financial app PayMaya and neobank Maya Bank, raises $210M led by SIG Venture Capital at a $1.4B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220412/p4#a220412p4)
+ - [OnePlus 10R specs leaked: A Realme in disguise &lpar;Updated: SoC confirmed&rpar;](https://www.androidauthority.com/oneplus-10r-specs-3145056/)
+ - [Educators say esports infrastructure company PlayVS is misrepresenting itself as the exclusive provider of interscholastic high school esports for some games &lpar;Teddy Amenabar/Washington Post&rpar;](http://www.techmeme.com/220412/p3#a220412p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
