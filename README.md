@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In her defense, it&#39;s a very popular topic](http://9gag.com/gag/aqGxpDQ)
- - 🚯 [Mindless smooth brain Chinese people and how they react to little bit of Covid.](http://9gag.com/gag/apgxdVB)
- - 🚯 [Muhahah](http://9gag.com/gag/aVxZ1gn)<!-- MEMES:END -->
+ - 🚖 [A proud father](http://9gag.com/gag/aQXmD4w)
+ - 🚯 [Which country?](http://9gag.com/gag/a7196gr)
+ - 🚯 [Such an awesome guy](http://9gag.com/gag/adgxrXd)<!-- MEMES:END -->
 
 --- 
 
