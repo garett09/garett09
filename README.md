@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Speedrunner Kills Toughest Bosses With Only His Ass](https://kotaku.com/elden-ring-speedrunner-bosses-ground-slam-malenia-margi-1848783561)
- - [13 Sentinels is a masterpiece and it’s even better on Switch](https://www.polygon.com/reviews/23020989/13-sentinels-aegis-rim-switch-review)
- - [Back 4 Blood’s First Expansion, Tunnels of Terror, Available Today](https://news.xbox.com/en-us/2022/04/12/back-4-bloods-first-expansion-tunnels-of-terror-available-today/)<!-- GAME:END -->
+ - [Stranger Things season 4 is invoking one of D&amp;D’s most powerful villains](https://www.polygon.com/23022190/stranger-things-season-4-vecna-dnd-critical-role)
+ - [Deus Ex art director reveals new game about the horrors of humanity](https://www.pcgamer.com/deus-ex-art-director-reveals-new-game-about-the-horrors-of-humanity)
+ - [Yes, the directors of Everything Everywhere All At Once are trying to destroy your brain](https://www.polygon.com/23021092/everything-everywhere-interview-daniel-kwan-daniel-scheinert-daniels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
