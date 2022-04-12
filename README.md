@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking a vacation in Far Cry 2 is easier said than done](https://www.pcgamer.com/taking-a-vacation-in-far-cry-2-is-easier-said-than-done)
- - [Today&#39;s Wordle answer #297: Tuesday, April 12](https://www.pcgamer.com/wordle-april-12-297)
- - [Why Elden Ring&#39;s Torrent Keeps Getting You Killed](https://kotaku.com/elden-ring-torrent-fall-double-jump-bug-glitch-npc-heal-1848781237)<!-- GAME:END -->
+ - [Test your Final Fantasy 14 music knowledge with this Heardle spinoff](https://www.pcgamer.com/test-your-final-fantasy-14-music-knowledge-with-this-heardle-spinoff)
+ - [Randy Pitchford buys the Magic Castle, &#39;the most unusual private club in the world&#39;](https://www.pcgamer.com/randy-pitchford-buys-the-magic-castle-the-most-unusual-private-club-in-the-world)
+ - [Taking a vacation in Far Cry 2 is easier said than done](https://www.pcgamer.com/taking-a-vacation-in-far-cry-2-is-easier-said-than-done)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
