@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voyager Innovations, owner of popular Filipino financial app PayMaya and neobank Maya Bank, raises $210M led by SIG Venture Capital at a $1.4B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220412/p4#a220412p4)
- - [OnePlus 10R specs leaked: A Realme in disguise &lpar;Updated: SoC confirmed&rpar;](https://www.androidauthority.com/oneplus-10r-specs-3145056/)
- - [Educators say esports infrastructure company PlayVS is misrepresenting itself as the exclusive provider of interscholastic high school esports for some games &lpar;Teddy Amenabar/Washington Post&rpar;](http://www.techmeme.com/220412/p3#a220412p3)<!-- TECH:END -->
+ - [Fitbit receives FDA clearance for passive heart rhythm monitoring to detect signs of atrial fibrillation &lpar;AFib&rpar; and will roll out the feature in the US soon &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220412/p5#a220412p5)
+ - [Netflix now lets you give two thumbs up for stuff you really like](https://www.androidauthority.com/netflix-two-thumbs-up-3151352/)
+ - [Voyager Innovations, owner of popular Filipino financial app PayMaya and neobank Maya Bank, raises $210M led by SIG Venture Capital at a $1.4B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220412/p4#a220412p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
