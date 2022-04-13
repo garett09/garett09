@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of cybersecurity companies specializing in securing US critical infrastructure form a coalition to work with the government and adopt uniform standards &lpar;Jack Gillum/Bloomberg&rpar;](http://www.techmeme.com/220413/p4#a220413p4)
  - [Samsung could reduce smartphone repair costs significantly with new initiative](https://www.androidauthority.com/samsung-recycled-repair-parts-3152563/)
- - [Ola CEO Bhavish Aggarwal is stepping away from day-to-day operations to focus more on engineering and product, CFO GR Arun Kumar will drive operations &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/220413/p3#a220413p3)
- - [MoonPay, which lets users buy crypto and NFTs with credit cards, raises $86.7M from celebs including Justin Bieber and Gwyneth Paltrow, at a $3.4B valuation &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/220413/p2#a220413p2)<!-- TECH:END -->
+ - [Ola CEO Bhavish Aggarwal is stepping away from day-to-day operations to focus more on engineering and product, CFO GR Arun Kumar will drive operations &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/220413/p3#a220413p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
