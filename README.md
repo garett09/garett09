@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Wednesday my dudes](http://9gag.com/gag/angxPPb)
- - 🚯 [This absolute unit scared off a group of hikers and then did this!](http://9gag.com/gag/amgx4XX)
- - 🚯 [Here we go again...](http://9gag.com/gag/angxPv5)<!-- MEMES:END -->
+ - 🚖 [What I ate today for 5\u20ac in a Romanian student\u2019s cafetaria](http://9gag.com/gag/a41A0Rp)
+ - 🚯 [True](http://9gag.com/gag/aBnEe71)
+ - 🚯 [AC/DC..... at home](http://9gag.com/gag/abgxNRL)<!-- MEMES:END -->
 
 --- 
 
