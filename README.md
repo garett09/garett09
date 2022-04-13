@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [MythForce, an RPG inspired by ’80s cartoons, is here for latchkey adults](https://www.polygon.com/23023513/mythforce-beamdog-release-date-trailer-announcement-gameplay)
- - [The Best Part Of Tiny Tina’s Wonderlands Is Its Endgame](https://kotaku.com/tiny-tinas-wonderlands-where-to-find-legendaries-chaos-1848785032)<!-- GAME:END -->
+ - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)
+ - [Death Stranding hits even harder in lockdown&#39;s aftermath](https://www.pcgamer.com/death-stranding-hits-even-harder-in-lockdowns-aftermath)
+ - [Dungeons &amp; Dragons owner Hasbro is buying D&amp;D Beyond, the RPG’s leading digital toolset](https://www.polygon.com/23023498/hasbro-buys-dnd-beyond-pdf-wotc-fandom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
