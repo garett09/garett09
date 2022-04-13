@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mask mandate for air travel and public transportation is extended again](https://www.theverge.com/2022/4/13/23023949/mask-mandate-air-travel-public-transportation-extend-cdc)
- - [Google Nest Hub may bring a new way to activate Assistant](https://www.androidauthority.com/nest-hub-look-and-talk-3152956/)
- - [Chinese lockdowns impacting MacBook Pro supply, iPhone SE unaffected, analyst says](https://appleinsider.com/articles/22/04/13/chinese-lockdowns-impacting-macbook-pro-supply-iphone-se-unaffected-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn your Android phone into a digital picture frame](https://www.theverge.com/23023832/android-google-photos-screen-saver-how-to)
+ - [India&#39;s payments body approves WhatsApp&#39;s plan to extend its payments service to 60M additional users in India, allowing WhatsApp Pay to reach up to 100M total &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220413/p24#a220413p24)
+ - [Ukraine says it stopped a Russian cyberattack on its power grid](https://www.theverge.com/2022/4/13/23023854/ukraine-russian-cyber-attack-power-company-substation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
