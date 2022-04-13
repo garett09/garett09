@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #298: Wednesday, April 13](https://www.pcgamer.com/wordle-april-13-298)
  - [SteelSeries releases Aerox successors to our favourite lightweight gaming mouse](https://www.pcgamer.com/steelseries-releases-aerox-successors-to-our-favourite-lightweight-gaming-mouse)
- - [Chemical Haptics could bring touch sensations like cold and heat to VR](https://www.pcgamer.com/chemical-haptics-could-bring-touch-sensations-like-cold-and-heat-to-vr)
- - [Worldwide PC shipments declined 7.3% in the first quarter of 2022](https://www.pcgamer.com/worldwide-pc-shipments-declined-73-in-the-first-quarter-of-2022)<!-- GAME:END -->
+ - [Chemical Haptics could bring touch sensations like cold and heat to VR](https://www.pcgamer.com/chemical-haptics-could-bring-touch-sensations-like-cold-and-heat-to-vr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
