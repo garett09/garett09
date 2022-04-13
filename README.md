@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid brings a Performance upgrade to its most expensive electric car](https://www.theverge.com/2022/4/12/23022720/lucid-air-grand-touring-performance-1050hp)
- - [Former Ethereum developer Virgil Griffith is sentenced to 5+ years in prison and fined $100K for helping North Koreans use cryptocurrencies to evade sanctions &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/220412/p39#a220412p39)
- - [The $750 self-transforming Optimus Prime just got a $750 transforming trailer too](https://www.theverge.com/23022777/hasbro-robosen-transforming-optimus-prime-robot-trailer)<!-- TECH:END -->
+ - [Elon Musk is facing a proposed shareholder class action that alleges Musk&#39;s delayed SEC filings disclosing his stake kept Twitter&#39;s share price artificially low &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/220412/p41#a220412p41)
+ - [WordleBot Tells You How Good You Are at Wordle     - CNET](https://www.cnet.com/culture/internet/wordlebot-tells-you-how-good-you-are-at-wordle/#ftag=CAD590a51e)
+ - [PlayStation Network experienced an outage on Tuesday](https://www.theverge.com/2022/4/12/23022843/sony-playstation-network-outage-is-down-error-store-ps5-ps4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
