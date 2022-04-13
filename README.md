@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How much more???](http://9gag.com/gag/abgxL28)
- - 🚯 [Johnny Depp&#39;s reaction to Amber&#39;s friend trying to explain the poop on his bed](http://9gag.com/gag/a51z91O)
- - 🚯 [The oppressed who also benefits from the tyranny that oppresses them.](http://9gag.com/gag/a0ZngzQ)<!-- MEMES:END -->
+ - 🚖 [Wednesday Wins](http://9gag.com/gag/aDDb9y7)
+ - 🚯 [The oppressed who also benefits from the tyranny that oppresses them.](http://9gag.com/gag/a0ZngzQ)
+ - 🚯 [Drop the food and run, grandpa.](http://9gag.com/gag/aegxznm)<!-- MEMES:END -->
 
 --- 
 
