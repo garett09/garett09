@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jumping Wednesday](http://9gag.com/gag/angxPx5)
- - 🚯 [Permission Granted](http://9gag.com/gag/a11V34w)
+ - 🚖 [Happy Wednesday my dudes](http://9gag.com/gag/angxPPb)
+ - 🚯 [This absolute unit scared off a group of hikers and then did this!](http://9gag.com/gag/amgx4XX)
  - 🚯 [Here we go again...](http://9gag.com/gag/angxPv5)<!-- MEMES:END -->
 
 --- 
