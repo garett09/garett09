@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Change your perspective](http://9gag.com/gag/aNPB5Or)
- - 🚯 [You were saying?](http://9gag.com/gag/aBnE5GQ)
- - 🚯 [Drop the food and run, grandpa.](http://9gag.com/gag/aegxznm)<!-- MEMES:END -->
+ - 🚖 [A smooth maf**ka!](http://9gag.com/gag/aegxw8q)
+ - 🚯 [Oh nooo... People are prioritizing mental health? Such blasphemy!](http://9gag.com/gag/aNPB5Z0)
+ - 🚯 [Change your perspective](http://9gag.com/gag/aNPB5Or)<!-- MEMES:END -->
 
 --- 
 
