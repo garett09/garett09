@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is facing a proposed shareholder class action that alleges Musk&#39;s delayed SEC filings disclosing his stake kept Twitter&#39;s share price artificially low &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/220412/p41#a220412p41)
- - [WordleBot Tells You How Good You Are at Wordle     - CNET](https://www.cnet.com/culture/internet/wordlebot-tells-you-how-good-you-are-at-wordle/#ftag=CAD590a51e)
- - [PlayStation Network experienced an outage on Tuesday](https://www.theverge.com/2022/4/12/23022843/sony-playstation-network-outage-is-down-error-store-ps5-ps4)<!-- TECH:END -->
+ - [Israel-based Silverfort, which provides multi-factor authentication and identity threat protection tools, raises a $65M Series C led by Greenfield Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220412/p45#a220412p45)
+ - [Trace, whose cameras automatically edit and personalize highlight videos of youth athletes, raises a $47M Series C led by Pelion at a $190M post-money valuation &lpar;Tim Casey/Forbes&rpar;](http://www.techmeme.com/220412/p44#a220412p44)
+ - [Jobox, a marketplace connecting companies with over 5,000 vetted home service professionals, emerges from stealth with a $42M Series B led by General Catalyst &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220412/p43#a220412p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
