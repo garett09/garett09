@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Go developer Niantic is making an AR pet game called Peridot](https://www.theverge.com/2022/4/13/23021722/peridot-niantic-ar-pet-game-iphone-android-pokemon-go)
- - [Save 85% on a lifetime Microsoft Office for Mac Home &amp; Business 2021 license](https://appleinsider.com/articles/22/02/15/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-for-4999-85-off-while-supplies-last?utm_medium=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [Mask mandate for air travel and public transportation is extended again](https://www.theverge.com/2022/4/13/23023949/mask-mandate-air-travel-public-transportation-extend-cdc)
+ - [Google Nest Hub may bring a new way to activate Assistant](https://www.androidauthority.com/nest-hub-look-and-talk-3152956/)
+ - [Chinese lockdowns impacting MacBook Pro supply, iPhone SE unaffected, analyst says](https://appleinsider.com/articles/22/04/13/chinese-lockdowns-impacting-macbook-pro-supply-iphone-se-unaffected-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
