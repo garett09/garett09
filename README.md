@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What I ate today for 5\u20ac in a Romanian student\u2019s cafetaria](http://9gag.com/gag/a41A0Rp)
- - 🚯 [True](http://9gag.com/gag/aBnEe71)
- - 🚯 [AC/DC..... at home](http://9gag.com/gag/abgxNRL)<!-- MEMES:END -->
+ - 🚖 [For the protocol](http://9gag.com/gag/aYrM37w)
+ - 🚯 [In 1984, Jeff Doucet kidnapped and sexually abused 11-year-old Jody Plauch\u00e9. As Doucet is escorted through the Baton Rouge airport he is shot and killed by Leon Plauche, the father of Doucet&#39;s victim Jody.](http://9gag.com/gag/azeOnmN)
+ - 🚯 [Permission Granted](http://9gag.com/gag/a11V34w)<!-- MEMES:END -->
 
 --- 
 
