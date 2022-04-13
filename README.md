@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s ban on Chinese apps, including TikTok, has allowed homegrown short-video apps like Josh to thrive; Josh has 150M+ MAUs and a $5B valuation as of April &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220413/p31#a220413p31)
- - [Kia’s all-new 2023 Niro EV is practical by design](https://www.theverge.com/2022/4/13/23024244/kia-2023-niro-ev-new-york-international-auto-show)
- - [Mercedes-Benz Vision EQXX concept car traveled over 1,000 km on a single charge](https://www.theverge.com/2022/4/13/23024041/mercedes-benz-vision-eqxx-ev-distance-battery-charge-test)<!-- TECH:END -->
+ - [After the pandemic forced employees to work from home, some neurodivergent people are thriving at remote cybersecurity jobs &lpar;Nicolle Liu/Wall Street Journal&rpar;](http://www.techmeme.com/220413/p32#a220413p32)
+ - [How to check PS5 downloads on the PS app](https://www.androidauthority.com/check-downloads-ps-app-ps5-3153149/)
+ - [Android overheating issues are widespread and likely to get worse](https://www.androidauthority.com/overheating-phone-issues-3153111/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
