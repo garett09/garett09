@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Link to her story in comments](http://9gag.com/gag/a91mw51)
- - 🚯 [She has my vote](http://9gag.com/gag/aBnEMqO)
- - 🚯 [Its polite, right?](http://9gag.com/gag/apgx75W)<!-- MEMES:END -->
+ - 🚖 [How much more???](http://9gag.com/gag/abgxL28)
+ - 🚯 [Johnny Depp&#39;s reaction to Amber&#39;s friend trying to explain the poop on his bed](http://9gag.com/gag/a51z91O)
+ - 🚯 [The oppressed who also benefits from the tyranny that oppresses them.](http://9gag.com/gag/a0ZngzQ)<!-- MEMES:END -->
 
 --- 
 
