@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic has a new season with a robot nemesis](https://www.polygon.com/23022672/deep-rock-galactic-season-2-rival-escalation-details-weapons-nemesis)
- - [Witcher 3 ‘next-gen’ update postponed indefinitely](https://www.polygon.com/23023870/witcher-3-ps5-xbox-series-x-update-release-date-delay)
- - [Report: California Governor Gavin Newsom Accused Of Interfering In Activision Lawsuit](https://kotaku.com/activision-blizzard-gavin-newsom-california-governor-df-1848788866)<!-- GAME:END -->
+ - [Lego Star Wars: The Skywalker Saga: 64 Easter eggs and obscure references](https://www.polygon.com/gaming/23023530/lego-star-wars-the-skywalker-saga-easter-eggs-references-collectibles)
+ - [The Worst Enemies In Elden Ring&#39;s Raya Lucaria Academy](https://kotaku.com/elden-ring-worst-enemies-raya-lucaria-sorcerers-fromsof-1848762282)
+ - [Deep Rock Galactic has a new season with a robot nemesis](https://www.polygon.com/23022672/deep-rock-galactic-season-2-rival-escalation-details-weapons-nemesis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
