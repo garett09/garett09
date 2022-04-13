@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Summon Has A Cool Secret Ability Most People Won’t See](https://kotaku.com/elden-ring-fromsoftware-latenna-wolf-mount-summon-spiri-1848789888)
- - [This may be your last chance to get Atlus’ 3DS classics for cheap](https://www.polygon.com/23024014/atlus-nintendo-3ds-sale-store)
- - [Witcher 3 Next-Gen Upgrade Pulled From Russia Studio, Delayed Indefinitely](https://kotaku.com/witcher-3-next-gen-upgrade-russia-invasion-ukraine-ps5-1848789636)<!-- GAME:END -->
+ - [Remembering Gilbert Gottfried as the canonical voice of Clippy](https://www.pcgamer.com/remembering-gilbert-gottfried-as-the-canonical-voice-of-clippy)
+ - [The true story of Moon Knight’s furious feud with Dracula, Lord of Vampires](https://www.polygon.com/22960152/moon-knight-memes-dracula-explanation)
+ - [Elden Ring Summon Has A Cool Secret Ability Most People Won’t See](https://kotaku.com/elden-ring-fromsoftware-latenna-wolf-mount-summon-spiri-1848789888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
