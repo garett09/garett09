@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So 61% of swedes are ready to defend Finland in case of Orc invasion. Finland salutes you dear neighbour.](http://9gag.com/gag/aZrE5Zn)
+ - 🚖 [Brothers in arms](http://9gag.com/gag/aKm85Xb)
  - 🚯 [Its simple science](http://9gag.com/gag/awzOpMW)
- - 🚯 [Brothers in arms](http://9gag.com/gag/aKm85Xb)<!-- MEMES:END -->
+ - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)<!-- MEMES:END -->
 
 --- 
 
