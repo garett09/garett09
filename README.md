@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teens are split on the metaverse, most barely use VR headsets, survey shows](https://www.pcgamer.com/teens-are-split-on-the-metaverse-most-barely-use-vr-headsets-survey-shows)
  - [My moral compass killed 61,000 people in this game, and I probably don&#39;t regret it](https://www.pcgamer.com/my-moral-compass-killed-61000-people-in-this-game-and-i-probably-dont-regret-it)
- - [Watch Elden Ring bosses fight each other for a change](https://www.polygon.com/23024213/elden-ring-bosses-fight-each-other-youtube)<!-- GAME:END -->
+ - [Watch Elden Ring bosses fight each other for a change](https://www.polygon.com/23024213/elden-ring-bosses-fight-each-other-youtube)
+ - [The Witcher 3&#39;s next-gen upgrade has been delayed &#39;until further notice&#39;](https://www.pcgamer.com/the-witcher-3s-next-gen-upgrade-has-been-delayed-until-further-notice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
