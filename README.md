@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The post-apocalyptic thriller Mondocane looks like Mad Max meets City of God](https://www.polygon.com/23022624/mondocane-trailer-post-apocalyptic)
- - [A closer look at vinyl soundtracks for Ratchet &amp; Clank: Rift Apart, Ghost of Tsushima, and Returnal](https://blog.playstation.com/2022/04/13/a-closer-look-at-vinyl-soundtracks-for-ratchet-amp-clank-rift-apart-ghost-of-tsushima-and-returnal/)
- - [A closer look at vinyl soundtracks for Ratchet &amp; Clank: Rift Apart, Ghost of Tsushima, and Returnal](https://blog.playstation.com/2022/04/13/a-closer-look-at-vinyl-soundtracks-for-ratchet-amp-clank-rift-apart-ghost-of-tsushima-and-returnal/)<!-- GAME:END -->
+ - [Tumblr shitpost convinces many that Pirates of the Caribbean had gay pirate divorce](https://www.polygon.com/23023728/tumblr-pirates-of-the-caribbean-superwholock-jack-sparrow-barbossa)
+ - [Amazon’s Outer Range brings Twin Peaks to Yellowstone](https://www.polygon.com/reviews/23022774/outer-range-review)
+ - [Niantic reveals its new virtual pet game, Peridot](https://www.polygon.com/23022962/niantic-peridot-ar-virtual-pet-game-mobile)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
