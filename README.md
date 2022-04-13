@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will invest $9.5B across 2022 to build US offices and data centers, with plans to create 12,000 jobs, up from the $7B announced in 2021 &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220413/p10#a220413p10)
- - [The Asus ROG Zephyrus G14 Still Rocks, But Power Comes at a Cost](https://www.wired.com/review/review-asus-rog-zephyrus-g14)
- - [Russia Is Leaking Data Like a Sieve](https://www.wired.com/story/russia-ukraine-data)<!-- TECH:END -->
+ - [An anonymous crypto trader seems to have bought $400K of tokens that were later listed on Coinbase, before the list was public; the tokens are now worth $572K+ &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/220413/p14#a220413p14)
+ - [In-Person VR Is a Crystal Ball to the Metaverse. COVID Tried to Shatter It     - CNET](https://www.cnet.com/tech/computing/in-person-vr-is-a-crystal-ball-to-the-metaverse-covid-tried-to-shatter-it/#ftag=CAD590a51e)
+ - [Want a Smart Oven? The Tovala Is Just $49 Right Now &lpar;Save $250&rpar;     - CNET](https://www.cnet.com/home/kitchen-and-household/the-tovala-smart-oven-is-just-49-normally-299-deals-ends-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
