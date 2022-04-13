@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 of the best horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
- - [ASRock Z690 Aqua gaming motherboard review](https://www.pcgamer.com/asrock-z690-aqua-gaming-motherboard-review)
- - [Jojo’s Bizarre Adventure has inspired thousands of TikTok thirst traps](https://www.polygon.com/23022024/jojos-bizarre-adventure-tiktok-jojo-no-kimyou-na-bouken-eyes-of-heaven)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Rising lands on PC in early May](https://www.pcgamer.com/eiyuden-chronicle-rising-lands-on-pc-in-early-may)
+ - [Bungie Going &#39;Digital-First&#39;, Many Future Roles Will Be &#39;Fully Remote&#39;](https://kotaku.com/bungie-remote-work-home-pandemic-covid-destiny-sony-off-1848785738)
+ - [Skyrim mod adds Red Dead Redemption 2&#39;s sketchbook journal](https://www.pcgamer.com/skyrim-mod-adds-red-dead-redemption-2s-sketchbook-journal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
