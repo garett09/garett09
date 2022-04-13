@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s privacy features will cost Facebook $12.8 billion in 2022](https://appleinsider.com/articles/22/04/13/apples-privacy-features-will-cost-facebook-128-billion-in-2022?utm_medium=rss)
- - [Apple TV+ shares first trailer for &#39;Tehran&#39; season two](https://appleinsider.com/articles/22/04/13/apple-tv-shares-first-trailer-for-tehran-season-two?utm_medium=rss)
- - [Some &lpar;Kinda&rpar; Good Climate News: 2 Degrees Is Doable](https://www.wired.com/story/some-kinda-good-climate-news-2-degrees-is-doable)<!-- TECH:END -->
+ - [Alexa can’t make these otherwise great dumbbells smart](https://www.theverge.com/23022416/nordictrack-iselect-adjustable-dumbbells-review-amazon-alexa)
+ - [The best Bluetooth speakers to buy right now](https://www.theverge.com/23022617/best-bluetooth-speakers)
+ - [Glorious’ Model I is an affordable gaming mouse with four thumb buttons](https://www.theverge.com/2022/4/13/23020482/glorious-model-i-wired-gaming-mouse-pc-race-features-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
