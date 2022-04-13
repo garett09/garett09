@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An anonymous crypto trader seems to have bought $400K of tokens that were later listed on Coinbase, before the list was public; the tokens are now worth $572K+ &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/220413/p14#a220413p14)
- - [In-Person VR Is a Crystal Ball to the Metaverse. COVID Tried to Shatter It     - CNET](https://www.cnet.com/tech/computing/in-person-vr-is-a-crystal-ball-to-the-metaverse-covid-tried-to-shatter-it/#ftag=CAD590a51e)
- - [Want a Smart Oven? The Tovala Is Just $49 Right Now &lpar;Save $250&rpar;     - CNET](https://www.cnet.com/home/kitchen-and-household/the-tovala-smart-oven-is-just-49-normally-299-deals-ends-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thrustmaster’s T248 racing wheel for PlayStation and PC is $100 off](https://www.theverge.com/good-deals/2022/4/13/23021968/thrustmaster-racing-wheel-macbook-lenovo-flex-5-kindle-philips-hue-bulbs-deal-sale)
+ - [Research details the impact of TikTok&#39;s decision to block outside content from appearing to Russian users while allowing state propaganda &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220413/p15#a220413p15)
+ - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster](https://www.wired.com/story/how-to-make-your-wifi-better-faster)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
