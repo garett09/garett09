@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gearbox Boss Randy Pitchford Buys Hollywood&#39;s Magic Castle](https://kotaku.com/gearbox-randy-pitchford-magic-ama-castle-hollywood-magi-1848786074)
  - [Eiyuden Chronicle: Rising lands on PC in early May](https://www.pcgamer.com/eiyuden-chronicle-rising-lands-on-pc-in-early-may)
- - [Bungie Going &#39;Digital-First&#39;, Many Future Roles Will Be &#39;Fully Remote&#39;](https://kotaku.com/bungie-remote-work-home-pandemic-covid-destiny-sony-off-1848785738)
- - [Skyrim mod adds Red Dead Redemption 2&#39;s sketchbook journal](https://www.pcgamer.com/skyrim-mod-adds-red-dead-redemption-2s-sketchbook-journal)<!-- GAME:END -->
+ - [Bungie Going &#39;Digital-First&#39;, Many Future Roles Will Be &#39;Fully Remote&#39;](https://kotaku.com/bungie-remote-work-home-pandemic-covid-destiny-sony-off-1848785738)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
