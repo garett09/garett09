@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases over 100 security fixes, including patches for two zero-day vulnerabilities, for Windows, Office, Edge, Dynamics, Hyper-V, and other software &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/220413/p1#a220413p1)
- - [2023 Jeep Wagoneer and Grand Wagoneer L Go Even Bigger and Harder in NY     - Roadshow](https://www.cnet.com/roadshow/news/2023-jeep-wagoneer-l-grand-wagoneer-l-new-york-auto-show/#ftag=CAD590a51e)
- - [Thanks, Gwyneth! MoonPay rides celebrity interest to $3.4 billion valuation](https://www.theverge.com/2022/4/13/23022660/moonpay-nft-crypto-valuation-snoop-dogg-gwyneth-paltrow-justin-bieber-paris-hilton)<!-- TECH:END -->
+ - [Samsung could reduce smartphone repair costs significantly with new initiative](https://www.androidauthority.com/samsung-recycled-repair-parts-3152563/)
+ - [Ola CEO Bhavish Aggarwal is stepping away from day-to-day operations to focus more on engineering and product, CFO GR Arun Kumar will drive operations &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/220413/p3#a220413p3)
+ - [MoonPay, which lets users buy crypto and NFTs with credit cards, raises $86.7M from celebs including Justin Bieber and Gwyneth Paltrow, at a $3.4B valuation &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/220413/p2#a220413p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
