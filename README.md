@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars: The Skywalker Saga: 64 Easter eggs and obscure references](https://www.polygon.com/gaming/23023530/lego-star-wars-the-skywalker-saga-easter-eggs-references-collectibles)
- - [The Worst Enemies In Elden Ring&#39;s Raya Lucaria Academy](https://kotaku.com/elden-ring-worst-enemies-raya-lucaria-sorcerers-fromsof-1848762282)
- - [Deep Rock Galactic has a new season with a robot nemesis](https://www.polygon.com/23022672/deep-rock-galactic-season-2-rival-escalation-details-weapons-nemesis)<!-- GAME:END -->
+ - [Elden Ring Summon Has A Cool Secret Ability Most People Won’t See](https://kotaku.com/elden-ring-fromsoftware-latenna-wolf-mount-summon-spiri-1848789888)
+ - [This may be your last chance to get Atlus’ 3DS classics for cheap](https://www.polygon.com/23024014/atlus-nintendo-3ds-sale-store)
+ - [Witcher 3 Next-Gen Upgrade Pulled From Russia Studio, Delayed Indefinitely](https://kotaku.com/witcher-3-next-gen-upgrade-russia-invasion-ukraine-ps5-1848789636)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
