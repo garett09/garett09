@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man that deep](http://9gag.com/gag/a719xrx)
- - 🚯 [Jumping Wednesday](http://9gag.com/gag/angxPx5)
- - 🚯 [Your house is mine](http://9gag.com/gag/aKm8MZ1)<!-- MEMES:END -->
+ - 🚖 [Jumping Wednesday](http://9gag.com/gag/angxPx5)
+ - 🚯 [Permission Granted](http://9gag.com/gag/a11V34w)
+ - 🚯 [Here we go again...](http://9gag.com/gag/angxPv5)<!-- MEMES:END -->
 
 --- 
 
