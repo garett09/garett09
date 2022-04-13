@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remembering Gilbert Gottfried as the canonical voice of Clippy](https://www.pcgamer.com/remembering-gilbert-gottfried-as-the-canonical-voice-of-clippy)
- - [The true story of Moon Knight’s furious feud with Dracula, Lord of Vampires](https://www.polygon.com/22960152/moon-knight-memes-dracula-explanation)
- - [Elden Ring Summon Has A Cool Secret Ability Most People Won’t See](https://kotaku.com/elden-ring-fromsoftware-latenna-wolf-mount-summon-spiri-1848789888)<!-- GAME:END -->
+ - [Teens are split on the metaverse, most barely use VR headsets, survey shows](https://www.pcgamer.com/teens-are-split-on-the-metaverse-most-barely-use-vr-headsets-survey-shows)
+ - [My moral compass killed 61,000 people in this game, and I probably don&#39;t regret it](https://www.pcgamer.com/my-moral-compass-killed-61000-people-in-this-game-and-i-probably-dont-regret-it)
+ - [Watch Elden Ring bosses fight each other for a change](https://www.polygon.com/23024213/elden-ring-bosses-fight-each-other-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
