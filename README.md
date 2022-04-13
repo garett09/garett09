@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NY Subway right now](http://9gag.com/gag/azeOvgq)
- - 🚯 [Imagine being this useless, a physical embodiment of the word liability.](http://9gag.com/gag/aPZeL4Q)
- - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)<!-- MEMES:END -->
+ - 🚖 [I prefer the British voice over](http://9gag.com/gag/aOQ9n86)
+ - 🚯 [Its polite, right?](http://9gag.com/gag/apgx75W)
+ - 🚯 [Johnny Depp&#39;s reaction to Amber&#39;s friend trying to explain the poop on his bed](http://9gag.com/gag/a51z91O)<!-- MEMES:END -->
 
 --- 
 
