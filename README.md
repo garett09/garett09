@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thrustmaster’s T248 racing wheel for PlayStation and PC is $100 off](https://www.theverge.com/good-deals/2022/4/13/23021968/thrustmaster-racing-wheel-macbook-lenovo-flex-5-kindle-philips-hue-bulbs-deal-sale)
- - [Research details the impact of TikTok&#39;s decision to block outside content from appearing to Russian users while allowing state propaganda &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220413/p15#a220413p15)
- - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster](https://www.wired.com/story/how-to-make-your-wifi-better-faster)<!-- TECH:END -->
+ - [Amazon will rebrand IMDb TV as Freevee starting April 27 and plans to grow its slate of originals by 70% in 2022 &lpar;Lesley Goldberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/220413/p17#a220413p17)
+ - [Apple announces winners of &#39;Shot on iPhone&#39; macro challenge](https://appleinsider.com/articles/22/04/13/apple-announces-winners-of-shot-on-iphone-macro-challenge?utm_medium=rss)
+ - [Samsung Galaxy A53 5G review: Mid-range mastery](https://www.androidauthority.com/samsung-galaxy-a53-5g-review-3149923/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
