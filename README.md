@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Ethereum employee jailed for talking at North Korea crypto conference about dodging sanctions](https://www.pcgamer.com/former-ethereum-employee-jailed-for-talking-at-north-korea-crypto-conference-about-dodging-sanctions)
- - [Bungie will offer fully-remote options for &#39;most current and future roles&#39;](https://www.pcgamer.com/bungie-will-offer-fully-remote-options-for-most-current-and-future-roles)
- - [Next-gen Nvidia GPUs could come with blisteringly fast 24Gbps GDDR6X memory](https://www.pcgamer.com/micron-gddr6x-24gbps-speed)<!-- GAME:END -->
+ - [GTA Online is a chaotic fever dream in 2022](https://www.polygon.com/23022554/gta-online-atmosphere-world-writing-jokes-pedestrians-surreal)
+ - [Become a cargo-smuggling space pirate in the No Man&#39;s Sky Outlaws update](https://www.pcgamer.com/become-a-cargo-smuggling-space-pirate-in-the-no-mans-sky-outlaws-update)
+ - [No Man’s Sky’s 19th update, Outlaws, releases today](https://blog.playstation.com/2022/04/13/no-mans-skys-19th-update-outlaws-releases-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
