@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The oppressed who also benefits from the tyranny that oppresses them.](http://9gag.com/gag/a0ZngzQ)
- - 🚯 [RIP Gilbert Gottfried](http://9gag.com/gag/aXr7zbv)
- - 🚯 [Oh nooo... People are prioritizing mental health? Such blasphemy!](http://9gag.com/gag/aNPB5Z0)<!-- MEMES:END -->
+ - 🚖 [Change your perspective](http://9gag.com/gag/aNPB5Or)
+ - 🚯 [You were saying?](http://9gag.com/gag/aBnE5GQ)
+ - 🚯 [Drop the food and run, grandpa.](http://9gag.com/gag/aegxznm)<!-- MEMES:END -->
 
 --- 
 
