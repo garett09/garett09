@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Ryzen 7 5800X3D beats the Core i9 12900K in gaming benchmarks](https://www.pcgamer.com/amds-ryzen-7-5800x3d-beats-the-core-i9-12900k-in-gaming-benchmarks)
- - [Gearbox Boss Randy Pitchford Buys Hollywood&#39;s Magic Castle](https://kotaku.com/gearbox-randy-pitchford-magic-ama-castle-hollywood-magi-1848786074)
- - [Eiyuden Chronicle: Rising lands on PC in early May](https://www.pcgamer.com/eiyuden-chronicle-rising-lands-on-pc-in-early-may)<!-- GAME:END -->
+ - [SteelSeries releases Aerox successors to our favourite lightweight gaming mouse](https://www.pcgamer.com/steelseries-releases-aerox-successors-to-our-favourite-lightweight-gaming-mouse)
+ - [Chemical Haptics could bring touch sensations like cold and heat to VR](https://www.pcgamer.com/chemical-haptics-could-bring-touch-sensations-like-cold-and-heat-to-vr)
+ - [Worldwide PC shipments declined 7.3% in the first quarter of 2022](https://www.pcgamer.com/worldwide-pc-shipments-declined-73-in-the-first-quarter-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
