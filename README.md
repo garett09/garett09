@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She has my vote](http://9gag.com/gag/aBnEMqO)
- - 🚯 [This is a Phalanx CIWS, an autocannon used to destroy incoming missiles, drones, and aircraft. It is nicknamed R2-D2 because of its shape. It has an ammunition capacity of 15500 rounds and a rate of fire of 4,500 rounds per minute. The cost? $5.6 million.](http://9gag.com/gag/azeOzLN)
+ - 🚖 [This is a Phalanx CIWS, an autocannon used to destroy incoming missiles, drones, and aircraft. It is nicknamed R2-D2 because of its shape. It has an ammunition capacity of 15500 rounds and a rate of fire of 4,500 rounds per minute. The cost? $5.6 million.](http://9gag.com/gag/azeOzLN)
+ - 🚯 [She has my vote](http://9gag.com/gag/aBnEMqO)
  - 🚯 [Its polite, right?](http://9gag.com/gag/apgx75W)<!-- MEMES:END -->
 
 --- 
