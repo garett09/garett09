@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-gen Nvidia GPUs could come with blisteringly fast 24Gbps GDDR6X memory](https://www.pcgamer.com/micron-gddr6x-24gbps-speed)
- - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
- - [How CD Projekt Red climbed to the top of the RPG mountain, then slipped](https://www.pcgamer.com/how-cd-projekt-red-climbed-to-the-top-of-the-rpg-mountain-then-slipped)<!-- GAME:END -->
+ - [Former Ethereum employee jailed for talking at North Korea crypto conference about dodging sanctions](https://www.pcgamer.com/former-ethereum-employee-jailed-for-talking-at-north-korea-crypto-conference-about-dodging-sanctions)
+ - [Bungie will offer fully-remote options for &#39;most current and future roles&#39;](https://www.pcgamer.com/bungie-will-offer-fully-remote-options-for-most-current-and-future-roles)
+ - [Next-gen Nvidia GPUs could come with blisteringly fast 24Gbps GDDR6X memory](https://www.pcgamer.com/micron-gddr6x-24gbps-speed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
