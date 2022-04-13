@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In February, Meta&#39;s Quest store surpassed $1B in content revenue since its launch; 124 Quest apps have earned $1M+ in revenue, eight of which exceeded $20M &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/220412/p46#a220412p46)
- - [Israel-based Silverfort, which provides multi-factor authentication and identity threat protection tools, raises a $65M Series C led by Greenfield Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220412/p45#a220412p45)
- - [Trace, whose cameras automatically edit and personalize highlight videos of youth athletes, raises a $47M Series C led by Pelion at a $190M post-money valuation &lpar;Tim Casey/Forbes&rpar;](http://www.techmeme.com/220412/p44#a220412p44)<!-- TECH:END -->
+ - [Microsoft releases over 100 security fixes, including patches for two zero-day vulnerabilities, for Windows, Office, Edge, Dynamics, Hyper-V, and other software &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/220413/p1#a220413p1)
+ - [Thanks, Gwenyth! MoonPay rides celebrity interest to $3.4 billion valuation](https://www.theverge.com/2022/4/13/23022660/moonpay-nft-crypto-valuation-snoop-dogg-gwyneth-paltrow-justin-bieber-paris-hilton)
+ - [In February, Meta&#39;s Quest store surpassed $1B in content revenue since its launch; 124 Quest apps have earned $1M+ in revenue, eight of which exceeded $20M &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/220412/p46#a220412p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
