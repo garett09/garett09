@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s Ryzen 7 5800X3D beats the Core i9 12900K in gaming benchmarks](https://www.pcgamer.com/amds-ryzen-7-5800x3d-beats-the-core-i9-12900k-in-gaming-benchmarks)
  - [Gearbox Boss Randy Pitchford Buys Hollywood&#39;s Magic Castle](https://kotaku.com/gearbox-randy-pitchford-magic-ama-castle-hollywood-magi-1848786074)
- - [Eiyuden Chronicle: Rising lands on PC in early May](https://www.pcgamer.com/eiyuden-chronicle-rising-lands-on-pc-in-early-may)
- - [Bungie Going &#39;Digital-First&#39;, Many Future Roles Will Be &#39;Fully Remote&#39;](https://kotaku.com/bungie-remote-work-home-pandemic-covid-destiny-sony-off-1848785738)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Rising lands on PC in early May](https://www.pcgamer.com/eiyuden-chronicle-rising-lands-on-pc-in-early-may)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
