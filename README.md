@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A group of cybersecurity companies specializing in securing US critical infrastructure form a coalition to work with the government and adopt uniform standards &lpar;Jack Gillum/Bloomberg&rpar;](http://www.techmeme.com/220413/p4#a220413p4)
- - [Samsung could reduce smartphone repair costs significantly with new initiative](https://www.androidauthority.com/samsung-recycled-repair-parts-3152563/)
- - [Ola CEO Bhavish Aggarwal is stepping away from day-to-day operations to focus more on engineering and product, CFO GR Arun Kumar will drive operations &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/220413/p3#a220413p3)<!-- TECH:END -->
+ - [Poll: Do you use the virtual/extended RAM feature on your phone?](https://www.androidauthority.com/virtual-extended-ram-phone-poll-3152571/)
+ - [FIFA Plus launches with over 40,000 free soccer matches to watch live](https://www.theverge.com/2022/4/13/23023300/fifa-plus-free-40000-live-matches-original-content)
+ - [&#39;Moon Knight&#39; Episode 3 Recap: Oscar Isaac Takes An Egyptian Adventure     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-3-recap-oscar-isaac-takes-an-egyptian-adventure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
