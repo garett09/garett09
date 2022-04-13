@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new free app makes using iPads easier for people with hand tremors](https://www.theverge.com/2022/4/13/23024029/staybl-ipads-hand-tremors-parkinsons-disease)
- - [Feds Uncover a ‘Swiss Army Knife’ for Hacking Industrial Systems](https://www.wired.com/story/pipedream-ics-malware)
- - [Sony and Nintendo update gaming subscription auto-renewals after UK investigation](https://www.theverge.com/2022/4/13/23023955/sony-nintendo-microsoft-updating-subscription-practices-uk-competition-markets-authority-cma)<!-- TECH:END -->
+ - [How to turn the PS5 on and off remotely via the app](https://www.androidauthority.com/turn-off-ps5-from-app-3152369/)
+ - [Apple customers say delivery estimates for orders of some MacBook Pro models have been pushed back, in some cases as far as mid-June, amid China&#39;s lockdowns &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220413/p29#a220413p29)
+ - [What to watch on Disney Plus: 40 top titles to stream](https://www.androidauthority.com/what-to-watch-on-disney-plus-3151659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
