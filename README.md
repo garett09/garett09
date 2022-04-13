@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will rebrand IMDb TV as Freevee starting April 27 and plans to grow its slate of originals by 70% in 2022 &lpar;Lesley Goldberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/220413/p17#a220413p17)
- - [Apple announces winners of &#39;Shot on iPhone&#39; macro challenge](https://appleinsider.com/articles/22/04/13/apple-announces-winners-of-shot-on-iphone-macro-challenge?utm_medium=rss)
- - [Samsung Galaxy A53 5G review: Mid-range mastery](https://www.androidauthority.com/samsung-galaxy-a53-5g-review-3149923/)<!-- TECH:END -->
+ - [Apple&#39;s privacy features will cost Facebook $12.8 billion in 2022](https://appleinsider.com/articles/22/04/13/apples-privacy-features-will-cost-facebook-128-billion-in-2022?utm_medium=rss)
+ - [Apple TV+ shares first trailer for &#39;Tehran&#39; season two](https://appleinsider.com/articles/22/04/13/apple-tv-shares-first-trailer-for-tehran-season-two?utm_medium=rss)
+ - [Some &lpar;Kinda&rpar; Good Climate News: 2 Degrees Is Doable](https://www.wired.com/story/some-kinda-good-climate-news-2-degrees-is-doable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
