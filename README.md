@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A robot dog patrols the empty streets of Shanghai in China with a loudspeaker as a reminder of sanitary measures.](http://9gag.com/gag/angxW85)
- - 🚯 [NY Subway right now](http://9gag.com/gag/azeOvgq)
- - 🚯 [This is a Phalanx CIWS, an autocannon used to destroy incoming missiles, drones, and aircraft. It is nicknamed R2-D2 because of its shape. It has an ammunition capacity of 15500 rounds and a rate of fire of 4,500 rounds per minute. The cost? $5.6 million.](http://9gag.com/gag/azeOzLN)<!-- MEMES:END -->
+ - 🚖 [NY Subway right now](http://9gag.com/gag/azeOvgq)
+ - 🚯 [Imagine being this useless, a physical embodiment of the word liability.](http://9gag.com/gag/aPZeL4Q)
+ - 🚯 [How it started vs how it\u2019s going](http://9gag.com/gag/a41ABym)<!-- MEMES:END -->
 
 --- 
 
