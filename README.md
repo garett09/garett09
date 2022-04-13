@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brothers in arms](http://9gag.com/gag/aKm85Xb)
- - 🚯 [Its simple science](http://9gag.com/gag/awzOpMW)
- - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)<!-- MEMES:END -->
+ - 🚖 [Quiet kid. Strength 200 Accuracy 200 Fear 1000](http://9gag.com/gag/avAxKrM)
+ - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)
+ - 🚯 [Here we go again...](http://9gag.com/gag/angxPv5)<!-- MEMES:END -->
 
 --- 
 
