@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A smooth maf**ka!](http://9gag.com/gag/aegxw8q)
+ - 🚖 [I drew some random cacti](http://9gag.com/gag/aggxeBw)
  - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)
- - 🚯 [You were saying?](http://9gag.com/gag/aBnE5GQ)<!-- MEMES:END -->
+ - 🚯 [Its simple science](http://9gag.com/gag/awzOpMW)<!-- MEMES:END -->
 
 --- 
 
