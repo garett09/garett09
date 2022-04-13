@@ -191,8 +191,8 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- TECH:START -->
  - [Microsoft releases over 100 security fixes, including patches for two zero-day vulnerabilities, for Windows, Office, Edge, Dynamics, Hyper-V, and other software &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/220413/p1#a220413p1)
- - [Thanks, Gwenyth! MoonPay rides celebrity interest to $3.4 billion valuation](https://www.theverge.com/2022/4/13/23022660/moonpay-nft-crypto-valuation-snoop-dogg-gwyneth-paltrow-justin-bieber-paris-hilton)
- - [In February, Meta&#39;s Quest store surpassed $1B in content revenue since its launch; 124 Quest apps have earned $1M+ in revenue, eight of which exceeded $20M &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/220412/p46#a220412p46)<!-- TECH:END -->
+ - [2023 Jeep Wagoneer and Grand Wagoneer L Go Even Bigger and Harder in NY     - Roadshow](https://www.cnet.com/roadshow/news/2023-jeep-wagoneer-l-grand-wagoneer-l-new-york-auto-show/#ftag=CAD590a51e)
+ - [Thanks, Gwyneth! MoonPay rides celebrity interest to $3.4 billion valuation](https://www.theverge.com/2022/4/13/23022660/moonpay-nft-crypto-valuation-snoop-dogg-gwyneth-paltrow-justin-bieber-paris-hilton)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
