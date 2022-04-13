@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #298: Wednesday, April 13](https://www.pcgamer.com/wordle-april-13-298)
- - [SteelSeries releases Aerox successors to our favourite lightweight gaming mouse](https://www.pcgamer.com/steelseries-releases-aerox-successors-to-our-favourite-lightweight-gaming-mouse)
- - [Chemical Haptics could bring touch sensations like cold and heat to VR](https://www.pcgamer.com/chemical-haptics-could-bring-touch-sensations-like-cold-and-heat-to-vr)<!-- GAME:END -->
+ - [Next-gen Nvidia GPUs could come with blisteringly fast 24Gbps GDDR6X memory](https://www.pcgamer.com/micron-gddr6x-24gbps-speed)
+ - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
+ - [How CD Projekt Red climbed to the top of the RPG mountain, then slipped](https://www.pcgamer.com/how-cd-projekt-red-climbed-to-the-top-of-the-rpg-mountain-then-slipped)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
