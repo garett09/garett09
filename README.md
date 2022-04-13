@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you use the virtual/extended RAM feature on your phone?](https://www.androidauthority.com/virtual-extended-ram-phone-poll-3152571/)
- - [FIFA Plus launches with over 40,000 free soccer matches to watch live](https://www.theverge.com/2022/4/13/23023300/fifa-plus-free-40000-live-matches-original-content)
- - [&#39;Moon Knight&#39; Episode 3 Recap: Oscar Isaac Takes An Egyptian Adventure     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-3-recap-oscar-isaac-takes-an-egyptian-adventure/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK startup Wagestream, which offers salary advances to employees via its app, raises a $60M Series C led by Smash Capital and $115M in debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220413/p7#a220413p7)
+ - [Sources: Spotify&#39;s podcasting boss Courtney Holt, who brought on Joe Rogan, Harry and Meghan, the Obamas, and others, is leaving after almost five years &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220413/p6#a220413p6)
+ - [Polar&#39;s Pacer Pro Running Watch Wants to Make Your Runs Suck Less     - CNET](https://www.cnet.com/tech/mobile/polars-pacer-pro-running-watch-wants-to-make-your-runs-suck-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
