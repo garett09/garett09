@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I drew some random cacti](http://9gag.com/gag/aggxeBw)
- - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)
- - 🚯 [Its simple science](http://9gag.com/gag/awzOpMW)<!-- MEMES:END -->
+ - 🚖 [So 61% of swedes are ready to defend Finland in case of Orc invasion. Finland salutes you dear neighbour.](http://9gag.com/gag/aZrE5Zn)
+ - 🚯 [I drew some random cacti](http://9gag.com/gag/aggxeBw)
+ - 🚯 [Ah yes, time to bake](http://9gag.com/gag/aqGxwOQ)<!-- MEMES:END -->
 
 --- 
 
