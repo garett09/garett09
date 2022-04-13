@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Jack Dorsey&#39;s life after Twitter, as 30+ people who have worked with him say his &quot;favorite child&quot; is promoting bitcoin, not working at Block &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220413/p8#a220413p8)
  - [UK startup Wagestream, which offers salary advances to employees via its app, raises a $60M Series C led by Smash Capital and $115M in debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220413/p7#a220413p7)
- - [Sources: Spotify&#39;s podcasting boss Courtney Holt, who brought on Joe Rogan, Harry and Meghan, the Obamas, and others, is leaving after almost five years &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220413/p6#a220413p6)
- - [Polar&#39;s Pacer Pro Running Watch Wants to Make Your Runs Suck Less     - CNET](https://www.cnet.com/tech/mobile/polars-pacer-pro-running-watch-wants-to-make-your-runs-suck-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Spotify&#39;s podcasting boss Courtney Holt, who brought on Joe Rogan, Harry and Meghan, the Obamas, and others, is leaving after almost five years &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220413/p6#a220413p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
