@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online is a chaotic fever dream in 2022](https://www.polygon.com/23022554/gta-online-atmosphere-world-writing-jokes-pedestrians-surreal)
- - [Become a cargo-smuggling space pirate in the No Man&#39;s Sky Outlaws update](https://www.pcgamer.com/become-a-cargo-smuggling-space-pirate-in-the-no-mans-sky-outlaws-update)
- - [No Man’s Sky’s 19th update, Outlaws, releases today](https://blog.playstation.com/2022/04/13/no-mans-skys-19th-update-outlaws-releases-today/)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [MythForce, an RPG inspired by ’80s cartoons, is here for latchkey adults](https://www.polygon.com/23023513/mythforce-beamdog-release-date-trailer-announcement-gameplay)
+ - [The Best Part Of Tiny Tina’s Wonderlands Is Its Endgame](https://kotaku.com/tiny-tinas-wonderlands-where-to-find-legendaries-chaos-1848785032)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
