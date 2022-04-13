@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)
- - [Death Stranding hits even harder in lockdown&#39;s aftermath](https://www.pcgamer.com/death-stranding-hits-even-harder-in-lockdowns-aftermath)
- - [Dungeons &amp; Dragons owner Hasbro is buying D&amp;D Beyond, the RPG’s leading digital toolset](https://www.polygon.com/23023498/hasbro-buys-dnd-beyond-pdf-wotc-fandom)<!-- GAME:END -->
+ - [The post-apocalyptic thriller Mondocane looks like Mad Max meets City of God](https://www.polygon.com/23022624/mondocane-trailer-post-apocalyptic)
+ - [A closer look at vinyl soundtracks for Ratchet &amp; Clank: Rift Apart, Ghost of Tsushima, and Returnal](https://blog.playstation.com/2022/04/13/a-closer-look-at-vinyl-soundtracks-for-ratchet-amp-clank-rift-apart-ghost-of-tsushima-and-returnal/)
+ - [A closer look at vinyl soundtracks for Ratchet &amp; Clank: Rift Apart, Ghost of Tsushima, and Returnal](https://blog.playstation.com/2022/04/13/a-closer-look-at-vinyl-soundtracks-for-ratchet-amp-clank-rift-apart-ghost-of-tsushima-and-returnal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
