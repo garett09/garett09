@@ -198,8 +198,8 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A smooth maf**ka!](http://9gag.com/gag/aegxw8q)
- - 🚯 [Oh nooo... People are prioritizing mental health? Such blasphemy!](http://9gag.com/gag/aNPB5Z0)
- - 🚯 [Change your perspective](http://9gag.com/gag/aNPB5Or)<!-- MEMES:END -->
+ - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)
+ - 🚯 [You were saying?](http://9gag.com/gag/aBnE5GQ)<!-- MEMES:END -->
 
 --- 
 
