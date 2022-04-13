@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tumblr shitpost convinces many that Pirates of the Caribbean had gay pirate divorce](https://www.polygon.com/23023728/tumblr-pirates-of-the-caribbean-superwholock-jack-sparrow-barbossa)
- - [Amazon’s Outer Range brings Twin Peaks to Yellowstone](https://www.polygon.com/reviews/23022774/outer-range-review)
- - [Niantic reveals its new virtual pet game, Peridot](https://www.polygon.com/23022962/niantic-peridot-ar-virtual-pet-game-mobile)<!-- GAME:END -->
+ - [Deep Rock Galactic has a new season with a robot nemesis](https://www.polygon.com/23022672/deep-rock-galactic-season-2-rival-escalation-details-weapons-nemesis)
+ - [Witcher 3 ‘next-gen’ update postponed indefinitely](https://www.polygon.com/23023870/witcher-3-ps5-xbox-series-x-update-release-date-delay)
+ - [Report: California Governor Gavin Newsom Accused Of Interfering In Activision Lawsuit](https://kotaku.com/activision-blizzard-gavin-newsom-california-governor-df-1848788866)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
