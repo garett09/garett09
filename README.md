@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quiet kid. Strength 200 Accuracy 200 Fear 1000](http://9gag.com/gag/avAxKrM)
- - 🚯 [Learn to fly a helicopter with his guy](http://9gag.com/gag/ay91KdW)
- - 🚯 [Here we go again...](http://9gag.com/gag/angxPv5)<!-- MEMES:END -->
+ - 🚖 [Man that deep](http://9gag.com/gag/a719xrx)
+ - 🚯 [Jumping Wednesday](http://9gag.com/gag/angxPx5)
+ - 🚯 [Your house is mine](http://9gag.com/gag/aKm8MZ1)<!-- MEMES:END -->
 
 --- 
 
