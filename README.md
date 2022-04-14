@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smartested](http://9gag.com/gag/aqGxvwP)
- - 🚯 [Sweet](http://9gag.com/gag/aDDbBgN)
+ - 🚖 [Lol wtf?!!!!!](http://9gag.com/gag/a21DQ6Z)
+ - 🚯 [Kid harassing a homeless man till he flips out](http://9gag.com/gag/a7194jb)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
