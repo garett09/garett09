@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Face off Against the Dark Knights in DC Universe Online](https://news.xbox.com/en-us/2022/04/14/face-off-against-the-dark-knights-in-dc-universe-online/)
- - [Bethesda.net users will be able to transfer games to Steam on April 27](https://www.polygon.com/23025422/bethesda-net-transfer-to-steam-april-27)
- - [Fortnite Coachella&#39;s Coming, But With None Of The Sunburn Or Drugs](https://kotaku.com/fortnite-coachella-2022-epic-games-concert-new-skins-it-1848794631)<!-- GAME:END -->
+ - [Hacks season 2 trailer teases what Deborah Vance does next](https://www.polygon.com/23025571/hacks-season-2-trailer-deborah-vance)
+ - [Elden Ring wants you to stop hitting yourself](https://www.polygon.com/videos/23020767/elden-ring-humor-video-absurd)
+ - [Gloomhaven’s digital adaptation is getting its first big chunk of DLC](https://www.polygon.com/23025601/gloomhavens-digital-adaptation-dlc-jaws-of-the-lion-may-17)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
