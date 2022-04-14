@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vanillaware’s PS2 game GrimGrimoire getting Switch, PS4 remake](https://www.polygon.com/23025047/vanillaware-ps2-remake-grimgrimoire-nintendo-switch-ps4)
- - [Elden Ring &#39;Easy Mode&#39; Is One Of The Most Popular PC Mods ATM](https://kotaku.com/elden-ring-nexus-mods-easy-mode-odashikonbu-fromsoftwar-1848790566)
- - [The case for Critical Role’s Dorian Storm: Can we please keep him?](https://www.polygon.com/23023789/critical-role-robbie-daymond-dorian-storm-exandria-unlimited-new-character-appearance)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons Direct event will reveal the future of D&amp;D on April 21](https://www.polygon.com/2022/4/14/23025150/dnd-direct-date-time-movie-tv-dragonlance)
+ - [The 8-year process behind Playdate’s glorious crank](https://www.polygon.com/23013686/playdate-panic-crank-history)
+ - [Free Play Days – The Elder Scrolls Online, Control, and Hunting Simulator 2](https://news.xbox.com/en-us/2022/04/14/free-play-days-the-elder-scrolls-online-control-and-hunting-simulator-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
