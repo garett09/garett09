@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk offers to buy Twitter](https://www.pcgamer.com/elon-musk-offers-to-buy-twitter)
- - [Revisiting Crimzon Clover, a shmup that rivals the genre’s best](https://www.pcgamer.com/revisiting-crimzon-clover-a-shmup-that-rivals-the-genres-best)
- - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)<!-- GAME:END -->
+ - [Hardspace: Shipbreaker breaks out of early access next month](https://www.pcgamer.com/hardspace-shipbreaker-breaks-out-of-early-access-next-month)
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
+ - [The stakes have never been higher for World of Warcraft&#39;s next expansion](https://www.pcgamer.com/the-stakes-have-never-been-higher-for-world-of-warcrafts-next-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
