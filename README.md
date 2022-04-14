@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IMMO, whose tech lets institutional investors sell, rent, and invest in single family homes, raises a $75M Series B led by Oak HC/FT to expand across Europe &lpar;Tony Zerucha/Crowdfund Insider&rpar;](http://www.techmeme.com/220413/p38#a220413p38)
  - [Sources: the US Department of Commerce is investigating Synopsys, the biggest supplier of chip design software, for possibly passing key tech to Huawei and SMIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/220413/p37#a220413p37)
- - [Stockholm-based Material Exchange, a marketplace connecting footwear and apparel brands with material suppliers, raises a &amp;euro;25M Series A led by Molten Ventures &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220413/p36#a220413p36)
- - [Source: Ava Labs, the lead developer of the Avalanche blockchain, is raising $350M at a $5.25B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220413/p35#a220413p35)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-prime-video-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
