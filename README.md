@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US government agencies warn of new custom tools, created by several APT actors, that are capable of compromising IT equipment used in critical infrastructure &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220413/p34#a220413p34)
- - [You can now try 1Password’s customizable redesign on your iPhone and iPad](https://www.theverge.com/2022/4/13/23024443/1password-8-early-access-ios-iphone-ipad-beta-redesign-password-manager)
- - [Pakistan Journalists Move to YouTube as Political Upheaval Forces Them Off TV     - CNET](https://www.cnet.com/news/politics/pakistan-journalists-move-to-youtube-as-political-upheaval-forces-them-off-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US Department of Commerce is investigating Synopsys, the biggest supplier of chip design software, for possibly passing key tech to Huawei and SMIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/220413/p37#a220413p37)
+ - [Stockholm-based Material Exchange, a marketplace connecting footwear and apparel brands with material suppliers, raises a &amp;euro;25M Series A led by Molten Ventures &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220413/p36#a220413p36)
+ - [Source: Ava Labs, the lead developer of the Avalanche blockchain, is raising $350M at a $5.25B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/220413/p35#a220413p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
