@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sequoia India&#39;s Shailendra Singh leaves fashion marketplace Zilingo&#39;s board, amid a probe into its accounting methods and suspension of CEO Ankiti Bose &lpar;Bloomberg&rpar;](http://www.techmeme.com/220414/p5#a220414p5)
- - [Two new Motorolas break cover: A 144Hz mid-ranger and a 90Hz budget model](https://www.androidauthority.com/motorola-edge-30-moto-g-5g-2022-renders-3153347/)
- - [Fiido X e-bike recalled due to risk of breaking in half](https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall)<!-- TECH:END -->
+ - [BareFeats&#39; Robert Arthur Morgan dies aged 77](https://appleinsider.com/articles/22/04/14/barefeats-robert-arthur-morgan-dies-aged-77?utm_medium=rss)
+ - [Redmi Note 11 Pro 5G review: Hard to take note of](https://www.androidauthority.com/redmi-note-11-pro-5g-review-3147333/)
+ - [NextSense Wants to Get in Your Ears and Watch Your Brain](https://www.wired.com/story/nextsense-wants-to-get-in-your-ears-and-watch-your-brain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
