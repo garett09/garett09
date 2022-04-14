@@ -185,7 +185,7 @@ Windows                  30 hrs 51 mins      ███████████�
 <!-- GAME:START -->
  - [Microsoft goes up against massive extortion botnet](https://www.pcgamer.com/microsoft-goes-up-against-massive-extortion-botnet)
  - [Baldur&#39;s Gate, MythForce studio to be acquired by Aspyr](https://www.pcgamer.com/baldurs-gate-mythforce-studio-to-be-acquired-by-aspyr)
- - [Over 50% of Steams top 100 games work on Steam Deck](https://www.pcgamer.com/over-50-of-steams-top-100-games-work-on-steam-deck)<!-- GAME:END -->
+ - [Over 50% of Steam&#39;s top 100 games work on Steam Deck](https://www.pcgamer.com/over-50-of-steams-top-100-games-work-on-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
