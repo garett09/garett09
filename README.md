@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A flat earther was lost for words in a debate](http://9gag.com/gag/a21DeO1)
- - 🚯 [How that idian guy on YouTube carrys me through my math exams](http://9gag.com/gag/aRrvY42)
- - 🚯 [In 1984, Jeff Doucet kidnapped and sexually abused 11-year-old Jody Plauch\u00e9. As Doucet is escorted through the Baton Rouge airport he is shot and killed by Leon Plauche, the father of Doucet&#39;s victim Jody.](http://9gag.com/gag/azeOnmN)<!-- MEMES:END -->
+ - 🚖 [How that idian guy on YouTube carrys me through my math exams](http://9gag.com/gag/aRrvY42)
+ - 🚯 [It was reported that Moskva cruiser ship is burning after it was hit by 2 Ukrainian Neptune missles.](http://9gag.com/gag/a0ZnBPd)
+ - 🚯 [Tell me your favourite game quotes](http://9gag.com/gag/aVxZAGP)<!-- MEMES:END -->
 
 --- 
 
