@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Rotator system will give players new reasons to play old raids and dungeons](https://www.polygon.com/23025772/destiny-2-raid-rotation-old-content-lockout-pinnacle)
- - [Making Overwatch 2&#39;s Sojourn was hard because &#39;railguns are kinda overpowered&#39;](https://www.pcgamer.com/making-overwatch-2s-sojourn-was-hard-because-railguns-are-kinda-overpowered)
- - [We &lpar;might&rpar; finally know how tall Elden Ring’s Erdtree is](https://www.polygon.com/23025742/erdtree-elden-ring-how-tall)<!-- GAME:END -->
+ - [Severance isn’t a show about quitting your job, it’s about burning it down](https://www.polygon.com/23025964/severance-finale-metaphor-capitalism)
+ - [US government says $650M Axie Infinity crypto-heist was pulled by North Korea](https://www.pcgamer.com/us-government-says-dollar650m-axie-infinity-crypto-heist-was-pulled-by-north-korea)
+ - [Destiny 2’s Rotator system will give players new reasons to play old raids and dungeons](https://www.polygon.com/23025772/destiny-2-raid-rotation-old-content-lockout-pinnacle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
