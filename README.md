@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To serve and protect - even without covid cases people got locked down what upsets them](http://9gag.com/gag/aBnG9bZ)
- - 🚯 [I&#39;m people](http://9gag.com/gag/aE8DvGp)
+ - 🚖 [I&#39;m people](http://9gag.com/gag/aE8DvGp)
+ - 🚯 [Moskva define it self as submarine now](http://9gag.com/gag/aGzA9Q0)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
