@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find map fragments in Elden Ring](https://www.pcgamer.com/elden-ring-map-fragments-locations)
- - [Apex Legends goes directly to jail for a 2-week Unshackled event](https://www.pcgamer.com/apex-legends-goes-directly-to-jail-for-a-2-week-unshackled-event)
- - [Pre-Order Age of Empires II: Definitive Edition – Dynasties of India Starting Today](https://news.xbox.com/en-us/2022/04/14/pre-order-age-of-empires-2-definitive-edition-dynasties-of-india-starting-today/)<!-- GAME:END -->
+ - [Face off Against the Dark Knights in DC Universe Online](https://news.xbox.com/en-us/2022/04/14/face-off-against-the-dark-knights-in-dc-universe-online/)
+ - [Bethesda.net users will be able to transfer games to Steam on April 27](https://www.polygon.com/23025422/bethesda-net-transfer-to-steam-april-27)
+ - [Fortnite Coachella&#39;s Coming, But With None Of The Sunburn Or Drugs](https://kotaku.com/fortnite-coachella-2022-epic-games-concert-new-skins-it-1848794631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
