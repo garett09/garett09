@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cthulhu sends his regards](http://9gag.com/gag/aVxZyyM)
- - 🚯 [Racooney](http://9gag.com/gag/amgxen6)
- - 🚯 [Yes...](http://9gag.com/gag/aegxnzj)<!-- MEMES:END -->
+ - 🚖 [Yes...](http://9gag.com/gag/aegxnzj)
+ - 🚯 [Just killed my first mosquito of 2022.](http://9gag.com/gag/axBO5m1)
+ - 🚯 [It was reported that Moskva cruiser ship is burning after it was hit by 2 Ukrainian Neptune missles.](http://9gag.com/gag/a0ZnBPd)<!-- MEMES:END -->
 
 --- 
 
