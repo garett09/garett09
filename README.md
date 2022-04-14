@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wh***g yourself to the top](http://9gag.com/gag/aDDbB2x)
- - 🚯 [Guys we are joining nato!!](http://9gag.com/gag/a312v7m)
+ - 🚖 [Step tractor...What are you doing?](http://9gag.com/gag/aogLz4X)
+ - 🚯 [They ruined Vikings by trying to be woke](http://9gag.com/gag/a612mLR)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
