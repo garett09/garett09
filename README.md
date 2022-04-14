@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hacks season 2 trailer teases what Deborah Vance does next](https://www.polygon.com/23025571/hacks-season-2-trailer-deborah-vance)
- - [Elden Ring wants you to stop hitting yourself](https://www.polygon.com/videos/23020767/elden-ring-humor-video-absurd)
- - [Gloomhaven’s digital adaptation is getting its first big chunk of DLC](https://www.polygon.com/23025601/gloomhavens-digital-adaptation-dlc-jaws-of-the-lion-may-17)<!-- GAME:END -->
+ - [The Witcher 3 next-gen upgrade is not in &#39;development hell,&#39; CD Projekt insists](https://www.pcgamer.com/the-witcher-3-next-gen-upgrade-is-not-in-development-hell-cd-projekt-insists)
+ - [CDPR Says ‘Vast Part’ Of Fixing Cyberpunk 2077 Is Done, Focused On Other Projects](https://kotaku.com/cyberpunk-2077-cdpr-expansion-multiplayer-fix-patch-wit-1848795532)
+ - [&#39;Let me solo her&#39; is Elden Ring&#39;s first legendary player](https://www.pcgamer.com/let-me-solo-her-is-elden-rings-first-legendary-player)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
