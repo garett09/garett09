@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP Spectre x360 16 Review: Big, Luxurious 2-in-1 for Creatives     - CNET](https://www.cnet.com/tech/computing/hp-spectre-x360-16-review-big-luxurious-2-in-1-for-creatives/#ftag=CAD590a51e)
- - [IPVanish Review: This VPN&#39;s Security Issues and a Flawed Quick Connect Feature Hold It Back     - CNET](https://www.cnet.com/tech/services-and-software/ipvanish-review-this-vpns-security-issues-and-a-flawed-quick-connect-feature-hold-it-back/#ftag=CAD590a51e)
- - [Merge Away, Warner Bros. Discovery, Just Don&#39;t Charge Us More Money for HBO Max     - CNET](https://www.cnet.com/tech/services-and-software/merge-away-warner-bros-discovery-just-dont-charge-us-more-money-for-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple helped suppliers double clean energy use in 2021](https://appleinsider.com/articles/22/04/14/apple-helped-suppliers-double-clean-energy-use-in-2021?utm_medium=rss)
+ - [Reddit updates its search to index comments, available globally on the web but not its apps, and improves natural language searches &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220414/p11#a220414p11)
+ - [Filevine, which offers tools to help with legal workflows such as document management and billing, raises a $108M Series D, bringing its total funding to $155M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220414/p10#a220414p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
