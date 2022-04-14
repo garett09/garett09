@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)
  - [Tencent says it will shut down a service, which allowed Chinese gamers access overseas platforms to play unapproved foreign games, starting May 31 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220414/p4#a220414p4)
- - [Since the Ukraine invasion, thousands of Russian tech workers have left the country, an exodus that will fundamentally change the Russian tech industry &lpar;New York Times&rpar;](http://www.techmeme.com/220414/p3#a220414p3)
- - [OnePlus 10R and Nord CE 2 Lite launching on April 28 &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-april-28-event-3151419/)<!-- TECH:END -->
+ - [Since the Ukraine invasion, thousands of Russian tech workers have left the country, an exodus that will fundamentally change the Russian tech industry &lpar;New York Times&rpar;](http://www.techmeme.com/220414/p3#a220414p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
