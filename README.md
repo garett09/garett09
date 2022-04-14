@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes...](http://9gag.com/gag/aegxnzj)
- - 🚯 [AC/DC..... at home](http://9gag.com/gag/abgxNRL)
- - 🚯 [Just killed my first mosquito of 2022.](http://9gag.com/gag/axBO5m1)<!-- MEMES:END -->
+ - 🚖 [Cthulhu sends his regards](http://9gag.com/gag/aVxZyyM)
+ - 🚯 [Racooney](http://9gag.com/gag/amgxen6)
+ - 🚯 [Yes...](http://9gag.com/gag/aegxnzj)<!-- MEMES:END -->
 
 --- 
 
