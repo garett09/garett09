@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [US blames North Korean hacker group for $625 million Axie Infinity theft](https://www.theverge.com/2022/4/14/23025739/north-korean-hacker-lazarus-axie-infinity-cryptocurrency-hack-theft-us-blames)
- - [Twitter CEO says board still evaluating Elon Musk takeover](https://www.theverge.com/2022/4/14/23025903/twitter-ceo-board-elon-musk-takeover-still-evaluating)<!-- TECH:END -->
+ - [Razer’s first Linux laptop is here, but it’s not for gamers](https://www.theverge.com/2022/4/14/23025968/razer-first-linux-laptop-lambda-tensorbook-tensorflow)
+ - [California-based Twingate, which offers zero-trust security tools for enterprise, raises a $42M Series B led by Bond Capital &lpar;Jay Fitzgerald/CRN&rpar;](http://www.techmeme.com/220414/p31#a220414p31)
+ - [Save $600 on the Omen X 2S, and more of the best HP laptop deals](https://www.androidauthority.com/hp-laptop-deals-1123504/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
