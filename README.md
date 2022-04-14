@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being woken up to a bear waiting for its food to come out of the tent](http://9gag.com/gag/aWgoKe6)
- - 🚯 [Fair competition?](http://9gag.com/gag/aDDbB0w)
- - 🚯 [Happy 44th Birthday Carlos.](http://9gag.com/gag/aBnEq1z)<!-- MEMES:END -->
+ - 🚖 [Fair competition?](http://9gag.com/gag/aDDbB0w)
+ - 🚯 [Ah, those times](http://9gag.com/gag/aRrv5p5)
+ - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
 
