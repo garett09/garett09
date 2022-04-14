@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes...](http://9gag.com/gag/aegxnzj)
- - 🚯 [Just killed my first mosquito of 2022.](http://9gag.com/gag/axBO5m1)
- - 🚯 [It was reported that Moskva cruiser ship is burning after it was hit by 2 Ukrainian Neptune missles.](http://9gag.com/gag/a0ZnBPd)<!-- MEMES:END -->
+ - 🚖 [How that idian guy on YouTube carrys me through my math exams](http://9gag.com/gag/aRrvY42)
+ - 🚯 [Swedish and finnish prime ministers today. I wonder if Magdalena Andersson is thinking what Im thinking..](http://9gag.com/gag/aDDbKe7)
+ - 🚯 [A flat earther was lost for words in a debate](http://9gag.com/gag/a21DeO1)<!-- MEMES:END -->
 
 --- 
 
