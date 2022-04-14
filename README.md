@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine, its allies, and hactivists have made public hundreds of gigabytes of files and millions of emails on the Russian state, including doxing Russian troops &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220414/p1#a220414p1)
- - [OnePlus 10 Pro goes on open sale today with plenty of freebies and offers](https://www.androidauthority.com/oneplus-10-pro-sale-offers-free-gifts-3153295/)
- - [2023 Jeep Wagoneer L Stretches Out in NY     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-jeep-wagoneer-l/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok&#39;s music distribution service SoundOn is receiving mixed reviews from Brazilian and Indonesian artists for delays in releases and issues in audience reach &lpar;Rest of World&rpar;](http://www.techmeme.com/220414/p2#a220414p2)
+ - [It’s official. OnePlus Ace incoming on April 21 as the first phone in a new line](https://www.androidauthority.com/oneplus-ace-launch-3153309/)
+ - [Ukraine, its allies, and hactivists have made public hundreds of gigabytes of files and millions of emails on the Russian state, including doxing Russian troops &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220414/p1#a220414p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
