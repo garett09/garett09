@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
- - [Today&#39;s Wordle answer #299: Thursday, April 14](https://www.pcgamer.com/wordle-april-14-299)
- - [Microsoft goes up against massive extortion botnet](https://www.pcgamer.com/microsoft-goes-up-against-massive-extortion-botnet)<!-- GAME:END -->
+ - [Elon Musk offers to buy Twitter](https://www.pcgamer.com/elon-musk-offers-to-buy-twitter)
+ - [Revisiting Crimzon Clover, a shmup that rivals the genre’s best](https://www.pcgamer.com/revisiting-crimzon-clover-a-shmup-that-rivals-the-genres-best)
+ - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
