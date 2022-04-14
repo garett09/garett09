@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the pandemic forced employees to work from home, some neurodivergent people are thriving at remote cybersecurity jobs &lpar;Nicolle Liu/Wall Street Journal&rpar;](http://www.techmeme.com/220413/p32#a220413p32)
- - [How to check PS5 downloads on the PS app](https://www.androidauthority.com/check-downloads-ps-app-ps5-3153149/)
- - [Android overheating issues are widespread and likely to get worse](https://www.androidauthority.com/overheating-phone-issues-3153111/)<!-- TECH:END -->
+ - [US government agencies warn of new custom tools, created by several APT actors, that are capable of compromising IT equipment used in critical infrastructure &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220413/p34#a220413p34)
+ - [You can now try 1Password’s customizable redesign on your iPhone and iPad](https://www.theverge.com/2022/4/13/23024443/1password-8-early-access-ios-iphone-ipad-beta-redesign-password-manager)
+ - [Pakistan Journalists Move to YouTube as Political Upheaval Forces Them Off TV     - CNET](https://www.cnet.com/news/politics/pakistan-journalists-move-to-youtube-as-political-upheaval-forces-them-off-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
