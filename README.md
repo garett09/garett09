@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple helped suppliers double clean energy use in 2021](https://appleinsider.com/articles/22/04/14/apple-helped-suppliers-double-clean-energy-use-in-2021?utm_medium=rss)
- - [Reddit updates its search to index comments, available globally on the web but not its apps, and improves natural language searches &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220414/p11#a220414p11)
- - [Filevine, which offers tools to help with legal workflows such as document management and billing, raises a $108M Series D, bringing its total funding to $155M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220414/p10#a220414p10)<!-- TECH:END -->
+ - [How to sync your Fitbit account with Strava](https://www.androidauthority.com/sync-fitbit-strava-3151427/)
+ - [Here Are Today&#39;s Refinance Rates, Apr. 14, 2022: Rates Increase     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-apr-14-2022-rates-increase/#ftag=CAD590a51e)
+ - [How to Survive a Heart Attack     - CNET](https://www.cnet.com/health/medical/how-to-survive-a-heart-attack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
