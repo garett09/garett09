@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts now lets creators splice in 1- to 5-second clips from long-form videos and Shorts, after previously allowing them to add only short audio clips &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220414/p20#a220414p20)
- - [YouTube Shorts now allows creators to splice in long-form videos](https://www.theverge.com/2022/4/14/23024230/youtube-shorts-video-sampling-remixing)
- - [WhatsApp is getting emoji reactions](https://www.theverge.com/2022/4/14/23025334/whatsapp-emoji-reaction-announcement-file-size-voice-calls)<!-- TECH:END -->
+ - [How to customize your Apple Watch workouts](https://www.theverge.com/23025352/apple-watch-workout-app-how-to)
+ - [Source says Twitter&#39;s board of directors views Elon Musk&#39;s takeover offer as unwelcome, suggesting it will fight the bid &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/220414/p22#a220414p22)
+ - [Pokemon Go Tapu Bulu Raid Guide: Best Counters, Weaknesses and Moveset     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-tapu-bulu-raid-guide-best-counters-weaknesses-and-moveset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
