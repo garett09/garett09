@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How that idian guy on YouTube carrys me through my math exams](http://9gag.com/gag/aRrvY42)
- - 🚯 [It was reported that Moskva cruiser ship is burning after it was hit by 2 Ukrainian Neptune missles.](http://9gag.com/gag/a0ZnBPd)
- - 🚯 [Tell me your favourite game quotes](http://9gag.com/gag/aVxZAGP)<!-- MEMES:END -->
+ - 🚖 [Tell me your favourite game quotes](http://9gag.com/gag/aVxZAGP)
+ - 🚯 [Doggo only eats his food if it&#39;s prepped like his owner&#39;s meal](http://9gag.com/gag/a51z86y)
+ - 🚯 [Gamer `girl`](http://9gag.com/gag/aVxZnQP)<!-- MEMES:END -->
 
 --- 
 
