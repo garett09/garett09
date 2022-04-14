@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me your favourite game quotes](http://9gag.com/gag/aVxZAGP)
- - 🚯 [Doggo only eats his food if it&#39;s prepped like his owner&#39;s meal](http://9gag.com/gag/a51z86y)
- - 🚯 [Gamer `girl`](http://9gag.com/gag/aVxZnQP)<!-- MEMES:END -->
+ - 🚖 [Ah, those times](http://9gag.com/gag/aRrv5p5)
+ - 🚯 [Gamer `girl`](http://9gag.com/gag/aVxZnQP)
+ - 🚯 [20 yrs later, Scrat finally got his nuts.](http://9gag.com/gag/avAx3vM)<!-- MEMES:END -->
 
 --- 
 
