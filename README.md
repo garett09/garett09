@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah, those times](http://9gag.com/gag/aRrv5p5)
- - 🚯 [Gamer `girl`](http://9gag.com/gag/aVxZnQP)
- - 🚯 [20 yrs later, Scrat finally got his nuts.](http://9gag.com/gag/avAx3vM)<!-- MEMES:END -->
+ - 🚖 [Fair competition?](http://9gag.com/gag/aDDbB0w)
+ - 🚯 [I&#39;m really proud](http://9gag.com/gag/aM4z3mA)
+ - 🚯 [Iranian house](http://9gag.com/gag/a11VzRY)<!-- MEMES:END -->
 
 --- 
 
