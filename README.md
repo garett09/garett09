@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sync your Fitbit account with Strava](https://www.androidauthority.com/sync-fitbit-strava-3151427/)
- - [Here Are Today&#39;s Refinance Rates, Apr. 14, 2022: Rates Increase     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-apr-14-2022-rates-increase/#ftag=CAD590a51e)
- - [How to Survive a Heart Attack     - CNET](https://www.cnet.com/health/medical/how-to-survive-a-heart-attack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Obsidian Security, which helps companies secure SaaS apps, raises a $90M Series C led by Menlo Ventures, bringing its total funding to $119.5M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220414/p14#a220414p14)
+ - [How to change your homepage on Firefox](https://www.androidauthority.com/change-homepage-firefox-3153083/)
+ - [How to turn off Siri suggestions](https://www.androidauthority.com/turn-off-siri-suggestions-3153065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
