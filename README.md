@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Over 50% of Steams top 100 games work on Steam Deck](https://www.pcgamer.com/over-50-of-steams-top-100-games-work-on-steam-deck)
  - [Let&#39;s Revisit A 1995 Anime Convention](https://kotaku.com/anime-convention-1995-90s-con-cosplay-katsucon-ichi-arc-1848791626)
- - [Guy Buys NFT For $2.9 Million, Asks for $48 Million, Is Offered $3600](https://kotaku.com/nft-jack-dorsey-sale-auction-sina-estavi-iran-prison-cr-1848791322)
- - [The state of Discord in 2022: gaming takes a backseat to forums](https://www.pcgamer.com/the-state-of-discord-in-2022-gaming-takes-a-backseat-to-forums)<!-- GAME:END -->
+ - [Computex 2022 is a go. Kind of](https://www.pcgamer.com/computex-2022-is-a-go-kind-of)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
