@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fair competition?](http://9gag.com/gag/aDDbB0w)
- - 🚯 [Ah, those times](http://9gag.com/gag/aRrv5p5)
+ - 🚖 [Now let&#39;s see what will happen in a couple of months...](http://9gag.com/gag/aYrMzVm)
+ - 🚯 [That is basically how i got married folks. Don&#39;t ever accept anything less.](http://9gag.com/gag/aLvAq8A)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
