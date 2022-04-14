@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We &lpar;might&rpar; finally know how tall Elden Ring’s Erdtree is](https://www.polygon.com/23025742/erdtree-elden-ring-how-tall)
- - [Play The Elder Scrolls Online Free for a Limited Time and Preview Tamriel’s Next Big Adventure](https://news.xbox.com/en-us/2022/04/14/play-the-elder-scrolls-online-free-for-a-limited-time/)
- - [The Elder Scrolls Online’s next expansion gives Bretons an overdue close-up](https://www.polygon.com/23025736/eso-high-isle-teso-expansion-elder-scrolls-online-release-date-preview)<!-- GAME:END -->
+ - [Destiny 2’s Rotator system will give players new reasons to play old raids and dungeons](https://www.polygon.com/23025772/destiny-2-raid-rotation-old-content-lockout-pinnacle)
+ - [Making Overwatch 2&#39;s Sojourn was hard because &#39;railguns are kinda overpowered&#39;](https://www.pcgamer.com/making-overwatch-2s-sojourn-was-hard-because-railguns-are-kinda-overpowered)
+ - [We &lpar;might&rpar; finally know how tall Elden Ring’s Erdtree is](https://www.polygon.com/23025742/erdtree-elden-ring-how-tall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
