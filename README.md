@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My moral compass killed 61,000 people in this game, and I probably don&#39;t regret it](https://www.pcgamer.com/my-moral-compass-killed-61000-people-in-this-game-and-i-probably-dont-regret-it)
- - [Watch Elden Ring bosses fight each other for a change](https://www.polygon.com/23024213/elden-ring-bosses-fight-each-other-youtube)
- - [The Witcher 3&#39;s next-gen upgrade has been delayed &#39;until further notice&#39;](https://www.pcgamer.com/the-witcher-3s-next-gen-upgrade-has-been-delayed-until-further-notice)<!-- GAME:END -->
+ - [Guy Buys NFT For $2.9 Million, Asks for $48 Million, Is Offered $3600](https://kotaku.com/nft-jack-dorsey-sale-auction-sina-estavi-iran-prison-cr-1848791322)
+ - [Please Enjoy This Satisfying Video Showing How Heatsinks Are Made](https://kotaku.com/heatsink-how-made-ps5-ps4-xbox-pc-factory-video-explain-1848791063)
+ - [Hello Games&#39; next project isn&#39;t a No Man&#39;s Sky sequel, but it&#39;s just as ambitious](https://www.pcgamer.com/hello-games-next-project-isnt-a-no-mans-sky-sequel-but-its-just-as-ambitious)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
