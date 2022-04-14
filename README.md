@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The case for Critical Role’s Dorian Storm: Can we please keep him?](https://www.polygon.com/23023789/critical-role-robbie-daymond-dorian-storm-exandria-unlimited-new-character-appearance)
- - [David Cronenberg returns to sci-fi body horror with Crimes of the Future trailer](https://www.polygon.com/2022/4/14/23024954/crimes-of-the-future-trailer-release-date-david-cronenberg)
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
+ - [Vanillaware’s PS2 game GrimGrimoire getting Switch, PS4 remake](https://www.polygon.com/23025047/vanillaware-ps2-remake-grimgrimoire-nintendo-switch-ps4)
+ - [Elden Ring &#39;Easy Mode&#39; Is One Of The Most Popular PC Mods ATM](https://kotaku.com/elden-ring-nexus-mods-easy-mode-odashikonbu-fromsoftwar-1848790566)
+ - [The case for Critical Role’s Dorian Storm: Can we please keep him?](https://www.polygon.com/23023789/critical-role-robbie-daymond-dorian-storm-exandria-unlimited-new-character-appearance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
