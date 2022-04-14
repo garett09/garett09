@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do children need to see two dudes kissing](http://9gag.com/gag/avAxbKM)
- - 🚯 [Love is just around the corner](http://9gag.com/gag/a81erK1)
+ - 🚖 [Smartested](http://9gag.com/gag/aqGxvwP)
+ - 🚯 [Sweet](http://9gag.com/gag/aDDbBgN)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
