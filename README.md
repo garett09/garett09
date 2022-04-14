@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons Direct event will reveal the future of D&amp;D on April 21](https://www.polygon.com/2022/4/14/23025150/dnd-direct-date-time-movie-tv-dragonlance)
- - [The 8-year process behind Playdate’s glorious crank](https://www.polygon.com/23013686/playdate-panic-crank-history)
- - [Free Play Days – The Elder Scrolls Online, Control, and Hunting Simulator 2](https://news.xbox.com/en-us/2022/04/14/free-play-days-the-elder-scrolls-online-control-and-hunting-simulator-2/)<!-- GAME:END -->
+ - [Chainsaw Man creator’s new one-shot is available free, for now](https://www.polygon.com/23025171/chainsaw-man-tatsuki-fujimoto-one-shot-free-goodbye-eri-shonen-jump-viz)
+ - [Strike from the Shadows in the Newest Rogue Company Update](https://news.xbox.com/en-us/2022/04/14/strike-from-the-shadows-in-the-newest-rogue-company-update/)
+ - [Where To Find A Ton Of Legendary Loot In Tiny Tina’s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-where-to-find-legendary-loot-shi-1848793713)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
