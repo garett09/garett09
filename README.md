@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Obsidian Security, which helps companies secure SaaS apps, raises a $90M Series C led by Menlo Ventures, bringing its total funding to $119.5M &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/220414/p14#a220414p14)
- - [How to change your homepage on Firefox](https://www.androidauthority.com/change-homepage-firefox-3153083/)
- - [How to turn off Siri suggestions](https://www.androidauthority.com/turn-off-siri-suggestions-3153065/)<!-- TECH:END -->
+ - [WhatsApp Doubles Down With End-to-End Encrypted ‘Communities’](https://www.wired.com/story/whatsapp-communities-feature)
+ - [WhatsApp’s new Communities tab creates a way for group admins to message thousands](https://www.theverge.com/2022/4/14/23024703/whatsapp-communities-admin-group-messaging-feature)
+ - [Satechi launches new space-saving dual laptop stand](https://appleinsider.com/articles/22/04/14/satechi-launches-new-space-saving-dual-laptop-stand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
