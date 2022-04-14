@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BareFeats&#39; Robert Arthur Morgan dies aged 77](https://appleinsider.com/articles/22/04/14/barefeats-robert-arthur-morgan-dies-aged-77?utm_medium=rss)
- - [Redmi Note 11 Pro 5G review: Hard to take note of](https://www.androidauthority.com/redmi-note-11-pro-5g-review-3147333/)
- - [NextSense Wants to Get in Your Ears and Watch Your Brain](https://www.wired.com/story/nextsense-wants-to-get-in-your-ears-and-watch-your-brain)<!-- TECH:END -->
+ - [HP Spectre x360 16 Review: Big, Luxurious 2-in-1 for Creatives     - CNET](https://www.cnet.com/tech/computing/hp-spectre-x360-16-review-big-luxurious-2-in-1-for-creatives/#ftag=CAD590a51e)
+ - [IPVanish Review: This VPN&#39;s Security Issues and a Flawed Quick Connect Feature Hold It Back     - CNET](https://www.cnet.com/tech/services-and-software/ipvanish-review-this-vpns-security-issues-and-a-flawed-quick-connect-feature-hold-it-back/#ftag=CAD590a51e)
+ - [Merge Away, Warner Bros. Discovery, Just Don&#39;t Charge Us More Money for HBO Max     - CNET](https://www.cnet.com/tech/services-and-software/merge-away-warner-bros-discovery-just-dont-charge-us-more-money-for-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
