@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Spoke At TED Thursday About Twitter. Here Are the Key Takeaways     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-spoke-at-ted-thursday-about-twitter-here-are-the-key-takeaways/#ftag=CAD590a51e)
- - [The Twitter board is reportedly not interested in Elon’s takeover offer](https://www.theverge.com/2022/4/14/23025537/twitter-board-shareholders-elon-musk-hostile-takeover-poison-pill)
- - [Best Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Questions surround how Elon Musk will buy Twitter and what he will do with it](https://appleinsider.com/articles/22/04/14/questions-surround-how-elon-musk-will-buy-twitter-and-what-he-will-do-with-it?utm_medium=rss)
+ - [A year after Facebook launched podcasts and other audio tools for creators, sources say Meta has shifted its focus to metaverse events and online shopping &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220414/p26#a220414p26)
+ - [I tried to duo with ‘Let me solo her’ in Elden Ring, and it didn’t go well](https://www.theverge.com/2022/4/14/23025610/elden-ring-pc-let-me-solo-her-malenia-boss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
