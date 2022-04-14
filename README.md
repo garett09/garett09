@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid harassing a homeless man till he flips out](http://9gag.com/gag/a7194jb)
- - 🚯 [Lol wtf?!!!!!](http://9gag.com/gag/a21DQ6Z)
+ - 🚖 [Welcome to Bulgaria b*tch](http://9gag.com/gag/aYrMzZq)
+ - 🚯 [I&#39;m people](http://9gag.com/gag/aE8DvGp)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
