@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let&#39;s Revisit A 1995 Anime Convention](https://kotaku.com/anime-convention-1995-90s-con-cosplay-katsucon-ichi-arc-1848791626)
  - [Guy Buys NFT For $2.9 Million, Asks for $48 Million, Is Offered $3600](https://kotaku.com/nft-jack-dorsey-sale-auction-sina-estavi-iran-prison-cr-1848791322)
- - [Please Enjoy This Satisfying Video Showing How Heatsinks Are Made](https://kotaku.com/heatsink-how-made-ps5-ps4-xbox-pc-factory-video-explain-1848791063)
- - [Hello Games&#39; next project isn&#39;t a No Man&#39;s Sky sequel, but it&#39;s just as ambitious](https://www.pcgamer.com/hello-games-next-project-isnt-a-no-mans-sky-sequel-but-its-just-as-ambitious)<!-- GAME:END -->
+ - [The state of Discord in 2022: gaming takes a backseat to forums](https://www.pcgamer.com/the-state-of-discord-in-2022-gaming-takes-a-backseat-to-forums)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
