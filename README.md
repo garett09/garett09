@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get a refund from the Sony PlayStation Store](https://www.androidauthority.com/refund-sony-playstation-store-3153751/)
- - [Kpler, which provides data analytics tools to commodity traders, raises $200M led by Five Arrows and Insight Partners &lpar;Alex Longley/Bloomberg&rpar;](http://www.techmeme.com/220414/p27#a220414p27)
- - [In his first Amazon shareholder letter, CEO Andy Jassy talks AWS, Prime, and labor](https://www.theverge.com/2022/4/14/23025504/2021-amazon-shareholder-letter-ceo-andy-jassy-aws-unions)<!-- TECH:END -->
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [US blames North Korean hacker group for $625 million Axie Infinity theft](https://www.theverge.com/2022/4/14/23025739/north-korean-hacker-lazarus-axie-infinity-cryptocurrency-hack-theft-us-blames)
+ - [Twitter CEO says board still evaluating Elon Musk takeover](https://www.theverge.com/2022/4/14/23025903/twitter-ceo-board-elon-musk-takeover-still-evaluating)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
