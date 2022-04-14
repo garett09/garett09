@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp Doubles Down With End-to-End Encrypted ‘Communities’](https://www.wired.com/story/whatsapp-communities-feature)
- - [WhatsApp’s new Communities tab creates a way for group admins to message thousands](https://www.theverge.com/2022/4/14/23024703/whatsapp-communities-admin-group-messaging-feature)
- - [Satechi launches new space-saving dual laptop stand](https://appleinsider.com/articles/22/04/14/satechi-launches-new-space-saving-dual-laptop-stand?utm_medium=rss)<!-- TECH:END -->
+ - [How to access extended characters like the degree symbol on iPhone and Mac](https://appleinsider.com/inside/iphone/tips/how-to-access-extended-characters-like-the-degree-symbol-on-iphone-and-mac?utm_medium=rss)
+ - [Elon Musk Has Triggered a Battle for the Future of Twitter](https://www.wired.com/story/elon-musk-takeover-twitter)
+ - [Terraform Labs, which runs the Terra blockchain and UST stablecoin, gifts 10M LUNA tokens, worth ~$880M, to the Luna Foundation Guard, likely to underpin UST &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220414/p18#a220414p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
