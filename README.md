@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)
- - [Tencent says it will shut down a service, which allowed Chinese gamers access overseas platforms to play unapproved foreign games, starting May 31 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220414/p4#a220414p4)
- - [Since the Ukraine invasion, thousands of Russian tech workers have left the country, an exodus that will fundamentally change the Russian tech industry &lpar;New York Times&rpar;](http://www.techmeme.com/220414/p3#a220414p3)<!-- TECH:END -->
+ - [Sources: Sequoia India&#39;s Shailendra Singh leaves fashion marketplace Zilingo&#39;s board, amid a probe into its accounting methods and suspension of CEO Ankiti Bose &lpar;Bloomberg&rpar;](http://www.techmeme.com/220414/p5#a220414p5)
+ - [Two new Motorolas break cover: A 144Hz mid-ranger and a 90Hz budget model](https://www.androidauthority.com/motorola-edge-30-moto-g-5g-2022-renders-3153347/)
+ - [Fiido X e-bike recalled due to risk of breaking in half](https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
