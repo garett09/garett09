@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize your Apple Watch workouts](https://www.theverge.com/23025352/apple-watch-workout-app-how-to)
- - [Source says Twitter&#39;s board of directors views Elon Musk&#39;s takeover offer as unwelcome, suggesting it will fight the bid &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/220414/p22#a220414p22)
- - [Pokemon Go Tapu Bulu Raid Guide: Best Counters, Weaknesses and Moveset     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-tapu-bulu-raid-guide-best-counters-weaknesses-and-moveset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Spoke At TED Thursday About Twitter. Here Are the Key Takeaways     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-spoke-at-ted-thursday-about-twitter-here-are-the-key-takeaways/#ftag=CAD590a51e)
+ - [The Twitter board is reportedly not interested in Elon’s takeover offer](https://www.theverge.com/2022/4/14/23025537/twitter-board-shareholders-elon-musk-hostile-takeover-poison-pill)
+ - [Best Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
