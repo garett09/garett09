@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IMMO, whose tech lets institutional investors sell, rent, and invest in single family homes, raises a $75M Series B led by Oak HC/FT to expand across Europe &lpar;Tony Zerucha/Crowdfund Insider&rpar;](http://www.techmeme.com/220413/p38#a220413p38)
- - [Sources: the US Department of Commerce is investigating Synopsys, the biggest supplier of chip design software, for possibly passing key tech to Huawei and SMIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/220413/p37#a220413p37)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-prime-video-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine, its allies, and hactivists have made public hundreds of gigabytes of files and millions of emails on the Russian state, including doxing Russian troops &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220414/p1#a220414p1)
+ - [OnePlus 10 Pro goes on open sale today with plenty of freebies and offers](https://www.androidauthority.com/oneplus-10-pro-sale-offers-free-gifts-3153295/)
+ - [2023 Jeep Wagoneer L Stretches Out in NY     - Roadshow](https://www.cnet.com/roadshow/pictures/2023-jeep-wagoneer-l/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
