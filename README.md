@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hardspace: Shipbreaker breaks out of early access next month](https://www.pcgamer.com/hardspace-shipbreaker-breaks-out-of-early-access-next-month)
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [The stakes have never been higher for World of Warcraft&#39;s next expansion](https://www.pcgamer.com/the-stakes-have-never-been-higher-for-world-of-warcrafts-next-expansion)<!-- GAME:END -->
+ - [The case for Critical Role’s Dorian Storm: Can we please keep him?](https://www.polygon.com/23023789/critical-role-robbie-daymond-dorian-storm-exandria-unlimited-new-character-appearance)
+ - [David Cronenberg returns to sci-fi body horror with Crimes of the Future trailer](https://www.polygon.com/2022/4/14/23024954/crimes-of-the-future-trailer-release-date-david-cronenberg)
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
