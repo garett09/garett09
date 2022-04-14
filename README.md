@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to access extended characters like the degree symbol on iPhone and Mac](https://appleinsider.com/inside/iphone/tips/how-to-access-extended-characters-like-the-degree-symbol-on-iphone-and-mac?utm_medium=rss)
- - [Elon Musk Has Triggered a Battle for the Future of Twitter](https://www.wired.com/story/elon-musk-takeover-twitter)
- - [Terraform Labs, which runs the Terra blockchain and UST stablecoin, gifts 10M LUNA tokens, worth ~$880M, to the Luna Foundation Guard, likely to underpin UST &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220414/p18#a220414p18)<!-- TECH:END -->
+ - [YouTube Shorts now lets creators splice in 1- to 5-second clips from long-form videos and Shorts, after previously allowing them to add only short audio clips &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220414/p20#a220414p20)
+ - [YouTube Shorts now allows creators to splice in long-form videos](https://www.theverge.com/2022/4/14/23024230/youtube-shorts-video-sampling-remixing)
+ - [WhatsApp is getting emoji reactions](https://www.theverge.com/2022/4/14/23025334/whatsapp-emoji-reaction-announcement-file-size-voice-calls)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
