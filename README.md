@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now let&#39;s see what will happen in a couple of months...](http://9gag.com/gag/aYrMzVm)
- - 🚯 [That is basically how i got married folks. Don&#39;t ever accept anything less.](http://9gag.com/gag/aLvAq8A)
+ - 🚖 [Why do children need to see two dudes kissing](http://9gag.com/gag/avAxbKM)
+ - 🚯 [Love is just around the corner](http://9gag.com/gag/a81erK1)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
