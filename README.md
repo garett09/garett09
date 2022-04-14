@@ -197,7 +197,7 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the restrictions are finally over and you forgot how to socialize](http://9gag.com/gag/aDDVR9O)
+ - 🚖 [Literally no villain, just a family with problems](http://9gag.com/gag/aVxLzqK)
  - 🚯 [They ruined Vikings by trying to be woke](http://9gag.com/gag/a612mLR)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
