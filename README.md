@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man creator’s new one-shot is available free, for now](https://www.polygon.com/23025171/chainsaw-man-tatsuki-fujimoto-one-shot-free-goodbye-eri-shonen-jump-viz)
- - [Strike from the Shadows in the Newest Rogue Company Update](https://news.xbox.com/en-us/2022/04/14/strike-from-the-shadows-in-the-newest-rogue-company-update/)
- - [Where To Find A Ton Of Legendary Loot In Tiny Tina’s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-where-to-find-legendary-loot-shi-1848793713)<!-- GAME:END -->
+ - [Where to find map fragments in Elden Ring](https://www.pcgamer.com/elden-ring-map-fragments-locations)
+ - [Apex Legends goes directly to jail for a 2-week Unshackled event](https://www.pcgamer.com/apex-legends-goes-directly-to-jail-for-a-2-week-unshackled-event)
+ - [Pre-Order Age of Empires II: Definitive Edition – Dynasties of India Starting Today](https://news.xbox.com/en-us/2022/04/14/pre-order-age-of-empires-2-definitive-edition-dynasties-of-india-starting-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
