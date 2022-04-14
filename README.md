@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s music distribution service SoundOn is receiving mixed reviews from Brazilian and Indonesian artists for delays in releases and issues in audience reach &lpar;Rest of World&rpar;](http://www.techmeme.com/220414/p2#a220414p2)
- - [It’s official. OnePlus Ace incoming on April 21 as the first phone in a new line](https://www.androidauthority.com/oneplus-ace-launch-3153309/)
- - [Ukraine, its allies, and hactivists have made public hundreds of gigabytes of files and millions of emails on the Russian state, including doxing Russian troops &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220414/p1#a220414p1)<!-- TECH:END -->
+ - [Tencent says it will shut down a service, which allowed Chinese gamers access overseas platforms to play unapproved foreign games, starting May 31 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220414/p4#a220414p4)
+ - [Since the Ukraine invasion, thousands of Russian tech workers have left the country, an exodus that will fundamentally change the Russian tech industry &lpar;New York Times&rpar;](http://www.techmeme.com/220414/p3#a220414p3)
+ - [OnePlus 10R and Nord CE 2 Lite launching on April 28 &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-april-28-event-3151419/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
