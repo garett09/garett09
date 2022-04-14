@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 next-gen upgrade is not in &#39;development hell,&#39; CD Projekt insists](https://www.pcgamer.com/the-witcher-3-next-gen-upgrade-is-not-in-development-hell-cd-projekt-insists)
- - [CDPR Says ‘Vast Part’ Of Fixing Cyberpunk 2077 Is Done, Focused On Other Projects](https://kotaku.com/cyberpunk-2077-cdpr-expansion-multiplayer-fix-patch-wit-1848795532)
- - [&#39;Let me solo her&#39; is Elden Ring&#39;s first legendary player](https://www.pcgamer.com/let-me-solo-her-is-elden-rings-first-legendary-player)<!-- GAME:END -->
+ - [We &lpar;might&rpar; finally know how tall Elden Ring’s Erdtree is](https://www.polygon.com/23025742/erdtree-elden-ring-how-tall)
+ - [Play The Elder Scrolls Online Free for a Limited Time and Preview Tamriel’s Next Big Adventure](https://news.xbox.com/en-us/2022/04/14/play-the-elder-scrolls-online-free-for-a-limited-time/)
+ - [The Elder Scrolls Online’s next expansion gives Bretons an overdue close-up](https://www.polygon.com/23025736/eso-high-isle-teso-expansion-elder-scrolls-online-release-date-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
