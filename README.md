@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out the Newest EA Play Member Rewards for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/04/15/new-ea-play-member-rewards-for-xbox-game-pass-ultimate/)
- - [Amouranth Says She&#39;s &#39;Quitting&#39; OnlyFans, Invests In Twitch](https://kotaku.com/amouranth-twitch-onlyfans-e-girl-retirement-activision-1848799220)
- - [Lego Star Wars: The Skywalker Saga’s 15 Most Obscure Playable Characters](https://kotaku.com/lego-star-wars-skywalker-saga-obscure-weird-list-charac-1848796775)<!-- GAME:END -->
+ - [Nvidia leaked game list: The most exciting games still unannounced](https://www.pcgamer.com/nvidia-leaked-games-list-pc)
+ - [Destiny 2 Xur location and items, April 15-19](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/15/23027003/destiny-2-xur-location-items-april-15-19)
+ - [Check Out the Newest EA Play Member Rewards for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/04/15/new-ea-play-member-rewards-for-xbox-game-pass-ultimate/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
