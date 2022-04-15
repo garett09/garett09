@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No More Heroes 3 is coming to PC, PlayStation, and Xbox in fall 2022](https://www.theverge.com/2022/4/15/23027318/no-more-heroes-3-pc-playstation-5-xbox-series-x-s-consoles-fall-2022)
- - [A look at independent investigators, like @zachxbt and YouTuber @coffeebreak_YT, who are uncovering crypto and Web3 scams, often using pseudonymous identities &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220415/p14#a220415p14)
- - [New &#39;Chocolate&#39; ad spot highlights the Apple Card&#39;s easy signup](https://appleinsider.com/articles/22/04/15/new-chocolate-ad-spot-highlights-the-apple-cards-easy-signup?utm_medium=rss)<!-- TECH:END -->
+ - [Coda Payments, which offers cross-border payments for games, alternative app stores, and other digital products, raises $690M at a $2.5B valuation &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220415/p16#a220415p16)
+ - [I tried to duo with ‘Let me solo her’ in Elden Ring, and it didn’t go well](https://www.theverge.com/2022/4/14/23025610/elden-ring-pc-let-me-solo-her-malenia-boss)
+ - [DuckDuckGo seems to have completely removed the search results for YouTube-dl and many popular pirates sites including The Pirate Bay and 1337x.to &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220415/p15#a220415p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
