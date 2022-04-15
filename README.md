@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget guns, just kick the crap out of everyone in FPS Anger Foot](https://www.pcgamer.com/forget-guns-just-kick-the-crap-out-of-everyone-in-fps-anger-foot)
  - [Severance isn’t a show about quitting your job, it’s about burning it down](https://www.polygon.com/23025964/severance-finale-metaphor-capitalism)
- - [US government says $650M Axie Infinity crypto-heist was pulled by North Korea](https://www.pcgamer.com/us-government-says-dollar650m-axie-infinity-crypto-heist-was-pulled-by-north-korea)
- - [Destiny 2’s Rotator system will give players new reasons to play old raids and dungeons](https://www.polygon.com/23025772/destiny-2-raid-rotation-old-content-lockout-pinnacle)<!-- GAME:END -->
+ - [US government says $650M Axie Infinity crypto-heist was pulled by North Korea](https://www.pcgamer.com/us-government-says-dollar650m-axie-infinity-crypto-heist-was-pulled-by-north-korea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
