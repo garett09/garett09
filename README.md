@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all need a Rachel in our life](http://9gag.com/gag/ajgZnR1)
- - 🚯 [Fix!](http://9gag.com/gag/aZrjN30)
- - 🚯 [Weird things caught on security cameras](http://9gag.com/gag/aOQPm9y)<!-- MEMES:END -->
+ - 🚖 [Taking this road I save petrol](http://9gag.com/gag/aM4vQZV)
+ - 🚯 [Chinesium at its finest](http://9gag.com/gag/amgM8jy)
+ - 🚯 [Panzerschokolade](http://9gag.com/gag/aOQPm4E)<!-- MEMES:END -->
 
 --- 
 
