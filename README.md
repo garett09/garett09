@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Slack Features and How to Use Them     - CNET](https://www.cnet.com/tech/services-and-software/best-slack-features/#ftag=CAD590a51e)
- - [Can you manually log steps in the Fitbit app?](https://www.androidauthority.com/manually-log-steps-fitbit-3152020/)
- - [Can you swim with the Apple Watch?](https://www.androidauthority.com/swim-apple-watch-3146819/)<!-- TECH:END -->
+ - [The Rise of Brand-New Secondhand EVs](https://www.wired.com/story/secondhand-new-evs-price-rise)
+ - [Best Laptop for 2022: Here Are 15 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
+ - [Space Command’s Lt. Gen. John Shaw on the Future of Space Security](https://www.wired.com/story/space-commands-lt-gen-john-shaw-on-the-future-of-space-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
