@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s incredible $569.99 M1 Mac mini offer is back while supplies last](https://appleinsider.com/articles/22/04/13/amazons-incredible-56999-m1-mac-mini-offer-is-back-while-supplies-last?utm_medium=rss)
- - [Apple’s M2 chips and the computers they’ll power detailed in new leak](https://www.theverge.com/2022/4/14/23026073/apple-m2-silicon-macbook-air-pro-mac-mini-rumors)
- - [At TED, Elon Musk Revealed Why He Has to Own Twitter](https://www.wired.com/story/elon-musk-ted-twitter-takeover)<!-- TECH:END -->
+ - [GridX, which offers rate analytics and billing software to utilities and energy tech companies, raises a $40M Series C led by Energy Impact Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220414/p37#a220414p37)
+ - [Las Vegas-based MedTrainer, which provides cloud-based compliance software for the healthcare industry, raises a $43M Series B led by Vista Equity Partners &lpar;Kolawole Samuel Adebayo/VentureBeat&rpar;](http://www.techmeme.com/220414/p36#a220414p36)
+ - [There&#39;s Been a Huge Stellar Explosion in the Serpent Bearer Constellation     - CNET](https://www.cnet.com/science/space/theres-been-a-huge-stellar-explosion-in-the-serpent-bearer-constellation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
