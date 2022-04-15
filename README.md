@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)
- - [How Our Flag Means Death’s creator made a period romance disguised as a pirate comedy](https://www.theverge.com/2022/4/15/23024365/our-flag-means-death-david-jenkins-interview)
- - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Arceus and Darkrai     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-arceus-and-darkrai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Sonic 2&#39;: Who&#39;s That Dark Post-Credits Scene Character?     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-is-there-a-post-credits-scene/#ftag=CAD590a51e)
+ - [Another tiny shred of evidence surfaces for the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-evan-blass-3154105/)
+ - [Best Game Pass and Xbox Live Deals     - CNET](https://www.cnet.com/tech/gaming/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
