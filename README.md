@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coda Payments, which offers cross-border payments for games, alternative app stores, and other digital products, raises $690M at a $2.5B valuation &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220415/p16#a220415p16)
- - [I tried to duo with ‘Let me solo her’ in Elden Ring, and it didn’t go well](https://www.theverge.com/2022/4/14/23025610/elden-ring-pc-let-me-solo-her-malenia-boss)
- - [DuckDuckGo seems to have completely removed the search results for YouTube-dl and many popular pirates sites including The Pirate Bay and 1337x.to &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220415/p15#a220415p15)<!-- TECH:END -->
+ - [Go read this deep dive into the changes coming to Android 13](https://www.theverge.com/2022/4/15/23027396/android-13-developer-preview-deep-dive-changes-go-read-this)
+ - [Samsung’s Galaxy Chromebook 2 360 offers a high-resolution screen for under $500](https://www.theverge.com/2022/4/15/23027218/samsung-galaxy-chromebook-2-360-chrome-os)
+ - [Opera launches its Crypto Browser app on iOS, with a built-in crypto wallet, direct access to cryptocurrency and NFT exchanges, dApps, and more &lpar;Aliya Chaudhry/TechCrunch&rpar;](http://www.techmeme.com/220415/p17#a220415p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
