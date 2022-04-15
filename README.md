@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free Unreal Engine game creation tool &#39;Core&#39; is coming to macOS, iOS](https://appleinsider.com/articles/22/04/15/free-unreal-engine-game-creation-tool-core-is-coming-to-macos-ios?utm_medium=rss)
- - [How to put the Windows 11 Start menu back where it belongs](https://www.theverge.com/22684671/windows-11-microsoft-start-menu-how-to)
- - [How to Watch Rays vs. White Sox, Reds vs. Dodgers Friday on Apple TV Plus     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-rays-vs-white-sox-reds-vs-dodgers-friday-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Little Signals concepts show what ‘ambient’ notifications could look like](https://www.theverge.com/2022/4/15/23026074/google-little-signals-concept-diy-build-ambient-notifications)
+ - [An interview with Senator Cynthia Lummis on advocating for the crypto industry, educating members of Congress, buying $100K+ in bitcoin and holding, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220415/p12#a220415p12)
+ - [Bandai Namco’s Gundam ‘metaverse’ dream mixes esports, Web3, and Gunpla](https://www.theverge.com/2022/4/15/23026813/bandai-namco-gundam-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
