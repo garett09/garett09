@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [YA ITS ME ONLY ME!](http://9gag.com/gag/ay9RL3W)
- - 🚯 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)
- - 🚯 [Not the first time a billionaire did it](http://9gag.com/gag/a0Z1jRZ)<!-- MEMES:END -->
+ - 🚖 [Not the first time a billionaire did it](http://9gag.com/gag/a0Z1jRZ)
+ - 🚯 [Some people will say it&#39;s fake](http://9gag.com/gag/a912701)
+ - 🚯 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
 
 --- 
 
