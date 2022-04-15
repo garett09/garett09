@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 22 Jackie Robinson Day Celebration](https://blog.playstation.com/2022/04/15/mlb-the-show-22-jackie-robinson-day-celebration/)
- - [MLB The Show 22 Jackie Robinson Day Celebration](https://blog.playstation.com/2022/04/15/mlb-the-show-22-jackie-robinson-day-celebration/)
- - [Young Justice heroes share what they read and watch when they’re not saving the world](https://www.polygon.com/entertainment/23014687/young-justice-movies-beast-boy-miss-martian-artemis)<!-- GAME:END -->
+ - [Next Week on Xbox April 18 to 22](https://news.xbox.com/en-us/2022/04/15/next-week-on-xbox-april-18-to-22/)
+ - [Destiny 2 is adding a weekly rotator for old raids and dungeons](https://www.pcgamer.com/destiny-2-is-adding-a-weekly-rotator-for-old-raids-and-dungeons)
+ - [Touching One Piece Moment Turned Into Hilariously Frustrating Minigame](https://kotaku.com/one-piece-luffy-shanks-straw-hat-manga-anime-qwop-eiich-1848796563)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
