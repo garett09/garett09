@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ways Shanghai&#39;s Food Crisis Is Impacting Chinese Game Devs](https://kotaku.com/genshin-impact-shanghai-lockdown-covid-food-shortages-h-1848799825)
- - [Hideo Kojima shoots down Sony buyout rumor started by Hideo Kojima](https://www.pcgamer.com/hideo-kojima-shoots-down-sony-buyout-rumor-started-by-hideo-kojima)
- - [Nvidia leaked game list: The most exciting games still unannounced](https://www.pcgamer.com/nvidia-leaked-games-list-pc)<!-- GAME:END -->
+ - [No More Heroes 3 coming to PC, PlayStation, and Xbox this fall](https://www.polygon.com/23027274/no-more-heroes-3-port-pc-playstation-xbox-fall-2022)
+ - [Kingdom Hearts 4 Sleuthers Find Sora’s Apartment IRL, And It Ain’t Cheap](https://kotaku.com/kingdom-hearts-4-sora-tokyo-apartment-aitaikimochi-squa-1848800122)
+ - [XCOM 2, One Of The Best PC Strategy Games Ever Made, Is Currently Free](https://kotaku.com/xcom-2-free-epic-games-store-april-pc-gaming-strategy-a-1848800105)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
