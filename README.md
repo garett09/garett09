@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S21 series now available as Certified Re-Newed, saving you hundreds](https://www.androidauthority.com/samsung-galaxy-s21-renewed-3153713/)
- - [Apple&#39;s user privacy stance has caused problems for internal engineering teams](https://appleinsider.com/articles/22/04/15/apples-user-privacy-stance-has-caused-problems-for-internal-engineering-teams?utm_medium=rss)
- - [Best Hair Dryer for 2022     - CNET](https://www.cnet.com/health/personal-care/best-hair-dryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)
+ - [How Our Flag Means Death’s creator made a period romance disguised as a pirate comedy](https://www.theverge.com/2022/4/15/23024365/our-flag-means-death-david-jenkins-interview)
+ - [Pokemon Brilliant Diamond and Shining Pearl: How to Get Arceus and Darkrai     - CNET](https://www.cnet.com/tech/gaming/pokemon-brilliant-diamond-and-shining-pearl-how-to-get-arceus-and-darkrai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
