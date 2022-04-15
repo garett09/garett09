@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tax Software for Self-Employed in 2022: Freelancers and Gig Workers, Look Here     - CNET](https://www.cnet.com/personal-finance/taxes/best-tax-software-for-self-employed-in-2022-freelancers-and-gig-workers-look-here/#ftag=CAD590a51e)
- - [GridX, which offers rate analytics and billing software to utilities and energy tech companies, raises a $40M Series C led by Energy Impact Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220414/p37#a220414p37)
- - [Las Vegas-based MedTrainer, which provides cloud-based compliance software for the health care industry, raises a $43M Series B led by Vista Equity Partners &lpar;Kolawole Samuel Adebayo/VentureBeat&rpar;](http://www.techmeme.com/220414/p36#a220414p36)<!-- TECH:END -->
+ - [Sources: TikTok is under investigation by US government agencies for CSAM and how a specific privacy feature is being exploited by predators &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220415/p1#a220415p1)
+ - [WhatsApp announces a big feature drop. Here’s what’s coming to the chat app.](https://www.androidauthority.com/whatsapp-communities-new-features-3153950/)
+ - [Best Tax Software for Self-Employed in 2022: Freelancers and Gig Workers, Look Here     - CNET](https://www.cnet.com/personal-finance/taxes/best-tax-software-for-self-employed-in-2022-freelancers-and-gig-workers-look-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
