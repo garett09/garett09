@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That move!](http://9gag.com/gag/aVxLzpw)
- - 🚯 [Whatever](http://9gag.com/gag/aWgbZVn)
+ - 🚖 [Moskva define it self as submarine now](http://9gag.com/gag/aGzA9Q0)
+ - 🚯 [Hehehehe](http://9gag.com/gag/arnqpz6)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
