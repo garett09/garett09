@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moskva define it self as submarine now](http://9gag.com/gag/aGzA9Q0)
- - 🚯 [Hehehehe](http://9gag.com/gag/arnqpz6)
+ - 🚖 [Today is my birthday! I become 30 level! Sadly no one celebrated except me but its okay.](http://9gag.com/gag/a312P55)
+ - 🚯 [Step tractor...What are you doing?](http://9gag.com/gag/aogLz4X)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
