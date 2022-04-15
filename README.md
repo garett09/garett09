@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where Hoverboard?](http://9gag.com/gag/aZrjM90)
- - 🚯 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)
- - 🚯 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)<!-- MEMES:END -->
+ - 🚖 [Not sure the drone shot was worth it!](http://9gag.com/gag/awzdV2Q)
+ - 🚯 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)
+ - 🚯 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
 
 --- 
 
