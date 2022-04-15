@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2800\u2800\u2800\u2800](http://9gag.com/gag/aYrqejq)
- - 🚯 [Gandalf: You Shall Pass](http://9gag.com/gag/aLvm2KA)
+ - 🚖 [Gandalf: You Shall Pass](http://9gag.com/gag/aLvm2KA)
+ - 🚯 [Devils work indeed](http://9gag.com/gag/aBnGYLZ)
  - 🚯 [We all need a Rachel in our life](http://9gag.com/gag/ajgZnR1)<!-- MEMES:END -->
 
 --- 
