@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t easily be able to work around long China COVID lockdows](https://appleinsider.com/articles/22/04/15/apple-wont-easily-be-able-to-work-around-long-china-covid-lockdows?utm_medium=rss)
- - [Fitbit for weight loss: How to use your fitness tracker to lose weight](https://www.androidauthority.com/weight-loss-fitbit-3150316/)
- - [Wirelessly Whip Your Cream With This Battery-Powered Hand Mixer](https://www.wired.com/review/cuisinart-evolutionx-cordless-hand-mixer)<!-- TECH:END -->
+ - [How to turn on Apple Watch fall detection in watchOS 8](https://appleinsider.com/inside/apple-watch/tips/how-to-turn-on-apple-watch-fall-detection-in-watchos-8?utm_medium=rss)
+ - [Google thinks summoning a poltergeist could be a good way to notify you](https://www.androidauthority.com/google-little-signals-air-notifications-3154060/)
+ - [UE’s custom-fitting earbuds are on sale today for $100 off](https://www.theverge.com/good-deals/2022/4/15/23025200/ue-fits-earbuds-irobot-roomba-ecobee-smart-thermostat-logitech-webcam-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
