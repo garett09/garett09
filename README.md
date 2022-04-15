@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*cries in LGHDTV+ 4K*](http://9gag.com/gag/aQXZ4Qe)
- - 🚯 [I wish it was edited, but it just happened](http://9gag.com/gag/aPZQy0g)
+ - 🚖 [Man this is driving me nuts every time I look out off this office window I think someone needs to press Play...](http://9gag.com/gag/aM4vrWV)
+ - 🚯 [Ab-So-F**kin-lutely](http://9gag.com/gag/aYrqWYq)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
