@@ -198,8 +198,8 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Where Hoverboard?](http://9gag.com/gag/aZrjM90)
- - 🚯 [Devils work indeed](http://9gag.com/gag/aBnGYLZ)
- - 🚯 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)<!-- MEMES:END -->
+ - 🚯 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)
+ - 🚯 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)<!-- MEMES:END -->
 
 --- 
 
