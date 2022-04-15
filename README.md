@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird things caught on security cameras](http://9gag.com/gag/aOQPm9y)
- - 🚯 [Chinesium at its finest](http://9gag.com/gag/amgM8jy)
- - 🚯 [Chaos in Singapore streets when husband tries to chop his wife in the street, and is pushed back by witnesses around.](http://9gag.com/gag/a3123me)<!-- MEMES:END -->
+ - 🚖 [Chinesium at its finest](http://9gag.com/gag/amgM8jy)
+ - 🚯 [Chaos in Singapore streets when husband tries to chop his wife in the street, and is pushed back by witnesses around.](http://9gag.com/gag/a3123me)
+ - 🚯 [Is this normal ?](http://9gag.com/gag/avARLNq)<!-- MEMES:END -->
 
 --- 
 
