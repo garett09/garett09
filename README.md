@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do smartphone camera partnerships actually improve photo quality?](https://www.androidauthority.com/smartphone-camera-partnerships-poll-3153312/)
- - [Fasset, which lets users in emerging markets to buy and sell digital assets easily and conveniently, raises a $22M Series A led by Liberty City and Fatima Gobi &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220415/p2#a220415p2)
- - [We asked, you told us: Here’s how important Gcam is to you when buying a phone](https://www.androidauthority.com/gcam-ports-poll-results-3153955/)<!-- TECH:END -->
+ - [Best Slack Features and How to Use Them     - CNET](https://www.cnet.com/tech/services-and-software/best-slack-features/#ftag=CAD590a51e)
+ - [Can you manually log steps in the Fitbit app?](https://www.androidauthority.com/manually-log-steps-fitbit-3152020/)
+ - [Can you swim with the Apple Watch?](https://www.androidauthority.com/swim-apple-watch-3146819/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
