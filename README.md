@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rise of Brand-New Secondhand EVs](https://www.wired.com/story/secondhand-new-evs-price-rise)
- - [Best Laptop for 2022: Here Are 15 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
- - [Space Command’s Lt. Gen. John Shaw on the Future of Space Security](https://www.wired.com/story/space-commands-lt-gen-john-shaw-on-the-future-of-space-security)<!-- TECH:END -->
+ - [Apple won&#39;t easily be able to work around long China COVID lockdows](https://appleinsider.com/articles/22/04/15/apple-wont-easily-be-able-to-work-around-long-china-covid-lockdows?utm_medium=rss)
+ - [Fitbit for weight loss: How to use your fitness tracker to lose weight](https://www.androidauthority.com/weight-loss-fitbit-3150316/)
+ - [Wirelessly Whip Your Cream With This Battery-Powered Hand Mixer](https://www.wired.com/review/cuisinart-evolutionx-cordless-hand-mixer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
