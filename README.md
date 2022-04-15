@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gandalf: You Shall Pass](http://9gag.com/gag/aLvm2KA)
- - 🚯 [Devils work indeed](http://9gag.com/gag/aBnGYLZ)
- - 🚯 [We all need a Rachel in our life](http://9gag.com/gag/ajgZnR1)<!-- MEMES:END -->
+ - 🚖 [Weird things caught on security cameras](http://9gag.com/gag/aOQPm9y)
+ - 🚯 [Chinesium at its finest](http://9gag.com/gag/amgM8jy)
+ - 🚯 [Chaos in Singapore streets when husband tries to chop his wife in the street, and is pushed back by witnesses around.](http://9gag.com/gag/a3123me)<!-- MEMES:END -->
 
 --- 
 
