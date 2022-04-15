@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox April 18 to 22](https://news.xbox.com/en-us/2022/04/15/next-week-on-xbox-april-18-to-22/)
- - [Destiny 2 is adding a weekly rotator for old raids and dungeons](https://www.pcgamer.com/destiny-2-is-adding-a-weekly-rotator-for-old-raids-and-dungeons)
- - [Touching One Piece Moment Turned Into Hilariously Frustrating Minigame](https://kotaku.com/one-piece-luffy-shanks-straw-hat-manga-anime-qwop-eiich-1848796563)<!-- GAME:END -->
+ - [The New York Times has put the kibosh on another Wordle Archive](https://www.pcgamer.com/the-new-york-times-has-put-the-kibosh-on-another-wordle-archive)
+ - [Richard Garriott recalls his early career and &#39;favourite love-hate fan&#39; Donald Blinky](https://www.pcgamer.com/richard-garriott-recalls-his-early-career-and-favourite-love-hate-fan-donald-blinky)
+ - [Ti West wrote X’s slasher sequel in quarantine so he could make the movies back-to-back](https://www.polygon.com/23022467/x-vod-rental-release-date-horror-slasher-sequel-pearl)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
