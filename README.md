@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s first Linux laptop is here, but it’s not for gamers](https://www.theverge.com/2022/4/14/23025968/razer-first-linux-laptop-lambda-tensorbook-tensorflow)
- - [California-based Twingate, which offers zero-trust security tools for enterprise, raises a $42M Series B led by Bond Capital &lpar;Jay Fitzgerald/CRN&rpar;](http://www.techmeme.com/220414/p31#a220414p31)
- - [Save $600 on the Omen X 2S, and more of the best HP laptop deals](https://www.androidauthority.com/hp-laptop-deals-1123504/)<!-- TECH:END -->
+ - [Amazon&#39;s incredible $569.99 M1 Mac mini offer is back while supplies last](https://appleinsider.com/articles/22/04/13/amazons-incredible-56999-m1-mac-mini-offer-is-back-while-supplies-last?utm_medium=rss)
+ - [Apple’s M2 chips and the computers they’ll power detailed in new leak](https://www.theverge.com/2022/4/14/23026073/apple-m2-silicon-macbook-air-pro-mac-mini-rumors)
+ - [At TED, Elon Musk Revealed Why He Has to Own Twitter](https://www.wired.com/story/elon-musk-ted-twitter-takeover)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
