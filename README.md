@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 3 coming to PC, PlayStation, and Xbox this fall](https://www.polygon.com/23027274/no-more-heroes-3-port-pc-playstation-xbox-fall-2022)
- - [Kingdom Hearts 4 Sleuthers Find Sora’s Apartment IRL, And It Ain’t Cheap](https://kotaku.com/kingdom-hearts-4-sora-tokyo-apartment-aitaikimochi-squa-1848800122)
- - [XCOM 2, One Of The Best PC Strategy Games Ever Made, Is Currently Free](https://kotaku.com/xcom-2-free-epic-games-store-april-pc-gaming-strategy-a-1848800105)<!-- GAME:END -->
+ - [Netflix’s Choose or Die somehow finds the dreary downside to a murderous video game](https://www.polygon.com/23027310/choose-or-die-review-netflix)
+ - [I&#39;m ready for the Final Fantasy 9 Remake announcement, Square](https://www.pcgamer.com/im-ready-for-the-final-fantasy-9-remake-announcement-square)
+ - [No More Heroes 3 coming to PC, PlayStation, and Xbox this fall](https://www.polygon.com/23027274/no-more-heroes-3-port-pc-playstation-xbox-fall-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
