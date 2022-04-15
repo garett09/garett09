@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gun safety 2](http://9gag.com/gag/aAG2r5o)
- - 🚯 [The new Orc general on his way to explain Putler how he already lost Black Sea flagship](http://9gag.com/gag/aNP4Krv)
- - 🚯 [Panzerschokolade](http://9gag.com/gag/aOQPm4E)<!-- MEMES:END -->
+ - 🚖 [We all need a Rachel in our life](http://9gag.com/gag/ajgZnR1)
+ - 🚯 [Fix!](http://9gag.com/gag/aZrjN30)
+ - 🚯 [Weird things caught on security cameras](http://9gag.com/gag/aOQPm9y)<!-- MEMES:END -->
 
 --- 
 
