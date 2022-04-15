@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today is my birthday! I become 30 level! Sadly no one celebrated except me but its okay.](http://9gag.com/gag/a312P55)
- - 🚯 [Step tractor...What are you doing?](http://9gag.com/gag/aogLz4X)
+ - 🚖 [Whole new level of German railroading](http://9gag.com/gag/aqGWmXM)
+ - 🚯 [*cries in LGHDTV+ 4K*](http://9gag.com/gag/aQXZ4Qe)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
