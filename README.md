@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whole new level of German railroading](http://9gag.com/gag/aqGWmXM)
- - 🚯 [*cries in LGHDTV+ 4K*](http://9gag.com/gag/aQXZ4Qe)
+ - 🚖 [Ladies first](http://9gag.com/gag/angEX8o)
+ - 🚯 [Man this is driving me nuts every time I look out off this office window I think someone needs to press Play...](http://9gag.com/gag/aM4vrWV)
  - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
 
 --- 
