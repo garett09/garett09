@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Poison pill&#39; plan in place to counter Elon Musk&#39;s bid to buy Twitter](https://appleinsider.com/articles/22/04/15/poison-pill-plan-in-place-to-counter-elon-musks-bid-to-buy-twitter?utm_medium=rss)
- - [Sony Xperia 1 IV: Everything we know and what we want to see](https://www.androidauthority.com/sony-xperia-1-iv-3152665/)
- - [Waze has your nostalgic vibes covered with ‘70s, ‘80s, and ‘90s themes](https://www.theverge.com/2022/4/15/23026901/waze-navigation-retro-mode-1970-80-80-radio-dj)<!-- TECH:END -->
+ - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ according to CD Projekt Red](https://www.theverge.com/2022/4/15/23027123/the-witcher-3-next-gen-update-cd-projekt-red-development-hell)
+ - [AMC is now letting you buy movie tickets with Dogecoin](https://www.theverge.com/2022/4/15/23027117/amc-doge-coin-shiba-inu-bitpay-movie-theater-tickets)
+ - [Samsung keeps updating the Galaxy Note 9 even though it doesn’t need to](https://www.androidauthority.com/samsung-galaxy-note-9-update-march-2022-3154149/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
