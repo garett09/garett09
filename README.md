@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ CD Projekt says](https://www.polygon.com/23026722/witcher-3-next-gen-delay-release-date-cd-projekt)
- - [Kingdom Hearts made crossovers cool — cursing us all, and itself too](https://www.polygon.com/23025924/kingdom-hearts-4-disney-square-enix-multiverse-crossover)
- - [Share of the Week: Elden Ring](https://blog.playstation.com/2022/04/15/share-of-the-week-elden-ring/)<!-- GAME:END -->
+ - [Check Out the Newest EA Play Member Rewards for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/04/15/new-ea-play-member-rewards-for-xbox-game-pass-ultimate/)
+ - [Amouranth Says She&#39;s &#39;Quitting&#39; OnlyFans, Invests In Twitch](https://kotaku.com/amouranth-twitch-onlyfans-e-girl-retirement-activision-1848799220)
+ - [Lego Star Wars: The Skywalker Saga’s 15 Most Obscure Playable Characters](https://kotaku.com/lego-star-wars-skywalker-saga-obscure-weird-list-charac-1848796775)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
