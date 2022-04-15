@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Sonic 2&#39;: Who&#39;s That Dark Post-Credits Scene Character?     - CNET](https://www.cnet.com/culture/entertainment/sonic-2-is-there-a-post-credits-scene/#ftag=CAD590a51e)
- - [Another tiny shred of evidence surfaces for the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-evan-blass-3154105/)
- - [Best Game Pass and Xbox Live Deals     - CNET](https://www.cnet.com/tech/gaming/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Free Unreal Engine game creation tool &#39;Core&#39; is coming to macOS, iOS](https://appleinsider.com/articles/22/04/15/free-unreal-engine-game-creation-tool-core-is-coming-to-macos-ios?utm_medium=rss)
+ - [How to put the Windows 11 Start menu back where it belongs](https://www.theverge.com/22684671/windows-11-microsoft-start-menu-how-to)
+ - [How to Watch Rays vs. White Sox, Reds vs. Dodgers Friday on Apple TV Plus     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-rays-vs-white-sox-reds-vs-dodgers-friday-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
