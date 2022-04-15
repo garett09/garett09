@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Here’s how important Gcam is to you when buying a phone](https://www.androidauthority.com/gcam-ports-poll-results-3153955/)
  - [&#39;Choose or Die&#39; on Netflix: A Watchable &#39;Bandersnatch&#39; Copy     - CNET](https://www.cnet.com/culture/entertainment/choose-or-die-on-netflix-a-watchable-bandersnatch-copy/#ftag=CAD590a51e)
- - [Sources: TikTok is under investigation by US government agencies for CSAM and how a specific privacy feature is being exploited by predators &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220415/p1#a220415p1)
- - [WhatsApp announces a big feature drop. Here’s what’s coming to the chat app.](https://www.androidauthority.com/whatsapp-communities-new-features-3153950/)<!-- TECH:END -->
+ - [Sources: TikTok is under investigation by US government agencies for CSAM and how a specific privacy feature is being exploited by predators &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220415/p1#a220415p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
