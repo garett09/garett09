@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [XCOM 2 is free on the Epic Store right now](https://www.pcgamer.com/xcom-2-is-free-on-the-epic-store-right-now)
- - [How DICE redefined multiplayer, and gave up on singleplayer](https://www.pcgamer.com/how-dice-redefined-multiplayer-and-gave-up-on-singleplayer)
- - [French Revolution soulslike Steelrising shows off 5 minutes of new gameplay](https://www.pcgamer.com/french-revolution-soulslike-steelrising-shows-off-5-minutes-of-new-gameplay)<!-- GAME:END -->
+ - [MLB The Show 22 Jackie Robinson Day Celebration](https://blog.playstation.com/2022/04/15/mlb-the-show-22-jackie-robinson-day-celebration/)
+ - [MLB The Show 22 Jackie Robinson Day Celebration](https://blog.playstation.com/2022/04/15/mlb-the-show-22-jackie-robinson-day-celebration/)
+ - [Young Justice heroes share what they read and watch when they’re not saving the world](https://www.polygon.com/entertainment/23014687/young-justice-movies-beast-boy-miss-martian-artemis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
