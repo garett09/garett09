@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn on Apple Watch fall detection in watchOS 8](https://appleinsider.com/inside/apple-watch/tips/how-to-turn-on-apple-watch-fall-detection-in-watchos-8?utm_medium=rss)
- - [Google thinks summoning a poltergeist could be a good way to notify you](https://www.androidauthority.com/google-little-signals-air-notifications-3154060/)
- - [UE’s custom-fitting earbuds are on sale today for $100 off](https://www.theverge.com/good-deals/2022/4/15/23025200/ue-fits-earbuds-irobot-roomba-ecobee-smart-thermostat-logitech-webcam-deal-sale)<!-- TECH:END -->
+ - [Galaxy S21 series now available as Certified Re-Newed, saving you hundreds](https://www.androidauthority.com/samsung-galaxy-s21-renewed-3153713/)
+ - [Apple&#39;s user privacy stance has caused problems for internal engineering teams](https://appleinsider.com/articles/22/04/15/apples-user-privacy-stance-has-caused-problems-for-internal-engineering-teams?utm_medium=rss)
+ - [Best Hair Dryer for 2022     - CNET](https://www.cnet.com/health/personal-care/best-hair-dryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
