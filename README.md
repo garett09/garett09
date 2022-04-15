@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ according to CD Projekt Red](https://www.theverge.com/2022/4/15/23027123/the-witcher-3-next-gen-update-cd-projekt-red-development-hell)
- - [AMC is now letting you buy movie tickets with Dogecoin](https://www.theverge.com/2022/4/15/23027117/amc-doge-coin-shiba-inu-bitpay-movie-theater-tickets)
- - [Samsung keeps updating the Galaxy Note 9 even though it doesn’t need to](https://www.androidauthority.com/samsung-galaxy-note-9-update-march-2022-3154149/)<!-- TECH:END -->
+ - [No More Heroes 3 is coming to PC, PlayStation, and Xbox in fall 2022](https://www.theverge.com/2022/4/15/23027318/no-more-heroes-3-pc-playstation-5-xbox-series-x-s-consoles-fall-2022)
+ - [A look at independent investigators, like @zachxbt and YouTuber @coffeebreak_YT, who are uncovering crypto and Web3 scams, often using pseudonymous identities &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220415/p14#a220415p14)
+ - [New &#39;Chocolate&#39; ad spot highlights the Apple Card&#39;s easy signup](https://appleinsider.com/articles/22/04/15/new-chocolate-ad-spot-highlights-the-apple-cards-easy-signup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
