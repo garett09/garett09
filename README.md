@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man this is driving me nuts every time I look out off this office window I think someone needs to press Play...](http://9gag.com/gag/aM4vrWV)
- - 🚯 [Ab-So-F**kin-lutely](http://9gag.com/gag/aYrqWYq)
- - 🚯 [So... am I the chosen one to deal with the challenges?](http://9gag.com/gag/abgxjQL)<!-- MEMES:END -->
+ - 🚖 [Gun safety 2](http://9gag.com/gag/aAG2r5o)
+ - 🚯 [The new Orc general on his way to explain Putler how he already lost Black Sea flagship](http://9gag.com/gag/aNP4Krv)
+ - 🚯 [Panzerschokolade](http://9gag.com/gag/aOQPm4E)<!-- MEMES:END -->
 
 --- 
 
