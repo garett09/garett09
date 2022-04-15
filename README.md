@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New York Times has put the kibosh on another Wordle Archive](https://www.pcgamer.com/the-new-york-times-has-put-the-kibosh-on-another-wordle-archive)
- - [Richard Garriott recalls his early career and &#39;favourite love-hate fan&#39; Donald Blinky](https://www.pcgamer.com/richard-garriott-recalls-his-early-career-and-favourite-love-hate-fan-donald-blinky)
- - [Ti West wrote X’s slasher sequel in quarantine so he could make the movies back-to-back](https://www.polygon.com/23022467/x-vod-rental-release-date-horror-slasher-sequel-pearl)<!-- GAME:END -->
+ - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ CD Projekt says](https://www.polygon.com/23026722/witcher-3-next-gen-delay-release-date-cd-projekt)
+ - [Kingdom Hearts made crossovers cool — cursing us all, and itself too](https://www.polygon.com/23025924/kingdom-hearts-4-disney-square-enix-multiverse-crossover)
+ - [Share of the Week: Elden Ring](https://blog.playstation.com/2022/04/15/share-of-the-week-elden-ring/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
