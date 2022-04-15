@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget guns, just kick the crap out of everyone in FPS Anger Foot](https://www.pcgamer.com/forget-guns-just-kick-the-crap-out-of-everyone-in-fps-anger-foot)
- - [Severance isn’t a show about quitting your job, it’s about burning it down](https://www.polygon.com/23025964/severance-finale-metaphor-capitalism)
- - [US government says $600M Axie Infinity crypto-heist was pulled by North Korea](https://www.pcgamer.com/us-government-says-dollar650m-axie-infinity-crypto-heist-was-pulled-by-north-korea)<!-- GAME:END -->
+ - [How DICE redefined multiplayer, and gave up on singleplayer](https://www.pcgamer.com/how-dice-redefined-multiplayer-and-gave-up-on-singleplayer)
+ - [French Revolution soulslike Steelrising shows off 5 minutes of new gameplay](https://www.pcgamer.com/french-revolution-soulslike-steelrising-shows-off-5-minutes-of-new-gameplay)
+ - [Today&#39;s Wordle answer #300: Friday, April 15](https://www.pcgamer.com/wordle-april-15-300)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
