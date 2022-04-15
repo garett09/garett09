@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remembering Starglider, the flight sim series that gave rise to Star Fox](https://www.pcgamer.com/saturday-crapshoot-starglider)
  - [Forget guns, just kick the crap out of everyone in FPS Anger Foot](https://www.pcgamer.com/forget-guns-just-kick-the-crap-out-of-everyone-in-fps-anger-foot)
- - [Severance isn’t a show about quitting your job, it’s about burning it down](https://www.polygon.com/23025964/severance-finale-metaphor-capitalism)
- - [US government says $600M Axie Infinity crypto-heist was pulled by North Korea](https://www.pcgamer.com/us-government-says-dollar650m-axie-infinity-crypto-heist-was-pulled-by-north-korea)<!-- GAME:END -->
+ - [Severance isn’t a show about quitting your job, it’s about burning it down](https://www.polygon.com/23025964/severance-finale-metaphor-capitalism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
