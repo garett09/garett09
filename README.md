@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [XCOM 2 is free on the Epic Store right now](https://www.pcgamer.com/xcom-2-is-free-on-the-epic-store-right-now)
  - [How DICE redefined multiplayer, and gave up on singleplayer](https://www.pcgamer.com/how-dice-redefined-multiplayer-and-gave-up-on-singleplayer)
- - [French Revolution soulslike Steelrising shows off 5 minutes of new gameplay](https://www.pcgamer.com/french-revolution-soulslike-steelrising-shows-off-5-minutes-of-new-gameplay)
- - [Today&#39;s Wordle answer #300: Friday, April 15](https://www.pcgamer.com/wordle-april-15-300)<!-- GAME:END -->
+ - [French Revolution soulslike Steelrising shows off 5 minutes of new gameplay](https://www.pcgamer.com/french-revolution-soulslike-steelrising-shows-off-5-minutes-of-new-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
