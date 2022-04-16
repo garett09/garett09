@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [North Korea&#39;s Lazarus Group Was Behind $540 Million Ronin Theft](https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-telegram)
- - [Meta’s Augmented Reality Glasses Are Still Years Away](https://www.wired.com/story/meta-facebook-augmented-reality-glasses-years-away)
- - [Daily Deals April 16: Discounted refurbished Intel MacBook Pros, $149 AirPods, $100 off Sony 65-inch Google TV, more](https://appleinsider.com/articles/22/04/16/daily-deals-april-16-discounted-refurbished-intel-macbook-pros-149-airpods-100-off-sony-65-inch-google-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Satechi is offering a 20 percent off sitewide sale this weekend](https://www.theverge.com/good-deals/2022/4/16/23025037/satechi-accessories-samsung-galaxy-book-pro-s21-plus-ultra-macbook-pro-13-amd-ryzen-cpu-deal-sale)
+ - [How to pause and disable Windows 11 updates](https://www.theverge.com/23027235/windows-11-pause-updates-disable-how-to)
+ - [North Korea&#39;s Lazarus Group Was Behind $540 Million Ronin Theft](https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-telegram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
