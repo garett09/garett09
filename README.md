@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #301: Saturday, April 16](https://www.pcgamer.com/wordle-april-16-301)
  - [We’re All Going to the World’s Fair gives creepypasta fans the exact movie they need](https://www.polygon.com/23027388/were-all-going-to-the-worlds-fair-review)
- - [Apple and Second Life slam Meta over fees for metaverse creators](https://www.pcgamer.com/meta-horizon-worlds-fee-creators)
- - [The caustic sci-fi movie Dual sets up the smallest, strangest clone war](https://www.polygon.com/23027455/dual-review-riley-stearns-karen-gillan)<!-- GAME:END -->
+ - [Apple and Second Life slam Meta over fees for metaverse creators](https://www.pcgamer.com/meta-horizon-worlds-fee-creators)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
