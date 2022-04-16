@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that\u2019s a beauty.](http://9gag.com/gag/aYrqgQx)
- - 🚯 [Cat is so confused](http://9gag.com/gag/axBR1vb)
- - 🚯 [We&#39;re all crying.](http://9gag.com/gag/adgeKqN)<!-- MEMES:END -->
+ - 🚖 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)
+ - 🚯 [Fire Giant POV while fighting the Tarnished](http://9gag.com/gag/aRro1wM)
+ - 🚯 [Yoga my ass](http://9gag.com/gag/adgeL7Q)<!-- MEMES:END -->
 
 --- 
 
