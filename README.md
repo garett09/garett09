@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to force quit an application in macOS](https://appleinsider.com/articles/22/04/16/how-to-force-quit-an-application-in-macos?utm_medium=rss)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-428-3153783/)
- - [Best OTA DVR for Cord Cutters: Amazon Fire TV Recast, TiVo and Tablo     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [All the James Bond Movies Ranked, From &#39;No Time to Die&#39; Back to the Beginning     - CNET](https://www.cnet.com/culture/entertainment/all-the-james-bond-movies-ranked-from-no-time-to-die-back-to-the-start/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best OTA DVR for Cord Cutters: Amazon Fire TV Recast, TiVo and Tablo     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
