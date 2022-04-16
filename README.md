@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub says an attacker used stolen OAuth user tokens issued to Heroku and Travis-CI to download data from private repositories belonging to npm and other orgs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220416/p1#a220416p1)
  - [Mystery Sarcophagus Found Below Notre Dame to Be Opened &#39;Very Soon&#39;     - CNET](https://www.cnet.com/science/mystery-sarcophagus-found-below-notre-dame-to-be-opened-very-soon/#ftag=CAD590a51e)
- - [PitchBook: global AI chip sales grew 60% YoY to $35.9B in 2021; semiconductor startups got $1.8B in VC funding in 2021, up from $1.4B in 2020 and $1.1B in 2019 &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220415/p19#a220415p19)
- - [You might see an ad after you finish today’s Wordle](https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle)<!-- TECH:END -->
+ - [PitchBook: global AI chip sales grew 60% YoY to $35.9B in 2021; semiconductor startups got $1.8B in VC funding in 2021, up from $1.4B in 2020 and $1.1B in 2019 &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220415/p19#a220415p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
