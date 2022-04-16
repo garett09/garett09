@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dataminer reveals cut Elden Ring questline](https://www.pcgamer.com/dataminer-reveals-cut-elden-ring-questline)
  - [Per Aspera expands ocean terraforming with Blue Mars expansion](https://www.pcgamer.com/per-aspera-expands-ocean-terraforming-with-blue-mars-expansion)
- - [A deleted scene lays out a very different path for Everything Everywhere All At Once](https://www.polygon.com/23027564/everything-everywhere-all-at-once-deleted-scene-script)
- - [No More Heroes 3 is coming to PC this fall](https://www.pcgamer.com/no-more-heroes-3-is-coming-to-pc-this-fall)<!-- GAME:END -->
+ - [A deleted scene lays out a very different path for Everything Everywhere All At Once](https://www.polygon.com/23027564/everything-everywhere-all-at-once-deleted-scene-script)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
