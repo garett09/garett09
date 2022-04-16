@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro review second opinion: An imbalanced reset](https://www.androidauthority.com/oneplus-10-pro-review-second-opinion-3152188/)
- - [Which Fitbit wearables have fall detection features?](https://www.androidauthority.com/fall-detection-fitbit-3152567/)
- - [At least seven crypto firms have suspended rupee deposits; CoinGecko: daily trading volumes on Indian crypto exchanges have fallen 88%-96% since peaking in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220416/p2#a220416p2)<!-- TECH:END -->
+ - [An interview with a former Xinjiang prisoner, who details how China extensively uses tech like Hikvision surveillance cameras to facilitate human rights abuses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220416/p3#a220416p3)
+ - [14 Great Deals on TVs, Audio Gear, and Smartwatches](https://www.wired.com/story/weekend-deals-april-16-2022)
+ - [BeReal Basics: How to Use the &#39;Unfiltered&#39; Social Media App](https://www.wired.com/story/how-to-use-bereal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
