@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fire Giant POV while fighting the Tarnished](http://9gag.com/gag/aRro1wM)
- - 🚯 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)
- - 🚯 [Yoga my ass](http://9gag.com/gag/adgeL7Q)<!-- MEMES:END -->
+ - 🚖 [Yoga my ass](http://9gag.com/gag/adgeL7Q)
+ - 🚯 [`Hit that director in the face, really f.cking hard!`](http://9gag.com/gag/aWgb1oA)
+ - 🚯 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)<!-- MEMES:END -->
 
 --- 
 
