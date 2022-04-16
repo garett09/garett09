@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Hit that director in the face, really f.cking hard!`](http://9gag.com/gag/aWgb1oA)
- - 🚯 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)
- - 🚯 [Because airplanes are magic](http://9gag.com/gag/aAG23LZ)<!-- MEMES:END -->
+ - 🚖 [Mental health crisis in China\u2026](http://9gag.com/gag/aXrWYDg)
+ - 🚯 [Types of asian architecture](http://9gag.com/gag/aogL5jw)
+ - 🚯 [I can buy a house instead of paying the rent](http://9gag.com/gag/aRro3GA)<!-- MEMES:END -->
 
 --- 
 
