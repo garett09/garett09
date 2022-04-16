@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What have I become](http://9gag.com/gag/aXrWvyP)
- - 🚯 [Remembering the time Cristiano Ronaldo made the greatest header of all time in football history](http://9gag.com/gag/aRrommM)
- - 🚯 [For the people of culture.](http://9gag.com/gag/a0Z15pZ)<!-- MEMES:END -->
+ - 🚖 [We&#39;re all crying.](http://9gag.com/gag/adgeKqN)
+ - 🚯 [Archaeologists excavate giant stone spheres in Costa Rica](http://9gag.com/gag/a412Gg6)
+ - 🚯 [Happy Italian noises](http://9gag.com/gag/aWgbm5n)<!-- MEMES:END -->
 
 --- 
 
