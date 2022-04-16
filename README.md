@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yoga my ass](http://9gag.com/gag/adgeL7Q)
- - 🚯 [`Hit that director in the face, really f.cking hard!`](http://9gag.com/gag/aWgb1oA)
- - 🚯 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)<!-- MEMES:END -->
+ - 🚖 [`Hit that director in the face, really f.cking hard!`](http://9gag.com/gag/aWgb1oA)
+ - 🚯 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)
+ - 🚯 [Because airplanes are magic](http://9gag.com/gag/aAG23LZ)<!-- MEMES:END -->
 
 --- 
 
