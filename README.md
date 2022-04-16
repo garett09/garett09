@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might see an ad after you finish today’s Wordle](https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle)
- - [Apple’s still not catching scammy apps, and this time they’re on the Mac](https://www.theverge.com/2022/4/15/23027363/apple-scammy-apps-mac-app-store-moderation)
- - [This FF7 Buster Sword clock prevents you from casting snooze](https://www.theverge.com/tldr/2022/4/15/23027432/final-fantasy-vii-7-remake-buster-sword-digital-alarm-clock)<!-- TECH:END -->
+ - [Mystery Sarcophagus Found Below Notre Dame to Be Opened &#39;Very Soon&#39;     - CNET](https://www.cnet.com/science/mystery-sarcophagus-found-below-notre-dame-to-be-opened-very-soon/#ftag=CAD590a51e)
+ - [PitchBook: global AI chip sales grew 60% YoY to $35.9B in 2021; semiconductor startups got $1.8B in VC funding in 2021, up from $1.4B in 2020 and $1.1B in 2019 &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220415/p19#a220415p19)
+ - [You might see an ad after you finish today’s Wordle](https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
