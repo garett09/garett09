@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #301: Saturday, April 16](https://www.pcgamer.com/wordle-april-16-301)
- - [We’re All Going to the World’s Fair gives creepypasta fans the exact movie they need](https://www.polygon.com/23027388/were-all-going-to-the-worlds-fair-review)
- - [Apple and Second Life slam Meta over fees for metaverse creators](https://www.pcgamer.com/meta-horizon-worlds-fee-creators)<!-- GAME:END -->
+ - [Lego Star Wars: The Skywalker Saga’s Air Combos Make Me Feel Skilled AF](https://kotaku.com/lego-star-wars-the-skywalker-saga-air-combos-devil-may-1848800601)
+ - [Super Mario Bros.&#39; Iconic Blocks Hold More Coins Than You Think](https://kotaku.com/super-mario-bros-nintendo-nes-coin-block-kosmic-frame-r-1848800370)
+ - [16 great magically minded movies you can watch at home](https://www.polygon.com/what-to-watch/23022366/best-magic-fantasy-movies-witch-wizard-watch-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
