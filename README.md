@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with a former Xinjiang prisoner, who details how China extensively uses tech like Hikvision surveillance cameras to facilitate human rights abuses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220416/p3#a220416p3)
- - [14 Great Deals on TVs, Audio Gear, and Smartwatches](https://www.wired.com/story/weekend-deals-april-16-2022)
- - [BeReal Basics: How to Use the &#39;Unfiltered&#39; Social Media App](https://www.wired.com/story/how-to-use-bereal)<!-- TECH:END -->
+ - [I just went on a road trip and this is the tech I couldn’t live without](https://www.androidauthority.com/road-trip-tech-2022-3152272/)
+ - [How to Change Your Browser in Windows 11 &lpar;Hint: It’s Not Easy&rpar;](https://www.wired.com/story/how-to-change-your-browser-in-windows-11)
+ - [To Resurrect Jordan’s Lost Forests, People Plant Tiny Urban Ones](https://www.wired.com/story/to-resurrect-jordans-lost-forests-people-plant-tiny-urban-ones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
