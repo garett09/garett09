@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UCF football team is trading jersey numbers for QR codes](https://www.theverge.com/2022/4/16/23028087/ucf-qr-codes-numbers-spring-game-football-uniforms)
- - [Wemax Dice projector review: portable home entertainment system](https://appleinsider.com/articles/22/04/16/wemax-dice-projector-review-portable-home-entertainment-system?utm_medium=rss)
- - [How to force quit an application in macOS](https://appleinsider.com/articles/22/04/16/how-to-force-quit-an-application-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Apple CEO Tim Cook accepts invite to deliver Gallaudet University address](https://appleinsider.com/articles/22/04/16/apple-ceo-tim-cook-accepts-invite-to-deliver-gallaudet-university-address?utm_medium=rss)
+ - [&#39;Choose or Die&#39; Review: A Mostly Watchable &#39;Bandersnatch&#39; Copy     - CNET](https://www.cnet.com/culture/entertainment/choose-or-die-review-a-mostly-watchable-bandersnatch-copy/#ftag=CAD590a51e)
+ - [&#39;Outer Range&#39; Review: Surprisingly Odd, But Worth Sticking With     - CNET](https://www.cnet.com/culture/entertainment/outer-range-review-surprisingly-odd-but-worth-sticking-with/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
