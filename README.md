@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Simple as that \ud83d\ude05](http://9gag.com/gag/a912WDo)
+ - 🚖 [My 2 braincells when I&#39;m trying to get my work done](http://9gag.com/gag/aAG2dN2)
  - 🚯 [Every damn time!!](http://9gag.com/gag/aOQPz93)
- - 🚯 [With all the shitty boss memes here lately, I am so glad I am actually working under a guy who truly appreciates your effort. Hope you all find a boss like this one day](http://9gag.com/gag/aZrjpdp)<!-- MEMES:END -->
+ - 🚯 [No words](http://9gag.com/gag/ajgZX0G)<!-- MEMES:END -->
 
 --- 
 
