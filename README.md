@@ -197,7 +197,7 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)
+ - 🚖 [Goosebumps](http://9gag.com/gag/aBnGmYQ)
  - 🚯 [Ukrainian officer disarming mine MON hidden in a bag on the street](http://9gag.com/gag/aYrq7Q0)
  - 🚯 [She nearly pepsied my friend and other dudes are going to jail , and .... you guessed it ... she got Scot free](http://9gag.com/gag/a612Oo9)<!-- MEMES:END -->
 
