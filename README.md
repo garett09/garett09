@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can buy a house instead of paying the rent](http://9gag.com/gag/aRro3GA)
- - 🚯 [After many encoding adventures here is &#39;A Very Detailed View Of A Crater On The Planet Mars in 8K&#39;.](http://9gag.com/gag/aM4vYn1)
- - 🚯 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)<!-- MEMES:END -->
+ - 🚖 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)
+ - 🚯 [Ukrainian officer disarming mine MON hidden in a bag on the street](http://9gag.com/gag/aYrq7Q0)
+ - 🚯 [She nearly pepsied my friend and other dudes are going to jail , and .... you guessed it ... she got Scot free](http://9gag.com/gag/a612Oo9)<!-- MEMES:END -->
 
 --- 
 
