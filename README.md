@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s go...](http://9gag.com/gag/a0Z156n)
- - 🚯 [Guadalajara to Mexico City, gate to gate](http://9gag.com/gag/aegmeQb)
- - 🚯 [I still play this with myself.](http://9gag.com/gag/a512nnN)<!-- MEMES:END -->
+ - 🚖 [What have I become](http://9gag.com/gag/aXrWvyP)
+ - 🚯 [Remembering the time Cristiano Ronaldo made the greatest header of all time in football history](http://9gag.com/gag/aRrommM)
+ - 🚯 [For the people of culture.](http://9gag.com/gag/a0Z15pZ)<!-- MEMES:END -->
 
 --- 
 
