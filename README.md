@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My 2 braincells when I&#39;m trying to get my work done](http://9gag.com/gag/aAG2dN2)
- - 🚯 [Every damn time!!](http://9gag.com/gag/aOQPz93)
- - 🚯 [No words](http://9gag.com/gag/ajgZX0G)<!-- MEMES:END -->
+ - 🚖 [I still play this with myself.](http://9gag.com/gag/a512nnN)
+ - 🚯 [No words](http://9gag.com/gag/ajgZX0G)
+ - 🚯 [I really wish I could un-see it... I always heard lathe horror stories, but what I saw was beyond nightmare](http://9gag.com/gag/aYrqKbO)<!-- MEMES:END -->
 
 --- 
 
