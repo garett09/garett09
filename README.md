@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 10 Pro review second opinion: An imbalanced reset](https://www.androidauthority.com/oneplus-10-pro-review-second-opinion-3152188/)
  - [Which Fitbit wearables have fall detection features?](https://www.androidauthority.com/fall-detection-fitbit-3152567/)
- - [At least seven crypto firms have suspended rupee deposits; CoinGecko: daily trading volumes on Indian crypto exchanges have fallen 88%-96% since peaking in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220416/p2#a220416p2)
- - [GitHub says an attacker used stolen OAuth user tokens issued to Heroku and Travis-CI to download data from private repositories belonging to npm and other orgs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220416/p1#a220416p1)<!-- TECH:END -->
+ - [At least seven crypto firms have suspended rupee deposits; CoinGecko: daily trading volumes on Indian crypto exchanges have fallen 88%-96% since peaking in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220416/p2#a220416p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
