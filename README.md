@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2800\u2800\u2800\u2800\u2800](http://9gag.com/gag/aBnGxwx)
- - 🚯 [What have I become](http://9gag.com/gag/aXrWvyP)
- - 🚯 [Cat is so confused](http://9gag.com/gag/axBR1vb)<!-- MEMES:END -->
+ - 🚖 [Now that\u2019s a beauty.](http://9gag.com/gag/aYrqgQx)
+ - 🚯 [Cat is so confused](http://9gag.com/gag/axBR1vb)
+ - 🚯 [We&#39;re all crying.](http://9gag.com/gag/adgeKqN)<!-- MEMES:END -->
 
 --- 
 
