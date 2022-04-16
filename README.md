@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to force quit an application in macOS](https://appleinsider.com/articles/22/04/16/how-to-force-quit-an-application-in-macos?utm_medium=rss)
- - [Every inch mattered in the race for better smartphone photography](https://www.androidauthority.com/large-camera-sensors-smartphones-3148686/)
- - [Microsoft reportedly wants to bring ads to free-to-play Xbox games](https://www.theverge.com/2022/4/16/23027934/microsoft-report-ads-free-to-play-xbox-games)<!-- TECH:END -->
+ - [UCF football team is trading jersey numbers for QR codes](https://www.theverge.com/2022/4/16/23028087/ucf-qr-codes-numbers-spring-game-football-uniforms)
+ - [Wemax Dice projector review: portable home entertainment system](https://appleinsider.com/articles/22/04/16/wemax-dice-projector-review-portable-home-entertainment-system?utm_medium=rss)
+ - [How to force quit an application in macOS](https://appleinsider.com/articles/22/04/16/how-to-force-quit-an-application-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
