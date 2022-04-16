@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mental health crisis in China\u2026](http://9gag.com/gag/aXrWYDg)
- - 🚯 [Types of asian architecture](http://9gag.com/gag/aogL5jw)
- - 🚯 [I can buy a house instead of paying the rent](http://9gag.com/gag/aRro3GA)<!-- MEMES:END -->
+ - 🚖 [I can buy a house instead of paying the rent](http://9gag.com/gag/aRro3GA)
+ - 🚯 [After many encoding adventures here is &#39;A Very Detailed View Of A Crater On The Planet Mars in 8K&#39;.](http://9gag.com/gag/aM4vYn1)
+ - 🚯 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)<!-- MEMES:END -->
 
 --- 
 
