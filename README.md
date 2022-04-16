@@ -197,7 +197,7 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i gotta shit in the garden?](http://9gag.com/gag/a4123p1)
+ - 🚖 [It\u2019s nothing new](http://9gag.com/gag/angE4pq)
  - 🚯 [This takes me back - Terminator 2 Bio-Flesh regenerator](http://9gag.com/gag/aGzAg35)
  - 🚯 [Have you ever wondered how amputee play soccer?](http://9gag.com/gag/a0Z1NRX)<!-- MEMES:END -->
 
