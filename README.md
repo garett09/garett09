@@ -198,7 +198,7 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Simple as that \ud83d\ude05](http://9gag.com/gag/a912WDo)
- - 🚯 [Unlike the wet wipes now...](http://9gag.com/gag/angEy4B)
+ - 🚯 [Every damn time!!](http://9gag.com/gag/aOQPz93)
  - 🚯 [With all the shitty boss memes here lately, I am so glad I am actually working under a guy who truly appreciates your effort. Hope you all find a boss like this one day](http://9gag.com/gag/aZrjpdp)<!-- MEMES:END -->
 
 --- 
