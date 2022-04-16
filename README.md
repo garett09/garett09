@@ -197,8 +197,8 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just learned today, that this is all the same guy.](http://9gag.com/gag/aNP4Yob)
- - 🚯 [Fire Giant POV while fighting the Tarnished](http://9gag.com/gag/aRro1wM)
+ - 🚖 [Fire Giant POV while fighting the Tarnished](http://9gag.com/gag/aRro1wM)
+ - 🚯 [India go no chill bruh.](http://9gag.com/gag/ajgZ8q0)
  - 🚯 [Yoga my ass](http://9gag.com/gag/adgeL7Q)<!-- MEMES:END -->
 
 --- 
