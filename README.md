@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#39;re all crying.](http://9gag.com/gag/adgeKqN)
- - 🚯 [Archaeologists excavate giant stone spheres in Costa Rica](http://9gag.com/gag/a412Gg6)
- - 🚯 [Happy Italian noises](http://9gag.com/gag/aWgbm5n)<!-- MEMES:END -->
+ - 🚖 [Meanwhile, in the B series of the Brazilian soccer championship](http://9gag.com/gag/aM4v8WM)
+ - 🚯 [Happy Italian noises](http://9gag.com/gag/aWgbm5n)
+ - 🚯 [Archaeologists excavate giant stone spheres in Costa Rica](http://9gag.com/gag/a412Gg6)<!-- MEMES:END -->
 
 --- 
 
