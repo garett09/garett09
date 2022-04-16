@@ -191,8 +191,8 @@ Windows                  30 hrs 51 mins      ███████████�
 
 <!-- TECH:START -->
  - [How to force quit an application in macOS](https://appleinsider.com/articles/22/04/16/how-to-force-quit-an-application-in-macos?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-428-3153783/)
- - [Best OTA DVR for Cord Cutters: Amazon Fire TV Recast, TiVo and Tablo     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every inch mattered in the race for better smartphone photography](https://www.androidauthority.com/large-camera-sensors-smartphones-3148686/)
+ - [Microsoft reportedly wants to bring ads to free-to-play Xbox games](https://www.theverge.com/2022/4/16/23027934/microsoft-report-ads-free-to-play-xbox-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
