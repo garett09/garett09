@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 3 is coming to PC this fall](https://www.pcgamer.com/no-more-heroes-3-is-coming-to-pc-this-fall)
- - [8 Tabletop RPGs for Bridgerton and Our Flag Means Death fans](https://www.polygon.com/tabletop-games/23026742/tabletop-rpg-ttrpg-bridgerton-our-flag-means-death)
- - [Crypto Gaming &#39;Landlords&#39; Upset They Can&#39;t Keep Exploiting All The Players Quitting](https://kotaku.com/axie-infinity-nft-crypto-hack-landlord-scholar-pokemon-1848800557)<!-- GAME:END -->
+ - [Per Aspera expands ocean terraforming with Blue Mars expansion](https://www.pcgamer.com/per-aspera-expands-ocean-terraforming-with-blue-mars-expansion)
+ - [A deleted scene lays out a very different path for Everything Everywhere All At Once](https://www.polygon.com/23027564/everything-everywhere-all-at-once-deleted-scene-script)
+ - [No More Heroes 3 is coming to PC this fall](https://www.pcgamer.com/no-more-heroes-3-is-coming-to-pc-this-fall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
