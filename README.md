@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grovemade wood &amp; leather wrist rest review: A comfortable and elegant addition to your desk](https://appleinsider.com/articles/22/04/16/grovemade-wood-leather-wrist-rest-review-a-comfortable-and-elegant-addition-to-your-desk?utm_medium=rss)
- - [Workers at Apple&#39;s flagship Grand Central Terminal store in Manhattan have begun to formally collect signatures to form a union &lpar;Reed Albergotti/Washington Post&rpar;](http://www.techmeme.com/220416/p7#a220416p7)
- - [Apple CEO Tim Cook accepts invite to deliver Gallaudet University address](https://appleinsider.com/articles/22/04/16/apple-ceo-tim-cook-accepts-invite-to-deliver-gallaudet-university-address?utm_medium=rss)<!-- TECH:END -->
+ - [Workers at NYC Grand Central Apple Store start moving to unionize](https://appleinsider.com/articles/22/04/16/workers-at-nyc-grand-central-apple-store-start-moving-to-unionize?utm_medium=rss)
+ - [Apple store workers at Grand Central Terminal start collecting signatures to form a union](https://www.theverge.com/2022/4/16/23028356/apple-store-workers-grand-central-terminal-new-york-union-signatures)
+ - [Grovemade wood &amp; leather wrist rest review: A comfortable and elegant addition to your desk](https://appleinsider.com/articles/22/04/16/grovemade-wood-leather-wrist-rest-review-a-comfortable-and-elegant-addition-to-your-desk?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
