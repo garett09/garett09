@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I still play this with myself.](http://9gag.com/gag/a512nnN)
- - 🚯 [No words](http://9gag.com/gag/ajgZX0G)
- - 🚯 [I really wish I could un-see it... I always heard lathe horror stories, but what I saw was beyond nightmare](http://9gag.com/gag/aYrqKbO)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s go...](http://9gag.com/gag/a0Z156n)
+ - 🚯 [Guadalajara to Mexico City, gate to gate](http://9gag.com/gag/aegmeQb)
+ - 🚯 [I still play this with myself.](http://9gag.com/gag/a512nnN)<!-- MEMES:END -->
 
 --- 
 
