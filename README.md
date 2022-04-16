@@ -183,9 +183,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars: The Skywalker Saga’s Air Combos Make Me Feel Skilled AF](https://kotaku.com/lego-star-wars-the-skywalker-saga-air-combos-devil-may-1848800601)
- - [Super Mario Bros.&#39; Iconic Blocks Hold More Coins Than You Think](https://kotaku.com/super-mario-bros-nintendo-nes-coin-block-kosmic-frame-r-1848800370)
- - [16 great magically minded movies you can watch at home](https://www.polygon.com/what-to-watch/23022366/best-magic-fantasy-movies-witch-wizard-watch-online)<!-- GAME:END -->
+ - [8 Tabletop RPGs for Bridgerton and Our Flag Means Death fans](https://www.polygon.com/tabletop-games/23026742/tabletop-rpg-ttrpg-bridgerton-our-flag-means-death)
+ - [Crypto Gaming &#39;Landlords&#39; Upset They Can&#39;t Keep Exploiting All The Players Quitting](https://kotaku.com/axie-infinity-nft-crypto-hack-landlord-scholar-pokemon-1848800557)
+ - [Lego Star Wars: The Skywalker Saga’s Air Combos Make Me Feel Skilled AF](https://kotaku.com/lego-star-wars-the-skywalker-saga-air-combos-devil-may-1848800601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
