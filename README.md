@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook accepts invite to deliver Gallaudet University address](https://appleinsider.com/articles/22/04/16/apple-ceo-tim-cook-accepts-invite-to-deliver-gallaudet-university-address?utm_medium=rss)
- - [&#39;Choose or Die&#39; Review: A Mostly Watchable &#39;Bandersnatch&#39; Copy     - CNET](https://www.cnet.com/culture/entertainment/choose-or-die-review-a-mostly-watchable-bandersnatch-copy/#ftag=CAD590a51e)
- - [&#39;Outer Range&#39; Review: Surprisingly Odd, But Worth Sticking With     - CNET](https://www.cnet.com/culture/entertainment/outer-range-review-surprisingly-odd-but-worth-sticking-with/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grovemade wood &amp; leather wrist rest review: A comfortable and elegant addition to your desk](https://appleinsider.com/articles/22/04/16/grovemade-wood-leather-wrist-rest-review-a-comfortable-and-elegant-addition-to-your-desk?utm_medium=rss)
+ - [Workers at Apple&#39;s flagship Grand Central Terminal store in Manhattan have begun to formally collect signatures to form a union &lpar;Reed Albergotti/Washington Post&rpar;](http://www.techmeme.com/220416/p7#a220416p7)
+ - [Apple CEO Tim Cook accepts invite to deliver Gallaudet University address](https://appleinsider.com/articles/22/04/16/apple-ceo-tim-cook-accepts-invite-to-deliver-gallaudet-university-address?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
