@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this deep dive into the changes coming to Android 13](https://www.theverge.com/2022/4/15/23027396/android-13-developer-preview-deep-dive-changes-go-read-this)
- - [Samsung’s Galaxy Chromebook 2 360 offers a high-resolution screen for under $500](https://www.theverge.com/2022/4/15/23027218/samsung-galaxy-chromebook-2-360-chrome-os)
- - [Opera launches its Crypto Browser app on iOS, with a built-in crypto wallet, direct access to cryptocurrency and NFT exchanges, dApps, and more &lpar;Aliya Chaudhry/TechCrunch&rpar;](http://www.techmeme.com/220415/p17#a220415p17)<!-- TECH:END -->
+ - [You might see an ad after you finish today’s Wordle](https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle)
+ - [Apple’s still not catching scammy apps, and this time they’re on the Mac](https://www.theverge.com/2022/4/15/23027363/apple-scammy-apps-mac-app-store-moderation)
+ - [This FF7 Buster Sword clock prevents you from casting snooze](https://www.theverge.com/tldr/2022/4/15/23027432/final-fantasy-vii-7-remake-buster-sword-digital-alarm-clock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
