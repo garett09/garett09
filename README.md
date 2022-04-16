@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which Fitbit wearables have fall detection features?](https://www.androidauthority.com/fall-detection-fitbit-3152567/)
  - [At least seven crypto firms have suspended rupee deposits; CoinGecko: daily trading volumes on Indian crypto exchanges have fallen 88%-96% since peaking in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220416/p2#a220416p2)
- - [GitHub says an attacker used stolen OAuth user tokens issued to Heroku and Travis-CI to download data from private repositories belonging to npm and other orgs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220416/p1#a220416p1)
- - [Mystery Sarcophagus Found Below Notre Dame to Be Opened &#39;Very Soon&#39;     - CNET](https://www.cnet.com/science/mystery-sarcophagus-found-below-notre-dame-to-be-opened-very-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GitHub says an attacker used stolen OAuth user tokens issued to Heroku and Travis-CI to download data from private repositories belonging to npm and other orgs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220416/p1#a220416p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
