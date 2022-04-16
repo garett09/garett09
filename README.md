@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goosebumps](http://9gag.com/gag/aBnGmYQ)
- - 🚯 [Ukrainian officer disarming mine MON hidden in a bag on the street](http://9gag.com/gag/aYrq7Q0)
- - 🚯 [She nearly pepsied my friend and other dudes are going to jail , and .... you guessed it ... she got Scot free](http://9gag.com/gag/a612Oo9)<!-- MEMES:END -->
+ - 🚖 [Oh, okay](http://9gag.com/gag/aRro7PB)
+ - 🚯 [This takes me back - Terminator 2 Bio-Flesh regenerator](http://9gag.com/gag/aGzAg35)
+ - 🚯 [Have you ever wondered how amputee play soccer?](http://9gag.com/gag/a0Z1NRX)<!-- MEMES:END -->
 
 --- 
 
