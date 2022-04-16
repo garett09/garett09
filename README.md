@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just went on a road trip and this is the tech I couldn’t live without](https://www.androidauthority.com/road-trip-tech-2022-3152272/)
- - [How to Change Your Browser in Windows 11 &lpar;Hint: It’s Not Easy&rpar;](https://www.wired.com/story/how-to-change-your-browser-in-windows-11)
- - [To Resurrect Jordan’s Lost Forests, People Plant Tiny Urban Ones](https://www.wired.com/story/to-resurrect-jordans-lost-forests-people-plant-tiny-urban-ones)<!-- TECH:END -->
+ - [North Korea&#39;s Lazarus Group Was Behind $540 Million Ronin Theft](https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-telegram)
+ - [Meta’s Augmented Reality Glasses Are Still Years Away](https://www.wired.com/story/meta-facebook-augmented-reality-glasses-years-away)
+ - [Daily Deals April 16: Discounted refurbished Intel MacBook Pros, $149 AirPods, $100 off Sony 65-inch Google TV, more](https://appleinsider.com/articles/22/04/16/daily-deals-april-16-discounted-refurbished-intel-macbook-pros-149-airpods-100-off-sony-65-inch-google-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
