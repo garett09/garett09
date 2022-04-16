@@ -190,9 +190,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi is offering a 20 percent off sitewide sale this weekend](https://www.theverge.com/good-deals/2022/4/16/23025037/satechi-accessories-samsung-galaxy-book-pro-s21-plus-ultra-macbook-pro-13-amd-ryzen-cpu-deal-sale)
- - [How to pause and disable Windows 11 updates](https://www.theverge.com/23027235/windows-11-pause-updates-disable-how-to)
- - [North Korea&#39;s Lazarus Group Was Behind $540 Million Ronin Theft](https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-telegram)<!-- TECH:END -->
+ - [We’re sick of proprietary charging on smartwatches and fitness trackers](https://www.androidauthority.com/proprietary-wearable-chargers-3151562/)
+ - [Apple Silicon&#39;s risky chip strategy challenged Apple in multiple ways](https://appleinsider.com/articles/22/04/16/apple-silicons-risky-chip-strategy-challenged-apple-in-multiple-ways?utm_medium=rss)
+ - [What Your Blood Type Means For Heart Health, According to Science     - CNET](https://www.cnet.com/health/medical/what-your-blood-type-means-for-heart-health-according-to-science/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
