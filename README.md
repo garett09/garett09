@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Archaeologists excavate giant stone spheres in Costa Rica](http://9gag.com/gag/a412Gg6)
- - 🚯 [German humor](http://9gag.com/gag/aPZQj9K)
- - 🚯 [My turn to upload this classic.](http://9gag.com/gag/aAG2DZE)<!-- MEMES:END -->
+ - 🚖 [\u2800\u2800\u2800\u2800\u2800](http://9gag.com/gag/aBnGxwx)
+ - 🚯 [What have I become](http://9gag.com/gag/aXrWvyP)
+ - 🚯 [Cat is so confused](http://9gag.com/gag/axBR1vb)<!-- MEMES:END -->
 
 --- 
 
