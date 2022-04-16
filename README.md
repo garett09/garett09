@@ -197,9 +197,9 @@ Windows                  30 hrs 51 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No words](http://9gag.com/gag/ajgZX0G)
- - 🚯 [Mail thief](http://9gag.com/gag/aYrqe62)
- - 🚯 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
+ - 🚖 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)
+ - 🚯 [The cart is a snitch](http://9gag.com/gag/a912Y2W)
+ - 🚯 [Simple as that \ud83d\ude05](http://9gag.com/gag/a912WDo)<!-- MEMES:END -->
 
 --- 
 
