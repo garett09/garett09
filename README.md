@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
- - 🚯 [This is what pc master race think about mac](http://9gag.com/gag/aZrjZ4Q)
- - 🚯 [When you\u2019re out of college but your parents still make you do Easter egg hunts](http://9gag.com/gag/aDDV2WZ)<!-- MEMES:END -->
+ - 🚖 [An Easter procession in Spain was interrupted by North African migrants who tried to stop it. According to their religion other believers can&#39;t have public religious festivals. Unlike in Sweden the Spanish police managed to arrest a couple of them. Hopefully they&#39;re shipped back](http://9gag.com/gag/agg4obw)
+ - 🚯 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
+ - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)<!-- MEMES:END -->
 
 --- 
 
