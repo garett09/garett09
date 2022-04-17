@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some where in the Middle-Sweden](http://9gag.com/gag/a112PEY)
- - 🚯 [This is kinda gae](http://9gag.com/gag/aQXZEX8)
- - 🚯 [True victim...](http://9gag.com/gag/a612qqe)<!-- MEMES:END -->
+ - 🚖 [He shouldn&#39;t said that, dummy.](http://9gag.com/gag/adgePEM)
+ - 🚯 [True victim...](http://9gag.com/gag/a612qqe)
+ - 🚯 [Some where in the Middle-Sweden](http://9gag.com/gag/a112PEY)<!-- MEMES:END -->
 
 --- 
 
