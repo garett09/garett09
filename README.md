@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lasers make everything cool, vacuuming included](https://www.androidauthority.com/dyson-v15-detect-laser-vacuum-3152633/)
- - [Google Chrome for macOS gets another emergency zero-day fix](https://appleinsider.com/articles/22/04/17/google-chrome-for-macos-gets-another-emergency-zero-day-fix?utm_medium=rss)
- - [Skip the Spring Cleaning Hassle With $170 Off This Refurb Robot Vacuum     - CNET](https://www.cnet.com/home/kitchen-and-household/skip-the-spring-cleaning-hassle-with-170-off-this-refurb-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beanstalk, a credit-focused stablecoin protocol built on Ethereum, has lost about $182M in various crypto assets to an exploit &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220417/p6#a220417p6)
+ - [Tesla will no longer include mobile connectors with every car](https://www.theverge.com/2022/4/17/23029094/tesla-no-longer-include-mobile-chargers-every-car-purchase)
+ - [Compared: Apple Studio Display versus Porsche Design AOC Agon Pro monitor](https://appleinsider.com/articles/22/04/17/compared-apple-studio-display-versus-porsche-design-aoc-agon-pro-monitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
