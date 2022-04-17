@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Fallout fan turned a limited edition mini nuke into a tiny PC](https://www.pcgamer.com/this-fallout-fan-turned-a-limited-edition-mini-nuke-into-a-tiny-pc)
  - [Be a wizard, ponder your orb, create a world in this incremental clicker](https://www.pcgamer.com/be-a-wizard-ponder-your-orb-create-a-world-in-this-incremental-clicker)
- - [Dataminer reveals cut Elden Ring questline](https://www.pcgamer.com/dataminer-reveals-cut-elden-ring-questline)
- - [Per Aspera expands ocean terraforming with Blue Mars expansion](https://www.pcgamer.com/per-aspera-expands-ocean-terraforming-with-blue-mars-expansion)<!-- GAME:END -->
+ - [Dataminer reveals cut Elden Ring questline](https://www.pcgamer.com/dataminer-reveals-cut-elden-ring-questline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
