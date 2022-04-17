@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data shows the percentage share of e-commerce in total US retail sales, which is still up from pre-pandemic levels, has started to drop as in-store sales rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220417/p5#a220417p5)
  - [What can Samsung’s Expert RAW app do for your photography?](https://www.androidauthority.com/samsung-expert-raw-app-photos-3151660/)
- - [This Exercise Bike Let Me Finally Enjoy Cardio With a Heart Condition     - CNET](https://www.cnet.com/health/fitness/this-exercise-bike-let-me-finally-enjoy-cardio-with-a-heart-condition/#ftag=CAD590a51e)
- - [11 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)<!-- TECH:END -->
+ - [Shop Spring Savings at Kohl&#39;s One-Day Easter Flash Sale     - CNET](https://www.cnet.com/culture/fashion/shop-spring-savings-at-kohls-one-day-easter-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
