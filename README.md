@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Easter procession in Spain was interrupted by North African migrants who tried to stop it. According to their religion other believers can&#39;t have public religious festivals. Unlike in Sweden the Spanish police managed to arrest a couple of them. Hopefully they&#39;re shipped back](http://9gag.com/gag/agg4obw)
- - 🚯 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
- - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)<!-- MEMES:END -->
+ - 🚖 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
+ - 🚯 [H\u0131mmmm noise](http://9gag.com/gag/a812Ajp)
+ - 🚯 [Olena Kushnir, a medic, left his son safe to help in Mariupol, she died with her husband defending Mariupol. RIP heroine](http://9gag.com/gag/aWgbGrZ)<!-- MEMES:END -->
 
 --- 
 
