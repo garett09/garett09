@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data shows the percentage share of e-commerce in total US retail sales, which is still up from pre-pandemic levels, has started to drop as in-store sales rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220417/p5#a220417p5)
- - [What can Samsung’s Expert RAW app do for your photography?](https://www.androidauthority.com/samsung-expert-raw-app-photos-3151660/)
- - [Shop Spring Savings at Kohl&#39;s One-Day Easter Flash Sale     - CNET](https://www.cnet.com/culture/fashion/shop-spring-savings-at-kohls-one-day-easter-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lasers make everything cool, vacuuming included](https://www.androidauthority.com/dyson-v15-detect-laser-vacuum-3152633/)
+ - [Google Chrome for macOS gets another emergency zero-day fix](https://appleinsider.com/articles/22/04/17/google-chrome-for-macos-gets-another-emergency-zero-day-fix?utm_medium=rss)
+ - [Skip the Spring Cleaning Hassle With $170 Off This Refurb Robot Vacuum     - CNET](https://www.cnet.com/home/kitchen-and-household/skip-the-spring-cleaning-hassle-with-170-off-this-refurb-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
