@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This kid is going places, maybe prison someday](http://9gag.com/gag/aegmgPq)
- - 🚯 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
- - 🚯 [The 80s was a lawless time for phone design](http://9gag.com/gag/aegmg1Q)<!-- MEMES:END -->
+ - 🚖 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
+ - 🚯 [That\u2019s a viable option!](http://9gag.com/gag/aVxLx92)
+ - 🚯 [Front page news in Sweden tonight. 3rd day straight of burning vehicles and injured police. Who needs war to have enemies?](http://9gag.com/gag/aVxLxe2)<!-- MEMES:END -->
 
 --- 
 
