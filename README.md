@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This attic](http://9gag.com/gag/a712ELz)
- - 🚯 [The 80s was a lawless time for phone design](http://9gag.com/gag/aegmg1Q)
- - 🚯 [An alien cutting this rock in two with his laser gun](http://9gag.com/gag/arnqVd5)<!-- MEMES:END -->
+ - 🚖 [That\u2019s a viable option!](http://9gag.com/gag/aVxLx92)
+ - 🚯 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
+ - 🚯 [Knuckles would&#39;ve been like the one from Ugandan Knuckles meme](http://9gag.com/gag/aegmg0O)<!-- MEMES:END -->
 
 --- 
 
