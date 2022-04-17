@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Be a wizard, ponder your orb, create a world in this incremental clicker](https://www.pcgamer.com/be-a-wizard-ponder-your-orb-create-a-world-in-this-incremental-clicker)
  - [Dataminer reveals cut Elden Ring questline](https://www.pcgamer.com/dataminer-reveals-cut-elden-ring-questline)
- - [Per Aspera expands ocean terraforming with Blue Mars expansion](https://www.pcgamer.com/per-aspera-expands-ocean-terraforming-with-blue-mars-expansion)
- - [A deleted scene lays out a very different path for Everything Everywhere All At Once](https://www.polygon.com/23027564/everything-everywhere-all-at-once-deleted-scene-script)<!-- GAME:END -->
+ - [Per Aspera expands ocean terraforming with Blue Mars expansion](https://www.pcgamer.com/per-aspera-expands-ocean-terraforming-with-blue-mars-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
