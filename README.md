@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there Gandalf, 3000 years ago. And the strugle was real](http://9gag.com/gag/aGzAz5w)
- - 🚯 [I hope he&#39;s ok.](http://9gag.com/gag/aVxLbDO)
- - 🚯 [Olena Kushnir, a medic, left his son safe to help in Mariupol, she died with her husband defending Mariupol. RIP heroine](http://9gag.com/gag/aWgbGrZ)<!-- MEMES:END -->
+ - 🚖 [Some where in the Middle-Sweden](http://9gag.com/gag/a112PEY)
+ - 🚯 [This is kinda gae](http://9gag.com/gag/aQXZEX8)
+ - 🚯 [True victim...](http://9gag.com/gag/a612qqe)<!-- MEMES:END -->
 
 --- 
 
