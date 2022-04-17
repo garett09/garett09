@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals April 17: $70 off Hisense 70-inch 4K TV, $100 off Dark Matter monitor, Logitech discounts, more](https://appleinsider.com/articles/22/04/17/daily-deals-april-17-70-off-hisense-70-inch-4k-tv-100-off-dark-matter-monitor-logitech-discounts-more?utm_medium=rss)
- - [Self-repair programs aren’t a right-to-repair victory, here’s why](https://www.androidauthority.com/self-repair-right-to-repair-3153191/)
- - [Beanstalk, a credit-focused stablecoin protocol built on Ethereum, has lost about $182M in various crypto assets to an exploit &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220417/p6#a220417p6)<!-- TECH:END -->
+ - [Google takes six years to copy Apple in releasing &#39;Switch to Android&#39; app for iOS](https://appleinsider.com/articles/22/04/17/google-takes-six-years-to-copy-apple-in-releasing-switch-to-android-app-for-ios?utm_medium=rss)
+ - [This video teaches you how to build a retro flip-walker toy out of LEGO](https://www.theverge.com/2022/4/17/23029202/lego-video-teaches-build-retro-flip-walker-toy-bandai)
+ - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
