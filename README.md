@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [D&amp;D Direct to reveal future of series, including videogames](https://www.pcgamer.com/dandd-direct-to-reveal-future-of-series-including-videogames)
  - [The Severance creator sees the revolution potential in self-help books](https://www.polygon.com/23027373/severance-book-creator-actor-ricken)
- - [Everything we know about the Mass Effect TV series](https://www.pcgamer.com/mass-effect-tv-show-cast-release-rumors)
- - [Today&#39;s Wordle answer #302: Sunday, April 17](https://www.pcgamer.com/wordle-april-17-302)<!-- GAME:END -->
+ - [Everything we know about the Mass Effect TV series](https://www.pcgamer.com/mass-effect-tv-show-cast-release-rumors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
