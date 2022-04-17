@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beanstalk, a credit-focused stablecoin protocol built on Ethereum, has lost about $182M in various crypto assets to an exploit &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220417/p6#a220417p6)
- - [Tesla will no longer include mobile connectors with every car](https://www.theverge.com/2022/4/17/23029094/tesla-no-longer-include-mobile-chargers-every-car-purchase)
- - [Compared: Apple Studio Display versus Porsche Design AOC Agon Pro monitor](https://appleinsider.com/articles/22/04/17/compared-apple-studio-display-versus-porsche-design-aoc-agon-pro-monitor?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals April 17: $70 off Hisense 70-inch 4K TV, $100 off Dark Matter monitor, Logitech discounts, more](https://appleinsider.com/articles/22/04/17/daily-deals-april-17-70-off-hisense-70-inch-4k-tv-100-off-dark-matter-monitor-logitech-discounts-more?utm_medium=rss)
+ - [Self-repair programs aren’t a right-to-repair victory, here’s why](https://www.androidauthority.com/self-repair-right-to-repair-3153191/)
+ - [Beanstalk, a credit-focused stablecoin protocol built on Ethereum, has lost about $182M in various crypto assets to an exploit &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220417/p6#a220417p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
