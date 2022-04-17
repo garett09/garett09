@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers at NYC Grand Central Apple Store start moving to unionize](https://appleinsider.com/articles/22/04/16/workers-at-nyc-grand-central-apple-store-start-moving-to-unionize?utm_medium=rss)
- - [Apple store workers at Grand Central Terminal start collecting signatures to form a union](https://www.theverge.com/2022/4/16/23028356/apple-store-workers-grand-central-terminal-new-york-union-signatures)
- - [Grovemade wood &amp; leather wrist rest review: A comfortable and elegant addition to your desk](https://appleinsider.com/articles/22/04/16/grovemade-wood-leather-wrist-rest-review-a-comfortable-and-elegant-addition-to-your-desk?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Lumafield, which designs CT scanners for consumer products companies like L&#39;Oreal, OXO, and Trek Bicycle, and has raised $32.5M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220416/p8#a220416p8)
+ - [Samsung Galaxy Chromebook 2 360 a Low-Cost 2-in-1 Chromebook for Students     - CNET](https://www.cnet.com/tech/computing/samsung-galaxy-chromebook-2-360-a-low-cost-2-in-1-chromebook-for-students/#ftag=CAD590a51e)
+ - [Apple Store Unionization Effort in Motion at New York Flagship Location     - CNET](https://www.cnet.com/tech/apple-store-unionization-effort-in-motion-at-flagship-grand-central-location/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
