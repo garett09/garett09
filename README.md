@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Studio Display versus Porsche Design AOC Agon Pro monitor](https://appleinsider.com/articles/22/04/17/compared-apple-studio-display-versus-porsche-design-aoc-agon-pro-monitor?utm_medium=rss)
- - [iPad needs a &quot;pro&quot; mode when it is connected to a keyboard and trackpad, with Mac-like multitasking, a proper desktop, and more to serve its advanced users &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220417/p7#a220417p7)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/all-the-best-sci-fi-tv-shows-hbo-max-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pad &amp; Quill NATO band review: High quality leather and a unique design](https://appleinsider.com/articles/22/04/17/pad-quill-nato-band-review-high-quality-leather-and-a-unique-design?utm_medium=rss)
+ - [Best Apple Watch Accessories, Starting at Just $7     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-accessories/#ftag=CAD590a51e)
+ - [NASA &#39;Holoported&#39; a Doctor Onto the International Space Station     - CNET](https://www.cnet.com/science/space/nasa-holoported-a-doctor-onto-the-international-space-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
