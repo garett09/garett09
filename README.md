@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Preferred Qualifications: Master&#39;s degree and 6 years of experience](http://9gag.com/gag/a412nDm)
- - 🚯 [This is what pc master race think about mac](http://9gag.com/gag/aZrjZ4Q)
- - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)<!-- MEMES:END -->
+ - 🚖 [Just a reminder](http://9gag.com/gag/adge17M)
+ - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)
+ - 🚯 [We don&#39;t deserve windows](http://9gag.com/gag/arnqyLV)<!-- MEMES:END -->
 
 --- 
 
