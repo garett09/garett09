@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Steve&#39;s Harvey wife everybody](http://9gag.com/gag/aogLMAA)
- - 🚯 [Really nice](http://9gag.com/gag/aE8DPLM)
- - 🚯 [Goosebumps](http://9gag.com/gag/aBnGmYQ)<!-- MEMES:END -->
+ - 🚖 [Just a friendly advice, I hope you can do it.. It was 6 years ago and I still can&#39;t](http://9gag.com/gag/aLvmpoP)
+ - 🚯 [Goosebumps](http://9gag.com/gag/aBnGmYQ)
+ - 🚯 [Really nice](http://9gag.com/gag/aE8DPLM)<!-- MEMES:END -->
 
 --- 
 
