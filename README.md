@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi announces a shareholder meeting on May 23 to vote on delisting of its shares from the NYSE and reports Q4 2021 revenue of $6.4B, down about 12.6% YoY &lpar;Reuters&rpar;](http://www.techmeme.com/220417/p3#a220417p3)
- - [Best Home Theater Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-projector/#ftag=CAD590a51e)
- - [Social media platforms have weakened major forces that bind democracies together, especially after 2009 when the virality of social media started to intensify &lpar;Jonathan Haidt/The Atlantic&rpar;](http://www.techmeme.com/220417/p2#a220417p2)<!-- TECH:END -->
+ - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
+ - [How to Give macOS Quick Look New Powers](https://www.wired.com/story/how-to-macos-quick-look-new-powers)
+ - [How to Limit Who Can Contact You on Instagram](https://www.wired.com/story/how-to-limit-who-can-contact-you-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
