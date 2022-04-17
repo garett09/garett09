@@ -199,8 +199,8 @@ Windows                  6 hrs 59 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
- - 🚯 [H\u0131mmmm noise](http://9gag.com/gag/a812Ajp)
- - 🚯 [Olena Kushnir, a medic, left his son safe to help in Mariupol, she died with her husband defending Mariupol. RIP heroine](http://9gag.com/gag/aWgbGrZ)<!-- MEMES:END -->
+ - 🚯 [You just make the most important decision of your life](http://9gag.com/gag/aDDV7Zd)
+ - 🚯 [Just put on a happy face.](http://9gag.com/gag/azeRxPN)<!-- MEMES:END -->
 
 --- 
 
