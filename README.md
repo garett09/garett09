@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder](http://9gag.com/gag/adge17M)
- - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)
- - 🚯 [We don&#39;t deserve windows](http://9gag.com/gag/arnqyLV)<!-- MEMES:END -->
+ - 🚖 [We don&#39;t deserve windows](http://9gag.com/gag/arnqyLV)
+ - 🚯 [They dont know](http://9gag.com/gag/aM4vBvG)
+ - 🚯 [H\u0131mmmm noise](http://9gag.com/gag/a812Ajp)<!-- MEMES:END -->
 
 --- 
 
