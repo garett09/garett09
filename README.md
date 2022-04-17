@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a friendly advice, I hope you can do it.. It was 6 years ago and I still can&#39;t](http://9gag.com/gag/aLvmpoP)
- - 🚯 [Goosebumps](http://9gag.com/gag/aBnGmYQ)
- - 🚯 [Really nice](http://9gag.com/gag/aE8DPLM)<!-- MEMES:END -->
+ - 🚖 [Really nice](http://9gag.com/gag/aE8DPLM)
+ - 🚯 [Knuckles would&#39;ve been like the one from Ugandan Knuckles meme](http://9gag.com/gag/aegmg0O)
+ - 🚯 [Swings his little pp around](http://9gag.com/gag/a0Z1NKd)<!-- MEMES:END -->
 
 --- 
 
