@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He shouldn&#39;t said that, dummy.](http://9gag.com/gag/adgePEM)
- - 🚯 [Solar power station in Chile with one cell for scale](http://9gag.com/gag/aE8DqxN)
- - 🚯 [Some where in the Middle-Sweden](http://9gag.com/gag/a112PEY)<!-- MEMES:END -->
+ - 🚖 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
+ - 🚯 [This is what pc master race think about mac](http://9gag.com/gag/aZrjZ4Q)
+ - 🚯 [When you\u2019re out of college but your parents still make you do Easter egg hunts](http://9gag.com/gag/aDDV2WZ)<!-- MEMES:END -->
 
 --- 
 
