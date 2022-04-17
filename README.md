@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shampoo!](http://9gag.com/gag/a412ENQ)
+ - 🚖 [This kid is going places, maybe prison someday](http://9gag.com/gag/aegmgPq)
  - 🚯 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
- - 🚯 [Captain Jack sparrow](http://9gag.com/gag/a712WQq)<!-- MEMES:END -->
+ - 🚯 [The 80s was a lawless time for phone design](http://9gag.com/gag/aegmg1Q)<!-- MEMES:END -->
 
 --- 
 
