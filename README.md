@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week in PC Gaming: Ember Knights, Godlike Burger, and Trolley Problem, Inc.](https://www.pcgamer.com/this-week-in-pc-gaming-ember-knights-godlike-burger-and-trolley-problem-inc)
  - [D&amp;D Direct to reveal future of series, including videogames](https://www.pcgamer.com/dandd-direct-to-reveal-future-of-series-including-videogames)
- - [The Severance creator sees the revolution potential in self-help books](https://www.polygon.com/23027373/severance-book-creator-actor-ricken)
- - [Everything we know about the Mass Effect TV series](https://www.pcgamer.com/mass-effect-tv-show-cast-release-rumors)<!-- GAME:END -->
+ - [The Severance creator sees the revolution potential in self-help books](https://www.polygon.com/23027373/severance-book-creator-actor-ricken)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
