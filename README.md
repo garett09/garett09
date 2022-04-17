@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)
- - [Daily Deals April 17: $70 off Hisense 70-inch 4K TV, $100 off Dark Matter monitor, Logitech discounts, more](https://appleinsider.com/articles/22/04/17/daily-deals-april-17-70-off-hisense-70-inch-4k-tv-100-off-dark-matter-monitor-logitech-discounts-more?utm_medium=rss)
- - [A look at adult webcam &quot;monitors&quot; in Colombia who train models and provide tech support; Colombia has the world&#39;s second largest camming industry behind Romania &lpar;Rest of World&rpar;](http://www.techmeme.com/220417/p4#a220417p4)<!-- TECH:END -->
+ - [What can Samsung’s Expert RAW app do for your photography?](https://www.androidauthority.com/samsung-expert-raw-app-photos-3151660/)
+ - [This Exercise Bike Let Me Finally Enjoy Cardio With a Heart Condition     - CNET](https://www.cnet.com/health/fitness/this-exercise-bike-let-me-finally-enjoy-cardio-with-a-heart-condition/#ftag=CAD590a51e)
+ - [11 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
