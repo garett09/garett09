@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
- - 🚯 [That\u2019s a viable option!](http://9gag.com/gag/aVxLx92)
- - 🚯 [Front page news in Sweden tonight. 3rd day straight of burning vehicles and injured police. Who needs war to have enemies?](http://9gag.com/gag/aVxLxe2)<!-- MEMES:END -->
+ - 🚖 [That\u2019s a viable option!](http://9gag.com/gag/aVxLx92)
+ - 🚯 [I hope he&#39;s ok.](http://9gag.com/gag/aVxLbDO)
+ - 🚯 [People starved in Shanghai&#39;s Lockdown becoming 21st century hunters](http://9gag.com/gag/aegmgDm)<!-- MEMES:END -->
 
 --- 
 
