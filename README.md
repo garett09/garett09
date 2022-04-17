@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro revisited: The good and bad six months later](https://www.androidauthority.com/iphone-13-pro-review-revisited-3145124/)
- - [A Newly Measured Particle Could Break Known Physics](https://www.wired.com/story/a-newly-measured-particle-could-break-known-physics)
- - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)
+ - [Daily Deals April 17: $70 off Hisense 70-inch 4K TV, $100 off Dark Matter monitor, Logitech discounts, more](https://appleinsider.com/articles/22/04/17/daily-deals-april-17-70-off-hisense-70-inch-4k-tv-100-off-dark-matter-monitor-logitech-discounts-more?utm_medium=rss)
+ - [A look at adult webcam &quot;monitors&quot; in Colombia who train models and provide tech support; Colombia has the world&#39;s second largest camming industry behind Romania &lpar;Rest of World&rpar;](http://www.techmeme.com/220417/p4#a220417p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
