@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
- - [How to Give macOS Quick Look New Powers](https://www.wired.com/story/how-to-macos-quick-look-new-powers)
- - [How to Limit Who Can Contact You on Instagram](https://www.wired.com/story/how-to-limit-who-can-contact-you-instagram)<!-- TECH:END -->
+ - [iPhone 13 Pro revisited: The good and bad six months later](https://www.androidauthority.com/iphone-13-pro-review-revisited-3145124/)
+ - [A Newly Measured Particle Could Break Known Physics](https://www.wired.com/story/a-newly-measured-particle-could-break-known-physics)
+ - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
