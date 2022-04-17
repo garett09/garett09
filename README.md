@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything we know about the Mass Effect TV series](https://www.pcgamer.com/mass-effect-tv-show-cast-release-rumors)
  - [Today&#39;s Wordle answer #302: Sunday, April 17](https://www.pcgamer.com/wordle-april-17-302)
- - [This Fallout fan turned a limited edition mini nuke into a tiny PC](https://www.pcgamer.com/this-fallout-fan-turned-a-limited-edition-mini-nuke-into-a-tiny-pc)
- - [Be a wizard, ponder your orb, create a world in this incremental clicker](https://www.pcgamer.com/be-a-wizard-ponder-your-orb-create-a-world-in-this-incremental-clicker)<!-- GAME:END -->
+ - [This Fallout fan turned a limited edition mini nuke into a tiny PC](https://www.pcgamer.com/this-fallout-fan-turned-a-limited-edition-mini-nuke-into-a-tiny-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
