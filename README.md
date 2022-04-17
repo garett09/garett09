@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new beginning awaits here in Japan](http://9gag.com/gag/amgMoOo)
- - 🚯 [You just make the most important decision of your life](http://9gag.com/gag/aDDV7Zd)
- - 🚯 [Just put on a happy face.](http://9gag.com/gag/azeRxPN)<!-- MEMES:END -->
+ - 🚖 [Preferred Qualifications: Master&#39;s degree and 6 years of experience](http://9gag.com/gag/a412nDm)
+ - 🚯 [This is what pc master race think about mac](http://9gag.com/gag/aZrjZ4Q)
+ - 🚯 [300 MILLION muslims want to KILL YOU](http://9gag.com/gag/agg4mwn)<!-- MEMES:END -->
 
 --- 
 
