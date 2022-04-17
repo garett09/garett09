@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s a viable option!](http://9gag.com/gag/aVxLx92)
+ - 🚖 [Shampoo!](http://9gag.com/gag/a412ENQ)
  - 🚯 [F.u.c.k.i.n.g. OCD!](http://9gag.com/gag/aQXZXv7)
- - 🚯 [Knuckles would&#39;ve been like the one from Ugandan Knuckles meme](http://9gag.com/gag/aegmg0O)<!-- MEMES:END -->
+ - 🚯 [Captain Jack sparrow](http://9gag.com/gag/a712WQq)<!-- MEMES:END -->
 
 --- 
 
