@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay](http://9gag.com/gag/angEO25)
- - 🚯 [Unreal Engine 5 City Sample Showcase](http://9gag.com/gag/a0Z1Xgq)
- - 🚯 [Let&#39;s take a break to pay tribute to one of the best games ever](http://9gag.com/gag/aPZQmpq)<!-- MEMES:END -->
+ - 🚖 [Preferred Qualifications: Master&#39;s degree and 6 years of experience](http://9gag.com/gag/a412nDm)
+ - 🚯 [Getting married today, sees my wife notification+97. I got 0 message, and 1 message from my friend congratulating me through my wife&#39;s phone.](http://9gag.com/gag/aNP49xG)
+ - 🚯 [You just make the most important decision of your life](http://9gag.com/gag/aDDV7Zd)<!-- MEMES:END -->
 
 --- 
 
