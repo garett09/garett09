@@ -199,7 +199,7 @@ Windows                  6 hrs 59 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [He shouldn&#39;t said that, dummy.](http://9gag.com/gag/adgePEM)
- - 🚯 [True victim...](http://9gag.com/gag/a612qqe)
+ - 🚯 [Solar power station in Chile with one cell for scale](http://9gag.com/gag/aE8DqxN)
  - 🚯 [Some where in the Middle-Sweden](http://9gag.com/gag/a112PEY)<!-- MEMES:END -->
 
 --- 
