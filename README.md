@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s nothing new](http://9gag.com/gag/angE4pq)
- - 🚯 [This takes me back - Terminator 2 Bio-Flesh regenerator](http://9gag.com/gag/aGzAg35)
- - 🚯 [Have you ever wondered how amputee play soccer?](http://9gag.com/gag/a0Z1NRX)<!-- MEMES:END -->
+ - 🚖 [After many encoding adventures here is &#39;A Very Detailed View Of A Crater On The Planet Mars in 8K&#39;.](http://9gag.com/gag/aM4vYn1)
+ - 🚯 [Have you ever wondered how amputee play soccer?](http://9gag.com/gag/a0Z1NRX)
+ - 🚯 [Really nice](http://9gag.com/gag/aE8DPLM)<!-- MEMES:END -->
 
 --- 
 
