@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Lumafield, which designs CT scanners for consumer products companies like L&#39;Oreal, OXO, and Trek Bicycle, and has raised $32.5M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220416/p8#a220416p8)
- - [Samsung Galaxy Chromebook 2 360 a Low-Cost 2-in-1 Chromebook for Students     - CNET](https://www.cnet.com/tech/computing/samsung-galaxy-chromebook-2-360-a-low-cost-2-in-1-chromebook-for-students/#ftag=CAD590a51e)
- - [Apple Store Unionization Effort in Motion at New York Flagship Location     - CNET](https://www.cnet.com/tech/apple-store-unionization-effort-in-motion-at-flagship-grand-central-location/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social media platforms have weakened major forces that bind democracies together, especially after 2009 when the virality of social media started to intensify &lpar;Jonathan Haidt/The Atlantic&rpar;](http://www.techmeme.com/220417/p2#a220417p2)
+ - [Twitter should not only open source its algorithm but also create a marketplace where anyone can build their own algorithms, and use the ones created by others &lpar;Nathan Baschez/Every&rpar;](http://www.techmeme.com/220417/p1#a220417p1)
+ - [A look at Lumafield, which designs CT scanners for consumer products companies like L&#39;Oreal, OXO, and Trek Bicycle, and has raised $32.5M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220416/p8#a220416p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
