@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Square Enix president continues hopeful tone on blockchain despite backlash](https://www.pcgamer.com/square-enix-president-continues-hopeful-tone-on-blockchain-despite-backlash)
  - [This Week in PC Gaming: Ember Knights, Godlike Burger, and Trolley Problem, Inc.](https://www.pcgamer.com/this-week-in-pc-gaming-ember-knights-godlike-burger-and-trolley-problem-inc)
- - [D&amp;D Direct to reveal future of series, including videogames](https://www.pcgamer.com/dandd-direct-to-reveal-future-of-series-including-videogames)
- - [The Severance creator sees the revolution potential in self-help books](https://www.polygon.com/23027373/severance-book-creator-actor-ricken)<!-- GAME:END -->
+ - [D&amp;D Direct to reveal future of series, including videogames](https://www.pcgamer.com/dandd-direct-to-reveal-future-of-series-including-videogames)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
