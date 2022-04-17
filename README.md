@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese astronauts return to Earth after spending six months in space](https://www.theverge.com/2022/4/17/23029421/chinese-astronauts-return-earth-six-months-space-shenzhou-13-tiangong-tianhe-china)
  - [Pad &amp; Quill NATO band review: High quality leather and a unique design](https://appleinsider.com/articles/22/04/17/pad-quill-nato-band-review-high-quality-leather-and-a-unique-design?utm_medium=rss)
- - [Best Apple Watch Accessories, Starting at Just $7     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-accessories/#ftag=CAD590a51e)
- - [NASA &#39;Holoported&#39; a Doctor Onto the International Space Station     - CNET](https://www.cnet.com/science/space/nasa-holoported-a-doctor-onto-the-international-space-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: Apple Studio Display versus Porsche Design AOC Agon Pro monitor](https://appleinsider.com/articles/22/04/17/compared-apple-studio-display-versus-porsche-design-aoc-agon-pro-monitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
