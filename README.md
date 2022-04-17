@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We don&#39;t deserve windows](http://9gag.com/gag/arnqyLV)
- - 🚯 [They dont know](http://9gag.com/gag/aM4vBvG)
- - 🚯 [H\u0131mmmm noise](http://9gag.com/gag/a812Ajp)<!-- MEMES:END -->
+ - 🚖 [Okay](http://9gag.com/gag/angEO25)
+ - 🚯 [Unreal Engine 5 City Sample Showcase](http://9gag.com/gag/a0Z1Xgq)
+ - 🚯 [Let&#39;s take a break to pay tribute to one of the best games ever](http://9gag.com/gag/aPZQmpq)<!-- MEMES:END -->
 
 --- 
 
