@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google takes six years to copy Apple in releasing &#39;Switch to Android&#39; app for iOS](https://appleinsider.com/articles/22/04/17/google-takes-six-years-to-copy-apple-in-releasing-switch-to-android-app-for-ios?utm_medium=rss)
- - [This video teaches you how to build a retro flip-walker toy out of LEGO](https://www.theverge.com/2022/4/17/23029202/lego-video-teaches-build-retro-flip-walker-toy-bandai)
- - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: Apple Studio Display versus Porsche Design AOC Agon Pro monitor](https://appleinsider.com/articles/22/04/17/compared-apple-studio-display-versus-porsche-design-aoc-agon-pro-monitor?utm_medium=rss)
+ - [iPad needs a &quot;pro&quot; mode when it is connected to a keyboard and trackpad, with Mac-like multitasking, a proper desktop, and more to serve its advanced users &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220417/p7#a220417p7)
+ - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/all-the-best-sci-fi-tv-shows-hbo-max-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
