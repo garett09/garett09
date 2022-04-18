@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord Watch in the works: An inexpensive smartwatch? &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)
- - [A Windows 11 tool to enable the Google Play Store was actually malware](https://www.androidauthority.com/windows-11-toolbox-google-play-store-malware-3154285/)
- - [India-based UrbanPiper, which helps restaurants manage multiple food delivery services, raises a $24M Series B from Swiggy, Zomato, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220418/p1#a220418p1)<!-- TECH:END -->
+ - [Fan tokens issued by Manchester City and other soccer clubs have proven to be a disappointment for hopeful fans, with prices quickly losing steam within days &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/220418/p2#a220418p2)
+ - [Apple is readying a bunch of new features for Apple Watch line](https://www.androidauthority.com/apple-watch-software-features-3154307/)
+ - [OnePlus Nord Watch in the works: An inexpensive smartwatch? &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
