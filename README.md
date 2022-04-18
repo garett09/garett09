@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God save the queen](http://9gag.com/gag/agg4xOn)
- - 🚯 [Good morning with this beautiful landscape.](http://9gag.com/gag/axBRbrp)
- - 🚯 [It&#39;s a peaceful life](http://9gag.com/gag/aQXZALK)<!-- MEMES:END -->
+ - 🚖 [To be the scariest](http://9gag.com/gag/ajgZxDg)
+ - 🚯 [When Jamaica Broke the Men&#39;s 4x100m World Record at London 2012 Olympics](http://9gag.com/gag/aXrW786)
+ - 🚯 [Fair and square](http://9gag.com/gag/a3128mQ)<!-- MEMES:END -->
 
 --- 
 
