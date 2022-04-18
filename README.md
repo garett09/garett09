@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 director says glitched housing lottery will be fixed shortly](https://www.polygon.com/23030357/ff14-housing-lottery-glitch-explanation-fix-server-maintenance)
- - [How Jane Foster got the powers of Thor](https://www.polygon.com/23030232/female-thor-love-and-thunder-natalie-portman)
- - [Battlefield 2042’s new patch finally adds in-game voice chat](https://www.polygon.com/23030333/battlefield-2042-voice-chat-update-patch-notes-4-0)<!-- GAME:END -->
+ - [Portal Writer Wants Valve To Make Next Game Before He&#39;s &#39;Too Old To Work&#39; On It](https://kotaku.com/portal-valve-erik-wolpaw-half-life-alyx-steam-counter-s-1848807049)
+ - [Netflix gets ready to launch Exploding Kittens TV show and game](https://www.polygon.com/23030598/exploding-kittens-netflix-show-game)
+ - [League of Legends’ Aurelion Sol is finally getting a rework](https://www.polygon.com/23030520/riot-champion-roadmap-april-2022-aurelion-sol-cgu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
