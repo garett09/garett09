@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cabbages!](http://9gag.com/gag/aVxLmG8)
- - 🚯 [Granny spits on someone and learns a lesson](http://9gag.com/gag/a1120Gb)
- - 🚯 [Good samaritan cleans up after littering lawbreaking nonse](http://9gag.com/gag/aYrqP4m)<!-- MEMES:END -->
+ - 🚖 [Said goodbye to this good boi yesterday after 19 years and 7 months. He absolutely loves scratches, as seen in this video.](http://9gag.com/gag/aegmxM5)
+ - 🚯 [YEESS](http://9gag.com/gag/azeRGxp)
+ - 🚯 [The Simpsons Don&#39;t Only Predict the Future. They Also Serve as a Time Capsule of What Changed.](http://9gag.com/gag/a9128KL)<!-- MEMES:END -->
 
 --- 
 
