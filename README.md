@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use AirDrop on Apple’s iPhone and iPad](https://www.theverge.com/23030163/airdrop-iphone-ipad-how-to-use-apple)
- - [Samsung Galaxy Z Flip 4: What we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-4-3151552/)
- - [Apple supply diversification won&#39;t mitigate current Chinese lockdowns](https://appleinsider.com/articles/22/04/18/apple-supply-diversification-wont-mitigate-current-chinese-lockdowns?utm_medium=rss)<!-- TECH:END -->
+ - [Interview with Shortcuts maven Matthew Cassinelli on the AppleInsider Podcast](https://appleinsider.com/articles/22/04/18/interview-with-shortcuts-maven-matthew-cassinelli-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Roborock S7 MaxV Ultra review: The indulgent robot vacuum for lazy people](https://www.androidauthority.com/roborock-s7-maxv-ultra-review-3147021/)
+ - [Parcast union contract with Spotify includes pay raises and diversity promises](https://www.theverge.com/2022/4/18/23030244/parcast-union-contract-spotify-pay-raise-diversity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
