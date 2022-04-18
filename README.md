@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The birth, life, death, and possible resurrection of the Thunderbolt eGPU in macOS](https://appleinsider.com/articles/22/04/18/the-birth-life-death-and-possible-resurrection-of-the-thunderbolt-egpu-in-macos?utm_medium=rss)
- - [Whistleblower Ashley Gjovik would return to Apple despite &#39;nightmare&#39; life](https://appleinsider.com/articles/22/04/18/whistleblower-ashley-gjovik-would-return-to-apple-despite-nightmare-life?utm_medium=rss)
- - [Pro-Biden super PAC launches six-figure paid influencer program](https://www.theverge.com/2022/4/18/23030500/biden-pac-american-bridge-influencer-campaign-midterm-elections)<!-- TECH:END -->
+ - [Judge says masks can’t be required on planes and trains](https://www.theverge.com/2022/4/18/23030626/mask-mandate-transportation-unlawful-judge)
+ - [The Motorola Moto G series deserves better](https://www.androidauthority.com/motorola-moto-g-series-3151759/)
+ - [Walmart will have PlayStation 5 consoles tomorrow for paying subscribers](https://www.theverge.com/2022/4/18/22988835/sony-playstation-5-ps5-console-restock-walmart-plus-availability-check-inventory)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
