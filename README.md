@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lois Lane is more dangerous now than she’s ever been](https://www.polygon.com/22870915/lois-lane-superman-jon-kent-dc-comics)
- - [Minecraft movie will reportedly star Jason Momoa](https://www.polygon.com/23030925/jason-momoa-minecraft-movie-report-warner-bros)
- - [Sea of Thieves’ next adventure stars the game’s rarest shark](https://www.polygon.com/23030567/sea-of-thieves-the-shrouded-deep-adventure-april-may-shrouded-ghost-megalodon)<!-- GAME:END -->
+ - [Jason Momoa is in talks to star in the Minecraft film](https://www.pcgamer.com/jason-momoa-is-in-talks-to-star-in-the-minecraft-film)
+ - [Aqua Teen Hunger Force returns in an all-new series of web shorts, Aqua Donk Side Pieces](https://www.polygon.com/23031092/aqua-teen-hunger-force-new-web-series-frylock-meatwad)
+ - [4 Cost-Effective Cards To Craft For Hearthstone&#39;s Sunken City Set](https://kotaku.com/hearthstone-sunken-city-amalgam-finley-queen-azshara-tw-1848806103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
