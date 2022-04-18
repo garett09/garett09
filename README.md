@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 9, 9 Pro getting April security patch with latest Oxygen OS 12 update](https://www.androidauthority.com/oneplus-9-update-1212009/)
  - [Fan tokens issued by Manchester City and other soccer clubs have proven to be a disappointment for hopeful fans, with prices quickly losing steam within days &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/220418/p2#a220418p2)
- - [Apple is readying a bunch of new features for Apple Watch line](https://www.androidauthority.com/apple-watch-software-features-3154307/)
- - [OnePlus Nord Watch in the works: An inexpensive smartwatch? &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)<!-- TECH:END -->
+ - [Apple is readying a bunch of new features for Apple Watch line](https://www.androidauthority.com/apple-watch-software-features-3154307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
