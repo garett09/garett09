@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doggo vs transformer](http://9gag.com/gag/a512G6O)
- - 🚯 [It&#39;s a peaceful life](http://9gag.com/gag/aQXZALK)
- - 🚯 [Skyrim + Unreal Engine 5 - Riverwood](http://9gag.com/gag/a712Vbm)<!-- MEMES:END -->
+ - 🚖 [Your daily dose of nnnnggghhhh](http://9gag.com/gag/arnqZmV)
+ - 🚯 [CCP china is a real problem for mankind!](http://9gag.com/gag/a812eW1)
+ - 🚯 [Granny spits on someone and learns a lesson](http://9gag.com/gag/a1120Gb)<!-- MEMES:END -->
 
 --- 
 
