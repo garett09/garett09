@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Nord Watch in the works: An inexpensive smartwatch? &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-smartwatch-3141785/)
  - [A Windows 11 tool to enable the Google Play Store was actually malware](https://www.androidauthority.com/windows-11-toolbox-google-play-store-malware-3154285/)
- - [India-based UrbanPiper, which helps restaurants manage multiple food delivery services, raises a $24M Series B from Swiggy, Zomato, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220418/p1#a220418p1)
- - [What is Blockchain: Everything You Need to Know &lpar;2022&rpar;](http://www.crunchhype.com/2022/04/what-is-blockchain-everything-you-need.html)<!-- TECH:END -->
+ - [India-based UrbanPiper, which helps restaurants manage multiple food delivery services, raises a $24M Series B from Swiggy, Zomato, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220418/p1#a220418p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
