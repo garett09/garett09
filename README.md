@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the community creating classic Tomb Raider adventures in 2021](https://www.pcgamer.com/meet-the-community-creating-classic-tomb-raider-adventures-in-2021)
- - [The Elder Scrolls Online is free-to-play until April 26](https://www.pcgamer.com/the-elder-scrolls-online-is-free-to-play-until-april-26)
- - [Today&#39;s Wordle answer #303: Monday, April 18](https://www.pcgamer.com/wordle-april-18-303)<!-- GAME:END -->
+ - [My living room still has 3 TVs but I have regrets](https://www.polygon.com/23007001/3-tvs-living-room-setup-regrets)
+ - [Stranger Things season 4 will be the darkest — and the funniest — yet](https://www.polygon.com/23027208/stranger-things-season-4-set-visit-millie-bobby-brown)
+ - [The existential horror of playing Mount &amp; Blade 2 on easy mode](https://www.pcgamer.com/the-existential-horror-of-playing-mount-and-blade-2-on-easy-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
