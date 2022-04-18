@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For Real](http://9gag.com/gag/a6125jN)
- - 🚯 [Unreal Engine 5 City Sample Showcase](http://9gag.com/gag/a0Z1Xgq)
- - 🚯 [My expectations were low already](http://9gag.com/gag/a61251A)<!-- MEMES:END -->
+ - 🚖 [Sweet dreams](http://9gag.com/gag/angE2XL)
+ - 🚯 [My expectations were low already](http://9gag.com/gag/a61251A)
+ - 🚯 [A definition](http://9gag.com/gag/aVxLKEy)<!-- MEMES:END -->
 
 --- 
 
