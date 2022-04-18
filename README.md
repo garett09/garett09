@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How a martial art made Deathloop&#39;s invasions irresistible](https://www.pcgamer.com/how-a-martial-art-made-deathloops-invasions-irresistible)
- - [Intel set to overtake TSMC&#39;s process lead with 3nm node and beyond](https://www.pcgamer.com/intel-set-to-overtake-tsmcs-process-lead-with-3nm-node-and-beyond)
- - [Intel Arc A770 matches RTX 2070 OpenCL performance](https://www.pcgamer.com/intel-arc-a770-matches-rtx-2070-opencl-performance)<!-- GAME:END -->
+ - [Meet the community creating classic Tomb Raider adventures in 2021](https://www.pcgamer.com/meet-the-community-creating-classic-tomb-raider-adventures-in-2021)
+ - [The Elder Scrolls Online is free-to-play until April 26](https://www.pcgamer.com/the-elder-scrolls-online-is-free-to-play-until-april-26)
+ - [Today&#39;s Wordle answer #303: Monday, April 18](https://www.pcgamer.com/wordle-april-18-303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
