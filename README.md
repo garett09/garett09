@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whistleblower Ashley Gjovik would return to Apple despite &#39;nightmare&#39; life](https://appleinsider.com/articles/22/04/18/whistleblower-ashley-gjovik-would-return-to-apple-despite-nightmare-life?utm_medium=rss)
- - [Blackmagic Design leans into network storage with Cloud lineup](https://appleinsider.com/articles/22/04/18/blackmagic-design-leans-into-network-storage-with-cloud-lineup?utm_medium=rss)
- - [A look at corporate raider tactics requiring 51% of a company&#39;s stock that tend to treat remaining minority shareholders poorly, amid Twitter&#39;s &quot;poison pill&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220418/p17#a220418p17)<!-- TECH:END -->
+ - [a16z unveils Start, an accelerator that offers early-stage founders up to $1M in VC funding, after quietly piloting the program for over a year &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220418/p20#a220418p20)
+ - [Smarthome firm and early HomeKit partner Insteon is dead, with no warning to customers](https://appleinsider.com/articles/22/04/18/smarthome-firm-and-early-homekit-partner-insteon-is-dead-with-no-warning-to-customers?utm_medium=rss)
+ - [Overwatch developers confirm my conspiracy theory about Lúcio’s hair](https://www.theverge.com/2022/4/18/23030890/overwatch-2-lucio-hair-conspiracy-theory)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
