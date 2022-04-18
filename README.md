@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019ve worked on this game by myself for the last two and a half years, so it\u2019s exciting to see it release soon!](http://9gag.com/gag/a9122bD)
- - 🚯 [Why make sand castles if you can make these](http://9gag.com/gag/axBRPAp)
- - 🚯 [Sounds about fair](http://9gag.com/gag/aLvmd6g)<!-- MEMES:END -->
+ - 🚖 [Swedish Police Shoot Into A Crowd Of Muslim Protesters](http://9gag.com/gag/a212bd1)
+ - 🚯 [Netflix](http://9gag.com/gag/a312WON)
+ - 🚯 [Shanghai China, people are starving because of food wasting away in warehouses](http://9gag.com/gag/aZrjj56)<!-- MEMES:END -->
 
 --- 
 
