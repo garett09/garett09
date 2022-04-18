@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hikaru Utada brought Kingdom Hearts representation to Coachella](https://www.polygon.com/23030394/coachella-kingdom-hearts-performance-hikaru-utada-simple-and-clean-face-my-fears)
- - [You can make &#39;Let Me Solo Her&#39; your spirit sidekick with this mod](https://www.pcgamer.com/you-can-make-let-me-solo-her-your-spirit-sidekick-with-this-mod)
- - [Blizzard Boss Tries To Shut Down Player Speculation After NFT Survey](https://kotaku.com/activision-blizzard-overwatch-2-diablo-4-nft-scam-specu-1848807817)<!-- GAME:END -->
+ - [Lois Lane is more dangerous now than she’s ever been](https://www.polygon.com/22870915/lois-lane-superman-jon-kent-dc-comics)
+ - [Minecraft movie will reportedly star Jason Momoa](https://www.polygon.com/23030925/jason-momoa-minecraft-movie-report-warner-bros)
+ - [Sea of Thieves’ next adventure stars the game’s rarest shark](https://www.polygon.com/23030567/sea-of-thieves-the-shrouded-deep-adventure-april-may-shrouded-ghost-megalodon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
