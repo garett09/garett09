@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Portal Writer Wants Valve To Make Next Game Before He&#39;s &#39;Too Old To Work&#39; On It](https://kotaku.com/portal-valve-erik-wolpaw-half-life-alyx-steam-counter-s-1848807049)
- - [Netflix gets ready to launch Exploding Kittens TV show and game](https://www.polygon.com/23030598/exploding-kittens-netflix-show-game)
- - [League of Legends’ Aurelion Sol is finally getting a rework](https://www.polygon.com/23030520/riot-champion-roadmap-april-2022-aurelion-sol-cgu)<!-- GAME:END -->
+ - [Designing new Deep Rock Galactic weapons with the DualSense controller in mind](https://blog.playstation.com/2022/04/18/designing-new-deep-rock-galactic-weapons-with-the-dualsense-controller-in-mind/)
+ - [Designing new Deep Rock Galactic weapons with the DualSense controller in mind](https://blog.playstation.com/2022/04/18/designing-new-deep-rock-galactic-weapons-with-the-dualsense-controller-in-mind/)
+ - [Cut Content Reveals Elden Ring’s Best Summon Used To Have Its Own Quest](https://kotaku.com/elden-ring-fromsoftware-asimi-mimic-tear-summon-best-sp-1848807543)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
