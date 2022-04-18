@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He Pepsied](http://9gag.com/gag/aOQP9zE)
- - 🚯 [God save the queen](http://9gag.com/gag/agg4xOn)
- - 🚯 [U a rainbow boi ?](http://9gag.com/gag/aBnGPqA)<!-- MEMES:END -->
+ - 🚖 [God save the queen](http://9gag.com/gag/agg4xOn)
+ - 🚯 [Good morning with this beautiful landscape.](http://9gag.com/gag/axBRbrp)
+ - 🚯 [It&#39;s a peaceful life](http://9gag.com/gag/aQXZALK)<!-- MEMES:END -->
 
 --- 
 
