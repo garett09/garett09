@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a gratitude for hospitality...](http://9gag.com/gag/aE8DVvO)
- - 🚯 [`Men are useless`](http://9gag.com/gag/aZrjwQ3)
- - 🚯 [They dont know](http://9gag.com/gag/aM4vBvG)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s take a break to pay tribute to one of the best games ever](http://9gag.com/gag/aPZQmpq)
+ - 🚯 [Sweet dreams](http://9gag.com/gag/angE2XL)
+ - 🚯 [This is some serious gourmet shit](http://9gag.com/gag/aAG2EXg)<!-- MEMES:END -->
 
 --- 
 
