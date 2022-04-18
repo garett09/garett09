@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s take a break to pay tribute to one of the best games ever](http://9gag.com/gag/aPZQmpq)
- - 🚯 [Sweet dreams](http://9gag.com/gag/angE2XL)
- - 🚯 [This is some serious gourmet shit](http://9gag.com/gag/aAG2EXg)<!-- MEMES:END -->
+ - 🚖 [This is some serious gourmet shit](http://9gag.com/gag/aAG2EXg)
+ - 🚯 [BYE FELICIA: A black Pittsburgh police officer LAYS OUT a BLM protester that refused to clear an intersection after warnings, resisted arrest and clearly interfered with an arrest at a BLM protest yesterday](http://9gag.com/gag/aXrWVYP)
+ - 🚯 [Lifecycle of the largest snail in the world](http://9gag.com/gag/aVxLo6v)<!-- MEMES:END -->
 
 --- 
 
