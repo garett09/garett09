@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z unveils Start, an accelerator that offers early-stage founders up to $1M in VC funding, after quietly piloting the program for over a year &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220418/p20#a220418p20)
- - [Smarthome firm and early HomeKit partner Insteon is dead, with no warning to customers](https://appleinsider.com/articles/22/04/18/smarthome-firm-and-early-homekit-partner-insteon-is-dead-with-no-warning-to-customers?utm_medium=rss)
- - [Overwatch developers confirm my conspiracy theory about Lúcio’s hair](https://www.theverge.com/2022/4/18/23030890/overwatch-2-lucio-hair-conspiracy-theory)<!-- TECH:END -->
+ - [Apple employees unionizing at Grand Central Terminal store want a minimum pay of $30/hour and benefits such as more vacation time and better retirement options &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220418/p21#a220418p21)
+ - [Jason Momoa reportedly in talks to star in the Minecraft movie](https://www.theverge.com/2022/4/18/23031044/jason-momoa-minecraft-movie-microsoft-warner-bros)
+ - [Today I learned that the FBI has an 83-page guide to internet speak](https://www.theverge.com/2022/4/18/23030750/fbi-83-page-guide-internet-speak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
