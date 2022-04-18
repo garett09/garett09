@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My living room still has 3 TVs but I have regrets](https://www.polygon.com/23007001/3-tvs-living-room-setup-regrets)
- - [Stranger Things season 4 will be the darkest — and the funniest — yet](https://www.polygon.com/23027208/stranger-things-season-4-set-visit-millie-bobby-brown)
- - [The existential horror of playing Mount &amp; Blade 2 on easy mode](https://www.pcgamer.com/the-existential-horror-of-playing-mount-and-blade-2-on-easy-mode)<!-- GAME:END -->
+ - [Inside Epsilon, a mod for creating custom Worlds of Warcraft](https://www.polygon.com/23025284/epsilon-world-of-warcraft-community-housing-creation-building-role-play)
+ - [Uncovering Easter Eggs in the Forbidden West](https://blog.playstation.com/2022/04/18/uncovering-easter-eggs-in-the-forbidden-west/)
+ - [Uncovering Easter Eggs in the Forbidden West](https://blog.playstation.com/2022/04/18/uncovering-easter-eggs-in-the-forbidden-west/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
