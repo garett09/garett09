@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)
- - [Save up to 56% during Lenovo&#39;s spring gaming laptop sale](https://appleinsider.com/articles/22/04/18/save-up-to-56-during-lenovos-spring-gaming-laptop-sale?utm_medium=rss)
- - [USB charging is complicated, Baseus is ready to simplify it](https://www.androidauthority.com/baseus-super-si-pro-charger-3153720/)<!-- TECH:END -->
+ - [How to use AirDrop on Apple’s iPhone and iPad](https://www.theverge.com/23030163/airdrop-iphone-ipad-how-to-use-apple)
+ - [Samsung Galaxy Z Flip 4: What we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-4-3151552/)
+ - [Apple supply diversification won&#39;t mitigate current Chinese lockdowns](https://appleinsider.com/articles/22/04/18/apple-supply-diversification-wont-mitigate-current-chinese-lockdowns?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
