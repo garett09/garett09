@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private securities marketplace Forge Global said the prices of startup shares on its platform fell 19.9% in February and March compared to Q4 2021 &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220418/p5#a220418p5)
- - [Weird Pixel 6 Pro bug automatically declines incoming calls](https://www.androidauthority.com/pixel-6-pro-call-declining-bug-3154357/)
- - [Apple AirPods Pro vs Beats Studio Buds: Can Beats beat the Pros?](https://www.androidauthority.com/apple-airpods-pro-vs-beats-studio-buds-3152306/)<!-- TECH:END -->
+ - [Report: Microsoft is working on a program to let select brands advertise within free-to-play Xbox games, such as on a billboard, and won&#39;t take a revenue cut &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220418/p10#a220418p10)
+ - [An in-depth investigation into the global commercial spyware industry, led by Israel&#39;s NSO Group, as Citizen Lab finds Pegasus infected a device in UK&#39;s No. 10 &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/220418/p9#a220418p9)
+ - [Investigation finds 65+ people were targeted by Pegasus and Candiru, including Catalans, likely by Spanish authorities, and details a new iOS zero-click, HOMAGE &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/220418/p8#a220418p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
