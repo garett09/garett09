@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9, 9 Pro getting April security patch with latest Oxygen OS 12 update](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [Fan tokens issued by Manchester City and other soccer clubs have proven to be a disappointment for hopeful fans, with prices quickly losing steam within days &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/220418/p2#a220418p2)
- - [Apple is readying a bunch of new features for Apple Watch line](https://www.androidauthority.com/apple-watch-software-features-3154307/)<!-- TECH:END -->
+ - [The Artful, Subdued Translations of Modern Pop](https://www.wired.com/story/translations-modern-pop)
+ - [A Brutal Wave of Bird Flu Spotlights the Need for a Poultry Vaccine](https://www.wired.com/story/a-brutal-wave-of-bird-flu-spotlights-the-need-for-a-poultry-vaccine)
+ - [Beginner Golfers Should Give These Inexpensive Clubs a Swing](https://www.wired.com/review/stix-golf-clubs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
