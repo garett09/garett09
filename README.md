@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Microsoft is working on a program to let select brands advertise within free-to-play Xbox games, such as on a billboard, and won&#39;t take a revenue cut &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220418/p10#a220418p10)
- - [An in-depth investigation into the global commercial spyware industry, led by Israel&#39;s NSO Group, as Citizen Lab finds Pegasus infected a device in UK&#39;s No. 10 &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/220418/p9#a220418p9)
- - [Investigation finds 65+ people were targeted by Pegasus and Candiru, including Catalans, likely by Spanish authorities, and details a new iOS zero-click, HOMAGE &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/220418/p8#a220418p8)<!-- TECH:END -->
+ - [Tax Day tech deals: save on last-minute software, Apple hardware, more](https://appleinsider.com/articles/22/04/15/tax-day-tech-deals-save-on-last-minute-software-apple-hardware-more?utm_medium=rss)
+ - [Save up to 56% during Lenovo&#39;s spring gaming laptop sale](https://appleinsider.com/articles/22/04/18/save-up-to-56-during-lenovos-spring-gaming-laptop-sale?utm_medium=rss)
+ - [USB charging is complicated, Baseus is ready to simplify it](https://www.androidauthority.com/baseus-super-si-pro-charger-3153720/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
