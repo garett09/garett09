@@ -184,8 +184,8 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The MCU’s future lies with those it previously neglected: teen girls](https://www.polygon.com/23027291/marvel-cinematic-universe-women-upcoming-movies)
  - [Inside Epsilon, a mod for creating custom Worlds of Warcraft](https://www.polygon.com/23025284/epsilon-world-of-warcraft-community-housing-creation-building-role-play)
- - [Uncovering Easter Eggs in the Forbidden West](https://blog.playstation.com/2022/04/18/uncovering-easter-eggs-in-the-forbidden-west/)
  - [Uncovering Easter Eggs in the Forbidden West](https://blog.playstation.com/2022/04/18/uncovering-easter-eggs-in-the-forbidden-west/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
