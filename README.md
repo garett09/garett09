@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple employees unionizing at Grand Central Terminal store want a minimum pay of $30/hour and benefits such as more vacation time and better retirement options &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220418/p21#a220418p21)
- - [Jason Momoa reportedly in talks to star in the Minecraft movie](https://www.theverge.com/2022/4/18/23031044/jason-momoa-minecraft-movie-microsoft-warner-bros)
- - [Today I learned that the FBI has an 83-page guide to internet speak](https://www.theverge.com/2022/4/18/23030750/fbi-83-page-guide-internet-speak)<!-- TECH:END -->
+ - [A Streets of Rage movie is coming from the creator of John Wick](https://www.theverge.com/2022/4/18/23031065/streets-of-rage-movie-sega-john-wick-derek-kolstad)
+ - [How to reset a Nintendo Switch](https://www.androidauthority.com/reset-nintendo-switch-3153942/)
+ - [It looks like the Google Pixel 6a will be missing a camera feature](https://www.androidauthority.com/google-pixel-6a-camera-3154590/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
