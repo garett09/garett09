@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Windows 11 tool to enable the Google Play Store was actually malware](https://www.androidauthority.com/windows-11-toolbox-google-play-store-malware-3154285/)
  - [India-based UrbanPiper, which helps restaurants manage multiple food delivery services, raises a $24M Series B from Swiggy, Zomato, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220418/p1#a220418p1)
- - [What is Blockchain: Everything You Need to Know &lpar;2022&rpar;](http://www.crunchhype.com/2022/04/what-is-blockchain-everything-you-need.html)
- - [Spotify&#39;s recent Podsights and Chartable acquisitions are raising concerns over the availability of third-party podcast metrics for advertisers and publishers &lpar;Alyssa Meyers/Morning Brew&rpar;](http://www.techmeme.com/220417/p9#a220417p9)<!-- TECH:END -->
+ - [What is Blockchain: Everything You Need to Know &lpar;2022&rpar;](http://www.crunchhype.com/2022/04/what-is-blockchain-everything-you-need.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
