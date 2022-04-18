@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify&#39;s recent Podsights and Chartable acquisitions are raising concerns over the availability of third-party podcast metrics for advertisers and publishers &lpar;Alyssa Meyers/Morning Brew&rpar;](http://www.techmeme.com/220417/p9#a220417p9)
  - [Virtual classroom startup Class is testing Intel&#39;s &quot;emotion AI&quot; tech that claims to detect bored, distracted, or confused students, raising privacy questions &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/220417/p8#a220417p8)
- - [Best Gaming Mouse Under $50 for 2022     - CNET](https://www.cnet.com/tech/gaming/best-gaming-mouse-under-50/#ftag=CAD590a51e)
- - [Best Smart Thermostats for 2022     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gaming Mouse Under $50 for 2022     - CNET](https://www.cnet.com/tech/gaming/best-gaming-mouse-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
