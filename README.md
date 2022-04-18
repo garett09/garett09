@@ -198,8 +198,8 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BYE FELICIA: A black Pittsburgh police officer LAYS OUT a BLM protester that refused to clear an intersection after warnings, resisted arrest and clearly interfered with an arrest at a BLM protest yesterday](http://9gag.com/gag/aXrWVYP)
- - 🚯 [I didn&#39;t need those glasses anyway](http://9gag.com/gag/aLvm4Mx)
+ - 🚖 [YEESS](http://9gag.com/gag/azeRGxp)
+ - 🚯 [Your daily dose of nnnnggghhhh](http://9gag.com/gag/arnqZmV)
  - 🚯 [How did I think the world is working when I was a kid](http://9gag.com/gag/agg47Rg)<!-- MEMES:END -->
 
 --- 
