@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ debuts first trailer for &#39;Make or Break&#39; surfing documentary series](https://appleinsider.com/articles/22/04/18/apple-tv-debuts-first-trailer-for-make-or-break-surfing-documentary-series?utm_medium=rss)
- - [Google Wallet may be making a return](https://www.theverge.com/2022/4/18/23030464/google-wallet-return-pay-screen-manage-cards-passes)
- - [Get the Galaxy Chromebook 2 for $549, and more of the best Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [Whistleblower Ashley Gjovik would return to Apple despite &#39;nightmare&#39; life](https://appleinsider.com/articles/22/04/18/whistleblower-ashley-gjovik-would-return-to-apple-despite-nightmare-life?utm_medium=rss)
+ - [Blackmagic Design leans into network storage with Cloud lineup](https://appleinsider.com/articles/22/04/18/blackmagic-design-leans-into-network-storage-with-cloud-lineup?utm_medium=rss)
+ - [A look at corporate raider tactics requiring 51% of a company&#39;s stock that tend to treat remaining minority shareholders poorly, amid Twitter&#39;s &quot;poison pill&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220418/p17#a220418p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
