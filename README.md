@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix president continues hopeful tone on blockchain despite backlash](https://www.pcgamer.com/square-enix-president-continues-hopeful-tone-on-blockchain-despite-backlash)
- - [This Week in PC Gaming: Ember Knights, Godlike Burger, and Trolley Problem, Inc.](https://www.pcgamer.com/this-week-in-pc-gaming-ember-knights-godlike-burger-and-trolley-problem-inc)
- - [D&amp;D Direct to reveal future of series, including videogames](https://www.pcgamer.com/dandd-direct-to-reveal-future-of-series-including-videogames)<!-- GAME:END -->
+ - [Intel set to overtake TSMC&#39;s process lead with 3nm node and beyond](https://www.pcgamer.com/intel-set-to-overtake-tsmcs-process-lead-with-3nm-node-and-beyond)
+ - [Intel Arc A770 matches RTX 2070 OpenCL performance](https://www.pcgamer.com/intel-arc-a770-matches-rtx-2070-opencl-performance)
+ - [Square Enix president continues hopeful tone on blockchain despite backlash](https://www.pcgamer.com/square-enix-president-continues-hopeful-tone-on-blockchain-despite-backlash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
