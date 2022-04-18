@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge says masks can’t be required on planes and trains](https://www.theverge.com/2022/4/18/23030626/mask-mandate-transportation-unlawful-judge)
- - [The Motorola Moto G series deserves better](https://www.androidauthority.com/motorola-moto-g-series-3151759/)
- - [Walmart will have PlayStation 5 consoles tomorrow for paying subscribers](https://www.theverge.com/2022/4/18/22988835/sony-playstation-5-ps5-console-restock-walmart-plus-availability-check-inventory)<!-- TECH:END -->
+ - [Apple TV+ debuts first trailer for &#39;Make or Break&#39; surfing documentary series](https://appleinsider.com/articles/22/04/18/apple-tv-debuts-first-trailer-for-make-or-break-surfing-documentary-series?utm_medium=rss)
+ - [Google Wallet may be making a return](https://www.theverge.com/2022/4/18/23030464/google-wallet-return-pay-screen-manage-cards-passes)
+ - [Get the Galaxy Chromebook 2 for $549, and more of the best Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
