@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Preferred Qualifications: Master&#39;s degree and 6 years of experience](http://9gag.com/gag/a412nDm)
- - 🚯 [Getting married today, sees my wife notification+97. I got 0 message, and 1 message from my friend congratulating me through my wife&#39;s phone.](http://9gag.com/gag/aNP49xG)
- - 🚯 [You just make the most important decision of your life](http://9gag.com/gag/aDDV7Zd)<!-- MEMES:END -->
+ - 🚖 [What a gratitude for hospitality...](http://9gag.com/gag/aE8DVvO)
+ - 🚯 [`Men are useless`](http://9gag.com/gag/aZrjwQ3)
+ - 🚯 [They dont know](http://9gag.com/gag/aM4vBvG)<!-- MEMES:END -->
 
 --- 
 
