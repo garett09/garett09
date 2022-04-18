@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds about fair](http://9gag.com/gag/aLvmd6g)
- - 🚯 [I just wanna bring my bronze ass to ruin some diamond games!](http://9gag.com/gag/a2122KE)
- - 🚯 [Sniper in Mariupol](http://9gag.com/gag/abgB2wp)<!-- MEMES:END -->
+ - 🚖 [I\u2019ve worked on this game by myself for the last two and a half years, so it\u2019s exciting to see it release soon!](http://9gag.com/gag/a9122bD)
+ - 🚯 [Why make sand castles if you can make these](http://9gag.com/gag/axBRPAp)
+ - 🚯 [Sounds about fair](http://9gag.com/gag/aLvmd6g)<!-- MEMES:END -->
 
 --- 
 
