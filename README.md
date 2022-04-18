@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [YEESS](http://9gag.com/gag/azeRGxp)
- - 🚯 [Your daily dose of nnnnggghhhh](http://9gag.com/gag/arnqZmV)
- - 🚯 [How did I think the world is working when I was a kid](http://9gag.com/gag/agg47Rg)<!-- MEMES:END -->
+ - 🚖 [For Real](http://9gag.com/gag/a6125jN)
+ - 🚯 [How did I think the world is working when I was a kid](http://9gag.com/gag/agg47Rg)
+ - 🚯 [Skyrim + Unreal Engine 5 - Riverwood](http://9gag.com/gag/a712Vbm)<!-- MEMES:END -->
 
 --- 
 
