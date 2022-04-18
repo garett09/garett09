@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Shortcuts maven Matthew Cassinelli on the AppleInsider Podcast](https://appleinsider.com/articles/22/04/18/interview-with-shortcuts-maven-matthew-cassinelli-on-the-appleinsider-podcast?utm_medium=rss)
- - [Roborock S7 MaxV Ultra review: The indulgent robot vacuum for lazy people](https://www.androidauthority.com/roborock-s7-maxv-ultra-review-3147021/)
- - [Parcast union contract with Spotify includes pay raises and diversity promises](https://www.theverge.com/2022/4/18/23030244/parcast-union-contract-spotify-pay-raise-diversity)<!-- TECH:END -->
+ - [The birth, life, death, and possible resurrection of the Thunderbolt eGPU in macOS](https://appleinsider.com/articles/22/04/18/the-birth-life-death-and-possible-resurrection-of-the-thunderbolt-egpu-in-macos?utm_medium=rss)
+ - [Whistleblower Ashley Gjovik would return to Apple despite &#39;nightmare&#39; life](https://appleinsider.com/articles/22/04/18/whistleblower-ashley-gjovik-would-return-to-apple-despite-nightmare-life?utm_medium=rss)
+ - [Pro-Biden super PAC launches six-figure paid influencer program](https://www.theverge.com/2022/4/18/23030500/biden-pac-american-bridge-influencer-campaign-midterm-elections)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
