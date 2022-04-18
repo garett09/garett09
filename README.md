@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your daily dose of nnnnggghhhh](http://9gag.com/gag/arnqZmV)
- - 🚯 [CCP china is a real problem for mankind!](http://9gag.com/gag/a812eW1)
- - 🚯 [Granny spits on someone and learns a lesson](http://9gag.com/gag/a1120Gb)<!-- MEMES:END -->
+ - 🚖 [Cabbages!](http://9gag.com/gag/aVxLmG8)
+ - 🚯 [Granny spits on someone and learns a lesson](http://9gag.com/gag/a1120Gb)
+ - 🚯 [Good samaritan cleans up after littering lawbreaking nonse](http://9gag.com/gag/aYrqP4m)<!-- MEMES:END -->
 
 --- 
 
