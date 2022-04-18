@@ -191,9 +191,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Artful, Subdued Translations of Modern Pop](https://www.wired.com/story/translations-modern-pop)
- - [A Brutal Wave of Bird Flu Spotlights the Need for a Poultry Vaccine](https://www.wired.com/story/a-brutal-wave-of-bird-flu-spotlights-the-need-for-a-poultry-vaccine)
- - [Beginner Golfers Should Give These Inexpensive Clubs a Swing](https://www.wired.com/review/stix-golf-clubs)<!-- TECH:END -->
+ - [Private securities marketplace Forge Global said the prices of startup shares on its platform fell 19.9% in February and March compared to Q4 2021 &lpar;Miles Kruppa/Financial Times&rpar;](http://www.techmeme.com/220418/p5#a220418p5)
+ - [Weird Pixel 6 Pro bug automatically declines incoming calls](https://www.androidauthority.com/pixel-6-pro-call-declining-bug-3154357/)
+ - [Apple AirPods Pro vs Beats Studio Buds: Can Beats beat the Pros?](https://www.androidauthority.com/apple-airpods-pro-vs-beats-studio-buds-3152306/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
