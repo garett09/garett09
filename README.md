@@ -198,9 +198,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Routine days of Mariupol defenders. They are still fighting, still in a good mood, and will be fighting until the last drop of blood. Heroes never die.](http://9gag.com/gag/a912XV1)
- - 🚯 [Feels good](http://9gag.com/gag/aegmm2W)
- - 🚯 [I just wanna bring my bronze ass to ruin some diamond games!](http://9gag.com/gag/a2122KE)<!-- MEMES:END -->
+ - 🚖 [Sounds about fair](http://9gag.com/gag/aLvmd6g)
+ - 🚯 [I just wanna bring my bronze ass to ruin some diamond games!](http://9gag.com/gag/a2122KE)
+ - 🚯 [Sniper in Mariupol](http://9gag.com/gag/abgB2wp)<!-- MEMES:END -->
 
 --- 
 
