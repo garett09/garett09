@@ -198,7 +198,7 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Jamaica Broke the Men&#39;s 4x100m World Record at London 2012 Olympics](http://9gag.com/gag/aXrW786)
+ - 🚖 [Routine days of Mariupol defenders. They are still fighting, still in a good mood, and will be fighting until the last drop of blood. Heroes never die.](http://9gag.com/gag/a912XV1)
  - 🚯 [Feels good](http://9gag.com/gag/aegmm2W)
  - 🚯 [I just wanna bring my bronze ass to ruin some diamond games!](http://9gag.com/gag/a2122KE)<!-- MEMES:END -->
 
