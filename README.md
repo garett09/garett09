@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jason Momoa is in talks to star in the Minecraft film](https://www.pcgamer.com/jason-momoa-is-in-talks-to-star-in-the-minecraft-film)
- - [Aqua Teen Hunger Force returns in an all-new series of web shorts, Aqua Donk Side Pieces](https://www.polygon.com/23031092/aqua-teen-hunger-force-new-web-series-frylock-meatwad)
- - [4 Cost-Effective Cards To Craft For Hearthstone&#39;s Sunken City Set](https://kotaku.com/hearthstone-sunken-city-amalgam-finley-queen-azshara-tw-1848806103)<!-- GAME:END -->
+ - [Report: Streets Of Rage Film Happening, Script By John Wick Creator](https://kotaku.com/streets-of-rage-film-john-wick-writer-sega-derek-kolsta-1848809026)
+ - [Nintendo’s GBA Emulator For Switch Online Seemingly Leaks](https://kotaku.com/nintendo-switch-online-game-boy-advance-emulator-leak-p-1848809116)
+ - [Halo Infinite players figure out how to see personal MMR](https://www.pcgamer.com/halo-infinite-players-figure-out-how-to-see-personal-mmr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
