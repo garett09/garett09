@@ -184,9 +184,9 @@ Windows                  6 hrs 59 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring hero Let Me Solo Her is now an on-demand summon, thanks to a mod](https://www.polygon.com/23030182/elden-ring-let-me-solo-her-summon-mod-spirit-ash)
- - [After Two Years, Ghost Of Tsushima Has Received Its Final Patch](https://kotaku.com/ghost-of-tsushima-final-patch-2-18-legends-ps4-ps5-suck-1848805717)
- - [Portal writer urges Valve to &#39;start Portal 3&#39;](https://www.pcgamer.com/portal-writer-urges-valve-to-start-portal-3)<!-- GAME:END -->
+ - [FF14 director says glitched housing lottery will be fixed shortly](https://www.polygon.com/23030357/ff14-housing-lottery-glitch-explanation-fix-server-maintenance)
+ - [How Jane Foster got the powers of Thor](https://www.polygon.com/23030232/female-thor-love-and-thunder-natalie-portman)
+ - [Battlefield 2042’s new patch finally adds in-game voice chat](https://www.polygon.com/23030333/battlefield-2042-voice-chat-update-patch-notes-4-0)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
