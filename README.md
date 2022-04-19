@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This consumer grade 3D printer that prints 5x faster is on Kickstarter](https://www.pcgamer.com/this-consumer-grade-3d-printer-that-prints-5x-faster-is-on-kickstarter)
  - [Intel’s flagship Raptor Lake CPU could run at up to 5.8GHz](https://www.pcgamer.com/intels-flagship-raptor-lake-cpu-could-run-at-up-to-58ghz)
- - [Former Xbox Boss Remembers Microsoft Trying To Buy Blizzard, Westwood Back In The Day](https://kotaku.com/microsoft-buy-purchase-westwood-blizzard-xbox-ed-fries-1848809471)
- - [Crusty PlayStation Leads To Bomb Scare At Boston Airport](https://kotaku.com/playstation-bomb-scare-robot-squad-logan-international-1848809841)<!-- GAME:END -->
+ - [Former Xbox Boss Remembers Microsoft Trying To Buy Blizzard, Westwood Back In The Day](https://kotaku.com/microsoft-buy-purchase-westwood-blizzard-xbox-ed-fries-1848809471)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
