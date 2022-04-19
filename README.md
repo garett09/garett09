@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood revives its UK expansion plans after agreeing to buy crypto app Ziglu, one of the few crypto companies to secure Financial Conduct Authority approval &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220419/p21#a220419p21)
- - [Netflix estimates that its service is being shared with more than 100M non-paying households worldwide, including 30M+ in the US and Canada &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220419/p20#a220419p20)
- - [The writing may be on the wall for sharing Netflix accounts](https://www.theverge.com/2022/4/19/23032643/netflix-password-sharing-subscribers-100-million)<!-- TECH:END -->
+ - [Demostack, which offers a &quot;demo experience&quot; service for SaaS sales teams, raises a $34M Series B led by Tiger Global, bringing its total funding to $51.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220419/p22#a220419p22)
+ - [FDA warns that some prenatal blood tests could have false results](https://www.theverge.com/2022/4/19/23032608/fda-prenatal-blood-tests-false-results)
+ - [Babyganics Bubble Bath Recalled for Possible Bacterium Contamination     - CNET](https://www.cnet.com/health/parenting/babyganics-bubble-bath-recalled-for-possible-bacterium-contamination/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
