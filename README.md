@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you try to sacrifice your son for propaganda but fail miserably](http://9gag.com/gag/aGzAoR0)
- - 🚯 [My dog vs my cat](http://9gag.com/gag/a7126Rx)
- - 🚯 [When the world is against you, literally!](http://9gag.com/gag/aVxL1vO)<!-- MEMES:END -->
+ - 🚖 [When the world is against you, literally!](http://9gag.com/gag/aVxL1vO)
+ - 🚯 [Welcome in Quebec](http://9gag.com/gag/aVxL1Dn)
+ - 🚯 [My dog vs my cat](http://9gag.com/gag/a7126Rx)<!-- MEMES:END -->
 
 --- 
 
