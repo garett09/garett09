@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tough competition](http://9gag.com/gag/aZrjVN9)
- - 🚯 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)
- - 🚯 [Reveal those that are sunken to the depths of meme history](http://9gag.com/gag/avARmYd)<!-- MEMES:END -->
+ - 🚖 [Reveal those that are sunken to the depths of meme history](http://9gag.com/gag/avARmYd)
+ - 🚯 [That\u2019s the good stuff](http://9gag.com/gag/ay9Rz5W)
+ - 🚯 [Go for the classic](http://9gag.com/gag/arnqdB5)<!-- MEMES:END -->
 
 --- 
 
