@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs was major driver of Disney&#39;s shift to online media](https://appleinsider.com/articles/22/04/19/steve-jobs-was-major-driver-of-disneys-shift-to-online-media?utm_medium=rss)
- - [Brex acquires Pry Financials, a financial planning software startup with a team of ~10 people, for $90M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220419/p16#a220419p16)
- - [Apple slips to second in smartphone market share as industry shipments fall](https://appleinsider.com/articles/22/04/19/apple-slips-to-second-in-smartphone-market-share-as-industry-shipments-fall?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia’s latest GPUs may finally be easier to find in stock](https://www.androidauthority.com/nvidia-supply-improving-3154925/)
+ - [The Pokémon Company has acquired the company that prints the trading card game](https://www.theverge.com/2022/4/19/23032389/the-pokemon-company-acquisition-millenium-print-group-trading-card-game)
+ - [How to appear offline on Steam](https://www.androidauthority.com/appear-offline-steam-3154278/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
