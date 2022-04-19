@@ -195,8 +195,8 @@ Windows                  39 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Chilling dutch speech about immigration &lpar;he got shot later&rpar;](http://9gag.com/gag/aegmd6W)
- - 🚯 [Go for the classic](http://9gag.com/gag/arnqdB5)
- - 🚯 [Their memory....](http://9gag.com/gag/avARD5E)<!-- MEMES:END -->
+ - 🚯 [Their memory....](http://9gag.com/gag/avARD5E)
+ - 🚯 [Who remembers this?](http://9gag.com/gag/a712A0w)<!-- MEMES:END -->
 
 --- 
 
