@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new study that specifically looked at political speech suggests that Twitter&#39;s content moderation is biased against misinformation, not conservatives &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220419/p1#a220419p1)
  - [Microsoft says it will pay up to $26K more, an increase of 30% in some cases, in bug bounties for &quot;high-impact&quot; bugs in its Office 365 products &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/220418/p27#a220418p27)
- - [How to add friends on Nintendo Switch](https://www.androidauthority.com/add-friends-nintendo-switch-3154618/)
- - [Sen. Warren pushes TurboTax for answers about its efforts to block free tax filing](https://www.theverge.com/2022/4/18/23027618/senator-warren-taxes-turbotax-intuit-lobbying-free-file)<!-- TECH:END -->
+ - [How to add friends on Nintendo Switch](https://www.androidauthority.com/add-friends-nintendo-switch-3154618/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
