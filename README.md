@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Demostack, which offers a &quot;demo experience&quot; service for SaaS sales teams, raises a $34M Series B led by Tiger Global, bringing its total funding to $51.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220419/p22#a220419p22)
- - [FDA warns that some prenatal blood tests could have false results](https://www.theverge.com/2022/4/19/23032608/fda-prenatal-blood-tests-false-results)
- - [Babyganics Bubble Bath Recalled for Possible Bacterium Contamination     - CNET](https://www.cnet.com/health/parenting/babyganics-bubble-bath-recalled-for-possible-bacterium-contamination/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Glorious PC Gaming Race’ is rebranding to ‘Glorious’ out of belated shame](https://www.theverge.com/23032799/glorious-pc-gaming-race-pc-peripherals-mouse-keyboard-brand)
+ - [Netflix CEO now says he’s open to a cheaper, ad-supported plan](https://www.theverge.com/2022/4/19/23032869/netflix-ads-streaming-reed-hastings-lower-price)
+ - [Netflix blames account sharing for first subscriber loss in a decade](https://appleinsider.com/articles/22/04/19/netflix-blames-account-sharing-for-first-subscriber-loss-in-a-decade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
