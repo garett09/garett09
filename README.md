@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #304: Tuesday, April 19](https://www.pcgamer.com/wordle-april-19-304)
  - [Report: Sega Developing New, &#39;Big-Budget&#39; Jet Set Radio &amp; Crazy Taxi Games](https://kotaku.com/sega-jet-set-radio-grind-crazy-taxi-super-game-dreamcas-1848810452)
- - [Dells new laptop features proprietary DDR5 module, won&#39;t take generic RAM](https://www.pcgamer.com/dells-new-laptop-features-proprietary-ddr5-module-wont-take-generic-ram)
- - [This consumer grade 3D printer that prints 5x faster is on Kickstarter](https://www.pcgamer.com/this-consumer-grade-3d-printer-that-prints-5x-faster-is-on-kickstarter)<!-- GAME:END -->
+ - [Dells new laptop features proprietary DDR5 module, won&#39;t take generic RAM](https://www.pcgamer.com/dells-new-laptop-features-proprietary-ddr5-module-wont-take-generic-ram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
