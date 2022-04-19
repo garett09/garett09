@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel’s flagship Raptor Lake CPU could run at up to 5.8GHz](https://www.pcgamer.com/intels-flagship-raptor-lake-cpu-could-run-at-up-to-58ghz)
  - [Former Xbox Boss Remembers Microsoft Trying To Buy Blizzard, Westwood Back In The Day](https://kotaku.com/microsoft-buy-purchase-westwood-blizzard-xbox-ed-fries-1848809471)
- - [Crusty PlayStation Leads To Bomb Scare At Boston Airport](https://kotaku.com/playstation-bomb-scare-robot-squad-logan-international-1848809841)
- - [It&#39;s April 2022, And Battlefield 2042 Is Finally Getting VoIP](https://kotaku.com/battlefield-2042-voip-voice-chat-ea-dice-update-patch-b-1848809242)<!-- GAME:END -->
+ - [Crusty PlayStation Leads To Bomb Scare At Boston Airport](https://kotaku.com/playstation-bomb-scare-robot-squad-logan-international-1848809841)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
