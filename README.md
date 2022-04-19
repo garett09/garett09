@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad 65W GaN charger review: More power in your socket](https://appleinsider.com/articles/22/04/19/nomad-65w-gan-charger-review-more-power-in-your-socket?utm_medium=rss)
- - [Demand for iPhone 13 tracking higher than past cycles, iPhone SE demand muted](https://appleinsider.com/articles/22/04/19/demand-for-iphone-13-tracking-higher-than-past-cycles-iphone-se-demand-muted?utm_medium=rss)
- - [Amy Hennig’s new studio is making a Star Wars game](https://www.theverge.com/2022/4/19/23031936/star-wars-amy-hennig-naughty-dog-skydance-new-media)<!-- TECH:END -->
+ - [Apple issues second developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/19/apple-issues-second-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)
+ - [Assassin’s Creed Origins is coming to Xbox Game Pass](https://www.theverge.com/2022/4/19/23032104/assassins-creed-origins-xbox-game-pass)
+ - [Apple seeds second developer beta of macOS Monterey 12.4](https://appleinsider.com/articles/22/04/19/apple-seeds-second-developer-beta-of-macos-monterey-124?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
