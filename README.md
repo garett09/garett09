@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods looted by Russians giving away their location via Find My](https://appleinsider.com/articles/22/04/19/airpods-looted-by-russians-giving-away-their-location-via-find-my?utm_medium=rss)
- - [Apple TV+ shares first trailer for bilingual thriller &#39;Now &amp; Then&#39;](https://appleinsider.com/articles/22/04/19/apple-tv-shares-first-trailer-for-bilingual-thriller-now-then?utm_medium=rss)
- - [Hustler at the end of the world](https://www.theverge.com/c/23010055/pandemic-ppe-supply-chain-gloves-coronavirus)<!-- TECH:END -->
+ - [iPhone 14 could sport upgraded front cameras for selfies, FaceTime calls](https://appleinsider.com/articles/22/04/19/iphone-14-could-sport-upgraded-front-cameras-for-selfies-facetime-calls?utm_medium=rss)
+ - [Sending a probe to Uranus labeled as top priority by space science community](https://www.theverge.com/2022/4/19/23030765/uranus-orbiter-probe-planetary-science-decadal-survey-top-priority)
+ - [A camera battery with a USB-C port is a gadget whose time has come](https://www.theverge.com/2022/4/19/23031768/nitecore-sony-camera-ufz100-battery-usb-c)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
