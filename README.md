@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Snoop Dogg comes to Call of Duty with, like, a million weed references](https://www.polygon.com/23032303/call-of-duty-warzone-vanguard-snoop-dogg-operator-bundle-contents)
- - [Elden Ring Patch Really Wants Folks To Finally Notice The Damn Tutorial](https://kotaku.com/elden-ring-update-combat-tutorial-cave-of-knowledge-god-1848812629)
- - [World of Warcraft: Dragonflight’s new features focus on customization](https://www.polygon.com/23032186/world-of-warcraft-dragonflight-dracthyr-dragon-professions-customization)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight’s talent tree is getting an old-school rework](https://www.polygon.com/23032320/world-of-warcraft-dragonflight-talent-tree-rework-interview)
+ - [What Is the Thunderbird and Why Is the Darkside Detective Centering a Case on It?](https://news.xbox.com/en-us/2022/04/19/what-is-the-thunderbird-and-why-is-the-darkside-detective-centering-a-case-on-it/)
+ - [Here&#39;s An Elden Ring Farm That Nets You A Cool 40,000+ Runes Per Minute](https://kotaku.com/elden-ring-rune-farm-mohgwyn-palace-varre-fromsoftware-1848806109)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
