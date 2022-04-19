@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the world is against you, literally!](http://9gag.com/gag/aVxL1vO)
- - 🚯 [Welcome in Quebec](http://9gag.com/gag/aVxL1Dn)
- - 🚯 [My dog vs my cat](http://9gag.com/gag/a7126Rx)<!-- MEMES:END -->
+ - 🚖 [Surprisingly enough, it is enough to fill a whole wardrobe, and most of it is still not outfashioned... I hope I am not the only one](http://9gag.com/gag/aE8DjYe)
+ - 🚯 [When you are over 30 and you decide to go to a club](http://9gag.com/gag/aM4vD66)
+ - 🚯 [Aubergine?](http://9gag.com/gag/avARXLM)<!-- MEMES:END -->
 
 --- 
 
