@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports losing 200K subscribers in Q1, vs. 2.5M net additions est., and revenue of $7.87B, vs. $7.95B est.; stock down ~20% after hours &lpar;Emily McCormick/Yahoo Finance&rpar;](http://www.techmeme.com/220419/p18#a220419p18)
- - [Google&#39;s new automated &quot;inclusive warning&quot; on Docs is very broken and annoying, like suggesting &quot;landlord&quot; might not be inclusive &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/220419/p17#a220419p17)
- - [First &#39;Thor: Love and Thunder&#39; Trailer Reveals Natalie Portman as New Thor     - CNET](https://www.cnet.com/culture/entertainment/first-thor-love-and-thunder-trailer-reveals-natalie-portman-as-new-thor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robinhood revives its UK expansion plans after agreeing to buy crypto app Ziglu, one of the few crypto companies to secure Financial Conduct Authority approval &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220419/p21#a220419p21)
+ - [Netflix estimates that its service is being shared with more than 100M non-paying households worldwide, including 30M+ in the US and Canada &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220419/p20#a220419p20)
+ - [The writing may be on the wall for sharing Netflix accounts](https://www.theverge.com/2022/4/19/23032643/netflix-password-sharing-subscribers-100-million)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
