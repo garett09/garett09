@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Streets of Rage movie is coming from the creator of John Wick](https://www.theverge.com/2022/4/18/23031065/streets-of-rage-movie-sega-john-wick-derek-kolstad)
- - [How to reset a Nintendo Switch](https://www.androidauthority.com/reset-nintendo-switch-3153942/)
- - [It looks like the Google Pixel 6a will be missing a camera feature](https://www.androidauthority.com/google-pixel-6a-camera-3154590/)<!-- TECH:END -->
+ - [Robotic process automation startup Laiye raises a $70M Series C+, bringing its total Series C to $160M, and acquires Paris-based chatbot service Mindsay &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220418/p24#a220418p24)
+ - [Apple Maps adds biking directions to US Midwestern locations](https://appleinsider.com/articles/22/04/19/apple-maps-adds-biking-directions-to-us-midwestern-locations?utm_medium=rss)
+ - [Moonbirds, an NFT collection of digital owls by Kevin Rose&#39;s Proof Collective, a group of 1K NFT collectors whose membership costs ~$285K, made $281M+ in sales &lpar;Taylor Locke/Fortune&rpar;](http://www.techmeme.com/220418/p23#a220418p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
