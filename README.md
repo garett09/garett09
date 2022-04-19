@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brilliant idea by a restaurant in Australia. No cellphones means 10% discount. The parents love it.](http://9gag.com/gag/angEr60)
- - 🚯 [Walk the walk](http://9gag.com/gag/aWgbDrK)
- - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)<!-- MEMES:END -->
+ - 🚖 [Bed cube](http://9gag.com/gag/a412wQv)
+ - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)
+ - 🚯 [Woman was kind to man, who was convicted and released after he killed her mother and cousin](http://9gag.com/gag/avAR9eb)<!-- MEMES:END -->
 
 --- 
 
