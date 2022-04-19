@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Journey Starts with a Single Step](https://news.xbox.com/en-us/2022/04/19/every-journey-starts-with-a-single-step/)
- - [Dark Souls tabletop RPG rulebooks will be corrected and reissued, say creators](https://www.polygon.com/23032681/dark-souls-roleplaying-game-tabletop-rulebooks-errors-corrected-steamforge)
- - [Nintendo Worker Files Complaint With National Labor Relations Board](https://kotaku.com/nintendo-labor-complaint-union-national-labor-relations-1848814100)<!-- GAME:END -->
+ - [Avoid Paying Taxes Today with Turnip Boy Commits Tax Evasion](https://news.xbox.com/en-us/2022/04/19/avoid-paying-taxes-today-with-turnip-boy-commits-tax-evasion/)
+ - [Worker files labor complaint against Nintendo](https://www.polygon.com/23032718/nintendo-aston-carter-nlrb-labor-complaint)
+ - [Watch the multiverse movie Daniels made before Everything Everywhere All At Once](https://www.polygon.com/23032629/everything-everywhere-all-at-once-inspiration-possibilia-daniels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
