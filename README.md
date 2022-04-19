@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Streets Of Rage Film Happening, Script By John Wick Creator](https://kotaku.com/streets-of-rage-film-john-wick-writer-sega-derek-kolsta-1848809026)
- - [Nintendo’s GBA Emulator For Switch Online Seemingly Leaks](https://kotaku.com/nintendo-switch-online-game-boy-advance-emulator-leak-p-1848809116)
- - [Halo Infinite players figure out how to see personal MMR](https://www.pcgamer.com/halo-infinite-players-figure-out-how-to-see-personal-mmr)<!-- GAME:END -->
+ - [It&#39;s April 2022, And Battlefield 2042 Is Finally Getting VoIP](https://kotaku.com/battlefield-2042-voip-voice-chat-ea-dice-update-patch-b-1848809242)
+ - [The Steam Deck is now the ultimate JRPG handheld](https://www.pcgamer.com/the-steam-deck-is-now-the-ultimate-jrpg-handheld)
+ - [Report: Streets Of Rage Film Happening, Script By John Wick Creator](https://kotaku.com/streets-of-rage-film-john-wick-writer-sega-derek-kolsta-1848809026)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
