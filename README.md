@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Walk the walk](http://9gag.com/gag/aWgbDrK)
- - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)
- - 🚯 [Damn those white people for - shuffles deck, picks card - living in their home countries.](http://9gag.com/gag/aE8DXn9)<!-- MEMES:END -->
+ - 🚖 [Brilliant idea by a restaurant in Australia. No cellphones means 10% discount. The parents love it.](http://9gag.com/gag/angEr60)
+ - 🚯 [Walk the walk](http://9gag.com/gag/aWgbDrK)
+ - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)<!-- MEMES:END -->
 
 --- 
 
