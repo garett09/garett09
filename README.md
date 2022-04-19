@@ -103,8 +103,6 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -148,16 +146,14 @@ Sunday       132 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               6 hrs 21 mins       ██████████████████████░░░   90.92% 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+JavaScript               38 mins             ████████████████████████░   98.71% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.0%
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -166,7 +162,7 @@ Windows                  6 hrs 59 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 00:57:19 UTC
+ Last Updated on 19/04/2022 01:05:06 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
