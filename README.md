@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swedish Police Shoot Into A Crowd Of Muslim Protesters](http://9gag.com/gag/a212bd1)
- - 🚯 [Netflix](http://9gag.com/gag/a312WON)
- - 🚯 [Shanghai China, people are starving because of food wasting away in warehouses](http://9gag.com/gag/aZrjj56)<!-- MEMES:END -->
+ - 🚖 [Netflix](http://9gag.com/gag/a312WON)
+ - 🚯 [Shanghai China, people are starving because of food wasting away in warehouses](http://9gag.com/gag/aZrjj56)
+ - 🚯 [Why make sand castles if you can make these](http://9gag.com/gag/axBRPAp)<!-- MEMES:END -->
 
 --- 
 
