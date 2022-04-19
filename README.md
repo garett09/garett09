@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight’s talent tree is getting an old-school rework](https://www.polygon.com/23032320/world-of-warcraft-dragonflight-talent-tree-rework-interview)
- - [What Is the Thunderbird and Why Is the Darkside Detective Centering a Case on It?](https://news.xbox.com/en-us/2022/04/19/what-is-the-thunderbird-and-why-is-the-darkside-detective-centering-a-case-on-it/)
- - [Here&#39;s An Elden Ring Farm That Nets You A Cool 40,000+ Runes Per Minute](https://kotaku.com/elden-ring-rune-farm-mohgwyn-palace-varre-fromsoftware-1848806109)<!-- GAME:END -->
+ - [Chris Novak, one of Xbox’s big creative forces, exits after nearly 20 years](https://www.polygon.com/23032055/xbox-chris-novak-exiting-resigns-microsoft-20-years)
+ - [Elden Ring Patch Patches Patches](https://kotaku.com/elden-ring-fromsoftware-patch-update-patches-quest-squa-1848813581)
+ - [Tiny Tina’s Wonderlands Already Has DLC, Will Never Let You Go](https://kotaku.com/tiny-tinas-wonderlands-coiled-captors-mirrors-of-myster-1848813374)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
