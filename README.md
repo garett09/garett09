@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bugsnax, turnips, and taxes hit Xbox Game Pass in April](https://www.polygon.com/23031951/xbox-game-pass-april-2022-games-list-pc-cloud-android-ios-bugsnax-turnip-boy)
- - [Mountain Everest 60 gaming keyboard review](https://www.pcgamer.com/mountain-everest-60-gaming-keyboard-review)
- - [Love, Death &amp; Robots returns in May with more love, death, and robots](https://www.polygon.com/23031898/love-death-robots-trailer-release-date-season-3-netflix)<!-- GAME:END -->
+ - [Somehow, Amy Hennig has returned to Star Wars](https://www.polygon.com/23031000/star-wars-amy-hennig-skydance-new-media-lucasfilm-games)
+ - [Read an excerpt from Janelle Monáe’s new Dirty Computer book, The Memory Librarian](https://www.polygon.com/23031456/janelle-monae-book-the-memory-librarian-free-sample-dirty-computer)
+ - [Xbox Game Pass’ April Lineup Is Kind Of A Letdown](https://kotaku.com/xbox-game-pass-april-2022-bugsnax-unsouled-7-ways-to-di-1848811478)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
