@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow, Amy Hennig has returned to Star Wars](https://www.polygon.com/23031000/star-wars-amy-hennig-skydance-new-media-lucasfilm-games)
- - [Read an excerpt from Janelle Monáe’s new Dirty Computer book, The Memory Librarian](https://www.polygon.com/23031456/janelle-monae-book-the-memory-librarian-free-sample-dirty-computer)
- - [Xbox Game Pass’ April Lineup Is Kind Of A Letdown](https://kotaku.com/xbox-game-pass-april-2022-bugsnax-unsouled-7-ways-to-di-1848811478)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight announcement lore, explained](https://www.polygon.com/23032184/world-of-warcraft-dragonflight-lore-explainer-cinematic)
+ - [Yu Huang, The Jade Emperor, Available Now in a Celestial Smite Update](https://news.xbox.com/en-us/2022/04/19/jade-emperor-available-now-smite/)
+ - [Lego Star Wars Is Exactly What I Needed After Years Of Toxic Star Wars Fandom](https://kotaku.com/lego-star-wars-skywalker-saga-lucasfilm-disney-toxic-tr-1848811883)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
