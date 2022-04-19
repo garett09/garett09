@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn will double iPhone production in India to meet local demand](https://appleinsider.com/articles/22/04/19/foxconn-will-double-iphone-production-in-india-to-meet-local-demand?utm_medium=rss)
- - [The End of Alcohol](https://www.wired.com/story/the-end-of-alcohol)
- - [Mercedes-Benz announces EQS SUV, its first electric sport utility for the US](https://www.theverge.com/2022/4/19/23030202/mercedes-benz-eqs-suv-electric-ev-specs)<!-- TECH:END -->
+ - [Apple&#39;s attempt block future patent lawsuits from Zipit Wireless resurrected](https://appleinsider.com/articles/22/04/19/apples-attempt-block-future-patent-lawsuits-from-zipit-wireless-resurrected?utm_medium=rss)
+ - [Battle Kitty Stretches the Limits of Netflix’s Interactive Tech](https://www.wired.com/story/battle-kitty-interactive-netflix)
+ - [Hospital Robots Are Helping Combat a Wave of Nurse Burnout](https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
