@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remember Google Wallet? Looks like it’s making a comeback](https://www.androidauthority.com/google-wallet-comeback-3154642/)
- - [As Meta faces rising pressure in the West, it is building more internet infrastructure in Africa, especially in countries with few regulations, like Nigeria &lpar;Emmanuel Akinwotu/The Guardian&rpar;](http://www.techmeme.com/220419/p2#a220419p2)
- - [A new study that specifically looked at political speech suggests Twitter&#39;s content moderation is biased against misinformation, not conservatives &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220419/p1#a220419p1)<!-- TECH:END -->
+ - [Logitech’s Lift is a low-cost vertical mouse that might convert you](https://www.theverge.com/2022/4/19/23030160/logitech-lift-ergonomic-vertical-wireless-mouse-price-features)
+ - [How to use your Fitbit to wake up on time, every time](https://www.androidauthority.com/fitbit-alarms-3153350/)
+ - [London-based Seon, which helps fintech firms tackle online fraud, raises $94M led by IVP to develop tools for preventing sanctions evasion by Russia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220419/p3#a220419p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
