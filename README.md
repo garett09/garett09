@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bed cube](http://9gag.com/gag/a412wQv)
- - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)
- - 🚯 [Woman was kind to man, who was convicted and released after he killed her mother and cousin](http://9gag.com/gag/avAR9eb)<!-- MEMES:END -->
+ - 🚖 [Restrictions in 2022](http://9gag.com/gag/aZrjvBz)
+ - 🚯 [So this is how bus laid their eggs](http://9gag.com/gag/a912Bj1)
+ - 🚯 [It is what it is XD](http://9gag.com/gag/aLvmr86)<!-- MEMES:END -->
 
 --- 
 
