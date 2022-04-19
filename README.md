@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine to see this at the very end. Pic was taken from a soldiers bodycam](http://9gag.com/gag/aLvmrWM)
- - 🚯 [I wish i got a dad like this](http://9gag.com/gag/a512DxO)
- - 🚯 [Chilling dutch speech about immigration &lpar;he got shot later&rpar;](http://9gag.com/gag/aegmd6W)<!-- MEMES:END -->
+ - 🚖 [Chilling dutch speech about immigration &lpar;he got shot later&rpar;](http://9gag.com/gag/aegmd6W)
+ - 🚯 [Go for the classic](http://9gag.com/gag/arnqdB5)
+ - 🚯 [Their memory....](http://9gag.com/gag/avARD5E)<!-- MEMES:END -->
 
 --- 
 
