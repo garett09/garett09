@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotic process automation startup Laiye raises a $70M Series C+, bringing its total Series C to $160M, and acquires Paris-based chatbot service Mindsay &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220418/p24#a220418p24)
- - [Apple Maps adds biking directions to US Midwestern locations](https://appleinsider.com/articles/22/04/19/apple-maps-adds-biking-directions-to-us-midwestern-locations?utm_medium=rss)
- - [Moonbirds, an NFT collection of digital owls by Kevin Rose&#39;s Proof Collective, a group of 1K NFT collectors whose membership costs ~$285K, made $281M+ in sales &lpar;Taylor Locke/Fortune&rpar;](http://www.techmeme.com/220418/p23#a220418p23)<!-- TECH:END -->
+ - [Microsoft says it will pay up to $26K more, an increase of 30% in some cases, in bug bounties for &quot;high-impact&quot; bugs in its Office 365 products &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/220418/p27#a220418p27)
+ - [How to add friends on Nintendo Switch](https://www.androidauthority.com/add-friends-nintendo-switch-3154618/)
+ - [Sen. Warren pushes TurboTax for answers about its efforts to block free tax filing](https://www.theverge.com/2022/4/18/23027618/senator-warren-taxes-turbotax-intuit-lobbying-free-file)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
