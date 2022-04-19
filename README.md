@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avoid Paying Taxes Today with Turnip Boy Commits Tax Evasion](https://news.xbox.com/en-us/2022/04/19/avoid-paying-taxes-today-with-turnip-boy-commits-tax-evasion/)
- - [Worker files labor complaint against Nintendo](https://www.polygon.com/23032718/nintendo-aston-carter-nlrb-labor-complaint)
- - [Watch the multiverse movie Daniels made before Everything Everywhere All At Once](https://www.polygon.com/23032629/everything-everywhere-all-at-once-inspiration-possibilia-daniels)<!-- GAME:END -->
+ - [If anything can bring back lapsed WoW players, it&#39;s probably dragons](https://www.pcgamer.com/wow-dragonflight-reaction)
+ - [Rockstar cuts transphobic content from Grand Theft Auto 5 and GTA Online](https://www.pcgamer.com/rockstar-cuts-transphobic-content-from-grand-theft-auto-5-and-gta-online)
+ - [Elden Ring patch nerfs its murderous dogs](https://www.polygon.com/23032701/elden-ring-patch-bleed-dogs-nerfed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
