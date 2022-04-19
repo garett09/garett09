@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprisingly enough, it is enough to fill a whole wardrobe, and most of it is still not outfashioned... I hope I am not the only one](http://9gag.com/gag/aE8DjYe)
- - 🚯 [When you are over 30 and you decide to go to a club](http://9gag.com/gag/aM4vD66)
- - 🚯 [Aubergine?](http://9gag.com/gag/avARXLM)<!-- MEMES:END -->
+ - 🚖 [Everything gets more expensive while we stay cheap](http://9gag.com/gag/agg46Mr)
+ - 🚯 [I heard you like rare pepe](http://9gag.com/gag/aQXZDdz)
+ - 🚯 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)<!-- MEMES:END -->
 
 --- 
 
