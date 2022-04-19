@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boy](http://9gag.com/gag/aPZQrqK)
- - 🚯 [Wamen](http://9gag.com/gag/arnqzpp)
- - 🚯 [If you can take the spanking, the beer is yours.](http://9gag.com/gag/aOQPp16)<!-- MEMES:END -->
+ - 🚖 [Reveal those that are sunken to the depths of meme history](http://9gag.com/gag/avARmYd)
+ - 🚯 [Restrictions in 2022](http://9gag.com/gag/aZrjvBz)
+ - 🚯 [Imagine to see this at the very end. Pic was taken from a soldiers bodycam](http://9gag.com/gag/aLvmrWM)<!-- MEMES:END -->
 
 --- 
 
