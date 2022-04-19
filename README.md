@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix](http://9gag.com/gag/a312WON)
- - 🚯 [Shanghai China, people are starving because of food wasting away in warehouses](http://9gag.com/gag/aZrjj56)
- - 🚯 [Why make sand castles if you can make these](http://9gag.com/gag/axBRPAp)<!-- MEMES:END -->
+ - 🚖 [Walk the walk](http://9gag.com/gag/aWgbDrK)
+ - 🚯 [Started a new life in Portugal. Didn\u2019t want to suffer in dead end corporate job anymore. Cheers guys!](http://9gag.com/gag/aZrjzRn)
+ - 🚯 [Damn those white people for - shuffles deck, picks card - living in their home countries.](http://9gag.com/gag/aE8DXn9)<!-- MEMES:END -->
 
 --- 
 
