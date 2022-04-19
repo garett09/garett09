@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 could sport upgraded front cameras for selfies, FaceTime calls](https://appleinsider.com/articles/22/04/19/iphone-14-could-sport-upgraded-front-cameras-for-selfies-facetime-calls?utm_medium=rss)
- - [Sending a probe to Uranus labeled as top priority by space science community](https://www.theverge.com/2022/4/19/23030765/uranus-orbiter-probe-planetary-science-decadal-survey-top-priority)
- - [A camera battery with a USB-C port is a gadget whose time has come](https://www.theverge.com/2022/4/19/23031768/nitecore-sony-camera-ufz100-battery-usb-c)<!-- TECH:END -->
+ - [Nomad 65W GaN charger review: More power in your socket](https://appleinsider.com/articles/22/04/19/nomad-65w-gan-charger-review-more-power-in-your-socket?utm_medium=rss)
+ - [Demand for iPhone 13 tracking higher than past cycles, iPhone SE demand muted](https://appleinsider.com/articles/22/04/19/demand-for-iphone-13-tracking-higher-than-past-cycles-iphone-se-demand-muted?utm_medium=rss)
+ - [Amy Hennig’s new studio is making a Star Wars game](https://www.theverge.com/2022/4/19/23031936/star-wars-amy-hennig-naughty-dog-skydance-new-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
