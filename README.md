@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s Lift is a low-cost vertical mouse that might convert you](https://www.theverge.com/2022/4/19/23030160/logitech-lift-ergonomic-vertical-wireless-mouse-price-features)
- - [How to use your Fitbit to wake up on time, every time](https://www.androidauthority.com/fitbit-alarms-3153350/)
- - [London-based Seon, which helps fintech firms tackle online fraud, raises $94M led by IVP to develop tools for preventing sanctions evasion by Russia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220419/p3#a220419p3)<!-- TECH:END -->
+ - [The Samsung Galaxy Z Flip 3 Pokemon Edition is a thing and coming soon](https://www.androidauthority.com/samsung-galaxy-z-flip-3-pokemon-edition-3154658/)
+ - [Logitech Lift: New Vertical Mouse Is Smaller and Yes, More Ergonomic     - CNET](https://www.cnet.com/tech/computing/logitech-lift-new-vertical-mouse-is-smaller-and-yes-more-ergonomic/#ftag=CAD590a51e)
+ - [Logitech’s Lift is a low-cost vertical mouse that might convert you](https://www.theverge.com/2022/4/19/23030160/logitech-lift-ergonomic-vertical-wireless-mouse-price-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
