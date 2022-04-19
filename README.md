@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s the good stuff](http://9gag.com/gag/ay9Rz5W)
- - 🚯 [Go for the classic](http://9gag.com/gag/arnqdB5)
- - 🚯 [When you try to sacrifice your son for propaganda but fail miserably](http://9gag.com/gag/aGzAoR0)<!-- MEMES:END -->
+ - 🚖 [When you try to sacrifice your son for propaganda but fail miserably](http://9gag.com/gag/aGzAoR0)
+ - 🚯 [My dog vs my cat](http://9gag.com/gag/a7126Rx)
+ - 🚯 [When the world is against you, literally!](http://9gag.com/gag/aVxL1vO)<!-- MEMES:END -->
 
 --- 
 
