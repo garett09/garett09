@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft’s new expansion reveal: Watch it here](https://www.polygon.com/23031791/world-of-warcraft-new-expansion-dragonflight-reveal-stream-watch)
- - [LEGO Builder’s Journey out today on PS5 and PS4](https://blog.playstation.com/2022/04/19/lego-builders-journey-out-today-on-ps5-and-ps4/)
- - [LEGO Builder’s Journey out today on PS5 and PS4](https://blog.playstation.com/2022/04/19/lego-builders-journey-out-today-on-ps5-and-ps4/)<!-- GAME:END -->
+ - [Spellcraft is a new &#39;hero collecting&#39; strategy game from Blizzard and ArenaNet veterans](https://www.pcgamer.com/spellcraft-is-a-new-hero-collecting-strategy-game-from-blizzard-and-arenanet-veterans)
+ - [Xenoblade Chronicles 3 gets a new trailer — and an earlier release date](https://www.polygon.com/23031825/xenoblade-chronicles-3-release-date-trailer)
+ - [World of Warcraft’s new expansion reveal: Watch it here](https://www.polygon.com/23031791/world-of-warcraft-new-expansion-dragonflight-reveal-stream-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
