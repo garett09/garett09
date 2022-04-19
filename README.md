@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who remembers this?](http://9gag.com/gag/a712A0w)
- - 🚯 [Rolling bag of water](http://9gag.com/gag/avARDKO)
- - 🚯 [I&#39;m singing in the rain](http://9gag.com/gag/aVxLdzn)<!-- MEMES:END -->
+ - 🚖 [Tough competition](http://9gag.com/gag/aZrjVN9)
+ - 🚯 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)
+ - 🚯 [Reveal those that are sunken to the depths of meme history](http://9gag.com/gag/avARmYd)<!-- MEMES:END -->
 
 --- 
 
