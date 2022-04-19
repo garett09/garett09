@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reveal those that are sunken to the depths of meme history](http://9gag.com/gag/avARmYd)
- - 🚯 [Restrictions in 2022](http://9gag.com/gag/aZrjvBz)
- - 🚯 [Imagine to see this at the very end. Pic was taken from a soldiers bodycam](http://9gag.com/gag/aLvmrWM)<!-- MEMES:END -->
+ - 🚖 [Imagine to see this at the very end. Pic was taken from a soldiers bodycam](http://9gag.com/gag/aLvmrWM)
+ - 🚯 [I wish i got a dad like this](http://9gag.com/gag/a512DxO)
+ - 🚯 [Chilling dutch speech about immigration &lpar;he got shot later&rpar;](http://9gag.com/gag/aegmd6W)<!-- MEMES:END -->
 
 --- 
 
