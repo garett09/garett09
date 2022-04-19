@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crazy Taxi and Jet Set Radio to return in &#39;big-budget&#39; reboots, report says](https://www.pcgamer.com/crazy-taxi-and-jet-set-radio-to-return-in-big-budget-reboots-report-says)
- - [Capping your Steam Deck display to 40Hz gives a big boost to battery life](https://www.pcgamer.com/capping-your-steam-deck-display-to-40hz-gives-a-big-boost-to-battery-life)
- - [Today&#39;s Wordle answer #304: Tuesday, April 19](https://www.pcgamer.com/wordle-april-19-304)<!-- GAME:END -->
+ - [World of Warcraft’s new expansion reveal: Watch it here](https://www.polygon.com/23031791/world-of-warcraft-new-expansion-dragonflight-reveal-stream-watch)
+ - [LEGO Builder’s Journey out today on PS5 and PS4](https://blog.playstation.com/2022/04/19/lego-builders-journey-out-today-on-ps5-and-ps4/)
+ - [LEGO Builder’s Journey out today on PS5 and PS4](https://blog.playstation.com/2022/04/19/lego-builders-journey-out-today-on-ps5-and-ps4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
