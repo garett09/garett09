@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s latest GPUs may finally be easier to find in stock](https://www.androidauthority.com/nvidia-supply-improving-3154925/)
- - [The Pokémon Company has acquired the company that prints the trading card game](https://www.theverge.com/2022/4/19/23032389/the-pokemon-company-acquisition-millenium-print-group-trading-card-game)
- - [How to appear offline on Steam](https://www.androidauthority.com/appear-offline-steam-3154278/)<!-- TECH:END -->
+ - [Netflix reports losing 200K subscribers in Q1, vs. 2.5M net additions est., and revenue of $7.87B, vs. $7.95B est.; stock down ~20% after hours &lpar;Emily McCormick/Yahoo Finance&rpar;](http://www.techmeme.com/220419/p18#a220419p18)
+ - [Google&#39;s new automated &quot;inclusive warning&quot; on Docs is very broken and annoying, like suggesting &quot;landlord&quot; might not be inclusive &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/220419/p17#a220419p17)
+ - [First &#39;Thor: Love and Thunder&#39; Trailer Reveals Natalie Portman as New Thor     - CNET](https://www.cnet.com/culture/entertainment/first-thor-love-and-thunder-trailer-reveals-natalie-portman-as-new-thor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
