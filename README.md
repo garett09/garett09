@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just being a complete jerk](http://9gag.com/gag/axBRmRK)
- - 🚯 [Good boy](http://9gag.com/gag/aPZQrqK)
- - 🚯 [Wamen](http://9gag.com/gag/arnqzpp)<!-- MEMES:END -->
+ - 🚖 [Good boy](http://9gag.com/gag/aPZQrqK)
+ - 🚯 [Wamen](http://9gag.com/gag/arnqzpp)
+ - 🚯 [If you can take the spanking, the beer is yours.](http://9gag.com/gag/aOQPp16)<!-- MEMES:END -->
 
 --- 
 
