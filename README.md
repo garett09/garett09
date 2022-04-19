@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Z Flip 3 Pokemon Edition is a thing and coming soon](https://www.androidauthority.com/samsung-galaxy-z-flip-3-pokemon-edition-3154658/)
- - [Logitech Lift: New Vertical Mouse Is Smaller and Yes, More Ergonomic     - CNET](https://www.cnet.com/tech/computing/logitech-lift-new-vertical-mouse-is-smaller-and-yes-more-ergonomic/#ftag=CAD590a51e)
- - [Logitech’s Lift is a low-cost vertical mouse that might convert you](https://www.theverge.com/2022/4/19/23030160/logitech-lift-ergonomic-vertical-wireless-mouse-price-features)<!-- TECH:END -->
+ - [Karachi-based lending app Abhi, which offers loans to people and SMBs, raises a $17M Series A led by Speedinvest at a $90M valuation and says it has 650K users &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220419/p5#a220419p5)
+ - [Sources: Twitter is expected to rebuff Elon Musk&#39;s bid in the coming days, as Apollo Global considers participating in a bid; Morgan Stanley is also interested &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220419/p4#a220419p4)
+ - [Poll: Has your wearable ever died because you didn’t have a charger handy?](https://www.androidauthority.com/wearable-charging-poll-3154673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
