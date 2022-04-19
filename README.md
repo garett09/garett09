@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/19/apple-issues-second-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)
- - [Assassin’s Creed Origins is coming to Xbox Game Pass](https://www.theverge.com/2022/4/19/23032104/assassins-creed-origins-xbox-game-pass)
- - [Apple seeds second developer beta of macOS Monterey 12.4](https://appleinsider.com/articles/22/04/19/apple-seeds-second-developer-beta-of-macos-monterey-124?utm_medium=rss)<!-- TECH:END -->
+ - [Steve Jobs was major driver of Disney&#39;s shift to online media](https://appleinsider.com/articles/22/04/19/steve-jobs-was-major-driver-of-disneys-shift-to-online-media?utm_medium=rss)
+ - [Brex acquires Pry Financials, a financial planning software startup with a team of ~10 people, for $90M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220419/p16#a220419p16)
+ - [Apple slips to second in smartphone market share as industry shipments fall](https://appleinsider.com/articles/22/04/19/apple-slips-to-second-in-smartphone-market-share-as-industry-shipments-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
