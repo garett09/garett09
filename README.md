@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything gets more expensive while we stay cheap](http://9gag.com/gag/agg46Mr)
- - 🚯 [I heard you like rare pepe](http://9gag.com/gag/aQXZDdz)
- - 🚯 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)<!-- MEMES:END -->
+ - 🚖 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)
+ - 🚯 [One hour to teach a boy to backflip](http://9gag.com/gag/aWgbPdx)
+ - 🚯 [Basel Zoo, Switzerland. You gotta be kidding me\u2026](http://9gag.com/gag/a5129qq)<!-- MEMES:END -->
 
 --- 
 
