@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Karachi-based lending app Abhi, which offers loans to people and SMBs, raises a $17M Series A led by Speedinvest at a $90M valuation and says it has 650K users &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220419/p5#a220419p5)
- - [Sources: Twitter is expected to rebuff Elon Musk&#39;s bid in the coming days, as Apollo Global considers participating in a bid; Morgan Stanley is also interested &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220419/p4#a220419p4)
- - [Poll: Has your wearable ever died because you didn’t have a charger handy?](https://www.androidauthority.com/wearable-charging-poll-3154673/)<!-- TECH:END -->
+ - [Foxconn will double iPhone production in India to meet local demand](https://appleinsider.com/articles/22/04/19/foxconn-will-double-iphone-production-in-india-to-meet-local-demand?utm_medium=rss)
+ - [The End of Alcohol](https://www.wired.com/story/the-end-of-alcohol)
+ - [Mercedes-Benz announces EQS SUV, its first electric sport utility for the US](https://www.theverge.com/2022/4/19/23030202/mercedes-benz-eqs-suv-electric-ev-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
