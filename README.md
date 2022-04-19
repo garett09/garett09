@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple claims third place in 2022 brand intimacy rankings](https://appleinsider.com/articles/22/04/19/apple-ranked-third-in-2022-brand-intimacy-rankings?utm_medium=rss)
- - [Nintendo moves Xenoblade Chronicles 3 release up to July](https://www.theverge.com/2022/4/19/23031820/xenoblade-chronicles-3-nintendo-switch-release-date)
- - [Apple’s incredible 14-inch MacBook Pro is just $1 shy of its best price yet](https://www.theverge.com/good-deals/2022/4/19/23030215/apple-macbook-pro-m1-pro-samsung-galaxy-chromebook-2-fitbit-sense-deal-sale)<!-- TECH:END -->
+ - [AirPods looted by Russians giving away their location via Find My](https://appleinsider.com/articles/22/04/19/airpods-looted-by-russians-giving-away-their-location-via-find-my?utm_medium=rss)
+ - [Apple TV+ shares first trailer for bilingual thriller &#39;Now &amp; Then&#39;](https://appleinsider.com/articles/22/04/19/apple-tv-shares-first-trailer-for-bilingual-thriller-now-then?utm_medium=rss)
+ - [Hustler at the end of the world](https://www.theverge.com/c/23010055/pandemic-ppe-supply-chain-gloves-coronavirus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
