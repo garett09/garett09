@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight announcement lore, explained](https://www.polygon.com/23032184/world-of-warcraft-dragonflight-lore-explainer-cinematic)
- - [Yu Huang, The Jade Emperor, Available Now in a Celestial Smite Update](https://news.xbox.com/en-us/2022/04/19/jade-emperor-available-now-smite/)
- - [Lego Star Wars Is Exactly What I Needed After Years Of Toxic Star Wars Fandom](https://kotaku.com/lego-star-wars-skywalker-saga-lucasfilm-disney-toxic-tr-1848811883)<!-- GAME:END -->
+ - [Snoop Dogg comes to Call of Duty with, like, a million weed references](https://www.polygon.com/23032303/call-of-duty-warzone-vanguard-snoop-dogg-operator-bundle-contents)
+ - [Elden Ring Patch Really Wants Folks To Finally Notice The Damn Tutorial](https://kotaku.com/elden-ring-update-combat-tutorial-cave-of-knowledge-god-1848812629)
+ - [World of Warcraft: Dragonflight’s new features focus on customization](https://www.polygon.com/23032186/world-of-warcraft-dragonflight-dracthyr-dragon-professions-customization)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
