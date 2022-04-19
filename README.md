@@ -180,9 +180,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Novak, one of Xbox’s big creative forces, exits after nearly 20 years](https://www.polygon.com/23032055/xbox-chris-novak-exiting-resigns-microsoft-20-years)
- - [Elden Ring Patch Patches Patches](https://kotaku.com/elden-ring-fromsoftware-patch-update-patches-quest-squa-1848813581)
- - [Tiny Tina’s Wonderlands Already Has DLC, Will Never Let You Go](https://kotaku.com/tiny-tinas-wonderlands-coiled-captors-mirrors-of-myster-1848813374)<!-- GAME:END -->
+ - [Every Journey Starts with a Single Step](https://news.xbox.com/en-us/2022/04/19/every-journey-starts-with-a-single-step/)
+ - [Dark Souls tabletop RPG rulebooks will be corrected and reissued, say creators](https://www.polygon.com/23032681/dark-souls-roleplaying-game-tabletop-rulebooks-errors-corrected-steamforge)
+ - [Nintendo Worker Files Complaint With National Labor Relations Board](https://kotaku.com/nintendo-labor-complaint-union-national-labor-relations-1848814100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
