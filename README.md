@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chilling dutch speech about immigration &lpar;he got shot later&rpar;](http://9gag.com/gag/aegmd6W)
- - 🚯 [Their memory....](http://9gag.com/gag/avARD5E)
- - 🚯 [Who remembers this?](http://9gag.com/gag/a712A0w)<!-- MEMES:END -->
+ - 🚖 [Who remembers this?](http://9gag.com/gag/a712A0w)
+ - 🚯 [Rolling bag of water](http://9gag.com/gag/avARDKO)
+ - 🚯 [I&#39;m singing in the rain](http://9gag.com/gag/aVxLdzn)<!-- MEMES:END -->
 
 --- 
 
