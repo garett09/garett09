@@ -187,9 +187,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn&#39;s largest iPhone plant escapes COVID lockdown](https://appleinsider.com/articles/22/04/19/foxconns-largest-iphone-plant-escapes-covid-lockdown?utm_medium=rss)
- - [How to take screenshots on your Windows 11 PC](https://www.theverge.com/23030210/screenshots-windows-11-how-to)
- - [You told us: Most of you don’t use virtual/extended RAM on your phone](https://www.androidauthority.com/virtual-extended-ram-phone-poll-results-3154645/)<!-- TECH:END -->
+ - [Apple claims third place in 2022 brand intimacy rankings](https://appleinsider.com/articles/22/04/19/apple-ranked-third-in-2022-brand-intimacy-rankings?utm_medium=rss)
+ - [Nintendo moves Xenoblade Chronicles 3 release up to July](https://www.theverge.com/2022/4/19/23031820/xenoblade-chronicles-3-nintendo-switch-release-date)
+ - [Apple’s incredible 14-inch MacBook Pro is just $1 shy of its best price yet](https://www.theverge.com/good-deals/2022/4/19/23030215/apple-macbook-pro-m1-pro-samsung-galaxy-chromebook-2-fitbit-sense-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
