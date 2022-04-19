@@ -194,9 +194,9 @@ Windows                  39 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Restrictions in 2022](http://9gag.com/gag/aZrjvBz)
- - 🚯 [So this is how bus laid their eggs](http://9gag.com/gag/a912Bj1)
- - 🚯 [It is what it is XD](http://9gag.com/gag/aLvmr86)<!-- MEMES:END -->
+ - 🚖 [Just being a complete jerk](http://9gag.com/gag/axBRmRK)
+ - 🚯 [Restrictions in 2022](http://9gag.com/gag/aZrjvBz)
+ - 🚯 [Wamen](http://9gag.com/gag/arnqzpp)<!-- MEMES:END -->
 
 --- 
 
