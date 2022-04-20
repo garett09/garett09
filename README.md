@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes Apple iMacs to as low as $799.99](https://appleinsider.com/articles/22/04/20/amazon-slashes-apple-imacs-to-as-low-as-79999?utm_medium=rss)
- - [OnePlus Nord 2 gains April patch but still no Android 12](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [Go watch our GoPro Bones review](https://www.theverge.com/23032403/gopro-bones-fpv-drone-review)<!-- TECH:END -->
+ - [‘Micronova’ explosions spotted on distant zombie stars](https://www.theverge.com/2022/4/20/23032402/micronova-white-dwarf-stars-explosions-magnetic-fields-discovery)
+ - [Apple TV+ reveals first full-length trailer for &#39;Prehistoric Planet&#39; documentary series](https://appleinsider.com/articles/22/04/20/apple-tv-reveals-first-full-length-trailer-for-prehistoric-planet-documentary-series?utm_medium=rss)
+ - [Julian Assange Extradition Order Approved by UK Court     - CNET](https://www.cnet.com/news/politics/julian-assange-extradition-order-approved-by-uk-court/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
