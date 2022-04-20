@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global smartphone shipments fell 11% in Q1 2022; Samsung grew its market share from 22% to 24%, Apple gained from 15% to 18%, and Xiaomi dipped from 14% to 13% &lpar;Canalys&rpar;](http://www.techmeme.com/220420/p10#a220420p10)
- - [Poll: Have you ever seen a foldable phone in the wild before?](https://www.androidauthority.com/seen-foldable-phone-in-the-wild-poll-3155151/)
- - [Sources: WhatsApp is struggling to sign up local partners for its business payments service in Brazil and is still awaiting approval from the central bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220420/p9#a220420p9)<!-- TECH:END -->
+ - [Microsoft&#39;s Chris Novak, currently head of Xbox R&amp;D, is leaving after nearly 20 years; Novak has previously worked on Xbox Game Pass and Live &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/220420/p12#a220420p12)
+ - [This Exynos Galaxy S22 update might address your performance, battery concerns](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [Just Eat Takeaway says it is exploring a partial or full sale of Grubhub, less than one year after buying it for $7.3B &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220420/p11#a220420p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
