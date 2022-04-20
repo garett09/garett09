@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 controllers just got a lot more useable on PC](https://www.polygon.com/23033597/ps5-dualsense-controller-windows-pc-update)
- - [Moon Knight goes full Tomb Raider in its best episode yet](https://www.polygon.com/23033539/moon-knight-episode-4-review)
- - [Nintendo hit with labor complaint, fired worker alleges union intimidation](https://www.polygon.com/23032718/nintendo-aston-carter-nlrb-labor-complaint)<!-- GAME:END -->
+ - [You can now update your PS5 DualSense controller through your PC](https://www.pcgamer.com/you-can-now-update-your-ps5-dualsense-controller-through-your-pc)
+ - [Dungeons &amp; Dragons ruleset could be applied to more brands and IP, just like Magic](https://www.polygon.com/23033582/dnd-licensed-expansion-universes-beyond-magic-the-gathering)
+ - [I logged my entire wardrobe into a Clueless-style closet app](https://www.polygon.com/22996193/stylebook-digital-closet-app-clueless-cher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
