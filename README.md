@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: WhatsApp is struggling to sign up local partners for its business payments service in Brazil and is still awaiting approval from the central bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220420/p9#a220420p9)
- - [Brave browser introduces De-AMP, a feature which bypasses Google-hosted AMP pages and takes users straight to the original website &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220420/p8#a220420p8)
- - [&#39;Moon Knight&#39; Episode 4 Recap: Marvel Meets The Mummy     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-4-recap-marvel-meets-the-mummy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global smartphone shipments fell 11% in Q1 2022; Samsung grew its market share from 22% to 24%, Apple gained from 15% to 18%, and Xiaomi dipped from 14% to 13% &lpar;Canalys&rpar;](http://www.techmeme.com/220420/p10#a220420p10)
+ - [Poll: Have you ever seen a foldable phone in the wild before?](https://www.androidauthority.com/seen-foldable-phone-in-the-wild-poll-3155151/)
+ - [Sources: WhatsApp is struggling to sign up local partners for its business payments service in Brazil and is still awaiting approval from the central bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220420/p9#a220420p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
