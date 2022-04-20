@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)
- - [Sega’s Sonic Origins retro collection coming this June](https://www.polygon.com/23033468/sonic-origins-release-date-price-sega-genesis-games)
- - [Netflix to crack down on account-sharing, says 100M households don’t pay](https://www.polygon.com/23033421/netflix-account-sharing-passwords-subscriber-loss)<!-- GAME:END -->
+ - [PS5 controllers just got a lot more useable on PC](https://www.polygon.com/23033597/ps5-dualsense-controller-windows-pc-update)
+ - [Moon Knight goes full Tomb Raider in its best episode yet](https://www.polygon.com/23033539/moon-knight-episode-4-review)
+ - [Nintendo hit with labor complaint, fired worker alleges union intimidation](https://www.polygon.com/23032718/nintendo-aston-carter-nlrb-labor-complaint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
