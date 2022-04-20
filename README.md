@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Chris Novak, currently head of Xbox R&amp;D, is leaving after nearly 20 years; Novak has previously worked on Xbox Game Pass and Live &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/220420/p12#a220420p12)
- - [This Exynos Galaxy S22 update might address your performance, battery concerns](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Just Eat Takeaway says it is exploring a partial or full sale of Grubhub, less than one year after buying it for $7.3B &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220420/p11#a220420p11)<!-- TECH:END -->
+ - [A TikTok Army Is Coming for Union Busters](https://www.wired.com/story/tiktok-army-union-busters-amazon)
+ - [The Energy Crisis Is Pushing Solar Adoption—for Those Who Can Pay](https://www.wired.com/story/uk-energy-crisis-solar)
+ - [The Risk of Relying on Smart-Home Companies](https://www.wired.com/story/insteon-shutdown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
