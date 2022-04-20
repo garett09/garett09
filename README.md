@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second public betas of iOS 15.5, iPadOS 15.5, macOS 12.4 now available](https://appleinsider.com/articles/22/04/20/second-public-betas-of-ios-155-ipados-155-macos-124-now-available?utm_medium=rss)
- - [Zoom adds gesture recognition support for giving a thumbs-up or a raised hand emoji to its desktop app, after adding it to its iPad and iPhone apps last summer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220420/p23#a220420p23)
- - [This AI clone of Reddit’s Am I The Asshole forum will give you the best bad advice](https://www.theverge.com/2022/4/20/23033694/are-you-the-asshole-ai-reddit-clone-art-project-ethics-aita)<!-- TECH:END -->
+ - [Netflix Can Cut Off Moochers Without a Password-Sharing Crackdown](https://www.wired.com/story/netflix-sharing-password-problem-crackdown-fix)
+ - [Report: Popular VPNs have a dangerous security risk. Does yours?](https://www.androidauthority.com/vpn-security-risk-3155425/)
+ - [European Parliament&#39;s consumer protection committee votes 43 to 2 in favor of universal USB-C charger adoption, ahead of a vote by the full parliament in May &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220420/p24#a220420p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
