@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostbusters VR is another take on the co-op ghost-hunting genre](https://www.polygon.com/23034191/ghostbusters-vr-meta-announcement-details)
- - [Why Tiny Tina’s Wonderlands Isn&#39;t An M-Rated Borderlands, A Series First](https://kotaku.com/tina-tinas-wonderlands-esrb-teen-rating-borderlands-mat-1848819100)
- - [Elden Ring’s scariest boss has a nasty bug if you summon an ally](https://www.polygon.com/23034065/elden-ring-malenia-boss-fight-summon-bug-extra-healing)<!-- GAME:END -->
+ - [Saints Row customization uncovered](https://blog.playstation.com/2022/04/20/saints-row-customization-uncovered/)
+ - [Saints Row customization uncovered](https://blog.playstation.com/2022/04/20/saints-row-customization-uncovered/)
+ - [The 15 Best Games For The PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
