@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US navy successfully tests giant laser against drones](https://www.pcgamer.com/us-navy-successfully-tests-giant-laser-against-drones)
- - [Logitech&#39;s new Lift Vertical Ergonomic Mouse is a smaller, cheaper option](https://www.pcgamer.com/logitechs-new-lift-vertical-ergonomic-mouse-is-a-smaller-cheaper-option)
- - [The first Tiny Tina&#39;s Wonderlands DLC features a landshark god, snake ladies](https://www.pcgamer.com/the-first-tiny-tinas-wonderlands-dlc-features-a-landshark-god-snake-ladies)<!-- GAME:END -->
+ - [Peripheral company Glorious PC Gaming Race becomes Glorious as it finally ditches racial branding](https://www.pcgamer.com/glorious-pc-gaming-race-rebrand)
+ - [Dark Souls Tabletop RPG is being reprinted due to errors](https://www.pcgamer.com/dark-souls-tabletop-rpg-is-being-reprinted-due-to-errors)
+ - [Extreme gaming PC build 2022](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
