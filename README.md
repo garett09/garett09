@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A TikTok Army Is Coming for Union Busters](https://www.wired.com/story/tiktok-army-union-busters-amazon)
- - [The Energy Crisis Is Pushing Solar Adoption—for Those Who Can Pay](https://www.wired.com/story/uk-energy-crisis-solar)
- - [The Risk of Relying on Smart-Home Companies](https://www.wired.com/story/insteon-shutdown)<!-- TECH:END -->
+ - [China&#39;s COVID lockdowns hit half of Apple&#39;s top 200 suppliers](https://appleinsider.com/articles/22/04/20/chinas-covid-lockdowns-hit-half-of-apples-top-200-suppliers?utm_medium=rss)
+ - [6 Best Snack Subscription Boxes to Satisfy Every Craving](https://www.wired.com/gallery/best-snack-subscription-boxes)
+ - [Humanity Is Vibe-Checking Itself to Death](https://www.wired.com/story/anti-trans-legislation-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
