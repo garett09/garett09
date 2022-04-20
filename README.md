@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [McDonald&#39;s straw is paper, but the cup, which used to be paper, is now plastic.](http://9gag.com/gag/aOQPMx6)
- - 🚯 [When exposing a crime through journalism is treated as committing a crime, you are rules by criminals!!](http://9gag.com/gag/aAG282d)
+ - 🚯 [Don&#39;t forget that important part...](http://9gag.com/gag/a612Yg8)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
