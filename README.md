@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some call it satire, some call it real life](http://9gag.com/gag/azeRoEB)
+ - 🚖 [Sam Kinison. World Hunger](http://9gag.com/gag/aYrqB5v)
  - 🚯 [Different street light designs to minimize light pollution](http://9gag.com/gag/aNP4Xzb)
  - 🚯 [I heard you like rare pepe](http://9gag.com/gag/aQXZDdz)<!-- MEMES:END -->
 
