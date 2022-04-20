@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [70% of employees at an Atlanta Apple Store agree to hold a union election, making the Apple Store the first to file for a union election with the CWA &lpar;New York Times&rpar;](http://www.techmeme.com/220420/p31#a220420p31)
- - [Spruce, a startup offering a toolkit for decentralized identity authentication and more, raises a $34M Series A led by a16z &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/220420/p30#a220420p30)
- - [65% off the LG 65-inch 4K UHD 80 Series Smart TV, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
+ - [Statsig, which offers a cloud-based tool for companies to streamline A/B testing, raises a $43M Series B led by Sequoia Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220420/p33#a220420p33)
+ - [Lexus finally reveals its all-electric RZ 450e SUV](https://www.theverge.com/2022/4/20/23034490/lexus-rz-450e-electric-suv-direct4-awd)
+ - [Sources: Barack and Michelle Obama&#39;s production company Higher Ground will not be signing a new deal with Spotify, and is in talks with others like Audible &lpar;Bloomberg&rpar;](http://www.techmeme.com/220420/p32#a220420p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
