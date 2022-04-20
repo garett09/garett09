@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lavrov at it again](http://9gag.com/gag/aOQPEzM)
- - 🚯 [`Tell the world, Johnny, tell them, &#39;Johnny Depp, I, a man, I&#39;m a victim too of domestic violence&#39;. And see how many people believe or side with you` Took him 6 years but he is doing just that today.](http://9gag.com/gag/aegmqGb)
- - 🚯 [Sam Kinison. World Hunger](http://9gag.com/gag/aYrqB5v)<!-- MEMES:END -->
+ - 🚖 [The editors should be paid more than the actors](http://9gag.com/gag/azeRybK)
+ - 🚯 [Montgomery Ward microwave 1983. After 39yrs it\u2019s stopped working. RIP](http://9gag.com/gag/aE8DKwK)
+ - 🚯 [The masculine urge to dig too greedily and too deep.](http://9gag.com/gag/a812N6V)<!-- MEMES:END -->
 
 --- 
 
