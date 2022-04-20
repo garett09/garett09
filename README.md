@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe Battery Pack now provides 7.5W charging after firmware update](https://appleinsider.com/articles/22/04/20/magsafe-battery-pack-now-provides-75w-charging-after-firmware-update?utm_medium=rss)
- - [Google Assistant is not rolling out to the Galaxy Watch 4 today](https://www.theverge.com/2022/4/20/23034335/google-assistant-samsung-galaxy-watch-4-wear-os)
- - [Instagram is begging you to stop reposting TikToks to Reels](https://www.theverge.com/2022/4/20/23034356/instagram-ranking-reels-original-content-tiktok)<!-- TECH:END -->
+ - [70% of employees at an Atlanta Apple Store agree to hold a union election, making the Apple Store the first to file for a union election with the CWA &lpar;New York Times&rpar;](http://www.techmeme.com/220420/p31#a220420p31)
+ - [Spruce, a startup offering a toolkit for decentralized identity authentication and more, raises a $34M Series A led by a16z &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/220420/p30#a220420p30)
+ - [65% off the LG 65-inch 4K UHD 80 Series Smart TV, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
