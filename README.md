@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: WhatsApp is struggling to sign up local partners for its business payments service in Brazil and is still awaiting approval from the central bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220420/p9#a220420p9)
  - [Brave browser introduces De-AMP, a feature which bypasses Google-hosted AMP pages and takes users straight to the original website &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220420/p8#a220420p8)
- - [Gartner predicts that global corporate spending on cloud computing in 2022 will grow 20% YoY to $494.7B, and cloud platform services to grow 26% to $109.6B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/220420/p7#a220420p7)
- - [We asked, you told us: You value an astrophotography mode on your phone](https://www.androidauthority.com/astrophotography-mode-smartphone-poll-results-3154695/)<!-- TECH:END -->
+ - [&#39;Moon Knight&#39; Episode 4 Recap: Marvel Meets The Mummy     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-4-recap-marvel-meets-the-mummy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
