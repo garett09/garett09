@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Art](http://9gag.com/gag/apgbwXW)
- - 🚯 [Hmmmm](http://9gag.com/gag/aAG2922)
+ - 🚖 [Pulled up the carpets in newly purchased house to find this](http://9gag.com/gag/aAG253L)
+ - 🚯 [On the bright side, when I mess up, she forgets it really quick and never ever brings it up. Maybe it&#39;s a recipe for perfect marriage?](http://9gag.com/gag/aWgb5e3)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
