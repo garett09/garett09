@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A timeline of warnings from investors over the past decade about a tech startup bubble that never burst; instead of a collapse, things got bubblier &lpar;New York Times&rpar;](http://www.techmeme.com/220420/p3#a220420p3)
- - [Google&#39;s Project Zero: 58 in-the-wild 0-days were detected and shared in 2021, more than double the previous record, as the industry improves at finding 0-days &lpar;Maddie Stone/Project Zero&rpar;](http://www.techmeme.com/220420/p2#a220420p2)
- - [Survey says Pixel 6 isn’t selling well even with Google giving high kickbacks](https://www.androidauthority.com/google-pixel-6-carrier-sales-3155137/)<!-- TECH:END -->
+ - [Brave browser introduces De-AMP, a feature which bypasses Google-hosted AMP pages and takes users straight to the original website &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220420/p8#a220420p8)
+ - [Gartner predicts that global corporate spending on cloud computing in 2022 will grow 20% YoY to $494.7B, and cloud platform services to grow 26% to $109.6B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/220420/p7#a220420p7)
+ - [We asked, you told us: You value an astrophotography mode on your phone](https://www.androidauthority.com/astrophotography-mode-smartphone-poll-results-3154695/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
