@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Netflix is going down because of `woke culture`](http://9gag.com/gag/awzdWdD)
- - 🚯 [Hmmmm](http://9gag.com/gag/aAG2922)
+ - 🚯 [Amber&#39;s lawyers keep mentioning Johnny Depp being best friends with Marilyn Manson to convince jury that he is guilty by association. But if you think you&#39;ve seen the craziest celebrity metoo hoax in history, wait until upcoming Manson trial or read his recent defamation lawsuit.](http://9gag.com/gag/azeRwpb)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
