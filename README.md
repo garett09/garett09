@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian Doll season 2 is the Natasha Lyonne show, for better or worse](https://www.polygon.com/reviews/23027436/russian-doll-season-2-review-natasha-lyonne)
- - [Halo composer Marty O&#39;Donnell has &#39;amicably&#39; resolved his latest legal battle with Microsoft](https://www.pcgamer.com/halo-composer-marty-odonnell-has-amicably-resolved-his-latest-legal-battle-with-microsoft)
- - [Peripheral company Glorious PC Gaming Race becomes Glorious as it finally ditches racial branding](https://www.pcgamer.com/glorious-pc-gaming-race-rebrand)<!-- GAME:END -->
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)
+ - [Sega’s Sonic Origins retro collection coming this June](https://www.polygon.com/23033468/sonic-origins-release-date-price-sega-genesis-games)
+ - [Netflix to crack down on account-sharing, says 100M households don’t pay](https://www.polygon.com/23033421/netflix-account-sharing-passwords-subscriber-loss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
