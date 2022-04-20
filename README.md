@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Glorious PC Gaming Race’ is rebranding to ‘Glorious’ out of belated shame](https://www.theverge.com/23032799/glorious-pc-gaming-race-pc-peripherals-mouse-keyboard-brand)
- - [Netflix CEO now says he’s open to a cheaper, ad-supported plan](https://www.theverge.com/2022/4/19/23032869/netflix-ads-streaming-reed-hastings-lower-price)
- - [Netflix blames account sharing for first subscriber loss in a decade](https://appleinsider.com/articles/22/04/19/netflix-blames-account-sharing-for-first-subscriber-loss-in-a-decade?utm_medium=rss)<!-- TECH:END -->
+ - [Analyst suggests the iPhone 14 will have an autofocus front camera](https://www.theverge.com/2022/4/19/23032847/iphone-14-autofocus-front-camera-kuo-rumor-notch)
+ - [Deal alert: save $600 on this Intel 13-inch MacBook Pro with 16GB RAM &lpar;limited supply&rpar;](https://appleinsider.com/articles/22/04/20/deal-alert-save-600-on-this-intel-13-inch-macbook-pro-with-16gb-ram-limited-supply?utm_medium=rss)
+ - [Mumbai-based Videoverse, which helps companies automate online video content production and reduce editing time using AI, raises a $46.8M Series B &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/220419/p25#a220419p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
