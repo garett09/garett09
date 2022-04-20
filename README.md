@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix is going down because of `woke culture`](http://9gag.com/gag/awzdWdD)
- - 🚯 [Amber&#39;s lawyers keep mentioning Johnny Depp being best friends with Marilyn Manson to convince jury that he is guilty by association. But if you think you&#39;ve seen the craziest celebrity metoo hoax in history, wait until upcoming Manson trial or read his recent defamation lawsuit.](http://9gag.com/gag/azeRwpb)
+ - 🚖 [McDonald&#39;s straw is paper, but the cup, which used to be paper, is now plastic.](http://9gag.com/gag/aOQPMx6)
+ - 🚯 [When exposing a crime through journalism is treated as committing a crime, you are rules by criminals!!](http://9gag.com/gag/aAG282d)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
