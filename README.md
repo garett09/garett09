@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peripheral company Glorious PC Gaming Race becomes Glorious as it finally ditches racial branding](https://www.pcgamer.com/glorious-pc-gaming-race-rebrand)
- - [Dark Souls Tabletop RPG is being reprinted due to errors](https://www.pcgamer.com/dark-souls-tabletop-rpg-is-being-reprinted-due-to-errors)
- - [Extreme gaming PC build 2022](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)<!-- GAME:END -->
+ - [Russian Doll season 2 is the Natasha Lyonne show, for better or worse](https://www.polygon.com/reviews/23027436/russian-doll-season-2-review-natasha-lyonne)
+ - [Halo composer Marty O&#39;Donnell has &#39;amicably&#39; resolved his latest legal battle with Microsoft](https://www.pcgamer.com/halo-composer-marty-odonnell-has-amicably-resolved-his-latest-legal-battle-with-microsoft)
+ - [Peripheral company Glorious PC Gaming Race becomes Glorious as it finally ditches racial branding](https://www.pcgamer.com/glorious-pc-gaming-race-rebrand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
