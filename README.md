@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Snoop Dogg Is Now Playable In Call Of Duty](https://kotaku.com/snoop-dogg-call-of-duty-warzone-vanguard-weed-bong-ripp-1848815259)
- - [Lego Star Wars DLCs Add Rogue One, Classic &#39;90s Minifigs](https://kotaku.com/lego-star-wars-skywalker-saga-dlc-rogue-one-classic-pac-1848815092)
- - [If anything can bring back lapsed WoW players, it&#39;s probably dragons](https://www.pcgamer.com/wow-dragonflight-reaction)<!-- GAME:END -->
+ - [Snoop Dogg is now a playable character in Call of Duty](https://www.pcgamer.com/snoop-dogg-is-now-a-playable-character-in-call-of-duty)
+ - [Robotech Board Game Fires Enormous Missile Barrage Into Kickstarter Funding Goal](https://kotaku.com/robotech-macross-board-game-kickstarter-funded-dog-figh-1848810430)
+ - [The classic Gold Box D&amp;D games are on Steam, but what&#39;s special about them?](https://www.pcgamer.com/the-classic-gold-box-dandd-games-are-on-steam-but-whats-special-about-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
