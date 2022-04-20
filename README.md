@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TMNT: Shredder’s Revenge coming this summer, with the turtles’ original voice actors](https://www.polygon.com/23033827/tmnt-shredders-revenge-release-date-original-voice-actors)
- - [Making frogs happy is a full time job in the delightful Time on Frog Island](https://www.pcgamer.com/making-frogs-happy-is-a-full-time-job-in-the-adorable-time-on-frog-island)
- - [Rocket League Takes a Lap with NASCAR](https://news.xbox.com/en-us/2022/04/20/rocket-league-takes-a-lap-with-nascar/)<!-- GAME:END -->
+ - [Resident Evil 4 VR gets The Mercenaries mode in a free update](https://www.polygon.com/23033623/resident-evil-4-vr-mercenaries-meta-quest)
+ - [The Pokémon Company Buys Its Trading Card Manufacturer While Demand Soars](https://kotaku.com/pokemon-company-tcg-trading-card-game-nintendo-logan-pa-1848818727)
+ - [NFL football goes VR on PlayStation, Quest this fall](https://www.polygon.com/23033764/nfl-pro-era-vr-game-virtual-reality-oculus-quest-playstation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
