@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell the world Johnny...](http://9gag.com/gag/aogLoGe)
+ - 🚖 [His grandma looks wayyy cooler](http://9gag.com/gag/aE8D4GM)
  - 🚯 [ReDesign MacGyver Sunglasses To Block Camera](http://9gag.com/gag/angEoKq)
- - 🚯 [Turtle slaps are rituals that hint at an interest in a mate](http://9gag.com/gag/aAG2502)<!-- MEMES:END -->
+ - 🚯 [Art](http://9gag.com/gag/apgbwXW)<!-- MEMES:END -->
 
 --- 
 
