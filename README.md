@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [US navy successfully tests giant laser against drones](https://www.pcgamer.com/us-navy-successfully-tests-giant-laser-against-drones)
  - [Logitech&#39;s new Lift Vertical Ergonomic Mouse is a smaller, cheaper option](https://www.pcgamer.com/logitechs-new-lift-vertical-ergonomic-mouse-is-a-smaller-cheaper-option)
- - [The first Tiny Tina&#39;s Wonderlands DLC features a landshark god, snake ladies](https://www.pcgamer.com/the-first-tiny-tinas-wonderlands-dlc-features-a-landshark-god-snake-ladies)
- - [Nvidia&#39;s fastest next-gen GPU reportedly enters testing phase](https://www.pcgamer.com/nvidias-fastest-next-gen-gpu-reportedly-enters-testing-phase)<!-- GAME:END -->
+ - [The first Tiny Tina&#39;s Wonderlands DLC features a landshark god, snake ladies](https://www.pcgamer.com/the-first-tiny-tinas-wonderlands-dlc-features-a-landshark-god-snake-ladies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
