@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His grandma looks wayyy cooler](http://9gag.com/gag/aE8D4GM)
- - 🚯 [ReDesign MacGyver Sunglasses To Block Camera](http://9gag.com/gag/angEoKq)
- - 🚯 [Art](http://9gag.com/gag/apgbwXW)<!-- MEMES:END -->
+ - 🚖 [Art](http://9gag.com/gag/apgbwXW)
+ - 🚯 [Hmmmm](http://9gag.com/gag/aAG2922)
+ - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
 
