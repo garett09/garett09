@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Florida](http://9gag.com/gag/arnqwrd)
- - 🚯 [Woke shit needs to stop](http://9gag.com/gag/aQXZbm8)
- - 🚯 [Tell the world Johnny...](http://9gag.com/gag/aogLoGe)<!-- MEMES:END -->
+ - 🚖 [Tell the world Johnny...](http://9gag.com/gag/aogLoGe)
+ - 🚯 [ReDesign MacGyver Sunglasses To Block Camera](http://9gag.com/gag/angEoKq)
+ - 🚯 [Turtle slaps are rituals that hint at an interest in a mate](http://9gag.com/gag/aAG2502)<!-- MEMES:END -->
 
 --- 
 
