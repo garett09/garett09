@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now update your PS5 DualSense controller through your PC](https://www.pcgamer.com/you-can-now-update-your-ps5-dualsense-controller-through-your-pc)
- - [Dungeons &amp; Dragons ruleset could be applied to more brands and IP, just like Magic](https://www.polygon.com/23033582/dnd-licensed-expansion-universes-beyond-magic-the-gathering)
- - [I logged my entire wardrobe into a Clueless-style closet app](https://www.polygon.com/22996193/stylebook-digital-closet-app-clueless-cher)<!-- GAME:END -->
+ - [TMNT: Shredder’s Revenge coming this summer, with the turtles’ original voice actors](https://www.polygon.com/23033827/tmnt-shredders-revenge-release-date-original-voice-actors)
+ - [Making frogs happy is a full time job in the delightful Time on Frog Island](https://www.pcgamer.com/making-frogs-happy-is-a-full-time-job-in-the-adorable-time-on-frog-island)
+ - [Rocket League Takes a Lap with NASCAR](https://news.xbox.com/en-us/2022/04/20/rocket-league-takes-a-lap-with-nascar/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
