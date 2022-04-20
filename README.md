@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row customization uncovered](https://blog.playstation.com/2022/04/20/saints-row-customization-uncovered/)
- - [Saints Row customization uncovered](https://blog.playstation.com/2022/04/20/saints-row-customization-uncovered/)
- - [The 15 Best Games For The PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)<!-- GAME:END -->
+ - [An actual working Commodore 65 prototype is being auctioned off for thousands of dollars](https://www.pcgamer.com/an-actual-working-commodore-65-prototype-is-being-auctioned-off-for-thousands-of-dollars)
+ - [The Star Trek Book of Friendship dives deep into Picard and Riker’s eternal bro-bond](https://www.polygon.com/23032620/star-trek-book-of-friendship-except-picard-riker)
+ - [Redactle is a brutal spin on Wordle that may take you hundreds of guesses](https://www.pcgamer.com/redactle-is-a-brutal-spin-on-wordle-that-may-take-you-hundreds-of-guesses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
