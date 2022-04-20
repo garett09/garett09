@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Koka](http://9gag.com/gag/a0Z1D3n)
- - 🚯 [Everyday](http://9gag.com/gag/angE8R0)
- - 🚯 [Some call it satire, some call it real life](http://9gag.com/gag/azeRoEB)<!-- MEMES:END -->
+ - 🚖 [Some call it satire, some call it real life](http://9gag.com/gag/azeRoEB)
+ - 🚯 [Different street light designs to minimize light pollution](http://9gag.com/gag/aNP4Xzb)
+ - 🚯 [I heard you like rare pepe](http://9gag.com/gag/aQXZDdz)<!-- MEMES:END -->
 
 --- 
 
