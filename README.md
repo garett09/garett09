@@ -194,8 +194,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Lavrov at it again](http://9gag.com/gag/aOQPEzM)
- - 🚯 [WErE tHe pArtY oF ScIeNce](http://9gag.com/gag/a0Z1GPB)
- - 🚯 [The editors should be paid more than the actors](http://9gag.com/gag/azeRybK)<!-- MEMES:END -->
+ - 🚯 [`Tell the world, Johnny, tell them, &#39;Johnny Depp, I, a man, I&#39;m a victim too of domestic violence&#39;. And see how many people believe or side with you` Took him 6 years but he is doing just that today.](http://9gag.com/gag/aegmqGb)
+ - 🚯 [Sam Kinison. World Hunger](http://9gag.com/gag/aYrqB5v)<!-- MEMES:END -->
 
 --- 
 
