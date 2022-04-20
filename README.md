@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The editors should be paid more than the actors](http://9gag.com/gag/azeRybK)
+ - 🚖 [Something different](http://9gag.com/gag/arnqwg5)
  - 🚯 [Montgomery Ward microwave 1983. After 39yrs it\u2019s stopped working. RIP](http://9gag.com/gag/aE8DKwK)
  - 🚯 [The masculine urge to dig too greedily and too deep.](http://9gag.com/gag/a812N6V)<!-- MEMES:END -->
 
