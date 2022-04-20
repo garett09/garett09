@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprisingly enough, it is enough to fill a whole wardrobe, and most of it is still not outfashioned... I hope I am not the only one](http://9gag.com/gag/aE8DjYe)
- - 🚯 [Montgomery Ward microwave 1983. After 39yrs it\u2019s stopped working. RIP](http://9gag.com/gag/aE8DKwK)
- - 🚯 [Koka](http://9gag.com/gag/a0Z1D3n)<!-- MEMES:END -->
+ - 🚖 [The editors should be paid more than the actors](http://9gag.com/gag/azeRybK)
+ - 🚯 [You can see the awkward introvert in him panicking.&lpar;2:14&rpar;](http://9gag.com/gag/angE0yE)
+ - 🚯 [Basel Zoo, Switzerland. You gotta be kidding me\u2026](http://9gag.com/gag/a5129qq)<!-- MEMES:END -->
 
 --- 
 
