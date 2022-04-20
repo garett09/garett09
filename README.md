@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple store workers in Atlanta file for the company’s first union election](https://www.theverge.com/2022/4/20/23034175/apple-store-workers-atlanta-union-retail-amazon-google)
- - [Apple expands feature that blurs iMessage nudity for kids to the UK &amp; Canada](https://appleinsider.com/articles/22/04/20/apple-expands-feature-that-blurs-imessage-nudity-for-kids-to-the-uk-canada?utm_medium=rss)
- - [The Nintendo Switch OLED is available at Woot for $25 off today](https://www.theverge.com/good-deals/2022/4/20/23034142/nintendo-switch-oled-white-woot-one-day-deal-sale)<!-- TECH:END -->
+ - [Ebook service Hoopla brings anti-vax, Holocaust denial, and pro-LGBTQ conversion books to libraries](https://www.theverge.com/2022/4/20/23034169/hoopla-ebooks-public-library-conspiracy-theory)
+ - [Cybersecurity authorities of Five Eyes countries warn that Russia-backed hacking groups could target critical infrastructure networks within and outside Ukraine &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220420/p27#a220420p27)
+ - [How to download Zoom on any device](https://www.androidauthority.com/download-zoom-3155101/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
