@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sally Face – My Journey as a Solo Game Developer](https://news.xbox.com/en-us/2022/04/20/sally-face-my-journey-as-a-solo-game-developer/)
- - [Overwatch 2 massively reworks Orisa and Doomfist &lpar;who’s a tank now&rpar;](https://www.polygon.com/23033900/overwatch-2-reworks-doomfist-orisa-tank-abilities-ultimate)
- - [Resident Evil 4 VR gets The Mercenaries mode in a free update](https://www.polygon.com/23033623/resident-evil-4-vr-mercenaries-meta-quest)<!-- GAME:END -->
+ - [Ghostbusters VR is another take on the co-op ghost-hunting genre](https://www.polygon.com/23034191/ghostbusters-vr-meta-announcement-details)
+ - [Why Tiny Tina’s Wonderlands Isn&#39;t An M-Rated Borderlands, A Series First](https://kotaku.com/tina-tinas-wonderlands-esrb-teen-rating-borderlands-mat-1848819100)
+ - [Elden Ring’s scariest boss has a nasty bug if you summon an ally](https://www.polygon.com/23034065/elden-ring-malenia-boss-fight-summon-bug-extra-healing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
