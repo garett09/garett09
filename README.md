@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FactSet survey of Q1 ad revenue: Google is expected to rise 23% YoY to $55.1B, Meta is expected to rise 8% YoY to ~$27.5B, and Twitter to grow 25% YoY to $1.1B &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/220420/p18#a220420p18)
- - [Coinbase launches its NFT marketplace in beta, after announcing the service in October 2021, with support for Ethereum-based NFTs and ETH payments &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220420/p17#a220420p17)
- - [Popular PC app 7-Zip has a major vulnerability on Windows](https://www.androidauthority.com/7-zip-app-windows-vulnerability-3155271/)<!-- TECH:END -->
+ - [Amazon slashes Apple iMacs to as low as $799.99](https://appleinsider.com/articles/22/04/20/amazon-slashes-apple-imacs-to-as-low-as-79999?utm_medium=rss)
+ - [OnePlus Nord 2 gains April patch but still no Android 12](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
+ - [Go watch our GoPro Bones review](https://www.theverge.com/23032403/gopro-bones-fpv-drone-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
