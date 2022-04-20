@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Can Cut Off Moochers Without a Password-Sharing Crackdown](https://www.wired.com/story/netflix-sharing-password-problem-crackdown-fix)
- - [Report: Popular VPNs have a dangerous security risk. Does yours?](https://www.androidauthority.com/vpn-security-risk-3155425/)
- - [European Parliament&#39;s consumer protection committee votes 43 to 2 in favor of universal USB-C charger adoption, ahead of a vote by the full parliament in May &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220420/p24#a220420p24)<!-- TECH:END -->
+ - [Apple store workers in Atlanta file for the company’s first union election](https://www.theverge.com/2022/4/20/23034175/apple-store-workers-atlanta-union-retail-amazon-google)
+ - [Apple expands feature that blurs iMessage nudity for kids to the UK &amp; Canada](https://appleinsider.com/articles/22/04/20/apple-expands-feature-that-blurs-imessage-nudity-for-kids-to-the-uk-canada?utm_medium=rss)
+ - [The Nintendo Switch OLED is available at Woot for $25 off today](https://www.theverge.com/good-deals/2022/4/20/23034142/nintendo-switch-oled-white-woot-one-day-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
