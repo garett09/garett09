@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That baby had an attitude!](http://9gag.com/gag/aPZQb4V)
- - 🚯 [Let them step away. Silence speaks volumes.](http://9gag.com/gag/aRrod4M)
+ - 🚖 [Netflix is going down because of `woke culture`](http://9gag.com/gag/awzdWdD)
+ - 🚯 [Hmmmm](http://9gag.com/gag/aAG2922)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
