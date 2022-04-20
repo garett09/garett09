@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I CANT STOP WATCHING THIS](http://9gag.com/gag/aBnG5QN)
- - 🚯 [F**k your nose in particular](http://9gag.com/gag/agg49p6)
- - 🚯 [Art](http://9gag.com/gag/apgbwXW)<!-- MEMES:END -->
+ - 🚖 [Florida](http://9gag.com/gag/arnqwrd)
+ - 🚯 [Woke shit needs to stop](http://9gag.com/gag/aQXZbm8)
+ - 🚯 [Tell the world Johnny...](http://9gag.com/gag/aogLoGe)<!-- MEMES:END -->
 
 --- 
 
