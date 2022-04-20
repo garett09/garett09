@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Koka](http://9gag.com/gag/a0Z1D3n)
- - 🚯 [Woke shit needs to stop](http://9gag.com/gag/aQXZbm8)
- - 🚯 [The masculine urge to dig too greedily and too deep.](http://9gag.com/gag/a812N6V)<!-- MEMES:END -->
+ - 🚖 [Lavrov at it again](http://9gag.com/gag/aOQPEzM)
+ - 🚯 [WErE tHe pArtY oF ScIeNce](http://9gag.com/gag/a0Z1GPB)
+ - 🚯 [The editors should be paid more than the actors](http://9gag.com/gag/azeRybK)<!-- MEMES:END -->
 
 --- 
 
