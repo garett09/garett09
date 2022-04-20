@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 VR gets The Mercenaries mode in a free update](https://www.polygon.com/23033623/resident-evil-4-vr-mercenaries-meta-quest)
- - [The Pokémon Company Buys Its Trading Card Manufacturer While Demand Soars](https://kotaku.com/pokemon-company-tcg-trading-card-game-nintendo-logan-pa-1848818727)
- - [NFL football goes VR on PlayStation, Quest this fall](https://www.polygon.com/23033764/nfl-pro-era-vr-game-virtual-reality-oculus-quest-playstation)<!-- GAME:END -->
+ - [Sally Face – My Journey as a Solo Game Developer](https://news.xbox.com/en-us/2022/04/20/sally-face-my-journey-as-a-solo-game-developer/)
+ - [Overwatch 2 massively reworks Orisa and Doomfist &lpar;who’s a tank now&rpar;](https://www.polygon.com/23033900/overwatch-2-reworks-doomfist-orisa-tank-abilities-ultimate)
+ - [Resident Evil 4 VR gets The Mercenaries mode in a free update](https://www.polygon.com/23033623/resident-evil-4-vr-mercenaries-meta-quest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
