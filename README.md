@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ebook service Hoopla brings anti-vax, Holocaust denial, and pro-LGBTQ conversion books to libraries](https://www.theverge.com/2022/4/20/23034169/hoopla-ebooks-public-library-conspiracy-theory)
- - [Cybersecurity authorities of Five Eyes countries warn that Russia-backed hacking groups could target critical infrastructure networks within and outside Ukraine &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220420/p27#a220420p27)
- - [How to download Zoom on any device](https://www.androidauthority.com/download-zoom-3155101/)<!-- TECH:END -->
+ - [MagSafe Battery Pack now provides 7.5W charging after firmware update](https://appleinsider.com/articles/22/04/20/magsafe-battery-pack-now-provides-75w-charging-after-firmware-update?utm_medium=rss)
+ - [Google Assistant is not rolling out to the Galaxy Watch 4 today](https://www.theverge.com/2022/4/20/23034335/google-assistant-samsung-galaxy-watch-4-wear-os)
+ - [Instagram is begging you to stop reposting TikToks to Reels](https://www.theverge.com/2022/4/20/23034356/instagram-ranking-reels-original-content-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
