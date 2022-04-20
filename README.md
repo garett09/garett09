@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An actual working Commodore 65 prototype is being auctioned off for thousands of dollars](https://www.pcgamer.com/an-actual-working-commodore-65-prototype-is-being-auctioned-off-for-thousands-of-dollars)
- - [The Star Trek Book of Friendship dives deep into Picard and Riker’s eternal bro-bond](https://www.polygon.com/23032620/star-trek-book-of-friendship-except-picard-riker)
- - [Redactle is a brutal spin on Wordle that may take you hundreds of guesses](https://www.pcgamer.com/redactle-is-a-brutal-spin-on-wordle-that-may-take-you-hundreds-of-guesses)<!-- GAME:END -->
+ - [Zoomer shows Spider-Man would be too powerful if he had a gun](https://www.polygon.com/23030309/spider-man-third-person-shooter-anime-animation-game-dev)
+ - [Quake, the 26-year-old FPS, gets new accessibility options and maps](https://www.pcgamer.com/quake-the-26-year-old-fps-gets-new-accessibility-options-and-maps)
+ - [New Saints Row’s character creator goes incredibly hard](https://www.polygon.com/23034056/saints-rows-2022-character-creator-car-customization)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
