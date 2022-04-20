@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Micronova’ explosions spotted on distant zombie stars](https://www.theverge.com/2022/4/20/23032402/micronova-white-dwarf-stars-explosions-magnetic-fields-discovery)
- - [Apple TV+ reveals first full-length trailer for &#39;Prehistoric Planet&#39; documentary series](https://appleinsider.com/articles/22/04/20/apple-tv-reveals-first-full-length-trailer-for-prehistoric-planet-documentary-series?utm_medium=rss)
- - [Julian Assange Extradition Order Approved by UK Court     - CNET](https://www.cnet.com/news/politics/julian-assange-extradition-order-approved-by-uk-court/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple adding new fraud prevention features to Apple Pay, Apple Wallet](https://appleinsider.com/articles/22/04/20/apple-adding-new-fraud-prevention-features-to-apple-pay-apple-wallet?utm_medium=rss)
+ - [New video shows Apple&#39;s iPhone recycling robot Daisy in action](https://appleinsider.com/articles/22/04/20/new-video-shows-apples-iphone-recycling-robot-daisy-in-action?utm_medium=rss)
+ - [The BMW i7 EV Has a Fold-Down Movie Screen](https://www.wired.com/story/the-bmw-i7-ev-has-a-fold-down-movie-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
