@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s COVID lockdowns hit half of Apple&#39;s top 200 suppliers](https://appleinsider.com/articles/22/04/20/chinas-covid-lockdowns-hit-half-of-apples-top-200-suppliers?utm_medium=rss)
- - [6 Best Snack Subscription Boxes to Satisfy Every Craving](https://www.wired.com/gallery/best-snack-subscription-boxes)
- - [Humanity Is Vibe-Checking Itself to Death](https://www.wired.com/story/anti-trans-legislation-social-media)<!-- TECH:END -->
+ - [FactSet survey of Q1 ad revenue: Google is expected to rise 23% YoY to $55.1B, Meta is expected to rise 8% YoY to ~$27.5B, and Twitter to grow 25% YoY to $1.1B &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/220420/p18#a220420p18)
+ - [Coinbase launches its NFT marketplace in beta, after announcing the service in October 2021, with support for Ethereum-based NFTs and ETH payments &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220420/p17#a220420p17)
+ - [Popular PC app 7-Zip has a major vulnerability on Windows](https://www.androidauthority.com/7-zip-app-windows-vulnerability-3155271/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
