@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zoomer shows Spider-Man would be too powerful if he had a gun](https://www.polygon.com/23030309/spider-man-third-person-shooter-anime-animation-game-dev)
- - [Quake, the 26-year-old FPS, gets new accessibility options and maps](https://www.pcgamer.com/quake-the-26-year-old-fps-gets-new-accessibility-options-and-maps)
- - [New Saints Row’s character creator goes incredibly hard](https://www.polygon.com/23034056/saints-rows-2022-character-creator-car-customization)<!-- GAME:END -->
+ - [Is Moon Knight teasing a secret third personality or a comics cameo?](https://www.polygon.com/23032588/moon-knight-secret-third-personality-jake-lockley)
+ - [Steamforged shares early details about its RuneScape board game, Shadow of Elvarg](https://www.polygon.com/tabletop-games/23034305/runescapes-board-game-kickstarter-steamforged-release)
+ - [Zoomer shows Spider-Man would be too powerful if he had a gun](https://www.polygon.com/23030309/spider-man-third-person-shooter-anime-animation-game-dev)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
