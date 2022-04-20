@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adding new fraud prevention features to Apple Pay, Apple Wallet](https://appleinsider.com/articles/22/04/20/apple-adding-new-fraud-prevention-features-to-apple-pay-apple-wallet?utm_medium=rss)
- - [New video shows Apple&#39;s iPhone recycling robot Daisy in action](https://appleinsider.com/articles/22/04/20/new-video-shows-apples-iphone-recycling-robot-daisy-in-action?utm_medium=rss)
- - [The BMW i7 EV Has a Fold-Down Movie Screen](https://www.wired.com/story/the-bmw-i7-ev-has-a-fold-down-movie-screen)<!-- TECH:END -->
+ - [Second public betas of iOS 15.5, iPadOS 15.5, macOS 12.4 now available](https://appleinsider.com/articles/22/04/20/second-public-betas-of-ios-155-ipados-155-macos-124-now-available?utm_medium=rss)
+ - [Zoom adds gesture recognition support for giving a thumbs-up or a raised hand emoji to its desktop app, after adding it to its iPad and iPhone apps last summer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220420/p23#a220420p23)
+ - [This AI clone of Reddit’s Am I The Asshole forum will give you the best bad advice](https://www.theverge.com/2022/4/20/23033694/are-you-the-asshole-ai-reddit-clone-art-project-ethics-aita)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
