@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If anything can bring back lapsed WoW players, it&#39;s probably dragons](https://www.pcgamer.com/wow-dragonflight-reaction)
- - [Rockstar cuts transphobic content from Grand Theft Auto 5 and GTA Online](https://www.pcgamer.com/rockstar-cuts-transphobic-content-from-grand-theft-auto-5-and-gta-online)
- - [Elden Ring patch nerfs its murderous dogs](https://www.polygon.com/23032701/elden-ring-patch-bleed-dogs-nerfed)<!-- GAME:END -->
+ - [Snoop Dogg Is Now Playable In Call Of Duty](https://kotaku.com/snoop-dogg-call-of-duty-warzone-vanguard-weed-bong-ripp-1848815259)
+ - [Lego Star Wars DLCs Add Rogue One, Classic &#39;90s Minifigs](https://kotaku.com/lego-star-wars-skywalker-saga-dlc-rogue-one-classic-pac-1848815092)
+ - [If anything can bring back lapsed WoW players, it&#39;s probably dragons](https://www.pcgamer.com/wow-dragonflight-reaction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
