@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On the bright side, when I mess up, she forgets it really quick and never ever brings it up. Maybe it&#39;s a recipe for perfect marriage?](http://9gag.com/gag/aWgb5e3)
- - 🚯 [A deep conversation](http://9gag.com/gag/aNP451v)
+ - 🚖 [That baby had an attitude!](http://9gag.com/gag/aPZQb4V)
+ - 🚯 [Let them step away. Silence speaks volumes.](http://9gag.com/gag/aRrod4M)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
