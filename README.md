@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Snoop Dogg is now a playable character in Call of Duty](https://www.pcgamer.com/snoop-dogg-is-now-a-playable-character-in-call-of-duty)
- - [Robotech Board Game Fires Enormous Missile Barrage Into Kickstarter Funding Goal](https://kotaku.com/robotech-macross-board-game-kickstarter-funded-dog-figh-1848810430)
- - [The classic Gold Box D&amp;D games are on Steam, but what&#39;s special about them?](https://www.pcgamer.com/the-classic-gold-box-dandd-games-are-on-steam-but-whats-special-about-them)<!-- GAME:END -->
+ - [Logitech&#39;s new Lift Vertical Ergonomic Mouse is a smaller, cheaper option](https://www.pcgamer.com/logitechs-new-lift-vertical-ergonomic-mouse-is-a-smaller-cheaper-option)
+ - [The first Tiny Tina&#39;s Wonderlands DLC features a landshark god, snake ladies](https://www.pcgamer.com/the-first-tiny-tinas-wonderlands-dlc-features-a-landshark-god-snake-ladies)
+ - [Nvidia&#39;s fastest next-gen GPU reportedly enters testing phase](https://www.pcgamer.com/nvidias-fastest-next-gen-gpu-reportedly-enters-testing-phase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
