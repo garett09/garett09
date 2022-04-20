@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV: You just met a Sloth Bear, which in India is more feared than Tigers for its violent/unpredictable nature.](http://9gag.com/gag/a512yzy)
- - 🚯 [One hour to teach a boy to backflip](http://9gag.com/gag/aWgbPdx)
- - 🚯 [Basel Zoo, Switzerland. You gotta be kidding me\u2026](http://9gag.com/gag/a5129qq)<!-- MEMES:END -->
+ - 🚖 [Koka](http://9gag.com/gag/a0Z1D3n)
+ - 🚯 [Everyday](http://9gag.com/gag/angE8R0)
+ - 🚯 [Some call it satire, some call it real life](http://9gag.com/gag/azeRoEB)<!-- MEMES:END -->
 
 --- 
 
