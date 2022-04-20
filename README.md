@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: former eBay security director Jim Baugh will plead guilty to a 2019 cyberstalking campaign against eBay critics; five other ex-staff have pleaded guilty &lpar;Janelle Lawrence/Bloomberg&rpar;](http://www.techmeme.com/220420/p1#a220420p1)
  - [Sources: Elon Musk is evaluating various debt packages, including preferred debt and a loan against his shares of Tesla, to secure financing for his Twitter bid &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/220419/p30#a220419p30)
- - [Netflix makes it clear restrictions are coming on password sharing](https://www.androidauthority.com/netflix-password-sharing-paid-3155128/)
- - [How to update your Apple Watch &lpar;and what to do when it won’t&rpar;](https://www.androidauthority.com/update-apple-watch-3152404/)<!-- TECH:END -->
+ - [Netflix makes it clear it’s planning to make account sharing paid for all](https://www.androidauthority.com/netflix-password-sharing-paid-3155128/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
