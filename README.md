@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heresay, your honor](http://9gag.com/gag/ay9RO9X)
- - 🚯 [The lord of rings!](http://9gag.com/gag/aE8DLLG)
+ - 🚖 [The lord of rings!](http://9gag.com/gag/aE8DLLG)
+ - 🚯 [Just get a bigger mouth](http://9gag.com/gag/aE8DLmK)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
