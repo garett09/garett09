@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta COO Sheryl Sandberg accused of squashing reporting about then-boyfriend Bobby Kotick](https://www.theverge.com/2022/4/21/23035547/meta-sheryl-sandberg-bobby-kotick-daily-mail-reporting)
- - [CNN Plus is shutting down only a month after it launched](https://www.theverge.com/2022/4/21/23035703/cnn-plus-shutting-down)
- - [Check out NASA’s latest footage of a solar eclipse on Mars](https://www.theverge.com/2022/4/21/23035514/nasa-perseverance-rover-mars-eclipse-phobos)<!-- TECH:END -->
+ - [Apple Fitness+ celebrating International Dance Day with workouts &amp; more](https://appleinsider.com/articles/22/04/21/apple-fitness-celebrating-international-dance-day-with-workouts-more?utm_medium=rss)
+ - [Russia expands its entry ban on Americans to include Mark Zuckerberg and LinkedIn CEO Ryan Roslansky &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220421/p23#a220421p23)
+ - [FAA will revoke YouTuber’s pilot license after plane crash video](https://www.theverge.com/2022/4/21/23035602/youtube-faa-pilot-license-plane-crash-video-intentional)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
