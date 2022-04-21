@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: Across the Spider-Verse delayed to June 2023](https://www.polygon.com/23035352/spider-man-across-the-spider-verse-delayed-spider-verse-2-release-date-miles-morales)
- - [More Adventures Await Sailors Both New and Legendary in Sea of Thieves](https://news.xbox.com/en-us/2022/04/21/more-adventures-await-in-sea-of-thieves/)
- - [Dragons: The Nine Realms returns this May with even more dragons](https://www.polygon.com/23032760/dragons-the-nine-realms-season-2-trailer-release-date)<!-- GAME:END -->
+ - [If AMD&#39;s next APUs are faster than some of its discrete GPUs I&#39;m going to be a very happy PC gamer](https://www.pcgamer.com/amd-phoenix-apu-rumours)
+ - [Digimon Survive will finally be released in July](https://www.polygon.com/23035458/digimon-survive-release-date-july)
+ - [Free Play Days – Gonner 2, Monster Truck Championship, and The Elder Scrolls Online](https://news.xbox.com/en-us/2022/04/21/free-play-days-gonner-2-monster-truck-championship-and-the-elder-scrolls-online/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
