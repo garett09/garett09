@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Russia&#39;s efforts to promote homegrown social media like Rutube and VKontakte, even as local content creators choose to stick with Western services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220421/p10#a220421p10)
- - [OnePlus Ace launched: You’ve seen this before, and will see it again](https://www.androidauthority.com/oneplus-ace-china-3155674/)
- - [How to share games on Steam](https://www.androidauthority.com/share-games-steam-3154823/)<!-- TECH:END -->
+ - [How AI data-labeling companies like Appen profit from cheap labor in crisis-ridden countries like Venezuela to meet exploding demand &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/220421/p13#a220421p13)
+ - [Brave is bypassing Google AMP pages because they’re ‘harmful to users’](https://www.theverge.com/2022/4/19/23032776/brave-de-amp-google-browser)
+ - [OnePlus 10 specs leak: Faster charging than the OnePlus 10 Pro](https://www.androidauthority.com/oneplus-10-specs-3155776/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
