@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Rat in the Kitchen&#39; Is a Cooking Competition With an Unusual Twist     - CNET](https://www.cnet.com/culture/entertainment/rat-in-the-kitchen-is-a-cooking-competition-with-an-unusual-twist/#ftag=CAD590a51e)
- - [Binance begins enforcing tougher KYC checks on Russian users with holdings exceeding &amp;euro;10,000, following further EU sanctions &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/220421/p4#a220421p4)
- - [Spider-Verse sequel delayed to June 2023](https://www.theverge.com/2022/4/21/23035142/spider-man-across-the-spider-verse-sequel-delayed-june-2023)<!-- TECH:END -->
+ - [Sources: the EU is set to unveil the Digital Services Act, which bans targeting users based on religion, gender, and more, among other rules, on Friday &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220421/p7#a220421p7)
+ - [Apple’s nudity-blurring Messages feature gets international release](https://www.theverge.com/2022/4/21/23035183/ios-messages-communication-safety-nudity-sexually-explicit-message-blurring)
+ - [Swedish startup Instabox, an automated parcel locker service for e-commerce, raises $190M led by Verdane, bringing its total funding to $327M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220421/p6#a220421p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
