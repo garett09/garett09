@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s an office worker for 20 years now](http://9gag.com/gag/abgBPy9)
- - 🚯 [Looking in foreign bags](http://9gag.com/gag/a7124mq)
+ - 🚖 [It was cute](http://9gag.com/gag/aRro5KG)
+ - 🚯 [Poor Kathy at the end](http://9gag.com/gag/a31295v)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
