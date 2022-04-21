@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live Bash, which lets artists livestream their performances and convert the shows into digital collectibles and NFTs, raises a $21M seed &lpar;Marc Wojno/ZDNet&rpar;](http://www.techmeme.com/220421/p29#a220421p29)
- - [Hopes for small Android phones dashed by dismal US sales of iPhone 13 Mini](https://www.androidauthority.com/small-android-phones-iphone-13-mini-3155921/)
- - [Asus drops two OLED Zenbooks and a new logo](https://www.theverge.com/2022/4/21/23035485/asus-zenbook-13-s-oled-pro-15-flip-specs-price)<!-- TECH:END -->
+ - [You can now queue to purchase a PS5 direct from Sony](https://www.theverge.com/2022/4/21/23020823/sony-direct-playstation-ps5-digital-edition-restock-order-queue-sale)
+ - [A bug in Google Messages might be draining your battery](https://www.theverge.com/2022/4/21/23036246/google-messages-battery-drain-power-fix)
+ - [Google’s crackdown on third-party Android call recorders may finally be complete](https://www.theverge.com/2022/4/21/23036078/google-android-call-recording-apps-accessibility-loopholes-play-store-rules)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
