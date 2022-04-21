@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [McDonald&#39;s straw is paper, but the cup, which used to be paper, is now plastic.](http://9gag.com/gag/aOQPMx6)
- - 🚯 [Don&#39;t forget that important part...](http://9gag.com/gag/a612Yg8)
+ - 🚖 [Burn](http://9gag.com/gag/a912gyK)
+ - 🚯 [Trust the science](http://9gag.com/gag/ajgZevx)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
