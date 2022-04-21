@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Game Pass Launches in Five New Countries in Southeast Asia](https://news.xbox.com/en-us/2022/04/20/pc-game-pass-launch-southeast-asia/)
- - [AMD quietly launches entry-level Radeon RX 6400](https://www.pcgamer.com/amd-quietly-launches-entry-level-radeon-rx-6400)
- - [Shadowrun Trilogy Is Coming To Xbox, PlayStation And Switch](https://kotaku.com/shadowrun-trilogy-paradox-xbox-playstation-switch-ninte-1848821289)<!-- GAME:END -->
+ - [NASA uses Hololens to send holographic doctors into space](https://www.pcgamer.com/nasa-uses-hololens-to-send-holographic-doctors-into-space)
+ - [AMD&#39;s Epyc processors played a key role in Mercedes&#39; 2020 and 2021 F1 championship successes](https://www.pcgamer.com/amds-epyc-processors-played-a-key-role-in-mercedes-2020-and-2021-f1-championship-successes)
+ - [PC Game Pass Launches in Five New Countries in Southeast Asia](https://news.xbox.com/en-us/2022/04/20/pc-game-pass-launch-southeast-asia/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
