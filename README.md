@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad truth](http://9gag.com/gag/amgVqm6)
- - 🚯 [Johnny Depp\u2019s reaction to the court finally getting to hear the audio tape in which Amber Heard admits to abusing him](http://9gag.com/gag/a3129Km)
- - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)<!-- MEMES:END -->
+ - 🚖 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)
+ - 🚯 [A candidate told me in an interview that a transgender should get a job just because they&#39;re transgender, a woman deserves the same job next as we live in a male dominated society and a man shouldn&#39;t get the same job at all as men have taken most jobs in the society](http://9gag.com/gag/avAv2KW)
+ - 🚯 [It keeps my face warm and hides my ugly](http://9gag.com/gag/adge35d)<!-- MEMES:END -->
 
 --- 
 
