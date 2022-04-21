@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out &#39;all-new&#39; Apple Maps for Germany &amp; Singapore](https://appleinsider.com/articles/22/04/21/apple-rolls-out-all-new-apple-maps-for-germany-singapore?utm_medium=rss)
- - [The Unbearable Weight of Massive Talent Celebrates Cinema Itself](https://www.wired.com/story/unbearable-weight-massive-talent-essay)
- - [Drones Have Transformed Blood Delivery in Rwanda](https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda)<!-- TECH:END -->
+ - [A look at Russia&#39;s efforts to promote homegrown social media like Rutube and VKontakte, even as local content creators choose to stick with Western services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220421/p10#a220421p10)
+ - [OnePlus Ace launched: You’ve seen this before, and will see it again](https://www.androidauthority.com/oneplus-ace-china-3155674/)
+ - [How to share games on Steam](https://www.androidauthority.com/share-games-steam-3154823/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
