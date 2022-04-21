@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When exposing a crime through journalism is treated as committing a crime, you are rules by criminals!!](http://9gag.com/gag/aAG282d)
- - 🚯 [Indeed](http://9gag.com/gag/aNP4New)
+ - 🚖 [Indeed](http://9gag.com/gag/aNP4New)
+ - 🚯 [Ah, the good old days](http://9gag.com/gag/a212nvp)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
