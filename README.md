@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard and Warzone: Season 3 Classified Arms arrives April 27](https://blog.playstation.com/2022/04/21/call-of-duty-vanguard-and-warzone-season-3-classified-arms-arrives-april-27/)
- - [Call of Duty: Vanguard and Warzone: Season 3 Classified Arms arrives April 27](https://blog.playstation.com/2022/04/21/call-of-duty-vanguard-and-warzone-season-3-classified-arms-arrives-april-27/)
- - [Turning Red’s deleted debate scene would have changed the movie’s tone](https://www.polygon.com/23034517/turning-red-deleted-scene-debate-pixar)<!-- GAME:END -->
+ - [Season Three Brings Classified Arms to Call of Duty: Vanguard and Call of Duty: Warzone](https://news.xbox.com/en-us/2022/04/21/season-three-call-of-duty-vanguard-and-warzone-announce/)
+ - [Behind the Scenes of Creating Monsters for Deck of Ashes, Releasing Today on Xbox](https://news.xbox.com/en-us/2022/04/21/behind-the-scenes-of-creating-monsters-for-deck-of-ashes-releasing-today-on-xbox/)
+ - [Halo Infinite gets a battle royale-like mode in Season 2 update](https://www.pcgamer.com/halo-infinite-gets-a-battle-royale-like-mode-in-season-2-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
