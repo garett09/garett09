@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s next season will fix glaives, improve its worst Exotics](https://www.polygon.com/23036312/destiny-2-glaive-exotic-weapon-changes-season-17-patch-notes)
- - [All Elite Wrestling&#39;s New Game Is Named After A Crowd Chant And That&#39;s Too Sweet](https://kotaku.com/aew-all-elite-wrestling-yuke-s-game-fight-forever-tony-1848825994)
- - [Godzilla and King Kong are Call of Duty: Warzone&#39;s next operators](https://www.pcgamer.com/godzilla-and-king-kong-are-call-of-duty-warzones-next-operators)<!-- GAME:END -->
+ - [Best AIO cooler for CPUs](https://www.pcgamer.com/best-aio-cooler-for-cpus)
+ - [The best USB Wi-Fi adapter in 2022](https://www.pcgamer.com/best-usb-wi-fi-adapter)
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
