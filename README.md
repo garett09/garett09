@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman selling knock-off clothing on Facebook caught by police while streaming sales video.](http://9gag.com/gag/aBnGqvA)
- - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)
- - 🚯 [Johnny Depp\u2019s reaction to the court finally getting to hear the audio tape in which Amber Heard admits to abusing him](http://9gag.com/gag/a3129Km)<!-- MEMES:END -->
+ - 🚖 [Sad truth](http://9gag.com/gag/amgVqm6)
+ - 🚯 [Johnny Depp\u2019s reaction to the court finally getting to hear the audio tape in which Amber Heard admits to abusing him](http://9gag.com/gag/a3129Km)
+ - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)<!-- MEMES:END -->
 
 --- 
 
