@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)
- - 🚯 [A candidate told me in an interview that a transgender should get a job just because they&#39;re transgender, a woman deserves the same job next as we live in a male dominated society and a man shouldn&#39;t get the same job at all as men have taken most jobs in the society](http://9gag.com/gag/avAv2KW)
- - 🚯 [It keeps my face warm and hides my ugly](http://9gag.com/gag/adge35d)<!-- MEMES:END -->
+ - 🚖 [The Dmitrievsky Chemical Plant near Moscow is on fire &amp; beyond saving. It\u2019s one of Russia\u2019s largest manufacturers of chemical solvents. The Aerospace Defence Research Institute in Tver burned down earlier in the day. We are starting to notice a pattern.](http://9gag.com/gag/aOQ1KVr)
+ - 🚯 [For the love of god mummeh](http://9gag.com/gag/a91XbwK)
+ - 🚯 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)<!-- MEMES:END -->
 
 --- 
 
