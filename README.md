@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Burn](http://9gag.com/gag/a912gyK)
+ - 🚖 [I&#39;m getting too old for this shit!](http://9gag.com/gag/aYrq9Wq)
  - 🚯 [Trust the science](http://9gag.com/gag/ajgZevx)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
