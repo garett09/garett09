@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz launches a16z Crypto Research, focused on Web3 breakthroughs that can contribute to deployable code, to be led by academic Tim Roughgarden &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220421/p25#a220421p25)
- - [Exclusive: this is the new budget soundbar from Sonos](https://www.theverge.com/2022/4/21/23035569/sonos-new-soundbar-2022-s36-fury-specs-price-release-date)
- - [Here is Lego’s ultimate version of Luke Skywalker’s X-34 Star Wars Landspeeder](https://www.theverge.com/23035805/lego-star-wars-ucs-landspeeder-luke-skywalker-ultimate-price-release-date)<!-- TECH:END -->
+ - [Crypto mining company Crusoe Energy Systems, which uses excess natural gas typically burned as a waste product of oil extraction, raises a $505M Series C &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/220421/p27#a220421p27)
+ - [Sony reportedly plans to put ads in PlayStation games](https://www.theverge.com/2022/4/21/23035875/sony-playstation-microsoft-games-in-game-ads)
+ - [Casetify Star Wars collection review: The galaxy in the palm of your hand](https://appleinsider.com/articles/22/04/21/casetify-star-wars-collection-review-the-galaxy-in-the-palm-of-your-hand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
