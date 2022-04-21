@@ -194,7 +194,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [She&#39;s an office worker for 20 years now](http://9gag.com/gag/abgBPy9)
- - 🚯 [Yes.](http://9gag.com/gag/adgemDN)
+ - 🚯 [That&#39;s some mad talk for someone within crucifixion range.](http://9gag.com/gag/a112GK8)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
