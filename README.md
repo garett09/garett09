@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lumote: The Mastermote Chronicles Launches Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/21/lumote-the-mastermote-chronicles-launches-today-on-the-xbox-store/)
- - [Halo Infinite season 2 getting King of the Hill and two more new game modes](https://www.polygon.com/23036025/halo-infinite-season-2-game-modes)
- - [F1 22 launches on July 1](https://www.pcgamer.com/f1-22-launches-on-july-1)<!-- GAME:END -->
+ - [New Dragonlance board game was designed by Rob Daviau and Stephen Baker](https://www.polygon.com/23036116/dnd-dragonlance-board-game-designed-by-rob-daviau-keith-baker-details-battle-masters)
+ - [Choose or Die is a horror film about an evil game you should choose not to watch](https://www.pcgamer.com/choose-or-die-is-a-horror-film-about-an-evil-game-you-should-choose-not-to-watch)
+ - [Why Lego Star Wars: The Skywalker Saga Is Selling Zillions Of Copies](https://kotaku.com/lego-star-wars-skywalker-saga-tt-games-popular-wb-ps5-x-1848825178)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
