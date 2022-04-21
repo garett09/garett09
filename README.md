@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rimworld has been unbanned in Australia and is back on Steam](https://www.pcgamer.com/rimworld-has-been-unbanned-in-australia-and-is-back-on-steam)
  - [Hunt: Showdown is introducing its most disruptive new enemy in years](https://www.pcgamer.com/hunt-showdown-is-introducing-its-most-disruptive-new-enemy-in-years)
- - [This accessory is made to keep your Intel Alder Lake processor from bending](https://www.pcgamer.com/this-accessory-is-made-to-keep-your-intel-alder-lake-processor-from-bending)
- - [Today&#39;s Wordle answer #306: Thursday, April 21](https://www.pcgamer.com/wordle-april-21-306-words-ending-in-ide)<!-- GAME:END -->
+ - [This accessory is made to keep your Intel Alder Lake processor from bending](https://www.pcgamer.com/this-accessory-is-made-to-keep-your-intel-alder-lake-processor-from-bending)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
