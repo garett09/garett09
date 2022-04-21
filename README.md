@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla and King Kong are Call of Duty: Warzone&#39;s next operators](https://www.pcgamer.com/godzilla-and-king-kong-are-call-of-duty-warzones-next-operators)
- - [Tales from the Borderlands is coming back with a new game later this year](https://www.polygon.com/23036233/tales-from-the-borderlands-new-game-announced-gearbox)
- - [16 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)<!-- GAME:END -->
+ - [Destiny 2’s next season will fix glaives, improve its worst Exotics](https://www.polygon.com/23036312/destiny-2-glaive-exotic-weapon-changes-season-17-patch-notes)
+ - [All Elite Wrestling&#39;s New Game Is Named After A Crowd Chant And That&#39;s Too Sweet](https://kotaku.com/aew-all-elite-wrestling-yuke-s-game-fight-forever-tony-1848825994)
+ - [Godzilla and King Kong are Call of Duty: Warzone&#39;s next operators](https://www.pcgamer.com/godzilla-and-king-kong-are-call-of-duty-warzones-next-operators)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
