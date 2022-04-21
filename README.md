@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Rario, a cricket NFTs marketplace that holds NFT rights to six international leagues and over 900 cricketers, raises $120M led by Dream Capital &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/220421/p1#a220421p1)
- - [Women in Tech Gaining Ground in Leadership Roles, Encouraging Report Finds     - CNET](https://www.cnet.com/culture/women-in-tech-gaining-ground-in-leadership-roles-encouraging-report-finds/#ftag=CAD590a51e)
- - [Dell G15 Gaming Laptop Goes Camo, Alienware Ships AMD-Refreshed Systems     - CNET](https://www.cnet.com/tech/computing/dell-g15-gaming-laptop-goes-camo-alienware-ships-amd-refreshed-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon unveils Buy with Prime, which lets third-party merchants use Amazon&#39;s shipping and logistics network to fulfill orders on their own sites &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220421/p2#a220421p2)
+ - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)
+ - [Singapore-based Rario, a cricket NFTs marketplace that holds NFT rights to six international leagues and over 900 cricketers, raises $120M led by Dream Capital &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/220421/p1#a220421p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
