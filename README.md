@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Moon Knight teasing a secret third personality or a comics cameo?](https://www.polygon.com/23032588/moon-knight-secret-third-personality-jake-lockley)
- - [Steamforged shares early details about its RuneScape board game, Shadow of Elvarg](https://www.polygon.com/tabletop-games/23034305/runescapes-board-game-kickstarter-steamforged-release)
- - [Zoomer shows Spider-Man would be too powerful if he had a gun](https://www.polygon.com/23030309/spider-man-third-person-shooter-anime-animation-game-dev)<!-- GAME:END -->
+ - [Shadowrun Trilogy Is Coming To Xbox, PlayStation And Switch](https://kotaku.com/shadowrun-trilogy-paradox-xbox-playstation-switch-ninte-1848821289)
+ - [Digimon Survive Is Coming Out The Same Day As Xenoblade Chronicles 3](https://kotaku.com/xenoblade-chronicles-3-digimon-survive-switch-jrpg-rele-1848821136)
+ - [Riot MMO producer vows not to ship the game if it&#39;s bad](https://www.pcgamer.com/riot-mmo-ship-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
