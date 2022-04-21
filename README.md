@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Verse sequel delayed to June 2023](https://www.theverge.com/2022/4/21/23035142/spider-man-across-the-spider-verse-sequel-delayed-june-2023)
- - [Poll: Should Netflix offer a cheaper, ad-supported plan?](https://www.androidauthority.com/netflix-cheaper-ad-supported-plan-poll-3155637/)
- - [Saudi Arabia-based Foodics, which offers restaurant management software including a cloud POS system, raises a $170M Series C &lpar;Saeed Azhar/Reuters&rpar;](http://www.techmeme.com/220421/p3#a220421p3)<!-- TECH:END -->
+ - [&#39;Rat in the Kitchen&#39; Is a Cooking Competition With an Unusual Twist     - CNET](https://www.cnet.com/culture/entertainment/rat-in-the-kitchen-is-a-cooking-competition-with-an-unusual-twist/#ftag=CAD590a51e)
+ - [Binance begins enforcing tougher KYC checks on Russian users with holdings exceeding &amp;euro;10,000, following further EU sanctions &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/220421/p4#a220421p4)
+ - [Spider-Verse sequel delayed to June 2023](https://www.theverge.com/2022/4/21/23035142/spider-man-across-the-spider-verse-sequel-delayed-june-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
