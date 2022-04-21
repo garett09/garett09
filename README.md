@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cal.com, which develops an open source meeting and event scheduling service, raises a $25M Series A led by Seven Seven Six and launches an app store and new API &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220420/p39#a220420p39)
- - [Nue Life Health, a startup building a mental health wellness platform integrating psychedelic-assisted therapies, raises a $23M Series A led by Obvious Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220420/p38#a220420p38)
- - [Apple expands feature that blurs iMessage nudity to UK, Canada, New Zealand, and Australia](https://appleinsider.com/articles/22/04/20/apple-expands-feature-that-blurs-imessage-nudity-for-kids-to-the-uk-canada?utm_medium=rss)<!-- TECH:END -->
+ - [Singapore-based Rario, a cricket NFTs marketplace that holds NFT rights to six international leagues and over 900 cricketers, raises $120M led by Dream Capital &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/220421/p1#a220421p1)
+ - [Women in Tech Gaining Ground in Leadership Roles, Encouraging Report Finds     - CNET](https://www.cnet.com/culture/women-in-tech-gaining-ground-in-leadership-roles-encouraging-report-finds/#ftag=CAD590a51e)
+ - [Dell G15 Gaming Laptop Goes Camo, Alienware Ships AMD-Refreshed Systems     - CNET](https://www.cnet.com/tech/computing/dell-g15-gaming-laptop-goes-camo-alienware-ships-amd-refreshed-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
