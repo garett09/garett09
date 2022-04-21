@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU is set to unveil the Digital Services Act, which bans targeting users based on religion, gender, and more, among other rules, on Friday &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220421/p7#a220421p7)
- - [Apple’s nudity-blurring Messages feature gets international release](https://www.theverge.com/2022/4/21/23035183/ios-messages-communication-safety-nudity-sexually-explicit-message-blurring)
- - [Swedish startup Instabox, an automated parcel locker service for e-commerce, raises $190M led by Verdane, bringing its total funding to $327M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220421/p6#a220421p6)<!-- TECH:END -->
+ - [Apple rolls out &#39;all-new&#39; Apple Maps for Germany &amp; Singapore](https://appleinsider.com/articles/22/04/21/apple-rolls-out-all-new-apple-maps-for-germany-singapore?utm_medium=rss)
+ - [The Unbearable Weight of Massive Talent Celebrates Cinema Itself](https://www.wired.com/story/unbearable-weight-massive-talent-essay)
+ - [Drones Have Transformed Blood Delivery in Rwanda](https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
