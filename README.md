@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excellent, excellent indeed](http://9gag.com/gag/a5124mE)
- - 🚯 [Just get a bigger mouth](http://9gag.com/gag/aE8DLmK)
+ - 🚖 [She&#39;s an office worker for 20 years now](http://9gag.com/gag/abgBPy9)
+ - 🚯 [Yes.](http://9gag.com/gag/adgemDN)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
