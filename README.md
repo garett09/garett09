@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is biznez](http://9gag.com/gag/azeR6RK)
- - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)
- - 🚯 [Their stocks went down the hill, for what reason according to you?](http://9gag.com/gag/aGz2K95)<!-- MEMES:END -->
+ - 🚖 [Paris is not France, and France is not Paris](http://9gag.com/gag/abgBPDL)
+ - 🚯 [We all are](http://9gag.com/gag/aZr2qPp)
+ - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)<!-- MEMES:END -->
 
 --- 
 
