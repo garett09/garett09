@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Dragonlance board game was designed by Rob Daviau and Stephen Baker](https://www.polygon.com/23036116/dnd-dragonlance-board-game-designed-by-rob-daviau-keith-baker-details-battle-masters)
- - [Choose or Die is a horror film about an evil game you should choose not to watch](https://www.pcgamer.com/choose-or-die-is-a-horror-film-about-an-evil-game-you-should-choose-not-to-watch)
- - [Why Lego Star Wars: The Skywalker Saga Is Selling Zillions Of Copies](https://kotaku.com/lego-star-wars-skywalker-saga-tt-games-popular-wb-ps5-x-1848825178)<!-- GAME:END -->
+ - [Godzilla and King Kong are Call of Duty: Warzone&#39;s next operators](https://www.pcgamer.com/godzilla-and-king-kong-are-call-of-duty-warzones-next-operators)
+ - [Tales from the Borderlands is coming back with a new game later this year](https://www.polygon.com/23036233/tales-from-the-borderlands-new-game-announced-gearbox)
+ - [16 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
