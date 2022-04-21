@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Statsig, which offers a cloud-based tool for companies to streamline A/B testing, raises a $43M Series B led by Sequoia Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220420/p33#a220420p33)
- - [Lexus finally reveals its all-electric RZ 450e SUV](https://www.theverge.com/2022/4/20/23034490/lexus-rz-450e-electric-suv-direct4-awd)
- - [Sources: Barack and Michelle Obama&#39;s production company Higher Ground will not be signing a new deal with Spotify, and is in talks with others like Audible &lpar;Bloomberg&rpar;](http://www.techmeme.com/220420/p32#a220420p32)<!-- TECH:END -->
+ - [ThreatLocker, which provides zero trust endpoint security for enterprises, raises a $100M Series C led by General Atlantic, and says it has over 23,000 clients &lpar;Steven Burke/CRN&rpar;](http://www.techmeme.com/220420/p35#a220420p35)
+ - [Rat in the Kitchen is a Cooking Competition with an Unusual Twist     - CNET](https://www.cnet.com/culture/entertainment/rat-in-the-kitchen-is-a-cooking-competition-with-an-unusual-twist/#ftag=CAD590a51e)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
