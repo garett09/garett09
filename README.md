@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI data-labeling companies like Appen profit from cheap labor in crisis-ridden countries like Venezuela to meet exploding demand &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/220421/p13#a220421p13)
- - [Brave is bypassing Google AMP pages because they’re ‘harmful to users’](https://www.theverge.com/2022/4/19/23032776/brave-de-amp-google-browser)
- - [OnePlus 10 specs leak: Faster charging than the OnePlus 10 Pro](https://www.androidauthority.com/oneplus-10-specs-3155776/)<!-- TECH:END -->
+ - [Adobe Frame.io adds Apple TV app, Filmic Pro integration](https://appleinsider.com/articles/22/04/21/adobe-frameio-adds-apple-tv-app-filmic-pro-integration?utm_medium=rss)
+ - [Hackers Are Getting Caught Exploiting New Bugs More Than Ever](https://www.wired.com/story/zero-day-exploits-vulnerabilities-google-mandiant)
+ - [Spotify opens up video podcasting to everyone in the US and select markets](https://www.theverge.com/2022/4/21/23035242/spotify-video-podcasts-launch-countries)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
