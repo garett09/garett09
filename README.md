@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: blockchain game companies raised $2.5B in Q1 2022, up 150% YoY; blockchain gaming accounted for 52% of all blockchain activity in March, up 2,000% YoY &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220421/p32#a220421p32)
- - [Instagram shuffles hashtag content in a new test that removes its ‘recent’ tab](https://www.theverge.com/2022/4/21/23032707/instagram-hashtag-chronological-algorithm-test-feature)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)<!-- TECH:END -->
+ - [Indian government data: Google Pay and Walmart-backed PhonePe have a combined 80%+ share in India&#39;s mobile payments market, WhatsApp has a 0.02% share &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/220421/p34#a220421p34)
+ - [Apple pulls the plug on macOS Server](https://appleinsider.com/articles/22/04/21/apple-pulls-the-plug-on-macos-server-officially-discontinuing-the-app?utm_medium=rss)
+ - [Valve upgrades its Steam Deck dock ahead of release, but we still don’t know how much it costs](https://www.theverge.com/2022/4/21/23036381/valve-official-steam-deck-dock-upgrades-usb-3-1-gigabit-ethernet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
