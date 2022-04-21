@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadowrun Trilogy Is Coming To Xbox, PlayStation And Switch](https://kotaku.com/shadowrun-trilogy-paradox-xbox-playstation-switch-ninte-1848821289)
- - [Digimon Survive Is Coming Out The Same Day As Xenoblade Chronicles 3](https://kotaku.com/xenoblade-chronicles-3-digimon-survive-switch-jrpg-rele-1848821136)
- - [Riot MMO producer vows not to ship the game if it&#39;s bad](https://www.pcgamer.com/riot-mmo-ship-2022)<!-- GAME:END -->
+ - [PC Game Pass Launches in Five New Countries in Southeast Asia](https://news.xbox.com/en-us/2022/04/20/pc-game-pass-launch-southeast-asia/)
+ - [AMD quietly launches entry-level Radeon RX 6400](https://www.pcgamer.com/amd-quietly-launches-entry-level-radeon-rx-6400)
+ - [Shadowrun Trilogy Is Coming To Xbox, PlayStation And Switch](https://kotaku.com/shadowrun-trilogy-paradox-xbox-playstation-switch-ninte-1848821289)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
