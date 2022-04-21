@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The true measure of human goodness](http://9gag.com/gag/aDDXA4N)
- - 🚯 [Experienced man cracks open a car door under a minute](http://9gag.com/gag/aAGXR3d)
- - 🚯 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)<!-- MEMES:END -->
+ - 🚖 [Experienced man cracks open a car door under a minute](http://9gag.com/gag/aAGXR3d)
+ - 🚯 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)
+ - 🚯 [Their stocks went down the hill, for what reason according to you?](http://9gag.com/gag/aGz2K95)<!-- MEMES:END -->
 
 --- 
 
