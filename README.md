@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s an office worker for 20 years now](http://9gag.com/gag/abgBPy9)
- - 🚯 [That&#39;s some mad talk for someone within crucifixion range.](http://9gag.com/gag/a112GK8)
+ - 🚖 [Heresay, your honor](http://9gag.com/gag/ay9RO9X)
+ - 🚯 [The lord of rings!](http://9gag.com/gag/aE8DLLG)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
