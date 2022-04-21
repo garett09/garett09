@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto mining company Crusoe Energy Systems, which uses excess natural gas typically burned as a waste product of oil extraction, raises a $505M Series C &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/220421/p27#a220421p27)
- - [Sony reportedly plans to put ads in PlayStation games](https://www.theverge.com/2022/4/21/23035875/sony-playstation-microsoft-games-in-game-ads)
- - [Casetify Star Wars collection review: The galaxy in the palm of your hand](https://appleinsider.com/articles/22/04/21/casetify-star-wars-collection-review-the-galaxy-in-the-palm-of-your-hand?utm_medium=rss)<!-- TECH:END -->
+ - [Live Bash, which lets artists livestream their performances and convert the shows into digital collectibles and NFTs, raises a $21M seed &lpar;Marc Wojno/ZDNet&rpar;](http://www.techmeme.com/220421/p29#a220421p29)
+ - [Hopes for small Android phones dashed by dismal US sales of iPhone 13 Mini](https://www.androidauthority.com/small-android-phones-iphone-13-mini-3155921/)
+ - [Asus drops two OLED Zenbooks and a new logo](https://www.theverge.com/2022/4/21/23035485/asus-zenbook-13-s-oled-pro-15-flip-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
