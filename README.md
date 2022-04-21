@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ThreatLocker, which provides zero trust endpoint security for enterprises, raises a $100M Series C led by General Atlantic, and says it has over 23,000 clients &lpar;Steven Burke/CRN&rpar;](http://www.techmeme.com/220420/p35#a220420p35)
- - [Rat in the Kitchen is a Cooking Competition with an Unusual Twist     - CNET](https://www.cnet.com/culture/entertainment/rat-in-the-kitchen-is-a-cooking-competition-with-an-unusual-twist/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cal.com, which develops an open source meeting and event scheduling service, raises a $25M Series A led by Seven Seven Six and launches an app store and new API &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220420/p39#a220420p39)
+ - [Nue Life Health, a startup building a mental health wellness platform integrating psychedelic-assisted therapies, raises a $23M Series A led by Obvious Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220420/p38#a220420p38)
+ - [Apple expands feature that blurs iMessage nudity to UK, Canada, New Zealand, and Australia](https://appleinsider.com/articles/22/04/20/apple-expands-feature-that-blurs-imessage-nudity-for-kids-to-the-uk-canada?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
