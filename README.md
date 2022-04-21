@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D Direct 2022: All the news and reveals from today’s Dungeons &amp; Dragons live event](https://www.polygon.com/23035433/dnd-direct-2022-live-news-wizards-of-the-coast-hasbro)
- - [Sojourn is a return to what makes Overwatch fun](https://www.pcgamer.com/sojourn-is-a-return-to-what-makes-overwatch-fun)
- - [Lightyear’s director set out to make adult sci-fi, not another animated movie about kids](https://www.polygon.com/23034598/lightyear-pixar-director-interview-early-press-day)<!-- GAME:END -->
+ - [Call of Duty: Vanguard and Warzone: Season 3 Classified Arms arrives April 27](https://blog.playstation.com/2022/04/21/call-of-duty-vanguard-and-warzone-season-3-classified-arms-arrives-april-27/)
+ - [Call of Duty: Vanguard and Warzone: Season 3 Classified Arms arrives April 27](https://blog.playstation.com/2022/04/21/call-of-duty-vanguard-and-warzone-season-3-classified-arms-arrives-april-27/)
+ - [Turning Red’s deleted debate scene would have changed the movie’s tone](https://www.polygon.com/23034517/turning-red-deleted-scene-debate-pixar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
