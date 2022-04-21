@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #306: Thursday, April 21](https://www.pcgamer.com/wordle-april-21-306-words-ending-in-ide)
- - [Check out this 30-second clip of Skate 4 in pre-alpha](https://www.pcgamer.com/check-out-this-30-second-clip-of-skate-4-in-pre-alpha)
- - [NASA uses Hololens to send holographic doctors into space](https://www.pcgamer.com/nasa-uses-hololens-to-send-holographic-doctors-into-space)<!-- GAME:END -->
+ - [Hunt: Showdown is introducing its most disruptive new enemy in years](https://www.pcgamer.com/hunt-showdown-is-introducing-its-most-disruptive-new-enemy-in-years)
+ - [This accessory is made to keep your Intel Alder Lake processor from bending](https://www.pcgamer.com/this-accessory-is-made-to-keep-your-intel-alder-lake-processor-from-bending)
+ - [Today&#39;s Wordle answer #306: Thursday, April 21](https://www.pcgamer.com/wordle-april-21-306-words-ending-in-ide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
