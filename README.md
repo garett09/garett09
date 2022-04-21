@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rimworld has been unbanned in Australia and is back on Steam](https://www.pcgamer.com/rimworld-has-been-unbanned-in-australia-and-is-back-on-steam)
- - [Hunt: Showdown is introducing its most disruptive new enemy in years](https://www.pcgamer.com/hunt-showdown-is-introducing-its-most-disruptive-new-enemy-in-years)
- - [This accessory is made to keep your Intel Alder Lake processor from bending](https://www.pcgamer.com/this-accessory-is-made-to-keep-your-intel-alder-lake-processor-from-bending)<!-- GAME:END -->
+ - [Lost Ark gets a battle pass, new class and new continent in its April update](https://www.pcgamer.com/lost-ark-gets-a-battle-pass-new-class-and-new-continent-in-its-april-update)
+ - [Chernobylite gets free &#39;Enhanced Edition&#39; update with ray-tracing and more](https://www.pcgamer.com/chernobylite-gets-free-enhanced-edition-update-with-ray-tracing-and-more)
+ - [I don’t replay Kingdom Hearts, I rewatch it on YouTube](https://www.polygon.com/23032368/kingdom-hearts-story-lore-youtube-cutscenes-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
