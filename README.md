@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now queue to purchase a PS5 direct from Sony](https://www.theverge.com/2022/4/21/23020823/sony-direct-playstation-ps5-digital-edition-restock-order-queue-sale)
- - [A bug in Google Messages might be draining your battery](https://www.theverge.com/2022/4/21/23036246/google-messages-battery-drain-power-fix)
- - [Google’s crackdown on third-party Android call recorders may finally be complete](https://www.theverge.com/2022/4/21/23036078/google-android-call-recording-apps-accessibility-loopholes-play-store-rules)<!-- TECH:END -->
+ - [Research: blockchain game companies raised $2.5B in Q1 2022, up 150% YoY; blockchain gaming accounted for 52% of all blockchain activity in March, up 2,000% YoY &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220421/p32#a220421p32)
+ - [Instagram shuffles hashtag content in a new test that removes its ‘recent’ tab](https://www.theverge.com/2022/4/21/23032707/instagram-hashtag-chronological-algorithm-test-feature)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
