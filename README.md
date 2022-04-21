@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If AMD&#39;s next APUs are faster than some of its discrete GPUs I&#39;m going to be a very happy PC gamer](https://www.pcgamer.com/amd-phoenix-apu-rumours)
- - [Digimon Survive will finally be released in July](https://www.polygon.com/23035458/digimon-survive-release-date-july)
- - [Free Play Days – Gonner 2, Monster Truck Championship, and The Elder Scrolls Online](https://news.xbox.com/en-us/2022/04/21/free-play-days-gonner-2-monster-truck-championship-and-the-elder-scrolls-online/)<!-- GAME:END -->
+ - [D&amp;D Direct 2022: All the news and reveals from today’s Dungeons &amp; Dragons live event](https://www.polygon.com/23035433/dnd-direct-2022-live-news-wizards-of-the-coast-hasbro)
+ - [Sojourn is a return to what makes Overwatch fun](https://www.pcgamer.com/sojourn-is-a-return-to-what-makes-overwatch-fun)
+ - [Lightyear’s director set out to make adult sci-fi, not another animated movie about kids](https://www.polygon.com/23034598/lightyear-pixar-director-interview-early-press-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
