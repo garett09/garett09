@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Dmitrievsky Chemical Plant near Moscow is on fire &amp; beyond saving. It\u2019s one of Russia\u2019s largest manufacturers of chemical solvents. The Aerospace Defence Research Institute in Tver burned down earlier in the day. We are starting to notice a pattern.](http://9gag.com/gag/aOQ1KVr)
- - 🚯 [For the love of god mummeh](http://9gag.com/gag/a91XbwK)
+ - 🚖 [The true measure of human goodness](http://9gag.com/gag/aDDXA4N)
+ - 🚯 [Experienced man cracks open a car door under a minute](http://9gag.com/gag/aAGXR3d)
  - 🚯 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)<!-- MEMES:END -->
 
 --- 
