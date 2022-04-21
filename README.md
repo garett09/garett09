@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m getting too old for this shit!](http://9gag.com/gag/aYrq9Wq)
- - 🚯 [Trust the science](http://9gag.com/gag/ajgZevx)
+ - 🚖 [Dear Sweden. Here in Finland, we gasing everybody who dont move when asking nicely, even peaceful ones. Ask twise, then put a little tear gas in the ass, allways works.](http://9gag.com/gag/aNP4Nq6)
+ - 🚯 [Excellent, excellent indeed](http://9gag.com/gag/a5124mE)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
