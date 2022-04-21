@@ -193,9 +193,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amber Turd. Husband beater, bed shitter, and the severer of fingers.](http://9gag.com/gag/aQXZYqw)
- - 🚯 [Poor Kathy at the end](http://9gag.com/gag/a31295v)
- - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
+ - 🚖 [This is biznez](http://9gag.com/gag/azeR6RK)
+ - 🚯 [Have to thank the people of Finland that the commie b@st@rds are just a small minority in their society. One big step towards Nato.](http://9gag.com/gag/aGzAPq0)
+ - 🚯 [Their stocks went down the hill, for what reason according to you?](http://9gag.com/gag/aGz2K95)<!-- MEMES:END -->
 
 --- 
 
