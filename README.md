@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark gets a battle pass, new class and new continent in its April update](https://www.pcgamer.com/lost-ark-gets-a-battle-pass-new-class-and-new-continent-in-its-april-update)
- - [Chernobylite gets free &#39;Enhanced Edition&#39; update with ray-tracing and more](https://www.pcgamer.com/chernobylite-gets-free-enhanced-edition-update-with-ray-tracing-and-more)
- - [I don’t replay Kingdom Hearts, I rewatch it on YouTube](https://www.polygon.com/23032368/kingdom-hearts-story-lore-youtube-cutscenes-movie)<!-- GAME:END -->
+ - [Spider-Man: Across the Spider-Verse delayed to June 2023](https://www.polygon.com/23035352/spider-man-across-the-spider-verse-delayed-spider-verse-2-release-date-miles-morales)
+ - [More Adventures Await Sailors Both New and Legendary in Sea of Thieves](https://news.xbox.com/en-us/2022/04/21/more-adventures-await-in-sea-of-thieves/)
+ - [Dragons: The Nine Realms returns this May with even more dragons](https://www.polygon.com/23032760/dragons-the-nine-realms-season-2-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
