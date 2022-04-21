@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NASA uses Hololens to send holographic doctors into space](https://www.pcgamer.com/nasa-uses-hololens-to-send-holographic-doctors-into-space)
- - [AMD&#39;s Epyc processors played a key role in Mercedes&#39; 2020 and 2021 F1 championship successes](https://www.pcgamer.com/amds-epyc-processors-played-a-key-role-in-mercedes-2020-and-2021-f1-championship-successes)
- - [PC Game Pass Launches in Five New Countries in Southeast Asia](https://news.xbox.com/en-us/2022/04/20/pc-game-pass-launch-southeast-asia/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #306: Thursday, April 21](https://www.pcgamer.com/wordle-april-21-306-words-ending-in-ide)
+ - [Check out this 30-second clip of Skate 4 in pre-alpha](https://www.pcgamer.com/check-out-this-30-second-clip-of-skate-4-in-pre-alpha)
+ - [NASA uses Hololens to send holographic doctors into space](https://www.pcgamer.com/nasa-uses-hololens-to-send-holographic-doctors-into-space)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
