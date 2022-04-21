@@ -179,9 +179,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Season Three Brings Classified Arms to Call of Duty: Vanguard and Call of Duty: Warzone](https://news.xbox.com/en-us/2022/04/21/season-three-call-of-duty-vanguard-and-warzone-announce/)
- - [Behind the Scenes of Creating Monsters for Deck of Ashes, Releasing Today on Xbox](https://news.xbox.com/en-us/2022/04/21/behind-the-scenes-of-creating-monsters-for-deck-of-ashes-releasing-today-on-xbox/)
- - [Halo Infinite gets a battle royale-like mode in Season 2 update](https://www.pcgamer.com/halo-infinite-gets-a-battle-royale-like-mode-in-season-2-update)<!-- GAME:END -->
+ - [Lumote: The Mastermote Chronicles Launches Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/21/lumote-the-mastermote-chronicles-launches-today-on-the-xbox-store/)
+ - [Halo Infinite season 2 getting King of the Hill and two more new game modes](https://www.polygon.com/23036025/halo-infinite-season-2-game-modes)
+ - [F1 22 launches on July 1](https://www.pcgamer.com/f1-22-launches-on-july-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
