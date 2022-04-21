@@ -193,7 +193,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was cute](http://9gag.com/gag/aRro5KG)
+ - 🚖 [Amber Turd. Husband beater, bed shitter, and the severer of fingers.](http://9gag.com/gag/aQXZYqw)
  - 🚯 [Poor Kathy at the end](http://9gag.com/gag/a31295v)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
