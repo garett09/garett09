@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Frame.io adds Apple TV app, Filmic Pro integration](https://appleinsider.com/articles/22/04/21/adobe-frameio-adds-apple-tv-app-filmic-pro-integration?utm_medium=rss)
- - [Hackers Are Getting Caught Exploiting New Bugs More Than Ever](https://www.wired.com/story/zero-day-exploits-vulnerabilities-google-mandiant)
- - [Spotify opens up video podcasting to everyone in the US and select markets](https://www.theverge.com/2022/4/21/23035242/spotify-video-podcasts-launch-countries)<!-- TECH:END -->
+ - [Earth Day 2022: best eco-friendly iPhone, AirPods, iPad, smart home accessories](https://appleinsider.com/inside/iphone/best/best-eco-friendly-accessories?utm_medium=rss)
+ - [Amazon announces the $1B Industrial Innovation Fund to back companies of all stages developing customer fulfillment, logistics, and supply chain technologies &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220421/p18#a220421p18)
+ - [Razer’s Leviathan V2 is a great-sounding soundbar trapped on PC](https://www.theverge.com/23033515/razer-leviathan-v2-pc-soundbar-system-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
