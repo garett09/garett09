@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earth Day 2022: best eco-friendly iPhone, AirPods, iPad, smart home accessories](https://appleinsider.com/inside/iphone/best/best-eco-friendly-accessories?utm_medium=rss)
- - [Amazon announces the $1B Industrial Innovation Fund to back companies of all stages developing customer fulfillment, logistics, and supply chain technologies &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220421/p18#a220421p18)
- - [Razer’s Leviathan V2 is a great-sounding soundbar trapped on PC](https://www.theverge.com/23033515/razer-leviathan-v2-pc-soundbar-system-review)<!-- TECH:END -->
+ - [Meta COO Sheryl Sandberg accused of squashing reporting about then-boyfriend Bobby Kotick](https://www.theverge.com/2022/4/21/23035547/meta-sheryl-sandberg-bobby-kotick-daily-mail-reporting)
+ - [CNN Plus is shutting down only a month after it launched](https://www.theverge.com/2022/4/21/23035703/cnn-plus-shutting-down)
+ - [Check out NASA’s latest footage of a solar eclipse on Mars](https://www.theverge.com/2022/4/21/23035514/nasa-perseverance-rover-mars-eclipse-phobos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
