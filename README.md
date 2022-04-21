@@ -186,9 +186,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabia-based Foodics, which offers restaurant management software including a cloud POS system, raises a $170M Series C &lpar;Saeed Azhar/Reuters&rpar;](http://www.techmeme.com/220421/p3#a220421p3)
  - [iOS users can now switch to Android with a Google-made iPhone app &lpar;Updated&rpar;](https://www.androidauthority.com/switch-to-android-ios-app-3152968/)
- - [Amazon unveils Buy with Prime, which lets third-party merchants use Amazon&#39;s shipping and logistics network to fulfill orders on their own sites &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220421/p2#a220421p2)
- - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)<!-- TECH:END -->
+ - [Amazon unveils Buy with Prime, which lets third-party merchants use Amazon&#39;s shipping and logistics network to fulfill orders on their own sites &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220421/p2#a220421p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
