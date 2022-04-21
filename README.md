@@ -193,8 +193,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We won&#39;t judge you.](http://9gag.com/gag/a212ny1)
- - 🚯 [Excellent, excellent indeed](http://9gag.com/gag/a5124mE)
+ - 🚖 [Excellent, excellent indeed](http://9gag.com/gag/a5124mE)
+ - 🚯 [Just get a bigger mouth](http://9gag.com/gag/aE8DLmK)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a21Dxye)<!-- MEMES:END -->
 
 --- 
