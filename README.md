@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian government data: Google Pay and Walmart-backed PhonePe have a combined 80%+ share in India&#39;s mobile payments market, WhatsApp has a 0.02% share &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/220421/p34#a220421p34)
- - [Apple pulls the plug on macOS Server](https://appleinsider.com/articles/22/04/21/apple-pulls-the-plug-on-macos-server-officially-discontinuing-the-app?utm_medium=rss)
- - [Valve upgrades its Steam Deck dock ahead of release, but we still don’t know how much it costs](https://www.theverge.com/2022/4/21/23036381/valve-official-steam-deck-dock-upgrades-usb-3-1-gigabit-ethernet)<!-- TECH:END -->
+ - [Teenage Engineering’s latest audio device invites you to turn its knobs](https://www.theverge.com/2022/4/21/23036369/teenage-engineering-tx-6-mixer-portable-knobs)
+ - [How to quote in Reddit on any device](https://www.androidauthority.com/how-to-quote-reddit-3155115/)
+ - [These 5 MacBook Pro 16-inch models are in stock, up to $280 off with AppleCare](https://appleinsider.com/articles/22/04/22/these-5-macbook-pro-16-inch-models-are-in-stock-up-to-280-off-with-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
