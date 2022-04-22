@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after churning out 500+ original programs last year, Netflix is looking to add fewer new titles and focus more on quality, while reining in spending &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/220422/p4#a220422p4)
- - [Best Robot Vacuum Deals: Save $300 on a Deebot T8, $200 on Roomba S9 Plus     - CNET](https://www.cnet.com/home/kitchen-%26-household/best-robot-vacuum-deals/#ftag=CAD590a51e)
- - [The Best PS4 Games for 2022     - CNET](https://www.cnet.com/tech/gaming/the-best-ps4-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter tries harder to promote third-party safety tools](https://www.theverge.com/2022/4/22/23036956/twitter-toolbox-apps-promote-safety-block-mute-accounts-platform)
+ - [You told us: Here’s what you’ll do when an ad-supported Netflix plan arrives](https://www.androidauthority.com/netflix-ad-supported-plan-poll-results-3156122/)
+ - [Sources: after churning out 500+ original programs last year, Netflix is looking to add fewer new titles and focus more on quality, while reining in spending &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/220422/p4#a220422p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
