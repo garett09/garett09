@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Elon Musk convinced Morgan Stanley and other banks to back his Twitter bid, including by offering his ideas on boosting Twitter&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/220422/p22#a220422p22)
- - [Everything you hate about Apple could change thanks to leaked EU bill](https://www.androidauthority.com/eu-dma-bill-3156420/)
- - [Twitter bans ‘misleading’ ads about climate change](https://www.theverge.com/2022/4/22/23037677/twitter-bans-climate-change-misinformation-ads)<!-- TECH:END -->
+ - [How to crosspost on Reddit](https://www.androidauthority.com/crossposting-reddit-3156416/)
+ - [Coinbase CEO accuses Apple of antitrust behavior, calls for crypto-compatible phones](https://appleinsider.com/articles/22/04/22/coinbase-ceo-accuses-apple-of-antitrust-behavior-calls-for-crypo-compatible-phones?utm_medium=rss)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 22&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
