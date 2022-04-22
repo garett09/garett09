@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The circle of life](http://9gag.com/gag/aQX2qd8)
- - 🚯 [Neat Prank](http://9gag.com/gag/aBnXREA)
- - 🚯 [This offer will not be made again](http://9gag.com/gag/a0ZE88z)<!-- MEMES:END -->
+ - 🚖 [Lady Hen-na the VII of the chicken kingdom.](http://9gag.com/gag/aZr2P40)
+ - 🚯 [This offer will not be made again](http://9gag.com/gag/a0ZE88z)
+ - 🚯 [Netflix and chill..](http://9gag.com/gag/aOQ1yGR)<!-- MEMES:END -->
 
 --- 
 
