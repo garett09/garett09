@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This](http://9gag.com/gag/azeZrbq)
+ - 🚖 [Two friends having some fun on the slide](http://9gag.com/gag/aYr1L1V)
  - 🚯 [Words of wisdom](http://9gag.com/gag/angDBnn)
  - 🚯 [That burn](http://9gag.com/gag/aPZXD7G)<!-- MEMES:END -->
 
