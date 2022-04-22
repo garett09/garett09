@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Mate XS 2 is coming: Not your typical Galaxy Z Fold rival?](https://www.androidauthority.com/huawei-mate-xs-2-3155651/)
- - [Mandiant: one-third of all hacker groups exploiting zero-days in 2021 were financially motivated criminals as opposed to government-backed cyberespionage groups &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220422/p3#a220422p3)
- - [PAX East 2022: The 6 Most Exciting Games To Check Out     - CNET](https://www.cnet.com/tech/gaming/pax-east-2022-the-6-most-exciting-games-to-check-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: after churning out 500+ original programs last year, Netflix is looking to add fewer new titles and focus more on quality, while reining in spending &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/220422/p4#a220422p4)
+ - [Best Robot Vacuum Deals: Save $300 on a Deebot T8, $200 on Roomba S9 Plus     - CNET](https://www.cnet.com/home/kitchen-%26-household/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [The Best PS4 Games for 2022     - CNET](https://www.cnet.com/tech/gaming/the-best-ps4-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
