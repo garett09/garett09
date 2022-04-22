@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its that little thing that matters](http://9gag.com/gag/aRr2PGB)
- - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)
- - 🚯 [Do You Ever Look at Someone and Wonder, `What Is Going On Inside Their Head?`](http://9gag.com/gag/aDDX3p9)<!-- MEMES:END -->
+ - 🚖 [Johnny Depp explaining his finger injury to children in 2015](http://9gag.com/gag/aLvXBzx)
+ - 🚯 [A girl on Tinder liked me. So I matched her. I have never texted any tinder match, because I always chicken out. Today I though, to hell with that, what&#39;s the worst that could happen? So I texted `Hey` to her, she replied with this gif:](http://9gag.com/gag/ajgKAjw)
+ - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)<!-- MEMES:END -->
 
 --- 
 
