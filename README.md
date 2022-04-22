@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now buy a Framework mainboard and turn it into the weird computer of your dreams](https://www.theverge.com/2022/4/22/23037156/framework-mainboard-marketplace-intel)
- - [Glide, a no-code service that lets businesses create apps based on Google Sheets, Excel, or Airtable, raises a $20M Series A led by Benchmark &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220422/p13#a220422p13)
- - [CERN’s particle accelerator starts up after a three-year hiatus](https://www.theverge.com/2022/4/22/23037077/cern-particle-accelerator-restarts-upgrades-dark-matter)<!-- TECH:END -->
+ - [Fantasy Heroes Rarely Go on Strike](https://www.wired.com/2022/04/fantasy-heroes-strike)
+ - [Apple Cash virtual debit cards may be switching from Discover to Visa](https://www.theverge.com/2022/4/22/23037188/apple-cash-debit-cards-discover-visa-payments)
+ - [Stubby SD cards are back](https://www.theverge.com/2022/4/22/23037196/transcend-jetdrive-lite-330-apple-macbook-pro-sd-card-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
