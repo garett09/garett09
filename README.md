@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the truth my boy](http://9gag.com/gag/avAvPeM)
- - 🚯 [CNC-Lathe machine programmed to sharpen worker&#39;s pencil &lpar;when boss is away&rpar;.](http://9gag.com/gag/a71NdYA)
- - 🚯 [I will be enlisting as a medic for the legion.](http://9gag.com/gag/aLvX2vA)<!-- MEMES:END -->
+ - 🚖 [This](http://9gag.com/gag/azeZrbq)
+ - 🚯 [Words of wisdom](http://9gag.com/gag/angDBnn)
+ - 🚯 [That burn](http://9gag.com/gag/aPZXD7G)<!-- MEMES:END -->
 
 --- 
 
