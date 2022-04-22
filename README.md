@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When Demon Slayer season 3 comes out, based on everything we know](https://www.polygon.com/23032963/demon-slayer-season-3-everything-we-know)
- - [Soulslike ARPG Achilles: Legends Untold hits Early Access soon](https://www.pcgamer.com/soulslike-arpg-achilles-legends-untold-hits-early-access-soon)
- - [Save $400 on this quality RTX 3060 HP Omen laptop](https://www.pcgamer.com/save-dollar400-on-this-quality-rtx-3060-hp-omen-laptop)<!-- GAME:END -->
+ - [Cohors Cthulhu tabletop RPG brings cosmic horror to the edge of the Roman Empire](https://www.polygon.com/tabletop-games/23036437/cohors-cthulhu-tabletop-rpg-wargame-modiphius-announcement-release-date-price)
+ - [Splatoon 3 splats on Switch in September](https://www.polygon.com/23037099/splatoon-3-release-date-nintendo-switch)
+ - [Have a phone with a camera? You can make games](https://www.polygon.com/23030376/downpour-flatgames-game-design-tool-v-buckenham)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
