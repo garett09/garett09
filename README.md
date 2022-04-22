@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s budget-friendly Smart Thermostat is on sale for its best price yet](https://www.theverge.com/good-deals/2022/4/22/23035493/amazon-smart-thermostat-apple-mac-mini-anker-google-nest-ipad-deal-sale)
- - [Agility Robotics, which is developing bipedal warehouse robots, raises a $150M Series B from DCVC, Playground Global, Amazon Industrial Innovation Fund, others &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220422/p18#a220422p18)
- - [Samsung may ditch the Galaxy Watch 5 Classic model](https://www.androidauthority.com/samsung-galaxy-watch-5-classic-3156322/)<!-- TECH:END -->
+ - [Twitter bans ads that promote climate change denial and contradict &quot;scientific consensus&quot; &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220422/p19#a220422p19)
+ - [Samsung getting rid of the rotating bezel would be a stupid, stupid, stupid idea](https://www.theverge.com/2022/4/22/23037285/samsung-galaxy-watch-5-rotating-bezel)
+ - [Beanstalk founders dismissed concerns about governance attacks before losing $182 million](https://www.theverge.com/2022/4/22/23037325/beanstalk-dismissed-governance-attacks-lost-182-million)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
