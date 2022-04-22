@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pika pika](http://9gag.com/gag/a0ZELWL)
- - 🚯 [Can&#39;t expect me to keep this shit up](http://9gag.com/gag/aAGXr5R)
- - 🚯 [Can&#39;t find that one video guys](http://9gag.com/gag/a31Wdg3)<!-- MEMES:END -->
+ - 🚖 [Thus happened in 2015 in Alphen &lpar;Netherlands&rpar; when they were trying to install a new bridge segment.](http://9gag.com/gag/a61pyRR)
+ - 🚯 [&lpar;G&rpar;Old joke](http://9gag.com/gag/a31W3Xr)
+ - 🚯 [Johnny depp](http://9gag.com/gag/aKmYPGN)<!-- MEMES:END -->
 
 --- 
 
