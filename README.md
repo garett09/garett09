@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)
- - 🚯 [Aged like fine wine](http://9gag.com/gag/a81w443)
- - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)<!-- MEMES:END -->
+ - 🚖 [This is the truth my boy](http://9gag.com/gag/avAvPeM)
+ - 🚯 [CNC-Lathe machine programmed to sharpen worker&#39;s pencil &lpar;when boss is away&rpar;.](http://9gag.com/gag/a71NdYA)
+ - 🚯 [I will be enlisting as a medic for the legion.](http://9gag.com/gag/aLvX2vA)<!-- MEMES:END -->
 
 --- 
 
