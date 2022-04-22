@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to crosspost on Reddit](https://www.androidauthority.com/crossposting-reddit-3156416/)
- - [Coinbase CEO accuses Apple of antitrust behavior, calls for crypto-compatible phones](https://appleinsider.com/articles/22/04/22/coinbase-ceo-accuses-apple-of-antitrust-behavior-calls-for-crypo-compatible-phones?utm_medium=rss)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 22&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [NRLB rules that 21 QA employees from Activision-Blizzard&#39;s Raven Software unit will be allowed to have a union vote; they have until May 20 to submit ballots &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220422/p24#a220422p24)
+ - [9 shows like Anatomy of a Scandal: What to watch after the Netflix miniseries](https://www.androidauthority.com/shows-like-anatomy-of-a-scandal-netflix-3156022/)
+ - [As of Friday, Netflix&#39;s market cap is $99.2B, after passing $300B in November; Meta briefly passed $1T in market cap in November but is now down to $532.6B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220422/p23#a220422p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
