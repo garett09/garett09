@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei Mate XS 2 is coming: Not your typical Galaxy Z Fold rival?](https://www.androidauthority.com/huawei-mate-xs-2-3155651/)
  - [Mandiant: one-third of all hacker groups exploiting zero-days in 2021 were financially motivated criminals as opposed to government-backed cyberespionage groups &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220422/p3#a220422p3)
- - [PAX East 2022: The 6 Most Exciting Games To Check Out     - CNET](https://www.cnet.com/tech/gaming/pax-east-2022-the-6-most-exciting-games-to-check-out/#ftag=CAD590a51e)
- - [Google made a tasty cookie change in Europe that we need across the web](https://www.androidauthority.com/google-reject-all-cookies-3156086/)<!-- TECH:END -->
+ - [PAX East 2022: The 6 Most Exciting Games To Check Out     - CNET](https://www.cnet.com/tech/gaming/pax-east-2022-the-6-most-exciting-games-to-check-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
