@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t expect me to keep this shit up](http://9gag.com/gag/aAGXr5R)
- - 🚯 [&lpar;G&rpar;Old joke](http://9gag.com/gag/a31W3Xr)
- - 🚯 [How are they not scared?](http://9gag.com/gag/a61pL7b)<!-- MEMES:END -->
+ - 🚖 [How are they not scared?](http://9gag.com/gag/a61pL7b)
+ - 🚯 [What would you do...](http://9gag.com/gag/aAGXrn9)
+ - 🚯 [I am going to try for sobriety for 30 days minimum. I\u2019ve been addicted to weed for 10 years. This ends now](http://9gag.com/gag/a41qLWA)<!-- MEMES:END -->
 
 --- 
 
