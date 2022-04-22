@@ -198,8 +198,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A very versatile sofa](http://9gag.com/gag/aAGXVvL)
- - 🚯 [F**k around, find out](http://9gag.com/gag/aWg20Lx)
- - 🚯 [Telling them you just don&#39;t care is what they fear most](http://9gag.com/gag/awz4Kr8)<!-- MEMES:END -->
+ - 🚯 [Guy repeatedly bothers Mike Tyson on a JetBlue flight, gets what he deserves.](http://9gag.com/gag/aBnXKVz)
+ - 🚯 [If you get a wet toothbrush and pet a cat it, it supposedly reminds them getting clean by their mother](http://9gag.com/gag/aGz2VzZ)<!-- MEMES:END -->
 
 --- 
 
