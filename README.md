@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo of America Contractors Who Feel Like Second Class Workers](https://kotaku.com/nintendo-america-switch-employee-treatment-unionize-nlr-1848828975)
- - [Nintendo Switch Online adds 3 Sega Genesis classics, including Sonic’s pinball game](https://www.polygon.com/23037142/nintendo-switch-online-new-sega-genesis-games-sonic-spinball)
- - [I Marie Kondo’d my entire internet presence, one account at a time](https://www.polygon.com/23015543/marie-kondo-erase-internet-presence-delete-accounts-inbox-zero)<!-- GAME:END -->
+ - [Mikasa roars into battle in a new clip from the English dub of Attack on Titan Final Season Part 2](https://www.polygon.com/2022/4/22/23035471/attack-on-titan-final-season-part-2-english-dub-mikasa-battle-clip)
+ - [Piepacker aims to be the ‘Game Boy of the cloud gaming space’](https://www.polygon.com/23036462/piepacker-cloud-gaming-nintendo-snk)
+ - [Nintendo Switch Joy-Con Repair Center Was Constantly Overwhelmed, Claims Former Supervisor](https://kotaku.com/nintendo-switch-joy-con-drift-fix-repair-center-replace-1848828886)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
