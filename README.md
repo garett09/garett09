@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #307: Friday, April 22](https://www.pcgamer.com/wordle-april-22-307)
  - [Celebrate Earth Day with Team Xbox](https://news.xbox.com/en-us/2022/04/22/celebrate-earth-day-with-team-xbox/)
- - [TSMC founder Morris Chang believes US based chip production will be an &#39;exercise in futility&#39;](https://www.pcgamer.com/tsmc-founder-morris-chang-believes-us-based-chip-production-will-be-an-exercise-in-futility)
- - [D&amp;D is bringing back Spelljammer and Dragonlance](https://www.pcgamer.com/dandd-is-bringing-back-spelljammer-and-dragonlance)<!-- GAME:END -->
+ - [TSMC founder Morris Chang believes US based chip production will be an &#39;exercise in futility&#39;](https://www.pcgamer.com/tsmc-founder-morris-chang-believes-us-based-chip-production-will-be-an-exercise-in-futility)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
