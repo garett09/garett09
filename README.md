@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best AIO cooler for CPUs](https://www.pcgamer.com/best-aio-cooler-for-cpus)
- - [The best USB Wi-Fi adapter in 2022](https://www.pcgamer.com/best-usb-wi-fi-adapter)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
+ - [Turbo Overkill delivers true FPS innovation: a chainsaw leg](https://www.pcgamer.com/turbo-overkill-delivers-true-fps-innovation-a-chainsaw-leg)
+ - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)
+ - [Sonic Origins Has Some Of The Dumbest DLC I Have Ever Seen](https://kotaku.com/sonic-origins-preorder-dlc-bad-terrible-sega-digital-de-1848826935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
