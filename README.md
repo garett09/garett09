@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny depp](http://9gag.com/gag/aKmYPGN)
- - 🚯 [Guy repeatedly bothers Mike Tyson on a JetBlue flight, gets what he deserves.](http://9gag.com/gag/aBnXKVz)
- - 🚯 [If you get a wet toothbrush and pet a cat it, it supposedly reminds them getting clean by their mother](http://9gag.com/gag/aGz2VzZ)<!-- MEMES:END -->
+ - 🚖 [Netflix and chill..](http://9gag.com/gag/aOQ1yGR)
+ - 🚯 [Can&#39;t find that one video guys](http://9gag.com/gag/a31Wdg3)
+ - 🚯 [Johnny depp](http://9gag.com/gag/aKmYPGN)<!-- MEMES:END -->
 
 --- 
 
