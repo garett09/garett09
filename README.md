@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turbo Overkill delivers true FPS innovation: a chainsaw leg](https://www.pcgamer.com/turbo-overkill-delivers-true-fps-innovation-a-chainsaw-leg)
- - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)
- - [Sonic Origins Has Some Of The Dumbest DLC I Have Ever Seen](https://kotaku.com/sonic-origins-preorder-dlc-bad-terrible-sega-digital-de-1848826935)<!-- GAME:END -->
+ - [D&amp;D is bringing back Spelljammer and Dragonlance](https://www.pcgamer.com/dandd-is-bringing-back-spelljammer-and-dragonlance)
+ - [Nike&#39;s Official Hello Kitty Sneakers Are Perfect](https://kotaku.com/nike-hello-kitty-sanrio-air-presto-drop-sneaker-release-1848827280)
+ - [PlayStation&#39;s Gender Discrimination Lawsuit Dismissed By Court](https://kotaku.com/playstation-sony-gender-discrimination-lawsuit-court-ca-1848827387)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
