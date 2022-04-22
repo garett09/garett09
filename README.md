@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #307: Friday, April 22](https://www.pcgamer.com/wordle-april-22-307)
- - [Celebrate Earth Day with Team Xbox](https://news.xbox.com/en-us/2022/04/22/celebrate-earth-day-with-team-xbox/)
- - [TSMC founder Morris Chang believes US based chip production will be an &#39;exercise in futility&#39;](https://www.pcgamer.com/tsmc-founder-morris-chang-believes-us-based-chip-production-will-be-an-exercise-in-futility)<!-- GAME:END -->
+ - [When Demon Slayer season 3 comes out, based on everything we know](https://www.polygon.com/23032963/demon-slayer-season-3-everything-we-know)
+ - [Soulslike ARPG Achilles: Legends Untold hits Early Access soon](https://www.pcgamer.com/soulslike-arpg-achilles-legends-untold-hits-early-access-soon)
+ - [Save $400 on this quality RTX 3060 HP Omen laptop](https://www.pcgamer.com/save-dollar400-on-this-quality-rtx-3060-hp-omen-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
