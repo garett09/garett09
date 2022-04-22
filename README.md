@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Unbearable Weight of Massive Talent works for Nic Cage in ways no one expected](https://www.polygon.com/22983530/the-unbearable-weight-of-massive-talent-review-nicolas-cage)
- - [Keeping Storytelling Alive: Localization and Legacy in Vampire the Masquerade](https://news.xbox.com/en-us/2022/04/22/keeping-storytelling-alive-localization-and-legacy-in-vampire-the-masquerade/)
- - [F1 22 promises more glitz and glamour as fans worry it means microtransactions](https://www.polygon.com/23037588/f1-22-release-date-tracks-sprint-races-trailer)<!-- GAME:END -->
+ - [Mokoko X Revives the Old Beloved Arcade Genre Today](https://news.xbox.com/en-us/2022/04/22/mokoko-x-revives-the-old-beloved-arcade-genre-today/)
+ - [Report: Netflix Doubles Down On Games As Stock Plummets](https://kotaku.com/netflix-games-exploding-kittens-stock-2022-subscribers-1848831119)
+ - [Vinland Saga is a powerful twist on a conventional Viking revenge story](https://www.polygon.com/23032698/vinland-saga-anime-the-northman-viking-revenge-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
