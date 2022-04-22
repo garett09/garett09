@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 3 is finally getting crossplay support with PlayStation consoles](https://www.theverge.com/2022/4/22/23037661/borderlands-3-crossplay-playstation)
- - [Mendel, which parses unstructured data from medical records and clinical literature to produce data for research, raises a $40M Series B led by Oak HC/FT &lpar;Rebecca Torrence/Fierce Healthcare&rpar;](http://www.techmeme.com/220422/p20#a220422p20)
- - [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5 million private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)<!-- TECH:END -->
+ - [Sources detail how Elon Musk convinced Morgan Stanley and other banks to back his Twitter bid, including by offering his ideas on boosting Twitter&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/220422/p22#a220422p22)
+ - [Everything you hate about Apple could change thanks to leaked EU bill](https://www.androidauthority.com/eu-dma-bill-3156420/)
+ - [Twitter bans ‘misleading’ ads about climate change](https://www.theverge.com/2022/4/22/23037677/twitter-bans-climate-change-misinformation-ads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
