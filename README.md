@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I will be enlisting as a medic for the legion.](http://9gag.com/gag/aLvX2vA)
- - 🚯 [Strange women lying in ponds\u00a0distributing swords is no basis for a system of government. - Bloody Peasant](http://9gag.com/gag/aKmYBDg)
- - 🚯 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)<!-- MEMES:END -->
+ - 🚖 [Its that little thing that matters](http://9gag.com/gag/aRr2PGB)
+ - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)
+ - 🚯 [Do You Ever Look at Someone and Wonder, `What Is Going On Inside Their Head?`](http://9gag.com/gag/aDDX3p9)<!-- MEMES:END -->
 
 --- 
 
