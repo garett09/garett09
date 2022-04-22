@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady Hen-na the VII of the chicken kingdom.](http://9gag.com/gag/aZr2P40)
- - 🚯 [This offer will not be made again](http://9gag.com/gag/a0ZE88z)
- - 🚯 [Netflix and chill..](http://9gag.com/gag/aOQ1yGR)<!-- MEMES:END -->
+ - 🚖 [That&#39;s right Becky, I mean Brian](http://9gag.com/gag/aqGzZ0M)
+ - 🚯 [Johnny Depp has never watched Pirates of the Caribbean](http://9gag.com/gag/aXr2brz)
+ - 🚯 [F**k around, find out](http://9gag.com/gag/aWg20Lx)<!-- MEMES:END -->
 
 --- 
 
