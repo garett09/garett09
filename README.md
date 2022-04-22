@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How are they not scared?](http://9gag.com/gag/a61pL7b)
- - 🚯 [What would you do...](http://9gag.com/gag/aAGXrn9)
- - 🚯 [I am going to try for sobriety for 30 days minimum. I\u2019ve been addicted to weed for 10 years. This ends now](http://9gag.com/gag/a41qLWA)<!-- MEMES:END -->
+ - 🚖 [I will be enlisting as a medic for the legion.](http://9gag.com/gag/aLvX2vA)
+ - 🚯 [Strange women lying in ponds\u00a0distributing swords is no basis for a system of government. - Bloody Peasant](http://9gag.com/gag/aKmYBDg)
+ - 🚯 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)<!-- MEMES:END -->
 
 --- 
 
