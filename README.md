@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter bans ads that promote climate change denial and contradict &quot;scientific consensus&quot; &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220422/p19#a220422p19)
- - [Samsung getting rid of the rotating bezel would be a stupid, stupid, stupid idea](https://www.theverge.com/2022/4/22/23037285/samsung-galaxy-watch-5-rotating-bezel)
- - [Beanstalk founders dismissed concerns about governance attacks before losing $182 million](https://www.theverge.com/2022/4/22/23037325/beanstalk-dismissed-governance-attacks-lost-182-million)<!-- TECH:END -->
+ - [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5 million private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
+ - [You can make Netflix forget](https://www.theverge.com/2022/4/22/23037360/netflix-forget-button-streaming)
+ - [Prime Video: The 43 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-43-best-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
