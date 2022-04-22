@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Experienced man cracks open a car door under a minute](http://9gag.com/gag/aAGXR3d)
- - 🚯 [I\u2019ll do it again](http://9gag.com/gag/aYr1j5m)
- - 🚯 [Their stocks went down the hill, for what reason according to you?](http://9gag.com/gag/aGz2K95)<!-- MEMES:END -->
+ - 🚖 [Johnny Depp spoke about when he received pictures of human fecal matter on his side of the bed](http://9gag.com/gag/angEAVV)
+ - 🚯 [The circle of life](http://9gag.com/gag/aQX2qd8)
+ - 🚯 [Savage Mr. Depp](http://9gag.com/gag/avAv08q)<!-- MEMES:END -->
 
 --- 
 
