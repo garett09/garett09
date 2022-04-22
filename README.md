@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her sister was always playful around me, but now she&#39;s calling me bae and sending me her bikini pics and i dont know what to do](http://9gag.com/gag/aLvX2Y5)
- - 🚯 [I am going to try for sobriety for 30 days minimum. I\u2019ve been addicted to weed for 10 years. This ends now](http://9gag.com/gag/a41qLWA)
- - 🚯 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)<!-- MEMES:END -->
+ - 🚖 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)
+ - 🚯 [Aged like fine wine](http://9gag.com/gag/a81w443)
+ - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)<!-- MEMES:END -->
 
 --- 
 
