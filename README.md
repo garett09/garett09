@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum scaling project Polygon launches a dedicated blockchain network called Supernets and says it will invest $100M in initiatives that use it &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220422/p12#a220422p12)
- - [A group of 18 House Republicans asks Twitter&#39;s board to preserve all records related to Musk&#39;s bid, setting up a potential probe if GOP wins back the majority &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220422/p11#a220422p11)
- - [Splatoon 3 is coming to the Switch in September](https://www.theverge.com/2022/4/22/23037098/splatoon-3-nintendo-switch-release-date)<!-- TECH:END -->
+ - [You can now buy a Framework mainboard and turn it into the weird computer of your dreams](https://www.theverge.com/2022/4/22/23037156/framework-mainboard-marketplace-intel)
+ - [Glide, a no-code service that lets businesses create apps based on Google Sheets, Excel, or Airtable, raises a $20M Series A led by Benchmark &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220422/p13#a220422p13)
+ - [CERN’s particle accelerator starts up after a three-year hiatus](https://www.theverge.com/2022/4/22/23037077/cern-particle-accelerator-restarts-upgrades-dark-matter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
