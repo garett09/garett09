@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prezent.ai, which offers an AI-powered presentation creation tool for companies, raises a $20M Series A led by Greycroft at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220421/p43#a220421p43)
- - [NexHealth, which operates an EHR-integrated real-time scheduling platform for doctors, raises a $125M Series C led by Buckley Ventures at a $1B valuation &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220421/p42#a220421p42)
- - [Reify Health, which makes cloud-based tools for clinical trial research, raises a $220M Series D co-led by Altimeter Capital and Coatue at a $4.8B+ valuation &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/220421/p41#a220421p41)<!-- TECH:END -->
+ - [Levels, whose software pairs glucose monitors to its app to give users insights and track their metabolic health, raises a $38M Series A at a $300M valuation &lpar;Rebecca Torrence/Fierce Healthcare&rpar;](http://www.techmeme.com/220422/p1#a220422p1)
+ - [Prezent.ai, which offers companies an AI presentation creation tool and gamified learning courses, raises a $20M Series A led by Greycroft at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220421/p43#a220421p43)
+ - [&#39;Jiggle Jiggle&#39; Explained: Everything to Know About Louis Theroux&#39;s Rap     - CNET](https://www.cnet.com/culture/internet/jiggle-jiggle-explained-everything-to-know-about-louis-therouxs-rap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
