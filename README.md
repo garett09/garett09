@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: April 25 to 29](https://news.xbox.com/en-us/2022/04/22/next-week-on-xbox-april-25-to-29/)
- - [Murder mystery game company Hunt A Killer sees layoffs following pandemic boom](https://www.polygon.com/23037110/hunt-a-killer-murder-mystery-board-game-subscription-layoffs)
- - [Halo Infinite&#39;s first season has been an awkward mess](https://www.pcgamer.com/halo-infinites-first-season-has-been-an-awkward-mess)<!-- GAME:END -->
+ - [The Nintendo of America Contractors Who Feel Like Second Class Workers](https://kotaku.com/nintendo-america-switch-employee-treatment-unionize-nlr-1848828975)
+ - [Nintendo Switch Online adds 3 Sega Genesis classics, including Sonic’s pinball game](https://www.polygon.com/23037142/nintendo-switch-online-new-sega-genesis-games-sonic-spinball)
+ - [I Marie Kondo’d my entire internet presence, one account at a time](https://www.polygon.com/23015543/marie-kondo-erase-internet-presence-delete-accounts-inbox-zero)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
