@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fantasy Heroes Rarely Go on Strike](https://www.wired.com/2022/04/fantasy-heroes-strike)
- - [Apple Cash virtual debit cards may be switching from Discover to Visa](https://www.theverge.com/2022/4/22/23037188/apple-cash-debit-cards-discover-visa-payments)
- - [Stubby SD cards are back](https://www.theverge.com/2022/4/22/23037196/transcend-jetdrive-lite-330-apple-macbook-pro-sd-card-price-release-date)<!-- TECH:END -->
+ - [Amazon’s budget-friendly Smart Thermostat is on sale for its best price yet](https://www.theverge.com/good-deals/2022/4/22/23035493/amazon-smart-thermostat-apple-mac-mini-anker-google-nest-ipad-deal-sale)
+ - [Agility Robotics, which is developing bipedal warehouse robots, raises a $150M Series B from DCVC, Playground Global, Amazon Industrial Innovation Fund, others &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220422/p18#a220422p18)
+ - [Samsung may ditch the Galaxy Watch 5 Classic model](https://www.androidauthority.com/samsung-galaxy-watch-5-classic-3156322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
