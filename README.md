@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A $3 Billion Silk Road Seizure Will Erase Ross Ulbricht&#39;s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure)
- - [The Best Eco-Friendly Cleaning Products for Your Home](https://www.wired.com/story/eco-friendly-natural-cleaning-products)
- - [Shanghai’s Plan to Reboot the Tech Supply Chain Will Be Hard](https://www.wired.com/story/shanghai-reboot-supply-chain)<!-- TECH:END -->
+ - [The UK&#39;s Department for Transport outlines rules for self-driving vehicles, including letting drivers watch TV on the go, ahead of a full framework in 2025 &lpar;BBC&rpar;](http://www.techmeme.com/220422/p8#a220422p8)
+ - [The Best Bags Made of Recycled Materials](https://www.wired.com/gallery/best-recycled-bags)
+ - [Apple pulling the plug on Fleetsmith device management service in October](https://appleinsider.com/articles/22/04/22/apple-to-pull-the-plug-on-device-management-service-fleetsmith-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
