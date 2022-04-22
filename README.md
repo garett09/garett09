@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s Department for Transport outlines rules for self-driving vehicles, including letting drivers watch TV on the go, ahead of a full framework in 2025 &lpar;BBC&rpar;](http://www.techmeme.com/220422/p8#a220422p8)
- - [The Best Bags Made of Recycled Materials](https://www.wired.com/gallery/best-recycled-bags)
- - [Apple pulling the plug on Fleetsmith device management service in October](https://appleinsider.com/articles/22/04/22/apple-to-pull-the-plug-on-device-management-service-fleetsmith-in-october?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo brings Sonic Spinball and other Genesis classics to Switch Online](https://www.theverge.com/2022/4/22/23037068/nintendo-switch-online-sonic-spinball-space-harrier-shining-force)
+ - [Stripe will let companies pay users in cryptocurrency via USDC, starting with Twitter, which will pay some Ticketed Spaces and Super Follows creators in crypto &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220422/p10#a220422p10)
+ - [Earth Day 2022: best eco-friendly iPhone, AirPods, iPad, smart home accessories](https://appleinsider.com/inside/iphone/best/best-eco-friendly-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
