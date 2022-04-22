@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the EU prepares its third landmark tech law in the last few years, the US has enacted just two narrow federal tech laws in the past 25 years &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/220422/p6#a220422p6)
- - [A look at Douban, a Reddit-like social network that China has targeted in its crackdowns; Douban was fined $1.65M in 2021 and has shut down popular forums &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/220422/p5#a220422p5)
- - [Twitter tries harder to promote third-party safety tools](https://www.theverge.com/2022/4/22/23036956/twitter-toolbox-apps-promote-safety-block-mute-accounts-platform)<!-- TECH:END -->
+ - [A $3 Billion Silk Road Seizure Will Erase Ross Ulbricht&#39;s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure)
+ - [The Best Eco-Friendly Cleaning Products for Your Home](https://www.wired.com/story/eco-friendly-natural-cleaning-products)
+ - [Shanghai’s Plan to Reboot the Tech Supply Chain Will Be Hard](https://www.wired.com/story/shanghai-reboot-supply-chain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
