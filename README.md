@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mikasa roars into battle in a new clip from the English dub of Attack on Titan Final Season Part 2](https://www.polygon.com/2022/4/22/23035471/attack-on-titan-final-season-part-2-english-dub-mikasa-battle-clip)
- - [Piepacker aims to be the ‘Game Boy of the cloud gaming space’](https://www.polygon.com/23036462/piepacker-cloud-gaming-nintendo-snk)
- - [Nintendo Switch Joy-Con Repair Center Was Constantly Overwhelmed, Claims Former Supervisor](https://kotaku.com/nintendo-switch-joy-con-drift-fix-repair-center-replace-1848828886)<!-- GAME:END -->
+ - [Marvelous and the Black Hole lives up to its name](https://www.polygon.com/23036146/marvelous-and-the-black-hole-review)
+ - [Doctor Strange sequel reportedly banned overseas for inclusion of queer character](https://www.polygon.com/23037393/doctor-strange-multiverse-of-madness-banned-saudi-arabia-lgbtq)
+ - [Official PlayStation Podcast Episode 429: Easter Egg Bloodhunt](https://blog.playstation.com/2022/04/22/official-playstation-podcast-episode-429-easter-egg-bloodhunt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
