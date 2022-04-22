@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of the MCU — and all of pop culture](https://www.polygon.com/2022/4/22/23037681/what-to-stream-play-april-2022)
- - [Lego Atari 2600 on the way to celebrate console’s anniversary](https://www.polygon.com/23037947/lego-atari-2600-details-playset-brickset-kit-release-date)
- - [NeonLore: To Read or Not to Read…in a Video Game?](https://news.xbox.com/en-us/2022/04/22/neonlore-to-read-or-not-to-readin-a-video-game/)<!-- GAME:END -->
+ - [Halo Infinite Update – April 2022](https://news.xbox.com/en-us/2022/04/22/halo-infinite-update-april-2022/)
+ - [Activision QA workers win NLRB ruling, vote on union in April](https://www.polygon.com/23037906/raven-software-activision-blizzard-union-vote)
+ - [The Batman, We’re All Going to the World’s Fair, and more new movies you can watch at home](https://www.polygon.com/23030125/new-movies-watch-the-batman-hbo-max-were-all-going-to-the-worlds-fair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
