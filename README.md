@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Depp explaining his finger injury to children in 2015](http://9gag.com/gag/aLvXBzx)
- - 🚯 [A girl on Tinder liked me. So I matched her. I have never texted any tinder match, because I always chicken out. Today I though, to hell with that, what&#39;s the worst that could happen? So I texted `Hey` to her, she replied with this gif:](http://9gag.com/gag/ajgKAjw)
- - 🚯 [Why was this post deleted ?](http://9gag.com/gag/aLvX2j6)<!-- MEMES:END -->
+ - 🚖 [Her sister was always playful around me, but now she&#39;s calling me bae and sending me her bikini pics and i dont know what to do](http://9gag.com/gag/aLvX2Y5)
+ - 🚯 [I am going to try for sobriety for 30 days minimum. I\u2019ve been addicted to weed for 10 years. This ends now](http://9gag.com/gag/a41qLWA)
+ - 🚯 [Holy sh*t!](http://9gag.com/gag/aRr2VYy)<!-- MEMES:END -->
 
 --- 
 
