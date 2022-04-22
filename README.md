@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;G&rpar;Old joke](http://9gag.com/gag/a31W3Xr)
- - 🚯 [Can&#39;t expect me to keep this shit up](http://9gag.com/gag/aAGXr5R)
- - 🚯 [The most popular drywaller in town](http://9gag.com/gag/aVx2Wjy)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t expect me to keep this shit up](http://9gag.com/gag/aAGXr5R)
+ - 🚯 [&lpar;G&rpar;Old joke](http://9gag.com/gag/a31W3Xr)
+ - 🚯 [How are they not scared?](http://9gag.com/gag/a61pL7b)<!-- MEMES:END -->
 
 --- 
 
