@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvelous and the Black Hole lives up to its name](https://www.polygon.com/23036146/marvelous-and-the-black-hole-review)
- - [Doctor Strange sequel reportedly banned overseas for inclusion of queer character](https://www.polygon.com/23037393/doctor-strange-multiverse-of-madness-banned-saudi-arabia-lgbtq)
- - [Official PlayStation Podcast Episode 429: Easter Egg Bloodhunt](https://blog.playstation.com/2022/04/22/official-playstation-podcast-episode-429-easter-egg-bloodhunt/)<!-- GAME:END -->
+ - [Elden Ring ‘One-Button Malenia Challenge’ Champion Rightly Drags ‘Git Gud’ Jerks](https://kotaku.com/elden-ring-malenia-reddit-youtube-git-gud-borkyborkd-so-1848830120)
+ - [Outbreak: Contagious Memories Is Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/04/22/outbreak-contagious-memories-is-available-now-on-xbox-series-xs-and-xbox-one/)
+ - [Destiny 2 Xur location and items, April 22-26](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/22/23037561/destiny-2-xur-location-items-april-22-26)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
