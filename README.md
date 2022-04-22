@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter tries harder to promote third-party safety tools](https://www.theverge.com/2022/4/22/23036956/twitter-toolbox-apps-promote-safety-block-mute-accounts-platform)
- - [You told us: Here’s what you’ll do when an ad-supported Netflix plan arrives](https://www.androidauthority.com/netflix-ad-supported-plan-poll-results-3156122/)
- - [Sources: after churning out 500+ original programs last year, Netflix is looking to add fewer new titles and focus more on quality, while reining in spending &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/220422/p4#a220422p4)<!-- TECH:END -->
+ - [As the EU prepares its third landmark tech law in the last few years, the US has enacted just two narrow federal tech laws in the past 25 years &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/220422/p6#a220422p6)
+ - [A look at Douban, a Reddit-like social network that China has targeted in its crackdowns; Douban was fined $1.65M in 2021 and has shut down popular forums &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/220422/p5#a220422p5)
+ - [Twitter tries harder to promote third-party safety tools](https://www.theverge.com/2022/4/22/23036956/twitter-toolbox-apps-promote-safety-block-mute-accounts-platform)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
