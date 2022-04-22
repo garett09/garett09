@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google made a tasty cookie change in Europe that we need across the web](https://www.androidauthority.com/google-reject-all-cookies-3156086/)
- - [Jarvis ML, which offers an AI-powered personalization engine for brands to engage customers and boost sales, raises a $16M seed led by Dell Technologies Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220422/p2#a220422p2)
- - [How to use spoiler tags on Reddit](https://www.androidauthority.com/how-to-spoiler-reddit-3156040/)<!-- TECH:END -->
+ - [Mandiant: one-third of all hacker groups exploiting zero-days in 2021 were financially motivated criminals as opposed to government-backed cyberespionage groups &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220422/p3#a220422p3)
+ - [PAX East 2022: The 6 Most Exciting Games To Check Out     - CNET](https://www.cnet.com/tech/gaming/pax-east-2022-the-6-most-exciting-games-to-check-out/#ftag=CAD590a51e)
+ - [Google made a tasty cookie change in Europe that we need across the web](https://www.androidauthority.com/google-reject-all-cookies-3156086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
