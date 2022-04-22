@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s right Becky, I mean Brian](http://9gag.com/gag/aqGzZ0M)
- - 🚯 [Johnny Depp has never watched Pirates of the Caribbean](http://9gag.com/gag/aXr2brz)
- - 🚯 [F**k around, find out](http://9gag.com/gag/aWg20Lx)<!-- MEMES:END -->
+ - 🚖 [A very versatile sofa](http://9gag.com/gag/aAGXVvL)
+ - 🚯 [F**k around, find out](http://9gag.com/gag/aWg20Lx)
+ - 🚯 [Telling them you just don&#39;t care is what they fear most](http://9gag.com/gag/awz4Kr8)<!-- MEMES:END -->
 
 --- 
 
