@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring ‘One-Button Malenia Challenge’ Champion Rightly Drags ‘Git Gud’ Jerks](https://kotaku.com/elden-ring-malenia-reddit-youtube-git-gud-borkyborkd-so-1848830120)
- - [Outbreak: Contagious Memories Is Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/04/22/outbreak-contagious-memories-is-available-now-on-xbox-series-xs-and-xbox-one/)
- - [Destiny 2 Xur location and items, April 22-26](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/22/23037561/destiny-2-xur-location-items-april-22-26)<!-- GAME:END -->
+ - [The Unbearable Weight of Massive Talent works for Nic Cage in ways no one expected](https://www.polygon.com/22983530/the-unbearable-weight-of-massive-talent-review-nicolas-cage)
+ - [Keeping Storytelling Alive: Localization and Legacy in Vampire the Masquerade](https://news.xbox.com/en-us/2022/04/22/keeping-storytelling-alive-localization-and-legacy-in-vampire-the-masquerade/)
+ - [F1 22 promises more glitz and glamour as fans worry it means microtransactions](https://www.polygon.com/23037588/f1-22-release-date-tracks-sprint-races-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
