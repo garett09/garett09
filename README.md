@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Levels, whose software pairs glucose monitors to its app to give users insights and track their metabolic health, raises a $38M Series A at a $300M valuation &lpar;Rebecca Torrence/Fierce Healthcare&rpar;](http://www.techmeme.com/220422/p1#a220422p1)
- - [Prezent.ai, which offers companies an AI presentation creation tool and gamified learning courses, raises a $20M Series A led by Greycroft at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220421/p43#a220421p43)
- - [&#39;Jiggle Jiggle&#39; Explained: Everything to Know About Louis Theroux&#39;s Rap     - CNET](https://www.cnet.com/culture/internet/jiggle-jiggle-explained-everything-to-know-about-louis-therouxs-rap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google made a tasty cookie change in Europe that we need across the web](https://www.androidauthority.com/google-reject-all-cookies-3156086/)
+ - [Jarvis ML, which offers an AI-powered personalization engine for brands to engage customers and boost sales, raises a $16M seed led by Dell Technologies Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220422/p2#a220422p2)
+ - [How to use spoiler tags on Reddit](https://www.androidauthority.com/how-to-spoiler-reddit-3156040/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
