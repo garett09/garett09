@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenage Engineering’s latest audio device invites you to turn its knobs](https://www.theverge.com/2022/4/21/23036369/teenage-engineering-tx-6-mixer-portable-knobs)
- - [How to quote in Reddit on any device](https://www.androidauthority.com/how-to-quote-reddit-3155115/)
- - [These 5 MacBook Pro 16-inch models are in stock, up to $280 off with AppleCare](https://appleinsider.com/articles/22/04/22/these-5-macbook-pro-16-inch-models-are-in-stock-up-to-280-off-with-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Prezent.ai, which offers an AI-powered presentation creation tool for companies, raises a $20M Series A led by Greycroft at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220421/p43#a220421p43)
+ - [NexHealth, which operates an EHR-integrated real-time scheduling platform for doctors, raises a $125M Series C led by Buckley Ventures at a $1B valuation &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220421/p42#a220421p42)
+ - [Reify Health, which makes cloud-based tools for clinical trial research, raises a $220M Series D co-led by Altimeter Capital and Coatue at a $4.8B+ valuation &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/220421/p41#a220421p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
