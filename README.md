@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix and chill..](http://9gag.com/gag/aOQ1yGR)
- - 🚯 [Can&#39;t find that one video guys](http://9gag.com/gag/a31Wdg3)
- - 🚯 [Johnny depp](http://9gag.com/gag/aKmYPGN)<!-- MEMES:END -->
+ - 🚖 [Pika pika](http://9gag.com/gag/a0ZELWL)
+ - 🚯 [Can&#39;t expect me to keep this shit up](http://9gag.com/gag/aAGXr5R)
+ - 🚯 [Can&#39;t find that one video guys](http://9gag.com/gag/a31Wdg3)<!-- MEMES:END -->
 
 --- 
 
