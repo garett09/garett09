@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo brings Sonic Spinball and other Genesis classics to Switch Online](https://www.theverge.com/2022/4/22/23037068/nintendo-switch-online-sonic-spinball-space-harrier-shining-force)
- - [Stripe will let companies pay users in cryptocurrency via USDC, starting with Twitter, which will pay some Ticketed Spaces and Super Follows creators in crypto &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220422/p10#a220422p10)
- - [Earth Day 2022: best eco-friendly iPhone, AirPods, iPad, smart home accessories](https://appleinsider.com/inside/iphone/best/best-eco-friendly-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Ethereum scaling project Polygon launches a dedicated blockchain network called Supernets and says it will invest $100M in initiatives that use it &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220422/p12#a220422p12)
+ - [A group of 18 House Republicans asks Twitter&#39;s board to preserve all records related to Musk&#39;s bid, setting up a potential probe if GOP wins back the majority &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220422/p11#a220422p11)
+ - [Splatoon 3 is coming to the Switch in September](https://www.theverge.com/2022/4/22/23037098/splatoon-3-nintendo-switch-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
