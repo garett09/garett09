@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cohors Cthulhu tabletop RPG brings cosmic horror to the edge of the Roman Empire](https://www.polygon.com/tabletop-games/23036437/cohors-cthulhu-tabletop-rpg-wargame-modiphius-announcement-release-date-price)
- - [Splatoon 3 splats on Switch in September](https://www.polygon.com/23037099/splatoon-3-release-date-nintendo-switch)
- - [Have a phone with a camera? You can make games](https://www.polygon.com/23030376/downpour-flatgames-game-design-tool-v-buckenham)<!-- GAME:END -->
+ - [Next Week on Xbox: April 25 to 29](https://news.xbox.com/en-us/2022/04/22/next-week-on-xbox-april-25-to-29/)
+ - [Murder mystery game company Hunt A Killer sees layoffs following pandemic boom](https://www.polygon.com/23037110/hunt-a-killer-murder-mystery-board-game-subscription-layoffs)
+ - [Halo Infinite&#39;s first season has been an awkward mess](https://www.pcgamer.com/halo-infinites-first-season-has-been-an-awkward-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
