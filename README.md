@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really! f**k the person who invented this shitty format.](http://9gag.com/gag/a31WP5r)
- - 🚯 [Launching molten iron with a shovel](http://9gag.com/gag/arnBeK0)
- - 🚯 [The circle of life](http://9gag.com/gag/aQX2qd8)<!-- MEMES:END -->
+ - 🚖 [The circle of life](http://9gag.com/gag/aQX2qd8)
+ - 🚯 [Neat Prank](http://9gag.com/gag/aBnXREA)
+ - 🚯 [This offer will not be made again](http://9gag.com/gag/a0ZE88z)<!-- MEMES:END -->
 
 --- 
 
