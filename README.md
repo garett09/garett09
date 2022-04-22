@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mokoko X Revives the Old Beloved Arcade Genre Today](https://news.xbox.com/en-us/2022/04/22/mokoko-x-revives-the-old-beloved-arcade-genre-today/)
- - [Report: Netflix Doubles Down On Games As Stock Plummets](https://kotaku.com/netflix-games-exploding-kittens-stock-2022-subscribers-1848831119)
- - [Vinland Saga is a powerful twist on a conventional Viking revenge story](https://www.polygon.com/23032698/vinland-saga-anime-the-northman-viking-revenge-story)<!-- GAME:END -->
+ - [NeonLore: To Read or Not to Read…in a Video Game?](https://news.xbox.com/en-us/2022/04/22/neonlore-to-read-or-not-to-readin-a-video-game/)
+ - [Dr. Dre Thought GTA Was ‘For Kids’ Until DJ Pooh Gave Him A Personal Demo](https://kotaku.com/dr-dre-gta-online-contract-kids-dj-pooh-rockstar-games-1848831496)
+ - [Pokémon Go may help with depression, study finds](https://www.polygon.com/23037613/pokemon-go-depression-study)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
