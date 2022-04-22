@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Depp spoke about when he received pictures of human fecal matter on his side of the bed](http://9gag.com/gag/angEAVV)
- - 🚯 [The circle of life](http://9gag.com/gag/aQX2qd8)
- - 🚯 [Savage Mr. Depp](http://9gag.com/gag/avAv08q)<!-- MEMES:END -->
+ - 🚖 [Really! f**k the person who invented this shitty format.](http://9gag.com/gag/a31WP5r)
+ - 🚯 [Launching molten iron with a shovel](http://9gag.com/gag/arnBeK0)
+ - 🚯 [The circle of life](http://9gag.com/gag/aQX2qd8)<!-- MEMES:END -->
 
 --- 
 
