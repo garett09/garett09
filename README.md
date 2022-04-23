@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pizza Ovens to Make the Perfect Slice](https://www.wired.com/gallery/best-pizza-ovens)
- - [The Glorious Utility of the Mid-Range Phone](https://www.wired.com/story/mid-range-phone-gear-roundup)
- - [TCL 30 V 5G review: even on a budget, you can do better](https://www.theverge.com/23037446/tcl-30-v-5g-review-specs-screen-battery-camera-price)<!-- TECH:END -->
+ - [EU&#39;s DSA requires Meta, Google, and other large online platforms to make their algorithms transparent to users, deal with misinformation during crises, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220423/p7#a220423p7)
+ - [Research: hackers have stolen ~$2.9B in crypto wealth from 37 crypto hacks in 38 weeks since August, which is almost on par with the $3.2B stolen in all of 2021 &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/220423/p6#a220423p6)
+ - [This World Traveler Bundle Includes Rosetta Stone, Matt&#39;s Flights and More for $169     - CNET](https://www.cnet.com/tech/services-%26-software/this-world-traveler-bundle-includes-rosetta-stone-matts-flights-and-more-for-169/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
