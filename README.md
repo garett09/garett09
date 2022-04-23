@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A wild Korenwolf hamster...](http://9gag.com/gag/amgV5zX)
- - 🚯 [Happy Easter to my Orthodox brothers. Hristos a \u00cenviat !](http://9gag.com/gag/aQX21n8)
- - 🚯 [\u201cLord Of War\u201d is banned in several countries for the text shown in the final seconds](http://9gag.com/gag/aQX21xz)<!-- MEMES:END -->
+ - 🚖 [Holy crap...wait til the end.](http://9gag.com/gag/aog8epm)
+ - 🚯 [A wild Korenwolf hamster...](http://9gag.com/gag/amgV5zX)
+ - 🚯 [Asking the real question here](http://9gag.com/gag/aDDX1NN)<!-- MEMES:END -->
 
 --- 
 
