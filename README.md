@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #308: Saturday, April 23](https://www.pcgamer.com/wordle-april-23-308)
  - [1990&#39;s Geisha was the most unfair erotic game ever](https://www.pcgamer.com/saturday-crapshoot-geisha)
- - [New Halo Infinite roadmap targets online co-op in August](https://www.pcgamer.com/new-halo-infinite-roadmap-targets-online-co-op-in-august)
- - [My favorite Teardown moments after 46 hours of breaking stuff](https://www.pcgamer.com/my-favorite-teardown-moments-after-46-hours-of-breaking-stuff)<!-- GAME:END -->
+ - [New Halo Infinite roadmap targets online co-op in August](https://www.pcgamer.com/new-halo-infinite-roadmap-targets-online-co-op-in-august)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
