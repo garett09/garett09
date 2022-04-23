@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A leopard cub being petted after it casually entered a house in a village near kurseong, India.](http://9gag.com/gag/aog8N8m)
- - 🚯 [You know what? I am not even mad](http://9gag.com/gag/aqGz7dp)
+ - 🚖 [Grandpa is off the hook](http://9gag.com/gag/azeZqZZ)
+ - 🚯 [A leopard cub being petted after it casually entered a house in a village near kurseong, India.](http://9gag.com/gag/aog8N8m)
  - 🚯 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)<!-- MEMES:END -->
 
 --- 
