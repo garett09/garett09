@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mujjo&#39;s iPhone 13 leather cases review: Exceptional leather cases that lack MagSafe](https://appleinsider.com/articles/22/04/23/mujjos-iphone-13-leather-cases-exceptional-leather-cases-that-lack-magsafe?utm_medium=rss)
- - [Ubisoft says its upcoming ‘team battle arena’ game won’t have NFTs](https://www.theverge.com/2022/4/23/23038699/ubisoft-upcoming-team-battle-arena-game-project-q-nfts)
- - [Documents show wide-ranging opposition from Twitter and others to Canada&#39;s online harms proposals, which the government recently said it will delay implementing &lpar;Bill Curry/Globe and Mail&rpar;](http://www.techmeme.com/220423/p10#a220423p10)<!-- TECH:END -->
+ - [How to connect AirPods, AirPods Pro, and AirPods Max to a Mac, and how to control Audio Handoff](https://appleinsider.com/inside/airpods/tips/how-to-connect-airpods-airpods-pro-and-airpods-max-to-a-mac-and-how-to-control-audio-handoff?utm_medium=rss)
+ - [Stockholm-based Planhat, which provides customer relationship management software to companies, raises a $50M Series A after seven years of bootstrapping &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/220423/p11#a220423p11)
+ - [Bose Quietcomfort 45 review: Newer but not always better](https://www.androidauthority.com/bose-quietcomfort-45-review-3154911/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
