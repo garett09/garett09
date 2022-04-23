@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Update – April 2022](https://news.xbox.com/en-us/2022/04/22/halo-infinite-update-april-2022/)
- - [Activision QA workers win NLRB ruling, vote on union in April](https://www.polygon.com/23037906/raven-software-activision-blizzard-union-vote)
- - [The Batman, We’re All Going to the World’s Fair, and more new movies you can watch at home](https://www.polygon.com/23030125/new-movies-watch-the-batman-hbo-max-were-all-going-to-the-worlds-fair)<!-- GAME:END -->
+ - [New Halo Infinite roadmap targets online co-op in August](https://www.pcgamer.com/new-halo-infinite-roadmap-targets-online-co-op-in-august)
+ - [My favorite Teardown moments after 46 hours of breaking stuff](https://www.pcgamer.com/my-favorite-teardown-moments-after-46-hours-of-breaking-stuff)
+ - [I&#39;m glad WoW found some restraint, but I hope it doesn&#39;t ditch the best parts of Shadowlands](https://www.pcgamer.com/wow-dragonflight-shadowlands)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
