@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-429-3156044/)
- - [Foxconn aims for 21% emissions cut by 2025](https://appleinsider.com/articles/22/04/23/foxconn-aims-for-21-emissions-cut-by-2025?utm_medium=rss)
- - [Leaked sales pitch: Anomaly Six, a US government contractor that claims it can track ~3B phones, demonstrated its capabilities by tracking CIA and NSA personnel &lpar;The Intercept&rpar;](http://www.techmeme.com/220423/p8#a220423p8)<!-- TECH:END -->
+ - [Lapsus$ hackers breached T-Mobile’s systems and stole its source code](https://www.theverge.com/2022/4/23/23038570/lapsus-hackers-target-t-mobile-source-code-multiple-breaches-cybersecurity)
+ - [Keep Cables and Cords Concealed and Save Up to 28%     - CNET](https://www.cnet.com/tech/home-entertainment/keep-cables-and-cords-concealed-and-save-up-to-28/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Cameras for 2022     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
