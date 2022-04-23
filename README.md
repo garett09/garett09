@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Things that only happen in Brazil](http://9gag.com/gag/aGz217Z)
- - 🚯 [The Dislikes](http://9gag.com/gag/aAGXDBg)
- - 🚯 [Mom sees book falling in reflection of tv and stops it mid air to save her kid from being K/Oed](http://9gag.com/gag/aVx2qrv)<!-- MEMES:END -->
+ - 🚖 [Johnny Depp on Amber Heard during his trial: `I don&#39;t hate you, because hate is a feeling and I don&#39;t feel anything for you`](http://9gag.com/gag/a31WqL7)
+ - 🚯 [All fun and games until youre under oath](http://9gag.com/gag/a51jnQo)
+ - 🚯 [Grandpa is off the hook](http://9gag.com/gag/azeZqZZ)<!-- MEMES:END -->
 
 --- 
 
