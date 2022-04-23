@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Lady in the Lake&#39; prepares for filming in Baltimore](https://appleinsider.com/articles/22/04/23/apple-tv-lady-in-the-lake-prepares-for-filming-in-baltimore?utm_medium=rss)
- - [How to connect AirPods, AirPods Pro, and AirPods Max to a Mac, and how to control Audio Handoff](https://appleinsider.com/inside/airpods/tips/how-to-connect-airpods-airpods-pro-and-airpods-max-to-a-mac-and-how-to-control-audio-handoff?utm_medium=rss)
- - [Stockholm-based Planhat, which provides customer relationship management software to companies, raises a $50M Series A after seven years of bootstrapping &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/220423/p11#a220423p11)<!-- TECH:END -->
+ - [Apple App Store appears to be widely removing outdated apps](https://www.theverge.com/2022/4/23/23038870/apple-app-store-widely-remove-outdated-apps-developers)
+ - [Streamers are acting like network TV, as they pull back on edgy content and seek &quot;elevated broadcasts&quot;, like sitcoms, under financial pressure and competition &lpar;Joy Press/Vanity Fair&rpar;](http://www.techmeme.com/220423/p12#a220423p12)
+ - [Apple TV+ &#39;Lady in the Lake&#39; prepares for filming in Baltimore](https://appleinsider.com/articles/22/04/23/apple-tv-lady-in-the-lake-prepares-for-filming-in-baltimore?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
