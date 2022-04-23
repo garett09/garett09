@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ethan Zuckerman](http://9gag.com/gag/aNPRd70)
- - 🚯 [Strong Current.](http://9gag.com/gag/avAvG2O)
- - 🚯 [Know your worth, kings.](http://9gag.com/gag/aOQ1dpE)<!-- MEMES:END -->
+ - 🚖 [Aged like fine wine](http://9gag.com/gag/a81w443)
+ - 🚯 [This](http://9gag.com/gag/azeZrbq)
+ - 🚯 [Strong Current.](http://9gag.com/gag/avAvG2O)<!-- MEMES:END -->
 
 --- 
 
