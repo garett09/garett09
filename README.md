@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lilly Singh agrees that The Bad Guys’ Mr. Wolf is kinda hot](https://www.polygon.com/23036337/lilly-singh-the-bad-guys-interview-youtube)
- - [2 months in, Elden Ring&#39;s PC performance issues are a real drag](https://www.pcgamer.com/2-months-in-elden-rings-pc-performance-issues-are-a-real-drag)
- - [Polygon ranks the 13 theatrical Batman movies](https://www.polygon.com/22976943/batman-movies-ranked-best)<!-- GAME:END -->
+ - [Here’s every new Star Wars game in development](https://www.polygon.com/23035736/star-wars-video-games-in-development-release-dates)
+ - [Ubisoft officially announces Project Q after numerous leaks](https://www.pcgamer.com/ubisoft-officially-announces-project-q-after-numerous-leaks)
+ - [Lilly Singh agrees that The Bad Guys’ Mr. Wolf is kinda hot](https://www.polygon.com/23036337/lilly-singh-the-bad-guys-interview-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
