@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lilly Singh agrees that The Bad Guys’ Mr. Wolf is kinda hot](https://www.polygon.com/23036337/lilly-singh-the-bad-guys-interview-youtube)
  - [2 months in, Elden Ring&#39;s PC performance issues are a real drag](https://www.pcgamer.com/2-months-in-elden-rings-pc-performance-issues-are-a-real-drag)
- - [Polygon ranks the 13 theatrical Batman movies](https://www.polygon.com/22976943/batman-movies-ranked-best)
- - [Digital Store GOG Among First To Offer Menstrual Leave To Employees](https://kotaku.com/gog-menstrual-leave-employees-cd-projekt-red-time-off-1848831897)<!-- GAME:END -->
+ - [Polygon ranks the 13 theatrical Batman movies](https://www.polygon.com/22976943/batman-movies-ranked-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
