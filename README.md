@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tug-of-war RTS Warpips is a bit of cute, casual carnage](https://www.pcgamer.com/tug-of-war-rts-warpips-is-a-bit-of-cute-casual-carnage)
  - [Here’s every new Star Wars game in development](https://www.polygon.com/23035736/star-wars-video-games-in-development-release-dates)
- - [Ubisoft officially announces Project Q after numerous leaks](https://www.pcgamer.com/ubisoft-officially-announces-project-q-after-numerous-leaks)
- - [Lilly Singh agrees that The Bad Guys’ Mr. Wolf is kinda hot](https://www.polygon.com/23036337/lilly-singh-the-bad-guys-interview-youtube)<!-- GAME:END -->
+ - [Ubisoft officially announces Project Q after numerous leaks](https://www.pcgamer.com/ubisoft-officially-announces-project-q-after-numerous-leaks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
