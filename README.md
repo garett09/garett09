@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU approves the Digital Services Act, which will force social networks to strengthen content moderation, reduce Google and Meta&#39;s ad targeting of minors, more &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220422/p25#a220422p25)
- - [Anker’s pint-sized 100W USB-C charger is now shipping, but it’s already sold out on Amazon](https://www.theverge.com/2022/4/22/23037872/anker-736-gan-charger-100w-usb-c)
- - [Halo Infinite’s long-awaited campaign co-op mode is slated for August](https://www.theverge.com/2022/4/22/23038049/halo-infinite-co-op-campaign-mode-forge)<!-- TECH:END -->
+ - [Teardown of Apple&#39;s new &amp; long Thunderbolt 4 Pro Cable highlights why it&#39;s so expensive](https://appleinsider.com/articles/22/04/23/teardown-of-apples-new-long-thunderbolt-4-pro-cable-highlights-why-its-so-expensive?utm_medium=rss)
+ - [EU finalizes the Digital Services Act, which would force social networks to toughen content moderation, reduce Google and Meta&#39;s ad targeting of minors, more &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220422/p25#a220422p25)
+ - [ICE Uses Private Data Brokers to Circumvent Immigrant Sanctuary Laws, Report Says     - CNET](https://www.cnet.com/news/politics/ice-uses-private-data-brokers-to-circumvent-immigrant-sanctuary-laws-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
