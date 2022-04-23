@@ -190,7 +190,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the EU finalizes the DMA, report reveals tech giants&#39; last minute lobbying to shield their business models from crackdowns on surveillance advertising, more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220423/p1#a220423p1)
+ - [As EU finalizes DMA and DSA, report reveals tech giants&#39; last minute lobbying to shield their business models from crackdowns on surveillance advertising, more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220423/p1#a220423p1)
  - [What is Reddit karma and how do you get it?](https://www.androidauthority.com/reddit-karma-explained-3156433/)
  - [AirTag data crucial to recovery of man&#39;s lost luggage](https://appleinsider.com/articles/22/04/23/airtag-data-crucial-to-recovery-of-mans-lost-luggage?utm_medium=rss)<!-- TECH:END -->
 
