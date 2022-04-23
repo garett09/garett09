@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As EU finalizes DMA and DSA, report reveals tech giants&#39; last minute lobbying to shield their business models from crackdowns on surveillance advertising, more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220423/p1#a220423p1)
- - [What is Reddit karma and how do you get it?](https://www.androidauthority.com/reddit-karma-explained-3156433/)
- - [AirTag data crucial to recovery of man&#39;s lost luggage](https://appleinsider.com/articles/22/04/23/airtag-data-crucial-to-recovery-of-mans-lost-luggage?utm_medium=rss)<!-- TECH:END -->
+ - [Despite lockdowns and tech crackdowns, China remains the best option for electronic manufacturers due to a comprehensive supply chain ecosystem and lower costs &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220423/p4#a220423p4)
+ - [China-based Q&amp;A service Zhihu closed down 23.6% in its Hong Kong trading debut, after raising $106M in a secondary listing: Zhihu faces a potential US delisting &lpar;Reuters&rpar;](http://www.techmeme.com/220423/p3#a220423p3)
+ - [Researchers detail newly patched RCE flaw in a widely used audio codec on Android devices with Qualcomm and MediaTek chips; Apple open sourced the codec in 2011 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220423/p2#a220423p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
