@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your iPhone compatible with Fitbit smartwatches and trackers?](https://www.androidauthority.com/fitbit-iphone-3155655/)
- - [I Played Halo With My Spouse 17 Years After We Almost Broke Up Over It](https://www.wired.com/story/halo-almost-broke-up-game-design)
- - [15 Great Deals on Bluetooth Speakers, Earbuds, and Outdoor Gear](https://www.wired.com/story/weekend-deals-april-23-2022)<!-- TECH:END -->
+ - [The state of the wearables market for women](https://www.androidauthority.com/women-wearables-market-3145538/)
+ - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions)
+ - [How Prescribed Burns Can Help Restore Eastern US Forests](https://www.wired.com/story/how-prescribed-burns-can-help-restore-eastern-us-forests)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
