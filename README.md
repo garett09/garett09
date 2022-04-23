@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teardown of Apple&#39;s new &amp; long Thunderbolt 4 Pro Cable highlights why it&#39;s so expensive](https://appleinsider.com/articles/22/04/23/teardown-of-apples-new-long-thunderbolt-4-pro-cable-highlights-why-its-so-expensive?utm_medium=rss)
- - [EU finalizes the Digital Services Act, which would force social networks to toughen content moderation, reduce Google and Meta&#39;s ad targeting of minors, more &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220422/p25#a220422p25)
- - [ICE Uses Private Data Brokers to Circumvent Immigrant Sanctuary Laws, Report Says     - CNET](https://www.cnet.com/news/politics/ice-uses-private-data-brokers-to-circumvent-immigrant-sanctuary-laws-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is Reddit karma and how do you get it?](https://www.androidauthority.com/reddit-karma-explained-3156433/)
+ - [AirTag data crucial to recovery of man&#39;s lost luggage](https://appleinsider.com/articles/22/04/23/airtag-data-crucial-to-recovery-of-mans-lost-luggage?utm_medium=rss)
+ - [Teardown of Apple&#39;s new &amp; long Thunderbolt 4 Pro Cable highlights why it&#39;s so expensive](https://appleinsider.com/articles/22/04/23/teardown-of-apples-new-long-thunderbolt-4-pro-cable-highlights-why-its-so-expensive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
