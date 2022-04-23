@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The state of the wearables market for women](https://www.androidauthority.com/women-wearables-market-3145538/)
- - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions)
- - [How Prescribed Burns Can Help Restore Eastern US Forests](https://www.wired.com/story/how-prescribed-burns-can-help-restore-eastern-us-forests)<!-- TECH:END -->
+ - [The Best Pizza Ovens to Make the Perfect Slice](https://www.wired.com/gallery/best-pizza-ovens)
+ - [The Glorious Utility of the Mid-Range Phone](https://www.wired.com/story/mid-range-phone-gear-roundup)
+ - [TCL 30 V 5G review: even on a budget, you can do better](https://www.theverge.com/23037446/tcl-30-v-5g-review-specs-screen-battery-camera-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
