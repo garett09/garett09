@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...that&#39;s not a faint.](http://9gag.com/gag/aNPRYe6)
- - 🚯 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)
- - 🚯 [Abandoned ship in Thailand](http://9gag.com/gag/aLvXgMv)<!-- MEMES:END -->
+ - 🚖 [You know what? I am not even mad](http://9gag.com/gag/aqGz7dp)
+ - 🚯 [As a bisexual person i can relate](http://9gag.com/gag/aRr21ZQ)
+ - 🚯 [Asking the real question here](http://9gag.com/gag/aDDX1NN)<!-- MEMES:END -->
 
 --- 
 
