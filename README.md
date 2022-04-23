@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better than NETFLIX in 3..2..1..](http://9gag.com/gag/a21b4gw)
- - 🚯 [All fun and games until youre under oath](http://9gag.com/gag/a51jnQo)
- - 🚯 [Elon Good, Bill Bad](http://9gag.com/gag/a81w8md)<!-- MEMES:END -->
+ - 🚖 [LMAO](http://9gag.com/gag/ay9Qx8b)
+ - 🚯 [Better than NETFLIX in 3..2..1..](http://9gag.com/gag/a21b4gw)
+ - 🚯 [Good Idea?](http://9gag.com/gag/apgAQrM)<!-- MEMES:END -->
 
 --- 
 
