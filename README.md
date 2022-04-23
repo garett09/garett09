@@ -198,8 +198,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A wild Korenwolf hamster...](http://9gag.com/gag/amgV5zX)
- - 🚯 [Wise guessing](http://9gag.com/gag/aQX21N8)
- - 🚯 [Alcoholic for a reason](http://9gag.com/gag/adg2LWD)<!-- MEMES:END -->
+ - 🚯 [A true legend](http://9gag.com/gag/aqGzKYY)
+ - 🚯 [\u201cLord Of War\u201d is banned in several countries for the text shown in the final seconds](http://9gag.com/gag/aQX21xz)<!-- MEMES:END -->
 
 --- 
 
