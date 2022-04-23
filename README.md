@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 14: What we want to see](https://www.androidauthority.com/apple-iphone-14-3153710/)
- - [Lapsus$ hackers breached T-Mobile’s systems and stole its source code](https://www.theverge.com/2022/4/23/23038570/lapsus-hackers-target-t-mobile-source-code-multiple-breaches-cybersecurity)
- - [Keep Cables and Cords Concealed and Save Up to 28%     - CNET](https://www.cnet.com/tech/home-entertainment/keep-cables-and-cords-concealed-and-save-up-to-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mujjo&#39;s iPhone 13 leather cases review: Exceptional leather cases that lack MagSafe](https://appleinsider.com/articles/22/04/23/mujjos-iphone-13-leather-cases-exceptional-leather-cases-that-lack-magsafe?utm_medium=rss)
+ - [Ubisoft says its upcoming ‘team battle arena’ game won’t have NFTs](https://www.theverge.com/2022/4/23/23038699/ubisoft-upcoming-team-battle-arena-game-project-q-nfts)
+ - [Documents show wide-ranging opposition from Twitter and others to Canada&#39;s online harms proposals, which the government recently said it will delay implementing &lpar;Bill Curry/Globe and Mail&rpar;](http://www.techmeme.com/220423/p10#a220423p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
