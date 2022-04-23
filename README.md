@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NRLB rules that 21 QA employees from Activision-Blizzard&#39;s Raven Software unit will be allowed to have a union vote; they have until May 20 to submit ballots &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220422/p24#a220422p24)
- - [9 shows like Anatomy of a Scandal: What to watch after the Netflix miniseries](https://www.androidauthority.com/shows-like-anatomy-of-a-scandal-netflix-3156022/)
- - [As of Friday, Netflix&#39;s market cap is $99.2B, after passing $300B in November; Meta briefly passed $1T in market cap in November but is now down to $532.6B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220422/p23#a220422p23)<!-- TECH:END -->
+ - [EU approves the Digital Services Act, which will force social networks to strengthen content moderation, reduce Google and Meta&#39;s ad targeting of minors, more &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220422/p25#a220422p25)
+ - [Anker’s pint-sized 100W USB-C charger is now shipping, but it’s already sold out on Amazon](https://www.theverge.com/2022/4/22/23037872/anker-736-gan-charger-100w-usb-c)
+ - [Halo Infinite’s long-awaited campaign co-op mode is slated for August](https://www.theverge.com/2022/4/22/23038049/halo-infinite-co-op-campaign-mode-forge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
