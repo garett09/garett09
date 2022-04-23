@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gentlemen, it is with great pleasure to inform you that i used this box today!](http://9gag.com/gag/angDybL)
- - 🚯 [Convince me this isn\u2019t one of the greatest inventions of all time.](http://9gag.com/gag/ay9QLep)
- - 🚯 [Her sister was always playful around me, but now she&#39;s calling me bae and sending me her bikini pics and i dont know what to do](http://9gag.com/gag/aLvX2Y5)<!-- MEMES:END -->
+ - 🚖 [Convince me this isn\u2019t one of the greatest inventions of all time.](http://9gag.com/gag/ay9QLep)
+ - 🚯 [Know your worth, kings.](http://9gag.com/gag/aOQ1dpE)
+ - 🚯 [This](http://9gag.com/gag/azeZrbq)<!-- MEMES:END -->
 
 --- 
 
