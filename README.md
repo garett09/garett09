@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aged like fine wine](http://9gag.com/gag/a81w443)
- - 🚯 [This](http://9gag.com/gag/azeZrbq)
- - 🚯 [Strong Current.](http://9gag.com/gag/avAvG2O)<!-- MEMES:END -->
+ - 🚖 [Rape culture](http://9gag.com/gag/amgVYYv)
+ - 🚯 [All very interesting and safe... Hang on!](http://9gag.com/gag/aBnXwLZ)
+ - 🚯 [CNC-Lathe machine programmed to sharpen worker&#39;s pencil &lpar;when boss is away&rpar;.](http://9gag.com/gag/a71NdYA)<!-- MEMES:END -->
 
 --- 
 
