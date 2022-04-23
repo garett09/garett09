@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They told him not to, but he didn&#39;t listen.](http://9gag.com/gag/a0ZEbKL)
+ - 🚖 [Things that only happen in Brazil](http://9gag.com/gag/aGz217Z)
  - 🚯 [The Dislikes](http://9gag.com/gag/aAGXDBg)
- - 🚯 [This is how you should raise your kids...](http://9gag.com/gag/a61pMoR)<!-- MEMES:END -->
+ - 🚯 [Mom sees book falling in reflection of tv and stops it mid air to save her kid from being K/Oed](http://9gag.com/gag/aVx2qrv)<!-- MEMES:END -->
 
 --- 
 
