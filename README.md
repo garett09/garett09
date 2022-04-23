@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rape culture](http://9gag.com/gag/amgVYYv)
- - 🚯 [All very interesting and safe... Hang on!](http://9gag.com/gag/aBnXwLZ)
- - 🚯 [CNC-Lathe machine programmed to sharpen worker&#39;s pencil &lpar;when boss is away&rpar;.](http://9gag.com/gag/a71NdYA)<!-- MEMES:END -->
+ - 🚖 [Know your worth, kings.](http://9gag.com/gag/aOQ1dpE)
+ - 🚯 [Strong Current.](http://9gag.com/gag/avAvG2O)
+ - 🚯 [Mom sees book falling in reflection of tv and stops it mid air to save her kid from being K/Oed](http://9gag.com/gag/aVx2qrv)<!-- MEMES:END -->
 
 --- 
 
