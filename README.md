@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandpa is off the hook](http://9gag.com/gag/azeZqZZ)
- - 🚯 [A leopard cub being petted after it casually entered a house in a village near kurseong, India.](http://9gag.com/gag/aog8N8m)
- - 🚯 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)<!-- MEMES:END -->
+ - 🚖 [...that&#39;s not a faint.](http://9gag.com/gag/aNPRYe6)
+ - 🚯 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)
+ - 🚯 [Abandoned ship in Thailand](http://9gag.com/gag/aLvXgMv)<!-- MEMES:END -->
 
 --- 
 
