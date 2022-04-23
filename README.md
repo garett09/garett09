@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just warched this, not sure what to expect at first but was pleasantly surprised.](http://9gag.com/gag/agg2X8q)
- - 🚯 [Better than NETFLIX in 3..2..1..](http://9gag.com/gag/a21b4gw)
+ - 🚖 [A leopard cub being petted after it casually entered a house in a village near kurseong, India.](http://9gag.com/gag/aog8N8m)
+ - 🚯 [You know what? I am not even mad](http://9gag.com/gag/aqGz7dp)
  - 🚯 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)<!-- MEMES:END -->
 
 --- 
