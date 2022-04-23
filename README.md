@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Dave Limp, Amazon&#39;s head of devices and services, on why he thinks ambient computing will enhance the real world, Fire phone&#39;s failure, and Astro &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220423/p5#a220423p5)
- - [Google, Meta, and others will have to explain their algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
- - [Best Headphone Deals: Save $75 on AirPods Pro, $140 on Beats Studio 3     - CNET](https://www.cnet.com/tech/mobile/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is your iPhone compatible with Fitbit smartwatches and trackers?](https://www.androidauthority.com/fitbit-iphone-3155655/)
+ - [I Played Halo With My Spouse 17 Years After We Almost Broke Up Over It](https://www.wired.com/story/halo-almost-broke-up-game-design)
+ - [15 Great Deals on Bluetooth Speakers, Earbuds, and Outdoor Gear](https://www.wired.com/story/weekend-deals-april-23-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
