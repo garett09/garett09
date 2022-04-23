@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tug-of-war RTS Warpips is a bit of cute, casual carnage](https://www.pcgamer.com/tug-of-war-rts-warpips-is-a-bit-of-cute-casual-carnage)
- - [Here’s every new Star Wars game in development](https://www.polygon.com/23035736/star-wars-video-games-in-development-release-dates)
- - [Ubisoft officially announces Project Q after numerous leaks](https://www.pcgamer.com/ubisoft-officially-announces-project-q-after-numerous-leaks)<!-- GAME:END -->
+ - [Is there a game only you seem to remember?](https://www.pcgamer.com/is-there-a-game-only-you-seem-to-remember)
+ - [Connect traincars in puzzler Railbound from Golf Peaks and inbento makers](https://www.pcgamer.com/connect-traincars-in-order-in-puzzler-railbound-from-golf-peaks-and-inbento-makers)
+ - [Tug-of-war RTS Warpips is a bit of cute, casual carnage](https://www.pcgamer.com/tug-of-war-rts-warpips-is-a-bit-of-cute-casual-carnage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
