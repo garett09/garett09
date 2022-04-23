@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LMAO](http://9gag.com/gag/ay9Qx8b)
- - 🚯 [Better than NETFLIX in 3..2..1..](http://9gag.com/gag/a21b4gw)
- - 🚯 [Good Idea?](http://9gag.com/gag/apgAQrM)<!-- MEMES:END -->
+ - 🚖 [Donkey reunited with the girl who raised it..](http://9gag.com/gag/a71NM3q)
+ - 🚯 [Perfect scream, no context.](http://9gag.com/gag/aAGXDxo)
+ - 🚯 [Clean Strike](http://9gag.com/gag/aLvXj0V)<!-- MEMES:END -->
 
 --- 
 
