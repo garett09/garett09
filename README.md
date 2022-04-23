@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Private Equity Eyeing Ubisoft As The Next Big Gaming Acquisition](https://kotaku.com/ubisoft-acquisition-buyout-assassin-s-creed-far-cry-gho-1848831498)
- - [Today&#39;s Wordle answer #308: Saturday, April 23](https://www.pcgamer.com/wordle-april-23-308)
- - [1990&#39;s Geisha was the most unfair erotic game ever](https://www.pcgamer.com/saturday-crapshoot-geisha)<!-- GAME:END -->
+ - [Polygon ranks the 13 theatrical Batman movies](https://www.polygon.com/22976943/batman-movies-ranked-best)
+ - [Digital Store GOG Among First To Offer Menstrual Leave To Employees](https://kotaku.com/gog-menstrual-leave-employees-cd-projekt-red-time-off-1848831897)
+ - [Report: Private Equity Eyeing Ubisoft As The Next Big Gaming Acquisition](https://kotaku.com/ubisoft-acquisition-buyout-assassin-s-creed-far-cry-gho-1848831498)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
