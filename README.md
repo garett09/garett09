@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Depp on Amber Heard during his trial: `I don&#39;t hate you, because hate is a feeling and I don&#39;t feel anything for you`](http://9gag.com/gag/a31WqL7)
- - 🚯 [All fun and games until youre under oath](http://9gag.com/gag/a51jnQo)
- - 🚯 [Grandpa is off the hook](http://9gag.com/gag/azeZqZZ)<!-- MEMES:END -->
+ - 🚖 [Can they fly? Yes!](http://9gag.com/gag/a51jnOL)
+ - 🚯 [Nice cute try. With another 210 mp/h maybe she could do it.](http://9gag.com/gag/aAGXDpp)
+ - 🚯 [Well well well](http://9gag.com/gag/aM4X8o1)<!-- MEMES:END -->
 
 --- 
 
