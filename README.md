@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best matress add](http://9gag.com/gag/aAGX3Mo)
- - 🚯 [Clean Strike](http://9gag.com/gag/aLvXj0V)
- - 🚯 [As a bisexual person i can relate](http://9gag.com/gag/aRr21ZQ)<!-- MEMES:END -->
+ - 🚖 [A wild Korenwolf hamster...](http://9gag.com/gag/amgV5zX)
+ - 🚯 [Happy Easter to my Orthodox brothers. Hristos a \u00cenviat !](http://9gag.com/gag/aQX21n8)
+ - 🚯 [\u201cLord Of War\u201d is banned in several countries for the text shown in the final seconds](http://9gag.com/gag/aQX21xz)<!-- MEMES:END -->
 
 --- 
 
