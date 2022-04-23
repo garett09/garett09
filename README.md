@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know what? I am not even mad](http://9gag.com/gag/aqGz7dp)
- - 🚯 [As a bisexual person i can relate](http://9gag.com/gag/aRr21ZQ)
- - 🚯 [Asking the real question here](http://9gag.com/gag/aDDX1NN)<!-- MEMES:END -->
+ - 🚖 [Best matress add](http://9gag.com/gag/aAGX3Mo)
+ - 🚯 [Clean Strike](http://9gag.com/gag/aLvXj0V)
+ - 🚯 [As a bisexual person i can relate](http://9gag.com/gag/aRr21ZQ)<!-- MEMES:END -->
 
 --- 
 
