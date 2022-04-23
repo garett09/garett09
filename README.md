@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPhone 14: What we want to see](https://www.androidauthority.com/apple-iphone-14-3153710/)
  - [Lapsus$ hackers breached T-Mobile’s systems and stole its source code](https://www.theverge.com/2022/4/23/23038570/lapsus-hackers-target-t-mobile-source-code-multiple-breaches-cybersecurity)
- - [Keep Cables and Cords Concealed and Save Up to 28%     - CNET](https://www.cnet.com/tech/home-entertainment/keep-cables-and-cords-concealed-and-save-up-to-28/#ftag=CAD590a51e)
- - [Best Cheap Home Security Cameras for 2022     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep Cables and Cords Concealed and Save Up to 28%     - CNET](https://www.cnet.com/tech/home-entertainment/keep-cables-and-cords-concealed-and-save-up-to-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
