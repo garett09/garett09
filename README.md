@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can they fly? Yes!](http://9gag.com/gag/a51jnOL)
- - 🚯 [Nice cute try. With another 210 mp/h maybe she could do it.](http://9gag.com/gag/aAGXDpp)
- - 🚯 [Well well well](http://9gag.com/gag/aM4X8o1)<!-- MEMES:END -->
+ - 🚖 [Better than NETFLIX in 3..2..1..](http://9gag.com/gag/a21b4gw)
+ - 🚯 [All fun and games until youre under oath](http://9gag.com/gag/a51jnQo)
+ - 🚯 [Elon Good, Bill Bad](http://9gag.com/gag/a81w8md)<!-- MEMES:END -->
 
 --- 
 
