@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked sales pitch: Anomaly Six, a US government contractor that claims it can track ~3B phones, demonstrated its capabilities by tracking CIA and NSA personnel &lpar;The Intercept&rpar;](http://www.techmeme.com/220423/p8#a220423p8)
- - [Instagram is testing a way to make Reels using formats from other posts](https://www.theverge.com/2022/4/23/23038509/instagram-testing-templates-reels-with-other-user-formats)
- - [Free Pokemon Available for Pokemon Sword and Shield This Weekend     - CNET](https://www.cnet.com/tech/get-a-free-pokemon-this-weekend-for-pokemon-sword-and-shield/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-429-3156044/)
+ - [Foxconn aims for 21% emissions cut by 2025](https://appleinsider.com/articles/22/04/23/foxconn-aims-for-21-emissions-cut-by-2025?utm_medium=rss)
+ - [Leaked sales pitch: Anomaly Six, a US government contractor that claims it can track ~3B phones, demonstrated its capabilities by tracking CIA and NSA personnel &lpar;The Intercept&rpar;](http://www.techmeme.com/220423/p8#a220423p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
