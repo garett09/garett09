@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Convince me this isn\u2019t one of the greatest inventions of all time.](http://9gag.com/gag/ay9QLep)
- - 🚯 [Know your worth, kings.](http://9gag.com/gag/aOQ1dpE)
- - 🚯 [This](http://9gag.com/gag/azeZrbq)<!-- MEMES:END -->
+ - 🚖 [Ethan Zuckerman](http://9gag.com/gag/aNPRd70)
+ - 🚯 [Strong Current.](http://9gag.com/gag/avAvG2O)
+ - 🚯 [Know your worth, kings.](http://9gag.com/gag/aOQ1dpE)<!-- MEMES:END -->
 
 --- 
 
