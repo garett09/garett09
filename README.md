@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2 months in, Elden Ring&#39;s PC performance issues are a real drag](https://www.pcgamer.com/2-months-in-elden-rings-pc-performance-issues-are-a-real-drag)
  - [Polygon ranks the 13 theatrical Batman movies](https://www.polygon.com/22976943/batman-movies-ranked-best)
- - [Digital Store GOG Among First To Offer Menstrual Leave To Employees](https://kotaku.com/gog-menstrual-leave-employees-cd-projekt-red-time-off-1848831897)
- - [Report: Private Equity Eyeing Ubisoft As The Next Big Gaming Acquisition](https://kotaku.com/ubisoft-acquisition-buyout-assassin-s-creed-far-cry-gho-1848831498)<!-- GAME:END -->
+ - [Digital Store GOG Among First To Offer Menstrual Leave To Employees](https://kotaku.com/gog-menstrual-leave-employees-cd-projekt-red-time-off-1848831897)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
