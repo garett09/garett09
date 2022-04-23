@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU&#39;s DSA requires Meta, Google, and other large online platforms to make their algorithms transparent to users, deal with misinformation during crises, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220423/p7#a220423p7)
- - [Research: hackers have stolen ~$2.9B in crypto wealth from 37 crypto hacks in 38 weeks since August, which is almost on par with the $3.2B stolen in all of 2021 &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/220423/p6#a220423p6)
- - [This World Traveler Bundle Includes Rosetta Stone, Matt&#39;s Flights and More for $169     - CNET](https://www.cnet.com/tech/services-%26-software/this-world-traveler-bundle-includes-rosetta-stone-matts-flights-and-more-for-169/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked sales pitch: Anomaly Six, a US government contractor that claims it can track ~3B phones, demonstrated its capabilities by tracking CIA and NSA personnel &lpar;The Intercept&rpar;](http://www.techmeme.com/220423/p8#a220423p8)
+ - [Instagram is testing a way to make Reels using formats from other posts](https://www.theverge.com/2022/4/23/23038509/instagram-testing-templates-reels-with-other-user-formats)
+ - [Free Pokemon Available for Pokemon Sword and Shield This Weekend     - CNET](https://www.cnet.com/tech/get-a-free-pokemon-this-weekend-for-pokemon-sword-and-shield/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
