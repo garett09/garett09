@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [1990&#39;s Geisha was the most unfair erotic game ever](https://www.pcgamer.com/saturday-crapshoot-geisha)
  - [New Halo Infinite roadmap targets online co-op in August](https://www.pcgamer.com/new-halo-infinite-roadmap-targets-online-co-op-in-august)
- - [My favorite Teardown moments after 46 hours of breaking stuff](https://www.pcgamer.com/my-favorite-teardown-moments-after-46-hours-of-breaking-stuff)
- - [I&#39;m glad WoW found some restraint, but I hope it doesn&#39;t ditch the best parts of Shadowlands](https://www.pcgamer.com/wow-dragonflight-shadowlands)<!-- GAME:END -->
+ - [My favorite Teardown moments after 46 hours of breaking stuff](https://www.pcgamer.com/my-favorite-teardown-moments-after-46-hours-of-breaking-stuff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
