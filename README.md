@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone found a Google Pixel Watch prototype in a restaurant and leaked it](https://www.androidauthority.com/google-pixel-watch-prototype-3156545/)
  - [Leaked images seem to show a Google Pixel Watch testing model left at a restaurant in the US, with a minimalist design in black and a proprietary Google band &lpar;Shruti Shekar/Android Central&rpar;](http://www.techmeme.com/220423/p13#a220423p13)
- - [Amazon, Google, Meta Among Targets of EU Law on Disinformation, Harmful Content     - CNET](https://www.cnet.com/news/politics/amazon-google-meta-among-targets-of-eu-law-on-disinformation-harmful-content/#ftag=CAD590a51e)
- - [&#39;Moon Knight&#39; Episode 4 Recap: Trippy Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-4-recap-trippy-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon, Google, Meta Among Targets of EU Law on Disinformation, Harmful Content     - CNET](https://www.cnet.com/news/politics/amazon-google-meta-among-targets-of-eu-law-on-disinformation-harmful-content/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
