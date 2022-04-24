@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deebot X1 Omni review: the do-everything robot vacuum](https://www.theverge.com/23037426/ecovacs-deebot-x1-omni-review-vacuum-mop-robot-voice-control)
  - [The Best Electric Toothbrushes for Your Pearly Whites](https://www.wired.com/gallery/best-electric-toothbrushes)
- - [How Telegram became the most prominent platform for the right-wing fringe, including by not having a recommendation algorithm, which helps groups stay hidden &lpar;Philip Bump/Washington Post&rpar;](http://www.techmeme.com/220424/p3#a220424p3)
- - [Daily deals April 24: $250 off 75-inch Hisense Smart TV, $499 Intel Mac mini, $105 robot vacuum cleaner, more](https://appleinsider.com/articles/22/04/24/daily-deals-april-24-250-off-75-inch-hisense-smart-tv-499-intel-mac-mini-105-robot-vacuum-cleaner-more?utm_medium=rss)<!-- TECH:END -->
+ - [How Telegram became the most prominent platform for the right-wing fringe, including by not having a recommendation algorithm, which helps groups stay hidden &lpar;Philip Bump/Washington Post&rpar;](http://www.techmeme.com/220424/p3#a220424p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
