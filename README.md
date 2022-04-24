@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight to jail](http://9gag.com/gag/aog8y53)
- - 🚯 [Time to vote](http://9gag.com/gag/a21bvnZ)
+ - 🚖 [All the risks were calculated but damn I&#39;m bad at math...](http://9gag.com/gag/adg2vRj)
+ - 🚯 [At a job interview. Boss: What are your strengths? My strengths:](http://9gag.com/gag/a51jQvr)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
