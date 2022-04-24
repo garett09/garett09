@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony is hiring a &#39;senior director for PC planning and strategy&#39;](https://www.pcgamer.com/sony-is-hiring-a-senior-director-for-pc-planning-and-strategy)
  - [Infinity Ward&#39;s social media goes dark, suggests a Modern Warfare 2 announcement is near](https://www.pcgamer.com/infinity-wards-social-media-goes-dark-suggests-a-modern-warfare-2-announcement-is-near)
- - [Skyrim: Special Edition mod makes NPCs say your name instead of calling you Dragonborn](https://www.pcgamer.com/skyrim-special-edition-mod-makes-npcs-say-your-name-instead-of-calling-you-dragonborn)
- - [Great moments in PC gaming: Building a new PC and having it work on the first try](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-new-pc-and-having-it-work-on-the-first-try)<!-- GAME:END -->
+ - [Skyrim: Special Edition mod makes NPCs say your name instead of calling you Dragonborn](https://www.pcgamer.com/skyrim-special-edition-mod-makes-npcs-say-your-name-instead-of-calling-you-dragonborn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
