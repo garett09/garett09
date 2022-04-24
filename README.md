@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This aged well](http://9gag.com/gag/aAGXG52)
+ - 🚖 [Some asian dude came to pick up his german citizenship documents, this is how he dressed &lpar;random google image find&rpar;:](http://9gag.com/gag/awz4ZVR)
  - 🚯 [Straight to jail](http://9gag.com/gag/aog8y53)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
