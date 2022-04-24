@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m just throwing facts on a sunday](http://9gag.com/gag/aRr2EX5)
- - 🚯 [Idky](http://9gag.com/gag/aZr2DeQ)
+ - 🚖 [This aged well](http://9gag.com/gag/aAGXG52)
+ - 🚯 [Straight to jail](http://9gag.com/gag/aog8y53)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
