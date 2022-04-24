@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman maces man for laugh, is surprised that the man calls the cop to arrest her](http://9gag.com/gag/awz4oZr)
- - 🚯 [What goes around comes around. Silent message for us &lpar;society&rpar;](http://9gag.com/gag/aE8Xpz9)
+ - 🚖 [My cat loves the watch cartoon for hours on weekends](http://9gag.com/gag/ay9QeGy)
+ - 🚯 [Chad Johnny](http://9gag.com/gag/aNPRp80)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
