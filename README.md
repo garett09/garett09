@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: King Arthur: Knight&#39;s Tale, Dune: Spice Wars and The Stanley Parable: Ultra Deluxe](https://www.pcgamer.com/this-week-in-pc-gaming-king-arthur-knights-tale-dune-spice-wars-the-stanley-parable-ultra-deluxe)
  - [It may be too late to save the Overwatch fandom](https://www.polygon.com/23035760/overwatch-2-beta-fandom-community-culture-fans)
- - [Barry keeps killing it, and that’s the problem](https://www.polygon.com/23037942/barry-season-3-review)
- - [Showtime’s The Man Who Fell to Earth remake &lpar;almost&rpar; promises a future we can believe in](https://www.polygon.com/23037289/the-man-who-fell-to-earth-review)<!-- GAME:END -->
+ - [Barry keeps killing it, and that’s the problem](https://www.polygon.com/23037942/barry-season-3-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
