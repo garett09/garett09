@@ -198,8 +198,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I&#39;m just throwing facts on a sunday](http://9gag.com/gag/aRr2EX5)
- - 🚯 [Thats right!](http://9gag.com/gag/amgVg6y)
- - 🚯 [Found the one!](http://9gag.com/gag/awz4zZW)<!-- MEMES:END -->
+ - 🚯 [Idky](http://9gag.com/gag/aZr2DeQ)
+ - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
 
