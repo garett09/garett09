@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi Magnetic Wireless Car Charger review: A reliable MagSafe-compatible charger](https://appleinsider.com/articles/22/04/24/satechi-magnetic-wireless-car-charger-review-a-reliable-magsafe-compatible-charger?utm_medium=rss)
- - [There isn’t a true Windows app for Google Messages and that’s driving me insane](https://www.androidauthority.com/google-messages-windows-3155429/)
- - [What to expect for iPhone 14: 48MP wide-angle camera, pill-shaped and circular cutouts instead of a notch, and an A16 for Pro models, a larger 6.7&quot; 14 Max &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220424/p4#a220424p4)<!-- TECH:END -->
+ - [Samsung and Google should steal this old LG camera feature](https://www.androidauthority.com/lg-graphy-camera-opnion-3154831/)
+ - [Robotaxi startup Pony.ai announces that it has received a license to operate 100 self-driving cars as traditional taxis in the Chinese city of Guangzhou &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/220424/p5#a220424p5)
+ - [BeReal Dares You to Be More Authentic on Social Media     - CNET](https://www.cnet.com/tech/services-%26-software/bereal-dares-you-to-be-more-authentic-on-social-media/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
