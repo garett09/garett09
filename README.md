@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CalDigit Tuff Nano Plus review: A reliable, durable, portable SSD](https://appleinsider.com/articles/22/04/24/caldigit-tuff-nano-plus-review-a-reliable-durable-portable-ssd?utm_medium=rss)
  - [Twitter Said to Be Re-examining Elon Musk&#39;s Bid for Company     - CNET](https://www.cnet.com/tech/twitter-said-to-be-re-examining-elon-musks-bid-for-company/#ftag=CAD590a51e)
- - [Amazon Astro Can Do More Than Patrol Your Home     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-can-do-more-than-patrol-your-home/#ftag=CAD590a51e)
- - [Here are the nine photos of a ‘Pixel Watch’ — and one wacky story](https://www.theverge.com/2022/4/24/23039835/google-pixel-watch-leak-photos-prototype-left-at-restaurant)<!-- TECH:END -->
+ - [Amazon Astro Can Do More Than Patrol Your Home     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-can-do-more-than-patrol-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
