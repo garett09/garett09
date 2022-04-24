@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 43 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-43-best-tv-shows-to-watch-now/#ftag=CAD590a51e)
- - [CalDigit Tuff Nano Plus review: A reliable, durable, portable SSD](https://appleinsider.com/articles/22/04/24/caldigit-tuff-nano-plus-review-a-reliable-durable-portable-ssd?utm_medium=rss)
- - [10 Energy-Saving Tips for Renters That&#39;ll Help Lower Your Utility Bills     - CNET](https://www.cnet.com/home/energy-and-utilities/10-energy-saving-tips-for-renters-thatll-help-lower-your-utility-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Workers at Nintendo’s third-party repair partner were reportedly overwhelmed with Joy-Con repairs](https://www.theverge.com/2022/4/24/23039777/workers-nintendo-third-party-repair-facility-were-reportedly-overwhelmed-with-joy-con-repairs)
+ - [Reliance Industries calls off its $3.4B acquisition of core parts of Indian retail chain Future Group, following Amazon&#39;s legal fight against the deal &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220424/p6#a220424p6)
+ - [Prime Video: The 43 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-43-best-tv-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
