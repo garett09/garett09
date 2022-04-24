@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung and Google should steal this old LG camera feature](https://www.androidauthority.com/lg-graphy-camera-opnion-3154831/)
- - [Robotaxi startup Pony.ai announces that it has received a license to operate 100 self-driving cars as traditional taxis in the Chinese city of Guangzhou &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/220424/p5#a220424p5)
- - [BeReal Dares You to Be More Authentic on Social Media     - CNET](https://www.cnet.com/tech/services-%26-software/bereal-dares-you-to-be-more-authentic-on-social-media/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter Said to Be Re-examining Elon Musk&#39;s Bid for Company     - CNET](https://www.cnet.com/tech/twitter-said-to-be-re-examining-elon-musks-bid-for-company/#ftag=CAD590a51e)
+ - [Amazon Astro Can Do More Than Patrol Your Home     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-can-do-more-than-patrol-your-home/#ftag=CAD590a51e)
+ - [Here are the nine photos of a ‘Pixel Watch’ — and one wacky story](https://www.theverge.com/2022/4/24/23039835/google-pixel-watch-leak-photos-prototype-left-at-restaurant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
