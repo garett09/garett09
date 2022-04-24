@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #309: Sunday, April 24](https://www.pcgamer.com/wordle-april-24-309-inert-definition)
  - [Sony is hiring a &#39;senior director for PC planning and strategy&#39;](https://www.pcgamer.com/sony-is-hiring-a-senior-director-for-pc-planning-and-strategy)
- - [Infinity Ward&#39;s social media goes dark, suggests a Modern Warfare 2 announcement is near](https://www.pcgamer.com/infinity-wards-social-media-goes-dark-suggests-a-modern-warfare-2-announcement-is-near)
- - [Skyrim: Special Edition mod makes NPCs say your name instead of calling you Dragonborn](https://www.pcgamer.com/skyrim-special-edition-mod-makes-npcs-say-your-name-instead-of-calling-you-dragonborn)<!-- GAME:END -->
+ - [Infinity Ward&#39;s social media goes dark, suggests a Modern Warfare 2 announcement is near](https://www.pcgamer.com/infinity-wards-social-media-goes-dark-suggests-a-modern-warfare-2-announcement-is-near)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
