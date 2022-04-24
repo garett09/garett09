@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every gaggers dream](http://9gag.com/gag/a21bKRp)
+ - 🚖 [Straight to jail](http://9gag.com/gag/aog8y53)
  - 🚯 [Time to vote](http://9gag.com/gag/a21bvnZ)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
