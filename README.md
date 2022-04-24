@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True that](http://9gag.com/gag/aBnXn52)
+ - 🚖 [I&#39;m just throwing facts on a sunday](http://9gag.com/gag/aRr2EX5)
  - 🚯 [Thats right!](http://9gag.com/gag/amgVg6y)
- - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
+ - 🚯 [Found the one!](http://9gag.com/gag/awz4zZW)<!-- MEMES:END -->
 
 --- 
 
