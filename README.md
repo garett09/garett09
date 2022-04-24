@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iMac Pro and M3 iMac coming, but not in 2022](https://appleinsider.com/articles/22/04/24/new-imac-pro-and-m3-imac-coming-but-not-in-2022?utm_medium=rss)
- - [GM reportedly stops providing battery pack replacements for the Chevy Spark EV](https://www.theverge.com/2022/4/24/23039665/gm-chevy-spark-ev-no-longer-provide-battery-replacements)
- - [Apple warns developers it will pull apps without recent updates from the App Store](https://appleinsider.com/articles/22/04/24/apple-warns-developers-it-will-pull-apps-without-recent-updates-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [There isn’t a true Windows app for Google Messages and that’s driving me insane](https://www.androidauthority.com/google-messages-windows-3155429/)
+ - [What to expect for iPhone 14: 48MP wide-angle camera, pill-shaped and circular cutouts instead of a notch, and an A16 for Pro models, a larger 6.7&quot; 14 Max &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220424/p4#a220424p4)
+ - [Best Silk Pillowcases for 2022     - CNET](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
