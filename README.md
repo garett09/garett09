@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adding the final touch to this piece of art](http://9gag.com/gag/aLvXwNV)
- - 🚯 [Wise guessing](http://9gag.com/gag/aQX21N8)
+ - 🚖 [Making a prosthetic thumb.](http://9gag.com/gag/a41qRgw)
+ - 🚯 [What goes around comes around. Silent message for us &lpar;society&rpar;](http://9gag.com/gag/aE8Xpz9)
  - 🚯 [Perfection](http://9gag.com/gag/aBnXmgx)<!-- MEMES:END -->
 
 --- 
