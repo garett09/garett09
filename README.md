@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valorant’s newest Agent, Fade, reveals her enemies with shadowy powers](https://www.polygon.com/23037912/valorant-new-agent-fade-ability-kit-ultimate-reveal-trailer)
  - [Hyper Light Breaker publisher Perfect World is now Gearbox Publishing](https://www.pcgamer.com/hyper-light-breaker-publisher-perfect-world-is-now-gearbox-publishing)
- - [The 10 recent Nicolas Cage movies you should watch](https://www.polygon.com/what-to-watch/23035423/nicolas-cage-movies-list-best-ranked)
- - [Riley Stearns explains the bizarre performances in his micro sci-fi movie Dual](https://www.polygon.com/23037790/riley-stearns-interview-dual-sci-fi)<!-- GAME:END -->
+ - [The 10 recent Nicolas Cage movies you should watch](https://www.polygon.com/what-to-watch/23035423/nicolas-cage-movies-list-best-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
