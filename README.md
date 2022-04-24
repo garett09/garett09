@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Buds Pro review: Pluses and minuses](https://www.androidauthority.com/oneplus-buds-pro-review-3155080/)
  - [Elon Musk&#39;s bid for Twitter appears to be about preserving Twitter as a means for himself and others to continue influencing vast audiences without interference &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/220424/p2#a220424p2)
- - [Apple warns it will remove apps from the App Store that haven&#39;t been &quot;updated in a significant amount of time&quot; and is giving developers 30 days to update them &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220424/p1#a220424p1)
- - [Someone found a Google Pixel Watch prototype in a restaurant and leaked it](https://www.androidauthority.com/google-pixel-watch-prototype-3156545/)<!-- TECH:END -->
+ - [Apple warns it will remove apps from the App Store that haven&#39;t been &quot;updated in a significant amount of time&quot; and is giving developers 30 days to update them &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220424/p1#a220424p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
