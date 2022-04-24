@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Video: The 43 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-43-best-tv-shows-to-watch-now/#ftag=CAD590a51e)
  - [CalDigit Tuff Nano Plus review: A reliable, durable, portable SSD](https://appleinsider.com/articles/22/04/24/caldigit-tuff-nano-plus-review-a-reliable-durable-portable-ssd?utm_medium=rss)
- - [Twitter Said to Be Re-examining Elon Musk&#39;s Bid for Company     - CNET](https://www.cnet.com/tech/twitter-said-to-be-re-examining-elon-musks-bid-for-company/#ftag=CAD590a51e)
- - [Amazon Astro Can Do More Than Patrol Your Home     - CNET](https://www.cnet.com/home/smart-home/amazon-astro-can-do-more-than-patrol-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Energy-Saving Tips for Renters That&#39;ll Help Lower Your Utility Bills     - CNET](https://www.cnet.com/home/energy-and-utilities/10-energy-saving-tips-for-renters-thatll-help-lower-your-utility-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
