@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riley Stearns explains the bizarre performances in his micro sci-fi movie Dual](https://www.polygon.com/23037790/riley-stearns-interview-dual-sci-fi)
  - [This week in PC Gaming: King Arthur: Knight&#39;s Tale, Dune: Spice Wars and The Stanley Parable: Ultra Deluxe](https://www.pcgamer.com/this-week-in-pc-gaming-king-arthur-knights-tale-dune-spice-wars-the-stanley-parable-ultra-deluxe)
- - [It may be too late to save the Overwatch fandom](https://www.polygon.com/23035760/overwatch-2-beta-fandom-community-culture-fans)
- - [Barry keeps killing it, and that’s the problem](https://www.polygon.com/23037942/barry-season-3-review)<!-- GAME:END -->
+ - [It may be too late to save the Overwatch fandom](https://www.polygon.com/23035760/overwatch-2-beta-fandom-community-culture-fans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
