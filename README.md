@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Barry keeps killing it, and that’s the problem](https://www.polygon.com/23037942/barry-season-3-review)
  - [Showtime’s The Man Who Fell to Earth remake &lpar;almost&rpar; promises a future we can believe in](https://www.polygon.com/23037289/the-man-who-fell-to-earth-review)
- - [Today&#39;s Wordle answer #309: Sunday, April 24](https://www.pcgamer.com/wordle-april-24-309-inert-definition)
- - [Sony is hiring a &#39;senior director for PC planning and strategy&#39;](https://www.pcgamer.com/sony-is-hiring-a-senior-director-for-pc-planning-and-strategy)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #309: Sunday, April 24](https://www.pcgamer.com/wordle-april-24-309-inert-definition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
