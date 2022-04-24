@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Easter to my Orthodox brothers. Hristos a \u00cenviat !](http://9gag.com/gag/aQX21n8)
+ - 🚖 [Adding the final touch to this piece of art](http://9gag.com/gag/aLvXwNV)
  - 🚯 [Wise guessing](http://9gag.com/gag/aQX21N8)
- - 🚯 [Coincidence ? i think not](http://9gag.com/gag/aVx2wew)<!-- MEMES:END -->
+ - 🚯 [Perfection](http://9gag.com/gag/aBnXmgx)<!-- MEMES:END -->
 
 --- 
 
