@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [16k vision unlocked](http://9gag.com/gag/aGz2pE5)
+ - 🚖 [Woman maces man for laugh, is surprised that the man calls the cop to arrest her](http://9gag.com/gag/awz4oZr)
  - 🚯 [What goes around comes around. Silent message for us &lpar;society&rpar;](http://9gag.com/gag/aE8Xpz9)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
