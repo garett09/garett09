@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple App Store appears to be widely removing outdated apps](https://www.theverge.com/2022/4/23/23038870/apple-app-store-widely-remove-outdated-apps-developers)
- - [Streamers are acting like network TV, as they pull back on edgy content and seek &quot;elevated broadcasts&quot;, like sitcoms, under financial pressure and competition &lpar;Joy Press/Vanity Fair&rpar;](http://www.techmeme.com/220423/p12#a220423p12)
- - [Apple TV+ &#39;Lady in the Lake&#39; prepares for filming in Baltimore](https://appleinsider.com/articles/22/04/23/apple-tv-lady-in-the-lake-prepares-for-filming-in-baltimore?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked images seem to show a Google Pixel Watch testing model left at a restaurant in the US, with a minimalist design in black and a proprietary Google band &lpar;Shruti Shekar/Android Central&rpar;](http://www.techmeme.com/220423/p13#a220423p13)
+ - [Amazon, Google, Meta Among Targets of EU Law on Disinformation, Harmful Content     - CNET](https://www.cnet.com/news/politics/amazon-google-meta-among-targets-of-eu-law-on-disinformation-harmful-content/#ftag=CAD590a51e)
+ - [&#39;Moon Knight&#39; Episode 4 Recap: Trippy Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-4-recap-trippy-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
