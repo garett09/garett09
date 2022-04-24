@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#39;t change my mind, wokes.](http://9gag.com/gag/a81wEOY)
- - 🚯 [Protester tried to climb a building to write defund police message, learned that he actually needed 911](http://9gag.com/gag/aGz2d4w)
+ - 🚖 [Protester tried to climb a building to write defund police message, learned that he actually needed 911](http://9gag.com/gag/aGz2d4w)
+ - 🚯 [This Sound](http://9gag.com/gag/aDDXDw7)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
