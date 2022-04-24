@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Amsterdam mayor honors survivors of Apple Store hostage standoff](https://appleinsider.com/articles/22/04/24/crime-blotter-amsterdam-mayor-honors-survivors-of-apple-store-hostage-standoff?utm_medium=rss)
- - [The Best Smart Speakers With Voice Assistants](https://www.wired.com/story/best-smart-speakers)
- - [Polk’s New Soundbar Will Surprise You With How Good It Sounds](https://www.wired.com/review/polk-signa-s4)<!-- TECH:END -->
+ - [The Best Electric Toothbrushes for Your Pearly Whites](https://www.wired.com/gallery/best-electric-toothbrushes)
+ - [How Telegram became the most prominent platform for the right-wing fringe, including by not having a recommendation algorithm, which helps groups stay hidden &lpar;Philip Bump/Washington Post&rpar;](http://www.techmeme.com/220424/p3#a220424p3)
+ - [Daily deals April 24: $250 off 75-inch Hisense Smart TV, $499 Intel Mac mini, $105 robot vacuum cleaner, more](https://appleinsider.com/articles/22/04/24/daily-deals-april-24-250-off-75-inch-hisense-smart-tv-499-intel-mac-mini-105-robot-vacuum-cleaner-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
