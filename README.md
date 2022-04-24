@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making a prosthetic thumb.](http://9gag.com/gag/a41qRgw)
+ - 🚖 [16k vision unlocked](http://9gag.com/gag/aGz2pE5)
  - 🚯 [What goes around comes around. Silent message for us &lpar;society&rpar;](http://9gag.com/gag/aE8Xpz9)
- - 🚯 [Perfection](http://9gag.com/gag/aBnXmgx)<!-- MEMES:END -->
+ - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
 
