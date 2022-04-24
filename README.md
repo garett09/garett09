@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Woman&#39;s Guide to the Most Toxic Trolls on the Internet](https://www.wired.com/story/womans-guide-toxic-trolls-internet)
- - [The Best Fitness Trackers and Watches for Everyone](https://www.wired.com/gallery/best-fitness-tracker)
- - [How to Make Sure You Can Recover Your iCloud Data](https://www.wired.com/story/how-to-make-sure-recover-icloud-data)<!-- TECH:END -->
+ - [Crime blotter: Amsterdam mayor honors survivors of Apple Store hostage standoff](https://appleinsider.com/articles/22/04/24/crime-blotter-amsterdam-mayor-honors-survivors-of-apple-store-hostage-standoff?utm_medium=rss)
+ - [The Best Smart Speakers With Voice Assistants](https://www.wired.com/story/best-smart-speakers)
+ - [Polk’s New Soundbar Will Surprise You With How Good It Sounds](https://www.wired.com/review/polk-signa-s4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
