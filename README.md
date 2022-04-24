@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some asian dude came to pick up his german citizenship documents, this is how he dressed &lpar;random google image find&rpar;:](http://9gag.com/gag/awz4ZVR)
- - 🚯 [Straight to jail](http://9gag.com/gag/aog8y53)
+ - 🚖 [At a job interview. Boss: What are your strengths? My strengths:](http://9gag.com/gag/a51jQvr)
+ - 🚯 [Idky](http://9gag.com/gag/aZr2DeQ)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
