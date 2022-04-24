@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s bid for Twitter appears to be about preserving Twitter as a means for himself and others to continue influencing vast audiences without interference &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/220424/p2#a220424p2)
  - [Apple warns it will remove apps from the App Store that haven&#39;t been &quot;updated in a significant amount of time&quot; and is giving developers 30 days to update them &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220424/p1#a220424p1)
- - [Someone found a Google Pixel Watch prototype in a restaurant and leaked it](https://www.androidauthority.com/google-pixel-watch-prototype-3156545/)
- - [Leaked images seem to show a Google Pixel Watch testing model left at a restaurant in the US, with a minimalist design in black and a proprietary Google band &lpar;Shruti Shekar/Android Central&rpar;](http://www.techmeme.com/220423/p13#a220423p13)<!-- TECH:END -->
+ - [Someone found a Google Pixel Watch prototype in a restaurant and leaked it](https://www.androidauthority.com/google-pixel-watch-prototype-3156545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
