@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s newest Agent, Fade, reveals her enemies with shadowy powers](https://www.polygon.com/23037912/valorant-new-agent-fade-ability-kit-ultimate-reveal-trailer)
- - [Hyper Light Breaker publisher Perfect World is now Gearbox Publishing](https://www.pcgamer.com/hyper-light-breaker-publisher-perfect-world-is-now-gearbox-publishing)
- - [The 10 recent Nicolas Cage movies you should watch](https://www.polygon.com/what-to-watch/23035423/nicolas-cage-movies-list-best-ranked)<!-- GAME:END -->
+ - [This fan is creating an Elden Ring demake for Game Boy](https://www.pcgamer.com/this-fan-is-creating-an-elden-ring-demake-for-game-boy)
+ - [Be a little pachinko playing goblin in Peglin](https://www.pcgamer.com/be-a-little-pachinko-playing-goblin-in-peglin)
+ - [Valorant’s newest Agent, Fade, reveals her enemies with shadowy powers](https://www.polygon.com/23037912/valorant-new-agent-fade-ability-kit-ultimate-reveal-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
