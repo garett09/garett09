@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My cat loves the watch cartoon for hours on weekends](http://9gag.com/gag/ay9QeGy)
- - 🚯 [Chad Johnny](http://9gag.com/gag/aNPRp80)
+ - 🚖 [You can&#39;t change my mind, wokes.](http://9gag.com/gag/a81wEOY)
+ - 🚯 [Protester tried to climb a building to write defund police message, learned that he actually needed 911](http://9gag.com/gag/aGz2d4w)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
