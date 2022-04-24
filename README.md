@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Infinity Ward&#39;s social media goes dark, suggests a Modern Warfare 2 announcement is near](https://www.pcgamer.com/infinity-wards-social-media-goes-dark-suggests-a-modern-warfare-2-announcement-is-near)
  - [Skyrim: Special Edition mod makes NPCs say your name instead of calling you Dragonborn](https://www.pcgamer.com/skyrim-special-edition-mod-makes-npcs-say-your-name-instead-of-calling-you-dragonborn)
- - [Great moments in PC gaming: Building a new PC and having it work on the first try](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-new-pc-and-having-it-work-on-the-first-try)
- - [The Bethesda Launcher will be shut down on May 11](https://www.pcgamer.com/the-bethesda-launcher-will-be-shut-down-on-may-11)<!-- GAME:END -->
+ - [Great moments in PC gaming: Building a new PC and having it work on the first try](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-new-pc-and-having-it-work-on-the-first-try)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
