@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All the risks were calculated but damn I&#39;m bad at math...](http://9gag.com/gag/adg2vRj)
- - 🚯 [At a job interview. Boss: What are your strengths? My strengths:](http://9gag.com/gag/a51jQvr)
+ - 🚖 [Example of precise building demolition](http://9gag.com/gag/a81w7jY)
+ - 🚯 [Holy mother of.. nosehands... fk cat ears, I want this](http://9gag.com/gag/aAGX6YE)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
