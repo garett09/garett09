@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: Building a new PC and having it work on the first try](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-new-pc-and-having-it-work-on-the-first-try)
  - [The Bethesda Launcher will be shut down on May 11](https://www.pcgamer.com/the-bethesda-launcher-will-be-shut-down-on-may-11)
- - [Raven QA union vote moves forward with NLRB approval](https://www.pcgamer.com/raven-qa-union-vote-moves-forward-with-nlrb-approval)
- - [Tanks in Company of Heroes 3 will get dynamically filthy](https://www.pcgamer.com/tanks-in-company-of-heroes-3-will-get-dynamically-filthy)<!-- GAME:END -->
+ - [Raven QA union vote moves forward with NLRB approval](https://www.pcgamer.com/raven-qa-union-vote-moves-forward-with-nlrb-approval)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
