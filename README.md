@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Science](http://9gag.com/gag/adg2gXD)
- - 🚯 [I can&#39;t forget this episode](http://9gag.com/gag/aPZXZKR)
+ - 🚖 [A MEGA PINT](http://9gag.com/gag/abg2gGp)
+ - 🚯 [True that](http://9gag.com/gag/aBnXn52)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
