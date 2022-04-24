@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is there a game only you seem to remember?](https://www.pcgamer.com/is-there-a-game-only-you-seem-to-remember)
- - [Connect traincars in puzzler Railbound from Golf Peaks and inbento makers](https://www.pcgamer.com/connect-traincars-in-order-in-puzzler-railbound-from-golf-peaks-and-inbento-makers)
- - [Tug-of-war RTS Warpips is a bit of cute, casual carnage](https://www.pcgamer.com/tug-of-war-rts-warpips-is-a-bit-of-cute-casual-carnage)<!-- GAME:END -->
+ - [The Bethesda Launcher will be shut down on May 11](https://www.pcgamer.com/the-bethesda-launcher-will-be-shut-down-on-may-11)
+ - [Raven QA union vote moves forward with NLRB approval](https://www.pcgamer.com/raven-qa-union-vote-moves-forward-with-nlrb-approval)
+ - [Tanks in Company of Heroes 3 will get dynamically filthy](https://www.pcgamer.com/tanks-in-company-of-heroes-3-will-get-dynamically-filthy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
