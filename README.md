@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple warns it will remove apps from the App Store that haven&#39;t been &quot;updated in a significant amount of time&quot; and is giving developers 30 days to update them &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220424/p1#a220424p1)
  - [Someone found a Google Pixel Watch prototype in a restaurant and leaked it](https://www.androidauthority.com/google-pixel-watch-prototype-3156545/)
- - [Leaked images seem to show a Google Pixel Watch testing model left at a restaurant in the US, with a minimalist design in black and a proprietary Google band &lpar;Shruti Shekar/Android Central&rpar;](http://www.techmeme.com/220423/p13#a220423p13)
- - [Amazon, Google, Meta Among Targets of EU Law on Disinformation, Harmful Content     - CNET](https://www.cnet.com/news/politics/amazon-google-meta-among-targets-of-eu-law-on-disinformation-harmful-content/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked images seem to show a Google Pixel Watch testing model left at a restaurant in the US, with a minimalist design in black and a proprietary Google band &lpar;Shruti Shekar/Android Central&rpar;](http://www.techmeme.com/220423/p13#a220423p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
