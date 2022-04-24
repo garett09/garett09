@@ -198,7 +198,7 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This Sound](http://9gag.com/gag/aDDXDw7)
- - 🚯 [I made lots of ZF-1s from \u2018The Fifth Element\u2019 for collectors.](http://9gag.com/gag/a91XEOL)
+ - 🚯 [INDONESIA BANS PALM OIL EXPORTS AS GLOBAL FOOD INFLATION SPIKES](http://9gag.com/gag/aXr2ojD)
  - 🚯 [Bunniverse NFT Blind Box Giveaway! Win a Bunniverse NFT Blind Box that will be air-dropped to you on mint day! Join on 9GAG Instagram now!](http://9gag.com/gag/aDDXdNZ)<!-- MEMES:END -->
 
 --- 
