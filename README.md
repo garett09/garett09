@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At a job interview. Boss: What are your strengths? My strengths:](http://9gag.com/gag/a51jQvr)
- - 🚯 [Idky](http://9gag.com/gag/aZr2DeQ)
+ - 🚖 [Every gaggers dream](http://9gag.com/gag/a21bKRp)
+ - 🚯 [Time to vote](http://9gag.com/gag/a21bvnZ)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
