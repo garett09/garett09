@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 is only coming next year, but we’ve already got a dessert name](https://www.androidauthority.com/android-14-codename-3156611/)
  - [The Pixel 6 Pro was apparently supposed to get face unlock at launch](https://www.androidauthority.com/pixel-6-pro-face-unlock-launch-3156108/)
- - [DoubleMe, a South Korean startup specializing in converting 2D videos into 3D models for the metaverse, raises a $25M Series A with Samsung among investors &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220425/p1#a220425p1)
- - [Daily deals April 24: $250 off 75-inch Hisense Smart TV, $499 Intel Mac mini, $105 robot vacuum cleaner, more](https://appleinsider.com/articles/22/04/24/daily-deals-april-24-250-off-75-inch-hisense-smart-tv-499-intel-mac-mini-105-robot-vacuum-cleaner-more?utm_medium=rss)<!-- TECH:END -->
+ - [DoubleMe, a South Korean startup specializing in converting 2D videos into 3D models for the metaverse, raises a $25M Series A with Samsung among investors &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220425/p1#a220425p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
