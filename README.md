@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Spice Wars doesn’t bring anything new to the Dune table](https://www.polygon.com/23040700/dune-video-game-spice-wars-4x-strategy)
- - [Your Spring 2022 Anime Guide](https://kotaku.com/anime-spring-2022-season-netflix-funimation-crunchyroll-1848831655)
- - [Everything we know about Call of Duty: Warzone Pacific Season 3](https://www.pcgamer.com/cod-warzone-season-3-update-release-date)<!-- GAME:END -->
+ - [Tom Holland meets Nolan North in this exclusive Uncharted behind-the-scenes clip](https://www.polygon.com/23040840/tom-holland-nolan-north-uncharted-movie-bts-clip)
+ - [AMD&#39;s high-performance motherboard chipsets might be built out of chiplets](https://www.pcgamer.com/amds-high-performance-motherboard-chipsets-might-be-built-out-of-chiplets)
+ - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
