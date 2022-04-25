@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mordor, this morning.](http://9gag.com/gag/apgA628)
- - 🚯 [Dont wanna offend short people](http://9gag.com/gag/aYr1DqO)
+ - 🚖 [Hours ago, an asshole went through the neighborhood throwing poisoned meat to the yards. I already know who he is, he left town but is coming back tomorrow, I have a crowbar waiting for him. Mi good girl will be fine, BTW, but smaller dogs in the block where not so lucky.](http://9gag.com/gag/aRr24xQ)
+ - 🚯 [BLM olympics.](http://9gag.com/gag/aLvX496)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
