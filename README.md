@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring dataminer sheds more light on the Lands Between&#39;s mysterious coliseums](https://www.pcgamer.com/elden-ring-dataminer-sheds-more-light-on-the-lands-betweens-mysterious-coliseums)
- - [Diablo Immortal Is Hitting PC Because Players Would Just Emulate It Anyway](https://kotaku.com/diablo-immortal-release-date-blizzard-arpg-pc-phone-cro-1848839594)
- - [BioWare Contractors Supporting On Games Like Mass Effect Seek To Unionize](https://kotaku.com/bioware-qa-union-mass-effect-dragon-age-star-wars-keywo-1848839482)<!-- GAME:END -->
+ - [Elden Ring Players Are Trying To Create The ‘Ultimate’ Berserk Mod](https://kotaku.com/elden-ring-berserk-guts-mod-garden-of-eyes-anime-kentar-1848840106)
+ - [Prove your videogame music expertise with this daily Heardle clone](https://www.pcgamer.com/prove-your-videogame-music-expertise-with-this-daily-heardle-clone)
+ - [BioWare QA workers make moves to unionize](https://www.polygon.com/23041676/bioware-qa-union-keywords-mass-effect-dragon-age)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
