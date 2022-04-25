@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valorant&#39;s next agent controls nightmare ink, shadow monsters](https://www.pcgamer.com/valorants-next-agent-controls-nightmare-ink-shadow-monsters)
  - [Forward: Escape the Fold turns dungeon crawling into solitaire](https://www.pcgamer.com/forward-escape-the-fold-turns-dungeon-crawling-into-solitaire)
- - [Vampire Survivors update 0.5.1 takes us to The Bone Zone](https://www.pcgamer.com/vampire-survivors-update-051-takes-us-to-the-bone-zone)
- - [This fan is creating an Elden Ring demake for Game Boy](https://www.pcgamer.com/this-fan-is-creating-an-elden-ring-demake-for-game-boy)<!-- GAME:END -->
+ - [Vampire Survivors update 0.5.1 takes us to The Bone Zone](https://www.pcgamer.com/vampire-survivors-update-051-takes-us-to-the-bone-zone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
