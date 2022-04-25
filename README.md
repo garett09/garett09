@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insteon dies, Matter update, Playdate review on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/25/aqara-curtain-driver-insteon-dies-matter-update-and-playdate-review-on-homekit-insider?utm_medium=rss)
- - [Meta is opening its first retail store next month](https://www.theverge.com/2022/4/25/23037875/meta-retail-store-burlingame-ray-ban-stories-portal-quest-hours-location)
- - [Daily deals April 25: 16-inch Apple MacBook Pro $2,249, $100 off Apple Watch Series 7, $399 off 12.9-inch iPad Pro, more](https://appleinsider.com/articles/22/04/25/daily-deals-april-25-16-inch-apple-macbook-pro-2249-100-off-apple-watch-series-7-399-off-129-inch-ipad-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [The US Saw a Spike in Child Sexual Abuse URLs in 2021](https://www.wired.com/story/child-abuse-hosting-us-increase)
+ - [Best gardening accessories that connect to an iPhone and iPad](https://appleinsider.com/inside/iphone/best/best-gardening-accessories-that-connect-to-an-iphone-and-ipad?utm_medium=rss)
+ - [Amazon’s latest Echo Dot is cheaper than ever at $27.99](https://www.theverge.com/good-deals/2022/4/25/23040773/amazon-echo-dot-bose-soundlink-flex-8bitdo-pro-2-irobot-roomba-j7-samsung-frame-tv-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
