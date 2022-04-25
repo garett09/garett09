@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Turd be like: -_-](http://9gag.com/gag/a81wABZ)
+ - 🚖 [Differences](http://9gag.com/gag/azeZPbN)
  - 🚯 [I voted for Son Goku](http://9gag.com/gag/aBnXZNO)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
