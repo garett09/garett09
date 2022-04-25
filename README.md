@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Netflix staff morale is sagging amid its cratering stock price, subscriber losses, and an engineering restructuring to create levels, such as &quot;junior&quot; &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220425/p7#a220425p7)
- - [Sources: Tencent-controlled Chinese video game streaming service Huya, which rivals DouYu, will lay off hundreds of staff; Huya had 2,075 employees in 2020 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220425/p6#a220425p6)
- - [Elon Musk could buy Twitter today, per reports](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
+ - [TSMC will earn $17 billion from Apple in 2022, up by $4 billion](https://appleinsider.com/articles/22/04/25/tsmc-to-earn-17-billion-from-apple-in-2022-up-4-billion?utm_medium=rss)
+ - [Foxconn says new factory suspensions won&#39;t affect production](https://appleinsider.com/articles/22/04/25/foxconn-says-new-factory-suspensions-wont-affect-production?utm_medium=rss)
+ - [Analysis: Elon Musk&#39;s Twitter bid includes a risky $12.5B margin loan, secured against TSLA and potentially costing ~$1B/year, alongside $21B from Musk himself &lpar;Reuters&rpar;](http://www.techmeme.com/220425/p9#a220425p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
