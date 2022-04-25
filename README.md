@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine War Prompts Europe&#39;s New Emergency Rules for the Internet](https://www.wired.com/story/europe-digital-services-act)
- - [Apple AirPods &lpar;3rd generation&rpar; review: Still unsealed, still not the best](https://www.androidauthority.com/apple-airpods-3rd-generation-review-3155014/)
- - [Up to $90 off the Fossil Gen 6, and more of the latest smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [Elon Musk is officially buying Twitter outright in a $44 billion deal](https://appleinsider.com/articles/22/04/25/elon-musk-is-officially-buying-twitter-outright-in-a-44-billion-deal?utm_medium=rss)
+ - [Twitter has entered into a definitive agreement to be acquired &quot;by an entity wholly owned by Elon Musk&quot;, for $54.20/share in cash, in a deal valued at ~$44B &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220425/p17#a220425p17)
+ - [Breaking: Elon Musk will officially buy Twitter](https://www.androidauthority.com/elon-musk-twitter-3156773/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
