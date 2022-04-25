@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Saw a Spike in Child Sexual Abuse URLs in 2021](https://www.wired.com/story/child-abuse-hosting-us-increase)
- - [Best gardening accessories that connect to an iPhone and iPad](https://appleinsider.com/inside/iphone/best/best-gardening-accessories-that-connect-to-an-iphone-and-ipad?utm_medium=rss)
- - [Amazon’s latest Echo Dot is cheaper than ever at $27.99](https://www.theverge.com/good-deals/2022/4/25/23040773/amazon-echo-dot-bose-soundlink-flex-8bitdo-pro-2-irobot-roomba-j7-samsung-frame-tv-deal-sale)<!-- TECH:END -->
+ - [Apple Music and the iOS App Store are having problems](https://www.theverge.com/2022/4/25/23041217/apple-app-store-music-down-outage-offline-lossless)
+ - [Stripe test lets Twitter creators get paid in cryptocurrency](https://www.theverge.com/2022/4/25/23041052/stripe-twitter-test-payouts-usdc-stablecoin-cryptocurrency)
+ - [Leaked Sony earbuds have a big ol’ vent](https://www.theverge.com/2022/4/25/23041108/sony-wireless-earbuds-linkbuds-s-vent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
