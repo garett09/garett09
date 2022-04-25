@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vampire Survivors update 0.5.1 takes us to The Bone Zone](https://www.pcgamer.com/vampire-survivors-update-051-takes-us-to-the-bone-zone)
  - [This fan is creating an Elden Ring demake for Game Boy](https://www.pcgamer.com/this-fan-is-creating-an-elden-ring-demake-for-game-boy)
- - [Be a little pachinko playing goblin in Peglin](https://www.pcgamer.com/be-a-little-pachinko-playing-goblin-in-peglin)
- - [Valorant’s newest Agent, Fade, reveals her enemies with shadowy powers](https://www.polygon.com/23037912/valorant-new-agent-fade-ability-kit-ultimate-reveal-trailer)<!-- GAME:END -->
+ - [Be a little pachinko playing goblin in Peglin](https://www.pcgamer.com/be-a-little-pachinko-playing-goblin-in-peglin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
