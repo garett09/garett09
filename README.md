@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Intoxicating Pleasure of Conspiratorial Thinking](https://www.wired.com/story/conspiratorial-thinking-qanon-beliefs)
- - [What Is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse)
- - [Extreme Heat Is a Disease for Cities. Treat It That Way](https://www.wired.com/story/extreme-heat-is-a-disease-for-cities-treat-it-that-way)<!-- TECH:END -->
+ - [Sources: Netflix staff morale is sagging amid its cratering stock price, subscriber losses, and an engineering restructuring to create levels, such as &quot;junior&quot; &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220425/p7#a220425p7)
+ - [Sources: Tencent-controlled Chinese video game streaming service Huya, which rivals DouYu, will lay off hundreds of staff; Huya had 2,075 employees in 2020 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220425/p6#a220425p6)
+ - [Elon Musk could buy Twitter today, per reports](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
