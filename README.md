@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the leaked Pixel Watch next to an Apple Watch, Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-comparison-3156624/)
- - [An interview with Puerto Rican Twitch star Ironmouse, who suffers from the chronic illness CVID and is the most popular VTuber on Twitch with 1M+ followers &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220425/p2#a220425p2)
- - [Android 14 is only coming next year, but we’ve already got a dessert name](https://www.androidauthority.com/android-14-codename-3156611/)<!-- TECH:END -->
+ - [Apple TV+ wins two British documentary BAFTA awards](https://appleinsider.com/articles/22/04/25/apple-tv-wins-two-british-documentary-bafta-awards?utm_medium=rss)
+ - [Asus’ new portable monitor looks like it was ripped from a Duo laptop](https://www.theverge.com/2022/4/25/23040654/asus-proart-display-pa147cdv-14-inch-secondary-monitor-duo-laptop)
+ - [Here’s the leaked Pixel Watch next to an Apple Watch, Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-comparison-3156624/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
