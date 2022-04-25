@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers at Nintendo’s third-party repair partner were reportedly overwhelmed with Joy-Con repairs](https://www.theverge.com/2022/4/24/23039777/workers-nintendo-third-party-repair-facility-were-reportedly-overwhelmed-with-joy-con-repairs)
- - [Reliance Industries calls off its $3.4B acquisition of core parts of Indian retail chain Future Group, following Amazon&#39;s legal fight against the deal &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220424/p6#a220424p6)
- - [Prime Video: The 43 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-43-best-tv-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oracle patches a critical bug in Java 15 and above, which lets attackers forge TLS certificates and signatures, two-factor authentication messages, and more &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220424/p8#a220424p8)
+ - [Sources: Twitter&#39;s board met Sunday to discuss Elon Musk&#39;s bid, which is being considered more seriously after Musk&#39;s filing detailed $46.5B in financing &lpar;New York Times&rpar;](http://www.techmeme.com/220424/p7#a220424p7)
+ - [Nine ‘Pixel Watch’ photos leak — and one wacky story](https://www.theverge.com/2022/4/24/23039835/google-pixel-watch-leak-photos-prototype-left-at-restaurant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
