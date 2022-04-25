@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Companies can&#39;t get enough of good ol&#39; tape storage for ransomware resistance](https://www.pcgamer.com/companies-cant-get-enough-of-good-ol-tape-storage-for-ransomware-resistance)
- - [Diablo Immortal now coming to PC along with mobile this June](https://www.polygon.com/23040721/diablo-immortal-pc-mobile-release-date-crossplay)
- - [Dying Light 2 shifted 5 million copies in February alone](https://www.pcgamer.com/dying-light-2-shifted-5-million-copies-in-february-alone)<!-- GAME:END -->
+ - [Dune: Spice Wars doesn’t bring anything new to the Dune table](https://www.polygon.com/23040700/dune-video-game-spice-wars-4x-strategy)
+ - [Your Spring 2022 Anime Guide](https://kotaku.com/anime-spring-2022-season-netflix-funimation-crunchyroll-1848831655)
+ - [Everything we know about Call of Duty: Warzone Pacific Season 3](https://www.pcgamer.com/cod-warzone-season-3-update-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
