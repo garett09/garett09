@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft may be the next videogame publisher to get acquired](https://www.pcgamer.com/ubisoft-may-be-the-next-videogame-publisher-to-be-acquired)
  - [Valorant&#39;s next agent controls nightmare ink, shadow monsters](https://www.pcgamer.com/valorants-next-agent-controls-nightmare-ink-shadow-monsters)
- - [Forward: Escape the Fold turns dungeon crawling into solitaire](https://www.pcgamer.com/forward-escape-the-fold-turns-dungeon-crawling-into-solitaire)
- - [Vampire Survivors update 0.5.1 takes us to The Bone Zone](https://www.pcgamer.com/vampire-survivors-update-051-takes-us-to-the-bone-zone)<!-- GAME:END -->
+ - [Forward: Escape the Fold turns dungeon crawling into solitaire](https://www.pcgamer.com/forward-escape-the-fold-turns-dungeon-crawling-into-solitaire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
