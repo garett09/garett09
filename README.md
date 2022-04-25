@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The feeling when you got your first mount at level 1...](http://9gag.com/gag/aYr1MK2)
- - 🚯 [Copy+Paste](http://9gag.com/gag/aXr24rV)
+ - 🚖 [Dont know why but I like Oktoberfest](http://9gag.com/gag/ajgKB7p)
+ - 🚯 [Macron playing &#39;one more time&#39; after his victory speech](http://9gag.com/gag/aOQ19MN)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
