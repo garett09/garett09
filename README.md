@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 is only coming next year, but we’ve already got a dessert name](https://www.androidauthority.com/android-14-codename-3156611/)
- - [The Pixel 6 Pro was apparently supposed to get face unlock at launch](https://www.androidauthority.com/pixel-6-pro-face-unlock-launch-3156108/)
- - [DoubleMe, a South Korean startup specializing in converting 2D videos into 3D models for the metaverse, raises a $25M Series A with Samsung among investors &lpar;Aditya Hadi Pratama/Tech in Asia&rpar;](http://www.techmeme.com/220425/p1#a220425p1)<!-- TECH:END -->
+ - [Here’s the leaked Pixel Watch next to an Apple Watch, Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-comparison-3156624/)
+ - [An interview with Puerto Rican Twitch star Ironmouse, who suffers from the chronic illness CVID and is the most popular VTuber on Twitch with 1M+ followers &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220425/p2#a220425p2)
+ - [Android 14 is only coming next year, but we’ve already got a dessert name](https://www.androidauthority.com/android-14-codename-3156611/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
