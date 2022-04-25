@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Long time no see my old friend\u2026](http://9gag.com/gag/aGz2BB0)
- - 🚯 [Another 40kg of garbage. I feel so good making our place cleaner. Sincerely yours Garbage Guy.](http://9gag.com/gag/arnBZ4p)
+ - 🚖 [That was clearly planned... And well executed](http://9gag.com/gag/aVx2KRO)
+ - 🚯 [Dont wanna offend short people](http://9gag.com/gag/aYr1DqO)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
