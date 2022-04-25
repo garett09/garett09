@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is finally adding Teams to its own store](https://www.theverge.com/2022/4/25/23041536/microsoft-teams-windows-app-store-built-in)
- - [Apple&#39;s Private Relay VPN feature appears to have a leak](https://appleinsider.com/articles/22/04/25/apples-private-relay-vpn-feature-appears-to-have-a-leak?utm_medium=rss)
- - [Warner Bros. and J.J. Abrams are working on a live-action Hot Wheels movie](https://www.theverge.com/2022/4/25/23041621/hot-wheels-live-action-movie-mattel-jj-abrams-bad-robot)<!-- TECH:END -->
+ - [Sennheiser’s Momentum True Wireless 3 earbuds have a fresh design and better ANC](https://www.theverge.com/2022/4/25/23041127/sennheiser-momentum-true-wireless-3-features-price)
+ - [Twitter CEO tells employees no layoffs planned ‘at this time’ following Elon Musk buyout](https://www.theverge.com/2022/4/25/23041753/twitter-ceo-elon-musk-no-layoffs-planned)
+ - [The latest version of color E Ink brings us closer to the perfect tablet](https://www.theverge.com/2022/4/25/23041407/e-ink-color-gallery-3-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
