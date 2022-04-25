@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont know why but I like Oktoberfest](http://9gag.com/gag/ajgKB7p)
- - 🚯 [Another 40kg of garbage. I feel so good making our place cleaner. Sincerely yours Garbage Guy.](http://9gag.com/gag/arnBZ4p)
- - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
+ - 🚖 [Calculated and proven. Cost benefit Analysis works. We need science to lead us not politics](http://9gag.com/gag/aGz2G00)
+ - 🚯 [Bugfield 2042.....](http://9gag.com/gag/a11L05P)
+ - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
 
