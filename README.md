@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont know why but I like Oktoberfest](http://9gag.com/gag/ajgKB7p)
- - 🚯 [Macron playing &#39;one more time&#39; after his victory speech](http://9gag.com/gag/aOQ19MN)
+ - 🚖 [Guinness World Records are saddened to hear that Kane Tanaka &lpar;Japan&rpar; passed away on 19 April 2022 at the age of 119.](http://9gag.com/gag/aog8xow)
+ - 🚯 [Sounds good to me](http://9gag.com/gag/awz4OEW)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
