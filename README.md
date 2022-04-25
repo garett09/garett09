@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guinness World Records are saddened to hear that Kane Tanaka &lpar;Japan&rpar; passed away on 19 April 2022 at the age of 119.](http://9gag.com/gag/aog8xow)
+ - 🚖 [Right in the feels :&lpar;](http://9gag.com/gag/apgAPbD)
  - 🚯 [Sounds good to me](http://9gag.com/gag/awz4OEW)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
