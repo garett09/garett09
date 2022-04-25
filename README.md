@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Variable Refresh Rate support for PS5 is rolling out this week](https://blog.playstation.com/2022/04/25/variable-refresh-rate-support-for-ps5-is-rolling-out-this-week/)
- - [Variable Refresh Rate support for PS5 is rolling out this week](https://blog.playstation.com/2022/04/25/variable-refresh-rate-support-for-ps5-is-rolling-out-this-week/)
- - [Elon Musk officially buys Twitter](https://www.pcgamer.com/elon-musk-could-close-twitter-deal-today)<!-- GAME:END -->
+ - [These intricate Sims 4 builds basically look like Dragon Age: Inquisition screenshots](https://www.pcgamer.com/these-intricate-sims-4-builds-basically-look-like-dragon-age-inquisition-screenshots)
+ - [Elden Ring mod adds the kind of seamless co-op we’d love to have](https://www.polygon.com/23041485/elden-ring-co-op-mod-video)
+ - [How to get Overwatch 2 beta access with Twitch drops](https://www.pcgamer.com/overwatch-2-beta-twitch-drops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
