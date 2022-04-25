@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids going to school in Shanghai](http://9gag.com/gag/a51j6ME)
- - 🚯 [This Man Is Recycling Old Picnic Coolers And Making Them Into Shelters For Stray Cats During Winter. How Cool Is This?](http://9gag.com/gag/aqGz86Q)
+ - 🚖 [Damn alarm](http://9gag.com/gag/a61p5b9)
+ - 🚯 [EU Votes To Mandate One Standard Charger For All Phones](http://9gag.com/gag/aGz28jX)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
