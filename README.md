@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A change to WhatsApp disappearing messages is another reason to use Signal](https://www.androidauthority.com/keep-whatsapp-disappearing-3156924/)
- - [Bose Quietcomfort 45 vs Sony WH-1000XM4: Which should you buy?](https://www.androidauthority.com/bose-quietcomfort-45-vs-sony-wh-1000xm4-3155922/)
- - [Elon Musk is officially buying Twitter outright in a $44 billion deal](https://appleinsider.com/articles/22/04/25/elon-musk-is-officially-buying-twitter-outright-in-a-44-billion-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is finally adding Teams to its own store](https://www.theverge.com/2022/4/25/23041536/microsoft-teams-windows-app-store-built-in)
+ - [Apple&#39;s Private Relay VPN feature appears to have a leak](https://appleinsider.com/articles/22/04/25/apples-private-relay-vpn-feature-appears-to-have-a-leak?utm_medium=rss)
+ - [Warner Bros. and J.J. Abrams are working on a live-action Hot Wheels movie](https://www.theverge.com/2022/4/25/23041621/hot-wheels-live-action-movie-mattel-jj-abrams-bad-robot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
