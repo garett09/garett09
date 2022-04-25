@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Gets Game Boy Demake In New Fan Project](https://kotaku.com/elden-ring-game-boy-demake-final-fantasy-adventure-meli-1848838073)
- - [NFT Bored Ape marketplace gets hacked, people lose &#39;millions&#39; in ape pictures](https://www.pcgamer.com/nft-bored-ape-marketplace-gets-hacked-people-lose-millions-in-ape-pictures)
- - [Halo Infinite Devs Delay For Health, Community Disappointed Anyway](https://kotaku.com/halo-infinite-roadmap-343-industries-season-two-campaig-1848837702)<!-- GAME:END -->
+ - [Variable Refresh Rate support for PS5 is rolling out this week](https://blog.playstation.com/2022/04/25/variable-refresh-rate-support-for-ps5-is-rolling-out-this-week/)
+ - [Variable Refresh Rate support for PS5 is rolling out this week](https://blog.playstation.com/2022/04/25/variable-refresh-rate-support-for-ps5-is-rolling-out-this-week/)
+ - [Elon Musk officially buys Twitter](https://www.pcgamer.com/elon-musk-could-close-twitter-deal-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
