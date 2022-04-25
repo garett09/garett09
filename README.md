@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal reveal event: Watch it here](https://www.polygon.com/23037851/diablo-immortal-reveal-event-stream-mobile-game)
- - [Ubisoft may be the next videogame publisher to get acquired](https://www.pcgamer.com/ubisoft-may-be-the-next-videogame-publisher-to-be-acquired)
- - [Valorant&#39;s next agent controls nightmare ink, shadow monsters](https://www.pcgamer.com/valorants-next-agent-controls-nightmare-ink-shadow-monsters)<!-- GAME:END -->
+ - [AMD&#39;s AM5 platform won&#39;t support DDR4 at launch](https://www.pcgamer.com/amds-am5-platform-wont-support-ddr4-at-launch)
+ - [Half-Life&#39;s infamous tram opening is even creepier when voiced by TikTok](https://www.pcgamer.com/half-lifes-infamous-tram-opening-is-even-creepier-when-voiced-by-tiktok)
+ - [Today&#39;s Wordle answer #310: Monday, April 25](https://www.pcgamer.com/wordle-april-25-310-askew-meaning-definition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
