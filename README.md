@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ wins two British documentary BAFTA awards](https://appleinsider.com/articles/22/04/25/apple-tv-wins-two-british-documentary-bafta-awards?utm_medium=rss)
- - [Asus’ new portable monitor looks like it was ripped from a Duo laptop](https://www.theverge.com/2022/4/25/23040654/asus-proart-display-pa147cdv-14-inch-secondary-monitor-duo-laptop)
- - [Here’s the leaked Pixel Watch next to an Apple Watch, Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-comparison-3156624/)<!-- TECH:END -->
+ - [The Intoxicating Pleasure of Conspiratorial Thinking](https://www.wired.com/story/conspiratorial-thinking-qanon-beliefs)
+ - [What Is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse)
+ - [Extreme Heat Is a Disease for Cities. Treat It That Way](https://www.wired.com/story/extreme-heat-is-a-disease-for-cities-treat-it-that-way)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
