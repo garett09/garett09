@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is officially buying Twitter outright in a $44 billion deal](https://appleinsider.com/articles/22/04/25/elon-musk-is-officially-buying-twitter-outright-in-a-44-billion-deal?utm_medium=rss)
- - [Twitter has entered into a definitive agreement to be acquired &quot;by an entity wholly owned by Elon Musk&quot;, for $54.20/share in cash, in a deal valued at ~$44B &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220425/p17#a220425p17)
- - [Breaking: Elon Musk will officially buy Twitter](https://www.androidauthority.com/elon-musk-twitter-3156773/)<!-- TECH:END -->
+ - [A change to WhatsApp disappearing messages is another reason to use Signal](https://www.androidauthority.com/keep-whatsapp-disappearing-3156924/)
+ - [Bose Quietcomfort 45 vs Sony WH-1000XM4: Which should you buy?](https://www.androidauthority.com/bose-quietcomfort-45-vs-sony-wh-1000xm4-3155922/)
+ - [Elon Musk is officially buying Twitter outright in a $44 billion deal](https://appleinsider.com/articles/22/04/25/elon-musk-is-officially-buying-twitter-outright-in-a-44-billion-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
