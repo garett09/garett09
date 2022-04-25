@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was clearly planned... And well executed](http://9gag.com/gag/aVx2KRO)
- - 🚯 [Dont wanna offend short people](http://9gag.com/gag/aYr1DqO)
+ - 🚖 [Look how embarrassed Mr.Tyson get when the CAM caught him being the best human he can be.](http://9gag.com/gag/aNPRVp3)
+ - 🚯 [Right in the feels :&lpar;](http://9gag.com/gag/apgAPbD)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
