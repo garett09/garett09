@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal is now coming to PC along with mobile this June](https://www.polygon.com/23040721/diablo-immortal-pc-mobile-release-date-crossplay)
- - [Diablo Immortal reveal event: Watch it here](https://www.polygon.com/23037851/diablo-immortal-reveal-event-stream-mobile-game)
- - [Ubisoft may be the next videogame publisher to get acquired](https://www.pcgamer.com/ubisoft-may-be-the-next-videogame-publisher-to-be-acquired)<!-- GAME:END -->
+ - [Companies can&#39;t get enough of good ol&#39; tape storage for ransomware resistance](https://www.pcgamer.com/companies-cant-get-enough-of-good-ol-tape-storage-for-ransomware-resistance)
+ - [Diablo Immortal now coming to PC along with mobile this June](https://www.polygon.com/23040721/diablo-immortal-pc-mobile-release-date-crossplay)
+ - [Dying Light 2 shifted 5 million copies in February alone](https://www.pcgamer.com/dying-light-2-shifted-5-million-copies-in-february-alone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
