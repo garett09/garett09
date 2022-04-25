@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter set to accept Elon Musk&#39;s $43 billion buy offer, report claims](https://appleinsider.com/articles/22/04/25/twitter-set-to-accept-elon-musks-offer-to-buy-it-for-43-billion-report-claims?utm_medium=rss)
  - [Insteon dies, Matter update, Playdate review on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/25/aqara-curtain-driver-insteon-dies-matter-update-and-playdate-review-on-homekit-insider?utm_medium=rss)
- - [US crypto exchanges and companies are ramping up recruiting legal talent, as the industry faces increased scrutiny; law firms are also building crypto practices &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/220425/p10#a220425p10)<!-- TECH:END -->
+ - [Meta is opening its first retail store next month](https://www.theverge.com/2022/4/25/23037875/meta-retail-store-burlingame-ray-ban-stories-portal-quest-hours-location)
+ - [Daily deals April 25: 16-inch Apple MacBook Pro $2,249, $100 off Apple Watch Series 7, $399 off 12.9-inch iPad Pro, more](https://appleinsider.com/articles/22/04/25/daily-deals-april-25-16-inch-apple-macbook-pro-2249-100-off-apple-watch-series-7-399-off-129-inch-ipad-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
