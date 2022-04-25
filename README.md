@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music and the iOS App Store are having problems](https://www.theverge.com/2022/4/25/23041217/apple-app-store-music-down-outage-offline-lossless)
- - [Stripe test lets Twitter creators get paid in cryptocurrency](https://www.theverge.com/2022/4/25/23041052/stripe-twitter-test-payouts-usdc-stablecoin-cryptocurrency)
- - [Leaked Sony earbuds have a big ol’ vent](https://www.theverge.com/2022/4/25/23041108/sony-wireless-earbuds-linkbuds-s-vent)<!-- TECH:END -->
+ - [Ukraine War Prompts Europe&#39;s New Emergency Rules for the Internet](https://www.wired.com/story/europe-digital-services-act)
+ - [Apple AirPods &lpar;3rd generation&rpar; review: Still unsealed, still not the best](https://www.androidauthority.com/apple-airpods-3rd-generation-review-3155014/)
+ - [Up to $90 off the Fossil Gen 6, and more of the latest smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
