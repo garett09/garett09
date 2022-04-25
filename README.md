@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look how embarrassed Mr.Tyson get when the CAM caught him being the best human he can be.](http://9gag.com/gag/aNPRVp3)
- - 🚯 [Right in the feels :&lpar;](http://9gag.com/gag/apgAPbD)
+ - 🚖 [Dont know why but I like Oktoberfest](http://9gag.com/gag/ajgKB7p)
+ - 🚯 [Another 40kg of garbage. I feel so good making our place cleaner. Sincerely yours Garbage Guy.](http://9gag.com/gag/arnBZ4p)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
