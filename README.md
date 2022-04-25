@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser’s Momentum True Wireless 3 earbuds have a fresh design and better ANC](https://www.theverge.com/2022/4/25/23041127/sennheiser-momentum-true-wireless-3-features-price)
- - [Twitter CEO tells employees no layoffs planned ‘at this time’ following Elon Musk buyout](https://www.theverge.com/2022/4/25/23041753/twitter-ceo-elon-musk-no-layoffs-planned)
- - [The latest version of color E Ink brings us closer to the perfect tablet](https://www.theverge.com/2022/4/25/23041407/e-ink-color-gallery-3-announced)<!-- TECH:END -->
+ - [Twitter employees say they heard little from Elon Musk, CEO Parag Agrawal, management, and Charles Schwab about what a sale to the billionaire means for them &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220425/p21#a220425p21)
+ - [Deal: Get the 4th Gen Echo Dot for just $27.99](https://www.androidauthority.com/amazon-echo-dot-4th-gen-deal-3157047/)
+ - [How to create and delete subreddits on Reddit](https://www.androidauthority.com/create-delete-subreddit-3156982/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
