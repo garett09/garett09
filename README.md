@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC will earn $17 billion from Apple in 2022, up by $4 billion](https://appleinsider.com/articles/22/04/25/tsmc-to-earn-17-billion-from-apple-in-2022-up-4-billion?utm_medium=rss)
- - [Foxconn says new factory suspensions won&#39;t affect production](https://appleinsider.com/articles/22/04/25/foxconn-says-new-factory-suspensions-wont-affect-production?utm_medium=rss)
- - [Analysis: Elon Musk&#39;s Twitter bid includes a risky $12.5B margin loan, secured against TSLA and potentially costing ~$1B/year, alongside $21B from Musk himself &lpar;Reuters&rpar;](http://www.techmeme.com/220425/p9#a220425p9)<!-- TECH:END -->
+ - [Twitter set to accept Elon Musk&#39;s $43 billion buy offer, report claims](https://appleinsider.com/articles/22/04/25/twitter-set-to-accept-elon-musks-offer-to-buy-it-for-43-billion-report-claims?utm_medium=rss)
+ - [Insteon dies, Matter update, Playdate review on the HomeKit Insider podcast](https://appleinsider.com/articles/22/04/25/aqara-curtain-driver-insteon-dies-matter-update-and-playdate-review-on-homekit-insider?utm_medium=rss)
+ - [US crypto exchanges and companies are ramping up recruiting legal talent, as the industry faces increased scrutiny; law firms are also building crypto practices &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/220425/p10#a220425p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
