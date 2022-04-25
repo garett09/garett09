@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s maligned Mega Evolutions get a much-needed overhaul](https://www.polygon.com/23041699/pokemon-go-mega-evolution-update-changes-rework)
- - [Elden Ring Invader Finds Jesus, Satan Hangin’ Out Together](https://kotaku.com/elden-ring-tarnished-jesus-satan-tree-sentinel-lands-be-1848839303)
- - [An Old-School Batman Voice Clip Is Hiding In A Bunch Of Your Favorite Games](https://kotaku.com/batman-adam-west-street-fighter-iii-3rd-strike-sonic-cd-1848839167)<!-- GAME:END -->
+ - [Elden Ring dataminer sheds more light on the Lands Between&#39;s mysterious coliseums](https://www.pcgamer.com/elden-ring-dataminer-sheds-more-light-on-the-lands-betweens-mysterious-coliseums)
+ - [Diablo Immortal Is Hitting PC Because Players Would Just Emulate It Anyway](https://kotaku.com/diablo-immortal-release-date-blizzard-arpg-pc-phone-cro-1848839594)
+ - [BioWare Contractors Supporting On Games Like Mass Effect Seek To Unionize](https://kotaku.com/bioware-qa-union-mass-effect-dragon-age-star-wars-keywo-1848839482)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
