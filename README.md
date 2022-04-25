@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hours ago, an asshole went through the neighborhood throwing poisoned meat to the yards. I already know who he is, he left town but is coming back tomorrow, I have a crowbar waiting for him. Mi good girl will be fine, BTW, but smaller dogs in the block where not so lucky.](http://9gag.com/gag/aRr24xQ)
- - 🚯 [BLM olympics.](http://9gag.com/gag/aLvX496)
+ - 🚖 [Long time no see my old friend\u2026](http://9gag.com/gag/aGz2BB0)
+ - 🚯 [Another 40kg of garbage. I feel so good making our place cleaner. Sincerely yours Garbage Guy.](http://9gag.com/gag/arnBZ4p)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
