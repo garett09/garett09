@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn alarm](http://9gag.com/gag/a61p5b9)
- - 🚯 [EU Votes To Mandate One Standard Charger For All Phones](http://9gag.com/gag/aGz28jX)
+ - 🚖 [King Arthur, Tintagel Castle, England. Love this statue.](http://9gag.com/gag/aqGz6yR)
+ - 🚯 [Mordor, this morning.](http://9gag.com/gag/apgA628)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
