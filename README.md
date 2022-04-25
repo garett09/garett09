@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m an amateur nightscape photographer and this is my art..](http://9gag.com/gag/arnB3v6)
- - 🚯 [Kids going to school in Shanghai](http://9gag.com/gag/a51j6ME)
+ - 🚖 [Kids going to school in Shanghai](http://9gag.com/gag/a51j6ME)
+ - 🚯 [This Man Is Recycling Old Picnic Coolers And Making Them Into Shelters For Stray Cats During Winter. How Cool Is This?](http://9gag.com/gag/aqGz86Q)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/a71NyGm)<!-- MEMES:END -->
 
 --- 
