@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Holland meets Nolan North in this exclusive Uncharted behind-the-scenes clip](https://www.polygon.com/23040840/tom-holland-nolan-north-uncharted-movie-bts-clip)
- - [AMD&#39;s high-performance motherboard chipsets might be built out of chiplets](https://www.pcgamer.com/amds-high-performance-motherboard-chipsets-might-be-built-out-of-chiplets)
- - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)<!-- GAME:END -->
+ - [Why all the genital tweaks in The Northman? ‘You can’t have penises on airplanes’](https://www.polygon.com/23038019/the-northman-lava-fight-explained-cgi-genitals)
+ - [Diablo Immortal is coming to PC, because Blizzard knew you’d emulate it anyway](https://www.polygon.com/23040956/diablo-immortal-pc-mobile-emulation-blizzard)
+ - [Tom Holland meets Nolan North in this exclusive Uncharted behind-the-scenes clip](https://www.polygon.com/23040840/tom-holland-nolan-north-uncharted-movie-bts-clip)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
