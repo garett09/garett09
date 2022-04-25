@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The 12 year old sucker punch guy 100% got 7 years. And so he should. Source: daily mail online.](http://9gag.com/gag/aNPRV9A)
- - 🚯 [Dont know why but I like Oktoberfest](http://9gag.com/gag/ajgKB7p)
+ - 🚖 [The feeling when you got your first mount at level 1...](http://9gag.com/gag/aYr1MK2)
+ - 🚯 [Copy+Paste](http://9gag.com/gag/aXr24rV)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
