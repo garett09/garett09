@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple, Amazon, and Google have turned to old union-busting tactics, like surveilling workers suspected of organizing, posting propaganda, and hiring consultants &lpar;Washington Post&rpar;](http://www.techmeme.com/220424/p9#a220424p9)
  - [Oracle patches a critical bug in Java 15 and above, which lets attackers forge TLS certificates and signatures, two-factor authentication messages, and more &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220424/p8#a220424p8)
- - [Sources: Twitter&#39;s board met Sunday to discuss Elon Musk&#39;s bid, which is being considered more seriously after Musk&#39;s filing detailed $46.5B in financing &lpar;New York Times&rpar;](http://www.techmeme.com/220424/p7#a220424p7)
- - [Nine ‘Pixel Watch’ photos leak — and one wacky story](https://www.theverge.com/2022/4/24/23039835/google-pixel-watch-leak-photos-prototype-left-at-restaurant)<!-- TECH:END -->
+ - [Sources: Twitter&#39;s board met Sunday to discuss Elon Musk&#39;s bid, which is being considered more seriously after Musk&#39;s filing detailed $46.5B in financing &lpar;New York Times&rpar;](http://www.techmeme.com/220424/p7#a220424p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
