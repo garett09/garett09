@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why all the genital tweaks in The Northman? ‘You can’t have penises on airplanes’](https://www.polygon.com/23038019/the-northman-lava-fight-explained-cgi-genitals)
- - [Diablo Immortal is coming to PC, because Blizzard knew you’d emulate it anyway](https://www.polygon.com/23040956/diablo-immortal-pc-mobile-emulation-blizzard)
- - [Tom Holland meets Nolan North in this exclusive Uncharted behind-the-scenes clip](https://www.polygon.com/23040840/tom-holland-nolan-north-uncharted-movie-bts-clip)<!-- GAME:END -->
+ - [Apex Legends’ season 13 trailer introduces Newcastle and a giant new monster](https://www.polygon.com/gaming/23041047/apex-legends-newcastle-legend-season-13-trailer-cinematic-changes)
+ - [As Apple Threatens Pulling Games, Devs Explain Why Forced Updates Are A Preservation Nightmare](https://kotaku.com/apple-iphone-ipad-games-app-store-removed-delisted-upda-1848837569)
+ - [A sneak peek at Warframe’s Void Angels enemy, arriving April 27](https://blog.playstation.com/2022/04/25/a-sneak-peek-at-warframes-void-angels-enemy-arriving-april-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
