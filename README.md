@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right in the feels :&lpar;](http://9gag.com/gag/apgAPbD)
- - 🚯 [Sounds good to me](http://9gag.com/gag/awz4OEW)
+ - 🚖 [Giant Sturgeon in Canadian Waters](http://9gag.com/gag/aAGX2eg)
+ - 🚯 [Calculated and proven. Cost benefit Analysis works. We need science to lead us not politics](http://9gag.com/gag/aGz2G00)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
