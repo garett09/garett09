@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bethesda Adds Free Classic Elder Scrolls Games To Steam](https://kotaku.com/bethesda-elder-scrolls-daggerfall-free-steam-games-wolf-1848845031)
  - [Overwatch 2: All the hero reworks so far](https://www.polygon.com/23043333/overwatch-2-hero-reworks-beta)
- - [Business Suit Blanka Is The Best Thing Fortnite’s Ever Done](https://kotaku.com/fortnite-street-fighter-epic-games-capcom-blanka-sakura-1848844512)
- - [Even The Studio Behind Pokémon Is Getting In On The 4-Day Work Week](https://kotaku.com/pokemon-scarlet-violet-game-freak-legends-arceus-crunch-1848844889)<!-- GAME:END -->
+ - [Business Suit Blanka Is The Best Thing Fortnite’s Ever Done](https://kotaku.com/fortnite-street-fighter-epic-games-capcom-blanka-sakura-1848844512)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
