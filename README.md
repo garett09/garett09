@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft Has Shut Down Online Services For 91 Games [Update]](https://kotaku.com/ubisoft-online-game-server-shutdown-xbox-ps4-list-splin-1848843389)
  - [Warhammer 40K’s next boxed set makes a statement with its $299 price tag](https://www.polygon.com/23042848/warhammer-40k-necromunda-ash-wastes-price-pre-order-date)
- - [Sega delisting the only good Sonic games in May](https://www.polygon.com/23043233/sega-delisting-sonic-games-in-may)
- - [And now: a cute monster breeding game from a former genetic engineering tech](https://www.pcgamer.com/and-now-a-cute-monster-breeding-game-from-a-former-genetic-engineering-tech)<!-- GAME:END -->
+ - [Sega delisting the only good Sonic games in May](https://www.polygon.com/23043233/sega-delisting-sonic-games-in-may)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
