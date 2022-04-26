@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All ze swag](http://9gag.com/gag/aBnX4Oz)
- - 🚯 [No no, he&#39;s got a point](http://9gag.com/gag/aqGzDQY)
+ - 🚖 [Ding ding ding ding](http://9gag.com/gag/aNPRj6K)
+ - 🚯 [Woman coming back from what she told her husband was a &#39;Quick Lunch&#39; with friends.](http://9gag.com/gag/aBnX4DN)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
