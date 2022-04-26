@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The end boss makes a little phunny](http://9gag.com/gag/aVx2Bj2)
- - 🚯 [It is evolving, but backwards](http://9gag.com/gag/ay9Qv8r)
+ - 🚖 [Today I have support from father and mother in law.We collect more than 100kg of garbage.This little guy was found on lake with cut throat. Your Cleaning Guy.](http://9gag.com/gag/aeg2WBp)
+ - 🚯 [It\u2019s something.](http://9gag.com/gag/a61pxDR)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
