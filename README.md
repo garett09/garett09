@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Cloud Strength Fuels Third Quarter Results &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/220426/p27#a220426p27)
- - [Alphabet Announces First Quarter 2022 Results &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/220426/p28#a220426p28)
- - [Android 13 features: Everything we know so far](https://www.androidauthority.com/android-13-features-3089673/)<!-- TECH:END -->
+ - [Best monitor for MacBook Pro](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
+ - [How to tweak, mute, and reply to Fitbit notifications from your wrist](https://www.androidauthority.com/fitbit-notifications-3155677/)
+ - [Google Cloud hit $5.82B in Q1 sales, up from $4.05B YoY and above estimates of $5.75B, and an operating loss of $931M, down from $974M YoY &lpar;Robert Hof/SiliconANGLE&rpar;](http://www.techmeme.com/220426/p32#a220426p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
