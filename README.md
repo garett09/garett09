@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live look at Elon Musk firing everyone at Twitter](http://9gag.com/gag/a81w2bZ)
- - 🚯 [I grew up on a pig farm. You don&#39;t really need to cut up the body.](http://9gag.com/gag/aqGzzGL)
+ - 🚖 [Trying to single handedly rob an entire bus](http://9gag.com/gag/angDr3q)
+ - 🚯 [You&#39;ve not really meme&#39;d it unless you make one with SpongeBob](http://9gag.com/gag/aqGzzpZ)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
