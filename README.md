@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 dollar = 300 rubbles in the black market](http://9gag.com/gag/amgVd5V)
- - 🚯 [She&#39;s a grower, not a shower.](http://9gag.com/gag/adg2bn9)
- - 🚯 [We all miss those times](http://9gag.com/gag/aVx2dB2)<!-- MEMES:END -->
+ - 🚖 [Tri point bois](http://9gag.com/gag/aNPR3R3)
+ - 🚯 [We all miss those times](http://9gag.com/gag/aVx2dB2)
+ - 🚯 [Sum ting wong](http://9gag.com/gag/aM4XyEG)<!-- MEMES:END -->
 
 --- 
 
