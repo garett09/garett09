@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Large Steam Deck update makes it more secure, easy to use, and extends battery life](https://www.pcgamer.com/large-steam-deck-update-makes-it-more-secure-easy-to-use-and-extends-battery-life)
- - [Today&#39;s Wordle answer #311: Tuesday, April 26](https://www.pcgamer.com/wordle-april-26-311-heist-meaning)
- - [Nvidia&#39;s next-gen GPUs to have a node advantage over AMD&#39;s RDNA3 GPUs](https://www.pcgamer.com/nvidias-next-gen-gpus-to-have-a-node-advantage-over-amds-rdna3-gpus)<!-- GAME:END -->
+ - [Intel could flood retailers with up to eight different Arc graphics cards](https://www.pcgamer.com/intel-could-flood-retailers-with-up-to-eight-different-arc-graphics-cards)
+ - [Apex Legends Season 13: Everything we know](https://www.pcgamer.com/apex-legends-season-13-release-date-time)
+ - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
