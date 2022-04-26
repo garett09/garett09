@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Satisfying ASMR](http://9gag.com/gag/aOQ1GYM)
- - 🚯 [She&#39;s a grower, not a shower.](http://9gag.com/gag/adg2bn9)
+ - 🚖 [The end boss makes a little phunny](http://9gag.com/gag/aVx2Bj2)
+ - 🚯 [And don\u2019t forget to buy 3 SIM cards lol. You can\u2019t hide anymore ruscists](http://9gag.com/gag/aNPRjM0)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
