@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentralized exchange infrastructure provider 0x Labs raises a $70M Series B led by Greylock Partners with OpenSea, Coinbase, and others participating &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/220426/p15#a220426p15)
- - [Apple plans $19.3M renovation of temporary offices in North Carolina](https://appleinsider.com/articles/22/04/26/apple-plans-193m-renovation-of-temporary-offices-in-north-carolina?utm_medium=rss)
- - [Harness, which makes developer tools for continuous integration and delivery, raises a $175M Series D and $55M in debt at a $3.7B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220426/p14#a220426p14)<!-- TECH:END -->
+ - [The Black Shark 4 Pro is all-in on gamer stereotypes](https://www.theverge.com/23041008/black-shark-4-pro-gaming-phone-review-price-features)
+ - [How to use a Google Nest Hub as a digital picture frame](https://www.theverge.com/23041642/google-nest-hub-digital-picture-frame-how-to)
+ - [Samsung’s T7 Shield is a more durable version of its portable USB-C SSD](https://www.theverge.com/2022/4/26/23035699/samsung-t7-shield-portable-usb-c-ssd-price-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
