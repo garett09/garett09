@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tri point bois](http://9gag.com/gag/aNPR3R3)
+ - 🚖 [What an animal lover!](http://9gag.com/gag/aVx21Y2)
  - 🚯 [We all miss those times](http://9gag.com/gag/aVx2dB2)
- - 🚯 [Sum ting wong](http://9gag.com/gag/aM4XyEG)<!-- MEMES:END -->
+ - 🚯 [It\u2019s something.](http://9gag.com/gag/a61pxDR)<!-- MEMES:END -->
 
 --- 
 
