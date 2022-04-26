@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel could flood retailers with up to eight different Arc graphics cards](https://www.pcgamer.com/intel-could-flood-retailers-with-up-to-eight-different-arc-graphics-cards)
- - [Apex Legends Season 13: Everything we know](https://www.pcgamer.com/apex-legends-season-13-release-date-time)
- - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)<!-- GAME:END -->
+ - [Continue your winning streak with these top Wordle tips](https://www.pcgamer.com/how-to-play-wordle-tips-rules)
+ - [Dying Light 2 is getting a new game+ mode this week](https://www.pcgamer.com/dying-light-2-is-getting-a-new-game-mode-this-week)
+ - [NZXT Function MiniTKL gaming keyboard review](https://www.pcgamer.com/nzxt-function-mini-tkl-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
