@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copper, a digital banking service aimed at teens, raises a $29M Series A led by Fiat Ventures, bringing its total funding to $42.3M, and says it has 800K users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220426/p10#a220426p10)
- - [Movies Coming in 2022 From Marvel, Netflix, DC and More     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)
- - [New Movies Coming Out in 2022: Biggest New Films Including Marvel, DC, Netflix     - CNET](https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2022-netflix-marvel-dc-blockbusters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Decentralized exchange infrastructure provider 0x Labs raises a $70M Series B led by Greylock Partners with OpenSea, Coinbase, and others participating &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/220426/p15#a220426p15)
+ - [Apple plans $19.3M renovation of temporary offices in North Carolina](https://appleinsider.com/articles/22/04/26/apple-plans-193m-renovation-of-temporary-offices-in-north-carolina?utm_medium=rss)
+ - [Harness, which makes developer tools for continuous integration and delivery, raises a $175M Series D and $55M in debt at a $3.7B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220426/p14#a220426p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
