@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ unveils trailer for &#39;The Essex Serpent&#39; drama](https://appleinsider.com/articles/22/04/26/apple-tv-unveils-trailer-for-the-essex-serpent-drama?utm_medium=rss)
- - [Apple seeds third developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/26/apple-seeds-third-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)
- - [Apple issues third macOS Monterey 12.4 developer beta](https://appleinsider.com/articles/22/04/26/apple-issues-third-macos-monterey-124-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Studio Display update 15.5 with webcam fix now available for beta testers](https://appleinsider.com/articles/22/04/26/studio-display-update-155-with-webcam-fix-now-available-for-beta-testers?utm_medium=rss)
+ - [How to save a video from Twitter](https://www.androidauthority.com/download-twitter-videos-3157429/)
+ - [This Blood Test Detects Cancer in Dogs. But Do You Want to Know?](https://www.wired.com/story/this-blood-test-detects-cancer-in-dogs-but-do-you-want-to-know)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
