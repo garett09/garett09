@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Fit Pro review: Fits like a pro](https://www.androidauthority.com/beats-fit-pro-review-3155951/)
- - [Apple updates AirTag firmware to version 1.0.301 for 1% of devices](https://appleinsider.com/articles/22/04/26/apple-updates-airtag-firmware-to-version-10301-for-1-of-devices?utm_medium=rss)
- - [Subaru’s Solterra EV starts at $44,995](https://www.theverge.com/2022/4/26/23042924/subaru-solterra-pricing-starting-ev-tax-incentives)<!-- TECH:END -->
+ - [Microsoft Cloud Strength Fuels Third Quarter Results &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/220426/p27#a220426p27)
+ - [Alphabet Announces First Quarter 2022 Results &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/220426/p28#a220426p28)
+ - [Android 13 features: Everything we know so far](https://www.androidauthority.com/android-13-features-3089673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
