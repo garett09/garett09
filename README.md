@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Famous Flyer #2, the Granville Brothers Gee Bee Model Z and Model R-2](https://news.xbox.com/en-us/2022/04/26/microsoft-flight-simulator-releases-famous-flyer-gee-bee/)
- - [Fortnite to hit 7.7 billion players, presumably, now that Blanka’s wearing a suit](https://www.polygon.com/23042675/fortnite-street-fighter-blanka-sakura-cup)
- - [Ubisoft sunsets online services for dozens of legacy games](https://www.polygon.com/23042565/ubisoft-online-services-just-dance-far-cry-splinter-cell)<!-- GAME:END -->
+ - [Justice Sucks hits PS5 &amp; PS4 this year, new airport level revealed](https://blog.playstation.com/2022/04/26/justice-sucks-hits-ps5-amp-ps4-this-year-new-airport-level-revealed/)
+ - [Justice Sucks hits PS5 &amp; PS4 this year, new airport level revealed](https://blog.playstation.com/2022/04/26/justice-sucks-hits-ps5-amp-ps4-this-year-new-airport-level-revealed/)
+ - [Bizarre Russian propaganda links Sims 3 to alleged Nazi assassination plot](https://www.pcgamer.com/bizarre-russian-propaganda-links-sims-3-to-alleged-nazi-assassination-plot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
