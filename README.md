@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NPD Group: consumer spending across video game hardware, content, and accessories declined 15% YoY to $4.9B in March, and fell 8% YoY to $13.9B in Q1 2022 &lpar;Jeff Grubb/VentureBeat&rpar;](http://www.techmeme.com/220426/p3#a220426p3)
- - [The Samsung Galaxy Z Flip 3 Pokemon Edition is a thing &lpar;Updated: Sold out&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-3-pokemon-edition-3154658/)
- - [Amazon&#39;s Buy with Prime will make it difficult for Shopify to get its own shipping solution to scale by deepening Amazon&#39;s nearly impregnable moat in logistics &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220426/p2#a220426p2)<!-- TECH:END -->
+ - [Nikes NFT Sneakers for the Metaverse are Selling for $8K     - CNET](https://www.cnet.com/personal-finance/crypto/nikes-nft-sneakers-for-the-metaverse-are-selling-for-8k/#ftag=CAD590a51e)
+ - [Which Fitbit devices are waterproof?](https://www.androidauthority.com/fitbit-waterproof-3155186/)
+ - [The latest OnePlus 10 Pro update brings plenty more optimizations](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
