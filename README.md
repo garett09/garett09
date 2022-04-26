@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What an animal lover!](http://9gag.com/gag/aVx21Y2)
- - 🚯 [We all miss those times](http://9gag.com/gag/aVx2dB2)
- - 🚯 [It\u2019s something.](http://9gag.com/gag/a61pxDR)<!-- MEMES:END -->
+ - 🚖 [Whatever it takes](http://9gag.com/gag/aog8A9x)
+ - 🚯 [And the manager of the year award goes to\u2026](http://9gag.com/gag/a11LqoD)
+ - 🚯 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)<!-- MEMES:END -->
 
 --- 
 
