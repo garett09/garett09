@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Has Shut Down Online Services For 91 Games [Update]](https://kotaku.com/ubisoft-online-game-server-shutdown-xbox-ps4-list-splin-1848843389)
- - [Warhammer 40K’s next boxed set makes a statement with its $299 price tag](https://www.polygon.com/23042848/warhammer-40k-necromunda-ash-wastes-price-pre-order-date)
- - [Sega delisting the only good Sonic games in May](https://www.polygon.com/23043233/sega-delisting-sonic-games-in-may)<!-- GAME:END -->
+ - [Overwatch 2: All the hero reworks so far](https://www.polygon.com/23043333/overwatch-2-hero-reworks-beta)
+ - [Business Suit Blanka Is The Best Thing Fortnite’s Ever Done](https://kotaku.com/fortnite-street-fighter-epic-games-capcom-blanka-sakura-1848844512)
+ - [Even The Studio Behind Pokémon Is Getting In On The 4-Day Work Week](https://kotaku.com/pokemon-scarlet-violet-game-freak-legends-arceus-crunch-1848844889)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
