@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s next-gen GPUs to have a node advantage over AMD&#39;s RDNA3 GPUs](https://www.pcgamer.com/nvidias-next-gen-gpus-to-have-a-node-advantage-over-amds-rdna3-gpus)
- - [Soon you&#39;ll be able to watch TV in Self-Driving cars on UK roads](https://www.pcgamer.com/soon-youll-be-able-to-watch-tv-in-self-driving-cars-on-uk-roads)
- - [GeForce RTX 40 series rumored to stick with a PCIe 4.0 interface](https://www.pcgamer.com/geforce-rtx-40-series-rumored-to-stick-with-a-pcie-40-interface)<!-- GAME:END -->
+ - [Large Steam Deck update makes it more secure, easy to use, and extends battery life](https://www.pcgamer.com/large-steam-deck-update-makes-it-more-secure-easy-to-use-and-extends-battery-life)
+ - [Today&#39;s Wordle answer #311: Tuesday, April 26](https://www.pcgamer.com/wordle-april-26-311-heist-meaning)
+ - [Nvidia&#39;s next-gen GPUs to have a node advantage over AMD&#39;s RDNA3 GPUs](https://www.pcgamer.com/nvidias-next-gen-gpus-to-have-a-node-advantage-over-amds-rdna3-gpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
