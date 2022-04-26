@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ding ding ding ding](http://9gag.com/gag/aNPRj6K)
- - 🚯 [Woman coming back from what she told her husband was a &#39;Quick Lunch&#39; with friends.](http://9gag.com/gag/aBnX4DN)
+ - 🚖 [Satisfying ASMR](http://9gag.com/gag/aOQ1GYM)
+ - 🚯 [Tri point bois](http://9gag.com/gag/aNPR3R3)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
