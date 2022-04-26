@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Creator Balks At Square Enix’s $11,000 FF6 Statue](https://kotaku.com/final-fantasy-square-enix-terra-statue-model-hironobu-s-1848840242)
- - [Sloppy Russian Propaganda Says Nazi Assassins Owned The Sims 3](https://kotaku.com/the-sims-3-ukraine-russia-nazi-neo-nazi-propaganda-maxi-1848840364)
- - [Final Fantasy creator asks Square Enix what&#39;s up with new $11,600 statue](https://www.pcgamer.com/final-fantasy-creator-asks-square-enix-whats-up-with-new-dollar11600-statue)<!-- GAME:END -->
+ - [GeForce RTX 40 series rumored to stick with a PCIe 4.0 interface](https://www.pcgamer.com/geforce-rtx-40-series-rumored-to-stick-with-a-pcie-40-interface)
+ - [PS5 Gets Nice New Graphics Feature](https://kotaku.com/ps5-playstation-5-vrr-variable-refresh-rate-graphics-vi-1848840146)
+ - [Five new Steam games you probably missed &lpar;April 25, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-25-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
