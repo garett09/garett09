@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s next-gen GPUs to have a node advantage over AMD&#39;s RDNA3 GPUs](https://www.pcgamer.com/nvidias-next-gen-gpus-to-have-a-node-advantage-over-amds-rdna3-gpus)
  - [Soon you&#39;ll be able to watch TV in Self-Driving cars on UK roads](https://www.pcgamer.com/soon-youll-be-able-to-watch-tv-in-self-driving-cars-on-uk-roads)
- - [GeForce RTX 40 series rumored to stick with a PCIe 4.0 interface](https://www.pcgamer.com/geforce-rtx-40-series-rumored-to-stick-with-a-pcie-40-interface)
- - [PS5 Gets Nice New Graphics Feature](https://kotaku.com/ps5-playstation-5-vrr-variable-refresh-rate-graphics-vi-1848840146)<!-- GAME:END -->
+ - [GeForce RTX 40 series rumored to stick with a PCIe 4.0 interface](https://www.pcgamer.com/geforce-rtx-40-series-rumored-to-stick-with-a-pcie-40-interface)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
