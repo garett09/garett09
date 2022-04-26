@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studio Display update 15.5 with webcam fix now available for beta testers](https://appleinsider.com/articles/22/04/26/studio-display-update-155-with-webcam-fix-now-available-for-beta-testers?utm_medium=rss)
- - [How to save a video from Twitter](https://www.androidauthority.com/download-twitter-videos-3157429/)
- - [This Blood Test Detects Cancer in Dogs. But Do You Want to Know?](https://www.wired.com/story/this-blood-test-detects-cancer-in-dogs-but-do-you-want-to-know)<!-- TECH:END -->
+ - [Beats Fit Pro review: Fits like a pro](https://www.androidauthority.com/beats-fit-pro-review-3155951/)
+ - [Apple updates AirTag firmware to version 1.0.301 for 1% of devices](https://appleinsider.com/articles/22/04/26/apple-updates-airtag-firmware-to-version-10301-for-1-of-devices?utm_medium=rss)
+ - [Subaru’s Solterra EV starts at $44,995](https://www.theverge.com/2022/4/26/23042924/subaru-solterra-pricing-starting-ev-tax-incentives)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
