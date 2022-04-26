@@ -198,7 +198,7 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Satisfying ASMR](http://9gag.com/gag/aOQ1GYM)
- - 🚯 [Tri point bois](http://9gag.com/gag/aNPR3R3)
+ - 🚯 [She&#39;s a grower, not a shower.](http://9gag.com/gag/adg2bn9)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
