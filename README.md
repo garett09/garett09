@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I sleep](http://9gag.com/gag/aeg2WLW)
- - 🚯 [And the manager of the year award goes to\u2026](http://9gag.com/gag/a11LqoD)
+ - 🚖 [The psychologist](http://9gag.com/gag/aog8AXn)
+ - 🚯 [Don\u2019t care](http://9gag.com/gag/aog8qzw)
  - 🚯 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)<!-- MEMES:END -->
 
 --- 
