@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Players Are Trying To Create The ‘Ultimate’ Berserk Mod](https://kotaku.com/elden-ring-berserk-guts-mod-garden-of-eyes-anime-kentar-1848840106)
- - [Prove your videogame music expertise with this daily Heardle clone](https://www.pcgamer.com/prove-your-videogame-music-expertise-with-this-daily-heardle-clone)
- - [BioWare QA workers make moves to unionize](https://www.polygon.com/23041676/bioware-qa-union-keywords-mass-effect-dragon-age)<!-- GAME:END -->
+ - [Final Fantasy Creator Balks At Square Enix’s $11,000 FF6 Statue](https://kotaku.com/final-fantasy-square-enix-terra-statue-model-hironobu-s-1848840242)
+ - [Sloppy Russian Propaganda Says Nazi Assassins Owned The Sims 3](https://kotaku.com/the-sims-3-ukraine-russia-nazi-neo-nazi-propaganda-maxi-1848840364)
+ - [Final Fantasy creator asks Square Enix what&#39;s up with new $11,600 statue](https://www.pcgamer.com/final-fantasy-creator-asks-square-enix-whats-up-with-new-dollar11600-statue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
