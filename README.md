@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Soon you&#39;ll be able to watch TV in Self-Driving cars on UK roads](https://www.pcgamer.com/soon-youll-be-able-to-watch-tv-in-self-driving-cars-on-uk-roads)
  - [GeForce RTX 40 series rumored to stick with a PCIe 4.0 interface](https://www.pcgamer.com/geforce-rtx-40-series-rumored-to-stick-with-a-pcie-40-interface)
- - [PS5 Gets Nice New Graphics Feature](https://kotaku.com/ps5-playstation-5-vrr-variable-refresh-rate-graphics-vi-1848840146)
- - [Five new Steam games you probably missed &lpar;April 25, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-25-2022)<!-- GAME:END -->
+ - [PS5 Gets Nice New Graphics Feature](https://kotaku.com/ps5-playstation-5-vrr-variable-refresh-rate-graphics-vi-1848840146)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
