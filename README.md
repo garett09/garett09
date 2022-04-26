@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best monitor for MacBook Pro](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [How to tweak, mute, and reply to Fitbit notifications from your wrist](https://www.androidauthority.com/fitbit-notifications-3155677/)
- - [Google Cloud hit $5.82B in Q1 sales, up from $4.05B YoY and above estimates of $5.75B, and an operating loss of $931M, down from $974M YoY &lpar;Robert Hof/SiliconANGLE&rpar;](http://www.techmeme.com/220426/p32#a220426p32)<!-- TECH:END -->
+ - [Google parent Alphabet’s Q1 profits dropped by more than $1 billion compared to 2021](https://www.theverge.com/2022/4/26/23043402/google-alphabet-youtube-q1-2022-earnings)
+ - [YouTube reports $6.87B in Q1 ad revenue, up 14% YoY, but below estimates of $7.48B, and blames Q1 2021&#39;s &quot;exceptional&quot; direct response ad performance &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220426/p34#a220426p34)
+ - [Microsoft&#39;s cloud revenue grew 32% YoY to $23.4B in Q3, with Intelligent Cloud revenue of $19.1B, up 26% YoY, and Azure and other cloud service revenue up 46% &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220426/p33#a220426p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
