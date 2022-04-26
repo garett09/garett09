@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Justice Sucks hits PS5 &amp; PS4 this year, new airport level revealed](https://blog.playstation.com/2022/04/26/justice-sucks-hits-ps5-amp-ps4-this-year-new-airport-level-revealed/)
- - [Justice Sucks hits PS5 &amp; PS4 this year, new airport level revealed](https://blog.playstation.com/2022/04/26/justice-sucks-hits-ps5-amp-ps4-this-year-new-airport-level-revealed/)
- - [Bizarre Russian propaganda links Sims 3 to alleged Nazi assassination plot](https://www.pcgamer.com/bizarre-russian-propaganda-links-sims-3-to-alleged-nazi-assassination-plot)<!-- GAME:END -->
+ - [PlayStation Plus’ new Premium tier means more work for some game developers](https://www.polygon.com/23042769/playstation-plus-premium-free-trial-demo-game-development)
+ - [Borderlands Is Having Its Biggest Year Ever](https://kotaku.com/tiny-tinas-wonderlands-tales-from-borderlands-movie-kev-1848843085)
+ - [Please come look at Batman’s origin story in the comic where the Justice League are dinosaurs](https://www.polygon.com/22860050/batman-origin-story-dc-comics-jurassic-justice-league)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
