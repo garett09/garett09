@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google parent Alphabet’s Q1 profits dropped by more than $1 billion compared to 2021](https://www.theverge.com/2022/4/26/23043402/google-alphabet-youtube-q1-2022-earnings)
- - [YouTube reports $6.87B in Q1 ad revenue, up 14% YoY, but below estimates of $7.48B, and blames Q1 2021&#39;s &quot;exceptional&quot; direct response ad performance &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220426/p34#a220426p34)
- - [Microsoft&#39;s cloud revenue grew 32% YoY to $23.4B in Q3, with Intelligent Cloud revenue of $19.1B, up 26% YoY, and Azure and other cloud service revenue up 46% &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220426/p33#a220426p33)<!-- TECH:END -->
+ - [Fidelity is rolling out Bitcoin investing for 401&lpar;k&rpar; plans](https://www.theverge.com/2022/4/26/23043424/fidelity-rolling-out-bitcoin-investing-401-k-plans-cryptocurrency-microstrategy)
+ - [Microsoft says more than 10 million people have streamed games on Xbox Cloud Gaming](https://www.theverge.com/2022/4/26/23043678/microsoft-xbox-cloud-gaming-10-million-people-streamed)
+ - [SEC filing: Twitter must pay a $1B termination fee under certain circumstances if it ends its acquisition agreement; Musk faces the same fee if he ends the deal &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220426/p35#a220426p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
