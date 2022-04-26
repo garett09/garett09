@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Black Shark 4 Pro is all-in on gamer stereotypes](https://www.theverge.com/23041008/black-shark-4-pro-gaming-phone-review-price-features)
- - [How to use a Google Nest Hub as a digital picture frame](https://www.theverge.com/23041642/google-nest-hub-digital-picture-frame-how-to)
- - [Samsung’s T7 Shield is a more durable version of its portable USB-C SSD](https://www.theverge.com/2022/4/26/23035699/samsung-t7-shield-portable-usb-c-ssd-price-features)<!-- TECH:END -->
+ - [Sensor Tower: TikTok was the most downloaded app globally in Q1 2021, reaching 3.5B all-time downloads, followed by Instagram, Facebook, WhatsApp, and Telegram &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/220426/p17#a220426p17)
+ - [Cowen expects solid Apple March quarter results, but is cautious on Q3](https://appleinsider.com/articles/22/04/26/cowen-expects-solid-apple-march-quarter-results-but-is-cautious-on-q3?utm_medium=rss)
+ - [Apple adds BOE to iPhone 14 OLED panel supply chain](https://appleinsider.com/articles/22/04/26/apple-adds-boe-to-iphone-14-oled-panel-supply-chain?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
