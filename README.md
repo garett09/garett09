@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giant Sturgeon in Canadian Waters](http://9gag.com/gag/aAGX2eg)
- - 🚯 [I grew up on a pig farm. You don&#39;t really need to cut up the body.](http://9gag.com/gag/aqGzzGL)
+ - 🚖 [It happened. Elon Musk buying Twitter for $43 billion](http://9gag.com/gag/a31W2DQ)
+ - 🚯 [Life after 30](http://9gag.com/gag/aNPR4D4)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
