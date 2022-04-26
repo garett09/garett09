@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s competition watchdog sues Uber and seeks a A$26M fine after Uber admitted to misleading consumers about ride fare estimates and cancellation fees &lpar;Sameer Manekar/Reuters&rpar;](http://www.techmeme.com/220425/p26#a220425p26)
- - [The 10 Best Sci-Fi Movies on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/the-10-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)
- - [Elon Musk&#39;s bid is also a political takeover of Twitter that would let him impose his libertarian ideology on questions of moderation and misinformation &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220425/p25#a220425p25)<!-- TECH:END -->
+ - [Elon Musk is buying Twitter to protect his ability to tweet, which is vital to his current and future business interests, as Tesla&#39;s stock appears to be peaking &lpar;Ranjan Roy/Margins&rpar;](http://www.techmeme.com/220426/p1#a220426p1)
+ - [Hour One, which enables businesses to create AI-powered digital human avatars for the workplace, raises a $20M Series A led by Insight Partners &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/220425/p28#a220425p28)
+ - [The 16 Best Fantasy TV Shows to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-16-best-fantasy-tv-shows-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
