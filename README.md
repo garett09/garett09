@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SonarSource, which helps companies detect reliability and vulnerability issues in code, raises $412M co-led by Advent and General Catalyst at a $4.7B valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220426/p4#a220426p4)
- - [The best Samsung Galaxy A73 cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-a73-cases-3156702/)
- - [Can Bad Weather Affect Your Home Internet?     - CNET](https://www.cnet.com/home/internet/can-bad-weather-affect-your-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Huawei spent $22.1B, or 22.4% of its revenue, on R&amp;D in 2021, seeking to sidestep US sanctions; Meta invested 20.9% into R&amp;D, far above its US peers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220426/p7#a220426p7)
+ - [Sources detail how Elon Musk&#39;s Twitter bid succeeded: Morgan Stanley gathering support for $25.5B in loans, overcoming initial shareholder doubts, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/220426/p6#a220426p6)
+ - [Fidelity will let retirement savers put bitcoin into their 401&lpar;k&rpar; accounts starting later in 2022, the first major retirement plan provider to do so &lpar;Anne Tergesen/Wall Street Journal&rpar;](http://www.techmeme.com/220426/p5#a220426p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
