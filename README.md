@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter employees say they heard little from Elon Musk, CEO Parag Agrawal, management, and Charles Schwab about what a sale to the billionaire means for them &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220425/p21#a220425p21)
- - [Deal: Get the 4th Gen Echo Dot for just $27.99](https://www.androidauthority.com/amazon-echo-dot-4th-gen-deal-3157047/)
- - [How to create and delete subreddits on Reddit](https://www.androidauthority.com/create-delete-subreddit-3156982/)<!-- TECH:END -->
+ - [What Twitter employees are saying about Elon Musk](https://www.theverge.com/23042020/twitter-employees-elon-musk-buyout-slack)
+ - [You can now set a lock screen for your Steam Deck](https://www.theverge.com/2022/4/25/23041969/valve-steam-deck-lock-screen-update)
+ - [Jeff Bezos is already testing Elon Musk’s commitment to free speech by trolling](https://www.theverge.com/2022/4/25/23041965/jeff-bezos-twitter-troll-elon-musk-china-spacex-blue-origin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
