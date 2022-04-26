@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is buying Twitter to protect his ability to tweet, which is vital to his current and future business interests, as Tesla&#39;s stock appears to be peaking &lpar;Ranjan Roy/Margins&rpar;](http://www.techmeme.com/220426/p1#a220426p1)
- - [Hour One, which enables businesses to create AI-powered digital human avatars for the workplace, raises a $20M Series A led by Insight Partners &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/220425/p28#a220425p28)
- - [The 16 Best Fantasy TV Shows to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-16-best-fantasy-tv-shows-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Buy with Prime will make it difficult for Shopify to get its own shipping solution to scale by deepening Amazon&#39;s nearly impregnable moat in logistics &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220426/p2#a220426p2)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 26&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [More People Need to Watch This Sci-Fi Masterpiece on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-sci-fi-masterpiece-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
