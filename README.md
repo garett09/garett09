@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Continue your winning streak with these top Wordle tips](https://www.pcgamer.com/how-to-play-wordle-tips-rules)
- - [Dying Light 2 is getting a new game+ mode this week](https://www.pcgamer.com/dying-light-2-is-getting-a-new-game-mode-this-week)
- - [NZXT Function MiniTKL gaming keyboard review](https://www.pcgamer.com/nzxt-function-mini-tkl-gaming-keyboard)<!-- GAME:END -->
+ - [A24’s first Bodies Bodies Bodies trailer finds new ways to get horror fans staring at blood](https://www.polygon.com/23041931/bodies-bodies-bodies-trailer-a24-blood)
+ - [Tips &amp; tricks to dominate the night in Bloodhunt, out tomorrow](https://blog.playstation.com/2022/04/26/tips-tricks-to-dominate-the-night-in-bloodhunt-out-tomorrow/)
+ - [Tips &amp; tricks to dominate the night in Bloodhunt, out tomorrow](https://blog.playstation.com/2022/04/26/tips-tricks-to-dominate-the-night-in-bloodhunt-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
