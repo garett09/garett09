@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whatever it takes](http://9gag.com/gag/aog8A9x)
- - 🚯 [And the manager of the year award goes to\u2026](http://9gag.com/gag/a11LqoD)
- - 🚯 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)<!-- MEMES:END -->
+ - 🚖 [Only USB-C in EU](http://9gag.com/gag/a91XVpm)
+ - 🚯 [I sleep](http://9gag.com/gag/aeg2WLW)
+ - 🚯 [Amber Heard&#39;s reaction after a psychologist diagnoses her with 2 forms of extreme narcissism](http://9gag.com/gag/aBnXNqP)<!-- MEMES:END -->
 
 --- 
 
