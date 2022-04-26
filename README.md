@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some great games to sideload onto your Playdate](https://www.theverge.com/2022/4/26/23042607/playdate-best-games-sideloading)
- - [YouTube’s tipping feature is now available to more creators](https://www.theverge.com/2022/4/26/23041651/youtube-expanded-super-thanks-tipping)
- - [Drop’s new mechanical keyboard keycaps are a different take on a familiar design](https://www.theverge.com/2022/4/26/23042494/drop-dcx-profile-mechanical-keyboard-keycaps-abs-double-shot)<!-- TECH:END -->
+ - [Apple TV+ unveils trailer for &#39;The Essex Serpent&#39; drama](https://appleinsider.com/articles/22/04/26/apple-tv-unveils-trailer-for-the-essex-serpent-drama?utm_medium=rss)
+ - [Apple seeds third developer betas for iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5](https://appleinsider.com/articles/22/04/26/apple-seeds-third-developer-betas-for-ios-155-ipados-155-watchos-86-tvos-155?utm_medium=rss)
+ - [Apple issues third macOS Monterey 12.4 developer beta](https://appleinsider.com/articles/22/04/26/apple-issues-third-macos-monterey-124-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
