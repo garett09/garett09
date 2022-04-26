@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A24’s first Bodies Bodies Bodies trailer finds new ways to get horror fans staring at blood](https://www.polygon.com/23041931/bodies-bodies-bodies-trailer-a24-blood)
- - [Tips &amp; tricks to dominate the night in Bloodhunt, out tomorrow](https://blog.playstation.com/2022/04/26/tips-tricks-to-dominate-the-night-in-bloodhunt-out-tomorrow/)
- - [Tips &amp; tricks to dominate the night in Bloodhunt, out tomorrow](https://blog.playstation.com/2022/04/26/tips-tricks-to-dominate-the-night-in-bloodhunt-out-tomorrow/)<!-- GAME:END -->
+ - [New look at Starfield offers plenty of art and music](https://www.polygon.com/23042616/starfield-music-composers-inon-zur-mark-lampert)
+ - [The Worst Enemy In Elden Ring&#39;s Siofra River Well](https://kotaku.com/elden-ring-worst-enemies-ancestral-followers-siofra-riv-1848835538)
+ - [The True Next-Gen Game Is Still Rare AF](https://kotaku.com/xbox-series-x-s-next-gen-games-microsoft-flight-sim-shr-1848839171)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
