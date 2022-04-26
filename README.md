@@ -198,7 +198,7 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The end boss makes a little phunny](http://9gag.com/gag/aVx2Bj2)
- - 🚯 [And don\u2019t forget to buy 3 SIM cards lol. You can\u2019t hide anymore ruscists](http://9gag.com/gag/aNPRjM0)
+ - 🚯 [It is evolving, but backwards](http://9gag.com/gag/ay9Qv8r)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
