@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It happened. Elon Musk buying Twitter for $43 billion](http://9gag.com/gag/a31W2DQ)
- - 🚯 [Life after 30](http://9gag.com/gag/aNPR4D4)
+ - 🚖 [Macron playing &#39;one more time&#39; after his victory speech](http://9gag.com/gag/aOQ19MN)
+ - 🚯 [Nice try, China](http://9gag.com/gag/aWg2Dbd)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
