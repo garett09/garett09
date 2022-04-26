@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: TikTok was the most downloaded app globally in Q1 2021, reaching 3.5B all-time downloads, followed by Instagram, Facebook, WhatsApp, and Telegram &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/220426/p17#a220426p17)
- - [Cowen expects solid Apple March quarter results, but is cautious on Q3](https://appleinsider.com/articles/22/04/26/cowen-expects-solid-apple-march-quarter-results-but-is-cautious-on-q3?utm_medium=rss)
- - [Apple adds BOE to iPhone 14 OLED panel supply chain](https://appleinsider.com/articles/22/04/26/apple-adds-boe-to-iphone-14-oled-panel-supply-chain?utm_medium=rss)<!-- TECH:END -->
+ - [Here are some great games to sideload onto your Playdate](https://www.theverge.com/2022/4/26/23042607/playdate-best-games-sideloading)
+ - [YouTube’s tipping feature is now available to more creators](https://www.theverge.com/2022/4/26/23041651/youtube-expanded-super-thanks-tipping)
+ - [Drop’s new mechanical keyboard keycaps are a different take on a familiar design](https://www.theverge.com/2022/4/26/23042494/drop-dcx-profile-mechanical-keyboard-keycaps-abs-double-shot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
