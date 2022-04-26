@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to single handedly rob an entire bus](http://9gag.com/gag/angDr3q)
- - 🚯 [You&#39;ve not really meme&#39;d it unless you make one with SpongeBob](http://9gag.com/gag/aqGzzpZ)
+ - 🚖 [It happened. Elon Musk buying Twitter for $43 billion](http://9gag.com/gag/a31W2DQ)
+ - 🚯 [Trying to single handedly rob an entire bus](http://9gag.com/gag/angDr3q)
  - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
 
 --- 
