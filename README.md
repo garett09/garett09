@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikes NFT Sneakers for the Metaverse are Selling for $8K     - CNET](https://www.cnet.com/personal-finance/crypto/nikes-nft-sneakers-for-the-metaverse-are-selling-for-8k/#ftag=CAD590a51e)
- - [Which Fitbit devices are waterproof?](https://www.androidauthority.com/fitbit-waterproof-3155186/)
- - [The latest OnePlus 10 Pro update brings plenty more optimizations](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
+ - [SonarSource, which helps companies detect reliability and vulnerability issues in code, raises $412M co-led by Advent and General Catalyst at a $4.7B valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220426/p4#a220426p4)
+ - [The best Samsung Galaxy A73 cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-a73-cases-3156702/)
+ - [Can Bad Weather Affect Your Home Internet?     - CNET](https://www.cnet.com/home/internet/can-bad-weather-affect-your-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
