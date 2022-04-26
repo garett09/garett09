@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I have support from father and mother in law.We collect more than 100kg of garbage.This little guy was found on lake with cut throat. Your Cleaning Guy.](http://9gag.com/gag/aeg2WBp)
- - 🚯 [It\u2019s something.](http://9gag.com/gag/a61pxDR)
- - 🚯 [Win 500 USD by playing games on Prizes by GAMEE! Win as many tickets as possible until the 30th of April!](http://9gag.com/gag/aGz2wr7)<!-- MEMES:END -->
+ - 🚖 [1 dollar = 300 rubbles in the black market](http://9gag.com/gag/amgVd5V)
+ - 🚯 [She&#39;s a grower, not a shower.](http://9gag.com/gag/adg2bn9)
+ - 🚯 [We all miss those times](http://9gag.com/gag/aVx2dB2)<!-- MEMES:END -->
 
 --- 
 
