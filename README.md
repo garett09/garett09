@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda Adds Free Classic Elder Scrolls Games To Steam](https://kotaku.com/bethesda-elder-scrolls-daggerfall-free-steam-games-wolf-1848845031)
- - [Overwatch 2: All the hero reworks so far](https://www.polygon.com/23043333/overwatch-2-hero-reworks-beta)
- - [Business Suit Blanka Is The Best Thing Fortnite’s Ever Done](https://kotaku.com/fortnite-street-fighter-epic-games-capcom-blanka-sakura-1848844512)<!-- GAME:END -->
+ - [Some of Bethesda&#39;s classic Elder Scrolls RPGs are now free on Steam](https://www.pcgamer.com/some-of-bethesdas-classic-elder-scrolls-rpgs-are-now-free-on-steam)
+ - [We still don&#39;t know much about Starfield, but its music is on point](https://www.pcgamer.com/starfield-music-score-reveal)
+ - [Overwatch 2 has a new way to judge other players, and I&#39;m nervous](https://www.pcgamer.com/overwatch-2-has-a-new-way-to-judge-other-players-and-im-nervous)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
