@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Twitter employees are saying about Elon Musk](https://www.theverge.com/23042020/twitter-employees-elon-musk-buyout-slack)
- - [You can now set a lock screen for your Steam Deck](https://www.theverge.com/2022/4/25/23041969/valve-steam-deck-lock-screen-update)
- - [Jeff Bezos is already testing Elon Musk’s commitment to free speech by trolling](https://www.theverge.com/2022/4/25/23041965/jeff-bezos-twitter-troll-elon-musk-china-spacex-blue-origin)<!-- TECH:END -->
+ - [Australia&#39;s competition watchdog sues Uber and seeks a A$26M fine after Uber admitted to misleading consumers about ride fare estimates and cancellation fees &lpar;Sameer Manekar/Reuters&rpar;](http://www.techmeme.com/220425/p26#a220425p26)
+ - [The 10 Best Sci-Fi Movies on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/the-10-best-sci-fi-movies-on-disney-plus/#ftag=CAD590a51e)
+ - [Elon Musk&#39;s bid is also a political takeover of Twitter that would let him impose his libertarian ideology on questions of moderation and misinformation &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220425/p25#a220425p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
