@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Huawei spent $22.1B, or 22.4% of its revenue, on R&amp;D in 2021, seeking to sidestep US sanctions; Meta invested 20.9% into R&amp;D, far above its US peers &lpar;Bloomberg&rpar;](http://www.techmeme.com/220426/p7#a220426p7)
- - [Sources detail how Elon Musk&#39;s Twitter bid succeeded: Morgan Stanley gathering support for $25.5B in loans, overcoming initial shareholder doubts, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/220426/p6#a220426p6)
- - [Fidelity will let retirement savers put bitcoin into their 401&lpar;k&rpar; accounts starting later in 2022, the first major retirement plan provider to do so &lpar;Anne Tergesen/Wall Street Journal&rpar;](http://www.techmeme.com/220426/p5#a220426p5)<!-- TECH:END -->
+ - [Copper, a digital banking service aimed at teens, raises a $29M Series A led by Fiat Ventures, bringing its total funding to $42.3M, and says it has 800K users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220426/p10#a220426p10)
+ - [Movies Coming in 2022 From Marvel, Netflix, DC and More     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)
+ - [New Movies Coming Out in 2022: Biggest New Films Including Marvel, DC, Netflix     - CNET](https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2022-netflix-marvel-dc-blockbusters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
