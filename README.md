@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New look at Starfield offers plenty of art and music](https://www.polygon.com/23042616/starfield-music-composers-inon-zur-mark-lampert)
- - [The Worst Enemy In Elden Ring&#39;s Siofra River Well](https://kotaku.com/elden-ring-worst-enemies-ancestral-followers-siofra-riv-1848835538)
- - [The True Next-Gen Game Is Still Rare AF](https://kotaku.com/xbox-series-x-s-next-gen-games-microsoft-flight-sim-shr-1848839171)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Famous Flyer #2, the Granville Brothers Gee Bee Model Z and Model R-2](https://news.xbox.com/en-us/2022/04/26/microsoft-flight-simulator-releases-famous-flyer-gee-bee/)
+ - [Fortnite to hit 7.7 billion players, presumably, now that Blanka’s wearing a suit](https://www.polygon.com/23042675/fortnite-street-fighter-blanka-sakura-cup)
+ - [Ubisoft sunsets online services for dozens of legacy games](https://www.polygon.com/23042565/ubisoft-online-services-just-dance-far-cry-splinter-cell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
