@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Buy with Prime will make it difficult for Shopify to get its own shipping solution to scale by deepening Amazon&#39;s nearly impregnable moat in logistics &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220426/p2#a220426p2)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 26&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [More People Need to Watch This Sci-Fi Masterpiece on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-sci-fi-masterpiece-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NPD Group: consumer spending across video game hardware, content, and accessories declined 15% YoY to $4.9B in March, and fell 8% YoY to $13.9B in Q1 2022 &lpar;Jeff Grubb/VentureBeat&rpar;](http://www.techmeme.com/220426/p3#a220426p3)
+ - [The Samsung Galaxy Z Flip 3 Pokemon Edition is a thing &lpar;Updated: Sold out&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-3-pokemon-edition-3154658/)
+ - [Amazon&#39;s Buy with Prime will make it difficult for Shopify to get its own shipping solution to scale by deepening Amazon&#39;s nearly impregnable moat in logistics &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220426/p2#a220426p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
