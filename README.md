@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The psychologist](http://9gag.com/gag/aog8AXn)
- - 🚯 [Don\u2019t care](http://9gag.com/gag/aog8qzw)
- - 🚯 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)<!-- MEMES:END -->
+ - 🚖 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)
+ - 🚯 [When your house is burning I think the last thing you think about is the color of the firefighters.](http://9gag.com/gag/a0ZEznL)
+ - 🚯 [What&#39;s it doing, apart from blowing bubbles?](http://9gag.com/gag/aE8XNgx)<!-- MEMES:END -->
 
 --- 
 
