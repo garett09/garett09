@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excuse me sir but thats mine](http://9gag.com/gag/angDwYL)
- - 🚯 [This gem needs a remaster](http://9gag.com/gag/aE8XKD9)
+ - 🚖 [This gem needs a remaster](http://9gag.com/gag/aE8XKD9)
+ - 🚯 [Ah, yes indeed](http://9gag.com/gag/a0ZEqZQ)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
