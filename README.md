@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elon Musk buys Twitter](http://9gag.com/gag/aBnXN8N)
+ - 🚖 [The psychologist](http://9gag.com/gag/aog8AXn)
  - 🚯 [Cat business](http://9gag.com/gag/azeZzXK)
- - 🚯 [The psychologist](http://9gag.com/gag/aog8AXn)<!-- MEMES:END -->
+ - 🚯 [The easiest way to open a blister package if you don&#39;t have scissors](http://9gag.com/gag/aBnXb6Z)<!-- MEMES:END -->
 
 --- 
 
