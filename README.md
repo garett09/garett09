@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe Has Traded Away Its Online Porn Law](https://www.wired.com/story/digital-services-act-deepfake-porn)
- - [North Koreans Are Jailbreaking Phones to Access Forbidden Media](https://www.wired.com/story/north-korean-phone-jailbreakers)
- - [Russia Is Being Hacked at an Unprecedented Scale](https://www.wired.com/story/russia-hacked-attacks)<!-- TECH:END -->
+ - [Apple launches Self Service Repair in the US, covering iPhone SE and iPhone 12 and 13 lineups, with plans to expand to Europe and add M1 Macs by the end of 2022 &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220427/p16#a220427p16)
+ - [Apple’s DIY repair service is now available in the US](https://www.theverge.com/2022/4/27/23044301/apple-self-service-diy-repair-program-spare-parts-iphone-12-13)
+ - [&#39;Moon Knight&#39; Episode 5 Recap: Marvel&#39;s Most Intense Emotional Journey     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-5-recap-marvels-most-intense-emotional-journey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
