@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re going to want a beefy GPU to turn on ray tracing in F1 22](https://www.pcgamer.com/youre-going-to-want-a-beefy-gpu-to-turn-on-ray-tracing-in-f1-22)
- - [A Fight For Survival](https://kotaku.com/borys-kernytskyi-ukraine-art-artist-russia-war-environm-1848846264)
- - [Classic Multiplayer Wolfenstein Game Launches On Steam 19 Years After Release](https://kotaku.com/wolfenstein-enemy-territory-splash-damage-steam-pc-mult-1848845752)<!-- GAME:END -->
+ - [How Warhammer 40,000: Chaos Gate  — Daemonhunters rebuilds the tactics genre around the Space Marines](https://www.pcgamer.com/how-warhammer-40000-chaos-gate-daemonhunters-rebuilds-the-tactics-genre-around-the-space-marines)
+ - [Taiwan continues to dominate the semiconductor industry](https://www.pcgamer.com/taiwan-continues-to-dominate-the-semiconductor-industry)
+ - [You&#39;re going to want a beefy GPU to turn on ray tracing in F1 22](https://www.pcgamer.com/youre-going-to-want-a-beefy-gpu-to-turn-on-ray-tracing-in-f1-22)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
