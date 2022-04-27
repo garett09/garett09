@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity is rolling out Bitcoin investing for 401&lpar;k&rpar; plans](https://www.theverge.com/2022/4/26/23043424/fidelity-rolling-out-bitcoin-investing-401-k-plans-cryptocurrency-microstrategy)
- - [Microsoft says more than 10 million people have streamed games on Xbox Cloud Gaming](https://www.theverge.com/2022/4/26/23043678/microsoft-xbox-cloud-gaming-10-million-people-streamed)
- - [SEC filing: Twitter must pay a $1B termination fee under certain circumstances if it ends its acquisition agreement; Musk faces the same fee if he ends the deal &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220426/p35#a220426p35)<!-- TECH:END -->
+ - [Wipro agreed to acquire SAP consulting firm Rizing Intermediate Holdings for $540M; Wipro expects the deal to close before June 30 &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/220426/p40#a220426p40)
+ - [How to get followers on Twitter](https://www.androidauthority.com/get-twitter-followers-3157514/)
+ - [Google releases Android 13 Beta 1, which adds developer features like permissions for more granular access to media files and anticipatory audio routing APIs &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220426/p39#a220426p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
