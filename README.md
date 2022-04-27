@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Stanley Parable: Ultra Deluxe launch trailer is not here](https://www.pcgamer.com/the-stanley-parable-ultra-deluxe-launch-trailer-is-not-here)
- - [Game Pass Hidden Gem Mixes XCOM, Worms, And Comic Book Vibes](https://kotaku.com/research-and-destroy-game-pass-xcom-worms-review-xbox-s-1848849080)
- - [Nike&#39;s NFT sneakers are selling for obscene amounts of money](https://www.pcgamer.com/nike-nft-sneakers)<!-- GAME:END -->
+ - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)
+ - [Let&#39;s &#39;Marie Kondo&#39; Your Disgusting Elden Ring Inventory](https://kotaku.com/elden-ring-guide-inventory-item-clutter-how-to-use-cons-1848849051)
+ - [&#39;Block Quake&#39; delivers the Lego Quake experience we didn&#39;t know we needed](https://www.pcgamer.com/block-quake-delivers-the-lego-quake-experience-we-didnt-know-we-needed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
