@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it will begin testing ads on Shorts, including app-install ads and other promotions, as its ad revenue growth slows &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220427/p7#a220427p7)
- - [Eurora, which uses AI to automate e-commerce shipping compliance in the EU, raises a $40M Series A led by Connected Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220427/p6#a220427p6)
- - [Sources: data obtained through fake legal requests have been used to harass women and sexually extort minors; Meta, Apple, Google, and others handed over data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/220427/p5#a220427p5)<!-- TECH:END -->
+ - [Best Internet Promotions of April 2022     - CNET](https://www.cnet.com/home/internet/best-internet-promotions/#ftag=CAD590a51e)
+ - [Ransomware Attacks Surged to New Highs in 2021     - CNET](https://www.cnet.com/tech/services-%26-software/ransomware-attacks-surged-to-new-highs-in-2021/#ftag=CAD590a51e)
+ - [Sources: negotiations between Congressional lawmakers on online privacy policies include limits on tech giants&#39; collection, storage, and use of personal info &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/220427/p9#a220427p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
