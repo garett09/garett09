@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft axes online support for 91 games](https://www.theverge.com/2022/4/27/23044852/ubisoft-games-online-support-disabled)
- - [Central African Republic lawmakers vote unanimously to adopt bitcoin as legal tender, the second country to use bitcoin as official currency after El Salvador &lpar;BBC&rpar;](http://www.techmeme.com/220427/p35#a220427p35)
- - [Motorola launches Edge 30 in Europe, tells US to sit tight](https://www.theverge.com/2022/4/27/23045063/motorola-edge-30-europe-price-specs)<!-- TECH:END -->
+ - [1Password syncing went down for a few hours today during a database upgrade](https://www.theverge.com/2022/4/27/23045469/1password-outage-password-manager-security-cloud-storage)
+ - [Meta says Reels takes up 20%+ of the time that people spend on Instagram, and says that video, overall, makes up 50% of the time that users spend on Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220427/p38#a220427p38)
+ - [Analysis: in the two days since Elon Musk&#39;s Twitter takeover, conservative accounts gained ~17,000 followers, and liberal accounts lost ~6,000 followers &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220427/p37#a220427p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
