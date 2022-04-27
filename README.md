@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 needs to pull its story out of the past](https://www.pcgamer.com/overwatch-2-needs-to-pull-its-story-out-of-the-past)
- - [Pokémon Go Fest 2022 returns in June with new Pokémon debuts, new gameplay features](https://www.polygon.com/23044413/pokemon-go-fest-2022-date-tickets-price-shiny)
- - [Nintendo Switch Sports is everything I wanted — even if I’m stuck offline](https://www.polygon.com/reviews/23043446/nintendo-switch-sports-review-wii-bowling)<!-- GAME:END -->
+ - [13 great movies leaving streaming at the end of April 2022](https://www.polygon.com/what-to-watch/2022/4/27/23031814/best-movies-netflix-amazon-hulu-hbo-leaving-april-2022)
+ - [Beyond Final Fantasy XIV Endwalker: Producer and Director Naoki Yoshida Q&amp;A](https://blog.playstation.com/2022/04/27/beyond-final-fantasy-xiv-endwalker-producer-and-director-naoki-yoshida-qa/)
+ - [Beyond Final Fantasy XIV Endwalker: Producer and Director Naoki Yoshida Q&amp;A](https://blog.playstation.com/2022/04/27/beyond-final-fantasy-xiv-endwalker-producer-and-director-naoki-yoshida-qa/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
