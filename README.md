@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Reports First Quarter 2022 Results &lpar;Meta&rpar;](http://www.techmeme.com/220427/p29#a220427p29)
- - [&#39;Avatar&#39; is Coming Back to Theaters, So Here&#39;s Our Original Review     - CNET](https://www.cnet.com/culture/entertainment/avatar-coming-back-to-theaters-so-heres-our-original-review/#ftag=CAD590a51e)
- - [Best Travel Credit Cards for May 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google may now remove search results that dox you](https://www.theverge.com/2022/4/27/23044951/google-search-results-personal-information-address-phone-number)
+ - [Pinterest reports Q1 revenue of $575M, up 18% YoY, vs. $572.5M est, MAUs of 433M, down 9% YoY, global ARPU of $1.33, up 28% YoY; stock jumps 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/220427/p33#a220427p33)
+ - [Meta reports Q1 ad revenue of $27B vs. $27.5B est., and says it expects FY 2022 expenses between $87B and $92B, less than the previously announced $90B to $95B &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/220427/p32#a220427p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
