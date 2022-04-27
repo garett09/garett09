@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/a31WrRm)
- - 🚯 [Is this a new level of woke by Microsoft?](http://9gag.com/gag/a21bX8d)
+ - 🚖 [By the people, for the people, lilmayo](http://9gag.com/gag/aeg2zqO)
+ - 🚯 [Ahh Sweden welcomes you.](http://9gag.com/gag/avAvjPM)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
