@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maxis performed an exorcism on The Sims 4&#39;s cursed main menu](https://www.pcgamer.com/maxis-performed-an-exorcism-on-the-sims-4s-cursed-main-menu)
- - [Did Bungie accidentally leak one of next season&#39;s Destiny 2 exotic weapons?](https://www.pcgamer.com/did-bungie-accidentally-leak-one-of-next-seasons-destiny-2-exotic-weapons)
- - [Avatar 2 finally has a title and a minimal plot description](https://www.polygon.com/23045087/avatar-2-the-way-of-water-title-trailer-announcement)<!-- GAME:END -->
+ - [Broken Elden Ring Boss Is Back To Being Just Really Hard With Latest Update](https://kotaku.com/elden-ring-update-patch-malenia-godskin-duo-fire-giant-1848849417)
+ - [A Chernobyl director will replace Denis Villeneuve on HBO Max’s Dune spinoff show](https://www.polygon.com/23045256/dune-sisterhood-hbo-max-spinoff-prequel-show-director)
+ - [Check Out the Halo Infinite Season 2 Community Livestream](https://news.xbox.com/en-us/2022/04/27/check-out-the-halo-infinite-season-2-community-livestream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
