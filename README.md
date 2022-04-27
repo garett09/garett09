@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone repair tool kit that it rents is wheeled and weighs 79 pounds](https://appleinsider.com/articles/22/04/27/apples-iphone-repair-tool-kit-that-it-rents-is-wheeled-and-weighs-79-pounds?utm_medium=rss)
- - [Comcast and Charter team up in hopes of toppling Roku, Amazon streaming hardware](https://www.theverge.com/2022/4/27/23044434/comcast-charter-streaming-joint-venture-announced-flex)
- - [Apple offering a free fix for Apple Watch Series 6 with blanked out screens](https://www.theverge.com/2022/4/27/23044421/apple-watch-series-6-blank-screens-fix)<!-- TECH:END -->
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
+ - [You told us: You’re opposed to Google killing third-party call recording apps](https://www.androidauthority.com/google-killing-third-party-call-recording-apps-poll-results-3157770/)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
