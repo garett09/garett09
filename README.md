@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU plans to open a San Francisco office to engage with Silicon Valley tech giants under scrutiny from newly adopted EU rules, such as DMA and DSA &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220426/p44#a220426p44)
- - [Chinese drone maker DJI says it will temporarily suspend business in Russia and Ukraine to ensure its products are not used in combat &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/220426/p43#a220426p43)
- - [Facebook doesn&#39;t know what most of its user data is used for](https://appleinsider.com/articles/22/04/27/facebook-doesnt-know-what-most-of-its-user-data-is-used-for?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter&#39;s board let Elon Musk take over despite him not having a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)
+ - [First Human Case of H3N8 Bird Flu Detected in China     - CNET](https://www.cnet.com/science/biology/first-human-case-of-h3n8-bird-flu-detected-in-china/#ftag=CAD590a51e)
+ - [Some Twitter employees fear the acquisition by Musk, who has some followers who carry out targeted harassment, could undercut years spent making Twitter safer &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/220426/p45#a220426p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
