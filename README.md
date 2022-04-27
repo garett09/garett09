@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If a 900W Nvidia GeForce card appears in the next generation the GPU industry has lost its head](https://www.pcgamer.com/if-a-900w-nvidia-geforce-card-appears-in-the-next-generation-the-gpu-industry-has-lost-its-head)
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
- - [Doom Eternal update finally fixes a 2-year-old bug](https://www.pcgamer.com/doom-eternal-update-finally-fixes-a-2-year-old-bug)<!-- GAME:END -->
+ - [Overwatch 2 needs to pull its story out of the past](https://www.pcgamer.com/overwatch-2-needs-to-pull-its-story-out-of-the-past)
+ - [Pokémon Go Fest 2022 returns in June with new Pokémon debuts, new gameplay features](https://www.polygon.com/23044413/pokemon-go-fest-2022-date-tickets-price-shiny)
+ - [Nintendo Switch Sports is everything I wanted — even if I’m stuck offline](https://www.polygon.com/reviews/23043446/nintendo-switch-sports-review-wii-bowling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
