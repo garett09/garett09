@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s new patch adds Fade and nerfs Jett’s instant dash](https://www.polygon.com/23044575/valorant-patch-4-08-notes-jett-nerf-dash-fade-sova)
- - [Enter the Medieval Fantasy World of The Serpent Rogue Today on Xbox Series X|S](https://news.xbox.com/en-us/2022/04/27/the-serpent-rogue-today-on-xbox-series-xs/)
- - [Chip ’n Dale: Rescue Rangers is trying to out-cameo Roger Rabbit and Space Jam](https://www.polygon.com/23044551/chip-n-dale-rescue-rangers-trailer-disney-plus)<!-- GAME:END -->
+ - [Disney Dreamlight Valley launches on PS5 and PS4 in 2022](https://blog.playstation.com/2022/04/27/disney-dreamlight-valley-launches-on-ps5-and-ps4-in-2022/)
+ - [Disney Dreamlight Valley launches on PS5 and PS4 in 2022](https://blog.playstation.com/2022/04/27/disney-dreamlight-valley-launches-on-ps5-and-ps4-in-2022/)
+ - [Disney Dreamlight Valley Brings the Magic to PC, Xbox, and with Game Pass This Summer](https://news.xbox.com/en-us/2022/04/27/disney-dreamlight-valley-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
