@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says at least six Russia-aligned actors launched 237+ attacks against Ukraine between Feb. 23 and April 8, including ~40 threatening civilian welfare &lpar;Tom Burt/Microsoft On the Issues&rpar;](http://www.techmeme.com/220427/p27#a220427p27)
- - [Sennheiser CX Plus True Wireless review: Reliable noise-cancelling buds](https://www.androidauthority.com/sennheiser-cx-plus-true-wireless-review-3156343/)
- - [11 Great Deals on Monitors, Laptop Stands, and Other WFH Gear](https://www.wired.com/story/home-office-deals-april-2022)<!-- TECH:END -->
+ - [Apple&#39;s Self Repair Program vs. Genius Bar: What it costs to fix an iPhone 13](https://appleinsider.com/articles/22/04/27/apples-self-repair-program-vs-genius-bar-what-it-costs-to-fix-an-iphone-13?utm_medium=rss)
+ - [Google may now remove search results that dox you](https://www.theverge.com/2022/4/27/23044951/google-search-results-personal-information-address-phone-number)
+ - [Musk’s Plan to Reveal the Twitter Algorithm Won’t Solve Anything](https://www.wired.com/story/twitter-open-algorithm-problem)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
