@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Self Repair Program vs. Genius bar: What it costs to fix an iPhone 13](https://appleinsider.com/articles/22/04/27/apples-self-repair-program-vs-genius-bar-what-it-costs-to-fix-an-iphone-13?utm_medium=rss)
- - [Hyper&#39;s USB4 Mobile Dock expands the Mac&#39;s connectivity on the go](https://appleinsider.com/articles/22/04/27/hypers-usb4-mobile-dock-expands-the-macs-connectivity-on-the-go?utm_medium=rss)
- - [Go listen to this podcast about the history of the Windows startup sound](https://www.theverge.com/2022/4/27/23044724/windows-startup-sound-podcast)<!-- TECH:END -->
+ - [Microsoft says at least six Russia-aligned actors launched 237+ attacks against Ukraine between Feb. 23 and April 8, including ~40 threatening civilian welfare &lpar;Tom Burt/Microsoft On the Issues&rpar;](http://www.techmeme.com/220427/p27#a220427p27)
+ - [Sennheiser CX Plus True Wireless review: Reliable noise-cancelling buds](https://www.androidauthority.com/sennheiser-cx-plus-true-wireless-review-3156343/)
+ - [11 Great Deals on Monitors, Laptop Stands, and Other WFH Gear](https://www.wired.com/story/home-office-deals-april-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
