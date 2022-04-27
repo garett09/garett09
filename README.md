@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rope making in old times](http://9gag.com/gag/adg2MwV)
- - 🚯 [So cool!](http://9gag.com/gag/axBPKML)
- - 🚯 [Johnny Depp&#39;s Witness Diagnoses Amber Heard With &#39;Borderline Personality Disorder&#39;](http://9gag.com/gag/a71NXLL)<!-- MEMES:END -->
+ - 🚖 [Excuse me sir but thats mine](http://9gag.com/gag/angDwYL)
+ - 🚯 [This gem needs a remaster](http://9gag.com/gag/aE8XKD9)
+ - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
 
