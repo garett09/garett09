@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s board let Elon Musk take over despite his lacking a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)
- - [First Human Case of H3N8 Bird Flu Detected in China     - CNET](https://www.cnet.com/science/biology/first-human-case-of-h3n8-bird-flu-detected-in-china/#ftag=CAD590a51e)
- - [Some Twitter employees fear the acquisition by Musk, who has some followers who carry out targeted harassment, could undercut years spent making Twitter safer &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/220426/p45#a220426p45)<!-- TECH:END -->
+ - [Android 13 beta 1 shows face unlock on Pixel 6 Pro, but there’s a catch](https://www.androidauthority.com/pixel-6-pro-face-unlock-android-13-beta-1-3157744/)
+ - [Filing: Musk is barred from posting tweets about his deal to buy Twitter if they &quot;disparage the company or any of its representatives&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220427/p2#a220427p2)
+ - [Twitter&#39;s board let Elon Musk take over despite his lacking a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
