@@ -198,8 +198,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Yup :D So redy your vaseline PPL](http://9gag.com/gag/a41qgby)
- - 🚯 [This gem needs a remaster](http://9gag.com/gag/aE8XKD9)
- - 🚯 [A true feel good story\u2026.](http://9gag.com/gag/a81wNbO)<!-- MEMES:END -->
+ - 🚯 [A true feel good story\u2026.](http://9gag.com/gag/a81wNbO)
+ - 🚯 [So cool!](http://9gag.com/gag/axBPKML)<!-- MEMES:END -->
 
 --- 
 
