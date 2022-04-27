@@ -198,7 +198,7 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hmm](http://9gag.com/gag/a31WrRm)
- - 🚯 [Lift heavy rock make sad voice go away](http://9gag.com/gag/ajgKvmR)
+ - 🚯 [Is this a new level of woke by Microsoft?](http://9gag.com/gag/a21bX8d)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
