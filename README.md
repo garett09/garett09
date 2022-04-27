@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some of Bethesda&#39;s classic Elder Scrolls RPGs are now free on Steam](https://www.pcgamer.com/some-of-bethesdas-classic-elder-scrolls-rpgs-are-now-free-on-steam)
- - [We still don&#39;t know much about Starfield, but its music is on point](https://www.pcgamer.com/starfield-music-score-reveal)
- - [Overwatch 2 has a new way to judge other players, and I&#39;m nervous](https://www.pcgamer.com/overwatch-2-has-a-new-way-to-judge-other-players-and-im-nervous)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Romics 2022](https://kotaku.com/cosplay-photos-video-gallery-romics-2022-italy-rome-cos-1848845916)
+ - [Game Under promotion comes to PlayStation Store](https://blog.playstation.com/2022/04/26/game-under-promotion-comes-to-playstation-store/)
+ - [Game Under promotion comes to PlayStation Store](https://blog.playstation.com/2022/04/26/game-under-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
