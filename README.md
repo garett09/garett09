@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Romics 2022](https://kotaku.com/cosplay-photos-video-gallery-romics-2022-italy-rome-cos-1848845916)
- - [Game Under promotion comes to PlayStation Store](https://blog.playstation.com/2022/04/26/game-under-promotion-comes-to-playstation-store/)
- - [Game Under promotion comes to PlayStation Store](https://blog.playstation.com/2022/04/26/game-under-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [You&#39;re going to want a beefy GPU to turn on ray tracing in F1 22](https://www.pcgamer.com/youre-going-to-want-a-beefy-gpu-to-turn-on-ray-tracing-in-f1-22)
+ - [A Fight For Survival](https://kotaku.com/borys-kernytskyi-ukraine-art-artist-russia-war-environm-1848846264)
+ - [Classic Multiplayer Wolfenstein Game Launches On Steam 19 Years After Release](https://kotaku.com/wolfenstein-enemy-territory-splash-damage-steam-pc-mult-1848845752)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
