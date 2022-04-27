@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #312: Wednesday, April 27](https://www.pcgamer.com/wordle-april-27-312)
- - [The Batman 2, with Robert Pattinson, confirmed by Warner Bros.](https://www.polygon.com/23044269/the-batman-2-sequel-announced-release-date-robert-pattinson)
- - [Nvidia GeForce Experience rewards for Genshin Impact are the stingiest yet](https://www.pcgamer.com/nvidia-geforce-experience-rewards-for-genshin-impact-are-the-stingiest-yet)<!-- GAME:END -->
+ - [If a 900W Nvidia GeForce card appears in the next generation the GPU industry has lost its head](https://www.pcgamer.com/if-a-900w-nvidia-geforce-card-appears-in-the-next-generation-the-gpu-industry-has-lost-its-head)
+ - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
+ - [Doom Eternal update finally fixes a 2-year-old bug](https://www.pcgamer.com/doom-eternal-update-finally-fixes-a-2-year-old-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
