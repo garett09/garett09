@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
- - [You told us: You’re opposed to Google killing third-party call recording apps](https://www.androidauthority.com/google-killing-third-party-call-recording-apps-poll-results-3157770/)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
+ - [Compared: Apple Studio Display vs Samsung Smart Monitor M8](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-samsung-smart-monitor-m8?utm_medium=rss)
+ - [Enveil, which is working on tools that use homomorphic encryption, raises a $25M Series B led by USAA, after a $10M Series A in February 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220427/p25#a220427p25)
+ - [What’s on your desk, Sean Hollister?](https://www.theverge.com/23037594/sean-hollister-desk-razer-synology-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
