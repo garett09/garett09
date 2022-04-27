@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 great movies leaving streaming at the end of April 2022](https://www.polygon.com/what-to-watch/2022/4/27/23031814/best-movies-netflix-amazon-hulu-hbo-leaving-april-2022)
- - [Beyond Final Fantasy XIV Endwalker: Producer and Director Naoki Yoshida Q&amp;A](https://blog.playstation.com/2022/04/27/beyond-final-fantasy-xiv-endwalker-producer-and-director-naoki-yoshida-qa/)
- - [Beyond Final Fantasy XIV Endwalker: Producer and Director Naoki Yoshida Q&amp;A](https://blog.playstation.com/2022/04/27/beyond-final-fantasy-xiv-endwalker-producer-and-director-naoki-yoshida-qa/)<!-- GAME:END -->
+ - [Valorant’s new patch adds Fade and nerfs Jett’s instant dash](https://www.polygon.com/23044575/valorant-patch-4-08-notes-jett-nerf-dash-fade-sova)
+ - [Enter the Medieval Fantasy World of The Serpent Rogue Today on Xbox Series X|S](https://news.xbox.com/en-us/2022/04/27/the-serpent-rogue-today-on-xbox-series-xs/)
+ - [Chip ’n Dale: Rescue Rangers is trying to out-cameo Roger Rabbit and Space Jam](https://www.polygon.com/23044551/chip-n-dale-rescue-rangers-trailer-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
