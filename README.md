@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bill Murray is the GOAT](http://9gag.com/gag/ay9Qjxy)
- - 🚯 [`And if I slice this bread thin enough, I can eat for a week...`](http://9gag.com/gag/aRr2pZQ)
+ - 🚖 [I say NO to bullshit](http://9gag.com/gag/a71NYV2)
+ - 🚯 [Just a legend](http://9gag.com/gag/amgV439)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
