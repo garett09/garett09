@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds in Elden Ring](https://www.pcgamer.com/best-elden-ring-build)
- - [Let&#39;s &#39;Marie Kondo&#39; Your Disgusting Elden Ring Inventory](https://kotaku.com/elden-ring-guide-inventory-item-clutter-how-to-use-cons-1848849051)
- - [&#39;Block Quake&#39; delivers the Lego Quake experience we didn&#39;t know we needed](https://www.pcgamer.com/block-quake-delivers-the-lego-quake-experience-we-didnt-know-we-needed)<!-- GAME:END -->
+ - [Avatar 2 finally has a title and a minimal plot description](https://www.polygon.com/23045087/avatar-2-the-way-of-water-title-trailer-announcement)
+ - [Get Your Halloween Treats Way, Way, Early… with the ID@Xbox Un-Halloween Horror Sale!](https://news.xbox.com/en-us/2022/04/27/get-your-halloween-treats-way-way-early-with-the-idxbox-un-halloween-horror-sale/)
+ - [What to watch to catch up before Doctor Strange in the Multiverse of Madness](https://www.polygon.com/23041574/movies-to-watch-before-doctor-strange-2-multiverse-of-madness-mcu-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
