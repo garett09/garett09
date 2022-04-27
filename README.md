@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 beta 1 shows face unlock on Pixel 6 Pro, but there’s a catch](https://www.androidauthority.com/pixel-6-pro-face-unlock-android-13-beta-1-3157744/)
- - [Filing: Musk is barred from posting tweets about his deal to buy Twitter if they &quot;disparage the company or any of its representatives&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220427/p2#a220427p2)
- - [Twitter&#39;s board let Elon Musk take over despite his lacking a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)<!-- TECH:END -->
+ - [Google Cloud launches Media CDN, which lets media customers deliver content using the same infrastructure that powers YouTube, including tools for ad insertion &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220427/p3#a220427p3)
+ - [Here’s how the leaked Pixel Watch looks on the wrist. Do you like it?](https://www.androidauthority.com/google-pixel-watch-on-wrist-3157743/)
+ - [Android 13 beta 1 shows face unlock on Pixel 6 Pro, but there’s a catch](https://www.androidauthority.com/pixel-6-pro-face-unlock-android-13-beta-1-3157744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
