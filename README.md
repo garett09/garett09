@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yup :D So redy your vaseline PPL](http://9gag.com/gag/a41qgby)
- - 🚯 [A true feel good story\u2026.](http://9gag.com/gag/a81wNbO)
- - 🚯 [So cool!](http://9gag.com/gag/axBPKML)<!-- MEMES:END -->
+ - 🚖 [Rope making in old times](http://9gag.com/gag/adg2MwV)
+ - 🚯 [So cool!](http://9gag.com/gag/axBPKML)
+ - 🚯 [Johnny Depp&#39;s Witness Diagnoses Amber Heard With &#39;Borderline Personality Disorder&#39;](http://9gag.com/gag/a71NXLL)<!-- MEMES:END -->
 
 --- 
 
