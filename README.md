@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 2 finally has a title and a minimal plot description](https://www.polygon.com/23045087/avatar-2-the-way-of-water-title-trailer-announcement)
- - [Get Your Halloween Treats Way, Way, Early… with the ID@Xbox Un-Halloween Horror Sale!](https://news.xbox.com/en-us/2022/04/27/get-your-halloween-treats-way-way-early-with-the-idxbox-un-halloween-horror-sale/)
- - [What to watch to catch up before Doctor Strange in the Multiverse of Madness](https://www.polygon.com/23041574/movies-to-watch-before-doctor-strange-2-multiverse-of-madness-mcu-marvel)<!-- GAME:END -->
+ - [Maxis performed an exorcism on The Sims 4&#39;s cursed main menu](https://www.pcgamer.com/maxis-performed-an-exorcism-on-the-sims-4s-cursed-main-menu)
+ - [Did Bungie accidentally leak one of next season&#39;s Destiny 2 exotic weapons?](https://www.pcgamer.com/did-bungie-accidentally-leak-one-of-next-seasons-destiny-2-exotic-weapons)
+ - [Avatar 2 finally has a title and a minimal plot description](https://www.polygon.com/23045087/avatar-2-the-way-of-water-title-trailer-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
