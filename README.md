@@ -198,7 +198,7 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Oh Karen, shut up now](http://9gag.com/gag/a11L6jY)
- - 🚯 [Diffrent mechanical principles](http://9gag.com/gag/aGz2Qd6)
+ - 🚯 [Ah, yes indeed](http://9gag.com/gag/a0ZEqZQ)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
