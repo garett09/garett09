@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Broken Elden Ring Boss Is Back To Being Just Really Hard With Latest Update](https://kotaku.com/elden-ring-update-patch-malenia-godskin-duo-fire-giant-1848849417)
- - [A Chernobyl director will replace Denis Villeneuve on HBO Max’s Dune spinoff show](https://www.polygon.com/23045256/dune-sisterhood-hbo-max-spinoff-prequel-show-director)
- - [Check Out the Halo Infinite Season 2 Community Livestream](https://news.xbox.com/en-us/2022/04/27/check-out-the-halo-infinite-season-2-community-livestream/)<!-- GAME:END -->
+ - [You can now transfer your Bethesda Launcher games to Steam](https://www.pcgamer.com/you-can-now-transfer-your-bethesda-launcher-games-to-steam)
+ - [World of Warcraft: Dragonflight is solving a very specific grind problem](https://www.polygon.com/23045039/world-of-warcraft-dragonflight-alt-progression-account-wide-unlocks)
+ - [QA workers on Dragon Age 4 have applied to form a union](https://www.pcgamer.com/qa-workers-on-dragon-age-4-have-applied-to-form-a-union)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
