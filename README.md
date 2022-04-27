@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may now remove search results that dox you](https://www.theverge.com/2022/4/27/23044951/google-search-results-personal-information-address-phone-number)
- - [Pinterest reports Q1 revenue of $575M, up 18% YoY, vs. $572.5M est, MAUs of 433M, down 9% YoY, global ARPU of $1.33, up 28% YoY; stock jumps 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/220427/p33#a220427p33)
- - [Meta reports Q1 ad revenue of $27B vs. $27.5B est., and says it expects FY 2022 expenses between $87B and $92B, less than the previously announced $90B to $95B &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/220427/p32#a220427p32)<!-- TECH:END -->
+ - [Ubisoft axes online support for 91 games](https://www.theverge.com/2022/4/27/23044852/ubisoft-games-online-support-disabled)
+ - [Central African Republic lawmakers vote unanimously to adopt bitcoin as legal tender, the second country to use bitcoin as official currency after El Salvador &lpar;BBC&rpar;](http://www.techmeme.com/220427/p35#a220427p35)
+ - [Motorola launches Edge 30 in Europe, tells US to sit tight](https://www.theverge.com/2022/4/27/23045063/motorola-edge-30-europe-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
