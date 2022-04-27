@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley launches on PS5 and PS4 in 2022](https://blog.playstation.com/2022/04/27/disney-dreamlight-valley-launches-on-ps5-and-ps4-in-2022/)
- - [Disney Dreamlight Valley launches on PS5 and PS4 in 2022](https://blog.playstation.com/2022/04/27/disney-dreamlight-valley-launches-on-ps5-and-ps4-in-2022/)
- - [Disney Dreamlight Valley Brings the Magic to PC, Xbox, and with Game Pass This Summer](https://news.xbox.com/en-us/2022/04/27/disney-dreamlight-valley-announced/)<!-- GAME:END -->
+ - [Beadle &amp; Grimm’s latest batch of products for Magic and Pathfinder is a bit of a mixed bag](https://www.polygon.com/reviews/23044609/beadle-grimms-kamigawa-delay-pathfinder-price-availability-review)
+ - [Research and Destroy: The Power of Science Compels You!](https://news.xbox.com/en-us/2022/04/27/research-and-destroy-available-today/)
+ - [The Cozy Grove: New Neighbears DLC Is out Now](https://news.xbox.com/en-us/2022/04/27/the-cozy-grove-new-neighbears-dlc-is-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
