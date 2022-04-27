@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian announces another shipping delay but also some cool new software features](https://www.theverge.com/2022/4/27/23043536/rivian-ocean-coast-trim-production-delays-sand-mode-pet-dashcam)
- - [Apple, Google &amp; others hit by fake data requests used to sexually extort minors](https://appleinsider.com/articles/22/04/27/apple-google-others-hit-by-fake-data-requests-used-to-sexually-extort-minors?utm_medium=rss)
- - [A look at the impact that loosened content moderation rules at Twitter could have outside the US, including in India and Ethiopia &lpar;Ellery Biddle/Coda Story&rpar;](http://www.techmeme.com/220427/p20#a220427p20)<!-- TECH:END -->
+ - [Apple&#39;s iPhone repair tool kit that it rents is wheeled and weighs 79 pounds](https://appleinsider.com/articles/22/04/27/apples-iphone-repair-tool-kit-that-it-rents-is-wheeled-and-weighs-79-pounds?utm_medium=rss)
+ - [Comcast and Charter team up in hopes of toppling Roku, Amazon streaming hardware](https://www.theverge.com/2022/4/27/23044434/comcast-charter-streaming-joint-venture-announced-flex)
+ - [Apple offering a free fix for Apple Watch Series 6 with blanked out screens](https://www.theverge.com/2022/4/27/23044421/apple-watch-series-6-blank-screens-fix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
