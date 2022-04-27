@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says the Pixel 6 series is the fastest selling Pixel line ever](https://www.androidauthority.com/google-pixel-6-series-fastest-selling-3157756/)
- - [Google Cloud launches Media CDN, which lets media customers deliver content using the same infrastructure that powers YouTube, including tools for ad insertion &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220427/p3#a220427p3)
- - [Here’s how the leaked Pixel Watch looks on the wrist. Do you like it?](https://www.androidauthority.com/google-pixel-watch-on-wrist-3157743/)<!-- TECH:END -->
+ - [YouTube says it will begin testing ads on Shorts, including app-install ads and other promotions, as its ad revenue growth slows &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220427/p7#a220427p7)
+ - [Eurora, which uses AI to automate e-commerce shipping compliance in the EU, raises a $40M Series A led by Connected Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220427/p6#a220427p6)
+ - [Sources: data obtained through fake legal requests have been used to harass women and sexually extort minors; Meta, Apple, Google, and others handed over data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/220427/p5#a220427p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
