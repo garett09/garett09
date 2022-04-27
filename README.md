@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Promotions of April 2022     - CNET](https://www.cnet.com/home/internet/best-internet-promotions/#ftag=CAD590a51e)
- - [Ransomware Attacks Surged to New Highs in 2021     - CNET](https://www.cnet.com/tech/services-%26-software/ransomware-attacks-surged-to-new-highs-in-2021/#ftag=CAD590a51e)
- - [Sources: negotiations between Congressional lawmakers on online privacy policies include limits on tech giants&#39; collection, storage, and use of personal info &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/220427/p9#a220427p9)<!-- TECH:END -->
+ - [Europe Has Traded Away Its Online Porn Law](https://www.wired.com/story/digital-services-act-deepfake-porn)
+ - [North Koreans Are Jailbreaking Phones to Access Forbidden Media](https://www.wired.com/story/north-korean-phone-jailbreakers)
+ - [Russia Is Being Hacked at an Unprecedented Scale](https://www.wired.com/story/russia-hacked-attacks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
