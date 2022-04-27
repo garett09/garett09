@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Batman 2, with Robert Pattinson, confirmed by Warner Bros.](https://www.polygon.com/23044269/the-batman-2-with-robert-pattinson-confirmed-by-warner-bros)
  - [Nvidia GeForce Experience rewards for Genshin Impact are the stingiest yet](https://www.pcgamer.com/nvidia-geforce-experience-rewards-for-genshin-impact-are-the-stingiest-yet)
- - [How Warhammer 40,000: Chaos Gate  — Daemonhunters rebuilds the tactics genre around the Space Marines](https://www.pcgamer.com/how-warhammer-40000-chaos-gate-daemonhunters-rebuilds-the-tactics-genre-around-the-space-marines)
- - [Taiwan continues to dominate the semiconductor industry](https://www.pcgamer.com/taiwan-continues-to-dominate-the-semiconductor-industry)<!-- GAME:END -->
+ - [How Warhammer 40,000: Chaos Gate  — Daemonhunters rebuilds the tactics genre around the Space Marines](https://www.pcgamer.com/how-warhammer-40000-chaos-gate-daemonhunters-rebuilds-the-tactics-genre-around-the-space-marines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
