@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An absolute win](http://9gag.com/gag/a21b64Z)
- - 🚯 [Never send kids to do an adults job.](http://9gag.com/gag/awz42Ex)
+ - 🚖 [Unpopular opinon: this movie was awesome.](http://9gag.com/gag/aDDXevN)
+ - 🚯 [Can be hard to open a coke can with no nails, smart of her.](http://9gag.com/gag/ajgKeMg)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
