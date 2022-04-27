@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/aQX2DOz)
- - 🚯 [SHENZHEN LAST WEEK. CAGING CITIZENS LIKE RATS](http://9gag.com/gag/arnBDed)
- - 🚯 [Elon Musk buys Twitter](http://9gag.com/gag/aBnXN8N)<!-- MEMES:END -->
+ - 🚖 [Elon Musk buys Twitter](http://9gag.com/gag/aBnXN8N)
+ - 🚯 [Cat business](http://9gag.com/gag/azeZzXK)
+ - 🚯 [The psychologist](http://9gag.com/gag/aog8AXn)<!-- MEMES:END -->
 
 --- 
 
