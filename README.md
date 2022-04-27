@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [By the people, for the people, lilmayo](http://9gag.com/gag/aeg2zqO)
- - 🚯 [Ahh Sweden welcomes you.](http://9gag.com/gag/avAvjPM)
+ - 🚖 [Oh Karen, shut up now](http://9gag.com/gag/a11L6jY)
+ - 🚯 [Diffrent mechanical principles](http://9gag.com/gag/aGz2Qd6)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
