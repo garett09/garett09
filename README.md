@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Self Repair Program vs. Genius Bar: What it costs to fix an iPhone 13](https://appleinsider.com/articles/22/04/27/apples-self-repair-program-vs-genius-bar-what-it-costs-to-fix-an-iphone-13?utm_medium=rss)
- - [Google may now remove search results that dox you](https://www.theverge.com/2022/4/27/23044951/google-search-results-personal-information-address-phone-number)
- - [Musk’s Plan to Reveal the Twitter Algorithm Won’t Solve Anything](https://www.wired.com/story/twitter-open-algorithm-problem)<!-- TECH:END -->
+ - [Meta Reports First Quarter 2022 Results &lpar;Meta&rpar;](http://www.techmeme.com/220427/p29#a220427p29)
+ - [&#39;Avatar&#39; is Coming Back to Theaters, So Here&#39;s Our Original Review     - CNET](https://www.cnet.com/culture/entertainment/avatar-coming-back-to-theaters-so-heres-our-original-review/#ftag=CAD590a51e)
+ - [Best Travel Credit Cards for May 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
