@@ -190,7 +190,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s board let Elon Musk take over despite him not having a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)
+ - [Twitter&#39;s board let Elon Musk take over despite his lacking a clear plan to address failures in increasing its revenue, profit, or user base &lpar;Siva Vaidhyanathan/Slate&rpar;](http://www.techmeme.com/220427/p1#a220427p1)
  - [First Human Case of H3N8 Bird Flu Detected in China     - CNET](https://www.cnet.com/science/biology/first-human-case-of-h3n8-bird-flu-detected-in-china/#ftag=CAD590a51e)
  - [Some Twitter employees fear the acquisition by Musk, who has some followers who carry out targeted harassment, could undercut years spent making Twitter safer &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/220426/p45#a220426p45)<!-- TECH:END -->
 
