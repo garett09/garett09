@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unpopular opinon: this movie was awesome.](http://9gag.com/gag/aDDXevN)
- - 🚯 [Can be hard to open a coke can with no nails, smart of her.](http://9gag.com/gag/ajgKeMg)
+ - 🚖 [Bill Murray is the GOAT](http://9gag.com/gag/ay9Qjxy)
+ - 🚯 [`And if I slice this bread thin enough, I can eat for a week...`](http://9gag.com/gag/aRr2pZQ)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
