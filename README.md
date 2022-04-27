@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where are they??](http://9gag.com/gag/a31WD8N)
- - 🚯 [She is a super mum ...](http://9gag.com/gag/aog86OA)
- - 🚯 [Black-tongued Skink. Quite rare in this parts](http://9gag.com/gag/a51jAKV)<!-- MEMES:END -->
+ - 🚖 [Well it was bound to happen\u2026](http://9gag.com/gag/a81w9Zd)
+ - 🚯 [Cat business](http://9gag.com/gag/azeZzXK)
+ - 🚯 [A true feel good story\u2026.](http://9gag.com/gag/a81wNbO)<!-- MEMES:END -->
 
 --- 
 
