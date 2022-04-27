@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wipro agreed to acquire SAP consulting firm Rizing Intermediate Holdings for $540M; Wipro expects the deal to close before June 30 &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/220426/p40#a220426p40)
- - [How to get followers on Twitter](https://www.androidauthority.com/get-twitter-followers-3157514/)
- - [Google releases Android 13 Beta 1, which adds developer features like permissions for more granular access to media files and anticipatory audio routing APIs &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220426/p39#a220426p39)<!-- TECH:END -->
+ - [Sources: the EU plans to open a San Francisco office to engage with Silicon Valley tech giants under scrutiny from newly adopted EU rules, such as DMA and DSA &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220426/p44#a220426p44)
+ - [Chinese drone maker DJI says it will temporarily suspend business in Russia and Ukraine to ensure its products are not used in combat &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/220426/p43#a220426p43)
+ - [Facebook doesn&#39;t know what most of its user data is used for](https://appleinsider.com/articles/22/04/27/facebook-doesnt-know-what-most-of-its-user-data-is-used-for?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
