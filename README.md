@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh Karen, shut up now](http://9gag.com/gag/a11L6jY)
- - 🚯 [Ah, yes indeed](http://9gag.com/gag/a0ZEqZQ)
+ - 🚖 [An absolute win](http://9gag.com/gag/a21b64Z)
+ - 🚯 [Never send kids to do an adults job.](http://9gag.com/gag/awz42Ex)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
