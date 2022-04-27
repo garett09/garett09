@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Verbal Fu Jitsu](http://9gag.com/gag/a91XNEK)
- - 🚯 [When your house is burning I think the last thing you think about is the color of the firefighters.](http://9gag.com/gag/a0ZEznL)
- - 🚯 [What&#39;s it doing, apart from blowing bubbles?](http://9gag.com/gag/aE8XNgx)<!-- MEMES:END -->
+ - 🚖 [In the government&#39;s defense, they really solved our problem with stable prices.](http://9gag.com/gag/aGz26Kz)
+ - 🚯 [The easiest way to open a blister package if you don&#39;t have scissors](http://9gag.com/gag/aBnXb6Z)
+ - 🚯 [SHENZHEN LAST WEEK. CAGING CITIZENS LIKE RATS](http://9gag.com/gag/arnBDed)<!-- MEMES:END -->
 
 --- 
 
