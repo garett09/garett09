@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beadle &amp; Grimm’s latest batch of products for Magic and Pathfinder is a bit of a mixed bag](https://www.polygon.com/reviews/23044609/beadle-grimms-kamigawa-delay-pathfinder-price-availability-review)
- - [Research and Destroy: The Power of Science Compels You!](https://news.xbox.com/en-us/2022/04/27/research-and-destroy-available-today/)
- - [The Cozy Grove: New Neighbears DLC Is out Now](https://news.xbox.com/en-us/2022/04/27/the-cozy-grove-new-neighbears-dlc-is-out-now/)<!-- GAME:END -->
+ - [The Stanley Parable: Ultra Deluxe launch trailer is not here](https://www.pcgamer.com/the-stanley-parable-ultra-deluxe-launch-trailer-is-not-here)
+ - [Game Pass Hidden Gem Mixes XCOM, Worms, And Comic Book Vibes](https://kotaku.com/research-and-destroy-game-pass-xcom-worms-review-xbox-s-1848849080)
+ - [Nike&#39;s NFT sneakers are selling for obscene amounts of money](https://www.pcgamer.com/nike-nft-sneakers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
