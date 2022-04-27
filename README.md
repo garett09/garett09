@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Studio Display vs Samsung Smart Monitor M8](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-samsung-smart-monitor-m8?utm_medium=rss)
- - [Enveil, which is working on tools that use homomorphic encryption, raises a $25M Series B led by USAA, after a $10M Series A in February 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220427/p25#a220427p25)
- - [What’s on your desk, Sean Hollister?](https://www.theverge.com/23037594/sean-hollister-desk-razer-synology-microsoft)<!-- TECH:END -->
+ - [Apple&#39;s Self Repair Program vs. Genius bar: What it costs to fix an iPhone 13](https://appleinsider.com/articles/22/04/27/apples-self-repair-program-vs-genius-bar-what-it-costs-to-fix-an-iphone-13?utm_medium=rss)
+ - [Hyper&#39;s USB4 Mobile Dock expands the Mac&#39;s connectivity on the go](https://appleinsider.com/articles/22/04/27/hypers-usb4-mobile-dock-expands-the-macs-connectivity-on-the-go?utm_medium=rss)
+ - [Go listen to this podcast about the history of the Windows startup sound](https://www.theverge.com/2022/4/27/23044724/windows-startup-sound-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
