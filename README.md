@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The psychologist](http://9gag.com/gag/aog8AXn)
- - 🚯 [Cat business](http://9gag.com/gag/azeZzXK)
- - 🚯 [The easiest way to open a blister package if you don&#39;t have scissors](http://9gag.com/gag/aBnXb6Z)<!-- MEMES:END -->
+ - 🚖 [Where are they??](http://9gag.com/gag/a31WD8N)
+ - 🚯 [Always remember, if you cant see the bottom then don&#39;t go in the water](http://9gag.com/gag/aAGXLK0)
+ - 🚯 [In Japan, napping at work won&#39;t get you fired. In fact, taking time out for a snooze is seen as honorable and a sign of diligence by employers.](http://9gag.com/gag/aGz2r8Z)<!-- MEMES:END -->
 
 --- 
 
