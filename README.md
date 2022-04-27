@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says the Pixel 6 series is the fastest selling Pixel line ever](https://www.androidauthority.com/google-pixel-6-series-fastest-selling-3157756/)
  - [Google Cloud launches Media CDN, which lets media customers deliver content using the same infrastructure that powers YouTube, including tools for ad insertion &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220427/p3#a220427p3)
- - [Here’s how the leaked Pixel Watch looks on the wrist. Do you like it?](https://www.androidauthority.com/google-pixel-watch-on-wrist-3157743/)
- - [Android 13 beta 1 shows face unlock on Pixel 6 Pro, but there’s a catch](https://www.androidauthority.com/pixel-6-pro-face-unlock-android-13-beta-1-3157744/)<!-- TECH:END -->
+ - [Here’s how the leaked Pixel Watch looks on the wrist. Do you like it?](https://www.androidauthority.com/google-pixel-watch-on-wrist-3157743/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
