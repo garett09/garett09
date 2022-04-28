@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just dark times for memes](http://9gag.com/gag/aKmO4yb)
- - 🚯 [Not my fault](http://9gag.com/gag/aVx2Gz8)
+ - 🚖 [This photo of the sun might not look too impressive... until you realize it was taken at night \u2013 not looking up but looking down, through the entire Earth, using neutrinos rather than light.](http://9gag.com/gag/ajgWYD1)
+ - 🚯 [Hey hey calm down](http://9gag.com/gag/aRrO6Lq)
  - 🚯 [What 1500 rounds per minute sounds like](http://9gag.com/gag/aOQRo93)<!-- MEMES:END -->
 
 --- 
