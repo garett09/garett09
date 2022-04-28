@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meta&#39;s new high-end VR headset is coming this year but it&#39;s not for gamers](https://www.pcgamer.com/metas-new-high-end-vr-headset-is-coming-this-year-but-its-not-for-gamers)
  - [Nvidia spent 1.8M hours testing GPU drivers in 2021](https://www.pcgamer.com/nvidia-spent-18m-hours-testing-gpu-drivers-in-2021)
- - [New Disney Game Looks Perfect &lpar;For Disney Adults&rpar;](https://kotaku.com/disney-dreamlight-valley-gameloft-ps5-pc-xbox-switch-ip-1848851631)
- - [Artesian Builds files for bankruptcy with an estimated $1.3M in unfulfilled orders](https://www.pcgamer.com/artesian-builds-bankruptcy)<!-- GAME:END -->
+ - [New Disney Game Looks Perfect &lpar;For Disney Adults&rpar;](https://kotaku.com/disney-dreamlight-valley-gameloft-ps5-pc-xbox-switch-ip-1848851631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
