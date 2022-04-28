@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia spent 1.8M hours testing GPU drivers in 2021](https://www.pcgamer.com/nvidia-spent-18m-hours-testing-gpu-drivers-in-2021)
  - [New Disney Game Looks Perfect &lpar;For Disney Adults&rpar;](https://kotaku.com/disney-dreamlight-valley-gameloft-ps5-pc-xbox-switch-ip-1848851631)
- - [Artesian Builds files for bankruptcy with an estimated $1.3M in unfulfilled orders](https://www.pcgamer.com/artesian-builds-bankruptcy)
- - [Final Fantasy XIV&#39;s Director Is Asking You Not To Be Jerks](https://kotaku.com/final-fantasy-xiv-naoki-yoshida-square-enix-trolls-ban-1848851443)<!-- GAME:END -->
+ - [Artesian Builds files for bankruptcy with an estimated $1.3M in unfulfilled orders](https://www.pcgamer.com/artesian-builds-bankruptcy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
