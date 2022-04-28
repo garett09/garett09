@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches the Privacy Sandbox Developer Preview based on Android 13, with an &quot;early look&quot; at the Topics API and SDK Runtime &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220428/p24#a220428p24)
- - [Google’s ad-tracking overhaul continues with first developer preview of Privacy Sandbox on Android](https://www.theverge.com/2022/4/28/23046608/android-advertising-privacy-sandbox-google-preview)
- - [Disney Dreamlight Valley looks like Animal Crossing with a Kingdom Hearts twist](https://www.theverge.com/2022/4/28/23046633/disney-dreamlight-valley-animal-crossing-ps5-xbox-pc)<!-- TECH:END -->
+ - [Alleged &#39;iPhone 14&#39; display panels shown in leaked photo](https://appleinsider.com/articles/22/04/28/alleged-iphone-14-display-panels-shown-in-leaked-photo?utm_medium=rss)
+ - [Startup Trail is Oregon Trail for tech policy wonks](https://www.theverge.com/2022/4/28/23045333/startup-trail-game-oregon)
+ - [A dog’s breed doesn’t determine much about its behavior](https://www.theverge.com/2022/4/28/23043508/dog-breed-behavior-genetics-study-stereotypes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
