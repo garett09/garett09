@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indeed they did.](http://9gag.com/gag/ajgKbxw)
- - 🚯 [Johnny Depps psychologist gets interrupted every 5 seconds](http://9gag.com/gag/aQX20g2)
- - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
+ - 🚖 [Well well well, if it isn&#39;t the consequences of my own actions...](http://9gag.com/gag/agg2MGW)
+ - 🚯 [He&#39;s like, yeahhh, you tell &#39;em a bad word](http://9gag.com/gag/aVx2NBv)
+ - 🚯 [Truth has been spoken](http://9gag.com/gag/abg2PEr)<!-- MEMES:END -->
 
 --- 
 
