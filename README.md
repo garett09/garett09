@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Become an NBA Champion with Xbox Game Pass and NBA 2K22](https://news.xbox.com/en-us/2022/04/28/become-an-nba-champion-with-xbox-game-pass-and-nba-2k22/)
  - [Xbox and Bethesda Games Showcase announced for June 12](https://www.polygon.com/23046281/xbox-bethesda-games-showcase-2022-date-time-e3)
- - [Join Us Sunday, June 12 for the Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/04/28/xbox-and-bethesda-showcase-on-sunday-june-12/)
- - [Stalker 2 site banned by Russian authorities in petty censorship](https://www.pcgamer.com/stalker-2-site-banned-by-russian-authorities-in-petty-censorship)<!-- GAME:END -->
+ - [Join Us Sunday, June 12 for the Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/04/28/xbox-and-bethesda-showcase-on-sunday-june-12/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
