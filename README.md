@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell’s new-look XPS 13 Plus is now available, starting at $1,299](https://www.theverge.com/2022/4/28/23044947/dell-2022-xps-13-plus-now-available-price-specs)
- - [Internal email: Amazon permanently lets its warehouse workers keep their cell phones while they work, after temporarily lifting its ban during the pandemic &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220427/p45#a220427p45)
- - [Google now accepts requests to remove Search results that include users&#39; contact info, like physical addresses, phone numbers, and emails, and login credentials &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220427/p44#a220427p44)<!-- TECH:END -->
+ - [An in-depth look at what went wrong at Netflix; sources say VP of content Cindy Holland&#39;s departure in 2020 led to Netflix prioritizing quantity over quality &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/220428/p2#a220428p2)
+ - [Ondo Finance, which is building a decentralized investment bank focused on stakeholders in DeFi, raises a $20M Series A led by Founders Fund and Pantera Capital &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220428/p1#a220428p1)
+ - [Dell’s new-look XPS 13 Plus is now available, starting at $1,299](https://www.theverge.com/2022/4/28/23044947/dell-2022-xps-13-plus-now-available-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
