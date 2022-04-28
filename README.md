@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to advertisers, Twitter insists it will remain a safe place for brands after Elon Musk&#39;s takeover, as campaign groups predict rising toxicity &lpar;Financial Times&rpar;](http://www.techmeme.com/220428/p7#a220428p7)
- - [UK-based Argent Labs, which is developing a service to buy, store, and transact 240 Ethereum-based tokens, raises $40M led by Fabric and Metaplanet &lpar;Bloomberg&rpar;](http://www.techmeme.com/220428/p6#a220428p6)
- - [Cloudflare says it mitigated a 15.3M rps HTTPS DDoS attack earlier this month, one of the largest of its kind, targeting a customer in the crypto industry &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220428/p5#a220428p5)<!-- TECH:END -->
+ - [German soccer media service OneFootball, which has 100M+ MAUs, raises a $300M Series D and says it plans to expand into blockchain-based experiences &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220428/p9#a220428p9)
+ - [Call of Duty anti-cheat system makes legit players invisible to cheaters](https://www.theverge.com/2022/4/28/23046152/call-of-duty-ricochet-anti-cheat-warzone-vanguard-invisible-legit-players)
+ - [Someone may have found Xiaomi’s next foldable phone hidden in MIUI code](https://www.androidauthority.com/xiaomi-mi-mix-fold-2-3158521/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
