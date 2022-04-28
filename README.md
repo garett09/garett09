@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now ask Google to remove your phone number from search](https://www.androidauthority.com/google-search-remove-phone-number-3158456/)
  - [An in-depth look at what went wrong at Netflix; sources say VP of content Cindy Holland&#39;s departure in 2020 led to Netflix prioritizing quantity over quality &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/220428/p2#a220428p2)
- - [Ondo Finance, which is building a decentralized investment bank focused on stakeholders in DeFi, raises a $20M Series A led by Founders Fund and Pantera Capital &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220428/p1#a220428p1)
- - [Dell’s new-look XPS 13 Plus is now available, starting at $1,299](https://www.theverge.com/2022/4/28/23044947/dell-2022-xps-13-plus-now-available-price-specs)<!-- TECH:END -->
+ - [Netflix: All the TV Shows and Movies Coming in May 2022     - CNET](https://www.cnet.com/culture/entertainment/netflix-all-the-tv-shows-and-movies-coming-in-may-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
