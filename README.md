@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q1 operating profit of ~$11.1B, up 51% YoY, on revenue of ~$61.4B, up 19% YoY, driven by memory chip sales with revenue of ~$21.23B, up 39% YoY &lpar;Reuters&rpar;](http://www.techmeme.com/220427/p41#a220427p41)
- - [Boeing CEO calls Trump’s Air Force One deal a risk it ‘probably shouldn’t have taken’](https://www.theverge.com/2022/4/27/23045514/boeing-ceo-trump-air-force-one-deal-risk)
- - [How to edit TikTok videos with every tool available](https://www.androidauthority.com/how-to-edit-tiktok-videos-3158317/)<!-- TECH:END -->
+ - [Dell’s new-look XPS 13 Plus is now available, starting at $1,299](https://www.theverge.com/2022/4/28/23044947/dell-2022-xps-13-plus-now-available-price-specs)
+ - [Internal email: Amazon permanently lets its warehouse workers keep their cell phones while they work, after temporarily lifting its ban during the pandemic &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220427/p45#a220427p45)
+ - [Google now accepts requests to remove Search results that include users&#39; contact info, like physical addresses, phone numbers, and emails, and login credentials &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220427/p44#a220427p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
