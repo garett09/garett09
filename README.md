@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter reports Q1 revenue of $1.2B, up 16% YoY but below estimates, and $513M net income; mDAUs reached 229M; Twitter will offer no guidance pending Musk&#39;s bid &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220428/p11#a220428p11)
- - [EU to say Apple Pay breaks antitrust laws](https://appleinsider.com/articles/22/04/28/eu-to-say-apple-pay-breaks-antitrust-laws?utm_medium=rss)
- - [The 15 Best Accessories for Your PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
+ - [Netflix anime Bubble turns post-apocalyptic Tokyo into a colorful playground](https://www.theverge.com/2022/4/28/23044634/bubble-netflix-anime-director-interview)
+ - [Microsoft is holding an Xbox and Bethesda games showcase in June](https://www.theverge.com/2022/4/28/23046288/microsoft-xbox-bethesda-games-showcase-date-2022)
+ - [White House launches Declaration for the Future of the Internet](https://appleinsider.com/articles/22/04/28/white-house-launches-declaration-for-the-future-of-the-internet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
