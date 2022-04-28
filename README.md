@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged &#39;iPhone 14&#39; display panels shown in leaked photo](https://appleinsider.com/articles/22/04/28/alleged-iphone-14-display-panels-shown-in-leaked-photo?utm_medium=rss)
- - [Startup Trail is Oregon Trail for tech policy wonks](https://www.theverge.com/2022/4/28/23045333/startup-trail-game-oregon)
- - [A dog’s breed doesn’t determine much about its behavior](https://www.theverge.com/2022/4/28/23043508/dog-breed-behavior-genetics-study-stereotypes)<!-- TECH:END -->
+ - [Can you edit a TikTok description after posting?](https://www.androidauthority.com/edit-tiktok-after-posting-3158742/)
+ - [The EU, US, and 32 other countries just announced a ‘Declaration for the Future of the Internet’](https://www.theverge.com/2022/4/28/23046652/declaration-for-the-future-of-the-internet-eu-us-regulation-commitment-announced)
+ - [Huawei Band 7 and Watch GT 3 Pro launched](https://www.androidauthority.com/huawei-band-7-3158760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
