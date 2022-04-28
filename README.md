@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports Q1 revenue up 7% YoY to $116.4B, net loss of $3.8B, compared to $8.1B in Q1 2021, and AWS revenue up 37%; stock down 10%+ after weak Q2 guidance &lpar;Business Wire&rpar;](http://www.techmeme.com/220428/p29#a220428p29)
- - [Jabra Elite 3 review: Elite for the price](https://www.androidauthority.com/jabra-elite-3-review-3156869/)
- - [DJI admits that AeroScope drone tracking signals aren&#39;t encrypted, after claiming otherwise for almost a month, letting anyone track its drones and their pilots &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220428/p28#a220428p28)<!-- TECH:END -->
+ - [Netflix is laying off staff from the fan site it just launched](https://www.theverge.com/2022/4/28/23047113/netflix-tudum-editorial-layoffs-streaming)
+ - [Amazon’s growth continues to slow after surging in pandemic](https://www.theverge.com/2022/4/28/23047095/amazon-q1-2022-earnings-why-stock-is-falling)
+ - [Roku reports Q1 revenue of $734M, up 28% YoY, 20.9B total streaming hours, up 14% YoY, and the addition of 1.1M active accounts to reach 61.3M, up 14% YoY &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220428/p36#a220428p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
