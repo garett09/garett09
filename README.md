@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German soccer media service OneFootball, which has 100M+ MAUs, raises a $300M Series D and says it plans to expand into blockchain-based experiences &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220428/p9#a220428p9)
- - [Call of Duty anti-cheat system makes legit players invisible to cheaters](https://www.theverge.com/2022/4/28/23046152/call-of-duty-ricochet-anti-cheat-warzone-vanguard-invisible-legit-players)
- - [Someone may have found Xiaomi’s next foldable phone hidden in MIUI code](https://www.androidauthority.com/xiaomi-mi-mix-fold-2-3158521/)<!-- TECH:END -->
+ - [Twitter reports Q1 revenue of $1.2B, up 16% YoY but below estimates, and $513M net income; mDAUs reached 229M; Twitter will offer no guidance pending Musk&#39;s bid &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220428/p11#a220428p11)
+ - [EU to say Apple Pay breaks antitrust laws](https://appleinsider.com/articles/22/04/28/eu-to-say-apple-pay-breaks-antitrust-laws?utm_medium=rss)
+ - [The 15 Best Accessories for Your PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
