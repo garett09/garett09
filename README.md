@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password syncing went down for a few hours today during a database upgrade](https://www.theverge.com/2022/4/27/23045469/1password-outage-password-manager-security-cloud-storage)
- - [Meta says Reels takes up 20%+ of the time that people spend on Instagram, and says that video, overall, makes up 50% of the time that users spend on Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220427/p38#a220427p38)
- - [Analysis: in the two days since Elon Musk&#39;s Twitter takeover, conservative accounts gained ~17,000 followers, and liberal accounts lost ~6,000 followers &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220427/p37#a220427p37)<!-- TECH:END -->
+ - [Samsung reports Q1 operating profit of ~$11.1B, up 51% YoY, on revenue of ~$61.4B, up 19% YoY, driven by memory chip sales with revenue of ~$21.23B, up 39% YoY &lpar;Reuters&rpar;](http://www.techmeme.com/220427/p41#a220427p41)
+ - [Boeing CEO calls Trump’s Air Force One deal a risk it ‘probably shouldn’t have taken’](https://www.theverge.com/2022/4/27/23045514/boeing-ceo-trump-air-force-one-deal-risk)
+ - [How to edit TikTok videos with every tool available](https://www.androidauthority.com/how-to-edit-tiktok-videos-3158317/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
