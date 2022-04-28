@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing to see here, just living in the moment...](http://9gag.com/gag/amgVjWj)
- - 🚯 [The one wish that everyone shares](http://9gag.com/gag/aYr18R7)
- - 🚯 [I like the black one](http://9gag.com/gag/a51jLpE)<!-- MEMES:END -->
+ - 🚖 [The one wish that everyone shares](http://9gag.com/gag/aYr18R7)
+ - 🚯 [Nothing fecal matters](http://9gag.com/gag/a51jmno)
+ - 🚯 [I didn&#39;t even say a word!](http://9gag.com/gag/aYr18p7)<!-- MEMES:END -->
 
 --- 
 
