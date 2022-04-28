@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The one wish that everyone shares](http://9gag.com/gag/aYr18R7)
- - 🚯 [Nothing fecal matters](http://9gag.com/gag/a51jmno)
- - 🚯 [I didn&#39;t even say a word!](http://9gag.com/gag/aYr18p7)<!-- MEMES:END -->
+ - 🚖 [11/10](http://9gag.com/gag/a91X3rZ)
+ - 🚯 [We need more equality](http://9gag.com/gag/a31Wo77)
+ - 🚯 [Building an ancient Greek city in Minecraft](http://9gag.com/gag/aVx2n0n)<!-- MEMES:END -->
 
 --- 
 
