@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how much you’re willing to spend on Bluetooth headphones](https://www.androidauthority.com/bluetooth-headphones-spend-poll-results-3156605/)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [An overview of iPhone&#39;s autocorrect feature and how it has evolved, including an interview with Ken Kocienda, who created the iPhone&#39;s autocorrect software &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220428/p3#a220428p3)<!-- TECH:END -->
+ - [No surprise: Samsung confirms new foldables are coming later this year](https://www.androidauthority.com/samsung-confirms-new-foldables-2022-3158486/)
+ - [Berlin-based Taxfix, which offers a mobile app for filing taxes, raises a $200M Series D led by Teachers&#39; Venture Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220428/p4#a220428p4)
+ - [You told us: Here’s how much you’re willing to spend on Bluetooth headphones](https://www.androidauthority.com/bluetooth-headphones-spend-poll-results-3156605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
