@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fleet, which helps companies track and manage employee laptops and other devices, raises a $20M Series A led by CRV at a $100M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220428/p19#a220428p19)
- - [The Pixel Watch can’t succeed if Google reuses the same 8-year-old formula](https://www.androidauthority.com/pixel-watch-proposition-3155839/)
- - [Valorant is getting proper pro leagues starting in 2023](https://www.theverge.com/2022/4/28/23045328/valorant-professional-esports-leagues-2023)<!-- TECH:END -->
+ - [Google launches the Privacy Sandbox Developer Preview based on Android 13, with an &quot;early look&quot; at the Topics API and SDK Runtime &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220428/p24#a220428p24)
+ - [Google’s ad-tracking overhaul continues with first developer preview of Privacy Sandbox on Android](https://www.theverge.com/2022/4/28/23046608/android-advertising-privacy-sandbox-google-preview)
+ - [Disney Dreamlight Valley looks like Animal Crossing with a Kingdom Hearts twist](https://www.theverge.com/2022/4/28/23046633/disney-dreamlight-valley-animal-crossing-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
