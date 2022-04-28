@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paid ofc](http://9gag.com/gag/aGz2W10)
- - 🚯 [The way it should be](http://9gag.com/gag/aWg2z4x)
+ - 🚖 [Lmfao](http://9gag.com/gag/awz4w1Q)
+ - 🚯 [It is a weird god](http://9gag.com/gag/a91XopW)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
