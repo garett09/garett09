@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats just scary af!](http://9gag.com/gag/aBnXDv1)
- - 🚯 [Indeed they did.](http://9gag.com/gag/ajgKbxw)
- - 🚯 [I like the black one](http://9gag.com/gag/a51jLpE)<!-- MEMES:END -->
+ - 🚖 [What 1500 rounds per minute sounds like](http://9gag.com/gag/aOQRo93)
+ - 🚯 [I like the black one](http://9gag.com/gag/a51jLpE)
+ - 🚯 [Thats just scary af!](http://9gag.com/gag/aBnXDv1)<!-- MEMES:END -->
 
 --- 
 
