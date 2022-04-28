@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warcraft mobile game reveal coming Monday](https://www.polygon.com/23046755/warcraft-mobile-game-reveal-date-time)
- - [How to deal 100 damage with one bullet in Fortnite](https://www.polygon.com/fortnite-guide/23046732/fortnite-how-to-deal-100-damage-with-one-bullet-battle-royale-weekly-quest-season-3)
- - [Call of Duty: Modern Warfare 2 is this year’s Call of Duty](https://www.polygon.com/23040804/call-of-duty-2022-modern-warfare-2)<!-- GAME:END -->
+ - [Play as the Devil in Rogue Lords Available Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/28/play-as-the-devil-in-rogue-lords-available-today-on-the-xbox-store/)
+ - [The Last Of Us Part II Modder Proves Abby Really Is Invincible](https://kotaku.com/the-last-of-us-part-2-ellie-abby-fight-mod-joel-dead-ps-1848855226)
+ - [Warframe’s new quest cracks open a galaxy full of weird, wild lore](https://www.polygon.com/23046671/warframe-new-war-angels-of-the-zariman-lore-quest-community-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
