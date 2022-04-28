@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix anime Bubble turns post-apocalyptic Tokyo into a colorful playground](https://www.theverge.com/2022/4/28/23044634/bubble-netflix-anime-director-interview)
- - [Microsoft is holding an Xbox and Bethesda games showcase in June](https://www.theverge.com/2022/4/28/23046288/microsoft-xbox-bethesda-games-showcase-date-2022)
- - [White House launches Declaration for the Future of the Internet](https://appleinsider.com/articles/22/04/28/white-house-launches-declaration-for-the-future-of-the-internet?utm_medium=rss)<!-- TECH:END -->
+ - [Leaker compares 3D-printed &#39;iPhone 14&#39; models with iPhone 13 accessories](https://appleinsider.com/articles/22/04/28/leaker-compares-3d-printed-iphone-14-models-with-iphone-13-accessories?utm_medium=rss)
+ - [The Verge’s 2022 Mother’s Day Gift Guide](https://www.theverge.com/23011593/mothers-day-gift-ideas-2022-best-mom-tech-gadgets-tools)
+ - [Nothing launcher is available now, giving a first taste of the Nothing Phone 1](https://www.androidauthority.com/nothing-launcher-3158594/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
