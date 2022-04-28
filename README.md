@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Become an NBA Champion with Xbox Game Pass and NBA 2K22](https://news.xbox.com/en-us/2022/04/28/become-an-nba-champion-with-xbox-game-pass-and-nba-2k22/)
- - [Xbox and Bethesda Games Showcase announced for June 12](https://www.polygon.com/23046281/xbox-bethesda-games-showcase-2022-date-time-e3)
- - [Join Us Sunday, June 12 for the Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/04/28/xbox-and-bethesda-showcase-on-sunday-june-12/)<!-- GAME:END -->
+ - [Rogue Legacy 2 Easter egg gives bonus gold, risk-free](https://www.polygon.com/23046364/rogue-legacy-2-fmf-trait-effect-bonus-gold)
+ - [Balan Wonderworld director Yuji Naka says he was kicked off project, sued Square Enix](https://www.polygon.com/23046266/balan-wonderworld-yuji-naka-square-enix-lawsuit)
+ - [Halo Infinite Season 2: Start time, battle pass, maps, modes, and more](https://www.pcgamer.com/halo-infinite-season-2-battle-pass-maps-modes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
