@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: The Godfather movies are back on streaming after a brief hiatus](https://www.polygon.com/23043407/godfather-movies-watch-where-streaming-paramount-plus)
- - [Free Play Days – Session: Skate Sim &lpar;Game Preview&rpar;, Moving Out, and Embr](https://news.xbox.com/en-us/2022/04/28/free-play-days-session-skate-sim-game-preview-moving-out-and-embr/)
- - [Final Fantasy XIV’s Newest Raid Is Blowing Everyone’s Minds](https://kotaku.com/final-fantasy-xiv-dragonsong-s-reprise-raid-save-haurch-1848855778)<!-- GAME:END -->
+ - [Destiny 2’s Guardian Games brings back Strike Scoring next week](https://www.polygon.com/23047258/destiny-2-guardian-games-2022-the-title-dates)
+ - [Liam Neeson’s Taken era is memorable, but his new revenge film Memory isn’t](https://www.polygon.com/23046847/memory-liam-neeson-review)
+ - [Facebook’s Latest Financial Results Show It Has Lost Nearly $20 Billion To VR Since 2020](https://kotaku.com/facebook-meta-vr-zuckerberg-billions-losses-reality-lab-1848856515)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
