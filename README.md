@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker compares 3D-printed &#39;iPhone 14&#39; models with iPhone 13 accessories](https://appleinsider.com/articles/22/04/28/leaker-compares-3d-printed-iphone-14-models-with-iphone-13-accessories?utm_medium=rss)
- - [The Verge’s 2022 Mother’s Day Gift Guide](https://www.theverge.com/23011593/mothers-day-gift-ideas-2022-best-mom-tech-gadgets-tools)
- - [Nothing launcher is available now, giving a first taste of the Nothing Phone 1](https://www.androidauthority.com/nothing-launcher-3158594/)<!-- TECH:END -->
+ - [Beat Apple&#39;s 2-month backorder delay and save $150 on this 2TB 14-inch MacBook Pro that&#39;s in stock now](https://appleinsider.com/articles/22/04/28/beat-apples-2-month-backorder-delay-and-save-150-on-this-2tb-14-inch-macbook-pro-thats-in-stock-now?utm_medium=rss)
+ - [Global PC shipments fell 4.3% YoY in Q1 2022 to 78.7M units; Apple shipments rose 8% YoY while HP fell 16% due to decreasing Chromebook sales &lpar;William Li/Counterpoint Research&rpar;](http://www.techmeme.com/220428/p15#a220428p15)
+ - [Apple TV+ documentary &#39;The Year Earth Changed&#39; wins Television Academy Honors award](https://appleinsider.com/articles/22/04/28/apple-tv-documentary-the-year-earth-changed-wins-television-academy-honors-award?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
