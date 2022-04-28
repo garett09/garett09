@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rest in Peace soldier.](http://9gag.com/gag/aYrAjwx)
- - 🚯 [Truth has been spoken](http://9gag.com/gag/abg2PEr)
- - 🚯 [Girl with tourettes tries to host a show](http://9gag.com/gag/aWgDBxZ)<!-- MEMES:END -->
+ - 🚖 [Thats just scary af!](http://9gag.com/gag/aBnXDv1)
+ - 🚯 [Indeed they did.](http://9gag.com/gag/ajgKbxw)
+ - 🚯 [I like the black one](http://9gag.com/gag/a51jLpE)<!-- MEMES:END -->
 
 --- 
 
