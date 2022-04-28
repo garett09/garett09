@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports revenue in Greater China grew 3.5% YoY to $18.3B, revenue in Japan fell 0.2% to $7.7B, and revenue in the rest of Asia-Pacific sank 6.7% to $7B &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/220428/p38#a220428p38)
- - [Notes of interest from Apple&#39;s Q2 2022 earnings report and conference call](https://appleinsider.com/articles/22/04/28/notes-of-interest-from-apples-q2-2022-earnings-report-and-conference-call?utm_medium=rss)
- - [Apple says reduced iPad revenue is partially a result of supply constraints](https://appleinsider.com/articles/22/04/28/apple-says-reduced-ipad-revenue-is-partially-a-result-of-supply-constraints?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Elon Musk floated the idea of cutting both costs and jobs when fielding questions from bankers during negotiations about the Twitter deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/220428/p39#a220428p39)
+ - [Apple Reports iPhone 13 and Mac Sales Strong, But COVID-19 and Chip Shortages Remain     - CNET](https://www.cnet.com/tech/mobile/apple-reports-iphone-13-and-mac-sales-strong-but-covid-19-and-chip-shortages-remain/#ftag=CAD590a51e)
+ - [Pokemon Go Is Adding Mega Kangaskhan in a New Event     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-is-adding-mega-kangaskhan-in-a-new-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
