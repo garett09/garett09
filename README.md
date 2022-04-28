@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lego Star Wars: The Skywalker Saga’s Movie References You May Have Missed](https://kotaku.com/lego-star-wars-skywalker-saga-spaceballs-lotr-spartacus-1848850932)
- - [Set Sail for Sea of Thieves Next Community Day on May 14](https://news.xbox.com/en-us/2022/04/28/set-sail-for-sea-of-thieves-next-community-day/)
- - [New tips and tricks for Rogue Legacy 2](https://www.polygon.com/guides/23042987/rogue-legacy-2-beginners-guide-tips-tricks-gold-class-upgrades-traits-heirlooms-architect-shawl-tome)<!-- GAME:END -->
+ - [Warcraft mobile game reveal coming Monday](https://www.polygon.com/23046755/warcraft-mobile-game-reveal-date-time)
+ - [How to deal 100 damage with one bullet in Fortnite](https://www.polygon.com/fortnite-guide/23046732/fortnite-how-to-deal-100-damage-with-one-bullet-battle-royale-weekly-quest-season-3)
+ - [Call of Duty: Modern Warfare 2 is this year’s Call of Duty](https://www.polygon.com/23040804/call-of-duty-2022-modern-warfare-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
