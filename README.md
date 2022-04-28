@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sci-fi adventure Exo One comes to PS4 &amp; PS5 this summer](https://blog.playstation.com/2022/04/28/sci-fi-adventure-exo-one-comes-to-ps4-ps5-this-summer/)
- - [Sci-fi adventure Exo One comes to PS4 &amp; PS5 this summer](https://blog.playstation.com/2022/04/28/sci-fi-adventure-exo-one-comes-to-ps4-ps5-this-summer/)
- - [RAM manufacturer reveals Ryzen 7000 will support DDR5-5200](https://www.pcgamer.com/ram-manufacturer-reveals-ryzen-7000-will-support-ddr5-5200)<!-- GAME:END -->
+ - [Xbox and Bethesda Games Showcase announced for June 12](https://www.polygon.com/23046281/xbox-bethesda-games-showcase-2022-date-time-e3)
+ - [Join Us Sunday, June 12 for the Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/04/28/xbox-and-bethesda-showcase-on-sunday-june-12/)
+ - [Stalker 2 site banned by Russian authorities in petty censorship](https://www.pcgamer.com/stalker-2-site-banned-by-russian-authorities-in-petty-censorship)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
