@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awwwwwww](http://9gag.com/gag/aDDXyRB)
- - 🚯 [Finally....](http://9gag.com/gag/ay9QbNX)
+ - 🚖 [Missing the good old days\u2026](http://9gag.com/gag/ay9QjGW)
+ - 🚯 [We&#39;re rich!](http://9gag.com/gag/a91Xo5m)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
