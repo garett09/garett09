@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beat Apple&#39;s 2-month backorder delay and save $150 on this 2TB 14-inch MacBook Pro that&#39;s in stock now](https://appleinsider.com/articles/22/04/28/beat-apples-2-month-backorder-delay-and-save-150-on-this-2tb-14-inch-macbook-pro-thats-in-stock-now?utm_medium=rss)
- - [Global PC shipments fell 4.3% YoY in Q1 2022 to 78.7M units; Apple shipments rose 8% YoY while HP fell 16% due to decreasing Chromebook sales &lpar;William Li/Counterpoint Research&rpar;](http://www.techmeme.com/220428/p15#a220428p15)
- - [Apple TV+ documentary &#39;The Year Earth Changed&#39; wins Television Academy Honors award](https://appleinsider.com/articles/22/04/28/apple-tv-documentary-the-year-earth-changed-wins-television-academy-honors-award?utm_medium=rss)<!-- TECH:END -->
+ - [Fleet, which helps companies track and manage employee laptops and other devices, raises a $20M Series A led by CRV at a $100M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220428/p19#a220428p19)
+ - [The Pixel Watch can’t succeed if Google reuses the same 8-year-old formula](https://www.androidauthority.com/pixel-watch-proposition-3155839/)
+ - [Valorant is getting proper pro leagues starting in 2023](https://www.theverge.com/2022/4/28/23045328/valorant-professional-esports-leagues-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
