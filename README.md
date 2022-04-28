@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now transfer your Bethesda Launcher games to Steam](https://www.pcgamer.com/you-can-now-transfer-your-bethesda-launcher-games-to-steam)
- - [World of Warcraft: Dragonflight is solving a very specific grind problem](https://www.polygon.com/23045039/world-of-warcraft-dragonflight-alt-progression-account-wide-unlocks)
- - [QA workers on Dragon Age 4 have applied to form a union](https://www.pcgamer.com/qa-workers-on-dragon-age-4-have-applied-to-form-a-union)<!-- GAME:END -->
+ - [Artesian Builds files for bankruptcy with an estimated $1.3M in unfulfilled orders](https://www.pcgamer.com/artesian-builds-bankruptcy)
+ - [Final Fantasy XIV&#39;s Director Is Asking You Not To Be Jerks](https://kotaku.com/final-fantasy-xiv-naoki-yoshida-square-enix-trolls-ban-1848851443)
+ - [Disney Dreamlight Valley looks like Kingdom Hearts minus the anime nonsense](https://www.pcgamer.com/disney-dreamlight-valley-looks-like-kingdom-hearts-minus-the-anime-nonsense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
