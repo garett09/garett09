@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can feel this video!](http://9gag.com/gag/awz4wO1)
- - 🚯 [Johnny Depps psychologist gets interrupted every 5 seconds](http://9gag.com/gag/aQX20g2)
+ - 🚖 [Mom looks at what I learned at school](http://9gag.com/gag/azeZ0KN)
+ - 🚯 [Just for lumbar stability](http://9gag.com/gag/abg29M9)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
