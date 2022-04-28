@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No surprise: Samsung confirms new foldables are coming later this year](https://www.androidauthority.com/samsung-confirms-new-foldables-2022-3158486/)
- - [Berlin-based Taxfix, which offers a mobile app for filing taxes, raises a $200M Series D led by Teachers&#39; Venture Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220428/p4#a220428p4)
- - [You told us: Here’s how much you’re willing to spend on Bluetooth headphones](https://www.androidauthority.com/bluetooth-headphones-spend-poll-results-3156605/)<!-- TECH:END -->
+ - [Cloudflare says it mitigated a 15.3M rps HTTPS DDoS attack earlier this month, one of the largest of its kind, targeting a customer in the crypto industry &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220428/p5#a220428p5)
+ - [A warming world gives viruses more chances to hitchhike from species to species](https://www.theverge.com/2022/4/28/23044725/climate-change-zoonotic-virus-spillover)
+ - [PlayStation Plus’s upcoming game trials will reportedly be at least 2 hours long](https://www.theverge.com/2022/4/28/23046080/playstation-plus-time-limited-game-tiers-34-dollars-two-hours-long)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
