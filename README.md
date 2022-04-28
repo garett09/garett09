@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Dominion’s new trailer sends Chris Pratt on a raptor rescue mission](https://www.polygon.com/23046502/jurassic-world-dominions-trailer-release-date-chris-pratt)
- - [Critical Role hosts Stephen Colbert tonight on YouTube and Twitch](https://www.polygon.com/2022/4/28/23046259/critical-role-stephen-colbert-red-nose-day-stream)
- - [Call Of Duty Will Now Punish Cheaters By Making Everyone Else Disappear](https://kotaku.com/call-duty-vanguard-anti-cheat-troll-modern-warfare-2-re-1848853989)<!-- GAME:END -->
+ - [The Lego Star Wars: The Skywalker Saga’s Movie References You May Have Missed](https://kotaku.com/lego-star-wars-skywalker-saga-spaceballs-lotr-spartacus-1848850932)
+ - [Set Sail for Sea of Thieves Next Community Day on May 14](https://news.xbox.com/en-us/2022/04/28/set-sail-for-sea-of-thieves-next-community-day/)
+ - [New tips and tricks for Rogue Legacy 2](https://www.polygon.com/guides/23042987/rogue-legacy-2-beginners-guide-tips-tricks-gold-class-upgrades-traits-heirlooms-architect-shawl-tome)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
