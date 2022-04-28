@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well, if it isn&#39;t the consequences of my own actions...](http://9gag.com/gag/agg2MGW)
- - 🚯 [He&#39;s like, yeahhh, you tell &#39;em a bad word](http://9gag.com/gag/aVx2NBv)
- - 🚯 [Truth has been spoken](http://9gag.com/gag/abg2PEr)<!-- MEMES:END -->
+ - 🚖 [Nothing to see here, just living in the moment...](http://9gag.com/gag/amgVjWj)
+ - 🚯 [The one wish that everyone shares](http://9gag.com/gag/aYr18R7)
+ - 🚯 [I like the black one](http://9gag.com/gag/a51jLpE)<!-- MEMES:END -->
 
 --- 
 
