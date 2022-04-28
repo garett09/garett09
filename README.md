@@ -197,7 +197,7 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a legend](http://9gag.com/gag/amgV439)
+ - 🚖 [Awwwwwww](http://9gag.com/gag/aDDXyRB)
  - 🚯 [Finally....](http://9gag.com/gag/ay9QbNX)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
