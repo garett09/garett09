@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says it mitigated a 15.3M rps HTTPS DDoS attack earlier this month, one of the largest of its kind, targeting a customer in the crypto industry &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220428/p5#a220428p5)
- - [A warming world gives viruses more chances to hitchhike from species to species](https://www.theverge.com/2022/4/28/23044725/climate-change-zoonotic-virus-spillover)
- - [PlayStation Plus’s upcoming game trials will reportedly be at least 2 hours long](https://www.theverge.com/2022/4/28/23046080/playstation-plus-time-limited-game-tiers-34-dollars-two-hours-long)<!-- TECH:END -->
+ - [In an email to advertisers, Twitter insists it will remain a safe place for brands after Elon Musk&#39;s takeover, as campaign groups predict rising toxicity &lpar;Financial Times&rpar;](http://www.techmeme.com/220428/p7#a220428p7)
+ - [UK-based Argent Labs, which is developing a service to buy, store, and transact 240 Ethereum-based tokens, raises $40M led by Fabric and Metaplanet &lpar;Bloomberg&rpar;](http://www.techmeme.com/220428/p6#a220428p6)
+ - [Cloudflare says it mitigated a 15.3M rps HTTPS DDoS attack earlier this month, one of the largest of its kind, targeting a customer in the crypto industry &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220428/p5#a220428p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
