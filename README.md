@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I say NO to bullshit](http://9gag.com/gag/a71NYV2)
- - 🚯 [Just a legend](http://9gag.com/gag/amgV439)
+ - 🚖 [Just a legend](http://9gag.com/gag/amgV439)
+ - 🚯 [Finally....](http://9gag.com/gag/ay9QbNX)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
