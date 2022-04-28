@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Legacy 2 Easter egg gives bonus gold, risk-free](https://www.polygon.com/23046364/rogue-legacy-2-fmf-trait-effect-bonus-gold)
- - [Balan Wonderworld director Yuji Naka says he was kicked off project, sued Square Enix](https://www.polygon.com/23046266/balan-wonderworld-yuji-naka-square-enix-lawsuit)
- - [Halo Infinite Season 2: Start time, battle pass, maps, modes, and more](https://www.pcgamer.com/halo-infinite-season-2-battle-pass-maps-modes)<!-- GAME:END -->
+ - [Jurassic World Dominion’s new trailer sends Chris Pratt on a raptor rescue mission](https://www.polygon.com/23046502/jurassic-world-dominions-trailer-release-date-chris-pratt)
+ - [Critical Role hosts Stephen Colbert tonight on YouTube and Twitch](https://www.polygon.com/2022/4/28/23046259/critical-role-stephen-colbert-red-nose-day-stream)
+ - [Call Of Duty Will Now Punish Cheaters By Making Everyone Else Disappear](https://kotaku.com/call-duty-vanguard-anti-cheat-troll-modern-warfare-2-re-1848853989)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
