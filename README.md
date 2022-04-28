@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more equality](http://9gag.com/gag/a31Wo77)
- - 🚯 [The one wish that everyone shares](http://9gag.com/gag/aYr18R7)
- - 🚯 [Why couldn\u2019t she have been Polish or something?](http://9gag.com/gag/abg2P4O)<!-- MEMES:END -->
+ - 🚖 [Rest in Peace soldier.](http://9gag.com/gag/aYrAjwx)
+ - 🚯 [Truth has been spoken](http://9gag.com/gag/abg2PEr)
+ - 🚯 [Girl with tourettes tries to host a show](http://9gag.com/gag/aWgDBxZ)<!-- MEMES:END -->
 
 --- 
 
