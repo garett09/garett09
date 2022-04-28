@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Disney Game Looks Perfect &lpar;For Disney Adults&rpar;](https://kotaku.com/disney-dreamlight-valley-gameloft-ps5-pc-xbox-switch-ip-1848851631)
  - [Artesian Builds files for bankruptcy with an estimated $1.3M in unfulfilled orders](https://www.pcgamer.com/artesian-builds-bankruptcy)
- - [Final Fantasy XIV&#39;s Director Is Asking You Not To Be Jerks](https://kotaku.com/final-fantasy-xiv-naoki-yoshida-square-enix-trolls-ban-1848851443)
- - [Disney Dreamlight Valley looks like Kingdom Hearts minus the anime nonsense](https://www.pcgamer.com/disney-dreamlight-valley-looks-like-kingdom-hearts-minus-the-anime-nonsense)<!-- GAME:END -->
+ - [Final Fantasy XIV&#39;s Director Is Asking You Not To Be Jerks](https://kotaku.com/final-fantasy-xiv-naoki-yoshida-square-enix-trolls-ban-1848851443)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
