@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True Body Positivity](http://9gag.com/gag/aqGzqmP)
- - 🚯 [We&#39;re rich!](http://9gag.com/gag/a91Xo5m)
+ - 🚖 [Paid ofc](http://9gag.com/gag/aGz2W10)
+ - 🚯 [The way it should be](http://9gag.com/gag/aWg2z4x)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
