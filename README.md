@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now ask Google to remove your phone number from search](https://www.androidauthority.com/google-search-remove-phone-number-3158456/)
- - [An in-depth look at what went wrong at Netflix; sources say VP of content Cindy Holland&#39;s departure in 2020 led to Netflix prioritizing quantity over quality &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/220428/p2#a220428p2)
- - [Netflix: All the TV Shows and Movies Coming in May 2022     - CNET](https://www.cnet.com/culture/entertainment/netflix-all-the-tv-shows-and-movies-coming-in-may-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You told us: Here’s how much you’re willing to spend on Bluetooth headphones](https://www.androidauthority.com/bluetooth-headphones-spend-poll-results-3156605/)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: April 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [An overview of iPhone&#39;s autocorrect feature and how it has evolved, including an interview with Ken Kocienda, who created the iPhone&#39;s autocorrect software &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/220428/p3#a220428p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
