@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is a weird god](http://9gag.com/gag/a91XopW)
- - 🚯 [True?](http://9gag.com/gag/aAGXjq9)
+ - 🚖 [I can feel this video!](http://9gag.com/gag/awz4wO1)
+ - 🚯 [Johnny Depps psychologist gets interrupted every 5 seconds](http://9gag.com/gag/aQX20g2)
  - 🚯 [Redefine your future in the Phemex Universe](http://9gag.com/gag/a11Ljnw)<!-- MEMES:END -->
 
 --- 
