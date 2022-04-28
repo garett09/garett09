@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play as the Devil in Rogue Lords Available Today on the Xbox Store](https://news.xbox.com/en-us/2022/04/28/play-as-the-devil-in-rogue-lords-available-today-on-the-xbox-store/)
- - [The Last Of Us Part II Modder Proves Abby Really Is Invincible](https://kotaku.com/the-last-of-us-part-2-ellie-abby-fight-mod-joel-dead-ps-1848855226)
- - [Warframe’s new quest cracks open a galaxy full of weird, wild lore](https://www.polygon.com/23046671/warframe-new-war-angels-of-the-zariman-lore-quest-community-story)<!-- GAME:END -->
+ - [Free Play Days – Session: Skate Sim &lpar;Game Preview&rpar;, Moving Out, and Embr](https://news.xbox.com/en-us/2022/04/28/free-play-days-session-skate-sim-game-preview-moving-out-and-embr/)
+ - [Final Fantasy XIV’s Newest Raid Is Blowing Everyone’s Minds](https://kotaku.com/final-fantasy-xiv-dragonsong-s-reprise-raid-save-haurch-1848855778)
+ - [An Attack on Titan director made Netflix’s parkour fantasy Bubble into a true oddity](https://www.polygon.com/23046754/bubble-review-netflix-anime-attack-on-titan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
