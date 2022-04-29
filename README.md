@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce will extend California&#39;s Silenced No More Act protections, which limit the scope of NDAs, to all US employees by the end of 2022 &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220429/p17#a220429p17)
- - [What analysts thought about Apple&#39;s Q2 2022 results &amp; June quarter warning](https://appleinsider.com/articles/22/04/29/what-analysts-thought-about-apples-q2-2022-results-june-quarter-warning?utm_medium=rss)
- - [Elon Musk buys Twitter: all the news you need on one of the biggest tech deals of all time](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
+ - [How to add text to your TikTok videos](https://www.androidauthority.com/add-text-to-tiktok-3158888/)
+ - [Thomson Reuters commits to human rights assessment of ICE contracts after union investor push](https://www.theverge.com/2022/4/29/23048819/thomson-reuters-human-rights-assessment-ice-bcgeu-mijente)
+ - [Anthropic, founded by ex-OpenAI VP of research Dario Amodei to explore large-scale AI systems, raises a $580M Series B led by FTX CEO Sam Bankman-Fried &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220429/p18#a220429p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
