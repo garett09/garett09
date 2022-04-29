@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grace and skill](http://9gag.com/gag/a81KLOe)
- - 🚯 [You son of a bi**h. I&#39;m in!!!!](http://9gag.com/gag/aAGOYdL)
- - 🚯 [I am glad she didn&#39;t forget `Captain`](http://9gag.com/gag/aOQRyzD)<!-- MEMES:END -->
+ - 🚖 [Sed Noises](http://9gag.com/gag/aWgD0qx)
+ - 🚯 [Chad handles fight like a boss](http://9gag.com/gag/aYrApjO)
+ - 🚯 [Nickelback album with How you remind me, but nah, i did like it.](http://9gag.com/gag/aVxVOxM)<!-- MEMES:END -->
 
 --- 
 
