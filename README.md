@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Palmer Luckey&#39;s AI-powered defense tech startup Anduril is raising a $500M-$1B Series E at a $7B valuation, up from $4.6B about a year ago &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220429/p11#a220429p11)
- - [Apple TV+ shares a behind-the-scenes look at &#39;Tehran&#39; season two](https://appleinsider.com/articles/22/04/29/apple-tv-shares-a-behind-the-scenes-look-at-tehran-season-two?utm_medium=rss)
- - [New Apple TV+ &#39;Charlie Brown&#39; special announced for Mother&#39;s Day](https://appleinsider.com/articles/22/04/29/new-apple-tv-charlie-brown-special-announced-for-mothers-day?utm_medium=rss)<!-- TECH:END -->
+ - [Right-wing users are celebrating Elon Musk buying Twitter not because of his &quot;free speech&quot; promises but because of the right-wing populist agenda it could serve &lpar;Adam Serwer/The Atlantic&rpar;](http://www.techmeme.com/220429/p13#a220429p13)
+ - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
+ - [Filings: Elon Musk sold roughly $8.4B worth of Tesla shares this week after agreeing to buy Twitter &lpar;CNBC&rpar;](http://www.techmeme.com/220429/p12#a220429p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
