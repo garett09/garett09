@@ -198,8 +198,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [New Simpsons doing homer dirty, as per](http://9gag.com/gag/aVxVe7d)
- - 🚯 [The US is launching a ministry of truth :D](http://9gag.com/gag/a71p71x)
- - 🚯 [Loved the atmosphere there](http://9gag.com/gag/a11EXRR)<!-- MEMES:END -->
+ - 🚯 [Modern entertainment industry take note](http://9gag.com/gag/angrBw0)
+ - 🚯 [They won&#39;t do what you tell them](http://9gag.com/gag/azeYARp)<!-- MEMES:END -->
 
 --- 
 
