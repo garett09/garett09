@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft&#39;s Six-Year Development Hell Pirate Game Leaks In New Footage](https://kotaku.com/skull-bones-assassin-s-creed-black-flag-ubisoft-release-1848859472)
- - [New Games with Gold for May 2022](https://news.xbox.com/en-us/2022/04/29/new-games-with-gold-for-may-2022/)
- - [The best Mini-ITX case in 2022](https://www.pcgamer.com/best-mini-itx-case)<!-- GAME:END -->
+ - [Share of the Week: Powerful](https://blog.playstation.com/2022/04/29/share-of-the-week-powerful/)
+ - [Share of the Week: Powerful](https://blog.playstation.com/2022/04/29/share-of-the-week-powerful/)
+ - [Jump into the First Ladder Season of Diablo II: Resurrected on Xbox](https://news.xbox.com/en-us/2022/04/29/first-ladder-season-diablo-2-resurrected-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
