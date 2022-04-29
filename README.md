@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve says a few games being blocked from installing on Steam Deck was just a &#39;technical issue&#39;](https://www.pcgamer.com/valve-says-a-few-games-being-blocked-from-installing-on-steam-deck-was-just-a-technical-issue)
- - [Destiny 2 Xur location and items, April 29-May 3](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/29/23048806/destiny-2-xur-location-items-april-29-may-3)
- - [Activision Announces 47th Call of Duty, Modern Warfare II, Which Is The 10th Modern Warfare Game](https://kotaku.com/modern-warfare-2-call-of-duty-activision-cod-2022-confi-1848860262)<!-- GAME:END -->
+ - [Hatching finds the extreme, bloody horror we all knew was behind influencer culture](https://www.polygon.com/reviews/22902734/hatching-review-2022)
+ - [Rogue Legacy 2 Tips and Tricks](https://news.xbox.com/en-us/2022/04/29/rogue-legacy-2-tips-and-tricks/)
+ - [Nintendo Switch Sports Is Solid Fun That Will Ruin Your Friendships](https://kotaku.com/nintendo-switch-sports-review-bowling-badminton-tennis-1848861003)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
