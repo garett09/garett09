@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to start saving! Amazon Prime Day 2022 is coming this July](https://www.androidauthority.com/amazon-prime-day-2022-3159044/)
- - [Sources: Elon Musk has lined up a new CEO for Twitter and told banks about ideas for monetizing tweets like charging a fee for quoting or embedding tweets &lpar;Reuters&rpar;](http://www.techmeme.com/220429/p1#a220429p1)
- - [These Nike NFT &#39;Cryptokicks&#39; Sneakers Sold For $130K     - CNET](https://www.cnet.com/personal-finance/crypto/these-nike-nft-cryptokicks-sneakers-sold-for-130k/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
+ - [Filings: Elon Musk sold roughly $4B worth of Tesla stock in two days after agreeing to buy Twitter, at prices between $870 and $1,000 per share &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/220429/p3#a220429p3)
+ - [Goldman Sachs has extended its lending service to offer cash loans using Bitcoin as collateral, signalling Wall Street is further embracing cryptocurrencies &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220429/p2#a220429p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
