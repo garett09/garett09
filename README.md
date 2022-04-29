@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk floated the idea of cutting both costs and jobs when fielding questions from bankers during negotiations about the Twitter deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/220428/p39#a220428p39)
- - [Apple Reports iPhone 13 and Mac Sales Strong, But COVID-19 and Chip Shortages Remain     - CNET](https://www.cnet.com/tech/mobile/apple-reports-iphone-13-and-mac-sales-strong-but-covid-19-and-chip-shortages-remain/#ftag=CAD590a51e)
- - [Pokemon Go Is Adding Mega Kangaskhan in a New Event     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-is-adding-mega-kangaskhan-in-a-new-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Document: one-click checkout service Bolt&#39;s transaction revenue grew ~10% to $28M in 2021, and has had partner merchants numbering in the low 300s since 2020 &lpar;Malique Morris/The Information&rpar;](http://www.techmeme.com/220428/p42#a220428p42)
+ - [Netflix&#39;s quest to grow its Asian market faces formidable challenges, including competition from local services, viewers&#39; preference for local content, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220428/p41#a220428p41)
+ - [Mars Helicopter Snaps Dramatic Images of Rover&#39;s Battered Landing Gear     - CNET](https://www.cnet.com/science/space/mars-helicopter-snaps-dramatic-images-of-rovers-battered-landing-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
