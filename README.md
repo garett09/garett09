@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
- - [Filings: Elon Musk sold roughly $4B worth of Tesla stock in two days after agreeing to buy Twitter, at prices between $870 and $1,000 per share &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/220429/p3#a220429p3)
- - [Goldman Sachs has extended its lending service to offer cash loans using Bitcoin as collateral, signalling Wall Street is further embracing cryptocurrencies &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220429/p2#a220429p2)<!-- TECH:END -->
+ - [The top smartphone brand in China is completely unexpected](https://www.androidauthority.com/honor-top-china-q1-2022-3159113/)
+ - [Poll: Do you play games on Netflix?](https://www.androidauthority.com/netflix-games-poll-3159064/)
+ - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
