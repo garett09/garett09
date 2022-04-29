@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an all-hands early Friday, CEO Parag Agrawal acknowledged Twitter was vulnerable to a takeover because it had underachieved as staff asked if Musk is serious &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220429/p20#a220429p20)
- - [Examining Apple&#39;s solid $97.28B Q2 2022 by the numbers](https://appleinsider.com/articles/22/04/29/examining-apples-solid-9728b-q2-2022-by-the-numbers?utm_medium=rss)
- - [Cyberpunk cat simulator Stray has been delayed to summer 2022](https://www.theverge.com/2022/4/29/23048918/stray-cyberpunk-cat-simulator-summer-2022-playstation-steam)<!-- TECH:END -->
+ - [How to change your YouTube profile picture](https://www.androidauthority.com/change-profile-picture-youtube-3157542/)
+ - [How to sign out of YouTube](https://www.androidauthority.com/how-to-sign-out-youtube-3158380/)
+ - [Sources: Peter Thiel, Jack Dorsey, and others who disliked Twitter&#39;s direction pushed Elon Musk to launch a bid; Musk is dismayed that Trump is still banned &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220429/p21#a220429p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
