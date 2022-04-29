@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bastards](http://9gag.com/gag/angrYvq)
- - 🚯 [What kinda f**king bullshit is this???!!! F**k yeah the kid should hit back](http://9gag.com/gag/aWgDZ62)
- - 🚯 [Girl with tourettes tries to host a show](http://9gag.com/gag/aWgDBxZ)<!-- MEMES:END -->
+ - 🚖 [An extra tip if they are nicer](http://9gag.com/gag/aNPOoz3)
+ - 🚯 [Bastards](http://9gag.com/gag/angrYvq)
+ - 🚯 [The 90&#39;s and early 2000 is just better.](http://9gag.com/gag/axBYdLb)<!-- MEMES:END -->
 
 --- 
 
