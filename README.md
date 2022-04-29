@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: May 2 to 6](https://news.xbox.com/en-us/2022/04/29/next-week-on-xbox-may-2-to-6/)
- - [Pregnant Sim Trapped In The Walls For Months, Need I Say More?](https://kotaku.com/sims-4-tik-tok-trend-trapped-in-house-encanto-style-sim-1848856157)
- - [Introducing “Doctor Strange in the Multiverse of Madness” Custom Xbox Console and Controllers](https://news.xbox.com/en-us/2022/04/29/doctor-strange-custom-xbox-console-and-controllers-sweepstakes/)<!-- GAME:END -->
+ - [Ubisoft&#39;s Six-Year Development Hell Pirate Game Leaks In New Footage](https://kotaku.com/skull-bones-assassin-s-creed-black-flag-ubisoft-release-1848859472)
+ - [New Games with Gold for May 2022](https://news.xbox.com/en-us/2022/04/29/new-games-with-gold-for-may-2022/)
+ - [The best Mini-ITX case in 2022](https://www.pcgamer.com/best-mini-itx-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
