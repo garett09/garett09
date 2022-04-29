@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An extra tip if they are nicer](http://9gag.com/gag/aNPOoz3)
- - 🚯 [Bastards](http://9gag.com/gag/angrYvq)
- - 🚯 [The 90&#39;s and early 2000 is just better.](http://9gag.com/gag/axBYdLb)<!-- MEMES:END -->
+ - 🚖 [Grace and skill](http://9gag.com/gag/a81KLOe)
+ - 🚯 [You son of a bi**h. I&#39;m in!!!!](http://9gag.com/gag/aAGOYdL)
+ - 🚯 [I am glad she didn&#39;t forget `Captain`](http://9gag.com/gag/aOQRyzD)<!-- MEMES:END -->
 
 --- 
 
