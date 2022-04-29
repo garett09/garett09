@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I sell all my Elden Ring items, which was fine — until it wasn’t](https://www.polygon.com/23048415/elden-ring-sell-items-fia-d-armor-questline)
- - [You, too, can preorder Nvidia&#39;s next-gen data center GPU for only $36,000](https://www.pcgamer.com/you-too-can-preorder-nvidias-next-gen-data-center-gpu-for-only-dollar36000)
- - [Everything You Need To Know About That New Overwatch 2 Scoreboard](https://kotaku.com/overwatch-2-beta-new-scoreboard-medal-system-updates-ex-1848861025)<!-- GAME:END -->
+ - [You don’t need Nintendo Switch Online to earn Nintendo Switch Sports unlockables — from a certain point of view](https://www.polygon.com/23049199/nintendo-switch-sports-awards-unlockables-bots-online-subscription)
+ - [Disney swaps release dates for The Marvels and the next Ant-Man movie](https://www.polygon.com/23049046/disney-announces-new-release-dates-ant-man-wasp-marvels)
+ - [I sell all my Elden Ring items, which was fine — until it wasn’t](https://www.polygon.com/23048415/elden-ring-sell-items-fia-d-armor-questline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
