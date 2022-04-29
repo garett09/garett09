@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not good boy](http://9gag.com/gag/a81KYZZ)
- - 🚯 [Unfortunately](http://9gag.com/gag/aKmOP8Q)
- - 🚯 [What are they dealing with?](http://9gag.com/gag/aNPOZjr)<!-- MEMES:END -->
+ - 🚖 [Say what you want, but this movie was epic like first matrix](http://9gag.com/gag/axBYZOn)
+ - 🚯 [The Batammariba people from Togo, known for making remarkable mud tower-houses .](http://9gag.com/gag/aeg70Dq)
+ - 🚯 [In Australia girls in schools are taught how to change wheels and check oil so they \u201cdon\u2019t depend on anyone\u201d](http://9gag.com/gag/aogYjqe)<!-- MEMES:END -->
 
 --- 
 
