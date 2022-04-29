@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Supremely Chill Village-Builder Dorfromantik Is Out, You Should Definitely Play It](https://kotaku.com/dorfromantik-city-builder-simcity-cities-skylines-board-1848857575)
  - [It Is Once Again Time For The Coolest Nintendo Cartridge Art Around](https://kotaku.com/nintendo-art-famicom-nes-meteor-famicase-artists-design-1848857383)
- - [Destiny 2’s Guardian Games brings back Strike Scoring next week](https://www.polygon.com/23047258/destiny-2-guardian-games-2022-the-title-dates)
- - [Liam Neeson’s Taken era is memorable, but his new revenge film Memory isn’t](https://www.polygon.com/23046847/memory-liam-neeson-review)<!-- GAME:END -->
+ - [Destiny 2’s Guardian Games brings back Strike Scoring next week](https://www.polygon.com/23047258/destiny-2-guardian-games-2022-the-title-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
