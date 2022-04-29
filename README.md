@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Day One Releases, Upcoming Games, and More](https://news.xbox.com/en-us/2022/04/29/this-week-on-xbox-day-one-releases-upcoming-games-and-more/)
- - [Switch Sports proves Nintendo’s extreme patience pays off](https://www.polygon.com/2022/4/29/23049031/nintendo-switch-sports-bowling-tennis-games)
- - [Marvel’s Fantastic Four movie loses MCU Spider-Man director](https://www.polygon.com/23049321/marvel-fantastic-four-movie-mcu-director-jon-watts-spider-man)<!-- GAME:END -->
+ - [Galactic Civilizations 4 review](https://www.pcgamer.com/galactic-civilizations-4-review)
+ - [Beautiful pixels meet brutal Vikings in this sidescrolling base-builder](https://www.pcgamer.com/beautiful-pixels-meet-brutal-vikings-in-this-sidescrolling-base-builder)
+ - [Moonfall, Netflix’s Bubble, and more new movies you can watch at home this weekend](https://www.polygon.com/23039183/new-movies-watch-moonfall-netflix-bubble-365-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
