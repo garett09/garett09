@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple TV+ &#39;Charlie Brown&#39; special announced for Mother&#39;s Day](https://appleinsider.com/articles/22/04/29/new-apple-tv-charlie-brown-special-announced-for-mothers-day?utm_medium=rss)
- - [The best webcam to buy right now](https://www.theverge.com/22652783/best-webcam-camera)
- - [Asus ROG Zephyrus M16 review: hot specs and hot air](https://www.theverge.com/2022/4/29/23047212/asus-rog-zephyrus-m16-review-gaming-laptop)<!-- TECH:END -->
+ - [Tone-deaf Samsung ad is a reminder that smartwatch safety still has a ways to go](https://www.theverge.com/2022/4/29/23048309/samsung-smartwatch-ad-emergency-sos)
+ - [BioWare contractors want a union](https://www.theverge.com/2022/4/29/23047488/bioware-keywords-studios-contractors-organizing-union-office-return)
+ - [Entire Android industry can’t compete with Apple’s growth last quarter](https://www.androidauthority.com/q122-smartphone-sales-3159302/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
