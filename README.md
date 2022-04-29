@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Introducing “Doctor Strange in the Multiverse of Madness” Custom Xbox Console and Controllers](https://news.xbox.com/en-us/2022/04/29/doctor-strange-custom-xbox-console-and-controllers-sweepstakes/)
  - [How to abuse tokens and frustrate opponents in Magic’s Streets of New Capenna](https://www.polygon.com/23046721/mtg-streets-of-new-capenna-strategy-bootleggers-stash-treasure-tips)
- - [Supremely Chill Village-Builder Dorfromantik Is Out, You Should Definitely Play It](https://kotaku.com/dorfromantik-city-builder-simcity-cities-skylines-board-1848857575)
- - [It Is Once Again Time For The Coolest Nintendo Cartridge Art Around](https://kotaku.com/nintendo-art-famicom-nes-meteor-famicase-artists-design-1848857383)<!-- GAME:END -->
+ - [Supremely Chill Village-Builder Dorfromantik Is Out, You Should Definitely Play It](https://kotaku.com/dorfromantik-city-builder-simcity-cities-skylines-board-1848857575)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
