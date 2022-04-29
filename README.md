@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add text to your TikTok videos](https://www.androidauthority.com/add-text-to-tiktok-3158888/)
- - [Thomson Reuters commits to human rights assessment of ICE contracts after union investor push](https://www.theverge.com/2022/4/29/23048819/thomson-reuters-human-rights-assessment-ice-bcgeu-mijente)
- - [Anthropic, founded by ex-OpenAI VP of research Dario Amodei to explore large-scale AI systems, raises a $580M Series B led by FTX CEO Sam Bankman-Fried &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220429/p18#a220429p18)<!-- TECH:END -->
+ - [At an all-hands early Friday, CEO Parag Agrawal acknowledged Twitter was vulnerable to a takeover because it had underachieved as staff asked if Musk is serious &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220429/p20#a220429p20)
+ - [Examining Apple&#39;s solid $97.28B Q2 2022 by the numbers](https://appleinsider.com/articles/22/04/29/examining-apples-solid-9728b-q2-2022-by-the-numbers?utm_medium=rss)
+ - [Cyberpunk cat simulator Stray has been delayed to summer 2022](https://www.theverge.com/2022/4/29/23048918/stray-cyberpunk-cat-simulator-summer-2022-playstation-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
