@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Frog](http://9gag.com/gag/a41Wdvd)
- - 🚯 [We need this MAN !!](http://9gag.com/gag/aYrAWN2)
- - 🚯 [Not good boy](http://9gag.com/gag/a81KYZZ)<!-- MEMES:END -->
+ - 🚖 [Not good boy](http://9gag.com/gag/a81KYZZ)
+ - 🚯 [Unfortunately](http://9gag.com/gag/aKmOP8Q)
+ - 🚯 [What are they dealing with?](http://9gag.com/gag/aNPOZjr)<!-- MEMES:END -->
 
 --- 
 
