@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-wing users are celebrating Elon Musk buying Twitter not because of his &quot;free speech&quot; promises but because of the right-wing populist agenda it could serve &lpar;Adam Serwer/The Atlantic&rpar;](http://www.techmeme.com/220429/p13#a220429p13)
- - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)
- - [Filings: Elon Musk sold roughly $8.4B worth of Tesla shares this week after agreeing to buy Twitter &lpar;CNBC&rpar;](http://www.techmeme.com/220429/p12#a220429p12)<!-- TECH:END -->
+ - [New Apple TV+ &#39;Charlie Brown&#39; special announced for Mother&#39;s Day](https://appleinsider.com/articles/22/04/29/new-apple-tv-charlie-brown-special-announced-for-mothers-day?utm_medium=rss)
+ - [The best webcam to buy right now](https://www.theverge.com/22652783/best-webcam-camera)
+ - [Asus ROG Zephyrus M16 review: hot specs and hot air](https://www.theverge.com/2022/4/29/23047212/asus-rog-zephyrus-m16-review-gaming-laptop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
