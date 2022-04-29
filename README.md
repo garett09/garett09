@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hatching finds the extreme, bloody horror we all knew was behind influencer culture](https://www.polygon.com/reviews/22902734/hatching-review-2022)
- - [Rogue Legacy 2 Tips and Tricks](https://news.xbox.com/en-us/2022/04/29/rogue-legacy-2-tips-and-tricks/)
- - [Nintendo Switch Sports Is Solid Fun That Will Ruin Your Friendships](https://kotaku.com/nintendo-switch-sports-review-bowling-badminton-tennis-1848861003)<!-- GAME:END -->
+ - [I sell all my Elden Ring items, which was fine — until it wasn’t](https://www.polygon.com/23048415/elden-ring-sell-items-fia-d-armor-questline)
+ - [You, too, can preorder Nvidia&#39;s next-gen data center GPU for only $36,000](https://www.pcgamer.com/you-too-can-preorder-nvidias-next-gen-data-center-gpu-for-only-dollar36000)
+ - [Everything You Need To Know About That New Overwatch 2 Scoreboard](https://kotaku.com/overwatch-2-beta-new-scoreboard-medal-system-updates-ex-1848861025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
