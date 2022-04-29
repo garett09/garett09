@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unfortunately](http://9gag.com/gag/aKmOP8Q)
- - 🚯 [Fukc wits](http://9gag.com/gag/a21LP9w)
- - 🚯 [Pschlopschlopschlopschlopschlop](http://9gag.com/gag/aogY0p0)<!-- MEMES:END -->
+ - 🚖 [Its at this point he realised he f**ked up.](http://9gag.com/gag/aYrApPx)
+ - 🚯 [Not good boy](http://9gag.com/gag/a81KYZZ)
+ - 🚯 [Unfortunately](http://9gag.com/gag/aKmOP8Q)<!-- MEMES:END -->
 
 --- 
 
