@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: one-click checkout service Bolt&#39;s transaction revenue grew ~10% to $28M in 2021, and has had partner merchants numbering in the low 300s since 2020 &lpar;Malique Morris/The Information&rpar;](http://www.techmeme.com/220428/p42#a220428p42)
- - [Netflix&#39;s quest to grow its Asian market faces formidable challenges, including competition from local services, viewers&#39; preference for local content, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220428/p41#a220428p41)
- - [Mars Helicopter Snaps Dramatic Images of Rover&#39;s Battered Landing Gear     - CNET](https://www.cnet.com/science/space/mars-helicopter-snaps-dramatic-images-of-rovers-battered-landing-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snap partners with Live Nation to launch AR experiences built into concerts and festivals, starting with the Electric Daisy Carnival in Las Vegas in May &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220428/p45#a220428p45)
+ - [Best Android Phones in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
+ - [Best Airline Credit Cards for May 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
