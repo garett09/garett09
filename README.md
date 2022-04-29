@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap partners with Live Nation to launch AR experiences built into concerts and festivals, starting with the Electric Daisy Carnival in Las Vegas in May &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220428/p45#a220428p45)
- - [Best Android Phones in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
- - [Best Airline Credit Cards for May 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk has lined up a new CEO for Twitter and told banks about ideas for monetizing tweets like charging a fee for quoting or embedding tweets &lpar;Reuters&rpar;](http://www.techmeme.com/220429/p1#a220429p1)
+ - [These Nike NFT &#39;Cryptokicks&#39; Sneakers Sold For $130K     - CNET](https://www.cnet.com/personal-finance/crypto/these-nike-nft-cryptokicks-sneakers-sold-for-130k/#ftag=CAD590a51e)
+ - [Snap partners with Live Nation to launch AR experiences built into concerts and festivals, starting with the Electric Daisy Carnival in Las Vegas in May &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220428/p45#a220428p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
