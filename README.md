@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your YouTube profile picture](https://www.androidauthority.com/change-profile-picture-youtube-3157542/)
- - [How to sign out of YouTube](https://www.androidauthority.com/how-to-sign-out-youtube-3158380/)
- - [Sources: Peter Thiel, Jack Dorsey, and others who disliked Twitter&#39;s direction pushed Elon Musk to launch a bid; Musk is dismayed that Trump is still banned &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220429/p21#a220429p21)<!-- TECH:END -->
+ - [Brazil-based Inventa, a wholesale marketplace for SMBs to find suppliers, raises a $55M Series B led by Greylock, bringing its total funding to $80M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220429/p23#a220429p23)
+ - [Instacart plans a strategy shift to sell software to grocers and more ads in its app, trying to avoid becoming another pandemic boom company that has fizzled &lpar;New York Times&rpar;](http://www.techmeme.com/220429/p22#a220429p22)
+ - [Movies Coming in 2022 From Marvel, Netflix, DC and More     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
