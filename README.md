@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Docs expands warnings about dodgy files and links](https://www.theverge.com/2022/4/29/23048113/google-docs-slides-sheets-warning-banner-scams-phishing-links-web)
  - [The top smartphone brand in China is completely unexpected](https://www.androidauthority.com/honor-top-china-q1-2022-3159113/)
- - [Poll: Do you play games on Netflix?](https://www.androidauthority.com/netflix-games-poll-3159064/)
- - [Epic asks court to stop Google from yanking Bandcamp off Play Store](https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store)<!-- TECH:END -->
+ - [Poll: Do you play games on Netflix?](https://www.androidauthority.com/netflix-games-poll-3159064/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
