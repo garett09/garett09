@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: online used-car marketplace Carvana, which saw its shares drop ~30% in recent weeks, was forced to sell half of its bonds to Apollo Global for $1.6B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220429/p8#a220429p8)
- - [We asked, you told us: Here’s what you really think about the Pixel Watch](https://www.androidauthority.com/pixel-watch-poll-results-3159150/)
- - [This Spendy Hair Dryer Works Quick With Less Heat](https://www.wired.com/review/zuvi-halo-hair-dryer)<!-- TECH:END -->
+ - [Sources: Palmer Luckey&#39;s AI-powered defense tech startup Anduril is raising a $500M-$1B Series E at a $7B valuation, up from $4.6B about a year ago &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220429/p11#a220429p11)
+ - [Apple TV+ shares a behind-the-scenes look at &#39;Tehran&#39; season two](https://appleinsider.com/articles/22/04/29/apple-tv-shares-a-behind-the-scenes-look-at-tehran-season-two?utm_medium=rss)
+ - [New Apple TV+ &#39;Charlie Brown&#39; special announced for Mother&#39;s Day](https://appleinsider.com/articles/22/04/29/new-apple-tv-charlie-brown-special-announced-for-mothers-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
