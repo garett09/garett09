@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix has canceled Space Force after two seasons](https://www.theverge.com/2022/4/29/23049328/netflix-space-force-canceled)
- - [Pixel Watch may have cellular service and all-day battery life](https://www.androidauthority.com/google-pixel-watch-battery-3159490/)
- - [Microsoft is adding a free built-in VPN to its Edge browser](https://www.theverge.com/2022/4/29/23049015/microsoft-free-built-in-vpn-edge-browser-edge-secure-network)<!-- TECH:END -->
+ - [See the ISS, a Spacecraft and a Blazing Meteor in One Incredible Video     - CNET](https://www.cnet.com/science/space/see-the-iss-a-spacecraft-and-a-blazing-meteor-in-one-incredible-video/#ftag=CAD590a51e)
+ - [Apple sued by Russian users over suspension of Apple Pay](https://appleinsider.com/articles/22/04/29/apple-sued-by-russian-users-over-suspension-of-apple-pay?utm_medium=rss)
+ - [Marvel’s Fantastic Four movie just lost its director](https://www.theverge.com/2022/4/29/23049370/marvel-fantastic-four-jon-watts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
