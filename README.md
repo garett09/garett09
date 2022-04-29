@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fat activist in the news where the editor had to put her interview window in landscape mode](http://9gag.com/gag/aogYzq3)
- - 🚯 [Are you not entertained mom?](http://9gag.com/gag/aqGYZ6v)
- - 🚯 [Sed Noises](http://9gag.com/gag/aWgD0qx)<!-- MEMES:END -->
+ - 🚖 [Are you not entertained mom?](http://9gag.com/gag/aqGYZ6v)
+ - 🚯 [Ukraine Handed Russia All Their Nuclear Weapons In 1996 In Exchange For A Guarantee They\u2019d Never Be Invaded](http://9gag.com/gag/arn2eLd)
+ - 🚯 [I am glad she didn&#39;t forget `Captain`](http://9gag.com/gag/aOQRyzD)<!-- MEMES:END -->
 
 --- 
 
