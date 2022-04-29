@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An extra tip if they are nicer](http://9gag.com/gag/aNPOoz3)
- - 🚯 [Pschlopschlopschlopschlopschlop](http://9gag.com/gag/aogY0p0)
- - 🚯 [Ukraine Handed Russia All Their Nuclear Weapons In 1996 In Exchange For A Guarantee They\u2019d Never Be Invaded](http://9gag.com/gag/arn2eLd)<!-- MEMES:END -->
+ - 🚖 [Unfortunately](http://9gag.com/gag/aKmOP8Q)
+ - 🚯 [Fukc wits](http://9gag.com/gag/a21LP9w)
+ - 🚯 [Pschlopschlopschlopschlopschlop](http://9gag.com/gag/aogY0p0)<!-- MEMES:END -->
 
 --- 
 
