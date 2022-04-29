@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sed Noises](http://9gag.com/gag/aWgD0qx)
- - 🚯 [Chad handles fight like a boss](http://9gag.com/gag/aYrApjO)
- - 🚯 [Nickelback album with How you remind me, but nah, i did like it.](http://9gag.com/gag/aVxVOxM)<!-- MEMES:END -->
+ - 🚖 [Fat activist in the news where the editor had to put her interview window in landscape mode](http://9gag.com/gag/aogYzq3)
+ - 🚯 [Are you not entertained mom?](http://9gag.com/gag/aqGYZ6v)
+ - 🚯 [Sed Noises](http://9gag.com/gag/aWgD0qx)<!-- MEMES:END -->
 
 --- 
 
