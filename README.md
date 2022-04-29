@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained mom?](http://9gag.com/gag/aqGYZ6v)
- - 🚯 [Ukraine Handed Russia All Their Nuclear Weapons In 1996 In Exchange For A Guarantee They\u2019d Never Be Invaded](http://9gag.com/gag/arn2eLd)
- - 🚯 [I am glad she didn&#39;t forget `Captain`](http://9gag.com/gag/aOQRyzD)<!-- MEMES:END -->
+ - 🚖 [I am glad she didn&#39;t forget `Captain`](http://9gag.com/gag/aOQRyzD)
+ - 🚯 [I&#39;m this old...](http://9gag.com/gag/a91OMrj)
+ - 🚯 [We need this MAN !!](http://9gag.com/gag/aYrAWN2)<!-- MEMES:END -->
 
 --- 
 
