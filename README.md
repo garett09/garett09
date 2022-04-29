@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes ...](http://9gag.com/gag/a31bBgQ)
- - 🚯 [Bruh what](http://9gag.com/gag/aRrOAQ2)
- - 🚯 [Just a rabbit at walmart](http://9gag.com/gag/apgYB4b)<!-- MEMES:END -->
+ - 🚖 [New Simpsons doing homer dirty, as per](http://9gag.com/gag/aVxVe7d)
+ - 🚯 [The US is launching a ministry of truth :D](http://9gag.com/gag/a71p71x)
+ - 🚯 [Loved the atmosphere there](http://9gag.com/gag/a11EXRR)<!-- MEMES:END -->
 
 --- 
 
