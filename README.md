@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Docs expands warnings about dodgy files and links](https://www.theverge.com/2022/4/29/23048113/google-docs-slides-sheets-warning-banner-scams-phishing-links-web)
- - [The top smartphone brand in China is completely unexpected](https://www.androidauthority.com/honor-top-china-q1-2022-3159113/)
- - [Poll: Do you play games on Netflix?](https://www.androidauthority.com/netflix-games-poll-3159064/)<!-- TECH:END -->
+ - [The Mr. Coffee ‘brew now’ button is an escape from sleepiness](https://www.theverge.com/2022/4/29/23044840/mr-coffee-brew-button-single-click-simplicity)
+ - [Turtlemint, which helps financial advisors understand and distribute insurance to their customers, raises a $120M Series E at a $900M post-money valuation &lpar;Priyanka Iyer/Moneycontrol&rpar;](http://www.techmeme.com/220429/p4#a220429p4)
+ - [What’s new on Disney Plus in May: Star Wars Obi-Wan Kenobi and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
