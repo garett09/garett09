@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine’s Digital Battle With Russia Isn’t Going as Expected](https://www.wired.com/story/ukraine-russia-digital-battle)
- - [Looking for a Tablet? These Are Our Absolute Favorites](https://www.wired.com/gallery/the-best-tablets)
- - [You Need to Update iOS, Android, and Chrome Right Now](https://www.wired.com/story/ios-android-chrome-updates-april-2022)<!-- TECH:END -->
+ - [Sources: online used-car marketplace Carvana, which saw its shares drop ~30% in recent weeks, was forced to sell half of its bonds to Apollo Global for $1.6B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220429/p8#a220429p8)
+ - [We asked, you told us: Here’s what you really think about the Pixel Watch](https://www.androidauthority.com/pixel-watch-poll-results-3159150/)
+ - [This Spendy Hair Dryer Works Quick With Less Heat](https://www.wired.com/review/zuvi-halo-hair-dryer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
