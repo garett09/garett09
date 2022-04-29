@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cracked me up](http://9gag.com/gag/awzY7Zx)
- - 🚯 [Tell me about great new artists you discovered](http://9gag.com/gag/aVxVWjn)
- - 🚯 [Bruh what](http://9gag.com/gag/aRrOAQ2)<!-- MEMES:END -->
+ - 🚖 [OK i am curious](http://9gag.com/gag/aAGO1K0)
+ - 🚯 [The US is launching a ministry of truth :D](http://9gag.com/gag/a71p71x)
+ - 🚯 [C. Can&#39;t Tell](http://9gag.com/gag/aM4Or6V)<!-- MEMES:END -->
 
 --- 
 
