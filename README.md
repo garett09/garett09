@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Australia girls in schools are taught how to change wheels and check oil so they \u201cdon\u2019t depend on anyone\u201d](http://9gag.com/gag/aogYjqe)
- - 🚯 [Prime Minister of Sweden Magdalena Andersson has finally stated mass immigration has been a failure fueling segregation and crime. In the last few years Sweden has increased their foreign born population by 26%, a rate that is absolutely impossible to assimilate.](http://9gag.com/gag/a71pdbz)
- - 🚯 [Bruh what](http://9gag.com/gag/aRrOAQ2)<!-- MEMES:END -->
+ - 🚖 [Yes ...](http://9gag.com/gag/a31bBgQ)
+ - 🚯 [Bruh what](http://9gag.com/gag/aRrOAQ2)
+ - 🚯 [Just a rabbit at walmart](http://9gag.com/gag/apgYB4b)<!-- MEMES:END -->
 
 --- 
 
