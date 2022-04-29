@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You don’t need Nintendo Switch Online to earn Nintendo Switch Sports unlockables — from a certain point of view](https://www.polygon.com/23049199/nintendo-switch-sports-awards-unlockables-bots-online-subscription)
- - [Disney swaps release dates for The Marvels and the next Ant-Man movie](https://www.polygon.com/23049046/disney-announces-new-release-dates-ant-man-wasp-marvels)
- - [I sell all my Elden Ring items, which was fine — until it wasn’t](https://www.polygon.com/23048415/elden-ring-sell-items-fia-d-armor-questline)<!-- GAME:END -->
+ - [This Week on Xbox: Day One Releases, Upcoming Games, and More](https://news.xbox.com/en-us/2022/04/29/this-week-on-xbox-day-one-releases-upcoming-games-and-more/)
+ - [Switch Sports proves Nintendo’s extreme patience pays off](https://www.polygon.com/2022/4/29/23049031/nintendo-switch-sports-bowling-tennis-games)
+ - [Marvel’s Fantastic Four movie loses MCU Spider-Man director](https://www.polygon.com/23049321/marvel-fantastic-four-movie-mcu-director-jon-watts-spider-man)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
