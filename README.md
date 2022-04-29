@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained)
- - [How Reality Shows That This War of Mine is More Than a Best-selling Game](https://news.xbox.com/en-us/2022/04/29/reality-shows-this-war-of-mine-more-than-a-best-selling-game/)
- - [Genshin Impact Fans React To Historic First Delay In Two Years Of The Pandemic](https://kotaku.com/genshin-impact-hoyoverse-mihoyo-delay-2-7-shanghai-lock-1848860297)<!-- GAME:END -->
+ - [Valve says a few games being blocked from installing on Steam Deck was just a &#39;technical issue&#39;](https://www.pcgamer.com/valve-says-a-few-games-being-blocked-from-installing-on-steam-deck-was-just-a-technical-issue)
+ - [Destiny 2 Xur location and items, April 29-May 3](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/29/23048806/destiny-2-xur-location-items-april-29-may-3)
+ - [Activision Announces 47th Call of Duty, Modern Warfare II, Which Is The 10th Modern Warfare Game](https://kotaku.com/modern-warfare-2-call-of-duty-activision-cod-2022-confi-1848860262)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
