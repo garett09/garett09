@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rest in Peace soldier.](http://9gag.com/gag/aYrAjwx)
- - 🚯 [Overwatch &lpar;2&rpar;](http://9gag.com/gag/a51qeRq)
- - 🚯 [Where is the con here?](http://9gag.com/gag/arnBPd7)<!-- MEMES:END -->
+ - 🚖 [How to keep track of the office Corgi](http://9gag.com/gag/aOQRKer)
+ - 🚯 [What kinda f**king bullshit is this???!!! F**k yeah the kid should hit back](http://9gag.com/gag/aWgDZ62)
+ - 🚯 [Nostalgic](http://9gag.com/gag/axBYdBK)<!-- MEMES:END -->
 
 --- 
 
