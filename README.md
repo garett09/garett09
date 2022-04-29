@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OK i am curious](http://9gag.com/gag/aAGO1K0)
- - 🚯 [The US is launching a ministry of truth :D](http://9gag.com/gag/a71p71x)
- - 🚯 [C. Can&#39;t Tell](http://9gag.com/gag/aM4Or6V)<!-- MEMES:END -->
+ - 🚖 [C. Can&#39;t Tell](http://9gag.com/gag/aM4Or6V)
+ - 🚯 [In Australia girls in schools are taught how to change wheels and check oil so they \u201cdon\u2019t depend on anyone\u201d](http://9gag.com/gag/aogYjqe)
+ - 🚯 [This one is dangly accurate](http://9gag.com/gag/aPZ1Geg)<!-- MEMES:END -->
 
 --- 
 
