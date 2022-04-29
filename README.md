@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tone-deaf Samsung ad is a reminder that smartwatch safety still has a ways to go](https://www.theverge.com/2022/4/29/23048309/samsung-smartwatch-ad-emergency-sos)
- - [BioWare contractors want a union](https://www.theverge.com/2022/4/29/23047488/bioware-keywords-studios-contractors-organizing-union-office-return)
- - [Entire Android industry can’t compete with Apple’s growth last quarter](https://www.androidauthority.com/q122-smartphone-sales-3159302/)<!-- TECH:END -->
+ - [Salesforce will extend California&#39;s Silenced No More Act protections, which limit the scope of NDAs, to all US employees by the end of 2022 &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220429/p17#a220429p17)
+ - [What analysts thought about Apple&#39;s Q2 2022 results &amp; June quarter warning](https://appleinsider.com/articles/22/04/29/what-analysts-thought-about-apples-q2-2022-results-june-quarter-warning?utm_medium=rss)
+ - [Elon Musk buys Twitter: all the news you need on one of the biggest tech deals of all time](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
