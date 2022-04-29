@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grace and skill](http://9gag.com/gag/a81KLOe)
- - 🚯 [This photo of the sun might not look too impressive... until you realize it was taken at night \u2013 not looking up but looking down, through the entire Earth, using neutrinos rather than light.](http://9gag.com/gag/ajgWYD1)
- - 🚯 [Nostalgic](http://9gag.com/gag/axBYdBK)<!-- MEMES:END -->
+ - 🚖 [Rest in Peace soldier.](http://9gag.com/gag/aYrAjwx)
+ - 🚯 [Overwatch &lpar;2&rpar;](http://9gag.com/gag/a51qeRq)
+ - 🚯 [Where is the con here?](http://9gag.com/gag/arnBPd7)<!-- MEMES:END -->
 
 --- 
 
