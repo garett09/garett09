@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its at this point he realised he f**ked up.](http://9gag.com/gag/aYrApPx)
- - 🚯 [Not good boy](http://9gag.com/gag/a81KYZZ)
- - 🚯 [Unfortunately](http://9gag.com/gag/aKmOP8Q)<!-- MEMES:END -->
+ - 🚖 [Frog](http://9gag.com/gag/a41Wdvd)
+ - 🚯 [We need this MAN !!](http://9gag.com/gag/aYrAWN2)
+ - 🚯 [Not good boy](http://9gag.com/gag/a81KYZZ)<!-- MEMES:END -->
 
 --- 
 
