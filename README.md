@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Powerful](https://blog.playstation.com/2022/04/29/share-of-the-week-powerful/)
- - [Share of the Week: Powerful](https://blog.playstation.com/2022/04/29/share-of-the-week-powerful/)
- - [Jump into the First Ladder Season of Diablo II: Resurrected on Xbox](https://news.xbox.com/en-us/2022/04/29/first-ladder-season-diablo-2-resurrected-on-xbox/)<!-- GAME:END -->
+ - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained)
+ - [How Reality Shows That This War of Mine is More Than a Best-selling Game](https://news.xbox.com/en-us/2022/04/29/reality-shows-this-war-of-mine-more-than-a-best-selling-game/)
+ - [Genshin Impact Fans React To Historic First Delay In Two Years Of The Pandemic](https://kotaku.com/genshin-impact-hoyoverse-mihoyo-delay-2-7-shanghai-lock-1848860297)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
