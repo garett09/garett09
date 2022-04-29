@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil-based Inventa, a wholesale marketplace for SMBs to find suppliers, raises a $55M Series B led by Greylock, bringing its total funding to $80M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220429/p23#a220429p23)
- - [Instacart plans a strategy shift to sell software to grocers and more ads in its app, trying to avoid becoming another pandemic boom company that has fizzled &lpar;New York Times&rpar;](http://www.techmeme.com/220429/p22#a220429p22)
- - [Movies Coming in 2022 From Marvel, Netflix, DC and More     - CNET](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix has canceled Space Force after two seasons](https://www.theverge.com/2022/4/29/23049328/netflix-space-force-canceled)
+ - [Pixel Watch may have cellular service and all-day battery life](https://www.androidauthority.com/google-pixel-watch-battery-3159490/)
+ - [Microsoft is adding a free built-in VPN to its Edge browser](https://www.theverge.com/2022/4/29/23049015/microsoft-free-built-in-vpn-edge-browser-edge-secure-network)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
