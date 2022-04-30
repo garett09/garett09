@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #315: Saturday, April 30](https://www.pcgamer.com/wordle-april-30-315-larva-meaning)
- - [In 1991, Who Framed Roger Rabbit came to PC in an unexpected format](https://www.pcgamer.com/saturday-crapshoot-hare-raising-havoc)
- - [Dead by Daylight made one of its most popular characters gay, and opinions are all over the place](https://www.pcgamer.com/dead-by-daylight-announces-first-gay-character)<!-- GAME:END -->
+ - [Dorfromantik’s masterful minimalism will soothe your soul](https://www.polygon.com/reviews/23049119/dorfromantik-review-1-0-update)
+ - [Final Fantasy VII Remake Mod Gives Barret A Classic Amano Makeover](https://kotaku.com/final-fantasy-7-ff7-remake-barret-wallace-mod-yoshitaka-1848861644)
+ - [Bungie Sees Multiple Claims Against Destiny Cheat Seller Dismissed In Federal Court](https://kotaku.com/bungie-destiny-court-cheats-aimjunkies-dismiss-copyrigh-1848862237)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
