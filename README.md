@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom absolutely shreds the Wipe Out song on the drums](http://9gag.com/gag/ay9YBPM)
- - 🚯 [She was arrested before, for hitting a girlfriend](http://9gag.com/gag/a71pwyw)
+ - 🚖 [Valhallaaaaa deliverance](http://9gag.com/gag/aKmOxAO)
+ - 🚯 [Rule Britannia](http://9gag.com/gag/aeg75V5)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
