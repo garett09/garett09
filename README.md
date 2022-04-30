@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [See the ISS, a Spacecraft and a Blazing Meteor in One Incredible Video     - CNET](https://www.cnet.com/science/space/see-the-iss-a-spacecraft-and-a-blazing-meteor-in-one-incredible-video/#ftag=CAD590a51e)
- - [Apple sued by Russian users over suspension of Apple Pay](https://appleinsider.com/articles/22/04/29/apple-sued-by-russian-users-over-suspension-of-apple-pay?utm_medium=rss)
- - [Marvel’s Fantastic Four movie just lost its director](https://www.theverge.com/2022/4/29/23049370/marvel-fantastic-four-jon-watts)<!-- TECH:END -->
+ - [How to turn autoplay on or off on YouTube](https://www.androidauthority.com/turn-autoplay-off-youtube-3159538/)
+ - [Sony clamps down on PlayStation Now subscription stacking to protect its upcoming Premium service](https://www.theverge.com/2022/4/29/23049022/sony-playstation-plus-now-subscription-prepaid-conversion-change)
+ - [Best Checking Accounts for May 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
