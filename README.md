@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Attention](http://9gag.com/gag/arn2570)
- - 🚯 [Oh no! The GRES-2 120-megawatt coal-fired power plant in Sakhalin, Russia went up in flames this morning. That was an investment that cost Russian taxpayers around USD 560 million and which was crucial for the energy supply in Far Eastern Russia.](http://9gag.com/gag/azeYqPj)
+ - 🚖 [*cries in overcrowded megalopole*](http://9gag.com/gag/axBY1Bn)
+ - 🚯 [Tom Cruise being Tom Cruise](http://9gag.com/gag/a51qobL)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
