@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feel for him and what he is gone through..](http://9gag.com/gag/a81Kp66)
- - 🚯 [Playing safe](http://9gag.com/gag/aGzO160)
- - 🚯 [Don&#39;t do this to your kid](http://9gag.com/gag/aAGOdXL)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t do this to your kid](http://9gag.com/gag/aAGOdXL)
+ - 🚯 [The muffin man](http://9gag.com/gag/amgprpo)
+ - 🚯 [Thanks for ruining characters Disney](http://9gag.com/gag/a21LrRe)<!-- MEMES:END -->
 
 --- 
 
