@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In 1991, Who Framed Roger Rabbit came to PC in an unexpected format](https://www.pcgamer.com/saturday-crapshoot-hare-raising-havoc)
  - [Dead by Daylight made one of its most popular characters gay, and opinions are all over the place](https://www.pcgamer.com/dead-by-daylight-announces-first-gay-character)
- - [Galactic Civilizations 4 review](https://www.pcgamer.com/galactic-civilizations-4-review)
- - [Beautiful pixels meet brutal Vikings in this sidescrolling base-builder](https://www.pcgamer.com/beautiful-pixels-meet-brutal-vikings-in-this-sidescrolling-base-builder)<!-- GAME:END -->
+ - [Galactic Civilizations 4 review](https://www.pcgamer.com/galactic-civilizations-4-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
