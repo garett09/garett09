@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $20 off a new Nintendo Switch at Woot](https://www.theverge.com/good-deals/2022/4/30/23048494/nintendo-switch-discount-lite-woot-app-beats-fit-pro-apple-tcl-qled-4k-tv-deal-sale)
- - [This chart might explain why CNN Plus shut down early](https://www.theverge.com/23043232/cnn-plus-axios-chat-shut-down-streaming-news)
- - [Shows like Outer Range: 9 titles to watch after the Prime Video original series](https://www.androidauthority.com/shows-like-outer-range-amazon-prime-video-3158871/)<!-- TECH:END -->
+ - [Android 13 Beta hands-on: It’s a little hard to get excited about](https://www.androidauthority.com/android-13-review-3157410/)
+ - [The Queen Conch’s Gambit](https://www.wired.com/story/the-queen-conchs-gambit)
+ - [This Radar-Equipped Bike Warns You of Oncoming Traffic ... Kinda](https://www.wired.com/review/cannondale-synapse-smartsense)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
