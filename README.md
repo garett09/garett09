@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*cries in overcrowded megalopole*](http://9gag.com/gag/axBY1Bn)
- - 🚯 [Tom Cruise being Tom Cruise](http://9gag.com/gag/a51qobL)
+ - 🚖 [You know youre old when buying a new washing machine makes you happy.](http://9gag.com/gag/aE8OB7K)
+ - 🚯 [Love this design](http://9gag.com/gag/awzYQVQ)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
