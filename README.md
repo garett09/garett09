@@ -191,8 +191,8 @@ Windows                  1 hr 45 mins        ███████████�
 
 <!-- TECH:START -->
  - [Intelli StepUp Charging Station review: Retractable charging gimmick spoils a good charger](https://appleinsider.com/articles/22/04/30/intelli-stepup-charging-station-review-retractable-charging-gimmick-spoils-a-good-charger?utm_medium=rss)
- - [Apple AirPods Max review: Ecosystem-only excellence](https://www.androidauthority.com/apple-airpods-max-review-3158041/)
- - [Chip shortages expected until 2024 says Intel CEO](https://appleinsider.com/articles/22/04/30/chip-shortages-expected-until-2024-says-intel-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Zenly, a Snap-owned social mapping app still operating in Russia amid bans and exits of other Western apps; Zenly had 51M+ downloads in Russia in 2021 &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/220430/p8#a220430p8)
+ - [Apple AirPods Max review: Ecosystem-only excellence](https://www.androidauthority.com/apple-airpods-max-review-3158041/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
