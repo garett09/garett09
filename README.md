@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cWe stayed because If we left, they wouldn\u2019t have nobody\u201d](http://9gag.com/gag/a91OrnW)
- - 🚯 [What a joke](http://9gag.com/gag/a71p7Xw)
- - 🚯 [This Dog Saved the life of 5kids from 2Pit bulls](http://9gag.com/gag/a0ZMbKX)<!-- MEMES:END -->
+ - 🚖 [Feel for him and what he is gone through..](http://9gag.com/gag/a81Kp66)
+ - 🚯 [Playing safe](http://9gag.com/gag/aGzO160)
+ - 🚯 [Don&#39;t do this to your kid](http://9gag.com/gag/aAGOdXL)<!-- MEMES:END -->
 
 --- 
 
