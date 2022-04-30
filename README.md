@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How I made my own Hue light strips for cheap](https://www.androidauthority.com/diy-smart-light-strips-3155321/)
- - [A look at the challenges Apple is facing as it develops its own wireless modem, expected to replace Qualcomm chips in 2023 iPhones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220430/p7#a220430p7)
- - [Top last-minute Mother&#39;s Day gift ideas for tech-savvy moms](https://appleinsider.com/articles/22/04/30/top-last-minute-mothers-day-gift-ideas-for-tech-savvy-moms?utm_medium=rss)<!-- TECH:END -->
+ - [Apple AirPods Max review: Ecosystem-only excellence](https://www.androidauthority.com/apple-airpods-max-review-3158041/)
+ - [Chip shortages expected until 2024 says Intel CEO](https://appleinsider.com/articles/22/04/30/chip-shortages-expected-until-2024-says-intel-ceo?utm_medium=rss)
+ - [Uber and Lyft extend legal fee coverage to drivers sued under Oklahoma’s forthcoming abortion law](https://www.theverge.com/2022/4/30/23050662/uber-lyft-extend-legal-fee-coverage-drivers-sued-over-oklahoma-restrictive-abortion-law)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
