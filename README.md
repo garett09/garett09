@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t do this to your kid](http://9gag.com/gag/aAGOdXL)
- - 🚯 [The muffin man](http://9gag.com/gag/amgprpo)
- - 🚯 [Thanks for ruining characters Disney](http://9gag.com/gag/a21LrRe)<!-- MEMES:END -->
+ - 🚖 [Hell naw](http://9gag.com/gag/amgp2vd)
+ - 🚯 [Wow what a nice open field](http://9gag.com/gag/aVxVMwM)
+ - 🚯 [Current temperatures in India](http://9gag.com/gag/a11Ebw6)<!-- MEMES:END -->
 
 --- 
 
