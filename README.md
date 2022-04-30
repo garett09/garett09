@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bullstrap MagSafe wallet review: Same as Apple&#39;s but with better leather](https://appleinsider.com/articles/22/04/30/bullstrap-magsafe-wallet-review-same-as-apples-but-with-better-leather?utm_medium=rss)
- - [Apple clarifies conditions for App Store app removal, extends update deadline to 90 days](https://appleinsider.com/articles/22/04/30/apple-clarifies-conditions-for-app-store-app-removal-extends-update-deadline-to-90-days?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-430-3159467/)<!-- TECH:END -->
+ - [How I made my own Hue light strips for cheap](https://www.androidauthority.com/diy-smart-light-strips-3155321/)
+ - [A look at the challenges Apple is facing as it develops its own wireless modem, expected to replace Qualcomm chips in 2023 iPhones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220430/p7#a220430p7)
+ - [Top last-minute Mother&#39;s Day gift ideas for tech-savvy moms](https://appleinsider.com/articles/22/04/30/top-last-minute-mothers-day-gift-ideas-for-tech-savvy-moms?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
