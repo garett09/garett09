@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me too bro, me too..](http://9gag.com/gag/aeg7Yyb)
- - 🚯 [Perhaps you didn&#39;t hear me outside.](http://9gag.com/gag/aGzO0Y0)
- - 🚯 [They won&#39;t do what you tell them](http://9gag.com/gag/azeYARp)<!-- MEMES:END -->
+ - 🚖 [Perhaps you didn&#39;t hear me outside.](http://9gag.com/gag/aGzO0Y0)
+ - 🚯 [They won&#39;t do what you tell them](http://9gag.com/gag/azeYARp)
+ - 🚯 [Me too bro, me too..](http://9gag.com/gag/aeg7Yyb)<!-- MEMES:END -->
 
 --- 
 
