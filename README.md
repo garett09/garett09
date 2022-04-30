@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Self Repair Program toolkit - Hands on with what&#39;s inside](https://appleinsider.com/articles/22/04/30/apples-self-repair-program-toolkit---hands-on-with-whats-inside?utm_medium=rss)
- - [From Samsung to Google, you won’t find these features on your traditional camera](https://www.androidauthority.com/smartphone-photography-features-3154003/)
- - [Nomad Internet Review: Keeping You Connected With a Wireless, Cellular Setup     - CNET](https://www.cnet.com/home/internet/nomad-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At $39, You Can Afford to Surprise Mom With Two Dozen Roses for Mother&#39;s Day     - CNET](https://www.cnet.com/home/at-39-you-can-afford-to-surprise-mom-with-two-dozen-roses-for-mothers-day/#ftag=CAD590a51e)
+ - [Take Flight With This Foldable $43 Mini Drone for Beginners     - CNET](https://www.cnet.com/tech/computing/take-flight-with-this-foldable-43-mini-drone-for-beginners/#ftag=CAD590a51e)
+ - [Apple&#39;s Self Repair Program toolkit - Hands on with what&#39;s inside](https://appleinsider.com/articles/22/04/30/apples-self-repair-program-toolkit---hands-on-with-whats-inside?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
