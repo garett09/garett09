@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RelationalAI, which develops knowledge graphs for data-driven apps, raises a $75M Series B led by Tiger Global and adds ex-Snowflake CEO Bob Muglia to its board &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220430/p4#a220430p4)
  - [Inside Twitter, frustrations have mounted about Elon Musk&#39;s moderation plans, ahead of elections in Brazil and the midterm election in the US &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220430/p3#a220430p3)
- - [Google begins work on a new campus spread over a 7.3 acre site in Hyderabad, India, which will be its largest campus outside its headquarters in Mountain View &lpar;The New Indian Express&rpar;](http://www.techmeme.com/220430/p2#a220430p2)
- - [Realme’s mini tablet is the right idea with the wrong execution](https://www.androidauthority.com/realme-pad-mini-review-3158499/)<!-- TECH:END -->
+ - [Google begins work on a new campus spread over a 7.3 acre site in Hyderabad, India, which will be its largest campus outside its headquarters in Mountain View &lpar;The New Indian Express&rpar;](http://www.techmeme.com/220430/p2#a220430p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
