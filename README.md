@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Valhallaaaaa deliverance](http://9gag.com/gag/aKmOxAO)
- - 🚯 [Lithium Ion battery fire at Recycling facility](http://9gag.com/gag/amgp2KV)
+ - 🚖 [Quick, the Americans are asleep, upvote for real cheese.](http://9gag.com/gag/azeY9rj)
+ - 🚯 [Tom Cruise being Tom Cruise](http://9gag.com/gag/a51qobL)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
