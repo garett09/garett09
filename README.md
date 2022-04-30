@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Simpsons doing homer dirty, as per](http://9gag.com/gag/aVxVe7d)
- - 🚯 [Modern entertainment industry take note](http://9gag.com/gag/angrBw0)
- - 🚯 [They won&#39;t do what you tell them](http://9gag.com/gag/azeYARp)<!-- MEMES:END -->
+ - 🚖 [Perhaps you didn&#39;t hear me outside.](http://9gag.com/gag/aGzO0Y0)
+ - 🚯 [Loved the atmosphere there](http://9gag.com/gag/a11EXRR)
+ - 🚯 [Prime Minister of Sweden Magdalena Andersson has finally stated mass immigration has been a failure fueling segregation and crime. In the last few years Sweden has increased their foreign born population by 26%, a rate that is absolutely impossible to assimilate.](http://9gag.com/gag/a71pdbz)<!-- MEMES:END -->
 
 --- 
 
