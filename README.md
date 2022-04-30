@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Valhallaaaaa deliverance](http://9gag.com/gag/aKmOxAO)
- - 🚯 [Rule Britannia](http://9gag.com/gag/aeg75V5)
+ - 🚖 [The good ending](http://9gag.com/gag/aE8OgMx)
+ - 🚯 [She was arrested before, for hitting a girlfriend](http://9gag.com/gag/a71pwyw)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
