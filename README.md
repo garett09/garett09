@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intelli StepUp Charging Station review: Retractable charging gimmick spoils a good charger](https://appleinsider.com/articles/22/04/30/intelli-stepup-charging-station-review-retractable-charging-gimmick-spoils-a-good-charger?utm_medium=rss)
  - [Apple AirPods Max review: Ecosystem-only excellence](https://www.androidauthority.com/apple-airpods-max-review-3158041/)
- - [Chip shortages expected until 2024 says Intel CEO](https://appleinsider.com/articles/22/04/30/chip-shortages-expected-until-2024-says-intel-ceo?utm_medium=rss)
- - [Uber and Lyft extend legal fee coverage to drivers sued under Oklahoma’s forthcoming abortion law](https://www.theverge.com/2022/4/30/23050662/uber-lyft-extend-legal-fee-coverage-drivers-sued-over-oklahoma-restrictive-abortion-law)<!-- TECH:END -->
+ - [Chip shortages expected until 2024 says Intel CEO](https://appleinsider.com/articles/22/04/30/chip-shortages-expected-until-2024-says-intel-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
