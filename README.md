@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RelationalAI, which develops knowledge graphs for data-driven apps, raises a $75M Series B led by Tiger Global and adds ex-Snowflake CEO Bob Muglia to its board &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220430/p4#a220430p4)
- - [Inside Twitter, frustrations have mounted about Elon Musk&#39;s moderation plans, ahead of elections in Brazil and the midterm election in the US &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220430/p3#a220430p3)
- - [Google begins work on a new campus spread over a 7.3 acre site in Hyderabad, India, which will be its largest campus outside its headquarters in Mountain View &lpar;The New Indian Express&rpar;](http://www.techmeme.com/220430/p2#a220430p2)<!-- TECH:END -->
+ - [Save $20 off a new Nintendo Switch at Woot](https://www.theverge.com/good-deals/2022/4/30/23048494/nintendo-switch-discount-lite-woot-app-beats-fit-pro-apple-tcl-qled-4k-tv-deal-sale)
+ - [This chart might explain why CNN Plus shut down early](https://www.theverge.com/23043232/cnn-plus-axios-chat-shut-down-streaming-news)
+ - [Shows like Outer Range: 9 titles to watch after the Prime Video original series](https://www.androidauthority.com/shows-like-outer-range-amazon-prime-video-3158871/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
