@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina’s Wonderlands Coolest Zone Is Easy To Miss](https://kotaku.com/tiny-tina-s-wonderlands-tangledrift-jack-beanstalk-pc-x-1848851012)
- - [Dorfromantik’s masterful minimalism will soothe your soul](https://www.polygon.com/reviews/23049119/dorfromantik-review-1-0-update)
- - [Final Fantasy VII Remake Mod Gives Barret A Classic Amano Makeover](https://kotaku.com/final-fantasy-7-ff7-remake-barret-wallace-mod-yoshitaka-1848861644)<!-- GAME:END -->
+ - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)
+ - [Minecraft 1.19: everything we know about the Wild Update](https://www.pcgamer.com/minecraft-119-update-release-date-the-wild-update)
+ - [What Wordle answers have been used?](https://www.pcgamer.com/wordle-past-word-archive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
