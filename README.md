@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says apps that haven&#39;t been updated in past three years and have low downloads will be removed from App Store, extends time to update from 30 to 90 days &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/220430/p1#a220430p1)
  - [How to loop videos on YouTube](https://www.androidauthority.com/loop-videos-youtube-3158098/)
- - [Apple teases Skywalker Sound featurette ahead of Star Wars Day](https://appleinsider.com/articles/22/04/30/apple-teases-skywalker-sound-featurette-ahead-of-star-wars-day?utm_medium=rss)
- - [Apple clarifies conditions for App Store app removal, extends update deadline to 90 days](https://appleinsider.com/articles/22/04/30/apple-clarifies-conditions-for-app-store-app-removal-extends-update-deadline-to-90-days?utm_medium=rss)<!-- TECH:END -->
+ - [Apple teases Skywalker Sound featurette ahead of Star Wars Day](https://appleinsider.com/articles/22/04/30/apple-teases-skywalker-sound-featurette-ahead-of-star-wars-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
