@@ -197,9 +197,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell naw](http://9gag.com/gag/amgp2vd)
- - 🚯 [Wow what a nice open field](http://9gag.com/gag/aVxVMwM)
- - 🚯 [Current temperatures in India](http://9gag.com/gag/a11Ebw6)<!-- MEMES:END -->
+ - 🚖 [It lives with us](http://9gag.com/gag/axBYVK1)
+ - 🚯 [Revenge is sweet](http://9gag.com/gag/ajgWXDG)
+ - 🚯 [Oh no! The GRES-2 120-megawatt coal-fired power plant in Sakhalin, Russia went up in flames this morning. That was an investment that cost Russian taxpayers around USD 560 million and which was crucial for the energy supply in Far Eastern Russia.](http://9gag.com/gag/azeYqPj)<!-- MEMES:END -->
 
 --- 
 
