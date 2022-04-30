@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War: Warhammer 3&#39;s Immortal Empires DLC is still a fair way off](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-still-a-fair-way-off)
  - [Fans are making custom Nendoroids of their faves](https://www.polygon.com/23048577/nendoroid-genshin-impact-howl-pendragon-custom-good-smile-ouran-host-club)
- - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)
- - [Minecraft 1.19: everything we know about the Wild Update](https://www.pcgamer.com/minecraft-119-update-release-date-the-wild-update)<!-- GAME:END -->
+ - [How to complete the Nepheli quest in Elden Ring](https://www.pcgamer.com/elden-ring-nepheli-location-seluvis-potion-choice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
