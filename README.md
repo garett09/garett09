@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick, the Americans are asleep, upvote for real cheese.](http://9gag.com/gag/azeY9rj)
- - 🚯 [Tom Cruise being Tom Cruise](http://9gag.com/gag/a51qobL)
+ - 🚖 [It&#39;s not enough](http://9gag.com/gag/aAGOgYL)
+ - 🚯 [*cries in overcrowded megalopole*](http://9gag.com/gag/axBY1Bn)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
