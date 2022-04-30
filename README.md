@@ -197,8 +197,8 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know youre old when buying a new washing machine makes you happy.](http://9gag.com/gag/aE8OB7K)
- - 🚯 [Love this design](http://9gag.com/gag/awzYQVQ)
+ - 🚖 [Love this design](http://9gag.com/gag/awzYQVQ)
+ - 🚯 [Disappointing and satisfying at the same time](http://9gag.com/gag/axBY051)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
