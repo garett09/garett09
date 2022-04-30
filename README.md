@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead by Daylight made one of its most popular characters gay, and opinions are all over the place](https://www.pcgamer.com/dead-by-daylight-announces-first-gay-character)
  - [Galactic Civilizations 4 review](https://www.pcgamer.com/galactic-civilizations-4-review)
- - [Beautiful pixels meet brutal Vikings in this sidescrolling base-builder](https://www.pcgamer.com/beautiful-pixels-meet-brutal-vikings-in-this-sidescrolling-base-builder)
- - [Moonfall, Netflix’s Bubble, and more new movies you can watch at home this weekend](https://www.polygon.com/23039183/new-movies-watch-moonfall-netflix-bubble-365-days)<!-- GAME:END -->
+ - [Beautiful pixels meet brutal Vikings in this sidescrolling base-builder](https://www.pcgamer.com/beautiful-pixels-meet-brutal-vikings-in-this-sidescrolling-base-builder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
