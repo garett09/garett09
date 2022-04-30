@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn autoplay on or off on YouTube](https://www.androidauthority.com/turn-autoplay-off-youtube-3159538/)
- - [Sony clamps down on PlayStation Now subscription stacking to protect its upcoming Premium service](https://www.theverge.com/2022/4/29/23049022/sony-playstation-plus-now-subscription-prepaid-conversion-change)
- - [Best Checking Accounts for May 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to loop videos on YouTube](https://www.androidauthority.com/loop-videos-youtube-3158098/)
+ - [Apple teases Skywalker Sound featurette ahead of Star Wars Day](https://appleinsider.com/articles/22/04/30/apple-teases-skywalker-sound-featurette-ahead-of-star-wars-day?utm_medium=rss)
+ - [Apple clarifies conditions for App Store app removal, extends update deadline to 90 days](https://appleinsider.com/articles/22/04/30/apple-clarifies-conditions-for-app-store-app-removal-extends-update-deadline-to-90-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
