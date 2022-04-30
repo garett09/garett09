@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At $39, You Can Afford to Surprise Mom With Two Dozen Roses for Mother&#39;s Day     - CNET](https://www.cnet.com/home/at-39-you-can-afford-to-surprise-mom-with-two-dozen-roses-for-mothers-day/#ftag=CAD590a51e)
- - [Take Flight With This Foldable $43 Mini Drone for Beginners     - CNET](https://www.cnet.com/tech/computing/take-flight-with-this-foldable-43-mini-drone-for-beginners/#ftag=CAD590a51e)
- - [Apple&#39;s Self Repair Program toolkit - Hands on with what&#39;s inside](https://appleinsider.com/articles/22/04/30/apples-self-repair-program-toolkit---hands-on-with-whats-inside?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-430-3159467/)
+ - [Telegram now lets users send cryptocurrency through TON blockchain spinoff](https://www.theverge.com/2022/4/30/23050263/telegram-lets-users-send-cryptocurrency-chats-toncoin-ton)
+ - [UK plans regulations affecting Apple TV+, other streaming services](https://appleinsider.com/articles/22/04/30/uk-plans-regulations-affecting-apple-tv-other-streaming-services?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
