@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-430-3159467/)
- - [Telegram now lets users send cryptocurrency through TON blockchain spinoff](https://www.theverge.com/2022/4/30/23050263/telegram-lets-users-send-cryptocurrency-chats-toncoin-ton)
- - [UK plans regulations affecting Apple TV+, other streaming services](https://appleinsider.com/articles/22/04/30/uk-plans-regulations-affecting-apple-tv-other-streaming-services?utm_medium=rss)<!-- TECH:END -->
+ - [Bullstrap MagSafe wallet review: Same as Apple&#39;s but with better leather](https://appleinsider.com/articles/22/04/30/bullstrap-magsafe-wallet-review-same-as-apples-but-with-better-leather?utm_medium=rss)
+ - [Apple clarifies conditions for App Store app removal, extends update deadline to 90 days](https://appleinsider.com/articles/22/04/30/apple-clarifies-conditions-for-app-store-app-removal-extends-update-deadline-to-90-days?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-430-3159467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
