@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 Beta hands-on: It’s a little hard to get excited about](https://www.androidauthority.com/android-13-review-3157410/)
- - [The Queen Conch’s Gambit](https://www.wired.com/story/the-queen-conchs-gambit)
- - [This Radar-Equipped Bike Warns You of Oncoming Traffic ... Kinda](https://www.wired.com/review/cannondale-synapse-smartsense)<!-- TECH:END -->
+ - [The latest Pixel Watch spec rumors show Google’s trying to make a flagship](https://www.theverge.com/2022/4/30/23049490/pixel-watch-leaked-battery-specs-cellular-models-flagship)
+ - [One of the Most Powerful DDoS Attacks Ever Hits a Crypto Platform](https://www.wired.com/story/ddos-attack-botnet-crypto-platform)
+ - [FBI Conducted 3.4 Million Warrantless Searches of Americans&#39; Data](https://www.wired.com/story/fbi-warrantless-searches-americans-2021-security-roundup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
