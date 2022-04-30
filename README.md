@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says apps that haven&#39;t been updated in past three years and have low downloads will be removed from App Store, extends time to update from 30 to 90 days &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/220430/p1#a220430p1)
- - [How to loop videos on YouTube](https://www.androidauthority.com/loop-videos-youtube-3158098/)
- - [Apple teases Skywalker Sound featurette ahead of Star Wars Day](https://appleinsider.com/articles/22/04/30/apple-teases-skywalker-sound-featurette-ahead-of-star-wars-day?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Twitter, frustrations have mounted about Elon Musk&#39;s moderation plans, ahead of elections in Brazil and the midterm election in the US &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220430/p3#a220430p3)
+ - [Google begins work on a new campus spread over a 7.3 acre site in Hyderabad, India, which will be its largest campus outside its headquarters in Mountain View &lpar;The New Indian Express&rpar;](http://www.techmeme.com/220430/p2#a220430p2)
+ - [Realme’s mini tablet is the right idea with the wrong execution](https://www.androidauthority.com/realme-pad-mini-review-3158499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
