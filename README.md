@@ -183,9 +183,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tiny Tina’s Wonderlands Coolest Zone Is Easy To Miss](https://kotaku.com/tiny-tina-s-wonderlands-tangledrift-jack-beanstalk-pc-x-1848851012)
  - [Dorfromantik’s masterful minimalism will soothe your soul](https://www.polygon.com/reviews/23049119/dorfromantik-review-1-0-update)
- - [Final Fantasy VII Remake Mod Gives Barret A Classic Amano Makeover](https://kotaku.com/final-fantasy-7-ff7-remake-barret-wallace-mod-yoshitaka-1848861644)
- - [Bungie Sees Multiple Claims Against Destiny Cheat Seller Dismissed In Federal Court](https://kotaku.com/bungie-destiny-court-cheats-aimjunkies-dismiss-copyrigh-1848862237)<!-- GAME:END -->
+ - [Final Fantasy VII Remake Mod Gives Barret A Classic Amano Makeover](https://kotaku.com/final-fantasy-7-ff7-remake-barret-wallace-mod-yoshitaka-1848861644)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
