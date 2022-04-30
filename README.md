@@ -190,9 +190,9 @@ Windows                  1 hr 45 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Pixel Watch spec rumors show Google’s trying to make a flagship](https://www.theverge.com/2022/4/30/23049490/pixel-watch-leaked-battery-specs-cellular-models-flagship)
- - [One of the Most Powerful DDoS Attacks Ever Hits a Crypto Platform](https://www.wired.com/story/ddos-attack-botnet-crypto-platform)
- - [FBI Conducted 3.4 Million Warrantless Searches of Americans&#39; Data](https://www.wired.com/story/fbi-warrantless-searches-americans-2021-security-roundup)<!-- TECH:END -->
+ - [Apple&#39;s Self Repair Program toolkit - Hands on with what&#39;s inside](https://appleinsider.com/articles/22/04/30/apples-self-repair-program-toolkit---hands-on-with-whats-inside?utm_medium=rss)
+ - [From Samsung to Google, you won’t find these features on your traditional camera](https://www.androidauthority.com/smartphone-photography-features-3154003/)
+ - [Nomad Internet Review: Keeping You Connected With a Wireless, Cellular Setup     - CNET](https://www.cnet.com/home/internet/nomad-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
