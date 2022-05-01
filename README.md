@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay then](http://9gag.com/gag/aeg79ep)
- - 🚯 [This hurt my brain](http://9gag.com/gag/aAGOyj9)
- - 🚯 [Y&#39;all not clown but a circus](http://9gag.com/gag/a91OzEL)<!-- MEMES:END -->
+ - 🚖 [This hurt my brain](http://9gag.com/gag/aAGOyj9)
+ - 🚯 [Y&#39;all not clown but a circus](http://9gag.com/gag/a91OzEL)
+ - 🚯 [Chinese medical staff forcibly broke into people&#39;s homes to take them to camps](http://9gag.com/gag/aggEm3W)<!-- MEMES:END -->
 
 --- 
 
