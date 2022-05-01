@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The good ending](http://9gag.com/gag/aE8OgMx)
- - 🚯 [She was arrested before, for hitting a girlfriend](http://9gag.com/gag/a71pwyw)
+ - 🚖 [Flipping eggs &lpar;successfully&rpar;](http://9gag.com/gag/aggE5Rg)
+ - 🚯 [Paris today, farmers strike due to high prices](http://9gag.com/gag/ay9YXyr)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
