@@ -200,7 +200,7 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This is going to make you cry, no matter how tough you are. Watch this incredible moment when a father of four hears silence for the first time.](http://9gag.com/gag/aOQRQ8y)
- - 🚯 [Star wars trading card game is a joke](http://9gag.com/gag/a11Err6)
+ - 🚯 [Insane drone footage from yesterday in Kansas](http://9gag.com/gag/a91OE5o)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
