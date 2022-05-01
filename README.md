@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swvl, a booking platform for private buses that went public via a SPAC merger in March, acquires on-demand coach service Zeelo, sources say for ~$100M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220501/p1#a220501p1)
- - [Sources: Google&#39;s upcoming Pixel Watch will be powered by a 300mAh battery and will support cellular connectivity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220430/p10#a220430p10)
- - [How to see who subscribes to you on YouTube](https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/)<!-- TECH:END -->
+ - [Sense, which uses AI to provide homeowners with real-time data on home energy use, raises a $105M Series C led by Blue Earth Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220501/p3#a220501p3)
+ - [DeFi lender Rari Capital, which merged with Fei Protocol in December, loses ~$80M in a hack that exploited a reentrancy vulnerability in Rari&#39;s Fuse protocol &lpar;CoinDesk&rpar;](http://www.techmeme.com/220501/p2#a220501p2)
+ - [Swvl, a booking platform for private buses that went public via a SPAC merger in March, acquires on-demand coach service Zeelo, sources say for ~$100M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220501/p1#a220501p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
