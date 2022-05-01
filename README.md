@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They live](http://9gag.com/gag/aDDOg4d)
- - 🚯 [Plant life matters now](http://9gag.com/gag/aE8OPbp)
+ - 🚖 [Hell yeah... astrology!](http://9gag.com/gag/awzYBOy)
+ - 🚯 [Saturn through 6 inch telescope](http://9gag.com/gag/azeYmrz)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
