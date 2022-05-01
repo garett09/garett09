@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every new movie and show coming to Disney Plus in May](https://www.polygon.com/entertainment/23044818/disney-plus-new-movies-tv-watch-may-2022)
  - [Every movie and show coming to Netflix in May](https://www.polygon.com/entertainment/23044810/new-netflix-movies-tv-shows-watch-may-2022)
- - [Today&#39;s Wordle answer #316: Sunday, May 1](https://www.pcgamer.com/wordle-may-1-316-forgo-definition)
- - [This D&amp;D campaign has been running for 40 years](https://www.pcgamer.com/this-dandd-campaign-has-been-running-for-40-years)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #316: Sunday, May 1](https://www.pcgamer.com/wordle-may-1-316-forgo-definition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
