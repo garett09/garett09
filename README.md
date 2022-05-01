@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But tbh most men I know can cook, while most women I know can&#39;t cook](http://9gag.com/gag/a61jEjA)
- - 🚯 [One touch .. \u26bd\ufe0f](http://9gag.com/gag/axBYMrD)
+ - 🚖 [One touch .. \u26bd\ufe0f](http://9gag.com/gag/axBYMrD)
+ - 🚯 [Squirrel tastes almonds for the first time](http://9gag.com/gag/a31bE8N)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
