@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be late to the smart display game, but that’s OK](https://www.androidauthority.com/apple-smart-display-3157406/)
- - [Self repair launches, Twitter sells, and Studio Display isn&#39;t fixed - April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
- - [Best Personal Loans for Bad Credit for May 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-personal-loans-for-bad-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Jony Ive&#39;s evolving responsibilities and his frustrations at Apple, which eventually led to his departure, adapted from the book &quot;After Steve&quot; &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220501/p9#a220501p9)
+ - [Sennheiser CX True Wireless review: Jack of all buds](https://www.androidauthority.com/sennheiser-cx-true-wireless-review-3158737/)
+ - [Apple may be late to the smart display game, but that’s OK](https://www.androidauthority.com/apple-smart-display-3157406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
