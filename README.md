@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classic Blunder](http://9gag.com/gag/a21L7XZ)
- - 🚯 [It&#39;s all about where you put em&#39; in the shirt](http://9gag.com/gag/a51q1Xo)
- - 🚯 [Grandpa made this table all by himself, from literal scratch. He cut down the trees, made his own plank saw, cut the planks and blocks, and assembled and decorated the table. From tree to table, all by his hand.](http://9gag.com/gag/aKmOE6j)<!-- MEMES:END -->
+ - 🚖 [Once a simp, always a simp](http://9gag.com/gag/a0ZMZ5Q)
+ - 🚯 [Government trying to stop Inflation](http://9gag.com/gag/aM4OE6G)
+ - 🚯 [Direction lost](http://9gag.com/gag/abgQvrL)<!-- MEMES:END -->
 
 --- 
 
