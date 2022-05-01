@@ -194,7 +194,7 @@ Windows                  3 hrs 58 mins       ███████████�
 <!-- TECH:START -->
  - [Apple may be late to the smart display game, but that’s OK](https://www.androidauthority.com/apple-smart-display-3157406/)
  - [Self repair launches, Twitter sells, and Studio Display isn&#39;t fixed - April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
- - [CommandBar, an in-app search and navigation tool that lets web apps personalize user onboarding and offer shortcuts for common actions, raises a $19M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p8#a220501p8)<!-- TECH:END -->
+ - [Best Personal Loans for Bad Credit for May 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-personal-loans-for-bad-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
