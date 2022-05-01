@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wikimedia Foundation has stopped accepting cryptocurrency donations](https://www.theverge.com/2022/5/1/23052309/wikimedia-foundation-stops-cryptocurrency-donations-wikipedia)
- - [The Fisher-Price baby’s first gamepad has just been modded to play Elden Ring](https://www.theverge.com/2022/5/1/23051545/fisher-price-toy-baby-gamepad-real-xbox-controller-rudeism-elden-ring)
- - [Cogni, a digital bank aimed at users aged 18-to-35 with plans to launch crypto and Web3-focused banking services, raises a $23M Series A &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220501/p10#a220501p10)<!-- TECH:END -->
+ - [Family alleges AirTag was used to stalk mother and daughter on Disney World trip](https://appleinsider.com/articles/22/05/01/airtag-used-to-stalk-mother-and-daughter-on-disney-world-trip?utm_medium=rss)
+ - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
+ - [The Wikimedia Foundation has stopped accepting cryptocurrency donations](https://www.theverge.com/2022/5/1/23052309/wikimedia-foundation-stops-cryptocurrency-donations-wikipedia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
