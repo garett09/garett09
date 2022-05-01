@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s fallen rivals revisited: Windows 10 Mobile](https://www.androidauthority.com/windows-10-mobile-android-rivals-3097640/)
- - [How to Remove Your Personal Info From Google&#39;s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results)
- - [How to Use Windows Security to Keep Your PC Protected](https://www.wired.com/story/how-to-use-windows-security)<!-- TECH:END -->
+ - [RIP Google Pixel 3a — A modern classic that deserves a longer run](https://www.androidauthority.com/google-pixel-3a-updates-3157399/)
+ - [An Antimatter Experiment Shows Surprises Near Absolute Zero](https://www.wired.com/story/an-antimatter-experiment-shows-surprises-near-absolute-zero)
+ - [The Skydio 2+ Drone Lets You Fly Like a Pro](https://www.wired.com/review/skydio-2-plus-drone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
