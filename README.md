@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sense, which uses AI to provide homeowners with real-time data on home energy use, raises a $105M Series C led by Blue Earth Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220501/p3#a220501p3)
- - [DeFi lender Rari Capital, which merged with Fei Protocol in December, loses ~$80M in a hack that exploited a reentrancy vulnerability in Rari&#39;s Fuse protocol &lpar;CoinDesk&rpar;](http://www.techmeme.com/220501/p2#a220501p2)
- - [Swvl, a booking platform for private buses that went public via a SPAC merger in March, acquires on-demand coach service Zeelo, sources say for ~$100M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220501/p1#a220501p1)<!-- TECH:END -->
+ - [Adept, which aims to build AI systems that can understand and automate any software process, emerges from stealth with $65M led by Greylock and Addition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p5#a220501p5)
+ - [Utah-based Strider, whose software helps organizations and governments protect IP, talent, and supply chains from nation-state threats, raises a $45M Series B &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220501/p4#a220501p4)
+ - [Sense, which uses AI to provide homeowners with real-time data on home energy use, raises a $105M Series C led by Blue Earth Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220501/p3#a220501p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
