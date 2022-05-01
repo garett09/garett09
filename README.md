@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP Google Pixel 3a — A modern classic that deserves a longer run](https://www.androidauthority.com/google-pixel-3a-updates-3157399/)
- - [An Antimatter Experiment Shows Surprises Near Absolute Zero](https://www.wired.com/story/an-antimatter-experiment-shows-surprises-near-absolute-zero)
- - [The Skydio 2+ Drone Lets You Fly Like a Pro](https://www.wired.com/review/skydio-2-plus-drone)<!-- TECH:END -->
+ - [Breathe Easy—We Found the Best Air Purifiers](https://www.wired.com/gallery/best-air-purifiers)
+ - [Share Your Memories With Our Favorite Digital Picture Frames](https://www.wired.com/gallery/best-digital-picture-frames)
+ - [Daily deals May 1: $80 SanDisk Extreme 1TB SSD, $99 AirPods, $20 Amazon Fire TV Light, more](https://appleinsider.com/articles/22/05/01/daily-deals-may-1-80-sandisk-extreme-1tb-ssd-99-airpods-20-amazon-fire-tv-light-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
