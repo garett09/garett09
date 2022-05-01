@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flipping eggs &lpar;successfully&rpar;](http://9gag.com/gag/aggE5Rg)
- - 🚯 [Paris today, farmers strike due to high prices](http://9gag.com/gag/ay9YXyr)
+ - 🚖 [Hell yeah... astrology!](http://9gag.com/gag/awzYBOy)
+ - 🚯 [Rule Britannia](http://9gag.com/gag/aeg75V5)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
