@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell yeah... astrology!](http://9gag.com/gag/awzYBOy)
- - 🚯 [Rule Britannia](http://9gag.com/gag/aeg75V5)
+ - 🚖 [Flipping eggs &lpar;successfully&rpar;](http://9gag.com/gag/aggE5Rg)
+ - 🚯 [Its so simple](http://9gag.com/gag/a51qMYV)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
