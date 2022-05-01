@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Government trying to stop Inflation](http://9gag.com/gag/aM4OE6G)
- - 🚯 [Okay then](http://9gag.com/gag/aeg79ep)
- - 🚯 [I was there, 3 megabytes of Ram ago...](http://9gag.com/gag/aE8OqoK)<!-- MEMES:END -->
+ - 🚖 [Okay then](http://9gag.com/gag/aeg79ep)
+ - 🚯 [This hurt my brain](http://9gag.com/gag/aAGOyj9)
+ - 🚯 [Y&#39;all not clown but a circus](http://9gag.com/gag/a91OzEL)<!-- MEMES:END -->
 
 --- 
 
