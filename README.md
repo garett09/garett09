@@ -200,7 +200,7 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How NOT to transport wooden poles? Best not to start with a 4-door sedan at all if memory serves me.](http://9gag.com/gag/ajgWmg1)
- - 🚯 [Plant life matters now](http://9gag.com/gag/aE8OPbp)
+ - 🚯 [This &#39;battery swap&#39; station for electric scooters in Taiwan.](http://9gag.com/gag/apgYG8W)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
