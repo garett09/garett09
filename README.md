@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [LudoNarraCon, the online convention for story-games, returns on May 5](https://www.pcgamer.com/ludonarracon-the-online-convention-for-story-games-returns-on-may-5)
  - [The Long Dark&#39;s getting paid DLC updates for survival mode](https://www.pcgamer.com/the-long-darks-getting-paid-dlc-updates-for-survival-mode)
- - [Valheim&#39;s mistlands tease some ancient, bronze bound stone ruins](https://www.pcgamer.com/valheims-mistlands-tease-some-ancient-bronze-bound-stone-ruins)
- - [Be a cat, wander a neon city in Stray when it releases this summer](https://www.pcgamer.com/be-a-cat-wander-a-neon-city-in-stray-when-it-releases-this-summer)<!-- GAME:END -->
+ - [Valheim&#39;s mistlands tease some ancient, bronze bound stone ruins](https://www.pcgamer.com/valheims-mistlands-tease-some-ancient-bronze-bound-stone-ruins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
