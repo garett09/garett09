@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week in PC Gaming: Oaken, Warhammer 40,000: Chaos Gate - Daemonhunters and Trek to Yomi](https://www.pcgamer.com/this-week-in-pc-gaming-oaken-warhammer-40000-chaos-gate-daemonhunters-trek-to-yomi)
  - [Genshin Impact 2.7 is indefinitely delayed](https://www.pcgamer.com/genshin-impact-27-is-indefinitely-delayed)
- - [The Wachowskis’ erotic thriller Bound and 12 more great movies new to streaming in May](https://www.polygon.com/what-to-watch/23041266/best-new-movies-netflix-hbo-hulu-may-2022)
- - [Every new movie and show coming to Disney Plus in May](https://www.polygon.com/entertainment/23044818/disney-plus-new-movies-tv-watch-may-2022)<!-- GAME:END -->
+ - [The Wachowskis’ erotic thriller Bound and 12 more great movies new to streaming in May](https://www.polygon.com/what-to-watch/23041266/best-new-movies-netflix-hbo-hulu-may-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
