@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time for phones to embrace fun materials again](https://www.androidauthority.com/fun-phone-materials-3158627/)
- - [Kuo: Apple Watch Series 8 will gain body temperature sensing if its algorithm works](https://appleinsider.com/articles/22/05/01/kuo-apple-watch-series-8-will-gain-body-temperature-sensing-if-its-algorithm-works?utm_medium=rss)
- - [Breathe Easy—We Found the Best Air Purifiers](https://www.wired.com/gallery/best-air-purifiers)<!-- TECH:END -->
+ - [CommandBar, an in-app search and navigation tool that lets web apps personalize user onboarding and offer shortcuts for common actions, raises a $19M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p8#a220501p8)
+ - [Amazon ends its PTO policy for workers with COVID-19](https://www.theverge.com/2022/5/1/23051891/amazon-ends-pto-policy-workers-covid-19)
+ - [Amazon Shaves $20 Off Its Price on the Top-Rated Beats Fit Pro     - CNET](https://www.cnet.com/tech/mobile/treat-your-ears-to-a-set-of-beats-fit-pro-for-the-lowest-price-yet-at-just-153/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
