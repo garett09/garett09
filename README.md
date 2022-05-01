@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yuga Labs raises ~$320M by selling virtual land in its Otherside metaverse, causing ripple effects across the Ethereum blockchain; gas fees have skyrocketed &lpar;Bloomberg&rpar;](http://www.techmeme.com/220501/p6#a220501p6)
- - [Adept, which aims to build AI systems that can understand and automate any software process, emerges from stealth with $65M led by Greylock and Addition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p5#a220501p5)
- - [Utah-based Strider, whose software helps organizations and governments protect IP, talent, and supply chains from nation-state threats, raises a $45M Series B &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220501/p4#a220501p4)<!-- TECH:END -->
+ - [Android’s fallen rivals revisited: Windows 10 Mobile](https://www.androidauthority.com/windows-10-mobile-android-rivals-3097640/)
+ - [How to Remove Your Personal Info From Google&#39;s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results)
+ - [How to Use Windows Security to Keep Your PC Protected](https://www.wired.com/story/how-to-use-windows-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
