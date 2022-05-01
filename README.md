@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CommandBar, an in-app search and navigation tool that lets web apps personalize user onboarding and offer shortcuts for common actions, raises a $19M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p8#a220501p8)
- - [Amazon ends its PTO policy for workers with COVID-19](https://www.theverge.com/2022/5/1/23051891/amazon-ends-pto-policy-workers-covid-19)
- - [Amazon Shaves $20 Off Its Price on the Top-Rated Beats Fit Pro     - CNET](https://www.cnet.com/tech/mobile/treat-your-ears-to-a-set-of-beats-fit-pro-for-the-lowest-price-yet-at-just-153/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may be late to the smart display game, but that’s OK](https://www.androidauthority.com/apple-smart-display-3157406/)
+ - [Self repair launches, Twitter sells, and Studio Display isn&#39;t fixed - April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
+ - [CommandBar, an in-app search and navigation tool that lets web apps personalize user onboarding and offer shortcuts for common actions, raises a $19M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220501/p8#a220501p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
