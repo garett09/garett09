@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell yeah... astrology!](http://9gag.com/gag/awzYBOy)
- - 🚯 [Saturn through 6 inch telescope](http://9gag.com/gag/azeYmrz)
+ - 🚖 [How NOT to transport wooden poles? Best not to start with a 4-door sedan at all if memory serves me.](http://9gag.com/gag/ajgWmg1)
+ - 🚯 [Plant life matters now](http://9gag.com/gag/aE8OPbp)
  - 🚯 [What&#39;s a crypto universe like?](http://9gag.com/gag/awzYX3r)<!-- MEMES:END -->
 
 --- 
