@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts raise concerns about the use of a predictive child welfare algorithm in Allegheny County, PA, and its potential to harden racial disparity in the system &lpar;Associated Press&rpar;](http://www.techmeme.com/220430/p9#a220430p9)
- - [Best Air Purifier Deals: HoMedics, Coway, Honeywell and More     - CNET](https://www.cnet.com/home/energy-and-utilities/best-air-purifier-deals/#ftag=CAD590a51e)
- - [Best Cash-Back Credit Cards for May 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-cash-back-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to see who subscribes to you on YouTube](https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/)
+ - [Best Life Insurance Companies for May 2022     - CNET](https://www.cnet.com/personal-finance/insurance/life/best-life-insurance-companies/#ftag=CAD590a51e)
+ - [Best OLED TV Deals: Save $1,125 on 65-Inch Sony, 55-Inch LG Under $1,000     - CNET](https://www.cnet.com/tech/home-entertainment/best-oled-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
