@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Jony Ive&#39;s evolving responsibilities and his frustrations at Apple, which eventually led to his departure, adapted from the book &quot;After Steve&quot; &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220501/p9#a220501p9)
- - [Sennheiser CX True Wireless review: Jack of all buds](https://www.androidauthority.com/sennheiser-cx-true-wireless-review-3158737/)
- - [Apple may be late to the smart display game, but that’s OK](https://www.androidauthority.com/apple-smart-display-3157406/)<!-- TECH:END -->
+ - [Bored Ape Yacht Club creator’s metaverse mint rocks the Ethereum blockchain](https://www.theverge.com/2022/5/1/23051974/bored-ape-yacht-club-metaverse-mint-rocked-ethereum-blockchain-otherside-otherdeeds-yuga-labs)
+ - [Jony Ive&#39;s exit from Apple caused by company culture changes and growing frustration](https://appleinsider.com/articles/22/05/01/jony-ives-exit-from-apple-caused-by-company-culture-changes-and-growing-frustration?utm_medium=rss)
+ - [A look at Jony Ive&#39;s evolving responsibilities and his frustrations at Apple, which eventually led to his departure, adapted from the book &quot;After Steve&quot; &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220501/p9#a220501p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
