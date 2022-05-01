@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once a simp, always a simp](http://9gag.com/gag/a0ZMZ5Q)
- - 🚯 [Government trying to stop Inflation](http://9gag.com/gag/aM4OE6G)
+ - 🚖 [Going to the orphanage](http://9gag.com/gag/aNPOP76)
+ - 🚯 [Comparison of three infrared telescope.. JWST is too powerful](http://9gag.com/gag/aWgDGwZ)
  - 🚯 [Direction lost](http://9gag.com/gag/abgQvrL)<!-- MEMES:END -->
 
 --- 
