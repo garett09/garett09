@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to see who subscribes to you on YouTube](https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/)
- - [Best Life Insurance Companies for May 2022     - CNET](https://www.cnet.com/personal-finance/insurance/life/best-life-insurance-companies/#ftag=CAD590a51e)
- - [Best OLED TV Deals: Save $1,125 on 65-Inch Sony, 55-Inch LG Under $1,000     - CNET](https://www.cnet.com/tech/home-entertainment/best-oled-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Swvl, a booking platform for private buses that went public via a SPAC merger in March, acquires on-demand coach service Zeelo, sources say for ~$100M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220501/p1#a220501p1)
+ - [Sources: Google&#39;s upcoming Pixel Watch will be powered by a 300mAh battery and will support cellular connectivity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220430/p10#a220430p10)
+ - [How to see who subscribes to you on YouTube](https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
