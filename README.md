@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This D&amp;D campaign has been running for 40 years](https://www.pcgamer.com/this-dandd-campaign-has-been-running-for-40-years)
  - [LudoNarraCon, the online convention for story-games, returns on May 5](https://www.pcgamer.com/ludonarracon-the-online-convention-for-story-games-returns-on-may-5)
- - [The Long Dark&#39;s getting paid DLC updates for survival mode](https://www.pcgamer.com/the-long-darks-getting-paid-dlc-updates-for-survival-mode)
- - [Valheim&#39;s mistlands tease some ancient, bronze bound stone ruins](https://www.pcgamer.com/valheims-mistlands-tease-some-ancient-bronze-bound-stone-ruins)<!-- GAME:END -->
+ - [The Long Dark&#39;s getting paid DLC updates for survival mode](https://www.pcgamer.com/the-long-darks-getting-paid-dlc-updates-for-survival-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
