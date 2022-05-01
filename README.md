@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Long Dark&#39;s getting paid DLC updates for survival mode](https://www.pcgamer.com/the-long-darks-getting-paid-dlc-updates-for-survival-mode)
  - [Valheim&#39;s mistlands tease some ancient, bronze bound stone ruins](https://www.pcgamer.com/valheims-mistlands-tease-some-ancient-bronze-bound-stone-ruins)
- - [Be a cat, wander a neon city in Stray when it releases this summer](https://www.pcgamer.com/be-a-cat-wander-a-neon-city-in-stray-when-it-releases-this-summer)
- - [Total War: Warhammer 3&#39;s Immortal Empires DLC is still a fair way off](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-still-a-fair-way-off)<!-- GAME:END -->
+ - [Be a cat, wander a neon city in Stray when it releases this summer](https://www.pcgamer.com/be-a-cat-wander-a-neon-city-in-stray-when-it-releases-this-summer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
