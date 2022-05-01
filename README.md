@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay then](http://9gag.com/gag/aeg79ep)
- - 🚯 [Bought a small piece of land in countryside. I just realized that big cities were triggering my anxiety all the time. Never felt so calm and peaceful.](http://9gag.com/gag/amgpgMd)
- - 🚯 [Our Japanese bros arriving to help. God bless.](http://9gag.com/gag/aKmOGo1)<!-- MEMES:END -->
+ - 🚖 [In a darker time line](http://9gag.com/gag/aNPOLzA)
+ - 🚯 [Okay then](http://9gag.com/gag/aeg79ep)
+ - 🚯 [I think I finally know why my train is late. It&#39;s the weather, isn&#39;t it? Not the best weather for trains.](http://9gag.com/gag/ajgWV9w)<!-- MEMES:END -->
 
 --- 
 
