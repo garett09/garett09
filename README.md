@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week in PC Gaming: Oaken, Warhammer 40,000: Chaos Gate - Daemonhunters and Trek to Yomi](https://www.pcgamer.com/this-week-in-pc-gaming-oaken-warhammer-40000-chaos-gate-daemonhunters-trek-to-yomi)
- - [Genshin Impact 2.7 is indefinitely delayed](https://www.pcgamer.com/genshin-impact-27-is-indefinitely-delayed)
- - [The Wachowskis’ erotic thriller Bound and 12 more great movies new to streaming in May](https://www.polygon.com/what-to-watch/23041266/best-new-movies-netflix-hbo-hulu-may-2022)<!-- GAME:END -->
+ - [Stardew Valley mods for grandpa’s bed are getting out of control](https://www.polygon.com/23048944/stardew-valley-grandpa-bed-meme-mods)
+ - [Sentry is an upcoming wave defense FPS about alien hordes invading your spaceship](https://www.pcgamer.com/sentry-is-an-upcoming-wave-defense-fps-about-alien-hordes-invading-your-spaceship)
+ - [This Week in PC Gaming: Oaken, Warhammer 40,000: Chaos Gate - Daemonhunters and Trek to Yomi](https://www.pcgamer.com/this-week-in-pc-gaming-oaken-warhammer-40000-chaos-gate-daemonhunters-trek-to-yomi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
