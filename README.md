@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breathe Easy—We Found the Best Air Purifiers](https://www.wired.com/gallery/best-air-purifiers)
- - [Share Your Memories With Our Favorite Digital Picture Frames](https://www.wired.com/gallery/best-digital-picture-frames)
- - [Daily deals May 1: $80 SanDisk Extreme 1TB SSD, $99 AirPods, $20 Amazon Fire TV Light, more](https://appleinsider.com/articles/22/05/01/daily-deals-may-1-80-sandisk-extreme-1tb-ssd-99-airpods-20-amazon-fire-tv-light-more?utm_medium=rss)<!-- TECH:END -->
+ - [It’s time for phones to embrace fun materials again](https://www.androidauthority.com/fun-phone-materials-3158627/)
+ - [Kuo: Apple Watch Series 8 will gain body temperature sensing if its algorithm works](https://appleinsider.com/articles/22/05/01/kuo-apple-watch-series-8-will-gain-body-temperature-sensing-if-its-algorithm-works?utm_medium=rss)
+ - [Breathe Easy—We Found the Best Air Purifiers](https://www.wired.com/gallery/best-air-purifiers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
