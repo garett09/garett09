@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag used to stalk mother and daughter on Disney World trip](https://appleinsider.com/articles/22/05/01/airtag-used-to-stalk-mother-and-daughter-on-disney-world-trip?utm_medium=rss)
  - [&#39;Moon Knight&#39; Episode 5 Recap: Dark Ending, Steven&#39;s Fate Explained     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-5-recap-dark-ending-steven-fate-explained/#ftag=CAD590a51e)
- - [Best PS4 Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CAD590a51e)
- - [Best monitor for MacBook Pro 2022: Apple, Dell, LG, more](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Best PS4 Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
