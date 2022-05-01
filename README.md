@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bored Ape Yacht Club creator’s metaverse mint rocks the Ethereum blockchain](https://www.theverge.com/2022/5/1/23051974/bored-ape-yacht-club-metaverse-mint-rocked-ethereum-blockchain-otherside-otherdeeds-yuga-labs)
- - [Jony Ive&#39;s exit from Apple caused by company culture changes and growing frustration](https://appleinsider.com/articles/22/05/01/jony-ives-exit-from-apple-caused-by-company-culture-changes-and-growing-frustration?utm_medium=rss)
- - [A look at Jony Ive&#39;s evolving responsibilities and his frustrations at Apple, which eventually led to his departure, adapted from the book &quot;After Steve&quot; &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220501/p9#a220501p9)<!-- TECH:END -->
+ - [&#39;Moon Knight&#39; Episode 5 Recap: Dark Ending, Steven&#39;s Fate Explained     - CNET](https://www.cnet.com/culture/entertainment/moon-knight-episode-5-recap-dark-ending-steven-fate-explained/#ftag=CAD590a51e)
+ - [Best PS4 Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CAD590a51e)
+ - [Best monitor for MacBook Pro 2022: Apple, Dell, LG, more](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
