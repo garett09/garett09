@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In a darker time line](http://9gag.com/gag/aNPOLzA)
+ - 🚖 [Government trying to stop Inflation](http://9gag.com/gag/aM4OE6G)
  - 🚯 [Okay then](http://9gag.com/gag/aeg79ep)
- - 🚯 [I think I finally know why my train is late. It&#39;s the weather, isn&#39;t it? Not the best weather for trains.](http://9gag.com/gag/ajgWV9w)<!-- MEMES:END -->
+ - 🚯 [I was there, 3 megabytes of Ram ago...](http://9gag.com/gag/aE8OqoK)<!-- MEMES:END -->
 
 --- 
 
