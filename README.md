@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Direction lost](http://9gag.com/gag/abgQvrL)
- - 🚯 [Grandpa made this table all by himself, from literal scratch. He cut down the trees, made his own plank saw, cut the planks and blocks, and assembled and decorated the table. From tree to table, all by his hand.](http://9gag.com/gag/aKmOE6j)
- - 🚯 [Bought a small piece of land in countryside. I just realized that big cities were triggering my anxiety all the time. Never felt so calm and peaceful.](http://9gag.com/gag/amgpgMd)<!-- MEMES:END -->
+ - 🚖 [Okay then](http://9gag.com/gag/aeg79ep)
+ - 🚯 [Bought a small piece of land in countryside. I just realized that big cities were triggering my anxiety all the time. Never felt so calm and peaceful.](http://9gag.com/gag/amgpgMd)
+ - 🚯 [Our Japanese bros arriving to help. God bless.](http://9gag.com/gag/aKmOGo1)<!-- MEMES:END -->
 
 --- 
 
