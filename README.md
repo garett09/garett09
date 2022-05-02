@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what you would be hearing inside the car!! Don\u2019t be like Samy, you will reck the car!!!!](http://9gag.com/gag/a31bGee)
- - 🚯 [Time to clean out my subscriptions](http://9gag.com/gag/aqGYXwj)
- - 🚯 [No mere mortal birthday.](http://9gag.com/gag/abgQ1g8)<!-- MEMES:END -->
+ - 🚖 [Time to clean out my subscriptions](http://9gag.com/gag/aqGYXwj)
+ - 🚯 [No mere mortal birthday.](http://9gag.com/gag/abgQ1g8)
+ - 🚯 [Charizard.](http://9gag.com/gag/arn2Wj0)<!-- MEMES:END -->
 
 --- 
 
