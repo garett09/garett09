@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pirate&#39;s party when Johnny Depp wins. Who is in?](http://9gag.com/gag/aAGO6jE)
- - 🚯 [Friction welding](http://9gag.com/gag/azeYdLp)
- - 🚯 [In a darker time line](http://9gag.com/gag/aNPOLzA)<!-- MEMES:END -->
+ - 🚖 [This is what you would be hearing inside the car!! Don\u2019t be like Samy, you will reck the car!!!!](http://9gag.com/gag/a31bGee)
+ - 🚯 [Time to clean out my subscriptions](http://9gag.com/gag/aqGYXwj)
+ - 🚯 [No mere mortal birthday.](http://9gag.com/gag/abgQ1g8)<!-- MEMES:END -->
 
 --- 
 
