@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Store manager ask mother who refuses to discipline child to leave promptly commanded `You shut the f*ck up`.](http://9gag.com/gag/avAdeXX)
- - 🚯 [I&#39;m a lover not a fighter](http://9gag.com/gag/aGzOBwz)
- - 🚯 [Fakt](http://9gag.com/gag/ajgWLYR)<!-- MEMES:END -->
+ - 🚖 [No context video](http://9gag.com/gag/ajgWLnq)
+ - 🚯 [This Olympic archers accuracy](http://9gag.com/gag/aM4OmYW)
+ - 🚯 [Just act natural, doggo found a new friend](http://9gag.com/gag/aZrzwE9)<!-- MEMES:END -->
 
 --- 
 
