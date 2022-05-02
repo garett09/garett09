@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise MF](http://9gag.com/gag/aKmOWV6)
+ - 🚖 [Everyone needs some stability in life](http://9gag.com/gag/aRrOvAQ)
  - 🚯 [I am talking to you,you soulless b*stard](http://9gag.com/gag/a81KDv6)
- - 🚯 [Danish dude triees to burn the Koran in Sweden](http://9gag.com/gag/a11EDgG)<!-- MEMES:END -->
+ - 🚯 [Peace was never an option.](http://9gag.com/gag/aE8Oo8O)<!-- MEMES:END -->
 
 --- 
 
