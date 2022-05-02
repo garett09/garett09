@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This hurt my brain](http://9gag.com/gag/aAGOyj9)
- - 🚯 [Y&#39;all not clown but a circus](http://9gag.com/gag/a91OzEL)
- - 🚯 [Chinese medical staff forcibly broke into people&#39;s homes to take them to camps](http://9gag.com/gag/aggEm3W)<!-- MEMES:END -->
+ - 🚖 [Friction welding](http://9gag.com/gag/azeYdLp)
+ - 🚯 [HARRY POTTAH DID YA PUT YAH NAME IN THE GOBLET OF FIRE.](http://9gag.com/gag/aogYW6A)
+ - 🚯 [Azov Regiment unveils footage of the evacuation of civilians from the Azovstal factory in Mariupol](http://9gag.com/gag/a81KApp)<!-- MEMES:END -->
 
 --- 
 
