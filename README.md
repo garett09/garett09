@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thirsty stray wolf in the sahars](http://9gag.com/gag/ajgWxK8)
- - 🚯 [How am I supposed to do the sex if I&#39;m pushing rope?](http://9gag.com/gag/axBYR9M)
- - 🚯 [Football!](http://9gag.com/gag/apgYbMM)<!-- MEMES:END -->
+ - 🚖 [How am I supposed to do the sex if I&#39;m pushing rope?](http://9gag.com/gag/axBYR9M)
+ - 🚯 [You agree?](http://9gag.com/gag/a41W2M1)
+ - 🚯 [The risk was calculated but man I&#39;m bad at math !](http://9gag.com/gag/azeYO0K)<!-- MEMES:END -->
 
 --- 
 
