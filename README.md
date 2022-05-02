@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friction welding](http://9gag.com/gag/azeYdLp)
- - 🚯 [HARRY POTTAH DID YA PUT YAH NAME IN THE GOBLET OF FIRE.](http://9gag.com/gag/aogYW6A)
- - 🚯 [Azov Regiment unveils footage of the evacuation of civilians from the Azovstal factory in Mariupol](http://9gag.com/gag/a81KApp)<!-- MEMES:END -->
+ - 🚖 [Pirate&#39;s party when Johnny Depp wins. Who is in?](http://9gag.com/gag/aAGO6jE)
+ - 🚯 [Friction welding](http://9gag.com/gag/azeYdLp)
+ - 🚯 [In a darker time line](http://9gag.com/gag/aNPOLzA)<!-- MEMES:END -->
 
 --- 
 
