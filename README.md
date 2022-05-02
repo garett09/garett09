@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lel](http://9gag.com/gag/apgY6jp)
- - 🚯 [Guess I&#39;m not a functioning adult](http://9gag.com/gag/aOQRZj3)
- - 🚯 [The struggle is real](http://9gag.com/gag/a11EDGD)<!-- MEMES:END -->
+ - 🚖 [The struggle is real](http://9gag.com/gag/a11EDGD)
+ - 🚯 [Lel](http://9gag.com/gag/apgY6jp)
+ - 🚯 [Struggle is real](http://9gag.com/gag/a61j5q8)<!-- MEMES:END -->
 
 --- 
 
