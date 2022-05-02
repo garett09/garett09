@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [George MacKay ran a quarter of a mile to complete this take, and his falls on the field were unplanned. &lpar;1917&rpar;](http://9gag.com/gag/aQXO7Or)
- - 🚯 [Let\u2019s not forget Dior believed in JD and didn\u2019t let him fall, kudos Dior](http://9gag.com/gag/a51qzRL)
- - 🚯 [Man wrecks his car trying to run over some birds](http://9gag.com/gag/aXrK4xg)<!-- MEMES:END -->
+ - 🚖 [Everyone needs some stability in life](http://9gag.com/gag/aRrOvAQ)
+ - 🚯 [Sometimes i wish i was black. Ez Life.](http://9gag.com/gag/avAdxEX)
+ - 🚯 [Why is the air spicy?](http://9gag.com/gag/a91Omjo)<!-- MEMES:END -->
 
 --- 
 
