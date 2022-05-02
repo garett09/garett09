@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Twitter’s still-in-development edit button looks like](https://www.theverge.com/2022/5/2/23054193/twitter-edit-button-how-it-works-looks-like)
- - [How to See Rocket Lab Try to Catch a Booster in Midair With a Helicopter Today     - CNET](https://www.cnet.com/science/space/how-to-watch-rocket-lab-catch-a-booster-in-midair-with-a-helicopter-today/#ftag=CAD590a51e)
- - [After knocking out internet service in Kherson, an occupied Ukrainian territory, Russian forces reinstated service but rerouted it through Russia&#39;s Rostelecom &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220502/p23#a220502p23)<!-- TECH:END -->
+ - [Google says it will provide up to 500 employees of any US business $100K+ worth of online courses in data analytics, design, and other tech skills for free &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220502/p25#a220502p25)
+ - [How to add a link to your TikTok bio](https://www.androidauthority.com/add-link-to-tiktok-bio-3160087/)
+ - [Remote lockouts reportedly stop Russian troops from using stolen Ukrainian farm equipment](https://www.theverge.com/2022/5/2/23053944/russian-troops-steal-millions-farm-equipment-ukraine-disabled-remotely-john-deere)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
