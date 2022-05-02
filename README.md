@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian esports team booted from Dota 2 qualifier after player draws Z on the minimap](https://www.pcgamer.com/russian-esports-team-booted-from-dota-2-qualifier-after-player-draws-z-on-the-minimap)
- - [This claymation indie gem has become my new go-to party game](https://www.pcgamer.com/this-claymation-indie-gem-has-become-my-new-go-to-party-game)
- - [Riot wants to &#39;slow the pace of combat&#39; in League of Legends](https://www.pcgamer.com/riot-wants-to-slow-the-pace-of-combat-in-league-of-legends)<!-- GAME:END -->
+ - [Riders Republic Season 2: Showdown is Available Now](https://news.xbox.com/en-us/2022/05/02/riders-republic-season-2-showdown-is-available-now/)
+ - [This game tests the limits of cuteness with its round animals](https://www.polygon.com/23053439/squishmallows-cottagecore-cozy-game-deck-builder-roguelike)
+ - [Is Halo Infinite getting a battle royale mode?](https://www.pcgamer.com/halo-infinite-battle-royale-mode-tatanka)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
