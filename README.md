@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Family alleges AirTag was used to stalk mother and daughter on Disney World trip](https://appleinsider.com/articles/22/05/01/airtag-used-to-stalk-mother-and-daughter-on-disney-world-trip?utm_medium=rss)
- - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
- - [The Wikimedia Foundation has stopped accepting cryptocurrency donations](https://www.theverge.com/2022/5/1/23052309/wikimedia-foundation-stops-cryptocurrency-donations-wikipedia)<!-- TECH:END -->
+ - [iPhone Self Repair Program, Twitter, Studio Display webcam &#39;fix&#39; - April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
+ - [Apple&#39;s Q2 warning that supply shortages could hurt sales by up to $8B is a sign of overdependence on China for final device assembly, testing, and packaging &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220501/p12#a220501p12)
+ - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
