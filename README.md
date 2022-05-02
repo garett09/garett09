@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator is getting FSR support along with DLSS](https://www.pcgamer.com/microsoft-flight-simulator-is-getting-fsr-support-along-with-dlss)
- - [Dead Cells is getting accessibility features, including an assist mode](https://www.pcgamer.com/dead-cells-is-getting-accessibility-features-including-an-assist-mode)
- - [Now you can play Morrowind multiplayer and in VR](https://www.pcgamer.com/now-you-can-play-morrowind-multiplayer-and-in-vr)<!-- GAME:END -->
+ - [Pimax&#39;s 5k and 8k VR Headsets are going cheap in this flash sale](https://www.pcgamer.com/pimaxs-5k-and-8k-vr-headsets-are-going-cheap-in-this-flash-sale)
+ - [Next gen GPUs are set to offer dramatic compute performance gains](https://www.pcgamer.com/next-gen-gpus-are-set-to-offer-dramatic-compute-performance-gains)
+ - [Microsoft Flight Simulator is getting FSR support along with DLSS](https://www.pcgamer.com/microsoft-flight-simulator-is-getting-fsr-support-along-with-dlss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
