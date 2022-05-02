@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square Enix is selling Tomb Raider, Deus Ex, and its Western studios](https://www.theverge.com/2022/5/2/23053107/square-enix-tomb-raider-deus-ex-studio-sale-embracer-group)
- - [How to check your AirTags battery level one year after launch](https://appleinsider.com/articles/22/05/02/one-year-on-how-to-check-your-airtags-battery-level?utm_medium=rss)
- - [Lego plans to triple the number of software engineers on staff to 1,800 by 2023, with ~400 based in Copenhagen, and increase digital investments &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/220502/p14#a220502p14)<!-- TECH:END -->
+ - [EU accuses Apple of breaking antitrust laws with Apple Pay [u]](https://appleinsider.com/articles/22/05/02/eu-accuses-apple-of-breaking-antitrust-laws-with-apple-pay?utm_medium=rss)
+ - [Today I learned about the ‘secret’ Twitter DM inbox — here’s how to see it](https://www.theverge.com/2022/5/2/23053114/twitter-direct-messages-dm-request-filter-secret-inbox-til)
+ - [The Apple Music app is now available on Roku](https://appleinsider.com/articles/22/05/02/the-apple-music-app-is-now-available-on-roku?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
