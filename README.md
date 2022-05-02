@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Barry is whatever show Bill Hader decides it should be](https://www.polygon.com/23049143/bill-hader-barry-performance-episode)
- - [Players’ Choice: Vote for April 2022’s best new game](https://blog.playstation.com/2022/05/02/players-choice-vote-for-april-2022s-best-new-game/)
- - [Xbox Celebrates Asian and Pacific Islander Heritage Month by Supporting API Game Creators and Players](https://news.xbox.com/en-us/2022/05/02/celebrating-apihm-with-xbox/)<!-- GAME:END -->
+ - [It&#39;s Time To Bring Back Deus Ex](https://kotaku.com/deus-ex-mankind-divided-sequel-square-enix-embracer-gro-1848867820)
+ - [PlayStation Now games for May: Naruto Shippuden: Ultimate Ninja Storm 4, Soulcalibur VI,  Blasphemous](https://blog.playstation.com/2022/05/02/playstation-now-games-for-may-naruto-shippuden-ultimate-ninja-storm-4-soulcalibur-vi-blasphemous/)
+ - [PlayStation Now games for May: Naruto Shippuden: Ultimate Ninja Storm 4, Soulcalibur VI,  Blasphemous](https://blog.playstation.com/2022/05/02/playstation-now-games-for-may-naruto-shippuden-ultimate-ninja-storm-4-soulcalibur-vi-blasphemous/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
