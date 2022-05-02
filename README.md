@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fakt](http://9gag.com/gag/ajgWLYR)
- - 🚯 [Struggle is real](http://9gag.com/gag/a61j5q8)
- - 🚯 [Man wrecks his car trying to run over some birds](http://9gag.com/gag/aXrK4xg)<!-- MEMES:END -->
+ - 🚖 [Why are you running?!](http://9gag.com/gag/azeYGVN)
+ - 🚯 [I&#39;m a lover not a fighter](http://9gag.com/gag/aGzOBwz)
+ - 🚯 [Peace was never an option.](http://9gag.com/gag/aE8Oo8O)<!-- MEMES:END -->
 
 --- 
 
