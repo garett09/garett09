@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Minus the sugar baby](http://9gag.com/gag/a21L8oe)
- - 🚯 [How the times have changed.](http://9gag.com/gag/aQXOQdW)
- - 🚯 [The motivation behind Dubai and Darude Sand Storm](http://9gag.com/gag/a61jXZN)<!-- MEMES:END -->
+ - 🚖 [Store manager ask mother who refuses to discipline child to leave promptly commanded `You shut the f*ck up`.](http://9gag.com/gag/avAdeXX)
+ - 🚯 [Montreal performance](http://9gag.com/gag/a51q6Nq)
+ - 🚯 [Minus the sugar baby](http://9gag.com/gag/a21L8oe)<!-- MEMES:END -->
 
 --- 
 
