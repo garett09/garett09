@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Chonky Palmtop is one of the cutest DIY Pi machines yet](https://www.pcgamer.com/the-chonky-palmtop-is-one-of-the-cutest-diy-pi-machines-yet)
  - [Pimax&#39;s 5k and 8k VR Headsets are going cheap in this flash sale](https://www.pcgamer.com/pimaxs-5k-and-8k-vr-headsets-are-going-cheap-in-this-flash-sale)
- - [Next gen GPUs are set to offer dramatic compute performance gains](https://www.pcgamer.com/next-gen-gpus-are-set-to-offer-dramatic-compute-performance-gains)
- - [Microsoft Flight Simulator is getting FSR support along with DLSS](https://www.pcgamer.com/microsoft-flight-simulator-is-getting-fsr-support-along-with-dlss)<!-- GAME:END -->
+ - [Next gen GPUs are set to offer dramatic compute performance gains](https://www.pcgamer.com/next-gen-gpus-are-set-to-offer-dramatic-compute-performance-gains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
