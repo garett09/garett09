@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay is anticompetitive, says EU in preliminary ruling](https://www.theverge.com/2022/5/2/23048116/apple-pay-eu-antitrust-nfc-payment-wallet)
- - [MSI GS77 Stealth Proves Even Gamers Need More Than Raw Power](https://www.wired.com/review/msi-gs77-stealth-laptop)
- - [Give Fitbits &lpar;of Sorts&rpar; to the Trees](https://www.wired.com/story/give-fitbits-of-sorts-to-the-trees)<!-- TECH:END -->
+ - [Sources: location data of millions of Grindr users were collected from a digital ad network and sold since at least 2017; Grindr says it has cut the data flow &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220502/p10#a220502p10)
+ - [LinearB, which helps developers improve efficiency by providing engineering analytics and workflow optimization, raises a $50M Series B led by Tribe Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220502/p9#a220502p9)
+ - [Spain says its PM&#39;s and defense minister&#39;s phones were infected by NSO&#39;s Pegasus spyware in 2021, which will be investigated by Spain&#39;s highest criminal court &lpar;Sam Jones/The Guardian&rpar;](http://www.techmeme.com/220502/p8#a220502p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
