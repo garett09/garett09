@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Yo! MTV Raps is coming to Paramount Plus](https://www.theverge.com/2022/5/2/23053870/yo-mtv-raps-paramount-plus)
- - [Facebook is preparing to shutter its podcasts &amp; Soundbites initiatives](https://appleinsider.com/articles/22/05/02/facebook-is-preparing-to-shutter-its-podcasts-soundbites-initiatives?utm_medium=rss)
- - [The first 240W USB-C cables just broke cover](https://www.theverge.com/23053867/first-240w-usb-c-4-power-delivery-cables-20-40-gbps)<!-- TECH:END -->
+ - [Apple’s third-party payment proposal isn’t enough for Dutch regulators](https://www.theverge.com/2022/5/2/23053935/apple-app-store-acm-proposal-rejected-further-fines-dating-apps)
+ - [Department of Energy boosts domestic battery supply chain with billions in funding](https://www.theverge.com/2022/5/2/23053839/energy-department-battery-ev-clean-energy-supply-chain-biden)
+ - [Filing: Activision Blizzard CEO Bobby Kotick could walk away with ~$520M after Microsoft&#39;s deal, expected by 2023; Kotick owns 4.3M shares and can buy 2.2M more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220502/p22#a220502p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
