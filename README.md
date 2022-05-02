@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer co-founder and champion of the gaming mouse Robert &#39;RazerGuy&#39; Krakoff has died](https://www.pcgamer.com/razer-co-founder-and-champion-of-the-gaming-mouse-robert-razerguy-krakoff-has-died)
- - [Square Enix sells off Tomb Raider, Deus Ex IPs and the studios behind them](https://www.polygon.com/23053137/square-enix-embracer-eidos-crystal-dynamics-tomb-raider)
- - [A first look at free Eldest Souls expansion Depths of the Forgotten](https://blog.playstation.com/2022/05/02/a-first-look-at-free-eldest-souls-expansion-depths-of-the-forgotten/)<!-- GAME:END -->
+ - [Barry is whatever show Bill Hader decides it should be](https://www.polygon.com/23049143/bill-hader-barry-performance-episode)
+ - [Players’ Choice: Vote for April 2022’s best new game](https://blog.playstation.com/2022/05/02/players-choice-vote-for-april-2022s-best-new-game/)
+ - [Xbox Celebrates Asian and Pacific Islander Heritage Month by Supporting API Game Creators and Players](https://news.xbox.com/en-us/2022/05/02/celebrating-apihm-with-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
