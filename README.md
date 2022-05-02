@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Knotwords is a Genius Combination of Wordle and Crosswords     - CNET](https://www.cnet.com/culture/internet/knotwords-is-a-genius-combination-of-wordle-and-crosswords/#ftag=CAD590a51e)
  - [UFC 274 Charles Oliveira Vs. Justin Gaethje: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-274-charles-oliveira-vs-justin-gaethje-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
- - [Solana&#39;s network suffered another outage on Saturday, lasting seven hours, when NFT minting tool Candy Machine was hit with bots, leading to ~4M requests/second &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220501/p14#a220501p14)
- - [Study finds the US FAFSA application page shared users&#39; info, including names, zip codes, and email addresses, with Meta via the company&#39;s tracking pixel &lpar;The Markup&rpar;](http://www.techmeme.com/220501/p13#a220501p13)<!-- TECH:END -->
+ - [Solana&#39;s network suffered another outage on Saturday, lasting seven hours, when NFT minting tool Candy Machine was hit with bots, leading to ~4M requests/second &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220501/p14#a220501p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
