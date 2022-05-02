@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No context video](http://9gag.com/gag/ajgWLnq)
- - 🚯 [Grandad confronts teacher who made his Grandson wear a dress](http://9gag.com/gag/aPZ1oZR)
- - 🚯 [Equality vanishes away](http://9gag.com/gag/adgoO4B)<!-- MEMES:END -->
+ - 🚖 [Lel](http://9gag.com/gag/apgY6jp)
+ - 🚯 [Guess I&#39;m not a functioning adult](http://9gag.com/gag/aOQRZj3)
+ - 🚯 [The struggle is real](http://9gag.com/gag/a11EDGD)<!-- MEMES:END -->
 
 --- 
 
