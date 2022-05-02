@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s third-party payment proposal isn’t enough for Dutch regulators](https://www.theverge.com/2022/5/2/23053935/apple-app-store-acm-proposal-rejected-further-fines-dating-apps)
- - [Department of Energy boosts domestic battery supply chain with billions in funding](https://www.theverge.com/2022/5/2/23053839/energy-department-battery-ev-clean-energy-supply-chain-biden)
- - [Filing: Activision Blizzard CEO Bobby Kotick could walk away with ~$520M after Microsoft&#39;s deal, expected by 2023; Kotick owns 4.3M shares and can buy 2.2M more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220502/p22#a220502p22)<!-- TECH:END -->
+ - [Here’s what Twitter’s still-in-development edit button looks like](https://www.theverge.com/2022/5/2/23054193/twitter-edit-button-how-it-works-looks-like)
+ - [How to See Rocket Lab Try to Catch a Booster in Midair With a Helicopter Today     - CNET](https://www.cnet.com/science/space/how-to-watch-rocket-lab-catch-a-booster-in-midair-with-a-helicopter-today/#ftag=CAD590a51e)
+ - [After knocking out internet service in Kherson, an occupied Ukrainian territory, Russian forces reinstated service but rerouted it through Russia&#39;s Rostelecom &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220502/p23#a220502p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
