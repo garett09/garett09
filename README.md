@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular streamer Sykkuno moves to YouTube in exclusive deal](https://www.polygon.com/23053800/sykkuno-youtube-deal-streamer-twitch-valkyrae)
- - [Wonderlands Crossplay Is Still So Broken I Just Bought A Second Xbox](https://kotaku.com/wonderlands-crossplay-is-so-busted-i-just-bought-a-new-1848869290)
- - [Elden Ring fan is demaking the game for Game Boy](https://www.polygon.com/23053469/elden-ring-game-boy-demake)<!-- GAME:END -->
+ - [Magic: The Gathering highlights queer artists in Pride Across the Multiverse collection](https://www.polygon.com/23053905/magic-the-gathering-secret-lair-pride-across-the-multiverse-june-2022)
+ - [Damn, Some Halo Infinite Players Actually Completed Every Weekly Challenge](https://kotaku.com/halo-infinite-weekly-challenges-season-one-willow-tea-b-1848869511)
+ - [Popular streamer Sykkuno moves to YouTube in exclusive deal](https://www.polygon.com/23053800/sykkuno-youtube-deal-streamer-twitch-valkyrae)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
