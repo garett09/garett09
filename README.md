@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evil Google Store bug makes people think they have $500 credit to spend](https://www.androidauthority.com/google-store-500-credit-bug-3159741/)
- - [Telegram Premium plan is in the works: What do you get by subscribing?](https://www.androidauthority.com/telegram-premium-3159721/)
- - [Samsung Galaxy Z Flip 4 may not achieve the battery gains you were hoping for](https://www.androidauthority.com/samsung-galaxy-z-flip-4-battery-3159720/)<!-- TECH:END -->
+ - [Mental health apps have terrible privacy protections, report finds](https://www.theverge.com/2022/5/2/23045250/mozilla-mental-health-app-privacy-analysis)
+ - [The Redmi Pad could take the fight to cheaper Android tablets](https://www.androidauthority.com/redmi-pad-5g-3159757/)
+ - [Evil Google Store bug makes people think they have $500 credit to spend](https://www.androidauthority.com/google-store-500-credit-bug-3159741/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
