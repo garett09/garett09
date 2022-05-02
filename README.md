@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s May Pixel update fixes weak notification vibrations on Pixel 6 phones](https://www.theverge.com/2022/5/2/23053174/google-pixel-6-pro-may-update-haptic-vibration-notification-fix)
- - [Rocket Lab will try to catch a falling rocket with a helicopter today](https://www.theverge.com/2022/5/2/23032354/rocket-lab-helicopter-catch-electron-reuse)
- - [In a lawsuit, Apple alleges SoC startup Rivos stole trade secrets after poaching 40+ of its engineers and that at least two of them took GBs of sensitive info &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220502/p18#a220502p18)<!-- TECH:END -->
+ - [A new Yo! MTV Raps is coming to Paramount Plus](https://www.theverge.com/2022/5/2/23053870/yo-mtv-raps-paramount-plus)
+ - [Facebook is preparing to shutter its podcasts &amp; Soundbites initiatives](https://appleinsider.com/articles/22/05/02/facebook-is-preparing-to-shutter-its-podcasts-soundbites-initiatives?utm_medium=rss)
+ - [The first 240W USB-C cables just broke cover](https://www.theverge.com/23053867/first-240w-usb-c-4-power-delivery-cables-20-40-gbps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
