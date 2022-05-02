@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Reveal, a B2B service that shares CRM data to help businesses collaborate on sales opportunities, raises a $50M Series A led by Insight Partners &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220502/p2#a220502p2)
  - [Mental health apps have terrible privacy protections, report finds](https://www.theverge.com/2022/5/2/23045250/mozilla-mental-health-app-privacy-analysis)
- - [The Redmi Pad could take the fight to cheaper Android tablets](https://www.androidauthority.com/redmi-pad-5g-3159757/)
- - [Evil Google Store bug makes people think they have $500 credit to spend](https://www.androidauthority.com/google-store-500-credit-bug-3159741/)<!-- TECH:END -->
+ - [Samsung Galaxy S21 starts getting May 2022 security update](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
