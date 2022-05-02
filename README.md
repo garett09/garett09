@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based Open, a neobanking service for SMBs, raises a $50M Series D led by IIFL Finance at a $1B valuation &lpar;Priyanka Iyer/Moneycontrol&rpar;](http://www.techmeme.com/220502/p3#a220502p3)
- - [Paris-based Reveal, a B2B service that shares CRM data to help businesses collaborate on sales opportunities, raises a $50M Series A led by Insight Partners &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220502/p2#a220502p2)
- - [Square Enix Sells Tomb Raider to Invest More in Blockchain Games     - CNET](https://www.cnet.com/tech/gaming/square-enix-sells-tomb-raider-to-invest-in-blockchain-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Pay is anticompetitive, says EU in preliminary ruling](https://www.theverge.com/2022/5/2/23048116/apple-pay-eu-antitrust-nfc-payment-wallet)
+ - [MSI GS77 Stealth Proves Even Gamers Need More Than Raw Power](https://www.wired.com/review/msi-gs77-stealth-laptop)
+ - [Give Fitbits &lpar;of Sorts&rpar; to the Trees](https://www.wired.com/story/give-fitbits-of-sorts-to-the-trees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
