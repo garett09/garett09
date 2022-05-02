@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [EU accuses Apple of breaking antitrust laws with Apple Pay [u]](https://appleinsider.com/articles/22/05/02/eu-accuses-apple-of-breaking-antitrust-laws-with-apple-pay?utm_medium=rss)
- - [Apple&#39;s dutch dating app proposals still fail to please regulator](https://appleinsider.com/articles/22/05/02/apples-dutch-dating-app-proposals-still-fail-to-please-regulator?utm_medium=rss)<!-- TECH:END -->
+ - [Spirit will continue to pursue a merger with Frontier instead of JetBlue](https://www.theverge.com/2022/5/2/23053292/spirit-merger-frontier-jetblue-airline)
+ - [Samsung Galaxy Note 20 series now seeing May 2022 security patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [Nike restocks the hard-to-find Go FlyEase slip-on sneakers](https://www.theverge.com/2022/5/2/23053345/nike-flyease-go-accessiblity-restock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
