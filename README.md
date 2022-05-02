@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fast X replaces Justin Lin with Now You See Me director](https://www.polygon.com/entertainment/23053703/fast-x-director-louis-leterrier-justin-lin)
- - [Finally, someone finally turned &#39;inventory tetris&#39; into an entire videogame](https://www.pcgamer.com/finally-someone-finally-turned-inventory-tetris-into-an-entire-videogame)
- - [The &#39;souls-very-like&#39; Thymesia drops a demo on Steam](https://www.pcgamer.com/the-souls-very-like-thymesia-drops-a-demo-on-steam)<!-- GAME:END -->
+ - [Popular streamer Sykkuno moves to YouTube in exclusive deal](https://www.polygon.com/23053800/sykkuno-youtube-deal-streamer-twitch-valkyrae)
+ - [Wonderlands Crossplay Is Still So Broken I Just Bought A Second Xbox](https://kotaku.com/wonderlands-crossplay-is-so-busted-i-just-bought-a-new-1848869290)
+ - [Elden Ring fan is demaking the game for Game Boy](https://www.polygon.com/23053469/elden-ring-game-boy-demake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
