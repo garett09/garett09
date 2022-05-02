@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Self Repair Program, Twitter, Studio Display webcam &#39;fix&#39; - April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
- - [Apple&#39;s Q2 warning that supply shortages could hurt sales by up to $8B is a sign of overdependence on China for final device assembly, testing, and packaging &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220501/p12#a220501p12)
- - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solana&#39;s network suffered another outage on Saturday, lasting seven hours, when NFT minting tool Candy Machine was hit with bots, leading to ~4M requests/second &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220501/p14#a220501p14)
+ - [Study finds the US FAFSA application page shared users&#39; info, including names, zip codes, and email addresses, with Meta via the company&#39;s tracking pixel &lpar;The Markup&rpar;](http://www.techmeme.com/220501/p13#a220501p13)
+ - [The Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-on-netflix-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
