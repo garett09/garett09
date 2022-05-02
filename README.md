@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider&#39;s New Owners Have Been Snatching Up Old Series For Years Now](https://kotaku.com/saints-row-tomb-raider-deus-ex-thq-nordic-embracer-acqu-1848868558)
- - [Start your own Human Instrumentality Project with this Evangelion-themed RTX 3090](https://www.pcgamer.com/start-your-own-human-instrumentality-project-with-this-evangelion-themed-rtx-3090)
- - [Steam has a new hub for roguelikes, roguelites, soulslikes, and metroidvanias](https://www.pcgamer.com/steam-has-a-new-hub-for-roguelikes-roguelites-soulslikes-and-metroidvanias)<!-- GAME:END -->
+ - [Fast X replaces Justin Lin with Now You See Me director](https://www.polygon.com/entertainment/23053703/fast-x-director-louis-leterrier-justin-lin)
+ - [Finally, someone finally turned &#39;inventory tetris&#39; into an entire videogame](https://www.pcgamer.com/finally-someone-finally-turned-inventory-tetris-into-an-entire-videogame)
+ - [The &#39;souls-very-like&#39; Thymesia drops a demo on Steam](https://www.pcgamer.com/the-souls-very-like-thymesia-drops-a-demo-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
