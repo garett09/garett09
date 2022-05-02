@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spirit will continue to pursue a merger with Frontier instead of JetBlue](https://www.theverge.com/2022/5/2/23053292/spirit-merger-frontier-jetblue-airline)
- - [Samsung Galaxy Note 20 series now seeing May 2022 security patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [Nike restocks the hard-to-find Go FlyEase slip-on sneakers](https://www.theverge.com/2022/5/2/23053345/nike-flyease-go-accessiblity-restock)<!-- TECH:END -->
+ - [What a billion square feet of warehouses looks like](https://www.theverge.com/23053387/billion-square-feet-warehouses-california-inland-empire-online-shopping)
+ - [Twitter re-suspends two right-wing accounts trying to evade their bans](https://www.theverge.com/2022/5/2/23053497/twitter-mike-lindell-zev-zelenko-rejoin-twitter-ban-musk)
+ - [Daily deals May 2: $899 M1 MacBook Air, $125 off AirPods Max, $99 Apple AirPods, more](https://appleinsider.com/articles/22/05/02/daily-deals-may-2-899-m1-macbook-air-125-off-airpods-max-99-apple-airpods-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
