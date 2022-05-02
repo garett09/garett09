@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s adorably delightful metroidvania Haiku, the Robot](https://www.pcgamer.com/heres-adorably-delightful-metroidvania-haiku-the-robot)
  - [Today&#39;s Wordle answer #317: Monday, May 2](https://www.pcgamer.com/wordle-may-2-317)
- - [Embracer Group to acquire Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal](https://www.pcgamer.com/embracer-group-to-acquire-crystal-dynamics-eidos-montreal-and-square-enix-montreal)
- - [Square Enix Selling Tomb Raider, Deus Ex &amp; Thief &lpar;And Their Studios As Well&rpar;](https://kotaku.com/square-enix-embracer-deus-ex-1848866849)<!-- GAME:END -->
+ - [Embracer Group to acquire Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal](https://www.pcgamer.com/embracer-group-to-acquire-crystal-dynamics-eidos-montreal-and-square-enix-montreal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
