@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone needs some stability in life](http://9gag.com/gag/aRrOvAQ)
- - 🚯 [Sometimes i wish i was black. Ez Life.](http://9gag.com/gag/avAdxEX)
- - 🚯 [Why is the air spicy?](http://9gag.com/gag/a91Omjo)<!-- MEMES:END -->
+ - 🚖 [What do you see?](http://9gag.com/gag/ajgWByg)
+ - 🚯 [Are you winning son?](http://9gag.com/gag/aKmO8pb)
+ - 🚯 [The risk was calculated but man I&#39;m bad at math !](http://9gag.com/gag/azeYO0K)<!-- MEMES:END -->
 
 --- 
 
