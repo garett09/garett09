@@ -200,8 +200,8 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [No context video](http://9gag.com/gag/ajgWLnq)
- - 🚯 [This Olympic archers accuracy](http://9gag.com/gag/aM4OmYW)
- - 🚯 [Just act natural, doggo found a new friend](http://9gag.com/gag/aZrzwE9)<!-- MEMES:END -->
+ - 🚯 [Grandad confronts teacher who made his Grandson wear a dress](http://9gag.com/gag/aPZ1oZR)
+ - 🚯 [Equality vanishes away](http://9gag.com/gag/adgoO4B)<!-- MEMES:END -->
 
 --- 
 
