@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Florida Cops Killed Someone Over Shoplifted Pokémon Cards](https://kotaku.com/pokemon-card-police-shooting-florida-target-shoplift-vi-1848870113)
- - [Seattle judge dismisses part of Bungie&#39;s case against cheat developers](https://www.pcgamer.com/seattle-judge-dismisses-part-of-bungies-case-against-cheat-developers)
- - [In Dune: Spice Wars The Spice Must Flow But Remember To Hydrate](https://kotaku.com/dune-spice-wars-atreides-harkonnen-shiro-games-early-a-1848869510)<!-- GAME:END -->
+ - [Russian esports team booted from Dota 2 qualifier after player draws Z on the minimap](https://www.pcgamer.com/russian-esports-team-booted-from-dota-2-qualifier-after-player-draws-z-on-the-minimap)
+ - [This claymation indie gem has become my new go-to party game](https://www.pcgamer.com/this-claymation-indie-gem-has-become-my-new-go-to-party-game)
+ - [Riot wants to &#39;slow the pace of combat&#39; in League of Legends](https://www.pcgamer.com/riot-wants-to-slow-the-pace-of-combat-in-league-of-legends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
