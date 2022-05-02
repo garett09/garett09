@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to clean out my subscriptions](http://9gag.com/gag/aqGYXwj)
- - 🚯 [No mere mortal birthday.](http://9gag.com/gag/abgQ1g8)
- - 🚯 [Charizard.](http://9gag.com/gag/arn2Wj0)<!-- MEMES:END -->
+ - 🚖 [Minus the sugar baby](http://9gag.com/gag/a21L8oe)
+ - 🚯 [How the times have changed.](http://9gag.com/gag/aQXOQdW)
+ - 🚯 [The motivation behind Dubai and Darude Sand Storm](http://9gag.com/gag/a61jXZN)<!-- MEMES:END -->
 
 --- 
 
