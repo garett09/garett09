@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read an excerpt from the new Star Wars: Brotherhood novel all about Obi-Wan and Anakin](https://www.polygon.com/star-wars/23046790/star-wars-brotherhood-mike-chen-excerpt-release)
- - [Grab these 8 games in Steam’s new Going Rogue sale](https://www.polygon.com/2022/5/2/23053370/steam-sale-going-rogue-best-games-list)
- - [Nintendo Switch Sports Fans Are Accidentally Smashing TVs Again](https://kotaku.com/nintendo-switch-sports-broken-tv-joy-con-wii-remote-cha-1848868033)<!-- GAME:END -->
+ - [Tomb Raider&#39;s New Owners Have Been Snatching Up Old Series For Years Now](https://kotaku.com/saints-row-tomb-raider-deus-ex-thq-nordic-embracer-acqu-1848868558)
+ - [Start your own Human Instrumentality Project with this Evangelion-themed RTX 3090](https://www.pcgamer.com/start-your-own-human-instrumentality-project-with-this-evangelion-themed-rtx-3090)
+ - [Steam has a new hub for roguelikes, roguelites, soulslikes, and metroidvanias](https://www.pcgamer.com/steam-has-a-new-hub-for-roguelikes-roguelites-soulslikes-and-metroidvanias)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
