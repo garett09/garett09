@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A first look at free Eldest Souls expansion Depths of the Forgotten](https://blog.playstation.com/2022/05/02/a-first-look-at-free-eldest-souls-expansion-depths-of-the-forgotten/)
- - [A first look at free Eldest Souls expansion Depths of the Forgotten](https://blog.playstation.com/2022/05/02/a-first-look-at-free-eldest-souls-expansion-depths-of-the-forgotten/)
- - [Everyday Heroes uses the rules of D&amp;D to roll up Rambo, Highlander, The Crow, and more](https://www.polygon.com/23047076/d20-modern-reboot-everyday-heroes-rambo-highlander-pacific-rim-release-date-price-jeff-grubb)<!-- GAME:END -->
+ - [Razer co-founder and champion of the gaming mouse Robert &#39;RazerGuy&#39; Krakoff has died](https://www.pcgamer.com/razer-co-founder-and-champion-of-the-gaming-mouse-robert-razerguy-krakoff-has-died)
+ - [Square Enix sells off Tomb Raider, Deus Ex IPs and the studios behind them](https://www.polygon.com/23053137/square-enix-embracer-eidos-crystal-dynamics-tomb-raider)
+ - [A first look at free Eldest Souls expansion Depths of the Forgotten](https://blog.playstation.com/2022/05/02/a-first-look-at-free-eldest-souls-expansion-depths-of-the-forgotten/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
