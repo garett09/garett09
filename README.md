@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The struggle is real](http://9gag.com/gag/a11EDGD)
- - 🚯 [Lel](http://9gag.com/gag/apgY6jp)
- - 🚯 [Struggle is real](http://9gag.com/gag/a61j5q8)<!-- MEMES:END -->
+ - 🚖 [Fakt](http://9gag.com/gag/ajgWLYR)
+ - 🚯 [Struggle is real](http://9gag.com/gag/a61j5q8)
+ - 🚯 [Man wrecks his car trying to run over some birds](http://9gag.com/gag/aXrK4xg)<!-- MEMES:END -->
 
 --- 
 
