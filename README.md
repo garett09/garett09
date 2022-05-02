@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Store manager ask mother who refuses to discipline child to leave promptly commanded `You shut the f*ck up`.](http://9gag.com/gag/avAdeXX)
- - 🚯 [Montreal performance](http://9gag.com/gag/a51q6Nq)
- - 🚯 [Minus the sugar baby](http://9gag.com/gag/a21L8oe)<!-- MEMES:END -->
+ - 🚖 [Minus the sugar baby](http://9gag.com/gag/a21L8oe)
+ - 🚯 [Pirate&#39;s party when Johnny Depp wins. Who is in?](http://9gag.com/gag/aAGO6jE)
+ - 🚯 [Store manager ask mother who refuses to discipline child to leave promptly commanded `You shut the f*ck up`.](http://9gag.com/gag/avAdeXX)<!-- MEMES:END -->
 
 --- 
 
