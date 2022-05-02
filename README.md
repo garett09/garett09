@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [EU accuses Apple of breaking antitrust laws with Apple Pay [u]](https://appleinsider.com/articles/22/05/02/eu-accuses-apple-of-breaking-antitrust-laws-with-apple-pay?utm_medium=rss)
- - [Today I learned about the ‘secret’ Twitter DM inbox — here’s how to see it](https://www.theverge.com/2022/5/2/23053114/twitter-direct-messages-dm-request-filter-secret-inbox-til)
- - [The Apple Music app is now available on Roku](https://appleinsider.com/articles/22/05/02/the-apple-music-app-is-now-available-on-roku?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s dutch dating app proposals still fail to please regulator](https://appleinsider.com/articles/22/05/02/apples-dutch-dating-app-proposals-still-fail-to-please-regulator?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
