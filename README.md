@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone needs some stability in life](http://9gag.com/gag/aRrOvAQ)
- - 🚯 [I am talking to you,you soulless b*stard](http://9gag.com/gag/a81KDv6)
- - 🚯 [Peace was never an option.](http://9gag.com/gag/aE8Oo8O)<!-- MEMES:END -->
+ - 🚖 [George MacKay ran a quarter of a mile to complete this take, and his falls on the field were unplanned. &lpar;1917&rpar;](http://9gag.com/gag/aQXO7Or)
+ - 🚯 [Let\u2019s not forget Dior believed in JD and didn\u2019t let him fall, kudos Dior](http://9gag.com/gag/a51qzRL)
+ - 🚯 [Man wrecks his car trying to run over some birds](http://9gag.com/gag/aXrK4xg)<!-- MEMES:END -->
 
 --- 
 
