@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Time To Bring Back Deus Ex](https://kotaku.com/deus-ex-mankind-divided-sequel-square-enix-embracer-gro-1848867820)
- - [PlayStation Now games for May: Naruto Shippuden: Ultimate Ninja Storm 4, Soulcalibur VI,  Blasphemous](https://blog.playstation.com/2022/05/02/playstation-now-games-for-may-naruto-shippuden-ultimate-ninja-storm-4-soulcalibur-vi-blasphemous/)
- - [PlayStation Now games for May: Naruto Shippuden: Ultimate Ninja Storm 4, Soulcalibur VI,  Blasphemous](https://blog.playstation.com/2022/05/02/playstation-now-games-for-may-naruto-shippuden-ultimate-ninja-storm-4-soulcalibur-vi-blasphemous/)<!-- GAME:END -->
+ - [Read an excerpt from the new Star Wars: Brotherhood novel all about Obi-Wan and Anakin](https://www.polygon.com/star-wars/23046790/star-wars-brotherhood-mike-chen-excerpt-release)
+ - [Grab these 8 games in Steam’s new Going Rogue sale](https://www.polygon.com/2022/5/2/23053370/steam-sale-going-rogue-best-games-list)
+ - [Nintendo Switch Sports Fans Are Accidentally Smashing TVs Again](https://kotaku.com/nintendo-switch-sports-broken-tv-joy-con-wii-remote-cha-1848868033)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
