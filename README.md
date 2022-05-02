@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay’s Authenticity Guarantee now includes graded trading cards over $2,000](https://www.theverge.com/2022/5/2/23053530/ebay-authenticity-guarantee-trading-cards-pokemon-counterfeit)
- - [Marvel’s Protectors of Wakanda reveals the origins of the Black Panther’s Dora Milaje](https://www.theverge.com/23053264/black-panther-protectors-of-wakanda-dora-milaje-nehanda)
- - [Fitbit and Google Fit metrics are heading to the Nest Hub](https://www.theverge.com/2022/5/2/23053508/google-fit-fitbit-nest-hub-metrics)<!-- TECH:END -->
+ - [Google’s May Pixel update fixes weak notification vibrations on Pixel 6 phones](https://www.theverge.com/2022/5/2/23053174/google-pixel-6-pro-may-update-haptic-vibration-notification-fix)
+ - [Rocket Lab will try to catch a falling rocket with a helicopter today](https://www.theverge.com/2022/5/2/23032354/rocket-lab-helicopter-catch-electron-reuse)
+ - [In a lawsuit, Apple alleges SoC startup Rivos stole trade secrets after poaching 40+ of its engineers and that at least two of them took GBs of sensitive info &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220502/p18#a220502p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
