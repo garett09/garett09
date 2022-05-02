@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you see?](http://9gag.com/gag/ajgWByg)
- - 🚯 [Are you winning son?](http://9gag.com/gag/aKmO8pb)
- - 🚯 [The risk was calculated but man I&#39;m bad at math !](http://9gag.com/gag/azeYO0K)<!-- MEMES:END -->
+ - 🚖 [How am I supposed to do the sex if I&#39;m pushing rope?](http://9gag.com/gag/axBYR9M)
+ - 🚯 [Let\u2019s not forget Dior believed in JD and didn\u2019t let him fall, kudos Dior](http://9gag.com/gag/a51qzRL)
+ - 🚯 [A gift she won&#39;t soon forget.](http://9gag.com/gag/aLvdGxW)<!-- MEMES:END -->
 
 --- 
 
