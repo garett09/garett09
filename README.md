@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embracer Group to acquire Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal](https://www.pcgamer.com/embracer-group-to-acquire-crystal-dynamics-eidos-montreal-and-square-enix-montreal)
  - [Square Enix Selling Tomb Raider, Deus Ex &amp; Thief Studios &lpar;And Their Games As Well&rpar;](https://kotaku.com/square-enix-embracer-deus-ex-1848866849)
- - [The Chonky Palmtop is one of the cutest DIY Pi machines yet](https://www.pcgamer.com/the-chonky-palmtop-is-one-of-the-cutest-diy-pi-machines-yet)
- - [Pimax&#39;s 5k and 8k VR Headsets are going cheap in this flash sale](https://www.pcgamer.com/pimaxs-5k-and-8k-vr-headsets-are-going-cheap-in-this-flash-sale)<!-- GAME:END -->
+ - [The Chonky Palmtop is one of the cutest DIY Pi machines yet](https://www.pcgamer.com/the-chonky-palmtop-is-one-of-the-cutest-diy-pi-machines-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
