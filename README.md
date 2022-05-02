@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering highlights queer artists in Pride Across the Multiverse collection](https://www.polygon.com/23053905/magic-the-gathering-secret-lair-pride-across-the-multiverse-june-2022)
- - [Damn, Some Halo Infinite Players Actually Completed Every Weekly Challenge](https://kotaku.com/halo-infinite-weekly-challenges-season-one-willow-tea-b-1848869511)
- - [Popular streamer Sykkuno moves to YouTube in exclusive deal](https://www.polygon.com/23053800/sykkuno-youtube-deal-streamer-twitch-valkyrae)<!-- GAME:END -->
+ - [Florida Cops Killed Someone Over Shoplifted Pokémon Cards](https://kotaku.com/pokemon-card-police-shooting-florida-target-shoplift-vi-1848870113)
+ - [Seattle judge dismisses part of Bungie&#39;s case against cheat developers](https://www.pcgamer.com/seattle-judge-dismisses-part-of-bungies-case-against-cheat-developers)
+ - [In Dune: Spice Wars The Spice Must Flow But Remember To Hydrate](https://kotaku.com/dune-spice-wars-atreides-harkonnen-shiro-games-early-a-1848869510)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
