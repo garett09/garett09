@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Huh, You Can Beat Elden Ring While Overloaded](https://kotaku.com/elden-ring-overloaded-heavy-no-jumping-rolling-stamina-1848866510)
- - [Russian DOTA 2 Player Dumped Over Alleged In-Game Support Of Ukraine Invasion](https://kotaku.com/russia-dota-2-valve-esports-ukraine-invasion-war-virtus-1848866438)
- - [Stardew Valley mods for grandpa’s bed are getting out of control](https://www.polygon.com/23048944/stardew-valley-grandpa-bed-meme-mods)<!-- GAME:END -->
+ - [Microsoft Flight Simulator is getting FSR support along with DLSS](https://www.pcgamer.com/microsoft-flight-simulator-is-getting-fsr-support-along-with-dlss)
+ - [Dead Cells is getting accessibility features, including an assist mode](https://www.pcgamer.com/dead-cells-is-getting-accessibility-features-including-an-assist-mode)
+ - [Now you can play Morrowind multiplayer and in VR](https://www.pcgamer.com/now-you-can-play-morrowind-multiplayer-and-in-vr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
