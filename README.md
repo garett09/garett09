@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley mods for grandpa’s bed are getting out of control](https://www.polygon.com/23048944/stardew-valley-grandpa-bed-meme-mods)
- - [Sentry is an upcoming wave defense FPS about alien hordes invading your spaceship](https://www.pcgamer.com/sentry-is-an-upcoming-wave-defense-fps-about-alien-hordes-invading-your-spaceship)
- - [This Week in PC Gaming: Oaken, Warhammer 40,000: Chaos Gate - Daemonhunters and Trek to Yomi](https://www.pcgamer.com/this-week-in-pc-gaming-oaken-warhammer-40000-chaos-gate-daemonhunters-trek-to-yomi)<!-- GAME:END -->
+ - [Huh, You Can Beat Elden Ring While Overloaded](https://kotaku.com/elden-ring-overloaded-heavy-no-jumping-rolling-stamina-1848866510)
+ - [Russian DOTA 2 Player Dumped Over Alleged In-Game Support Of Ukraine Invasion](https://kotaku.com/russia-dota-2-valve-esports-ukraine-invasion-war-virtus-1848866438)
+ - [Stardew Valley mods for grandpa’s bed are getting out of control](https://www.polygon.com/23048944/stardew-valley-grandpa-bed-meme-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
