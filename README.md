@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a billion square feet of warehouses looks like](https://www.theverge.com/23053387/billion-square-feet-warehouses-california-inland-empire-online-shopping)
- - [Twitter re-suspends two right-wing accounts trying to evade their bans](https://www.theverge.com/2022/5/2/23053497/twitter-mike-lindell-zev-zelenko-rejoin-twitter-ban-musk)
- - [Daily deals May 2: $899 M1 MacBook Air, $125 off AirPods Max, $99 Apple AirPods, more](https://appleinsider.com/articles/22/05/02/daily-deals-may-2-899-m1-macbook-air-125-off-airpods-max-99-apple-airpods-more?utm_medium=rss)<!-- TECH:END -->
+ - [eBay’s Authenticity Guarantee now includes graded trading cards over $2,000](https://www.theverge.com/2022/5/2/23053530/ebay-authenticity-guarantee-trading-cards-pokemon-counterfeit)
+ - [Marvel’s Protectors of Wakanda reveals the origins of the Black Panther’s Dora Milaje](https://www.theverge.com/23053264/black-panther-protectors-of-wakanda-dora-milaje-nehanda)
+ - [Fitbit and Google Fit metrics are heading to the Nest Hub](https://www.theverge.com/2022/5/2/23053508/google-fit-fitbit-nest-hub-metrics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
