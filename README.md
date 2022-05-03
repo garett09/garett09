@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)
- - [FIFA 22 cross-play test is coming in ‘near future’](https://www.theverge.com/2022/5/3/23054860/fifa-22-cross-play-xbox-series-x-s-ps5-google-stadia-test)
- - [Sources: the UK has shelved plans to empower the CMA&#39;s digital markets unit, announced in 2020, hampering its ability to set rules and impose fines &lpar;Financial Times&rpar;](http://www.techmeme.com/220503/p8#a220503p8)<!-- TECH:END -->
+ - [Foxconn starts early recruitment drive for major iPhone facility](https://appleinsider.com/articles/22/05/03/foxconn-starts-early-recruitment-drive-for-major-iphone-facility?utm_medium=rss)
+ - [Bangalore-based Toplyne, which offers automated tools to help convert leads into paying users, raises a $15M Series A led by Tiger Global and Sequoia India &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220503/p13#a220503p13)
+ - [TSMC, Intel, and others are asking for preferential access to components amid the chip shortage, arguing that giving semiconductor makers priority could ease it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220503/p12#a220503p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
