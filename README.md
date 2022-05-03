@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s new double-thick MagSafe battery is all about the mAh](https://www.theverge.com/2022/5/3/23055917/anker-633-magnetic-battery-sale-magsafe-iphone-qi-price)
- - [Ubisoft’s troubled Prince of Persia remake moved to a new studio](https://www.theverge.com/2022/5/3/23055673/ubisoft-prince-persia-remastered-pune-mumbai-montreal)
- - [A third Apple store is looking to unionize](https://www.theverge.com/2022/5/3/23055406/apple-union-maryland-retail-corporate-return-to-work-letter-core-together)<!-- TECH:END -->
+ - [AMD promises ‘extreme gaming laptops’ in 2023 with new Dragon Range CPU](https://www.theverge.com/2022/5/3/23056024/amd-dragon-range-zen-4-extreme-gaming-laptop-cpu-ryzen)
+ - [How to find your comments on YouTube](https://www.androidauthority.com/find-youtube-comments-3160551/)
+ - [The 11 best shows like The Flight Attendant](https://www.androidauthority.com/shows-like-the-flight-attendant-hbo-max-3160432/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
