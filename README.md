@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riders Republic Season 2: Showdown is Available Now](https://news.xbox.com/en-us/2022/05/02/riders-republic-season-2-showdown-is-available-now/)
- - [This game tests the limits of cuteness with its round animals](https://www.polygon.com/23053439/squishmallows-cottagecore-cozy-game-deck-builder-roguelike)
- - [Is Halo Infinite getting a battle royale mode?](https://www.pcgamer.com/halo-infinite-battle-royale-mode-tatanka)<!-- GAME:END -->
+ - [Elden Ring Player Does A Perfect Lord Of The Rings Impersonation](https://kotaku.com/elden-ring-lord-of-the-rings-hobbits-frodo-sam-sting-sh-1848871116)
+ - [The specter of broken TVs returns to haunt Nintendo Switch Sports](https://www.polygon.com/23053752/nintendo-switch-sports-broken-tv-monitor-wii-sports)
+ - [Vampire: The Masquerade – Bloodhunt proves vampires are more fun with AK-47s](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-proves-vampires-are-more-fun-with-ak-47s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
