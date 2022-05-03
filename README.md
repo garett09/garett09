@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 3 appears on company website. Launch imminent?](https://www.androidauthority.com/oneplus-nord-3-launch-3160165/)
- - [Meta’s VR roadmap reportedly has four new headsets, with both high-end and cheaper Quest units](https://www.theverge.com/2022/5/2/23053888/meta-virtual-reality-headset-cambria-quest-vr-mr)
- - [Apple&#39;s latest iPad mini dips to lowest price ever on Amazon](https://appleinsider.com/articles/22/05/03/apples-latest-ipad-mini-dips-to-lowest-price-ever-on-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [How to add chapters to a YouTube video](https://www.androidauthority.com/add-timestamps-youtube-3160162/)
+ - [Report: crypto mining could consume nearly 25% of the electricity supply in Argentina&#39;s Tierra del Fuego province until October, risking an energy grid collapse &lpar;Bloomberg&rpar;](http://www.techmeme.com/220503/p1#a220503p1)
+ - [Rocket Lab Says It Just Caught a Booster With a Helicopter, Then Dropped It     - CNET](https://www.cnet.com/science/space/rocket-lab-says-it-just-caught-a-booster-in-midair-with-a-helicopter-then-dropped-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
