@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harley-Davidson’s LiveWire teases electric motorcycle launch for next week](https://www.theverge.com/2022/5/3/23054793/livewire-s2-del-mar-electric-motorcycle-harley-davidson)
- - [Traceable AI, which offers services to protect APIs from cyberattacks, raises a $60M Series B led by IVP at a $450M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220503/p4#a220503p4)
- - [Lawsuit alleges all Fitbit devices are prone to burning users](https://www.androidauthority.com/fitbit-overheating-lawsuit-burning-3160191/)<!-- TECH:END -->
+ - [MacBook Pro production resumes at Quanta&#39;s Shanghai plant](https://appleinsider.com/articles/22/05/03/macbook-pro-production-resumes-at-quantas-shanghai-plant?utm_medium=rss)
+ - [Amazon tells staff it will pay up to $4K in travel expenses annually for non-life threatening medical treatments including abortions, following Yelp and others &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220503/p5#a220503p5)
+ - [Motorola Moto G82 leaks: A rival to Redmi Note 11 series?](https://www.androidauthority.com/motorola-moto-g82-3160216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
