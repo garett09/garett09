@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn starts early recruitment drive for major iPhone facility](https://appleinsider.com/articles/22/05/03/foxconn-starts-early-recruitment-drive-for-major-iphone-facility?utm_medium=rss)
- - [Bangalore-based Toplyne, which offers automated tools to help convert leads into paying users, raises a $15M Series A led by Tiger Global and Sequoia India &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220503/p13#a220503p13)
- - [TSMC, Intel, and others are asking for preferential access to components amid the chip shortage, arguing that giving semiconductor makers priority could ease it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220503/p12#a220503p12)<!-- TECH:END -->
+ - [AccelByte, which helps game creators build backend services and tools, raises a $60M Series B led by Vision Fund 2, following a $10M Series A in August 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220503/p15#a220503p15)
+ - [Apple&#39;s first Touch ID iPad &amp; first Retina iPad mini are now vintage](https://appleinsider.com/articles/22/05/03/apples-first-touch-id-ipad-first-retina-ipad-mini-are-now-vintage?utm_medium=rss)
+ - [Cloud infrastructure access management startup Teleport raises a $110M Series C led by Bessemer at a $1.1B valuation, bringing its total funding to $169M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220503/p14#a220503p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
