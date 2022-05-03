@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caught on video, the shocking treatment dogs get at the groomers.](http://9gag.com/gag/aXrK2Mv)
- - 🚯 [It&#39;s like I&#39;m at f*cking culinary show](http://9gag.com/gag/aAGOXqR)
- - 🚯 [The sad reality](http://9gag.com/gag/aGzOGoK)<!-- MEMES:END -->
+ - 🚖 [Football!](http://9gag.com/gag/apgYbMM)
+ - 🚯 [My dog](http://9gag.com/gag/aNPORyK)
+ - 🚯 [Dads are the new Sexy..](http://9gag.com/gag/adgo29j)<!-- MEMES:END -->
 
 --- 
 
