@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwback](http://9gag.com/gag/aPZ1pOq)
+ - 🚖 [You don&#39;t come back from infinity Andy](http://9gag.com/gag/a11EwG8)
  - 🚯 [It&#39;s alpaca day](http://9gag.com/gag/aVxVdmP)
- - 🚯 [You don&#39;t come back from infinity Andy](http://9gag.com/gag/a11EwG8)<!-- MEMES:END -->
+ - 🚯 [Can\u2019t Live With, Can\u2019t Live Without...](http://9gag.com/gag/aGzOoj6)<!-- MEMES:END -->
 
 --- 
 
