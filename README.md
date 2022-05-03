@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro production resumes at Quanta&#39;s Shanghai plant](https://appleinsider.com/articles/22/05/03/macbook-pro-production-resumes-at-quantas-shanghai-plant?utm_medium=rss)
- - [Amazon tells staff it will pay up to $4K in travel expenses annually for non-life threatening medical treatments including abortions, following Yelp and others &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220503/p5#a220503p5)
- - [Motorola Moto G82 leaks: A rival to Redmi Note 11 series?](https://www.androidauthority.com/motorola-moto-g82-3160216/)<!-- TECH:END -->
+ - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)
+ - [FIFA 22 cross-play test is coming in ‘near future’](https://www.theverge.com/2022/5/3/23054860/fifa-22-cross-play-xbox-series-x-s-ps5-google-stadia-test)
+ - [Sources: the UK has shelved plans to empower the CMA&#39;s digital markets unit, announced in 2020, hampering its ability to set rules and impose fines &lpar;Financial Times&rpar;](http://www.techmeme.com/220503/p8#a220503p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
