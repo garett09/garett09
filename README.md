@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When China reports another first human case of a disease](http://9gag.com/gag/axBYQNK)
- - 🚯 [He flew out quickly..!!](http://9gag.com/gag/avAdXX5)
- - 🚯 [Damn right](http://9gag.com/gag/a81KXX6)<!-- MEMES:END -->
+ - 🚖 [Damn right](http://9gag.com/gag/a81KXX6)
+ - 🚯 [Judge denies Amber\u2019s lawyers attempt to dismiss trial because of Ben Chew\u2019s amazing argument](http://9gag.com/gag/a71pGzA)
+ - 🚯 [Equal rights and lefts](http://9gag.com/gag/awzY83y)<!-- MEMES:END -->
 
 --- 
 
