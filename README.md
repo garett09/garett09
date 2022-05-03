@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)
- - 🚯 [Is it me or does his acting give a Jim Carrey vibe!?](http://9gag.com/gag/aVxVVVy)
- - 🚯 [Like damn](http://9gag.com/gag/aBnOOOD)<!-- MEMES:END -->
+ - 🚖 [How they make bangles in Rajasthan, India.](http://9gag.com/gag/amgpRn2)
+ - 🚯 [Have a seat](http://9gag.com/gag/aogYDNn)
+ - 🚯 [Wait..but......wtf](http://9gag.com/gag/avAd9K5)<!-- MEMES:END -->
 
 --- 
 
