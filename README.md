@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #318: Tuesday, May 3](https://www.pcgamer.com/wordle-may-3-318)
  - [Is $300M for Tomb Raider and Deus Ex really that big of a steal?](https://www.pcgamer.com/embracer-tomb-raider-deus-ex-acquisition-square-enix)
- - [Nike&#39;s Official Hello Kitty Sneakers Are Perfect [Update: Clothes Too]](https://kotaku.com/nike-hello-kitty-sanrio-air-presto-drop-sneaker-release-1848827280)
- - [VESA to release an adaptive sync compliance program for monitors](https://www.pcgamer.com/vesa-to-release-an-adaptive-sync-compliance-program-for-monitors)<!-- GAME:END -->
+ - [Nike&#39;s Official Hello Kitty Sneakers Are Perfect [Update: Clothes Too]](https://kotaku.com/nike-hello-kitty-sanrio-air-presto-drop-sneaker-release-1848827280)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
