@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Daniel Radcliffe is clearly having the time of his life in the ‘Weird Al’ movie](https://www.polygon.com/23055558/weird-al-movie-daniel-radcliffe-trailer-release-date-roku)
- - [Someone Finally Made The Inventory Briefcase From Resident Evil 4 A Puzzle Game](https://kotaku.com/resident-evil-4-save-room-attache-case-puzzle-inventory-1848875111)
- - [The &#39;E3&#39; 2022 schedule: all the summer showcases coming this year](https://www.pcgamer.com/e3-schedule-2022-summer-game-fest)<!-- GAME:END -->
+ - [DC’s League of Super-Pets movie has a villain who looks like the Braniac of guinea pigs](https://www.polygon.com/23055586/dc-league-of-super-pets-trailer-origin-story-lulu-villain)
+ - [Activision urges shareholders to vote against proposed misconduct report](https://www.pcgamer.com/activision-urges-shareholders-to-vote-against-proposed-misconduct-report)
+ - [The future of Star Wars is Gundam](https://www.polygon.com/star-wars/23054259/star-wars-future-mobile-suit-gundam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
