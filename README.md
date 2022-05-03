@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am this old](http://9gag.com/gag/aM4OO71)
- - 🚯 [Rip peter](http://9gag.com/gag/azeY4Op)
- - 🚯 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)<!-- MEMES:END -->
+ - 🚖 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)
+ - 🚯 [Is it me or does his acting give a Jim Carrey vibe!?](http://9gag.com/gag/aVxVVVy)
+ - 🚯 [Like damn](http://9gag.com/gag/aBnOOOD)<!-- MEMES:END -->
 
 --- 
 
