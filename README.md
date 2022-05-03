@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How am I supposed to do the sex if I&#39;m pushing rope?](http://9gag.com/gag/axBYR9M)
- - 🚯 [You agree?](http://9gag.com/gag/a41W2M1)
- - 🚯 [The risk was calculated but man I&#39;m bad at math !](http://9gag.com/gag/azeYO0K)<!-- MEMES:END -->
+ - 🚖 [The risk was calculated but man I&#39;m bad at math !](http://9gag.com/gag/azeYO0K)
+ - 🚯 [Would love that.](http://9gag.com/gag/a11E2yD)
+ - 🚯 [3 days ago, an electric bus burnt in Paris on line 71. Just see how quick it goes &lpar; I&#39;m a bus driver and I was driving on this line the day before&rpar;](http://9gag.com/gag/aM4OvrM)<!-- MEMES:END -->
 
 --- 
 
