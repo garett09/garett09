@@ -185,8 +185,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Star Wars Games To Get During All These May 4th Sales](https://kotaku.com/star-wars-day-deals-best-may-4th-sales-xbox-switch-ps4-1848876249)
  - [Overwatch 2 beta will get more heroes, maps, and hero reworks, Blizzard says](https://www.polygon.com/23055773/overwatch-2-beta-new-heroes-maps-blizzard)
- - [Wrecking Ball benched in Overwatch 2 beta for literally wrecking servers](https://www.pcgamer.com/wrecking-ball-benched-in-overwatch-2-beta-for-literally-wrecking-servers)
  - [The Owl House is proving itself to be too good for Disney](https://www.polygon.com/23055769/the-owl-house-reveal-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
