@@ -200,8 +200,8 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [CNN - `Russia will declare war on 9th May`](http://9gag.com/gag/ay9Yv0b)
- - 🚯 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)
- - 🚯 [Empire strikes back in Shanghai. Covid-19 rebels take cover\u2026](http://9gag.com/gag/aVxVRj8)<!-- MEMES:END -->
+ - 🚯 [Smoking too much. DAMN](http://9gag.com/gag/a0ZME2z)
+ - 🚯 [I am this old](http://9gag.com/gag/aM4OO71)<!-- MEMES:END -->
 
 --- 
 
