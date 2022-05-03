@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto.com announces reductions in rewards for its Visa-enabled cards, including a drop from 5% to 2% for its highest tier; its native CRO token drops ~10% &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220503/p3#a220503p3)
  - [Addiction scholars say cryptocurrency has characteristics that make it more addictive than sports betting, gambling, and traditional financial investing &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220503/p2#a220503p2)
- - [Latest Google Play system update makes file sharing easier between your devices](https://www.androidauthority.com/google-play-system-update-may-2022-nearby-share-3160176/)
- - [How to add chapters to a YouTube video](https://www.androidauthority.com/add-timestamps-youtube-3160162/)<!-- TECH:END -->
+ - [Latest Google Play system update makes file sharing easier between your devices](https://www.androidauthority.com/google-play-system-update-may-2022-nearby-share-3160176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
