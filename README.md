@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would love that.](http://9gag.com/gag/a11E2yD)
- - 🚯 [They will find a way](http://9gag.com/gag/aBnOXZZ)
- - 🚯 [I always thought squirrels were herbi.](http://9gag.com/gag/a81K26p)<!-- MEMES:END -->
+ - 🚖 [Caught on video, the shocking treatment dogs get at the groomers.](http://9gag.com/gag/aXrK2Mv)
+ - 🚯 [It&#39;s like I&#39;m at f*cking culinary show](http://9gag.com/gag/aAGOXqR)
+ - 🚯 [The sad reality](http://9gag.com/gag/aGzOGoK)<!-- MEMES:END -->
 
 --- 
 
