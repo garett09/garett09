@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is testing a TikTok-like full-screen feed](https://www.theverge.com/2022/5/3/23055496/instagram-full-screen-vertical-video-test-tiktok)
- - [Apple&#39;s first retail store union will get an employee vote on June 2](https://appleinsider.com/articles/22/05/03/apples-first-retail-store-union-will-get-an-employee-vote-on-june-2?utm_medium=rss)
- - [Beats launches HBCU Creators Program as three-month content production course](https://appleinsider.com/articles/22/05/03/beats-launches-hbcu-creators-program-as-three-month-content-production-course?utm_medium=rss)<!-- TECH:END -->
+ - [Activity Monitor in macOS is wrong about energy usage of Apple Silicon](https://appleinsider.com/articles/22/05/03/activity-monitor-in-macos-is-wrong-about-energy-usage-of-apple-silicon?utm_medium=rss)
+ - [OWC Gemini review: External storage and a few more ports for your Mac](https://appleinsider.com/articles/22/05/03/owc-gemini-review-external-storage-and-a-few-more-ports-for-your-mac?utm_medium=rss)
+ - [How verification works on TikTok](https://www.androidauthority.com/get-verified-tiktok-3160465/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
