@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars needs its new characters so much more than its endlessly recycled ones](https://www.polygon.com/star-wars/23055471/star-wars-future-new-characters-obi-wan-boba-fett)
- - [May Xbox Update: Create, Share, and View Stories in the Xbox app and More](https://news.xbox.com/en-us/2022/05/03/may-xbox-update-create-share-view-stories-xbox-app/)
- - [Save Room is a Resident Evil 4-style ‘inventory Tetris’ puzzler](https://www.polygon.com/23055464/save-room-organizational-puzzle-inventory-tetris-game)<!-- GAME:END -->
+ - [Daniel Radcliffe is clearly having the time of his life in the ‘Weird Al’ movie](https://www.polygon.com/23055558/weird-al-movie-daniel-radcliffe-trailer-release-date-roku)
+ - [Someone Finally Made The Inventory Briefcase From Resident Evil 4 A Puzzle Game](https://kotaku.com/resident-evil-4-save-room-attache-case-puzzle-inventory-1848875111)
+ - [The &#39;E3&#39; 2022 schedule: all the summer showcases coming this year](https://www.pcgamer.com/e3-schedule-2022-summer-game-fest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
