@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Star Wars Games To Get During All These May 4th Sales](https://kotaku.com/star-wars-day-deals-best-may-4th-sales-xbox-switch-ps4-1848876249)
- - [Overwatch 2 beta will get more heroes, maps, and hero reworks, Blizzard says](https://www.polygon.com/23055773/overwatch-2-beta-new-heroes-maps-blizzard)
- - [The Owl House is proving itself to be too good for Disney](https://www.polygon.com/23055769/the-owl-house-reveal-season-2)<!-- GAME:END -->
+ - [Halo Infinite Update Is So Big It Requires A Table Of Contents](https://kotaku.com/halo-infinite-update-is-so-big-it-requires-a-table-of-c-1848876483)
+ - [Blizzard&#39;s new mobile game announcement didn&#39;t piss everyone off this time](https://www.pcgamer.com/blizzards-new-mobile-game-announcement-didnt-piss-everyone-off-this-time)
+ - [Loot River, the &#39;Diablo and Tetris had a baby&#39; game, is out today](https://www.pcgamer.com/loot-river-the-diablo-and-tetris-had-a-baby-game-is-out-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
