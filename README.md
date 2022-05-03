@@ -200,7 +200,7 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Dudes cold as ice.](http://9gag.com/gag/a81KKnp)
- - 🚯 [When you love your job..](http://9gag.com/gag/aPZ114G)
+ - 🚯 [Mericaaaa](http://9gag.com/gag/aAGOv1Z)
  - 🚯 [Hank](http://9gag.com/gag/a21LLRp)<!-- MEMES:END -->
 
 --- 
