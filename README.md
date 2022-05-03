@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second Studio Display 15.5 firmware beta](https://appleinsider.com/articles/22/05/03/apple-issues-second-studio-display-155-firmware-beta?utm_medium=rss)
- - [What does “ratio” mean on TikTok?](https://www.androidauthority.com/ratio-tiktok-comments-3160414/)
- - [Blizzard introduces new &#39;Warcraft Arclight Rumble&#39; iOS game](https://appleinsider.com/articles/22/05/03/blizzard-introduces-new-warcraft-arclight-rumble-ios-game?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram is testing a TikTok-like full-screen feed](https://www.theverge.com/2022/5/3/23055496/instagram-full-screen-vertical-video-test-tiktok)
+ - [Apple&#39;s first retail store union will get an employee vote on June 2](https://appleinsider.com/articles/22/05/03/apples-first-retail-store-union-will-get-an-employee-vote-on-june-2?utm_medium=rss)
+ - [Beats launches HBCU Creators Program as three-month content production course](https://appleinsider.com/articles/22/05/03/beats-launches-hbcu-creators-program-as-three-month-content-production-course?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
