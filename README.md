@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PAX East Enforcer Dies From Covid &#39;After Being Exposed During The Convention&#39;](https://kotaku.com/pax-east-enforcer-covid-coronavirus-deestar-death-1848873690)
- - [PC Game Pass and BWT Alpine F1 Team Launch Fast Track to PC Game Pass Challenge](https://news.xbox.com/en-us/2022/05/03/pc-game-pass-and-alpine-f1-launch-game-pass-challenge/)
- - [Hit survival horror board game Nemesis Lockdown arrives on Steam this month](https://www.polygon.com/23053795/nemesis-lockdown-digital-steam-release-date-price)<!-- GAME:END -->
+ - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
+ - [Blizzard reveals Warcraft Arclight Rumble, its new Warcraft mobile game](https://www.polygon.com/23055315/warcraft-mobile-game-arclight-rumble)
+ - [Ninja Says He Wanted To Gift Evo $500,000 For Smash, But Nintendo Ghosted Him](https://kotaku.com/ninja-super-smash-bros-melee-twitch-evo-nintendo-ultima-1848871833)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
