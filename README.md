@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
- - [Blizzard reveals Warcraft Arclight Rumble, its new Warcraft mobile game](https://www.polygon.com/23055315/warcraft-mobile-game-arclight-rumble)
- - [Ninja Says He Wanted To Gift Evo $500,000 For Smash, But Nintendo Ghosted Him](https://kotaku.com/ninja-super-smash-bros-melee-twitch-evo-nintendo-ultima-1848871833)<!-- GAME:END -->
+ - [Star Wars needs its new characters so much more than its endlessly recycled ones](https://www.polygon.com/star-wars/23055471/star-wars-future-new-characters-obi-wan-boba-fett)
+ - [May Xbox Update: Create, Share, and View Stories in the Xbox app and More](https://news.xbox.com/en-us/2022/05/03/may-xbox-update-create-share-view-stories-xbox-app/)
+ - [Save Room is a Resident Evil 4-style ‘inventory Tetris’ puzzler](https://www.polygon.com/23055464/save-room-organizational-puzzle-inventory-tetris-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
