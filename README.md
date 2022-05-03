@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rooftop Koreans, 30th Anniversary!](http://9gag.com/gag/aVxVBpy)
- - 🚯 [Can\u2019t Live With, Can\u2019t Live Without...](http://9gag.com/gag/aGzOoj6)
- - 🚯 [I found him by a henway!](http://9gag.com/gag/abgQErX)<!-- MEMES:END -->
+ - 🚖 [Equal rights and lefts](http://9gag.com/gag/awzY83y)
+ - 🚯 [Brand new wheel less cart!](http://9gag.com/gag/azeYQxq)
+ - 🚯 [Meme below](http://9gag.com/gag/aE8OELx)<!-- MEMES:END -->
 
 --- 
 
