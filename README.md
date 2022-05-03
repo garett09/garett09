@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Addiction scholars say cryptocurrency has characteristics that make it more addictive than sports betting, gambling, and traditional financial investing &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220503/p2#a220503p2)
  - [Latest Google Play system update makes file sharing easier between your devices](https://www.androidauthority.com/google-play-system-update-may-2022-nearby-share-3160176/)
- - [How to add chapters to a YouTube video](https://www.androidauthority.com/add-timestamps-youtube-3160162/)
- - [Report: crypto mining could consume nearly 25% of the electricity supply in Argentina&#39;s Tierra del Fuego province until October, risking an energy grid collapse &lpar;Bloomberg&rpar;](http://www.techmeme.com/220503/p1#a220503p1)<!-- TECH:END -->
+ - [How to add chapters to a YouTube video](https://www.androidauthority.com/add-timestamps-youtube-3160162/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
