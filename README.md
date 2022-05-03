@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New PS4 Tournaments feature iconic fighting, FPS, and sports games](https://blog.playstation.com/2022/05/03/new-ps4-tournaments-feature-iconic-fighting-fps-and-sports-games/)
- - [New PS4 Tournaments feature iconic fighting, FPS, and sports games](https://blog.playstation.com/2022/05/03/new-ps4-tournaments-feature-iconic-fighting-fps-and-sports-games/)
- - [Even Game Pass Knows It’s Backlog Season](https://kotaku.com/xbox-pc-game-pass-trek-to-yomi-final-fantasy-x-x2-hd-st-1848873062)<!-- GAME:END -->
+ - [PAX East Enforcer Dies From Covid &#39;After Being Exposed During The Convention&#39;](https://kotaku.com/pax-east-enforcer-covid-coronavirus-deestar-death-1848873690)
+ - [PC Game Pass and BWT Alpine F1 Team Launch Fast Track to PC Game Pass Challenge](https://news.xbox.com/en-us/2022/05/03/pc-game-pass-and-alpine-f1-launch-game-pass-challenge/)
+ - [Hit survival horror board game Nemesis Lockdown arrives on Steam this month](https://www.polygon.com/23053795/nemesis-lockdown-digital-steam-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
