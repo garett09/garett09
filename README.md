@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They will find a way](http://9gag.com/gag/aBnOXZZ)
- - 🚯 [My dog](http://9gag.com/gag/aNPORyK)
- - 🚯 [Is it me or does his acting give a Jim Carrey vibe!?](http://9gag.com/gag/aVxVVVy)<!-- MEMES:END -->
+ - 🚖 [Dudes cold as ice.](http://9gag.com/gag/a81KKnp)
+ - 🚯 [When you love your job..](http://9gag.com/gag/aPZ114G)
+ - 🚯 [Hank](http://9gag.com/gag/a21LLRp)<!-- MEMES:END -->
 
 --- 
 
