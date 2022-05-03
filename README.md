@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard brings the chaos with new Warcraft mobile game](https://www.theverge.com/2022/5/3/23055290/blizzard-warcraft-mobile-game-trailer-activision-ios-android)
- - [Apple issues fourth iOS 15.5, iPadOS 15.5, tvOS 15.5 developer betas](https://appleinsider.com/articles/22/05/03/apple-issues-fourth-ios-155-ipados-155-tvos-155-developer-betas?utm_medium=rss)
- - [Apple seeds fourth macOS Monterey 12.4 developer beta](https://appleinsider.com/articles/22/05/03/apple-seeds-fourth-macos-monterey-124-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues second Studio Display 15.5 firmware beta](https://appleinsider.com/articles/22/05/03/apple-issues-second-studio-display-155-firmware-beta?utm_medium=rss)
+ - [What does “ratio” mean on TikTok?](https://www.androidauthority.com/ratio-tiktok-comments-3160414/)
+ - [Blizzard introduces new &#39;Warcraft Arclight Rumble&#39; iOS game](https://appleinsider.com/articles/22/05/03/blizzard-introduces-new-warcraft-arclight-rumble-ios-game?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
