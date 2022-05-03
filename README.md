@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dudes cold as ice.](http://9gag.com/gag/a81KKnp)
- - 🚯 [Mericaaaa](http://9gag.com/gag/aAGOv1Z)
- - 🚯 [Hank](http://9gag.com/gag/a21LLRp)<!-- MEMES:END -->
+ - 🚖 [CNN - `Russia will declare war on 9th May`](http://9gag.com/gag/ay9Yv0b)
+ - 🚯 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)
+ - 🚯 [Empire strikes back in Shanghai. Covid-19 rebels take cover\u2026](http://9gag.com/gag/aVxVRj8)<!-- MEMES:END -->
 
 --- 
 
