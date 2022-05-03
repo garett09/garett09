@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawsuit alleges all Fitbit devices are prone to burning users](https://www.androidauthority.com/fitbit-overheating-lawsuit-burning-3160191/)
- - [Crypto.com announces reductions in rewards for its Visa-enabled cards, including a drop from 5% to 2% for its highest tier; its native CRO token drops ~10% &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220503/p3#a220503p3)
- - [Addiction scholars say cryptocurrency has characteristics that make it more addictive than sports betting, gambling, and traditional financial investing &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220503/p2#a220503p2)<!-- TECH:END -->
+ - [Harley-Davidson’s LiveWire teases electric motorcycle launch for next week](https://www.theverge.com/2022/5/3/23054793/livewire-s2-del-mar-electric-motorcycle-harley-davidson)
+ - [Traceable AI, which offers services to protect APIs from cyberattacks, raises a $60M Series B led by IVP at a $450M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220503/p4#a220503p4)
+ - [Lawsuit alleges all Fitbit devices are prone to burning users](https://www.androidauthority.com/fitbit-overheating-lawsuit-burning-3160191/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
