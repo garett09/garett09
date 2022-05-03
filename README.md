@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Judge denies Amber\u2019s lawyers attempt to dismiss trial because of Ben Chew\u2019s amazing argument](http://9gag.com/gag/a71pGzA)
- - 🚯 [Weird 350yo construction on Lake Maggiore, Italy](http://9gag.com/gag/a61j8E9)
- - 🚯 [Meme below](http://9gag.com/gag/aE8OELx)<!-- MEMES:END -->
+ - 🚖 [Throwback](http://9gag.com/gag/aPZ1pOq)
+ - 🚯 [It&#39;s alpaca day](http://9gag.com/gag/aVxVdmP)
+ - 🚯 [You don&#39;t come back from infinity Andy](http://9gag.com/gag/a11EwG8)<!-- MEMES:END -->
 
 --- 
 
