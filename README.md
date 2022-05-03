@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These XR glasses could be the answer to portable gaming woes](https://www.pcgamer.com/these-xr-glasses-could-be-the-answer-to-portable-gaming-woes)
- - [The Steam Deck Can Now &lpar;Officially&rpar; Run A LOT More Games](https://kotaku.com/valve-steam-deck-compatibility-verified-playable-games-1848871240)
- - [Elden Ring Player Does A Perfect Lord Of The Rings Impersonation](https://kotaku.com/elden-ring-lord-of-the-rings-hobbits-frodo-sam-sting-sh-1848871116)<!-- GAME:END -->
+ - [Is $300M for Tomb Raider and Deus Ex really that big of a steal?](https://www.pcgamer.com/embracer-tomb-raider-deus-ex-acquisition-square-enix)
+ - [Nike&#39;s Official Hello Kitty Sneakers Are Perfect [Update: Clothes Too]](https://kotaku.com/nike-hello-kitty-sanrio-air-presto-drop-sneaker-release-1848827280)
+ - [VESA to release an adaptive sync compliance program for monitors](https://www.pcgamer.com/vesa-to-release-an-adaptive-sync-compliance-program-for-monitors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
