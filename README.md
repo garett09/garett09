@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford did what Tesla won’t](https://www.theverge.com/2022/5/3/23053536/ford-tesla-f100-mustang-gt-right-to-repair)
- - [Warren Buffett&#39;s Berkshire Hathaway bought $600M worth of Apple in Q1](https://appleinsider.com/articles/22/05/03/warren-buffetts-berkshire-hathaway-bought-600m-worth-of-apple-in-q1?utm_medium=rss)
- - [Internal documents: the CDC bought location data from millions of phones in the US to analyze compliance with COVID-19 rules, especially in the Navajo Nation &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220503/p17#a220503p17)<!-- TECH:END -->
+ - [Apple Fitness+ executives talk about the service&#39;s ambition, and post-pandemic future](https://appleinsider.com/articles/22/05/03/apple-fitness-executives-talk-about-the-services-ambition-and-post-pandemic-future?utm_medium=rss)
+ - [Google Docs’ updated tables are designed for project management](https://www.theverge.com/2022/5/3/23055090/google-docs-dropdown-table-templates-productivity-software)
+ - [Activity Monitor in macOS is wrong about energy usage of Apple Silicon](https://appleinsider.com/articles/22/05/03/activity-monitor-in-macos-is-wrong-about-energy-usage-of-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
