@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How they make bangles in Rajasthan, India.](http://9gag.com/gag/amgpRn2)
- - 🚯 [Have a seat](http://9gag.com/gag/aogYDNn)
- - 🚯 [Wait..but......wtf](http://9gag.com/gag/avAd9K5)<!-- MEMES:END -->
+ - 🚖 [Brand new wheel less cart!](http://9gag.com/gag/azeYQxq)
+ - 🚯 [Wait..but......wtf](http://9gag.com/gag/avAd9K5)
+ - 🚯 [Mericaaaa](http://9gag.com/gag/aAGOv1Z)<!-- MEMES:END -->
 
 --- 
 
