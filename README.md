@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meme below](http://9gag.com/gag/aE8OELx)
- - 🚯 [Rip peter](http://9gag.com/gag/azeY4Op)
- - 🚯 [You don&#39;t come back from infinity Andy](http://9gag.com/gag/a11EwG8)<!-- MEMES:END -->
+ - 🚖 [Rooftop Koreans, 30th Anniversary!](http://9gag.com/gag/aVxVBpy)
+ - 🚯 [Can\u2019t Live With, Can\u2019t Live Without...](http://9gag.com/gag/aGzOoj6)
+ - 🚯 [I found him by a henway!](http://9gag.com/gag/abgQErX)<!-- MEMES:END -->
 
 --- 
 
