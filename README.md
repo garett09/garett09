@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chile-based Xepelin, which provides B2B payments and financial services for SMBs in Latin America, raises a $111M Series B in equity led by Avenir and Kaszek &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220502/p29#a220502p29)
- - [How to see and clear your YouTube history](https://www.androidauthority.com/delete-youtube-history-3160091/)
- - [Sources: PayPal and other companies made informal complaints to the European Commission about Apple&#39;s NFC restrictions, spurring the EU&#39;s antitrust complaint &lpar;Bloomberg&rpar;](http://www.techmeme.com/220502/p28#a220502p28)<!-- TECH:END -->
+ - [OnePlus Nord 3 appears on company website. Launch imminent?](https://www.androidauthority.com/oneplus-nord-3-launch-3160165/)
+ - [Meta’s VR roadmap reportedly has four new headsets, with both high-end and cheaper Quest units](https://www.theverge.com/2022/5/2/23053888/meta-virtual-reality-headset-cambria-quest-vr-mr)
+ - [Apple&#39;s latest iPad mini dips to lowest price ever on Amazon](https://appleinsider.com/articles/22/05/03/apples-latest-ipad-mini-dips-to-lowest-price-ever-on-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
