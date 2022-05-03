@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the mechanical keyboard went mainstream again](https://www.theverge.com/23053738/mechanical-keyboard-mainstream-evolution-history)
- - [Paramount Plus subscriber count has grown to nearly 40 million](https://www.theverge.com/2022/5/3/23055121/paramount-plus-subscriber-count-40-million)
- - [Apple Arcade is getting a Mario Kart-style racer starring Hank Hill](https://www.theverge.com/2022/5/3/23053388/apple-arcade-warped-kart-racers-release-date)<!-- TECH:END -->
+ - [Blizzard brings the chaos with new Warcraft mobile game](https://www.theverge.com/2022/5/3/23055290/blizzard-warcraft-mobile-game-trailer-activision-ios-android)
+ - [Apple issues fourth iOS 15.5, iPadOS 15.5, tvOS 15.5 developer betas](https://appleinsider.com/articles/22/05/03/apple-issues-fourth-ios-155-ipados-155-tvos-155-developer-betas?utm_medium=rss)
+ - [Apple seeds fourth macOS Monterey 12.4 developer beta](https://appleinsider.com/articles/22/05/03/apple-seeds-fourth-macos-monterey-124-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
