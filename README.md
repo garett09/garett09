@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s my fetsh](http://9gag.com/gag/aNPO2e3)
- - 🚯 [Can\u2019t Live With, Can\u2019t Live Without...](http://9gag.com/gag/aGzOoj6)
- - 🚯 [Guilty](http://9gag.com/gag/aPZ1pWP)<!-- MEMES:END -->
+ - 🚖 [When China reports another first human case of a disease](http://9gag.com/gag/axBYQNK)
+ - 🚯 [He flew out quickly..!!](http://9gag.com/gag/avAdXX5)
+ - 🚯 [Damn right](http://9gag.com/gag/a81KXX6)<!-- MEMES:END -->
 
 --- 
 
