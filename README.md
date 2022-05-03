@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brand new wheel less cart!](http://9gag.com/gag/azeYQxq)
- - 🚯 [Wait..but......wtf](http://9gag.com/gag/avAd9K5)
- - 🚯 [Mericaaaa](http://9gag.com/gag/aAGOv1Z)<!-- MEMES:END -->
+ - 🚖 [Meme below](http://9gag.com/gag/aE8OELx)
+ - 🚯 [Rip peter](http://9gag.com/gag/azeY4Op)
+ - 🚯 [You don&#39;t come back from infinity Andy](http://9gag.com/gag/a11EwG8)<!-- MEMES:END -->
 
 --- 
 
