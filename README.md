@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal rights and lefts](http://9gag.com/gag/awzY83y)
- - 🚯 [Brand new wheel less cart!](http://9gag.com/gag/azeYQxq)
+ - 🚖 [Judge denies Amber\u2019s lawyers attempt to dismiss trial because of Ben Chew\u2019s amazing argument](http://9gag.com/gag/a71pGzA)
+ - 🚯 [Weird 350yo construction on Lake Maggiore, Italy](http://9gag.com/gag/a61j8E9)
  - 🚯 [Meme below](http://9gag.com/gag/aE8OELx)<!-- MEMES:END -->
 
 --- 
