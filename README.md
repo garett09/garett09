@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AccelByte, which helps game creators build backend services and tools, raises a $60M Series B led by Vision Fund 2, following a $10M Series A in August 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220503/p15#a220503p15)
- - [Apple&#39;s first Touch ID iPad &amp; first Retina iPad mini are now vintage](https://appleinsider.com/articles/22/05/03/apples-first-touch-id-ipad-first-retina-ipad-mini-are-now-vintage?utm_medium=rss)
- - [Cloud infrastructure access management startup Teleport raises a $110M Series C led by Bessemer at a $1.1B valuation, bringing its total funding to $169M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220503/p14#a220503p14)<!-- TECH:END -->
+ - [Ford did what Tesla won’t](https://www.theverge.com/2022/5/3/23053536/ford-tesla-f100-mustang-gt-right-to-repair)
+ - [Warren Buffett&#39;s Berkshire Hathaway bought $600M worth of Apple in Q1](https://appleinsider.com/articles/22/05/03/warren-buffetts-berkshire-hathaway-bought-600m-worth-of-apple-in-q1?utm_medium=rss)
+ - [Internal documents: the CDC bought location data from millions of phones in the US to analyze compliance with COVID-19 rules, especially in the Navajo Nation &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220503/p17#a220503p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
