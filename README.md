@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Fitness+ executives talk about the service&#39;s ambition, and post-pandemic future](https://appleinsider.com/articles/22/05/03/apple-fitness-executives-talk-about-the-services-ambition-and-post-pandemic-future?utm_medium=rss)
- - [Google Docs’ updated tables are designed for project management](https://www.theverge.com/2022/5/3/23055090/google-docs-dropdown-table-templates-productivity-software)
- - [Activity Monitor in macOS is wrong about energy usage of Apple Silicon](https://appleinsider.com/articles/22/05/03/activity-monitor-in-macos-is-wrong-about-energy-usage-of-apple-silicon?utm_medium=rss)<!-- TECH:END -->
+ - [How the mechanical keyboard went mainstream again](https://www.theverge.com/23053738/mechanical-keyboard-mainstream-evolution-history)
+ - [Paramount Plus subscriber count has grown to nearly 40 million](https://www.theverge.com/2022/5/3/23055121/paramount-plus-subscriber-count-40-million)
+ - [Apple Arcade is getting a Mario Kart-style racer starring Hank Hill](https://www.theverge.com/2022/5/3/23053388/apple-arcade-warped-kart-racers-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
