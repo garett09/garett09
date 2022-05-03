@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CNN - `Russia will declare war on 9th May`](http://9gag.com/gag/ay9Yv0b)
- - 🚯 [Smoking too much. DAMN](http://9gag.com/gag/a0ZME2z)
- - 🚯 [I am this old](http://9gag.com/gag/aM4OO71)<!-- MEMES:END -->
+ - 🚖 [I am this old](http://9gag.com/gag/aM4OO71)
+ - 🚯 [Rip peter](http://9gag.com/gag/azeY4Op)
+ - 🚯 [*Stares devilishly](http://9gag.com/gag/azeY4Ej)<!-- MEMES:END -->
 
 --- 
 
