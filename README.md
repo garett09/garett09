@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft reports Q1 revenue of $875.6M, up 44% YoY, vs $844.5M est., and a net loss of $196.9M, but misses on 17.8M active riders, vs 18M expected; stock down 20%+ &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/220503/p29#a220503p29)
- - [Daniel Radcliffe goes full sex symbol in first Weird Al biopic teaser](https://www.theverge.com/2022/5/3/23055717/daniel-radcliffe-weird-al-trailer-roku)
- - [Match Group Q1: revenue of $799M, up 20% YoY, vs $794M est., operating income up 10% YoY to $208M, CEO Shar Dubey to step down but stay on board; stock down 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/220503/p28#a220503p28)<!-- TECH:END -->
+ - [Anker’s new double-thick MagSafe battery is all about the mAh](https://www.theverge.com/2022/5/3/23055917/anker-633-magnetic-battery-sale-magsafe-iphone-qi-price)
+ - [Ubisoft’s troubled Prince of Persia remake moved to a new studio](https://www.theverge.com/2022/5/3/23055673/ubisoft-prince-persia-remastered-pune-mumbai-montreal)
+ - [A third Apple store is looking to unionize](https://www.theverge.com/2022/5/3/23055406/apple-union-maryland-retail-corporate-return-to-work-letter-core-together)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
