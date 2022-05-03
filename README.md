@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will provide up to 500 employees of any US business $100K+ worth of online courses in data analytics, design, and other tech skills for free &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220502/p25#a220502p25)
- - [How to add a link to your TikTok bio](https://www.androidauthority.com/add-link-to-tiktok-bio-3160087/)
- - [Remote lockouts reportedly stop Russian troops from using stolen Ukrainian farm equipment](https://www.theverge.com/2022/5/2/23053944/russian-troops-steal-millions-farm-equipment-ukraine-disabled-remotely-john-deere)<!-- TECH:END -->
+ - [Chile-based Xepelin, which provides B2B payments and financial services for SMBs in Latin America, raises a $111M Series B in equity led by Avenir and Kaszek &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220502/p29#a220502p29)
+ - [How to see and clear your YouTube history](https://www.androidauthority.com/delete-youtube-history-3160091/)
+ - [Sources: PayPal and other companies made informal complaints to the European Commission about Apple&#39;s NFC restrictions, spurring the EU&#39;s antitrust complaint &lpar;Bloomberg&rpar;](http://www.techmeme.com/220502/p28#a220502p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
