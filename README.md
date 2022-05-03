@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Football!](http://9gag.com/gag/apgYbMM)
+ - 🚖 [They will find a way](http://9gag.com/gag/aBnOXZZ)
  - 🚯 [My dog](http://9gag.com/gag/aNPORyK)
- - 🚯 [Dads are the new Sexy..](http://9gag.com/gag/adgo29j)<!-- MEMES:END -->
+ - 🚯 [Is it me or does his acting give a Jim Carrey vibe!?](http://9gag.com/gag/aVxVVVy)<!-- MEMES:END -->
 
 --- 
 
