@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 2’s first trailer is missing the magic of the original movie](https://www.polygon.com/22971124/avatar-2-trailer-release-date-doctor-strange-2-sequels-pandora)
- - [Spotify has launched its own island in Roblox for reasons](https://www.pcgamer.com/spotify-has-launched-its-own-island-in-roblox-for-reasons)
- - [Doctor Strange in the Multiverse of Madness: our spoiler-free review](https://www.polygon.com/reviews/23054675/doctor-strange-2-review-multiverse-madness-spoiler-free-mcu)<!-- GAME:END -->
+ - [Make bizarre movies funny in RiffTrax: The Game](https://blog.playstation.com/2022/05/03/make-bizarre-movies-funny-in-rifftrax-the-game/)
+ - [Reggie Fils-Aimé And Satoru Iwata&#39;s Great Nintendo Friendship](https://kotaku.com/reggie-fils-aime-satoru-iwata-nintendo-kyoto-japan-ds-s-1848744615)
+ - [Avatar 2’s first trailer is missing the magic of the original movie](https://www.polygon.com/22971124/avatar-2-trailer-release-date-doctor-strange-2-sequels-pandora)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
