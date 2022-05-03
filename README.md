@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These XR glasses could be the answer to portable gaming woes](https://www.pcgamer.com/these-xr-glasses-could-be-the-answer-to-portable-gaming-woes)
  - [The Steam Deck Can Now &lpar;Officially&rpar; Run A LOT More Games](https://kotaku.com/valve-steam-deck-compatibility-verified-playable-games-1848871240)
- - [Elden Ring Player Does A Perfect Lord Of The Rings Impersonation](https://kotaku.com/elden-ring-lord-of-the-rings-hobbits-frodo-sam-sting-sh-1848871116)
- - [The specter of broken TVs returns to haunt Nintendo Switch Sports](https://www.polygon.com/23053752/nintendo-switch-sports-broken-tv-monitor-wii-sports)<!-- GAME:END -->
+ - [Elden Ring Player Does A Perfect Lord Of The Rings Impersonation](https://kotaku.com/elden-ring-lord-of-the-rings-hobbits-frodo-sam-sting-sh-1848871116)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
