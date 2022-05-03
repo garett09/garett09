@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Make bizarre movies funny in RiffTrax: The Game](https://blog.playstation.com/2022/05/03/make-bizarre-movies-funny-in-rifftrax-the-game/)
- - [Reggie Fils-Aimé And Satoru Iwata&#39;s Great Nintendo Friendship](https://kotaku.com/reggie-fils-aime-satoru-iwata-nintendo-kyoto-japan-ds-s-1848744615)
- - [Avatar 2’s first trailer is missing the magic of the original movie](https://www.polygon.com/22971124/avatar-2-trailer-release-date-doctor-strange-2-sequels-pandora)<!-- GAME:END -->
+ - [New PS4 Tournaments feature iconic fighting, FPS, and sports games](https://blog.playstation.com/2022/05/03/new-ps4-tournaments-feature-iconic-fighting-fps-and-sports-games/)
+ - [New PS4 Tournaments feature iconic fighting, FPS, and sports games](https://blog.playstation.com/2022/05/03/new-ps4-tournaments-feature-iconic-fighting-fps-and-sports-games/)
+ - [Even Game Pass Knows It’s Backlog Season](https://kotaku.com/xbox-pc-game-pass-trek-to-yomi-final-fantasy-x-x2-hd-st-1848873062)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
