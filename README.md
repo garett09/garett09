@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper uses tabletop mechanics to play with the sci-fi RPG format](https://www.polygon.com/reviews/23053260/citizen-sleeper-review-cyberpunk-sci-fi-rpg-tabletop)
- - [How to complete the Seluvis quest in Elden Ring](https://www.pcgamer.com/elden-ring-seluvis-quest-guide)
- - [USB Type-C cables capable of charging an RTX 3080 Ti gaming laptop are here](https://www.pcgamer.com/usb-type-c-cables-capable-of-charging-an-rtx-3080-ti-gaming-laptop-are-here)<!-- GAME:END -->
+ - [Avatar 2’s first trailer is missing the magic of the original movie](https://www.polygon.com/22971124/avatar-2-trailer-release-date-doctor-strange-2-sequels-pandora)
+ - [Spotify has launched its own island in Roblox for reasons](https://www.pcgamer.com/spotify-has-launched-its-own-island-in-roblox-for-reasons)
+ - [Doctor Strange in the Multiverse of Madness: our spoiler-free review](https://www.polygon.com/reviews/23054675/doctor-strange-2-review-multiverse-madness-spoiler-free-mcu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
