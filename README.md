@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Steam Deck Can Now &lpar;Officially&rpar; Run A LOT More Games](https://kotaku.com/valve-steam-deck-compatibility-verified-playable-games-1848871240)
  - [Elden Ring Player Does A Perfect Lord Of The Rings Impersonation](https://kotaku.com/elden-ring-lord-of-the-rings-hobbits-frodo-sam-sting-sh-1848871116)
- - [The specter of broken TVs returns to haunt Nintendo Switch Sports](https://www.polygon.com/23053752/nintendo-switch-sports-broken-tv-monitor-wii-sports)
- - [Vampire: The Masquerade – Bloodhunt proves vampires are more fun with AK-47s](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-proves-vampires-are-more-fun-with-ak-47s)<!-- GAME:END -->
+ - [The specter of broken TVs returns to haunt Nintendo Switch Sports](https://www.polygon.com/23053752/nintendo-switch-sports-broken-tv-monitor-wii-sports)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
