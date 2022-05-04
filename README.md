@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mental health app privacy language opens up holes for user data](https://www.theverge.com/2022/5/4/22985296/mental-health-app-privacy-policies-happify-cerebral-betterhealth-7cups)
- - [Lenovo’s excellent Chromebook Duet has dropped below $200 for the first time](https://www.theverge.com/good-deals/2022/5/4/23055149/lenovo-chromebook-duet-samsung-frame-tv-hp-spectre-x360-14-amazon-fire-tv-cube-deal-sale)
- - [Tailscale, which provides an enterprise mesh VPN service built on the open source WireGuard protocol, raises a $100M Series B at a $1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220504/p7#a220504p7)<!-- TECH:END -->
+ - [Publicis will acquire Profitero, which provides e-commerce software and analytics to over 4,000 brands, sources say for about $200M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/220504/p9#a220504p9)
+ - [Apple&#39;s M1 Max MacBook Pro is back in stock: save up to $300, plus deals on AppleCare](https://appleinsider.com/articles/22/05/03/apples-m1-max-macbook-pro-is-back-in-stock-save-up-to-300-plus-deals-on-applecare?utm_medium=rss)
+ - [Buying Wordle brought ‘tens of millions of new users’ to The New York Times](https://www.theverge.com/2022/5/4/23056688/wordle-new-york-times-subscribers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
