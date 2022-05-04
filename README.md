@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Darth Vader is really coming together in the new Obi-Wan trailer](https://www.polygon.com/star-wars/23056675/obi-wan-kenobi-disney-plus-trailer-release-date-may-the-4th)
- - [Microsoft&#39;s neglected baby boy Clippy is in Halo Infinite](https://www.pcgamer.com/microsofts-neglected-baby-boy-clippy-is-in-halo-infinite)
- - [Chaos Gate - Daemonhunters transforms XCOM into a gripping, Gotchic space tale](https://www.polygon.com/reviews/23055874/warhammer-40k-chaos-gate-daemonhunters-review-platforms-release-date-xcom)<!-- GAME:END -->
+ - [May the Force Be with You for a Chance to Win a Custom LEGO Star Wars: The Skywalker Saga Console](https://news.xbox.com/en-us/2022/05/04/win-custom-lego-star-wars-the-skywalker-saga-console/)
+ - [Neptune Frost’s first trailer offers a glimpse at Saul Williams’ boundary-pushing Afropunk sci-fi musical](https://www.polygon.com/23054007/neptune-frost-trailer-afropunk-sci-fi-musical)
+ - [DDR5 is finally relevant for PC gaming](https://www.pcgamer.com/ddr5-cas-latency-28)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
