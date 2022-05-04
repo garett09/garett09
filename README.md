@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LottieFiles, which develops plugins for app developers to create, edit, and test JSON-based Lottie animations, raises a $37M Series B led by Square Peg Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220504/p1#a220504p1)
- - [When Is &#39;Doctor Strange 2&#39; Coming to Disney Plus? What to Know     - CNET](https://www.cnet.com/culture/entertainment/when-is-doctor-strange-2-coming-to-disney-plus-what-to-know/#ftag=CAD590a51e)
- - [Imagene AI, whose AI tech can help detect cancerous biomarkers directly from a digitized biopsy image, raises a $18.5M Series A from Larry Ellison and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220503/p35#a220503p35)<!-- TECH:END -->
+ - [YouTube Go? More like YouTube Stop as lightweight app will be killed off](https://www.androidauthority.com/youtube-go-dead-3160656/)
+ - [Get a refurbished 27-inch Apple iMac for just $995 while supplies last](https://appleinsider.com/articles/22/05/04/get-a-refurbished-27-inch-apple-imac-for-just-995-while-supplies-last?utm_medium=rss)
+ - [Ozark Season 4 Finale&#39;s Wild Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/ozark-season-4-finales-wild-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
