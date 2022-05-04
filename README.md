@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub will require all code contributors to use two-factor authentication](https://www.theverge.com/2022/5/4/23056799/github-contributors-2fa-two-factor-authentication-2023)
- - [Learn how to make &#39;Star Wars&#39; creature vocals in virtual Today at Apple session](https://appleinsider.com/articles/22/05/04/learn-how-to-make-star-wars-creature-vocals-in-virtual-today-at-apple-session?utm_medium=rss)
- - [Everything Everywhere All At Once is an immigrant horror story about tax season](https://www.theverge.com/23055066/everything-everywhere-all-at-once-life-death-taxes)<!-- TECH:END -->
+ - [An interview with Tony Fadell on his new book, Google&#39;s &quot;culture of perks&quot;, developing the iPod and iPhone, why he says &quot;fuck the metaverse&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220504/p12#a220504p12)
+ - [Stack Overflow’s copy / paste keyboard now comes with RGB](https://www.theverge.com/2022/5/4/23035377/stack-overflow-drop-the-key-v2-copy-paste-keyboard)
+ - [The Verge Partners with Vox Media Studios and 21 Laps on New Netflix Series](https://www.theverge.com/2022/5/4/23056898/the-verge-partners-with-vox-media-studios-and-21-laps-on-new-netflix-series)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
