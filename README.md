@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Sonos’ next soundbar will be called the Sonos Ray](https://www.theverge.com/2022/5/4/23056593/sonos-ray-soundbar-name-features-price-leak)
- - [This Smart Water Bowl Tracks Your Cat’s Drinking Habits](https://www.wired.com/review/sure-petcare-felaqua-connect)
- - [Why fossil fuel companies see green in Bitcoin mining projects](https://www.theverge.com/2022/5/4/23055761/exxonmobil-cryptomining-bitcoin-methane-gas)<!-- TECH:END -->
+ - [Mental health app privacy language opens up holes for user data](https://www.theverge.com/2022/5/4/22985296/mental-health-app-privacy-policies-happify-cerebral-betterhealth-7cups)
+ - [Lenovo’s excellent Chromebook Duet has dropped below $200 for the first time](https://www.theverge.com/good-deals/2022/5/4/23055149/lenovo-chromebook-duet-samsung-frame-tv-hp-spectre-x360-14-amazon-fire-tv-cube-deal-sale)
+ - [Tailscale, which provides an enterprise mesh VPN service built on the open source WireGuard protocol, raises a $100M Series B at a $1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220504/p7#a220504p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
