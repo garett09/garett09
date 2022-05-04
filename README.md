@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit not syncing with MyFitnessPal? Try these quick fixes.](https://www.androidauthority.com/fitbit-myfitnesspal-sync-problems-3159124/)
- - [Interview with Shopify&#39;s Alex Danco, who heads its blockchain team, on how Web3, crypto, and NFTs can reshape commerce, making Shopify &quot;wallet-aware&quot;, and more &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/220504/p2#a220504p2)
- - [Poco F4 GT review: One for the mobile gamers](https://www.androidauthority.com/poco-f4-gt-review-3156746/)<!-- TECH:END -->
+ - [Fast, Cheap, and Out of Control: Inside Shein’s Sudden Rise](https://www.wired.com/story/fast-cheap-out-of-control-inside-rise-of-shein)
+ - [Apple showcases how &#39;Star Wars&#39; sound artists use 280 Macs](https://appleinsider.com/articles/22/05/04/apple-showcases-how-star-wars-sound-artists-use-280-macs?utm_medium=rss)
+ - [&#39;Obi-Wan Kenobi&#39; Feels Like the Last Hope for &#39;Star Wars&#39; Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-feels-like-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
