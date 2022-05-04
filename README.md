@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Accessibility features on iPhone and iPad](https://appleinsider.com/articles/22/03/02/how-to-use-the-accessibility-features-on-iphone-and-ipad?utm_medium=rss)
- - [France becomes first major European nation to grant regulatory approval for crypto giant Binance, after the company was rebuffed by UK, Italy, and others &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220504/p19#a220504p19)
- - [Sonos releasing its own privacy-focused voice assistant in June](https://appleinsider.com/articles/22/05/04/sonos-releasing-its-own-privacy-focused-voice-assistant-in-june?utm_medium=rss)<!-- TECH:END -->
+ - [Dish says it is rolling out its standalone 5G service in Las Vegas, months after its expected September 2021 launch, and plans to reach 120 markets by June &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220504/p22#a220504p22)
+ - [VW’s 2022 supply of EVs is ‘basically sold out’ in the US and Europe](https://www.theverge.com/2022/5/4/23057268/volkswagen-vw-electric-cars-sold-out-supply-chain)
+ - [Kentucky Derby 2022: How to Watch, Stream Live Without Cable     - CNET](https://www.cnet.com/culture/sports/kentucky-derby-2022-how-to-watch-stream-live-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
