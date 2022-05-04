@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Years Later I’m Still Thinking About The Cursed, Pregnant Padme In Lego Star Wars](https://kotaku.com/lego-star-wars-padme-pregnant-minifig-tt-games-weird-1848881289)
- - [Our biggest questions after Moon Knight, and the answers we can find](https://www.polygon.com/23056819/moon-knight-ending-explained-credits-scene-layla-scarlet-scarab-jake-lockley)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
+ - [New York City sues Activision Blizzard, says Bobby Kotick is &#39;unfit&#39; to negotiate the Microsoft buyout](https://www.pcgamer.com/new-york-city-sues-activision-blizzard-says-bobby-kotick-is-unfit-to-negotiate-the-microsoft-buyout)
+ - [Halo Infinite&#39;s Warthog just put on 170 pounds](https://www.pcgamer.com/halo-infinites-warthog-just-put-on-170-pounds)
+ - [Sykkuno explained why he left Twitch for YouTube](https://www.polygon.com/23057259/sykkuno-youtube-twitch-misspelling-clip-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
