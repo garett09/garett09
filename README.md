@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal rights and lefts](http://9gag.com/gag/awzY83y)
- - 🚯 [He flew out quickly..!!](http://9gag.com/gag/avAdXX5)
- - 🚯 [Jack Reacher Saves Man From Crazy Woman](http://9gag.com/gag/ay9YVOp)<!-- MEMES:END -->
+ - 🚖 [Raw](http://9gag.com/gag/a41Wxgm)
+ - 🚯 [This made me smile](http://9gag.com/gag/a41WmoZ)
+ - 🚯 [Random people batman beats up](http://9gag.com/gag/a31bzqm)<!-- MEMES:END -->
 
 --- 
 
