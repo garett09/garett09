@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal rights and lefts](http://9gag.com/gag/aRrOGEQ)
- - 🚯 [Dating in Spring ;&rpar;](http://9gag.com/gag/amgpQzV)
- - 🚯 [Old woman gets robbed in Stirling, Scotland](http://9gag.com/gag/a41W83Q)<!-- MEMES:END -->
+ - 🚖 [Here is your daily dose of awww](http://9gag.com/gag/aZrzKv3)
+ - 🚯 [The `Liberal Left` strikes again](http://9gag.com/gag/azeYzDm)
+ - 🚯 [When I do it&#39;s a scam, when the church does - it is faith](http://9gag.com/gag/a51qgbG)<!-- MEMES:END -->
 
 --- 
 
