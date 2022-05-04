@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
- - [33Gbps Wi-Fi 7 speeds coming to a router near you in 2023](https://www.androidauthority.com/wifi-7-3161090/)
- - [Source: Cameo plans to lay off 80+ employees, or about 25% of its workforce; CEO Steven Galanis says the cuts will &quot;balance our costs with our cash reserves&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/220504/p26#a220504p26)<!-- TECH:END -->
+ - [&#39;Prince of Tides&#39; series reboot coming to Apple TV+](https://appleinsider.com/articles/22/05/04/prince-of-tides-series-reboot-coming-to-apple-tv?utm_medium=rss)
+ - [Cameo lays off 87 employees, or ~25% of its workforce; source: the chief technology officer, chief product officer, and chief people officer were among the 87 &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220504/p29#a220504p29)
+ - [Google bought a MicroLED display company that could help make AR headsets better and cheaper](https://www.theverge.com/2022/5/4/23057579/google-acquires-raxium-microled-ar-vr-displays)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
