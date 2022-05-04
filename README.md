@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [May the Force Be with You for a Chance to Win a Custom LEGO Star Wars: The Skywalker Saga Console](https://news.xbox.com/en-us/2022/05/04/win-custom-lego-star-wars-the-skywalker-saga-console/)
- - [Neptune Frost’s first trailer offers a glimpse at Saul Williams’ boundary-pushing Afropunk sci-fi musical](https://www.polygon.com/23054007/neptune-frost-trailer-afropunk-sci-fi-musical)
- - [DDR5 is finally relevant for PC gaming](https://www.pcgamer.com/ddr5-cas-latency-28)<!-- GAME:END -->
+ - [Star Wars needs more moral ambiguity](https://www.polygon.com/star-wars/23056104/star-wars-moral-ambiguity-gray-characters)
+ - [Rogue Legacy 2 review](https://www.pcgamer.com/rogue-legacy-2-review)
+ - [GigaDrive 1TB external SSD](https://www.pcgamer.com/gigadrive-external-ssd-review-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
