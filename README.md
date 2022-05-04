@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Tony Fadell on his new book, Google&#39;s &quot;culture of perks&quot;, developing the iPod and iPhone, why he says &quot;fuck the metaverse&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220504/p12#a220504p12)
- - [Stack Overflow’s copy / paste keyboard now comes with RGB](https://www.theverge.com/2022/5/4/23035377/stack-overflow-drop-the-key-v2-copy-paste-keyboard)
- - [The Verge Partners with Vox Media Studios and 21 Laps on New Netflix Series](https://www.theverge.com/2022/5/4/23056898/the-verge-partners-with-vox-media-studios-and-21-laps-on-new-netflix-series)<!-- TECH:END -->
+ - [NYC employees&#39; pension funds sue Activision, alleging CEO Bobby Kotick rushed to complete Microsoft deal to escape liability for misconduct at Activision &lpar;Stephen Totilo/Axios&rpar;](http://www.techmeme.com/220504/p15#a220504p15)
+ - [Tech Companies Are Not Ready for the Post-Roe Era](https://www.wired.com/story/tech-companies-not-ready-post-roe-era)
+ - [Google says it removed 3.4B ads and suspended 5.6M+ advertiser accounts in 2021, after implementing a three-strikes rule to address deceitful practices and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/220504/p14#a220504p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
