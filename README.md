@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars needs more moral ambiguity](https://www.polygon.com/star-wars/23056104/star-wars-moral-ambiguity-gray-characters)
- - [Rogue Legacy 2 review](https://www.pcgamer.com/rogue-legacy-2-review)
- - [GigaDrive 1TB external SSD](https://www.pcgamer.com/gigadrive-external-ssd-review-performance)<!-- GAME:END -->
+ - [Halo Infinite’s new season adds Clippy from Microsoft Office](https://www.polygon.com/23056923/halo-infinite-season-2-battle-pass-lone-wolves-clippy-charm)
+ - [Reggie Fils-Aimé Weighs In On Nintendo Worker Exploitation: ‘This Isn’t The Nintendo I Left’](https://kotaku.com/nintendo-switch-america-reggie-fils-aime-union-exploita-1848879267)
+ - [Firefox turns 100, does not break the internet](https://www.pcgamer.com/firefox-100-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
