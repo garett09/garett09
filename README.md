@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Go? More like YouTube Stop as lightweight app will be killed off](https://www.androidauthority.com/youtube-go-dead-3160656/)
- - [Moto G Stylus 5G Review: Great Specs For $500 But Limited Software Updates     - CNET](https://www.cnet.com/tech/mobile/moto-g-stylus-5g-review-great-specs-for-500-but-limited-software-updates/#ftag=CAD590a51e)
- - [Get a refurbished 27-inch Apple iMac for just $995 while supplies last](https://appleinsider.com/articles/22/05/04/get-a-refurbished-27-inch-apple-imac-for-just-995-while-supplies-last?utm_medium=rss)<!-- TECH:END -->
+ - [How to sync Fitbit devices with Garmin Connect](https://www.androidauthority.com/sync-fitbit-garmin-connect-3160190/)
+ - [Google Pixel Fold leak suggests a smaller Galaxy Z Fold 4 rival](https://www.androidauthority.com/google-pixel-fold-size-3160664/)
+ - [&#39;Doctor Strange 2&#39; Recap: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-recap-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
