@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Refugees in Turkey harassed a women and then threatened her. Then they get all scared when faced with consequences but that won&#39;t stop them getting beaten.](http://9gag.com/gag/a0ZMqAO)
- - 🚯 [Next spin is a win!](http://9gag.com/gag/abgQD4L)
- - 🚯 [The terrifying power of the Ocean](http://9gag.com/gag/aogYw0X)<!-- MEMES:END -->
+ - 🚖 [May the 4th be with you!](http://9gag.com/gag/axBYKDD)
+ - 🚯 [The terrifying power of the Ocean](http://9gag.com/gag/aogYw0X)
+ - 🚯 [That was a nice wine collection](http://9gag.com/gag/aAGOA9R)<!-- MEMES:END -->
 
 --- 
 
