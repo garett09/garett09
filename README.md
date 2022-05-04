@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New York City sues Activision Blizzard, says Bobby Kotick is &#39;unfit&#39; to negotiate the Microsoft buyout](https://www.pcgamer.com/new-york-city-sues-activision-blizzard-says-bobby-kotick-is-unfit-to-negotiate-the-microsoft-buyout)
- - [Halo Infinite&#39;s Warthog just put on 170 pounds](https://www.pcgamer.com/halo-infinites-warthog-just-put-on-170-pounds)
- - [Sykkuno explained why he left Twitch for YouTube](https://www.polygon.com/23057259/sykkuno-youtube-twitch-misspelling-clip-stream)<!-- GAME:END -->
+ - [Metroid Prime&#39;s Iconic Logo Took Creator 53 Revisions To Get Just Right](https://kotaku.com/metroid-prime-logo-creator-design-samus-aran-nintendo-g-1848882082)
+ - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
+ - [Halo Infinite’s New Arena Map Actually Feels Like A Halo Map](https://kotaku.com/halo-infinite-season-2-lone-wolves-catalyst-arena-map-p-1848880739)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
