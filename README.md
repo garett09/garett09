@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try explaining this to your kid](http://9gag.com/gag/angrw5z)
- - 🚯 [Happy Star Wars Day Everyone.](http://9gag.com/gag/aM4O5K1)
- - 🚯 [Agreed!](http://9gag.com/gag/amgpwyX)<!-- MEMES:END -->
+ - 🚖 [Refugees in Turkey harassed a women and then threatened her. Then they get all scared when faced with consequences but that won&#39;t stop them getting beaten.](http://9gag.com/gag/a0ZMqAO)
+ - 🚯 [Next spin is a win!](http://9gag.com/gag/abgQD4L)
+ - 🚯 [The terrifying power of the Ocean](http://9gag.com/gag/aogYw0X)<!-- MEMES:END -->
 
 --- 
 
