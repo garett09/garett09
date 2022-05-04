@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The `Liberal Left` strikes again](http://9gag.com/gag/azeYzDm)
- - 🚯 [The terrifying power of the Ocean](http://9gag.com/gag/aogYw0X)
- - 🚯 [When I do it&#39;s a scam, when the church does - it is faith](http://9gag.com/gag/a51qgbG)<!-- MEMES:END -->
+ - 🚖 [When I do it&#39;s a scam, when the church does - it is faith](http://9gag.com/gag/a51qgbG)
+ - 🚯 [Happy Star Wars Day Everyone.](http://9gag.com/gag/aM4O5K1)
+ - 🚯 [Blue hair then and now](http://9gag.com/gag/aggEbzw)<!-- MEMES:END -->
 
 --- 
 
