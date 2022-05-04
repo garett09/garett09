@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wario&#39;s First Big Speaking Role Was For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)
- - [Reggie Did Not Like The Game Boy Micro, So Now We Are Enemies](https://kotaku.com/reggie-fils-aime-nintendo-game-boy-micro-gba-advance-sa-1848877069)
- - [What Coca-Cola&#39;s &#39;pixel flavored&#39; soda tastes like](https://www.pcgamer.com/coca-cola-byte-taste-flavor-review)<!-- GAME:END -->
+ - [Wario&#39;s Big Speaking Role For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)
+ - [Hitman 3 game director will lead Crysis 4 development](https://www.pcgamer.com/hitman-3-game-director-will-lead-crysis-4-development)
+ - [Reggie Did Not Like The Game Boy Micro, So Now We Are Enemies](https://kotaku.com/reggie-fils-aime-nintendo-game-boy-micro-gba-advance-sa-1848877069)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
