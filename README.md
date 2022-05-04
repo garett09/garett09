@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD confirms exciting new Dragon Reach and Phoenix APUs for next-gen laptops](https://www.pcgamer.com/amd-dragon-reach-apu)
- - [Everything we know about Genshin Impact 2.7](https://www.pcgamer.com/genshin-impact-27-release-date)
- - [Oaken is a small but smart tactical puzzler](https://www.pcgamer.com/oaken-is-a-small-but-smart-tactical-puzzler)<!-- GAME:END -->
+ - [Darth Vader is really coming together in the new Obi-Wan trailer](https://www.polygon.com/star-wars/23056675/obi-wan-kenobi-disney-plus-trailer-release-date-may-the-4th)
+ - [Microsoft&#39;s neglected baby boy Clippy is in Halo Infinite](https://www.pcgamer.com/microsofts-neglected-baby-boy-clippy-is-in-halo-infinite)
+ - [Chaos Gate - Daemonhunters transforms XCOM into a gripping, Gotchic space tale](https://www.polygon.com/reviews/23055874/warhammer-40k-chaos-gate-daemonhunters-review-platforms-release-date-xcom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
