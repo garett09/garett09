@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Publicis will acquire Profitero, which provides e-commerce software and analytics to over 4,000 brands, sources say for about $200M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/220504/p9#a220504p9)
- - [Apple&#39;s M1 Max MacBook Pro is back in stock: save up to $300, plus deals on AppleCare](https://appleinsider.com/articles/22/05/03/apples-m1-max-macbook-pro-is-back-in-stock-save-up-to-300-plus-deals-on-applecare?utm_medium=rss)
- - [Buying Wordle brought ‘tens of millions of new users’ to The New York Times](https://www.theverge.com/2022/5/4/23056688/wordle-new-york-times-subscribers)<!-- TECH:END -->
+ - [GitHub will require all code contributors to use two-factor authentication](https://www.theverge.com/2022/5/4/23056799/github-contributors-2fa-two-factor-authentication-2023)
+ - [Learn how to make &#39;Star Wars&#39; creature vocals in virtual Today at Apple session](https://appleinsider.com/articles/22/05/04/learn-how-to-make-star-wars-creature-vocals-in-virtual-today-at-apple-session?utm_medium=rss)
+ - [Everything Everywhere All At Once is an immigrant horror story about tax season](https://www.theverge.com/23055066/everything-everywhere-all-at-once-life-death-taxes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
