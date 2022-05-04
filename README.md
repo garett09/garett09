@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast, Cheap, and Out of Control: Inside Shein’s Sudden Rise](https://www.wired.com/story/fast-cheap-out-of-control-inside-rise-of-shein)
- - [Apple showcases how &#39;Star Wars&#39; sound artists use 280 Macs](https://appleinsider.com/articles/22/05/04/apple-showcases-how-star-wars-sound-artists-use-280-macs?utm_medium=rss)
- - [&#39;Obi-Wan Kenobi&#39; Feels Like the Last Hope for &#39;Star Wars&#39; Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-feels-like-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Allison Janney joins &#39;Mrs American Pie&#39; on Apple TV+](https://appleinsider.com/articles/22/05/04/allison-janney-joins-mrs-american-pie-on-apple-tv?utm_medium=rss)
+ - [Apple plans to remove Portland store&#39;s steel security fence](https://appleinsider.com/articles/22/05/04/apple-plans-to-remove-portland-stores-steel-security-fence?utm_medium=rss)
+ - [Elon Musk Invited to UK Parliament to Talk Twitter Acquistion     - CNET](https://www.cnet.com/news/politics/elon-musk-invited-to-uk-parliament-to-talk-twitter-acquistion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
