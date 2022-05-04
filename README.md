@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I do it&#39;s a scam, when the church does - it is faith](http://9gag.com/gag/a51qgbG)
+ - 🚖 [Try explaining this to your kid](http://9gag.com/gag/angrw5z)
  - 🚯 [Happy Star Wars Day Everyone.](http://9gag.com/gag/aM4O5K1)
- - 🚯 [Blue hair then and now](http://9gag.com/gag/aggEbzw)<!-- MEMES:END -->
+ - 🚯 [Agreed!](http://9gag.com/gag/amgpwyX)<!-- MEMES:END -->
 
 --- 
 
