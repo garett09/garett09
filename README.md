@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sync Fitbit devices with Garmin Connect](https://www.androidauthority.com/sync-fitbit-garmin-connect-3160190/)
- - [Google Pixel Fold leak suggests a smaller Galaxy Z Fold 4 rival](https://www.androidauthority.com/google-pixel-fold-size-3160664/)
- - [&#39;Doctor Strange 2&#39; Recap: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-recap-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit not syncing with MyFitnessPal? Try these quick fixes.](https://www.androidauthority.com/fitbit-myfitnesspal-sync-problems-3159124/)
+ - [Interview with Shopify&#39;s Alex Danco, who heads its blockchain team, on how Web3, crypto, and NFTs can reshape commerce, making Shopify &quot;wallet-aware&quot;, and more &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/220504/p2#a220504p2)
+ - [Poco F4 GT review: One for the mobile gamers](https://www.androidauthority.com/poco-f4-gt-review-3156746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
