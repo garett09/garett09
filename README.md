@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There is no damn way Baby Yoda smells like this](https://www.polygon.com/star-wars/23057143/baby-yoda-grogu-air-freshener-may-the-fourth)
- - [Heartstopper understands the bisexual panic of watching Pirates of Caribbean](https://www.polygon.com/23055572/heartstopper-memes-explained)
- - [Take a long look at Arkane’s canceled Half-Life 2 game that we’ll never play](https://www.polygon.com/23057039/ravenholm-half-life-2-spinoff-arkane-studios-noclip-reveal-footage)<!-- GAME:END -->
+ - [Nintendo Switch Sports players are sneaking around profanity filters](https://www.polygon.com/23057193/nintendo-switch-sports-profanity-filters-names-swears)
+ - [New lawsuit alleges Activision CEO Bobby Kotick used Microsoft sale to ‘escape liability’](https://www.polygon.com/23057072/activision-blizzard-lawsuit-new-york-microsoft-sale-bobby-kotick)
+ - [Did Zelda Voice Actor Just Reveal A Major Breath Of The Wild 2 Plot Point?](https://kotaku.com/legend-zelda-breath-wild-sequel-daruk-plot-story-charac-1848880677)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
