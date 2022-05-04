@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Update Is So Big It Requires A Table Of Contents](https://kotaku.com/halo-infinite-update-is-so-big-it-requires-a-table-of-c-1848876483)
- - [Blizzard&#39;s new mobile game announcement didn&#39;t piss everyone off this time](https://www.pcgamer.com/blizzards-new-mobile-game-announcement-didnt-piss-everyone-off-this-time)
- - [Loot River, the &#39;Diablo and Tetris had a baby&#39; game, is out today](https://www.pcgamer.com/loot-river-the-diablo-and-tetris-had-a-baby-game-is-out-today)<!-- GAME:END -->
+ - [Reggie Did Not Like The Game Boy Micro, So Now We Are Enemies](https://kotaku.com/reggie-fils-aime-nintendo-game-boy-micro-gba-advance-sa-1848877069)
+ - [What Coca-Cola&#39;s &#39;pixel flavored&#39; soda tastes like](https://www.pcgamer.com/coca-cola-byte-taste-flavor-review)
+ - [Why I failed to terraform Mars: too many space hotels, not enough cabbage](https://www.pcgamer.com/why-i-failed-to-terraform-mars-too-many-space-hotels-not-enough-cabbage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
