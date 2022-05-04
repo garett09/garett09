@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC employees&#39; pension funds sue Activision, alleging CEO Bobby Kotick rushed to complete Microsoft deal to escape liability for misconduct at Activision &lpar;Stephen Totilo/Axios&rpar;](http://www.techmeme.com/220504/p15#a220504p15)
- - [Tech Companies Are Not Ready for the Post-Roe Era](https://www.wired.com/story/tech-companies-not-ready-post-roe-era)
- - [Google says it removed 3.4B ads and suspended 5.6M+ advertiser accounts in 2021, after implementing a three-strikes rule to address deceitful practices and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/220504/p14#a220504p14)<!-- TECH:END -->
+ - [Clippy is in Halo Infinite](https://www.theverge.com/2022/5/4/23056969/clippy-halo-infinite-emblem-charm-unlockable)
+ - [The 10 best free YouTube TV shows you can watch now &lpar;and one you shouldn’t&rpar;](https://www.androidauthority.com/best-free-youtube-tv-shows-3159937/)
+ - [Intuit will pay $141M in restitution to ~4.4M US customers who were charged for using the TurboTax Free Edition, in a settlement with all 50 states and DC &lpar;Greg Iacurci/CNBC&rpar;](http://www.techmeme.com/220504/p16#a220504p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
