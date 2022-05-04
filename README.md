@@ -193,8 +193,8 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- TECH:START -->
  - [YouTube Go? More like YouTube Stop as lightweight app will be killed off](https://www.androidauthority.com/youtube-go-dead-3160656/)
- - [Get a refurbished 27-inch Apple iMac for just $995 while supplies last](https://appleinsider.com/articles/22/05/04/get-a-refurbished-27-inch-apple-imac-for-just-995-while-supplies-last?utm_medium=rss)
- - [Ozark Season 4 Finale&#39;s Wild Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/ozark-season-4-finales-wild-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Moto G Stylus 5G Review: Great Specs For $500 But Limited Software Updates     - CNET](https://www.cnet.com/tech/mobile/moto-g-stylus-5g-review-great-specs-for-500-but-limited-software-updates/#ftag=CAD590a51e)
+ - [Get a refurbished 27-inch Apple iMac for just $995 while supplies last](https://appleinsider.com/articles/22/05/04/get-a-refurbished-27-inch-apple-imac-for-just-995-while-supplies-last?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
