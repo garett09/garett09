@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Arc scavenger hunt gives us some hints about the cards&#39; pricing](https://www.pcgamer.com/intels-arc-scavenger-hunt-gives-us-some-hints-about-the-cards-pricing)
  - [Latest RDNA 3 rumors dial back on the excitement a little](https://www.pcgamer.com/latest-rdna-3-rumors-dial-back-on-the-excitement-a-little)
- - [Wario&#39;s Big Speaking Role For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)
- - [Hitman 3 game director will lead Crysis 4 development](https://www.pcgamer.com/hitman-3-game-director-will-lead-crysis-4-development)<!-- GAME:END -->
+ - [Wario&#39;s Big Speaking Role For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
