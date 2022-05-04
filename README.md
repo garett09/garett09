@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LottieFiles, which develops plugins for app developers to create, edit, and test JSON-based Lottie animations, raises a $37M Series B led by Square Peg Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220504/p1#a220504p1)
  - [Imagene AI, whose AI tech can help detect cancerous biomarkers directly from a digitized biopsy image, raises a $18.5M Series A from Larry Ellison and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220503/p35#a220503p35)
- - [Filing: Didi says it is cooperating with the SEC&#39;s investigation into its $4.4B US IPO in June 2021, &quot;subject to strict compliance&quot; with the Chinese law &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/220503/p34#a220503p34)
- - [Lumos, which is building an app store for companies to manage all the SaaS apps their employees use, emerges from stealth with $30M+ from a16z, Neo, and others &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220503/p33#a220503p33)<!-- TECH:END -->
+ - [Filing: Didi says it is cooperating with the SEC&#39;s investigation into its $4.4B US IPO in June 2021, &quot;subject to strict compliance&quot; with the Chinese law &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/220503/p34#a220503p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
