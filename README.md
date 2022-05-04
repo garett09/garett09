@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allison Janney joins &#39;Mrs American Pie&#39; on Apple TV+](https://appleinsider.com/articles/22/05/04/allison-janney-joins-mrs-american-pie-on-apple-tv?utm_medium=rss)
- - [Apple plans to remove Portland store&#39;s steel security fence](https://appleinsider.com/articles/22/05/04/apple-plans-to-remove-portland-stores-steel-security-fence?utm_medium=rss)
- - [Elon Musk Invited to UK Parliament to Talk Twitter Acquistion     - CNET](https://www.cnet.com/news/politics/elon-musk-invited-to-uk-parliament-to-talk-twitter-acquistion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Exclusive: Sonos’ next soundbar will be called the Sonos Ray](https://www.theverge.com/2022/5/4/23056593/sonos-ray-soundbar-name-features-price-leak)
+ - [This Smart Water Bowl Tracks Your Cat’s Drinking Habits](https://www.wired.com/review/sure-petcare-felaqua-connect)
+ - [Why fossil fuel companies see green in Bitcoin mining projects](https://www.theverge.com/2022/5/4/23055761/exxonmobil-cryptomining-bitcoin-methane-gas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
