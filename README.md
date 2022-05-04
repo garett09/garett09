@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFT Market Collapses Just As Square Enix Sells Tomb Raider To Bet Big On Blockchain](https://kotaku.com/nft-market-collapse-square-enix-ubisoft-sega-konami-sca-1848878945)
- - [Somehow, Elden Ring&#39;s Most Forgotten Boss Now Has An Entire Fandom](https://kotaku.com/elden-ring-soldier-godrick-tutorial-boss-reddit-fromsof-1848879732)
- - [Halo Infinite’s new season adds Clippy from Microsoft Office](https://www.polygon.com/23056923/halo-infinite-season-2-battle-pass-lone-wolves-clippy-charm)<!-- GAME:END -->
+ - [There is no damn way Baby Yoda smells like this](https://www.polygon.com/star-wars/23057143/baby-yoda-grogu-air-freshener-may-the-fourth)
+ - [Heartstopper understands the bisexual panic of watching Pirates of Caribbean](https://www.polygon.com/23055572/heartstopper-memes-explained)
+ - [Take a long look at Arkane’s canceled Half-Life 2 game that we’ll never play](https://www.polygon.com/23057039/ravenholm-half-life-2-spinoff-arkane-studios-noclip-reveal-footage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
