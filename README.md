@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite’s new season adds Clippy from Microsoft Office](https://www.polygon.com/23056923/halo-infinite-season-2-battle-pass-lone-wolves-clippy-charm)
- - [Reggie Fils-Aimé Weighs In On Nintendo Worker Exploitation: ‘This Isn’t The Nintendo I Left’](https://kotaku.com/nintendo-switch-america-reggie-fils-aime-union-exploita-1848879267)
- - [Firefox turns 100, does not break the internet](https://www.pcgamer.com/firefox-100-update)<!-- GAME:END -->
+ - [NFT Market Collapses Just As Square Enix Sells Tomb Raider To Bet Big On Blockchain](https://kotaku.com/nft-market-collapse-square-enix-ubisoft-sega-konami-sca-1848878945)
+ - [Somehow, Elden Ring&#39;s Most Forgotten Boss Now Has An Entire Fandom](https://kotaku.com/elden-ring-soldier-godrick-tutorial-boss-reddit-fromsof-1848879732)
+ - [Halo Infinite’s new season adds Clippy from Microsoft Office](https://www.polygon.com/23056923/halo-infinite-season-2-battle-pass-lone-wolves-clippy-charm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
