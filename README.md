@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So... Sauce?](http://9gag.com/gag/a71pBbw)
- - 🚯 [The Matrix](http://9gag.com/gag/aeg7qLj)
- - 🚯 [Crypto scam in a nutshell](http://9gag.com/gag/a91OezZ)<!-- MEMES:END -->
+ - 🚖 [Go camping they said, it will be fun they said.](http://9gag.com/gag/a81K9q1)
+ - 🚯 [Crypto scam in a nutshell](http://9gag.com/gag/a91OezZ)
+ - 🚯 [Equal rights and lefts](http://9gag.com/gag/aRrOGEQ)<!-- MEMES:END -->
 
 --- 
 
