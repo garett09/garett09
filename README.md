@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dish says it is rolling out its standalone 5G service in Las Vegas, months after its expected September 2021 launch, and plans to reach 120 markets by June &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/220504/p22#a220504p22)
- - [VW’s 2022 supply of EVs is ‘basically sold out’ in the US and Europe](https://www.theverge.com/2022/5/4/23057268/volkswagen-vw-electric-cars-sold-out-supply-chain)
- - [Kentucky Derby 2022: How to Watch, Stream Live Without Cable     - CNET](https://www.cnet.com/culture/sports/kentucky-derby-2022-how-to-watch-stream-live-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit Sense 2/Versa 4 could fix the most-hated problem of their predecessors](https://www.androidauthority.com/fitbit-sense-2-3161053/)
+ - [Twilio Q1: revenue up 48% YoY to $875.4M, a $217.8M loss from operations, vs $197.3M YoY, 268K active customer accounts, up from 235K YoY, and slowing Q2 growth &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/220504/p24#a220504p24)
+ - [13 Great Star Wars Day Deals on Apparel, Movies, and Phone Cases](https://www.wired.com/story/may-the-4th-star-wars-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
