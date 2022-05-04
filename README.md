@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Marine Iguana, the only marine lizard species in the world. It is endemic to the Gal\u00e1pagos Islands.](http://9gag.com/gag/adgorGV)
- - 🚯 [Hello old friend](http://9gag.com/gag/a91OZ7Z)
- - 🚯 [`I was born and raised like metalhead` *His mother*](http://9gag.com/gag/ajgW3x1)<!-- MEMES:END -->
+ - 🚖 [`She is adorable` `i can&#39;t wait for her to turn 18`](http://9gag.com/gag/a31bzeN)
+ - 🚯 [Spot the difference](http://9gag.com/gag/aRrO997)
+ - 🚯 [The Matrix](http://9gag.com/gag/aeg7qLj)<!-- MEMES:END -->
 
 --- 
 
