@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Refugees in Turkey harassed a women and then threatened her. Then they get all scared when faced with consequences but that won&#39;t stop them getting beaten.](http://9gag.com/gag/a0ZMqAO)
- - 🚯 [Lessons learned](http://9gag.com/gag/avAdjQd)
- - 🚯 [The courtroom footage from the Depp/Heard process is gold, here some from a thirsty cameraman zooming on Dr. Curry](http://9gag.com/gag/aXrK3O6)<!-- MEMES:END -->
+ - 🚖 [Lessons learned](http://9gag.com/gag/avAdjQd)
+ - 🚯 [The courtroom footage from the Depp/Heard process is gold, here some from a thirsty cameraman zooming on Dr. Curry](http://9gag.com/gag/aXrK3O6)
+ - 🚯 [I think this one will replace kim kardashian\u2019s crying meme](http://9gag.com/gag/abgQnYO)<!-- MEMES:END -->
 
 --- 
 
