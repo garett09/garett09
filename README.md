@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [May the 4th be with you!](http://9gag.com/gag/axBYKDD)
- - 🚯 [The terrifying power of the Ocean](http://9gag.com/gag/aogYw0X)
- - 🚯 [That was a nice wine collection](http://9gag.com/gag/aAGOA9R)<!-- MEMES:END -->
+ - 🚖 [Refugees in Turkey harassed a women and then threatened her. Then they get all scared when faced with consequences but that won&#39;t stop them getting beaten.](http://9gag.com/gag/a0ZMqAO)
+ - 🚯 [Lessons learned](http://9gag.com/gag/avAdjQd)
+ - 🚯 [The courtroom footage from the Depp/Heard process is gold, here some from a thirsty cameraman zooming on Dr. Curry](http://9gag.com/gag/aXrK3O6)<!-- MEMES:END -->
 
 --- 
 
