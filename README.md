@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime&#39;s Iconic Logo Took Creator 53 Revisions To Get Just Right](https://kotaku.com/metroid-prime-logo-creator-design-samus-aran-nintendo-g-1848882082)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Halo Infinite’s New Arena Map Actually Feels Like A Halo Map](https://kotaku.com/halo-infinite-season-2-lone-wolves-catalyst-arena-map-p-1848880739)<!-- GAME:END -->
+ - [Bungie tells critics it will &#39;never&#39; avoid politics as it declares support for Roe v. Wade](https://www.pcgamer.com/bungie-tells-critics-it-will-never-avoid-politics-as-it-declares-support-for-roe-v-wade)
+ - [The Stanley Parable developers highlight its new ultra deluxe accessibility options](https://www.pcgamer.com/the-stanley-parable-developers-highlight-its-new-ultra-deluxe-accessibility-options)
+ - [Metroid Prime&#39;s Iconic Logo Took Creator 53 Revisions To Get Just Right](https://kotaku.com/metroid-prime-logo-creator-design-samus-aran-nintendo-g-1848882082)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
