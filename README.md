@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`She is adorable` `i can&#39;t wait for her to turn 18`](http://9gag.com/gag/a31bzeN)
- - 🚯 [Spot the difference](http://9gag.com/gag/aRrO997)
- - 🚯 [The Matrix](http://9gag.com/gag/aeg7qLj)<!-- MEMES:END -->
+ - 🚖 [Every time some ask me my favorite show, I just say the road so far and star singing](http://9gag.com/gag/aVxV95w)
+ - 🚯 [`She is adorable` `i can&#39;t wait for her to turn 18`](http://9gag.com/gag/a31bzeN)
+ - 🚯 [She\u2019s gonna come back, right?](http://9gag.com/gag/aAGOLgZ)<!-- MEMES:END -->
 
 --- 
 
