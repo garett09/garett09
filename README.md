@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Sense 2/Versa 4 could fix the most-hated problem of their predecessors](https://www.androidauthority.com/fitbit-sense-2-3161053/)
- - [Twilio Q1: revenue up 48% YoY to $875.4M, a $217.8M loss from operations, vs $197.3M YoY, 268K active customer accounts, up from 235K YoY, and slowing Q2 growth &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/220504/p24#a220504p24)
- - [13 Great Star Wars Day Deals on Apparel, Movies, and Phone Cases](https://www.wired.com/story/may-the-4th-star-wars-deals-2022)<!-- TECH:END -->
+ - [Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
+ - [33Gbps Wi-Fi 7 speeds coming to a router near you in 2023](https://www.androidauthority.com/wifi-7-3161090/)
+ - [Source: Cameo plans to lay off 80+ employees, or about 25% of its workforce; CEO Steven Galanis says the cuts will &quot;balance our costs with our cash reserves&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/220504/p26#a220504p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
