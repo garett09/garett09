@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Indian Friend: Try the curry, it&#39;s not that hot. The curry:](http://9gag.com/gag/a51qYOy)
- - 🚯 [Holyshit!!!](http://9gag.com/gag/aVxVymP)
- - 🚯 [Agreed!](http://9gag.com/gag/amgpwyX)<!-- MEMES:END -->
+ - 🚖 [Agreed!](http://9gag.com/gag/amgpwyX)
+ - 🚯 [Respek](http://9gag.com/gag/aQXO5Ww)
+ - 🚯 [Holyshit!!!](http://9gag.com/gag/aVxVymP)<!-- MEMES:END -->
 
 --- 
 
