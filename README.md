@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Arc scavenger hunt gives us some hints about the cards&#39; pricing](https://www.pcgamer.com/intels-arc-scavenger-hunt-gives-us-some-hints-about-the-cards-pricing)
- - [Latest RDNA 3 rumors dial back on the excitement a little](https://www.pcgamer.com/latest-rdna-3-rumors-dial-back-on-the-excitement-a-little)
- - [Wario&#39;s Big Speaking Role For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #319: Wednesday, May 4](https://www.pcgamer.com/wordle-may-4-319)
+ - [The worst Star Wars games on PC](https://www.pcgamer.com/the-worst-star-wars-games-on-pc)
+ - [Intel&#39;s Arc scavenger hunt gives us some hints about the cards&#39; pricing](https://www.pcgamer.com/intels-arc-scavenger-hunt-gives-us-some-hints-about-the-cards-pricing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
