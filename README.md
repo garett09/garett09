@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lessons learned](http://9gag.com/gag/avAdjQd)
- - 🚯 [The courtroom footage from the Depp/Heard process is gold, here some from a thirsty cameraman zooming on Dr. Curry](http://9gag.com/gag/aXrK3O6)
- - 🚯 [I think this one will replace kim kardashian\u2019s crying meme](http://9gag.com/gag/abgQnYO)<!-- MEMES:END -->
+ - 🚖 [My Indian Friend: Try the curry, it&#39;s not that hot. The curry:](http://9gag.com/gag/a51qYOy)
+ - 🚯 [Holyshit!!!](http://9gag.com/gag/aVxVymP)
+ - 🚯 [Agreed!](http://9gag.com/gag/amgpwyX)<!-- MEMES:END -->
 
 --- 
 
