@@ -200,8 +200,8 @@ Windows                  3 hrs 58 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The Marine Iguana, the only marine lizard species in the world. It is endemic to the Gal\u00e1pagos Islands.](http://9gag.com/gag/adgorGV)
- - 🚯 [One trip](http://9gag.com/gag/aQXOBK8)
- - 🚯 [When China reports another first human case of a disease](http://9gag.com/gag/axBYQNK)<!-- MEMES:END -->
+ - 🚯 [Hello old friend](http://9gag.com/gag/a91OZ7Z)
+ - 🚯 [`I was born and raised like metalhead` *His mother*](http://9gag.com/gag/ajgW3x1)<!-- MEMES:END -->
 
 --- 
 
