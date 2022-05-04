@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #319: Wednesday, May 4](https://www.pcgamer.com/wordle-may-4-319)
- - [The worst Star Wars games on PC](https://www.pcgamer.com/the-worst-star-wars-games-on-pc)
- - [Intel&#39;s Arc scavenger hunt gives us some hints about the cards&#39; pricing](https://www.pcgamer.com/intels-arc-scavenger-hunt-gives-us-some-hints-about-the-cards-pricing)<!-- GAME:END -->
+ - [AMD confirms exciting new Dragon Reach and Phoenix APUs for next-gen laptops](https://www.pcgamer.com/amd-dragon-reach-apu)
+ - [Everything we know about Genshin Impact 2.7](https://www.pcgamer.com/genshin-impact-27-release-date)
+ - [Oaken is a small but smart tactical puzzler](https://www.pcgamer.com/oaken-is-a-small-but-smart-tactical-puzzler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
