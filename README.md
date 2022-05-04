@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every time some ask me my favorite show, I just say the road so far and star singing](http://9gag.com/gag/aVxV95w)
- - 🚯 [`She is adorable` `i can&#39;t wait for her to turn 18`](http://9gag.com/gag/a31bzeN)
- - 🚯 [She\u2019s gonna come back, right?](http://9gag.com/gag/aAGOLgZ)<!-- MEMES:END -->
+ - 🚖 [Moo gah Bay bee](http://9gag.com/gag/azeYvXB)
+ - 🚯 [Old woman gets robbed in Stirling, Scotland](http://9gag.com/gag/a41W83Q)
+ - 🚯 [Equal rights and lefts](http://9gag.com/gag/aRrOGEQ)<!-- MEMES:END -->
 
 --- 
 
