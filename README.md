@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wario&#39;s First Big Speaking Role Was For...A British Supermarket](https://kotaku.com/wario-voice-charles-martinet-nintendo-tesco-ds-wariowar-1848877413)
  - [Reggie Did Not Like The Game Boy Micro, So Now We Are Enemies](https://kotaku.com/reggie-fils-aime-nintendo-game-boy-micro-gba-advance-sa-1848877069)
- - [What Coca-Cola&#39;s &#39;pixel flavored&#39; soda tastes like](https://www.pcgamer.com/coca-cola-byte-taste-flavor-review)
- - [Why I failed to terraform Mars: too many space hotels, not enough cabbage](https://www.pcgamer.com/why-i-failed-to-terraform-mars-too-many-space-hotels-not-enough-cabbage)<!-- GAME:END -->
+ - [What Coca-Cola&#39;s &#39;pixel flavored&#39; soda tastes like](https://www.pcgamer.com/coca-cola-byte-taste-flavor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
