@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Raw](http://9gag.com/gag/a41Wxgm)
- - 🚯 [This made me smile](http://9gag.com/gag/a41WmoZ)
- - 🚯 [Random people batman beats up](http://9gag.com/gag/a31bzqm)<!-- MEMES:END -->
+ - 🚖 [The Marine Iguana, the only marine lizard species in the world. It is endemic to the Gal\u00e1pagos Islands.](http://9gag.com/gag/adgorGV)
+ - 🚯 [One trip](http://9gag.com/gag/aQXOBK8)
+ - 🚯 [When China reports another first human case of a disease](http://9gag.com/gag/axBYQNK)<!-- MEMES:END -->
 
 --- 
 
