@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here is your daily dose of awww](http://9gag.com/gag/aZrzKv3)
- - 🚯 [Random people batman beats up](http://9gag.com/gag/a31bzqm)
- - 🚯 [Caution tape roll is an agent of chaos](http://9gag.com/gag/aVxV902)<!-- MEMES:END -->
+ - 🚖 [So... Sauce?](http://9gag.com/gag/a71pBbw)
+ - 🚯 [The Matrix](http://9gag.com/gag/aeg7qLj)
+ - 🚯 [Crypto scam in a nutshell](http://9gag.com/gag/a91OezZ)<!-- MEMES:END -->
 
 --- 
 
