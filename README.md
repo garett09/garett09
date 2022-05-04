@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fight to unionize Amazon’s warehouses](https://www.theverge.com/2022/5/3/23056053/amazon-warehouse-union-organization-drives-latest-news)
- - [NonFungible: the sale of NFTs fell to a daily average of about 19K this week, a 92% decline from a peak of about 225K in September 2021 &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/220503/p32#a220503p32)
- - [Samsung unveils Universal Flash Storage 4.0, claiming it offers twice the speeds of UFS 3.1, making it ideal for 5G phones, with mass production set for Q3 2022 &lpar;Matt Milano/Android Authority&rpar;](http://www.techmeme.com/220503/p31#a220503p31)<!-- TECH:END -->
+ - [Imagene AI, whose AI tech can help detect cancerous biomarkers directly from a digitized biopsy image, raises a $18.5M Series A from Larry Ellison and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220503/p35#a220503p35)
+ - [Filing: Didi says it is cooperating with the SEC&#39;s investigation into its $4.4B US IPO in June 2021, &quot;subject to strict compliance&quot; with the Chinese law &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/220503/p34#a220503p34)
+ - [Lumos, which is building an app store for companies to manage all the SaaS apps their employees use, emerges from stealth with $30M+ from a16z, Neo, and others &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220503/p33#a220503p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
