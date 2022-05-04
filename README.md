@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD promises ‘extreme gaming laptops’ in 2023 with new Dragon Range CPU](https://www.theverge.com/2022/5/3/23056024/amd-dragon-range-zen-4-extreme-gaming-laptop-cpu-ryzen)
- - [How to find your comments on YouTube](https://www.androidauthority.com/find-youtube-comments-3160551/)
- - [The 11 best shows like The Flight Attendant](https://www.androidauthority.com/shows-like-the-flight-attendant-hbo-max-3160432/)<!-- TECH:END -->
+ - [The fight to unionize Amazon’s warehouses](https://www.theverge.com/2022/5/3/23056053/amazon-warehouse-union-organization-drives-latest-news)
+ - [NonFungible: the sale of NFTs fell to a daily average of about 19K this week, a 92% decline from a peak of about 225K in September 2021 &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/220503/p32#a220503p32)
+ - [Samsung unveils Universal Flash Storage 4.0, claiming it offers twice the speeds of UFS 3.1, making it ideal for 5G phones, with mass production set for Q3 2022 &lpar;Matt Milano/Android Authority&rpar;](http://www.techmeme.com/220503/p31#a220503p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
