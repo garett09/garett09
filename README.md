@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clippy is in Halo Infinite](https://www.theverge.com/2022/5/4/23056969/clippy-halo-infinite-emblem-charm-unlockable)
- - [The 10 best free YouTube TV shows you can watch now &lpar;and one you shouldn’t&rpar;](https://www.androidauthority.com/best-free-youtube-tv-shows-3159937/)
- - [Intuit will pay $141M in restitution to ~4.4M US customers who were charged for using the TurboTax Free Edition, in a settlement with all 50 states and DC &lpar;Greg Iacurci/CNBC&rpar;](http://www.techmeme.com/220504/p16#a220504p16)<!-- TECH:END -->
+ - [How to use the Accessibility features on iPhone and iPad](https://appleinsider.com/articles/22/03/02/how-to-use-the-accessibility-features-on-iphone-and-ipad?utm_medium=rss)
+ - [France becomes first major European nation to grant regulatory approval for crypto giant Binance, after the company was rebuffed by UK, Italy, and others &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220504/p19#a220504p19)
+ - [Sonos releasing its own privacy-focused voice assistant in June](https://appleinsider.com/articles/22/05/04/sonos-releasing-its-own-privacy-focused-voice-assistant-in-june?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
