@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft partners with Epic to offer Fortnite for free through Xbox Cloud Gaming, with or without a subscription, across mobile, desktop, and console &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p24#a220505p24)
- - [Elon Musk got $1 billion from Larry Ellison for his Twitter takeover](https://www.theverge.com/2022/5/5/23058295/elon-musk-twitter-funding-qatar-larry-ellison)
- - [Lyft brings carpooling back to more US cities](https://www.theverge.com/2022/5/5/23057729/lyft-shared-rides-carpool-expand-cities)<!-- TECH:END -->
+ - [Zora, which offers an open-source NFT marketplace protocol, raises a $50M seed at a $600M valuation led by Katie Haun&#39;s new fund &lpar;Jeff John Roberts/Decrypt&rpar;](http://www.techmeme.com/220505/p27#a220505p27)
+ - [&#39;Fortnite&#39; returns to iPhone on Xbox Cloud Gaming with no subscription required](https://appleinsider.com/articles/22/05/05/fortnite-returns-to-iphone-on-xbox-cloud-gaming-with-no-subscription-required?utm_medium=rss)
+ - [The best Visible deals: Get $150 and a B&amp;O speaker with the Samsung Galaxy S22](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
