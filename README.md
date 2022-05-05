@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Speaks for itself](http://9gag.com/gag/aqGY3yj)
- - 🚯 [Zhat is correct](http://9gag.com/gag/a21LBM9)
- - 🚯 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)<!-- MEMES:END -->
+ - 🚖 [Orc astonished by how well fortified Ukrainian position is.](http://9gag.com/gag/a61jW0L)
+ - 🚯 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)
+ - 🚯 [I design fake products and today I&#39;m created the Burrito Bumper!](http://9gag.com/gag/aKmK4KW)<!-- MEMES:END -->
 
 --- 
 
