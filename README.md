@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old school parenting at its finest](http://9gag.com/gag/a81KgXY)
- - 🚯 [Which gaming map represents YOUR golden age of multiplayer fun?](http://9gag.com/gag/aE8OmAo)
- - 🚯 [Happy star wars day](http://9gag.com/gag/awzYpXy)<!-- MEMES:END -->
+ - 🚖 [Happy star wars day](http://9gag.com/gag/awzYpXy)
+ - 🚯 [Oh glorious day!](http://9gag.com/gag/a11E9oR)
+ - 🚯 [Based kid](http://9gag.com/gag/a11Eyg6)<!-- MEMES:END -->
 
 --- 
 
