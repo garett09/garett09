@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Walden, who helped build the Interface Message Processor that switched data among computers using the Arpanet, the precursor to the internet, died at 79 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/220505/p7#a220505p7)
- - [Starlink’s new Portability feature brings internet to vanlifers](https://www.theverge.com/2022/5/5/23058181/starlink-portability-internet-price-locations)
- - [Sources: in a meeting, Twitter&#39;s VP of product appealed to a sense of community to persuade skeptical staff to stay under Musk; one slide asked: &quot;Why Bother?&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p6#a220505p6)<!-- TECH:END -->
+ - [Filing: Elon Musk raises $7.14B for his Twitter bid from Larry Ellison, Binance, Sequoia Capital, Fidelity, and others; Musk needs to raise $21B in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/220505/p10#a220505p10)
+ - [Which Microsoft Surface Laptop or Tablet Is Best?](https://www.wired.com/story/microsoft-surface-buying-guide)
+ - [15 Last-Minute Mother’s Day Gifts on Sale Now](https://www.wired.com/story/last-minute-mothers-day-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
