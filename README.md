@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I Like Bandai Namco&#39;s New Logo](https://kotaku.com/bandai-namco-new-logo-company-brand-like-graphic-design-1848883149)
  - [A Very Long Look At A Cancelled Half-Life Game](https://kotaku.com/half-life-2-ravenholm-valve-arkane-dishonored-deathloop-1848882829)
- - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)
- - [Bungie tells critics it will &#39;never&#39; avoid politics as it declares support for Roe v. Wade](https://www.pcgamer.com/bungie-tells-critics-it-will-never-avoid-politics-as-it-declares-support-for-roe-v-wade)<!-- GAME:END -->
+ - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
