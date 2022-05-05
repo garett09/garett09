@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Samsung’s SmartThings is thinking about Matter and the future of the smart home](https://www.theverge.com/23055296/samsung-smartthings-smart-home-matter-interview)
- - [Six-year iPhone 4S &amp; iOS 9 legal battle may end in $15 settlement](https://appleinsider.com/articles/22/05/05/six-year-iphone-4s-ios-9-legal-battle-may-end-in-15-settlement?utm_medium=rss)
- - [AMD launches several C-series Ryzen 5000 CPUs for Chromebooks, starting with the Acer Chromebook Spin 514, HP Elite c645 G2 Chromebook, and others &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220505/p18#a220505p18)<!-- TECH:END -->
+ - [These features make the Meta Quest 2 even better](https://www.theverge.com/2022/5/5/23054019/meta-oculus-quest-2-virtual-reality-vr-headset-tips-tricks)
+ - [Meta, TikTok and YouTube may finally have to start sharing data with researchers](https://www.theverge.com/2022/5/5/23058139/meta-tiktok-youtube-senate-transparency-hearing-research-us-europe)
+ - [A look at the rise of buy now, pay later services, driven by social media and Gen Z, and the risks involved; Afterpay says 73% of Gen Z purchases are fashion &lpar;Joshua Bote/SFGATE&rpar;](http://www.techmeme.com/220505/p19#a220505p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
