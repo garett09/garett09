@@ -199,8 +199,8 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Agreed!](http://9gag.com/gag/amgpwyX)
- - 🚯 [Respek](http://9gag.com/gag/aQXO5Ww)
+ - 🚖 [It turned out to be one after all](http://9gag.com/gag/aLvd7rv)
+ - 🚯 [Petting a crocodile](http://9gag.com/gag/aXrK6Kg)
  - 🚯 [Holyshit!!!](http://9gag.com/gag/aVxVymP)<!-- MEMES:END -->
 
 --- 
