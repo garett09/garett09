@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone asking what&#39;s with the Pepsi on a Chemo mug post made me think of making this](http://9gag.com/gag/a11E9Ab)
- - 🚯 [Based kid](http://9gag.com/gag/a11Eyg6)
- - 🚯 [California](http://9gag.com/gag/aPZ1Evg)<!-- MEMES:END -->
+ - 🚖 [Based kid](http://9gag.com/gag/a11Eyg6)
+ - 🚯 [California](http://9gag.com/gag/aPZ1Evg)
+ - 🚯 [Thats because the apple strain relief is designed to fail.](http://9gag.com/gag/a81KREO)<!-- MEMES:END -->
 
 --- 
 
