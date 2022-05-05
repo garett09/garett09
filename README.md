@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Necromunda: Ash Wastes is just the beginning of the Mad Max-ification of 40K](https://www.polygon.com/23057543/warhammer-40k-necromunda-ash-wastes-boxed-set-review-painting-guide)
- - [WWE Superstar The Miz Should Play Johnny Cage In Mortal Kombat II, And You Know It](https://kotaku.com/wwe-mortal-kombat-the-miz-mike-mizanin-johnny-cage-1848886074)
- - [Survival MMO The Day Before delayed to 2023](https://www.polygon.com/23058793/the-day-before-mmo-release-date-delay-2023)<!-- GAME:END -->
+ - [Take a Deep Dive into the Seasonal Storyline of Halo Infinite Season 2 – Lone Wolves](https://news.xbox.com/en-us/2022/05/05/deep-dive-seasonal-storyline-halo-infinite-season-2-lone-wolves/)
+ - [GeForce Now&#39;s best feature is finally available for PC and Mac users](https://www.pcgamer.com/geforce-nows-best-feature-is-finally-available-for-pc-and-mac-users)
+ - [Uncanny: YouTubers Recreate GTA 3 Animations IRL All Over Tokyo](https://kotaku.com/grand-theft-auto-3-gta-yakuza-resident-evil-tokyo-japan-1848886500)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
