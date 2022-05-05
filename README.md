@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It turned out to be one after all](http://9gag.com/gag/aLvd7rv)
- - 🚯 [Petting a crocodile](http://9gag.com/gag/aXrK6Kg)
- - 🚯 [Holyshit!!!](http://9gag.com/gag/aVxVymP)<!-- MEMES:END -->
+ - 🚖 [Holyshit!!!](http://9gag.com/gag/aVxVymP)
+ - 🚯 [Duck runs in a marathon and gets a medal](http://9gag.com/gag/a91OxN0)
+ - 🚯 [I think this one will replace kim kardashian\u2019s crying meme](http://9gag.com/gag/abgQnYO)<!-- MEMES:END -->
 
 --- 
 
