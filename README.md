@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Elon Musk raises $7.14B for his Twitter bid from Larry Ellison, Binance, Sequoia Capital, Fidelity, and others; Musk needs to raise $21B in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/220505/p10#a220505p10)
- - [Which Microsoft Surface Laptop or Tablet Is Best?](https://www.wired.com/story/microsoft-surface-buying-guide)
- - [15 Last-Minute Mother’s Day Gifts on Sale Now](https://www.wired.com/story/last-minute-mothers-day-deals-2022)<!-- TECH:END -->
+ - [Apple, Google, and Microsoft announce plans to adopt features from the FIDO Alliance, which is working on passwordless tech for websites and apps &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p14#a220505p14)
+ - [Apple, Google, Microsoft announce commitment to &#39;passwordless&#39; future](https://appleinsider.com/articles/22/05/05/apple-google-microsoft-announce-commitment-to-passwordless-future?utm_medium=rss)
+ - [The Must-Have Gear for Going Out This Summer? Narcan!](https://www.wired.com/story/narcan-festivals-summer-prevent-overdose)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
