@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holyshit!!!](http://9gag.com/gag/aVxVymP)
- - 🚯 [Duck runs in a marathon and gets a medal](http://9gag.com/gag/a91OxN0)
- - 🚯 [I think this one will replace kim kardashian\u2019s crying meme](http://9gag.com/gag/abgQnYO)<!-- MEMES:END -->
+ - 🚖 [Old school parenting at its finest](http://9gag.com/gag/a81KgXY)
+ - 🚯 [Which gaming map represents YOUR golden age of multiplayer fun?](http://9gag.com/gag/aE8OmAo)
+ - 🚯 [Happy star wars day](http://9gag.com/gag/awzYpXy)<!-- MEMES:END -->
 
 --- 
 
