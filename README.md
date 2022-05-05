@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange 2’s post-credits scene sends Stephen on a new adventure](https://www.polygon.com/23055624/doctor-strange-2-credits-scene-explained-multiverse-of-madness-end-clea)
- - [A week into the beta, Overwatch 2 heroes are already getting little reworks](https://www.polygon.com/23059012/overwatch-2-beta-patch-nerfs-bufffs-hero-reworks)
- - [The Naga are coming to Hearthstone Battlegrounds on May 10](https://www.pcgamer.com/the-naga-are-coming-to-hearthstone-battlegrounds-on-may-10)<!-- GAME:END -->
+ - [Shepherd finds the right disguise for its familiar horror-movie checklist](https://www.polygon.com/23059089/shepherd-review-horror-movie)
+ - [15 Minutes Of Trek To Yomi: An Akira Kurosawa-Inspired Side-Scroller](https://kotaku.com/trek-to-yomi-flying-wild-hog-pc-xbox-ps4-ps5-akira-kuro-1848888154)
+ - [Game company union reps take their case to the White House](https://www.polygon.com/23059106/united-paizo-workers-cwa-white-house-visit-president-biden-kamala-harris)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
