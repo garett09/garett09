@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Redmi Note 11T Pro is coming to pick up where Note 10 Pro left off](https://www.androidauthority.com/redmi-note-11t-pro-3161157/)
  - [A look at the crypto promotion market, where paid influencers and middlemen like Dapp Centre coordinate campaigns that sometimes push the limits of US law &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220505/p2#a220505p2)
- - [The SEC adds JD.com, Pinduoduo, Bilibili, and NetEase to a list of Chinese companies facing delisting from US exchanges due to noncompliance with auditing rules &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/220505/p1#a220505p1)
- - [Dr. Dre lost $200 million by leaking Apple Beats deal early](https://appleinsider.com/articles/22/05/05/dr-dre-lost-200-million-by-leaking-apple-beats-deal-early?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC adds JD.com, Pinduoduo, Bilibili, and NetEase to a list of Chinese companies facing delisting from US exchanges due to noncompliance with auditing rules &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/220505/p1#a220505p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
