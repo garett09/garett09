@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Assholes always get the girl](http://9gag.com/gag/a11EzVR)
- - 🚯 [Is this true?](http://9gag.com/gag/aGzOW76)
- - 🚯 [German Polizei at its best...](http://9gag.com/gag/aXrK5yz)<!-- MEMES:END -->
+ - 🚖 [How it feels to live paycheck to paycheck.](http://9gag.com/gag/aWgDwXx)
+ - 🚯 [Fy_snow](http://9gag.com/gag/aDDOBxx)
+ - 🚯 [The guys who attacked the Russian Army recruitment building in Nizhnevartovsk in Russia not only filmed themselves doing it, but shared the video across Russian social media channels. Ballsy if nothing else.](http://9gag.com/gag/a11Ez78)<!-- MEMES:END -->
 
 --- 
 
