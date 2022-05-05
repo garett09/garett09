@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)
- - 🚯 [This one sparks joy](http://9gag.com/gag/aKmOQQ1)
- - 🚯 [Duck runs in a marathon and gets a medal](http://9gag.com/gag/a91OxN0)<!-- MEMES:END -->
+ - 🚖 [A jar of what?](http://9gag.com/gag/aM4OovA)
+ - 🚯 [Listen to this eerie sound. The sound of electricity between the hand and the hair, foreshadowing an impending lightning strike? People who have had close encounters with lightning have reported such sounds. This buzzing being the final warning.](http://9gag.com/gag/aDDOyNK)
+ - 🚯 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)<!-- MEMES:END -->
 
 --- 
 
