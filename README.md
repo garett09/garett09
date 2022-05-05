@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Prince of Tides&#39; series reboot coming to Apple TV+](https://appleinsider.com/articles/22/05/04/prince-of-tides-series-reboot-coming-to-apple-tv?utm_medium=rss)
- - [Cameo lays off 87 employees, or ~25% of its workforce; source: the chief technology officer, chief product officer, and chief people officer were among the 87 &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220504/p29#a220504p29)
- - [Google bought a MicroLED display company that could help make AR headsets better and cheaper](https://www.theverge.com/2022/5/4/23057579/google-acquires-raxium-microled-ar-vr-displays)<!-- TECH:END -->
+ - [Coinbase opened its new NFT marketplace in beta to everyone on Wed.; Dune Analytics: fewer than 110 transactions were recorded in the first five hours of launch &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220504/p32#a220504p32)
+ - [Paper published by Reality Labs researchers in April reveals Meta has made a custom 7nm process chip to function as an accelerator for its Codec Avatars project &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/220504/p31#a220504p31)
+ - [NYSE-parent ICE announced plans to buy Black Knight, the mortgage-lending software and data analytics company, for $13.1B; Black Knight&#39;s stock closed up 14.47% &lpar;Reuters&rpar;](http://www.techmeme.com/220504/p30#a220504p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
