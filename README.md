@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based kid](http://9gag.com/gag/a11Eyg6)
- - 🚯 [California](http://9gag.com/gag/aPZ1Evg)
- - 🚯 [Thats because the apple strain relief is designed to fail.](http://9gag.com/gag/a81KREO)<!-- MEMES:END -->
+ - 🚖 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/aKmOQQ1)
+ - 🚯 [Duck runs in a marathon and gets a medal](http://9gag.com/gag/a91OxN0)<!-- MEMES:END -->
 
 --- 
 
