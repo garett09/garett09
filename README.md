@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase opened its new NFT marketplace in beta to everyone on Wed.; Dune Analytics: fewer than 110 transactions were recorded in the first five hours of launch &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220504/p32#a220504p32)
- - [Paper published by Reality Labs researchers in April reveals Meta has made a custom 7nm process chip to function as an accelerator for its Codec Avatars project &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/220504/p31#a220504p31)
- - [NYSE-parent ICE announced plans to buy Black Knight, the mortgage-lending software and data analytics company, for $13.1B; Black Knight&#39;s stock closed up 14.47% &lpar;Reuters&rpar;](http://www.techmeme.com/220504/p30#a220504p30)<!-- TECH:END -->
+ - [Germany-based HiveMQ, which helps companies connect and move data from their IoT devices to the cloud, raises a &amp;euro;40M Series A led by Molten Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220504/p35#a220504p35)
+ - [Cybereason: China-linked Winnti APT exfiltrated hundreds of GBs of IP in a cyber campaign targeting ~30 companies in North America, Europe, and Asia since 2019 &lpar;Nicole Sganga/CBS News&rpar;](http://www.techmeme.com/220504/p34#a220504p34)
+ - [Former Apple executive Tony Fadell shares details of iPod, iPhone development](https://appleinsider.com/articles/22/05/05/former-apple-executive-tony-fadell-shares-details-of-ipod-iphone-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
