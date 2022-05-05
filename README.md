@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shepherd finds the right disguise for its familiar horror-movie checklist](https://www.polygon.com/23059089/shepherd-review-horror-movie)
- - [15 Minutes Of Trek To Yomi: An Akira Kurosawa-Inspired Side-Scroller](https://kotaku.com/trek-to-yomi-flying-wild-hog-pc-xbox-ps4-ps5-akira-kuro-1848888154)
- - [Game company union reps take their case to the White House](https://www.polygon.com/23059106/united-paizo-workers-cwa-white-house-visit-president-biden-kamala-harris)<!-- GAME:END -->
+ - [Someone tweeted at Microsoft to release the 27-year-old source code to 3D Movie Maker, so they did](https://www.pcgamer.com/someone-tweeted-at-microsoft-to-release-the-27-year-old-source-code-to-3d-movie-maker-so-they-did)
+ - [Dying Light&#39;s final update gives everyone a free Enhanced Edition upgrade](https://www.pcgamer.com/dying-lights-final-update-gives-everyone-a-free-enhanced-edition-upgrade)
+ - [Shepherd finds the right disguise for its familiar horror-movie checklist](https://www.polygon.com/23059089/shepherd-review-horror-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
