@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-based MaxLinear, which makes chips for broadband systems, will buy Taiwan&#39;s Silicon Motion, which makes NAND flash controllers for SSD devices, for $3.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p29#a220505p29)
- - [Twitter is working on new features, including mixed-media tweets, report shows](https://www.theverge.com/2022/5/5/23058661/twitter-new-features-photo-video-tweets-pronouns)
- - [What does the future of abortion look like?](https://www.theverge.com/2022/5/5/23058316/roe-v-wade-repeal-future-of-abortion-pills-mifepristone-misoprostol)<!-- TECH:END -->
+ - [How to use Facebook – everything you need to know](https://www.androidauthority.com/how-to-use-facebook-3155263/)
+ - [How to duet a video on TikTok](https://www.androidauthority.com/duet-on-tiktok-3161110/)
+ - [Filing: Elon Musk raises $7.14B for his Twitter bid from Saudi Prince Alwaleed, Larry Ellison, Sequoia, VyCapital, Binance, a16z, and others; Ellison gives $1B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220505/p30#a220505p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
