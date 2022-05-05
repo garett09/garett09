@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lux Æterna is an art-film freakout — and a designer fashion ad](https://www.polygon.com/reviews/23057390/lux-aeterna-review-gaspar-noe-saint-laurent)
- - [Free Play Days – Call of the Sea, Sid Meier’s Civilization VI, and Overcooked! All You Can Eat](https://news.xbox.com/en-us/2022/05/05/free-play-days-call-of-the-sea-sid-meiers-civilization-vi-and-overcooked-all-you-can-eat/)
- - [After 50 years, Captain Pike got the Star Trek show he deserves](https://www.polygon.com/23057405/star-trek-strange-new-worlds-creator-anson-mount-pike-masculinity)<!-- GAME:END -->
+ - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
+ - [5 reasons why every gamer needs AMD under the hood](https://www.pcgamer.com/5-reasons-why-every-gamer-needs-amd-under-the-hood)
+ - [How Ryzen and Radeon work together to make the ultimate gaming PC](https://www.pcgamer.com/how-ryzen-and-radeon-work-together-to-make-the-ultimate-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
