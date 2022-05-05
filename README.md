@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And now for something completely different](http://9gag.com/gag/aPZ1KDR)
- - 🚯 [Men to Ment communication.](http://9gag.com/gag/aGzOXo5)
- - 🚯 [Oh glorious day!](http://9gag.com/gag/a11E9oR)<!-- MEMES:END -->
+ - 🚖 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)
+ - 🚯 [What&#39;s their best song?](http://9gag.com/gag/aqGYq2Q)
+ - 🚯 [Why women can\u2019t join the special forces](http://9gag.com/gag/a91Oovo)<!-- MEMES:END -->
 
 --- 
 
