@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zora, which offers an open-source NFT marketplace protocol, raises a $50M seed at a $600M valuation led by Katie Haun&#39;s new fund &lpar;Jeff John Roberts/Decrypt&rpar;](http://www.techmeme.com/220505/p27#a220505p27)
- - [&#39;Fortnite&#39; returns to iPhone on Xbox Cloud Gaming with no subscription required](https://appleinsider.com/articles/22/05/05/fortnite-returns-to-iphone-on-xbox-cloud-gaming-with-no-subscription-required?utm_medium=rss)
- - [The best Visible deals: Get $150 and a B&amp;O speaker with the Samsung Galaxy S22](https://www.androidauthority.com/best-visible-deals-1096134/)<!-- TECH:END -->
+ - [US-based MaxLinear, which makes chips for broadband systems, will buy Taiwan&#39;s Silicon Motion, which makes NAND flash controllers for SSD devices, for $3.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p29#a220505p29)
+ - [Twitter is working on new features, including mixed-media tweets, report shows](https://www.theverge.com/2022/5/5/23058661/twitter-new-features-photo-video-tweets-pronouns)
+ - [What does the future of abortion look like?](https://www.theverge.com/2022/5/5/23058316/roe-v-wade-repeal-future-of-abortion-pills-mifepristone-misoprostol)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
