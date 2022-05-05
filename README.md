@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy star wars day](http://9gag.com/gag/awzYpXy)
- - 🚯 [Oh glorious day!](http://9gag.com/gag/a11E9oR)
- - 🚯 [Based kid](http://9gag.com/gag/a11Eyg6)<!-- MEMES:END -->
+ - 🚖 [Someone asking what&#39;s with the Pepsi on a Chemo mug post made me think of making this](http://9gag.com/gag/a11E9Ab)
+ - 🚯 [Based kid](http://9gag.com/gag/a11Eyg6)
+ - 🚯 [California](http://9gag.com/gag/aPZ1Evg)<!-- MEMES:END -->
 
 --- 
 
