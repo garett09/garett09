@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take a Deep Dive into the Seasonal Storyline of Halo Infinite Season 2 – Lone Wolves](https://news.xbox.com/en-us/2022/05/05/deep-dive-seasonal-storyline-halo-infinite-season-2-lone-wolves/)
- - [GeForce Now&#39;s best feature is finally available for PC and Mac users](https://www.pcgamer.com/geforce-nows-best-feature-is-finally-available-for-pc-and-mac-users)
- - [Uncanny: YouTubers Recreate GTA 3 Animations IRL All Over Tokyo](https://kotaku.com/grand-theft-auto-3-gta-yakuza-resident-evil-tokyo-japan-1848886500)<!-- GAME:END -->
+ - [A new Mafia game is reportedly in development under new studio leadership](https://www.pcgamer.com/a-new-mafia-game-is-reportedly-in-development-under-new-studio-leadership)
+ - [Genshin Impact Makes Its Devs One-Quarter Of A Bethesda Every Year](https://kotaku.com/genshin-impact-mihoyo-mobile-ios-android-earnings-pokem-1848887015)
+ - [Xbox has helped Fortnite sneak its way back onto iPhones](https://www.pcgamer.com/xbox-has-helped-fortnite-sneak-its-way-back-onto-iphones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
