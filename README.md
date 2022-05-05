@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2206.220502-2200&rpar;](https://news.xbox.com/en-us/2022/05/05/xbox-insider-release-notes-beta-2206-220502-2200/)
- - [Summer Game Fest 2022 set for June 9](https://www.polygon.com/23058698/summer-game-fest-date-time-livestream-game-awards-imax-2022)
- - [Overwatch League returns Thursday, with perks and Overwatch 2 beta key drops](https://www.polygon.com/23058591/overwatch-league-2022-start-time-beta-drops-tokens)<!-- GAME:END -->
+ - [Necromunda: Ash Wastes is just the beginning of the Mad Max-ification of 40K](https://www.polygon.com/23057543/warhammer-40k-necromunda-ash-wastes-boxed-set-review-painting-guide)
+ - [WWE Superstar The Miz Should Play Johnny Cage In Mortal Kombat II, And You Know It](https://kotaku.com/wwe-mortal-kombat-the-miz-mike-mizanin-johnny-cage-1848886074)
+ - [Survival MMO The Day Before delayed to 2023](https://www.polygon.com/23058793/the-day-before-mmo-release-date-delay-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
