@@ -199,9 +199,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost there](http://9gag.com/gag/angrAVz)
- - 🚯 [Ripped pants girl is the MVP](http://9gag.com/gag/apgYWO8)
- - 🚯 [Takatakataka](http://9gag.com/gag/awzYRwx)<!-- MEMES:END -->
+ - 🚖 [Takatakataka](http://9gag.com/gag/awzYRwx)
+ - 🚯 [Who remembers?](http://9gag.com/gag/aZrRq2z)
+ - 🚯 [`Can I pet it?`](http://9gag.com/gag/aogYrXX)<!-- MEMES:END -->
 
 --- 
 
