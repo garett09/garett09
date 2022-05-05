@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Radeon RX 6950 XT beats Nvidia&#39;s RTX 3090 Ti in new 3DMark leak](https://www.pcgamer.com/amd-radeon-rx-6950-xt-beats-nvidias-rtx-3090-ti-in-new-3dmark-leak)
- - [I Like Bandai Namco&#39;s New Logo](https://kotaku.com/bandai-namco-new-logo-company-brand-like-graphic-design-1848883149)
- - [A Very Long Look At A Cancelled Half-Life Game](https://kotaku.com/half-life-2-ravenholm-valve-arkane-dishonored-deathloop-1848882829)<!-- GAME:END -->
+ - [Intel acquires Finnish graphics tech company Siru Innovations](https://www.pcgamer.com/intel-acquires-finnish-graphics-tech-company-siru-innovations)
+ - [Boot your Oculus headset directly into SteamVR with this free tool](https://www.pcgamer.com/boot-your-oculus-headset-directly-into-steamvr-with-this-free-tool)
+ - [Windows 11 preview update will break Microsoft Store apps](https://www.pcgamer.com/windows-11-preview-update-will-break-microsoft-store-apps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
