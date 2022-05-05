@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
- - [5 reasons why every gamer needs AMD under the hood](https://www.pcgamer.com/5-reasons-why-every-gamer-needs-amd-under-the-hood)
- - [How Ryzen and Radeon work together to make the ultimate gaming PC](https://www.pcgamer.com/how-ryzen-and-radeon-work-together-to-make-the-ultimate-gaming-pc)<!-- GAME:END -->
+ - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)
+ - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)
+ - [Xbox Cloud Gaming’s Growth and Evolution](https://news.xbox.com/en-us/2022/05/05/xbox-cloud-gaming-growth-and-evolution/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
