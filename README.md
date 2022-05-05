@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based HiveMQ, which helps companies connect and move data from their IoT devices to the cloud, raises a &amp;euro;40M Series A led by Molten Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220504/p35#a220504p35)
- - [Cybereason: China-linked Winnti APT exfiltrated hundreds of GBs of IP in a cyber campaign targeting ~30 companies in North America, Europe, and Asia since 2019 &lpar;Nicole Sganga/CBS News&rpar;](http://www.techmeme.com/220504/p34#a220504p34)
- - [Former Apple executive Tony Fadell shares details of iPod, iPhone development](https://appleinsider.com/articles/22/05/05/former-apple-executive-tony-fadell-shares-details-of-ipod-iphone-development?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC adds JD.com, Pinduoduo, Bilibili, and NetEase to a list of Chinese companies facing delisting from US exchanges due to noncompliance with auditing rules &lpar;Sabahatjahan Contractor/Reuters&rpar;](http://www.techmeme.com/220505/p1#a220505p1)
+ - [Dr. Dre lost $200 million by leaking Apple Beats deal early](https://appleinsider.com/articles/22/05/05/dr-dre-lost-200-million-by-leaking-apple-beats-deal-early?utm_medium=rss)
+ - [Is &#39;Doctor Strange 2&#39; Streaming on Disney Plus? What to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-streaming-on-disney-plus-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
