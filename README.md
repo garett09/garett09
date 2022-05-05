@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Facebook – everything you need to know](https://www.androidauthority.com/how-to-use-facebook-3155263/)
- - [How to duet a video on TikTok](https://www.androidauthority.com/duet-on-tiktok-3161110/)
- - [Filing: Elon Musk raises $7.14B for his Twitter bid from Saudi Prince Alwaleed, Larry Ellison, Sequoia, VyCapital, Binance, a16z, and others; Ellison gives $1B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220505/p30#a220505p30)<!-- TECH:END -->
+ - [No, Apple Music isn&#39;t pushing Spotify out of the iPhone dock on purpose](https://appleinsider.com/articles/22/05/05/no-apple-music-isnt-pushing-spotify-out-of-the-iphone-dock-on-purpose?utm_medium=rss)
+ - [Apex Legends season 13 pushes teamwork with a new kind of hero and ranked mode changes](https://www.theverge.com/2022/5/5/23058327/apex-legends-saviors-newcastle-ranked-battle-royale)
+ - [Futuristic &#39;Gravity Telescope&#39; Could Image Alien Worlds as Clearly as Earth     - CNET](https://www.cnet.com/science/space/futuristic-gravity-telescope-could-image-alien-worlds-as-clearly-as-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
