@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, and Microsoft announce plans to adopt features from the FIDO Alliance, which is working on passwordless tech for websites and apps &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p14#a220505p14)
- - [Apple, Google, Microsoft announce commitment to &#39;passwordless&#39; future](https://appleinsider.com/articles/22/05/05/apple-google-microsoft-announce-commitment-to-passwordless-future?utm_medium=rss)
- - [The Must-Have Gear for Going Out This Summer? Narcan!](https://www.wired.com/story/narcan-festivals-summer-prevent-overdose)<!-- TECH:END -->
+ - [How Samsung’s SmartThings is thinking about Matter and the future of the smart home](https://www.theverge.com/23055296/samsung-smartthings-smart-home-matter-interview)
+ - [Six-year iPhone 4S &amp; iOS 9 legal battle may end in $15 settlement](https://appleinsider.com/articles/22/05/05/six-year-iphone-4s-ios-9-legal-battle-may-end-in-15-settlement?utm_medium=rss)
+ - [AMD launches several C-series Ryzen 5000 CPUs for Chromebooks, starting with the Acer Chromebook Spin 514, HP Elite c645 G2 Chromebook, and others &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220505/p18#a220505p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
