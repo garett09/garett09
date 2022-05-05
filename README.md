@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 50 years, Captain Pike got the Star Trek show he deserves](https://www.polygon.com/23057405/star-trek-strange-new-worlds-creator-anson-mount-pike-masculinity)
- - [Hitman 3’s Freelancer mode delayed, now coming later this year](https://www.polygon.com/23057480/hitman-3-freelancer-mode-delay-road-map)
- - [NetEase launches its first US-based studio, led by former Daybreak Games chief](https://www.pcgamer.com/netease-launches-its-first-us-based-studio-led-by-former-daybreak-games-chief)<!-- GAME:END -->
+ - [Lux Æterna is an art-film freakout — and a designer fashion ad](https://www.polygon.com/reviews/23057390/lux-aeterna-review-gaspar-noe-saint-laurent)
+ - [Free Play Days – Call of the Sea, Sid Meier’s Civilization VI, and Overcooked! All You Can Eat](https://news.xbox.com/en-us/2022/05/05/free-play-days-call-of-the-sea-sid-meiers-civilization-vi-and-overcooked-all-you-can-eat/)
+ - [After 50 years, Captain Pike got the Star Trek show he deserves](https://www.polygon.com/23057405/star-trek-strange-new-worlds-creator-anson-mount-pike-masculinity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
