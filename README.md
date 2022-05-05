@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Most of you wouldn’t pay for Telegram Premium](https://www.androidauthority.com/telegram-premium-poll-results-3158459/)
- - [The Quest to Save an Antarctic Kingdom Before It Falls Into Ruin     - CNET](https://www.cnet.com/science/climate/features/the-quest-to-save-an-antarctic-kingdom-before-it-falls-into-ruin/#ftag=CAD590a51e)
- - [IC3 says there were 241K+ reports of business email compromise scams globally from June 2016 to July 2019, totaling $43B+ in actual and attempted losses &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220505/p3#a220505p3)<!-- TECH:END -->
+ - [Google Assistant’s automatic password updater gets wider rollout](https://www.theverge.com/2022/5/5/23058153/google-assistant-duplex-change-compromised-password-breach-update-rollout)
+ - [Two new Amazfit smartwatches are coming with mammoth batteries](https://www.androidauthority.com/amazfit-t-rex-pro-2-amazfit-vienna-3161172/)
+ - [We asked, you told us: Most of you wouldn’t pay for Telegram Premium](https://www.androidauthority.com/telegram-premium-poll-results-3158459/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
