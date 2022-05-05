@@ -192,9 +192,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian digital bank Neo Financial raises a CAD$185M Series C at a CAD$1B+ valuation, bringing its total funding to CAD$299M, and says it has 1M+ customers &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220505/p22#a220505p22)
- - [Microsoft teams up with VW to make HoloLens work in cars](https://www.theverge.com/2022/5/5/23058193/microsoft-hololens-moving-platform-cars-boats-vehicles-volkswagen-driving-hud)
- - [Top deals May 5: $385 off Samsung Galaxy S21 Plus, $20 off Apple 10.2-inch iPad, $350 off Acer Nitro 5 Ryzen RTX 3080 Gaming Laptop](https://appleinsider.com/articles/22/05/05/top-deals-may-5-385-off-samsung-galaxy-s21-plus-20-off-apple-102-inch-ipad-350-off-acer-nitro-5-ryzen-rtx-3080-gaming-laptop-more?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft partners with Epic to offer Fortnite for free through Xbox Cloud Gaming, with or without a subscription, across mobile, desktop, and console &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p24#a220505p24)
+ - [Elon Musk got $1 billion from Larry Ellison for his Twitter takeover](https://www.theverge.com/2022/5/5/23058295/elon-musk-twitter-funding-qatar-larry-ellison)
+ - [Lyft brings carpooling back to more US cities](https://www.theverge.com/2022/5/5/23057729/lyft-shared-rides-carpool-expand-cities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
