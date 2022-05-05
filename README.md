@@ -185,9 +185,9 @@ Windows                  3 hrs 58 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel acquires Finnish graphics tech company Siru Innovations](https://www.pcgamer.com/intel-acquires-finnish-graphics-tech-company-siru-innovations)
- - [Boot your Oculus headset directly into SteamVR with this free tool](https://www.pcgamer.com/boot-your-oculus-headset-directly-into-steamvr-with-this-free-tool)
- - [Windows 11 preview update will break Microsoft Store apps](https://www.pcgamer.com/windows-11-preview-update-will-break-microsoft-store-apps)<!-- GAME:END -->
+ - [Hitman 3’s Freelancer mode delayed, now coming later this year](https://www.polygon.com/23057480/hitman-3-freelancer-mode-delay-road-map)
+ - [Best CPU coolers in 2022](https://www.pcgamer.com/best-cpu-coolers)
+ - [Halo Infinite removes weird melee quirk that didn&#39;t make much sense](https://www.pcgamer.com/halo-infinite-removes-weird-melee-element-that-didnt-make-much-sense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
