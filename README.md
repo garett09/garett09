@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Call of Duty turned war into a profitable circus](https://www.polygon.com/videos/23059933/call-of-duty-military-entertainment)
- - [Where the hell does Star Wars go now?](https://www.polygon.com/star-wars/2022/5/6/23059196/whats-next-for-star-wars)
- - [I think we have to talk about this $730 twerking Tifa statue](https://www.pcgamer.com/tifa-jack-o-statue-final-fantasy-7)<!-- GAME:END -->
+ - [Netflix’s The Takedown lets old-school leading-man charm carry the action](https://www.polygon.com/23060636/the-takedown-review-netflix-omar-sy)
+ - [Star Citizen is doing &#39;bedsheet deformation&#39; physics now, because of course it is](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is)
+ - [A French buddy cop comedy, a Finnish horror flick, and every other new movie you can watch at home](https://www.polygon.com/entertainment/23053145/new-movies-watch-netflix-the-takedown-dear-evan-hansen-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
