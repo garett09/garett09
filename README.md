@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Redo](http://9gag.com/gag/aGz79gZ)
- - 🚯 [Automatically lose the argment](http://9gag.com/gag/angGYqL)
- - 🚯 [Who remembers?](http://9gag.com/gag/aZrRq2z)<!-- MEMES:END -->
+ - 🚖 [Is this what Amber Heard expected court to be like?](http://9gag.com/gag/a61Gr2A)
+ - 🚯 [The garden hose!](http://9gag.com/gag/angGq6z)
+ - 🚯 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)<!-- MEMES:END -->
 
 --- 
 
