@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people want to watch the world burn](http://9gag.com/gag/aqGDNWM)
- - 🚯 [Play stupid games](http://9gag.com/gag/a71n52L)
- - 🚯 [Animal print pants out of control](http://9gag.com/gag/a11OZX6)<!-- MEMES:END -->
+ - 🚖 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)
+ - 🚯 [Make offline single-player games great again](http://9gag.com/gag/aognZYA)
+ - 🚯 [What an awesome guy](http://9gag.com/gag/aYrRWqN)<!-- MEMES:END -->
 
 --- 
 
