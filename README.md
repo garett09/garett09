@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Best Star Wars Games Ever Made](https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189)
- - [How To Get Elden Ring&#39;s Beast-Repellent Torch ASAP](https://kotaku.com/elden-ring-beast-repellent-torch-caelid-useful-items-ea-1848892448)
- - [Bored Ape Yacht Club NFT Fans Lose Millions Trying To Buy Video Game &#39;Land&#39;](https://kotaku.com/nft-bored-ape-otherside-metaverse-scam-video-game-ether-1848892937)<!-- GAME:END -->
+ - [How Call of Duty turned war into a profitable circus](https://www.polygon.com/videos/23059933/call-of-duty-military-entertainment)
+ - [Where the hell does Star Wars go now?](https://www.polygon.com/star-wars/2022/5/6/23059196/whats-next-for-star-wars)
+ - [I think we have to talk about this $730 twerking Tifa statue](https://www.pcgamer.com/tifa-jack-o-statue-final-fantasy-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
