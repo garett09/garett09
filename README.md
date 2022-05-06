@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True love....](http://9gag.com/gag/aqGDmqZ)
+ - 🚖 [Jokes on you I\u2019m into that shit](http://9gag.com/gag/a81Vboe)
  - 🚯 [Winning an iPhone from the Claw Machine!](http://9gag.com/gag/arn8p5B)
- - 🚯 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)<!-- MEMES:END -->
+ - 🚯 [True love....](http://9gag.com/gag/aqGDmqZ)<!-- MEMES:END -->
 
 --- 
 
