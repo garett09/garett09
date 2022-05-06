@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CFTC orders the three cofounders of BitMEX, Arthur Hayes, Benjamin Delo, and Samuel Reed, to pay $10M each in civil penalties for illegal trading &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220505/p36#a220505p36)
- - [WhatsApp rolls out emoji reactions, bigger files, and massive groups](https://www.theverge.com/2022/5/5/23059243/whatsapp-emoji-reaction-rollout-increased-file-size-groups)
- - [Apple no longer accepting credit or debit card payments in India](https://appleinsider.com/articles/22/05/05/apple-no-longer-accepting-credit-or-debit-card-payments-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [FDA Puts Limits on Johnson &amp; Johnson&#39;s COVID Vaccine     - CNET](https://www.cnet.com/health/medical/fda-puts-limits-on-johnson-and-johnsons-covid-vaccine/#ftag=CAD590a51e)
+ - [Blockchain-based gaming startup Untamed Planet, which uses Roblox to create nature-themed games incorporating NFTs, raises a $24M Series A led by Animoca Brands &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220505/p38#a220505p38)
+ - [UFC 274 Oliveira Vs. Gaethje: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-274-oliveira-vs-gaethje-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
