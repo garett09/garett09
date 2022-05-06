@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Objects tell stories in Unpacking, arriving on PS4 and PS5 May 10](https://blog.playstation.com/2022/05/06/objects-tell-stories-in-unpacking-arriving-on-ps4-and-ps5-may-10/)
- - [Objects tell stories in Unpacking, arriving on PS4 and PS5 May 10](https://blog.playstation.com/2022/05/06/objects-tell-stories-in-unpacking-arriving-on-ps4-and-ps5-may-10/)
- - [Next Week on Xbox: May 9 to 13](https://news.xbox.com/en-us/2022/05/06/next-week-on-xbox-may-9-to-13/)<!-- GAME:END -->
+ - [Final Fantasy 16 close to completion, producer says, trailer coming ‘soon’](https://www.polygon.com/23059876/final-fantasy-16-development-status-trailer)
+ - [How to make sense of House of the Dragon’s latest trailer and all its characters](https://www.polygon.com/game-of-thrones/23058669/house-of-the-dragon-cast-characters-story-fire-and-blood-targaryens)
+ - [Cobra Kai season 5 goes back to the mat in September](https://www.polygon.com/23059978/cobra-kai-season-5-trailer-release-date-premiere-debut-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
