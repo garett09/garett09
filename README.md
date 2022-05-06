@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Beats unveils new Powerbeats Pro in collaboration with London designer](https://appleinsider.com/articles/22/05/06/beats-unveils-new-powerbeats-pro-in-collaboration-with-london-designer?utm_medium=rss)
- - [The 16-inch HP Omen gaming laptop is its lowest price ever at HP](https://www.theverge.com/good-deals/2022/5/6/23058630/hp-omen-spectre-x360-laptop-lenovo-convertible-headphones-samsung-galaxy-watch-deal-sale)<!-- TECH:END -->
+ - [Nothing launcher is available now &lpar;Update: Video review!&rpar;](https://www.androidauthority.com/nothing-launcher-3158594/)
+ - [Spotify Stations, the service&#39;s lightweight listening app first launched in 2018 offering easy access to curated playlists, is shutting down on May 16 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220506/p10#a220506p10)
+ - [The Next Civil War Reads Like Dystopian Realism](https://www.wired.com/2022/05/geeks-guide-stephen-marche)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
