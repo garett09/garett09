@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volunteers and AI Spot Over 1,000 Unidentified Asteroids in Hubble Images     - CNET](https://www.cnet.com/science/space/volunteers-and-ai-spot-over-1000-unidentified-asteroids-in-hubble-images/#ftag=CAD590a51e)
- - [World Video Game Hall of Fame 2022 Inductees Include Ocarina of Time, Ms. Pac-Man     - CNET](https://www.cnet.com/tech/gaming/world-video-game-hall-of-fame-2022-inductees-include-ocarina-of-time-ms-pac-man/#ftag=CAD590a51e)
- - [Some ex-TikTok staff in the US talk about extremely long hours, lack of work-life boundaries, and secrecy that they say is to a degree uncommon in the industry &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220506/p13#a220506p13)<!-- TECH:END -->
+ - [Google’s latest Roboto variant is a font customizable to its core](https://www.theverge.com/2022/5/6/23059186/google-roboto-flex-variable-font-web-design)
+ - [Apple TV+ shares a behind-the-scenes look at &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/22/05/06/apple-tv-shares-a-behind-the-scenes-look-at-the-essex-serpent?utm_medium=rss)
+ - [Spotify will shut down its radio-like listening app Stations on May 16th](https://www.theverge.com/2022/5/6/23060239/spotify-stations-experiment-may-16th-radio-pandora)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
