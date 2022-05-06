@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
+ - 🚖 [Some people want to watch the world burn](http://9gag.com/gag/aqGDNWM)
  - 🚯 [Play stupid games](http://9gag.com/gag/a71n52L)
- - 🚯 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)<!-- MEMES:END -->
+ - 🚯 [Animal print pants out of control](http://9gag.com/gag/a11OZX6)<!-- MEMES:END -->
 
 --- 
 
