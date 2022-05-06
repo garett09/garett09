@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA Puts Limits on Johnson &amp; Johnson&#39;s COVID Vaccine     - CNET](https://www.cnet.com/health/medical/fda-puts-limits-on-johnson-and-johnsons-covid-vaccine/#ftag=CAD590a51e)
- - [Blockchain-based gaming startup Untamed Planet, which uses Roblox to create nature-themed games incorporating NFTs, raises a $24M Series A led by Animoca Brands &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220505/p38#a220505p38)
- - [UFC 274 Oliveira Vs. Gaethje: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-274-oliveira-vs-gaethje-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some former and current staff of esports companies TSM and Blitz allege workplace abuse and a &quot;culture of fear&quot; fostered by CEO Andy Dinh; TSM is investigating &lpar;Mikhail Klimentov/Washington Post&rpar;](http://www.techmeme.com/220505/p39#a220505p39)
+ - [Is &#39;Doctor Strange 2&#39; Suitable For My Kid? What to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-suitable-for-my-kid-what-to-know/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39;: Your Guide on What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-your-guide-on-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
