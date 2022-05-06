@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What an awesome guy](http://9gag.com/gag/aYrRWqN)
- - 🚯 [Some people want to watch the world burn](http://9gag.com/gag/aqGDNWM)
- - 🚯 [Copyright systems are just scams](http://9gag.com/gag/adgRpbZ)<!-- MEMES:END -->
+ - 🚖 [Strange, isn&#39;t it?](http://9gag.com/gag/aze4jEZ)
+ - 🚯 [In the center of Moscow, several zumers decided to dance for the camera, when suddenly two cops approached them. - Gulag4you](http://9gag.com/gag/a5157nO)
+ - 🚯 [When the Asian community can no longer count on the elected government to protect them in Sacramento, California](http://9gag.com/gag/a515P8N)<!-- MEMES:END -->
 
 --- 
 
