@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some former and current staff of esports companies TSM and Blitz allege workplace abuse and a &quot;culture of fear&quot; fostered by CEO Andy Dinh; TSM is investigating &lpar;Mikhail Klimentov/Washington Post&rpar;](http://www.techmeme.com/220505/p39#a220505p39)
- - [Is &#39;Doctor Strange 2&#39; Suitable For My Kid? What to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-suitable-for-my-kid-what-to-know/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39;: Your Guide on What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-your-guide-on-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lev, whose marketplace uses AI to help borrowers compare and source commercial real estate financing, raises a $70M Series B, sources say at a $400M valuation &lpar;T.P. Yeatts/The Real Deal New York&rpar;](http://www.techmeme.com/220505/p40#a220505p40)
+ - [Huge Wildfire Threatens This Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/huge-wildfire-threatens-this-new-mexico-town-but-it-cant-call-for-help/#ftag=CAD590a51e)
+ - [Some former and current staff of esports companies TSM and Blitz allege workplace abuse and a &quot;culture of fear&quot; fostered by CEO Andy Dinh; TSM is investigating &lpar;Mikhail Klimentov/Washington Post&rpar;](http://www.techmeme.com/220505/p39#a220505p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
