@@ -197,7 +197,7 @@ Windows                  1 hr 27 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
- - 🚯 [The ugly truth about that movement](http://9gag.com/gag/aVxRO72)
+ - 🚯 [Play stupid games](http://9gag.com/gag/a71n52L)
  - 🚯 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)<!-- MEMES:END -->
 
 --- 
