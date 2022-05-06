@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Three New Xbox Game Pass Launches, New DLC, and Updates](https://news.xbox.com/en-us/2022/05/06/this-week-on-xbox-may-6/)
- - [Who are the Illuminati in Marvel Comics?](https://www.polygon.com/23046771/doctor-strange-2-illuminati-black-bolt-reed-richards-professor-x-multiverse-of-madness)
- - [Xbox’s streaming-only console is reportedly coming soon](https://www.polygon.com/23060294/xbox-streaming-device-samsung-tv-app)<!-- GAME:END -->
+ - [Top Twitch Streamers Are Capitalizing On Depp V. Heard Trial Trauma](https://kotaku.com/twitch-depp-heard-trial-hasanabi-pokimane-xqc-johnny-am-1848892955)
+ - [Listen To A Bunch Of EVE Online Nerds Go Wild Over An Official Excel Collab](https://kotaku.com/eve-online-microsoft-excel-ccp-games-spreadsheets-space-1848892808)
+ - [Sonic the Hedgehog 2 speeds past Sonic the Hedgehog as top-grossing video game movie](https://www.polygon.com/23060153/sonic-the-hedgehog-2-top-grossing-video-game-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
