@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $1,999 Mac Studio is in stock now, add AppleCare for only $1](https://appleinsider.com/articles/22/04/11/apples-mac-studio-is-in-stock-now-add-applecare-for-1?utm_medium=rss)
- - [On May 6, 1998 the iMac changed Apple -- and the entire world](https://appleinsider.com/articles/18/05/06/20-years-ago-the-imac-changed-the-world?utm_medium=rss)
- - [Retail crypto exchange Crypto.com says it now has over 50M users, up 5x from late 2020, and expects to hit 100M users by year-end &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220506/p6#a220506p6)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Beats unveils new Powerbeats Pro in collaboration with London designer](https://appleinsider.com/articles/22/05/06/beats-unveils-new-powerbeats-pro-in-collaboration-with-london-designer?utm_medium=rss)
+ - [The 16-inch HP Omen gaming laptop is its lowest price ever at HP](https://www.theverge.com/good-deals/2022/5/6/23058630/hp-omen-spectre-x360-laptop-lenovo-convertible-headphones-samsung-galaxy-watch-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
