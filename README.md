@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing launcher is available now &lpar;Update: Video review!&rpar;](https://www.androidauthority.com/nothing-launcher-3158594/)
- - [Spotify Stations, the service&#39;s lightweight listening app first launched in 2018 offering easy access to curated playlists, is shutting down on May 16 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220506/p10#a220506p10)
- - [The Next Civil War Reads Like Dystopian Realism](https://www.wired.com/2022/05/geeks-guide-stephen-marche)<!-- TECH:END -->
+ - [Lucid raises its EV prices as the company continues to struggle with production](https://www.theverge.com/2022/5/6/23059976/lucid-motor-ev-price-increase-q1-2022-earnings)
+ - [First-batch Apple-1 &amp; Steve Jobs memorabilia hit the auction block](https://appleinsider.com/articles/22/05/06/first-batch-apple-1-steve-jobs-memorabilia-hit-the-auction-block?utm_medium=rss)
+ - [US sanctions cryptocurrency mixer Blender.io for allegedly laundering $20.5M from the Axie Infinity hack, making it the first mixer to be sanctioned by the US &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/220506/p12#a220506p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
