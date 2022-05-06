@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m smelling a lawsuit right there...](http://9gag.com/gag/aYrRp0x)
- - 🚯 [Copyright systems are just scams](http://9gag.com/gag/adgRpbZ)
- - 🚯 [What an awesome guy](http://9gag.com/gag/aYrRWqN)<!-- MEMES:END -->
+ - 🚖 [What an awesome guy](http://9gag.com/gag/aYrRWqN)
+ - 🚯 [Some people want to watch the world burn](http://9gag.com/gag/aqGDNWM)
+ - 🚯 [Copyright systems are just scams](http://9gag.com/gag/adgRpbZ)<!-- MEMES:END -->
 
 --- 
 
