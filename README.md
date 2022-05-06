@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [By our generation I think they mean teenagers. But it\u2019s quite true, don\u2019t you think ?](http://9gag.com/gag/a71pjpe)
+ - 🚖 [A nest of turtles trying to stay afloat on a rolling log.](http://9gag.com/gag/aRrRwoj)
  - 🚯 [Goodbye cruel world](http://9gag.com/gag/aKmKwjZ)
- - 🚯 [Fy_snow](http://9gag.com/gag/aDDOBxx)<!-- MEMES:END -->
+ - 🚯 [Your chances of getting killed by a goat are low, but never zero.](http://9gag.com/gag/aYrRj5w)<!-- MEMES:END -->
 
 --- 
 
