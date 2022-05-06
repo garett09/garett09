@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest Roboto variant is a font customizable to its core](https://www.theverge.com/2022/5/6/23059186/google-roboto-flex-variable-font-web-design)
- - [Apple TV+ shares a behind-the-scenes look at &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/22/05/06/apple-tv-shares-a-behind-the-scenes-look-at-the-essex-serpent?utm_medium=rss)
- - [Spotify will shut down its radio-like listening app Stations on May 16th](https://www.theverge.com/2022/5/6/23060239/spotify-stations-experiment-may-16th-radio-pandora)<!-- TECH:END -->
+ - [Apple users report &#39;phantom&#39; AirTag stalking alerts, likely because of a bug](https://appleinsider.com/articles/22/05/06/apple-users-report-phantom-airtag-stalking-alerts-likely-because-of-a-bug?utm_medium=rss)
+ - [9 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops)
+ - [A pig virus may have contributed to the death of first pig heart transplant patient](https://www.theverge.com/2022/5/6/23060519/pig-virus-heart-transplant-xenotransplantation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
