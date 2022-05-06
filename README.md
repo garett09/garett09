@@ -197,8 +197,8 @@ Windows                  1 hr 27 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)
- - 🚯 [Make offline single-player games great again](http://9gag.com/gag/aognZYA)
- - 🚯 [What an awesome guy](http://9gag.com/gag/aYrRWqN)<!-- MEMES:END -->
+ - 🚯 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)
+ - 🚯 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aqGDZxj)<!-- MEMES:END -->
 
 --- 
 
