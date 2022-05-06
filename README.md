@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A nest of turtles trying to stay afloat on a rolling log.](http://9gag.com/gag/aRrRwoj)
- - 🚯 [Your chances of getting killed by a goat are low, but never zero.](http://9gag.com/gag/aYrRj5w)
- - 🚯 [I design fake products and today I&#39;m created the Burrito Bumper!](http://9gag.com/gag/aKmK4KW)<!-- MEMES:END -->
+ - 🚖 [Redo](http://9gag.com/gag/aGz79gZ)
+ - 🚯 [Automatically lose the argment](http://9gag.com/gag/angGYqL)
+ - 🚯 [Who remembers?](http://9gag.com/gag/aZrRq2z)<!-- MEMES:END -->
 
 --- 
 
