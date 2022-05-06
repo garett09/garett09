@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs: Google is revamping performance reviews, resulting in higher pay, as it tries to ease tensions between staff and leadership about compensation &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220506/p17#a220506p17)
- - [Elon Musk&#39;s pitch to investors: quintuple Twitter revenue to $26.4B by 2028, cut ad revenue to less than 50% of revenue, $69M Twitter Blue revenue by 2025, more &lpar;New York Times&rpar;](http://www.techmeme.com/220506/p16#a220506p16)
- - [A California federal judge dismisses Donald Trump&#39;s lawsuit seeking to lift his ban from Twitter but may allow an amended complaint to be filed against Twitter &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/220506/p15#a220506p15)<!-- TECH:END -->
+ - [How low prices and influencers helped Chinese online fast fashion retailer Shein become the world&#39;s third biggest private company, claiming a 28% US marketshare &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/220506/p18#a220506p18)
+ - [Snap didn’t make enough Pixy drones, but won’t say how many it made](https://www.theverge.com/2022/5/6/23059094/snap-pixy-drone-camera-shipping)
+ - [US punishes Blender.io for helping North Korea launder millions in stolen Axie crypto](https://www.theverge.com/2022/5/6/23060544/us-treasury-blender-io-sanctions-bitcoin-mixer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
