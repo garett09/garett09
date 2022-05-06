@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)
- - 🚯 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)
- - 🚯 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aqGDZxj)<!-- MEMES:END -->
+ - 🚖 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)
+ - 🚯 [Perfect msg doesn&#39;t exi..](http://9gag.com/gag/a91DLDZ)
+ - 🚯 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)<!-- MEMES:END -->
 
 --- 
 
