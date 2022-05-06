@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 6&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [Sources: China has ordered government agencies and state-backed companies to replace foreign PCs with domestic ones running local OSes in two years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220506/p2#a220506p2)
- - [We asked, you told us: Most of you have seen a Pixel in the wild before](https://www.androidauthority.com/google-pixel-phone-in-wild-poll-results-3161709/)<!-- TECH:END -->
+ - [Burning Crops to Capture Carbon? Good Luck Finding Water](https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water)
+ - [The Newest iPad Mini Is at Its Lowest Price Ever](https://www.wired.com/story/ipad-mini-deal-may-2022)
+ - [Small Drones Are Giving Ukraine an Unprecedented Edge](https://www.wired.com/story/drones-russia-ukraine-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
