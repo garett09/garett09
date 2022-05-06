@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unlocked a core memory in the back of my brain](http://9gag.com/gag/aPZr6KP)
- - 🚯 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)
- - 🚯 [Your chances of getting killed by a goat are low, but never zero.](http://9gag.com/gag/aYrRj5w)<!-- MEMES:END -->
+ - 🚖 [By our generation I think they mean teenagers. But it\u2019s quite true, don\u2019t you think ?](http://9gag.com/gag/a71pjpe)
+ - 🚯 [Goodbye cruel world](http://9gag.com/gag/aKmKwjZ)
+ - 🚯 [Fy_snow](http://9gag.com/gag/aDDOBxx)<!-- MEMES:END -->
 
 --- 
 
