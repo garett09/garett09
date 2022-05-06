@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)
- - 🚯 [Perfect msg doesn&#39;t exi..](http://9gag.com/gag/a91DLDZ)
- - 🚯 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)<!-- MEMES:END -->
+ - 🚖 [I&#39;m smelling a lawsuit right there...](http://9gag.com/gag/aYrRp0x)
+ - 🚯 [Copyright systems are just scams](http://9gag.com/gag/adgRpbZ)
+ - 🚯 [What an awesome guy](http://9gag.com/gag/aYrRWqN)<!-- MEMES:END -->
 
 --- 
 
