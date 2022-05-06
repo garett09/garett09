@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Orc astonished by how well fortified Ukrainian position is.](http://9gag.com/gag/a61jW0L)
+ - 🚖 [Unlocked a core memory in the back of my brain](http://9gag.com/gag/aPZr6KP)
  - 🚯 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)
- - 🚯 [I design fake products and today I&#39;m created the Burrito Bumper!](http://9gag.com/gag/aKmK4KW)<!-- MEMES:END -->
+ - 🚯 [Your chances of getting killed by a goat are low, but never zero.](http://9gag.com/gag/aYrRj5w)<!-- MEMES:END -->
 
 --- 
 
