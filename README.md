@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 2T quietly listed for Europe, revealing price and specs](https://www.androidauthority.com/oneplus-nord-2t-europe-3161651/)
- - [SpaceX successfully returns four astronauts from International Space Station](https://www.theverge.com/2022/5/6/23055274/spacex-crew-3-return-iss-nasa-crew-dragon)
- - [Pachama, which uses AI and remote sensing to verify forest carbon credits, raises a $55M Series B led by Future Positive &lpar;Reuters&rpar;](http://www.techmeme.com/220506/p1#a220506p1)<!-- TECH:END -->
+ - [We asked, you told us: Most of you have seen a Pixel in the wild before](https://www.androidauthority.com/google-pixel-phone-in-wild-poll-results-3161709/)
+ - [Is &#39;Doctor Strange 2&#39; Suitable For Children? What to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-suitable-for-children-what-to-know/#ftag=CAD590a51e)
+ - [Poll: Do you read app changelogs on the Google Play Store?](https://www.androidauthority.com/google-play-store-app-changelogs-poll-3161700/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
