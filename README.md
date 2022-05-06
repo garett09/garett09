@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top Twitch Streamers Are Capitalizing On Depp V. Heard Trial Trauma](https://kotaku.com/twitch-depp-heard-trial-hasanabi-pokimane-xqc-johnny-am-1848892955)
- - [Listen To A Bunch Of EVE Online Nerds Go Wild Over An Official Excel Collab](https://kotaku.com/eve-online-microsoft-excel-ccp-games-spreadsheets-space-1848892808)
- - [Sonic the Hedgehog 2 speeds past Sonic the Hedgehog as top-grossing video game movie](https://www.polygon.com/23060153/sonic-the-hedgehog-2-top-grossing-video-game-movie)<!-- GAME:END -->
+ - [The 10 Best Star Wars Games Ever Made](https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189)
+ - [How To Get Elden Ring&#39;s Beast-Repellent Torch ASAP](https://kotaku.com/elden-ring-beast-repellent-torch-caelid-useful-items-ea-1848892448)
+ - [Bored Ape Yacht Club NFT Fans Lose Millions Trying To Buy Video Game &#39;Land&#39;](https://kotaku.com/nft-bored-ape-otherside-metaverse-scam-video-game-ether-1848892937)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
