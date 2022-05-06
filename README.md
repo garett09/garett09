@@ -189,9 +189,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Mini 3 Pro has thoroughly leaked in an unboxing video and retail post](https://www.theverge.com/2022/5/6/23060143/dii-mini-3-unboxing-leak-retail-announcement-controller-camera)
- - [NASA Artemis I Moon Mission Slips to Possible August Launch Date     - CNET](https://www.cnet.com/science/space/nasa-artemis-i-moon-mission-slips-to-possible-august-launch-date/#ftag=CAD590a51e)
- - [A Huge Wildfire Threatens This Historic Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/a-huge-wildfire-threatens-this-historic-town-but-it-cant-call-for-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Volunteers and AI Spot Over 1,000 Unidentified Asteroids in Hubble Images     - CNET](https://www.cnet.com/science/space/volunteers-and-ai-spot-over-1000-unidentified-asteroids-in-hubble-images/#ftag=CAD590a51e)
+ - [World Video Game Hall of Fame 2022 Inductees Include Ocarina of Time, Ms. Pac-Man     - CNET](https://www.cnet.com/tech/gaming/world-video-game-hall-of-fame-2022-inductees-include-ocarina-of-time-ms-pac-man/#ftag=CAD590a51e)
+ - [Some ex-TikTok staff in the US talk about extremely long hours, lack of work-life boundaries, and secrecy that they say is to a degree uncommon in the industry &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220506/p13#a220506p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
