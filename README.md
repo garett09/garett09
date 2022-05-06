@@ -197,8 +197,8 @@ Windows                  1 hr 27 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
- - 🚯 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)
- - 🚯 [Media be like](http://9gag.com/gag/a31NYgN)<!-- MEMES:END -->
+ - 🚯 [The ugly truth about that movement](http://9gag.com/gag/aVxRO72)
+ - 🚯 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)<!-- MEMES:END -->
 
 --- 
 
