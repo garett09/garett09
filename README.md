@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This isn&#39;t a GameBoy anymore, it&#39;s a GameMan, and it features just about every accessory you could possibly think of.](http://9gag.com/gag/aGz79Nn)
- - 🚯 [Redo](http://9gag.com/gag/aGz79gZ)
- - 🚯 [In Japan, some blackboards are equipped with an eraser that scans &amp; saves the text as it erases it so students can access it later.](http://9gag.com/gag/a91DbZ6)<!-- MEMES:END -->
+ - 🚖 [True love....](http://9gag.com/gag/aqGDmqZ)
+ - 🚯 [Winning an iPhone from the Claw Machine!](http://9gag.com/gag/arn8p5B)
+ - 🚯 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)<!-- MEMES:END -->
 
 --- 
 
