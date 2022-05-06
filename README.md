@@ -196,9 +196,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this what Amber Heard expected court to be like?](http://9gag.com/gag/a61Gr2A)
- - 🚯 [The garden hose!](http://9gag.com/gag/angGq6z)
- - 🚯 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)<!-- MEMES:END -->
+ - 🚖 [This isn&#39;t a GameBoy anymore, it&#39;s a GameMan, and it features just about every accessory you could possibly think of.](http://9gag.com/gag/aGz79Nn)
+ - 🚯 [Redo](http://9gag.com/gag/aGz79gZ)
+ - 🚯 [In Japan, some blackboards are equipped with an eraser that scans &amp; saves the text as it erases it so students can access it later.](http://9gag.com/gag/a91DbZ6)<!-- MEMES:END -->
 
 --- 
 
