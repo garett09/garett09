@@ -182,9 +182,9 @@ Windows                  1 hr 27 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #321: Friday, May 6](https://www.pcgamer.com/wordle-may-6-321)
  - [Devolver&#39;s latest Steam sale includes some steep discounts](https://www.pcgamer.com/devolvers-latest-steam-sale-includes-some-steep-discounts)
- - [Morrowind modder whose kids hate mudcrabs added the family cat to protect them](https://www.pcgamer.com/morrowind-modder-whose-kids-hate-mudcrabs-added-the-family-cat-to-protect-them)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Morrowind modder whose kids hate mudcrabs added the family cat to protect them](https://www.pcgamer.com/morrowind-modder-whose-kids-hate-mudcrabs-added-the-family-cat-to-protect-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
