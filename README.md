@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you ok honey ? You barely touched your squareghetti](http://9gag.com/gag/aVxRP98)
- - 🚯 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
- - 🚯 [Scum](http://9gag.com/gag/aXrRw92)<!-- MEMES:END -->
+ - 🚖 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
+ - 🚯 [Annoying streamer gets pepper sprayed and cries like a wimp](http://9gag.com/gag/a5157bO)
+ - 🚯 [What the internet was made for](http://9gag.com/gag/apgVrDb)<!-- MEMES:END -->
 
 --- 
 
