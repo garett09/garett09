@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A one-year study of Vietnamese youth who built their own Bugatti out of clay mud...](http://9gag.com/gag/aDDQj79)
+ - 🚖 [POV: How bad people look like!](http://9gag.com/gag/amgRYb6)
  - 🚯 [El Walrus](http://9gag.com/gag/a31NqZQ)
- - 🚯 [Seriously](http://9gag.com/gag/a81Vyz1)<!-- MEMES:END -->
+ - 🚯 [Impressive!](http://9gag.com/gag/a71nZmm)<!-- MEMES:END -->
 
 --- 
 
