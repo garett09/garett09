@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
- - 🚯 [Facts](http://9gag.com/gag/adgRKzd)
- - 🚯 [I just really love cats](http://9gag.com/gag/a81Vo1Y)<!-- MEMES:END -->
+ - 🚖 [Put a donk on it.](http://9gag.com/gag/aPZrY8Q)
+ - 🚯 [Is it them again Yogi?](http://9gag.com/gag/aKmKx4W)
+ - 🚯 [Facts](http://9gag.com/gag/adgRKzd)<!-- MEMES:END -->
 
 --- 
 
