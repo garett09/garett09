@@ -196,8 +196,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wisdom I guess](http://9gag.com/gag/amgR72d)
- - 🚯 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
+ - 🚖 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
+ - 🚯 [Facts](http://9gag.com/gag/adgRKzd)
  - 🚯 [I just really love cats](http://9gag.com/gag/a81Vo1Y)<!-- MEMES:END -->
 
 --- 
