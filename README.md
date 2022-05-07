@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
- - 🚯 [Who&#39;s the legend here?](http://9gag.com/gag/aegRYEm)
- - 🚯 [Okay you&#39;re old, but are you this old?](http://9gag.com/gag/ajgRAog)<!-- MEMES:END -->
+ - 🚖 [From the archives, for preservation purposes](http://9gag.com/gag/aze4rzz)
+ - 🚯 [\u00a1Hola, amigos!](http://9gag.com/gag/aRrRe6q)
+ - 🚯 [Who&#39;s the legend here?](http://9gag.com/gag/aegRYEm)<!-- MEMES:END -->
 
 --- 
 
