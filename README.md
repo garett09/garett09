@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously](http://9gag.com/gag/a81Vyz1)
- - 🚯 [Wisdom I guess](http://9gag.com/gag/amgR72d)
- - 🚯 [Don&#39;t mess with guard kitty](http://9gag.com/gag/awzeQM8)<!-- MEMES:END -->
+ - 🚖 [Wisdom I guess](http://9gag.com/gag/amgR72d)
+ - 🚯 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
+ - 🚯 [I just really love cats](http://9gag.com/gag/a81Vo1Y)<!-- MEMES:END -->
 
 --- 
 
