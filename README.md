@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV: How bad people look like!](http://9gag.com/gag/amgRYb6)
- - 🚯 [El Walrus](http://9gag.com/gag/a31NqZQ)
- - 🚯 [Impressive!](http://9gag.com/gag/a71nZmm)<!-- MEMES:END -->
+ - 🚖 [I made dis](http://9gag.com/gag/aggKLwW)
+ - 🚯 [There\u2019s always one guy](http://9gag.com/gag/aze481q)
+ - 🚯 [Yeah Potter](http://9gag.com/gag/a61GbW2)<!-- MEMES:END -->
 
 --- 
 
