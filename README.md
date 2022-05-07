@@ -196,8 +196,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In the center of Moscow, several zumers decided to dance for the camera, when suddenly two cops approached them. - Gulag4you](http://9gag.com/gag/a5157nO)
- - 🚯 [Fighting gravity](http://9gag.com/gag/aogn94m)
+ - 🚖 [Fighting gravity](http://9gag.com/gag/aogn94m)
+ - 🚯 [Seriously](http://9gag.com/gag/a0ZOpVL)
  - 🚯 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)<!-- MEMES:END -->
 
 --- 
