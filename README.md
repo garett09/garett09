@@ -189,9 +189,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 7: $399 iPad mini, $328 50-inch Vizio Smart TV, $347 LG 27-inch QHD Monitor, more](https://appleinsider.com/articles/22/05/07/daily-deals-may-7-399-ipad-mini-328-50-inch-vizio-smart-tv-347-lg-27-inch-qhd-monitor-more?utm_medium=rss)
- - [Apple&#39;s Self Repair Program was never going to be what repair advocates wanted](https://appleinsider.com/articles/22/05/07/apples-self-repair-program-was-never-going-to-be-what-repair-advocates-wanted?utm_medium=rss)
- - [Apple, Google, and Microsoft Team Up to Vanquish the Password](https://www.wired.com/story/fido-alliance-passwordless-login-browser-support)<!-- TECH:END -->
+ - [Elden Ring on PlayStation is $10 off at Amazon](https://www.theverge.com/good-deals/2022/5/7/23060203/elden-ring-ps5-ps4-amazon-lenovo-flex-5-chromebook-xbox-stereo-headset-roborock-s7-deal-sale)
+ - [Android tablets are exciting again, but Chrome hasn’t kept up](https://www.androidauthority.com/chrome-for-android-tablet-desktop-parity-3158519/)
+ - [Apple&#39;s Self Repair Program was never going to be what repair advocates wanted](https://appleinsider.com/articles/22/05/07/apples-self-repair-program-was-never-going-to-be-what-repair-advocates-wanted?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
