@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you drink a large coffee in public](http://9gag.com/gag/aGz70Dz)
- - 🚯 [What the internet was made for](http://9gag.com/gag/apgVrDb)
- - 🚯 [These tubes bring natural light indoors and reduce energy consumption. A meaningful innovation by Solatube.](http://9gag.com/gag/angGbyo)<!-- MEMES:END -->
+ - 🚖 [A one-year study of Vietnamese youth who built their own Bugatti out of clay mud...](http://9gag.com/gag/aDDQj79)
+ - 🚯 [El Walrus](http://9gag.com/gag/a31NqZQ)
+ - 🚯 [Seriously](http://9gag.com/gag/a81Vyz1)<!-- MEMES:END -->
 
 --- 
 
