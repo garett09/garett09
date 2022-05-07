@@ -197,8 +197,8 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I made dis](http://9gag.com/gag/aggKLwW)
- - 🚯 [There\u2019s always one guy](http://9gag.com/gag/aze481q)
- - 🚯 [Yeah Potter](http://9gag.com/gag/a61GbW2)<!-- MEMES:END -->
+ - 🚯 [The sons drawings are on the right](http://9gag.com/gag/a81Vy03)
+ - 🚯 [Run Forest Run](http://9gag.com/gag/a21O4Ww)<!-- MEMES:END -->
 
 --- 
 
