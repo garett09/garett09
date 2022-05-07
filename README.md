@@ -189,9 +189,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk thinks he can double Twitter’s revenue through subscriptions alone](https://www.theverge.com/2022/5/7/23061198/elon-musk-double-twitter-revenue-through-subscriptions-blue)
- - [How small, commercial drones in Ukraine are letting militias and others conduct cheap airborne surveillance and collect footage for war crimes investigations &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220507/p7#a220507p7)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-431-3162027/)<!-- TECH:END -->
+ - [Will Smith&#39;s &#39;Emancipation&#39; may delay Apple TV+ release to 2023](https://appleinsider.com/articles/22/05/07/will-smiths-emancipation-may-delay-apple-tv-release-to-2023?utm_medium=rss)
+ - [Ubisoft’s troubled Prince of Persia remake moved to a new studio, delayed further](https://www.theverge.com/2022/5/3/23055673/ubisoft-prince-persia-remastered-pune-mumbai-montreal)
+ - [Elon Musk thinks he can double Twitter’s revenue through subscriptions alone](https://www.theverge.com/2022/5/7/23061198/elon-musk-double-twitter-revenue-through-subscriptions-blue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
