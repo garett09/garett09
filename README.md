@@ -197,8 +197,8 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
- - 🚯 [Annoying streamer gets pepper sprayed and cries like a wimp](http://9gag.com/gag/a5157bO)
- - 🚯 [What the internet was made for](http://9gag.com/gag/apgVrDb)<!-- MEMES:END -->
+ - 🚯 [Who&#39;s the legend here?](http://9gag.com/gag/aegRYEm)
+ - 🚯 [Okay you&#39;re old, but are you this old?](http://9gag.com/gag/ajgRAog)<!-- MEMES:END -->
 
 --- 
 
