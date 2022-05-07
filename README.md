@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/adgRKzd)
- - 🚯 [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)
- - 🚯 [Meanwhile in indonesia](http://9gag.com/gag/aOQprp3)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in indonesia](http://9gag.com/gag/aOQprp3)
+ - 🚯 [Faith in animals restored](http://9gag.com/gag/aGz7jGw)
+ - 🚯 [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)<!-- MEMES:END -->
 
 --- 
 
