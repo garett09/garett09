@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah Potter](http://9gag.com/gag/a61GbW2)
+ - 🚖 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
  - 🚯 [Bato Basanov, 25, from Buryatia, was in a record-breaking tank biathlon team that performed last year in war games in front of defence minister Sergei Shoigu and chief of the army general staff Valery Gerasimov.](http://9gag.com/gag/a0ZO54q)
- - 🚯 [Pure satisfaction](http://9gag.com/gag/avA9G3M)<!-- MEMES:END -->
+ - 🚯 [Just cleaning my pc - found this](http://9gag.com/gag/aze4q3x)<!-- MEMES:END -->
 
 --- 
 
