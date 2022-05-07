@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)
- - 🚯 [Are you ok honey ? You barely touched your squareghetti](http://9gag.com/gag/aVxRP98)
- - 🚯 [Facts](http://9gag.com/gag/aRrRKAq)<!-- MEMES:END -->
+ - 🚖 [Are you ok honey ? You barely touched your squareghetti](http://9gag.com/gag/aVxRP98)
+ - 🚯 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
+ - 🚯 [Scum](http://9gag.com/gag/aXrRw92)<!-- MEMES:END -->
 
 --- 
 
