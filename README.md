@@ -197,8 +197,8 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [From the archives, for preservation purposes](http://9gag.com/gag/aze4rzz)
- - 🚯 [\u00a1Hola, amigos!](http://9gag.com/gag/aRrRe6q)
- - 🚯 [Who&#39;s the legend here?](http://9gag.com/gag/aegRYEm)<!-- MEMES:END -->
+ - 🚯 [Steve Irwin on what it&#39;s really all about](http://9gag.com/gag/aegRYP5)
+ - 🚯 [There\u2019s always one guy](http://9gag.com/gag/aze481q)<!-- MEMES:END -->
 
 --- 
 
