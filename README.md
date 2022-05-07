@@ -196,8 +196,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fighting gravity](http://9gag.com/gag/aogn94m)
- - 🚯 [Seriously](http://9gag.com/gag/a0ZOpVL)
+ - 🚖 [The Ghost of Arma 3](http://9gag.com/gag/aVxReg2)
+ - 🚯 [Instead of pulling to the side and take a few seconds, moron decides to take off hoodie while driving](http://9gag.com/gag/aM4q9jM)
  - 🚯 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)<!-- MEMES:END -->
 
 --- 
