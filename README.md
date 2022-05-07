@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Ghost of Arma 3](http://9gag.com/gag/aVxReg2)
- - 🚯 [Instead of pulling to the side and take a few seconds, moron decides to take off hoodie while driving](http://9gag.com/gag/aM4q9jM)
- - 🚯 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)<!-- MEMES:END -->
+ - 🚖 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)
+ - 🚯 [Are you ok honey ? You barely touched your squareghetti](http://9gag.com/gag/aVxRP98)
+ - 🚯 [Facts](http://9gag.com/gag/aRrRKAq)<!-- MEMES:END -->
 
 --- 
 
