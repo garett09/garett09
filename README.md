@@ -196,9 +196,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From the archives, for preservation purposes](http://9gag.com/gag/aze4rzz)
- - 🚯 [Steve Irwin on what it&#39;s really all about](http://9gag.com/gag/aegRYP5)
- - 🚯 [There\u2019s always one guy](http://9gag.com/gag/aze481q)<!-- MEMES:END -->
+ - 🚖 [When you drink a large coffee in public](http://9gag.com/gag/aGz70Dz)
+ - 🚯 [What the internet was made for](http://9gag.com/gag/apgVrDb)
+ - 🚯 [These tubes bring natural light indoors and reduce energy consumption. A meaningful innovation by Solatube.](http://9gag.com/gag/angGbyo)<!-- MEMES:END -->
 
 --- 
 
