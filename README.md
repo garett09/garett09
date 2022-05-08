@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What would the world be without cats](http://9gag.com/gag/aqGDGRQ)
- - 🚯 [Guys only want one thing](http://9gag.com/gag/aggKBAw)
- - 🚯 [They might be ok with the geh, up to B, but they still have some standards!](http://9gag.com/gag/aZrR0oQ)<!-- MEMES:END -->
+ - 🚖 [Should have looked left...](http://9gag.com/gag/a91DEd0)
+ - 🚯 [You may hide in your department, but you can never hide from a China coivd police.](http://9gag.com/gag/aPZrZzK)
+ - 🚯 [Jesus wild&#39;n man](http://9gag.com/gag/aDDQdQN)<!-- MEMES:END -->
 
 --- 
 
