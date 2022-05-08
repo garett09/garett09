@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is no feeling like it. The perfect nap scenario.](http://9gag.com/gag/arn8Vmd)
- - 🚯 [No strings attached](http://9gag.com/gag/angGQQ5)
- - 🚯 [Straight Homo habilis](http://9gag.com/gag/aegRDdv)<!-- MEMES:END -->
+ - 🚖 [No strings attached](http://9gag.com/gag/angGQQ5)
+ - 🚯 [The Chinese are really good at one thing....](http://9gag.com/gag/aze4MDb)
+ - 🚯 [Nunchaku master !](http://9gag.com/gag/arn8MGV)<!-- MEMES:END -->
 
 --- 
 
