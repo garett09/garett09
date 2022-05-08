@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rage quit](http://9gag.com/gag/a0ZOReO)
- - 🚯 [How I met your mother.](http://9gag.com/gag/a21OZn1)
- - 🚯 [This is a big hole](http://9gag.com/gag/aOQp0Zv)<!-- MEMES:END -->
+ - 🚖 [Mothers Day vs Fathers Day](http://9gag.com/gag/arn8oz7)
+ - 🚯 [Is it them again Yogi?](http://9gag.com/gag/aKmKx4W)
+ - 🚯 [What is your best/worst nickname?](http://9gag.com/gag/aDDQ1XK)<!-- MEMES:END -->
 
 --- 
 
