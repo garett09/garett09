@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Mother&#39;s Day everyone](http://9gag.com/gag/aNPjPLb)
- - 🚯 [Karen is back..](http://9gag.com/gag/aE8Zp9M)
- - 🚯 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)<!-- MEMES:END -->
+ - 🚖 [Poor guy..](http://9gag.com/gag/amgRPn9)
+ - 🚯 [The boys in this photo were exposed to the same smallpox source. The one on the right received the small pox vaccine at birth, and the other didn\u2019t. This photo was taken by Dr. Allan Warner in the early 1900s at Isolation Hospital at Leicester in the UK.](http://9gag.com/gag/aE8Z839)
+ - 🚯 [The Chinese are really good at one thing....](http://9gag.com/gag/aze4MDb)<!-- MEMES:END -->
 
 --- 
 
