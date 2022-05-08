@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor guy..](http://9gag.com/gag/amgRPn9)
+ - 🚖 [What would the world be without cats](http://9gag.com/gag/aqGDGRQ)
  - 🚯 [The boys in this photo were exposed to the same smallpox source. The one on the right received the small pox vaccine at birth, and the other didn\u2019t. This photo was taken by Dr. Allan Warner in the early 1900s at Isolation Hospital at Leicester in the UK.](http://9gag.com/gag/aE8Z839)
- - 🚯 [The Chinese are really good at one thing....](http://9gag.com/gag/aze4MDb)<!-- MEMES:END -->
+ - 🚯 [What are you eating](http://9gag.com/gag/aze42Op)<!-- MEMES:END -->
 
 --- 
 
