@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why you do this everytime](http://9gag.com/gag/a515R3L)
- - 🚯 [Got my wife a new rug for the kitchen, don&#39;t think she will notice.](http://9gag.com/gag/aOQp0y6)
- - 🚯 [Yes I do sex every day](http://9gag.com/gag/angG9qo)<!-- MEMES:END -->
+ - 🚖 [Mothers Day vs Fathers Day](http://9gag.com/gag/arn8oz7)
+ - 🚯 [Why you do this everytime](http://9gag.com/gag/a515R3L)
+ - 🚯 [This is a big hole](http://9gag.com/gag/aOQp0Zv)<!-- MEMES:END -->
 
 --- 
 
