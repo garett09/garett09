@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now, this is a true icon.](http://9gag.com/gag/aKmK7K1)
- - 🚯 [Ready to ride](http://9gag.com/gag/aegR58m)
- - 🚯 [I&#39;m coming for you Starbucks](http://9gag.com/gag/a31Nw7N)<!-- MEMES:END -->
+ - 🚖 [Guys only want one thing](http://9gag.com/gag/aggKBAw)
+ - 🚯 [I&#39;m coming for you Starbucks](http://9gag.com/gag/a31Nw7N)
+ - 🚯 [There is no feeling like it. The perfect nap scenario.](http://9gag.com/gag/arn8Vmd)<!-- MEMES:END -->
 
 --- 
 
