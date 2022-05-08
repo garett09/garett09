@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As decentralized crypto bridges prove susceptible to hacks, with ~$1B stolen in February and March, centralized exchanges are rushing out bridge-like features &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220507/p11#a220507p11)
- - [Tesla sues former engineer for allegedly stealing its supercomputer’s secrets](https://www.theverge.com/2022/5/7/23061523/tesla-sues-former-engineer-allegedly-stealing-supercomputer-technology-project-dojo)
- - [Tronsmart Bang Speaker review: Solidly middle of the road for a portable speaker](https://appleinsider.com/articles/22/05/07/tronsmart-bang-speaker-review-solidly-middle-of-the-road-for-a-portable-speaker?utm_medium=rss)<!-- TECH:END -->
+ - [Axiomatic Gaming, the parent of esports organization Team Liquid, raises $35M led by Ares Management, valuing Team Liquid at $415M &lpar;Matt Craig/Forbes&rpar;](http://www.techmeme.com/220507/p12#a220507p12)
+ - [The Real Costs of Electric Car Ownership     - CNET](https://www.cnet.com/roadshow/news/electric-vehicle-ownership-costs/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
