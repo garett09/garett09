@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mothers Day vs Fathers Day](http://9gag.com/gag/arn8oz7)
- - 🚯 [Is it them again Yogi?](http://9gag.com/gag/aKmKx4W)
- - 🚯 [What is your best/worst nickname?](http://9gag.com/gag/aDDQ1XK)<!-- MEMES:END -->
+ - 🚖 [Why you do this everytime](http://9gag.com/gag/a515R3L)
+ - 🚯 [What is your best/worst nickname?](http://9gag.com/gag/aDDQ1XK)
+ - 🚯 [Put a donk on it.](http://9gag.com/gag/aPZrY8Q)<!-- MEMES:END -->
 
 --- 
 
