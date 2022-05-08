@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What do you drink while gaming?](https://www.pcgamer.com/what-do-you-drink-while-gaming)
- - [Indie roguelike Shotgun King takes chess and adds hot lead and a grudge](https://www.pcgamer.com/indie-roguelike-shotgun-king-takes-chess-and-adds-hot-lead-and-a-grudge)
- - [Brutal survival RPG Outward has a definitive edition this month](https://www.pcgamer.com/brutal-survival-rpg-outward-has-a-definitive-edition-this-month)<!-- GAME:END -->
+ - [Lost Ark is getting its first legion raid and more modern clothes this month](https://www.pcgamer.com/lost-ark-is-getting-its-first-legion-raid-and-more-modern-clothes-this-month)
+ - [Dexter: The Game involved more crab-smashing than murder for some reason](https://www.pcgamer.com/saturday-crapshoot-dexter)
+ - [What do you drink while gaming?](https://www.pcgamer.com/what-do-you-drink-while-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
