@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No strings attached](http://9gag.com/gag/angGQQ5)
- - 🚯 [The Chinese are really good at one thing....](http://9gag.com/gag/aze4MDb)
- - 🚯 [Nunchaku master !](http://9gag.com/gag/arn8MGV)<!-- MEMES:END -->
+ - 🚖 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)
+ - 🚯 [Nunchaku master !](http://9gag.com/gag/arn8MGV)
+ - 🚯 [Made my first furniture ever! A cabinet with drawers for Magic the Gathering cards, and I&#39;m pretty happy with the results.](http://9gag.com/gag/aegRAev)<!-- MEMES:END -->
 
 --- 
 
