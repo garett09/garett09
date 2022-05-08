@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nunchaku master !](http://9gag.com/gag/arn8MGV)
- - 🚯 [Karen is back..](http://9gag.com/gag/aE8Zp9M)
- - 🚯 [Hey guys I just got my dream job! Perfect working conditions!](http://9gag.com/gag/a41wE4v)<!-- MEMES:END -->
+ - 🚖 [What would the world be without cats](http://9gag.com/gag/aqGDGRQ)
+ - 🚯 [Guys only want one thing](http://9gag.com/gag/aggKBAw)
+ - 🚯 [They might be ok with the geh, up to B, but they still have some standards!](http://9gag.com/gag/aZrR0oQ)<!-- MEMES:END -->
 
 --- 
 
