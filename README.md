@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some tech workers in Latin America advocate for Spanish-language training and a Spanish programming language, even as the best IT jobs still require English &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220508/p5#a220508p5)
- - [Mother&#39;s Day Google Doodle Celebrates Mom&#39;s Nurturing Hand     - CNET](https://www.cnet.com/culture/internet/mothers-day-google-doodle-celebrates-moms-nurturing-hand/#ftag=CAD590a51e)
- - [Apple plans more Fitness+ workouts and Instacart-style service alongside payment features](https://appleinsider.com/articles/22/05/08/apple-plans-more-fitness-workouts-and-instacart-style-service-alongside-payment-features?utm_medium=rss)<!-- TECH:END -->
+ - [BMW temporarily ships cars without Apple CarPlay](https://appleinsider.com/articles/22/05/08/bmw-temporarily-ships-cars-without-apple-carplay?utm_medium=rss)
+ - [I want to love smartwatches, but I can’t replace my GPS watch](https://www.androidauthority.com/smartwatches-gps-watch-3160392/)
+ - [Liven Up Your Garden With Up to 51% Off Wind Chimes, Bird Feeders and More     - CNET](https://www.cnet.com/news/liven-up-your-garden-with-up-to-51-off-wind-chimes-bird-feeders-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
