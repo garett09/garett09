@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should have looked left...](http://9gag.com/gag/a91DEd0)
- - 🚯 [You may hide in your department, but you can never hide from a China coivd police.](http://9gag.com/gag/aPZrZzK)
- - 🚯 [Jesus wild&#39;n man](http://9gag.com/gag/aDDQdQN)<!-- MEMES:END -->
+ - 🚖 [Happy Mother&#39;s Day everyone](http://9gag.com/gag/aNPjPLb)
+ - 🚯 [Karen is back..](http://9gag.com/gag/aE8Zp9M)
+ - 🚯 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)<!-- MEMES:END -->
 
 --- 
 
