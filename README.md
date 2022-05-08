@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When my best friend tells me there is no beer at his wedding because his wife wants him to stop drinking and start focusing on the family life](http://9gag.com/gag/aognKNA)
- - 🚯 [The Challenger disaster](http://9gag.com/gag/a41w1Mp)
+ - 🚖 [The Challenger disaster](http://9gag.com/gag/a41w1Mp)
+ - 🚯 [In a meme](http://9gag.com/gag/axBmyGb)
  - 🚯 [How to die effectively](http://9gag.com/gag/aKmKGDj)<!-- MEMES:END -->
 
 --- 
