@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Faith in animals restored](http://9gag.com/gag/aGz7jGw)
- - 🚯 [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)
- - 🚯 [Whirlpool Turbines Can Provide 24/7 Renewable Energy For Dozens Of Homes](http://9gag.com/gag/apgV2m5)<!-- MEMES:END -->
+ - 🚖 [Rage quit](http://9gag.com/gag/a0ZOReO)
+ - 🚯 [How I met your mother.](http://9gag.com/gag/a21OZn1)
+ - 🚯 [This is a big hole](http://9gag.com/gag/aOQp0Zv)<!-- MEMES:END -->
 
 --- 
 
