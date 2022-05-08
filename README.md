@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfectly acceptable.](http://9gag.com/gag/aGz7zvX)
- - 🚯 [You may hide in your department, but you can never hide from a China coivd police.](http://9gag.com/gag/aPZrZzK)
- - 🚯 [What happened to this \ud83d\ude15](http://9gag.com/gag/aqGDepZ)<!-- MEMES:END -->
+ - 🚖 [You may hide in your department, but you can never hide from a China coivd police.](http://9gag.com/gag/aPZrZzK)
+ - 🚯 [How to die effectively](http://9gag.com/gag/aKmKGDj)
+ - 🚯 [When my best friend tells me there is no beer at his wedding because his wife wants him to stop drinking and start focusing on the family life](http://9gag.com/gag/aognKNA)<!-- MEMES:END -->
 
 --- 
 
