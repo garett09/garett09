@@ -199,8 +199,8 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Why you do this everytime](http://9gag.com/gag/a515R3L)
- - 🚯 [What is your best/worst nickname?](http://9gag.com/gag/aDDQ1XK)
- - 🚯 [Put a donk on it.](http://9gag.com/gag/aPZrY8Q)<!-- MEMES:END -->
+ - 🚯 [Got my wife a new rug for the kitchen, don&#39;t think she will notice.](http://9gag.com/gag/aOQp0y6)
+ - 🚯 [Yes I do sex every day](http://9gag.com/gag/angG9qo)<!-- MEMES:END -->
 
 --- 
 
