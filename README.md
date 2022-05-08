@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans more Fitness+ workouts and Instacart-style service alongside payment features](https://appleinsider.com/articles/22/05/08/apple-plans-more-fitness-workouts-and-instacart-style-service-alongside-payment-features?utm_medium=rss)
- - [Ncuti Gatwa will star as Doctor Who’s Fourteenth Doctor](https://www.theverge.com/2022/5/8/23062341/ncuti-gatwa-doctor-who-fourteenth-doctor-bbc)
- - [Password sharing isn’t killing Netflix, streaming fatigue is](https://www.androidauthority.com/netflix-streaming-service-fatigue-3157277/)<!-- TECH:END -->
+ - [Some tech workers in Latin America advocate for Spanish-language training and a Spanish programming language, even as the best IT jobs still require English &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220508/p5#a220508p5)
+ - [Mother&#39;s Day Google Doodle Celebrates Mom&#39;s Nurturing Hand     - CNET](https://www.cnet.com/culture/internet/mothers-day-google-doodle-celebrates-moms-nurturing-hand/#ftag=CAD590a51e)
+ - [Apple plans more Fitness+ workouts and Instacart-style service alongside payment features](https://appleinsider.com/articles/22/05/08/apple-plans-more-fitness-workouts-and-instacart-style-service-alongside-payment-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
