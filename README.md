@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)
- - 🚯 [Nunchaku master !](http://9gag.com/gag/arn8MGV)
- - 🚯 [Made my first furniture ever! A cabinet with drawers for Magic the Gathering cards, and I&#39;m pretty happy with the results.](http://9gag.com/gag/aegRAev)<!-- MEMES:END -->
+ - 🚖 [Nunchaku master !](http://9gag.com/gag/arn8MGV)
+ - 🚯 [Karen is back..](http://9gag.com/gag/aE8Zp9M)
+ - 🚯 [Hey guys I just got my dream job! Perfect working conditions!](http://9gag.com/gag/a41wE4v)<!-- MEMES:END -->
 
 --- 
 
