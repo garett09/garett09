@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi Movies to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-netflix/#ftag=CAD590a51e)
- - [WWE WrestleMania Backlash 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-backlash-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [Is &#39;Doctor Strange 2&#39; Suitable For Children? Everything to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-suitable-for-children-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean startup Bucketplace, known for its home decorating app Ohouse, raises a $182M Series D, sources say at a post-money valuation of around $1.4B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220508/p9#a220508p9)
+ - [Kendrick Lamar Uses Deepfakes to Add Will Smith and Kanye West in New Music Video     - CNET](https://www.cnet.com/culture/entertainment/kendrick-lamar-uses-deepfakes-to-add-will-smith-and-kanye-west-in-new-music-video/#ftag=CAD590a51e)
+ - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-to-watch-on-netflix-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
