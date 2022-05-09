@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After halting Android app and subscription purchases in Russia over sanctions, Google Play now also blocks &quot;downloading of paid apps and updates to paid apps&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220508/p8#a220508p8)
- - [The EU could start enforcing rules to regulate Big Tech in spring 2023](https://www.theverge.com/2022/5/8/23062666/eu-start-enforcing-the-dma-digital-markets-act-spring-2023-big-tech-regulation)
- - [Monoprice 28-inch CrystalPro 4K monitor review: low-priced but hurt by cheap build](https://appleinsider.com/articles/22/05/08/monoprice-28-inch-crystalpro-4k-monitor-review-low-priced-but-hurt-by-cheap-build?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [WWE WrestleMania Backlash 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-wrestlemania-backlash-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [Is &#39;Doctor Strange 2&#39; Suitable For Children? Everything to Know     - CNET](https://www.cnet.com/culture/entertainment/is-doctor-strange-2-suitable-for-children-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
