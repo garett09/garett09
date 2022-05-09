@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On your feet](http://9gag.com/gag/a0ZOV0X)
- - 🚯 [What an ending](http://9gag.com/gag/aPZrmRV)
- - 🚯 [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)<!-- MEMES:END -->
+ - 🚖 [Well, now we know](http://9gag.com/gag/axBmv31)
+ - 🚯 [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)
+ - 🚯 [It&#39;s kinda like reverse nostalgia.](http://9gag.com/gag/a81VmeY)<!-- MEMES:END -->
 
 --- 
 
