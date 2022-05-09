@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy gets it...](http://9gag.com/gag/abgRWbE)
- - 🚯 [How Legend eat gum](http://9gag.com/gag/a31N08r)
- - 🚯 [Have you lived this experience?](http://9gag.com/gag/aZrRwj0)<!-- MEMES:END -->
+ - 🚖 [Like fine wine](http://9gag.com/gag/aWgRoqd)
+ - 🚯 [Fact a day keeps your.........brain...blood....think.....sharp I&#39;m not good at these things](http://9gag.com/gag/aVxRZXv)
+ - 🚯 [The wonders of modern engineering.](http://9gag.com/gag/ay9vWrM)<!-- MEMES:END -->
 
 --- 
 
