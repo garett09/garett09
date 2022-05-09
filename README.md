@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everybody’s got a gun in Avatar: The Way of Water’s first trailer](https://www.theverge.com/23055453/avatar-2-trailer-the-way-of-water-release-date)
- - [Ford did what Tesla won’t](https://www.theverge.com/2022/5/3/23053536/ford-tesla-f100-mustang-gt-right-to-repair)
- - [Telehealth startup Cerebral under investigation over prescriptions for controlled substances](https://www.theverge.com/2022/5/9/23063356/cerebral-telehealth-prescriptions-investigation-adhd-adderall-doj-dea)<!-- TECH:END -->
+ - [Nothing Launcher beta now available for more Android phones](https://www.androidauthority.com/nothing-launcher-beta-3162617/)
+ - [Uber CEO vows to be ‘hardcore about costs,’ slow down hiring in memo to employees](https://www.theverge.com/2022/5/9/23063499/uber-ceo-slash-costs-hiring-slowdown-ride-hailing-profit)
+ - [Instagram will begin testing NFTs this week](https://www.theverge.com/2022/5/9/23063514/nfts-coming-to-instagram-meta-digital-artwork)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
