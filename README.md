@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Neon boomer shooter Reaver lets you sail through the air with weapon recoil](https://www.pcgamer.com/neon-boomer-shooter-reaver-lets-you-sail-through-the-air-with-weapon-recoil)
- - [Kids &#39;Tipping&#39; Streamers &amp; Watching After 10pm Is Being Banned In China](https://kotaku.com/china-livestream-gamers-gaming-tip-tips-banned-outlawed-1848898084)
- - [Great moments in PC gaming: Ghosting Sapienza in Hitman](https://www.pcgamer.com/great-moments-in-pc-gaming-ghosting-sapienza-in-hitman)<!-- GAME:END -->
+ - [Warhammer 40,000: Chaos Gate – Daemonhunters giving Twitch drops to everyone after players threw a tantrum](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-giving-twitch-drops-to-everyone-after-players-threw-a-tantrum)
+ - [This modder is bringing the long-dormant dream of Voxel Doom to life](https://www.pcgamer.com/this-modder-is-bringing-the-long-dormant-dream-of-voxel-doom-to-life)
+ - [Zelda Player Kills Guardian With Anime-Ass Swordplay](https://kotaku.com/zelda-breath-wild-anime-slice-sword-video-highlight-nin-1848898267)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
