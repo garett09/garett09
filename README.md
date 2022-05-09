@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Ray soundbar leaks, new Decora switches, and more on HomeKit Insider](https://appleinsider.com/articles/22/05/09/sonos-ray-soundbar-leaks-new-decora-switches-and-more-on-homekit-insider?utm_medium=rss)
- - [What to expect from Google I/O on Wednesday](https://www.theverge.com/2022/5/9/23063318/google-io-2022-rumors-announcements-android-13-pixel-watch-6a-keynote)
- - [How to customize your Apple Watch default message responses](https://appleinsider.com/articles/21/08/29/how-to-customize-your-apple-watch-default-message-responses?utm_medium=rss)<!-- TECH:END -->
+ - [Everybody’s got a gun in Avatar: The Way of Water’s first trailer](https://www.theverge.com/23055453/avatar-2-trailer-the-way-of-water-release-date)
+ - [Ford did what Tesla won’t](https://www.theverge.com/2022/5/3/23053536/ford-tesla-f100-mustang-gt-right-to-repair)
+ - [Telehealth startup Cerebral under investigation over prescriptions for controlled substances](https://www.theverge.com/2022/5/9/23063356/cerebral-telehealth-prescriptions-investigation-adhd-adderall-doj-dea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
