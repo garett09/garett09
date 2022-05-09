@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A temple made completely of white marble in Bhuj, India](http://9gag.com/gag/axBmbVb)
- - 🚯 [After a car accident, Dutch police give trauma teddies to children.](http://9gag.com/gag/a71n0Kb)
- - 🚯 [My ex colleague and friend got killed by a Russian bomb this weekend. He was a good guy from the Netherlands who didn&#39;t hesitate one second to answer Zelenski&#39;s ask for help for experienced soldiers. RIP my friend](http://9gag.com/gag/angGn8o)<!-- MEMES:END -->
+ - 🚖 [All hail the money cat !!!](http://9gag.com/gag/avA9Eqb)
+ - 🚯 [Happy Europe Day from Baguetteland to all Europeans! EU is not perfect but I&#39;m glad we try to build something together](http://9gag.com/gag/amgRGOX)
+ - 🚯 [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)<!-- MEMES:END -->
 
 --- 
 
