@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fat person doing fat thing...](http://9gag.com/gag/aWgR7O3)
- - 🚯 [A blind man walks into a bar. And a table. And a door. And a staircase.](http://9gag.com/gag/ay9vq4V)
- - 🚯 [How to make Adventure time sandwich](http://9gag.com/gag/aBn46rP)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/axBmyML)
+ - 🚯 [How to make Adventure time sandwich](http://9gag.com/gag/aBn46rP)
+ - 🚯 [Slime mold used to organize Japan\u2019s Train network \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/aqGDRyZ)<!-- MEMES:END -->
 
 --- 
 
