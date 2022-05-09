@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PwC/IAB: podcast ad revenue in the US hit $1.45B in 2021, up 72% YoY, and is expected to grow 47% to $2.13B in 2022 and double over two years to $4.2B in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220509/p22#a220509p22)
- - [The Ramifications of Roe’s Fall Won’t Stop at Abortion Bans](https://www.wired.com/story/ramifications-of-post-roe-world)
- - [Next Morotola Razr, Code-Named Maven, Appears to Leak in New Images     - CNET](https://www.cnet.com/tech/mobile/next-morotola-razr-code-named-maven-appears-to-leak-in-new-images/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook is getting rid of some location-tracking features due to ‘low usage’](https://www.theverge.com/2022/5/9/23064109/facebook-getting-rid-location-tracking-features-nearby-friends-low-usage)
+ - [Xbox Reportedly Plans to Launch New Streaming Device     - CNET](https://www.cnet.com/tech/home-entertainment/xbox-reportedly-plans-to-launch-new-streaming-device/#ftag=CAD590a51e)
+ - [Apple is giving engineers in China more responsibility over manufacturing processes](https://www.theverge.com/2022/5/9/23063761/apple-engineers-china-responsibility-manufacturing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
