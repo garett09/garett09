@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
- - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
- - [New cars and Miami’s new track give F1 22 plenty to handle](https://www.polygon.com/23063211/f1-22-video-game-preview-miami-gp-new-cars-porpoising-audio)<!-- GAME:END -->
+ - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)
+ - [Final Fantasy 14 director tackles the hopeless task of trying to get MMO players to uninstall UI mods](https://www.pcgamer.com/final-fantasy-14s-director-says-no-way-jose-to-thirdparty-software)
+ - [The best Minecraft builds](https://www.pcgamer.com/best-minecraft-builds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
