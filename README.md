@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All hail the money cat !!!](http://9gag.com/gag/avA9Eqb)
- - 🚯 [Happy Europe Day from Baguetteland to all Europeans! EU is not perfect but I&#39;m glad we try to build something together](http://9gag.com/gag/amgRGOX)
- - 🚯 [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)<!-- MEMES:END -->
+ - 🚖 [Baby Gorilla making fun with elderly Gorilla in a game Reserve](http://9gag.com/gag/aegRZD5)
+ - 🚯 [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)
+ - 🚯 [This guy gets it...](http://9gag.com/gag/abgRWbE)<!-- MEMES:END -->
 
 --- 
 
