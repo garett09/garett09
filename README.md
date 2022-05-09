@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fact a day keeps your.........brain...blood....think.....sharp I&#39;m not good at these things](http://9gag.com/gag/aVxRZXv)
- - 🚯 [Like fine wine](http://9gag.com/gag/aWgRoqd)
- - 🚯 [Only legends will get this](http://9gag.com/gag/aYrRPMw)<!-- MEMES:END -->
+ - 🚖 [Like fine wine](http://9gag.com/gag/aWgRoqd)
+ - 🚯 [Yes](http://9gag.com/gag/ay9v1dX)
+ - 🚯 [Epoxy flooring](http://9gag.com/gag/aegRxdB)<!-- MEMES:END -->
 
 --- 
 
