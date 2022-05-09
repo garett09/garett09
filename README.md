@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max: The 36 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-36-best-tv-series-to-watch-right-now/#ftag=CAD590a51e)
- - [Applications open for Apple&#39;s WWDC in-person developer Special Event](https://appleinsider.com/articles/22/05/09/applications-open-for-apples-wwdc-in-person-developer-special-event?utm_medium=rss)
- - [How to make NFC automations to use with your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-make-nfc-automations-to-use-with-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers: Elon Musk, who promised to defeat Twitter&#39;s &quot;spam bots or die trying&quot;, has for years benefited from bots, from fake followers to Tesla shills &lpar;Washington Post&rpar;](http://www.techmeme.com/220509/p18#a220509p18)
+ - [Asus’ new Zenbook Pro 16X OLED raises the entire keyboard tray when you lift its lid](https://www.theverge.com/23060820/asus-zenbook-pro-16x-oled-hinge-laptop-raise-keyboard-dial)
+ - [Asus’ pop art-inspired laptops look totally absurd and I’m here for it](https://www.theverge.com/2022/5/9/23058543/asus-vivobook-slate-13-oled-steven-harrington-philip-colbert)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
