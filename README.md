@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can hack Apple CarPlay into a Tesla using — what else — Android](https://www.theverge.com/2022/5/9/23063771/tesla-android-carplay-hack-raspberry-pi-web-browser)
- - [Clearview AI agrees to permanent ban on selling facial recognition to private companies](https://www.theverge.com/2022/5/9/23063952/clearview-ai-aclu-settlement-illinois-bipa-injunction-private-companies)
- - [How to block or unblock someone on TikTok](https://www.androidauthority.com/unblock-someone-tiktok-3162664/)<!-- TECH:END -->
+ - [PwC/IAB: podcast ad revenue in the US hit $1.45B in 2021, up 72% YoY, and is expected to grow 47% to $2.13B in 2022 and double over two years to $4.2B in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220509/p22#a220509p22)
+ - [The Ramifications of Roe’s Fall Won’t Stop at Abortion Bans](https://www.wired.com/story/ramifications-of-post-roe-world)
+ - [Next Morotola Razr, Code-Named Maven, Appears to Leak in New Images     - CNET](https://www.cnet.com/tech/mobile/next-morotola-razr-code-named-maven-appears-to-leak-in-new-images/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
