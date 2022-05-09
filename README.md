@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the new Guardians of the Galaxy ride without going to Disney World](https://www.polygon.com/23063825/guardians-of-the-galaxy-ride-epcot-pov-video)
- - [Overwatch 2 Beta Visuals Aren&#39;t Helping Perception That It&#39;s Barely An Update](https://kotaku.com/overwatch-2-activision-blizzard-technical-beta-lighting-1848900227)
- - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)<!-- GAME:END -->
+ - [Valve Boss Gabe Newell Didn&#39;t Want Zombies In Left 4 Dead](https://kotaku.com/left-4-dead-l4d-zombies-valve-gabe-newell-chet-faliszek-1848900909)
+ - [Hitman 3 delays roguelike mode so it&#39;s &#39;as close to our ambitions as possible&#39;](https://www.pcgamer.com/hitman-3-delays-roguelike-mode-so-its-as-close-to-our-ambitions-as-possible)
+ - [Moon Knight’s director hints there may be more to the show than we think](https://www.polygon.com/23063577/moon-knight-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
