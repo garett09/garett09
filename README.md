@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baby Gorilla making fun with elderly Gorilla in a game Reserve](http://9gag.com/gag/aegRZD5)
- - 🚯 [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)
- - 🚯 [This guy gets it...](http://9gag.com/gag/abgRWbE)<!-- MEMES:END -->
+ - 🚖 [This guy gets it...](http://9gag.com/gag/abgRWbE)
+ - 🚯 [How Legend eat gum](http://9gag.com/gag/a31N08r)
+ - 🚯 [Have you lived this experience?](http://9gag.com/gag/aZrRwj0)<!-- MEMES:END -->
 
 --- 
 
