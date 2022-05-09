@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, now we know](http://9gag.com/gag/axBmv31)
- - 🚯 [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)
+ - 🚖 [Kremlins director-general Dmitri Rogozin flexed on russian propaganda media, that Russia could destroy all NATO countries in 30 minutes.](http://9gag.com/gag/aWgRLE6)
+ - 🚯 [Russia cancels military flyovers of fighter planes and helicopters in this year&#39;s victory day parade due to `bad weather`. I dont know dudes... looks f**king sunny to me.](http://9gag.com/gag/aDDQ8Gd)
  - 🚯 [It&#39;s kinda like reverse nostalgia.](http://9gag.com/gag/a81VmeY)<!-- MEMES:END -->
 
 --- 
