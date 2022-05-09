@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chances are low, but never 0!](http://9gag.com/gag/aE8Z6bp)
- - 🚯 [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)
- - 🚯 [Vote buying on Philippines as of today is the Presidential election.](http://9gag.com/gag/a91D6ED)<!-- MEMES:END -->
+ - 🚖 [`The special operation is going slow, let&#39;s bring out the big guns!`. The big guns:](http://9gag.com/gag/aognVp2)
+ - 🚯 [Vote buying on Philippines as of today is the Presidential election.](http://9gag.com/gag/a91D6ED)
+ - 🚯 [Such views come from the Zhoushan region of China now. What happened is unknown. The air is fried. No explanation was given.](http://9gag.com/gag/abgRe69)<!-- MEMES:END -->
 
 --- 
 
