@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 2’s trailer is finally online so you can witness The Way of Water for yourself](https://www.polygon.com/23045177/avatar-2-trailer-way-of-water-release-date-cast-sequels)
- - [6 must-watch anime arriving for the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
- - [NY Times alters Monday’s Wordle answer due to ‘major recent news event’](https://www.polygon.com/23063439/today-wordle-answer-may-9-324-ny-times)<!-- GAME:END -->
+ - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
+ - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
+ - [New cars and Miami’s new track give F1 22 plenty to handle](https://www.polygon.com/23063211/f1-22-video-game-preview-miami-gp-new-cars-porpoising-audio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
