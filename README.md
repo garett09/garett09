@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shanghai](http://9gag.com/gag/ay9v2RY)
- - 🚯 [How to die effectively](http://9gag.com/gag/aKmKGDj)
- - 🚯 [White is whiter, the red is reder, and the circle is circleer](http://9gag.com/gag/aZrRnBX)<!-- MEMES:END -->
+ - 🚖 [How to die effectively](http://9gag.com/gag/aKmKGDj)
+ - 🚯 [A blind man walks into a bar. And a table. And a door. And a staircase.](http://9gag.com/gag/ay9vq4V)
+ - 🚯 [Slime mold used to organize Japan\u2019s Train network \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/aqGDRyZ)<!-- MEMES:END -->
 
 --- 
 
