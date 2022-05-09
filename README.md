@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Legend eat gum](http://9gag.com/gag/a31N08r)
- - 🚯 [On your feet](http://9gag.com/gag/a0ZOV0X)
- - 🚯 [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)<!-- MEMES:END -->
+ - 🚖 [Intelligent people are more prone to mental illness?](http://9gag.com/gag/axBm62b)
+ - 🚯 [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)
+ - 🚯 [On your feet](http://9gag.com/gag/a0ZOV0X)<!-- MEMES:END -->
 
 --- 
 
