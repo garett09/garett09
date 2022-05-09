@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)
- - [Final Fantasy 14 director tackles the hopeless task of trying to get MMO players to uninstall UI mods](https://www.pcgamer.com/final-fantasy-14s-director-says-no-way-jose-to-thirdparty-software)
- - [The best Minecraft builds](https://www.pcgamer.com/best-minecraft-builds)<!-- GAME:END -->
+ - [Watch the new Guardians of the Galaxy ride without going to Disney World](https://www.polygon.com/23063825/guardians-of-the-galaxy-ride-epcot-pov-video)
+ - [Overwatch 2 Beta Visuals Aren&#39;t Helping Perception That It&#39;s Barely An Update](https://kotaku.com/overwatch-2-activision-blizzard-technical-beta-lighting-1848900227)
+ - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
