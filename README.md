@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russia cancels military flyovers of fighter planes and helicopters in this year&#39;s victory day parade due to `bad weather`. I dont know dudes... looks f**king sunny to me.](http://9gag.com/gag/aDDQ8Gd)
- - 🚯 [Get to the choppaaaa](http://9gag.com/gag/aAGvE8L)
- - 🚯 [On your feet](http://9gag.com/gag/a0ZOV0X)<!-- MEMES:END -->
+ - 🚖 [How Legend eat gum](http://9gag.com/gag/a31N08r)
+ - 🚯 [On your feet](http://9gag.com/gag/a0ZOV0X)
+ - 🚯 [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)<!-- MEMES:END -->
 
 --- 
 
