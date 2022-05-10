@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Deepest, Darkest Elden Ring Secrets Will All Be Revealed By &#39;Make Up A Tarnished Guy&#39;](https://kotaku.com/elden-ring-did-you-know-make-up-a-tarnished-guy-twitter-1848902485)
- - [A new Nintendo Indie World event is coming this Wednesday](https://www.polygon.com/23064160/nintendo-indie-world-may-2022-date-time-nindies)
- - [Western Digital&#39;s newest hard drive is a 26TB monster](https://www.pcgamer.com/western-digitals-newest-hard-drive-is-a-26tb-monster)<!-- GAME:END -->
+ - [Stanley Parable Fans Find Ultra Rare Creeps You Likely Missed](https://kotaku.com/stanley-parable-ultra-deluxe-steam-mystery-sightings-cr-1848904928)
+ - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)
+ - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
