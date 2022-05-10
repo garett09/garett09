@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo squeaks past Switch sales target but forecasts further slide](https://www.theverge.com/2022/5/10/23064853/nintendo-earnings-q4-2021-switch-sales-forecast-2022)
  - [Amazon is testing paying rural mom-and-pop shops a per-package fee to deliver orders within a 10-mile radius to neighbors in Nebraska, Mississippi, and Alabama &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/220510/p7#a220510p7)
- - [Arianee, which provides NFTs tied to the provenance and ownership of luxury goods, raises a &amp;euro;20M Series A led by Tiger Global &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220510/p6#a220510p6)
- - [Financial exchanges such as the CME Group and Nasdaq are embracing cloud computing technologies to transform the way they run global capital markets &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/220510/p5#a220510p5)<!-- TECH:END -->
+ - [Arianee, which provides NFTs tied to the provenance and ownership of luxury goods, raises a &amp;euro;20M Series A led by Tiger Global &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220510/p6#a220510p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
