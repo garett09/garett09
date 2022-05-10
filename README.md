@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Tiger Global has lost about $17B in 2022 during the tech stock sell-off, erasing around two-thirds of its gains made since 2001 in four months &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/220510/p13#a220510p13)
- - [Apple researching large-scale MagSafe technology for Apple Car charging](https://appleinsider.com/articles/20/10/20/apple-researching-large-scale-magsafe-technology-for-apple-car-charging?utm_medium=rss)
- - [Daily Authority: 💲 Bitcoin bites](https://www.androidauthority.com/daily-authority-may-10-2022-3162549/)<!-- TECH:END -->
+ - [Match Group is suing Google over Android’s in-app payment monopoly](https://www.theverge.com/2022/5/9/23064305/match-group-suing-google-over-in-app-payment-policy)
+ - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)
+ - [Congress could require vetting of US tech startups seeking federal funding after DoD found China is exploiting a program that funds small business innovation &lpar;Kate O&#39;Keeffe/Wall Street Journal&rpar;](http://www.techmeme.com/220510/p14#a220510p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
