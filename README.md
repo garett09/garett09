@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Premiere Pro for macOS makes some video exports 10-times faster](https://appleinsider.com/articles/22/05/10/adobe-premiere-pro-for-macos-makes-some-video-exports-10-times-faster?utm_medium=rss)
- - [Report: ICE has used private data brokers to bypass legal restrictions and build a surveillance system capable of &quot;pulling detailed dossiers&quot; for most US adults &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220510/p30#a220510p30)
- - [Ploopy and the promise of an open-source trackball](https://www.theverge.com/2022/5/10/23065171/ploopy-trackball-open-source-vergecast-podcast)<!-- TECH:END -->
+ - [Congo-based Jambo, a Web3 &quot;super app&quot; featuring play-to-earn games and more, raises $30M Series A led by Paradigm, marking Paradigm&#39;s first investment in Africa &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220510/p32#a220510p32)
+ - [Top B&amp;H deals of the week: save up to $1,200 on Apple, digital cameras, TVs &amp; more](https://appleinsider.com/articles/22/05/10/top-bh-deals-of-the-week-save-up-to-1200-on-apple-digital-cameras-tvs-more?utm_medium=rss)
+ - [How YouTube Can Rewrite the Past and Shape an Election](https://www.wired.com/story/youtube-philippines-election)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
