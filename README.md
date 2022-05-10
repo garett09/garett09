@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont look up](http://9gag.com/gag/aDDQMEx)
- - 🚯 [Scientific fact #274](http://9gag.com/gag/a515DDy)
- - 🚯 [GTI go VROOM VROOM](http://9gag.com/gag/aOQppOM)<!-- MEMES:END -->
+ - 🚖 [#Sharing](http://9gag.com/gag/a81Vn4V)
+ - 🚯 [That smile](http://9gag.com/gag/abgRdDr)
+ - 🚯 [Still one of my favourite Trump moments.](http://9gag.com/gag/aNPjqE6)<!-- MEMES:END -->
 
 --- 
 
