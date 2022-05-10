@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the past several months, I\u2019ve been writing code to collect data on stock trading by U.S. politicians and building bots to mimic their trading. Here\u2019s the performance of a portfolio mimicking stock trading by U.S. congress as a whole vs. the market over the past 6 months.](http://9gag.com/gag/adgR2mV)
- - 🚯 [She is the worst cast in witcher i guess.](http://9gag.com/gag/aM4qOAV)
+ - 🚖 [*Puts the dust back in*](http://9gag.com/gag/a21OL6d)
+ - 🚯 [She went through all the chances, calculation, combinations.. and arrived at this mathematically correct shot](http://9gag.com/gag/arn82wB)
  - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
