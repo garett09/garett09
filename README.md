@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Return of the King](http://9gag.com/gag/aDDQXbZ)
- - 🚯 [Better options](http://9gag.com/gag/aE8ZOpe)
+ - 🚖 [That&#39;s sad](http://9gag.com/gag/a81VwvV)
+ - 🚯 [She is the worst cast in witcher i guess.](http://9gag.com/gag/aM4qOAV)
  - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
