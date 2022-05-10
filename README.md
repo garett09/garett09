@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The underwear vigilante](http://9gag.com/gag/aAGvXER)
- - 🚯 [True](http://9gag.com/gag/a11O262)
+ - 🚖 [Now I call this oddly satisfying](http://9gag.com/gag/a21O27p)
+ - 🚯 [This gem of an episode aged PERFECTLY! It&#39;s a royal flush!](http://9gag.com/gag/a71nNpb)
  - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
