@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo squeaks past Switch sales target but forecasts further slide](https://www.theverge.com/2022/5/10/23064853/nintendo-earnings-q4-2021-switch-sales-forecast-2022)
- - [Amazon is testing paying rural mom-and-pop shops a per-package fee to deliver orders within a 10-mile radius to neighbors in Nebraska, Mississippi, and Alabama &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/220510/p7#a220510p7)
- - [Arianee, which provides NFTs tied to the provenance and ownership of luxury goods, raises a &amp;euro;20M Series A led by Tiger Global &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220510/p6#a220510p6)<!-- TECH:END -->
+ - [Nintendo reports Q4 revenue rose 6% YoY to ~$2.9B as profit rose 0.6% YoY to $922M; Switch sales were 4.11M, for 23.1M total; Nintendo will split its stock 10:1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220510/p8#a220510p8)
+ - [Google Pixel 6a: All the rumors in one place before possible May 11 launch](https://www.androidauthority.com/google-pixel-6a-3062838/)
+ - [Intel details staggered release schedule for long-anticipated Arc GPUs](https://www.theverge.com/2022/5/10/23064887/intel-arc-gpus-release-roadmap-china-system-builder-oem)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
