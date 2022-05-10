@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sit still](http://9gag.com/gag/aE8ZZNG)
+ - 🚖 [She went through all the chances, calculation, combinations.. and arrived at this mathematically correct shot](http://9gag.com/gag/arn82wB)
  - 🚯 [Oh boy, Ukraine foreign minister: The goals have changed from defence to total liberation of all occupied territories. &lpar;that means Donbas and Crimea too&rpar; Negotiations possible, but only from position of strength.` Russia f**ked up big time.](http://9gag.com/gag/aqGDD7v)
- - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
+ - 🚯 [Principles of topology](http://9gag.com/gag/aRrRRqj)<!-- MEMES:END -->
 
 --- 
 
