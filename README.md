@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail a malicious campaign that used Windows event logs to store malware, a technique that has not been previously documented publicly in attacks &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220509/p30#a220509p30)
- - [SpaceX President Predicts People on Mars This Decade, Starship in Space Soon     - CNET](https://www.cnet.com/science/space/spacex-president-predicts-people-on-mars-this-decade-starship-in-space-soon/#ftag=CAD590a51e)
- - [F5 disclosed and patched an actively exploited critical bug last week in its BIG-IP products that act as load balancers and firewalls within enterprise networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220509/p29#a220509p29)<!-- TECH:END -->
+ - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)
+ - [How to edit videos on YouTube](https://www.androidauthority.com/edit-youtube-video-3162804/)
+ - [Best Mattress for Side Sleepers for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
