@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group is suing Google over Android’s in-app payment monopoly](https://www.theverge.com/2022/5/9/23064305/match-group-suing-google-over-in-app-payment-policy)
- - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)
- - [Congress could require vetting of US tech startups seeking federal funding after DoD found China is exploiting a program that funds small business innovation &lpar;Kate O&#39;Keeffe/Wall Street Journal&rpar;](http://www.techmeme.com/220510/p14#a220510p14)<!-- TECH:END -->
+ - [A profile of influential quantum computing physicist Jerry Chow, who joined IBM in 2010 and leads IBM Quantum, which said it broke the 100-qubit barrier in 2021 &lpar;Hayden Field/Emerging Tech Brew&rpar;](http://www.techmeme.com/220510/p19#a220510p19)
+ - [Google needs to invest more in support than surprises](https://www.theverge.com/2022/5/10/23063497/google-support-pixel-watch-6a-io-2022)
+ - [Court dismisses iCloud subscription deception suit](https://appleinsider.com/articles/22/05/10/court-dismisses-icloud-subscription-deception-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
