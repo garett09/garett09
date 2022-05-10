@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh boy, Ukraine foreign minister: The goals have changed from defence to total liberation of all occupied territories. &lpar;that means Donbas and Crimea too&rpar; Negotiations possible, but only from position of strength.` Russia f**ked up big time.](http://9gag.com/gag/aqGDD7v)
- - 🚯 [Pick one, fellas](http://9gag.com/gag/a71npLw)
+ - 🚖 [Sit still](http://9gag.com/gag/aE8ZZNG)
+ - 🚯 [Oh boy, Ukraine foreign minister: The goals have changed from defence to total liberation of all occupied territories. &lpar;that means Donbas and Crimea too&rpar; Negotiations possible, but only from position of strength.` Russia f**ked up big time.](http://9gag.com/gag/aqGDD7v)
  - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
