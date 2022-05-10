@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online wholesale marketplace Faire raises a $416M extension, more than doubling the size of its Series G round and raising its post-money valuation to $12.59B &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220510/p36#a220510p36)
- - [Apple releases new firmware for AirPods, AirPods Pro &amp; AirPods Max](https://appleinsider.com/articles/22/05/10/apple-releases-new-firmware-for-airpods-2-and-airpods-pro?utm_medium=rss)
- - [Netflix to launch ad-supported tier when it cracks down on password sharing](https://appleinsider.com/articles/22/05/10/netflix-to-launch-ad-supported-tier-when-it-cracks-down-on-password-sharing?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox misses with Q1 revenue of $631.2M vs. $636.6M est., down 3% YoY, 54.1M average DAUs vs. 55M est., up 28% YoY, and average bookings per DAU of $11.67 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220510/p40#a220510p40)
+ - [Adobe Tool Makes it Easier to Post Videos to Instagram, Facebook, Twitter     - CNET](https://www.cnet.com/news/social-media/adobe-tool-makes-it-easier-to-post-videos-to-instagram-facebook-twitter/#ftag=CAD590a51e)
+ - [EA&#39;s FIFA Series Changing Name To &#39;EA Sports FC&#39; After The World Cup     - CNET](https://www.cnet.com/tech/gaming/eas-fifa-series-changing-name-to-ea-sports-fc-after-the-world-cup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
