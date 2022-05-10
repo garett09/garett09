@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not gonna lie, I&#39;ve never been a fan of Stephen Harvey, but this is useful.](http://9gag.com/gag/aM4qnVA)
- - 🚯 [Epoxy flooring](http://9gag.com/gag/aegRxdB)
- - 🚯 [Y&#39;all is a circus](http://9gag.com/gag/apgVxGE)<!-- MEMES:END -->
+ - 🚖 [Some interesting culture](http://9gag.com/gag/a31N811)
+ - 🚯 [True](http://9gag.com/gag/a11O262)
+ - 🚯 [Norway](http://9gag.com/gag/aXrR209)<!-- MEMES:END -->
 
 --- 
 
