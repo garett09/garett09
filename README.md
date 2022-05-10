@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This should be the way](http://9gag.com/gag/a11OOB6)
- - 🚯 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)
- - 🚯 [Scientific fact #274](http://9gag.com/gag/a515DDy)<!-- MEMES:END -->
+ - 🚖 [Dont look up](http://9gag.com/gag/aDDQMEx)
+ - 🚯 [Scientific fact #274](http://9gag.com/gag/a515DDy)
+ - 🚯 [GTI go VROOM VROOM](http://9gag.com/gag/aOQppOM)<!-- MEMES:END -->
 
 --- 
 
