@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you agree?](http://9gag.com/gag/aE8ZEXe)
- - 🚯 [Principles of topology](http://9gag.com/gag/aRrRRqj)
- - 🚯 [Don&#39;t indulge scalpers and miners](http://9gag.com/gag/abgRRKv)<!-- MEMES:END -->
+ - 🚖 [This should be the way](http://9gag.com/gag/a11OOB6)
+ - 🚯 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)
+ - 🚯 [Scientific fact #274](http://9gag.com/gag/a515DDy)<!-- MEMES:END -->
 
 --- 
 
