@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you \ud83c\uddec\ud83c\udde7 for your support! I know some Brits aren&#39;t fans of Boris but he is a real hero to every Ukrainian!](http://9gag.com/gag/avA9Rr5)
- - 🚯 [Where are my fellow 30s single guy?](http://9gag.com/gag/a41w2m1)
- - 🚯 [True](http://9gag.com/gag/a11O262)<!-- MEMES:END -->
+ - 🚖 [The underwear vigilante](http://9gag.com/gag/aAGvXER)
+ - 🚯 [True](http://9gag.com/gag/a11O262)
+ - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
 
