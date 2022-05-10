@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congo-based Jambo, a Web3 &quot;super app&quot; featuring play-to-earn games and more, raises $30M Series A led by Paradigm, marking Paradigm&#39;s first investment in Africa &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220510/p32#a220510p32)
- - [Top B&amp;H deals of the week: save up to $1,200 on Apple, digital cameras, TVs &amp; more](https://appleinsider.com/articles/22/05/10/top-bh-deals-of-the-week-save-up-to-1200-on-apple-digital-cameras-tvs-more?utm_medium=rss)
- - [How YouTube Can Rewrite the Past and Shape an Election](https://www.wired.com/story/youtube-philippines-election)<!-- TECH:END -->
+ - [Sources: Luna Foundation Guard aims to raise $1B+ to shore up UST stablecoin, now trading for ~$0.92; one deal being negotiated offers LUNA tokens at 50% off &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220510/p35#a220510p35)
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
+ - [AMD Gave Google Cloud Rare Access to Its Tech to Hunt Chip Flaws](https://www.wired.com/story/google-cloud-amd-confidential-computing-security-audit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
