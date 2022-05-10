@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New gameplay details on Godzilla and Kong invading Call of Duty: Warzone, starting tomorrow](https://blog.playstation.com/2022/05/10/new-gameplay-details-on-godzilla-and-kong-invading-call-of-duty-warzone-starting-tomorrow/)
- - [Ability Summit 2022: Sarah Bond and Stacey Jenkins on Creating Games for Everyone](https://news.xbox.com/en-us/2022/05/10/ability-summit-2022-spotlight/)
- - [VR Devs Really Want You To Feel Spiders On Your Face](https://kotaku.com/virtual-reality-mouth-haptics-spiders-arachnophobia-imm-1848906053)<!-- GAME:END -->
+ - [Switch Is Still Outselling Everything Else Despite Ongoing Chip Shortage](https://kotaku.com/nintendo-switch-lite-oled-chip-shortage-fy-2022-sales-p-1848906080)
+ - [Marvel’s new Spider-Verse series will expand its web of heroes and then end it in a ‘blaze of glory’](https://www.polygon.com/23064214/marvel-comics-spider-man-verse-2022-edge-end-dan-slott)
+ - [Adam Sandler lives for hoops &lpar;and Philly&rpar; in the trailer for Netflix’s Hustle](https://www.polygon.com/23065457/adam-sandler-hustle-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
