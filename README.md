@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Internet Hero Saves Abandoned Nintendogs Thrown Away In Old Cartridge](https://kotaku.com/nintendogs-tiktok-rescue-puppies-cart-bennyp-nintendo-3-1848905444)
- - [EA Sports and FIFA are breaking up after 30 years](https://www.polygon.com/23065395/fifa-23-ea-sports-fc-name-change-2023)
- - [Eiyuden Chronicle: Rising Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/05/10/eiyuden-chronicle-rising-available-today-with-xbox-game-pass-and-pc-game-pass/)<!-- GAME:END -->
+ - [New gameplay details on Godzilla and Kong invading Call of Duty: Warzone, starting tomorrow](https://blog.playstation.com/2022/05/10/new-gameplay-details-on-godzilla-and-kong-invading-call-of-duty-warzone-starting-tomorrow/)
+ - [Ability Summit 2022: Sarah Bond and Stacey Jenkins on Creating Games for Everyone](https://news.xbox.com/en-us/2022/05/10/ability-summit-2022-spotlight/)
+ - [VR Devs Really Want You To Feel Spiders On Your Face](https://kotaku.com/virtual-reality-mouth-haptics-spiders-arachnophobia-imm-1848906053)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
