@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was 6 in 1990 so I def was a 90s kid](http://9gag.com/gag/axBmPQ2)
- - 🚯 [Are we the baddies?](http://9gag.com/gag/a0ZOEwz)
+ - 🚖 [Are we the baddies?](http://9gag.com/gag/a0ZOEwz)
+ - 🚯 [Ghost of McDonald&#39;s](http://9gag.com/gag/amgRpv6)
  - 🚯 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 --- 
