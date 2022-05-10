@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch Is Still Outselling Everything Else Despite Ongoing Chip Shortage](https://kotaku.com/nintendo-switch-lite-oled-chip-shortage-fy-2022-sales-p-1848906080)
- - [Marvel’s new Spider-Verse series will expand its web of heroes and then end it in a ‘blaze of glory’](https://www.polygon.com/23064214/marvel-comics-spider-man-verse-2022-edge-end-dan-slott)
- - [Adam Sandler lives for hoops &lpar;and Philly&rpar; in the trailer for Netflix’s Hustle](https://www.polygon.com/23065457/adam-sandler-hustle-trailer)<!-- GAME:END -->
+ - [How multiplayer and co-op work in Elden Ring](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
+ - [Pokémon Legends Arceus Outsells Classic Games, Proves Risks Pay Off](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-brilliant-diamon-1848906686)
+ - [Godzilla and King Kong come to Call of Duty: Warzone tomorrow](https://www.polygon.com/23065570/call-of-duty-warzone-godzilla-kong-operation-monarch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
