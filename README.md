@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox misses with Q1 revenue of $631.2M vs. $636.6M est., down 3% YoY, 54.1M average DAUs vs. 55M est., up 28% YoY, and average bookings per DAU of $11.67 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220510/p40#a220510p40)
- - [Adobe Tool Makes it Easier to Post Videos to Instagram, Facebook, Twitter     - CNET](https://www.cnet.com/news/social-media/adobe-tool-makes-it-easier-to-post-videos-to-instagram-facebook-twitter/#ftag=CAD590a51e)
- - [EA&#39;s FIFA Series Changing Name To &#39;EA Sports FC&#39; After The World Cup     - CNET](https://www.cnet.com/tech/gaming/eas-fifa-series-changing-name-to-ea-sports-fc-after-the-world-cup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google TV’s ambient mode screen saver with sports scores and podcast links is rolling out](https://www.theverge.com/2022/5/10/23065933/google-tv-screen-saver-assistant-podcast-news-sports-youtube-personalized)
+ - [Save $70 on the Razer Nari Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)
+ - [EV startup Canoo is running out of cash and doubtful about its future](https://www.theverge.com/2022/5/10/23065974/canoo-ev-startup-earnings-q1-2022-cash-net-loss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
