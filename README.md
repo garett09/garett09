@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Reportedly Plans to Launch New Streaming Device     - CNET](https://www.cnet.com/tech/home-entertainment/xbox-reportedly-plans-to-launch-new-streaming-device/#ftag=CAD590a51e)
- - [The Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-on-netflix-to-watch-tonight/#ftag=CAD590a51e)
- - [Best Vacuum Cleaners for 2022: Roomba, Dyson, Tineco, Roborock and More     - CNET](https://www.cnet.com/news/best-vacuum-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail a malicious campaign that used Windows event logs to store malware, a technique that has not been previously documented publicly in attacks &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220509/p30#a220509p30)
+ - [SpaceX President Predicts People on Mars This Decade, Starship in Space Soon     - CNET](https://www.cnet.com/science/space/spacex-president-predicts-people-on-mars-this-decade-starship-in-space-soon/#ftag=CAD590a51e)
+ - [F5 disclosed and patched an actively exploited critical bug last week in its BIG-IP products that act as load balancers and firewalls within enterprise networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220509/p29#a220509p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
