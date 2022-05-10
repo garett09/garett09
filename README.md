@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stanley Parable Fans Find Ultra Rare Creeps You Likely Missed](https://kotaku.com/stanley-parable-ultra-deluxe-steam-mystery-sightings-cr-1848904928)
- - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)
- - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)<!-- GAME:END -->
+ - [Internet Hero Saves Abandoned Nintendogs Thrown Away In Old Cartridge](https://kotaku.com/nintendogs-tiktok-rescue-puppies-cart-bennyp-nintendo-3-1848905444)
+ - [EA Sports and FIFA are breaking up after 30 years](https://www.polygon.com/23065395/fifa-23-ea-sports-fc-name-change-2023)
+ - [Eiyuden Chronicle: Rising Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/05/10/eiyuden-chronicle-rising-available-today-with-xbox-game-pass-and-pc-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
