@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She went through all the chances, calculation, combinations.. and arrived at this mathematically correct shot](http://9gag.com/gag/arn82wB)
- - 🚯 [Oh boy, Ukraine foreign minister: The goals have changed from defence to total liberation of all occupied territories. &lpar;that means Donbas and Crimea too&rpar; Negotiations possible, but only from position of strength.` Russia f**ked up big time.](http://9gag.com/gag/aqGDD7v)
+ - 🚖 [Sit still](http://9gag.com/gag/aE8ZZNG)
+ - 🚯 [My colleague today. It is always the same with them `wEsT bAd` but when told to leave, they don&#39;t want to.](http://9gag.com/gag/aQXyVOW)
  - 🚯 [Principles of topology](http://9gag.com/gag/aRrRRqj)<!-- MEMES:END -->
 
 --- 
