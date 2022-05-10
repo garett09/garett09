@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo reports Q4 revenue rose 6% YoY to ~$2.9B as profit rose 0.6% YoY to $922M; Switch sales were 4.11M, for 23.1M total; Nintendo will split its stock 10:1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220510/p8#a220510p8)
- - [Google Pixel 6a: All the rumors in one place before possible May 11 launch](https://www.androidauthority.com/google-pixel-6a-3062838/)
- - [Intel details staggered release schedule for long-anticipated Arc GPUs](https://www.theverge.com/2022/5/10/23064887/intel-arc-gpus-release-roadmap-china-system-builder-oem)<!-- TECH:END -->
+ - [Paddle raises $200m funding, delays its risky in-app purchase alternative](https://appleinsider.com/articles/22/05/10/paddle-raises-200m-funding-delays-its-risky-in-app-purchase-alternative?utm_medium=rss)
+ - [How to find your MAC address on Windows 10](https://www.androidauthority.com/find-mac-address-windows-10-3162403/)
+ - [How to split-screen on Windows 10](https://www.androidauthority.com/split-screen-windows-10-3162452/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
