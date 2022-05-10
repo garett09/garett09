@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Podcasting will be a $4 billion industry by 2024](https://www.theverge.com/2022/5/10/23065056/podcasting-industry-iab-report-audacy-earnings-patreon-pulitzer)
- - [NASA’s InSight lander detects largest ‘marsquake’ yet on Red Planet](https://www.theverge.com/2022/5/10/23065073/nasa-insight-lander-marsquake-red-planet)
- - [Upstart, which uses AI to gauge creditworthiness, cuts its 2022 revenue forecast down from $1.4B to $1.25B, citing rising interest rates; stock plummets 60%+ &lpar;Hannah Miao/CNBC&rpar;](http://www.techmeme.com/220510/p24#a220510p24)<!-- TECH:END -->
+ - [LG’s massive Gram 17 is on sale at Amazon for just shy of its best price ever](https://www.theverge.com/good-deals/2022/5/10/23063754/lg-gram-17-laptop-roku-gaming-keyboard-mouse-deal-sale)
+ - [&#39;iPhone 14 Pro&#39; displays to be slightly larger says analyst](https://appleinsider.com/articles/22/05/10/iphone-14-pro-displays-to-be-slightly-larger-says-analyst?utm_medium=rss)
+ - [End of an era: Apple&#39;s last iPod has been discontinued](https://appleinsider.com/articles/22/05/10/end-of-an-era-apples-last-ipod-has-been-discontinued?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
