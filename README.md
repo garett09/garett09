@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like fine wine](http://9gag.com/gag/aWgRoqd)
- - 🚯 [Yes](http://9gag.com/gag/ay9v1dX)
- - 🚯 [Epoxy flooring](http://9gag.com/gag/aegRxdB)<!-- MEMES:END -->
+ - 🚖 [Not gonna lie, I&#39;ve never been a fan of Stephen Harvey, but this is useful.](http://9gag.com/gag/aM4qnVA)
+ - 🚯 [Epoxy flooring](http://9gag.com/gag/aegRxdB)
+ - 🚯 [Y&#39;all is a circus](http://9gag.com/gag/apgVxGE)<!-- MEMES:END -->
 
 --- 
 
