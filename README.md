@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sit still](http://9gag.com/gag/aE8ZZNG)
- - 🚯 [My colleague today. It is always the same with them `wEsT bAd` but when told to leave, they don&#39;t want to.](http://9gag.com/gag/aQXyVOW)
- - 🚯 [Principles of topology](http://9gag.com/gag/aRrRRqj)<!-- MEMES:END -->
+ - 🚖 [Do you agree?](http://9gag.com/gag/aE8ZEXe)
+ - 🚯 [Principles of topology](http://9gag.com/gag/aRrRRqj)
+ - 🚯 [Don&#39;t indulge scalpers and miners](http://9gag.com/gag/abgRRKv)<!-- MEMES:END -->
 
 --- 
 
