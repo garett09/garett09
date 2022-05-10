@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Costa Rica declared national emergency after massive hack](https://www.pcgamer.com/costa-rica-declared-national-emergency-after-massive-hack)
  - [E-waste is an untapped source of rare Earth materials](https://www.pcgamer.com/e-waste-is-an-untapped-source-of-rare-earth-materials)
- - [Westworld season 4 has a new trailer and a June release date](https://www.polygon.com/23064442/westworld-season-4-trailer-release-date-cast-hbo)
- - [EA Is Once Again Making A Lord Of The Rings Video Game](https://kotaku.com/ea-lord-of-the-rings-lotr-middle-earth-mobile-galaxy-he-1848903418)<!-- GAME:END -->
+ - [Westworld season 4 has a new trailer and a June release date](https://www.polygon.com/23064442/westworld-season-4-trailer-release-date-cast-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
