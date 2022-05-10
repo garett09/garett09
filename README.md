@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s ad-supported tier and password sharing crackdown could launch by the end of 2022](https://www.theverge.com/2022/5/10/23065126/netflix-login-sharing-rollout-ads)
- - [Daily deals May 10: $600 off MSI Creator 15 Laptop, $1,149 M1 iMac 24-inch, $170 off Dyson Cinetic Vacuum, more](https://appleinsider.com/articles/22/05/10/daily-deals-may-10-600-off-msi-creator-15-laptop-1149-m1-imac-24-inch-170-off-dyson-cinetic-vacuum-more?utm_medium=rss)
- - [Arcadia, which offers an API that combines energy data from 125 US utilities, raises a $200M Series E led by JP Morgan, bringing its total funding to $370M+ &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220510/p22#a220510p22)<!-- TECH:END -->
+ - [Podcasting will be a $4 billion industry by 2024](https://www.theverge.com/2022/5/10/23065056/podcasting-industry-iab-report-audacy-earnings-patreon-pulitzer)
+ - [NASA’s InSight lander detects largest ‘marsquake’ yet on Red Planet](https://www.theverge.com/2022/5/10/23065073/nasa-insight-lander-marsquake-red-planet)
+ - [Upstart, which uses AI to gauge creditworthiness, cuts its 2022 revenue forecast down from $1.4B to $1.25B, citing rising interest rates; stock plummets 60%+ &lpar;Hannah Miao/CNBC&rpar;](http://www.techmeme.com/220510/p24#a220510p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
