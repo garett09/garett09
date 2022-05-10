@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of influential quantum computing physicist Jerry Chow, who joined IBM in 2010 and leads IBM Quantum, which said it broke the 100-qubit barrier in 2021 &lpar;Hayden Field/Emerging Tech Brew&rpar;](http://www.techmeme.com/220510/p19#a220510p19)
- - [Google needs to invest more in support than surprises](https://www.theverge.com/2022/5/10/23063497/google-support-pixel-watch-6a-io-2022)
- - [Court dismisses iCloud subscription deception suit](https://appleinsider.com/articles/22/05/10/court-dismisses-icloud-subscription-deception-suit?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix’s ad-supported tier and password sharing crackdown could launch by the end of 2022](https://www.theverge.com/2022/5/10/23065126/netflix-login-sharing-rollout-ads)
+ - [Daily deals May 10: $600 off MSI Creator 15 Laptop, $1,149 M1 iMac 24-inch, $170 off Dyson Cinetic Vacuum, more](https://appleinsider.com/articles/22/05/10/daily-deals-may-10-600-off-msi-creator-15-laptop-1149-m1-imac-24-inch-170-off-dyson-cinetic-vacuum-more?utm_medium=rss)
+ - [Arcadia, which offers an API that combines energy data from 125 US utilities, raises a $200M Series E led by JP Morgan, bringing its total funding to $370M+ &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220510/p22#a220510p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
