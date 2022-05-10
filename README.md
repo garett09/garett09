@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)
- - [How to edit videos on YouTube](https://www.androidauthority.com/edit-youtube-video-3162804/)
- - [Best Mattress for Side Sleepers for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect at Google I/O on Wednesday: Pixel Watch unveiling, a mid-range Pixel 6a, more details about Android 13, possibly Pixel Buds Pro, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220510/p1#a220510p1)
+ - [Your Galaxy S22 may have lost more than half its value since you bought it](https://www.androidauthority.com/samsung-galaxy-s22-resale-value-3162854/)
+ - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
