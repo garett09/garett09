@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paddle raises $200m funding, delays its risky in-app purchase alternative](https://appleinsider.com/articles/22/05/10/paddle-raises-200m-funding-delays-its-risky-in-app-purchase-alternative?utm_medium=rss)
- - [How to find your MAC address on Windows 10](https://www.androidauthority.com/find-mac-address-windows-10-3162403/)
- - [How to split-screen on Windows 10](https://www.androidauthority.com/split-screen-windows-10-3162452/)<!-- TECH:END -->
+ - [Analysis: Tiger Global has lost about $17B in 2022 during the tech stock sell-off, erasing around two-thirds of its gains made since 2001 in four months &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/220510/p13#a220510p13)
+ - [Apple researching large-scale MagSafe technology for Apple Car charging](https://appleinsider.com/articles/20/10/20/apple-researching-large-scale-magsafe-technology-for-apple-car-charging?utm_medium=rss)
+ - [Daily Authority: 💲 Bitcoin bites](https://www.androidauthority.com/daily-authority-may-10-2022-3162549/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
