@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect 4 Merch Has Fans Talking About Commander Shepard’s Return](https://kotaku.com/mass-effect-4-andromeda-sequel-commander-shepard-biowar-1848908042)
- - [Fortnite Cheat Seller Ordered To Pay Epic Games Undisclosed Damages](https://kotaku.com/fortnite-epic-blazefn-cheats-childs-play-lawsuit-austra-1848907958)
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
+ - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2022/05/10/extended-play-promotion-comes-to-playstation-store-2/)
+ - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2022/05/10/extended-play-promotion-comes-to-playstation-store-2/)
+ - [Battlefield 2042 is using the &#39;Vince Zampella-slash-Respawn model&#39; now, EA CEO says](https://www.pcgamer.com/battlefield-2042-is-using-the-vince-zampella-slash-respawn-model-now-ea-ceo-says)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
