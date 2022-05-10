@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #325: Tuesday, May 10](https://www.pcgamer.com/wordle-may-10-325-gecko-meaning)
- - [25 years later, this museum figured out how to stop screen cheating in GoldenEye](https://www.pcgamer.com/25-years-later-this-museum-figured-out-how-to-stop-screen-cheating-in-goldeneye)
- - [Costa Rica declared national emergency after massive hack](https://www.pcgamer.com/costa-rica-declared-national-emergency-after-massive-hack)<!-- GAME:END -->
+ - [Sales of Switch and PS5 held back by chip shortages](https://www.polygon.com/23064914/sony-nintendo-quarterly-earnings-financial-results-hardware-shortage)
+ - [19 TV shows we have our eyes on this summer](https://www.polygon.com/what-to-watch/23035611/2022-new-summer-tv-shows-series-release-schedule)
+ - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
