@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [#Sharing](http://9gag.com/gag/a81Vn4V)
- - 🚯 [That smile](http://9gag.com/gag/abgRdDr)
- - 🚯 [Still one of my favourite Trump moments.](http://9gag.com/gag/aNPjqE6)<!-- MEMES:END -->
+ - 🚖 [Tell em kids](http://9gag.com/gag/aegRdzj)
+ - 🚯 [Do you agree?](http://9gag.com/gag/aE8ZEXe)
+ - 🚯 [My colleague today. It is always the same with them `wEsT bAd` but when told to leave, they don&#39;t want to.](http://9gag.com/gag/aQXyVOW)<!-- MEMES:END -->
 
 --- 
 
