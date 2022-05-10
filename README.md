@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at Google I/O on Wednesday: Pixel Watch unveiling, a mid-range Pixel 6a, more details about Android 13, possibly Pixel Buds Pro, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220510/p1#a220510p1)
- - [Your Galaxy S22 may have lost more than half its value since you bought it](https://www.androidauthority.com/samsung-galaxy-s22-resale-value-3162854/)
- - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance has suspended withdrawals of LUNA and UST tokens due to high volume of pending withdrawals and &quot;network slowness and congestion&quot; &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220510/p4#a220510p4)
+ - [We asked, you told us: Most of your Fitbit devices don’t overheat, but some do](https://www.androidauthority.com/fitbit-overheating-poll-results-3162872/)
+ - [Tencent-owned Riot Games sues ByteDance-owned Moonton, alleging the Chinese studio is ripping off Wild Rift, the mobile version of League of Legends &lpar;Owen S. Good/Polygon&rpar;](http://www.techmeme.com/220510/p3#a220510p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
