@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some interesting culture](http://9gag.com/gag/a31N811)
- - 🚯 [True](http://9gag.com/gag/a11O262)
- - 🚯 [Norway](http://9gag.com/gag/aXrR209)<!-- MEMES:END -->
+ - 🚖 [Thank you \ud83c\uddec\ud83c\udde7 for your support! I know some Brits aren&#39;t fans of Boris but he is a real hero to every Ukrainian!](http://9gag.com/gag/avA9Rr5)
+ - 🚯 [Where are my fellow 30s single guy?](http://9gag.com/gag/a41w2m1)
+ - 🚯 [True](http://9gag.com/gag/a11O262)<!-- MEMES:END -->
 
 --- 
 
