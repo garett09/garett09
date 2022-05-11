@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid 64 fan project is coming to PC](https://www.pcgamer.com/metroid-64-fan-project-is-coming-to-pc)
- - [14 exciting video games we’re anticipating this summer](https://www.polygon.com/what-to-play/23065123/summer-2022-video-games-release-dates-platforms)
- - [Nintendo’s next console is a ‘major concern’ for the company](https://www.polygon.com/23066923/nintendo-switch-next-console-furukawa)<!-- GAME:END -->
+ - [Apex Legends Mobile launches next week](https://www.polygon.com/23067078/apex-legends-mobile-release-date-trailer-new-legend-maps)
+ - [Waiting For Hollow Knight: Silksong? Here&#39;s The Perfect Game To Tide You Over](https://kotaku.com/haiku-the-robot-hollow-knight-silksong-review-metroidva-1848910676)
+ - [Metroid 64 fan project is coming to PC](https://www.pcgamer.com/metroid-64-fan-project-is-coming-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
