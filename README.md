@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Next level mower](http://9gag.com/gag/aNPj5pb)
- - 🚯 [P A I N](http://9gag.com/gag/aQXyb8q)
- - 🚯 [Prank](http://9gag.com/gag/aggKwmv)<!-- MEMES:END -->
+ - 🚖 [Fishe](http://9gag.com/gag/aPZr2VP)
+ - 🚯 [They really know the market!](http://9gag.com/gag/aNPj5Y4)
+ - 🚯 [Fate worse than death.](http://9gag.com/gag/avA9qBO)<!-- MEMES:END -->
 
 --- 
 
