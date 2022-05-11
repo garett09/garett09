@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your wireless bill just got gamified, so you can earn free service](https://www.androidauthority.com/boostone-free-wireless-3163296/)
- - [Ford’s F-150 Lightning Is a Refined Beast](https://www.wired.com/story/ford-f-150-lightning-first-drive)
- - [Ford F-150 Lightning first drive: quiet storm](https://www.theverge.com/23065908/ford-f150-lightning-electric-truck-first-drive-specs-road-bluecruise)<!-- TECH:END -->
+ - [Kuo: Apple will switch to USB-C for the iPhone 15 in the second half of 2023, improving transfer and charging speeds &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220511/p9#a220511p9)
+ - [Wanda Maximoff Deserves Better From the MCU](https://www.wired.com/story/wanda-maximoff-doctor-strange-mcu)
+ - [Watch Google I/O 2022 Right Here](https://www.wired.com/story/google-io-2022-how-to-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
