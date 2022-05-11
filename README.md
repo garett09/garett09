@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus added almost 8 million new subscribers as Netflix struggles](https://www.theverge.com/2022/5/11/23067551/disney-plus-q2-2022-earnings-205-million-streaming-subscribers)
- - [Google lowers the minimum price for apps to $0.05 in 20+ emerging markets, and will allow developers in those regions to create prepaid app subscription plans &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220511/p47#a220511p47)
- - [You can install Android 13 on these non-Pixel phones](https://www.androidauthority.com/android-13-non-pixel-3164038/)<!-- TECH:END -->
+ - [Disney&#39;s subscriptions for its streaming services rose to 205.6M globally: Disney+ added 7.9M subs to 137.7M, Hulu added 300K to 45.6M, ESPN+ added 1M to 22.3M &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220511/p49#a220511p49)
+ - [Google’s ‘premium’ Pixel Tablet sure doesn’t look very premium](https://www.theverge.com/2022/5/11/23067679/google-pixel-tablet-tease-reaction-premium-ugly)
+ - [Court lets Texas restrictions on internet moderation take effect](https://www.theverge.com/2022/5/11/23067002/texas-netchoice-paxton-hb20-social-media-law-fifth-circuit-appeals-court-grant-stay-ruling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
