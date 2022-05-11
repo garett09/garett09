@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pitches for user trust with expanded privacy controls](https://www.theverge.com/2022/5/11/23066161/google-privacy-controls-protected-computing-io)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [Google unveils AI Test Kitchen, a chatbot Android app that lets users talk to Google&#39;s new AI language model LaMDA 2, rolling out in the US in the coming months &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220511/p33#a220511p33)<!-- TECH:END -->
+ - [Google I/O sees debut of Pixel 6a, Pixel Watch, Pixel Buds Pro](https://appleinsider.com/articles/22/05/11/google-io-sees-debut-of-pixel-6a-pixel-watch-pixel-buds-pro?utm_medium=rss)
+ - [Volkswagen Reviving International Scout as US-Built EV Truck and SUV     - CNET](https://www.cnet.com/roadshow/news/volkswagen-international-scout-ev-revival-off-road-pickup-suv/#ftag=CAD590a51e)
+ - [Pixel by Pixel: How Google is trying to focus and ship the future](https://www.theverge.com/23065820/google-io-ambient-computing-pixel-android-phones-watches-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
