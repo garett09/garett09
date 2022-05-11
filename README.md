@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prank](http://9gag.com/gag/aggKwmv)
+ - 🚖 [Once upon a time](http://9gag.com/gag/aOQpWz3)
  - 🚯 [Achtung!](http://9gag.com/gag/aAGv5Lg)
- - 🚯 [After 12 years I\u2019ve started rewatching Srubs. It\u2019s still so good!](http://9gag.com/gag/aBn4eL1)<!-- MEMES:END -->
+ - 🚯 [Next level mower](http://9gag.com/gag/aNPj5pb)<!-- MEMES:END -->
 
 --- 
 
