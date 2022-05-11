@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch is at a new low price of $259.99 today](https://www.theverge.com/good-deals/2022/5/11/23066765/nintendo-switch-neon-red-blue-console-walmart-deal-sale)
- - [Airbnb releases several updates, including searching by category, the ability to book two listings for stays over one week, and AirCover travel insurance &lpar;Jordan Crook/TechCrunch&rpar;](http://www.techmeme.com/220511/p16#a220511p16)
- - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)<!-- TECH:END -->
+ - [Body Doubling: How the Gentle Productivity Movement Is Taking Over TikTok     - CNET](https://www.cnet.com/culture/internet/body-doubling-how-the-gentle-productivity-movement-is-taking-over-tiktok/#ftag=CAD590a51e)
+ - [The Dark Side of &#39;What I Eat in a Day&#39; Videos     - CNET](https://www.cnet.com/health/nutrition/the-dark-side-of-what-i-eat-in-a-day-videos/#ftag=CAD590a51e)
+ - [Best Vitamins for Women 50-Plus for 2022     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
