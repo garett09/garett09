@@ -199,7 +199,7 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Existentialism](http://9gag.com/gag/aze4y9x)
- - 🚯 [Chinese reporter caught a T-72 winning the turret toss in RF controlled Donetsk.](http://9gag.com/gag/aOQpOWE)
+ - 🚯 [Doesn&#39;t look good](http://9gag.com/gag/aOQpED3)
  - 🚯 [P A I N](http://9gag.com/gag/aQXyb8q)<!-- MEMES:END -->
 
 --- 
