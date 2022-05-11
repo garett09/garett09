@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Showcase Standout Gunbrella Has The Best New Video Game Name Of 2022](https://kotaku.com/gunbrella-punk-noir-nintendo-indie-world-showcase-doink-1848913570)
- - [Tesla has to patch 130K cars because their Ryzen APUs are overheating](https://www.pcgamer.com/tesla-has-to-patch-130k-cars-because-their-ryzen-apus-are-overheating)
- - [Call of Duty&#39;s Godzilla vs. Kong event was more fun to watch than play](https://www.pcgamer.com/call-of-dutys-godzilla-vs-kong-event-was-more-fun-to-watch-than-play)<!-- GAME:END -->
+ - [Twitch Streamer Nearly Burns Down Kitchen](https://kotaku.com/twitch-kjanecaron-stream-livestream-fire-burn-down-live-1848913960)
+ - [RIP iPod, Home Of The Mobile Gaming Renaissance &lpar;2001–2022&rpar;](https://kotaku.com/apple-ipod-touch-discontinued-fruit-ninja-doodle-jump-b-1848913434)
+ - [Elden Ring sold me on the FromSoftware fan experience](https://www.polygon.com/23064311/elden-ring-success-fromsoftware-fans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
