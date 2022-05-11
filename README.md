@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google teases an early look at lightweight AR glasses that can display text of a conversation translated in real time &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220511/p43#a220511p43)
- - [Sonos confirms its own voice control service will launch on June 1st](https://www.theverge.com/2022/5/11/23065623/sonos-voice-control-announced-features-giancarlo-esposito)
- - [Sonos announces entry-level Ray soundbar for $279, coming on June 7th](https://www.theverge.com/2022/5/11/23065587/sonos-ray-soundbar-announced-features-price-release-date)<!-- TECH:END -->
+ - [Which Google Pixel Buds model should you buy?](https://www.theverge.com/23065279/google-pixel-buds-comparison-a-series-vs-pro-specs-price)
+ - [Sonos launches new budget Ray soundbar, Roam in new colors](https://appleinsider.com/articles/22/05/11/sonos-launches-new-budget-ray-soundbar-roam-in-new-colors?utm_medium=rss)
+ - [Harley-Davidson’s LiveWire announces S2 Del Mar, its most affordable electric motorcycle yet](https://www.theverge.com/2022/5/11/23067118/harley-davidson-livewire-s2-del-mar-electric-motorcycle-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
