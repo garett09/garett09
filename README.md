@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sells out of all 256GB iPod touch colors](https://appleinsider.com/articles/22/05/11/apple-sells-out-of-all-256gb-ipod-touch-colors?utm_medium=rss)
- - [An Elusive Gravity Signal Could Mean Faster Earthquake Warnings](https://www.wired.com/story/an-elusive-gravity-signal-could-mean-faster-earthquake-warnings)
- - [CIQ, which develops the open-source Rocky Linux distro for enterprise, raises a $26M Series A led by Two Bear Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220511/p20#a220511p20)<!-- TECH:END -->
+ - [DigitalBridge partners with IFM to acquire data center company Switch for $11B, including debt; Switch plans to build an extra 11M sq. ft. of capacity by 2030 &lpar;Chris Wack/Wall Street Journal&rpar;](http://www.techmeme.com/220511/p22#a220511p22)
+ - [Apple touts benefits of privacy-preserving ad tech in pitch to advertisers](https://appleinsider.com/articles/22/05/11/apple-touts-benefits-of-privacy-preserving-ad-tech-in-pitch-to-advertisers?utm_medium=rss)
+ - [Aura Strap 2 review: context — you love to see it](https://www.theverge.com/23066781/aura-strap-2-review-apple-watch-bia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
