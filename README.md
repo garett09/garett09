@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yellow brick road found at the bottom of Pacific Ocean.](http://9gag.com/gag/aRrRyOM)
- - 🚯 [Tell em kids](http://9gag.com/gag/aegRdzj)
- - 🚯 [`Honey, stop the car and take a picture!` `why?` `you wouldnt get it.`](http://9gag.com/gag/aVxRd4w)<!-- MEMES:END -->
+ - 🚖 [We all had these. They were indestructible!](http://9gag.com/gag/avA948X)
+ - 🚯 [By the power of white girl](http://9gag.com/gag/aKmKn6b)
+ - 🚯 [That smile](http://9gag.com/gag/abgRdDr)<!-- MEMES:END -->
 
 --- 
 
