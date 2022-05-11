@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Body Doubling: How the Gentle Productivity Movement Is Taking Over TikTok     - CNET](https://www.cnet.com/culture/internet/body-doubling-how-the-gentle-productivity-movement-is-taking-over-tiktok/#ftag=CAD590a51e)
- - [The Dark Side of &#39;What I Eat in a Day&#39; Videos     - CNET](https://www.cnet.com/health/nutrition/the-dark-side-of-what-i-eat-in-a-day-videos/#ftag=CAD590a51e)
- - [Best Vitamins for Women 50-Plus for 2022     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple sells out of all 256GB iPod touch colors](https://appleinsider.com/articles/22/05/11/apple-sells-out-of-all-256gb-ipod-touch-colors?utm_medium=rss)
+ - [An Elusive Gravity Signal Could Mean Faster Earthquake Warnings](https://www.wired.com/story/an-elusive-gravity-signal-could-mean-faster-earthquake-warnings)
+ - [CIQ, which develops the open-source Rocky Linux distro for enterprise, raises a $26M Series A led by Two Bear Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220511/p20#a220511p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
