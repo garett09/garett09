@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weekly No-Comics-Day Contest!](https://www.reddit.com/r/funny/comments/un7d1b/weekly_nocomicsday_contest/)
- - 🚯 [Evil cannot create anything new, they can only corrupt and ruin what good forces have invented or made.](http://9gag.com/gag/a41wm86)
- - 🚯 [In Georgia, there&#39;s a stray dog who has made it his job to protect this kindergarten class so they can cross the street safely. He shows up every single day, even barking at cars that don&#39;t stop](http://9gag.com/gag/a91DeE0)<!-- MEMES:END -->
+ - 🚖 [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)
+ - 🚯 [Haa](http://9gag.com/gag/axBmenL)
+ - 🚯 [It\u2019s Wednesday my dudes!](http://9gag.com/gag/awzeDMQ)<!-- MEMES:END -->
 
 --- 
 
