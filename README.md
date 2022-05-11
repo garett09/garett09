@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Streamer Beats All 12 Mainline Games Without Taking Damage](https://kotaku.com/assassin-s-creed-no-damage-valhalla-origins-odyssey-ezi-1848913255)
- - [Magic: The Gathering cards have a secret language that only a few can translate](https://www.polygon.com/23060686/magic-the-gathering-cards-secret-language-translation-phyrexian)
- - [A composer remixed Elden Ring&#39;s theme song in 15 styles and they all rock](https://www.pcgamer.com/a-composer-remixed-elden-rings-theme-song-in-15-styles-and-they-all-rock)<!-- GAME:END -->
+ - [Nintendo Showcase Standout Gunbrella Has The Best New Video Game Name Of 2022](https://kotaku.com/gunbrella-punk-noir-nintendo-indie-world-showcase-doink-1848913570)
+ - [Tesla has to patch 130K cars because their Ryzen APUs are overheating](https://www.pcgamer.com/tesla-has-to-patch-130k-cars-because-their-ryzen-apus-are-overheating)
+ - [Call of Duty&#39;s Godzilla vs. Kong event was more fun to watch than play](https://www.pcgamer.com/call-of-dutys-godzilla-vs-kong-event-was-more-fun-to-watch-than-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
