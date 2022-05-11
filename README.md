@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro](http://9gag.com/gag/ay9vVxY)
- - 🚯 [Accurate](http://9gag.com/gag/aE8ZNDp)
- - 🚯 [On a mission to try ALL pizzas](http://9gag.com/gag/aE8ZE6n)<!-- MEMES:END -->
+ - 🚖 [Petting a variety of adorable big cats](http://9gag.com/gag/aognqxm)
+ - 🚯 [On a mission to try ALL pizzas](http://9gag.com/gag/aE8ZE6n)
+ - 🚯 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)<!-- MEMES:END -->
 
 --- 
 
