@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luna and its related UST stablecoin continue to crash; Luna drops to as low as $4.51, an 85% slide in 24 hours, while UST drops to as low as $0.27 &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/220511/p5#a220511p5)
  - [Sony Xperia 1 IV buyer’s guide: Everything you need to know](https://www.androidauthority.com/sony-xperia-1-iv-3152665/)
- - [Sony’s Xperia 1 IV is a pricey proof of concept](https://www.theverge.com/23065641/sony-xperia-1-iv-announcement-hands-on-price-specs-zoom-screen)
- - [BAYC, whose average sales price dropped 29% over the past week, and other bluechip NFT collections, have been hit harder than bitcoin amid the crypto rout &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220511/p4#a220511p4)<!-- TECH:END -->
+ - [Sony’s Xperia 1 IV delivers real zoom for a steep price](https://www.theverge.com/23065641/sony-xperia-1-iv-announcement-hands-on-price-specs-zoom-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
