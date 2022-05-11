@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [P A I N](http://9gag.com/gag/aQXyb8q)
+ - 🚖 [Existentialism](http://9gag.com/gag/aze4y9x)
  - 🚯 [Chinese reporter caught a T-72 winning the turret toss in RF controlled Donetsk.](http://9gag.com/gag/aOQpOWE)
- - 🚯 [Yeah what a time!](http://9gag.com/gag/a0ZOGZZ)<!-- MEMES:END -->
+ - 🚯 [P A I N](http://9gag.com/gag/aQXyb8q)<!-- MEMES:END -->
 
 --- 
 
