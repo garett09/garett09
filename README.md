@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They really know the market!](http://9gag.com/gag/aNPj5Y4)
- - 🚯 [So very true](http://9gag.com/gag/aDDQLBB)
- - 🚯 [Fishe](http://9gag.com/gag/aPZr2VP)<!-- MEMES:END -->
+ - 🚖 [6 if you chop them up](http://9gag.com/gag/apgVwnn)
+ - 🚯 [Hmmmm](http://9gag.com/gag/aDDQ9P9)
+ - 🚯 [Achtung!](http://9gag.com/gag/aAGv5Lg)<!-- MEMES:END -->
 
 --- 
 
