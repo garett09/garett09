@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #326: Wednesday, May 11](https://www.pcgamer.com/wordle-may-11-326-farce-meaning-definition)
- - [Core Keeper gets dedicated servers, teases first big content update](https://www.pcgamer.com/core-keeper-gets-dedicated-servers-teases-first-big-content-update)
- - [Intel shows off its Arctic Sound-M datacentre GPU](https://www.pcgamer.com/intel-shows-off-its-arctic-sound-m-datacentre-gpu)<!-- GAME:END -->
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
+ - [Watch Nintendo’s new Indie World event here](https://www.polygon.com/23064160/nintendo-indie-world-may-2022-date-time-nindies)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
