@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Existentialism](http://9gag.com/gag/aze4y9x)
- - 🚯 [Doesn&#39;t look good](http://9gag.com/gag/aOQpED3)
- - 🚯 [P A I N](http://9gag.com/gag/aQXyb8q)<!-- MEMES:END -->
+ - 🚖 [Next level mower](http://9gag.com/gag/aNPj5pb)
+ - 🚯 [P A I N](http://9gag.com/gag/aQXyb8q)
+ - 🚯 [Prank](http://9gag.com/gag/aggKwmv)<!-- MEMES:END -->
 
 --- 
 
