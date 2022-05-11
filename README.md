@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicken Soup for the Soul Entertainment will acquire DVD rental and streaming company Redbox for $375M in an all-stock deal &lpar;Matt Schifrin/Forbes&rpar;](http://www.techmeme.com/220511/p14#a220511p14)
- - [How to turn off read receipts on iOS 15, iPadOS 15, or macOS Monterey](https://appleinsider.com/articles/21/11/03/how-to-turn-off-read-receipts-on-ios-15-ipados-15-or-macos-monterey?utm_medium=rss)
- - [As Luna crashes, Terra Analytics says ~152M LUNA tokens, or 30% of the circulating supply, are being staked, meaning many can&#39;t exit their position for weeks &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/220511/p13#a220511p13)<!-- TECH:END -->
+ - [The Nintendo Switch is at a new low price of $259.99 today](https://www.theverge.com/good-deals/2022/5/11/23066765/nintendo-switch-neon-red-blue-console-walmart-deal-sale)
+ - [Airbnb releases several updates, including searching by category, the ability to book two listings for stays over one week, and AirCover travel insurance &lpar;Jordan Crook/TechCrunch&rpar;](http://www.techmeme.com/220511/p16#a220511p16)
+ - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
