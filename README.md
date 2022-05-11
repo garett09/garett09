@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That smile](http://9gag.com/gag/abgRdDr)
- - 🚯 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)
- - 🚯 [By the power of white girl](http://9gag.com/gag/aKmKn6b)<!-- MEMES:END -->
+ - 🚖 [By the power of white girl](http://9gag.com/gag/aKmKn6b)
+ - 🚯 [In Spanish they\u2019re called \u201cpendejo\u201d](http://9gag.com/gag/aPZrVxw)
+ - 🚯 [Interesting statement](http://9gag.com/gag/aDDQr8K)<!-- MEMES:END -->
 
 --- 
 
