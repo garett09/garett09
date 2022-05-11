@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all had these. They were indestructible!](http://9gag.com/gag/avA948X)
- - 🚯 [By the power of white girl](http://9gag.com/gag/aKmKn6b)
- - 🚯 [That smile](http://9gag.com/gag/abgRdDr)<!-- MEMES:END -->
+ - 🚖 [That smile](http://9gag.com/gag/abgRdDr)
+ - 🚯 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)
+ - 🚯 [By the power of white girl](http://9gag.com/gag/aKmKn6b)<!-- MEMES:END -->
 
 --- 
 
