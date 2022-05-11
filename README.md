@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google I/O sees debut of Pixel 6a, Pixel Watch, Pixel Buds Pro](https://appleinsider.com/articles/22/05/11/google-io-sees-debut-of-pixel-6a-pixel-watch-pixel-buds-pro?utm_medium=rss)
- - [Volkswagen Reviving International Scout as US-Built EV Truck and SUV     - CNET](https://www.cnet.com/roadshow/news/volkswagen-international-scout-ev-revival-off-road-pickup-suv/#ftag=CAD590a51e)
- - [Pixel by Pixel: How Google is trying to focus and ship the future](https://www.theverge.com/23065820/google-io-ambient-computing-pixel-android-phones-watches-software)<!-- TECH:END -->
+ - [Google teases an early look at lightweight AR glasses that can display text of a conversation translated in real time &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220511/p43#a220511p43)
+ - [Sonos confirms its own voice control service will launch on June 1st](https://www.theverge.com/2022/5/11/23065623/sonos-voice-control-announced-features-giancarlo-esposito)
+ - [Sonos announces entry-level Ray soundbar for $279, coming on June 7th](https://www.theverge.com/2022/5/11/23065587/sonos-ray-soundbar-announced-features-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
