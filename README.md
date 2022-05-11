@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple will switch to USB-C for the iPhone 15 in the second half of 2023, improving transfer and charging speeds &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220511/p9#a220511p9)
- - [Wanda Maximoff Deserves Better From the MCU](https://www.wired.com/story/wanda-maximoff-doctor-strange-mcu)
- - [Watch Google I/O 2022 Right Here](https://www.wired.com/story/google-io-2022-how-to-watch)<!-- TECH:END -->
+ - [Chicken Soup for the Soul Entertainment will acquire DVD rental and streaming company Redbox for $375M in an all-stock deal &lpar;Matt Schifrin/Forbes&rpar;](http://www.techmeme.com/220511/p14#a220511p14)
+ - [How to turn off read receipts on iOS 15, iPadOS 15, or macOS Monterey](https://appleinsider.com/articles/21/11/03/how-to-turn-off-read-receipts-on-ios-15-ipados-15-or-macos-monterey?utm_medium=rss)
+ - [As Luna crashes, Terra Analytics says ~152M LUNA tokens, or 30% of the circulating supply, are being staked, meaning many can&#39;t exit their position for weeks &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/220511/p13#a220511p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
