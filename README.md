@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DigitalBridge partners with IFM to acquire data center company Switch for $11B, including debt; Switch plans to build an extra 11M sq. ft. of capacity by 2030 &lpar;Chris Wack/Wall Street Journal&rpar;](http://www.techmeme.com/220511/p22#a220511p22)
- - [Apple touts benefits of privacy-preserving ad tech in pitch to advertisers](https://appleinsider.com/articles/22/05/11/apple-touts-benefits-of-privacy-preserving-ad-tech-in-pitch-to-advertisers?utm_medium=rss)
- - [Aura Strap 2 review: context — you love to see it](https://www.theverge.com/23066781/aura-strap-2-review-apple-watch-bia)<!-- TECH:END -->
+ - [Google Maps brings a new &quot;immersive view&quot;, a combination of Street View and aerial shots, for select cities and will let third-party apps use Live View&#39;s AR &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220511/p28#a220511p28)
+ - [‘Let me solo her’ defeats 1,000th Malenia in heroic fashion](https://www.theverge.com/2022/5/11/23066977/elden-ring-let-me-solo-her-defeats-1000th-malenia)
+ - [Livestream of the Google I/O 2022 keynote &lpar;Google I/O&rpar;](http://www.techmeme.com/220511/p27#a220511p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
