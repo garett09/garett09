@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Wednesday my dudes!](http://9gag.com/gag/awzeDMQ)
+ - 🚖 [P A I N](http://9gag.com/gag/aQXyb8q)
  - 🚯 [Chinese reporter caught a T-72 winning the turret toss in RF controlled Donetsk.](http://9gag.com/gag/aOQpOWE)
- - 🚯 [WTF is just happening](http://9gag.com/gag/aZrRK6V)<!-- MEMES:END -->
+ - 🚯 [Yeah what a time!](http://9gag.com/gag/a0ZOGZZ)<!-- MEMES:END -->
 
 --- 
 
