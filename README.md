@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA rethinking Battlefield ‘from the ground up,’ CEO says](https://www.polygon.com/23067445/battlefield-2042-launch-ea-scores-sales-delayed-updates-season)
- - [Ubisoft’s mysterious Avatar game still coming within the year](https://www.polygon.com/2022/5/11/23067350/ubisoft-avatar-frontiers-of-pandora-2023-release-massive-entertainment)
- - [True Elden Ring Lord Let Me Solo Her Kills Malenia 1,000 Times](https://kotaku.com/elden-ring-let-me-solo-her-klein-tsuboi-1000-malenia-yo-1848911945)<!-- GAME:END -->
+ - [Assassin’s Creed Streamer Beats All 12 Mainline Games Without Taking Damage](https://kotaku.com/assassin-s-creed-no-damage-valhalla-origins-odyssey-ezi-1848913255)
+ - [Magic: The Gathering cards have a secret language that only a few can translate](https://www.polygon.com/23060686/magic-the-gathering-cards-secret-language-translation-phyrexian)
+ - [A composer remixed Elden Ring&#39;s theme song in 15 styles and they all rock](https://www.pcgamer.com/a-composer-remixed-elden-rings-theme-song-in-15-styles-and-they-all-rock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
