@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting statement](http://9gag.com/gag/aDDQr8K)
- - 🚯 [Both..](http://9gag.com/gag/aze4vxp)
- - 🚯 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)<!-- MEMES:END -->
+ - 🚖 [True..](http://9gag.com/gag/a0ZOzXQ)
+ - 🚯 [Guy finds thousands of scorpions in an abandoned house](http://9gag.com/gag/aNPjGK6)
+ - 🚯 [Both..](http://9gag.com/gag/aze4vxp)<!-- MEMES:END -->
 
 --- 
 
