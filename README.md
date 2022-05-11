@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clever puzzle-platformer ElecHead is coming to Switch](https://www.polygon.com/23065717/elechead-consoles-nintendo-switch-release-date)
- - [PlayStation Store: April 2022’s top downloads](https://blog.playstation.com/2022/05/11/playstation-store-april-2022s-top-downloads/)
- - [PlayStation Store: April 2022’s top downloads](https://blog.playstation.com/2022/05/11/playstation-store-april-2022s-top-downloads/)<!-- GAME:END -->
+ - [Metroid 64 fan project is coming to PC](https://www.pcgamer.com/metroid-64-fan-project-is-coming-to-pc)
+ - [14 exciting video games we’re anticipating this summer](https://www.polygon.com/what-to-play/23065123/summer-2022-video-games-release-dates-platforms)
+ - [Nintendo’s next console is a ‘major concern’ for the company](https://www.polygon.com/23066923/nintendo-switch-next-console-furukawa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
