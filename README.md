@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Mobile launches next week](https://www.polygon.com/23067078/apex-legends-mobile-release-date-trailer-new-legend-maps)
- - [Waiting For Hollow Knight: Silksong? Here&#39;s The Perfect Game To Tide You Over](https://kotaku.com/haiku-the-robot-hollow-knight-silksong-review-metroidva-1848910676)
- - [Metroid 64 fan project is coming to PC](https://www.pcgamer.com/metroid-64-fan-project-is-coming-to-pc)<!-- GAME:END -->
+ - [The Latest Paladins Update Emerges from the Shadows](https://news.xbox.com/en-us/2022/05/11/the-latest-paladins-update-emerges-from-the-shadows/)
+ - [The Worst Enemy In Elden Ring’s Sellia Crystal Tunnel](https://kotaku.com/elden-ring-worst-enemies-pests-caelid-sellia-crystal-tu-1848911431)
+ - [Cute crab game gets a trailer and coins the term &#39;Shellslike&#39;](https://www.pcgamer.com/cute-crab-game-gets-a-trailer-and-coins-the-term-shellslike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
