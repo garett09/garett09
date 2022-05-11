@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Both..](http://9gag.com/gag/aze4vxp)
- - 🚯 [The level of details](http://9gag.com/gag/a31Ner3)
- - 🚯 [Haa](http://9gag.com/gag/axBmenL)<!-- MEMES:END -->
+ - 🚖 [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)
+ - 🚯 [He was chosen](http://9gag.com/gag/aVxR48M)
+ - 🚯 [Both..](http://9gag.com/gag/aze4vxp)<!-- MEMES:END -->
 
 --- 
 
