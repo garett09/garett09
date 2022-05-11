@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft’s mysterious Avatar game still set to arrive in 2022](https://www.polygon.com/2022/5/11/23067350/ubisoft-avatar-frontiers-of-pandora-2022-release-massive-entertainment)
- - [True Elden Ring Lord Let Me Solo Her Kills Malenia 1,000 Times](https://kotaku.com/elden-ring-let-me-solo-her-klein-tsuboi-1000-malenia-yo-1848911945)
- - [The antitrust lawsuit against Valve is back on](https://www.pcgamer.com/the-antitrust-lawsuit-against-valve-is-back-on)<!-- GAME:END -->
+ - [EA rethinking Battlefield ‘from the ground up,’ CEO says](https://www.polygon.com/23067445/battlefield-2042-launch-ea-scores-sales-delayed-updates-season)
+ - [Ubisoft’s mysterious Avatar game still coming within the year](https://www.polygon.com/2022/5/11/23067350/ubisoft-avatar-frontiers-of-pandora-2023-release-massive-entertainment)
+ - [True Elden Ring Lord Let Me Solo Her Kills Malenia 1,000 Times](https://kotaku.com/elden-ring-let-me-solo-her-klein-tsuboi-1000-malenia-yo-1848911945)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
