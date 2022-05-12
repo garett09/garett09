@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 4 leak shows a very familiar looking foldable](https://www.theverge.com/2022/5/12/23068245/galaxy-z-flip-4-leaked-renders-release-date-foldable-design)
- - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 12&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
+ - [Bitcoin dropped below $27,000 for the first time since December 2020, down 15% in 24 hours; Ether drops to as low as $1,750, its lowest level since July 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220512/p8#a220512p8)
+ - [Looks like Pixel Watch won’t work with iPhones. But are you really surprised?](https://www.androidauthority.com/google-pixel-watch-iphone-compatibility-3164147/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
