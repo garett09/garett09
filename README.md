@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hacks season 2 is a reminder that TV comedies should be meaner](https://www.polygon.com/reviews/23067656/hacks-season-2-review)
- - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)
- - [The best Sims 4 mods in 2022](https://www.pcgamer.com/best-sims-4-mods)<!-- GAME:END -->
+ - [The state of Valorant in 2022: an unstoppable machine](https://www.pcgamer.com/the-state-of-valorant-in-2022)
+ - [Dracula Daily is Tumblr’s hottest new book club](https://www.polygon.com/23063882/dracula-daily-tumblr-memes)
+ - [Surreal deep-sea adventure Silt dives onto PS5 &amp; PS4 on June 1](https://blog.playstation.com/2022/05/12/surreal-deep-sea-adventure-silt-dives-onto-ps5-ps4-on-june-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
