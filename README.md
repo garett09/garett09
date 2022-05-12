@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
- - [Bitcoin dropped below $27,000 for the first time since December 2020, down 15% in 24 hours; Ether drops to as low as $1,750, its lowest level since July 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220512/p8#a220512p8)
- - [Looks like Pixel Watch won’t work with iPhones. But are you really surprised?](https://www.androidauthority.com/google-pixel-watch-iphone-compatibility-3164147/)<!-- TECH:END -->
+ - [After mocking Apple for removing the iPhone headphone jack in an August 2021 ad for the Pixel 5a, Google quietly removes the headphone jack on the Pixel 6a &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p12#a220512p12)
+ - [OnePlus brings super-affordable OnePlus Nord Buds to the US](https://www.androidauthority.com/oneplus-nord-buds-3163789/)
+ - [Bill Gates Is So Over This Pandemic](https://www.wired.com/story/bill-gates-is-so-over-this-pandemic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
