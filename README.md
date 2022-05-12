@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Workspace updates, including AI-powered tools to control how users look and sound on Meet and automated transcriptions of Meet meetings &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220511/p58#a220511p58)
- - [Google confirms that Messages for Android will get end-to-end encryption for RCS group chats, rolling out &quot;later this year&quot; in open beta &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220511/p57#a220511p57)
- - [Last chance: Amazon has iPod touch models in stock for $189.99](https://appleinsider.com/articles/22/05/11/last-chance-amazon-has-ipod-touch-models-in-stock-for-18999?utm_medium=rss)<!-- TECH:END -->
+ - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)
+ - [Twitter launches Data Dash, a browser game intended to help explain some of its privacy settings, as part of a bigger push around its rewritten privacy policy &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p1#a220512p1)
+ - [Google releases Android 13 Beta 2 with finer privacy controls, an improved Material You theme system, the ability to change the language of each app, and more &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220511/p61#a220511p61)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
