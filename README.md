@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Critical damage](http://9gag.com/gag/ajgRe7G)
- - 🚯 [German bedtime stories are the best!](http://9gag.com/gag/avA9MqE)
- - 🚯 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)<!-- MEMES:END -->
+ - 🚖 [When you woke up this morning you got yourself a gun](http://9gag.com/gag/aOQpMyv)
+ - 🚯 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
+ - 🚯 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)<!-- MEMES:END -->
 
 --- 
 
