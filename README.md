@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prey is free on the Epic Games Store right now](https://www.polygon.com/2022/5/12/23068666/prey-jotun-redout-free-games-epic-games-store)
- - [Stellaris: Overlord introduces my new favourite species origin](https://www.pcgamer.com/stellaris-overlord-introduces-my-new-favourite-species-origin)
- - [Pick up these 21 great games in PlayStation’s Extended Play sale](https://www.polygon.com/2022/5/12/23068576/playstation-sale-extended-play-best-games-list)<!-- GAME:END -->
+ - [Alan Wake Remastered is coming to Switch, and Remedy shows new Alan Wake 2 concept art](https://www.polygon.com/23068852/alan-wake-remastered-nintendo-switch-announcement)
+ - [This 29-year-old pro football manager trained on Football Manager](https://www.pcgamer.com/this-29-year-old-pro-football-manager-trained-on-football-manager)
+ - [This Destiny raid boss body pillow is here to give you comfort in the Darkness](https://www.pcgamer.com/rhulk-body-pillow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
