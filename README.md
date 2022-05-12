@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women. Vs Men.](http://9gag.com/gag/aWgRrv4)
- - 🚯 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
- - 🚯 [Hmm...ok!!](http://9gag.com/gag/a91DozZ)<!-- MEMES:END -->
+ - 🚖 [Home of the brave and the land of the groomers](http://9gag.com/gag/aognX70)
+ - 🚯 [Hmm...ok!!](http://9gag.com/gag/a91DozZ)
+ - 🚯 [Your only chance\u2026](http://9gag.com/gag/a91Dx3K)<!-- MEMES:END -->
 
 --- 
 
