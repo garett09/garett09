@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 6A loses the A-series’ best feature](https://www.theverge.com/2022/5/12/23067680/google-pixel-6a-phone-camera-tensor)
- - [Alan Wake Remastered is coming to Nintendo Switch this fall](https://www.theverge.com/2022/5/12/23069044/alan-wake-remastered-nintendo-switch-tv-show-amc-2)
- - [Leaked memo shows the anti-union talking points that Apple is sending retail store leaders, including that workers could lose &quot;flexibility&quot; and merit promotions &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220512/p34#a220512p34)<!-- TECH:END -->
+ - [Honor Magic 4 Pro review: Obsoletely fabulous](https://www.androidauthority.com/honor-magic-4-pro-review-specs-price-camera-3160230/)
+ - [Honor Magic 4 Pro launches in UK with a Galaxy S22 Plus price](https://www.androidauthority.com/honor-magic-4-pro-launch-3164365/)
+ - [Honor Magic4 Pro review: hardware highs, software stumbles](https://www.theverge.com/23068438/honor-magic4-pro-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
