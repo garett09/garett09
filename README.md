@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney&#39;s subscriptions for its streaming services rose to 205.6M globally: Disney+ added 7.9M subs to 137.7M, Hulu added 300K to 45.6M, ESPN+ added 1M to 22.3M &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220511/p49#a220511p49)
- - [Google’s ‘premium’ Pixel Tablet sure doesn’t look very premium](https://www.theverge.com/2022/5/11/23067679/google-pixel-tablet-tease-reaction-premium-ugly)
- - [Court lets Texas restrictions on internet moderation take effect](https://www.theverge.com/2022/5/11/23067002/texas-netchoice-paxton-hb20-social-media-law-fifth-circuit-appeals-court-grant-stay-ruling)<!-- TECH:END -->
+ - [Nexite, which develops a tagging system and data platform to track info about in-store merchandise, raises a $67M Series C, bringing its total funding to $100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220511/p55#a220511p55)
+ - [A new Steam Deck update adds one of the most-requested features](https://www.theverge.com/2022/5/11/23067870/steam-deck-update-per-game-performance-profiles)
+ - [A US appeals court rules 2-1 to let Texas enforce a social media law stopping Twitter, Facebook, and other services with 50M+ users from moderating content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220511/p54#a220511p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
