@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder - southpark is free to watch on official website - they dont block ablock users. these dudes are awsome.](http://9gag.com/gag/aggKMeq)
- - 🚯 [Japan](http://9gag.com/gag/a41weQw)
- - 🚯 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)<!-- MEMES:END -->
+ - 🚖 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)
+ - 🚯 [Take a break and pick a car](http://9gag.com/gag/a81VBM6)
+ - 🚯 [Japan](http://9gag.com/gag/a41weQw)<!-- MEMES:END -->
 
 --- 
 
