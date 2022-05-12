@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eric Barone says he &#39;can&#39;t believe&#39; Stardew Valley has sold 20 million copies](https://www.pcgamer.com/eric-barone-says-he-cant-believe-stardew-valley-has-sold-20-million-copies)
- - [El Salvador&#39;s bitcoin experiment is looking like a disaster](https://www.pcgamer.com/el-salvadors-bitcoin-experiment-is-looking-like-a-disaster)
- - [Of course Starfield is delayed—what did you expect?](https://www.pcgamer.com/of-course-starfield-is-delayedwhat-did-you-expect)<!-- GAME:END -->
+ - [PlayStation Boss Asks Staff To Respect All Abortion Opinions In Email About Cats](https://kotaku.com/playstation-boss-jim-ryan-ceo-abortion-pro-life-memo-le-1848919014)
+ - [Destiny 2’s Iron Banner gets a big refresh with the return of Rift and a brand-new map](https://www.polygon.com/23069346/destiny-2-iron-banner-rework-new-map-disjunction)
+ - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
