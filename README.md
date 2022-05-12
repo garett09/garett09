@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)
- - [Trek to Yomi review](https://www.pcgamer.com/trek-to-yomi-review)
- - [Google Maps&#39; new Immersive View will let you soar, drone-like, through cities](https://www.pcgamer.com/google-maps-new-immersive-view-will-let-you-soar-drone-line-through-cities)<!-- GAME:END -->
+ - [The cryptocurrency market is experiencing an unprecedented crash](https://www.pcgamer.com/the-cryptocurrency-market-is-experiencing-an-unprecedented-crash)
+ - [John Romero will publish a memoir next year](https://www.pcgamer.com/john-romero-will-publish-a-memoir-next-year)
+ - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
