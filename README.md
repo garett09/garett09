@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Achtung!](http://9gag.com/gag/aAGv5Lg)
- - 🚯 [Dane daneeeeeeee dameio damedetoiooooo](http://9gag.com/gag/amgRZZ9)
- - 🚯 [Init ?](http://9gag.com/gag/a91D08K)<!-- MEMES:END -->
+ - 🚖 [Dane daneeeeeeee dameio damedetoiooooo](http://9gag.com/gag/amgRZZ9)
+ - 🚯 [After 12 years I\u2019ve started rewatching Srubs. It\u2019s still so good!](http://9gag.com/gag/aBn4eL1)
+ - 🚯 [Fishe](http://9gag.com/gag/aPZr2VP)<!-- MEMES:END -->
 
 --- 
 
