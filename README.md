@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Salamalakum](http://9gag.com/gag/aze4pQx)
- - 🚯 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)
- - 🚯 [On tinder](http://9gag.com/gag/aQXyWK8)<!-- MEMES:END -->
+ - 🚖 [Where&#39;s Anonymous when you really need them?](http://9gag.com/gag/a41wX7y)
+ - 🚯 [On tinder](http://9gag.com/gag/aQXyWK8)
+ - 🚯 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)<!-- MEMES:END -->
 
 --- 
 
