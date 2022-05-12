@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #327: Thursday, May 12](https://www.pcgamer.com/wordle-may-12-327-slung-meaning-definition)
  - [Phanteks Evolv Shift XT review](https://www.pcgamer.com/phanteks-evolv-shift-xt)
- - [Steam Deck update adds per-game performance settings](https://www.pcgamer.com/steam-deck-update-adds-per-game-performance-settings)
- - [Intel showcases upcoming processors at its Vision 2022 event](https://www.pcgamer.com/intel-showcases-upcoming-processors-at-its-vision-2022-event)<!-- GAME:END -->
+ - [Steam Deck update adds per-game performance settings](https://www.pcgamer.com/steam-deck-update-adds-per-game-performance-settings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
