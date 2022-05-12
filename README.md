@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On tinder](http://9gag.com/gag/aQXyWK8)
- - 🚯 [Where&#39;s Anonymous when you really need them?](http://9gag.com/gag/a41wX7y)
+ - 🚖 [Critical damage](http://9gag.com/gag/ajgRe7G)
+ - 🚯 [German bedtime stories are the best!](http://9gag.com/gag/avA9MqE)
  - 🚯 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)<!-- MEMES:END -->
 
 --- 
