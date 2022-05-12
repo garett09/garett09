@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks Like Alan Wake 2 Concept Art Is All We’re Getting For A While](https://kotaku.com/alan-wake-2-remedy-entertainment-control-sam-lake-demo-1848918165)
- - [Toxic fans have made Johnny Depp and Amber Heard’s trial inescapable](https://www.polygon.com/23068724/johnny-depp-amber-heard-trial-twitch-youtube-tiktok)
- - [The Dead Space remake is coming in January](https://www.pcgamer.com/the-dead-space-remake-is-coming-in-january)<!-- GAME:END -->
+ - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)
+ - [Mr Bean NFTs launched at the same time as the crypto crash: coincidence?](https://www.pcgamer.com/mr-bean-nfts-launched-at-the-same-time-as-the-crypto-crash-coincidence)
+ - [Final Fantasy 14 developers are cracking down on illicit mods](https://www.polygon.com/23068526/square-enix-final-fantasy-xiv-mod-ban-jail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
