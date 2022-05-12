@@ -199,8 +199,8 @@ Windows                  1 hr 37 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Women. Vs Men.](http://9gag.com/gag/aWgRrv4)
- - 🚯 [What does the [N] say - classic &lpar;repetition is the mother of learnin\u043f](http://9gag.com/gag/a91Do2m)
- - 🚯 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)<!-- MEMES:END -->
+ - 🚯 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
+ - 🚯 [Hmm...ok!!](http://9gag.com/gag/a91DozZ)<!-- MEMES:END -->
 
 --- 
 
