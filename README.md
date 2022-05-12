@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Still Silent On Workplace Allegations Despite Acknowledging Them Internally](https://kotaku.com/nintendo-splatoon-3-mario-strikers-working-conditions-u-1848918777)
- - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)
- - [Mr Bean NFTs launched at the same time as the crypto crash: coincidence?](https://www.pcgamer.com/mr-bean-nfts-launched-at-the-same-time-as-the-crypto-crash-coincidence)<!-- GAME:END -->
+ - [Eric Barone says he &#39;can&#39;t believe&#39; Stardew Valley has sold 20 million copies](https://www.pcgamer.com/eric-barone-says-he-cant-believe-stardew-valley-has-sold-20-million-copies)
+ - [El Salvador&#39;s bitcoin experiment is looking like a disaster](https://www.pcgamer.com/el-salvadors-bitcoin-experiment-is-looking-like-a-disaster)
+ - [Of course Starfield is delayed—what did you expect?](https://www.pcgamer.com/of-course-starfield-is-delayedwhat-did-you-expect)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
