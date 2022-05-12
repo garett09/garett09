@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Painting miniatures? You’re probably overthinking it](https://www.polygon.com/23067627/slapchop-method-miniature-painting-contrast-speedpaint)
- - [Epic is going to release the Unreal Editor for Fortnite in an attempt to out-Roblox Roblox](https://www.pcgamer.com/epic-is-going-to-release-the-unreal-editor-for-fortnite-in-an-attempt-to-out-roblox-roblox)
- - [Netflix’s first Resident Evil trailer teases the TV series’ grim zombie future](https://www.polygon.com/23067520/resident-evil-netflix-release-date-trailer)<!-- GAME:END -->
+ - [Elden Ring&#39;s lore has me obsessively scouring every corner for clues](https://www.pcgamer.com/elden-rings-lore-has-me-obsessively-scouring-every-corner-for-clues)
+ - [Free Play Days – WRC 10 and Lawn Mowing Simulator](https://news.xbox.com/en-us/2022/05/12/free-play-days-wrc-10-and-lawn-mowing-simulator/)
+ - [Doctor Strange’s writer addresses fans’ biggest question about Wanda](https://www.polygon.com/23067589/doctor-strange-and-the-multiverse-of-madness-is-wanda-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
