@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow Wave answers the question ‘do I need air conditioning outside?’](https://www.theverge.com/2022/5/12/23068502/ecoflow-wave-portable-air-conditioner-camping-rv-cabin)
- - [Masayoshi Son says SoftBank will be cutting its startup investments by 50-75% through March 2023, after its Vision Fund unit reported a full-year loss of $20B+ &lpar;Veronica Irwin/Protocol&rpar;](http://www.techmeme.com/220512/p37#a220512p37)
- - [Apple&#39;s Universal Control is no longer a beta feature as of macOS 12.4](https://appleinsider.com/articles/22/05/12/apples-universal-control-is-no-longer-a-beta-feature-as-of-macos-124?utm_medium=rss)<!-- TECH:END -->
+ - [SEC filing: FTX CEO Sam Bankman-Fried bought a 7.6% stake, worth $648M, in Robinhood, calling it &quot;an attractive investment&quot;; stock jumps 20%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/220512/p39#a220512p39)
+ - [Apple circulating anti-union talking points to retail store managers](https://appleinsider.com/articles/22/05/12/apple-circulating-anti-union-talking-points-to-retail-store-managers?utm_medium=rss)
+ - [Meta even brings up the metaverse when rebranding its payment system](https://www.theverge.com/2022/5/12/23069251/meta-facebook-pay-rebrand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
