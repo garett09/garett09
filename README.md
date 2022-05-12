@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says there are 110M monthly active devices using Android TV OS, up from 80M in May 2021, and it will let Android users cast to Google TV later this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220512/p25#a220512p25)
- - [Here’s Mark Zuckerberg demonstrating Meta’s high-end Project Cambria VR headset](https://www.theverge.com/2022/5/12/23068536/meta-project-cambria-vr-ar-demo-mark-zuckerberg)
- - [Sony&#39;s All-New Flagship Noise-Cancelers Are Still the Best](https://www.wired.com/review/review-sony-wh-1000xm5)<!-- TECH:END -->
+ - [Apple seeds Release Candidate iOS 15.5, iPadOS 15.5, tvOS 15.5, watchOS 8.6 developer betas](https://appleinsider.com/articles/22/05/12/apple-seeds-release-candidate-ios-155-ipados-155-tvos-155-watchos-86-developer-betas?utm_medium=rss)
+ - [Apple issues first macOS Monterey 12.4 Release Candidate beta to developers](https://appleinsider.com/articles/22/05/12/apple-issues-first-macos-monterey-124-release-candidate-beta-to-developers?utm_medium=rss)
+ - [Twitter CEO pushes out top execs, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
