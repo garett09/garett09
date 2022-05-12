@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)
- - 🚯 [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)
- - 🚯 [British conquest](http://9gag.com/gag/a0ZOBEL)<!-- MEMES:END -->
+ - 🚖 [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)
+ - 🚯 [The Rise of the KAREN](http://9gag.com/gag/aggKWQg)
+ - 🚯 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)<!-- MEMES:END -->
 
 --- 
 
