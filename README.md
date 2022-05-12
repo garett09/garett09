@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A San Francisco Police department training document notes that video footage from continuously recording autonomous vehicles can be obtained as evidence &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220512/p3#a220512p3)
  - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)
- - [Twitter launches Data Dash, a browser game intended to help explain some of its privacy settings, as part of a bigger push around its rewritten privacy policy &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p1#a220512p1)
- - [Google releases Android 13 Beta 2 with finer privacy controls, an improved Material You theme system, the ability to change the language of each app, and more &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220511/p61#a220511p61)<!-- TECH:END -->
+ - [Google will launch the Pixel 6a in India, its first phone in a while](https://www.androidauthority.com/google-pixel-6a-india-launch-3163698/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
