@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After mocking Apple for removing the iPhone headphone jack in an August 2021 ad for the Pixel 5a, Google quietly removes the headphone jack on the Pixel 6a &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p12#a220512p12)
- - [OnePlus brings super-affordable OnePlus Nord Buds to the US](https://www.androidauthority.com/oneplus-nord-buds-3163789/)
- - [Bill Gates Is So Over This Pandemic](https://www.wired.com/story/bill-gates-is-so-over-this-pandemic)<!-- TECH:END -->
+ - [The Case for War Crimes Charges Against Russia’s Sandworm Hackers](https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine)
+ - [Lugano Ties Its Crypto City Dream to Tether](https://www.wired.com/story/lugano-tether-crypto-city)
+ - [Researchers Grew Tiny Plants in Moon Dirt Collected Decades Ago](https://www.wired.com/story/researchers-grew-tiny-plants-in-moon-dirt-collected-decades-ago)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
