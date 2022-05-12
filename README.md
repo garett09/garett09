@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home of the brave and the land of the groomers](http://9gag.com/gag/aognX70)
- - 🚯 [Hmm...ok!!](http://9gag.com/gag/a91DozZ)
+ - 🚖 [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)
+ - 🚯 [Going for family dinner too](http://9gag.com/gag/aKmKRbW)
  - 🚯 [Your only chance\u2026](http://9gag.com/gag/a91Dx3K)<!-- MEMES:END -->
 
 --- 
