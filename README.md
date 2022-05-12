@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mario Strikers: Battle League trailer shows off the game’s multiplayer features](https://www.polygon.com/23068962/mario-strikers-battle-league-multiplayer-trailer)
- - [The Dead Space remake is coming January 2023](https://www.polygon.com/23068497/dead-space-remake-release-date-platforms)
- - [Hulu and PC Game Pass: Friends with Benefits](https://news.xbox.com/en-us/2022/05/12/hulu-and-pc-game-pass-friends-with-benefits/)<!-- GAME:END -->
+ - [Looks Like Alan Wake 2 Concept Art Is All We’re Getting For A While](https://kotaku.com/alan-wake-2-remedy-entertainment-control-sam-lake-demo-1848918165)
+ - [Toxic fans have made Johnny Depp and Amber Heard’s trial inescapable](https://www.polygon.com/23068724/johnny-depp-amber-heard-trial-twitch-youtube-tiktok)
+ - [The Dead Space remake is coming in January](https://www.pcgamer.com/the-dead-space-remake-is-coming-in-january)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
