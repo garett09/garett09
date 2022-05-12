@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)
- - 🚯 [Take a break and pick a car](http://9gag.com/gag/a81VBM6)
- - 🚯 [Japan](http://9gag.com/gag/a41weQw)<!-- MEMES:END -->
+ - 🚖 [Buy the Dip Bro](http://9gag.com/gag/a31N9EQ)
+ - 🚯 [Japan](http://9gag.com/gag/a41weQw)
+ - 🚯 [The saddest word in the whole wide world is the word almost.](http://9gag.com/gag/a0ZO23B)<!-- MEMES:END -->
 
 --- 
 
