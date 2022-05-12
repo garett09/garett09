@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Case for War Crimes Charges Against Russia’s Sandworm Hackers](https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine)
- - [Lugano Ties Its Crypto City Dream to Tether](https://www.wired.com/story/lugano-tether-crypto-city)
- - [Researchers Grew Tiny Plants in Moon Dirt Collected Decades Ago](https://www.wired.com/story/researchers-grew-tiny-plants-in-moon-dirt-collected-decades-ago)<!-- TECH:END -->
+ - [Bethesda’s Starfield and Redfall have been delayed to 2023](https://www.theverge.com/2022/5/12/23068378/starfield-bethesda-redfall-delay-2023-pc-xbox)
+ - [Creators who quit YouTube keep returning despite &quot;YouTube brain&quot;, where creators are creatively and financially subject to the whims of viewer attention spans &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/220512/p17#a220512p17)
+ - [Google&#39;s Pixel Watch Is Coming This Fall, With Some Familiar Fitbit Features     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-is-coming-this-fall-with-some-familiar-fitbit-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
