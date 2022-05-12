@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter shares fall to about $46, dropping its market cap to $9B below Elon Musk&#39;s purchase price of $54.20, amid investor concerns about the deal &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220512/p33#a220512p33)
- - [Reliving the good old days: Google I/O 2022 felt like a flashback](https://www.androidauthority.com/google-io-2022-flashbacks-3163955/)
- - [Italian payments giant Nexi acquires Germany-based Orderbird, which provides point of sale products to hospitality businesses, sources say for &amp;euro;130M to &amp;euro;140M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220512/p32#a220512p32)<!-- TECH:END -->
+ - [The Pixel 6A loses the A-series’ best feature](https://www.theverge.com/2022/5/12/23067680/google-pixel-6a-phone-camera-tensor)
+ - [Alan Wake Remastered is coming to Nintendo Switch this fall](https://www.theverge.com/2022/5/12/23069044/alan-wake-remastered-nintendo-switch-tv-show-amc-2)
+ - [Leaked memo shows the anti-union talking points that Apple is sending retail store leaders, including that workers could lose &quot;flexibility&quot; and merit promotions &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220512/p34#a220512p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
