@@ -198,8 +198,8 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Buy the Dip Bro](http://9gag.com/gag/a31N9EQ)
- - 🚯 [Japan](http://9gag.com/gag/a41weQw)
+ - 🚖 [Japan](http://9gag.com/gag/a41weQw)
+ - 🚯 [We need him back](http://9gag.com/gag/a515LVo)
  - 🚯 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)<!-- MEMES:END -->
 
 --- 
