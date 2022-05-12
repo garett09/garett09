@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Still Silent On Workplace Allegations Despite Acknowledging Them Internally](https://kotaku.com/nintendo-splatoon-3-mario-strikers-working-conditions-u-1848918777)
  - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)
- - [Mr Bean NFTs launched at the same time as the crypto crash: coincidence?](https://www.pcgamer.com/mr-bean-nfts-launched-at-the-same-time-as-the-crypto-crash-coincidence)
- - [Final Fantasy 14 developers are cracking down on illicit mods](https://www.polygon.com/23068526/square-enix-final-fantasy-xiv-mod-ban-jail)<!-- GAME:END -->
+ - [Mr Bean NFTs launched at the same time as the crypto crash: coincidence?](https://www.pcgamer.com/mr-bean-nfts-launched-at-the-same-time-as-the-crypto-crash-coincidence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
