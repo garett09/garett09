@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bethesda’s Starfield and Redfall have been delayed to 2023](https://www.theverge.com/2022/5/12/23068378/starfield-bethesda-redfall-delay-2023-pc-xbox)
- - [Creators who quit YouTube keep returning despite &quot;YouTube brain&quot;, where creators are creatively and financially subject to the whims of viewer attention spans &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/220512/p17#a220512p17)
- - [Google&#39;s Pixel Watch Is Coming This Fall, With Some Familiar Fitbit Features     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-is-coming-this-fall-with-some-familiar-fitbit-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [S&amp;atilde;o Paulo-based Dock, a full-stack payments and digital banking service, raises $110M led by Lightrock and Silver Lake Waterman at a $1.5B+ valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220512/p21#a220512p21)
+ - [How Facebook undercut the Oversight Board](https://www.theverge.com/23068243/facebook-meta-oversight-board-putin-russia-ukraine-decision)
+ - [The latest Apple TV 4K is more affordable than ever today](https://www.theverge.com/good-deals/2022/5/12/23066918/apple-tv-4k-dji-mavic-3-drone-elgato-webcam-amazon-echo-show-8-m1-imac-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
