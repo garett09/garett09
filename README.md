@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with James Park, Fitbit co-founder and Google&#39;s wearables division head, on how the Pixel Watch factors into Fitbit and its future plans, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/220512/p4#a220512p4)
  - [A San Francisco Police department training document notes that video footage from continuously recording autonomous vehicles can be obtained as evidence &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220512/p3#a220512p3)
- - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)
- - [Google will launch the Pixel 6a in India, its first phone in a while](https://www.androidauthority.com/google-pixel-6a-india-launch-3163698/)<!-- TECH:END -->
+ - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
