@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Rise of the KAREN](http://9gag.com/gag/aggKWQg)
- - 🚯 [Having lunch with a nice view, what can go wrong?](http://9gag.com/gag/aegRLDb)
- - 🚯 [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)<!-- MEMES:END -->
+ - 🚖 [Just a reminder - southpark is free to watch on official website - they dont block ablock users. these dudes are awsome.](http://9gag.com/gag/aggKMeq)
+ - 🚯 [Japan](http://9gag.com/gag/a41weQw)
+ - 🚯 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)<!-- MEMES:END -->
 
 --- 
 
