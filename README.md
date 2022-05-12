@@ -191,9 +191,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 12&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [BVNK, which offers payments and banking services for crypto-native businesses, raises a $40M Series A led by Tiger Global at a $340M post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220512/p5#a220512p5)
- - [Mophie introduces Apple Store exclusive USB-C GaN adapters](https://appleinsider.com/articles/22/05/11/mophie-introduces-apple-store-exclusive-usb-c-gan-adapters?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Z Flip 4 leak shows a very familiar looking foldable](https://www.theverge.com/2022/5/12/23068245/galaxy-z-flip-4-leaked-renders-release-date-foldable-design)
+ - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 12&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
