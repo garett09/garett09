@@ -198,9 +198,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you woke up this morning you got yourself a gun](http://9gag.com/gag/aOQpMyv)
- - 🚯 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
- - 🚯 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)<!-- MEMES:END -->
+ - 🚖 [Good Kitty](http://9gag.com/gag/aggKWN6)
+ - 🚯 [\u00abHow to Deal with Bullies\u00bb](http://9gag.com/gag/avA9M1M)
+ - 🚯 [How many times have you thought about quitting your job today ?](http://9gag.com/gag/aYrR9wm)<!-- MEMES:END -->
 
 --- 
 
