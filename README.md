@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake Remastered is coming to Switch, and Remedy shows new Alan Wake 2 concept art](https://www.polygon.com/23068852/alan-wake-remastered-nintendo-switch-announcement)
- - [This 29-year-old pro football manager trained on Football Manager](https://www.pcgamer.com/this-29-year-old-pro-football-manager-trained-on-football-manager)
- - [This Destiny raid boss body pillow is here to give you comfort in the Darkness](https://www.pcgamer.com/rhulk-body-pillow)<!-- GAME:END -->
+ - [New Mario Strikers: Battle League trailer shows off the game’s multiplayer features](https://www.polygon.com/23068962/mario-strikers-battle-league-multiplayer-trailer)
+ - [The Dead Space remake is coming January 2023](https://www.polygon.com/23068497/dead-space-remake-release-date-platforms)
+ - [Hulu and PC Game Pass: Friends with Benefits](https://news.xbox.com/en-us/2022/05/12/hulu-and-pc-game-pass-friends-with-benefits/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
