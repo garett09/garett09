@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Nearly Burns Down Kitchen](https://kotaku.com/twitch-kjanecaron-stream-livestream-fire-burn-down-live-1848913960)
- - [RIP iPod, Home Of The Mobile Gaming Renaissance &lpar;2001–2022&rpar;](https://kotaku.com/apple-ipod-touch-discontinued-fruit-ninja-doodle-jump-b-1848913434)
- - [Elden Ring sold me on the FromSoftware fan experience](https://www.polygon.com/23064311/elden-ring-success-fromsoftware-fans)<!-- GAME:END -->
+ - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)
+ - [Trek to Yomi review](https://www.pcgamer.com/trek-to-yomi-review)
+ - [Google Maps&#39; new Immersive View will let you soar, drone-like, through cities](https://www.pcgamer.com/google-maps-new-immersive-view-will-let-you-soar-drone-line-through-cities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
