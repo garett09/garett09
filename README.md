@@ -184,9 +184,9 @@ Windows                  1 hr 37 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s lore has me obsessively scouring every corner for clues](https://www.pcgamer.com/elden-rings-lore-has-me-obsessively-scouring-every-corner-for-clues)
- - [Free Play Days – WRC 10 and Lawn Mowing Simulator](https://news.xbox.com/en-us/2022/05/12/free-play-days-wrc-10-and-lawn-mowing-simulator/)
- - [Doctor Strange’s writer addresses fans’ biggest question about Wanda](https://www.polygon.com/23067589/doctor-strange-and-the-multiverse-of-madness-is-wanda-dead)<!-- GAME:END -->
+ - [Prey is free on the Epic Games Store right now](https://www.polygon.com/2022/5/12/23068666/prey-jotun-redout-free-games-epic-games-store)
+ - [Stellaris: Overlord introduces my new favourite species origin](https://www.pcgamer.com/stellaris-overlord-introduces-my-new-favourite-species-origin)
+ - [Pick up these 21 great games in PlayStation’s Extended Play sale](https://www.polygon.com/2022/5/12/23068576/playstation-sale-extended-play-best-games-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
