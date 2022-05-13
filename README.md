@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plus size MMA](http://9gag.com/gag/aWg9BrA)
- - 🚯 [Robbing someone with a car.. what could go wrong?](http://9gag.com/gag/ay9P7pV)
- - 🚯 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)<!-- MEMES:END -->
+ - 🚖 [Come at me bro](http://9gag.com/gag/azeQbdZ)
+ - 🚯 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)
+ - 🚯 [Also quicksand! Who put these thoughts in our heads???](http://9gag.com/gag/aE8EveM)<!-- MEMES:END -->
 
 --- 
 
