@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #328: Friday, May 13](https://www.pcgamer.com/wordle-may-13-328-tipsy-meaning-definition)
- - [Magic: The Gathering&#39;s Warhammer crossover includes Blood Bowl and Age of Sigmar cards as well as 40K](https://www.pcgamer.com/magic-the-gatherings-warhammer-crossover-includes-blood-bowl-and-age-of-sigmar-cards-as-well-as-40k)
- - [Six Months Later, Grand Theft Auto: The Trilogy Still Needs Some Work](https://kotaku.com/grand-theft-auto-the-trilogy-definitive-edition-patches-1848920282)<!-- GAME:END -->
+ - [PlayStation president faces backlash after refusing to take a stance on abortion rights](https://www.pcgamer.com/playstation-president-faces-backlash-after-refusing-to-take-a-stance-on-abortion-rights)
+ - [5.2GHz AMD Zen 4 test CPU pops up in database and then vanishes](https://www.pcgamer.com/52ghz-amd-zen-4-test-cpu-pops-up-in-database-and-then-vanishes)
+ - [AMD&#39;s bringing its friends to Computex but Jen-Hsun&#39;s nowhere to be seen](https://www.pcgamer.com/amds-bringing-its-friends-to-computex-but-jen-hsuns-nowhere-to-be-seen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
