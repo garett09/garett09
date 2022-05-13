@@ -195,8 +195,8 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Travel safe](http://9gag.com/gag/a618r3R)
- - 🚯 [*cries*](http://9gag.com/gag/aM4qR6P)
+ - 🚖 [FU Jeff](http://9gag.com/gag/azeQ7zZ)
+ - 🚯 [Talk about a bottomless pit](http://9gag.com/gag/aVxBj7w)
  - 🚯 [Assassin&#39;s creed irl](http://9gag.com/gag/a51Dp6y)<!-- MEMES:END -->
 
 --- 
