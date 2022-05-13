@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your Zoom profile picture](https://www.androidauthority.com/change-zoom-profile-picture-3164953/)
- - [Anonymous bulletin board app Yik Yak is revealing its users’ exact locations](https://www.theverge.com/2022/5/13/23070696/yik-yak-anonymous-app-precise-locations-revealed)
- - [After SoftBank&#39;s subdued earnings call, some investors worry whether Masayoshi Son can handle the current market downturn &lpar;Financial Times&rpar;](http://www.techmeme.com/220513/p14#a220513p14)<!-- TECH:END -->
+ - [Apple’s Lightning could die next year &lpar;Update: Apple testing USB-C iPhones&rpar;](https://www.androidauthority.com/iphone-usb-c-lightning-3163684/)
+ - [Lego’s next batch of official unofficial sets go on sale May 17th, and you’ll want to be quick](https://www.theverge.com/2022/5/13/23071236/lego-ideas-bricklink-designer-program-sale-round-3)
+ - [Twitter CEO: ‘We need to be prepared for all scenarios’](https://www.theverge.com/2022/5/13/23071412/twitter-parag-agrawal-need-to-be-prepared-musk-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
