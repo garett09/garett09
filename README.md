@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta make it more fun](http://9gag.com/gag/adgb6gN)
- - 🚯 [This happened today on a bridge in Warsaw. Police officers with the help of passers-by and cyclists rescued a woman trying to jump.](http://9gag.com/gag/avAmZN5)
- - 🚯 [Hol up](http://9gag.com/gag/a41V4gw)<!-- MEMES:END -->
+ - 🚖 [From barely recognizable to a beautiful animal](http://9gag.com/gag/aggj0Zw)
+ - 🚯 [Choose](http://9gag.com/gag/aggjyKv)
+ - 🚯 [Master chef](http://9gag.com/gag/aGzb9m7)<!-- MEMES:END -->
 
 --- 
 
