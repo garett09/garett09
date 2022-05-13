@@ -196,8 +196,8 @@ Windows                  9 mins              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
- - 🚯 [My time has come](http://9gag.com/gag/aKmp4q3)
- - 🚯 [Travel safe](http://9gag.com/gag/a618r3R)<!-- MEMES:END -->
+ - 🚯 [The sun&#39;s rays can be bad but this time it&#39;s good~](http://9gag.com/gag/aVxBzN8)
+ - 🚯 [Just became a Canadian Permanent Resident !](http://9gag.com/gag/aKmp4Rj)<!-- MEMES:END -->
 
 --- 
 
