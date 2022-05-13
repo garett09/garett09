@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [Critical Role and Dimension 20 are crossing the streams for a new actual play series](https://www.polygon.com/23070658/critical-role-exandria-unlimited-dimension-20-crossover-brennan-lee-mulligan-aabria-iyengar)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
+ - [Elden Ring pulls off a rare feat — outselling Call of Duty](https://www.polygon.com/23070948/elden-ring-sales-chart-npd-call-of-duty-best-sellers)
+ - [Genshin Impact creators reveal new game, Zenless Zone Zero](https://www.polygon.com/23070860/zenless-zone-zero-hoyoverse-new-game-genshin-impact-closed-beta)
+ - [PS5, Xbox Delays Are Setting Switch Up To Dominate The Rest Of 2022](https://kotaku.com/nintendo-switch-2022-games-splatoon-3-xenoblade-chronic-1848922587)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
