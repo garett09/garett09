@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This happened today on a bridge in Warsaw. Police officers with the help of passers-by and cyclists rescued a woman trying to jump.](http://9gag.com/gag/avAmZN5)
- - 🚯 [Lol hilarious](http://9gag.com/gag/a0ZwPEd)
- - 🚯 [`Aren&#39;t you too old to be jealous of other men&#39;s toys?`](http://9gag.com/gag/a31ndwe)<!-- MEMES:END -->
+ - 🚖 [`Aren&#39;t you too old to be jealous of other men&#39;s toys?`](http://9gag.com/gag/a31ndwe)
+ - 🚯 [Muslims swimming over a channel in order to get to Paludan because he&#39;s burning a physical copy of the magical book of Koran again in Bor\u00e5s, Sweden](http://9gag.com/gag/aZrvN7X)
+ - 🚯 [Living @30&#39;s](http://9gag.com/gag/a0ZwL8Z)<!-- MEMES:END -->
 
 --- 
 
