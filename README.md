@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring pulls off a rare feat — outselling Call of Duty](https://www.polygon.com/23070948/elden-ring-sales-chart-npd-call-of-duty-best-sellers)
- - [Genshin Impact creators reveal new game, Zenless Zone Zero](https://www.polygon.com/23070860/zenless-zone-zero-hoyoverse-new-game-genshin-impact-closed-beta)
- - [PS5, Xbox Delays Are Setting Switch Up To Dominate The Rest Of 2022](https://kotaku.com/nintendo-switch-2022-games-splatoon-3-xenoblade-chronic-1848922587)<!-- GAME:END -->
+ - [Everything is anime now, even NFL promo videos](https://www.polygon.com/23071055/chargers-anime-nfl-schedule-release-video-attack-on-titan-one-piece)
+ - [A female video game pioneer was lost to history — until now](https://www.polygon.com/23070918/van-tran-mai-video-game-history-atari-2600-wabbit)
+ - [No Man’s Sky’s latest update is a solid, if shallow, Han Solo fantasy](https://www.polygon.com/23064318/no-mans-sky-outlaws-update-impressions-mechanics-additions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
