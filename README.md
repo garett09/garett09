@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton teases new rower at Homecoming event](https://www.theverge.com/2022/5/13/23068592/peloton-connected-rower-homecoming-tom-cortese)
- - [In Resurrection’s first trailer Rebecca Hall is steadily losing her mind](https://www.theverge.com/2022/5/13/23069295/resurrection-trailer-rebecca-hall-tim-roth)
- - [Twitter shares plummet as Musk raises new doubts about acquisition](https://www.theverge.com/2022/5/13/23070422/musk-twitter-buyout-acquisition-analysts-stock-drop)<!-- TECH:END -->
+ - [As crypto becomes increasingly integrated into the real economy, massive downturns could begin to impact regular people, especially if stablecoins collapse &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220513/p9#a220513p9)
+ - [Samsung prepping huge price hikes on components, which will trickle down to you](https://www.androidauthority.com/samsung-chip-shortage-pricing-3164845/)
+ - [With its Pixel Watch and tablet, Google is getting serious about its own ecosystem](https://www.theverge.com/2022/5/13/23070484/google-ecosystem-pixel-watch-tablet-hardware-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
