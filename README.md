@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPod Creator Tony Fadell Isn&#39;t Buying the Metaverse Hype     - CNET](https://www.cnet.com/tech/mobile/ipod-creator-tony-fadell-isnt-buying-the-metaverse-hype/#ftag=CAD590a51e)
- - [Breaking Down the Mind-Bending Milky Way Black Hole Image     - CNET](https://www.cnet.com/science/space/breaking-down-the-mind-bending-milky-way-black-hole-image/#ftag=CAD590a51e)
- - [Best Mattress in a Box for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Pro 2 rumors, USB-C on iPhone 15, goodbye to iPod &amp; more on the AppleInsider podcast](https://appleinsider.com/articles/22/05/13/airpods-pro-2-rumors-usb-c-on-iphone-15-goodbye-to-ipod-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Some local officials have forced schools and libraries to shut down or restrict e-reader apps like Epic and OverDrive after objections by conservative parents &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220513/p8#a220513p8)
+ - [How Realistic Is the Celestial Navigation in Moon Knight?](https://www.wired.com/story/how-realistic-is-the-celestial-navigation-in-moon-knight)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
