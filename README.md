@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink now available to ship immediately in 32 countries](https://www.theverge.com/2022/5/13/23070269/starlink-availability-32-countries-shipping-immediately)
- - [&#39;Senior Year&#39; Starring Rebel Wilson Is Netflix&#39;s Best Bad Movie     - CNET](https://www.cnet.com/culture/entertainment/senior-year-starring-rebel-wilson-is-netflixs-best-bad-movie/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 4 gains May 2022 update, but where is Assistant?](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)<!-- TECH:END -->
+ - [Musk says his Twitter deal is temporarily on hold &quot;pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users&quot; &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220513/p3#a220513p3)
+ - [Elon Musk says Twitter deal ‘on hold’ after spam/fake account report](https://www.theverge.com/2022/5/13/23070306/elon-musk-twitter-deal-on-hold-spam-inauthentic-accounts)
+ - [Goldman Sachs loses executive who secured Apple Card deal](https://appleinsider.com/articles/22/05/13/goldman-sachs-loses-executive-who-secured-apple-card-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
