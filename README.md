@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SIDS study shows the risks of science hype](https://www.theverge.com/2022/5/13/23071364/sids-research-hype-science-studies)
- - [The Linux Foundation and OpenSSF plan to spend $150M+ to boost open source and supply chain security; Amazon, Google, Intel, Microsoft, and others pledged $30M+ &lpar;David Jones/Cybersecurity Dive&rpar;](http://www.techmeme.com/220513/p16#a220513p16)
- - [Apple&#39;s Tim Cook delivers commencement address at Gallaudet University](https://appleinsider.com/articles/22/05/13/apples-tim-cook-delivers-commencement-address-at-gallaudet-university?utm_medium=rss)<!-- TECH:END -->
+ - [How to record a Zoom meeting](https://www.androidauthority.com/record-zoom-meeting-3165024/)
+ - [PUBG: Battlegrounds is earning a lot more money after going free-to-play](https://www.theverge.com/2022/5/13/23070946/pubg-battlegrounds-free-to-play-money-krafton)
+ - [Source: AliExpress Russia, Alibaba&#39;s joint venture in the country that had ~1,000 employees before March, laid off ~40% of staff since the invasion of Ukraine &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220513/p17#a220513p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
