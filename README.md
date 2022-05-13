@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything is anime now, even NFL promo videos](https://www.polygon.com/23071055/chargers-anime-nfl-schedule-release-video-attack-on-titan-one-piece)
- - [A female video game pioneer was lost to history — until now](https://www.polygon.com/23070918/van-tran-mai-video-game-history-atari-2600-wabbit)
- - [No Man’s Sky’s latest update is a solid, if shallow, Han Solo fantasy](https://www.polygon.com/23064318/no-mans-sky-outlaws-update-impressions-mechanics-additions)<!-- GAME:END -->
+ - [Jimmy Neutron’s dad tries really hard to be cool in new Nickelodeon All-Star Brawl trailer](https://www.polygon.com/23071106/nickelodeon-all-star-brawl-jenny-xj-9-rocko-hugh-neutron)
+ - [Rockstar is remaking Max Payne 3&#39;s soundtrack](https://www.pcgamer.com/rockstar-is-remaking-max-payne-3s-soundtrack)
+ - [Magic: The Gathering’s first Warhammer 40,000 cards are sufficiently grim, dark](https://www.polygon.com/23071080/mtg-40k-preview-cards-deck-lists-abaddon-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
