@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: Google CEO Sundar Pichai on Google I/O 2022](https://www.theverge.com/2022/5/13/23070521/vergecast-podcast-497-google-io-sundar-pichai-interview)
- - [SEC filing: Inflection AI, a human-computer interface startup headed by LinkedIn&#39;s Reid Hoffman and DeepMind&#39;s Mustafa Suleyman, raises $225M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220513/p12#a220513p12)
- - [Deals: 2022 Razer Blade 14 gaming laptops are discounted, delivering cheapest prices available](https://appleinsider.com/articles/22/05/13/deals-2022-razer-blade-14-gaming-laptops-are-discounted-delivering-cheapest-prices-available?utm_medium=rss)<!-- TECH:END -->
+ - [After SoftBank&#39;s subdued earnings call, some investors worry whether Masayoshi Son can handle the current market downturn &lpar;Financial Times&rpar;](http://www.techmeme.com/220513/p14#a220513p14)
+ - [A new bundle of tabletop RPGs is raising money for reproductive rights](https://www.theverge.com/2022/5/13/23071134/ttrpgs-reproductive-rights-itchio-bundle)
+ - [How to sync music, podcasts, and audiobooks on an Apple Watch with watchOS 8](https://appleinsider.com/articles/21/11/05/how-to-sync-music-podcasts-and-audiobooks-on-an-apple-watch-with-watchos-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
