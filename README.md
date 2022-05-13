@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Boss Asks Staff To Respect All Abortion Opinions In Email About Cats](https://kotaku.com/playstation-boss-jim-ryan-ceo-abortion-pro-life-memo-le-1848919014)
- - [Destiny 2’s Iron Banner gets a big refresh with the return of Rift and a brand-new map](https://www.polygon.com/23069346/destiny-2-iron-banner-rework-new-map-disjunction)
- - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon)<!-- GAME:END -->
+ - [Six Months Later, Grand Theft Auto: The Trilogy Still Needs Some Work](https://kotaku.com/grand-theft-auto-the-trilogy-definitive-edition-patches-1848920282)
+ - [I cannot stress enough that Overwatch 2 isn&#39;t &#39;Overwatch 2&#39;](https://www.pcgamer.com/i-cannot-stress-enough-that-overwatch-2-isnt-overwatch-2)
+ - [Skyrim Player Recreates Themselves Perfectly In-Game](https://kotaku.com/skyrim-elder-scrolls-face-character-creation-mods-pc-be-1848919993)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
