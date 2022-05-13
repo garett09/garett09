@@ -196,8 +196,8 @@ Windows                  9 mins              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Some of our Ministers and MP&#39;s in Georgia, I think we have different priorities on elcetions](http://9gag.com/gag/aM4y16P)
- - 🚯 [Heroes helping heroes](http://9gag.com/gag/apg8EXD)
- - 🚯 [Come at me bro](http://9gag.com/gag/azeQbdZ)<!-- MEMES:END -->
+ - 🚯 [Come at me bro](http://9gag.com/gag/azeQbdZ)
+ - 🚯 [He is just brilliant in that movie.](http://9gag.com/gag/abgE5pB)<!-- MEMES:END -->
 
 --- 
 
