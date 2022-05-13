@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk says his Twitter deal is temporarily on hold &quot;pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users&quot; &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220513/p3#a220513p3)
- - [Elon Musk says Twitter deal ‘on hold’ after spam/fake account report](https://www.theverge.com/2022/5/13/23070306/elon-musk-twitter-deal-on-hold-spam-inauthentic-accounts)
- - [Goldman Sachs loses executive who secured Apple Card deal](https://appleinsider.com/articles/22/05/13/goldman-sachs-loses-executive-who-secured-apple-card-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Arm reports 2021 revenue rose 35% YoY to $2.7B, driven by licensing, up 61% YoY to $1.13B, and royalties, up 20% YoY to $1.54B; 29.2B ARM chips shipped in 2021 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220513/p6#a220513p6)
+ - [No Joke: Google&#39;s AI is Smart Enough To Understand Your Humor     - CNET](https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/#ftag=CAD590a51e)
+ - [A Samsung.com ‘expert’ has been fired after speaking up about working for free](https://www.theverge.com/2022/5/13/23067868/samsung-expert-ibbu-terminated-pay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
