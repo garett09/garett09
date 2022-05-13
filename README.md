@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Lightning could die next year &lpar;Update: Apple testing USB-C iPhones&rpar;](https://www.androidauthority.com/iphone-usb-c-lightning-3163684/)
- - [Lego’s next batch of official unofficial sets go on sale May 17th, and you’ll want to be quick](https://www.theverge.com/2022/5/13/23071236/lego-ideas-bricklink-designer-program-sale-round-3)
- - [Twitter CEO: ‘We need to be prepared for all scenarios’](https://www.theverge.com/2022/5/13/23071412/twitter-parag-agrawal-need-to-be-prepared-musk-deal)<!-- TECH:END -->
+ - [SIDS study shows the risks of science hype](https://www.theverge.com/2022/5/13/23071364/sids-research-hype-science-studies)
+ - [The Linux Foundation and OpenSSF plan to spend $150M+ to boost open source and supply chain security; Amazon, Google, Intel, Microsoft, and others pledged $30M+ &lpar;David Jones/Cybersecurity Dive&rpar;](http://www.techmeme.com/220513/p16#a220513p16)
+ - [Apple&#39;s Tim Cook delivers commencement address at Gallaudet University](https://appleinsider.com/articles/22/05/13/apples-tim-cook-delivers-commencement-address-at-gallaudet-university?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
