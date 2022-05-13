@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm reports 2021 revenue rose 35% YoY to $2.7B, driven by licensing, up 61% YoY to $1.13B, and royalties, up 20% YoY to $1.54B; 29.2B ARM chips shipped in 2021 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220513/p6#a220513p6)
- - [No Joke: Google&#39;s AI is Smart Enough To Understand Your Humor     - CNET](https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/#ftag=CAD590a51e)
- - [A Samsung.com ‘expert’ has been fired after speaking up about working for free](https://www.theverge.com/2022/5/13/23067868/samsung-expert-ibbu-terminated-pay)<!-- TECH:END -->
+ - [iPod Creator Tony Fadell Isn&#39;t Buying the Metaverse Hype     - CNET](https://www.cnet.com/tech/mobile/ipod-creator-tony-fadell-isnt-buying-the-metaverse-hype/#ftag=CAD590a51e)
+ - [Breaking Down the Mind-Bending Milky Way Black Hole Image     - CNET](https://www.cnet.com/science/space/breaking-down-the-mind-bending-milky-way-black-hole-image/#ftag=CAD590a51e)
+ - [Best Mattress in a Box for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
