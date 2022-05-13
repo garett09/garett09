@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Senior Year&#39; Starring Rebel Wilson Is Netflix&#39;s Best Bad Movie     - CNET](https://www.cnet.com/culture/entertainment/senior-year-starring-rebel-wilson-is-netflixs-best-bad-movie/#ftag=CAD590a51e)
  - [Samsung Galaxy Watch 4 gains May 2022 update, but where is Assistant?](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [The Best Horror Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-to-watch-on-prime-video-now/#ftag=CAD590a51e)
- - [If Roe v. Wade is overturned, the enforcement of US laws should be seen as a strong argument for strengthening encryption, not weakening it &lpar;Riana Pfefferkorn/Stanford CIS Blog&rpar;](http://www.techmeme.com/220513/p1#a220513p1)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-to-watch-on-prime-video-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
