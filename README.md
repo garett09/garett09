@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crypto Pokémon Clone’s Currency Plunges To Less Than A Penny](https://kotaku.com/axie-infinity-crypto-crash-smooth-love-potion-token-val-1848920116)
- - [Bag this all-AMD gaming PC deal with RX 6600XT and six-core Ryzen for just $1,100](https://www.pcgamer.com/bag-this-all-amd-gaming-pc-deal-with-rx-6600xt-and-six-core-ryzen-for-just-dollar1100)
- - [Silent Hill leak seems all-but-confirmed by Konami DMCA strike](https://www.pcgamer.com/silent-hill-leak-seems-all-but-confirmed-by-konami-dmca-strike)<!-- GAME:END -->
+ - [Why Elden Ring’s skeletons have such good bones](https://www.polygon.com/videos/2022/5/13/23066876/elden-ring-skeletons-history-video)
+ - [Everything we know about World of Warcraft: Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-of-the-lich-king-wotlk-classic-release-date)
+ - [Next Week on Xbox: May 16 to 20](https://news.xbox.com/en-us/2022/05/13/next-week-on-xbox-may-16-to-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
