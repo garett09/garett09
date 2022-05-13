@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta make it more fun](http://9gag.com/gag/adgb6gN)
- - 🚯 [Some of our Ministers and MP&#39;s in Georgia, I think we have different priorities on elcetions](http://9gag.com/gag/aM4y16P)
- - 🚯 [He is just brilliant in that movie.](http://9gag.com/gag/abgE5pB)<!-- MEMES:END -->
+ - 🚖 [Some of our Ministers and MP&#39;s in Georgia, I think we have different priorities on elcetions](http://9gag.com/gag/aM4y16P)
+ - 🚯 [Let&#39;s start making it popular as Karen](http://9gag.com/gag/ay9P5eX)
+ - 🚯 [Gotta make it more fun](http://9gag.com/gag/adgb6gN)<!-- MEMES:END -->
 
 --- 
 
