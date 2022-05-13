@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)
- - 🚯 [Living @30&#39;s](http://9gag.com/gag/a0ZwL8Z)
- - 🚯 [This may be the most evil person on the planet!!](http://9gag.com/gag/azeQb0b)<!-- MEMES:END -->
+ - 🚖 [She did him dirty](http://9gag.com/gag/a21GYPp)
+ - 🚯 [Meet the tiktok general](http://9gag.com/gag/aqGA2ov)
+ - 🚯 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)<!-- MEMES:END -->
 
 --- 
 
