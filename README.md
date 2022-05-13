@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come at me bro](http://9gag.com/gag/azeQbdZ)
+ - 🚖 [Hol up](http://9gag.com/gag/a41V4gw)
  - 🚯 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)
- - 🚯 [Also quicksand! Who put these thoughts in our heads???](http://9gag.com/gag/aE8EveM)<!-- MEMES:END -->
+ - 🚯 [Space age design](http://9gag.com/gag/aQXVqq2)<!-- MEMES:END -->
 
 --- 
 
