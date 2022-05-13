@@ -195,8 +195,8 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting up earliest](http://9gag.com/gag/apg8E95)
- - 🚯 [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
+ - 🚖 [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
+ - 🚯 [My time has come](http://9gag.com/gag/aKmp4q3)
  - 🚯 [Travel safe](http://9gag.com/gag/a618r3R)<!-- MEMES:END -->
 
 --- 
