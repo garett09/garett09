@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation president faces backlash after refusing to take a stance on abortion rights](https://www.pcgamer.com/playstation-president-faces-backlash-after-refusing-to-take-a-stance-on-abortion-rights)
- - [5.2GHz AMD Zen 4 test CPU pops up in database and then vanishes](https://www.pcgamer.com/52ghz-amd-zen-4-test-cpu-pops-up-in-database-and-then-vanishes)
- - [AMD&#39;s bringing its friends to Computex but Jen-Hsun&#39;s nowhere to be seen](https://www.pcgamer.com/amds-bringing-its-friends-to-computex-but-jen-hsuns-nowhere-to-be-seen)<!-- GAME:END -->
+ - [Crypto Pokémon Clone’s Currency Plunges To Less Than A Penny](https://kotaku.com/axie-infinity-crypto-crash-smooth-love-potion-token-val-1848920116)
+ - [Bag this all-AMD gaming PC deal with RX 6600XT and six-core Ryzen for just $1,100](https://www.pcgamer.com/bag-this-all-amd-gaming-pc-deal-with-rx-6600xt-and-six-core-ryzen-for-just-dollar1100)
+ - [Silent Hill leak seems all-but-confirmed by Konami DMCA strike](https://www.pcgamer.com/silent-hill-leak-seems-all-but-confirmed-by-konami-dmca-strike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
