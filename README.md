@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Sports](http://9gag.com/gag/aVxBWVn)
- - 🚯 [Suggestions?](http://9gag.com/gag/apg80ZM)
- - 🚯 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)<!-- MEMES:END -->
+ - 🚖 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)
+ - 🚯 [Looking back childhood cartoons this show didn&#39;t get as much appreciation as some of the other bangers of its time , some of the animations in show are god tier](http://9gag.com/gag/avAmPMn)
+ - 🚯 [Meet the tiktok general](http://9gag.com/gag/aqGA2ov)<!-- MEMES:END -->
 
 --- 
 
