@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FU Jeff](http://9gag.com/gag/azeQ7zZ)
- - 🚯 [Talk about a bottomless pit](http://9gag.com/gag/aVxBj7w)
- - 🚯 [Assassin&#39;s creed irl](http://9gag.com/gag/a51Dp6y)<!-- MEMES:END -->
+ - 🚖 [Getting up earliest](http://9gag.com/gag/apg8E95)
+ - 🚯 [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
+ - 🚯 [Travel safe](http://9gag.com/gag/a618r3R)<!-- MEMES:END -->
 
 --- 
 
