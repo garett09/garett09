@@ -188,9 +188,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 rumors, USB-C on iPhone 15, goodbye to iPod &amp; more on the AppleInsider podcast](https://appleinsider.com/articles/22/05/13/airpods-pro-2-rumors-usb-c-on-iphone-15-goodbye-to-ipod-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Some local officials have forced schools and libraries to shut down or restrict e-reader apps like Epic and OverDrive after objections by conservative parents &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220513/p8#a220513p8)
- - [How Realistic Is the Celestial Navigation in Moon Knight?](https://www.wired.com/story/how-realistic-is-the-celestial-navigation-in-moon-knight)<!-- TECH:END -->
+ - [Peloton teases new rower at Homecoming event](https://www.theverge.com/2022/5/13/23068592/peloton-connected-rower-homecoming-tom-cortese)
+ - [In Resurrection’s first trailer Rebecca Hall is steadily losing her mind](https://www.theverge.com/2022/5/13/23069295/resurrection-trailer-rebecca-hall-tim-roth)
+ - [Twitter shares plummet as Musk raises new doubts about acquisition](https://www.theverge.com/2022/5/13/23070422/musk-twitter-buyout-acquisition-analysts-stock-drop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
