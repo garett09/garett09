@@ -196,8 +196,8 @@ Windows                  9 mins              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This happened today on a bridge in Warsaw. Police officers with the help of passers-by and cyclists rescued a woman trying to jump.](http://9gag.com/gag/avAmZN5)
- - 🚯 [Suggestions?](http://9gag.com/gag/apg80ZM)
- - 🚯 [Lol hilarious](http://9gag.com/gag/a0ZwPEd)<!-- MEMES:END -->
+ - 🚯 [Lol hilarious](http://9gag.com/gag/a0ZwPEd)
+ - 🚯 [`Aren&#39;t you too old to be jealous of other men&#39;s toys?`](http://9gag.com/gag/a31ndwe)<!-- MEMES:END -->
 
 --- 
 
