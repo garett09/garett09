@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Aren&#39;t you too old to be jealous of other men&#39;s toys?`](http://9gag.com/gag/a31ndwe)
- - 🚯 [Muslims swimming over a channel in order to get to Paludan because he&#39;s burning a physical copy of the magical book of Koran again in Bor\u00e5s, Sweden](http://9gag.com/gag/aZrvN7X)
- - 🚯 [Living @30&#39;s](http://9gag.com/gag/a0ZwL8Z)<!-- MEMES:END -->
+ - 🚖 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)
+ - 🚯 [Living @30&#39;s](http://9gag.com/gag/a0ZwL8Z)
+ - 🚯 [This may be the most evil person on the planet!!](http://9gag.com/gag/azeQb0b)<!-- MEMES:END -->
 
 --- 
 
