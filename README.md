@@ -195,9 +195,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
- - 🚯 [The sun&#39;s rays can be bad but this time it&#39;s good~](http://9gag.com/gag/aVxBzN8)
- - 🚯 [Just became a Canadian Permanent Resident !](http://9gag.com/gag/aKmp4Rj)<!-- MEMES:END -->
+ - 🚖 [Plus size MMA](http://9gag.com/gag/aWg9BrA)
+ - 🚯 [Robbing someone with a car.. what could go wrong?](http://9gag.com/gag/ay9P7pV)
+ - 🚯 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)<!-- MEMES:END -->
 
 --- 
 
