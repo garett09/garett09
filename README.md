@@ -181,9 +181,9 @@ Windows                  9 mins              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [13 Killer Strategies For Dead By Daylight](https://kotaku.com/dead-by-daylight-survival-horror-multiplayer-resident-e-1848924411)
  - [Company creates, then deletes NFTs of retro games it didn&#39;t own the rights to](https://www.pcgamer.com/company-creates-then-deletes-nfts-of-retro-games-it-didnt-own-the-rights-to)
- - [Watching this gamer true crime show is certainly a way to spend 2 hours](https://www.pcgamer.com/watching-this-gamer-true-crime-show-is-certainly-a-way-to-spend-2-hours)
- - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)<!-- GAME:END -->
+ - [This gamer true crime show featuring Discord sleuths is certainly a way to spend 2 hours](https://www.pcgamer.com/watching-this-gamer-true-crime-show-is-certainly-a-way-to-spend-2-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
