@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lawsuit against videogame grading service Wata alleges manipulation of retro game prices](https://www.pcgamer.com/lawsuit-against-videogame-grading-service-wata-alleges-manipulation-of-retro-game-prices)
  - [Leak alleges Arma Reforger will be next game in series and a bridge to Arma 4](https://www.pcgamer.com/leak-alleges-arma-reforger-will-be-next-game-in-series-and-a-bridge-to-arma-4)
- - [After 40 years, the creator of one of gaming&#39;s first female protagonists has been found](https://www.pcgamer.com/after-40-years-the-creator-of-one-of-gamings-first-female-protagonists-has-been-found)
- - [11 thrilling Stephen King adaptations you can watch at home](https://www.polygon.com/what-to-watch/23056636/stephen-king-movies-best-adaptations-list)<!-- GAME:END -->
+ - [After 40 years, the creator of one of gaming&#39;s first female protagonists has been found](https://www.pcgamer.com/after-40-years-the-creator-of-one-of-gamings-first-female-protagonists-has-been-found)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
