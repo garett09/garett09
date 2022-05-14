@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Sam Bankman-Fried on the crypto hype, blockchain&#39;s potential to build a fairer financial system, philanthropy, and more &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220514/p9#a220514p9)
  - [Jaybird Vista 2 review: One size doesn’t fit all](https://www.androidauthority.com/jaybird-vista-2-review-3160469/)
- - [SteelSeries is offering up to 40 percent off gaming headsets and mice today](https://www.theverge.com/good-deals/2022/5/14/23068558/steelseries-arctis-gaming-headset-aerox-3-mouse-razer-kiyo-pro-webcam-google-pixel-6-deal-sale)
- - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Epic Cameo and Sam Raimi Nod, Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-epic-cameo-and-sam-raimi-nod-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
