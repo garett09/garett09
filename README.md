@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
- - 🚯 [Girls: They&#39;re probably flirting with other girls. Boys:](http://9gag.com/gag/angVjYE)
- - 🚯 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)<!-- MEMES:END -->
+ - 🚖 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)
+ - 🚯 [A 5th century swimming pool in India that&#39;s still used to this day.](http://9gag.com/gag/aM4yZm6)
+ - 🚯 [Forklift certification?](http://9gag.com/gag/aM4yjBx)<!-- MEMES:END -->
 
 --- 
 
