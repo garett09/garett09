@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Summer time](http://9gag.com/gag/aggjLzn)
- - 🚯 [Sore throat](http://9gag.com/gag/aAGZD0g)
- - 🚯 [`Wanna earn a little extra cash sweetheart?`](http://9gag.com/gag/aYrmxZm)<!-- MEMES:END -->
+ - 🚖 [Making $25 in Nebraska](http://9gag.com/gag/aLvrjjg)
+ - 🚯 [This German dude figured out Physics](http://9gag.com/gag/aXrexrb)
+ - 🚯 [Sore throat](http://9gag.com/gag/aAGZD0g)<!-- MEMES:END -->
 
 --- 
 
