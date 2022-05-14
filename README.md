@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dayumm... We need a movie out of this, lads! Lol](http://9gag.com/gag/azeQj7x)
- - 🚯 [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
- - 🚯 [Male solidarity](http://9gag.com/gag/abgE08b)<!-- MEMES:END -->
+ - 🚖 [But will they listen?](http://9gag.com/gag/a11wdWb)
+ - 🚯 [Crypto recently be like:](http://9gag.com/gag/a81zp7Z)
+ - 🚯 [Making new friends](http://9gag.com/gag/aWg9M32)<!-- MEMES:END -->
 
 --- 
 
