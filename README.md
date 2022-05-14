@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and a court document: Indian tax officials froze $478M worth of Xiaomi funds in February as part of an investigation into alleged tax evasion &lpar;Reuters&rpar;](http://www.techmeme.com/220514/p1#a220514p1)
  - [Sources: Samsung is talking to clients about hiking chipmaking prices by up to 20% in 2022, joining TSMC and UMC, who are planning another round of price hikes &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220513/p23#a220513p23)
- - [A look at My Friends My Data, a group of startup founders pushing for legislation to force tech giants like Meta to let creators transfer followers between apps &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220513/p22#a220513p22)
- - [Tech industry appeals the bad Texas social media law to the Supreme Court](https://www.theverge.com/2022/5/13/23072310/netchoice-texas-social-media-law-supreme-court-appeal)<!-- TECH:END -->
+ - [Norm Macdonald Recorded a New Netflix Comedy Special Before He Died     - CNET](https://www.cnet.com/culture/entertainment/norm-macdonald-nothing-special-recorded-a-new-netflix-comedy-special-before-he-died/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
