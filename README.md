@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Learned this in kindergarten](http://9gag.com/gag/aNP3dG4)
+ - 🚖 [Now, that&#39;s an idea!](http://9gag.com/gag/aRrDmj5)
  - 🚯 [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)
- - 🚯 [Crypto recently be like:](http://9gag.com/gag/a81zp7Z)<!-- MEMES:END -->
+ - 🚯 [Instant Karma](http://9gag.com/gag/a618Mnm)<!-- MEMES:END -->
 
 --- 
 
