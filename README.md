@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Off to stratosphere](http://9gag.com/gag/a71AMoL)
- - 🚯 [I made this wall in my week off. Best vacation ever. I am a software developer so this kind of work feels sooo good and rewarding. Can recommend.](http://9gag.com/gag/aRrD3YA)
- - 🚯 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)<!-- MEMES:END -->
+ - 🚖 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
+ - 🚯 [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - 🚯 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)<!-- MEMES:END -->
 
 --- 
 
