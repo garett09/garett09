@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Learned this in kindergarten](http://9gag.com/gag/aNP3dG4)
- - 🚯 [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
- - 🚯 [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)<!-- MEMES:END -->
+ - 🚯 [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)
+ - 🚯 [Crypto recently be like:](http://9gag.com/gag/a81zp7Z)<!-- MEMES:END -->
 
 --- 
 
