@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Need to catch all the virus! Everyday you think they can\u2019t get more stupid but wake up with a surprise.](http://9gag.com/gag/aNP3AQw)
- - 🚯 [This place is Cologne Cathedral in Germany if you wanted to know](http://9gag.com/gag/aXreqA2)
- - 🚯 [Are you winning, son?](http://9gag.com/gag/ay9PDDr)<!-- MEMES:END -->
+ - 🚖 [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - 🚯 [Safety first...](http://9gag.com/gag/a618bOL)
+ - 🚯 [Summer time](http://9gag.com/gag/aggjLzn)<!-- MEMES:END -->
 
 --- 
 
