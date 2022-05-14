@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But will they listen?](http://9gag.com/gag/a11wdWb)
- - 🚯 [Crypto recently be like:](http://9gag.com/gag/a81zp7Z)
- - 🚯 [Making new friends](http://9gag.com/gag/aWg9M32)<!-- MEMES:END -->
+ - 🚖 [Learned this in kindergarten](http://9gag.com/gag/aNP3dG4)
+ - 🚯 [But will they listen?](http://9gag.com/gag/a11wdWb)
+ - 🚯 [Furry love](http://9gag.com/gag/a81zpvO)<!-- MEMES:END -->
 
 --- 
 
