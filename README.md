@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)
- - [Kendrick Lamar sets record for most first-day Apple Music album streams for 2022](https://appleinsider.com/articles/22/05/14/kendrick-lamar-sets-record-for-most-first-day-apple-music-album-streams-for-2022?utm_medium=rss)
- - [A Q&amp;A with SEC commissioner and &quot;Crypto Mom&quot; Hester Peirce, on her criticisms of the SEC&#39;s approach to crypto, chairman Gary Gensler&#39;s leadership, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220514/p8#a220514p8)<!-- TECH:END -->
+ - [Jaybird Vista 2 review: One size doesn’t fit all](https://www.androidauthority.com/jaybird-vista-2-review-3160469/)
+ - [SteelSeries is offering up to 40 percent off gaming headsets and mice today](https://www.theverge.com/good-deals/2022/5/14/23068558/steelseries-arctis-gaming-headset-aerox-3-mouse-razer-kiyo-pro-webcam-google-pixel-6-deal-sale)
+ - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
