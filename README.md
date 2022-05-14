@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Need to catch all the virus! Everyday you think they can\u2019t get more stupid but wake up with a surprise.](http://9gag.com/gag/aNP3AQw)
- - 🚯 [Summer time](http://9gag.com/gag/aggjLzn)
- - 🚯 [Now, that&#39;s an idea!](http://9gag.com/gag/aRrDmj5)<!-- MEMES:END -->
+ - 🚖 [Powerful testimony about the reality of poverty in the U.S.](http://9gag.com/gag/aBnow0Z)
+ - 🚯 [Need to catch all the virus! Everyday you think they can\u2019t get more stupid but wake up with a surprise.](http://9gag.com/gag/aNP3AQw)
+ - 🚯 [Are you winning, son?](http://9gag.com/gag/ay9PDDr)<!-- MEMES:END -->
 
 --- 
 
