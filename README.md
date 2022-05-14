@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phishing attack pop-up targets MetaMask users visiting popular crypto sites](https://www.theverge.com/2022/5/13/23071786/etherscan-coingecko-crypto-phishing-ad-popup-coinzilla-metamask)
- - [Over $1.2B of Luna Foundation Guard&#39;s bitcoin reserves remains unaccounted for; LFG accumulated $2B+ in bitcoin reserves and loaned $750M to market makers &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220513/p18#a220513p18)
- - [Watch This NFL Team&#39;s Impressive Anime-Inspired Schedule Release Video     - CNET](https://www.cnet.com/culture/sports/watch-this-nfl-teams-impressive-anime-inspired-schedule-release-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Chromebook deals you can get right now](https://www.theverge.com/good-deals/22912456/best-chromebook-deals)
+ - [Two groups representing Meta, Google, and others ask SCOTUS to block Texas&#39; social media law prohibiting content moderation, arguing the law is unconstitutional &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220513/p21#a220513p21)
+ - [Halo Infinite’s next update will bring back the campaign’s secret ultrapowered gun](https://www.theverge.com/2022/5/13/23071831/halo-infinite-bring-back-tank-gun-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
