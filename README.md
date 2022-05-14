@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas&#39; content moderation law is clearly unconstitutional and forces social media services to allow a torrent of spam or face a deluge of frivolous litigation &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220514/p7#a220514p7)
- - [iPhone supplier Pegatron issues production warning over COVID lockdowns](https://appleinsider.com/articles/22/05/14/iphone-supplier-pegatron-issues-production-warning-over-covid-lockdowns?utm_medium=rss)
- - [Is the Google Pixel 6a just a little too expensive?](https://www.androidauthority.com/google-pixel-6a-price-3164299/)<!-- TECH:END -->
+ - [Grab This Discounted Mini Flashlight Keychain for Less Than $5     - CNET](https://www.cnet.com/tech/computing/grab-this-discounted-mini-flashlight-keychain-for-less-than-5/#ftag=CAD590a51e)
+ - [Get 50% Off the Razer Battle Bundle and Pay Just $75 -- Today Only     - CNET](https://www.cnet.com/tech/gaming/get-50-off-the-razer-battle-bundle-and-pay-just-75-today-only/#ftag=CAD590a51e)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-432-3164501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
