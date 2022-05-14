@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fastest way to empty a bottle](http://9gag.com/gag/aVxBMzw)
- - 🚯 [Everything reminds me of her](http://9gag.com/gag/aLvr8K6)
- - 🚯 [In other news, water is wet](http://9gag.com/gag/aVxBqE2)<!-- MEMES:END -->
+ - 🚖 [Off to stratosphere](http://9gag.com/gag/a71AMoL)
+ - 🚯 [I made this wall in my week off. Best vacation ever. I am a software developer so this kind of work feels sooo good and rewarding. Can recommend.](http://9gag.com/gag/aRrD3YA)
+ - 🚯 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)<!-- MEMES:END -->
 
 --- 
 
