@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a plant that was grown in Lunar Soil](http://9gag.com/gag/aOQGvov)
- - 🚯 [I need a series about this](http://9gag.com/gag/awzvx2Q)
- - 🚯 [Releasing the Pressure](http://9gag.com/gag/a21GmYw)<!-- MEMES:END -->
+ - 🚖 [I need a series about this](http://9gag.com/gag/awzvx2Q)
+ - 🚯 [Making new friends](http://9gag.com/gag/aWg9M32)
+ - 🚯 [Well that explains a lot](http://9gag.com/gag/amgn9v9)<!-- MEMES:END -->
 
 --- 
 
