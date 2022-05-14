@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)
- - 🚯 [Looking back childhood cartoons this show didn&#39;t get as much appreciation as some of the other bangers of its time , some of the animations in show are god tier](http://9gag.com/gag/avAmPMn)
- - 🚯 [Meet the tiktok general](http://9gag.com/gag/aqGA2ov)<!-- MEMES:END -->
+ - 🚖 [This is a plant that was grown in Lunar Soil](http://9gag.com/gag/aOQGvov)
+ - 🚯 [I need a series about this](http://9gag.com/gag/awzvx2Q)
+ - 🚯 [Releasing the Pressure](http://9gag.com/gag/a21GmYw)<!-- MEMES:END -->
 
 --- 
 
