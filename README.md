@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab This Discounted Mini Flashlight Keychain for Less Than $5     - CNET](https://www.cnet.com/tech/computing/grab-this-discounted-mini-flashlight-keychain-for-less-than-5/#ftag=CAD590a51e)
- - [Get 50% Off the Razer Battle Bundle and Pay Just $75 -- Today Only     - CNET](https://www.cnet.com/tech/gaming/get-50-off-the-razer-battle-bundle-and-pay-just-75-today-only/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-432-3164501/)<!-- TECH:END -->
+ - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)
+ - [Kendrick Lamar sets record for most first-day Apple Music album streams for 2022](https://appleinsider.com/articles/22/05/14/kendrick-lamar-sets-record-for-most-first-day-apple-music-album-streams-for-2022?utm_medium=rss)
+ - [A Q&amp;A with SEC commissioner and &quot;Crypto Mom&quot; Hester Peirce, on her criticisms of the SEC&#39;s approach to crypto, chairman Gary Gensler&#39;s leadership, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220514/p8#a220514p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
