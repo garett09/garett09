@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need a series about this](http://9gag.com/gag/awzvx2Q)
- - 🚯 [Making new friends](http://9gag.com/gag/aWg9M32)
- - 🚯 [Well that explains a lot](http://9gag.com/gag/amgn9v9)<!-- MEMES:END -->
+ - 🚖 [Dayumm... We need a movie out of this, lads! Lol](http://9gag.com/gag/azeQj7x)
+ - 🚯 [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
+ - 🚯 [Male solidarity](http://9gag.com/gag/abgE08b)<!-- MEMES:END -->
 
 --- 
 
