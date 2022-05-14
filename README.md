@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HyperX Quadcast S Is Our Go-To Streaming Mic](https://www.wired.com/review/hyperx-quadcast-s)
- - [Farming Drives Toward ‘Precision Agriculture’ Technologies](https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies)
- - [The Weekly Authority: 📱 Ooh, Google I/O](https://www.androidauthority.com/the-weekly-authority-may-14-2022-194-3164224/)<!-- TECH:END -->
+ - [Best Cheap Video Doorbells for 2022     - CNET](https://www.cnet.com/news/best-cheap-video-doorbells/#ftag=CAD590a51e)
+ - [Peloton’s ‘Worst-Kept Secret’ Is Out &lpar;Yes, It’s a Rowing Machine&rpar;](https://www.wired.com/story/peloton-rowing-machine-revealed)
+ - [The NSA Swears It Has ‘No Backdoors’ in Next-Gen Encryption](https://www.wired.com/story/nsa-backdoor-encryption-security-roundup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
