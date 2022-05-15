@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I only had the segs with the lunch lady.](http://9gag.com/gag/avAm51W)
- - 🚯 [Nice presentation](http://9gag.com/gag/aegWDvQ)
- - 🚯 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)<!-- MEMES:END -->
+ - 🚖 [These rocks contain ancient water that has been trapped inside them for millions of years.](http://9gag.com/gag/aNP3PZ0)
+ - 🚯 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)
+ - 🚯 [Finnish President and PM said Finland will apply to NATO](http://9gag.com/gag/aLvrpZ5)<!-- MEMES:END -->
 
 --- 
 
