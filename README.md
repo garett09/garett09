@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 16 will have refreshed Apple apps but look the same as iOS 15](https://appleinsider.com/articles/22/05/15/ios-16-will-have-refreshed-apple-apps-but-look-the-same?utm_medium=rss)
  - [Google still doesn’t understand what privacy means](https://www.androidauthority.com/google-io-2022-privacy-nonsense-3164427/)
- - [iOS 16 will have refreshed Apple apps but look the same](https://appleinsider.com/articles/22/05/15/ios-16-will-have-refreshed-apple-apps-but-look-the-same?utm_medium=rss)
- - [When the iPhone goes USB-C, other lightning accessories will too says Kuo](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video: The 45 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-45-best-series-to-watch-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
