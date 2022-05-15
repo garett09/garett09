@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Germanium, a silvery grey metalloid, is transparent in infrared](http://9gag.com/gag/aGzbdn6)
- - 🚯 [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
+ - 🚯 [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)
  - 🚯 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)<!-- MEMES:END -->
 
 --- 
