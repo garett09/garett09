@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
- - 🚯 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)
- - 🚯 [That\u2019s how I do things](http://9gag.com/gag/a11wRGG)<!-- MEMES:END -->
+ - 🚖 [Germanium, a silvery grey metalloid, is transparent in infrared](http://9gag.com/gag/aGzbdn6)
+ - 🚯 [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
+ - 🚯 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)<!-- MEMES:END -->
 
 --- 
 
