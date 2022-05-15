@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Stay Cool Without Air-Conditioning](https://www.wired.com/story/how-to-stay-cool-without-air-conditioning)
- - [Tips for Cargo Biking With Your Kids](https://www.wired.com/story/how-to-family-ebike-with-kids)
- - [KEF’s New LS60 Wireless Speakers Are an Absolute Triumph](https://www.wired.com/review/review-kef-ls60-wireless)<!-- TECH:END -->
+ - [&#39;Top Gun: Maverick&#39; Won&#39;t Stream When It Hits Theaters May 24, Sorry     - CNET](https://www.cnet.com/tech/services-and-software/top-gun-maverick-wont-stream-when-it-hits-theaters-may-24/#ftag=CAD590a51e)
+ - [The best Google Pixel 6a alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/google-pixel-6a-alternatives-3164404/)
+ - [How TikTok and YouTube Turned Depp v. Heard Into the New &#39;Trial of the Century&#39;     - CNET](https://www.cnet.com/culture/how-tiktok-and-youtube-turned-depp-vs-heard-into-the-new-trial-of-the-century/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
