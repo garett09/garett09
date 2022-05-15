@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a demake of Portal... for the N64](https://www.pcgamer.com/heres-a-demake-of-portal-for-the-n64)
  - [Build broken combos to gun down cosmic horrors in 20 Minutes Till Dawn](https://www.pcgamer.com/build-broken-combos-to-gun-down-cosmic-horrors-in-20-minutes-till-dawn)
- - [The best Steam skins](https://www.pcgamer.com/the-best-steam-skins)
- - [This algae-powered computer probably can&#39;t run Crysis](https://www.pcgamer.com/this-algae-powered-computer-probably-cant-run-crysis)<!-- GAME:END -->
+ - [The best Steam skins](https://www.pcgamer.com/the-best-steam-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
