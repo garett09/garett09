@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)
+ - 🚖 [And he is waiting, and waiting and still waiting...](http://9gag.com/gag/aDDMdYN)
  - 🚯 [Egyptian newspapers](http://9gag.com/gag/ajgymXg)
- - 🚯 [Mariupol shelling](http://9gag.com/gag/axB4Mj2)<!-- MEMES:END -->
+ - 🚯 [The people of Sri Lanka have turned on the political class.](http://9gag.com/gag/aYrmoPx)<!-- MEMES:END -->
 
 --- 
 
