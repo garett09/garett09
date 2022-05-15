@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I conquered my anxiety after many years of hard work to finally make my dream of visiting Sweden. I did it. I f**king did it!](http://9gag.com/gag/aAGZbzd)
+ - 🚖 [Too slow bro](http://9gag.com/gag/aZrvD7W)
  - 🚯 [No pull-up bars? Try this](http://9gag.com/gag/aQXVEyw)
- - 🚯 [When Eurovision peaked\u2026](http://9gag.com/gag/avAm53M)<!-- MEMES:END -->
+ - 🚯 [How to stop racism? Stop talking about racism](http://9gag.com/gag/apg8g1W)<!-- MEMES:END -->
 
 --- 
 
