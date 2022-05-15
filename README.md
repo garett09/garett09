@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
- - 🚯 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)
- - 🚯 [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)<!-- MEMES:END -->
+ - 🚖 [After Ukraine wins Eurovision.](http://9gag.com/gag/aWg9EGA)
+ - 🚯 [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)
+ - 🚯 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)<!-- MEMES:END -->
 
 --- 
 
