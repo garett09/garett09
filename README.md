@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reality](http://9gag.com/gag/arnzoD0)
- - 🚯 [A 5th century swimming pool in India that&#39;s still used to this day.](http://9gag.com/gag/aM4yZm6)
- - 🚯 [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)<!-- MEMES:END -->
+ - 🚖 [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
+ - 🚯 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)
+ - 🚯 [That\u2019s how I do things](http://9gag.com/gag/a11wRGG)<!-- MEMES:END -->
 
 --- 
 
