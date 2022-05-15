@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The evolution of humanoid robots](http://9gag.com/gag/aNP3PN3)
+ - 🚖 [Need some wholesomeness?](http://9gag.com/gag/ay9PNAX)
  - 🚯 [The Swedish parliament is now in majority of joining NATO. If everything goes as planned, Sweden will apply for membership tomorrow on the 16th of May.](http://9gag.com/gag/aE8EqyO)
- - 🚯 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)<!-- MEMES:END -->
+ - 🚯 [Your door dash order has been successfully delivered](http://9gag.com/gag/apg8REB)<!-- MEMES:END -->
 
 --- 
 
