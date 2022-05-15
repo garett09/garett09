@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)
- - 🚯 [What is this?! Bridge for ants?!](http://9gag.com/gag/a81z8e1)
- - 🚯 [Forklift certification?](http://9gag.com/gag/aM4yjBx)<!-- MEMES:END -->
+ - 🚖 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
+ - 🚯 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)
+ - 🚯 [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)<!-- MEMES:END -->
 
 --- 
 
