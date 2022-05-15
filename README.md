@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These rocks contain ancient water that has been trapped inside them for millions of years.](http://9gag.com/gag/aNP3PZ0)
- - 🚯 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)
- - 🚯 [Give this guy a medal](http://9gag.com/gag/a41VEPZ)<!-- MEMES:END -->
+ - 🚖 [The evolution of humanoid robots](http://9gag.com/gag/aNP3PN3)
+ - 🚯 [Imagine you hear this at night](http://9gag.com/gag/a91B1VD)
+ - 🚯 [No more shins](http://9gag.com/gag/apg8gdE)<!-- MEMES:END -->
 
 --- 
 
