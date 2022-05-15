@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germanium, a silvery grey metalloid, is transparent in infrared](http://9gag.com/gag/aGzbdn6)
- - 🚯 [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)
+ - 🚖 [Give this guy a medal](http://9gag.com/gag/a41VEPZ)
+ - 🚯 [People in my field are 4 times more productive than workers 30 years ago. Yet we aren&#39;t working any fewer hours](http://9gag.com/gag/awzvBX1)
  - 🚯 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)<!-- MEMES:END -->
 
 --- 
