@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Top Gun: Maverick&#39; Won&#39;t Stream When It Hits Theaters May 24, Sorry     - CNET](https://www.cnet.com/tech/services-and-software/top-gun-maverick-wont-stream-when-it-hits-theaters-may-24/#ftag=CAD590a51e)
- - [The best Google Pixel 6a alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/google-pixel-6a-alternatives-3164404/)
- - [How TikTok and YouTube Turned Depp v. Heard Into the New &#39;Trial of the Century&#39;     - CNET](https://www.cnet.com/culture/how-tiktok-and-youtube-turned-depp-vs-heard-into-the-new-trial-of-the-century/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany&#39;s Ministry of Finance confirms that the sale of crypto assets is tax-free as long as they&#39;re held for over a year, even if used for staking and lending &lpar;Kevin Helms/Bitcoin News&rpar;](http://www.techmeme.com/220515/p6#a220515p6)
+ - [The Best Vinyl Accessories to Jazz Up Your Analog Audio](https://www.wired.com/gallery/best-vinyl-accessories)
+ - [Daily deals May 15: $800 iPad Pro, $100 Beats Fit Pro, $800 75-inch Toshiba Smart TV, more](https://appleinsider.com/articles/22/05/15/daily-deals-may-15-800-ipad-pro-100-beats-fit-pro-800-75-inch-toshiba-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
