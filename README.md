@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evisort, which offers an AI-powered contract management software, raises a $100M Series C led by TCV, bringing its total funding to $155.6M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/220515/p5#a220515p5)
- - [iPhone SE 3 &lpar;2022&rpar; problems and how to fix them](https://www.androidauthority.com/iphone-se-3-2022-problems-fixes-3158917/)
- - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-the-first-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Stay Cool Without Air-Conditioning](https://www.wired.com/story/how-to-stay-cool-without-air-conditioning)
+ - [Tips for Cargo Biking With Your Kids](https://www.wired.com/story/how-to-family-ebike-with-kids)
+ - [KEF’s New LS60 Wireless Speakers Are an Absolute Triumph](https://www.wired.com/review/review-kef-ls60-wireless)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
