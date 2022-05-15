@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more ppl like this guy](http://9gag.com/gag/aOQGxKy)
- - 🚯 [Too slow bro](http://9gag.com/gag/aZrvD7W)
- - 🚯 [In an effort to reduce waste, this Supermarket in Switzerland has a refill station for cleaning products](http://9gag.com/gag/a0ZwZLd)<!-- MEMES:END -->
+ - 🚖 [I conquered my anxiety after many years of hard work to finally make my dream of visiting Sweden. I did it. I f**king did it!](http://9gag.com/gag/aAGZbzd)
+ - 🚯 [No pull-up bars? Try this](http://9gag.com/gag/aQXVEyw)
+ - 🚯 [When Eurovision peaked\u2026](http://9gag.com/gag/avAm53M)<!-- MEMES:END -->
 
 --- 
 
