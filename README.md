@@ -190,7 +190,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [Ohio House introduces bill to criminalize AirTag stalking](https://appleinsider.com/articles/22/05/15/ohio-house-introduces-bill-to-criminalize-airtag-stalking?utm_medium=rss)
  - [Google and Samsung join forces to make it easier to sync fitness data between apps](https://www.theverge.com/2022/5/15/23074015/google-samsung-health-connect-join-forces-easier-share-fitness-data-between-apps-developers)
- - [Turquoise Health, a free search engine that lets patients compare hospital prices for various medical procedures in the US, raises a $20M Series A led by a16z &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220515/p9#a220515p9)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
