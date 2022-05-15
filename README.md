@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The face of betrayal](http://9gag.com/gag/aM4y4OX)
- - 🚯 [So, what&#39;s your talent?](http://9gag.com/gag/a21GKDE)
- - 🚯 [We need more ppl like this guy](http://9gag.com/gag/aOQGxKy)<!-- MEMES:END -->
+ - 🚖 [We need more ppl like this guy](http://9gag.com/gag/aOQGxKy)
+ - 🚯 [Too slow bro](http://9gag.com/gag/aZrvD7W)
+ - 🚯 [In an effort to reduce waste, this Supermarket in Switzerland has a refill station for cleaning products](http://9gag.com/gag/a0ZwZLd)<!-- MEMES:END -->
 
 --- 
 
