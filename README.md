@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ohio House introduces bill to criminalize AirTag stalking](https://appleinsider.com/articles/22/05/15/ohio-house-introduces-bill-to-criminalize-airtag-stalking?utm_medium=rss)
- - [Google and Samsung join forces to make it easier to sync fitness data between apps](https://www.theverge.com/2022/5/15/23074015/google-samsung-health-connect-join-forces-easier-share-fitness-data-between-apps-developers)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The Best Fantasy TV Shows You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-fantasy-tv-shows-you-need-to-watch/#ftag=CAD590a51e)
+ - [Tel Aviv-based Komodor, which helps companies troubleshoot Kubernetes issues, raises a $42M Series B led by Tiger Global, bringing its total funding to $67M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220515/p10#a220515p10)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-see-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
