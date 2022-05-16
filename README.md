@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Good news everyone: Genshin Impact’s Heizou wears a fancy muscle tee](https://www.polygon.com/23075151/genshin-impact-shikanoin-heizou-design-hoyoverse)
- - [Attack of the Clones is underrated — and it’s crucial to the current state of Star Wars](https://www.polygon.com/22875571/attack-of-the-clones-star-wars-obi-wan-2022)
- - [Fall Guys Launching June 21 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/05/16/fall-guys-launching-june-21/)<!-- GAME:END -->
+ - [I’ve become the bully in Elden Ring](https://www.polygon.com/23071596/elden-ring-bully-strength-build-greatsword)
+ - [New Black Mirror movies could be the perfect approach for a stale series](https://www.polygon.com/23076044/black-mirror-season-6-renewal-movie-length-episodes)
+ - [Silent Hill 2 might be the next big horror game remake](https://www.polygon.com/23076290/silent-hill-2-remake-konami-bloober-team-annapurna-interactive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
