@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [YT is turning on their own content creators and turning into hot pile of turd in summer](http://9gag.com/gag/a21Gvop)
- - 🚯 [Testing the strength of a 1:6 scale RC tank &lpar;Armortek Panther G&rpar;](http://9gag.com/gag/aGzbno6)
- - 🚯 [Godzilla is still cool](http://9gag.com/gag/amgn11V)<!-- MEMES:END -->
+ - 🚖 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)
+ - 🚯 [If only I could have tips on how to make it a permanent thing..](http://9gag.com/gag/aVxBgYv)
+ - 🚯 [A truck driver\u2019s bedtime routine](http://9gag.com/gag/abgEeAv)<!-- MEMES:END -->
 
 --- 
 
