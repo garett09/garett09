@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 16&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
  - [Live broadcasts and shared videos of mass shootings again raise questions about social networks&#39; responsibilities in curbing violent and hateful content &lpar;New York Times&rpar;](http://www.techmeme.com/220516/p1#a220516p1)
- - [iOS 16 Rumors: Release Date, Compatibility and Everything Else We&#39;ve Heard     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-rumors/#ftag=CAD590a51e)
- - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-first-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 16 Rumors: Release Date, Compatibility and Everything Else We&#39;ve Heard     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
