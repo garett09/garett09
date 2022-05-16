@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)
- - 🚯 [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
- - 🚯 [Keep yourself healthy guys](http://9gag.com/gag/aegWVvp)<!-- MEMES:END -->
+ - 🚖 [Right..](http://9gag.com/gag/aKmp8Dj)
+ - 🚯 [Another one sigma male](http://9gag.com/gag/adgbxPN)
+ - 🚯 [One year on](http://9gag.com/gag/a91B5x1)<!-- MEMES:END -->
 
 --- 
 
