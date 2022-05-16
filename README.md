@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an Empyreum house in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23011916/how-to-get-house-empyreum-ishgard-lottery-placard-cost-patch-6-1)
- - [Mysterious doorway found on Mars isn&#39;t an alien&#39;s house, say killjoy geologists](https://www.pcgamer.com/mysterious-doorway-found-on-mars-isnt-an-aliens-house-say-killjoy-geologists)
- - [Superman’s dad has stepped up to fill one of Gotham City’s most important roles](https://www.polygon.com/23074919/batman-alfred-death-dc-comics)<!-- GAME:END -->
+ - [NYC Funding $2 Million Bachelor’s Degree Program In Game Design](https://kotaku.com/new-york-city-nyc-eric-adams-bachelor-s-degree-game-dev-1848933337)
+ - [Top Halo Pro Stops Playing In Protest Against Own Team](https://kotaku.com/halo-infinite-pro-tyler-spartan-ganza-eunited-benching-1848933234)
+ - [A billionaire joins the space race in For All Mankind season 3 trailer](https://www.polygon.com/23075422/for-all-mankind-season-3-trailer-premiere-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
