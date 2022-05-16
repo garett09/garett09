@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Godzilla is still cool](http://9gag.com/gag/amgn11V)
- - 🚯 [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)
- - 🚯 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)<!-- MEMES:END -->
+ - 🚖 [This lady retiring after 42 years in nursing.](http://9gag.com/gag/ajgy1A8)
+ - 🚯 [An innocent gamer](http://9gag.com/gag/angVRb5)
+ - 🚯 [How college admissions work](http://9gag.com/gag/a71Aeer)<!-- MEMES:END -->
 
 --- 
 
