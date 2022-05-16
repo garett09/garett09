@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)
- - 🚯 [If only I could have tips on how to make it a permanent thing..](http://9gag.com/gag/aVxBgYv)
- - 🚯 [A truck driver\u2019s bedtime routine](http://9gag.com/gag/abgEeAv)<!-- MEMES:END -->
+ - 🚖 [Godzilla is still cool](http://9gag.com/gag/amgn11V)
+ - 🚯 [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)
+ - 🚯 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)<!-- MEMES:END -->
 
 --- 
 
