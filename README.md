@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luna Guard Foundation says its BTC reserves have depleted from ~80K to ~300 and the remaining UST and LUNA tokens will be used to compensate investors &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/220516/p5#a220516p5)
- - [In Memoriam: Forgetting Your Password](https://www.wired.com/story/in-memoriam-forgetting-passwords)
- - [Amazon Has Too Many Warehouses. Now Sellers Are Paying More](https://www.wired.com/story/amazon-warehouse-sellers)<!-- TECH:END -->
+ - [Slow Internet? Here’s How to Run a Wi-Fi Speed Check](https://www.wired.com/story/how-to-test-wifi-speed)
+ - [The Google Pixel Watch needs a good chip, but which?](https://www.theverge.com/2022/5/16/23070725/google-pixel-watch-smartwatch-wear-os-processor-chip)
+ - [FTX CEO Sam Bankman-Fried says bitcoin has no future as a payments network because of its inefficiency and high environmental costs &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220516/p6#a220516p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
