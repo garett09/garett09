@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metatheory, a blockchain game company whose founders include Twitch cofounder Kevin Lin, raises a $24M Series A led by a16z &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220516/p26#a220516p26)
- - [FDA: fluvoxamine doesn’t treat COVID-19 — and here’s 27 pages why](https://www.theverge.com/2022/5/16/23076314/fda-fluvoxamine-rejection-covid-eua)
- - [Uber unveils a new option to book a bus or passenger van, a trip itinerary feature for booking rides throughout an extended trip, event guest vouchers, and more &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220516/p25#a220516p25)<!-- TECH:END -->
+ - [On Buffalo, Elon Musk’s silence is deafening](https://www.theverge.com/2022/5/16/23076428/buffalo-shooting-video-elon-musk-twitter-content-moderation)
+ - [Google hires former FDA digital health leader](https://www.theverge.com/2022/5/16/23077337/google-fda-digital-health-leader-bakul-patel)
+ - [Our 14 favorite gadgets and hacks for working at home](https://www.theverge.com/22252470/work-from-home-remote-gadgets-recommendations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
