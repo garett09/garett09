@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Pulls Shooting Vid Quickly, But Facebook And Streamable Reuploads Reached Millions](https://kotaku.com/buffalo-mass-shooting-twitch-livestream-facebook-manife-1848931375)
- - [The Boys season 3 trailer brings blood, guts, and Jensen Ackles](https://www.polygon.com/23071355/the-boys-season-3-trailer-release-date)
- - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)<!-- GAME:END -->
+ - [Fall Guys is going free-to-play](https://www.polygon.com/23075037/fall-guys-nintendo-switch-xbox-free-to-play)
+ - [Philips Momentum 279M1RV 4K gaming monitor review](https://www.pcgamer.com/philips-momentum-279m1rv-4k-gaming-monitor-review)
+ - [Fox News Is Already Using &#39;Violent&#39; Video Games As Scapegoat For Mass Shooting](https://kotaku.com/fox-news-jon-scott-buffalo-laguna-woods-mass-shootings-1848931802)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
