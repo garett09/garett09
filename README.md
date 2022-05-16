@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ve become the bully in Elden Ring](https://www.polygon.com/23071596/elden-ring-bully-strength-build-greatsword)
- - [New Black Mirror movies could be the perfect approach for a stale series](https://www.polygon.com/23076044/black-mirror-season-6-renewal-movie-length-episodes)
- - [Silent Hill 2 might be the next big horror game remake](https://www.polygon.com/23076290/silent-hill-2-remake-konami-bloober-team-annapurna-interactive)<!-- GAME:END -->
+ - [How to get an Empyreum house in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23011916/how-to-get-house-empyreum-ishgard-lottery-placard-cost-patch-6-1)
+ - [Mysterious doorway found on Mars isn&#39;t an alien&#39;s house, say killjoy geologists](https://www.pcgamer.com/mysterious-doorway-found-on-mars-isnt-an-aliens-house-say-killjoy-geologists)
+ - [Superman’s dad has stepped up to fill one of Gotham City’s most important roles](https://www.polygon.com/23074919/batman-alfred-death-dc-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
