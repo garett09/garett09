@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecobee Premium thermostat leaks with built-in Siri and Alexa support](https://www.theverge.com/2022/5/16/23074617/ecobee-enhanced-premium-smart-thermostats-leak)
- - [Uber Eats to launch two autonomous delivery pilots in Los Angeles with robotic sidewalk delivery startup Serve Robotics and autonomous tech startup Motional &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220516/p3#a220516p3)
- - [We asked, you told us: Here’s how many of you bother reading app changelogs](https://www.androidauthority.com/app-changelogs-poll-results-3165213/)<!-- TECH:END -->
+ - [Daily deals May 15: $800 iPad Pro, $100 Beats Fit Pro, $800 75-inch Toshiba Smart TV, more](https://appleinsider.com/articles/22/05/15/daily-deals-may-15-800-ipad-pro-100-beats-fit-pro-800-75-inch-toshiba-smart-tv-more?utm_medium=rss)
+ - [Poll: Where do you use voice assistants the most?](https://www.androidauthority.com/voice-assistant-devices-poll-3165280/)
+ - [Apple launches Tap to Pay in Apple Park visitor center](https://appleinsider.com/articles/22/05/16/apple-launches-tap-to-pay-in-apple-park-visitor-center?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
