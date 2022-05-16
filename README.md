@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #331: Monday, May 16](https://www.pcgamer.com/wordle-may-16-331-delve-meaning-definition)
- - [Nvidia&#39;s RTX 40 series is set to launch as soon as July](https://www.pcgamer.com/nvidias-rtx-40-series-is-set-to-launch-as-soon-as-july)
- - [Cyberpunk games that are better than Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-games-on-pc)<!-- GAME:END -->
+ - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
+ - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
+ - [Covid-19 taught the games industry to be better](https://www.pcgamer.com/covid-19-taught-the-games-industry-to-be-better)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
