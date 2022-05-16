@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says a Twitter deal at a lower price wouldn&#39;t be &quot;out of the question&quot;, speaking to a Miami tech conference crowd; Twitter stock closes down 8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p23#a220516p23)
- - [Over half of US properties face at least some wildfire risk](https://www.theverge.com/2022/5/16/23075120/half-united-states-properties-wildfire-risk)
- - [The MSI GS66 Stealth gaming laptop is cheaper than ever at Best Buy](https://www.theverge.com/good-deals/2022/5/16/23074837/msi-gs66-laptop-asus-zephyrus-m16-samsung-razer-chair-deal-sale)<!-- TECH:END -->
+ - [Metatheory, a blockchain game company whose founders include Twitch cofounder Kevin Lin, raises a $24M Series A led by a16z &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220516/p26#a220516p26)
+ - [FDA: fluvoxamine doesn’t treat COVID-19 — and here’s 27 pages why](https://www.theverge.com/2022/5/16/23076314/fda-fluvoxamine-rejection-covid-eua)
+ - [Uber unveils a new option to book a bus or passenger van, a trip itinerary feature for booking rides throughout an extended trip, event guest vouchers, and more &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220516/p25#a220516p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
