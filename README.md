@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Guys is going free-to-play](https://www.polygon.com/23075037/fall-guys-nintendo-switch-xbox-free-to-play)
- - [Philips Momentum 279M1RV 4K gaming monitor review](https://www.pcgamer.com/philips-momentum-279m1rv-4k-gaming-monitor-review)
- - [Fox News Is Already Using &#39;Violent&#39; Video Games As Scapegoat For Mass Shooting](https://kotaku.com/fox-news-jon-scott-buffalo-laguna-woods-mass-shootings-1848931802)<!-- GAME:END -->
+ - [Good news everyone: Genshin Impact’s Heizou wears a fancy muscle tee](https://www.polygon.com/23075151/genshin-impact-shikanoin-heizou-design-hoyoverse)
+ - [Attack of the Clones is underrated — and it’s crucial to the current state of Star Wars](https://www.polygon.com/22875571/attack-of-the-clones-star-wars-obi-wan-2022)
+ - [Fall Guys Launching June 21 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/05/16/fall-guys-launching-june-21/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
