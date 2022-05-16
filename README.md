@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
- - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
- - [Covid-19 taught the games industry to be better](https://www.pcgamer.com/covid-19-taught-the-games-industry-to-be-better)<!-- GAME:END -->
+ - [Sony reveals game lineup and launch dates for PlayStation Plus relaunch](https://www.polygon.com/23074740/ps-plus-extra-deluxe-premium-ps2-ps3-psp-games-list)
+ - [Hulu’s Conversations with Friends is, unfortunately, the new Normal People](https://www.polygon.com/reviews/23071037/conversations-with-friends-hulu-review)
+ - [The one time I thought the metaverse could work was when Adam Savage made me cry](https://www.pcgamer.com/the-one-time-i-thought-the-metaverse-could-work-was-when-adam-savage-made-me-cry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
