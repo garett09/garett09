@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m with Thor](http://9gag.com/gag/azeQKQq)
+ - 🚖 [A legendary Classic](http://9gag.com/gag/aegWmjB)
  - 🚯 [Right..](http://9gag.com/gag/aKmp8Dj)
- - 🚯 [In 2017, a Reindeer Hunter found a perfectly preserved Viking sword in the mountains of Norway, which was just sticking out among the stones.](http://9gag.com/gag/aPZnenw)<!-- MEMES:END -->
+ - 🚯 [Another one sigma male](http://9gag.com/gag/adgbxPN)<!-- MEMES:END -->
 
 --- 
 
