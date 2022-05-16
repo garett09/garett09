@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony reveals game lineup and launch dates for PlayStation Plus relaunch](https://www.polygon.com/23074740/ps-plus-extra-deluxe-premium-ps2-ps3-psp-games-list)
- - [Hulu’s Conversations with Friends is, unfortunately, the new Normal People](https://www.polygon.com/reviews/23071037/conversations-with-friends-hulu-review)
- - [The one time I thought the metaverse could work was when Adam Savage made me cry](https://www.pcgamer.com/the-one-time-i-thought-the-metaverse-could-work-was-when-adam-savage-made-me-cry)<!-- GAME:END -->
+ - [MythForce: Video games’ love letter to 1980s cartoons says the sweetest things](https://www.polygon.com/23065732/mythforce-1980s-cartoon-video-game-concept-art-studio)
+ - [Square Enix made $394 million profit last year, and continues to bang on about the blockchain](https://www.pcgamer.com/square-enix-made-dollar394-million-profit-last-year-and-continues-to-bang-on-about-the-blockchain)
+ - [Predator prequel Prey shows the right amount of Predator in its first teaser trailer](https://www.polygon.com/23074830/prey-trailer-predator-hulu-release-date-dan-trachtenberg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
