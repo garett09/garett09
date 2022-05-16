@@ -196,8 +196,8 @@ Windows                  43 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [So, what&#39;s your talent?](http://9gag.com/gag/a21GKDE)
- - 🚯 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)
- - 🚯 [I don\u2019t know who can be :/](http://9gag.com/gag/ajgyPBw)<!-- MEMES:END -->
+ - 🚯 [I don\u2019t know who can be :/](http://9gag.com/gag/ajgyPBw)
+ - 🚯 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)<!-- MEMES:END -->
 
 --- 
 
