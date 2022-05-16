@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Code brown it is](http://9gag.com/gag/aWg9vbn)
- - 🚯 [Keep yourself healthy guys](http://9gag.com/gag/aegWVvp)
- - 🚯 [Me in my 30&#39;s](http://9gag.com/gag/aogDR5x)<!-- MEMES:END -->
+ - 🚖 [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)
+ - 🚯 [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
+ - 🚯 [Keep yourself healthy guys](http://9gag.com/gag/aegWVvp)<!-- MEMES:END -->
 
 --- 
 
