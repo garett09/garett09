@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A legendary Classic](http://9gag.com/gag/aegWmjB)
- - 🚯 [Right..](http://9gag.com/gag/aKmp8Dj)
- - 🚯 [Another one sigma male](http://9gag.com/gag/adgbxPN)<!-- MEMES:END -->
+ - 🚖 [Ladies and Gentlemen.. They got her!](http://9gag.com/gag/a91B2vj)
+ - 🚯 [Another one sigma male](http://9gag.com/gag/adgbxPN)
+ - 🚯 [A legendary Classic](http://9gag.com/gag/aegWmjB)<!-- MEMES:END -->
 
 --- 
 
