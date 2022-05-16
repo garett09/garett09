@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Need some wholesomeness?](http://9gag.com/gag/ay9PNAX)
- - 🚯 [The Swedish parliament is now in majority of joining NATO. If everything goes as planned, Sweden will apply for membership tomorrow on the 16th of May.](http://9gag.com/gag/aE8EqyO)
- - 🚯 [Your door dash order has been successfully delivered](http://9gag.com/gag/apg8REB)<!-- MEMES:END -->
+ - 🚖 [So, what&#39;s your talent?](http://9gag.com/gag/a21GKDE)
+ - 🚯 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)
+ - 🚯 [I don\u2019t know who can be :/](http://9gag.com/gag/ajgyPBw)<!-- MEMES:END -->
 
 --- 
 
