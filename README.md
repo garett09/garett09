@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jack Sparrow leaving the courthouse.](http://9gag.com/gag/azeQPjb)
- - 🚯 [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
- - 🚯 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)<!-- MEMES:END -->
+ - 🚖 [Chad Questionee](http://9gag.com/gag/a31nAn8)
+ - 🚯 [I&#39;m not even mad at him, That woman is fire](http://9gag.com/gag/angVn3n)
+ - 🚯 [Novy Okkervil, Sankt Petersburg. A population of over 20&#39;000 lives in this massive, single construction.](http://9gag.com/gag/aYrmOn2)<!-- MEMES:END -->
 
 --- 
 
