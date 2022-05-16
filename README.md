@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Biden On Buffalo Shooting: &#39;Hate That Remains A Stain&#39; On Nation’s Soul](https://kotaku.com/buffalo-shooting-biden-hochul-response-social-media-1848930806)
- - [Pixar’s next movie, Elemental, is a melting pot story](https://www.polygon.com/23074896/pixar-new-movie-elemental-release-date)
- - [A month later, Final Fantasy 14’s housing lottery is back online](https://www.polygon.com/23074860/final-fantasy-14-lottery-housing-fixed-dates-ff14)<!-- GAME:END -->
+ - [Twitch Pulls Shooting Vid Quickly, But Facebook And Streamable Reuploads Reached Millions](https://kotaku.com/buffalo-mass-shooting-twitch-livestream-facebook-manife-1848931375)
+ - [The Boys season 3 trailer brings blood, guts, and Jensen Ackles](https://www.polygon.com/23071355/the-boys-season-3-trailer-release-date)
+ - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
