@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
- - 🚯 [My little son was born today. I have no friends, so I celebrate alone. Have a drink with me if you can! Cheers !](http://9gag.com/gag/a41VVyQ)
- - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
+ - 🚖 [Fearing of cancel-culture is becoming problematic](http://9gag.com/gag/arnz8KB)
+ - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)
+ - 🚯 [After 12 years of playing on a budget guitar I bought for 70$ as a teenager, I was finally able to afford an upgrade. And not just any upgrade, but Ibanez Iceman that I always wanted since I first started playing. Don&#39;t give up on dreams guys :&rpar;](http://9gag.com/gag/aVxBBww)<!-- MEMES:END -->
 
 --- 
 
