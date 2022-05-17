@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 2017, a Reindeer Hunter found a perfectly preserved Viking sword in the mountains of Norway, which was just sticking out among the stones.](http://9gag.com/gag/aPZnenw)
- - 🚯 [French Language](http://9gag.com/gag/aZrvEM0)
- - 🚯 [Asian Arowana aka Dragonfish will set you back $300,000.00](http://9gag.com/gag/a21G2bD)<!-- MEMES:END -->
+ - 🚖 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)
+ - 🚯 [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)
+ - 🚯 [He said the quiet part out loud](http://9gag.com/gag/abgEBDp)<!-- MEMES:END -->
 
 --- 
 
