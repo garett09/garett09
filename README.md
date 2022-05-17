@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arma Reforger &lpar;Game Preview&rpar; Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/05/17/arma-reforger-game-preview-now-available-on-xbox-series-xs/)
- - [Real Lego Figures Vs Skywalker Saga’s Digital Recreations](https://kotaku.com/lego-star-wars-skywalker-saga-comparison-real-minifigs-1848933248)
- - [Genshin Impact Dev’s Rad AF ‘Urban RPG’ Is Living In My Head Rent Free](https://kotaku.com/zenless-zone-zero-genshin-impact-developer-hoyoverse-rp-1848938020)<!-- GAME:END -->
+ - [Bungie boss says Sony acquisition won&#39;t &#39;muzzle&#39; the studio&#39;s political opinions](https://www.pcgamer.com/bungie-boss-says-sony-acquisition-wont-muzzle-the-studios-political-opinions)
+ - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)
+ - [PUBG Mobile’s Neon Genesis Evangelion Crossover Is Plain Weird](https://kotaku.com/pubg-mobile-playerunknown-s-battlegrounds-evangelion-cr-1848938533)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
