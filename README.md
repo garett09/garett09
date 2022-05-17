@@ -195,8 +195,8 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the way.](http://9gag.com/gag/avAmmPX)
- - 🚯 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
+ - 🚖 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
+ - 🚯 [My little son was born today. I have no friends, so I celebrate alone. Have a drink with me if you can! Cheers !](http://9gag.com/gag/a41VVyQ)
  - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
 
 --- 
