@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Watch may move its battery to give haptic feedback](https://appleinsider.com/articles/21/01/28/future-apple-watch-may-move-its-battery-to-give-haptic-feedback?utm_medium=rss)
- - [Cake Ösa electric motorbike review: hungry for more](https://www.theverge.com/23074615/cake-osa-review-electric-scooter-motorcycle-moped)
- - [Coinbase says it will &quot;slow hiring and reassess our headcount needs&quot; during the market downturn, after initially planning to triple its workforce in 2022 &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/220517/p8#a220517p8)<!-- TECH:END -->
+ - [Fitbit Luxe 2: Everything we know and what we want to see](https://www.androidauthority.com/fitbit-luxe-2-3164153/)
+ - [The RedMagic 7 Pro Is a Gaming Powerhouse](https://www.wired.com/review/nubia-redmagic-7-pro)
+ - [This Gene Mutation Breaks the Immune System. Why Has It Survived?](https://www.wired.com/story/genetic-mutation-breaks-immune-system)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
