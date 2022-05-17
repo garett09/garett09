@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nu metal gods Slipknot join the Smite pantheon](https://www.polygon.com/23067147/slipknot-smite-skins-crossover-poseidon-chaac-raijin)
- - [Chip ’n Dale: Rescue Rangers offers a joyful refresher for a reboot-weary world](https://www.polygon.com/23071217/chip-n-dale-rescue-rangers-review-roger-rabbit)
- - [Beyerdynamic DT 900 Pro X headphone review](https://www.pcgamer.com/beyerdynamic-dt-900-pro-x-headphone-review)<!-- GAME:END -->
+ - [Little Witch in the Woods &lpar;Game Preview&rpar; Available Today](https://news.xbox.com/en-us/2022/05/17/little-witch-in-the-woods-game-preview-available-today/)
+ - [Magic: The Gathering’s next D&amp;D set plays more like Dungeons &amp; Dragons](https://www.polygon.com/23075104/mtg-dnd-commander-battle-for-baldurs-gate-preview-mechanics-characters-release-date-price)
+ - [Take a summer trip to Italy in Microsoft Flight Simulator’s new world update](https://www.polygon.com/23097587/miscrosoft-flight-simulator-update-italy-malta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
