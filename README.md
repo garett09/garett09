@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie boss says Sony acquisition won&#39;t &#39;muzzle&#39; the studio&#39;s political opinions](https://www.pcgamer.com/bungie-boss-says-sony-acquisition-wont-muzzle-the-studios-political-opinions)
- - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)
- - [PUBG Mobile’s Neon Genesis Evangelion Crossover Is Plain Weird](https://kotaku.com/pubg-mobile-playerunknown-s-battlegrounds-evangelion-cr-1848938533)<!-- GAME:END -->
+ - [PUBG Mobile’s Neon Genesis Evangelion Crossover Is Plain Weird](https://kotaku.com/pubg-mobile-playerunknown-s-battlegrounds-evangelion-cr-1848938533)
+ - [Arma 4 announced, but its ‘preview’ game Arma Reforger is out now](https://www.polygon.com/23101308/arma-4-announcement-xbox-arma-reforger-release-preview)
+ - [Arma Reforger &lpar;Game Preview&rpar; Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/05/17/arma-reforger-game-preview-now-available-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
