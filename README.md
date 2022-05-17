@@ -195,8 +195,8 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
- - 🚯 [The cross examination has begun, and it has been glorious. Miss Camille Vasquez has brought the fire.](http://9gag.com/gag/aVxBVrv)
+ - 🚖 [This is the way.](http://9gag.com/gag/avAmmPX)
+ - 🚯 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
  - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
 
 --- 
