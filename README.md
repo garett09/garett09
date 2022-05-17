@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Live concert series returns with Harry Styles](https://appleinsider.com/articles/22/05/17/apple-music-live-concert-series-returns-with-harry-styles?utm_medium=rss)
- - [OnePlus Ace Racing Edition is here, looks like a watered-down OnePlus 10 Pro](https://www.androidauthority.com/oneplus-ace-racing-edition-3166028/)
- - [OWC unveils new version of pocket-sized Envoy Pro mini SSD](https://appleinsider.com/articles/22/05/17/owc-unveils-new-version-of-pocket-sized-envoy-pro-mini-ssd?utm_medium=rss)<!-- TECH:END -->
+ - [Apple helps you download fewer podcasts](https://www.theverge.com/2022/5/17/23093633/apple-podcast-download-spotify-upfronts-siriusxm-wondery-amazon)
+ - [How to create or delete a playlist on Apple Music](https://www.androidauthority.com/create-delete-playlist-apple-music-3166046/)
+ - [Chris Hemsworth runs an unsettling futuristic prison in Spiderhead’s first trailer](https://www.theverge.com/2022/5/17/23094802/spiderhead-trailer-netflix-chris-hemsworth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
