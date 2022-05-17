@@ -196,8 +196,8 @@ Windows                  43 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)
- - 🚯 [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)
- - 🚯 [He said the quiet part out loud](http://9gag.com/gag/abgEBDp)<!-- MEMES:END -->
+ - 🚯 [`You had all of the 7 million dollars for 13 months before Mr. Depp sued you and you choose not to pay it to the charities you pledged it to`](http://9gag.com/gag/aegWmxm)
+ - 🚯 [The Barnacle](http://9gag.com/gag/azeQZMZ)<!-- MEMES:END -->
 
 --- 
 
