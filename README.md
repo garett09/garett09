@@ -195,7 +195,7 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [JUST IN - #BLM founder Patrisse Cullors paid her baby father $970,000 for `creative services`, her brother $840,000 for `security services` from charity funds. - dailymail.co.uk](http://9gag.com/gag/apg8doW)
+ - 🚖 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)
  - 🚯 [20s kids](http://9gag.com/gag/a21Gx9D)
  - 🚯 [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)<!-- MEMES:END -->
 
