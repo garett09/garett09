@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Love Elden Ring But Miss Sekiro’s Grappling Hook? This May Be The Souls-Like For You](https://kotaku.com/salt-and-sacrifice-sekiro-grappling-hook-tool-ska-studi-1848936038)
- - [Popular Yu-Gi-Oh card unbanned after 17 years](https://www.polygon.com/23104834/yu-gi-oh-card-unbanned-banned-card-list-forbidden-limited)
- - [Twitch users can finally credit emote artists](https://www.polygon.com/23103992/twitch-emote-artist-credit-attribution-badge)<!-- GAME:END -->
+ - [Indie Live Expo 2022: Catch the Global Live Streaming Event on May 21 and 22](https://news.xbox.com/en-us/2022/05/17/indie-live-expo-2022-global-live-streaming-event-on-may-21-and-22/)
+ - [New She-Hulk trailer flexes muscles, jokes](https://www.polygon.com/23106501/she-hulk-trailer-release-date-cast)
+ - [It&#39;s really starting to look like Bloober Team is making a new Silent Hill game](https://www.pcgamer.com/its-really-starting-to-look-like-bloober-team-is-making-a-new-silent-hill-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
