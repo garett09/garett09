@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Witch in the Woods &lpar;Game Preview&rpar; Available Today](https://news.xbox.com/en-us/2022/05/17/little-witch-in-the-woods-game-preview-available-today/)
- - [Magic: The Gathering’s next D&amp;D set plays more like Dungeons &amp; Dragons](https://www.polygon.com/23075104/mtg-dnd-commander-battle-for-baldurs-gate-preview-mechanics-characters-release-date-price)
- - [Take a summer trip to Italy in Microsoft Flight Simulator’s new world update](https://www.polygon.com/23097587/miscrosoft-flight-simulator-update-italy-malta)<!-- GAME:END -->
+ - [Umurangi Generation Special Edition Available Today with Game Pass](https://news.xbox.com/en-us/2022/05/17/umurangi-generation-special-edition-available-today-with-game-pass/)
+ - [Developers Are Finally Starting To Leave Last-Gen Behind](https://kotaku.com/gotham-knights-ps4-xbox-one-canceled-ps5-series-x-s-ver-1848937749)
+ - [Black Dev Says It’s ‘Highly Probable’ Doctor Strange Sequel Fight Scene Copied His Game](https://kotaku.com/doctor-strange-marvel-sword-symphony-tiktok-game-fight-1848937466)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
