@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud launches new software supply chain and zero trust tools, including one giving government and enterprise users access to vetted open-source packages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220517/p34#a220517p34)
- - [Marvel&#39;s &#39;She-Hulk: Attorney at Law&#39; Will Premiere Aug. 17 on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/marvels-she-hulk-attorney-at-law-will-premiere-aug-17-on-disney-plus/#ftag=CAD590a51e)
- - [Save up to $1,000 on electronics this week at B&amp;H Photo](https://appleinsider.com/articles/22/05/17/save-up-to-1000-on-electronics-this-week-at-bh-photo?utm_medium=rss)<!-- TECH:END -->
+ - [The US Has a Plan to Document Human Rights Violations in Ukraine](https://www.wired.com/story/conflict-observatory-ukraine-russia-war-crimes)
+ - [Google Opens Self-Designed, All-Electric Campus in California     - CNET](https://www.cnet.com/tech/google-opens-self-designed-all-electric-campus-in-california/#ftag=CAD590a51e)
+ - [She-Hulk: Attorney at Law’s first trailer looks simply smashing](https://www.theverge.com/2022/5/17/23104195/she-hulk-first-trailer-disney-plus-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
