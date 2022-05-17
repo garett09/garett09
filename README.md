@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How add new backgrounds to Zoom](https://www.androidauthority.com/add-zoom-background-3165726/)
- - [Apple will let your subscription apps charge you more money without asking](https://www.theverge.com/2022/5/16/23078313/apple-app-store-subscription-price-increase-permission-rules)
- - [A California judge has stuck down a 2018 state law requiring public companies based in CA put female directors on their boards, citing it as unconstitutional &lpar;Theo Francis/Wall Street Journal&rpar;](http://www.techmeme.com/220516/p30#a220516p30)<!-- TECH:END -->
+ - [Filing: shareholders voted against Intel&#39;s compensation for its top executives; the vote is advisory and won&#39;t immediately affect the compensation of the execs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220516/p32#a220516p32)
+ - [Report: the real-time bidding industry exposes a person&#39;s online activity and location 747 times per day on average in the US and 376 times a day in Europe &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220516/p31#a220516p31)
+ - [California Law Requiring Women on Boards is Unconstitutional, Judge Rules     - CNET](https://www.cnet.com/tech/california-law-requiring-women-on-boards-is-unconstitutional-judge-rules/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
