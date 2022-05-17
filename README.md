@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases World Update IX: Italy and Malta Today](https://news.xbox.com/en-us/2022/05/17/microsoft-flight-simulator-releases-world-update-9/)
- - [Activision Blizzard’s Diversity Tool Has A Long, Even More Embarrassing History](https://kotaku.com/activison-blizzard-king-diversity-space-tool-super-mari-1848936056)
- - [Game Pass Gets Vampire Survivors, One Of The Best Games Of The Year](https://kotaku.com/xbox-pc-game-pass-may-2022-skate-jurassic-world-evoluti-1848936338)<!-- GAME:END -->
+ - [Nu metal gods Slipknot join the Smite pantheon](https://www.polygon.com/23067147/slipknot-smite-skins-crossover-poseidon-chaac-raijin)
+ - [Chip ’n Dale: Rescue Rangers offers a joyful refresher for a reboot-weary world](https://www.polygon.com/23071217/chip-n-dale-rescue-rangers-review-roger-rabbit)
+ - [Beyerdynamic DT 900 Pro X headphone review](https://www.pcgamer.com/beyerdynamic-dt-900-pro-x-headphone-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
