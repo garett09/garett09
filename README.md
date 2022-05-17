@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple helps you download fewer podcasts](https://www.theverge.com/2022/5/17/23093633/apple-podcast-download-spotify-upfronts-siriusxm-wondery-amazon)
- - [How to create or delete a playlist on Apple Music](https://www.androidauthority.com/create-delete-playlist-apple-music-3166046/)
- - [Chris Hemsworth runs an unsettling futuristic prison in Spiderhead’s first trailer](https://www.theverge.com/2022/5/17/23094802/spiderhead-trailer-netflix-chris-hemsworth)<!-- TECH:END -->
+ - [Microsoft’s Adaptive Controller was a success for the modding community](https://www.theverge.com/2022/5/17/23094665/microsoft-adaptive-controller-modding-community)
+ - [The Pentagon has 400 reports of strange aerial phenomena — but nothing suggests aliens](https://www.theverge.com/2022/5/17/23093622/house-hearing-ufo-unidentified-aeria-phenomenon-uap-task-force)
+ - [Skiff Mail is taking on Gmail by betting on privacy — and crypto](https://www.theverge.com/2022/5/17/23075804/skiff-mail-email-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
