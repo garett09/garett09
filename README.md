@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG Mobile’s Neon Genesis Evangelion Crossover Is Plain Weird](https://kotaku.com/pubg-mobile-playerunknown-s-battlegrounds-evangelion-cr-1848938533)
- - [Arma 4 announced, but its ‘preview’ game Arma Reforger is out now](https://www.polygon.com/23101308/arma-4-announcement-xbox-arma-reforger-release-preview)
- - [Arma Reforger &lpar;Game Preview&rpar; Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/05/17/arma-reforger-game-preview-now-available-on-xbox-series-xs/)<!-- GAME:END -->
+ - [Love Elden Ring But Miss Sekiro’s Grappling Hook? This May Be The Souls-Like For You](https://kotaku.com/salt-and-sacrifice-sekiro-grappling-hook-tool-ska-studi-1848936038)
+ - [Popular Yu-Gi-Oh card unbanned after 17 years](https://www.polygon.com/23104834/yu-gi-oh-card-unbanned-banned-card-list-forbidden-limited)
+ - [Twitch users can finally credit emote artists](https://www.polygon.com/23103992/twitch-emote-artist-credit-attribution-badge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
