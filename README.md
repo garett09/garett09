@@ -195,8 +195,8 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)
- - 🚯 [`You had all of the 7 million dollars for 13 months before Mr. Depp sued you and you choose not to pay it to the charities you pledged it to`](http://9gag.com/gag/aegWmxm)
+ - 🚖 [`You had all of the 7 million dollars for 13 months before Mr. Depp sued you and you choose not to pay it to the charities you pledged it to`](http://9gag.com/gag/aegWmxm)
+ - 🚯 [Get a journal Logan](http://9gag.com/gag/aKmpexb)
  - 🚯 [The Barnacle](http://9gag.com/gag/azeQZMZ)<!-- MEMES:END -->
 
 --- 
