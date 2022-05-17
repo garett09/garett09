@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)
- - 🚯 [Parking](http://9gag.com/gag/aDDMXjB)
- - 🚯 [Rock in the middle of the road](http://9gag.com/gag/apg8Yxb)<!-- MEMES:END -->
+ - 🚖 [Parking](http://9gag.com/gag/aDDMXjB)
+ - 🚯 [80&#39;s Music, no auto-tune, no-bullshit](http://9gag.com/gag/aKmpYKg)
+ - 🚯 [Not only this](http://9gag.com/gag/aKmpOnZ)<!-- MEMES:END -->
 
 --- 
 
