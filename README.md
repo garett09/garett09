@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`You had all of the 7 million dollars for 13 months before Mr. Depp sued you and you choose not to pay it to the charities you pledged it to`](http://9gag.com/gag/aegWmxm)
- - 🚯 [Get a journal Logan](http://9gag.com/gag/aKmpexb)
- - 🚯 [The Barnacle](http://9gag.com/gag/azeQZMZ)<!-- MEMES:END -->
+ - 🚖 [We are family](http://9gag.com/gag/aVxB2Bv)
+ - 🚯 [Asian Arowana aka Dragonfish will set you back $300,000.00](http://9gag.com/gag/a21G2bD)
+ - 🚯 [Ladies and Gentlemen.. They got her!](http://9gag.com/gag/a91B2vj)<!-- MEMES:END -->
 
 --- 
 
