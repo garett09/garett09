@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 console covers will be available in three new galactic colors in June](https://www.theverge.com/2022/5/17/23099616/sony-ps5-console-covers-blue-purple-pink-june-17)
- - [Noctua stuck its big brown desktop PC fans on an RTX 3080](https://www.theverge.com/2022/5/17/23078107/noctua-asus-rtx-3080-graphics-card-quiet)
- - [The Fight for Abortion Rights Is a Battle Over History](https://www.wired.com/story/abortion-rights-us-history)<!-- TECH:END -->
+ - [Compared: AirPods Max versus Sony WH-1000XM5](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-versus-sony-wh-1000xm5?utm_medium=rss)
+ - [Linz-based Storyblok, which offers a headless CMS aimed at non-technical users, raises a $47M Series B and says its tools are being used by ~74K companies &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220517/p32#a220517p32)
+ - [Apple Music Live concert series returns with Harry Styles](https://appleinsider.com/articles/22/05/17/apple-music-live-concert-series-returns-with-harry-styles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
