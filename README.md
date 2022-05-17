@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are 2 kinds of people](http://9gag.com/gag/aVxBVYv)
- - 🚯 [Girl gets pepper sprayed at McDonald&#39;s](http://9gag.com/gag/a11wLqR)
- - 🚯 [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)<!-- MEMES:END -->
+ - 🚖 [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)
+ - 🚯 [Parking](http://9gag.com/gag/aDDMXjB)
+ - 🚯 [Rock in the middle of the road](http://9gag.com/gag/apg8Yxb)<!-- MEMES:END -->
 
 --- 
 
