@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: AirPods Max versus Sony WH-1000XM5](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-versus-sony-wh-1000xm5?utm_medium=rss)
- - [Linz-based Storyblok, which offers a headless CMS aimed at non-technical users, raises a $47M Series B and says its tools are being used by ~74K companies &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220517/p32#a220517p32)
- - [Apple Music Live concert series returns with Harry Styles](https://appleinsider.com/articles/22/05/17/apple-music-live-concert-series-returns-with-harry-styles?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is laying off 150 employees, including dozens from its Tudum fansite](https://www.theverge.com/2022/5/17/23103131/netflix-layoffs-tudum-streaming-subscriber-loss-email)
+ - [Crazy person installs Wear OS on 2016 Galaxy Gear S3 because why the heck not?](https://www.androidauthority.com/wear-os-galaxy-gear-s3-3166238/)
+ - [Apple slows return to office, will let employees stay remote and require masks in common spaces](https://www.theverge.com/2022/5/17/23100696/apple-delay-hybrid-office-return-work-from-home-covid-19-masks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
