@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers devise a BLE relay attack that lets a hacker unlock and operate a Tesla outside its BLE range; Tesla said in April that it was a &quot;known limitation&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220517/p26#a220517p26)
- - [Report details the challenges Apple&#39;s mixed reality headset has faced over the years, including initial pushback from Jony Ive on a VR headset concept &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/220517/p25#a220517p25)
- - [Apple partially postpones return to office plan, cites COVID spike](https://appleinsider.com/articles/22/05/17/apple-partially-postpones-return-to-office-plan-cites-covid-spike?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter loses more execs amid the Musk takeover turmoil: Katrina Lane, VP of Twitter Service; head of data science Max Schmeiser; and a VP of product management &lpar;Bloomberg&rpar;](http://www.techmeme.com/220517/p29#a220517p29)
+ - [JBL Charge 5 review: Large, loud, and luggable](https://www.androidauthority.com/jbl-charge-5-review-3157016/)
+ - [Robinhood announces a crypto wallet that will give users sole custody of their private keys, to debut in beta this summer and officially launch later this year &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220517/p28#a220517p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
