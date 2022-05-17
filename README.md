@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ladies and Gentlemen.. They got her!](http://9gag.com/gag/a91B2vj)
- - 🚯 [Another one sigma male](http://9gag.com/gag/adgbxPN)
- - 🚯 [A legendary Classic](http://9gag.com/gag/aegWmjB)<!-- MEMES:END -->
+ - 🚖 [In 2017, a Reindeer Hunter found a perfectly preserved Viking sword in the mountains of Norway, which was just sticking out among the stones.](http://9gag.com/gag/aPZnenw)
+ - 🚯 [French Language](http://9gag.com/gag/aZrvEM0)
+ - 🚯 [Asian Arowana aka Dragonfish will set you back $300,000.00](http://9gag.com/gag/a21G2bD)<!-- MEMES:END -->
 
 --- 
 
