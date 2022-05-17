@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it ok to be a man](http://9gag.com/gag/azeQ4qB)
- - 🚯 [Docking with the space station](http://9gag.com/gag/aZrvdM9)
- - 🚯 [This is the way.](http://9gag.com/gag/avAmmPX)<!-- MEMES:END -->
+ - 🚖 [Why the f**k did we ever stop behaving like that?](http://9gag.com/gag/adgbRPV)
+ - 🚯 [Life-size floor plans for a better understanding](http://9gag.com/gag/a91BBoZ)
+ - 🚯 [After 12 years of playing on a budget guitar I bought for 70$ as a teenager, I was finally able to afford an upgrade. And not just any upgrade, but Ibanez Iceman that I always wanted since I first started playing. Don&#39;t give up on dreams guys :&rpar;](http://9gag.com/gag/aVxBBww)<!-- MEMES:END -->
 
 --- 
 
