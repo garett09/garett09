@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says the Twitter deal &quot;cannot move forward&quot; until Twitter proves bots are &lt;5% of users, claiming his offer is based on &quot;SEC filings being accurate&quot; &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/220517/p5#a220517p5)
  - [Apple could be testing color e-ink displays for foldables](https://www.androidauthority.com/apple-color-e-ink-display-foldables-3165765/)
- - [Tech that is designed for marginalized and vulnerable groups from the start is better, safer, more innovative, robust, and integrative of privacy &lpar;Afsaneh Rigot/Wired&rpar;](http://www.techmeme.com/220517/p4#a220517p4)
- - [Paytm Mall, the e-commerce arm of Paytm, loses Alibaba and Ant Financial as investors, and its valuation drops from $3B to $13M &lpar;Entrackr&rpar;](http://www.techmeme.com/220517/p3#a220517p3)<!-- TECH:END -->
+ - [Tech that is designed for marginalized and vulnerable groups from the start is better, safer, more innovative, robust, and integrative of privacy &lpar;Afsaneh Rigot/Wired&rpar;](http://www.techmeme.com/220517/p4#a220517p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
