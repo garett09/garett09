@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uno reverse card](http://9gag.com/gag/angVDL0)
- - 🚯 [He tries to play off the aftermath](http://9gag.com/gag/aPZnXbV)
- - 🚯 [The Barnacle](http://9gag.com/gag/azeQZMZ)<!-- MEMES:END -->
+ - 🚖 [There are 2 kinds of people](http://9gag.com/gag/aVxBVYv)
+ - 🚯 [Girl gets pepper sprayed at McDonald&#39;s](http://9gag.com/gag/a11wLqR)
+ - 🚯 [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)<!-- MEMES:END -->
 
 --- 
 
