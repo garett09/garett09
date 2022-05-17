@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers studio sold to Dead by Daylight dev](https://www.pcgamer.com/scavengers-studio-sold-to-dead-by-daylight-dev)
- - [Thermaltake&#39;s new gaming chair is giving us peak Porsche marketing](https://www.pcgamer.com/thermaltakes-new-gaming-chair-is-giving-us-peak-porsche-marketing)
- - [Today&#39;s Wordle answer #332: Tuesday, May 17](https://www.pcgamer.com/wordle-may-17-332)<!-- GAME:END -->
+ - [Best Wi-Fi range extenders in 2022](https://www.pcgamer.com/the-best-wifi-range-extenders)
+ - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)
+ - [What Wordle answers have been used?](https://www.pcgamer.com/wordle-past-word-archive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
