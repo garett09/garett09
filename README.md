@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rock in the middle of the road](http://9gag.com/gag/apg8Yxb)
- - 🚯 [Curve it like Roberto Carlos](http://9gag.com/gag/aE8EZMG)
- - 🚯 [Is it ok to be a man](http://9gag.com/gag/azeQ4qB)<!-- MEMES:END -->
+ - 🚖 [Not only this](http://9gag.com/gag/aKmpOnZ)
+ - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)
+ - 🚯 [Smart Husband](http://9gag.com/gag/azeQ44p)<!-- MEMES:END -->
 
 --- 
 
