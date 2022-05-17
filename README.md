@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Adaptive Controller was a success for the modding community](https://www.theverge.com/2022/5/17/23094665/microsoft-adaptive-controller-modding-community)
- - [The Pentagon has 400 reports of strange aerial phenomena — but nothing suggests aliens](https://www.theverge.com/2022/5/17/23093622/house-hearing-ufo-unidentified-aeria-phenomenon-uap-task-force)
- - [Skiff Mail is taking on Gmail by betting on privacy — and crypto](https://www.theverge.com/2022/5/17/23075804/skiff-mail-email-privacy)<!-- TECH:END -->
+ - [Researchers devise a BLE relay attack that lets a hacker unlock and operate a Tesla outside its BLE range; Tesla said in April that it was a &quot;known limitation&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220517/p26#a220517p26)
+ - [Report details the challenges Apple&#39;s mixed reality headset has faced over the years, including initial pushback from Jony Ive on a VR headset concept &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/220517/p25#a220517p25)
+ - [Apple partially postpones return to office plan, cites COVID spike](https://appleinsider.com/articles/22/05/17/apple-partially-postpones-return-to-office-plan-cites-covid-spike?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
