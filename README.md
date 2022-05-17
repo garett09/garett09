@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not only this](http://9gag.com/gag/aKmpOnZ)
- - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)
- - 🚯 [Smart Husband](http://9gag.com/gag/azeQ44p)<!-- MEMES:END -->
+ - 🚖 [Agree](http://9gag.com/gag/azeQ47Z)
+ - 🚯 [Karma!](http://9gag.com/gag/a91BONj)
+ - 🚯 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
 
 --- 
 
