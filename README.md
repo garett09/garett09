@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Luxe 2: Everything we know and what we want to see](https://www.androidauthority.com/fitbit-luxe-2-3164153/)
- - [The RedMagic 7 Pro Is a Gaming Powerhouse](https://www.wired.com/review/nubia-redmagic-7-pro)
- - [This Gene Mutation Breaks the Immune System. Why Has It Survived?](https://www.wired.com/story/genetic-mutation-breaks-immune-system)<!-- TECH:END -->
+ - [Apple announces door detection, live captions, and more accessibility features](https://appleinsider.com/articles/22/05/17/apple-announces-door-detection-live-captions-and-more-accessibility-features?utm_medium=rss)
+ - [Apple announces several accessibility features, including Watch improvements and a live captioning tool for iOS, iPadOS, and macOS, rolling out later in 2022 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220517/p17#a220517p17)
+ - [Daily deals May 17: $783 refurb M1 MacBook Air, $300 off Canon EOS R camera, $500 65-inch 4K TV, more](https://appleinsider.com/articles/22/05/17/daily-deals-may-17-783-refurb-m1-macbook-air-300-off-canon-eos-r-camera-500-65-inch-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
