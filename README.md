@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is laying off 150 employees, including dozens from its Tudum fansite](https://www.theverge.com/2022/5/17/23103131/netflix-layoffs-tudum-streaming-subscriber-loss-email)
- - [Crazy person installs Wear OS on 2016 Galaxy Gear S3 because why the heck not?](https://www.androidauthority.com/wear-os-galaxy-gear-s3-3166238/)
- - [Apple slows return to office, will let employees stay remote and require masks in common spaces](https://www.theverge.com/2022/5/17/23100696/apple-delay-hybrid-office-return-work-from-home-covid-19-masks)<!-- TECH:END -->
+ - [Google Cloud launches new software supply chain and zero trust tools, including one giving government and enterprise users access to vetted open-source packages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220517/p34#a220517p34)
+ - [Marvel&#39;s &#39;She-Hulk: Attorney at Law&#39; Will Premiere Aug. 17 on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/marvels-she-hulk-attorney-at-law-will-premiere-aug-17-on-disney-plus/#ftag=CAD590a51e)
+ - [Save up to $1,000 on electronics this week at B&amp;H Photo](https://appleinsider.com/articles/22/05/17/save-up-to-1000-on-electronics-this-week-at-bh-photo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
