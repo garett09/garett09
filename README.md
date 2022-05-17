@@ -181,9 +181,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixar’s Elemental characters remind fans of classic platformer Fireboy and Watergirl](https://www.polygon.com/23077283/pixar-elemental-waterboy-firegirl-sharkboy)
- - [Star Wars’ next feature film will be from Taika Waititi after Rogue Squadron delays](https://www.polygon.com/star-wars/23093238/star-wars-taika-waititi-next-movie)
- - [Jurassic World Evolution 2, Vampire Survivors lead Xbox Game Pass in May](https://www.polygon.com/23093216/jurassic-world-evolution-2-vampire-survivors-xbox-game-pass-may-2022-free)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases World Update IX: Italy and Malta Today](https://news.xbox.com/en-us/2022/05/17/microsoft-flight-simulator-releases-world-update-9/)
+ - [Activision Blizzard’s Diversity Tool Has A Long, Even More Embarrassing History](https://kotaku.com/activison-blizzard-king-diversity-space-tool-super-mari-1848936056)
+ - [Game Pass Gets Vampire Survivors, One Of The Best Games Of The Year](https://kotaku.com/xbox-pc-game-pass-may-2022-skate-jurassic-world-evoluti-1848936338)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
