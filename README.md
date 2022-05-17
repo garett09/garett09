@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter loses more execs amid the Musk takeover turmoil: Katrina Lane, VP of Twitter Service; head of data science Max Schmeiser; and a VP of product management &lpar;Bloomberg&rpar;](http://www.techmeme.com/220517/p29#a220517p29)
- - [JBL Charge 5 review: Large, loud, and luggable](https://www.androidauthority.com/jbl-charge-5-review-3157016/)
- - [Robinhood announces a crypto wallet that will give users sole custody of their private keys, to debut in beta this summer and officially launch later this year &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220517/p28#a220517p28)<!-- TECH:END -->
+ - [PS5 console covers will be available in three new galactic colors in June](https://www.theverge.com/2022/5/17/23099616/sony-ps5-console-covers-blue-purple-pink-june-17)
+ - [Noctua stuck its big brown desktop PC fans on an RTX 3080](https://www.theverge.com/2022/5/17/23078107/noctua-asus-rtx-3080-graphics-card-quiet)
+ - [The Fight for Abortion Rights Is a Battle Over History](https://www.wired.com/story/abortion-rights-us-history)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
