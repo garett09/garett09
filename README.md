@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Access governance service Pathlock raises $200M led by Vertica and merges with data security company Appsian and SAP compliance tool Security Weaver &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220517/p20#a220517p20)
- - [Ode to the Apple iPod: The golden era of portable music](https://www.androidauthority.com/apple-ipod-3165285/)
- - [The Internet Origin Story You Know Is Wrong](https://www.wired.com/story/internet-origin-story-bbs)<!-- TECH:END -->
+ - [Apple Music Live concert series returns with Harry Styles](https://appleinsider.com/articles/22/05/17/apple-music-live-concert-series-returns-with-harry-styles?utm_medium=rss)
+ - [OnePlus Ace Racing Edition is here, looks like a watered-down OnePlus 10 Pro](https://www.androidauthority.com/oneplus-ace-racing-edition-3166028/)
+ - [OWC unveils new version of pocket-sized Envoy Pro mini SSD](https://appleinsider.com/articles/22/05/17/owc-unveils-new-version-of-pocket-sized-envoy-pro-mini-ssd?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
