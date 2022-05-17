@@ -195,9 +195,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why the f**k did we ever stop behaving like that?](http://9gag.com/gag/adgbRPV)
- - 🚯 [Life-size floor plans for a better understanding](http://9gag.com/gag/a91BBoZ)
- - 🚯 [After 12 years of playing on a budget guitar I bought for 70$ as a teenager, I was finally able to afford an upgrade. And not just any upgrade, but Ibanez Iceman that I always wanted since I first started playing. Don&#39;t give up on dreams guys :&rpar;](http://9gag.com/gag/aVxBBww)<!-- MEMES:END -->
+ - 🚖 [Real men drive forklifts...](http://9gag.com/gag/adgbdYV)
+ - 🚯 [Perfect slur for toddlers?](http://9gag.com/gag/aZrvd90)
+ - 🚯 [Left or Right?](http://9gag.com/gag/a81zXdY)<!-- MEMES:END -->
 
 --- 
 
