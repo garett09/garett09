@@ -188,9 +188,9 @@ Windows                  43 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logs show that the alleged Buffalo shooter spoke explicitly in a private Discord server about plans to conduct and livestream an attack since at least December &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p27#a220516p27)
- - [How to Order Your Free At-Home Covid-19 Tests](https://www.wired.com/story/how-to-get-free-covid-19-tests)
- - [DJI may be working a new FPV drone that you can fly indoors](https://www.theverge.com/2022/5/16/23076686/dji-new-fpv-drone-fly-indoors-avata)<!-- TECH:END -->
+ - [How add new backgrounds to Zoom](https://www.androidauthority.com/add-zoom-background-3165726/)
+ - [Apple will let your subscription apps charge you more money without asking](https://www.theverge.com/2022/5/16/23078313/apple-app-store-subscription-price-increase-permission-rules)
+ - [A California judge has stuck down a 2018 state law requiring public companies based in CA put female directors on their boards, citing it as unconstitutional &lpar;Theo Francis/Wall Street Journal&rpar;](http://www.techmeme.com/220516/p30#a220516p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
