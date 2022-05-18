@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Overlapping comparison not yet made in court](http://9gag.com/gag/aM4yDV1)
- - 🚯 [How to win a GTA mission in less than 5 seconds](http://9gag.com/gag/a11w8Dv)
- - 🚯 [Battle of the year!](http://9gag.com/gag/a81zQB6)<!-- MEMES:END -->
+ - 🚖 [The last number of your upvote will be your `Friends with benefit`](http://9gag.com/gag/avAmB15)
+ - 🚯 [Grams made an animal vest to wear to parties](http://9gag.com/gag/aDDMq1w)
+ - 🚯 [Still want to shake hands](http://9gag.com/gag/abgELAr)<!-- MEMES:END -->
 
 --- 
 
