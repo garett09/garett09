@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Letter to My Fellow Asian Mothers From the Multiverse](https://www.wired.com/story/turning-red-everything-everywhere-all-at-once)
- - [Carbon-Rich Peat Is Disappearing. But Is It Also Growing?](https://www.wired.com/story/carbon-rich-peat-is-disappearing-but-is-it-also-growing)
- - [This Hacktivist Site Lets You Prank-Call Russian Officials](https://www.wired.com/story/robo-prank-call-russian-officials-website)<!-- TECH:END -->
+ - [Masterschool, a network of virtual coding schools that takes 10% of monthly income to repay tuition, raises a $100M seed led by Group 11 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220518/p15#a220518p15)
+ - [This Topsy-Turvy Gizmo Tries to Reinvent the Tripod Head](https://www.wired.com/review/platypod-platyball-elite)
+ - [An EU Law Could Let US Prosecutors Scan Phones for Abortion Texts](https://www.wired.com/story/eu-law-scan-phones-abortion-texts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
