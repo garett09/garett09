@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C, D, E, F, G, A, B... C!](http://9gag.com/gag/a51D30L)
- - 🚯 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
- - 🚯 [Say what you like . ...](http://9gag.com/gag/a11wgY8)<!-- MEMES:END -->
+ - 🚖 [Thought](http://9gag.com/gag/apg87YB)
+ - 🚯 [He&#39;s living in 2042.](http://9gag.com/gag/awzvpgR)
+ - 🚯 [When you are getting tired of illegal parking](http://9gag.com/gag/apg8wm8)<!-- MEMES:END -->
 
 --- 
 
