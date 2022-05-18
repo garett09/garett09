@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drop is taking 20 percent off select keycaps exclusively for Verge readers](https://www.theverge.com/good-deals/2022/5/18/23103325/drop-mechanical-keyboard-keycaps-exclusive-logitech-g-pro-superlight-apple-airpods-garmin-deal-sale)
- - [Apple debuts new privacy ad highlighting how iPhone fights data brokers](https://appleinsider.com/articles/22/05/18/apple-debuts-new-privacy-ad-spot-highlighting-how-iphone-fights-data-brokers?utm_medium=rss)
- - [Glean, which uses AI to offer unified search across apps used by a company, raises a $100M Series C led by Sequoia at a $1B post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220518/p23#a220518p23)<!-- TECH:END -->
+ - [Apple seeds first macOS Monterey 12.5 beta to developers](https://appleinsider.com/articles/22/05/18/apple-seeds-first-macos-monterey-125-beta-to-developers?utm_medium=rss)
+ - [Apple releases first developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/18/apple-releases-first-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Vietnamese Prime Minister met with Tim Cook at Apple Park](https://appleinsider.com/articles/22/05/18/vietnamese-prime-minister-met-with-tim-cook-at-apple-park?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
