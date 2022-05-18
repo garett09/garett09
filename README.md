@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
- - [First episode of new Pokémon anime series is a thrilling call to adventure](https://www.polygon.com/23123567/pokemon-hisuian-snow-anime-first-episode)
- - [Rick and Morty is getting a new anime spinoff series](https://www.polygon.com/23123196/rick-and-morty-anime-adult-swim-hbo)<!-- GAME:END -->
+ - [Evil Dead: The Game is a bloody good time, especially with friends](https://www.polygon.com/23101393/evil-dead-game-impressions-release-early-review-ash)
+ - [Launch into the Minecraft Angry Birds DLC Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/18/launch-into-the-minecraft-angry-birds-dlc-now-in-the-minecraft-marketplace/)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
