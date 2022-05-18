@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peace was never an option](http://9gag.com/gag/a41V87m)
- - 🚯 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
+ - 🚖 [Decided to start my own business, previous company still paying me to work on their projects.](http://9gag.com/gag/aDDM90O)
+ - 🚯 [Wisdom from people who realised it too late.](http://9gag.com/gag/aqGAVyj)
  - 🚯 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)<!-- MEMES:END -->
 
 --- 
