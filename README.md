@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple exec who departed over office return policy joins up with Google](https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google?utm_medium=rss)
- - [Netflix has been screening new shows and movies among subscribers before their release](https://www.theverge.com/2022/5/17/23108008/netflix-screening-new-shows-movies-subscribers)
- - [Apple Card users reporting missing transactions in Wallet app](https://appleinsider.com/articles/22/05/18/apple-card-users-reporting-missing-transactions-in-wallet-app?utm_medium=rss)<!-- TECH:END -->
+ - [Buffalo Massacre Suspect Reportedly Invited Discord Users To Review His Plan     - CNET](https://www.cnet.com/tech/services-and-software/buffalo-massacre-suspect-reportedly-invited-discord-users-to-review-his-plan/#ftag=CAD590a51e)
+ - [Palo Alto-based Pangea, which offers embedded security APIs for cloud-native app builders, emerges from stealth with a $25M Series A led by Ballistic Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220517/p37#a220517p37)
+ - [Every Harry Potter Movie Ranked: From Azkaban to Grindelwald     - CNET](https://www.cnet.com/culture/entertainment/every-harry-potter-movie-ranked-from-azkaban-to-grindelwald/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
