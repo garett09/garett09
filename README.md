@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Has a Plan to Document Human Rights Violations in Ukraine](https://www.wired.com/story/conflict-observatory-ukraine-russia-war-crimes)
- - [Google Opens Self-Designed, All-Electric Campus in California     - CNET](https://www.cnet.com/tech/google-opens-self-designed-all-electric-campus-in-california/#ftag=CAD590a51e)
- - [She-Hulk: Attorney at Law’s first trailer looks simply smashing](https://www.theverge.com/2022/5/17/23104195/she-hulk-first-trailer-disney-plus-release-date)<!-- TECH:END -->
+ - [Apple exec who departed over office return policy joins up with Google](https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google?utm_medium=rss)
+ - [Netflix has been screening new shows and movies among subscribers before their release](https://www.theverge.com/2022/5/17/23108008/netflix-screening-new-shows-movies-subscribers)
+ - [Apple Card users reporting missing transactions in Wallet app](https://appleinsider.com/articles/22/05/18/apple-card-users-reporting-missing-transactions-in-wallet-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
