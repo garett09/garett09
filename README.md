@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Russian subsidiary plans to file for bankruptcy, saying it is impossible to pay employees and suppliers after authorities seized its bank account &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/220518/p17#a220518p17)
- - [Daily deals May 18: $100 off Radeon RX 6800 XT, $70 Apple TV HD, discounted iPads, more](https://appleinsider.com/articles/22/05/18/daily-deals-may-18-100-off-radeon-rx-6800-xt-70-apple-tv-hd-discounted-ipads-more?utm_medium=rss)
- - [New Amazon Fire 7 Tablet Comes With a Faster Processor, USB-C and a Price Hike     - CNET](https://www.cnet.com/tech/computing/amazon-announces-new-fire-7-tablet-with-faster-processor-usb-c-and-more-ram-for-60/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acer unveils the Swift 3 laptop, starting at $900 with a 14&quot; OLED display, 12th-Gen Intel Core H-series CPUs, and claimed 10-hour battery life, coming in July &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220518/p19#a220518p19)
+ - [Acer announces the SpatialLabs View and SpatialLabs View Pro, standalone external 4K monitors with its glasses-free stereoscopic 3D tech, available from $1,099 &lpar;Phillip Tracy/Gizmodo&rpar;](http://www.techmeme.com/220518/p18#a220518p18)
+ - [This 200W charging station provides one-stop top-ups for all your gadgets](https://www.theverge.com/23105351/ugreen-nexode-200-watt-usb-c-power-delivery-charging-station-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
