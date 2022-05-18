@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead: The Game is a bloody good time, especially with friends](https://www.polygon.com/23101393/evil-dead-game-impressions-release-early-review-ash)
- - [Launch into the Minecraft Angry Birds DLC Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/18/launch-into-the-minecraft-angry-birds-dlc-now-in-the-minecraft-marketplace/)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
+ - [Elden Ring mod lets you summon bosses and story NPCs as companions](https://www.polygon.com/23124600/elden-ring-mod-summon-companions-npcs-bosses)
+ - [Cult classic RPG GreedFall gets a sequel to be released in 2024](https://www.polygon.com/23124803/greedfall-2-dying-world-announcement-2024-release-date)
+ - [Six Reasons to Play Ogre](https://news.xbox.com/en-us/2022/05/18/six-reasons-to-play-ogre/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
