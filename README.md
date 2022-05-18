@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masterschool, a network of virtual coding schools that takes 10% of monthly income to repay tuition, raises a $100M seed led by Group 11 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220518/p15#a220518p15)
- - [This Topsy-Turvy Gizmo Tries to Reinvent the Tripod Head](https://www.wired.com/review/platypod-platyball-elite)
- - [An EU Law Could Let US Prosecutors Scan Phones for Abortion Texts](https://www.wired.com/story/eu-law-scan-phones-abortion-texts)<!-- TECH:END -->
+ - [Google&#39;s Russian subsidiary plans to file for bankruptcy, saying it is impossible to pay employees and suppliers after authorities seized its bank account &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/220518/p17#a220518p17)
+ - [Daily deals May 18: $100 off Radeon RX 6800 XT, $70 Apple TV HD, discounted iPads, more](https://appleinsider.com/articles/22/05/18/daily-deals-may-18-100-off-radeon-rx-6800-xt-70-apple-tv-hd-discounted-ipads-more?utm_medium=rss)
+ - [New Amazon Fire 7 Tablet Comes With a Faster Processor, USB-C and a Price Hike     - CNET](https://www.cnet.com/tech/computing/amazon-announces-new-fire-7-tablet-with-faster-processor-usb-c-and-more-ram-for-60/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
