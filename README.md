@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmm.......](http://9gag.com/gag/aKmpX5b)
- - 🚯 [Marketers from God\u2060\u2060](http://9gag.com/gag/a41VBqZ)
- - 🚯 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)<!-- MEMES:END -->
+ - 🚖 [Peace was never an option](http://9gag.com/gag/a41V87m)
+ - 🚯 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
+ - 🚯 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)<!-- MEMES:END -->
 
 --- 
 
