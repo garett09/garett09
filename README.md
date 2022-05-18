@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Slipknot vs. Zeus: Legendary Metal Band Enters the Battleground of the Gods in Smite](https://news.xbox.com/en-us/2022/05/18/slipknot-enters-the-battleground-of-the-gods-in-smite/)
- - [It’s Stardew Valley Plus Spirited Away &lpar;Who Are We Kidding, You Already Clicked&rpar;](https://kotaku.com/spirittea-dan-beckerton-stardew-valley-spirited-away-co-1848943704)
- - [Ubisoft’s roller derby game gets May 25 release date](https://www.polygon.com/2022/5/18/23124975/roller-champions-ubisoft-derby-game-release-date-free-to-play)<!-- GAME:END -->
+ - [Xbox and 88rising: Music, Games, and Shared Experiences](https://news.xbox.com/en-us/2022/05/18/xbox-and-88-rising-music-games-and-shared-experiences/)
+ - [Dead By Daylight Dev Announces Dating Sim Spin-Off, Gives Killers Amazing Glow-Ups](https://kotaku.com/dead-by-daylight-hooked-on-you-dating-sim-trapper-spiri-1848943810)
+ - [10 of the most brutal game challenges of all time](https://www.pcgamer.com/10-of-the-most-brutal-game-challenges-of-all-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
