@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
- - 🚯 [Giovanni Giorgio](http://9gag.com/gag/aDDMv3x)
- - 🚯 [I wonder](http://9gag.com/gag/aWg9yzd)<!-- MEMES:END -->
+ - 🚖 [C, D, E, F, G, A, B... C!](http://9gag.com/gag/a51D30L)
+ - 🚯 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
+ - 🚯 [Say what you like . ...](http://9gag.com/gag/a11wgY8)<!-- MEMES:END -->
 
 --- 
 
