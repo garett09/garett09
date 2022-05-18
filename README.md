@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My little son was born today. I have no friends, so I celebrate alone. Have a drink with me if you can! Cheers !](http://9gag.com/gag/a41VVyQ)
- - 🚯 [Men&#39;s pockets be like](http://9gag.com/gag/a0ZwWAB)
- - 🚯 [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)<!-- MEMES:END -->
+ - 🚖 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)
+ - 🚯 [The amount of fire I am feeling from this woman as she burns Amber Heard slowly and brutally is genuinely satisfying \ud83e\udd23 #camillevasquezforpresident](http://9gag.com/gag/aVxBBq8)
+ - 🚯 [Very cool trick](http://9gag.com/gag/aQXVBpq)<!-- MEMES:END -->
 
 --- 
 
