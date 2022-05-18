@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends&#39; newest legend isn&#39;t coming to PC](https://www.pcgamer.com/apex-legends-newest-legend-isnt-coming-to-pc)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)
- - [The passwords most used by CEOs are startlingly dumb](https://www.pcgamer.com/the-passwords-most-used-by-ceos-are-startlingly-dumb)<!-- GAME:END -->
+ - [Let Bidoof Predict Your Breakup With This Fan-Made Pokémon Diamond Tarot Deck](https://kotaku.com/pokemon-tarot-deck-diamond-pearl-generation-iv-major-ar-1848939318)
+ - [Steve Jackson Games’ Ogre hits PS4 and PS5 today](https://blog.playstation.com/2022/05/18/steve-jackson-games-ogre-hits-ps4-and-ps5-today/)
+ - [Steve Jackson Games’ Ogre hits PS4 and PS5 today](https://blog.playstation.com/2022/05/18/steve-jackson-games-ogre-hits-ps4-and-ps5-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
