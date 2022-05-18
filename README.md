@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)
- - 🚯 [The amount of fire I am feeling from this woman as she burns Amber Heard slowly and brutally is genuinely satisfying \ud83e\udd23 #camillevasquezforpresident](http://9gag.com/gag/aVxBBq8)
- - 🚯 [Very cool trick](http://9gag.com/gag/aQXVBpq)<!-- MEMES:END -->
+ - 🚖 [Perfect slur for toddlers?](http://9gag.com/gag/aZrvd90)
+ - 🚯 [Very cool trick](http://9gag.com/gag/aQXVBpq)
+ - 🚯 [How to keep shit in Detroit](http://9gag.com/gag/aM4yDzM)<!-- MEMES:END -->
 
 --- 
 
