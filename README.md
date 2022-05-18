@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Smart Commerce in India, helping stores create online storefronts and offering tools for billing and inventory management &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220518/p8#a220518p8)
- - [Tencent misses estimates with ~$20.1B in Q1 revenue, up 0% YoY, as net income dropped 51% YoY to ~$3.5B; Tencent has lost ~$500B in value since its 2021 peak &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220518/p7#a220518p7)
- - [Daily Authority: 👉 Small Android phone?](https://www.androidauthority.com/daily-authority-may-18-2022-3166434/)<!-- TECH:END -->
+ - [A Letter to My Fellow Asian Mothers From the Multiverse](https://www.wired.com/story/turning-red-everything-everywhere-all-at-once)
+ - [Carbon-Rich Peat Is Disappearing. But Is It Also Growing?](https://www.wired.com/story/carbon-rich-peat-is-disappearing-but-is-it-also-growing)
+ - [This Hacktivist Site Lets You Prank-Call Russian Officials](https://www.wired.com/story/robo-prank-call-russian-officials-website)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
