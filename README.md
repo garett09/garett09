@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer unveils the Swift 3 laptop, starting at $900 with a 14&quot; OLED display, 12th-Gen Intel Core H-series CPUs, and claimed 10-hour battery life, coming in July &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220518/p19#a220518p19)
- - [Acer announces the SpatialLabs View and SpatialLabs View Pro, standalone external 4K monitors with its glasses-free stereoscopic 3D tech, available from $1,099 &lpar;Phillip Tracy/Gizmodo&rpar;](http://www.techmeme.com/220518/p18#a220518p18)
- - [This 200W charging station provides one-stop top-ups for all your gadgets](https://www.theverge.com/23105351/ugreen-nexode-200-watt-usb-c-power-delivery-charging-station-review)<!-- TECH:END -->
+ - [CoinGecko: after Tether lost its dollar peg, leading to $8.5B+ in redemptions, Circle&#39;s USDC stablecoin circulation rose by $3.4B and Binance USD is up $1.2B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220518/p22#a220518p22)
+ - [Indian trade body calls for &#39;urgent&#39; App Store regulation](https://appleinsider.com/articles/22/05/18/indian-trade-body-calls-for-urgent-app-store-regulation?utm_medium=rss)
+ - [Hisense launches its first-ever Fire TV for $529](https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
