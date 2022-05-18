@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic pays for Sherlock Holmes studio to relocate employees out of Kyiv](https://www.pcgamer.com/epic-pays-for-sherlock-holmes-studio-to-relocate-employees-out-of-kyiv)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Great games that Elden Ring overshadowed](https://www.pcgamer.com/great-games-that-elden-ring-overshadowed)<!-- GAME:END -->
+ - [Apex Legends&#39; newest legend isn&#39;t coming to PC](https://www.pcgamer.com/apex-legends-newest-legend-isnt-coming-to-pc)
+ - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)
+ - [The passwords most used by CEOs are startlingly dumb](https://www.pcgamer.com/the-passwords-most-used-by-ceos-are-startlingly-dumb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
