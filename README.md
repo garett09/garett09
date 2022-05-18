@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus&#39;s new ROG gaming laptop beast hides secret messages](https://www.pcgamer.com/asuss-new-rog-gaming-laptop-beast-hides-secret-messages)
  - [Nvidia is reportedly preparing the entry level GTX 1630](https://www.pcgamer.com/nvidia-is-reportedly-preparing-the-entry-level-gtx-1630)
- - [Total War: Warhammer 3&#39;s 1.2 update means more siege defences, less towers, free mounts](https://www.pcgamer.com/total-war-warhammer-3s-12-update-means-more-siege-defences-less-towers-free-mounts)
- - [Vampire survival game V Rising is out now](https://www.pcgamer.com/vampire-survival-game-v-rising-is-out-now)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s 1.2 update means more siege defences, less towers, free mounts](https://www.pcgamer.com/total-war-warhammer-3s-12-update-means-more-siege-defences-less-towers-free-mounts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
