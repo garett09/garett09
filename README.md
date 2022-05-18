@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York says Amazon doesn’t accommodate pregnant and disabled workers](https://www.theverge.com/2022/5/18/23124882/amazon-pregnant-disabled-workers-complaint-managers-new-york-governor)
- - [Night Sky is a warm, comforting sci-fi with too much filler](https://www.theverge.com/23124019/night-sky-review-amazon-prime-video)
- - [The top 10 Apple Arcade games in May 2022](https://appleinsider.com/articles/22/05/18/the-top-10-apple-arcade-games-in-may-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how Microsoft’s new One Outlook email app will work](https://www.theverge.com/2022/5/18/23125532/microsoft-new-one-outlook-beta-feature-details-loop-to-do-calendar)
+ - [Marvel Studios is licensing Stan Lee’s likeness from the company he sued before his death](https://www.theverge.com/2022/5/18/23123057/marvel-studios-stan-lee-likeness-pow-entertainment)
+ - [Fewer Americans think Big Tech should have more regulations](https://www.theverge.com/2022/5/18/23076508/big-tech-censorship-twitter-facebook-social-media-pew-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
