@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds first macOS Monterey 12.5 beta to developers](https://appleinsider.com/articles/22/05/18/apple-seeds-first-macos-monterey-125-beta-to-developers?utm_medium=rss)
- - [Apple releases first developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/18/apple-releases-first-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
- - [Vietnamese Prime Minister met with Tim Cook at Apple Park](https://appleinsider.com/articles/22/05/18/vietnamese-prime-minister-met-with-tim-cook-at-apple-park?utm_medium=rss)<!-- TECH:END -->
+ - [Google says its Russian subsidiary plans to file for bankruptcy after authorities seized its bank account; free services like Search and YouTube to keep running &lpar;Reuters&rpar;](http://www.techmeme.com/220518/p28#a220518p28)
+ - [Apple’s hidden setting instantly makes your video and audio calls sound better](https://www.theverge.com/23123578/apple-voice-isolation-facetime-calls)
+ - [How to close apps on Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/05/how-to-close-apps-on-apple-watch-in-watchos-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
