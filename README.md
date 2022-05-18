@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)
- - 🚯 [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
- - 🚯 [Monke](http://9gag.com/gag/aNP3MYv)<!-- MEMES:END -->
+ - 🚖 [Latvia, Riga today. Successful denazification.](http://9gag.com/gag/arnz086)
+ - 🚯 [It&#39;s like his life depended on it](http://9gag.com/gag/aM4y616)
+ - 🚯 [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)<!-- MEMES:END -->
 
 --- 
 
