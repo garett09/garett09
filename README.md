@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to keep shit in Detroit](http://9gag.com/gag/aM4yDzM)
- - 🚯 [Who did that too?](http://9gag.com/gag/angV83E)
- - 🚯 [Technically speaking.. he is right](http://9gag.com/gag/a6184gb)<!-- MEMES:END -->
+ - 🚖 [Overlapping comparison not yet made in court](http://9gag.com/gag/aM4yDV1)
+ - 🚯 [How to win a GTA mission in less than 5 seconds](http://9gag.com/gag/a11w8Dv)
+ - 🚯 [Battle of the year!](http://9gag.com/gag/a81zQB6)<!-- MEMES:END -->
 
 --- 
 
