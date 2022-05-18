@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says its Russian subsidiary plans to file for bankruptcy after authorities seized its bank account; free services like Search and YouTube to keep running &lpar;Reuters&rpar;](http://www.techmeme.com/220518/p28#a220518p28)
- - [Apple’s hidden setting instantly makes your video and audio calls sound better](https://www.theverge.com/23123578/apple-voice-isolation-facetime-calls)
- - [How to close apps on Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/05/how-to-close-apps-on-apple-watch-in-watchos-8?utm_medium=rss)<!-- TECH:END -->
+ - [New York says Amazon doesn’t accommodate pregnant and disabled workers](https://www.theverge.com/2022/5/18/23124882/amazon-pregnant-disabled-workers-complaint-managers-new-york-governor)
+ - [Night Sky is a warm, comforting sci-fi with too much filler](https://www.theverge.com/23124019/night-sky-review-amazon-prime-video)
+ - [The top 10 Apple Arcade games in May 2022](https://appleinsider.com/articles/22/05/18/the-top-10-apple-arcade-games-in-may-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
