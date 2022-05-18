@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truth be told](http://9gag.com/gag/aZrvXX9)
- - 🚯 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
+ - 🚖 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
+ - 🚯 [Giovanni Giorgio](http://9gag.com/gag/aDDMv3x)
  - 🚯 [I wonder](http://9gag.com/gag/aWg9yzd)<!-- MEMES:END -->
 
 --- 
