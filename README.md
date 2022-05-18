@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Left or Right?](http://9gag.com/gag/a81zXdY)
- - 🚯 [Men&#39;s pockets be like](http://9gag.com/gag/a0ZwWAB)
- - 🚯 [Mad Max 2022](http://9gag.com/gag/aGzb626)<!-- MEMES:END -->
+ - 🚖 [Mad Max 2022](http://9gag.com/gag/aGzb626)
+ - 🚯 [This movie was my childhood. Still looks great.](http://9gag.com/gag/apg8zQB)
+ - 🚯 [Battle of the year!](http://9gag.com/gag/a81zQB6)<!-- MEMES:END -->
 
 --- 
 
