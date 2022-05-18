@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Decided to start my own business, previous company still paying me to work on their projects.](http://9gag.com/gag/aDDM90O)
- - 🚯 [Wisdom from people who realised it too late.](http://9gag.com/gag/aqGAVyj)
- - 🚯 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)<!-- MEMES:END -->
+ - 🚖 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)
+ - 🚯 [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
+ - 🚯 [Monke](http://9gag.com/gag/aNP3MYv)<!-- MEMES:END -->
 
 --- 
 
