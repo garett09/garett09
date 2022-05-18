@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mad Max 2022](http://9gag.com/gag/aGzb626)
- - 🚯 [This movie was my childhood. Still looks great.](http://9gag.com/gag/apg8zQB)
- - 🚯 [Battle of the year!](http://9gag.com/gag/a81zQB6)<!-- MEMES:END -->
+ - 🚖 [How to keep shit in Detroit](http://9gag.com/gag/aM4yDzM)
+ - 🚯 [Who did that too?](http://9gag.com/gag/angV83E)
+ - 🚯 [Technically speaking.. he is right](http://9gag.com/gag/a6184gb)<!-- MEMES:END -->
 
 --- 
 
