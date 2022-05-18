@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect slur for toddlers?](http://9gag.com/gag/aZrvd90)
- - 🚯 [Very cool trick](http://9gag.com/gag/aQXVBpq)
- - 🚯 [How to keep shit in Detroit](http://9gag.com/gag/aM4yDzM)<!-- MEMES:END -->
+ - 🚖 [Left or Right?](http://9gag.com/gag/a81zXdY)
+ - 🚯 [Men&#39;s pockets be like](http://9gag.com/gag/a0ZwWAB)
+ - 🚯 [Mad Max 2022](http://9gag.com/gag/aGzb626)<!-- MEMES:END -->
 
 --- 
 
