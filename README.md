@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
- - 🚯 [Truth be told](http://9gag.com/gag/aZrvXX9)
- - 🚯 [Germans love bread](http://9gag.com/gag/a61863A)<!-- MEMES:END -->
+ - 🚖 [Truth be told](http://9gag.com/gag/aZrvXX9)
+ - 🚯 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
+ - 🚯 [I wonder](http://9gag.com/gag/aWg9yzd)<!-- MEMES:END -->
 
 --- 
 
