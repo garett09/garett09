@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
- - 🚯 [Grams made an animal vest to wear to parties](http://9gag.com/gag/aDDMq1w)
- - 🚯 [Constructing a stone walkway.](http://9gag.com/gag/aXreQOV)<!-- MEMES:END -->
+ - 🚖 [Hmmm.......](http://9gag.com/gag/aKmpX5b)
+ - 🚯 [So it begins. It&#39;s official. Sweden and Finland applying for NATO](http://9gag.com/gag/azeQvxN)
+ - 🚯 [Oh no! Anyway](http://9gag.com/gag/amgny0V)<!-- MEMES:END -->
 
 --- 
 
