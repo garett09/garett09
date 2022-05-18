@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring mod lets you summon bosses and story NPCs as companions](https://www.polygon.com/23124600/elden-ring-mod-summon-companions-npcs-bosses)
- - [Cult classic RPG GreedFall gets a sequel to be released in 2024](https://www.polygon.com/23124803/greedfall-2-dying-world-announcement-2024-release-date)
- - [Six Reasons to Play Ogre](https://news.xbox.com/en-us/2022/05/18/six-reasons-to-play-ogre/)<!-- GAME:END -->
+ - [Slipknot vs. Zeus: Legendary Metal Band Enters the Battleground of the Gods in Smite](https://news.xbox.com/en-us/2022/05/18/slipknot-enters-the-battleground-of-the-gods-in-smite/)
+ - [It’s Stardew Valley Plus Spirited Away &lpar;Who Are We Kidding, You Already Clicked&rpar;](https://kotaku.com/spirittea-dan-beckerton-stardew-valley-spirited-away-co-1848943704)
+ - [Ubisoft’s roller derby game gets May 25 release date](https://www.polygon.com/2022/5/18/23124975/roller-champions-ubisoft-derby-game-release-date-free-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
