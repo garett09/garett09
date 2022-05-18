@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmm.......](http://9gag.com/gag/aKmpX5b)
- - 🚯 [So it begins. It&#39;s official. Sweden and Finland applying for NATO](http://9gag.com/gag/azeQvxN)
- - 🚯 [Oh no! Anyway](http://9gag.com/gag/amgny0V)<!-- MEMES:END -->
+ - 🚖 [Peace was never an option](http://9gag.com/gag/a41V87m)
+ - 🚯 [Still want to shake hands](http://9gag.com/gag/abgELAr)
+ - 🚯 [Hmmm.......](http://9gag.com/gag/aKmpX5b)<!-- MEMES:END -->
 
 --- 
 
