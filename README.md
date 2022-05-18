@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [20s kids](http://9gag.com/gag/a21Gx9D)
- - 🚯 [WTF Spain](http://9gag.com/gag/aogDdL2)
- - 🚯 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)<!-- MEMES:END -->
+ - 🚖 [My little son was born today. I have no friends, so I celebrate alone. Have a drink with me if you can! Cheers !](http://9gag.com/gag/a41VVyQ)
+ - 🚯 [Men&#39;s pockets be like](http://9gag.com/gag/a0ZwWAB)
+ - 🚯 [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)<!-- MEMES:END -->
 
 --- 
 
