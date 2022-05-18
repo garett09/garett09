@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: after Tether lost its dollar peg, leading to $8.5B+ in redemptions, Circle&#39;s USDC stablecoin circulation rose by $3.4B and Binance USD is up $1.2B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220518/p22#a220518p22)
- - [Indian trade body calls for &#39;urgent&#39; App Store regulation](https://appleinsider.com/articles/22/05/18/indian-trade-body-calls-for-urgent-app-store-regulation?utm_medium=rss)
- - [Hisense launches its first-ever Fire TV for $529](https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon)<!-- TECH:END -->
+ - [Drop is taking 20 percent off select keycaps exclusively for Verge readers](https://www.theverge.com/good-deals/2022/5/18/23103325/drop-mechanical-keyboard-keycaps-exclusive-logitech-g-pro-superlight-apple-airpods-garmin-deal-sale)
+ - [Apple debuts new privacy ad highlighting how iPhone fights data brokers](https://appleinsider.com/articles/22/05/18/apple-debuts-new-privacy-ad-spot-highlighting-how-iphone-fights-data-brokers?utm_medium=rss)
+ - [Glean, which uses AI to offer unified search across apps used by a company, raises a $100M Series C led by Sequoia at a $1B post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220518/p23#a220518p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
