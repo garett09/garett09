@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are getting tired of illegal parking](http://9gag.com/gag/apg8wm8)
+ - 🚖 [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
  - 🚯 [Truth be told](http://9gag.com/gag/aZrvXX9)
- - 🚯 [Monke](http://9gag.com/gag/aNP3MYv)<!-- MEMES:END -->
+ - 🚯 [Germans love bread](http://9gag.com/gag/a61863A)<!-- MEMES:END -->
 
 --- 
 
