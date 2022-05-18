@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The last number of your upvote will be your `Friends with benefit`](http://9gag.com/gag/avAmB15)
+ - 🚖 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
  - 🚯 [Grams made an animal vest to wear to parties](http://9gag.com/gag/aDDMq1w)
- - 🚯 [Still want to shake hands](http://9gag.com/gag/abgELAr)<!-- MEMES:END -->
+ - 🚯 [Constructing a stone walkway.](http://9gag.com/gag/aXreQOV)<!-- MEMES:END -->
 
 --- 
 
