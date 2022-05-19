@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the wholesome picture from the trial. All the men in the world deserves a women like Camille who would fight for them.](http://9gag.com/gag/aOQGX4y)
- - 🚯 [Find the center of a board](http://9gag.com/gag/abgEjGE)
- - 🚯 [Understandable](http://9gag.com/gag/a21GBvd)<!-- MEMES:END -->
+ - 🚖 [Johnny being Johnny](http://9gag.com/gag/aOQG6or)
+ - 🚯 [Understandable](http://9gag.com/gag/a21GBvd)
+ - 🚯 [Make it happen!!](http://9gag.com/gag/a41VeNd)<!-- MEMES:END -->
 
 --- 
 
