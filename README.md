@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s anti-tracking tech is mostly working, but it can&#39;t block everything](https://appleinsider.com/articles/22/05/19/apples-anti-tracking-tech-is-mostly-working-but-it-cant-block-everything?utm_medium=rss)
- - [Indian used car marketplace Cars24 lays off 600 people, which a source says is 6% of its workforce, after raising $400M in December 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220519/p16#a220519p16)
- - [Jakarta-based payments infrastructure startup Xendit raises a $300M Series D led by Coatue and Insight, after raising a $150M Series C in September 2021 &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/220519/p15#a220519p15)<!-- TECH:END -->
+ - [Apple TV+ comedy series &#39;Trying&#39; to return for season three on July 22](https://appleinsider.com/articles/22/05/19/apple-tv-comedy-series-trying-to-return-for-season-three-on-july-22?utm_medium=rss)
+ - [Studio Display 15.5 update minimally improves camera and performance](https://appleinsider.com/articles/22/05/19/studio-display-155-update-minimally-improves-camera-and-performance?utm_medium=rss)
+ - [More PlayStation 5 consoles are coming to Walmart on June 2nd](https://www.theverge.com/2022/5/19/23130194/sony-playstation-5-ps5-walmart-plus-console-restock-availability-date-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
