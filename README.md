@@ -196,8 +196,8 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Success Story](http://9gag.com/gag/aDDMvbN)
- - 🚯 [Germans love bread](http://9gag.com/gag/a61863A)
- - 🚯 [Exactly](http://9gag.com/gag/a81zOvV)<!-- MEMES:END -->
+ - 🚯 [Exactly](http://9gag.com/gag/a81zOvV)
+ - 🚯 [The falling speed is Independent from the mass.](http://9gag.com/gag/ay9PKYr)<!-- MEMES:END -->
 
 --- 
 
