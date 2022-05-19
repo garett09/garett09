@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crypto energy usage has barely dropped, even with market crashes](https://www.pcgamer.com/crypto-energy-usage-has-barely-dropped-even-with-market-crashes)
  - [These inverted solar panels can generate power from almost any heat source](https://www.pcgamer.com/these-inverted-solar-panels-can-generate-power-from-almost-any-heat-source)
- - [V Rising developers will make offline mode available &#39;as soon as possible&#39;](https://www.pcgamer.com/v-rising-developers-will-make-offline-mode-available-as-soon-as-possible)
- - [AI robot painter holds an exhibition and her art is really cool](https://www.pcgamer.com/ai-robot-painter-holds-an-exhibition-and-her-art-is-really-cool)<!-- GAME:END -->
+ - [V Rising developers will make offline mode available &#39;as soon as possible&#39;](https://www.pcgamer.com/v-rising-developers-will-make-offline-mode-available-as-soon-as-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
