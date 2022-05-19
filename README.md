@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Tribute To Facing Worlds, One Of The Greatest Multiplayer Maps Of All Time](https://kotaku.com/facing-worlds-unreal-tournament-ut-epic-games-multiplay-1848946987)
  - [Pentagon shows off cool new UFO footage, but still says it&#39;s probably not aliens](https://www.pcgamer.com/pentagon-shows-off-cool-new-ufo-footage-but-still-says-its-probably-not-aliens)
- - [DICE is removing Battlefield 2042&#39;s 128-player Breakthrough playlist, says 64 players is &#39;more tactical&#39;](https://www.pcgamer.com/dice-is-removing-battlefield-2042s-128-player-breakthrough-playlist-says-64-players-is-more-tactical)
- - [Surprise! You can now watch an episode of the new Love, Death &amp; Robots season for free](https://www.polygon.com/23126109/love-death-robots-season-3-free-episode-youtube)<!-- GAME:END -->
+ - [DICE is removing Battlefield 2042&#39;s 128-player Breakthrough playlist, says 64 players is &#39;more tactical&#39;](https://www.pcgamer.com/dice-is-removing-battlefield-2042s-128-player-breakthrough-playlist-says-64-players-is-more-tactical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
