@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giovanni Giorgio](http://9gag.com/gag/aDDMv3x)
- - 🚯 [He&#39;s living in 2042.](http://9gag.com/gag/awzvpgR)
- - 🚯 [It&#39;s normal to me, but seems like a milestone these days](http://9gag.com/gag/aM4y57A)<!-- MEMES:END -->
+ - 🚖 [He&#39;s living in 2042.](http://9gag.com/gag/awzvpgR)
+ - 🚯 [Success Story](http://9gag.com/gag/aDDMvbN)
+ - 🚯 [That&#39;s perjury, right there!](http://9gag.com/gag/aLvr71V)<!-- MEMES:END -->
 
 --- 
 
