@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with a16z&#39;s Jonathan Lai on Games Fund One, the VC firm&#39;s new $600M fund for games that will invest in studios, infrastructure, and technologies &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220518/p43#a220518p43)
- - [The CISA orders US federal civilian agencies to patch or remove VMware products affected by a critical RCE vulnerability that hackers are actively exploiting &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220518/p42#a220518p42)
- - [YouTube rolls out player features to all users, including a graph to easily locate the &quot;Most replayed&quot; video parts, support for video chapters, and video loops &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220518/p41#a220518p41)<!-- TECH:END -->
+ - [Cairo- and San Francisco-based Instabug, which helps developers monitor performance and fix bugs in their apps, raises a $46M Series B led by Insight Partners &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220519/p1#a220519p1)
+ - [Google Doodle Honors Disability Rights Activist Stacey Park Milbern     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-disability-rights-activist-stacey-park-milbern/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39; Could Be the Last Hope for Star Wars Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-could-be-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
