@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A valuable lesson](http://9gag.com/gag/adgbEDN)
- - 🚯 [Lock equipped bike](http://9gag.com/gag/aZrvGrp)
- - 🚯 [You can\u2019t make this stuff up - Amber Heard\u2019s lawyers bring in a \u201cTwitter\u201d expert, and Johnny Depp\u2019s lawyer jumps on the opportunity to say #AmberTurd in front of jury](http://9gag.com/gag/arnz6j7)<!-- MEMES:END -->
+ - 🚖 [Plot twist: He&#39;s a senior engineer](http://9gag.com/gag/a71A4m2)
+ - 🚯 [I wonder which one&#39;s Dutch](http://9gag.com/gag/a618vvA)
+ - 🚯 [One of the wholesome picture from the trial. All the men in the world deserves a women like Camille who would fight for them.](http://9gag.com/gag/aOQGX4y)<!-- MEMES:END -->
 
 --- 
 
