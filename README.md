@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Z Flip 4 may have a much larger battery after all](https://www.androidauthority.com/samsung-galaxy-z-flip-4-battery-2-3167091/)
- - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
- - [Netflix’s new ‘mystery box’ is like a kids-focused version of the shuffle button](https://www.theverge.com/2022/5/19/23131244/netflix-kids-mystery-box-shuffle-button)<!-- TECH:END -->
+ - [Steam Deck rivals OneXPlayer, Aya, and GPD are planning their revenge with AMD’s 6800U](https://www.theverge.com/2022/5/19/23125695/steam-deck-onexplayer-aya-neo-gpd-win-max-2)
+ - [Sacramento-based Azra Games, a blockchain gaming startup developing a sci-fi fantasy game with virtual collectibles, raises a $15M seed led by a16z &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220519/p32#a220519p32)
+ - [The Department of Energy to dole out $3.5 billion for carbon removal hubs](https://www.theverge.com/2022/5/19/23131286/energy-department-3-5-billion-carbon-removal-hubs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
