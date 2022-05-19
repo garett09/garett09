@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It Just Works](http://9gag.com/gag/a31n6Z3)
+ - 🚖 [Dub &gt; Sub ?](http://9gag.com/gag/aAGZzz9)
  - 🚯 [This place in New Zealand where you can race go karts down a hill.](http://9gag.com/gag/aWg9rY4)
- - 🚯 [What is love??](http://9gag.com/gag/adgbGPB)<!-- MEMES:END -->
+ - 🚯 [The future is now](http://9gag.com/gag/aAGZ8y9)<!-- MEMES:END -->
 
 --- 
 
