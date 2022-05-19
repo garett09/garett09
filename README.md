@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discord, Twitch, 4Chan and more to be investigated in wake of Buffalo terror attack](https://www.pcgamer.com/discord-twitch-4chan-and-more-to-be-investigated-in-wake-of-buffalo-terror-attack)
- - [Today&#39;s Wordle answer #334: Thursday, May 19](https://www.pcgamer.com/wordle-may-19-334)
- - [Crypto energy usage has barely dropped, even with market crashes](https://www.pcgamer.com/crypto-energy-usage-has-barely-dropped-even-with-market-crashes)<!-- GAME:END -->
+ - [How to complete Knight Bernahl&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-bernahl-quest-invasion-letter)
+ - [Framework&#39;s 12th Gen Intel upgrade kit is a welcome first for laptops](https://www.pcgamer.com/frameworks-12th-gen-intel-upgrade-kit-is-a-welcome-first-for-laptops)
+ - [EA&#39;s split with FIFA reportedly led to layoffs at its customer support studios](https://www.pcgamer.com/eas-split-with-fifa-reportedly-led-to-layoffs-at-its-customer-support-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
