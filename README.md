@@ -196,7 +196,7 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I love chocolattes](http://9gag.com/gag/aRrDY6y)
- - 🚯 [Lock equipped bike](http://9gag.com/gag/aZrvGrp)
+ - 🚯 [Les Grossman vs Flaming Dragon](http://9gag.com/gag/aVxBAZ8)
  - 🚯 [Make 5his happen and give me one](http://9gag.com/gag/awzv6oy)<!-- MEMES:END -->
 
 --- 
