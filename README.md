@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ukrainian studio Frogwares’ Epic MegaGrant ‘brings a little bit of extra stability’ during war](https://www.polygon.com/23125547/ukraine-war-frogwares-epic-mega-grant-palianytsia-new-game)
- - [V Rising is more than Valheim with vampires](https://www.pcgamer.com/v-rising-is-more-than-valheim-with-vampires)
- - [Home worker gets verbal warning for gaming on break despite switching to their own PC](https://www.pcgamer.com/home-worker-gets-verbal-warning-for-gaming-on-break-despite-switching-to-their-own-pc)<!-- GAME:END -->
+ - [Borderlands 3 is free on the Epic Games Store](https://www.polygon.com/23130579/borderlands-3-free-pc-epic-games-store-mega-sale-vault)
+ - [Urusei Yatsura’s first teaser re-introduces an ’80s anime icon to modern audiences](https://www.polygon.com/23130593/urusei-yatsura-anime-trailer-release-date-october)
+ - [Vampire in the Garden is a beautiful but anemic horror romance](https://www.polygon.com/reviews/23124788/vampire-in-the-garden-review-netflix-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
