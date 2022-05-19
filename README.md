@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 3 is free on the Epic Games Store](https://www.polygon.com/23130579/borderlands-3-free-pc-epic-games-store-mega-sale-vault)
- - [Urusei Yatsura’s first teaser re-introduces an ’80s anime icon to modern audiences](https://www.polygon.com/23130593/urusei-yatsura-anime-trailer-release-date-october)
- - [Vampire in the Garden is a beautiful but anemic horror romance](https://www.polygon.com/reviews/23124788/vampire-in-the-garden-review-netflix-anime)<!-- GAME:END -->
+ - [Riverdale ending with season 7](https://www.polygon.com/23130754/riverdale-canceled-finale-ending-last-season-7-cw)
+ - [Saints Row Previews Say Reboot Offers Bonkers Action, Deep Customization](https://kotaku.com/saints-row-reboot-preview-roundup-volition-grand-theft-1848949274)
+ - [Puzzle-adventure game A Monster’s Expedition hits PS5 &amp; PS4 today](https://blog.playstation.com/2022/05/19/puzzle-adventure-game-a-monsters-expedition-hits-ps5-ps4-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
