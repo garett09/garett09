@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metallica Gets Its Own Metal-Themed Pro-Ject Turntable, and I Will Fight You for One     - CNET](https://www.cnet.com/tech/home-entertainment/metallica-gets-its-own-metal-themed-pro-ject-turntable-and-i-will-fight-you-for-one/#ftag=CAD590a51e)
- - [Here’s how Disney Plus will implement its ad-supported plan later this year](https://www.androidauthority.com/disney-plus-ad-supported-plan-3127334/)
- - [A look at the competition between China and the US to build exascale supercomputers, useful for defense and climate modeling, as China pulls ahead &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220519/p2#a220519p2)<!-- TECH:END -->
+ - [Microsoft tests Windows 11 desktop widgets with web search bar](https://www.theverge.com/2022/5/19/23128319/microsoft-windows-11-widget-preview-build-test-desktop-web-search)
+ - [Apple accused of union busting in its stores for the second time this week](https://www.theverge.com/2022/5/19/23128247/apple-accused-union-busting-nyc-world-trade-center-stores-cwa)
+ - [Stripe launches Data Pipeline, letting its US customers link Stripe transactions data and their data stores in Amazon Redshift or Snowflake&#39;s Data Cloud &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220519/p3#a220519p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
