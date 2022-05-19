@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plot twist: He&#39;s a senior engineer](http://9gag.com/gag/a71A4m2)
- - 🚯 [I wonder which one&#39;s Dutch](http://9gag.com/gag/a618vvA)
- - 🚯 [One of the wholesome picture from the trial. All the men in the world deserves a women like Camille who would fight for them.](http://9gag.com/gag/aOQGX4y)<!-- MEMES:END -->
+ - 🚖 [One of the wholesome picture from the trial. All the men in the world deserves a women like Camille who would fight for them.](http://9gag.com/gag/aOQGX4y)
+ - 🚯 [Find the center of a board](http://9gag.com/gag/abgEjGE)
+ - 🚯 [Understandable](http://9gag.com/gag/a21GBvd)<!-- MEMES:END -->
 
 --- 
 
