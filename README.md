@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Success Story](http://9gag.com/gag/aDDMvbN)
- - 🚯 [Exactly](http://9gag.com/gag/a81zOvV)
- - 🚯 [The falling speed is Independent from the mass.](http://9gag.com/gag/ay9PKYr)<!-- MEMES:END -->
+ - 🚖 [The falling speed is Independent from the mass.](http://9gag.com/gag/ay9PKYr)
+ - 🚯 [No way](http://9gag.com/gag/aYrm0nx)
+ - 🚯 [Oh Yes](http://9gag.com/gag/ajgyz51)<!-- MEMES:END -->
 
 --- 
 
