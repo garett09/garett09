@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)
- - 🚯 [Oh Yes](http://9gag.com/gag/ajgyz51)
- - 🚯 [Old but new](http://9gag.com/gag/a71AY6e)<!-- MEMES:END -->
+ - 🚖 [This is the way](http://9gag.com/gag/aYrm9g0)
+ - 🚯 [Old but new](http://9gag.com/gag/a71AY6e)
+ - 🚯 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)<!-- MEMES:END -->
 
 --- 
 
