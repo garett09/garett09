@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework updates the 13.5&quot; modular Framework Laptop with 12th-Gen Intel CPUs, starting at $1,049; owners can upgrade existing laptops with a $538 kit &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220519/p12#a220519p12)
- - [Singapore-based Grab reports Q1 revenue rose 6% YoY to $228M, beating analyst estimates, as its net loss narrowed to $435M; Grab stock is down 70%+ from its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/220519/p11#a220519p11)
- - [FCC Crusade to End Robocalls May Get a New Boost     - CNET](https://www.cnet.com/tech/mobile/fcc-crusade-to-end-robocalls-may-get-a-new-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s anti-tracking tech is mostly working, but it can&#39;t block everything](https://appleinsider.com/articles/22/05/19/apples-anti-tracking-tech-is-mostly-working-but-it-cant-block-everything?utm_medium=rss)
+ - [Indian used car marketplace Cars24 lays off 600 people, which a source says is 6% of its workforce, after raising $400M in December 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220519/p16#a220519p16)
+ - [Jakarta-based payments infrastructure startup Xendit raises a $300M Series D led by Coatue and Insight, after raising a $150M Series C in September 2021 &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/220519/p15#a220519p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
