@@ -195,7 +195,7 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women](http://9gag.com/gag/aBnoAON)
+ - 🚖 [When there&#39;s trouble you know who to call](http://9gag.com/gag/avAmMqM)
  - 🚯 [It Just Works](http://9gag.com/gag/a31n6Z3)
  - 🚯 [Probably the closest thing we&#39;ll get to a confession](http://9gag.com/gag/aWg9rP3)<!-- MEMES:END -->
 
