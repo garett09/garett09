@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s living in 2042.](http://9gag.com/gag/awzvpgR)
- - 🚯 [Success Story](http://9gag.com/gag/aDDMvbN)
- - 🚯 [That&#39;s perjury, right there!](http://9gag.com/gag/aLvr71V)<!-- MEMES:END -->
+ - 🚖 [Success Story](http://9gag.com/gag/aDDMvbN)
+ - 🚯 [Germans love bread](http://9gag.com/gag/a61863A)
+ - 🚯 [Exactly](http://9gag.com/gag/a81zOvV)<!-- MEMES:END -->
 
 --- 
 
