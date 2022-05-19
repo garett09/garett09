@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Borderlands Game, Ranked From Worst To Best](https://kotaku.com/borderlands-games-ranked-tiny-tinas-wonderlands-gearbox-1848944874)
- - [Fortnite returning to iOS, but not to the App Store](https://www.polygon.com/fortnite/22667072/fortnite-iphone-ios-geforce-now-epic-games)
- - [Epic Games Store’s Mega Sale goes live, with 4 free games on the way](https://www.polygon.com/gaming/23125952/epic-games-stores-mega-sale-discounts-games-coupon)<!-- GAME:END -->
+ - [Ukrainian studio Frogwares’ Epic MegaGrant ‘brings a little bit of extra stability’ during war](https://www.polygon.com/23125547/ukraine-war-frogwares-epic-mega-grant-palianytsia-new-game)
+ - [V Rising is more than Valheim with vampires](https://www.pcgamer.com/v-rising-is-more-than-valheim-with-vampires)
+ - [Home worker gets verbal warning for gaming on break despite switching to their own PC](https://www.pcgamer.com/home-worker-gets-verbal-warning-for-gaming-on-break-despite-switching-to-their-own-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
