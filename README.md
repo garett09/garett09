@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To Isengard](http://9gag.com/gag/aKmpRW1)
- - 🚯 [Set the bar lower for yourself](http://9gag.com/gag/aOQGwg3)
- - 🚯 [Damn Romanians](http://9gag.com/gag/arnzYV6)<!-- MEMES:END -->
+ - 🚖 [I love chocolattes](http://9gag.com/gag/aRrDY6y)
+ - 🚯 [Lock equipped bike](http://9gag.com/gag/aZrvGrp)
+ - 🚯 [Make 5his happen and give me one](http://9gag.com/gag/awzv6oy)<!-- MEMES:END -->
 
 --- 
 
