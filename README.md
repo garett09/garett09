@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the way](http://9gag.com/gag/aYrm9g0)
- - 🚯 [Old but new](http://9gag.com/gag/a71AY6e)
- - 🚯 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)<!-- MEMES:END -->
+ - 🚖 [To Isengard](http://9gag.com/gag/aKmpRW1)
+ - 🚯 [Set the bar lower for yourself](http://9gag.com/gag/aOQGwg3)
+ - 🚯 [Damn Romanians](http://9gag.com/gag/arnzYV6)<!-- MEMES:END -->
 
 --- 
 
