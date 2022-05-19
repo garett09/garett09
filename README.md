@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHTSA records show it is investigating over 30 incidents of a Tesla suspected of being on Autopilot mode going on to be involved in a serious crash &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/220519/p6#a220519p6)
- - [Chinese citizens angered by Shanghai&#39;s ongoing lockdowns are evading censorship of a viral post and video criticizing the government by minting them into NFTs &lpar;Financial Times&rpar;](http://www.techmeme.com/220519/p5#a220519p5)
- - [Apple must pay PanOptis $300 million for infringing wireless patents](https://appleinsider.com/articles/22/05/19/apple-must-pay-panoptis-300-million-for-infringing-wireless-patents?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi beats estimates with ~$10.9B in Q1 revenue, down 4.6% YoY for its first-ever decline, and a ~$87M net loss, as China&#39;s lockdown cripples smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/220519/p8#a220519p8)
+ - [Garmin finally adds a camera to its Varia bike radar](https://www.theverge.com/2022/5/19/23129229/garmin-varia-rct715-camera-radar-taillight-price-specs)
+ - [AirDNA, Inside Airbnb, and Douglas Elliman data: NYC has ~3K to ~13K more Airbnb listings than rental apartments despite Airbnb listings falling in the pandemic &lpar;Kim Velsey/Curbed&rpar;](http://www.techmeme.com/220519/p7#a220519p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
