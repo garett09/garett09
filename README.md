@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Loot Vault Is Finally Getting Bigger After Three Long Years](https://kotaku.com/destiny-2-witch-queen-season-17-vault-space-bungie-exot-1848951099)
- - [Go ‘glamping’ with the coziest kit to hit The Sims](https://www.polygon.com/23131349/sims-new-expansion-pack-camping-moonlight-chic-little-campters)
- - [Superstar Final Fantasy XIV Producer’s First Square Enix Game Was Canceled](https://kotaku.com/final-fantasy-xiv-ffxiv-naoki-yoshida-square-enix-cance-1848951217)<!-- GAME:END -->
+ - [Destiny 2’s new dungeon gets a release date](https://www.polygon.com/23131220/destiny-2-dungeon-season-17-vault-space-holiday-event-solstice)
+ - [The latest sadistic Sims challenge: survive 24 hours unsupervised in a haunted house](https://www.pcgamer.com/the-latest-sadistic-sims-challenge-survive-24-hours-unsupervised-in-a-haunted-house)
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
