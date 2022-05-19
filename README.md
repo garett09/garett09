@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s new dungeon gets a release date](https://www.polygon.com/23131220/destiny-2-dungeon-season-17-vault-space-holiday-event-solstice)
- - [The latest sadistic Sims challenge: survive 24 hours unsupervised in a haunted house](https://www.pcgamer.com/the-latest-sadistic-sims-challenge-survive-24-hours-unsupervised-in-a-haunted-house)
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)<!-- GAME:END -->
+ - [New PS Plus brings trophy support to classic games](https://www.polygon.com/23131569/playstation-plus-premium-trophy-support-spartacus)
+ - [D&amp;D Beyond is giving away the Acquisitions Incorporated campaign book for free](https://www.polygon.com/23131334/dungeons-and-dragons-dnd-beyond-acquisitions-incorporated-campaign-book-free)
+ - [Here Are All The Pressers Filling The Vacuum Left By E3’s Shambling Zombie Corpse](https://kotaku.com/e3-2022-press-conference-schedule-xbox-bethesda-gamesco-1848951821)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
