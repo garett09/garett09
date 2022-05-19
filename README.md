@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yesss](http://9gag.com/gag/avAmNNM)
- - 🚯 [Make it happen!!](http://9gag.com/gag/a41VeNd)
- - 🚯 [A valuable lesson](http://9gag.com/gag/adgbEDN)<!-- MEMES:END -->
+ - 🚖 [A valuable lesson](http://9gag.com/gag/adgbEDN)
+ - 🚯 [Lock equipped bike](http://9gag.com/gag/aZrvGrp)
+ - 🚯 [You can\u2019t make this stuff up - Amber Heard\u2019s lawyers bring in a \u201cTwitter\u201d expert, and Johnny Depp\u2019s lawyer jumps on the opportunity to say #AmberTurd in front of jury](http://9gag.com/gag/arnz6j7)<!-- MEMES:END -->
 
 --- 
 
