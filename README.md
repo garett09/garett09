@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [N3TWORK Studios, a blockchain gaming startup that incorporates features like NFTs into their mobile games, raises a $46M Series A led by Griffin Gaming Partners &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220518/p37#a220518p37)
- - [Survey shows Netflix is losing more long-term subscribers](https://www.theverge.com/2022/5/18/23125424/netflix-losing-long-term-subscribers-streaming)
- - [Now non-Tesla EVs can use its Superchargers in the UK, Spain, Sweden, and Austria](https://www.theverge.com/2022/5/18/23125391/tesla-supercharger-electric-vehicle-charging-pilot-expansion-uk-spain)<!-- TECH:END -->
+ - [Meta freezes hiring for engineers in some product teams such as Facebook Gaming, Dating, others; Zuckerberg said layoffs aren&#39;t planned in an internal meeting &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220518/p40#a220518p40)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [How to use a Nintendo Switch Pro Controller on PC](https://www.androidauthority.com/connect-switch-pro-controller-pc-3165746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
