@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi beats estimates with ~$10.9B in Q1 revenue, down 4.6% YoY for its first-ever decline, and a ~$87M net loss, as China&#39;s lockdown cripples smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/220519/p8#a220519p8)
- - [Garmin finally adds a camera to its Varia bike radar](https://www.theverge.com/2022/5/19/23129229/garmin-varia-rct715-camera-radar-taillight-price-specs)
- - [AirDNA, Inside Airbnb, and Douglas Elliman data: NYC has ~3K to ~13K more Airbnb listings than rental apartments despite Airbnb listings falling in the pandemic &lpar;Kim Velsey/Curbed&rpar;](http://www.techmeme.com/220519/p7#a220519p7)<!-- TECH:END -->
+ - [Framework updates the 13.5&quot; modular Framework Laptop with 12th-Gen Intel CPUs, starting at $1,049; owners can upgrade existing laptops with a $538 kit &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220519/p12#a220519p12)
+ - [Singapore-based Grab reports Q1 revenue rose 6% YoY to $228M, beating analyst estimates, as its net loss narrowed to $435M; Grab stock is down 70%+ from its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/220519/p11#a220519p11)
+ - [FCC Crusade to End Robocalls May Get a New Boost     - CNET](https://www.cnet.com/tech/mobile/fcc-crusade-to-end-robocalls-may-get-a-new-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
