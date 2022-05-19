@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thought](http://9gag.com/gag/apg87YB)
+ - 🚖 [Giovanni Giorgio](http://9gag.com/gag/aDDMv3x)
  - 🚯 [He&#39;s living in 2042.](http://9gag.com/gag/awzvpgR)
- - 🚯 [When you are getting tired of illegal parking](http://9gag.com/gag/apg8wm8)<!-- MEMES:END -->
+ - 🚯 [It&#39;s normal to me, but seems like a milestone these days](http://9gag.com/gag/aM4y57A)<!-- MEMES:END -->
 
 --- 
 
