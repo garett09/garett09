@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
- - [Darktide will have a playable psyker class](https://www.pcgamer.com/darktide-will-have-a-playable-psyker-class)
- - [It&#39;s World Bee Day, so let&#39;s marvel at AI hives that know exactly what bees need](https://www.pcgamer.com/its-world-bee-day-so-lets-marvel-at-ai-hives-that-know-exactly-what-bees-need)<!-- GAME:END -->
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Ace Combat scores the dream collaboration with Top Gun](https://www.pcgamer.com/ace-combat-scores-the-dream-collaboration-with-top-gun)
+ - [What to know about Stranger Things season 3 before season 4 part 1 hits](https://www.polygon.com/23077661/stranger-things-season-3-ending-4-eleven)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
