@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hack the mind, hack your reality](http://9gag.com/gag/aVxdz52)
- - 🚯 [Meanwhile in Maastricht, the Netherlands](http://9gag.com/gag/aZrdb56)
- - 🚯 [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)<!-- MEMES:END -->
+ - 🚖 [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)
+ - 🚯 [Never take advice from a rich person.](http://9gag.com/gag/aAGmRN9)
+ - 🚯 [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)<!-- MEMES:END -->
 
 --- 
 
