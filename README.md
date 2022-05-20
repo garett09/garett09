@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apollo 47 is a one-page RPG with 1,199 additional pages of flavor text](https://www.polygon.com/tabletop-games/23125685/apollo-47-tim-hutchings-interview)
- - [Xbox Series S is Simply Next-Gen](https://news.xbox.com/en-us/2022/05/20/xbox-series-s-is-simply-next-gen/)
- - [Become more powerful than you can possibly imagine with Fortnite&#39;s latest skin](https://www.pcgamer.com/become-more-powerful-than-you-can-possibly-imagine-with-fortnites-latest-skin)<!-- GAME:END -->
+ - [How to get stone bricks in V Rising](https://www.pcgamer.com/v-rising-stone-bricks-dust)
+ - [Queer love story Heartstopper is getting two more seasons](https://www.polygon.com/23132459/heartstopper-renew-seasons-netflix-lgbtq)
+ - [Death Stranding Sequel Seemingly Acknowledged By Norman Reedus](https://kotaku.com/death-stranding-2-norman-reedus-hideo-kojima-production-1848955139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
