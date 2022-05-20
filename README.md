@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black hole incoming](http://9gag.com/gag/a11xv7R)
- - 🚯 [Crouton](http://9gag.com/gag/aogdmMm)
- - 🚯 [That execution tho](http://9gag.com/gag/aNP3yx0)<!-- MEMES:END -->
+ - 🚖 [Hack the mind, hack your reality](http://9gag.com/gag/aVxdz52)
+ - 🚯 [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
+ - 🚯 [That feeling..](http://9gag.com/gag/a21xzzY)<!-- MEMES:END -->
 
 --- 
 
