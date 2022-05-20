@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)
- - 🚯 [Never take advice from a rich person.](http://9gag.com/gag/aAGmRN9)
- - 🚯 [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)<!-- MEMES:END -->
+ - 🚖 [Nice friends](http://9gag.com/gag/a0ZxPWL)
+ - 🚯 [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)
+ - 🚯 [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)<!-- MEMES:END -->
 
 --- 
 
