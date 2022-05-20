@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the Snapdragon 8 Plus Gen 1, says it will offer 10% faster CPU performance, 10% faster GPU clocks, and have up to 30% better power efficiency &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220520/p5#a220520p5)
- - [Snapdragon 8 Plus Gen 1 announced: What the regular chipset should’ve been?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-3164610/)
- - [The Spendy Somnox 2 Robot Sends You to Slumberland](https://www.wired.com/review/somnox-2-sleep-robot)<!-- TECH:END -->
+ - [Qualcomm updates its AR Smart Viewer reference design with a higher-powered chipset, a wireless tethering system with Wi-Fi 6 / 6E and Bluetooth, and more &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220520/p7#a220520p7)
+ - [Ring’s Alarm Pro and Floodlight Cam Pro are cheaper than ever today](https://www.theverge.com/good-deals/2022/5/20/23130627/ring-floodlight-cam-pro-ring-alarm-pro-skullcandy-jib-hulu-logitech-g502-lightspeed-deal-sale)
+ - [Apple wins MacBook Pro &#39;Stage Light&#39; class action appeal](https://appleinsider.com/articles/22/05/20/apple-wins-macbook-pro-stage-light-class-action-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
