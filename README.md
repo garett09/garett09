@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His supporters will follow](http://9gag.com/gag/aQXrPOK)
- - 🚯 [Possibly one of the &lpar;few&rpar; best Netflix originals](http://9gag.com/gag/aM4W2zx)
- - 🚯 [Meanwhile in Maastricht, the Netherlands](http://9gag.com/gag/aZrdb56)<!-- MEMES:END -->
+ - 🚖 [Hack the mind, hack your reality](http://9gag.com/gag/aVxdz52)
+ - 🚯 [Meanwhile in Maastricht, the Netherlands](http://9gag.com/gag/aZrdb56)
+ - 🚯 [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)<!-- MEMES:END -->
 
 --- 
 
