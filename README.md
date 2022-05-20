@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New HomePod model coming as soon as late 2022, according to Ming-Chi Kuo](https://appleinsider.com/articles/22/05/20/new-homepod-model-coming-as-soon-as-late-2022-according-to-ming-chi-kuo?utm_medium=rss)
- - [Seoul prosecutors open an investigation into Terraform Labs, the company behind LUNA and UST collapse, as its co-founder Do Kwon faces a $78M tax bill &lpar;TechCrunch&rpar;](http://www.techmeme.com/220520/p12#a220520p12)
- - [Percentage of devices on Android 11 or newer goes up, but numbers still murky](https://www.androidauthority.com/android-distribution-2022-3167533/)<!-- TECH:END -->
+ - [Deal: Save $200 on the GoPro Hero 10 Black](https://www.androidauthority.com/gopro-hero-10-black-deal-3167597/)
+ - [Noyo, which provides APIs for companies to offer health insurance and other benefits, raises a $45M Series B led by Norwest Venture Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220520/p13#a220520p13)
+ - [NASA engineers trying to figure out strange readings from aging interstellar spacecraft](https://www.theverge.com/2022/5/20/23132419/nasa-jpl-voyager-1-spacecraft-data-readings-interstellar-space)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
