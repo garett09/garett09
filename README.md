@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All I have is Anxiety Disorder and that&#39;s it](http://9gag.com/gag/aBnoDvx)
- - 🚯 [Hidden lock](http://9gag.com/gag/aGzoKL0)
- - 🚯 [A true Olympian has left us. RIP Vangelis Papathanasiou, one of the greatest composers of all time.](http://9gag.com/gag/aggjMEq)<!-- MEMES:END -->
+ - 🚖 [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
+ - 🚯 [Accurate](http://9gag.com/gag/aogdmBe)
+ - 🚯 [Do you rock? B*tch please](http://9gag.com/gag/aKmL4nW)<!-- MEMES:END -->
 
 --- 
 
