@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These old school comedies](http://9gag.com/gag/a91Vj10)
- - 🚯 [Find the center of a board](http://9gag.com/gag/abgEjGE)
+ - 🚖 [Han solo been playing too much Elden Ring](http://9gag.com/gag/aggjRjW)
+ - 🚯 [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
  - 🚯 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
 
 --- 
