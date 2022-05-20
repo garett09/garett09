@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess the spell didn&#39;t work..](http://9gag.com/gag/a91VL6D)
- - 🚯 [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)
+ - 🚖 [She said it perfectly. +10 wisdom](http://9gag.com/gag/a71GKXw)
+ - 🚯 [This is hilarious](http://9gag.com/gag/abgdbyp)
  - 🚯 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)<!-- MEMES:END -->
 
 --- 
