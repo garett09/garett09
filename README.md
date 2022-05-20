@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halo Show’s First Season Closes With Uncertainty And Promise](https://kotaku.com/halo-tv-show-master-chief-infinite-cortana-paramount-pl-1848952140)
- - [Here are 50 games worth picking up in Epic’s mega sale](https://www.polygon.com/2022/5/19/23131551/epic-games-store-mega-sale-recommendations-list-best)
- - [Spirittea Is Stardew Valley Meets Spirited Away, Can Take Our Money Now](https://kotaku.com/spirittea-spirited-away-stardew-valley-cheesemaster-gam-1848952082)<!-- GAME:END -->
+ - [SpaceX allegedly paid $250K to cover up Elon Musk sexual misconduct claim](https://www.pcgamer.com/elon-musk-spacex-flight-attendant-allegation)
+ - [Texas Game Studio Will Help Employees Fleeing Anti-Trans, Anti-Abortion Laws](https://kotaku.com/certain-affinity-halo-texas-abortion-trans-max-hoberman-1848952720)
+ - [Tomb Raider, Deus Ex&#39;s New Owners Are Going To Milk Them For All They&#39;re Worth](https://kotaku.com/tomb-raider-deus-ex-embracer-new-games-remake-remaster-1848952698)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
