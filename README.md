@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you have used your phone’s USB-C port for other tasks](https://www.androidauthority.com/phone-usb-c-port-other-uses-poll-results-3167334/)
- - [Koo, an app touted as India&#39;s answer to Twitter, has self-verification features that Elon Musk may want but shows risks of handing over data to the government &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/220520/p3#a220520p3)
- - [Apple confirms it won&#39;t accept card payments in India, cites banking laws](https://appleinsider.com/articles/22/05/20/apple-confirms-it-wont-accept-card-payments-in-india-cites-banking-laws?utm_medium=rss)<!-- TECH:END -->
+ - [Canada bans Huawei equipment from 5G networks, orders removal by 2024](https://www.theverge.com/2022/5/20/23132125/canada-bans-huawei-5g-network-equipment-telcos-reoval-2024)
+ - [Men Is an Excellent Movie and I Have No Idea Who It’s For](https://www.wired.com/story/men-alex-garland-review)
+ - [How to Stay Informed Without Getting Paralyzed by Bad News](https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
