@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny being Johnny](http://9gag.com/gag/aOQG6or)
- - 🚯 [Understandable](http://9gag.com/gag/a21GBvd)
- - 🚯 [Make it happen!!](http://9gag.com/gag/a41VeNd)<!-- MEMES:END -->
+ - 🚖 [German school shooter surrendering, today in Bremerhaven](http://9gag.com/gag/aNP36Or)
+ - 🚯 [Han solo been playing too much Elden Ring](http://9gag.com/gag/aggjRjW)
+ - 🚯 [You can\u2019t make this stuff up - Amber Heard\u2019s lawyers bring in a \u201cTwitter\u201d expert, and Johnny Depp\u2019s lawyer jumps on the opportunity to say #AmberTurd in front of jury](http://9gag.com/gag/arnz6j7)<!-- MEMES:END -->
 
 --- 
 
