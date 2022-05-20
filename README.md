@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A wild Pokémon-themed Galaxy Buds case has appeared](https://www.theverge.com/tldr/2022/5/20/23132088/poke-ball-galaxy-buds-samsung-case-south-korea)
- - [YC-backed DeFi startup Stablegains faces a lawsuit after losing $44M of users&#39; funds by investing them in UST, after earlier claiming it was investing in USDC &lpar;Timothy Craig/Crypto Briefing&rpar;](http://www.techmeme.com/220520/p2#a220520p2)
- - [How to change the site language on Amazon](https://www.androidauthority.com/change-amazon-language-3165629/)<!-- TECH:END -->
+ - [You told us: Most of you have used your phone’s USB-C port for other tasks](https://www.androidauthority.com/phone-usb-c-port-other-uses-poll-results-3167334/)
+ - [Koo, an app touted as India&#39;s answer to Twitter, has self-verification features that Elon Musk may want but shows risks of handing over data to the government &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/220520/p3#a220520p3)
+ - [Apple confirms it won&#39;t accept card payments in India, cites banking laws](https://appleinsider.com/articles/22/05/20/apple-confirms-it-wont-accept-card-payments-in-india-cites-banking-laws?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
