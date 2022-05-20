@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This is not a review of The Stanley Parable: Ultra Deluxe](https://www.polygon.com/reviews/23131262/stanley-parable-ultra-deluxe-review-not-windows-pc)
- - [Genshin Impact Version 2.7: Hidden Dreams in the Depths launches May 31](https://blog.playstation.com/2022/05/20/genshin-impact-version-2-7-hidden-dreams-in-the-depths-launches-may-31/)
- - [Genshin Impact Version 2.7: Hidden Dreams in the Depths launches May 31](https://blog.playstation.com/2022/05/20/genshin-impact-version-2-7-hidden-dreams-in-the-depths-launches-may-31/)<!-- GAME:END -->
+ - [Apollo 47 is a one-page RPG with 1,199 additional pages of flavor text](https://www.polygon.com/tabletop-games/23125685/apollo-47-tim-hutchings-interview)
+ - [Xbox Series S is Simply Next-Gen](https://news.xbox.com/en-us/2022/05/20/xbox-series-s-is-simply-next-gen/)
+ - [Become more powerful than you can possibly imagine with Fortnite&#39;s latest skin](https://www.pcgamer.com/become-more-powerful-than-you-can-possibly-imagine-with-fortnites-latest-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
