@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The minute after the turnado... Paderborn](http://9gag.com/gag/angdBK0)
- - 🚯 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)
- - 🚯 [This ultra-small generator is highly portable and works even with shallow, slow moving water. Already tested with powering street lights, it promises to allow people in the world\u2019s remote regions to generate their own electricity.](http://9gag.com/gag/a0ZxPQB)<!-- MEMES:END -->
+ - 🚖 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)
+ - 🚯 [A giant anteater casually crossing the road in Brazil](http://9gag.com/gag/aVxdXPO)
+ - 🚯 [I hope some more will join her](http://9gag.com/gag/aQXrpW7)<!-- MEMES:END -->
 
 --- 
 
