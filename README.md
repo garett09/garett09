@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice friends](http://9gag.com/gag/a0ZxPWL)
- - 🚯 [She said it perfectly. +10 wisdom](http://9gag.com/gag/a71GKXw)
- - 🚯 [The differential](http://9gag.com/gag/arndpyK)<!-- MEMES:END -->
+ - 🚖 [Guess the spell didn&#39;t work..](http://9gag.com/gag/a91VL6D)
+ - 🚯 [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)
+ - 🚯 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)<!-- MEMES:END -->
 
 --- 
 
