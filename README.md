@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple is working on an updated version of the HomePod for release in the Q4 2022 or Q1 2023 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220520/p19#a220520p19)
- - [How to share your screen in Zoom meetings](https://www.androidauthority.com/share-screen-zoom-3167021/)
- - [Court docs and a source: Larry Ellison participated in a November 14, 2020 call that focused on strategies for contesting the legitimacy of the 2020 US election &lpar;Washington Post&rpar;](http://www.techmeme.com/220520/p18#a220520p18)<!-- TECH:END -->
+ - [Singapore-based online fashion marketplace Zilingo fires CEO Ankiti Bose after a probe found &quot;serious financial irregularities&quot;; Bose was suspended in April &lpar;Reuters&rpar;](http://www.techmeme.com/220520/p20#a220520p20)
+ - [Twitter’s latest update will make third party apps better](https://www.theverge.com/2022/5/20/23132871/twitter-reverse-chronological-timeline-api-v2-third-party-developers-support)
+ - [Microsoft&#39;s Bing Applied China&#39;s Political Censorship to Some US Searches, Report Says     - CNET](https://www.cnet.com/tech/microsofts-bing-applied-chinas-political-censorship-to-some-us-searches-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
