@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Is Back, And The Update Was Worth Waiting For](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-chasm-2-7-xiao-itto-y-1848955633)
- - [Tiny Tina’s Wonderlands: Glutton’s Gamble is Out Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/05/20/tiny-tinas-wonderlands-gluttons-gamble-out-now/)
- - [The latest Ms. Marvel trailer gives its hero her own Spider-Man moment](https://www.polygon.com/23132534/ms-marvel-trailer-disney-plus-good-is-a-thing-you-do)<!-- GAME:END -->
+ - [Xbox, Dolmen, Multiplayer, and You](https://news.xbox.com/en-us/2022/05/20/xbox-dolmen-multiplayer-and-you/)
+ - [Pokémon TCG now includes peel-off Ditto cards, throwing collectors into disarray](https://www.polygon.com/23132566/pokemon-tcg-trading-card-game-peel-off-ditto-cards-collectors)
+ - [Destiny 2 Xur location and items, May 20-24](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/20/23132628/destiny-2-xur-location-items-may-20-24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
