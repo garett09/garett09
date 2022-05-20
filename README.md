@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three Thousand Years of Longing’s first trailer is a kaleidoscope of cautionary tales](https://www.theverge.com/2022/5/20/23075186/three-thousand-years-of-longing-trailer)
- - [The new season of Love, Death and Robots doesn’t miss](https://www.theverge.com/23132482/love-death-and-robots-volume-3-review-netflix)
- - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [The 24 Best Outdoor Summer Deals From REI&#39;s Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2022)
+ - [Halo’s first season is a Flood of bold bets and tangled plot points](https://www.theverge.com/23132662/halo-tv-series-season-1-review-paramount-plus)
+ - [Amazon’s Fire OS finally ditches Android 9 Pie for something a bit more recent](https://www.androidauthority.com/amazon-fire-os-8-3167616/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
