@@ -196,8 +196,8 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Nice friends](http://9gag.com/gag/a0ZxPWL)
- - 🚯 [I know it&#39;s a baboon but... its beautiful. Monkeypox though](http://9gag.com/gag/aM4W1b1)
- - 🚯 [We nearly there....](http://9gag.com/gag/aZrdPv3)<!-- MEMES:END -->
+ - 🚯 [She said it perfectly. +10 wisdom](http://9gag.com/gag/a71GKXw)
+ - 🚯 [The differential](http://9gag.com/gag/arndpyK)<!-- MEMES:END -->
 
 --- 
 
