@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save $200 on the GoPro Hero 10 Black](https://www.androidauthority.com/gopro-hero-10-black-deal-3167597/)
- - [Noyo, which provides APIs for companies to offer health insurance and other benefits, raises a $45M Series B led by Norwest Venture Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220520/p13#a220520p13)
- - [NASA engineers trying to figure out strange readings from aging interstellar spacecraft](https://www.theverge.com/2022/5/20/23132419/nasa-jpl-voyager-1-spacecraft-data-readings-interstellar-space)<!-- TECH:END -->
+ - [Three Thousand Years of Longing’s first trailer is a kaleidoscope of cautionary tales](https://www.theverge.com/2022/5/20/23075186/three-thousand-years-of-longing-trailer)
+ - [The new season of Love, Death and Robots doesn’t miss](https://www.theverge.com/23132482/love-death-and-robots-volume-3-review-netflix)
+ - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
