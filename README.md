@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We can&#39;t hardly do better than german&#39;s ads](http://9gag.com/gag/a91VbDD)
- - 🚯 [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)
+ - 🚖 [You shall not pass](http://9gag.com/gag/aE8QwY9)
+ - 🚯 [His supporters will follow](http://9gag.com/gag/aQXrPOK)
  - 🚯 [Meanwhile in Maastricht, the Netherlands](http://9gag.com/gag/aZrdb56)<!-- MEMES:END -->
 
 --- 
