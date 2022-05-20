@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm updates its AR Smart Viewer reference design with a higher-powered chipset, a wireless tethering system with Wi-Fi 6 / 6E and Bluetooth, and more &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220520/p7#a220520p7)
- - [Ring’s Alarm Pro and Floodlight Cam Pro are cheaper than ever today](https://www.theverge.com/good-deals/2022/5/20/23130627/ring-floodlight-cam-pro-ring-alarm-pro-skullcandy-jib-hulu-logitech-g502-lightspeed-deal-sale)
- - [Apple wins MacBook Pro &#39;Stage Light&#39; class action appeal](https://appleinsider.com/articles/22/05/20/apple-wins-macbook-pro-stage-light-class-action-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s headset faced numerous snags early, Jony Ive still involved with project](https://appleinsider.com/articles/22/05/20/apples-headset-faced-numerous-snags-early-jony-ive-still-involved-with-project?utm_medium=rss)
+ - [Report details Jony Ive&#39;s work on Apple&#39;s MR headset as sources say he remains involved as an external consultant and that the device is not gaming focused &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220520/p8#a220520p8)
+ - [Obi-Wan is coming to Fortnite next week](https://www.theverge.com/2022/5/20/23131464/obi-wan-kenobi-fortnite-epic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
