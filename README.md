@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
- - 🚯 [Accurate](http://9gag.com/gag/aogdmBe)
- - 🚯 [Do you rock? B*tch please](http://9gag.com/gag/aKmL4nW)<!-- MEMES:END -->
+ - 🚖 [Black hole incoming](http://9gag.com/gag/a11xv7R)
+ - 🚯 [Crouton](http://9gag.com/gag/aogdmMm)
+ - 🚯 [That execution tho](http://9gag.com/gag/aNP3yx0)<!-- MEMES:END -->
 
 --- 
 
