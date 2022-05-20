@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Han solo been playing too much Elden Ring](http://9gag.com/gag/aggjRjW)
- - 🚯 [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
- - 🚯 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
+ - 🚖 [All I have is Anxiety Disorder and that&#39;s it](http://9gag.com/gag/aBnoDvx)
+ - 🚯 [Hidden lock](http://9gag.com/gag/aGzoKL0)
+ - 🚯 [A true Olympian has left us. RIP Vangelis Papathanasiou, one of the greatest composers of all time.](http://9gag.com/gag/aggjMEq)<!-- MEMES:END -->
 
 --- 
 
