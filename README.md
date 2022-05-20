@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SpaceX allegedly paid $250K to cover up Elon Musk sexual misconduct claim](https://www.pcgamer.com/elon-musk-spacex-flight-attendant-allegation)
- - [Texas Game Studio Will Help Employees Fleeing Anti-Trans, Anti-Abortion Laws](https://kotaku.com/certain-affinity-halo-texas-abortion-trans-max-hoberman-1848952720)
- - [Tomb Raider, Deus Ex&#39;s New Owners Are Going To Milk Them For All They&#39;re Worth](https://kotaku.com/tomb-raider-deus-ex-embracer-new-games-remake-remaster-1848952698)<!-- GAME:END -->
+ - [Battlefield 2042 Killed My Favorite Game Mode](https://kotaku.com/battlefield-2042-dice-ea-breakthrough-128-player-remove-1848952986)
+ - [GameStop Jumps Into NFTs Just As The Market Collapses](https://kotaku.com/gamestop-nft-crypto-blockchain-bitcoin-marketplace-meme-1848952829)
+ - [SpaceX allegedly paid $250K to cover up Elon Musk sexual misconduct claim](https://www.pcgamer.com/elon-musk-spacex-flight-attendant-allegation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
