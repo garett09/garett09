@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada bans Huawei equipment from 5G networks, orders removal by 2024](https://www.theverge.com/2022/5/20/23132125/canada-bans-huawei-5g-network-equipment-telcos-reoval-2024)
- - [Men Is an Excellent Movie and I Have No Idea Who It’s For](https://www.wired.com/story/men-alex-garland-review)
- - [How to Stay Informed Without Getting Paralyzed by Bad News](https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news)<!-- TECH:END -->
+ - [Qualcomm unveils the Snapdragon 8 Plus Gen 1, says it will offer 10% faster CPU performance, 10% faster GPU clocks, and have up to 30% better power efficiency &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220520/p5#a220520p5)
+ - [Snapdragon 8 Plus Gen 1 announced: What the regular chipset should’ve been?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-3164610/)
+ - [The Spendy Somnox 2 Robot Sends You to Slumberland](https://www.wired.com/review/somnox-2-sleep-robot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
