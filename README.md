@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get stone bricks in V Rising](https://www.pcgamer.com/v-rising-stone-bricks-dust)
- - [Queer love story Heartstopper is getting two more seasons](https://www.polygon.com/23132459/heartstopper-renew-seasons-netflix-lgbtq)
- - [Death Stranding Sequel Seemingly Acknowledged By Norman Reedus](https://kotaku.com/death-stranding-2-norman-reedus-hideo-kojima-production-1848955139)<!-- GAME:END -->
+ - [Genshin Impact Is Back, And The Update Was Worth Waiting For](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-chasm-2-7-xiao-itto-y-1848955633)
+ - [Tiny Tina’s Wonderlands: Glutton’s Gamble is Out Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/05/20/tiny-tinas-wonderlands-gluttons-gamble-out-now/)
+ - [The latest Ms. Marvel trailer gives its hero her own Spider-Man moment](https://www.polygon.com/23132534/ms-marvel-trailer-disney-plus-good-is-a-thing-you-do)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
