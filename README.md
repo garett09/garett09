@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Dolmen, Multiplayer, and You](https://news.xbox.com/en-us/2022/05/20/xbox-dolmen-multiplayer-and-you/)
- - [Pokémon TCG now includes peel-off Ditto cards, throwing collectors into disarray](https://www.polygon.com/23132566/pokemon-tcg-trading-card-game-peel-off-ditto-cards-collectors)
- - [Destiny 2 Xur location and items, May 20-24](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/20/23132628/destiny-2-xur-location-items-may-20-24)<!-- GAME:END -->
+ - [Breaking down Love, Death &amp; Robots season 3 by the amounts of love, death, and robots](https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown)
+ - [New Wordle game lets you compete with your friends and family head-to-head](https://www.pcgamer.com/new-wordle-game-lets-you-compete-with-your-friends-and-family-head-to-head)
+ - [‘Ugly Sonic’ Is Slinging Merch In The New Chip ‘n Dale Film](https://kotaku.com/ugly-sonic-hedgehog-cameo-chip-dale-rescue-rangers-disn-1848955965)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
