@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)
- - 🚯 [This is hilarious](http://9gag.com/gag/abgdbyp)
- - 🚯 [More from Paderborn, Germany](http://9gag.com/gag/aPZpGgn)<!-- MEMES:END -->
+ - 🚖 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
+ - 🚯 [Mongolinese](http://9gag.com/gag/a61x7D9)
+ - 🚯 [SaFeTy](http://9gag.com/gag/aLvb2xV)<!-- MEMES:END -->
 
 --- 
 
