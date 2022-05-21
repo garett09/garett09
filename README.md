@@ -196,8 +196,8 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just a small glense of how propoganda benefits. the `innocent` post vs hidden reality.](http://9gag.com/gag/a81npjZ)
- - 🚯 [The excitement faded immediately](http://9gag.com/gag/a71GZZe)
- - 🚯 [Surprisingly, women love this when kissing.](http://9gag.com/gag/aYrdLGv)<!-- MEMES:END -->
+ - 🚯 [Or something](http://9gag.com/gag/aNPqdmb)
+ - 🚯 [God of modding](http://9gag.com/gag/aAGmwdd)<!-- MEMES:END -->
 
 --- 
 
