@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, every time I see I shirt with a logo](http://9gag.com/gag/angdj00)
- - 🚯 [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)
- - 🚯 [Switch lane to be safe](http://9gag.com/gag/arnd52X)<!-- MEMES:END -->
+ - 🚖 [Monkeypox](http://9gag.com/gag/a71GZq2)
+ - 🚯 [Just some legends looking at the most awesome person in the room](http://9gag.com/gag/aXrdq29)
+ - 🚯 [Idk what the first person was thinking](http://9gag.com/gag/aRrymxA)<!-- MEMES:END -->
 
 --- 
 
