@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)
- - 🚯 [A giant anteater casually crossing the road in Brazil](http://9gag.com/gag/aVxdXPO)
- - 🚯 [I hope some more will join her](http://9gag.com/gag/aQXrpW7)<!-- MEMES:END -->
+ - 🚖 [Holy f**king shit, didn&#39;t know that we have tornados too&lpar;Germany&rpar;](http://9gag.com/gag/aqGd2jY)
+ - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)
+ - 🚯 [The minute after the turnado... Paderborn](http://9gag.com/gag/angdBK0)<!-- MEMES:END -->
 
 --- 
 
