@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SaFeTy](http://9gag.com/gag/aLvb2xV)
- - 🚯 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)
- - 🚯 [To the guy who asked the size of ants in Brazil...](http://9gag.com/gag/a71G7NL)<!-- MEMES:END -->
+ - 🚖 [Go Watch Dont Look Up It\u2019s A Good Movie](http://9gag.com/gag/aRryev7)
+ - 🚯 [Damage control?](http://9gag.com/gag/a61x76q)
+ - 🚯 [Or something](http://9gag.com/gag/aNPqdmb)<!-- MEMES:END -->
 
 --- 
 
