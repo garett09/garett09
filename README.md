@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Central Bank President Christine Lagarde says crypto assets should be regulated, as they are &quot;worth nothing&quot; and &quot;based on nothing&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/220521/p10#a220521p10)
- - [Is Google’s ecosystem push too much too fast? Let’s debate.](https://www.androidauthority.com/googles-ecosystem-too-much-too-fast-3165230/)
- - [A look at the antitrust woes of Google, which is potentially in more trouble than other Big Tech companies as several bills and lawsuits target its businesses &lpar;Sara Morrison/Vox&rpar;](http://www.techmeme.com/220521/p9#a220521p9)<!-- TECH:END -->
+ - [Apple display supplier could lose out on large iPhone 14 order after it was reportedly caught cutting corners](https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners)
+ - [Some Jif peanut butter products recalled over salmonella     - CNET](https://www.cnet.com/health/some-jif-peanut-butter-products-recalled-over-salmonella/#ftag=CAD590a51e)
+ - [Best Portable Generators for 2022     - CNET](https://www.cnet.com/news/best-portable-generators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
