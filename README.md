@@ -196,8 +196,8 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Holy f**king shit, didn&#39;t know that we have tornados too&lpar;Germany&rpar;](http://9gag.com/gag/aqGd2jY)
- - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)
- - 🚯 [The minute after the turnado... Paderborn](http://9gag.com/gag/angdBK0)<!-- MEMES:END -->
+ - 🚯 [Damn it!](http://9gag.com/gag/avADLyd)
+ - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)<!-- MEMES:END -->
 
 --- 
 
