@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Watch Dont Look Up It\u2019s A Good Movie](http://9gag.com/gag/aRryev7)
- - 🚯 [Damage control?](http://9gag.com/gag/a61x76q)
- - 🚯 [Or something](http://9gag.com/gag/aNPqdmb)<!-- MEMES:END -->
+ - 🚖 [Just a small glense of how propoganda benefits. the `innocent` post vs hidden reality.](http://9gag.com/gag/a81npjZ)
+ - 🚯 [The excitement faded immediately](http://9gag.com/gag/a71GZZe)
+ - 🚯 [Surprisingly, women love this when kissing.](http://9gag.com/gag/aYrdLGv)<!-- MEMES:END -->
 
 --- 
 
