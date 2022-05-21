@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how a crocodile sounds like up close.](http://9gag.com/gag/a21xrBZ)
- - 🚯 [Monkeypox](http://9gag.com/gag/a71GZq2)
- - 🚯 [Police brutality beyond sickness..](http://9gag.com/gag/aBnv8ZD)<!-- MEMES:END -->
+ - 🚖 [Me, every time I see I shirt with a logo](http://9gag.com/gag/angdj00)
+ - 🚯 [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)
+ - 🚯 [Switch lane to be safe](http://9gag.com/gag/arnd52X)<!-- MEMES:END -->
 
 --- 
 
