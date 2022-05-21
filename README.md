@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)
- - 🚯 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 🚯 [Dayum](http://9gag.com/gag/a71Gbyb)<!-- MEMES:END -->
+ - 🚖 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)
+ - 🚯 [This is hilarious](http://9gag.com/gag/abgdbyp)
+ - 🚯 [More from Paderborn, Germany](http://9gag.com/gag/aPZpGgn)<!-- MEMES:END -->
 
 --- 
 
