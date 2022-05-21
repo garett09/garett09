@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Credits to whoever made this](http://9gag.com/gag/arnd5v5)
- - 🚯 [Why, yes I am a secret agent](http://9gag.com/gag/avADrzM)
- - 🚯 [Back in 2003, where the world was good](http://9gag.com/gag/abgdp6L)<!-- MEMES:END -->
+ - 🚖 [Ah yes the grind](http://9gag.com/gag/a41xbjA)
+ - 🚯 [This is how a crocodile sounds like up close.](http://9gag.com/gag/a21xrBZ)
+ - 🚯 [The Bee lives less than 40 days, visits at least 1000 flowers\ud83c\udf3a &amp; produces less than a teaspoon of honey. For us, it is only a teaspoon of honey, but for the bee, it is a life. ThankYou, Bees!\ud83d\udc1d](http://9gag.com/gag/aXrdAyg)<!-- MEMES:END -->
 
 --- 
 
