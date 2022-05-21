@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delicious](http://9gag.com/gag/aAGmPj9)
+ - 🚖 [Credits to whoever made this](http://9gag.com/gag/arnd5v5)
  - 🚯 [Why, yes I am a secret agent](http://9gag.com/gag/avADrzM)
- - 🚯 [People are shouting \u201cf**k the war\u201d at a concert in St. Petersburg](http://9gag.com/gag/aOQjdq6)<!-- MEMES:END -->
+ - 🚯 [Back in 2003, where the world was good](http://9gag.com/gag/abgdp6L)<!-- MEMES:END -->
 
 --- 
 
