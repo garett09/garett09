@@ -195,8 +195,8 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
- - 🚯 [Mongolinese](http://9gag.com/gag/a61x7D9)
+ - 🚖 [Surprisingly, women love this when kissing.](http://9gag.com/gag/aYrdLGv)
+ - 🚯 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
  - 🚯 [SaFeTy](http://9gag.com/gag/aLvb2xV)<!-- MEMES:END -->
 
 --- 
