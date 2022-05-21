@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy f**king shit, didn&#39;t know that we have tornados too&lpar;Germany&rpar;](http://9gag.com/gag/aqGd2jY)
+ - 🚖 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
  - 🚯 [Damn it!](http://9gag.com/gag/avADLyd)
- - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)<!-- MEMES:END -->
+ - 🚯 [We just had a small tornado in my town in germany, and clearly this bus driver has the right sense of humor, `Werkstattfahrt` means `maintenance`](http://9gag.com/gag/ay9z09W)<!-- MEMES:END -->
 
 --- 
 
