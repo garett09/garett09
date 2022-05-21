@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boeing’s Starliner successfully docks to the International Space Station for the first time](https://www.theverge.com/2022/5/20/23132777/boeing-cst-100-starliner-nasa-iss-docking-success-oft-2)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Is This Group of Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-is-this-group-of-elite-marvel-heroes/#ftag=CAD590a51e)
- - [What to watch on Hulu: 20 shows and 20 movies across every genre](https://www.androidauthority.com/what-to-watch-on-hulu-3159423/)<!-- TECH:END -->
+ - [OpenSea launches Seaport, a new marketplace protocol which allows users to bundle different digital assets in exchange for an NFT, support for tipping, and more &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220520/p23#a220520p23)
+ - [How to check the balance on Amazon gift cards](https://www.androidauthority.com/check-amazon-gift-card-3166669/)
+ - [Boeing’s Starliner successfully docks to the International Space Station for the first time](https://www.theverge.com/2022/5/20/23132777/boeing-cst-100-starliner-nasa-iss-docking-success-oft-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
