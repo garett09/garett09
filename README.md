@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We just had a small tornado in my town in germany, and clearly this bus driver has the right sense of humor, `Werkstattfahrt` means `maintenance`](http://9gag.com/gag/ay9z09W)
+ - 🚖 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
  - 🚯 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 🚯 [When he says he just got forklift license](http://9gag.com/gag/amgd892)<!-- MEMES:END -->
+ - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)<!-- MEMES:END -->
 
 --- 
 
