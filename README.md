@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Move Over, Tom Cruise, we&#39;ve found a new star for Mission Impossible](http://9gag.com/gag/a81npL1)
- - 🚯 [Breaking: it is still okay to be white](http://9gag.com/gag/aPZpWpn)
- - 🚯 [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)<!-- MEMES:END -->
+ - 🚖 [Delicious](http://9gag.com/gag/aAGmPj9)
+ - 🚯 [Why, yes I am a secret agent](http://9gag.com/gag/avADrzM)
+ - 🚯 [People are shouting \u201cf**k the war\u201d at a concert in St. Petersburg](http://9gag.com/gag/aOQjdq6)<!-- MEMES:END -->
 
 --- 
 
