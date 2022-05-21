@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprisingly, women love this when kissing.](http://9gag.com/gag/aYrdLGv)
- - 🚯 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
- - 🚯 [SaFeTy](http://9gag.com/gag/aLvb2xV)<!-- MEMES:END -->
+ - 🚖 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
+ - 🚯 [SaFeTy](http://9gag.com/gag/aLvb2xV)
+ - 🚯 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)<!-- MEMES:END -->
 
 --- 
 
