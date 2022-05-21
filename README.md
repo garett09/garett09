@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 🚯 [Damn it!](http://9gag.com/gag/avADLyd)
- - 🚯 [We just had a small tornado in my town in germany, and clearly this bus driver has the right sense of humor, `Werkstattfahrt` means `maintenance`](http://9gag.com/gag/ay9z09W)<!-- MEMES:END -->
+ - 🚖 [We just had a small tornado in my town in germany, and clearly this bus driver has the right sense of humor, `Werkstattfahrt` means `maintenance`](http://9gag.com/gag/ay9z09W)
+ - 🚯 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
+ - 🚯 [When he says he just got forklift license](http://9gag.com/gag/amgd892)<!-- MEMES:END -->
 
 --- 
 
