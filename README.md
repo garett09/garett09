@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a small glense of how propoganda benefits. the `innocent` post vs hidden reality.](http://9gag.com/gag/a81npjZ)
- - 🚯 [Or something](http://9gag.com/gag/aNPqdmb)
- - 🚯 [God of modding](http://9gag.com/gag/aAGmwdd)<!-- MEMES:END -->
+ - 🚖 [God of modding](http://9gag.com/gag/aAGmwdd)
+ - 🚯 [Why, yes I am a secret agent](http://9gag.com/gag/avADrzM)
+ - 🚯 [The excitement faded immediately](http://9gag.com/gag/a71GZZe)<!-- MEMES:END -->
 
 --- 
 
