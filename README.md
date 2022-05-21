@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
+ - 🚖 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)
  - 🚯 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 🚯 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)<!-- MEMES:END -->
+ - 🚯 [Dayum](http://9gag.com/gag/a71Gbyb)<!-- MEMES:END -->
 
 --- 
 
