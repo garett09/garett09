@@ -189,8 +189,8 @@ Windows                  57 mins             ███████████�
 
 <!-- TECH:START -->
  - [Daily deals May 21: $100 off 11-inch iPad Pro, $173 Cuisinart Pizza Oven, $100 Linksys Mesh Wi-Fi](https://appleinsider.com/articles/22/05/21/daily-deals-may-21-100-off-11-inch-ipad-pro-173-cuisinart-pizza-oven-100-linksys-mesh-wi-fi?utm_medium=rss)
- - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
- - [Fitbit &amp; Apple Fitness should stop chastising people for taking rest days](https://www.androidauthority.com/fitbit-apple-fitness-rest-days-3163136/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-433-3167659/)
+ - [Sources: Apple told some suppliers that it wants to boost production outside China, with a focus on India and Vietnam, citing Beijing&#39;s strict anti-COVID policy &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/220521/p7#a220521p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
