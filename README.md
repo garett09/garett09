@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very nice, great success for me](http://9gag.com/gag/aZrdLGQ)
- - 🚯 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)
- - 🚯 [Clown world](http://9gag.com/gag/aOQj0V6)<!-- MEMES:END -->
+ - 🚖 [Play stupid games... Win stupid prizes...](http://9gag.com/gag/aYrd7y0)
+ - 🚯 [Tornado](http://9gag.com/gag/ay9zBP8)
+ - 🚯 [You can hear the radio on what appears to be a crane with high voltage running through it](http://9gag.com/gag/aLvb0KM)<!-- MEMES:END -->
 
 --- 
 
