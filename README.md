@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very nice, great success for me](http://9gag.com/gag/aZrdLGQ)
- - 🚯 [Dad, the baby launcher](http://9gag.com/gag/abgdrg8)
- - 🚯 [THIS MUST BE SEE](http://9gag.com/gag/aE8Q2Qx)<!-- MEMES:END -->
+ - 🚖 [You can hear the radio on what appears to be a crane with high voltage running through it](http://9gag.com/gag/aLvb0KM)
+ - 🚯 [Classic Bond](http://9gag.com/gag/aKmLdW3)
+ - 🚯 [More!](http://9gag.com/gag/aLvb0ZA)<!-- MEMES:END -->
 
 --- 
 
