@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
- - 🚯 [Cloud they say...](http://9gag.com/gag/a41x7eQ)
- - 🚯 [Cute ALPHA predator](http://9gag.com/gag/a91VpXj)<!-- MEMES:END -->
+ - 🚖 [Cloud they say...](http://9gag.com/gag/a41x7eQ)
+ - 🚯 [Cute ALPHA predator](http://9gag.com/gag/a91VpXj)
+ - 🚯 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)<!-- MEMES:END -->
 
 --- 
 
