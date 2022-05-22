@@ -181,9 +181,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Evil Dead sold over half a million copies in five days](https://www.pcgamer.com/evil-dead-sold-over-half-a-million-copies-in-five-days)
  - [When&#39;s the last time you were excited about a Kickstarter?](https://www.pcgamer.com/whens-the-last-time-you-were-excited-about-a-kickstarter)
- - [Final Fantasy 14 now works on Steam Deck](https://www.pcgamer.com/final-fantasy-14-works-on-steam-deck-now)
- - [Get honey, get paid in charming beekeeping sim Apico](https://www.pcgamer.com/get-honey-get-paid-in-charming-beekeeping-sim-apico)<!-- GAME:END -->
+ - [Final Fantasy 14 now works on Steam Deck](https://www.pcgamer.com/final-fantasy-14-works-on-steam-deck-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
