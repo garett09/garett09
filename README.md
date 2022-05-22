@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cloud they say...](http://9gag.com/gag/a41x7eQ)
- - 🚯 [Cute ALPHA predator](http://9gag.com/gag/a91VpXj)
- - 🚯 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)<!-- MEMES:END -->
+ - 🚖 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)
+ - 🚯 [Pick your poison \u2620\ufe0f](http://9gag.com/gag/awz8Xpr)
+ - 🚯 [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)<!-- MEMES:END -->
 
 --- 
 
