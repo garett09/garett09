@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)
- - 🚯 [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
- - 🚯 [Switch lane to be safe](http://9gag.com/gag/arnd52X)<!-- MEMES:END -->
+ - 🚖 [Curiosity vs intelligence](http://9gag.com/gag/aZrdgNQ)
+ - 🚯 [Me, every time I see I shirt with a logo](http://9gag.com/gag/angdj00)
+ - 🚯 [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)<!-- MEMES:END -->
 
 --- 
 
