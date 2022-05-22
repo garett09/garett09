@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9 years old boy finds a cougar inside school&#39;s locker room](http://9gag.com/gag/apgdmL8)
- - 🚯 [Before smartphones](http://9gag.com/gag/aBnvgKA)
- - 🚯 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)<!-- MEMES:END -->
+ - 🚖 [Very nice, great success for me](http://9gag.com/gag/aZrdLGQ)
+ - 🚯 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)
+ - 🚯 [Clown world](http://9gag.com/gag/aOQj0V6)<!-- MEMES:END -->
 
 --- 
 
