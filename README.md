@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can hear the radio on what appears to be a crane with high voltage running through it](http://9gag.com/gag/aLvb0KM)
- - 🚯 [Classic Bond](http://9gag.com/gag/aKmLdW3)
- - 🚯 [More!](http://9gag.com/gag/aLvb0ZA)<!-- MEMES:END -->
+ - 🚖 [Bill Burr has been saying this since he had hair.](http://9gag.com/gag/aVxdwQM)
+ - 🚯 [So sweet](http://9gag.com/gag/angd455)
+ - 🚯 [Classic Bond](http://9gag.com/gag/aKmLdW3)<!-- MEMES:END -->
 
 --- 
 
