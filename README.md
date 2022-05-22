@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you ever wondered how](http://9gag.com/gag/aBnvm42)
- - 🚯 [I&#39;m almost 40. I totally get this character...](http://9gag.com/gag/aggd5Kx)
- - 🚯 [Time to meet the father-in-law](http://9gag.com/gag/aQXrdbd)<!-- MEMES:END -->
+ - 🚖 [El hombre ara\u00f1a](http://9gag.com/gag/angd4DL)
+ - 🚯 [I once bought a ps4. But it just collected dust and I decided to sell it. Adulting is hard. You lose all the passion you have. All you\u2019re craving is rest.](http://9gag.com/gag/aVxd0ZM)
+ - 🚯 [This is what a good commercial looks like. no b*tching. showed everything in 20 sec](http://9gag.com/gag/a61xKQL)<!-- MEMES:END -->
 
 --- 
 
