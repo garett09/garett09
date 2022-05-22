@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Curiosity vs intelligence](http://9gag.com/gag/aZrdgNQ)
- - 🚯 [Me, every time I see I shirt with a logo](http://9gag.com/gag/angdj00)
- - 🚯 [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)<!-- MEMES:END -->
+ - 🚖 [Monkeypox?! U serious?! Wtf world!](http://9gag.com/gag/apgd2K9)
+ - 🚯 [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
+ - 🚯 [When you take grandma to the Netherlands](http://9gag.com/gag/aVxdYW2)<!-- MEMES:END -->
 
 --- 
 
