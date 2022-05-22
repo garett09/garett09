@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)
- - 🚯 [Pick your poison \u2620\ufe0f](http://9gag.com/gag/awz8Xpr)
- - 🚯 [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)<!-- MEMES:END -->
+ - 🚖 [9 years old boy finds a cougar inside school&#39;s locker room](http://9gag.com/gag/apgdmL8)
+ - 🚯 [Before smartphones](http://9gag.com/gag/aBnvgKA)
+ - 🚯 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)<!-- MEMES:END -->
 
 --- 
 
