@@ -196,8 +196,8 @@ Windows                  57 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Credit to Dean Sherman &lpar;LinkedIn&rpar; - extinction event preserved in the fossil record &lpar;and as a geologist, let me just say... Oooooooooooh wee!&rpar; Skip to 2:03 minutes if you&#39;re short on time.](http://9gag.com/gag/a51xEGy)
- - 🚯 [If you ever wondered how](http://9gag.com/gag/aBnvm42)
- - 🚯 [If you know... you know](http://9gag.com/gag/aqGdjyM)<!-- MEMES:END -->
+ - 🚯 [If you know... you know](http://9gag.com/gag/aqGdjyM)
+ - 🚯 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)<!-- MEMES:END -->
 
 --- 
 
