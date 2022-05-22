@@ -195,9 +195,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bill Burr has been saying this since he had hair.](http://9gag.com/gag/aVxdwQM)
- - 🚯 [Clown world](http://9gag.com/gag/aOQj0V6)
- - 🚯 [More!](http://9gag.com/gag/aLvb0ZA)<!-- MEMES:END -->
+ - 🚖 [If you ever wondered how](http://9gag.com/gag/aBnvm42)
+ - 🚯 [I&#39;m almost 40. I totally get this character...](http://9gag.com/gag/aggd5Kx)
+ - 🚯 [Time to meet the father-in-law](http://9gag.com/gag/aQXrdbd)<!-- MEMES:END -->
 
 --- 
 
