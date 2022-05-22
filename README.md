@@ -188,9 +188,9 @@ Windows                  57 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music raises prices for Student plan in multiple countries](https://appleinsider.com/articles/22/05/22/apple-music-raises-prices-for-student-plan-in-multiple-countries?utm_medium=rss)
- - [Google Glass resurrected: What we want to see from Google’s new smart glasses](https://www.androidauthority.com/google-new-smart-glasses-3166828/)
- - [A Puzzling Quantum Scenario Appears to Violate a Law of Physics](https://www.wired.com/story/a-puzzling-quantum-scenario-appears-to-violate-a-law-of-physics)<!-- TECH:END -->
+ - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)
+ - [The Best Rain Jackets to Help You Brave the Elements](https://www.wired.com/story/best-rain-jackets)
+ - [20 Outstanding Online Co-Op Games to Play With Faraway Friends](https://www.wired.com/gallery/best-online-co-op-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
