@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5&#39;s Worst Game Is Taking A Long, Hard Look At Itself](https://kotaku.com/babylon-s-fall-square-enix-worst-ps5-game-delay-nier-au-1848963086)
- - [Rainbow Six Siege is getting a Yakuza crossover this season](https://www.polygon.com/23137898/rainbow-six-siege-yakuza-bundle-kiryu-year-7-season-2)
- - [7 items to grab first in V Rising](https://www.pcgamer.com/v-rising-items)<!-- GAME:END -->
+ - [Upcoming One Piece JRPG Will Have Classic Turn-Based Combat](https://kotaku.com/one-piece-odyssey-jrpg-straw-hats-luffy-chopper-zoro-1848963136)
+ - [PS Plus Classic Games Will Have A Retro PS1-Like Visual Filter](https://kotaku.com/ps-plus-ps1-games-oddworld-abes-oddysee-crt-vintage-fil-1848963031)
+ - [Spider-Man Could Have Been An Xbox Exclusive](https://kotaku.com/spider-man-microsoft-xbox-sony-playstation-arkham-asylu-1848963273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
