@@ -195,8 +195,8 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am generous god](http://9gag.com/gag/a91Vq1m)
- - 🚯 [Wow i have a passion wow](http://9gag.com/gag/ay9z9Mr)
+ - 🚖 [Exerts in action...](http://9gag.com/gag/a71Gq6A)
+ - 🚯 [This is how large pacific ocean is](http://9gag.com/gag/aqGdeyL)
  - 🚯 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)<!-- MEMES:END -->
 
 --- 
