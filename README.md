@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denver-based Velocity Global, which develops HR software for distributed workforces, raises a $400M Series B, and says it generated $125M in revenue last year &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/220523/p5#a220523p5)
- - [AMD announces Ryzen 7000 CPUs with up to 16 Zen 4 cores based on TSMC&#39;s 5nm process, PCIe 5 and DDR5 on an AM5 motherboard, coming in fall 2022 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/220523/p4#a220523p4)
- - [&#39;Stranger Things&#39; Season 4 Review: The Best One Yet     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-review-the-best-one-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook, Apple, Amazon, Microsoft, and Google will emerge stronger from this downturn; Refinitiv: from 2008 to 2010, these companies acquired 100+ firms &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220523/p6#a220523p6)
+ - [Clearview AI ordered to delete facial recognition data belonging to UK residents](https://www.theverge.com/2022/5/23/23137603/clearview-ai-ordered-delete-data-uk-residents-ico-fine)
+ - [Denver-based Velocity Global, which develops HR software for distributed workforces, raises a $400M Series B, and says it generated $125M in revenue last year &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/220523/p5#a220523p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
