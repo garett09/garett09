@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Credit to Dean Sherman &lpar;LinkedIn&rpar; - extinction event preserved in the fossil record &lpar;and as a geologist, let me just say... Oooooooooooh wee!&rpar; Skip to 2:03 minutes if you&#39;re short on time.](http://9gag.com/gag/a51xEGy)
- - 🚯 [If you know... you know](http://9gag.com/gag/aqGdjyM)
- - 🚯 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)<!-- MEMES:END -->
+ - 🚖 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)
+ - 🚯 [It&#39;s your life bro..](http://9gag.com/gag/arndVOV)
+ - 🚯 [If you know... you know](http://9gag.com/gag/aqGdjyM)<!-- MEMES:END -->
 
 --- 
 
