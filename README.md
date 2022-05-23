@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Exerts in action...](http://9gag.com/gag/a71Gq6A)
- - 🚯 [It&#39;s shift change time](http://9gag.com/gag/a91VqmD)
- - 🚯 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)<!-- MEMES:END -->
+ - 🚖 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)
+ - 🚯 [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
+ - 🚯 [Let&#39;s do it](http://9gag.com/gag/aNPqw2K)<!-- MEMES:END -->
 
 --- 
 
