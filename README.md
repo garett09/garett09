@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming One Piece JRPG Will Have Classic Turn-Based Combat](https://kotaku.com/one-piece-odyssey-jrpg-straw-hats-luffy-chopper-zoro-1848963136)
- - [PS Plus Classic Games Will Have A Retro PS1-Like Visual Filter](https://kotaku.com/ps-plus-ps1-games-oddworld-abes-oddysee-crt-vintage-fil-1848963031)
- - [Spider-Man Could Have Been An Xbox Exclusive](https://kotaku.com/spider-man-microsoft-xbox-sony-playstation-arkham-asylu-1848963273)<!-- GAME:END -->
+ - [The 27 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Warhammer Skulls Festival Returns June 1](https://news.xbox.com/en-us/2022/05/23/warhammer-skulls-festival-returns-june-1/)
+ - [Sea of Thieves’ next adventure lets pirates choose the fate of Golden Sands](https://www.polygon.com/23138270/sea-of-thieves-lost-sands-adventure-outpost-community-choice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
