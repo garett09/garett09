@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A brand new sidescrolling shmup just surprise-launched on Steam](https://www.pcgamer.com/a-brand-new-sidescrolling-shmup-just-surprise-launched-on-steam)
  - [Great moments in PC Gaming: Spotting an invader in Watch Dogs](https://www.pcgamer.com/great-moments-in-pc-gaming-spotting-an-invader-in-watch-dogs)
- - [Dude Recreates His Living Room In Half-Life, Blasts It To Hell](https://kotaku.com/half-life-vr-virtual-reality-mod-custom-3d-alyx-adobe-v-1848961682)
- - [Five new Steam games you probably missed &lpar;May 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-23-2022)<!-- GAME:END -->
+ - [Dude Recreates His Living Room In Half-Life, Blasts It To Hell](https://kotaku.com/half-life-vr-virtual-reality-mod-custom-3d-alyx-adobe-v-1848961682)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
