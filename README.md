@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit’s Steam Deck repair guides and parts are live &lpar;but the best pieces are MIA&rpar;](https://www.theverge.com/2022/5/23/23138196/ifixit-steam-deck-parts-sale)
- - [The heatsink may finally have a much more svelte competitor](https://www.theverge.com/2022/5/23/23137904/heatsink-competitor-copper-coating)
- - [The Buffalo shooting live stream shows the strengths and limitations of the Christchurch Call accord, created in 2019 to counter online terrorist content &lpar;Stephen Wright/Wall Street Journal&rpar;](http://www.techmeme.com/220523/p24#a220523p24)<!-- TECH:END -->
+ - [Welcome to the Zombie Cryptocalypse](https://www.wired.com/story/bitcoin-ethereum-price-cryptocalypse-david-gerard)
+ - [How to use the helpful Speak to Chat feature on Sony headphones and earbuds](https://www.theverge.com/23138047/sony-speak-to-chat-how-to-use-headphones-earbuds-feature)
+ - [Compared: Apple Studio Display vs Alogic Clarity Monitor](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-alogic-clarity-monitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
