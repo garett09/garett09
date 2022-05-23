@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Exerts in action...](http://9gag.com/gag/a71Gq6A)
- - 🚯 [This is how large pacific ocean is](http://9gag.com/gag/aqGdeyL)
- - 🚯 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)<!-- MEMES:END -->
+ - 🚖 [Lmao](http://9gag.com/gag/aQXrXWe)
+ - 🚯 [My husband introduced me to 9GAG about 9 years ago. This week he passed away from fking ALS. It\u2019s his arm with tattoo I designed for him. It\u2019s not an Instagram to share my personal stuff, it\u2019s just a appreciation post about one of our fallen soldier.](http://9gag.com/gag/a61xqo9)
+ - 🚯 [Real talk](http://9gag.com/gag/a91V1ZK)<!-- MEMES:END -->
 
 --- 
 
