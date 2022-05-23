@@ -195,8 +195,8 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to reset](http://9gag.com/gag/aE8Q0WG)
- - 🚯 [Meow meow meow](http://9gag.com/gag/adgdv0N)
+ - 🚖 [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)
+ - 🚯 [Beer &gt; Snails and Wine](http://9gag.com/gag/ay9zNDY)
  - 🚯 [Up up and away!!](http://9gag.com/gag/aQXrgpw)<!-- MEMES:END -->
 
 --- 
