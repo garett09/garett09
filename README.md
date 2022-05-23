@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao](http://9gag.com/gag/aQXrXWe)
- - 🚯 [My husband introduced me to 9GAG about 9 years ago. This week he passed away from fking ALS. It\u2019s his arm with tattoo I designed for him. It\u2019s not an Instagram to share my personal stuff, it\u2019s just a appreciation post about one of our fallen soldier.](http://9gag.com/gag/a61xqo9)
- - 🚯 [Real talk](http://9gag.com/gag/a91V1ZK)<!-- MEMES:END -->
+ - 🚖 [Hes in the hospital now, shame shame shame](http://9gag.com/gag/a21xKeZ)
+ - 🚯 [Brothers](http://9gag.com/gag/a51xXLG)
+ - 🚯 [Exerts in action...](http://9gag.com/gag/a71Gq6A)<!-- MEMES:END -->
 
 --- 
 
