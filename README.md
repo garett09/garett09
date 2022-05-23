@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hes in the hospital now, shame shame shame](http://9gag.com/gag/a21xKeZ)
- - 🚯 [Brothers](http://9gag.com/gag/a51xXLG)
- - 🚯 [Exerts in action...](http://9gag.com/gag/a71Gq6A)<!-- MEMES:END -->
+ - 🚖 [Exerts in action...](http://9gag.com/gag/a71Gq6A)
+ - 🚯 [It&#39;s shift change time](http://9gag.com/gag/a91VqmD)
+ - 🚯 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)<!-- MEMES:END -->
 
 --- 
 
