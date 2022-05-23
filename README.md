@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #338: Monday, May 23](https://www.pcgamer.com/wordle-may-23-338-hinge-meaning)
  - [Stranger Things levels up in horror, but not so much in character](https://www.polygon.com/reviews/23131219/stranger-things-4-review-part-1-season)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [AMD SmartAccess Storage is built to rival Nvidia&#39;s own DirectStorage-based technology, RTX IO](https://www.pcgamer.com/amd-smartaccess-storage-reveal)<!-- GAME:END -->
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
