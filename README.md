@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
- - 🚯 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)
- - 🚯 [Weed vs Alcohol](http://9gag.com/gag/awz8M1y)<!-- MEMES:END -->
+ - 🚖 [Weed vs Alcohol](http://9gag.com/gag/awz8M1y)
+ - 🚯 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
+ - 🚯 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)<!-- MEMES:END -->
 
 --- 
 
