@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I think I downloaded the wrong Dr Strange movie](http://9gag.com/gag/ajgdPOp)
- - 🚯 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)
- - 🚯 [Time to reset](http://9gag.com/gag/aE8Q0WG)<!-- MEMES:END -->
+ - 🚯 [This kid is going places](http://9gag.com/gag/avADyed)
+ - 🚯 [There is always that 1 teammate](http://9gag.com/gag/amgdAj4)<!-- MEMES:END -->
 
 --- 
 
