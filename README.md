@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This really sucks a$](http://9gag.com/gag/apgdDLB)
- - 🚯 [Cause that\u2019s what real friends do](http://9gag.com/gag/awz8g81)
- - 🚯 [Define `inappropriate`. It&#39;s a broad range imo, wink wink](http://9gag.com/gag/amgdWpV)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t get it though, he was driving fine for so many years](http://9gag.com/gag/aGzoLV7)
+ - 🚯 [That\u2019s how you handle rejection](http://9gag.com/gag/aRryZAQ)
+ - 🚯 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
 
 --- 
 
