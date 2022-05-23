@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rory Kinnear on Playing Men’s Villain with a Thousand Faces](https://www.wired.com/story/rory-kinnear-men-q-and-a)
- - [Marvel, Please Don’t Digitally Resurrect Stan Lee](https://www.wired.com/story/let-stan-lee-rest)
- - [How GDPR Is Failing](https://www.wired.com/story/gdpr-2022)<!-- TECH:END -->
+ - [Xiaomi signs a long-term partnership with Leica and announces a jointly developed smartphone will launch in July 2022, likely with the Snapdragon 8 Plus Gen 1 &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/220523/p10#a220523p10)
+ - [Crime blotter: Federal indictment for Charlotte phone store owners](https://appleinsider.com/articles/22/05/22/crime-blotter-federal-indictment-for-charlotte-phone-store-owners?utm_medium=rss)
+ - [Motorola’s New 5G Phones Are Unambitious and Boringly Functional](https://www.wired.com/review/motorola-moto-g-stylus-5g-moto-g-5g-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
