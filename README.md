@@ -195,7 +195,7 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure art:&rpar;&rpar;](http://9gag.com/gag/aLvbLjx)
+ - 🚖 [Time to reset](http://9gag.com/gag/aE8Q0WG)
  - 🚯 [Meow meow meow](http://9gag.com/gag/adgdv0N)
  - 🚯 [Up up and away!!](http://9gag.com/gag/aQXrgpw)<!-- MEMES:END -->
 
