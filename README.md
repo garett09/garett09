@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)
- - 🚯 [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
- - 🚯 [Let&#39;s do it](http://9gag.com/gag/aNPqw2K)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s do it](http://9gag.com/gag/aNPqw2K)
+ - 🚯 [I had a 2 weeks work trip and this was waiting when i got back](http://9gag.com/gag/aOQjxnr)
+ - 🚯 [All the time](http://9gag.com/gag/aqGde6p)<!-- MEMES:END -->
 
 --- 
 
