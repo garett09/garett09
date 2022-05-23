@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
- - 🚯 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)
- - 🚯 [Big cats are still cats](http://9gag.com/gag/aWgdgP2)<!-- MEMES:END -->
+ - 🚯 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)
+ - 🚯 [Weed vs Alcohol](http://9gag.com/gag/awz8M1y)<!-- MEMES:END -->
 
 --- 
 
