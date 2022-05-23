@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Each dot is a galaxy, not a star.](http://9gag.com/gag/azeB5XZ)
- - 🚯 [Ahh yes the Japanese courtship ritual](http://9gag.com/gag/a11xmDR)
- - 🚯 [The It&#39;s-not-my-business-award goes to...](http://9gag.com/gag/a71GoOm)<!-- MEMES:END -->
+ - 🚯 [Yikes!](http://9gag.com/gag/a21xwzw)
+ - 🚯 [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)<!-- MEMES:END -->
 
 --- 
 
