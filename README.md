@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)
- - 🚯 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)
- - 🚯 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)<!-- MEMES:END -->
+ - 🚖 [I am generous god](http://9gag.com/gag/a91Vq1m)
+ - 🚯 [Wow i have a passion wow](http://9gag.com/gag/ay9z9Mr)
+ - 🚯 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)<!-- MEMES:END -->
 
 --- 
 
