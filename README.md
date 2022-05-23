@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi shareholders vote to delist from the NYSE, clearing the way for the company to work with Chinese regulators and prepare for a Hong Kong IPO &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220523/p16#a220523p16)
- - [&#39;Mission: Impossible - Dead Reckoning Part 1&#39; Trailer Reveals Tom Cruise&#39;s Glorious Stunts     - CNET](https://www.cnet.com/culture/entertainment/mission-impossible-dead-reckoning-part-1-trailer-reveals-tom-cruises-glorious-stunts/#ftag=CAD590a51e)
- - [Stranger Things 4 cranks everything up way past eleven](https://www.theverge.com/23067333/stranger-things-4-review)<!-- TECH:END -->
+ - [Ecobee&#39;s new thermostats, Eve Outdoor Cam, &amp; Pebblebee trackers on HomeKit Insider](https://appleinsider.com/articles/22/05/23/ecobees-new-thermostats-eve-outdoor-cam-pebblebee-trackers-on-homekit-insider?utm_medium=rss)
+ - [Instagram created custom fonts called ‘Instagram Sans,’ and some of them are truly wild](https://www.theverge.com/2022/5/23/23137749/instagram-sans-brand-refresh-typeface-font-squircle)
+ - [As GDPR turns four, despite some positives, regulators are struggling with enforcement, the ad industry remains littered with potential abuses, and more &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220523/p18#a220523p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
