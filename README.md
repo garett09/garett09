@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Each dot is a galaxy, not a star.](http://9gag.com/gag/azeB5XZ)
+ - 🚖 [Fire trucks are blocked from fighting the fire due to the construction of a fence on the road to prevent the epidemic](http://9gag.com/gag/a71G86w)
  - 🚯 [Yikes!](http://9gag.com/gag/a21xwzw)
- - 🚯 [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)<!-- MEMES:END -->
+ - 🚯 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
 
 --- 
 
