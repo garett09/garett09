@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My husband introduced me to 9GAG about 9 years ago. This week he passed away from fking ALS. It\u2019s his arm with tattoo I designed for him. It\u2019s not an Instagram to share my personal stuff, it\u2019s just a appreciation post about one of our fallen soldier.](http://9gag.com/gag/a61xqo9)
- - 🚯 [Shane&#39;s would be pleases](http://9gag.com/gag/a0ZxZ9Q)
- - 🚯 [Why the f**k not?](http://9gag.com/gag/aAGmbqR)<!-- MEMES:END -->
+ - 🚖 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)
+ - 🚯 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)
+ - 🚯 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)<!-- MEMES:END -->
 
 --- 
 
