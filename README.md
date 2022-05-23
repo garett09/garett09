@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecobee&#39;s new thermostats, Eve Outdoor Cam, &amp; Pebblebee trackers on HomeKit Insider](https://appleinsider.com/articles/22/05/23/ecobees-new-thermostats-eve-outdoor-cam-pebblebee-trackers-on-homekit-insider?utm_medium=rss)
- - [Instagram created custom fonts called ‘Instagram Sans,’ and some of them are truly wild](https://www.theverge.com/2022/5/23/23137749/instagram-sans-brand-refresh-typeface-font-squircle)
- - [As GDPR turns four, despite some positives, regulators are struggling with enforcement, the ad industry remains littered with potential abuses, and more &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220523/p18#a220523p18)<!-- TECH:END -->
+ - [Why we need a public internet and how to get one](https://www.theverge.com/2022/5/23/23125917/ben-tarnoff-public-internet-interview)
+ - [iPhone 14 to get &#39;high-end&#39; front camera with built-in autofocus](https://appleinsider.com/articles/22/05/23/iphone-14-to-get-high-end-front-camera-with-built-in-autofocus?utm_medium=rss)
+ - [Save $250 on Apple&#39;s 13-inch MacBook Pro with 512GB SSD at Amazon](https://appleinsider.com/articles/22/05/23/save-250-on-apples-13-inch-macbook-pro-with-512gb-ssd-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
