@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Apple, Amazon, Microsoft, and Google will emerge stronger from this downturn; Refinitiv: from 2008 to 2010, these companies acquired 100+ firms &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220523/p6#a220523p6)
- - [Clearview AI ordered to delete facial recognition data belonging to UK residents](https://www.theverge.com/2022/5/23/23137603/clearview-ai-ordered-delete-data-uk-residents-ico-fine)
- - [Denver-based Velocity Global, which develops HR software for distributed workforces, raises a $400M Series B, and says it generated $125M in revenue last year &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/220523/p5#a220523p5)<!-- TECH:END -->
+ - [Rory Kinnear on Playing Men’s Villain with a Thousand Faces](https://www.wired.com/story/rory-kinnear-men-q-and-a)
+ - [Marvel, Please Don’t Digitally Resurrect Stan Lee](https://www.wired.com/story/let-stan-lee-rest)
+ - [How GDPR Is Failing](https://www.wired.com/story/gdpr-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
