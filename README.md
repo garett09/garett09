@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think I downloaded the wrong Dr Strange movie](http://9gag.com/gag/ajgdPOp)
- - 🚯 [This kid is going places](http://9gag.com/gag/avADyed)
- - 🚯 [There is always that 1 teammate](http://9gag.com/gag/amgdAj4)<!-- MEMES:END -->
+ - 🚖 [Pure art:&rpar;&rpar;](http://9gag.com/gag/aLvbLjx)
+ - 🚯 [Meow meow meow](http://9gag.com/gag/adgdv0N)
+ - 🚯 [Up up and away!!](http://9gag.com/gag/aQXrgpw)<!-- MEMES:END -->
 
 --- 
 
