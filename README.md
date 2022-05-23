@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi signs a long-term partnership with Leica and announces a jointly developed smartphone will launch in July 2022, likely with the Snapdragon 8 Plus Gen 1 &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/220523/p10#a220523p10)
- - [Crime blotter: Federal indictment for Charlotte phone store owners](https://appleinsider.com/articles/22/05/22/crime-blotter-federal-indictment-for-charlotte-phone-store-owners?utm_medium=rss)
- - [Motorola’s New 5G Phones Are Unambitious and Boringly Functional](https://www.wired.com/review/motorola-moto-g-stylus-5g-moto-g-5g-2022)<!-- TECH:END -->
+ - [Didi shareholders vote to delist from the NYSE, clearing the way for the company to work with Chinese regulators and prepare for a Hong Kong IPO &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220523/p16#a220523p16)
+ - [&#39;Mission: Impossible - Dead Reckoning Part 1&#39; Trailer Reveals Tom Cruise&#39;s Glorious Stunts     - CNET](https://www.cnet.com/culture/entertainment/mission-impossible-dead-reckoning-part-1-trailer-reveals-tom-cruises-glorious-stunts/#ftag=CAD590a51e)
+ - [Stranger Things 4 cranks everything up way past eleven](https://www.theverge.com/23067333/stranger-things-4-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
