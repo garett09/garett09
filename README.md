@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Zombie Cryptocalypse](https://www.wired.com/story/bitcoin-ethereum-price-cryptocalypse-david-gerard)
- - [How to use the helpful Speak to Chat feature on Sony headphones and earbuds](https://www.theverge.com/23138047/sony-speak-to-chat-how-to-use-headphones-earbuds-feature)
- - [Compared: Apple Studio Display vs Alogic Clarity Monitor](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-alogic-clarity-monitor?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s brilliant C1 OLED just hit its lowest price ever on Amazon](https://www.theverge.com/good-deals/2022/5/23/23137798/lg-c1-oled-samsung-galaxy-s22-ultra-apple-macbook-air-logitech-master-mouse-blue-yeti-deal-sale)
+ - [The QA team at Activision Blizzard&#39;s Raven Software votes 19-3 to unionize, as US labor board prosecutors say that the company illegally threatened staff &lpar;Patrick Klepek/VICE&rpar;](http://www.techmeme.com/220523/p29#a220523p29)
+ - [Apple to open new US retail location in East Rutherford, New Jersey](https://appleinsider.com/articles/22/05/23/apple-to-open-new-us-retail-location-in-east-rutherford-new-jersey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
