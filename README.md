@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Colin Cantwell, designer of the X-Wing, TIE Fighter, and other iconic spaceships, has died](https://www.pcgamer.com/colin-cantwell-designer-of-the-x-wing-tie-fighter-and-other-iconic-spaceships-has-died)
- - [A brand new sidescrolling shmup just surprise-launched on Steam](https://www.pcgamer.com/a-brand-new-sidescrolling-shmup-just-surprise-launched-on-steam)
- - [Great moments in PC Gaming: Spotting an invader in Watch Dogs](https://www.pcgamer.com/great-moments-in-pc-gaming-spotting-an-invader-in-watch-dogs)<!-- GAME:END -->
+ - [PS2 emulator PCSX2 gets a user-friendly UI at last](https://www.pcgamer.com/ps2-emulator-pcsx2-gets-a-user-friendly-ui-at-last)
+ - [The latest Windows 11 preview feature is a Bing and Edge exclusive search box on your desktop](https://www.pcgamer.com/the-latest-windows-11-preview-feature-is-a-bing-and-edge-exclusive-search-box-on-your-desktop)
+ - [Colin Cantwell, designer of the X-Wing, TIE Fighter, and other iconic spaceships, has died](https://www.pcgamer.com/colin-cantwell-designer-of-the-x-wing-tie-fighter-and-other-iconic-spaceships-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
