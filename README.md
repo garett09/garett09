@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)
- - 🚯 [It&#39;s your life bro..](http://9gag.com/gag/arndVOV)
- - 🚯 [If you know... you know](http://9gag.com/gag/aqGdjyM)<!-- MEMES:END -->
+ - 🚖 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
+ - 🚯 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)
+ - 🚯 [Big cats are still cats](http://9gag.com/gag/aWgdgP2)<!-- MEMES:END -->
 
 --- 
 
