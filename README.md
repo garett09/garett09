@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s do it](http://9gag.com/gag/aNPqw2K)
- - 🚯 [I had a 2 weeks work trip and this was waiting when i got back](http://9gag.com/gag/aOQjxnr)
- - 🚯 [All the time](http://9gag.com/gag/aqGde6p)<!-- MEMES:END -->
+ - 🚖 [I think I downloaded the wrong Dr Strange movie](http://9gag.com/gag/ajgdPOp)
+ - 🚯 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)
+ - 🚯 [Time to reset](http://9gag.com/gag/aE8Q0WG)<!-- MEMES:END -->
 
 --- 
 
