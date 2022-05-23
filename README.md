@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: MainStreet, which helps SMBs find tax credits, is raising at a $200M valuation, down from a $500M last March, weeks after laying off 30% of staff &lpar;TechCrunch&rpar;](http://www.techmeme.com/220523/p23#a220523p23)
- - [How to free up iCloud storage when space is low](https://www.androidauthority.com/free-up-icloud-storage-3168117/)
- - [Pixel fans rejoice: The Google Pixel Watch may ship with USB-C charging](https://www.androidauthority.com/google-pixel-watch-usb-c-3168135/)<!-- TECH:END -->
+ - [iFixit’s Steam Deck repair guides and parts are live &lpar;but the best pieces are MIA&rpar;](https://www.theverge.com/2022/5/23/23138196/ifixit-steam-deck-parts-sale)
+ - [The heatsink may finally have a much more svelte competitor](https://www.theverge.com/2022/5/23/23137904/heatsink-competitor-copper-coating)
+ - [The Buffalo shooting live stream shows the strengths and limitations of the Christchurch Call accord, created in 2019 to counter online terrorist content &lpar;Stephen Wright/Wall Street Journal&rpar;](http://www.techmeme.com/220523/p24#a220523p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
