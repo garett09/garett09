@@ -195,8 +195,8 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t get it though, he was driving fine for so many years](http://9gag.com/gag/aGzoLV7)
- - 🚯 [That\u2019s how you handle rejection](http://9gag.com/gag/aRryZAQ)
+ - 🚖 [This commercial from 2012 checks all the boxes](http://9gag.com/gag/aWgd7O2)
+ - 🚯 [Classic wordplay joke](http://9gag.com/gag/a31xAKe)
  - 🚯 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
 
 --- 
