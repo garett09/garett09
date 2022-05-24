@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try to entertain myself when im broke](http://9gag.com/gag/aE8QAqo)
- - 🚯 [Good idea for older people](http://9gag.com/gag/aegdZjQ)
- - 🚯 [You know you&#39;re a batshit crazy libtard if Bill Maher is calling you out.](http://9gag.com/gag/arndXW6)<!-- MEMES:END -->
+ - 🚖 [This Chonky MF is the fattest ballsack-cat I&#39;ve ever seen](http://9gag.com/gag/a71G0Bq)
+ - 🚯 [We warm blankets and then they warm us](http://9gag.com/gag/a11x026)
+ - 🚯 [Farm life](http://9gag.com/gag/amgd6PX)<!-- MEMES:END -->
 
 --- 
 
