@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zeus flicks too hard in latest Thor trailer](https://www.theverge.com/2022/5/23/23139042/thor-love-and-thunder-trailer-mcu-gorr-god-butcher)
- - [Apple may release 2022 Apple Watch Pride edition bands next week](https://appleinsider.com/articles/22/05/24/apple-may-release-2022-apple-watch-pride-edition-bands-next-week?utm_medium=rss)
- - [&#39;Thor: Love and Thunder&#39; Drops New Trailer with Christian Bale&#39;s Villain     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-drops-new-trailer-with-christian-bales-villain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia turns to liquid cooling to reduce big tech’s energy use](https://www.theverge.com/2022/5/24/23138928/nvidia-liquid-cooling-a100-server-graphics-cards-computation-ai)
+ - [CA State Assembly approves a bill letting parents sue social media companies if children become &quot;addicted&quot; to the companies&#39; products; bill needs a final vote &lpar;Adam Beam/Associated Press&rpar;](http://www.techmeme.com/220523/p37#a220523p37)
+ - [&#39;Obi-Wan Kenobi&#39; Could Be the Last Hope for Star Wars Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
