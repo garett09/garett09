@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Chonky MF is the fattest ballsack-cat I&#39;ve ever seen](http://9gag.com/gag/a71G0Bq)
- - 🚯 [Farm life](http://9gag.com/gag/amgd6PX)
- - 🚯 [We&#39;re safe](http://9gag.com/gag/a91V59j)<!-- MEMES:END -->
+ - 🚖 [Relatable](http://9gag.com/gag/avADEnn)
+ - 🚯 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)
+ - 🚯 [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)<!-- MEMES:END -->
 
 --- 
 
