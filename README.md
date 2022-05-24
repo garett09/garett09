@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This Chonky MF is the fattest ballsack-cat I&#39;ve ever seen](http://9gag.com/gag/a71G0Bq)
- - 🚯 [We warm blankets and then they warm us](http://9gag.com/gag/a11x026)
- - 🚯 [Farm life](http://9gag.com/gag/amgd6PX)<!-- MEMES:END -->
+ - 🚯 [Farm life](http://9gag.com/gag/amgd6PX)
+ - 🚯 [We&#39;re safe](http://9gag.com/gag/a91V59j)<!-- MEMES:END -->
 
 --- 
 
