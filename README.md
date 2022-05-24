@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epic Move](http://9gag.com/gag/aLvbGOW)
- - 🚯 [Pick up today 50kg of garbage. Total is 821kg. You ask me where all this garbage goes after my cleaning. City service pick it up in special place and than it goes to Garbage Factory. Your Cleaning Guy Petr Tyurin.](http://9gag.com/gag/avADEDn)
- - 🚯 [When you max out the bard skill tree](http://9gag.com/gag/aLvbGZz)<!-- MEMES:END -->
+ - 🚖 [Cats.. how.?](http://9gag.com/gag/ajgdBOg)
+ - 🚯 [Epic Move](http://9gag.com/gag/aLvbGOW)
+ - 🚯 [Finish the drawing](http://9gag.com/gag/aegdZ45)<!-- MEMES:END -->
 
 --- 
 
