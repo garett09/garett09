@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
- - [Spotify is slowly bringing back political ads on podcasts after pausing them in early 2020, and says it has strengthened its advertiser verification system &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220523/p35#a220523p35)
- - [Klarna used a prerecorded video message to lay off 10 percent of employees](https://www.theverge.com/2022/5/23/23138602/klarna-bnpl-service-lays-off-10-percent-workers-economy-falters-video-messages)<!-- TECH:END -->
+ - [Starlink’s new RV plan lets buyers skip the line if they pay more for worse service](https://www.theverge.com/2022/5/23/23138898/spacex-starlink-rv-satellite-internet-waitlist)
+ - [The Rodecaster Pro II is a slimmer, more customizable audio mixer](https://www.theverge.com/2022/5/23/23138438/rodecaster-ii-pro-audio-mixer-announced-price-release-date)
+ - [Four &#39;SNL&#39; Stars Departing: What They&#39;re Doing Next and Their Best Sketches     - CNET](https://www.cnet.com/culture/entertainment/four-snl-stars-departing-what-theyre-doing-next-and-their-best-sketches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
