@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
- - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
- - [Destiny 2 Takes Players Back To The Leviathan Raid In Season Of The Haunted](https://kotaku.com/destiny-2-witch-queen-season-17-haunted-raid-dungeon-ex-1848968413)<!-- GAME:END -->
+ - [Thor: Love and Thunder’s villain, Gorr the God Butcher, is an interstellar atheist](https://www.polygon.com/23124300/thor-love-and-thunder-christian-bale-villain-name-gorr-god-butcher)
+ - [All The Major Games Only Coming Out On Next-Gen Consoles](https://kotaku.com/all-the-major-games-only-coming-out-on-next-gen-console-1847221133)
+ - [Bungie’s Destiny historian prepares you for Destiny 2’s Season of the Haunted, live now](https://blog.playstation.com/2022/05/24/bungies-destiny-historian-prepares-you-for-destiny-2s-season-of-the-haunted-live-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
