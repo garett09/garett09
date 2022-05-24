@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors&#39; 0.6.1 update adds a bonus stage and two new mechanics](https://www.pcgamer.com/vampire-survivors-061-update-adds-a-bonus-stage-and-two-new-mechanics)
- - [Sony appears to once again offer slower versions of PS1 games on PlayStation Plus](https://www.polygon.com/23138769/playstation-now-ps1-games-slower-why-pal-ntsc)
- - [Gloomhaven is coming to consoles](https://www.polygon.com/23138647/gloomhaven-console-port-2023)<!-- GAME:END -->
+ - [Dune Crypto Leader Quits NFT Project After Being Accused Of Racism, Homophobia &amp; Grooming](https://kotaku.com/dune-dao-spice-crypto-nft-milady-charlotte-fang-miya-ts-1848966481)
+ - [Destiny 2’s Season of the Haunted sees the return of Calus and his Leviathan ship](https://www.polygon.com/23138400/destiny-2-season-of-the-haunted-17-calus-leviathan-solar-3-0-trespasser)
+ - [Looks Like Some Classic Games On PlayStation Plus Will Have Crappy PAL Framerates](https://kotaku.com/playstation-plus-sony-ps1-psp-pal-ntsc-framerate-fps-cl-1848966461)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
