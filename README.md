@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classic wordplay joke](http://9gag.com/gag/a31xAKe)
- - 🚯 [That\u2019s how you handle rejection](http://9gag.com/gag/aRryZAQ)
- - 🚯 [Wrong day to wear a green t-shirt](http://9gag.com/gag/aQXrQQ7)<!-- MEMES:END -->
+ - 🚖 [Wrong day to wear a green t-shirt](http://9gag.com/gag/aQXrQQ7)
+ - 🚯 [June is just around the corner! Run while you can!](http://9gag.com/gag/angdn0E)
+ - 🚯 [Farm life](http://9gag.com/gag/amgd6PX)<!-- MEMES:END -->
 
 --- 
 
