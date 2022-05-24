@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epic Move](http://9gag.com/gag/aLvbGOW)
- - 🚯 [My washing machine was bought in 1982, and is still running, consuming only 10% more electricity than modern ones. Good luck finding a product like that today... Most break weeks after warranty ends, and can&#39;t be repaired. Until we put a stop to this, nothing will change](http://9gag.com/gag/aXrd7Ab)
- - 🚯 [When you max out the bard skill tree](http://9gag.com/gag/aLvbGZz)<!-- MEMES:END -->
+ - 🚖 [Emily: Omg Tyler is so hot. Tyler:](http://9gag.com/gag/aGzoMvn)
+ - 🚯 [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)
+ - 🚯 [The wisdom of an elder](http://9gag.com/gag/a21xDbw)<!-- MEMES:END -->
 
 --- 
 
