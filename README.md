@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emily: Omg Tyler is so hot. Tyler:](http://9gag.com/gag/aGzoMvn)
- - 🚯 [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)
- - 🚯 [The wisdom of an elder](http://9gag.com/gag/a21xDbw)<!-- MEMES:END -->
+ - 🚖 [The wisdom of an elder](http://9gag.com/gag/a21xDbw)
+ - 🚯 [As expected for him](http://9gag.com/gag/aAGm2xd)
+ - 🚯 [Music to my ears](http://9gag.com/gag/a51xGBy)<!-- MEMES:END -->
 
 --- 
 
