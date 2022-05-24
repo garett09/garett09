@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The wisdom of an elder](http://9gag.com/gag/a21xDbw)
- - 🚯 [As expected for him](http://9gag.com/gag/aAGm2xd)
- - 🚯 [Music to my ears](http://9gag.com/gag/a51xGBy)<!-- MEMES:END -->
+ - 🚯 [Drifttt](http://9gag.com/gag/aYrdMKw)
+ - 🚯 [My washing machine was bought in 1982, and is still running, consuming only 10% more electricity than modern ones. Good luck finding a product like that today... Most break weeks after warranty ends, and can&#39;t be repaired. Until we put a stop to this, nothing will change](http://9gag.com/gag/aXrd7Ab)<!-- MEMES:END -->
 
 --- 
 
