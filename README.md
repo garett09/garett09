@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink’s new RV plan lets buyers skip the line if they pay more for worse service](https://www.theverge.com/2022/5/23/23138898/spacex-starlink-rv-satellite-internet-waitlist)
- - [The Rodecaster Pro II is a slimmer, more customizable audio mixer](https://www.theverge.com/2022/5/23/23138438/rodecaster-ii-pro-audio-mixer-announced-price-release-date)
- - [Four &#39;SNL&#39; Stars Departing: What They&#39;re Doing Next and Their Best Sketches     - CNET](https://www.cnet.com/culture/entertainment/four-snl-stars-departing-what-theyre-doing-next-and-their-best-sketches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zeus flicks too hard in latest Thor trailer](https://www.theverge.com/2022/5/23/23139042/thor-love-and-thunder-trailer-mcu-gorr-god-butcher)
+ - [Apple may release 2022 Apple Watch Pride edition bands next week](https://appleinsider.com/articles/22/05/24/apple-may-release-2022-apple-watch-pride-edition-bands-next-week?utm_medium=rss)
+ - [&#39;Thor: Love and Thunder&#39; Drops New Trailer with Christian Bale&#39;s Villain     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-drops-new-trailer-with-christian-bales-villain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
