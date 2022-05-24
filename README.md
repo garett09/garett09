@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Think Airport Crowding Is Bad Now? Wait ’Til Summer](https://www.wired.com/story/why-airport-crowding-is-so-bad)
- - [Open Source Intelligence May Be Changing Old-School War](https://www.wired.com/story/open-source-intelligence-war-russia-ukraine)
- - [A Novelist and an AI Cowrote Your Next Cringe-Read](https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe)<!-- TECH:END -->
+ - [Daily deals May 24: $100 off Samsung M8 Smart Monitor, $290 iPad Air 3, Logitech discounts, more](https://appleinsider.com/articles/22/05/24/daily-deals-may-24-100-off-samsung-m8-smart-monitor-290-ipad-air-3-logitech-discounts-more?utm_medium=rss)
+ - [Mi Band 7 goes official with bigger display, new features, same cheap price tag](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
+ - [Tech Leaders Can Do More to Avoid Unintended Consequences](https://www.wired.com/story/technology-unintended-consequences)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
