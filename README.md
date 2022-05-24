@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia turns to liquid cooling to reduce big tech’s energy use](https://www.theverge.com/2022/5/24/23138928/nvidia-liquid-cooling-a100-server-graphics-cards-computation-ai)
- - [CA State Assembly approves a bill letting parents sue social media companies if children become &quot;addicted&quot; to the companies&#39; products; bill needs a final vote &lpar;Adam Beam/Associated Press&rpar;](http://www.techmeme.com/220523/p37#a220523p37)
- - [&#39;Obi-Wan Kenobi&#39; Could Be the Last Hope for Star Wars Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xbox &amp; Bethesda Games Showcase 2022: How to Watch, Start Times, What to Expect     - CNET](https://www.cnet.com/tech/gaming/xbox-bethesda-games-showcase-2022-how-to-watch-start-times-what-to-expect/#ftag=CAD590a51e)
+ - [New Canon R7 and R10 Cameras Pair RF Lenses with APS-C Sensors     - CNET](https://www.cnet.com/tech/computing/new-canon-r7-and-r10-cameras-pair-rf-lenses-with-aps-c-sensors/#ftag=CAD590a51e)
+ - [Nvidia turns to liquid cooling to reduce big tech’s energy use](https://www.theverge.com/2022/5/24/23138928/nvidia-liquid-cooling-a100-server-graphics-cards-computation-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
