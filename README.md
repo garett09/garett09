@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Season of the Haunted adds 5 new Exotics — here’s what they do](https://www.polygon.com/23138419/destiny-2-season-of-the-haunted-trespasser-heartshadow-exotic-armor)
- - [This Beautiful Farming Sim Combines Chinese Fantasy With Stardew Valley](https://kotaku.com/immortal-life-harvest-moon-stardew-valley-rune-factory-1848972094)
- - [Seth Green Created A TV Show Around His NFT Ape, Then Someone Stole It](https://kotaku.com/seth-green-celeb-nft-stolen-bored-apes-tv-show-crypto-s-1848971988)<!-- GAME:END -->
+ - [Activision Blizzard Devs Demand Breastfeeding Protections And Other Reforms](https://kotaku.com/call-duty-activision-blizzard-sexual-harassment-breast-1848972428)
+ - [Dream Daddy developers are making a psychological horror game called Homebody](https://www.polygon.com/23138365/rogue-games-game-grumps-homebody-announcement-horror)
+ - [Twitch may finally start telling people why they&#39;ve been banned](https://www.pcgamer.com/twitch-may-finally-start-telling-people-why-theyve-been-banned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
