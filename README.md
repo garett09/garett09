@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 24: $100 off Samsung M8 Smart Monitor, $290 iPad Air 3, Logitech discounts, more](https://appleinsider.com/articles/22/05/24/daily-deals-may-24-100-off-samsung-m8-smart-monitor-290-ipad-air-3-logitech-discounts-more?utm_medium=rss)
- - [Mi Band 7 goes official with bigger display, new features, same cheap price tag](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
- - [Tech Leaders Can Do More to Avoid Unintended Consequences](https://www.wired.com/story/technology-unintended-consequences)<!-- TECH:END -->
+ - [Here’s when Samsung will open a software beta program for the Galaxy Watch 4](https://www.androidauthority.com/one-ui-watch-beta-3168590/)
+ - [How to change your iCloud email and password](https://www.androidauthority.com/change-icloud-email-password-3168543/)
+ - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
