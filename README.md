@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3, F1 2022, Deep Rock Galactic, and more to get RTX On](https://www.pcgamer.com/hitman-3-f1-2022-deep-rock-galactic-and-more-to-get-rtx-on)
- - [Nvidia announces Asus Rog Swift 500Hz gaming monitor at Computex](https://www.pcgamer.com/nvidia-announces-asus-rog-swift-500hz-gaming-monitor-at-computex)
- - [Nvidia&#39;s Computex 2022 keynote focused on AI and Cloud services](https://www.pcgamer.com/nvidias-computex-2022-keynote-focused-on-ai-and-cloud-services)<!-- GAME:END -->
+ - [Where to find Unsullied Hearts in V Rising](https://www.pcgamer.com/v-rising-unsullied-hearts)
+ - [They flew a freaking Kerbal to the International Space Station](https://www.pcgamer.com/they-flew-a-freaking-kerbal-to-the-international-space-station)
+ - [How to mine iron ore in V Rising](https://www.pcgamer.com/how-to-get-v-rising-iron-ore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
