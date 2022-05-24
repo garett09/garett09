@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thor: Love and Thunder’s villain, Gorr the God Butcher, is an interstellar atheist](https://www.polygon.com/23124300/thor-love-and-thunder-christian-bale-villain-name-gorr-god-butcher)
- - [All The Major Games Only Coming Out On Next-Gen Consoles](https://kotaku.com/all-the-major-games-only-coming-out-on-next-gen-console-1847221133)
- - [Bungie’s Destiny historian prepares you for Destiny 2’s Season of the Haunted, live now](https://blog.playstation.com/2022/05/24/bungies-destiny-historian-prepares-you-for-destiny-2s-season-of-the-haunted-live-now/)<!-- GAME:END -->
+ - [Hunter x Hunter Creator Joins Twitter, Reveals Manga’s Long Hiatus Is Ending](https://kotaku.com/hunter-x-hunter-yoshihiro-togashi-manga-hiatus-gon-kill-1848969729)
+ - [Here Are The Top 10 Most-Played Games Of The Year So Far](https://kotaku.com/most-played-games-2022-gta-minecraft-call-of-duty-fortn-1848969703)
+ - [Firewall Zero Hour’s tenth season goes live today](https://blog.playstation.com/2022/05/24/firewall-zero-hours-tenth-season-goes-live-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
