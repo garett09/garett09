@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This commercial from 2012 checks all the boxes](http://9gag.com/gag/aWgd7O2)
- - 🚯 [Classic wordplay joke](http://9gag.com/gag/a31xAKe)
- - 🚯 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
+ - 🚖 [Me buying all the Bitcoin and Crypto I can before the next bullrun.](http://9gag.com/gag/aE8Q6KG)
+ - 🚯 [Good idea for older people](http://9gag.com/gag/aegdZjQ)
+ - 🚯 [Classic wordplay joke](http://9gag.com/gag/a31xAKe)<!-- MEMES:END -->
 
 --- 
 
