@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As expected for him](http://9gag.com/gag/aAGm2xd)
- - 🚯 [UK Police arresting a taxi driver for driving a car similar to a criminal](http://9gag.com/gag/aAGmXMR)
- - 🚯 [Found this today.I hope it brings luck to you all !](http://9gag.com/gag/aggd4Aq)<!-- MEMES:END -->
+ - 🚖 [The one I always wanted vs the one I got](http://9gag.com/gag/ajgdKOq)
+ - 🚯 [Oh sweet home alabama](http://9gag.com/gag/apgdxwD)
+ - 🚯 [I\u2019ve never seen a more accurate meme. And it\u2019s simpsons. What are you spending all your money on?](http://9gag.com/gag/azeBZ8j)<!-- MEMES:END -->
 
 --- 
 
