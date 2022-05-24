@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Erik Neuenschwander talks about design choices at privacy conference](https://appleinsider.com/articles/22/05/24/apples-erik-neuenschwander-talks-about-design-choices-at-privacy-conference?utm_medium=rss)
- - [Asus Zenbook Pro 14 Duo OLED review: a dual-screen laptop that works](https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price)
- - [Motorola Moto G 5G &lpar;2022&rpar; review: The textbook Moto G deserves better](https://www.androidauthority.com/motorola-moto-g-5g-2022-review-3163087/)<!-- TECH:END -->
+ - [Microsoft is making native Arm versions of Visual Studio 2022 and VS Code](https://www.theverge.com/2022/5/24/23139475/microsoft-visual-studio-2022-native-arm-vs-code)
+ - [Microsoft will support third-party Windows 11 widgets later this year](https://www.theverge.com/2022/5/24/23137636/microsoft-windows-11-widgets-developers-apps)
+ - [Microsoft starts testing new OneNote design overhaul](https://www.theverge.com/2022/5/24/23139312/microsoft-onenote-design-update-build-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
