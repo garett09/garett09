@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune Crypto Leader Quits NFT Project After Being Accused Of Racism, Homophobia &amp; Grooming](https://kotaku.com/dune-dao-spice-crypto-nft-milady-charlotte-fang-miya-ts-1848966481)
- - [Destiny 2’s Season of the Haunted sees the return of Calus and his Leviathan ship](https://www.polygon.com/23138400/destiny-2-season-of-the-haunted-17-calus-leviathan-solar-3-0-trespasser)
- - [Looks Like Some Classic Games On PlayStation Plus Will Have Crappy PAL Framerates](https://kotaku.com/playstation-plus-sony-ps1-psp-pal-ntsc-framerate-fps-cl-1848966461)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 10th anniversary website raises a lot of questions](https://www.pcgamer.com/dragons-dogma-10th-anniversary-website-raises-a-lot-of-questions)
+ - [Thor: Love and Thunder’s new trailer shows off the retired god and his friends](https://www.polygon.com/23138688/thor-2-love-and-thunder-new-trailer-gorr-guardians-galaxy-cast)
+ - [Destiny 2: Season 17 dungeon start time, new map, event cards, Iron Banner changes](https://www.pcgamer.com/destiny-2-season-17-start-time-new-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
