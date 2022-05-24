@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homelander vs. Omni-man](http://9gag.com/gag/aqGdxZj)
- - 🚯 [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)
- - 🚯 [Clown world](http://9gag.com/gag/a11x23R)<!-- MEMES:END -->
+ - 🚖 [As expected for him](http://9gag.com/gag/aAGm2xd)
+ - 🚯 [UK Police arresting a taxi driver for driving a car similar to a criminal](http://9gag.com/gag/aAGmXMR)
+ - 🚯 [Found this today.I hope it brings luck to you all !](http://9gag.com/gag/aggd4Aq)<!-- MEMES:END -->
 
 --- 
 
