@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is making native Arm versions of Visual Studio 2022 and VS Code](https://www.theverge.com/2022/5/24/23139475/microsoft-visual-studio-2022-native-arm-vs-code)
- - [Microsoft will support third-party Windows 11 widgets later this year](https://www.theverge.com/2022/5/24/23137636/microsoft-windows-11-widgets-developers-apps)
- - [Microsoft starts testing new OneNote design overhaul](https://www.theverge.com/2022/5/24/23139312/microsoft-onenote-design-update-build-2022)<!-- TECH:END -->
+ - [Goodbye to two screens? Microsoft files patent for 360 degree foldable display.](https://www.androidauthority.com/microsoft-surface-duo-360-patent-3168661/)
+ - [Logitech gaming gear is up to 50 percent off at Amazon for today only](https://www.theverge.com/good-deals/2022/5/24/23139388/logitech-gaming-g435-headset-g-pro-mouse-streamcam-samsung-m8-monitor-irobot-roomba-i7-deal-sale)
+ - [Chrome will soon do Google Lens image searches without leaving a page](https://www.theverge.com/2022/5/24/23139304/google-chrome-lens-image-search-desktop-sidebar-panel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
