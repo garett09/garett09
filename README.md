@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cats.. how.?](http://9gag.com/gag/ajgdBOg)
- - 🚯 [Epic Move](http://9gag.com/gag/aLvbGOW)
- - 🚯 [Finish the drawing](http://9gag.com/gag/aegdZ45)<!-- MEMES:END -->
+ - 🚖 [Epic Move](http://9gag.com/gag/aLvbGOW)
+ - 🚯 [My washing machine was bought in 1982, and is still running, consuming only 10% more electricity than modern ones. Good luck finding a product like that today... Most break weeks after warranty ends, and can&#39;t be repaired. Until we put a stop to this, nothing will change](http://9gag.com/gag/aXrd7Ab)
+ - 🚯 [When you max out the bard skill tree](http://9gag.com/gag/aLvbGZz)<!-- MEMES:END -->
 
 --- 
 
