@@ -188,9 +188,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodbye to two screens? Microsoft files patent for 360 degree foldable display.](https://www.androidauthority.com/microsoft-surface-duo-360-patent-3168661/)
- - [Logitech gaming gear is up to 50 percent off at Amazon for today only](https://www.theverge.com/good-deals/2022/5/24/23139388/logitech-gaming-g435-headset-g-pro-mouse-streamcam-samsung-m8-monitor-irobot-roomba-i7-deal-sale)
- - [Chrome will soon do Google Lens image searches without leaving a page](https://www.theverge.com/2022/5/24/23139304/google-chrome-lens-image-search-desktop-sidebar-panel)<!-- TECH:END -->
+ - [Microsoft debuts Power Pages, a low-code website builder, and Power Apps Express Design, which can turn images into an app with functional controls &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/220524/p18#a220524p18)
+ - [The ‘800 pound gorilla’ in the Gulf of Mexico that could supercharge hurricanes this season](https://www.theverge.com/2022/5/24/23139430/loop-current-gulf-of-mexico-hurricane-season-forecast)
+ - [Niantic moves beyond games with Lightship AR platform and a social network](https://www.theverge.com/2022/5/24/23138313/niantic-lightship-augmented-reality-ar-platform-social-network-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
