@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Unsullied Hearts in V Rising](https://www.pcgamer.com/v-rising-unsullied-hearts)
- - [They flew a freaking Kerbal to the International Space Station](https://www.pcgamer.com/they-flew-a-freaking-kerbal-to-the-international-space-station)
- - [How to mine iron ore in V Rising](https://www.pcgamer.com/how-to-get-v-rising-iron-ore)<!-- GAME:END -->
+ - [Chris Evans and Ryan Gosling lead the first trailer for the Russo Brothers’ The Gray Man](https://www.polygon.com/23138091/the-gray-man-trailer-netflix-russo-brothers-chris-evans-ryan-gosling)
+ - [Arcs is a 4X board game from the team behind critically acclaimed Root and Oath](https://www.polygon.com/23124230/arcs-collapse-and-conflict-in-the-void-cole-wehrle-leder-games-kickstarter-release-date-price)
+ - [SteelSeries Arctis Nova Pro review](https://www.pcgamer.com/steelseries-arctis-nova-pro-wireless-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
