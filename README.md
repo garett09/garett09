@@ -181,9 +181,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hunter x Hunter manga may finally be back](https://www.polygon.com/23139449/hunter-x-hunter-manga-yoshihiro-togashi-twitter-update)
- - [Metal Gear Rising: Revengeance Is Blowing TF Up](https://kotaku.com/metal-gear-solid-rising-revengeance-raiden-platinum-koj-1848965828)
- - [League of Legends’ new champion is a secret monster with infinite attack speed](https://www.polygon.com/23042792/league-of-legends-new-champion-belveth-ability-kit-ultimate-passive-lol)<!-- GAME:END -->
+ - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
+ - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
+ - [Destiny 2 Takes Players Back To The Leviathan Raid In Season Of The Haunted](https://kotaku.com/destiny-2-witch-queen-season-17-haunted-raid-dungeon-ex-1848968413)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
