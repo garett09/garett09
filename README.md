@@ -195,9 +195,9 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relatable](http://9gag.com/gag/avADEnn)
- - 🚯 [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)
- - 🚯 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)<!-- MEMES:END -->
+ - 🚖 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)
+ - 🚯 [Christian Bale as Gorr the god butcher for Thor: Love and Thunder](http://9gag.com/gag/aqGd6Gj)
+ - 🚯 [Pick up today 50kg of garbage. Total is 821kg. You ask me where all this garbage goes after my cleaning. City service pick it up in special place and than it goes to Garbage Factory. Your Cleaning Guy Petr Tyurin.](http://9gag.com/gag/avADEDn)<!-- MEMES:END -->
 
 --- 
 
