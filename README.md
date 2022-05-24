@@ -196,8 +196,8 @@ Windows                  13 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Relatable](http://9gag.com/gag/avADEnn)
- - 🚯 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)
- - 🚯 [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)<!-- MEMES:END -->
+ - 🚯 [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)
+ - 🚯 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)<!-- MEMES:END -->
 
 --- 
 
