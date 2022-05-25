@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Polygon’s new comment system!](https://www.polygon.com/2022/5/25/23141286/polygon-new-comment-system-faq-coral)
- - [Some Of The PS5’s Biggest Games Are On Sale ATM](https://kotaku.com/playstation-days-of-play-sale-ps4-ps5-ghostwire-deathlo-1848975561)
- - [Replaced delayed to 2023, Belarus-based dev cites war in Ukraine](https://www.polygon.com/23141310/replaced-game-delay-2023-ukraine-war)<!-- GAME:END -->
+ - [Crab Soulslike Dev Explains Nintendo World Showcase ‘Selling Out’ Joke](https://kotaku.com/nintendo-switch-elden-ring-indie-selling-out-soulslike-1848976140)
+ - [The Sims’ iconic Goth family gets a makeover](https://www.polygon.com/23141406/the-sims-4-goth-family-bella-mortimer-cassandra-makeover)
+ - [How to set up a V Rising dedicated server](https://www.pcgamer.com/v-rising-dedicated-server-settings-setup-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
