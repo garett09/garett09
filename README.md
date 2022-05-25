@@ -198,8 +198,8 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn that stings](http://9gag.com/gag/a11xO9P)
- - 🚯 [SuperNature...](http://9gag.com/gag/a81nKPV)
+ - 🚖 [The darker the better](http://9gag.com/gag/a21xG01)
+ - 🚯 [Damn that stings](http://9gag.com/gag/a11xO9P)
  - 🚯 [Hehe](http://9gag.com/gag/aAGmv4Z)<!-- MEMES:END -->
 
 --- 
