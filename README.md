@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite 5 is rooted in the past](https://www.polygon.com/reviews/23140180/sniper-elite-5-review-release-date-platforms)
- - [Vampire survival game V Rising sells a million and adds offline mode](https://www.pcgamer.com/vampire-survival-game-v-rising-sells-a-million-and-adds-offline-mode)
- - [Today&#39;s Wordle answer #340: Wednesday, May 25](https://www.pcgamer.com/wordle-may-25-340-vouch-meaning)<!-- GAME:END -->
+ - [How to find and use Opulent Keys in Destiny 2](https://www.pcgamer.com/destiny-2-opulent-key-chest-locations)
+ - [The best VR headset in 2022](https://www.pcgamer.com/best-vr-headset)
+ - [Don&#39;t worry, AMD is still supporting overclocking across all AM5 boards](https://www.pcgamer.com/amd-b650-overclocking-ryzen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
