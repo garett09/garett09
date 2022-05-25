@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo confirms a researcher&#39;s findings that its browser allows Microsoft trackers on third-party websites, citing a search content agreement with Microsoft &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220525/p10#a220525p10)
- - [Google has reportedly postponed the Pixel Fold again](https://www.androidauthority.com/google-pixel-fold-delay-3169131/)
- - [Hong Kong-based Babel Finance, which offers crypto asset management tools, raises an $80M Series B at a $2B valuation, bringing its total funding to $120M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220525/p9#a220525p9)<!-- TECH:END -->
+ - [Apple&#39;s Beats &amp; Daily Paper collaborate for special edition Studio Buds](https://appleinsider.com/articles/22/05/25/apples-beats-daily-paper-collaborate-for-special-edition-studio-buds?utm_medium=rss)
+ - [Daily Deals May 25: 76% off Magic Leap AR headset, $24 256GB SD card, 10% off M1 MacBook Air, more](https://appleinsider.com/articles/22/05/25/daily-deals-may-25-76-off-magic-leap-ar-headset-24-256gb-sd-card-10-off-m1-macbook-air-more?utm_medium=rss)
+ - [Why the company behind Pokémon Go is getting crypto-curious](https://www.theverge.com/2022/5/25/23140932/niantic-crypto-web3-nft-spotx-john-hanke)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
