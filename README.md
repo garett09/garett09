@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well worth it.](http://9gag.com/gag/amgdRdv)
- - 🚯 [As an American I tip even when I go abroad. It makes the servers smile](http://9gag.com/gag/aggdj3w)
- - 🚯 [The darker the better](http://9gag.com/gag/a21xG01)<!-- MEMES:END -->
+ - 🚖 [I miss them](http://9gag.com/gag/a61xxQ8)
+ - 🚯 [Aye, how\u2019s your future looking now](http://9gag.com/gag/aAGmZYp)
+ - 🚯 [We are a family](http://9gag.com/gag/aZrddM0)<!-- MEMES:END -->
 
 --- 
 
