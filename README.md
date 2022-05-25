@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Chaos Gate – Daemonhunters update gives wounded Grey Knights more grit](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-update-gives-wounded-grey-knights-more-grit)
- - [Battlefield 2042&#39;s take on Hunt: Showdown is &#39;winding down&#39;](https://www.pcgamer.com/battlefield-2042s-take-on-hunt-showdown-is-winding-down)
- - [Activision Blizzard Devs Demand Breastfeeding Protections And Other Reforms](https://kotaku.com/call-duty-activision-blizzard-sexual-harassment-breast-1848972428)<!-- GAME:END -->
+ - [You can customize your Sims&#39; pronouns now](https://www.pcgamer.com/you-can-customize-your-sims-pronouns-now)
+ - [V Rising&#39;s Huge Success On Steam Has Even Taken Its Developers By Surprise](https://kotaku.com/v-rising-stunlock-studios-pc-steam-concurrent-players-v-1848973124)
+ - [Major Battlefield 2042 Update Leaves Remaining Fans Dismayed](https://kotaku.com/battlefield-2042-dice-ea-electronic-arts-update-season-1848973007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
