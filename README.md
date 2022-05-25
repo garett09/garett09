@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music now suggests your favorite speaker for playback](https://www.theverge.com/2022/5/25/23140986/youtube-music-suggested-google-chromecast-cast)
- - [After actor and producer Seth Green lost his BAYC NFTs to a phishing scam, his show based on those NFTs is in doubt; OpenSea says it has frozen the NFTs &lpar;Sarah Emerson/BuzzFeed News&rpar;](http://www.techmeme.com/220525/p5#a220525p5)
- - [UK payments startup Paddle acquires ProfitWell, which makes financial analytics tools, for $200M in cash and equity; Paddle raised $200M earlier in May &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220525/p4#a220525p4)<!-- TECH:END -->
+ - [AirTag stalking incidents prompts Oklahoma State University police to warn students &amp; faculty](https://appleinsider.com/articles/22/05/25/oklahoma-state-airtag-stalking-incidents-prompts-university-police-to-warn-students-faculty?utm_medium=rss)
+ - [Researchers Made Ultracold Quantum Bubbles on the Space Station](https://www.wired.com/story/researchers-made-ultracold-quantum-bubbles-on-the-space-station)
+ - [Our Favorite Mattresses Are on Sale for Memorial Day](https://www.wired.com/story/memorial-day-mattress-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
