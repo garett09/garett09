@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moses](http://9gag.com/gag/aVxdBAd)
- - 🚯 [My Ultimate Respects Steve Kerr](http://9gag.com/gag/amgdndy)
- - 🚯 [Iroh teaches](http://9gag.com/gag/aGzoNy5)<!-- MEMES:END -->
+ - 🚖 [Idgaf that you\u2019re a lion. Get the f**k home now](http://9gag.com/gag/a81nX26)
+ - 🚯 [Sorry Minnie wins](http://9gag.com/gag/aggdjW1)
+ - 🚯 [Netflix is just an opportunistic business](http://9gag.com/gag/a91VVr6)<!-- MEMES:END -->
 
 --- 
 
