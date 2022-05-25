@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkish grocery delivery startup Getir will lay off 14% of its staff globally, an estimated 4,480 people, and plans to scale back some operations and promotions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220525/p17#a220525p17)
- - [Apple&#39;s MacBook Pro 16-inch is back in stock for $2,299 &lpar;$200 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/22/05/25/apples-macbook-pro-16-inch-is-back-in-stock-for-2299-200-off-plus-80-off-applecare?utm_medium=rss)
- - [Stellantis pleads guilty, will pay $300 million over allegations of emissions fraud](https://www.theverge.com/2022/5/25/23141165/stellantis-pleads-guilty-300-million-fine-emissions-fraud)<!-- TECH:END -->
+ - [Google starts rolling out ads in Shorts globally and says advertisers will be able to make their Shorts video ads shoppable later in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220525/p19#a220525p19)
+ - [Microsoft’s Code-Writing AI Points to the Future of Computers](https://www.wired.com/story/minecraft-ai-code-microsoft)
+ - [Luminar hires CJ Moore, a manager on Apple&#39;s car project who joined from Tesla in August 2021, to lead software development &lpar;Gabrielle Coppola/Bloomberg&rpar;](http://www.techmeme.com/220525/p18#a220525p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
