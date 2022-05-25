@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Docs is getting a big upgrade to formatting](https://www.theverge.com/2022/5/25/23141908/google-docs-multiple-section-selection-text-formating)
- - [Twitter will pay $150 million for using people’s security phone numbers to target ads](https://www.theverge.com/2022/5/25/23141968/ftc-doj-twitter-settlement-phone-number-security-ad-targeting)
- - [Sony fixes PlayStation Plus subscription pricing error](https://www.theverge.com/2022/5/25/23141904/sony-playstation-plus-subscription-discount-pricing-overcharge)<!-- TECH:END -->
+ - [Boeing’s Starliner spacecraft returns to Earth, wrapping up critical test mission](https://www.theverge.com/2022/5/25/23138395/boeing-cst-100-starliner-nasa-undocking-landing-oft-2)
+ - [How to find your current location on Google Maps](https://www.androidauthority.com/current-location-google-maps-3100375/)
+ - [Twitter agrees to pay $150M to the FTC, settling allegations that it misrepresented the &quot;security and privacy&quot; of user data between May 2013 and September 2019 &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/220525/p30#a220525p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
