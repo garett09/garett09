@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idgaf that you\u2019re a lion. Get the f**k home now](http://9gag.com/gag/a81nX26)
- - 🚯 [Sorry Minnie wins](http://9gag.com/gag/aggdjW1)
- - 🚯 [Netflix is just an opportunistic business](http://9gag.com/gag/a91VVr6)<!-- MEMES:END -->
+ - 🚖 [VeinViewer projects near-infrared light which is absorbed by blood and reflected by surrounding tissue. A brilliant invention by Christie Medical](http://9gag.com/gag/aegdPLO)
+ - 🚯 [Iroh teaches](http://9gag.com/gag/aGzoNy5)
+ - 🚯 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
 
 --- 
 
