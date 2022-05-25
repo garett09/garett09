@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So, I&#39;ve been browsing 9gag for 10 years now. I finally opened my own business,thanks to you guys, a flower shop.And I would like to give my fellow 9gaggers free flowers. I&#39;m sorry it&#39;s not kebab, but you can visit my shop in Amman jordan anytime.](http://9gag.com/gag/a11xL4v)
- - 🚯 [When Hip Hop was good](http://9gag.com/gag/axBAPMY)
- - 🚯 [Justice for Depp](http://9gag.com/gag/amgdV7y)<!-- MEMES:END -->
+ - 🚖 [What was your favourite phone before smartphones? Here&#39;s mine](http://9gag.com/gag/a71Gprx)
+ - 🚯 [Justice for Depp](http://9gag.com/gag/amgdV7y)
+ - 🚯 [Ricky gervais isnt the comedian we deserve, but he&#39;s the one we need.](http://9gag.com/gag/aYrdA4x)<!-- MEMES:END -->
 
 --- 
 
