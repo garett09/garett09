@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What was your favourite phone before smartphones? Here&#39;s mine](http://9gag.com/gag/a71Gprx)
- - 🚯 [Justice for Depp](http://9gag.com/gag/amgdV7y)
- - 🚯 [Ricky gervais isnt the comedian we deserve, but he&#39;s the one we need.](http://9gag.com/gag/aYrdA4x)<!-- MEMES:END -->
+ - 🚖 [Ricky gervais isnt the comedian we deserve, but he&#39;s the one we need.](http://9gag.com/gag/aYrdA4x)
+ - 🚯 [UK Police arresting a taxi driver for driving a car similar to a criminal](http://9gag.com/gag/aAGmXMR)
+ - 🚯 [This guy has been traveling in a car with his dog since 2017, they left Brazil planing to reach alaska, today both died in a car accident. Rest in peace both of them.](http://9gag.com/gag/aVxd252)<!-- MEMES:END -->
 
 --- 
 
