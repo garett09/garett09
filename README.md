@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag stalking incidents prompts Oklahoma State University police to warn students &amp; faculty](https://appleinsider.com/articles/22/05/25/oklahoma-state-airtag-stalking-incidents-prompts-university-police-to-warn-students-faculty?utm_medium=rss)
- - [Researchers Made Ultracold Quantum Bubbles on the Space Station](https://www.wired.com/story/researchers-made-ultracold-quantum-bubbles-on-the-space-station)
- - [Our Favorite Mattresses Are on Sale for Memorial Day](https://www.wired.com/story/memorial-day-mattress-deals-2022)<!-- TECH:END -->
+ - [DuckDuckGo confirms a researcher&#39;s findings that its browser allows Microsoft trackers on third-party websites, citing a search content agreement with Microsoft &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220525/p10#a220525p10)
+ - [Google has reportedly postponed the Pixel Fold again](https://www.androidauthority.com/google-pixel-fold-delay-3169131/)
+ - [Hong Kong-based Babel Finance, which offers crypto asset management tools, raises an $80M Series B at a $2B valuation, bringing its total funding to $120M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220525/p9#a220525p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
