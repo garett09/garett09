@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The darker the better](http://9gag.com/gag/a21xG01)
- - 🚯 [Damn that stings](http://9gag.com/gag/a11xO9P)
- - 🚯 [Hehe](http://9gag.com/gag/aAGmv4Z)<!-- MEMES:END -->
+ - 🚖 [Damage my laptop is my hobby](http://9gag.com/gag/apgdVXp)
+ - 🚯 [As an American I tip even when I go abroad. It makes the servers smile](http://9gag.com/gag/aggdj3w)
+ - 🚯 [Well worth it.](http://9gag.com/gag/amgdRdv)<!-- MEMES:END -->
 
 --- 
 
