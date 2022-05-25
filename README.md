@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ever had these type of naps?](http://9gag.com/gag/amgdRdV)
- - 🚯 [The appropriate reaction](http://9gag.com/gag/aAGmvXo)
- - 🚯 [As an American I tip even when I go abroad. It makes the servers smile](http://9gag.com/gag/aggdj3w)<!-- MEMES:END -->
+ - 🚖 [Damn that stings](http://9gag.com/gag/a11xO9P)
+ - 🚯 [SuperNature...](http://9gag.com/gag/a81nKPV)
+ - 🚯 [Hehe](http://9gag.com/gag/aAGmv4Z)<!-- MEMES:END -->
 
 --- 
 
