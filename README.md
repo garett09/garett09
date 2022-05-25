@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chip ’n Dale: Rescue Rangers almost had a very different villain](https://www.polygon.com/23138745/chip-n-dale-rescue-rangers-villain)
- - [How to get coarse thread in V Rising](https://www.pcgamer.com/how-to-get-v-rising-coarse-thread)
- - [Gran Turismo World Series gets underway with Gran Turismo 7](https://blog.playstation.com/2022/05/25/gran-turismo-world-series-gets-underway-with-gran-turismo-7/)<!-- GAME:END -->
+ - [DXRacer AIR Mesh chair](https://www.pcgamer.com/dxracer-air-mesh-gaming-chair-review)
+ - [The Marvel MMO project at Daybreak Games has been cancelled](https://www.pcgamer.com/the-marvel-mmo-project-at-daybreak-games-has-been-cancelled)
+ - [I&#39;m begging space sims to stop turning themselves into shooters](https://www.pcgamer.com/im-begging-space-sims-to-stop-turning-themselves-into-shooters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
