@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Belarusian Devs Delay Cyberpunk Game Due To Ongoing War In Ukraine](https://kotaku.com/replaced-delay-xbox-pc-ukraine-sad-cat-release-date-202-1848976622)
- - [Fan-made Gloomhaven expansion raises more than $300,000](https://www.polygon.com/23140145/gloomhaven-fan-made-expansion-the-crimson-scales-interview-pre-order-price)
- - [Blaseball: The Card Game crowdfund goes live with great player art](https://www.polygon.com/23141392/blaseball-the-card-game-gamefound-crowdfunding-campaign)<!-- GAME:END -->
+ - [PlayStation’s Days of Play sale: 21 great games to pick up and PS5 DualSense deals](https://www.polygon.com/deals/2022/5/25/23141585/sony-playstation-days-of-play-sale-ps4-ps5-dualsense-controller-deals)
+ - [Minecraft Dungeons’ Second Anniversary Event Is Here](https://news.xbox.com/en-us/2022/05/25/minecraft-dungeons-second-anniversary-event-is-here/)
+ - [Vampire: The Masquerade - Bloodhunt ranked mode paused because PS5 owners keep getting wrecked](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-ranked-mode-paused-because-ps5-owners-keep-getting-wrecked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
