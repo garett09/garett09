@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DXRacer AIR Mesh chair](https://www.pcgamer.com/dxracer-air-mesh-gaming-chair-review)
- - [The Marvel MMO project at Daybreak Games has been cancelled](https://www.pcgamer.com/the-marvel-mmo-project-at-daybreak-games-has-been-cancelled)
- - [I&#39;m begging space sims to stop turning themselves into shooters](https://www.pcgamer.com/im-begging-space-sims-to-stop-turning-themselves-into-shooters)<!-- GAME:END -->
+ - [Welcome to Polygon’s new comment system!](https://www.polygon.com/2022/5/25/23141286/polygon-new-comment-system-faq-coral)
+ - [Some Of The PS5’s Biggest Games Are On Sale ATM](https://kotaku.com/playstation-days-of-play-sale-ps4-ps5-ghostwire-deathlo-1848975561)
+ - [Replaced delayed to 2023, Belarus-based dev cites war in Ukraine](https://www.polygon.com/23141310/replaced-game-delay-2023-ukraine-war)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
