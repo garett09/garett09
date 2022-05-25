@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers discover that a popular Python library &quot;ctx&quot; and PHP package &quot;phpass&quot; have been compromised to steal developers&#39; AWS keys and credentials &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/220525/p3#a220525p3)
- - [Dyson eyes robots that can do your household chores](https://www.theverge.com/2022/5/25/23140950/dyson-robotics-investment-hiring-household-chores)
- - [Google Photos now getting Real Tone filters for more diverse skin tones](https://www.androidauthority.com/google-photo-real-tone-filters-3168956/)<!-- TECH:END -->
+ - [YouTube Music now suggests your favorite speaker for playback](https://www.theverge.com/2022/5/25/23140986/youtube-music-suggested-google-chromecast-cast)
+ - [After actor and producer Seth Green lost his BAYC NFTs to a phishing scam, his show based on those NFTs is in doubt; OpenSea says it has frozen the NFTs &lpar;Sarah Emerson/BuzzFeed News&rpar;](http://www.techmeme.com/220525/p5#a220525p5)
+ - [UK payments startup Paddle acquires ProfitWell, which makes financial analytics tools, for $200M in cash and equity; Paddle raised $200M earlier in May &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220525/p4#a220525p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
