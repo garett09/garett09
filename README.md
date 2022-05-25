@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New No Man&#39;s Sky expedition adds a time loop, &#39;space whales&#39;](https://www.pcgamer.com/new-no-mans-sky-expedition-adds-a-time-loop-space-whales)
- - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)
- - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)<!-- GAME:END -->
+ - [Chip ’n Dale: Rescue Rangers almost had a very different villain](https://www.polygon.com/23138745/chip-n-dale-rescue-rangers-villain)
+ - [How to get coarse thread in V Rising](https://www.pcgamer.com/how-to-get-v-rising-coarse-thread)
+ - [Gran Turismo World Series gets underway with Gran Turismo 7](https://blog.playstation.com/2022/05/25/gran-turismo-world-series-gets-underway-with-gran-turismo-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
