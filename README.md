@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can customize your Sims&#39; pronouns now](https://www.pcgamer.com/you-can-customize-your-sims-pronouns-now)
- - [V Rising&#39;s Huge Success On Steam Has Even Taken Its Developers By Surprise](https://kotaku.com/v-rising-stunlock-studios-pc-steam-concurrent-players-v-1848973124)
- - [Major Battlefield 2042 Update Leaves Remaining Fans Dismayed](https://kotaku.com/battlefield-2042-dice-ea-electronic-arts-update-season-1848973007)<!-- GAME:END -->
+ - [Sniper Elite 5 is rooted in the past](https://www.polygon.com/reviews/23140180/sniper-elite-5-review-release-date-platforms)
+ - [Vampire survival game V Rising sells a million and adds offline mode](https://www.pcgamer.com/vampire-survival-game-v-rising-sells-a-million-and-adds-offline-mode)
+ - [Today&#39;s Wordle answer #340: Wednesday, May 25](https://www.pcgamer.com/wordle-may-25-340-vouch-meaning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
