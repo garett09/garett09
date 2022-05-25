@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator’s free Top Gun content is finally here](https://www.polygon.com/23141927/microsoft-flight-simulator-top-gun-maverick-dlc-expansion-free)
- - [Stalker-like online FPS Survarium is closing next week after 7 years in early access](https://www.pcgamer.com/stalker-like-online-fps-survarium-is-closing-next-week-after-7-years-in-early-access)
- - [Glass-Cannon Elden Ring Player Bonks Every Main Boss With A Single Hit](https://kotaku.com/elden-ring-bushygames-one-hit-kill-radahn-margit-speedr-1848977810)<!-- GAME:END -->
+ - [I regret to inform you Ni No Kuni&#39;s cute new MMO has blockchain crap up its sleeve](https://www.pcgamer.com/i-regret-to-inform-you-ni-no-kunis-cute-new-mmo-has-blockchain-crap-up-its-sleeve)
+ - [Latest Sims 4 Update Adds Custom Pronouns For All](https://kotaku.com/sims-4-custom-pronouns-new-update-ea-maxis-1-59-1848978252)
+ - [What will be the biggest surprises from &#39;E3&#39; 2022?](https://www.pcgamer.com/e3-2022-predictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
