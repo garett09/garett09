@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
- - [Report: workers delivering Amazon’s packages are injured at a ‘shocking rate’](https://www.theverge.com/2022/5/25/23141533/amazon-package-delivery-injuries-dsp-contractors-rates-2021)
- - [Google’s folding phone has reportedly been delayed again](https://www.theverge.com/2022/5/25/23141683/folding-google-pixel-phone-reportedly-delayed-2023)<!-- TECH:END -->
+ - [Google Docs is getting a big upgrade to formatting](https://www.theverge.com/2022/5/25/23141908/google-docs-multiple-section-selection-text-formating)
+ - [Twitter will pay $150 million for using people’s security phone numbers to target ads](https://www.theverge.com/2022/5/25/23141968/ftc-doj-twitter-settlement-phone-number-security-ad-targeting)
+ - [Sony fixes PlayStation Plus subscription pricing error](https://www.theverge.com/2022/5/25/23141904/sony-playstation-plus-subscription-discount-pricing-overcharge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
