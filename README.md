@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG turned its 48-inch OLED TV into a huge 4K gaming monitor](https://www.theverge.com/2022/5/25/23141765/lg-48gq900-oled-tv-gaming-monitor-pc)
- - [Big Tech is pouring millions into the wrong climate solution at Davos](https://www.theverge.com/2022/5/25/23141166/big-tech-funding-wrong-climate-change-solution-davos-carbon-removal)
- - [Another live-action Speed Racer is coming to Apple TV Plus with J.J. Abrams behind the wheel](https://www.theverge.com/2022/5/25/23141735/jj-abrams-speed-racer-series-apple-tv-plus)<!-- TECH:END -->
+ - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
+ - [Report: workers delivering Amazon’s packages are injured at a ‘shocking rate’](https://www.theverge.com/2022/5/25/23141533/amazon-package-delivery-injuries-dsp-contractors-rates-2021)
+ - [Google’s folding phone has reportedly been delayed again](https://www.theverge.com/2022/5/25/23141683/folding-google-pixel-phone-reportedly-delayed-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
