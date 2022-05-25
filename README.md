@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Days of Play sale: 21 great games to pick up and PS5 DualSense deals](https://www.polygon.com/deals/2022/5/25/23141585/sony-playstation-days-of-play-sale-ps4-ps5-dualsense-controller-deals)
- - [Minecraft Dungeons’ Second Anniversary Event Is Here](https://news.xbox.com/en-us/2022/05/25/minecraft-dungeons-second-anniversary-event-is-here/)
- - [Vampire: The Masquerade - Bloodhunt ranked mode paused because PS5 owners keep getting wrecked](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-ranked-mode-paused-because-ps5-owners-keep-getting-wrecked)<!-- GAME:END -->
+ - [Yoshitaka Amano Makes Batman Look Like Final Fantasy And I’m Here For It](https://kotaku.com/batman-yoshitaka-amano-dc-comics-final-fantasy-variant-1848977241)
+ - [Elon Musk’s Dumb Elden Ring Build Proves The Billionaire Is Maidenless](https://kotaku.com/elon-musk-elden-ring-mage-worst-magic-build-twitter-bil-1848912000)
+ - [Make Star Wars cheap again](https://www.polygon.com/star-wars/23140071/star-wars-movies-budget-the-mandalorian)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
