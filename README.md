@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss them](http://9gag.com/gag/a61xxQ8)
- - 🚯 [Aye, how\u2019s your future looking now](http://9gag.com/gag/aAGmZYp)
- - 🚯 [We are a family](http://9gag.com/gag/aZrddM0)<!-- MEMES:END -->
+ - 🚖 [Leave](http://9gag.com/gag/amgdnN2)
+ - 🚯 [We are a family](http://9gag.com/gag/aZrddM0)
+ - 🚯 [I miss them](http://9gag.com/gag/a61xxQ8)<!-- MEMES:END -->
 
 --- 
 
