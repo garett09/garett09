@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard Devs Demand Breastfeeding Protections And Other Reforms](https://kotaku.com/call-duty-activision-blizzard-sexual-harassment-breast-1848972428)
- - [Dream Daddy developers are making a psychological horror game called Homebody](https://www.polygon.com/23138365/rogue-games-game-grumps-homebody-announcement-horror)
- - [Twitch may finally start telling people why they&#39;ve been banned](https://www.pcgamer.com/twitch-may-finally-start-telling-people-why-theyve-been-banned)<!-- GAME:END -->
+ - [Warhammer 40,000: Chaos Gate – Daemonhunters update gives wounded Grey Knights more grit](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-update-gives-wounded-grey-knights-more-grit)
+ - [Battlefield 2042&#39;s take on Hunt: Showdown is &#39;winding down&#39;](https://www.pcgamer.com/battlefield-2042s-take-on-hunt-showdown-is-winding-down)
+ - [Activision Blizzard Devs Demand Breastfeeding Protections And Other Reforms](https://kotaku.com/call-duty-activision-blizzard-sexual-harassment-breast-1848972428)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
