@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S23, S24 to ditch Exynos chips, claims wild report &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-s24-exynos-2025-3168339/)
  - [A researcher says Australia&#39;s New South Wales digital driver&#39;s license is easy to forge due to deficient encryption, data validation flaws, and other issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220525/p1#a220525p1)
- - [This guy received a 36 kg DIY repair kit from Apple to fix his iPhone Mini](https://www.androidauthority.com/apple-self-repair-toolkit-3168919/)
- - [Indian startups are resorting to layoffs, a hiring freeze, shutting down non-core verticals, and rationalizing ad spends as a two-year funding spree slows down &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220524/p30#a220524p30)<!-- TECH:END -->
+ - [This guy received a 36 kg DIY repair kit from Apple to fix his iPhone Mini](https://www.androidauthority.com/apple-self-repair-toolkit-3168919/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
