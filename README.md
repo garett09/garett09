@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts rolling out ads in Shorts globally and says advertisers will be able to make their Shorts video ads shoppable later in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220525/p19#a220525p19)
- - [Microsoft’s Code-Writing AI Points to the Future of Computers](https://www.wired.com/story/minecraft-ai-code-microsoft)
- - [Luminar hires CJ Moore, a manager on Apple&#39;s car project who joined from Tesla in August 2021, to lead software development &lpar;Gabrielle Coppola/Bloomberg&rpar;](http://www.techmeme.com/220525/p18#a220525p18)<!-- TECH:END -->
+ - [Visible launches free $300 gift card promo and Apple iPhones are included](https://appleinsider.com/articles/22/05/25/visible-launches-free-300-gift-card-promo-and-apple-iphones-are-included?utm_medium=rss)
+ - [Apple Car project loses another executive six months after hire](https://appleinsider.com/articles/22/05/25/apple-car-project-loses-another-executive-six-months-after-hire?utm_medium=rss)
+ - [Apple’s secretive car project loses yet another top executive](https://www.theverge.com/2022/5/25/23141370/apple-cj-moore-leave-luminar-car-project-titan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
