@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoshitaka Amano Makes Batman Look Like Final Fantasy And I’m Here For It](https://kotaku.com/batman-yoshitaka-amano-dc-comics-final-fantasy-variant-1848977241)
- - [Elon Musk’s Dumb Elden Ring Build Proves The Billionaire Is Maidenless](https://kotaku.com/elon-musk-elden-ring-mage-worst-magic-build-twitter-bil-1848912000)
- - [Make Star Wars cheap again](https://www.polygon.com/star-wars/23140071/star-wars-movies-budget-the-mandalorian)<!-- GAME:END -->
+ - [D&amp;D’s highly anticipated Journeys Through the Radiant Citadel delayed](https://www.polygon.com/23141789/dungeons-dragons-journeys-through-the-radiant-citadel-delay-release-date-price)
+ - [20 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [EA Tells Devs It Won&#39;t Take Stand On Abortion Rights, Encourages &#39;Healing Circles&#39;](https://kotaku.com/ea-roe-v-wade-abortion-trans-rights-fifa-apex-legends-1848977494)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
