@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon eats a shoe because of Top Gun 2](https://www.polygon.com/23143105/top-gun-2-eat-a-shoe-video)
- - [Determine the Destiny of Golden Sands Outpost in Sea of Thieves’ New Adventure Lost Sands](https://news.xbox.com/en-us/2022/05/26/determine-destiny-golden-sands-outpost-sea-of-thieves-new-adventure/)
- - [Enjoyable Disaster Morbius Finds Thousands Of New Fans On Twitch, And I&#39;m One Of Them](https://kotaku.com/twitch-morbius-marvel-jared-leto-livestream-sony-vampir-1848981765)<!-- GAME:END -->
+ - [Read the opening pages of Dragons of Deceit, the first new Dragonlance novel in more than a decade](https://www.polygon.com/23137990/dragonlance-dragons-of-deceit-book-excerpt-weis-hickman-interview)
+ - [Xbox Boss Says He Will Recognize Raven Software&#39;s Union After Acquisition Closes](https://kotaku.com/xbox-phil-spencer-raven-qa-union-activision-blizzard-1848982555)
+ - [Age of Empires III: Definitive Edition – Knights of the Mediterranean Available Today](https://news.xbox.com/en-us/2022/05/26/age-of-empires-iii-definitive-edition-knights-of-the-mediterranean-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
