@@ -199,8 +199,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Well this was damn satisfying &lpar;0:30&rpar;](http://9gag.com/gag/a71GP1b)
- - 🚯 [Dutch news today. We still have more bycicles per 100 people than guns in US per 100 people!](http://9gag.com/gag/a81nX11)
- - 🚯 [A Sprouted Coconut: This happens when a coconut over-matures. Instead of coconut water on the inside, the seed inside the shell has consumed the water causing the interior to become a edible solid, spongy mass called the &#39;apple&#39;](http://9gag.com/gag/aKmLXWN)<!-- MEMES:END -->
+ - 🚯 [Noice!](http://9gag.com/gag/aLvbORV)
+ - 🚯 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
 
 --- 
 
