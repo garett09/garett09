@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Quarry creates a cast of compelling campers to torment](https://www.polygon.com/23140373/the-quarry-horror-game-preview-cast-characters-impressions-release-date)
- - [Batman got given the Yoshitaka Amano treatment and it&#39;s gorgeous](https://www.pcgamer.com/batman-got-given-the-yoshitaka-amano-treatment-and-its-gorgeous)
- - [Counter-Strike&#39;s first Brazilian major sells out instantly, pros and fans demand venue change](https://www.pcgamer.com/counter-strikes-first-brazilian-major-sells-out-instantly-pros-and-fans-demand-venue-change)<!-- GAME:END -->
+ - [Critical Role’s newest DM changes the game](https://www.polygon.com/23139785/critical-role-exandria-unlimited-calamity-brennan-lee-mulligan-interview-dm-dimension-20)
+ - [Fortnite’s Collision end-of-season event starts next weekend](https://www.polygon.com/fortnite/23142733/fortnite-collision-end-of-season-event-starts-date-chapter-3-season-2)
+ - [Horror takes a back seat to horny teen drama in the early chapters of Supermassive&#39;s latest nightmare](https://www.pcgamer.com/horror-takes-a-backseat-to-horny-teen-drama-in-the-early-chapters-of-supermassives-latest-nightmare)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
