@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSea redesigns parts of its NFT store as sales continue to slump](https://www.theverge.com/2022/5/26/23143241/opensea-redesign-profile-collections-pages-nft)
- - [iPhone impacted by April smartphone sales downturn in China, data suggests](https://appleinsider.com/articles/22/05/26/iphone-impacted-by-april-smartphone-sales-downturn-in-china-data-suggests?utm_medium=rss)
- - [Star Wars Celebration 2022: news from Disney’s big event](https://www.theverge.com/2022/5/26/23143336/star-wars-celebration-2022-disney-lucasfilm)<!-- TECH:END -->
+ - [How to change your Xbox Gamertag](https://www.androidauthority.com/change-xbox-gamertag-3169815/)
+ - [An investigation finds Apple, Meta, Amazon, Google, and Microsoft have launched coordinated campaigns in 31 states against data privacy legislation since 2021 &lpar;The Markup&rpar;](http://www.techmeme.com/220526/p28#a220526p28)
+ - [OpenSea redesigns parts of its NFT store as sales continue to slump](https://www.theverge.com/2022/5/26/23143241/opensea-redesign-profile-collections-pages-nft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
