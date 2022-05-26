@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just taking a journey](http://9gag.com/gag/a71GXNe)
- - 🚯 [Huston we have a problem](http://9gag.com/gag/aggd9gg)
- - 🚯 [Wonder who.](http://9gag.com/gag/aegdzO5)<!-- MEMES:END -->
+ - 🚖 [Less gas, less oil imports](http://9gag.com/gag/aAGmAZR)
+ - 🚯 [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
+ - 🚯 [True or false?](http://9gag.com/gag/a31xOPm)<!-- MEMES:END -->
 
 --- 
 
