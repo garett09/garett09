@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s newest DM changes the game](https://www.polygon.com/23139785/critical-role-exandria-unlimited-calamity-brennan-lee-mulligan-interview-dm-dimension-20)
- - [Fortnite’s Collision end-of-season event starts next weekend](https://www.polygon.com/fortnite/23142733/fortnite-collision-end-of-season-event-starts-date-chapter-3-season-2)
- - [Horror takes a back seat to horny teen drama in the early chapters of Supermassive&#39;s latest nightmare](https://www.pcgamer.com/horror-takes-a-backseat-to-horny-teen-drama-in-the-early-chapters-of-supermassives-latest-nightmare)<!-- GAME:END -->
+ - [A Horizon Zero Dawn TV series is on the way from Sony and Netflix](https://www.polygon.com/23141668/horizon-zero-dawn-tv-series-netflix-sony)
+ - [Hype around the launch of its new GeForce graphics cards is going to cost Nvidia](https://www.pcgamer.com/hype-around-the-launch-of-its-new-geforce-graphics-cards-is-going-to-cost-nvidia)
+ - [DreamsCom returns starting May 26](https://blog.playstation.com/2022/05/26/dreamscom-returns-starting-may-26/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
