@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has actually created only one chipset for Zen 4, not three](https://www.pcgamer.com/amd-has-actually-created-only-one-chipset-for-zen-4-not-three)
- - [Miyazaki&#39;s favourite Elden Ring boss is Radahn](https://www.pcgamer.com/miyazakis-favourite-elden-ring-boss-is-radahn)
- - [Meta is &#39;making good progress&#39; on removing the Quest 2&#39;s mandatory Facebook login](https://www.pcgamer.com/meta-quest-2-facebook-login-removal)<!-- GAME:END -->
+ - [The Quarry creates a cast of compelling campers to torment](https://www.polygon.com/23140373/the-quarry-horror-game-preview-cast-characters-impressions-release-date)
+ - [Batman got given the Yoshitaka Amano treatment and it&#39;s gorgeous](https://www.pcgamer.com/batman-got-given-the-yoshitaka-amano-treatment-and-its-gorgeous)
+ - [Counter-Strike&#39;s first Brazilian major sells out instantly, pros and fans demand venue change](https://www.pcgamer.com/counter-strikes-first-brazilian-major-sells-out-instantly-pros-and-fans-demand-venue-change)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
