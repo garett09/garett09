@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well this was damn satisfying &lpar;0:30&rpar;](http://9gag.com/gag/a71GP1b)
- - 🚯 [Noice!](http://9gag.com/gag/aLvbORV)
- - 🚯 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
+ - 🚖 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)
+ - 🚯 [Nice design](http://9gag.com/gag/aDDPqPO)
+ - 🚯 [How to remove Porsche headlights](http://9gag.com/gag/aGzo6bz)<!-- MEMES:END -->
 
 --- 
 
