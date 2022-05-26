@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some hotels are looking to guarantee bookings revenue by partnering with startups like Pinktada that convert stays into NFTs to be bought and sold by guests &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/220526/p3#a220526p3)
- - [Lenovo Q4 profit beats estimates, at $412M, up 58% YoY, on revenue of $16.7B, up 6.8% YoY; Counterpoint: Lenovo led global PC market in Q1 with 23% marketshare &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220526/p2#a220526p2)
- - [Samsung took its 200MP mobile camera out for a spin and printed a gigantic photo](https://www.androidauthority.com/samsung-200mp-sensor-photo-3169462/)<!-- TECH:END -->
+ - [Does the Xiaomi Mi Band 7 have GPS?](https://www.androidauthority.com/xiaomi-mi-band-7-gps-3168958/)
+ - [Sony says it plans to ramp up PlayStation 5 production and signals a radical broadening of its game portfolio, including more titles on PC and mobile &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220526/p5#a220526p5)
+ - [Sources: Apple plans to keep iPhone production at ~220M, about the same as last year, compared to ~240M market forecasts, amid inflation and a tough market &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220526/p4#a220526p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
