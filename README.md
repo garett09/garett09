@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)
- - 🚯 [Nice design](http://9gag.com/gag/aDDPqPO)
- - 🚯 [How to remove Porsche headlights](http://9gag.com/gag/aGzo6bz)<!-- MEMES:END -->
+ - 🚖 [Preserved Edo period neighborhood in Japan](http://9gag.com/gag/a31xzze)
+ - 🚯 [#Bruno, this angel sacrificed his life protecting his owners from a robbery in Ecuador. Type of news that make real men cry.](http://9gag.com/gag/ajgd3eq)
+ - 🚯 [Mexican Mario is the best](http://9gag.com/gag/aqGdBnv)<!-- MEMES:END -->
 
 --- 
 
