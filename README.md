@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)
- - 🚯 [Legend](http://9gag.com/gag/avADweE)
- - 🚯 [Be cool](http://9gag.com/gag/aVxd5Pd)<!-- MEMES:END -->
+ - 🚖 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)
+ - 🚯 [Be the change, right?](http://9gag.com/gag/a0ZxqWZ)
+ - 🚯 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)<!-- MEMES:END -->
 
 --- 
 
