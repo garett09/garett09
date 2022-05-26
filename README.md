@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro you so ugly you got job application after walking out from haunted house](http://9gag.com/gag/a91V49L)
- - 🚯 [A Sprouted Coconut: This happens when a coconut over-matures. Instead of coconut water on the inside, the seed inside the shell has consumed the water causing the interior to become a edible solid, spongy mass called the &#39;apple&#39;](http://9gag.com/gag/aKmLXWN)
- - 🚯 [They&#39;re all Catfish&#39;s Look](http://9gag.com/gag/a31xzZr)<!-- MEMES:END -->
+ - 🚖 [They&#39;re all Catfish&#39;s Look](http://9gag.com/gag/a31xzZr)
+ - 🚯 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)
+ - 🚯 [Really](http://9gag.com/gag/a91Veqm)<!-- MEMES:END -->
 
 --- 
 
