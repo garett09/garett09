@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s CMA opens an investigation into whether Google illegally favored its own ad tech exchange services and excluded rivals &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/220526/p11#a220526p11)
- - [‘How Are They Weapons? That’s Only a Flashlight!’](https://www.wired.com/story/hong-kong-protests-things-they-carried)
- - [Q&amp;A with Epic CEO Tim Sweeney on creating the metaverse, growing the Unreal Engine, Apple and Google&#39;s app store policies, Meta&#39;s metaverse plans, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220526/p10#a220526p10)<!-- TECH:END -->
+ - [Apple TV+ may get new NFL Plus service together with Sunday Ticket](https://appleinsider.com/articles/22/05/26/apple-tv-may-get-new-nfl-plus-service-together-with-sunday-ticket?utm_medium=rss)
+ - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)
+ - [25 Best Memorial Day Sales on Grills, Camping, and Outdoor Gear](https://www.wired.com/story/memorial-day-outdoor-sales-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
