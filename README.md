@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ may get new NFL Plus service together with Sunday Ticket](https://appleinsider.com/articles/22/05/26/apple-tv-may-get-new-nfl-plus-service-together-with-sunday-ticket?utm_medium=rss)
- - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)
- - [25 Best Memorial Day Sales on Grills, Camping, and Outdoor Gear](https://www.wired.com/story/memorial-day-outdoor-sales-2022)<!-- TECH:END -->
+ - [A profile of Stripe&#39;s John and Patrick Collison; sources say the startup&#39;s gross revenue rose 60% YoY to nearly $12B in 2021 as net revenue reached almost $2.5B &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220526/p16#a220526p16)
+ - [Alibaba beats estimates as Q4 revenue rose 9% YoY to ~$30.3B, the second straight quarter of single-digit growth, and its net loss reached ~$2.4B &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220526/p15#a220526p15)
+ - [The Best Weighted Blankets for Calm and Comfort](https://www.wired.com/gallery/best-weighted-blankets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
