@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)
- - 🚯 [First time in my life I feel like I have my shit together. And I did it on my own](http://9gag.com/gag/a81nvYV)
- - 🚯 [I don&#39;t know wether to feel uncomfortable or terrified](http://9gag.com/gag/amgdyvX)<!-- MEMES:END -->
+ - 🚖 [Bro you so ugly you got job application after walking out from haunted house](http://9gag.com/gag/a91V49L)
+ - 🚯 [A Sprouted Coconut: This happens when a coconut over-matures. Instead of coconut water on the inside, the seed inside the shell has consumed the water causing the interior to become a edible solid, spongy mass called the &#39;apple&#39;](http://9gag.com/gag/aKmLXWN)
+ - 🚯 [They&#39;re all Catfish&#39;s Look](http://9gag.com/gag/a31xzZr)<!-- MEMES:END -->
 
 --- 
 
