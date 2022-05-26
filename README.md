@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on HBO Max, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [How to use Apple Pay](https://www.theverge.com/23141574/apple-pay-iphone-ipad-mac-apple-watch-how-to)
- - [Broadcom announces plan to buy VMWare in $61B deal](https://appleinsider.com/articles/22/05/26/broadcom-announces-plan-to-buy-vmware-in-61b-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Scientists grow cells on a robot skeleton &lpar;but don’t know what to do with them yet&rpar;](https://www.theverge.com/2022/5/26/23142769/tissue-engineering-growing-cells-mobile-robot-skeleton)
+ - [GoDice review: Make game night more fun with these Bluetooth-enabled dice](https://appleinsider.com/articles/22/05/26/godice-review-make-game-night-more-fun-with-these-bluetooth-enabled-dice?utm_medium=rss)
+ - [Apple’s digital state ID cards are now available for Maryland residents](https://www.theverge.com/2022/5/26/23142427/apple-wallet-digital-state-id-cards-maryland)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
