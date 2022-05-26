@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Objection, Emotional Demage!!](http://9gag.com/gag/aDDPLnB)
- - 🚯 [Nice trick](http://9gag.com/gag/abgdL5L)
- - 🚯 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)<!-- MEMES:END -->
+ - 🚖 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)
+ - 🚯 [Burned](http://9gag.com/gag/apgdXxn)
+ - 🚯 [Putler met with wounded `soldiers`. Damn, he even need actors to play soldiers](http://9gag.com/gag/aqGdO3P)<!-- MEMES:END -->
 
 --- 
 
