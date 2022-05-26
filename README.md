@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Less gas, less oil imports](http://9gag.com/gag/aAGmAZR)
- - 🚯 [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
- - 🚯 [True or false?](http://9gag.com/gag/a31xOPm)<!-- MEMES:END -->
+ - 🚖 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)
+ - 🚯 [Legend](http://9gag.com/gag/avADweE)
+ - 🚯 [Be cool](http://9gag.com/gag/aVxd5Pd)<!-- MEMES:END -->
 
 --- 
 
