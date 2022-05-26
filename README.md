@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Stripe&#39;s John and Patrick Collison; sources say the startup&#39;s gross revenue rose 60% YoY to nearly $12B in 2021 as net revenue reached almost $2.5B &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220526/p16#a220526p16)
- - [Alibaba beats estimates as Q4 revenue rose 9% YoY to ~$30.3B, the second straight quarter of single-digit growth, and its net loss reached ~$2.4B &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220526/p15#a220526p15)
- - [The Best Weighted Blankets for Calm and Comfort](https://www.wired.com/gallery/best-weighted-blankets)<!-- TECH:END -->
+ - [Bluetti&#39;s EB3A 268Wh Solar Generator offers portable power ideal for camping](https://appleinsider.com/articles/22/05/26/bluettis-eb3a-268wh-solar-generator-offers-portable-power-ideal-for-camping?utm_medium=rss)
+ - [Oura partners with Gucci on the Gucci x Oura Ring wearable, letting users monitor heart rate, sleep, and more, available at select stores for $1,100 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220526/p18#a220526p18)
+ - [Samsung’s bundles are great incentives for buyers — so why isn’t Apple doing it?](https://www.androidauthority.com/samsung-bundles-why-isnt-apple-3166906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
