@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World Of Warcraft Streamer Allegedly Harassed Off Of Twitch By Ex-Cop](https://kotaku.com/wow-warcraft-twitch-streamer-police-harassment-stalking-1848983159)
- - [Destiny 2: How Season of the Haunted works, beginner’s guide](https://www.polygon.com/destiny-2-guide-walkthrough/23143071/destiny-2-season-of-the-haunted-basic-currencies-beginner-guide-vestiages-of-dread-bound-presence)
- - [Let&#39;s Build a Zoo expansion adds dinosaurs, &#39;Caveman Meat&#39;](https://www.pcgamer.com/lets-build-a-zoo-expansion-adds-dinosaurs-caveman-meat)<!-- GAME:END -->
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
+ - [10 more PlayStation titles in development for film and TV, Sony Pictures CEO says](https://www.polygon.com/23143314/playstation-games-film-tv-sony-pictures-ceo-horizon-zero-dawn)
+ - [Minecraft The Wild Update Releasing June 7](https://news.xbox.com/en-us/2022/05/26/minecraft-the-wild-update-releasing-june-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
