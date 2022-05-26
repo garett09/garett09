@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists grow cells on a robot skeleton &lpar;but don’t know what to do with them yet&rpar;](https://www.theverge.com/2022/5/26/23142769/tissue-engineering-growing-cells-mobile-robot-skeleton)
- - [GoDice review: Make game night more fun with these Bluetooth-enabled dice](https://appleinsider.com/articles/22/05/26/godice-review-make-game-night-more-fun-with-these-bluetooth-enabled-dice?utm_medium=rss)
- - [Apple’s digital state ID cards are now available for Maryland residents](https://www.theverge.com/2022/5/26/23142427/apple-wallet-digital-state-id-cards-maryland)<!-- TECH:END -->
+ - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
+ - [Microsoft will slow hiring in Windows, Office, and Teams groups, citing a need to realign staffing priorities; all new hires must be approved by EVP Rajesh Jha &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220526/p24#a220526p24)
+ - [Tim Cook donates $100,000 to his high school&#39;s band](https://appleinsider.com/articles/22/05/26/tim-cook-donates-100000-to-his-high-schools-band?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
