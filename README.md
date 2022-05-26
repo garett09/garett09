@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)
- - 🚯 [Be the change, right?](http://9gag.com/gag/a0ZxqWZ)
- - 🚯 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)<!-- MEMES:END -->
+ - 🚖 [Fun Fact - People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aE8Q4WM)
+ - 🚯 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)
+ - 🚯 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)<!-- MEMES:END -->
 
 --- 
 
