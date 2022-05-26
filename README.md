@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Horizon Zero Dawn TV series is on the way from Sony and Netflix](https://www.polygon.com/23141668/horizon-zero-dawn-tv-series-netflix-sony)
- - [Hype around the launch of its new GeForce graphics cards is going to cost Nvidia](https://www.pcgamer.com/hype-around-the-launch-of-its-new-geforce-graphics-cards-is-going-to-cost-nvidia)
- - [DreamsCom returns starting May 26](https://blog.playstation.com/2022/05/26/dreamscom-returns-starting-may-26/)<!-- GAME:END -->
+ - [Unexplored 2 review](https://www.pcgamer.com/unexplored-2-review)
+ - [A closer look at the chaotic, compelling gameplay of SpiderHeck](https://blog.playstation.com/2022/05/26/a-closer-look-at-the-chaotic-compelling-gameplay-of-spiderheck/)
+ - [A closer look at the chaotic, compelling gameplay of SpiderHeck](https://blog.playstation.com/2022/05/26/a-closer-look-at-the-chaotic-compelling-gameplay-of-spiderheck/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
