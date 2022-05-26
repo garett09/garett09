@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father of the year](http://9gag.com/gag/arnd0AX)
- - 🚯 [5000 rubles for each leg](http://9gag.com/gag/a71GXdL)
- - 🚯 [Hol up little one...](http://9gag.com/gag/ajgdvPg)<!-- MEMES:END -->
+ - 🚖 [Just taking a journey](http://9gag.com/gag/a71GXNe)
+ - 🚯 [Huston we have a problem](http://9gag.com/gag/aggd9gg)
+ - 🚯 [Wonder who.](http://9gag.com/gag/aegdzO5)<!-- MEMES:END -->
 
 --- 
 
