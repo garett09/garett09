@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read the opening pages of Dragons of Deceit, the first new Dragonlance novel in more than a decade](https://www.polygon.com/23137990/dragonlance-dragons-of-deceit-book-excerpt-weis-hickman-interview)
- - [Xbox Boss Says He Will Recognize Raven Software&#39;s Union After Acquisition Closes](https://kotaku.com/xbox-phil-spencer-raven-qa-union-activision-blizzard-1848982555)
- - [Age of Empires III: Definitive Edition – Knights of the Mediterranean Available Today](https://news.xbox.com/en-us/2022/05/26/age-of-empires-iii-definitive-edition-knights-of-the-mediterranean-available-today/)<!-- GAME:END -->
+ - [World Of Warcraft Streamer Allegedly Harassed Off Of Twitch By Ex-Cop](https://kotaku.com/wow-warcraft-twitch-streamer-police-harassment-stalking-1848983159)
+ - [Destiny 2: How Season of the Haunted works, beginner’s guide](https://www.polygon.com/destiny-2-guide-walkthrough/23143071/destiny-2-season-of-the-haunted-basic-currencies-beginner-guide-vestiages-of-dread-bound-presence)
+ - [Let&#39;s Build a Zoo expansion adds dinosaurs, &#39;Caveman Meat&#39;](https://www.pcgamer.com/lets-build-a-zoo-expansion-adds-dinosaurs-caveman-meat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
