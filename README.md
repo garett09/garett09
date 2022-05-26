@@ -200,7 +200,7 @@ Linux                    10 mins             ████░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [Classic, puushe wifi](http://9gag.com/gag/aRry9rM)
  - 🚯 [Full moon charged amethyst up my bum](http://9gag.com/gag/aQXrBzd)
- - 🚯 [Never let them know your next move](http://9gag.com/gag/arndr4X)<!-- MEMES:END -->
+ - 🚯 [This shit never worked.](http://9gag.com/gag/amgdbmv)<!-- MEMES:END -->
 
 --- 
 
