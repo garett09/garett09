@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)
- - 🚯 [Burned](http://9gag.com/gag/apgdXxn)
- - 🚯 [Putler met with wounded `soldiers`. Damn, he even need actors to play soldiers](http://9gag.com/gag/aqGdO3P)<!-- MEMES:END -->
+ - 🚖 [Now this is a yawn](http://9gag.com/gag/aAGm75Z)
+ - 🚯 [Really](http://9gag.com/gag/a91Veqm)
+ - 🚯 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)<!-- MEMES:END -->
 
 --- 
 
