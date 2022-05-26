@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boeing’s Starliner spacecraft returns to Earth, wrapping up critical test mission](https://www.theverge.com/2022/5/25/23138395/boeing-cst-100-starliner-nasa-undocking-landing-oft-2)
- - [How to find your current location on Google Maps](https://www.androidauthority.com/current-location-google-maps-3100375/)
- - [Twitter agrees to pay $150M to the FTC, settling allegations that it misrepresented the &quot;security and privacy&quot; of user data between May 2013 and September 2019 &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/220525/p30#a220525p30)<!-- TECH:END -->
+ - [Zip, whose SaaS product allows businesses to simplify the internal procurement process, raises a $43M Series B led by YC Continuity at a $1.2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220525/p33#a220525p33)
+ - [Bluetti&#39;s EB3A 268Wh Solar Generator offers portable power ideal for camping](https://appleinsider.com/articles/22/05/26/bluettis-eb3a-268wh-solar-generator-offers-portable-power-ideal-for-camping?utm_medium=rss)
+ - [Apple&#39;s iTunes Pass is now rebranded as &#39;Apple Account Card&#39; for iOS 15.5 users](https://appleinsider.com/articles/22/05/26/apples-itunes-pass-is-now-rebranded-as-apple-account-card-for-ios-155-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
