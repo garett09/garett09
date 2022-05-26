@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now this is a yawn](http://9gag.com/gag/aAGm75Z)
- - 🚯 [Really](http://9gag.com/gag/a91Veqm)
- - 🚯 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)<!-- MEMES:END -->
+ - 🚖 [Hol up little one...](http://9gag.com/gag/ajgdvPg)
+ - 🚯 [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
+ - 🚯 [The Art of War](http://9gag.com/gag/aRryW3G)<!-- MEMES:END -->
 
 --- 
 
