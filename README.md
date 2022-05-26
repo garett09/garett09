@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
- - [10 more PlayStation titles in development for film and TV, Sony Pictures CEO says](https://www.polygon.com/23143314/playstation-games-film-tv-sony-pictures-ceo-horizon-zero-dawn)
- - [Minecraft The Wild Update Releasing June 7](https://news.xbox.com/en-us/2022/05/26/minecraft-the-wild-update-releasing-june-7/)<!-- GAME:END -->
+ - [Dead Space spiritual successor The Callisto Protocol severs its connection to PUBG](https://www.polygon.com/23143542/the-callisto-protocol-pubg-universe-glen-schofield)
+ - [Phil Spencer reaffirms that Microsoft will not oppose the Raven QA union](https://www.pcgamer.com/phil-spencer-reaffirms-that-microsoft-will-not-oppose-the-raven-qa-union)
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
