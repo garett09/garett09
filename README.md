@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zip, whose SaaS product allows businesses to simplify the internal procurement process, raises a $43M Series B led by YC Continuity at a $1.2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220525/p33#a220525p33)
- - [Bluetti&#39;s EB3A 268Wh Solar Generator offers portable power ideal for camping](https://appleinsider.com/articles/22/05/26/bluettis-eb3a-268wh-solar-generator-offers-portable-power-ideal-for-camping?utm_medium=rss)
- - [Apple&#39;s iTunes Pass is now rebranded as &#39;Apple Account Card&#39; for iOS 15.5 users](https://appleinsider.com/articles/22/05/26/apples-itunes-pass-is-now-rebranded-as-apple-account-card-for-ios-155-users?utm_medium=rss)<!-- TECH:END -->
+ - [Apple to increase starting pay for hourly workers to $22 per hour](https://appleinsider.com/articles/22/05/26/apple-to-increase-starting-pay-for-hourly-workers-to-22-per-hour?utm_medium=rss)
+ - [Interviews with former and current Microsoft employees suggest a widespread pattern of executive misconduct persists, years after Satya Nadella vowed to end it &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/220525/p36#a220525p36)
+ - [Apple to raise pay for US hourly workers to $22/hour, a 45% rise from 2018, amid inflation and unionization push; starting salaries in US also expected to rise &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/220525/p35#a220525p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
