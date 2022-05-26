@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Preserved Edo period neighborhood in Japan](http://9gag.com/gag/a31xzze)
- - 🚯 [#Bruno, this angel sacrificed his life protecting his owners from a robbery in Ecuador. Type of news that make real men cry.](http://9gag.com/gag/ajgd3eq)
- - 🚯 [Mexican Mario is the best](http://9gag.com/gag/aqGdBnv)<!-- MEMES:END -->
+ - 🚖 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)
+ - 🚯 [First time in my life I feel like I have my shit together. And I did it on my own](http://9gag.com/gag/a81nvYV)
+ - 🚯 [I don&#39;t know wether to feel uncomfortable or terrified](http://9gag.com/gag/amgdyvX)<!-- MEMES:END -->
 
 --- 
 
