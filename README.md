@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FromSoftware says it’s ‘in the process’ of restoring Dark Souls’ online servers](https://www.theverge.com/2022/5/27/23144740/fromsoftware-restoring-dark-souls-online-servers)
- - [Netflix adds content warning to Stranger Things season 4 premiere after Texas school shooting](https://www.theverge.com/2022/5/27/23144654/stranger-things-season-4-content-warning-uvalde-shooting)
- - [Samsung&#39;s Memorial Day Sale knocks up to $1,550 off Galaxy smartphones, 2022 TVs, home appliances](https://appleinsider.com/articles/22/05/27/samsungs-memorial-day-sale-knocks-up-to-1550-off-galaxy-smartphones-2022-tvs-home-appliances?utm_medium=rss)<!-- TECH:END -->
+ - [CWA withdraws its request for a union election next week for staff at an Atlanta Apple store, citing Apple&#39;s &quot;sophisticated campaign to intimidate&quot; and COVID-19 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220527/p11#a220527p11)
+ - [Meta rewrites privacy policy but says it won’t collect data in ‘new ways’](https://www.theverge.com/2022/5/27/23142949/meta-facebook-privacy-policy-terms-of-service-audience-control)
+ - [&#39;Spider-Man: No Way Home&#39; Will Finally Start Streaming July 15     - CNET](https://www.cnet.com/tech/services-and-software/spider-man-no-way-home-will-finally-start-streaming-july-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
