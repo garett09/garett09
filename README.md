@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware finally, officially confirms that Dark Souls servers are coming back](https://www.pcgamer.com/fromsoftware-finally-officially-confirms-that-dark-souls-servers-are-coming-back)
- - [Celebrating Final Fantasy XI Online: A 20th anniversary retrospective with the game’s creators](https://blog.playstation.com/2022/05/27/celebrating-final-fantasy-xi-online-a-20th-anniversary-retrospective-with-the-games-creators/)
- - [Celebrating Final Fantasy XI Online: A 20th anniversary retrospective with the game’s creators](https://blog.playstation.com/2022/05/27/celebrating-final-fantasy-xi-online-a-20th-anniversary-retrospective-with-the-games-creators/)<!-- GAME:END -->
+ - [This New Portable Gaming Console Is Hands-Down The Best Way To Play Emulated Games](https://kotaku.com/odin-pro-base-lite-ayn-emulation-gaming-steam-deck-swit-1848986702)
+ - [Jodie Foster to lead True Detective season 4](https://www.polygon.com/23144375/jodie-foster-true-detective-season-4-details)
+ - [Share of the Week:  Machines of the Forbidden West](https://blog.playstation.com/2022/05/27/share-of-the-week-machines-of-the-forbidden-west/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
