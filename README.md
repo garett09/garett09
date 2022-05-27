@@ -199,8 +199,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [This is f**king bullshit!](http://9gag.com/gag/aQXrYnK)
- - 🚯 [Wife and oldest daughter are away for the weekend so I gonna enjoy a good steak with some beers and maybe a cigar tonight! Hope your days are going well.](http://9gag.com/gag/aM4W3pM)
- - 🚯 [Very creative actually](http://9gag.com/gag/ajgdoe1)<!-- MEMES:END -->
+ - 🚯 [Tense moment every time](http://9gag.com/gag/aegdXgj)
+ - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)<!-- MEMES:END -->
 
 --- 
 
