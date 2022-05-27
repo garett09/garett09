@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)
- - 🚯 [Making washi paper by hand](http://9gag.com/gag/aM4WoLW)
- - 🚯 [I was just able to take a shower without excruciating pain, already forgot hiw that feels](http://9gag.com/gag/aNPqEMw)<!-- MEMES:END -->
+ - 🚖 [Making washi paper by hand](http://9gag.com/gag/aM4WoLW)
+ - 🚯 [Sounds about right](http://9gag.com/gag/a0ZxrWd)
+ - 🚯 [American volunteers in Ukraine striking a Russian BTR.](http://9gag.com/gag/aM4WgG1)<!-- MEMES:END -->
 
 --- 
 
