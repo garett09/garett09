@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christian Bale in Equilibrium.](http://9gag.com/gag/aKmLQmW)
- - 🚯 [American volunteers in Ukraine striking a Russian BTR.](http://9gag.com/gag/aM4WgG1)
- - 🚯 [Semi Manual?](http://9gag.com/gag/arndYNX)<!-- MEMES:END -->
+ - 🚖 [Frozen duck](http://9gag.com/gag/ay9zbVp)
+ - 🚯 [Confused screaming](http://9gag.com/gag/aqGd0xj)
+ - 🚯 [Way to go Mike](http://9gag.com/gag/aqGdPoM)<!-- MEMES:END -->
 
 --- 
 
