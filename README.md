@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute realism\u2060\u2060](http://9gag.com/gag/adgdmz2)
+ - 🚖 [Chakra just left his body](http://9gag.com/gag/a21xn2d)
  - 🚯 [Back in the days...](http://9gag.com/gag/a51x8Rg)
- - 🚯 [Very creative actually](http://9gag.com/gag/ajgdoe1)<!-- MEMES:END -->
+ - 🚯 [Man of culture](http://9gag.com/gag/a0ZxB6n)<!-- MEMES:END -->
 
 --- 
 
