@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Frozen duck](http://9gag.com/gag/ay9zbVp)
- - 🚯 [Confused screaming](http://9gag.com/gag/aqGd0xj)
- - 🚯 [Way to go Mike](http://9gag.com/gag/aqGdPoM)<!-- MEMES:END -->
+ - 🚖 [How to impress your guests](http://9gag.com/gag/aWgdzGn)
+ - 🚯 [But how ?!](http://9gag.com/gag/aOQjwnR)
+ - 🚯 [Trio mandilli from the Kakheti village of Georgia of Caucasus](http://9gag.com/gag/a11x9QP)<!-- MEMES:END -->
 
 --- 
 
