@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Money\u2026](http://9gag.com/gag/aRryYmA)
- - 🚯 [Sounds legit.](http://9gag.com/gag/awz8wWB)
- - 🚯 [This guy can do double back flip](http://9gag.com/gag/a61xAWL)<!-- MEMES:END -->
+ - 🚖 [And I drove 3 hours for this\u2026 thanks for having me](http://9gag.com/gag/ay9zOnq)
+ - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
+ - 🚯 [I present to you .. Father of year!](http://9gag.com/gag/aVxdNYd)<!-- MEMES:END -->
 
 --- 
 
