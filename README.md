@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks will now tell you when you’re using the wrong USB-C cable](https://www.theverge.com/2022/5/27/23144411/google-chromebooks-wrong-usb-c-cable-cursive)
- - [If the US government is good at anything, it&#39;s failing at technology](https://appleinsider.com/articles/22/05/27/if-the-us-government-is-good-at-anything-its-failing-at-technology?utm_medium=rss)
- - [More Memorial Day Sales Going on Now: Ashley Furniture, Mattress Firm and More     - CNET](https://www.cnet.com/news/more-memorial-day-sales-going-on-now-ashley-furniture-mattress-firm-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FromSoftware says it’s ‘in the process’ of restoring Dark Souls’ online servers](https://www.theverge.com/2022/5/27/23144740/fromsoftware-restoring-dark-souls-online-servers)
+ - [Netflix adds content warning to Stranger Things season 4 premiere after Texas school shooting](https://www.theverge.com/2022/5/27/23144654/stranger-things-season-4-content-warning-uvalde-shooting)
+ - [Samsung&#39;s Memorial Day Sale knocks up to $1,550 off Galaxy smartphones, 2022 TVs, home appliances](https://appleinsider.com/articles/22/05/27/samsungs-memorial-day-sale-knocks-up-to-1550-off-galaxy-smartphones-2022-tvs-home-appliances?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
