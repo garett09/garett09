@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moo Lander – the World’s First Mootroidvania, Drops on Xbox Today](https://news.xbox.com/en-us/2022/05/27/moo-lander-the-worlds-first-mootroidvania-drops-on-xbox-today/)
- - [Steam Deck’s Latest Update Is Sure To Stir Debate](https://kotaku.com/steam-deck-os-update-3-2-valve-fan-noise-lifespan-1848986918)
- - [Destiny 2&#39;s new Duality dungeon is a &#39;daring mind-heist&#39; of a corrupt space emperor](https://www.pcgamer.com/destiny-2-duality-dungeon-trailer)<!-- GAME:END -->
+ - [Ransomware group forces victims to &#39;pick any 5 poor children&#39; and buy them KFC](https://www.pcgamer.com/ransomware-group-forces-victims-to-pick-any-5-poor-children-and-buy-them-kfc)
+ - [Play Roller Champions For Free Now on Xbox](https://news.xbox.com/en-us/2022/05/27/play-roller-champions-for-free-now-on-xbox/)
+ - [Destiny 2 Xur location and items, May 27-31](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/27/23144677/destiny-2-xur-location-items-may-27-31)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
