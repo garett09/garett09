@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making washi paper by hand](http://9gag.com/gag/aM4WoLW)
- - 🚯 [Sounds about right](http://9gag.com/gag/a0ZxrWd)
- - 🚯 [American volunteers in Ukraine striking a Russian BTR.](http://9gag.com/gag/aM4WgG1)<!-- MEMES:END -->
+ - 🚖 [Christian Bale in Equilibrium.](http://9gag.com/gag/aKmLQmW)
+ - 🚯 [American volunteers in Ukraine striking a Russian BTR.](http://9gag.com/gag/aM4WgG1)
+ - 🚯 [Semi Manual?](http://9gag.com/gag/arndYNX)<!-- MEMES:END -->
 
 --- 
 
