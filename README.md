@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And I drove 3 hours for this\u2026 thanks for having me](http://9gag.com/gag/ay9zOnq)
- - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
- - 🚯 [I present to you .. Father of year!](http://9gag.com/gag/aVxdNYd)<!-- MEMES:END -->
+ - 🚖 [This guy can do double back flip](http://9gag.com/gag/a61xAWL)
+ - 🚯 [Life](http://9gag.com/gag/aYrdzYN)
+ - 🚯 [Wife and oldest daughter are away for the weekend so I gonna enjoy a good steak with some beers and maybe a cigar tonight! Hope your days are going well.](http://9gag.com/gag/aM4W3pM)<!-- MEMES:END -->
 
 --- 
 
