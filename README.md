@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That guy is the worst](http://9gag.com/gag/aggdDqx)
- - 🚯 [And you](http://9gag.com/gag/a31xOp5)
- - 🚯 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)<!-- MEMES:END -->
+ - 🚖 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)
+ - 🚯 [Making washi paper by hand](http://9gag.com/gag/aM4WoLW)
+ - 🚯 [I was just able to take a shower without excruciating pain, already forgot hiw that feels](http://9gag.com/gag/aNPqEMw)<!-- MEMES:END -->
 
 --- 
 
