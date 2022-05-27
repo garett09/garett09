@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3D Platformer Kao the Kangaroo Jumps onto Xbox This Summer!](https://news.xbox.com/en-us/2022/05/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer-2/)
- - [Ace Combat 7 takes the Hiiiiighway to the Danger Zone](https://www.pcgamer.com/ace-combat-7-takes-the-hiiiiighway-to-the-danger-zone)
- - [No Man’s Sky: Expedition 7 – Leviathan is Available Now](https://news.xbox.com/en-us/2022/05/27/no-mans-sky-expedition-7-leviathan-is-available-now/)<!-- GAME:END -->
+ - [The best thing about Obi-Wan Kenobi is a frustratingly enormous spoiler](https://www.polygon.com/star-wars/23144294/obi-wan-kenobi-premiere-review-ewan-mcgregor-vivien-lyra-blair)
+ - [Does Stranger Things season 4 part 1 have a post-credits scene?](https://www.polygon.com/23145006/stranger-things-season-4-post-credits-scene)
+ - [Gotham Knights Dev Addresses Details That&#39;ve Had Fans Feeling Concerned](https://kotaku.com/gotham-knights-batman-batgirl-red-hood-nightwing-wb-gam-1848988700)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
