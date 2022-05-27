@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Money\u2026](http://9gag.com/gag/aRryYmA)
+ - 🚖 [Return to duck](http://9gag.com/gag/ajgdpNG)
  - 🚯 [But how ?!](http://9gag.com/gag/aOQjwnR)
- - 🚯 [Confused screaming](http://9gag.com/gag/aqGd0xj)<!-- MEMES:END -->
+ - 🚯 [Back in the days...](http://9gag.com/gag/a51x8Rg)<!-- MEMES:END -->
 
 --- 
 
