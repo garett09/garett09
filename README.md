@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gucci built a persistent town inside of Roblox](https://www.theverge.com/2022/5/27/23143404/gucci-town-roblox)
- - [Jadu, which is developing an AR game built around virtual objects owned by players in a metaverse, raises $36M led by Bain Capital Crypto &lpar;Agne Cimermanaite/Metaverse Post&rpar;](http://www.techmeme.com/220527/p3#a220527p3)
- - [Valve responds to TF2 bot issue, says it’s ‘working to improve things’](https://www.theverge.com/2022/5/27/23144061/valve-team-fortress-2-bot-problem-savetf2-spam)<!-- TECH:END -->
+ - [Daily Authority: 🎮 Xbox Keystone won’t happen](https://www.androidauthority.com/daily-authority-may-27-2022-3170118/)
+ - [The 25 Best Memorial Day Sales on Tech, Games, and Outdoor Gear](https://www.wired.com/story/best-memorial-day-sales-2022)
+ - [An Autonomous Car Blocked a Fire Truck Responding to an Emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
