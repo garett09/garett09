@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Return to duck](http://9gag.com/gag/ajgdpNG)
- - 🚯 [But how ?!](http://9gag.com/gag/aOQjwnR)
- - 🚯 [Back in the days...](http://9gag.com/gag/a51x8Rg)<!-- MEMES:END -->
+ - 🚖 [Absolute realism\u2060\u2060](http://9gag.com/gag/adgdmz2)
+ - 🚯 [Back in the days...](http://9gag.com/gag/a51x8Rg)
+ - 🚯 [Very creative actually](http://9gag.com/gag/ajgdoe1)<!-- MEMES:END -->
 
 --- 
 
