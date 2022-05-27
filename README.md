@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart plans to slow hiring as it prepares for its IPO, after hiring over 1,500 staff in 2021; Instacart cut its valuation by 40% to $24B in March 2022 &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220526/p32#a220526p32)
- - [It’s hard to believe Google Drive’s just now getting copy / paste shortcuts](https://www.theverge.com/2022/5/26/23143568/google-drive-cut-copy-paste-keyboard-shortcuts)
- - [Tether enters Latin America by launching the MXNT stablecoin, pegged to the Mexican peso, initially available on the Ethereum, Tron, and Polygon blockchains &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220526/p31#a220526p31)<!-- TECH:END -->
+ - [Instagram is having some problems today](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
+ - [A Steam Deck software update is turning fan noise way down](https://www.theverge.com/2022/5/26/23143631/valve-steam-deck-fan-quieter-update)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
