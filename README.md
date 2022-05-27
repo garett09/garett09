@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)
- - [Facial recognition service PimEyes draws scrutiny for charging high fees to help remove users&#39; photos from sites and allowing searches for other people&#39;s faces &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220527/p5#a220527p5)
- - [The Most Powerful Story The Onion Ever Wrote](https://www.wired.com/story/the-onion-mass-shooting-article)<!-- TECH:END -->
+ - [What to do if your iPhone is stolen](https://appleinsider.com/inside/iphone/tips/what-to-do-if-your-iphone-is-stolen?utm_medium=rss)
+ - [Celebrate the Return of Stranger Things With This Exclusive Timex Collaboration     - CNET](https://www.cnet.com/culture/fashion/celebrate-the-return-of-stranger-things-with-this-exclusive-timex-collaboration/#ftag=CAD590a51e)
+ - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
