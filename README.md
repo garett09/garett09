@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🎮 Xbox Keystone won’t happen](https://www.androidauthority.com/daily-authority-may-27-2022-3170118/)
- - [The 25 Best Memorial Day Sales on Tech, Games, and Outdoor Gear](https://www.wired.com/story/best-memorial-day-sales-2022)
- - [An Autonomous Car Blocked a Fire Truck Responding to an Emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles)<!-- TECH:END -->
+ - [People from countries like Argentina, Venezuela, and Nigeria invested in Terra as they saw it as more stable than local currency, but lost thousands in savings &lpar;Rest of World&rpar;](http://www.techmeme.com/220527/p4#a220527p4)
+ - [How the iPad is used by AppleInsider staff and why it remains important](https://appleinsider.com/articles/22/05/27/how-the-ipad-is-used-by-appleinsider-staff-and-why-it-remains-important?utm_medium=rss)
+ - [What Do Those Pesky &#39;Cookie Preferences&#39; Pop-Ups Really Mean?](https://www.wired.com/story/what-do-cookie-preferences-pop-ups-mean)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
