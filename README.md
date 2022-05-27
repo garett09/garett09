@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thing about Obi-Wan Kenobi is a frustratingly enormous spoiler](https://www.polygon.com/star-wars/23144294/obi-wan-kenobi-premiere-review-ewan-mcgregor-vivien-lyra-blair)
- - [Does Stranger Things season 4 part 1 have a post-credits scene?](https://www.polygon.com/23145006/stranger-things-season-4-post-credits-scene)
- - [Gotham Knights Dev Addresses Details That&#39;ve Had Fans Feeling Concerned](https://kotaku.com/gotham-knights-batman-batgirl-red-hood-nightwing-wb-gam-1848988700)<!-- GAME:END -->
+ - [The most infamous MMO players of all time](https://www.pcgamer.com/the-most-infamous-mmo-players-of-all-time)
+ - [This Week on Xbox: Upcoming Games, Free Updates, and New Releases](https://news.xbox.com/en-us/2022/05/27/this-week-on-xbox-upcoming-games-free-updates-and-new-releases/)
+ - [Watch Tokyo come alive with this real-time map of its transit system](https://www.pcgamer.com/watch-tokyo-come-alive-with-this-real-time-map-of-its-transit-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
