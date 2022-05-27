@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Only 15% of GPs at European VC firms are women, managing just 9% of total assets; in the UK, 13% of GPs are women with access to just 5% of total assets &lpar;Amy Lewin/Sifted&rpar;](http://www.techmeme.com/220527/p2#a220527p2)
- - [Samsung Galaxy XCover 6 Pro is on the way, could be a huge power upgrade](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-3169955/)
- - [Your Android phone could soon get snore and cough detection abilities](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)<!-- TECH:END -->
+ - [Valve responds to TF2 bot issue, says it’s ‘working to improve things’](https://www.theverge.com/2022/5/27/23144061/valve-team-fortress-2-bot-problem-savetf2-spam)
+ - [How to Watch One of 2022&#39;s Biggest Asteroids Zoom Past Earth     - CNET](https://www.cnet.com/science/space/how-to-watch-one-of-2022s-biggest-asteroids-zoom-past-earth/#ftag=CAD590a51e)
+ - [Report: Only 15% of GPs at European VC firms are women, managing just 9% of total assets; in the UK, 13% of GPs are women with access to just 5% of total assets &lpar;Amy Lewin/Sifted&rpar;](http://www.techmeme.com/220527/p2#a220527p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
