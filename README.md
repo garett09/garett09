@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [3D Platformer Kao the Kangaroo Jumps onto Xbox This Summer!](https://news.xbox.com/en-us/2022/05/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer-2/)
  - [Ace Combat 7 takes the Hiiiiighway to the Danger Zone](https://www.pcgamer.com/ace-combat-7-takes-the-hiiiiighway-to-the-danger-zone)
- - [No Man’s Sky: Expedition 7 – Leviathan is Available Now](https://news.xbox.com/en-us/2022/05/27/no-mans-sky-expedition-7-leviathan-is-available-now/)
- - [Guild Wars 2 players can&#39;t stop winning a group event they desperately want to lose](https://www.pcgamer.com/guild-wars-2-players-cant-stop-winning-a-group-event-they-desperately-want-to-lose)<!-- GAME:END -->
+ - [No Man’s Sky: Expedition 7 – Leviathan is Available Now](https://news.xbox.com/en-us/2022/05/27/no-mans-sky-expedition-7-leviathan-is-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
