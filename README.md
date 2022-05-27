@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to impress your guests](http://9gag.com/gag/aWgdzGn)
+ - 🚖 [Girlfriend wanted to sell her Broken Phone on Ebay...](http://9gag.com/gag/axBA5r1)
  - 🚯 [But how ?!](http://9gag.com/gag/aOQjwnR)
- - 🚯 [Trio mandilli from the Kakheti village of Georgia of Caucasus](http://9gag.com/gag/a11x9QP)<!-- MEMES:END -->
+ - 🚯 [Confused screaming](http://9gag.com/gag/aqGd0xj)<!-- MEMES:END -->
 
 --- 
 
