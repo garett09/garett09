@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Portable Gaming Console Is Hands-Down The Best Way To Play Emulated Games](https://kotaku.com/odin-pro-base-lite-ayn-emulation-gaming-steam-deck-swit-1848986702)
- - [Jodie Foster to lead True Detective season 4](https://www.polygon.com/23144375/jodie-foster-true-detective-season-4-details)
- - [Share of the Week:  Machines of the Forbidden West](https://blog.playstation.com/2022/05/27/share-of-the-week-machines-of-the-forbidden-west/)<!-- GAME:END -->
+ - [Moo Lander – the World’s First Mootroidvania, Drops on Xbox Today](https://news.xbox.com/en-us/2022/05/27/moo-lander-the-worlds-first-mootroidvania-drops-on-xbox-today/)
+ - [Steam Deck’s Latest Update Is Sure To Stir Debate](https://kotaku.com/steam-deck-os-update-3-2-valve-fan-noise-lifespan-1848986918)
+ - [Destiny 2&#39;s new Duality dungeon is a &#39;daring mind-heist&#39; of a corrupt space emperor](https://www.pcgamer.com/destiny-2-duality-dungeon-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
