@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do if your iPhone is stolen](https://appleinsider.com/inside/iphone/tips/what-to-do-if-your-iphone-is-stolen?utm_medium=rss)
- - [Celebrate the Return of Stranger Things With This Exclusive Timex Collaboration     - CNET](https://www.cnet.com/culture/fashion/celebrate-the-return-of-stranger-things-with-this-exclusive-timex-collaboration/#ftag=CAD590a51e)
- - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)<!-- TECH:END -->
+ - [Manta, which offers a date lineage service for companies to understand and visualize the flow of information, raises a $35M Series B led by Forestay Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220527/p7#a220527p7)
+ - [Sony’s next State of Play will offer a sneak peek at PSVR2’s games](https://www.theverge.com/2022/5/27/23144332/sony-state-of-play-ps5-psvr2-games-announcements)
+ - [Daily deals May 27: $200 off Hisense 75-inch TV, 37% discount on Arris Gigabit modem, $50 off Brydge TB4 dock, more](https://appleinsider.com/articles/22/05/27/daily-deals-may-27-200-off-hisense-75-inch-tv-37-discount-on-arris-gigabit-modem-50-off-brydge-tb4-dock-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
