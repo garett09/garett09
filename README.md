@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel MMO Cancelled Before We Ever Got To See It](https://kotaku.com/marvel-mmo-cancelled-daybreak-dimension-ink-eg7-pc-dc-u-1848984337)
  - [After a 2 year delay, Ubisoft&#39;s free-to-play Roller Champions is painfully bland](https://www.pcgamer.com/after-a-2-year-delay-ubisofts-free-to-play-roller-champions-is-painfully-bland)
- - [All Three Bioshock Games Are Currently Free On PC](https://kotaku.com/bioshock-2-infinite-trilogy-free-pc-epic-store-fps-2k-1848984067)
- - [Glen Schofield&#39;s new horror game The Callisto Protocol is now not set in the PUBG universe, for some reason](https://www.pcgamer.com/glen-schofields-new-horror-game-the-callisto-protocol-is-now-not-set-in-the-pubg-universe-for-some-reason)<!-- GAME:END -->
+ - [All Three Bioshock Games Are Currently Free On PC](https://kotaku.com/bioshock-2-infinite-trilogy-free-pc-epic-store-fps-2k-1848984067)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
