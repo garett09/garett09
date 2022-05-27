@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer UK July issue: How you dune?](https://www.pcgamer.com/pc-gamer-uk-july-issue-how-you-dune)
  - [Today&#39;s Wordle answer #342: Friday, May 27](https://www.pcgamer.com/wordle-may-27-342)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Details from a Cyberpunk 2077 expansion may have leaked](https://www.pcgamer.com/details-from-a-cyberpunk-2077-expansion-may-have-leaked)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
