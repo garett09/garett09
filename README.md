@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s noise-canceling QuietComfort 45 headphones are $50 off today](https://www.theverge.com/good-deals/2022/5/27/23142897/bose-quietcomfort-45-amazfit-bip-s-lenovo-thinkpad-c13-yoga-sony-ps5-dualsense-controller-deal-sale)
- - [Chromebooks will now tell you when you’re using the wrong USB-C cable](https://www.theverge.com/2022/5/27/23144411/google-chromebooks-wrong-usb-c-cable-cursive)
- - [NASA Shares Ideas for Humans Landing on Mars, Asks for Input     - CNET](https://www.cnet.com/science/space/nasa-shares-ideas-for-humans-landing-on-mars-asks-for-input/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
+ - [How to change Alexa’s wake word](https://www.theverge.com/23144484/change-alexa-echo-wake-word-name-how-to)
+ - [SEC questions Elon Musk over late Twitter disclosure](https://www.theverge.com/2022/5/27/23144536/sec-elon-musk-twitter-disclosure-inquiry)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
