@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeding wildlife, what could go wrong?](http://9gag.com/gag/aWgdrdK)
- - 🚯 [Finally cyberpunk 2077. Would you like to ?](http://9gag.com/gag/angdP3E)
- - 🚯 [Almost too accurate](http://9gag.com/gag/aBnvAnN)<!-- MEMES:END -->
+ - 🚖 [That guy is the worst](http://9gag.com/gag/aggdDqx)
+ - 🚯 [And you](http://9gag.com/gag/a31xOp5)
+ - 🚯 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)<!-- MEMES:END -->
 
 --- 
 
