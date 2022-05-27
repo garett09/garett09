@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wife and oldest daughter are away for the weekend so I gonna enjoy a good steak with some beers and maybe a cigar tonight! Hope your days are going well.](http://9gag.com/gag/aM4W3pM)
- - 🚯 [This guy can do double back flip](http://9gag.com/gag/a61xAWL)
- - 🚯 [My Money\u2026](http://9gag.com/gag/aRryYmA)<!-- MEMES:END -->
+ - 🚖 [My Money\u2026](http://9gag.com/gag/aRryYmA)
+ - 🚯 [Sounds legit.](http://9gag.com/gag/awz8wWB)
+ - 🚯 [This guy can do double back flip](http://9gag.com/gag/a61xAWL)<!-- MEMES:END -->
 
 --- 
 
