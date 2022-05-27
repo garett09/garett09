@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manta, which offers a date lineage service for companies to understand and visualize the flow of information, raises a $35M Series B led by Forestay Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220527/p7#a220527p7)
- - [Sony’s next State of Play will offer a sneak peek at PSVR2’s games](https://www.theverge.com/2022/5/27/23144332/sony-state-of-play-ps5-psvr2-games-announcements)
- - [Daily deals May 27: $200 off Hisense 75-inch TV, 37% discount on Arris Gigabit modem, $50 off Brydge TB4 dock, more](https://appleinsider.com/articles/22/05/27/daily-deals-may-27-200-off-hisense-75-inch-tv-37-discount-on-arris-gigabit-modem-50-off-brydge-tb4-dock-more?utm_medium=rss)<!-- TECH:END -->
+ - [Bose’s noise-canceling QuietComfort 45 headphones are $50 off today](https://www.theverge.com/good-deals/2022/5/27/23142897/bose-quietcomfort-45-amazfit-bip-s-lenovo-thinkpad-c13-yoga-sony-ps5-dualsense-controller-deal-sale)
+ - [Chromebooks will now tell you when you’re using the wrong USB-C cable](https://www.theverge.com/2022/5/27/23144411/google-chromebooks-wrong-usb-c-cable-cursive)
+ - [NASA Shares Ideas for Humans Landing on Mars, Asks for Input     - CNET](https://www.cnet.com/science/space/nasa-shares-ideas-for-humans-landing-on-mars-asks-for-input/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
