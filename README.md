@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally cyberpunk 2077. Would you like to ?](http://9gag.com/gag/angdP3E)
- - 🚯 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)
- - 🚯 [Rest in peace, Ray Liotta](http://9gag.com/gag/a11xj4G)<!-- MEMES:END -->
+ - 🚖 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)
+ - 🚯 [Finally cyberpunk 2077. Would you like to ?](http://9gag.com/gag/angdP3E)
+ - 🚯 [It\u2019s not walking, it\u2019s waddling](http://9gag.com/gag/aOQjLPv)<!-- MEMES:END -->
 
 --- 
 
