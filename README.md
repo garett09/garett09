@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fun Fact - People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aE8Q4WM)
- - 🚯 [See ya around Tommy... Thanks for the purple-hued, 80s-styled memories &lpar;Ray Liotta, 1954 - 2022&rpar;](http://9gag.com/gag/aWgd5Vn)
- - 🚯 [True or false?](http://9gag.com/gag/a31xOPm)<!-- MEMES:END -->
+ - 🚖 [See ya around Tommy... Thanks for the purple-hued, 80s-styled memories &lpar;Ray Liotta, 1954 - 2022&rpar;](http://9gag.com/gag/aWgd5Vn)
+ - 🚯 [True or false?](http://9gag.com/gag/a31xOPm)
+ - 🚯 [I was just able to take a shower without excruciating pain, already forgot hiw that feels](http://9gag.com/gag/aNPqEMw)<!-- MEMES:END -->
 
 --- 
 
