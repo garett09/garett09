@@ -199,7 +199,7 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)
- - 🚯 [Finally cyberpunk 2077. Would you like to ?](http://9gag.com/gag/angdP3E)
+ - 🚯 [Guess the nationality](http://9gag.com/gag/a41x0wy)
  - 🚯 [It\u2019s not walking, it\u2019s waddling](http://9gag.com/gag/aOQjLPv)<!-- MEMES:END -->
 
 --- 
