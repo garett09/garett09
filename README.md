@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [People from countries like Argentina, Venezuela, and Nigeria invested in Terra as they saw it as more stable than local currency, but lost thousands in savings &lpar;Rest of World&rpar;](http://www.techmeme.com/220527/p4#a220527p4)
- - [How the iPad is used by AppleInsider staff and why it remains important](https://appleinsider.com/articles/22/05/27/how-the-ipad-is-used-by-appleinsider-staff-and-why-it-remains-important?utm_medium=rss)
- - [What Do Those Pesky &#39;Cookie Preferences&#39; Pop-Ups Really Mean?](https://www.wired.com/story/what-do-cookie-preferences-pop-ups-mean)<!-- TECH:END -->
+ - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)
+ - [Facial recognition service PimEyes draws scrutiny for charging high fees to help remove users&#39; photos from sites and allowing searches for other people&#39;s faces &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220527/p5#a220527p5)
+ - [The Most Powerful Story The Onion Ever Wrote](https://www.wired.com/story/the-onion-mass-shooting-article)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
