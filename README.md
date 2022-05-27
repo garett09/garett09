@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel MMO Cancelled Before We Ever Got To See It](https://kotaku.com/marvel-mmo-cancelled-daybreak-dimension-ink-eg7-pc-dc-u-1848984337)
- - [After a 2 year delay, Ubisoft&#39;s free-to-play Roller Champions is painfully bland](https://www.pcgamer.com/after-a-2-year-delay-ubisofts-free-to-play-roller-champions-is-painfully-bland)
- - [All Three Bioshock Games Are Currently Free On PC](https://kotaku.com/bioshock-2-infinite-trilogy-free-pc-epic-store-fps-2k-1848984067)<!-- GAME:END -->
+ - [How to get the most out of the classic Fallout games today](https://www.pcgamer.com/how-to-get-the-most-out-of-the-classic-fallout-games-today)
+ - [The Art Of Horizon Forbidden West](https://kotaku.com/horizon-forbidden-west-concept-art-character-environmen-1848984780)
+ - [Marvel MMO Cancelled Before We Ever Got To See It](https://kotaku.com/marvel-mmo-cancelled-daybreak-dimension-ink-eg7-pc-dc-u-1848984337)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
