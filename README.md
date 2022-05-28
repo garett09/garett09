@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to start a German electric train.](http://9gag.com/gag/avAXpmZ)
- - 🚯 [What Pokemon is that?](http://9gag.com/gag/a31pY6v)
- - 🚯 [These are the signs we need](http://9gag.com/gag/aE8Nw4o)<!-- MEMES:END -->
+ - 🚖 [These are the signs we need](http://9gag.com/gag/aE8Nw4o)
+ - 🚯 [The face construction workers make when they send the new guy to get a tool that doesn&#39;t exist](http://9gag.com/gag/avAXZy5)
+ - 🚯 [Oh man I wonder how they do it](http://9gag.com/gag/awzGrEQ)<!-- MEMES:END -->
 
 --- 
 
