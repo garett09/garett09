@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m not lazy, I just work in energy-saving mode.](http://9gag.com/gag/aRrN6bM)
- - 🚯 [This dog&#39;s jump](http://9gag.com/gag/aWgNBP4)
- - 🚯 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)<!-- MEMES:END -->
+ - 🚖 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)
+ - 🚯 [Yoink](http://9gag.com/gag/aPZd61n)
+ - 🚯 [Finally paid off my debt, so I&#39;m treating myself today Cheers! you beautiful 9gaggers!](http://9gag.com/gag/aZrVb73)<!-- MEMES:END -->
 
 --- 
 
