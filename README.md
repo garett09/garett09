@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Switch to Google Fi](https://www.wired.com/story/how-to-switch-to-google-fi)
- - [What Is 32-Bit Float Audio, and Should You Record In It?](https://www.wired.com/story/32-bit-float-audio-explained)
- - [‘Flash Droughts’ Are the Midwest’s Next Big Climate Threat](https://www.wired.com/story/flash-droughts-are-the-midwests-next-big-climate-threat)<!-- TECH:END -->
+ - [DuckDuckGo Isn’t as Private as You Think](https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp)
+ - [Finding a PlayStation 5 Is About to Get Easier](https://www.wired.com/story/finding-a-playstation-5-gets-easier)
+ - [How to print from a Chromebook](https://www.theverge.com/23131478/chromebook-printer-cloud-google-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
