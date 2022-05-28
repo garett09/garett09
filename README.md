@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Master Google Photos with these lesser-known features](https://www.androidauthority.com/underrated-google-photos-features-3169067/)
- - [Stranger Things 4’s new monster is made with practical effects, some CG, and lots of lube](https://www.theverge.com/23141145/stranger-things-4-vecna-monster-creation-design-practical-effects)
- - [Apple&#39;s Tim Cook trails behind Elon Musk in CEO pay for 2021](https://appleinsider.com/articles/22/05/28/apples-tim-cook-trails-behind-elon-musk-in-ceo-pay-for-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Comcast received a patent for this smart speaker design, but will it ever be released?](https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-434-3170328/)
+ - [The latest iPad Air with M1 processor and expanded 256GB storage is $70 off](https://www.theverge.com/good-deals/2022/5/28/23144495/apple-ipad-air-2022-xbox-series-s-console-google-pixel-6-pro-lenovo-chromebook-duet-5-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
