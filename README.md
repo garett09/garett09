@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is f**king bullshit!](http://9gag.com/gag/aQXrYnK)
- - 🚯 [Tense moment every time](http://9gag.com/gag/aegdXgj)
- - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)<!-- MEMES:END -->
+ - 🚖 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)
+ - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
+ - 🚯 [Me: wait almost a decade and buy the game 5 days before it\u2019s free.](http://9gag.com/gag/aE8QeGO)<!-- MEMES:END -->
 
 --- 
 
