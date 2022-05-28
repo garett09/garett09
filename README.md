@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean Your Vinyl Records &lpar;Because They&#39;re Filthy!&rpar;](https://www.wired.com/story/how-to-clean-vinyl)
- - [The Breaking Point Is Here—Again](https://www.wired.com/story/buffalo-uvalde-shootings-breaking-point)
- - [I bought an ultrawide monitor for productivity, and here’s what I learned](https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/)<!-- TECH:END -->
+ - [How to Switch to Google Fi](https://www.wired.com/story/how-to-switch-to-google-fi)
+ - [What Is 32-Bit Float Audio, and Should You Record In It?](https://www.wired.com/story/32-bit-float-audio-explained)
+ - [‘Flash Droughts’ Are the Midwest’s Next Big Climate Threat](https://www.wired.com/story/flash-droughts-are-the-midwests-next-big-climate-threat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
