@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dial Up Sound - Spectrogram](http://9gag.com/gag/a613m7e)
- - 🚯 [True.](http://9gag.com/gag/ay9V73M)
- - 🚯 [Beware of natural spaghetti.](http://9gag.com/gag/a21jzv1)<!-- MEMES:END -->
+ - 🚖 [No one expects spanish inquition](http://9gag.com/gag/aLvNRGV)
+ - 🚯 [Save and never use.](http://9gag.com/gag/aegPKLb)
+ - 🚯 [What are the odds](http://9gag.com/gag/abgm39O)<!-- MEMES:END -->
 
 --- 
 
