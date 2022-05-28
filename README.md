@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was enough though](http://9gag.com/gag/aVx1z1P)
- - 🚯 [Are critics from another planet?](http://9gag.com/gag/aOQNK3M)
- - 🚯 [On this day in 2016, an event marked the decline of the world... He shall not be forgotten!](http://9gag.com/gag/a31pPmr)<!-- MEMES:END -->
+ - 🚖 [How to start a German electric train.](http://9gag.com/gag/avAXpmZ)
+ - 🚯 [What Pokemon is that?](http://9gag.com/gag/a31pY6v)
+ - 🚯 [These are the signs we need](http://9gag.com/gag/aE8Nw4o)<!-- MEMES:END -->
 
 --- 
 
