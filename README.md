@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wall 1 Pinkytoe 0](http://9gag.com/gag/a11xzGR)
- - 🚯 [So far so good.](http://9gag.com/gag/aqGp4n7)
- - 🚯 [The same with dev?](http://9gag.com/gag/a613r2e)<!-- MEMES:END -->
+ - 🚖 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)
+ - 🚯 [Any others???](http://9gag.com/gag/aVxdGBM)
+ - 🚯 [Men only want one thing and it&#39;s disgusting](http://9gag.com/gag/aOQj6zN)<!-- MEMES:END -->
 
 --- 
 
