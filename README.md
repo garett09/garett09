@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)
- - 🚯 [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
- - 🚯 [Me: wait almost a decade and buy the game 5 days before it\u2019s free.](http://9gag.com/gag/aE8QeGO)<!-- MEMES:END -->
+ - 🚖 [Not to sound like a Commie or anything but I hate how it costs money to live.](http://9gag.com/gag/axBApeb)
+ - 🚯 [Pretty much ya](http://9gag.com/gag/axBApXY)
+ - 🚯 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)<!-- MEMES:END -->
 
 --- 
 
