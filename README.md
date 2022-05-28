@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Layoffs.ai data: 60+ tech companies had job cuts in May, with 16,000+ employees laid off; notable layoffs in the last month include Getir, Bolt, and Klarna &lpar;Michelle Ma/Protocol&rpar;](http://www.techmeme.com/220527/p13#a220527p13)
- - [Atlanta Apple store workers say ‘intimidation’ has made a fair union vote impossible](https://www.theverge.com/2022/5/27/23145034/apple-atlanta-retail-store-union-election-canceled-intimidation)
- - [&#39;Worst Song Ever&#39;: TikTok Reacts to the Ice Cream Song From &#39;Doctor Strange 2&#39;     - CNET](https://www.cnet.com/culture/entertainment/worst-song-ever-tiktok-reacts-to-the-ice-cream-song-from-doctor-strange/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robinhood Reportedly Settles Over 2020 Outage     - CNET](https://www.cnet.com/tech/robinhood-reportedly-settles-over-2020-outage/#ftag=CAD590a51e)
+ - [Samsung Reportedly Cutting Phone Production by 10% This Year     - CNET](https://www.cnet.com/tech/mobile/samsung-reportedly-cutting-phone-production-by-10-this-year/#ftag=CAD590a51e)
+ - [How to change &lpar;or reset&rpar; your Amazon password](https://www.androidauthority.com/change-password-amazon-3169877/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
