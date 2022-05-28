@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True...](http://9gag.com/gag/amgbLdj)
- - 🚯 [What Pokemon is that?](http://9gag.com/gag/a31pY6v)
- - 🚯 [Running away!](http://9gag.com/gag/aGzNVZG)<!-- MEMES:END -->
+ - 🚖 [Just a reminder](http://9gag.com/gag/arnrpwd)
+ - 🚯 [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)
+ - 🚯 [We may check if it is true or not soon. *popcorn* I don&#39;t take any grounds. I&#39;m curious.](http://9gag.com/gag/a91NdN6)<!-- MEMES:END -->
 
 --- 
 
