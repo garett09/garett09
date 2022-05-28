@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)
- - 🚯 [Yoink](http://9gag.com/gag/aPZd61n)
- - 🚯 [Finally paid off my debt, so I&#39;m treating myself today Cheers! you beautiful 9gaggers!](http://9gag.com/gag/aZrVb73)<!-- MEMES:END -->
+ - 🚖 [Dial Up Sound - Spectrogram](http://9gag.com/gag/a613m7e)
+ - 🚯 [True.](http://9gag.com/gag/ay9V73M)
+ - 🚯 [Beware of natural spaghetti.](http://9gag.com/gag/a21jzv1)<!-- MEMES:END -->
 
 --- 
 
