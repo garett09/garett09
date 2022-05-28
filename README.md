@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)
- - 🚯 [Any others???](http://9gag.com/gag/aVxdGBM)
- - 🚯 [Men only want one thing and it&#39;s disgusting](http://9gag.com/gag/aOQj6zN)<!-- MEMES:END -->
+ - 🚖 [I&#39;m not lazy, I just work in energy-saving mode.](http://9gag.com/gag/aRrN6bM)
+ - 🚯 [This dog&#39;s jump](http://9gag.com/gag/aWgNBP4)
+ - 🚯 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)<!-- MEMES:END -->
 
 --- 
 
