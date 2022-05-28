@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women vs Men](http://9gag.com/gag/aBnNR5z)
- - 🚯 [God dammit](http://9gag.com/gag/aM4N2BG)
- - 🚯 [Have you ever taken a power nap so strong, a human surprised you?](http://9gag.com/gag/aNP2rMv)<!-- MEMES:END -->
+ - 🚖 [Have you ever taken a power nap so strong, a human surprised you?](http://9gag.com/gag/aNP2rMv)
+ - 🚯 [It was enough though](http://9gag.com/gag/aVx1z1P)
+ - 🚯 [Are critics from another planet?](http://9gag.com/gag/aOQNK3M)<!-- MEMES:END -->
 
 --- 
 
