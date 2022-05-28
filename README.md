@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)
- - 🚯 [Pretty much ya](http://9gag.com/gag/axBApXY)
- - 🚯 [Life](http://9gag.com/gag/aYrdzYN)<!-- MEMES:END -->
+ - 🚖 [Wall 1 Pinkytoe 0](http://9gag.com/gag/a11xzGR)
+ - 🚯 [So far so good.](http://9gag.com/gag/aqGp4n7)
+ - 🚯 [The same with dev?](http://9gag.com/gag/a613r2e)<!-- MEMES:END -->
 
 --- 
 
