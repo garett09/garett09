@@ -199,8 +199,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Found my old 3310](http://9gag.com/gag/amgb004)
- - 🚯 [Me after completing exactly one task on my to-do list](http://9gag.com/gag/aWgN0p3)
- - 🚯 [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)<!-- MEMES:END -->
+ - 🚯 [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)
+ - 🚯 [True...](http://9gag.com/gag/amgbLdj)<!-- MEMES:END -->
 
 --- 
 
