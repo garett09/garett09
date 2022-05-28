@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you ever taken a power nap so strong, a human surprised you?](http://9gag.com/gag/aNP2rMv)
- - 🚯 [It was enough though](http://9gag.com/gag/aVx1z1P)
- - 🚯 [Are critics from another planet?](http://9gag.com/gag/aOQNK3M)<!-- MEMES:END -->
+ - 🚖 [It was enough though](http://9gag.com/gag/aVx1z1P)
+ - 🚯 [Are critics from another planet?](http://9gag.com/gag/aOQNK3M)
+ - 🚯 [On this day in 2016, an event marked the decline of the world... He shall not be forgotten!](http://9gag.com/gag/a31pPmr)<!-- MEMES:END -->
 
 --- 
 
