@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder](http://9gag.com/gag/arnrpwd)
- - 🚯 [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)
- - 🚯 [We may check if it is true or not soon. *popcorn* I don&#39;t take any grounds. I&#39;m curious.](http://9gag.com/gag/a91NdN6)<!-- MEMES:END -->
+ - 🚖 [Found my old 3310](http://9gag.com/gag/amgb004)
+ - 🚯 [Me after completing exactly one task on my to-do list](http://9gag.com/gag/aWgN0p3)
+ - 🚯 [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)<!-- MEMES:END -->
 
 --- 
 
