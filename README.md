@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not to sound like a Commie or anything but I hate how it costs money to live.](http://9gag.com/gag/axBApeb)
+ - 🚖 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)
  - 🚯 [Pretty much ya](http://9gag.com/gag/axBApXY)
- - 🚯 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)<!-- MEMES:END -->
+ - 🚯 [Life](http://9gag.com/gag/aYrdzYN)<!-- MEMES:END -->
 
 --- 
 
