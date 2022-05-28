@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 34 Best Memorial Day Deals on Tech, Gaming, Home, and More](https://www.wired.com/story/best-memorial-day-sales-2022-1)
- - [Wow. See How Much the Young &#39;Stranger Things&#39; Stars Have Grown Up     - CNET](https://www.cnet.com/culture/entertainment/wow-see-how-much-the-young-stranger-things-stars-have-grown-up/#ftag=CAD590a51e)
- - [Terra 2.0 Launch Planned Following Luna Meltdown. This Week&#39;s Top Bitcoin and Crypto News     - CNET](https://www.cnet.com/personal-finance/crypto/terra-2-0-launch-planned-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Top Gun: Maverick&#39; Review: Tom Cruise Sequel Is More Fun Than You&#39;d Expect     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-tom-cruise-sequel-more-fun-than-youd-expect/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39; Review: Gripping Star Wars Series Is a Force To Be Reckoned With     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-review-gripping-star-wars-series-force-to-be-reckoned-with/#ftag=CAD590a51e)
+ - [The new Ayn Loki handheld runs Windows and starts at $299](https://www.theverge.com/2022/5/28/23145658/ayn-loki-handheld-runs-windows-starts-299)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
