@@ -192,8 +192,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- TECH:START -->
  - [China&#39;s iQiyi, a streaming service majority-owned by Baidu and listed on the Nasdaq, reported its first quarterly profit, $26.7M in Q1, after cutting spending &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/220528/p1#a220528p1)
- - [&#39;Stranger Things&#39; Season 4: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
- - [Google, YouTube and Bing Rank Chinese State Media High for COVID, Xinjiang Info     - CNET](https://www.cnet.com/news/politics/google-youtube-and-bing-rank-chinese-state-media-high-for-covid-xinjiang-info/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Do Solar Panels Make Sense in the Midwest? What You Need to Know     - CNET](https://www.cnet.com/news/do-solar-panels-make-sense-in-the-midwest-what-you-need-to-know/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39; Season 4: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
