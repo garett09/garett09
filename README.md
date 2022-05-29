@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MagSafe accessories for iPhone 12 and iPhone 13 in 2022](https://appleinsider.com/articles/22/05/29/best-magsafe-accessories-for-iphone-12-and-iphone-13-in-2022?utm_medium=rss)
- - [Our picks for the 15 most anticipated summer 2022 TV shows on streaming](https://www.androidauthority.com/summer-2022-tv-shows-3168379/)
- - [8 Gardening and Plant-Based Video Games for Spring](https://www.wired.com/gallery/best-gardening-plant-video-games)<!-- TECH:END -->
+ - [Daily deals May 29: 50% off 65-inch Toshiba Smart TV, $359 Apple Watch Series 7, $95 HomeKit Smart Air Purifier, more](https://appleinsider.com/articles/22/05/29/daily-deals-may-29-50-off-65-inch-toshiba-smart-tv-359-apple-watch-series-7-95-homekit-smart-air-purifier-more?utm_medium=rss)
+ - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones)
+ - [Power Up Anywhere With Our Favorite Portable Chargers](https://www.wired.com/gallery/best-portable-chargers-power-banks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
