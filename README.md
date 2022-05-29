@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natural selection at work](http://9gag.com/gag/azeD8gN)
- - 🚯 [Fans literally just walking through a gate to scan their tickets and this happens? It makes no sense\u2026](http://9gag.com/gag/aPZdWWR)
- - 🚯 [Congratulation, you played yourself](http://9gag.com/gag/aZrVBez)<!-- MEMES:END -->
+ - 🚖 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
+ - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
+ - 🚯 [Ferrari strategy](http://9gag.com/gag/aegPYeW)<!-- MEMES:END -->
 
 --- 
 
