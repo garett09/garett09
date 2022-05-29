@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This trash cleaning boat](http://9gag.com/gag/ay9Vdd8)
- - 🚯 [Allergies suck](http://9gag.com/gag/a91N7ZZ)
- - 🚯 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)<!-- MEMES:END -->
+ - 🚖 [I would love to play it](http://9gag.com/gag/azeDAVp)
+ - 🚯 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
+ - 🚯 [I just want my shooters single player.](http://9gag.com/gag/a91N7DW)<!-- MEMES:END -->
 
 --- 
 
