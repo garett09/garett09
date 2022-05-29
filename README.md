@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Twitter Plans Would Mean Less Free Speech for Many](https://www.wired.com/story/elon-musk-free-speech-twitter-global-censorship)
- - [Become a Telegram Master With These 10 Tips and Tricks](https://www.wired.com/story/10-telegram-tips-tricks)
- - [Best Credit Cards With No Balance Transfer Fees for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-balance-transfer-fee-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MagSafe accessories for iPhone 12 and iPhone 13 in 2022](https://appleinsider.com/articles/22/05/29/best-magsafe-accessories-for-iphone-12-and-iphone-13-in-2022?utm_medium=rss)
+ - [Our picks for the 15 most anticipated summer 2022 TV shows on streaming](https://www.androidauthority.com/summer-2022-tv-shows-3168379/)
+ - [8 Gardening and Plant-Based Video Games for Spring](https://www.wired.com/gallery/best-gardening-plant-video-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
