@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saving a Trapped Wolf](http://9gag.com/gag/aGzN0e6)
- - 🚯 [How we start the summer in Norway.](http://9gag.com/gag/a91N75D)
- - 🚯 [I would love to play it](http://9gag.com/gag/azeDAVp)<!-- MEMES:END -->
+ - 🚖 [What are your lies you are telling to your kids?](http://9gag.com/gag/amgbzG4)
+ - 🚯 [ZAMUNDA](http://9gag.com/gag/aAGNwmR)
+ - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)<!-- MEMES:END -->
 
 --- 
 
