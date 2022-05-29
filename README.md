@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How pokemon fight would look like in real life](http://9gag.com/gag/angWBgn)
- - 🚯 [Designed and built my own bathroom in a house I&#39;m building. Many many hours later I&#39;m quite happy with the result! Thoughts?](http://9gag.com/gag/awzGb8B)
- - 🚯 [Stressaxing](http://9gag.com/gag/aLvNBR6)<!-- MEMES:END -->
+ - 🚖 [Stressaxing](http://9gag.com/gag/aLvNBR6)
+ - 🚯 [How pokemon fight would look like in real life](http://9gag.com/gag/angWBgn)
+ - 🚯 [MVP.](http://9gag.com/gag/axBnZep)<!-- MEMES:END -->
 
 --- 
 
