@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True...](http://9gag.com/gag/amgbLdj)
- - 🚯 [Found my old 3310](http://9gag.com/gag/amgb004)
- - 🚯 [How to draw your balls](http://9gag.com/gag/aVx1QXK)<!-- MEMES:END -->
+ - 🚖 [This simple trick will make every girl wet, guaranteed](http://9gag.com/gag/apgjoxD)
+ - 🚯 [Stressaxing](http://9gag.com/gag/aLvNBR6)
+ - 🚯 [Some small turbulences](http://9gag.com/gag/arnr4rX)<!-- MEMES:END -->
 
 --- 
 
