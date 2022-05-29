@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s next? Women not wearing makeup in nuclear wasteland?](http://9gag.com/gag/abgm65b)
- - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
- - 🚯 [Just a reminder of this masterpiece..](http://9gag.com/gag/aVx1DRn)<!-- MEMES:END -->
+ - 🚖 [Natural selection at work](http://9gag.com/gag/azeD8gN)
+ - 🚯 [Fans literally just walking through a gate to scan their tickets and this happens? It makes no sense\u2026](http://9gag.com/gag/aPZdWWR)
+ - 🚯 [Congratulation, you played yourself](http://9gag.com/gag/aZrVBez)<!-- MEMES:END -->
 
 --- 
 
