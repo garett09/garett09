@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Allergies suck](http://9gag.com/gag/a91N7ZZ)
- - 🚯 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
- - 🚯 [I just want my shooters single player.](http://9gag.com/gag/a91N7DW)<!-- MEMES:END -->
+ - 🚖 [Consequences of the Champions League final. Place de la Nation. Paris this morning.](http://9gag.com/gag/aqGp5AM)
+ - 🚯 [The perfect spot](http://9gag.com/gag/aGzNx2K)
+ - 🚯 [Balance resides in teeth](http://9gag.com/gag/aDDNGN9)<!-- MEMES:END -->
 
 --- 
 
