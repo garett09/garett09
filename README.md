@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
- - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
- - 🚯 [Ferrari strategy](http://9gag.com/gag/aegPYeW)<!-- MEMES:END -->
+ - 🚖 [Yup, well I do feel old](http://9gag.com/gag/aNP2Ap0)
+ - 🚯 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
+ - 🚯 [This cabinet mechanism](http://9gag.com/gag/aggZLX6)<!-- MEMES:END -->
 
 --- 
 
