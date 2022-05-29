@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This simple trick will make every girl wet, guaranteed](http://9gag.com/gag/apgjoxD)
- - 🚯 [Stressaxing](http://9gag.com/gag/aLvNBR6)
- - 🚯 [Some small turbulences](http://9gag.com/gag/arnr4rX)<!-- MEMES:END -->
+ - 🚖 [Just a reminder this scene exists](http://9gag.com/gag/aggZNGq)
+ - 🚯 [This is what happens when you block the tram in Sheffield](http://9gag.com/gag/aBnN3eA)
+ - 🚯 [MVP.](http://9gag.com/gag/axBnZep)<!-- MEMES:END -->
 
 --- 
 
