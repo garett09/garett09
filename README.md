@@ -198,8 +198,8 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that escalated at medium speed](http://9gag.com/gag/aWgN644)
- - 🚯 [Rock on!](http://9gag.com/gag/aM4NGrW)
+ - 🚖 [Rock on!](http://9gag.com/gag/aM4NGrW)
+ - 🚯 [Well, that escalated at medium speed](http://9gag.com/gag/aWgN644)
  - 🚯 [Loved having her around](http://9gag.com/gag/arnrKOy)<!-- MEMES:END -->
 
 --- 
