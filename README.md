@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rock on!](http://9gag.com/gag/aM4NGrW)
- - 🚯 [Well, that escalated at medium speed](http://9gag.com/gag/aWgN644)
- - 🚯 [Loved having her around](http://9gag.com/gag/arnrKOy)<!-- MEMES:END -->
+ - 🚖 [Courtney Love risking her career to expose Harvey Weinstein back in 2005](http://9gag.com/gag/a11qMpw)
+ - 🚯 [Loved having her around](http://9gag.com/gag/arnrKOy)
+ - 🚯 [Buy beach front property they said! It would be great they said!](http://9gag.com/gag/a0ZWYzL)<!-- MEMES:END -->
 
 --- 
 
