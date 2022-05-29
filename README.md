@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Consequences of the Champions League final. Place de la Nation. Paris this morning.](http://9gag.com/gag/aqGp5AM)
- - 🚯 [The perfect spot](http://9gag.com/gag/aGzNx2K)
- - 🚯 [Balance resides in teeth](http://9gag.com/gag/aDDNGN9)<!-- MEMES:END -->
+ - 🚖 [Monaco right now](http://9gag.com/gag/a11qXBG)
+ - 🚯 [Consequences of the Champions League final. Place de la Nation. Paris this morning.](http://9gag.com/gag/aqGp5AM)
+ - 🚯 [Ferrari strategy](http://9gag.com/gag/aegPYeW)<!-- MEMES:END -->
 
 --- 
 
