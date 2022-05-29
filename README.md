@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fact](http://9gag.com/gag/adg4pEj)
- - 🚯 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
- - 🚯 [Really sorry folks....](http://9gag.com/gag/a31pLAN)<!-- MEMES:END -->
+ - 🚖 [Well, that escalated at medium speed](http://9gag.com/gag/aWgN644)
+ - 🚯 [Rock on!](http://9gag.com/gag/aM4NGrW)
+ - 🚯 [Loved having her around](http://9gag.com/gag/arnrKOy)<!-- MEMES:END -->
 
 --- 
 
