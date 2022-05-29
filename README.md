@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here, have some 90&#39;s](http://9gag.com/gag/aE8N1pM)
- - 🚯 [Some small turbulences](http://9gag.com/gag/arnr4rX)
- - 🚯 [Fact](http://9gag.com/gag/adg4pEj)<!-- MEMES:END -->
+ - 🚖 [Fact](http://9gag.com/gag/adg4pEj)
+ - 🚯 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
+ - 🚯 [Really sorry folks....](http://9gag.com/gag/a31pLAN)<!-- MEMES:END -->
 
 --- 
 
