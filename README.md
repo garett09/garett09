@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are your lies you are telling to your kids?](http://9gag.com/gag/amgbzG4)
- - 🚯 [ZAMUNDA](http://9gag.com/gag/aAGNwmR)
- - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)<!-- MEMES:END -->
+ - 🚖 [What&#39;s next? Women not wearing makeup in nuclear wasteland?](http://9gag.com/gag/abgm65b)
+ - 🚯 [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
+ - 🚯 [Just a reminder of this masterpiece..](http://9gag.com/gag/aVx1DRn)<!-- MEMES:END -->
 
 --- 
 
