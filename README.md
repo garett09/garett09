@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bobo is my friend](http://9gag.com/gag/aRrN3BA)
- - 🚯 [Moose charges after Grizzly who killed one of its calfs yesterday at Many Glacier, Montana](http://9gag.com/gag/aDDNz5G)
- - 🚯 [Look at this...graph](http://9gag.com/gag/aOQNBXR)<!-- MEMES:END -->
+ - 🚖 [Old Gallery Memes #5](http://9gag.com/gag/arnrgwK)
+ - 🚯 [Works perfectly](http://9gag.com/gag/aPZdjRG)
+ - 🚯 [Perfectly Balanced... As all things should be](http://9gag.com/gag/aqGp7nj)<!-- MEMES:END -->
 
 --- 
 
