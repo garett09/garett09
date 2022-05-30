@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Softly](http://9gag.com/gag/angW9YL)
- - 🚯 [Times sure speeds up after 30](http://9gag.com/gag/aDDNxRx)
- - 🚯 [Do not bite the finger that fed you.](http://9gag.com/gag/aGzNZVX)<!-- MEMES:END -->
+ - 🚖 [I just hope for a reply](http://9gag.com/gag/aXrGxNg)
+ - 🚯 [Softly](http://9gag.com/gag/angW9YL)
+ - 🚯 [I can relate.](http://9gag.com/gag/aM4NjvX)<!-- MEMES:END -->
 
 --- 
 
