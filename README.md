@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers crossed](http://9gag.com/gag/aGzN1q7)
- - 🚯 [That&#39;s what I thought](http://9gag.com/gag/a31p7K1)
- - 🚯 [Ah yes the sex](http://9gag.com/gag/aVx1qpK)<!-- MEMES:END -->
+ - 🚖 [The Conch!](http://9gag.com/gag/avAX7WW)
+ - 🚯 [Mirror making: first part is reaction of silver nitrate and ammonia suspended in deionized water](http://9gag.com/gag/avAX7RO)
+ - 🚯 [Read this post here on 9gags, but this the unedited footage of that hero dad...sorry for the raw imagery.](http://9gag.com/gag/a41rG7w)<!-- MEMES:END -->
 
 --- 
 
