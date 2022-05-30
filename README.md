@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Use musical scales and magical melodies to solve puzzles in Sonority](https://www.pcgamer.com/use-musical-scales-and-magical-melodies-to-solve-puzzles-in-sonority)
  - [V Rising developers talk about the &#39;journey&#39; to full release](https://www.pcgamer.com/v-rising-developers-talk-about-the-journey-to-full-release)
- - [Valorant&#39;s &#39;consecutive map streaks&#39; problem is finally fixed, Riot says](https://www.pcgamer.com/valorants-consecutive-map-streaks-problem-is-finally-fixed-riot-says)
- - [15 Fantastic Hidden Gem Indie Games You&#39;ll Wishlist So Hard](https://kotaku.com/steam-pc-indie-games-demo-ice-hockey-incision-solara-bi-1848993820)<!-- GAME:END -->
+ - [Valorant&#39;s &#39;consecutive map streaks&#39; problem is finally fixed, Riot says](https://www.pcgamer.com/valorants-consecutive-map-streaks-problem-is-finally-fixed-riot-says)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
