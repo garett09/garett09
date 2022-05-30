@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old Gallery Memes #5](http://9gag.com/gag/arnrgwK)
- - 🚯 [Works perfectly](http://9gag.com/gag/aPZdjRG)
- - 🚯 [Perfectly Balanced... As all things should be](http://9gag.com/gag/aqGp7nj)<!-- MEMES:END -->
+ - 🚖 [Softly](http://9gag.com/gag/angW9YL)
+ - 🚯 [Times sure speeds up after 30](http://9gag.com/gag/aDDNxRx)
+ - 🚯 [Do not bite the finger that fed you.](http://9gag.com/gag/aGzNZVX)<!-- MEMES:END -->
 
 --- 
 
