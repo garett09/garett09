@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For $500, you can buy the Third Sister’s 6.5-foot double-bladed lightsaber](https://www.theverge.com/2022/5/29/23146694/double-bladed-lightsaber-costs-500-star-wars-obi-wan-third-sister-reva)
- - [As Terra blockchain reboots, freshly minted new LUNA tokens started trading on a number of exchanges and swiftly plummeted about 70% from the opening price &lpar;Sujith Somraaj/Decrypt&rpar;](http://www.techmeme.com/220529/p5#a220529p5)
- - [Memorial Day Sales 2022: Over 80 Must-Have Deals at Up to 80% Off     - CNET](https://www.cnet.com/news/memorial-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The latest AICO Act changes are carveouts for telcos and financial companies, and don&#39;t fix any problems with the bill, like a disguised content moderation ban &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220529/p6#a220529p6)
+ - [Why the Johnny Depp vs. Amber Heard Trial is Dominating TikTok and YouTube     - CNET](https://www.cnet.com/culture/why-the-johnny-depp-vs-amber-heard-trial-dominates-tiktok-and-youtube/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39;: When the Next Episodes Drop on Netflix     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-the-next-episodes-drop-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
