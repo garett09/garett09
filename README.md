@@ -200,7 +200,7 @@ Linux                    10 mins             ████░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [Read this post here on 9gags, but this the unedited footage of that hero dad...sorry for the raw imagery.](http://9gag.com/gag/a41rG7w)
  - 🚯 [50 Shades of Grey 4: Demoralized Homemaker](http://9gag.com/gag/abgmzxp)
- - 🚯 [Always does that](http://9gag.com/gag/a613VYm)<!-- MEMES:END -->
+ - 🚯 [Cried so much today that my eyes hurt. I planted some pretty flowers over his grave](http://9gag.com/gag/aqGpbxZ)<!-- MEMES:END -->
 
 --- 
 
