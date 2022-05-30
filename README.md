@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged Pixel 7 prototype hits eBay months ahead of the phone’s official release](https://www.theverge.com/2022/5/30/23147576/google-pixel-7-pro-prototype-ebay)
- - [Apple&#39;s latest iPad Pro is on sale from $699 &lpar;up to $210 off&rpar; with promo code](https://appleinsider.com/articles/22/05/30/apples-latest-ipad-pro-is-on-sale-from-699-up-to-210-off-with-promo-code?utm_medium=rss)
- - [Oddly enough, The Weather Channel makes for a pretty great streaming service](https://www.theverge.com/2022/5/30/23144935/weather-channel-streaming-service-app-personalization)<!-- TECH:END -->
+ - [How Do Your Own Research &lpar;DYOR&rpar; has spread throughout crypto and online conspiracy communities, signaling a rejection of authority and an appeal to join in &lpar;John Herrman/New York Times&rpar;](http://www.techmeme.com/220530/p16#a220530p16)
+ - [The Samsung Galaxy S3 is 10 years old now: A tale of a different time](https://www.androidauthority.com/samsung-galaxy-s3-flagship-birthday-3170841/)
+ - [Alleged Pixel 7 prototype hits eBay months ahead of the phone’s official release](https://www.theverge.com/2022/5/30/23147576/google-pixel-7-pro-prototype-ebay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
