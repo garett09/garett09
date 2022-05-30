@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Startup Wants You to Eat Ground-Up Chicken Bones](https://www.wired.com/story/chicken-ground-bone)
- - [This Punk Band Will Definitely Land in Your Spam Folder](https://www.wired.com/story/viagra-boys-name-spam)
- - [How to Fix the US Baby Formula Shortage](https://www.wired.com/story/baby-formula-crisis)<!-- TECH:END -->
+ - [A federal judge rules Cydia&#39;s antitrust lawsuit against Apple can proceed, rejecting Apple&#39;s claim that the allegations are outside the statute of limitations &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/220530/p8#a220530p8)
+ - [BMW&#39;s Slick E-Motorbike Is Scary Fast](https://www.wired.com/review/bmw-ce-04)
+ - [How to use iCloud Folder Sharing and replace Dropbox](https://appleinsider.com/articles/21/09/28/how-to-use-icloud-folder-sharing-and-replace-dropbox?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
