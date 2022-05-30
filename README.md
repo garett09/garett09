@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo says that TSMC&#39;s roadmap from 2021 suggests this year&#39;s iPhone &quot;A16&quot; chip will stick to a 5nm process and new Macs later this year will also have a 5nm CPU &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220530/p1#a220530p1)
- - [HTC is readying a ‘metaverse’ phone &lpar;Updated: Delayed&rpar;](https://www.androidauthority.com/htc-metaverse-phone-3125838/)
- - [AEW Double or Nothing 2022: Results, CM Punk Wins, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/aew-double-or-nothing-2022-results-cm-punk-wins-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spain-based CoverManager, which helps restaurants manage table reservations, raises &amp;euro;35M at a &amp;euro;150M valuation &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220530/p3#a220530p3)
+ - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)
+ - [Samsung Galaxy Z Fold 4 specs leak: An incremental upgrade?](https://www.androidauthority.com/samsung-galaxy-z-fold-4-specs-3169968/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
