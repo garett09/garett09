@@ -198,8 +198,8 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Decided to get my gf a little present. But somehow I triggerd it after wrapping it.](http://9gag.com/gag/arnropd)
- - 🚯 [Do not bite the finger that fed you.](http://9gag.com/gag/aGzNZVX)
+ - 🚖 [Sad life](http://9gag.com/gag/arnroed)
+ - 🚯 [Irish bouncer handling 2 drunks is very satisfying](http://9gag.com/gag/arnro8d)
  - 🚯 [I think we all do.](http://9gag.com/gag/adg4LWB)<!-- MEMES:END -->
 
 --- 
