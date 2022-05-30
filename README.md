@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad life](http://9gag.com/gag/arnroed)
- - 🚯 [Irish bouncer handling 2 drunks is very satisfying](http://9gag.com/gag/arnro8d)
- - 🚯 [I think we all do.](http://9gag.com/gag/adg4LWB)<!-- MEMES:END -->
+ - 🚖 [Art of War](http://9gag.com/gag/aBnNgVN)
+ - 🚯 [I see, I see..](http://9gag.com/gag/aM4NZyx)
+ - 🚯 [Sad life](http://9gag.com/gag/arnroed)<!-- MEMES:END -->
 
 --- 
 
