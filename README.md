@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You think Samsung flagships should only use Snapdragon power](https://www.androidauthority.com/samsung-flagships-snapdragon-processor-poll-results-3170607/)
- - [Spain-based CoverManager, which helps restaurants manage table reservations, raises &amp;euro;35M at a &amp;euro;150M valuation &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220530/p3#a220530p3)
- - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)<!-- TECH:END -->
+ - [How to block and disable ads in Google Messages](https://www.androidauthority.com/disable-ads-google-messages-3169991/)
+ - [How self-driving startups Wayve, Waabi, and Autobrains are using end-to-end AI learning, hoping to leapfrog market leaders like Cruise and Waymo &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p4#a220530p4)
+ - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
