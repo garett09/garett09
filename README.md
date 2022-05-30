@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 28 Best Outdoor Summer Deals From REI’s Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2022-2)
- - [Dubai-based ride sharing service Swvl plans to cut 32% of its workforce, or around 400 people, after going public via SPAC on April 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220530/p11#a220530p11)
- - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
+ - [Developers suspect that China has forced Gitee, the Chinese equivalent to GitHub, to censor open-source code, a move that harms trust and the quality of code &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p12#a220530p12)
+ - [Pitaka&#39;s new MagEZ Case Pro brings wireless charging to iPad mini 6](https://appleinsider.com/articles/22/05/30/pitakas-new-magez-case-pro-brings-wireless-charging-to-ipad-mini-6?utm_medium=rss)
+ - [MSR’s Hubba Hubba NX Tent Is Solid, but I Hate the Zippers](https://www.wired.com/review/msr-hubba-hubba-nx)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
