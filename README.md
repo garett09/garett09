@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers suspect that China has forced Gitee, the Chinese equivalent to GitHub, to censor open-source code, a move that harms trust and the quality of code &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p12#a220530p12)
- - [Pitaka&#39;s new MagEZ Case Pro brings wireless charging to iPad mini 6](https://appleinsider.com/articles/22/05/30/pitakas-new-magez-case-pro-brings-wireless-charging-to-ipad-mini-6?utm_medium=rss)
- - [MSR’s Hubba Hubba NX Tent Is Solid, but I Hate the Zippers](https://www.wired.com/review/msr-hubba-hubba-nx)<!-- TECH:END -->
+ - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar; this Memorial Day](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
+ - [The merging of Comixology and Kindle has created a hell I’d like to escape](https://www.theverge.com/2022/5/30/23140157/comixology-amazon-kindle-integration-terrible)
+ - [The defamation trial between Johnny Depp and Amber Heard has dominated TikTok, YouTube, and other platforms, often presenting Heard in a negative light &lpar;Amanda Hess/New York Times&rpar;](http://www.techmeme.com/220530/p13#a220530p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
