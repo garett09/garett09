@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest AICO Act changes are carveouts for telcos and financial companies, and don&#39;t fix any problems with the bill, like a disguised content moderation ban &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220529/p6#a220529p6)
- - [Why the Johnny Depp vs. Amber Heard Trial is Dominating TikTok and YouTube     - CNET](https://www.cnet.com/culture/why-the-johnny-depp-vs-amber-heard-trial-dominates-tiktok-and-youtube/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39;: When the Next Episodes Drop on Netflix     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-the-next-episodes-drop-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia-based Astro, which offers 15-minute grocery delivery, raises a $60M Series B led by Accel, Citius, and Tiger Global, bringing its total raised to $90M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220529/p8#a220529p8)
+ - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-see-tonight/#ftag=CAD590a51e)
+ - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
