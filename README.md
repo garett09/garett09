@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Conch!](http://9gag.com/gag/avAX7WW)
- - 🚯 [Mirror making: first part is reaction of silver nitrate and ammonia suspended in deionized water](http://9gag.com/gag/avAX7RO)
- - 🚯 [Read this post here on 9gags, but this the unedited footage of that hero dad...sorry for the raw imagery.](http://9gag.com/gag/a41rG7w)<!-- MEMES:END -->
+ - 🚖 [50 Shades of Grey 4: Demoralized Homemaker](http://9gag.com/gag/abgmzxp)
+ - 🚯 [AssFace Strikes Again](http://9gag.com/gag/a0ZWbqO)
+ - 🚯 [Finland is 2022 ice hockey world champion](http://9gag.com/gag/aqGpb6M)<!-- MEMES:END -->
 
 --- 
 
