@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to block and disable ads in Google Messages](https://www.androidauthority.com/disable-ads-google-messages-3169991/)
- - [How self-driving startups Wayve, Waabi, and Autobrains are using end-to-end AI learning, hoping to leapfrog market leaders like Cruise and Waymo &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p4#a220530p4)
- - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [This Startup Wants You to Eat Ground-Up Chicken Bones](https://www.wired.com/story/chicken-ground-bone)
+ - [This Punk Band Will Definitely Land in Your Spam Folder](https://www.wired.com/story/viagra-boys-name-spam)
+ - [How to Fix the US Baby Formula Shortage](https://www.wired.com/story/baby-formula-crisis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
