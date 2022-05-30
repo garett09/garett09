@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think we all do.](http://9gag.com/gag/adg4LWB)
- - 🚯 [Im 20 and still do this](http://9gag.com/gag/a31pQAe)
- - 🚯 [How to break this cycle?](http://9gag.com/gag/aWgN19q)<!-- MEMES:END -->
+ - 🚖 [Decided to get my gf a little present. But somehow I triggerd it after wrapping it.](http://9gag.com/gag/arnropd)
+ - 🚯 [Do not bite the finger that fed you.](http://9gag.com/gag/aGzNZVX)
+ - 🚯 [I think we all do.](http://9gag.com/gag/adg4LWB)<!-- MEMES:END -->
 
 --- 
 
