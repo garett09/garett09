@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
- - 🚯 [Sanna Marin](http://9gag.com/gag/adg47bN)
- - 🚯 [ZAMUNDA](http://9gag.com/gag/aAGNwmR)<!-- MEMES:END -->
+ - 🚖 [Fingers crossed](http://9gag.com/gag/aGzN1q7)
+ - 🚯 [That&#39;s what I thought](http://9gag.com/gag/a31p7K1)
+ - 🚯 [Ah yes the sex](http://9gag.com/gag/aVx1qpK)<!-- MEMES:END -->
 
 --- 
 
