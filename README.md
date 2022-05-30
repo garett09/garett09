@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everybody&#39;s upstairs neighbors reveal what they do up there](http://9gag.com/gag/apgjm39)
- - 🚯 [Softly](http://9gag.com/gag/angW9YL)
- - 🚯 [Im 20 and still do this](http://9gag.com/gag/a31pQAe)<!-- MEMES:END -->
+ - 🚖 [Old Gallery Memes #5](http://9gag.com/gag/arnrgwK)
+ - 🚯 [Im 20 and still do this](http://9gag.com/gag/a31pQAe)
+ - 🚯 [I see, I see..](http://9gag.com/gag/aM4NZyx)<!-- MEMES:END -->
 
 --- 
 
