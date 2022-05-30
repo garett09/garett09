@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old Gallery Memes #5](http://9gag.com/gag/arnrgwK)
+ - 🚖 [I think we all do.](http://9gag.com/gag/adg4LWB)
  - 🚯 [Im 20 and still do this](http://9gag.com/gag/a31pQAe)
- - 🚯 [I see, I see..](http://9gag.com/gag/aM4NZyx)<!-- MEMES:END -->
+ - 🚯 [How to break this cycle?](http://9gag.com/gag/aWgN19q)<!-- MEMES:END -->
 
 --- 
 
