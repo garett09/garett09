@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge rules Cydia&#39;s antitrust lawsuit against Apple can proceed, rejecting Apple&#39;s claim that the allegations are outside the statute of limitations &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/220530/p8#a220530p8)
- - [BMW&#39;s Slick E-Motorbike Is Scary Fast](https://www.wired.com/review/bmw-ce-04)
- - [How to use iCloud Folder Sharing and replace Dropbox](https://appleinsider.com/articles/21/09/28/how-to-use-icloud-folder-sharing-and-replace-dropbox?utm_medium=rss)<!-- TECH:END -->
+ - [The 28 Best Outdoor Summer Deals From REI’s Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2022-2)
+ - [Dubai-based ride sharing service Swvl plans to cut 32% of its workforce, or around 400 people, after going public via SPAC on April 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220530/p11#a220530p11)
+ - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
