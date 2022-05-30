@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yup, well I do feel old](http://9gag.com/gag/aNP2Ap0)
- - 🚯 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
- - 🚯 [`Starship Troopers` - 1997](http://9gag.com/gag/aqGprXj)<!-- MEMES:END -->
+ - 🚖 [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
+ - 🚯 [Sanna Marin](http://9gag.com/gag/adg47bN)
+ - 🚯 [ZAMUNDA](http://9gag.com/gag/aAGNwmR)<!-- MEMES:END -->
 
 --- 
 
