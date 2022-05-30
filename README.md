@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s a lot of damage](http://9gag.com/gag/aAGNDxE)
- - 🚯 [I just hope for a reply](http://9gag.com/gag/aXrGxNg)
- - 🚯 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)<!-- MEMES:END -->
+ - 🚖 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)
+ - 🚯 [Bobo is my friend](http://9gag.com/gag/aRrN3BA)
+ - 🚯 [Impressive](http://9gag.com/gag/axBn0QY)<!-- MEMES:END -->
 
 --- 
 
