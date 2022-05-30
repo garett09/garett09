@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just hope for a reply](http://9gag.com/gag/aXrGxNg)
+ - 🚖 [Everybody&#39;s upstairs neighbors reveal what they do up there](http://9gag.com/gag/apgjm39)
  - 🚯 [Softly](http://9gag.com/gag/angW9YL)
- - 🚯 [I can relate.](http://9gag.com/gag/aM4NjvX)<!-- MEMES:END -->
+ - 🚯 [Im 20 and still do this](http://9gag.com/gag/a31pQAe)<!-- MEMES:END -->
 
 --- 
 
