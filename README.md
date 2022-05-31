@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vendia, a blockchain-based multi-cloud enterprise data sharing service, raises a $30M Series B led by NewView Capital, bringing its total funding to $50M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220531/p9#a220531p9)
- - [Compared: Safari vs. Chrome vs. Firefox vs. Edge on macOS in 2022](https://appleinsider.com/inside/safari/vs/compared-safari-vs-chrome-vs-firefox-vs-edge-on-macos-in-2022?utm_medium=rss)
- - [The best Memorial Day deals you can still get](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
+ - [Sony’s XM4 noise-canceling headphones are almost $100 off at Woot](https://www.theverge.com/good-deals/2022/5/31/23148260/sony-wh-1000-xm4-noise-canceling-headphones-apple-magsafe-switch-sale)
+ - [A once-in-a-lifetime bird](https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research)
+ - [Fujifilm’s new X-H2S mirrorless camera is all about speed and video](https://www.theverge.com/2022/5/31/23143007/fujifilm-xh2s-xf150600-xf18120-xh2-price-specs-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
