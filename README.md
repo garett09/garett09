@@ -199,8 +199,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
- - 🚯 [Lol](http://9gag.com/gag/a7161WA)
- - 🚯 [Meanwhile in CanadaLand. For size perspective, that&#39;s a full size grizzly bear](http://9gag.com/gag/a41rE2m)<!-- MEMES:END -->
+ - 🚯 [Things change](http://9gag.com/gag/apgjNYE)
+ - 🚯 [I don&#39;t know why i suddenly thought of this scene,but i&#39;m glad i did. Great show,all 8 seasons of it.](http://9gag.com/gag/aXrGrPV)<!-- MEMES:END -->
 
 --- 
 
