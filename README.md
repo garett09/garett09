@@ -199,8 +199,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Boss level 100](http://9gag.com/gag/a81X721)
- - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)
- - 🚯 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
+ - 🚯 [A man jumps from a quad to catch an escaped bull &lpar;South of France&rpar;](http://9gag.com/gag/angWzdz)
+ - 🚯 [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)<!-- MEMES:END -->
 
 --- 
 
