@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blood oxygen monitors miss concerning COVID-19 symptoms more often in patients of color](https://www.theverge.com/2022/5/31/23148251/blood-oxygen-racial-bias-covid-treatment-pulse-oximeter)
- - [Razer’s Barracuda Pro is its latest do-it-all gaming headset](https://www.theverge.com/2022/5/31/23148364/razer-barracuda-pro-wireless-bluetooth-headset-headphones-specs-price)
- - [Dell&#39;s new 32-inch 4K Conferencing Monitor also has a 4K webcam](https://appleinsider.com/articles/22/05/31/dells-new-32-inch-4k-conferencing-monitor-also-has-a-4k-webcam?utm_medium=rss)<!-- TECH:END -->
+ - [7 MacBook Pro 14-inch, 16-inch models &lpar;including M1 Max configs&rpar; are in stock with free expedited delivery](https://appleinsider.com/articles/22/05/31/7-macbook-pro-14-inch-16-inch-models-including-m1-max-configs-are-in-stock-with-free-expedited-delivery?utm_medium=rss)
+ - [Affirm partners with Stripe to bring BNPL services to businesses that use Stripe, following Affirm&#39;s recent partnerships with Shopify, WooCommerce, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220531/p11#a220531p11)
+ - [Monument Valley’s puzzles will reach PC gamers on July 12th](https://www.theverge.com/2022/5/31/23148439/monument-valley-puzzle-game-pc-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
