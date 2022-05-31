@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal Won’t Launch In Some Countries Due To Loot Box Laws](https://kotaku.com/diablo-immortal-loot-boxes-crates-laws-release-belgium-1848996451)
- - [June Xbox Update – Reveal Secret Achievements Anywhere You Play on Xbox](https://news.xbox.com/en-us/2022/05/31/june-xbox-update/)
- - [Monument Valley is finally coming to PC](https://www.pcgamer.com/monument-valley-is-finally-coming-to-pc)<!-- GAME:END -->
+ - [First Manga Worker Union Forms Amid Alleged Union Busting](https://kotaku.com/seven-seas-entertainment-manga-union-united-workers-in-1848996599)
+ - [Experience Life on the Footplate with Spirit of Steam for Train Sim World 2](https://news.xbox.com/en-us/2022/05/31/experience-life-on-the-footplate-with-spirit-of-steam-for-train-sim-world-2/)
+ - [Two Ubisoft AAA titles highlight Xbox Game Pass in June](https://www.polygon.com/23148880/xbox-game-pass-june-2022-games-list-pc-cloud-android-ios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
