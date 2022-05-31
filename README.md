@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download music on Spotify](https://www.androidauthority.com/download-music-spotify-3076445/)
- - [Stranger Things Sent Kate Bush&#39;s &#39;Running Up That Hill&#39; to Number 1 on iTunes     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-sent-kate-bushs-running-up-that-hill-to-number-1-on-itunes/#ftag=CAD590a51e)
- - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)<!-- TECH:END -->
+ - [London-based Florence, a marketplace that connects vacant care home shifts to local nurses and carers looking for extra work in the UK, raises a $35M Series B &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220530/p17#a220530p17)
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-see-on-prime-video-tonight/#ftag=CAD590a51e)
+ - [How to create collaborative playlists on Spotify](https://www.androidauthority.com/make-collaborative-playlist-spotify-3075035/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
