@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pinocchio comes to life on Disney Plus this September](https://www.polygon.com/23148327/pinocchio-disney-plus-trailer-release-date)
- - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)
- - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Assassin’s Creed Origins, For Honor: Marching Fire Edition, and More](https://news.xbox.com/en-us/2022/05/31/game-pass-june-2022-announce/)
+ - [Hard West 2 blends strategy and style together seamlessly in a cowboy caper](https://www.polygon.com/23144371/hard-west-2-beta-steam-gameplay-characters-art-preview)
+ - [This summer&#39;s Future Games Show will be hosted by The Witcher 3&#39;s Geralt and Yennefer](https://www.pcgamer.com/this-junes-future-games-show-will-be-hosted-by-the-witcher-3s-geralt-and-yennefer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
