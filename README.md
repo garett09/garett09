@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF karl](http://9gag.com/gag/a21jKeO)
- - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)
- - 🚯 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
+ - 🚖 [Uploaded from GT 720M](http://9gag.com/gag/aAGNyNo)
+ - 🚯 [Kid learned something today](http://9gag.com/gag/a91Nq5Z)
+ - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)<!-- MEMES:END -->
 
 --- 
 
