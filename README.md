@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just turned 25 today. Still have no fcking Idea what to do with my life. Hope ya&#39;ll doing great guys.](http://9gag.com/gag/a716wX2)
- - 🚯 [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
- - 🚯 [Lettuce never forget the sacrifices of these brave men.](http://9gag.com/gag/aOQN79N)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a7161WA)
+ - 🚯 [Raka raka taka taka taka](http://9gag.com/gag/aogqMAn)
+ - 🚯 [This attitude needs to be more common](http://9gag.com/gag/amgbPMo)<!-- MEMES:END -->
 
 --- 
 
