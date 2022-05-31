@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Assassin’s Creed Origins, For Honor: Marching Fire Edition, and More](https://news.xbox.com/en-us/2022/05/31/game-pass-june-2022-announce/)
- - [Hard West 2 blends strategy and style together seamlessly in a cowboy caper](https://www.polygon.com/23144371/hard-west-2-beta-steam-gameplay-characters-art-preview)
- - [This summer&#39;s Future Games Show will be hosted by The Witcher 3&#39;s Geralt and Yennefer](https://www.pcgamer.com/this-junes-future-games-show-will-be-hosted-by-the-witcher-3s-geralt-and-yennefer)<!-- GAME:END -->
+ - [New Games with Gold for June 2022](https://news.xbox.com/en-us/2022/05/31/new-games-with-gold-for-june-2022/)
+ - [AMD&#39;s budget laptop chip might not be game-ready on its own](https://www.pcgamer.com/amds-budget-laptop-chip-might-not-be-game-ready-on-its-own)
+ - [Stranger Things finally makes room for girlhood nostalgia — kinda](https://www.polygon.com/stranger-things/23143112/stranger-things-girlhood-nostalgia-80s-essay-max-erica-season-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
