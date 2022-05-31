@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 MacBook Pro 14-inch, 16-inch models &lpar;including M1 Max configs&rpar; are in stock with free expedited delivery](https://appleinsider.com/articles/22/05/31/7-macbook-pro-14-inch-16-inch-models-including-m1-max-configs-are-in-stock-with-free-expedited-delivery?utm_medium=rss)
- - [Affirm partners with Stripe to bring BNPL services to businesses that use Stripe, following Affirm&#39;s recent partnerships with Shopify, WooCommerce, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220531/p11#a220531p11)
- - [Monument Valley’s puzzles will reach PC gamers on July 12th](https://www.theverge.com/2022/5/31/23148439/monument-valley-puzzle-game-pc-steam)<!-- TECH:END -->
+ - [Apple issues second developer beta of macOS Monterey 12.5](https://appleinsider.com/articles/22/05/31/apple-issues-second-developer-beta-of-macos-monterey-125?utm_medium=rss)
+ - [Apple seeds second developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/31/apple-seeds-second-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Leaked specs suggest Google’s second-gen Tensor could be significant step up](https://www.androidauthority.com/google-tensor-2-4nm-3171222/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
