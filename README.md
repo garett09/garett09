@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)
- - 🚯 [A man jumps from a quad to catch an escaped bull &lpar;South of France&rpar;](http://9gag.com/gag/angWzdz)
- - 🚯 [Australian influencers be like](http://9gag.com/gag/aGzNz27)<!-- MEMES:END -->
+ - 🚖 [Australian influencers be like](http://9gag.com/gag/aGzNz27)
+ - 🚯 [Kid learned something today](http://9gag.com/gag/a91Nq5Z)
+ - 🚯 [His sacrifice will be never forgotten](http://9gag.com/gag/a21j1v9)<!-- MEMES:END -->
 
 --- 
 
