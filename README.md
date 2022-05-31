@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Surface Laptop Go successor leaks via retailer](https://www.theverge.com/2022/5/31/23148178/microsoft-surface-laptop-go-2-korean-retailer-leak)
- - [How to use Samsung Expert RAW to up your photography game](https://www.androidauthority.com/how-to-use-samsung-expert-raw-3170310/)
- - [Best 4K TV Deals: $900 Off Samsung QLED, $330 Amazon Omni and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: Sony will begin mass producing its PSVR 2 headset in H2 2022 ahead of a possible launch in Q1 2023, depending on the state of flagship game titles &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220531/p4#a220531p4)
+ - [iRobot OS is the newest ‘brain’ for your Roomba](https://www.theverge.com/2022/5/31/23147761/irobot-os-intelligent-software-robot-vacuums)
+ - [Apple Maps tests updates in France, Monaco, New Zealand](https://appleinsider.com/articles/22/05/31/apple-maps-tests-updates-in-france-monaco-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
