@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`The world was my playground`](http://9gag.com/gag/angWz40)
- - 🚯 [Footage from the Mariana Trench. 10,792 meters &lpar;36,000 feet&rpar; below the ocean surface.](http://9gag.com/gag/a91NqA1)
- - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)<!-- MEMES:END -->
+ - 🚖 [Boss level 100](http://9gag.com/gag/a81X721)
+ - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)
+ - 🚯 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
 
 --- 
 
