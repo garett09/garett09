@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You guys get vacations?](http://9gag.com/gag/a21jMWE)
- - 🚯 [Say no more](http://9gag.com/gag/a41rnEw)
- - 🚯 [Staying safe](http://9gag.com/gag/ajgM7BG)<!-- MEMES:END -->
+ - 🚖 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
+ - 🚯 [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)
+ - 🚯 [Garda vs Garden](http://9gag.com/gag/aAGNQY9)<!-- MEMES:END -->
 
 --- 
 
