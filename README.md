@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Australian influencers be like](http://9gag.com/gag/aGzNz27)
+ - 🚖 [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
  - 🚯 [Lol](http://9gag.com/gag/a7161WA)
- - 🚯 [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)<!-- MEMES:END -->
+ - 🚯 [Meanwhile in CanadaLand. For size perspective, that&#39;s a full size grizzly bear](http://9gag.com/gag/a41rE2m)<!-- MEMES:END -->
 
 --- 
 
