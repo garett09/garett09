@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)
- - 🚯 [Citroen suspension](http://9gag.com/gag/ay9Vez8)
- - 🚯 [I see your Finnish prime minister and I raise you Jetsun Pema, the queen of Bhutan](http://9gag.com/gag/aZrVymn)<!-- MEMES:END -->
+ - 🚖 [Citroen suspension](http://9gag.com/gag/ay9Vez8)
+ - 🚯 [I see your Finnish prime minister and I raise you Jetsun Pema, the queen of Bhutan](http://9gag.com/gag/aZrVymn)
+ - 🚯 [Raka raka taka taka taka](http://9gag.com/gag/aogqMAn)<!-- MEMES:END -->
 
 --- 
 
