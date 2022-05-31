@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Australian influencers be like](http://9gag.com/gag/aGzNz27)
- - 🚯 [Kid learned something today](http://9gag.com/gag/a91Nq5Z)
- - 🚯 [His sacrifice will be never forgotten](http://9gag.com/gag/a21j1v9)<!-- MEMES:END -->
+ - 🚖 [Who could have known?!](http://9gag.com/gag/aqGpeVR)
+ - 🚯 [And that&#39;s a fact!](http://9gag.com/gag/aOQNx0v)
+ - 🚯 [What a happy song](http://9gag.com/gag/avAXAe5)<!-- MEMES:END -->
 
 --- 
 
