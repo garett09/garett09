@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Seemplicity, which simplifies enterprise security threat monitoring, raises a $26M Series A and $6M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220531/p7#a220531p7)
- - [The Murena One shows exactly how hard it is to de-Google your smartphone](https://www.theverge.com/2022/5/31/23144917/murena-one-smartphone-degoogle-android)
- - [Samsung Electronics says Vice Chairman Lee Jae-yong met with Intel CEO Patrick Gelsinger to discuss collaborating on semiconductors &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/220531/p6#a220531p6)<!-- TECH:END -->
+ - [Vendia, a blockchain-based multi-cloud enterprise data sharing service, raises a $30M Series B led by NewView Capital, bringing its total funding to $50M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220531/p9#a220531p9)
+ - [Compared: Safari vs. Chrome vs. Firefox vs. Edge on macOS in 2022](https://appleinsider.com/inside/safari/vs/compared-safari-vs-chrome-vs-firefox-vs-edge-on-macos-in-2022?utm_medium=rss)
+ - [The best Memorial Day deals you can still get](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
