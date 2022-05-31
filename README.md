@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aw. What an adorable floppy sea spider, would make great content for my friends at home.](http://9gag.com/gag/aYrnyK0)
- - 🚯 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)
- - 🚯 [Spiderman sense](http://9gag.com/gag/a11qRB2)<!-- MEMES:END -->
+ - 🚖 [This gave me chills](http://9gag.com/gag/aDDNd09)
+ - 🚯 [Spiderman sense](http://9gag.com/gag/a11qRB2)
+ - 🚯 [Been a year since I broke up with my ex. Can&#39;t remember how I even started texting her.](http://9gag.com/gag/aBnNgQx)<!-- MEMES:END -->
 
 --- 
 
