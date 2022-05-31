@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who could have known?!](http://9gag.com/gag/aqGpeVR)
- - 🚯 [And that&#39;s a fact!](http://9gag.com/gag/aOQNx0v)
- - 🚯 [What a happy song](http://9gag.com/gag/avAXAe5)<!-- MEMES:END -->
+ - 🚖 [WTF karl](http://9gag.com/gag/a21jKeO)
+ - 🚯 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)
+ - 🚯 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
 
 --- 
 
