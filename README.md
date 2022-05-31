@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s XM4 noise-canceling headphones are almost $100 off at Woot](https://www.theverge.com/good-deals/2022/5/31/23148260/sony-wh-1000-xm4-noise-canceling-headphones-apple-magsafe-switch-sale)
- - [A once-in-a-lifetime bird](https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research)
- - [Fujifilm’s new X-H2S mirrorless camera is all about speed and video](https://www.theverge.com/2022/5/31/23143007/fujifilm-xh2s-xf150600-xf18120-xh2-price-specs-availability)<!-- TECH:END -->
+ - [Blood oxygen monitors miss concerning COVID-19 symptoms more often in patients of color](https://www.theverge.com/2022/5/31/23148251/blood-oxygen-racial-bias-covid-treatment-pulse-oximeter)
+ - [Razer’s Barracuda Pro is its latest do-it-all gaming headset](https://www.theverge.com/2022/5/31/23148364/razer-barracuda-pro-wireless-bluetooth-headset-headphones-specs-price)
+ - [Dell&#39;s new 32-inch 4K Conferencing Monitor also has a 4K webcam](https://appleinsider.com/articles/22/05/31/dells-new-32-inch-4k-conferencing-monitor-also-has-a-4k-webcam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
