@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This gave me chills](http://9gag.com/gag/aDDNd09)
- - 🚯 [Spiderman sense](http://9gag.com/gag/a11qRB2)
- - 🚯 [Been a year since I broke up with my ex. Can&#39;t remember how I even started texting her.](http://9gag.com/gag/aBnNgQx)<!-- MEMES:END -->
+ - 🚖 [1910, Antarctica. This photo was taken by the British Terra Nova Expedition, before their entire Polar team would die on the way back from the South Pole to their ship](http://9gag.com/gag/aqGpjrM)
+ - 🚯 [This gave me chills](http://9gag.com/gag/aDDNd09)
+ - 🚯 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)<!-- MEMES:END -->
 
 --- 
 
