@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [0 Damage](http://9gag.com/gag/aDDNYw7)
- - 🚯 [Big ooooffff](http://9gag.com/gag/aegPgqW)
- - 🚯 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)<!-- MEMES:END -->
+ - 🚖 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)
+ - 🚯 [A man jumps from a quad to catch an escaped bull &lpar;South of France&rpar;](http://9gag.com/gag/angWzdz)
+ - 🚯 [Australian influencers be like](http://9gag.com/gag/aGzNz27)<!-- MEMES:END -->
 
 --- 
 
