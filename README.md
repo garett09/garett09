@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)
- - [&#39;Obi-Wan Kenobi&#39; Episode 1 and 2 Recap: Easter Eggs You Might Have Missed     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-1-and-2-recap-easter-eggs-you-might-have-missed/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: When does Episode 3 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-3-drop-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to download music on Spotify](https://www.androidauthority.com/download-music-spotify-3076445/)
+ - [Stranger Things Sent Kate Bush&#39;s &#39;Running Up That Hill&#39; to Number 1 on iTunes     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-sent-kate-bushs-running-up-that-hill-to-number-1-on-itunes/#ftag=CAD590a51e)
+ - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
