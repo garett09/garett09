@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Sony will begin mass producing its PSVR 2 headset in H2 2022 ahead of a possible launch in Q1 2023, depending on the state of flagship game titles &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220531/p4#a220531p4)
- - [iRobot OS is the newest ‘brain’ for your Roomba](https://www.theverge.com/2022/5/31/23147761/irobot-os-intelligent-software-robot-vacuums)
- - [Apple Maps tests updates in France, Monaco, New Zealand](https://appleinsider.com/articles/22/05/31/apple-maps-tests-updates-in-france-monaco-new-zealand?utm_medium=rss)<!-- TECH:END -->
+ - [Israel-based Seemplicity, which simplifies enterprise security threat monitoring, raises a $26M Series A and $6M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220531/p7#a220531p7)
+ - [The Murena One shows exactly how hard it is to de-Google your smartphone](https://www.theverge.com/2022/5/31/23144917/murena-one-smartphone-degoogle-android)
+ - [Samsung Electronics says Vice Chairman Lee Jae-yong met with Intel CEO Patrick Gelsinger to discuss collaborating on semiconductors &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/220531/p6#a220531p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
