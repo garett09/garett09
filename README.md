@@ -192,8 +192,8 @@ Linux                    10 mins             ████░░░░░░░�
 
 <!-- TECH:START -->
  - [London-based Florence, a marketplace that connects vacant care home shifts to local nurses and carers looking for extra work in the UK, raises a $35M Series B &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220530/p17#a220530p17)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-see-on-prime-video-tonight/#ftag=CAD590a51e)
- - [How to create collaborative playlists on Spotify](https://www.androidauthority.com/make-collaborative-playlist-spotify-3075035/)<!-- TECH:END -->
+ - [Astronomers Unexpectedly Capture &#39;Great Dimming&#39; of Supergiant Star Betelgeuse     - CNET](https://www.cnet.com/science/space/astronomers-unexpectedly-capture-great-dimming-of-supergiant-star-betelgeuse/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-see-on-prime-video-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
