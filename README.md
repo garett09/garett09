@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Latest Sims 4 Update Tries To Reckon With Its History Of Whitewashing](https://kotaku.com/sims-4-bella-goth-family-may-update-whitewashing-skin-c-1848996001)
- - [Destiny 2: Season of the Haunted Begins](https://news.xbox.com/en-us/2022/05/31/destiny-2-season-of-the-haunted-begins/)
- - [The Best Assassin’s Creed Game Is Coming To Game Pass](https://kotaku.com/xbox-game-pass-june-2022-lineup-assassins-creed-origins-1848996042)<!-- GAME:END -->
+ - [Diablo Immortal Won’t Launch In Some Countries Due To Loot Box Laws](https://kotaku.com/diablo-immortal-loot-boxes-crates-laws-release-belgium-1848996451)
+ - [June Xbox Update – Reveal Secret Achievements Anywhere You Play on Xbox](https://news.xbox.com/en-us/2022/05/31/june-xbox-update/)
+ - [Monument Valley is finally coming to PC](https://www.pcgamer.com/monument-valley-is-finally-coming-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
