@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How iOS customization has evolved over time](https://appleinsider.com/articles/22/05/31/how-ios-customization-has-evolved-over-time?utm_medium=rss)
- - [The US has fallen way behind on climate goals](https://www.theverge.com/2022/5/31/23148540/us-behind-climate-change-goals-global-ranking)
- - [After Uvalde, social media monitoring apps struggle to justify surveillance](https://www.theverge.com/2022/5/31/23148541/digital-surveillance-school-shootings-social-sentinel-uvalde)<!-- TECH:END -->
+ - [Nomad’s leather Siri Remote case comes with a discreet AirTag pocket](https://www.theverge.com/2022/5/31/23148266/siri-remote-case-leather-airtag-pocket-nomad-apple-tv)
+ - [Menlo Microsystems, which aims to make circuit breakers and electrical switches far more efficient, raises $150M, bringing its total raised to $225M &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220531/p14#a220531p14)
+ - [Get a SanDisk USB stick with USB-C and Lightning at its lowest-ever price](https://www.androidauthority.com/sandisk-deal-ixpand-may-2022-3171322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
