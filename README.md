@@ -184,9 +184,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [France bans English gamer slang in favour of much wordier French alternatives](https://www.pcgamer.com/france-bans-english-gamer-slang-in-favour-of-much-wordier-french-alternatives)
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
- - [Modder brings Super Mario 64&#39;s timeless platforming to Garry&#39;s Mod](https://www.pcgamer.com/modder-brings-super-mario-64s-timeless-platforming-to-garrys-mod)<!-- GAME:END -->
+ - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)
+ - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)
+ - [The best builds for Yelan in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-yelan-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
