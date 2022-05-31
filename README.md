@@ -191,9 +191,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 4 having issues because of Google Assistant? Here’s what you can do](https://www.androidauthority.com/samsung-galaxy-watch-4-google-assistant-issues-fix-3171069/)
- - [How musicians like Weezer frontman Rivers Cuomo use Discord: artists share ideas, host parties, and engage with fans, who help with moderation and other tasks &lpar;Cat Zhang/Pitchfork&rpar;](http://www.techmeme.com/220531/p1#a220531p1)
- - [OnePlus Nord 2 makes the cut for stable Android 12](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)<!-- TECH:END -->
+ - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
+ - [You told us: You don’t compromise quality with Google Photos backups](https://www.androidauthority.com/google-photos-backups-quality-poll-results-3171075/)
+ - [Galaxy Watch 4 having issues because of Google Assistant? Here’s what you can do](https://www.androidauthority.com/samsung-galaxy-watch-4-google-assistant-issues-fix-3171069/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
