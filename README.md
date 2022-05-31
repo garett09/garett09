@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1910, Antarctica. This photo was taken by the British Terra Nova Expedition, before their entire Polar team would die on the way back from the South Pole to their ship](http://9gag.com/gag/aqGpjrM)
- - 🚯 [This gave me chills](http://9gag.com/gag/aDDNd09)
- - 🚯 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)<!-- MEMES:END -->
+ - 🚖 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)
+ - 🚯 [Citroen suspension](http://9gag.com/gag/ay9Vez8)
+ - 🚯 [I see your Finnish prime minister and I raise you Jetsun Pema, the queen of Bhutan](http://9gag.com/gag/aZrVymn)<!-- MEMES:END -->
 
 --- 
 
