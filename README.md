@@ -198,9 +198,9 @@ Linux                    10 mins             ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy again\u2026](http://9gag.com/gag/aggZgZr)
- - 🚯 [I don&#39;t know why i suddenly thought of this scene,but i&#39;m glad i did. Great show,all 8 seasons of it.](http://9gag.com/gag/aXrGrPV)
- - 🚯 [0 Damage](http://9gag.com/gag/aDDNYw7)<!-- MEMES:END -->
+ - 🚖 [0 Damage](http://9gag.com/gag/aDDNYw7)
+ - 🚯 [Big ooooffff](http://9gag.com/gag/aegPgqW)
+ - 🚯 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)<!-- MEMES:END -->
 
 --- 
 
