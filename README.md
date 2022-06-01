@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Joshua Williamson killed the Justice League to make a point about how many times the Justice League has been killed](https://www.polygon.com/23068687/justice-league-death-dc-comics-dark-crisis)
- - [Sonic Frontiers gameplay shows a strangely empty open world](https://www.polygon.com/23150275/sonic-frontiers-sega-new-gameplay-footage-open-world)
- - [Tell Me Why is free on Xbox and Steam for Pride Month](https://www.polygon.com/23150308/tell-me-why-dontnod-entertainment-xbox-publishing-free-june-pride-month)<!-- GAME:END -->
+ - [V Rising, As Told By Steam Reviews](https://kotaku.com/v-rising-stunlock-studios-vampire-survival-rpg-steam-re-1849002923)
+ - [This free horror game is about the sheer terror of turning off the lights before bed](https://www.pcgamer.com/this-free-horror-game-is-about-the-sheer-terror-of-turning-off-the-lights-before-bed)
+ - [Is Bloodborne coming to PC?](https://www.pcgamer.com/bloodborne-pc-rumor-remastered)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
