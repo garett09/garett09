@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon fans are going wild for Smoliv, the darndest little guy](https://www.polygon.com/23150011/pokemon-violet-scarlet-smoliv-memes-fan-art-gen-9)
- - [Kingdom Hearts co-creator Shinji Hashimoto retires after 28 years with Square Enix](https://www.pcgamer.com/kingdom-hearts-co-creator-shinji-hashimoto-retires-after-28-years-with-square-enix)
- - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/23141321/new-netflix-movies-tv-shows-watch-june-2022)<!-- GAME:END -->
+ - [The new Total War: Warhammer 3 Immortal Empires trailer shows off dream alliances](https://www.polygon.com/23148447/total-war-warhammer-3-immortal-empires-open-beta-release-date-sign-up-trailer)
+ - [Warhammer 40K: Darktide’s new trailer introduces our unlikely heroes](https://www.polygon.com/23148456/warhammer-40k-darktide-story-reveal-trailer-skulls-convention)
+ - [How To Chip Away At A Massive Games Backlog](https://kotaku.com/how-to-chip-away-at-a-massive-games-backlog-1845794480)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
