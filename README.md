@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay?!](http://9gag.com/gag/aBnNLjQ)
- - 🚯 [Teacher checks students for starting a fight in class](http://9gag.com/gag/abgmOvO)
+ - 🚖 [The Joke is now real.](http://9gag.com/gag/aBnNV9Z)
+ - 🚯 [Real serial killers and actors in Mindhunter](http://9gag.com/gag/axBnvOY)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
