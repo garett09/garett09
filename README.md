@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [V Rising, As Told By Steam Reviews](https://kotaku.com/v-rising-stunlock-studios-vampire-survival-rpg-steam-re-1849002923)
- - [This free horror game is about the sheer terror of turning off the lights before bed](https://www.pcgamer.com/this-free-horror-game-is-about-the-sheer-terror-of-turning-off-the-lights-before-bed)
- - [Is Bloodborne coming to PC?](https://www.pcgamer.com/bloodborne-pc-rumor-remastered)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in June](https://www.polygon.com/23138768/disney-plus-new-movies-tv-watch-june-2022)
+ - [PC game collecting community rocked by game forgery scandal](https://www.pcgamer.com/pc-game-collecting-community-rocked-by-game-forgery-scandal)
+ - [Elden Ring Randomizer Turns It Into A Whole New Game](https://kotaku.com/elden-ring-randomizer-mod-malenia-moonveil-fromsoft-1849003557)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
