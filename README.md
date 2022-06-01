@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
- - 🚯 [Uploaded from GT 720M](http://9gag.com/gag/aAGNyNo)
- - 🚯 [Staying safe](http://9gag.com/gag/ajgM7BG)<!-- MEMES:END -->
+ - 🚖 [Subrim](http://9gag.com/gag/ajgMP4q)
+ - 🚯 [Say no more](http://9gag.com/gag/a41rnEw)
+ - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
 
