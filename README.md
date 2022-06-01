@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Tab S8 is at its lowest price ever right now for both storage options](https://www.androidauthority.com/samsung-galaxy-tab-s8-deal-june-2022-3171786/)
- - [Twitter’s reportedly shifting teams away from Spaces, newsletters, and communities](https://www.theverge.com/2022/6/1/23150290/twitter-product-features-audio-newsletter-communities-jay-sullivan)
- - [Hepatitis A Outbreak: What&#39;s the Link to Strawberries?     - CNET](https://www.cnet.com/health/nutrition/hepatitis-a-outbreak-whats-the-link-to-strawberries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canon wireless printers are getting stuck in reboot loops, but there may be a way for you to fix it](https://www.theverge.com/2022/6/1/23150498/canon-pixma-printer-reboot-loop-mx492-solution)
+ - [How to track your Amazon package](https://www.androidauthority.com/track-amazon-package-3171773/)
+ - [The Best Office Chairs, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-office-chairs-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
