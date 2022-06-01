@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least in Eastern Europe](http://9gag.com/gag/aGzN8WK)
- - 🚯 [Technology is a useful servant but a dangerous master](http://9gag.com/gag/aBnNPnP)
+ - 🚖 [I chose a mildly adjusted version of my own name](http://9gag.com/gag/aGzNBMK)
+ - 🚯 [So hot right now](http://9gag.com/gag/aE8NoPK)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
