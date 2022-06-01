@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great](http://9gag.com/gag/aogq4Rx)
- - 🚯 [The Amazing Fertilization Process](http://9gag.com/gag/ajgML51)
+ - 🚖 [The Amazing Fertilization Process](http://9gag.com/gag/ajgML51)
+ - 🚯 [Design award](http://9gag.com/gag/aWgNoB4)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
