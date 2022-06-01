@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
- - 🚯 [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)
- - 🚯 [Garda vs Garden](http://9gag.com/gag/aAGNQY9)<!-- MEMES:END -->
+ - 🚯 [Uploaded from GT 720M](http://9gag.com/gag/aAGNyNo)
+ - 🚯 [Staying safe](http://9gag.com/gag/ajgM7BG)<!-- MEMES:END -->
 
 --- 
 
