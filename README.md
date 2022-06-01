@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta COO Sheryl Sandberg is stepping down after 14 years](https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years)
- - [HPE reports Q2 revenue of $6.7B, nearly flat YoY, Compute revenue of $2.99B, also nearly flat, and order growth of 20% YoY; stock falls ~5% after hours &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/220601/p29#a220601p29)
- - [NASA outsources development of Moon spacesuit to two private companies](https://www.theverge.com/2022/6/1/23149903/nasa-artemis-moon-spacesuits-design-axiom-space-collins-aerospace)<!-- TECH:END -->
+ - [Dove Metrics: VC funding for crypto projects fell 38% from $6.8B in April to $4.2B in May; blockchain infrastructure received 21% of funds, DAOs only got 2% &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220601/p30#a220601p30)
+ - [Sheryl Sandberg on leaving Meta](https://www.theverge.com/2022/6/1/23150749/sheryl-sandberg-interview-stepping-down-meta-facebook-coo)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
