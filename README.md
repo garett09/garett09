@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon GO Is Down, Weep And Gnash Teeth](https://kotaku.com/pokemon-go-mobile-app-niantic-nintendo-servers-down-log-1848999987)
- - [What is the Iron Banner daily challenge in Destiny 2?](https://www.pcgamer.com/destiny-2-iron-banner-daily-challenge)
- - [Today&#39;s Wordle answer #347: Wednesday, June 1](https://www.pcgamer.com/wordle-june-1-347-creak-meaning-definition)<!-- GAME:END -->
+ - [Crypto-hackers are holding the Costa Rican healthcare system to ransom for $5B in bitcoin](https://www.pcgamer.com/crypto-hackers-are-holding-the-costa-rican-healthcare-system-to-ransom-for-dollar5b-in-bitcoin)
+ - [World of Warcraft wants you to promise you&#39;ll be nice to people](https://www.pcgamer.com/world-of-warcraft-wants-you-to-promise-youll-be-nice-to-people)
+ - [How to get to the Divine Tower of East Altus in Elden Ring](https://www.pcgamer.com/elden-ring-east-altus-divine-tower)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
