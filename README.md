@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All hail Lechonk, Pokémon Scarlet and Violet’s new round king](https://www.polygon.com/23149951/pokemon-scarlet-and-violet-lechonk-memes)
- - [Fruits Basket: Prelude will hit theaters in America this summer](https://www.polygon.com/23149122/fruits-basket-prelude-movie-new-trailer-theatrical-release-stateside)
- - [Celebrating Double Dragon’s 35th Anniversary](https://blog.playstation.com/2022/06/01/celebrating-double-dragons-35th-anniversary/)<!-- GAME:END -->
+ - [Pokémon fans are going wild for Smoliv, the darndest little guy](https://www.polygon.com/23150011/pokemon-violet-scarlet-smoliv-memes-fan-art-gen-9)
+ - [Kingdom Hearts co-creator Shinji Hashimoto retires after 28 years with Square Enix](https://www.pcgamer.com/kingdom-hearts-co-creator-shinji-hashimoto-retires-after-28-years-with-square-enix)
+ - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/23141321/new-netflix-movies-tv-shows-watch-june-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
