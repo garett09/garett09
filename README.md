@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI says it received intelligence about a planned cyberattack by Iran-backed hackers on the Boston Children&#39;s Hospital and was able to thwart it &lpar;Associated Press&rpar;](http://www.techmeme.com/220601/p26#a220601p26)
- - [Our Flag Means Death is setting sail for a heartbreaking season 2](https://www.theverge.com/2022/6/1/23150328/our-flag-means-death-season-2)
- - [China-linked hackers are exploiting a new vulnerability in Microsoft Office](https://www.theverge.com/2022/6/1/23150318/microsoft-office-china-hackers-exploiting-follina-vulnerability-tibet)<!-- TECH:END -->
+ - [Galaxy Tab S8 is at its lowest price ever right now for both storage options](https://www.androidauthority.com/samsung-galaxy-tab-s8-deal-june-2022-3171786/)
+ - [Twitter’s reportedly shifting teams away from Spaces, newsletters, and communities](https://www.theverge.com/2022/6/1/23150290/twitter-product-features-audio-newsletter-communities-jay-sullivan)
+ - [Hepatitis A Outbreak: What&#39;s the Link to Strawberries?     - CNET](https://www.cnet.com/health/nutrition/hepatitis-a-outbreak-whats-the-link-to-strawberries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
