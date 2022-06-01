@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Subrim](http://9gag.com/gag/ajgMP4q)
- - 🚯 [Say no more](http://9gag.com/gag/a41rnEw)
+ - 🚖 [Never happens](http://9gag.com/gag/amgb1Z6)
+ - 🚯 [Blue fairy](http://9gag.com/gag/aqGpX8P)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
