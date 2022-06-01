@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon wireless printers are getting stuck in reboot loops, but there may be a way for you to fix it](https://www.theverge.com/2022/6/1/23150498/canon-pixma-printer-reboot-loop-mx492-solution)
- - [How to track your Amazon package](https://www.androidauthority.com/track-amazon-package-3171773/)
- - [The Best Office Chairs, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-office-chairs-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta COO Sheryl Sandberg is stepping down after 14 years](https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years)
+ - [HPE reports Q2 revenue of $6.7B, nearly flat YoY, Compute revenue of $2.99B, also nearly flat, and order growth of 20% YoY; stock falls ~5% after hours &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/220601/p29#a220601p29)
+ - [NASA outsources development of Moon spacesuit to two private companies](https://www.theverge.com/2022/6/1/23149903/nasa-artemis-moon-spacesuits-design-axiom-space-collins-aerospace)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
