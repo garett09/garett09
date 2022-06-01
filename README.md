@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The new pinocchio is such a joke](http://9gag.com/gag/avAX6XZ)
- - 🚯 [Feel like being watched](http://9gag.com/gag/aOQN4Gy)
+ - 🚯 [I heared they want to ban english gamer slang?](http://9gag.com/gag/aVx1EnO)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
