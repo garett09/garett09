@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in a first, Apple will move some iPad production from China to Vietnam, after Shanghai&#39;s lockdowns disrupted production for months &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220601/p9#a220601p9)
- - [Apple moves iPad production to Vietnam to beat supply problems](https://appleinsider.com/articles/22/06/01/apple-moves-ipad-production-to-vietnam-to-beat-supply-problems?utm_medium=rss)
- - [Madrid-based Odilo, which helps organizations build e-learning offerings, raises &amp;euro;60M led by Bregal Milestone and says it passed 8,500 clients and 170M users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220601/p8#a220601p8)<!-- TECH:END -->
+ - [Elon Musk reportedly declares remote work ‘no longer acceptable’ at Tesla](https://www.theverge.com/2022/6/1/23149784/elon-musk-tesla-remote-work-leaked-email-40-hours)
+ - [Mac delays, iPod&#39;s demise, and Musk hesitates over Twitter - Apple&#39;s May 2022 in review](https://appleinsider.com/articles/22/06/01/mac-delays-ipods-demise-and-musk-hesitates-over-twitter---apples-may-2022-in-review?utm_medium=rss)
+ - [The Trendy, Spendy Future of Tech-Enabled Indoor Farming](https://www.wired.com/story/indoor-farming-vertical-farming-freight-farms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
