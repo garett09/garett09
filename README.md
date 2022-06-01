@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never happens](http://9gag.com/gag/amgb1Z6)
- - 🚯 [Blue fairy](http://9gag.com/gag/aqGpX8P)
+ - 🚖 [Doggo used bash!](http://9gag.com/gag/aAGN6oZ)
+ - 🚯 [It is my dude](http://9gag.com/gag/aZrVw0W)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
