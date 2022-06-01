@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Production Mercedes-AMG One Is Finally Ready With 1,049-HP F1 Engine     - CNET](https://www.cnet.com/roadshow/news/mercedes-amg-one-production-hypercar-formula-1-debut/#ftag=CAD590a51e)
- - [Mercedes-AMG One Hypercar Is a Beautiful Catfish With an F1 Engine     - CNET](https://www.cnet.com/roadshow/pictures/mercedes-amg-one-production-hypercar/#ftag=CAD590a51e)
- - [Safari now has an estimated 1B+ users, making it the second browser to pass the milestone, behind Chrome&#39;s 3.37B+, but ahead of Edge&#39;s 212M+ and Firefox&#39;s 179M+ &lpar;Atlas VPN&rpar;](http://www.techmeme.com/220531/p21#a220531p21)<!-- TECH:END -->
+ - [How to find &lpar;and change&rpar; your Twitch stream key](https://www.androidauthority.com/find-change-twitch-stream-key-3169867/)
+ - [Podcasts hosted on Spotify-owned Megaphone were unavailable for over eight hours on Monday night and early Tuesday morning due to an expired SSL certificate &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/220531/p23#a220531p23)
+ - [Garmin announces the Forerunner 255 and Forerunner 955 Solar](https://www.androidauthority.com/garmin-forerunner-255-955-solar-3169396/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
