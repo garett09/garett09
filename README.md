@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4 specs leak: A few welcome upgrades, but is it enough?](https://www.androidauthority.com/galaxy-z-flip-4-specs-3171564/)
- - [The best Cricket Wireless deals: Free phones, HBO Max, and more](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Volvo will use Epic’s Unreal Engine to create ‘photorealistic’ graphics in its electric cars](https://www.theverge.com/2022/6/1/23144461/volvo-epic-unreal-engine-hmi-human-machine-interface-partnership)<!-- TECH:END -->
+ - [Sources: in a first, Apple will move some iPad production from China to Vietnam, after Shanghai&#39;s lockdowns disrupted production for months &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220601/p9#a220601p9)
+ - [Apple moves iPad production to Vietnam to beat supply problems](https://appleinsider.com/articles/22/06/01/apple-moves-ipad-production-to-vietnam-to-beat-supply-problems?utm_medium=rss)
+ - [Madrid-based Odilo, which helps organizations build e-learning offerings, raises &amp;euro;60M led by Bregal Milestone and says it passed 8,500 clients and 170M users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220601/p8#a220601p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
