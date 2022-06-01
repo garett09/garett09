@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Total War: Warhammer 3 Immortal Empires trailer shows off dream alliances](https://www.polygon.com/23148447/total-war-warhammer-3-immortal-empires-open-beta-release-date-sign-up-trailer)
- - [Warhammer 40K: Darktide’s new trailer introduces our unlikely heroes](https://www.polygon.com/23148456/warhammer-40k-darktide-story-reveal-trailer-skulls-convention)
- - [How To Chip Away At A Massive Games Backlog](https://kotaku.com/how-to-chip-away-at-a-massive-games-backlog-1845794480)<!-- GAME:END -->
+ - [Joshua Williamson killed the Justice League to make a point about how many times the Justice League has been killed](https://www.polygon.com/23068687/justice-league-death-dc-comics-dark-crisis)
+ - [Sonic Frontiers gameplay shows a strangely empty open world](https://www.polygon.com/23150275/sonic-frontiers-sega-new-gameplay-footage-open-world)
+ - [Tell Me Why is free on Xbox and Steam for Pride Month](https://www.polygon.com/23150308/tell-me-why-dontnod-entertainment-xbox-publishing-free-june-pride-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
