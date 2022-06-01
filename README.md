@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A group of 26 leading computer experts urge US lawmakers to resist crypto lobbying efforts, calling crypto financial instruments &quot;risky, flawed, and unproven&quot; &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220601/p5#a220601p5)
- - [Porsche strengthens ties with electric supercar startup Rimac in new funding round](https://www.theverge.com/2022/6/1/23148698/porsche-rimac-investment-electric-supercar-500-million)
- - [CISA says Dominion&#39;s voting machines used in at least 16 states have nine vulnerabilities that have not been exploited, and suggests mitigation measures &lpar;Kate Brumback/Associated Press&rpar;](http://www.techmeme.com/220601/p4#a220601p4)<!-- TECH:END -->
+ - [The 8 best Android phones to spend your money on &lpar;June 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
+ - [Docs reveal Russian officials&#39; need to circumvent their own government&#39;s internet censorship, with 236 procurement contracts for VPN tech since the war started &lpar;Top10VPN&rpar;](http://www.techmeme.com/220601/p6#a220601p6)
+ - [What’s new on Paramount Plus in June: Evil Season 3, Players and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
