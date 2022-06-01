@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find &lpar;and change&rpar; your Twitch stream key](https://www.androidauthority.com/find-change-twitch-stream-key-3169867/)
- - [Podcasts hosted on Spotify-owned Megaphone were unavailable for over eight hours on Monday night and early Tuesday morning due to an expired SSL certificate &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/220531/p23#a220531p23)
- - [Garmin announces the Forerunner 255 and Forerunner 955 Solar](https://www.androidauthority.com/garmin-forerunner-255-955-solar-3169396/)<!-- TECH:END -->
+ - [Hands-on with Murena One, a privacy-focused $369 Android smartphone, which dumps all Google apps and services with its own custom apps &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220601/p2#a220601p2)
+ - [The Biggest, Oldest Plant On Earth Discovered Off the Australian Coast     - CNET](https://www.cnet.com/science/biology/the-biggest-oldest-plant-on-earth-discovered-off-the-australian-coast/#ftag=CAD590a51e)
+ - [Best Credit Cards for People With No Credit for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-no-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
