@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enough already](http://9gag.com/gag/aQXNmX8)
- - 🚯 [Design award](http://9gag.com/gag/aWgNoB4)
+ - 🚖 [Finished mounting the hydraulic lines in the boat boss](http://9gag.com/gag/amgbx1v)
+ - 🚯 [Technology is a useful servant but a dangerous master](http://9gag.com/gag/aBnNPnP)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
