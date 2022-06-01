@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dove Metrics: VC funding for crypto projects fell 38% from $6.8B in April to $4.2B in May; blockchain infrastructure received 21% of funds, DAOs only got 2% &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220601/p30#a220601p30)
- - [Sheryl Sandberg on leaving Meta](https://www.theverge.com/2022/6/1/23150749/sheryl-sandberg-interview-stepping-down-meta-facebook-coo)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
+ - [Analysis of S&amp;P 500 companies: Alphabet and Meta had the highest median pay for workers in 2021 at nearly $300K; Apple&#39;s median pay was ~$68K, Amazon&#39;s ~$32K &lpar;Inti Pacheco/Wall Street Journal&rpar;](http://www.techmeme.com/220601/p32#a220601p32)
+ - [How to make and share your Amazon wish list](https://www.androidauthority.com/make-amazon-wish-list-3171838/)
+ - [How to find and follow friends on Spotify](https://www.androidauthority.com/how-to-find-friends-spotify-3085231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
