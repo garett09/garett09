@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add songs to a playlist on Spotify](https://www.androidauthority.com/how-to-add-songs-spotify-playlist-3075074/)
- - [Best Debit Cards for Kids and Teens: Greenlight, Step, BusyKid and More     - CNET](https://www.cnet.com/personal-finance/credit-cards/debit-cards-for-kids-and-teens/#ftag=CAD590a51e)
- - [2023 BMW X1 Arrives With More Technology, Starts Under $40,000     - CNET](https://www.cnet.com/roadshow/news/2023-bmw-x1-crossover-suv-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Production Mercedes-AMG One Is Finally Ready With 1,049-HP F1 Engine     - CNET](https://www.cnet.com/roadshow/news/mercedes-amg-one-production-hypercar-formula-1-debut/#ftag=CAD590a51e)
+ - [Mercedes-AMG One Hypercar Is a Beautiful Catfish With an F1 Engine     - CNET](https://www.cnet.com/roadshow/pictures/mercedes-amg-one-production-hypercar/#ftag=CAD590a51e)
+ - [Safari now has an estimated 1B+ users, making it the second browser to pass the milestone, behind Chrome&#39;s 3.37B+, but ahead of Edge&#39;s 212M+ and Firefox&#39;s 179M+ &lpar;Atlas VPN&rpar;](http://www.techmeme.com/220531/p21#a220531p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
