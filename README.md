@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Murena One, a privacy-focused $369 Android smartphone, which dumps all Google apps and services with its own custom apps &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220601/p2#a220601p2)
- - [The Biggest, Oldest Plant On Earth Discovered Off the Australian Coast     - CNET](https://www.cnet.com/science/biology/the-biggest-oldest-plant-on-earth-discovered-off-the-australian-coast/#ftag=CAD590a51e)
- - [Best Credit Cards for People With No Credit for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-no-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A group of 26 leading computer experts urge US lawmakers to resist crypto lobbying efforts, calling crypto financial instruments &quot;risky, flawed, and unproven&quot; &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220601/p5#a220601p5)
+ - [Porsche strengthens ties with electric supercar startup Rimac in new funding round](https://www.theverge.com/2022/6/1/23148698/porsche-rimac-investment-electric-supercar-500-million)
+ - [CISA says Dominion&#39;s voting machines used in at least 16 states have nine vulnerabilities that have not been exploited, and suggests mitigation measures &lpar;Kate Brumback/Associated Press&rpar;](http://www.techmeme.com/220601/p4#a220601p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
