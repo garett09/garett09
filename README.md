@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today was a good day](http://9gag.com/gag/aE8NVBO)
- - 🚯 [Okay?!](http://9gag.com/gag/aBnNLjQ)
+ - 🚖 [Okay?!](http://9gag.com/gag/aBnNLjQ)
+ - 🚯 [Teacher checks students for starting a fight in class](http://9gag.com/gag/abgmOvO)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
