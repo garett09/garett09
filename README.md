@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Joke is now real.](http://9gag.com/gag/aBnNV9Z)
- - 🚯 [Real serial killers and actors in Mindhunter](http://9gag.com/gag/axBnvOY)
+ - 🚖 [I&#39;ll take what I can get](http://9gag.com/gag/a91NvRD)
+ - 🚯 [Let me EATTTT!](http://9gag.com/gag/a7160ML)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
