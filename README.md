@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #347: Wednesday, June 1](https://www.pcgamer.com/wordle-june-1-347-creak-meaning-definition)
- - [An Apple I with the CPU signed by the Woz is heading to auction](https://www.pcgamer.com/an-apple-i-with-the-cpu-signed-by-the-woz-is-heading-to-auction)
- - [I wasn&#39;t prepared for how evil you can be in Let&#39;s Build a Zoo&#39;s dinosaur park DLC](https://www.pcgamer.com/i-wasnt-prepared-for-how-evil-you-can-be-in-lets-build-a-zoos-dinosaur-park-dlc)<!-- GAME:END -->
+ - [Pokémon GO Is Down, Weep And Gnash Teeth](https://kotaku.com/pokemon-go-mobile-app-niantic-nintendo-servers-down-log-1848999987)
+ - [What is the Iron Banner daily challenge in Destiny 2?](https://www.pcgamer.com/destiny-2-iron-banner-daily-challenge)
+ - [Today&#39;s Wordle answer #347: Wednesday, June 1](https://www.pcgamer.com/wordle-june-1-347-creak-meaning-definition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
