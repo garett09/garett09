@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll take what I can get](http://9gag.com/gag/a91NvRD)
- - 🚯 [Let me EATTTT!](http://9gag.com/gag/a7160ML)
+ - 🚖 [The new pinocchio is such a joke](http://9gag.com/gag/avAX6XZ)
+ - 🚯 [Feel like being watched](http://9gag.com/gag/aOQN4Gy)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
