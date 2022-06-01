@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doggo used bash!](http://9gag.com/gag/aAGN6oZ)
- - 🚯 [It is my dude](http://9gag.com/gag/aZrVw0W)
+ - 🚖 [92 years and still going strong... Happy Birthday, Clint Eastwood...](http://9gag.com/gag/amgb122)
+ - 🚯 [Disney: We will stay truthful to the animated classic Also Disney: *nose starts to grow*](http://9gag.com/gag/aegP1rb)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
