@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I chose a mildly adjusted version of my own name](http://9gag.com/gag/aGzNBMK)
- - 🚯 [So hot right now](http://9gag.com/gag/aE8NoPK)
+ - 🚖 [Great](http://9gag.com/gag/aogq4Rx)
+ - 🚯 [The Amazing Fertilization Process](http://9gag.com/gag/ajgML51)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
