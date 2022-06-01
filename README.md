@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When too windy!](http://9gag.com/gag/azeDPKB)
- - 🚯 [Just... watch original?](http://9gag.com/gag/azeDPGN)
+ - 🚖 [Today was a good day](http://9gag.com/gag/aE8NVBO)
+ - 🚯 [Okay?!](http://9gag.com/gag/aBnNLjQ)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 --- 
