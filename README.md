@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Managed cybersecurity and intelligence services provider ReliaQuest to acquire Digital Shadows, which offers threat intelligence services, for $160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220601/p39#a220601p39)
  - [Ordr, which uses AI to monitor IoT devices for suspicious events, raises a $40M Series C co-led by Battery Ventures and Ten Eleven Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p38#a220601p38)
- - [Scientists Discover a Black Hole Illusion That Will Trick Your Brain and Your Eyes     - CNET](https://www.cnet.com/science/biology/scientists-discover-a-black-hole-illusion-that-will-trick-your-brain-and-your-eyes/#ftag=CAD590a51e)
- - [What is Twitch Turbo and how does it differ from Twitch Prime?](https://www.androidauthority.com/twitch-turbo-explained-3171889/)<!-- TECH:END -->
+ - [Scientists Discover a Black Hole Illusion That Will Trick Your Brain and Your Eyes     - CNET](https://www.cnet.com/science/biology/scientists-discover-a-black-hole-illusion-that-will-trick-your-brain-and-your-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
