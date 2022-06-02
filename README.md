@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Railway, which provides a dashboard for building, deploying, and monitoring apps and services, raises a $20M Series A led by Redpoint Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220602/p1#a220602p1)
  - [Why Johnny Depp vs. Amber Heard Dominated the Internet     - CNET](https://www.cnet.com/culture/why-johnny-depp-vs-amber-heard-dominated-the-internet/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39;: When Are the Next Episodes Released on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-are-the-next-episodes-released-on-netflix/#ftag=CAD590a51e)
- - [Managed cybersecurity and intelligence services provider ReliaQuest to acquire Digital Shadows, which offers threat intelligence services, for $160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220601/p39#a220601p39)<!-- TECH:END -->
+ - [&#39;Stranger Things&#39;: When Are the Next Episodes Released on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-are-the-next-episodes-released-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
