@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish I was as cool as this guy](http://9gag.com/gag/aM4Nq3A)
- - 🚯 [I wish I didn&#39;t see color. So I wouldn&#39;t see the randomly highlighted word for no reason](http://9gag.com/gag/azeDQ8Z)
+ - 🚖 [Hyped](http://9gag.com/gag/aVx1B38)
+ - 🚯 [Is that a crossover episode?](http://9gag.com/gag/a51yD5G)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
