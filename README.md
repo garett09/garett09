@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The sci-fi story Crimes of the Future puts the king of body horror back in his slimy saddle](https://www.polygon.com/23150682/crimes-of-the-future-david-cronenberg-review-sex-surgery)
- - [Free Play Days – Warhammer: Chaosbane, Warhammer: Vermintide 2, and Warhammer 40,000: Mechanicus](https://news.xbox.com/en-us/2022/06/02/free-play-days-warhammer-chaosbane-warhammer-vermintide-2-and-warhammer-40000-mechanicus/)
- - [The Sims 4’s new expansion adds big, bad werewolves](https://www.polygon.com/23150388/the-sims-4-werewolves-game-pack-release-date-trailer)<!-- GAME:END -->
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
+ - [Know no shame: queerness in the golden age of TV and piracy](https://www.polygon.com/23132597/blackbeard-our-flag-means-death-stede-black-sails)
+ - [Game Devs Tell Elon Musk He&#39;s Wrong About What It Takes To Make Something Good](https://kotaku.com/elon-musk-tesla-spacex-remote-work-bungie-destiny-witch-1849008258)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
