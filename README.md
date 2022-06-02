@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford announces new Mustang, Ranger, and commercial EV in major Midwest expansion](https://www.theverge.com/2022/6/2/23151480/ford-mustang-ranger-commercial-ev-invest-midwest)
- - [Sonos’ long-awaited Sub Mini shows up at the FCC](https://www.theverge.com/2022/6/2/23151437/sonos-sub-mini-budget-subwoofer-fcc-specs-design)
- - [Devo Technology, a cloud-native logging and security analytics provider, raises a $100M Series F led by Eurazeo at a $2B valuation &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220602/p11#a220602p11)<!-- TECH:END -->
+ - [Twitter is building a tool for keyword alerts, in case you need more Twitter notifications](https://www.theverge.com/2022/6/2/23151492/twitter-keyword-alerts-notifications)
+ - [Daily deals June 2: discounted iPhone 12, 11% off Xbox Series X with &#39;Elden Ring,&#39; Apple TV 4K for $150, more](https://appleinsider.com/articles/22/06/02/daily-deals-june-2-discounted-iphone-12-11-off-xbox-series-x-with-elden-ring-apple-tv-4k-for-150-more?utm_medium=rss)
+ - [Neptune Frost’s radical sci-fi future](https://www.theverge.com/2022/6/2/23059928/neptune-frost-movie-interview-saul-williams-anisia-uzeyman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
