@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hyped](http://9gag.com/gag/aVx1B38)
- - 🚯 [Is that a crossover episode?](http://9gag.com/gag/a51yD5G)
+ - 🚖 [Monitors](http://9gag.com/gag/aDDNQDK)
+ - 🚯 [Superb](http://9gag.com/gag/avAXDQX)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
