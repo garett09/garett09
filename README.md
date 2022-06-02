@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTuber Pulls Nintendo Soundtracks After Receiving Over 500 Copyright Claims](https://kotaku.com/nintendo-music-youtube-deoxysprime-legal-lawyers-copyri-1849005989)
  - [Monster Hunter’s Sunbreak expansion is a tonal shift from Rise](https://www.polygon.com/23150196/monster-hunter-rise-sunbreak-preview-interview-the-citadel-map)
- - [Graphics card shipments have actually declined in 2022](https://www.pcgamer.com/graphics-card-shipments-have-actually-declined-in-2022)
- - [I can&#39;t stop watching 512 simulated bowls fall over in Nvidia&#39;s Factory](https://www.pcgamer.com/i-cant-stop-watching-512-simulated-bowls-fall-over-in-nvidias-factory)<!-- GAME:END -->
+ - [Graphics card shipments have actually declined in 2022](https://www.pcgamer.com/graphics-card-shipments-have-actually-declined-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
