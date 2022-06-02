@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Promises To Play Nice With Future Unions Too](https://kotaku.com/microsoft-xbox-activision-blizzard-union-busting-ftc-ca-1849010773)
- - [Chinese military secrets leaked on a video game forum](https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum)
- - [Bungie admits Destiny 2&#39;s Solar 3.0 did not melt anyone&#39;s face off](https://www.pcgamer.com/bungie-admits-destiny-2s-solar-30-did-not-melt-anyones-face-off)<!-- GAME:END -->
+ - [Resident Evil 4 remake coming March 2023](https://www.polygon.com/23152449/resident-evil-4-remake-release-date-capcom)
+ - [PlayStation State of Play June 2022: All the news, trailers, and announcements](https://www.polygon.com/23152170/sony-playstation-state-of-play-june-2022-news)
+ - [Surprise! Resident Evil 4 Remake Is Real And Coming In 2023](https://kotaku.com/resident-evil-4-remake-ps5-playstation-5-capcom-leon-ke-1848630776)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
