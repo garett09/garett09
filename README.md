@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude Throws Cup Of Urine Into Crowd...](http://9gag.com/gag/aE8NZro)
- - 🚯 [Chinese Alexa would be a great idea](http://9gag.com/gag/aLvNWVM)
+ - 🚖 [Oh..](http://9gag.com/gag/a613GmR)
+ - 🚯 [You actually were telling a truth](http://9gag.com/gag/aRrNOXA)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
