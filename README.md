@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deadlock!](http://9gag.com/gag/a51yqXG)
- - 🚯 [Dad: `no we are not getting a dog`. Also dad:](http://9gag.com/gag/a716p5q)
- - 🚯 [Gentlemen... WE GOT HER. Our Pirate won the case!](http://9gag.com/gag/aVx1ZGP)<!-- MEMES:END -->
+ - 🚖 [The truth hurts](http://9gag.com/gag/aDDNOX9)
+ - 🚯 [How can I get back into it?](http://9gag.com/gag/aVx12bK)
+ - 🚯 [It&#39;s 3 A.M. Husky:](http://9gag.com/gag/a91NOmD)<!-- MEMES:END -->
 
 --- 
 
