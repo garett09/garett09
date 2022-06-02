@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things I Wish I Knew Before Starting V Rising](https://kotaku.com/v-rising-steam-stunlock-studios-vampire-survival-1849009270)
- - [How to watch Sony&#39;s Summer 2022 State of Play](https://www.pcgamer.com/sony-state-of-play-summer-2022-june-2)
- - [Welcome to the Future of Knockout City in Season 6: City of Tomorrow](https://news.xbox.com/en-us/2022/06/02/welcome-to-the-future-of-knockout-city/)<!-- GAME:END -->
+ - [Obi-Wan Kenobi Just Crossed Over With Jedi Fallen Order](https://kotaku.com/obi-wan-kenobi-star-wars-jedi-fallen-order-easter-egg-d-1849009341)
+ - [Lechonk, The Cute New Hog Pokémon, Spotted In AEW Audience](https://kotaku.com/pokemon-scarlet-violet-lechonk-aew-mjf-cm-punk-pipe-bom-1849009421)
+ - [Will Arnett is Sweet Tooth in the live-action Twisted Metal TV show](https://www.polygon.com/23152056/will-arnett-sweet-tooth-twisted-metal-series-peacock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
