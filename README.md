@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t stop watching 512 simulated bowls fall over in Nvidia&#39;s Factory](https://www.pcgamer.com/i-cant-stop-watching-512-simulated-bowls-fall-over-in-nvidias-factory)
- - [Those chilling dog robots now have deployable helicopters, too](https://www.pcgamer.com/those-chilling-dog-robots-now-have-deployable-helicopters-too)
- - [Stalker 2: Everything we know about your return to The Zone](https://www.pcgamer.com/stalker-2-release-date-trailer-open-world-everything-we-know)<!-- GAME:END -->
+ - [Monster Hunter’s Sunbreak expansion is a tonal shift from Rise](https://www.polygon.com/23150196/monster-hunter-rise-sunbreak-preview-interview-the-citadel-map)
+ - [Graphics card shipments have actually declined in 2022](https://www.pcgamer.com/graphics-card-shipments-have-actually-declined-in-2022)
+ - [I can&#39;t stop watching 512 simulated bowls fall over in Nvidia&#39;s Factory](https://www.pcgamer.com/i-cant-stop-watching-512-simulated-bowls-fall-over-in-nvidias-factory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
