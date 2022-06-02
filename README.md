@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [French Institution Bans English Words Like &#39;esports&#39; And &#39;Streaming&#39;](https://kotaku.com/france-french-language-esports-streamer-academie-franca-1849005217)
  - [New Pokémon Scarlet And Violet Trailer Features Hot Profs, 4-Player Co-Op, And Lechonk, The Hero We Deserve](https://kotaku.com/pokemon-scarlet-violet-trailer-professors-lechonk-co-op-1849004871)
- - [Dontnod spellchecks itself, is now called Don&#39;t Nod](https://www.pcgamer.com/dontnod-spellchecks-itself-is-now-called-dont-nod)
- - [Diablo Immortal isn&#39;t quite pay-to-win, but it&#39;s close](https://www.pcgamer.com/diablo-immortal-isnt-quite-pay-to-win-but-its-close)<!-- GAME:END -->
+ - [Dontnod spellchecks itself, is now called Don&#39;t Nod](https://www.pcgamer.com/dontnod-spellchecks-itself-is-now-called-dont-nod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
