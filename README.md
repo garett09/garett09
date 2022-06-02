@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Smash Bros. Ultimate Is Getting Shaken Up By Its Own Wave-Dashing Moment](https://kotaku.com/super-smash-bros-ultimate-slingshot-gimr-esam-hungrybo-1849008738)
- - [Pokémon Scarlet And Violet Seems To Offer Better Character Creation Options](https://kotaku.com/pokemon-scarlet-violet-bipoc-hair-skin-styles-nintendo-1849007963)
- - [The next Dragon Age game is officially called Dreadwolf](https://www.pcgamer.com/the-next-dragon-age-game-is-officially-called-dreadwolf)<!-- GAME:END -->
+ - [10 Things I Wish I Knew Before Starting V Rising](https://kotaku.com/v-rising-steam-stunlock-studios-vampire-survival-1849009270)
+ - [How to watch Sony&#39;s Summer 2022 State of Play](https://www.pcgamer.com/sony-state-of-play-summer-2022-june-2)
+ - [Welcome to the Future of Knockout City in Season 6: City of Tomorrow](https://news.xbox.com/en-us/2022/06/02/welcome-to-the-future-of-knockout-city/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
