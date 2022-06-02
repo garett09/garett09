@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a free 5G phone on any Verizon unlimited plan, and more Verizon deals](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [We asked, you told us: You’ve all used your phone’s tele lens as a magnifier](https://www.androidauthority.com/smartphone-telephoto-camera-magnifier-poll-results-3172008/)
- - [Apex Legends Mobile: Every Legend and what they do](https://www.androidauthority.com/apex-legends-mobile-legends-3170469/)<!-- TECH:END -->
+ - [Huawei Watch GT 3 Pro review: Titanium, ceramic, and compromises](https://www.androidauthority.com/huawei-watch-gt-3-pro-review-3171215/)
+ - [Volodymyr Zelensky on War, Technology, and the Future of Ukraine](https://www.wired.com/story/volodymyr-zelensky-q-and-a-ukraine-war-technology)
+ - [Qualcomm wants to team up with its rivals to buy Arm](https://www.androidauthority.com/qualcomm-consortium-rivals-buy-arm-3172048/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
