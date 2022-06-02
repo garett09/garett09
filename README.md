@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M1 MacBook Air is discounted to $899, plus $40 off AppleCare](https://appleinsider.com/articles/22/06/02/deals-apples-m1-macbook-air-is-discounted-to-899-plus-40-off-applecare?utm_medium=rss)
- - [Ring raised its subscription prices without warning, and users are furious](https://www.theverge.com/2022/6/2/23151531/ring-protect-basic-price-increase-subscription)
- - [Psychological thriller series &#39;Surface&#39; set to debut on Apple TV+ in July](https://appleinsider.com/articles/22/06/02/psychological-thriller-series-surface-set-to-debut-on-apple-tv-in-july?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s 1TB 16-inch MacBook Pro is back in stock &amp; $200 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/06/02/apples-1tb-16-inch-macbook-pro-is-back-in-stock-200-off-plus-80-off-applecare?utm_medium=rss)
+ - [Amazon finally launches an invite system for buying a PS5 or Xbox Series X](https://www.androidauthority.com/amazon-invitation-system-3172204/)
+ - [MSI announces Titan GT77 with 4K screen and 250W of combined power](https://www.theverge.com/2022/6/1/23141837/msi-titan-gt77-raider-ge77-ge67-hx-intel-250w-cpu-gpu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
