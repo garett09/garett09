@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad truth](http://9gag.com/gag/a613jKm)
- - 🚯 [I dont know why... but im not even sad or angery about it.](http://9gag.com/gag/aBnNOo1)
+ - 🚖 [Feeding time](http://9gag.com/gag/a31pb6v)
+ - 🚯 [What goes around... comes around](http://9gag.com/gag/aogqng2)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
