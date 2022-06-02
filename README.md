@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeding time](http://9gag.com/gag/a31pb6v)
- - 🚯 [What goes around... comes around](http://9gag.com/gag/aogqng2)
+ - 🚖 [Dude Throws Cup Of Urine Into Crowd...](http://9gag.com/gag/aE8NZro)
+ - 🚯 [Chinese Alexa would be a great idea](http://9gag.com/gag/aLvNWVM)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
