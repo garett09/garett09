@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a free 5G phone on any Verizon unlimited plan, and more Verizon deals](https://www.androidauthority.com/best-verizon-deals-835801/)
  - [We asked, you told us: You’ve all used your phone’s tele lens as a magnifier](https://www.androidauthority.com/smartphone-telephoto-camera-magnifier-poll-results-3172008/)
- - [Apex Legends Mobile: Every Legend and what they do](https://www.androidauthority.com/apex-legends-mobile-legends-3170469/)
- - [It’s taken almost two years, but Chromecast for Google TV is coming to India](https://www.androidauthority.com/chromecast-for-google-tv-india-3171502/)<!-- TECH:END -->
+ - [Apex Legends Mobile: Every Legend and what they do](https://www.androidauthority.com/apex-legends-mobile-legends-3170469/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
