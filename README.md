@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Solana blockchain was down for about four hours on Wednesday after a bug blocked consensus; SOL is down 11% over the past 24 hours &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220601/p36#a220601p36)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [How to shuffle on Spotify](https://www.androidauthority.com/how-to-shuffle-spotify-3073056/)<!-- TECH:END -->
+ - [Ordr, which uses AI to monitor IoT devices for suspicious events, raises a $40M Series C co-led by Battery Ventures and Ten Eleven Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p38#a220601p38)
+ - [Scientists Discover a Black Hole Illusion That Will Trick Your Brain and Your Eyes     - CNET](https://www.cnet.com/science/biology/scientists-discover-a-black-hole-illusion-that-will-trick-your-brain-and-your-eyes/#ftag=CAD590a51e)
+ - [What is Twitch Turbo and how does it differ from Twitch Prime?](https://www.androidauthority.com/twitch-turbo-explained-3171889/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
