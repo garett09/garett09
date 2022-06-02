@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [JUSTICE BABY! Amber lost!](http://9gag.com/gag/apgjbNb)
+ - 🚖 [Amber Heard will always remember today a the time when she ALMOST caught Captain Jack Sparrow!](http://9gag.com/gag/aggZxRW)
  - 🚯 [De_Verdict](http://9gag.com/gag/aDDNV49)
  - 🚯 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
