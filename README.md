@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The NOICEST thing i&#39;ve ever seen](http://9gag.com/gag/aKmNpgO)
- - 🚯 [Birb](http://9gag.com/gag/aVx1Re8)
+ - 🚖 [I wish I was as cool as this guy](http://9gag.com/gag/aM4Nq3A)
+ - 🚯 [I wish I didn&#39;t see color. So I wouldn&#39;t see the randomly highlighted word for no reason](http://9gag.com/gag/azeDQ8Z)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
