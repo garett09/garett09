@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will be the best sh*t in your life](http://9gag.com/gag/angWdwL)
- - 🚯 [Interesting tennis serve](http://9gag.com/gag/awzG8ZB)
+ - 🚖 [Despite she can&#39;t afford to pay the $10.4 million &lpar;+Including the Remaining Pledged Donation&rpar;, Amber Heard and her attorney would still go for an appeal](http://9gag.com/gag/a91NVED)
+ - 🚯 [It&#39;s time to Duel!](http://9gag.com/gag/aAGNN3E)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
