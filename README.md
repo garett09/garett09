@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is finally taking a page from the rest of Hollywood](https://www.theverge.com/2022/6/2/23151512/netflix-hollywood-movies-blockbusters-over-vanity-pieces)
- - [Spotify&#39;s &quot;white noise&quot; podcasters are making thousands of dollars per month creating soothing sounds, a growing market that major networks have yet to explore &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220602/p21#a220602p21)
- - [Square&#39;s payment app will support Tap to Pay on iPhone later in 2022](https://appleinsider.com/articles/22/06/02/squares-payment-app-to-support-tap-to-pay-on-iphone-later-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s latest iPad Pro is on sale from $699 &lpar;up to $210 off&rpar; with promo code](https://appleinsider.com/articles/22/05/30/apples-latest-ipad-pro-is-on-sale-from-699-up-to-210-off-with-promo-code?utm_medium=rss)
+ - [8 Great Outdoor Deals to Kickstart Your Summer of Fun](https://www.wired.com/story/outdoor-summer-deals-june-2-2022)
+ - [Deals: Apple&#39;s M1 MacBook Air is discounted to $899, plus $40 off AppleCare](https://appleinsider.com/articles/22/06/02/deals-apples-m1-macbook-air-is-discounted-to-899-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
