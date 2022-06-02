@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 1TB 16-inch MacBook Pro is back in stock &amp; $200 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/06/02/apples-1tb-16-inch-macbook-pro-is-back-in-stock-200-off-plus-80-off-applecare?utm_medium=rss)
- - [Amazon finally launches an invite system for buying a PS5 or Xbox Series X](https://www.androidauthority.com/amazon-invitation-system-3172204/)
- - [MSI announces Titan GT77 with 4K screen and 250W of combined power](https://www.theverge.com/2022/6/1/23141837/msi-titan-gt77-raider-ge77-ge67-hx-intel-250w-cpu-gpu)<!-- TECH:END -->
+ - [Netflix is finally taking a page from the rest of Hollywood](https://www.theverge.com/2022/6/2/23151512/netflix-hollywood-movies-blockbusters-over-vanity-pieces)
+ - [Spotify&#39;s &quot;white noise&quot; podcasters are making thousands of dollars per month creating soothing sounds, a growing market that major networks have yet to explore &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220602/p21#a220602p21)
+ - [Square&#39;s payment app will support Tap to Pay on iPhone later in 2022](https://appleinsider.com/articles/22/06/02/squares-payment-app-to-support-tap-to-pay-on-iphone-later-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
