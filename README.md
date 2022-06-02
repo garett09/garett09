@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No. 1 songs worldwide for June 1955-2021](http://9gag.com/gag/aVx12mw)
+ - 🚖 [It&#39;s 3 A.M. Husky:](http://9gag.com/gag/a91NOmD)
  - 🚯 [The truth hurts](http://9gag.com/gag/aDDNOX9)
- - 🚯 [I dont know why... but im not even sad or angery about it.](http://9gag.com/gag/aBnNOo1)<!-- MEMES:END -->
+ - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
 
