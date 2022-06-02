@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of S&amp;P 500 companies: Alphabet and Meta had the highest median pay for workers in 2021 at nearly $300K; Apple&#39;s median pay was ~$68K, Amazon&#39;s ~$32K &lpar;Inti Pacheco/Wall Street Journal&rpar;](http://www.techmeme.com/220601/p32#a220601p32)
- - [How to make and share your Amazon wish list](https://www.androidauthority.com/make-amazon-wish-list-3171838/)
- - [How to find and follow friends on Spotify](https://www.androidauthority.com/how-to-find-friends-spotify-3085231/)<!-- TECH:END -->
+ - [The Solana blockchain was down for about four hours on Wednesday after a bug blocked consensus; SOL is down 11% over the past 24 hours &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220601/p36#a220601p36)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [How to shuffle on Spotify](https://www.androidauthority.com/how-to-shuffle-spotify-3073056/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
