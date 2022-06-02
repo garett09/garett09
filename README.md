@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monitors](http://9gag.com/gag/aDDNQDK)
- - 🚯 [Superb](http://9gag.com/gag/avAXDQX)
+ - 🚖 [Amazing!](http://9gag.com/gag/arnrdX7)
+ - 🚯 [This aged well](http://9gag.com/gag/apgj8dD)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
