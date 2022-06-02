@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 remake coming March 2023](https://www.polygon.com/23152449/resident-evil-4-remake-release-date-capcom)
- - [PlayStation State of Play June 2022: All the news, trailers, and announcements](https://www.polygon.com/23152170/sony-playstation-state-of-play-june-2022-news)
- - [Surprise! Resident Evil 4 Remake Is Real And Coming In 2023](https://kotaku.com/resident-evil-4-remake-ps5-playstation-5-capcom-leon-ke-1848630776)<!-- GAME:END -->
+ - [Everything Sony Showed At PlayStation&#39;s Big State Of Play Event](https://kotaku.com/sony-playstation-state-of-play-e3-2022-showcase-present-1849011711)
+ - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)
+ - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
