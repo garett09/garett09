@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Google staff say Google is willfully ignoring caste bias after it canceled a presentation on the topic, which led to the resignation of a senior manager &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220602/p8#a220602p8)
- - [Texting Is a Hellscape. Is There a Way Out?](https://www.wired.com/story/gadget-lab-podcast-552)
- - [Smaller Reactors May Still Have a Big Nuclear Waste Problem](https://www.wired.com/story/smaller-reactors-may-still-have-a-big-nuclear-waste-problem)<!-- TECH:END -->
+ - [Ford announces new Mustang, Ranger, and commercial EV in major Midwest expansion](https://www.theverge.com/2022/6/2/23151480/ford-mustang-ranger-commercial-ev-invest-midwest)
+ - [Sonos’ long-awaited Sub Mini shows up at the FCC](https://www.theverge.com/2022/6/2/23151437/sonos-sub-mini-budget-subwoofer-fcc-specs-design)
+ - [Devo Technology, a cloud-native logging and security analytics provider, raises a $100M Series F led by Eurazeo at a $2B valuation &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220602/p11#a220602p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
