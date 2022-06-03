@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y&#39;all Morbed Too Hard, Now Morbius Is Coming Back To 1,000 Theaters](https://kotaku.com/morbius-morbin-time-memes-marvel-sony-theaters-sequel-1849016291)
- - [New Persona-Inspired JRPG Has You Fighting The Apocalypse, Holding Hands Lewdly](https://kotaku.com/eternights-persona-playstation-state-of-play-jrpg-roman-1849016237)
- - [Cheating used to be fun](https://www.polygon.com/videos/23153403/cheating-games-codes-secrets)<!-- GAME:END -->
+ - [This Week on Xbox: New Pre-orders, Games with Gold, and Updates](https://news.xbox.com/en-us/2022/06/03/this-week-on-xbox-new-pre-orders-games-with-gold-and-updates/)
+ - [Pokémon Go Fest Shaymin Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23153308/pokemon-go-fest-shaymin-special-research-tasks-rewards-battle-explore-catch-difficulty)
+ - [Y&#39;all Morbed Too Hard, Now Morbius Is Coming Back To 1,000 Theaters](https://kotaku.com/morbius-morbin-time-memes-marvel-sony-theaters-sequel-1849016291)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
