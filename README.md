@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Cat tries to provoke dog into a cat fight!](http://9gag.com/gag/aM4N011)
- - 🚯 [Stating the obvious.](http://9gag.com/gag/axBne9K)
+ - 🚯 [Game manuals then vs now](http://9gag.com/gag/aWgNe4Z)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
