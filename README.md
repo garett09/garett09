@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More games need to have this](http://9gag.com/gag/aKmNy8W)
- - 🚯 [Give it up to the](http://9gag.com/gag/aKmNXOO)
- - 🚯 [Handmade costume by this girl](http://9gag.com/gag/a41rgVy)<!-- MEMES:END -->
+ - 🚖 [Pepsi](http://9gag.com/gag/aGzN5Z5)
+ - 🚯 [But it\u2019s a V8 mate](http://9gag.com/gag/a0ZWgWQ)
+ - 🚯 [Little mistakes](http://9gag.com/gag/adg4ADV)<!-- MEMES:END -->
 
 --- 
 
