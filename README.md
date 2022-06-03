@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: June 6 to 10](https://news.xbox.com/en-us/2022/06/03/next-week-on-xbox-june-6-to-10/)
- - [The First 11 Minutes Of Silt: What If Limbo But Underwater](https://kotaku.com/silt-limbo-spiral-circus-nintendo-switch-xbox-playstati-1849008454)
- - [Misery Game Elden Ring Is Actually A Rom-Com, Gamer Girl Memes Agree](https://kotaku.com/elden-ring-memes-reddit-girl-gamer-paris-hilton-winona-1849011004)<!-- GAME:END -->
+ - [Wolfenstein: The New Order, One Of The Best Shooters Ever, Is Currently Free On PC](https://kotaku.com/wolfenstein-new-order-id-machinegames-free-epic-store-d-1849013982)
+ - [Horizon Forbidden West’s new game plus mode included in big update](https://www.polygon.com/23153085/horizon-forbidden-west-update-new-game-plus-ultra-hard-difficulty-modes-how-to-start)
+ - [The anime movie Fortune Favors Lady Nikuko is bold, bright, and surprisingly cruel](https://www.polygon.com/23152038/fortune-favors-lady-nikuko-review-anime-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
