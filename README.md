@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Disney hear me out...!!!](http://9gag.com/gag/ajgM401)
- - 🚯 [Biblically accurate BBQ](http://9gag.com/gag/aOQN5DR)
- - 🚯 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)<!-- MEMES:END -->
+ - 🚯 [Still trying.](http://9gag.com/gag/apgjMEp)
+ - 🚯 [War never changes](http://9gag.com/gag/aegPEnQ)<!-- MEMES:END -->
 
 --- 
 
