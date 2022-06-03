@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am speed](http://9gag.com/gag/a0ZWWRL)
- - 🚯 [Amazing!](http://9gag.com/gag/arnrdX7)
+ - 🚖 [Superb](http://9gag.com/gag/avAXDQX)
+ - 🚯 [Oh my...](http://9gag.com/gag/aE8NQOx)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
