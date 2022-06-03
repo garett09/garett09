@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York State Assembly passes the first right-to-repair bill in the US covering electronics; Governor Kathy Hochul is expected to sign the measure &lpar;Russell Brandom/The Verge&rpar;](http://www.techmeme.com/220603/p14#a220603p14)
- - [The best HomeKit locks for your smart home in 2022](https://appleinsider.com/articles/22/06/02/the-best-homekit-locks-for-your-smart-home-in-2022?utm_medium=rss)
- - [Google is eliminating the most easily accessible version of Android Auto](https://www.theverge.com/2022/6/3/23153100/android-auto-app-phone-screens-discontinued)<!-- TECH:END -->
+ - [Firm sues Samsung over basic battery tech, could have far-reaching impact](https://www.androidauthority.com/samsung-battery-lawsuit-3172675/)
+ - [Everything we learned from Final Fantasy XVI’s new trailer](https://www.theverge.com/2022/6/3/23153215/final-fantasy-xvi-trailer-lore-square-enix)
+ - [T-Mobile is now doing voice over 5G, ahead of most network operators](https://www.theverge.com/2022/6/3/23153275/t-mobile-5g-voice-vonr-dish-wireless)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
