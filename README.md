@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Handmade costume by this girl](http://9gag.com/gag/a41rgVy)
- - 🚯 [A pilot project in gautemala to control plastic waste to the ocean.](http://9gag.com/gag/a81XNLY)
- - 🚯 [Laid to rest](http://9gag.com/gag/aNP2573)<!-- MEMES:END -->
+ - 🚖 [A pilot project in gautemala to control plastic waste to the ocean.](http://9gag.com/gag/a81XNLY)
+ - 🚯 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)
+ - 🚯 [Biblically accurate BBQ](http://9gag.com/gag/aOQN5DR)<!-- MEMES:END -->
 
 --- 
 
