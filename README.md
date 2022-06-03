@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firm sues Samsung over basic battery tech, could have far-reaching impact](https://www.androidauthority.com/samsung-battery-lawsuit-3172675/)
- - [Everything we learned from Final Fantasy XVI’s new trailer](https://www.theverge.com/2022/6/3/23153215/final-fantasy-xvi-trailer-lore-square-enix)
- - [T-Mobile is now doing voice over 5G, ahead of most network operators](https://www.theverge.com/2022/6/3/23153275/t-mobile-5g-voice-vonr-dish-wireless)<!-- TECH:END -->
+ - [LG’s new lifestyle TV reminds us that TVs don’t have to be ugly](https://www.theverge.com/2022/6/3/23153581/lifestyle-tvs-lg-pose-easel-oled-tv-design)
+ - [The best tech you can gift mom year round](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
+ - [This Week in Elon: Come back to the office, you’re fired](https://www.theverge.com/2022/6/3/23153369/this-week-in-elon-musk-twitter-spacex-tesla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
