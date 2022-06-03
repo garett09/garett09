@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breaking news : the only albino galapagos turtle in the world was born in a swiss zoo &lpar;1 chance on 100&#39;000 births although there are around 20&#39;000 left on the planet!&rpar; we have to find it a name now](http://9gag.com/gag/amgbd8v)
- - 🚯 [Similar energy](http://9gag.com/gag/aBnNNjN)
+ - 🚖 [When you&#39;ve know you&#39;ve been a bad boy!](http://9gag.com/gag/aM4NDxA)
+ - 🚯 [This made me laugh. Aahh those childhood memories, I&#39;m sad again.](http://9gag.com/gag/aVx1432)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
