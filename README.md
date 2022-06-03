@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;ve know you&#39;ve been a bad boy!](http://9gag.com/gag/aM4NDxA)
- - 🚯 [This made me laugh. Aahh those childhood memories, I&#39;m sad again.](http://9gag.com/gag/aVx1432)
+ - 🚖 [Dad made just one or two mods](http://9gag.com/gag/arnr9OB)
+ - 🚯 [The original boss - when ur absolutely not giving up](http://9gag.com/gag/aDDNr2G)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
