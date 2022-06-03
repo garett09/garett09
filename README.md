@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepsi](http://9gag.com/gag/aGzN5Z5)
- - 🚯 [But it\u2019s a V8 mate](http://9gag.com/gag/a0ZWgWQ)
- - 🚯 [Little mistakes](http://9gag.com/gag/adg4ADV)<!-- MEMES:END -->
+ - 🚖 [Ain&#39;t that the truth](http://9gag.com/gag/aDDN9eN)
+ - 🚯 [Ok, short coffee break and I&#39;ll be back to work](http://9gag.com/gag/aQXNbXe)
+ - 🚯 [Handmade costume by this girl](http://9gag.com/gag/a41rgVy)<!-- MEMES:END -->
 
 --- 
 
