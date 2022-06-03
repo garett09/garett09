@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
- - [Vergecast: Meta’s executive shakeup, vaporware cars, and a WWDC preview](https://www.theverge.com/23153028/vergecast-499-podcast-sandberg-facebook-unreal-engine-volvo-delorean-wwdc-2022)
- - [The Best Hair Straighteners to Iron Out Those Kinks](https://www.wired.com/gallery/best-hair-straighteners)<!-- TECH:END -->
+ - [Sources: Facebook is developing a &quot;basic ads&quot; product that doesn&#39;t rely on anonymized data from users and instead uses metrics like engagement and video views &lpar;Insider&rpar;](http://www.techmeme.com/220603/p8#a220603p8)
+ - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
+ - [Tempo Move review: a great idea with terrible connectivity](https://www.theverge.com/23151591/tempo-move-review-smart-gym)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
