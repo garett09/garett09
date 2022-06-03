@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The original boss - when ur absolutely not giving up](http://9gag.com/gag/aDDNr2G)
- - 🚯 [When you&#39;ve know you&#39;ve been a bad boy!](http://9gag.com/gag/aM4NDxA)
+ - 🚖 [Cat tries to provoke dog into a cat fight!](http://9gag.com/gag/aM4N011)
+ - 🚯 [Stating the obvious.](http://9gag.com/gag/axBne9K)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
