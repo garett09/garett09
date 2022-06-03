@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
- - [EU about to finalize law that would require Apple to use USB-C on iPhones](https://appleinsider.com/articles/22/06/03/eu-about-to-finalize-law-that-would-require-apple-to-use-usb-c-on-iphones?utm_medium=rss)
- - [Honor&#39;s Magic 4 Pro Is a Decent Phone, but It&#39;s No Huawei](https://www.wired.com/review/honor-magic-4-pro)<!-- TECH:END -->
+ - [Apple highlights three young winners of the Swift Student Challenge](https://appleinsider.com/articles/22/06/03/apple-highlights-three-young-winners-of-the-swift-student-challenge?utm_medium=rss)
+ - [WWDC preview, Apple search engine rumor, and iPad wireless charging on the AppleInsider podcast](https://appleinsider.com/articles/22/06/03/wwdc-preview-apple-search-engine-rumor-and-ipad-wireless-charging-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Daily deals June 3: 13% off Hisense 4K 120Hz 4K TV, $35 off Beats Studio Buds, 57% off eufy RoboVac, more](https://appleinsider.com/articles/22/06/03/daily-deals-june-3-13-off-hisense-4k-120hz-4k-tv-35-off-beats-studio-buds-57-off-eufy-robovac-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
