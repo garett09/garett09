@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights three young winners of the Swift Student Challenge](https://appleinsider.com/articles/22/06/03/apple-highlights-three-young-winners-of-the-swift-student-challenge?utm_medium=rss)
- - [WWDC preview, Apple search engine rumor, and iPad wireless charging on the AppleInsider podcast](https://appleinsider.com/articles/22/06/03/wwdc-preview-apple-search-engine-rumor-and-ipad-wireless-charging-on-the-appleinsider-podcast?utm_medium=rss)
- - [Daily deals June 3: 13% off Hisense 4K 120Hz 4K TV, $35 off Beats Studio Buds, 57% off eufy RoboVac, more](https://appleinsider.com/articles/22/06/03/daily-deals-june-3-13-off-hisense-4k-120hz-4k-tv-35-off-beats-studio-buds-57-off-eufy-robovac-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
+ - [Vergecast: Meta’s executive shakeup, vaporware cars, and a WWDC preview](https://www.theverge.com/23153028/vergecast-499-podcast-sandberg-facebook-unreal-engine-volvo-delorean-wwdc-2022)
+ - [The Best Hair Straighteners to Iron Out Those Kinks](https://www.wired.com/gallery/best-hair-straighteners)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
