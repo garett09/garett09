@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea-based Rebellions, which builds chips designed for AI applications, raises a $50M Series A from Pavilion Capital and others at a ~$283M valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220602/p33#a220602p33)
- - [The 12 Best Games to Play on the Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/the-12-best-games-to-play-on-the-xbox-series-x/#ftag=CAD590a51e)
- - [Apple proposes more flexible work schedules amid unionization efforts](https://appleinsider.com/articles/22/06/02/apple-proposes-more-flexible-work-schedules-amid-unionization-efforts?utm_medium=rss)<!-- TECH:END -->
+ - [GM&#39;s Cruise secures a permit to charge fares for its driverless robotaxi service in San Francisco, which will operate from 10PM to 6AM on select streets &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220602/p36#a220602p36)
+ - [Atlassian warns users to restrict internet access to its Confluence software, or disable it, in light of an unpatched critical RCE flaw actively under attack &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/220602/p35#a220602p35)
+ - [Best OLED TV Deals: Save $1,125 on 65-Inch Sony, 55-Inch LG Under $1,000     - CNET](https://www.cnet.com/tech/home-entertainment/best-oled-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
