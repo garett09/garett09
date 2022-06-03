@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon, Resident Evil Village, and more are coming to PlayStation VR2](https://www.theverge.com/2022/6/2/23152445/horizon-resident-evil-village-4-no-mans-sky-playstation-vr2-psvr2-trailers)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [Sources: Apple plans to improve working hours for retail staff, including more hours between shifts, no work for more than five days in a row, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220602/p31#a220602p31)<!-- TECH:END -->
+ - [South Korea-based Rebellions, which builds chips designed for AI applications, raises a $50M Series A from Pavilion Capital and others at a ~$283M valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220602/p33#a220602p33)
+ - [The 12 Best Games to Play on the Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/the-12-best-games-to-play-on-the-xbox-series-x/#ftag=CAD590a51e)
+ - [Apple proposes more flexible work schedules amid unionization efforts](https://appleinsider.com/articles/22/06/02/apple-proposes-more-flexible-work-schedules-amid-unionization-efforts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
