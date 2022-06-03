@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Facebook is developing a &quot;basic ads&quot; product that doesn&#39;t rely on anonymized data from users and instead uses metrics like engagement and video views &lpar;Insider&rpar;](http://www.techmeme.com/220603/p8#a220603p8)
- - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
- - [Tempo Move review: a great idea with terrible connectivity](https://www.theverge.com/23151591/tempo-move-review-smart-gym)<!-- TECH:END -->
+ - [App Store is still growing, but not as much as expected says Katy Huberty](https://appleinsider.com/articles/22/06/03/app-store-is-still-growing-but-not-as-much-as-expected-says-katy-huberty?utm_medium=rss)
+ - [1More’s noise-canceling ComfoBuds Pro are nearly half off at $55](https://www.theverge.com/good-deals/2022/6/3/23151589/1more-comfobuds-pro-earbuds-fitbit-versa-3-luxe-hp-spectre-x360-14-echo-show-15-deal-sale)
+ - [Sci-Fi Needs More Dark, Serious Animation](https://www.wired.com/2022/06/geeks-guide-david-s-f-wilson)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
