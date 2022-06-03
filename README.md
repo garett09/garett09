@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, what can I say](http://9gag.com/gag/aegPEMp)
- - 🚯 [More games need to have this](http://9gag.com/gag/aKmNy8W)
- - 🚯 [It is what it is](http://9gag.com/gag/axBn8VW)<!-- MEMES:END -->
+ - 🚖 [Occupied Berdiansk nowadays](http://9gag.com/gag/a613gm8)
+ - 🚯 [It is what it is](http://9gag.com/gag/axBn8VW)
+ - 🚯 [Also the middle eastern](http://9gag.com/gag/aegPqyQ)<!-- MEMES:END -->
 
 --- 
 
