@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who is this guy?](http://9gag.com/gag/aDDNLqN)
- - 🚯 [Fish a wrong fish](http://9gag.com/gag/a613zo2)
- - 🚯 [More games need to have this](http://9gag.com/gag/aKmNy8W)<!-- MEMES:END -->
+ - 🚖 [More games need to have this](http://9gag.com/gag/aKmNy8W)
+ - 🚯 [Give it up to the](http://9gag.com/gag/aKmNXOO)
+ - 🚯 [Handmade costume by this girl](http://9gag.com/gag/a41rgVy)<!-- MEMES:END -->
 
 --- 
 
