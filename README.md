@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad made just one or two mods](http://9gag.com/gag/arnr9OB)
- - 🚯 [The original boss - when ur absolutely not giving up](http://9gag.com/gag/aDDNr2G)
+ - 🚖 [Because to them, you are the whole world.](http://9gag.com/gag/aBnNjvA)
+ - 🚯 [\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOQNNMy)
  - 🚯 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 --- 
