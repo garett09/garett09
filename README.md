@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store is still growing, but not as much as expected says Katy Huberty](https://appleinsider.com/articles/22/06/03/app-store-is-still-growing-but-not-as-much-as-expected-says-katy-huberty?utm_medium=rss)
- - [1More’s noise-canceling ComfoBuds Pro are nearly half off at $55](https://www.theverge.com/good-deals/2022/6/3/23151589/1more-comfobuds-pro-earbuds-fitbit-versa-3-luxe-hp-spectre-x360-14-echo-show-15-deal-sale)
- - [Sci-Fi Needs More Dark, Serious Animation](https://www.wired.com/2022/06/geeks-guide-david-s-f-wilson)<!-- TECH:END -->
+ - [Cruise can finally start charging for fully driverless robotaxis](https://www.theverge.com/2022/6/3/23153183/cruise-paid-driverless-rides-fares-san-francisco)
+ - [Samsung’s forthcoming Galaxy Watch 5 Pro ‘confirmed’ in beta app](https://www.theverge.com/2022/6/3/23153057/samsung-galaxy-watch-5-pro-smartwatch-wearable)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
