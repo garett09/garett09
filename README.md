@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leon&#39;s jacket in Resident Evil 4 Remake is a real thing you can buy](https://www.pcgamer.com/leons-jacket-in-resident-evil-4-remake-is-a-real-thing-you-can-buy)
- - [Nvidia&#39;s RTX 40 series may be many months away from release](https://www.pcgamer.com/nvidias-rtx-40-series-may-be-many-months-away-from-release)
- - [The Afrofuturist musical Neptune Frost lays out a bold, bizarre vision for a world to come](https://www.polygon.com/22903338/neptune-frost-review-afrofuturism-musical-sci-fi)<!-- GAME:END -->
+ - [The Boys season 3 makes the case against fandom](https://www.polygon.com/reviews/23150171/the-boys-season-3-review-amazon)
+ - [Unavowed developer release time-travelling trailer for their latest game](https://www.pcgamer.com/unavowed-developer-release-time-travelling-trailer-for-their-latest-game)
+ - [Today&#39;s Wordle answer #349: Friday, June 3](https://www.pcgamer.com/wordle-june-3-349)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
