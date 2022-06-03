@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A pilot project in gautemala to control plastic waste to the ocean.](http://9gag.com/gag/a81XNLY)
- - 🚯 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)
- - 🚯 [Biblically accurate BBQ](http://9gag.com/gag/aOQN5DR)<!-- MEMES:END -->
+ - 🚖 [Disney hear me out...!!!](http://9gag.com/gag/ajgM401)
+ - 🚯 [Biblically accurate BBQ](http://9gag.com/gag/aOQN5DR)
+ - 🚯 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)<!-- MEMES:END -->
 
 --- 
 
