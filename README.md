@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/a11q8LR)
- - 🚯 [Get a dog they said](http://9gag.com/gag/amgbKDv)
- - 🚯 [Johnny Depp version India &lpar;\u20b9500 = $7&rpar;](http://9gag.com/gag/a21jALD)<!-- MEMES:END -->
+ - 🚖 [It is what it is](http://9gag.com/gag/axBn8VW)
+ - 🚯 [Driver tries to run over Insulate Britain protestors](http://9gag.com/gag/abgmKoL)
+ - 🚯 [Facts](http://9gag.com/gag/a11q8LR)<!-- MEMES:END -->
 
 --- 
 
