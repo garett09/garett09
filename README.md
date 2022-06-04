@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that escalated quickly...](http://9gag.com/gag/aXrGBAD)
+ - 🚖 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)
  - 🚯 [Every single time.](http://9gag.com/gag/aXrGyB2)
- - 🚯 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)<!-- MEMES:END -->
+ - 🚯 [Welcome to Australia](http://9gag.com/gag/aOQNMoN)<!-- MEMES:END -->
 
 --- 
 
