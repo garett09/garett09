@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an NLRB complaint, the CWA alleges Activision Blizzard illegally terminated a dozen workers and reorganized operations at Raven Software amid union efforts &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220603/p21#a220603p21)
- - [MacBook Air may not launch with large array of colors](https://appleinsider.com/articles/22/06/04/macbook-air-may-not-launch-with-large-array-of-colors?utm_medium=rss)
- - [Disney&#39;s &#39;Ultra Violet &amp; Black Scorpion&#39; Is a Latinx Superhero Comedy     - CNET](https://www.cnet.com/culture/entertainment/disneys-ultra-violet-black-scorpion-is-a-latinx-superhero-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Denmark-based ZeroNorth, which develops software tools to help the global shipping industry cut emissions, raises a $50M+ Series B from PSG Equity and others &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220603/p23#a220603p23)
+ - [LatchBio, which develops a web-based service for biologists to integrate, process, and visualize data, raises a $28M Series A co-led by Coatue and Lux Capital &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220603/p22#a220603p22)
+ - [In an NLRB complaint, the CWA alleges Activision Blizzard illegally terminated a dozen workers and reorganized operations at Raven Software amid union efforts &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220603/p21#a220603p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
