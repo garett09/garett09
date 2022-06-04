@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Disney hear me out...!!!](http://9gag.com/gag/ajgM401)
  - 🚯 [Still trying.](http://9gag.com/gag/apgjMEp)
- - 🚯 [War never changes](http://9gag.com/gag/aegPEnQ)<!-- MEMES:END -->
+ - 🚯 [Origin of the meme](http://9gag.com/gag/aAGN54R)<!-- MEMES:END -->
 
 --- 
 
