@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those damn coons again](http://9gag.com/gag/avAXKnM)
- - 🚯 [Laid to rest](http://9gag.com/gag/aNP2573)
+ - 🚖 [Laid to rest](http://9gag.com/gag/aNP2573)
+ - 🚯 [Engineer from Sweden invents a suit that changes the lives of Parkinson&#39;s and stroke patients. With the help of electrical stimulation, it can get rid of tremors.](http://9gag.com/gag/aDDNerN)
  - 🚯 [Lemons](http://9gag.com/gag/aVx1ywK)<!-- MEMES:END -->
 
 --- 
