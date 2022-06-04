@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Homebrew project adds continuous glucose monitoring to the Apple Watch](https://appleinsider.com/articles/22/06/04/homebrew-project-adds-continuous-glucose-monitoring-to-the-apple-watch?utm_medium=rss)
- - [Meituan reports Q1 revenue of $6.9B, up 25% YoY, and a net loss of ~$855M, propelled by a 47% YoY increase in revenue from new businesses such as ride-hailing &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220604/p6#a220604p6)
- - [Samsung Galaxy A53 5G vs Google Pixel 6a: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-a53-5g-vs-google-pixel-6a-3172160/)<!-- TECH:END -->
+ - [Apple&#39;s mixed reality headset may miss WWDC for 2023 launch](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-435-3172770/)
+ - [Glasses or no glasses, this year’s WWDC is all about AR](https://www.theverge.com/2022/6/4/23150897/wwdc-2022-apple-ar-glasses-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
