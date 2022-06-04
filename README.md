@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Full Counter to all Karens.](http://9gag.com/gag/aZrVOOX)
- - 🚯 [Lemons](http://9gag.com/gag/aVx1ywK)
- - 🚯 [Himachal Pradesh, India &lpar;looks like a Disney fairytale&rpar;](http://9gag.com/gag/a41rOdw)<!-- MEMES:END -->
+ - 🚖 [Please give him an oscar! a golden globe or all the damn trophies of the film academy, this is an incredible actor! Watching him in his role you don&#39;t know if he is going to kill you, yell, smile or hug you, his expressions are incredible and his psychopath makes you very nervous](http://9gag.com/gag/a21jXKw)
+ - 🚯 [Ralphie May. Rest in peace](http://9gag.com/gag/aLvN7Rg)
+ - 🚯 [Destruction 100.](http://9gag.com/gag/a613Yg2)<!-- MEMES:END -->
 
 --- 
 
