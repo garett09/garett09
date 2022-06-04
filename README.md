@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Engineer from Sweden invents a suit that changes the lives of Parkinson&#39;s and stroke patients. With the help of electrical stimulation, it can get rid of tremors.](http://9gag.com/gag/aDDNerN)
- - 🚯 [A good Day](http://9gag.com/gag/aNP2E2A)
- - 🚯 [Roberto Carlos vs France, 25 years ago today](http://9gag.com/gag/aZrVYA6)<!-- MEMES:END -->
+ - 🚖 [The struggle is real](http://9gag.com/gag/aXrGyD6)
+ - 🚯 [A Mexican?](http://9gag.com/gag/apgj4Zp)
+ - 🚯 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)<!-- MEMES:END -->
 
 --- 
 
