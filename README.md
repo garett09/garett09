@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friday my friends](http://9gag.com/gag/ajgMwxG)
- - 🚯 [Those damn coons again](http://9gag.com/gag/avAXKnM)
+ - 🚖 [Those damn coons again](http://9gag.com/gag/avAXKnM)
+ - 🚯 [Laid to rest](http://9gag.com/gag/aNP2573)
  - 🚯 [Lemons](http://9gag.com/gag/aVx1ywK)<!-- MEMES:END -->
 
 --- 
