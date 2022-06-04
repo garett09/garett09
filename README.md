@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please give him an oscar! a golden globe or all the damn trophies of the film academy, this is an incredible actor! Watching him in his role you don&#39;t know if he is going to kill you, yell, smile or hug you, his expressions are incredible and his psychopath makes you very nervous](http://9gag.com/gag/a21jXKw)
- - 🚯 [Ralphie May. Rest in peace](http://9gag.com/gag/aLvN7Rg)
+ - 🚖 [Extruded.aluminium factory Jun 22](http://9gag.com/gag/a91NGxW)
+ - 🚯 [Engineer from Sweden invents a suit that changes the lives of Parkinson&#39;s and stroke patients. With the help of electrical stimulation, it can get rid of tremors.](http://9gag.com/gag/aDDNerN)
  - 🚯 [Destruction 100.](http://9gag.com/gag/a613Yg2)<!-- MEMES:END -->
 
 --- 
