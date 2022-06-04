@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an NLRB complaint, the CWA alleges Activision Blizzard illegally terminated a dozen workers and reorganized operations at Raven Software amid union efforts &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220603/p21#a220603p21)
  - [MacBook Air may not launch with large array of colors](https://appleinsider.com/articles/22/06/04/macbook-air-may-not-launch-with-large-array-of-colors?utm_medium=rss)
- - [Disney&#39;s &#39;Ultra Violet &amp; Black Scorpion&#39; Is a Latinx Superhero Comedy     - CNET](https://www.cnet.com/culture/entertainment/disneys-ultra-violet-black-scorpion-is-a-latinx-superhero-comedy/#ftag=CAD590a51e)
- - [Best Fitbit Deals: Save $100 Off Sense, $66 Off Verse 3, $40 Off Charge 4 and More     - CNET](https://www.cnet.com/tech/mobile/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney&#39;s &#39;Ultra Violet &amp; Black Scorpion&#39; Is a Latinx Superhero Comedy     - CNET](https://www.cnet.com/culture/entertainment/disneys-ultra-violet-black-scorpion-is-a-latinx-superhero-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
