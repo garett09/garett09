@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disney hear me out...!!!](http://9gag.com/gag/ajgM401)
- - 🚯 [Still trying.](http://9gag.com/gag/apgjMEp)
- - 🚯 [Origin of the meme](http://9gag.com/gag/aAGN54R)<!-- MEMES:END -->
+ - 🚖 [Friday my friends](http://9gag.com/gag/ajgMwxG)
+ - 🚯 [Those damn coons again](http://9gag.com/gag/avAXKnM)
+ - 🚯 [Lemons](http://9gag.com/gag/aVx1ywK)<!-- MEMES:END -->
 
 --- 
 
