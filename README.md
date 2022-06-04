@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)
- - 🚯 [Every single time.](http://9gag.com/gag/aXrGyB2)
- - 🚯 [Welcome to Australia](http://9gag.com/gag/aOQNMoN)<!-- MEMES:END -->
+ - 🚖 [Every single time.](http://9gag.com/gag/aXrGyB2)
+ - 🚯 [Lol](http://9gag.com/gag/azeDnGb)
+ - 🚯 [Don&#39;t judge a book by it&#39;s cover](http://9gag.com/gag/aegPnY5)<!-- MEMES:END -->
 
 --- 
 
