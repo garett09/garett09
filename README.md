@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wisdom](http://9gag.com/gag/a11qz5D)
- - 🚯 [ER MAH GUUURRRRD](http://9gag.com/gag/aQXN0qe)
- - 🚯 [Footage of a 12 year old kid in Michigan robbing a gas station at gun point](http://9gag.com/gag/abgmjXL)<!-- MEMES:END -->
+ - 🚖 [This is an early example of a successful cranioplasty from Peru &lpar;400 CE&rpar;. The patient survived, as evidenced by the well-healed in situ cranioplasty made from a gold inlay](http://9gag.com/gag/arnr62d)
+ - 🚯 [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)
+ - 🚯 [Two cuties](http://9gag.com/gag/aKmNb2g)<!-- MEMES:END -->
 
 --- 
 
