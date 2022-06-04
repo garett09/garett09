@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [By mistake, I mean NOT a BIG mistake like cheating or being irresponsible.](http://9gag.com/gag/a11qGxY)
- - 🚯 [Top gun is out. So we need a new one of this](http://9gag.com/gag/aLvNxo6)
- - 🚯 [This is the man who made your life so much easier. The inventor of the Microwave oven. Thank you sir.](http://9gag.com/gag/ajgMo7g)<!-- MEMES:END -->
+ - 🚯 [This is the man who made your life so much easier. The inventor of the Microwave oven. Thank you sir.](http://9gag.com/gag/ajgMo7g)
+ - 🚯 [ER MAH GUUURRRRD](http://9gag.com/gag/aQXN0qe)<!-- MEMES:END -->
 
 --- 
 
