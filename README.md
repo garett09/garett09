@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 4: $399 Gen 4 iPad Air, half-price Shark IQ Robot Vacuum, $83 Ruko Robot, more](https://appleinsider.com/articles/22/06/04/daily-deals-june-4-399-gen-4-ipad-air-half-price-shark-iq-robot-vacuum-83-ruko-robot-more?utm_medium=rss)
- - [Stock Android needs this nifty Xiaomi file-sharing feature](https://www.androidauthority.com/xiaomi-miui-ftp-opinion-3161880/)
- - [Your Tim Hortons Coffee App Knew Where You Were at All Times](https://www.wired.com/story/tim-hortons-coffee-app-location-data-tracking)<!-- TECH:END -->
+ - [The Best Xbox Game Pass Games, From Citizen Sleeper to Weird West](https://www.wired.com/gallery/best-xbox-game-pass-games)
+ - [Amazon Watches Its Workers and Waits for Them to Fail](https://www.wired.com/story/amazon-worker-tracking-details-revealed)
+ - [Google May Owe You a Chunk of $100 Million](https://www.wired.com/story/google-photos-settlement-us-ukraine-hacks-michael-flynn-unmasking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
