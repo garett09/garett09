@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Every single time.](http://9gag.com/gag/aXrGyB2)
- - 🚯 [Lol](http://9gag.com/gag/azeDnGb)
- - 🚯 [Don&#39;t judge a book by it&#39;s cover](http://9gag.com/gag/aegPnY5)<!-- MEMES:END -->
+ - 🚯 [Don&#39;t judge a book by it&#39;s cover](http://9gag.com/gag/aegPnY5)
+ - 🚯 [Homer&#39;s change](http://9gag.com/gag/adg4E2B)<!-- MEMES:END -->
 
 --- 
 
