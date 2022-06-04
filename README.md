@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the man who made your life so much easier. The inventor of the Microwave oven. Thank you sir.](http://9gag.com/gag/ajgMo7g)
- - 🚯 [Exactly that word.](http://9gag.com/gag/aOQNXAv)
- - 🚯 [Hehe](http://9gag.com/gag/aogqXrA)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/aogqXrA)
+ - 🚯 [Porsche douchebag in Portugal](http://9gag.com/gag/aE8N37M)
+ - 🚯 [Monke](http://9gag.com/gag/avAXNMZ)<!-- MEMES:END -->
 
 --- 
 
