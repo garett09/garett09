@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aogqXrA)
- - 🚯 [Porsche douchebag in Portugal](http://9gag.com/gag/aE8N37M)
- - 🚯 [Monke](http://9gag.com/gag/avAXNMZ)<!-- MEMES:END -->
+ - 🚖 [By mistake, I mean NOT a BIG mistake like cheating or being irresponsible.](http://9gag.com/gag/a11qGxY)
+ - 🚯 [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)
+ - 🚯 [Top gun is out. So we need a new one of this](http://9gag.com/gag/aLvNxo6)<!-- MEMES:END -->
 
 --- 
 
