@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legendary prank](http://9gag.com/gag/azeobON)
- - 🚯 [God of Rock](http://9gag.com/gag/aYrZNnx)
+ - 🚖 [Life is good! Be happy!](http://9gag.com/gag/aegyNj5)
+ - 🚯 [I have loads of friends](http://9gag.com/gag/ay9Zp9r)
  - 🚯 [One more from \u201dWhat Is A Woman ?\u201d Hope more people get to see it, especially teens and parents.](http://9gag.com/gag/aGz693K)<!-- MEMES:END -->
 
 --- 
