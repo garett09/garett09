@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)
- - 🚯 [Surprise mother trucker!](http://9gag.com/gag/aM4D2RA)
- - 🚯 [Legendary prank](http://9gag.com/gag/azeobON)<!-- MEMES:END -->
+ - 🚖 [Legendary prank](http://9gag.com/gag/azeobON)
+ - 🚯 [God of Rock](http://9gag.com/gag/aYrZNnx)
+ - 🚯 [One more from \u201dWhat Is A Woman ?\u201d Hope more people get to see it, especially teens and parents.](http://9gag.com/gag/aGz693K)<!-- MEMES:END -->
 
 --- 
 
