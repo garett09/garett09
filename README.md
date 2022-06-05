@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People nursing a neglected baby orangutan back to health](http://9gag.com/gag/aKmNbKW)
- - 🚯 [Daily dose of feelgood](http://9gag.com/gag/angWAwz)
- - 🚯 [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)<!-- MEMES:END -->
+ - 🚖 [I love the smell of redhead in the morning](http://9gag.com/gag/axBQE0M)
+ - 🚯 [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)
+ - 🚯 [Have you ever hated someone so much .](http://9gag.com/gag/azeo7Dj)<!-- MEMES:END -->
 
 --- 
 
