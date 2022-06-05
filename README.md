@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Studio Display vs Dell UltraSharp 32 4K Video Conferencing Monitor](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-dell-ultrasharp-32-4k-video-conferencing-monitor?utm_medium=rss)
- - [Polar’s Latest Running Watch Thinks It&#39;s Smarter Than It Is](https://www.wired.com/review/polar-pacer-2)
- - [Fortnite’s new season has a rollercoaster, Darth Vader, and vibes](https://www.theverge.com/2022/6/5/23153012/fortnite-chapter-3-season-3-vibin-darth-vader)<!-- TECH:END -->
+ - [Refreshed 13-inch MacBook Pro won&#39;t join MacBook Air in WWDC](https://appleinsider.com/articles/22/06/05/refreshed-13-inch-macbook-pro-wont-join-macbook-air-in-wwdc?utm_medium=rss)
+ - [Android’s file sync is broken. Here’s how I work around it.](https://www.androidauthority.com/android-file-transfer-3170085/)
+ - [These Are the 10 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
