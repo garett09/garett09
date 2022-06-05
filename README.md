@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gluttony](http://9gag.com/gag/aKmngm3)
- - 🚯 [Unlucky](http://9gag.com/gag/azeoLvK)
+ - 🚖 [Unlucky](http://9gag.com/gag/azeoLvK)
+ - 🚯 [It&#39;s a bit of a joke ofc... but cmon.. 0.65$/L was great....](http://9gag.com/gag/a11BeK8)
  - 🚯 [Oh, well....](http://9gag.com/gag/aBnj31Z)<!-- MEMES:END -->
 
 --- 
