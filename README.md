@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Drop into Fortnite Battle Royale Chapter 3 Season 3: Vibin’, live today](https://blog.playstation.com/2022/06/05/drop-into-fortnite-battle-royale-chapter-3-season-3-vibin-live-today/)
  - [Today&#39;s Wordle answer #351: Sunday, June 5](https://www.pcgamer.com/wordle-june-5-351)
- - [Great moments in PC Gaming: Releasing your first game](https://www.pcgamer.com/great-moments-in-pc-gaming-releasing-your-first-game)
- - [Nightdive wants to remaster the original Unreal next](https://www.pcgamer.com/nightdive-wants-to-remaster-the-original-unreal-next)<!-- GAME:END -->
+ - [Great moments in PC Gaming: Releasing your first game](https://www.pcgamer.com/great-moments-in-pc-gaming-releasing-your-first-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
