@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well at least he got one shot](http://9gag.com/gag/aXrQ01d)
- - 🚯 [Love her Vibes](http://9gag.com/gag/aPZzwMw)
- - 🚯 [Today in 1989 @Tiananmen square, nothing happened](http://9gag.com/gag/a91ZbYo)<!-- MEMES:END -->
+ - 🚖 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
+ - 🚯 [Down to 230lbs!](http://9gag.com/gag/aVx4jnd)
+ - 🚯 [Ate an organic salad and found this at the bottom.](http://9gag.com/gag/aPZzwwB)<!-- MEMES:END -->
 
 --- 
 
