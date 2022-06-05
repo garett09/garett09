@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unlucky](http://9gag.com/gag/azeoLvK)
- - 🚯 [It&#39;s a bit of a joke ofc... but cmon.. 0.65$/L was great....](http://9gag.com/gag/a11BeK8)
+ - 🚖 [When boss walks in](http://9gag.com/gag/aBnjQXZ)
+ - 🚯 [For 2001, Harry Potter and the Sorcerer&#39;s Stone had some good visuals and textures](http://9gag.com/gag/a0ZzLWv)
  - 🚯 [Oh, well....](http://9gag.com/gag/aBnj31Z)<!-- MEMES:END -->
 
 --- 
