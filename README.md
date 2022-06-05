@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad](http://9gag.com/gag/ang8YR5)
- - 🚯 [What&#39;s your scale fellow wizards?](http://9gag.com/gag/aKmnPzN)
- - 🚯 [Unlucky](http://9gag.com/gag/azeoLvK)<!-- MEMES:END -->
+ - 🚖 [Gluttony](http://9gag.com/gag/aKmngm3)
+ - 🚯 [Unlucky](http://9gag.com/gag/azeoLvK)
+ - 🚯 [Oh, well....](http://9gag.com/gag/aBnj31Z)<!-- MEMES:END -->
 
 --- 
 
