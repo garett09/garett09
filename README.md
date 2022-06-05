@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad](http://9gag.com/gag/ang8YR5)
- - 🚯 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
- - 🚯 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)<!-- MEMES:END -->
+ - 🚖 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
+ - 🚯 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)
+ - 🚯 [And I thought that fear was irrational](http://9gag.com/gag/a81QLn3)<!-- MEMES:END -->
 
 --- 
 
