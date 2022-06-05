@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pass me my lightsaber it\u2019s the one with](http://9gag.com/gag/azeo7Lp)
- - 🚯 [Predictable](http://9gag.com/gag/aDDNEpK)
- - 🚯 [Yup.](http://9gag.com/gag/a41rMyv)<!-- MEMES:END -->
+ - 🚖 [People nursing a neglected baby orangutan back to health](http://9gag.com/gag/aKmNbKW)
+ - 🚯 [Well, It worked](http://9gag.com/gag/azeD62m)
+ - 🚯 [Two cuties](http://9gag.com/gag/aKmNb2g)<!-- MEMES:END -->
 
 --- 
 
