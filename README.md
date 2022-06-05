@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
- - 🚯 [Down to 230lbs!](http://9gag.com/gag/aVx4jnd)
- - 🚯 [Ate an organic salad and found this at the bottom.](http://9gag.com/gag/aPZzwwB)<!-- MEMES:END -->
+ - 🚖 [Sad](http://9gag.com/gag/ang8YR5)
+ - 🚯 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
+ - 🚯 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)<!-- MEMES:END -->
 
 --- 
 
