@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the most satisfying play ever.](http://9gag.com/gag/abgmjZB)
- - 🚯 [This movie...](http://9gag.com/gag/aM4NR3G)
- - 🚯 [Exactly that word.](http://9gag.com/gag/aOQNXAv)<!-- MEMES:END -->
+ - 🚖 [Pass me my lightsaber it\u2019s the one with](http://9gag.com/gag/azeo7Lp)
+ - 🚯 [Predictable](http://9gag.com/gag/aDDNEpK)
+ - 🚯 [Yup.](http://9gag.com/gag/a41rMyv)<!-- MEMES:END -->
 
 --- 
 
