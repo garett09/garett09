@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, It worked](http://9gag.com/gag/azeD62m)
+ - 🚖 [This is the most satisfying play ever.](http://9gag.com/gag/abgmjZB)
  - 🚯 [This movie...](http://9gag.com/gag/aM4NR3G)
- - 🚯 [B*tch gets b*tch slapped. Justice is served.](http://9gag.com/gag/amgbDzX)<!-- MEMES:END -->
+ - 🚯 [Exactly that word.](http://9gag.com/gag/aOQNXAv)<!-- MEMES:END -->
 
 --- 
 
