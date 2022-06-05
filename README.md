@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)
- - [Apple Music basics: How to get started, make playlists, and more](https://appleinsider.com/inside/apple-music/tips/apple-music-basics-how-to-get-started-make-playlists-and-more?utm_medium=rss)
- - [Daily deals June 5: $239 eero Pro 6E Tri-Band Mesh Wi-Fi, $200 iRobot Roomba, $869 55-inch LG OLED TV, more!](https://appleinsider.com/articles/22/06/05/daily-deals-june-5-239-eero-pro-6e-tri-band-mesh-wi-fi-200-irobot-roomba-869-55-inch-lg-oled-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Save Up to 20% On Summer-Ready Sonos Speakers and Soundbars     - CNET](https://www.cnet.com/tech/home-entertainment/save-up-to-20-on-summer-ready-sonos-speakers-and-soundbars/#ftag=CAD590a51e)
+ - [What to expect at WWDC: overhauled iOS 16 lock screen with widgets, more laptop-like iPadOS 16 multitasking, redesigned MacBook Air, and more, but no headset &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220605/p5#a220605p5)
+ - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
