@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second-generation M2 Apple Silicon chip arrives in MacBook Air, MacBook Pro](https://appleinsider.com/articles/22/06/06/second-generation-m2-apple-silicon-chip-arrives-in-macbook-air-macbook-pro?utm_medium=rss)
- - [Apple unveils macOS Ventura with Stage Manager, plus using an iPhone as a webcam](https://appleinsider.com/articles/22/06/06/apple-unveils-macos-ventura-at-wwdc-2022?utm_medium=rss)
- - [Here&#39;s what you need to run iOS 16, iPadOS 16, watchOS 9, macOS Ventura, and tvOS 16](https://appleinsider.com/articles/22/06/06/heres-what-you-need-to-run-ios-16-ipados-16-watchos-9-macos-ventura-and-tvos-16?utm_medium=rss)<!-- TECH:END -->
+ - [Apple offers first developer betas of iOS 16, iPadOS 16, tvOS 16, watchOS 9, macOS 13](https://appleinsider.com/articles/22/06/06/apple-offers-first-developer-betas-of-ios-16-ipados-16-tvos-16-watchos-8-macos-13?utm_medium=rss)
+ - [Apple will continue selling the M1 Macbook Air alongside the M2 model](https://appleinsider.com/articles/22/06/06/apple-will-continue-selling-the-m1-macbook-air-alongside-the-m2-model?utm_medium=rss)
+ - [Sources: SEC is probing Binance and the 2017 ICO of its BNB token, now the world&#39;s fifth-biggest, on whether BNB is a security that should have been registered &lpar;Bloomberg&rpar;](http://www.techmeme.com/220606/p42#a220606p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
