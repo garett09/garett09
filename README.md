@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A bee movie](http://9gag.com/gag/amgK8nd)
- - 🚯 [Really really interested](http://9gag.com/gag/aXrQXmP)
- - 🚯 [Proof that saving an animals life can be a blessing](http://9gag.com/gag/a11BMe2)<!-- MEMES:END -->
+ - 🚖 [Ribbon worms are known for their proboscis growing rootlike structure that&#39;s vomited out which is designed to drag food inside.](http://9gag.com/gag/a219qAO)
+ - 🚯 [The barrier was broken, so there were signs and police were on guard. How can you still dare to break through..damn..](http://9gag.com/gag/aDDr3EN)
+ - 🚯 [Really really interested](http://9gag.com/gag/aXrQXmP)<!-- MEMES:END -->
 
 --- 
 
