@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk threatens to scrap Twitter deal over ‘breach’ of agreement](https://www.theverge.com/2022/6/6/23156233/elon-musk-twitter-bots-merger-agreement-termination-threat)
- - [Magical, which makes a Chrome extension to move data across websites and apps, raises a $35M Series A led by Coatue and says it has 300,000+ users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220606/p11#a220606p11)
- - [Final day: Apple&#39;s latest iPad Pro is on sale from $699 &lpar;up to $210 off&rpar;](https://appleinsider.com/articles/22/05/30/apples-latest-ipad-pro-is-on-sale-from-699-up-to-210-off-with-promo-code?utm_medium=rss)<!-- TECH:END -->
+ - [As Sheryl Sandberg leaves Meta, Silicon Valley loses one of its most powerful women; a report shows only 4.8% of SV&#39;s top 15 firms were led by women in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/220606/p13#a220606p13)
+ - [Apple&#39;s MacBook Air with 16GB RAM is on sale for $1,099 &amp; in stock](https://appleinsider.com/articles/22/05/19/apples-macbook-air-with-16gb-ram-is-on-sale-for-1099-in-stock?utm_medium=rss)
+ - [AlphaBay Is Taking Over the Dark Web—Again](https://www.wired.com/story/alphabay-dark-web-market-ranking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
