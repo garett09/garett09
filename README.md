@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)
- - 🚯 [Whatever!](http://9gag.com/gag/amgKrxj)
- - 🚯 [June 6th 1944](http://9gag.com/gag/arn9OPX)<!-- MEMES:END -->
+ - 🚖 [Be responsible when driving, guys..](http://9gag.com/gag/aGz60Y6)
+ - 🚯 [Meeting of former colleagues](http://9gag.com/gag/aGz604w)
+ - 🚯 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)<!-- MEMES:END -->
 
 --- 
 
