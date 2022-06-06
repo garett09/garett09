@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Croatia will adopt Euro as currency in 2023 - The 2 Euro Coin will have an image of the well known Croatian born scientist Nikola Tesla](http://9gag.com/gag/a31e31v)
- - 🚯 [Really really interested](http://9gag.com/gag/aXrQXmP)
- - 🚯 [Ribbon worms are known for their proboscis growing rootlike structure that&#39;s vomited out which is designed to drag food inside.](http://9gag.com/gag/a219qAO)<!-- MEMES:END -->
+ - 🚖 [Proof that saving an animals life can be a blessing](http://9gag.com/gag/a11BMe2)
+ - 🚯 [Drone footage of a road that got destroyed by a landslide back in 2009 in Quebec, Canada](http://9gag.com/gag/aYrZw8q)
+ - 🚯 [Police squad &lpar;1982&rpar;](http://9gag.com/gag/aogA91x)<!-- MEMES:END -->
 
 --- 
 
