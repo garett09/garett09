@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High jump competition held at a high school in Kenya.](http://9gag.com/gag/aRr9epy)
- - 🚯 [Bro have balls of steel](http://9gag.com/gag/aNP8dgA)
- - 🚯 [How to draw a happy tree.](http://9gag.com/gag/aZropDX)<!-- MEMES:END -->
+ - 🚖 [Wouldn\u2019t ya know it?](http://9gag.com/gag/amgKr6d)
+ - 🚯 [Mission failed we&#39;ll get them next time](http://9gag.com/gag/axBQgKY)
+ - 🚯 [Bro have balls of steel](http://9gag.com/gag/aNP8dgA)<!-- MEMES:END -->
 
 --- 
 
