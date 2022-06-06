@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Flanagan’s The Midnight Club is summoning something shady in its first teaser](https://www.theverge.com/2022/6/6/23156429/midnight-club-teaser-trailer-mike-flanagan)
- - [Go read this report on an AI shopping app that was actually just using humans](https://www.theverge.com/2022/6/6/23156318/artificial-intelligence-nate-app-ecommerce-go-read-this)
- - [How Tiger Global, the top US investor in startups in 2021 with 361 deals, rode tech&#39;s boom, betting big even as the market crested, and has seen gains evaporate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220606/p17#a220606p17)<!-- TECH:END -->
+ - [Apple introduces iOS 16 with a revamped widget-covered lock screen](https://appleinsider.com/articles/22/06/06/apple-introduces-ios-16-with-a-revamped-widget-covered-lock-screen?utm_medium=rss)
+ - [Apple details updates coming in iOS 16](https://www.theverge.com/2022/6/6/23149402/apple-ios-16-iphone-features-updates-release-date-wwdc)
+ - [Pixel update squeezes more useful information into the lock screen](https://www.theverge.com/2022/6/6/23156078/pixel-new-features-at-a-glance-widget-video-air-quality-pocket-operator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
