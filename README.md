@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Am Groot animated series arrives on Disney Plus in August](https://www.theverge.com/2022/6/5/23155585/i-am-groot-animated-series-arrives-disney-plus-august-marvel-guardians-of-the-galaxy)
- - [Crypto winter has come, and Coinbase is in trouble](https://www.theverge.com/2022/6/5/23155442/crypto-winter-coinbase-in-trouble-hiring-freeze-rescinded-job-offers)
- - [Our iOS 16 Wish List: Every iPhone Feature We Want To See At WWDC     - CNET](https://www.cnet.com/tech/mobile/our-ios-16-wishe-list-every-iphone-features-we-want-at-wwdc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Obi-Wan Kenobi&#39; Episode 3 Recap: New characters, cameos and that Darth Vader fight     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-3-recap-new-characters-cameos-and-that-darth-vader-fight/#ftag=CAD590a51e)
+ - [Reco, which monitors organizations&#39; internal and external data sharing for security issues, raises a $30M Series A led by Insight Partners and Zeev Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220605/p6#a220605p6)
+ - [Summer Game Fest 2022 Showcase: Start Time, How to Watch, What to Expect     - CNET](https://www.cnet.com/tech/gaming/summer-game-fest-2022-showcase-start-time-how-to-watch-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
