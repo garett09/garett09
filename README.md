@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Reason for dad humor](http://9gag.com/gag/aKmnDoN)
- - 🚯 [WHOOAA! I FEEL GOOD](http://9gag.com/gag/aqGB7mj)
- - 🚯 [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
+ - 🚯 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)<!-- MEMES:END -->
 
 --- 
 
