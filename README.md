@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bananameant](http://9gag.com/gag/a0ZzjPn)
- - 🚯 [After the scheduled player couldn&#39;t get in time, Johnny Carson asked someone from the audience to come up and play piano for Tonight Show in 1985. David Tolley was chosen from the audience and gave a surprising, jaw-dropping performance.](http://9gag.com/gag/aYrZeq0)
- - 🚯 [What a view](http://9gag.com/gag/awzPVQ1)<!-- MEMES:END -->
+ - 🚖 [I did this with fuse beads. What do youbguys think? 14 ,000 beads](http://9gag.com/gag/amgK9j2)
+ - 🚯 [What a view](http://9gag.com/gag/awzPVQ1)
+ - 🚯 [How to draw a happy tree.](http://9gag.com/gag/aZropDX)<!-- MEMES:END -->
 
 --- 
 
