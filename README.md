@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new MacBook Air with M2 processor in multiple colors](https://appleinsider.com/articles/22/06/06/apple-unveils-new-macbook-air-with-m2-processor-in-multiple-colors?utm_medium=rss)
- - [Second-generation M2 Apple Silicon chip arrives in MacBook Air, MacBook Pro](https://appleinsider.com/articles/22/06/06/second-generation-m2-apple-silicon-chip-arrives-in-macbook-air-macbook-pro?utm_medium=rss)
- - [Apple adds new atrial fibrillation feature to watchOS 9](https://www.theverge.com/2022/6/6/23156757/apple-atrial-fibrillation-watchos-history-wwdc)<!-- TECH:END -->
+ - [Apple&#39;s iPadOS 16 brings full external display support, overlapping windows to M1 iPads](https://appleinsider.com/articles/22/06/06/apples-ipados-16-has-new-collaboration-features-more?utm_medium=rss)
+ - [Apple offers first developer betas of iOS 16, iPadOS 16, tvOS 16, watchOS 8, macOS 13](https://appleinsider.com/articles/22/06/06/apple-offers-first-developer-betas-of-ios-16-ipados-16-tvos-16-watchos-8-macos-13?utm_medium=rss)
+ - [Apple debuts 13-inch MacBook Pro with upgraded M2 processor](https://appleinsider.com/articles/22/06/06/apple-debuts-13-inch-macbook-pro-with-upgraded-m2-processor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
