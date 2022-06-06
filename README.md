@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Constantine](http://9gag.com/gag/aXrQvd2)
- - 🚯 [Meeting of former colleagues](http://9gag.com/gag/aGz604w)
- - 🚯 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
+ - 🚯 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)
+ - 🚯 [We&#39;ve come to a point where Karl Urban has been cast in pretty much every major fiction genre](http://9gag.com/gag/aXrQqMb)<!-- MEMES:END -->
 
 --- 
 
