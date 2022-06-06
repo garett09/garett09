@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces iOS 16 with a revamped widget-covered lock screen](https://appleinsider.com/articles/22/06/06/apple-introduces-ios-16-with-a-revamped-widget-covered-lock-screen?utm_medium=rss)
- - [Apple details updates coming in iOS 16](https://www.theverge.com/2022/6/6/23149402/apple-ios-16-iphone-features-updates-release-date-wwdc)
- - [Pixel update squeezes more useful information into the lock screen](https://www.theverge.com/2022/6/6/23156078/pixel-new-features-at-a-glance-widget-video-air-quality-pocket-operator)<!-- TECH:END -->
+ - [Apple unveils new MacBook Air with M2 processor in multiple colors](https://appleinsider.com/articles/22/06/06/apple-unveils-new-macbook-air-with-m2-processor-in-multiple-colors?utm_medium=rss)
+ - [Second-generation M2 Apple Silicon chip arrives in MacBook Air, MacBook Pro](https://appleinsider.com/articles/22/06/06/second-generation-m2-apple-silicon-chip-arrives-in-macbook-air-macbook-pro?utm_medium=rss)
+ - [Apple adds new atrial fibrillation feature to watchOS 9](https://www.theverge.com/2022/6/6/23156757/apple-atrial-fibrillation-watchos-history-wwdc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
