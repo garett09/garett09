@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince Of Persia Remake Somehow In Even More Trouble](https://kotaku.com/prince-persia-sands-time-remake-ubisoft-delayed-deliste-1849021624)
- - [N64 modder achieves ray tracing and other advanced effects across multiple games](https://www.pcgamer.com/n64-modder-achieves-ray-tracing-and-other-advanced-effects-across-multiple-games)
- - [For the price of one AAA game, you can get hundreds of queer indies in this bundle](https://www.pcgamer.com/for-the-price-of-one-aaa-game-you-can-get-hundreds-of-queer-indies-in-this-bundle)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;June 6, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-6-2022)
+ - [Warhammer 40,000: Darktide will have &#39;thousands&#39; of party banter lines despite custom characters](https://www.pcgamer.com/warhammer-40000-darktide-will-have-thousands-of-party-banter-lines-despite-custom-characters)
+ - [Gotham Knights Game Distances Itself From Gotham Knights TV Show](https://kotaku.com/gotham-knights-video-game-tv-series-cw-confusion-tweet-1849021683)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
