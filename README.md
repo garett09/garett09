@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proof that saving an animals life can be a blessing](http://9gag.com/gag/a11BMe2)
- - 🚯 [Drone footage of a road that got destroyed by a landslide back in 2009 in Quebec, Canada](http://9gag.com/gag/aYrZw8q)
- - 🚯 [Police squad &lpar;1982&rpar;](http://9gag.com/gag/aogA91x)<!-- MEMES:END -->
+ - 🚖 [Bananameant](http://9gag.com/gag/a0ZzjPn)
+ - 🚯 [After the scheduled player couldn&#39;t get in time, Johnny Carson asked someone from the audience to come up and play piano for Tonight Show in 1985. David Tolley was chosen from the audience and gave a surprising, jaw-dropping performance.](http://9gag.com/gag/aYrZeq0)
+ - 🚯 [What a view](http://9gag.com/gag/awzPVQ1)<!-- MEMES:END -->
 
 --- 
 
