@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bolt Loaned Employees Thousands to Buy Stock—Then Laid Them Off](https://www.wired.com/story/bolt-stock-loans)
- - [A New Kind of Genome Editing Is Here to Fine-Tune DNA](https://www.wired.com/story/a-new-kind-of-genome-editing-is-here-to-fine-tune-dna)
- - [Google&#39;s Russian Empire Faces an Uncertain Future](https://www.wired.com/story/google-russia-exit)<!-- TECH:END -->
+ - [Sources: Chinese regulators will conclude yearlong probes into Didi, logistics platform Full Truck Alliance and recruitment firm Kanzhun as early as this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220606/p6#a220606p6)
+ - [How to create an NFT — and why you may not want to](https://www.theverge.com/22809090/nft-create-opensea-rarible-cryptocurrency-ethereum-collectibles-how-to)
+ - [The Next Challenge for Solid-State Batteries? Making Lots of Them](https://www.wired.com/story/the-next-challenge-for-solid-state-batteries-making-lots-of-them)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
