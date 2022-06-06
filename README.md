@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When boss walks in](http://9gag.com/gag/aBnjQXZ)
- - 🚯 [We live in a time where intelligent people are silenced so that stupid people won&#39;t be offended!](http://9gag.com/gag/aegypbb)
- - 🚯 [Oh, well....](http://9gag.com/gag/aBnj31Z)<!-- MEMES:END -->
+ - 🚖 [Excellent news for Croatia!: The country now meets all convergence criteria to adopt the euro as its currency on 1 January 2023](http://9gag.com/gag/a614d58)
+ - 🚯 [Legend.](http://9gag.com/gag/amgK8q9)
+ - 🚯 [What&#39;s your scale fellow wizards?](http://9gag.com/gag/aKmnPzN)<!-- MEMES:END -->
 
 --- 
 
