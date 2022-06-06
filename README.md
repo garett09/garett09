@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Obi-Wan Kenobi&#39; Episode 3 Recap: New characters, cameos and that Darth Vader fight     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-3-recap-new-characters-cameos-and-that-darth-vader-fight/#ftag=CAD590a51e)
- - [Reco, which monitors organizations&#39; internal and external data sharing for security issues, raises a $30M Series A led by Insight Partners and Zeev Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220605/p6#a220605p6)
- - [Summer Game Fest 2022 Showcase: Start Time, How to Watch, What to Expect     - CNET](https://www.cnet.com/tech/gaming/summer-game-fest-2022-showcase-start-time-how-to-watch-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need To Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-netflix-2022/#ftag=CAD590a51e)
+ - [M1 Ultra, M1 Pro, M1 Max and M1: Apple Mac Chips Compared     - CNET](https://www.cnet.com/tech/computing/m1-ultra-m1-pro-m1-max-and-m1-apple-mac-chips-compared/#ftag=CAD590a51e)
+ - [Mac Pro Rumors: Could an M1 Ultra Desktop Tower Arrive June 6?     - CNET](https://www.cnet.com/tech/computing/mac-pro-rumors-could-an-m1-ultra-desktop-tower-arrive-june-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
