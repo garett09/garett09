@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New evidence suggests the Pixel tablet could replace your Google Nest Hub](https://www.androidauthority.com/pixel-tablet-nest-hub-replacement-3172950/)
- - [Google Colaboratory, a web service popular with AI researchers for running Python code, quietly bans deepfake-related projects, though some remain &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220606/p2#a220606p2)
- - [Now the Pixel 6a has been listed for sale on Facebook way before its release](https://www.androidauthority.com/google-pixel-6a-sale-facebook-marketplace-3172409/)<!-- TECH:END -->
+ - [Microsoft tests Windows 11 store that won’t update apps if you’re using them](https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature)
+ - [No longer a concept? A smartphone with 200W charging could be coming soon](https://www.androidauthority.com/200w-charging-smartphone-3172973/)
+ - [BMW&#39;s M Hybrid V8 LMDh Race Car Debuts Rad Livery for Testing     - CNET](https://www.cnet.com/roadshow/news/bmw-m-hybrid-v8-lmdh-race-car-testing-livery-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
