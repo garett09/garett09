@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon All-Star Brawl just got voice acting](https://www.polygon.com/23156943/nickelodeon-all-star-brawl-just-got-voice-acting)
- - [Giant Bomb Co-Founder Jeff Gerstmann Leaving Site After 14 Years](https://kotaku.com/giant-bomb-jeff-gertsmann-14-years-leaving-departure-bo-1849025179)
- - [Dragon Age QA Workers Vote Unanimously To Form Labor Union](https://kotaku.com/dragon-age-4-bioware-labor-union-keywords-edmonton-1849025110)<!-- GAME:END -->
+ - [The First Blockchain Game Coming To The Epic Store Looks Like Garbage](https://kotaku.com/epic-games-web3-pc-blockchain-nft-video-game-grit-1849025194)
+ - [Tim Sweeney says Fortnite Token cryptocurrency is &#39;a scam&#39;](https://www.pcgamer.com/tim-sweeney-says-fortnite-token-cryptocurrency-is-a-scam)
+ - [Be on the lookout for this malware that hijacks your browser and generates bogus search results](https://www.pcgamer.com/be-on-the-lookout-for-this-malware-that-hijacks-your-browser-and-generates-bogus-search-results)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
