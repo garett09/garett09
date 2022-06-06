@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excellent news for Croatia!: The country now meets all convergence criteria to adopt the euro as its currency on 1 January 2023](http://9gag.com/gag/a614d58)
- - 🚯 [Legend.](http://9gag.com/gag/amgK8q9)
- - 🚯 [What&#39;s your scale fellow wizards?](http://9gag.com/gag/aKmnPzN)<!-- MEMES:END -->
+ - 🚖 [Proof that saving an animals life can be a blessing](http://9gag.com/gag/a11BMe2)
+ - 🚯 [Too lazy to think up title](http://9gag.com/gag/aogAj7n)
+ - 🚯 [Here we go boys](http://9gag.com/gag/aYrZWbO)<!-- MEMES:END -->
 
 --- 
 
