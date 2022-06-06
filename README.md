@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details new APIs &amp; Xcode Cloud for developers](https://appleinsider.com/articles/22/06/06/apple-details-new-apis-xcode-cloud-for-developers?utm_medium=rss)
- - [Apple is finally adding some of Gmail’s best features to its own email apps](https://www.theverge.com/2022/6/6/23157188/apple-mail-gmail-undo-scheduled-send-forget-attachment)
- - [Apple announces macOS Ventura with new Stage Manager organization tool](https://www.theverge.com/2022/6/6/23148410/apple-macos-13-features-system-preferences-wwdc)<!-- TECH:END -->
+ - [MFS Africa, a digital payments network in Africa, acquires Oklahoma-based Global Technology Partners, which makes prepaid payments software, for $34M &lpar;David Pilling/Financial Times&rpar;](http://www.techmeme.com/220606/p46#a220606p46)
+ - [iOS 16 gets automatic &amp; standalone security updates alonside Face ID in landscape](https://appleinsider.com/articles/22/06/06/ios-16-gets-automatic-standalone-security-updates-alonside-face-id-in-landscape?utm_medium=rss)
+ - [All the New Features Coming to Your Mac This Fall](https://www.wired.com/story/apple-ventura-macos-13-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
