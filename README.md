@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Need To Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-netflix-2022/#ftag=CAD590a51e)
- - [M1 Ultra, M1 Pro, M1 Max and M1: Apple Mac Chips Compared     - CNET](https://www.cnet.com/tech/computing/m1-ultra-m1-pro-m1-max-and-m1-apple-mac-chips-compared/#ftag=CAD590a51e)
- - [Mac Pro Rumors: Could an M1 Ultra Desktop Tower Arrive June 6?     - CNET](https://www.cnet.com/tech/computing/mac-pro-rumors-could-an-m1-ultra-desktop-tower-arrive-june-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Stranger Things 4&#39; Directors Address Will Byers Plot Hole     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-directors-address-will-byers-plot-hole/#ftag=CAD590a51e)
+ - [14 Sci-Fi TV Shows on Netflix You Should Watch     - CNET](https://www.cnet.com/culture/entertainment/14-sci-fi-tv-shows-on-netflix-you-should-watch/#ftag=CAD590a51e)
+ - [More People Need To Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-netflix-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
