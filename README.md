@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out What’s New in Fortnite Battle Royale Chapter 3 – Season 3: Vibin’](https://news.xbox.com/en-us/2022/06/06/whats-new-fortnite-battle-royale-chapter-3-season-3-vibin/)
- - [How to get Heart Shadow in Destiny 2](https://www.pcgamer.com/destiny-2-heart-shadow)
- - [Everyone Uses The Steam Deck To Play Games That Are Perfect For The Switch](https://kotaku.com/valve-steam-deck-most-played-games-hades-stardew-valley-1849023047)<!-- GAME:END -->
+ - [Netflix’s new Resident Evil trailer shows zombies aren’t the only threat](https://www.polygon.com/23156611/resident-evil-netflix-series-trailer-release-date-story)
+ - [Fate: The Winx Club finally introduces a missing fan-favorite character](https://www.polygon.com/23156619/fate-the-winx-saga-clip-release-date-flora)
+ - [Consent And Compassion: How Devs Are Reshaping The Conversation Around Content Warnings](https://kotaku.com/content-warnings-consent-glitchhikers-psychonauts-2-tak-1849022977)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
