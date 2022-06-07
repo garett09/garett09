@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple honors winners in the 2022 Apple Design Awards](https://appleinsider.com/articles/22/06/07/apple-honors-winners-in-the-2022-apple-design-awards?utm_medium=rss)
- - [Apple details WeatherKit, replacing the Dark Sky API, which will let developers create apps for Android as well as Apple OSes using Apple-sourced weather data &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220606/p47#a220606p47)
- - [Apple’s Rapid Security Response will push faster updates that install on Macs without a reboot](https://www.theverge.com/2022/6/6/23157238/apple-mac-iphone-ipad-rapid-security-response-update)<!-- TECH:END -->
+ - [Vayyar, which builds radar-imaging chips and software for senior care, auto, and other industries, raises a $108M Series E at a $1B+ post-money valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220606/p52#a220606p52)
+ - [References to an unknown HomePod model can be found in the iOS 16 beta](https://appleinsider.com/articles/22/06/07/references-to-an-unknown-homepod-model-can-be-found-in-the-ios-16-beta?utm_medium=rss)
+ - [&#39;The Boys&#39; Season 3: Every Detail to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-every-detail-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
