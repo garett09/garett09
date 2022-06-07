@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal microtransactions have sparked a brutal backlash](https://www.pcgamer.com/diablo-immortal-microtransactions-have-sparked-a-brutal-backlash)
- - [In Eternights You Press R2 To Hold Hands Just Like IRL](https://kotaku.com/eternights-jrpg-persona-studio-sai-pc-playstation-state-1849030770)
- - [How to watch the Call of Duty: Modern Warfare 2 reveal](https://www.pcgamer.com/how-to-watch-the-call-of-duty-modern-warfare-2-reveal)<!-- GAME:END -->
+ - [Manga Bizarro World: One Piece Goes On Hiatus, HxH And Berserk Return](https://kotaku.com/berserk-kentaro-miura-one-piece-eiichiro-oda-hunter-x-h-1849031165)
+ - [Giant Bomb Staff Discuss Jeff Gerstmann Exit While He Starts New Podcast](https://kotaku.com/giant-bomb-jeff-gerstmann-staff-podcast-patreon-exit-de-1849031232)
+ - [The Summer Game Fest and Not-E3 2022 schedule](https://www.polygon.com/23156771/e3-2022-summer-game-fest-events-calendar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
