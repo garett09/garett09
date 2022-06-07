@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)
- - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)
- - 🚯 [She has been an old grandma since forever lmao](http://9gag.com/gag/a0ZzZRL)<!-- MEMES:END -->
+ - 🚖 [Today I fell](http://9gag.com/gag/aPZzZqn)
+ - 🚯 [She has been an old grandma since forever lmao](http://9gag.com/gag/a0ZzZRL)
+ - 🚯 [Good ol Middle East](http://9gag.com/gag/apgzNwD)<!-- MEMES:END -->
 
 --- 
 
