@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Sea Beast trailer proves the scariest adversary in the world is childcare](https://www.polygon.com/23157838/the-sea-beast-netflix-trailer-release-date)
- - [Minecraft ditched fireflies in the 1.19 update so kids&#39; real pet frogs won&#39;t croak](https://www.pcgamer.com/minecraft-ditched-fireflies-in-the-119-update-so-kids-real-pet-frogs-wont-croak)
- - [F1 Manager 2022 Available August 25](https://news.xbox.com/en-us/2022/06/07/f1-manager-2022-available-august-25/)<!-- GAME:END -->
+ - [Mystery meets shoot ‘em up action in Yurukill: The Calumniation Games, demo out today](https://blog.playstation.com/2022/06/07/mystery-meets-shoot-em-up-action-in-yurukill-the-calumniation-games-demo-out-today/)
+ - [Mystery meets shoot ‘em up action in Yurukill: The Calumniation Games, demo out today](https://blog.playstation.com/2022/06/07/mystery-meets-shoot-em-up-action-in-yurukill-the-calumniation-games-demo-out-today/)
+ - [Spacelines from the Far Out is Now Available on Xbox, PC, and Xbox Game Pass](https://news.xbox.com/en-us/2022/06/07/spacelines-from-the-far-out-is-now-available-on-xbox-pc-and-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
