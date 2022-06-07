@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU lawmakers reach an agreement on legislation that will mandate USB-C on smartphones and other electronic devices, starting in autumn 2024, to reduce e-waste &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220607/p12#a220607p12)
- - [How Marginalized Workers Can Make the Most of Remote Work](https://www.wired.com/story/marginalized-workers-remote-work)
- - [25 Father’s Day Gifts for the Dependable Dad in Your Life](https://www.wired.com/gallery/best-fathers-day-gift-ideas-2022)<!-- TECH:END -->
+ - [TikTok announces TikTok Avatars, similar to Snap&#39;s Bitmoji and Apple&#39;s Memoji, letting users customize their appearance, add voice effects, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220607/p14#a220607p14)
+ - [Want to Understand Delusions? Listen to the People Who Have Them](https://www.wired.com/story/want-to-understand-delusions-listen-to-the-people-who-have-them)
+ - [The Astell &amp; Kern UW100 Earbuds Are an Audiophile’s Dream](https://www.wired.com/review/astell-and-kern-uw100)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
