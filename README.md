@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chocolate Chess just dropped](http://9gag.com/gag/aGz6g6K)
- - 🚯 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)
- - 🚯 [F**ker should be jailed or worse](http://9gag.com/gag/ang845q)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t trust women](http://9gag.com/gag/apgz5xD)
+ - 🚯 [I broke my tongue](http://9gag.com/gag/aogAPZm)
+ - 🚯 [Every IT when they realize that they forgot to fix seven printer problems before leaving from work](http://9gag.com/gag/a81QGgO)<!-- MEMES:END -->
 
 --- 
 
