@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking the right questions for once.](http://9gag.com/gag/a31eK5N)
- - 🚯 [Looped](http://9gag.com/gag/aKmnx3W)
- - 🚯 [Smells like male privilege](http://9gag.com/gag/a614NmR)<!-- MEMES:END -->
+ - 🚖 [Smells like male privilege](http://9gag.com/gag/a614NmR)
+ - 🚯 [I shall wear them forever](http://9gag.com/gag/apgz51W)
+ - 🚯 [I can only count to four - original song](http://9gag.com/gag/aZroLz0)<!-- MEMES:END -->
 
 --- 
 
