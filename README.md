@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Companies treat truckers poorly, and then wonder why there is a trucker shortage.](http://9gag.com/gag/aRr93WB)
- - 🚯 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)
- - 🚯 [Constantine](http://9gag.com/gag/aXrQvd2)<!-- MEMES:END -->
+ - 🚖 [Rude when they don&#39;t do it back...](http://9gag.com/gag/aNP81Nr)
+ - 🚯 [The reservation](http://9gag.com/gag/aRr9jNy)
+ - 🚯 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)<!-- MEMES:END -->
 
 --- 
 
