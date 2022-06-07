@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NCSoft announces Project M, a hyper-realistic Unreal Engine 5 game](https://www.polygon.com/gaming/23158593/ncsoft-interactive-movie-project-m-unreal-engine-5)
- - [Making Disc Room for Everyone – Available Now on Game Pass](https://news.xbox.com/en-us/2022/06/07/making-disc-room-for-everyone-available-now-on-game-pass/)
- - [Author of ARC: Doom tabletop RPG honored as Diana Jones Emerging Designer](https://www.polygon.com/23158313/arc-doom-author-artist-momatoes-diana-jones-award)<!-- GAME:END -->
+ - [Diablo Immortal microtransactions have sparked a brutal backlash](https://www.pcgamer.com/diablo-immortal-microtransactions-have-sparked-a-brutal-backlash)
+ - [In Eternights You Press R2 To Hold Hands Just Like IRL](https://kotaku.com/eternights-jrpg-persona-studio-sai-pc-playstation-state-1849030770)
+ - [How to watch the Call of Duty: Modern Warfare 2 reveal](https://www.pcgamer.com/how-to-watch-the-call-of-duty-modern-warfare-2-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
