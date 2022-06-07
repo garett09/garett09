@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rude when they don&#39;t do it back...](http://9gag.com/gag/aNP81Nr)
- - 🚯 [The reservation](http://9gag.com/gag/aRr9jNy)
+ - 🚖 [The reservation](http://9gag.com/gag/aRr9jNy)
+ - 🚯 [Rude when they don&#39;t do it back...](http://9gag.com/gag/aNP81Nr)
  - 🚯 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)<!-- MEMES:END -->
 
 --- 
