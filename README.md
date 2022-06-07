@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look at Netflix’s Wendell &amp; Wild](https://www.theverge.com/2022/6/7/23158099/jordan-peele-wendell-and-wild-geeked-week)
- - [Pokemon Go TCG Crossover Event: Wimpod, Shiny Meltan and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-tcg-crossover-event-wimpod-shiny-meltan-and-more/#ftag=CAD590a51e)
- - [Best iPhone 11 and 11 Pro Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-iphone-11-and-11-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple passkey feature will be our first taste of a truly password-less future](https://appleinsider.com/articles/22/06/07/apple-passkey-feature-will-be-our-first-taste-of-a-truly-password-less-future?utm_medium=rss)
+ - [HBO Max canceled Raised by Wolves after two seasons](https://www.theverge.com/2022/6/7/23157925/raised-by-wolves-canceled-hbo-max-warner-bros-discovery)
+ - [NASA Mars Helicopter Has a Dead Sensor, but It Might Still Fly     - CNET](https://www.cnet.com/science/space/nasa-mars-helicopter-has-a-dead-sensor-but-it-might-still-fly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
