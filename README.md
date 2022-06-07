@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)
- - 🚯 [Death by snus snus](http://9gag.com/gag/aBnjxNx)
- - 🚯 [Helicopter footage of a loose cow being wrangled by Emergency Services and cowboys in OKC](http://9gag.com/gag/abgKpPB)<!-- MEMES:END -->
+ - 🚖 [Companies treat truckers poorly, and then wonder why there is a trucker shortage.](http://9gag.com/gag/aRr93WB)
+ - 🚯 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)
+ - 🚯 [Constantine](http://9gag.com/gag/aXrQvd2)<!-- MEMES:END -->
 
 --- 
 
