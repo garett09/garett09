@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I fell](http://9gag.com/gag/aPZzZqn)
- - 🚯 [She has been an old grandma since forever lmao](http://9gag.com/gag/a0ZzZRL)
- - 🚯 [Good ol Middle East](http://9gag.com/gag/apgzNwD)<!-- MEMES:END -->
+ - 🚖 [Good ol Middle East](http://9gag.com/gag/apgzNwD)
+ - 🚯 [The personification of toxicity](http://9gag.com/gag/aE8ypXx)
+ - 🚯 [Today I fell](http://9gag.com/gag/aPZzZqn)<!-- MEMES:END -->
 
 --- 
 
