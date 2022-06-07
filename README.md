@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades mod adding god of music Apollo almost looks like official DLC](https://www.pcgamer.com/hades-mod-adding-god-of-music-apollo-almost-looks-like-official-dlc)
- - [One Piece manga will take one-month break ahead of story conclusion](https://www.polygon.com/23158245/one-piece-manga-final-arc-wano-viz-eiichiro-oda)
- - [Mystery meets shoot ‘em up action in Yurukill: The Calumniation Games, demo out today](https://blog.playstation.com/2022/06/07/mystery-meets-shoot-em-up-action-in-yurukill-the-calumniation-games-demo-out-today/)<!-- GAME:END -->
+ - [New Wendell &amp; Wild clip is full of spooky stop-motion](https://www.polygon.com/23158244/wendell-and-wild-clip-release-date-netflix)
+ - [One Year of Rust Console Edition. Let’s celebrate!](https://news.xbox.com/en-us/2022/06/07/one-year-of-rust-console-edition-lets-celebrate-2/)
+ - [The School for Good and Evil teaser trailer showcases a world of myth and magic](https://www.polygon.com/23158412/the-school-for-good-and-evil-first-trailer-teaser-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
