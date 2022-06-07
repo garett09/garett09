@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)
- - 🚯 [I broke my tongue](http://9gag.com/gag/aogAPZm)
- - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)<!-- MEMES:END -->
+ - 🚖 [Emma watson un speech](http://9gag.com/gag/aZroypQ)
+ - 🚯 [What kind of math do they use? I am completely lost at this point now..](http://9gag.com/gag/abgKG69)
+ - 🚯 [The personification of toxicity](http://9gag.com/gag/aE8ypXx)<!-- MEMES:END -->
 
 --- 
 
