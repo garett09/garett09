@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MFS Africa, a digital payments network in Africa, acquires Oklahoma-based Global Technology Partners, which makes prepaid payments software, for $34M &lpar;David Pilling/Financial Times&rpar;](http://www.techmeme.com/220606/p46#a220606p46)
- - [iOS 16 gets automatic &amp; standalone security updates alonside Face ID in landscape](https://appleinsider.com/articles/22/06/06/ios-16-gets-automatic-standalone-security-updates-alonside-face-id-in-landscape?utm_medium=rss)
- - [All the New Features Coming to Your Mac This Fall](https://www.wired.com/story/apple-ventura-macos-13-preview)<!-- TECH:END -->
+ - [Apple honors winners in the 2022 Apple Design Awards](https://appleinsider.com/articles/22/06/07/apple-honors-winners-in-the-2022-apple-design-awards?utm_medium=rss)
+ - [Apple details WeatherKit, replacing the Dark Sky API, which will let developers create apps for Android as well as Apple OSes using Apple-sourced weather data &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220606/p47#a220606p47)
+ - [Apple’s Rapid Security Response will push faster updates that install on Macs without a reboot](https://www.theverge.com/2022/6/6/23157238/apple-mac-iphone-ipad-rapid-security-response-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
