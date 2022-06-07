@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hypocrisy](http://9gag.com/gag/aXrQo8P)
- - 🚯 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)
- - 🚯 [Don&#39;t be an A-hole](http://9gag.com/gag/ay9ZMYq)<!-- MEMES:END -->
+ - 🚖 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)
+ - 🚯 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)
+ - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)<!-- MEMES:END -->
 
 --- 
 
