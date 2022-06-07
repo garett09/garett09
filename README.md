@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t trust women](http://9gag.com/gag/apgz5xD)
+ - 🚖 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)
  - 🚯 [I broke my tongue](http://9gag.com/gag/aogAPZm)
- - 🚯 [Every IT when they realize that they forgot to fix seven printer problems before leaving from work](http://9gag.com/gag/a81QGgO)<!-- MEMES:END -->
+ - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)<!-- MEMES:END -->
 
 --- 
 
