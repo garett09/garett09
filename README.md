@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)
- - 🚯 [The body is round](http://9gag.com/gag/arn9Gn5)
- - 🚯 [Rude when they don&#39;t do it back...](http://9gag.com/gag/aNP81Nr)<!-- MEMES:END -->
+ - 🚖 [Found a lump. Caused me anxiety for months. Got the courage to call the doctor. Doctor was a female, about my age. So embarrassed. She was awesome about it. Nothing to worry about. Sent for a scan anyway. No more anxiety. Don&#39;t die of embarrassment fellas. Get checked out. Peace.](http://9gag.com/gag/aGz6j2G)
+ - 🚯 [Death by snus snus](http://9gag.com/gag/aBnjxNx)
+ - 🚯 [I think Calvin is fu**ing right, and you?](http://9gag.com/gag/a614Oq2)<!-- MEMES:END -->
 
 --- 
 
