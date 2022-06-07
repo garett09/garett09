@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emma watson un speech](http://9gag.com/gag/aZroypQ)
- - 🚯 [What kind of math do they use? I am completely lost at this point now..](http://9gag.com/gag/abgKG69)
- - 🚯 [The personification of toxicity](http://9gag.com/gag/aE8ypXx)<!-- MEMES:END -->
+ - 🚖 [They don&#39;t make toons like they used to](http://9gag.com/gag/ang8QKB)
+ - 🚯 [Good ol Middle East](http://9gag.com/gag/apgzNwD)
+ - 🚯 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)<!-- MEMES:END -->
 
 --- 
 
