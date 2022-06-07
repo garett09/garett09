@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Y tho](http://9gag.com/gag/aQXB192)
- - 🚯 [I can only count to four - original song](http://9gag.com/gag/aZroLz0)
- - 🚯 [Yo Ho, Yo Ho, A pirates life for me...](http://9gag.com/gag/aZroLvz)<!-- MEMES:END -->
+ - 🚖 [The risk he took was calculated, but man, he&#39;s bad at math.](http://9gag.com/gag/apgz56p)
+ - 🚯 [Y tho](http://9gag.com/gag/aQXB192)
+ - 🚯 [New Fear Unlocked](http://9gag.com/gag/aWgPEYZ)<!-- MEMES:END -->
 
 --- 
 
