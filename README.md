@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Screen Time gets a handy new feature, but parental controls can be better](https://www.theverge.com/2022/6/7/23157223/apple-screen-time-family-sharing-ios-16-new-parental-control-features)
- - [Waymo is teaming up with Uber on autonomous trucking because time really heals all wounds](https://www.theverge.com/2022/6/7/23156674/waymo-via-uber-freight-autonomous-truck-deal)
- - [TikTok launches custom avatars to rival Snapchat’s Bitmoji and Apple’s Memoji](https://www.theverge.com/2022/6/7/23157668/tiktok-avatar-memoji-bitmoji-feature-how-to-use)<!-- TECH:END -->
+ - [Day Shift’s new behind-the-scenes teaser promises one hell of a vampire-hunting ride](https://www.theverge.com/2022/6/7/23157915/netflix-day-shift-jamie-foxx-geeked-week)
+ - [Take Blip, an enterprise customer messaging service, raises a $70M Series B led by Warburg Pincus, bringing its total funding to $170M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p24#a220607p24)
+ - [Shopify investors grant CEO Tobi L&amp;uuml;tke a &quot;founder share&quot;, ensuring him 40%+ voting power under certain conditions, and approve a 10:1 stock split &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220607/p23#a220607p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
