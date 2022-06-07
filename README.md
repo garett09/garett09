@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecuadorian payments infrastructure startup Kushki raises a $100M Series B extension at a $1.5B valuation, bringing its total funding to ~$200M since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220607/p31#a220607p31)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Apple inks deal for Formula One film starring Brad Pitt, Joseph Kosinski directing](https://appleinsider.com/articles/22/06/07/apple-inks-deal-for-formula-one-film-starring-brad-pitt-joseph-kosinski-directing?utm_medium=rss)<!-- TECH:END -->
+ - [Flash deals: M1 iPad Pro with AppleCare up to $110 off for WWDC](https://appleinsider.com/articles/22/06/07/flash-deals-m1-ipad-pro-with-applecare-up-to-110-off-for-wwdc?utm_medium=rss)
+ - [How to hide and unhide songs on Spotify](https://www.androidauthority.com/how-to-hide-unhide-songs-spotify-3086106/)
+ - [Twitter aims to grow its mDAUs by 13M this quarter, the highest goal it has ever set, and is currently on track with 8.5M users, per an internal staff meeting &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220607/p32#a220607p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
