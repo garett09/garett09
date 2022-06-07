@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok announces TikTok Avatars, similar to Snap&#39;s Bitmoji and Apple&#39;s Memoji, letting users customize their appearance, add voice effects, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220607/p14#a220607p14)
- - [Want to Understand Delusions? Listen to the People Who Have Them](https://www.wired.com/story/want-to-understand-delusions-listen-to-the-people-who-have-them)
- - [The Astell &amp; Kern UW100 Earbuds Are an Audiophile’s Dream](https://www.wired.com/review/astell-and-kern-uw100)<!-- TECH:END -->
+ - [New York-based Castor, which offers enterprise tools to help catalog data, raises a $23.5M Series A led by Blossom &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220607/p18#a220607p18)
+ - [iOS 16 beta code shows multiple references to an always-on display, a feature rumored for the iPhone 14 Pro models &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220607/p17#a220607p17)
+ - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
