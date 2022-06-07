@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First Details on Battlefield 2042 – Season 1: Zero Hour, Launching June 9](https://news.xbox.com/en-us/2022/06/07/first-details-battlefield-2042-season-1-zero-hour/)
- - [Battlefield 2042 season 1 kicks off this week with stealth choppers, new ‘vehicle killer expert’ specialist](https://www.polygon.com/23157898/battlefield-2042-season-1-release-date-new-content-map-specialist-helicopters)
- - [Green Hell – Spirits of Amazonia Parts 1 &amp; 2 Are Available Now on Xbox, Free](https://news.xbox.com/en-us/2022/06/07/green-hell-spirits-of-amazonia-parts-1-2-are-available-now-on-xbox-free/)<!-- GAME:END -->
+ - [New Sea Beast trailer proves the scariest adversary in the world is childcare](https://www.polygon.com/23157838/the-sea-beast-netflix-trailer-release-date)
+ - [Minecraft ditched fireflies in the 1.19 update so kids&#39; real pet frogs won&#39;t croak](https://www.pcgamer.com/minecraft-ditched-fireflies-in-the-119-update-so-kids-real-pet-frogs-wont-croak)
+ - [F1 Manager 2022 Available August 25](https://news.xbox.com/en-us/2022/06/07/f1-manager-2022-available-august-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
