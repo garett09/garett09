@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They don&#39;t make toons like they used to](http://9gag.com/gag/ang8QKB)
- - 🚯 [Good ol Middle East](http://9gag.com/gag/apgzNwD)
- - 🚯 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)<!-- MEMES:END -->
+ - 🚖 [The hypocrisy](http://9gag.com/gag/aXrQo8P)
+ - 🚯 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)
+ - 🚯 [Don&#39;t be an A-hole](http://9gag.com/gag/ay9ZMYq)<!-- MEMES:END -->
 
 --- 
 
