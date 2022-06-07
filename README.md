@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to lift subjects from photos in iOS 16 and macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-how-to-lift-subjects-from-photos-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [Apple revamps Human Interface Guidelines with new organization &amp; more](https://appleinsider.com/articles/22/06/07/apple-revamps-human-interface-guidelines-with-new-organization-more?utm_medium=rss)
- - [Apple brings Xcode Cloud CI/CD service out of beta, making it generally available to all developers; the base plan starts at $14.99/month for 25 hours of usage &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220607/p29#a220607p29)<!-- TECH:END -->
+ - [Ecuadorian payments infrastructure startup Kushki raises a $100M Series B extension at a $1.5B valuation, bringing its total funding to ~$200M since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220607/p31#a220607p31)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [Apple inks deal for Formula One film starring Brad Pitt, Joseph Kosinski directing](https://appleinsider.com/articles/22/06/07/apple-inks-deal-for-formula-one-film-starring-brad-pitt-joseph-kosinski-directing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
