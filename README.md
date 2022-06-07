@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manga Bizarro World: One Piece Goes On Hiatus, HxH And Berserk Return](https://kotaku.com/berserk-kentaro-miura-one-piece-eiichiro-oda-hunter-x-h-1849031165)
- - [Giant Bomb Staff Discuss Jeff Gerstmann Exit While He Starts New Podcast](https://kotaku.com/giant-bomb-jeff-gerstmann-staff-podcast-patreon-exit-de-1849031232)
- - [The Summer Game Fest and Not-E3 2022 schedule](https://www.polygon.com/23156771/e3-2022-summer-game-fest-events-calendar)<!-- GAME:END -->
+ - [Not-E3 hasn&#39;t had any major leaks yet, and it&#39;s kind of weird](https://www.pcgamer.com/not-e3-hasnt-had-any-major-leaks-yet-and-its-kind-of-weird)
+ - [Diablo Immortal is a game designed to exploit your love of Diablo](https://www.pcgamer.com/diablo-immortal-is-a-game-designed-to-exploit-your-love-of-diablo)
+ - [Halo Infinite Finally Gets Co-Op Next Month, But As A Beta](https://kotaku.com/halo-infinite-campaign-co-op-network-beta-test-season-t-1849031399)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
