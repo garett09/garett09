@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smells like male privilege](http://9gag.com/gag/a614NmR)
- - 🚯 [I shall wear them forever](http://9gag.com/gag/apgz51W)
- - 🚯 [I can only count to four - original song](http://9gag.com/gag/aZroLz0)<!-- MEMES:END -->
+ - 🚖 [Y tho](http://9gag.com/gag/aQXB192)
+ - 🚯 [I can only count to four - original song](http://9gag.com/gag/aZroLz0)
+ - 🚯 [Yo Ho, Yo Ho, A pirates life for me...](http://9gag.com/gag/aZroLvz)<!-- MEMES:END -->
 
 --- 
 
