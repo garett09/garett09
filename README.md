@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Internet Watch Foundation, a charity helping identify CSAM, says it has created hashes of 1M images of child sexual abuse to help prevent their reuse &lpar;BBC&rpar;](http://www.techmeme.com/220607/p4#a220607p4)
- - [&#39;The Umbrella Academy&#39; Season 3: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-what-to-remember-before-watching/#ftag=CAD590a51e)
- - [You Can Unsend Embarrassing iMessages With the Next iPhone Update     - CNET](https://www.cnet.com/tech/services-and-software/you-can-unsend-embarrassing-imessages-with-the-next-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple adds support in iOS 16 for Nintendo&#39;s Joy-Cons and Pro Controller for Switch, expanding on support for PlayStation 5 and Xbox Series X controllers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220607/p6#a220607p6)
+ - [iOS 16 supports Nintendo’s Switch Pro and Joy-Con controllers](https://www.theverge.com/2022/6/7/23157642/apple-ios-16-nintendo-switch-pro-joy-con-controller-support)
+ - [Indian startup PhysicsWallah, which offers online courses and content for as low as $4, raises a $100M Series A led by Westbridge and GSV at a $1.1B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220607/p5#a220607p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
