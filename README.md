@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reason for dad humor](http://9gag.com/gag/aKmnDoN)
- - 🚯 [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
- - 🚯 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)<!-- MEMES:END -->
+ - 🚖 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)
+ - 🚯 [Death by snus snus](http://9gag.com/gag/aBnjxNx)
+ - 🚯 [Helicopter footage of a loose cow being wrangled by Emergency Services and cowboys in OKC](http://9gag.com/gag/abgKpPB)<!-- MEMES:END -->
 
 --- 
 
