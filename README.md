@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)
- - 🚯 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)
- - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)
+ - 🚯 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)
+ - 🚯 [She has been an old grandma since forever lmao](http://9gag.com/gag/a0ZzZRL)<!-- MEMES:END -->
 
 --- 
 
