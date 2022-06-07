@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Day Shift’s new behind-the-scenes teaser promises one hell of a vampire-hunting ride](https://www.theverge.com/2022/6/7/23157915/netflix-day-shift-jamie-foxx-geeked-week)
- - [Take Blip, an enterprise customer messaging service, raises a $70M Series B led by Warburg Pincus, bringing its total funding to $170M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p24#a220607p24)
- - [Shopify investors grant CEO Tobi L&amp;uuml;tke a &quot;founder share&quot;, ensuring him 40%+ voting power under certain conditions, and approve a 10:1 stock split &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220607/p23#a220607p23)<!-- TECH:END -->
+ - [First look at Netflix’s Wendell &amp; Wild](https://www.theverge.com/2022/6/7/23158099/jordan-peele-wendell-and-wild-geeked-week)
+ - [Pokemon Go TCG Crossover Event: Wimpod, Shiny Meltan and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-tcg-crossover-event-wimpod-shiny-meltan-and-more/#ftag=CAD590a51e)
+ - [Best iPhone 11 and 11 Pro Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-iphone-11-and-11-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
