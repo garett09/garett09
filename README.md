@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Instant spark of joy](http://9gag.com/gag/aRr9BL2)
- - 🚯 [Sometimes good](http://9gag.com/gag/abgKexX)
- - 🚯 [She got promoted to partner position](http://9gag.com/gag/axBQyxM)<!-- MEMES:END -->
+ - 🚯 [She got promoted to partner position](http://9gag.com/gag/axBQyxM)
+ - 🚯 [I bet there is a lack of diversity for this job](http://9gag.com/gag/aqGByRj)<!-- MEMES:END -->
 
 --- 
 
