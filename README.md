@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Supreme Court speech showdown is coming, and nobody knows what to expect](https://www.theverge.com/2022/6/8/23152245/supreme-court-hb20-texas-florida-social-media-regulation-first-amendment-questions)
- - [LibLab, which offers tools to automate the production and maintenance of SDKs, raises a $42M Series A led by Insight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p18#a220608p18)
- - [Black Adam’s first trailer brings the thunder and the fury](https://www.theverge.com/23159511/black-adam-trailer-the-rock-release-date)<!-- TECH:END -->
+ - [Bluetooth SIG unveils Auracast, a way for you to share audio to many devices](https://www.androidauthority.com/bluetooth-sig-auracast-3173964/)
+ - [How to install a Ring video doorbell](https://www.theverge.com/23157868/how-to-install-ring-video-doorbell-wired-wireless)
+ - [Facebook Gaming brings Crayta’s user-generated games to its cloud platform](https://www.theverge.com/2022/6/8/23158763/facebook-gaming-crayta-user-generated-games-cloud-platform)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
