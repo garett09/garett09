@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stock advisor Delphia, which offers an algorithm-based service via its app, raises a $60M Series A led by Multicoin Capital and plans its Delphia Data token &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220608/p15#a220608p15)
- - [Best portable Bluetooth speakers &amp; outdoor AirPlay speaker systems](https://appleinsider.com/inside/airplay/best/best-portable-bluetooth-speakers-outdoor-airplay-speaker-systems?utm_medium=rss)
- - [Sleep Paralysis: I Hallucinated a Giant Spider, but My Doctor Said It Was Fine     - CNET](https://www.cnet.com/health/features/sleep-paralysis-i-hallucinated-a-giant-spider-but-my-doctor-said-it-was-fine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Supreme Court speech showdown is coming, and nobody knows what to expect](https://www.theverge.com/2022/6/8/23152245/supreme-court-hb20-texas-florida-social-media-regulation-first-amendment-questions)
+ - [LibLab, which offers tools to automate the production and maintenance of SDKs, raises a $42M Series A led by Insight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p18#a220608p18)
+ - [Black Adam’s first trailer brings the thunder and the fury](https://www.theverge.com/23159511/black-adam-trailer-the-rock-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
