@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to DHS, a coalition including Amazon and Google urges DHS to let kids of high-skilled visa holders stay in the US past age 21 without a green card &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220607/p35#a220607p35)
- - [How to scan a Spotify code](https://www.androidauthority.com/how-to-scan-spotify-code-3079616/)
- - [The iOS 16 Features iPhone Users Are Going to Love Most     - CNET](https://www.cnet.com/tech/mobile/ios-16-features-iphone-users-are-going-love-most/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Massachusetts-based Shields Health Care Group says hackers accessed its databases containing personal data like SSNs and medical info of 2M patients in March &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220607/p40#a220607p40)
+ - [Gantry, which aims to help developers find out how their AI models are performing and ways to improve them, emerges from stealth with a $28.3M seed and Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p39#a220607p39)
+ - [Internal email: Microsoft splits its HoloLens group and parts ways with its head Alex Kipman; Kipman was cited in a recent Insider story for alleged misconduct &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220607/p38#a220607p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
