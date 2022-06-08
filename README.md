@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good ol Middle East](http://9gag.com/gag/apgzNwD)
- - 🚯 [The personification of toxicity](http://9gag.com/gag/aE8ypXx)
+ - 🚖 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
+ - 🚯 [Enjoy the show](http://9gag.com/gag/a31eZr7)
  - 🚯 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)<!-- MEMES:END -->
 
 --- 
