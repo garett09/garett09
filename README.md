@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone’s content will not transfer to Warzone 2.0](https://www.polygon.com/23158767/call-of-duty-warzone-2-sequel-content-upgrades-weapons)
- - [Modern Warfare 2 lays the groundwork for Call of Duty’s future, including Warzone](https://www.polygon.com/call-of-duty/23158394/call-of-duty-modern-warfare-2-warzone-infinity-ward-new-engine-gunsmith)
- - [Three New Minutes Of Stray’s Cat-Centric Platforming AKA ‘Catforming’](https://kotaku.com/stray-gameplay-catforming-bluetwelve-studio-pc-playstat-1849033663)<!-- GAME:END -->
+ - [Stray Won’t Show You The Cat’s Butthole &lpar;Probably&rpar;](https://kotaku.com/stray-preview-ps4-ps5-ps-plus-annapurna-interactive-1849035211)
+ - [Announcing Call of Duty: Modern Warfare II](https://news.xbox.com/en-us/2022/06/08/announcing-call-of-duty-modern-warfare-ii/)
+ - [Ukrainian game developers use their art to fight back against the Russian invasion](https://www.polygon.com/23157926/ukraine-russia-war-indie-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
