@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Hustle gives Adam Sandler the Jerry Maguire role he’s always needed](https://www.polygon.com/23158653/hustle-review-adam-sandler-netflix-basketball)
- - [A Black Protagonist Captures The Stories Of A Doomed World In Season](https://kotaku.com/season-a-letter-to-the-future-scavengers-studio-pc-play-1849033521)
- - [Black Adam’s first trailer shows The Rock’s reluctant superhero](https://www.polygon.com/23159559/black-adam-trailer-release-date-the-rock-dwayne-johnson)<!-- GAME:END -->
+ - [Sci-fi game Stray delivers the ultimate fantasy: a cat who listens](https://www.polygon.com/23158701/stray-game-ps5-ps4-pc-impressions-gameplay-release-date)
+ - [The Human Toll Of Fallout 76’s Disastrous Launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
+ - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
