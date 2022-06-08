@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sci-fi game Stray delivers the ultimate fantasy: a cat who listens](https://www.polygon.com/23158701/stray-game-ps5-ps4-pc-impressions-gameplay-release-date)
- - [The Human Toll Of Fallout 76’s Disastrous Launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
- - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
+ - [Call of Duty: Warzone’s content will not transfer to Warzone 2.0](https://www.polygon.com/23158767/call-of-duty-warzone-2-sequel-content-upgrades-weapons)
+ - [Modern Warfare 2 lays the groundwork for Call of Duty’s future, including Warzone](https://www.polygon.com/call-of-duty/23158394/call-of-duty-modern-warfare-2-warzone-infinity-ward-new-engine-gunsmith)
+ - [Three New Minutes Of Stray’s Cat-Centric Platforming AKA ‘Catforming’](https://kotaku.com/stray-gameplay-catforming-bluetwelve-studio-pc-playstat-1849033663)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
