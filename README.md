@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taco Bell opens its first ‘Defy’ restaurant that prioritizes ordering via app](https://www.theverge.com/2022/6/7/23158666/taco-bell-defy-digital-online-orders-drive-thru)
- - [IBM says it will wind down its business in Russia and lay off its workforce there, after suspending operations in the county in March &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220607/p33#a220607p33)
- - [New EU Rules on USB-C Charging Could Force an iPhone Redesign](https://www.wired.com/story/eu-rules-usb-c-charging-iphone-lightning)<!-- TECH:END -->
+ - [In a letter to DHS, a coalition including Amazon and Google urges DHS to let kids of high-skilled visa holders stay in the US past age 21 without a green card &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220607/p35#a220607p35)
+ - [How to scan a Spotify code](https://www.androidauthority.com/how-to-scan-spotify-code-3079616/)
+ - [The iOS 16 Features iPhone Users Are Going to Love Most     - CNET](https://www.cnet.com/tech/mobile/ios-16-features-iphone-users-are-going-love-most/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
