@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Fabric of Space](http://9gag.com/gag/azeo59m)
- - 🚯 [Sometimes good](http://9gag.com/gag/abgKexX)
- - 🚯 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)<!-- MEMES:END -->
+ - 🚖 [I&#39;m sure Apple will screw this over](http://9gag.com/gag/aKmn1Gb)
+ - 🚯 [Creed](http://9gag.com/gag/a31e5ze)
+ - 🚯 [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)<!-- MEMES:END -->
 
 --- 
 
