@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kojima Productions asked a reporter to delete a leak about its new game](https://www.theverge.com/2022/6/8/23160240/kojima-productions-overdose-leak-margaret-qualley)
- - [Meta names new head of engineering as current leader steps aside](https://www.theverge.com/2022/6/8/23160405/meta-head-engineering-david-mortenson-replacement-santosh-janardhan)
- - [How a Saxophonist Tricked the KGB by Encrypting Secrets in Music](https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra)<!-- TECH:END -->
+ - [The Block data: weekly NFT sales declined by just over 70% from a high of nearly 1M units in the third week of 2022 to 250K+ at the end of May &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220608/p38#a220608p38)
+ - [Apple’s kind of a bank now](https://www.theverge.com/2022/6/8/23160400/apple-kind-of-bank-now-pay-later-bnpl-financial-services)
+ - [Meta&#39;s David Mortenson steps down as head of infrastructure; Santosh Janardhan, VP of engineering and infrastructure, will assume Mortenson&#39;s role later in June &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220608/p37#a220608p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
