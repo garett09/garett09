@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima Productions Tries To Take Down Report That Apparently Leaks Upcoming Game](https://kotaku.com/hideo-kojima-productions-overdose-horror-game-death-str-1849035813)
- - [Jurassic World Dominion tries to turn Jurassic Park into Indiana Jones](https://www.polygon.com/23158390/jurassic-world-dominion-review)
- - [Dead by Daylight’s The Dredge: a Beginner’s Guide](https://news.xbox.com/en-us/2022/06/08/dead-by-daylights-the-dredge-a-beginners-guide/)<!-- GAME:END -->
+ - [Report says Fallout 76 development was plagued by crunch and poor leadership](https://www.pcgamer.com/report-says-fallout-76-development-was-plagued-by-crunch-and-poor-leadership)
+ - [Mario Strikers: Battle League Reviews Are All Over The Field](https://kotaku.com/mario-strikers-battle-league-nintendo-switch-review-rou-1849035907)
+ - [Obi-Wan Kenobi reintroduced an old — and best abandoned — Star Wars fan fixation](https://www.polygon.com/star-wars/23160006/obi-wan-kenobi-brother-star-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
