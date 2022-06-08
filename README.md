@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two years of WFH have made pants feel unnatural. Free the balls from the societal repression of pants.](http://9gag.com/gag/aWgPL9q)
- - 🚯 [The already did that](http://9gag.com/gag/aQXBgKe)
- - 🚯 [This one sparks joy](http://9gag.com/gag/agg6Opv)<!-- MEMES:END -->
+ - 🚖 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)
+ - 🚯 [Creed](http://9gag.com/gag/a31e5ze)
+ - 🚯 [Did you know that Apple is the only company who refused to use the standard world wide USB port and its been polluting the planet since 2004 with more plastic waste than any other company world wide.](http://9gag.com/gag/azeo5wb)<!-- MEMES:END -->
 
 --- 
 
