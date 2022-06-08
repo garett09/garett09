@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The last one sent me](http://9gag.com/gag/awzP1VB)
- - 🚯 [That&#39;s how a kid should be treated.](http://9gag.com/gag/a219wDe)
- - 🚯 [Someone is not very good at math.](http://9gag.com/gag/a11B5eR)<!-- MEMES:END -->
+ - 🚖 [Flirting 101](http://9gag.com/gag/a51vBmo)
+ - 🚯 [The plural of Octopus](http://9gag.com/gag/ang8veo)
+ - 🚯 [Aubrey Plazza](http://9gag.com/gag/ajgGLqQ)<!-- MEMES:END -->
 
 --- 
 
