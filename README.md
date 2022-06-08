@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From Baguetteland with love](http://9gag.com/gag/awzP3nR)
- - 🚯 [How tourists turn into statistics](http://9gag.com/gag/agg6Qdq)
- - 🚯 [I&#39;m sure Apple will screw this over](http://9gag.com/gag/aKmn1Gb)<!-- MEMES:END -->
+ - 🚖 [The Fabric of Space](http://9gag.com/gag/azeo59m)
+ - 🚯 [Sometimes good](http://9gag.com/gag/abgKexX)
+ - 🚯 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)<!-- MEMES:END -->
 
 --- 
 
