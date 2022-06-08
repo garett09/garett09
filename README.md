@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They can only complain...](http://9gag.com/gag/aLvVL8v)
- - 🚯 [This is John Hume. He is a South African Rhinobreeder. He will release 100 white rhinos annually to fight against the extinction of the animals. He has about 2000 animals on his breeding farm. Make him famous Poachers are scum.](http://9gag.com/gag/agg6oDK)
- - 🚯 [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)<!-- MEMES:END -->
+ - 🚖 [Quentin Tarantino vibes](http://9gag.com/gag/a41mPXA)
+ - 🚯 [Ain&#39;t that the truth](http://9gag.com/gag/a219vRe)
+ - 🚯 [This should have been used by the defense.](http://9gag.com/gag/a71PoQA)<!-- MEMES:END -->
 
 --- 
 
