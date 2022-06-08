@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetooth SIG unveils Auracast, a way for you to share audio to many devices](https://www.androidauthority.com/bluetooth-sig-auracast-3173964/)
- - [How to install a Ring video doorbell](https://www.theverge.com/23157868/how-to-install-ring-video-doorbell-wired-wireless)
- - [Facebook Gaming brings Crayta’s user-generated games to its cloud platform](https://www.theverge.com/2022/6/8/23158763/facebook-gaming-crayta-user-generated-games-cloud-platform)<!-- TECH:END -->
+ - [Apple’s tvOS looks destined for a slow year after little WWDC attention](https://www.theverge.com/2022/6/8/23156901/apple-tvos-16-ignored-wwdc-2022-minor-features)
+ - [PayPal gets its full New York BitLicense, and now lets users transfer crypto to external wallets](https://www.theverge.com/2022/6/8/23159519/paypal-crypto-transfers-new-york-bitlicense-bitcoin-ethereum)
+ - [Razer Kishi V2 is here: One of the best Android controllers gets even better](https://www.androidauthority.com/razer-kishi-v2-3173785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
