@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electric city bus fast charging at station. Nantes, France](http://9gag.com/gag/aQXBE67)
+ - 🚖 [Good job, EU](http://9gag.com/gag/axBQByp)
  - 🚯 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)
- - 🚯 [Good job, EU](http://9gag.com/gag/axBQByp)<!-- MEMES:END -->
+ - 🚯 [Grey wolf howls and gets response from the entire forest.](http://9gag.com/gag/aE8yqPx)<!-- MEMES:END -->
 
 --- 
 
