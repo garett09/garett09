@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum&#39;s proof-of-stake Merge upgrade goes live today on the Ropsten testnet, which allows for blockchain development testing before deployment on the mainnet &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/220608/p35#a220608p35)
- - [NASA’s new powerful space telescope gets hit by larger than expected micrometeoroid](https://www.theverge.com/2022/6/8/23160209/nasa-james-webb-space-telescope-meteor-strike-impact)
- - [Meta faces eight lawsuits this week that claim its algorithms lead to attempted suicide, eating disorders, sleeplessness, and other issues in young people &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/220608/p34#a220608p34)<!-- TECH:END -->
+ - [Kojima Productions asked a reporter to delete a leak about its new game](https://www.theverge.com/2022/6/8/23160240/kojima-productions-overdose-leak-margaret-qualley)
+ - [Meta names new head of engineering as current leader steps aside](https://www.theverge.com/2022/6/8/23160405/meta-head-engineering-david-mortenson-replacement-santosh-janardhan)
+ - [How a Saxophonist Tricked the KGB by Encrypting Secrets in Music](https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
