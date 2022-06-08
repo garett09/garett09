@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
- - 🚯 [Enjoy the show](http://9gag.com/gag/a31eZr7)
- - 🚯 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)<!-- MEMES:END -->
+ - 🚖 [Electric city bus fast charging at station. Nantes, France](http://9gag.com/gag/aQXBE67)
+ - 🚯 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)
+ - 🚯 [Good job, EU](http://9gag.com/gag/axBQByp)<!-- MEMES:END -->
 
 --- 
 
