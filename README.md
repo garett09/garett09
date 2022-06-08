@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia&#39;s PIF-backed Savvy Gaming Group acquires an 8.1% stake in Sweden&#39;s Embracer for ~$1.05B, following similar deals with Modern Times and Nintendo &lpar;Anton Wilen/Bloomberg&rpar;](http://www.techmeme.com/220608/p10#a220608p10)
- - [Apple&#39;s New MacBook Air: Every Port and What It Does     - CNET](https://www.cnet.com/tech/computing/apples-new-macbook-air-every-port-and-what-it-does/#ftag=CAD590a51e)
- - [Best Places to Buy Replacement Prescription Lenses Online in 2022     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stock advisor Delphia, which offers an algorithm-based service via its app, raises a $60M Series A led by Multicoin Capital and plans its Delphia Data token &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220608/p15#a220608p15)
+ - [Best portable Bluetooth speakers &amp; outdoor AirPlay speaker systems](https://appleinsider.com/inside/airplay/best/best-portable-bluetooth-speakers-outdoor-airplay-speaker-systems?utm_medium=rss)
+ - [Sleep Paralysis: I Hallucinated a Giant Spider, but My Doctor Said It Was Fine     - CNET](https://www.cnet.com/health/features/sleep-paralysis-i-hallucinated-a-giant-spider-but-my-doctor-said-it-was-fine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
