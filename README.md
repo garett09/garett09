@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Won’t Show You The Cat’s Butthole &lpar;Probably&rpar;](https://kotaku.com/stray-preview-ps4-ps5-ps-plus-annapurna-interactive-1849035211)
- - [Announcing Call of Duty: Modern Warfare II](https://news.xbox.com/en-us/2022/06/08/announcing-call-of-duty-modern-warfare-ii/)
- - [Ukrainian game developers use their art to fight back against the Russian invasion](https://www.polygon.com/23157926/ukraine-russia-war-indie-games)<!-- GAME:END -->
+ - [Kojima Productions Tries To Take Down Report That Apparently Leaks Upcoming Game](https://kotaku.com/hideo-kojima-productions-overdose-horror-game-death-str-1849035813)
+ - [Jurassic World Dominion tries to turn Jurassic Park into Indiana Jones](https://www.polygon.com/23158390/jurassic-world-dominion-review)
+ - [Dead by Daylight’s The Dredge: a Beginner’s Guide](https://news.xbox.com/en-us/2022/06/08/dead-by-daylights-the-dredge-a-beginners-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
