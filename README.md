@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quentin Tarantino vibes](http://9gag.com/gag/a41mPXA)
- - 🚯 [Ain&#39;t that the truth](http://9gag.com/gag/a219vRe)
- - 🚯 [This should have been used by the defense.](http://9gag.com/gag/a71PoQA)<!-- MEMES:END -->
+ - 🚖 [Instant spark of joy](http://9gag.com/gag/aRr9BL2)
+ - 🚯 [Sometimes good](http://9gag.com/gag/abgKexX)
+ - 🚯 [She got promoted to partner position](http://9gag.com/gag/axBQyxM)<!-- MEMES:END -->
 
 --- 
 
