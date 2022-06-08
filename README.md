@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)
- - 🚯 [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)
- - 🚯 [Creed](http://9gag.com/gag/a31e5ze)<!-- MEMES:END -->
+ - 🚖 [5 stars on trustpilot](http://9gag.com/gag/a219wnp)
+ - 🚯 [Creed](http://9gag.com/gag/a31e5ze)
+ - 🚯 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)<!-- MEMES:END -->
 
 --- 
 
