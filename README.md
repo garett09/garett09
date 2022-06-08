@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What are Ms. Marvel’s powers?](https://www.polygon.com/23158018/ms-marvel-kamala-khan-powers-abilities-disney-plus-cinematic-universe)
- - [US Senators&#39; proposed crypto bill doesn&#39;t give a hoot about home mining rigs](https://www.pcgamer.com/us-senators-proposed-crypto-bill-doesnt-give-a-hoot-about-home-mining-rigs)
- - [The best indie games to play right now](https://www.pcgamer.com/best-indie-games)<!-- GAME:END -->
+ - [Diablo Immortal Is Far Too Good To Be Free](https://kotaku.com/diablo-immortal-review-hands-on-vgchat-free-good-blizza-1849031009)
+ - [Vinland Saga season 2 will premiere early next year, new trailer reveals](https://www.polygon.com/23156452/vinland-saga-season-2-release-date-trailer-wit-studio)
+ - [IBM begins &#39;orderly wind-down&#39; of its entire Russian operation, all staff to lose jobs](https://www.pcgamer.com/ibm-begins-orderly-wind-down-of-its-entire-russian-operation-all-staff-to-lose-jobs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
