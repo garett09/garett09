@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Hustle gives Adam Sandler the Jerry Maguire role he’s always needed](https://www.polygon.com/23158653/hustle-review-adam-sandler-netflix-basketball)
  - [A Black Protagonist Captures The Stories Of A Doomed World In Season](https://kotaku.com/season-a-letter-to-the-future-scavengers-studio-pc-play-1849033521)
- - [Black Adam’s first trailer shows The Rock’s reluctant superhero](https://www.polygon.com/23159559/black-adam-trailer-release-date-the-rock-dwayne-johnson)
- - [Diablo Immortal Is Far Too Good To Be Free](https://kotaku.com/diablo-immortal-review-hands-on-vgchat-free-good-blizza-1849031009)<!-- GAME:END -->
+ - [Black Adam’s first trailer shows The Rock’s reluctant superhero](https://www.polygon.com/23159559/black-adam-trailer-release-date-the-rock-dwayne-johnson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
