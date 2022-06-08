@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet there is a lack of diversity for this job](http://9gag.com/gag/aqGByRj)
+ - 🚖 [From Baguetteland with love](http://9gag.com/gag/awzP3nR)
  - 🚯 [How tourists turn into statistics](http://9gag.com/gag/agg6Qdq)
- - 🚯 [Sometimes good](http://9gag.com/gag/abgKexX)<!-- MEMES:END -->
+ - 🚯 [I&#39;m sure Apple will screw this over](http://9gag.com/gag/aKmn1Gb)<!-- MEMES:END -->
 
 --- 
 
