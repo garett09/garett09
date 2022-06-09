@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aubrey Plazza](http://9gag.com/gag/ajgGLqQ)
- - 🚯 [Can everyone of similar age &lpar;I&#39;m 32&rpar; just take a moments silence to remember the joy of getting home from school and spending hours and hours on this masterpiece](http://9gag.com/gag/a2198Ad)
- - 🚯 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)<!-- MEMES:END -->
+ - 🚖 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)
+ - 🚯 [Voughtland](http://9gag.com/gag/a11B0Wb)
+ - 🚯 [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)<!-- MEMES:END -->
 
 --- 
 
