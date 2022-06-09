@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SolarWinds Hack Shows Government, Private Sector Need Collaborate on Security, CISA Head Says     - CNET](https://www.cnet.com/tech/services-and-software/solarwinds-hack-shows-government-private-sector-need-collaborate-on-security-cisa-head-says/#ftag=CAD590a51e)
- - [This Cyberpunk 2077 Anime on Netflix Trailer Looks Incredible     - CNET](https://www.cnet.com/culture/entertainment/this-cyberpunk-2077-anime-on-netflix-trailer-looks-incredible/#ftag=CAD590a51e)
- - [How to connect or disconnect Spotify and Facebook](https://www.androidauthority.com/how-to-connect-disconnect-spotify-facebook-3085371/)<!-- TECH:END -->
+ - [GitHub is sunsetting Atom, the text editor for developers it launched in 2011, and will archive all projects under the Atom organization on December 15, 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p45#a220608p45)
+ - [Blood Flow Restriction Training Gets You Stronger Without the Heavy Weights     - CNET](https://www.cnet.com/health/fitness/blood-flow-restriction-training-gets-you-stronger-without-the-heavy-weights/#ftag=CAD590a51e)
+ - [Sweden-based Juni, a neobank catering to e-commerce and online marketing companies, raises a $206M Series B, $100M in equity led by Mubadala and $106M in debt &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220608/p44#a220608p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
