@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change the alert sounds on your iPhone](https://www.theverge.com/23160418/iphone-ios-change-alarm-notification-alert-sounds-how-to)
- - [Source: the SEC is investigating whether the marketing of the TerraUSD stablecoin before it crashed in May violated federal investor-protection regulations &lpar;Matt Robinson/Bloomberg&rpar;](http://www.techmeme.com/220609/p34#a220609p34)
- - [Report: Facebook smartwatch no one wants has been put on hold, thankfully](https://www.androidauthority.com/facebook-smartwatch-halted-3174758/)<!-- TECH:END -->
+ - [Apple retail workers in New York switch unions](https://www.theverge.com/2022/6/9/23161526/apple-retail-workers-switch-unions-communications-workers-america)
+ - [How to cancel YouTube Premium](https://www.androidauthority.com/cancel-youtube-premium-3174428/)
+ - [Communications Workers of America jumping in on Apple Grand Central unionization efforts](https://appleinsider.com/articles/22/06/09/communications-workers-of-america-jumping-in-on-apple-grand-central-unionization-efforts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
