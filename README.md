@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why are there so many sci-fi horror games all of a sudden, anyway?](https://www.pcgamer.com/why-are-there-so-many-sci-fi-horror-games-all-of-a-sudden-anyway)
- - [Every Summer Game Fest trailer and announcement from the 2022 show](https://www.pcgamer.com/summer-game-fest-2022-all-trailers-and-announcements)
- - [Waiting for Hollow Knight: Silksong is the new waiting for Elden Ring](https://www.pcgamer.com/waiting-for-hollow-knight-silksong-is-the-new-waiting-for-elden-ring)<!-- GAME:END -->
+ - [You&#39;re a skateboarding demon made of glass on a mission to swallow the moon](https://www.pcgamer.com/youre-a-skateboarding-demon-made-of-glass-on-a-mission-to-swallow-the-moon)
+ - [Once Again, A Quiet Indie Games Show Upstages A Bombastic ‘AAA’ Event](https://kotaku.com/day-of-the-devs-indie-animal-well-birth-goodbye-world-w-1849043017)
+ - [The Grammy Awards adds a dedicated videogame category](https://www.pcgamer.com/the-grammy-awards-adds-a-dedicated-videogame-category)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
