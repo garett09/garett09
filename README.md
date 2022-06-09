@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Summer Game Fest](https://www.polygon.com/23159625/sgf-summer-game-fest-2022-start-time-cuphead-mw2-reveal)
- - [The Decade-Long Struggle To Fund Oakland’s Scrappy Video Game Museum](https://kotaku.com/the-made-oakland-game-museum-funding-dolby-ea-ubisoft-g-1849030490)
- - [Nope’s new trailer finally reveals what Jordan Peele’s latest movie is about](https://www.polygon.com/23161097/nope-jordan-peele-trailer-release-date-cast-plot)<!-- GAME:END -->
+ - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
+ - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
+ - [Free Play Days – Dead by Daylight, Diablo III: Eternal Collection and Unturned](https://news.xbox.com/en-us/2022/06/09/free-play-days-dead-by-daylight-diablo-iii-eternal-collection-and-unturned/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
