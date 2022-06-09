@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Essential Guide to Boss Factory, the Free Saints Row Character Creator](https://news.xbox.com/en-us/2022/06/09/essential-guide-to-boss-factory-the-free-saints-row-character-creator/)
- - [Everything shown at Summer Game Fest’s Day of the Devs](https://www.polygon.com/23160020/summer-game-fest-day-of-the-devs-double-fine-iam8bit)
- - [Be a water nymph and befriend ducks in chillout game Naiad](https://www.pcgamer.com/be-a-water-nymph-and-befriend-ducks-in-chillout-game-naiad)<!-- GAME:END -->
+ - [Why are there so many sci-fi horror games all of a sudden, anyway?](https://www.pcgamer.com/why-are-there-so-many-sci-fi-horror-games-all-of-a-sudden-anyway)
+ - [Every Summer Game Fest trailer and announcement from the 2022 show](https://www.pcgamer.com/summer-game-fest-2022-all-trailers-and-announcements)
+ - [Waiting for Hollow Knight: Silksong is the new waiting for Elden Ring](https://www.pcgamer.com/waiting-for-hollow-knight-silksong-is-the-new-waiting-for-elden-ring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
