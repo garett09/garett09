@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
- - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
- - [Free Play Days – Dead by Daylight, Diablo III: Eternal Collection and Unturned](https://news.xbox.com/en-us/2022/06/09/free-play-days-dead-by-daylight-diablo-iii-eternal-collection-and-unturned/)<!-- GAME:END -->
+ - [Welcome To The Second Age Of The Game Demo](https://kotaku.com/xbox-project-moorcroft-ps-plus-extra-nintendo-switch-ga-1849040134)
+ - [You can actually buy this year’s Xbox Pride controller](https://www.polygon.com/reviews/23160334/xbox-pride-controller-2022-review)
+ - [Hey, It&#39;s Time To Show Some Love To Dwarf Fortress](https://kotaku.com/dwarf-fortress-roguelike-free-bay-12-games-indie-pc-pat-1849039596)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
