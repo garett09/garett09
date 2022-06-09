@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better call some backup](http://9gag.com/gag/aGz67p0)
- - 🚯 [This is just.. hurtful](http://9gag.com/gag/a41mwWy)
+ - 🚖 [Has to be what goes through their minds.](http://9gag.com/gag/aOQA1wr)
+ - 🚯 [The good old days](http://9gag.com/gag/agg6KKg)
  - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 --- 
