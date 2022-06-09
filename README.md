@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 Nissan Altima Gets More Tech and a Bigger Grille     - CNET](https://www.cnet.com/roadshow/news/2023-nissan-altima-debut/#ftag=CAD590a51e)
- - [2023 Nissan Altima Has an Updated Face     - CNET](https://www.cnet.com/roadshow/pictures/2023-nissan-altima/#ftag=CAD590a51e)
- - [For All Mankind Is the Best Sci-Fi of Its Era](https://www.wired.com/story/for-all-mankind-best-sci-fi-show)<!-- TECH:END -->
+ - [Apple issues rare developer beta software for AirPods](https://appleinsider.com/articles/22/06/09/apple-issues-rare-developer-beta-software-for-airpods?utm_medium=rss)
+ - [Despite Facebook&#39;s ban on gun sales, internal guidance shows users can break its rules 10 times before being banned, down to five if they call for violence &lpar;Washington Post&rpar;](http://www.techmeme.com/220609/p17#a220609p17)
+ - [Middesk, which offers APIs to automate business verification and underwriting decisions, raises a $57M Series B co-led by Insight and Canapi &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220609/p16#a220609p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
