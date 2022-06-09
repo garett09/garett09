@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The strike papyrus from 1170 BCE describes how the workers of Ramses III went on strike because of a lack of payment. It&#39;s the earliest record of a labor strike in history](http://9gag.com/gag/a91ZOYL)
- - 🚯 [Man is the crown of creation.](http://9gag.com/gag/aogA8RA)
+ - 🚖 [\u201cDisney owes Johnny Depp a public apology for engaging in cancel culture and making a premature decision to remove him from Pirates before Justice was done.\u201d Matthew Santoro](http://9gag.com/gag/a81Qw8Y)
+ - 🚯 [When keeping real goes wrong. She snatched his soul.](http://9gag.com/gag/amgKRYV)
  - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 --- 
