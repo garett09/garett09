@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Improvise, adapt, overcome](http://9gag.com/gag/a81Q2we)
- - 🚯 [What times](http://9gag.com/gag/azeoZeN)
- - 🚯 [Man is the crown of creation.](http://9gag.com/gag/aogA8RA)<!-- MEMES:END -->
+ - 🚖 [Twist twist](http://9gag.com/gag/aQXB2Kq)
+ - 🚯 [Benefits Of Video Games...!](http://9gag.com/gag/aYrZqvN)
+ - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 --- 
 
