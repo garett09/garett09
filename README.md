@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As fun as it gets](http://9gag.com/gag/adgrxwV)
+ - 🚖 [Fennec Fox](http://9gag.com/gag/aE8yDVp)
  - 🚯 [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)
- - 🚯 [A fish can climb a wall through water](http://9gag.com/gag/aYrZqYq)<!-- MEMES:END -->
+ - 🚯 [What timeline is this?](http://9gag.com/gag/abgKBx9)<!-- MEMES:END -->
 
 --- 
 
