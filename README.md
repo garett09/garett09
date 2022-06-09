@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Block data: weekly NFT sales declined by just over 70% from a high of nearly 1M units in the third week of 2022 to 250K+ at the end of May &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220608/p38#a220608p38)
- - [Apple’s kind of a bank now](https://www.theverge.com/2022/6/8/23160400/apple-kind-of-bank-now-pay-later-bnpl-financial-services)
- - [Meta&#39;s David Mortenson steps down as head of infrastructure; Santosh Janardhan, VP of engineering and infrastructure, will assume Mortenson&#39;s role later in June &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220608/p37#a220608p37)<!-- TECH:END -->
+ - [SolarWinds Hack Shows Government, Private Sector Need Collaborate on Security, CISA Head Says     - CNET](https://www.cnet.com/tech/services-and-software/solarwinds-hack-shows-government-private-sector-need-collaborate-on-security-cisa-head-says/#ftag=CAD590a51e)
+ - [This Cyberpunk 2077 Anime on Netflix Trailer Looks Incredible     - CNET](https://www.cnet.com/culture/entertainment/this-cyberpunk-2077-anime-on-netflix-trailer-looks-incredible/#ftag=CAD590a51e)
+ - [How to connect or disconnect Spotify and Facebook](https://www.androidauthority.com/how-to-connect-disconnect-spotify-facebook-3085371/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
