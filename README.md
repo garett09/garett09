@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To The Second Age Of The Game Demo](https://kotaku.com/xbox-project-moorcroft-ps-plus-extra-nintendo-switch-ga-1849040134)
- - [You can actually buy this year’s Xbox Pride controller](https://www.polygon.com/reviews/23160334/xbox-pride-controller-2022-review)
- - [Hey, It&#39;s Time To Show Some Love To Dwarf Fortress](https://kotaku.com/dwarf-fortress-roguelike-free-bay-12-games-indie-pc-pat-1849039596)<!-- GAME:END -->
+ - [Where To Watch Summer Game Fest’s Big Opening Event](https://kotaku.com/summer-game-fest-2022-starfield-where-to-watch-what-to-1849024576)
+ - [Junji Ito anime anthology Maniac coming to Netflix in 2023](https://www.polygon.com/23161393/netflix-junji-ito-maniac-announcement-2023)
+ - [Among Us officially crosses over with Fortnite](https://www.pcgamer.com/among-us-officially-crosses-over-with-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
