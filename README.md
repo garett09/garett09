@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Watch Summer Game Fest’s Big Opening Event](https://kotaku.com/summer-game-fest-2022-starfield-where-to-watch-what-to-1849024576)
- - [Junji Ito anime anthology Maniac coming to Netflix in 2023](https://www.polygon.com/23161393/netflix-junji-ito-maniac-announcement-2023)
- - [Among Us officially crosses over with Fortnite](https://www.pcgamer.com/among-us-officially-crosses-over-with-fortnite)<!-- GAME:END -->
+ - [Space is moist in the latest gameplay trailer for The Callisto Protocol](https://www.polygon.com/23161199/the-callisto-protocol-gameplay-trailer-summer-game-fest)
+ - [New Street Fighter 6 trailer shows off Guile in action](https://www.polygon.com/23161556/street-fighter-6-guile-character-trailer-capcom-sgf)
+ - [Yep, The Callisto Protocol Still Looks Like It’ll Give Us Nightmares](https://kotaku.com/callisto-protocol-dead-space-glen-schofield-pubg-horror-1849041181)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
