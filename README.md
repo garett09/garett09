@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)
- - 🚯 [Voughtland](http://9gag.com/gag/a11B0Wb)
- - 🚯 [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)<!-- MEMES:END -->
+ - 🚖 [The end](http://9gag.com/gag/amgK6Gv)
+ - 🚯 [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)
+ - 🚯 [Conjunction](http://9gag.com/gag/a41m52d)<!-- MEMES:END -->
 
 --- 
 
