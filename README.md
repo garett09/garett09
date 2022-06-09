@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute](http://9gag.com/gag/aegyRXW)
- - 🚯 [Above 30](http://9gag.com/gag/a6148Em)
+ - 🚖 [I just rewatched the first season and no ragrets. Great acting.](http://9gag.com/gag/azeo4Wb)
+ - 🚯 [2022 it been wild....](http://9gag.com/gag/aqGBYyM)
  - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 --- 
