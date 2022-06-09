@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD announces its new Zen architecture roadmap, including Zen 5 in 2024 with a mix of 4nm and 3nm processes and integrated AI and ML optimizations &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p41#a220609p41)
- - [Insteon customers turned Insteon’s lights back on](https://www.theverge.com/2022/6/9/23161803/insteon-customers-bought-company-restored-service)
- - [Catalyst Black: How to play with friends](https://www.androidauthority.com/catalyst-black-friends-3174815/)<!-- TECH:END -->
+ - [Windows 11 rolls out a test build with tabs in File Explorer](https://www.theverge.com/2022/6/9/23161942/microsoft-windows-11-insiders-file-explorer-tabs-widgets-notepad-media-player)
+ - [How to copy a playlist on Spotify](https://www.androidauthority.com/how-to-copy-playlist-spotify-3084058/)
+ - [Summer Game Fest’s Biggest Announcement Was a Remake](https://www.wired.com/story/summer-game-fest-last-of-us/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
