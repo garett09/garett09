@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)
- - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)
- - [Something’s wrong on Mars in new thriller  game Fort Solis](https://www.polygon.com/23161610/fort-solis-troy-baker-roger-clark-mars-thriller-game)<!-- GAME:END -->
+ - [Terrifying spider-train horror game Choo-Choo Charles is coming to consoles too](https://www.polygon.com/23158808/choo-choo-charles-horror-train-thomas-the-tank-engine)
+ - [Will the The Last of Us multiplayer game come to PC?](https://www.pcgamer.com/will-the-the-last-of-us-multiplayer-game-come-to-pc)
+ - [Everything Shown At Summer Game Fest’s Big Kickoff Event](https://kotaku.com/summer-game-fest-2022-call-of-duty-mw2-the-last-of-us-r-1849041073)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
