@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s fight then](http://9gag.com/gag/aOQA9xM)
- - 🚯 [So talented!!!](http://9gag.com/gag/aLvVAvW)
- - 🚯 [\u201cDrivers today are so distracted by technology.\u201d Me in the 90\u2019s:](http://9gag.com/gag/aDDrbbw)<!-- MEMES:END -->
+ - 🚖 [As fun as it gets](http://9gag.com/gag/adgrxwV)
+ - 🚯 [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)
+ - 🚯 [A fish can climb a wall through water](http://9gag.com/gag/aYrZqYq)<!-- MEMES:END -->
 
 --- 
 
