@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple retail workers in New York switch unions](https://www.theverge.com/2022/6/9/23161526/apple-retail-workers-switch-unions-communications-workers-america)
- - [How to cancel YouTube Premium](https://www.androidauthority.com/cancel-youtube-premium-3174428/)
- - [Communications Workers of America jumping in on Apple Grand Central unionization efforts](https://appleinsider.com/articles/22/06/09/communications-workers-of-america-jumping-in-on-apple-grand-central-unionization-efforts?utm_medium=rss)<!-- TECH:END -->
+ - [Frost Giant Studios’ Debut Mixes Starcraft With Diablo](https://www.wired.com/story/frost-giant-studios-stormgate-starcraft-diablo/)
+ - [The first version of Meta’s AR glasses will be for developers only](https://www.theverge.com/2022/6/9/23161657/meta-to-not-sell-first-ar-glasses-cancel-camera-smartwatch)
+ - [The NHTSA upgrades its Tesla Autopilot investigation to an &quot;Engineering Analysis&quot;, which precedes a recall and expands it from 765,000 to 830,000 vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220609/p38#a220609p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
