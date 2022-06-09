@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues rare developer beta software for AirPods](https://appleinsider.com/articles/22/06/09/apple-issues-rare-developer-beta-software-for-airpods?utm_medium=rss)
- - [Despite Facebook&#39;s ban on gun sales, internal guidance shows users can break its rules 10 times before being banned, down to five if they call for violence &lpar;Washington Post&rpar;](http://www.techmeme.com/220609/p17#a220609p17)
- - [Middesk, which offers APIs to automate business verification and underwriting decisions, raises a $57M Series B co-led by Insight and Canapi &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220609/p16#a220609p16)<!-- TECH:END -->
+ - [Zugu case review: a stylish iPad case with a few tricks up its sleeve](https://appleinsider.com/articles/22/06/09/zugu-case-review-a-stylish-ipad-case-with-a-few-tricks-up-its-sleeve?utm_medium=rss)
+ - [Dell redesigns the $999 XPS 13 and XPS 13 2-in-1, transforming the 2-in-1 into a detachable Surface rival, adding Intel&#39;s 12th Gen CPUs, and more &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/220609/p22#a220609p22)
+ - [Mexico City-based digital bank Klar raises $70M led by General Atlantic at a $500M valuation, following a $70M Series B in July 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220609/p21#a220609p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
