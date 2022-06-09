@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space is moist in the latest gameplay trailer for The Callisto Protocol](https://www.polygon.com/23161199/the-callisto-protocol-gameplay-trailer-summer-game-fest)
- - [New Street Fighter 6 trailer shows off Guile in action](https://www.polygon.com/23161556/street-fighter-6-guile-character-trailer-capcom-sgf)
- - [Yep, The Callisto Protocol Still Looks Like It’ll Give Us Nightmares](https://kotaku.com/callisto-protocol-dead-space-glen-schofield-pubg-horror-1849041181)<!-- GAME:END -->
+ - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)
+ - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)
+ - [Something’s wrong on Mars in new thriller  game Fort Solis](https://www.polygon.com/23161610/fort-solis-troy-baker-roger-clark-mars-thriller-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
