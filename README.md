@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just rewatched the first season and no ragrets. Great acting.](http://9gag.com/gag/azeo4Wb)
- - 🚯 [2022 it been wild....](http://9gag.com/gag/aqGBYyM)
- - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
+ - 🚖 [Owner pretends to be drowning to see if his dog would save him](http://9gag.com/gag/axBQmYM)
+ - 🚯 [Me trying to fill my emptiness](http://9gag.com/gag/a0ZzwEX)
+ - 🚯 [Stares motherf**kerly](http://9gag.com/gag/aGz6bpz)<!-- MEMES:END -->
 
 --- 
 
