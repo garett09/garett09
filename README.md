@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frost Giant Studios’ Debut Mixes Starcraft With Diablo](https://www.wired.com/story/frost-giant-studios-stormgate-starcraft-diablo/)
- - [The first version of Meta’s AR glasses will be for developers only](https://www.theverge.com/2022/6/9/23161657/meta-to-not-sell-first-ar-glasses-cancel-camera-smartwatch)
- - [The NHTSA upgrades its Tesla Autopilot investigation to an &quot;Engineering Analysis&quot;, which precedes a recall and expands it from 765,000 to 830,000 vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220609/p38#a220609p38)<!-- TECH:END -->
+ - [DocuSign reports Q1 revenue of $588.7M, up 25% YoY, vs. $581.8M est., and net loss of $27.4M, up from $8.4M in Q1 2021; stock drops ~20% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220609/p40#a220609p40)
+ - [The Last of Us Part I remake is coming to PS5 on September 2nd and PC someday](https://www.theverge.com/2022/6/9/23159914/sony-ps5-pc-the-last-of-us-part-one-remake-release-date-september-2nd)
+ - [America&#39;s Frontier Fund, a nonprofit group associated with Eric Schmidt, Peter Thiel, and others, is lobbying the US government to invest $1B in US chip making &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/220609/p39#a220609p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
