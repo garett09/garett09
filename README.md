@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DocuSign reports Q1 revenue of $588.7M, up 25% YoY, vs. $581.8M est., and net loss of $27.4M, up from $8.4M in Q1 2021; stock drops ~20% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220609/p40#a220609p40)
- - [The Last of Us Part I remake is coming to PS5 on September 2nd and PC someday](https://www.theverge.com/2022/6/9/23159914/sony-ps5-pc-the-last-of-us-part-one-remake-release-date-september-2nd)
- - [America&#39;s Frontier Fund, a nonprofit group associated with Eric Schmidt, Peter Thiel, and others, is lobbying the US government to invest $1B in US chip making &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/220609/p39#a220609p39)<!-- TECH:END -->
+ - [AMD announces its new Zen architecture roadmap, including Zen 5 in 2024 with a mix of 4nm and 3nm processes and integrated AI and ML optimizations &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p41#a220609p41)
+ - [Insteon customers turned Insteon’s lights back on](https://www.theverge.com/2022/6/9/23161803/insteon-customers-bought-company-restored-service)
+ - [Catalyst Black: How to play with friends](https://www.androidauthority.com/catalyst-black-friends-3174815/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
