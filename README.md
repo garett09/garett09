@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta has halted development of a smartwatch with dual cameras, which was in development for two years, and is instead working on other wrist devices &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220609/p1#a220609p1)
- - [Amazon drops Apple&#39;s Mac mini to just $569.99](https://appleinsider.com/articles/22/06/09/amazon-drops-apples-mac-mini-to-just-56999?utm_medium=rss)
- - [London-based Codat, whose universal API for SMB data is used by SaaS, lending, and payments companies, raises a $100M Series C at an ~$825M valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220608/p46#a220608p46)<!-- TECH:END -->
+ - [Ex-Bethesda and parent ZeniMax Media employees detail the human toll of Fallout 76&#39;s launch, including QA testers being surveilled and developers falling ill &lpar;Sisi Jiang/Kotaku&rpar;](http://www.techmeme.com/220609/p3#a220609p3)
+ - [Researcher says over 120K passports, drivers licenses, and IDs of users of Chinese bike-sharing service Mobike was not encrypted and exposed online &lpar;TechCrunch&rpar;](http://www.techmeme.com/220609/p2#a220609p2)
+ - [Meta Reportedly Halts Development of Two-Camera Smartwatch     - CNET](https://www.cnet.com/tech/mobile/meta-reportedly-halts-development-of-two-camera-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
