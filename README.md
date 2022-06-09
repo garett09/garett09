@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well Japan is Japan](http://9gag.com/gag/aZrojZ9)
- - 🚯 [Fire burning inside a tree after it was struck by lightning](http://9gag.com/gag/ay9ZROy)
- - 🚯 [What times](http://9gag.com/gag/azeoZeN)<!-- MEMES:END -->
+ - 🚖 [We used to talk like this](http://9gag.com/gag/aVx42x2)
+ - 🚯 [Has to be what goes through their minds.](http://9gag.com/gag/aOQA1wr)
+ - 🚯 [England will Never forget that ...](http://9gag.com/gag/a31e2Q5)<!-- MEMES:END -->
 
 --- 
 
