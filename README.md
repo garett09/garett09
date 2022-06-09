@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Has to be what goes through their minds.](http://9gag.com/gag/aOQA1wr)
- - 🚯 [The good old days](http://9gag.com/gag/agg6KKg)
+ - 🚖 [Wait a minute](http://9gag.com/gag/aegyRXW)
+ - 🚯 [Above 30](http://9gag.com/gag/a6148Em)
  - 🚯 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 --- 
