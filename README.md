@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With Darth Vader, less is more, according to the screenwriter of Obi-Wan Kenobi](https://www.polygon.com/star-wars/23159661/obi-wan-kenobi-screenwriter-darth-vader-disney-plus)
- - [Starfield is finally getting &#39;finishing touches&#39; and may actually release in 2023](https://www.pcgamer.com/starfield-is-finally-getting-finishing-touches-and-may-actually-release-in-2023)
- - [Oops, Forza Horizon 5&#39;s first expansion has accidentally leaked](https://www.pcgamer.com/oops-forza-horizon-5s-first-expansion-has-accidentally-leaked)<!-- GAME:END -->
+ - [How to watch Summer Game Fest](https://www.polygon.com/23159625/sgf-summer-game-fest-2022-start-time-cuphead-mw2-reveal)
+ - [The Decade-Long Struggle To Fund Oakland’s Scrappy Video Game Museum](https://kotaku.com/the-made-oakland-game-museum-funding-dolby-ea-ubisoft-g-1849030490)
+ - [Nope’s new trailer finally reveals what Jordan Peele’s latest movie is about](https://www.polygon.com/23161097/nope-jordan-peele-trailer-release-date-cast-plot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
