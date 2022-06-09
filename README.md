@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The end](http://9gag.com/gag/amgK6Gv)
- - 🚯 [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)
- - 🚯 [Conjunction](http://9gag.com/gag/a41m52d)<!-- MEMES:END -->
+ - 🚖 [Conjunction](http://9gag.com/gag/a41m52d)
+ - 🚯 [The plural of Octopus](http://9gag.com/gag/ang8veo)
+ - 🚯 [Someone is not very good at math.](http://9gag.com/gag/a11B5eR)<!-- MEMES:END -->
 
 --- 
 
