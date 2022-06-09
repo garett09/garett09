@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My lovely Brazil](http://9gag.com/gag/aQXBAWK)
+ - 🚖 [Let&#39;s fight then](http://9gag.com/gag/aOQA9xM)
  - 🚯 [So talented!!!](http://9gag.com/gag/aLvVAvW)
- - 🚯 [Let&#39;s fight then](http://9gag.com/gag/aOQA9xM)<!-- MEMES:END -->
+ - 🚯 [\u201cDrivers today are so distracted by technology.\u201d Me in the 90\u2019s:](http://9gag.com/gag/aDDrbbw)<!-- MEMES:END -->
 
 --- 
 
