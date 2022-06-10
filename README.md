@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&#39;s upcoming RDNA 3 GPU architecture will use a chiplet design and target a 50%+ performance per watt uplift versus RDNA 2, with first chips coming in 2022 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p43#a220609p43)
- - [How to clear your Amazon browsing history](https://www.androidauthority.com/clear-amazon-search-history-3174867/)
- - [Jack Dorsey and Jay-Z launch The Bitcoin Academy, giving free financial education classes on Bitcoin at the Brooklyn public housing complex where Jay-Z grew up &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220609/p42#a220609p42)<!-- TECH:END -->
+ - [Anagenex, which combines AI and large-scale proprietary datasets for drug discovery, has raised a $30M Series A led by Catalio Capital Management &lpar;Arundhati Parmar/MedCity News&rpar;](http://www.techmeme.com/220609/p46#a220609p46)
+ - [Stitch Fix is laying off 15% of its salaried workers or ~330 employees, reporting Q3 revenue of $492.9M, down 8% YoY, and net loss of $78M, up from $18.8M YoY &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/220609/p45#a220609p45)
+ - [Online freight marketplace Convoy, which closed a $260M round at a $3.8B valuation in April, confirms it laid off 7% of its workers, ~90 of its 1,300 employees &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220609/p44#a220609p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
