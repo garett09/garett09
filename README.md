@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When i meet my gf parents for the first time and they offer me beer at 10 in the morning](http://9gag.com/gag/aRr9yzB)
- - 🚯 [Wholesome AF](http://9gag.com/gag/arn9ddp)
- - 🚯 [Hakuna matata\u2026](http://9gag.com/gag/a11BqDD)<!-- MEMES:END -->
+ - 🚖 [Hakuna matata\u2026](http://9gag.com/gag/a11BqDD)
+ - 🚯 [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)
+ - 🚯 [Governments be like](http://9gag.com/gag/a41mxXy)<!-- MEMES:END -->
 
 --- 
 
