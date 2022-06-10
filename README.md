@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brompton recalls folding e-bikes over risk of front wheel lockup](https://www.theverge.com/2022/6/10/23162313/brompton-e-bike-recall-mudguard-lockup)
- - [Sources: &quot;AI transformer&quot; startups Inflection, Cohere, Adept, and Anthropic, which collectively raised $1B+, recently poached dozens of scientists from Big Tech &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220610/p2#a220610p2)
- - [Facebook is killing Portal and that’s okay](https://www.androidauthority.com/facebook-portal-discontinued-3175013/)<!-- TECH:END -->
+ - [Glasgow Apple Store staff join union, ask Apple to recognize it](https://appleinsider.com/articles/22/06/10/glasgow-apple-store-staff-join-union-ask-apple-to-recognize-it?utm_medium=rss)
+ - [Jay-Z and Jack Dorsey criticized for launching ‘Bitcoin Academy’ in rapper’s childhood home](https://www.theverge.com/2022/6/10/23162314/jay-z-jack-dorsey-bitcoin-academy-brooklyn-free-classes)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: June 10&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
