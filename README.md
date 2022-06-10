@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glasgow Apple Store staff join union, ask Apple to recognize it](https://appleinsider.com/articles/22/06/10/glasgow-apple-store-staff-join-union-ask-apple-to-recognize-it?utm_medium=rss)
- - [Jay-Z and Jack Dorsey criticized for launching ‘Bitcoin Academy’ in rapper’s childhood home](https://www.theverge.com/2022/6/10/23162314/jay-z-jack-dorsey-bitcoin-academy-brooklyn-free-classes)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: June 10&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [After delivery startup Gorillas raised $1B in October, sources say it is drastically cutting costs, reducing staff benefits, and considering closing warehouses &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/220610/p7#a220610p7)
+ - [Announcing Windows 11 Insider Preview Build 25136 &lpar;Brandon LeBlanc/Windows Blog&rpar;](http://www.techmeme.com/220610/p6#a220610p6)
+ - [UK antitrust agency will investigate Apple &amp; Google over gaming and mobile browsers](https://appleinsider.com/articles/22/06/10/uk-antitrust-agency-will-investigate-apple-google-over-gaming-and-mobile-browsers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
