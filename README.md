@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Old Guard 2 gets 2 more action stars in Uma Thurman, Henry Golding](https://www.polygon.com/23162764/the-old-guard-2-cast-uma-thurman-henry-golding-charlize-theron-release-date)
- - [Share of the Week: Deathloop – Photo Mode](https://blog.playstation.com/2022/06/10/share-of-the-week-deathloop-photo-mode/)
- - [Share of the Week: Deathloop – Photo Mode](https://blog.playstation.com/2022/06/10/share-of-the-week-deathloop-photo-mode/)<!-- GAME:END -->
+ - [Dota: Dragon’s Blood’s third season debuts in August](https://www.polygon.com/23162901/dota-dragons-blood-season-3-release-date)
+ - [The Queen&#39;s Gambit is now a chess game you can only play on Netflix](https://www.pcgamer.com/the-queens-gambit-is-now-a-chess-game-you-can-only-play-on-netflix)
+ - [The Last Of Us Fans Debate PS5 Remake’s Graphics](https://kotaku.com/the-last-of-us-part-one-ps5-remake-graphic-comparison-p-1849046449)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
