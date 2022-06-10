@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was finally able to buy a piece of land to build my house. This is the view. i&#39;m from Argentina.](http://9gag.com/gag/amgKO34)
- - 🚯 [Must be so proud of me](http://9gag.com/gag/aNP8Gjb)
- - 🚯 [Roman road construction](http://9gag.com/gag/aDDrqX9)<!-- MEMES:END -->
+ - 🚖 [Rapping without saying the n word once &lpar;1993&rpar;](http://9gag.com/gag/a91Z4BW)
+ - 🚯 [Roman road construction](http://9gag.com/gag/aDDrqX9)
+ - 🚯 [Must be so proud of me](http://9gag.com/gag/aNP8Gjb)<!-- MEMES:END -->
 
 --- 
 
