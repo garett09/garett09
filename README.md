@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Owner pretends to be drowning to see if his dog would save him](http://9gag.com/gag/axBQmYM)
- - 🚯 [Me trying to fill my emptiness](http://9gag.com/gag/a0ZzwEX)
- - 🚯 [Stares motherf**kerly](http://9gag.com/gag/aGz6bpz)<!-- MEMES:END -->
+ - 🚖 [When keeping real goes wrong. She snatched his soul.](http://9gag.com/gag/amgKRYV)
+ - 🚯 [Phat](http://9gag.com/gag/apgz8Z8)
+ - 🚯 [The good old days](http://9gag.com/gag/agg6KKg)<!-- MEMES:END -->
 
 --- 
 
