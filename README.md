@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He loves food](http://9gag.com/gag/amgKb1y)
- - 🚯 [Leap of fail](http://9gag.com/gag/aAGqNqR)
- - 🚯 [Scary ..](http://9gag.com/gag/amgKKod)<!-- MEMES:END -->
+ - 🚖 [We gonna die](http://9gag.com/gag/aWgPPoA)
+ - 🚯 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
+ - 🚯 [And the people who enjoyed](http://9gag.com/gag/avA44dq)<!-- MEMES:END -->
 
 --- 
 
