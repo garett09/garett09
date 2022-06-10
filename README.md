@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After delivery startup Gorillas raised $1B in October, sources say it is drastically cutting costs, reducing staff benefits, and considering closing warehouses &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/220610/p7#a220610p7)
- - [Announcing Windows 11 Insider Preview Build 25136 &lpar;Brandon LeBlanc/Windows Blog&rpar;](http://www.techmeme.com/220610/p6#a220610p6)
- - [UK antitrust agency will investigate Apple &amp; Google over gaming and mobile browsers](https://appleinsider.com/articles/22/06/10/uk-antitrust-agency-will-investigate-apple-google-over-gaming-and-mobile-browsers?utm_medium=rss)<!-- TECH:END -->
+ - [Firefox and Chrome are squaring off over ad-blocker extensions](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
+ - [Apple&#39;s Safety Check Is Built to Prevent &#39;Terrifying&#39; Consequences     - CNET](https://www.cnet.com/tech/mobile/apples-safety-check-is-built-to-prevent-terrifying-consequences/#ftag=CAD590a51e)
+ - [The Time I Tried Polyphasic Sleep and Almost Lost My Mind     - CNET](https://www.cnet.com/health/sleep/features/the-time-i-tried-polyphasic-sleep-and-almost-lost-my-mind/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
