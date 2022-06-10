@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Atleast play something decent](http://9gag.com/gag/aE8yErG)
- - 🚯 [This is just.. hurtful](http://9gag.com/gag/a41mwWy)
- - 🚯 [Wife Material](http://9gag.com/gag/aYrZdwx)<!-- MEMES:END -->
+ - 🚯 [Wife Material](http://9gag.com/gag/aYrZdwx)
+ - 🚯 [Wait a minute](http://9gag.com/gag/aegyRXW)<!-- MEMES:END -->
 
 --- 
 
