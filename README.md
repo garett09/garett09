@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Atleast play something decent](http://9gag.com/gag/aE8yErG)
- - 🚯 [Wife Material](http://9gag.com/gag/aYrZdwx)
- - 🚯 [Wait a minute](http://9gag.com/gag/aegyRXW)<!-- MEMES:END -->
+ - 🚖 [Sharing is caring](http://9gag.com/gag/aXrQdVb)
+ - 🚯 [Me trying to fill my emptiness](http://9gag.com/gag/a0ZzwEX)
+ - 🚯 [Stares motherf**kerly](http://9gag.com/gag/aGz6bpz)<!-- MEMES:END -->
 
 --- 
 
