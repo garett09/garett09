@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything the rumor mill got right -- and wrong -- about the M2 MacBook Air](https://appleinsider.com/articles/22/06/10/everything-the-rumor-mill-got-right----and-wrong----about-the-m2-macbook-air?utm_medium=rss)
- - [Tech antitrust is facing its biggest challenge yet in the Senate](https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate)
- - [Dragon Age gets a new anime on Netflix](https://www.theverge.com/2022/6/10/23162849/netflix-dragon-age-absolution-bioware-anime)<!-- TECH:END -->
+ - [The Tricky Business of Elon Musk Getting Twitter Fire-Hose Access](https://www.wired.com/story/elon-musk-twitter-firehose/)
+ - [Telegram Premium is happening: Here’s what we know so far](https://www.androidauthority.com/telegram-premium-plan-3175408/)
+ - [Everything Apple Sherlocked in macOS Ventura, iOS 16, and iPadOS 16](https://appleinsider.com/articles/22/06/10/everything-apple-sherlocked-in-macos-ventura-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
