@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lottery](http://9gag.com/gag/aqGBdPZ)
- - 🚯 [Please, after you.](http://9gag.com/gag/a614xRA)
+ - 🚖 [Above 30](http://9gag.com/gag/a6148Em)
+ - 🚯 [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)
  - 🚯 [Bearded style axe restoration](http://9gag.com/gag/aRr9yY2)<!-- MEMES:END -->
 
 --- 
