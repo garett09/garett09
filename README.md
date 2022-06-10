@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Apple adjusts Dutch App Store rules for dating apps to comply with regulators](https://appleinsider.com/articles/22/06/10/apple-adjusts-dutch-app-store-rules-for-dating-apps-to-comply-with-regulators?utm_medium=rss)
- - [Android 13 beta 3.1 drops out of nowhere to fix one significant problem](https://www.androidauthority.com/android-13-beta-3-1-3175494/)
- - [Stadia just made it a lot easier to play the Resident Evil Village demo](https://www.theverge.com/2022/6/10/23163089/capcom-resident-evil-village-demo-browser-google-stadia)<!-- TECH:END -->
+ - [Android 13 beta 3.1 drops out of nowhere to fix one significant problem](https://www.androidauthority.com/android-13-beta-3-1-3175494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
