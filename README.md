@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
- - 🚯 [The obstacles haven\u2019t reacted yet](http://9gag.com/gag/aYrZZ7m)
- - 🚯 [Well, when karma gets it right](http://9gag.com/gag/aRr9Ndj)<!-- MEMES:END -->
+ - 🚖 [Rumor has it he&#39;s still doing push-ups till this day](http://9gag.com/gag/a31ezEv)
+ - 🚯 [Well, when karma gets it right](http://9gag.com/gag/aRr9Ndj)
+ - 🚯 [The obstacles haven\u2019t reacted yet](http://9gag.com/gag/aYrZZ7m)<!-- MEMES:END -->
 
 --- 
 
