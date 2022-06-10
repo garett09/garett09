@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dota: Dragon’s Blood’s third season debuts in August](https://www.polygon.com/23162901/dota-dragons-blood-season-3-release-date)
- - [The Queen&#39;s Gambit is now a chess game you can only play on Netflix](https://www.pcgamer.com/the-queens-gambit-is-now-a-chess-game-you-can-only-play-on-netflix)
- - [The Last Of Us Fans Debate PS5 Remake’s Graphics](https://kotaku.com/the-last-of-us-part-one-ps5-remake-graphic-comparison-p-1849046449)<!-- GAME:END -->
+ - [The Anacrusis Celebrates Launch of Mod Support with 50% off Sale This Weekend](https://news.xbox.com/en-us/2022/06/10/the-anacrusis-celebrates-launch-of-mod-support-with-50-off-sale-this-weekend/)
+ - [Thirsty Suitors early gameplay shows off bright visuals and dynamic dance battles](https://www.polygon.com/23158624/thirsty-suitors-preview-annapurna)
+ - [Outriders’ Worldslayer expansion introduces a new type of endgame content](https://www.polygon.com/23161821/outriders-worldslayer-expansion-trial-of-tarya-gratar-dungeon-endgame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
