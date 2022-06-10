@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sharing is caring](http://9gag.com/gag/aXrQdVb)
- - 🚯 [Me trying to fill my emptiness](http://9gag.com/gag/a0ZzwEX)
- - 🚯 [Stares motherf**kerly](http://9gag.com/gag/aGz6bpz)<!-- MEMES:END -->
+ - 🚖 [Lottery](http://9gag.com/gag/aqGBdPZ)
+ - 🚯 [Please, after you.](http://9gag.com/gag/a614xRA)
+ - 🚯 [Bearded style axe restoration](http://9gag.com/gag/aRr9yY2)<!-- MEMES:END -->
 
 --- 
 
