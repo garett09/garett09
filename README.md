@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Samsung Galaxy Z Flip 3 update brings Galaxy S22 camera features](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
  - [Samsung owns up to mistake after using iPhone photos in promotion](https://www.androidauthority.com/samsung-iphone-promotion-mistake-3174990/)
- - [HTC’s metaverse smartphone finally has a reveal date](https://www.androidauthority.com/htc-launch-date-metaverse-smartphone-3174546/)
- - [Indian credit card payment service Cred raises $80M as part of a planned $140M Series F, at a $6.2B valuation, up from its $4B valuation in Oct 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220610/p1#a220610p1)<!-- TECH:END -->
+ - [HTC’s metaverse smartphone finally has a reveal date](https://www.androidauthority.com/htc-launch-date-metaverse-smartphone-3174546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
