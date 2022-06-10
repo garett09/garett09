@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Anagenex, which combines AI and large-scale proprietary datasets for drug discovery, has raised a $30M Series A led by Catalio Capital Management &lpar;Arundhati Parmar/MedCity News&rpar;](http://www.techmeme.com/220609/p46#a220609p46)
- - [Stitch Fix is laying off 15% of its salaried workers or ~330 employees, reporting Q3 revenue of $492.9M, down 8% YoY, and net loss of $78M, up from $18.8M YoY &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/220609/p45#a220609p45)
- - [Online freight marketplace Convoy, which closed a $260M round at a $3.8B valuation in April, confirms it laid off 7% of its workers, ~90 of its 1,300 employees &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220609/p44#a220609p44)<!-- TECH:END -->
+ - [&#39;Stranger Things 4&#39; Uncanny Valley: Who Plays Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-who-plays-young-eleven/#ftag=CAD590a51e)
+ - [Grape-Killing Bug Likely to Terrorize California&#39;s Beloved Wine Country     - CNET](https://www.cnet.com/science/biology/grape-killing-bug-likely-to-terrorize-californias-beloved-wine-country/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
