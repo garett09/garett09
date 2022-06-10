@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wow! Netflix made the game from The Queen’s Gambit](https://www.polygon.com/23162888/the-queens-gambit-chess-game-netflix)
- - [New Dragon Age Anime Suffers From Typical Netflix Blandness](https://kotaku.com/dragon-age-absolution-netflix-tevinter-anime-1849047054)
- - [The Anacrusis Celebrates Launch of Mod Support with 50% off Sale This Weekend](https://news.xbox.com/en-us/2022/06/10/the-anacrusis-celebrates-launch-of-mod-support-with-50-off-sale-this-weekend/)<!-- GAME:END -->
+ - [Our national nightmare is over: Seth Green&#39;s kidnapped Bored Ape NFT has returned home](https://www.pcgamer.com/our-national-nightmare-is-over-seth-greens-kidnapped-bored-ape-nft-has-returned-home)
+ - [Netflix Reveals First Look At New Castlevania Series Starring Richter Belmont](https://kotaku.com/castlevania-nocturne-spin-off-richter-belmont-trevor-sy-1849047581)
+ - [Castlevania: Nocturne teases a return to one of the series&#39; most beloved entries](https://www.pcgamer.com/castlevania-nocturne-teases-a-return-to-one-of-the-series-most-beloved-entries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
