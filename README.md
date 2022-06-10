@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bismuth has a much lower melting point than many other types of metals and forms iridescent square crystals when it solidifies oxidation adds colour, the shade is determined by the level of oxygen it\u2019s exposed to as it cools down.](http://9gag.com/gag/awzPj7D)
+ - 🚖 [Thailand gives away more then 1 million weed plants to it&#39;s citizens to celebrate legalization](http://9gag.com/gag/a219g2E)
  - 🚯 [Just recently I thought I&#39;d end up a wizard. I guess not, unfortunately.](http://9gag.com/gag/abgKoLO)
- - 🚯 [The Argentine government banned the use of inclusive language in primary schools.](http://9gag.com/gag/a41mB2p)<!-- MEMES:END -->
+ - 🚯 [Point](http://9gag.com/gag/aRr9GGG)<!-- MEMES:END -->
 
 --- 
 
