@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Tesla files for a three-way stock split to make its shares more affordable](https://www.theverge.com/2022/6/10/23163136/tesla-stock-split-share-price-investor-2022)
- - [AT&amp;T says it is the first operator in the world to achieve 20 Gbps download and upload speeds with a production fiber network &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/220610/p18#a220610p18)<!-- TECH:END -->
+ - [Apple adjusts Dutch App Store rules for dating apps to comply with regulators](https://appleinsider.com/articles/22/06/10/apple-adjusts-dutch-app-store-rules-for-dating-apps-to-comply-with-regulators?utm_medium=rss)
+ - [Android 13 beta 3.1 drops out of nowhere to fix one significant problem](https://www.androidauthority.com/android-13-beta-3-1-3175494/)
+ - [Stadia just made it a lot easier to play the Resident Evil Village demo](https://www.theverge.com/2022/6/10/23163089/capcom-resident-evil-village-demo-browser-google-stadia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
