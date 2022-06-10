@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)
- - 🚯 [Governments be like](http://9gag.com/gag/a41mxXy)
+ - 🚖 [The obstacles haven\u2019t reacted yet](http://9gag.com/gag/aYrZZ7m)
+ - 🚯 [Can you name them all?](http://9gag.com/gag/aOQANG3)
  - 🚯 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)<!-- MEMES:END -->
 
 --- 
