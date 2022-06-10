@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarok will still come out this year, report says](https://www.polygon.com/23162598/god-of-war-ragnarok-release-month-bloomberg-report)
- - [An Insider’s Guide for the First Hours of Playing Unexplored 2](https://news.xbox.com/en-us/2022/06/10/an-insiders-guide-for-the-first-hours-of-playing-unexplored-2/)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
+ - [The Quarry: How Interactive Narrative Games Brings out the Best in Horror](https://news.xbox.com/en-us/2022/06/10/the-quarry-how-interactive-narrative-games-brings-out-the-best-in-horror/)
+ - [Udder Mayhem Awaits in Goat Simulator 3 This Fall](https://news.xbox.com/en-us/2022/06/10/udder-mayhem-awaits-in-goat-simulator-3-this-fall/)
+ - [Final Fantasy 7 anniversary stream raises hopes of Remake Part 2 reveal](https://www.polygon.com/23162633/final-fantasy-7-remake-part-2-25th-anniversary-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
