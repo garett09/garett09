@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook voices support for federal privacy proposal in letter to lawmakers](https://appleinsider.com/articles/22/06/10/tim-cook-voices-support-for-federal-privacy-proposal-in-letter-to-lawmakers?utm_medium=rss)
- - [Meta is adding social hangouts to the Quest’s VR home space](https://www.theverge.com/2022/6/10/23162750/meta-quest-vr-headset-horizon-home-social-hangouts-launch)
- - [Activision Blizzard will begin negotiations with QA testers union at Raven Software](https://www.theverge.com/2022/6/10/23162611/activision-blizzard-raven-qa-union-recognized-negotiations)<!-- TECH:END -->
+ - [Everything the rumor mill got right -- and wrong -- about the M2 MacBook Air](https://appleinsider.com/articles/22/06/10/everything-the-rumor-mill-got-right----and-wrong----about-the-m2-macbook-air?utm_medium=rss)
+ - [Tech antitrust is facing its biggest challenge yet in the Senate](https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate)
+ - [Dragon Age gets a new anime on Netflix](https://www.theverge.com/2022/6/10/23162849/netflix-dragon-age-absolution-bioware-anime)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
