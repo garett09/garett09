@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Apple adjusts Dutch App Store rules for dating apps to comply with regulators](https://appleinsider.com/articles/22/06/10/apple-adjusts-dutch-app-store-rules-for-dating-apps-to-comply-with-regulators?utm_medium=rss)
- - [Android 13 beta 3.1 drops out of nowhere to fix one significant problem](https://www.androidauthority.com/android-13-beta-3-1-3175494/)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Recruiters say hiring remains strong in some tech sectors; Indeed.com: developer postings in the US are up 120% on early 2020 pre-coronavirus pandemic baseline &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220610/p19#a220610p19)
+ - [All the biggest news from Netflix Geeked Week 2022](https://www.theverge.com/2022/6/6/23156316/netflix-geeked-week-2022-trailers-film-tv-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
