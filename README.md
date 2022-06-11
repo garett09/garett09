@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One-legged men VS healthy women, playing footbal and men are winning.](http://9gag.com/gag/aAGqzr9)
- - 🚯 [Headlight wipers](http://9gag.com/gag/aXrQ6e9)
+ - 🚖 [Dammitt Good](http://9gag.com/gag/aKmnoz3)
+ - 🚯 [Weakness disgusts me](http://9gag.com/gag/a31e6Br)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
