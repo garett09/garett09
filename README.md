@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dammitt Good](http://9gag.com/gag/aKmnoz3)
- - 🚯 [Weakness disgusts me](http://9gag.com/gag/a31e6Br)
+ - 🚖 [Youtube Kids getting better](http://9gag.com/gag/a614YNb)
+ - 🚯 [Common mistake traveler&#39;s make in Iceland: calling cops to save babies left outside. Letting babies nap outside in cold weather is a cultural practice in Scandinavia \u2014 sometimes when they\u2019re as young as two days](http://9gag.com/gag/a91ZxVL)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
