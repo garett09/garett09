@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro anime horror Signalis emerges from the cold this October](https://www.pcgamer.com/retro-anime-horror-signalis-emerges-from-the-cold-this-october)
- - [Ugly is a &#39;twisted fairytale&#39; puzzle platformer that&#39;s actually very pretty](https://www.pcgamer.com/ugly-is-a-twisted-fairytale-puzzle-platformer-thats-actually-very-pretty)
- - [The Fridge is Red, and you can try its surreal retro scares with a free demo](https://www.pcgamer.com/the-fridge-is-red-and-you-can-try-its-surreal-retro-scares-with-a-free-demo)<!-- GAME:END -->
+ - [49 Under-The-Radar Games That Belong On Your Radar](https://kotaku.com/49-under-the-radar-games-that-belong-on-your-radar-1849049477)
+ - [I&#39;m officially a Moomin guy now](https://www.pcgamer.com/im-officially-a-moomin-guy-now)
+ - [This fluffy life sim aims to be Animal Crossing for PC gamers](https://www.pcgamer.com/this-fluffy-life-sim-aims-to-be-animal-crossing-for-pc-gamers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
