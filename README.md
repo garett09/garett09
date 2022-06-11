@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 11: $225 off WD Black 2TB NVMe SSD, $200 50-inch JVC 4K Smart TV, $90 Donner Speakers, more](https://appleinsider.com/articles/22/06/11/daily-deals-june-11-225-off-wd-black-2tb-nvme-ssd-200-50-inch-jvc-4k-smart-tv-90-donner-speakers-more?utm_medium=rss)
- - [Wow, Americans Really Can&#39;t Stand Their Internet Service Providers     - CNET](https://www.cnet.com/news/wow-americans-really-hate-their-internet-service-providers-new-acsi-data-survey-finds/#ftag=CAD590a51e)
- - [What iOS 16 and Android 13 Tell Us About the Future of Smartphones     - CNET](https://www.cnet.com/tech/mobile/what-ios-16-and-android-13-tell-us-about-the-future-of-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta Hits the Brakes on Portal, AR Glasses, and Other Hardware](https://www.wired.com/story/meta-stops-selling-portal-to-consumers/)
+ - [How China Hacked US Phone Networks](https://www.wired.com/story/china-hacking-phone-network-security-roundup/)
+ - [The delight is in the details of Drop’s new DCX keycaps](https://www.theverge.com/2022/6/11/23162531/drop-dcx-black-on-white-keycaps-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
