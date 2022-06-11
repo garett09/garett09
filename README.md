@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They never acknowledged my presence and when they found out I was in a relationship, they are super nice and flirty](http://9gag.com/gag/ajgGjA8)
- - 🚯 [Thailand gives away more then 1 million weed plants to it&#39;s citizens to celebrate legalization](http://9gag.com/gag/a219g2E)
- - 🚯 [Historical figures and their names](http://9gag.com/gag/ajgGjXx)<!-- MEMES:END -->
+ - 🚖 [Imagine looking out in the morning when you just woke up. Another one of borisao blois animation.](http://9gag.com/gag/aKmn5Bg)
+ - 🚯 [He gets the ball!](http://9gag.com/gag/aBnjzNQ)
+ - 🚯 [This is how german baumkuchen is made. Literally translated to English it&#39;s called tree cake.](http://9gag.com/gag/ang8Z2o)<!-- MEMES:END -->
 
 --- 
 
