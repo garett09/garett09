@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Imagine looking out in the morning when you just woke up. Another one of borisao blois animation.](http://9gag.com/gag/aKmn5Bg)
  - 🚯 [He gets the ball!](http://9gag.com/gag/aBnjzNQ)
- - 🚯 [This is how german baumkuchen is made. Literally translated to English it&#39;s called tree cake.](http://9gag.com/gag/ang8Z2o)<!-- MEMES:END -->
+ - 🚯 [This is a rendering of one of the oldest galaxies in the universe called COSMOS1, classified as a monster galaxy, forms stars 1000 times faster than our Milky Way and was formed billions of years ago from a previous galactic collision. \ud83d\udcf7 Credits : Nasa /Hubble/Google search](http://9gag.com/gag/abgKwqr)<!-- MEMES:END -->
 
 --- 
 
