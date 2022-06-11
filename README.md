@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Engage a B](http://9gag.com/gag/aqGBEYQ)
- - 🚯 [I have some questions for you](http://9gag.com/gag/ay9ZwzV)
- - 🚯 [Why are you pretending you are not geh?](http://9gag.com/gag/agg6eB1)<!-- MEMES:END -->
+ - 🚖 [Millenials and Gen Z](http://9gag.com/gag/aWgPXg6)
+ - 🚯 [Why are you pretending you are not geh?](http://9gag.com/gag/agg6eB1)
+ - 🚯 [Engage a B](http://9gag.com/gag/aqGBEYQ)<!-- MEMES:END -->
 
 --- 
 
