@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horror fans are enjoying a feast of fantastic, terrifying games](https://www.polygon.com/23161855/horror-game-genre-callisto-protocol-dead-space-resident-evil-indie-games-golden-age)
- - [How to watch Wholesome Direct 2022](https://www.polygon.com/2022/6/11/23158733/how-to-watch-wholesome-direct-2022)
- - [Delightful New Game Looks Like Reverse Zelda: A Link Between Worlds](https://kotaku.com/the-plucky-squire-trailer-nintendo-switch-pc-playstatio-1849048046)<!-- GAME:END -->
+ - [Retro anime horror Signalis emerges from the cold this October](https://www.pcgamer.com/retro-anime-horror-signalis-emerges-from-the-cold-this-october)
+ - [Ugly is a &#39;twisted fairytale&#39; puzzle platformer that&#39;s actually very pretty](https://www.pcgamer.com/ugly-is-a-twisted-fairytale-puzzle-platformer-thats-actually-very-pretty)
+ - [The Fridge is Red, and you can try its surreal retro scares with a free demo](https://www.pcgamer.com/the-fridge-is-red-and-you-can-try-its-surreal-retro-scares-with-a-free-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
