@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch Wholesome Direct&#39;s indie game showcase](https://www.pcgamer.com/how-to-watch-wholesome-directs-indie-game-showcase)
  - [Sorry, But Hollywood Is Making A Duke Nukem Movie](https://kotaku.com/duke-nukem-film-movie-gearbox-cobra-kai-game-adaptation-1849047814)
- - [A Duke Nukem movie is coming from the makers of Cobra Kai](https://www.pcgamer.com/a-duke-nukem-movie-is-coming-from-the-makers-of-cobra-kai)
- - [Everything Everywhere All At Once, No Time to Die, and more new movies you can watch at home this weekend](https://www.polygon.com/23155425/new-movies-watch-everything-everywhere-all-at-once-netflix-hustle-no-time-to-die-vod)<!-- GAME:END -->
+ - [A Duke Nukem movie is coming from the makers of Cobra Kai](https://www.pcgamer.com/a-duke-nukem-movie-is-coming-from-the-makers-of-cobra-kai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
