@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-436-3174835/)
- - [Xbox &amp; Bethesda Games Showcase: Start Time, How to Watch, What to Expect     - CNET](https://www.cnet.com/tech/gaming/xbox-bethesda-games-showcase-start-time-how-to-watch-what-to-expect/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39; Creators Address Eddie and Chrissy&#39;s Chemistry     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-creators-address-eddie-and-chrissys-chemistry/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Script for Apple TV+ &#39;Pachinko&#39; pilot reveals highly detailed writing behind the drama](https://appleinsider.com/articles/22/06/11/script-for-apple-tv-pachinko-pilot-reveals-highly-detailed-writing-behind-the-drama?utm_medium=rss)
+ - [The travel-friendly Sonos Roam is still on sale for a rare $37 off](https://www.theverge.com/good-deals/2022/6/11/23162575/sonos-roam-apple-airpods-pro-samsung-galaxy-chromebook-2-lenovo-thinkpad-ps5-dualsense-deal-sale)
+ - [Garmin Forerunner 255 review: Running back to the top](https://www.androidauthority.com/garmin-forerunner-255-review-3173110/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
