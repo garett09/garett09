@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of godless psychopath would sleep on this couch this way?](http://9gag.com/gag/aGz643w)
+ - 🚖 [One-legged men VS healthy women, playing footbal and men are winning.](http://9gag.com/gag/aAGqzr9)
  - 🚯 [Headlight wipers](http://9gag.com/gag/aXrQ6e9)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
