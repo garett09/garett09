@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Elon Musk&#39;s Starlink has become an unexpected lifeline in Ukraine, on the battlefield and in the war for public opinion, impressing many Western militaries &lpar;Politico&rpar;](http://www.techmeme.com/220611/p2#a220611p2)
- - [Hack Your Happiness Hormones: How to Boost Serotonin and Dopamine     - CNET](https://www.cnet.com/culture/hack-your-happiness-hormones-how-to-boost-serotonin-and-dopamine/#ftag=CAD590a51e)
- - [An interview with Apple&#39;s Craig Federighi and VP of Design Alan Dye on the new features in iOS 16 for customizing lock screens &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/220611/p1#a220611p1)<!-- TECH:END -->
+ - [Best Xbox Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-gaming-headset/#ftag=CAD590a51e)
+ - [Hack Your Happiness Hormones: How to Boost Serotonin and Dopamine     - CNET](https://www.cnet.com/culture/hack-your-happiness-hormones-how-to-boost-serotonin-and-dopamine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
