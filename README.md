@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to close apps on the iPhone 13](https://www.androidauthority.com/close-apps-iphone-13-3175296/)
- - [23 of the best LGBTQ+ shows and where to stream them during Pride Month 2022](https://www.androidauthority.com/best-lgbtq-shows-streaming-pride-month-3172252/)
- - [The US military is embracing video gaming culture to attract and retain talent, but faces internal challenges and fierce outside criticism for doing so &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220611/p3#a220611p3)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-436-3174835/)
+ - [Xbox &amp; Bethesda Games Showcase: Start Time, How to Watch, What to Expect     - CNET](https://www.cnet.com/tech/gaming/xbox-bethesda-games-showcase-start-time-how-to-watch-what-to-expect/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39; Creators Address Eddie and Chrissy&#39;s Chemistry     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-creators-address-eddie-and-chrissys-chemistry/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
