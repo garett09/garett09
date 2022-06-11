@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 things Apple announced at WWDC that we want on Android](https://www.androidauthority.com/apple-features-wwdc-android-3175122/)
- - [If You&#39;re Supposed to Eat 3 Meals a Day, Why Is It So Hard?     - CNET](https://www.cnet.com/health/nutrition/if-youre-supposed-to-eat-3-meals-a-day-why-is-it-so-hard/#ftag=CAD590a51e)
- - [Meta Hits the Brakes on Portal, AR Glasses, and Other Hardware](https://www.wired.com/story/meta-stops-selling-portal-to-consumers/)<!-- TECH:END -->
+ - [How to close apps on the iPhone 13](https://www.androidauthority.com/close-apps-iphone-13-3175296/)
+ - [23 of the best LGBTQ+ shows and where to stream them during Pride Month 2022](https://www.androidauthority.com/best-lgbtq-shows-streaming-pride-month-3172252/)
+ - [The US military is embracing video gaming culture to attract and retain talent, but faces internal challenges and fierce outside criticism for doing so &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220611/p3#a220611p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
