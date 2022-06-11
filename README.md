@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Engage a B](http://9gag.com/gag/aqGBEYQ)
- - 🚯 [Beautiful Realistic Painting](http://9gag.com/gag/a41m0MZ)
- - 🚯 [Pretty much most of Asian Countries. Except Middle East I guess.](http://9gag.com/gag/ay9ZKDq)<!-- MEMES:END -->
+ - 🚖 [Influencer.](http://9gag.com/gag/aM4DLrW)
+ - 🚯 [One-legged men VS healthy women, playing footbal and men are winning.](http://9gag.com/gag/aAGqzr9)
+ - 🚯 [Slidin into the weekend like](http://9gag.com/gag/aBnjeAP)<!-- MEMES:END -->
 
 --- 
 
