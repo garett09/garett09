@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Headlight wipers](http://9gag.com/gag/aXrQ6e9)
- - 🚯 [Save the scrolls](http://9gag.com/gag/arn9L87)
+ - 🚖 [What kind of godless psychopath would sleep on this couch this way?](http://9gag.com/gag/aGz643w)
+ - 🚯 [Headlight wipers](http://9gag.com/gag/aXrQ6e9)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
