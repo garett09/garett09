@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay, enough Internet for today](http://9gag.com/gag/aGz6QoZ)
- - 🚯 [Dammitt Good](http://9gag.com/gag/aKmnoz3)
- - 🚯 [Engage a B](http://9gag.com/gag/aqGBEYQ)<!-- MEMES:END -->
+ - 🚖 [Engage a B](http://9gag.com/gag/aqGBEYQ)
+ - 🚯 [Beautiful Realistic Painting](http://9gag.com/gag/a41m0MZ)
+ - 🚯 [Pretty much most of Asian Countries. Except Middle East I guess.](http://9gag.com/gag/ay9ZKDq)<!-- MEMES:END -->
 
 --- 
 
