@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does size matter?](http://9gag.com/gag/aZro6A6)
- - 🚯 [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
+ - 🚖 [What kind of godless psychopath would sleep on this couch this way?](http://9gag.com/gag/aGz643w)
+ - 🚯 [The amount of control and patience this father has while dealing with a guy bothering his kids and others for no reason.](http://9gag.com/gag/aPZz5Aw)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
