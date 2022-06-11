@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Hits the Brakes on Portal, AR Glasses, and Other Hardware](https://www.wired.com/story/meta-stops-selling-portal-to-consumers/)
- - [How China Hacked US Phone Networks](https://www.wired.com/story/china-hacking-phone-network-security-roundup/)
- - [The delight is in the details of Drop’s new DCX keycaps](https://www.theverge.com/2022/6/11/23162531/drop-dcx-black-on-white-keycaps-hands-on)<!-- TECH:END -->
+ - [9 things Apple announced at WWDC that we want on Android](https://www.androidauthority.com/apple-features-wwdc-android-3175122/)
+ - [If You&#39;re Supposed to Eat 3 Meals a Day, Why Is It So Hard?     - CNET](https://www.cnet.com/health/nutrition/if-youre-supposed-to-eat-3-meals-a-day-why-is-it-so-hard/#ftag=CAD590a51e)
+ - [Meta Hits the Brakes on Portal, AR Glasses, and Other Hardware](https://www.wired.com/story/meta-stops-selling-portal-to-consumers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
