@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [49 Under-The-Radar Games That Belong On Your Radar](https://kotaku.com/49-under-the-radar-games-that-belong-on-your-radar-1849049477)
- - [I&#39;m officially a Moomin guy now](https://www.pcgamer.com/im-officially-a-moomin-guy-now)
- - [This fluffy life sim aims to be Animal Crossing for PC gamers](https://www.pcgamer.com/this-fluffy-life-sim-aims-to-be-animal-crossing-for-pc-gamers)<!-- GAME:END -->
+ - [If you enjoy For All Mankind, you should watch … For All Mankind](https://www.polygon.com/23161272/for-all-mankind-movie-recommendation-essay)
+ - [Analyze excrement and develop clever cures as a... fuel station manager?](https://www.pcgamer.com/analyze-excrement-and-develop-clever-cures-as-a-fuel-station-manager)
+ - [This kaiju kissing game makes me believe in the power of love](https://www.pcgamer.com/this-kaiju-kissing-game-makes-me-believe-in-the-power-of-love)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
