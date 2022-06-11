@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Recruiters say hiring remains strong in some tech sectors; Indeed.com: developer postings in the US are up 120% on early 2020 pre-coronavirus pandemic baseline &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220610/p19#a220610p19)
- - [All the biggest news from Netflix Geeked Week 2022](https://www.theverge.com/2022/6/6/23156316/netflix-geeked-week-2022-trailers-film-tv-announcements)<!-- TECH:END -->
+ - [Oregon-based Boulder Care, a telehealth provider focused on medical treatment and support for people overcoming substance use disorders, raised a $36M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220610/p20#a220610p20)
+ - [Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands)
+ - [&#39;Obi-Wan Kenobi&#39; Episode 4 Recap: A Jedi Master Steps Into a Dark Fortress     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-4-recap-a-jedi-master-steps-into-a-dark-fortress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
