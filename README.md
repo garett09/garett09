@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oregon-based Boulder Care, a telehealth provider focused on medical treatment and support for people overcoming substance use disorders, raised a $36M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220610/p20#a220610p20)
- - [Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands)
- - [&#39;Obi-Wan Kenobi&#39; Episode 4 Recap: A Jedi Master Steps Into a Dark Fortress     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-4-recap-a-jedi-master-steps-into-a-dark-fortress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite iOS 16 Feature: Tap to Lift a Pet Out of a Photo     - CNET](https://www.cnet.com/tech/mobile/my-favorite-ios-16-feature-is-you-tap-to-lift-a-pet-out-of-a-photo/#ftag=CAD590a51e)
+ - [Spider-Man Movies, Ranked: From No Way Home to Spider-Man 3     - CNET](https://www.cnet.com/culture/entertainment/spider-man-movies-ranked-from-no-way-home-to-spider-man-3/#ftag=CAD590a51e)
+ - [COVID-19 Testing Requirement for Air Travelers Entering US to End     - CNET](https://www.cnet.com/health/covid-19-testing-requirement-for-air-travelers-entering-us-to-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
