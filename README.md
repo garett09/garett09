@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of godless psychopath would sleep on this couch this way?](http://9gag.com/gag/aGz643w)
- - 🚯 [The amount of control and patience this father has while dealing with a guy bothering his kids and others for no reason.](http://9gag.com/gag/aPZz5Aw)
+ - 🚖 [Cat bubble](http://9gag.com/gag/ay9ZbWV)
+ - 🚯 [Georgia. Tbilisi . Students of the State University forcibly occupied the rector&#39;s office, demanding an audit of the university budget, the construction of a dormitory and a change in the format of exams.](http://9gag.com/gag/aZro6jV)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
