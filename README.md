@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Starlink has become an unexpected lifeline in Ukraine, on the battlefield and in the war for public opinion, impressing many Western militaries &lpar;Politico&rpar;](http://www.techmeme.com/220611/p2#a220611p2)
- - [Best Xbox Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-gaming-headset/#ftag=CAD590a51e)
- - [Hack Your Happiness Hormones: How to Boost Serotonin and Dopamine     - CNET](https://www.cnet.com/culture/hack-your-happiness-hormones-how-to-boost-serotonin-and-dopamine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals June 11: $225 off WD Black 2TB NVMe SSD, $200 50-inch JVC 4K Smart TV, $90 Donner Speakers, more](https://appleinsider.com/articles/22/06/11/daily-deals-june-11-225-off-wd-black-2tb-nvme-ssd-200-50-inch-jvc-4k-smart-tv-90-donner-speakers-more?utm_medium=rss)
+ - [Wow, Americans Really Can&#39;t Stand Their Internet Service Providers     - CNET](https://www.cnet.com/news/wow-americans-really-hate-their-internet-service-providers-new-acsi-data-survey-finds/#ftag=CAD590a51e)
+ - [What iOS 16 and Android 13 Tell Us About the Future of Smartphones     - CNET](https://www.cnet.com/tech/mobile/what-ios-16-and-android-13-tell-us-about-the-future-of-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
