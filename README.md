@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So far so good](http://9gag.com/gag/aegqjdq)
- - 🚯 [I want whatever the animators are smoking](http://9gag.com/gag/a0ZDvrd)
- - 🚯 [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)<!-- MEMES:END -->
+ - 🚖 [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)
+ - 🚯 [*draws Mona Lisa* Sorry it&#39;s just a sketch... took me about ten minutes because I was bored](http://9gag.com/gag/a519ddE)
+ - 🚯 [The boys will understand](http://9gag.com/gag/a61erRR)<!-- MEMES:END -->
 
 --- 
 
