@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
- - 🚯 [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)
- - 🚯 [Pilot successfully crash lands his plane on a field after engine failure](http://9gag.com/gag/aPZVwZB)<!-- MEMES:END -->
+ - 🚖 [*draws Mona Lisa* Sorry it&#39;s just a sketch... took me about ten minutes because I was bored](http://9gag.com/gag/a519ddE)
+ - 🚯 [Is it a trap or a keeper?](http://9gag.com/gag/aegqKKj)
+ - 🚯 [Childhood toys #10](http://9gag.com/gag/aVx9jPd)<!-- MEMES:END -->
 
 --- 
 
