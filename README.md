@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scarecrow](http://9gag.com/gag/a11BG3R)
- - 🚯 [Fcuk Vertical Videos](http://9gag.com/gag/aAGqoE2)
+ - 🚖 [My brain says, whuut](http://9gag.com/gag/aWgPzxK)
+ - 🚯 [James Webb Telescope got hit by a rock in one of its mirrors. You know the one that took 20 years to build](http://9gag.com/gag/a81QBx6)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
