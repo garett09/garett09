@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*draws Mona Lisa* Sorry it&#39;s just a sketch... took me about ten minutes because I was bored](http://9gag.com/gag/a519ddE)
- - 🚯 [Is it a trap or a keeper?](http://9gag.com/gag/aegqKKj)
- - 🚯 [Childhood toys #10](http://9gag.com/gag/aVx9jPd)<!-- MEMES:END -->
+ - 🚖 [So far so good](http://9gag.com/gag/aegqjdq)
+ - 🚯 [I want whatever the animators are smoking](http://9gag.com/gag/a0ZDvrd)
+ - 🚯 [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)<!-- MEMES:END -->
 
 --- 
 
