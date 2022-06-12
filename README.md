@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: Apple TV 4K drops to $129.99 at both Amazon and Best Buy](https://appleinsider.com/articles/22/06/12/deal-alert-apple-tv-4k-drops-to-12999-at-both-amazon-and-best-buy?utm_medium=rss)
- - [Watch 15 minutes of Starfield gameplay](https://www.theverge.com/2022/6/12/23162369/starfied-gameplay-trailer-bethesda-xbox-showcase-2022)
- - [The biggest trailers and announcements from the 2022 Xbox &amp; Bethesda Games Showcase](https://www.theverge.com/2022/6/12/23164791/biggest-announcements-xbox-bethesda-games-showcase-starfield-overwatch-2-persona-diablo-iv)<!-- TECH:END -->
+ - [6 features Apple pinched from Android with iOS 16](https://www.androidauthority.com/apple-ios-16-features-android-3174281/)
+ - [iOS 16: The Big Features We Didn&#39;t See at WWDC 2022     - CNET](https://www.cnet.com/tech/mobile/ios-16-the-big-features-we-didnt-see-at-wwdc-2022/#ftag=CAD590a51e)
+ - [Deal alert: Apple TV 4K drops to $129.99 at both Amazon and Best Buy](https://appleinsider.com/articles/22/06/12/deal-alert-apple-tv-4k-drops-to-12999-at-both-amazon-and-best-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
