@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid Thin 2022, Microsoft Says 50 Games Coming To Xbox Over The Next Year](https://kotaku.com/xbox-games-coming-soon-2022-2023-starfield-diablo-redfa-1849051370)
- - [Here&#39;s one of StarCraft 2&#39;s key developers talking about upcoming RTS Stormgate](https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate)
- - [Start Your Homestead at the Far End of the Galaxy in Lightyear Frontier](https://news.xbox.com/en-us/2022/06/12/start-your-homestead-at-the-far-end-of-the-galaxy-in-lightyear-frontier/)<!-- GAME:END -->
+ - [Mana is the perfect rewards debit card for gamers](https://www.pcgamer.com/mana-is-the-perfect-rewards-debit-card-for-gamers)
+ - [From ION LANDS and 505 Games comes Nivalis, a beautiful voxel-art cyberpunk life simulator](https://www.pcgamer.com/from-ion-lands-and-505-games-comes-nivalis-a-beautiful-voxel-art-cyberpunk-life-simulator)
+ - [Genre defining System Shock is coming back better than ever this year](https://www.pcgamer.com/genre-defining-system-shock-is-coming-back-better-than-ever-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
