@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naraka: Bladepoint Will Be Unleashed on June 23 with Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/naraka-bladepoint-will-be-unleashed-on-june-23-with-xbox-game-pass/)
- - [Wo Long: Fallen Dynasty is a grim, mythological tale from the creators of Nioh and Dynasty Warriors](https://www.pcgamer.com/wo-long-fallen-dynasty-is-a-grim-mythological-tale-from-the-creators-of-nioh-and-dynasty-warriors)
- - [Hideo Kojima is friends with Xbox now](https://www.pcgamer.com/hideo-kojima-is-friends-with-xbox-now)<!-- GAME:END -->
+ - [Roguelike Hit Gunfire Reborn is Coming Soon to Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/roguelike-hit-gunfire-reborn-is-coming-soon-to-xbox-game-pass/)
+ - [Explosives experts fight the gods in Flintlock: The Siege of Dawn](https://www.pcgamer.com/explosives-experts-fight-the-gods-in-flintlock-the-siege-of-dawn)
+ - [In Deceive Inc. you can disguise yourself as anything, and so can your enemies](https://www.pcgamer.com/in-deceive-inc-you-can-disguise-yourself-as-anything-and-so-can-your-enemies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
