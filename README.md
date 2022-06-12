@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Spider-Man: No Way Home, The More Fun Stuff Version&#39; to Land in Theaters     - CNET](https://www.cnet.com/culture/entertainment/spider-man-no-way-home-the-more-fun-stuff-version-to-land-in-theaters/#ftag=CAD590a51e)
- - [Best Mattress for Heavy People for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
- - [What iOS 16 and Android 13 Tell Us About the Future of Smartphones     - CNET](https://www.cnet.com/tech/mobile/what-ios-16-and-android-13-tell-us-about-the-future-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses for Kids in 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
+ - [Leaked images seem to show a Samsung Galaxy Z Flip 4 unit with a design similar to the Flip 3&#39;s but with a shallower, less noticeable display crease &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220611/p7#a220611p7)
+ - [Formula 1: How to Watch the Azerbaijan Grand Prix and F1 Racing in 2022     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-the-azerbaijan-grand-prix-and-f1-racing-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
