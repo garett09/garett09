@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Conti&#39;s Attack Against Costa Rica Sparks a New Ransomware Era](https://www.wired.com/story/costa-rica-ransomware-conti/)
- - [Ikea&#39;s New Turntable, and 9 More Standouts From Milan Design Week](https://www.wired.com/story/ikea-turntable-and-other-highlights-from-milan-salone-del-mobile/)
- - [Has the US Learned Nothing From the UK’s Gambling Woes?](https://www.wired.com/story/uk-us-online-gambling-lessons/)<!-- TECH:END -->
+ - [Reshuffled Rivers Bolster the Amazon’s Hyper-Biodiversity](https://www.wired.com/story/reshuffled-rivers-bolster-the-amazons-hyper-biodiversity/)
+ - [Hisense’s Short-Throw Laser Projector Is a Glorious Plug-and-Play](https://www.wired.com/review/hisense-px1-pro/)
+ - [All three of China&#39;s top livestreaming influencers on Taobao have gone dark in recent months amid increasing government scrutiny on e-commerce livestreaming &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220612/p3#a220612p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
