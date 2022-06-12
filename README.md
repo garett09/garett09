@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best way to cut a watermelon when sharing.](http://9gag.com/gag/aogArNX)
- - 🚯 [Forgotten Hero of the HongKong People.](http://9gag.com/gag/aDDrpyG)
+ - 🚖 [Bison are quite powerful](http://9gag.com/gag/aGz630Z)
+ - 🚯 [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
