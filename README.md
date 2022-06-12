@@ -200,7 +200,7 @@ Windows                  2 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Lets play outside!](http://9gag.com/gag/amgOq0V)
- - 🚯 [Man Snail](http://9gag.com/gag/aPZzOEQ)
+ - 🚯 [Apparently we are not even allowed to be in a bad mood and just minding our business!](http://9gag.com/gag/amgOqmy)
  - 🚯 [Cat burglar](http://9gag.com/gag/aggpr5r)<!-- MEMES:END -->
 
 --- 
