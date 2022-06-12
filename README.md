@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets play outside!](http://9gag.com/gag/amgOq0V)
- - 🚯 [The boys will understand](http://9gag.com/gag/a61erRR)
- - 🚯 [Gone are those good days](http://9gag.com/gag/a31eoD3)<!-- MEMES:END -->
+ - 🚖 [Gone are those good days](http://9gag.com/gag/a31eoD3)
+ - 🚯 [Cat burglar](http://9gag.com/gag/aggpr5r)
+ - 🚯 [Awwwwwwwmmmmmm](http://9gag.com/gag/avAB2PM)<!-- MEMES:END -->
 
 --- 
 
