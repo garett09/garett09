@@ -103,39 +103,39 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 170 Contributions in the Year 2022
+> 🏆 174 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
+🌞 Morning    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
 🌆 Daytime    358 commits    ████████░░░░░░░░░░░░░░░░░   35.13% 
 🌃 Evening    398 commits    █████████░░░░░░░░░░░░░░░░   39.06% 
-🌙 Night      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
+🌙 Night      128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.56%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
-Tuesday      218 commits    █████░░░░░░░░░░░░░░░░░░░░   21.39% 
+Monday       142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+Tuesday      216 commits    █████░░░░░░░░░░░░░░░░░░░░   21.2% 
 Wednesday    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
 Thursday     135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Friday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+Friday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
 Saturday     130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
 Sunday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.27%
 
@@ -148,13 +148,17 @@ Sunday       125 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 16 mins        ███████████████░░░░░░░░░░   62.16% 
+JavaScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.7% 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -163,7 +167,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 01:04:09 UTC
+ Last Updated on 12/06/2022 01:03:46 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
