@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultrawide monitors are overrated, here’s why I use a 4K TV instead](https://www.androidauthority.com/4k-tv-as-a-monitor-3172039/)
- - [How to watch the Xbox and Bethesda Games Showcase](https://www.theverge.com/2022/6/12/23164779/xbox-bethesda-games-showcase-live-stream-start-time-microsoft-series-x-s-game-pass)
- - [Lock screen changes in iOS 16 an &#39;act of love,&#39; says Craig Federighi](https://appleinsider.com/articles/22/06/12/lock-screen-changes-in-ios-16-an-act-of-love-says-craig-federighi?utm_medium=rss)<!-- TECH:END -->
+ - [Google to pay $118 million to settle gender discrimination lawsuit](https://www.theverge.com/2022/6/12/23164678/google-pay-118-million-settle-gender-discrimination-lawsuit)
+ - [Study: content delivered via some streaming devices keeps playing when TVs are off, with 17% of ads shown when users can&#39;t see them, costing brands $1B+ a year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220612/p5#a220612p5)
+ - [Squid Game season two is finally, officially announced for Netflix](https://www.theverge.com/2022/6/12/23164831/netflix-squid-game-s2-hwang-dong-hyuk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
