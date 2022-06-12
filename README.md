@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roguelike Hit Gunfire Reborn is Coming Soon to Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/roguelike-hit-gunfire-reborn-is-coming-soon-to-xbox-game-pass/)
- - [Explosives experts fight the gods in Flintlock: The Siege of Dawn](https://www.pcgamer.com/explosives-experts-fight-the-gods-in-flintlock-the-siege-of-dawn)
- - [In Deceive Inc. you can disguise yourself as anything, and so can your enemies](https://www.pcgamer.com/in-deceive-inc-you-can-disguise-yourself-as-anything-and-so-can-your-enemies)<!-- GAME:END -->
+ - [Amid Thin 2022, Microsoft Says 50 Games Coming To Xbox Over The Next Year](https://kotaku.com/xbox-games-coming-soon-2022-2023-starfield-diablo-redfa-1849051370)
+ - [Here&#39;s one of StarCraft 2&#39;s key developers talking about upcoming RTS Stormgate](https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate)
+ - [Start Your Homestead at the Far End of the Galaxy in Lightyear Frontier](https://news.xbox.com/en-us/2022/06/12/start-your-homestead-at-the-far-end-of-the-galaxy-in-lightyear-frontier/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
