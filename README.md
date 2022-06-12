@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is wild](http://9gag.com/gag/a91ZQ3m)
+ - 🚖 [Lets play outside!](http://9gag.com/gag/amgOq0V)
  - 🚯 [Man Snail](http://9gag.com/gag/aPZzOEQ)
- - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
+ - 🚯 [Cat burglar](http://9gag.com/gag/aggpr5r)<!-- MEMES:END -->
 
 --- 
 
