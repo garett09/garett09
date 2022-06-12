@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boomerang master](http://9gag.com/gag/ang8LQV)
- - 🚯 [The legend](http://9gag.com/gag/a0ZzAZq)
+ - 🚖 [Best way to cut a watermelon when sharing.](http://9gag.com/gag/aogArNX)
+ - 🚯 [Forgotten Hero of the HongKong People.](http://9gag.com/gag/aDDrpyG)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
