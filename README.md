@@ -199,7 +199,7 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everybody do the flop](http://9gag.com/gag/a51v8jO)
+ - 🚖 [Scarecrow](http://9gag.com/gag/a11BG3R)
  - 🚯 [Fcuk Vertical Videos](http://9gag.com/gag/aAGqoE2)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
