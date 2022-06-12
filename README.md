@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to pay $118 million to settle gender discrimination lawsuit](https://www.theverge.com/2022/6/12/23164678/google-pay-118-million-settle-gender-discrimination-lawsuit)
- - [Study: content delivered via some streaming devices keeps playing when TVs are off, with 17% of ads shown when users can&#39;t see them, costing brands $1B+ a year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220612/p5#a220612p5)
- - [Squid Game season two is finally, officially announced for Netflix](https://www.theverge.com/2022/6/12/23164831/netflix-squid-game-s2-hwang-dong-hyuk)<!-- TECH:END -->
+ - [Google agreed to pay $118M to settle a pay discrimination lawsuit with about 15,500 female employees, according to the lawfirms representing the women &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/220612/p6#a220612p6)
+ - [It’s not the USB-C port, it’s what you do with it that counts](https://www.androidauthority.com/usb-c-mandatory-2024-3174323/)
+ - [Overwatch 2 will be free to play and has an early access release date](https://www.theverge.com/2022/6/12/23164896/overwatch-2-pvp-early-access-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
