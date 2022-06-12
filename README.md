@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bison are quite powerful](http://9gag.com/gag/aGz630Z)
- - 🚯 [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
+ - 🚖 [Me irl](http://9gag.com/gag/ang8ANb)
+ - 🚯 [Crows have such developed cognitive abilities that they can think three steps into the future](http://9gag.com/gag/a71PjEA)
  - 🚯 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 --- 
