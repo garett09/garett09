@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chess devs lazy af](http://9gag.com/gag/aegqj3O)
- - 🚯 [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
- - 🚯 [Young birds think the food will jump on their mouths since their mother feed them like this....](http://9gag.com/gag/agg6RRg)<!-- MEMES:END -->
+ - 🚖 [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
+ - 🚯 [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)
+ - 🚯 [Pilot successfully crash lands his plane on a field after engine failure](http://9gag.com/gag/aPZVwZB)<!-- MEMES:END -->
 
 --- 
 
