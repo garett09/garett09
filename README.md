@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 coming next year, Blizzard reveals Necromancer class](https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression)
- - [Flintlock: Siege of Dawn is games’ newest blend of magic and musketfire](https://www.polygon.com/23164944/flintlock-siege-of-dawn-trailer-xbox-bethesda-2022)
- - [Diablo IV Revives The Necromancer For A 2023 Launch](https://kotaku.com/diablo-iv-4-necromancer-blizzard-activision-launch-game-1849051118)<!-- GAME:END -->
+ - [Naraka: Bladepoint Will Be Unleashed on June 23 with Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/naraka-bladepoint-will-be-unleashed-on-june-23-with-xbox-game-pass/)
+ - [Wo Long: Fallen Dynasty is a grim, mythological tale from the creators of Nioh and Dynasty Warriors](https://www.pcgamer.com/wo-long-fallen-dynasty-is-a-grim-mythological-tale-from-the-creators-of-nioh-and-dynasty-warriors)
+ - [Hideo Kojima is friends with Xbox now](https://www.pcgamer.com/hideo-kojima-is-friends-with-xbox-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
