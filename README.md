@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best DIY Home Security Systems for 2022     - CNET](https://www.cnet.com/news/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [Apple Watch SE vs. Series 7: Apple&#39;s Cheaper Watch Is the Better Value     - CNET](https://www.cnet.com/tech/mobile/apple-watch-se-vs-series-7-why-apples-cheaper-watch-could-be-the-better-value/#ftag=CAD590a51e)
- - [Best Organic Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Conti&#39;s Attack Against Costa Rica Sparks a New Ransomware Era](https://www.wired.com/story/costa-rica-ransomware-conti/)
+ - [Ikea&#39;s New Turntable, and 9 More Standouts From Milan Design Week](https://www.wired.com/story/ikea-turntable-and-other-highlights-from-milan-salone-del-mobile/)
+ - [Has the US Learned Nothing From the UK’s Gambling Woes?](https://www.wired.com/story/uk-us-online-gambling-lessons/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
