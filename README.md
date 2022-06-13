@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Power couple](http://9gag.com/gag/aqGVZRj)
- - 🚯 [When the time hits, you gotta do it](http://9gag.com/gag/aRr8Qnq)
+ - 🚖 [Yeah what about apache helicopter ?](http://9gag.com/gag/aWge06K)
+ - 🚯 [Power couple](http://9gag.com/gag/aqGVZRj)
  - 🚯 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)<!-- MEMES:END -->
 
 --- 
