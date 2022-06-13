@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Google engineer thinks its AI has become sentient, which seems... fine](https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine)
- - [Starfield looks like Fallout in space, with a bit of No Man&#39;s Sky thrown in](https://www.pcgamer.com/starfield-looks-like-fallout-in-space-with-a-bit-of-no-mans-sky-thrown-in)
- - [From ION LANDS and 505 Games comes Nivalis, a beautiful voxel-art cyberpunk life simulator](https://www.pcgamer.com/from-ion-lands-and-505-games-comes-nivalis-a-beautiful-voxel-art-cyberpunk-life-simulator)<!-- GAME:END -->
+ - [There&#39;s no way all 1,000 explorable planets in Starfield are actually interesting](https://www.pcgamer.com/theres-no-way-all-1000-explorable-planets-in-starfield-are-actually-interesting)
+ - [Get Ark: Survival Evolved for free on Steam for a limited time](https://www.pcgamer.com/get-ark-survival-evolved-for-free-on-steam-for-a-limited-time)
+ - [A Google engineer thinks its AI has become sentient, which seems... fine](https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
