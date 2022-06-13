@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Activision Blizzard Union Win Is Only a Beginning](https://www.wired.com/story/activision-blizzard-union-negotiations/)
- - [FCC filing suggests Samsung Galaxy Watch 5 will get fast charging](https://www.theverge.com/2022/6/13/23166287/samsung-galaxy-watch-5-fcc-fast-charging-battery)
- - [DoorDash rolls out in-app features including support for written reviews, ratings for specific items, and Top 10 lists for restaurants &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220613/p18#a220613p18)<!-- TECH:END -->
+ - [Samsung will fix your cracked screen for just $50 for a limited time](https://www.androidauthority.com/fix-cracked-samsung-3176020/)
+ - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)
+ - [Steam Next Fest is back, with demos, livestreams, and a special badge](https://www.theverge.com/2022/6/13/23166512/steam-next-fest-pc-game-demos-livestreams-badge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
