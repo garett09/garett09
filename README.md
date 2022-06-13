@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set alarms on your Garmin watch](https://www.androidauthority.com/garmin-set-alarms-3173088/)
- - [How to boot into safe mode in Windows 11](https://www.androidauthority.com/boot-safe-mode-windows-11-3174565/)
- - [Major cryptocurrencies are crashing: bitcoin drops by 10%+ to below ~$24K, ether drops by 12%+ to ~$1.2K, Avalanche drops 15%+, and Solana drops 14%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220613/p5#a220613p5)<!-- TECH:END -->
+ - [Why It’s Impossible to Rent a Car Right Now](https://www.wired.com/story/car-rental-pandemic-shortage/)
+ - [Streaming Is Too Big for Its Own Good](https://www.wired.com/story/streaming-too-big/)
+ - [How Ukraine Is Winning the Propaganda War](https://www.wired.com/story/ukraine-propaganda-war/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
