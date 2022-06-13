@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Po polsku najlepiej](http://9gag.com/gag/ay9mn4M)
- - 🚯 [This show is packed with golden moments like this](http://9gag.com/gag/aE8jnYn)
- - 🚯 [Two men led a team of 80 people, spent 5 years collecting 1.2 million golden orb spiders, milked them for their silk, and created the rarest textile on Earth: A golden silk cape.](http://9gag.com/gag/aDDqoY7)<!-- MEMES:END -->
+ - 🚖 [Two men led a team of 80 people, spent 5 years collecting 1.2 million golden orb spiders, milked them for their silk, and created the rarest textile on Earth: A golden silk cape.](http://9gag.com/gag/aDDqoY7)
+ - 🚯 [Remember when this gif was banned](http://9gag.com/gag/arnDKqp)
+ - 🚯 [Being `top of the chain` sometimes dont mean sh*t](http://9gag.com/gag/aPZVWrP)<!-- MEMES:END -->
 
 --- 
 
