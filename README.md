@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Odor free safe alternative to effectively getting rid of flies!\u2026](http://9gag.com/gag/aPZVvEg)
- - 🚯 [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
- - 🚯 [Time flies](http://9gag.com/gag/azevE1Z)<!-- MEMES:END -->
+ - 🚖 [All dogs goes to heaven](http://9gag.com/gag/aLvOPxM)
+ - 🚯 [How teeth are connected to the nervous system](http://9gag.com/gag/abgLyWX)
+ - 🚯 [Which one&#39;s more believable?](http://9gag.com/gag/aRr8PXM)<!-- MEMES:END -->
 
 --- 
 
