@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
- - 🚯 [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
- - 🚯 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)<!-- MEMES:END -->
+ - 🚖 [Participants for Squid Game 2 leaked](https://www.reddit.com/r/funny/comments/vba5xs/participants_for_squid_game_2_leaked/)
+ - 🚯 [Was Mom dog being unreasonable to the Dad dog?](https://www.reddit.com/r/funny/comments/vba3ff/was_mom_dog_being_unreasonable_to_the_dad_dog/)
+ - 🚯 [This whole “work” thing is pretty overrated](https://www.reddit.com/r/memes/comments/vb9h68/this_whole_work_thing_is_pretty_overrated/)<!-- MEMES:END -->
 
 --- 
 
