@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 delayed until 2023](https://www.pcgamer.com/stalker-2-delayed-until-2023)
- - [How to make a recovery compass in Minecraft](https://www.pcgamer.com/minecraft-recovery-compass)
- - [In Netflix’s Spiderhead, Deadpool’s writing team tackles somber, serious sci-fi](https://www.polygon.com/reviews/23163147/spiderhead-review-chris-hemsworth-deadpool-writers)<!-- GAME:END -->
+ - [Demon Slayer, Pokémon Voice Actor Billy Kametz Passes Away At 35](https://kotaku.com/billy-kametz-voice-actor-pokemon-fire-emblem-persona-5-1849053311)
+ - [Deceive Inc. is a unique take on competitive multiplayer shooters](https://www.pcgamer.com/deceive-inc-is-a-unique-take-on-competitive-multiplayer-shooters)
+ - [Persona 3, 4, and 5 are also coming to PS5 and Steam](https://www.polygon.com/23165846/persona-5-royal-4-golden-3-portable-ps5-steam-nintendo-xbox-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
