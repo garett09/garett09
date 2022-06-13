@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time flies](http://9gag.com/gag/azevE1Z)
- - 🚯 [951 clown world](http://9gag.com/gag/amgO0nV)
- - 🚯 [Odor free safe alternative to effectively getting rid of flies!\u2026](http://9gag.com/gag/aPZVvEg)<!-- MEMES:END -->
+ - 🚖 [Odor free safe alternative to effectively getting rid of flies!\u2026](http://9gag.com/gag/aPZVvEg)
+ - 🚯 [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
+ - 🚯 [Time flies](http://9gag.com/gag/azevE1Z)<!-- MEMES:END -->
 
 --- 
 
