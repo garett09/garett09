@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s first chiplet CPUs promise 20% higher frequencies at the same power level as Alder Lake](https://www.pcgamer.com/intels-first-chiplet-cpus-promise-20-higher-frequencies-at-the-same-power-level-as-alder-lake)
- - [Soulstice is budget Devil May Cry, but I kind of dig it](https://www.pcgamer.com/soulstice-preview)
- - [Battle royale Super People begins its final closed beta testing in August](https://www.pcgamer.com/battle-royale-super-people-begins-its-final-closed-beta-testing-in-august)<!-- GAME:END -->
+ - [In Netflix’s Spiderhead, Deadpool’s writing team tackles somber, serious sci-fi](https://www.polygon.com/reviews/23163147/spiderhead-review-chris-hemsworth-deadpool-writers)
+ - [Hands-on: Warhammer 40K: Darktide absolutely rules](https://www.pcgamer.com/hands-on-warhammer-40k-darktide-absolutely-rules)
+ - [AMD hero is giving Return to Castle Wolfenstein a path tracing upgrade](https://www.pcgamer.com/amd-hero-is-giving-return-to-castle-wolfenstein-a-path-tracing-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
