@@ -199,8 +199,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bitcoin right now](http://9gag.com/gag/aAGLp5L)
- - 🚯 [Big brain move](http://9gag.com/gag/azevjjj)
+ - 🚖 [Based Malaysia](http://9gag.com/gag/adgWjxj)
+ - 🚯 [Let us take a moment and thank these brave men for their service!](http://9gag.com/gag/azevAyj)
  - 🚯 [A bunch of morons](http://9gag.com/gag/aRr8eej)<!-- MEMES:END -->
 
 --- 
