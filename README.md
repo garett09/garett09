@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max: The 29 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-29-best-films-to-stream-this-week/#ftag=CAD590a51e)
- - [Amazon plans to begin testing drone deliveries in Lockeford, California, after receiving FAA approval, for products ordered through Amazon Air &lpar;Sarah Lord/CNET&rpar;](http://www.techmeme.com/220613/p13#a220613p13)
- - [Compared: 13-inch M2 MacBook Pro vs 14-inch MacBook Pro](https://appleinsider.com/inside/14-inch-macbook-pro/vs/compared-13-inch-m2-macbook-pro-vs-14-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [John Oliver exposes how Google and Amazon stifle competition](https://www.theverge.com/2022/6/13/23165955/john-oliver-last-week-tonight-amazon-apple-facebook-google-antitrust)
+ - [Apple execs detail new watchOS 9 &amp; Apple Watch health features](https://appleinsider.com/articles/22/06/13/apple-execs-detail-new-watchos-9-apple-watch-health-features?utm_medium=rss)
+ - [Microsoft and CWA union announce a deal that will make it easier for Activision Blizzard&#39;s ~7,000 US employees to unionize after Microsoft&#39;s acquisition closes &lpar;New York Times&rpar;](http://www.techmeme.com/220613/p15#a220613p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
