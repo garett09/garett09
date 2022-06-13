@@ -185,8 +185,8 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Google engineer thinks its AI has become sentient, which seems... fine](https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine)
  - [Starfield looks like Fallout in space, with a bit of No Man&#39;s Sky thrown in](https://www.pcgamer.com/starfield-looks-like-fallout-in-space-with-a-bit-of-no-mans-sky-thrown-in)
- - [Mana is the perfect rewards debit card for gamers](https://www.pcgamer.com/mana-is-the-perfect-rewards-debit-card-for-gamers)
  - [From ION LANDS and 505 Games comes Nivalis, a beautiful voxel-art cyberpunk life simulator](https://www.pcgamer.com/from-ion-lands-and-505-games-comes-nivalis-a-beautiful-voxel-art-cyberpunk-life-simulator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
