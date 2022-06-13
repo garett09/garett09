@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance temporarily pauses BTC withdrawals, citing a &quot;stuck transaction&quot;, initially giving a ~30 minute timeframe; no updates have been given for 90+ minutes &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220613/p12#a220613p12)
- - [How to find your phone using your Garmin watch](https://www.androidauthority.com/garmin-find-my-phone-3174073/)
- - [Apple Arcade is well positioned to take a slice of booming gaming market, analyst says](https://appleinsider.com/articles/22/06/13/apple-arcade-is-well-positioned-to-take-a-slice-of-booming-gaming-market-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max: The 29 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-29-best-films-to-stream-this-week/#ftag=CAD590a51e)
+ - [Amazon plans to begin testing drone deliveries in Lockeford, California, after receiving FAA approval, for products ordered through Amazon Air &lpar;Sarah Lord/CNET&rpar;](http://www.techmeme.com/220613/p13#a220613p13)
+ - [Compared: 13-inch M2 MacBook Pro vs 14-inch MacBook Pro](https://appleinsider.com/inside/14-inch-macbook-pro/vs/compared-13-inch-m2-macbook-pro-vs-14-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
