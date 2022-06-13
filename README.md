@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If You Want To Get The Most Out of Mario Strikers: Battle League Make Some Friends](https://kotaku.com/super-mario-strikers-battle-league-multiplayer-nintendo-1849053927)
- - [Starfield will have a silent protagonist and first-person conversations](https://www.polygon.com/23165949/starfield-player-voice-lines-first-person-dialog)
- - [Starfield Sounds Way Too Big](https://kotaku.com/starfield-game-pass-release-date-no-man-s-sky-bethesda-1849053885)<!-- GAME:END -->
+ - [Fallout Shelter Turns 7 with Anniversary Giveaways and Sale](https://news.xbox.com/en-us/2022/06/13/fallout-shelter-turns-7-with-anniversary-giveaways-and-sale/)
+ - [New Elden Ring patch adds the game&#39;s biggest quality of life improvement yet](https://www.pcgamer.com/elden-ring-will-finally-let-you-quit-straight-to-desktop)
+ - [This single PCIe 4.0 RAID controller can deliver a ridiculous 28,000 MB/s in SSD bandwidth speeds](https://www.pcgamer.com/this-single-pcie-40-raid-controller-can-deliver-a-ridiculous-28000-mbs-in-ssd-bandwidth-speeds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
