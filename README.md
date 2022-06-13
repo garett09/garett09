@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to add autofocus to iPhone front camera, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)
- - [We asked, you told us: You want way more storage on your TV box](https://www.androidauthority.com/streaming-tv-box-storage-poll-results-3174973/)
- - [Q&amp;A with Unity CEO John Riccitiello, who thinks the metaverse will be compelling with millions of destinations but won&#39;t be dominated by users&#39; 3D avatars &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220613/p4#a220613p4)<!-- TECH:END -->
+ - [How to set alarms on your Garmin watch](https://www.androidauthority.com/garmin-set-alarms-3173088/)
+ - [How to boot into safe mode in Windows 11](https://www.androidauthority.com/boot-safe-mode-windows-11-3174565/)
+ - [Major cryptocurrencies are crashing: bitcoin drops by 10%+ to below ~$24K, ether drops by 12%+ to ~$1.2K, Avalanche drops 15%+, and Solana drops 14%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220613/p5#a220613p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
