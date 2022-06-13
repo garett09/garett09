@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That guy xD](http://9gag.com/gag/avABL1X)
- - 🚯 [We wuz Sorceresses](http://9gag.com/gag/aXrmXxb)
- - 🚯 [Don\u2019t be a sheep](http://9gag.com/gag/a61eLn8)<!-- MEMES:END -->
+ - 🚖 [A bunch of morons](http://9gag.com/gag/aRr8eej)
+ - 🚯 [How do you even begin to learn that](http://9gag.com/gag/aBnbrON)
+ - 🚯 [Po polsku najlepiej](http://9gag.com/gag/ay9mn4M)<!-- MEMES:END -->
 
 --- 
 
