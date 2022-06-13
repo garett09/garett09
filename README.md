@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to add autofocus to iPhone front camera, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)
  - [We asked, you told us: You want way more storage on your TV box](https://www.androidauthority.com/streaming-tv-box-storage-poll-results-3174973/)
- - [Q&amp;A with Unity CEO John Riccitiello, who thinks the metaverse will be compelling with millions of destinations but won&#39;t be dominated by users&#39; 3D avatars &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220613/p4#a220613p4)
- - [Celsius&#39;s token CEL fell 70% in one hour after the DeFi lending giant suspended withdrawals, now at about 20 cents amid a broader crypto market slump &lpar;Daniel Roberts/Decrypt&rpar;](http://www.techmeme.com/220613/p3#a220613p3)<!-- TECH:END -->
+ - [Q&amp;A with Unity CEO John Riccitiello, who thinks the metaverse will be compelling with millions of destinations but won&#39;t be dominated by users&#39; 3D avatars &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220613/p4#a220613p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
