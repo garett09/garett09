@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why It’s Impossible to Rent a Car Right Now](https://www.wired.com/story/car-rental-pandemic-shortage/)
- - [Streaming Is Too Big for Its Own Good](https://www.wired.com/story/streaming-too-big/)
- - [How Ukraine Is Winning the Propaganda War](https://www.wired.com/story/ukraine-propaganda-war/)<!-- TECH:END -->
+ - [A skeptical look at crypto as a foundation for self-sovereign identity and some likely dystopian outcomes, as Buterin, Dorsey, and others explore the idea &lpar;Molly White&rpar;](http://www.techmeme.com/220613/p8#a220613p8)
+ - [iPhone 14 front camera gaining auto-focus, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)
+ - [First season of Apple TV+ &#39;For All Mankind&#39; free to watch for a limited time](https://appleinsider.com/articles/22/06/13/first-season-of-apple-tv-for-all-mankind-free-to-watch-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
