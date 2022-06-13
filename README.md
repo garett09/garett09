@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss cartoon network &lpar;30 years old&rpar;](http://9gag.com/gag/aDDq0Pw)
- - 🚯 [Japanese Companies that Specialize in Helping People Vanish without a Trace](http://9gag.com/gag/abgLyy8)
- - 🚯 [I harvested my first honey today. Who wants a glas?](http://9gag.com/gag/aPZVvpR)<!-- MEMES:END -->
+ - 🚖 [Time flies](http://9gag.com/gag/azevE1Z)
+ - 🚯 [951 clown world](http://9gag.com/gag/amgO0nV)
+ - 🚯 [Odor free safe alternative to effectively getting rid of flies!\u2026](http://9gag.com/gag/aPZVvEg)<!-- MEMES:END -->
 
 --- 
 
