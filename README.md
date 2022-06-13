@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All dogs goes to heaven](http://9gag.com/gag/aLvOPxM)
- - 🚯 [We are absolutely nothing.](http://9gag.com/gag/aLvOBQ6)
- - 🚯 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)<!-- MEMES:END -->
+ - 🚖 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)
+ - 🚯 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
+ - 🚯 [Well almost](http://9gag.com/gag/aZr4NmV)<!-- MEMES:END -->
 
 --- 
 
