@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlockFi and Crypto.com lay off hundreds of staff as coins slump](https://www.theverge.com/2022/6/13/23166028/blockfi-crypto-com-layoffs-cryptocurrency-defi-slump-halts)
- - [Original Apple-1 computer signed by Steve Wozniak sold for $340,100](https://appleinsider.com/articles/22/06/13/original-apple-1-computer-signed-by-steve-wozniak-sold-for-340100?utm_medium=rss)
- - [Windows 11’s new File Explorer tabs are getting close to release](https://www.theverge.com/2022/6/13/23166341/microsoft-windows-11-file-explorer-tabs-beta-testing)<!-- TECH:END -->
+ - [The Activision Blizzard Union Win Is Only a Beginning](https://www.wired.com/story/activision-blizzard-union-negotiations/)
+ - [FCC filing suggests Samsung Galaxy Watch 5 will get fast charging](https://www.theverge.com/2022/6/13/23166287/samsung-galaxy-watch-5-fcc-fast-charging-battery)
+ - [DoorDash rolls out in-app features including support for written reviews, ratings for specific items, and Top 10 lists for restaurants &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220613/p18#a220613p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
