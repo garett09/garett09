@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning versus USB-C: Pros and cons for the iPhone](https://appleinsider.com/articles/22/06/13/lightning-versus-usb-c-pros-and-cons-for-the-iphone?utm_medium=rss)
- - [Amazon.com is having some problems right now](https://www.theverge.com/2022/6/13/23166246/amazon-down-error-message-outage)
- - [June 2022 patch landing now on the Samsung Galaxy Note 10 series](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)<!-- TECH:END -->
+ - [BlockFi and Crypto.com lay off hundreds of staff as coins slump](https://www.theverge.com/2022/6/13/23166028/blockfi-crypto-com-layoffs-cryptocurrency-defi-slump-halts)
+ - [Original Apple-1 computer signed by Steve Wozniak sold for $340,100](https://appleinsider.com/articles/22/06/13/original-apple-1-computer-signed-by-steve-wozniak-sold-for-340100?utm_medium=rss)
+ - [Windows 11’s new File Explorer tabs are getting close to release](https://www.theverge.com/2022/6/13/23166341/microsoft-windows-11-file-explorer-tabs-beta-testing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
