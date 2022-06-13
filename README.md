@@ -185,9 +185,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece Just Said &#39;Trans Rights&#39; In The Most Oda Way Possible](https://kotaku.com/one-piece-yamato-kiku-trans-wano-eiichiro-oda-chapter-1849053700)
- - [10 must-watch anime arriving for the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
- - [Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says](https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics)<!-- GAME:END -->
+ - [If You Want To Get The Most Out of Mario Strikers: Battle League Make Some Friends](https://kotaku.com/super-mario-strikers-battle-league-multiplayer-nintendo-1849053927)
+ - [Starfield will have a silent protagonist and first-person conversations](https://www.polygon.com/23165949/starfield-player-voice-lines-first-person-dialog)
+ - [Starfield Sounds Way Too Big](https://kotaku.com/starfield-game-pass-release-date-no-man-s-sky-bethesda-1849053885)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
