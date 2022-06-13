@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A skeptical look at crypto as a foundation for self-sovereign identity and some likely dystopian outcomes, as Buterin, Dorsey, and others explore the idea &lpar;Molly White&rpar;](http://www.techmeme.com/220613/p8#a220613p8)
- - [iPhone 14 front camera gaining auto-focus, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)
- - [First season of Apple TV+ &#39;For All Mankind&#39; free to watch for a limited time](https://appleinsider.com/articles/22/06/13/first-season-of-apple-tv-for-all-mankind-free-to-watch-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
+ - [bttn, a B2B marketplace for medical supplies, has raised a $20M Series A led by Tiger Global at a $110M post-money valuation and says it has 7,000 customers &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220613/p11#a220613p11)
+ - [Astra’s failed launch resulted in the loss of two NASA weather satellites](https://www.theverge.com/2022/6/12/23165065/astra-failed-launch-resulted-loss-nasa-weather-satellites-cubesats-tropics)
+ - [Early Prime Day deal: Amazon slashes Apple&#39;s 14-inch MacBook Pro to $1,799](https://appleinsider.com/articles/22/06/13/early-prime-day-deal-amazon-slashes-apples-14-inch-macbook-pro-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
