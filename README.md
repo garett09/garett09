@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah what about apache helicopter ?](http://9gag.com/gag/aWge06K)
- - 🚯 [Power couple](http://9gag.com/gag/aqGVZRj)
- - 🚯 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)<!-- MEMES:END -->
+ - 🚖 [I miss cartoon network &lpar;30 years old&rpar;](http://9gag.com/gag/aDDq0Pw)
+ - 🚯 [Japanese Companies that Specialize in Helping People Vanish without a Trace](http://9gag.com/gag/abgLyy8)
+ - 🚯 [I harvested my first honey today. Who wants a glas?](http://9gag.com/gag/aPZVvpR)<!-- MEMES:END -->
 
 --- 
 
