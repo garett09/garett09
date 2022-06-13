@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Oliver exposes how Google and Amazon stifle competition](https://www.theverge.com/2022/6/13/23165955/john-oliver-last-week-tonight-amazon-apple-facebook-google-antitrust)
- - [Apple execs detail new watchOS 9 &amp; Apple Watch health features](https://appleinsider.com/articles/22/06/13/apple-execs-detail-new-watchos-9-apple-watch-health-features?utm_medium=rss)
- - [Microsoft and CWA union announce a deal that will make it easier for Activision Blizzard&#39;s ~7,000 US employees to unionize after Microsoft&#39;s acquisition closes &lpar;New York Times&rpar;](http://www.techmeme.com/220613/p15#a220613p15)<!-- TECH:END -->
+ - [Early Prime Day deal: Amazon slashes Apple&#39;s 14-inch MacBook Pro to $1,799](https://appleinsider.com/articles/22/06/13/early-prime-day-deal-amazon-slashes-apples-14-inch-macbook-pro-to-1799?utm_medium=rss)
+ - [EU document: Meta, Twitter, Google, TikTok, and others agree to tougher EU disinformation rules, including mandatory country-by-country content removal reports &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220613/p16#a220613p16)
+ - [How to turn off and restart your iPhone 13](https://www.androidauthority.com/turn-off-restart-iphone-13-3175803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
