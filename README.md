@@ -200,8 +200,8 @@ Windows                  2 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [All dogs goes to heaven](http://9gag.com/gag/aLvOPxM)
- - 🚯 [How teeth are connected to the nervous system](http://9gag.com/gag/abgLyWX)
- - 🚯 [Which one&#39;s more believable?](http://9gag.com/gag/aRr8PXM)<!-- MEMES:END -->
+ - 🚯 [We are absolutely nothing.](http://9gag.com/gag/aLvOBQ6)
+ - 🚯 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)<!-- MEMES:END -->
 
 --- 
 
