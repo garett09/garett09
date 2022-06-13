@@ -192,9 +192,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will fix your cracked screen for just $50 for a limited time](https://www.androidauthority.com/fix-cracked-samsung-3176020/)
- - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)
- - [Steam Next Fest is back, with demos, livestreams, and a special badge](https://www.theverge.com/2022/6/13/23166512/steam-next-fest-pc-game-demos-livestreams-badge)<!-- TECH:END -->
+ - [How to start streaming on Twitch from your PS5](https://www.androidauthority.com/stream-twitch-ps5-3176022/)
+ - [How to filter out explicit songs on Spotify](https://www.androidauthority.com/what-is-explicit-spotify-3084766/)
+ - [Resident Evil Village is getting an expansion with more story and a third-person mode](https://www.theverge.com/2022/6/13/23166679/resident-evil-village-winters-expansion-dlc-story-third-person-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
