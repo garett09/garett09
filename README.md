@@ -199,9 +199,9 @@ Windows                  2 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)
- - 🚯 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
- - 🚯 [Well almost](http://9gag.com/gag/aZr4NmV)<!-- MEMES:END -->
+ - 🚖 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
+ - 🚯 [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
+ - 🚯 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)<!-- MEMES:END -->
 
 --- 
 
