@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2’s next beta kicks off at the end of June, and it’s coming to PlayStation and Xbox](https://www.theverge.com/2022/6/14/23167691/overwatch-2-beta-pc-console-playstation-xbox)
- - [What Black One Direction Fans Reveal About Activism and Fandom](https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/)
- - [There are only a few good reasons to buy the new 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/14/there-are-only-a-few-good-reasons-to-buy-the-new-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Rumored 14-inch iPad may not be an iPad Pro after all, analyst claims](https://appleinsider.com/articles/22/06/14/rumored-14-inch-ipad-may-not-be-an-ipad-pro-after-all-analyst-claims?utm_medium=rss)
+ - [Smart switches or smart bulbs? How to choose the right smart lighting for your home](https://www.theverge.com/23156554/smart-bulbs-switch-lighting-guide-how-to)
+ - [Apple hosts premiere of &#39;Cha Cha Real Smooth&#39; at Tribeca Festival](https://appleinsider.com/articles/22/06/14/apple-hosts-premiere-of-cha-cha-real-smooth-at-tribeca-festival?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
