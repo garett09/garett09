@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crypto currency goin brrrrr](http://9gag.com/gag/ang0975)
- - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)
- - 🚯 [My neighbor threw this kitten out because it was `meowing too much`. I guess I have a cat now.. Looking for name ideas..](http://9gag.com/gag/aAGLDX9)<!-- MEMES:END -->
+ - 🚖 [My neighbor threw this kitten out because it was `meowing too much`. I guess I have a cat now.. Looking for name ideas..](http://9gag.com/gag/aAGLDX9)
+ - 🚯 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)
+ - 🚯 [Hmm...interesting](http://9gag.com/gag/aegqM2p)<!-- MEMES:END -->
 
 --- 
 
