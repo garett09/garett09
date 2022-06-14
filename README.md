@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Virtual Reality](http://9gag.com/gag/aVx931K)
- - 🚯 [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
- - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)<!-- MEMES:END -->
+ - 🚖 [Crypto currency goin brrrrr](http://9gag.com/gag/ang0975)
+ - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)
+ - 🚯 [My neighbor threw this kitten out because it was `meowing too much`. I guess I have a cat now.. Looking for name ideas..](http://9gag.com/gag/aAGLDX9)<!-- MEMES:END -->
 
 --- 
 
