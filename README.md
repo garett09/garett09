@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t run... That&#39;s just a dog... The dog](http://9gag.com/gag/aOQnrON)
- - 🚯 [500?](http://9gag.com/gag/a81v5AO)
- - 🚯 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)<!-- MEMES:END -->
+ - 🚖 [Hey im](http://9gag.com/gag/a21ARmE)
+ - 🚯 [God.Damnit. This must be one of the most incredible piece of music I&#39;ve ever heard, and I&#39;m pretty old. I never knew that kind of magic could flow from a freaking bass... This Berthoud guy, proved me wrong. Put the sound to 11 and listen to the end... And then again and again...](http://9gag.com/gag/a0ZDROn)
+ - 🚯 [The german job market in a nutshell](http://9gag.com/gag/aXrmg0P)<!-- MEMES:END -->
 
 --- 
 
