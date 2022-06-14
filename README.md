@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima Studio Confirms &#39;Good Relationship&#39; With Sony After Xbox News, Angry Fanboy Reactions](https://kotaku.com/hideo-kojima-productions-xbox-playstation-fanboys-state-1849056141)
- - [Resident Evil Village is getting playable Lady D and a third-person mode](https://www.pcgamer.com/resident-evil-village-is-getting-playable-lady-d-and-a-third-person-mode)
- - [The biggest disappointments of not-E3](https://www.pcgamer.com/the-biggest-disappointments-of-not-e3)<!-- GAME:END -->
+ - [Elden Ring Finally Lets PC Players Exit Straight To The Desktop](https://kotaku.com/elden-ring-exit-quit-desktop-update-patch-fromsoftware-1849056581)
+ - [Joker 2 will be a musical, with Lady Gaga in early talks to play Harley Quinn](https://www.polygon.com/23166794/joker-2-lady-gaga-musical-harley-quinn-joaquin-phoenix)
+ - [Battlefield 2042 Fans Finally Have Something To Smile About](https://kotaku.com/battlefield-2042-season-1-zero-hour-exposure-lis-update-1849056343)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
