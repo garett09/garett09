@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;re doing their part!](http://9gag.com/gag/aPZV9GQ)
- - 🚯 [Time](http://9gag.com/gag/aXrmx02)
+ - 🚖 [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
+ - 🚯 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
  - 🚯 [For 50 years, Denmark and Canada has been at `war` over this rock. Today they finally agreed on splitting it. I present to you, the border between Denmark and Canada](http://9gag.com/gag/a0ZDKjX)<!-- MEMES:END -->
 
 --- 
