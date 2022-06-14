@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mustang Mach-E: Over 48,000 of Ford&#39;s EV Recalled Due to Possible Battery Issue     - CNET](https://www.cnet.com/roadshow/news/mustang-mach-e-over-48000-of-fords-ev-recalled-due-to-possible-battery-issue/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: When Does Episode 5 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-5-drop-on-disney-plus/#ftag=CAD590a51e)
- - [How to set up two-factor authentication in iCloud Keychain](https://appleinsider.com/inside/icloud/tips/how-to-set-up-two-factor-authentication-in-icloud-keychain?utm_medium=rss)<!-- TECH:END -->
+ - [Downton Abbey gets a 24/7 channel and a movie premiere on Peacock](https://www.theverge.com/2022/6/14/23167984/peacock-nbc-downton-abbey-new-era-24-7-channel)
+ - [Twitch expands ad programs to pay streamers more money](https://www.theverge.com/2022/6/14/23168185/twitch-ad-incentive-program-payouts-increase-1-billion-streamer-revenue)
+ - [Todd Howard says the words ‘Fallout 5’](https://www.theverge.com/2022/6/14/23168134/bethesda-fallout-5-todd-howard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
