@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
- - 🚯 [Makes sense](http://9gag.com/gag/a118K2P)
- - 🚯 [This shit right here man.](http://9gag.com/gag/aegqbnp)<!-- MEMES:END -->
+ - 🚖 [Makes sense](http://9gag.com/gag/a118K2P)
+ - 🚯 [The Boys](http://9gag.com/gag/amgOYKv)
+ - 🚯 [World\u2019s Greatest Economy](http://9gag.com/gag/aQXDeve)<!-- MEMES:END -->
 
 --- 
 
