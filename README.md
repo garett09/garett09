@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao](http://9gag.com/gag/apgnQ4W)
- - 🚯 [Easy pick for artists](http://9gag.com/gag/amgO70d)
- - 🚯 [Time](http://9gag.com/gag/aXrmx02)<!-- MEMES:END -->
+ - 🚖 [They&#39;re doing their part!](http://9gag.com/gag/aPZV9GQ)
+ - 🚯 [Time](http://9gag.com/gag/aXrmx02)
+ - 🚯 [For 50 years, Denmark and Canada has been at `war` over this rock. Today they finally agreed on splitting it. I present to you, the border between Denmark and Canada](http://9gag.com/gag/a0ZDKjX)<!-- MEMES:END -->
 
 --- 
 
