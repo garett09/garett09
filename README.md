@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Downton Abbey gets a 24/7 channel and a movie premiere on Peacock](https://www.theverge.com/2022/6/14/23167984/peacock-nbc-downton-abbey-new-era-24-7-channel)
- - [Twitch expands ad programs to pay streamers more money](https://www.theverge.com/2022/6/14/23168185/twitch-ad-incentive-program-payouts-increase-1-billion-streamer-revenue)
- - [Todd Howard says the words ‘Fallout 5’](https://www.theverge.com/2022/6/14/23168134/bethesda-fallout-5-todd-howard)<!-- TECH:END -->
+ - [How to stream on Twitch from your Xbox](https://www.androidauthority.com/stream-twitch-xbox-3176067/)
+ - [Sony’s Gran Turismo film hits theaters in August 2023](https://www.theverge.com/2022/6/14/23168247/sony-gran-turismo-film-movie-release-date)
+ - [Catalyst Black: How to use loadouts](https://www.androidauthority.com/catalyst-black-how-to-use-loadouts-3176461/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
