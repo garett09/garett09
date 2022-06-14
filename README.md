@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish u all a pleasent night](http://9gag.com/gag/aQXDMjK)
- - 🚯 [DRIFTERU](http://9gag.com/gag/awz9nBD)
- - 🚯 [This teacher handling the situation](http://9gag.com/gag/a31zjV7)<!-- MEMES:END -->
+ - 🚖 [Deadly accurate](http://9gag.com/gag/aNPGze4)
+ - 🚯 [This teacher handling the situation](http://9gag.com/gag/a31zjV7)
+ - 🚯 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
 
 --- 
 
