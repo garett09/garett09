@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta begins rolling out parental support tools for Quest headsets and Instagram, including a parent education hub and additional prompts to take breaks &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220614/p12#a220614p12)
- - [Germany launches antitrust investigation over App Tracking Transparency](https://appleinsider.com/articles/22/06/14/germany-launches-antitrust-investigation-over-app-tracking-transparency?utm_medium=rss)
- - [The World Has Too Much Stuff](https://www.wired.com/story/the-world-has-too-much-stuff/)<!-- TECH:END -->
+ - [You told us: Some of you use a 4K TV as a monitor, but there’s more to it](https://www.androidauthority.com/4k-tv-monitor-poll-results-3176281/)
+ - [Coinbase plans to reduce its headcount by 18%, seeking to &quot;stay healthy during this economy downturn&quot;, saying the company &quot;grew too quickly&quot; &lpar;Brian Armstrong/The Coinbase Blog&rpar;](http://www.techmeme.com/220614/p17#a220614p17)
+ - [Apple&#39;s macOS Ventura beta review: great new features, but some concerns](https://appleinsider.com/articles/22/06/14/apples-macos-ventura-beta-review-great-new-features-but-some-concerns?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
