@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76’s Test Your Metal Update is Now Live](https://news.xbox.com/en-us/2022/06/14/fallout-76-test-your-metal-update-is-now-live/)
- - [Fallout 5 is coming after the next Elder Scrolls game, Todd Howard says](https://www.polygon.com/23167994/fallout-5-todd-howard-elder-scrolls-6)
- - [Bethesda Really Wants Y’all To Know That Redfall Ain’t Left 4 Dead](https://kotaku.com/redfall-bethesda-left-4-dead-co-op-shooter-rpg-arkane-x-1849061390)<!-- GAME:END -->
+ - [The Story Of 2022&#39;s Biggest Video Game*](https://kotaku.com/video-game-development-story-insider-crunch-delay-misma-1848776267)
+ - [The winner of Netflix&#39;s &#39;real&#39; Squid Game competition will get over $4M](https://www.pcgamer.com/netflix-squid-game-reality-competition-announced)
+ - [Fallout 5 Is Bethesda’s Next Game After Elder Scrolls 6, Will Probably Be Out By 2050](https://kotaku.com/fallout-5-v-bethesda-elder-scrolls-6-release-date-starf-1849062025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
