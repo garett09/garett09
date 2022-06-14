@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)
- - 🚯 [Slight Design Flaw](http://9gag.com/gag/adgWqQQ)
- - 🚯 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
+ - 🚖 [I wish u all a pleasent night](http://9gag.com/gag/aQXDMjK)
+ - 🚯 [DRIFTERU](http://9gag.com/gag/awz9nBD)
+ - 🚯 [This teacher handling the situation](http://9gag.com/gag/a31zjV7)<!-- MEMES:END -->
 
 --- 
 
