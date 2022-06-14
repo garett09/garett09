@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
- - 🚯 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
- - 🚯 [For 50 years, Denmark and Canada has been at `war` over this rock. Today they finally agreed on splitting it. I present to you, the border between Denmark and Canada](http://9gag.com/gag/a0ZDKjX)<!-- MEMES:END -->
+ - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)
+ - 🚯 [Pay Taxes or Enjoy the Tax benefits!](http://9gag.com/gag/aqGV7Zp)<!-- MEMES:END -->
 
 --- 
 
