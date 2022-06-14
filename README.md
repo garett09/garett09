@@ -200,7 +200,7 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Deadly accurate](http://9gag.com/gag/aNPGze4)
- - 🚯 [This teacher handling the situation](http://9gag.com/gag/a31zjV7)
+ - 🚯 [First-class cat got loose during flight](http://9gag.com/gag/a519bLE)
  - 🚯 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
 
 --- 
