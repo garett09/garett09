@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deadly accurate](http://9gag.com/gag/aNPGze4)
- - 🚯 [First-class cat got loose during flight](http://9gag.com/gag/a519bLE)
- - 🚯 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
+ - 🚖 [Wnna be ded again](http://9gag.com/gag/aXrmvL2)
+ - 🚯 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)
+ - 🚯 [Dark times lately but...gentlemen with great pleasure I got the honors, MBChB. Bachelor of medicine and Bachelor of surgery](http://9gag.com/gag/aWge8jq)<!-- MEMES:END -->
 
 --- 
 
