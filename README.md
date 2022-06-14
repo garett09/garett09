@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s M2-equipped 13-inch MacBook Pro opens for preorders on June 17th](https://www.theverge.com/2022/6/14/23167368/apple-macbook-pro-m2-13-inch-release-date)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [How to set up two-factor authentication in iCloud Keychain](https://appleinsider.com/inside/icloud/tips/how-to-set-up-two-factor-authentication-in-icloud-keychain?utm_medium=rss)<!-- TECH:END -->
+ - [Apple and Major League Soccer announce a 10-year broadcasting deal for MLS games, available in the Apple TV app with Apple TV+ in 2023, with some free to watch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220614/p23#a220614p23)
+ - [Adobe Photoshop’s web version might become free for all](https://www.androidauthority.com/adobe-photoshop-free-3176358/)
+ - [How Apple could kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
