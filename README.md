@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases World Update X: United States and US Territories Today](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-world-update-10/)
- - [Netflix shrugs off Squid Game’s damning critique of capitalism with new Squid Game reality series](https://www.polygon.com/23167752/netflix-squid-game-the-challenge-reality-series)
- - [Photoshop goes free-to-paint on the web](https://www.pcgamer.com/photoshop-goes-free-to-paint-on-the-web)<!-- GAME:END -->
+ - [Surreal horror RPG Omori coming to consoles this week](https://www.polygon.com/23167959/omori-omocat-nintendo-switch-playstation-xbox-release-date)
+ - [Microsoft Flight Simulator Releases Beechcraft Model 18, a New Aircraft in Local Legends Series](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-beechcraft-model-18/)
+ - [S.T.A.L.K.E.R. 2 Devs Open Up About Life During The Russian Invasion](https://kotaku.com/stalker-2-russia-invasion-ukraine-release-date-delay-1849061092)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
