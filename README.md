@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi promises iPad Stage Management improvements coming](https://appleinsider.com/articles/22/06/14/craig-federighi-promises-ipad-stage-management-improvements-coming?utm_medium=rss)
- - [When Covid Came for Provincetown](https://www.wired.com/story/provincetown-covid-delta-outbreak-response/)
- - [A Chinese regulator says automaker Geely plans to acquire a 79% stake in smartphone maker Meizu for an undisclosed amount and release a smartphone by 2023 &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/220614/p10#a220614p10)<!-- TECH:END -->
+ - [Meta begins rolling out parental support tools for Quest headsets and Instagram, including a parent education hub and additional prompts to take breaks &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220614/p12#a220614p12)
+ - [Germany launches antitrust investigation over App Tracking Transparency](https://appleinsider.com/articles/22/06/14/germany-launches-antitrust-investigation-over-app-tracking-transparency?utm_medium=rss)
+ - [The World Has Too Much Stuff](https://www.wired.com/story/the-world-has-too-much-stuff/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
