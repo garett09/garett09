@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Denmark and Canada no longer at war, island has been split in half.](http://9gag.com/gag/aDDqj6d)
- - 🚯 [Right in the nostalgia](http://9gag.com/gag/a118dEv)
- - 🚯 [Hard to argue with that](http://9gag.com/gag/aGzrDR0)<!-- MEMES:END -->
+ - 🚖 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)
+ - 🚯 [Slight Design Flaw](http://9gag.com/gag/adgWqQQ)
+ - 🚯 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
 
 --- 
 
