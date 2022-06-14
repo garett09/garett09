@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to start streaming on Twitch from your PS5](https://www.androidauthority.com/stream-twitch-ps5-3176022/)
- - [How to filter out explicit songs on Spotify](https://www.androidauthority.com/what-is-explicit-spotify-3084766/)
- - [Resident Evil Village is getting an expansion with more story and a third-person mode](https://www.theverge.com/2022/6/13/23166679/resident-evil-village-winters-expansion-dlc-story-third-person-mode)<!-- TECH:END -->
+ - [Israel-based Pixellot, which offers AI-automated streaming and video analytics tech for sports broadcasting, raised a $161M Series D led by PSG &lpar;Steve McCaskill/SportsPro&rpar;](http://www.techmeme.com/220613/p23#a220613p23)
+ - [Sources: Elon Musk will address Twitter employees and take questions at a company-wide virtual meeting on Thursday morning &lpar;Bloomberg&rpar;](http://www.techmeme.com/220613/p22#a220613p22)
+ - [What iOS 16 and Android 13 Reveal About the Future of Smartphones     - CNET](https://www.cnet.com/tech/mobile/what-ios-16-android-13-tell-about-future-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
