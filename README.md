@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe begins testing a free-to-use version of Photoshop for the web in Canada; some features will eventually be subscriber-only &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220614/p19#a220614p19)
- - [Anker’s noise-canceling Soundcore Liberty Air 2 Pro earbuds are just $70](https://www.theverge.com/good-deals/2022/6/14/23165802/anker-soundcore-liberty-air-2-pro-amazon-fire-hd-10-philips-hue-kindle-deal-sale)
- - [Firefox joins Safari in controlling cross-site browser cookies](https://appleinsider.com/articles/22/06/14/firefox-joins-safari-in-controlling-cross-site-browser-cookies?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Fitness+ could grow to $3.6B in revenue by 2025, analyst says](https://appleinsider.com/articles/22/06/14/apple-fitness-could-grow-to-36b-in-revenue-by-2025-analyst-says?utm_medium=rss)
+ - [New 13-inch MacBook Pro with M2 will be available to order on June 17](https://appleinsider.com/articles/22/06/14/new-13-inch-macbook-pro-with-m2-will-be-available-to-order-on-june-17?utm_medium=rss)
+ - [WhatsApp now lets you transfer your chat history from Android to iPhone](https://www.theverge.com/2022/6/14/23167292/whatsapp-android-iphone-chat-history-transfer-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
