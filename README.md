@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My neighbor threw this kitten out because it was `meowing too much`. I guess I have a cat now.. Looking for name ideas..](http://9gag.com/gag/aAGLDX9)
- - 🚯 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)
- - 🚯 [Hmm...interesting](http://9gag.com/gag/aegqM2p)<!-- MEMES:END -->
+ - 🚖 [Hey im](http://9gag.com/gag/a21ARmE)
+ - 🚯 [C*nts](http://9gag.com/gag/azev1qz)
+ - 🚯 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)<!-- MEMES:END -->
 
 --- 
 
