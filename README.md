@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wnna be ded again](http://9gag.com/gag/aXrmvL2)
- - 🚯 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)
- - 🚯 [Dark times lately but...gentlemen with great pleasure I got the honors, MBChB. Bachelor of medicine and Bachelor of surgery](http://9gag.com/gag/aWge8jq)<!-- MEMES:END -->
+ - 🚖 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
+ - 🚯 [Makes sense](http://9gag.com/gag/a118K2P)
+ - 🚯 [This shit right here man.](http://9gag.com/gag/aegqbnp)<!-- MEMES:END -->
 
 --- 
 
