@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Mantine be Shiny?](https://www.polygon.com/pokemon-go-guide/23167683/can-mantine-be-shiny-spotlight-hour-june)
- - [Shooter Dev Makes Joke &#39;White Blood&#39; Mod After Fans Complain About Blood Effects](https://kotaku.com/selaco-demo-doom-fps-cum-jizz-porn-mod-steam-next-fest-1849059946)
- - [Valheim coming to Xbox in 2023 as a ‘console launch exclusive’](https://www.polygon.com/23167686/valheim-xbox-game-pass-console-exclusive-pc)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases World Update X: United States and US Territories Today](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-world-update-10/)
+ - [Netflix shrugs off Squid Game’s damning critique of capitalism with new Squid Game reality series](https://www.polygon.com/23167752/netflix-squid-game-the-challenge-reality-series)
+ - [Photoshop goes free-to-paint on the web](https://www.pcgamer.com/photoshop-goes-free-to-paint-on-the-web)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
