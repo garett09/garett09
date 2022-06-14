@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey im](http://9gag.com/gag/a21ARmE)
- - 🚯 [C*nts](http://9gag.com/gag/azev1qz)
- - 🚯 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)<!-- MEMES:END -->
+ - 🚖 [Ahhh Yes, The Plan!](http://9gag.com/gag/azev9zm)
+ - 🚯 [Hey im](http://9gag.com/gag/a21ARmE)
+ - 🚯 [Don&#39;t run... That&#39;s just a dog... The dog](http://9gag.com/gag/aOQnrON)<!-- MEMES:END -->
 
 --- 
 
