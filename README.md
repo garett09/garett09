@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Fitness+ could grow to $3.6B in revenue by 2025, analyst says](https://appleinsider.com/articles/22/06/14/apple-fitness-could-grow-to-36b-in-revenue-by-2025-analyst-says?utm_medium=rss)
- - [New 13-inch MacBook Pro with M2 will be available to order on June 17](https://appleinsider.com/articles/22/06/14/new-13-inch-macbook-pro-with-m2-will-be-available-to-order-on-june-17?utm_medium=rss)
- - [WhatsApp now lets you transfer your chat history from Android to iPhone](https://www.theverge.com/2022/6/14/23167292/whatsapp-android-iphone-chat-history-transfer-update)<!-- TECH:END -->
+ - [Apple’s M2-equipped 13-inch MacBook Pro opens for preorders on June 17th](https://www.theverge.com/2022/6/14/23167368/apple-macbook-pro-m2-13-inch-release-date)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
+ - [How to set up two-factor authentication in iCloud Keychain](https://appleinsider.com/inside/icloud/tips/how-to-set-up-two-factor-authentication-in-icloud-keychain?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
