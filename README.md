@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
- - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)
- - 🚯 [Pay Taxes or Enjoy the Tax benefits!](http://9gag.com/gag/aqGV7Zp)<!-- MEMES:END -->
+ - 🚖 [Virtual Reality](http://9gag.com/gag/aVx931K)
+ - 🚯 [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
+ - 🚯 [*angry noises*](http://9gag.com/gag/aLvOjGP)<!-- MEMES:END -->
 
 --- 
 
