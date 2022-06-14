@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored 14-inch iPad may not be an iPad Pro after all, analyst claims](https://appleinsider.com/articles/22/06/14/rumored-14-inch-ipad-may-not-be-an-ipad-pro-after-all-analyst-claims?utm_medium=rss)
- - [Smart switches or smart bulbs? How to choose the right smart lighting for your home](https://www.theverge.com/23156554/smart-bulbs-switch-lighting-guide-how-to)
- - [Apple hosts premiere of &#39;Cha Cha Real Smooth&#39; at Tribeca Festival](https://appleinsider.com/articles/22/06/14/apple-hosts-premiere-of-cha-cha-real-smooth-at-tribeca-festival?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos Voice Control assistant review: fast, private, and good at tasks like grouping rooms, but lacks Spotify support and doesn&#39;t understand some artists&#39; names &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220614/p32#a220614p32)
+ - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
+ - [Hands on with &#39;iPhone 14&#39; dummy units](https://appleinsider.com/articles/22/06/14/hands-on-with-iphone-14-dummy-units?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
