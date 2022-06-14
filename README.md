@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman Returns is the most anti-franchise franchise movie ever made](https://www.polygon.com/23165989/batman-returns-30th-anniversary-tim-burton)
- - [The Little League World Series is back in video games after 12 years](https://www.polygon.com/23167466/little-league-world-series-video-game-baseball-2022-release-date)
- - [Sci-Fi &amp; Horror Collide with Arthurian Legend in The Hand of Merlin](https://news.xbox.com/en-us/2022/06/14/sci-fi-horror-collide-with-arthurian-legend-in-the-hand-of-merlin/)<!-- GAME:END -->
+ - [What Diablo Immortal Means For The Future Of Gaming](https://kotaku.com/diablo-immortal-blizzard-metacritic-f2p-1849059627)
+ - [Get on the Pitch Soon with EA Play](https://news.xbox.com/en-us/2022/06/14/get-on-the-pitch-soon-with-ea-play/)
+ - [Assassin’s Creed Valhalla’s second year of free updates includes a new game mode](https://www.polygon.com/23167590/assassins-creed-valhalla-updates-post-launch-support-the-forgotten-saga)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
