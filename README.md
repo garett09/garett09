@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flying a Halo spaceship in Microsoft Flight Sim shouldn&#39;t work this well](https://www.pcgamer.com/flying-a-halo-spaceship-in-microsoft-flight-sim-shouldnt-work-this-well)
- - [Capcom reveals more about Exoprimal, its 5v5 action game about a dinosaur crisis](https://www.polygon.com/23166629/capcom-exoprimal-gameplay-release-date-beta-test)
- - [5 cool games from the PC Gaming Show](https://www.polygon.com/23165930/pc-gaming-show-announcements-roundup)<!-- GAME:END -->
+ - [Batman Returns is the most anti-franchise franchise movie ever made](https://www.polygon.com/23165989/batman-returns-30th-anniversary-tim-burton)
+ - [The Little League World Series is back in video games after 12 years](https://www.polygon.com/23167466/little-league-world-series-video-game-baseball-2022-release-date)
+ - [Sci-Fi &amp; Horror Collide with Arthurian Legend in The Hand of Merlin](https://news.xbox.com/en-us/2022/06/14/sci-fi-horror-collide-with-arthurian-legend-in-the-hand-of-merlin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
