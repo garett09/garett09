@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Marvel’s real origin story was too embarrassing for the Marvel Cinematic Universe](https://www.polygon.com/23167430/ms-marvel-bangle-origin-story-kamran-najma)
- - [Gloomhaven publisher transitions to Backerkit after Kickstarter’s blockchain push](https://www.polygon.com/23167962/gloomhaven-backerkit-crowdfunding-launch-blockchain)
- - [Starfield doesn&#39;t do seamless planetary landings like No Man&#39;s Sky, but Todd Howard doesn&#39;t think players will care](https://www.pcgamer.com/starfield-doesnt-do-seamless-planetary-landings-like-no-mans-sky-but-todd-howard-doesnt-think-players-will-care)<!-- GAME:END -->
+ - [Lancelot, First Knight of the Round Table, Rides Alongside the Legendary Mizkif in a New Smite Update](https://news.xbox.com/en-us/2022/06/15/lancelot-new-smite-update/)
+ - [If NFTs are the future of gaming, it&#39;s sure weird no one mentioned them at this year&#39;s big showcases](https://www.pcgamer.com/if-nfts-are-the-future-of-gaming-its-sure-weird-no-one-mentioned-them-at-this-years-big-showcases)
+ - [Halo Keeps Getting DLC For Every Game Except Halo Infinite](https://kotaku.com/halo-infinite-dlc-fall-guys-microsoft-flight-sim-the-en-1849067299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
