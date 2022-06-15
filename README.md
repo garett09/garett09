@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram fixed its iOS repeating Stories bug with a new update](https://www.theverge.com/2022/6/14/23167990/instagram-stories-replay-repeat-loop-bug)
  - [iPadOS 16 makes significant changes to how an iPad operates, but it isn&#39;t enough](https://appleinsider.com/articles/22/06/15/ipados-16-makes-significant-changes-to-how-an-ipad-operates-but-it-isnt-enough?utm_medium=rss)
- - [What is Keystone Correction for Projectors? And Why You Should Avoid It     - CNET](https://www.cnet.com/tech/home-entertainment/what-is-keystone-correction-for-projectors-and-why-you-should-avoid-it/#ftag=CAD590a51e)
- - [Russia Is Taking Over Ukraine’s Internet](https://www.wired.com/story/ukraine-russia-internet-takeover/)<!-- TECH:END -->
+ - [What Black One Direction Fans Reveal About Activism](https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
