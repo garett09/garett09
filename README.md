@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some humor from a different era](http://9gag.com/gag/aDDqDv9)
- - 🚯 [Lel](http://9gag.com/gag/aM40EG6)
- - 🚯 [Whoops](http://9gag.com/gag/aRr8rDB)<!-- MEMES:END -->
+ - 🚖 [Whoops](http://9gag.com/gag/aRr8rDB)
+ - 🚯 [Riddle me this...](http://9gag.com/gag/aPZVAvR)
+ - 🚯 [Did you do it ?](http://9gag.com/gag/ajg3ggw)<!-- MEMES:END -->
 
 --- 
 
