@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC cases in 2022](https://www.pcgamer.com/best-pc-case)
- - [Stalker 2 developers continue work as key team members fight for Ukraine](https://www.pcgamer.com/stalker-2-developers-continue-work-as-key-team-members-fight-for-ukraine)
- - [Here&#39;s every Grapple Glove location in Fortnite](https://www.pcgamer.com/fortnite-grapple-glove-locations)<!-- GAME:END -->
+ - [Ms. Marvel head writer hopes to see more ‘bara Hulk, choti Hulk cosplay’](https://www.polygon.com/23166437/ms-marvel-disney-plus-hulk-cosplay-pakistani-culture)
+ - [Capcom reflects on Red Earth, a previously Japan-only game included in Capcom Fighting Collection](https://blog.playstation.com/2022/06/15/capcom-reflects-on-red-earth-a-previously-japan-only-game-included-in-capcom-fighting-collection/)
+ - [Capcom reflects on Red Earth, a previously Japan-only game included in Capcom Fighting Collection](https://blog.playstation.com/2022/06/15/capcom-reflects-on-red-earth-a-previously-japan-only-game-included-in-capcom-fighting-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
