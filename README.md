@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NZXT Streaming PC](https://www.pcgamer.com/nzxt-streaming-pc-review)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
- - [Today&#39;s Wordle answer guide #361: Wednesday, June 15](https://www.pcgamer.com/todays-wordle-answer-guide-361-wednesday-june-15)<!-- GAME:END -->
+ - [The best PC cases in 2022](https://www.pcgamer.com/best-pc-case)
+ - [Stalker 2 developers continue work as key team members fight for Ukraine](https://www.pcgamer.com/stalker-2-developers-continue-work-as-key-team-members-fight-for-ukraine)
+ - [Here&#39;s every Grapple Glove location in Fortnite](https://www.pcgamer.com/fortnite-grapple-glove-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
