@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield&#39;s space combat is inspired by MechWarrior and FTL, says Todd Howard](https://www.pcgamer.com/starfields-space-combat-is-inspired-by-mechwarrior-and-ftl-says-todd-howard)
  - [Nintendo Unleashes Lawyers On YouTube Musician’s Metroid Covers](https://kotaku.com/nintendo-metroid-prime-youtube-music-takedown-synamax-c-1849067850)
- - [Jurassic World Evolution 2: Dominion Biosyn Expansion Available Now](https://news.xbox.com/en-us/2022/06/15/jurassic-world-evolution-2-dominion-biosyn-expansion-available-now/)
- - [April O’Neil Is Breaking News And Foot Clan Faces In The First Stage Of TMNT: Shredder&#39;s Revenge](https://kotaku.com/teenage-mutant-ninja-turtles-shredders-revenge-april-o-1849064743)<!-- GAME:END -->
+ - [Jurassic World Evolution 2: Dominion Biosyn Expansion Available Now](https://news.xbox.com/en-us/2022/06/15/jurassic-world-evolution-2-dominion-biosyn-expansion-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
