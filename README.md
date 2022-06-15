@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Celsius Networks is looking for possible financing options from investors, as it explores other strategic alternatives, like financial restructuring &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220614/p38#a220614p38)
- - [The Washington Post&#39;s Arc XP CMS is licensed to over 2,000 companies, up from 1,500 a year ago; sources say it generates ~$40M-$50M in ARR but isn&#39;t profitable &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220614/p37#a220614p37)
- - [Why There&#39;s a Tampon Shortage, and What to Do if You Can&#39;t Find Any     - CNET](https://www.cnet.com/health/personal-care/why-theres-a-tampon-shortage-and-what-to-do-if-you-cant-find-any/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India-based Groyyo, a B2B automation startup that uses AI to boost the efficiency of small-scale manufacturing, has raised a $27M Series A led by Tiger Global &lpar;Entrackr&rpar;](http://www.techmeme.com/220614/p40#a220614p40)
+ - [How to turn off shuffle on Spotify](https://www.androidauthority.com/how-to-turn-shuffle-off-spotify-3092612/)
+ - [Paris-based EcoVadis, which provides software for business sustainability ratings, raised a $500M Series C led by BeyondNetZero and Astorg at a $1B+ valuation &lpar;Peter Wayner/VentureBeat&rpar;](http://www.techmeme.com/220614/p39#a220614p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
