@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whoops](http://9gag.com/gag/aRr8rDB)
- - 🚯 [Riddle me this...](http://9gag.com/gag/aPZVAvR)
- - 🚯 [Did you do it ?](http://9gag.com/gag/ajg3ggw)<!-- MEMES:END -->
+ - 🚖 [Riddle me this...](http://9gag.com/gag/aPZVAvR)
+ - 🚯 [Women, can&#39;t live with them, can&#39;t live without them](http://9gag.com/gag/adgWPn9)
+ - 🚯 [And skirts ofcourse](http://9gag.com/gag/aGzrEm0)<!-- MEMES:END -->
 
 --- 
 
