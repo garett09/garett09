@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discovery Tour: Viking Age Standalone Edition Available Now](https://news.xbox.com/en-us/2022/06/15/discovery-tour-viking-age-standalone-edition-available-now/)
- - [Kingdom Hearts’ Director Was ‘Very Picky’ About Adding Sora To Smash Bros. Ultimate](https://kotaku.com/kingdom-hearts-sora-super-smash-bros-ultimate-tetsuya-n-1849065582)
- - [A trilogy of Avatar: The Last Airbender animated films is in development](https://www.polygon.com/23169637/avatar-the-last-airbender-animated-film-trilogy-in-development)<!-- GAME:END -->
+ - [Out of This World Customization in OlliOlli World: VOID Riders](https://news.xbox.com/en-us/2022/06/15/out-of-this-world-customization-in-olliolli-world-void-riders/)
+ - [Halo Infinite’s Juneteenth Cosmetic Briefly Named After Ape, Sparks Outcry](https://kotaku.com/halo-infinite-juneteenth-bonobo-freedom-emblem-nameplat-1849065291)
+ - [Daggerfall Unity - GOG Cut brings back the Elder Scrolls classic without the headaches, and it&#39;s free](https://www.pcgamer.com/daggerfall-unity-gog-cut-brings-back-the-elder-scrolls-classic-without-the-headaches-and-its-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
