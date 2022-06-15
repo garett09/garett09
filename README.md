@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto altcoins are up after the Federal Reserve&#39;s interest rate hike: Cardano, Solana, and Dogecoin are up 6%+, Polkadot up ~15%; bitcoin and ether closed flat &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/220615/p27#a220615p27)
- - [The Kraken crypto exchange is hiring — as long as employees don’t call things racist](https://www.theverge.com/2022/6/15/23170227/kraken-crypto-exchange-hiring-employees-racism-crypto-free-speech)
- - [NLRB files a complaint against Mapbox, alleging it threatened job loss for union organizing and fired union organizers after a failed vote in August 2021 &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220615/p26#a220615p26)<!-- TECH:END -->
+ - [BitMEX co-founder Benjamin Delo is sentenced to 30 months probation without home confinement after pleading guilty to violating the US Bank Secrecy Act &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220615/p29#a220615p29)
+ - [Investigation: ~300 US crisis pregnancy centers, which try to dissuade people from abortions, share website visitor info with Facebook via Meta&#39;s tracking pixel &lpar;The Markup&rpar;](http://www.techmeme.com/220615/p28#a220615p28)
+ - [YouTube Music leapfrogs Spotify Wrapped with new seasonal recap playlists](https://www.theverge.com/2022/6/15/23170282/youtube-music-seasonal-recap-playlists-spotify-wrapped)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
