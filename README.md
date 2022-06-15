@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer guide #361: Wednesday, June 15](https://www.pcgamer.com/todays-wordle-answer-guide-361-wednesday-june-15)
- - [In Umbrella Academy season 3, family is the ultimate test](https://www.polygon.com/reviews/23167913/umbrella-academy-season-3-review)
- - [Intel&#39;s Arc A380 GPU launches in China for around $150 USD](https://www.pcgamer.com/intels-arc-a380-gpu-launches-in-china-for-around-dollar150-usd)<!-- GAME:END -->
+ - [NZXT Streaming PC](https://www.pcgamer.com/nzxt-streaming-pc-review)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
+ - [Today&#39;s Wordle answer guide #361: Wednesday, June 15](https://www.pcgamer.com/todays-wordle-answer-guide-361-wednesday-june-15)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
