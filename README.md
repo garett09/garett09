@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Moles are so specialized at digging, they can&#39;t walk very well.](http://9gag.com/gag/aM40d5R)
- - 🚯 [Internet explorer shut down after 27 years of service.](http://9gag.com/gag/azev2Kx)
- - 🚯 [If only](http://9gag.com/gag/aE8j0LG)<!-- MEMES:END -->
+ - 🚯 [Hard doubt](http://9gag.com/gag/a914y61)
+ - 🚯 [Simple times, simple sport](http://9gag.com/gag/aM40V31)<!-- MEMES:END -->
 
 --- 
 
