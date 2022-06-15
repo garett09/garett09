@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what the Nothing Phone 1 looks like](https://www.androidauthority.com/nothing-phone-1-design-back-3176577/)
- - [Sources: crypto hedge fund Three Arrows Capital faces an uncertain future after a $400M liquidation; CEO Zhu tweeted we are &quot;committed to working this out&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220615/p1#a220615p1)
- - [&#39;Stranger Things 4&#39; Uncanny Valley: Who Plays the Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-who-plays-the-young-eleven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Lightyear&#39; Review: Intergalactic Fun With a Whole Lot of Heart     - CNET](https://www.cnet.com/culture/entertainment/lightyear-review-intergalactic-fun-with-a-whole-lot-of-heart/#ftag=CAD590a51e)
+ - [Red Light, Green Light: Netflix announces real-life Squid Game competition](https://www.androidauthority.com/netflix-squid-game-competition-3176591/)
+ - [YouTube’s new corrections feature lets creators fix the record more easily](https://www.theverge.com/2022/6/15/23168884/youtube-add-corrections-feature-annotations-creators)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
