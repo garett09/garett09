@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mah feelings](http://9gag.com/gag/aDDqdgO)
+ - 🚖 [Today is the last day\u2026 thank you for letting me download google chrome in the past 14 years](http://9gag.com/gag/arnDVyX)
  - 🚯 [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
- - 🚯 [Squat 20 times and get a free bus ride in Cluj-Napoca](http://9gag.com/gag/aNPGPV6)<!-- MEMES:END -->
+ - 🚯 [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)<!-- MEMES:END -->
 
 --- 
 
