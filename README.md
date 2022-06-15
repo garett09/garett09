@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hate buying pants](http://9gag.com/gag/aDDq43w)
- - 🚯 [Pollution at Guatemalan coastlines](http://9gag.com/gag/azevmrB)
- - 🚯 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)<!-- MEMES:END -->
+ - 🚖 [Pollution at Guatemalan coastlines](http://9gag.com/gag/azevmrB)
+ - 🚯 [You can wash your clothes in this while you workout](http://9gag.com/gag/aLvOw3g)
+ - 🚯 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)<!-- MEMES:END -->
 
 --- 
 
