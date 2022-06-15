@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram fixed its iOS repeating Stories bug with a new update](https://www.theverge.com/2022/6/14/23167990/instagram-stories-replay-repeat-loop-bug)
- - [iPadOS 16 makes significant changes to how an iPad operates, but it isn&#39;t enough](https://appleinsider.com/articles/22/06/15/ipados-16-makes-significant-changes-to-how-an-ipad-operates-but-it-isnt-enough?utm_medium=rss)
- - [What Black One Direction Fans Reveal About Activism](https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/)<!-- TECH:END -->
+ - [AlphaSense, which offers search tools for market intelligence, has raised a $225M Series D at a $1.7B valuation, following a $180M Series C in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220615/p15#a220615p15)
+ - [Just trying to order Dish’s Project Genesis 5G service is an odyssey](https://www.theverge.com/2022/6/15/23168270/dish-network-5g-project-genesis-sign-up-issues-addresses)
+ - [Samsung Galaxy S21 FE starts receiving June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
