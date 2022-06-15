@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today is the last day\u2026 thank you for letting me download google chrome in the past 14 years](http://9gag.com/gag/arnDVyX)
- - 🚯 [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
+ - 🚖 [I like to live dangerously](http://9gag.com/gag/a61e1Nq)
+ - 🚯 [Deal with it.](http://9gag.com/gag/awz9zZx)
  - 🚯 [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)<!-- MEMES:END -->
 
 --- 
