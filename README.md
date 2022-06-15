@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Some humor from a different era](http://9gag.com/gag/aDDqDv9)
- - 🚯 [Relatable](http://9gag.com/gag/aZr4r96)
- - 🚯 [Lel](http://9gag.com/gag/aM40EG6)<!-- MEMES:END -->
+ - 🚯 [Lel](http://9gag.com/gag/aM40EG6)
+ - 🚯 [Whoops](http://9gag.com/gag/aRr8rDB)<!-- MEMES:END -->
 
 --- 
 
