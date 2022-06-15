@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Marvel head writer hopes to see more ‘bara Hulk, choti Hulk cosplay’](https://www.polygon.com/23166437/ms-marvel-disney-plus-hulk-cosplay-pakistani-culture)
- - [Capcom reflects on Red Earth, a previously Japan-only game included in Capcom Fighting Collection](https://blog.playstation.com/2022/06/15/capcom-reflects-on-red-earth-a-previously-japan-only-game-included-in-capcom-fighting-collection/)
- - [Capcom reflects on Red Earth, a previously Japan-only game included in Capcom Fighting Collection](https://blog.playstation.com/2022/06/15/capcom-reflects-on-red-earth-a-previously-japan-only-game-included-in-capcom-fighting-collection/)<!-- GAME:END -->
+ - [Amazon&#39;s delivery drones to launch in California this year](https://www.pcgamer.com/amazons-delivery-drones-to-launch-in-california-this-year)
+ - [Where to find every Tarot Card in The Quarry](https://www.pcgamer.com/quarry-cards-tarot)
+ - [Netflix’s newest animated show will be a gorgeous New York City love story](https://www.polygon.com/23168070/netflix-entergalactic-teaser-release-date-kid-cudi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
