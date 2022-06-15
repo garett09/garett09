@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s General Court sides with Qualcomm over the European Commission&#39;s $1.05B fine from 2018 for allegedly paying Apple to use only Qualcomm chips &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220615/p3#a220615p3)
- - [Bill Gates says NFTs are ‘100 percent based on greater fool theory’](https://www.theverge.com/2022/6/15/23169008/bill-gates-cryptocurrency-nft-greater-fool-theory)
- - [You told us: Here’s how likely you are to switch from your current brand](https://www.androidauthority.com/switch-current-phone-brand-poll-results-3176605/)<!-- TECH:END -->
+ - [iPadOS 16 makes significant changes to how an iPad operates, but it isn&#39;t enough](https://appleinsider.com/articles/22/06/15/ipados-16-makes-significant-changes-to-how-an-ipad-operates-but-it-isnt-enough?utm_medium=rss)
+ - [What is Keystone Correction for Projectors? And Why You Should Avoid It     - CNET](https://www.cnet.com/tech/home-entertainment/what-is-keystone-correction-for-projectors-and-why-you-should-avoid-it/#ftag=CAD590a51e)
+ - [Russia Is Taking Over Ukraine’s Internet](https://www.wired.com/story/ukraine-russia-internet-takeover/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
