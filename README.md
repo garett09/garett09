@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pollution at Guatemalan coastlines](http://9gag.com/gag/azevmrB)
- - 🚯 [You can wash your clothes in this while you workout](http://9gag.com/gag/aLvOw3g)
- - 🚯 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)<!-- MEMES:END -->
+ - 🚖 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)
+ - 🚯 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)
+ - 🚯 [Deal with it.](http://9gag.com/gag/awz9zZx)<!-- MEMES:END -->
 
 --- 
 
