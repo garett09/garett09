@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon&#39;s delivery drones to launch in California this year](https://www.pcgamer.com/amazons-delivery-drones-to-launch-in-california-this-year)
- - [Where to find every Tarot Card in The Quarry](https://www.pcgamer.com/quarry-cards-tarot)
- - [Netflix’s newest animated show will be a gorgeous New York City love story](https://www.polygon.com/23168070/netflix-entergalactic-teaser-release-date-kid-cudi)<!-- GAME:END -->
+ - [New update for Share Factory Studio unleashes Bits on PS5 today](https://blog.playstation.com/2022/06/15/new-update-for-share-factory-studio-unleashes-bits-on-ps5-today/)
+ - [New update for Share Factory Studio unleashes Bits on PS5 today](https://blog.playstation.com/2022/06/15/new-update-for-share-factory-studio-unleashes-bits-on-ps5-today/)
+ - [Rainbow Six Siege: Operation Vector Glare Brings a New Operator](https://news.xbox.com/en-us/2022/06/15/rainbow-six-siege-operation-vector-glare-brings-a-new-operator/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
