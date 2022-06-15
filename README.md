@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Out of This World Customization in OlliOlli World: VOID Riders](https://news.xbox.com/en-us/2022/06/15/out-of-this-world-customization-in-olliolli-world-void-riders/)
- - [Halo Infinite’s Juneteenth Cosmetic Briefly Named After Ape, Sparks Outcry](https://kotaku.com/halo-infinite-juneteenth-bonobo-freedom-emblem-nameplat-1849065291)
- - [Daggerfall Unity - GOG Cut brings back the Elder Scrolls classic without the headaches, and it&#39;s free](https://www.pcgamer.com/daggerfall-unity-gog-cut-brings-back-the-elder-scrolls-classic-without-the-headaches-and-its-free)<!-- GAME:END -->
+ - [RIP Internet Explorer: Here are 10 things as old as the expired browser](https://www.pcgamer.com/rip-internet-explorer-here-are-10-things-as-old-as-the-expired-browser)
+ - [Neverwinter: Dragonslayer Roars to Xbox](https://news.xbox.com/en-us/2022/06/15/neverwinter-dragonslayer-roars-to-xbox/)
+ - [Everything you might’ve forgotten from Umbrella Academy season 2](https://www.polygon.com/23167479/umbrella-academy-season-2-ending-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
