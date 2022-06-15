@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)
- - 🚯 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)
- - 🚯 [Where bobs?](http://9gag.com/gag/ang0Qnz)<!-- MEMES:END -->
+ - 🚖 [Mah feelings](http://9gag.com/gag/aDDqdgO)
+ - 🚯 [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
+ - 🚯 [Squat 20 times and get a free bus ride in Cluj-Napoca](http://9gag.com/gag/aNPGPV6)<!-- MEMES:END -->
 
 --- 
 
