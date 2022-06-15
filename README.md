@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between mom and dad when they take care of children.](http://9gag.com/gag/ay9mM6X)
- - 🚯 [Today&#39;s Lesson](http://9gag.com/gag/aZr4yW0)
- - 🚯 [Pollution at Guatemalan coastlines](http://9gag.com/gag/azevmrB)<!-- MEMES:END -->
+ - 🚖 [Hate buying pants](http://9gag.com/gag/aDDq43w)
+ - 🚯 [Pollution at Guatemalan coastlines](http://9gag.com/gag/azevmrB)
+ - 🚯 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)<!-- MEMES:END -->
 
 --- 
 
