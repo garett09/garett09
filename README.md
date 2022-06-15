@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)
- - [The Callisto Protocol’s director on his return to horror: ‘I don’t know what too scary is’](https://www.theverge.com/2022/6/15/23169787/the-callisto-protocol-glen-schofield-interview)
- - [Spotify will reduce hiring by 25 percent](https://www.theverge.com/2022/6/15/23169839/spotify-reduce-hiring-25-percent-recession-netflix-twitter)<!-- TECH:END -->
+ - [The best apps to use with Sidecar for iPad and Mac users](https://appleinsider.com/articles/22/06/15/the-best-apps-to-use-with-sidecar-for-ipad-and-mac-users?utm_medium=rss)
+ - [DataStax, which develops a noSQL, cloud-native database built on Apache Cassandra, has raised $115M at a $1.6B valuation; DataStax&#39;s valuation was $830M in 2014 &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220615/p25#a220615p25)
+ - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
