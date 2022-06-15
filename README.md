@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Under pressure from Apple Pay Later, PayPal improves its buy now pay later offerings](https://appleinsider.com/articles/22/06/15/under-pressure-from-apple-pay-later-paypal-improves-its-buy-now-pay-later-offerings?utm_medium=rss)
- - [The Verge’s 2022 Father’s Day Gift Guide](https://www.theverge.com/23069006/fathers-day-gift-ideas-2022-best-dad-unique-tech-gadgets-tools)
- - [The company behind PUBG shows off its ‘hyper-realistic’ virtual human](https://www.theverge.com/2022/6/15/23169463/krafton-virtual-human-ana)<!-- TECH:END -->
+ - [Neon White turns you into a demon-hunting speedrunner](https://www.theverge.com/23169390/neon-white-review-steam-nintendo-switch)
+ - [Apple TV+ &#39;Five Days at Memorial&#39; and &#39;Bad Sisters&#39; debuting in August](https://appleinsider.com/articles/22/06/15/apple-tv-five-days-at-memorial-and-bad-sisters-debuting-in-august?utm_medium=rss)
+ - [New 15-inch MacBook expected in 2023, 12-inch model questionable](https://appleinsider.com/articles/22/06/15/new-15-inch-macbook-expected-in-2023-12-inch-model-questionable?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
