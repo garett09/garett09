@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)
- - 🚯 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)
- - 🚯 [Deal with it.](http://9gag.com/gag/awz9zZx)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)
+ - 🚯 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)
+ - 🚯 [Where bobs?](http://9gag.com/gag/ang0Qnz)<!-- MEMES:END -->
 
 --- 
 
