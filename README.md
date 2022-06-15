@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NLRB files a complaint against Mapbox, alleging it threatened job loss for union organizing and fired union organizers after a failed vote in August 2021 &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220615/p26#a220615p26)
  - [The best apps to use with Sidecar for iPad and Mac users](https://appleinsider.com/articles/22/06/15/the-best-apps-to-use-with-sidecar-for-ipad-and-mac-users?utm_medium=rss)
- - [DataStax, which develops a noSQL, cloud-native database built on Apache Cassandra, has raised $115M at a $1.6B valuation; DataStax&#39;s valuation was $830M in 2014 &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220615/p25#a220615p25)
- - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)<!-- TECH:END -->
+ - [Hands on with the new Apple Watch faces in watchOS 9](https://appleinsider.com/articles/22/06/15/hands-on-with-the-new-apple-watch-faces-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
