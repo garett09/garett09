@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neon White turns you into a demon-hunting speedrunner](https://www.theverge.com/23169390/neon-white-review-steam-nintendo-switch)
- - [Apple TV+ &#39;Five Days at Memorial&#39; and &#39;Bad Sisters&#39; debuting in August](https://appleinsider.com/articles/22/06/15/apple-tv-five-days-at-memorial-and-bad-sisters-debuting-in-august?utm_medium=rss)
- - [New 15-inch MacBook expected in 2023, 12-inch model questionable](https://appleinsider.com/articles/22/06/15/new-15-inch-macbook-expected-in-2023-12-inch-model-questionable?utm_medium=rss)<!-- TECH:END -->
+ - [Internal memo details plans to make Facebook more like TikTok, including bringing Messenger back into the app and recommending posts from &quot;unconnected&quot; sources &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220615/p22#a220615p22)
+ - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
+ - [Don’t wait to install the June Windows update — it fixes a major security bug](https://www.theverge.com/2022/6/15/23169480/microsoft-patch-windows-11-update-follina-zero-day-exploit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
