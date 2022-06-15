@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And skirts ofcourse](http://9gag.com/gag/aGzrEm0)
- - 🚯 [You know, im something of a scientest myself...](http://9gag.com/gag/aLvO1BA)
- - 🚯 [An ABSOLUTE GENIUS.](http://9gag.com/gag/a118m2w)<!-- MEMES:END -->
+ - 🚖 [Pizza is love](http://9gag.com/gag/a0ZDeEz)
+ - 🚯 [Die Fahne Hoch](http://9gag.com/gag/aegqQEB)
+ - 🚯 [If only](http://9gag.com/gag/aE8j0LG)<!-- MEMES:END -->
 
 --- 
 
