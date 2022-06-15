@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AlphaSense, which offers search tools for market intelligence, has raised a $225M Series D at a $1.7B valuation, following a $180M Series C in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220615/p15#a220615p15)
- - [Just trying to order Dish’s Project Genesis 5G service is an odyssey](https://www.theverge.com/2022/6/15/23168270/dish-network-5g-project-genesis-sign-up-issues-addresses)
- - [Samsung Galaxy S21 FE starts receiving June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)<!-- TECH:END -->
+ - [Apple ad business could reach $6B by 2025, with $4.1B from Search Ads](https://appleinsider.com/articles/22/06/15/apple-ad-business-could-reach-6b-by-2025-with-41b-from-search-ads?utm_medium=rss)
+ - [Peloton rival Tonal is adding a New York studio to win the fitness content race](https://www.theverge.com/2022/6/15/23167828/tonal-peloton-ny-studio-aly-orady)
+ - [Nreal is adding Steam streaming to its AR glasses](https://www.theverge.com/2022/6/15/23169347/nreal-light-air-steam-beta-launch-ar-glasses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
