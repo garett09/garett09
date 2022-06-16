@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Securities regulators in Texas, Alabama, Kentucky, New Jersey, and Washington are investigating Celsius Network&#39;s decision to suspend customer redemptions &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220616/p33#a220616p33)
- - [Microsoft launches Defender for Individuals, a centralized online security dashboard, for Microsoft 365 Family and Personal users on PC, Mac, iOS, and Android &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220616/p32#a220616p32)
- - [Apple&#39;s iOS 16 lets you remove 30 stock apps](https://appleinsider.com/articles/22/06/16/apples-ios-16-lets-you-remove-29-stock-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Day will have more than 30 free games, including Mass Effect](https://www.theverge.com/2022/6/16/23171580/amazon-prime-day-free-games-mass-effect-legendary-edition)
+ - [Activision Blizzard investigated Activision Blizzard and found Activision Blizzard didn’t do anything wrong](https://www.theverge.com/2022/6/16/23171447/activision-blizzard-investigation-sec-filing)
+ - [Adobe reports Q2 revenue of $4.39B, up 14% YoY vs. $4.34B est., Digital Media revenue of $3.2B, up 15% YoY, and Digital Experience revenue of $1.1B, up 17% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220616/p35#a220616p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
