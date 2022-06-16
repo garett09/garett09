@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;2020&rpar; proportion of 25-29 year olds living with their parents](http://9gag.com/gag/avAB1qb)
- - 🚯 [Video analysis of the difference between the dog joining the cat for a nap, and the cat joining the dog.](http://9gag.com/gag/aNPG9KG)
- - 🚯 [So long fella](http://9gag.com/gag/aAGL6vL)<!-- MEMES:END -->
+ - 🚖 [So long fella](http://9gag.com/gag/aAGL6vL)
+ - 🚯 [It\u2019s necessary to clap before the game](http://9gag.com/gag/apgnD7D)
+ - 🚯 [Do you like my new setup?](http://9gag.com/gag/aKmXAOO)<!-- MEMES:END -->
 
 --- 
 
