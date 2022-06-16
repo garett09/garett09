@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The US to join forces with Japan to produce bleeding-edge 2nm chips by 2025](https://www.pcgamer.com/the-us-to-join-forces-with-japan-to-produce-bleeding-edge-2nm-chips-by-2025)
- - [Apex Legends’ next event puts Control on World’s Edge](https://www.polygon.com/23171217/apex-legends-lte-awakening-dates-control-lifeline-town-takeover)
- - [Award-Winning Harpist Slays Elden Ring Baddies By Plucking Some Strings](https://kotaku.com/elden-ring-anna-ellsworth-harp-margit-fell-omen-tree-se-1849071184)<!-- GAME:END -->
+ - [Overwatch 2 is Free for All Starting October 4](https://news.xbox.com/en-us/2022/06/16/overwatch-2-is-free-for-all-starting-october-4/)
+ - [Abbott Elementary will return for a second season this September](https://www.polygon.com/23171385/abbott-elementary-second-season-september-premiere)
+ - [30-plus Xbox indie demos bring Summer Game Fest home, starting June 21](https://www.polygon.com/23171364/xbox-indie-game-demos-summer-game-fest-2022-date-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
