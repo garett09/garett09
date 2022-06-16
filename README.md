@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robin Williams&#39; Jumanji is still the best](http://9gag.com/gag/amgOxKd)
- - 🚯 [Rate my setup](http://9gag.com/gag/a21AyMZ)
- - 🚯 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)<!-- MEMES:END -->
+ - 🚖 [True or false](http://9gag.com/gag/aM40zRR)
+ - 🚯 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)
+ - 🚯 [Nice shovel](http://9gag.com/gag/ang0x30)<!-- MEMES:END -->
 
 --- 
 
