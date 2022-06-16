@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [OlliOlli World adds skater-abducting aliens](https://www.pcgamer.com/olliolli-world-adds-skater-abducting-aliens)
  - [Today&#39;s Wordle answer guide #362: Thursday, June 16](https://www.pcgamer.com/todays-wordle-answer-june-16)
- - [Sonos accidentally sent one customer $15,000 worth of audio equipment and charged them for it](https://www.pcgamer.com/sonos-accidentally-sent-one-customer-dollar15000-worth-of-audio-equipment-and-charged-them-for-it)
- - [Fallout&#39;s Vaults, ranked from worst to best](https://www.pcgamer.com/best-fallout-vaults)<!-- GAME:END -->
+ - [Sonos accidentally sent one customer $15,000 worth of audio equipment and charged them for it](https://www.pcgamer.com/sonos-accidentally-sent-one-customer-dollar15000-worth-of-audio-equipment-and-charged-them-for-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
