@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monke gym](http://9gag.com/gag/aPZV87G)
+ - 🚖 [Robin Williams&#39; Jumanji is still the best](http://9gag.com/gag/amgOxKd)
  - 🚯 [Rate my setup](http://9gag.com/gag/a21AyMZ)
- - 🚯 [He wants to be picked up.](http://9gag.com/gag/aNPGBL3)<!-- MEMES:END -->
+ - 🚯 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)<!-- MEMES:END -->
 
 --- 
 
