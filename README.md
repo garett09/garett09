@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Cheat Makers Agree To Pay $13.5 Million In Damages To End Bungie Lawsuit](https://kotaku.com/destiny-2-cheaters-elite-boss-tech-13-million-lawsuit-b-1849073677)
- - [Do Yourself A Favor And Listen To Ryu’s New Street Fighter 6 Theme](https://kotaku.com/street-fighter-6-theme-ryu-music-chun-li-luke-capcom-so-1849073427)
- - [$13.5M settlement puts the cost of one Destiny 2 cheater at $2,000](https://www.pcgamer.com/dollar135m-settlement-puts-the-cost-of-one-destiny-2-cheater-at-dollar2000)<!-- GAME:END -->
+ - [Capcom is finally making Dragon’s Dogma 2](https://www.polygon.com/23171878/dragons-dogma-2-release-date-capcom-trailer)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Confirmed: Dragon&#39;s Dogma Is Getting A Sequel](https://kotaku.com/dragons-dogma-ii-capcom-sequel-10-year-anniversary-1849074098)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
