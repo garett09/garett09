@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It has minerals they said](http://9gag.com/gag/arnDA2y)
- - 🚯 [Ha, got \u2018em](http://9gag.com/gag/aDDqnPG)
- - 🚯 [If we are boys and we are also friends... Maybe we are boyfriends...](http://9gag.com/gag/avABejW)<!-- MEMES:END -->
+ - 🚖 [Play STUPlD games, win STUPlD prizes.](http://9gag.com/gag/avAB6Eb)
+ - 🚯 [He was so excited to be free](http://9gag.com/gag/a61e528)
+ - 🚯 [The king](http://9gag.com/gag/aLvOG6W)<!-- MEMES:END -->
 
 --- 
 
