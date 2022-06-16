@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True or false](http://9gag.com/gag/aM40zRR)
- - 🚯 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)
- - 🚯 [Nice shovel](http://9gag.com/gag/ang0x30)<!-- MEMES:END -->
+ - 🚖 [Nice shovel](http://9gag.com/gag/ang0x30)
+ - 🚯 [True or false](http://9gag.com/gag/aM40zRR)
+ - 🚯 [Let&#39;s count to five bananas](http://9gag.com/gag/aNPGBmA)<!-- MEMES:END -->
 
 --- 
 
