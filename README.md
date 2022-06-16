@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku raises its ad revenue share for ad-supported streaming channels to 45% from 40% and requires linear channels to use Roku&#39;s ad insertion technology and CDN &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220616/p38#a220616p38)
- - [HomeLight, which offers AI-powered tools for home buyers, sellers, and real estate agents, raised $60M in equity and $55M in debt at a $1.7B valuation &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220616/p37#a220616p37)
- - [Google’s Pixel Watch will reportedly have an Apple-like range of straps](https://www.theverge.com/2022/6/16/23171499/google-pixel-watch-straps-smartwatch)<!-- TECH:END -->
+ - [Does Catalyst Black have controller support?](https://www.androidauthority.com/pair-controller-catalyst-black-3177358/)
+ - [Crisis Core: Final Fantasy VII remake coming to consoles and PC this winter](https://www.theverge.com/2022/6/16/23171813/crisis-core-final-fantasy-7-remake-ps4-ps5-pc-steam)
+ - [Final Fantasy VII Remake’s sequel is called Rebirth, and it’s out next year](https://www.theverge.com/2022/6/16/23170332/final-fantasy-vii-remake-part-2-rebirth-ps5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
