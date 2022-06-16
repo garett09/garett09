@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play STUPlD games, win STUPlD prizes.](http://9gag.com/gag/avAB6Eb)
- - 🚯 [He was so excited to be free](http://9gag.com/gag/a61e528)
- - 🚯 [The king](http://9gag.com/gag/aLvOG6W)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/aOQnZmr)
+ - 🚯 [Bro chill](http://9gag.com/gag/amgOm92)
+ - 🚯 [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)<!-- MEMES:END -->
 
 --- 
 
