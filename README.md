@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [&lpar;2020&rpar; proportion of 25-29 year olds living with their parents](http://9gag.com/gag/avAB1qb)
- - 🚯 [Is she alive?\u2060\u2060](http://9gag.com/gag/aZr410z)
- - 🚯 [In case you don&#39;t know that movie already, you should watch it. 12 Angry Men](http://9gag.com/gag/awz9geB)<!-- MEMES:END -->
+ - 🚯 [Video analysis of the difference between the dog joining the cat for a nap, and the cat joining the dog.](http://9gag.com/gag/aNPG9KG)
+ - 🚯 [So long fella](http://9gag.com/gag/aAGL6vL)<!-- MEMES:END -->
 
 --- 
 
