@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dead End: Paranormal Park’s one of those fantastic queer cartoons you’re always hearing about](https://www.theverge.com/23171056/dead-end-paranormal-park-review-netflix)
- - [Apple releases M2-specific macOS Monterey 12.4 update ahead of MacBook Pro release](https://appleinsider.com/articles/22/06/16/apple-releases-m2-specific-macos-monterey-124-update-ahead-of-macbook-pro-release?utm_medium=rss)
- - [Apple hosts premiere event for own comedy series &#39;Loot&#39;](https://appleinsider.com/articles/22/06/16/apple-hosts-premiere-event-for-own-comedy-series-loot?utm_medium=rss)<!-- TECH:END -->
+ - [Securities regulators in Texas, Alabama, Kentucky, New Jersey, and Washington are investigating Celsius Network&#39;s decision to suspend customer redemptions &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220616/p33#a220616p33)
+ - [Microsoft launches Defender for Individuals, a centralized online security dashboard, for Microsoft 365 Family and Personal users on PC, Mac, iOS, and Android &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220616/p32#a220616p32)
+ - [Apple&#39;s iOS 16 lets you remove 30 stock apps](https://appleinsider.com/articles/22/06/16/apples-ios-16-lets-you-remove-29-stock-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
