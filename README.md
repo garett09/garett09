@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 is Free for All Starting October 4](https://news.xbox.com/en-us/2022/06/16/overwatch-2-is-free-for-all-starting-october-4/)
- - [Abbott Elementary will return for a second season this September](https://www.polygon.com/23171385/abbott-elementary-second-season-september-premiere)
- - [30-plus Xbox indie demos bring Summer Game Fest home, starting June 21](https://www.polygon.com/23171364/xbox-indie-game-demos-summer-game-fest-2022-date-schedule)<!-- GAME:END -->
+ - [See A24’s adorable oddity Marcel the Shell With Shoes On early and for free](https://www.polygon.com/23171419/marcel-the-shell-with-shoes-on-free-ticket-giveaway)
+ - [Capcom Letting Resident Evil Players Roll Back Ray Tracing, 3D Audio Upgrades On Steam](https://kotaku.com/resident-evil-2-3-7-remake-capcom-steam-update-upgrade-1849072452)
+ - [League of Legends’ new champion Bel’Veth comes with an ocean of lore](https://www.polygon.com/23169846/league-of-legends-bel-veth-lore-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
