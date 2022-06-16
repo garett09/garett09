@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mike&#39;s good](http://9gag.com/gag/awz9m1x)
- - 🚯 [It has minerals they said](http://9gag.com/gag/arnDA2y)
+ - 🚖 [It has minerals they said](http://9gag.com/gag/arnDA2y)
+ - 🚯 [Ha, got \u2018em](http://9gag.com/gag/aDDqnPG)
  - 🚯 [If we are boys and we are also friends... Maybe we are boyfriends...](http://9gag.com/gag/avABejW)<!-- MEMES:END -->
 
 --- 
