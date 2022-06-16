@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His mushroom hat changes based on what spell you have equipped! This is a game I&#39;ve been working on by myself for over two years now, it&#39;s called Lone Fungus.](http://9gag.com/gag/aVx9mbP)
- - 🚯 [Another employee lied and got me fired. I was going to take her to lunch and a movie.. I hope she likes nature walks and water](http://9gag.com/gag/aegqZ8m)
- - 🚯 [The king](http://9gag.com/gag/aLvOG6W)<!-- MEMES:END -->
+ - 🚖 [Spark ignition engines bad](http://9gag.com/gag/a81v0nV)
+ - 🚯 [His mushroom hat changes based on what spell you have equipped! This is a game I&#39;ve been working on by myself for over two years now, it&#39;s called Lone Fungus.](http://9gag.com/gag/aVx9mbP)
+ - 🚯 [Bro chill](http://9gag.com/gag/amgOm92)<!-- MEMES:END -->
 
 --- 
 
