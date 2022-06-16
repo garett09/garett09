@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at hacking group Cyber Partisans, which seeks to overthrow Belarus&#39; government and has disrupted Russia&#39;s supply lines in Belarus for the war in Ukraine &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/220616/p4#a220616p4)
- - [Japan passes an amendment making &quot;online insults&quot; punishable by up to a year in prison, after the suicide of a reality TV star who had faced social media abuse &lpar;CNN&rpar;](http://www.techmeme.com/220616/p3#a220616p3)
- - [After Pakistan banned dating apps Tinder, Grindr, and Skout in September 2020, Facebook matchmaking groups for Pakistanis gained tens of thousands of members &lpar;Javeria Khalid/Rest of World&rpar;](http://www.techmeme.com/220616/p2#a220616p2)<!-- TECH:END -->
+ - [Researchers say Big Tech&#39;s political ad bans are a charade and likely had minimal impact on curbing misinformation while hurting smaller advocacy groups &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220616/p6#a220616p6)
+ - [Sources: the US increased its funding into VPN companies nthLink, Psiphon, and Lantern by about 50% since February to support the surge in their Russian users &lpar;Reuters&rpar;](http://www.techmeme.com/220616/p5#a220616p5)
+ - [Sonos accidentally sent a man a truckload of speakers worth thousands of dollars](https://www.androidauthority.com/sonos-order-glitch-3177052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
