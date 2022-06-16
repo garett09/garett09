@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We watched over 200 game trailers across five showcases — here’s what stood out](https://www.polygon.com/23165828/summer-games-fest-best-games-announced)
- - [Free Play Days – Assassin’s Creed Origins, Dead Island Definitive Edition, and I Am Fish](https://news.xbox.com/en-us/2022/06/16/free-play-days-assassins-creed-origins-dead-island-definitive-edition-and-i-am-fish/)
- - [Online abuse in Japan can now be punished with up to a year in jail](https://www.pcgamer.com/online-abuse-in-japan-can-now-be-punished-with-up-to-a-year-in-jail)<!-- GAME:END -->
+ - [Gatlopp’s goofy take on horror gives the Jumanji genre a new adult spin](https://www.polygon.com/reviews/23167504/gatlopp-review-drinking-game-horror-movie)
+ - [Apex Legends&#39; resident healer opens a new clinic on Olympus next week](https://www.pcgamer.com/apex-legends-resident-healer-opens-a-new-clinic-on-olympus-next-week)
+ - [ID@Xbox Summer Game Fest Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/06/16/idxbox-summer-game-fest-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
