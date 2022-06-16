@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)
- - [Here are some last-minute Father’s Day gifts that should arrive on time](https://www.theverge.com/23166684/fathers-day-tech-gifts-ideas-amazon-kindle-best-buy-apple-deal-sale)
- - [Orca Security: Microsoft took five months and three patches to fix a critical RCE vulnerability in Azure; critics say the slow response put customers at risk &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220615/p31#a220615p31)<!-- TECH:END -->
+ - [Genshin Impact: How to change your email address](https://www.androidauthority.com/change-email-address-genshin-3176997/)
+ - [SwitchBot’s retrofit smart door lock installs in under a minute](https://www.theverge.com/2022/6/15/23159606/switchbot-smart-door-lock-price-release-date-specs)
+ - [Performio, which provides cloud-based sales commission software to enterprises, has raised $75M led by JMI Equity &lpar;Kristin Snyder/dot.LA&rpar;](http://www.techmeme.com/220615/p32#a220615p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
