@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genshin Impact: How to change your email address](https://www.androidauthority.com/change-email-address-genshin-3176997/)
- - [SwitchBot’s retrofit smart door lock installs in under a minute](https://www.theverge.com/2022/6/15/23159606/switchbot-smart-door-lock-price-release-date-specs)
- - [Performio, which provides cloud-based sales commission software to enterprises, has raised $75M led by JMI Equity &lpar;Kristin Snyder/dot.LA&rpar;](http://www.techmeme.com/220615/p32#a220615p32)<!-- TECH:END -->
+ - [After Pakistan banned dating apps like Tinder in September 2020, matchmaking groups catering to Pakistanis on Facebook garnered tens of thousands of members &lpar;Javeria Khalid/Rest of World&rpar;](http://www.techmeme.com/220616/p2#a220616p2)
+ - [An overview of apps and services Apple &quot;Sherlocked&quot; at WWDC, like Camo with Continuity Camera, Klarna with Apple Pay Later, and Pillbox with medication tracking &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220616/p1#a220616p1)
+ - [&#39;Hug Me&#39; on TikTok: What to Know About the Song From Despicable Me 3     - CNET](https://www.cnet.com/culture/internet/hug-me-on-tiktok-what-to-know-about-the-song-from-despicable-me-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
