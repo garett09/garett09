@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard says its internal review found that there is &quot;no widespread harassment, or systemic harassment&quot; at the company &lpar;Ed Smith/PCGamesN&rpar;](http://www.techmeme.com/220616/p25#a220616p25)
- - [Vergecast: Dish’s 5G network, Apple’s Major League Soccer deal, and Google’s AI debate](https://www.theverge.com/2022/6/16/23170968/network-oran-project-genesis-mls-apple-tv-google-lambda-vergecast-podcast-501-dish)
- - [Quick fixes: grouping Sonos speakers without the app](https://www.theverge.com/23170997/sonos-quickly-group-speakers-how-to)<!-- TECH:END -->
+ - [T-Mobile Adds New Travel Perks In Latest &#39;Un-Carrier&#39; Move     - CNET](https://www.cnet.com/tech/mobile/t-mobile-adds-new-travel-perks-in-latest-un-carrier-move/#ftag=CAD590a51e)
+ - [The Razer Blade 14 with an RTX 3080 is over $1,000 off](https://www.theverge.com/good-deals/2022/6/16/23170121/hp-spectre-envy-x360-razer-blade-14-nvidia-rtx-3080-gaming-laptop-deal-sale)
+ - [Researchers find a link between Indian police and hackers who planted evidence in 2018 on the PCs of human rights activists jailed on terrorism charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220616/p28#a220616p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
