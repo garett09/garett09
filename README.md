@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police Linked to Hacking Campaign to Frame Indian Activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
- - [The Franchise Frenzy Leaves Nothing to the Imagination](https://www.wired.com/story/streaming-lose-headcanon/)
- - [Particle Hunters Can Spend a Lifetime Searching for Answers](https://www.wired.com/story/particle-hunters-physics-icecube-lhc/)<!-- TECH:END -->
+ - [The Many Possible Futures of Streaming Television](https://www.wired.com/story/gadget-lab-podcast-554/)
+ - [Why Watch Content on Your Phone When You Can Watch It on Your TV?](https://www.wired.com/story/cast-from-phone-to-tv-tips/)
+ - [Black Carbon From Rocket Launches Will Heat the Atmosphere](https://www.wired.com/story/the-black-carbon-cost-of-rocket-launches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
