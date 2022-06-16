@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paramount Plus’ Players captures what makes League of Legends special](https://www.polygon.com/reviews/23166678/players-review-league-of-legends-paramount-plus)
- - [Destruction AllStars announces new game mode and events for PS Plus service](https://blog.playstation.com/2022/06/16/destruction-allstars-announces-new-game-mode-and-events-for-ps-plus-service/)
- - [Destruction AllStars announces new game mode and events for PS Plus service](https://blog.playstation.com/2022/06/16/destruction-allstars-announces-new-game-mode-and-events-for-ps-plus-service/)<!-- GAME:END -->
+ - [We watched over 200 game trailers across five showcases — here’s what stood out](https://www.polygon.com/23165828/summer-games-fest-best-games-announced)
+ - [Free Play Days – Assassin’s Creed Origins, Dead Island Definitive Edition, and I Am Fish](https://news.xbox.com/en-us/2022/06/16/free-play-days-assassins-creed-origins-dead-island-definitive-edition-and-i-am-fish/)
+ - [Online abuse in Japan can now be punished with up to a year in jail](https://www.pcgamer.com/online-abuse-in-japan-can-now-be-punished-with-up-to-a-year-in-jail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
