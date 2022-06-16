@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s space combat is inspired by MechWarrior and FTL, says Todd Howard](https://www.pcgamer.com/starfields-space-combat-is-inspired-by-mechwarrior-and-ftl-says-todd-howard)
- - [Nintendo Unleashes Lawyers On YouTube Musician’s Metroid Covers](https://kotaku.com/nintendo-metroid-prime-youtube-music-takedown-synamax-c-1849067850)
- - [Jurassic World Evolution 2: Dominion Biosyn Expansion Available Now](https://news.xbox.com/en-us/2022/06/15/jurassic-world-evolution-2-dominion-biosyn-expansion-available-now/)<!-- GAME:END -->
+ - [1996 Elder Scrolls Game Re-Released With Modern Controls, New Visuals](https://kotaku.com/elder-scrolls-ii-daggerfall-bethesda-mods-pc-unity-rema-1849068558)
+ - [Valheim will have crossplay with the upcoming Xbox version](https://www.pcgamer.com/valheim-will-have-crossplay-with-the-upcoming-xbox-version)
+ - [Halo Infinite studio apologies for &#39;offensive and hurtful&#39; word in Juneteenth cosmetic](https://www.pcgamer.com/halo-infinite-studio-apologies-for-offensive-and-hurtful-word-in-juneteenth-cosmetic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
