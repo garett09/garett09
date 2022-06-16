@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So long fella](http://9gag.com/gag/aAGL6vL)
- - 🚯 [It\u2019s necessary to clap before the game](http://9gag.com/gag/apgnD7D)
+ - 🚖 [Accuracy.](http://9gag.com/gag/awz9mjD)
+ - 🚯 [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)
  - 🚯 [Do you like my new setup?](http://9gag.com/gag/aKmXAOO)<!-- MEMES:END -->
 
 --- 
