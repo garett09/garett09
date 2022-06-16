@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice shovel](http://9gag.com/gag/ang0x30)
- - 🚯 [True or false](http://9gag.com/gag/aM40zRR)
- - 🚯 [Let&#39;s count to five bananas](http://9gag.com/gag/aNPGBmA)<!-- MEMES:END -->
+ - 🚖 [He wants to be picked up.](http://9gag.com/gag/aNPGBL3)
+ - 🚯 [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
+ - 🚯 [True or false](http://9gag.com/gag/aM40zRR)<!-- MEMES:END -->
 
 --- 
 
