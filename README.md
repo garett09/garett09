@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitMEX co-founder Benjamin Delo is sentenced to 30 months probation without home confinement after pleading guilty to violating the US Bank Secrecy Act &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220615/p29#a220615p29)
- - [Investigation: ~300 US crisis pregnancy centers, which try to dissuade people from abortions, share website visitor info with Facebook via Meta&#39;s tracking pixel &lpar;The Markup&rpar;](http://www.techmeme.com/220615/p28#a220615p28)
- - [YouTube Music leapfrogs Spotify Wrapped with new seasonal recap playlists](https://www.theverge.com/2022/6/15/23170282/youtube-music-seasonal-recap-playlists-spotify-wrapped)<!-- TECH:END -->
+ - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)
+ - [Here are some last-minute Father’s Day gifts that should arrive on time](https://www.theverge.com/23166684/fathers-day-tech-gifts-ideas-amazon-kindle-best-buy-apple-deal-sale)
+ - [Orca Security: Microsoft took five months and three patches to fix a critical RCE vulnerability in Azure; critics say the slow response put customers at risk &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220615/p31#a220615p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
