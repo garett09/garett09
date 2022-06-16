@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/aOQnZmr)
- - 🚯 [Bro chill](http://9gag.com/gag/amgOm92)
- - 🚯 [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)<!-- MEMES:END -->
+ - 🚖 [Another employee lied and got me fired. I was going to take her to lunch and a movie.. I hope she likes nature walks and water](http://9gag.com/gag/aegqZ8m)
+ - 🚯 [Crypto holders right now.](http://9gag.com/gag/aKmXv2Z)
+ - 🚯 [Monke gym](http://9gag.com/gag/aPZV87G)<!-- MEMES:END -->
 
 --- 
 
