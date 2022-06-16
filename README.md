@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gatlopp’s goofy take on horror gives the Jumanji genre a new adult spin](https://www.polygon.com/reviews/23167504/gatlopp-review-drinking-game-horror-movie)
- - [Apex Legends&#39; resident healer opens a new clinic on Olympus next week](https://www.pcgamer.com/apex-legends-resident-healer-opens-a-new-clinic-on-olympus-next-week)
- - [ID@Xbox Summer Game Fest Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/06/16/idxbox-summer-game-fest-demo/)<!-- GAME:END -->
+ - [The US to join forces with Japan to produce bleeding-edge 2nm chips by 2025](https://www.pcgamer.com/the-us-to-join-forces-with-japan-to-produce-bleeding-edge-2nm-chips-by-2025)
+ - [Apex Legends’ next event puts Control on World’s Edge](https://www.polygon.com/23171217/apex-legends-lte-awakening-dates-control-lifeline-town-takeover)
+ - [Award-Winning Harpist Slays Elden Ring Baddies By Plucking Some Strings](https://kotaku.com/elden-ring-anna-ellsworth-harp-margit-fell-omen-tree-se-1849071184)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
