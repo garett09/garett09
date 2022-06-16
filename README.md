@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Spiderhead makes its dystopic sci-fi vision seem playful](https://www.theverge.com/23171042/spiderhead-review-netflix-chris-hemsworth)
- - [Sources: Elon Musk addressed Twitter employees for the first time since agreeing to buy the company, discussing potential layoffs, content moderation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p29#a220616p29)
- - [Elon Musk hints that layoffs are in Twitter’s future](https://www.theverge.com/2022/6/16/23171166/elon-musk-twitter-layoffs-revenue)<!-- TECH:END -->
+ - [Meet the unique group of polar bears living with less sea ice](https://www.theverge.com/2022/6/16/23170894/polar-bears-sea-ice-greenland-climate-change-refuge)
+ - [Instagram is chasing TikTok with a new full-screen experience test](https://www.theverge.com/2022/6/16/23170210/instagram-full-screen-video-feed-another-test-tiktok-competition)
+ - [The Weak Argument Jeopardizing Tech Antitrust Legislation](https://www.wired.com/story/american-innovation-choice-online-act-democrats-argument/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
