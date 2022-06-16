@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Adds New Travel Perks In Latest &#39;Un-Carrier&#39; Move     - CNET](https://www.cnet.com/tech/mobile/t-mobile-adds-new-travel-perks-in-latest-un-carrier-move/#ftag=CAD590a51e)
- - [The Razer Blade 14 with an RTX 3080 is over $1,000 off](https://www.theverge.com/good-deals/2022/6/16/23170121/hp-spectre-envy-x360-razer-blade-14-nvidia-rtx-3080-gaming-laptop-deal-sale)
- - [Researchers find a link between Indian police and hackers who planted evidence in 2018 on the PCs of human rights activists jailed on terrorism charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220616/p28#a220616p28)<!-- TECH:END -->
+ - [Netflix’s Spiderhead makes its dystopic sci-fi vision seem playful](https://www.theverge.com/23171042/spiderhead-review-netflix-chris-hemsworth)
+ - [Sources: Elon Musk addressed Twitter employees for the first time since agreeing to buy the company, discussing potential layoffs, content moderation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p29#a220616p29)
+ - [Elon Musk hints that layoffs are in Twitter’s future](https://www.theverge.com/2022/6/16/23171166/elon-musk-twitter-layoffs-revenue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
