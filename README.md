@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He wants to be picked up.](http://9gag.com/gag/aNPGBL3)
- - 🚯 [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
- - 🚯 [True or false](http://9gag.com/gag/aM40zRR)<!-- MEMES:END -->
+ - 🚖 [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
+ - 🚯 [True or false](http://9gag.com/gag/aM40zRR)
+ - 🚯 [Cheese and frickin rice](http://9gag.com/gag/a9142oD)<!-- MEMES:END -->
 
 --- 
 
