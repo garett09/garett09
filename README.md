@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Pakistan banned dating apps like Tinder in September 2020, matchmaking groups catering to Pakistanis on Facebook garnered tens of thousands of members &lpar;Javeria Khalid/Rest of World&rpar;](http://www.techmeme.com/220616/p2#a220616p2)
- - [An overview of apps and services Apple &quot;Sherlocked&quot; at WWDC, like Camo with Continuity Camera, Klarna with Apple Pay Later, and Pillbox with medication tracking &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220616/p1#a220616p1)
- - [&#39;Hug Me&#39; on TikTok: What to Know About the Song From Despicable Me 3     - CNET](https://www.cnet.com/culture/internet/hug-me-on-tiktok-what-to-know-about-the-song-from-despicable-me-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at hacking group Cyber Partisans, which seeks to overthrow Belarus&#39; government and has disrupted Russia&#39;s supply lines in Belarus for the war in Ukraine &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/220616/p4#a220616p4)
+ - [Japan passes an amendment making &quot;online insults&quot; punishable by up to a year in prison, after the suicide of a reality TV star who had faced social media abuse &lpar;CNN&rpar;](http://www.techmeme.com/220616/p3#a220616p3)
+ - [After Pakistan banned dating apps Tinder, Grindr, and Skout in September 2020, Facebook matchmaking groups for Pakistanis gained tens of thousands of members &lpar;Javeria Khalid/Rest of World&rpar;](http://www.techmeme.com/220616/p2#a220616p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
