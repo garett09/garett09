@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alaskan, Finnish, and Japanese companies, alongside the Russian government, are planning Arctic undersea cables, made possible by shrinking ice coverage &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/220616/p12#a220616p12)
- - [Can Democracy Include a World Beyond Humans?](https://www.wired.com/story/can-democracy-include-a-world-beyond-humans/)
- - [Camo update lets you overlay graphics and text when using your phone as a webcam](https://www.theverge.com/2022/6/16/23169694/camo-information-overlays-phone-webcam-app)<!-- TECH:END -->
+ - [Police Linked to Hacking Campaign to Frame Indian Activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
+ - [The Franchise Frenzy Leaves Nothing to the Imagination](https://www.wired.com/story/streaming-lose-headcanon/)
+ - [Particle Hunters Can Spend a Lifetime Searching for Answers](https://www.wired.com/story/particle-hunters-physics-icecube-lhc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
