@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He absolutely loves his new toy](http://9gag.com/gag/azevOqp)
- - 🚯 [Die Autobahn.](http://9gag.com/gag/aBnbPj1)
- - 🚯 [Monke gym](http://9gag.com/gag/aPZV87G)<!-- MEMES:END -->
+ - 🚖 [Monke gym](http://9gag.com/gag/aPZV87G)
+ - 🚯 [Rate my setup](http://9gag.com/gag/a21AyMZ)
+ - 🚯 [He wants to be picked up.](http://9gag.com/gag/aNPGBL3)<!-- MEMES:END -->
 
 --- 
 
