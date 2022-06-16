@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accuracy.](http://9gag.com/gag/awz9mjD)
- - 🚯 [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)
- - 🚯 [Do you like my new setup?](http://9gag.com/gag/aKmXAOO)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t think it could get any better](http://9gag.com/gag/ajg3O28)
+ - 🚯 [Mike&#39;s good](http://9gag.com/gag/awz9m1x)
+ - 🚯 [RIP](http://9gag.com/gag/aOQnZmr)<!-- MEMES:END -->
 
 --- 
 
