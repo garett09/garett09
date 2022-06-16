@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day will have more than 30 free games, including Mass Effect](https://www.theverge.com/2022/6/16/23171580/amazon-prime-day-free-games-mass-effect-legendary-edition)
- - [Activision Blizzard investigated Activision Blizzard and found Activision Blizzard didn’t do anything wrong](https://www.theverge.com/2022/6/16/23171447/activision-blizzard-investigation-sec-filing)
- - [Adobe reports Q2 revenue of $4.39B, up 14% YoY vs. $4.34B est., Digital Media revenue of $3.2B, up 15% YoY, and Digital Experience revenue of $1.1B, up 17% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220616/p35#a220616p35)<!-- TECH:END -->
+ - [Roku raises its ad revenue share for ad-supported streaming channels to 45% from 40% and requires linear channels to use Roku&#39;s ad insertion technology and CDN &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220616/p38#a220616p38)
+ - [HomeLight, which offers AI-powered tools for home buyers, sellers, and real estate agents, raised $60M in equity and $55M in debt at a $1.7B valuation &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220616/p37#a220616p37)
+ - [Google’s Pixel Watch will reportedly have an Apple-like range of straps](https://www.theverge.com/2022/6/16/23171499/google-pixel-watch-straps-smartwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
