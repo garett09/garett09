@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming motherboards in 2022](https://www.pcgamer.com/best-gaming-motherboards)
- - [Original versions of Resident Evil remakes return to Steam after &#39;overwhelming community response&#39;](https://www.pcgamer.com/original-versions-of-resident-evil-remakes-return-to-steam-after-overwhelming-community-response)
- - [Zenless Zone Zero: what&#39;s there to know about HoYoverse&#39;s next action game?](https://www.pcgamer.com/zenless-zone-zero-characters-trailer-gameplay-gacha)<!-- GAME:END -->
+ - [Destiny 2 Cheat Makers Agree To Pay $13.5 Million In Damages To End Bungie Lawsuit](https://kotaku.com/destiny-2-cheaters-elite-boss-tech-13-million-lawsuit-b-1849073677)
+ - [Do Yourself A Favor And Listen To Ryu’s New Street Fighter 6 Theme](https://kotaku.com/street-fighter-6-theme-ryu-music-chun-li-luke-capcom-so-1849073427)
+ - [$13.5M settlement puts the cost of one Destiny 2 cheater at $2,000](https://www.pcgamer.com/dollar135m-settlement-puts-the-cost-of-one-destiny-2-cheater-at-dollar2000)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
