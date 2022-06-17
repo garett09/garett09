@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six features that users won&#39;t see in iOS 16.0 this fall](https://appleinsider.com/articles/22/06/17/six-features-that-users-wont-see-in-ios-160-this-fall?utm_medium=rss)
- - [Either a bird went on vacation or scientists need a tourist to return their equipment](https://www.theverge.com/2022/6/17/23172481/bird-tracker-reward-return-vacation-tourist-dublin-orkney-london)
- - [Sure, Crypto Is Crashing, but Everything Is Perfectly Fine](https://www.wired.com/story/as-crypto-crashes-everything-is-perfectly-fine/)<!-- TECH:END -->
+ - [Samsung has some very lofty goals for foldables this year](https://www.androidauthority.com/samsung-foldable-shipment-estimate-3177651/)
+ - [TikTok says it has completed migrating its US users&#39; data to Oracle&#39;s servers in the US &lpar;Reuters&rpar;](http://www.techmeme.com/220617/p16#a220617p16)
+ - [The Moon Is a Harsh Mistress Makes Lunar Rebellion Fun](https://www.wired.com/2022/06/geeks-guide-robert-heinlein/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
