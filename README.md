@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prague-based online grocery delivery service Rohlik has raised a &amp;euro;220M Series D led by Sofina and says it had revenues of &amp;euro;500M in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220617/p4#a220617p4)
- - [Apple Music, Spotify, Amazon, lose million music subscribers in UK](https://appleinsider.com/articles/22/06/17/apple-music-spotify-amazon-lose-million-music-subscribers-in-uk?utm_medium=rss)
- - [VersusGame, a mobile app that lets content creators pose &quot;prediction contests&quot; to viewers for cash and prizes, has raised a $25M Series A &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/220617/p3#a220617p3)<!-- TECH:END -->
+ - [Daily Authority: 👉 An actual cult in Google?](https://www.androidauthority.com/da-june-17-2022-3177522/)
+ - [How to remove malware from your iPhone or iPad](https://www.androidauthority.com/remove-malware-iphone-3176183/)
+ - [Blockchain.com data: bitcoin&#39;s hash rate fell 4% since the start of the week, as value of revenues paid to miners fell to its lowest level in nearly a year &lpar;Financial Times&rpar;](http://www.techmeme.com/220617/p5#a220617p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
