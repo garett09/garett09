@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has some very lofty goals for foldables this year](https://www.androidauthority.com/samsung-foldable-shipment-estimate-3177651/)
- - [TikTok says it has completed migrating its US users&#39; data to Oracle&#39;s servers in the US &lpar;Reuters&rpar;](http://www.techmeme.com/220617/p16#a220617p16)
- - [The Moon Is a Harsh Mistress Makes Lunar Rebellion Fun](https://www.wired.com/2022/06/geeks-guide-robert-heinlein/)<!-- TECH:END -->
+ - [FAA says Verizon and AT&amp;T will soon be able to use the good 5G](https://www.theverge.com/2022/6/17/23172731/verizon-att-c-band-5g-rollout-faa-deal-airports-plan)
+ - [You can know control who can &lpar;and can’t&rpar; see your WhatsApp profile](https://www.androidauthority.com/whatsapp-hide-profile-3177669/)
+ - [Monolith by Monoprice M1000ANC Headphones review: affordable travel headphones with decent sound](https://appleinsider.com/articles/22/06/17/monolith-by-monoprice-m1000anc-headphones-review-affordable-travel-headphones-with-decent-sound?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
