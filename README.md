@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
- - 🚯 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
- - 🚯 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
+ - 🚖 [Bought a truck and starting my own transport company in August 55.000\u20ac loan total for starting The shortage of drivers is huge so there should be more than enough work for me to make a decent living](http://9gag.com/gag/aE8jQwe)
+ - 🚯 [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
+ - 🚯 [Just to follow up](http://9gag.com/gag/aBnb4B1)<!-- MEMES:END -->
 
 --- 
 
