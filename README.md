@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA says Verizon and AT&amp;T will soon be able to use the good 5G](https://www.theverge.com/2022/6/17/23172731/verizon-att-c-band-5g-rollout-faa-deal-airports-plan)
- - [You can know control who can &lpar;and can’t&rpar; see your WhatsApp profile](https://www.androidauthority.com/whatsapp-hide-profile-3177669/)
- - [Monolith by Monoprice M1000ANC Headphones review: affordable travel headphones with decent sound](https://appleinsider.com/articles/22/06/17/monolith-by-monoprice-m1000anc-headphones-review-affordable-travel-headphones-with-decent-sound?utm_medium=rss)<!-- TECH:END -->
+ - [The original Pokémon Snap for N64 is coming to Nintendo Switch Online next week](https://www.theverge.com/2022/6/17/23172657/pokemon-snap-n64-nintendo-switch-online-release-date)
+ - [How to safely delete duplicates using Apple&#39;s Photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-safely-delete-duplicates-using-apples-photos-in-ios-16?utm_medium=rss)
+ - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
