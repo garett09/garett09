@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And he used to knock people out for fun.](http://9gag.com/gag/amgORM4)
- - 🚯 [Clapping](http://9gag.com/gag/aegqWbp)
- - 🚯 [Qatar is getting ready for the World Cup.](http://9gag.com/gag/aAGLONp)<!-- MEMES:END -->
+ - 🚖 [Clapping](http://9gag.com/gag/aegqWbp)
+ - 🚯 [Good god I\u2019m so glad I got married before this nightmare of a social world.](http://9gag.com/gag/a71mA3x)
+ - 🚯 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)<!-- MEMES:END -->
 
 --- 
 
