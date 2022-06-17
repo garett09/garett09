@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Warriors board game offers the full Warriors experience — if you’d want that](https://www.polygon.com/reviews/23171619/the-warriors-board-game-review)
- - [Elon Musk Faces $258 Billion Lawsuit Over Alleged Dogecoin Pyramid Scheme](https://kotaku.com/elon-musk-lawsuit-dogecoin-258-billion-class-action-cry-1849077456)
- - [Autonauts Has Landed on Xbox](https://news.xbox.com/en-us/2022/06/17/autonauts-has-landed-on-xbox/)<!-- GAME:END -->
+ - [Cruise Kvaris in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/06/17/cruise-kvaris-in-phantasy-star-online-2-new-genesis/)
+ - [Here&#39;s how to sign up for Overwatch 2&#39;s next beta](https://www.pcgamer.com/heres-how-to-sign-up-for-overwatch-2s-next-beta)
+ - [Smash Bros. Ultimate Fan Mod Adds Crono From Chrono Trigger](https://kotaku.com/super-smash-bros-ultimate-chrono-trigger-hero-dragon-qu-1849077740)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
