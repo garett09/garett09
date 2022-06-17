@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [True](http://9gag.com/gag/aogGdQm)
- - 🚯 [How every Eastern European is brought up. Greetings from Romania](http://9gag.com/gag/a0ZDwWZ)
- - 🚯 [How to bully 101](http://9gag.com/gag/awz98Zr)<!-- MEMES:END -->
+ - 🚯 [How to bully 101](http://9gag.com/gag/awz98Zr)
+ - 🚯 [You have 2 wishes left](http://9gag.com/gag/aYrvddq)<!-- MEMES:END -->
 
 --- 
 
