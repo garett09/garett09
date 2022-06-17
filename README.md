@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom is finally making Dragon’s Dogma 2](https://www.polygon.com/23171878/dragons-dogma-2-release-date-capcom-trailer)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Confirmed: Dragon&#39;s Dogma Is Getting A Sequel](https://kotaku.com/dragons-dogma-ii-capcom-sequel-10-year-anniversary-1849074098)<!-- GAME:END -->
+ - [Elon Musk is being sued for $258 billion because of Dogecoin](https://www.pcgamer.com/elon-musk-is-being-sued-for-dollar258-billion-because-of-dogecoin)
+ - [I hope Starfield&#39;s four cities are more Vivec and less Diamond City](https://www.pcgamer.com/i-hope-starfields-four-cities-are-more-vivec-and-less-diamond-city)
+ - [Final Fantasy 7 Remake Intergrade is coming to Steam tomorrow](https://www.pcgamer.com/final-fantasy-7-remake-intergrade-is-coming-to-steam-tomorrow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
