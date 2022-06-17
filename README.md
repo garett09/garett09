@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [V Rising shifts 2 million in a month, gives horselords a big &#39;ol nerf to celebrate](https://www.pcgamer.com/v-rising-shifts-2-million-in-a-month-gives-horselords-a-big-ol-nerf-to-celebrate)
  - [Signalis is a brutally stunning slice of sci-fi survival horror](https://www.pcgamer.com/signalis-survival-horror)
- - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)
- - [Atari shocks the world with decent-looking game](https://www.pcgamer.com/atari-shocks-the-world-with-decent-looking-game)<!-- GAME:END -->
+ - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
