@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based FanClash, which lets users compete with one another with fantasy esports teams via its mobile app, raised a $40M Series B led by Alpha Wave Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220616/p42#a220616p42)
- - [Feral Cats Push Endangered Marsupial to Brink of Extinction     - CNET](https://www.cnet.com/science/biology/feral-cats-push-endangered-marsupial-to-brink-of-extinction/#ftag=CAD590a51e)
- - [Sources: Klarna is in talks to raise fresh funds at a ~$15B valuation, down from its $45.6B valuation in June 2021; source: a deal could yield at least $500M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220616/p41#a220616p41)<!-- TECH:END -->
+ - [Canadian telecom Telus plans to acquire Toronto-based digital health care and wellness services provider LifeWorks for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p46#a220616p46)
+ - [The Original Pokemon Snap Is Coming to Nintendo Switch on June 24     - CNET](https://www.cnet.com/tech/gaming/pokemon-snap-n64-coming-to-nintendo-switch-june-24/#ftag=CAD590a51e)
+ - [Vendr, which helps companies manage SaaS purchasing, has raised a $150M Series B co-led by Craft Ventures and Vision Fund 2 at a $1B valuation &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220616/p45#a220616p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
