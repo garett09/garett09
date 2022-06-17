@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Such Innocence...](http://9gag.com/gag/adgWooB)
- - 🚯 [Instructions on tying a scarf](http://9gag.com/gag/a0ZDELQ)
- - 🚯 [Best car salesman ever](http://9gag.com/gag/aLvOdj6)<!-- MEMES:END -->
+ - 🚯 [Thank you for your sacrifice and service](http://9gag.com/gag/aVx9V9w)
+ - 🚯 [Drops the mic!](http://9gag.com/gag/a21AbMY)<!-- MEMES:END -->
 
 --- 
 
