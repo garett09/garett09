@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👉 An actual cult in Google?](https://www.androidauthority.com/da-june-17-2022-3177522/)
- - [How to remove malware from your iPhone or iPad](https://www.androidauthority.com/remove-malware-iphone-3176183/)
- - [Blockchain.com data: bitcoin&#39;s hash rate fell 4% since the start of the week, as value of revenues paid to miners fell to its lowest level in nearly a year &lpar;Financial Times&rpar;](http://www.techmeme.com/220617/p5#a220617p5)<!-- TECH:END -->
+ - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
+ - [Apple starts taking preorders start for M2 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/17/apple-starts-taking-preorders-start-for-m2-13-inch-macbook-pro?utm_medium=rss)
+ - [Sources: China&#39;s central bank accepted Ant Group&#39;s application to set up a financial holding company, a key step in a year-long revamp of the fintech business &lpar;Reuters&rpar;](http://www.techmeme.com/220617/p7#a220617p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
