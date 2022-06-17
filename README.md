@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He saw 14 million 605 possibilities and came 1 conclusion..](http://9gag.com/gag/a0ZDMmL)
- - 🚯 [Companies shoving We NeEd MoRe DiVeRsIty, yet we had goddamn masterpieces like this without making it a big deal](http://9gag.com/gag/aQXDOA7)
+ - 🚖 [Her dad every time got me!](http://9gag.com/gag/ajg3KjR)
+ - 🚯 [He saw 14 million 605 possibilities and came 1 conclusion..](http://9gag.com/gag/a0ZDMmL)
  - 🚯 [Masterpiece](http://9gag.com/gag/aDDqQW9)<!-- MEMES:END -->
 
 --- 
