@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [V Rising shifts 2 million in a month, gives horselords a big &#39;ol nerf to celebrate](https://www.pcgamer.com/v-rising-shifts-2-million-in-a-month-gives-horselords-a-big-ol-nerf-to-celebrate)
- - [Signalis is a brutally stunning slice of sci-fi survival horror](https://www.pcgamer.com/signalis-survival-horror)
- - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 20 to 24](https://news.xbox.com/en-us/2022/06/17/next-week-on-xbox-new-games-for-june-20-to-24/)
+ - [Trigun Stampede anime announced, coming to Crunchyroll in 2023](https://www.polygon.com/23172453/trigun-anime-coming-2023-crunchyroll)
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
