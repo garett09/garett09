@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bought a truck and starting my own transport company in August 55.000\u20ac loan total for starting The shortage of drivers is huge so there should be more than enough work for me to make a decent living](http://9gag.com/gag/aE8jQwe)
- - 🚯 [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
- - 🚯 [Just to follow up](http://9gag.com/gag/aBnb4B1)<!-- MEMES:END -->
+ - 🚖 [Just to follow up](http://9gag.com/gag/aBnb4B1)
+ - 🚯 [Hiding place during war in Vietnam](http://9gag.com/gag/aRr8Dd5)
+ - 🚯 [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)<!-- MEMES:END -->
 
 --- 
 
