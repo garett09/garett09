@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clapping](http://9gag.com/gag/aegqWbp)
- - 🚯 [Good god I\u2019m so glad I got married before this nightmare of a social world.](http://9gag.com/gag/a71mA3x)
- - 🚯 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)<!-- MEMES:END -->
+ - 🚖 [You deserve better because you know your worth.](http://9gag.com/gag/aogGnB2)
+ - 🚯 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
+ - 🚯 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
 
 --- 
 
