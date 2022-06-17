@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)
- - 🚯 [The other cows will never believe him](http://9gag.com/gag/a71mAwx)
+ - 🚖 [True](http://9gag.com/gag/aogGdQm)
+ - 🚯 [How every Eastern European is brought up. Greetings from Romania](http://9gag.com/gag/a0ZDwWZ)
  - 🚯 [How to bully 101](http://9gag.com/gag/awz98Zr)<!-- MEMES:END -->
 
 --- 
