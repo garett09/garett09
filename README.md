@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cruise Kvaris in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/06/17/cruise-kvaris-in-phantasy-star-online-2-new-genesis/)
- - [Here&#39;s how to sign up for Overwatch 2&#39;s next beta](https://www.pcgamer.com/heres-how-to-sign-up-for-overwatch-2s-next-beta)
- - [Smash Bros. Ultimate Fan Mod Adds Crono From Chrono Trigger](https://kotaku.com/super-smash-bros-ultimate-chrono-trigger-hero-dragon-qu-1849077740)<!-- GAME:END -->
+ - [10 Things I Wished I Knew Before Starting Neon White](https://kotaku.com/neon-white-tips-tricks-secrets-shortcuts-nintendo-switc-1849078211)
+ - [TMNT: Shredder&#39;s Revenge Is Heckin&#39; Dope](https://kotaku.com/tmnt-shredders-revenge-review-tribute-game-dotemu-multi-1849077972)
+ - [Madcap modders have ported PS2 platformer Jak and Daxter to PC](https://www.pcgamer.com/madcap-modders-have-ported-ps2-platformer-jak-and-daxter-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
