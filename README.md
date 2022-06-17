@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty season 4 raises the stakes with ‘Mercenaries of Fortune’](https://www.polygon.com/23172557/call-of-duty-warzone-vanguard-season-4-content-roadmap)
- - [Ride Alongside the Dark Horses of World of Tanks in Newest Season, The Independents](https://news.xbox.com/en-us/2022/06/17/world-of-tanks-new-independents-season/)
- - [A Closer Look at Bitmap Bureau’s New Title, Final Vendetta](https://news.xbox.com/en-us/2022/06/17/a-closer-look-at-our-new-title-final-vendetta/)<!-- GAME:END -->
+ - [Vince McMahon Steps Back As WWE CEO Amid Investigation Of Alleged Employee Affair](https://kotaku.com/wwe-vince-mcmahon-stephanie-mcmahon-investigation-affai-1849077094)
+ - [Nilah is League of Legends’ new whip-wielding champion](https://www.polygon.com/23172666/nilah-league-of-legends-reveal-trailer)
+ - [Share of the Week: Silhouettes](https://blog.playstation.com/2022/06/17/share-of-the-week-silhouettes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
