@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian telecom Telus plans to acquire Toronto-based digital health care and wellness services provider LifeWorks for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p46#a220616p46)
- - [The Original Pokemon Snap Is Coming to Nintendo Switch on June 24     - CNET](https://www.cnet.com/tech/gaming/pokemon-snap-n64-coming-to-nintendo-switch-june-24/#ftag=CAD590a51e)
- - [Vendr, which helps companies manage SaaS purchasing, has raised a $150M Series B co-led by Craft Ventures and Vision Fund 2 at a $1B valuation &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220616/p45#a220616p45)<!-- TECH:END -->
+ - [Playermaker, which makes footwear-mounted trackers to monitor athlete&#39;s performance, has raised $40M led by Ventura Capital Group &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220616/p48#a220616p48)
+ - [Why The Boston Celtics Lost NBA Finals Game 6, According to Science     - CNET](https://www.cnet.com/science/biology/why-the-boston-celtics-lost-nba-finals-game-6-according-to-science/#ftag=CAD590a51e)
+ - [NYC-based Transfr, which offers businesses VR simulations for training workers, has raised a $35M Series B led by Lumos Capital Group &lpar;FinSMEs&rpar;](http://www.techmeme.com/220616/p47#a220616p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
