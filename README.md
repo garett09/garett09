@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
- - [Apple starts taking preorders start for M2 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/17/apple-starts-taking-preorders-start-for-m2-13-inch-macbook-pro?utm_medium=rss)
- - [Sources: China&#39;s central bank accepted Ant Group&#39;s application to set up a financial holding company, a key step in a year-long revamp of the fintech business &lpar;Reuters&rpar;](http://www.techmeme.com/220617/p7#a220617p7)<!-- TECH:END -->
+ - [Best deals June 17: 20% off Eero router 2-pack, Roku Ultra 4K for $80, AirPods for $99, more](https://appleinsider.com/articles/22/06/17/best-deals-june-17-20-off-eero-router-2-pack-roku-ultra-4k-for-80-airpods-for-99-more?utm_medium=rss)
+ - [Kids under five can now be vaccinated against COVID-19](https://www.theverge.com/2022/6/17/23167317/under-five-covid-vaccine-pfizer-moderna)
+ - [Apple 35W Dual USB-C power adapters available to order](https://appleinsider.com/articles/22/06/17/apple-35w-dual-usb-c-power-adapters-available-to-order?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
