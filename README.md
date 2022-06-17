@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Catalyst Black have controller support?](https://www.androidauthority.com/pair-controller-catalyst-black-3177358/)
- - [Crisis Core: Final Fantasy VII remake coming to consoles and PC this winter](https://www.theverge.com/2022/6/16/23171813/crisis-core-final-fantasy-7-remake-ps4-ps5-pc-steam)
- - [Final Fantasy VII Remake’s sequel is called Rebirth, and it’s out next year](https://www.theverge.com/2022/6/16/23170332/final-fantasy-vii-remake-part-2-rebirth-ps5)<!-- TECH:END -->
+ - [India-based FanClash, which lets users compete with one another with fantasy esports teams via its mobile app, raised a $40M Series B led by Alpha Wave Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220616/p42#a220616p42)
+ - [Feral Cats Push Endangered Marsupial to Brink of Extinction     - CNET](https://www.cnet.com/science/biology/feral-cats-push-endangered-marsupial-to-brink-of-extinction/#ftag=CAD590a51e)
+ - [Sources: Klarna is in talks to raise fresh funds at a ~$15B valuation, down from its $45.6B valuation in June 2021; source: a deal could yield at least $500M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220616/p41#a220616p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
