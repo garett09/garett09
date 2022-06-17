@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals June 17: 20% off Eero router 2-pack, Roku Ultra 4K for $80, AirPods for $99, more](https://appleinsider.com/articles/22/06/17/best-deals-june-17-20-off-eero-router-2-pack-roku-ultra-4k-for-80-airpods-for-99-more?utm_medium=rss)
- - [Kids under five can now be vaccinated against COVID-19](https://www.theverge.com/2022/6/17/23167317/under-five-covid-vaccine-pfizer-moderna)
- - [Apple 35W Dual USB-C power adapters available to order](https://appleinsider.com/articles/22/06/17/apple-35w-dual-usb-c-power-adapters-available-to-order?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla layoffs reportedly affect hourly workers, too](https://www.theverge.com/2022/6/17/23172435/tesla-layoffs-expand-elon-musk-hourly-salaried)
+ - [US lawmakers call for universal charging standard - but not necessarily for USB-C](https://appleinsider.com/articles/22/06/17/us-lawmakers-call-for-universal-charging-standard---but-not-necessarily-for-usb-c?utm_medium=rss)
+ - [These Retro Gaming Consoles Deliver a Dose of Nostalgia](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
