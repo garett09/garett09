@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchyroll announces reboot of space western Trigun](https://www.theverge.com/2022/6/17/23172462/trigun-stampede-anime-2023-crunchyroll)
- - [Facebook will make it it easier to move Whatsapp from Android to iPhone](https://appleinsider.com/articles/22/06/17/facebook-will-make-it-it-easier-to-move-whatsapp-from-android-to-iphone?utm_medium=rss)
- - [Aidoc, which develops AI-based tools for radiologists to analyze CT scans and X-rays, has raised a $110M Series D, bringing its total funding to about $250M &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/220617/p12#a220617p12)<!-- TECH:END -->
+ - [Six features that users won&#39;t see in iOS 16.0 this fall](https://appleinsider.com/articles/22/06/17/six-features-that-users-wont-see-in-ios-160-this-fall?utm_medium=rss)
+ - [Either a bird went on vacation or scientists need a tourist to return their equipment](https://www.theverge.com/2022/6/17/23172481/bird-tracker-reward-return-vacation-tourist-dublin-orkney-london)
+ - [Sure, Crypto Is Crashing, but Everything Is Perfectly Fine](https://www.wired.com/story/as-crypto-crashes-everything-is-perfectly-fine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
