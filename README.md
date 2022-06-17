@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer guide #363: Friday, June 17](https://www.pcgamer.com/wordle-today-june-17-363)
- - [Welcome To Sushi Town](https://kotaku.com/welcome-to-sushi-town-1849074702)
- - [Epic&#39;s free multiplayer tools let developers enable Steam crossplay](https://www.pcgamer.com/epics-free-multiplayer-tools-let-developers-enable-steam-crossplay)<!-- GAME:END -->
+ - [Genshin Impact codes: free Primogems and Mora for June](https://www.pcgamer.com/redeem-genshin-impact-codes)
+ - [Game of Thrones’ Jon Snow set to get his own series](https://www.polygon.com/game-of-thrones/23172315/game-of-thrones-jon-snow-sequel-series)
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
