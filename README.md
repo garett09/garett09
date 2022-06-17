@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [True](http://9gag.com/gag/aogGdQm)
- - 🚯 [You have 2 wishes left](http://9gag.com/gag/aYrvddq)
- - 🚯 [How to bully 101](http://9gag.com/gag/awz98Zr)<!-- MEMES:END -->
+ - 🚯 [Where he at](http://9gag.com/gag/adgW4eB)
+ - 🚯 [Yap..next question.](http://9gag.com/gag/aRr8yR7)<!-- MEMES:END -->
 
 --- 
 
