@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to bully 101](http://9gag.com/gag/awz98Zr)
- - 🚯 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)
- - 🚯 [Life in London](http://9gag.com/gag/a71mAoq)<!-- MEMES:END -->
+ - 🚖 [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)
+ - 🚯 [The other cows will never believe him](http://9gag.com/gag/a71mAwx)
+ - 🚯 [How to bully 101](http://9gag.com/gag/awz98Zr)<!-- MEMES:END -->
 
 --- 
 
