@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, China Has Not Detected Radio Signals From Alien Civilizations     - CNET](https://www.cnet.com/science/space/no-china-has-not-detected-radio-signals-from-alien-civilizations/#ftag=CAD590a51e)
- - [London-based Playermaker, whose footwear-mounted trackers monitor the performance of athletes of all skill levels, raised $40M led by Ventura Capital Group &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220616/p48#a220616p48)
- - [Why The Boston Celtics Lost NBA Finals Game 6, According to Science     - CNET](https://www.cnet.com/science/biology/why-the-boston-celtics-lost-nba-finals-game-6-according-to-science/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy 2-day Apple flash sale: up to $200 off MacBooks, iPhones, iPads, Apple Watch, AirPods &amp; more](https://appleinsider.com/articles/22/06/17/best-buy-2-day-apple-flash-sale-up-to-200-off-macbooks-iphones-ipads-apple-watch-airpods-more?utm_medium=rss)
+ - [Samsung Galaxy XCover 6 Pro has a launch date, rugged tablet tagging along](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-galaxy-tab-active-4-pro-3177432/)
+ - [How to use Apple&#39;s Contacts app hidden power to improve your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-use-apples-contacts-app-hidden-power-to-improve-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
