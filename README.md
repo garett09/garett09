@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla layoffs reportedly affect hourly workers, too](https://www.theverge.com/2022/6/17/23172435/tesla-layoffs-expand-elon-musk-hourly-salaried)
- - [US lawmakers call for universal charging standard - but not necessarily for USB-C](https://appleinsider.com/articles/22/06/17/us-lawmakers-call-for-universal-charging-standard---but-not-necessarily-for-usb-c?utm_medium=rss)
- - [These Retro Gaming Consoles Deliver a Dose of Nostalgia](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
+ - [Crunchyroll announces reboot of space western Trigun](https://www.theverge.com/2022/6/17/23172462/trigun-stampede-anime-2023-crunchyroll)
+ - [Facebook will make it it easier to move Whatsapp from Android to iPhone](https://appleinsider.com/articles/22/06/17/facebook-will-make-it-it-easier-to-move-whatsapp-from-android-to-iphone?utm_medium=rss)
+ - [Aidoc, which develops AI-based tools for radiologists to analyze CT scans and X-rays, has raised a $110M Series D, bringing its total funding to about $250M &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/220617/p12#a220617p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
