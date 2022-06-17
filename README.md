@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The original Pokémon Snap for N64 is coming to Nintendo Switch Online next week](https://www.theverge.com/2022/6/17/23172657/pokemon-snap-n64-nintendo-switch-online-release-date)
- - [How to safely delete duplicates using Apple&#39;s Photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-safely-delete-duplicates-using-apples-photos-in-ios-16?utm_medium=rss)
- - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)<!-- TECH:END -->
+ - [The US DOJ says RSocks, a Russian botnet used to hijack millions of devices worldwide for use as proxy servers, was disrupted in an international operation &lpar;Andrea Peterson/The Record&rpar;](http://www.techmeme.com/220617/p19#a220617p19)
+ - [Samsung’s latest foldables finally gain eSIM support in the US](https://www.androidauthority.com/samsungs-foldables-esim-3177736/)
+ - [No One Knows How Safe New Driver-Assistance Systems Really Are](https://www.wired.com/story/advanced-driver-assistance-system-safety-tesla-autopilot/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
