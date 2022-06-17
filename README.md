@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vince McMahon Steps Back As WWE CEO Amid Investigation Of Alleged Employee Affair](https://kotaku.com/wwe-vince-mcmahon-stephanie-mcmahon-investigation-affai-1849077094)
- - [Nilah is League of Legends’ new whip-wielding champion](https://www.polygon.com/23172666/nilah-league-of-legends-reveal-trailer)
- - [Share of the Week: Silhouettes](https://blog.playstation.com/2022/06/17/share-of-the-week-silhouettes/)<!-- GAME:END -->
+ - [The Warriors board game offers the full Warriors experience — if you’d want that](https://www.polygon.com/reviews/23171619/the-warriors-board-game-review)
+ - [Elon Musk Faces $258 Billion Lawsuit Over Alleged Dogecoin Pyramid Scheme](https://kotaku.com/elon-musk-lawsuit-dogecoin-258-billion-class-action-cry-1849077456)
+ - [Autonauts Has Landed on Xbox](https://news.xbox.com/en-us/2022/06/17/autonauts-has-landed-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
