@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gaming to the end](http://9gag.com/gag/a519jEg)
- - 🚯 [To everyone about to say that I&#39;m just an arsehole, yes you&#39;re correct.](http://9gag.com/gag/aBnbG2A)
- - 🚯 [Cheese and frickin rice](http://9gag.com/gag/a9142oD)<!-- MEMES:END -->
+ - 🚖 [Perfect setup for crypto traders](http://9gag.com/gag/a81v2X6)
+ - 🚯 [I&#39;m this old](http://9gag.com/gag/a81vwO6)
+ - 🚯 [Me on the right](http://9gag.com/gag/arnDqmV)<!-- MEMES:END -->
 
 --- 
 
