@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok: Facebook wants to connect you, we just want to entertain you](https://www.theverge.com/2022/6/17/23172276/tiktok-facebook-difference-entertainment-social-connections)
- - [Sources: SpaceX fired employees who helped write and distribute an open letter calling Elon Musk&#39;s behavior &quot;a frequent source of distraction and embarrassment&quot; &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/220617/p2#a220617p2)
- - [Sonos says customers that got extra speakers don’t have to send them back](https://www.theverge.com/2022/6/17/23172282/sonos-ordering-glitch-extra-speakers-keep-them-free-ftc-rules)<!-- TECH:END -->
+ - [Prague-based online grocery delivery service Rohlik has raised a &amp;euro;220M Series D led by Sofina and says it had revenues of &amp;euro;500M in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220617/p4#a220617p4)
+ - [Apple Music, Spotify, Amazon, lose million music subscribers in UK](https://appleinsider.com/articles/22/06/17/apple-music-spotify-amazon-lose-million-music-subscribers-in-uk?utm_medium=rss)
+ - [VersusGame, a mobile app that lets content creators pose &quot;prediction contests&quot; to viewers for cash and prizes, has raised a $25M Series A &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/220617/p3#a220617p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
