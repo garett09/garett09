@@ -199,7 +199,7 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You deserve better because you know your worth.](http://9gag.com/gag/aogGnB2)
+ - 🚖 [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
  - 🚯 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
  - 🚯 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
 
