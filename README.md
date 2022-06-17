@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk is being sued for $258 billion because of Dogecoin](https://www.pcgamer.com/elon-musk-is-being-sued-for-dollar258-billion-because-of-dogecoin)
- - [I hope Starfield&#39;s four cities are more Vivec and less Diamond City](https://www.pcgamer.com/i-hope-starfields-four-cities-are-more-vivec-and-less-diamond-city)
- - [Final Fantasy 7 Remake Intergrade is coming to Steam tomorrow](https://www.pcgamer.com/final-fantasy-7-remake-intergrade-is-coming-to-steam-tomorrow)<!-- GAME:END -->
+ - [The robot comedy Brian and Charles finds the sweeter side of Ex Machina](https://www.polygon.com/reviews/22898918/brian-and-charles-review)
+ - [Marvel&#39;s next Midnight Sons comic looks a bit more like the Midnight Suns videogame](https://www.pcgamer.com/marvels-next-midnight-sons-comic-looks-a-bit-more-like-the-midnight-suns-videogame)
+ - [Our Favorite Cosplay From MomoCon 2022](https://kotaku.com/momocon-2022-cosplay-photos-video-gallery-showcase-atla-1849057097)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
