@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finnish footballer with crazy celebration](http://9gag.com/gag/a9140gZ)
- - 🚯 [Good cop guy](http://9gag.com/gag/aE8j5rx)
- - 🚯 [This is fine](http://9gag.com/gag/aVx95zn)<!-- MEMES:END -->
+ - 🚖 [Wah](http://9gag.com/gag/aYrv0GN)
+ - 🚯 [Very 90s sounds](http://9gag.com/gag/a21ApEp)
+ - 🚯 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)<!-- MEMES:END -->
 
 --- 
 
