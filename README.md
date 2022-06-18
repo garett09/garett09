@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nope, not my problem.](http://9gag.com/gag/adgWAbZ)
- - 🚯 [Addiction](http://9gag.com/gag/aDDq9RZ)
- - 🚯 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)<!-- MEMES:END -->
+ - 🚖 [Fake concrete blocks](http://9gag.com/gag/amgOyx2)
+ - 🚯 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)
+ - 🚯 [Always the winning team.](http://9gag.com/gag/a5193NN)<!-- MEMES:END -->
 
 --- 
 
