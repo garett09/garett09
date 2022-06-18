@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is Energy Star and How Does It Save You Money?](https://www.wired.com/story/energy-star-program-explainer/)
- - [Some Scientists Coined a New Name for Summer: ‘Danger Season’](https://www.wired.com/story/some-scientists-have-a-new-name-for-summer-danger-season/)
- - [A jury finds ex-Amazon engineer Paige Thompson guilty of wire fraud and hacking charges for downloading the personal info of 100M+ Capital One customers in 2019 &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220618/p6#a220618p6)<!-- TECH:END -->
+ - [Back Up Your Digital Life With the Best Cloud Storage Services](https://www.wired.com/gallery/best-cloud-storage-services/)
+ - [An Alleged Russian Spy Was Busted Trying to Intern at The Hague](https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundup/)
+ - [Microsoft’s weird Surface Duo 2 has surprisingly become my favorite device of the year](https://www.theverge.com/23171638/microsoft-surface-duo-2-dual-screen-revisit-updates-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
