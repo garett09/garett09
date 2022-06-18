@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)
+ - 🚖 [Nope, not my problem.](http://9gag.com/gag/adgWAbZ)
  - 🚯 [Addiction](http://9gag.com/gag/aDDq9RZ)
- - 🚯 [A man can never forget his first car](http://9gag.com/gag/ang0ZN5)<!-- MEMES:END -->
+ - 🚯 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)<!-- MEMES:END -->
 
 --- 
 
