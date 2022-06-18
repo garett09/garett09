@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [First time watching as a 35yo, amazing](http://9gag.com/gag/aegqPzq)
- - 🚯 [And so it was written](http://9gag.com/gag/abgLmWE)
- - 🚯 [He definetly was in there](http://9gag.com/gag/aXrmGvv)<!-- MEMES:END -->
+ - 🚯 [He definetly was in there](http://9gag.com/gag/aXrmGvv)
+ - 🚯 [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)<!-- MEMES:END -->
 
 --- 
 
