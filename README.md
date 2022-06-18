@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes animals and people need to be put in their place.](http://9gag.com/gag/aVx94mv)
- - 🚯 [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)
- - 🚯 [True](http://9gag.com/gag/aRr89vB)<!-- MEMES:END -->
+ - 🚖 [Modern victimhood need modern solutions](http://9gag.com/gag/a0ZDDYZ)
+ - 🚯 [Floating in the salt pools of Siwa Oasis in Egypt](http://9gag.com/gag/adgW4EN)
+ - 🚯 [Meet Midas.. A cute cat with a rare genetic Mutation which gave her 2 pairs of ears](http://9gag.com/gag/ang0WW5)<!-- MEMES:END -->
 
 --- 
 
