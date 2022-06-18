@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nike cow](http://9gag.com/gag/a71mBXL)
- - 🚯 [If you know\u2026](http://9gag.com/gag/aDDqqBw)
+ - 🚖 [And dont deal in absolutes](http://9gag.com/gag/aRr8WQM)
+ - 🚯 [Addiction](http://9gag.com/gag/aDDq9RZ)
  - 🚯 [Making some popcorn](http://9gag.com/gag/azevzvq)<!-- MEMES:END -->
 
 --- 
