@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Washing mockine](http://9gag.com/gag/a41ByP1)
+ - 🚖 [Always the winning team.](http://9gag.com/gag/a5193NN)
  - 🚯 [Yeah...](http://9gag.com/gag/aRr8dNj)
- - 🚯 [Always the winning team.](http://9gag.com/gag/a5193NN)<!-- MEMES:END -->
+ - 🚯 [Improvise, Adapt, Overcome](http://9gag.com/gag/aKmX5P3)<!-- MEMES:END -->
 
 --- 
 
