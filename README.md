@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And dont deal in absolutes](http://9gag.com/gag/aRr8WQM)
- - 🚯 [Addiction](http://9gag.com/gag/aDDq9RZ)
- - 🚯 [Making some popcorn](http://9gag.com/gag/azevzvq)<!-- MEMES:END -->
+ - 🚖 [Making some popcorn](http://9gag.com/gag/azevzvq)
+ - 🚯 [The Man on the Moon](http://9gag.com/gag/a0ZDGKZ)
+ - 🚯 [Engraved into the halls](http://9gag.com/gag/a21AV2d)<!-- MEMES:END -->
 
 --- 
 
