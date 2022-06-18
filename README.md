@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fake concrete blocks](http://9gag.com/gag/amgOyx2)
- - 🚯 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)
+ - 🚖 [Washing mockine](http://9gag.com/gag/a41ByP1)
+ - 🚯 [Yeah...](http://9gag.com/gag/aRr8dNj)
  - 🚯 [Always the winning team.](http://9gag.com/gag/a5193NN)<!-- MEMES:END -->
 
 --- 
