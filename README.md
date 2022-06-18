@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Agreed](http://9gag.com/gag/aKmXNw1)
- - 🚯 [Sometimes animals and people need to be put in their place.](http://9gag.com/gag/aVx94mv)
- - 🚯 [Impossible](http://9gag.com/gag/a519yqq)<!-- MEMES:END -->
+ - 🚖 [Sometimes animals and people need to be put in their place.](http://9gag.com/gag/aVx94mv)
+ - 🚯 [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)
+ - 🚯 [True](http://9gag.com/gag/aRr89vB)<!-- MEMES:END -->
 
 --- 
 
