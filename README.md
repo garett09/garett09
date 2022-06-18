@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timelapse of Europa and lo orbiting Jupiter captured by Cassini probe](http://9gag.com/gag/a71mmxx)
- - 🚯 [A good practice example where people and stores from Romania have donated fruits, which are about to expire](http://9gag.com/gag/a71mm9r)
+ - 🚖 [Interesting....I need to change jobs](http://9gag.com/gag/azevvON)
+ - 🚯 [Call the poliiice](http://9gag.com/gag/abgLogE)
  - 🚯 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)<!-- MEMES:END -->
 
 --- 
