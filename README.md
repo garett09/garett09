@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Problem With Pronouns](https://www.wired.com/story/my-problem-with-pronouns/)
- - [11 Great Deals on Coffee Gear and Sex Tech](https://www.wired.com/story/weekend-deals-june-18-2022/)
- - [I Finally Found the Perfect Phone Tripod. But There Are 2 Big Problems     - CNET](https://www.cnet.com/tech/mobile/i-finally-found-the-perfect-phone-tripod-but-there-are-2-big-problems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is Energy Star and How Does It Save You Money?](https://www.wired.com/story/energy-star-program-explainer/)
+ - [Some Scientists Coined a New Name for Summer: ‘Danger Season’](https://www.wired.com/story/some-scientists-have-a-new-name-for-summer-danger-season/)
+ - [A jury finds ex-Amazon engineer Paige Thompson guilty of wire fraud and hacking charges for downloading the personal info of 100M+ Capital One customers in 2019 &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/220618/p6#a220618p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
