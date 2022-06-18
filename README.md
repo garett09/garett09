@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apex predator](http://9gag.com/gag/aPZV0zg)
- - 🚯 [Emotional damage: 99999](http://9gag.com/gag/aogGGyn)
+ - 🚖 [Dat look](http://9gag.com/gag/azevzBN)
+ - 🚯 [Nike cow](http://9gag.com/gag/a71mBXL)
  - 🚯 [The IT Star Crowd Trek](http://9gag.com/gag/aOQnOZN)<!-- MEMES:END -->
 
 --- 
