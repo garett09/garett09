@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making some popcorn](http://9gag.com/gag/azevzvq)
- - 🚯 [The Man on the Moon](http://9gag.com/gag/a0ZDGKZ)
- - 🚯 [Engraved into the halls](http://9gag.com/gag/a21AV2d)<!-- MEMES:END -->
+ - 🚖 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)
+ - 🚯 [Addiction](http://9gag.com/gag/aDDq9RZ)
+ - 🚯 [A man can never forget his first car](http://9gag.com/gag/ang0ZN5)<!-- MEMES:END -->
 
 --- 
 
