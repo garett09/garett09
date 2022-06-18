@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always the winning team.](http://9gag.com/gag/a5193NN)
- - 🚯 [Yeah...](http://9gag.com/gag/aRr8dNj)
- - 🚯 [Improvise, Adapt, Overcome](http://9gag.com/gag/aKmX5P3)<!-- MEMES:END -->
+ - 🚖 [Finnish footballer with crazy celebration](http://9gag.com/gag/a9140gZ)
+ - 🚯 [Good cop guy](http://9gag.com/gag/aE8j5rx)
+ - 🚯 [This is fine](http://9gag.com/gag/aVx95zn)<!-- MEMES:END -->
 
 --- 
 
