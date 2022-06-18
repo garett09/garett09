@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)
- - 🚯 [It still gets me every time](http://9gag.com/gag/azevvLK)
- - 🚯 [A good practice example where people and stores from Romania have donated fruits, which are about to expire](http://9gag.com/gag/a71mm9r)<!-- MEMES:END -->
+ - 🚖 [Timelapse of Europa and lo orbiting Jupiter captured by Cassini probe](http://9gag.com/gag/a71mmxx)
+ - 🚯 [A good practice example where people and stores from Romania have donated fruits, which are about to expire](http://9gag.com/gag/a71mm9r)
+ - 🚯 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)<!-- MEMES:END -->
 
 --- 
 
