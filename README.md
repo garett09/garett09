@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting....I need to change jobs](http://9gag.com/gag/azevvON)
- - 🚯 [Call the poliiice](http://9gag.com/gag/abgLogE)
- - 🚯 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)<!-- MEMES:END -->
+ - 🚖 [Apex predator](http://9gag.com/gag/aPZV0zg)
+ - 🚯 [Emotional damage: 99999](http://9gag.com/gag/aogGGyn)
+ - 🚯 [The IT Star Crowd Trek](http://9gag.com/gag/aOQnOZN)<!-- MEMES:END -->
 
 --- 
 
