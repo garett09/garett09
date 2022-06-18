@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dat look](http://9gag.com/gag/azevzBN)
- - 🚯 [Nike cow](http://9gag.com/gag/a71mBXL)
- - 🚯 [The IT Star Crowd Trek](http://9gag.com/gag/aOQnOZN)<!-- MEMES:END -->
+ - 🚖 [Nike cow](http://9gag.com/gag/a71mBXL)
+ - 🚯 [If you know\u2026](http://9gag.com/gag/aDDqqBw)
+ - 🚯 [Making some popcorn](http://9gag.com/gag/azevzvq)<!-- MEMES:END -->
 
 --- 
 
