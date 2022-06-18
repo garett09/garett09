@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Indie publisher Shiro Unlimited has some great new games coming soon](https://www.pcgamer.com/indie-publisher-shiro-unlimited-has-some-great-new-games-coming-soon)
  - [Today&#39;s Wordle answer guide #364: Saturday, June 18](https://www.pcgamer.com/wordle-today-june-18-364)
- - [Ecstatica was a survival horror game where everyone was made of balls](https://www.pcgamer.com/saturday-crapshoot-ecstatica)
- - [Instead of Fallout 5, I wish Bethesda would make literally anything else](https://www.pcgamer.com/instead-of-fallout-5-i-wish-bethesda-would-make-literally-anything-else)<!-- GAME:END -->
+ - [Ecstatica was a survival horror game where everyone was made of balls](https://www.pcgamer.com/saturday-crapshoot-ecstatica)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
