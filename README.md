@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First time watching as a 35yo, amazing](http://9gag.com/gag/aegqPzq)
- - 🚯 [He definetly was in there](http://9gag.com/gag/aXrmGvv)
- - 🚯 [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)<!-- MEMES:END -->
+ - 🚖 [Agreed](http://9gag.com/gag/aKmXNw1)
+ - 🚯 [Sometimes animals and people need to be put in their place.](http://9gag.com/gag/aVx94mv)
+ - 🚯 [Impossible](http://9gag.com/gag/a519yqq)<!-- MEMES:END -->
 
 --- 
 
