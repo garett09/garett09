@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aRr89vB)
- - 🚯 [Kung Fu Panda Version](http://9gag.com/gag/aE8jjpn)
- - 🚯 [Grateful to be part of this beautiful time.](http://9gag.com/gag/aAGLq3p)<!-- MEMES:END -->
+ - 🚖 [Using 3D glasses at a music festival](http://9gag.com/gag/aegqq9O)
+ - 🚯 [It\u2019s ladies night, b*tches drink free](http://9gag.com/gag/aRr88z2)
+ - 🚯 [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)<!-- MEMES:END -->
 
 --- 
 
