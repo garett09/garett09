@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minifigure Mayhem begins September 2 when LEGO Brawls hits PlayStation](https://blog.playstation.com/2022/06/18/minifigure-mayhem-begins-september-2-when-lego-brawls-hits-playstation/)
- - [Minifigure Mayhem begins September 2 when LEGO Brawls hits PlayStation](https://blog.playstation.com/2022/06/18/minifigure-mayhem-begins-september-2-when-lego-brawls-hits-playstation/)
- - [9 delightfully spooky horror shows to watch at home](https://www.polygon.com/what-to-watch/23169971/best-horror-tv-shows-watch-streaming-good-series)<!-- GAME:END -->
+ - [The Legend of Heroes: Trails from Zero is going hard on features for the PC port](https://www.pcgamer.com/the-legend-of-heroes-trails-from-zero-is-going-hard-on-features-for-the-pc-port)
+ - [Street Fighter 6’s take on simpler controls isn’t new, but it may finally be the right time](https://www.polygon.com/23172651/street-fighter-6-simple-modern-controls)
+ - [Minifigure Mayhem begins September 2 when LEGO Brawls hits PlayStation](https://blog.playstation.com/2022/06/18/minifigure-mayhem-begins-september-2-when-lego-brawls-hits-playstation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
