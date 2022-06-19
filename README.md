@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Since bitcoin hit an all-time high in November 2021, ~$2T of cryptocurrency value has been erased, which is more than two-thirds of all the crypto that existed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220619/p3#a220619p3)
- - [The iPad Air convinced me that the post-PC world is almost here](https://www.androidauthority.com/ipad-air-post-computer-world-3175222/)
- - [Everything new coming to Apple TV in tvOS 16](https://appleinsider.com/articles/22/06/19/everything-new-coming-to-apple-tv-in-tvos-16?utm_medium=rss)<!-- TECH:END -->
+ - [Google Maps should have a way to block businesses](https://www.androidauthority.com/google-maps-block-businesses-3176385/)
+ - [30 Last-Minute Father’s Day Deals](https://www.wired.com/story/last-minute-fathers-day-deals-2022-3/)
+ - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $49.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
