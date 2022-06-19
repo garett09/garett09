@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha armada stomps kaiju all the way out of Early Access](https://www.pcgamer.com/mecha-armada-stomps-kaiju-all-the-way-out-of-early-access)
- - [Rob the town blind and cheat gods in Dread Delusion&#39;s Early Access](https://www.pcgamer.com/rob-the-town-blind-and-cheat-gods-in-dread-delusions-early-access)
- - [This collection of old game logos delights the primordial lizard parts of my dumb brain](https://www.pcgamer.com/this-collection-of-old-game-logos-delights-the-primordial-lizard-parts-of-my-dumb-brain)<!-- GAME:END -->
+ - [Get isometric point-and-click Beautiful Desolation free for a limited time](https://www.pcgamer.com/get-isometric-point-and-click-beautiful-desolation-free-for-a-limited-time)
+ - [What do we want from Fallout 5?](https://www.pcgamer.com/what-do-we-want-from-fallout-5)
+ - [Mecha armada stomps kaiju all the way out of Early Access](https://www.pcgamer.com/mecha-armada-stomps-kaiju-all-the-way-out-of-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
