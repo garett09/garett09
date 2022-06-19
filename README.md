@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found awesome memories](http://9gag.com/gag/aVx9p28)
- - 🚯 [Organized cops](http://9gag.com/gag/a41BX66)
+ - 🚖 [Organized cops](http://9gag.com/gag/a41BX66)
+ - 🚯 [It will be an unforgettable moment](http://9gag.com/gag/aKmXooQ)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
