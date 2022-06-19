@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wah](http://9gag.com/gag/aYrv0GN)
- - 🚯 [Very 90s sounds](http://9gag.com/gag/a21ApEp)
- - 🚯 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)<!-- MEMES:END -->
+ - 🚖 [The real definition of the love between a Mother and Son. When I saw this man pick his Mother up in his arms, my heart melted. This act me to tears. He came in this world with her holding him. Now it\u2019s his turn to care for her. She felt safe. You sir are a wonderful man.](http://9gag.com/gag/aegqw7p)
+ - 🚯 [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)
+ - 🚯 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)<!-- MEMES:END -->
 
 --- 
 
