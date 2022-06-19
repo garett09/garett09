@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deus Ex Randomizer mod also adds bingo, Dark Souls-style online death markers](https://www.pcgamer.com/deus-ex-randomizer-mod-also-adds-bingo-dark-souls-style-online-death-markers)
  - [The trickiest part of turning Buzz Lightyear the toy into Buzz Lightyear the sci-fi hero](https://www.polygon.com/23172672/buzz-lightyear-pixar-to-infinity-and-beyond)
- - [Steven Moffat’s TV wasn’t made for these times](https://www.polygon.com/23172599/steven-moffat-tv-doctor-who-sherlock)
- - [New E.T. the Extra-Terrestrial board game breaks the franchise’s bizarre curse](https://www.polygon.com/reviews/23171024/et-board-game-funko-prospero-hall-review)<!-- GAME:END -->
+ - [Steven Moffat’s TV wasn’t made for these times](https://www.polygon.com/23172599/steven-moffat-tv-doctor-who-sherlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
