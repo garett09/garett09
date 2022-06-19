@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good cop guy](http://9gag.com/gag/aE8j5rx)
- - 🚯 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)
+ - 🚖 [Wipes tears with cash](http://9gag.com/gag/azevpYB)
+ - 🚯 [How to tie a tarp corner knot to make shelter or tent](http://9gag.com/gag/a71mRdm)
  - 🚯 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)<!-- MEMES:END -->
 
 --- 
