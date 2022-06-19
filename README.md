@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple retail workers vote to unionize a store in Maryland](https://www.theverge.com/2022/6/18/23172232/apple-store-towson-town-center-union-election-results-votes)
- - [WhatsApp widely rolls out new privacy control settings to give users more control over who can see their Profile Photo, About, Last Seen, and Status &lpar;Kishan Vyas/XDA Developers&rpar;](http://www.techmeme.com/220618/p14#a220618p14)
- - [TikTok staff in China allegedly accessed U.S. user data](https://appleinsider.com/articles/22/06/18/tiktok-staff-in-china-allegedly-accessed-us-user-data?utm_medium=rss)<!-- TECH:END -->
+ - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)
+ - [Apple Store Employees in Maryland First to Vote to Unionize     - CNET](https://www.cnet.com/tech/apple-store-employees-in-maryland-first-to-vote-to-unionize/#ftag=CAD590a51e)
+ - [Apple employees at a store in Towson, Maryland, vote 65-33 to unionize, making it the company&#39;s first unionized store in the US &lpar;New York Times&rpar;](http://www.techmeme.com/220618/p15#a220618p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
