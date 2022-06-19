@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol Woman](http://9gag.com/gag/a118jqP)
- - 🚯 [Joe Biden falls off his bike](http://9gag.com/gag/aM4077A)
- - 🚯 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)<!-- MEMES:END -->
+ - 🚖 [Good cop guy](http://9gag.com/gag/aE8j5rx)
+ - 🚯 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)
+ - 🚯 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)<!-- MEMES:END -->
 
 --- 
 
