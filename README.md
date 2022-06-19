@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Cow](http://9gag.com/gag/apgnOQM)
- - 🚯 [Hey, looking for me?](http://9gag.com/gag/a81vReO)
+ - 🚖 [There was nothing simple about it](http://9gag.com/gag/a71mQzr)
+ - 🚯 [These tourists are everywhere](http://9gag.com/gag/a41Bvrp)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
