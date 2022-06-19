@@ -199,7 +199,7 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
+ - 🚖 [Idiot speeding past apartment multiple times with predictable outcome](http://9gag.com/gag/aKmX0Lg)
  - 🚯 [The truth and nothing but the truth](http://9gag.com/gag/azev0ej)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
