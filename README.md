@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There was nothing simple about it](http://9gag.com/gag/a71mQzr)
- - 🚯 [These tourists are everywhere](http://9gag.com/gag/a41Bvrp)
+ - 🚖 [It must be tasty af](http://9gag.com/gag/aWgewpZ)
+ - 🚯 [You don&#39;t always get your way](http://9gag.com/gag/ay9mbYY)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
