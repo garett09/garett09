@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wipes tears with cash](http://9gag.com/gag/azevpYB)
- - 🚯 [Makes sense](http://9gag.com/gag/arnD7E5)
- - 🚯 [Wah](http://9gag.com/gag/aYrv0GN)<!-- MEMES:END -->
+ - 🚖 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)
+ - 🚯 [This is a 393-years old Greenland Shark that was located in the Arctic Ocean. It&#39;s been wandering the ocean since 1627. It is the oldest living vertebrate known on the planet. Photo by Julius Nielsen.](http://9gag.com/gag/amgO41j)
+ - 🚯 [Organized cops](http://9gag.com/gag/a41BX66)<!-- MEMES:END -->
 
 --- 
 
