@@ -200,7 +200,7 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Idiot speeding past apartment multiple times with predictable outcome](http://9gag.com/gag/aKmX0Lg)
- - 🚯 [The truth and nothing but the truth](http://9gag.com/gag/azev0ej)
+ - 🚯 [One ticket please](http://9gag.com/gag/a0ZDADL)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
