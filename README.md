@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waited for his teammate to arrive, then decided who crosses first in the mostly manly manner!](http://9gag.com/gag/aZr4GZ6)
- - 🚯 [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
+ - 🚖 [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
+ - 🚯 [The truth and nothing but the truth](http://9gag.com/gag/azev0ej)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
