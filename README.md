@@ -199,9 +199,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real definition of the love between a Mother and Son. When I saw this man pick his Mother up in his arms, my heart melted. This act me to tears. He came in this world with her holding him. Now it\u2019s his turn to care for her. She felt safe. You sir are a wonderful man.](http://9gag.com/gag/aegqw7p)
- - 🚯 [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)
- - 🚯 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)<!-- MEMES:END -->
+ - 🚖 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)
+ - 🚯 [Why does my body need the blanket so much?](http://9gag.com/gag/aE8j4RO)
+ - 🚯 [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)<!-- MEMES:END -->
 
 --- 
 
