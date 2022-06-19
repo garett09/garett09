@@ -200,8 +200,8 @@ Windows                  2 hrs 23 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Wipes tears with cash](http://9gag.com/gag/azevpYB)
- - 🚯 [How to tie a tarp corner knot to make shelter or tent](http://9gag.com/gag/a71mRdm)
- - 🚯 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)<!-- MEMES:END -->
+ - 🚯 [Makes sense](http://9gag.com/gag/arnD7E5)
+ - 🚯 [Wah](http://9gag.com/gag/aYrv0GN)<!-- MEMES:END -->
 
 --- 
 
