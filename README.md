@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok staff in China allegedly accessed U.S. user data](https://appleinsider.com/articles/22/06/18/tiktok-staff-in-china-allegedly-accessed-us-user-data?utm_medium=rss)
- - [WhatsApp now lets you mute individual users during group calls](https://www.theverge.com/2022/6/18/23174047/whatsapp-mute-people-group-calls-privacy-features)
- - [Ex-Amazon Cloud Worker Found Guilty in Capital One Hack     - CNET](https://www.cnet.com/tech/services-and-software/ex-amazon-cloud-worker-found-guilty-in-capital-one-hack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple retail workers vote to unionize a store in Maryland](https://www.theverge.com/2022/6/18/23172232/apple-store-towson-town-center-union-election-results-votes)
+ - [WhatsApp widely rolls out new privacy control settings to give users more control over who can see their Profile Photo, About, Last Seen, and Status &lpar;Kishan Vyas/XDA Developers&rpar;](http://www.techmeme.com/220618/p14#a220618p14)
+ - [TikTok staff in China allegedly accessed U.S. user data](https://appleinsider.com/articles/22/06/18/tiktok-staff-in-china-allegedly-accessed-us-user-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
