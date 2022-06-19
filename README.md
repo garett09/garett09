@@ -192,9 +192,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formula 1: How to Watch Today&#39;s Canadian Grand Prix     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-the-canadian-grand-prix-today/#ftag=CAD590a51e)
- - [You can already have Apple’s new CarPlay experience today](https://www.androidauthority.com/apple-carplay-android-automotive-3175401/)
- - [Best Stainless Steel Skillets, Tested by CNET     - CNET](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Since bitcoin hit an all-time high in November 2021, ~$2T of cryptocurrency value has been erased, which is more than two-thirds of all the crypto that existed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220619/p3#a220619p3)
+ - [The iPad Air convinced me that the post-PC world is almost here](https://www.androidauthority.com/ipad-air-post-computer-world-3175222/)
+ - [Everything new coming to Apple TV in tvOS 16](https://appleinsider.com/articles/22/06/19/everything-new-coming-to-apple-tv-in-tvos-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
