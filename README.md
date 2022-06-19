@@ -199,8 +199,8 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Organized cops](http://9gag.com/gag/a41BX66)
- - 🚯 [It will be an unforgettable moment](http://9gag.com/gag/aKmXooQ)
+ - 🚖 [Happy Cow](http://9gag.com/gag/apgnOQM)
+ - 🚯 [The British Museum](http://9gag.com/gag/aE8j9qG)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
