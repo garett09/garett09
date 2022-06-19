@@ -185,9 +185,9 @@ Windows                  2 hrs 23 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [According to a report, The Quarry and High On Life were almost Stadia games](https://www.pcgamer.com/according-to-a-report-the-quarry-and-high-on-life-were-almost-stadia-games)
  - [An easter egg in Unpacking has revealed the developer&#39;s next game](https://www.pcgamer.com/an-easter-egg-in-unpacking-has-revealed-the-developers-next-game)
- - [Great moments in PC gaming: Getting home in Dragon&#39;s Dogma](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-home-in-dragons-dogma)
- - [Diablo Immortal has apparently earned over $24M in just two weeks](https://www.pcgamer.com/diablo-immortal-has-apparently-earned-over-dollar24m-in-just-two-weeks)<!-- GAME:END -->
+ - [Great moments in PC gaming: Getting home in Dragon&#39;s Dogma](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-home-in-dragons-dogma)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
