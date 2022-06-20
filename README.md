@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal&#39;s China Release Delayed Following Social Media Silencing](https://kotaku.com/diablo-immortal-blizzard-netease-china-weibo-mobile-gam-1849084106)
- - [5 great anime you can watch for free on Funimation](https://www.polygon.com/what-to-watch/23165791/free-anime-to-watch-online-best-funimation)
- - [Thousands of PC parts go up for auction from the defunct Artesian Builds](https://www.pcgamer.com/artesian-builds-auction)<!-- GAME:END -->
+ - [Meet the TikToker who lets a D20 decide what goes into his lunchtime sandwiches](https://www.polygon.com/23169570/roll-for-sandwich-interview)
+ - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)
+ - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
