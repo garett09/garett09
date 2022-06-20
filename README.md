@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flashback is free on GOG](https://www.pcgamer.com/flashback-is-free-on-gog)
- - [Sniper Elite 5 has one of the best sandbox missions I’ve ever played](https://www.polygon.com/sub-gems/23172671/sniper-elite-5-spy-academy-best-missions-stealth-games)
- - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)<!-- GAME:END -->
+ - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)
+ - [Alice: Madness Returns is back on Steam again, American McGee says ‘yikes’](https://www.pcgamer.com/alice-madness-returns-is-back-on-steam-again-american-mcgee-says-yikes)
+ - [Madden 23’s ‘Face of the Franchise’ tries to solve two big problems with one small change](https://www.polygon.com/23155787/madden-nfl-23-face-of-the-franchise-mode-story-preview-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
