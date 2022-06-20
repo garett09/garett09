@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perhaps the most-terrifying space photograph to date. Astronaut Bruce McCandless II floats completely untethered, away from the safety of the space shuttle, with nothing but his Manned Maneuvering Unit keeping him alive. The first person in history to do so. Credit: NASA](http://9gag.com/gag/axBex4L)
- - 🚯 [Most incredible golf shot pulled off by Jon Rahm](http://9gag.com/gag/arnDPgd)
+ - 🚖 [This is terrifying](http://9gag.com/gag/aM40p0A)
+ - 🚯 [Finally few hours later](http://9gag.com/gag/avABb3M)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
