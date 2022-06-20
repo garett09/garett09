@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The World of Warships: Legends Summer Update is Now Live](https://news.xbox.com/en-us/2022/06/20/the-world-of-warships-legends-summer-update-is-now-live/)
- - [Jensen Ackles was very particular about his Soldier Boy voice on The Boys](https://www.polygon.com/23171387/jensen-ackles-the-boys-soldier-boy-voice)
- - [Actual Wizard Rebuilds His PS5 To Less Than An Inch Wide](https://kotaku.com/ps5-slim-sony-youtube-diy-perks-1849084848)<!-- GAME:END -->
+ - [Sniper Elite 5 has one of the best sandbox missions I’ve ever played](https://www.polygon.com/sub-gems/23172671/sniper-elite-5-spy-academy-best-missions-stealth-games)
+ - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)
+ - [This Scottish Cycle Lane Is Harder Than Any Video Game](https://kotaku.com/paperboy-cycle-lane-bike-cycling-atari-scotland-edinbur-1849084667)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
