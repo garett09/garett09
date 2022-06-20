@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mamma mia!](http://9gag.com/gag/aQXKPjq)
- - 🚯 [The waves created by a moving body in water, be it a duck or a ship&lpar;called feather waves&rpar; are always at an angle of 19.47 degrees to the direction of motion, irrespective of the speed.](http://9gag.com/gag/a4184xw)
- - 🚯 [That was a critical hit for Brit](http://9gag.com/gag/a21VNQO)<!-- MEMES:END -->
+ - 🚖 [That was a critical hit for Brit](http://9gag.com/gag/a21VNQO)
+ - 🚯 [Rare France W](http://9gag.com/gag/aVx8Q6v)
+ - 🚯 [Neo is back](http://9gag.com/gag/awzDr6B)<!-- MEMES:END -->
 
 --- 
 
