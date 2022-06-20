@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram plans premium service after topping 700M active users](https://appleinsider.com/articles/22/06/19/telegram-plans-premium-service-after-topping-700m-active-users?utm_medium=rss)
- - [Telegram’s Premium subscription is here and it costs $4.99 / month](https://www.theverge.com/2022/6/19/23174976/telegram-premium-subscription-4-99-month-bigger-uploads-faster-downloads)
- - [Telegram surpasses 700M MAUs and unveils Telegram Premium, which will let users follow up to 1,000 channels, send files up to 4GB, and more for ~$5/month &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220619/p5#a220619p5)<!-- TECH:END -->
+ - [Microsoft&#39;s Surface Duo 2 is finally a compelling dual-screen phone, after many software updates and a $500 price cut, but it works best as a secondary device &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220619/p6#a220619p6)
+ - [&#39;Stranger Things&#39;: 14 Movies to Watch With A Similar Vibe     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-14-movies-to-watch-with-a-similar-vibe/#ftag=CAD590a51e)
+ - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/netflix-12-best-fantasy-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
