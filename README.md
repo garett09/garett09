@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Flashback is free on GOG](https://www.pcgamer.com/flashback-is-free-on-gog)
  - [Sniper Elite 5 has one of the best sandbox missions I’ve ever played](https://www.polygon.com/sub-gems/23172671/sniper-elite-5-spy-academy-best-missions-stealth-games)
- - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)
- - [This Scottish Cycle Lane Is Harder Than Any Video Game](https://kotaku.com/paperboy-cycle-lane-bike-cycling-atari-scotland-edinbur-1849084667)<!-- GAME:END -->
+ - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
