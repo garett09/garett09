@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer guide #366: Monday, June 20](https://www.pcgamer.com/wordle-today-june-20-366)
- - [Intel Arc A380 graphics card goes on sale in China](https://www.pcgamer.com/intel-arc-a380-graphics-card-goes-on-sale-in-china)
- - [TSMC&#39;s 2nm chips are coming to a device near you in 2026](https://www.pcgamer.com/tsmcs-2nm-chips-are-coming-to-a-device-near-you-in-2026)<!-- GAME:END -->
+ - [Corsair K70 RGB TKL Champion Series Optical-Mechanical gaming keyboard](https://www.pcgamer.com/corsair-k70-rgb-tkl-champion-series-optical-mechanical-gaming-keyboard)
+ - [Yeah, you can run Doom on a Lego brick PC now](https://www.pcgamer.com/yeah-you-can-run-doom-on-a-lego-brick-pc-now)
+ - [Call of Duty now makes cheaters&#39; weapons vanish](https://www.pcgamer.com/call-of-duty-now-makes-cheaters-weapons-vanish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
