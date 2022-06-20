@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is terrifying](http://9gag.com/gag/aM40p0A)
- - 🚯 [Finally few hours later](http://9gag.com/gag/avABb3M)
+ - 🚖 [Dr Jordan B Peterson on writing out your Traumatic experiences](http://9gag.com/gag/aLvOq4x)
+ - 🚯 [Man has Road rage until he Realizes it\u2019s with an Undercover Cop](http://9gag.com/gag/a0ZGvLd)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
