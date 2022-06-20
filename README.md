@@ -199,8 +199,8 @@ Windows                  19 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Karma](http://9gag.com/gag/a51AdzV)
- - 🚯 [I thought I was the only one and wanted to consult folk](http://9gag.com/gag/a91edW0)
- - 🚯 [Previous owner: The car is in perfect condition. The car:](http://9gag.com/gag/amgyN32)<!-- MEMES:END -->
+ - 🚯 [Guy saves 4 ducklings from dying of cold and took care of them. Mommy duck thought had lost her babies forever.](http://9gag.com/gag/aggby3K)
+ - 🚯 [That was a critical hit for Brit](http://9gag.com/gag/a21VNQO)<!-- MEMES:END -->
 
 --- 
 
