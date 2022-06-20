@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are the reason for this](http://9gag.com/gag/azezb6p)
- - 🚯 [Comedian has to prove the ausencia he&#39;s 5&#39;4](http://9gag.com/gag/azezERm)
- - 🚯 [Free milk](http://9gag.com/gag/apgX0VE)<!-- MEMES:END -->
+ - 🚖 [Rare France W](http://9gag.com/gag/aVx8Q6v)
+ - 🚯 [Free milk](http://9gag.com/gag/apgX0VE)
+ - 🚯 [Agreed](http://9gag.com/gag/a819br3)<!-- MEMES:END -->
 
 --- 
 
