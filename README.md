@@ -199,7 +199,7 @@ Windows                  19 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Dr Jordan B Peterson on writing out your Traumatic experiences](http://9gag.com/gag/aLvOq4x)
- - 🚯 [Man has Road rage until he Realizes it\u2019s with an Undercover Cop](http://9gag.com/gag/a0ZGvLd)
+ - 🚯 [We\u2019ve been playing xbox live games with each other since 2004, we were even in a counterstrike clan for awhile. Today, we met for the first time, in real life!](http://9gag.com/gag/axB8EoL)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
