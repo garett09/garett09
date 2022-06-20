@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy the Guinea pig buffet](http://9gag.com/gag/arn0vx6)
- - 🚯 [DAD, trust me I&#39;m an engineer!](http://9gag.com/gag/amgyNb9)
- - 🚯 [At first my wife said she would respect my choice but when I said i don&#39;t want it she got mad at me](http://9gag.com/gag/a91ebd0)<!-- MEMES:END -->
+ - 🚖 [At first my wife said she would respect my choice but when I said i don&#39;t want it she got mad at me](http://9gag.com/gag/a91ebd0)
+ - 🚯 [Prepare!!](http://9gag.com/gag/aGzqYL5)
+ - 🚯 [I thought I was the only one and wanted to consult folk](http://9gag.com/gag/a91edW0)<!-- MEMES:END -->
 
 --- 
 
