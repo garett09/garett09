@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some SMB owners complain about Google ending its G Suite legacy free edition after more than a decade on August 1, arguing it lured them with a free service &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/220620/p15#a220620p15)
- - [Asus ROG Phone 6: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-6-release-date-rumors-specs-price-features-3177742/)
- - [More than one person can now use Google TV](https://www.theverge.com/2022/6/20/23175945/google-tv-update-multiple-users-personalized-profiles-chromecast)<!-- TECH:END -->
+ - [iOS and iPadOS 16 add an option called Automatic Verification, which lets users bypass CAPTCHAs on websites and in apps that support the feature &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220620/p16#a220620p16)
+ - [Apple releases M2-specific macOS Monterey 12.4 update ahead of MacBook Pro release](https://appleinsider.com/articles/22/06/16/apple-releases-m2-specific-macos-monterey-124-update-ahead-of-macbook-pro-release?utm_medium=rss)
+ - [Some SMB owners complain about Google ending its G Suite legacy free edition after more than a decade on August 1, arguing it lured them with a free service &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/220620/p15#a220620p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
