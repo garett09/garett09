@@ -198,7 +198,7 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people talk a lot about Climate Change...](http://9gag.com/gag/aM46eXX)
+ - 🚖 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/ay9myrV)
  - 🚯 [We\u2019ve been playing xbox live games with each other since 2004, we were even in a counterstrike clan for awhile. Today, we met for the first time, in real life!](http://9gag.com/gag/axB8EoL)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
