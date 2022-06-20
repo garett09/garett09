@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune early access update spices things up with multiplayer](https://www.pcgamer.com/dune-early-access-update-spices-things-up-with-multiplayer)
- - [Makers of The Hunter: Call of the Wild announce new open world fishing game](https://www.pcgamer.com/call-of-the-wild-the-angler-fishing-game-trailer)
- - [Researchers find way to hack your CPU via AMD and Intel&#39;s frequency boosts](https://www.pcgamer.com/researchers-find-way-to-hack-your-cpu-via-amd-and-intels-frequency-boosts)<!-- GAME:END -->
+ - [The World of Warships: Legends Summer Update is Now Live](https://news.xbox.com/en-us/2022/06/20/the-world-of-warships-legends-summer-update-is-now-live/)
+ - [Jensen Ackles was very particular about his Soldier Boy voice on The Boys](https://www.polygon.com/23171387/jensen-ackles-the-boys-soldier-boy-voice)
+ - [Actual Wizard Rebuilds His PS5 To Less Than An Inch Wide](https://kotaku.com/ps5-slim-sony-youtube-diy-perks-1849084848)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
