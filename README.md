@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was a critical hit for Brit](http://9gag.com/gag/a21VNQO)
- - 🚯 [Rare France W](http://9gag.com/gag/aVx8Q6v)
+ - 🚖 [100% of older brothers](http://9gag.com/gag/aWgA0DA)
+ - 🚯 [Krystal Ball schooling Bill Maher on inflation](http://9gag.com/gag/a21VN2w)
  - 🚯 [Neo is back](http://9gag.com/gag/awzDr6B)<!-- MEMES:END -->
 
 --- 
