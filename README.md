@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair K70 RGB TKL Champion Series Optical-Mechanical gaming keyboard](https://www.pcgamer.com/corsair-k70-rgb-tkl-champion-series-optical-mechanical-gaming-keyboard)
- - [Yeah, you can run Doom on a Lego brick PC now](https://www.pcgamer.com/yeah-you-can-run-doom-on-a-lego-brick-pc-now)
- - [Call of Duty now makes cheaters&#39; weapons vanish](https://www.pcgamer.com/call-of-duty-now-makes-cheaters-weapons-vanish)<!-- GAME:END -->
+ - [Diablo Immortal&#39;s China Release Delayed Following Social Media Silencing](https://kotaku.com/diablo-immortal-blizzard-netease-china-weibo-mobile-gam-1849084106)
+ - [5 great anime you can watch for free on Funimation](https://www.polygon.com/what-to-watch/23165791/free-anime-to-watch-online-best-funimation)
+ - [Thousands of PC parts go up for auction from the defunct Artesian Builds](https://www.pcgamer.com/artesian-builds-auction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
