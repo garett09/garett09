@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nuclear Energy\u2026](http://9gag.com/gag/aAG7Bwp)
- - 🚯 [FINA Bans Transgender Swimmers From Female Competitions](http://9gag.com/gag/aKmy4nb)
+ - 🚖 [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a21VzWe)
+ - 🚯 [Don\u2019t mess with the hand](http://9gag.com/gag/a11nvdY)
  - 🚯 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 --- 
