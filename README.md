@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breath of the Wild Guardian Cosplay Is A Sight To Behold](https://kotaku.com/zelda-breath-of-the-wild-cosplay-guardian-nintendo-mega-1848966767)
- - [Five new Steam games you probably missed &lpar;June 20, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-20-2022)
- - [Jak And Daxter Is Being &#39;Ported&#39; To The PC, Looks Great](https://kotaku.com/jak-daxter-ps2-pc-port-recompile-naughty-dog-code-versi-1849083277)<!-- GAME:END -->
+ - [Intel Arc A380 graphics card goes on sale in China](https://www.pcgamer.com/intel-arc-a380-graphics-card-goes-on-sale-in-china)
+ - [TSMC&#39;s 2nm chips are coming to a device near you in 2026](https://www.pcgamer.com/tsmcs-2nm-chips-are-coming-to-a-device-near-you-in-2026)
+ - [Breath of the Wild Guardian Cosplay Is A Sight To Behold](https://kotaku.com/zelda-breath-of-the-wild-cosplay-guardian-nintendo-mega-1848966767)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
