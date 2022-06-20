@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Krystal Ball schooling Bill Maher on inflation](http://9gag.com/gag/a21VN2w)
- - 🚯 [Neo is back](http://9gag.com/gag/awzDr6B)
- - 🚯 [Words are getting clearer.](http://9gag.com/gag/a31DYQr)<!-- MEMES:END -->
+ - 🚖 [I spent 200 dollars for nothing](http://9gag.com/gag/aGzqVgz)
+ - 🚯 [Free milk](http://9gag.com/gag/apgX0VE)
+ - 🚯 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
 
 --- 
 
