@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how the new ‘Nearby Unlock’ feature might work on the Pixel Watch](https://www.androidauthority.com/pixel-watch-nearby-unlock-3177956/)
  - [Tel Aviv-based Jit, which automates product security for developers, announces a $38.5M seed led by Boldstart Ventures and the launch of its free beta version &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p1#a220620p1)
- - [Telegram Premium launched: Here’s everything you need to know](https://www.androidauthority.com/telegram-premium-price-features-availability-3177921/)
- - [Google is down with the kids, uses Drake song to attack iMessage green bubbles](https://www.androidauthority.com/google-drake-song-green-bubbles-imessage-3176568/)<!-- TECH:END -->
+ - [Telegram Premium launched: Here’s everything you need to know](https://www.androidauthority.com/telegram-premium-price-features-availability-3177921/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
