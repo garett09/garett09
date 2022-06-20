@@ -185,7 +185,7 @@ Windows                  19 mins             ███████████�
 
 <!-- GAME:START -->
  - [Outriders is free to play on Steam until Thursday](https://www.pcgamer.com/outriders-is-free-to-play-on-steam-until-thursday)
- - [Developers Admit There&#39;s No Way To Complete KOTOR II On Switch](https://kotaku.com/kotor-ii-star-wars-aspyr-nintendo-switch-bug-the-sith-l-1849085914)
+ - [Developer Admits There&#39;s No Way To Complete KOTOR II On Switch](https://kotaku.com/kotor-ii-star-wars-aspyr-nintendo-switch-bug-the-sith-l-1849085914)
  - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
