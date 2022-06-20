@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At first my wife said she would respect my choice but when I said i don&#39;t want it she got mad at me](http://9gag.com/gag/a91ebd0)
- - 🚯 [Prepare!!](http://9gag.com/gag/aGzqYL5)
- - 🚯 [I thought I was the only one and wanted to consult folk](http://9gag.com/gag/a91edW0)<!-- MEMES:END -->
+ - 🚖 [Karma](http://9gag.com/gag/a51AdzV)
+ - 🚯 [I thought I was the only one and wanted to consult folk](http://9gag.com/gag/a91edW0)
+ - 🚯 [Previous owner: The car is in perfect condition. The car:](http://9gag.com/gag/amgyN32)<!-- MEMES:END -->
 
 --- 
 
