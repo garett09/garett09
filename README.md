@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: China has 19 of the world&#39;s 20 fastest-growing chip industry firms of the past four quarters, on average, compared to eight at the same time last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/220621/p3#a220621p3)
  - [An in-depth look at Tiger Global, the secretive hedge fund and VC firm led by Chase Coleman, as its huge bets on booming tech stocks led to a $25B+ loss by June &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/220621/p2#a220621p2)
- - [VerSe Innovation rolls out its news aggregator Dailyhunt in the UAE, Saudi Arabia, Bahrain, Oman, Qatar, and Kuwait, with over 5K content partners in the region &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220621/p1#a220621p1)
- - [Get Xbox games for under $15, and more of the latest Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
+ - [VerSe Innovation rolls out its news aggregator Dailyhunt in the UAE, Saudi Arabia, Bahrain, Oman, Qatar, and Kuwait, with over 5K content partners in the region &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220621/p1#a220621p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
