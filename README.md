@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are not like regular people](http://9gag.com/gag/aM46wNV)
- - 🚯 [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
+ - 🚖 [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
+ - 🚯 [Mr Bean](http://9gag.com/gag/aog61wg)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
