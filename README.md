@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does he not understand the language?](http://9gag.com/gag/aVx8Dnv)
- - 🚯 [Bzzzzz](http://9gag.com/gag/aog6pvm)
+ - 🚖 [They are not like regular people](http://9gag.com/gag/aM46wNV)
+ - 🚯 [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
