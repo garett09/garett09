@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These two Italian women constructed a table in their balconies to enjoy dinner together.](http://9gag.com/gag/aVx8PgO)
- - 🚯 [Use the force](http://9gag.com/gag/aOQOVg2)
+ - 🚖 [I miss shows like House](http://9gag.com/gag/a11nMGw)
+ - 🚯 [Iconic scene of comedy, I don&#39;t know how he kept a straight face doing this.](http://9gag.com/gag/a819M4Q)
  - 🚯 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)<!-- MEMES:END -->
 
 --- 
