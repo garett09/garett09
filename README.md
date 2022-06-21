@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony could have a trio of new gaming headsets on the way](https://www.theverge.com/2022/6/21/23176570/sony-inzone-gaming-headsets-leak-h3-h7-h9-monitors)
- - [Indian startup LeadSquared, which offers sales automation tools, has raised a $153M Series C led by WestBridge Capital at a $1B post-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220621/p11#a220621p11)
- - [We asked, you told us: Here’s how many of you use alternative app stores](https://www.androidauthority.com/alternative-app-stores-poll-results-3178570/)<!-- TECH:END -->
+ - [Daily Authority: 🥽 Meta’s VR prototypes](https://www.androidauthority.com/daily-authority-june-21-2022-3178582/)
+ - [South Korean prosecutors ban &quot;dozens&quot; of current and former Terraform Labs employees from leaving the country, pending an investigation into LUNA&#39;s collapse &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p13#a220621p13)
+ - [How Lori Garver Launched NASA’s Commercial Space Partnerships](https://www.wired.com/story/how-lori-garver-launched-nasas-commercial-space-partnerships/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
