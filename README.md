@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
- - 🚯 [Mr Bean](http://9gag.com/gag/aog61wg)
+ - 🚖 [Florida man with weapon of choice](http://9gag.com/gag/aGzq0xK)
+ - 🚯 [My house my rules](http://9gag.com/gag/a61zQA2)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
