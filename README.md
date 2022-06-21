@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ted Cruz says he&#39;s &#39;interested&#39; in talking to Asmongold about loot boxes](https://www.pcgamer.com/ted-cruz-says-hes-interested-in-talking-to-asmongold-about-loot-boxes)
- - [This 1.5TB microSD is surely witchcraft](https://www.pcgamer.com/this-15tb-microsd-is-surely-witchcraft)
- - [Deadpool’s writers explain their Chris Hemsworth dance dreams in Spiderhead](https://www.polygon.com/23172695/spiderhead-chris-hemsworth-dance-deadpool-connection)<!-- GAME:END -->
+ - [Fire Emblem Warriors: Three Hopes Reviews Say It’s Not For Everyone](https://kotaku.com/fire-emblem-warriors-three-hopes-nintendo-switch-review-1849089472)
+ - [Protect the Legacy of the Bretons in The Elder Scrolls Online: High Isle](https://news.xbox.com/en-us/2022/06/21/protect-the-legacy-of-the-bretons-in-the-elder-scrolls-online-high-isle/)
+ - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
