@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rare France W](http://9gag.com/gag/aVx8Q6v)
+ - 🚖 [Agreed](http://9gag.com/gag/a819br3)
  - 🚯 [Free milk](http://9gag.com/gag/apgX0VE)
- - 🚯 [Agreed](http://9gag.com/gag/a819br3)<!-- MEMES:END -->
+ - 🚯 [Villains after training for an eternity vs main character with the power of friendship](http://9gag.com/gag/a418d6v)<!-- MEMES:END -->
 
 --- 
 
