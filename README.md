@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder builds the world&#39;s first PS5 slim](https://www.pcgamer.com/ps5-slim-water-cooling)
- - [Milky Way Prince – The Vampire Star: inspirations and PS5 features](https://blog.playstation.com/2022/06/21/milky-way-prince-the-vampire-star-inspirations-and-ps5-features/)
- - [Milky Way Prince – The Vampire Star: inspirations and PS5 features](https://blog.playstation.com/2022/06/21/milky-way-prince-the-vampire-star-inspirations-and-ps5-features/)<!-- GAME:END -->
+ - [Tony Hawk says remaster of Pro Skater 3 and 4 isn’t happening](https://www.polygon.com/23176662/tony-hawk-pro-skater-3-4-remaster-vicarious-visions-blizzard)
+ - [Coming to Xbox Game Pass: Total War: Three Kingdoms, Naraka: Bladepoint, Far Cry 5, and More](https://news.xbox.com/en-us/2022/06/21/game-pass-june-2022-wave-2-update/)
+ - [Fire Emblem Warriors: Three Hopes fails to reinvigorate the Musou genre](https://www.polygon.com/reviews/23176301/fire-emblem-warriors-three-hopes-review-release-date-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
