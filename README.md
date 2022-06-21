@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram won’t take a cut from creators’ revenues until 2024](https://www.theverge.com/2022/6/21/23176749/meta-instagram-facebook-creators-revenue-policy-reels)
- - [South Korea hits a space race milestone with latest rocket launch](https://www.theverge.com/2022/6/21/23176805/first-south-korea-launches-domestic-rocket-satellite-space)
- - [Master &amp; Dynamic launches MW75 with 32 hour battery life &amp; adaptive ANC](https://appleinsider.com/articles/22/06/21/master-dynamic-launches-mw75-with-32-hour-battery-life-adaptive-anc?utm_medium=rss)<!-- TECH:END -->
+ - [New Adobe Premiere Pro update brings video encoding improvements to Apple Silicon](https://appleinsider.com/articles/22/06/21/new-adobe-premiere-pro-update-brings-video-encoding-improvements-to-apple-silicon?utm_medium=rss)
+ - [ProShares, which debuted the first bitcoin futures ETF, launches the first ETF to short bitcoin in the US, trading under BITI &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220621/p27#a220621p27)
+ - [Microsoft to retire controversial facial recognition tool that claims to identify emotion](https://www.theverge.com/2022/6/21/23177016/microsoft-retires-emotion-recognition-azure-ai-tool-api)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
