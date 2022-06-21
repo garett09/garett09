@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comedian has to prove the ausencia he&#39;s 5&#39;4](http://9gag.com/gag/azezERm)
+ - 🚖 [What a prediction 60 years ago..](http://9gag.com/gag/avAVP2Z)
  - 🚯 [Ever been this tired after work?](http://9gag.com/gag/apgX0jb)
- - 🚯 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
+ - 🚯 [My lords, let us not forget about this old gem...](http://9gag.com/gag/aegE0dv)<!-- MEMES:END -->
 
 --- 
 
