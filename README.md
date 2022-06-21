@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to convert, download &amp; edit media files using HitPaw Video Converter](https://appleinsider.com/articles/22/06/21/how-to-convert-download-edit-media-files-using-hitpaw-video-converter?utm_medium=rss)
- - [Philips Hue adds indoor-outdoor lamp, smart light switch to range](https://appleinsider.com/articles/22/06/21/philips-hue-adds-indoor-outdoor-lamp-smart-light-switch-to-range?utm_medium=rss)
- - [BlockFi CEO Zac Prince says the crypto lending service has secured a $250M &quot;revolving credit facility&quot; from FTX &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220621/p18#a220621p18)<!-- TECH:END -->
+ - [Shows like For All Mankind on Apple TV Plus: 9 titles to check out next](https://www.androidauthority.com/shows-like-for-all-mankind-apple-tv-plus-3178211/)
+ - [DocuSign says CEO Dan Springer &quot;has agreed to step aside&quot;, effective immediately; the company has lost 60% of its market value year to date &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220621/p20#a220621p20)
+ - [RevealSecurity, which uses AI to help companies detect insider cybersecurity threats, has raised a $23M Series A led by SYN Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220621/p19#a220621p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
