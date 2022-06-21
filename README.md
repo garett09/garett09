@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Galaxy Z Fold 3 deal brings down its price to just $599](https://www.androidauthority.com/samsung-galaxy-z-fold-3-deal-free-galaxy-watch-4-1200-dollar-trade-in-3178488/)
- - [PwC report: subscription streaming video services in the US will generate revenue of $25.32B in 2022, up 13% YoY but down from annual growth of 19.5% in 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220621/p4#a220621p4)
- - [Analysis: China has 19 of the world&#39;s 20 fastest-growing chip industry firms of the past four quarters, on average, compared to eight at the same time last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/220621/p3#a220621p3)<!-- TECH:END -->
+ - [Philips Hue gets a new Tap dial switch, customizable track lighting, and more](https://www.theverge.com/2022/6/21/23176531/philips-hue-dial-remote-go-lamp-track-lighting-price-date)
+ - [Cloudflare outage breaks large swathes of the internet](https://www.theverge.com/2022/6/21/23176519/cloudflare-outage-june-2022-discord-shopify-fitbit-peleton)
+ - [Samsung’s latest Galaxy Z Fold 3 deal brings down its price to just $599](https://www.androidauthority.com/samsung-galaxy-z-fold-3-deal-free-galaxy-watch-4-1200-dollar-trade-in-3178488/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
