@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima Productions starts selling anti-war merch with proceeds going to Ukrainian refugees](https://www.pcgamer.com/kojima-productions-starts-selling-anti-war-merch-with-proceeds-going-to-ukrainian-refugees)
- - [Gigabyte Aorus 17 XE4 gaming laptop](https://www.pcgamer.com/gigabyte-aorus-17-xe4-review)
- - [Today&#39;s Wordle answer guide #367: Tuesday, June 21](https://www.pcgamer.com/wordle-today-june-21-367)<!-- GAME:END -->
+ - [Modder builds the world&#39;s first PS5 slim](https://www.pcgamer.com/ps5-slim-water-cooling)
+ - [Milky Way Prince – The Vampire Star: inspirations and PS5 features](https://blog.playstation.com/2022/06/21/milky-way-prince-the-vampire-star-inspirations-and-ps5-features/)
+ - [Milky Way Prince – The Vampire Star: inspirations and PS5 features](https://blog.playstation.com/2022/06/21/milky-way-prince-the-vampire-star-inspirations-and-ps5-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
