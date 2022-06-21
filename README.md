@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Instanda, which offers insurance providers a no-code core infrastructure to deploy products easily, has raised a $45M Series B led by Toscafund &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220620/p18#a220620p18)
- - [There has to be a better way to binge](https://www.theverge.com/2022/6/20/23175918/there-has-to-be-a-better-way-to-binge)
- - [New York-headquartered Wahed, a fintech which allows Muslims to invest in line with their faith, has raised a $50M Series B led by Wa&#39;ed Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p17#a220620p17)<!-- TECH:END -->
+ - [Best Smart Displays of 2022     - CNET](https://www.cnet.com/news/best-smart-displays/#ftag=CAD590a51e)
+ - [Here&#39;s When &#39;Doctor Strange 2&#39; Hits Disney Plus in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-doctor-strange-2-hits-disney-plus-in-your-time-zone/#ftag=CAD590a51e)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in Spectacular Style     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-spectacular-style/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
