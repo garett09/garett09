@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And a third time, just in case](http://9gag.com/gag/aZrKMwz)
- - 🚯 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)
- - 🚯 [Malaga Spain, few min ago](http://9gag.com/gag/aBnMrMA)<!-- MEMES:END -->
+ - 🚖 [These two Italian women constructed a table in their balconies to enjoy dinner together.](http://9gag.com/gag/aVx8PgO)
+ - 🚯 [Use the force](http://9gag.com/gag/aOQOVg2)
+ - 🚯 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)<!-- MEMES:END -->
 
 --- 
 
