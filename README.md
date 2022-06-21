@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Twisted Paths of Dysfunctional Love in Milky Way Prince – The Vampire Star, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/06/21/167645/)
- - [ID@Xbox Summer Game Fest Demo Event Showcases 34 Games](https://news.xbox.com/en-us/2022/06/21/idxbox-summer-game-fest-demo-event-showcases-34-games/)
- - [Tiny Tina’s Wonderlands hits Steam, along with new DLC](https://www.polygon.com/23176751/tiny-tinas-wonderlands-dlc-release-dates-molten-mirrors-steam-launch)<!-- GAME:END -->
+ - [Ted Cruz says he&#39;s &#39;interested&#39; in talking to Asmongold about loot boxes](https://www.pcgamer.com/ted-cruz-says-hes-interested-in-talking-to-asmongold-about-loot-boxes)
+ - [This 1.5TB microSD is surely witchcraft](https://www.pcgamer.com/this-15tb-microsd-is-surely-witchcraft)
+ - [Deadpool’s writers explain their Chris Hemsworth dance dreams in Spiderhead](https://www.polygon.com/23172695/spiderhead-chris-hemsworth-dance-deadpool-connection)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
