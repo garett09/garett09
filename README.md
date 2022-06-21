@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Giant SLS Rocket Is One Step Closer to Launch](https://www.wired.com/story/nasas-giant-sls-rocket-is-one-step-closer-to-launch/)
- - [Everything you need to start making videos on Mac in 2022](https://appleinsider.com/inside/mac/tips/everything-you-need-to-start-making-videos-on-mac-in-2022?utm_medium=rss)
- - [Compared: AirPods Max vs Master &amp; Dynamic MW75](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-vs-master-dynamic-mw75?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: three senior executives of Better.com resign, following other executive departures, mass layoffs, and a lawsuit alleging the company misled investors &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220621/p33#a220621p33)
+ - [Apple&#39;s 35W Dual USB-C Port power adapter is uniquely engineered, demonstrates teardown](https://appleinsider.com/articles/22/06/21/apples-35w-dual-usb-c-port-power-adapter-is-uniquely-engineered-demonstrates-teardown?utm_medium=rss)
+ - [Apple iPhone sales in China strongly rebound in May after downtick](https://appleinsider.com/articles/22/06/21/apple-iphone-sales-in-china-strongly-rebound-in-may-after-downtick?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
