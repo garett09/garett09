@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue gets a new Tap dial switch, customizable track lighting, and more](https://www.theverge.com/2022/6/21/23176531/philips-hue-dial-remote-go-lamp-track-lighting-price-date)
- - [Cloudflare outage breaks large swathes of the internet](https://www.theverge.com/2022/6/21/23176519/cloudflare-outage-june-2022-discord-shopify-fitbit-peleton)
- - [Samsung’s latest Galaxy Z Fold 3 deal brings down its price to just $599](https://www.androidauthority.com/samsung-galaxy-z-fold-3-deal-free-galaxy-watch-4-1200-dollar-trade-in-3178488/)<!-- TECH:END -->
+ - [Germany&#39;s Echobot and Finland&#39;s Leadfeeder, which both offer sales tools, agree to merge and have raised &amp;euro;180M from Great Hill Partners to expand &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220621/p6#a220621p6)
+ - [SpaceX&#39;s Starlink aid to Ukraine has triggered scrutiny in China, as Chinese firms rush to deploy their own satellite constellations to compete &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p5#a220621p5)
+ - [Philips Hue gets a new Tap dial switch, customizable track lighting, and more](https://www.theverge.com/2022/6/21/23176531/philips-hue-dial-remote-go-lamp-track-lighting-price-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
