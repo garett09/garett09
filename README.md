@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Free milk](http://9gag.com/gag/apgX0VE)
- - 🚯 [Villains after training for an eternity vs main character with the power of friendship](http://9gag.com/gag/a418d6v)
+ - 🚖 [Comedian has to prove the ausencia he&#39;s 5&#39;4](http://9gag.com/gag/azezERm)
+ - 🚯 [Ever been this tired after work?](http://9gag.com/gag/apgX0jb)
  - 🚯 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
 
 --- 
