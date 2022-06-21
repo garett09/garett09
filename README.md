@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus plans 150 international originals by 2025](https://www.theverge.com/2022/6/21/23176984/paramount-plus-150-international-originals)
- - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Dress rehearsal for NASA’s deep-space rocket cut short by mere seconds](https://www.theverge.com/2022/6/21/23175681/nasa-space-launch-system-wet-dress-rehearsal-test-29-seconds)<!-- TECH:END -->
+ - [NASA’s Giant SLS Rocket Is One Step Closer to Launch](https://www.wired.com/story/nasas-giant-sls-rocket-is-one-step-closer-to-launch/)
+ - [Everything you need to start making videos on Mac in 2022](https://appleinsider.com/inside/mac/tips/everything-you-need-to-start-making-videos-on-mac-in-2022?utm_medium=rss)
+ - [Compared: AirPods Max vs Master &amp; Dynamic MW75](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-vs-master-dynamic-mw75?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
