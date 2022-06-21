@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss shows like House](http://9gag.com/gag/a11nMGw)
- - 🚯 [Iconic scene of comedy, I don&#39;t know how he kept a straight face doing this.](http://9gag.com/gag/a819M4Q)
- - 🚯 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)<!-- MEMES:END -->
+ - 🚖 [Several men call out an alleged pedophile who had YouTube videos talking about child sexuality at a Drag Queen Story Hour event in San Francisco.](http://9gag.com/gag/awzD738)
+ - 🚯 [Yes but. . .](http://9gag.com/gag/aQXK8Vr)
+ - 🚯 [I miss shows like House](http://9gag.com/gag/a11nMGw)<!-- MEMES:END -->
 
 --- 
 
