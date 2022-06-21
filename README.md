@@ -198,8 +198,8 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Florida man with weapon of choice](http://9gag.com/gag/aGzq0xK)
- - 🚯 [Bzzzzz](http://9gag.com/gag/aog6pvm)
+ - 🚖 [I really liked both movies tbh](http://9gag.com/gag/aQXKx4W)
+ - 🚯 [Yea?](http://9gag.com/gag/aQXKxVW)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
