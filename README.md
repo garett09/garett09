@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Displays of 2022     - CNET](https://www.cnet.com/news/best-smart-displays/#ftag=CAD590a51e)
- - [Here&#39;s When &#39;Doctor Strange 2&#39; Hits Disney Plus in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-doctor-strange-2-hits-disney-plus-in-your-time-zone/#ftag=CAD590a51e)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in Spectacular Style     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-spectacular-style/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: M2 MacBook Air vs Surface Laptop Go 2](https://appleinsider.com/inside/macbook-air/vs/compared-m2-macbook-air-vs-surface-laptop-go-2?utm_medium=rss)
+ - [Beyoncé&#39;s New Single &#39;Break My Soul&#39; Hits Tidal Early     - CNET](https://www.cnet.com/culture/entertainment/beyonces-new-single-break-my-soul-hits-tidal-early/#ftag=CAD590a51e)
+ - [Similarweb: The New York Times grew website visitors 52% YoY to 524.6M in May 2022, helped by Wordle, making the NYT the world&#39;s fastest growing top news site &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/220620/p19#a220620p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
