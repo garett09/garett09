@@ -198,9 +198,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a prediction 60 years ago..](http://9gag.com/gag/avAVP2Z)
- - 🚯 [Ever been this tired after work?](http://9gag.com/gag/apgX0jb)
- - 🚯 [My lords, let us not forget about this old gem...](http://9gag.com/gag/aegE0dv)<!-- MEMES:END -->
+ - 🚖 [And a third time, just in case](http://9gag.com/gag/aZrKMwz)
+ - 🚯 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)
+ - 🚯 [Malaga Spain, few min ago](http://9gag.com/gag/aBnMrMA)<!-- MEMES:END -->
 
 --- 
 
