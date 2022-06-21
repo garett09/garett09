@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone’s ready to die on that hill in Stranger Things 4 Volume 2’s first trailer](https://www.theverge.com/2022/6/21/23176770/stranger-things-season-4-volume-2-trailer)
- - [Anker’s new Soundcore fitness earbuds take on the Powerbeats Pro with a rotating ear-hook design](https://www.theverge.com/2022/6/21/23176689/anker-soundcore-x10-fitness-earbuds-announced-features-price)
- - [Here Comes the Sun—to End Civilization](https://www.wired.com/story/sun-storm-end-civilization/)<!-- TECH:END -->
+ - [Facebook and Instagram won’t take a cut from creators’ revenues until 2024](https://www.theverge.com/2022/6/21/23176749/meta-instagram-facebook-creators-revenue-policy-reels)
+ - [South Korea hits a space race milestone with latest rocket launch](https://www.theverge.com/2022/6/21/23176805/first-south-korea-launches-domestic-rocket-satellite-space)
+ - [Master &amp; Dynamic launches MW75 with 32 hour battery life &amp; adaptive ANC](https://appleinsider.com/articles/22/06/21/master-dynamic-launches-mw75-with-32-hour-battery-life-adaptive-anc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
