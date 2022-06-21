@@ -191,9 +191,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Echobot and Finland&#39;s Leadfeeder, which both offer sales tools, agree to merge and have raised &amp;euro;180M from Great Hill Partners to expand &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220621/p6#a220621p6)
- - [SpaceX&#39;s Starlink aid to Ukraine has triggered scrutiny in China, as Chinese firms rush to deploy their own satellite constellations to compete &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p5#a220621p5)
- - [Philips Hue gets a new Tap dial switch, customizable track lighting, and more](https://www.theverge.com/2022/6/21/23176531/philips-hue-dial-remote-go-lamp-track-lighting-price-date)<!-- TECH:END -->
+ - [Sony could have a trio of new gaming headsets on the way](https://www.theverge.com/2022/6/21/23176570/sony-inzone-gaming-headsets-leak-h3-h7-h9-monitors)
+ - [Indian startup LeadSquared, which offers sales automation tools, has raised a $153M Series C led by WestBridge Capital at a $1B post-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220621/p11#a220621p11)
+ - [We asked, you told us: Here’s how many of you use alternative app stores](https://www.androidauthority.com/alternative-app-stores-poll-results-3178570/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
