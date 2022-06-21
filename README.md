@@ -184,9 +184,9 @@ Windows                  19 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Stockholders Vote To Release Annual Harassment Reports, Company Will &#39;Consider&#39; It](https://kotaku.com/activision-board-harassment-abuse-report-stockholders-v-1849090137)
- - [How to kill the Varuna Point Rhino Shark boss in Raft](https://www.polygon.com/raft-guide/23177160/rhino-shark-varuna-point-boss-how-to-beat-pillars-explosive-barrels)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
+ - [Build a Rapture that actually works in this undersea survival city builder](https://www.pcgamer.com/build-a-rapture-that-actually-works-in-this-undersea-survival-city-builder)
+ - [Doom Modder Ports Game To [Checks Notes] A Lego Brick](https://kotaku.com/doom-game-modder-james-brown-lego-brick-id-software-min-1849090717)
+ - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
