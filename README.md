@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enhanced edition of one of the greatest licensed games ever releases tomorrow](https://www.pcgamer.com/enhanced-edition-of-one-of-the-greatest-licensed-games-ever-made-out-tomorrow)
- - [Read This Before You Break Up Over Video Games](https://kotaku.com/video-game-addict-break-up-relationship-expert-advice-1849090961)
- - [Watch the new Nintendo Direct all about Xenoblade Chronicles 3](https://www.polygon.com/23178292/nintendo-direct-xenoblade-chronicles-3-watch-stream)<!-- GAME:END -->
+ - [League of Legends’ next champion is a water whip-wielding monk with a big demon](https://www.polygon.com/23176841/league-of-legends-nilah-joy-unbound-champion-kit-reveal)
+ - [Everything we know about World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-release-date)
+ - [Pokémon Go is getting more Ultra Beasts](https://www.polygon.com/23178342/pokemon-go-ultra-beasts-release-date-buzzwole-pheromosa-xurkitree-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
