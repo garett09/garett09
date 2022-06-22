@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All bark, all bite](http://9gag.com/gag/abgorBb)
- - 🚯 [Not getting over this one](http://9gag.com/gag/arn0Vd5)
+ - 🚖 [This world needs a good reset](http://9gag.com/gag/aVx8098)
+ - 🚯 [Always the english teachers](http://9gag.com/gag/aDDLgpK)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
