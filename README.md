@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mediatek Dimensity 9000 Plus launched: Its power level is &lpar;technically&rpar; over 9000](https://www.androidauthority.com/mediatek-dimensity-9000-plus-3177927/)
- - [Volvo’s commercial truck group is testing out hydrogen fuel cell semis](https://www.theverge.com/2022/6/21/23177624/volvo-trucks-tests-hydrogen-fuel-cell-semi)
- - [An analysis of how Apple&#39;s approach to ATT is anti-competitive and harms legitimate targeted ad businesses integral to the new internet economy &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220621/p35#a220621p35)<!-- TECH:END -->
+ - [Amazon announces its first fully autonomous mobile warehouse robot](https://www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery)
+ - [Wikimedia Enterprise, a paid service for companies reusing and sourcing Wikimedia content in high volume, lists Google and Internet Archive as its first clients &lpar;Wikimedia Foundation&rpar;](http://www.techmeme.com/220621/p38#a220621p38)
+ - [Best Internet Providers in Orlando     - CNET](https://www.cnet.com/news/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
