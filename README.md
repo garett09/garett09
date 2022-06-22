@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukraine kamikaze drone attack Russian oil facility &lpar;translation in comments&rpar;](http://9gag.com/gag/aPZ0RjR)
- - 🚯 [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)
- - 🚯 [Happend once, hopefully never again.](http://9gag.com/gag/avAVomW)<!-- MEMES:END -->
+ - 🚖 [Kraut trickery.](http://9gag.com/gag/aegErRv)
+ - 🚯 [5 years till 40..Yayyy](http://9gag.com/gag/aPZ07vn)
+ - 🚯 [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)<!-- MEMES:END -->
 
 --- 
 
