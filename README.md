@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Build a Rapture that actually works in this undersea survival city builder](https://www.pcgamer.com/build-a-rapture-that-actually-works-in-this-undersea-survival-city-builder)
- - [Doom Modder Ports Game To [Checks Notes] A Lego Brick](https://kotaku.com/doom-game-modder-james-brown-lego-brick-id-software-min-1849090717)
- - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)<!-- GAME:END -->
+ - [PCIe 7.0 to quadruple the bandwidth of PCIe 5.0, coming in 2025](https://www.pcgamer.com/pcie-70-to-quadruple-the-bandwidth-of-pcie-50-coming-in-2025)
+ - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)
+ - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
