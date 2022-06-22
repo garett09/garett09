@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not getting over this one](http://9gag.com/gag/arn0Vd5)
- - 🚯 [This makes perfect sense](http://9gag.com/gag/aYrB727)
+ - 🚖 [The unaimed arrow never misses.](http://9gag.com/gag/avAV5vE)
+ - 🚯 [`I have always stowed the coils like this. You are not going to teach me.`](http://9gag.com/gag/aGzqz15)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
