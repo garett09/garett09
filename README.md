@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s Phone 1 isn’t coming to the US](https://www.theverge.com/2022/6/22/23178221/nothings-phone-1-usa-release-date)
- - [Twitter partners with Shopify to launch a sales channel app, letting US merchants sell their products through Twitter&#39;s Shopping Manager &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220622/p19#a220622p19)
- - [AirTag helps man discover airline offices full of lost luggage](https://appleinsider.com/articles/22/06/22/airtag-helps-man-discover-airline-offices-full-of-lost-luggage?utm_medium=rss)<!-- TECH:END -->
+ - [Las Vegas-based Prime Trust, which offers crypto infrastructure tools, raised a $107M Series B, following a $65M Series A in July 2021 &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220622/p25#a220622p25)
+ - [MacBook Pro 13-inch &lpar;M2&rpar; review: still fast with excellent battery life, but just two USB-C ports, design is from 2016, and webcam is still bad &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220622/p24#a220622p24)
+ - [Nothing Phone 1 won’t be sold in the US, but future models might](https://www.androidauthority.com/nothing-phone-1-wont-be-sold-in-the-us-3179176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
