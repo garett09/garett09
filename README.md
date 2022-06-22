@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Team work makes the work easier](http://9gag.com/gag/avAV86n)
- - 🚯 [The only good scene in the whole movie](http://9gag.com/gag/adgM5Yj)
- - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
+ - 🚖 [The only good scene in the whole movie](http://9gag.com/gag/adgM5Yj)
+ - 🚯 [All bark, all bite](http://9gag.com/gag/abgorBb)
+ - 🚯 [Right in the arcade feels](http://9gag.com/gag/aOQOY23)<!-- MEMES:END -->
 
 --- 
 
