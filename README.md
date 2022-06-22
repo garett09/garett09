@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1955 ad](http://9gag.com/gag/a11nQxG)
- - 🚯 [Talk to me in Engles](http://9gag.com/gag/aGzqZbK)
- - 🚯 [This is the first rule](http://9gag.com/gag/aZrK78V)<!-- MEMES:END -->
+ - 🚖 [Ukraine kamikaze drone attack Russian oil facility &lpar;translation in comments&rpar;](http://9gag.com/gag/aPZ0RjR)
+ - 🚯 [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)
+ - 🚯 [Happend once, hopefully never again.](http://9gag.com/gag/avAVomW)<!-- MEMES:END -->
 
 --- 
 
