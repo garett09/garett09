@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 22: 22% off LG Ultragear monitor, $100 off M1 MacBook Air, 50% off Nighthawk routers, more](https://appleinsider.com/articles/22/06/22/daily-deals-june-22-22-off-lg-ultragear-monitor-100-off-m1-macbook-air-50-off-nighthawk-routers-more?utm_medium=rss)
- - [Welcome to our new Wednesday edition of The Vergecast](https://www.theverge.com/2022/6/22/23177684/meta-headsets-airpods-galaxy-buds-test-microsoft-eink-tablet-vergecast-podcast)
- - [Cambridge, UK-based Gearset, which offers DevOps tools for Salesforce, raised $55M led by Silversmith Capital Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220622/p27#a220622p27)<!-- TECH:END -->
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [Analysis finds HiMama and other popular daycare apps lack 2FA and have privacy-compromising features like trackers that were not disclosed in privacy policies &lpar;Alexis Hancock/Electronic Frontier ...&rpar;](http://www.techmeme.com/220622/p30#a220622p30)
+ - [Montblanc Summit 3 smartwatch is the second watch to launch with Wear OS 3](https://www.androidauthority.com/montblanc-summit-3-3179192/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
