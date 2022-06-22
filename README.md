@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I thought the point of acting was pretending to be something/someone you aren&#39;t?](http://9gag.com/gag/ay9AM58)
- - 🚯 [Not getting over this one](http://9gag.com/gag/arn0Vd5)
+ - 🚖 [Not getting over this one](http://9gag.com/gag/arn0Vd5)
+ - 🚯 [This makes perfect sense](http://9gag.com/gag/aYrB727)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
