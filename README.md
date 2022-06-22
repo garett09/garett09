@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ next champion is a water whip-wielding monk with a big demon](https://www.polygon.com/23176841/league-of-legends-nilah-joy-unbound-champion-kit-reveal)
- - [Everything we know about World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-release-date)
- - [Pokémon Go is getting more Ultra Beasts](https://www.polygon.com/23178342/pokemon-go-ultra-beasts-release-date-buzzwole-pheromosa-xurkitree-how-to-get)<!-- GAME:END -->
+ - [The New Construction Simulator Releases This September](https://news.xbox.com/en-us/2022/06/22/167698/)
+ - [In-Depth Look At Xenoblade Chronicles 3 Shows Off A Massive, Messy JRPG](https://kotaku.com/xenoblade-chronicles-3-nintendo-direct-monolith-soft-jr-1849093481)
+ - [Bobby Kotick Is Staying On Activision Blizzard&#39;s Board, Ew](https://kotaku.com/activision-blizzard-ceo-bobby-kotick-vote-board-directo-1849093322)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
