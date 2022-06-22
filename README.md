@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kraut trickery.](http://9gag.com/gag/aegErRv)
- - 🚯 [5 years till 40..Yayyy](http://9gag.com/gag/aPZ07vn)
- - 🚯 [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)<!-- MEMES:END -->
+ - 🚖 [All bark, all bite](http://9gag.com/gag/abgorBb)
+ - 🚯 [Not getting over this one](http://9gag.com/gag/arn0Vd5)
+ - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
 
