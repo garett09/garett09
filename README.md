@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get woke, go broke](http://9gag.com/gag/aYrBg1N)
- - 🚯 [Classic game](http://9gag.com/gag/aggbnm1)
+ - 🚖 [Dad](http://9gag.com/gag/aKmyxVW)
+ - 🚯 [Nice design](http://9gag.com/gag/aGzqZKn)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
