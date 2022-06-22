@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says &#39;stay tuned&#39; to see how Apple will evolve AR with humanity](https://appleinsider.com/articles/22/06/22/tim-cook-says-stay-tuned-for-how-apple-will-evolve-ar-with-humanity?utm_medium=rss)
- - [Ataccama, which offers enterprise data management and governance tools, raised $150M from Bain Capital, source says at a $550M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220622/p13#a220622p13)
- - [Do Birth Control Pills Affect Your Mood? Scientists Can’t Agree](https://www.wired.com/story/do-birth-control-pills-affect-your-mood-scientists-cant-agree/)<!-- TECH:END -->
+ - [Nothing’s Phone 1 isn’t coming to the US](https://www.theverge.com/2022/6/22/23178221/nothings-phone-1-usa-release-date)
+ - [Twitter partners with Shopify to launch a sales channel app, letting US merchants sell their products through Twitter&#39;s Shopping Manager &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220622/p19#a220622p19)
+ - [AirTag helps man discover airline offices full of lost luggage](https://appleinsider.com/articles/22/06/22/airtag-helps-man-discover-airline-offices-full-of-lost-luggage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
