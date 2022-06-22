@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only good scene in the whole movie](http://9gag.com/gag/adgM5Yj)
- - 🚯 [All bark, all bite](http://9gag.com/gag/abgorBb)
- - 🚯 [Right in the arcade feels](http://9gag.com/gag/aOQOY23)<!-- MEMES:END -->
+ - 🚖 [1955 ad](http://9gag.com/gag/a11nQxG)
+ - 🚯 [Talk to me in Engles](http://9gag.com/gag/aGzqZbK)
+ - 🚯 [This is the first rule](http://9gag.com/gag/aZrK78V)<!-- MEMES:END -->
 
 --- 
 
