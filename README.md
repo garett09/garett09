@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made from the finest materials](http://9gag.com/gag/a31DMnv)
- - 🚯 [Get woke, go broke](http://9gag.com/gag/aYrBg1N)
+ - 🚖 [Get woke, go broke](http://9gag.com/gag/aYrBg1N)
+ - 🚯 [Classic game](http://9gag.com/gag/aggbnm1)
  - 🚯 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 --- 
