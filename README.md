@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces its first fully autonomous mobile warehouse robot](https://www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery)
- - [Wikimedia Enterprise, a paid service for companies reusing and sourcing Wikimedia content in high volume, lists Google and Internet Archive as its first clients &lpar;Wikimedia Foundation&rpar;](http://www.techmeme.com/220621/p38#a220621p38)
- - [Best Internet Providers in Orlando     - CNET](https://www.cnet.com/news/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany-based Wingcopter, a delivery drone company for transporting medical supplies, raised a $42M Series A extension, tripling its total funding to $60M+ &lpar;Jack Daleo/FreightWaves&rpar;](http://www.techmeme.com/220621/p41#a220621p41)
+ - [Apple Releases new Safari Technology Preview with macOS Ventura features](https://appleinsider.com/articles/22/06/22/apple-releases-new-safari-technology-preview-with-macos-ventura-features?utm_medium=rss)
+ - [Twitter is testing Twitter Notes to let users create articles with rich text formatting and uploaded media, which can then be tweeted and shared upon publishing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220621/p40#a220621p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
