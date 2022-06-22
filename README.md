@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer guide #368: Wednesday, June 22](https://www.pcgamer.com/wordle-today-june-22-368)
- - [Gaming laptops are set for a stealthy upgrade thanks to Cherry&#39;s new switches](https://www.pcgamer.com/cherry-mx-low-profile-switches-now-come-with-stealth-options)
- - [Tabs are coming to Windows 11 Explorer, and they&#39;re saving your RAM](https://www.pcgamer.com/tabs-are-coming-to-windows-11-explorer-and-theyre-saving-your-ram)<!-- GAME:END -->
+ - [How to get Mjolnir in Ark: Survival Evolved](https://www.pcgamer.com/ark-survival-evolved-mjolnir)
+ - [The new game from Saber Interactive looks like Darkest Dungeon at a steampunk circus](https://www.pcgamer.com/the-new-game-from-saber-interactive-looks-like-darkest-dungeon-at-a-steampunk-circus)
+ - [Gran Turismo 7 Update 1.17 brings three new 3 cars, an international circuit, and Extra Menus](https://blog.playstation.com/2022/06/22/gran-turismo-7-update-1-17-brings-three-new-3-cars-an-international-circuit-and-extra-menus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
