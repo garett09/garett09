@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social Security Numbers Stolen in Flagstar Bank Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/social-security-numbers-stolen-in-flagstar-bank-data-breach/#ftag=CAD590a51e)
- - [In stock: 2TB M1 Max MacBook Pro 16-inch now $200 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/06/22/in-stock-2tb-m1-max-macbook-pro-16-inch-now-200-off-plus-80-off-applecare?utm_medium=rss)
- - [Shopify launches expanded NFT integrations for merchants, including letting customers unlock special products, perks, and experiences &lpar;Tomio Geron/Protocol&rpar;](http://www.techmeme.com/220622/p32#a220622p32)<!-- TECH:END -->
+ - [Obi-Wan Kenobi is entirely predictable — but that doesn’t make it any less fun](https://www.theverge.com/23178299/obi-wan-kenobi-season-1-review-disney-plus)
+ - [Spotify says it is conducting early tests of a new feature called Community, which allows mobile users to see their friends&#39; listening activity in real time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220622/p34#a220622p34)
+ - [Apple releases second developer beta of macOS Ventura](https://appleinsider.com/articles/22/06/22/apple-releases-second-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
