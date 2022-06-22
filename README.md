@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [Analysis finds HiMama and other popular daycare apps lack 2FA and have privacy-compromising features like trackers that were not disclosed in privacy policies &lpar;Alexis Hancock/Electronic Frontier ...&rpar;](http://www.techmeme.com/220622/p30#a220622p30)
- - [Montblanc Summit 3 smartwatch is the second watch to launch with Wear OS 3](https://www.androidauthority.com/montblanc-summit-3-3179192/)<!-- TECH:END -->
+ - [Social Security Numbers Stolen in Flagstar Bank Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/social-security-numbers-stolen-in-flagstar-bank-data-breach/#ftag=CAD590a51e)
+ - [In stock: 2TB M1 Max MacBook Pro 16-inch now $200 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/06/22/in-stock-2tb-m1-max-macbook-pro-16-inch-now-200-off-plus-80-off-applecare?utm_medium=rss)
+ - [Shopify launches expanded NFT integrations for merchants, including letting customers unlock special products, perks, and experiences &lpar;Tomio Geron/Protocol&rpar;](http://www.techmeme.com/220622/p32#a220622p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
