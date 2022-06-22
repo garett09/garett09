@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Canadian government approves legislation that will compel YouTube, TikTok, and streaming services to boost domestic content; the law now heads to the Senate &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/220622/p10#a220622p10)
- - [EcoFlow solar-tracking robot review: beep, blop, stop!](https://www.theverge.com/23171154/ecoflow-solar-tracker-review-power-charging-efficiency-noise)
- - [Leap, which offers online resources like visa assistance to help Indians study abroad, raised $75M led by Owl Ventures at a nearly $1B valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220622/p9#a220622p9)<!-- TECH:END -->
+ - [Tim Cook says &#39;stay tuned&#39; to see how Apple will evolve AR with humanity](https://appleinsider.com/articles/22/06/22/tim-cook-says-stay-tuned-for-how-apple-will-evolve-ar-with-humanity?utm_medium=rss)
+ - [Ataccama, which offers enterprise data management and governance tools, raised $150M from Bain Capital, source says at a $550M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220622/p13#a220622p13)
+ - [Do Birth Control Pills Affect Your Mood? Scientists Can’t Agree](https://www.wired.com/story/do-birth-control-pills-affect-your-mood-scientists-cant-agree/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
