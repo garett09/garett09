@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Construction Simulator Releases This September](https://news.xbox.com/en-us/2022/06/22/167698/)
- - [In-Depth Look At Xenoblade Chronicles 3 Shows Off A Massive, Messy JRPG](https://kotaku.com/xenoblade-chronicles-3-nintendo-direct-monolith-soft-jr-1849093481)
- - [Bobby Kotick Is Staying On Activision Blizzard&#39;s Board, Ew](https://kotaku.com/activision-blizzard-ceo-bobby-kotick-vote-board-directo-1849093322)<!-- GAME:END -->
+ - [The Umbrella Academy comics are so much weirder than the show](https://www.polygon.com/entertainment/23177152/the-umbrella-academy-comics-weird-moments)
+ - [Thank You, PS Plus, For Making My Backlog Even Bigger](https://kotaku.com/ps-plus-game-catalog-dark-cloud-racer-revenge-jak-and-d-1849093968)
+ - [Fall Guys Goes Free-To-Play, Servers Immediately Crash](https://kotaku.com/fall-guys-goes-free-to-play-servers-immediately-crash-1849093851)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
