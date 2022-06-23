@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s pretty cool](http://9gag.com/gag/arn0ynB)
- - 🚯 [Facts, i hate this feeling](http://9gag.com/gag/aog6yyn)
+ - 🚖 [It\u2019s more about fit than qualifications](http://9gag.com/gag/aGzqy2z)
+ - 🚯 [Someone created this in minecraft ..](http://9gag.com/gag/aDDLYeO)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
