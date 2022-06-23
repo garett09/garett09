@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie hits YouTuber with a $7.6 million lawsuit for fake DMCA claims](https://www.polygon.com/23180433/bungie-youtube-dmca-takedowns-lawsuit-lord-nazo)
- - [Horror movie Barbarian looks like the ultimate Airbnb nightmare](https://www.polygon.com/23180140/barbarian-horror-movie-trailer-justin-long-release-date-cast)
- - [Into the Breach is getting a big update, coming to mobile thanks to Netflix](https://www.polygon.com/23180377/into-the-breach-ios-android-netflix-release-date)<!-- GAME:END -->
+ - [5 things to know about Overwatch 2 from Blizzard’s Reddit Q&amp;A](https://www.polygon.com/23180380/overwatch-2-reddit-ama-credits-loot-boxes-maps-guilds)
+ - [Getting Started with Naraka: Bladepoint, the Mythical Action Battle Royale](https://news.xbox.com/en-us/2022/06/23/getting-started-with-naraka-bladepoint/)
+ - [The best deals in the 2022 Steam Summer Sale](https://www.pcgamer.com/steam-summer-sale-deals-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
