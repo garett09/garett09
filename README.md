@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acclaimed strategy game Into the Breach comes to mobile via Netflix](https://www.theverge.com/2022/6/23/23180572/into-the-breach-netflix-mobile-ios-android-advanced-edition)
- - [Tesla partners with California utility on virtual power plant](https://www.theverge.com/2022/6/23/23180471/tesla-california-utility-virtual-power-plant-powerwall)
- - [Intel delays its scheduled July 22 groundbreaking of a $20B Ohio chip plant due to uncertainty around the Bipartisan Innovation Act, but still plans to build it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220623/p30#a220623p30)<!-- TECH:END -->
+ - [Report: video gaming revenue in China fell for a third consecutive month in May, declining 6.7% YoY to $3.4B, amid a slowing economy and regulatory uncertainty &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/220623/p32#a220623p32)
+ - [See the Largest Burmese Python Ever Captured in Florida     - CNET](https://www.cnet.com/science/biology/see-the-largest-burmese-python-ever-captured-in-florida/#ftag=CAD590a51e)
+ - [Vibrant Planet, a public-benefit startup that is developing software for forest management, has raised a $17M seed &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/220623/p31#a220623p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
