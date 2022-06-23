@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pineapple in different languages](http://9gag.com/gag/adgMv2Q)
- - 🚯 [Man in China uses fireworks to fight off bulldozer sent to demolish his building](http://9gag.com/gag/aOQO28v)
+ - 🚖 [The plural of fish](http://9gag.com/gag/aYrBGXm)
+ - 🚯 [For once.. not #aliens](http://9gag.com/gag/axB8vQb)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
