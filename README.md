@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Standards](http://9gag.com/gag/aNPXLzv)
- - 🚯 [It\u2019s more about fit than qualifications](http://9gag.com/gag/aGzqy2z)
+ - 🚖 [Give me your best pet nickname and how you decided on it](http://9gag.com/gag/aVx8gz2)
+ - 🚯 [Just dont](http://9gag.com/gag/adgMv0Q)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
