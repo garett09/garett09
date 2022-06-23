@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackpot, which is developing an online lottery ticket app and website to make buying US state lottery tickets easier, has raised a $35M Series A &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/220622/p49#a220622p49)
- - [Cashify, an Indian marketplace for selling and buying used smartphones and other gadgets, has raised a $90M Series E, bringing its total funding to over $130M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220622/p48#a220622p48)
- - [&#39;The Umbrella Academy&#39; Season 3: Ending Explained and All Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-ending-explained-and-all-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase says it plans to shut down its standalone, trader-focused Pro service by the end of 2022 and replace it with Advanced Trade in the main app and site &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220622/p51#a220622p51)
+ - [Mountain View-based Sanas, which develops a call center voice AI that changes users&#39; accents in real time, raised a $32M Series A led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220622/p50#a220622p50)
+ - [&#39;Obi-Wan Kenobi&#39; Finale Recap: Ending and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-finale-recap-ending-and-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
