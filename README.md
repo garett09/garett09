@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Open your Overwatch loot boxes or Blizzard will do it for you](https://www.pcgamer.com/open-your-overwatch-loot-boxes-or-blizzard-will-do-it-for-you)
  - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)
- - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)
- - [Today&#39;s Wordle answer guide #369: Thursday, June 23](https://www.pcgamer.com/wordle-today-june-23-369)<!-- GAME:END -->
+ - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
