@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase says it plans to shut down its standalone, trader-focused Pro service by the end of 2022 and replace it with Advanced Trade in the main app and site &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220622/p51#a220622p51)
- - [Mountain View-based Sanas, which develops a call center voice AI that changes users&#39; accents in real time, raised a $32M Series A led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220622/p50#a220622p50)
- - [&#39;Obi-Wan Kenobi&#39; Finale Recap: Ending and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-finale-recap-ending-and-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cerebras says its &quot;wafer-scale&quot; chip sets a record for the largest AI model trained on a single device with up to 20B parameters &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220623/p1#a220623p1)
+ - [These &#39;Stranger Things&#39; TikToks Will Tide You Over Until Season 4, Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/these-stranger-things-tiktoks-will-tide-you-over-until-season-4-vol-2/#ftag=CAD590a51e)
+ - [Coinbase says it plans to shut down its standalone, trader-focused Pro service by the end of 2022 and replace it with Advanced Trade in the main app and site &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220622/p51#a220622p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
