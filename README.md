@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2022 Steam Summer Sale is live for the next two weeks](https://www.polygon.com/23180319/steam-summer-sale-live-dates-details)
- - [Obi-Wan Kenobi’s aging, explained](https://www.polygon.com/23180299/obi-wan-kenobi-show-age-fictional-character-played-by-actors)
- - [Microsoft Flight Simulator’s next update could make room for the Space Shuttle](https://www.polygon.com/23179045/microsoft-flight-simulator-space-shuttle-update-gliders-40th-anniversary)<!-- GAME:END -->
+ - [Bungie hits YouTuber with a $7.6 million lawsuit for fake DMCA claims](https://www.polygon.com/23180433/bungie-youtube-dmca-takedowns-lawsuit-lord-nazo)
+ - [Horror movie Barbarian looks like the ultimate Airbnb nightmare](https://www.polygon.com/23180140/barbarian-horror-movie-trailer-justin-long-release-date-cast)
+ - [Into the Breach is getting a big update, coming to mobile thanks to Netflix](https://www.polygon.com/23180377/into-the-breach-ios-android-netflix-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
