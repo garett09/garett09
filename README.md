@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Amazing...](http://9gag.com/gag/aKmy1MQ)
- - 🚯 [Hurr &#39;&#39;I was under the influence of an evil magic book&#39;&#39; Durr](http://9gag.com/gag/axB8yMK)
+ - 🚯 [Latinx...](http://9gag.com/gag/azezd8N)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
