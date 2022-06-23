@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delores!](http://9gag.com/gag/aYrBQ7O)
- - 🚯 [I feel like shit](http://9gag.com/gag/aVx8gdP)
+ - 🚖 [Amazing...](http://9gag.com/gag/aKmy1MQ)
+ - 🚯 [Hurr &#39;&#39;I was under the influence of an evil magic book&#39;&#39; Durr](http://9gag.com/gag/axB8yMK)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
