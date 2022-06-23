@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Open your Overwatch loot boxes or Blizzard will do it for you](https://www.pcgamer.com/open-your-overwatch-loot-boxes-or-blizzard-will-do-it-for-you)
- - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)
- - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)<!-- GAME:END -->
+ - [The questions we are really hoping Umbrella Academy answers in season 4](https://www.polygon.com/23179263/umbrella-academy-season-4-3-questions-explained)
+ - [Microsoft&#39;s released a quick check to see whether your PC is ready for DirectStorage and next-gen gaming](https://www.pcgamer.com/check-your-pc-for-directstorage-support-today)
+ - [AMD&#39;s epic new FSR 2.0 upscaling just took a big step toward wider use](https://www.pcgamer.com/amds-epic-new-fsr-20-upscaling-just-took-a-big-step-toward-wider-use)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
