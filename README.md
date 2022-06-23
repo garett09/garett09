@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rob Zombie is a true chad](http://9gag.com/gag/aXrzLn9)
- - 🚯 [Standards](http://9gag.com/gag/aNPXLzv)
+ - 🚖 [Delores!](http://9gag.com/gag/aYrBQ7O)
+ - 🚯 [I feel like shit](http://9gag.com/gag/aVx8gdP)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
