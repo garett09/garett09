@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Nintendo and the Steam summer sale are here to ruin you financially](https://www.theverge.com/good-deals/2022/6/23/23180287/nintendo-switch-eshop-steam-deck-valve-games-summer-deal-sale)
- - [Where’s the next generation of COVID-19 shots?](https://www.theverge.com/2022/6/23/23178677/covid-vaccine-booster-variants-omicron-nasal)<!-- TECH:END -->
+ - [Attackers hit iOS and Android devices with spyware in Italy and Kazakhstan](https://appleinsider.com/articles/22/06/23/attackers-hit-ios-and-android-devices-with-spyware-in-italy-and-kazakhstan?utm_medium=rss)
+ - [RCS is still half-baked, and Apple has no reason to adopt it](https://appleinsider.com/articles/22/06/23/rcs-is-still-half-baked-and-apple-has-no-reason-to-adopt-it?utm_medium=rss)
+ - [Netflix cuts around 300 jobs after losing subscribers](https://www.theverge.com/2022/6/23/23180281/netflix-layoffs-cuts-300-jobs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
