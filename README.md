@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Over 1,000 Southwest Airlines pilots are protesting outside Love Field, Dallas for being overworked and understaffed](http://9gag.com/gag/aBnM2GZ)
- - 🚯 [Doubt](http://9gag.com/gag/aRrGXBj)
+ - 🚖 [Fxitinpost](http://9gag.com/gag/avAVQGO)
+ - 🚯 [That\u2019s an insane level of skill!](http://9gag.com/gag/a4181YA)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
