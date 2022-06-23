@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Attackers hit iOS and Android devices with spyware in Italy and Kazakhstan](https://appleinsider.com/articles/22/06/23/attackers-hit-ios-and-android-devices-with-spyware-in-italy-and-kazakhstan?utm_medium=rss)
- - [RCS is still half-baked, and Apple has no reason to adopt it](https://appleinsider.com/articles/22/06/23/rcs-is-still-half-baked-and-apple-has-no-reason-to-adopt-it?utm_medium=rss)
- - [Netflix cuts around 300 jobs after losing subscribers](https://www.theverge.com/2022/6/23/23180281/netflix-layoffs-cuts-300-jobs)<!-- TECH:END -->
+ - [Crypto may be &quot;more bad than good&quot; but decentralization is its main use case, so the claim that &quot;there are still no use cases for crypto&quot; is not rational &lpar;Evan Conrad&rpar;](http://www.techmeme.com/220623/p29#a220623p29)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [You can now use your Chromebook to quickly access your phone’s pictures](https://www.androidauthority.com/chromebook-phone-pictures-3179764/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
