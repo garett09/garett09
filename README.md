@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give me your best pet nickname and how you decided on it](http://9gag.com/gag/aVx8gz2)
- - 🚯 [Just dont](http://9gag.com/gag/adgMv0Q)
+ - 🚖 [Rob Zombie is a true chad](http://9gag.com/gag/aXrzLn9)
+ - 🚯 [Standards](http://9gag.com/gag/aNPXLzv)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
