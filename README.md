@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50% chance, but happening 99% of the times i open the box](http://9gag.com/gag/awzDZbr)
+ - 🚖 [That&#39;s pretty cool](http://9gag.com/gag/arn0ynB)
  - 🚯 [Satisfying](http://9gag.com/gag/azez2NN)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
