@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung admits to making misleading water-resistance claims about 7 phones](https://www.androidauthority.com/samsung-misleading-ads-water-resistance-3179507/)
- - [A profile of Changpeng Zhao, who built Binance into the largest crypto exchange, as he navigates a regulatory crackdown in a brutal crypto winter &lpar;Bloomberg&rpar;](http://www.techmeme.com/220623/p6#a220623p6)
- - [The Loneliness of the Junior College Esports Coach](https://www.wired.com/story/the-loneliness-of-the-junior-college-esports-coach/)<!-- TECH:END -->
+ - [How Covid Tracking Apps Are Pivoting for Commercial Profit](https://www.wired.com/story/covid-19-data-switch/)
+ - [Parents Need to Know What’s Going On Inside Their Day Care Apps](https://www.wired.com/story/daycare-app-privacy-security/)
+ - [Meta Made Millions From Ads That Spread Disinformation](https://www.wired.com/story/meta-is-making-millions-from-adverts-spreading-disinformation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
