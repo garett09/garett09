@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Spy Kids reboot will star Gina Rodriguez and Zachary Levi](https://www.polygon.com/23180761/spy-kids-netflix-reboot-gina-rodriguez-zachary-levi-robert-rodriguez)
- - [Devs Share The Wild, Secret Hacks Your Favorite Games Rely On](https://kotaku.com/dirty-tricks-secrets-hacks-devs-assassin-s-creed-horses-1849102054)
- - [Escape Academy does an impressive job of recreating the escape room experience](https://www.pcgamer.com/escape-academy-does-an-impressive-job-of-recreating-the-escape-room-experience)<!-- GAME:END -->
+ - [Ubisoft CEO Takes $300,000 Pay Cut After Company’s Poor Performance](https://kotaku.com/ubisoft-ceo-yves-guillemot-assassin-s-creed-valhalla-pa-1849102248)
+ - [I still don&#39;t know what the metaverse is, but it has a &#39;Standards Forum&#39; now](https://www.pcgamer.com/i-still-dont-know-what-the-metaverse-is-but-it-has-a-standards-forum-now)
+ - [Warzone Season 4 players agree: great new map, jury&#39;s still out on balance changes](https://www.pcgamer.com/warzone-season-4-players-agree-great-new-map-jurys-still-out-on-balance-changes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
