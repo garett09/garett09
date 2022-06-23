@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smol](http://9gag.com/gag/aVx8KqM)
- - 🚯 [Just want to tell the younglings to watch this movie.](http://9gag.com/gag/arn0X45)
+ - 🚖 [The ant city](http://9gag.com/gag/arn03DK)
+ - 🚯 [Smol](http://9gag.com/gag/aVx8KqM)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
