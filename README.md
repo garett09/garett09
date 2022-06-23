@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Filming of a Train scene](http://9gag.com/gag/aYrBOEw)
- - 🚯 [Everyone is watching and enjoy the show](http://9gag.com/gag/aVx8oZ8)
+ - 🚖 [Smol](http://9gag.com/gag/aVx8KqM)
+ - 🚯 [Just want to tell the younglings to watch this movie.](http://9gag.com/gag/arn0X45)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
