@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s in a Season? More on Age IV Seasons Two and Three!](https://news.xbox.com/en-us/2022/06/23/whats-in-a-season-more-on-age-iv-seasons-two-and-three/)
- - [Deliver Us the Moon Launches Today on Xbox Series X|S](https://news.xbox.com/en-us/2022/06/23/deliver-us-the-moon-launches-today/)
- - [Destiny 2 YouTube Takedown Revenge Plot Leads To $7.6 Million Bungie Lawsuit](https://kotaku.com/destiny-2-witch-queen-bungie-dmca-youtube-lawsuit-copyr-1849100023)<!-- GAME:END -->
+ - [The 2022 Steam Summer Sale is live for the next two weeks](https://www.polygon.com/23180319/steam-summer-sale-live-dates-details)
+ - [Obi-Wan Kenobi’s aging, explained](https://www.polygon.com/23180299/obi-wan-kenobi-show-age-fictional-character-played-by-actors)
+ - [Microsoft Flight Simulator’s next update could make room for the Space Shuttle](https://www.polygon.com/23179045/microsoft-flight-simulator-space-shuttle-update-gliders-40th-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
