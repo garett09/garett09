@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing...](http://9gag.com/gag/aKmy1MQ)
- - 🚯 [Andrea Fuentes saves pupil from drowning at world cup](http://9gag.com/gag/aLv3L8P)
- - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
+ - 🚖 [Everyone is watching and enjoy the show](http://9gag.com/gag/aVx8oZ8)
+ - 🚯 [I feel like shit](http://9gag.com/gag/aVx8gdP)
+ - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
 
