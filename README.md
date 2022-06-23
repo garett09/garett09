@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The questions we are really hoping Umbrella Academy answers in season 4](https://www.polygon.com/23179263/umbrella-academy-season-4-3-questions-explained)
- - [Microsoft&#39;s released a quick check to see whether your PC is ready for DirectStorage and next-gen gaming](https://www.pcgamer.com/check-your-pc-for-directstorage-support-today)
- - [AMD&#39;s epic new FSR 2.0 upscaling just took a big step toward wider use](https://www.pcgamer.com/amds-epic-new-fsr-20-upscaling-just-took-a-big-step-toward-wider-use)<!-- GAME:END -->
+ - [Vampire Survivors’ New Character Is, Uh…A Tree That Doesn’t Move At All](https://kotaku.com/vampire-survivors-playable-tree-secret-peppino-beta-upd-1849096695)
+ - [Super Stardust Portable sneaks onto PlayStation Plus Premium](https://www.polygon.com/23179863/playstation-plus-premium-launch-line-up-super-stardust-portable)
+ - [No Man’s Sky coming to Nintendo Switch in October](https://www.polygon.com/23179237/no-mans-sky-nintendo-switch-release-date-ps5-physical-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
