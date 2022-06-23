@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [That&#39;s pretty cool](http://9gag.com/gag/arn0ynB)
- - 🚯 [Satisfying](http://9gag.com/gag/azez2NN)
+ - 🚯 [Facts, i hate this feeling](http://9gag.com/gag/aog6yyn)
  - 🚯 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 --- 
