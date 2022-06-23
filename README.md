@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone is watching and enjoy the show](http://9gag.com/gag/aVx8oZ8)
- - 🚯 [I feel like shit](http://9gag.com/gag/aVx8gdP)
+ - 🚖 [Pineapple in different languages](http://9gag.com/gag/adgMv2Q)
+ - 🚯 [Comparing soundtracks](http://9gag.com/gag/a31D55r)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
