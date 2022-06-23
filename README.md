@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Creator Confirms Michael Jackson Composed Music For Sonic 3](https://kotaku.com/sonic-origins-yuji-naka-michael-jackson-carnival-night-1849099570)
- - [Zombie shooter Killing Floor 2 gets first big update of 2022](https://www.pcgamer.com/zombie-shooter-killing-floor-2-gets-first-big-update-of-2022)
- - [Today&#39;s Wordle answer for Thursday, June 23 &lpar;#369&rpar;](https://www.pcgamer.com/wordle-today-june-23-369-answer-hint)<!-- GAME:END -->
+ - [What’s in a Season? More on Age IV Seasons Two and Three!](https://news.xbox.com/en-us/2022/06/23/whats-in-a-season-more-on-age-iv-seasons-two-and-three/)
+ - [Deliver Us the Moon Launches Today on Xbox Series X|S](https://news.xbox.com/en-us/2022/06/23/deliver-us-the-moon-launches-today/)
+ - [Destiny 2 YouTube Takedown Revenge Plot Leads To $7.6 Million Bungie Lawsuit](https://kotaku.com/destiny-2-witch-queen-bungie-dmca-youtube-lawsuit-copyr-1849100023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
