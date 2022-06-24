@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Windows 11 update fixes game crash woes for some users](https://www.pcgamer.com/the-latest-windows-11-update-fixes-game-crash-woes-for-some-users)
- - [Fruits Basket: Prelude goes full soap opera, for better or worse](https://www.polygon.com/23178983/fruits-basket-prelude-review)
- - [Destiny 2 Xur location and items, June 24-28](https://www.polygon.com/destiny-2-guide-walkthrough/2022/6/24/23181917/destiny-2-xur-location-items-june-24-28)<!-- GAME:END -->
+ - [We watched Westworld season 3 so you don’t have to](https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer)
+ - [Halo Devs ‘Exploring’ Microtransactions For Master Chief Collection, An 8-Year-Old Game](https://kotaku.com/halo-master-chief-collection-microtransactions-343-indu-1849106566)
+ - [Chris Pratt Ominously Declares His Mario Voice Is &#39;Unlike Anything&#39; From The Games](https://kotaku.com/chris-pratt-teases-mario-voice-nintendo-animated-film-i-1849106424)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
