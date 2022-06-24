@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ant city](http://9gag.com/gag/arn03DK)
+ - 🚖 [Countries in the world using MM/DD/YYYY Date form](http://9gag.com/gag/a11n0LR)
  - 🚯 [Smol](http://9gag.com/gag/aVx8KqM)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
