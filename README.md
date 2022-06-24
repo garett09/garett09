@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This storm-themed spa room](http://9gag.com/gag/ang3noE)
- - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
+ - 🚖 [A good way to see countries actual sizes](http://9gag.com/gag/ang3nAB)
+ - 🚯 [I think it has a malfunction, but it works tho.](http://9gag.com/gag/aRrGzDq)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
