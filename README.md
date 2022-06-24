@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tapcheck, an earned wage access service that connects with payroll systems of employers like McDonald&#39;s to calculate employee earnings, raised a $20M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p13#a220624p13)
- - [How to reuse an iPad as a remote On Air light](https://appleinsider.com/articles/22/06/24/how-to-reuse-an-ipad-as-a-remote-on-air-light?utm_medium=rss)
- - [&#39;AirPods Pro 2&#39; may act as hearing aids &amp; have improved charging case](https://appleinsider.com/articles/22/06/24/new-leak-suggests-airpods-pro-2-to-act-as-hearing-aids-get-improved-charging-case?utm_medium=rss)<!-- TECH:END -->
+ - [Best price ever: lifetime Microsoft Office for Mac Home &amp; Business 2021 license just $39.99](https://appleinsider.com/articles/22/06/24/best-price-ever-lifetime-microsoft-office-for-mac-home-business-2021-license-just-3999?utm_medium=rss)
+ - [Crypto trading platform Bitpanda, which has 1,000+ staff per LinkedIn and raised $263M at a $4.1B valuation in 2021, says it is cutting its headcount to 730 &lpar;Finextra&rpar;](http://www.techmeme.com/220624/p14#a220624p14)
+ - [Cyberpunk 2077 is getting a board game](https://www.theverge.com/2022/6/24/23181868/cyberpunk-2077-gangs-of-night-city-board-game-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
