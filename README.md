@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👋 What I’ve learned](https://www.androidauthority.com/daily-authority-june-24-2022-3180129/)
- - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
- - [The End of Klarna’s Easy Money Is Bad News for BNPL](https://www.wired.com/story/the-end-of-klarnas-easy-money-is-bad-news-for-bnpl/)<!-- TECH:END -->
+ - [Apple looking at January 2023 for AR headset release, Kuo says](https://appleinsider.com/articles/22/06/24/apple-will-likely-release-its-mixed-reality-headset-in-january-2023-kuo-says?utm_medium=rss)
+ - [How to get started making music on a Mac](https://appleinsider.com/inside/mac/tips/how-to-get-started-making-music-on-a-mac?utm_medium=rss)
+ - [MSI’s No-Frills Gaming Laptop Misses the Mark on Value](https://www.wired.com/review/msi-katana-gf66/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
