@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where did you go for holidays ? Drink !](http://9gag.com/gag/azezRgm)
- - 🚯 [Greed](http://9gag.com/gag/a91em8D)
+ - 🚖 [Meanwhile](http://9gag.com/gag/aVx8Lwy)
+ - 🚯 [Bless my friend... He tried](http://9gag.com/gag/aZrKE69)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
