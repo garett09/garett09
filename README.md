@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ adapts Edith Wharton&#39;s unfinished &#39;The Buccaneers&#39;](https://appleinsider.com/articles/22/06/24/apple-tv-adapts-edith-whartons-unfinished-the-buccaneers?utm_medium=rss)
- - [Nothing opens Phone 1 waitlist if you must have it at launch](https://www.androidauthority.com/nothing-phone-1-waitlist-3180100/)
- - [Microsoft prepares to forget about Windows 8.1 with end of support notifications](https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups)<!-- TECH:END -->
+ - [Daily Authority: 👋 What I’ve learned](https://www.androidauthority.com/daily-authority-june-24-2022-3180129/)
+ - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [The End of Klarna’s Easy Money Is Bad News for BNPL](https://www.wired.com/story/the-end-of-klarnas-easy-money-is-bad-news-for-bnpl/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
