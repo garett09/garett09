@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s monstrous 55-inch Odyssey Ark monitor could go on sale in August](https://www.theverge.com/2022/6/24/23182030/samsung-55-inch-odyssey-ark-monitor-august-launch-rumors-ces)
- - [How TikTok is cashing in on its exploding popularity; source: TikTok plans to grow its e-commerce gross merchandise volume to $2B in 2022 and $23B in 2023 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220624/p15#a220624p15)
- - [Best price ever: lifetime Microsoft Office for Mac Home &amp; Business 2021 license just $39.99](https://appleinsider.com/articles/22/06/24/best-price-ever-lifetime-microsoft-office-for-mac-home-business-2021-license-just-3999?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+ - [Apple won&#39;t challenge union vote at Maryland retail location](https://appleinsider.com/articles/22/06/24/apple-wont-challenge-union-vote-at-maryland-retail-location?utm_medium=rss)
+ - [America’s Armed Forces Are Weaker Without Roe](https://www.wired.com/story/america-armed-forces-roe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
