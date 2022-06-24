@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NHL is getting into NFTs, because that’s just what sports leagues do now](https://www.theverge.com/2022/6/24/23181441/nhl-nfts-sweet-digital-collectibles)
- - [Zomato acquires instant delivery service Blinkit, formerly Grofers, for $568.1M; Blinkit raised about $700M in total and was valued at $1B+ in 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220624/p6#a220624p6)
- - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [FTC asked to investigate Apple &amp; Google over selling personal data](https://appleinsider.com/articles/22/06/24/ftc-asked-to-investigate-apple-google-over-selling-personal-data?utm_medium=rss)
+ - [Save 25 percent on the Thermacell mosquito repellent system](https://www.theverge.com/good-deals/2022/6/24/23180092/thermacell-liv-mosquito-repellent-jbl-speakers-deal-sale)
+ - [Roe Is Overturned After 49 Years. It Revolutionized Life for Women](https://www.wired.com/story/roe-overturned-supreme-court-dobbs-abortion-rights-revolutionized-life-for-women/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
