@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [That&#39;s why we use Mace](http://9gag.com/gag/arn0xvB)
- - 🚯 [Who does that](http://9gag.com/gag/aegEVwp)
+ - 🚯 [Done!](http://9gag.com/gag/a31D8p7)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
