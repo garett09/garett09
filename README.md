@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Use Dall-E Mini To Conjure Up Half-Life 3 And Other Sequels We’ll Never Get](https://kotaku.com/dall-e-mini-sequels-half-life-agent-titanfall-mass-effe-1849101326)
- - [Look out, used mining GPUs are turning up with dead memory chips](https://www.pcgamer.com/look-out-used-mining-gpus-are-turning-up-with-dead-memory-chips)
- - [Free RPG Day is back — grab these 5 great games, including one from Critical Role](https://www.polygon.com/tabletop-games/23180137/free-rpg-day-best-games-2022-critical-role)<!-- GAME:END -->
+ - [5 Very Queer Games On Steam To Close Out Your Pride Month](https://kotaku.com/best-queer-games-steam-pride-month-stardew-valley-1849104427)
+ - [Pokémon GO Seems Set On Ruining Every Improvement From The Pandemic](https://kotaku.com/pokemon-go-niantic-mobile-remote-raid-pass-legendary-ra-1849104441)
+ - [The best wireless gaming keyboard in 2022](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
