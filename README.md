@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple raises Apple Music Student plan price to $6 a month in US, UK &amp; Canada](https://appleinsider.com/articles/22/06/24/apple-raises-apple-music-student-plan-price-to-6-a-month-in-us-uk-canada?utm_medium=rss)
- - [A look at efforts to reduce online advertising&#39;s carbon footprint, which, according to a 2018 study, accounts for roughly 10% of the internet&#39;s energy usage &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/220623/p35#a220623p35)
- - [&#39;For All Mankind&#39; prop fused an Apple Newton MessagePad 120 and an iPhone 12](https://appleinsider.com/articles/22/06/23/for-all-mankind-prop-fused-an-apple-newton-messagepad-120-and-an-iphone-12?utm_medium=rss)<!-- TECH:END -->
+ - [First M2 MacBook Pro orders starting to arrive in Australia, New Zealand](https://appleinsider.com/articles/22/06/24/first-m2-macbook-pro-orders-starting-to-arrive-in-australia-new-zealand?utm_medium=rss)
+ - [Italy&#39;s data watchdog finds a local web publisher&#39;s use of Google Analytics violated EU data protection rules due to privacy risks over data transfers to the US &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220623/p37#a220623p37)
+ - [This Door Color Could Net You Thousands More When You Sell Your House     - CNET](https://www.cnet.com/personal-finance/mortgages/this-door-color-could-net-you-thousands-more-when-you-sell-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
