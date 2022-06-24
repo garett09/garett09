@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC asked to investigate Apple &amp; Google over selling personal data](https://appleinsider.com/articles/22/06/24/ftc-asked-to-investigate-apple-google-over-selling-personal-data?utm_medium=rss)
- - [Save 25 percent on the Thermacell mosquito repellent system](https://www.theverge.com/good-deals/2022/6/24/23180092/thermacell-liv-mosquito-repellent-jbl-speakers-deal-sale)
- - [Roe Is Overturned After 49 Years. It Revolutionized Life for Women](https://www.wired.com/story/roe-overturned-supreme-court-dobbs-abortion-rights-revolutionized-life-for-women/)<!-- TECH:END -->
+ - [How a YouTube Sensation Became a Movie—12 Years Later](https://www.wired.com/story/marcel-the-shell-with-shoes-on-movie/)
+ - [Up Against It Explores Life in the Asteroid Belt](https://www.wired.com/2022/06/geeksguide-up-against-it/)
+ - [Sources: FTX is in talks to acquire a stake in BlockFi; FTX gave the crypto lender a $250M credit line this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220624/p10#a220624p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
