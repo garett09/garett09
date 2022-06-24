@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile](http://9gag.com/gag/aVx8Lwy)
- - 🚯 [Bless my friend... He tried](http://9gag.com/gag/aZrKE69)
+ - 🚖 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)
+ - 🚯 [Is it true?](http://9gag.com/gag/avAVR1d)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
