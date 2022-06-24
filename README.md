@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What? did you see this? great, now it&#39;s making noise](http://9gag.com/gag/abgo2ZE)
- - 🚯 [Not in the mood](http://9gag.com/gag/apgXAP8)
- - 🚯 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)<!-- MEMES:END -->
+ - 🚖 [Shoots 2 nerf guns. hits a double bullseye](http://9gag.com/gag/aegE22m)
+ - 🚯 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)
+ - 🚯 [Not in the mood](http://9gag.com/gag/apgXAP8)<!-- MEMES:END -->
 
 --- 
 
