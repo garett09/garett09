@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a YouTube Sensation Became a Movie—12 Years Later](https://www.wired.com/story/marcel-the-shell-with-shoes-on-movie/)
- - [Up Against It Explores Life in the Asteroid Belt](https://www.wired.com/2022/06/geeksguide-up-against-it/)
- - [Sources: FTX is in talks to acquire a stake in BlockFi; FTX gave the crypto lender a $250M credit line this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220624/p10#a220624p10)<!-- TECH:END -->
+ - [How to Protest Safely: What to Bring and What to Do](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
+ - [A Guide to Abortion Resources in a Post-Roe America](https://www.wired.com/story/guide-abortion-resources-post-roe-america/)
+ - [The Mars Express spacecraft is finally getting a Windows 98 upgrade](https://www.theverge.com/2022/6/24/23181715/mars-express-marsis-windows-98-upgrade-esa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
