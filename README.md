@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yandex says it has made YaLM 100B, its language model for AI research, publicly available, and claims it contains 100B parameters &lpar;Reuters&rpar;](http://www.techmeme.com/220623/p34#a220623p34)
- - [Chris Pratt says his Mario voice is ‘unlike anything you’ve heard’](https://www.theverge.com/2022/6/23/23180812/chris-pratt-mario-movie-voice)
- - [A look at r/LossPrevention, a subreddit for busting shoplifters; members monitor Reddit&#39;s pro-shoplifting community and share videos of people being apprehended &lpar;Jessica Lucas/Input&rpar;](http://www.techmeme.com/220623/p33#a220623p33)<!-- TECH:END -->
+ - [Apple raises Apple Music Student plan price to $6 a month in US, UK &amp; Canada](https://appleinsider.com/articles/22/06/24/apple-raises-apple-music-student-plan-price-to-6-a-month-in-us-uk-canada?utm_medium=rss)
+ - [A look at efforts to reduce online advertising&#39;s carbon footprint, which, according to a 2018 study, accounts for roughly 10% of the internet&#39;s energy usage &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/220623/p35#a220623p35)
+ - [&#39;For All Mankind&#39; prop fused an Apple Newton MessagePad 120 and an iPhone 12](https://appleinsider.com/articles/22/06/23/for-all-mankind-prop-fused-an-apple-newton-messagepad-120-and-an-iphone-12?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
