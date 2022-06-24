@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will &#39;likely release&#39; its mixed-reality headset in January 2023, Kuo says](https://appleinsider.com/articles/22/06/24/apple-will-likely-release-its-mixed-reality-headset-in-january-2023-kuo-says?utm_medium=rss)
  - [First M2 MacBook Pro orders starting to arrive in Australia, New Zealand](https://appleinsider.com/articles/22/06/24/first-m2-macbook-pro-orders-starting-to-arrive-in-australia-new-zealand?utm_medium=rss)
- - [Italy&#39;s data watchdog finds a local web publisher&#39;s use of Google Analytics violated EU data protection rules due to privacy risks over data transfers to the US &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220623/p37#a220623p37)
- - [This Door Color Could Net You Thousands More When You Sell Your House     - CNET](https://www.cnet.com/personal-finance/mortgages/this-door-color-could-net-you-thousands-more-when-you-sell-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
