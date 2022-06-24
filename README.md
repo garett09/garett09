@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Countries in the world using MM/DD/YYYY Date form](http://9gag.com/gag/a11n0LR)
+ - 🚖 [How some countries fight their wars](http://9gag.com/gag/ay9AWzV)
  - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
