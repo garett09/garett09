@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A good way to see countries actual sizes](http://9gag.com/gag/ang3nAB)
- - 🚯 [I think it has a malfunction, but it works tho.](http://9gag.com/gag/aRrGzDq)
+ - 🚖 [That&#39;s why we use Mace](http://9gag.com/gag/arn0xvB)
+ - 🚯 [Who does that](http://9gag.com/gag/aegEVwp)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
