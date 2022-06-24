@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shoots 2 nerf guns. hits a double bullseye](http://9gag.com/gag/aegE22m)
- - 🚯 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)
- - 🚯 [Not in the mood](http://9gag.com/gag/apgXAP8)<!-- MEMES:END -->
+ - 🚖 [Table race](http://9gag.com/gag/aNPXOAv)
+ - 🚯 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
+ - 🚯 [Nature is healing.](http://9gag.com/gag/aXrzWGP)<!-- MEMES:END -->
 
 --- 
 
