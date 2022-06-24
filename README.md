@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Deino Community Day event guide](https://www.polygon.com/pokemon-go-guide/2022/6/24/23181698/deino-community-day-event-shiny-hydreigon-moves-times)
- - [Neon White isn’t just for ‘freaks,’ it made me into one](https://www.polygon.com/23179286/neon-white-first-person-shooter-speedrun-impressions)
- - [Sonic Origins Dev Goes Off On State Of The Game](https://kotaku.com/sonic-origins-game-3-remastered-sega-crunch-bugs-port-b-1849105237)<!-- GAME:END -->
+ - [How the Brand-new Newfound Courage Remake Uses Combat to Tell a Story](https://news.xbox.com/en-us/2022/06/24/how-the-brand-new-newfound-courage-remake-uses-combat-to-tell-a-story/)
+ - [Sonic Origins developer ‘very unhappy’ with finished product, blames Sega](https://www.polygon.com/23181738/sonic-origins-bugs-glitches-apology-sega-headcannon)
+ - [Vertagear SL5000 gaming chair](https://www.pcgamer.com/vertagear-sl5000-gaming-chair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
