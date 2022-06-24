@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
- - 🚯 [Nature is healing.](http://9gag.com/gag/aXrzWGP)
+ - 🚖 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
+ - 🚯 [We feel you girl](http://9gag.com/gag/aRrG2A5)
  - 🚯 [Table race](http://9gag.com/gag/aNPXOAv)<!-- MEMES:END -->
 
 --- 
