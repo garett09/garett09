@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Very Queer Games On Steam To Close Out Your Pride Month](https://kotaku.com/best-queer-games-steam-pride-month-stardew-valley-1849104427)
- - [Pokémon GO Seems Set On Ruining Every Improvement From The Pandemic](https://kotaku.com/pokemon-go-niantic-mobile-remote-raid-pass-legendary-ra-1849104441)
- - [The best wireless gaming keyboard in 2022](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
+ - [Blade Runner Enhanced Edition is a disaster, not a remaster](https://www.pcgamer.com/blade-runner-enhanced-edition-is-a-disaster-not-a-remaster)
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
+ - [Halo: The Master Chief Collection might get ‘Spartan Points’ microtransactions](https://www.polygon.com/23181566/halo-the-master-chief-collection-spartan-point-microtransaction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
