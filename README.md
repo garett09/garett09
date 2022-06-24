@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Searching for the dankest iPod knockoffs of the mid-2000s](https://www.theverge.com/23173070/dankpods-patreon-ipod-youtube-hit-mp3-player-history)
- - [Zendesk to be acquired by an investor group in an all-cash deal valuing the company at ~$10.2B and will go private once the deal closes; stock is up 30%+ &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220624/p5#a220624p5)
- - [Walmart says its own hybrid cloud system now has 10K &quot;edge nodes&quot; across the US, helping to reduce costs by 10%-18% annually and lessen reliance on cloud giants &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220624/p4#a220624p4)<!-- TECH:END -->
+ - [The NHL is getting into NFTs, because that’s just what sports leagues do now](https://www.theverge.com/2022/6/24/23181441/nhl-nfts-sweet-digital-collectibles)
+ - [Zomato acquires instant delivery service Blinkit, formerly Grofers, for $568.1M; Blinkit raised about $700M in total and was valued at $1B+ in 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220624/p6#a220624p6)
+ - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
