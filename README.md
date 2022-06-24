@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)
- - 🚯 [Is it true?](http://9gag.com/gag/avAVR1d)
+ - 🚖 [Slipknot stops in the middle of a song to make sure a fan gets help from the medics. Mad respect to Jim who spotted it and Corey who told the band to stop and telling the other people to give them some room](http://9gag.com/gag/aegEm6b)
+ - 🚯 [Grand Theft Auto: San Indians](http://9gag.com/gag/aM46vEP)
  - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 --- 
