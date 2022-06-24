@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade Runner Enhanced Edition is a disaster, not a remaster](https://www.pcgamer.com/blade-runner-enhanced-edition-is-a-disaster-not-a-remaster)
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
- - [Halo: The Master Chief Collection might get ‘Spartan Points’ microtransactions](https://www.polygon.com/23181566/halo-the-master-chief-collection-spartan-point-microtransaction)<!-- GAME:END -->
+ - [Pokémon Go Deino Community Day event guide](https://www.polygon.com/pokemon-go-guide/2022/6/24/23181698/deino-community-day-event-shiny-hydreigon-moves-times)
+ - [Neon White isn’t just for ‘freaks,’ it made me into one](https://www.polygon.com/23179286/neon-white-first-person-shooter-speedrun-impressions)
+ - [Sonic Origins Dev Goes Off On State Of The Game](https://kotaku.com/sonic-origins-game-3-remastered-sega-crunch-bugs-port-b-1849105237)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
