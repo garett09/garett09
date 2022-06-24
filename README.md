@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Protest Safely: What to Bring and What to Do](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
- - [A Guide to Abortion Resources in a Post-Roe America](https://www.wired.com/story/guide-abortion-resources-post-roe-america/)
- - [The Mars Express spacecraft is finally getting a Windows 98 upgrade](https://www.theverge.com/2022/6/24/23181715/mars-express-marsis-windows-98-upgrade-esa)<!-- TECH:END -->
+ - [Tapcheck, an earned wage access service that connects with payroll systems of employers like McDonald&#39;s to calculate employee earnings, raised a $20M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p13#a220624p13)
+ - [How to reuse an iPad as a remote On Air light](https://appleinsider.com/articles/22/06/24/how-to-reuse-an-ipad-as-a-remote-on-air-light?utm_medium=rss)
+ - [&#39;AirPods Pro 2&#39; may act as hearing aids &amp; have improved charging case](https://appleinsider.com/articles/22/06/24/new-leak-suggests-airpods-pro-2-to-act-as-hearing-aids-get-improved-charging-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
