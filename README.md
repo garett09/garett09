@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple looking at January 2023 for AR headset release, Kuo says](https://appleinsider.com/articles/22/06/24/apple-will-likely-release-its-mixed-reality-headset-in-january-2023-kuo-says?utm_medium=rss)
- - [How to get started making music on a Mac](https://appleinsider.com/inside/mac/tips/how-to-get-started-making-music-on-a-mac?utm_medium=rss)
- - [MSI’s No-Frills Gaming Laptop Misses the Mark on Value](https://www.wired.com/review/msi-katana-gf66/)<!-- TECH:END -->
+ - [Searching for the dankest iPod knockoffs of the mid-2000s](https://www.theverge.com/23173070/dankpods-patreon-ipod-youtube-hit-mp3-player-history)
+ - [Zendesk to be acquired by an investor group in an all-cash deal valuing the company at ~$10.2B and will go private once the deal closes; stock is up 30%+ &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220624/p5#a220624p5)
+ - [Walmart says its own hybrid cloud system now has 10K &quot;edge nodes&quot; across the US, helping to reduce costs by 10%-18% annually and lessen reliance on cloud giants &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220624/p4#a220624p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
