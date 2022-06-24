@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
- - 🚯 [Strong female character](http://9gag.com/gag/a0ZG1YX)
- - 🚯 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
+ - 🚖 [What? did you see this? great, now it&#39;s making noise](http://9gag.com/gag/abgo2ZE)
+ - 🚯 [Not in the mood](http://9gag.com/gag/apgXAP8)
+ - 🚯 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)<!-- MEMES:END -->
 
 --- 
 
