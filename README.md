@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
- - 🚯 [We feel you girl](http://9gag.com/gag/aRrG2A5)
- - 🚯 [Table race](http://9gag.com/gag/aNPXOAv)<!-- MEMES:END -->
+ - 🚖 [Im just as confused as the rat](http://9gag.com/gag/a71BnKA)
+ - 🚯 [Table race](http://9gag.com/gag/aNPXOAv)
+ - 🚯 [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)<!-- MEMES:END -->
 
 --- 
 
