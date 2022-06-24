@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Table race](http://9gag.com/gag/aNPXOAv)
- - 🚯 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
- - 🚯 [Nature is healing.](http://9gag.com/gag/aXrzWGP)<!-- MEMES:END -->
+ - 🚖 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
+ - 🚯 [Nature is healing.](http://9gag.com/gag/aXrzWGP)
+ - 🚯 [Table race](http://9gag.com/gag/aNPXOAv)<!-- MEMES:END -->
 
 --- 
 
