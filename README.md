@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta told staff not to discuss the Roe V. Wade ruling on wide-reaching internal channels, citing a company memo issued after the May draft opinion leak &lpar;New York Times&rpar;](http://www.techmeme.com/220625/p4#a220625p4)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-438-3179757/)
- - [Intel delays ceremony for Ohio factory over lack of government funding](https://www.theverge.com/2022/6/25/23182727/intel-groundbreaking-ceremony-delayed-government-funding-chips-act)<!-- TECH:END -->
+ - [Should Apple M2 iPads worry the Pixel Tablet crowd?](https://www.androidauthority.com/m2-ipad-vs-pixel-tablet-3174164/)
+ - [Apple, Disney, Others Speak Out on Supreme Court Overturning Roe v. Wade     - CNET](https://www.cnet.com/news/apple-disney-others-speak-on-supreme-court-overturning-roe-v-wade/#ftag=CAD590a51e)
+ - [Apple supports out-of-state medical after Roe vs. Wade overturn](https://appleinsider.com/articles/22/06/25/apple-supports-out-of-state-medical-care-supreme-court-overturned-roe-vs-wade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
