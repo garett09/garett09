@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
- - 🚯 [Are U okay?](http://9gag.com/gag/a51AvQN)
+ - 🚖 [Leftist ecologist acting.](http://9gag.com/gag/aBnMjgz)
+ - 🚯 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
