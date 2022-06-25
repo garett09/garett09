@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are U okay?](http://9gag.com/gag/a51AvQN)
- - 🚯 [Five guys](http://9gag.com/gag/a71BPRL)
+ - 🚖 [This. All of this. Every word.](http://9gag.com/gag/a11nx3G)
+ - 🚯 [Are U okay?](http://9gag.com/gag/a51AvQN)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
