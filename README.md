@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
- - 🚯 [Girls in Iran protesting the mandatory hijab, facing prison and criminal charges](http://9gag.com/gag/a91eZVZ)
+ - 🚖 [Girls in Iran protesting the mandatory hijab, facing prison and criminal charges](http://9gag.com/gag/a91eZVZ)
+ - 🚯 [Lost my dad to COVID 1 year ago. My life changed completely after his death, I came to Germany to study and I wish he knew I made it. I miss him every day.](http://9gag.com/gag/abgoKM8)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
