@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheese! Don&#39;t Move!](http://9gag.com/gag/ay9AVOM)
+ - 🚖 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
  - 🚯 [Are U okay?](http://9gag.com/gag/a51AvQN)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
