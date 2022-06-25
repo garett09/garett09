@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This five year old performing a Mozart piece at a music competition, all while being unable to read sheet music](http://9gag.com/gag/avAVmMZ)
- - 🚯 [Australians are built different](http://9gag.com/gag/aWgAdeK)
- - 🚯 [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)<!-- MEMES:END -->
+ - 🚖 [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)
+ - 🚯 [Think fast! Quick!](http://9gag.com/gag/aPZ0pxG)
+ - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
 
