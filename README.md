@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The famous Evil dance of tobey maguire a.k.a spiderman, everyones talking about.](http://9gag.com/gag/a31DnVe)
- - 🚯 [Epic Crossover](http://9gag.com/gag/a11nx78)
- - 🚯 [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)<!-- MEMES:END -->
+ - 🚖 [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)
+ - 🚯 [Just saying...](http://9gag.com/gag/aYrBm07)
+ - 🚯 [Holding the camera is 100% top priority here](http://9gag.com/gag/a91eBzm)<!-- MEMES:END -->
 
 --- 
 
