@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
- - [13-inch MacBook Pro with M2 review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)<!-- TECH:END -->
+ - [Michael Saylor, whose company MicroStrategy holds bitcoin now worth ~$2.7B, says bitcoin &quot;is still at an early stage in its development and poorly understood&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220625/p6#a220625p6)
+ - [Google says attackers worked with ISPs to deploy Hermit spyware on Android and iOS](https://www.theverge.com/2022/6/25/23183046/google-hermit-spyware-isp-android-ios)
+ - [NASA James Webb Space Telescope Crosses Halfway Point in Final Testing     - CNET](https://www.cnet.com/science/space/nasa-james-webb-space-telescope-crosses-halfway-point-in-final-testing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
