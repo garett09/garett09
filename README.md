@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There I fixed it for ya](http://9gag.com/gag/aBnMvAZ)
- - 🚯 [Cheese! Don&#39;t Move!](http://9gag.com/gag/ay9AVOM)
+ - 🚖 [The go to guy](http://9gag.com/gag/a91eNwL)
+ - 🚯 [Carbon vitamins](http://9gag.com/gag/aNPX2o6)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
