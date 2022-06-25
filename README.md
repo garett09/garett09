@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Next level woke shit](http://9gag.com/gag/aM46X3W)
- - 🚯 [Not expected this\u2026](http://9gag.com/gag/azezYGx)
+ - 🚖 [Im happy to inform you gentlemen, that yesterday i got my forklift certificate](http://9gag.com/gag/aVx8Vm2)
+ - 🚯 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
  - 🚯 [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)<!-- MEMES:END -->
 
 --- 
