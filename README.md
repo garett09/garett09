@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leftist ecologist acting.](http://9gag.com/gag/aBnMjgz)
- - 🚯 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
+ - 🚖 [Delivery was absolute garbage](http://9gag.com/gag/aDDLqD7)
+ - 🚯 [Girls in Iran protesting the mandatory hijab, facing prison and criminal charges](http://9gag.com/gag/a91eZVZ)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
