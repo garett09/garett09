@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Federal appeals court pauses FDA ban on Juul’s e-cigarettes](https://www.theverge.com/2022/6/24/23182384/fda-juul-ban-pause-dc-appeals-court-emergency-immediate-stay)
- - [London-based ESG Book, which provides sustainability data and whose clients include Citi and JP Morgan, raised a $35M Series B led by Energy Impact Partners &lpar;Ashleigh Hollowell/VentureBeat&rpar;](http://www.techmeme.com/220624/p21#a220624p21)
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-sam-raimi-nod-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, has raised a $50M Series B led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p22#a220624p22)
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+ - [&#39;Doctor Strange 2&#39;: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
