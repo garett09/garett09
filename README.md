@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a loyal soul](http://9gag.com/gag/aBnMoXO)
- - 🚯 [RICH GET RICHER](http://9gag.com/gag/aPZ0p4B)
- - 🚯 [Friendly reminder that this exists](http://9gag.com/gag/aGzq7G6)<!-- MEMES:END -->
+ - 🚖 [The famous Evil dance of tobey maguire a.k.a spiderman, everyones talking about.](http://9gag.com/gag/a31DnVe)
+ - 🚯 [Epic Crossover](http://9gag.com/gag/a11nx78)
+ - 🚯 [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)<!-- MEMES:END -->
 
 --- 
 
