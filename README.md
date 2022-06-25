@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: 67 separate ransomware attacks impacted 954 US schools and colleges in 2021, costing schools an estimated $3.5B+ in downtime &lpar;Paul Bischoff/Comparitech&rpar;](http://www.techmeme.com/220625/p1#a220625p1)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Berlin-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, has raised a $50M Series B led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p22#a220624p22)<!-- TECH:END -->
+ - [11 Great Deals on Backyard, Beach, and Camp Gear](https://www.wired.com/story/weekend-deals-june-25-2022/)
+ - [Razer Gaming Headsets and Accessories Are on Sale Right Now](https://www.wired.com/story/razer-sale-june-2022/)
+ - [How to Move Your WhatsApp Chats Across Devices and Apps](https://www.wired.com/story/move-whatsapp-chats-backups-ios-android-signal-telegram/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
