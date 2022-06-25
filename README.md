@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im happy to inform you gentlemen, that yesterday i got my forklift certificate](http://9gag.com/gag/aVx8Vm2)
- - 🚯 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
- - 🚯 [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)<!-- MEMES:END -->
+ - 🚖 [What a loyal soul](http://9gag.com/gag/aBnMoXO)
+ - 🚯 [The famous Evil dance of tobey maguire a.k.a spiderman, everyones talking about.](http://9gag.com/gag/a31DnVe)
+ - 🚯 [The world needs more people like him!](http://9gag.com/gag/a51A5AL)<!-- MEMES:END -->
 
 --- 
 
