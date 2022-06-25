@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Netflix in July 2022: Stranger Things, The Gray Man, and more](https://www.androidauthority.com/new-on-netflix-939257/)
- - [Elliptic: US regulators have collected more than $3.3B in monetary penalties from crypto-related businesses since 2009, including $179.7M so far in 2022 &lpar;Sam Venis/The Block&rpar;](http://www.techmeme.com/220624/p20#a220624p20)
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)<!-- TECH:END -->
+ - [Federal appeals court pauses FDA ban on Juul’s e-cigarettes](https://www.theverge.com/2022/6/24/23182384/fda-juul-ban-pause-dc-appeals-court-emergency-immediate-stay)
+ - [London-based ESG Book, which provides sustainability data and whose clients include Citi and JP Morgan, raised a $35M Series B led by Energy Impact Partners &lpar;Ashleigh Hollowell/VentureBeat&rpar;](http://www.techmeme.com/220624/p21#a220624p21)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-sam-raimi-nod-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
