@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im just as confused as the rat](http://9gag.com/gag/a71BnKA)
+ - 🚖 [Changing Street Lamp](http://9gag.com/gag/aXrzR4P)
  - 🚯 [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)
- - 🚯 [The world needs more people like him!](http://9gag.com/gag/a51A5AL)<!-- MEMES:END -->
+ - 🚯 [Next level woke shit](http://9gag.com/gag/aM46X3W)<!-- MEMES:END -->
 
 --- 
 
