@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how oyster can clean up polluted water. Both tanks are full of water from the same source, but the tank on left has oysters.](http://9gag.com/gag/aggbdRg)
- - 🚯 [Would have been great](http://9gag.com/gag/aXrzGwg)
+ - 🚖 [There I fixed it for ya](http://9gag.com/gag/aBnMvAZ)
+ - 🚯 [Cheese! Don&#39;t Move!](http://9gag.com/gag/ay9AVOM)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
