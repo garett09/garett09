@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The go to guy](http://9gag.com/gag/a91eNwL)
- - 🚯 [It was... It was](http://9gag.com/gag/aM46W7G)
+ - 🚖 [Are U okay?](http://9gag.com/gag/a51AvQN)
+ - 🚯 [Five guys](http://9gag.com/gag/a71BPRL)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
