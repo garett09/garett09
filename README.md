@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)
- - 🚯 [Think fast! Quick!](http://9gag.com/gag/aPZ0pxG)
+ - 🚖 [This is how oyster can clean up polluted water. Both tanks are full of water from the same source, but the tank on left has oysters.](http://9gag.com/gag/aggbdRg)
+ - 🚯 [No PPE was harmed in the making of this video](http://9gag.com/gag/aegEdev)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
