@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The go to guy](http://9gag.com/gag/a91eNwL)
- - 🚯 [Carbon vitamins](http://9gag.com/gag/aNPX2o6)
+ - 🚯 [It was... It was](http://9gag.com/gag/aM46W7G)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
