@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Great Deals on Backyard, Beach, and Camp Gear](https://www.wired.com/story/weekend-deals-june-25-2022/)
- - [Razer Gaming Headsets and Accessories Are on Sale Right Now](https://www.wired.com/story/razer-sale-june-2022/)
- - [How to Move Your WhatsApp Chats Across Devices and Apps](https://www.wired.com/story/move-whatsapp-chats-backups-ios-android-signal-telegram/)<!-- TECH:END -->
+ - [Nothing reminds us that smartphone design innovation isn’t dead](https://www.androidauthority.com/nothing-phone-1-design-innovation-3180006/)
+ - [The Cowboy 4 Ebike Is the Perfect Steed for Rookie Riders](https://www.wired.com/review/cowboy-4/)
+ - [A Warming Climate Takes a Toll on the Vanishing Rio Grande](https://www.wired.com/story/a-warming-climate-takes-a-toll-on-the-vanishing-rio-grande/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
