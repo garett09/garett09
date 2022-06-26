@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This premiered 40 years ago today.](http://9gag.com/gag/aBnMb0D)
- - 🚯 [Bicyclists protest by blocking roads with bikes.](http://9gag.com/gag/axB881K)
+ - 🚖 [Sarcasm 101](http://9gag.com/gag/a91ewz6)
+ - 🚯 [No wiser words have been spoken](http://9gag.com/gag/a418gZZ)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
