@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cDon\u2019t You Worry. Daddy\u2019s Home.\u201d](http://9gag.com/gag/a418yqA)
- - 🚯 [Historic photo of a tramstation in Budapest](http://9gag.com/gag/aegEwzm)
- - 🚯 [It ain&#39;t much, but it&#39;s honest work](http://9gag.com/gag/azezw1z)<!-- MEMES:END -->
+ - 🚖 [Stephen Fry acting like a boss. Sorry Bernie](http://9gag.com/gag/a21VXE1)
+ - 🚯 [They are scumbags](http://9gag.com/gag/ajgj4Dw)
+ - 🚯 [Hated by many loved by few](http://9gag.com/gag/abgowGv)<!-- MEMES:END -->
 
 --- 
 
