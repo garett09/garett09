@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s First Mixed-Reality Headset May Sport New M2 Processor     - CNET](https://www.cnet.com/tech/mobile/apples-first-mixed-reality-headset-may-sport-new-m2-processor/#ftag=CAD590a51e)
  - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
- - [A deep dive: how Apple uses iOS WebKit monopoly to strip-mine and sabotage the web, hurting all browser engine projects and draining the web of future potential &lpar;Alex Russell/Infrequently Noted&rpar;](http://www.techmeme.com/220626/p6#a220626p6)
- - [Report: Apple is gearing up to launch a ‘flood’ of new devices starting this fall](https://www.theverge.com/2022/6/26/23183875/apple-gearing-up-launch-flood-new-devices-this-fall-m2-chip-macbook-iphone-14-watch-series-9)<!-- TECH:END -->
+ - [A deep dive: how Apple uses iOS WebKit monopoly to strip-mine and sabotage the web, hurting all browser engine projects and draining the web of future potential &lpar;Alex Russell/Infrequently Noted&rpar;](http://www.techmeme.com/220626/p6#a220626p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
