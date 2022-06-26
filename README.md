@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sarcasm 101](http://9gag.com/gag/a91ewz6)
- - 🚯 [Record-breaking 59 megajoules of sustained fusion energy at world-leading UKAEA\u2019s Joint European Torus &lpar;JET&rpar; facility. Video shows the record pulse in action](http://9gag.com/gag/aKmyygQ)
+ - 🚖 [CONGRATS!!! We&#39;re OLD!!!!](http://9gag.com/gag/ay9Arvy)
+ - 🚯 [No wiser words have been spoken](http://9gag.com/gag/a418gZZ)
  - 🚯 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 --- 
