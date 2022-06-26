@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox indie games for Xbox Series X/S](https://www.androidauthority.com/best-xbox-indie-games-3178053/)
- - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)<!-- TECH:END -->
+ - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
+ - [A deep dive: how Apple uses iOS WebKit monopoly to strip-mine and sabotage the web, hurting all browser engine projects and draining the web of future potential &lpar;Alex Russell/Infrequently Noted&rpar;](http://www.techmeme.com/220626/p6#a220626p6)
+ - [Report: Apple is gearing up to launch a ‘flood’ of new devices starting this fall](https://www.theverge.com/2022/6/26/23183875/apple-gearing-up-launch-flood-new-devices-this-fall-m2-chip-macbook-iphone-14-watch-series-9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
