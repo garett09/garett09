@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men Vs Women on friendship](http://9gag.com/gag/aNPX5G6)
+ - 🚖 [Pneumonoultramicroscopicsilicovolcanoconiosis](http://9gag.com/gag/aOQOWXy)
  - 🚯 [Bridge in UK demolished and cleared in 15 hours](http://9gag.com/gag/a71Bx3r)
- - 🚯 [And that&#39;s how it&#39;s done](http://9gag.com/gag/adgMz32)<!-- MEMES:END -->
+ - 🚯 [After years of saving, I can finally buy an apartment!](http://9gag.com/gag/aXrz1D6)<!-- MEMES:END -->
 
 --- 
 
