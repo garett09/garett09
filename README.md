@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Pneumonoultramicroscopicsilicovolcanoconiosis](http://9gag.com/gag/aOQOWXy)
- - 🚯 [Bridge in UK demolished and cleared in 15 hours](http://9gag.com/gag/a71Bx3r)
- - 🚯 [After years of saving, I can finally buy an apartment!](http://9gag.com/gag/aXrz1D6)<!-- MEMES:END -->
+ - 🚯 [After years of saving, I can finally buy an apartment!](http://9gag.com/gag/aXrz1D6)
+ - 🚯 [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)<!-- MEMES:END -->
 
 --- 
 
