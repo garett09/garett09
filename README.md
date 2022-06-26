@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini may gain M2 Pro alongside 14-inch MacBook Pro, 16-inch MacBook Pro](https://appleinsider.com/articles/22/06/26/mac-mini-may-gain-m2-pro-alongside-14-inch-macbook-pro-16-inch-macbook-pro?utm_medium=rss)
- - [Spotify secretly launched a show with this controversial duo — it’s already a hit](https://www.theverge.com/2022/6/26/23181940/spotify-claudia-jackie-oshry-breaking-bread-girl-with-no-job)
- - [Samsung M8 Smart Monitor review: the good enough of both worlds](https://www.theverge.com/23180741/samsung-m8-smart-monitor-review-32-inch-4k-smart-tv-usb-c-hdr)<!-- TECH:END -->
+ - [Sources: Apple about to embark on one of the most ambitious periods of new products in its history, with the deluge coming between the fall of 2022 and H1 2023 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220626/p5#a220626p5)
+ - [Apple TV with A14 &amp; new HomePod with Apple Watch S8 chip rumored for 2023](https://appleinsider.com/articles/22/06/26/apple-tv-will-get-a14-update-new-homepod-to-use-s8-chip?utm_medium=rss)
+ - [This 13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
