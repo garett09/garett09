@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gaint African Elephant!](http://9gag.com/gag/a819OWV)
- - 🚯 [Just charging](http://9gag.com/gag/awzDj2r)
+ - 🚖 [\u201cDon\u2019t You Worry. Daddy\u2019s Home.\u201d](http://9gag.com/gag/a418yqA)
+ - 🚯 [Historic photo of a tramstation in Budapest](http://9gag.com/gag/aegEwzm)
  - 🚯 [It ain&#39;t much, but it&#39;s honest work](http://9gag.com/gag/azezw1z)<!-- MEMES:END -->
 
 --- 
