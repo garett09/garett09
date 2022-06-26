@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pneumonoultramicroscopicsilicovolcanoconiosis](http://9gag.com/gag/aOQOWXy)
- - 🚯 [After years of saving, I can finally buy an apartment!](http://9gag.com/gag/aXrz1D6)
- - 🚯 [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)<!-- MEMES:END -->
+ - 🚖 [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)
+ - 🚯 [The Japanese know what art is](http://9gag.com/gag/aKmyobZ)
+ - 🚯 [Interesting flavor on my ice cream.](http://9gag.com/gag/a91eGW6)<!-- MEMES:END -->
 
 --- 
 
