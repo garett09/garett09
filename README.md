@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valorant will start monitoring your voice chats starting July 13th](https://www.theverge.com/2022/6/26/23184009/valorant-monitor-voice-chats-july-13th-riot-games)
  - [Apple&#39;s First Mixed-Reality Headset May Sport New M2 Processor     - CNET](https://www.cnet.com/tech/mobile/apples-first-mixed-reality-headset-may-sport-new-m2-processor/#ftag=CAD590a51e)
- - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
- - [A deep dive: how Apple uses iOS WebKit monopoly to strip-mine and sabotage the web, hurting all browser engine projects and draining the web of future potential &lpar;Alex Russell/Infrequently Noted&rpar;](http://www.techmeme.com/220626/p6#a220626p6)<!-- TECH:END -->
+ - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
