@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Saylor, whose company MicroStrategy holds bitcoin now worth ~$2.7B, says bitcoin &quot;is still at an early stage in its development and poorly understood&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220625/p6#a220625p6)
- - [Google says attackers worked with ISPs to deploy Hermit spyware on Android and iOS](https://www.theverge.com/2022/6/25/23183046/google-hermit-spyware-isp-android-ios)
- - [NASA James Webb Space Telescope Crosses Halfway Point in Final Testing     - CNET](https://www.cnet.com/science/space/nasa-james-webb-space-telescope-crosses-halfway-point-in-final-testing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39; Finale Recap: Ending and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-finale-recap-ending-and-cameos-explained/#ftag=CAD590a51e)
+ - [Michael Saylor, whose company MicroStrategy holds bitcoin now worth ~$2.7B, says bitcoin &quot;is still at an early stage in its development and poorly understood&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220625/p6#a220625p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
