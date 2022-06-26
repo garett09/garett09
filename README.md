@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Carl Pei make lightning strike twice with the Nothing Phone 1?](https://www.androidauthority.com/carl-pei-nothing-phone-1-3180148/)
- - [Always-on iPhone 14 Pro display, M2 iPad Pro expected for late 2022](https://appleinsider.com/articles/22/06/26/always-on-iphone-14-pro-display-m2-ipad-pro-expected-for-late-2022?utm_medium=rss)
- - [HBO Max: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-41-best-tv-shows-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
+ - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
+ - [Apple’s mixed reality headset will reportedly come with an M2 chip](https://www.theverge.com/2022/6/26/23183777/apple-mixed-reality-headset-m2-chip-rumors-virtual-reality-ar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
