@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Uzbekistan, the winner of the IT competition was awarded an extension cord](http://9gag.com/gag/aqGOE7j)
- - 🚯 [This is a title](http://9gag.com/gag/ajgje4w)
- - 🚯 [The old husband matching shirt prank](http://9gag.com/gag/a21V3oY)<!-- MEMES:END -->
+ - 🚖 [Have fun, but sorry about the leg, and arm, and...](http://9gag.com/gag/arn0LZ0)
+ - 🚯 [A way out](http://9gag.com/gag/aggbzmK)
+ - 🚯 [This is a title](http://9gag.com/gag/ajgje4w)<!-- MEMES:END -->
 
 --- 
 
