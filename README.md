@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple about to embark on one of the most ambitious periods of new products in its history, with the deluge coming between the fall of 2022 and H1 2023 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220626/p5#a220626p5)
- - [Apple TV with A14 &amp; new HomePod with Apple Watch S8 chip rumored for 2023](https://appleinsider.com/articles/22/06/26/apple-tv-will-get-a14-update-new-homepod-to-use-s8-chip?utm_medium=rss)
- - [This 13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)<!-- TECH:END -->
+ - [Can Carl Pei make lightning strike twice with the Nothing Phone 1?](https://www.androidauthority.com/carl-pei-nothing-phone-1-3180148/)
+ - [Always-on iPhone 14 Pro display, M2 iPad Pro expected for late 2022](https://appleinsider.com/articles/22/06/26/always-on-iphone-14-pro-display-m2-ipad-pro-expected-for-late-2022?utm_medium=rss)
+ - [HBO Max: The 41 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-41-best-tv-shows-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
