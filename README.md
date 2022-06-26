@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the wake of SCOTUS overturning Roe v. Wade, tech companies give &quot;no comment&quot; in response to questions about users&#39; data that can be used in prosecutions &lpar;Brian Kahn/Protocol&rpar;](http://www.techmeme.com/220626/p7#a220626p7)
  - [Valorant will start monitoring your voice chats starting July 13th](https://www.theverge.com/2022/6/26/23184009/valorant-monitor-voice-chats-july-13th-riot-games)
- - [Apple&#39;s First Mixed-Reality Headset May Sport New M2 Processor     - CNET](https://www.cnet.com/tech/mobile/apples-first-mixed-reality-headset-may-sport-new-m2-processor/#ftag=CAD590a51e)
- - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s First Mixed-Reality Headset May Sport New M2 Processor     - CNET](https://www.cnet.com/tech/mobile/apples-first-mixed-reality-headset-may-sport-new-m2-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
