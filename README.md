@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of documents detail the software bought by China to sift through its vast troves of surveillance data to &quot;predict&quot; who will become troublemakers &lpar;New York Times&rpar;](http://www.techmeme.com/220626/p8#a220626p8)
- - [Facebook’s video app may no longer work on Apple TV](https://www.theverge.com/2022/6/26/23184144/facebook-watch-apple-tv-no-longer-available)
- - [In the wake of SCOTUS overturning Roe v. Wade, tech companies give &quot;no comment&quot; in response to questions about users&#39; data that can be used in prosecutions &lpar;Brian Kahn/Protocol&rpar;](http://www.techmeme.com/220626/p7#a220626p7)<!-- TECH:END -->
+ - [Hard drive benchmarks show the 256GB 13&quot; MacBook Pro with M2 has ~50% slower read and ~30% slower write speeds than the previous gen 256GB MacBook Pro with M1 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220626/p9#a220626p9)
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
+ - [AEW Forbidden Door 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/aew-forbidden-door-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
