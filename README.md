@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 22 review](https://www.pcgamer.com/f1-22-review)
- - [How to complete the Empty Grief challenge in Destiny 2](https://www.pcgamer.com/destiny-2-empty-grief)
- - [Nethack is now in the Museum of Modern Art](https://www.pcgamer.com/nethack-is-now-in-the-museum-of-modern-art)<!-- GAME:END -->
+ - [Miyamoto Couldn&#39;t Stand Wind Waker&#39;s Art Style At First](https://kotaku.com/the-legend-of-zelda-wind-waker-graphics-shigeru-miyamot-1849112926)
+ - [Horror movie The Invitation shows why you shouldn’t go to a vampire wedding](https://www.polygon.com/23184735/the-invitation-horror-movie-trailer-dracula-vampires)
+ - [Diablo Immortal Could Run Your Wallet Way More Than You Thought](https://kotaku.com/diablo-immortal-build-microtransaction-legendary-gem-bl-1849112884)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
