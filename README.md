@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile launched App Insights, letting marketers target its wireless customers based on apps they have installed and engagement patterns; users can opt out &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220627/p29#a220627p29)
- - [Sam Bankman-Fried says there are no active talks for FTX to acquire Robinhood; Robinhood says no acquisition can go through without the founders&#39; approval &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220627/p28#a220627p28)
- - [Motorola Razr 3: Everything we know so far and what we want to see](https://www.androidauthority.com/motorola-razr-3-3079713/)<!-- TECH:END -->
+ - [Overwatch 2 will replace the original Overwatch](https://www.theverge.com/2022/6/27/23185275/overwatch-2-original-overwatch-game-overwrite)
+ - [Deals: Apple&#39;s 16-inch MacBook Pro dips to $2,279 &amp; it&#39;s in stock](https://appleinsider.com/articles/22/06/27/deals-apples-16-inch-macbook-pro-dips-to-2279-its-in-stock?utm_medium=rss)
+ - [Rumor: Here’s when Samsung’s Android 13 beta program could start](https://www.androidauthority.com/samsung-android-13-3180962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
