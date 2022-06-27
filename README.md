@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 12T leaks, could fix where Xiaomi 12 went wrong](https://www.androidauthority.com/xiaomi-12t-3180098/)
- - [Apple’s entry-level MacBook Pro M2 has slower SSD speeds than its M1 counterpart](https://www.theverge.com/2022/6/27/23184515/apple-macbook-pro-m2-slow-ssd-speeds)
- - [Apple iPhone 14: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
+ - [Daily Authority: 🌩️ Nothing but character](https://www.androidauthority.com/daily-authority-june-27-2022-3180526/)
+ - [Data centers, typically located in suburbs and rural zones, are increasingly being built in urban areas to further reduce internet lag for locals &lpar;Michael Waters/MIT Technology Review&rpar;](http://www.techmeme.com/220627/p3#a220627p3)
+ - [Poll: Are you happy with your phone’s performance?](https://www.androidauthority.com/happy-phone-performance-poll-3180560/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
