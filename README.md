@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court says it won’t consider rewriting defamation law... yet](https://www.theverge.com/2022/6/27/23184792/supreme-court-coral-ridge-splc-petition-denied-libel-law-actual-malice)
- - [What’s a smart button, and do you need one for your smart home?](https://www.androidauthority.com/smart-buttons-3169344/)
- - [Solar Panel Installation: How Long It Takes and What You Need to Know     - CNET](https://www.cnet.com/news/solar-panel-installation-how-long-it-takes-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Valve is doubling Steam Deck shipments, so you might get yours faster](https://www.theverge.com/2022/6/27/23185038/valve-steam-deck-doubling-shipments-production)
+ - [Google’s Pixel 6 Pro is $120 off for today only](https://www.theverge.com/good-deals/2022/6/27/23184942/google-pixel-6-pro-woot-one-day-deal-sale)
+ - [Free Hangouts users will be moved to Chat starting today &lpar;Updated&rpar;](https://www.androidauthority.com/google-hangouts-chat-transition-3180787/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
