@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That stuffed animal looks suspiciously familiar](http://9gag.com/gag/aBnMD82)
+ - 🚖 [Let me see that finger ...](http://9gag.com/gag/aM46pRW)
  - 🚯 [Kid did greater job than Megatron](http://9gag.com/gag/aWgyBM3)
- - 🚯 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
+ - 🚯 [Fail safe](http://9gag.com/gag/a819rwp)<!-- MEMES:END -->
 
 --- 
 
