@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blade Runner: Enhanced Edition updated with the un-enhanced edition on Steam after awful reception](https://www.pcgamer.com/blade-runner-enhanced-edition-updated-with-the-un-enhanced-edition-on-steam-after-awful-reception)
  - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)
- - [Today&#39;s Wordle answer #373: Monday, June 27](https://www.pcgamer.com/wordle-today-june-27-373-answer-hint)
- - [Innosilicon&#39;s low power LPDDR5X memory hits a stunning 10,000 Mbps](https://www.pcgamer.com/innosilicons-low-power-lpddr5x-memory-hits-a-stunning-10000-mbps)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #373: Monday, June 27](https://www.pcgamer.com/wordle-today-june-27-373-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
