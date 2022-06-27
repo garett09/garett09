@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima canned a ‘radical’ superhero project for being too close to The Boys](https://www.polygon.com/23184614/hideo-kojima-the-boys-canceled-superhero-project)
- - [Persona 5 Royal&#39;s PC port will be bundled with all DLC](https://www.pcgamer.com/persona-5-royals-pc-port-will-be-bundled-with-all-dlc)
- - [Reptilian Rising is the &#39;80s tabletop mashup you never knew you needed](https://www.pcgamer.com/reptilian-rising-is-the-80s-tabletop-mashup-you-never-knew-you-needed)<!-- GAME:END -->
+ - [Endless Dungeon is an unexpected roguelike sequel with a dash of Overwatch](https://www.pcgamer.com/endless-dungeon-is-an-unexpected-roguelike-sequel-with-a-dash-of-overwatch)
+ - [How to find the Raft Temperance code](https://www.pcgamer.com/raft-temperance-code-observatory-safe)
+ - [AMD has released new drivers for GPUs it no longer supports](https://www.pcgamer.com/amd-has-released-new-drivers-for-gpus-it-no-longer-supports)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
