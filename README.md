@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns out a simple Steam Deck mod means you can install a larger NVMe SSD](https://www.pcgamer.com/turns-out-a-simple-steam-deck-mod-means-you-can-install-a-larger-nvme-ssd)
- - [Steam Deck designer says SSD mod &#39;will significantly shorten the life of your Deck&#39;](https://www.pcgamer.com/steam-deck-designer-says-ssd-mod-will-significantly-shorten-the-life-of-your-deck)
- - [8 encore-worthy musician biopics to watch at home](https://www.polygon.com/what-to-watch/23167385/movies-about-musicians-best-biopics-music)<!-- GAME:END -->
+ - [RIP Bernie Stolar, Former Sega &amp; PlayStation Executive](https://kotaku.com/bernie-stolar-bernard-sega-playstation-dreamcast-rip-de-1849111587)
+ - [Blade Runner Remake Looks Like Complete Dogshit](https://kotaku.com/blade-runner-enhanced-edition-remake-rerelease-pc-steam-1849111500)
+ - [Gordian Quest is a deckbuilding RPG inspired by the genre classics](https://www.pcgamer.com/gordian-quest-is-a-deckbuilding-rpg-inspired-by-the-genre-classics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
