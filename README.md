@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just A Reminder](http://9gag.com/gag/awzD6WR)
- - 🚯 [What sportsmanship looks like.](http://9gag.com/gag/a91e9DW)
- - 🚯 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
+ - 🚖 [Madman](http://9gag.com/gag/adgMEZj)
+ - 🚯 [Komodo dragons have razor-like teeth and poisonous venom that can kill a person within hours of a bite. The venom rapidly decreases blood pressure, expedites blood loss, and sends a victim into shock. They live\u00a0on only five islands in southeastern Indonesia](http://9gag.com/gag/a11nG8D)
+ - 🚯 [What sportsmanship looks like.](http://9gag.com/gag/a91e9DW)<!-- MEMES:END -->
 
 --- 
 
