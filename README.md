@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade Runner: Enhanced Edition updated with the un-enhanced edition on Steam after awful reception](https://www.pcgamer.com/blade-runner-enhanced-edition-updated-with-the-un-enhanced-edition-on-steam-after-awful-reception)
- - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)
- - [Today&#39;s Wordle answer #373: Monday, June 27](https://www.pcgamer.com/wordle-today-june-27-373-answer-hint)<!-- GAME:END -->
+ - [Kojima canned a ‘radical’ superhero project for being too close to The Boys](https://www.polygon.com/23184614/hideo-kojima-the-boys-canceled-superhero-project)
+ - [Persona 5 Royal&#39;s PC port will be bundled with all DLC](https://www.pcgamer.com/persona-5-royals-pc-port-will-be-bundled-with-all-dlc)
+ - [Reptilian Rising is the &#39;80s tabletop mashup you never knew you needed](https://www.pcgamer.com/reptilian-rising-is-the-80s-tabletop-mashup-you-never-knew-you-needed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
