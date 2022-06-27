@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based &amp;Open, which helps brands send both physical and digital gifts at scale, raised a $26M Series A led by Molten Ventures &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/220627/p1#a220627p1)
  - [&#39;The Umbrella Academy&#39; Season 3: Here&#39;s What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-heres-what-to-remember-before-watching/#ftag=CAD590a51e)
- - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39; -- When Does the Marvel Flick Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-does-the-marvel-flick-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
