@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
+ - 🚖 [Still do](http://9gag.com/gag/avAV34E)
  - 🚯 [Such a shame](http://9gag.com/gag/aegEoMO)
- - 🚯 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
+ - 🚯 [Open sussame](http://9gag.com/gag/awzDRdD)<!-- MEMES:END -->
 
 --- 
 
