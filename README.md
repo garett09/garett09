@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let me see that finger ...](http://9gag.com/gag/aM46pRW)
- - 🚯 [Afraid of sharks](http://9gag.com/gag/aqGOvzP)
+ - 🚖 [That stuffed animal looks suspiciously familiar](http://9gag.com/gag/aBnMD82)
+ - 🚯 [Kid did greater job than Megatron](http://9gag.com/gag/aWgyBM3)
  - 🚯 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
 
 --- 
