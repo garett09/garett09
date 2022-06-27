@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Let me see that finger ...](http://9gag.com/gag/aM46pRW)
- - 🚯 [Kid did greater job than Megatron](http://9gag.com/gag/aWgyBM3)
- - 🚯 [Fail safe](http://9gag.com/gag/a819rwp)<!-- MEMES:END -->
+ - 🚯 [Makes sense to me](http://9gag.com/gag/adgAy2Q)
+ - 🚯 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
 
 --- 
 
