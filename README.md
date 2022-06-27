@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone needs to release some steam](http://9gag.com/gag/apgX4zD)
- - 🚯 [Have you lived this experience](http://9gag.com/gag/aPZ0EnK)
- - 🚯 [Never forget](http://9gag.com/gag/aegEv7v)<!-- MEMES:END -->
+ - 🚖 [Just A Reminder](http://9gag.com/gag/awzD6WR)
+ - 🚯 [What sportsmanship looks like.](http://9gag.com/gag/a91e9DW)
+ - 🚯 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
 
 --- 
 
