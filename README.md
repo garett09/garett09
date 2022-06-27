@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let me see that finger ...](http://9gag.com/gag/aM46pRW)
- - 🚯 [Makes sense to me](http://9gag.com/gag/adgAy2Q)
- - 🚯 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
+ - 🚖 [How Different Animals Fight](http://9gag.com/gag/aE8KvZM)
+ - 🚯 [Viktor Frankl](http://9gag.com/gag/amgyDxX)
+ - 🚯 [\u0d86 \u0d9a\u0db8\u0d9a\u0dca \u0db1\u0dd1...](http://9gag.com/gag/a21gzAw)<!-- MEMES:END -->
 
 --- 
 
