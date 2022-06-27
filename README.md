@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game companies pledge to help workers as abortion becomes illegal in many states](https://www.polygon.com/23185284/roe-v-wade-abortion-illegal-video-game-industry-response)
- - [Just in time for The Rock’s movie, DC Comics gives Black Adam a big shakeup](https://www.polygon.com/23184702/black-adam-dc-comics)
- - [Skull and Bones ESRB listing appears, this thing might actually be happening](https://www.pcgamer.com/skull-and-bones-esrb-listing-appears-this-thing-might-actually-be-happening)<!-- GAME:END -->
+ - [One Piece celebration stream promises game, anime, and manga news in July](https://www.polygon.com/23185514/one-piece-celebration-stream-announcements-july-2022)
+ - [Pokémon Card Game Player Uses Comically Large Cards At Championship](https://kotaku.com/pokemon-card-game-jumbo-deck-american-championship-1849115216)
+ - [The Boys showrunner wants to team up with Hideo Kojima to make a game](https://www.pcgamer.com/the-boys-showrunner-wants-to-team-up-with-hideo-kojima-to-make-a-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
