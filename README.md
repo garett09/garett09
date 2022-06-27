@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Supreme Court passes on Apple&#39;s bid to revive Qualcomm patent invalidation](https://appleinsider.com/articles/22/06/27/us-supreme-court-passes-on-apples-bid-to-revive-qualcomm-patent-invalidation?utm_medium=rss)
- - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
- - [Amazon&#39;s Prime Day shopping event, set for July 12-13, appears to be low-key than previous years, focused on discount Amazon-made products &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220627/p20#a220627p20)<!-- TECH:END -->
+ - [The Supreme Court says it won’t consider rewriting defamation law... yet](https://www.theverge.com/2022/6/27/23184792/supreme-court-coral-ridge-splc-petition-denied-libel-law-actual-malice)
+ - [What’s a smart button, and do you need one for your smart home?](https://www.androidauthority.com/smart-buttons-3169344/)
+ - [Solar Panel Installation: How Long It Takes and What You Need to Know     - CNET](https://www.cnet.com/news/solar-panel-installation-how-long-it-takes-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
