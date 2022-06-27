@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Miyamoto Couldn&#39;t Stand Wind Waker&#39;s Art Style At First](https://kotaku.com/the-legend-of-zelda-wind-waker-graphics-shigeru-miyamot-1849112926)
- - [Horror movie The Invitation shows why you shouldn’t go to a vampire wedding](https://www.polygon.com/23184735/the-invitation-horror-movie-trailer-dracula-vampires)
- - [Diablo Immortal Could Run Your Wallet Way More Than You Thought](https://kotaku.com/diablo-immortal-build-microtransaction-legendary-gem-bl-1849112884)<!-- GAME:END -->
+ - [Hearthstone&#39;s next expansion will ask the players whodunnit](https://www.pcgamer.com/hearthstones-next-expansion-will-ask-the-players-whodunnit)
+ - [New Skull &amp; Bones rating more proof that Skull &amp; Bones will come out](https://www.polygon.com/23184818/skull-and-bones-release-date-ubisoft)
+ - [Introducing FieldSense in Madden NFL 23](https://news.xbox.com/en-us/2022/06/27/introducing-fieldsense-in-madden-nfl-23/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
