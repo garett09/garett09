@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 beta 3.3 brings the long-awaited Easter egg](https://www.androidauthority.com/android-13-easter-egg-3180887/)
- - [The Stardust period tracking app, which was the top free app on the US App Store on June 25, shares users&#39; phone numbers with analytics company Mixpanel &lpar;TechCrunch&rpar;](http://www.techmeme.com/220627/p26#a220627p26)
- - [Epic&#39;s &#39;Support a creator&#39; program pays out only 5% of game content makers&#39; sales](https://appleinsider.com/articles/22/06/27/epics-support-a-creator-program-pays-out-only-5-of-game-content-makers-sales?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile launched App Insights, letting marketers target its wireless customers based on apps they have installed and engagement patterns; users can opt out &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220627/p29#a220627p29)
+ - [Sam Bankman-Fried says there are no active talks for FTX to acquire Robinhood; Robinhood says no acquisition can go through without the founders&#39; approval &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220627/p28#a220627p28)
+ - [Motorola Razr 3: Everything we know so far and what we want to see](https://www.androidauthority.com/motorola-razr-3-3079713/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
