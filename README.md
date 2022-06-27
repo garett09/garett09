@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swiftly saving two lives](http://9gag.com/gag/a21VerZ)
- - 🚯 [That was before I became a weed smoker and I regret nothing](http://9gag.com/gag/aBnM7rZ)
- - 🚯 [This man spitting facts fr fr](http://9gag.com/gag/aVx8A9P)<!-- MEMES:END -->
+ - 🚖 [Someone needs to release some steam](http://9gag.com/gag/apgX4zD)
+ - 🚯 [Have you lived this experience](http://9gag.com/gag/aPZ0EnK)
+ - 🚯 [Never forget](http://9gag.com/gag/aegEv7v)<!-- MEMES:END -->
 
 --- 
 
