@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Komodo dragons have razor-like teeth and poisonous venom that can kill a person within hours of a bite. The venom rapidly decreases blood pressure, expedites blood loss, and sends a victim into shock. They live\u00a0on only five islands in southeastern Indonesia](http://9gag.com/gag/a11nG8D)
- - 🚯 [Just A Reminder](http://9gag.com/gag/awzD6WR)
- - 🚯 [When you hear a noise in the kitchen at 1 am](http://9gag.com/gag/aqGO3yY)<!-- MEMES:END -->
+ - 🚖 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
+ - 🚯 [Such a shame](http://9gag.com/gag/aegEoMO)
+ - 🚯 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
 
 --- 
 
