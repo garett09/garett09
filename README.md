@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Open sussame](http://9gag.com/gag/awzDRdD)
- - 🚯 [..........](http://9gag.com/gag/aAG7WVg)
- - 🚯 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)<!-- MEMES:END -->
+ - 🚖 [Viktor Frankl](http://9gag.com/gag/amgyDxX)
+ - 🚯 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)
+ - 🚯 [Fail safe](http://9gag.com/gag/a819rwp)<!-- MEMES:END -->
 
 --- 
 
