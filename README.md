@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece celebration stream promises game, anime, and manga news in July](https://www.polygon.com/23185514/one-piece-celebration-stream-announcements-july-2022)
- - [Pokémon Card Game Player Uses Comically Large Cards At Championship](https://kotaku.com/pokemon-card-game-jumbo-deck-american-championship-1849115216)
- - [The Boys showrunner wants to team up with Hideo Kojima to make a game](https://www.pcgamer.com/the-boys-showrunner-wants-to-team-up-with-hideo-kojima-to-make-a-game)<!-- GAME:END -->
+ - [Roller Champions New Season: Disco Fever Out Now](https://news.xbox.com/en-us/2022/06/27/roller-champions-new-season-disco-fever-out-now/)
+ - [Diablo Immortal player uses premium currency shenanigans to turn old WoW tokens into a whale-killing Necromancer](https://www.pcgamer.com/diablo-immortal-player-uses-premium-currency-shenanigans-to-turn-old-wow-tokens-into-a-whale-killing-necromancer)
+ - [How to help the fight for reproductive rights](https://www.pcgamer.com/how-to-help-the-fight-for-reproductive-rights)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
