@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Different Animals Fight](http://9gag.com/gag/aE8KvZM)
- - 🚯 [Viktor Frankl](http://9gag.com/gag/amgyDxX)
- - 🚯 [\u0d86 \u0d9a\u0db8\u0d9a\u0dca \u0db1\u0dd1...](http://9gag.com/gag/a21gzAw)<!-- MEMES:END -->
+ - 🚖 [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
+ - 🚯 [Works every time](http://9gag.com/gag/arnEvLd)
+ - 🚯 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
 
 --- 
 
