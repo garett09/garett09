@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hard drive benchmarks show the 256GB 13&quot; MacBook Pro with M2 has ~50% slower read and ~30% slower write speeds than the previous gen 256GB MacBook Pro with M1 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220626/p9#a220626p9)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
- - [AEW Forbidden Door 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/aew-forbidden-door-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Umbrella Academy&#39; Season 3: Here&#39;s What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-heres-what-to-remember-before-watching/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; -- When Does the Marvel Flick Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-does-the-marvel-flick-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
