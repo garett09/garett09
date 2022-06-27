@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still do](http://9gag.com/gag/avAV34E)
- - 🚯 [Such a shame](http://9gag.com/gag/aegEoMO)
+ - 🚖 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
+ - 🚯 [For the love of God please stop.](http://9gag.com/gag/aqGO3Zp)
  - 🚯 [Open sussame](http://9gag.com/gag/awzDRdD)<!-- MEMES:END -->
 
 --- 
