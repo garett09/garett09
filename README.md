@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🌩️ Nothing but character](https://www.androidauthority.com/daily-authority-june-27-2022-3180526/)
- - [Data centers, typically located in suburbs and rural zones, are increasingly being built in urban areas to further reduce internet lag for locals &lpar;Michael Waters/MIT Technology Review&rpar;](http://www.techmeme.com/220627/p3#a220627p3)
- - [Poll: Are you happy with your phone’s performance?](https://www.androidauthority.com/happy-phone-performance-poll-3180560/)<!-- TECH:END -->
+ - [China Built Your iPhone. Will It Build Your Next Car?](https://www.wired.com/story/foxconn-apple-car-china/)
+ - [DALL-E Mini Is the Internet&#39;s Favorite AI Meme Machine](https://www.wired.com/story/dalle-ai-meme-machine/)
+ - [Forget Lasers. The Hot New Tool for Physicists Is Sound](https://www.wired.com/story/acoustic-sound-waves-engineers-physics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
