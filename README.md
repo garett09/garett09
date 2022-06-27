@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Digital World Acquisition Corp., which wants to take Trump&#39;s Truth Social public, discloses subpoenas by a federal grand jury to all board directors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220627/p19#a220627p19)
- - [How to install fonts on Windows 10 and 11](https://www.androidauthority.com/install-fonts-windows-3178293/)
- - [Are You Ready to Be Surveilled Like a Sex Worker?](https://www.wired.com/story/roe-abortion-sex-worker-policy/)<!-- TECH:END -->
+ - [US Supreme Court passes on Apple&#39;s bid to revive Qualcomm patent invalidation](https://appleinsider.com/articles/22/06/27/us-supreme-court-passes-on-apples-bid-to-revive-qualcomm-patent-invalidation?utm_medium=rss)
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
+ - [Amazon&#39;s Prime Day shopping event, set for July 12-13, appears to be low-key than previous years, focused on discount Amazon-made products &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220627/p20#a220627p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
