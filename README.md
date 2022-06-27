@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Viktor Frankl](http://9gag.com/gag/amgyDxX)
- - 🚯 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)
- - 🚯 [Fail safe](http://9gag.com/gag/a819rwp)<!-- MEMES:END -->
+ - 🚖 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)
+ - 🚯 [I am listening, but at the same time I want to punch in the face so much.](http://9gag.com/gag/adgMZD9)
+ - 🚯 [Hell hath no fury like Ripley](http://9gag.com/gag/aQXKwp7)<!-- MEMES:END -->
 
 --- 
 
