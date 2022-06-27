@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ Nord N20 5G is now available unlocked](https://www.theverge.com/2022/6/27/23185189/oneplus-nord-n20-5g-unlocked-t-mobile-att-specs-availability)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Asus ROG Phone 6 breaks cover, looks absolutely massive with its cooling fan](https://www.androidauthority.com/asus-rog-phone-6-cooling-3180858/)<!-- TECH:END -->
+ - [Android 13 beta 3.3 brings the long-awaited Easter egg](https://www.androidauthority.com/android-13-easter-egg-3180887/)
+ - [The Stardust period tracking app, which was the top free app on the US App Store on June 25, shares users&#39; phone numbers with analytics company Mixpanel &lpar;TechCrunch&rpar;](http://www.techmeme.com/220627/p26#a220627p26)
+ - [Epic&#39;s &#39;Support a creator&#39; program pays out only 5% of game content makers&#39; sales](https://appleinsider.com/articles/22/06/27/epics-support-a-creator-program-pays-out-only-5-of-game-content-makers-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
