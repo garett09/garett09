@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All about focus: The making of a vivo photography flagship](https://www.androidauthority.com/focus-vivo-photography-flagship-3178074/)
- - [The archnemeses of war rugs](https://www.theverge.com/2022/6/27/23177797/afghan-war-rugs-drone-imagery-copyright-dispute)
- - [Best alternatives to Apple&#39;s 35W dual-output USB-C power adapter](https://appleinsider.com/articles/22/06/27/best-alternatives-to-apples-35w-dual-output-usb-c-power-adapter?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Digital World Acquisition Corp., which wants to take Trump&#39;s Truth Social public, discloses subpoenas by a federal grand jury to all board directors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220627/p19#a220627p19)
+ - [How to install fonts on Windows 10 and 11](https://www.androidauthority.com/install-fonts-windows-3178293/)
+ - [Are You Ready to Be Surveilled Like a Sex Worker?](https://www.wired.com/story/roe-abortion-sex-worker-policy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
