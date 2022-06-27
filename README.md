@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve is doubling Steam Deck shipments, so you might get yours faster](https://www.theverge.com/2022/6/27/23185038/valve-steam-deck-doubling-shipments-production)
- - [Google’s Pixel 6 Pro is $120 off for today only](https://www.theverge.com/good-deals/2022/6/27/23184942/google-pixel-6-pro-woot-one-day-deal-sale)
- - [Free Hangouts users will be moved to Chat starting today &lpar;Updated&rpar;](https://www.androidauthority.com/google-hangouts-chat-transition-3180787/)<!-- TECH:END -->
+ - [OnePlus’ Nord N20 5G is now available unlocked](https://www.theverge.com/2022/6/27/23185189/oneplus-nord-n20-5g-unlocked-t-mobile-att-specs-availability)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Asus ROG Phone 6 breaks cover, looks absolutely massive with its cooling fan](https://www.androidauthority.com/asus-rog-phone-6-cooling-3180858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
