@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Built Your iPhone. Will It Build Your Next Car?](https://www.wired.com/story/foxconn-apple-car-china/)
- - [DALL-E Mini Is the Internet&#39;s Favorite AI Meme Machine](https://www.wired.com/story/dalle-ai-meme-machine/)
- - [Forget Lasers. The Hot New Tool for Physicists Is Sound](https://www.wired.com/story/acoustic-sound-waves-engineers-physics/)<!-- TECH:END -->
+ - [Sky Mavis says it plans to reimburse Axie Infinity users and reopen its Ronin bridge on June 28, after hackers stole 173,600 Ether and 25.5M USDC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220627/p7#a220627p7)
+ - [Despite UK government pressure, Masayoshi Son tells SoftBank shareholders that the Nasdaq remains his &quot;favourite&quot; venue for an Arm IPO &lpar;Antoni Slodkowski/Financial Times&rpar;](http://www.techmeme.com/220627/p6#a220627p6)
+ - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
