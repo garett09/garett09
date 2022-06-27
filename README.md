@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [Apple AirPods Pro 2: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/airpods-pro-2-release-date-rumors-specs-price-features-3169965/)
- - [Icebergify: How To Create an Iceberg of Your Most Listened to Spotify Artists     - CNET](https://www.cnet.com/culture/entertainment/icebergify-how-to-create-an-iceberg-of-your-most-listened-to-spotify-artists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Strapi, known for its open-source headless CMS, raises a $31M Series B led by CRV and says it plans to launch its Strapi Cloud service in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220627/p2#a220627p2)
+ - [Nothing Phone 1: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)
+ - [Apple Watch Series 8: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
