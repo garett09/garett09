@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Endless Dungeon is an unexpected roguelike sequel with a dash of Overwatch](https://www.pcgamer.com/endless-dungeon-is-an-unexpected-roguelike-sequel-with-a-dash-of-overwatch)
- - [How to find the Raft Temperance code](https://www.pcgamer.com/raft-temperance-code-observatory-safe)
- - [AMD has released new drivers for GPUs it no longer supports](https://www.pcgamer.com/amd-has-released-new-drivers-for-gpus-it-no-longer-supports)<!-- GAME:END -->
+ - [F1 22 review](https://www.pcgamer.com/f1-22-review)
+ - [How to complete the Empty Grief challenge in Destiny 2](https://www.pcgamer.com/destiny-2-empty-grief)
+ - [Nethack is now in the Museum of Modern Art](https://www.pcgamer.com/nethack-is-now-in-the-museum-of-modern-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
