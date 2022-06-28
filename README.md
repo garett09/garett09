@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata Hits Nintendo Switch On October 6](https://kotaku.com/nier-automata-nintendo-switch-end-yorha-edition-direct-1849117769)
- - [Lorelei and the Laser Eyes is the newest game from Sayonara Wild Hearts developers](https://www.polygon.com/23186346/lorelei-and-the-laser-eyes-trailer-nintendo-switch)
- - [New Games with Gold for July 2022](https://news.xbox.com/en-us/2022/06/28/new-games-with-gold-for-july-2022/)<!-- GAME:END -->
+ - [Neon White shows us what a perfect difficulty curve looks like](https://www.polygon.com/reviews/23185130/neon-white-review-speedrun-fps-deck-builder-pc-switch)
+ - [Co-op game Blanc is the cutest thing you’ll see all morning](https://www.polygon.com/23186478/blanc-trailer-release-date-nintedo-switch)
+ - [Take Your Seat in the New Era of Formula 1 with EA Sports F1 22](https://news.xbox.com/en-us/2022/06/28/new-era-of-formula-1-with-ea-sports-f1-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
