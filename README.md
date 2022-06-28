@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfection...](http://9gag.com/gag/avAqZKb)
- - 🚯 [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
- - 🚯 [Fast as F@ck!](http://9gag.com/gag/azeyLex)<!-- MEMES:END -->
+ - 🚖 [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
+ - 🚯 [But there is more](http://9gag.com/gag/a0ZgPDB)
+ - 🚯 [Easy trick to clean cut carpet flooring around the pole](http://9gag.com/gag/aBnzQYQ)<!-- MEMES:END -->
 
 --- 
 
