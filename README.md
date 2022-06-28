@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chadgirl](http://9gag.com/gag/axBKG5W)
- - 🚯 [So basically Obi-Wan defeated Vader twice and the 3d time when he was about to get his ass kicked he disconnected so it wouldn\u2019t count. Pro gamer move.](http://9gag.com/gag/ay9rdyy)
+ - 🚖 [Pure. Someone you used to know](http://9gag.com/gag/a41gjWv)
+ - 🚯 [You could be Yamcha](http://9gag.com/gag/a31gj38)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
