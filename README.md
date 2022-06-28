@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A tiny NASA spacecraft launches to test out a new orbit around the Moon](https://www.theverge.com/2022/6/28/23157981/nasa-capstone-moon-artemis-program-nrho-orbit-rocket-lab)
- - [HTC’s metaverse phone shows without all doubt that the company is a zombie](https://www.androidauthority.com/htc-desire-22-pro-3181122/)
- - [Airbnb’s party ban is now permanent](https://www.theverge.com/2022/6/28/23186141/airbnb-party-ban-policy-16-person-occupancy-limit-lifted)<!-- TECH:END -->
+ - [Spotting Objects From Space Is Easy. This Challenge Is Harder](https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/)
+ - [Democracy Is Asking Too Much of Its Data](https://www.wired.com/story/census-algorithm-politics/)
+ - [The Rise and Precarious Reign of China’s Battery King](https://www.wired.com/story/catl-china-battery-production-evs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
