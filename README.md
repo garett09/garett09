@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Royal, Persona 4 Golden, And Persona 3 Portable Coming To Switch, Too](https://kotaku.com/persona-5-royal-4-golden-3-portable-switch-release-jrpg-1849118719)
- - [Some baller used a Raspberry Pi to play YouTube on the Commodore PET](https://www.pcgamer.com/some-baller-used-a-raspberry-pi-to-play-youtube-on-the-commodore-pet)
- - [Ray tracing in F1 22 is not worth the penalty to performance](https://www.pcgamer.com/f1-22-performance-ray-tracing)<!-- GAME:END -->
+ - [Mario + Rabbids: Sparks Of Hope Launches October 20, Sees Bowser Join The Fun](https://kotaku.com/mario-rabbids-sparks-of-hope-switch-october-20-bowser-1847730595)
+ - [Persona fanzine saved by donations after founder spent $21K budget on Genshin Impact, rent, and plushies](https://www.pcgamer.com/persona-fanzine-saved-by-donations-after-founder-spent-dollar21k-budget-on-genshin-impact-rent-and-plushies)
+ - [Outriders Worldslayer Out Now](https://news.xbox.com/en-us/2022/06/28/outriders-worldslayer-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
