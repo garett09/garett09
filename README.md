@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking the right questions!](http://9gag.com/gag/aBnzKmN)
- - 🚯 [Works every time](http://9gag.com/gag/arnEvLd)
- - 🚯 [Move b&#39;tch](http://9gag.com/gag/adgA0P2)<!-- MEMES:END -->
+ - 🚖 [Move b&#39;tch](http://9gag.com/gag/adgA0P2)
+ - 🚯 [Distance in minutes..](http://9gag.com/gag/avAq0wE)
+ - 🚯 [Easy trick to clean cut carpet flooring around the pole](http://9gag.com/gag/aBnzQYQ)<!-- MEMES:END -->
 
 --- 
 
