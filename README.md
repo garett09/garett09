@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
+ - 🚖 [Fast as F@ck!](http://9gag.com/gag/azeyLex)
  - 🚯 [But there is more](http://9gag.com/gag/a0ZgPDB)
- - 🚯 [Easy trick to clean cut carpet flooring around the pole](http://9gag.com/gag/aBnzQYQ)<!-- MEMES:END -->
+ - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
 
