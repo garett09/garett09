@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario + Rabbids: Sparks Of Hope Launches October 20, Sees Bowser Join The Fun](https://kotaku.com/mario-rabbids-sparks-of-hope-switch-october-20-bowser-1847730595)
- - [Persona fanzine saved by donations after founder spent $21K budget on Genshin Impact, rent, and plushies](https://www.pcgamer.com/persona-fanzine-saved-by-donations-after-founder-spent-dollar21k-budget-on-genshin-impact-rent-and-plushies)
- - [Outriders Worldslayer Out Now](https://news.xbox.com/en-us/2022/06/28/outriders-worldslayer-out-now/)<!-- GAME:END -->
+ - [Tiny Tina’s Wonderlands: Molten Mirrors Is Out Now](https://news.xbox.com/en-us/2022/06/28/tiny-tinas-wonderlands-molten-mirrors-is-out-now/)
+ - [Super Animal Royale is the cutest battle royale game you’ve ever seen](https://www.pcgamer.com/super-animal-royale-is-the-cutest-battle-royale-game-youve-ever-seen)
+ - [Sega’s open-world Sonic Frontiers has traditional Sonic levels, too](https://www.polygon.com/23186531/sonic-frontiers-cyberspace-sega-sonic-the-hedgehog)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
