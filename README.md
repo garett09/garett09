@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Browser&#39;s History](http://9gag.com/gag/a71g51r)
- - 🚯 [Fast as F@ck!](http://9gag.com/gag/azeyLex)
- - 🚯 [How Different Animals Fight](http://9gag.com/gag/aE8KvZM)<!-- MEMES:END -->
+ - 🚖 [It&#39;s all fun and games until God stops accepting his collect calls](http://9gag.com/gag/a41g42Z)
+ - 🚯 [Dogs&gt;Hoes](http://9gag.com/gag/aogoZe0)
+ - 🚯 [Amazing wood](http://9gag.com/gag/angZXEz)<!-- MEMES:END -->
 
 --- 
 
