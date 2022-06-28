@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make a Recycler in Raft](https://www.pcgamer.com/raft-recycler-blueprint-craft)
- - [Where to find every Calus Automaton in Destiny 2](https://www.pcgamer.com/destiny-2-calus-automaton)
- - [How to get Trash Cubes in Raft](https://www.pcgamer.com/raft-trash-cubes-craft)<!-- GAME:END -->
+ - [Dragon Quest 11 spinoff Dragon Quest Treasures heads to Switch this fall](https://www.polygon.com/23185614/dragon-quest-treasures-nintendo-switch-release-date)
+ - [Everything announced during Tuesday’s Nintendo Direct ‘Mini’](https://www.polygon.com/23185421/nintendo-direct-mini-june-2022-partner-showcase-persona-monster-hunter-minecraft)
+ - [Square Enix’s Harvestella is a new life sim farming game with a deadly twist](https://www.polygon.com/23185454/harvestella-square-enix-game-nintendo-switch-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
