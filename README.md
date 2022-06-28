@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest 11 spinoff Dragon Quest Treasures heads to Switch this fall](https://www.polygon.com/23185614/dragon-quest-treasures-nintendo-switch-release-date)
- - [Everything announced during Tuesday’s Nintendo Direct ‘Mini’](https://www.polygon.com/23185421/nintendo-direct-mini-june-2022-partner-showcase-persona-monster-hunter-minecraft)
- - [Square Enix’s Harvestella is a new life sim farming game with a deadly twist](https://www.polygon.com/23185454/harvestella-square-enix-game-nintendo-switch-release-date)<!-- GAME:END -->
+ - [Nier: Automata Hits Nintendo Switch On October 6](https://kotaku.com/nier-automata-nintendo-switch-end-yorha-edition-direct-1849117769)
+ - [Lorelei and the Laser Eyes is the newest game from Sayonara Wild Hearts developers](https://www.polygon.com/23186346/lorelei-and-the-laser-eyes-trailer-nintendo-switch)
+ - [New Games with Gold for July 2022](https://news.xbox.com/en-us/2022/06/28/new-games-with-gold-for-july-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
