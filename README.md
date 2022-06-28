@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Samsung Pay on your Galaxy Watch](https://www.androidauthority.com/how-to-set-up-samsung-pay-galaxy-watch-3180433/)
- - [Apple seeds fourth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/06/28/apple-seeds-fourth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
- - [Apple&#39;s 2022 Back to School promo is here, but there are better deals](https://appleinsider.com/articles/22/06/24/apples-2022-back-to-school-promo-is-here-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [A deep dive on Truth Social&#39;s struggles, as the social network flails in its efforts to build a competitive platform while alienating tech talent and partners &lpar;Reuters&rpar;](http://www.techmeme.com/220628/p22#a220628p22)
+ - [The Ghostbusters: Afterlife sequel is set for release in December 2023](https://www.theverge.com/2022/6/28/23186423/ghostbusters-afterlife-sequel-release-date-columbia-pictures)
+ - [The Supreme Court is about to decide a major climate court case](https://www.theverge.com/2022/6/28/23186627/supreme-court-climate-court-case-west-virginia-epa-power-plant-emissions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
