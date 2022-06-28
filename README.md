@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ drops first trailer for upcoming kids show &#39;Duck &amp; Goose,&#39; out July 8](https://appleinsider.com/articles/22/06/28/apple-tv-drops-first-trailer-for-upcoming-kids-show-duck-goose-out-july-8?utm_medium=rss)
- - [AirTags help Toronto man track down stolen Range Rover](https://appleinsider.com/articles/22/06/28/airtags-help-toronto-man-track-down-stolen-range-rover?utm_medium=rss)
- - [‘Supercookies’ Have Privacy Experts Sounding the Alarm](https://www.wired.com/story/trustpid-digital-token-supercookie/)<!-- TECH:END -->
+ - [How to set up Samsung Pay on your Galaxy Watch](https://www.androidauthority.com/how-to-set-up-samsung-pay-galaxy-watch-3180433/)
+ - [Apple seeds fourth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/06/28/apple-seeds-fourth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Apple&#39;s 2022 Back to School promo is here, but there are better deals](https://appleinsider.com/articles/22/06/24/apples-2022-back-to-school-promo-is-here-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
