@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX asks Starlink customers for support in wireless battle with Dish](https://www.theverge.com/2022/6/28/23186881/spacex-starlink-dish-5g-12-ghz-band-radio-frequency-satellite-internet)
- - [Microsoft Edge Collections go full-on Pinterest with inspiration feed and sharing](https://www.theverge.com/2022/6/28/23186775/microsoft-edge-collections-pinterest-inspiration-feed-sharing)
- - [Sony has another PlayStation 5 restock you can queue up for right now](https://www.theverge.com/2022/6/28/23186988/sony-playstation-5-ps5-restock-direct-console-availability-inventory-check)<!-- TECH:END -->
+ - [FCC commissioner calls for Apple &amp; Google to ban TikTok](https://appleinsider.com/articles/22/06/28/fcc-commissioner-calls-for-apple-google-to-ban-tiktok?utm_medium=rss)
+ - [Android 13’s Easter egg is a delightful kaleidoscope of emoji](https://www.theverge.com/2022/6/28/23187020/android-13-easter-egg-wallpaper-emoji-developer-beta)
+ - [The Hyundai Ioniq 6 EV Is Astonishingly Aerodynamic](https://www.wired.com/story/hyundai-ioniq-6-reveal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
