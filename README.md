@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing wood](http://9gag.com/gag/angZXEz)
- - 🚯 [Every time they say: `we care about you or the environment is a lie`](http://9gag.com/gag/aegz3bQ)
+ - 🚖 [Laaaaame](http://9gag.com/gag/aXr3pD9)
+ - 🚯 [Ode to the Nurses &lpar;ww1&rpar;](http://9gag.com/gag/aPZLG4Q)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
