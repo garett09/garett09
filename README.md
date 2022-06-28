@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Neon White shows us what a perfect difficulty curve looks like](https://www.polygon.com/reviews/23185130/neon-white-review-speedrun-fps-deck-builder-pc-switch)
- - [Co-op game Blanc is the cutest thing you’ll see all morning](https://www.polygon.com/23186478/blanc-trailer-release-date-nintedo-switch)
- - [Take Your Seat in the New Era of Formula 1 with EA Sports F1 22](https://news.xbox.com/en-us/2022/06/28/new-era-of-formula-1-with-ea-sports-f1-22/)<!-- GAME:END -->
+ - [Persona 5 Royal, Persona 4 Golden, And Persona 3 Portable Coming To Switch, Too](https://kotaku.com/persona-5-royal-4-golden-3-portable-switch-release-jrpg-1849118719)
+ - [Some baller used a Raspberry Pi to play YouTube on the Commodore PET](https://www.pcgamer.com/some-baller-used-a-raspberry-pi-to-play-youtube-on-the-commodore-pet)
+ - [Ray tracing in F1 22 is not worth the penalty to performance](https://www.pcgamer.com/f1-22-performance-ray-tracing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
