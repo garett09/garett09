@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] A look at the crypto deals made by English Premier League soccer clubs, including sponsorships and fan tokens, most of which have tanked in value &lpar;Joey D&#39;Urso/@josephmdurso&rpar;](http://www.techmeme.com/220628/p17#a220628p17)
- - [Foxconn steps up bonuses to attract workers for iPhone 14](https://appleinsider.com/articles/22/06/28/foxconn-steps-up-bonuses-to-attract-workers-for-iphone-14?utm_medium=rss)
- - [Our favorite benchmarks for testing PCs and how to use them](https://www.theverge.com/23185394/benchmarks-testing-pcs-gaming-how-to)<!-- TECH:END -->
+ - [Amazon’s waterproof last-gen Kindle Paperwhite is nearly half off](https://www.theverge.com/good-deals/2022/6/28/23184786/kindle-paperwhite-samsung-the-frame-macbook-pro-beats-flex-lg-c1-oled-tv-anker-nano-deal-sale)
+ - [Any Mac can be portable, if you try hard enough](https://appleinsider.com/articles/22/06/28/any-mac-can-be-portable-if-you-try-hard-enough?utm_medium=rss)
+ - [How Creators Get Paid Online](https://www.theverge.com/23148534/creators-getting-paid-online-tiktok-youtube-fortnite-patreon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
