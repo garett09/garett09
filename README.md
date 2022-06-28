@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm Mali-G715 Immortalis deep dive: Ray tracing graphics for mobile](https://www.androidauthority.com/arm-mali-g715-immortalis-3179061/)
- - [Ray tracing and 64-bit only: What you should know about Arm’s 2023 CPUs and GPUs](https://www.androidauthority.com/arm-2023-cpu-gpu-smartphones-3178096/)
- - [Arm Cortex-X3 and Cortex-A715: Next-gen CPUs redefined](https://www.androidauthority.com/arm-cortex-x3-cortex-a715-3178608/)<!-- TECH:END -->
+ - [Apple TV+ drops first trailer for upcoming kids show &#39;Duck &amp; Goose,&#39; out July 8](https://appleinsider.com/articles/22/06/28/apple-tv-drops-first-trailer-for-upcoming-kids-show-duck-goose-out-july-8?utm_medium=rss)
+ - [AirTags help Toronto man track down stolen Range Rover](https://appleinsider.com/articles/22/06/28/airtags-help-toronto-man-track-down-stolen-range-rover?utm_medium=rss)
+ - [‘Supercookies’ Have Privacy Experts Sounding the Alarm](https://www.wired.com/story/trustpid-digital-token-supercookie/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
