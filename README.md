@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive on Truth Social&#39;s struggles, as the social network flails in its efforts to build a competitive platform while alienating tech talent and partners &lpar;Reuters&rpar;](http://www.techmeme.com/220628/p22#a220628p22)
- - [The Ghostbusters: Afterlife sequel is set for release in December 2023](https://www.theverge.com/2022/6/28/23186423/ghostbusters-afterlife-sequel-release-date-columbia-pictures)
- - [The Supreme Court is about to decide a major climate court case](https://www.theverge.com/2022/6/28/23186627/supreme-court-climate-court-case-west-virginia-epa-power-plant-emissions)<!-- TECH:END -->
+ - [Facebook Groups are being revamped to look like Discord](https://www.theverge.com/2022/6/28/23186527/facebook-groups-discord-channels-test-future-slack)
+ - [The Pixel Watch might support iPhone connections after all](https://www.androidauthority.com/google-pixel-watch-iphone-3181415/)
+ - [13-inch MacBook Pro with M2 review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
