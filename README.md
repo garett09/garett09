@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Plural, a &amp;euro;250M early-stage fund led by Wise co-founder Taavet Hinrikus, Teleport co-founder Sten Tamkivi, Songkick co-founder Ian Hogarth, and others &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220628/p6#a220628p6)
- - [Netflix plans to grow its investment in the Asia Pacific, which has 15% of Netflix&#39;s subscribers and is forecast to be the biggest driver of further expansion &lpar;Shirley Zhao/Bloomberg&rpar;](http://www.techmeme.com/220628/p5#a220628p5)
- - [Google makes Google Earth Engine, which tracks the earth&#39;s surface, available to any commercial or government organization using Google Cloud &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/220628/p4#a220628p4)<!-- TECH:END -->
+ - [A tiny NASA spacecraft launches to test out a new orbit around the Moon](https://www.theverge.com/2022/6/28/23157981/nasa-capstone-moon-artemis-program-nrho-orbit-rocket-lab)
+ - [HTC’s metaverse phone shows without all doubt that the company is a zombie](https://www.androidauthority.com/htc-desire-22-pro-3181122/)
+ - [Airbnb’s party ban is now permanent](https://www.theverge.com/2022/6/28/23186141/airbnb-party-ban-policy-16-person-occupancy-limit-lifted)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
