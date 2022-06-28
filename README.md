@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you have work to do on a Sunday, but you don&#39;t want to disturb the neighbors. Turn on the sound.](http://9gag.com/gag/azeyA1j)
- - 🚯 [A whole worker Japanese ice cream company apoligize for raising their price by 10 Yen &lpar;0.07 USD&rpar; after 25 years](http://9gag.com/gag/aNPMKX3)
+ - 🚖 [Chadgirl](http://9gag.com/gag/axBKG5W)
+ - 🚯 [So basically Obi-Wan defeated Vader twice and the 3d time when he was about to get his ass kicked he disconnected so it wouldn\u2019t count. Pro gamer move.](http://9gag.com/gag/ay9rdyy)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
