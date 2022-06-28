@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
- - 🚯 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)
- - 🚯 [Legend.](http://9gag.com/gag/aVxrjEO)<!-- MEMES:END -->
+ - 🚯 [Legend.](http://9gag.com/gag/aVxrjEO)
+ - 🚯 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
 
 --- 
 
