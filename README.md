@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Quebec French Language Law Has Game Devs Fearful Of The Future](https://kotaku.com/quebec-bill-96-french-language-law-game-devs-ubisoft-1849120595)
- - [Simpsons Hit and Run fan puts a cult classic in an open-world remake](https://www.polygon.com/23187203/simpsons-hit-and-run-fan-project-open-world)
- - [Like the PS5’s design? Maybe you’ll like Sony’s new gaming monitors and headsets](https://www.polygon.com/23187033/sony-gaming-headset-monitor-pc-ps5-inzone)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
+ - [Steam&#39;s most-wishlisted game admits to using some &#39;volunteer&#39; workers](https://www.pcgamer.com/steams-most-wishlisted-game-admits-to-using-some-volunteer-workers)
+ - [&#39;I will stream while you cook for me,&#39; says banned Twitch streamer in bizarre sexist rant](https://www.pcgamer.com/i-will-stream-while-you-cook-for-me-says-banned-twitch-streamer-in-bizarre-sexist-rant)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
