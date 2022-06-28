@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Inzone M9 gaming monitor review](https://www.pcgamer.com/sony-inzone-m9-gaming-monitor-review)
- - [Anvil: Vault Breakers Season 2 is Here!](https://news.xbox.com/en-us/2022/06/28/anvil-vault-breakers-season-2-is-here/)
- - [Holy Hole in a Doughnut, Batman, Robin Is Teleporting In The New Gotham Knights Trailer](https://kotaku.com/batman-gotham-knights-robin-tim-drake-powers-teleport-1849120155)<!-- GAME:END -->
+ - [New Quebec French Language Law Has Game Devs Fearful Of The Future](https://kotaku.com/quebec-bill-96-french-language-law-game-devs-ubisoft-1849120595)
+ - [Simpsons Hit and Run fan puts a cult classic in an open-world remake](https://www.polygon.com/23187203/simpsons-hit-and-run-fan-project-open-world)
+ - [Like the PS5’s design? Maybe you’ll like Sony’s new gaming monitors and headsets](https://www.polygon.com/23187033/sony-gaming-headset-monitor-pc-ps5-inzone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
