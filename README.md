@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Move b&#39;tch](http://9gag.com/gag/adgA0P2)
+ - 🚖 [Wait, What!?](http://9gag.com/gag/aXr3Epg)
  - 🚯 [Distance in minutes..](http://9gag.com/gag/avAq0wE)
- - 🚯 [Easy trick to clean cut carpet flooring around the pole](http://9gag.com/gag/aBnzQYQ)<!-- MEMES:END -->
+ - 🚯 [Browser&#39;s History](http://9gag.com/gag/a71g51r)<!-- MEMES:END -->
 
 --- 
 
