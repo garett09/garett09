@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s waterproof last-gen Kindle Paperwhite is nearly half off](https://www.theverge.com/good-deals/2022/6/28/23184786/kindle-paperwhite-samsung-the-frame-macbook-pro-beats-flex-lg-c1-oled-tv-anker-nano-deal-sale)
- - [Any Mac can be portable, if you try hard enough](https://appleinsider.com/articles/22/06/28/any-mac-can-be-portable-if-you-try-hard-enough?utm_medium=rss)
- - [How Creators Get Paid Online](https://www.theverge.com/23148534/creators-getting-paid-online-tiktok-youtube-fortnite-patreon)<!-- TECH:END -->
+ - [Arm Mali-G715 Immortalis deep dive: Ray tracing graphics for mobile](https://www.androidauthority.com/arm-mali-g715-immortalis-3179061/)
+ - [Ray tracing and 64-bit only: What you should know about Arm’s 2023 CPUs and GPUs](https://www.androidauthority.com/arm-2023-cpu-gpu-smartphones-3178096/)
+ - [Arm Cortex-X3 and Cortex-A715: Next-gen CPUs redefined](https://www.androidauthority.com/arm-cortex-x3-cortex-a715-3178608/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
