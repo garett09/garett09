@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
- - 🚯 [Legend.](http://9gag.com/gag/aVxrjEO)
- - 🚯 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
+ - 🚖 [Asking the right questions!](http://9gag.com/gag/aBnzKmN)
+ - 🚯 [Works every time](http://9gag.com/gag/arnEvLd)
+ - 🚯 [Move b&#39;tch](http://9gag.com/gag/adgA0P2)<!-- MEMES:END -->
 
 --- 
 
