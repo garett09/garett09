@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What’s your favorite smartwatch strap material?](https://www.androidauthority.com/favorite-smartwatch-strap-material-poll-3181191/)
- - [Pitaka unveils Pita!Tag AirTag case ecosystem, FlipBook Case for iPad Pro](https://appleinsider.com/articles/22/06/22/pitaka-unveils-pitatag-airtag-case-ecosystem-flipbook-case-for-ipad?utm_medium=rss)
- - [A Moscow court fines Twitch, Pinterest, Airbnb, and UPS for refusing to store Russian citizens&#39; personal data in Russia &lpar;Reuters&rpar;](http://www.techmeme.com/220628/p14#a220628p14)<!-- TECH:END -->
+ - [[Thread] A look at the crypto deals made by English Premier League soccer clubs, including sponsorships and fan tokens, most of which have tanked in value &lpar;Joey D&#39;Urso/@josephmdurso&rpar;](http://www.techmeme.com/220628/p17#a220628p17)
+ - [Foxconn steps up bonuses to attract workers for iPhone 14](https://appleinsider.com/articles/22/06/28/foxconn-steps-up-bonuses-to-attract-workers-for-iphone-14?utm_medium=rss)
+ - [Our favorite benchmarks for testing PCs and how to use them](https://www.theverge.com/23185394/benchmarks-testing-pcs-gaming-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
