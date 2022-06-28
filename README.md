@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet another OnePlus 10 series phone surfaces in leaks](https://www.androidauthority.com/oneplus-10rt-camera-specs-3181069/)
- - [Samsung’s next phone might be the most powerful one with a removable battery](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
- - [Hypercasual video games, with simple gameplay and low-stakes challenges, are getting more sophisticated as studios struggle to retain monetizable players &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p1#a220628p1)<!-- TECH:END -->
+ - [A look at Plural, a &amp;euro;250M early-stage fund led by Wise co-founder Taavet Hinrikus, Teleport co-founder Sten Tamkivi, Songkick co-founder Ian Hogarth, and others &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220628/p6#a220628p6)
+ - [Netflix plans to grow its investment in the Asia Pacific, which has 15% of Netflix&#39;s subscribers and is forecast to be the biggest driver of further expansion &lpar;Shirley Zhao/Bloomberg&rpar;](http://www.techmeme.com/220628/p5#a220628p5)
+ - [Google makes Google Earth Engine, which tracks the earth&#39;s surface, available to any commercial or government organization using Google Cloud &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/220628/p4#a220628p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
