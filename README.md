@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait, What!?](http://9gag.com/gag/aXr3Epg)
- - 🚯 [Distance in minutes..](http://9gag.com/gag/avAq0wE)
- - 🚯 [Browser&#39;s History](http://9gag.com/gag/a71g51r)<!-- MEMES:END -->
+ - 🚖 [Browser&#39;s History](http://9gag.com/gag/a71g51r)
+ - 🚯 [Fast as F@ck!](http://9gag.com/gag/azeyLex)
+ - 🚯 [How Different Animals Fight](http://9gag.com/gag/aE8KvZM)<!-- MEMES:END -->
 
 --- 
 
