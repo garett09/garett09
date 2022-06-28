@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roller Champions New Season: Disco Fever Out Now](https://news.xbox.com/en-us/2022/06/27/roller-champions-new-season-disco-fever-out-now/)
- - [Diablo Immortal player uses premium currency shenanigans to turn old WoW tokens into a whale-killing Necromancer](https://www.pcgamer.com/diablo-immortal-player-uses-premium-currency-shenanigans-to-turn-old-wow-tokens-into-a-whale-killing-necromancer)
- - [How to help the fight for reproductive rights](https://www.pcgamer.com/how-to-help-the-fight-for-reproductive-rights)<!-- GAME:END -->
+ - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)
+ - [Fan Wants To Build An Open World Simpsons: Hit &amp; Run](https://kotaku.com/simpsons-hit-run-ps2-gamecube-ea-remake-unreal-engine-5-1849115906)
+ - [Fall Guys pushes the Epic Games Store to a new record player count](https://www.pcgamer.com/fall-guys-pushes-the-epic-games-store-to-a-new-record-player-count)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
