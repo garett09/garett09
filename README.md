@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC commissioner calls for Apple &amp; Google to ban TikTok](https://appleinsider.com/articles/22/06/28/fcc-commissioner-calls-for-apple-google-to-ban-tiktok?utm_medium=rss)
- - [Android 13’s Easter egg is a delightful kaleidoscope of emoji](https://www.theverge.com/2022/6/28/23187020/android-13-easter-egg-wallpaper-emoji-developer-beta)
- - [The Hyundai Ioniq 6 EV Is Astonishingly Aerodynamic](https://www.wired.com/story/hyundai-ioniq-6-reveal/)<!-- TECH:END -->
+ - [Belkin’s MagSafe charging stand can now fast charge the Apple Watch Series 7](https://www.theverge.com/2022/6/28/23187183/belkin-magsafe-charging-stand-fast-charge-apple-watch-series-7)
+ - [Sony launches InZone, a brand of gaming devices aimed at PC gamers but with tight PS5 integration, starting with 4K and 1080p 27&quot; monitors and three headsets &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220628/p25#a220628p25)
+ - [Montblanc Summit 3 will be the first Wear OS 3 smartwatch for iOS](https://www.theverge.com/2022/6/28/23186980/montblanc-summit-3-wear-os-3-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
