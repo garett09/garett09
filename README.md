@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Xiaomi’s first three Leica camera phones are coming on July 4](https://www.androidauthority.com/xiaomi-12s-series-3181040/)
- - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Movie on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-movie-on-disney-plus/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UFC 276 Israel Adesanya vs. Jared Cannonier: Start Time, How to Watch     - CNET](https://www.cnet.com/culture/sports/ufc-276-israel-adesanya-vs-jared-cannonier-start-time-how-to-watch/#ftag=CAD590a51e)
+ - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Movie on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-movie-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
