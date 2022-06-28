@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotting Objects From Space Is Easy. This Challenge Is Harder](https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/)
- - [Democracy Is Asking Too Much of Its Data](https://www.wired.com/story/census-algorithm-politics/)
- - [The Rise and Precarious Reign of China’s Battery King](https://www.wired.com/story/catl-china-battery-production-evs/)<!-- TECH:END -->
+ - [Poll: What’s your favorite smartwatch strap material?](https://www.androidauthority.com/favorite-smartwatch-strap-material-poll-3181191/)
+ - [Pitaka unveils Pita!Tag AirTag case ecosystem, FlipBook Case for iPad Pro](https://appleinsider.com/articles/22/06/22/pitaka-unveils-pitatag-airtag-case-ecosystem-flipbook-case-for-ipad?utm_medium=rss)
+ - [A Moscow court fines Twitch, Pinterest, Airbnb, and UPS for refusing to store Russian citizens&#39; personal data in Russia &lpar;Reuters&rpar;](http://www.techmeme.com/220628/p14#a220628p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
