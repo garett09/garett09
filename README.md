@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s all fun and games until God stops accepting his collect calls](http://9gag.com/gag/a41g42Z)
- - 🚯 [Dogs&gt;Hoes](http://9gag.com/gag/aogoZe0)
- - 🚯 [Amazing wood](http://9gag.com/gag/angZXEz)<!-- MEMES:END -->
+ - 🚖 [Perfection...](http://9gag.com/gag/avAqZKb)
+ - 🚯 [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
+ - 🚯 [Fast as F@ck!](http://9gag.com/gag/azeyLex)<!-- MEMES:END -->
 
 --- 
 
