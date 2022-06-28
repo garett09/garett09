@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi’s first three Leica camera phones are coming on July 4](https://www.androidauthority.com/xiaomi-12s-series-3181040/)
  - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Movie on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-movie-on-disney-plus/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
