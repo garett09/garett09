@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just keep swimming](http://9gag.com/gag/aogojQA)
- - 🚯 [We&#39;re all guilty of this](http://9gag.com/gag/aDD9m9G)
+ - 🚖 [We&#39;re all guilty of this](http://9gag.com/gag/aDD9m9G)
+ - 🚯 [How Balloons are made](http://9gag.com/gag/aNPMnLA)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
