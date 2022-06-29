@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sources: Unity Laying Off Hundreds Of Staffers](https://kotaku.com/sources-unity-laying-off-hundreds-of-staffers-1849125482)
- - [Relive the Classic Sonic Games That Defined a Generation](https://news.xbox.com/en-us/2022/06/29/relive-the-classic-sonic-games-that-defined-a-generation/)
- - [Nier: Automata’s Native Nintendo Switch Port Has Kingdom Hearts Fans Fuming](https://kotaku.com/nier-automata-kingdom-hearts-nintendo-switch-port-cloud-1849125280)<!-- GAME:END -->
+ - [Critical Role’s head of publishing is turning the indie RPG hit Alice is Missing into a movie](https://www.polygon.com/23188625/alice-is-missing-tabletop-game-movie-adaptation-critical-role)
+ - [Arcade Paradise launches on PS4 &amp; PS5 on August 11](https://blog.playstation.com/2022/06/29/arcade-paradise-launches-on-ps4-ps5-on-august-11/)
+ - [Arcade Paradise launches on PS4 &amp; PS5 on August 11](https://blog.playstation.com/2022/06/29/arcade-paradise-launches-on-ps4-ps5-on-august-11/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
