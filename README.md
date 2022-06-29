@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Limoncello should do](http://9gag.com/gag/a51gMzV)
- - 🚯 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
- - 🚯 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)<!-- MEMES:END -->
+ - 🚖 [The Future is now old man](http://9gag.com/gag/agg9XYx)
+ - 🚯 [True.](http://9gag.com/gag/azey9Mp)
+ - 🚯 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)<!-- MEMES:END -->
 
 --- 
 
