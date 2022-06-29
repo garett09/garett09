@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 3D printer mod on Kickstarter can automatically swap your filament mid-print](https://www.pcgamer.com/this-3d-printer-mod-on-kickstarter-can-automatically-swap-your-filament-mid-print)
- - [Overclocker pointlessly delids a Ryzen 7 5800X3D](https://www.pcgamer.com/overclocker-pointlessly-delids-a-ryzen-7-5800x3d)
- - [We spoke to Dr. Wasteland, the heroic healer who became a legend in DayZ&#39;s early days](https://www.pcgamer.com/we-spoke-to-dr-wasteland-the-heroic-healer-from-dayzs-early-days)<!-- GAME:END -->
+ - [AOKZOE AI is the next Steam Deck competitor powered by AMD 6800U](https://www.pcgamer.com/aokzoe-ai-is-the-next-steam-deck-competitor-powered-by-amd-6800u)
+ - [Arm&#39;s new flagship GPU will include hardware ray tracing support. Yeah, ray-traced phones](https://www.pcgamer.com/arms-new-flagship-gpu-will-include-hardware-ray-tracing-support-yeah-ray-traced-phones)
+ - [Total War: Warhammer 3 is shaking things up with the Immortal Empires map and starting positions](https://www.pcgamer.com/total-war-warhammer-3-is-shaking-things-up-with-the-immortal-empires-map-and-starting-positions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
