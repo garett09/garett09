@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait what](http://9gag.com/gag/adgA7DV)
- - 🚯 [#JusticeForTimothy](http://9gag.com/gag/azeyqAj)
- - 🚯 [Old Man Bowling](http://9gag.com/gag/aYr6xvq)<!-- MEMES:END -->
+ - 🚖 [Please God](http://9gag.com/gag/aZrXmZQ)
+ - 🚯 [Fixed it](http://9gag.com/gag/aKmZDBN)
+ - 🚯 [Sorry](http://9gag.com/gag/amgQ2W4)<!-- MEMES:END -->
 
 --- 
 
