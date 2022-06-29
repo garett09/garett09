@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is my new carpet. It&#39;s neeeeewwww...](http://9gag.com/gag/aWgymj6)
- - 🚯 [The deadliest](http://9gag.com/gag/a21groE)
+ - 🚖 [Toxic people suck](http://9gag.com/gag/a31g7Ne)
+ - 🚯 [Just because Pelican doesn\u2019t mean Peli should](http://9gag.com/gag/aegzbLB)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
