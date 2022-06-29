@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some VR developers express frustrations with Meta&#39;s Quest Store fees, set at 30% for purchases and 15%-30% for subscriptions, given Meta&#39;s criticism of Apple &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220629/p13#a220629p13)
- - [Apple brings its universal Gift Card to selected European countries](https://appleinsider.com/articles/22/06/29/apple-brings-its-universal-gift-card-to-selected-european-countries?utm_medium=rss)
- - [Hyundai gives first look at Ioniq 6 EV as market share surges](https://www.theverge.com/2022/6/29/23187759/hyundai-ioniq-6-electric-car-sedan-design-reveal-features)<!-- TECH:END -->
+ - [Millie Bobby Brown to star in Netflix sci-fi movie directed by the Russo brothers](https://www.theverge.com/2022/6/29/23187813/the-electric-state-millie-bobby-brown-russo-brothers-netflix)
+ - [Internal Celsius documents from 2021 show the crypto lender issued large loans backed by little collateral while pitching itself as less risky than banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220629/p15#a220629p15)
+ - [This Travel Game Takes Connect Four to the Extreme](https://www.wired.com/story/worlds-largest-connect-four-game-jet-lag-wendover-denby-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
