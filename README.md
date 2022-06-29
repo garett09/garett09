@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Rise Sunbreak review](https://www.pcgamer.com/monster-hunter-rise-sunbreak-review)
- - [AI: The Somnium Files – nirvanA Initiative review](https://www.pcgamer.com/ai-the-somnium-files-nirvana-initiative-review)
- - [AMD-powered Frontier supercomputer is now the world&#39;s first &#39;true exascale machine&#39;](https://www.pcgamer.com/amd-powered-frontier-supercomputer-is-now-the-worlds-first-true-exascale-machine)<!-- GAME:END -->
+ - [Monster Hunter Rise: Sunbreak is great — if you’re patient enough](https://www.polygon.com/reviews/23186814/monster-hunter-rise-sunbreak-review-new-monsters-malzeno-unlock-dlc)
+ - [Here&#39;s when Monster Hunter Rise: Sunbreak unlocks in your timezone on PC](https://www.pcgamer.com/monster-hunter-rise-sunbreak-release-time)
+ - [Chivalry 2’s limited time &#39;Midsommar Event&#39; brings a new map and new ways to smash your opponents](https://www.pcgamer.com/chivalry-2s-limited-time-midsommar-event-brings-a-new-map-and-new-ways-to-smash-your-opponents)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
