@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at YouTube &quot;media critics&quot;, who use humor to dissect the output of more popular YouTubers, discuss the absurdities of influencers, and more &lpar;Adlan Jackson/New York Times&rpar;](http://www.techmeme.com/220629/p27#a220629p27)
- - [The best Fourth of July sales happening right now](https://www.theverge.com/23186573/best-july-4th-sales-2022-tech-deals-macbook-air-sale)
- - [iOS users can now use Switch to Android app for non-Pixel phones](https://www.androidauthority.com/switch-to-android-all-phones-3181694/)<!-- TECH:END -->
+ - [The Xiaomi Mi 12S Ultra will use a huge 1-inch camera sensor co-developed with Sony](https://www.theverge.com/2022/6/29/23188304/xiaomi-mi-12s-ultra-1-inch-camera-sensor-sony-imx989)
+ - [How to quickly disable Face ID](https://appleinsider.com/inside/iphone/tips/how-to-quickly-disable-face-id?utm_medium=rss)
+ - [Firefox now offers a way to strip URLs of certain tracking parameters, like from HubSpot, Marketo, and Meta, following similar functionality in Brave Browser &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220629/p28#a220629p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
