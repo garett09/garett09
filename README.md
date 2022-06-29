@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram Fumbles Moderation of Abortion Content     - CNET](https://www.cnet.com/news/social-media/instagram-fumbles-moderation-of-abortion-content/#ftag=CAD590a51e)
- - [The Time I Tried Polyphasic Sleep and Lost My Mind     - CNET](https://www.cnet.com/culture/features/the-time-i-tried-polyphasic-sleep-and-lost-my-mind/#ftag=CAD590a51e)
- - [More People Need to Watch the Absolute Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nomad Health, an online marketplace for temporary healthcare jobs, has raised $105M, bringing its total funding to $200M+, as it expands beyond travel nurses &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220628/p32#a220628p32)
+ - [Normalyze, which enables security teams to continuously analyze, prioritize, and respond to cloud data threats, emerges from stealth with a $22.2M Series A &lpar;Corinna Makris/VentureBeat&rpar;](http://www.techmeme.com/220628/p31#a220628p31)
+ - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raised a $100M Series C at a $1.6B valuation and acquired rival Option Impact &lpar;Allison Levitsky/Protocol&rpar;](http://www.techmeme.com/220628/p30#a220628p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
