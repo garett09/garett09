@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Delivering a premium colony simulator with RimWorld Console Edition](https://blog.playstation.com/2022/06/29/delivering-a-premium-colony-simulator-with-rimworld-console-edition/)
- - [Archery in games is bad: here&#39;s how to make it better](https://www.pcgamer.com/archery-in-games-is-bad-heres-how-to-make-it-better)
- - [Bow Down Before the Beat! Music and Gameplay Become One in Metal: Hellsinger](https://news.xbox.com/en-us/2022/06/29/bow-down-before-the-beat-music-and-gameplay-become-one-in-metal-hellsinger/)<!-- GAME:END -->
+ - [Half-Life 2 is already running on Nintendo Switch, thanks to Portal](https://www.polygon.com/23188074/half-life-2-switch-mod-portal-companion-collection)
+ - [Workers behind D&amp;D, Magic are speaking up about their company’s stance on abortion rights](https://www.polygon.com/23188223/wizards-of-the-coast-hasbro-abortion-rights-response)
+ - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
