@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;W’s Px7 S2 Headphones Set a High Bar for Sound](https://www.wired.com/review/bowers-and-wilkins-px7-s2-headphones/)
- - [Are Hyper’s stackable USB-C chargers melting?](https://www.theverge.com/2022/6/28/23186796/hyper-sanho-targus-stackable-gan-usb-c-charger-overheating-issue)
- - [NLRB certifies union election win for Apple Towson Town Center employees](https://appleinsider.com/articles/22/06/28/nlrb-certifies-union-election-win-for-apple-towson-town-center-employees?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram Fumbles Moderation of Abortion Content     - CNET](https://www.cnet.com/news/social-media/instagram-fumbles-moderation-of-abortion-content/#ftag=CAD590a51e)
+ - [The Time I Tried Polyphasic Sleep and Lost My Mind     - CNET](https://www.cnet.com/culture/features/the-time-i-tried-polyphasic-sleep-and-lost-my-mind/#ftag=CAD590a51e)
+ - [More People Need to Watch the Absolute Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
