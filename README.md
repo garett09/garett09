@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Birdie, which offers digital tools to in-home care providers to optimize their workflow, raised a $30M Series B, bringing its total funding to $52M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220629/p2#a220629p2)
- - [PicnicHealth, which lets patients manage their health records online and share their medical data with researchers, has raised a $60M Series C led by B Capital &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/220629/p1#a220629p1)
- - [Icebergify: How to Create an &#39;Iceberg&#39; of Your Favourite Spotify Artists     - CNET](https://www.cnet.com/culture/entertainment/icebergify-how-to-create-an-iceberg-of-your-favourite-spotify-artists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel-based Konnecto, which helps brands improve their marketing efforts by analyzing consumers&#39; online purchasing data, has raised a $21M Series A &lpar;Oshry Alkeslasi/Geektime&rpar;](http://www.techmeme.com/220629/p4#a220629p4)
+ - [Source: Byju&#39;s has offered to buy 2U Inc. for ~$15/share, a 61% premium to its Tuesday closing price, in a cash deal that values the US edtech company at ~$2B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220629/p3#a220629p3)
+ - [London-based Birdie, which offers digital tools to in-home care providers to optimize their workflow, raised a $30M Series B, bringing its total funding to $52M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220629/p2#a220629p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
