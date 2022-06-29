@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Instagram to share with other social networks](https://www.theverge.com/23188680/instagram-facebook-twitter-tumblr-how-to)
- - [FCC Commissioner Wants TikTok Pulled From Apple, Google App Stores     - CNET](https://www.cnet.com/news/fcc-commissioner-wants-tiktok-pulled-from-apple-google-app-stores/#ftag=CAD590a51e)
- - [NASA Is Outsourcing a Martian Mystery -- You Can Take Part Online     - CNET](https://www.cnet.com/science/space/nasa-is-outsourcing-a-martian-mystery-you-can-take-part-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Niantic, the company behind Pok&amp;eacute;mon Go, lays off 8% of its staff, around 85 to 90 people, and cancels four projects; Niantic was valued at $9B in November 2021 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/220629/p32#a220629p32)
+ - [Pokémon Go developer Niantic cancels four projects and lays off more than 80 people](https://www.theverge.com/2022/6/29/23188812/niantic-layoffs-canceling-projects-transformers)
+ - [Every Major Space Event in 2022: NASA&#39;s Moon Mission, SpaceX Launches, Meteor Showers and More     - CNET](https://www.cnet.com/science/features/every-major-space-event-in-2022-nasas-moon-mission-spacex-launches-meteor-showers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
