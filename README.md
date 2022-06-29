@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap will begin rolling out Snapchat+ this week, offering exclusive and early access features for $3.99 per month &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220629/p20#a220629p20)
- - [Carl Pei says Nothing phone &lpar;1&rpar; will use the mid-range Snapdragon 778G+, not the high-end 8 Gen 1, citing a need to balance cost, power usage, and performance &lpar;Raymond Wong/Input&rpar;](http://www.techmeme.com/220629/p19#a220629p19)
- - [Compose Your Own &#39;80s Tunes With These Super-Portable Synths](https://www.wired.com/review/roland-aira-series-t-8-j-6-e-4/)<!-- TECH:END -->
+ - [Daily deals June 29: $500 off RTX 3080 Ti graphics card, MagSafe Battery Pack for $87, 46% off Razer mini keyboard, more](https://appleinsider.com/articles/22/06/29/daily-deals-june-29-500-off-rtx-3080-ti-graphics-card-magsafe-battery-pack-for-87-46-off-razer-mini-keyboard-more?utm_medium=rss)
+ - [The Best Smart Lighting Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
+ - [Cozy Grove Doesn’t Shame Me](https://www.wired.com/story/cozy-grove-does-not-shame-me/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
