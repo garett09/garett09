@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just because Pelican doesn\u2019t mean Peli should](http://9gag.com/gag/aegzbLB)
- - 🚯 [Selling all P keyboard](http://9gag.com/gag/avAqGVZ)
- - 🚯 [Sorry](http://9gag.com/gag/amgQ2W4)<!-- MEMES:END -->
+ - 🚖 [Not bad news: Romania is working to restore an abandoned railway line 30 years ago in order to export Ukrainian grain through the Danube port of Galati](http://9gag.com/gag/a91wAYW)
+ - 🚯 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)
+ - 🚯 [#JusticeForTimothy](http://9gag.com/gag/azeyqAj)<!-- MEMES:END -->
 
 --- 
 
