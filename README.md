@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nerf’s Gjallarhorn rocket launcher from Destiny is truly gigantic — preorders begin July 7th](https://www.theverge.com/2022/6/29/23188569/nerf-destiny-gjallarhorn-pre-order-date-price)
- - [Check out an early iPhone prototype worth $500k on the 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)
- - [15 Years Ago: When Apple and Steve Jobs Make iPhone History     - CNET](https://www.cnet.com/tech/mobile/15-years-ago-when-apple-and-steve-jobs-make-iphone-history/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Instagram to share with other social networks](https://www.theverge.com/23188680/instagram-facebook-twitter-tumblr-how-to)
+ - [FCC Commissioner Wants TikTok Pulled From Apple, Google App Stores     - CNET](https://www.cnet.com/news/fcc-commissioner-wants-tiktok-pulled-from-apple-google-app-stores/#ftag=CAD590a51e)
+ - [NASA Is Outsourcing a Martian Mystery -- You Can Take Part Online     - CNET](https://www.cnet.com/science/space/nasa-is-outsourcing-a-martian-mystery-you-can-take-part-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
