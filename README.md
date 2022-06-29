@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These two have been in use for roughly the same amount of time](http://9gag.com/gag/angZM9q)
+ - 🚖 [Limoncello should do](http://9gag.com/gag/a51gMzV)
  - 🚯 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
  - 🚯 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)<!-- MEMES:END -->
 
