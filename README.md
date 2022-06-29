@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Time-traveling Paper Girls on Amazon Prime has hints of Stranger Things](https://www.polygon.com/23188434/paper-girls-amazon-prime-show-cast-premise-teaser-trailer)
- - [RimWorld, the Acclaimed Sci-Fi Colony Management Sim, is Coming to Xbox on July 29](https://news.xbox.com/en-us/2022/06/29/rimworld-coming-to-xbox-on-july-29/)
- - [14 vampire movies to sink your teeth into](https://www.polygon.com/22878158/best-vampire-movies)<!-- GAME:END -->
+ - [Sources: Unity Laying Off Hundreds Of Staffers](https://kotaku.com/sources-unity-laying-off-hundreds-of-staffers-1849125482)
+ - [Relive the Classic Sonic Games That Defined a Generation](https://news.xbox.com/en-us/2022/06/29/relive-the-classic-sonic-games-that-defined-a-generation/)
+ - [Nier: Automata’s Native Nintendo Switch Port Has Kingdom Hearts Fans Fuming](https://kotaku.com/nier-automata-kingdom-hearts-nintendo-switch-port-cloud-1849125280)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
