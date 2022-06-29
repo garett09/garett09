@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Millie Bobby Brown to star in Netflix sci-fi movie directed by the Russo brothers](https://www.theverge.com/2022/6/29/23187813/the-electric-state-millie-bobby-brown-russo-brothers-netflix)
- - [Internal Celsius documents from 2021 show the crypto lender issued large loans backed by little collateral while pitching itself as less risky than banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220629/p15#a220629p15)
- - [This Travel Game Takes Connect Four to the Extreme](https://www.wired.com/story/worlds-largest-connect-four-game-jet-lag-wendover-denby-interview/)<!-- TECH:END -->
+ - [Snap will begin rolling out Snapchat+ this week, offering exclusive and early access features for $3.99 per month &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220629/p20#a220629p20)
+ - [Carl Pei says Nothing phone &lpar;1&rpar; will use the mid-range Snapdragon 778G+, not the high-end 8 Gen 1, citing a need to balance cost, power usage, and performance &lpar;Raymond Wong/Input&rpar;](http://www.techmeme.com/220629/p19#a220629p19)
+ - [Compose Your Own &#39;80s Tunes With These Super-Portable Synths](https://www.wired.com/review/roland-aira-series-t-8-j-6-e-4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
