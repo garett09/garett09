@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here&#39;s a list to watch](http://9gag.com/gag/a81No7V)
- - 🚯 [True.](http://9gag.com/gag/azey9Mp)
- - 🚯 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)<!-- MEMES:END -->
+ - 🚖 [Horses are Chad](http://9gag.com/gag/aDD91WB)
+ - 🚯 [And that was it. 15 seconds, and it was over. The seminar was over. The whole crowd, almost 200 people, were in utter shock. Some of my friends say it was a waste of time, but I think that was the whole point](http://9gag.com/gag/aGzvZ25)
+ - 🚯 [These two have been in use for roughly the same amount of time](http://9gag.com/gag/angZM9q)<!-- MEMES:END -->
 
 --- 
 
