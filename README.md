@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get fishing bait in Raft](https://www.pcgamer.com/raft-how-to-get-bait-fishing-rod)
- - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
- - [2021&#39;s best RPG improves a key feature alongside fixing &#39;wonky barber jobs&#39;](https://www.pcgamer.com/2021s-best-rpg-improves-a-key-feature-alongside-fixing-wonky-barber-jobs)<!-- GAME:END -->
+ - [PlayStation Plus offers Crash Bandicoot 4, Man of Medan in July](https://www.polygon.com/23184698/playstation-plus-july-2022-free-games-ps4-ps5)
+ - [PlayStation Plus Monthly Games for July: Crash Bandicoot 4: It’s About Time, Man of Medan, Arcadegeddon](https://blog.playstation.com/2022/06/29/playstation-plus-monthly-games-for-july-crash-bandicoot-4-its-about-time-man-of-medan-arcadegeddon/)
+ - [PlayStation Plus Monthly Games for July: Crash Bandicoot 4: It’s About Time, Man of Medan, Arcadegeddon](https://blog.playstation.com/2022/06/29/playstation-plus-monthly-games-for-july-crash-bandicoot-4-its-about-time-man-of-medan-arcadegeddon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
