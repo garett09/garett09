@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus offers Crash Bandicoot 4, Man of Medan in July](https://www.polygon.com/23184698/playstation-plus-july-2022-free-games-ps4-ps5)
- - [PlayStation Plus Monthly Games for July: Crash Bandicoot 4: It’s About Time, Man of Medan, Arcadegeddon](https://blog.playstation.com/2022/06/29/playstation-plus-monthly-games-for-july-crash-bandicoot-4-its-about-time-man-of-medan-arcadegeddon/)
- - [PlayStation Plus Monthly Games for July: Crash Bandicoot 4: It’s About Time, Man of Medan, Arcadegeddon](https://blog.playstation.com/2022/06/29/playstation-plus-monthly-games-for-july-crash-bandicoot-4-its-about-time-man-of-medan-arcadegeddon/)<!-- GAME:END -->
+ - [Delivering a premium colony simulator with RimWorld Console Edition](https://blog.playstation.com/2022/06/29/delivering-a-premium-colony-simulator-with-rimworld-console-edition/)
+ - [Archery in games is bad: here&#39;s how to make it better](https://www.pcgamer.com/archery-in-games-is-bad-heres-how-to-make-it-better)
+ - [Bow Down Before the Beat! Music and Gameplay Become One in Metal: Hellsinger](https://news.xbox.com/en-us/2022/06/29/bow-down-before-the-beat-music-and-gameplay-become-one-in-metal-hellsinger/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
