@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2 is already running on Nintendo Switch, thanks to Portal](https://www.polygon.com/23188074/half-life-2-switch-mod-portal-companion-collection)
- - [Workers behind D&amp;D, Magic are speaking up about their company’s stance on abortion rights](https://www.polygon.com/23188223/wizards-of-the-coast-hasbro-abortion-rights-response)
- - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)<!-- GAME:END -->
+ - [Team RWBY is Making Its Way to the Realm in a New Paladins Patch](https://news.xbox.com/en-us/2022/06/29/team-rwby-is-making-its-way-to-paladins/)
+ - [NFT Pokémon Clone Recovers From $600 Million Hack, Ready To Chew Players Up Again](https://kotaku.com/crypto-pokemon-nft-game-axie-infinity-blockchain-1849124622)
+ - [Windows Defender is reportedly hindering performance on Intel CPUs](https://www.pcgamer.com/windows-defender-is-reportedly-hindering-performance-on-intel-cpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
