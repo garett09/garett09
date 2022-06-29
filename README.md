@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Birdie, which offers digital tools to in-home care providers to optimize their workflow, raised a $30M Series B, bringing its total funding to $52M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220629/p2#a220629p2)
  - [PicnicHealth, which lets patients manage their health records online and share their medical data with researchers, has raised a $60M Series C led by B Capital &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/220629/p1#a220629p1)
- - [Icebergify: How to Create an &#39;Iceberg&#39; of Your Favourite Spotify Artists     - CNET](https://www.cnet.com/culture/entertainment/icebergify-how-to-create-an-iceberg-of-your-favourite-spotify-artists/#ftag=CAD590a51e)
- - [Nomad Health, an online marketplace for temporary healthcare jobs, has raised $105M, bringing its total funding to $200M+, as it expands beyond travel nurses &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220628/p32#a220628p32)<!-- TECH:END -->
+ - [Icebergify: How to Create an &#39;Iceberg&#39; of Your Favourite Spotify Artists     - CNET](https://www.cnet.com/culture/entertainment/icebergify-how-to-create-an-iceberg-of-your-favourite-spotify-artists/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
