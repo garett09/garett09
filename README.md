@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
  - [AOKZOE AI is the next Steam Deck competitor powered by AMD 6800U](https://www.pcgamer.com/aokzoe-ai-is-the-next-steam-deck-competitor-powered-by-amd-6800u)
- - [Arm&#39;s new flagship GPU will include hardware ray tracing support. Yeah, ray-traced phones](https://www.pcgamer.com/arms-new-flagship-gpu-will-include-hardware-ray-tracing-support-yeah-ray-traced-phones)
- - [Total War: Warhammer 3 is shaking things up with the Immortal Empires map and starting positions](https://www.pcgamer.com/total-war-warhammer-3-is-shaking-things-up-with-the-immortal-empires-map-and-starting-positions)<!-- GAME:END -->
+ - [Arm&#39;s new flagship GPU will include hardware ray tracing support. Yeah, ray-traced phones](https://www.pcgamer.com/arms-new-flagship-gpu-will-include-hardware-ray-tracing-support-yeah-ray-traced-phones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
