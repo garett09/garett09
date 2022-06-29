@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Paper Girls series messes with the timeline in first trailer](https://www.theverge.com/2022/6/29/23063811/paper-girls-amazon-prime-video-trailer-release-date)
- - [How to use the new mail merge in Pages](https://appleinsider.com/inside/iwork/tips/how-to-use-the-new-mail-merge-in-pages?utm_medium=rss)
- - [Sources: the Treasury Department and the IRS are likely to postpone a January 2023 starting date for crypto companies to track clients&#39; capital gains and losses &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/220629/p26#a220629p26)<!-- TECH:END -->
+ - [Check out a pre-iPhone prototype worth $500k on iPhone&#39;s 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)
+ - [The fall of Roe v. Wade shows how little control patients have over medical records](https://www.theverge.com/2022/6/29/23188211/medical-records-privacy-dobbs-roe)
+ - [Apple promises ‘white glove experiences’ for its most helpful community members](https://www.theverge.com/2022/6/29/23188003/apple-community-plus-program-tech-support-members)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
