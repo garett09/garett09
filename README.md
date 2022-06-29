@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This dude has a point](http://9gag.com/gag/aQXbezr)
- - 🚯 [Gentlemen it is with great pleasure to announce that today my wife gave birth to 3.15kg healthy boy and I will celebrate today with you all since ive been here with you all for 10+ years! Thank you for being part of my life and bringing joy to a boomer dad!](http://9gag.com/gag/aKmZDNb)
+ - 🚖 [Here&#39;s a list to watch](http://9gag.com/gag/a81No7V)
+ - 🚯 [True.](http://9gag.com/gag/azey9Mp)
  - 🚯 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)<!-- MEMES:END -->
 
 --- 
