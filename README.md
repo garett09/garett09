@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next removable battery phone could be a powerful one &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
- - [A profile of ADT, which is helping sell and install Nest smart home products, as it prepares to unveil its own smart home security software and hardware in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p5#a220629p5)
- - [Fossil Gen 7: Everything we know &lpar;Updated: June 29&rpar;](https://www.androidauthority.com/fossil-gen-7-3160846/)<!-- TECH:END -->
+ - [Experts say the crypto crash has wiped out millions of dollars stolen by North Korean hackers, threatening a key source of funding for its weapons programs &lpar;Josh Smith/Reuters&rpar;](http://www.techmeme.com/220629/p6#a220629p6)
+ - [Pixel 7 might be getting a selfie camera upgrade](https://www.androidauthority.com/pixel-7-selfie-camera-3181524/)
+ - [Samsung’s next removable battery phone could be a powerful one &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
