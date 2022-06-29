@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say the crypto crash has wiped out millions of dollars stolen by North Korean hackers, threatening a key source of funding for its weapons programs &lpar;Josh Smith/Reuters&rpar;](http://www.techmeme.com/220629/p6#a220629p6)
- - [Pixel 7 might be getting a selfie camera upgrade](https://www.androidauthority.com/pixel-7-selfie-camera-3181524/)
- - [Samsung’s next removable battery phone could be a powerful one &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)<!-- TECH:END -->
+ - [1Password now lets you securely share files and documents with just a link](https://www.theverge.com/2022/6/29/23187757/1password-document-file-sharing-link-secure)
+ - [The Xiaomi 12S Ultra has a $15m 1-inch camera sensor](https://www.androidauthority.com/xiaomi-12s-ultra-camera-3181541/)
+ - [Tesla lays off nearly 200 Autopilot employees who help train the company’s AI](https://www.theverge.com/2022/6/29/23187751/tesla-layoffs-firings-autopilot-san-mateo-office-200-workers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
