@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
- - 🚯 [\u201cI couldn&#39;t figure out how my bed kept getting unmade while I was making coffee until I put up a camera.\u201d](http://9gag.com/gag/a51gnxq)
- - 🚯 [Must have 10 of the same shirts.](http://9gag.com/gag/aE8KBBe)<!-- MEMES:END -->
+ - 🚖 [This dude has a point](http://9gag.com/gag/aQXbezr)
+ - 🚯 [Gentlemen it is with great pleasure to announce that today my wife gave birth to 3.15kg healthy boy and I will celebrate today with you all since ive been here with you all for 10+ years! Thank you for being part of my life and bringing joy to a boomer dad!](http://9gag.com/gag/aKmZDNb)
+ - 🚯 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)<!-- MEMES:END -->
 
 --- 
 
