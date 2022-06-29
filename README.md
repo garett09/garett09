@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mystery resolved](http://9gag.com/gag/arnE5Yd)
- - 🚯 [The Future is now old man](http://9gag.com/gag/agg9XYx)
- - 🚯 [Wanda is a pedo](http://9gag.com/gag/abgDzdp)<!-- MEMES:END -->
+ - 🚖 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
+ - 🚯 [\u201cI couldn&#39;t figure out how my bed kept getting unmade while I was making coffee until I put up a camera.\u201d](http://9gag.com/gag/a51gnxq)
+ - 🚯 [Must have 10 of the same shirts.](http://9gag.com/gag/aE8KBBe)<!-- MEMES:END -->
 
 --- 
 
