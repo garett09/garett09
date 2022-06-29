@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 29: $500 off RTX 3080 Ti graphics card, MagSafe Battery Pack for $87, 46% off Razer mini keyboard, more](https://appleinsider.com/articles/22/06/29/daily-deals-june-29-500-off-rtx-3080-ti-graphics-card-magsafe-battery-pack-for-87-46-off-razer-mini-keyboard-more?utm_medium=rss)
- - [The Best Smart Lighting Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
- - [Cozy Grove Doesn’t Shame Me](https://www.wired.com/story/cozy-grove-does-not-shame-me/)<!-- TECH:END -->
+ - [How to do breakout rooms in Zoom](https://www.androidauthority.com/breakout-rooms-zoom-3179225/)
+ - [As crypto plummets, Paris Hilton, Jimmy Fallon, Serena Williams, Reese Witherspoon, and other celebrities have quietly changed their NFT profile pictures &lpar;Annie Armstrong/Artnet News&rpar;](http://www.techmeme.com/220629/p24#a220629p24)
+ - [A look inside the optics expertise behind a smartphone born for photography](https://www.androidauthority.com/vivo-zeiss-optics-3179844/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
