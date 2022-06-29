@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please God](http://9gag.com/gag/aZrXmZQ)
- - 🚯 [Fixed it](http://9gag.com/gag/aKmZDBN)
+ - 🚖 [Just because Pelican doesn\u2019t mean Peli should](http://9gag.com/gag/aegzbLB)
+ - 🚯 [Selling all P keyboard](http://9gag.com/gag/avAqGVZ)
  - 🚯 [Sorry](http://9gag.com/gag/amgQ2W4)<!-- MEMES:END -->
 
 --- 
