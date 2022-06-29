@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not bad news: Romania is working to restore an abandoned railway line 30 years ago in order to export Ukrainian grain through the Danube port of Galati](http://9gag.com/gag/a91wAYW)
- - 🚯 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)
- - 🚯 [#JusticeForTimothy](http://9gag.com/gag/azeyqAj)<!-- MEMES:END -->
+ - 🚖 [Mystery resolved](http://9gag.com/gag/arnE5Yd)
+ - 🚯 [The Future is now old man](http://9gag.com/gag/agg9XYx)
+ - 🚯 [Wanda is a pedo](http://9gag.com/gag/abgDzdp)<!-- MEMES:END -->
 
 --- 
 
