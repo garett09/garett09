@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s got electrolytes! It\u2019s what plants crave.](http://9gag.com/gag/apg7LxW)
- - 🚯 [Gentleman: On the tram from work, in dirty clothes, sitting on a plastic bag protecting the seat, reading a book](http://9gag.com/gag/aogopKX)
+ - 🚖 [How?](http://9gag.com/gag/a91wWyo)
+ - 🚯 [The PERFECT food](http://9gag.com/gag/aYr6L6x)
  - 🚯 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 --- 
