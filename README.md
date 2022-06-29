@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Niantic, the company behind Pok&amp;eacute;mon Go, lays off 8% of its staff, around 85 to 90 people, and cancels four projects; Niantic was valued at $9B in November 2021 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/220629/p32#a220629p32)
- - [Pokémon Go developer Niantic cancels four projects and lays off more than 80 people](https://www.theverge.com/2022/6/29/23188812/niantic-layoffs-canceling-projects-transformers)
- - [Every Major Space Event in 2022: NASA&#39;s Moon Mission, SpaceX Launches, Meteor Showers and More     - CNET](https://www.cnet.com/science/features/every-major-space-event-in-2022-nasas-moon-mission-spacex-launches-meteor-showers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now iFixit has genuine repair parts for Google Pixels, from the 2 to the 6 Pro](https://www.theverge.com/2022/6/29/23188693/google-pixel-repair-kit-ifixit-battery-screen-usb-port-replacement)
+ - [EU lawmakers provisionally agree on anti-laundering rules for crypto, requiring verified customer identities for transfers between regulated digital wallets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p34#a220629p34)
+ - [Best Low-Interest Personal Loans for July 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
