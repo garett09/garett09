@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to do breakout rooms in Zoom](https://www.androidauthority.com/breakout-rooms-zoom-3179225/)
- - [As crypto plummets, Paris Hilton, Jimmy Fallon, Serena Williams, Reese Witherspoon, and other celebrities have quietly changed their NFT profile pictures &lpar;Annie Armstrong/Artnet News&rpar;](http://www.techmeme.com/220629/p24#a220629p24)
- - [A look inside the optics expertise behind a smartphone born for photography](https://www.androidauthority.com/vivo-zeiss-optics-3179844/)<!-- TECH:END -->
+ - [Best encrypted messaging apps for use across Mac, iOS, Android, and Windows](https://appleinsider.com/inside/mac/best/best-encrypted-messaging-apps-for-use-across-mac-ios-android-and-windows?utm_medium=rss)
+ - [1Password will help you remember which ‘sign in with’ service you used](https://www.theverge.com/2022/6/29/23187938/1password-sign-in-with-login-sso-password-manager-beta)
+ - [Vergecast: Asus ROG gaming guide, privacy risks in post-Roe USA, and the internet’s recommendation problem](https://www.theverge.com/2022/6/29/23187986/asus-rog-zephyrus-g14-roe-data-privacy-vergecast-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
