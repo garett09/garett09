@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out a pre-iPhone prototype worth $500k on iPhone&#39;s 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)
- - [The fall of Roe v. Wade shows how little control patients have over medical records](https://www.theverge.com/2022/6/29/23188211/medical-records-privacy-dobbs-roe)
- - [Apple promises ‘white glove experiences’ for its most helpful community members](https://www.theverge.com/2022/6/29/23188003/apple-community-plus-program-tech-support-members)<!-- TECH:END -->
+ - [A look at YouTube &quot;media critics&quot;, who use humor to dissect the output of more popular YouTubers, discuss the absurdities of influencers, and more &lpar;Adlan Jackson/New York Times&rpar;](http://www.techmeme.com/220629/p27#a220629p27)
+ - [The best Fourth of July sales happening right now](https://www.theverge.com/23186573/best-july-4th-sales-2022-tech-deals-macbook-air-sale)
+ - [iOS users can now use Switch to Android app for non-Pixel phones](https://www.androidauthority.com/switch-to-android-all-phones-3181694/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
