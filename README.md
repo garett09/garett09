@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Future is now old man](http://9gag.com/gag/agg9XYx)
- - 🚯 [True.](http://9gag.com/gag/azey9Mp)
- - 🚯 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)<!-- MEMES:END -->
+ - 🚖 [9 days of work](http://9gag.com/gag/ay9rXjY)
+ - 🚯 [Clow World](http://9gag.com/gag/aGzvgqw)
+ - 🚯 [Wait, 2002 is just 8 years ago, right? RIGHT??](http://9gag.com/gag/a51go0O)<!-- MEMES:END -->
 
 --- 
 
