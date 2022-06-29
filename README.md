@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best encrypted messaging apps for use across Mac, iOS, Android, and Windows](https://appleinsider.com/inside/mac/best/best-encrypted-messaging-apps-for-use-across-mac-ios-android-and-windows?utm_medium=rss)
- - [1Password will help you remember which ‘sign in with’ service you used](https://www.theverge.com/2022/6/29/23187938/1password-sign-in-with-login-sso-password-manager-beta)
- - [Vergecast: Asus ROG gaming guide, privacy risks in post-Roe USA, and the internet’s recommendation problem](https://www.theverge.com/2022/6/29/23187986/asus-rog-zephyrus-g14-roe-data-privacy-vergecast-podcast)<!-- TECH:END -->
+ - [Amazon’s Paper Girls series messes with the timeline in first trailer](https://www.theverge.com/2022/6/29/23063811/paper-girls-amazon-prime-video-trailer-release-date)
+ - [How to use the new mail merge in Pages](https://appleinsider.com/inside/iwork/tips/how-to-use-the-new-mail-merge-in-pages?utm_medium=rss)
+ - [Sources: the Treasury Department and the IRS are likely to postpone a January 2023 starting date for crypto companies to track clients&#39; capital gains and losses &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/220629/p26#a220629p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
