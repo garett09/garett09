@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password now lets you securely share files and documents with just a link](https://www.theverge.com/2022/6/29/23187757/1password-document-file-sharing-link-secure)
- - [The Xiaomi 12S Ultra has a $15m 1-inch camera sensor](https://www.androidauthority.com/xiaomi-12s-ultra-camera-3181541/)
- - [Tesla lays off nearly 200 Autopilot employees who help train the company’s AI](https://www.theverge.com/2022/6/29/23187751/tesla-layoffs-firings-autopilot-san-mateo-office-200-workers)<!-- TECH:END -->
+ - [Some VR developers express frustrations with Meta&#39;s Quest Store fees, set at 30% for purchases and 15%-30% for subscriptions, given Meta&#39;s criticism of Apple &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220629/p13#a220629p13)
+ - [Apple brings its universal Gift Card to selected European countries](https://appleinsider.com/articles/22/06/29/apple-brings-its-universal-gift-card-to-selected-european-countries?utm_medium=rss)
+ - [Hyundai gives first look at Ioniq 6 EV as market share surges](https://www.theverge.com/2022/6/29/23187759/hyundai-ioniq-6-electric-car-sedan-design-reveal-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
