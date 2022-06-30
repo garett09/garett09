@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My Dress-Up Darling embraces eroge the way fans actually do](https://www.polygon.com/23186842/my-dress-up-darling-eroge-fandom)
- - [The XIII remake is getting a remake](https://www.pcgamer.com/the-xiii-remake-is-getting-a-remake)
- - [Halo Infinite&#39;s co-op beta is finally coming on July 11](https://www.pcgamer.com/halo-infinites-co-op-beta-is-finally-coming-on-july-11)<!-- GAME:END -->
+ - [House Flipper – Renovating Old Fixer-Uppers is Available Now with Xbox Game Pass!](https://news.xbox.com/en-us/2022/06/30/house-flipper-renovating-old-fixer-uppers-is-available-now-with-xbox-game-pass/)
+ - [When emulators were legit](https://www.polygon.com/23184989/emulators-roms-playstation-legal-illegal-legit)
+ - [The sci-fi morality play Rubikon gets stranded in orbit](https://www.polygon.com/reviews/23187803/rubikon-review-sci-fi-space-station-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
