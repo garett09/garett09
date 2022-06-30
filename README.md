@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you really like the number 5](http://9gag.com/gag/aZrXZPW)
- - 🚯 [One of the most effective adverts I&#39;ve seen in a long time](http://9gag.com/gag/a31gZ8N)
+ - 🚖 [One of the most effective adverts I&#39;ve seen in a long time](http://9gag.com/gag/a31gZ8N)
+ - 🚯 [Best friends in the world!](http://9gag.com/gag/ajgvVgG)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
