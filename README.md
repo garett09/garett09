@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Iranian #MeToo activists on Instagram are being targeted by 1M+ bots in a coordinated harassment campaign using social media marketing firms in Pakistan &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/220630/p15#a220630p15)
- - [OnePlus 10T leaked fully: More powerful than the OnePlus 10 Pro?](https://www.androidauthority.com/oneplus-10t-renders-specs-3182127/)
- - [Samsung, Starbucks Collab on Coffee-Inspired Galaxy S22, Galaxy Buds 2 Cases     - CNET](https://www.cnet.com/tech/mobile/samsung-starbucks-collab-on-coffee-inspired-galaxy-s22-galaxy-buds-2-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why the Search for Life on Mars Is Happening in Canada’s Arctic](https://www.wired.com/story/why-the-search-for-life-on-mars-is-happening-in-canadas-arctic/)
+ - [Worker-Owned Apps Are Redefining the Sharing Economy](https://www.wired.com/story/gig-economy-worker-owned-apps/)
+ - [The World Can’t Wean Itself Off Chinese Lithium](https://www.wired.com/story/china-lithium-mining-production/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
