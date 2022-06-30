@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t blink](http://9gag.com/gag/azeyM6N)
- - 🚯 [Audacity of this b*tch](http://9gag.com/gag/aPZLZDK)
- - 🚯 [Dave Brubeck - Take Five](http://9gag.com/gag/a91wEwo)<!-- MEMES:END -->
+ - 🚖 [\u2026or simply left the towel on the bed after showering](http://9gag.com/gag/aWgyjL2)
+ - 🚯 [A girl told me `nice haircut` in highschool... I&#39;ve used the same haircut since then...](http://9gag.com/gag/aYr6oNV)
+ - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
 
