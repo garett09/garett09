@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No no he has a point](http://9gag.com/gag/a81N56e)
- - 🚯 [Women&#39;s job](http://9gag.com/gag/aqGM7oQ)
- - 🚯 [And that was it. 15 seconds, and it was over. The seminar was over. The whole crowd, almost 200 people, were in utter shock. Some of my friends say it was a waste of time, but I think that was the whole point](http://9gag.com/gag/aGzvZ25)<!-- MEMES:END -->
+ - 🚖 [A girl told me `nice haircut` in highschool... I&#39;ve used the same haircut since then...](http://9gag.com/gag/aYr6oNV)
+ - 🚯 [Christopher Walken in the airport. So he hasn&#39;t been acting this whole time, that&#39;s just his face.](http://9gag.com/gag/awzjodW)
+ - 🚯 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)<!-- MEMES:END -->
 
 --- 
 
