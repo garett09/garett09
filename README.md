@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the new Switch Skills in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-switch-skills)
- - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)
- - [Where to find the three Elgado Cohoots in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-cohoot-elgado)<!-- GAME:END -->
+ - [Photographer uses DALL-E 2 AI to automatically edit images better than Photoshop](https://www.pcgamer.com/photographer-uses-dall-e-2-ai-to-automatically-edit-images-better-than-photoshop)
+ - [7 things to know before starting Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-tips)
+ - [How to unlock secret armor sets in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/sunbreak-secret-armor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
