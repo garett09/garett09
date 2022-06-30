@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega Considering Live-Action Persona Movie Or TV Show](https://kotaku.com/sega-persona-atlus-live-action-movies-tv-jrpg-sonic-1849129503)
- - [The Xbox App is Available Today on Samsung 2022 Smart TVs](https://news.xbox.com/en-us/2022/06/30/xbox-app-available-today-samsung-2022-smart-tv/)
- - [EA is giving you a chance to play the new Skate early](https://www.polygon.com/23189826/skate-4-early-access-insider-program-electronic-arts)<!-- GAME:END -->
+ - [My Dress-Up Darling embraces eroge the way fans actually do](https://www.polygon.com/23186842/my-dress-up-darling-eroge-fandom)
+ - [The XIII remake is getting a remake](https://www.pcgamer.com/the-xiii-remake-is-getting-a-remake)
+ - [Halo Infinite&#39;s co-op beta is finally coming on July 11](https://www.pcgamer.com/halo-infinites-co-op-beta-is-finally-coming-on-july-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
