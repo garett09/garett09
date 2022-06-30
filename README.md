@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ron Gilbert won’t share any more about Return to Monkey Island after art style complaints](https://www.polygon.com/23189602/return-to-monkey-island-ron-gilbert-art-style-guybrush-threepwood-blog)
- - [World of Warcraft&#39;s Silvermoon City is being recreated in Minecraft](https://www.pcgamer.com/world-of-warcrafts-silvermoon-city-is-being-recreated-in-minecraft)
- - [Monster High’s live-action movie is a freaky, fang-tastic musical](https://www.polygon.com/23189621/monster-high-live-action-musical-trailer)<!-- GAME:END -->
+ - [The Quarry’s adult characters are what make the game great](https://www.polygon.com/23188394/the-quarry-cast-adult-characters-hackett-family-mysteries)
+ - [Cooking up a New Composition for Cuphead – The Delicious Last Course](https://news.xbox.com/en-us/2022/06/30/cooking-up-a-new-composition-for-cuphead-the-delicious-last-course/)
+ - [Bungie&#39;s absurd $185 Nerf Gjallarhorn reloads like the in-game weapon](https://www.pcgamer.com/bungies-absurd-dollar185-nerf-gjallarhorn-reloads-like-the-in-game-weapon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
