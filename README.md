@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minions: The Rise of Gru packs in enough plot for three Minions movies](https://www.polygon.com/reviews/23188355/minions-rise-of-gru-review-despicable-me)
- - [Unity lays off hundreds of employees to &#39;realign&#39; resources](https://www.pcgamer.com/unity-lays-off-hundreds-of-employees-to-realign-resources)
- - [Today&#39;s Wordle answer #376: Thursday, June 30](https://www.pcgamer.com/wordle-today-june-30-376-answer-hint)<!-- GAME:END -->
+ - [AMD&#39;s preposterous Threadripper Pro price tag holds its 128-thread monster back from greatness](https://www.pcgamer.com/amd-threadripper-pro-5000)
+ - [Cuphead: The Delicious Last Course is a hell of a dessert](https://www.polygon.com/reviews/23188169/cuphead-the-delicious-last-course-dlc-review)
+ - [Minions: The Rise of Gru packs in enough plot for three Minions movies](https://www.polygon.com/reviews/23188355/minions-rise-of-gru-review-despicable-me)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
