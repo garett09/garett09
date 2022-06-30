@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seek ‘The Forsaken Hunter’ in Sea of Thieves’ Fifth Adventure, Live Until July 14!](https://news.xbox.com/en-us/2022/06/30/seek-the-forsaken-hunter-in-sea-of-thieves-fifth-adventure-live-until-july-14/)
- - [Id won&#39;t do it, so hobbyists ported Carmack&#39;s final Doom game to PC](https://www.pcgamer.com/id-wont-do-it-so-hobbyists-ported-carmacks-final-doom-game-to-pc)
- - [Stranger of Paradise announces first DLC with a rickroll](https://www.pcgamer.com/stranger-of-paradise-announces-first-dlc-with-a-rickroll)<!-- GAME:END -->
+ - [Ron Gilbert won’t share any more about Return to Monkey Island after art style complaints](https://www.polygon.com/23189602/return-to-monkey-island-ron-gilbert-art-style-guybrush-threepwood-blog)
+ - [World of Warcraft&#39;s Silvermoon City is being recreated in Minecraft](https://www.pcgamer.com/world-of-warcrafts-silvermoon-city-is-being-recreated-in-minecraft)
+ - [Monster High’s live-action movie is a freaky, fang-tastic musical](https://www.polygon.com/23189621/monster-high-live-action-musical-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
