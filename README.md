@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 demand will be much higher than iPhone 13 in China, Kuo says](https://appleinsider.com/articles/22/06/30/iphone-14-demand-will-be-much-higher-than-iphone-13-in-china-kuo-says?utm_medium=rss)
- - [Filing: ex-Apple retail chief Ron Johnson&#39;s at-home tech setup company Enjoy files for bankruptcy less than a year after a SPAC merger and sells to Asurion &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p27#a220630p27)
- - [Biden to call on FTC to protect abortion seekers’ data privacy](https://www.theverge.com/2022/6/30/23189779/biden-abortion-roe-wade-privacy-ftc-flo-fertility-tracking-apps)<!-- TECH:END -->
+ - [Google updates its built-in password manager for Chrome and Android, including the ability to manually add passwords across all platforms &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220630/p29#a220630p29)
+ - [The Samsung Z Fold 3 has never been more af-fold-able at Amazon](https://www.theverge.com/good-deals/2022/6/30/23188216/samsung-z-fold-3-amazon-blink-tv-logitech-brio-webcam-deal-sale)
+ - [Robot Umpires Could Be Coming to MLB as Soon as 2024     - CNET](https://www.cnet.com/culture/sports/robot-umpires-could-be-coming-to-mlb-as-soon-as-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
