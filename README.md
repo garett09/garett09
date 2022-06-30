@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coalition for App Fairness-funded polls claim public want open App Store](https://appleinsider.com/articles/22/06/30/epic-games-funded-polls-claim-public-want-open-app-store?utm_medium=rss)
- - [Samsung’s gaming TV hub launches with Xbox, Stadia, and GeForce Now streaming](https://www.theverge.com/2022/6/30/23189392/samsung-gaming-hub-xbox-stadia-luna-apps-support)
- - [YouTube is cracking down on tricks that spammers use to impersonate creators](https://www.theverge.com/2022/6/30/23189367/youtube-spam-account-policy-subscriber-count-special-characters)<!-- TECH:END -->
+ - [iPhone 14 demand will be much higher than iPhone 13 in China, Kuo says](https://appleinsider.com/articles/22/06/30/iphone-14-demand-will-be-much-higher-than-iphone-13-in-china-kuo-says?utm_medium=rss)
+ - [Filing: ex-Apple retail chief Ron Johnson&#39;s at-home tech setup company Enjoy files for bankruptcy less than a year after a SPAC merger and sells to Asurion &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p27#a220630p27)
+ - [Biden to call on FTC to protect abortion seekers’ data privacy](https://www.theverge.com/2022/6/30/23189779/biden-abortion-roe-wade-privacy-ftc-flo-fertility-tracking-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
