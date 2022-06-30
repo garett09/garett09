@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Peacock in July: Trigger Point, The Resort, and more](https://www.androidauthority.com/new-on-peacock-2306327/)
- - [Apple gives in to South Korea, enables third-party payments for app developers](https://appleinsider.com/articles/22/06/30/apple-gives-in-to-south-korea-enables-third-party-payments-for-app-developers?utm_medium=rss)
- - [Sources: Tencent, ByteDance, and others plan layoffs impacting thousands, after Chinese internet companies cut tens of thousands during regulatory crackdowns &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/220630/p19#a220630p19)<!-- TECH:END -->
+ - [Modular, which aims to simplify building AI systems by using &quot;composable&quot; common components, raised a $30M seed led by GV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p23#a220630p23)
+ - [Source: FTX walked away from a deal with Celsius after finding the crypto lender has a $2B hole in its balance sheet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220630/p22#a220630p22)
+ - [Half of all smartphones sold during China&#39;s 6.18 Festival were iPhones](https://appleinsider.com/articles/22/06/30/half-of-all-smartphones-sold-during-chinas-618-festival-were-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
