@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now iFixit has genuine repair parts for Google Pixels, from the 2 to the 6 Pro](https://www.theverge.com/2022/6/29/23188693/google-pixel-repair-kit-ifixit-battery-screen-usb-port-replacement)
- - [EU lawmakers provisionally agree on anti-laundering rules for crypto, requiring verified customer identities for transfers between regulated digital wallets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p34#a220629p34)
- - [Best Low-Interest Personal Loans for July 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Sci-Fi Movies on Netflix You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/17-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39;: Spotify Decides What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-decides-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
+ - [The Best Netflix Fantasy Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
