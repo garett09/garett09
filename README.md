@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [End](http://9gag.com/gag/ajgv95g)
- - 🚯 [Christopher Walken in the airport. So he hasn&#39;t been acting this whole time, that&#39;s just his face.](http://9gag.com/gag/awzjodW)
- - 🚯 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)<!-- MEMES:END -->
+ - 🚖 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)
+ - 🚯 [4x4 off road vehicle + Powered Parachute = big mistake](http://9gag.com/gag/aYr6opm)
+ - 🚯 [Clow World](http://9gag.com/gag/aGzvgqw)<!-- MEMES:END -->
 
 --- 
 
