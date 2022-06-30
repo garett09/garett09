@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the most effective adverts I&#39;ve seen in a long time](http://9gag.com/gag/a31gZ8N)
- - 🚯 [Best friends in the world!](http://9gag.com/gag/ajgvVgG)
+ - 🚖 [Best friends in the world!](http://9gag.com/gag/ajgvVgG)
+ - 🚯 [Well well well if it isn&#39;t the consequences of my own actions [4:43]](http://9gag.com/gag/aqGMGBL)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
