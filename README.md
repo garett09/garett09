@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Quarry’s adult characters are what make the game great](https://www.polygon.com/23188394/the-quarry-cast-adult-characters-hackett-family-mysteries)
- - [Cooking up a New Composition for Cuphead – The Delicious Last Course](https://news.xbox.com/en-us/2022/06/30/cooking-up-a-new-composition-for-cuphead-the-delicious-last-course/)
- - [Bungie&#39;s absurd $185 Nerf Gjallarhorn reloads like the in-game weapon](https://www.pcgamer.com/bungies-absurd-dollar185-nerf-gjallarhorn-reloads-like-the-in-game-weapon)<!-- GAME:END -->
+ - [Sega Considering Live-Action Persona Movie Or TV Show](https://kotaku.com/sega-persona-atlus-live-action-movies-tv-jrpg-sonic-1849129503)
+ - [The Xbox App is Available Today on Samsung 2022 Smart TVs](https://news.xbox.com/en-us/2022/06/30/xbox-app-available-today-samsung-2022-smart-tv/)
+ - [EA is giving you a chance to play the new Skate early](https://www.polygon.com/23189826/skate-4-early-access-insider-program-electronic-arts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
