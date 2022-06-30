@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s been just me and her for 13 years and today I&#39;m saying goodbye. Hardest day of my life](http://9gag.com/gag/a91wznZ)
- - 🚯 [We need more wholesome videos like this. Not just negativity in the media.](http://9gag.com/gag/aogoWjw)
+ - 🚖 [We need more people like him](http://9gag.com/gag/aqGMRMQ)
+ - 🚯 [When you really like the number 5](http://9gag.com/gag/aZrXZPW)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
