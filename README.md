@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modular, which aims to simplify building AI systems by using &quot;composable&quot; common components, raised a $30M seed led by GV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p23#a220630p23)
- - [Source: FTX walked away from a deal with Celsius after finding the crypto lender has a $2B hole in its balance sheet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220630/p22#a220630p22)
- - [Half of all smartphones sold during China&#39;s 6.18 Festival were iPhones](https://appleinsider.com/articles/22/06/30/half-of-all-smartphones-sold-during-chinas-618-festival-were-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Cat Toys, According to Our Favorite Felines     - CNET](https://www.cnet.com/news/best-cat-toys/#ftag=CAD590a51e)
+ - [How one of gaming’s most intimidating genres spawned a legion of hits](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption)
+ - [Apple Now Allows Apps in South Korea to Use Third-Party Payment Systems     - CNET](https://www.cnet.com/tech/services-and-software/apple-now-allows-apps-in-south-korea-to-use-third-party-payment-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
