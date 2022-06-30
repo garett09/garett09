@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity is laying off over 200 people, or 4% of its workforce, two weeks after the CEO said at an all-hands meeting that there won&#39;t be any layoffs &lpar;Ari Notis/Kotaku&rpar;](http://www.techmeme.com/220630/p6#a220630p6)
- - [A Taiwanese minister and TSMC board member urges US Congress to pass the Chips Act, saying the pace of building TSMC&#39;s Arizona chip factory depends on subsidies &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/220630/p5#a220630p5)
- - [London-based Shop Circle, which offers merchants a one-stop shop for e-commerce software, emerges from stealth with $65M in funding led by NFX and QED Investors &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220630/p4#a220630p4)<!-- TECH:END -->
+ - [Experts say using period tracker apps does not necessarily put women at additional risk of prosecutions in the wake of SCOTUS overturning Roe v. Wade &lpar;Kendra Albert&rpar;](http://www.techmeme.com/220630/p8#a220630p8)
+ - [Nothing Phone 1 European price leaks on Amazon](https://www.androidauthority.com/nothing-phone-1-price-3181579/)
+ - [What’s new on Disney Plus in July 2022: Zombies 3 and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
