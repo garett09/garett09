@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates its built-in password manager for Chrome and Android, including the ability to manually add passwords across all platforms &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220630/p29#a220630p29)
- - [The Samsung Z Fold 3 has never been more af-fold-able at Amazon](https://www.theverge.com/good-deals/2022/6/30/23188216/samsung-z-fold-3-amazon-blink-tv-logitech-brio-webcam-deal-sale)
- - [Robot Umpires Could Be Coming to MLB as Soon as 2024     - CNET](https://www.cnet.com/culture/sports/robot-umpires-could-be-coming-to-mlb-as-soon-as-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CFTC charges South Africa-based bitcoin pool operator Mirror Trading International with $1.7B fraud, in its largest ever fraud case involving bitcoin &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220630/p33#a220630p33)
+ - [In internal memo, Chief Product Officer Chris Cox says Meta is bracing for a leaner H2 and &quot;teams should not expect vast influxes of new engineers and budgets&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/220630/p32#a220630p32)
+ - [By Wrapping Around Nerves, New Pain Relief Prototype Could Address the Opioid Crisis     - CNET](https://www.cnet.com/science/biology/by-wrapping-around-nerves-new-pain-relief-prototype-could-address-the-opioid-crisis/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
