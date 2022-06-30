@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: eToro and the SPAC company that agreed to take it public are planning to let the June 30 deadline for their merger pass without closing the deal &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/220630/p37#a220630p37)
- - [T-Mobile 5G home internet reaches 5 million new addresses in the middle of the country](https://www.theverge.com/2022/6/30/23190047/t-mobile-5g-home-internet-colorado-missouri-iowa-kansas-oklahoma)
- - [April, which personalizes and autofills tax filings by using AI to analyze tax code, raised a $30M Series A led by Treasury, bringing its total funding to $40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p36#a220630p36)<!-- TECH:END -->
+ - [Meta says Instagram is testing a change that turns video posts into Reels with select users, as part of efforts to &quot;simplify and improve the video experience&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220630/p39#a220630p39)
+ - [Best Air Purifier Prime Day Deals: HoMedics, Coway, Honeywell and More, Starting at $30     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
+ - [Netflix, HBO Max, Hulu? 2 Dead Simple Tricks to Find Your Movie or TV Show Every Time     - CNET](https://www.cnet.com/culture/entertainment/netflix-hbo-max-hulu-a-dead-simple-trick-to-find-your-movie-or-tv-show-every-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
