@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)
- - 🚯 [4x4 off road vehicle + Powered Parachute = big mistake](http://9gag.com/gag/aYr6opm)
- - 🚯 [Clow World](http://9gag.com/gag/aGzvgqw)<!-- MEMES:END -->
+ - 🚖 [One eye open for me](http://9gag.com/gag/a0ZgNqQ)
+ - 🚯 [A captain always goes down with his ship](http://9gag.com/gag/ajgv968)
+ - 🚯 [\u2026or simply left the towel on the bed after showering](http://9gag.com/gag/aWgyjL2)<!-- MEMES:END -->
 
 --- 
 
