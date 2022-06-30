@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFTC charges South Africa-based bitcoin pool operator Mirror Trading International with $1.7B fraud, in its largest ever fraud case involving bitcoin &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220630/p33#a220630p33)
- - [In internal memo, Chief Product Officer Chris Cox says Meta is bracing for a leaner H2 and &quot;teams should not expect vast influxes of new engineers and budgets&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/220630/p32#a220630p32)
- - [By Wrapping Around Nerves, New Pain Relief Prototype Could Address the Opioid Crisis     - CNET](https://www.cnet.com/science/biology/by-wrapping-around-nerves-new-pain-relief-prototype-could-address-the-opioid-crisis/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals June 30: $200 off M1 13-inch MacBook Pro, $312 Apple Watch Series 7, more](https://appleinsider.com/articles/22/06/30/daily-deal-june-30-200-off-m1-13-inch-macbook-pro-312-apple-watch-series-7-more?utm_medium=rss)
+ - [Galaxy Watch 5 hopefuls get a glimpse at Wear OS 3.5 and One UI Watch 4.5](https://www.androidauthority.com/wear-os-3-5-one-ui-watch-4-5-3182275/)
+ - [EA’s ‘pre-pre-pre-alpha’ video of the new Skate still looks pretty great](https://www.theverge.com/2022/6/30/23189958/ea-skate-trailer-progress-update-playtest-sign-up)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
