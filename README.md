@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say using period tracker apps does not necessarily put women at additional risk of prosecutions in the wake of SCOTUS overturning Roe v. Wade &lpar;Kendra Albert&rpar;](http://www.techmeme.com/220630/p8#a220630p8)
- - [Nothing Phone 1 European price leaks on Amazon](https://www.androidauthority.com/nothing-phone-1-price-3181579/)
- - [What’s new on Disney Plus in July 2022: Zombies 3 and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [OpenSea tells customers that an employee at email vendor Customer.io downloaded and sent email details to an external party, impacting almost all users &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220630/p9#a220630p9)
+ - [Biden administration launches $1 billion effort to correct racist highway designs of the past](https://www.theverge.com/2022/6/30/23188433/biden-buttigieg-infrastructure-racism-1-billion-dollars)
+ - [&#39;Zach Snyder&#39;s Justice League&#39; Coming to Digital, If You Have Four Hours to Spare     - CNET](https://www.cnet.com/culture/entertainment/snyder-cut-justice-league-hbo-max-movie-review-digital-four-hours-to-spare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
