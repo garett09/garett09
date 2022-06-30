@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Instagram is testing a change that turns video posts into Reels with select users, as part of efforts to &quot;simplify and improve the video experience&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220630/p39#a220630p39)
- - [Best Air Purifier Prime Day Deals: HoMedics, Coway, Honeywell and More, Starting at $30     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
- - [Netflix, HBO Max, Hulu? 2 Dead Simple Tricks to Find Your Movie or TV Show Every Time     - CNET](https://www.cnet.com/culture/entertainment/netflix-hbo-max-hulu-a-dead-simple-trick-to-find-your-movie-or-tv-show-every-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to start streaming on Twitch from your PC](https://www.androidauthority.com/how-to-stream-twitch-pc-3179930/)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)
+ - [Best Fitbit Prime Day Deals: Save $82 Off Sense, $68 Off Verse 3, $41 Off Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
