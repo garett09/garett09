@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best friends in the world!](http://9gag.com/gag/ajgvVgG)
- - 🚯 [Well well well if it isn&#39;t the consequences of my own actions [4:43]](http://9gag.com/gag/aqGMGBL)
+ - 🚖 [Finally! Worthy Opponents! Our Battle Will Be Legendary!](http://9gag.com/gag/apg7RDD)
+ - 🚯 [Eyla Moore](http://9gag.com/gag/aNPMDg6)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
