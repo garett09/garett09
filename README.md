@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Sci-Fi Movies on Netflix You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/17-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39;: Spotify Decides What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-decides-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
- - [The Best Netflix Fantasy Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tel Aviv-based Cyolo, maker of zero trust security tech enabling secure connection to workplaces, has raised a $60M Series B, bringing its total raised to $85M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220629/p40#a220629p40)
+ - [Google Workspace head Javier Soltero, who managed Google&#39;s productivity and collaboration tools including Gmail and Meet, is leaving the company on July 15 &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/220629/p39#a220629p39)
+ - [Grayscale Investments sues the US SEC after the agency rejected its application on Wednesday to convert its flagship Grayscale Bitcoin Trust product to an ETF &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220629/p38#a220629p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
