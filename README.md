@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One eye open for me](http://9gag.com/gag/a0ZgNqQ)
- - 🚯 [A captain always goes down with his ship](http://9gag.com/gag/ajgv968)
- - 🚯 [\u2026or simply left the towel on the bed after showering](http://9gag.com/gag/aWgyjL2)<!-- MEMES:END -->
+ - 🚖 [After rewatching this as an adult, I now realize the real tests weren&#39;t the about the questions on the paper or about marksmanship.](http://9gag.com/gag/agg9Bqn)
+ - 🚯 [Yup](http://9gag.com/gag/abgDGmO)
+ - 🚯 [4x4 off road vehicle + Powered Parachute = big mistake](http://9gag.com/gag/aYr6opm)<!-- MEMES:END -->
 
 --- 
 
