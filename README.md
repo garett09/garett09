@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Live continues with Mary J. Blige concert in July](https://appleinsider.com/articles/22/06/30/apple-music-live-continues-with-mary-j-blige-concert-in-july?utm_medium=rss)
- - [Raspberry Pi announces the Pico W, a $6 microcontroller equipped with an 802.11n Wi-Fi radio, powered by an Infineon CYW43439 chip with Bluetooth disabled &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220630/p35#a220630p35)
- - [Elon Musk’s ‘Teslas in Tunnels’ Las Vegas project is still happening, and here’s the first station](https://www.theverge.com/2022/6/30/23190249/boring-company-resorts-world-vegas-loop-station-photos)<!-- TECH:END -->
+ - [Source: eToro and the SPAC company that agreed to take it public are planning to let the June 30 deadline for their merger pass without closing the deal &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/220630/p37#a220630p37)
+ - [T-Mobile 5G home internet reaches 5 million new addresses in the middle of the country](https://www.theverge.com/2022/6/30/23190047/t-mobile-5g-home-internet-colorado-missouri-iowa-kansas-oklahoma)
+ - [April, which personalizes and autofills tax filings by using AI to analyze tax code, raised a $30M Series A led by Treasury, bringing its total funding to $40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p36#a220630p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
