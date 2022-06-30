@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wonders of the world\u2026](http://9gag.com/gag/arnEne6)
- - 🚯 [Yup](http://9gag.com/gag/aLvo1wv)
+ - 🚖 [Missing the point](http://9gag.com/gag/aWgyggq)
+ - 🚯 [Can&#39;t move on](http://9gag.com/gag/aqGMGrR)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
