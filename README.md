@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 30: $200 off M1 13-inch MacBook Pro, $312 Apple Watch Series 7, more](https://appleinsider.com/articles/22/06/30/daily-deal-june-30-200-off-m1-13-inch-macbook-pro-312-apple-watch-series-7-more?utm_medium=rss)
- - [Galaxy Watch 5 hopefuls get a glimpse at Wear OS 3.5 and One UI Watch 4.5](https://www.androidauthority.com/wear-os-3-5-one-ui-watch-4-5-3182275/)
- - [EA’s ‘pre-pre-pre-alpha’ video of the new Skate still looks pretty great](https://www.theverge.com/2022/6/30/23189958/ea-skate-trailer-progress-update-playtest-sign-up)<!-- TECH:END -->
+ - [Apple Music Live continues with Mary J. Blige concert in July](https://appleinsider.com/articles/22/06/30/apple-music-live-continues-with-mary-j-blige-concert-in-july?utm_medium=rss)
+ - [Raspberry Pi announces the Pico W, a $6 microcontroller equipped with an 802.11n Wi-Fi radio, powered by an Infineon CYW43439 chip with Bluetooth disabled &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220630/p35#a220630p35)
+ - [Elon Musk’s ‘Teslas in Tunnels’ Las Vegas project is still happening, and here’s the first station](https://www.theverge.com/2022/6/30/23190249/boring-company-resorts-world-vegas-loop-station-photos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
