@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4x4 off road vehicle + Powered Parachute = big mistake](http://9gag.com/gag/aYr6opm)
- - 🚯 [Wonders of the world\u2026](http://9gag.com/gag/arnEne6)
+ - 🚖 [Don&#39;t blink](http://9gag.com/gag/azeyM6N)
+ - 🚯 [Audacity of this b*tch](http://9gag.com/gag/aPZLZDK)
  - 🚯 [Dave Brubeck - Take Five](http://9gag.com/gag/a91wEwo)<!-- MEMES:END -->
 
 --- 
