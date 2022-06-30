@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A captain always goes down with his ship](http://9gag.com/gag/ajgv968)
- - 🚯 [Wait, 2002 is just 8 years ago, right? RIGHT??](http://9gag.com/gag/a51go0O)
+ - 🚖 [No no he has a point](http://9gag.com/gag/a81N56e)
+ - 🚯 [Women&#39;s job](http://9gag.com/gag/aqGM7oQ)
  - 🚯 [And that was it. 15 seconds, and it was over. The seminar was over. The whole crowd, almost 200 people, were in utter shock. Some of my friends say it was a waste of time, but I think that was the whole point](http://9gag.com/gag/aGzvZ25)<!-- MEMES:END -->
 
 --- 
