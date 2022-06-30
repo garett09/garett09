@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cat Toys, According to Our Favorite Felines     - CNET](https://www.cnet.com/news/best-cat-toys/#ftag=CAD590a51e)
- - [How one of gaming’s most intimidating genres spawned a legion of hits](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption)
- - [Apple Now Allows Apps in South Korea to Use Third-Party Payment Systems     - CNET](https://www.cnet.com/tech/services-and-software/apple-now-allows-apps-in-south-korea-to-use-third-party-payment-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coalition for App Fairness-funded polls claim public want open App Store](https://appleinsider.com/articles/22/06/30/epic-games-funded-polls-claim-public-want-open-app-store?utm_medium=rss)
+ - [Samsung’s gaming TV hub launches with Xbox, Stadia, and GeForce Now streaming](https://www.theverge.com/2022/6/30/23189392/samsung-gaming-hub-xbox-stadia-luna-apps-support)
+ - [YouTube is cracking down on tricks that spammers use to impersonate creators](https://www.theverge.com/2022/6/30/23189367/youtube-spam-account-policy-subscriber-count-special-characters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
