@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSea tells customers that an employee at email vendor Customer.io downloaded and sent email details to an external party, impacting almost all users &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220630/p9#a220630p9)
- - [Biden administration launches $1 billion effort to correct racist highway designs of the past](https://www.theverge.com/2022/6/30/23188433/biden-buttigieg-infrastructure-racism-1-billion-dollars)
- - [&#39;Zach Snyder&#39;s Justice League&#39; Coming to Digital, If You Have Four Hours to Spare     - CNET](https://www.cnet.com/culture/entertainment/snyder-cut-justice-league-hbo-max-movie-review-digital-four-hours-to-spare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Iranian #MeToo activists on Instagram are being targeted by 1M+ bots in a coordinated harassment campaign using social media marketing firms in Pakistan &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/220630/p15#a220630p15)
+ - [OnePlus 10T leaked fully: More powerful than the OnePlus 10 Pro?](https://www.androidauthority.com/oneplus-10t-renders-specs-3182127/)
+ - [Samsung, Starbucks Collab on Coffee-Inspired Galaxy S22, Galaxy Buds 2 Cases     - CNET](https://www.cnet.com/tech/mobile/samsung-starbucks-collab-on-coffee-inspired-galaxy-s22-galaxy-buds-2-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
