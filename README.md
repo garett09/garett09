@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Best games for the Steam Deck](https://www.pcgamer.com/steam-deck-best-games)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)
+ - [Overwatch 2 removed hostile architecture from new map at fan request](https://www.pcgamer.com/overwatch-2-removed-hostile-architecture-from-new-map-at-fan-request)
+ - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
