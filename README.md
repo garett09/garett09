@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [XIII’s reviled remake is getting another remake by a different developer](https://www.polygon.com/23191393/xiii-remake-update-patch-new-developer-steam-switch-release-date)
- - [Tributes Pour In For Beloved Minecraft YouTuber Technoblade](https://kotaku.com/technoblade-minecraft-youtuber-sarcoma-cancer-hypixel-1849134376)
- - [New York by Night brings Vampire-themed actual play to the City That Never Sleeps](https://www.polygon.com/tabletop-games/23189660/new-york-by-night-preview-vampire-the-masquerade-actual-play-aabria-iyengar)<!-- GAME:END -->
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
+ - [How to get the Divine Relic in Cuphead](https://www.pcgamer.com/cuphead-divine-relic)
+ - [Fire Emblem Heroes Becomes Nintendo’s First Billion-Dollar Mobile Game](https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
