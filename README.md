@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
- - [How to get the Divine Relic in Cuphead](https://www.pcgamer.com/cuphead-divine-relic)
- - [Fire Emblem Heroes Becomes Nintendo’s First Billion-Dollar Mobile Game](https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777)<!-- GAME:END -->
+ - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)
+ - [This Fallout 4 mod looks so good Bethesda just hired one of its designers](https://www.pcgamer.com/this-fallout-4-mod-looks-so-good-bethesda-just-hired-one-of-its-designers)
+ - [Every Hot Dog Emoji On Steam Belongs To A Guy Named Brian](https://kotaku.com/discord-steam-marketplace-2016-hot-dog-emoji-steam-deck-1849135121)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
