@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone came out 15 years ago and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_medium=rss)
- - [Best Bitcoin and Crypto Wallets for July 2022     - CNET](https://www.cnet.com/personal-finance/crypto/the-best-bitcoin-and-crypto-wallets/#ftag=CAD590a51e)
- - [New York-based Tomorrow Health, whose data-driven marketplace matches patients with home-based care suppliers, has raised a $60M Series B led by BOND &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/220630/p46#a220630p46)<!-- TECH:END -->
+ - [Best Healthy Meal Delivery Services for 2022     - CNET](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service-2022/#ftag=CAD590a51e)
+ - [Google TV could soon take the pain out of setting up streaming apps](https://www.androidauthority.com/google-tv-automatic-sign-on-apps-3182507/)
+ - [Best Blue Light Blocking Glasses of 2022     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
