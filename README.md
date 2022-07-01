@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Roasted For Dunking On Single-Player Games After Everything It’s Done](https://kotaku.com/ea-apex-legends-fifa-battlefield-dragon-age-dreadwolf-1849134293)
- - [Final Fantasy 14 is getting an ultra-difficult dungeon for those endgame masochists](https://www.pcgamer.com/final-fantasy-14-is-getting-an-ultra-difficult-dungeon-for-those-endgame-masochists)
- - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)<!-- GAME:END -->
+ - [XIII’s reviled remake is getting another remake by a different developer](https://www.polygon.com/23191393/xiii-remake-update-patch-new-developer-steam-switch-release-date)
+ - [Tributes Pour In For Beloved Minecraft YouTuber Technoblade](https://kotaku.com/technoblade-minecraft-youtuber-sarcoma-cancer-hypixel-1849134376)
+ - [New York by Night brings Vampire-themed actual play to the City That Never Sleeps](https://www.polygon.com/tabletop-games/23189660/new-york-by-night-preview-vampire-the-masquerade-actual-play-aabria-iyengar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
