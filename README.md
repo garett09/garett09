@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Friday](http://9gag.com/gag/aAGAEvo)
- - 🚯 [Gotta add the tip that starts at a 20% minimum](http://9gag.com/gag/a91wvXZ)
+ - 🚯 [Breaking a ruler with the force of atmospheric pressure](http://9gag.com/gag/aKmZA8Z)
  - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 --- 
