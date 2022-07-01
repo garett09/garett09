@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
- - 🚯 [When your fruit needs to travel between 3 continents just so it can be served in plastic, you know the system may not be that concerned with the environment.](http://9gag.com/gag/arnEZ36)
- - 🚯 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
+ - 🚖 [When your fruit needs to travel between 3 continents just so it can be served in plastic, you know the system may not be that concerned with the environment.](http://9gag.com/gag/arnEZ36)
+ - 🚯 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
+ - 🚯 [Name the anime](http://9gag.com/gag/apg76ob)<!-- MEMES:END -->
 
 --- 
 
