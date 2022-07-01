@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega’s finally bringing Phantasy Star Online 2 to PS4 in the West](https://www.polygon.com/23191724/phantasy-star-online-2-release-date-ps4-new-genesis-sega)
- - [Take on the Zodiac with the Updated Minecraft Minions DLC](https://news.xbox.com/en-us/2022/07/01/take-on-the-zodiac-with-the-updated-minecraft-minions-dlc/)
- - [PlayStation Studio Refreshingly Honest About What It Isn&#39;t Working On](https://kotaku.com/ghost-tsushima-infamous-sly-cooper-sequel-release-date-1849135478)<!-- GAME:END -->
+ - [This Week on Xbox: Launches, Sales, and Updates](https://news.xbox.com/en-us/2022/07/01/this-week-on-xbox-launches-sales-and-updates/)
+ - [Everything Stranger Things has revealed about the Upside Down so far](https://www.polygon.com/stranger-things/23191189/stranger-things-upside-down-explained)
+ - [Let’s Remember How Amazing 2002 Was For Video Games](https://kotaku.com/best-video-games-of-2002-metroid-prime-thps4-1849135720)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
