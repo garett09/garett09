@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [When your fruit needs to travel between 3 continents just so it can be served in plastic, you know the system may not be that concerned with the environment.](http://9gag.com/gag/arnEZ36)
- - 🚯 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
- - 🚯 [Name the anime](http://9gag.com/gag/apg76ob)<!-- MEMES:END -->
+ - 🚯 [Name the anime](http://9gag.com/gag/apg76ob)
+ - 🚯 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)<!-- MEMES:END -->
 
 --- 
 
