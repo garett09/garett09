@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artists are helping to make Magic: The Gathering more expressive — and fun](https://www.theverge.com/23190322/magic-the-gathering-custom-commander-art-proxies-alter-sleeves)
- - [Daily deals July 1: eBay 4th of July sale, $120 off stainless steel Apple Watch Series 7, $50 off LG UltraFine 4K, more](https://appleinsider.com/articles/22/07/01/daily-deals-july-1-ebay-4th-of-july-sale-120-off-stainless-steel-apple-watch-series-7-50-off-lg-ultrafine-4k-more?utm_medium=rss)
- - [Netflix execs say they plan no big programming changes; analysts for two banks say a cheaper ad-supported tier may cannibalize the higher-paying subscriber base &lpar;New York Times&rpar;](http://www.techmeme.com/220701/p3#a220701p3)<!-- TECH:END -->
+ - [Apple CarPlay will let you pay for gas from your driver’s seat](https://www.theverge.com/2022/7/1/23190601/apple-carplay-gas-infotainment-ios-16)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
