@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Best Healthy Meal Delivery Services for 2022     - CNET](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service-2022/#ftag=CAD590a51e)
- - [Google TV could soon take the pain out of setting up streaming apps](https://www.androidauthority.com/google-tv-automatic-sign-on-apps-3182507/)
- - [Best Blue Light Blocking Glasses of 2022     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Blue Light Blocking Glasses of 2022     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)
+ - [My Top 5 Wishes for Apple&#39;s iPhone 14: New Design Tweaks, USB-C and More     - CNET](https://www.cnet.com/tech/mobile/my-top-5-wishes-for-apples-iphone-14-new-design-tweaks-usb-c-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
