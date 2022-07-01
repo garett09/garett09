@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta add the tip that starts at a 20% minimum](http://9gag.com/gag/a91wvXZ)
- - 🚯 [Friday](http://9gag.com/gag/aAGAEvo)
+ - 🚖 [Friday](http://9gag.com/gag/aAGAEvo)
+ - 🚯 [Wow](http://9gag.com/gag/a61g5Oe)
  - 🚯 [99%](http://9gag.com/gag/aE8KV3O)<!-- MEMES:END -->
 
 --- 
