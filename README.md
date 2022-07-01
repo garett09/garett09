@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Apple will face a full trial in the UK after failing to limit a consumer claim that it breached competition law by taking a 30% cut on app and in-app purchases &lpar;Jonathan Chadwick/Daily Mail&rpar;](http://www.techmeme.com/220701/p13#a220701p13)
- - [There’s a better way to bypass Windows 11 install restrictions](https://www.theverge.com/2022/7/1/23191794/windows-11-install-microsoft-account-tpm-restrictions-rufus)<!-- TECH:END -->
+ - [Meta will shut down Novi, its digital wallet pilot, on September 1; users will no longer be able to add money to their accounts starting July 21 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220701/p15#a220701p15)
+ - [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
+ - [Google plans to auto-delete user visits to medical facilities like abortion clinics, domestic violence shelters, and weight loss centers from location histories &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220701/p14#a220701p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
