@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh my chicken!](http://9gag.com/gag/aZrXEyW)
- - 🚯 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
- - 🚯 [So no more React.js tutorials on YouTube? /s](http://9gag.com/gag/axBK6pW)<!-- MEMES:END -->
+ - 🚖 [What the f**k, expose them already !](http://9gag.com/gag/aM47z3V)
+ - 🚯 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
+ - 🚯 [It&#39;s already too late](http://9gag.com/gag/a21g2Dd)<!-- MEMES:END -->
 
 --- 
 
