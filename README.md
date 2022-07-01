@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fair Question](http://9gag.com/gag/apg7Pon)
+ - 🚖 [Oh my chicken!](http://9gag.com/gag/aZrXEyW)
  - 🚯 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
  - 🚯 [So no more React.js tutorials on YouTube? /s](http://9gag.com/gag/axBK6pW)<!-- MEMES:END -->
 
