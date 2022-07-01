@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technoblade, a popular Minecraft YouTuber, dies from cancer age 23 — shares final video](https://www.theverge.com/2022/7/1/23191022/technoblade-dies-cancer-final-video-message)
- - [Apple launches $50 gift card incentive for Apple TV 4K](https://appleinsider.com/articles/22/07/01/apple-launches-50-gift-card-incentive-for-apple-tv-4k?utm_medium=rss)
- - [Google offers small app developers $90 million to settle antitrust allegations](https://www.theverge.com/2022/7/1/23191008/google-app-developers-fund-90-million-play-store-antitrust)<!-- TECH:END -->
+ - [Apple shows off durability of Apple Watch in new &#39;Hard Knocks&#39; ad](https://appleinsider.com/articles/22/07/01/apple-shows-off-durability-of-apple-watch-in-new-hard-knocks-ad?utm_medium=rss)
+ - [Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street](https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco)
+ - [The Secrets of Covid ‘Brain Fog’ Are Starting to Lift](https://www.wired.com/story/the-secrets-of-covid-brain-fog-are-starting-to-lift/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
