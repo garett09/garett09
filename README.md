@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Officials Call TikTok a National Security Threat. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/us-officials-call-tiktok-a-national-security-threat-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [&#39;Star Wars: Shadow of the Sith&#39; Depicts Luke Skywalker as &#39;the Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-depicts-luke-skywalker-as-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)
- - [You Know, BMW&#39;s Big Grille Really Isn&#39;t So Bad     - CNET](https://www.cnet.com/roadshow/news/bmw-m3-m4-grille-opinion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Artists are helping to make Magic: The Gathering more expressive — and fun](https://www.theverge.com/23190322/magic-the-gathering-custom-commander-art-proxies-alter-sleeves)
+ - [Daily deals July 1: eBay 4th of July sale, $120 off stainless steel Apple Watch Series 7, $50 off LG UltraFine 4K, more](https://appleinsider.com/articles/22/07/01/daily-deals-july-1-ebay-4th-of-july-sale-120-off-stainless-steel-apple-watch-series-7-50-off-lg-ultrafine-4k-more?utm_medium=rss)
+ - [Netflix execs say they plan no big programming changes; analysts for two banks say a cheaper ad-supported tier may cannibalize the higher-paying subscriber base &lpar;New York Times&rpar;](http://www.techmeme.com/220701/p3#a220701p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
