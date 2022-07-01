@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)
- - [Overwatch 2 removed hostile architecture from new map at fan request](https://www.pcgamer.com/overwatch-2-removed-hostile-architecture-from-new-map-at-fan-request)
- - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)<!-- GAME:END -->
+ - [World of Warcraft is changing how the auction house works to benefit smaller servers](https://www.pcgamer.com/world-of-warcraft-is-changing-how-the-auction-house-works-to-benefit-smaller-servers)
+ - [Sega wants to make live-action adaptations of Persona and Catherine](https://www.pcgamer.com/sega-wants-to-make-live-action-adaptations-of-persona-and-catherine)
+ - [Every movie and show coming to Netflix in July](https://www.polygon.com/entertainment/23186781/new-netflix-movies-tv-shows-watch-july-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
