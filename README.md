@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Commission says Amazon has agreed to drop &quot;dark patterns&quot; in the process required for canceling Prime membership across its sites in the EU &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220701/p5#a220701p5)
- - [COVID-19 variant boosters won’t need new clinical trials for clearance, FDA says](https://www.theverge.com/2022/7/1/23191165/covid-variant-trials-vaccine-booster-fda)
- - [London-based Omeda Studios, which is developing a third-person action MOBA named Predecessor, raised a $20M Series A, following a $2.2M seed in March 2021 &lpar;Jason McMaster/VentureBeat&rpar;](http://www.techmeme.com/220701/p4#a220701p4)<!-- TECH:END -->
+ - [The Best Original TV Shows to Stream on Starz     - CNET](https://www.cnet.com/culture/entertainment/the-best-tv-shows-to-stream-on-starz/#ftag=CAD590a51e)
+ - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
+ - [Vergecast: EVs are a mess, Starlink is confusing, and WFH monitors are here](https://www.theverge.com/2022/7/1/23191267/ev-starlink-tesla-rivian-google-wfh-monitors-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
