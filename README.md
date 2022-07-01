@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Centuria Ore in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-centuria-ore)
- - [Formula 1 pushes reset with new cars, and F1 22 responds beautifully](https://www.polygon.com/reviews/23190060/f1-22-review-supercars-microtransactions-codemasters-ea)
- - [Minecraft youtuber Technoblade dies at the age of 23](https://www.pcgamer.com/minecraft-youtuber-technoblade-dies-at-the-age-of-23)<!-- GAME:END -->
+ - [Next Week on Xbox: July 4 to 8](https://news.xbox.com/en-us/2022/07/01/next-week-on-xbox-july-4-to-8/)
+ - [4 new Sega Genesis games come to Nintendo Switch Online](https://www.polygon.com/23191161/nintendo-switch-online-new-sega-genesis-games-zero-wing-mega-man)
+ - [How to get Centuria Ore in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-centuria-ore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
