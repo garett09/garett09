@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Original TV Shows to Stream on Starz     - CNET](https://www.cnet.com/culture/entertainment/the-best-tv-shows-to-stream-on-starz/#ftag=CAD590a51e)
- - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
- - [Vergecast: EVs are a mess, Starlink is confusing, and WFH monitors are here](https://www.theverge.com/2022/7/1/23191267/ev-starlink-tesla-rivian-google-wfh-monitors-vergecast)<!-- TECH:END -->
+ - [You should probably skip the base M2 MacBook Pro model](https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device)
+ - [Best external hard drives and SSDs for Mac in 2022](https://appleinsider.com/inside/mac/best/best-external-hard-drive-for-mac?utm_medium=rss)
+ - [Best Credit Cards for Large Purchases for July 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-large-purchases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
