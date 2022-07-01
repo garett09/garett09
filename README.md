@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shows off durability of Apple Watch in new &#39;Hard Knocks&#39; ad](https://appleinsider.com/articles/22/07/01/apple-shows-off-durability-of-apple-watch-in-new-hard-knocks-ad?utm_medium=rss)
- - [Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street](https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco)
- - [The Secrets of Covid ‘Brain Fog’ Are Starting to Lift](https://www.wired.com/story/the-secrets-of-covid-brain-fog-are-starting-to-lift/)<!-- TECH:END -->
+ - [US Officials Call TikTok a National Security Threat. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/us-officials-call-tiktok-a-national-security-threat-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Depicts Luke Skywalker as &#39;the Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-depicts-luke-skywalker-as-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)
+ - [You Know, BMW&#39;s Big Grille Really Isn&#39;t So Bad     - CNET](https://www.cnet.com/roadshow/news/bmw-m3-m4-grille-opinion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
