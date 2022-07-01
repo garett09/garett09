@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: July 4 to 8](https://news.xbox.com/en-us/2022/07/01/next-week-on-xbox-july-4-to-8/)
- - [4 new Sega Genesis games come to Nintendo Switch Online](https://www.polygon.com/23191161/nintendo-switch-online-new-sega-genesis-games-zero-wing-mega-man)
- - [How to get Centuria Ore in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-centuria-ore)<!-- GAME:END -->
+ - [10 Video Game Rats, Ranked By How Chill They Seem](https://kotaku.com/best-video-game-rats-elden-ring-league-of-legends-tmnt-1849133829)
+ - [The Minions movies offer a master class on comedy-friendly evil](https://www.polygon.com/23185128/minions-evil-essay-rise-of-gru-despicable-me)
+ - [How Minions beat Disney at the copyright game](https://www.polygon.com/23189968/minions-public-domain-disney-copyright-mickey-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
