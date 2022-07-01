@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Video Game Rats, Ranked By How Chill They Seem](https://kotaku.com/best-video-game-rats-elden-ring-league-of-legends-tmnt-1849133829)
- - [The Minions movies offer a master class on comedy-friendly evil](https://www.polygon.com/23185128/minions-evil-essay-rise-of-gru-despicable-me)
- - [How Minions beat Disney at the copyright game](https://www.polygon.com/23189968/minions-public-domain-disney-copyright-mickey-mouse)<!-- GAME:END -->
+ - [EA Roasted For Dunking On Single-Player Games After Everything It’s Done](https://kotaku.com/ea-apex-legends-fifa-battlefield-dragon-age-dreadwolf-1849134293)
+ - [Final Fantasy 14 is getting an ultra-difficult dungeon for those endgame masochists](https://www.pcgamer.com/final-fantasy-14-is-getting-an-ultra-difficult-dungeon-for-those-endgame-masochists)
+ - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
