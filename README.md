@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jake Paul vs. Tommy Fury: Is the Fight Still On?     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-the-fight-still-on/#ftag=CAD590a51e)
- - [Why More People Should Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39; Uncanny Valley: Does a Different Actor Play Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-does-a-different-actor-play-young-eleven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New York-based Tomorrow Health, whose data-driven marketplace matches patients with home-based care suppliers, has raised a $60M Series B led by BOND &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/220630/p46#a220630p46)
+ - [Best Online Will Makers for July 2022     - CNET](https://www.cnet.com/personal-finance/the-best-online-will-maker/#ftag=CAD590a51e)
+ - [Kaspersky researchers discovered malware used in the wild since March 2021 to backdoor Microsoft Exchange servers of government and military orgs worldwide &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220630/p45#a220630p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
