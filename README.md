@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will shut down Novi, its digital wallet pilot, on September 1; users will no longer be able to add money to their accounts starting July 21 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220701/p15#a220701p15)
- - [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
- - [Google plans to auto-delete user visits to medical facilities like abortion clinics, domestic violence shelters, and weight loss centers from location histories &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220701/p14#a220701p14)<!-- TECH:END -->
+ - [Three Arrows Capital files for Chapter 15 bankruptcy, a move that protects its US assets while a liquidation is carried out in the British Virgin Islands &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/220701/p16#a220701p16)
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
+ - [Coinbase Says It Doesn&#39;t Sell Customer Data After ICE &#39;Geo Tracking&#39; Contract Surfaces     - CNET](https://www.cnet.com/personal-finance/crypto/coinbase-says-it-doesnt-sell-customer-data-after-ice-geo-tracking-contract-surfaces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
