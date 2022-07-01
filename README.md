@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You should probably skip the base M2 MacBook Pro model](https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device)
  - [Best external hard drives and SSDs for Mac in 2022](https://appleinsider.com/inside/mac/best/best-external-hard-drive-for-mac?utm_medium=rss)
- - [Best Credit Cards for Large Purchases for July 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-large-purchases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Sims 4 High School Years expansion adds a Depop-created ‘virtual thrift store’](https://www.theverge.com/2022/7/1/23190163/sims-4-high-school-years-depop-vintage-fashion)
+ - [S&amp;atilde;o Paulo-based Mottu, which rents motorcycles to delivery drivers and operates a delivery service, raised a $30M Series B and $10M in debt &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220701/p9#a220701p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
