@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friday](http://9gag.com/gag/aAGAEvo)
- - 🚯 [Wow](http://9gag.com/gag/a61g5Oe)
- - 🚯 [99%](http://9gag.com/gag/aE8KV3O)<!-- MEMES:END -->
+ - 🚖 [Wow](http://9gag.com/gag/a61g5Oe)
+ - 🚯 [99%](http://9gag.com/gag/aE8KV3O)
+ - 🚯 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 --- 
 
