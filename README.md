@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CarPlay will let you pay for gas from your driver’s seat](https://www.theverge.com/2022/7/1/23190601/apple-carplay-gas-infotainment-ios-16)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories/)<!-- TECH:END -->
+ - [European Commission says Amazon has agreed to drop &quot;dark patterns&quot; in the process required for canceling Prime membership across its sites in the EU &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220701/p5#a220701p5)
+ - [COVID-19 variant boosters won’t need new clinical trials for clearance, FDA says](https://www.theverge.com/2022/7/1/23191165/covid-variant-trials-vaccine-booster-fda)
+ - [London-based Omeda Studios, which is developing a third-person action MOBA named Predecessor, raised a $20M Series A, following a $2.2M seed in March 2021 &lpar;Jason McMaster/VentureBeat&rpar;](http://www.techmeme.com/220701/p4#a220701p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
