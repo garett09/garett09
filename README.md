@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friday](http://9gag.com/gag/aAGAEvo)
- - 🚯 [Breaking a ruler with the force of atmospheric pressure](http://9gag.com/gag/aKmZA8Z)
- - 🚯 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
+ - 🚖 [Breaking a ruler with the force of atmospheric pressure](http://9gag.com/gag/aKmZA8Z)
+ - 🚯 [99%](http://9gag.com/gag/aE8KV3O)
+ - 🚯 [Friday](http://9gag.com/gag/aAGAEvo)<!-- MEMES:END -->
 
 --- 
 
