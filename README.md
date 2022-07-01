@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s what you think of your phone’s performance and heating](https://www.androidauthority.com/phone-performance-heating-poll-results-3182531/)
- - [Google offers small app developers $90 million to settle antitrust allegations](https://www.theverge.com/2022/7/1/23191008/google-app-developers-fund-90-million-play-store-antitrust)
- - [How to connect your Fitbit and Noom accounts](https://www.androidauthority.com/connect-fitbit-noom-3182065/)<!-- TECH:END -->
+ - [Technoblade, a popular Minecraft YouTuber, dies from cancer age 23 — shares final video](https://www.theverge.com/2022/7/1/23191022/technoblade-dies-cancer-final-video-message)
+ - [Apple launches $50 gift card incentive for Apple TV 4K](https://appleinsider.com/articles/22/07/01/apple-launches-50-gift-card-incentive-for-apple-tv-4k?utm_medium=rss)
+ - [Google offers small app developers $90 million to settle antitrust allegations](https://www.theverge.com/2022/7/1/23191008/google-app-developers-fund-90-million-play-store-antitrust)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
