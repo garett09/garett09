@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)
- - [This Fallout 4 mod looks so good Bethesda just hired one of its designers](https://www.pcgamer.com/this-fallout-4-mod-looks-so-good-bethesda-just-hired-one-of-its-designers)
- - [Every Hot Dog Emoji On Steam Belongs To A Guy Named Brian](https://kotaku.com/discord-steam-marketplace-2016-hot-dog-emoji-steam-deck-1849135121)<!-- GAME:END -->
+ - [Sega’s finally bringing Phantasy Star Online 2 to PS4 in the West](https://www.polygon.com/23191724/phantasy-star-online-2-release-date-ps4-new-genesis-sega)
+ - [Take on the Zodiac with the Updated Minecraft Minions DLC](https://news.xbox.com/en-us/2022/07/01/take-on-the-zodiac-with-the-updated-minecraft-minions-dlc/)
+ - [PlayStation Studio Refreshingly Honest About What It Isn&#39;t Working On](https://kotaku.com/ghost-tsushima-infamous-sly-cooper-sequel-release-date-1849135478)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
