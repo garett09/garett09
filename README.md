@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breaking a ruler with the force of atmospheric pressure](http://9gag.com/gag/aKmZA8Z)
- - 🚯 [99%](http://9gag.com/gag/aE8KV3O)
- - 🚯 [Friday](http://9gag.com/gag/aAGAEvo)<!-- MEMES:END -->
+ - 🚖 [Gotta add the tip that starts at a 20% minimum](http://9gag.com/gag/a91wvXZ)
+ - 🚯 [Friday](http://9gag.com/gag/aAGAEvo)
+ - 🚯 [99%](http://9gag.com/gag/aE8KV3O)<!-- MEMES:END -->
 
 --- 
 
