@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Played for 100h VS 1000h](http://9gag.com/gag/aNPMQM3)
- - 🚯 [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
+ - 🚖 [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
+ - 🚯 [Give me the cursed Stuff. Thanks.](http://9gag.com/gag/aZrX8Ln)
  - 🚯 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 --- 
