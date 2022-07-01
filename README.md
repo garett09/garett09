@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Old Soldiers Never Die...](https://kotaku.com/age-empires-iv-halo-master-chief-relic-concept-art-illu-1849132363)
- - [Blade Runner Remake Mess Continues With Shopfront Switcheroo](https://kotaku.com/blade-runner-enhanced-edition-gog-good-old-games-remake-1849132129)<!-- GAME:END -->
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Best games for the Steam Deck](https://www.pcgamer.com/steam-deck-best-games)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
