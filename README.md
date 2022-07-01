@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to start streaming on Twitch from your PC](https://www.androidauthority.com/how-to-stream-twitch-pc-3179930/)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)
- - [Best Fitbit Prime Day Deals: Save $82 Off Sense, $68 Off Verse 3, $41 Off Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jake Paul vs. Tommy Fury: Is the Fight Still On?     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-the-fight-still-on/#ftag=CAD590a51e)
+ - [Why More People Should Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39; Uncanny Valley: Does a Different Actor Play Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-does-a-different-actor-play-young-eleven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
