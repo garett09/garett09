@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f**k, expose them already !](http://9gag.com/gag/aM47z3V)
- - 🚯 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
- - 🚯 [It&#39;s already too late](http://9gag.com/gag/a21g2Dd)<!-- MEMES:END -->
+ - 🚖 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
+ - 🚯 [Cat almost became coyote food](http://9gag.com/gag/a21g20e)
+ - 🚯 [All aboard the party bus](http://9gag.com/gag/aAGAMZL)<!-- MEMES:END -->
 
 --- 
 
