@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best external hard drives and SSDs for Mac in 2022](https://appleinsider.com/inside/mac/best/best-external-hard-drive-for-mac?utm_medium=rss)
- - [The Sims 4 High School Years expansion adds a Depop-created ‘virtual thrift store’](https://www.theverge.com/2022/7/1/23190163/sims-4-high-school-years-depop-vintage-fashion)
- - [S&amp;atilde;o Paulo-based Mottu, which rents motorcycles to delivery drivers and operates a delivery service, raised a $30M Series B and $10M in debt &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220701/p9#a220701p9)<!-- TECH:END -->
+ - [How gaming on the Mac is getting better with macOS Ventura](https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura?utm_medium=rss)
+ - [Apple must face UK complaint that its App Store commission is unfair](https://appleinsider.com/articles/22/07/01/apple-must-face-uk-complaint-that-its-app-store-commission-is-unfair?utm_medium=rss)
+ - [BlockFi says it agreed to an option to be acquired by FTX for up to $240M; the deal also includes a $400M revolving credit facility from FTX &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220701/p10#a220701p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
