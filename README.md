@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Hits hard](http://9gag.com/gag/aM47WeG)
- - 🚯 [Love is finishing each other&#39;s sentences](http://9gag.com/gag/awzjeW4)
+ - 🚯 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
