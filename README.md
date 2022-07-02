@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 31 Best Fourth of July Deals on Kitchen Gizmos and Tech](https://www.wired.com/story/fourth-of-july-sales-2022/)
- - [The Quarry Blurs the Line Between Video Games and Cinema](https://www.wired.com/story/the-quarry-horror-video-game-movies/)
- - [How to Shop Like a Pro on Amazon Prime Day](https://www.wired.com/story/amazon-prime-day-2022-tips-to-find-best-deals/)<!-- TECH:END -->
+ - [Twitter&#39;s recent takedowns in India may be fueled by new rules making its local chief compliance officer criminally liable for not meeting government demands &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/220702/p3#a220702p3)
+ - [How to Work Offline and Still Be Productive](https://www.wired.com/story/how-to-work-offline/)
+ - [130-Year-Old Menus Show How Climate Change Affects What We Eat](https://www.wired.com/story/130-year-old-menus-show-how-climate-change-affects-what-we-eat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
