@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man climbed out of his eighth floor apartment window to catch the helpless three-year-old girl.](http://9gag.com/gag/aGzv7Gw)
- - 🚯 [They are evolving..](http://9gag.com/gag/avAq9nW)
+ - 🚖 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
+ - 🚯 [Classy lumberjack](http://9gag.com/gag/azey4Ab)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
