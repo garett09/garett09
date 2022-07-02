@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prepare to fight](http://9gag.com/gag/a0ZgMMB)
- - 🚯 [Come back please](http://9gag.com/gag/agg9EoW)
+ - 🚖 [The Cat Concerto. Oscar Winning Cartoon](http://9gag.com/gag/adgAoK9)
+ - 🚯 [He always be our captain](http://9gag.com/gag/awzjYG4)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
