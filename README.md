@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
- - 🚯 [It is what it is](http://9gag.com/gag/aQXbybK)
+ - 🚖 [It is what it is](http://9gag.com/gag/aQXbybK)
+ - 🚯 [Bro hit the skip button by accident](http://9gag.com/gag/aKmZK6b)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
