@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s recent takedowns in India may be fueled by new rules making its local chief compliance officer criminally liable for not meeting government demands &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/220702/p3#a220702p3)
- - [How to Work Offline and Still Be Productive](https://www.wired.com/story/how-to-work-offline/)
- - [130-Year-Old Menus Show How Climate Change Affects What We Eat](https://www.wired.com/story/130-year-old-menus-show-how-climate-change-affects-what-we-eat/)<!-- TECH:END -->
+ - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)
+ - [Bote&#39;s Inflatable Stand-Up Paddleboard Packs Big Summer Fun](https://www.wired.com/review/breeze-aero-inflatable-paddle-board/)
+ - [Gun Database Breach Leaks Details on Thousands of Owners](https://www.wired.com/story/california-gun-owner-leak-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
