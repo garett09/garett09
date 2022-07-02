@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
- - [IDC: global shipments for VR headsets jumped 241.6% during Q1 2022, with Meta capturing 90% of market share thanks to its Quest 2 headset &lpar;The Economic Times&rpar;](http://www.techmeme.com/220701/p17#a220701p17)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [State Farm Car Insurance Review for July 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/state-farm-car-insurance-review/#ftag=CAD590a51e)
+ - [Meta&#39;s Novi Service to Be Phased Out: What you need to know     - CNET](https://www.cnet.com/personal-finance/crypto/metas-novi-service-to-be-phased-out-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
