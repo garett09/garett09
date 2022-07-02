@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is another one](http://9gag.com/gag/aGzv215)
- - 🚯 [What just happened?](http://9gag.com/gag/aE8KDoN)
- - 🚯 [Shield](http://9gag.com/gag/aYr6AN2)<!-- MEMES:END -->
+ - 🚖 [This has to be a crime](http://9gag.com/gag/azeyZpq)
+ - 🚯 [An important decision?](http://9gag.com/gag/aLvoX3g)
+ - 🚯 [My favorite pastime](http://9gag.com/gag/aPZLX0G)<!-- MEMES:END -->
 
 --- 
 
