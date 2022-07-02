@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He always be our captain](http://9gag.com/gag/awzjYG4)
- - 🚯 [Mom tried to Nutella \u201cFake Poop\u201d prank her kid but he got the last laugh](http://9gag.com/gag/aqGMD9P)
+ - 🚖 [The man climbed out of his eighth floor apartment window to catch the helpless three-year-old girl.](http://9gag.com/gag/aGzv7Gw)
+ - 🚯 [Duck](http://9gag.com/gag/aM47OOX)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
