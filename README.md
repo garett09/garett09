@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Stranger Things&#39; Season 4 Recap: Episode 9 Easter Eggs and Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-recap-episode-9-easter-eggs-ending-explained/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39; Season 4 Recap: Episode 8 Easter Eggs and Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-episode-8-recap-easter-eggs-ending-explained/#ftag=CAD590a51e)
- - [Prime Video: The 50 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-50-best-tv-shows-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why a Chromebook Is Probably All You Need     - CNET](https://www.cnet.com/tech/computing/why-a-chromebook-is-probably-all-you-need/#ftag=CAD590a51e)
+ - [HackerOne says a staffer stole vulnerability reports submitted through its bug bounty platform and disclosed them to seven companies to claim financial rewards &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220702/p5#a220702p5)
+ - [Virgin Orbit successfully launches satellites during first night mission](https://www.theverge.com/2022/7/2/23192664/virgin-orbit-successfully-launches-satellites-orbit-night-mission-straight-up)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
