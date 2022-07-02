@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
- - 🚯 [Classy lumberjack](http://9gag.com/gag/azey4Ab)
+ - 🚯 [It is what it is](http://9gag.com/gag/aQXbybK)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
