@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How El Salvador&#39;s president Nayib Bukele weaponized bitcoin to whitewash his government&#39;s growing authoritarianism and spread propaganda &lpar;Nelson Rauda Zablah/New York Times&rpar;](http://www.techmeme.com/220702/p6#a220702p6)
- - [Abortion Access Doesn&#39;t Only Affect Women     - CNET](https://www.cnet.com/health/parenting/abortion-access-doesnt-only-affect-women/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39;: What to Watch After You&#39;ve Finished Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-what-to-watch-after-youve-finished-vol-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Adventure     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-adventure/#ftag=CAD590a51e)
+ - [How El Salvador President Nayib Bukele weaponized bitcoin to whitewash his government&#39;s growing authoritarianism on the world stage and spread local propaganda &lpar;Nelson Rauda Zablah/New York Times&rpar;](http://www.techmeme.com/220702/p6#a220702p6)
+ - [Abortion Access Doesn&#39;t Only Affect Women     - CNET](https://www.cnet.com/health/parenting/abortion-access-doesnt-only-affect-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
