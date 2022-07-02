@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kookaburra, the sound of most jungle movies.](http://9gag.com/gag/a41gWo1)
- - 🚯 [He always be our captain](http://9gag.com/gag/awzjYG4)
+ - 🚖 [Prepare to fight](http://9gag.com/gag/a0ZgMMB)
+ - 🚯 [Come back please](http://9gag.com/gag/agg9EoW)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
