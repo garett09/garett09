@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These fire-prone places are ditching fireworks for drones this July Fourth](https://www.theverge.com/2022/7/2/23191205/fire-prone-places-replace-fireworks-drone-shows)
- - [Meta’s shutting down its digital wallet, Novi](https://www.theverge.com/2022/7/2/23192501/meta-shutting-down-digital-wallet-novi-diem-cryptocurrency)
- - [RadioShack, which was bought by a PE firm in 2020, has become an online cryptocurrency company trying to attract users with a stream of often-profane tweets &lpar;Yiwen Lu/Washington Post&rpar;](http://www.techmeme.com/220702/p4#a220702p4)<!-- TECH:END -->
+ - [&#39;Stranger Things&#39; Season 4 Recap: Episode 9 Easter Eggs and Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-recap-episode-9-easter-eggs-ending-explained/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39; Season 4 Recap: Episode 8 Easter Eggs and Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-episode-8-recap-easter-eggs-ending-explained/#ftag=CAD590a51e)
+ - [Prime Video: The 50 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-50-best-tv-shows-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
