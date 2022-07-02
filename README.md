@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man climbed out of his eighth floor apartment window to catch the helpless three-year-old girl.](http://9gag.com/gag/aGzv7Gw)
- - 🚯 [Duck](http://9gag.com/gag/aM47OOX)
+ - 🚖 [Sweet kitten](http://9gag.com/gag/a91wOG6)
+ - 🚯 [The satisfying peel](http://9gag.com/gag/a51gq5N)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
