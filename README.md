@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Hits hard](http://9gag.com/gag/aM47WeG)
- - 🚯 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
+ - 🚯 [Just slide it in](http://9gag.com/gag/a41gVzQ)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
