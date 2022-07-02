@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three Arrows Capital files for Chapter 15 bankruptcy, a move that protects its US assets while a liquidation is carried out in the British Virgin Islands &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/220701/p16#a220701p16)
- - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
- - [Coinbase Says It Doesn&#39;t Sell Customer Data After ICE &#39;Geo Tracking&#39; Contract Surfaces     - CNET](https://www.cnet.com/personal-finance/crypto/coinbase-says-it-doesnt-sell-customer-data-after-ice-geo-tracking-contract-surfaces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [IDC: global shipments for VR headsets jumped 241.6% during Q1 2022, with Meta capturing 90% of market share thanks to its Quest 2 headset &lpar;The Economic Times&rpar;](http://www.techmeme.com/220701/p17#a220701p17)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
