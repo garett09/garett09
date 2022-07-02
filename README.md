@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
- - 🚯 [Cat almost became coyote food](http://9gag.com/gag/a21g20e)
- - 🚯 [All aboard the party bus](http://9gag.com/gag/aAGAMZL)<!-- MEMES:END -->
+ - 🚖 [All aboard the party bus](http://9gag.com/gag/aAGAMZL)
+ - 🚯 [When you eat 3 servings of family size](http://9gag.com/gag/awzjOnr)
+ - 🚯 [What just happened?](http://9gag.com/gag/aE8KDoN)<!-- MEMES:END -->
 
 --- 
 
