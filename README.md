@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This has to be a crime](http://9gag.com/gag/azeyZpq)
- - 🚯 [An important decision?](http://9gag.com/gag/aLvoX3g)
- - 🚯 [My favorite pastime](http://9gag.com/gag/aPZLX0G)<!-- MEMES:END -->
+ - 🚖 [Kookaburra, the sound of most jungle movies.](http://9gag.com/gag/a41gWo1)
+ - 🚯 [Shield](http://9gag.com/gag/aYr6AN2)
+ - 🚯 [Basically](http://9gag.com/gag/apg7AM8)<!-- MEMES:END -->
 
 --- 
 
