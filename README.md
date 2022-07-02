@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is what it is](http://9gag.com/gag/aQXbybK)
- - 🚯 [Bro hit the skip button by accident](http://9gag.com/gag/aKmZK6b)
+ - 🚖 [Hits hard](http://9gag.com/gag/aM47WeG)
+ - 🚯 [Love is finishing each other&#39;s sentences](http://9gag.com/gag/awzjeW4)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
