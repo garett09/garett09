@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No one likes EA&#39;s joke about singleplayer games, even EA](https://www.pcgamer.com/no-one-likes-eas-joke-about-singleplayer-games-even-ea)
- - [The Princess, The Bad Guys, and more new movies you can watch at home this weekend](https://www.polygon.com/23184658/new-movies-watch-the-princess-hulu-the-bad-guys-netflix-blasted-streaming)
- - [KOTOR 2 On Switch Is Officially Fixed For Real Now, Kinda Sorta](https://kotaku.com/kotor-2-gamebreaking-bug-aspyr-crash-onderon-1849136189)<!-- GAME:END -->
+ - [POV: This cowboy falls out of the sky with a double-barreled shotgun pointed at you. What do you do?](https://www.pcgamer.com/pov-this-cowboy-falls-out-of-the-sky-with-a-double-barreled-shotgun-pointed-at-you-what-do-you-do)
+ - [Junker Queen is a reminder that nobody does heroes like Overwatch](https://www.pcgamer.com/junker-queen-is-a-reminder-that-nobody-does-heroes-like-overwatch)
+ - [Someone got Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
