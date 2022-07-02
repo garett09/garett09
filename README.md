@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is another one](http://9gag.com/gag/aGzv215)
+ - 🚖 [Atleast the mate\u2019s honest](http://9gag.com/gag/aPZLXoV)
  - 🚯 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)
- - 🚯 [What are holes in jeans used for?](http://9gag.com/gag/a31gWYN)<!-- MEMES:END -->
+ - 🚯 [There is another one](http://9gag.com/gag/aGzv215)<!-- MEMES:END -->
 
 --- 
 
