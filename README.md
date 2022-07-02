@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hits hard](http://9gag.com/gag/aM47WeG)
- - 🚯 [Just slide it in](http://9gag.com/gag/a41gVzQ)
+ - 🚖 [Just slide it in](http://9gag.com/gag/a41gVzQ)
+ - 🚯 [When Ed Sheeran was basically s*it](http://9gag.com/gag/aE8KQ5o)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
