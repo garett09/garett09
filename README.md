@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, quite literally](http://9gag.com/gag/aLvo3Og)
- - 🚯 [My good boy passed away. He was a goodest of boys always made every one around him happy. RIP Almond enjoy doggy heaven.](http://9gag.com/gag/apg77XM)
- - 🚯 [Whut?](http://9gag.com/gag/aVxrrbP)<!-- MEMES:END -->
+ - 🚖 [A game for the whole family](http://9gag.com/gag/a31gg08)
+ - 🚯 [What?](http://9gag.com/gag/aVxr5PM)
+ - 🚯 [Tomorrow Monday again](http://9gag.com/gag/aOQE5VM)<!-- MEMES:END -->
 
 --- 
 
