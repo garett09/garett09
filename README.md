@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Garden and Seed Delivery Services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
- - [How to make a custom iPhone ringtone in iOS 15](https://appleinsider.com/inside/iphone/tips/how-to-make-a-custom-iphone-ringtone-in-ios-15?utm_medium=rss)
- - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)<!-- TECH:END -->
+ - [Survey: experts split on the likely evolution of an immersive metaverse by 2040, worry about the dominant platforms building it, and expect more useful AR/MR &lpar;Pew Research Center&rpar;](http://www.techmeme.com/220703/p4#a220703p4)
+ - [Now Android users on Twitter can pay to drop the Spaces button too](https://www.theverge.com/2022/7/3/23193650/twitter-blue-android-users-pay-drop-spaces-button)
+ - [Best Garden and Seed Delivery Services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
