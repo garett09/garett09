@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Also, you share a set of grandparents](http://9gag.com/gag/aBnzbyA)
- - 🚯 [Lock&#39;n&#39;Load](http://9gag.com/gag/amgQOz4)
- - 🚯 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
+ - 🚖 [Everyone should have a father like his](http://9gag.com/gag/a71gPRq)
+ - 🚯 [We did it](http://9gag.com/gag/aogoABX)
+ - 🚯 [Very skillful](http://9gag.com/gag/aVxr9qn)<!-- MEMES:END -->
 
 --- 
 
