@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A game for the whole family](http://9gag.com/gag/a31gg08)
- - 🚯 [What?](http://9gag.com/gag/aVxr5PM)
- - 🚯 [Tomorrow Monday again](http://9gag.com/gag/aOQE5VM)<!-- MEMES:END -->
+ - 🚖 [Understandable](http://9gag.com/gag/abgDDv8)
+ - 🚯 [Gen 1 &amp; 2 Boomer here... but the new gens ain&#39;t so bad...played until Black and White...](http://9gag.com/gag/a11ggYw)
+ - 🚯 [\u200e](http://9gag.com/gag/a11gg1v)<!-- MEMES:END -->
 
 --- 
 
