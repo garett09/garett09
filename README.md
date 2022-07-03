@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
- - [Best Portable Humidifier for 2022     - CNET](https://www.cnet.com/health/medical/best-portable-humidifier/#ftag=CAD590a51e)
- - [British Army’s YouTube and Twitter accounts were hacked to promote crypto scams](https://www.theverge.com/2022/7/3/23193668/british-army-youtube-twitter-accounts-hacked-promote-crypto-scam-fraud)<!-- TECH:END -->
+ - [Best Garden and Seed Delivery Services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
+ - [How to make a custom iPhone ringtone in iOS 15](https://appleinsider.com/inside/iphone/tips/how-to-make-a-custom-iphone-ringtone-in-ios-15?utm_medium=rss)
+ - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
