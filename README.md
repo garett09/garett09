@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lynx&#39;s meow](http://9gag.com/gag/axBK8on)
- - 🚯 [Love that one tree in particular.](http://9gag.com/gag/aE8KKBe)
- - 🚯 [Old iron restoration](http://9gag.com/gag/aDD9qqN)<!-- MEMES:END -->
+ - 🚖 [Me, quite literally](http://9gag.com/gag/aLvo3Og)
+ - 🚯 [My good boy passed away. He was a goodest of boys always made every one around him happy. RIP Almond enjoy doggy heaven.](http://9gag.com/gag/apg77XM)
+ - 🚯 [Whut?](http://9gag.com/gag/aVxrrbP)<!-- MEMES:END -->
 
 --- 
 
