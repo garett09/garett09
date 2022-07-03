@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
- - 🚯 [Lynx&#39;s meow](http://9gag.com/gag/axBK8on)
- - 🚯 [Understandable](http://9gag.com/gag/abgDDv8)<!-- MEMES:END -->
+ - 🚖 [Lynx&#39;s meow](http://9gag.com/gag/axBK8on)
+ - 🚯 [Love that one tree in particular.](http://9gag.com/gag/aE8KKBe)
+ - 🚯 [Old iron restoration](http://9gag.com/gag/aDD9qqN)<!-- MEMES:END -->
 
 --- 
 
