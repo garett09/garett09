@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s Kishi V2 is an improved yet even more imperfect controller](https://www.theverge.com/23191199/razer-kishi-v2-mobile-game-controller-android-review)
- - [Apple Watch Series 8 may detect user&#39;s fever with temperature sensor](https://appleinsider.com/articles/22/07/03/apple-watch-series-8-may-detect-users-fever-with-temperature-sensor?utm_medium=rss)
- - [Apple Watch Series 8 will reportedly be able to detect if you have a fever](https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors)<!-- TECH:END -->
+ - [Buying Groceries Online vs. In-Store: We Find Out Which Is Cheaper     - CNET](https://www.cnet.com/news/buying-groceries-online-vs-in-store-we-find-out-which-is-cheaper/#ftag=CAD590a51e)
+ - [Samsung Should Forget the Galaxy S22 FE. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/samsung-should-forget-the-galaxy-s22-fe-heres-why/#ftag=CAD590a51e)
+ - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
