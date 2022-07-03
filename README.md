@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look ma, no hand rails!](http://9gag.com/gag/adgA4VM)
- - 🚯 [Appreciation post to TALENT](http://9gag.com/gag/amgQnY4)
+ - 🚖 [Logarithmic map of the universe](http://9gag.com/gag/aqGMpMM)
+ - 🚯 [When Ed Sheeran was basically s*it](http://9gag.com/gag/aE8KQ5o)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
