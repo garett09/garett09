@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Habitable dragon balls](http://9gag.com/gag/ay9rmpV)
- - 🚯 [Do You agree?](http://9gag.com/gag/a91w4bj)
- - 🚯 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
+ - 🚖 [Advice?](http://9gag.com/gag/aOQEneN)
+ - 🚯 [Me, quite literally](http://9gag.com/gag/aLvo3Og)
+ - 🚯 [Maybe I am a Finn](http://9gag.com/gag/aNPMGx4)<!-- MEMES:END -->
 
 --- 
 
