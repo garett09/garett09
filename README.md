@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Breast Pumps in 2022     - CNET](https://www.cnet.com/health/parenting/best-breast-pumps-in-2022/#ftag=CAD590a51e)
- - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)
- - [Save up to 60% on Indoor and Outdoor Furniture at Wayfair&#39;s July Fourth Sale     - CNET](https://www.cnet.com/deals/save-on-indoor-and-outdoor-furniture-at-wayfairs-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
+ - [Best Portable Humidifier for 2022     - CNET](https://www.cnet.com/health/medical/best-portable-humidifier/#ftag=CAD590a51e)
+ - [British Army’s YouTube and Twitter accounts were hacked to promote crypto scams](https://www.theverge.com/2022/7/3/23193668/british-army-youtube-twitter-accounts-hacked-promote-crypto-scam-fraud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
