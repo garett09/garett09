@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s Why You Shouldn&#39;t Use &#39;Hey&#39; as a Dating App Pickup Line     - CNET](https://www.cnet.com/culture/heres-why-you-shouldnt-use-hey-as-a-dating-app-pickup-line/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to The Movie&#39;s Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-movies-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Dear Streamers, Please Stop Making TV Shows That Shouldn&#39;t Be Full Shows     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-please-stop-making-tv-shows-that-shouldnt-be-full-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What I Want in the iPhone 14: New Design Tweaks, USB-C and MorI     - CNET](https://www.cnet.com/tech/mobile/what-i-want-in-the-iphone-14-new-design-tweaks-usb-c-and-more/#ftag=CAD590a51e)
+ - [Does WhatsApp let you know when someone takes a screenshot?](https://www.androidauthority.com/whatsapp-notify-screenshot-3182013/)
+ - [Here&#39;s Why You Shouldn&#39;t Use &#39;Hey&#39; as a Dating App Pickup Line     - CNET](https://www.cnet.com/culture/heres-why-you-shouldnt-use-hey-as-a-dating-app-pickup-line/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
