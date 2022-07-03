@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Haha uncle so funny](http://9gag.com/gag/aegzyoq)
- - 🚯 [Also, you share a set of grandparents](http://9gag.com/gag/aBnzbyA)
- - 🚯 [Traditional way to purify water](http://9gag.com/gag/a61g4pm)<!-- MEMES:END -->
+ - 🚖 [Also, you share a set of grandparents](http://9gag.com/gag/aBnzbyA)
+ - 🚯 [Lock&#39;n&#39;Load](http://9gag.com/gag/amgQOz4)
+ - 🚯 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
 
 --- 
 
