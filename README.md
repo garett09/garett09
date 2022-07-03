@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very skillful](http://9gag.com/gag/aVxr9qn)
- - 🚯 [Weekend cat](http://9gag.com/gag/abgDLYE)
- - 🚯 [Maybe I am a Finn](http://9gag.com/gag/aNPMGx4)<!-- MEMES:END -->
+ - 🚖 [Habitable dragon balls](http://9gag.com/gag/ay9rmpV)
+ - 🚯 [Do You agree?](http://9gag.com/gag/a91w4bj)
+ - 🚯 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
 
 --- 
 
