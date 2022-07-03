@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logarithmic map of the universe](http://9gag.com/gag/aqGMpMM)
- - 🚯 [When Ed Sheeran was basically s*it](http://9gag.com/gag/aE8KQ5o)
+ - 🚖 [Ta da!!!!!!](http://9gag.com/gag/a81NQ3O)
+ - 🚯 [Ain&#39;t stupid if it works](http://9gag.com/gag/aOQEABv)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
