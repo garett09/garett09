@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who should pay on a date? Men or women?](http://9gag.com/gag/a91wVrj)
- - 🚯 [Logarithmic map of the universe](http://9gag.com/gag/aqGMpMM)
+ - 🚖 [Ta da!!!!!!](http://9gag.com/gag/a81NQ3O)
+ - 🚯 [Did someone do the math? How much doen he own?](http://9gag.com/gag/a71g6Yr)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
