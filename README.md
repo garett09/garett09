@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Advice?](http://9gag.com/gag/aOQEneN)
- - 🚯 [Me, quite literally](http://9gag.com/gag/aLvo3Og)
- - 🚯 [Maybe I am a Finn](http://9gag.com/gag/aNPMGx4)<!-- MEMES:END -->
+ - 🚖 [And it&#39;s still the Stupid ones that always win and always succesfull](http://9gag.com/gag/aogo6x0)
+ - 🚯 [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
+ - 🚯 [In case you&#39;re having a bad day, here&#39;s a school of puffer fish](http://9gag.com/gag/aE8Kj39)<!-- MEMES:END -->
 
 --- 
 
