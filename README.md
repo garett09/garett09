@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ta da!!!!!!](http://9gag.com/gag/a81NQ3O)
- - 🚯 [Did someone do the math? How much doen he own?](http://9gag.com/gag/a71g6Yr)
+ - 🚖 [Beware if you see a dome shaped card reader instead of the square! This was at a gas station. I\u2019m LIVID](http://9gag.com/gag/aGzvo4z)
+ - 🚯 [Ain&#39;t stupid if it works](http://9gag.com/gag/aOQEABv)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
