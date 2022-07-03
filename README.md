@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix puts their spin on the farm and fantasy life sim with Harvestella](https://www.pcgamer.com/square-enix-puts-their-spin-on-the-farm-and-fantasy-life-sim-with-harvestella)
- - [Here&#39;s the big preview of Genshin Impact 2.8](https://www.pcgamer.com/heres-the-big-preview-of-genshin-impact-28)
- - [The questions we have from Stranger Things 4](https://www.polygon.com/stranger-things/23190405/stranger-things-4-ending-questions-explained)<!-- GAME:END -->
+ - [In 1998, we wanted to believe The X-Files would make a good videogame](https://www.pcgamer.com/saturday-crapshoot-the-x-files)
+ - [What&#39;s the longest you&#39;ve had to wait for a sequel?](https://www.pcgamer.com/whats-the-longest-youve-had-to-wait-for-a-sequel)
+ - [Square Enix puts their spin on the farm and fantasy life sim with Harvestella](https://www.pcgamer.com/square-enix-puts-their-spin-on-the-farm-and-fantasy-life-sim-with-harvestella)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
