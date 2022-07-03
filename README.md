@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto hedge fund Three Arrows files for bankruptcy](https://www.theverge.com/2022/7/2/23192810/three-arrows-capital-chapter-15-bankruptcy-cryptocurrency)
- - [Gamevice for iPhone &amp; iPad review: simulated Nintendo Switch](https://appleinsider.com/articles/22/07/02/gamevice-for-iphone-ipad-review-simulated-nintendo-switch?utm_medium=rss)
- - [7 Stress-Relief Strategies That Really Work     - CNET](https://www.cnet.com/health/mental/7-stress-relief-strategies-that-really-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Vita Mojo, which makes restaurant software for digital ordering and kitchen management, has raised $30M led by Battery Ventures &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220702/p7#a220702p7)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
