@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And it&#39;s still the Stupid ones that always win and always succesfull](http://9gag.com/gag/aogo6x0)
- - 🚯 [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
- - 🚯 [In case you&#39;re having a bad day, here&#39;s a school of puffer fish](http://9gag.com/gag/aE8Kj39)<!-- MEMES:END -->
+ - 🚖 [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
+ - 🚯 [Lynx&#39;s meow](http://9gag.com/gag/axBK8on)
+ - 🚯 [Understandable](http://9gag.com/gag/abgDDv8)<!-- MEMES:END -->
 
 --- 
 
