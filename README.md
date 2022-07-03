@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont touch my garbage!](http://9gag.com/gag/aZrXoKX)
- - 🚯 [Tom Felton meets a Harry Potter fan](http://9gag.com/gag/a61g4gL)
- - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
+ - 🚖 [Haha uncle so funny](http://9gag.com/gag/aegzyoq)
+ - 🚯 [Also, you share a set of grandparents](http://9gag.com/gag/aBnzbyA)
+ - 🚯 [Traditional way to purify water](http://9gag.com/gag/a61g4pm)<!-- MEMES:END -->
 
 --- 
 
