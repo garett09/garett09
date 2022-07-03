@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying Groceries Online vs. In-Store: We Find Out Which Is Cheaper     - CNET](https://www.cnet.com/news/buying-groceries-online-vs-in-store-we-find-out-which-is-cheaper/#ftag=CAD590a51e)
- - [Samsung Should Forget the Galaxy S22 FE. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/samsung-should-forget-the-galaxy-s22-fe-heres-why/#ftag=CAD590a51e)
- - [Best Chromebook for 2022: 8 Chromebooks Starting at Under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla is facing yet another racial discrimination lawsuit](https://www.theverge.com/2022/7/3/23193415/tesla-facing-another-racial-discrimination-lawsuit-california)
+ - [As Apple ramped up investment in Mac chips, the progress of its other chips slowed down; sources: Apple Watch Series 8 may be able to tell if users have a fever &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220703/p3#a220703p3)
+ - [Buying Groceries Online vs. In-Store: We Find Out Which Is Cheaper     - CNET](https://www.cnet.com/news/buying-groceries-online-vs-in-store-we-find-out-which-is-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
