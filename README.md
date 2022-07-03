@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beware if you see a dome shaped card reader instead of the square! This was at a gas station. I\u2019m LIVID](http://9gag.com/gag/aGzvo4z)
- - 🚯 [Ain&#39;t stupid if it works](http://9gag.com/gag/aOQEABv)
+ - 🚖 [Dont touch my garbage!](http://9gag.com/gag/aZrXoKX)
+ - 🚯 [Tom Felton meets a Harry Potter fan](http://9gag.com/gag/a61g4gL)
  - 🚯 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 --- 
