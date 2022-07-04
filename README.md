@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Workers are doing it wrong](http://9gag.com/gag/aE8KLnG)
- - 🚯 [Stranger Things song](http://9gag.com/gag/a21g30p)
- - 🚯 [Tell me why.](http://9gag.com/gag/aDD9yyd)<!-- MEMES:END -->
+ - 🚖 [The ideal fruit seller](http://9gag.com/gag/a81NBGO)
+ - 🚯 [Tell me why.](http://9gag.com/gag/aDD9yyd)
+ - 🚯 [Shark spotted off the coast of England!](http://9gag.com/gag/aGzvXN0)<!-- MEMES:END -->
 
 --- 
 
