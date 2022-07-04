@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was fired, and instead of being sad at home, I decided to cross the oceans in a 16th century galleon as a volunteer sailor. Best decision I ever made. Just want to share with you \ud83d\udda4](http://9gag.com/gag/aLvo755)
- - 🚯 [On July 4th 1996 this man sacrificed himself to defeat Alien invaders and save Earth.](http://9gag.com/gag/angZmBq)
- - 🚯 [Shark spotted off the coast of England!](http://9gag.com/gag/aGzvXN0)<!-- MEMES:END -->
+ - 🚖 [Workers are doing it wrong](http://9gag.com/gag/aE8KLnG)
+ - 🚯 [Stranger Things song](http://9gag.com/gag/a21g30p)
+ - 🚯 [Tell me why.](http://9gag.com/gag/aDD9yyd)<!-- MEMES:END -->
 
 --- 
 
