@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ideal fruit seller](http://9gag.com/gag/a81NBGO)
- - 🚯 [Tell me why.](http://9gag.com/gag/aDD9yyd)
- - 🚯 [The future](http://9gag.com/gag/a31gmAe)<!-- MEMES:END -->
+ - 🚖 [\ud83d\udc4b\ud83c\udffdHappy Independence Day](http://9gag.com/gag/awzjwMx)
+ - 🚯 [Wtf Barcelona](http://9gag.com/gag/aqGM02p)
+ - 🚯 [*judgemental look*](http://9gag.com/gag/adgAmbV)<!-- MEMES:END -->
 
 --- 
 
