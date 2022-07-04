@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)
- - [Crypto lender Vauld says it is pausing all withdrawals, trading, and deposits and is exploring restructuring, after customers withdrew $197.7M+ since June 12 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220704/p12#a220704p12)
- - [How to change the color on an iCloud calendar in iOS 15 and macOS Monterey](https://appleinsider.com/inside/icloud/tips/how-to-change-the-color-on-an-icloud-calendar-in-ios-15-and-macos-monterey?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: Rumored 47mm Apple Watch Series 8 size versus Series 7](https://appleinsider.com/articles/22/07/04/compared-rumored-47mm-apple-watch-series-8-size-versus-series-7?utm_medium=rss)
+ - [Amazon expands Prime Video’s Watch Party feature to Roku, smart TVs, and more](https://www.theverge.com/2022/7/4/23194474/amazon-prime-video-watch-party-roku-smart-tv-xbox-playstation)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
