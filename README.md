@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Cheesburger Day](http://9gag.com/gag/aGzv4RG)
- - 🚯 [Firemen Helping out a Guy like The Heroes they Already Are](http://9gag.com/gag/abgDnM8)
+ - 🚖 [Take math seriously](http://9gag.com/gag/aM47M4x)
+ - 🚯 [Show some love](http://9gag.com/gag/axBKq7W)
  - 🚯 [High-tech shit on pre historic weapons](http://9gag.com/gag/aNPME0v)<!-- MEMES:END -->
 
 --- 
