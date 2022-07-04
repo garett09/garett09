@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The annual Sun Valley conference begins on July 6; invitees include Rupert Murdoch, Reed Hastings, Ted Sarandos, Elon Musk, Mark Zuckerberg, and Tim Cook &lpar;Jill Goldsmith/Deadline&rpar;](http://www.techmeme.com/220704/p6#a220704p6)
- - [Source: Celsius has laid off 150 employees, around a quarter of its staff, after pausing withdrawals on June 13; the lender says it is exploring restructuring &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220704/p5#a220704p5)
- - [Gamevice for iPhone &amp; iPad review: simulated Nintendo Switch](https://appleinsider.com/articles/22/07/02/gamevice-for-iphone-ipad-review-simulated-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Series 8 may feature 50.5mm display](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)
+ - [Legal experts say a Japanese antitrust court ruling could have wider implications, including forcing large tech platforms to open up their algorithms &lpar;Financial Times&rpar;](http://www.techmeme.com/220704/p8#a220704p8)
+ - [Formula One driver survives horrific crash thanks to halo cockpit requirement](https://www.theverge.com/2022/7/4/23194215/formula-one-zhou-guanyu-halo-crash-survive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
