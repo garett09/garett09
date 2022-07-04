@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [The ideal fruit seller](http://9gag.com/gag/a81NBGO)
  - 🚯 [Tell me why.](http://9gag.com/gag/aDD9yyd)
- - 🚯 [Shark spotted off the coast of England!](http://9gag.com/gag/aGzvXN0)<!-- MEMES:END -->
+ - 🚯 [The future](http://9gag.com/gag/a31gmAe)<!-- MEMES:END -->
 
 --- 
 
