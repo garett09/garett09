@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The great Pokémon card shortage has a solution: 9 billion new cards](https://www.polygon.com/pokemon/23190366/pokemon-card-shortage-production-numbers)
- - [Elden Ring legend denies retirement, says they&#39;ve soloed Malenia over 2,000 times](https://www.pcgamer.com/elden-ring-legend-denies-retirement-says-theyve-soloed-malenia-over-2000-times)
- - [The best Raft mods](https://www.pcgamer.com/best-raft-mods)<!-- GAME:END -->
+ - [Watch Cyberpunk: Edgerunners&#39; Opening Titles](https://kotaku.com/netflix-cdpr-studio-trigger-cyberpunk-edgerunners-1849140599)
+ - [How to get Twisted Stiffbone in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-twisted-stiffbone)
+ - [My return to Elden Ring has turned me into a crafty little rat](https://www.pcgamer.com/my-return-to-elden-ring-has-turned-me-into-a-crafty-little-rat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
