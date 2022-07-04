@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things actor doesn’t think what happened to Eddie was fair — but it was ‘inspired’](https://www.polygon.com/stranger-things/23191788/eddie-died-stranger-things-4-interview-actor)
- - [Disco Elysium has dyslexia-friendly fonts now](https://www.pcgamer.com/disco-elysium-has-dyslexia-friendly-fonts-now)
- - [Watch Cyberpunk: Edgerunners&#39; Opening Titles](https://kotaku.com/netflix-cdpr-studio-trigger-cyberpunk-edgerunners-1849140599)<!-- GAME:END -->
+ - [Summer Games Done Quick does more than $3M for charity](https://www.pcgamer.com/summer-games-done-quick-does-more-than-dollar3m-for-charity)
+ - [10 More Fascinating Indie Games To Wishlist Today](https://kotaku.com/steam-indie-games-pc-wishlist-arctic-awakening-1849140770)
+ - [Stranger Things actor doesn’t think what happened to Eddie was fair — but it was ‘inspired’](https://www.polygon.com/stranger-things/23191788/eddie-died-stranger-things-4-interview-actor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
