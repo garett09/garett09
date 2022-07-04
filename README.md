@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Games Done Quick Raises Over $3 Million For Charity](https://kotaku.com/sgdq-gdq-agdq-speedrun-pokemon-ocarina-time-zelda-1849139603)
- - [Great moments in PC gaming: Stabbing my cousin in the face in Crusader Kings 3](https://www.pcgamer.com/great-moments-in-pc-gaming-stabbing-my-cousin-in-the-face-in-crusader-kings-3)
- - [Sunbreak expansion nearly doubles Monster Hunter Rise&#39;s Steam player record](https://www.pcgamer.com/sunbreak-expansion-nearly-doubles-monster-hunter-rises-steam-player-record)<!-- GAME:END -->
+ - [The Kingpin RTX 3090 Ti goes on sale with a bundled 1600W PSU](https://www.pcgamer.com/the-kingpin-rtx-3090-ti-goes-on-sale-with-a-bundled-1600w-psu)
+ - [Every Single English-Language SNES Manual Is Now Available Online](https://kotaku.com/snes-super-nintendo-manual-instructions-download-read-1849139755)
+ - [Our Favorite Cosplay From Yeticon 2022](https://kotaku.com/yeticon-2022-cosplay-party-gallery-genshin-anime-1849139703)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
