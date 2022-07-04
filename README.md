@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want to ride this beast](http://9gag.com/gag/awzjpEB)
- - 🚯 [So it begins](http://9gag.com/gag/aKmZMPg)
- - 🚯 [Please just pick a different style](http://9gag.com/gag/aM47LAx)<!-- MEMES:END -->
+ - 🚖 [The `Capital towers` in the center of Moscow are on fire.](http://9gag.com/gag/amgQwg6)
+ - 🚯 [Please just pick a different style](http://9gag.com/gag/aM47LAx)
+ - 🚯 [Cosmic holesome](http://9gag.com/gag/arnE7Od)<!-- MEMES:END -->
 
 --- 
 
