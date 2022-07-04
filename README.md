@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud83d\udc4b\ud83c\udffdHappy Independence Day](http://9gag.com/gag/awzjwMx)
- - 🚯 [Wtf Barcelona](http://9gag.com/gag/aqGM02p)
+ - 🚖 [May we never forget the day San Diego set of 7,000 fireworks at once accidentally](http://9gag.com/gag/arnE6q7)
+ - 🚯 [No values no courtesy](http://9gag.com/gag/aDD9E9x)
  - 🚯 [*judgemental look*](http://9gag.com/gag/adgAmbV)<!-- MEMES:END -->
 
 --- 
