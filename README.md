@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s battle!](http://9gag.com/gag/aM47o8R)
- - 🚯 [I&#39;m in this &amp; I don&#39;t like it](http://9gag.com/gag/azeyWPb)
+ - 🚖 [It was a fun experience though](http://9gag.com/gag/angZmNq)
+ - 🚯 [Break Dance](http://9gag.com/gag/a91wxEK)
  - 🚯 [Feels Bar is open for your Monday blues, grab a drink and tell us what\u2019s bothering you at work.](http://9gag.com/gag/aOQELq6)<!-- MEMES:END -->
 
 --- 
