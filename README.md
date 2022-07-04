@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK](https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub)
- - [The 36 Best Fourth of July Deals on Kitchen Gizmos and Tech](https://www.wired.com/story/fourth-of-july-sales-2022-1/)
- - [Crosby, Stills &amp; Nash return to Spotify after Joe Rogan protest](https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest)<!-- TECH:END -->
+ - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)
+ - [Crypto lender Vauld says it is pausing all withdrawals, trading, and deposits and is exploring restructuring, after customers withdrew $197.7M+ since June 12 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220704/p12#a220704p12)
+ - [How to change the color on an iCloud calendar in iOS 15 and macOS Monterey](https://appleinsider.com/inside/icloud/tips/how-to-change-the-color-on-an-icloud-calendar-in-ios-15-and-macos-monterey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
