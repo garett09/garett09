@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Unknown Indie Games To Wishlist Right Away](https://kotaku.com/indie-games-pc-wishlist-steam-demo-free-coming-soon-1849140280)
- - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)
- - [Crypto hackers take over British Army accounts to shill NFTs](https://www.pcgamer.com/crypto-hackers-take-over-british-army-accounts-to-shill-nfts)<!-- GAME:END -->
+ - [Fortnite star Cented dropped by Faze Clan for using a racist slur on stream](https://www.pcgamer.com/fortnite-star-cented-dropped-by-faze-clan-for-using-a-racist-slur-on-stream)
+ - [The best gaming headsets in 2022](https://www.pcgamer.com/best-gaming-headset)
+ - [A Tiny Glimpse Of Hope For PS3 Emulation On PS5](https://kotaku.com/sony-playstation-ps5-ps5-ps3-emulation-engineer-1849140353)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
