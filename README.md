@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite star Cented dropped by Faze Clan for using a racist slur on stream](https://www.pcgamer.com/fortnite-star-cented-dropped-by-faze-clan-for-using-a-racist-slur-on-stream)
- - [The best gaming headsets in 2022](https://www.pcgamer.com/best-gaming-headset)
- - [A Tiny Glimpse Of Hope For PS3 Emulation On PS5](https://kotaku.com/sony-playstation-ps5-ps5-ps3-emulation-engineer-1849140353)<!-- GAME:END -->
+ - [The great Pokémon card shortage has a solution: 9 billion new cards](https://www.polygon.com/pokemon/23190366/pokemon-card-shortage-production-numbers)
+ - [Elden Ring legend denies retirement, says they&#39;ve soloed Malenia over 2,000 times](https://www.pcgamer.com/elden-ring-legend-denies-retirement-says-theyve-soloed-malenia-over-2000-times)
+ - [The best Raft mods](https://www.pcgamer.com/best-raft-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
