@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take math seriously](http://9gag.com/gag/aM47M4x)
- - 🚯 [Show some love](http://9gag.com/gag/axBKq7W)
- - 🚯 [High-tech shit on pre historic weapons](http://9gag.com/gag/aNPME0v)<!-- MEMES:END -->
+ - 🚖 [Happy Cheesburger Day](http://9gag.com/gag/aGzv4RG)
+ - 🚯 [I want to ride this beast](http://9gag.com/gag/awzjpEB)
+ - 🚯 [Feels Bar is open for your Monday blues, grab a drink and tell us what\u2019s bothering you at work.](http://9gag.com/gag/aOQELq6)<!-- MEMES:END -->
 
 --- 
 
