@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: experts split on the likely evolution of an immersive metaverse by 2040, worry about the dominant platforms building it, and expect more useful AR/MR &lpar;Pew Research Center&rpar;](http://www.techmeme.com/220703/p4#a220703p4)
- - [Now Android users on Twitter can pay to drop the Spaces button too](https://www.theverge.com/2022/7/3/23193650/twitter-blue-android-users-pay-drop-spaces-button)
- - [Best Garden and Seed Delivery Services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-stream-now/#ftag=CAD590a51e)
+ - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Film on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-film-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
