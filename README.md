@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This desk from Costco has gone viral on TikTok and I&#39;m not sure why](https://www.pcgamer.com/costco-tresanti-desk-tiktok-fame)
- - [Someone made Guitar Hero in Overwatch and it&#39;s pretty rad](https://www.pcgamer.com/someone-made-guitar-hero-in-overwatch-and-its-pretty-rad)
- - [I too laughed at this ridiculous SSD tower cooler and now I fear it might augur a super-heated future](https://www.pcgamer.com/i-too-laughed-at-this-ridiculous-ssd-tower-cooler-and-now-i-fear-it-might-augur-a-super-heated-future)<!-- GAME:END -->
+ - [Crypto hackers take over British Army accounts to shill NFTs](https://www.pcgamer.com/crypto-hackers-take-over-british-army-accounts-to-shill-nfts)
+ - [Everything we know about Genshin Impact 2.8](https://www.pcgamer.com/genshin-impact-28-release-date)
+ - [Spelunky 2 speedrunner and world record holder Twiggle dies at 25](https://www.pcgamer.com/spelunky-2-speedrunner-and-world-record-holder-twiggle-dies-at-25)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
