@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
  - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)
- - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
- - [After demand for laptops and other gadgets surged during the pandemic, executives at Intel, Nvidia, Micron, and others suggest demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)<!-- TECH:END -->
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
