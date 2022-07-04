@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Are Trying to Grow Crops in the Dark](https://www.wired.com/story/plants-growing-in-darkness/)
- - [The Worst Hacks and Breaches of 2022 So Far](https://www.wired.com/story/worst-hacks-breaches-2022/)
- - [The Surface Laptop Go 2 Offers Style on a Budget](https://www.wired.com/review/surface-laptop-go-2/)<!-- TECH:END -->
+ - [The annual Sun Valley conference begins on July 6; invitees include Rupert Murdoch, Reed Hastings, Ted Sarandos, Elon Musk, Mark Zuckerberg, and Tim Cook &lpar;Jill Goldsmith/Deadline&rpar;](http://www.techmeme.com/220704/p6#a220704p6)
+ - [Source: Celsius has laid off 150 employees, around a quarter of its staff, after pausing withdrawals on June 13; the lender says it is exploring restructuring &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220704/p5#a220704p5)
+ - [Gamevice for iPhone &amp; iPad review: simulated Nintendo Switch](https://appleinsider.com/articles/22/07/02/gamevice-for-iphone-ipad-review-simulated-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
