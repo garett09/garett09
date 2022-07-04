@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milton Friedman, Nobel prize winner &lpar;1976&rpar; in economics on who creates inflation &lpar;2:58&rpar;](http://9gag.com/gag/aKmZ5OO)
- - 🚯 [Gen 1 &amp; 2 Boomer here... but the new gens ain&#39;t so bad...played until Black and White...](http://9gag.com/gag/a11ggYw)
- - 🚯 [\u200e](http://9gag.com/gag/a11gg1v)<!-- MEMES:END -->
+ - 🚖 [Please just pick a different style](http://9gag.com/gag/aM47LAx)
+ - 🚯 [Thats cheating](http://9gag.com/gag/aYr663q)
+ - 🚯 [Tomorrow Monday again](http://9gag.com/gag/aOQE5VM)<!-- MEMES:END -->
 
 --- 
 
