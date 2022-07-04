@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The `Capital towers` in the center of Moscow are on fire.](http://9gag.com/gag/amgQwg6)
- - 🚯 [Please just pick a different style](http://9gag.com/gag/aM47LAx)
- - 🚯 [Cosmic holesome](http://9gag.com/gag/arnE7Od)<!-- MEMES:END -->
+ - 🚖 [Happy Cheesburger Day](http://9gag.com/gag/aGzv4RG)
+ - 🚯 [Firemen Helping out a Guy like The Heroes they Already Are](http://9gag.com/gag/abgDnM8)
+ - 🚯 [High-tech shit on pre historic weapons](http://9gag.com/gag/aNPME0v)<!-- MEMES:END -->
 
 --- 
 
