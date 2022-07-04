@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robot that launches Lego right under your feet should be banned by Geneva convention](http://9gag.com/gag/abgD8ov)
- - 🚯 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
- - 🚯 [Must be nice](http://9gag.com/gag/angZoL0)<!-- MEMES:END -->
+ - 🚖 [I want to ride this beast](http://9gag.com/gag/awzjpEB)
+ - 🚯 [So it begins](http://9gag.com/gag/aKmZMPg)
+ - 🚯 [Please just pick a different style](http://9gag.com/gag/aM47LAx)<!-- MEMES:END -->
 
 --- 
 
