@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis: NFT sales totaled just over $1B in June 2022, a 12-month low since June 2021 when sales were $648M; sales reached a peak of $12.6B in January 2022 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220704/p2#a220704p2)
- - [A look at national security concerns around modern cars filled with cameras and sensors, as a Chinese town bans Teslas during a communist party conclave &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220704/p1#a220704p1)
- - [&#39;Westworld&#39;: A Simple Guide to What Is Going On Before Season 4     - CNET](https://www.cnet.com/culture/entertainment/westworld-a-simple-guide-to-what-is-going-on-before-season-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Are Trying to Grow Crops in the Dark](https://www.wired.com/story/plants-growing-in-darkness/)
+ - [The Worst Hacks and Breaches of 2022 So Far](https://www.wired.com/story/worst-hacks-breaches-2022/)
+ - [The Surface Laptop Go 2 Offers Style on a Budget](https://www.wired.com/review/surface-laptop-go-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
