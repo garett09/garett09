@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This vault of SNES manuals is an amazing resource for fans of gaming history](https://www.theverge.com/2022/7/4/23194549/snes-super-nintendo-game-manuals-archive-peebs)
  - [Compared: Rumored 47mm Apple Watch Series 8 size versus Series 7](https://appleinsider.com/articles/22/07/04/compared-rumored-47mm-apple-watch-series-8-size-versus-series-7?utm_medium=rss)
- - [Amazon expands Prime Video’s Watch Party feature to Roku, smart TVs, and more](https://www.theverge.com/2022/7/4/23194474/amazon-prime-video-watch-party-roku-smart-tv-xbox-playstation)
- - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
