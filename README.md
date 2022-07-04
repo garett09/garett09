@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hilarious &#39;Web 3 Console&#39; Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
  - [Co-op mod Skyrim Together Reborn gets a release date](https://www.pcgamer.com/co-op-mod-skyrim-together-reborn-gets-a-release-date)
- - [AMD needs to release a Ryzen 5 5600X3D](https://www.pcgamer.com/amd-needs-to-release-a-ryzen-5-5600x3d)
- - [Razer acquires software haptics company to boost HyperSense](https://www.pcgamer.com/razer-acquires-software-haptics-company-to-boost-hypersense)<!-- GAME:END -->
+ - [AMD needs to release a Ryzen 5 5600X3D](https://www.pcgamer.com/amd-needs-to-release-a-ryzen-5-5600x3d)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
