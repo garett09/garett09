@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want to ride this beast](http://9gag.com/gag/awzjpEB)
+ - 🚖 [Take math seriously](http://9gag.com/gag/aM47M4x)
  - 🚯 [This is rock and roll in nature](http://9gag.com/gag/aM47MzV)
  - 🚯 [Feels Bar is open for your Monday blues, grab a drink and tell us what\u2019s bothering you at work.](http://9gag.com/gag/aOQELq6)<!-- MEMES:END -->
 
