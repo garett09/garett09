@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crosby, Stills &amp; Nash return to Spotify after Joe Rogan protest](https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest)
- - [Best MacBook Air case for M1 models](https://appleinsider.com/inside/macbook-air/best/best-macbook-air-case-for-m1-models?utm_medium=rss)
- - [Display leak suggests Apple Watch Series 8 may have 47mm size](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK](https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub)
+ - [The 36 Best Fourth of July Deals on Kitchen Gizmos and Tech](https://www.wired.com/story/fourth-of-july-sales-2022-1/)
+ - [Crosby, Stills &amp; Nash return to Spotify after Joe Rogan protest](https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
