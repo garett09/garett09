@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla can now scan for potholes and adjust vehicle suspension to avoid damage](https://www.theverge.com/2022/7/4/23194285/tesla-pothole-automatic-suspension-adjust-software)
- - [How to back up and delete your Apple Health data](https://appleinsider.com/inside/ios-15/tips/how-to-back-up-and-delete-your-apple-health-data?utm_medium=rss)
- - [Chevrolet&#39;s first NFT auction, an original artwork accompanied by a unique green 2023 Corvette Z06, received zero bids, as the price of ether fluctuated wildly &lpar;Keith Cornett/CorvetteBlogger.com&rpar;](http://www.techmeme.com/220704/p10#a220704p10)<!-- TECH:END -->
+ - [Crosby, Stills &amp; Nash return to Spotify after Joe Rogan protest](https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest)
+ - [Best MacBook Air case for M1 models](https://appleinsider.com/inside/macbook-air/best/best-macbook-air-case-for-m1-models?utm_medium=rss)
+ - [Display leak suggests Apple Watch Series 8 may have 47mm size](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
