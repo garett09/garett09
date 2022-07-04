@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 may feature 50.5mm display](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)
- - [Legal experts say a Japanese antitrust court ruling could have wider implications, including forcing large tech platforms to open up their algorithms &lpar;Financial Times&rpar;](http://www.techmeme.com/220704/p8#a220704p8)
- - [Formula One driver survives horrific crash thanks to halo cockpit requirement](https://www.theverge.com/2022/7/4/23194215/formula-one-zhou-guanyu-halo-crash-survive)<!-- TECH:END -->
+ - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)
+ - [How iPad will act as a Home Hub in iOS 16 and more on HomeKit Insider](https://appleinsider.com/articles/22/07/04/how-ipad-will-act-as-a-home-hub-in-ios-16-and-more-on-homekit-insider?utm_medium=rss)
+ - [Daily deals July 4: Up to $50 off 10.2-inch iPad, $297 LG 32-inch UHD monitor, $162 Bose SoundLink, more](https://appleinsider.com/articles/22/07/04/daily-deals-july-4-up-to-50-off-102-inch-ipad-297-lg-32-inch-uhd-monitor-162-bose-soundlink-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
