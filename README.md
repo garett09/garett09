@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What?](http://9gag.com/gag/aVxr5PM)
- - 🚯 [Milton Friedman, Nobel prize winner &lpar;1976&rpar; in economics on who creates inflation &lpar;2:58&rpar;](http://9gag.com/gag/aKmZ5OO)
- - 🚯 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)<!-- MEMES:END -->
+ - 🚖 [Robot that launches Lego right under your feet should be banned by Geneva convention](http://9gag.com/gag/abgD8ov)
+ - 🚯 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
+ - 🚯 [Must be nice](http://9gag.com/gag/angZoL0)<!-- MEMES:END -->
 
 --- 
 
