@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This vault of SNES manuals is an amazing resource for fans of gaming history](https://www.theverge.com/2022/7/4/23194549/snes-super-nintendo-game-manuals-archive-peebs)
- - [Compared: Rumored 47mm Apple Watch Series 8 size versus Series 7](https://appleinsider.com/articles/22/07/04/compared-rumored-47mm-apple-watch-series-8-size-versus-series-7?utm_medium=rss)
- - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
+ - [After demand for laptops and other gadgets surged during the pandemic, executives at Intel, Nvidia, Micron, and others suggest demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
