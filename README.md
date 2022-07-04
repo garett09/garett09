@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
- - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)
- - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google releases a Chrome update for Windows to address a high-severity zero-day vulnerability exploited in the wild, its fourth Chrome zero-day patch in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220704/p14#a220704p14)
+ - [Westworld Season 4, Episode 2 Recap: Meet Delos&#39; Newest Theme Park     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-2-recap-meet-delos-newest-theme-park/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39; Season 4 Ending Explained: Easter Eggs and Full Recap     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-easter-eggs-and-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
