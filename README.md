@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok abandons plans to expand its TikTok Shop live e-commerce tools to Europe and the US, following internal problems and a lack of traction &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220705/p5#a220705p5)
- - [Sources: Sequoia Capital China is about to raise $9B for four new funds, above its $8B+ target, the largest amount raised by a single China-focused VC firm &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/220705/p4#a220705p4)
- - [The megadrought gripping the US West is increasing the scrutiny of water use by hyperscale data centers &lpar;Lisa Martine Jenkins/Protocol&rpar;](http://www.techmeme.com/220705/p3#a220705p3)<!-- TECH:END -->
+ - [FIFA will track players’ bodies using AI to make offside calls at 2022 World Cup](https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup)
+ - [EU forces Amazon to make it easier to cancel Prime subscriptions in Europe](https://www.theverge.com/2022/7/5/23195019/amazon-prime-cancellation-europe-european-union-dark-patterns)
+ - [Dubai-based digital bank YAP has raised $41M as part of a Series A, and says it plans to expand into Saudi Arabia, Egypt, Pakistan, and Ghana &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/220705/p8#a220705p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
