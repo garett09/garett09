@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi, where is he!](http://9gag.com/gag/a61gvx9)
- - 🚯 [I have concluded one very old dream of mine and finally was able to photograph another galaxy, right from my backyard. The target is M51, a collision of two galaxies. This was achieved with a 10\u201d SkyWatcher telescope and a DSLR camera.](http://9gag.com/gag/aogobKg)
+ - 🚖 [Op\u2019s do you agree?](http://9gag.com/gag/a91w3Mo)
+ - 🚯 [One of the funniest movie scenes ever](http://9gag.com/gag/a61gv2A)
  - 🚯 [Praise The Sun](http://9gag.com/gag/aVxrG7P)<!-- MEMES:END -->
 
 --- 
