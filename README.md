@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you don\u2019t throw in your buck o\u2019 five who will?](http://9gag.com/gag/ay9ryvM)
- - 🚯 [Op\u2019s do you agree?](http://9gag.com/gag/a91w3Mo)
- - 🚯 [Homeless Man Called A Bum Will Change Your PERSPECTIVE](http://9gag.com/gag/aDD9pgB)<!-- MEMES:END -->
+ - 🚖 [Some Bulba love](http://9gag.com/gag/aDD9BvK)
+ - 🚯 [Certainly](http://9gag.com/gag/aLv56Kv)
+ - 🚯 [Praise The Sun](http://9gag.com/gag/aVxrG7P)<!-- MEMES:END -->
 
 --- 
 
