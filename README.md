@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)
- - 🚯 [Accomplishments](http://9gag.com/gag/aOQ5o06)
- - 🚯 [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)<!-- MEMES:END -->
+ - 🚖 [So Hobbits are genX](http://9gag.com/gag/aBn5RVD)
+ - 🚯 [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)
+ - 🚯 [Ah yes good old days](http://9gag.com/gag/arnw1YK)<!-- MEMES:END -->
 
 --- 
 
