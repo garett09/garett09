@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some Bulba love](http://9gag.com/gag/aDD9BvK)
- - 🚯 [Driving 50 mph and firing a soccer ball out of a cannon at 50 mph, completely canceling its momentum.](http://9gag.com/gag/a71gj8L)
- - 🚯 [Satisfied](http://9gag.com/gag/aWg5BEA)<!-- MEMES:END -->
+ - 🚖 [Science](http://9gag.com/gag/abgw348)
+ - 🚯 [Certainly](http://9gag.com/gag/aLv56Kv)
+ - 🚯 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)<!-- MEMES:END -->
 
 --- 
 
