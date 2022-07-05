@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds fifth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/07/05/apple-seeds-fifth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
- - [Moderate Apple hardware lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
- - [Twitter is struggling with India’s tightening rules for online speech](https://www.theverge.com/2022/7/5/23195275/twitter-india-speech-law-modi-court-challenge)<!-- TECH:END -->
+ - [Core Scientific, a top bitcoin miner responsible for nearly 10% of the network&#39;s hash rate, sold 7,202 mined BTC for $167M in June and now holds 1,959 BTC &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/220705/p22#a220705p22)
+ - [Apple issues fifth macOS Monterey 12.5 beta to developers](https://appleinsider.com/articles/22/07/05/apple-issues-fifth-macos-monterey-125-beta-to-developers?utm_medium=rss)
+ - [The EU just pummeled Big Tech again: Here are the newest rules](https://www.androidauthority.com/digital-services-act-3183440/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
