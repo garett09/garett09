@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this story about the guy behind RadioShack’s insane, sex-crazed Twitter account](https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock)
- - [Apple iPhone 14 Release Date: What We Know So Far     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-release-date-what-we-know-so-far/#ftag=CAD590a51e)
- - [HTC quietly announced a new Android tablet — and nobody noticed](https://www.theverge.com/2022/7/5/23195248/htc-android-tablet-a101-africa)<!-- TECH:END -->
+ - [Apple seeds fifth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/07/05/apple-seeds-fifth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Moderate Apple hardware lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
+ - [Twitter is struggling with India’s tightening rules for online speech](https://www.theverge.com/2022/7/5/23195275/twitter-india-speech-law-modi-court-challenge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
