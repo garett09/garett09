@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi, where is he!](http://9gag.com/gag/a61gvx9)
+ - 🚖 [The rarely seen Snow Leopard, captured on a camera trap](http://9gag.com/gag/aLvoyAg)
  - 🚯 [Just an observation from the older people here](http://9gag.com/gag/aegzo9Q)
- - 🚯 [..And you&#39;re an introvert so can&#39;t do anything](http://9gag.com/gag/aAGAj9p)<!-- MEMES:END -->
+ - 🚯 [Oi, where is he!](http://9gag.com/gag/a61gvx9)<!-- MEMES:END -->
 
 --- 
 
