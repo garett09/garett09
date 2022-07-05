@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the](http://9gag.com/gag/azewgbK)
- - 🚯 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
+ - 🚖 [Competition.](http://9gag.com/gag/amgwXm2)
+ - 🚯 [Best of both worlds.](http://9gag.com/gag/aogwmr2)
  - 🚯 [This dog](http://9gag.com/gag/a616mgR)<!-- MEMES:END -->
 
 --- 
