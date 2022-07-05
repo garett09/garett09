@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Noclipping is no joke: the strange world of The Backrooms explained](https://www.pcgamer.com/noclipping-is-no-joke-the-strange-world-of-the-backrooms-explained)
- - [Players’ Choice: Vote for June 2022’s best new game](https://blog.playstation.com/2022/07/05/players-choice-vote-for-june-2022s-best-new-game/)
- - [Players’ Choice: Vote for June 2022’s best new game](https://blog.playstation.com/2022/07/05/players-choice-vote-for-june-2022s-best-new-game/)<!-- GAME:END -->
+ - [Game Pass Is Now Officially A Revolving Door For Big Games](https://kotaku.com/xbox-game-pass-july-2022-yakuza-0-kiwami-2-1849142256)
+ - [Celebrate Disability Pride, Uplift Gaming and Disability Communities and Creators with Team Xbox](https://news.xbox.com/en-us/2022/07/05/team-xbox-celebrates-disability-pride/)
+ - [Solo Leveling anime trailer reveals 2023 release date](https://www.polygon.com/23193750/solo-leveling-anime-trailer-release-date-2023-crunchyroll)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
