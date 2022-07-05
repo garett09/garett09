@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [May we never forget the day San Diego set of 7,000 fireworks at once accidentally](http://9gag.com/gag/arnE6q7)
- - 🚯 [No values no courtesy](http://9gag.com/gag/aDD9E9x)
- - 🚯 [*judgemental look*](http://9gag.com/gag/adgAmbV)<!-- MEMES:END -->
+ - 🚖 [Oi, where is he!](http://9gag.com/gag/a61gvx9)
+ - 🚯 [Just an observation from the older people here](http://9gag.com/gag/aegzo9Q)
+ - 🚯 [..And you&#39;re an introvert so can&#39;t do anything](http://9gag.com/gag/aAGAj9p)<!-- MEMES:END -->
 
 --- 
 
