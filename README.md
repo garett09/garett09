@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is reportedly giving up on its live shopping plans in the US and Europe](https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us)
- - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
- - [Xbox input lag for Apex Legends is finally fixed, two weeks later](https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea)<!-- TECH:END -->
+ - [Apple releases new firmware update for redesigned Siri Remote](https://appleinsider.com/articles/22/07/05/apple-releases-new-firmware-update-for-redesigned-siri-remote?utm_medium=rss)
+ - [Stranger Things 4 just became the second Netflix show to hit 1 billion hours viewed](https://www.theverge.com/2022/7/5/23195675/stranger-things-4-popularity-netflix-billion-hours)
+ - [Best Cheap True-Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
