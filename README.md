@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The megadrought gripping the US West is increasing the scrutiny of water use by hyperscale data centers &lpar;Lisa Martine Jenkins/Protocol&rpar;](http://www.techmeme.com/220705/p3#a220705p3)
- - [Report: VC funding into Indian startups was $6.9B in Q2, down from $11B in Q1; VC investments in H1 were $17.9B, up 36% YoY &lpar;The Economic Times&rpar;](http://www.techmeme.com/220705/p2#a220705p2)
- - [CoinGecko: daily trading volumes at Indian crypto exchanges ZebPay, WazirX, CoinDCX have dropped 60%-87% after the 1% transaction tax became effective on July 1 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220705/p1#a220705p1)<!-- TECH:END -->
+ - [Sources: TikTok abandons plans to expand its TikTok Shop live e-commerce tools to Europe and the US, following internal problems and a lack of traction &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220705/p5#a220705p5)
+ - [Sources: Sequoia Capital China is about to raise $9B for four new funds, above its $8B+ target, the largest amount raised by a single China-focused VC firm &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/220705/p4#a220705p4)
+ - [The megadrought gripping the US West is increasing the scrutiny of water use by hyperscale data centers &lpar;Lisa Martine Jenkins/Protocol&rpar;](http://www.techmeme.com/220705/p3#a220705p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
