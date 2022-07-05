@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
- - 🚯 [The 90&#39;s was an awesome time. Less surveillance, no Twitter, and more hand drawn anime.](http://9gag.com/gag/aLv56OM)
+ - 🚖 [When the](http://9gag.com/gag/azewgbK)
+ - 🚯 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
  - 🚯 [This dog](http://9gag.com/gag/a616mgR)<!-- MEMES:END -->
 
 --- 
