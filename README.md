@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lollipop Chainsaw is getting a remake next year](https://www.pcgamer.com/lollipop-chainsaw-is-getting-a-remake-next-year)
  - [Today&#39;s Wordle answer #381: Tuesday, July 5](https://www.pcgamer.com/wordle-today-july-5-381-answer-hint)
- - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)<!-- GAME:END -->
+ - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)
+ - [The Raspberry Pi Pico W brings wireless functionality to this tiny computer](https://www.pcgamer.com/the-raspberry-pi-pico-w-brings-wireless-functionality-to-this-tiny-computer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
