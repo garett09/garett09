@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Core Scientific, a top bitcoin miner responsible for nearly 10% of the network&#39;s hash rate, sold 7,202 mined BTC for $167M in June and now holds 1,959 BTC &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/220705/p22#a220705p22)
- - [Apple issues fifth macOS Monterey 12.5 beta to developers](https://appleinsider.com/articles/22/07/05/apple-issues-fifth-macos-monterey-125-beta-to-developers?utm_medium=rss)
- - [The EU just pummeled Big Tech again: Here are the newest rules](https://www.androidauthority.com/digital-services-act-3183440/)<!-- TECH:END -->
+ - [TikTok is reportedly giving up on its live shopping plans in the US and Europe](https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us)
+ - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
+ - [Xbox input lag for Apex Legends is finally fixed, two weeks later](https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
