@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus could take the Poco approach, make Nord an independent brand](https://www.androidauthority.com/oneplus-nord-sub-brand-independent-3183272/)
- - [End-to-End Encryption&#39;s Central Role in Modern Self-Defense](https://www.wired.com/story/end-to-end-encryption-abortion-privacy/)
- - [Genetic Screening Now Lets Parents Pick the Healthiest Embryos](https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/)<!-- TECH:END -->
+ - [Digital ad and linear TV ad spending by the top crypto advertisers in the US plummeted in the last few months amid a sharp decline in crypto markets &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/220705/p16#a220705p16)
+ - [EU lawmakers agree to new antitrust &amp; competition laws focused on big tech](https://appleinsider.com/articles/22/07/05/eu-lawmakers-agree-to-new-antitrust-competition-laws-focused-on-big-tech?utm_medium=rss)
+ - [French music streamer Deezer goes public via SPAC on the Euronext stock exchange, opening at &amp;euro;8.50/share before dropping ~27% to around &amp;euro;6.50 &lpar;Reuters&rpar;](http://www.techmeme.com/220705/p15#a220705p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
