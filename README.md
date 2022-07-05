@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slow motion art](http://9gag.com/gag/a910MYZ)
- - 🚯 [Something went wrong at CERN today](http://9gag.com/gag/aogwZ4w)
- - 🚯 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)<!-- MEMES:END -->
+ - 🚖 [Very interesting ballet performance](http://9gag.com/gag/a71X5pz)
+ - 🚯 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
+ - 🚯 [RIP](http://9gag.com/gag/aggw3nn)<!-- MEMES:END -->
 
 --- 
 
