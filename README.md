@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Science](http://9gag.com/gag/abgw348)
- - 🚯 [Certainly](http://9gag.com/gag/aLv56Kv)
- - 🚯 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)<!-- MEMES:END -->
+ - 🚖 [Every five years Amsterdam welcomes scores of tall ships and hundreds of other historical ships from all over the world for the greatest nautical spectacle in the world called Sail Amsterdam.](http://9gag.com/gag/a11jpKG)
+ - 🚯 [Snacker](http://9gag.com/gag/aBnzD5D)
+ - 🚯 [Science](http://9gag.com/gag/abgw348)<!-- MEMES:END -->
 
 --- 
 
