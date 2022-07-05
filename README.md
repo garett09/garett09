@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So Hobbits are genX](http://9gag.com/gag/aBn5RVD)
- - 🚯 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
- - 🚯 [I would marry her](http://9gag.com/gag/aAG5Rn0)<!-- MEMES:END -->
+ - 🚖 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
+ - 🚯 [The 90&#39;s was an awesome time. Less surveillance, no Twitter, and more hand drawn anime.](http://9gag.com/gag/aLv56OM)
+ - 🚯 [This dog](http://9gag.com/gag/a616mgR)<!-- MEMES:END -->
 
 --- 
 
