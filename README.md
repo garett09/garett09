@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft is trying to save Anno 2070 from Ubisoft](https://www.pcgamer.com/ubisoft-is-trying-to-save-anno-2070-from-ubisoft)
- - [Metal Gear Speedrunner Reveals He Faked ‘Live’ World Record, Claims It’s A ‘Puzzle’](https://kotaku.com/metal-gear-rising-revengeance-sgdq-2022-speedrun-fake-1849144004)
- - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)<!-- GAME:END -->
+ - [Speedrunner banned from charity event after faking world-record Metal Gear run](https://www.pcgamer.com/speedrunner-banned-from-charity-event-after-faking-world-record-metal-gear-run)
+ - [Rockstar reportedly halts Red Dead Redemption remaster because of GTA Trilogy mess](https://www.pcgamer.com/rockstar-reportedly-halts-red-dead-redemption-remaster-because-of-gta-trilogy-mess)
+ - [Ubisoft is trying to save Anno 2070 from Ubisoft](https://www.pcgamer.com/ubisoft-is-trying-to-save-anno-2070-from-ubisoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
