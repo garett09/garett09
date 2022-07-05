@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lollipop Chainsaw Is Revving Up For A Remake In 2023](https://kotaku.com/lollipop-chainsaw-remake-suda51-dragami-yoshimi-yasuda-1849142602)
- - [Razer Key Light Chroma](https://www.pcgamer.com/razer-key-light-chroma-review)
- - [Raft sand guide: How to get this resource](https://www.pcgamer.com/raft-sand-how-to-get)<!-- GAME:END -->
+ - [PowerWash Simulator is Ready to Clean Up with Game Pass](https://news.xbox.com/en-us/2022/07/05/powerwash-simulator-is-here-to-clean-up-with-game-pass/)
+ - [What you need to remember before watching Thor: Love and Thunder](https://www.polygon.com/23189669/thor-love-and-thunder-what-to-watch-remember)
+ - [Red Dead Redemption, GTA IV Remasters Shelved After GTA Trilogy Debacle](https://kotaku.com/gta-iv-remastered-red-dead-redemption-canceled-rockstar-1849142371)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
