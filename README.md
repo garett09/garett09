@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital ad and linear TV ad spending by the top crypto advertisers in the US plummeted in the last few months amid a sharp decline in crypto markets &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/220705/p16#a220705p16)
- - [EU lawmakers agree to new antitrust &amp; competition laws focused on big tech](https://appleinsider.com/articles/22/07/05/eu-lawmakers-agree-to-new-antitrust-competition-laws-focused-on-big-tech?utm_medium=rss)
- - [French music streamer Deezer goes public via SPAC on the Euronext stock exchange, opening at &amp;euro;8.50/share before dropping ~27% to around &amp;euro;6.50 &lpar;Reuters&rpar;](http://www.techmeme.com/220705/p15#a220705p15)<!-- TECH:END -->
+ - [Asus launches the ROG Phone 6 and 6 Pro to bring even more gaming power to Android](https://www.theverge.com/2022/7/5/23195128/asus-rog-phone-6-pro-gaming-phone-launch-specs-features-price)
+ - [Daily deals July 5: $120 AirPods, $290 Dell 32-inch Curved Monitor, $300 Klipsch Speakers, more](https://appleinsider.com/articles/22/07/05/daily-deals-july-5-120-airpods-290-dell-32-inch-curved-monitor-300-klipsch-speakers-more?utm_medium=rss)
+ - [Apple is preparing three new M2 Macs](https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
