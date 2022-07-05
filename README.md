@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases a Chrome update for Windows to address a high-severity zero-day vulnerability exploited in the wild, its fourth Chrome zero-day patch in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220704/p14#a220704p14)
- - [Westworld Season 4, Episode 2 Recap: Meet Delos&#39; Newest Theme Park     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-2-recap-meet-delos-newest-theme-park/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39; Season 4 Ending Explained: Easter Eggs and Full Recap     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-easter-eggs-and-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-tonight/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [YouTube, Instagram, Discord appear to pull pages belonging to Illinois shooting person of interest](https://www.theverge.com/2022/7/4/23194750/youtube-discord-instagram-chicago-shooting-ban-robert-crimo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
