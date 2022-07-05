@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very interesting ballet performance](http://9gag.com/gag/a71X5pz)
- - 🚯 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
- - 🚯 [RIP](http://9gag.com/gag/aggw3nn)<!-- MEMES:END -->
+ - 🚖 [Why i am wasting my life ?](http://9gag.com/gag/aegw3Wb)
+ - 🚯 [Ave!](http://9gag.com/gag/angwXAL)
+ - 🚯 [Slow motion art](http://9gag.com/gag/a910MYZ)<!-- MEMES:END -->
 
 --- 
 
