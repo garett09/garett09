@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Is Now Officially A Revolving Door For Big Games](https://kotaku.com/xbox-game-pass-july-2022-yakuza-0-kiwami-2-1849142256)
- - [Celebrate Disability Pride, Uplift Gaming and Disability Communities and Creators with Team Xbox](https://news.xbox.com/en-us/2022/07/05/team-xbox-celebrates-disability-pride/)
- - [Solo Leveling anime trailer reveals 2023 release date](https://www.polygon.com/23193750/solo-leveling-anime-trailer-release-date-2023-crunchyroll)<!-- GAME:END -->
+ - [Lollipop Chainsaw Is Revving Up For A Remake In 2023](https://kotaku.com/lollipop-chainsaw-remake-suda51-dragami-yoshimi-yasuda-1849142602)
+ - [Razer Key Light Chroma](https://www.pcgamer.com/razer-key-light-chroma-review)
+ - [Raft sand guide: How to get this resource](https://www.pcgamer.com/raft-sand-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
