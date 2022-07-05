@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #381: Tuesday, July 5](https://www.pcgamer.com/wordle-today-july-5-381-answer-hint)
- - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)
- - [The Raspberry Pi Pico W brings wireless functionality to this tiny computer](https://www.pcgamer.com/the-raspberry-pi-pico-w-brings-wireless-functionality-to-this-tiny-computer)<!-- GAME:END -->
+ - [Overwatch 2&#39;s latest hero is an overdesigned mess](https://www.pcgamer.com/overwatch-2s-latest-hero-is-an-overdesigned-mess)
+ - [Everything we know about Stranger Things 5](https://www.polygon.com/23191823/everything-we-know-stranger-things-5)
+ - [Stranger Things will have shorter episodes in its final season](https://www.polygon.com/stranger-things/23195085/stranger-things-season-5-length-shorter-episodes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
