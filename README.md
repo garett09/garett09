@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$10 Bundle Includes Hundreds Of Games, Helps Fund Access To Abortion](https://kotaku.com/roe-v-wade-donation-abortion-itch-io-bundle-free-games-1849144829)
- - [Every Big Reveal Announced At Anime Expo 2022](https://kotaku.com/bleach-trigun-stampede-panty-stocking-anime-expo-1849144771)
- - [To bring attention to climate change, Ubisoft will burn down virtual forests](https://www.pcgamer.com/to-bring-attention-to-climate-change-ubisoft-will-burn-down-virtual-forests)<!-- GAME:END -->
+ - [Nobody thinks buying billboards to promote this NSFW Final Fantasy 14 nightclub was a good idea](https://www.pcgamer.com/nobody-thinks-buying-billboards-to-promote-this-nsfw-final-fantasy-14-nightclub-was-a-good-idea)
+ - [History&#39;s weirdest shotgun is coming to a videogame near you](https://www.pcgamer.com/historys-weirdest-shotgun-is-coming-to-a-videogame-near-you)
+ - [Why Last Call BBS is the last call for indie studio Zachtronics](https://www.pcgamer.com/why-last-call-bbs-is-the-last-call-for-indie-studio-zachtronics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
