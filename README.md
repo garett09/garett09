@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Why i am wasting my life ?](http://9gag.com/gag/aegw3Wb)
- - 🚯 [Ave!](http://9gag.com/gag/angwXAL)
- - 🚯 [Slow motion art](http://9gag.com/gag/a910MYZ)<!-- MEMES:END -->
+ - 🚯 [Slow motion art](http://9gag.com/gag/a910MYZ)
+ - 🚯 [A gentleman](http://9gag.com/gag/aRrdQqy)<!-- MEMES:END -->
 
 --- 
 
