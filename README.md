@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Everyone’s Suddenly Obsessed With A Two-Year-Old Game About Action Figures](https://kotaku.com/hypercharge-xbox-release-date-switch-steam-pc-1849143675)
- - [The best gaming routers in 2022](https://www.pcgamer.com/best-gaming-routers)
- - [After a year of silence, Ubisoft might finally tell us about its big games](https://www.pcgamer.com/after-a-year-of-silence-ubisoft-might-finally-tell-us-about-its-big-games)<!-- GAME:END -->
+ - [Ubisoft is trying to save Anno 2070 from Ubisoft](https://www.pcgamer.com/ubisoft-is-trying-to-save-anno-2070-from-ubisoft)
+ - [Metal Gear Speedrunner Reveals He Faked ‘Live’ World Record, Claims It’s A ‘Puzzle’](https://kotaku.com/metal-gear-rising-revengeance-sgdq-2022-speedrun-fake-1849144004)
+ - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
