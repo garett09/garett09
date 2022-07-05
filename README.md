@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Science](http://9gag.com/gag/abgw348)
- - 🚯 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
- - 🚯 [He is a 10](http://9gag.com/gag/abgw39X)<!-- MEMES:END -->
+ - 🚖 [Japan needs you fellow young male.](http://9gag.com/gag/a0Zgmxz)
+ - 🚯 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)
+ - 🚯 [Happy 60th Birthday to this Legend](http://9gag.com/gag/a81OLWp)<!-- MEMES:END -->
 
 --- 
 
