@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher Devs Announce New Single-Player Gwent Roguelike, Out Tomorrow](https://kotaku.com/witcher-3-wild-hunt-gwent-cdpr-roguelike-rogue-mage-1849147823)
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
- - [How to complete Brother Corhyn&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-brother-corhyn-quest-goldmask-location)<!-- GAME:END -->
+ - [Tom Clancy’s The Division goes mobile with its next game](https://www.polygon.com/23197037/tom-clancys-the-division-mobile-game-resurgence-release-date-free-to-play)
+ - [Rocket League Celebrates Seven Years of Soccar with the Birthday Ball Event](https://news.xbox.com/en-us/2022/07/06/rocket-league-celebrates-seven-years-of-soccar-with-the-birthday-ball-event/)
+ - [Write for PC Gamer](https://www.pcgamer.com/write-for-pc-gamer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
