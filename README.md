@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voyager Digital files for Chapter 11 bankruptcy, estimating it has 100K+ creditors and $1B-$10B in assets; Bankman-Fried&#39;s Alameda Research is its main creditor &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/220706/p25#a220706p25)
- - [GameStop Plans 4-for-1 Stock Split     - CNET](https://www.cnet.com/personal-finance/investing/stock-market/gamestop-plans-4-for-1-stock-split/#ftag=CAD590a51e)
- - [The gang’s all back in Clerks III’s first trailer](https://www.theverge.com/2022/7/6/23196973/the-gangs-all-back-in-clerks-3-first-trailer-kevin-smith)<!-- TECH:END -->
+ - [Blizzard will bring back BlizzCon in 2023](https://www.theverge.com/2022/7/6/23197449/blizzcon-2023-blizzard-return-mike-ybarra)
+ - [Seattle-based Flexe, which provides software that allows retailers to optimize their supply chains, raised a $119M Series D at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220706/p27#a220706p27)
+ - [A look at the decline of Yandex, which has been pushing Russian propaganda thanks to new laws and sank in value from $31B+ in 2021 to &lt;$7B after the invasion &lpar;Neil MacFarquhar/New York Times&rpar;](http://www.techmeme.com/220706/p26#a220706p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
