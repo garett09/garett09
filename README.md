@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s go](http://9gag.com/gag/awz2xdx)
- - 🚯 [True Skyrim Enjoyer](http://9gag.com/gag/amgwz5v)
+ - 🚖 [I&#39;m a He/His white privileged cis](http://9gag.com/gag/adgwXm2)
+ - 🚯 [++ inflation](http://9gag.com/gag/amgwrov)
  - 🚯 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
 
 --- 
