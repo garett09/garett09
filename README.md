@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GTA V modder we just wrote about has been slapped with a DMCA takedown](https://www.theverge.com/2022/7/6/23197169/luke-ross-vr-dmca-takedown-take-two-rockstar-patreon)
- - [Crypto exchange Bitstamp cancels plans to charge a monthly &amp;euro;10 fee for inactive non-US accounts, five days after announcing them &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220706/p22#a220706p22)
- - [Best Home Exercise Equipment for 2022     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Voyager Digital files for Chapter 11 bankruptcy, estimating it has 100K+ creditors and $1B-$10B in assets; Bankman-Fried&#39;s Alameda Research is its main creditor &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/220706/p25#a220706p25)
+ - [GameStop Plans 4-for-1 Stock Split     - CNET](https://www.cnet.com/personal-finance/investing/stock-market/gamestop-plans-4-for-1-stock-split/#ftag=CAD590a51e)
+ - [The gang’s all back in Clerks III’s first trailer](https://www.theverge.com/2022/7/6/23196973/the-gangs-all-back-in-clerks-3-first-trailer-kevin-smith)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
