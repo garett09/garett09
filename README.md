@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 Special Edition Switch Looks Gorgeously Subtle](https://kotaku.com/splatoon-3-special-edition-nintendo-switch-oled-1849147375)
- - [The Lord of the Rings: The Rings of Power’s new teaser shows more of Middle-earth](https://www.polygon.com/23196692/lord-of-the-rings-rings-of-power-new-trailer-amazon-prime)
- - [The Crew 2 Season 6 Episode 1 Out Now, Free Week July 7-13](https://news.xbox.com/en-us/2022/07/06/the-crew-2-season-6-episode-1-out-now-free-week-july-7-13/)<!-- GAME:END -->
+ - [Witcher Devs Announce New Single-Player Gwent Roguelike, Out Tomorrow](https://kotaku.com/witcher-3-wild-hunt-gwent-cdpr-roguelike-rogue-mage-1849147823)
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
+ - [How to complete Brother Corhyn&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-brother-corhyn-quest-goldmask-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
