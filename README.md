@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)
+ - 🚖 [Let&#39;s go](http://9gag.com/gag/awz2xdx)
  - 🚯 [True Skyrim Enjoyer](http://9gag.com/gag/amgwz5v)
- - 🚯 [Let&#39;s go](http://9gag.com/gag/awz2xdx)<!-- MEMES:END -->
+ - 🚯 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
 
 --- 
 
