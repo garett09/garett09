@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
- - [DNF Duel review](https://www.pcgamer.com/dnf-duel-review)
- - [Pi-powered Cyberdecks are the retro futuristic PCs of our dreams](https://www.pcgamer.com/pi-powered-cyberdecks-are-the-retro-futuristic-pcs-of-our-dreams)<!-- GAME:END -->
+ - [Splatoon 3 is getting its own stylish new Nintendo Switch in August](https://www.polygon.com/23196555/new-nintendo-switch-oled-model-splatoon-3-release-date-price)
+ - [God Of War Ragnarök Release Date Finally Confirmed](https://kotaku.com/god-of-war-ragnarok-santa-monica-studio-sony-ps5-1849146462)
+ - [God of War Ragnarok launches in November, watch the new trailer](https://www.polygon.com/23068988/god-of-war-ragnarok-release-date-ps5-ps4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
