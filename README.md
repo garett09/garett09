@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another day in Brasil](http://9gag.com/gag/avAwnmE)
- - 🚯 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
- - 🚯 [F*ck the new world order.](http://9gag.com/gag/aLv5M5V)<!-- MEMES:END -->
+ - 🚖 [F*ck the new world order.](http://9gag.com/gag/aLv5M5V)
+ - 🚯 [Perfection and a lot of free time.](http://9gag.com/gag/aOQ5zRy)
+ - 🚯 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)<!-- MEMES:END -->
 
 --- 
 
