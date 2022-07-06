@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Clancy’s The Division goes mobile with its next game](https://www.polygon.com/23197037/tom-clancys-the-division-mobile-game-resurgence-release-date-free-to-play)
- - [Rocket League Celebrates Seven Years of Soccar with the Birthday Ball Event](https://news.xbox.com/en-us/2022/07/06/rocket-league-celebrates-seven-years-of-soccar-with-the-birthday-ball-event/)
- - [Write for PC Gamer](https://www.pcgamer.com/write-for-pc-gamer)<!-- GAME:END -->
+ - [Tools to help play tabletop games online with the squad](https://www.polygon.com/23156407/tabletop-gaming-online-tools-suggestions-maps-systems)
+ - [Out with the old board games, in with the new hotness](https://www.polygon.com/23168048/monopoly-pictionary-yahtzee-alternatives)
+ - [Pokémon Perler bead creations are my go-to crafts](https://www.polygon.com/23170700/pokemon-perler-bead-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
