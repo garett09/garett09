@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do skaters not get dizzy?](http://9gag.com/gag/a31r3yQ)
- - 🚯 [How to smuggle mobile phones into prisons.](http://9gag.com/gag/abgwbPL)
- - 🚯 [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)<!-- MEMES:END -->
+ - 🚖 [Oscar](http://9gag.com/gag/a5137eV)
+ - 🚯 [US is a shit show](http://9gag.com/gag/a11jY58)
+ - 🚯 [Lewis Hamilton forgets he quit McLaren goes to his old crew like look at my new Mercedes guys](http://9gag.com/gag/aVx5XZP)<!-- MEMES:END -->
 
 --- 
 
