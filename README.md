@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tools to help play tabletop games online with the squad](https://www.polygon.com/23156407/tabletop-gaming-online-tools-suggestions-maps-systems)
- - [Out with the old board games, in with the new hotness](https://www.polygon.com/23168048/monopoly-pictionary-yahtzee-alternatives)
- - [Pokémon Perler bead creations are my go-to crafts](https://www.polygon.com/23170700/pokemon-perler-bead-tips)<!-- GAME:END -->
+ - [God Of War Ragnarök&#39;s Expensive Bundles Come With Steelbook Cases, But No Discs](https://kotaku.com/god-of-war-ragnarok-ps5-collectors-edition-disc-digital-1849148956)
+ - [The Forspoken delay also means we probably won&#39;t get to test Microsoft&#39;s super-fast DirectStorage tech this year](https://www.pcgamer.com/the-forspoken-delay-also-means-we-probably-wont-get-to-test-microsofts-super-fast-directstorage-tech-this-year)
+ - [Who is Kamran, the MCU’s newest superpowered kid?](https://www.polygon.com/23196742/ms-marvel-kamran-powers-origin-marvel-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
