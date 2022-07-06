@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ave!](http://9gag.com/gag/angwXAL)
- - 🚯 [Something went wrong at CERN today](http://9gag.com/gag/aogwZ4w)
- - 🚯 [Rich white woman hard life](http://9gag.com/gag/a616yLL)<!-- MEMES:END -->
+ - 🚖 [Rich white woman hard life](http://9gag.com/gag/a616yLL)
+ - 🚯 [Society](http://9gag.com/gag/ay9w07W)
+ - 🚯 [Furafic fark](http://9gag.com/gag/awz2bWR)<!-- MEMES:END -->
 
 --- 
 
