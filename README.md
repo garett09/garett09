@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Credit Cards With No Foreign Transaction Fees for July 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-without-foreign-transaction-fees/#ftag=CAD590a51e)
- - [Pokemon Go Just Got A TCG Set and It&#39;s Stunning     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-just-got-a-tcg-set-and-its-stunning/#ftag=CAD590a51e)
- - [Best Bread Machines for Home Bakers in 2022     - CNET](https://www.cnet.com/news/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The GTA V modder we just wrote about has been slapped with a DMCA takedown](https://www.theverge.com/2022/7/6/23197169/luke-ross-vr-dmca-takedown-take-two-rockstar-patreon)
+ - [Crypto exchange Bitstamp cancels plans to charge a monthly &amp;euro;10 fee for inactive non-US accounts, five days after announcing them &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220706/p22#a220706p22)
+ - [Best Home Exercise Equipment for 2022     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
