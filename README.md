@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 20% on solar generators in BLUETTI&#39;s Prime Day deals](https://appleinsider.com/articles/22/07/06/save-up-to-20-on-solar-generators-in-bluettis-prime-day-deals?utm_medium=rss)
- - [The Best USB-C Cables for Your Phone, Tablet, or Laptop](https://www.wired.com/gallery/best-usb-c-cables/)
- - [The Infamous 1972 Report That Warned of Civilization&#39;s Collapse](https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse/)<!-- TECH:END -->
+ - [The 8 best Android phones to spend your money on &lpar;July 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
+ - [IBM acquires Tel Aviv-based Databand, which develops observability tools for data and ML pipelines; Databand raised a $14.5M Series A in December 2020 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220706/p11#a220706p11)
+ - [M2 MacBook Air preorders begin on Friday, July 8](https://appleinsider.com/articles/22/07/06/m2-macbook-air-preorders-begin-on-friday-june-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
