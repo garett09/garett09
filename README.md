@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Storage firm Drobo has filed for Chapter 11 bankruptcy](https://appleinsider.com/articles/22/07/06/storage-firm-drobo-has-filed-for-chapter-11-bankruptcy?utm_medium=rss)
- - [Quick fixes: restoring pages of tabs on Chrome](https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to)
- - [BOE gets go-ahead for iPhone 14 OLED production despite previous panel problems](https://appleinsider.com/articles/22/07/06/boe-gets-go-ahead-for-iphone-14-oled-production-despite-previous-panel-problems?utm_medium=rss)<!-- TECH:END -->
+ - [Japan to start jailing people for online insults](https://www.theverge.com/2022/7/6/23196593/japan-jail-online-insult-cyberbullying)
+ - [Rivian is starting to shed its vaporware status by getting actual trucks to customers](https://www.theverge.com/2022/7/6/23196603/rivian-q2-increase-ev-production-delivery)
+ - [Storage firm Drobo has filed for Chapter 11 bankruptcy](https://appleinsider.com/articles/22/07/06/storage-firm-drobo-has-filed-for-chapter-11-bankruptcy?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
