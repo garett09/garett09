@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Rich white woman hard life](http://9gag.com/gag/a616yLL)
- - 🚯 [Society](http://9gag.com/gag/ay9w07W)
- - 🚯 [Furafic fark](http://9gag.com/gag/awz2bWR)<!-- MEMES:END -->
+ - 🚯 [Furafic fark](http://9gag.com/gag/awz2bWR)
+ - 🚯 [Avenging waifu death...](http://9gag.com/gag/aBn5ryZ)<!-- MEMES:END -->
 
 --- 
 
