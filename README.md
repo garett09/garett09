@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always keep the sanitary gun near you at all times.](http://9gag.com/gag/a41yZVm)
- - 🚯 [As we learn new things](http://9gag.com/gag/aRrdeZ5)
- - 🚯 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
+ - 🚖 [Whyte Peepo](http://9gag.com/gag/apgwLBM)
+ - 🚯 [Still got the moves](http://9gag.com/gag/ay9wD0X)
+ - 🚯 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps](http://9gag.com/gag/a0Zqjxv)<!-- MEMES:END -->
 
 --- 
 
