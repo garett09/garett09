@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is a great man](http://9gag.com/gag/aqGw24Y)
- - 🚯 [US is a shit show](http://9gag.com/gag/a11jY58)
- - 🚯 [Guess the country!](http://9gag.com/gag/aggwN66)<!-- MEMES:END -->
+ - 🚖 [How do skaters not get dizzy?](http://9gag.com/gag/a31r3yQ)
+ - 🚯 [How to smuggle mobile phones into prisons.](http://9gag.com/gag/abgwbPL)
+ - 🚯 [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)<!-- MEMES:END -->
 
 --- 
 
