@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why i am wasting my life ?](http://9gag.com/gag/aegw3Wb)
- - 🚯 [Slow motion art](http://9gag.com/gag/a910MYZ)
- - 🚯 [A gentleman](http://9gag.com/gag/aRrdQqy)<!-- MEMES:END -->
+ - 🚖 [They got rid of every single bad review they ever had, seems they won.](http://9gag.com/gag/aogwZrm)
+ - 🚯 [Rich white woman hard life](http://9gag.com/gag/a616yLL)
+ - 🚯 [Europeans, do you Agree?](http://9gag.com/gag/azewL8B)<!-- MEMES:END -->
 
 --- 
 
