@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rich white woman hard life](http://9gag.com/gag/a616yLL)
- - 🚯 [Furafic fark](http://9gag.com/gag/awz2bWR)
- - 🚯 [Avenging waifu death...](http://9gag.com/gag/aBn5ryZ)<!-- MEMES:END -->
+ - 🚖 [That confidence](http://9gag.com/gag/avAwgjE)
+ - 🚯 [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)
+ - 🚯 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/amgw0y2)<!-- MEMES:END -->
 
 --- 
 
