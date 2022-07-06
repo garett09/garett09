@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oscar](http://9gag.com/gag/a5137eV)
- - 🚯 [Classic fat girls](http://9gag.com/gag/ay9wn48)
- - 🚯 [Police searching bus for Shooter](http://9gag.com/gag/aggwNWw)<!-- MEMES:END -->
+ - 🚖 [Apparently his genius didn&#39;t think of this](http://9gag.com/gag/aOQ5VpD)
+ - 🚯 [Police searching bus for Shooter](http://9gag.com/gag/aggwNWw)
+ - 🚯 [Guess the country!](http://9gag.com/gag/aggwN66)<!-- MEMES:END -->
 
 --- 
 
