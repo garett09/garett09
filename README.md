@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whyte Peepo](http://9gag.com/gag/apgwLBM)
- - 🚯 [Still got the moves](http://9gag.com/gag/ay9wD0X)
- - 🚯 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps](http://9gag.com/gag/a0Zqjxv)<!-- MEMES:END -->
+ - 🚖 [Just another day in Brasil](http://9gag.com/gag/avAwnmE)
+ - 🚯 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
+ - 🚯 [F*ck the new world order.](http://9gag.com/gag/aLv5M5V)<!-- MEMES:END -->
 
 --- 
 
