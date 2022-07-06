@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m a He/His white privileged cis](http://9gag.com/gag/adgwXm2)
- - 🚯 [++ inflation](http://9gag.com/gag/amgwrov)
+ - 🚖 [Always keep the sanitary gun near you at all times.](http://9gag.com/gag/a41yZVm)
+ - 🚯 [As we learn new things](http://9gag.com/gag/aRrdeZ5)
  - 🚯 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
 
 --- 
