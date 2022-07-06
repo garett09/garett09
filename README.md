@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based crypto lender Voyager Digital files for Chapter 11 bankruptcy protection in New York, estimating it has 100,000 creditors and $1B-$10B in assets &lpar;CoinDesk&rpar;](http://www.techmeme.com/220706/p2#a220706p2)
- - [Poll: How many years of security patches should smartphone makers provide?](https://www.androidauthority.com/android-security-updates-poll-3183626/)
- - [Report: Google halts Play Store updates to KakaoTalk, a popular messaging app in South Korea, after Kakao continued using an external payment link in its app &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220706/p1#a220706p1)<!-- TECH:END -->
+ - [How to use Stage Manager and Spaces in macOS together](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-stage-manager-and-spaces-in-macos-together?utm_medium=rss)
+ - [Amazon partners with Just Eat Takeaway to offer a free annual Grubhub+ subscription to Prime members in the US; Amazon also receives equity in Grubhub &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220706/p4#a220706p4)
+ - [DOJ hires Microsoft&#39;s former chief economist Susan Athey as its top antitrust economist; sources say Athey will likely be recused from Apple and Google cases &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220706/p3#a220706p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
