@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True Skyrim Enjoyer](http://9gag.com/gag/amgwz5v)
- - 🚯 [That look you give a slow driver in the fast lane when you pass them on the right](http://9gag.com/gag/a21pm6p)
- - 🚯 [Apparently his genius didn&#39;t think of this](http://9gag.com/gag/aOQ5VpD)<!-- MEMES:END -->
+ - 🚖 [That look you give a slow driver in the fast lane when you pass them on the right](http://9gag.com/gag/a21pm6p)
+ - 🚯 [Apparently his genius didn&#39;t think of this](http://9gag.com/gag/aOQ5VpD)
+ - 🚯 [Dog&#39;s adorable reaction on owner laying on her bed.](http://9gag.com/gag/amgw959)<!-- MEMES:END -->
 
 --- 
 
