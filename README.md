@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apparently his genius didn&#39;t think of this](http://9gag.com/gag/aOQ5VpD)
- - 🚯 [Dog&#39;s adorable reaction on owner laying on her bed.](http://9gag.com/gag/amgw959)
- - 🚯 [As we learn new things](http://9gag.com/gag/aRrdeZ5)<!-- MEMES:END -->
+ - 🚖 [Equality](http://9gag.com/gag/a11jMED)
+ - 🚯 [LHC is working again](http://9gag.com/gag/aLv594x)
+ - 🚯 [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)<!-- MEMES:END -->
 
 --- 
 
