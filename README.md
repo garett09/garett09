@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They got rid of every single bad review they ever had, seems they won.](http://9gag.com/gag/aogwZrm)
- - 🚯 [Rich white woman hard life](http://9gag.com/gag/a616yLL)
- - 🚯 [Europeans, do you Agree?](http://9gag.com/gag/azewL8B)<!-- MEMES:END -->
+ - 🚖 [Ave!](http://9gag.com/gag/angwXAL)
+ - 🚯 [Something went wrong at CERN today](http://9gag.com/gag/aogwZ4w)
+ - 🚯 [Rich white woman hard life](http://9gag.com/gag/a616yLL)<!-- MEMES:END -->
 
 --- 
 
