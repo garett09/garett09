@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-chain data: Celsius paid down $183M of its debt to DeFi exchange Maker, freeing up $40M in wrapped bitcoin tokens posted as collateral against the loans &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220705/p27#a220705p27)
- - [&#39;Stranger Things 4&#39;: Eddie Munson Actor Explains That &#39;Insane&#39; Metallica Guitar Solo     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-eddie-munson-actor-explains-that-insane-metallica-guitar-solo/#ftag=CAD590a51e)
- - [Buying a New iPhone or Android Phone? What to Look For     - CNET](https://www.cnet.com/tech/mobile/buying-a-new-iphone-or-android-phone-what-to-look-for/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK proposes an Online Safety Bill amendment that would force tech firms to scan for and remove CSAM or be fined up to &amp;pound;18M or 10% of their annual turnover &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220705/p30#a220705p30)
+ - [Sources: India&#39;s Enforcement Directorate on Tuesday raided Chinese smartphone maker Vivo&#39;s offices as part of an investigation into suspected money laundering &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220705/p29#a220705p29)
+ - [&#39;Thor: Love and Thunder&#39; Review: A Disappointing Taika Waititi Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-taika-waititi-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
