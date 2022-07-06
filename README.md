@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Ragnarök&#39;s Expensive Bundles Come With Steelbook Cases, But No Discs](https://kotaku.com/god-of-war-ragnarok-ps5-collectors-edition-disc-digital-1849148956)
- - [The Forspoken delay also means we probably won&#39;t get to test Microsoft&#39;s super-fast DirectStorage tech this year](https://www.pcgamer.com/the-forspoken-delay-also-means-we-probably-wont-get-to-test-microsofts-super-fast-directstorage-tech-this-year)
- - [Who is Kamran, the MCU’s newest superpowered kid?](https://www.polygon.com/23196742/ms-marvel-kamran-powers-origin-marvel-comics)<!-- GAME:END -->
+ - [Report: $540 Million Crypto Gaming Hack Made Possible By Elaborate Phishing Scheme](https://kotaku.com/axie-infinity-hack-nft-pokemon-clone-phishing-scam-1849149357)
+ - [Christian Bale’s new movie Amsterdam stars everyone, including Taylor Swift](https://www.polygon.com/23197221/amsterdam-trailer-cast-christian-bale-new-movie-margot-robbie)
+ - [The 17 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
