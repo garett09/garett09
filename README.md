@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart makes InHome direct-to-fridge deliveries an optional perk of Walmart Plus](https://www.theverge.com/2022/7/6/23196979/walmart-inhome-direct-fridge-deliveries-plus-perk)
- - [The Duffer Brothers are making yet another live-action Death Note adaptation for Netflix](https://www.theverge.com/2022/7/6/23197036/netflix-death-note-duffer-brothers-upside-down-studios)
- - [The inside story at Meta as it moves beyond Facebook](https://www.theverge.com/2022/7/6/23197067/land-of-the-giants-facebook-meta-podcast-trailer)<!-- TECH:END -->
+ - [Best Credit Cards With No Foreign Transaction Fees for July 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-without-foreign-transaction-fees/#ftag=CAD590a51e)
+ - [Pokemon Go Just Got A TCG Set and It&#39;s Stunning     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-just-got-a-tcg-set-and-its-stunning/#ftag=CAD590a51e)
+ - [Best Bread Machines for Home Bakers in 2022     - CNET](https://www.cnet.com/news/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
