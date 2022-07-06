@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third tvOS 16 developer beta has been released to testers](https://appleinsider.com/articles/22/07/06/third-tvos-16-developer-beta-has-been-released-to-testers?utm_medium=rss)
- - [watchOS 9 developer beta 3 now available for testers](https://appleinsider.com/articles/22/07/06/watchos-9-developer-beta-3-now-available-for-testers?utm_medium=rss)
- - [Apple issues third developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/07/06/apple-issues-third-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
+ - [Sam Bankman-Fried says he and FTX still have a &quot;few billion&quot; to support struggling crypto companies but the worst of the liquidity crunch has likely passed &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p19#a220706p19)
+ - [My Hero Academia’s battle royale beta is coming soon and will be free to play](https://www.theverge.com/2022/7/6/23196821/my-hero-academia-battle-royale-beta-ps4-bandai-namco-anime)
+ - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
