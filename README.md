@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried says he and FTX still have a &quot;few billion&quot; to support struggling crypto companies but the worst of the liquidity crunch has likely passed &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p19#a220706p19)
- - [My Hero Academia’s battle royale beta is coming soon and will be free to play](https://www.theverge.com/2022/7/6/23196821/my-hero-academia-battle-royale-beta-ps4-bandai-namco-anime)
- - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)<!-- TECH:END -->
+ - [Walmart makes InHome direct-to-fridge deliveries an optional perk of Walmart Plus](https://www.theverge.com/2022/7/6/23196979/walmart-inhome-direct-fridge-deliveries-plus-perk)
+ - [The Duffer Brothers are making yet another live-action Death Note adaptation for Netflix](https://www.theverge.com/2022/7/6/23197036/netflix-death-note-duffer-brothers-upside-down-studios)
+ - [The inside story at Meta as it moves beyond Facebook](https://www.theverge.com/2022/7/6/23197067/land-of-the-giants-facebook-meta-podcast-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
