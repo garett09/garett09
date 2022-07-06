@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paper Girls’ first full trailer is a time-hopping trip](https://www.polygon.com/23196621/paper-girls-amazon-prime-show-cast-premise-full-trailer)
- - [How Tiny Tina got ready for her most unexpected close-up in Wonderlands](https://www.polygon.com/23191971/tiny-tinas-wonderlands-ashly-burch-interview-sam-winkler-gearbox-software)
- - [Square Enix delays Forspoken to 2023](https://www.polygon.com/23196552/forspoken-release-date-delay-square-enix-ps5-pc)<!-- GAME:END -->
+ - [The Matrix Awakens is being delisted on July 9, download it now](https://www.polygon.com/23196689/the-matrix-awakens-unreal-engine-5-demo-delisted-july-9)
+ - [Partying up with Monster Hunter&#39;s new Followers is everything I hoped it would be](https://www.pcgamer.com/monster-hunter-rise-sunbreak-followers)
+ - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
