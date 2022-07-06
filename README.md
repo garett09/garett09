@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft launch page remembers Technoblade with his avatar](https://www.polygon.com/23197377/minecraft-technoblade-youtube-launch-tribute-page)
  - [Xbox Games with Gold dropping Xbox 360 games in October](https://www.polygon.com/23197434/xbox-live-games-with-gold-free-games-xbox-360-ends-october-2022)
- - [Two Decades Later, Halo 2’s Iconic E3 Trailer Will Be Playable](https://kotaku.com/halo-2-e3-2003-demo-master-chief-collection-343-mods-1849149759)
- - [The Clerks III trailer completes the circle of meta that Kevin Smith started in 1994](https://www.polygon.com/23197323/clerks-3-trailer-kevin-smith-jay-silent-bob-cast)<!-- GAME:END -->
+ - [Two Decades Later, Halo 2’s Iconic E3 Trailer Will Be Playable](https://kotaku.com/halo-2-e3-2003-demo-master-chief-collection-343-mods-1849149759)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
