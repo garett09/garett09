@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality](http://9gag.com/gag/a11jMED)
- - 🚯 [LHC is working again](http://9gag.com/gag/aLv594x)
- - 🚯 [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)<!-- MEMES:END -->
+ - 🚖 [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)
+ - 🚯 [True Skyrim Enjoyer](http://9gag.com/gag/amgwz5v)
+ - 🚯 [Let&#39;s go](http://9gag.com/gag/awz2xdx)<!-- MEMES:END -->
 
 --- 
 
