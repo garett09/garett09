@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not a good idea, but would be funny](http://9gag.com/gag/aKm5BdN)
- - 🚯 [Oscar](http://9gag.com/gag/a5137eV)
- - 🚯 [Dog&#39;s adorable reaction on owner laying on her bed.](http://9gag.com/gag/amgw959)<!-- MEMES:END -->
+ - 🚖 [Oscar](http://9gag.com/gag/a5137eV)
+ - 🚯 [Classic fat girls](http://9gag.com/gag/ay9wn48)
+ - 🚯 [Police searching bus for Shooter](http://9gag.com/gag/aggwNWw)<!-- MEMES:END -->
 
 --- 
 
