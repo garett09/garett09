@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is lobbying the Netherlands to ban ASML from selling some of its some of its older deep ultraviolet lithography systems to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/220705/p26#a220705p26)
- - [The Senate Intelligence Committee asks the FTC to investigate whether TikTok misled lawmakers about China-based ByteDance employees accessing American user data &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220705/p25#a220705p25)
- - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)<!-- TECH:END -->
+ - [On-chain data: Celsius paid down $183M of its debt to DeFi exchange Maker, freeing up $40M in wrapped bitcoin tokens posted as collateral against the loans &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220705/p27#a220705p27)
+ - [&#39;Stranger Things 4&#39;: Eddie Munson Actor Explains That &#39;Insane&#39; Metallica Guitar Solo     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-eddie-munson-actor-explains-that-insane-metallica-guitar-solo/#ftag=CAD590a51e)
+ - [Buying a New iPhone or Android Phone? What to Look For     - CNET](https://www.cnet.com/tech/mobile/buying-a-new-iphone-or-android-phone-what-to-look-for/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
