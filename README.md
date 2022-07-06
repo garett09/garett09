@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan to start jailing people for online insults](https://www.theverge.com/2022/7/6/23196593/japan-jail-online-insult-cyberbullying)
- - [Rivian is starting to shed its vaporware status by getting actual trucks to customers](https://www.theverge.com/2022/7/6/23196603/rivian-q2-increase-ev-production-delivery)
- - [Storage firm Drobo has filed for Chapter 11 bankruptcy](https://appleinsider.com/articles/22/07/06/storage-firm-drobo-has-filed-for-chapter-11-bankruptcy?utm_medium=rss)<!-- TECH:END -->
+ - [How to delete your Amazon account](https://www.androidauthority.com/delete-amazon-account-3182486/)
+ - [M2 MacBook Air preorders begin on Friday, July 8](https://appleinsider.com/articles/22/07/06/m2-macbook-air-preorders-begin-on-friday-june-8?utm_medium=rss)
+ - [NASA reestablishes communication with new lunar spacecraft after brief blackout](https://www.theverge.com/2022/7/6/23190459/nasa-capstone-artemis-moon-lunar-orbit-communications)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
