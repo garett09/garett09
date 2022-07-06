@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 is getting its own stylish new Nintendo Switch in August](https://www.polygon.com/23196555/new-nintendo-switch-oled-model-splatoon-3-release-date-price)
- - [God Of War Ragnarök Release Date Finally Confirmed](https://kotaku.com/god-of-war-ragnarok-santa-monica-studio-sony-ps5-1849146462)
- - [God of War Ragnarok launches in November, watch the new trailer](https://www.polygon.com/23068988/god-of-war-ragnarok-release-date-ps5-ps4)<!-- GAME:END -->
+ - [Paper Girls’ first full trailer is a time-hopping trip](https://www.polygon.com/23196621/paper-girls-amazon-prime-show-cast-premise-full-trailer)
+ - [How Tiny Tina got ready for her most unexpected close-up in Wonderlands](https://www.polygon.com/23191971/tiny-tinas-wonderlands-ashly-burch-interview-sam-winkler-gearbox-software)
+ - [Square Enix delays Forspoken to 2023](https://www.polygon.com/23196552/forspoken-release-date-delay-square-enix-ps5-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
