@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best loadouts and class setups for Warzone Season 4](https://www.pcgamer.com/best-warzone-loadout-season-4)
- - [Intel&#39;s 13th Gen Raptor Lake specs have leaked, and its bad news for PCIe 5.0 SSDs?](https://www.pcgamer.com/intels-13th-gen-raptor-lake-specs-have-leaked-and-its-bad-news-for-pcie-50-ssds)
- - [Even with the power of 25 3080s, this Ethereum mining ASIC will soon be useless](https://www.pcgamer.com/even-with-the-power-of-25-3080s-this-ethereum-mining-asic-will-soon-be-useless)<!-- GAME:END -->
+ - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
+ - [DNF Duel review](https://www.pcgamer.com/dnf-duel-review)
+ - [Pi-powered Cyberdecks are the retro futuristic PCs of our dreams](https://www.pcgamer.com/pi-powered-cyberdecks-are-the-retro-futuristic-pcs-of-our-dreams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
