@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Stage Manager and Spaces in macOS together](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-stage-manager-and-spaces-in-macos-together?utm_medium=rss)
- - [Amazon partners with Just Eat Takeaway to offer a free annual Grubhub+ subscription to Prime members in the US; Amazon also receives equity in Grubhub &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220706/p4#a220706p4)
- - [DOJ hires Microsoft&#39;s former chief economist Susan Athey as its top antitrust economist; sources say Athey will likely be recused from Apple and Google cases &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220706/p3#a220706p3)<!-- TECH:END -->
+ - [The UK&#39;s CMA opens an investigation into whether Amazon distorts competition by favoring its own retail business and sellers using its Prime services &lpar;Sky News&rpar;](http://www.techmeme.com/220706/p8#a220706p8)
+ - [Apple&#39;s A16 processor to be exclusive to iPhone 14 Pro, says Kuo](https://appleinsider.com/articles/22/07/06/apples-a16-processor-to-be-exclusive-to-iphone-14-pro-says-kuo?utm_medium=rss)
+ - [Meta&#39;s Stephane Kasriel says the company still plans to roll out NFT support to help creators monetize through cross-platform &quot;memberships&quot; and &quot;subscriptions&quot; &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220706/p7#a220706p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
