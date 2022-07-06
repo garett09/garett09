@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oscar](http://9gag.com/gag/a5137eV)
- - 🚯 [US is a shit show](http://9gag.com/gag/a11jY58)
- - 🚯 [Lewis Hamilton forgets he quit McLaren goes to his old crew like look at my new Mercedes guys](http://9gag.com/gag/aVx5XZP)<!-- MEMES:END -->
+ - 🚖 [Not a good idea, but would be funny](http://9gag.com/gag/aKm5BdN)
+ - 🚯 [Oscar](http://9gag.com/gag/a5137eV)
+ - 🚯 [Dog&#39;s adorable reaction on owner laying on her bed.](http://9gag.com/gag/amgw959)<!-- MEMES:END -->
 
 --- 
 
