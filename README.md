@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: $540 Million Crypto Gaming Hack Made Possible By Elaborate Phishing Scheme](https://kotaku.com/axie-infinity-hack-nft-pokemon-clone-phishing-scam-1849149357)
- - [Christian Bale’s new movie Amsterdam stars everyone, including Taylor Swift](https://www.polygon.com/23197221/amsterdam-trailer-cast-christian-bale-new-movie-margot-robbie)
- - [The 17 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
+ - [Xbox Games with Gold dropping Xbox 360 games in October](https://www.polygon.com/23197434/xbox-live-games-with-gold-free-games-xbox-360-ends-october-2022)
+ - [Two Decades Later, Halo 2’s Iconic E3 Trailer Will Be Playable](https://kotaku.com/halo-2-e3-2003-demo-master-chief-collection-343-mods-1849149759)
+ - [The Clerks III trailer completes the circle of meta that Kevin Smith started in 1994](https://www.polygon.com/23197323/clerks-3-trailer-kevin-smith-jay-silent-bob-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
