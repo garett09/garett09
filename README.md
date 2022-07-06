@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 8 best Android phones to spend your money on &lpar;July 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
- - [IBM acquires Tel Aviv-based Databand, which develops observability tools for data and ML pipelines; Databand raised a $14.5M Series A in December 2020 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220706/p11#a220706p11)
- - [M2 MacBook Air preorders begin on Friday, July 8](https://appleinsider.com/articles/22/07/06/m2-macbook-air-preorders-begin-on-friday-june-8?utm_medium=rss)<!-- TECH:END -->
+ - [NASA is having a hard time communicating with its new tiny lunar spacecraft](https://www.theverge.com/2022/7/6/23190459/nasa-capstone-artemis-moon-lunar-orbit-communications)
+ - [Go read this story about the guy behind RadioShack’s sex-crazed Twitter account](https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock)
+ - [Meta makes its AI translation model, which supports 200 languages, open source, as part of its work on a &quot;universal speech translator&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220706/p15#a220706p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
