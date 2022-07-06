@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That confidence](http://9gag.com/gag/avAwgjE)
- - 🚯 [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)
- - 🚯 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/amgw0y2)<!-- MEMES:END -->
+ - 🚖 [He is a great man](http://9gag.com/gag/aqGw24Y)
+ - 🚯 [US is a shit show](http://9gag.com/gag/a11jY58)
+ - 🚯 [Guess the country!](http://9gag.com/gag/aggwN66)<!-- MEMES:END -->
 
 --- 
 
