@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA is having a hard time communicating with its new tiny lunar spacecraft](https://www.theverge.com/2022/7/6/23190459/nasa-capstone-artemis-moon-lunar-orbit-communications)
- - [Go read this story about the guy behind RadioShack’s sex-crazed Twitter account](https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock)
- - [Meta makes its AI translation model, which supports 200 languages, open source, as part of its work on a &quot;universal speech translator&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220706/p15#a220706p15)<!-- TECH:END -->
+ - [Storage firm Drobo has filed for Chapter 11 bankruptcy](https://appleinsider.com/articles/22/07/06/storage-firm-drobo-has-filed-for-chapter-11-bankruptcy?utm_medium=rss)
+ - [Quick fixes: restoring pages of tabs on Chrome](https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to)
+ - [BOE gets go-ahead for iPhone 14 OLED production despite previous panel problems](https://appleinsider.com/articles/22/07/06/boe-gets-go-ahead-for-iphone-14-oled-production-despite-previous-panel-problems?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
