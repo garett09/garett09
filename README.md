@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Matrix Awakens is being delisted on July 9, download it now](https://www.polygon.com/23196689/the-matrix-awakens-unreal-engine-5-demo-delisted-july-9)
- - [Partying up with Monster Hunter&#39;s new Followers is everything I hoped it would be](https://www.pcgamer.com/monster-hunter-rise-sunbreak-followers)
- - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)<!-- GAME:END -->
+ - [Splatoon 3 Special Edition Switch Looks Gorgeously Subtle](https://kotaku.com/splatoon-3-special-edition-nintendo-switch-oled-1849147375)
+ - [The Lord of the Rings: The Rings of Power’s new teaser shows more of Middle-earth](https://www.polygon.com/23196692/lord-of-the-rings-rings-of-power-new-trailer-amazon-prime)
+ - [The Crew 2 Season 6 Episode 1 Out Now, Free Week July 7-13](https://news.xbox.com/en-us/2022/07/06/the-crew-2-season-6-episode-1-out-now-free-week-july-7-13/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
