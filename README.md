@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases full trailer for animated comedy &#39;Luck&#39;](https://appleinsider.com/articles/22/07/07/apple-releases-full-trailer-for-animated-comedy-luck?utm_medium=rss)
- - [Tech companies are too slow at preventing users from spreading videos and images that analyze and celebrate shooters, potentially inspiring future attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/220707/p5#a220707p5)
- - [London-based YuLife, which helps 500+ businesses offer employees gamified life insurance, raised a $120M Series C at an $800M valuation, up from $346M in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220707/p4#a220707p4)<!-- TECH:END -->
+ - [Apple moves further into finance with &#39;virtual cards&#39; in iOS 16](https://appleinsider.com/articles/22/07/07/apple-moves-further-into-finance-with-virtual-cards-in-ios-16?utm_medium=rss)
+ - [E-Scooter Rentals Aren’t as Green as You Think](https://www.wired.com/story/e-scooter-rentals-carbon-emissions/)
+ - [The Danger of License Plate Readers in Post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
