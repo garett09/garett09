@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [Troubleshooting tips to stop crashing iPhone apps](https://www.androidauthority.com/stop-crashing-iphone-apps-3184145/)
- - [Binance.US hires ex-Acorns CFO and COO Jasmine Lee as CFO, as the affiliate prepares for an IPO in the next two to three years &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220707/p9#a220707p9)<!-- TECH:END -->
+ - [Twitter starts testing a new CoTweets feature that lets two accounts co-author a tweet, with both accounts tagged in a single tweet &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220707/p11#a220707p11)
+ - [Twitter starts testing new CoTweets feature that lets two accounts co-author a tweet](https://www.theverge.com/2022/7/7/23198195/twitter-cotweets-feature-co-author-tweets-test)
+ - [E3 is partnering with PAX organizers for 2023 return in LA](https://www.theverge.com/2022/7/7/23197645/e3-2023-pax-organizers-in-person-la-convention-center)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
