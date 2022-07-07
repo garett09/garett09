@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was never about the color of the skin, as long as the actress looks like the character. Cosplayers does a far better job than the studios.](http://9gag.com/gag/aKm5dbW)
+ - 🚖 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
  - 🚯 [Rest in peace. James Caan. 1940-2022](http://9gag.com/gag/aWg5xYd)
- - 🚯 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)<!-- MEMES:END -->
+ - 🚯 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)<!-- MEMES:END -->
 
 --- 
 
