@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will stop requiring Facebook IDs to log into Quest devices in August 2022 and will roll out &quot;Meta accounts&quot; for new and existing Quest users &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220707/p14#a220707p14)
- - [You told us: Despite its flaws, you’re mostly happy with Plex](https://www.androidauthority.com/plex-happy-poll-results-3184235/)
- - [Pokemon Go Events for July 2022: Go Fest, Starly Community Day and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-july-2022-events-go-fest-community-day-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple unveils new Apple Pay offers for summer road trips](https://appleinsider.com/articles/22/07/07/apple-unveils-new-apple-pay-offers-for-summer-road-trips?utm_medium=rss)
+ - [Google Announces State Winners for Doodle for Google Contest     - CNET](https://www.cnet.com/culture/internet/google-announces-state-winners-for-doodle-for-google-contest/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Marvel Encore is Disappointingly Shallow     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-encore-is-disappointingly-shallow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
