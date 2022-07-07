@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU antitrust regulators are probing the video licensing policy of the AOM, whose members include Google, Amazon, Apple, and Meta, over its AV1 video format &lpar;Reuters&rpar;](http://www.techmeme.com/220707/p20#a220707p20)
- - [Bungie is charging $284 just to ship your $185 Nerf Gjallarhorn to Canada](https://www.theverge.com/2022/7/7/23198881/bungie-nerf-gjallarhorn-destiny-canada-shipping-price)
- - [Twitter insists it has bots handled, claims it blocks 1 million spammers every day](https://www.theverge.com/2022/7/7/23198893/twitter-million-spam-account-removals-per-day-musk-buyout)<!-- TECH:END -->
+ - [Twitter lays off 30% of its talent acquisition team as it deals with business pressures and Musk&#39;s potential takeover; &lt;100 people will likely be affected &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/220707/p23#a220707p23)
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
