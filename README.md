@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)
- - 🚯 [It&#39;s a men thing](http://9gag.com/gag/ajgw9Z0)
- - 🚯 [Date a NPC](http://9gag.com/gag/aAG53MR)<!-- MEMES:END -->
+ - 🚖 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)
+ - 🚯 [It was never about the color of the skin, as long as the actress looks like the character. Cosplayers does a far better job than the studios.](http://9gag.com/gag/aKm5dbW)
+ - 🚯 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)<!-- MEMES:END -->
 
 --- 
 
