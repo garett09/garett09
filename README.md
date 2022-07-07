@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mining the deep sea for battery materials will be dangerously noisy, study finds](https://www.theverge.com/2022/7/7/23198447/mining-deep-sea-batteries-dangerously-noisy-study)
- - [How to stream video and audio from the VLC media player](https://www.androidauthority.com/vlc-media-player-stream-audio-video-3183564/)
- - [Twitter starts testing new CoTweets feature that lets two accounts co-author a tweet](https://www.theverge.com/2022/7/7/23198195/twitter-cotweets-feature-co-author-tweets-test)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Sunny Balwani found guilty of defrauding Theranos investors and patients](https://www.theverge.com/2022/7/7/23198848/sunny-balwani-guilty-theranos-fraud-holmes)
+ - [Charlie Cox’s Daredevil and Vincent D’Onofrio’s Kingpin will appear in Disney Plus’ Echo series](https://www.theverge.com/2022/7/7/23198720/echo-charlie-cox-daredevil-kingpin-vincent-donofrio-mcu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
