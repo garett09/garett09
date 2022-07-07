@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, Facebook&#39;s AV1 standards group under antitrust investigation in EU](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu?utm_medium=rss)
- - [Apple Co-Founder Steve Jobs Posthumously Receives a Presidential Medal of Freedom     - CNET](https://www.cnet.com/tech/apple-co-founder-steve-jobs-posthumously-receives-a-presidential-medal-of-freedom/#ftag=CAD590a51e)
- - [Former Theranos President Found Guilty of Fraud     - CNET](https://www.cnet.com/news/former-theranos-president-found-guilty-of-fraud/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Surefire Ways to Decorate a Backpack to Make It Look Brand-New     - CNET](https://www.cnet.com/news/4-surefire-ways-to-decorate-a-backpack-to-make-it-look-brand-new/#ftag=CAD590a51e)
+ - [Tesla Will Let Other EV&#39;s Use Supercharger Stations Later In 2022     - CNET](https://www.cnet.com/roadshow/news/tesla-will-let-other-evs-use-supercharger-stations-later-in-2022/#ftag=CAD590a51e)
+ - [Red Dead Online won’t get ‘major’ updates as Rockstar shifts to the next mainline GTA game](https://www.theverge.com/2022/7/7/23198569/red-dead-online-updates-rockstar-gta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
