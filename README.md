@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)
- - 🚯 [Grandma showing how the trick is done](http://9gag.com/gag/aVx50DK)
- - 🚯 [You stupid?](http://9gag.com/gag/aOQ5Ym2)<!-- MEMES:END -->
+ - 🚖 [European parliament suddenly remembers that atomic power plants are `green energy`](http://9gag.com/gag/aAG53gZ)
+ - 🚯 [What men actually want](http://9gag.com/gag/angw98q)
+ - 🚯 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)<!-- MEMES:END -->
 
 --- 
 
