@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Creator Of Yu-Gi-Oh Has Died](https://kotaku.com/yu-gi-oh-creator-kazuki-takahashi-manga-konami-died-60-1849151231)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Gigabyte Z690I Aorus Ultra Plus](https://www.pcgamer.com/gigabyte-z690i-aorus-ultra-plus)<!-- GAME:END -->
+ - [The best Ashes of War in Elden Ring](https://www.pcgamer.com/best-elden-ring-ashes-of-war)
+ - [The best mid-tower cases in 2022](https://www.pcgamer.com/best-mid-tower-case)
+ - [How to complete the Fia quest in Elden Ring](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
