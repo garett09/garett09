@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors gets final boss in new patch](https://www.polygon.com/23198502/vampire-survivors-patch-notes-final-boss-update)
- - [Lego Bowser Big](https://kotaku.com/bowser-lego-set-giant-2800-pieces-october-27-nintendo-1849152567)
- - [2021 game of the year Inscryption heading to PS4 and PS5 with bonus features](https://www.polygon.com/23198640/inscryption-ps4-ps5-annouced-bonus-features)<!-- GAME:END -->
+ - [RoboCop returns to games with a gory new shooter in 2023](https://www.polygon.com/23198804/robocop-rogue-city-release-date-trailer-nacon)
+ - [Skull and Bones Coming November 8](https://news.xbox.com/en-us/2022/07/07/skull-and-bones-coming-november-8/)
+ - [Red Dead Online Won&#39;t Get Big Updates As Rockstar Shifts To GTA 6](https://kotaku.com/red-dead-online-rockstar-games-gta-6-rdo-update-1849152956)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
