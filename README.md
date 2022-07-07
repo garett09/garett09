@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He has no idea](http://9gag.com/gag/aM45jBX)
- - 🚯 [Me, when I have to go outside and socialize](http://9gag.com/gag/abgwMqL)
+ - 🚖 [Drawing a girl with CSS](http://9gag.com/gag/aOQ5BRD)
+ - 🚯 [You can like Tom Cruise or not, but he has an amazing work ethics](http://9gag.com/gag/ajgwEjg)
  - 🚯 [No BS in my business ma\u2019am](http://9gag.com/gag/a71XM82)<!-- MEMES:END -->
 
 --- 
