@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter starts testing a new CoTweets feature that lets two accounts co-author a tweet, with both accounts tagged in a single tweet &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220707/p11#a220707p11)
- - [Twitter starts testing new CoTweets feature that lets two accounts co-author a tweet](https://www.theverge.com/2022/7/7/23198195/twitter-cotweets-feature-co-author-tweets-test)
- - [E3 is partnering with PAX organizers for 2023 return in LA](https://www.theverge.com/2022/7/7/23197645/e3-2023-pax-organizers-in-person-la-convention-center)<!-- TECH:END -->
+ - [How to preorder the 2022 MacBook Air](https://www.theverge.com/23148516/apple-macbook-air-2022-preorder-buy-price-release-date)
+ - [China says new data export review rules for companies that have sent abroad the personal info of 100K+ users since January 1, 2021 will be effective September 1 &lpar;Reuters&rpar;](http://www.techmeme.com/220707/p12#a220707p12)
+ - [The best new streaming movies this week on Netflix, Freevee, Mubi, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
