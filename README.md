@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)
- - [With Xenoblade Chronicles 3, Monolith Soft finally seems unconstrained](https://www.polygon.com/23197349/xenoblade-chronicles-3-preview-impressions-release-date-nintendo-switch)
- - [How to open the secret door in Fortnite](https://www.pcgamer.com/fortnite-how-to-open-secret-door)<!-- GAME:END -->
+ - [Devin Booker, Sue Bird &amp; Diana Taurasi, and Michael Jordan Set to Grace the Covers of NBA 2K23](https://news.xbox.com/en-us/2022/07/07/nba-2k23-cover-athletes-reveal/)
+ - [A closer look at the turn-based combat in Sea of Stars](https://blog.playstation.com/2022/07/07/a-closer-look-at-the-turn-based-combat-in-sea-of-stars/)
+ - [A closer look at the turn-based combat in Sea of Stars](https://blog.playstation.com/2022/07/07/a-closer-look-at-the-turn-based-combat-in-sea-of-stars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
