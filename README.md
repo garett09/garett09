@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard will bring back BlizzCon in 2023](https://www.theverge.com/2022/7/6/23197449/blizzcon-2023-blizzard-return-mike-ybarra)
- - [Seattle-based Flexe, which provides software that allows retailers to optimize their supply chains, raised a $119M Series D at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220706/p27#a220706p27)
- - [A look at the decline of Yandex, which has been pushing Russian propaganda thanks to new laws and sank in value from $31B+ in 2021 to &lt;$7B after the invasion &lpar;Neil MacFarquhar/New York Times&rpar;](http://www.techmeme.com/220706/p26#a220706p26)<!-- TECH:END -->
+ - [Code in Meta&#39;s iPhone app for VR headsets suggests Meta&#39;s Project Cambria headset will be called the Meta Quest Pro; a source says it will cost over $1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220706/p30#a220706p30)
+ - [Grab the jaw-dropping Matrix Awakens tech demo before it’s delisted this week](https://www.theverge.com/2022/7/6/23197237/matrix-awakens-unreal-engine-5-tech-demo-playstation-xbox-delist-psa)
+ - [Elon Musk Reportedly Had Twins With One of His Execs     - CNET](https://www.cnet.com/tech/elon-musk-reportedly-had-twins-with-one-of-his-execs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
