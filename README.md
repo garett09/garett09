@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drawing a girl with CSS](http://9gag.com/gag/aOQ5BRD)
- - 🚯 [You can like Tom Cruise or not, but he has an amazing work ethics](http://9gag.com/gag/ajgwEjg)
- - 🚯 [No BS in my business ma\u2019am](http://9gag.com/gag/a71XM82)<!-- MEMES:END -->
+ - 🚖 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)
+ - 🚯 [No BS in my business ma\u2019am](http://9gag.com/gag/a71XM82)
+ - 🚯 [Priorities](http://9gag.com/gag/aWg51mx)<!-- MEMES:END -->
 
 --- 
 
