@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter lays off 30% of its talent acquisition team as it deals with business pressures and Musk&#39;s potential takeover; &lt;100 people will likely be affected &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/220707/p23#a220707p23)
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Apple, Google, Facebook&#39;s AV1 standards group under antitrust investigation in EU](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu?utm_medium=rss)
+ - [Apple Co-Founder Steve Jobs Posthumously Receives a Presidential Medal of Freedom     - CNET](https://www.cnet.com/tech/apple-co-founder-steve-jobs-posthumously-receives-a-presidential-medal-of-freedom/#ftag=CAD590a51e)
+ - [Former Theranos President Found Guilty of Fraud     - CNET](https://www.cnet.com/news/former-theranos-president-found-guilty-of-fraud/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
