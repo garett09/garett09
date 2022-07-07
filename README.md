@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple moves further into finance with &#39;virtual cards&#39; in iOS 16](https://appleinsider.com/articles/22/07/07/apple-moves-further-into-finance-with-virtual-cards-in-ios-16?utm_medium=rss)
- - [E-Scooter Rentals Aren’t as Green as You Think](https://www.wired.com/story/e-scooter-rentals-carbon-emissions/)
- - [The Danger of License Plate Readers in Post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)<!-- TECH:END -->
+ - [Major Asus Zenfone 9 leak reveals a compact flagship with gimbal camera](https://www.androidauthority.com/asus-zenfone-9-video-3184163/)
+ - [Reddit launches an NFT-based avatar marketplace with 90 profile pictures available for purchase at a fixed rate, expanding on support for Ethereum-based NFTs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220707/p8#a220707p8)
+ - [FaZe Clan Is Going Public—Just as the Creator Economy Shifts](https://www.wired.com/story/faze-clan-going-public/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
