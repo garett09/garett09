@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess the country](http://9gag.com/gag/aE852Px)
- - 🚯 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)
- - 🚯 [Dating profiles in 2020s](http://9gag.com/gag/aGz5jzX)<!-- MEMES:END -->
+ - 🚖 [You can like Tom Cruise or not, but he has an amazing work ethics](http://9gag.com/gag/ajgwEjg)
+ - 🚯 [What men actually want](http://9gag.com/gag/angw98q)
+ - 🚯 [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)<!-- MEMES:END -->
 
 --- 
 
