@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t fear the metaverse, I&#39;ve seen the proof that it can work](https://www.pcgamer.com/dont-fear-the-metaverse-zwift)
- - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
- - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)<!-- GAME:END -->
+ - [AMC Plus’ Moonhaven is homework from the future](https://www.polygon.com/23196774/amc-plus-moonhaven-is-homework-from-the-future)
+ - [E3 as we know it is returning in 2023, with help from PAX](https://www.pcgamer.com/e3-as-we-know-it-is-returning-in-2023-with-help-from-pax)
+ - [DJMax Respect V Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/07/07/djmax-respect-v-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
