@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to preorder the 2022 MacBook Air](https://www.theverge.com/23148516/apple-macbook-air-2022-preorder-buy-price-release-date)
- - [China says new data export review rules for companies that have sent abroad the personal info of 100K+ users since January 1, 2021 will be effective September 1 &lpar;Reuters&rpar;](http://www.techmeme.com/220707/p12#a220707p12)
- - [The best new streaming movies this week on Netflix, Freevee, Mubi, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Meta will stop requiring Facebook IDs to log into Quest devices in August 2022 and will roll out &quot;Meta accounts&quot; for new and existing Quest users &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220707/p14#a220707p14)
+ - [You told us: Despite its flaws, you’re mostly happy with Plex](https://www.androidauthority.com/plex-happy-poll-results-3184235/)
+ - [Pokemon Go Events for July 2022: Go Fest, Starly Community Day and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-july-2022-events-go-fest-community-day-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
