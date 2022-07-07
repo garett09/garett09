@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RoboCop returns to games with a gory new shooter in 2023](https://www.polygon.com/23198804/robocop-rogue-city-release-date-trailer-nacon)
- - [Skull and Bones Coming November 8](https://news.xbox.com/en-us/2022/07/07/skull-and-bones-coming-november-8/)
- - [Red Dead Online Won&#39;t Get Big Updates As Rockstar Shifts To GTA 6](https://kotaku.com/red-dead-online-rockstar-games-gta-6-rdo-update-1849152956)<!-- GAME:END -->
+ - [Charlie Cox and Vincent D’Onofrio reunite in Marvel’s Echo series on Disney Plus](https://www.polygon.com/23198923/charlie-cox-daredevil-vincent-donofrio-kingpin-marvel-echo-disney-plus)
+ - [Crisis Core: Final Fantasy VII Remaster Retains Sephiroth’s Intense Hair Care Routine](https://kotaku.com/final-fantasy-7-ff7-crisis-core-reunion-sephiroth-hair-1849153496)
+ - [New Terminator survival game tasks you with surviving Judgment Day](https://www.polygon.com/23198875/terminator-survival-game-project-teaser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
