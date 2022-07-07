@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandma showing how the trick is done](http://9gag.com/gag/aVx50DK)
- - 🚯 [What men actually want](http://9gag.com/gag/angw98q)
- - 🚯 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)<!-- MEMES:END -->
+ - 🚖 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)
+ - 🚯 [It&#39;s a men thing](http://9gag.com/gag/ajgw9Z0)
+ - 🚯 [Date a NPC](http://9gag.com/gag/aAG53MR)<!-- MEMES:END -->
 
 --- 
 
