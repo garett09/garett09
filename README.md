@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Ashes of War in Elden Ring](https://www.pcgamer.com/best-elden-ring-ashes-of-war)
- - [The best mid-tower cases in 2022](https://www.pcgamer.com/best-mid-tower-case)
- - [How to complete the Fia quest in Elden Ring](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)<!-- GAME:END -->
+ - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)
+ - [With Xenoblade Chronicles 3, Monolith Soft finally seems unconstrained](https://www.polygon.com/23197349/xenoblade-chronicles-3-preview-impressions-release-date-nintendo-switch)
+ - [How to open the secret door in Fortnite](https://www.pcgamer.com/fortnite-how-to-open-secret-door)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
