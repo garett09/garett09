@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Asus Zenfone 9 leak reveals a compact flagship with gimbal camera](https://www.androidauthority.com/asus-zenfone-9-video-3184163/)
- - [Reddit launches an NFT-based avatar marketplace with 90 profile pictures available for purchase at a fixed rate, expanding on support for Ethereum-based NFTs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220707/p8#a220707p8)
- - [FaZe Clan Is Going Public—Just as the Creator Economy Shifts](https://www.wired.com/story/faze-clan-going-public/)<!-- TECH:END -->
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [Troubleshooting tips to stop crashing iPhone apps](https://www.androidauthority.com/stop-crashing-iphone-apps-3184145/)
+ - [Binance.US hires ex-Acorns CFO and COO Jasmine Lee as CFO, as the affiliate prepares for an IPO in the next two to three years &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220707/p9#a220707p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
