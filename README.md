@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMC Plus’ Moonhaven is homework from the future](https://www.polygon.com/23196774/amc-plus-moonhaven-is-homework-from-the-future)
- - [E3 as we know it is returning in 2023, with help from PAX](https://www.pcgamer.com/e3-as-we-know-it-is-returning-in-2023-with-help-from-pax)
- - [DJMax Respect V Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/07/07/djmax-respect-v-available-today/)<!-- GAME:END -->
+ - [Vampire Survivors gets final boss in new patch](https://www.polygon.com/23198502/vampire-survivors-patch-notes-final-boss-update)
+ - [Lego Bowser Big](https://kotaku.com/bowser-lego-set-giant-2800-pieces-october-27-nintendo-1849152567)
+ - [2021 game of the year Inscryption heading to PS4 and PS5 with bonus features](https://www.polygon.com/23198640/inscryption-ps4-ps5-annouced-bonus-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
