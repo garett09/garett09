@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Code in Meta&#39;s iPhone app for VR headsets suggests Meta&#39;s Project Cambria headset will be called the Meta Quest Pro; a source says it will cost over $1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220706/p30#a220706p30)
- - [Grab the jaw-dropping Matrix Awakens tech demo before it’s delisted this week](https://www.theverge.com/2022/7/6/23197237/matrix-awakens-unreal-engine-5-tech-demo-playstation-xbox-delist-psa)
- - [Elon Musk Reportedly Had Twins With One of His Execs     - CNET](https://www.cnet.com/tech/elon-musk-reportedly-had-twins-with-one-of-his-execs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Planetarium Labs, which is building a Web3 gaming ecosystem based on Libplanet blockchain, has raised a $32M Series A led by Animoca Brands &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220706/p35#a220706p35)
+ - [Cybersecurity firm Group-IB to split its international business, headquartered in Singapore, from its Russian operations, which will be &quot;completely autonomous&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p34#a220706p34)
+ - [A new legal advisory from the US Office of Government Ethics bars federal workers who own crypto from working on cryptocurrency-related policy and regulation &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/220706/p33#a220706p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
