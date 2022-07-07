@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least my body can looks good](http://9gag.com/gag/aZr5gRp)
- - 🚯 [Climate change protesters in Maryland shut down a highway and demand Joe Biden declare a `climate emergency`. One driver becomes upset and says that he&#39;s on parole and will go prison if they don&#39;t move](http://9gag.com/gag/a71XrYq)
- - 🚯 [Me, when I have to go outside and socialize](http://9gag.com/gag/abgwMqL)<!-- MEMES:END -->
+ - 🚖 [He has no idea](http://9gag.com/gag/aM45jBX)
+ - 🚯 [Me, when I have to go outside and socialize](http://9gag.com/gag/abgwMqL)
+ - 🚯 [No BS in my business ma\u2019am](http://9gag.com/gag/a71XM82)<!-- MEMES:END -->
 
 --- 
 
