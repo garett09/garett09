@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new Apple Pay offers for summer road trips](https://appleinsider.com/articles/22/07/07/apple-unveils-new-apple-pay-offers-for-summer-road-trips?utm_medium=rss)
- - [Google Announces State Winners for Doodle for Google Contest     - CNET](https://www.cnet.com/culture/internet/google-announces-state-winners-for-doodle-for-google-contest/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Marvel Encore is Disappointingly Shallow     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-encore-is-disappointingly-shallow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mining the deep sea for battery materials will be dangerously noisy, study finds](https://www.theverge.com/2022/7/7/23198447/mining-deep-sea-batteries-dangerously-noisy-study)
+ - [How to stream video and audio from the VLC media player](https://www.androidauthority.com/vlc-media-player-stream-audio-video-3183564/)
+ - [Twitter starts testing new CoTweets feature that lets two accounts co-author a tweet](https://www.theverge.com/2022/7/7/23198195/twitter-cotweets-feature-co-author-tweets-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
