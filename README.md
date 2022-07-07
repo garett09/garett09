@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Devin Booker, Sue Bird &amp; Diana Taurasi, and Michael Jordan Set to Grace the Covers of NBA 2K23](https://news.xbox.com/en-us/2022/07/07/nba-2k23-cover-athletes-reveal/)
- - [A closer look at the turn-based combat in Sea of Stars](https://blog.playstation.com/2022/07/07/a-closer-look-at-the-turn-based-combat-in-sea-of-stars/)
- - [A closer look at the turn-based combat in Sea of Stars](https://blog.playstation.com/2022/07/07/a-closer-look-at-the-turn-based-combat-in-sea-of-stars/)<!-- GAME:END -->
+ - [Don&#39;t fear the metaverse, I&#39;ve seen the proof that it can work](https://www.pcgamer.com/dont-fear-the-metaverse-zwift)
+ - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
+ - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
