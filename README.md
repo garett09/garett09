@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
- - 🚯 [Give that man a comb](http://9gag.com/gag/aqGwb4P)
- - 🚯 [Perfection and a lot of free time.](http://9gag.com/gag/aOQ5zRy)<!-- MEMES:END -->
+ - 🚖 [At least my body can looks good](http://9gag.com/gag/aZr5gRp)
+ - 🚯 [Climate change protesters in Maryland shut down a highway and demand Joe Biden declare a `climate emergency`. One driver becomes upset and says that he&#39;s on parole and will go prison if they don&#39;t move](http://9gag.com/gag/a71XrYq)
+ - 🚯 [Me, when I have to go outside and socialize](http://9gag.com/gag/abgwMqL)<!-- MEMES:END -->
 
 --- 
 
