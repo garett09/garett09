@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice sign, bro](http://9gag.com/gag/aQX53Lw)
+ - 🚖 [Guess the country](http://9gag.com/gag/aE852Px)
  - 🚯 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)
- - 🚯 [The fuel crisis is solved!](http://9gag.com/gag/angwMDq)<!-- MEMES:END -->
+ - 🚯 [Dating profiles in 2020s](http://9gag.com/gag/aGz5jzX)<!-- MEMES:END -->
 
 --- 
 
