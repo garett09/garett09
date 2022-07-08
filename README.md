@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
- - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
- - [SpaceX debuts Starlink Maritime, a yacht-focused satellite internet service with speeds up to 350 Mbps, for $5K/month and a $10K one-time hardware fee &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/220707/p28#a220707p28)<!-- TECH:END -->
+ - [NASA condemns Russian cosmonauts displaying anti-Ukraine propaganda in space](https://www.theverge.com/2022/7/7/23199581/nasa-russia-roscosmos-cosmonauts-iss-ukraine-propaganda)
+ - [A former investment manager at Celsius Network sues the company, saying it defrauded his company KeyFi into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)
+ - [No One is Buying Chris Brown&#39;s NFT Collection     - CNET](https://www.cnet.com/personal-finance/crypto/no-one-is-buying-chris-browns-nft-collection/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
