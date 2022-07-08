@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmm. Onion rings](http://9gag.com/gag/aKm5EDN)
- - 🚯 [People drinking coffee](http://9gag.com/gag/a0Zq4KX)
+ - 🚖 [According to recent studies of Oxford university, Egg cells actually choose their sperm, the term `fastest sperm` has been debunked because even if you are the fastest sperm to reach the egg cells, it depends on the egg cell if it will accept the sperm.](http://9gag.com/gag/aWg5g3x)
+ - 🚯 [Please ladies, don&#39;t do this.](http://9gag.com/gag/azewxKB)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
