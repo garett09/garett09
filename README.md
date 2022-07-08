@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs posthumously awarded Presidential Medal of Freedom](https://appleinsider.com/articles/22/07/07/steve-jobs-posthumously-awarded-presidential-medal-of-freedom?utm_medium=rss)
- - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
- - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)<!-- TECH:END -->
+ - [The US DOJ indicts a Florida man for allegedly importing $1B worth of counterfeit Cisco equipment from China and selling it on Amazon and eBay &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220708/p13#a220708p13)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [Tether says it liquidated a loan to Celsius without incurring any losses; the bitcoin-denominated loan to Celsius was overcollateralized about 130% &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/220708/p12#a220708p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
