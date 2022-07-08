@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mornnniiiiiiiiing](http://9gag.com/gag/aVx57wd)
- - 🚯 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)
- - 🚯 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)<!-- MEMES:END -->
+ - 🚖 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
+ - 🚯 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)
+ - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
 
