@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 11 to 15](https://news.xbox.com/en-us/2022/07/08/next-week-on-xbox-new-games-for-july-11-to-15/)
- - [Supermassive’s horror factory rolls on: The Devil in Me will be out this fall](https://www.polygon.com/23200023/the-dark-pictures-the-devil-in-me-release-window-trailer)
- - [How to complete the Diallos quest in Elden Ring](https://www.pcgamer.com/elden-ring-diallos-quest)<!-- GAME:END -->
+ - [Welcome to Polygon Summer Camp!](https://www.polygon.com/23200164/welcome-to-polygon-summer-camp)
+ - [Game, Set, Match: How to Play Like a Real Tennis Star in Matchpoint – Tennis Championships](https://news.xbox.com/en-us/2022/07/08/how-to-play-like-a-real-tennis-star-matchpoint-tennis-championships/)
+ - [One Of The Year’s Best Games Finally Gets A Final Boss](https://kotaku.com/vampire-survivors-final-boss-pc-steam-itch-patch-1849156978)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
