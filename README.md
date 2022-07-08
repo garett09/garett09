@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3’s first post-launch map arrives at the end of July](https://www.polygon.com/23200275/hitman-3-ambrose-island-release-date-july-roadmap)
- - [Share of the Week: Vacation](https://blog.playstation.com/2022/07/08/share-of-the-week-vacation/)
- - [Share of the Week: Vacation](https://blog.playstation.com/2022/07/08/share-of-the-week-vacation/)<!-- GAME:END -->
+ - [Xbox and Kinda Funny Present: The As Dusk Falls Launch Events](https://news.xbox.com/en-us/2022/07/08/xbox-and-kinda-funny-present-the-as-dusk-falls-launch-events/)
+ - [Vince McMahon Reportedly Paid Four Women $12 Million To Keep Quiet About Alleged Affairs](https://kotaku.com/vince-mcmahon-wwe-investigation-sex-affair-hush-money-1849157420)
+ - [Even other Overwatch 2 heroes want Sigma to put on some shoes](https://www.polygon.com/23200138/overwatch-2-narrative-design-sigma-shoes-feet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
