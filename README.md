@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
- - 🚯 [I actually feel unease. Good times never last. But neither does the bad.](http://9gag.com/gag/aggwBeq)
+ - 🚖 [Tell me your night out stories please](http://9gag.com/gag/aogwKN0)
+ - 🚯 [Traditional Philippine Breakfast](http://9gag.com/gag/amgwgBy)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
