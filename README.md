@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 MacBook Air shipping dates instantly started slipping](https://appleinsider.com/articles/22/07/08/m2-macbook-air-shipping-dates-instantly-started-slipping?utm_medium=rss)
- - [Apple&#39;s MacBook Air with M2 processor is now available to preorder](https://appleinsider.com/articles/22/07/08/apples-macbook-air-with-m2-processor-is-now-available-to-preorder?utm_medium=rss)
- - [Some iPad mini 6 owners are seeing a charging problem after the iPadOS 15.5 update](https://appleinsider.com/articles/22/07/08/some-ipad-mini-6-have-a-charging-issue-after-the-ipados-155-update?utm_medium=rss)<!-- TECH:END -->
+ - [M2 MacBook Air preorders, iOS 16 Lockdown Mode, and Apple Watch Series 8 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/22/07/08/m2-macbook-air-preorders-ios-16-lockdown-mode-and-apple-watch-series-8-rumors-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Epic Beatles Documentary &#39;Get Back&#39; Lands on DVD and Blu-ray Soon     - CNET](https://www.cnet.com/culture/entertainment/get-back-epic-beatles-peter-jackson-documentary-lands-dvd-blu-ray/#ftag=CAD590a51e)
+ - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
