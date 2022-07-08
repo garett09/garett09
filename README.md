@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)
- - [Klonoa Phantasy Reverie Series Arrives Today for Xbox](https://news.xbox.com/en-us/2022/07/08/klonoa-phantasy-reverie-series-arrives-today-for-xbox/)
- - [Marvel Comics already has a roadmap for Jane Foster after Thor: Love and Thunder](https://www.polygon.com/23198547/thor-love-thunder-end-credits-scene-jane-death-valhalla)<!-- GAME:END -->
+ - [Yurei Deco is a candy-colored coming-of-age mystery set in a surveillance state](https://www.polygon.com/23197639/yurei-deco-anime-premiere-impressions)
+ - [Hearthstone Is Randomly Awarding Some Players A Ton Of Free Packs](https://kotaku.com/hearthstone-blizzard-free-packs-battle-net-sunken-city-1849158299)
+ - [George R.R. Martin has big updates on Winds of Winter and why his ending is very different from the show](https://www.polygon.com/23200605/game-of-thrones-books-ending-winds-of-winter-george-r-r-martin-song-ice-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
