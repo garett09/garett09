@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Marvel Studios’ Thor: Love and Thunder with the Goat Simulator Challenge](https://news.xbox.com/en-us/2022/07/08/xbox-celebrates-marvel-studios-thor-love-and-thunder/)
- - [The excellent Killing Floor 2 is free on the Epic Games Store](https://www.pcgamer.com/the-excellent-killing-floor-2-is-free-on-the-epic-games-store)
- - [Atlanta Faze apologises for misogynistic &#39;misguided tweet&#39; after backlash](https://www.pcgamer.com/atlanta-faze-apologises-for-misogynistic-misguided-tweet-after-backlash)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 11 to 15](https://news.xbox.com/en-us/2022/07/08/next-week-on-xbox-new-games-for-july-11-to-15/)
+ - [Supermassive’s horror factory rolls on: The Devil in Me will be out this fall](https://www.polygon.com/23200023/the-dark-pictures-the-devil-in-me-release-window-trailer)
+ - [How to complete the Diallos quest in Elden Ring](https://www.pcgamer.com/elden-ring-diallos-quest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
