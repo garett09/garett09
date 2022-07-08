@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock and buy houses and apartments in Final Fantasy 14](https://www.pcgamer.com/final-fantasy-14-buy-house-apartment)
- - [GameStop lays off staff and fires CFO, continues banking on blockchain](https://www.pcgamer.com/gamestop-lays-off-staff-and-fires-cfo-continues-banking-on-blockchain)
- - [The US seeks further restrictions on China&#39;s access to advanced chipmaking equipment](https://www.pcgamer.com/the-us-seeks-further-restrictions-on-chinas-access-to-advanced-chipmaking-equipment)<!-- GAME:END -->
+ - [Atlanta Faze apologises for misogynistic &#39;misguided tweet&#39; after backlash](https://www.pcgamer.com/atlanta-faze-apologises-for-misogynistic-misguided-tweet-after-backlash)
+ - [Elden Ring&#39;s horror is better because it&#39;s not dark and gloomy](https://www.pcgamer.com/elden-rings-horror-is-better-because-its-not-dark-and-gloomy)
+ - [This might be the first decent Robocop game since the &#39;80s](https://www.pcgamer.com/this-might-be-the-first-decent-robocop-game-since-the-80s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
