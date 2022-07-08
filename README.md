@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me your night out stories please](http://9gag.com/gag/aogwKN0)
- - 🚯 [Traditional Philippine Breakfast](http://9gag.com/gag/amgwgBy)
+ - 🚖 [He&#39;s got some valid points](http://9gag.com/gag/aggwoK6)
+ - 🚯 [Eternal Pain.](http://9gag.com/gag/aogwgX3)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
