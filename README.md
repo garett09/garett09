@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
- - 🚯 [Rest in peace. James Caan. 1940-2022](http://9gag.com/gag/aWg5xYd)
- - 🚯 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)<!-- MEMES:END -->
+ - 🚖 [Mornnniiiiiiiiing](http://9gag.com/gag/aVx57wd)
+ - 🚯 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)
+ - 🚯 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)<!-- MEMES:END -->
 
 --- 
 
