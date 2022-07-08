@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
- - 🚯 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)
+ - 🚖 [The next great Fallout weapon](http://9gag.com/gag/aZr5rxW)
+ - 🚯 [It&#39;s time for US-xit...oh wait](http://9gag.com/gag/aXr1rAD)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
