@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m The Homelander, and I can do whatever the f**k I want.](http://9gag.com/gag/aLv5vY5)
- - 🚯 [Mmm. Onion rings](http://9gag.com/gag/aKm5EDN)
+ - 🚖 [Mmm. Onion rings](http://9gag.com/gag/aKm5EDN)
+ - 🚯 [People drinking coffee](http://9gag.com/gag/a0Zq4KX)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
