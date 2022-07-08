@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Surefire Ways to Decorate a Backpack to Make It Look Brand-New     - CNET](https://www.cnet.com/news/4-surefire-ways-to-decorate-a-backpack-to-make-it-look-brand-new/#ftag=CAD590a51e)
- - [Tesla Will Let Other EV&#39;s Use Supercharger Stations Later In 2022     - CNET](https://www.cnet.com/roadshow/news/tesla-will-let-other-evs-use-supercharger-stations-later-in-2022/#ftag=CAD590a51e)
- - [Red Dead Online won’t get ‘major’ updates as Rockstar shifts to the next mainline GTA game](https://www.theverge.com/2022/7/7/23198569/red-dead-online-updates-rockstar-gta)<!-- TECH:END -->
+ - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
+ - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
+ - [SpaceX debuts Starlink Maritime, a yacht-focused satellite internet service with speeds up to 350 Mbps, for $5K/month and a $10K one-time hardware fee &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/220707/p28#a220707p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
