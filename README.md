@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Robocop, Terminator Games Are Coming](https://kotaku.com/robocop-rogue-city-terminator-survival-project-new-game-1849155016)
- - [Steam&#39;s most wishlisted game gets knocked over by a cat](https://www.pcgamer.com/steams-most-wishlisted-game-gets-knocked-over-by-a-cat)
- - [Look elegant and punch your bullies in Uniqlo’s new Spy x Family collab](https://www.polygon.com/23199143/spy-x-family-uniqlo-collaboration)<!-- GAME:END -->
+ - [Initial D x Nike Dunks Are Just Lovely](https://kotaku.com/initial-d-nike-dunk-low-custom-sneaker-shoe-manga-anime-1849155392)
+ - [Hearthstone players are getting up to 150 free packs as a welcome back gift](https://www.pcgamer.com/hearthstone-players-are-getting-up-to-150-free-packs-as-a-welcome-back-gift)
+ - [Obscure Japanese PS1 Game Finally Available In English](https://kotaku.com/obscure-japanese-ps1-game-finally-available-in-english-1849155145)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
