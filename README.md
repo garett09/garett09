@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York state law passed last week will require concealed carry gun permit applicants to submit a list of social media accounts from the previous three years &lpar;Associated Press&rpar;](http://www.techmeme.com/220708/p9#a220708p9)
- - [Garmin Forerunner 955 review: King of the road](https://www.androidauthority.com/garmin-forerunner-955-review-3180682/)
- - [How to turn off automatic updates in Windows](https://www.androidauthority.com/turn-off-automatic-updates-windows-3183680/)<!-- TECH:END -->
+ - [Congress demands info from period tracking apps and data brokers, including policies on geofencing, as part of an investigation into reproductive health data &lpar;VICE&rpar;](http://www.techmeme.com/220708/p11#a220708p11)
+ - [Roger Goodell tries to explain why the league is launching NFL Plus](https://www.theverge.com/2022/7/8/23200219/nfl-plus-streaming-service-roger-goodell)
+ - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
