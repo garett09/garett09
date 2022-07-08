@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The next great Fallout weapon](http://9gag.com/gag/aZr5rxW)
- - 🚯 [It&#39;s time for US-xit...oh wait](http://9gag.com/gag/aXr1rAD)
+ - 🚖 [So confident in his skill](http://9gag.com/gag/aBn5ngD)
+ - 🚯 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
