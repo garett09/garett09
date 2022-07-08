@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way he says done after every prepping](http://9gag.com/gag/aWg5G5q)
- - 🚯 [He&#39;s got some valid points](http://9gag.com/gag/aggwoK6)
+ - 🚖 [Shinzo Abe has died](http://9gag.com/gag/aZr5Dv3)
+ - 🚯 [Solar energy pannel roofing.. these new designs are coming great](http://9gag.com/gag/avAwWQn)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
