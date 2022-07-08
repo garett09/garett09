@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
- - [Sources say Twitter CEO Parag Agrawal has become more vocal and aggressive internally, as Twitter seems &quot;willing to go to war&quot; to make the Musk deal happen &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220708/p4#a220708p4)
- - [How to AirPlay from iPhone to Mac with macOS Monterey and iOS 15](https://appleinsider.com/articles/21/08/16/how-to-airplay-from-iphone-to-mac-with-macos-monterey-and-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s quest to repopulate the Earth](https://www.theverge.com/2022/7/8/23200141/elon-musk-shivon-zilis-twins-twitter)
+ - [Canadian telecom Rogers is experiencing a major outage, affecting 911 calls and internet access in parts of the country &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220708/p7#a220708p7)
+ - [Samsung SmartThings’ upcoming Philips Hue integration is around music, not TV](https://www.theverge.com/2022/7/8/23196869/samsung-smartthings-philips-hue-integration-tv-music)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
