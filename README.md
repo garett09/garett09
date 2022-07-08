@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, Updates, and More](https://news.xbox.com/en-us/2022/07/08/this-week-on-xbox-new-games-updates-and-more/)
- - [Canada&#39;s biggest telecom company is completely offline and nobody knows why](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)
- - [License to Thrill – Iconic Franchises and Exciting New IP Wow at Nacon Connect](https://news.xbox.com/en-us/2022/07/08/nacon-connect-recap/)<!-- GAME:END -->
+ - [The Sickest Skate 4 Footage Yet Just Leaked](https://kotaku.com/skate-4-leaks-ea-early-gameplay-skateboarding-kickflip-1849159135)
+ - [Team Fortress 2 fans push Valve into releasing another beefy update](https://www.pcgamer.com/team-fortress-2-fans-push-valve-into-releasing-another-beefy-update)
+ - [Logan Paul Turns Most Expensive Pokémon Card In The World Into An NFT](https://kotaku.com/logan-paul-pokemon-pikachu-illustrator-nft-blockchain-1849158886)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
