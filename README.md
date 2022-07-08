@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Joe Biden issues an EO calling on FTC and other agencies to examine and reinforce protections for reproductive health and other sensitive health-related data &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220708/p16#a220708p16)
- - [Right to repair: FTC forces Weber to tell grillmasters it’s OK to use third-party parts](https://www.theverge.com/2022/7/8/23200649/right-to-repair-ftc-weber-third-party-parts-warranty-act)<!-- TECH:END -->
+ - [Elon Musk files to exit $44 billion Twitter deal](https://appleinsider.com/articles/22/07/08/elon-musk-files-to-exit-44-billion-twitter-deal?utm_medium=rss)
+ - [Captain America 4 will be directed by The Cloverfield Paradox’s Julius Onah](https://www.theverge.com/2022/7/8/23200915/captain-america-4-julius-onah)
+ - [Twitter board chairman Bret Taylor says it plans to pursue legal action to enforce the deal and is committed to closing it on the price and terms agreed upon &lpar;Axios&rpar;](http://www.techmeme.com/220708/p18#a220708p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
