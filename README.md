@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please ladies, don&#39;t do this.](http://9gag.com/gag/azewxKB)
- - 🚯 [It was an eye roll for the ages, after Trump&#39;s signature, 30-second-long, vigorous handshake. RIP Shinzo Abe](http://9gag.com/gag/a0Zqe8n)
+ - 🚖 [Thank god we&#39;re too smart to let that hap....oh shit we&#39;re f**ked.](http://9gag.com/gag/a41y6xQ)
+ - 🚯 [The Moon](http://9gag.com/gag/aQX5vx2)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
