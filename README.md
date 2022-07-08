@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink’s Dishy McFlatface internet now available for Boaty McBoatfaces — just $5,000 per month](https://www.theverge.com/2022/7/8/23199866/starlink-maritime-water-price-speed)
- - [Europe&#39;s Big Tech Law Is Approved. Now Comes the Hard Part](https://www.wired.com/story/digital-services-act-regulation/)
- - [EV Road Trips: An Ounce of Prevention Saves a Pound of Stress     - CNET](https://www.cnet.com/roadshow/news/ev-road-trips-an-ounce-of-prevention-saves-a-pound-of-stress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft rolls back blocking Office VBA macros by default](https://www.theverge.com/2022/7/8/23199894/microsoft-block-office-vba-macros-default-roll-out-stopped)
+ - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
+ - [Cruise&#39;s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
