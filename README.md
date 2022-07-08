@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ indicts a Florida man for allegedly importing $1B worth of counterfeit Cisco equipment from China and selling it on Amazon and eBay &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220708/p13#a220708p13)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
- - [Tether says it liquidated a loan to Celsius without incurring any losses; the bitcoin-denominated loan to Celsius was overcollateralized about 130% &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/220708/p12#a220708p12)<!-- TECH:END -->
+ - [Source: Oracle considered cost reductions of up to $1B that could result in thousands of layoffs as soon as August, mostly impacting staff in the US and Europe &lpar;The Information&rpar;](http://www.techmeme.com/220708/p15#a220708p15)
+ - [Transcend JetDrive Lite review: An easy way to add local storage to the MacBook Pro](https://appleinsider.com/articles/22/07/08/transcend-jetdrive-lite-review-an-easy-way-to-add-local-storage-to-the-macbook-pro?utm_medium=rss)
+ - [Brazil-based Creditas, which operates an online consumer loans service, raises $200M, bringing its total funding to $830M, and buys a Brazilian banking license &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/220708/p14#a220708p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
