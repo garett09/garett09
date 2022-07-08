@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Y\u2019all share your best Boris Johnson photos](http://9gag.com/gag/a513XwL)
- - 🚯 [And a big mouth](http://9gag.com/gag/angwOzb)
- - 🚯 [What happened?](http://9gag.com/gag/aPZ2xnq)<!-- MEMES:END -->
+ - 🚖 [And a big mouth](http://9gag.com/gag/angwOzb)
+ - 🚯 [After an epic fish fight Michelle Bancewicz Cicale\u00a0from Seabrook, New Hampshire reels in a 643lbs &lpar;291.66 kilo&rpar; Bluefin Tuna solo on her boat `No Limits`\u00a0Oct2021](http://9gag.com/gag/aNP59p6)
+ - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
 
