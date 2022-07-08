@@ -190,7 +190,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [Former Japanese PM Shinzo Abe Shot in Reported Assassination Attempt     - CNET](https://www.cnet.com/news/politics/former-japanese-pm-shinzo-abe-shot-in-reported-assassination-attempt/#ftag=CAD590a51e)
  - [NASA condemns Russian cosmonauts displaying anti-Ukraine propaganda in space](https://www.theverge.com/2022/7/7/23199581/nasa-russia-roscosmos-cosmonauts-iss-ukraine-propaganda)
- - [A former investment manager at Celsius Network sues the company, saying it defrauded his company KeyFi into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)<!-- TECH:END -->
+ - [A former investment manager at Celsius sues the company, saying it ran a Ponzi scheme and defrauded his company into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
