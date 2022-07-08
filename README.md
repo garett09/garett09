@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Initial D x Nike Dunks Are Just Lovely](https://kotaku.com/initial-d-nike-dunk-low-custom-sneaker-shoe-manga-anime-1849155392)
- - [Hearthstone players are getting up to 150 free packs as a welcome back gift](https://www.pcgamer.com/hearthstone-players-are-getting-up-to-150-free-packs-as-a-welcome-back-gift)
- - [Obscure Japanese PS1 Game Finally Available In English](https://kotaku.com/obscure-japanese-ps1-game-finally-available-in-english-1849155145)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 class guide](https://www.pcgamer.com/baldurs-gate-3-classes)
+ - [Baldur&#39;s Gate 3 races guide](https://www.pcgamer.com/baldurs-gate-3-races)
+ - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
