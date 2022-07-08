@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yurei Deco is a candy-colored coming-of-age mystery set in a surveillance state](https://www.polygon.com/23197639/yurei-deco-anime-premiere-impressions)
- - [Hearthstone Is Randomly Awarding Some Players A Ton Of Free Packs](https://kotaku.com/hearthstone-blizzard-free-packs-battle-net-sunken-city-1849158299)
- - [George R.R. Martin has big updates on Winds of Winter and why his ending is very different from the show](https://www.polygon.com/23200605/game-of-thrones-books-ending-winds-of-winter-george-r-r-martin-song-ice-fire)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Updates, and More](https://news.xbox.com/en-us/2022/07/08/this-week-on-xbox-new-games-updates-and-more/)
+ - [Canada&#39;s biggest telecom company is completely offline and nobody knows why](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)
+ - [License to Thrill – Iconic Franchises and Exciting New IP Wow at Nacon Connect](https://news.xbox.com/en-us/2022/07/08/nacon-connect-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
