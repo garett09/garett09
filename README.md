@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s quest to repopulate the Earth](https://www.theverge.com/2022/7/8/23200141/elon-musk-shivon-zilis-twins-twitter)
- - [Canadian telecom Rogers is experiencing a major outage, affecting 911 calls and internet access in parts of the country &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220708/p7#a220708p7)
- - [Samsung SmartThings’ upcoming Philips Hue integration is around music, not TV](https://www.theverge.com/2022/7/8/23196869/samsung-smartthings-philips-hue-integration-tv-music)<!-- TECH:END -->
+ - [A New York state law passed last week will require concealed carry gun permit applicants to submit a list of social media accounts from the previous three years &lpar;Associated Press&rpar;](http://www.techmeme.com/220708/p9#a220708p9)
+ - [Garmin Forerunner 955 review: King of the road](https://www.androidauthority.com/garmin-forerunner-955-review-3180682/)
+ - [How to turn off automatic updates in Windows](https://www.androidauthority.com/turn-off-automatic-updates-windows-3183680/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
