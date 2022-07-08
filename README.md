@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [According to recent studies of Oxford university, Egg cells actually choose their sperm, the term `fastest sperm` has been debunked because even if you are the fastest sperm to reach the egg cells, it depends on the egg cell if it will accept the sperm.](http://9gag.com/gag/aWg5g3x)
- - 🚯 [Please ladies, don&#39;t do this.](http://9gag.com/gag/azewxKB)
+ - 🚖 [Next PM of UK](http://9gag.com/gag/a21pvMe)
+ - 🚯 [The way he says done after every prepping](http://9gag.com/gag/aWg5G5q)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
