@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shinzo Abe has died](http://9gag.com/gag/aZr5Dv3)
- - 🚯 [Solar energy pannel roofing.. these new designs are coming great](http://9gag.com/gag/avAwWQn)
+ - 🚖 [Muh electric cars](http://9gag.com/gag/aZr5nv6)
+ - 🚯 [Tons of Anarchy](http://9gag.com/gag/aogwyVn)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
