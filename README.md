@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft rolls back blocking Office VBA macros by default](https://www.theverge.com/2022/7/8/23199894/microsoft-block-office-vba-macros-default-roll-out-stopped)
- - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
- - [Cruise&#39;s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)<!-- TECH:END -->
+ - [M2 MacBook Air shipping dates instantly started slipping](https://appleinsider.com/articles/22/07/08/m2-macbook-air-shipping-dates-instantly-started-slipping?utm_medium=rss)
+ - [Apple&#39;s MacBook Air with M2 processor is now available to preorder](https://appleinsider.com/articles/22/07/08/apples-macbook-air-with-m2-processor-is-now-available-to-preorder?utm_medium=rss)
+ - [Some iPad mini 6 owners are seeing a charging problem after the iPadOS 15.5 update](https://appleinsider.com/articles/22/07/08/some-ipad-mini-6-have-a-charging-issue-after-the-ipados-155-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
