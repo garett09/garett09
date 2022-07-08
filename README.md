@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 MacBook Air preorders, iOS 16 Lockdown Mode, and Apple Watch Series 8 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/22/07/08/m2-macbook-air-preorders-ios-16-lockdown-mode-and-apple-watch-series-8-rumors-on-the-appleinsider-podcast?utm_medium=rss)
- - [Epic Beatles Documentary &#39;Get Back&#39; Lands on DVD and Blu-ray Soon     - CNET](https://www.cnet.com/culture/entertainment/get-back-epic-beatles-peter-jackson-documentary-lands-dvd-blu-ray/#ftag=CAD590a51e)
- - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
+ - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
+ - [Sources say Twitter CEO Parag Agrawal has become more vocal and aggressive internally, as Twitter seems &quot;willing to go to war&quot; to make the Musk deal happen &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220708/p4#a220708p4)
+ - [How to AirPlay from iPhone to Mac with macOS Monterey and iOS 15](https://appleinsider.com/articles/21/08/16/how-to-airplay-from-iphone-to-mac-with-macos-monterey-and-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
