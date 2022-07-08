@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation Store removes purchased movies from libraries after service shutdown](https://www.theverge.com/2022/7/8/23199861/playstation-store-film-tv-show-removed-austria-germany-studiocanal)
- - [Tech companies&#39; offer to help employees sidestep abortion bans does not cover gig workers, temporary workers, and subcontractors, deepening the workplace divide &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220708/p1#a220708p1)
- - [Poll: What’s the smallest battery size you’re willing to settle for on a phone?](https://www.androidauthority.com/battery-size-phone-poll-3184464/)<!-- TECH:END -->
+ - [Starlink’s Dishy McFlatface internet now available for Boaty McBoatfaces — just $5,000 per month](https://www.theverge.com/2022/7/8/23199866/starlink-maritime-water-price-speed)
+ - [Europe&#39;s Big Tech Law Is Approved. Now Comes the Hard Part](https://www.wired.com/story/digital-services-act-regulation/)
+ - [EV Road Trips: An Ounce of Prevention Saves a Pound of Stress     - CNET](https://www.cnet.com/roadshow/news/ev-road-trips-an-ounce-of-prevention-saves-a-pound-of-stress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
