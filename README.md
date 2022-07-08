@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So confident in his skill](http://9gag.com/gag/aBn5ngD)
+ - 🚖 [Cool uniform](http://9gag.com/gag/aWg5gDK)
  - 🚯 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
