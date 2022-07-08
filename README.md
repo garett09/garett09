@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool uniform](http://9gag.com/gag/aWg5gDK)
- - 🚯 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
+ - 🚖 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
+ - 🚯 [I actually feel unease. Good times never last. But neither does the bad.](http://9gag.com/gag/aggwBeq)
  - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 --- 
