@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk and the $44 billion Twitter buyout he’s trying to terminate](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - [Elon Musk files to exit $44 billion Twitter deal](https://appleinsider.com/articles/22/07/08/elon-musk-files-to-exit-44-billion-twitter-deal?utm_medium=rss)
- - [Captain America 4 will be directed by The Cloverfield Paradox’s Julius Onah](https://www.theverge.com/2022/7/8/23200915/captain-america-4-julius-onah)
- - [Twitter board chairman Bret Taylor says it plans to pursue legal action to enforce the deal and is committed to closing it on the price and terms agreed upon &lpar;Axios&rpar;](http://www.techmeme.com/220708/p18#a220708p18)<!-- TECH:END -->
+ - [Twitter says it’s going to sue Elon Musk for trying to back out of the deal](https://www.theverge.com/2022/7/8/23201004/twitter-to-sue-elon-musk-for-backing-out-of-merger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
