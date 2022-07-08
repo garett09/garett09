@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Polygon Summer Camp!](https://www.polygon.com/23200164/welcome-to-polygon-summer-camp)
- - [Game, Set, Match: How to Play Like a Real Tennis Star in Matchpoint – Tennis Championships](https://news.xbox.com/en-us/2022/07/08/how-to-play-like-a-real-tennis-star-matchpoint-tennis-championships/)
- - [One Of The Year’s Best Games Finally Gets A Final Boss](https://kotaku.com/vampire-survivors-final-boss-pc-steam-itch-patch-1849156978)<!-- GAME:END -->
+ - [Hitman 3’s first post-launch map arrives at the end of July](https://www.polygon.com/23200275/hitman-3-ambrose-island-release-date-july-roadmap)
+ - [Share of the Week: Vacation](https://blog.playstation.com/2022/07/08/share-of-the-week-vacation/)
+ - [Share of the Week: Vacation](https://blog.playstation.com/2022/07/08/share-of-the-week-vacation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
