@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hype Machine That Turned Minions Into a $4B Juggernaut](https://www.wired.com/story/minions-meme-gentleminions-minionscult/)
- - [Thor: Love and Thunder’s Biggest Drawback? It’s Just for Fans](https://www.wired.com/story/review-thor-love-and-thunder/)
- - [9 Great Early Prime Day Deals on Tremendous TVs](https://www.wired.com/story/early-amazon-prime-day-tv-deals/)<!-- TECH:END -->
+ - [How Africa-based Chinese influencers who post racist videos about Africans on apps like Douyin are making fortunes from China&#39;s livestream e-commerce industry &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/220709/p3#a220709p3)
+ - [A Long-Lost Rare Crayfish Resurfaces in an Alabama Cave](https://www.wired.com/story/a-long-lost-rare-crayfish-resurfaces-in-an-alabama-cave/)
+ - [The Quarry and Evil Dead: The Game Lure You Into a Scary Movie](https://www.wired.com/story/the-quarry-evil-dead-the-game-horror-movie-inspirations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
