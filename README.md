@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
- - 🚯 [Sri Lankan army platoon joined with protesters](http://9gag.com/gag/aBn5PWx)
- - 🚯 [Nucular](http://9gag.com/gag/a0Zq0qB)<!-- MEMES:END -->
+ - 🚖 [Darwin, explain this to me](http://9gag.com/gag/a71X0Ne)
+ - 🚯 [Sri Lankans have breached presidential palace. President is on the run](http://9gag.com/gag/aqGwQbP)
+ - 🚯 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)<!-- MEMES:END -->
 
 --- 
 
