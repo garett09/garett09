@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No baps. Only sniffs](http://9gag.com/gag/a81O2b3)
- - 🚯 [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
+ - 🚖 [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
+ - 🚯 [Famous meme](http://9gag.com/gag/a11j222)
  - 🚯 [Just some casual Olive Garden fashion.](http://9gag.com/gag/angwxVq)<!-- MEMES:END -->
 
 --- 
