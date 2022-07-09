@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All the f**king time...](http://9gag.com/gag/a513BZE)
- - 🚯 [Happy birthday !](http://9gag.com/gag/ay9w3GV)
- - 🚯 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)<!-- MEMES:END -->
+ - 🚖 [Thank god we&#39;re too smart to let that hap....oh shit we&#39;re f**ked.](http://9gag.com/gag/a41y6xQ)
+ - 🚯 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)
+ - 🚯 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)<!-- MEMES:END -->
 
 --- 
 
