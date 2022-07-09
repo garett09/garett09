@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Africa-based Chinese influencers who post racist videos about Africans on apps like Douyin are making fortunes from China&#39;s livestream e-commerce industry &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/220709/p3#a220709p3)
- - [A Long-Lost Rare Crayfish Resurfaces in an Alabama Cave](https://www.wired.com/story/a-long-lost-rare-crayfish-resurfaces-in-an-alabama-cave/)
- - [The Quarry and Evil Dead: The Game Lure You Into a Scary Movie](https://www.wired.com/story/the-quarry-evil-dead-the-game-horror-movie-inspirations/)<!-- TECH:END -->
+ - [Daily deals July 9: $200 HP 28-inch 4K monitor, Samsung Pro Plus 128GB microSD for $20.99, $40 IOGear Print Server, more](https://appleinsider.com/articles/22/07/09/daily-deals-july-9-200-hp-28-inch-4k-monitor-samsung-pro-plus-128gb-microsd-for-2099-40-iogear-print-server-more?utm_medium=rss)
+ - [Chinese Police Exposed 1B People&#39;s Data in Unprecedented Leak](https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/)
+ - [Leaks Give a Peek at Upcoming Apple and Samsung Watches](https://www.wired.com/story/leaks-upcoming-apple-samsung-watches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
