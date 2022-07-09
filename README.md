@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the weekend my dudes](http://9gag.com/gag/a9105Mm)
- - 🚯 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)
- - 🚯 [Our boy John did it!](http://9gag.com/gag/aE85Avo)<!-- MEMES:END -->
+ - 🚖 [Every morning to work](http://9gag.com/gag/aZr583Q)
+ - 🚯 [Motivation](http://9gag.com/gag/aDD58PN)
+ - 🚯 [Tequila](http://9gag.com/gag/aNP5vOG)<!-- MEMES:END -->
 
 --- 
 
