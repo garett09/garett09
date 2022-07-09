@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-440-3184652/)<!-- TECH:END -->
+ - [Elon Musk&#39;s offer to buy Twitter likely was a joke, since he previously pretended he would take Tesla private, but he may not be able to get out of the deal &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220709/p5#a220709p5)
+ - [How I fixed my sleep and wake-up pattern with Hue’s hidden automations](https://www.androidauthority.com/hue-lights-sleep-wake-up-3182713/)
+ - [iPhone 14 could cost $100 more than iPhone 13](https://appleinsider.com/articles/22/07/09/iphone-14-could-cost-100-more-than-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
