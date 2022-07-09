@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)
- - 🚯 [Unboxing sawmill blades is quite dangerous](http://9gag.com/gag/a31r0Mr)
- - 🚯 [Nucular](http://9gag.com/gag/a0Zq0qB)<!-- MEMES:END -->
+ - 🚖 [Grandpa\u2019s reaction to grandsons 3D printer](http://9gag.com/gag/aYr5O87)
+ - 🚯 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
+ - 🚯 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)<!-- MEMES:END -->
 
 --- 
 
