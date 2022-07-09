@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandpa\u2019s reaction to grandsons 3D printer](http://9gag.com/gag/aYr5O87)
+ - 🚖 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)
  - 🚯 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
- - 🚯 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)<!-- MEMES:END -->
+ - 🚯 [\u201cEnd of quote, repeat the line\u201d](http://9gag.com/gag/aogwR9m)<!-- MEMES:END -->
 
 --- 
 
