@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The trolley theory](http://9gag.com/gag/aPZ2QVw)
- - 🚯 [Famous meme](http://9gag.com/gag/a11j222)
- - 🚯 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)<!-- MEMES:END -->
+ - 🚖 [Famous meme](http://9gag.com/gag/a11j222)
+ - 🚯 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)
+ - 🚯 [The trolley theory](http://9gag.com/gag/aPZ2QVw)<!-- MEMES:END -->
 
 --- 
 
