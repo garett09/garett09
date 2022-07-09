@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Muh electric cars](http://9gag.com/gag/aZr5nv6)
- - 🚯 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)
- - 🚯 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
+ - 🚖 [Two actors that were born for their roles.](http://9gag.com/gag/aM45B7R)
+ - 🚯 [Did she notice it?](http://9gag.com/gag/amgwG6V)
+ - 🚯 [Happy birthday !](http://9gag.com/gag/ay9w3GV)<!-- MEMES:END -->
 
 --- 
 
