@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to master Lens, Google’s incredibly useful visual search tool](https://www.androidauthority.com/google-lens-guide-3183845/)
  - [CIRP: the number of Amazon Prime members in the US remained at 172M as of June 30, the same as six months earlier, after Amazon raised prices in February 2022 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220709/p2#a220709p2)
- - [Best Keto Meal Delivery for 2022     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
- - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The most common Xiaomi Mi Band problems and how to fix them](https://www.androidauthority.com/xiaomi-mi-band-problems-issues-3182177/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
