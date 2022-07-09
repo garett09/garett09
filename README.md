@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [California](http://9gag.com/gag/aqGwQpj)
- - 🚯 [If you don&#39;t find this hilarious ...](http://9gag.com/gag/abgwWp8)
- - 🚯 [Dude \u2026 this got me so hard xD](http://9gag.com/gag/a513GzO)<!-- MEMES:END -->
+ - 🚖 [Explain to me how you not brainwashed?](http://9gag.com/gag/a81O2oY)
+ - 🚯 [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
+ - 🚯 [. .](http://9gag.com/gag/ay9wWZV)<!-- MEMES:END -->
 
 --- 
 
