@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
- - 🚯 [Old school designs are so much more practical](http://9gag.com/gag/a71X04q)
- - 🚯 [California](http://9gag.com/gag/aqGwQpj)<!-- MEMES:END -->
+ - 🚯 [California](http://9gag.com/gag/aqGwQpj)
+ - 🚯 [The women who demolished fast food in NYC were caught and charged. Sweet justice](http://9gag.com/gag/a31ryN7)<!-- MEMES:END -->
 
 --- 
 
