@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)
- - 🚯 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
- - 🚯 [\u201cEnd of quote, repeat the line\u201d](http://9gag.com/gag/aogwR9m)<!-- MEMES:END -->
+ - 🚖 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
+ - 🚯 [Sri Lankan army platoon joined with protesters](http://9gag.com/gag/aBn5PWx)
+ - 🚯 [Nucular](http://9gag.com/gag/a0Zq0qB)<!-- MEMES:END -->
 
 --- 
 
