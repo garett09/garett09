@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
- - 🚯 [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
- - 🚯 [. .](http://9gag.com/gag/ay9wWZV)<!-- MEMES:END -->
+ - 🚖 [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
+ - 🚯 [Old school designs are so much more practical](http://9gag.com/gag/a71X04q)
+ - 🚯 [California](http://9gag.com/gag/aqGwQpj)<!-- MEMES:END -->
 
 --- 
 
