@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with NIST&#39;s Dustin Moody on the agency&#39;s recently selected encryption algorithms and why they&#39;re designed to withstand future quantum hacking threats &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/220709/p1#a220709p1)
  - [How to log out of the Amazon app or website](https://www.androidauthority.com/log-out-amazon-3182858/)
- - [Massive Rogers outage cut off 25 percent of Canada’s internet traffic for nearly all of Friday](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
- - [As tech stocks fall, Andreessen Horowitz, Sequoia, GGV, and other VC firms are buying publicly traded stocks of companies whose prospects they deem to be strong &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220708/p21#a220708p21)<!-- TECH:END -->
+ - [Massive Rogers outage cut off 25 percent of Canada’s internet traffic for nearly all of Friday](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
