@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I kept a Google Fi line outside the US for 2 years. Here’s how that went.](https://www.androidauthority.com/google-fi-international-usage-opinion-3169701/)
  - [Daily deals July 9: $200 HP 28-inch 4K monitor, Samsung Pro Plus 128GB microSD for $20.99, $40 IOGear Print Server, more](https://appleinsider.com/articles/22/07/09/daily-deals-july-9-200-hp-28-inch-4k-monitor-samsung-pro-plus-128gb-microsd-for-2099-40-iogear-print-server-more?utm_medium=rss)
- - [Chinese Police Exposed 1B People&#39;s Data in Unprecedented Leak](https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/)
- - [Leaks Give a Peek at Upcoming Apple and Samsung Watches](https://www.wired.com/story/leaks-upcoming-apple-samsung-watches/)<!-- TECH:END -->
+ - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
