@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and the $44 billion Twitter buyout he’s trying to terminate](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Elon Musk files to exit $44 billion Twitter deal](https://appleinsider.com/articles/22/07/08/elon-musk-files-to-exit-44-billion-twitter-deal?utm_medium=rss)
- - [Twitter says it’s going to sue Elon Musk for trying to back out of the deal](https://www.theverge.com/2022/7/8/23201004/twitter-to-sue-elon-musk-for-backing-out-of-merger)<!-- TECH:END -->
+ - [In an internal memo, Twitter&#39;s general counsel says staffers should &quot;refrain from tweeting, Slacking, or sharing any commentary about the merger agreement&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/220708/p20#a220708p20)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Twitter tells employees not to tweet about Elon Musk deal](https://www.theverge.com/2022/7/8/23201108/twitter-tells-employees-not-to-comment-on-musk-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
