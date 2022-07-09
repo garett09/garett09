@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
+ - 🚖 [The trolley theory](http://9gag.com/gag/aPZ2QVw)
  - 🚯 [Famous meme](http://9gag.com/gag/a11j222)
- - 🚯 [Just some casual Olive Garden fashion.](http://9gag.com/gag/angwxVq)<!-- MEMES:END -->
+ - 🚯 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)<!-- MEMES:END -->
 
 --- 
 
