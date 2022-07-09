@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every morning to work](http://9gag.com/gag/aZr583Q)
- - 🚯 [Motivation](http://9gag.com/gag/aDD58PN)
- - 🚯 [Tequila](http://9gag.com/gag/aNP5vOG)<!-- MEMES:END -->
+ - 🚖 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)
+ - 🚯 [Unboxing sawmill blades is quite dangerous](http://9gag.com/gag/a31r0Mr)
+ - 🚯 [Nucular](http://9gag.com/gag/a0Zq0qB)<!-- MEMES:END -->
 
 --- 
 
