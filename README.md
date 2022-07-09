@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)
- - [MacBook Air vs 13-inch MacBook Pro: Which M2 MacBook to buy](https://appleinsider.com/articles/22/07/08/macbook-air-vs-13-inch-macbook-pro-which-m2-macbook-to-buy?utm_medium=rss)
- - [Ford-backed autonomous car startup Argo AI lays off 150 employees](https://www.theverge.com/2022/7/9/23201966/ford-backed-autonomous-car-startup-argo-ai-lays-off-150-employees-driverless)<!-- TECH:END -->
+ - [Despite many of CJEU&#39;s rulings saying mass surveillance is banned in the EU, member states have been exploiting loopholes in them to collect and keep the data &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220709/p6#a220709p6)
+ - [Colombia court bans 5G iPhones and iPads in Ericsson patent case](https://appleinsider.com/articles/22/07/09/colombia-court-bans-5g-iphones-and-ipads-in-ericsson-patent-case?utm_medium=rss)
+ - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
