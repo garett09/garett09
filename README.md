@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I kept a Google Fi line outside the US for 2 years. Here’s how that went.](https://www.androidauthority.com/google-fi-international-usage-opinion-3169701/)
- - [Daily deals July 9: $200 HP 28-inch 4K monitor, Samsung Pro Plus 128GB microSD for $20.99, $40 IOGear Print Server, more](https://appleinsider.com/articles/22/07/09/daily-deals-july-9-200-hp-28-inch-4k-monitor-samsung-pro-plus-128gb-microsd-for-2099-40-iogear-print-server-more?utm_medium=rss)
- - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)
+ - [Amazfit’s long-lasting GTR 3 smartwatch is nearly $60 off for the first time](https://www.theverge.com/good-deals/2022/7/9/23200780/amazfit-gtr-3-smartwatch-wearable-google-nest-hub-max-audio-cam-floodlight-smart-home-deal-sale)
+ - [Apple CEO Tim Cook reportedly rides Rivian pickup at Sun Valley](https://appleinsider.com/articles/22/07/09/apple-ceo-tim-cook-reportedly-rides-rivian-pickup-at-sun-valley?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
