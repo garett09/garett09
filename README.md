@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darwin, explain this to me](http://9gag.com/gag/a71X0Ne)
- - 🚯 [Sri Lankans have breached presidential palace. President is on the run](http://9gag.com/gag/aqGwQbP)
- - 🚯 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)<!-- MEMES:END -->
+ - 🚖 [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
+ - 🚯 [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
+ - 🚯 [. .](http://9gag.com/gag/ay9wWZV)<!-- MEMES:END -->
 
 --- 
 
