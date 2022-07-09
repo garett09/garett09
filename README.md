@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank god we&#39;re too smart to let that hap....oh shit we&#39;re f**ked.](http://9gag.com/gag/a41y6xQ)
- - 🚯 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)
- - 🚯 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the weekend my dudes](http://9gag.com/gag/a9105Mm)
+ - 🚯 [After a Friday night food triathlon](http://9gag.com/gag/adgwQxM)
+ - 🚯 [Our boy John did it!](http://9gag.com/gag/aE85Avo)<!-- MEMES:END -->
 
 --- 
 
