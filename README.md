@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)
- - [Amazfit’s long-lasting GTR 3 smartwatch is nearly $60 off for the first time](https://www.theverge.com/good-deals/2022/7/9/23200780/amazfit-gtr-3-smartwatch-wearable-google-nest-hub-max-audio-cam-floodlight-smart-home-deal-sale)
- - [Apple CEO Tim Cook reportedly rides Rivian pickup at Sun Valley](https://appleinsider.com/articles/22/07/09/apple-ceo-tim-cook-reportedly-rides-rivian-pickup-at-sun-valley?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-440-3184652/)
+ - [A look at the game GeoGuessr, in which the best players can pinpoint in seconds where a Google Street View image has been taken &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220709/p4#a220709p4)
+ - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
