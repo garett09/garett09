@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to master Lens, Google’s incredibly useful visual search tool](https://www.androidauthority.com/google-lens-guide-3183845/)
- - [CIRP: the number of Amazon Prime members in the US remained at 172M as of June 30, the same as six months earlier, after Amazon raised prices in February 2022 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220709/p2#a220709p2)
- - [The most common Xiaomi Mi Band problems and how to fix them](https://www.androidauthority.com/xiaomi-mi-band-problems-issues-3182177/)<!-- TECH:END -->
+ - [The Hype Machine That Turned Minions Into a $4B Juggernaut](https://www.wired.com/story/minions-meme-gentleminions-minionscult/)
+ - [Thor: Love and Thunder’s Biggest Drawback? It’s Just for Fans](https://www.wired.com/story/review-thor-love-and-thunder/)
+ - [9 Great Early Prime Day Deals on Tremendous TVs](https://www.wired.com/story/early-amazon-prime-day-tv-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
