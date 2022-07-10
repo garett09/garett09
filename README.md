@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The trolley theory](http://9gag.com/gag/aPZ2QVw)
- - 🚯 [French big export](http://9gag.com/gag/aggw2rW)
- - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)<!-- MEMES:END -->
+ - 🚖 [French big export](http://9gag.com/gag/aggw2rW)
+ - 🚯 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
+ - 🚯 [Our prime minister at rock festival](http://9gag.com/gag/aZr5jg0)<!-- MEMES:END -->
 
 --- 
 
