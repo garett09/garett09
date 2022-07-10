@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;90s Back to the Future games really were manure](https://www.pcgamer.com/saturday-crapshoot-back-to-the-future)
- - [The Windows 11 &#39;context menu&#39; reverts me to a primal and inhuman state](https://www.pcgamer.com/the-windows-11-context-menu-reverts-me-to-a-primal-and-inhuman-state)
- - [Canada&#39;s biggest telecom company is back online, but questions remain](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)<!-- GAME:END -->
+ - [I&#39;m tired of roguelike deckbuilders, but this dicebuilder is a whole different story](https://www.pcgamer.com/im-tired-of-roguelike-deckbuilders-but-this-dicebuilder-is-a-whole-different-story)
+ - [How many save files do you keep per game?](https://www.pcgamer.com/how-many-save-files-do-you-keep-per-game)
+ - [The &#39;90s Back to the Future games really were manure](https://www.pcgamer.com/saturday-crapshoot-back-to-the-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
