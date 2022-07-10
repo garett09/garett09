@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber leaks reveal how it spread ‘fucking illegal’ ride-sharing globally](https://www.theverge.com/2022/7/10/23202857/uber-files-leak-kalanick-macron-ridesharing)
- - [First Touch Bar MacBook Pro models will become vintage on July 31](https://appleinsider.com/articles/22/07/10/first-touch-bar-macbook-pro-models-will-become-vintage-on-july-31?utm_medium=rss)
- - [Amazon Fire 7 &lpar;2022&rpar; review: Carry-on companion](https://www.androidauthority.com/amazon-fire-7-2022-review-3182715/)<!-- TECH:END -->
+ - [Twitter reportedly hires the firm that invented the ‘poison pill’ to sue Elon Musk](https://www.theverge.com/2022/7/10/23202931/elon-musk-lawsuit-twitter-merger-delaware)
+ - [Uber Leak Reportedly Reveals Battles With Governments, Taxi Firms and Labor Laws     - CNET](https://www.cnet.com/news/uber-leak-reportedly-reveals-battles-with-governments-taxi-firms-and-labor-laws/#ftag=CAD590a51e)
+ - [This Secret Prime Day Coupon Page Helps Saves Prime Members Even More     - CNET](https://www.cnet.com/deals/amazons-hidden-coupon-page-saves-prime-members-even-more-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
