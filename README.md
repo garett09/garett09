@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priorities](http://9gag.com/gag/aRrdO6Q)
- - 🚯 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)
- - 🚯 [Respect](http://9gag.com/gag/aYr5Amq)<!-- MEMES:END -->
+ - 🚖 [Wait\u2026](http://9gag.com/gag/a31rbd7)
+ - 🚯 [This dad handled his daughter&#39;s tantrum in the best way](http://9gag.com/gag/aegw7gQ)
+ - 🚯 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)<!-- MEMES:END -->
 
 --- 
 
