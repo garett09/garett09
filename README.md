@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter reportedly hires the firm that invented the ‘poison pill’ to sue Elon Musk](https://www.theverge.com/2022/7/10/23202931/elon-musk-lawsuit-twitter-merger-delaware)
- - [Uber Leak Reportedly Reveals Battles With Governments, Taxi Firms and Labor Laws     - CNET](https://www.cnet.com/news/uber-leak-reportedly-reveals-battles-with-governments-taxi-firms-and-labor-laws/#ftag=CAD590a51e)
- - [This Secret Prime Day Coupon Page Helps Saves Prime Members Even More     - CNET](https://www.cnet.com/deals/amazons-hidden-coupon-page-saves-prime-members-even-more-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HyperJuice 4-in-1 MagSafe charger review: One wireless charger to do it all](https://appleinsider.com/articles/22/07/10/hyperjuice-4-in-1-magsafe-charger-review-one-wireless-charger-to-do-it-all?utm_medium=rss)
+ - [Best Prime Day TV Deals: $1,000 Off Samsung QLED, $330 Off Amazon Omni and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Ford-backed autonomous car startup Argo AI lays off 150 employees](https://www.theverge.com/2022/7/9/23201966/ford-backed-autonomous-car-startup-argo-ai-lays-off-150-employees-driverless)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
