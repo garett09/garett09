@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you for watching](http://9gag.com/gag/aOQ5GY6)
- - 🚯 [Sun Tzu](http://9gag.com/gag/aWg5R32)
+ - 🚖 [Sun Tzu](http://9gag.com/gag/aWg5R32)
+ - 🚯 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
  - 🚯 [Dont. move\u2026\u2026..](http://9gag.com/gag/a6168b8)<!-- MEMES:END -->
 
 --- 
