@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Overthinking his life](http://9gag.com/gag/amgwnY2)
- - 🚯 [Some good news](http://9gag.com/gag/azewYnb)
+ - 🚖 [Two idiots on the road](http://9gag.com/gag/arnw8Ey)
+ - 🚯 [India in 1922](http://9gag.com/gag/aDD5M8N)
  - 🚯 [Old pc](http://9gag.com/gag/ay9wvzb)<!-- MEMES:END -->
 
 --- 
