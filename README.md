@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can be a legend, or merely lunch.](http://9gag.com/gag/aBn54EO)
- - 🚯 [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)
+ - 🚖 [Sun Tzu](http://9gag.com/gag/aWg5R32)
+ - 🚯 [Karma is a B!t*h](http://9gag.com/gag/a616Gwq)
  - 🚯 [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)<!-- MEMES:END -->
 
 --- 
