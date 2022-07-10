@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sun Tzu](http://9gag.com/gag/aWg5R32)
- - 🚯 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
- - 🚯 [Dont. move\u2026\u2026..](http://9gag.com/gag/a6168b8)<!-- MEMES:END -->
+ - 🚖 [Just do it!!](http://9gag.com/gag/ay9wzeM)
+ - 🚯 [Overthinking his life](http://9gag.com/gag/amgwnY2)
+ - 🚯 [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)<!-- MEMES:END -->
 
 --- 
 
