@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [India in 1922](http://9gag.com/gag/aDD5M8N)
- - 🚯 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
- - 🚯 [Just do it!!](http://9gag.com/gag/ay9wzeM)<!-- MEMES:END -->
+ - 🚖 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
+ - 🚯 [Thoughts and prayers](http://9gag.com/gag/a31rx9m)
+ - 🚯 [Can&#39;t wait to finish making my first game! I only usually have time after work to put some hours in, hope you like it so far!](http://9gag.com/gag/aQX5V1W)<!-- MEMES:END -->
 
 --- 
 
