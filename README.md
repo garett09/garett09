@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two idiots on the road](http://9gag.com/gag/arnw8Ey)
- - 🚯 [Y no riot?](http://9gag.com/gag/aBn54gx)
- - 🚯 [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)<!-- MEMES:END -->
+ - 🚖 [Overthinking his life](http://9gag.com/gag/amgwnY2)
+ - 🚯 [Some good news](http://9gag.com/gag/azewYnb)
+ - 🚯 [Old pc](http://9gag.com/gag/ay9wvzb)<!-- MEMES:END -->
 
 --- 
 
