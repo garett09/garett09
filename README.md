@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just do it!!](http://9gag.com/gag/ay9wzeM)
- - 🚯 [Overthinking his life](http://9gag.com/gag/amgwnY2)
- - 🚯 [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)<!-- MEMES:END -->
+ - 🚖 [India in 1922](http://9gag.com/gag/aDD5M8N)
+ - 🚯 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
+ - 🚯 [Just do it!!](http://9gag.com/gag/ay9wzeM)<!-- MEMES:END -->
 
 --- 
 
