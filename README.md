@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify quietly rolls out real-time lyrics on the Nest Hub](https://www.theverge.com/2022/7/10/23202741/spotify-real-time-lyrics-google-nest-hub-max)
  - [Interview with Chip Morningstar, a developer behind Lucasfilm&#39;s MMORPG forerunner Habitat, on lessons learned building the game, metaverse, blockchain, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220710/p4#a220710p4)
- - [It’s going to be a long time before wearables replace smartphones](https://www.androidauthority.com/wearables-replace-smartphones-3181732/)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and MCU Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-mcu-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s going to be a long time before wearables replace smartphones](https://www.androidauthority.com/wearables-replace-smartphones-3181732/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
