@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thoughts and prayers](http://9gag.com/gag/a31rx9m)
- - 🚯 [Just do it!!](http://9gag.com/gag/ay9wzeM)
- - 🚯 [Just don\u2019t...](http://9gag.com/gag/avAwm6M)<!-- MEMES:END -->
+ - 🚖 [This is why ships use tugboats](http://9gag.com/gag/abgwmWL)
+ - 🚯 [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)
+ - 🚯 [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)<!-- MEMES:END -->
 
 --- 
 
