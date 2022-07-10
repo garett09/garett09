@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait\u2026](http://9gag.com/gag/a31rbd7)
- - 🚯 [This dad handled his daughter&#39;s tantrum in the best way](http://9gag.com/gag/aegw7gQ)
+ - 🚖 [Respect](http://9gag.com/gag/aYr5Amq)
+ - 🚯 [A pair of blue tit arrives in a new house. For 46 days they prepare the nest as they please with everything they find.](http://9gag.com/gag/aAG5O5L)
  - 🚯 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)<!-- MEMES:END -->
 
 --- 
