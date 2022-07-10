@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French big export](http://9gag.com/gag/aggw2rW)
+ - 🚖 [Massive Protest in Sri Lanka, Demonstrators occupied the president office July9th](http://9gag.com/gag/aOQ59Xy)
  - 🚯 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
- - 🚯 [Our prime minister at rock festival](http://9gag.com/gag/aZr5jg0)<!-- MEMES:END -->
+ - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)<!-- MEMES:END -->
 
 --- 
 
