@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Explain to me how you not brainwashed?](http://9gag.com/gag/a81O2oY)
- - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)
- - 🚯 [The trolley theory](http://9gag.com/gag/aPZ2QVw)<!-- MEMES:END -->
+ - 🚖 [The trolley theory](http://9gag.com/gag/aPZ2QVw)
+ - 🚯 [French big export](http://9gag.com/gag/aggw2rW)
+ - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)<!-- MEMES:END -->
 
 --- 
 
