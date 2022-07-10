@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hitman 3 is getting its first new map on July 26th as free DLC](https://www.theverge.com/2022/7/9/23202088/hitman-3-first-new-map-july-26th-free-dlc-ambrose-island)
- - [&#39;Star Wars: Shadow of the Sith&#39; Presents Luke Skywalker as the &#39;Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-presents-luke-skywalker-as-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)
- - [Despite many of CJEU&#39;s rulings saying mass surveillance is banned in the EU, member states have been exploiting loopholes in them to collect and keep the data &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220709/p6#a220709p6)<!-- TECH:END -->
+ - [16 Early Prime Day Deals That Won&#39;t Last Much Longer     - CNET](https://www.cnet.com/health/11-early-prime-day-deals-that-wont-last-much-longer/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Disappointingly Shallow Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-disappointingly-shallow-marvel-encore/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
