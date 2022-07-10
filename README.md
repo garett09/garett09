@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/ajgwWyg)
- - 🚯 [Free fruit daily](http://9gag.com/gag/aGz571G)
- - 🚯 [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)<!-- MEMES:END -->
+ - 🚖 [You can be a legend, or merely lunch.](http://9gag.com/gag/aBn54EO)
+ - 🚯 [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)
+ - 🚯 [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)<!-- MEMES:END -->
 
 --- 
 
