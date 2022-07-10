@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Massive Protest in Sri Lanka, Demonstrators occupied the president office July9th](http://9gag.com/gag/aOQ59Xy)
- - 🚯 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
- - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)<!-- MEMES:END -->
+ - 🚖 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
+ - 🚯 [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)
+ - 🚯 [This dad handled his daughter&#39;s tantrum in the best way](http://9gag.com/gag/aegw7gQ)<!-- MEMES:END -->
 
 --- 
 
