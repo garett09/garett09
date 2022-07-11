@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never give up](http://9gag.com/gag/aZr54L6)
- - 🚯 [Phase 4 so far..](http://9gag.com/gag/a41yB1d)
- - 🚯 [Coldplay told fans at the concert in Warsaw to put away their phones and put their hands up with the bracelets they received at the entrance and live the moment for a few minutes. The effect was amazing.](http://9gag.com/gag/aegwEKm)<!-- MEMES:END -->
+ - 🚖 [WD40 magic](http://9gag.com/gag/avAwV9M)
+ - 🚯 [NPC Date Part 2](http://9gag.com/gag/ay9wme8)
+ - 🚯 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)<!-- MEMES:END -->
 
 --- 
 
