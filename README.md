@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hideo Kojima’s studio says it will consider ‘legal action’ after fake assassin posts circulate](https://www.theverge.com/2022/7/10/23202998/hideo-kojima-studio-legal-action-fake-assassin-posts-circulate-shinzo-abe-japan-prime-minister)
- - [These HyperX early Prime Day deals are literally game-changing](https://www.androidauthority.com/hyperx-prime-day-deals-3184889/)
- - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-you-absolutely-need-to-watch-2022/#ftag=CAD590a51e)
+ - [Stranger Things&#39; Season 4 Finale Should Have Delivered More     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-finale-should-have-delivered-more/#ftag=CAD590a51e)
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
