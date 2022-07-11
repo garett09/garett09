@@ -103,7 +103,7 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
@@ -163,7 +163,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2022 01:12:55 UTC
+ Last Updated on 11/07/2022 01:05:48 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
