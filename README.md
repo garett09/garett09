@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The prophecy is true! I used a cable from \u201cthe bag\u201d today. Don\u2019t throw out those old cables!](http://9gag.com/gag/aVx5rqd)
- - 🚯 [Installing Belgian Blocks](http://9gag.com/gag/aAG57bp)
- - 🚯 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)<!-- MEMES:END -->
+ - 🚖 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)
+ - 🚯 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)
+ - 🚯 [How dare you dont believe](http://9gag.com/gag/aAG57ep)<!-- MEMES:END -->
 
 --- 
 
