@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things 4 needed to dream bigger](https://www.polygon.com/stranger-things/23200376/stranger-things-4-volume-2-review)
- - [Look at all the fake games Valve made-up for the recent Steam sale](https://www.pcgamer.com/look-at-all-the-fake-games-valve-made-up-for-the-recent-steam-sale)
- - [Today&#39;s Wordle answer #387: Monday, July 11](https://www.pcgamer.com/wordle-today-july-11-387-answer-hint)<!-- GAME:END -->
+ - [Everything we know about Genshin Impact&#39;s Collei](https://www.pcgamer.com/genshin-impact-collei-build-banner)
+ - [6 box sets worth buying in the Barnes and Noble Criterion sale](https://www.polygon.com/deals/23196726/criterion-sale-recommendations-details-dates-barnes-noble)
+ - [Shroud makes grand return to esports as a Valorant pro](https://www.pcgamer.com/shroud-makes-grand-return-to-esports-as-a-valorant-pro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
