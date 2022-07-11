@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xbox Series X will now run one of the best retro versions of Windows](https://www.theverge.com/2022/7/11/23203906/xbox-series-consoles-windows-98-gaming-retro)
- - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)
- - [Indian farmers streamed fake pro cricket matches to Russian bettors for two weeks](https://www.theverge.com/2022/7/11/23203908/fake-pro-cricket-matches-indian-farmers-stream-russian-bettors-scam)<!-- TECH:END -->
+ - [As Elon Musk Walks, Twitter Workers Say No One&#39;s in Charge](https://www.wired.com/story/as-elon-musk-walks-twitter-workers-say-no-ones-in-charge/)
+ - [A bunch of Amazon smart home bundles have huge discounts ahead of Prime Day](https://www.androidauthority.com/amazon-smart-home-prime-day-2022-3185204/)
+ - [Hands on: How to mirror your Apple Watch to iPhone in iOS 16](https://appleinsider.com/articles/22/07/11/hands-on-how-to-mirror-your-apple-watch-to-iphone-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
