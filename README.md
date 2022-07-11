@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)
- - 🚯 [Helicopter helicopter](http://9gag.com/gag/a41yB9m)
- - 🚯 [Whooosh!](http://9gag.com/gag/a616eZe)<!-- MEMES:END -->
+ - 🚖 [Whooosh!](http://9gag.com/gag/a616eZe)
+ - 🚯 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)
+ - 🚯 [Never give up](http://9gag.com/gag/aZr54L6)<!-- MEMES:END -->
 
 --- 
 
