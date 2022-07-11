@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You\u2019d like, wouldn\u2019t you?](http://9gag.com/gag/aGz5N57)
- - 🚯 [Summary of my craftsmanship skill](http://9gag.com/gag/aogwAo2)
- - 🚯 [Life goal complete](http://9gag.com/gag/ay9wV0q)<!-- MEMES:END -->
+ - 🚖 [This should be illegal](http://9gag.com/gag/aDD5NEx)
+ - 🚯 [Surprise motherf**ker!](http://9gag.com/gag/aegwygB)
+ - 🚯 [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)<!-- MEMES:END -->
 
 --- 
 
