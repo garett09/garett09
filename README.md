@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)
- - [Rivian reportedly considers laying off 700 employees](https://www.theverge.com/2022/7/11/23204199/rivian-electric-vehicles-layoffs-planned-manufacturing)
- - [GameStop launches its NFT marketplace in beta, letting users connect digital asset wallets, including the recently debuted GameStop Wallet, to buy and sell NFTs &lpar;CNBC&rpar;](http://www.techmeme.com/220711/p16#a220711p16)<!-- TECH:END -->
+ - [Uber’s former chief lobbyist in Europe is the Uber Files leaker](https://www.theverge.com/2022/7/11/23203975/uber-chief-lobbyist-mark-macgann-europe-uber-files-leaker)
+ - [Target ‘Deal Days’ 2022: The 17 Best Deals We Found](https://www.wired.com/story/target-deal-days-2022-prime-day-sale/)
+ - [Amazon Prime Day streaming sales include the Fire TV Stick Lite for just $12](https://www.androidauthority.com/amazon-prime-day-streaming-sales-3185186/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
