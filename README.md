@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to complete the Elden Ring Sellen quest](https://www.pcgamer.com/elden-ring-sellen-quest-location)
  - [Now you can play the first Witcher&#39;s prologue in VR](https://www.pcgamer.com/now-you-can-play-the-first-witchers-prologue-in-vr)
- - [Dr. Disrespect&#39;s AAA studio is making an &#39;extraction shooter&#39;](https://www.pcgamer.com/dr-disrespects-aaa-studio-is-making-an-extraction-shooter)
- - [Anime-Looking Ramen Is Actually 3D](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)<!-- GAME:END -->
+ - [Dr. Disrespect&#39;s AAA studio is making an &#39;extraction shooter&#39;](https://www.pcgamer.com/dr-disrespects-aaa-studio-is-making-an-extraction-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
