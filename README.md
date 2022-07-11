@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [WD40 magic](http://9gag.com/gag/avAwV9M)
- - 🚯 [NPC Date Part 2](http://9gag.com/gag/ay9wme8)
- - 🚯 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)<!-- MEMES:END -->
+ - 🚯 [Srilankan citizens chilling in their president&#39;s house](http://9gag.com/gag/amgwOLd)
+ - 🚯 [High school in the 1990s](http://9gag.com/gag/arnwEey)<!-- MEMES:END -->
 
 --- 
 
