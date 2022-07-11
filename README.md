@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s says Sumeru and Oxshott have yet to finance $250M they committed as part of its $800M funding it announced in March 2022, citing macroeconomic reasons &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220711/p6#a220711p6)
- - [Google’s Pixel 6 at $499 is a better value than the 6A](https://www.theverge.com/good-deals/2022/7/11/23203488/google-pixel-6-apple-tv-4k-ipad-air-zelda-skyward-sword-samsung-frame-prime-day-deal-sale)
- - [Apple Car project troubled by management demos and uncertain schedule](https://appleinsider.com/articles/22/07/11/apple-car-project-troubled-by-management-demos-and-uncertain-schedule?utm_medium=rss)<!-- TECH:END -->
+ - [Klarna confirms it raised $800M at a $6.7B valuation, down from the $46B it was valued at last June &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/220711/p8#a220711p8)
+ - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)
+ - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
