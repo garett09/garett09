@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ice making in the 19th century](http://9gag.com/gag/aBn5opD)
- - 🚯 [Science spud](http://9gag.com/gag/aAG5NBZ)
- - 🚯 [In case someone hasn&#39;t seen this gem, you&#39;re welcome.](http://9gag.com/gag/apgwjmD)<!-- MEMES:END -->
+ - 🚖 [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)
+ - 🚯 [You\u2019d like, wouldn\u2019t you?](http://9gag.com/gag/aGz5N57)
+ - 🚯 [This is why ships use tugboats](http://9gag.com/gag/abgwmWL)<!-- MEMES:END -->
 
 --- 
 
