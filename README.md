@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 3’s impressive Reality Mod launches next week](https://www.polygon.com/23204027/battlefield-3-reality-mod-release-date-download-trailer)
- - [Relic is teasing a big announcement for tomorrow](https://www.pcgamer.com/relic-is-teasing-a-big-announcement-for-tomorrow)
- - [The best UK Amazon Prime Day PC gaming deals are coming](https://www.pcgamer.com/amazon-prime-day-pc-gaming-deals-uk-2021)<!-- GAME:END -->
+ - [Dragon Ball FighterZ Player Has Awesome Anime Comeback That Would Make Goku Proud](https://kotaku.com/dragon-ball-z-fgc-fighting-game-tournament-wawa-child-1849165232)
+ - [RimWorld turns disaster and loss into a chaotic but hilarious party](https://www.polygon.com/23199105/rimworld-colony-sim-sci-fi-adventure)
+ - [Halo Infinite’s co-op isn’t out today actually, but it’s still on the way](https://www.polygon.com/23203994/halo-infinite-co-op-beta-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
