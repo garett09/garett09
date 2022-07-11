@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer, former Fortnite pro Myth moving to YouTube in exclusive deal](https://www.polygon.com/23204360/myth-fortnite-pro-youtube-twitch-exclusive-deal)
- - [Jeopardy! and Wheel of Fortune will stream 24/7](https://www.polygon.com/23204251/jeopardy-wheel-of-fortune-24-7-stream-pluto-tv)
- - [Here’s why you can’t listen to Lofi Hip Hop Beats streams right now](https://www.polygon.com/23204295/lofi-hip-hop-beats-down-youtube-study-relax)<!-- GAME:END -->
+ - [Everything you need to know about Genshin Impact’s Fatui Harbingers](https://www.polygon.com/23204402/genshin-impact-fatui-harbingers-rosalyne-pantalone-arlecchino-columbina-regrator-damselette)
+ - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
+ - [GameStop Boss Celebrates NFT Marketplace Days After Laying People Off](https://kotaku.com/gamestop-nft-crypto-scam-meme-stock-layoffs-1849166655)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
