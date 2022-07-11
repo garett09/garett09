@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)
- - 🚯 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)
- - 🚯 [How dare you dont believe](http://9gag.com/gag/aAG57ep)<!-- MEMES:END -->
+ - 🚖 [Yesterday the mother of my kids, 4 and 10 years old, passed away. I don\u2019t understand why this happened, but I will make her proud and give them my all. They are all I have](http://9gag.com/gag/abgwLKp)
+ - 🚯 [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
+ - 🚯 [This man cuts the coconut perfectly so he can drink the water](http://9gag.com/gag/aDD59LN)<!-- MEMES:END -->
 
 --- 
 
