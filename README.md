@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball FighterZ Player Has Awesome Anime Comeback That Would Make Goku Proud](https://kotaku.com/dragon-ball-z-fgc-fighting-game-tournament-wawa-child-1849165232)
- - [RimWorld turns disaster and loss into a chaotic but hilarious party](https://www.polygon.com/23199105/rimworld-colony-sim-sci-fi-adventure)
- - [Halo Infinite’s co-op isn’t out today actually, but it’s still on the way](https://www.polygon.com/23203994/halo-infinite-co-op-beta-release-date)<!-- GAME:END -->
+ - [Ubisoft says decommissioned games will remain available to current owners](https://www.pcgamer.com/ubisofts-online-decommissioning-may-render-three-games-unplayable-for-people-who-bought-them)
+ - [Here’s Everything You Need to Know About As Dusk Falls Multiplayer and Accessibility Features](https://news.xbox.com/en-us/2022/07/11/as-dusk-falls-multiplayer-and-accessibility-features/)
+ - [Smash Champ Apologizes For Attending Tournament While Seriously Ill](https://kotaku.com/super-smash-bros-melee-ultimate-hungrybox-covid-19-1849165594)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
