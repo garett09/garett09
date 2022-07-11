@@ -181,8 +181,8 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Streamer, former Fortnite pro Myth moving to YouTube in exclusive deal](https://www.polygon.com/23204360/myth-fortnite-pro-youtube-twitch-exclusive-deal)
  - [Jeopardy! and Wheel of Fortune will stream 24/7](https://www.polygon.com/23204251/jeopardy-wheel-of-fortune-24-7-stream-pluto-tv)
- - [Cancelled Doom 4 gameplay shared as part of &#39;game preservation mission&#39;](https://www.pcgamer.com/cancelled-doom-4-gameplay-shared-as-part-of-game-preservation-mission)
  - [Here’s why you can’t listen to Lofi Hip Hop Beats streams right now](https://www.polygon.com/23204295/lofi-hip-hop-beats-down-youtube-study-relax)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
