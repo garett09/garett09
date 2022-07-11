@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise motherf**ker!](http://9gag.com/gag/aegwygB)
- - 🚯 [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)
- - 🚯 [These Mega Church shit shows...Run like a business... should be taxed like a business. They are an abomination of true Christianity.](http://9gag.com/gag/aQX5NPW)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)
+ - 🚯 [F**k these ppl](http://9gag.com/gag/a910Nm6)
+ - 🚯 [F**k!!](http://9gag.com/gag/a0ZqWGL)<!-- MEMES:END -->
 
 --- 
 
