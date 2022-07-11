@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn websites into desktop apps with Unite 4 for macOS](https://appleinsider.com/articles/22/07/11/turn-websites-into-desktop-apps-with-unite-4-for-macos?utm_medium=rss)
- - [Germany-based Kadmos, a salary payments service for migrant workers, raises a &amp;euro;29M Series A led by Blossom Capital, after an &amp;euro;8.5M seed round in March &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220711/p3#a220711p3)
- - [The Climate Anxiety Discussion Has a Whiteness Problem](https://www.wired.com/story/climate-anxiety-whiteness-problem/)<!-- TECH:END -->
+ - [How to make the most of the Mac’s accessibility features](https://www.theverge.com/23178315/accessibility-mac-apple-macos-features-how-to)
+ - [Apple asks Samsung to develop micro OLED displays for AR](https://appleinsider.com/articles/22/07/11/apple-asks-samsung-to-develop-micro-oled-displays-for-ar?utm_medium=rss)
+ - [The best Prime Day 2022 deals in the UK](https://www.androidauthority.com/best-prime-day-deals-uk-2022-3184987/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
