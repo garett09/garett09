@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The vampire hunters have unionized in Day Shift’s first trailer](https://www.theverge.com/2022/7/11/23203645/day-shift-trailer-snoop-dogg-jamie-foxx)
- - [Google Meet’s premium video calling features come to individual subscribers](https://www.theverge.com/2022/7/11/23203419/google-meet-one-calling-features-subscription)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [A look at Twitter&#39;s options as Musk tries to back out, such as suing for &quot;expectation damages&quot;, which may be capped at $1B, or suing for &quot;specific performance&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220711/p12#a220711p12)
+ - [How to test macOS Ventura without risking your data](https://appleinsider.com/articles/22/07/11/how-to-test-macos-ventura-without-risking-your-data?utm_medium=rss)
+ - [Apple releases first public betas of iOS 16, iPadOS 16, tvOS 16 &amp; watchOS 9](https://appleinsider.com/articles/22/07/11/apple-releases-first-public-betas-of-ios-16-ipados-16-tvos-16-watchos-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
