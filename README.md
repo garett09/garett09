@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whooosh!](http://9gag.com/gag/a616eZe)
- - 🚯 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)
- - 🚯 [Never give up](http://9gag.com/gag/aZr54L6)<!-- MEMES:END -->
+ - 🚖 [Never give up](http://9gag.com/gag/aZr54L6)
+ - 🚯 [Phase 4 so far..](http://9gag.com/gag/a41yB1d)
+ - 🚯 [Installing Belgian Blocks](http://9gag.com/gag/aAG57bp)<!-- MEMES:END -->
 
 --- 
 
