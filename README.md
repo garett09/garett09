@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of sorcery is this??](http://9gag.com/gag/aWg5e6q)
- - 🚯 [Be a weak person](http://9gag.com/gag/apgwn3W)
- - 🚯 [Summary of my craftsmanship skill](http://9gag.com/gag/aogwAo2)<!-- MEMES:END -->
+ - 🚖 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)
+ - 🚯 [Standard for being a decent human being](http://9gag.com/gag/aGz563X)
+ - 🚯 [Helicopter helicopter](http://9gag.com/gag/a41yB9m)<!-- MEMES:END -->
 
 --- 
 
