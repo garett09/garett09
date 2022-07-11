@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make the most of the Mac’s accessibility features](https://www.theverge.com/23178315/accessibility-mac-apple-macos-features-how-to)
- - [Apple asks Samsung to develop micro OLED displays for AR](https://appleinsider.com/articles/22/07/11/apple-asks-samsung-to-develop-micro-oled-displays-for-ar?utm_medium=rss)
- - [The best Prime Day 2022 deals in the UK](https://www.androidauthority.com/best-prime-day-deals-uk-2022-3184987/)<!-- TECH:END -->
+ - [Byju&#39;s says Sumeru and Oxshott have yet to finance $250M they committed as part of its $800M funding it announced in March 2022, citing macroeconomic reasons &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220711/p6#a220711p6)
+ - [Google’s Pixel 6 at $499 is a better value than the 6A](https://www.theverge.com/good-deals/2022/7/11/23203488/google-pixel-6-apple-tv-4k-ipad-air-zelda-skyward-sword-samsung-frame-prime-day-deal-sale)
+ - [Apple Car project troubled by management demos and uncertain schedule](https://appleinsider.com/articles/22/07/11/apple-car-project-troubled-by-management-demos-and-uncertain-schedule?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
