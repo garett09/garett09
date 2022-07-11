@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High school in the 1990s](http://9gag.com/gag/arnwEey)
- - 🚯 [Mantis shrimp hold the world record for the most complex visual system. They have up to 16 photoreceptors and can see UV, visible and polarised light being the only animals known to detect circularly polarised light](http://9gag.com/gag/amgww9y)
+ - 🚖 [Mantis shrimp hold the world record for the most complex visual system. They have up to 16 photoreceptors and can see UV, visible and polarised light being the only animals known to detect circularly polarised light](http://9gag.com/gag/amgww9y)
+ - 🚯 [This never gets old.](http://9gag.com/gag/aVx5rKO)
  - 🚯 [Hola !](http://9gag.com/gag/aggwwxx)<!-- MEMES:END -->
 
 --- 
