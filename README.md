@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deals: AirPods Pro dip to $169, Apple TV 4K $119, M1 Pro MacBook Pro $1,799](https://appleinsider.com/articles/22/07/11/early-prime-day-deals-airpods-pro-dip-to-169-apple-tv-4k-119-m1-pro-macbook-pro-1799?utm_medium=rss)
- - [Uncontrolled rockets pose unnecessary risk, study finds](https://www.theverge.com/2022/7/11/23199088/uncontrolled-rocket-reentry-casualty-risk-analysis-space-industry)
- - [Apple slips to fifth place, ties with Asus in global PC market in Q2 2022](https://appleinsider.com/articles/22/07/11/apple-slips-to-fifth-place-ties-with-asus-in-global-pc-market-in-q2-2022?utm_medium=rss)<!-- TECH:END -->
+ - [The vampire hunters have unionized in Day Shift’s first trailer](https://www.theverge.com/2022/7/11/23203645/day-shift-trailer-snoop-dogg-jamie-foxx)
+ - [Google Meet’s premium video calling features come to individual subscribers](https://www.theverge.com/2022/7/11/23203419/google-meet-one-calling-features-subscription)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
