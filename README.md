@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna confirms it raised $800M at a $6.7B valuation, down from the $46B it was valued at last June &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/220711/p8#a220711p8)
- - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)
- - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)<!-- TECH:END -->
+ - [Early Prime Day deals: AirPods Pro dip to $169, Apple TV 4K $119, M1 Pro MacBook Pro $1,799](https://appleinsider.com/articles/22/07/11/early-prime-day-deals-airpods-pro-dip-to-169-apple-tv-4k-119-m1-pro-macbook-pro-1799?utm_medium=rss)
+ - [Uncontrolled rockets pose unnecessary risk, study finds](https://www.theverge.com/2022/7/11/23199088/uncontrolled-rocket-reentry-casualty-risk-analysis-space-industry)
+ - [Apple slips to fifth place, ties with Asus in global PC market in Q2 2022](https://appleinsider.com/articles/22/07/11/apple-slips-to-fifth-place-ties-with-asus-in-global-pc-market-in-q2-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
