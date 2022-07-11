@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Never give up](http://9gag.com/gag/aZr54L6)
  - 🚯 [Phase 4 so far..](http://9gag.com/gag/a41yB1d)
- - 🚯 [Installing Belgian Blocks](http://9gag.com/gag/aAG57bp)<!-- MEMES:END -->
+ - 🚯 [Coldplay told fans at the concert in Warsaw to put away their phones and put their hands up with the bracelets they received at the entrance and live the moment for a few minutes. The effect was amazing.](http://9gag.com/gag/aegwEKm)<!-- MEMES:END -->
 
 --- 
 
