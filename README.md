@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible New Breath Of The Wild Glitch Lets You Supercharge, Remake Weapons](https://kotaku.com/legend-zelda-breath-of-the-wild-botw-ist-weapon-recipe-1849165832)
- - [The Open World Racing Game That&#39;s Been Gone For A Decade Is Coming Back](https://kotaku.com/test-drive-unlimited-tdu-solar-crown-forza-horizon-1849165295)
- - [A singleplayer Apex Legends shooter is in development at Respawn](https://www.pcgamer.com/a-singleplayer-apex-legends-shooter-is-in-development-at-respawn)<!-- GAME:END -->
+ - [Jeopardy! and Wheel of Fortune will stream 24/7](https://www.polygon.com/23204251/jeopardy-wheel-of-fortune-24-7-stream-pluto-tv)
+ - [Cancelled Doom 4 gameplay shared as part of &#39;game preservation mission&#39;](https://www.pcgamer.com/cancelled-doom-4-gameplay-shared-as-part-of-game-preservation-mission)
+ - [Here’s why you can’t listen to Lofi Hip Hop Beats streams right now](https://www.polygon.com/23204295/lofi-hip-hop-beats-down-youtube-study-relax)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
