@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)
- - 🚯 [F**k these ppl](http://9gag.com/gag/a910Nm6)
- - 🚯 [F**k!!](http://9gag.com/gag/a0ZqWGL)<!-- MEMES:END -->
+ - 🚖 [Scarred for life](http://9gag.com/gag/aogwAAX)
+ - 🚯 [Whooosh!](http://9gag.com/gag/a616eZe)
+ - 🚯 [Maze fluid dynamics](http://9gag.com/gag/a71XP2b)<!-- MEMES:END -->
 
 --- 
 
