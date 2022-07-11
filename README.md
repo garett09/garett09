@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: This is your phone’s latest patch and what OEMs should offer](https://www.androidauthority.com/smartphone-security-patch-oem-poll-results-3184972/)
- - [Humans Have Always Been Wrong About Humans](https://www.wired.com/story/david-wengrow-dawn-of-everything/)
- - [Apple&#39;s second AR headset in 2025 will be more affordable, says Kuo](https://appleinsider.com/articles/22/07/11/apples-second-ar-headset-in-2025-will-be-more-affordable-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Turn websites into desktop apps with Unite 4 for macOS](https://appleinsider.com/articles/22/07/11/turn-websites-into-desktop-apps-with-unite-4-for-macos?utm_medium=rss)
+ - [Germany-based Kadmos, a salary payments service for migrant workers, raises a &amp;euro;29M Series A led by Blossom Capital, after an &amp;euro;8.5M seed round in March &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220711/p3#a220711p3)
+ - [The Climate Anxiety Discussion Has a Whiteness Problem](https://www.wired.com/story/climate-anxiety-whiteness-problem/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
