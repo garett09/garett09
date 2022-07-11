@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)
- - 🚯 [Standard for being a decent human being](http://9gag.com/gag/aGz563X)
- - 🚯 [Helicopter helicopter](http://9gag.com/gag/a41yB9m)<!-- MEMES:END -->
+ - 🚖 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)
+ - 🚯 [Helicopter helicopter](http://9gag.com/gag/a41yB9m)
+ - 🚯 [Whooosh!](http://9gag.com/gag/a616eZe)<!-- MEMES:END -->
 
 --- 
 
