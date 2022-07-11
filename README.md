@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WD40 magic](http://9gag.com/gag/avAwV9M)
- - 🚯 [Srilankan citizens chilling in their president&#39;s house](http://9gag.com/gag/amgwOLd)
- - 🚯 [High school in the 1990s](http://9gag.com/gag/arnwEey)<!-- MEMES:END -->
+ - 🚖 [The prophecy is true! I used a cable from \u201cthe bag\u201d today. Don\u2019t throw out those old cables!](http://9gag.com/gag/aVx5rqd)
+ - 🚯 [Installing Belgian Blocks](http://9gag.com/gag/aAG57bp)
+ - 🚯 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)<!-- MEMES:END -->
 
 --- 
 
