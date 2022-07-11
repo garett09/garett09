@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Genshin Impact&#39;s Collei](https://www.pcgamer.com/genshin-impact-collei-build-banner)
- - [6 box sets worth buying in the Barnes and Noble Criterion sale](https://www.polygon.com/deals/23196726/criterion-sale-recommendations-details-dates-barnes-noble)
- - [Shroud makes grand return to esports as a Valorant pro](https://www.pcgamer.com/shroud-makes-grand-return-to-esports-as-a-valorant-pro)<!-- GAME:END -->
+ - [League of Legends’ latest music is a Star Guardian album featuring Taliyah](https://www.polygon.com/23203647/league-of-legends-sessions-music-star-guardian-taliyah-streaming-release)
+ - [40 TikToks to fix your feed](https://www.polygon.com/23190439/tiktok-videos-best-list-fyp-algorithm)
+ - [Genshin Impact’s next big update is all about Fatui’s Harbingers](https://www.polygon.com/23203617/genshin-impact-update-harbinger-trailer-characters-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
