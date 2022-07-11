@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber’s former chief lobbyist in Europe is the Uber Files leaker](https://www.theverge.com/2022/7/11/23203975/uber-chief-lobbyist-mark-macgann-europe-uber-files-leaker)
- - [Target ‘Deal Days’ 2022: The 17 Best Deals We Found](https://www.wired.com/story/target-deal-days-2022-prime-day-sale/)
- - [Amazon Prime Day streaming sales include the Fire TV Stick Lite for just $12](https://www.androidauthority.com/amazon-prime-day-streaming-sales-3185186/)<!-- TECH:END -->
+ - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)
+ - [Apple renews workplace comedy &#39;Loot&#39; for a second season](https://appleinsider.com/articles/22/07/11/apple-renews-workplace-comedy-loot-for-a-second-season?utm_medium=rss)
+ - [Here’s the first full-color image from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/11/23202949/nasa-jwst-first-image-joe-biden-universe-deep-field)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
