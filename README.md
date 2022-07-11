@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Twitter&#39;s options as Musk tries to back out, such as suing for &quot;expectation damages&quot;, which may be capped at $1B, or suing for &quot;specific performance&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220711/p12#a220711p12)
- - [How to test macOS Ventura without risking your data](https://appleinsider.com/articles/22/07/11/how-to-test-macos-ventura-without-risking-your-data?utm_medium=rss)
- - [Apple releases first public betas of iOS 16, iPadOS 16, tvOS 16 &amp; watchOS 9](https://appleinsider.com/articles/22/07/11/apple-releases-first-public-betas-of-ios-16-ipados-16-tvos-16-watchos-9?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)
+ - [Apple debuts iOS 16&#39;s first public beta, with widgets on the lock screen, iMessage edit and undo, and more, alongside public betas for macOS, watchOS, iPadOS &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220711/p14#a220711p14)
+ - [How to install the iOS 16 and iPad 16 public betas](https://www.theverge.com/23200304/ios-16-beta-install-apple-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
