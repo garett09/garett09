@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD’s new Nokia phone has a hidden charger for included earbuds](https://www.theverge.com/2022/7/12/23199892/hmd-nokia-5710-xpressaudio-true-wireless-earbuds-charging-case)
- - [Wefox, a Berlin-based digital insurer focused on personal insurance products, raised a $400M Series D at a post-money valuation of $4.5B, up from $3B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220712/p6#a220712p6)
- - [Prime Day deals: AirPods Pro dip to $169, Apple TV 4K $119, M1 Pro MacBook Pro $1,799](https://appleinsider.com/articles/22/07/11/early-prime-day-deals-airpods-pro-dip-to-169-apple-tv-4k-119-m1-pro-macbook-pro-1799?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [The Google Pixel 6 is just $499 on Amazon Prime Day sale](https://www.androidauthority.com/google-pixel-6-deal-amazon-prime-day-2022-3185418/)
+ - [You can store and charge your wireless earbuds inside Nokia’s latest phone](https://www.androidauthority.com/nokia-5710-xpressaudio-earbuds-3185414/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
