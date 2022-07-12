@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)
- - 🚯 [Close up comparison of OLD vs NEW photos of SMACS 0723. New one is from James Webb Telescope.](http://9gag.com/gag/aKm5oLQ)
- - 🚯 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
+ - 🚖 [Medical vs engineers](http://9gag.com/gag/aDD5KwG)
+ - 🚯 [Emergency landing on a highway](http://9gag.com/gag/a21p32w)
+ - 🚯 [Brazilian man buys parachute online and tests it in his apartment in front of his wife and child](http://9gag.com/gag/apgw4jW)<!-- MEMES:END -->
 
 --- 
 
