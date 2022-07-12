@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel at the first batch of full-color images from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/12/23203307/jwst-first-full-color-images-nasa-reveal)
- - [You might be able to bundle HBO Max and Amazon Prime Video again soon](https://www.theverge.com/2022/7/12/23205166/hbo-max-amazon-prime-bundle-video-return)
- - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM is back in stock &amp; $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/06/20/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-is-back-in-stock-150-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Day 2022 deals: Apple&#39;s iPad Pro drops to $699, save up to $200](https://appleinsider.com/articles/22/07/12/prime-day-2022-deals-apples-ipad-pro-drops-to-699-save-up-to-200?utm_medium=rss)
+ - [Apple TV+ receives 51 Primetime Emmy nominations, including 20 for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/22/07/12/apple-tv-receives-51-primetime-emmy-nominations-including-20-for-ted-lasso?utm_medium=rss)
+ - [Marvel at the first batch of full-color images from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/12/23203307/jwst-first-full-color-images-nasa-reveal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
