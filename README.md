@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hunter Biden phone hack claims test platforms’ misinformation policies](https://www.theverge.com/2022/7/12/23205397/hunter-biden-phone-hack-4chan-google-twitter-misinformation-crack)
- - [The best Prime Day 2022 deals on 4K TVs](https://www.theverge.com/23203819/amazon-prime-day-best-tv-deals-2022)
- - [Google says YouTube TV has 5M+ subscribers including free trial users, making it the US&#39; biggest internet pay-TV provider and fifth-largest TV distributor &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220712/p25#a220712p25)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Google already broke its new YouTube UI on old Chromecasts](https://www.theverge.com/2022/7/12/23205442/google-youtube-remote-experience-older-chromecasts)
+ - [How to enable Android’s TalkBack screen reader](https://www.theverge.com/23184596/android-screen-reader-how-to-enable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
