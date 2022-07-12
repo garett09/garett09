@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s a lot of meat!! The largest dry aging room in the world.](http://9gag.com/gag/a81Ogrp)
- - 🚯 [No 1 reads this](http://9gag.com/gag/aOQ5LEv)
- - 🚯 [When you go on a date but she brings her friends and they get drunk](http://9gag.com/gag/a0ZqqmO)<!-- MEMES:END -->
+ - 🚖 [Too slow](http://9gag.com/gag/aQX5WQ8)
+ - 🚯 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
+ - 🚯 [Time to go home](http://9gag.com/gag/aegwBnj)<!-- MEMES:END -->
 
 --- 
 
