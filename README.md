@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 38 Best Kitchen and Home Deals for Prime Day](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2022/)
- - [Best Prime Day 2022 Headphone and Earbud Deals: Sony, Beats, Bose and More Hit New Low Prices     - CNET](https://www.cnet.com/deals/best-prime-day-2022-headphone-and-earbud-deals-sony-beats-bose-and-more-hit-new-low-prices/#ftag=CAD590a51e)
- - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)<!-- TECH:END -->
+ - [Read the memo Google’s CEO sent employees about a hiring slowdown](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
+ - [The 73 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
+ - [Liquidators for crypto hedge fund Three Arrows Capital say they can’t find founders](https://www.theverge.com/2022/7/11/23204465/three-arrows-capita-3ac-liquidators-crypto-hedge-fund-cant-find-founders-kyle-davies-su-zhu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
