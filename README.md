@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 11 Best Prime Day Travel Deals](https://www.wired.com/story/best-amazon-prime-day-travel-gear-deals-2022/)
- - [The 78 Absolute Best Prime Day Deals](https://www.wired.com/story/best-prime-day-deals-2022-2/)
- - [The Magic Leap 2 launches September 30th for $3,299](https://www.theverge.com/2022/7/12/23205702/magic-leap-2-enterprise-release-price-shipping-date-mixed-reality-ar-headset)<!-- TECH:END -->
+ - [Twitter sues Elon Musk for attempting to abandon $44 billion acquisition](https://www.theverge.com/2022/7/12/23205624/twitter-sues-elon-musk-acquisition-agreement)
+ - [Twitter sues Elon Musk to force the completion of his acquisition of Twitter in the Chancery Court in Delaware &lpar;New York Times&rpar;](http://www.techmeme.com/220712/p31#a220712p31)
+ - [HBO and HBO Max receive 140 Emmy nominations, while Netflix gets 105, Hulu 58, Apple TV+ 52, Disney+ 34, Amazon 30, and broadcast network TV a new low of 86 &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/220712/p30#a220712p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
