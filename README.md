@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)
- - [Apple renews workplace comedy &#39;Loot&#39; for a second season](https://appleinsider.com/articles/22/07/11/apple-renews-workplace-comedy-loot-for-a-second-season?utm_medium=rss)
- - [Here’s the first full-color image from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/11/23202949/nasa-jwst-first-image-joe-biden-universe-deep-field)<!-- TECH:END -->
+ - [YouTube begins rolling out picture-in-picture support for all US iOS users, but says it will not be available for music videos without a premium subscription &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220711/p19#a220711p19)
+ - [The best stock Nerf blasters ever made are half-off for Prime Day](https://www.theverge.com/2022/7/11/23204600/target-amazon-prime-day-nerf-dart-zone-blaster-roundup)
+ - [35 Best Early Amazon Prime Day Deals](https://www.wired.com/story/early-amazon-prime-day-deals-and-tips-2022-3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
