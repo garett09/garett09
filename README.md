@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Just £750 for an RTX 3060 gaming laptop with a 6-core Ryzen? The Prime Day deals are delivering](https://www.pcgamer.com/just-pound750-for-an-rtx-3060-gaming-laptop-with-a-6-core-ryzen-the-prime-day-deals-are-delivering)
- - [Today&#39;s Wordle answer #388: Tuesday, July 12](https://www.pcgamer.com/wordle-today-july-12-388-answer-hint)
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
+ - [The best tabletop game deals of Amazon Prime Day 2022](https://www.polygon.com/deals/2022/7/12/23203746/amazon-prime-day-2022-board-game-tabletop-escape-room-true-crime-catan-pandemic-ticket-to-ride)
+ - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)
+ - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
