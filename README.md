@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Gives Switch Warning As Summer Temperatures Rise](https://kotaku.com/nintendo-switch-climate-change-temperature-handheld-1849168252)
- - [Kirby Gets The Fall Guys Treatment In Surprise New Switch Game](https://kotaku.com/kirbys-dream-buffet-switch-fall-guys-release-date-1849168330)
- - [Kirby takes on dessert in surprise new racing game Kirby’s Dream Buffet](https://www.polygon.com/nintendo/23205122/kirbys-dream-buffet-trailer-nintendo-switch)<!-- GAME:END -->
+ - [Bodies Bodies Bodies looks like Euphoria meets Among Us in new trailer](https://www.polygon.com/23205216/bodies-bodies-bodies-trailer-a24-pete-davidson)
+ - [How Neon White brought back the leaderboard chase](https://www.polygon.com/23200381/neon-white-leaderboards-platforms-ben-esposito)
+ - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
