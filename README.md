@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube begins rolling out picture-in-picture support for all US iOS users, but says it will not be available for music videos without a premium subscription &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220711/p19#a220711p19)
- - [The best stock Nerf blasters ever made are half-off for Prime Day](https://www.theverge.com/2022/7/11/23204600/target-amazon-prime-day-nerf-dart-zone-blaster-roundup)
- - [35 Best Early Amazon Prime Day Deals](https://www.wired.com/story/early-amazon-prime-day-deals-and-tips-2022-3/)<!-- TECH:END -->
+ - [How much money do Twitch streamers make?](https://www.androidauthority.com/twitch-income-explained-3185267/)
+ - [Edge, which lets gamers clip their own shareable gameplay moments and turn them into standalone playable units called Playables, has raised a $30M Series A &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/220711/p24#a220711p24)
+ - [Twitter is rolling out the &quot;Unmentioning&quot; feature to all users, allowing users to remove themselves from conversations that include their Twitter handle &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220711/p23#a220711p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
