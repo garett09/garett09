@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
  - 🚯 [A shopping mall in India announced mid night sale with 50% discount.](http://9gag.com/gag/arnwE6p)
- - 🚯 [That\u2019s a lot of meat!! The largest dry aging room in the world.](http://9gag.com/gag/a81Ogrp)<!-- MEMES:END -->
+ - 🚯 [That&#39;s gonna leave a mark](http://9gag.com/gag/ajgwvoQ)<!-- MEMES:END -->
 
 --- 
 
