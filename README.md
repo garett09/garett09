@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emergency landing on a highway](http://9gag.com/gag/a21p32w)
- - 🚯 [Its not always about the graphics](http://9gag.com/gag/a31rmZ8)
+ - 🚖 [I am very smart](http://9gag.com/gag/aE853xK)
+ - 🚯 [Everyone of us knows who puts something like that up there!](http://9gag.com/gag/awz2EMB)
  - 🚯 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
 
 --- 
