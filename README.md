@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Luke, I&#39;m your step - father](http://9gag.com/gag/aogwvPw)
- - 🚯 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
- - 🚯 [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)<!-- MEMES:END -->
+ - 🚖 [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)
+ - 🚯 [Close up comparison of OLD vs NEW photos of SMACS 0723. New one is from James Webb Telescope.](http://9gag.com/gag/aKm5oLQ)
+ - 🚯 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
 
 --- 
 
