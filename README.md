@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $109 Apple TV 4K, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Samsung is offering up to $80 off on Galaxy Buds for Prime Day](https://www.androidauthority.com/samsung-galaxy-buds-prime-day-2022-3185466/)
- - [Sources: China decided to rein in Tencent after two scandals, including a secret WeChat project to use data to predict new Politburo standing committee members &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/220712/p9#a220712p9)<!-- TECH:END -->
+ - [XPeng Robotics, an affiliate of Chinese electric carmaker XPeng, raised $100M led by IDG, as it aims to commercialize household robotics in the next two years &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220712/p10#a220712p10)
+ - [Hive’s abandoned smart home devices will cease operation starting in 2023](https://www.theverge.com/2022/7/12/23205004/hives-abandoned-smart-home-devices-will-cease-operation-starting-in-2023)
+ - [How Might Your Data Be Used to Pin Charges on You?](https://www.wired.com/story/how-might-your-data-be-used-against-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
