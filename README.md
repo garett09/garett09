@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what we liked about Thor: Love and Thunder](https://www.polygon.com/23200497/thor-love-and-thunder-best-moments)
- - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
- - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)<!-- GAME:END -->
+ - [Nintendo Gives Switch Warning As Summer Temperatures Rise](https://kotaku.com/nintendo-switch-climate-change-temperature-handheld-1849168252)
+ - [Kirby Gets The Fall Guys Treatment In Surprise New Switch Game](https://kotaku.com/kirbys-dream-buffet-switch-fall-guys-release-date-1849168330)
+ - [Kirby takes on dessert in surprise new racing game Kirby’s Dream Buffet](https://www.polygon.com/nintendo/23205122/kirbys-dream-buffet-trailer-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
