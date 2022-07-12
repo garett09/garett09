@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [This Week’s Deals With Gold And Spotlight Sale &lpar;Week of July 11&rpar;](https://news.xbox.com/en-us/2022/07/11/this-weeks-deals-with-gold-and-spotlight-sale-2/)
- - [Skyrim Co-Op Mod Released, Mostly Actually Works](https://kotaku.com/skyrim-co-op-multiplayer-mod-pc-elder-scrolls-1849167210)<!-- GAME:END -->
+ - [Just £750 for an RTX 3060 gaming laptop with a 6-core Ryzen? The Prime Day deals are delivering](https://www.pcgamer.com/just-pound750-for-an-rtx-3060-gaming-laptop-with-a-6-core-ryzen-the-prime-day-deals-are-delivering)
+ - [Today&#39;s Wordle answer #388: Tuesday, July 12](https://www.pcgamer.com/wordle-today-july-12-388-answer-hint)
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
