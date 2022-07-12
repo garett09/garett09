@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man Part 2&#39;s First Chapter Is Exquisite](https://kotaku.com/chainsaw-man-part-2-manga-denji-shonen-jump-plus-1849170832)
- - [Destiny Dev Demands Bungie Support Trans-Inclusive Health Care](https://kotaku.com/bungie-sony-trans-transgender-health-care-signy-destiny-1849170727)
- - [Lost Ark guide: Vykas Legion Raid Gate 1 walkthrough and cheat sheet](https://www.polygon.com/guides/2022/7/12/23204511/lost-ark-guide-vykas-legion-raid-gate-1-first-phase-walkthrough-cheat-sheet)<!-- GAME:END -->
+ - [Trove Celebrating Its Sunfest and Preparing Sunrise for Its Next Big Update](https://news.xbox.com/en-us/2022/07/12/trove-celebrating-sunfest-and-sunrise-update/)
+ - [I am once again asking for Doomguy Pro Skater to become a reality](https://www.pcgamer.com/i-am-once-again-asking-for-doomguy-pro-skater-to-become-a-reality)
+ - [I don’t think there’s enough blood in this game based on a Netflix Korean zombie series](https://www.polygon.com/23205887/kingdom-the-blood-game-netflix-korean-zombie-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
