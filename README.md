@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best tabletop game deals of Amazon Prime Day 2022](https://www.polygon.com/deals/2022/7/12/23203746/amazon-prime-day-2022-board-game-tabletop-escape-room-true-crime-catan-pandemic-ticket-to-ride)
- - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)
- - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)<!-- GAME:END -->
+ - [Here’s what we liked about Thor: Love and Thunder](https://www.polygon.com/23200497/thor-love-and-thunder-best-moments)
+ - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
+ - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
