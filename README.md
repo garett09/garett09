@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 59 Absolute Best Prime Day Deals](https://www.wired.com/story/best-prime-day-deals-2022/)
- - [How to watch the Nothing Phone 1 launch event](https://www.androidauthority.com/nothing-phone-1-livestream-3185082/)
- - [Bluetooth audio’s biggest upgrade in years is coming soon to headphones](https://www.theverge.com/2022/7/12/23204956/bluetooth-le-audio-completed-low-power-high-quality-wireless-headphones)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $109 Apple TV 4K, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Samsung is offering up to $80 off on Galaxy Buds for Prime Day](https://www.androidauthority.com/samsung-galaxy-buds-prime-day-2022-3185466/)
+ - [Sources: China decided to rein in Tencent after two scandals, including a secret WeChat project to use data to predict new Politburo standing committee members &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/220712/p9#a220712p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
