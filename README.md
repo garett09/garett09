@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [XPeng Robotics, an affiliate of Chinese electric carmaker XPeng, raised $100M led by IDG, as it aims to commercialize household robotics in the next two years &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220712/p10#a220712p10)
- - [Hive’s abandoned smart home devices will cease operation starting in 2023](https://www.theverge.com/2022/7/12/23205004/hives-abandoned-smart-home-devices-will-cease-operation-starting-in-2023)
- - [How Might Your Data Be Used to Pin Charges on You?](https://www.wired.com/story/how-might-your-data-be-used-against-you/)<!-- TECH:END -->
+ - [The best Prime Day 2022 deals on 4K TVs](https://www.theverge.com/23203819/amazon-prime-day-best-tv-deals-2022)
+ - [Smart home company Hive stops selling home security devices to focus on thermostats and smart lighting; existing devices will stop working starting in 2023 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220712/p12#a220712p12)
+ - [How to install the iOS 16 beta on your iPhone or iPad](https://www.androidauthority.com/install-ios-16-beta-3185464/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
