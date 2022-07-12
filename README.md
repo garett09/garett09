@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon and Smite Collide in an All-New Crossover Event on the Battleground of the Gods](https://news.xbox.com/en-us/2022/07/12/nickelodeon-and-smite-collide-in-an-all-new-crossover-event-on-the-battleground-of-the-gods/)
- - [Netflix’s Resident Evil series could have been about superdad Albert Wesker. Instead it’s just boring](https://www.polygon.com/23204483/netflix-resident-evil-review)
- - [The OBSBOT Tiny 4K camera could be the smartest webcam around](https://www.pcgamer.com/the-obsbot-tiny-4k-camera-could-be-the-smartest-webcam)<!-- GAME:END -->
+ - [Chainsaw Man Part 2&#39;s First Chapter Is Exquisite](https://kotaku.com/chainsaw-man-part-2-manga-denji-shonen-jump-plus-1849170832)
+ - [Destiny Dev Demands Bungie Support Trans-Inclusive Health Care](https://kotaku.com/bungie-sony-trans-transgender-health-care-signy-destiny-1849170727)
+ - [Lost Ark guide: Vykas Legion Raid Gate 1 walkthrough and cheat sheet](https://www.polygon.com/guides/2022/7/12/23204511/lost-ark-guide-vykas-legion-raid-gate-1-first-phase-walkthrough-cheat-sheet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
