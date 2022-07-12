@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am very smart](http://9gag.com/gag/aE853xK)
- - 🚯 [Everyone of us knows who puts something like that up there!](http://9gag.com/gag/awz2EMB)
- - 🚯 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
+ - 🚖 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)
+ - 🚯 [DENZEL...](http://9gag.com/gag/ajgwzV8)
+ - 🚯 [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)<!-- MEMES:END -->
 
 --- 
 
