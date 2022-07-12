@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best HomeKit deals on Amazon Prime Day 2022](https://appleinsider.com/articles/22/07/12/best-homekit-deals-on-amazon-prime-day-2022?utm_medium=rss)
- - [Digital asset management service Gnosis Safe rebrands as Safe after its community voted to split from Ethereum infrastructure builder Gnosis, and raised $100M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220712/p14#a220712p14)
- - [BigScience, an effort by 1K+ researchers and NLP startup Hugging Face, releases BLOOM, an open-access multilingual large language model bigger than GPT-3 &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220712/p13#a220712p13)<!-- TECH:END -->
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)
+ - [How to know if someone has blocked you on iMessage](https://www.androidauthority.com/blocked-you-imessage-3185145/)
+ - [Best HomeKit deals on Amazon Prime Day 2022](https://appleinsider.com/articles/22/07/12/best-homekit-deals-on-amazon-prime-day-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
