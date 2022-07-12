@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day 2022 deals on 4K TVs](https://www.theverge.com/23203819/amazon-prime-day-best-tv-deals-2022)
- - [Smart home company Hive stops selling home security devices to focus on thermostats and smart lighting; existing devices will stop working starting in 2023 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220712/p12#a220712p12)
- - [How to install the iOS 16 beta on your iPhone or iPad](https://www.androidauthority.com/install-ios-16-beta-3185464/)<!-- TECH:END -->
+ - [Best HomeKit deals on Amazon Prime Day 2022](https://appleinsider.com/articles/22/07/12/best-homekit-deals-on-amazon-prime-day-2022?utm_medium=rss)
+ - [Digital asset management service Gnosis Safe rebrands as Safe after its community voted to split from Ethereum infrastructure builder Gnosis, and raised $100M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220712/p14#a220712p14)
+ - [BigScience, an effort by 1K+ researchers and NLP startup Hugging Face, releases BLOOM, an open-access multilingual large language model bigger than GPT-3 &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220712/p13#a220712p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
