@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
- - 🚯 [A shopping mall in India announced mid night sale with 50% discount.](http://9gag.com/gag/arnwE6p)
- - 🚯 [That&#39;s gonna leave a mark](http://9gag.com/gag/ajgwvoQ)<!-- MEMES:END -->
+ - 🚖 [A shopping mall in India announced mid night sale with 50% discount.](http://9gag.com/gag/arnwE6p)
+ - 🚯 [That&#39;s gonna leave a mark](http://9gag.com/gag/ajgwvoQ)
+ - 🚯 [It&#39;s really tough.....](http://9gag.com/gag/aZr5OZ6)<!-- MEMES:END -->
 
 --- 
 
