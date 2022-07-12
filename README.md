@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [The Google Pixel 6 is just $499 on Amazon Prime Day sale](https://www.androidauthority.com/google-pixel-6-deal-amazon-prime-day-2022-3185418/)
- - [You can store and charge your wireless earbuds inside Nokia’s latest phone](https://www.androidauthority.com/nokia-5710-xpressaudio-earbuds-3185414/)<!-- TECH:END -->
+ - [The 59 Absolute Best Prime Day Deals](https://www.wired.com/story/best-prime-day-deals-2022/)
+ - [How to watch the Nothing Phone 1 launch event](https://www.androidauthority.com/nothing-phone-1-livestream-3185082/)
+ - [Bluetooth audio’s biggest upgrade in years is coming soon to headphones](https://www.theverge.com/2022/7/12/23204956/bluetooth-le-audio-completed-low-power-high-quality-wireless-headphones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
