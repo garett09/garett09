@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As a south african true story ......](http://9gag.com/gag/arnwQD5)
- - 🚯 [Boys just wanna have fun](http://9gag.com/gag/a81OZrd)
- - 🚯 [Japanese woman is accused of appropriating her own culture](http://9gag.com/gag/adgwEb9)<!-- MEMES:END -->
+ - 🚖 [Any veterans here? Im at 3648 days. Dont know what rank am I](http://9gag.com/gag/a81OB8V)
+ - 🚯 [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)
+ - 🚯 [How different breeds react to robbers 2 &lpar;Johnny Devaney&rpar;](http://9gag.com/gag/a71Xzdq)<!-- MEMES:END -->
 
 --- 
 
