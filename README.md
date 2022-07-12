@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will sell you a $60 T-shirt with the Windows XP background](https://www.theverge.com/2022/7/12/23205450/microsoft-hardwear-clothing-collection-windows-xp-t-shirt)
- - [Apple issues Release Candidate betas for iOS 15.6, iPadOS 15.6, tvOS 15.6](https://appleinsider.com/articles/22/07/12/apple-issues-release-candidate-betas-for-ios-156-ipados-156-tvos-156?utm_medium=rss)
- - [Solana-based STEPN reports $122.5M in Q2 profits, after earning $26M in Q1; 5% of the profits will go toward a buyback and burn program of its native GMT token &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220712/p23#a220712p23)<!-- TECH:END -->
+ - [Hunter Biden phone hack claims test platforms’ misinformation policies](https://www.theverge.com/2022/7/12/23205397/hunter-biden-phone-hack-4chan-google-twitter-misinformation-crack)
+ - [The best Prime Day 2022 deals on 4K TVs](https://www.theverge.com/23203819/amazon-prime-day-best-tv-deals-2022)
+ - [Google says YouTube TV has 5M+ subscribers including free trial users, making it the US&#39; biggest internet pay-TV provider and fifth-largest TV distributor &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220712/p25#a220712p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
