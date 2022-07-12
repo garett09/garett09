@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Google already broke its new YouTube UI on old Chromecasts](https://www.theverge.com/2022/7/12/23205442/google-youtube-remote-experience-older-chromecasts)
- - [How to enable Android’s TalkBack screen reader](https://www.theverge.com/23184596/android-screen-reader-how-to-enable)<!-- TECH:END -->
+ - [The 11 Best Prime Day Travel Deals](https://www.wired.com/story/best-amazon-prime-day-travel-gear-deals-2022/)
+ - [The 78 Absolute Best Prime Day Deals](https://www.wired.com/story/best-prime-day-deals-2022-2/)
+ - [The Magic Leap 2 launches September 30th for $3,299](https://www.theverge.com/2022/7/12/23205702/magic-leap-2-enterprise-release-price-shipping-date-mixed-reality-ar-headset)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
