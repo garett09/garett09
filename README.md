@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day 2022 deals: Apple&#39;s iPad Pro drops to $699, save up to $200](https://appleinsider.com/articles/22/07/12/prime-day-2022-deals-apples-ipad-pro-drops-to-699-save-up-to-200?utm_medium=rss)
- - [Apple TV+ receives 51 Primetime Emmy nominations, including 20 for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/22/07/12/apple-tv-receives-51-primetime-emmy-nominations-including-20-for-ted-lasso?utm_medium=rss)
- - [Marvel at the first batch of full-color images from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/12/23203307/jwst-first-full-color-images-nasa-reveal)<!-- TECH:END -->
+ - [Microsoft will sell you a $60 T-shirt with the Windows XP background](https://www.theverge.com/2022/7/12/23205450/microsoft-hardwear-clothing-collection-windows-xp-t-shirt)
+ - [Apple issues Release Candidate betas for iOS 15.6, iPadOS 15.6, tvOS 15.6](https://appleinsider.com/articles/22/07/12/apple-issues-release-candidate-betas-for-ios-156-ipados-156-tvos-156?utm_medium=rss)
+ - [Solana-based STEPN reports $122.5M in Q2 profits, after earning $26M in Q1; 5% of the profits will go toward a buyback and burn program of its native GMT token &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220712/p23#a220712p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
