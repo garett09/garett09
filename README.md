@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t touch females apparently](http://9gag.com/gag/a11jyb2)
- - 🚯 [Brazilian man buys parachute online and tests it in his apartment in front of his wife and child](http://9gag.com/gag/apgw4jW)
+ - 🚖 [As a south african true story ......](http://9gag.com/gag/arnwQD5)
+ - 🚯 [Boys just wanna have fun](http://9gag.com/gag/a81OZrd)
  - 🚯 [Japanese woman is accused of appropriating her own culture](http://9gag.com/gag/adgwEb9)<!-- MEMES:END -->
 
 --- 
