@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything coming with League of Legends’ Star Guardians summer event](https://www.polygon.com/23205290/league-of-legends-star-guardians-event-wild-rift-legends-of-runeterra-narrative-campaigns)
- - [Lords Mobile prepares to put players through the Trials By Fire](https://www.pcgamer.com/lords-mobile-prepares-to-put-players-through-the-trials-by-fire)
- - [The best builds for Kazuha in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-kazuha-build-banner)<!-- GAME:END -->
+ - [Rejoice, Chainsaw gang, there’s finally a new chapter of Chainsaw Man](https://www.polygon.com/23205390/chainsaw-man-manga-part-2)
+ - [In Tomorrow, and Tomorrow, and Tomorrow, intense friendship and game design are intertwined](https://www.polygon.com/23204315/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin-interview-book)
+ - [Company of Heroes 3&#39;s North African operation is a classic RTS campaign](https://www.pcgamer.com/company-of-heroes-3s-north-african-operation-is-a-classic-rts-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
