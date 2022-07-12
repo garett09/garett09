@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That checks out.](http://9gag.com/gag/arnwL57)
- - 🚯 [Hey Autumn!](http://9gag.com/gag/aVx5r1v)
- - 🚯 [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)<!-- MEMES:END -->
+ - 🚖 [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
+ - 🚯 [A shopping mall in India announced mid night sale with 50% discount.](http://9gag.com/gag/arnwE6p)
+ - 🚯 [That\u2019s a lot of meat!! The largest dry aging room in the world.](http://9gag.com/gag/a81Ogrp)<!-- MEMES:END -->
 
 --- 
 
