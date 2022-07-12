@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)
- - [How to know if someone has blocked you on iMessage](https://www.androidauthority.com/blocked-you-imessage-3185145/)
- - [Best HomeKit deals on Amazon Prime Day 2022](https://appleinsider.com/articles/22/07/12/best-homekit-deals-on-amazon-prime-day-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Marvel at the first batch of full-color images from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/12/23203307/jwst-first-full-color-images-nasa-reveal)
+ - [You might be able to bundle HBO Max and Amazon Prime Video again soon](https://www.theverge.com/2022/7/12/23205166/hbo-max-amazon-prime-bundle-video-return)
+ - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM is back in stock &amp; $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/06/20/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-is-back-in-stock-150-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
