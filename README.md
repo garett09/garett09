@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too slow](http://9gag.com/gag/aQX5WQ8)
- - 🚯 [32 degrees C &lpar;90 F&rpar; recorded in Inuvik, NWT, Canada last week. That town is well inside the Arctic circle and near the Arctic Ocean\u2026](http://9gag.com/gag/aPZ2q2q)
- - 🚯 [Checking the hen to see if she&#39;s got any eggs](http://9gag.com/gag/a6160de)<!-- MEMES:END -->
+ - 🚖 [No 1 reads this](http://9gag.com/gag/aOQ5LEv)
+ - 🚯 [Bank runs happening in China. Part II](http://9gag.com/gag/aBn5BLD)
+ - 🚯 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)<!-- MEMES:END -->
 
 --- 
 
