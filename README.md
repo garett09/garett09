@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)
- - 🚯 [Neymar&#39;s daughter.](http://9gag.com/gag/aVx5A4y)
- - 🚯 [Its not always about the graphics](http://9gag.com/gag/a31rmZ8)<!-- MEMES:END -->
+ - 🚖 [Gentleman and Female Gentlemans.At the age of 23 i can proudly say that im the proud owner of a Vw Polo 1.4.](http://9gag.com/gag/aogwbRe)
+ - 🚯 [Gif comparison between Hubble and James Webb telescope picture quality &lpar;credit: @batsuto_ on Twitter&rpar;](http://9gag.com/gag/a0ZqAeQ)
+ - 🚯 [How different breeds react to robbers 2 &lpar;Johnny Devaney&rpar;](http://9gag.com/gag/a71Xzdq)<!-- MEMES:END -->
 
 --- 
 
