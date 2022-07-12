@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter sues Elon Musk for attempting to abandon $44 billion acquisition](https://www.theverge.com/2022/7/12/23205624/twitter-sues-elon-musk-acquisition-agreement)
- - [Twitter sues Elon Musk to force the completion of his acquisition of Twitter in the Chancery Court in Delaware &lpar;New York Times&rpar;](http://www.techmeme.com/220712/p31#a220712p31)
- - [HBO and HBO Max receive 140 Emmy nominations, while Netflix gets 105, Hulu 58, Apple TV+ 52, Disney+ 34, Amazon 30, and broadcast network TV a new low of 86 &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/220712/p30#a220712p30)<!-- TECH:END -->
+ - [The 38 Best Kitchen and Home Deals for Prime Day](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2022/)
+ - [Best Prime Day 2022 Headphone and Earbud Deals: Sony, Beats, Bose and More Hit New Low Prices     - CNET](https://www.cnet.com/deals/best-prime-day-2022-headphone-and-earbud-deals-sony-beats-bose-and-more-hit-new-low-prices/#ftag=CAD590a51e)
+ - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
