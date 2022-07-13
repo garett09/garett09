@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day 2022: cheapest Apple Watch Series 7 deal at risk of selling out](https://appleinsider.com/articles/22/07/13/prime-day-2022-cheapest-apple-watch-series-7-deal-at-risk-of-selling-out?utm_medium=rss)
- - [This Covid-19 Rapid Test Is Back to Its Lowest Price for Prime Day](https://www.wired.com/story/ihealth-covid-19-antigen-rapid-test-deal-july-2022/)
- - [Amazon Prime Day 2022: the best tech deals for day two](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)<!-- TECH:END -->
+ - [Prime Day expandable storage deals are great for phones, laptops and more](https://www.androidauthority.com/prime-day-expandable-storage-deals-3186115/)
+ - [Let’s talk about Nothing, hype, and revolutions](https://www.androidauthority.com/nothing-hype-3186033/)
+ - [The best Prime Day 2022 deals on 4K TVs](https://www.theverge.com/23203819/amazon-prime-day-best-tv-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
