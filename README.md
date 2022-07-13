@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [Hunt: Showdown is getting rid of its leaderboard](https://www.pcgamer.com/hunt-showdown-is-getting-rid-of-its-leaderboard)
- - [Everything we know about Suicide Squad: Kill The Justice League](https://www.pcgamer.com/suicide-squad-game-kill-the-justice-league-release-date-trailer)<!-- GAME:END -->
+ - [Welcome to microtransaction hell: Buy a BMW, pay monthly for the car&#39;s features](https://www.pcgamer.com/welcome-to-microtransaction-hell-buy-a-bmw-pay-monthly-for-the-cars-features)
+ - [The best Amazon Prime Day graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
