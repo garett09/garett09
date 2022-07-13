@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes its a different country but the principle remains. Challenging the politicians is worse then providing children to the politicians. Honk Honk.](http://9gag.com/gag/aE84vrK)
- - 🚯 [Sure he will](http://9gag.com/gag/aAG9Y1g)
- - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
+ - 🚖 [Sure he will](http://9gag.com/gag/aAG9Y1g)
+ - 🚯 [After going through a rough breakup, started fishing again.](http://9gag.com/gag/angoXKz)
+ - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
 
