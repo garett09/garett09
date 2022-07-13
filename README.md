@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read the memo Google’s CEO sent employees about a hiring slowdown](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
- - [The 73 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
- - [Liquidators for crypto hedge fund Three Arrows Capital say they can’t find founders](https://www.theverge.com/2022/7/11/23204465/three-arrows-capita-3ac-liquidators-crypto-hedge-fund-cant-find-founders-kyle-davies-su-zhu)<!-- TECH:END -->
+ - [The 21 Best Prime Day Deals on Our Favorite Phones and Tablets](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-1/)
+ - [25 Best Deals From Target’s ‘Deal Days’ Prime Day Rival Sale](https://www.wired.com/story/target-deal-days-2022-prime-day-sale-1/)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
