@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [Fans Are Dubbing Japan&#39;s 1980&#39;s Super Mario Bros. Anime](https://kotaku.com/super-mario-bros-movie-japan-anime-dub-english-1849171787)
- - [Citizen Sleeper&#39;s free DLC Flux gets a release date](https://www.pcgamer.com/citizen-sleepers-free-dlc-flux-gets-a-release-date)<!-- GAME:END -->
+ - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
+ - [Hunt: Showdown is getting rid of its leaderboard](https://www.pcgamer.com/hunt-showdown-is-getting-rid-of-its-leaderboard)
+ - [Everything we know about Suicide Squad: Kill The Justice League](https://www.pcgamer.com/suicide-squad-game-kill-the-justice-league-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
