@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Yes its a different country but the principle remains. Challenging the politicians is worse then providing children to the politicians. Honk Honk.](http://9gag.com/gag/aE84vrK)
- - 🚯 [Thanks uncle Joe](http://9gag.com/gag/a61RwML)
+ - 🚯 [Sure he will](http://9gag.com/gag/aAG9Y1g)
  - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
