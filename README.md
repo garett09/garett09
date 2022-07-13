@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
- - 🚯 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)
- - 🚯 [Female vs male comedian reaction to a `difficult` crowd.](http://9gag.com/gag/avAwbpZ)<!-- MEMES:END -->
+ - 🚖 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)
+ - 🚯 [Educated Elite](http://9gag.com/gag/aPZ2OPQ)
+ - 🚯 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)<!-- MEMES:END -->
 
 --- 
 
