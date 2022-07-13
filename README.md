@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Treasure Planet has no live action. Treasure Planet needs no live action.](http://9gag.com/gag/angoebB)
- - 🚯 [This Guy&#39;s song + piano skill !!](http://9gag.com/gag/a21XExw)
+ - 🚖 [Moment of discovery](http://9gag.com/gag/a61Rr9L)
+ - 🚯 [Rain](http://9gag.com/gag/a116pq8)
  - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
