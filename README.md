@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day 2022 tablet deals](https://www.theverge.com/23199072/amazon-prime-day-best-tablet-samsung-apple-ipad-deals-2022)
- - [New York House candidate accuses Hulu of censoring campaign ad](https://www.theverge.com/2022/7/13/23207499/hulu-disney-suraj-patel-new-york-congress-nadler-maloney)
- - [The 63 Best Prime Day Deals if You Work &lpar;and Play&rpar; From Home](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2022-3/)<!-- TECH:END -->
+ - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-deals-black-friday-july-sale-prime-day-tech-2022)
+ - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23196999/amazon-prime-day-apple-deals-airpods-iphone-macbook-imac-2022)
+ - [Boston-based Merlin Labs, which develops an autonomous flight system for existing aircrafts, announces a $105M Series B and a partnership with the US Air Force &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220713/p24#a220713p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
