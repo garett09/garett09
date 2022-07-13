@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roman Bridge Building](http://9gag.com/gag/aegBjzq)
- - 🚯 [My mornings on vacation...](http://9gag.com/gag/aegBjNW)
+ - 🚖 [Yes its a different country but the principle remains. Challenging the politicians is worse then providing children to the politicians. Honk Honk.](http://9gag.com/gag/aE84vrK)
+ - 🚯 [Thanks uncle Joe](http://9gag.com/gag/a61RwML)
  - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
