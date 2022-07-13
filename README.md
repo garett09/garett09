@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Female vs male comedian reaction to a `difficult` crowd.](http://9gag.com/gag/avAwbpZ)
- - 🚯 [Everytime I see pictures from James Webb Telescope](http://9gag.com/gag/aWg5Kyq)
- - 🚯 [Finally...](http://9gag.com/gag/avAj2r5)<!-- MEMES:END -->
+ - 🚖 [When comedy didn\u2019t offend everyone.](http://9gag.com/gag/aAG5n5R)
+ - 🚯 [Tim Russ](http://9gag.com/gag/aBne9q2)
+ - 🚯 [Take that!](http://9gag.com/gag/aGzQKzX)<!-- MEMES:END -->
 
 --- 
 
