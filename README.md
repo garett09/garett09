@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its not Avatar, its the Zhangjiajie National Park in China.](http://9gag.com/gag/a116ZeR)
- - 🚯 [Thanks uncle Joe](http://9gag.com/gag/a61RwML)
+ - 🚖 [Great news from the James Webb Telescope, people!!!](http://9gag.com/gag/awzp0ER)
+ - 🚯 [The problem with american culture](http://9gag.com/gag/aBneRyz)
  - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
