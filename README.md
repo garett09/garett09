@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First incredible picture of the James Webb Space Telescope using wide-lens x-ray scattering morphology laser focus. Mars.](http://9gag.com/gag/amgwjAy)
- - 🚯 [Carina Nebula compared. Top is taken with James Webb Space Telescope, bottom is taken with Hubble Telescope.](http://9gag.com/gag/a5138BG)
- - 🚯 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)<!-- MEMES:END -->
+ - 🚖 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
+ - 🚯 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)
+ - 🚯 [Female vs male comedian reaction to a `difficult` crowd.](http://9gag.com/gag/avAwbpZ)<!-- MEMES:END -->
 
 --- 
 
