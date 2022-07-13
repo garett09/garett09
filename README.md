@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sure he will](http://9gag.com/gag/aAG9Y1g)
- - 🚯 [After going through a rough breakup, started fishing again.](http://9gag.com/gag/angoXKz)
+ - 🚖 [Its not Avatar, its the Zhangjiajie National Park in China.](http://9gag.com/gag/a116ZeR)
+ - 🚯 [Thanks uncle Joe](http://9gag.com/gag/a61RwML)
  - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
