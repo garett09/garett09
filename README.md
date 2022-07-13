@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-deals-black-friday-july-sale-prime-day-tech-2022)
- - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23196999/amazon-prime-day-apple-deals-airpods-iphone-macbook-imac-2022)
- - [Boston-based Merlin Labs, which develops an autonomous flight system for existing aircrafts, announces a $105M Series B and a partnership with the US Air Force &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220713/p24#a220713p24)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals on work-from-home tech](https://www.theverge.com/23207333/amazon-prime-day-best-home-office-work-tech-deals-2022)
+ - [Verge readers, here’s an invite to buy an Opal C1 webcam](https://www.theverge.com/2022/7/13/23210074/opal-c1-webcam-invite-camera)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23197003/amazon-prime-day-devices-alexa-echo-ring-smart-home-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
