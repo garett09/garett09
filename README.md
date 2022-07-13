@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New emoji for iOS and Android include a high five and shaking face](https://www.theverge.com/2022/7/13/23206617/new-emoji-high-five-shaking-face-emoji-15-0-unicode-consortium)
- - [The First—and Last—Time We Rank the Star Wars Movies](https://www.wired.com/story/star-wars-movies-ranked/)
- - [Turkey Probably Hasn’t Found the Rare Earth Metals It Says It Has](https://www.wired.com/story/turkey-rare-earth-metals/)<!-- TECH:END -->
+ - [The 20 Best Prime Day Deals on Our Favorite Phones and Tablets &lpar;Day 2&rpar;](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2/)
+ - [Unity to merge with app monetization service Ironsource, valued at $4.4B in the all-stock deal; Silver Lake, Sequoia will invest $1B in Unity after the merger &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220713/p14#a220713p14)
+ - [What Germany&#39;s Lack of Race Data Means During a Pandemic](https://www.wired.com/story/race-germany-covid-19/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
