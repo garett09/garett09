@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SVP Prabhakar Raghavan says Google&#39;s studies show younger users often use apps like Instagram and TikTok instead of Google Search or Maps for discovery purposes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p2#a220713p2)
- - [Vermont&#39;s Department of Financial Regulation joins a multistate investigation into Celsius and says it believes the cryptocurrency lender is &quot;deeply insolvent&quot; &lpar;Shivani Tanna/Reuters&rpar;](http://www.techmeme.com/220713/p1#a220713p1)
- - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)<!-- TECH:END -->
+ - [Sources: Snap is exploring plans to allow NFT artists showcase their designs as augmented reality filters on Snapchat; the test will start at the end of August &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220713/p3#a220713p3)
+ - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
+ - [Everyone Needs To Watch The Best Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-the-best-sci-fi-show-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
