@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Snap is exploring plans to allow NFT artists showcase their designs as augmented reality filters on Snapchat; the test will start at the end of August &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220713/p3#a220713p3)
- - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
- - [Everyone Needs To Watch The Best Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-the-best-sci-fi-show-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Apple deals to grab during the Amazon Prime Day sale](https://www.androidauthority.com/best-apple-deals-amazon-prime-day-sale-3185908/)
+ - [The top 5 Prime Day smartphone deals worth checking out](https://www.androidauthority.com/top-5-prime-day-smartphone-deals-3185405/)
+ - [Atlanta-based SingleOps, which makes business management software for the green industry, has raised $74M led by FTV Management Company &lpar;Zach Armstrong/Atlanta Business Journal&rpar;](http://www.techmeme.com/220713/p4#a220713p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
