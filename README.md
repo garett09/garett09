@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spotify buys Heardle, the Wordle for music lovers](https://www.polygon.com/23206760/spotify-buys-heardle-music-guessing-game)
- - [How to solve the clock puzzle in MADiSON](https://www.pcgamer.com/madison-clock-puzzle-solution)
- - [Holy silicon, an RTX 3060 gaming PC for what its GPU alone would have cost last year](https://www.pcgamer.com/holy-silicon-an-rtx-3060-gaming-pc-for-what-its-gpu-alone-would-have-cost-last-year)<!-- GAME:END -->
+ - [Skate 4 devs kindly ask folks to stop playing a leaked build](https://www.polygon.com/23206837/skate-4-leaked-game-build-devs-respond)
+ - [Spooky New Game Rekindles The Horror Of The Cryptid Legend](https://kotaku.com/mothmen-1966-visual-novel-cryptid-mothman-horror-strate-1849065925)
+ - [Spotify buys Heardle, the Wordle for music lovers](https://www.polygon.com/23206760/spotify-buys-heardle-music-guessing-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
