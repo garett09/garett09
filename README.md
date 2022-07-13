@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You’ll soon be able to sync your Wordle stats across devices](https://www.polygon.com/23206914/wordle-stats-sync-all-devices-new-york-times)
- - [Where to get Smithing Stones in Elden Ring](https://www.pcgamer.com/where-to-get-smithing-stones-elden-ring)
- - [Polygon campfire songs to sing while making s’mores](https://www.polygon.com/23147156/fullmetal-alchemist-animal-crossing-song-lyrics)<!-- GAME:END -->
+ - [The best tabletop game deals of Amazon Prime Day 2022](https://www.polygon.com/deals/2022/7/12/23203746/amazon-prime-day-2022-board-game-tabletop-escape-room-true-crime-catan-pandemic-ticket-to-ride)
+ - [Relaxing with Pomegranates, and Persian myths](https://news.xbox.com/en-us/2022/07/13/relaxing-with-pomegranates-and-persian-myths/)
+ - [PlayStation Plus’ Extra and Premium July lineup offers Stray, Final Fantasy 7 Remake, and more](https://www.polygon.com/23204371/playstation-plus-july-2022-extra-premium-new-games-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
