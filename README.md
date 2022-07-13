@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s like a tradition here, anyways i&#39;m gonna be dad in couple hours.](http://9gag.com/gag/aZr59M9)
+ - 🚖 [The era of brightly colored, see-thru gadgets just take me back to a simpler time!](http://9gag.com/gag/aZr59YQ)
  - 🚯 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
- - 🚯 [When comedy didn\u2019t offend everyone.](http://9gag.com/gag/aAG5n5R)<!-- MEMES:END -->
+ - 🚯 [First incredible picture of the James Webb Space Telescope using wide-lens x-ray scattering morphology laser focus. Keep in mind that this is NOT a moon in our solar system!](http://9gag.com/gag/aogwreg)<!-- MEMES:END -->
 
 --- 
 
