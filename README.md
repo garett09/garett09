@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 13: Prime Day continues, Samsung T7 Shield 1TB SSD for $99, 21% off Sony Dualsense controller, more](https://appleinsider.com/articles/22/07/13/daily-deals-july-13-prime-day-continues-samsung-t7-shield-1tb-ssd-for-99-21-off-sony-dualsense-controller-more?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-13-2022-3185129/)
- - [Why Medium failed](https://www.theverge.com/2022/7/13/23206711/medium-fail-new-ceo-ev-williams)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Valve Steam Deck review: Mac users can welcome back 32-bit games](https://appleinsider.com/articles/22/07/13/valve-steam-deck-review-mac-users-can-welcome-back-32-bit-games?utm_medium=rss)
+ - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
