@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best tabletop game deals of Amazon Prime Day 2022](https://www.polygon.com/deals/2022/7/12/23203746/amazon-prime-day-2022-board-game-tabletop-escape-room-true-crime-catan-pandemic-ticket-to-ride)
- - [Relaxing with Pomegranates, and Persian myths](https://news.xbox.com/en-us/2022/07/13/relaxing-with-pomegranates-and-persian-myths/)
- - [PlayStation Plus’ Extra and Premium July lineup offers Stray, Final Fantasy 7 Remake, and more](https://www.polygon.com/23204371/playstation-plus-july-2022-extra-premium-new-games-free)<!-- GAME:END -->
+ - [This ramen is still in development, but it sure looks tasty](https://www.polygon.com/23205468/ramen-video-game-sci-fi-first-person-shooter-blender)
+ - [Fans Hold Virtual Funeral For Red Dead Online One Year After Last Update](https://kotaku.com/rdo-red-dead-online-funeral-rockstar-gta6-end-updates-1849173844)
+ - [Old Metal Gears are going back on sale to celebrate series’ 35th birthday](https://www.polygon.com/23207185/metal-gear-solid-anniversary-konami-games-back-on-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
