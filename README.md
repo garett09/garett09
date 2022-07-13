@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 21 Best Prime Day Deals on Our Favorite Phones and Tablets](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-1/)
- - [25 Best Deals From Target’s ‘Deal Days’ Prime Day Rival Sale](https://www.wired.com/story/target-deal-days-2022-prime-day-sale-1/)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)<!-- TECH:END -->
+ - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)
+ - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
+ - [China has approved publishing licenses to 67 more online game titles, its third batch this year, but Tencent and NetEase games again failed to make the list &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220712/p42#a220712p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
