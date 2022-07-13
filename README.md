@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When comedy didn\u2019t offend everyone.](http://9gag.com/gag/aAG5n5R)
- - 🚯 [Tim Russ](http://9gag.com/gag/aBne9q2)
- - 🚯 [Take that!](http://9gag.com/gag/aGzQKzX)<!-- MEMES:END -->
+ - 🚖 [Treasure Planet has no live action. Treasure Planet needs no live action.](http://9gag.com/gag/angoebB)
+ - 🚯 [This Guy&#39;s song + piano skill !!](http://9gag.com/gag/a21XExw)
+ - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
 
