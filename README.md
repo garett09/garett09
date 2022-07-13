@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astroneer: where to get ceramics](https://game-rant-2022.blogspot.com/2022/07/astroneer-where-to-get-ceramics.html)
- - [xQc&#39;s Twitch channel is now age restricted](https://game-rant-2022.blogspot.com/2022/07/xqc-twitch-channel-is-now-age-restricted.html)
- - [Jack Black Loved Stranger Things &lpar;But Doesn&#39;t Like That Eddie Died&rpar;](https://game-rant-2022.blogspot.com/2022/07/jack-black-loved-stranger-things-but.html)<!-- GAME:END -->
+ - [Immortality, the new cinematic mystery from Her Story creator Sam Barlow, is delayed](https://www.pcgamer.com/immortality-the-new-cinematic-mystery-from-her-story-creator-sam-barlow-is-delayed)
+ - [PUBG’s new Deston map finally introduces elevator technology](https://www.polygon.com/23207731/pubg-deston-new-map-release-date-consoles-patch-changes)
+ - [Astroneer: where to get ceramics](https://game-rant-2022.blogspot.com/2022/07/astroneer-where-to-get-ceramics.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
