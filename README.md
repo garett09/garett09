@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Guys Is Hotter Than Ever Now That It’s Free To Play](https://kotaku.com/fall-guys-free-to-play-skill-gap-switch-xbox-pc-ps4-1849175024)
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
- - [TMNT: Shredder’s Revenge Sells 1 Million Copies In A Week](https://kotaku.com/tmnt-shredder-s-revenge-1-million-sold-game-pass-1849174885)<!-- GAME:END -->
+ - [Astroneer: where to get ceramics](https://game-rant-2022.blogspot.com/2022/07/astroneer-where-to-get-ceramics.html)
+ - [xQc&#39;s Twitch channel is now age restricted](https://game-rant-2022.blogspot.com/2022/07/xqc-twitch-channel-is-now-age-restricted.html)
+ - [Jack Black Loved Stranger Things &lpar;But Doesn&#39;t Like That Eddie Died&rpar;](https://game-rant-2022.blogspot.com/2022/07/jack-black-loved-stranger-things-but.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
