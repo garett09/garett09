@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to microtransaction hell: Buy a BMW, pay monthly for the car&#39;s features](https://www.pcgamer.com/welcome-to-microtransaction-hell-buy-a-bmw-pay-monthly-for-the-cars-features)
- - [The best Amazon Prime Day graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
+ - [Spotify buys Heardle, the Wordle for music lovers](https://www.polygon.com/23206760/spotify-buys-heardle-music-guessing-game)
+ - [How to solve the clock puzzle in MADiSON](https://www.pcgamer.com/madison-clock-puzzle-solution)
+ - [Holy silicon, an RTX 3060 gaming PC for what its GPU alone would have cost last year](https://www.pcgamer.com/holy-silicon-an-rtx-3060-gaming-pc-for-what-its-gpu-alone-would-have-cost-last-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
