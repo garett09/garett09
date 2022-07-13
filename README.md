@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cast of What We Do in the Shadows shares their favorite vampire movies, books, and more](https://www.polygon.com/23205188/what-we-do-in-the-shadows-interview-favorite-vampire-movies-books)
- - [My favorite gaming laptop is $500 off right now on Newegg](https://www.pcgamer.com/my-favorite-gaming-laptop-is-dollar500-off-right-now-on-newegg)
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)<!-- GAME:END -->
+ - [Legends of Runeterra’s next expansion includes demons, dancing, and destruction](https://www.polygon.com/23207416/legends-of-runeterra-forces-from-beyond-expansion-evelynn-gwen-kaisa)
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
+ - [The best Amazon Prime Day graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
