@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 20 Best Prime Day Deals on Our Favorite Phones and Tablets &lpar;Day 2&rpar;](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2/)
- - [Unity to merge with app monetization service Ironsource, valued at $4.4B in the all-stock deal; Silver Lake, Sequoia will invest $1B in Unity after the merger &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220713/p14#a220713p14)
- - [What Germany&#39;s Lack of Race Data Means During a Pandemic](https://www.wired.com/story/race-germany-covid-19/)<!-- TECH:END -->
+ - [Daily deals July 13: Prime Day continues, Samsung T7 Shield 1TB SSD for $99, 21% off Sony Dualsense controller, more](https://appleinsider.com/articles/22/07/13/daily-deals-july-13-prime-day-continues-samsung-t7-shield-1tb-ssd-for-99-21-off-sony-dualsense-controller-more?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-13-2022-3185129/)
+ - [Why Medium failed](https://www.theverge.com/2022/7/13/23206711/medium-fail-new-ceo-ev-williams)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
