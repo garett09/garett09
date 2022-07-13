@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Feminists Noises Intensifies*](http://9gag.com/gag/ay9K70M)
+ - 🚖 [Roman Bridge Building](http://9gag.com/gag/aegBjzq)
  - 🚯 [My mornings on vacation...](http://9gag.com/gag/aegBjNW)
  - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
