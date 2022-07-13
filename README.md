@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up medication reminders in the iOS 16 beta](https://www.theverge.com/23206983/medication-reminders-ios-16-public-beta-how-to)
- - [How to share Apple Music with family](https://www.androidauthority.com/share-apple-music-3182336/)
- - [PitchBook: crypto startups received $6.76B in VC funding in Q2 2022, down 31% from a record $9.85B in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220713/p20#a220713p20)<!-- TECH:END -->
+ - [iPhone 13 still selling well -- and Apple expects iPhone 14 to do even better](https://appleinsider.com/articles/22/07/13/iphone-13-still-selling-well----and-apple-expects-iphone-14-to-do-even-better?utm_medium=rss)
+ - [Sega’s Genesis Mini 2 launches in October with more power and more games](https://www.theverge.com/2022/7/13/23207267/sega-genesis-mini-2-announced-games-features)
+ - [How to manage your commutes in Google Maps](https://www.androidauthority.com/manage-commutes-google-maps-3183087/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
