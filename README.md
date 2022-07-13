@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Valve Steam Deck review: Mac users can welcome back 32-bit games](https://appleinsider.com/articles/22/07/13/valve-steam-deck-review-mac-users-can-welcome-back-32-bit-games?utm_medium=rss)
- - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)<!-- TECH:END -->
+ - [Prime Day 2022: cheapest Apple Watch Series 7 deal at risk of selling out](https://appleinsider.com/articles/22/07/13/prime-day-2022-cheapest-apple-watch-series-7-deal-at-risk-of-selling-out?utm_medium=rss)
+ - [This Covid-19 Rapid Test Is Back to Its Lowest Price for Prime Day](https://www.wired.com/story/ihealth-covid-19-antigen-rapid-test-deal-july-2022/)
+ - [Amazon Prime Day 2022: the best tech deals for day two](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
