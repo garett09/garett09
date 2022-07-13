@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The era of brightly colored, see-thru gadgets just take me back to a simpler time!](http://9gag.com/gag/aZr59YQ)
- - 🚯 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
- - 🚯 [First incredible picture of the James Webb Space Telescope using wide-lens x-ray scattering morphology laser focus. Keep in mind that this is NOT a moon in our solar system!](http://9gag.com/gag/aogwreg)<!-- MEMES:END -->
+ - 🚖 [Maybe this is the twentieth attempt to talk, ask, remove hair?](http://9gag.com/gag/arnL1Od)
+ - 🚯 [You might say it is pointless if it is fake, but it does make them happy. I don&#39;t feel anything about it, but I know it is better for them, and my logical side says it is the right thing to do, so I choose to do it.](http://9gag.com/gag/aPZ2NrB)
+ - 🚯 [This woman teaches law at Berkeley](http://9gag.com/gag/a11jGBG)<!-- MEMES:END -->
 
 --- 
 
