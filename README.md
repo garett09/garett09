@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m in this picture](http://9gag.com/gag/ay9K79y)
- - 🚯 [This smooth Laser welding](http://9gag.com/gag/aRrpwQj)
+ - 🚖 [*Feminists Noises Intensifies*](http://9gag.com/gag/ay9K70M)
+ - 🚯 [My mornings on vacation...](http://9gag.com/gag/aegBjNW)
  - 🚯 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
