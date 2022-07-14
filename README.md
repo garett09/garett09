@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most of the kids don&#39;t get good grades not because they stupid but because they don&#39;t have the right motivation](http://9gag.com/gag/aBnewwx)
- - 🚯 [Women \u2615](http://9gag.com/gag/aqGErVP)
- - 🚯 [Happy new year!!](http://9gag.com/gag/a21X45O)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t wait for the last episode](http://9gag.com/gag/aQXj9ww)
+ - 🚯 [Epstein didn&#39;t kill himself.](http://9gag.com/gag/aPZqWeG)
+ - 🚯 [Hungary right now. The next SriLanka!People protesting because tax changes. &lpar;which are already the highest in the EU&rpar;](http://9gag.com/gag/aGzQeZZ)<!-- MEMES:END -->
 
 --- 
 
