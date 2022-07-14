@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s first AR headset rumored for 2023, with improved version hitting in 2024](https://appleinsider.com/articles/22/07/14/apples-first-ar-headset-rumored-for-2023-with-improved-version-hitting-in-2024?utm_medium=rss)
- - [F1 22 Perfectly Simulates the Morality Vacuum of Formula 1](https://www.wired.com/story/f1-22-consummerism/)
- - [A New Attack Can Unmask Anonymous Users on Any Major Browser](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)<!-- TECH:END -->
+ - [Twitter suffering from outages, globally](https://appleinsider.com/articles/22/07/14/twitter-suffering-from-outages-globally?utm_medium=rss)
+ - [Twitter is down in a major outage](https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity)
+ - [Pixelmator updates iPhone and iPad app with new design](https://appleinsider.com/articles/22/07/14/pixelmator-updates-iphone-and-ipad-app-with-new-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
