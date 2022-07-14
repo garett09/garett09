@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This goodboy followed me home yesterday, I gave him water and food, this morning he was waiting me outside. I think he&#39;s addopted me.](http://9gag.com/gag/avAjPLX)
- - 🚯 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)
- - 🚯 [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)<!-- MEMES:END -->
+ - 🚖 [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)
+ - 🚯 [Painfully simple](http://9gag.com/gag/aegBpWb)
+ - 🚯 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)<!-- MEMES:END -->
 
 --- 
 
