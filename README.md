@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Albert Wesker’s trip to the principal’s office in Resident Evil scared Lance Reddick](https://www.polygon.com/23206028/resident-evil-lance-reddick-interview)
- - [Nintendo buys animation studio, forms Nintendo Pictures](https://www.polygon.com/23215942/nintendo-pictures-animation-studio-dynamo-mario)
- - [MultiVersus open beta launches this month](https://www.polygon.com/23218298/multiversus-open-beta-launch-date-july)<!-- GAME:END -->
+ - [Kaguya-sama: Love Is War is rom-com perfection](https://www.polygon.com/23207424/kaguya-sama-love-is-war-rom-com)
+ - [To drive F1 22’s new cars, first, give yourself a break](https://www.polygon.com/23218970/f1-22-how-to-drive-traction-control-assists-setups-ai-difficulty)
+ - [Join Milo the Dog as We Play Marvel’s Guardians of the Galaxy and Raise Money for SPCA International](https://news.xbox.com/en-us/2022/07/14/play-guardians-of-the-galaxy-pc-game-pass-raise-money-spca/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
