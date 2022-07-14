@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diss your own country with a meme](http://9gag.com/gag/aGzQDEK)
- - 🚯 [YET\u2026..](http://9gag.com/gag/aWgX8gd)
- - 🚯 [It was at this point Megan knew her friends dad will be called daddy by her from now on.](http://9gag.com/gag/aBnewRZ)<!-- MEMES:END -->
+ - 🚖 [Women \u2615](http://9gag.com/gag/aqGErVP)
+ - 🚯 [It was at this point Megan knew her friends dad will be called daddy by her from now on.](http://9gag.com/gag/aBnewRZ)
+ - 🚯 [YET\u2026..](http://9gag.com/gag/aWgX8gd)<!-- MEMES:END -->
 
 --- 
 
