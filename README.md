@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go](http://9gag.com/gag/aVx6WoK)
- - 🚯 [WOrLd](http://9gag.com/gag/avAjgKM)
+ - 🚖 [WOrLd](http://9gag.com/gag/avAjgKM)
+ - 🚯 [I envy his perseverance *vomit warning*](http://9gag.com/gag/aXrOpo2)
  - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
