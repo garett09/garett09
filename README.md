@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wise words](http://9gag.com/gag/a71xbjL)
- - 🚯 [How dog breeds react to robbers](http://9gag.com/gag/aBneY32)
- - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
+ - 🚖 [This goodboy followed me home yesterday, I gave him water and food, this morning he was waiting me outside. I think he&#39;s addopted me.](http://9gag.com/gag/avAjPLX)
+ - 🚯 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)
+ - 🚯 [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)<!-- MEMES:END -->
 
 --- 
 
