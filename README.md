@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Representation Of How People See Without Glasses!](http://9gag.com/gag/aVx6PD8)
- - 🚯 [Mole](http://9gag.com/gag/aZrYpZz)
- - 🚯 [Inflation is up 9.1% in June](http://9gag.com/gag/a410YZp)<!-- MEMES:END -->
+ - 🚖 [Inflation is up 9.1% in June](http://9gag.com/gag/a410YZp)
+ - 🚯 [Sounds about right](http://9gag.com/gag/aegBGdQ)
+ - 🚯 [Mole](http://9gag.com/gag/aZrYpZz)<!-- MEMES:END -->
 
 --- 
 
