@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
- - [Porter Robinson on crafting a new anthem for League of Legends](https://www.theverge.com/2022/7/14/23205064/porter-robinson-interview-league-of-legends)
- - [UnCaged Studios, a web3-focused gaming studio, has raised a $24M Series A, following a $4M token presale for its Solana-focused game MonkeyLeague &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220714/p16#a220714p16)<!-- TECH:END -->
+ - [Texas’ fragile grid isn’t ready for crypto mining’s explosive growth](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
+ - [Beyoncé — and her music — is now on TikTok](https://www.theverge.com/2022/7/14/23216377/beyonce-tiktok-music-catalog-break-my-soul)
+ - [Stray is getting a line of cute accessories for your IRL cat](https://www.theverge.com/2022/7/14/23207474/stray-annapurna-interactive-cat-accessories-travel-cat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
