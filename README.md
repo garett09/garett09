@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at pro-Russian hacktivist group Killnet, which has launched DDoS attacks against websites in countries supporting Ukraine, including Germany and the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220714/p1#a220714p1)
  - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)
- - [These are the best Prime Day 2022 phone deals](https://www.theverge.com/23201958/amazon-prime-day-best-phone-deals-2022)
- - [Amazon Prime Day 2022: Last Chance for These Final Deals     - CNET](https://www.cnet.com/tech/amazon-prime-day-july-2022-final-hours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These are the best Prime Day 2022 phone deals](https://www.theverge.com/23201958/amazon-prime-day-best-phone-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
