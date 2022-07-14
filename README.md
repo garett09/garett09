@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)
- - 🚯 [Painfully simple](http://9gag.com/gag/aegBpWb)
- - 🚯 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)<!-- MEMES:END -->
+ - 🚖 [Mole](http://9gag.com/gag/aZrYpZz)
+ - 🚯 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)
+ - 🚯 [Warning.](http://9gag.com/gag/a71xd5m)<!-- MEMES:END -->
 
 --- 
 
