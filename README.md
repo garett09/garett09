@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas’ fragile grid isn’t ready for crypto mining’s explosive growth](https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions)
- - [Beyoncé — and her music — is now on TikTok](https://www.theverge.com/2022/7/14/23216377/beyonce-tiktok-music-catalog-break-my-soul)
- - [Stray is getting a line of cute accessories for your IRL cat](https://www.theverge.com/2022/7/14/23207474/stray-annapurna-interactive-cat-accessories-travel-cat)<!-- TECH:END -->
+ - [Sources: the DOJ is likely to reject concessions offered by Google and file an antitrust lawsuit in the coming weeks over its dominance of the online ad market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220714/p21#a220714p21)
+ - [Alphabet’s Wing is working on larger drones that can handle heavier deliveries](https://www.theverge.com/2022/7/14/23217294/wing-drone-delivery-package-size-prototype)
+ - [Hot and hyped: inside the strange launch of the Nothing Phone 1](https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
