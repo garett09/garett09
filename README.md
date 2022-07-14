@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best laptop deals around for Amazon Prime Day 2022](https://www.theverge.com/23204343/amazon-prime-day-best-laptop-deals-2022)
- - [Prime Day 2022: the best headphone and earbud deals](https://www.theverge.com/23204301/amazon-prime-day-best-headphone-earbud-deals-2022)
- - [Google Cloud announces a preview of Tau T2A, its first line of Arm-based VMs powered by Ampere Altra, with up to 48 vCPUs, each with up to 4GB of memory &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220713/p37#a220713p37)<!-- TECH:END -->
+ - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)
+ - [These are the best Prime Day 2022 phone deals](https://www.theverge.com/23201958/amazon-prime-day-best-phone-deals-2022)
+ - [Amazon Prime Day 2022: Last Chance for These Final Deals     - CNET](https://www.cnet.com/tech/amazon-prime-day-july-2022-final-hours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
