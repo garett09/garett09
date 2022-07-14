@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape Academy scratches the escape room itch, safely from home](https://www.polygon.com/23207003/escape-academy-release-date-preview)
- - [This D&amp;D inspired game&#39;s AI image generator is now free for all](https://www.pcgamer.com/ai-dungeon-image-generator)
- - [This Atari 2600 Remake Was 40 Years In The Making](https://kotaku.com/yars-recharged-pc-xbox-playstation-switch-atari-2600-1849175469)<!-- GAME:END -->
+ - [We Taste-Tested Cold Stone Creamery’s Special Nintendo Flavors](https://kotaku.com/coldstone-ice-cream-animal-crossing-mario-party-kirby-1849175501)
+ - [The Rings of Power trailer gives us our best look yet at the Lord of the Rings prequel](https://www.polygon.com/23209717/lord-of-the-rings-rings-of-power-trailer-release-date-amazon-prime)
+ - [Introducing PlayStation Stars – An all new loyalty program](https://blog.playstation.com/2022/07/14/introducing-playstation-stars-an-all-new-loyalty-program/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
