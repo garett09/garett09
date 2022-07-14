@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Turned 35, But Quiet’s Character Design Marks A Timeless Controversy](https://kotaku.com/metal-gear-solid-v-quiet-character-design-hideo-kojima-1849175116)
- - [World of Warcraft: Dragonflight isn&#39;t being designed for players obsessed with topping DPS meters](https://www.pcgamer.com/world-of-warcraft-dragonflight-isnt-being-designed-for-players-obsessed-with-topping-dps-meters)
- - [World of Warcraft: Dragonflight&#39;s new dracthyr race makes everyone else look obsolete](https://www.pcgamer.com/world-of-warcraft-dragonflights-new-dracthyr-race-makes-everyone-else-look-obsolete)<!-- GAME:END -->
+ - [The Sea Beast’s director walks us through the ‘wise monsters’ that inspired his creatures](https://www.polygon.com/23205582/the-sea-beast-chris-williams-interview-netflix)
+ - [Bill Gates repeats pledge to give away &#39;virtually all&#39; of fortune, though his net worth has doubled since he first said it](https://www.pcgamer.com/bill-gates-repeats-pledge-to-give-away-virtually-all-of-fortune-though-his-net-worth-has-doubled-since-he-first-said-it)
+ - [TennoCon 2022: Band Together for Digital Extremes’ Flagship Warframe Event This Saturday](https://news.xbox.com/en-us/2022/07/14/tennocon-2022-warframe-event-this-saturday/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
