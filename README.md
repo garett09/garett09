@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lead runner for $3 billion NFL streaming deal](https://appleinsider.com/articles/22/07/14/apple-lead-runner-for-3-billion-per-year-nfl-streaming-deal?utm_medium=rss)
- - [A woman wrote 206 interconnected Wikipedia articles in Chinese since 2019 with false accounts of Russian medieval history, one of the largest hoaxes on the site &lpar;Rachel Cheung/VICE&rpar;](http://www.techmeme.com/220713/p34#a220713p34)
- - [The best Prime Day 2022 tablet deals](https://www.theverge.com/23199072/amazon-prime-day-best-tablet-samsung-apple-ipad-deals-2022)<!-- TECH:END -->
+ - [These are the best laptop deals around for Amazon Prime Day 2022](https://www.theverge.com/23204343/amazon-prime-day-best-laptop-deals-2022)
+ - [Prime Day 2022: the best headphone and earbud deals](https://www.theverge.com/23204301/amazon-prime-day-best-headphone-earbud-deals-2022)
+ - [Google Cloud announces a preview of Tau T2A, its first line of Arm-based VMs powered by Ampere Altra, with up to 48 vCPUs, each with up to 4GB of memory &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220713/p37#a220713p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
