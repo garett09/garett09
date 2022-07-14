@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-CIA engineer convicted for being WikiLeaks source in ‘Vault 7’ hacking tools leak](https://www.theverge.com/2022/7/13/23208635/cia-wikileaks-vault-7-joshua-schulte-conviction)
- - [8 Great Prime Day Deals on Robot Vacuums](https://www.wired.com/story/best-prime-day-robot-vacuum-deals/)
- - [24 Best Prime Day Deals on Amazon Devices](https://www.wired.com/story/best-amazon-device-deals-prime-day-2022-1/)<!-- TECH:END -->
+ - [Apple lead runner for $3 billion NFL streaming deal](https://appleinsider.com/articles/22/07/14/apple-lead-runner-for-3-billion-per-year-nfl-streaming-deal?utm_medium=rss)
+ - [A woman wrote 206 interconnected Wikipedia articles in Chinese since 2019 with false accounts of Russian medieval history, one of the largest hoaxes on the site &lpar;Rachel Cheung/VICE&rpar;](http://www.techmeme.com/220713/p34#a220713p34)
+ - [The best Prime Day 2022 tablet deals](https://www.theverge.com/23199072/amazon-prime-day-best-tablet-samsung-apple-ipad-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
