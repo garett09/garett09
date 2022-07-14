@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Inflation is up 9.1% in June](http://9gag.com/gag/a410YZp)
- - 🚯 [Sounds about right](http://9gag.com/gag/aegBGdQ)
+ - 🚖 [Sounds about right](http://9gag.com/gag/aegBGdQ)
+ - 🚯 [It is what it is](http://9gag.com/gag/aQXj8GW)
  - 🚯 [Mole](http://9gag.com/gag/aZrYpZz)<!-- MEMES:END -->
 
 --- 
