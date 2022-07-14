@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kaguya-sama: Love Is War is rom-com perfection](https://www.polygon.com/23207424/kaguya-sama-love-is-war-rom-com)
- - [To drive F1 22’s new cars, first, give yourself a break](https://www.polygon.com/23218970/f1-22-how-to-drive-traction-control-assists-setups-ai-difficulty)
- - [Join Milo the Dog as We Play Marvel’s Guardians of the Galaxy and Raise Money for SPCA International](https://news.xbox.com/en-us/2022/07/14/play-guardians-of-the-galaxy-pc-game-pass-raise-money-spca/)<!-- GAME:END -->
+ - [Unity CEO Calls Mobile Devs Who Don&#39;t Monetize ‘F*cking Idiots’](https://kotaku.com/unity-john-riccitiello-monetization-mobile-ironsource-1849179898)
+ - [Everything We Learned Today About Skate 4, Which Isn’t Actually Called Skate 4](https://kotaku.com/skate-4-ea-full-circle-free-to-play-microtransactions-1849179812)
+ - [Profoundly wealthy rapper Drake gifted $7,000 gaming PC](https://www.pcgamer.com/profoundly-wealthy-rapper-drake-gifted-dollar7000-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
