@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Women \u2615](http://9gag.com/gag/aqGErVP)
- - 🚯 [It was at this point Megan knew her friends dad will be called daddy by her from now on.](http://9gag.com/gag/aBnewRZ)
+ - 🚯 [Mon coeur](http://9gag.com/gag/aZrYpEp)
  - 🚯 [YET\u2026..](http://9gag.com/gag/aWgX8gd)<!-- MEMES:END -->
 
 --- 
