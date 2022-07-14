@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WOrLd](http://9gag.com/gag/avAjgKM)
- - 🚯 [I envy his perseverance *vomit warning*](http://9gag.com/gag/aXrOpo2)
+ - 🚖 [I enjoyed the movie](http://9gag.com/gag/a81gY21)
+ - 🚯 [How dog breeds react to robbers](http://9gag.com/gag/aBneY32)
  - 🚯 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 --- 
