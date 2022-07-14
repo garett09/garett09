@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the DOJ is likely to reject concessions offered by Google and file an antitrust lawsuit in the coming weeks over its dominance of the online ad market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220714/p21#a220714p21)
- - [Alphabet’s Wing is working on larger drones that can handle heavier deliveries](https://www.theverge.com/2022/7/14/23217294/wing-drone-delivery-package-size-prototype)
- - [Hot and hyped: inside the strange launch of the Nothing Phone 1](https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [BTS is coming to Disney Plus](https://www.theverge.com/2022/7/14/23216467/bts-disney-plus-hybe-collaboration-2022)
+ - [ChromeOS Flex now available to run on aging Macs and PCs](https://appleinsider.com/articles/22/07/14/chromeos-flex-now-available-to-run-on-aging-macs-and-pcs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
