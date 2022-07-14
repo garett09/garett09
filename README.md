@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter suffering from outages, globally](https://appleinsider.com/articles/22/07/14/twitter-suffering-from-outages-globally?utm_medium=rss)
- - [Twitter is down in a major outage](https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity)
- - [Pixelmator updates iPhone and iPad app with new design](https://appleinsider.com/articles/22/07/14/pixelmator-updates-iphone-and-ipad-app-with-new-design?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter is back after a major outage](https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity)
+ - [Customer receives M2 MacBook Air a full day before launch](https://appleinsider.com/articles/22/07/14/customer-receives-m2-macbook-air-a-full-day-before-launch?utm_medium=rss)
+ - [M2 MacBook Air review roundup: This is the Mac you&#39;re looking for](https://appleinsider.com/articles/22/07/14/m2-macbook-air-review-roundup-this-is-the-mac-youre-looking-for?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
