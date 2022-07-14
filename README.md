@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases its first human rights report, including due diligence in 2020 and 2021 and a summary of a controversial human rights impact assessment of India &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/220714/p13#a220714p13)
- - [Netflix is bringing back its Tudum event in September](https://www.theverge.com/2022/7/14/23209304/netflix-tudum-event-youtube-stream-september-2022)
- - [Apple’s new MacBook Air M2 is the start of a whole new Air-a](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)<!-- TECH:END -->
+ - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
+ - [Porter Robinson on crafting a new anthem for League of Legends](https://www.theverge.com/2022/7/14/23205064/porter-robinson-interview-league-of-legends)
+ - [UnCaged Studios, a web3-focused gaming studio, has raised a $24M Series A, following a $4M token presale for its Solana-focused game MonkeyLeague &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220714/p16#a220714p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
