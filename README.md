@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds about right](http://9gag.com/gag/aegBGdQ)
- - 🚯 [It is what it is](http://9gag.com/gag/aQXj8GW)
- - 🚯 [Mole](http://9gag.com/gag/aZrYpZz)<!-- MEMES:END -->
+ - 🚖 [YET\u2026..](http://9gag.com/gag/aWgX8gd)
+ - 🚯 [I want this! NOW!](http://9gag.com/gag/aAG9w0g)
+ - 🚯 [Let mosquitoes also taste the feeling of being pricked by needles! !](http://9gag.com/gag/a61RQZA)<!-- MEMES:END -->
 
 --- 
 
