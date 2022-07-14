@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Worldwide corn enthusiasts gather next week at FarmCon 22, the Lollapalooza of videogame agriculture](https://www.pcgamer.com/worldwide-corn-enthusiasts-gather-next-week-at-farmcon-22-the-lollapalooza-of-videogame-agriculture)
- - [Secret Headquarters is the next generation of Spy Kids, with Owen Wilson as Iron Man](https://www.polygon.com/23219199/secret-headquarters-trailer-owen-wilson-superhero)
- - [Suddenly, Everyone Wants To Remake Dead Space](https://kotaku.com/the-callisto-protocol-dead-space-routine-fort-solis-1849179938)<!-- GAME:END -->
+ - [Destiny 2’s Big Summer Hangout Gets A Major Overhaul](https://kotaku.com/destiny-2-witch-queen-solstice-bungie-high-stat-armor-1849180626)
+ - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)
+ - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
