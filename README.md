@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity CEO Calls Mobile Devs Who Don&#39;t Monetize ‘F*cking Idiots’](https://kotaku.com/unity-john-riccitiello-monetization-mobile-ironsource-1849179898)
- - [Everything We Learned Today About Skate 4, Which Isn’t Actually Called Skate 4](https://kotaku.com/skate-4-ea-full-circle-free-to-play-microtransactions-1849179812)
- - [Profoundly wealthy rapper Drake gifted $7,000 gaming PC](https://www.pcgamer.com/profoundly-wealthy-rapper-drake-gifted-dollar7000-gaming-pc)<!-- GAME:END -->
+ - [Worldwide corn enthusiasts gather next week at FarmCon 22, the Lollapalooza of videogame agriculture](https://www.pcgamer.com/worldwide-corn-enthusiasts-gather-next-week-at-farmcon-22-the-lollapalooza-of-videogame-agriculture)
+ - [Secret Headquarters is the next generation of Spy Kids, with Owen Wilson as Iron Man](https://www.polygon.com/23219199/secret-headquarters-trailer-owen-wilson-superhero)
+ - [Suddenly, Everyone Wants To Remake Dead Space](https://kotaku.com/the-callisto-protocol-dead-space-routine-fort-solis-1849179938)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
