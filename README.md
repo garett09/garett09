@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [VPNs aren&#39;t as protective as you think they are, says US Congress](https://www.pcgamer.com/vpns-arent-as-protective-as-they-think-you-are-says-us-congress)
  - [Destiny 2’s Big Summer Hangout Gets A Major Overhaul](https://kotaku.com/destiny-2-witch-queen-solstice-bungie-high-stat-armor-1849180626)
- - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)
- - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)<!-- GAME:END -->
+ - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
