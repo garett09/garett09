@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [YET\u2026..](http://9gag.com/gag/aWgX8gd)
- - 🚯 [I want this! NOW!](http://9gag.com/gag/aAG9w0g)
- - 🚯 [Women \u2615](http://9gag.com/gag/aqGErVP)<!-- MEMES:END -->
+ - 🚖 [Most of the kids don&#39;t get good grades not because they stupid but because they don&#39;t have the right motivation](http://9gag.com/gag/aBnewwx)
+ - 🚯 [Women \u2615](http://9gag.com/gag/aqGErVP)
+ - 🚯 [Happy new year!!](http://9gag.com/gag/a21X45O)<!-- MEMES:END -->
 
 --- 
 
