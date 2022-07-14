@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sea Beast’s director walks us through the ‘wise monsters’ that inspired his creatures](https://www.polygon.com/23205582/the-sea-beast-chris-williams-interview-netflix)
- - [Bill Gates repeats pledge to give away &#39;virtually all&#39; of fortune, though his net worth has doubled since he first said it](https://www.pcgamer.com/bill-gates-repeats-pledge-to-give-away-virtually-all-of-fortune-though-his-net-worth-has-doubled-since-he-first-said-it)
- - [TennoCon 2022: Band Together for Digital Extremes’ Flagship Warframe Event This Saturday](https://news.xbox.com/en-us/2022/07/14/tennocon-2022-warframe-event-this-saturday/)<!-- GAME:END -->
+ - [Albert Wesker’s trip to the principal’s office in Resident Evil scared Lance Reddick](https://www.polygon.com/23206028/resident-evil-lance-reddick-interview)
+ - [Nintendo buys animation studio, forms Nintendo Pictures](https://www.polygon.com/23215942/nintendo-pictures-animation-studio-dynamo-mario)
+ - [MultiVersus open beta launches this month](https://www.polygon.com/23218298/multiversus-open-beta-launch-date-july)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
