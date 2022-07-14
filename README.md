@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mon coeur](http://9gag.com/gag/aZrYpEp)
- - 🚯 [YET\u2026..](http://9gag.com/gag/aWgX8gd)
- - 🚯 [This colorized 1943 performance of Cab Calloway &amp; the Nicholas brothers](http://9gag.com/gag/angob7L)<!-- MEMES:END -->
+ - 🚖 [YET\u2026..](http://9gag.com/gag/aWgX8gd)
+ - 🚯 [I want this! NOW!](http://9gag.com/gag/aAG9w0g)
+ - 🚯 [Women \u2615](http://9gag.com/gag/aqGErVP)<!-- MEMES:END -->
 
 --- 
 
