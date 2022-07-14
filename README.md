@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: consumer spending in non-game apps hit ~$3.4B in Q2 on the US App Store, surpassing spending in mobile games, which hit ~$3.3B, for the first time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220714/p32#a220714p32)
- - [NASA Mars Helicopter Is Taking a Vacation From Flying     - CNET](https://www.cnet.com/science/space/nasa-mars-helicopter-is-taking-a-vacation-from-flying/#ftag=CAD590a51e)
- - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)<!-- TECH:END -->
+ - [Hyundai imagines a grim future where metaverse ‘artists’ live in their cars](https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe)
+ - [CoinFlex will let users withdraw up to 10% of their balances, excluding its flexUSD stablecoin, on July 15, after pausing withdrawals last month &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220714/p34#a220714p34)
+ - [False QAnon Conspiracies in Politics: What to Look Out for Ahead of the Midterms     - CNET](https://www.cnet.com/news/misinformation/false-qanon-conspiracies-in-politics-what-to-look-out-for-ahead-of-the-midterms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
