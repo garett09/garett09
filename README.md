@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is back after a major outage](https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity)
- - [Customer receives M2 MacBook Air a full day before launch](https://appleinsider.com/articles/22/07/14/customer-receives-m2-macbook-air-a-full-day-before-launch?utm_medium=rss)
- - [M2 MacBook Air review roundup: This is the Mac you&#39;re looking for](https://appleinsider.com/articles/22/07/14/m2-macbook-air-review-roundup-this-is-the-mac-youre-looking-for?utm_medium=rss)<!-- TECH:END -->
+ - [Meta releases its first human rights report, including due diligence in 2020 and 2021 and a summary of a controversial human rights impact assessment of India &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/220714/p13#a220714p13)
+ - [Netflix is bringing back its Tudum event in September](https://www.theverge.com/2022/7/14/23209304/netflix-tudum-event-youtube-stream-september-2022)
+ - [Apple’s new MacBook Air M2 is the start of a whole new Air-a](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
