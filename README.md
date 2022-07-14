@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 28 best PlayStation 4 games](https://www.polygon.com/what-to-play/23203968/best-ps4-games-playstation-4)
- - [The DioField Chronicle Marches onto Xbox Series X|S and Xbox One This September](https://news.xbox.com/en-us/2022/07/14/the-diofield-chronicle-xbox-this-september/)
- - [Windows 8.1 has begun warning users of its imminent demise](https://www.pcgamer.com/windows-81-has-begun-warning-users-of-its-imminent-demise)<!-- GAME:END -->
+ - [Metal Gear Turned 35, But Quiet’s Character Design Marks A Timeless Controversy](https://kotaku.com/metal-gear-solid-v-quiet-character-design-hideo-kojima-1849175116)
+ - [World of Warcraft: Dragonflight isn&#39;t being designed for players obsessed with topping DPS meters](https://www.pcgamer.com/world-of-warcraft-dragonflight-isnt-being-designed-for-players-obsessed-with-topping-dps-meters)
+ - [World of Warcraft: Dragonflight&#39;s new dracthyr race makes everyone else look obsolete](https://www.pcgamer.com/world-of-warcraft-dragonflights-new-dracthyr-race-makes-everyone-else-look-obsolete)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
