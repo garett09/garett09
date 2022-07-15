@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Superman shaves](http://9gag.com/gag/arnLVVK)
- - 🚯 [Choo choo Hurensohn](http://9gag.com/gag/a71xW6b)
- - 🚯 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)<!-- MEMES:END -->
+ - 🚖 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)
+ - 🚯 [How Superman shaves](http://9gag.com/gag/arnLVVK)
+ - 🚯 [Always do everything for yourself and yourself only](http://9gag.com/gag/a116RAG)<!-- MEMES:END -->
 
 --- 
 
