@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of us still don’t have Windows 11, but here’s when Windows 12 could land](https://www.androidauthority.com/microsoft-windows-12-2024-3187078/)
- - [Texas’ Precarious Power Grid Exposes a Nasty Feedback Loop](https://www.wired.com/story/texas-precarious-power-grid-exposes-a-nasty-feedback-loop/)
- - [Tech journalism’s accessibility problem](https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage)<!-- TECH:END -->
+ - [Daily deals July 15: $300 off 75-inch 4K Hisense TV, 24% discount on 16-inch MacBook Pro, Crucial 1TB SSD for $80, more](https://appleinsider.com/articles/22/07/15/daily-deals-july-15-300-off-75-inch-4k-hisense-tv-24-discount-on-16-inch-macbook-pro-crucial-1tb-ssd-for-80-more?utm_medium=rss)
+ - [An experimental horror ARG is testing the boundaries of AI art](https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan)
+ - [Apple launches Apple Music Sessions with exclusive live performances](https://appleinsider.com/articles/22/07/15/apple-launches-apple-music-sessions-with-exclusive-live-performances?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
