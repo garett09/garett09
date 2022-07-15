@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis: crypto flowing into mixer services hit a 30-day moving average of $51.8M in April, a record high; Russia&#39;s Hydra Market accounted for 50% of funds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220715/p2#a220715p2)
- - [Montblanc Summit 3 has arrived: See how Wear OS 3 looks on a non-Samsung watch](https://www.androidauthority.com/montblanc-summit-3-wear-os-3-3186949/)
- - [Samsung Galaxy Z Fold 5 and Z Flip 5 rumors are already here](https://www.androidauthority.com/samsung-galaxy-z-fold-5-galaxy-z-flip-5-3186934/)<!-- TECH:END -->
+ - [Nothing Phone 1 review: A bright debut](https://www.androidauthority.com/nothing-phone-1-review-3186797/)
+ - [Nothing&#39;s New Phone Is Everything a Phone Should Be](https://www.wired.com/review/nothing-phone-1/)
+ - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
