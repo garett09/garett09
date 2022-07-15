@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today I learned Amazon has a form so police can get my data without permission or a warrant](https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent)
- - [Hang, which aims to help brands create and manage Web3-powered membership and loyalty programs that leverage NFTs, raised a $16M Series A led by Paradigm &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220714/p36#a220714p36)
- - [It’s ChromeOS now, not Chrome OS](https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding)<!-- TECH:END -->
+ - [Sources: Amazon has reduced its white label product selection and mulled exiting the business altogether, amid weak sales and mounting regulatory pressure &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220714/p38#a220714p38)
+ - [Jake Paul vs. Hasim Rahman Jr.: When It Takes Place and How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-when-it-takes-place-and-how-to-watch-or-stream-online/#ftag=CAD590a51e)
+ - [Bishop Fox, which offers tools for dynamic application security testing, has raised a $75M Series B led by Carrick Capital Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220714/p37#a220714p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
