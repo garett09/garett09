@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 15: $300 off 75-inch 4K Hisense TV, 24% discount on 16-inch MacBook Pro, Crucial 1TB SSD for $80, more](https://appleinsider.com/articles/22/07/15/daily-deals-july-15-300-off-75-inch-4k-hisense-tv-24-discount-on-16-inch-macbook-pro-crucial-1tb-ssd-for-80-more?utm_medium=rss)
- - [An experimental horror ARG is testing the boundaries of AI art](https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan)
- - [Apple launches Apple Music Sessions with exclusive live performances](https://appleinsider.com/articles/22/07/15/apple-launches-apple-music-sessions-with-exclusive-live-performances?utm_medium=rss)<!-- TECH:END -->
+ - [Okendo, which provides customer review tools to e-commerce brands, has raised a $26M Series A led by Base10 Partners, bringing its total funding to $33.5M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220715/p8#a220715p8)
+ - [Shopify demos Apple&#39;s RoomPlan, strips all furniture from room](https://appleinsider.com/articles/22/07/15/shopify-demos-apples-roomplan-strips-all-furniture-from-room?utm_medium=rss)
+ - [Celsius CEO said in a court filing that his company was owed $439M by a &quot;private lending platform&quot; that sources say is specialist finance company EquitiesFirst &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/220715/p7#a220715p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
