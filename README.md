@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [CD Projekt stock is worth a quarter of what it was before Cyberpunk 2077 released](https://www.pcgamer.com/cd-projekt-stock-is-worth-a-quarter-of-what-it-was-before-cyberpunk-2077-released)
- - [Pokémon’s life-size Spheal plush is my new best friend](https://www.polygon.com/23220108/pokemon-plush-spheal-life-size-buy-japan)<!-- GAME:END -->
+ - [Free Sims 4 update will add growable body hair and sexual preferences](https://www.pcgamer.com/free-sims-4-update-will-add-growable-body-hair-and-sexual-preference-options)
+ - [Play deadly pranks and be a teen trendsetter in The Sims 4 High School Years expansion](https://www.pcgamer.com/the-sims-4-high-school-years-expansion-preview)
+ - [Secret Neighbor’s Paranormal Amusement Park Update is out Now for Xbox Series X|S &amp; Xbox One](https://news.xbox.com/en-us/2022/07/15/secret-neighbors-paranormal-amusement-park-update-is-out-now-for-xbox-series-xs-xbox-one/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
