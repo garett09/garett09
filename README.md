@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [And then your boss team calls you](http://9gag.com/gag/a81g5qQ)
- - 🚯 [His reactions are unmatched.](http://9gag.com/gag/ango51E)
- - 🚯 [A secret locker...](http://9gag.com/gag/aM4LZ3M)<!-- MEMES:END -->
+ - 🚯 [Are James Webb telescope images real??](http://9gag.com/gag/aog7e93)
+ - 🚯 [Little monkey](http://9gag.com/gag/aNPbY5v)<!-- MEMES:END -->
 
 --- 
 
