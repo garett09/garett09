@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
- - [How Heat Waves Are Messing Up Your Sleep](https://www.wired.com/story/sleep-disruption-heat-wave/)
- - [Have Pollsters Cleaned Up Their Act in Time for the Midterms?](https://www.wired.com/story/2022-midterms-polls-g-elliott-morris-q-a/)<!-- TECH:END -->
+ - [Some of us still don’t have Windows 11, but here’s when Windows 12 could land](https://www.androidauthority.com/microsoft-windows-12-2024-3187078/)
+ - [Texas’ Precarious Power Grid Exposes a Nasty Feedback Loop](https://www.wired.com/story/texas-precarious-power-grid-exposes-a-nasty-feedback-loop/)
+ - [Tech journalism’s accessibility problem](https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
