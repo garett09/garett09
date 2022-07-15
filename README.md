@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai imagines a grim future where metaverse ‘artists’ live in their cars](https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe)
- - [CoinFlex will let users withdraw up to 10% of their balances, excluding its flexUSD stablecoin, on July 15, after pausing withdrawals last month &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220714/p34#a220714p34)
- - [False QAnon Conspiracies in Politics: What to Look Out for Ahead of the Midterms     - CNET](https://www.cnet.com/news/misinformation/false-qanon-conspiracies-in-politics-what-to-look-out-for-ahead-of-the-midterms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today I learned Amazon has a form so police can get my data without permission or a warrant](https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent)
+ - [Hang, which aims to help brands create and manage Web3-powered membership and loyalty programs that leverage NFTs, raised a $16M Series A led by Paradigm &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220714/p36#a220714p36)
+ - [It’s ChromeOS now, not Chrome OS](https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
