@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ride the whale](http://9gag.com/gag/apgMm35)
+ - 🚖 [And then your boss team calls you](http://9gag.com/gag/a81g5qQ)
  - 🚯 [His reactions are unmatched.](http://9gag.com/gag/ango51E)
  - 🚯 [A secret locker...](http://9gag.com/gag/aM4LZ3M)<!-- MEMES:END -->
 
