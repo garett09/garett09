@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natural selection](http://9gag.com/gag/a51YonN)
- - 🚯 [Hungary right now. The next SriLanka!People protesting because tax changes. &lpar;which are already the highest in the EU&rpar;](http://9gag.com/gag/aGzQeZZ)
- - 🚯 [Uh oh, society](http://9gag.com/gag/aNPbzYK)<!-- MEMES:END -->
+ - 🚖 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
+ - 🚯 [Some people need a reminder. Especially Philippines](http://9gag.com/gag/a81g8rp)
+ - 🚯 [Bcz its Once in a lifetime chance.](http://9gag.com/gag/aVx635K)<!-- MEMES:END -->
 
 --- 
 
