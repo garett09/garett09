@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
- - 🚯 [The only person I\u2019ll ever refer to as they/them](http://9gag.com/gag/aM4LA4A)
- - 🚯 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)<!-- MEMES:END -->
+ - 🚖 [You didn&#39;t break up with me, I broke up with you!](http://9gag.com/gag/angob1E)
+ - 🚯 [This colorized 1943 performance of Cab Calloway &amp; the Nicholas brothers](http://9gag.com/gag/angob7L)
+ - 🚯 [Hide your gfs. It&#39;s Friday my dudes!](http://9gag.com/gag/aZrYgj3)<!-- MEMES:END -->
 
 --- 
 
