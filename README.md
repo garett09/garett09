@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
- - 🚯 [Some people need a reminder. Especially Philippines](http://9gag.com/gag/a81g8rp)
- - 🚯 [Bcz its Once in a lifetime chance.](http://9gag.com/gag/aVx635K)<!-- MEMES:END -->
+ - 🚖 [Great Father](http://9gag.com/gag/aKmMjnQ)
+ - 🚯 [Me escaping from my responsibilities](http://9gag.com/gag/aKmMxPZ)
+ - 🚯 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)<!-- MEMES:END -->
 
 --- 
 
