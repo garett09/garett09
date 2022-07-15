@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t wait for the last episode](http://9gag.com/gag/aQXj9ww)
- - 🚯 [Epstein didn&#39;t kill himself.](http://9gag.com/gag/aPZqWeG)
- - 🚯 [Hungary right now. The next SriLanka!People protesting because tax changes. &lpar;which are already the highest in the EU&rpar;](http://9gag.com/gag/aGzQeZZ)<!-- MEMES:END -->
+ - 🚖 [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
+ - 🚯 [The only person I\u2019ll ever refer to as they/them](http://9gag.com/gag/aM4LA4A)
+ - 🚯 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)<!-- MEMES:END -->
 
 --- 
 
