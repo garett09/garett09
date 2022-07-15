@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)
- - 🚯 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
- - 🚯 [Ride the whale](http://9gag.com/gag/apgMm35)<!-- MEMES:END -->
+ - 🚖 [Natural instinct](http://9gag.com/gag/aBnexdZ)
+ - 🚯 [I have maxed out on procrastination, I have a golden skin.](http://9gag.com/gag/aze396Z)
+ - 🚯 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)<!-- MEMES:END -->
 
 --- 
 
