@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The powerful 16-inch MacBook Pro is at an all-time low](https://www.theverge.com/good-deals/2022/7/15/23216226/macbook-16-pro-zendure-power-bank-echo-show-google-nest-hub-deal-sale)
- - [&#39;Captain America&#39; star Chris Evans misses the Home Button, says new iPhones too heavy](https://appleinsider.com/articles/22/07/15/captain-america-star-chris-evans-misses-the-home-button-says-new-iphones-too-heavy?utm_medium=rss)
- - [How crypto broker Voyager, which generated interest on deposits by loaning crypto assets, collapsed after its largest borrower Three Arrows Capital defaulted &lpar;CoinDesk&rpar;](http://www.techmeme.com/220715/p9#a220715p9)<!-- TECH:END -->
+ - [SmartBank, which offers a prepaid card and finance app in Japan, has raised a $20M Series A, bringing its total funding to $30M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220715/p10#a220715p10)
+ - [How to report someone on Facebook](https://www.androidauthority.com/report-someone-facebook-3184408/)
+ - [Richard Matheson Explored Loneliness Through Sci-Fi](https://www.wired.com/2022/07/geeks-guide-chris-matheson/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
