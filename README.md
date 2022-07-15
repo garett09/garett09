@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 5 and Z Flip 5 rumors are already here](https://www.androidauthority.com/samsung-galaxy-z-fold-5-galaxy-z-flip-5-3186934/)
- - [2023 Toyota Crown Is Part Sedan, Part SUV With 340-HP Hybrid Power     - CNET](https://www.cnet.com/roadshow/news/2023-toyota-crown-hybrid-max-debut/#ftag=CAD590a51e)
- - [2023 Toyota Crown Debuts Class-Bending Style     - CNET](https://www.cnet.com/roadshow/pictures/2023-toyota-crown-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chainalysis: crypto flowing into mixer services hit a 30-day moving average of $51.8M in April, a record high; Russia&#39;s Hydra Market accounted for 50% of funds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220715/p2#a220715p2)
+ - [Montblanc Summit 3 has arrived: See how Wear OS 3 looks on a non-Samsung watch](https://www.androidauthority.com/montblanc-summit-3-wear-os-3-3186949/)
+ - [Samsung Galaxy Z Fold 5 and Z Flip 5 rumors are already here](https://www.androidauthority.com/samsung-galaxy-z-fold-5-galaxy-z-flip-5-3186934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
