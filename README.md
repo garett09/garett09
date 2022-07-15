@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Marvel was full of boys, but are any of them good enough for Kamala?](https://www.polygon.com/23196728/ms-marvel-kamala-khan-boys-bruno-kamran-kareem-red-dagger)
- - [Four Months In, GTA&#39;s New Subscription Isn&#39;t Worth It For Most](https://kotaku.com/gta-subscription-worth-it-review-rewards-rockstar-1849184044)
- - [Free Sims 4 update will add growable body hair and sexual preferences](https://www.pcgamer.com/free-sims-4-update-will-add-growable-body-hair-and-sexual-preference-options)<!-- GAME:END -->
+ - [Halo Infinite campaign co-op launches in public testing](https://www.polygon.com/23219163/halo-infinite-campaign-co-op-mission-replay-beta-launch)
+ - [This Week on Xbox: Crossover Events, New Games, and Updates](https://news.xbox.com/en-us/2022/07/15/this-week-on-xbox-crossover-events-new-games-and-updates/)
+ - [WoW Dragonflight&#39;s closed alpha is live, here&#39;s how to get in](https://www.pcgamer.com/wow-dragonflight-alpha-sign-up-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
