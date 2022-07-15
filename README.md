@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sometimes, video games are better when they let you walk away](https://www.polygon.com/dear-polygon/23219286/pokemon-legends-arceus-fortnite-tmnt-shredders-revenge-recommendations)
- - [Share of the Week: Indie Games](https://blog.playstation.com/2022/07/15/share-of-the-week-indie-games/)
- - [Share of the Week: Indie Games](https://blog.playstation.com/2022/07/15/share-of-the-week-indie-games/)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [CD Projekt stock is worth a quarter of what it was before Cyberpunk 2077 released](https://www.pcgamer.com/cd-projekt-stock-is-worth-a-quarter-of-what-it-was-before-cyberpunk-2077-released)
+ - [Pokémon’s life-size Spheal plush is my new best friend](https://www.polygon.com/23220108/pokemon-plush-spheal-life-size-buy-japan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
