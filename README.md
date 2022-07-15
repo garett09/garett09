@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sheepdog clears traffic jam in no time!](http://9gag.com/gag/aAG93Yo)
+ - 🚖 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)
  - 🚯 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
- - 🚯 [Energy drinks are a scam](http://9gag.com/gag/a71xMpm)<!-- MEMES:END -->
+ - 🚯 [Ride the whale](http://9gag.com/gag/apgMm35)<!-- MEMES:END -->
 
 --- 
 
