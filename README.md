@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
- - 🚯 [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
- - 🚯 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
+ - 🚖 [Absolute unit](http://9gag.com/gag/aBne2OP)
+ - 🚯 [Hoping for a better 2023.](http://9gag.com/gag/aegBDbb)
+ - 🚯 [Banana for self-defence](http://9gag.com/gag/a91GE6Z)<!-- MEMES:END -->
 
 --- 
 
