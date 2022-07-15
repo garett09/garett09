@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
  - 🚯 [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
- - 🚯 [Don&#39;t do it!](http://9gag.com/gag/aPZqRmP)<!-- MEMES:END -->
+ - 🚯 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
 
 --- 
 
