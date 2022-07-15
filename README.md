@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Chair proposes new US broadband standard of 100Mbps up and 20Mbps down; the proposal would need to pass a vote in the currently deadlocked FCC &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/220715/p13#a220715p13)
- - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)
- - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [A look at DARPA&#39;s SocialCyber, a project that combines sociology with AI to protect open-source communities and the code they create from malicious campaigns &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220715/p14#a220715p14)
+ - [Here&#39;s the Rest of the New Toyota Crown Series We&#39;re Probably Not Getting     - CNET](https://www.cnet.com/roadshow/news/heres-the-rest-of-the-new-toyota-crown-series-were-probably-not-getting/#ftag=CAD590a51e)
+ - [Meet the New Toyota Crown Family of Vehicles     - CNET](https://www.cnet.com/roadshow/pictures/toyota-crown-series-debut-suv-sedan-crossover/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
