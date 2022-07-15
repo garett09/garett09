@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SmartBank, which offers a prepaid card and finance app in Japan, has raised a $20M Series A, bringing its total funding to $30M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220715/p10#a220715p10)
- - [How to report someone on Facebook](https://www.androidauthority.com/report-someone-facebook-3184408/)
- - [Richard Matheson Explored Loneliness Through Sci-Fi](https://www.wired.com/2022/07/geeks-guide-chris-matheson/)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Taiwan authorities charge Apple supplier Luxshare with corporate espionage](https://appleinsider.com/articles/22/07/15/taiwan-authorities-charge-apple-supplier-luxshare-with-corporate-espionage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
