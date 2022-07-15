@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great Father](http://9gag.com/gag/aKmMjnQ)
- - 🚯 [Me escaping from my responsibilities](http://9gag.com/gag/aKmMxPZ)
- - 🚯 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)<!-- MEMES:END -->
+ - 🚖 [Sheepdog clears traffic jam in no time!](http://9gag.com/gag/aAG93Yo)
+ - 🚯 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
+ - 🚯 [Energy drinks are a scam](http://9gag.com/gag/a71xMpm)<!-- MEMES:END -->
 
 --- 
 
