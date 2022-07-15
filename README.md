@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Natural selection](http://9gag.com/gag/a51YonN)
- - 🚯 [Happy new year!!](http://9gag.com/gag/a21X45O)
- - 🚯 [Hide your gfs. It&#39;s Friday my dudes!](http://9gag.com/gag/aZrYgj3)<!-- MEMES:END -->
+ - 🚯 [Hungary right now. The next SriLanka!People protesting because tax changes. &lpar;which are already the highest in the EU&rpar;](http://9gag.com/gag/aGzQeZZ)
+ - 🚯 [Uh oh, society](http://9gag.com/gag/aNPbzYK)<!-- MEMES:END -->
 
 --- 
 
