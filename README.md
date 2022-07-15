@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has this OnePlus patent given us a look at the OnePlus 10 Ultra?](https://www.androidauthority.com/oneplus-patent-filing-oneplus-10-ultra-3187007/)
- - [Intel plans to raise CPU prices this year](https://www.theverge.com/2022/7/15/23219873/intel-cpu-chip-price-increase)
- - [Nothing Phone 1 review: a good midrange phone with snappy performance but the glyph notification system is mostly gimmicky and battery performance is not great &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220715/p3#a220715p3)<!-- TECH:END -->
+ - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
+ - [How Heat Waves Are Messing Up Your Sleep](https://www.wired.com/story/sleep-disruption-heat-wave/)
+ - [Have Pollsters Cleaned Up Their Act in Time for the Midterms?](https://www.wired.com/story/2022-midterms-polls-g-elliott-morris-q-a/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
