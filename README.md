@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Gray Man shows the Avengers directors can’t think small enough](https://www.polygon.com/reviews/23216417/the-gray-man-netflix-review-chris-evans-ryan-gosling)
- - [After the tech exodus, Russian state prepares to fund its own &#39;national game engine&#39;](https://www.pcgamer.com/after-the-tech-exodus-russian-state-prepares-to-fund-its-own-national-game-engine)
- - [The Nvidia RTX 4080 GPU may not be launching this year after all](https://www.pcgamer.com/the-nvidia-rtx-4080-gpu-may-not-be-launching-this-year-after-all)<!-- GAME:END -->
+ - [Ms. Marvel made a crucial mistake with its villains](https://www.polygon.com/23219101/ms-marvel-season-1-villain-review)
+ - [Next Week on Xbox: July 18 to 22](https://news.xbox.com/en-us/2022/07/15/next-week-on-xbox-july-18-to-22/)
+ - [PUBG&#39;s new map lets you slingshot across it](https://www.pcgamer.com/pubgs-new-map-lets-you-slingshot-across-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
