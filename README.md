@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me escaping from my responsibilities](http://9gag.com/gag/aKmMxPZ)
- - 🚯 [Y&#39;all still winning](http://9gag.com/gag/aZrY3KQ)
- - 🚯 [Ride the whale](http://9gag.com/gag/apgMm35)<!-- MEMES:END -->
+ - 🚖 [Ride the whale](http://9gag.com/gag/apgMm35)
+ - 🚯 [His reactions are unmatched.](http://9gag.com/gag/ango51E)
+ - 🚯 [A secret locker...](http://9gag.com/gag/aM4LZ3M)<!-- MEMES:END -->
 
 --- 
 
