@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Phantasmal Conches in Genshin Impact](https://www.pcgamer.com/genshin-impact-phantasmal-conches)
- - [Today&#39;s Wordle answer #391: Friday, July 15](https://www.pcgamer.com/todays-wordle-july-15-391-answer-hint)
- - [The fastest GDDR6 memory ever is coming to next gen graphics cards](https://www.pcgamer.com/the-fastest-gddr6-memory-ever-is-coming-to-next-gen-graphics-cards)<!-- GAME:END -->
+ - [Feed weird creatures to other creatures to make more powerful creatures in this new open-world survival game](https://www.pcgamer.com/feed-weird-creatures-to-other-creatures-to-make-more-powerful-creatures-in-this-new-open-world-survival-game)
+ - [MSI Oculux NXG253R](https://www.pcgamer.com/msi-oculuz-nxg253r-gaming-monitor-review)
+ - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
