@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [And then your boss team calls you](http://9gag.com/gag/a81g5qQ)
- - 🚯 [Are James Webb telescope images real??](http://9gag.com/gag/aog7e93)
- - 🚯 [Little monkey](http://9gag.com/gag/aNPbY5v)<!-- MEMES:END -->
+ - 🚯 [Little monkey](http://9gag.com/gag/aNPbY5v)
+ - 🚯 [I have maxed out on procrastination, I have a golden skin.](http://9gag.com/gag/aze396Z)<!-- MEMES:END -->
 
 --- 
 
