@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Marvel made a crucial mistake with its villains](https://www.polygon.com/23219101/ms-marvel-season-1-villain-review)
- - [Next Week on Xbox: July 18 to 22](https://news.xbox.com/en-us/2022/07/15/next-week-on-xbox-july-18-to-22/)
- - [PUBG&#39;s new map lets you slingshot across it](https://www.pcgamer.com/pubgs-new-map-lets-you-slingshot-across-it)<!-- GAME:END -->
+ - [The Boys’ college spinoff series is called, cleverly, Gen V](https://www.polygon.com/23220097/the-boys-college-spinoff-gen-v-cast-amazon-prime)
+ - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)
+ - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
