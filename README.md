@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite campaign co-op launches in public testing](https://www.polygon.com/23219163/halo-infinite-campaign-co-op-mission-replay-beta-launch)
- - [This Week on Xbox: Crossover Events, New Games, and Updates](https://news.xbox.com/en-us/2022/07/15/this-week-on-xbox-crossover-events-new-games-and-updates/)
- - [WoW Dragonflight&#39;s closed alpha is live, here&#39;s how to get in](https://www.pcgamer.com/wow-dragonflight-alpha-sign-up-how-to)<!-- GAME:END -->
+ - [Powerwash Simulator Devs Warn Xbox Players: Do Not Look At The Sun](https://kotaku.com/powerwash-simulator-xbox-sun-bug-glitch-game-pass-fix-1849184853)
+ - [Fearing Unity And Unreal Abandonment, Russia May Build Its Own Game Engine](https://kotaku.com/russia-unreal-unity-game-engine-development-ukraine-1849184860)
+ - [Your Favorite Manga Isn&#39;t More Important Than The Creator&#39;s Health](https://kotaku.com/hunter-x-hunter-berserk-nana-vagabond-hiatus-manga-1849184744)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
