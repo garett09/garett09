@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [90\u2019s kids wet dream](http://9gag.com/gag/aDDvz3x)
- - 🚯 [The only person I\u2019ll ever refer to as they/them](http://9gag.com/gag/aM4LA4A)
- - 🚯 [Natural selection](http://9gag.com/gag/a51YonN)<!-- MEMES:END -->
+ - 🚖 [Natural selection](http://9gag.com/gag/a51YonN)
+ - 🚯 [Happy new year!!](http://9gag.com/gag/a21X45O)
+ - 🚯 [Hide your gfs. It&#39;s Friday my dudes!](http://9gag.com/gag/aZrYgj3)<!-- MEMES:END -->
 
 --- 
 
