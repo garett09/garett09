@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [VPNs aren&#39;t as protective as you think they are, says US Congress](https://www.pcgamer.com/vpns-arent-as-protective-as-they-think-you-are-says-us-congress)
- - [Destiny 2’s Big Summer Hangout Gets A Major Overhaul](https://kotaku.com/destiny-2-witch-queen-solstice-bungie-high-stat-armor-1849180626)
- - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)<!-- GAME:END -->
+ - [Dark Souls&#39; Lore Is Being Released In Two Glorious Books](https://kotaku.com/dark-souls-lore-story-books-maps-guide-miyazaki-1849181099)
+ - [The X-Wing Team Were Working On A Cancelled Xbox Game](https://kotaku.com/x-wing-lucasarts-totally-games-xbox-phil-spencer-1849181040)
+ - [Aliens is finally getting a new singleplayer &#39;action horror&#39; game](https://www.pcgamer.com/aliens-is-finally-getting-a-new-singleplayer-action-horror-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
