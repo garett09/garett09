@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at DARPA&#39;s SocialCyber, a project that combines sociology with AI to protect open-source communities and the code they create from malicious campaigns &lpar;Patrick Howell O&#39;Neill/MIT Technology ...&rpar;](http://www.techmeme.com/220715/p14#a220715p14)
- - [Here&#39;s the Rest of the New Toyota Crown Series We&#39;re Probably Not Getting     - CNET](https://www.cnet.com/roadshow/news/heres-the-rest-of-the-new-toyota-crown-series-were-probably-not-getting/#ftag=CAD590a51e)
- - [Meet the New Toyota Crown Family of Vehicles     - CNET](https://www.cnet.com/roadshow/pictures/toyota-crown-series-debut-suv-sedan-crossover/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to redeem a code in Genshin Impact](https://www.androidauthority.com/genshin-impact-redeem-code-3186309/)
+ - [You’re not hearing things — yes, the Twitter app chirps now](https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh)
+ - [Apple’s new MacBook Air M2 is the start of a whole new Air-a](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
