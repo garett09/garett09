@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The fastest GDDR6 memory ever is coming to next gen graphics cards](https://www.pcgamer.com/the-fastest-gddr6-memory-ever-is-coming-to-next-gen-graphics-cards)
- - [Dark Souls&#39; Lore Is Being Released In Two Glorious Books](https://kotaku.com/dark-souls-lore-story-books-maps-guide-miyazaki-1849181099)
- - [The X-Wing Team Were Working On A Cancelled Xbox Game](https://kotaku.com/x-wing-lucasarts-totally-games-xbox-phil-spencer-1849181040)<!-- GAME:END -->
+ - [Where to find the Phantasmal Conches in Genshin Impact](https://www.pcgamer.com/genshin-impact-phantasmal-conches)
+ - [Today&#39;s Wordle answer #391: Friday, July 15](https://www.pcgamer.com/todays-wordle-july-15-391-answer-hint)
+ - [The fastest GDDR6 memory ever is coming to next gen graphics cards](https://www.pcgamer.com/the-fastest-gddr6-memory-ever-is-coming-to-next-gen-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
