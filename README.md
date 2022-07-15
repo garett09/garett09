@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 5 and Z Flip 5 rumors are already here](https://www.androidauthority.com/samsung-galaxy-z-fold-5-galaxy-z-flip-5-3186934/)
  - [2023 Toyota Crown Is Part Sedan, Part SUV With 340-HP Hybrid Power     - CNET](https://www.cnet.com/roadshow/news/2023-toyota-crown-hybrid-max-debut/#ftag=CAD590a51e)
- - [2023 Toyota Crown Debuts Class-Bending Style     - CNET](https://www.cnet.com/roadshow/pictures/2023-toyota-crown-debut/#ftag=CAD590a51e)
- - [M2 MacBook Air review roundup: This is the Mac you&#39;re looking for](https://appleinsider.com/articles/22/07/14/m2-macbook-air-review-roundup-this-is-the-mac-youre-looking-for?utm_medium=rss)<!-- TECH:END -->
+ - [2023 Toyota Crown Debuts Class-Bending Style     - CNET](https://www.cnet.com/roadshow/pictures/2023-toyota-crown-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
