@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feed weird creatures to other creatures to make more powerful creatures in this new open-world survival game](https://www.pcgamer.com/feed-weird-creatures-to-other-creatures-to-make-more-powerful-creatures-in-this-new-open-world-survival-game)
- - [MSI Oculux NXG253R](https://www.pcgamer.com/msi-oculuz-nxg253r-gaming-monitor-review)
- - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)<!-- GAME:END -->
+ - [Netflix’s The Gray Man shows the Avengers directors can’t think small enough](https://www.polygon.com/reviews/23216417/the-gray-man-netflix-review-chris-evans-ryan-gosling)
+ - [After the tech exodus, Russian state prepares to fund its own &#39;national game engine&#39;](https://www.pcgamer.com/after-the-tech-exodus-russian-state-prepares-to-fund-its-own-national-game-engine)
+ - [The Nvidia RTX 4080 GPU may not be launching this year after all](https://www.pcgamer.com/the-nvidia-rtx-4080-gpu-may-not-be-launching-this-year-after-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
