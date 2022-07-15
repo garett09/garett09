@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And then your boss team calls you](http://9gag.com/gag/a81g5qQ)
- - 🚯 [Little monkey](http://9gag.com/gag/aNPbY5v)
- - 🚯 [I have maxed out on procrastination, I have a golden skin.](http://9gag.com/gag/aze396Z)<!-- MEMES:END -->
+ - 🚖 [How Superman shaves](http://9gag.com/gag/arnLVVK)
+ - 🚯 [Choo choo Hurensohn](http://9gag.com/gag/a71xW6b)
+ - 🚯 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)<!-- MEMES:END -->
 
 --- 
 
