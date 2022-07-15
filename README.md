@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Superman shaves](http://9gag.com/gag/arnLVVK)
- - 🚯 [Shame](http://9gag.com/gag/arnLVQK)
- - 🚯 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)<!-- MEMES:END -->
+ - 🚖 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
+ - 🚯 [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
+ - 🚯 [Don&#39;t do it!](http://9gag.com/gag/aPZqRmP)<!-- MEMES:END -->
 
 --- 
 
