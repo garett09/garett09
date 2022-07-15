@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys’ college spinoff series is called, cleverly, Gen V](https://www.polygon.com/23220097/the-boys-college-spinoff-gen-v-cast-amazon-prime)
- - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)
- - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)<!-- GAME:END -->
+ - [Sometimes, video games are better when they let you walk away](https://www.polygon.com/dear-polygon/23219286/pokemon-legends-arceus-fortnite-tmnt-shredders-revenge-recommendations)
+ - [Share of the Week: Indie Games](https://blog.playstation.com/2022/07/15/share-of-the-week-indie-games/)
+ - [Share of the Week: Indie Games](https://blog.playstation.com/2022/07/15/share-of-the-week-indie-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
