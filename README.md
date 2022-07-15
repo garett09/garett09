@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okendo, which provides customer review tools to e-commerce brands, has raised a $26M Series A led by Base10 Partners, bringing its total funding to $33.5M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220715/p8#a220715p8)
- - [Shopify demos Apple&#39;s RoomPlan, strips all furniture from room](https://appleinsider.com/articles/22/07/15/shopify-demos-apples-roomplan-strips-all-furniture-from-room?utm_medium=rss)
- - [Celsius CEO said in a court filing that his company was owed $439M by a &quot;private lending platform&quot; that sources say is specialist finance company EquitiesFirst &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/220715/p7#a220715p7)<!-- TECH:END -->
+ - [The powerful 16-inch MacBook Pro is at an all-time low](https://www.theverge.com/good-deals/2022/7/15/23216226/macbook-16-pro-zendure-power-bank-echo-show-google-nest-hub-deal-sale)
+ - [&#39;Captain America&#39; star Chris Evans misses the Home Button, says new iPhones too heavy](https://appleinsider.com/articles/22/07/15/captain-america-star-chris-evans-misses-the-home-button-says-new-iphones-too-heavy?utm_medium=rss)
+ - [How crypto broker Voyager, which generated interest on deposits by loaning crypto assets, collapsed after its largest borrower Three Arrows Capital defaulted &lpar;CoinDesk&rpar;](http://www.techmeme.com/220715/p9#a220715p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
