@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This is so true](http://9gag.com/gag/aggeQAw)
- - 🚯 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)
- - 🚯 [A natural hunter](http://9gag.com/gag/a410nxZ)<!-- MEMES:END -->
+ - 🚯 [Name this move.](http://9gag.com/gag/aVx6v5w)
+ - 🚯 [Determination](http://9gag.com/gag/aDDv2Ld)<!-- MEMES:END -->
 
 --- 
 
