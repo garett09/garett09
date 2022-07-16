@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is so true](http://9gag.com/gag/aggeQAw)
- - 🚯 [Name this move.](http://9gag.com/gag/aVx6v5w)
- - 🚯 [Determination](http://9gag.com/gag/aDDv2Ld)<!-- MEMES:END -->
+ - 🚖 [Take notes netflix &lpar;4:03&rpar;](http://9gag.com/gag/a410Pzv)
+ - 🚯 [There will never be a gamer table that surpasses this aesthetic](http://9gag.com/gag/a51Y6VO)
+ - 🚯 [Panic mode activated](http://9gag.com/gag/adgz1YN)<!-- MEMES:END -->
 
 --- 
 
