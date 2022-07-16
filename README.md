@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
- - [Fossil Gen 6 Hybrid review: too much bling, not enough zing](https://www.theverge.com/23220102/fossil-gen-6-hybrid-review-smartwatches-wearables)
- - [Evo’s general manager is making an event that he would want to go to](https://www.theverge.com/2022/7/16/23220503/evo-2022-event-rick-thiher-interview)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-441-3187171/)
+ - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://www.theverge.com/2022/7/16/23228983/tiktok-security-chief-steps-down-oracle-servers-us-user-data-roland-cloutier)
+ - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
