@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how populism works](http://9gag.com/gag/a410PQy)
- - 🚯 [Amber Hurt](http://9gag.com/gag/adgzvyV)
- - 🚯 [Hyundai Vision 74](http://9gag.com/gag/a91GyYW)<!-- MEMES:END -->
+ - 🚖 [Amber Hurt](http://9gag.com/gag/adgzvyV)
+ - 🚯 [Call me a boomer but f&amp;ck those QR codes just give me the menu](http://9gag.com/gag/aZrYn8n)
+ - 🚯 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)<!-- MEMES:END -->
 
 --- 
 
