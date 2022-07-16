@@ -189,9 +189,9 @@ To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cit
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Blood Washing’ Is the Latest Dubious—and Pricey—Long-Covid Trend](https://www.wired.com/story/blood-washing-long-covid-unproven-trend/)
- - [Amazon Handed Ring Videos to Cops Without Warrants](https://www.wired.com/story/amazon-ring-police-videos-security-roundup/)
- - [Peloton Will Stop Making Its Own Bikes and Treadmills](https://www.wired.com/story/peloton-will-stop-making-its-own-bikes/)<!-- TECH:END -->
+ - [Many rapid delivery startups, which surged during the pandemic, have either retreated or shut down after struggling to make the economics work &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220716/p6#a220716p6)
+ - [The Chromecast Audio was perfect, and it’s time for Google to bring it back](https://www.androidauthority.com/chromecast-audio-comeback-3185428/)
+ - [JBL’s waterproof Flip 5 speaker is cheaper today than during Prime Day](https://www.theverge.com/good-deals/2022/7/16/23220018/jbl-flip-5-bluetooth-speaker-google-pixel-6-pro-fitbit-versa-3-nomad-base-one-magsafe-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
