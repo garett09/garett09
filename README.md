@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The very next minute after you wash the car](http://9gag.com/gag/arnLm9K)
- - 🚯 [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)
- - 🚯 [War never changes](http://9gag.com/gag/aze32xb)<!-- MEMES:END -->
+ - 🚖 [Definitely won\u2019t be leaving it in there](http://9gag.com/gag/aGzQEm7)
+ - 🚯 [What it was like being in the army for 8 years.](http://9gag.com/gag/arnLmL6)
+ - 🚯 [Why has it taken so long?](http://9gag.com/gag/aXrOnZP)<!-- MEMES:END -->
 
 --- 
 
