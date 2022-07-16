@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute unit](http://9gag.com/gag/aBne2OP)
- - 🚯 [Swimming cat](http://9gag.com/gag/aE848Mn)
- - 🚯 [122 hamburguers per hour](http://9gag.com/gag/aAG9GdL)<!-- MEMES:END -->
+ - 🚖 [Weird music = weird dance.](http://9gag.com/gag/aze3MXp)
+ - 🚯 [It&#39;s true.](http://9gag.com/gag/a61REBe)
+ - 🚯 [Swimming cat](http://9gag.com/gag/aE848Mn)<!-- MEMES:END -->
 
 --- 
 
