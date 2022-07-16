@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shame](http://9gag.com/gag/arnLVQK)
- - 🚯 [I grew with Metallica and I agree](http://9gag.com/gag/a31Ow28)
- - 🚯 [Swimming cat](http://9gag.com/gag/aE848Mn)<!-- MEMES:END -->
+ - 🚖 [122 hamburguers per hour](http://9gag.com/gag/aAG9GdL)
+ - 🚯 [When Factory say they created `job` for the community](http://9gag.com/gag/ay9KM8r)
+ - 🚯 [Can&#39;t wait for Amazon&#39;s lord of the rings!](http://9gag.com/gag/aggeBZ6)<!-- MEMES:END -->
 
 --- 
 
