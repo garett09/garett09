@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Take a Screenshot on Any Phone or Laptop](https://www.wired.com/story/how-to-take-a-screenshot-on-any-device/)
- - [The New MacBook Air Fits Some Upgrades in a Sleeker Package](https://www.wired.com/review/apple-macbook-air-13-inch-2022/)
- - [Your Phone&#39;s Lock Screen Is Changing, Will Become Way More Useful     - CNET](https://www.cnet.com/tech/mobile/your-phone-lock-screen-is-changing-will-become-way-more-useful/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Accessories for Your PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories/)
+ - [The Dangerous Chemicals Lurking Inside Shipping Containers](https://www.wired.com/story/the-dangerous-chemicals-lurking-inside-shipping-containers/)
+ - [Democratic lawmakers ask federal agencies to crack down on crypto mining](https://www.theverge.com/2022/7/16/23220671/bitcoin-cryptomining-democratic-lawmakers-letter-epa-energy-department)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
