@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As China builds up its vast surveillance and security apparatus, it is running up against growing public unease about data security and privacy in the country &lpar;New York Times&rpar;](http://www.techmeme.com/220716/p4#a220716p4)
- - [Nothing Phone 1 Review: Affordable Phone With Flashy Extras     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-review-affordable-phone-with-flashy-extras/#ftag=CAD590a51e)
- - [Experts say archiving content from TikTok is challenging and urge the platform to preserve and provide access to content for war crime investigations in Ukraine &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220716/p3#a220716p3)<!-- TECH:END -->
+ - [How to Take a Screenshot on Any Phone or Laptop](https://www.wired.com/story/how-to-take-a-screenshot-on-any-device/)
+ - [The New MacBook Air Fits Some Upgrades in a Sleeker Package](https://www.wired.com/review/apple-macbook-air-13-inch-2022/)
+ - [Your Phone&#39;s Lock Screen Is Changing, Will Become Way More Useful     - CNET](https://www.cnet.com/tech/mobile/your-phone-lock-screen-is-changing-will-become-way-more-useful/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
