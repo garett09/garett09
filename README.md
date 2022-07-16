@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian President Vladimir Putin singed into law a national ban on using digital assets for payments, but allows investing in digital assets like bitcoin &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220716/p1#a220716p1)
  - [How to create PDF files](https://www.androidauthority.com/create-pdf-files-3185375/)
- - [Sources: Microsoft moves to a three-year release cycle for major versions of Windows, with new features to the current version shipping up to four times a year &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220715/p19#a220715p19)
- - [How to change your World Level in Genshin Impact](https://www.androidauthority.com/lower-world-level-genshin-impact-3186356/)<!-- TECH:END -->
+ - [Sources: Microsoft moves to a three-year release cycle for major versions of Windows, with new features to the current version shipping up to four times a year &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220715/p19#a220715p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
