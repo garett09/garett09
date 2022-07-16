@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Definitely won\u2019t be leaving it in there](http://9gag.com/gag/aGzQEm7)
- - 🚯 [What it was like being in the army for 8 years.](http://9gag.com/gag/arnLmL6)
- - 🚯 [Why has it taken so long?](http://9gag.com/gag/aXrOnZP)<!-- MEMES:END -->
+ - 🚖 [What it was like being in the army for 8 years.](http://9gag.com/gag/arnLmL6)
+ - 🚯 [I have heard about Dropbox but f**k this is some express service](http://9gag.com/gag/a51YX9y)
+ - 🚯 [Definitely won\u2019t be leaving it in there](http://9gag.com/gag/aGzQEm7)<!-- MEMES:END -->
 
 --- 
 
