@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-441-3187171/)
- - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://www.theverge.com/2022/7/16/23228983/tiktok-security-chief-steps-down-oracle-servers-us-user-data-roland-cloutier)
- - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)<!-- TECH:END -->
+ - [New Gab accounts appear to be automatically following the GOP nominee for PA governor Dough Mastriano, after he paid Gab $5K in April for &quot;campaign consulting&quot; &lpar;Christopher Mathias/HuffPost&rpar;](http://www.techmeme.com/220716/p9#a220716p9)
+ - [Beyerdynamic Free Byrd earbuds review: soaring sound and long battery life](https://www.theverge.com/23220566/beyerdynamic-free-byrd-review)
+ - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
