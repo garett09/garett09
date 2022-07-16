@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop touching my pan dammit](http://9gag.com/gag/aWgXgbZ)
- - 🚯 [.. and that\u2019s how you stay aerodynamic.](http://9gag.com/gag/aXrOrmb)
- - 🚯 [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)<!-- MEMES:END -->
+ - 🚖 [After years of struggling and being homeless i was finally able to get my shit together and buy this house. It ain&#39;t much but it&#39;s something](http://9gag.com/gag/avAjAXd)
+ - 🚯 [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)
+ - 🚯 [It&#39;s funny cause it&#39;s um Asfutmsifwffutsh](http://9gag.com/gag/axBrBLp)<!-- MEMES:END -->
 
 --- 
 
