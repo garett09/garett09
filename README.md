@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Gab accounts appear to be automatically following the GOP nominee for PA governor Dough Mastriano, after he paid Gab $5K in April for &quot;campaign consulting&quot; &lpar;Christopher Mathias/HuffPost&rpar;](http://www.techmeme.com/220716/p9#a220716p9)
- - [Beyerdynamic Free Byrd earbuds review: soaring sound and long battery life](https://www.theverge.com/23220566/beyerdynamic-free-byrd-review)
- - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)<!-- TECH:END -->
+ - [Making the Android lock screen busier is a bad, bad idea](https://www.androidauthority.com/android-lock-screen-ads-content-3184439/)
+ - [Best Buy Black Friday in July Sale: up to $250 off MacBooks, TVs as low as $79, up to 50% off small kitchen appliances](https://appleinsider.com/articles/22/07/11/best-buy-black-friday-in-july-sale-macbooks-from-899-tvs-as-low-as-79-170-off-beats?utm_medium=rss)
+ - [New Gab accounts appear to be automatically following the GOP nominee for PA governor Doug Mastriano, after he paid Gab $5K in April for &quot;campaign consulting&quot; &lpar;Christopher Mathias/HuffPost&rpar;](http://www.techmeme.com/220716/p9#a220716p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
