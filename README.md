@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute unit](http://9gag.com/gag/aBne2OP)
- - 🚯 [Hoping for a better 2023.](http://9gag.com/gag/aegBDbb)
- - 🚯 [Banana for self-defence](http://9gag.com/gag/a91GE6Z)<!-- MEMES:END -->
+ - 🚖 [Shame](http://9gag.com/gag/arnLVQK)
+ - 🚯 [Choo choo Hurensohn](http://9gag.com/gag/a71xW6b)
+ - 🚯 [Can&#39;t wait for Amazon&#39;s lord of the rings!](http://9gag.com/gag/aggeBZ6)<!-- MEMES:END -->
 
 --- 
 
