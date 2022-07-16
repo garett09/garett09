@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take notes netflix &lpar;4:03&rpar;](http://9gag.com/gag/a410Pzv)
- - 🚯 [There will never be a gamer table that surpasses this aesthetic](http://9gag.com/gag/a51Y6VO)
- - 🚯 [Panic mode activated](http://9gag.com/gag/adgz1YN)<!-- MEMES:END -->
+ - 🚖 [Hyundai N Vision 74](http://9gag.com/gag/a4106jv)
+ - 🚯 [A natural hunter](http://9gag.com/gag/a410nxZ)
+ - 🚯 [This is probably their daily dose of motivation](http://9gag.com/gag/ango7Db)<!-- MEMES:END -->
 
 --- 
 
