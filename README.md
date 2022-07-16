@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amber Hurt](http://9gag.com/gag/adgzvyV)
- - 🚯 [Call me a boomer but f&amp;ck those QR codes just give me the menu](http://9gag.com/gag/aZrYn8n)
- - 🚯 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)<!-- MEMES:END -->
+ - 🚖 [This is so true](http://9gag.com/gag/aggeQAw)
+ - 🚯 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)
+ - 🚯 [A natural hunter](http://9gag.com/gag/a410nxZ)<!-- MEMES:END -->
 
 --- 
 
