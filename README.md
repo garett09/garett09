@@ -189,9 +189,9 @@ To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cit
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many rapid delivery startups, which surged during the pandemic, have either retreated or shut down after struggling to make the economics work &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220716/p6#a220716p6)
- - [The Chromecast Audio was perfect, and it’s time for Google to bring it back](https://www.androidauthority.com/chromecast-audio-comeback-3185428/)
- - [JBL’s waterproof Flip 5 speaker is cheaper today than during Prime Day](https://www.theverge.com/good-deals/2022/7/16/23220018/jbl-flip-5-bluetooth-speaker-google-pixel-6-pro-fitbit-versa-3-nomad-base-one-magsafe-deal-sale)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [Fossil Gen 6 Hybrid review: too much bling, not enough zing](https://www.theverge.com/23220102/fossil-gen-6-hybrid-review-smartwatches-wearables)
+ - [Evo’s general manager is making an event that he would want to go to](https://www.theverge.com/2022/7/16/23220503/evo-2022-event-rick-thiher-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
