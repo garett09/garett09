@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk wants Twitter trial to wait until February 2023](https://www.theverge.com/2022/7/15/23220797/elon-musk-twitter-trial-scheduling-delaware-acquisition-lawsuit)
- - [Sonos Ray review: Finally a capable budget soundbar](https://appleinsider.com/articles/22/07/15/sonos-ray-review-finally-a-capable-budget-soundbar?utm_medium=rss)
- - [Filing: Elon Musk&#39;s lawyers say Twitter is unfairly pushing for a &quot;warp speed&quot; four-day trial in September and ask for a court date in February 2023 or later &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/220715/p15#a220715p15)<!-- TECH:END -->
+ - [Boston-based Robin, which makes office reservation software, has raised a $30M Series C led by Tola Capital, bringing its total funding to more than $59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220715/p18#a220715p18)
+ - [Elon Musk Responds to Twitter&#39;s Lawsuit Over $44B Deal     - CNET](https://www.cnet.com/news/social-media/elon-musk-responds-to-twitters-lawsuit-over-44b-deal/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s 5G Network Could Soon Send Live Concert Audio to Your Phone     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-5g-network-could-soon-send-live-concert-audio-to-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
