@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep](http://9gag.com/gag/aXrOn6b)
- - 🚯 [Dumb b1tch](http://9gag.com/gag/adgzB4d)
- - 🚯 [This is how populism works](http://9gag.com/gag/a410PQy)<!-- MEMES:END -->
+ - 🚖 [This is how populism works](http://9gag.com/gag/a410PQy)
+ - 🚯 [Amber Hurt](http://9gag.com/gag/adgzvyV)
+ - 🚯 [Hyundai Vision 74](http://9gag.com/gag/a91GyYW)<!-- MEMES:END -->
 
 --- 
 
