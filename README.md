@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hyundai N Vision 74](http://9gag.com/gag/a4106jv)
- - 🚯 [A natural hunter](http://9gag.com/gag/a410nxZ)
- - 🚯 [This is probably their daily dose of motivation](http://9gag.com/gag/ango7Db)<!-- MEMES:END -->
+ - 🚖 [This is probably their daily dose of motivation](http://9gag.com/gag/ango7Db)
+ - 🚯 [Hyundai N Vision 74](http://9gag.com/gag/a4106jv)
+ - 🚯 [A natural hunter](http://9gag.com/gag/a410nxZ)<!-- MEMES:END -->
 
 --- 
 
