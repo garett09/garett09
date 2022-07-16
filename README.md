@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Shame](http://9gag.com/gag/arnLVQK)
- - 🚯 [Choo choo Hurensohn](http://9gag.com/gag/a71xW6b)
- - 🚯 [Can&#39;t wait for Amazon&#39;s lord of the rings!](http://9gag.com/gag/aggeBZ6)<!-- MEMES:END -->
+ - 🚯 [I grew with Metallica and I agree](http://9gag.com/gag/a31Ow28)
+ - 🚯 [Swimming cat](http://9gag.com/gag/aE848Mn)<!-- MEMES:END -->
 
 --- 
 
