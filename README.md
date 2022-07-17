@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nuke it](http://9gag.com/gag/aZrYwXn)
- - 🚯 [RIP Roger Roach... Gone but no forgotten.](http://9gag.com/gag/aVx6ENn)
- - 🚯 [Or cupid!!](http://9gag.com/gag/a116DOb)<!-- MEMES:END -->
+ - 🚖 [RIP Roger Roach... Gone but no forgotten.](http://9gag.com/gag/aVx6ENn)
+ - 🚯 [Emanuel, don&#39;t do it.](http://9gag.com/gag/awzp1m1)
+ - 🚯 [Doctor came wearing PPE Kit, the patient thought him as a ghost.](http://9gag.com/gag/aE84V5K)<!-- MEMES:END -->
 
 --- 
 
