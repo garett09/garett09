@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at YouTube&#39;s strategy that began in 2019 of signing Twitch streamers who have a network of collaborators to try and build its own game streaming culture &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220717/p3#a220717p3)
- - [3 reasons why a Snapdragon-only Galaxy S23 is a great move](https://www.androidauthority.com/snapdragon-galaxy-s23-good-choice-opinion-3185541/)
- - [Meet the Ukrainian Number Theorist Who Won Math’s Highest Honor](https://www.wired.com/story/meet-the-ukrainian-number-theorist-who-won-maths-highest-honor/)<!-- TECH:END -->
+ - [Crime blotter: Pro wrestlers&#39; Find My iPhone expedition ends predictably](https://appleinsider.com/articles/22/07/17/crime-blotter-pro-wrestlers-find-my-iphone-expedition-ends-predictably?utm_medium=rss)
+ - [14 Xbox Game Pass Games Worth Playing](https://www.wired.com/gallery/best-xbox-game-pass-games/)
+ - [The Best Turntables for Your Vinyl Collection](https://www.wired.com/gallery/best-turntables/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
