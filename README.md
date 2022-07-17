@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Game Pass New Day One Game for July 19 Explained](https://game-rant-2022.blogspot.com/2022/07/xbox-game-pass-new-day-one-game-for.html)
  - [UK Government&#39;s loot box inquiry says no changes to law, asks industry to self-regulate](https://www.pcgamer.com/uk-governments-loot-box-inquiry-says-no-changes-to-law-asks-industry-to-self-regulate)
- - [14 video game movie and TV adaptations that actually work](https://www.polygon.com/what-to-watch/23196727/best-video-game-movies-adaptations-tv-watch-streaming)
- - [Automotive](https://game-rant-2022.blogspot.com/2022/07/automotive.html)<!-- GAME:END -->
+ - [14 video game movie and TV adaptations that actually work](https://www.polygon.com/what-to-watch/23196727/best-video-game-movies-adaptations-tv-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
