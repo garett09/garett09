@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After Watching The Resident Evil Netflix Series](http://9gag.com/gag/aLvEGjM)
- - 🚯 [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)
- - 🚯 [Ok Karen. Life sucks for me, but u don&#39;t hear me asking for the manger of the earth.](http://9gag.com/gag/aM4Lz7x)<!-- MEMES:END -->
+ - 🚖 [Innit mate?](http://9gag.com/gag/aqGEQxP)
+ - 🚯 [2 speeding motorcyclists nearly reached 300km/h and crashes.](http://9gag.com/gag/aOQWD2D)
+ - 🚯 [There&#39;s alot of mosquitoes in Texas](http://9gag.com/gag/aAG9Mzg)<!-- MEMES:END -->
 
 --- 
 
