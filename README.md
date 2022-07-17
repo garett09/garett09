@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Roger Roach... Gone but no forgotten.](http://9gag.com/gag/aVx6ENn)
- - 🚯 [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
- - 🚯 [Dad as wingman](http://9gag.com/gag/a0Z3X5O)<!-- MEMES:END -->
+ - 🚖 [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
+ - 🚯 [I still have a lot to learn, but i would really like to &lpar;one day&rpar; illustrate children\u2019s books. This is my latest digital drawing I would like to share in the hope some of you find some enjoyment in it. Have a good weekend my dudes.](http://9gag.com/gag/abg81pb)
+ - 🚯 [Nuke it](http://9gag.com/gag/aZrYwXn)<!-- MEMES:END -->
 
 --- 
 
