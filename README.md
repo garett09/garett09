@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Support People in States Where Abortion Is Under Threat](https://www.wired.com/story/how-to-support-local-people-funds-abortion/)
- - [How to Make Sure You’re Getting the Best Streaming Quality](https://www.wired.com/story/how-to-get-best-streaming-quality/)
- - [AI Art Is Challenging the Boundaries of Curation](https://www.wired.com/story/dalle-art-curation-artificial-intelligence/)<!-- TECH:END -->
+ - [A look at YouTube&#39;s strategy that began in 2019 of signing Twitch streamers who have a network of collaborators to try and build its own game streaming culture &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220717/p3#a220717p3)
+ - [3 reasons why a Snapdragon-only Galaxy S23 is a great move](https://www.androidauthority.com/snapdragon-galaxy-s23-good-choice-opinion-3185541/)
+ - [Meet the Ukrainian Number Theorist Who Won Math’s Highest Honor](https://www.wired.com/story/meet-the-ukrainian-number-theorist-who-won-maths-highest-honor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
