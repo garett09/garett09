@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dads being das](http://9gag.com/gag/aOQWZMD)
- - 🚯 [Top 10 french foods in london restaurant](http://9gag.com/gag/aQXj7zr)
- - 🚯 [DIY Lego Submarine reminds me of Nautilus from 1000 Leagues Under the Sea and The Mysterious Island](http://9gag.com/gag/aRrpMLA)<!-- MEMES:END -->
+ - 🚖 [MY PARKING SPACE BAWK BAWK](http://9gag.com/gag/ay9K64X)
+ - 🚯 [Innit mate?](http://9gag.com/gag/aqGEQxP)
+ - 🚯 [Say what now?](http://9gag.com/gag/avAj6Db)<!-- MEMES:END -->
 
 --- 
 
