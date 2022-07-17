@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MY PARKING SPACE BAWK BAWK](http://9gag.com/gag/ay9K64X)
- - 🚯 [Innit mate?](http://9gag.com/gag/aqGEQxP)
- - 🚯 [Say what now?](http://9gag.com/gag/avAj6Db)<!-- MEMES:END -->
+ - 🚖 [An unexpected new friend while filming sleepy sharks](http://9gag.com/gag/aM4LnER)
+ - 🚯 [For me, one of the greatest action comedies from the 90&#39;s. What makes it even better is fact that they didn&#39;t made any unnecessary sequel or prequel. Wrapped around story as it should be.](http://9gag.com/gag/awzpL9B)
+ - 🚯 [Don&#39;t we all](http://9gag.com/gag/a81g0Ve)<!-- MEMES:END -->
 
 --- 
 
