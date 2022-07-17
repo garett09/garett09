@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
+ - 🚖 [Whoever wastes food needs to be served a table of manner by Sanji san.](http://9gag.com/gag/ajg4ZL8)
  - 🚯 [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
- - 🚯 [Best clown ever](http://9gag.com/gag/aRrpoGq)<!-- MEMES:END -->
+ - 🚯 [C&amp;C Series, NFS underground 2, GTA San andreas, Prince of Persia, Diablo II, Warcraft 3](http://9gag.com/gag/aPZqe8q)<!-- MEMES:END -->
 
 --- 
 
