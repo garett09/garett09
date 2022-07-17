@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [House meme](http://9gag.com/gag/aKmMWZN)
- - 🚯 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
- - 🚯 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)<!-- MEMES:END -->
+ - 🚖 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
+ - 🚯 [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
+ - 🚯 [Best clown ever](http://9gag.com/gag/aRrpoGq)<!-- MEMES:END -->
 
 --- 
 
