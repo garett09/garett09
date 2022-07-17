@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No chill](http://9gag.com/gag/a21Xwgp)
- - 🚯 [Panic mode activated](http://9gag.com/gag/adgz1YN)
- - 🚯 [Breaking Bad](http://9gag.com/gag/a91GzN1)<!-- MEMES:END -->
+ - 🚖 [Nuke it](http://9gag.com/gag/aZrYwXn)
+ - 🚯 [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
+ - 🚯 [There are only two Northern White Rhinos still alive today... both of them are female. They are being protected by armed guards 24/7 to prevent poachers from killing them.](http://9gag.com/gag/aRrp4q5)<!-- MEMES:END -->
 
 --- 
 
