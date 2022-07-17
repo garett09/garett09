@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an age of smart speakers, sometimes Bluetooth is still king](https://www.androidauthority.com/bluetooth-speaker-vs-smart-speaker-3186110/)
- - [Best Balance Transfer Credit Cards: Get More Time to Pay Off Your Debt     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)
- - [Pokemon Go July Community Day Guide: Shiny Starly, Event Move and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-july-community-day-starly-event-move-and-bonuses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawmakers push FTC to clean up the VPN industry](https://www.theverge.com/2022/7/17/23264384/lawmakers-ftc-eshoo-wyden-vpn-industry-roe-v-wade-abortion-privacy)
+ - [Seattle-based Phaidra, whose AI software automates building controls for industrial facilities like power plants, raised a $25M Series A led by Starshot Capital &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220717/p5#a220717p5)
+ - [In an age of smart speakers, sometimes Bluetooth is still king](https://www.androidauthority.com/bluetooth-speaker-vs-smart-speaker-3186110/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
