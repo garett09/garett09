@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whoever wastes food needs to be served a table of manner by Sanji san.](http://9gag.com/gag/ajg4ZL8)
- - 🚯 [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
- - 🚯 [C&amp;C Series, NFS underground 2, GTA San andreas, Prince of Persia, Diablo II, Warcraft 3](http://9gag.com/gag/aPZqe8q)<!-- MEMES:END -->
+ - 🚖 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
+ - 🚯 [Its flat, bro](http://9gag.com/gag/aVx62xP)
+ - 🚯 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)<!-- MEMES:END -->
 
 --- 
 
