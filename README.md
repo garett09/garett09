@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Innit mate?](http://9gag.com/gag/aqGEQxP)
+ - 🚖 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)
  - 🚯 [2 speeding motorcyclists nearly reached 300km/h and crashes.](http://9gag.com/gag/aOQWD2D)
- - 🚯 [There&#39;s alot of mosquitoes in Texas](http://9gag.com/gag/aAG9Mzg)<!-- MEMES:END -->
+ - 🚯 [House meme](http://9gag.com/gag/aKmMWZN)<!-- MEMES:END -->
 
 --- 
 
