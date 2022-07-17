@@ -190,7 +190,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [I bought an electric scooter for quick commutes, and here’s what I learned](https://www.androidauthority.com/what-i-learned-electric-scooter-3180345/)
  - [Daily deals July 17: $130 Apple TV 4K, $700 off 55-inch LG OLED Smart TV, $27 Netgear router, more](https://appleinsider.com/articles/22/07/17/daily-deals-july-17-130-apple-tv-4k-700-off-55-inch-lg-oled-smart-tv-27-netgear-router-more?utm_medium=rss)
- - [Crime blotter: Pro wrestlers&#39; Find My iPhone expedition ends predictably](https://appleinsider.com/articles/22/07/17/crime-blotter-pro-wrestlers-find-my-iphone-expedition-ends-predictably?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max: The 31 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-the-31-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
