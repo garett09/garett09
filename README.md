@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mattress Deals: Discounts on Bear, Casper, Avocado, Purple and More     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Apple&#39;s chips targeted in a new patent infringement suit](https://appleinsider.com/articles/22/07/16/apples-chips-targeted-in-a-new-patent-infringement-suit?utm_medium=rss)
- - [Today I learned Amazon will recycle small electronics for free](https://www.theverge.com/2022/7/16/23205725/today-i-learned-til-amazon-recycle-small-electronics-free)<!-- TECH:END -->
+ - [Oakland-based Mayvenn, which offers an e-commerce tool and a marketplace for salon services, has raised a $40M Series C led by Cleveland Ave &lpar;FinSMEs&rpar;](http://www.techmeme.com/220716/p13#a220716p13)
+ - [&#39;Ms. Marvel&#39; Finale Recap: Ending, Post-Credits and That M Word Explained     - CNET](https://www.cnet.com/culture/entertainment/ms-marvel-finale-recap-ending-post-credits-and-that-m-word-explained/#ftag=CAD590a51e)
+ - [Your Ultimate Dream Guide: Why We Do It and What They Really Mean     - CNET](https://www.cnet.com/health/sleep/your-ultimate-dream-guide-why-we-do-it-and-what-they-really-mean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
