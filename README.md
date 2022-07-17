@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I bought an electric scooter for quick commutes, and here’s what I learned](https://www.androidauthority.com/what-i-learned-electric-scooter-3180345/)
- - [Daily deals July 17: $130 Apple TV 4K, $700 off 55-inch LG OLED Smart TV, $27 Netgear router, more](https://appleinsider.com/articles/22/07/17/daily-deals-july-17-130-apple-tv-4k-700-off-55-inch-lg-oled-smart-tv-27-netgear-router-more?utm_medium=rss)
- - [HBO Max: The 31 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-the-31-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M2 Pro, M2 Max MacBook Pro models could arrive by the fall](https://appleinsider.com/articles/22/07/17/m2-pro-m2-max-macbook-pro-models-could-arrive-by-the-fall?utm_medium=rss)
+ - [This small magnetic power bank from Anker is a big game changer](https://www.androidauthority.com/anker-622-3185626/)
+ - [Nothing Phone 1 Hands-On: There&#39;s a Lot to Like, Including the Price     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-hands-on-theres-a-lot-to-like-including-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
