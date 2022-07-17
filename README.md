@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [DIY Lego Submarine reminds me of Nautilus from 1000 Leagues Under the Sea and The Mysterious Island](http://9gag.com/gag/aRrpMLA)
- - 🚯 [Students in masonry class.](http://9gag.com/gag/aXrONr2)
- - 🚯 [Body Change !](http://9gag.com/gag/aVx6E8P)<!-- MEMES:END -->
+ - 🚖 [Nuke it](http://9gag.com/gag/aZrYwXn)
+ - 🚯 [RIP Roger Roach... Gone but no forgotten.](http://9gag.com/gag/aVx6ENn)
+ - 🚯 [Or cupid!!](http://9gag.com/gag/a116DOb)<!-- MEMES:END -->
 
 --- 
 
