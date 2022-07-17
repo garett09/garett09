@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s now solely relying on developers to provide accurate app data collection information](https://www.theverge.com/2022/7/17/23259385/google-play-store-developers-accurate-app-data-collection-information-safety)
  - [M2 Pro, M2 Max MacBook Pro models could arrive by the fall](https://appleinsider.com/articles/22/07/17/m2-pro-m2-max-macbook-pro-models-could-arrive-by-the-fall?utm_medium=rss)
- - [This small magnetic power bank from Anker is a big game changer](https://www.androidauthority.com/anker-622-3185626/)
- - [Nothing Phone 1 Hands-On: There&#39;s a Lot to Like, Including the Price     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-hands-on-theres-a-lot-to-like-including-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This small magnetic power bank from Anker is a big game changer](https://www.androidauthority.com/anker-622-3185626/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
