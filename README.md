@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)
- - 🚯 [2 speeding motorcyclists nearly reached 300km/h and crashes.](http://9gag.com/gag/aOQWD2D)
- - 🚯 [House meme](http://9gag.com/gag/aKmMWZN)<!-- MEMES:END -->
+ - 🚖 [House meme](http://9gag.com/gag/aKmMWZN)
+ - 🚯 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
+ - 🚯 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)<!-- MEMES:END -->
 
 --- 
 
