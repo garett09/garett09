@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C&amp;C Series, NFS underground 2, GTA San andreas, Prince of Persia, Diablo II, Warcraft 3](http://9gag.com/gag/aPZqe8q)
- - 🚯 [After Watching The Resident Evil Netflix Series](http://9gag.com/gag/aLvEGjM)
- - 🚯 [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)<!-- MEMES:END -->
+ - 🚖 [After Watching The Resident Evil Netflix Series](http://9gag.com/gag/aLvEGjM)
+ - 🚯 [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)
+ - 🚯 [Ok Karen. Life sucks for me, but u don&#39;t hear me asking for the manger of the earth.](http://9gag.com/gag/aM4Lz7x)<!-- MEMES:END -->
 
 --- 
 
