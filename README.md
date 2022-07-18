@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #394: Monday, July 18](https://www.pcgamer.com/todays-wordle-july-18-394-answer-hint)
- - [July 18 Reply Wordle 394](https://game-rant-2022.blogspot.com/2022/07/july-18-reply-wordle-394.html)
- - [Sony working on custom AI to help gamers improve](https://game-rant-2022.blogspot.com/2022/07/sony-working-on-custom-ai-to-help.html)<!-- GAME:END -->
+ - [Where to find palm wood in Dinkum](https://www.pcgamer.com/dinkum-palm-wood-tree)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)
+ - [Tesla to demo Steam integration next month](https://www.pcgamer.com/tesla-to-demo-steam-integration-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
