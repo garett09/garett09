@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UK government comments on loot boxes in video games](https://game-rant-2022.blogspot.com/2022/07/uk-government-comments-on-loot-boxes-in.html)
- - [The Boys&#39; Cameron Crovetti Reflects on Ryan Butcher&#39;s Crucial Decision](https://game-rant-2022.blogspot.com/2022/07/the-boys-cameron-crovetti-reflects-on.html)
- - [Apex Legends Players Claim Recent Update Makes Game &#39;Unplayable&#39;](https://game-rant-2022.blogspot.com/2022/07/apex-legends-players-claim-recent.html)<!-- GAME:END -->
+ - [Am I the only one happy that Skate is free to play?](https://game-rant-2022.blogspot.com/2022/07/am-i-only-one-happy-that-skate-is-free.html)
+ - [The Sims 4 Will Soon Let Players Choose Their Sexual Orientation](https://kotaku.com/sims-4-sexual-orientation-gender-gay-straight-1849188645)
+ - [Why Insomniac Should Break With Wolverine Comics and Movies](https://game-rant-2022.blogspot.com/2022/07/why-insomniac-should-break-with.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
