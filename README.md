@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
- - 🚯 [Had a bit of a setback. In a coma with both kidneys failed for 6 days. Now letting me out again today hopefully.](http://9gag.com/gag/aVx6dQ8)
- - 🚯 [Choose your tool of discipline](http://9gag.com/gag/aYr0RVv)<!-- MEMES:END -->
+ - 🚖 [Highscore](http://9gag.com/gag/a31Ox58)
+ - 🚯 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
+ - 🚯 [Had a bit of a setback. In a coma with both kidneys failed for 6 days. Now letting me out again today hopefully.](http://9gag.com/gag/aVx6dQ8)<!-- MEMES:END -->
 
 --- 
 
