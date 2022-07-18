@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai N’s ‘rolling labs’ imagine performance EVs that aren’t so boring](https://www.theverge.com/2022/7/17/23266195/hyundai-n-lab-concepts-performance-evs-nvision-74-rn22e-electric-vehicles)
- - [Chris Evans still misses his iPhone 6S and its home button](https://www.theverge.com/iphone/2022/7/17/23220127/iphone-6s-chris-evans-apple-iphone-12-pro-home-button)
- - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [The James Webb Space Telescope&#39;s Next Targets Are Potentially Mind-Blowing     - CNET](https://www.cnet.com/science/space/features/the-james-webb-space-telescopes-next-targets-are-potentially-mind-blowing/#ftag=CAD590a51e)
+ - [&#39;The Boys&#39; Season 3: Ending Explained, Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-ending-explained-lingering-questions-answered/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-sci-fi-movies-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
