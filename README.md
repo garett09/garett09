@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil’s showrunner has an eye on other video game characters](https://www.polygon.com/23220251/resident-evil-season-1-ending-netflix)
- - [Apex Legends characters are VTubers now](https://www.pcgamer.com/apex-legends-characters-are-vtubers-now)
- - [Blizzard is giving out Diablo 4 beta keys to fans who get themed tattoos](https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos)<!-- GAME:END -->
+ - [Warframe sends players down a time-loop rabbit hole in its next expansions](https://www.polygon.com/23217385/warframe-veilbreaker-duviri-paradox-expansions-tennocon)
+ - [Watch Dogs 2, Inside, and As Dusk Falls coming to Xbox Game Pass in July](https://www.polygon.com/23268363/xbox-game-pass-update-july-2022-new-additions-leaving)
+ - [I hate my gaming PC in the summer](https://www.pcgamer.com/my-pc-is-a-radiator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
