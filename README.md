@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay out of those meth homes](http://9gag.com/gag/aBneOr2)
- - 🚯 [Its flat, bro](http://9gag.com/gag/aVx62xP)
- - 🚯 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)<!-- MEMES:END -->
+ - 🚖 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)
+ - 🚯 [We are this close to get it.](http://9gag.com/gag/a71xNew)
+ - 🚯 [Seriously](http://9gag.com/gag/apgMAxn)<!-- MEMES:END -->
 
 --- 
 
