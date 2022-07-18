@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank halts plans for a London IPO for Arm amid political turmoil; Boris Johnson had lobbied Masayoshi Son for at least a partial IPO on the LSE &lpar;Financial Times&rpar;](http://www.techmeme.com/220718/p17#a220718p17)
- - [NASA delays launch of rover designed to search and drill for water on the Moon](https://www.theverge.com/2022/7/18/23269126/nasa-viper-rover-moon-clps-astrobotic-griffin-lander)
- - [How to print a paper copy or a PDF from an iPhone or iPad](https://www.theverge.com/23220358/ios-print-airprint-wireless-pdf-iphone-ipad-apple)<!-- TECH:END -->
+ - [New York-based Meow, which offers corporate investors a compliant-first approach to cryptocurrency investing, raised a $22M Series A led by Tiger Global &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220718/p18#a220718p18)
+ - [Florida Ice Cream Company Issues Recall Over Link to Listeria Outbreak     - CNET](https://www.cnet.com/health/nutrition/florida-ice-cream-company-issues-recall-over-link-to-listeria-outbreak/#ftag=CAD590a51e)
+ - [TikTok Starts Layoffs in Company-Wide Restructuring](https://www.wired.com/story/tiktok-layoffs-company-wide-restructuring/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
