@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Band Wrote the Best Legend of Zelda Song of 2022](https://www.wired.com/story/horse-jumper-of-love-zelda-video-game-music/)
- - [Abortion Pill Demand Is Driving an Underground Network](https://www.wired.com/story/the-wild-abortion-pill-supply-chain/)
- - [The Covid Virus Keeps Evolving. Why Haven&#39;t Vaccines?](https://www.wired.com/story/the-covid-virus-keeps-evolving-why-havent-vaccines/)<!-- TECH:END -->
+ - [The linchpin in Microsoft&#39;s Netflix deal was Xandr, the ad tech firm it recently acquired from AT&amp;T that&#39;s helping fuel Microsoft&#39;s online advertising ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220718/p3#a220718p3)
+ - [Oppo Reno 8 Pro launched globally: Find X5 Pro on a budget?](https://www.androidauthority.com/oppo-reno-8-pro-3187039/)
+ - [Why the Arctic Is Warming 4 Times as Fast as the Rest of Earth](https://www.wired.com/story/why-the-arctic-is-warming-4-times-as-fast-as-the-rest-of-earth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
