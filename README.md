@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next gen Core i9 13900K tested against Core i9 12900K](https://www.pcgamer.com/next-gen-core-i9-13900k-tested-against-core-i9-12900k)
- - [Comedy sex game House Party adds playable woman, leaves Early Access](https://www.pcgamer.com/comedy-sex-game-house-party-adds-playable-woman-leaves-early-access)
- - [New Horizons player shows off amazing skeleton-themed island](https://game-rant-2022.blogspot.com/2022/07/new-horizons-player-shows-off-amazing.html)<!-- GAME:END -->
+ - [Overwatch fan brings Wrecking Ball to life using his pet hamster](https://game-rant-2022.blogspot.com/2022/07/overwatch-fan-brings-wrecking-ball-to.html)
+ - [Class Action Filed Against Sony for PS5 Defect](https://game-rant-2022.blogspot.com/2022/07/class-action-filed-against-sony-for-ps5.html)
+ - [5 funny ways to die](https://game-rant-2022.blogspot.com/2022/07/5-funny-ways-to-die.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
