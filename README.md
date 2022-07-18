@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new photo editor brings plenty of AI-based tricks](https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/)
  - [Ethereum Shows Signs of Life, Hits $1,400 After Merge News     - CNET](https://www.cnet.com/personal-finance/ethereum-shows-signs-of-life-hits-1400-after-merge-news/#ftag=CAD590a51e)
- - [&#39;Black Bird&#39; on Apple TV Plus: The True Story of Jimmy Keene, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-bird-on-apple-tv-plus-the-true-story-of-jimmy-keene-explained/#ftag=CAD590a51e)
- - [&#39;Westworld&#39; Season 4, Episode 4 Recap: The Tower Emerges     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-4-recap-the-tower-emerges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Black Bird&#39; on Apple TV Plus: The True Story of Jimmy Keene, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-bird-on-apple-tv-plus-the-true-story-of-jimmy-keene-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
