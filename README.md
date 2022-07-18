@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie sues Destiny 2 streamer alleged to cheat, harass employees](https://www.polygon.com/23268984/bungie-sues-streamer-lawsuit-cheats-hacks-seller)
- - [Lego Reveals Even Bigger Bowser](https://kotaku.com/lego-bowser-mario-big-set-figure-comic-con-size-luigi-1849191222)
- - [PlayStation is acquiring Repeat](https://game-rant-2022.blogspot.com/2022/07/playstation-is-acquiring-repeat.html)<!-- GAME:END -->
+ - [The hot new co-op farming game is called Dinkum](https://www.pcgamer.com/the-hot-new-co-op-farming-game-is-called-dinkum)
+ - [Monkey Island in-game footage shows off the remake&#39;s controversial new art direction](https://www.pcgamer.com/monkey-island-in-game-footage-shows-off-the-remakes-controversial-new-art-direction)
+ - [Fall Guys Threatens Everyone With Free Dick Bean](https://kotaku.com/fall-guys-apology-refund-auto-buy-tall-bean-grandis-1849191721)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
