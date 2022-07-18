@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
- - [New documents show, again, that the US government is watching you all the time](https://www.androidauthority.com/fourth-amendment-not-for-sale-act-3187516/)
- - [UK regulator’s order for Meta to sell Giphy is under review — again](https://www.theverge.com/2022/7/18/23268423/meta-giphy-acquisition-uk-regulator-competiton-markets-authority)<!-- TECH:END -->
+ - [Stray improves adventure games by turning you into a cat](https://www.theverge.com/2022/7/18/23220428/stray-video-game-review-ps4-ps5-steam)
+ - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)
+ - [UK government decides not to ban game loot boxes after consultation](https://appleinsider.com/articles/22/07/18/uk-government-decides-not-to-ban-game-loot-boxes-after-consultation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
