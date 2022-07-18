@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe sends players down a time-loop rabbit hole in its next expansions](https://www.polygon.com/23217385/warframe-veilbreaker-duviri-paradox-expansions-tennocon)
- - [Watch Dogs 2, Inside, and As Dusk Falls coming to Xbox Game Pass in July](https://www.polygon.com/23268363/xbox-game-pass-update-july-2022-new-additions-leaving)
- - [I hate my gaming PC in the summer](https://www.pcgamer.com/my-pc-is-a-radiator)<!-- GAME:END -->
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
+ - [Stray: The Kotaku Review](https://kotaku.com/stray-review-ps4-ps5-pc-cat-game-annapurna-bluetwelve-1849189599)
+ - [Stray is the work of sly cat people, and it’s a triumph](https://www.polygon.com/reviews/23268326/stray-review-cat-game-ps4-ps5-windows-pc-cyberpunk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
