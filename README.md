@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Has Entered the Elon Musk Twilight Zone](https://www.wired.com/story/twitter-elon-musk-twilight-zone/)
- - [Democrats prepare bill that would codify net neutrality](https://www.theverge.com/2022/7/18/23268767/net-neutrality-broadband-internet-democrats-ajit-pai-fcc-gigi-sohn)
- - [A look at reviving three old computers, including a 2011 iMac with 4GB RAM, with Chrome OS Flex, as Chrome OS cements itself as the most consumer-friendly Linux &lpar;Jason Perlow/ZDNet&rpar;](http://www.techmeme.com/220718/p12#a220718p12)<!-- TECH:END -->
+ - [Apple&#39;s Downtown Brooklyn Store is &#39;temporarily closed&#39;](https://appleinsider.com/articles/22/07/18/apples-downtown-brooklyn-store-is-temporarily-closed?utm_medium=rss)
+ - [Apple reaping massive illegal profits from Apple Pay fees on card issuers, lawsuit claims](https://appleinsider.com/articles/22/07/18/apple-reaping-massive-illegal-profits-from-apple-pay-fees-on-card-issuers-lawsuit-claims?utm_medium=rss)
+ - [How to uninstall McAfee from your computer](https://www.androidauthority.com/how-to-uninstall-mcafee-from-your-computer-3187175/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
