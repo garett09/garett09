@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Downtown Brooklyn Store is &#39;temporarily closed&#39;](https://appleinsider.com/articles/22/07/18/apples-downtown-brooklyn-store-is-temporarily-closed?utm_medium=rss)
- - [Apple reaping massive illegal profits from Apple Pay fees on card issuers, lawsuit claims](https://appleinsider.com/articles/22/07/18/apple-reaping-massive-illegal-profits-from-apple-pay-fees-on-card-issuers-lawsuit-claims?utm_medium=rss)
- - [How to uninstall McAfee from your computer](https://www.androidauthority.com/how-to-uninstall-mcafee-from-your-computer-3187175/)<!-- TECH:END -->
+ - [Apple reportedly wants to slow down hiring in 2023](https://www.theverge.com/2022/7/18/23268953/apple-slow-hiring-2023)
+ - [Feds are tracking phone locations with data bought from brokers](https://www.theverge.com/2022/7/18/23268592/feds-buying-location-data-brokers-aclu-foia-dhs)
+ - [The Powerpuff Girls are being rebooted for the third time](https://www.theverge.com/2022/7/18/23268861/powerpuff-girls-reboot-fosters-home-for-imaginary-friends-hanna-barbera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
