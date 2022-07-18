@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stray improves adventure games by turning you into a cat](https://www.theverge.com/2022/7/18/23220428/stray-video-game-review-ps4-ps5-steam)
- - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)
- - [UK government decides not to ban game loot boxes after consultation](https://appleinsider.com/articles/22/07/18/uk-government-decides-not-to-ban-game-loot-boxes-after-consultation?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram launches a new payments feature in the US that lets users buy products and track orders from small businesses via DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220718/p10#a220718p10)
+ - [All 7 Disney Plus MCU shows ranked from worst to best](https://www.androidauthority.com/disney-plus-mcu-shows-ranked-phase-4-3187160/)
+ - [How to record a Skype call](https://www.androidauthority.com/record-skype-call-3187302/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
