@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Times](http://9gag.com/gag/a61RGme)
- - 🚯 [Bzzzzzzzz bz bzz bzzzzz &lpar; efficiency is our motto&rpar;](http://9gag.com/gag/aGzQOE5)
- - 🚯 [Well, that&#39;s unexpected](http://9gag.com/gag/aRrpR62)<!-- MEMES:END -->
+ - 🚖 [Well, that&#39;s unexpected](http://9gag.com/gag/aRrpR62)
+ - 🚯 [Son](http://9gag.com/gag/aGzQOA7)
+ - 🚯 [Hehen\u2019t](http://9gag.com/gag/angoG1V)<!-- MEMES:END -->
 
 --- 
 
