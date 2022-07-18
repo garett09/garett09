@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Karma gets the better of you...](http://9gag.com/gag/aggeKwr)
- - 🚯 [Life hacks](http://9gag.com/gag/arnL8YV)
- - 🚯 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)<!-- MEMES:END -->
+ - 🚖 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
+ - 🚯 [Best god and devil actors in my opinion](http://9gag.com/gag/a81gzDY)
+ - 🚯 [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)<!-- MEMES:END -->
 
 --- 
 
