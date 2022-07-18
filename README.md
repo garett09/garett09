@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find palm wood in Dinkum](https://www.pcgamer.com/dinkum-palm-wood-tree)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)
- - [Tesla to demo Steam integration next month](https://www.pcgamer.com/tesla-to-demo-steam-integration-next-month)<!-- GAME:END -->
+ - [Genshin Impact Broken Isle Pyro pillar puzzle walkthrough](https://www.polygon.com/genshin-impact-guides/23267884/broken-isle-pyro-pillar-monument-hidden-imaging-conch-shell-location-walkthrough-puzzle)
+ - [Warframe’s creators are making a new fantasy MMO called Soulframe](https://www.polygon.com/23216753/warframe-fantasy-mmo-soulframe-digital-extremes-airship-syndicate)
+ - [Genshin Impact ‘Blazin’ Trails’ Xinyan event water vein locations](https://www.polygon.com/genshin-impact-guides/23266837/blazin-trails-xinyan-event-clear-the-water-veins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
