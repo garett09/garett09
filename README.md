@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokemon fan builds cartridge that makes the Game Boy act like a Pokedex](https://game-rant-2022.blogspot.com/2022/07/pokemon-fan-builds-cartridge-that-makes.html)
- - [Big hack, a modathon and getting the most out of the counter](https://game-rant-2022.blogspot.com/2022/07/big-hack-modathon-and-getting-most-out.html)
- - [Elden Ring Player makes Final Fantasy-style Black Mage in the game](https://game-rant-2022.blogspot.com/2022/07/elden-ring-player-makes-final-fantasy.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #394: Monday, July 18](https://www.pcgamer.com/todays-wordle-july-18-394-answer-hint)
+ - [July 18 Reply Wordle 394](https://game-rant-2022.blogspot.com/2022/07/july-18-reply-wordle-394.html)
+ - [Sony working on custom AI to help gamers improve](https://game-rant-2022.blogspot.com/2022/07/sony-working-on-custom-ai-to-help.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
