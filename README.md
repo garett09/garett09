@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you see your friends are about to start a civil war between each others..](http://9gag.com/gag/aqGEz3P)
- - 🚯 [This is Namibia, where the desert meets the ocean.](http://9gag.com/gag/aWgXDEA)
- - 🚯 [Bzzzzzzzz bz bzz bzzzzz &lpar; efficiency is our motto&rpar;](http://9gag.com/gag/aGzQOE5)<!-- MEMES:END -->
+ - 🚖 [Good Times](http://9gag.com/gag/a61RGme)
+ - 🚯 [Bzzzzzzzz bz bzz bzzzzz &lpar; efficiency is our motto&rpar;](http://9gag.com/gag/aGzQOE5)
+ - 🚯 [Well, that&#39;s unexpected](http://9gag.com/gag/aRrpR62)<!-- MEMES:END -->
 
 --- 
 
