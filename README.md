@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Am I the only one happy that Skate is free to play?](https://game-rant-2022.blogspot.com/2022/07/am-i-only-one-happy-that-skate-is-free.html)
- - [The Sims 4 Will Soon Let Players Choose Their Sexual Orientation](https://kotaku.com/sims-4-sexual-orientation-gender-gay-straight-1849188645)
- - [Why Insomniac Should Break With Wolverine Comics and Movies](https://game-rant-2022.blogspot.com/2022/07/why-insomniac-should-break-with.html)<!-- GAME:END -->
+ - [Elden Ring player defeats Radahn before reaching his meteor phase](https://game-rant-2022.blogspot.com/2022/07/elden-ring-player-defeats-radahn-before.html)
+ - [Fan-made Ocarina of Time PC port gets unlocked framerate, difficulty settings, and more](https://www.pcgamer.com/fan-made-ocarina-of-time-pc-port-gets-unlocked-framerate-difficulty-settings-and-more)
+ - [Elden Ring Video Explores Origins and Nature of Brave Monstrous Gargoyles](https://game-rant-2022.blogspot.com/2022/07/elden-ring-video-explores-origins-and.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
