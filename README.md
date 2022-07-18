@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram launches a new payments feature in the US that lets users buy products and track orders from small businesses via DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220718/p10#a220718p10)
- - [All 7 Disney Plus MCU shows ranked from worst to best](https://www.androidauthority.com/disney-plus-mcu-shows-ranked-phase-4-3187160/)
- - [How to record a Skype call](https://www.androidauthority.com/record-skype-call-3187302/)<!-- TECH:END -->
+ - [Twitter Has Entered the Elon Musk Twilight Zone](https://www.wired.com/story/twitter-elon-musk-twilight-zone/)
+ - [Democrats prepare bill that would codify net neutrality](https://www.theverge.com/2022/7/18/23268767/net-neutrality-broadband-internet-democrats-ajit-pai-fcc-gigi-sohn)
+ - [A look at reviving three old computers, including a 2011 iMac with 4GB RAM, with Chrome OS Flex, as Chrome OS cements itself as the most consumer-friendly Linux &lpar;Jason Perlow/ZDNet&rpar;](http://www.techmeme.com/220718/p12#a220718p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
