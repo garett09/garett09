@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 1 Specs: How This Cheaper Phone Compares to the Pixel 6, iPhone 13     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-specs-how-this-cheaper-phone-compares-to-the-pixel-6-iphone-13/#ftag=CAD590a51e)
  - [Watch the trailer for a new HBO show from the Weeknd and the creator of Euphoria](https://www.theverge.com/2022/7/18/23268147/the-idol-teaser-trailer-the-weeknd-euphoria-creator-hbo-tv-show)
- - [You told us: Most of you place your phone screen-down in some capacity](https://www.androidauthority.com/smartphone-screen-face-down-poll-results-3187406/)
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)<!-- TECH:END -->
+ - [You told us: Most of you place your phone screen-down in some capacity](https://www.androidauthority.com/smartphone-screen-face-down-poll-results-3187406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
