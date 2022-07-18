@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge quashes the CMA&#39;s order that Meta must sell Giphy and refers the case back to the agency; CMA says it aims to complete the review within three months &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/220718/p7#a220718p7)
- - [Corsair brings Nvidia’s impressive noise removal to its iCue and Elgato software](https://www.theverge.com/2022/7/18/23268329/corsair-nvidia-broadcast-integration-audio-video-icue-elgato-wave-link)
- - [New Nanoleaf lights, fish tank robot, and more on HomeKit Insider](https://appleinsider.com/articles/22/07/18/new-nanoleaf-lights-fish-tank-robot-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [New documents show, again, that the US government is watching you all the time](https://www.androidauthority.com/fourth-amendment-not-for-sale-act-3187516/)
+ - [UK regulator’s order for Meta to sell Giphy is under review — again](https://www.theverge.com/2022/7/18/23268423/meta-giphy-acquisition-uk-regulator-competiton-markets-authority)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
