@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly wants to slow down hiring in 2023](https://www.theverge.com/2022/7/18/23268953/apple-slow-hiring-2023)
- - [Feds are tracking phone locations with data bought from brokers](https://www.theverge.com/2022/7/18/23268592/feds-buying-location-data-brokers-aclu-foia-dhs)
- - [The Powerpuff Girls are being rebooted for the third time](https://www.theverge.com/2022/7/18/23268861/powerpuff-girls-reboot-fosters-home-for-imaginary-friends-hanna-barbera)<!-- TECH:END -->
+ - [Netflix tests charging customers in five Latin American countries an extra fee if they use an account for more than two weeks outside of their primary residence &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220718/p16#a220718p16)
+ - [Apple adds new &#39;Leaving Soon&#39; section to Apple Arcade, starting with 15 titles](https://appleinsider.com/articles/22/07/18/apple-adds-new-leaving-soon-section-to-apple-arcade-starting-with-15-titles?utm_medium=rss)
+ - [Netflix’s latest anti-password sharing test lets users ‘buy’ additional homes](https://www.theverge.com/2022/7/18/23269063/netflix-home-password-account-sharing-latin-america-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
