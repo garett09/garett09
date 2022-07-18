@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
- - [Stray: The Kotaku Review](https://kotaku.com/stray-review-ps4-ps5-pc-cat-game-annapurna-bluetwelve-1849189599)
- - [Stray is the work of sly cat people, and it’s a triumph](https://www.polygon.com/reviews/23268326/stray-review-cat-game-ps4-ps5-windows-pc-cyberpunk)<!-- GAME:END -->
+ - [Nintendo Switch may have a longer console generation than competitors](https://game-rant-2022.blogspot.com/2022/07/nintendo-switch-may-have-longer-console.html)
+ - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
+ - [Skyrim fan gives his girlfriend a copy of the game and finds something bizarre in his basement a month later](https://game-rant-2022.blogspot.com/2022/07/skyrim-fan-gives-his-girlfriend-copy-of.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
