@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These mini control toy](http://9gag.com/gag/ay9KYDM)
- - 🚯 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
- - 🚯 [Best clown ever](http://9gag.com/gag/aRrpoGq)<!-- MEMES:END -->
+ - 🚖 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)
+ - 🚯 [These mini control toy](http://9gag.com/gag/ay9KYDM)
+ - 🚯 [Something is wrong I can feel ittt](http://9gag.com/gag/aqGEWYM)<!-- MEMES:END -->
 
 --- 
 
