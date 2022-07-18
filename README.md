@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
- - 🚯 [Best god and devil actors in my opinion](http://9gag.com/gag/a81gzDY)
- - 🚯 [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)<!-- MEMES:END -->
+ - 🚖 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
+ - 🚯 [No need to rush, patience.](http://9gag.com/gag/aze3QRj)
+ - 🚯 [Had a bit of a setback. In a coma with both kidneys failed for 6 days. Now letting me out again today hopefully.](http://9gag.com/gag/aVx6dQ8)<!-- MEMES:END -->
 
 --- 
 
