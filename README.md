@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Triss best girl](http://9gag.com/gag/abg8RBr)
- - 🚯 [Ma&#39;am I do my own plumbing,This has been an amazing series.](http://9gag.com/gag/aze34ep)
- - 🚯 [It&#39;s the best](http://9gag.com/gag/a61RGwe)<!-- MEMES:END -->
+ - 🚖 [Ma&#39;am I do my own plumbing,This has been an amazing series.](http://9gag.com/gag/aze34ep)
+ - 🚯 [It&#39;s the best](http://9gag.com/gag/a61RGwe)
+ - 🚯 [Who wore it better](http://9gag.com/gag/aPZqnDG)<!-- MEMES:END -->
 
 --- 
 
