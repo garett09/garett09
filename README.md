@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch may have a longer console generation than competitors](https://game-rant-2022.blogspot.com/2022/07/nintendo-switch-may-have-longer-console.html)
- - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
- - [Skyrim fan gives his girlfriend a copy of the game and finds something bizarre in his basement a month later](https://game-rant-2022.blogspot.com/2022/07/skyrim-fan-gives-his-girlfriend-copy-of.html)<!-- GAME:END -->
+ - [Thor: Love and Thunder reminds queer fans exactly what Disney thinks they’re worth](https://www.polygon.com/23219276/thor-love-and-thunder-queerbait-gay-rock-aliens-enough)
+ - [Metal Terror Shakes the World of The Riftbreaker](https://news.xbox.com/en-us/2022/07/18/metal-terror-shakes-the-world-of-the-riftbreaker/)
+ - [This is what happens if you literally put Wolverine and Deadpool in a blender](https://www.polygon.com/23220066/wolverine-deadpool-fight-mashup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
