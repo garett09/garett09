@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The linchpin in Microsoft&#39;s Netflix deal was Xandr, the ad tech firm it recently acquired from AT&amp;T that&#39;s helping fuel Microsoft&#39;s online advertising ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220718/p3#a220718p3)
- - [Oppo Reno 8 Pro launched globally: Find X5 Pro on a budget?](https://www.androidauthority.com/oppo-reno-8-pro-3187039/)
- - [Why the Arctic Is Warming 4 Times as Fast as the Rest of Earth](https://www.wired.com/story/why-the-arctic-is-warming-4-times-as-fast-as-the-rest-of-earth/)<!-- TECH:END -->
+ - [Oppo India’s YouTube channel got suspended during a livestream](https://www.androidauthority.com/oppo-india-youtube-channel-suspended-3187484/)
+ - [Is your iPhone not charging? Here’s what to do](https://www.androidauthority.com/iphone-not-charging-3186634/)
+ - [Snapchat launches Snapchat for Web to let users send snaps and make video calls on desktop, says the average caller on the app spends 30+ minutes a day on calls &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220718/p5#a220718p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
