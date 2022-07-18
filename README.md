@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All these first hand witnesses are clearly delusional conspiracy theorists](http://9gag.com/gag/aegBR1O)
- - 🚯 [Who wore it better](http://9gag.com/gag/aPZqnDG)
- - 🚯 [No need to rush, patience.](http://9gag.com/gag/aze3QRj)<!-- MEMES:END -->
+ - 🚖 [He who laughs last, laughs best](http://9gag.com/gag/aZrYdPW)
+ - 🚯 [I used to be an adventurer but..](http://9gag.com/gag/a116OPG)
+ - 🚯 [Who wore it better](http://9gag.com/gag/aPZqnDG)<!-- MEMES:END -->
 
 --- 
 
