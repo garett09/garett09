@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thor: Love and Thunder reminds queer fans exactly what Disney thinks they’re worth](https://www.polygon.com/23219276/thor-love-and-thunder-queerbait-gay-rock-aliens-enough)
- - [Metal Terror Shakes the World of The Riftbreaker](https://news.xbox.com/en-us/2022/07/18/metal-terror-shakes-the-world-of-the-riftbreaker/)
- - [This is what happens if you literally put Wolverine and Deadpool in a blender](https://www.polygon.com/23220066/wolverine-deadpool-fight-mashup)<!-- GAME:END -->
+ - [I became a bee tycoon in this survival city builder, then lost my fortune to a perfect heist](https://www.pcgamer.com/i-became-a-bee-tycoon-in-this-survival-city-builder-then-lost-my-fortune-to-a-perfect-heist)
+ - [This teeny Steam Deck rival is just the right size for a handheld gaming PC](https://www.pcgamer.com/this-teeny-steam-deck-rival-is-just-the-right-size-for-a-handheld-gaming-pc)
+ - [Powerpuff Girls is getting rebooted again, but this time by the original creator](https://www.polygon.com/23268796/powerpuff-girls-reboot-mccracken-fosters-home-for-imaginary-friends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
