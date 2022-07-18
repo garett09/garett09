@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ma&#39;am I do my own plumbing,This has been an amazing series.](http://9gag.com/gag/aze34ep)
- - 🚯 [It&#39;s the best](http://9gag.com/gag/a61RGwe)
- - 🚯 [Who wore it better](http://9gag.com/gag/aPZqnDG)<!-- MEMES:END -->
+ - 🚖 [All these first hand witnesses are clearly delusional conspiracy theorists](http://9gag.com/gag/aegBR1O)
+ - 🚯 [Who wore it better](http://9gag.com/gag/aPZqnDG)
+ - 🚯 [No need to rush, patience.](http://9gag.com/gag/aze3QRj)<!-- MEMES:END -->
 
 --- 
 
