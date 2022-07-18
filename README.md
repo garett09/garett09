@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Broken Isle Pyro pillar puzzle walkthrough](https://www.polygon.com/genshin-impact-guides/23267884/broken-isle-pyro-pillar-monument-hidden-imaging-conch-shell-location-walkthrough-puzzle)
- - [Warframe’s creators are making a new fantasy MMO called Soulframe](https://www.polygon.com/23216753/warframe-fantasy-mmo-soulframe-digital-extremes-airship-syndicate)
- - [Genshin Impact ‘Blazin’ Trails’ Xinyan event water vein locations](https://www.polygon.com/genshin-impact-guides/23266837/blazin-trails-xinyan-event-clear-the-water-veins)<!-- GAME:END -->
+ - [Resident Evil’s showrunner has an eye on other video game characters](https://www.polygon.com/23220251/resident-evil-season-1-ending-netflix)
+ - [Apex Legends characters are VTubers now](https://www.pcgamer.com/apex-legends-characters-are-vtubers-now)
+ - [Blizzard is giving out Diablo 4 beta keys to fans who get themed tattoos](https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
