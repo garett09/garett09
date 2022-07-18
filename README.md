@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
- - 🚯 [Its flat, bro](http://9gag.com/gag/aVx62xP)
- - 🚯 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)<!-- MEMES:END -->
+ - 🚖 [Jeff Hardy finisher move](http://9gag.com/gag/angox3L)
+ - 🚯 [Ok Karen. Life sucks for me, but u don&#39;t hear me asking for the manger of the earth.](http://9gag.com/gag/aM4Lz7x)
+ - 🚯 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)<!-- MEMES:END -->
 
 --- 
 
