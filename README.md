@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Highscore](http://9gag.com/gag/a31Ox58)
- - 🚯 [Consensus says.......](http://9gag.com/gag/aXrOd1V)
- - 🚯 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)<!-- MEMES:END -->
+ - 🚖 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
+ - 🚯 [Regret every single dime](http://9gag.com/gag/amgZd3V)
+ - 🚯 [Feels Bar is back, what is bothering you at home?](http://9gag.com/gag/a91GVdo)<!-- MEMES:END -->
 
 --- 
 
