@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray: Where to find the cassette tape and unlock the worker&#39;s outfit](https://www.pcgamer.com/stray-where-to-find-cassette-tape-workers-outfit)
- - [Stray: Where to find the red, yellow and purple plants for Malo](https://www.pcgamer.com/stray-where-to-find-red-yellow-purple-plants)
- - [Stray: How to get the poncho for Elliot and fix the tracker](https://www.pcgamer.com/stray-how-to-get-poncho-fix-tracker)<!-- GAME:END -->
+ - [The new wave of exploitation cinema is all about the immigrant experience](https://www.polygon.com/reviews/23269121/american-carnage-review)
+ - [These Raspberry Pi backpacks are what my childhood spy dreams were made of](https://www.pcgamer.com/these-raspberry-pi-backpacks-are-what-my-childhood-spy-dreams-were-made-of)
+ - [2021’s best game is finally coming to PlayStation in August](https://www.polygon.com/23269825/inscryption-playstation-release-august)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
