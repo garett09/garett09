@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)
- - [Netflix’s Tekken anime hits all the right notes, and it’s coming soon](https://www.polygon.com/23269732/tekken-bloodline-netflix-anime-release-date-trailer)
- - [Alienware m17 R5 AMD](https://www.pcgamer.com/alienware-m17-r5-amd)<!-- GAME:END -->
+ - [Stray: Where to find the cassette tape and unlock the worker&#39;s outfit](https://www.pcgamer.com/stray-where-to-find-cassette-tape-workers-outfit)
+ - [Stray: Where to find the red, yellow and purple plants for Malo](https://www.pcgamer.com/stray-where-to-find-red-yellow-purple-plants)
+ - [Stray: How to get the poncho for Elliot and fix the tracker](https://www.pcgamer.com/stray-how-to-get-poncho-fix-tracker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
