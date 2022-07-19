@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)
- - 🚯 [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
- - 🚯 [This is a good spost, I promise...](http://9gag.com/gag/aog7GLn)<!-- MEMES:END -->
+ - 🚖 [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
+ - 🚯 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)
+ - 🚯 [Cooking for the one](http://9gag.com/gag/aOQWnNE)<!-- MEMES:END -->
 
 --- 
 
