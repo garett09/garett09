@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia plans to fine Apple over alleged antitrust violations](https://appleinsider.com/articles/22/07/19/russia-plans-to-fine-apple-over-alleged-antitrust-violations?utm_medium=rss)
- - [Nerf’s first gel blaster is coming this November with 10,000 rounds](https://www.theverge.com/2022/7/19/23269625/nerf-pro-gelfire-mystic-gel-blaster-price-release-date)
- - [Capital Group cuts Instacart&#39;s valuation to $14.7B, below the company&#39;s $24B March valuation, becoming the second investor to cut the valuation in recent weeks &lpar;Miles Weiss/Bloomberg&rpar;](http://www.techmeme.com/220719/p13#a220719p13)<!-- TECH:END -->
+ - [Google will let non-gaming Android apps provide alternative payments for IAP, with a 3% reduction in Google&#39;s Play Store cut, in the European Economic Area &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220719/p14#a220719p14)
+ - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)
+ - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
