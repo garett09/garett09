@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells refuses to die, gets a new 2022 roadmap](https://www.polygon.com/23270150/dead-cells-2022-roadmap)
- - [Forza Horizon 5: Hot Wheels is Now Available](https://news.xbox.com/en-us/2022/07/19/forza-horizon-5-hot-wheels-is-now-available/)
- - [First glimpses of Yakuza 8 appear on monitors in Sega office video](https://www.pcgamer.com/first-glimpses-of-yakuza-8-appear-on-monitors-in-sega-office-video)<!-- GAME:END -->
+ - [16 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [Dungeons &amp; Dragons teases a return to Planescape](https://www.polygon.com/23269997/dnd-planescape-reboot-unearthed-arcana)
+ - [Real Cats Also Love Stray, The Cyberpunk Cat Game](https://kotaku.com/stray-playstation-ps4-ps5-pc-cyberpunk-cat-game-kitties-1849195773)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
