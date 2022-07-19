@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
+ - 🚖 [Don\u2019t get offended for others](http://9gag.com/gag/aDDvLww)
  - 🚯 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)
- - 🚯 [Cooking for the one](http://9gag.com/gag/aOQWnNE)<!-- MEMES:END -->
+ - 🚯 [And the media said Don\u2019t Look Up wasn\u2019t realistic\u2026](http://9gag.com/gag/awzpPZW)<!-- MEMES:END -->
 
 --- 
 
