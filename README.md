@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
- - 🚯 [It&#39;s uncanny](http://9gag.com/gag/aegBweQ)
- - 🚯 [Glad he told her](http://9gag.com/gag/aBnezrO)<!-- MEMES:END -->
+ - 🚖 [Is she ok?](http://9gag.com/gag/aM4L7AV)
+ - 🚯 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
+ - 🚯 [When refrigerators where build to out live you](http://9gag.com/gag/a31OgMN)<!-- MEMES:END -->
 
 --- 
 
