@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Meow, which offers corporate investors a compliant-first approach to cryptocurrency investing, raised a $22M Series A led by Tiger Global &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220718/p18#a220718p18)
- - [Florida Ice Cream Company Issues Recall Over Link to Listeria Outbreak     - CNET](https://www.cnet.com/health/nutrition/florida-ice-cream-company-issues-recall-over-link-to-listeria-outbreak/#ftag=CAD590a51e)
- - [TikTok Starts Layoffs in Company-Wide Restructuring](https://www.wired.com/story/tiktok-layoffs-company-wide-restructuring/)<!-- TECH:END -->
+ - [The US must grant more green cards to retain tech leaders; Turkish MIT and Caltech grad Erdal Arikan, whose work led to Huawei&#39;s early 5G lead, had to leave US &lpar;Foreign Policy&rpar;](http://www.techmeme.com/220718/p21#a220718p21)
+ - [Apple’s getting sued for having a monopoly on the iPhone’s tap-to-pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu)
+ - [How to clone a hard drive on a Mac or Windows PC](https://www.androidauthority.com/clone-hard-drive-mac-windows-pc-3186050/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
