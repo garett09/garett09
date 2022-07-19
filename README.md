@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best accessories for the M2 MacBook Air](https://appleinsider.com/articles/22/07/19/the-best-accessories-for-the-m2-macbook-air?utm_medium=rss)
- - [Flip, which lets shoppers monetize their purchases by posting video reviews, has raised a $60M Series B at a ~$500M valuation, bringing its total raised to $95M &lpar;Kimberly Chin/Axios&rpar;](http://www.techmeme.com/220719/p11#a220719p11)
- - [How China Threatens to Splinter the Metaverse](https://www.wired.com/story/china-threatens-splinter-metaverse/)<!-- TECH:END -->
+ - [Russia plans to fine Apple over alleged antitrust violations](https://appleinsider.com/articles/22/07/19/russia-plans-to-fine-apple-over-alleged-antitrust-violations?utm_medium=rss)
+ - [Nerf’s first gel blaster is coming this November with 10,000 rounds](https://www.theverge.com/2022/7/19/23269625/nerf-pro-gelfire-mystic-gel-blaster-price-release-date)
+ - [Capital Group cuts Instacart&#39;s valuation to $14.7B, below the company&#39;s $24B March valuation, becoming the second investor to cut the valuation in recent weeks &lpar;Miles Weiss/Bloomberg&rpar;](http://www.techmeme.com/220719/p13#a220719p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
