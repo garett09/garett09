@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
- - 🚯 [Regret every single dime](http://9gag.com/gag/amgZd3V)
- - 🚯 [Feels Bar is back, what is bothering you at home?](http://9gag.com/gag/a91GVdo)<!-- MEMES:END -->
+ - 🚯 [It&#39;s just fanfiction then. No surprise here.](http://9gag.com/gag/a31Oey5)
+ - 🚯 [Regret every single dime](http://9gag.com/gag/amgZd3V)<!-- MEMES:END -->
 
 --- 
 
