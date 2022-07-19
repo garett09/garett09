@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain security company Halborn, which works with Coinbase, Ava Labs, and others, raises a $90M Series A led by Summit Partners &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220719/p25#a220719p25)
- - [Netflix is acquiring the animation studio behind The Lego Movie](https://www.theverge.com/2022/7/19/23270507/netflix-acquiring-animation-studio-animal-logic)
- - [M2 MacBook Air teardown reveals accelerometer, simple cooling system](https://appleinsider.com/articles/22/07/19/m2-macbook-air-teardown-reveals-accelerometer-simple-cooling-system?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram’s trying to make it easier to find nearby businesses](https://www.theverge.com/2022/7/19/23270510/instagram-searchable-map-nearby-business)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [How to learn a language online](https://www.theverge.com/22933094/language-learn-online-apps-duolingo-pimsleur-rosetta-stone-hellotalk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
