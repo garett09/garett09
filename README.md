@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Adobe offering new customers 25% off first year of Creative Cloud All Apps plan](https://appleinsider.com/articles/22/07/19/adobe-offering-new-customers-25-off-first-year-of-creative-cloud-all-apps-plan?utm_medium=rss)
- - [Apple Watch helps saves Maine woman from deadly tumor](https://appleinsider.com/articles/22/07/19/apple-watch-helps-saves-maine-woman-from-deadly-tumor?utm_medium=rss)
- - [Apple&#39;s 1TB MacBook Pro 14-inch dips to $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/22/07/19/apples-1tb-macbook-pro-14-inch-dips-to-1999-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [UK heatwave breaks records as Brits roast in 40 C temperatures](https://www.theverge.com/2022/7/19/23270042/uk-heat-wave-record-40-celsius-temperature-europe-us)
+ - [Apple agrees to $50M settlement in MacBook butterfly keyboard lawsuit](https://appleinsider.com/articles/22/07/19/apple-agrees-to-50m-settlement-in-macbook-butterfly-keyboard-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
