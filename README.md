@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Win](http://9gag.com/gag/a116neG)
- - 🚯 [Brought her home today! All stock, never modded, from original owner in his 60s. Drives like new. All maintenance from the last 16 YEARS. True unicorn.](http://9gag.com/gag/aDDvqdx)
- - 🚯 [Gatekeeping at its finest](http://9gag.com/gag/aDDvqyx)<!-- MEMES:END -->
+ - 🚯 [Game of Trains](http://9gag.com/gag/amgZOV6)
+ - 🚯 [Don\u2019t get offended for others](http://9gag.com/gag/aDDvLww)<!-- MEMES:END -->
 
 --- 
 
