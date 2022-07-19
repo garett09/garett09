@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This D&amp;D inspired game&#39;s AI image generator is now free for all](https://www.pcgamer.com/ai-dungeon-image-generator)
- - [Today&#39;s Wordle answer #395: Tuesday, July 19](https://www.pcgamer.com/todays-wordle-july-19-395-answer-hint)
- - [Chill out with this new sfw Reddit rabbit hole: 3D printed fans](https://www.pcgamer.com/chill-out-with-this-new-sfw-reddit-rabbit-hole-3d-printed-fans)<!-- GAME:END -->
+ - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)
+ - [Netflix’s Tekken anime hits all the right notes, and it’s coming soon](https://www.polygon.com/23269732/tekken-bloodline-netflix-anime-release-date-trailer)
+ - [Alienware m17 R5 AMD](https://www.pcgamer.com/alienware-m17-r5-amd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
