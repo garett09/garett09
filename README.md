@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)
- - 🚯 [I have a HUGE collection.](http://9gag.com/gag/aDDvrGB)
- - 🚯 [Returned to hospital after internal bleeding from a surgery 10 days ago. I&#39;ve vomit and passed out several times due to blood loss and need to do surgery tomorrow. To be honest I&#39;m scared as f**k, buy thank you all magnificent bastards to keep my mind busy.](http://9gag.com/gag/aRrpNbQ)<!-- MEMES:END -->
+ - 🚖 [Found those underground cables, boss](http://9gag.com/gag/a81gv3Q)
+ - 🚯 [Returned to hospital after internal bleeding from a surgery 10 days ago. I&#39;ve vomit and passed out several times due to blood loss and need to do surgery tomorrow. To be honest I&#39;m scared as f**k, buy thank you all magnificent bastards to keep my mind busy.](http://9gag.com/gag/aRrpNbQ)
+ - 🚯 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)<!-- MEMES:END -->
 
 --- 
 
