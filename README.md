@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)
- - 🚯 [Vandana Shiva! We need to listen! She\u2019s been saying these things for many years! Wake up!](http://9gag.com/gag/a0Z3z7X)
- - 🚯 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)<!-- MEMES:END -->
+ - 🚯 [I have a HUGE collection.](http://9gag.com/gag/aDDvrGB)
+ - 🚯 [Returned to hospital after internal bleeding from a surgery 10 days ago. I&#39;ve vomit and passed out several times due to blood loss and need to do surgery tomorrow. To be honest I&#39;m scared as f**k, buy thank you all magnificent bastards to keep my mind busy.](http://9gag.com/gag/aRrpNbQ)<!-- MEMES:END -->
 
 --- 
 
