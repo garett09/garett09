@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Things I Wish I Knew Before Playing PowerWash Simulator](https://kotaku.com/powerwash-simulator-xbox-game-pass-tips-tricks-guide-1849194998)
- - [Hot Wheels’ ‘most extreme’ crossover with Forza is here](https://www.polygon.com/23269979/forza-hot-wheels-xbox-pc-dlc-horizon-5)
- - [As Dusk Falls is Available Now](https://news.xbox.com/en-us/2022/07/19/as-dusk-falls-available-now-game-pass-pc-steam/)<!-- GAME:END -->
+ - [Dead Cells refuses to die, gets a new 2022 roadmap](https://www.polygon.com/23270150/dead-cells-2022-roadmap)
+ - [Forza Horizon 5: Hot Wheels is Now Available](https://news.xbox.com/en-us/2022/07/19/forza-horizon-5-hot-wheels-is-now-available/)
+ - [First glimpses of Yakuza 8 appear on monitors in Sega office video](https://www.pcgamer.com/first-glimpses-of-yakuza-8-appear-on-monitors-in-sega-office-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
