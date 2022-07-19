@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ shares first trailer for children&#39;s show &#39;Surfside Girls&#39;](https://appleinsider.com/articles/22/07/19/apple-tv-shares-first-trailer-for-childrens-show-surfside-girls?utm_medium=rss)
- - [European Council approves Digital Markets Act rules](https://appleinsider.com/articles/22/07/19/european-council-approves-digital-markets-act-rules?utm_medium=rss)
- - [Microsoft Teams will soon let you collaboratively edit Excel spreadsheets in meetings](https://www.theverge.com/2022/7/19/23268162/microsoft-teams-excel-live-collaborative-annotations-video-clip-features)<!-- TECH:END -->
+ - [Adobe offering new customers 25% off first year of Creative Cloud All Apps plan](https://appleinsider.com/articles/22/07/19/adobe-offering-new-customers-25-off-first-year-of-creative-cloud-all-apps-plan?utm_medium=rss)
+ - [Apple Watch helps saves Maine woman from deadly tumor](https://appleinsider.com/articles/22/07/19/apple-watch-helps-saves-maine-woman-from-deadly-tumor?utm_medium=rss)
+ - [Apple&#39;s 1TB MacBook Pro 14-inch dips to $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/22/07/19/apples-1tb-macbook-pro-14-inch-dips-to-1999-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
