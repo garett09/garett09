@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
- - 🚯 [It&#39;s just fanfiction then. No surprise here.](http://9gag.com/gag/a31Oey5)
- - 🚯 [Regret every single dime](http://9gag.com/gag/amgZd3V)<!-- MEMES:END -->
+ - 🚖 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)
+ - 🚯 [Vandana Shiva! We need to listen! She\u2019s been saying these things for many years! Wake up!](http://9gag.com/gag/a0Z3z7X)
+ - 🚯 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)<!-- MEMES:END -->
 
 --- 
 
