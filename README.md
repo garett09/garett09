@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 3 comes to every other platform in October](https://www.polygon.com/23269902/no-more-heroes-3-xbox-ps4-ps5-pc-port-release-date)
- - [We got a scam artist to critique Card Shark, here&#39;s what he thought](https://www.pcgamer.com/we-got-a-scam-artist-to-critique-card-shark-heres-what-he-thought)
- - [Microsoft changes its mind about open source monetization](https://www.pcgamer.com/microsoft-store-u-turn-open-source)<!-- GAME:END -->
+ - [15 Things I Wish I Knew Before Playing PowerWash Simulator](https://kotaku.com/powerwash-simulator-xbox-game-pass-tips-tricks-guide-1849194998)
+ - [Hot Wheels’ ‘most extreme’ crossover with Forza is here](https://www.polygon.com/23269979/forza-hot-wheels-xbox-pc-dlc-horizon-5)
+ - [As Dusk Falls is Available Now](https://news.xbox.com/en-us/2022/07/19/as-dusk-falls-available-now-game-pass-pc-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
