@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Glad he told her](http://9gag.com/gag/aBnezrO)
- - 🚯 [I learned this much in school](http://9gag.com/gag/aE84bmo)
- - 🚯 [Talked to loads of old folk and this was the universal message of their lives](http://9gag.com/gag/aBneM6Q)<!-- MEMES:END -->
+ - 🚖 [I learned this much in school](http://9gag.com/gag/aE84bmo)
+ - 🚯 [Well? We are still waiting](http://9gag.com/gag/a91GeGj)
+ - 🚯 [Oh no\u2026](http://9gag.com/gag/aRrpGvj)<!-- MEMES:END -->
 
 --- 
 
