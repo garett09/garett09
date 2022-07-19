@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no\u2026](http://9gag.com/gag/aRrpGvj)
- - 🚯 [Well? We are still waiting](http://9gag.com/gag/a91GeGj)
- - 🚯 [Greedy bastards](http://9gag.com/gag/a81g9G6)<!-- MEMES:END -->
+ - 🚖 [Greedy bastards](http://9gag.com/gag/a81g9G6)
+ - 🚯 [Good guy Amish](http://9gag.com/gag/aQXjby7)
+ - 🚯 [Well? We are still waiting](http://9gag.com/gag/a91GeGj)<!-- MEMES:END -->
 
 --- 
 
