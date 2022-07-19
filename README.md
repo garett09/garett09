@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China will impose a $1B+ fine on Didi over its cybersecurity practices and ease restrictions, letting Didi restore its apps and pursue a Hong Kong IPO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220719/p6#a220719p6)
- - [Samsung confirms August 10th Unpacked event date with ‘cryptic’ puzzle](https://www.theverge.com/2022/7/19/23269698/samsung-galaxy-unpacked-august-10th-cryptic-puzzle-fold-flip-watch)
- - [Vizio’s new TVs and soundbars focus on what the company does best: value](https://www.theverge.com/2022/7/19/23269247/vizio-2023-m-series-quantum-x-v-d-tvs-soundbars-announced)<!-- TECH:END -->
+ - [Apple Silicon Linux project gets initial Mac Studio &amp; M2 support](https://appleinsider.com/articles/22/07/19/apple-silicon-linux-project-gets-initial-mac-studio-m2-support?utm_medium=rss)
+ - [What you need to know about JPEG, HEIF, HEIC, and ProRAW](https://appleinsider.com/articles/22/07/19/what-you-need-to-know-about-jpeg-heif-heic-and-proraw?utm_medium=rss)
+ - [Ms. Marvel Ended Up Being the Best Thing on Disney+ This Year](https://www.wired.com/story/ms-marvel-best-disney-plus-show/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
