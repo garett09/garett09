@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Silicon Linux project gets initial Mac Studio &amp; M2 support](https://appleinsider.com/articles/22/07/19/apple-silicon-linux-project-gets-initial-mac-studio-m2-support?utm_medium=rss)
- - [What you need to know about JPEG, HEIF, HEIC, and ProRAW](https://appleinsider.com/articles/22/07/19/what-you-need-to-know-about-jpeg-heif-heic-and-proraw?utm_medium=rss)
- - [Ms. Marvel Ended Up Being the Best Thing on Disney+ This Year](https://www.wired.com/story/ms-marvel-best-disney-plus-show/)<!-- TECH:END -->
+ - [The best accessories for the M2 MacBook Air](https://appleinsider.com/articles/22/07/19/the-best-accessories-for-the-m2-macbook-air?utm_medium=rss)
+ - [Flip, which lets shoppers monetize their purchases by posting video reviews, has raised a $60M Series B at a ~$500M valuation, bringing its total raised to $95M &lpar;Kimberly Chin/Axios&rpar;](http://www.techmeme.com/220719/p11#a220719p11)
+ - [How China Threatens to Splinter the Metaverse](https://www.wired.com/story/china-threatens-splinter-metaverse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
