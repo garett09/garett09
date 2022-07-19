@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)
- - 🚯 [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)
- - 🚯 [\u201cThe price we pay as the EU, as NATO, is the price we can measure in currency, in money. The price they pay is measured in lives lost every day. So, we should stop complaining and step up and provide support, full stop.\u201d](http://9gag.com/gag/aegBWvQ)<!-- MEMES:END -->
+ - 🚖 [Highscore](http://9gag.com/gag/a31Ox58)
+ - 🚯 [Consensus says.......](http://9gag.com/gag/aXrOd1V)
+ - 🚯 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)<!-- MEMES:END -->
 
 --- 
 
