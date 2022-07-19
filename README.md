@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s trying to make it easier to find nearby businesses](https://www.theverge.com/2022/7/19/23270510/instagram-searchable-map-nearby-business)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [How to learn a language online](https://www.theverge.com/22933094/language-learn-online-apps-duolingo-pimsleur-rosetta-stone-hellotalk)<!-- TECH:END -->
+ - [Volkswagen names a new CEO to run its electric truck and SUV spinoff Scout](https://www.theverge.com/2022/7/19/23270598/vw-scout-ceo-electric-vehicle-off-road-suv-pickup-trucks)
+ - [Stray’s Post-Apocalyptic World Evokes the Walled City of Kowloon](https://www.wired.com/story/stray-design-walled-city-kowloon/)
+ - [Samsung will give you up to $200 credit for placing a Galaxy Z Fold 4 or Z Flip 4 reservation](https://www.theverge.com/2022/7/19/23270390/samsung-unpacked-2022-z-fold-flip-4-early-reservation-credit-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
