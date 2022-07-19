@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram rolls out a new searchable map for exploring popular tagged locations, which can be filtered by restaurants, cafes, salons, and other categories &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220719/p19#a220719p19)
- - [YouTube on iPhone: Safari vs YouTube app](https://appleinsider.com/inside/safari/tips/youtube-on-iphone-safari-vs-youtube-app?utm_medium=rss)
- - [Shows like Resident Evil on Netflix: 7 shows to watch next](https://www.androidauthority.com/shows-like-resident-evil-netflix-3187608/)<!-- TECH:END -->
+ - [Memo to staff: healthcare administration automation startup Olive AI, valued at $4B in July 2021, is laying off 450 employees, or about 31% of the company &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220719/p21#a220719p21)
+ - [Apple will settle butterfly keyboard lawsuit for $50 million](https://www.theverge.com/2022/7/19/23270157/apple-butterfly-keyboard-settlement-class-action-lawsuit)
+ - [A company called Meta is suing Meta for naming itself Meta](https://www.theverge.com/2022/7/19/23270164/meta-augmented-reality-facebook-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
