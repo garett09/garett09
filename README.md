@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she ok?](http://9gag.com/gag/aM4L7AV)
- - 🚯 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
- - 🚯 [When refrigerators where build to out live you](http://9gag.com/gag/a31OgMN)<!-- MEMES:END -->
+ - 🚖 [If NASA keeps publishing stuff like this I\u2019m gonna lose my shit](http://9gag.com/gag/aVx65g2)
+ - 🚯 [F is for...](http://9gag.com/gag/aE8457p)
+ - 🚯 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
 
 --- 
 
