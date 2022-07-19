@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If NASA keeps publishing stuff like this I\u2019m gonna lose my shit](http://9gag.com/gag/aVx65g2)
- - 🚯 [F is for...](http://9gag.com/gag/aE8457p)
- - 🚯 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
+ - 🚖 [F is for...](http://9gag.com/gag/aE8457p)
+ - 🚯 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)
+ - 🚯 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)<!-- MEMES:END -->
 
 --- 
 
