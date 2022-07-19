@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking All The Grand Theft Auto Games, From Worst To Best](https://kotaku.com/ranking-the-grand-theft-auto-games-from-worst-to-best-1791387873)
- - [Co-op Skyrim is finally real and works almost exactly how I hoped](https://www.pcgamer.com/co-op-skyrim-is-finally-real-and-works-almost-exactly-how-i-hoped)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
+ - [Arknights’ New Roguelike Mode Makes Its Gimmicky Characters Worth Playing Again](https://kotaku.com/arknights-roguelike-integrated-strategy-gacha-1849197379)
+ - [Why you keep seeing famous anime in your favorite games](https://www.polygon.com/23270408/attack-on-titan-anime-first-person-shooters-fortnite-dead-by-daylight-apex-legends)
+ - [Google, Oracle datacenters melt down in extreme European heatwave](https://www.pcgamer.com/google-oracle-datacenters-melt-down-in-extreme-european-heatwave)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
