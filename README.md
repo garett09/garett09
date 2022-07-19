@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US must grant more green cards to retain tech leaders; Turkish MIT and Caltech grad Erdal Arikan, whose work led to Huawei&#39;s early 5G lead, had to leave US &lpar;Foreign Policy&rpar;](http://www.techmeme.com/220718/p21#a220718p21)
- - [Apple’s getting sued for having a monopoly on the iPhone’s tap-to-pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu)
- - [How to clone a hard drive on a Mac or Windows PC](https://www.androidauthority.com/clone-hard-drive-mac-windows-pc-3186050/)<!-- TECH:END -->
+ - [Albania shuts down access to online public services and government websites due to a cyberattack, just a few months after launching an online services portal &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220718/p25#a220718p25)
+ - [Amazon starts rolling out a Prime Video redesign for Android and connected TV devices, with a Netflix-like look, a top 10 list, a vertical navigation, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220718/p24#a220718p24)
+ - [2024 Chevy Blazer EV Debuts With Up to 557 HP or 320 Miles of Range     - CNET](https://www.cnet.com/roadshow/news/2024-chevy-blazer-ev-ss-design-details-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
