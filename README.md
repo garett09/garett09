@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fizecs\u2026](http://9gag.com/gag/aAG97Eg)
- - 🚯 [Game of Trains](http://9gag.com/gag/amgZOV6)
- - 🚯 [Don\u2019t get offended for others](http://9gag.com/gag/aDDvLww)<!-- MEMES:END -->
+ - 🚖 [Glad he told her](http://9gag.com/gag/aBnezrO)
+ - 🚯 [I learned this much in school](http://9gag.com/gag/aE84bmo)
+ - 🚯 [Talked to loads of old folk and this was the universal message of their lives](http://9gag.com/gag/aBneM6Q)<!-- MEMES:END -->
 
 --- 
 
