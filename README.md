@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a good spost, I promise...](http://9gag.com/gag/aog7GLn)
- - 🚯 [Temperatures for the next couple of days](http://9gag.com/gag/aQXjDG7)
- - 🚯 [Cooking for the one](http://9gag.com/gag/aOQWnNE)<!-- MEMES:END -->
+ - 🚖 [Win](http://9gag.com/gag/a116neG)
+ - 🚯 [Brought her home today! All stock, never modded, from original owner in his 60s. Drives like new. All maintenance from the last 16 YEARS. True unicorn.](http://9gag.com/gag/aDDvqdx)
+ - 🚯 [Gatekeeping at its finest](http://9gag.com/gag/aDDvqyx)<!-- MEMES:END -->
 
 --- 
 
