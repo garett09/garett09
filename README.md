@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don\u2019t get offended for others](http://9gag.com/gag/aDDvLww)
- - 🚯 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)
- - 🚯 [And the media said Don\u2019t Look Up wasn\u2019t realistic\u2026](http://9gag.com/gag/awzpPZW)<!-- MEMES:END -->
+ - 🚖 [This is a good spost, I promise...](http://9gag.com/gag/aog7GLn)
+ - 🚯 [Temperatures for the next couple of days](http://9gag.com/gag/aQXjDG7)
+ - 🚯 [Cooking for the one](http://9gag.com/gag/aOQWnNE)<!-- MEMES:END -->
 
 --- 
 
