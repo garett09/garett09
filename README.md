@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden administration to work with private sector in a 120-day sprint to create hundreds of cybersecurity apprenticeship programs to fill out cybersecurity roles &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220720/p2#a220720p2)
- - [Samsung could cut one rear camera from Galaxy A phones](https://www.androidauthority.com/samsung-galaxy-a-series-camera-3188398/)
- - [Alaska Airlines will let flyers use digital bag tags to save time and paper](https://www.theverge.com/2022/7/20/23271068/alaska-airlines-electronic-bag-tag-program-bagtag-e-paper-display-nfc)<!-- TECH:END -->
+ - [A coalition representing Apple, Meta, and others asks India to amend its proposed IT rules, including allowing a self-regulatory grievance redressal mechanism &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220720/p3#a220720p3)
+ - [The Most Popular Period-Tracking Apps, Ranked by Data Privacy](https://www.wired.com/story/period-tracking-apps-flo-clue-stardust-ranked-data-privacy/)
+ - [Bookstagram Is Fueling an Unnerving Trend](https://www.wired.com/story/tagging-authors-on-tiktok/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
