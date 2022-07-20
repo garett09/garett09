@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Neverending loop](http://9gag.com/gag/ango6VL)
- - 🚯 [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)
- - 🚯 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)<!-- MEMES:END -->
+ - 🚖 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)
+ - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)
+ - 🚯 [Vacuuming the pool](http://9gag.com/gag/avAjNzO)<!-- MEMES:END -->
 
 --- 
 
