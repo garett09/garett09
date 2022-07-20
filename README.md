@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lands upcoming film &#39;Causeway&#39; starring Jennifer Lawrence](https://appleinsider.com/articles/22/07/20/apple-lands-upcoming-film-causeway-starring-jennifer-lawrence?utm_medium=rss)
- - [Exclusive savings drive Apple AirPods Max down to $425 &lpar;$125 off&rpar;](https://appleinsider.com/articles/22/07/20/exclusive-savings-drive-apple-airpods-max-down-to-425-125-off?utm_medium=rss)
- - [How to sign out of Amazon Prime on TV](https://www.androidauthority.com/sign-out-amazon-prime-tv-3188601/)<!-- TECH:END -->
+ - [I swapped out my Steam Deck’s noisy fan and am so happy I did](https://www.theverge.com/2022/7/20/23271794/how-to-replace-steam-deck-fan-ifixit-noise)
+ - [Baidu&#39;s video streaming service iQiyi signs a content deal with Douyin, the Chinese version of TikTok, ending a dispute over alleged copyright infringement &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p26#a220720p26)
+ - [Samsung shares foldable sales information, Flip vs Fold numbers are surprising](https://www.androidauthority.com/samsung-foldables-sales-2021-3188569/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
