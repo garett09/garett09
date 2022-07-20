@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU considering new evidence to speed up antitrust case against Apple](https://appleinsider.com/articles/22/07/20/eu-considering-new-evidence-to-speed-up-antitrust-case-against-apple?utm_medium=rss)
- - [How the ‘Move Fast’ era of Facebook led to one of its biggest scandals](https://www.theverge.com/2022/7/20/23271554/facebook-platform-cambridge-analytica-meta-land-of-the-giants-podcast)
- - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)<!-- TECH:END -->
+ - [Volkswagen&#39;s software unit Cariad partners with STMicroelectronics to co-develop semiconductors for its cross-brand single software platform &lpar;Monica Raymunt/Bloomberg&rpar;](http://www.techmeme.com/220720/p21#a220720p21)
+ - [The DHS Bought a ‘Shocking Amount’ of Phone-Tracking Data](https://www.wired.com/story/dhs-surveillance-phone-tracking-data/)
+ - [Google Wallet rolls out to all users, available as a separate app for those in the US and Singapore and as a simple Google Pay update for others &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220720/p20#a220720p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
