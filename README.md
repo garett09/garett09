@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to fold a fitted sheet.](http://9gag.com/gag/aDDvKo9)
- - 🚯 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)
- - 🚯 [Stop it weebs](http://9gag.com/gag/aLvExBv)<!-- MEMES:END -->
+ - 🚖 [Being a short guy, it&#39;s always nice to feel accommodated for.](http://9gag.com/gag/a71xQ1A)
+ - 🚯 [Vacuuming the pool](http://9gag.com/gag/avAjNzO)
+ - 🚯 [The man is right ...](http://9gag.com/gag/a51Y4PG)<!-- MEMES:END -->
 
 --- 
 
