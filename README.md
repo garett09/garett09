@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No talk me im playin stray](http://9gag.com/gag/aqGEqqv)
- - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)
- - 🚯 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
+ - 🚖 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)
+ - 🚯 [Recently divorced..she took everything, starting over again.Wish me luck guys](http://9gag.com/gag/a51Y8WN)
+ - 🚯 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)<!-- MEMES:END -->
 
 --- 
 
