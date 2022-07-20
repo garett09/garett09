@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky: Endurance Update Available Today](https://news.xbox.com/en-us/2022/07/20/no-mans-sky-endurance-update-available-today/)
- - [Last Friday brings Friday the 13th vibes to Camp Overboard](https://www.polygon.com/23180307/camp-overboard-last-friday-friday-the-13th-boardgame)
- - [Spider-Man Remastered reveals PC system requirements and special features](https://www.pcgamer.com/spider-man-remastered-pc-system-requirements)<!-- GAME:END -->
+ - [Valve Warns Steam Deck Users To Beware The Hot Weather](https://kotaku.com/valve-steam-deck-nintendo-switch-global-warming-alyx-1849209382)
+ - [This typing sim from hell has you writing buzzword-filled emails for eternity](https://www.pcgamer.com/this-typing-sim-from-hell-has-you-writing-buzzword-filled-emails-for-eternity)
+ - [Frogs and Mechs Team up in Sci-Fi Roguelike Shoulders of Giants – Coming to Xbox](https://news.xbox.com/en-us/2022/07/20/frogs-and-mechs-team-up-in-sci-fi-roguelike-shoulders-of-giants-coming-to-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
