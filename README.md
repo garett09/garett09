@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop it weebs](http://9gag.com/gag/aLvExBv)
- - 🚯 [Easy win](http://9gag.com/gag/apgMWzW)
- - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)<!-- MEMES:END -->
+ - 🚖 [No talk me im playin stray](http://9gag.com/gag/aqGEqqv)
+ - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)
+ - 🚯 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
 
 --- 
 
