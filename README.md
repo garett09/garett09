@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It do be like that](http://9gag.com/gag/amgZe9j)
- - 🚯 [This pillow....](http://9gag.com/gag/aGzQmo6)
- - 🚯 [Are we obsessed with shit?](http://9gag.com/gag/aPZqE9Q)<!-- MEMES:END -->
+ - 🚖 [Are we obsessed with shit?](http://9gag.com/gag/aPZqE9Q)
+ - 🚯 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
+ - 🚯 [Cute laugh](http://9gag.com/gag/angoPW5)<!-- MEMES:END -->
 
 --- 
 
