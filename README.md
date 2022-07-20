@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really?](http://9gag.com/gag/aqGEP9p)
- - 🚯 [Now I doubt if he&#39;s acting](http://9gag.com/gag/a91GxEj)
- - 🚯 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)<!-- MEMES:END -->
+ - 🚖 [How to fold a fitted sheet.](http://9gag.com/gag/aDDvKo9)
+ - 🚯 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)
+ - 🚯 [Stop it weebs](http://9gag.com/gag/aLvExBv)<!-- MEMES:END -->
 
 --- 
 
