@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man is right ...](http://9gag.com/gag/a51Y4PG)
- - 🚯 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)
- - 🚯 [Hi Lisa](http://9gag.com/gag/aRrpbO5)<!-- MEMES:END -->
+ - 🚖 [Neverending loop](http://9gag.com/gag/ango6VL)
+ - 🚯 [I want that. Can I have that ?](http://9gag.com/gag/aog7XXg)
+ - 🚯 [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)<!-- MEMES:END -->
 
 --- 
 
