@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Neverending loop](http://9gag.com/gag/ango6VL)
- - 🚯 [I want that. Can I have that ?](http://9gag.com/gag/aog7XXg)
- - 🚯 [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)<!-- MEMES:END -->
+ - 🚯 [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)
+ - 🚯 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)<!-- MEMES:END -->
 
 --- 
 
