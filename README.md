@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla says &quot;bitcoin impairment&quot; had a negative impact on its Q2 profitability and that it has sold 75% of its bitcoin, worth approximately $936M, in the quarter &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/220720/p23#a220720p23)
- - [Tesla sold 75 percent of its Bitcoin](https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk)
- - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)<!-- TECH:END -->
+ - [Apple lands upcoming film &#39;Causeway&#39; starring Jennifer Lawrence](https://appleinsider.com/articles/22/07/20/apple-lands-upcoming-film-causeway-starring-jennifer-lawrence?utm_medium=rss)
+ - [Exclusive savings drive Apple AirPods Max down to $425 &lpar;$125 off&rpar;](https://appleinsider.com/articles/22/07/20/exclusive-savings-drive-apple-airpods-max-down-to-425-125-off?utm_medium=rss)
+ - [How to sign out of Amazon Prime on TV](https://www.androidauthority.com/sign-out-amazon-prime-tv-3188601/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
