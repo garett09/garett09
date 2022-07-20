@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley trims AAPL target to $180 on weaker than expected quarter](https://appleinsider.com/articles/22/07/20/morgan-stanley-trims-aapl-target-to-180-on-weaker-than-expected-quarter?utm_medium=rss)
- - [Apple releases macOS Monterey 12.5 to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
- - [OpenAI makes DALL-E 2 widely available in beta through a credit-based payment structure; users will get free credits and can buy more in increments of $15 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220720/p14#a220720p14)<!-- TECH:END -->
+ - [A million people on DALL-E’s waitlist will get access to the AI image generator](https://www.theverge.com/2022/7/20/23271591/dall-e-ai-image-generator-beta-test-open-waitlist)
+ - [macOS Monterey 12.5 is now available to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
+ - [Google reportedly pauses hiring for two weeks to ‘review our headcount needs’](https://www.theverge.com/2022/7/20/23271634/google-hiring-pause-two-weeks-review-headcount-needs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
