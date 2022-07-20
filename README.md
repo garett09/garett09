@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase says it has no exposure to collapsed crypto firms Celsius, 3AC, and Voyager but made a &quot;non-material&quot; investment in Terraform Labs; stock up 14%+ &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220720/p8#a220720p8)
- - [How to see your phone’s notification history](https://www.androidauthority.com/see-phones-notification-history-3188034/)
- - [New &#39;CloudMensis&#39; malware uses cloud storage to spy on Mac users](https://appleinsider.com/articles/22/07/20/new-cloudmensis-malware-uses-cloud-storage-to-spy-on-mac-users?utm_medium=rss)<!-- TECH:END -->
+ - [Is Skype free? Skype pricing explained](https://www.androidauthority.com/skype-free-pricing-3186918/)
+ - [Amazon is slowly turning Alexa into a totally automated virtual assistant](https://www.theverge.com/2022/7/20/23270516/amazon-alexa-routines-kit-universal-commands)
+ - [Amazon says Matter really matters to its smart home ambitions](https://www.theverge.com/2022/7/20/23271227/amazon-matter-smart-home-alexa-live-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
