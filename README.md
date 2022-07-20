@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)
- - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)
- - 🚯 [Vacuuming the pool](http://9gag.com/gag/avAjNzO)<!-- MEMES:END -->
+ - 🚖 [Stop it weebs](http://9gag.com/gag/aLvExBv)
+ - 🚯 [Easy win](http://9gag.com/gag/apgMWzW)
+ - 🚯 [Took me 29 years](http://9gag.com/gag/a116Gb2)<!-- MEMES:END -->
 
 --- 
 
