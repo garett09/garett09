@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wildflower Interactive founded by Uncharted, Last of Us co-director](https://www.polygon.com/23271586/wildflower-interactive-new-studio-bruce-straley-announcement)
- - [Nvidia and AMD aren&#39;t thrilled about pending law that stands to give Intel $20+ billion](https://www.pcgamer.com/nvidia-and-amd-arent-thrilled-about-pending-law-that-stands-to-give-intel-dollar20-billion)
- - [Stray can only exist as a video game, and that&#39;s worth celebrating](https://game-rant-2022.blogspot.com/2022/07/stray-can-only-exist-as-video-game-and.html)<!-- GAME:END -->
+ - [No Man’s Sky: Endurance Update Available Today](https://news.xbox.com/en-us/2022/07/20/no-mans-sky-endurance-update-available-today/)
+ - [Last Friday brings Friday the 13th vibes to Camp Overboard](https://www.polygon.com/23180307/camp-overboard-last-friday-friday-the-13th-boardgame)
+ - [Spider-Man Remastered reveals PC system requirements and special features](https://www.pcgamer.com/spider-man-remastered-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
