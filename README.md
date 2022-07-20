@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gold](http://9gag.com/gag/aLvE71P)
- - 🚯 [English at it&#39;s best](http://9gag.com/gag/aze3prN)
- - 🚯 [Emmanuel!!!](http://9gag.com/gag/a21X68Y)<!-- MEMES:END -->
+ - 🚖 [It do be like that](http://9gag.com/gag/amgZe9j)
+ - 🚯 [This pillow....](http://9gag.com/gag/aGzQmo6)
+ - 🚯 [Are we obsessed with shit?](http://9gag.com/gag/aPZqE9Q)<!-- MEMES:END -->
 
 --- 
 
