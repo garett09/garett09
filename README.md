@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen names a new CEO to run its electric truck and SUV spinoff Scout](https://www.theverge.com/2022/7/19/23270598/vw-scout-ceo-electric-vehicle-off-road-suv-pickup-trucks)
- - [Stray’s Post-Apocalyptic World Evokes the Walled City of Kowloon](https://www.wired.com/story/stray-design-walled-city-kowloon/)
- - [Samsung will give you up to $200 credit for placing a Galaxy Z Fold 4 or Z Flip 4 reservation](https://www.theverge.com/2022/7/19/23270390/samsung-unpacked-2022-z-fold-flip-4-early-reservation-credit-announcement)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; cast in &#39;mourning&#39; as filming for third season wraps up](https://appleinsider.com/articles/22/07/20/ted-lasso-cast-in-mourning-as-filming-for-third-season-wraps-up?utm_medium=rss)
+ - [Microsoft unveils Viva Engage, a social-community app launching in late August, that brings Stories and other image and video sharing tools to Teams &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220719/p31#a220719p31)
+ - [Netflix’s CEO is ready for TV to die](https://www.theverge.com/2022/7/19/23270669/netflix-ceo-reed-hastings-linear-tv-die)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
