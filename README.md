@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; cast in &#39;mourning&#39; as filming for third season wraps up](https://appleinsider.com/articles/22/07/20/ted-lasso-cast-in-mourning-as-filming-for-third-season-wraps-up?utm_medium=rss)
- - [Microsoft unveils Viva Engage, a social-community app launching in late August, that brings Stories and other image and video sharing tools to Teams &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220719/p31#a220719p31)
- - [Netflix’s CEO is ready for TV to die](https://www.theverge.com/2022/7/19/23270669/netflix-ceo-reed-hastings-linear-tv-die)<!-- TECH:END -->
+ - [Senate votes 64-34 to advance a bill to provide ~$52B in US chip production subsidies, paving way for a larger package that would include additional R&amp;D funding &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/220719/p33#a220719p33)
+ - [Gordian Software, whose API enables airlines to sell flight add-ons like seat selection or additional baggage, has raised a $25M Series A at a $200M valuation &lpar;Ariyana Griffin/Forbes&rpar;](http://www.techmeme.com/220719/p32#a220719p32)
+ - [How to get new characters in Genshin Impact](https://www.androidauthority.com/get-characters-genshin-impact-3188235/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
