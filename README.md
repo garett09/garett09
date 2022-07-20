@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Skype free? Skype pricing explained](https://www.androidauthority.com/skype-free-pricing-3186918/)
- - [Amazon is slowly turning Alexa into a totally automated virtual assistant](https://www.theverge.com/2022/7/20/23270516/amazon-alexa-routines-kit-universal-commands)
- - [Amazon says Matter really matters to its smart home ambitions](https://www.theverge.com/2022/7/20/23271227/amazon-matter-smart-home-alexa-live-announcements)<!-- TECH:END -->
+ - [Morgan Stanley trims AAPL target to $180 on weaker than expected quarter](https://appleinsider.com/articles/22/07/20/morgan-stanley-trims-aapl-target-to-180-on-weaker-than-expected-quarter?utm_medium=rss)
+ - [Apple releases macOS Monterey 12.5 to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
+ - [OpenAI makes DALL-E 2 widely available in beta through a credit-based payment structure; users will get free credits and can buy more in increments of $15 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220720/p14#a220720p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
