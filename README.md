@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA 23 launches September 30 on PS4 and PS5: first details](https://blog.playstation.com/2022/07/20/fifa-23-launches-september-30-on-ps4-and-ps5-first-details/)
- - [Marvel’s Spider-Man Remastered PC features revealed](https://blog.playstation.com/2022/07/20/marvels-spider-man-remastered-pc-features-revealed/)
- - [Jordan Peele’s Nope brings chills and thrills, but it’s all empty air](https://www.polygon.com/reviews/23271422/jordan-peele-nope-review-alien-invasion)<!-- GAME:END -->
+ - [Pokimane is taking a break from making content](https://www.polygon.com/23271501/pokimane-twitch-youtube-taking-break-streaming-haitus)
+ - [No NFTs in Minecraft, Mojang says](https://www.pcgamer.com/no-nfts-in-minecraft-mojang-says)
+ - [Bungie, please let Destiny 2&#39;s seasonal grandma retire already](https://www.pcgamer.com/bungie-please-let-destiny-2s-seasonal-grandma-retire-already)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
