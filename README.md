@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alaska Airlines will let flyers use digital bag tags to save time and paper](https://www.theverge.com/2022/7/20/23271068/alaska-airlines-electronic-bag-tag-program-bagtag-e-paper-display-nfc)
- - [Is Grocery Shopping Online Cheaper Than at the Store? I Did the Math     - CNET](https://www.cnet.com/news/buying-groceries-online-vs-in-store-we-find-out-which-is-cheaper/#ftag=CAD590a51e)
- - [Turn on Windows 11 Dark Mode in 3 Short Steps     - CNET](https://www.cnet.com/tech/services-and-software/turn-on-windows-11-dark-mode-in-3-short-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden administration to work with private sector in a 120-day sprint to create hundreds of cybersecurity apprenticeship programs to fill out cybersecurity roles &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220720/p2#a220720p2)
+ - [Samsung could cut one rear camera from Galaxy A phones](https://www.androidauthority.com/samsung-galaxy-a-series-camera-3188398/)
+ - [Alaska Airlines will let flyers use digital bag tags to save time and paper](https://www.theverge.com/2022/7/20/23271068/alaska-airlines-electronic-bag-tag-program-bagtag-e-paper-display-nfc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
