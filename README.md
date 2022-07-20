@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple agrees to pay $50M to customers with faulty MacBook keyboards](https://www.pcgamer.com/apple-agrees-to-pay-dollar50m-to-customers-with-faulty-macbook-keyboards)
- - [Today&#39;s Wordle answer #396: Wednesday, July 20](https://www.pcgamer.com/todays-wordle-july-20-396-answer-hint)
- - [A new AI can make 2D images 3D, like these high-def faces and yes, even cats](https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats)<!-- GAME:END -->
+ - [How QA workers are driving the video game industry’s union push](https://www.polygon.com/23270642/union-video-game-industry-qa-activision-blizzard-keywords)
+ - [Valve warns of Steam Deck throttling when used in extremely hot environments](https://www.pcgamer.com/steam-deck-max-temperature)
+ - [Twitter accuses Musk of &#39;sabotage&#39; and gets the early trial it wanted](https://www.pcgamer.com/twitter-accuses-musk-of-sabotage-and-gets-the-early-trial-it-wanted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
