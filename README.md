@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Call of Duty: Vanguard Free Through July 26](https://news.xbox.com/en-us/2022/07/20/play-call-of-duty-vanguard-free-through-july-26/)
- - [What to expect from Marvel’s big MCU panel at SDCC 2022](https://www.polygon.com/sdcc/23271531/marvel-hall-h-panel-trailers-announcements-x-men-black-panther-deadpool-she-hulk)
- - [The Times When Stray Perfectly Captures The Full Cat Experience](https://kotaku.com/stray-puzzle-platformer-bluetwelve-annapurna-ps4-ps5-pc-1849197639)<!-- GAME:END -->
+ - [The Last Of Us Part I Leaks Show That It Looks Like The Original, But Better I Guess](https://kotaku.com/the-last-of-us-part-i-naughty-dog-playstation-sony-elli-1849222680)
+ - [EVE Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game)
+ - [FCC Chair wants to give everyone in the US good internet by raising the minimum broadband speed to 100/20 Mbps](https://www.pcgamer.com/fcc-chair-wants-to-give-everyone-in-the-us-good-internet-by-raising-the-minimum-broadband-speed-to-10020-mbps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
