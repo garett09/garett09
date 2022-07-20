@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are we obsessed with shit?](http://9gag.com/gag/aPZqE9Q)
- - 🚯 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
- - 🚯 [Cute laugh](http://9gag.com/gag/angoPW5)<!-- MEMES:END -->
+ - 🚖 [Really?](http://9gag.com/gag/aqGEP9p)
+ - 🚯 [Now I doubt if he&#39;s acting](http://9gag.com/gag/a91GxEj)
+ - 🚯 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)<!-- MEMES:END -->
 
 --- 
 
