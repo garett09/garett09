@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recently divorced..she took everything, starting over again.Wish me luck guys](http://9gag.com/gag/a51Y8WN)
- - 🚯 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)
+ - 🚖 [Yup. This is a Purrfect game](http://9gag.com/gag/aBne7B2)
+ - 🚯 [Life is a b*tch](http://9gag.com/gag/amgZj34)
  - 🚯 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)<!-- MEMES:END -->
 
 --- 
