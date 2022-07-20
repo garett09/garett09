@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [100% better cast](http://9gag.com/gag/aOQWMr6)
- - 🚯 [Gold](http://9gag.com/gag/aLvE71P)
- - 🚯 [English at it&#39;s best](http://9gag.com/gag/aze3prN)<!-- MEMES:END -->
+ - 🚖 [Gold](http://9gag.com/gag/aLvE71P)
+ - 🚯 [English at it&#39;s best](http://9gag.com/gag/aze3prN)
+ - 🚯 [Emmanuel!!!](http://9gag.com/gag/a21X68Y)<!-- MEMES:END -->
 
 --- 
 
