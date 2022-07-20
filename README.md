@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A coalition representing Apple, Meta, and others asks India to amend its proposed IT rules, including allowing a self-regulatory grievance redressal mechanism &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220720/p3#a220720p3)
- - [The Most Popular Period-Tracking Apps, Ranked by Data Privacy](https://www.wired.com/story/period-tracking-apps-flo-clue-stardust-ranked-data-privacy/)
- - [Bookstagram Is Fueling an Unnerving Trend](https://www.wired.com/story/tagging-authors-on-tiktok/)<!-- TECH:END -->
+ - [Apple trumpets eight years of health technology with new report](https://appleinsider.com/articles/22/07/20/apple-trumpets-eight-years-of-health-technology-with-new-report?utm_medium=rss)
+ - [Berlin-based Charles, which lets businesses sell products and offer support on messaging apps like WhatsApp, raised a $20M Series A led by Salesforce Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220720/p4#a220720p4)
+ - [Europe Has Descended Into the Age of Fire](https://www.wired.com/story/europe-has-descended-into-the-age-of-fire/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
