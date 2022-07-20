@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen&#39;s software unit Cariad partners with STMicroelectronics to co-develop semiconductors for its cross-brand single software platform &lpar;Monica Raymunt/Bloomberg&rpar;](http://www.techmeme.com/220720/p21#a220720p21)
- - [The DHS Bought a ‘Shocking Amount’ of Phone-Tracking Data](https://www.wired.com/story/dhs-surveillance-phone-tracking-data/)
- - [Google Wallet rolls out to all users, available as a separate app for those in the US and Singapore and as a simple Google Pay update for others &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220720/p20#a220720p20)<!-- TECH:END -->
+ - [Tesla says &quot;bitcoin impairment&quot; had a negative impact on its Q2 profitability and that it has sold 75% of its bitcoin, worth approximately $936M, in the quarter &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/220720/p23#a220720p23)
+ - [Tesla sold 75 percent of its Bitcoin](https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk)
+ - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
