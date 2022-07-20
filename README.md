@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congratulations to J.Lo and Ben Affleck on their wedding](http://9gag.com/gag/a410g2Z)
- - 🚯 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
- - 🚯 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
+ - 🚖 [Yes, helping](http://9gag.com/gag/axBrrrn)
+ - 🚯 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - 🚯 [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)<!-- MEMES:END -->
 
 --- 
 
