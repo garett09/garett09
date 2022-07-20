@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-20-2022-3187497/)
- - [Daily deals July 20: iPad mini 6 for $400, AirPods Pro for $180, RTX 3090 for 50% off, more](https://appleinsider.com/articles/22/07/20/daily-deals-july-20-ipad-mini-6-for-400-airpods-pro-for-180-rtx-3090-for-50-off-more?utm_medium=rss)
- - [The OnePlus 10T is officially launching early next month](https://www.androidauthority.com/oneplus-10t-launch-3188432/)<!-- TECH:END -->
+ - [Google Pixel 5a revisited: The good and the bad a year later](https://www.androidauthority.com/google-pixel-5a-review-revisited-3187129/)
+ - [Discord voice chat is coming to Xbox](https://www.theverge.com/2022/7/20/23270362/discord-xbox-voice-chats-microsoft)
+ - [The Great Fiction of AI](https://www.theverge.com/c/23194235/ai-fiction-writing-amazon-kindle-sudowrite-jasper)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
