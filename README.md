@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokimane is taking a break from making content](https://www.polygon.com/23271501/pokimane-twitch-youtube-taking-break-streaming-haitus)
- - [No NFTs in Minecraft, Mojang says](https://www.pcgamer.com/no-nfts-in-minecraft-mojang-says)
- - [Bungie, please let Destiny 2&#39;s seasonal grandma retire already](https://www.pcgamer.com/bungie-please-let-destiny-2s-seasonal-grandma-retire-already)<!-- GAME:END -->
+ - [Wildflower Interactive founded by Uncharted, Last of Us co-director](https://www.polygon.com/23271586/wildflower-interactive-new-studio-bruce-straley-announcement)
+ - [Nvidia and AMD aren&#39;t thrilled about pending law that stands to give Intel $20+ billion](https://www.pcgamer.com/nvidia-and-amd-arent-thrilled-about-pending-law-that-stands-to-give-intel-dollar20-billion)
+ - [Stray can only exist as a video game, and that&#39;s worth celebrating](https://game-rant-2022.blogspot.com/2022/07/stray-can-only-exist-as-video-game-and.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
