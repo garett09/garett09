@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
- - 🚯 [`it&#39;s lil dirty, but it works` that&#39;s not his first time saying that](http://9gag.com/gag/a410ONm)
- - 🚯 [That face of regret](http://9gag.com/gag/awzpWR1)<!-- MEMES:END -->
+ - 🚖 [100% better cast](http://9gag.com/gag/aOQWMr6)
+ - 🚯 [Gold](http://9gag.com/gag/aLvE71P)
+ - 🚯 [English at it&#39;s best](http://9gag.com/gag/aze3prN)<!-- MEMES:END -->
 
 --- 
 
