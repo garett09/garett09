@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A million people on DALL-E’s waitlist will get access to the AI image generator](https://www.theverge.com/2022/7/20/23271591/dall-e-ai-image-generator-beta-test-open-waitlist)
- - [macOS Monterey 12.5 is now available to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
- - [Google reportedly pauses hiring for two weeks to ‘review our headcount needs’](https://www.theverge.com/2022/7/20/23271634/google-hiring-pause-two-weeks-review-headcount-needs)<!-- TECH:END -->
+ - [EU considering new evidence to speed up antitrust case against Apple](https://appleinsider.com/articles/22/07/20/eu-considering-new-evidence-to-speed-up-antitrust-case-against-apple?utm_medium=rss)
+ - [How the ‘Move Fast’ era of Facebook led to one of its biggest scandals](https://www.theverge.com/2022/7/20/23271554/facebook-platform-cambridge-analytica-meta-land-of-the-giants-podcast)
+ - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
