@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being a short guy, it&#39;s always nice to feel accommodated for.](http://9gag.com/gag/a71xQ1A)
- - 🚯 [Vacuuming the pool](http://9gag.com/gag/avAjNzO)
- - 🚯 [The man is right ...](http://9gag.com/gag/a51Y4PG)<!-- MEMES:END -->
+ - 🚖 [The man is right ...](http://9gag.com/gag/a51Y4PG)
+ - 🚯 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)
+ - 🚯 [Hi Lisa](http://9gag.com/gag/aRrpbO5)<!-- MEMES:END -->
 
 --- 
 
