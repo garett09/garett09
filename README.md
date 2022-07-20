@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - 🚖 [King style](http://9gag.com/gag/aE84mo9)
  - 🚯 [Why..](http://9gag.com/gag/aze33nm)
- - 🚯 [25 year old pizza delivery man runs into burning house, saves four children who tell him another might be in the house. He goes back in, finds the girl, jumps out a window with her, and carries her to a cop who captures the moment on his bodycam.](http://9gag.com/gag/abg8wdb)<!-- MEMES:END -->
+ - 🚯 [Cute laugh](http://9gag.com/gag/angoPW5)<!-- MEMES:END -->
 
 --- 
 
