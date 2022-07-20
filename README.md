@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [King style](http://9gag.com/gag/aE84mo9)
- - 🚯 [Why..](http://9gag.com/gag/aze33nm)
- - 🚯 [Cute laugh](http://9gag.com/gag/angoPW5)<!-- MEMES:END -->
+ - 🚖 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
+ - 🚯 [`it&#39;s lil dirty, but it works` that&#39;s not his first time saying that](http://9gag.com/gag/a410ONm)
+ - 🚯 [That face of regret](http://9gag.com/gag/awzpWR1)<!-- MEMES:END -->
 
 --- 
 
