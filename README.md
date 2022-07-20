@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports’ last FIFA will be its biggest ever, developers vow](https://www.polygon.com/23271025/fifa-23-preview-trailer-gameplay-hypermotion-womens-football)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Stray: All the safe unlock codes](https://www.pcgamer.com/stray-safe-unlock-codes)<!-- GAME:END -->
+ - [FIFA 23 launches September 30 on PS4 and PS5: first details](https://blog.playstation.com/2022/07/20/fifa-23-launches-september-30-on-ps4-and-ps5-first-details/)
+ - [Marvel’s Spider-Man Remastered PC features revealed](https://blog.playstation.com/2022/07/20/marvels-spider-man-remastered-pc-features-revealed/)
+ - [Jordan Peele’s Nope brings chills and thrills, but it’s all empty air](https://www.polygon.com/reviews/23271422/jordan-peele-nope-review-alien-invasion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
