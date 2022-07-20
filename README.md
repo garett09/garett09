@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes, helping](http://9gag.com/gag/axBrrrn)
- - 🚯 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - 🚖 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - 🚯 [How the climate in Europe will change over the next few years.](http://9gag.com/gag/aGzQQ95)
  - 🚯 [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)<!-- MEMES:END -->
 
 --- 
