@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple trumpets eight years of health technology with new report](https://appleinsider.com/articles/22/07/20/apple-trumpets-eight-years-of-health-technology-with-new-report?utm_medium=rss)
- - [Berlin-based Charles, which lets businesses sell products and offer support on messaging apps like WhatsApp, raised a $20M Series A led by Salesforce Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220720/p4#a220720p4)
- - [Europe Has Descended Into the Age of Fire](https://www.wired.com/story/europe-has-descended-into-the-age-of-fire/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-20-2022-3187497/)
+ - [Daily deals July 20: iPad mini 6 for $400, AirPods Pro for $180, RTX 3090 for 50% off, more](https://appleinsider.com/articles/22/07/20/daily-deals-july-20-ipad-mini-6-for-400-airpods-pro-for-180-rtx-3090-for-50-off-more?utm_medium=rss)
+ - [The OnePlus 10T is officially launching early next month](https://www.androidauthority.com/oneplus-10t-launch-3188432/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
