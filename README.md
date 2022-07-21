@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
- - 🚯 [Two is company, three is a party](http://9gag.com/gag/a41O46m)
- - 🚯 [Pay to play](http://9gag.com/gag/aE8mGYN)<!-- MEMES:END -->
+ - 🚯 [Pay to play](http://9gag.com/gag/aE8mGYN)
+ - 🚯 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
 
 --- 
 
