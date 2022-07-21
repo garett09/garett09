@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Zero Build mode finally pulled me in, and now I can’t escape](https://www.polygon.com/23271397/fortnite-zero-build-battle-royale)
- - [Dragon Ball’s take on the Dead by Daylight formula is out in October, and here’s Frieza](https://www.polygon.com/23272984/dragon-ball-the-breakers-trailer-frieza-release-date)
- - [What to Expect in the First Stranger of Paradise Final Fantasy Origin Expansion, Trials of the Dragon King](https://news.xbox.com/en-us/2022/07/21/stranger-of-paradise-expansion/)<!-- GAME:END -->
+ - [Trans Streamer Keffals Says Twitch Banned Her For &#39;Openly Talking&#39; About Abuse She Receives](https://kotaku.com/twitch-ban-keffals-destiny-trans-hate-speech-slur-1849315462)
+ - [Neopets Hacker Steals 69 Million Accounts, Tries To Sell Them For Bitcoin](https://kotaku.com/neopets-hacker-breach-data-pets-bitcoin-theft-crime-1849315409)
+ - [San Diego Comic-Con 2022](https://www.polygon.com/sdcc/23186970/san-diego-comic-con-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
