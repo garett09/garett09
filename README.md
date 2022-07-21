@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If that happened today, idiots would claim its a hoax and we should actually increase CFC to not hurt the economy.](http://9gag.com/gag/ay9KgAq)
- - 🚯 [Rodent Fights Snake To Get Baby Back](http://9gag.com/gag/aVx6G62)
- - 🚯 [Life is a b*tch](http://9gag.com/gag/amgZj34)<!-- MEMES:END -->
+ - 🚖 [Bummer](http://9gag.com/gag/a81gPnV)
+ - 🚯 [Today my wife told me she f**ked a guy for no reason worst feeling I felt ever. KINGS help.](http://9gag.com/gag/aDDvB5d)
+ - 🚯 [I knew things were bad but not this bad](http://9gag.com/gag/aggeRpw)<!-- MEMES:END -->
 
 --- 
 
