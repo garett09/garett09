@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Business as usual](http://9gag.com/gag/a81xdep)
- - 🚯 [My other one rule.](http://9gag.com/gag/a81xd43)
- - 🚯 [Big Ghey](http://9gag.com/gag/a31XvdQ)<!-- MEMES:END -->
+ - 🚖 [It&#39;s all coming together](http://9gag.com/gag/aM4MeMV)
+ - 🚯 [Black Magic](http://9gag.com/gag/awzWNp4)
+ - 🚯 [Actually scary](http://9gag.com/gag/adgDyR2)<!-- MEMES:END -->
 
 --- 
 
