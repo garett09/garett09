@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons: Honor Among Thieves star Sophia Lillis knows Critical Role brought you here](https://www.polygon.com/sdcc/23273355/dungeons-dragons-honor-among-thieves-sophia-lillis-critical-role)
- - [22 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Fake Pokémon Scarlet And Violet Leak Sneakily Mocks Thirsty Fans](https://kotaku.com/pokemon-scarlet-violet-leak-fuecoco-dumbass-girlfriend-1849316497)<!-- GAME:END -->
+ - [Why is Netflix suddenly so desperate?](https://www.polygon.com/23272747/netflix-subscribers-cancellation-competition)
+ - [Feast your eyes on the first teaser for Teen Wolf: The Movie](https://www.polygon.com/sdcc/23273468/feast-your-eyes-on-the-first-teaser-for-teen-wolf-the-movie)
+ - [Sarah Michelle Gellar trades vampires for werewolves, joins the Teen Wolf universe](https://www.polygon.com/sdcc/23273490/teen-wolf-universe-sarah-michelle-gellar-sdcc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
