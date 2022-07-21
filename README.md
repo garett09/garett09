@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6a pre-orders start in India, first Pixel there since Pixel 4a](https://www.androidauthority.com/google-pixel-6a-india-3188503/)
- - [Samsung says it sold nearly 10M Fold3 and Flip3 devices combined over the past year, up 300%+ from 2020; ~70% of foldable customers bought the Flip3 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220720/p29#a220720p29)
- - [Square Enix summons Meteor, launches its NFT project](https://www.theverge.com/2022/7/20/23271832/square-enix-nft-final-fantasy-vii-enjin-blockchain)<!-- TECH:END -->
+ - [Filings: Samsung is considering building 11 new chipmaking facilities in the Austin area over the next two decades, which could lead to ~$192B in new investment &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/220720/p32#a220720p32)
+ - [Final Fantasy 7 NFTs Are Coming Next Year -- Kind Of     - CNET](https://www.cnet.com/personal-finance/crypto/final-fantasy-7-nfts-are-coming-next-year-kind-of/#ftag=CAD590a51e)
+ - [Shanghai-based JAKA Robotics, which makes collaborative industrial robots that work alongside humans, has raised a $150M Series D led by Temasek and others &lpar;Noriyuki Doi/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p31#a220720p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
