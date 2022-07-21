@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I swapped out my Steam Deck’s noisy fan and am so happy I did](https://www.theverge.com/2022/7/20/23271794/how-to-replace-steam-deck-fan-ifixit-noise)
- - [Baidu&#39;s video streaming service iQiyi signs a content deal with Douyin, the Chinese version of TikTok, ending a dispute over alleged copyright infringement &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p26#a220720p26)
- - [Samsung shares foldable sales information, Flip vs Fold numbers are surprising](https://www.androidauthority.com/samsung-foldables-sales-2021-3188569/)<!-- TECH:END -->
+ - [Google Pixel 6a pre-orders start in India, first Pixel there since Pixel 4a](https://www.androidauthority.com/google-pixel-6a-india-3188503/)
+ - [Samsung says it sold nearly 10M Fold3 and Flip3 devices combined over the past year, up 300%+ from 2020; ~70% of foldable customers bought the Flip3 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220720/p29#a220720p29)
+ - [Square Enix summons Meteor, launches its NFT project](https://www.theverge.com/2022/7/20/23271832/square-enix-nft-final-fantasy-vii-enjin-blockchain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
