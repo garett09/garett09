@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A chip teardown shows that China&#39;s SMIC is quietly shipping 7nm chips; SMIC is rapidly approaching as the world&#39;s third largest foundry, behind TSMC and Samsung &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/220721/p2#a220721p2)
- - [Dell’s XPS 13 Plus is the first laptop certified for Ubuntu 22.04 LTS](https://www.theverge.com/2022/7/21/23272166/dell-xps-13-plus-project-sputnik-linux-laptop-ubuntu)
- - [Did the Webb Space Telescope Find the Oldest Galaxy Ever Seen? It&#39;s Complicated     - CNET](https://www.cnet.com/science/space/did-the-webb-space-telescope-find-the-oldest-galaxy-ever-seen-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China fined Didi Global $1.2B after a year-long probe, the regulator said for illegal operations that threatened national security &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220721/p5#a220721p5)
+ - [Meta and Google&#39;s content rules are restrictive for many abortion-rights groups worldwide, while abortion ads on Google aren&#39;t permitted in dozens of countries &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220721/p4#a220721p4)
+ - [YouTube Music could finally get a key feature from Play Music](https://www.androidauthority.com/youtube-music-sleep-timer-3188736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
