@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tanks are being put on the streets in China to protect the banks. This is because the Henan branch of the Bank of China declaring that people&#39;s savings in their branch are now &#39;investment products&#39; and can&#39;t be withdrawn.](http://9gag.com/gag/a1164RD)
- - 🚯 [Today my wife told me she f**ked a guy for no reason worst feeling I felt ever. KINGS help.](http://9gag.com/gag/aDDvB5d)
- - 🚯 [Business as usual](http://9gag.com/gag/a81xdep)<!-- MEMES:END -->
+ - 🚖 [Business as usual](http://9gag.com/gag/a81xdep)
+ - 🚯 [My other one rule.](http://9gag.com/gag/a81xd43)
+ - 🚯 [Big Ghey](http://9gag.com/gag/a31XvdQ)<!-- MEMES:END -->
 
 --- 
 
