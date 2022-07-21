@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Skills](http://9gag.com/gag/aNPEenw)
- - 🚯 [Need one.](http://9gag.com/gag/aDDe0KN)
- - 🚯 [Her face lol](http://9gag.com/gag/ajger9q)<!-- MEMES:END -->
+ - 🚖 [Unhealthy and unattractive](http://9gag.com/gag/aYrXNnw)
+ - 🚯 [Smooth](http://9gag.com/gag/aDDewZB)
+ - 🚯 [Gladiator](http://9gag.com/gag/awzWbnx)<!-- MEMES:END -->
 
 --- 
 
