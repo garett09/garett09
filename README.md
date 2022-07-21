@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold.](http://9gag.com/gag/a31XPW5)
- - 🚯 [A next level idiot](http://9gag.com/gag/a61Ymo2)
- - 🚯 [Sweet victory](http://9gag.com/gag/aYrXbWN)<!-- MEMES:END -->
+ - 🚖 [Sweet victory](http://9gag.com/gag/aYrXbWN)
+ - 🚯 [Legend.](http://9gag.com/gag/a31XP5N)
+ - 🚯 [Who are you, who are so wise in the Ways of Science?](http://9gag.com/gag/aWg3Qd3)<!-- MEMES:END -->
 
 --- 
 
