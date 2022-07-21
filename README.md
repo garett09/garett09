@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yup. This is a Purrfect game](http://9gag.com/gag/aBne7B2)
- - 🚯 [Life is a b*tch](http://9gag.com/gag/amgZj34)
- - 🚯 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)<!-- MEMES:END -->
+ - 🚖 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
+ - 🚯 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)
+ - 🚯 [*The Cat game launches*](http://9gag.com/gag/aM4L33M)<!-- MEMES:END -->
 
 --- 
 
