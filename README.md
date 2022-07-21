@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Squishmallows are exceptionally cute](https://www.polygon.com/sdcc/23272711/pokemon-squishmallows-pikachu-gengar-sdcc-2022)
- - [Watch the Gran Turismo World Series — Everything you need to know](https://blog.playstation.com/2022/07/21/watch-the-gran-turismo-world-series-everything-you-need-to-know/)
- - [Free Play Days – Farming Simulator 22, NASCAR 21: Ignition, and Hell Let Loose](https://news.xbox.com/en-us/2022/07/21/free-play-days-farming-simulator-22-nascar-21-ignition-and-hell-let-loose/)<!-- GAME:END -->
+ - [A year after Activision Blizzard’s explosive lawsuit, workers walk once again to ‘end gender inequity’](https://www.polygon.com/23272812/activision-blizzard-gender-equity-lawsuit-walkout-2022)
+ - [GTA Online’s summer update is about high temperatures and higher gas prices](https://www.polygon.com/23272827/gta-online-summer-update-criminal-enterprises-details)
+ - [These Elden Ring rune farm spots will help you level up in no time](https://www.pcgamer.com/elden-ring-rune-farm-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
