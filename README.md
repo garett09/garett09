@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
- - 🚯 [I need to know for highly important academic research](http://9gag.com/gag/aLv7KWV)
- - 🚯 [It&#39;s almost like they are virtue signalling...but im sure politicians and Hollywood celebs would never be fake](http://9gag.com/gag/aggz0vx)<!-- MEMES:END -->
+ - 🚯 [Two is company, three is a party](http://9gag.com/gag/a41O46m)
+ - 🚯 [Pay to play](http://9gag.com/gag/aE8mGYN)<!-- MEMES:END -->
 
 --- 
 
