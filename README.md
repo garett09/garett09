@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft Rentals shuts down as the ride-sharing company lays off about 60 people](https://www.theverge.com/2022/7/21/23273092/lyft-rentals-layoffs-car-ride-sharing-transportation)
- - [Twitch is rolling out new moderator tools, including letting channels swap ban lists and inviting communities to collaborate on locking disruptive users out &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220721/p31#a220721p31)
- - [Android is ready for the Pixel Buds Pro’s AirPods-like audio switching trick](https://www.theverge.com/2022/7/21/23273231/android-pixel-buds-pro-audio-automatic-switching-headphones)<!-- TECH:END -->
+ - [How to take a screenshot on an Xbox](https://www.androidauthority.com/share-screenshot-xbox-3189089/)
+ - [Stolen AirPods lead to high-speed chase and arrests](https://appleinsider.com/articles/22/07/21/stolen-airpods-lead-to-high-speed-chase-and-arrests?utm_medium=rss)
+ - [Dungeons &amp; Dragons: Honor Among Thieves looks like a celebrity-filled LARP in first trailer](https://www.theverge.com/2022/7/21/23268392/dungeons-dragons-honor-among-thieves-trailer-sdcc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
