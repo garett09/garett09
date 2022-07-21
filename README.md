@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [It&#39;s all coming together](http://9gag.com/gag/aM4MeMV)
- - 🚯 [Black Magic](http://9gag.com/gag/awzWNp4)
+ - 🚯 [Turtle got stuck on its way to the sea and this bro here help it out &lpar;Utila, Honduras&rpar;](http://9gag.com/gag/aPZb6Yw)
  - 🚯 [Actually scary](http://9gag.com/gag/adgDyR2)<!-- MEMES:END -->
 
 --- 
