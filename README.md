@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s all coming together](http://9gag.com/gag/aM4MeMV)
- - 🚯 [Turtle got stuck on its way to the sea and this bro here help it out &lpar;Utila, Honduras&rpar;](http://9gag.com/gag/aPZb6Yw)
- - 🚯 [Actually scary](http://9gag.com/gag/adgDyR2)<!-- MEMES:END -->
+ - 🚖 [Black Magic](http://9gag.com/gag/awzWNp4)
+ - 🚯 [Psychological Mario](http://9gag.com/gag/a510eNL)
+ - 🚯 [Nice design](http://9gag.com/gag/a31XvXN)<!-- MEMES:END -->
 
 --- 
 
