@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A year after Activision Blizzard’s explosive lawsuit, workers walk once again to ‘end gender inequity’](https://www.polygon.com/23272812/activision-blizzard-gender-equity-lawsuit-walkout-2022)
- - [GTA Online’s summer update is about high temperatures and higher gas prices](https://www.polygon.com/23272827/gta-online-summer-update-criminal-enterprises-details)
- - [These Elden Ring rune farm spots will help you level up in no time](https://www.pcgamer.com/elden-ring-rune-farm-guide)<!-- GAME:END -->
+ - [Fortnite’s Zero Build mode finally pulled me in, and now I can’t escape](https://www.polygon.com/23271397/fortnite-zero-build-battle-royale)
+ - [Dragon Ball’s take on the Dead by Daylight formula is out in October, and here’s Frieza](https://www.polygon.com/23272984/dragon-ball-the-breakers-trailer-frieza-release-date)
+ - [What to Expect in the First Stranger of Paradise Final Fantasy Origin Expansion, Trials of the Dragon King](https://news.xbox.com/en-us/2022/07/21/stranger-of-paradise-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
