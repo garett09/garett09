@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US DOJ arrests an ex-Coinbase product manager for allegedly leaking insider info about tokens before they were listed; sources: Coinbase won&#39;t face charges &lpar;Bloomberg&rpar;](http://www.techmeme.com/220721/p25#a220721p25)
- - [President Joe Biden tests positive for COVID-19](https://www.theverge.com/2022/7/21/23272693/joe-biden-covid-19-positive-test-symptoms-paxlovid)
- - [Activision Blizzard employees walk out again, this time for reproductive protections](https://www.theverge.com/2022/7/21/23272806/activision-blizzard-walkout-roe-v-wade-employee-protections)<!-- TECH:END -->
+ - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)
+ - [Google Pixel 6a review: Nobody &lpar;but Google&rpar; puts Google in a corner](https://www.androidauthority.com/google-pixel-6a-review-3186645/)
+ - [Google&#39;s Pixel 6A Is Smart and Powerful, but the Camera Lags](https://www.wired.com/review/google-pixel-6a/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
