@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
- - 🚯 [Da f**k they doin ova der?! Seriously, I was considering renewing my VISA because I enjoyed LA 10 years ago. But according to 9GAG, California has become one of the worst for this...](http://9gag.com/gag/a81xWjV)
- - 🚯 [Bored?](http://9gag.com/gag/a0ZyPVZ)<!-- MEMES:END -->
+ - 🚯 [I need to know for highly important academic research](http://9gag.com/gag/aLv7KWV)
+ - 🚯 [It&#39;s almost like they are virtue signalling...but im sure politicians and Hollywood celebs would never be fake](http://9gag.com/gag/aggz0vx)<!-- MEMES:END -->
 
 --- 
 
