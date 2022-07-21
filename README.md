@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Major Neopets hack may compromise tens of millions of accounts](https://www.polygon.com/23271922/neopets-hack-2022-breach)
- - [A major NFT collector accidentally spent $150k on his own joke domain name](https://www.pcgamer.com/a-major-nft-collector-accidentally-spent-dollar150k-on-his-own-joke-domain-name)
- - [EA announces the last-ever EA FIFA game and it&#39;s made me weirdly melancholy](https://www.pcgamer.com/ea-announces-the-last-ever-ea-fifa-game-and-its-made-me-weirdly-melancholy)<!-- GAME:END -->
+ - [13 must-watch anime to look out for in the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
+ - [Step right up to Circus Electrique, Zen Studios’ steampunk-circus RPG coming September 6](https://blog.playstation.com/2022/07/21/step-right-up-to-circus-electrique-zen-studios-steampunk-circus-rpg-coming-september-6/)
+ - [I terrorized London with a team of clowns in this upcoming circus tactics game inspired by Darkest Dungeon](https://www.pcgamer.com/i-terrorized-london-with-a-team-of-clowns-in-this-upcoming-circus-tactics-game-inspired-by-darkest-dungeon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
