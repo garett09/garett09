@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teens are rewriting what is possible in the world of competitive Tetris](https://www.polygon.com/23269073/competitive-classic-tetris-ctwc-jonas-neubauer-andy-michael-artiaga)
- - [Ubisoft cancels Ghost Recon battle royale and Splinter Cell VR](https://www.pcgamer.com/ubisoft-cancels-ghost-recon-battle-royale-and-splinter-cell-vr)
- - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)<!-- GAME:END -->
+ - [Lots of Content, Lots of Logging – Farming Simulator 22 is Growing](https://news.xbox.com/en-us/2022/07/21/lots-of-content-lots-of-logging-farming-simulator-22-is-growing/)
+ - [FIFA 23 will not have Russian teams, EA confirms](https://www.pcgamer.com/fifa-23-will-not-have-russian-teams-ea-confirms)
+ - [Even GTA Online can&#39;t escape high gas prices and record-breaking heat](https://www.pcgamer.com/even-gta-online-cant-escape-high-gas-prices-and-record-breaking-heat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
