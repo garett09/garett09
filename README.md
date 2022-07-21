@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)
- - [Every Elden Ring map fragment and where to find them](https://www.pcgamer.com/elden-ring-map-fragments-locations)
- - [Newegg&#39;s GPU-focused mini site is &#39;reducing the hassle and frustration&#39; of buying a graphics card](https://www.pcgamer.com/neweggs-gpu-focused-mini-site-is-reducing-the-hassle-and-frustration-of-buying-a-graphics-card)<!-- GAME:END -->
+ - [Major Neopets hack may compromise tens of millions of accounts](https://www.polygon.com/23271922/neopets-hack-2022-breach)
+ - [A major NFT collector accidentally spent $150k on his own joke domain name](https://www.pcgamer.com/a-major-nft-collector-accidentally-spent-dollar150k-on-his-own-joke-domain-name)
+ - [EA announces the last-ever EA FIFA game and it&#39;s made me weirdly melancholy](https://www.pcgamer.com/ea-announces-the-last-ever-ea-fifa-game-and-its-made-me-weirdly-melancholy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
