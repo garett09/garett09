@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to take a screenshot on an Xbox](https://www.androidauthority.com/share-screenshot-xbox-3189089/)
- - [Stolen AirPods lead to high-speed chase and arrests](https://appleinsider.com/articles/22/07/21/stolen-airpods-lead-to-high-speed-chase-and-arrests?utm_medium=rss)
- - [Dungeons &amp; Dragons: Honor Among Thieves looks like a celebrity-filled LARP in first trailer](https://www.theverge.com/2022/7/21/23268392/dungeons-dragons-honor-among-thieves-trailer-sdcc)<!-- TECH:END -->
+ - [Google’s adding the app permissions section back to the Play Store after removing it](https://www.theverge.com/2022/7/21/23273288/google-play-store-permissions-section-data-safety-reenabled)
+ - [Nobody knows what’s in Pink Sauce, TikTok’s latest viral product](https://www.theverge.com/2022/7/21/23273221/pink-sauce-tiktok-viral-product-mystery-condiment)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
