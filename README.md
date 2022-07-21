@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Google Pixel 5a still good?](https://www.androidauthority.com/daily-authority-july-21-2022-3188735/)
- - [Anyone can now share Twitter Spaces clips on iOS and Android](https://www.theverge.com/2022/7/21/23272456/twitter-spaces-clipping-ios-android-widespread-rollout)
- - [It looks like a 5-way fight for the lead in India’s smartphone market](https://www.androidauthority.com/india-q2-2022-market-share-3188741/)<!-- TECH:END -->
+ - [This Hardcore Band Is a Product of the Internet—in the Best Way](https://www.wired.com/story/turnstile-most-internet-band-ever/)
+ - [A Tool for Fighting Superbugs Has Been Found Deep in the Desert](https://www.wired.com/story/desert-bacterium-fighting-superbugs/)
+ - [Tech Industry Layoffs May Undo Workforce Diversity Gains](https://www.wired.com/story/tech-layoffs-diversity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
