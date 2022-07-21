@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Microsoft agree to &#39;rubbery&#39; new content law in Indonesia](https://appleinsider.com/articles/22/07/21/apple-microsoft-agree-to-rubbery-new-content-law-in-indonesia?utm_medium=rss)
- - [15Five, which builds HR software used at Spotify, Credit Karma, and other companies, has raised a $52M Series C led by Quad Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220721/p14#a220721p14)
- - [Jason Calacanis says litigation, and possibly criminal charges, await the companies and &quot;grifting&quot; VCs that knowingly flipped crypto tokens to retail investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/220721/p13#a220721p13)<!-- TECH:END -->
+ - [How to do event planning on a Mac](https://appleinsider.com/inside/macos/tips/how-to-do-event-planning-on-a-mac?utm_medium=rss)
+ - [Warner Music Group becomes the first major label to adopt SoundCloud&#39;s user-centric payouts instead of the pro rata model used by Spotify &lpar;Dylan Smith/Digital Music News&rpar;](http://www.techmeme.com/220721/p18#a220721p18)
+ - [Facebook splits News Feed on iOS and Android into TikTok-style Home, with recommended content, and Feeds, a chronological feed of pages and people users follow &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220721/p17#a220721p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
