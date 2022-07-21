@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to do event planning on a Mac](https://appleinsider.com/inside/macos/tips/how-to-do-event-planning-on-a-mac?utm_medium=rss)
- - [Warner Music Group becomes the first major label to adopt SoundCloud&#39;s user-centric payouts instead of the pro rata model used by Spotify &lpar;Dylan Smith/Digital Music News&rpar;](http://www.techmeme.com/220721/p18#a220721p18)
- - [Facebook splits News Feed on iOS and Android into TikTok-style Home, with recommended content, and Feeds, a chronological feed of pages and people users follow &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220721/p17#a220721p17)<!-- TECH:END -->
+ - [Live A Live is an experimental short story collection disguised as a classic RPG](https://www.theverge.com/2022/7/21/23271592/live-a-live-review-nintendo-switch)
+ - [Framework Laptop &lpar;2022&rpar; review: promises kept](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
+ - [Stockholm-based Normative, whose software helps companies accurately measure their carbon footprints, has raised a $31M Series B led by Blume Equity &lpar;Benjamin Robertson/Bloomberg&rpar;](http://www.techmeme.com/220721/p19#a220721p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
