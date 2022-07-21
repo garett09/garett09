@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anyone can take new public Instagram photos and turn them into a Reel](https://www.theverge.com/2022/7/21/23273032/instagram-reels-public-photo-remixing)
- - [Yes, crypto Twitter, the Southern District of New York is reading your tweets](https://www.theverge.com/2022/7/21/23273103/crypto-coinbase-insider-trading-sdny-never-tweet)
- - [Instagram says new video posts shorter than 15 minutes will be shared as Reels, and those under 90 seconds from public accounts will be recommended to others &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220721/p29#a220721p29)<!-- TECH:END -->
+ - [Lyft Rentals shuts down as the ride-sharing company lays off about 60 people](https://www.theverge.com/2022/7/21/23273092/lyft-rentals-layoffs-car-ride-sharing-transportation)
+ - [Twitch is rolling out new moderator tools, including letting channels swap ban lists and inviting communities to collaborate on locking disruptive users out &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220721/p31#a220721p31)
+ - [Android is ready for the Pixel Buds Pro’s AirPods-like audio switching trick](https://www.theverge.com/2022/7/21/23273231/android-pixel-buds-pro-audio-automatic-switching-headphones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
