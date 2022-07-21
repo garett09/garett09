@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*The Cat game launches*](http://9gag.com/gag/aM4L33M)
- - 🚯 [I knew things were bad but not this bad](http://9gag.com/gag/aggeRpw)
- - 🚯 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
+ - 🚖 [Xu Xiadong is a Chinese MMA fighter who fought around the mainland to expose fake kung fu masters](http://9gag.com/gag/aZrY9o0)
+ - 🚯 [Why I don&#39;t want to be cryogenically frozen. &lpar;1:34&rpar;](http://9gag.com/gag/amgZD9j)
+ - 🚯 [Big Ghey](http://9gag.com/gag/a31XvdQ)<!-- MEMES:END -->
 
 --- 
 
