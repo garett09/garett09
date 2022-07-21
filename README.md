@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is Netflix suddenly so desperate?](https://www.polygon.com/23272747/netflix-subscribers-cancellation-competition)
- - [Feast your eyes on the first teaser for Teen Wolf: The Movie](https://www.polygon.com/sdcc/23273468/feast-your-eyes-on-the-first-teaser-for-teen-wolf-the-movie)
- - [Sarah Michelle Gellar trades vampires for werewolves, joins the Teen Wolf universe](https://www.polygon.com/sdcc/23273490/teen-wolf-universe-sarah-michelle-gellar-sdcc)<!-- GAME:END -->
+ - [Stray Has Some Annoying Hiccups On PC](https://kotaku.com/stray-cat-ps5-pc-unreal-engine-4-stutter-performance-1849317334)
+ - [Gotham Knights’ Batgirl trailer shows Barbara Gordon stepping in to fill the Batman void](https://www.polygon.com/sdcc/23269208/gotham-knights-batgirl-barbara-gordon-sdcc-trailer-batman)
+ - [Magic&#39;s next set brings back Legends in a big way](https://www.pcgamer.com/magics-next-set-brings-back-legends-in-a-big-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
