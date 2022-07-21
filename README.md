@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Hardcore Band Is a Product of the Internet—in the Best Way](https://www.wired.com/story/turnstile-most-internet-band-ever/)
- - [A Tool for Fighting Superbugs Has Been Found Deep in the Desert](https://www.wired.com/story/desert-bacterium-fighting-superbugs/)
- - [Tech Industry Layoffs May Undo Workforce Diversity Gains](https://www.wired.com/story/tech-layoffs-diversity/)<!-- TECH:END -->
+ - [Apple &amp; Microsoft agree to &#39;rubbery&#39; new content law in Indonesia](https://appleinsider.com/articles/22/07/21/apple-microsoft-agree-to-rubbery-new-content-law-in-indonesia?utm_medium=rss)
+ - [15Five, which builds HR software used at Spotify, Credit Karma, and other companies, has raised a $52M Series C led by Quad Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220721/p14#a220721p14)
+ - [Jason Calacanis says litigation, and possibly criminal charges, await the companies and &quot;grifting&quot; VCs that knowingly flipped crypto tokens to retail investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/220721/p13#a220721p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
