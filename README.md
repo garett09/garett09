@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mild Shock](http://9gag.com/gag/ajgeYjq)
- - 🚯 [F**king sad how a woman can completely f**k-up her face.](http://9gag.com/gag/aGz4KpZ)
- - 🚯 [Old but gold.](http://9gag.com/gag/a31XPW5)<!-- MEMES:END -->
+ - 🚖 [Old but gold.](http://9gag.com/gag/a31XPW5)
+ - 🚯 [A next level idiot](http://9gag.com/gag/a61Ymo2)
+ - 🚯 [Sweet victory](http://9gag.com/gag/aYrXbWN)<!-- MEMES:END -->
 
 --- 
 
