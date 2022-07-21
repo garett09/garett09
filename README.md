@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
- - 🚯 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)
- - 🚯 [*The Cat game launches*](http://9gag.com/gag/aM4L33M)<!-- MEMES:END -->
+ - 🚖 [*The Cat game launches*](http://9gag.com/gag/aM4L33M)
+ - 🚯 [I knew things were bad but not this bad](http://9gag.com/gag/aggeRpw)
+ - 🚯 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
 
 --- 
 
