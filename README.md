@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sweet victory](http://9gag.com/gag/aYrXbWN)
- - 🚯 [Legend.](http://9gag.com/gag/a31XP5N)
- - 🚯 [Who are you, who are so wise in the Ways of Science?](http://9gag.com/gag/aWg3Qd3)<!-- MEMES:END -->
+ - 🚯 [Who are you, who are so wise in the Ways of Science?](http://9gag.com/gag/aWg3Qd3)
+ - 🚯 [Skills](http://9gag.com/gag/aNPEenw)<!-- MEMES:END -->
 
 --- 
 
