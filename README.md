@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unhealthy and unattractive](http://9gag.com/gag/aYrXNnw)
- - 🚯 [Smooth](http://9gag.com/gag/aDDewZB)
- - 🚯 [Gladiator](http://9gag.com/gag/awzWbnx)<!-- MEMES:END -->
+ - 🚖 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
+ - 🚯 [Da f**k they doin ova der?! Seriously, I was considering renewing my VISA because I enjoyed LA 10 years ago. But according to 9GAG, California has become one of the worst for this...](http://9gag.com/gag/a81xWjV)
+ - 🚯 [Bored?](http://9gag.com/gag/a0ZyPVZ)<!-- MEMES:END -->
 
 --- 
 
