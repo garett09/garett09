@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trans Streamer Keffals Says Twitch Banned Her For &#39;Openly Talking&#39; About Abuse She Receives](https://kotaku.com/twitch-ban-keffals-destiny-trans-hate-speech-slur-1849315462)
- - [Neopets Hacker Steals 69 Million Accounts, Tries To Sell Them For Bitcoin](https://kotaku.com/neopets-hacker-breach-data-pets-bitcoin-theft-crime-1849315409)
- - [San Diego Comic-Con 2022](https://www.polygon.com/sdcc/23186970/san-diego-comic-con-2022)<!-- GAME:END -->
+ - [Teens are rewriting what is possible in the world of competitive Tetris](https://www.polygon.com/23269073/competitive-classic-tetris-ctwc-jonas-neubauer-andy-michael-artiaga)
+ - [Ubisoft cancels Ghost Recon battle royale and Splinter Cell VR](https://www.pcgamer.com/ubisoft-cancels-ghost-recon-battle-royale-and-splinter-cell-vr)
+ - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
