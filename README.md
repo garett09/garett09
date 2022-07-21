@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)
- - [Google Pixel 6a review: Nobody &lpar;but Google&rpar; puts Google in a corner](https://www.androidauthority.com/google-pixel-6a-review-3186645/)
- - [Google&#39;s Pixel 6A Is Smart and Powerful, but the Camera Lags](https://www.wired.com/review/google-pixel-6a/)<!-- TECH:END -->
+ - [Instagram is making almost all videos Reels and will show them to way more people](https://www.theverge.com/2022/7/21/23273022/instagram-reels-videos-same-picture-remix-facebook-tiktok)
+ - [Mysterious pro-Kari Lake PAC paid fake elector $2 million for ads and promotion](https://www.theverge.com/2022/7/21/23273007/kari-lake-arizona-governor-jake-hoffman-karrin-taylor-robson-rally-forge-pac)
+ - [Whatnot, a livestreaming service for buying and selling collectibles, has raised a $260M Series D at a $3.7B valuation, up from $1.5B in September 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220721/p28#a220721p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
