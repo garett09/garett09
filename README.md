@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New trailer for Rings of Power brings battles and one familiar flaming enemy](https://www.polygon.com/sdcc/23271748/lord-of-the-rings-lotr-rings-of-power-sauron-trailer-exclusive-look)
- - [Atlanta’s final season is coming in September](https://www.polygon.com/23274473/atlanta-season-4-release-date-teaser)
- - [Top 10 Pokémon That Should Die](https://kotaku.com/pokemon-scarlet-violet-die-raticate-croconaw-quaxly-1849319498)<!-- GAME:END -->
+ - [There are still forgotten &#39;90s shooters being added to Steam](https://www.pcgamer.com/there-are-still-forgotten-90s-shooters-being-added-to-steam)
+ - [All my favorite movie gags are now BeReal memes](https://www.polygon.com/23274478/bereal-memes-twilight-midsommar-ratatouille)
+ - [Rick and Morty, LeBron James join MultiVersus next week](https://www.pcgamer.com/rick-and-morty-lebron-james-join-multiversus-next-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
