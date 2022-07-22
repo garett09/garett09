@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Medina Haram Piazza Shading Umbrellas](http://9gag.com/gag/abgnq7B)
- - 🚯 [Gladiator](http://9gag.com/gag/awzWbnx)
- - 🚯 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)<!-- MEMES:END -->
+ - 🚖 [Smooth](http://9gag.com/gag/aDDewZB)
+ - 🚯 [Bored?](http://9gag.com/gag/a0ZyPVZ)
+ - 🚯 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
 
 --- 
 
