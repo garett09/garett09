@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
- - 🚯 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
- - 🚯 [Multiverse of chrises](http://9gag.com/gag/a41OZV6)<!-- MEMES:END -->
+ - 🚖 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
+ - 🚯 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
+ - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)<!-- MEMES:END -->
 
 --- 
 
