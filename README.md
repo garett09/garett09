@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone deserves to make a living](http://9gag.com/gag/aOQLbnv)
- - 🚯 [He is right](http://9gag.com/gag/awzWKyy)
- - 🚯 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)<!-- MEMES:END -->
+ - 🚖 [I wanna equality, but le me choose where I want it.](http://9gag.com/gag/aAGzprE)
+ - 🚯 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)
+ - 🚯 [Evergreen oak tree located in Italy](http://9gag.com/gag/a81xMbV)<!-- MEMES:END -->
 
 --- 
 
