@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)
- - 🚯 [That&#39;s pretty cool](http://9gag.com/gag/axBqG8n)
- - 🚯 [Evergreen oak tree located in Italy](http://9gag.com/gag/a81xMbV)<!-- MEMES:END -->
+ - 🚖 [This game could be more fun for the boys!](http://9gag.com/gag/aOQLVGr)
+ - 🚯 [This is the first imagery we have of tiny cuboid crystals made of tens of molecules of NaCl emerging from the chaotic mixture of separate sodium and chloride ions. In other words, the first-ever atomic resolution video of salt crystals forming in real time](http://9gag.com/gag/aAGz1VZ)
+ - 🚯 [Mike and Chester pulling Breaking The Habit on piano because the rest of the band was late &lpar;Toronto, 2008&rpar;. This is the only recording of it in existence.](http://9gag.com/gag/aQXW85r)<!-- MEMES:END -->
 
 --- 
 
