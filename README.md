@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg and Sheryl Sandberg set to be deposed about Cambridge Analytica](https://www.theverge.com/2022/7/22/23274364/mark-zuckerberg-sheryl-sandberg-deposed-cambridge-analytica-meta-leadership-facebook)
- - [Instacart co-founder Apoorva Mehta, who stepped down as CEO in 2021, says he&#39;ll step down as Executive Chairman and leave the board once the company goes public &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220722/p14#a220722p14)
- - [How macOS Ventura&#39;s background removal compares to Photoshop &amp; Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Fitbit Sense 2 photos show the capacitive button is dead](https://www.theverge.com/2022/7/22/23274463/fitbit-sense-2-versa-4-leaked-photos-buttons)
+ - [How to remove and replace side plates on a PS5](https://www.androidauthority.com/remove-ps5-plates-3189567/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
