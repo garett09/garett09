@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There are still forgotten &#39;90s shooters being added to Steam](https://www.pcgamer.com/there-are-still-forgotten-90s-shooters-being-added-to-steam)
- - [All my favorite movie gags are now BeReal memes](https://www.polygon.com/23274478/bereal-memes-twilight-midsommar-ratatouille)
- - [Rick and Morty, LeBron James join MultiVersus next week](https://www.pcgamer.com/rick-and-morty-lebron-james-join-multiversus-next-week)<!-- GAME:END -->
+ - [X-Men ’97 reveals Magneto as new leader, plus season 2 on tap](https://www.polygon.com/sdcc/23270629/x-men-97-release-date-season-2-disney-plus-sdcc-2022)
+ - [First trailer for Tales of the Walking Dead reveals new sides of the zombie-filled world](https://www.polygon.com/sdcc/23220130/tales-walking-dead-trailer-anthology)
+ - [Bright Memory: Infinite Platinum Edition is Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/07/22/bright-memory-infinite-platinum-edition-is-now-available-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
