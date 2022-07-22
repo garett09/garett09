@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is time to bring up this meme...](http://9gag.com/gag/a113YQY)
- - 🚯 [Work or Starve](http://9gag.com/gag/aVxyXx8)
+ - 🚖 [Everyone deserves to make a living](http://9gag.com/gag/aOQLbnv)
+ - 🚯 [He is right](http://9gag.com/gag/awzWKyy)
  - 🚯 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)<!-- MEMES:END -->
 
 --- 
