@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD accidentally releases marketing video for its own version of Nvidia&#39;s RTX Voice](https://www.pcgamer.com/amd-accidentally-releases-marketing-video-for-its-own-version-of-nvidias-rtx-voice)
- - [Capcom Arcade 2nd Stadium Slams Down with 32 More Arcade Classics](https://news.xbox.com/en-us/2022/07/22/capcom-arcade-2nd-stadium-available-now/)
- - [How to get the blocked chests in Xinyan’s domain in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23274295/xinyan-domain-luxurious-chest-vines-blocked-location-puzzle-solution)<!-- GAME:END -->
+ - [New trailer for Rings of Power brings battles and one familiar flaming enemy](https://www.polygon.com/sdcc/23271748/lord-of-the-rings-lotr-rings-of-power-sauron-trailer-exclusive-look)
+ - [Atlanta’s final season is coming in September](https://www.polygon.com/23274473/atlanta-season-4-release-date-teaser)
+ - [Top 10 Pokémon That Should Die](https://kotaku.com/pokemon-scarlet-violet-die-raticate-croconaw-quaxly-1849319498)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
