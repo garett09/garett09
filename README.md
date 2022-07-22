@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
- - 🚯 [Pay to play](http://9gag.com/gag/aE8mGYN)
- - 🚯 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
+ - 🚖 [Medina Haram Piazza Shading Umbrellas](http://9gag.com/gag/abgnq7B)
+ - 🚯 [Gladiator](http://9gag.com/gag/awzWbnx)
+ - 🚯 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)<!-- MEMES:END -->
 
 --- 
 
