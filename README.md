@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Russian Teams Won&#39;t Be In FIFA 23](https://kotaku.com/russia-fifa-23-ban-removed-ukraine-war-invasion-1849317507)
- - [How Naughty Dog rebuilt The Last of Us Part I](https://blog.playstation.com/2022/07/21/how-naughty-dog-rebuilt-the-last-of-us-part-i/)<!-- GAME:END -->
+ - [Take one guess as to why people are mad about the new free-to-play Marvel CCG](https://www.pcgamer.com/take-one-guess-as-to-why-people-are-mad-about-the-new-free-to-play-marvel-ccg)
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
