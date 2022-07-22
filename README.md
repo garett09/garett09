@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Has Some Annoying Hiccups On PC](https://kotaku.com/stray-cat-ps5-pc-unreal-engine-4-stutter-performance-1849317334)
- - [Gotham Knights’ Batgirl trailer shows Barbara Gordon stepping in to fill the Batman void](https://www.polygon.com/sdcc/23269208/gotham-knights-batgirl-barbara-gordon-sdcc-trailer-batman)
- - [Magic&#39;s next set brings back Legends in a big way](https://www.pcgamer.com/magics-next-set-brings-back-legends-in-a-big-way)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Russian Teams Won&#39;t Be In FIFA 23](https://kotaku.com/russia-fifa-23-ban-removed-ukraine-war-invasion-1849317507)
+ - [How Naughty Dog rebuilt The Last of Us Part I](https://blog.playstation.com/2022/07/21/how-naughty-dog-rebuilt-the-last-of-us-part-i/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
