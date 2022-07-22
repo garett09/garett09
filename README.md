@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smooth](http://9gag.com/gag/aDDewZB)
- - 🚯 [Bored?](http://9gag.com/gag/a0ZyPVZ)
- - 🚯 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
+ - 🚖 [Poor horse](http://9gag.com/gag/aGz4RyK)
+ - 🚯 [Based Ana de Armas](http://9gag.com/gag/a113enP)
+ - 🚯 [Work or Starve](http://9gag.com/gag/aVxyXx8)<!-- MEMES:END -->
 
 --- 
 
