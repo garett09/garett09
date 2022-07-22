@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn these teenies.](http://9gag.com/gag/a61Y7yb)
- - 🚯 [Johnny B. Goode &lpar;Live in NY w/ Michael J. Fox&rpar; and Coldplay!](http://9gag.com/gag/a81x4We)
- - 🚯 [Shocking.](http://9gag.com/gag/aKmoqnZ)<!-- MEMES:END -->
+ - 🚖 [The orville, it started as parrody and it is actually better. Thoughts?](http://9gag.com/gag/aE8m7rO)
+ - 🚯 [Shocking.](http://9gag.com/gag/aKmoqnZ)
+ - 🚯 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)<!-- MEMES:END -->
 
 --- 
 
