@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trump vs Obama](http://9gag.com/gag/awzW5n4)
- - 🚯 [So this is the power of ultra instinct?](http://9gag.com/gag/aZrOBpX)
- - 🚯 [Multiverse of chrises](http://9gag.com/gag/a41OZV6)<!-- MEMES:END -->
+ - 🚖 [Hold TF UP](http://9gag.com/gag/aWg3mP6)
+ - 🚯 [When your girl is mad at you](http://9gag.com/gag/amg4YO9)
+ - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)<!-- MEMES:END -->
 
 --- 
 
