@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
- - 🚯 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
- - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)<!-- MEMES:END -->
+ - 🚖 [Does he have a good point or nah?](http://9gag.com/gag/a81xyMQ)
+ - 🚯 [Trump vs Obama](http://9gag.com/gag/awzW5n4)
+ - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/azeprMx)<!-- MEMES:END -->
 
 --- 
 
