@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter reiterates its estimate that the average of false or spam accounts represented fewer than 5% of MAUs in Q2 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/220722/p6#a220722p6)
- - [Games like Stray and Endling are creating more realistic animals](https://www.theverge.com/2022/7/22/23272850/stray-endling-video-game-animals)
- - [Twitter says ad revenue grew 2% to $1.08B in Q2 and blames its revenue slide on uncertainty around the Elon Musk acquisition and ad industry problems &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220722/p5#a220722p5)<!-- TECH:END -->
+ - [Lawmakers urge the Senate to hold a vote on Big Tech antitrust legislation](https://appleinsider.com/articles/22/07/22/lawmakers-urge-the-senate-to-hold-a-vote-on-big-tech-antitrust-legislation?utm_medium=rss)
+ - [How macOS Ventura&#39;s background removal compares to Photoshop &amp; Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)
+ - [The Verge’s back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
