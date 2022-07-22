@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro-Russia authorities will ban Google in occupied regions of Ukraine](https://www.theverge.com/2022/7/22/23274134/google-banned-occupied-ukraine-russia-war-donetsk-luhansk)
- - [What is spatial audio? We explain what it is, and what hardware supports it](https://www.androidauthority.com/what-is-spatial-audio-3188080/)
- - [California approves new rules to let candidates for state and local offices accept cryptocurrency donations if they immediately convert them to US dollars &lpar;Associated Press&rpar;](http://www.techmeme.com/220722/p10#a220722p10)<!-- TECH:END -->
+ - [What record-low water levels at the Hoover Dam reservoir look like from space](https://www.theverge.com/2022/7/22/23274082/lake-mead-record-low-nasa-satellite-images-hoover-dam-reservoir)
+ - [Meta introduces a Mature Worlds Policy for Horizon, a new content rating system which will default to 18+ if creators do not apply for a rating &lpar;Harry Baker/UploadVR&rpar;](http://www.techmeme.com/220722/p12#a220722p12)
+ - [If you have one of these Thread border routers, your smart home will be Matter-ready](https://www.theverge.com/2022/7/19/23269460/thread-1-3-0-matter-border-routers-homepod-mini-echo-nest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
