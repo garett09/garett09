@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor horse](http://9gag.com/gag/aGz4RyK)
- - 🚯 [Based Ana de Armas](http://9gag.com/gag/a113enP)
- - 🚯 [Work or Starve](http://9gag.com/gag/aVxyXx8)<!-- MEMES:END -->
+ - 🚖 [Based Ana de Armas](http://9gag.com/gag/a113enP)
+ - 🚯 [Friends&gt; himym](http://9gag.com/gag/aeg8pW5)
+ - 🚯 [It is time to bring up this meme...](http://9gag.com/gag/a113YQY)<!-- MEMES:END -->
 
 --- 
 
