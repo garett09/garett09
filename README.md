@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)
+ - 🚖 [It is what it is](http://9gag.com/gag/aXr6wwD)
  - 🚯 [Shocking.](http://9gag.com/gag/aKmoqnZ)
- - 🚯 [If we discovered oil on Mars](http://9gag.com/gag/aBnBY0z)<!-- MEMES:END -->
+ - 🚯 [Mike and Chester pulling Breaking The Habit on piano because the rest of the band was late &lpar;Toronto, 2008&rpar;. This is the only recording of it in existence.](http://9gag.com/gag/aQXW85r)<!-- MEMES:END -->
 
 --- 
 
