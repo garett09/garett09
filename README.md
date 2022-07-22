@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home, i&#39;m going home.](http://9gag.com/gag/avAKPYW)
- - 🚯 [Trump vs Obama](http://9gag.com/gag/awzW5n4)
- - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/azeprMx)<!-- MEMES:END -->
+ - 🚖 [Mysterious red glow seen over the Atlantic, pilot says he\u2019s never seen anything like it. Via July 2022.](http://9gag.com/gag/aWg3Mj2)
+ - 🚯 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
+ - 🚯 [Sounds about Right](http://9gag.com/gag/aXr6Anv)<!-- MEMES:END -->
 
 --- 
 
