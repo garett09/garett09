@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The orville, it started as parrody and it is actually better. Thoughts?](http://9gag.com/gag/aE8m7rO)
+ - 🚖 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)
  - 🚯 [Shocking.](http://9gag.com/gag/aKmoqnZ)
- - 🚯 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)<!-- MEMES:END -->
+ - 🚯 [If we discovered oil on Mars](http://9gag.com/gag/aBnBY0z)<!-- MEMES:END -->
 
 --- 
 
