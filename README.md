@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is what it is](http://9gag.com/gag/aXr6wwD)
- - 🚯 [Shocking.](http://9gag.com/gag/aKmoqnZ)
- - 🚯 [Mike and Chester pulling Breaking The Habit on piano because the rest of the band was late &lpar;Toronto, 2008&rpar;. This is the only recording of it in existence.](http://9gag.com/gag/aQXW85r)<!-- MEMES:END -->
+ - 🚖 [Home, i&#39;m going home.](http://9gag.com/gag/avAKPYW)
+ - 🚯 [Trump vs Obama](http://9gag.com/gag/awzW5n4)
+ - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/azeprMx)<!-- MEMES:END -->
 
 --- 
 
