@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Prince returns to Netflix with a time skip this winter](https://www.polygon.com/sdcc/23274111/the-dragon-prince-season-4-netflix-footage-release-date-sdcc)
- - [New report asks why Wallpaper Engine is such a hit in China, and turns out it&#39;s porn](https://www.pcgamer.com/new-report-asks-why-wallpaper-engine-is-such-a-hit-in-china-and-turns-out-its-porn)
- - [Stray: How to unlock the atomic battery](https://www.pcgamer.com/stray-how-to-get-atomic-battery)<!-- GAME:END -->
+ - [Kirby’s Avalanche and an obscure NES game come to Nintendo Switch Online](https://www.polygon.com/23274242/nintendo-switch-online-new-games-kirbys-avalanche-nes-snes)
+ - [Be quiet! Pure Power 11 FM 550W](https://www.pcgamer.com/be-quiet-pure-power-11-fm-550w-psu-review)
+ - [‘Are you still playing?’: What the future holds for Netflix’s Interactive Entertainment](https://www.polygon.com/23272871/netflix-interactive-entertainment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
