@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s turf war over Chicago&#39;s &#39;Netflix tax&#39; ends in settlement](https://appleinsider.com/articles/22/07/21/apples-turf-war-over-chicagos-netflix-tax-ends-in-settlement?utm_medium=rss)
- - [Hashflow, a DeFi trading app, raised a $25M Series A from Jump Crypto, Wintermute, and the VC arms of Coinbase and Kraken, among others, at a $400M valuation &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220721/p35#a220721p35)
- - [Google’s adding the app permissions section back to the Play Store after removing it](https://www.theverge.com/2022/7/21/23273288/google-play-store-permissions-section-data-safety-reenabled)<!-- TECH:END -->
+ - [Tesla Sold $936M of Bitcoin, Kept its Dogecoin Reserves     - CNET](https://www.cnet.com/personal-finance/tesla-sold-936m-of-bitcoin-kept-its-dogecoin-reserves/#ftag=CAD590a51e)
+ - [Flash deal: M2 MacBook Pro with AppleCare drops to $1,325 &lpar;$223 off&rpar;](https://appleinsider.com/articles/22/07/22/flash-deal-m2-macbook-pro-with-applecare-drops-to-1325-223-off?utm_medium=rss)
+ - [Nearly 200 US rural carriers are saddled with Huawei and ZTE gear they can&#39;t afford to replace without promised Congress funds, which aren&#39;t coming fast enough &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220721/p37#a220721p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
