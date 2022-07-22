@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Much Power Does Batman Need for His Ascender Gun?](https://www.wired.com/story/how-much-power-does-batman-need-for-his-ascender-gun/)
- - [Finally, a Smart Air Fryer We Actually Like](https://www.wired.com/review/breville-joule-oven-air-fryer-pro/)
- - [For Kids in the Hospital, Video Games Are Part of Recovery](https://www.wired.com/story/kids-video-games-gaming-specialists-pediatrics-childs-play/)<!-- TECH:END -->
+ - [Twitter reiterates its estimate that the average of false or spam accounts represented fewer than 5% of MAUs in Q2 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/220722/p6#a220722p6)
+ - [Games like Stray and Endling are creating more realistic animals](https://www.theverge.com/2022/7/22/23272850/stray-endling-video-game-animals)
+ - [Twitter says ad revenue grew 2% to $1.08B in Q2 and blames its revenue slide on uncertainty around the Elon Musk acquisition and ad industry problems &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220722/p5#a220722p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
