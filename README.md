@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby’s Avalanche and an obscure NES game come to Nintendo Switch Online](https://www.polygon.com/23274242/nintendo-switch-online-new-games-kirbys-avalanche-nes-snes)
- - [Be quiet! Pure Power 11 FM 550W](https://www.pcgamer.com/be-quiet-pure-power-11-fm-550w-psu-review)
- - [‘Are you still playing?’: What the future holds for Netflix’s Interactive Entertainment](https://www.polygon.com/23272871/netflix-interactive-entertainment)<!-- GAME:END -->
+ - [AMD accidentally releases marketing video for its own version of Nvidia&#39;s RTX Voice](https://www.pcgamer.com/amd-accidentally-releases-marketing-video-for-its-own-version-of-nvidias-rtx-voice)
+ - [Capcom Arcade 2nd Stadium Slams Down with 32 More Arcade Classics](https://news.xbox.com/en-us/2022/07/22/capcom-arcade-2nd-stadium-available-now/)
+ - [How to get the blocked chests in Xinyan’s domain in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23274295/xinyan-domain-luxurious-chest-vines-blocked-location-puzzle-solution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
