@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers urge the Senate to hold a vote on Big Tech antitrust legislation](https://appleinsider.com/articles/22/07/22/lawmakers-urge-the-senate-to-hold-a-vote-on-big-tech-antitrust-legislation?utm_medium=rss)
- - [How macOS Ventura&#39;s background removal compares to Photoshop &amp; Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)
- - [The Verge’s back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)<!-- TECH:END -->
+ - [What is spatial audio? We explain what it is, and what hardware supports it](https://www.androidauthority.com/what-is-spatial-audio-we-explain-what-it-is-and-what-hardware-supports-it-3188080/)
+ - [‘Samsung owes me $45,000 in trade-in credit’ says ticked-off customer](https://www.androidauthority.com/samsung-trade-in-credit-story-3189461/)
+ - [Razer is dangling features behind a $30 dongle](https://www.theverge.com/2022/7/22/23271987/razer-hyperpolling-dongle-adapter-gaming-mouse-viper-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
