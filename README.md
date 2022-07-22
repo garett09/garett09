@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use themes in Windows 11 for a more personal desktop experience](https://www.androidauthority.com/themes-windows-11-3184866/)
- - [OnePlus Nord 2T review: Second tier](https://www.androidauthority.com/oneplus-nord-2t-review-3183181/)
- - [Daily Authority: 📲 Google Pixel 6a reviews are in](https://www.androidauthority.com/daily-authority-july-22-2022-3188961/)<!-- TECH:END -->
+ - [How Much Power Does Batman Need for His Ascender Gun?](https://www.wired.com/story/how-much-power-does-batman-need-for-his-ascender-gun/)
+ - [Finally, a Smart Air Fryer We Actually Like](https://www.wired.com/review/breville-joule-oven-air-fryer-pro/)
+ - [For Kids in the Hospital, Video Games Are Part of Recovery](https://www.wired.com/story/kids-video-games-gaming-specialists-pediatrics-childs-play/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
