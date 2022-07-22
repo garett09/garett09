@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is spatial audio? We explain what it is, and what hardware supports it](https://www.androidauthority.com/what-is-spatial-audio-we-explain-what-it-is-and-what-hardware-supports-it-3188080/)
- - [‘Samsung owes me $45,000 in trade-in credit’ says ticked-off customer](https://www.androidauthority.com/samsung-trade-in-credit-story-3189461/)
- - [Razer is dangling features behind a $30 dongle](https://www.theverge.com/2022/7/22/23271987/razer-hyperpolling-dongle-adapter-gaming-mouse-viper-pro)<!-- TECH:END -->
+ - [Pro-Russia authorities will ban Google in occupied regions of Ukraine](https://www.theverge.com/2022/7/22/23274134/google-banned-occupied-ukraine-russia-war-donetsk-luhansk)
+ - [What is spatial audio? We explain what it is, and what hardware supports it](https://www.androidauthority.com/what-is-spatial-audio-3188080/)
+ - [California approves new rules to let candidates for state and local offices accept cryptocurrency donations if they immediately convert them to US dollars &lpar;Associated Press&rpar;](http://www.techmeme.com/220722/p10#a220722p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
