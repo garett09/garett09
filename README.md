@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)
- - 🚯 [Friends&gt; himym](http://9gag.com/gag/aeg8pW5)
- - 🚯 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)<!-- MEMES:END -->
+ - 🚖 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)
+ - 🚯 [That&#39;s pretty cool](http://9gag.com/gag/axBqG8n)
+ - 🚯 [Evergreen oak tree located in Italy](http://9gag.com/gag/a81xMbV)<!-- MEMES:END -->
 
 --- 
 
