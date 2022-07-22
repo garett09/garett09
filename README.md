@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What record-low water levels at the Hoover Dam reservoir look like from space](https://www.theverge.com/2022/7/22/23274082/lake-mead-record-low-nasa-satellite-images-hoover-dam-reservoir)
- - [Meta introduces a Mature Worlds Policy for Horizon, a new content rating system which will default to 18+ if creators do not apply for a rating &lpar;Harry Baker/UploadVR&rpar;](http://www.techmeme.com/220722/p12#a220722p12)
- - [If you have one of these Thread border routers, your smart home will be Matter-ready](https://www.theverge.com/2022/7/19/23269460/thread-1-3-0-matter-border-routers-homepod-mini-echo-nest)<!-- TECH:END -->
+ - [How to use Magic Eraser on Pixel 6 phones](https://www.theverge.com/23274291/pixel-6-phones-magic-eraser-how-to)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-asus-deal-sale)
+ - [Volkswagen CEO Herbert Diess to be replaced by Porsche chief in major shake-up](https://www.theverge.com/2022/7/22/23274382/volkswagen-ceo-herbert-diess-replace-porsche-oliver-blume)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
