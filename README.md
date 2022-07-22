@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mysterious red glow seen over the Atlantic, pilot says he\u2019s never seen anything like it. Via July 2022.](http://9gag.com/gag/aWg3Mj2)
- - 🚯 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
- - 🚯 [Sounds about Right](http://9gag.com/gag/aXr6Anv)<!-- MEMES:END -->
+ - 🚖 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
+ - 🚯 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
+ - 🚯 [Multiverse of chrises](http://9gag.com/gag/a41OZV6)<!-- MEMES:END -->
 
 --- 
 
