@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Magic Eraser on Pixel 6 phones](https://www.theverge.com/23274291/pixel-6-phones-magic-eraser-how-to)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-asus-deal-sale)
- - [Volkswagen CEO Herbert Diess to be replaced by Porsche chief in major shake-up](https://www.theverge.com/2022/7/22/23274382/volkswagen-ceo-herbert-diess-replace-porsche-oliver-blume)<!-- TECH:END -->
+ - [Mark Zuckerberg and Sheryl Sandberg set to be deposed about Cambridge Analytica](https://www.theverge.com/2022/7/22/23274364/mark-zuckerberg-sheryl-sandberg-deposed-cambridge-analytica-meta-leadership-facebook)
+ - [Instacart co-founder Apoorva Mehta, who stepped down as CEO in 2021, says he&#39;ll step down as Executive Chairman and leave the board once the company goes public &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220722/p14#a220722p14)
+ - [How macOS Ventura&#39;s background removal compares to Photoshop &amp; Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
