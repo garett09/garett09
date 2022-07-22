@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men ’97 reveals Magneto as new leader, plus season 2 on tap](https://www.polygon.com/sdcc/23270629/x-men-97-release-date-season-2-disney-plus-sdcc-2022)
- - [First trailer for Tales of the Walking Dead reveals new sides of the zombie-filled world](https://www.polygon.com/sdcc/23220130/tales-walking-dead-trailer-anthology)
- - [Bright Memory: Infinite Platinum Edition is Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/07/22/bright-memory-infinite-platinum-edition-is-now-available-on-xbox-series-xs/)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Updates, and Events](https://news.xbox.com/en-us/2022/07/22/this-week-on-xbox-new-games-updates-and-events-2/)
+ - [The Best Summer-Themed Games And Levels](https://kotaku.com/best-summer-games-hot-beaches-vacation-summertime-1849320875)
+ - [Nobody knows what Sauron looks like in The Rings of Power](https://www.polygon.com/sdcc/23274658/rings-of-power-sauron-anson-boon-annator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
