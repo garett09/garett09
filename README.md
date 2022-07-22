@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harvey Keitel’s returning to the National Treasure franchise](https://www.polygon.com/sdcc/23272382/national-treasure-edge-history-cast-disney-plus)
- - [Bringing brawling to life in Midnight Fight Express](https://blog.playstation.com/2022/07/22/bringing-brawling-to-life-in-midnight-fight-express/)
- - [This is the most demanding PC game in terms of GPU power &#39;and for a long time it had no graphics&#39;](https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics)<!-- GAME:END -->
+ - [Next Week on Xbox: July 25 to 29](https://news.xbox.com/en-us/2022/07/22/next-week-on-xbox-july-25-to-29/)
+ - [XPG Pylon 450](https://www.pcgamer.com/xpg-pylon-450-psu-review)
+ - [Everything new in The Last of Us Part 1 for PS5](https://www.polygon.com/23274016/the-last-of-us-part-1-ps5-release-date-changes-new-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
