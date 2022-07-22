@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: July 25 to 29](https://news.xbox.com/en-us/2022/07/22/next-week-on-xbox-july-25-to-29/)
- - [XPG Pylon 450](https://www.pcgamer.com/xpg-pylon-450-psu-review)
- - [Everything new in The Last of Us Part 1 for PS5](https://www.polygon.com/23274016/the-last-of-us-part-1-ps5-release-date-changes-new-features)<!-- GAME:END -->
+ - [The Dragon Prince returns to Netflix with a time skip this winter](https://www.polygon.com/sdcc/23274111/the-dragon-prince-season-4-netflix-footage-release-date-sdcc)
+ - [New report asks why Wallpaper Engine is such a hit in China, and turns out it&#39;s porn](https://www.pcgamer.com/new-report-asks-why-wallpaper-engine-is-such-a-hit-in-china-and-turns-out-its-porn)
+ - [Stray: How to unlock the atomic battery](https://www.pcgamer.com/stray-how-to-get-atomic-battery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
