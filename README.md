@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Fitbit Sense 2 photos show the capacitive button is dead](https://www.theverge.com/2022/7/22/23274463/fitbit-sense-2-versa-4-leaked-photos-buttons)
- - [How to remove and replace side plates on a PS5](https://www.androidauthority.com/remove-ps5-plates-3189567/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [FTX plans to allow customers of bankrupt crypto lender Voyager to create accounts funded by an early distribution of a part of their bankruptcy claims &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220722/p16#a220722p16)
+ - [MultiVersus adds Fortnite characters LeBron James and Rick and Morty](https://www.theverge.com/2022/7/22/23274680/multiversus-lebron-james-rick-and-morty-fortnite)
+ - [&#39;Spider-Man: Freshman Year&#39; Hits Disney Plus in 2024     - CNET](https://www.cnet.com/culture/entertainment/spider-man-freshman-year-hits-disney-plus-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
