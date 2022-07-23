@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile agrees to $350 million settlement over its massive 2021 data breach](https://www.theverge.com/2022/7/22/23274833/t-mobile-2021-hack-settlement-lawsuit-500-million)
- - [T-Mobile agrees to pay $350M to settle a class action lawsuit over a cyberattack in 2021 that impacted 76M+ customers and pledges $150M in security investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220722/p18#a220722p18)
- - [Meta adds an 18 and up tag in Horizon Worlds, opening the door to mature VR content](https://www.theverge.com/2022/7/22/23274676/meta-horizon-worlds-mature-content-18-plus-tag)<!-- TECH:END -->
+ - [The engineer who claimed a Google AI is sentient has been fired](https://www.theverge.com/2022/7/22/23274958/google-ai-engineer-blake-lemoine-chatbot-lamda-2-sentience)
+ - [Microsoft resumes blocking VBA macros by default in downloaded Office documents, after rolling it back earlier this month following user feedback &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220722/p20#a220722p20)
+ - [Netflix now features an external subscription button on iOS](https://appleinsider.com/articles/22/07/23/netflix-now-features-an-external-subscription-button-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
