@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The emotional damage left by the Rabbit burnt a hole through the Eagle&#39;s curriculum vitae](http://9gag.com/gag/aqGo7MZ)
- - 🚯 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
- - 🚯 [You Really Can&#39;t](http://9gag.com/gag/aeg8rnO)<!-- MEMES:END -->
+ - 🚖 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
+ - 🚯 [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
+ - 🚯 [The face of regret](http://9gag.com/gag/aVxyY3O)<!-- MEMES:END -->
 
 --- 
 
