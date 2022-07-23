@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walk The Distance makes exercise fun for those who’d rather be hiking](https://www.theverge.com/2022/7/23/23272407/walk-the-distance-app-exercise-motivation)
- - [Sources: FBI determined around 2017 that Huawei gear in cell towers near US military bases in the&amp;#8239;Midwest was capable of capturing and disrupting DoD comms &lpar;Katie Bo Lillis/CNN&rpar;](http://www.techmeme.com/220723/p4#a220723p4)
- - [Netflix reportedly starts linking iPhone and iPad users to an external sign-up page](https://www.theverge.com/2022/7/23/23275298/netflix-apple-external-sign-up-link-iphone-ipad-app-store)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-442-3189513/)
+ - [Quick question: would you buy a monitor from a company called Dough?](https://www.theverge.com/2022/7/23/23274889/eve-dough-name-change-spectrum-monitor-eve-v-tablet)
+ - [Meta closed down 7%+ and Alphabet closed down 5%+ on Friday, as Snap&#39;s weak earnings, inflation, and other factors lead to worries about online advertising &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220723/p5#a220723p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
