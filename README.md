@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because i work there. and im sorry](http://9gag.com/gag/a91gR2K)
- - 🚯 [Saw a random cat in the yard a few times. Gave it food and some scritches and now it doesn&#39;t want to leave me alone. A man needs a name](http://9gag.com/gag/aWg3YRd)
- - 🚯 [That happens when a cement truck has to stop quickly](http://9gag.com/gag/aGz4dKZ)<!-- MEMES:END -->
+ - 🚖 [Space debris witnessed in India.](http://9gag.com/gag/aGz4g3K)
+ - 🚯 [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
+ - 🚯 [US Politics](http://9gag.com/gag/aAGz38Z)<!-- MEMES:END -->
 
 --- 
 
