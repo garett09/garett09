@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Labeling all](http://9gag.com/gag/aWg38EA)
+ - 🚖 [Sounds about Right](http://9gag.com/gag/aXr6Anv)
  - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)
- - 🚯 [Happy Friday my fellow 1992 people, and to the rest of you sick bastards as well of course.](http://9gag.com/gag/a113d78)<!-- MEMES:END -->
+ - 🚯 [Just saw this episode. Probably the most bizarre, yet interesting thing I\u2019ve ever seen](http://9gag.com/gag/ay9jx3p)<!-- MEMES:END -->
 
 --- 
 
