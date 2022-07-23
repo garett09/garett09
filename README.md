@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
- - 🚯 [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
- - 🚯 [The face of regret](http://9gag.com/gag/aVxyY3O)<!-- MEMES:END -->
+ - 🚖 [After Covid hit me hard and failed to open my own small business, here&#39;s me aging trying to start a small Bee farm with my dad, wish us luck](http://9gag.com/gag/aogQNv3)
+ - 🚯 [Yeeeet](http://9gag.com/gag/avAK8rb)
+ - 🚯 [Is it a good news or ?](http://9gag.com/gag/aYrXYvO)<!-- MEMES:END -->
 
 --- 
 
