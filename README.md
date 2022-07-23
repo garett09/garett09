@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold TF UP](http://9gag.com/gag/aWg3mP6)
- - 🚯 [When your girl is mad at you](http://9gag.com/gag/amg4YO9)
- - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)<!-- MEMES:END -->
+ - 🚖 [Labeling all](http://9gag.com/gag/aWg38EA)
+ - 🚯 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)
+ - 🚯 [Happy Friday my fellow 1992 people, and to the rest of you sick bastards as well of course.](http://9gag.com/gag/a113d78)<!-- MEMES:END -->
 
 --- 
 
