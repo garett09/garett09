@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Ukraine&#39;s thriving tech sector amid war; National Bank of Ukraine: tech firms brought in $3.1B in revenue from January to May 2022, up from $2.5B YoY &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/220723/p1#a220723p1)
- - [How to reach Genshin Impact’s Golden Apple Archipelago](https://www.androidauthority.com/golden-apple-archipelago-genshin-3189653/)
- - [A South Carolina bill would make it illegal to host, or provide access to, a website with information that is &quot;reasonably likely to be used for an abortion&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220722/p21#a220722p21)<!-- TECH:END -->
+ - [Survey of 14K delivery drivers in Japan: most work 40 hours or less per week, 63% are satisfied with work, 82% would keep their jobs &quot;for a while&quot; or &quot;forever&quot; &lpar;Kaoruko Ishibushi/Rest of World&rpar;](http://www.techmeme.com/220723/p2#a220723p2)
+ - [10 Great Deals on TVs, Keyboards, and Robot Vacuums](https://www.wired.com/story/weekend-deals-july-23-2022/)
+ - [Best Women&#39;s Running Shoes for 2022: Asics, Brooks and More     - CNET](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
