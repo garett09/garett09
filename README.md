@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Culture meme](http://9gag.com/gag/aKmodBO)
- - 🚯 [Here](http://9gag.com/gag/angP5Kz)
- - 🚯 [Is it a good news or ?](http://9gag.com/gag/aYrXYvO)<!-- MEMES:END -->
+ - 🚖 [Because i work there. and im sorry](http://9gag.com/gag/a91gR2K)
+ - 🚯 [Saw a random cat in the yard a few times. Gave it food and some scritches and now it doesn&#39;t want to leave me alone. A man needs a name](http://9gag.com/gag/aWg3YRd)
+ - 🚯 [That happens when a cement truck has to stop quickly](http://9gag.com/gag/aGz4dKZ)<!-- MEMES:END -->
 
 --- 
 
