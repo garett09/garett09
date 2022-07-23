@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After Covid hit me hard and failed to open my own small business, here&#39;s me aging trying to start a small Bee farm with my dad, wish us luck](http://9gag.com/gag/aogQNv3)
- - 🚯 [Yeeeet](http://9gag.com/gag/avAK8rb)
+ - 🚖 [Culture meme](http://9gag.com/gag/aKmodBO)
+ - 🚯 [Here](http://9gag.com/gag/angP5Kz)
  - 🚯 [Is it a good news or ?](http://9gag.com/gag/aYrXYvO)<!-- MEMES:END -->
 
 --- 
