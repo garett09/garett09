@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [The Walking Dead’s Rick Grimes movie is now a romantic Walking Dead TV show](https://www.polygon.com/sdcc/23274953/walking-dead-rick-grimes-movie-tv-series-michonne-romance)
- - [PlayStation’s Summer Sale Includes Big Discounts On Star Wars, Assassin’s Creed, Batman](https://kotaku.com/playstation-summer-sale-best-ps4-ps5-star-wars-batman-1849321596)<!-- GAME:END -->
+ - [Dragon Ball Super: Super Hero gets Comic-Con trailer ahead of August release](https://www.polygon.com/sdcc/23275016/dragon-ball-super-super-hero-movie-comic-con-panel-recap-trailer)
+ - [The new animated Avatar movie will star Aang and the Gaang as adults](https://www.polygon.com/sdcc/23275015/animated-avatar-airbender-movie-aang)
+ - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
