@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suffering in silence](http://9gag.com/gag/amg47j4)
- - 🚯 [That&#39;s it, I&#39;m going to get forklift certified](http://9gag.com/gag/a0ZyQRv)
- - 🚯 [Shibuya Crossing is the world&#39;s busiest pedestrian crossing, with as many as 3,000 people crossing at a time.](http://9gag.com/gag/a510oxO)<!-- MEMES:END -->
+ - 🚖 [Post nut clarity hits different.](http://9gag.com/gag/aKmojKN)
+ - 🚯 [Suffering in silence](http://9gag.com/gag/amg47j4)
+ - 🚯 [The face of regret](http://9gag.com/gag/aVxyY3O)<!-- MEMES:END -->
 
 --- 
 
