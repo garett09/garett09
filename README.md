@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [23 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
- - [Keanu Reeves and Donnie Yen square off in a sword and gun fight in the John Wick 4 trailer](https://www.polygon.com/sdcc/23275339/john-wick-4-trailer-release-date-cast-donnie-yen-keanu-reeves)
- - [The Best PS2 Games On PS Plus](https://kotaku.com/ps-plus-ps2-jak-and-daxter-red-faction-2-dark-cloud-2-1849321489)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor toys show off Cal Kestis’ new look](https://www.polygon.com/sdcc/23275481/star-wars-jedi-survivor-cal-kestis-new-look-hasbro-toys-droids)
+ - [5 PC games that should be way more popular than they are](https://www.pcgamer.com/5-pc-games-that-should-be-way-more-popular-than-they-are)
+ - [23 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
