@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think the ball is about to get grounded, these two volleyball teams keep fighting for the play.](http://9gag.com/gag/ay9jXeV)
- - 🚯 [Just a reminder](http://9gag.com/gag/avAK7wM)
- - 🚯 [Huge number of bats coming out of a cave.](http://9gag.com/gag/aXr6vYg)<!-- MEMES:END -->
+ - 🚖 [Happy birthday](http://9gag.com/gag/a81xojY)
+ - 🚯 [When you think the ball is about to get grounded, these two volleyball teams keep fighting for the play.](http://9gag.com/gag/ay9jXeV)
+ - 🚯 [Shibuya Crossing is the world&#39;s busiest pedestrian crossing, with as many as 3,000 people crossing at a time.](http://9gag.com/gag/a510oxO)<!-- MEMES:END -->
 
 --- 
 
