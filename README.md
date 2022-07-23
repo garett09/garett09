@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are welcome.](http://9gag.com/gag/a61Yo3A)
- - 🚯 [This is fine](http://9gag.com/gag/aGz4jj5)
- - 🚯 [Still worth it.](http://9gag.com/gag/ay9jxOr)<!-- MEMES:END -->
+ - 🚖 [Judge had me wheezing at the end lol](http://9gag.com/gag/amg47Oy)
+ - 🚯 [Suffering in silence](http://9gag.com/gag/amg47j4)
+ - 🚯 [You are welcome.](http://9gag.com/gag/a61Yo3A)<!-- MEMES:END -->
 
 --- 
 
