@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor toys show off Cal Kestis’ new look](https://www.polygon.com/sdcc/23275481/star-wars-jedi-survivor-cal-kestis-new-look-hasbro-toys-droids)
- - [5 PC games that should be way more popular than they are](https://www.pcgamer.com/5-pc-games-that-should-be-way-more-popular-than-they-are)
- - [23 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)<!-- GAME:END -->
+ - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
+ - [Shazam 2 trailer shows off the villains and introduces Rachel Zegler](https://www.polygon.com/sdcc/23132820/shazam-fury-of-the-gods-trailer-release-date-cast-zegler-mirren-liu)
+ - [Star Wars Jedi: Survivor toys show off Cal Kestis’ new look](https://www.polygon.com/sdcc/23275481/star-wars-jedi-survivor-cal-kestis-new-look-hasbro-toys-droids)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
