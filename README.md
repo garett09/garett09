@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Space debris witnessed in India.](http://9gag.com/gag/aGz4g3K)
+ - 🚖 [It&#39;s morbin time](http://9gag.com/gag/angP5EB)
  - 🚯 [Norwegians....](http://9gag.com/gag/axBq7Lb)
- - 🚯 [He got divorced](http://9gag.com/gag/aWg3EN6)<!-- MEMES:END -->
+ - 🚯 [Every darn time.](http://9gag.com/gag/amg4v49)<!-- MEMES:END -->
 
 --- 
 
