@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post nut clarity hits different.](http://9gag.com/gag/aKmojKN)
+ - 🚖 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
  - 🚯 [Suffering in silence](http://9gag.com/gag/amg47j4)
- - 🚯 [The face of regret](http://9gag.com/gag/aVxyY3O)<!-- MEMES:END -->
+ - 🚯 [Hell yes!! First look at John Wick 4.](http://9gag.com/gag/a71RMbq)<!-- MEMES:END -->
 
 --- 
 
