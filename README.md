@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [Shazam 2 trailer shows off the villains and introduces Rachel Zegler](https://www.polygon.com/sdcc/23132820/shazam-fury-of-the-gods-trailer-release-date-cast-zegler-mirren-liu)
- - [Star Wars Jedi: Survivor toys show off Cal Kestis’ new look](https://www.polygon.com/sdcc/23275481/star-wars-jedi-survivor-cal-kestis-new-look-hasbro-toys-droids)<!-- GAME:END -->
+ - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)
+ - [New Black Adam trailer shows off the Justice Society, more antihero antics](https://www.polygon.com/sdcc/23270082/black-adam-trailer-sdcc-2022-the-rock-dwayne-johnson-justice-society)
+ - [The biggest news and announcements from Warner Bros.’ SDCC 2022 panel](https://www.polygon.com/sdcc/23272917/dc-panel-warner-bros-news-trailers-announcements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
