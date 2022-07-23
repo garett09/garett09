@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He got divorced](http://9gag.com/gag/aWg3EN6)
- - 🚯 [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
- - 🚯 [Norwegians....](http://9gag.com/gag/axBq7Lb)<!-- MEMES:END -->
+ - 🚖 [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
+ - 🚯 [That happens when a cement truck has to stop quickly](http://9gag.com/gag/aGz4dKZ)
+ - 🚯 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)<!-- MEMES:END -->
 
 --- 
 
