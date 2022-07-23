@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [Black Adam revealed its secret villain to San Diego Comic-Con fans only](https://www.polygon.com/sdcc/23275572/black-adam-villain-dwayne-johnson-the-rock-sabbac-sdcc)
- - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)<!-- GAME:END -->
+ - [Star Trek: Lower Decks sets its parody sights on Deep Space 9 in new trailer](https://www.polygon.com/sdcc/23275659/star-trek-lower-decks-season-3-trailer-release-date-deep-space-9)
+ - [Star Trek: Strange New Worlds and Lower Decks crews will meet in a crossover event](https://www.polygon.com/sdcc/23269322/star-trek-crossover-strange-new-worlds-lower-decks-jonathan-frakes)
+ - [San Diego Comic-Con 2022](https://www.polygon.com/sdcc/23186970/san-diego-comic-con-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
