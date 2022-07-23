@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash and Uber Eats are moving beyond food, focusing on groceries and alcohol, as users cut spending due to high inflation and a potential economic downturn &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/220723/p11#a220723p11)
- - [Star Trek teases Picard cast and Strange New Worlds crossover](https://www.theverge.com/2022/7/23/23275444/star-trek-picard-cast-strange-new-world-crossover-trailer-teaser-paramount-plus-patrick-stewart)
- - [Game of Thrones in 4K is coming to HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)<!-- TECH:END -->
+ - [Gamers in China, where online porn is banned, are using the Steam app Wallpaper Engine as a cloud drive and a video player to exchange adult-only content &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220723/p12#a220723p12)
+ - [Report: Exec running Texas Tesla factory is under investigation for misappropriated glass](https://www.theverge.com/2022/7/23/23275638/tesla-texas-tesla-factory-executive-investigation-misappropriated-glass-omead-afshar)
+ - [&#39;See&#39; trailer released at San Diego Comic Con in Apple TV+ show teases](https://appleinsider.com/articles/22/07/23/see-trailer-released-at-san-diego-comic-con-in-apple-tv-show-teases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
