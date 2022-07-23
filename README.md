@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a frequent traveler, I’ll never buy a phone without an eSIM slot](https://www.androidauthority.com/esim-travel-data-3187090/)
- - [The New RevAir Hair Dryer Is Speedier, Smaller, and Sleeker](https://www.wired.com/review/new-revair-reverse-air-dryer-2022/)
- - [The Mazda MX-30 Is Big on Charm but Short on Everything Else](https://www.wired.com/review/mazda-mx-30/)<!-- TECH:END -->
+ - [Daily deals July 23: $999 M1 13-inch MacBook Pro, $55 Razer Kishi, $145 Netgear Orbi Pro, more](https://appleinsider.com/articles/22/07/23/daily-deals-july-23-999-m1-13-inch-macbook-pro-55-razer-kishi-145-netgear-orbi-pro-more?utm_medium=rss)
+ - [The January 6 Secret Service Text Scandal Turns Criminal](https://www.wired.com/story/secret-service-jan-6-text-scandal/)
+ - [Google Wallet Is Back, for Some Reason](https://www.wired.com/story/google-wallet-samsung-unpacked-amazon-one-medical/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
