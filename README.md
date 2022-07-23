@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Space debris witnessed in India.](http://9gag.com/gag/aGz4g3K)
- - 🚯 [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
- - 🚯 [US Politics](http://9gag.com/gag/aAGz38Z)<!-- MEMES:END -->
+ - 🚯 [Norwegians....](http://9gag.com/gag/axBq7Lb)
+ - 🚯 [He got divorced](http://9gag.com/gag/aWg3EN6)<!-- MEMES:END -->
 
 --- 
 
