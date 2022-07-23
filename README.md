@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monkeypox is now a global emergency, World Health Organization says](https://www.theverge.com/2022/7/23/23275380/monkeypox-global-emergency-world-health-organization)
- - [The Dutch Ministry of Education suspends the use of Chrome OS and Chrome browser until August 2023 over concerns about student data privacy and GDPR violations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220723/p6#a220723p6)
- - [Alpine A110 E-ternite Is Full of French Innovation     - CNET](https://www.cnet.com/roadshow/pictures/alpine-a110-e-ternite-prototype-electric-convertible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blockchain infrastructure company Chain acquires Measurable Data Token ecosystem, including cash-back app RewardMe and financial data protocol MeFi, for $100M &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220723/p8#a220723p8)
+ - [After years of failing to learn languages on Duolingo, I switched to Memrise](https://www.androidauthority.com/memrise-language-learning-versus-duolingo-3185707/)
+ - [Shazam! Fury of the Gods’ first trailer introduces a delightful villain](https://www.theverge.com/2022/7/23/23268474/shazam-fury-of-the-gods-trailer-helen-mirren-sdcc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
