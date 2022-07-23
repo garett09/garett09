@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 14K delivery drivers in Japan: most work 40 hours or less per week, 63% are satisfied with work, 82% would keep their jobs &quot;for a while&quot; or &quot;forever&quot; &lpar;Kaoruko Ishibushi/Rest of World&rpar;](http://www.techmeme.com/220723/p2#a220723p2)
- - [10 Great Deals on TVs, Keyboards, and Robot Vacuums](https://www.wired.com/story/weekend-deals-july-23-2022/)
- - [Best Women&#39;s Running Shoes for 2022: Asics, Brooks and More     - CNET](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As a frequent traveler, I’ll never buy a phone without an eSIM slot](https://www.androidauthority.com/esim-travel-data-3187090/)
+ - [The New RevAir Hair Dryer Is Speedier, Smaller, and Sleeker](https://www.wired.com/review/new-revair-reverse-air-dryer-2022/)
+ - [The Mazda MX-30 Is Big on Charm but Short on Everything Else](https://www.wired.com/review/mazda-mx-30/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
