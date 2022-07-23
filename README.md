@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy birthday](http://9gag.com/gag/a81xojY)
- - 🚯 [When you think the ball is about to get grounded, these two volleyball teams keep fighting for the play.](http://9gag.com/gag/ay9jXeV)
- - 🚯 [Shibuya Crossing is the world&#39;s busiest pedestrian crossing, with as many as 3,000 people crossing at a time.](http://9gag.com/gag/a510oxO)<!-- MEMES:END -->
+ - 🚖 [You are welcome.](http://9gag.com/gag/a61Yo3A)
+ - 🚯 [This is fine](http://9gag.com/gag/aGz4jj5)
+ - 🚯 [Still worth it.](http://9gag.com/gag/ay9jxOr)<!-- MEMES:END -->
 
 --- 
 
