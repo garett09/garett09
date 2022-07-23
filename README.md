@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy birthday](http://9gag.com/gag/a81xojY)
- - 🚯 [Just saw this episode. Probably the most bizarre, yet interesting thing I\u2019ve ever seen](http://9gag.com/gag/ay9jx3p)
- - 🚯 [Does he have a good point or nah?](http://9gag.com/gag/a81xyMQ)<!-- MEMES:END -->
+ - 🚖 [Just saw this episode. Probably the most bizarre, yet interesting thing I\u2019ve ever seen](http://9gag.com/gag/ay9jx3p)
+ - 🚯 [On today&#39;s episode on `how brake pads are recycled`, sponsored by Windows Recycle Bin](http://9gag.com/gag/a91grK1)
+ - 🚯 [Happy birthday](http://9gag.com/gag/a81xojY)<!-- MEMES:END -->
 
 --- 
 
