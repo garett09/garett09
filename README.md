@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pin-tailed Whydah Courtship Display](http://9gag.com/gag/a2164gZ)
- - 🚯 [Just a reminder](http://9gag.com/gag/avAK7wM)
- - 🚯 [Just saw this episode. Probably the most bizarre, yet interesting thing I\u2019ve ever seen](http://9gag.com/gag/ay9jx3p)<!-- MEMES:END -->
+ - 🚖 [Happy birthday](http://9gag.com/gag/a81xojY)
+ - 🚯 [Just saw this episode. Probably the most bizarre, yet interesting thing I\u2019ve ever seen](http://9gag.com/gag/ay9jx3p)
+ - 🚯 [Does he have a good point or nah?](http://9gag.com/gag/a81xyMQ)<!-- MEMES:END -->
 
 --- 
 
