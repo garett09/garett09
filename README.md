@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
- - 🚯 [Suffering in silence](http://9gag.com/gag/amg47j4)
- - 🚯 [Hell yes!! First look at John Wick 4.](http://9gag.com/gag/a71RMbq)<!-- MEMES:END -->
+ - 🚖 [The emotional damage left by the Rabbit burnt a hole through the Eagle&#39;s curriculum vitae](http://9gag.com/gag/aqGo7MZ)
+ - 🚯 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)
+ - 🚯 [You Really Can&#39;t](http://9gag.com/gag/aeg8rnO)<!-- MEMES:END -->
 
 --- 
 
