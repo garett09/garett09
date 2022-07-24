@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wakanda 3000](http://9gag.com/gag/avAKyMW)
- - 🚯 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
- - 🚯 [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)<!-- MEMES:END -->
+ - 🚖 [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)
+ - 🚯 [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
+ - 🚯 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)<!-- MEMES:END -->
 
 --- 
 
