@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old Hollywood Bloopers](http://9gag.com/gag/a61Y1q9)
- - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)
- - 🚯 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
+ - 🚖 [That\u2019s it](http://9gag.com/gag/aLv7pnP)
+ - 🚯 [The Feeler: My truth](http://9gag.com/gag/a0ZyZOB)
+ - 🚯 [I&#39;m not saying you&#39;re good, I&#39;m just saying you&#39;re not THAT bad](http://9gag.com/gag/aE8mpZM)<!-- MEMES:END -->
 
 --- 
 
