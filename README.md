@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Techno on one acoustic guitar](http://9gag.com/gag/a0ZyZ3v)
- - 🚯 [Germany has come for you](http://9gag.com/gag/aogQK0m)
- - 🚯 [France in anime VS reality](http://9gag.com/gag/apgZ9P9)<!-- MEMES:END -->
+ - 🚖 [Germany has come for you](http://9gag.com/gag/aogQK0m)
+ - 🚯 [What&#39;re you doing step-planes](http://9gag.com/gag/aLv71AA)
+ - 🚯 [Aye it be so](http://9gag.com/gag/abgngKp)<!-- MEMES:END -->
 
 --- 
 
