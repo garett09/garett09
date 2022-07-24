@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)
- - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)
- - 🚯 [Well water is wet so...](http://9gag.com/gag/aogQPd2)<!-- MEMES:END -->
+ - 🚯 [Well water is wet so...](http://9gag.com/gag/aogQPd2)
+ - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)<!-- MEMES:END -->
 
 --- 
 
