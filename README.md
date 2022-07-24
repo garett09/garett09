@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)
- - 🚯 [Well water is wet so...](http://9gag.com/gag/aogQPd2)
- - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)<!-- MEMES:END -->
+ - 🚖 [Old Hollywood Bloopers](http://9gag.com/gag/a61Y1q9)
+ - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)
+ - 🚯 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
 
 --- 
 
