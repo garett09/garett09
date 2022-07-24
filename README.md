@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s the official slate for Marvel’s Phase 5 and 6](https://www.polygon.com/sdcc/23275835/marvel-mcu-phase-5-schedule-calendar-upcoming-ant-man)
- - [Marvel announces a Fantastic Four movie release date](https://www.polygon.com/sdcc/23272901/comic-con-fantastic-four-revealed-release-date)
- - [Guardians of the Galaxy Vol. 3 will be the ‘end of this team’](https://www.polygon.com/20702317/guardians-of-the-galaxy-vol-3-adam-warlock-trailer-james-gunn)<!-- GAME:END -->
+ - [Avengers: Secret Wars could give the MCU the ultimate superpower: a reboot](https://www.polygon.com/sdcc/23275883/marvel-phase-6-secret-wars-kang-dynasty)
+ - [Gotham Knights: Everything we know about the co-op Bat Family game](https://www.pcgamer.com/gotham-knights-release-date-characters-gameplay)
+ - [Magic’s Unfinity set will include stickers so players can make their own cards](https://www.polygon.com/sdcc/23274559/mtg-unfinity-stickers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
