@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s 30 minutes of American Truck Simulator: Montana to soothe your frazzled nerves](https://www.pcgamer.com/heres-30-minutes-of-american-truck-simulator-montana-to-soothe-your-frazzled-nerves)
  - [Hear me out: Risk of Rain 2 is the Mario 64 of roguelikes](https://www.polygon.com/reviews/23274644/risk-of-rain-2-review-roguelike-mario-64-windows-switch-xbox-ps4)
- - [Today&#39;s Wordle answer #400: Sunday, July 24](https://www.pcgamer.com/wordle-today-july-24-400-answer-hint)
- - [Everything we know about Namor, Black Panther 2’s supposed new villain](https://www.polygon.com/sdcc/23275915/namor-black-panther-2-villain-mcu)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #400: Sunday, July 24](https://www.pcgamer.com/wordle-today-july-24-400-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
