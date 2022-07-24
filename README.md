@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [... it appeals to the male fantasy.](http://9gag.com/gag/arn7m1d)
- - 🚯 [The Feeler: My truth](http://9gag.com/gag/a0ZyZOB)
- - 🚯 [Inherited this beauty from my father. Only 67000 km. Complete history intact. Now fully serviced ready to travel.](http://9gag.com/gag/aM4M4DG)<!-- MEMES:END -->
+ - 🚯 [Inherited this beauty from my father. Only 67000 km. Complete history intact. Now fully serviced ready to travel.](http://9gag.com/gag/aM4M4DG)
+ - 🚯 [Techno on one acoustic guitar](http://9gag.com/gag/a0ZyZ3v)<!-- MEMES:END -->
 
 --- 
 
