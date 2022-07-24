@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cooking with a view](http://9gag.com/gag/a71RW7e)
+ - 🚖 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)
  - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)
- - 🚯 [I&#39;m 28 man and today i received my first flower bouquet.](http://9gag.com/gag/aGz4dGZ)<!-- MEMES:END -->
+ - 🚯 [Well water is wet so...](http://9gag.com/gag/aogQPd2)<!-- MEMES:END -->
 
 --- 
 
