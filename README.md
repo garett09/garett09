@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 24: $499 M1 Mac mini, $328 Vizio 55-inch smart TV, $79 AirTag 4-pack, more](https://appleinsider.com/articles/22/07/24/daily-deals-july-24-699-m1-mac-mini-328-vizio-55-inch-smart-tv-79-airtag-4-pack-more?utm_medium=rss)
- - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)
- - [A look at attacks on internet cables in France in April 2022, when &quot;backbone cables&quot; were surgically cut in three locations around Paris in around two hours &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220724/p3#a220724p3)<!-- TECH:END -->
+ - [When Google Maps struggles, Citymapper comes to my rescue](https://www.androidauthority.com/citymapper-vs-google-maps-3189239/)
+ - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)
+ - [Novavax: Everything You Should Know About the Newest COVID-19 Vaccine     - CNET](https://www.cnet.com/health/medical/novavax-everything-you-should-know-about-the-newest-covid-19-vaccine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
