@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
- - [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
- - [As Dusk Falls’ couch co-op makes a middling thriller a lot more memorable](https://www.theverge.com/2022/7/24/23274602/as-dusk-falls-xbox-game-pass-review-couch-co-op)<!-- TECH:END -->
+ - [Rugged &#39;Apple Watch Pro&#39; could have an upgraded titanium-based design](https://appleinsider.com/articles/22/07/24/rugged-apple-watch-pro-could-have-an-upgraded-titanium-based-design?utm_medium=rss)
+ - [JBL’s PartyBoost is why I’ll never buy another Bluetooth speaker](https://www.androidauthority.com/jbl-partyboost-3187818/)
+ - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
