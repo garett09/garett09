@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When unavoidable ads appear in a product I’ve paid for, I stop using it](https://www.androidauthority.com/ads-opinion-3186664/)
- - [BeReal Basics: How to Use the &#39;Unfiltered&#39; Social Media App](https://www.wired.com/story/how-to-use-bereal/)
- - [Life Helps Make Almost Half of All Minerals on Earth](https://www.wired.com/story/life-helps-make-almost-half-of-all-minerals-on-earth/)<!-- TECH:END -->
+ - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
+ - [As Dusk Falls’ couch co-op makes a middling thriller a lot more memorable](https://www.theverge.com/2022/7/24/23274602/as-dusk-falls-xbox-game-pass-review-couch-co-op)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
