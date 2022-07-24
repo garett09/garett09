@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany has come for you](http://9gag.com/gag/aogQK0m)
- - 🚯 [What&#39;re you doing step-planes](http://9gag.com/gag/aLv71AA)
- - 🚯 [Aye it be so](http://9gag.com/gag/abgngKp)<!-- MEMES:END -->
+ - 🚖 [My mom saved this swift chick from cats, feeding him with insects, waiting for him to be strong enough to set him free.](http://9gag.com/gag/aKmoGgZ)
+ - 🚯 [Blue Jay](http://9gag.com/gag/aWg3GO6)
+ - 🚯 [Let&#39;s traumatize an entire generation](http://9gag.com/gag/aVxyxyw)<!-- MEMES:END -->
 
 --- 
 
