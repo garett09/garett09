@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat](http://9gag.com/gag/a81xA4V)
- - 🚯 [Praise be to God!](http://9gag.com/gag/aYrXQWq)
- - 🚯 [You can tell this is Japan cuz no one shoved him out after the 2nd time.](http://9gag.com/gag/awzWyNx)<!-- MEMES:END -->
+ - 🚖 [You can tell this is Japan cuz no one shoved him out after the 2nd time.](http://9gag.com/gag/awzWyNx)
+ - 🚯 [I am Chorizo.](http://9gag.com/gag/avAKWgO)
+ - 🚯 [Wakanda 3000](http://9gag.com/gag/avAKyMW)<!-- MEMES:END -->
 
 --- 
 
