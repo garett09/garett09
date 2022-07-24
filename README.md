@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [English is weird](http://9gag.com/gag/ay9jeLy)
- - 🚯 [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
- - 🚯 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
+ - 🚖 [Cooking with a view](http://9gag.com/gag/a71RW7e)
+ - 🚯 [Loopool](http://9gag.com/gag/aLv7pPz)
+ - 🚯 [I&#39;m 28 man and today i received my first flower bouquet.](http://9gag.com/gag/aGz4dGZ)<!-- MEMES:END -->
 
 --- 
 
